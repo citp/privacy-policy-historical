@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the psxextreme.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509161627id_/http%3A//psxextreme.com/home/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the psxextreme.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216031057id_/http%3A//www.psxextreme.com/home/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
@@ -7,9 +7,9 @@
 		<meta name="description" content="Playstation 3 (PS3), Sony PSP, Playstation 2 (PS2) &amp; PSone cheats, news, reviews, videos &amp; more updated 24/7.">
 		<meta name="keywords" content="ps2, psp, ps1, ps3, sony psp, playstation portable, playstation, playstation 2, sony psp, playstation cheats, playstation 2 cheats, psp cheats, ps2 cheats, ps2 cheat codes, playstation 2 cheat codes, cheat codes, walkthrough, walkthroughs, game reviews, sony ps3, ps3 news, ps2 games, ps2 codes, ps2 game reviews">
 		<meta name="verify-v1" content="H0xCdEovvnZueI99Fl+xDVdy8wxQayWm2fE0hnFY+GA=">
+		<meta name="verify-v1" content="aLerwaJisFap0gaJJwp3H0ELrc6ARBOugHIByysGczk=">
 		<style type="text/css">
-			@import '/default.css';
-			@import '/oldstyles.css';
+			@import 'http://images.psxextreme.com/default.css';
 		</style>
 		<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.psxextreme.com/scripts/advtrace/advtrace.asp?url=http://www.psxextreme.com/rss">
 		
@@ -29,14 +29,37 @@
 				day = new Date();
 				id = day.getTime();
 				left = (screen.width - width) / 2;
-				top = (screen.height - height) / 2;
+				mtop = (screen.height - height) / 2;
 				URL = obj.href;
-				eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=1,width=' + width + ',height=' + height + ',left=' + left + ',top=' + top);");
+				eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=1,width=' + width + ',height=' + height + ',left=' + left + ',top=' + mtop);");
 			}
 		</script>
+		<!-- PUT THIS TAG IN THE head SECTION -->
+		<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+		</script>
+		<script type="text/javascript">
+		  GS_googleAddAdSenseService("ca-pub-3087106600494577");
+		  GS_googleEnableAllServices();
+		</script>
+		<script type="text/javascript">
+		  GA_googleAddSlot("ca-pub-3087106600494577", "PSXextreme_Fixed_300x100");
+		</script>
+		<script type="text/javascript">
+		  GA_googleFetchAds();
+		</script>
+		<!-- END OF TAG FOR head SECTION -->
 	</head>
 
 	<body>
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+		_uacct = "UA-2495561-1";
+		urchinTracker();
+		
+		_uff = 0; // Reset flag to allow for second account
+		_uacct = "UA-20142-20";
+		</script>
 		<div id="page">
 			<div id="topbar">
 				<p id="pagetitle">Privacy Policy</p>
@@ -44,8 +67,6 @@
 <a href="/home/ps2.asp">PS2</a> |
 <a href="/home/playstation-3.asp">PS3</a> |
 <a href="/home/sony-psp.asp">PSP</a> |
-<a href="http://www.xboxnerds.com/Xbox/">XBOX</a> |
-<a href="http://www.xboxnerds.com/Xbox-360/">XBOX 360</a> |
 <a href="http://www.psxextremeforums.com">Forums</a></p>
 			</div>
 			
@@ -69,7 +90,7 @@
 					<form id="searchbox_000906192770151530630:t_qelzoalx4" action="http://www.psxextreme.com/home/search.asp">
 						<p>
 							<input type="hidden" name="cx" value="000906192770151530630:t_qelzoalx4">
-							<input name="q" type="text" size="17"> <input src="/img/sbut.gif" name="sa" style="vertical-align: middle;" value=">" type="image">
+							<input name="q" type="text" size="17"> <input src="http://images.psxextreme.com/img/sbut.gif" name="sa" style="vertical-align: middle;" value="Go" type="image">
 							<input type="hidden" name="cof" value="FORID:11">
 						</p>
 					</form>
@@ -80,18 +101,19 @@
 			
 			<div id="midbar">
 				<div id="loginbox">
-					<form method="post" action="/users/login.asp">
+					<form method="post" action="http://www.psxextreme.com/users/login.asp" onsubmit="email = document.getElementById('login_email').value; password = document.getElementById('login_password').value; if (email == 'Email Address' || email == '' || password == 'Password' || password == '') { alert('Please fill in your login details.'); return false; }">
 						<p><strong>Member Panel</strong></p>
-						<p><input type="text" name="email" value="Email Address" onfocus="if (this.value == this.defaultValue) this.value = '';"></p>
-						<p><input type="password" name="password" value="Password" onfocus="if (this.value == this.defaultValue) this.value = '';"></p>
+						<p><input type="text" name="email" id="login_email" value="Email Address" onfocus="if (this.value == this.defaultValue) this.value = '';"></p>
+						<p><input type="password" name="password" id="login_password" value="Password" onfocus="if (this.value == this.defaultValue) this.value = '';"></p>
 						<p id="loginhelp"><small><a href="/users/register.asp" rel="nofollow">Register</a> | <a href="#" rel="nofollow">Why sign up?</a><br><a href="/users/login.asp" rel="nofollow">Forgot Password?</a></small></p>
-						<p id="loginbutton"><button type="submit"><img src="http://beta.psxextreme.com/images/design/loginbox/gobutton.gif" alt="Go"></button></p>
+						<p id="loginbutton"><button type="submit"><img src="http://images.psxextreme.com/images/design/loginbox/gobutton.gif" alt="Go"></button></p>
+						<input type="hidden" name="keep" value="yes">
 					</form>
 				</div>
 				<div id="midbarad">
-					<div><!-- AdSpeed.com Serving Code 7.9 for [Zone] PSX Extreme ROS Lead 728x90 -->
-<script type="text/javascript">var a=new Date();var q='&tz='+a.getTimezoneOffset()/60 +'&ck='+(navigator.cookieEnabled?'Y':'N') +'&jv='+(navigator.javaEnabled()?'Y':'N') +'&scr='+screen.width+'x'+screen.height+'x'+screen.colorDepth +'&z='+Math.random() +'&ref='+escape(document.referrer.substr(0,255)) +'&uri='+escape(document.URL.substr(0,255));document.write('<ifr'+'ame width="728" height="90" src="https://g.adspeed.net/ad.php?do=html&zid=16502&wd=728&ht=90&target=_top'+q+'" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></ifr'+'ame>');</script><iframe width="728" height="90" src="https://g.adspeed.net/ad.php?do=html&amp;zid=16502&amp;wd=728&amp;ht=90&amp;target=_top&amp;tz=0&amp;ck=Y&amp;jv=N&amp;scr=800x600x24&amp;z=0.6362953010684753&amp;ref=&amp;uri=https%3A//web.archive.org/web/20080509161627id_/http%253A//psxextreme.com/home/privacy_policy.asp" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></iframe>
-<noscript><iframe width="728" height="90" src="https://g.adspeed.net/ad.php?do=html&zid=16502&wd=728&ht=90&target=_top" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"><a href="https://g.adspeed.net/ad.php?do=clk&zid=16502&wd=728&ht=90&pair=as" target="_top"><img style="border:0px;" src="https://g.adspeed.net/ad.php?do=img&zid=16502&wd=728&ht=90&pair=as" alt="i" width="728" height="90"/></a></iframe>
+					<div><!-- AdSpeed.com Serving Code 7.9.3 for [Zone] PSX Extreme ROS Lead 728x90 -->
+<script type="text/javascript">var a=new Date();var q='&tz='+a.getTimezoneOffset()/60 +'&ck='+(navigator.cookieEnabled?'Y':'N') +'&jv='+(navigator.javaEnabled()?'Y':'N') +'&scr='+screen.width+'x'+screen.height+'x'+screen.colorDepth +'&z='+Math.random() +'&ref='+escape(document.referrer.substr(0,255)) +'&uri='+escape(document.URL.substr(0,255));document.write('<ifr'+'ame width="728" height="90" src="http://g.adspeed.net/ad.php?do=html&zid=16502&wd=728&ht=90&target=_top'+q+'" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></ifr'+'ame>');</script><iframe width="728" height="90" src="http://g.adspeed.net/ad.php?do=html&amp;zid=16502&amp;wd=728&amp;ht=90&amp;target=_top&amp;tz=0&amp;ck=Y&amp;jv=N&amp;scr=800x600x24&amp;z=0.4694559989519347&amp;ref=&amp;uri=https%3A//web.archive.org/web/20081216031057id_/http%253A//www.psxextreme.com/home/privacy_policy.asp" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></iframe>
+<noscript><iframe width="728" height="90" src="http://g.adspeed.net/ad.php?do=html&zid=16502&wd=728&ht=90&target=_top" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"><a href="http://g.adspeed.net/ad.php?do=clk&zid=16502&wd=728&ht=90&pair=as" target="_top"><img style="border:0px;" src="http://g.adspeed.net/ad.php?do=img&zid=16502&wd=728&ht=90&pair=as" alt="i" width="728" height="90"/></a></iframe>
 </noscript><!-- AdSpeed.com End --></div>
 				</div>
 			</div>
@@ -154,7 +176,6 @@
 					</ul>
 					<h2>Get Stuff</h2>
 					<ul>
-						<li><a href="http://psxextreme.sayswap.com/">Trade Games</a></li>
 						<li><a href="/scripts/nl/nl.asp">Win a PS3</a></li>
 					</ul>
 					<h2>Interact</h2>
@@ -168,7 +189,13 @@
 						<li><a href="/home/aboutus.asp">About Us</a></li>
 						<li><a href="/home/links.asp">Links</a></li>
 						<li><a href="/home/privacy_policy.asp">Privacy Policy</a></li>
-						<li><a href="/home/contactus.asp">Advertising</a></li>
+						<li><a href="/home/aboutus.asp?subject=1#contactform">Advertising</a></li>
+					</ul>
+					<h2>Site Stats <sup style="font-size: 5pt;">BETA</sup></h2>
+					<ul style="padding-left: 5px;">
+						<li>Total Users: 5,882</li>
+						<li>Total Guests: 761</li>
+						<li>Online Users: 11</li>
 					</ul>
 				</div>
 				
@@ -252,28 +279,28 @@ site, or your dealings with this Web site, you can contact:<br>webmaster [at] ps
 				
 				<div id="rightbar">
 					<div id="rightbarad">
-						<!-- AdSpeed.com Serving Code 7.9 for [Zone] PSX Extreme ROS Box 300x250 -->
-<script type="text/javascript">var a=new Date();var q='&tz='+a.getTimezoneOffset()/60 +'&ck='+(navigator.cookieEnabled?'Y':'N') +'&jv='+(navigator.javaEnabled()?'Y':'N') +'&scr='+screen.width+'x'+screen.height+'x'+screen.colorDepth +'&z='+Math.random() +'&ref='+escape(document.referrer.substr(0,255)) +'&uri='+escape(document.URL.substr(0,255));document.write('<ifr'+'ame width="300" height="250" src="https://g.adspeed.net/ad.php?do=html&zid=16501&wd=300&ht=250&target=_top'+q+'" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></ifr'+'ame>');</script><iframe width="300" height="250" src="https://g.adspeed.net/ad.php?do=html&amp;zid=16501&amp;wd=300&amp;ht=250&amp;target=_top&amp;tz=0&amp;ck=Y&amp;jv=N&amp;scr=800x600x24&amp;z=0.30484382565589074&amp;ref=&amp;uri=https%3A//web.archive.org/web/20080509161627id_/http%253A//psxextreme.com/home/privacy_policy.asp" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></iframe>
-<noscript><iframe width="300" height="250" src="https://g.adspeed.net/ad.php?do=html&zid=16501&wd=300&ht=250&target=_top" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"><a href="https://g.adspeed.net/ad.php?do=clk&zid=16501&wd=300&ht=250&pair=as" target="_top"><img style="border:0px;" src="https://g.adspeed.net/ad.php?do=img&zid=16501&wd=300&ht=250&pair=as" alt="i" width="300" height="250"/></a></iframe>
+						<!-- AdSpeed.com Serving Code 7.9.3 for [Zone] PSX Extreme ROS Box 300x250 -->
+<script type="text/javascript">var a=new Date();var q='&tz='+a.getTimezoneOffset()/60 +'&ck='+(navigator.cookieEnabled?'Y':'N') +'&jv='+(navigator.javaEnabled()?'Y':'N') +'&scr='+screen.width+'x'+screen.height+'x'+screen.colorDepth +'&z='+Math.random() +'&ref='+escape(document.referrer.substr(0,255)) +'&uri='+escape(document.URL.substr(0,255));document.write('<ifr'+'ame width="300" height="250" src="http://g.adspeed.net/ad.php?do=html&zid=16501&wd=300&ht=250&target=_top'+q+'" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></ifr'+'ame>');</script><iframe width="300" height="250" src="http://g.adspeed.net/ad.php?do=html&amp;zid=16501&amp;wd=300&amp;ht=250&amp;target=_top&amp;tz=0&amp;ck=Y&amp;jv=N&amp;scr=800x600x24&amp;z=0.35309108320201266&amp;ref=&amp;uri=https%3A//web.archive.org/web/20081216031057id_/http%253A//www.psxextreme.com/home/privacy_policy.asp" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></iframe>
+<noscript><iframe width="300" height="250" src="http://g.adspeed.net/ad.php?do=html&zid=16501&wd=300&ht=250&target=_top" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"><a href="http://g.adspeed.net/ad.php?do=clk&zid=16501&wd=300&ht=250&pair=as" target="_top"><img style="border:0px;" src="http://g.adspeed.net/ad.php?do=img&zid=16501&wd=300&ht=250&pair=as" alt="i" width="300" height="250"/></a></iframe>
 </noscript><!-- AdSpeed.com End -->
 					</div>
-					<div class="rightbarbox">
-	<h2>PSX Extreme Update</h2>
-<p>We've got a new look!</p>
-<p><a href="/home/aboutus.asp?subject=7" rel="nofollow" style="font-weight: bold; color: darkred;">Report Errors!</a></p>
+					<!-- Start GA FillSlot
+<script type="text/javascript">
+GA_googleFillSlot("PSXextreme_Fixed_300x100");
+</script>
+ END OF TAG FOR SLOT PSXextreme_Fixed_300x100 -->
 
-	<div class="rightbarbottom"></div>
-</div><div class="rightbarbox">
+  <div class="rightbarbox">
 	<h2>PS3 Giveaway</h2>
-<a href="http://www.psxextreme.com/scripts/nl/nl.asp"><img src="http://www.psxextreme.com/images/blue_ps3_160wide_01a.jpg" border="0"></a>
+<a href="http://www.psxextreme.com/scripts/nl/nl.asp"><img src="http://images.psxextreme.com/images/blue_ps3_160wide_01a.jpg" border="0"></a>
 
 	<div class="rightbarbottom"></div>
 </div><div class="rightbarbox">
 	<h2>Sponsor</h2>
 
-<!-- AdSpeed.com Serving Code 7.9 for [Zone] PSX Extreme ROS Sky 160x600 -->
-<script type="text/javascript">var a=new Date();var q='&tz='+a.getTimezoneOffset()/60 +'&ck='+(navigator.cookieEnabled?'Y':'N') +'&jv='+(navigator.javaEnabled()?'Y':'N') +'&scr='+screen.width+'x'+screen.height+'x'+screen.colorDepth +'&z='+Math.random() +'&ref='+escape(document.referrer.substr(0,255)) +'&uri='+escape(document.URL.substr(0,255));document.write('<ifr'+'ame width="160" height="600" src="https://g.adspeed.net/ad.php?do=html&zid=16500&wd=160&ht=600&target=_top'+q+'" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></ifr'+'ame>');</script><iframe width="160" height="600" src="https://g.adspeed.net/ad.php?do=html&amp;zid=16500&amp;wd=160&amp;ht=600&amp;target=_top&amp;tz=0&amp;ck=Y&amp;jv=N&amp;scr=800x600x24&amp;z=0.3111589132325441&amp;ref=&amp;uri=https%3A//web.archive.org/web/20080509161627id_/http%253A//psxextreme.com/home/privacy_policy.asp" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></iframe>
-<noscript><iframe width="160" height="600" src="https://g.adspeed.net/ad.php?do=html&zid=16500&wd=160&ht=600&target=_top" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"><a href="https://g.adspeed.net/ad.php?do=clk&zid=16500&wd=160&ht=600&pair=as" target="_top"><img style="border:0px;" src="https://g.adspeed.net/ad.php?do=img&zid=16500&wd=160&ht=600&pair=as" alt="i" width="160" height="600"/></a></iframe>
+<!-- AdSpeed.com Serving Code 7.9.3 for [Zone] PSX Extreme ROS Sky 160x600 -->
+<script type="text/javascript">var a=new Date();var q='&tz='+a.getTimezoneOffset()/60 +'&ck='+(navigator.cookieEnabled?'Y':'N') +'&jv='+(navigator.javaEnabled()?'Y':'N') +'&scr='+screen.width+'x'+screen.height+'x'+screen.colorDepth +'&z='+Math.random() +'&ref='+escape(document.referrer.substr(0,255)) +'&uri='+escape(document.URL.substr(0,255));document.write('<ifr'+'ame width="160" height="600" src="http://g.adspeed.net/ad.php?do=html&zid=16500&wd=160&ht=600&target=_top'+q+'" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></ifr'+'ame>');</script><iframe width="160" height="600" src="http://g.adspeed.net/ad.php?do=html&amp;zid=16500&amp;wd=160&amp;ht=600&amp;target=_top&amp;tz=0&amp;ck=Y&amp;jv=N&amp;scr=800x600x24&amp;z=0.9899119007667239&amp;ref=&amp;uri=https%3A//web.archive.org/web/20081216031057id_/http%253A//www.psxextreme.com/home/privacy_policy.asp" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></iframe>
+<noscript><iframe width="160" height="600" src="http://g.adspeed.net/ad.php?do=html&zid=16500&wd=160&ht=600&target=_top" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"><a href="http://g.adspeed.net/ad.php?do=clk&zid=16500&wd=160&ht=600&pair=as" target="_top"><img style="border:0px;" src="http://g.adspeed.net/ad.php?do=img&zid=16500&wd=160&ht=600&pair=as" alt="i" width="160" height="600"/></a></iframe>
 </noscript><!-- AdSpeed.com End -->
 
 <br><br>
@@ -283,74 +310,62 @@ site, or your dealings with this Web site, you can contact:<br>webmaster [at] ps
 <img src="http://www.marchofdimesaffiliates.com/showban.asp?id=1125&amp;img=walk1_120_90.gif" border="0">
 	<div class="rightbarbottom"></div>
 </div><div class="rightbarbox">
-	<h2>Latest Updates</h2>
-	  <p style="text-align: left; padding-left: 10px; margin-top: 4px; margin-bottom: 4px;">
-		<a href="http://www.psxextreme.com/ps3-news/3046.html">Gran Turismo Has Raced Into 50 Million Hearts In 10 Years</a><br>
-		<small>4h, 44m ago
-	  (<a style="font-weight: normal; text-decoration: none;" href="http://www.psxextreme.com/ps3-news/3046.html#viewcomments" rel="nofollow">4 comments</a>)</small>
-      </p>
+	<h2>Our Poll</h2>
+
+	<div id="psx_poll" style="padding-left: 5px;">
+	
+	<form action="" method="post">
+	<input type="hidden" name="getpres" value="yes">
+	<input type="hidden" name="pollID" value="270">
+	
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td colspan="2"><b>PSXE's Best of the Best: PS2 Fighter</b></td></tr>
+	<tr><td valign="top" width="15"><input type="radio" name="anstype" value="1" checked=""></td><td align="left">Dead or Alive 2: Hardcore</td></tr><tr><td valign="top" width="15"><input type="radio" name="anstype" value="2"></td><td align="left">Guilty Gear X2</td></tr><tr><td valign="top" width="15"><input type="radio" name="anstype" value="3"></td><td align="left">Mortal Kombat: Deadly Alliance</td></tr><tr><td valign="top" width="15"><input type="radio" name="anstype" value="4"></td><td align="left">Virtua Fighter 4: Evolution</td></tr><tr><td valign="top" width="15"><input type="radio" name="anstype" value="5"></td><td align="left">Soul Calibur II</td></tr><tr><td valign="top" width="15"><input type="radio" name="anstype" value="6"></td><td align="left">Tekken Tag Tournament</td></tr><tr><td valign="top" width="15"><input type="radio" name="anstype" value="7"></td><td align="left">WWE SmackDown: Here Comes The Pain</td></tr><tr><td valign="top" width="15"><input type="radio" name="anstype" value="8"></td><td align="left">Def Jam: Fight For NY</td></tr><tr><td valign="top" width="15"><input type="radio" name="anstype" value="9"></td><td align="left">Tekken 5</td></tr><tr><td valign="top" width="15"><input type="radio" name="anstype" value="10"></td><td align="left">Soul Calibur III</td></tr>
+		<tr>
+		<td colspan="2" align="center">
+		<input type="submit" class="but" value="Submit Vote">
+		</td>
+		
+		</tr>
 	
 	
-	  <p style="text-align: left; padding-left: 10px; margin-top: 4px; margin-bottom: 4px;">
-		<a href="http://www.psxextreme.com/ps3-news/3045.html">Call Of Duty 5 Won't Return To WWII?</a><br>
-		<small>7h, 18m ago
-	  (<a style="font-weight: normal; text-decoration: none;" href="http://www.psxextreme.com/ps3-news/3045.html#viewcomments" rel="nofollow">4 comments</a>)</small>
-      </p>
+	</tbody></table>
 	
 	
-	  <p style="text-align: left; padding-left: 10px; margin-top: 4px; margin-bottom: 4px;">
-		<a href="http://www.psxextreme.com/ps3-news/3044.html">Developer: PS3 Hasn't Been Pushed Yet</a><br>
-		<small>7h, 29m ago
-	  (<a style="font-weight: normal; text-decoration: none;" href="http://www.psxextreme.com/ps3-news/3044.html#viewcomments" rel="nofollow">6 comments</a>)</small>
-      </p>
+	<p align="center"><a href="/scripts/polls/polls.asp" class="sub">Previous Poll Results</a></p>
 	
-	
-	  <p style="text-align: left; padding-left: 10px; margin-top: 4px; margin-bottom: 4px;">
-		<a href="http://www.psxextreme.com/ps3-news/3043.html">Activision Top Publisher In US</a><br>
-		<small>7h, 46m ago
-	  (<a style="font-weight: normal; text-decoration: none;" href="http://www.psxextreme.com/ps3-news/3043.html#viewcomments" rel="nofollow">0 comments</a>)</small>
-      </p>
-	
-	
-	  <p style="text-align: left; padding-left: 10px; margin-top: 4px; margin-bottom: 4px;">
-		<a href="http://www.psxextreme.com/psp-previews/120.html">PSP Preview: B-Boy</a><br>
-		<small>19h, 53m ago
-	  (<a style="font-weight: normal; text-decoration: none;" href="http://www.psxextreme.com/psp-previews/120.html#viewcomments" rel="nofollow">2 comments</a>)</small>
-      </p>
-	
+	</form></div>
 		<div class="rightbarbottom"></div>
+</div><div class="rightbarbox">
+	<h2>Latest Updates</h2><p style="text-align: left; padding-left: 10px; margin-top: 4px; margin-bottom: 4px;"><a href="http://www.psxextreme.com/ps3-news/4290.html">Media Molecule Toiling Away On Mysterious New Project</a><br><small>6h, 27m ago (<a style="font-weight: normal; text-decoration: none;" href="http://www.psxextreme.com/ps3-news/4290.html#viewcomments" rel="nofollow">29 comments</a>)</small></p><p style="text-align: left; padding-left: 10px; margin-top: 4px; margin-bottom: 4px;"><a href="http://www.psxextreme.com/ps3-news/4289.html">EA Announces Dante's Inferno</a><br><small>9h, 39m ago (<a style="font-weight: normal; text-decoration: none;" href="http://www.psxextreme.com/ps3-news/4289.html#viewcomments" rel="nofollow">12 comments</a>)</small></p><p style="text-align: left; padding-left: 10px; margin-top: 4px; margin-bottom: 4px;"><a href="http://www.psxextreme.com/ps3-news/4288.html">Sony Wants Home To Become An Eventual System Seller</a><br><small>10h, 5m ago (<a style="font-weight: normal; text-decoration: none;" href="http://www.psxextreme.com/ps3-news/4288.html#viewcomments" rel="nofollow">33 comments</a>)</small></p><p style="text-align: left; padding-left: 10px; margin-top: 4px; margin-bottom: 4px;"><a href="http://www.psxextreme.com/ps3-news/4287.html">SCEA Officially Reveals God Of War III</a><br><small>10h, 24m ago (<a style="font-weight: normal; text-decoration: none;" href="http://www.psxextreme.com/ps3-news/4287.html#viewcomments" rel="nofollow">20 comments</a>)</small></p><p style="text-align: left; padding-left: 10px; margin-top: 4px; margin-bottom: 4px;"><a href="http://www.psxextreme.com/ps3-news/4286.html">PSXE Best Of The Best Poll Update: God Of War II Is King</a><br><small>21h, 52m ago (<a style="font-weight: normal; text-decoration: none;" href="http://www.psxextreme.com/ps3-news/4286.html#viewcomments" rel="nofollow">10 comments</a>)</small></p>	<div class="rightbarbottom"></div>
 </div>
 				</div>
 			</div>
 			
-			
-			
 			<script type="text/javascript">
-				var all_popular = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/51/Grand-Theft-Auto-IV.html">Grand Theft Auto IV cheats</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-cheats/28/Grand-Theft-Auto%3A-Liberty-City-Stories.html">Grand Theft Auto: Liberty City Stories cheats</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-cheats/127/Grand-Theft-Auto%3A-Vice-City-Stories.html">Grand Theft Auto: Vice City Stories cheats</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/151/Tiger-Woods-PGA-Tour-2008.html">Tiger Woods PGA Tour 2008 cheats</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/13/Dynasty-Warriors-2.html">Dynasty Warriors 2 cheats</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-cheats/134/Metal-Gear-Solid%3A-Portable-Ops.html">Metal Gear Solid: Portable Ops cheats</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/20/F%2EE%2EA%2ER.html">F.E.A.R cheats</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/37/The-Elder-Scrolls-IV%3A-Oblivion.html">The Elder Scrolls IV: Oblivion cheats</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/456/Guitar-Hero.html">Guitar Hero cheats</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/391/Gran-Turismo-4.html">Gran Turismo 4 cheats</a></td><td align="right">PS2</td></tr>';
-				//var ps1_popular = '';
-				var ps2_popular = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/13/Dynasty-Warriors-2.html">Dynasty Warriors 2 cheats</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/442/Resident-Evil-4.html">Resident Evil 4 cheats</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/456/Guitar-Hero.html">Guitar Hero cheats</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/391/Gran-Turismo-4.html">Gran Turismo 4 cheats</a></td><td align="right">PS2</td></tr>';
-				var psp_popular = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-cheats/28/Grand-Theft-Auto%3A-Liberty-City-Stories.html">Grand Theft Auto: Liberty City Stories cheats</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-cheats/127/Grand-Theft-Auto%3A-Vice-City-Stories.html">Grand Theft Auto: Vice City Stories cheats</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-cheats/134/Metal-Gear-Solid%3A-Portable-Ops.html">Metal Gear Solid: Portable Ops cheats</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-cheats/17/Midnight-Club-3%3A-Dub-Edition.html">Midnight Club 3: Dub Edition cheats</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-cheats/27/Need-For-Speed-Underground%3A-Rivals.html">Need For Speed Underground: Rivals cheats</a></td><td align="right">PSP</td></tr>';
-				var ps3_popular = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/51/Grand-Theft-Auto-IV.html">Grand Theft Auto IV cheats</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/151/Tiger-Woods-PGA-Tour-2008.html">Tiger Woods PGA Tour 2008 cheats</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/57/Turok.html">Turok cheats</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/178/Guitar-Hero-III%3A-Legends-of-Rock.html">Guitar Hero III: Legends of Rock cheats</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/20/F%2EE%2EA%2ER.html">F.E.A.R cheats</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/37/The-Elder-Scrolls-IV%3A-Oblivion.html">The Elder Scrolls IV: Oblivion cheats</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/46/Devil-May-Cry-4.html">Devil May Cry 4 cheats</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/185/Rock-Band.html">Rock Band cheats</a></td><td align="right">PS3</td></tr>';
+				var all_popular = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-cheats/28/grand-theft-auto-liberty-city-stories.html">Grand Theft Auto: Liberty City Stories cheats</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/387/tekken-5.html">Tekken 5 cheats</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-cheats/83/dj-max-portable.html">DJ Max Portable cheats</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/329/need-for-speed-undercover.html">Need for Speed: Undercover cheats</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/116/tekken-4.html">Tekken 4 cheats</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/391/gran-turismo-4.html">Gran Turismo 4 cheats</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/261/ncaa-football-08.html">NCAA Football 08 cheats</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/476/black.html">Black cheats</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-cheats/357/naruto-ultimate-ninja-heroes.html">Naruto: Ultimate Ninja Heroes cheats</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/536/scarface-the-world-is-yours.html">Scarface: The World Is Yours cheats</a></td><td align="right">PS2</td></tr>';
+				var ps2_popular = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/387/tekken-5.html">Tekken 5 cheats</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/116/tekken-4.html">Tekken 4 cheats</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/391/gran-turismo-4.html">Gran Turismo 4 cheats</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/476/black.html">Black cheats</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/536/scarface-the-world-is-yours.html">Scarface: The World Is Yours cheats</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-cheats/2/tekken-tag-tournament.html">Tekken Tag Tournament cheats</a></td><td align="right">PS2</td></tr>';
+				var psp_popular = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-cheats/28/grand-theft-auto-liberty-city-stories.html">Grand Theft Auto: Liberty City Stories cheats</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-cheats/83/dj-max-portable.html">DJ Max Portable cheats</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-cheats/127/grand-theft-auto-vice-city-stories.html">Grand Theft Auto: Vice City Stories cheats</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-cheats/128/killzone-liberation.html">Killzone: Liberation cheats</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-cheats/54/mega-man-maverick-hunter-x.html">Mega Man: Maverick Hunter X cheats</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-cheats/357/naruto-ultimate-ninja-heroes.html">Naruto: Ultimate Ninja Heroes cheats</a></td><td align="right">PSP</td></tr>';
+				var ps3_popular = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/261/ncaa-football-08.html">NCAA Football 08 cheats</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/329/need-for-speed-undercover.html">Need for Speed: Undercover cheats</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-cheats/331/wwe-smackdown-vs-raw-2009.html">WWE SmackDown! vs. Raw 2009 cheats</a></td><td align="right">PS3</td></tr>';
 				
-				var all_reviews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/595.html">El Tigre: The Adventures of Manny Rivera review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/594.html">Ratchet and Clank: Size Matters review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/122.html">NBA Ballers: Chosen One review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/123.html">Grand Theft Auto IV review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/593.html">Buzz! The Hollywood Quiz review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/591.html">SingStar Pop review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/592.html">SingStar \'90s review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/121.html">Condemned 2: Bloodshot review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/120.html">Gran Turismo 5 Prologue review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/590.html">Nobunaga\'s Ambition: Rise to Power review</a></td><td align="right">PS2</td></tr>';
-				//var ps1_reviews = '';
-				var ps2_reviews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/595.html">El Tigre: The Adventures of Manny Rivera review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/594.html">Ratchet and Clank: Size Matters review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/593.html">Buzz! The Hollywood Quiz review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/591.html">SingStar Pop review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/592.html">SingStar \'90s review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/590.html">Nobunaga\'s Ambition: Rise to Power review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/589.html">Biathlon 2008 review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/588.html">Sprint Cars 2: Showdown at Eldora review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/587.html">World Heroes Anthology review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/586.html">MLB 08: The Show review</a></td><td align="right">PS2</td></tr>';
-				var psp_reviews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-reviews/127.html">Crisis Core: Final Fantasy VII review</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-reviews/126.html">MLB 08: The Show review</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-reviews/125.html">Downstream Panic! review</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-reviews/124.html">God of War: Chains of Olympus review</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-reviews/123.html">Patapon review</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-reviews/122.html">Harvey Birdman: Attorney at Law review</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-reviews/121.html">Final Fantasy Tactics: The War of the Lions review</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-reviews/120.html">NBA 08 review</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-reviews/118.html">Crash of the Titans review</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-reviews/117.html">Sega Rally Revo review</a></td><td align="right">PSP</td></tr>';
-				var ps3_reviews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/122.html">NBA Ballers: Chosen One review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/123.html">Grand Theft Auto IV review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/121.html">Condemned 2: Bloodshot review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/120.html">Gran Turismo 5 Prologue review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/119.html">Dynasty Warriors 6 review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/118.html">Dark Sector review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/117.html">Hot Shots Golf: Out of Bounds review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/116.html">Army of Two review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/115.html">Major League Baseball 2K8 review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/114.html">MLB 08: The Show review</a></td><td align="right">PS3</td></tr>';
+				var all_reviews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/628.html">Tale of Despereaux review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/201.html">Prince of Persia review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/200.html">SCORE International: Baja 1000 review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/198.html">SingStar Abba review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/199.html">Eternal Sonata review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/627.html">SingStar! Abba review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/197.html">Super Street Fighter II Turbo HD Remix review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/195.html">Rock Revolution review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/196.html">Tom Clancy\'s EndWar review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/193.html">WWE SmackDown! vs. Raw 2009 review</a></td><td align="right">PS3</td></tr>';
+				var ps2_reviews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/628.html">Tale of Despereaux review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/627.html">SingStar! Abba review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/625.html">Guitar Hero: World Tour review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/626.html">WWE SmackDown vs. Raw 2009 review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/623.html">Women\'s Volleyball Championship review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/624.html">The Legend of Spyro: Dawn of the Dragon review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/622.html">Summer Athletics: The Ultimate Challenge review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/621.html">Pipe Mania review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/618.html">Crash: Mind Over Mutant review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-reviews/619.html">SingStar Legends review</a></td><td align="right">PS2</td></tr>';
+				var psp_reviews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-reviews/130.html">Buzz! Master Quiz review</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-reviews/129.html">Hot Shots Golf: Open Tee 2 review</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-reviews/128.html">FlatOut: Head On review</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-reviews/127.html">Crisis Core: Final Fantasy VII review</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-reviews/126.html">MLB 08: The Show review</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-reviews/125.html">Downstream Panic! review</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-reviews/124.html">God of War: Chains of Olympus review</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-reviews/123.html">Patapon review</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-reviews/122.html">Harvey Birdman: Attorney At Law review</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-reviews/121.html">Final Fantasy Tactics: The War of the Lions review</a></td><td align="right">PSP</td></tr>';
+				var ps3_reviews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/201.html">Prince of Persia review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/200.html">SCORE International: Baja 1000 review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/198.html">SingStar Abba review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/199.html">Eternal Sonata review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/197.html">Super Street Fighter II Turbo HD Remix review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/195.html">Rock Revolution review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/196.html">Tom Clancy\'s EndWar review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/193.html">WWE SmackDown! vs. Raw 2009 review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/194.html">NBA Live 09 review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-reviews/192.html">Need for Speed: Undercover review</a></td><td align="right">PS3</td></tr>';
 				
-				var all_previews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-previews/120.html">B-Boy preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/200.html">GRiD preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-previews/119.html">Code Lyoko: Quest for Infinity preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/198.html">Dead Space preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/199.html">X-Blades preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/196.html">Mafia II preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/197.html">1942: Joint Strike preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/194.html">Street Fighter IV preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/195.html">Super Street Fighter II Turbo HD Remix preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/193.html">Naruto: Ultimate Ninja Storm preview</a></td><td align="right">PS3</td></tr>';
-				//var ps1_previews = '';
-				var ps2_previews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-previews/493.html">Baroque preview</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-previews/490.html">Twisted Metal: Head-On: Extra Twisted Edition preview</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-previews/492.html">Nobunaga\'s Ambition: Rise to Power preview</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-previews/489.html">Wild ARMs 5 preview</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-previews/488.html">Hot Shots Tennis preview</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-previews/487.html">Odin Sphere preview</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-previews/486.html">Yakuza 2 preview</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-previews/485.html">Raw Danger preview</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-previews/484.html">Ghost Rider preview</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-previews/483.html">Test Drive: Unlimited preview</a></td><td align="right">PS2</td></tr>';
-				var psp_previews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-previews/120.html">B-Boy preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-previews/119.html">Code Lyoko: Quest for Infinity preview</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-previews/118.html">CID the Dummy preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-previews/117.html">Warriors Orochi preview</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-previews/116.html">Hot Shots Golf: Open Tee 2 preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-previews/115.html">Wild Arms XF preview</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-previews/114.html">FlatOut: Head On preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-previews/113.html">N+ preview</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-previews/112.html">Downstream Panic! preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-previews/111.html">Patapon preview</a></td><td align="right">PSP</td></tr>';
-				var ps3_previews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/200.html">GRiD preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/198.html">Dead Space preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/199.html">X-Blades preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/196.html">Mafia II preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/197.html">1942: Joint Strike preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/195.html">Super Street Fighter II Turbo HD Remix preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/194.html">Street Fighter IV preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/193.html">Naruto: Ultimate Ninja Storm preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/192.html">Darksiders: Wrath of War preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/191.html">Red Faction: Guerilla preview</a></td><td align="right">PS3</td></tr>';
+				var all_previews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-previews/130.html">Prinny: Can I Really Be The Hero? preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/267.html">MLB Front Office Manager preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/266.html">The Witcher: Rise of the White Wolf preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/265.html">Killzone 2 preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/263.html">Legends of Wrestlemania preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/264.html">Resident Evil 5 preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/262.html">Demon\'s Souls preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/261.html">The Godfather II preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/260.html">PlayStation Home preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/259.html">Sacred 2: Fallen Angel  preview</a></td><td align="right">PS3</td></tr>';
+				var ps2_previews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-previews/495.html">Shin Megami Tensei: Persona 4 preview</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-previews/494.html">Eternal Poison preview</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-previews/493.html">Baroque preview</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-previews/490.html">Twisted Metal: Head-On: Extra Twisted Edition preview</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-previews/492.html">Nobunaga\'s Ambition: Rise to Power preview</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-previews/489.html">Wild ARMs 5 preview</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-previews/488.html">Hot Shots Tennis preview</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-previews/487.html">Odin Sphere preview</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps2-previews/486.html">Yakuza 2 preview</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps2-previews/485.html">Raw Danger preview</a></td><td align="right">PS2</td></tr>';
+				var psp_previews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-previews/130.html">Prinny: Can I Really Be The Hero? preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-previews/129.html">Patapon 2 preview</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-previews/128.html">Super Stardust Portable preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-previews/127.html">Star Ocean: The Second Evolution preview</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-previews/126.html">Neverland Card Battles preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-previews/125.html">Star Ocean: The First Departure preview</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-previews/124.html">Resistance: Retribution preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-previews/123.html">Yggdra Union preview</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/psp-previews/122.html">Valhalla Knights 2 preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/psp-previews/121.html">Fading Shadows preview</a></td><td align="right">PSP</td></tr>';
+				var ps3_previews = '<tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/267.html">MLB Front Office Manager preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/266.html">The Witcher: Rise of the White Wolf preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/265.html">Killzone 2 preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/263.html">Legends of Wrestlemania preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/264.html">Resident Evil 5 preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/262.html">Demon\'s Souls preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/261.html">The Godfather II preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/260.html">PlayStation Home preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class=list href="http://www.psxextreme.com/ps3-previews/259.html">Sacred 2: Fallen Angel  preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class=list href="http://www.psxextreme.com/ps3-previews/258.html">Eat Lead: The Return of Matt Hazard preview</a></td><td align="right">PS3</td></tr>';
 				
-				function switcheroo(obj, li, variable, typ) {
-					obj.innerHTML = variable;
-					for (i = 1; i < 6; i++) {
-						if (i != 2)
-							document.getElementById('tab_' + i + '_' + typ).class = 'notselected';
+				function switcheroo(myobj, li, myvariable, typ) {
+					myobj.innerHTML = myvariable;
+					/*for (i = 1; i < 6; i++) {
+						if (i != 2) {
+							//document.getElementById('tab_' + i + '_' + typ).className = 'notselected';
+						}
 					}
-					li.class = 'selected';
+					li.className = 'selected';*/
 				}
 			</script>
 			
@@ -359,39 +374,36 @@ site, or your dealings with this Web site, you can contact:<br>webmaster [at] ps
 					<h2>Popular Cheats</h2>
 					<ul class="tabs">
 						<li class="selected" id="tab_1_1"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_cheats_table'), document.getElementById('tab_1_1'), all_popular, 1);">All</a></li>
-						<!--li class="notselected" id="tab_2_1"><a href=""javascript: void(0);"" onclick="switcheroo(document.getElementById('popular_cheats_table'), document.getElementById('tab_2_1'), ps1_popular, 1);">PS1</a></li-->
 						<li class="notselected" id="tab_3_1"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_cheats_table'), document.getElementById('tab_3_1'), ps2_popular, 1);">PS2</a></li>
 						<li class="notselected" id="tab_4_1"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_cheats_table'), document.getElementById('tab_4_1'), ps3_popular, 1);">PS3</a></li>
 						<li class="notselected" id="tab_5_1"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_cheats_table'), document.getElementById('tab_5_1'), psp_popular, 1);">PSP</a></li>
 					</ul>
 					<table id="popular_cheats_table">
-						<tbody><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-cheats/51/Grand-Theft-Auto-IV.html">Grand Theft Auto IV cheats</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/psp-cheats/28/Grand-Theft-Auto%3A-Liberty-City-Stories.html">Grand Theft Auto: Liberty City Stories cheats</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/psp-cheats/127/Grand-Theft-Auto%3A-Vice-City-Stories.html">Grand Theft Auto: Vice City Stories cheats</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-cheats/151/Tiger-Woods-PGA-Tour-2008.html">Tiger Woods PGA Tour 2008 cheats</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps2-cheats/13/Dynasty-Warriors-2.html">Dynasty Warriors 2 cheats</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/psp-cheats/134/Metal-Gear-Solid%3A-Portable-Ops.html">Metal Gear Solid: Portable Ops cheats</a></td><td align="right">PSP</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-cheats/20/F%2EE%2EA%2ER.html">F.E.A.R cheats</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-cheats/37/The-Elder-Scrolls-IV%3A-Oblivion.html">The Elder Scrolls IV: Oblivion cheats</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps2-cheats/456/Guitar-Hero.html">Guitar Hero cheats</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps2-cheats/391/Gran-Turismo-4.html">Gran Turismo 4 cheats</a></td><td align="right">PS2</td></tr>
+						<tbody><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/psp-cheats/28/grand-theft-auto-liberty-city-stories.html">Grand Theft Auto: Liberty City Stories cheats</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps2-cheats/387/tekken-5.html">Tekken 5 cheats</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/psp-cheats/83/dj-max-portable.html">DJ Max Portable cheats</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-cheats/329/need-for-speed-undercover.html">Need for Speed: Undercover cheats</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps2-cheats/116/tekken-4.html">Tekken 4 cheats</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps2-cheats/391/gran-turismo-4.html">Gran Turismo 4 cheats</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-cheats/261/ncaa-football-08.html">NCAA Football 08 cheats</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps2-cheats/476/black.html">Black cheats</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/psp-cheats/357/naruto-ultimate-ninja-heroes.html">Naruto: Ultimate Ninja Heroes cheats</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps2-cheats/536/scarface-the-world-is-yours.html">Scarface: The World Is Yours cheats</a></td><td align="right">PS2</td></tr>
 					</tbody></table>
 				</div>
 				<div class="linksbox">
 					<h2>Recent Reviews</h2>
 					<ul class="tabs">
 						<li class="selected" id="tab_1_2"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_reviews_table'), document.getElementById('tab_1_2'), all_reviews, 2);">All</a></li>
-						<!--li class="notselected" id="tab_2_2"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_reviews_table'), document.getElementById('tab_2_2'), ps1_reviews, 2);">PS1</a></li-->
 						<li class="notselected" id="tab_3_2"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_reviews_table'), document.getElementById('tab_3_2'), ps2_reviews, 2);">PS2</a></li>
 						<li class="notselected" id="tab_4_2"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_reviews_table'), document.getElementById('tab_4_2'), ps3_reviews, 2);">PS3</a></li>
 						<li class="notselected" id="tab_5_2"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_reviews_table'), document.getElementById('tab_5_2'), psp_reviews, 2);">PSP</a></li>
 					</ul>
 					<table id="popular_reviews_table">
-						<tbody><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps2-reviews/595.html">El Tigre: The Adventures of Manny Rivera review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps2-reviews/594.html">Ratchet and Clank: Size Matters review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-reviews/122.html">NBA Ballers: Chosen One review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-reviews/123.html">Grand Theft Auto IV review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps2-reviews/593.html">Buzz! The Hollywood Quiz review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps2-reviews/591.html">SingStar Pop review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps2-reviews/592.html">SingStar '90s review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-reviews/121.html">Condemned 2: Bloodshot review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-reviews/120.html">Gran Turismo 5 Prologue review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps2-reviews/590.html">Nobunaga's Ambition: Rise to Power review</a></td><td align="right">PS2</td></tr>
+						<tbody><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps2-reviews/628.html">Tale of Despereaux review</a></td><td align="right">PS2</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-reviews/201.html">Prince of Persia review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-reviews/200.html">SCORE International: Baja 1000 review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-reviews/198.html">SingStar Abba review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-reviews/199.html">Eternal Sonata review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps2-reviews/627.html">SingStar! Abba review</a></td><td align="right">PS2</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-reviews/197.html">Super Street Fighter II Turbo HD Remix review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-reviews/195.html">Rock Revolution review</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-reviews/196.html">Tom Clancy's EndWar review</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-reviews/193.html">WWE SmackDown! vs. Raw 2009 review</a></td><td align="right">PS3</td></tr>
 					</tbody></table>
 				</div>
 				<div class="linksbox">
 					<h2>Recent Previews</h2>
 					<ul class="tabs">
 						<li class="selected" id="tab_1_3"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_previews_table'), document.getElementById('tab_1_3'), all_previews, 3);">All</a></li>
-						<!--li class="notselected" id="tab_2_3"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_previews_table'), document.getElementById('tab_2_3'), ps1_previews, 3);">PS1</a></li-->
 						<li class="notselected" id="tab_3_3"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_previews_table'), document.getElementById('tab_3_3'), ps2_previews, 3);">PS2</a></li>
 						<li class="notselected" id="tab_4_3"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_previews_table'), document.getElementById('tab_4_3'), ps3_previews, 3);">PS3</a></li>
 						<li class="notselected" id="tab_5_3"><a href="javascript: void(0);" onclick="switcheroo(document.getElementById('popular_previews_table'), document.getElementById('tab_5_3'), psp_previews, 3);">PSP</a></li>
 					</ul>
 					<table id="popular_previews_table">
-						<tbody><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/psp-previews/120.html">B-Boy preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/200.html">GRiD preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/psp-previews/119.html">Code Lyoko: Quest for Infinity preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/198.html">Dead Space preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/199.html">X-Blades preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/196.html">Mafia II preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/197.html">1942: Joint Strike preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/194.html">Street Fighter IV preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/195.html">Super Street Fighter II Turbo HD Remix preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/193.html">Naruto: Ultimate Ninja Storm preview</a></td><td align="right">PS3</td></tr>
+						<tbody><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/psp-previews/130.html">Prinny: Can I Really Be The Hero? preview</a></td><td align="right">PSP</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/267.html">MLB Front Office Manager preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/266.html">The Witcher: Rise of the White Wolf preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/265.html">Killzone 2 preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/263.html">Legends of Wrestlemania preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/264.html">Resident Evil 5 preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/262.html">Demon's Souls preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/261.html">The Godfather II preview</a></td><td align="right">PS3</td></tr><tr class="list1"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/260.html">PlayStation Home preview</a></td><td align="right">PS3</td></tr><tr class="list2"><td><a class="list" href="http://www.psxextreme.com/ps3-previews/259.html">Sacred 2: Fallen Angel  preview</a></td><td align="right">PS3</td></tr>
 					</tbody></table>
 				</div>
 			</div>
@@ -438,22 +450,10 @@ google_color_url = "2F4391";
 					</p>
 					<h2>Links</h2>
 					<p>
-						<a href="http://www.mediataskmaster.com/co/ColumbiaHouse/offers/dvd_club.asp">Columbia House DVD Club</a> | <a href="http://www.ufcfight.com">UFC Fight</a>
+						<a href="http://www.ggl.com/">GGL</a> | <a href="http://www.ufcfight.com">UFC Fight</a>
 					</p>
 				</div>
 				<div class="linksection">
-					<h2>Popular Cheats</h2>
-					<p>
-						<a href="http://www.psxextreme.com/ps2-cheats/536/Scarface:-The-World-Is-Yours.html">Scarface: The World Is Yours cheats</a> |
-						<a href="http://www.psxextreme.com/psp-cheats/134/Metal-Gear-Solid:-Portable-Ops.html">Metal Gear Solid: Portable Ops cheats</a> |
-						<a href="http://www.psxextreme.com/scripts/cheats2/cheat.asp?CheatID=359">GTA: San Andreas cheats</a> |
-						<a href="http://www.psxextreme.com/ps3-cheats/10/Resistance:-Fall-of-Man.html">Resistance: Fall of Man cheats</a> |
-						<a href="http://www.psxextreme.com/psp-cheats/127/Grand-Theft-Auto:-Vice-City-Stories.html">Grand Theft Auto: Vice City Stories cheats</a> |
-						<a href="http://www.psxextreme.com/psp-cheats/128/Killzone:-Liberation.html">Killzone: Liberation cheats</a> |
-						<a href="http://www.psxextreme.com/scripts/cheats3/cheat.asp?CheatID=28">Grand Theft Auto: Liberty City Stories cheats</a> |
-						<a href="http://www.psxextreme.com/ps2-cheats/532/Guitar-Hero-II.html">Guitar Hero II cheats</a> |
-						<a href="http://www.psxextreme.com/ps3-cheats/51/Grand-Theft-Auto-IV.html">Grand Theft Auto IV cheats</a>
-					</p>
 					<h2>Related Sites</h2>
 					<p>
 						<a href="http://www.pscheats.com">PS2 Cheat Codes</a> |
@@ -470,9 +470,8 @@ google_color_url = "2F4391";
 		</div>
 		
 		<div id="footer">
-			<p>Copyright 1999-Present Poise Media Inc.  All Rights Reserved.</p>
-			<br><center>
 
+			<p>Copyright 1999-Present Poise Media Inc.  All Rights Reserved.</p>
 <script type="text/javascript" language="JavaScript">var site="s14psxext"</script>
 <script type="text/javascript" language="JavaScript1.2" src="http://s14.sitemeter.com/js/counter.js?site=s14psxext">
 </script>
@@ -481,18 +480,6 @@ google_color_url = "2F4391";
 <img src="http://s14.sitemeter.com/meter.asp?site=s14psxext" alt="Site Meter" border=0></a>
 </noscript>
 <!-- Copyright (c)2002 Site Meter -->
-
-</center>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-2495561-1";
-urchinTracker();
-
-_uff = 0; // Reset flag to allow for second account
-_uacct = "UA-20142-20";
-</script>
 
 <!-- Start eXTReMe Non Public Tracker Code
 Login:    psxextre
@@ -510,13 +497,14 @@ EXd.write("<img src=\"http://nht-2.extreme-dm.com",
 "jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
 "l="+escape(EXd.referrer)+"\" height=1 width=1>");//-->
 </script><img src="http://nht-2.extreme-dm.com/n2.g?login=psxextre&amp;pid=ros&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><img height="1" width="1" alt=""
-src="http://nht-2.extreme-dm.com/n2.g?login=psxextre&amp;pid=ros&amp;j=n&amp;jv=n"/>
+src="http://nht-2.extreme-dm.com/n2.g?login=psxextre&pid=ros&j=n&jv=n"/>
 </noscript>
 <!-- End eXTReMe Non Public Tracker Code -->
 
-
-
+<img src="http://click.mediataskmaster.com/advtrace.asp?url=http://images.psxextreme.com/img/spacer.gif" style="display: none;">
 		</div>
 	
+
+
 	
 	<p></p></body></html>
