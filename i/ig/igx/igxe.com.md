@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igxe.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626101815id_/http%3A//www.igxe.com/include/Privacy_Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igxe.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014113id_/http%3A//www.igxe.com/include/Privacy_Policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
