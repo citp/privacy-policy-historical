@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrology.com.au privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630205405id_/http%3A//www.astrology.com.au/utility/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrology.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012143id_/http%3A//www.astrology.com.au/utility/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
