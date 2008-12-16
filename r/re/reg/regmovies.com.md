@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the regmovies.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611224341id_/http%3A//www.regmovies.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regmovies.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013134id_/http%3A//www.regmovies.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Regal Entertainment Group: Privacy Policy
 
-Regal Cinemas, Inc. ("RCI") has created this statement to describe its information gathering and privacy practices. We are sensitive to the private nature of information you provide to us over the Internet. This Privacy Policy is designed to maximize your ability to protect your personal information, while at the same time permit us to provide you the opportunity to obtain interesting and useful information, products and services. At no time are you obligated to provide us any personal information, and if at any time you no longer wish to receive communications from us, you are free to "opt out" of receiving these communications. Because this Privacy Policy applies to any person who provides information to RCI through its web site, we strongly urge you to review this Privacy Policy in its entirety.
+Regal Cinemas, Inc. ("RCI") has created this statement to describe its information gathering and privacy practices. We are sensitive to the private nature of information you provide to us over the Internet. This Privacy Policy is designed to maximize your ability to protect your personal information, while at the same time permit us to provide you the opportunity to obtain interesting and useful information, products and services. At no time are you obligated to provide us any personal information, and if at any time you no longer wish to receive communications from us, you are free to "opt out" of receiving these communications. Because this Privacy Policy applies to any person who provides information to RCI through its web site, we strongly urge you to review this Privacy Policy in its entirety. Your use of this web site constitutes acceptance of this Privacy Policy and any other applicable terms.
 
 ## OUR COLLECTION OF YOUR INFORMATION
 
@@ -13,17 +13,16 @@ In order to enable you to register to receive information, products or services 
 As a general matter we seek to use information collected through our web site to enhance the experience of visitors to our site. We (including our affiliates) may use this information in a number of ways, including:
 
   * To furnish you with products or services you have requested, or to send you information or otherwise contact you about RCI, or its affiliates, their products, services, advertising, upcoming events, special offers or promotions, or for other purposes disclosed when you submit your information to our web site.
-  * To enable us to create customer profiles that will assist us in developing new products and services, to personalize products and services, and to send e-mail notifications of new site features.
-  * To provide you with personalized content, including varying the advertising that you see based on the information you provide us.
   * To assist us in marketing and advertising our products and services and those of other businesses.
   * To improve the content and navigation on our web site.
   * To prevent and detect fraud, infringement, and other potential misuse of our web site.
+  * In order to provide you with products and services you have requested, we may share your information, including personally identifiable information or information we maintain on an aggregate basis, with third parties who provide services to RCI and its affiliates, such as credit card processing, customer services, order fulfillment, and/or prize delivery, as applicable.
 
 
 
-We may share your information, including personally identifiable information or other information we maintain on an aggregate basis, with our affiliates, including our co-branded sites, and other third parties such as on-line and other media partners, promotional partners, advertisers, film distributors, entertainment venues, loyalty programs, and other third parties who help us provide goods and services to our web site visitors. This enables us to continually improve the content of our web site, and to provide additional product offerings and services that we believe are valuable to our customers. Finally, we may also use personally identifiable information to enforce our Terms of Use Policy or other online agreements which we may make available from time to time on our web site, or as otherwise necessary to defend or enforce our rights. In addition, we may share such information with governmental authorities when legally required to do so or at the request of a governmental authority as part of a government investigation. We reserve the right to contact any visitor at any time regarding the visitor's use of our site using the contact information provided by the visitor.
+We do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure - typically by opting in to receive information from a third party that is participating in a sweepstakes or other promotion on one of our web sites. If you do not want your information to be used by a third party for direct marketing purposes (or other purposes unrelated to the uses described herein), do not opt in to such use by that third party. Please note that if you opt in to receive direct marketing from a third party, your information will be subject to that party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact that third party directly. We recommend that you review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-You may opt-out of receiving marketing communications from us or request that we not provide your personal contact, demographic, and/or lifestyle-related information to third parties. Please see the information below regarding opting out.
+At any time you may opt-out of receiving marketing communications from us or request that we not provide your personal contact, demographic, and/or lifestyle-related information to third parties. Please see the information below regarding opting out.
 
 ## CHILDREN'S GUIDELINES
 
@@ -53,4 +52,4 @@ Or call us at: 865.922.1123
 
 We reserve the right to change the terms of this Privacy Policy from time to time. We will post any changes here, so please check back periodically. Your continued use of our web site after any change has been posted constitutes acceptance of the change to this Privacy Policy.
 
-This privacy policy was last updated July 31, 2003
+This privacy policy was last updated July 15, 2008
