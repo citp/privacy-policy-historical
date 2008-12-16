@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the endless.com privacy policy that was archived on 2008-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080622160131id_/http%3A//www.endless.com/help/200103540) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the endless.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216235059id_/http%3A//www.endless.com/help/200103540) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-  <title>Endless.com</title>
+  <title>Endless.com: Help</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
 
@@ -12,18 +12,26 @@
 		var realm = "USAmazon";
 		var jsStrings = {};
 		var ENDLESS_ROOT_NODE = "241745011";
-		
+		var useGPSignIn = true;
+		var features = {"cinderella":"T1","hasClearanceStore":"true","sims":"T1"};
+
 		function formatCurrency(floatValue){
 			var value = floatValue.toFixed(2);
 			
-			value += "";
+			if (isNaN(value)) { return floatValue; }
+			value += ""; 
+			
 			var x = value.split(".");
 			var x0 = x[0];
+			
 			var x1 = x.length > 1 ? "." + x[1] : "";
+			
 			var rgx = /(\d+)(\d{3})/;
+			
 			while (rgx.test(x0)){
 				x0 = x0.replace(rgx, "$1" + "," + "$2");
 			}
+			
 			return "$" + x0 + x1;
 		}
 </script>
@@ -40,27 +48,27 @@
 	
 		
 			
-	  <link href="http://g1-ec2.images-amazon.com/images/G/01/Endless/en_US/css/us-endless-main_183._V0_.css" type="text/css" rel="stylesheet">
+	  <link href="http://g1-ec2.images-amazon.com/images/G/01/Endless/en_US/css/us-endless-main_237._V241092723_.css" type="text/css" rel="stylesheet">
 			
 		
 	
 	
 		
 			
-	  <script type="text/javascript" src="http://g1-ec2.images-amazon.com/images/G/01/Endless/en_US/js/endless-main_v239._V0_.js"></script>
+	  <script type="text/javascript" src="http://g1-ec2.images-amazon.com/images/G/01/Endless/en_US/js/endless-main_v350._V241100157_.js"></script>
 			
 		
 	
 	<script language="javascript"> 
 		if (navigator.userAgent.indexOf("Safari") > -1) 
-			document.write("<link href='http://g1-ec2.images-amazon.com/images/G/01/Endless/en_US/css/styles_safari_14536._V0_.css' type='text/css' rel='stylesheet'>");
-	</script><link href="http://g1-ec2.images-amazon.com/images/G/01/Endless/en_US/css/styles_safari_14536._V0_.css" type="text/css" rel="stylesheet">
+			document.write("<link href='http://g1-ec2.images-amazon.com/images/G/01/Endless/en_US/css/styles_safari_14536._V7590940_.css' type='text/css' rel='stylesheet'>");
+	</script><link href="http://g1-ec2.images-amazon.com/images/G/01/Endless/en_US/css/styles_safari_14536._V7590940_.css" type="text/css" rel="stylesheet">
 
 <style type="text/css"> 
-	.parentOpen {background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/down._V0_.gif);}
-	#searchHeader{background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/promo_space_banner._V0_.jpg);}
-	.toggleOn{ background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/arrow._V0_.gif);}
-	.toggleOff{ background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/arrow._V0_.gif);}
+	.parentOpen {background-image: url();}
+	#searchHeader{background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/promo_space_banner._V45790792_.jpg);}
+	.toggleOn{ background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/arrow._V45789416_.gif);}
+	.toggleOff{ background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/arrow._V45789416_.gif);}
 </style>
 
 <link rel="shortcut icon" href="/favicon.ico">
@@ -83,34 +91,40 @@
 
 <div align="center" id="centerWrapper">
 <div id="insideCenterWrapper">
+<div id="top-10"></div>
 <div id="headerbanner"><div id="banner-image">
 
 
 
 <style type="text/css">
-    body{background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/standard-tile-20071221._V0_.png);}
-    div#insideCenterWrapper {
+    body{background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/holidaySkin_standard_sideGraphic._V241200927_.jpg);}
+    div#navbar-1 { background-color:#8C000B;}
+    div#navbar-1 span.navbarTab a:hover{background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/holidayNavSprite._V242773971_.gif);}
+	div#navbar-1 span.inDept a h2, div#navbar-1 span.inDept a:hover h2 {background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/holidayNavSprite._V242773971_.gif);}
+	div#insideCenterWrapper {
     	border-left: 1px solid #BEA97C;
     	border-right: 1px solid #BEA97C;
     }
     span#myThingsImage-wrapper, span#cartImage-wrapper{
     	border:1px solid #BEA97C;
     }
+    div#navbar-1 span.navDivider {
+		border-left:1px solid #94000C;
+		border-right:1px solid #460106;	
+	}
 </style>
 
 
-<div id="headerImage">
+<div id="headerImage">	
 	
-	
-		<map name="map39">
-<area shape="rect" href="/help/200107210" coords="150,0,200,30" alt="Beta">
+		<map name="map84">
 <area shape="rect" href="/homepage" coords="0,0,150,30" alt="Endless.com: Shoes and Handbags for Women, Men and Kids with Free Overnight Shipping">
 <area shape="rect" href="/homepage" coords="0,31,200,80" alt="Endless.com: Shoes and Handbags for Women, Men and Kids with Free Overnight Shipping">
-<area shape="rect" href="/help/200103470" coords="260,25,550,80" alt="Free Overnight Shipping, 365-Day Returns, Free Return Shipping, 110 Percent Price Guarantee">
+<area shape="rect" href="/help/200104710" coords="260,25,550,80" alt="Free Overnight Shipping, 365-Day Returns, Free Return Shipping, 100 Percent Price Guarantee">
 </map>
 
 		
-	<img src="http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/standard-header-20080215._V0_.gif" usemap="#map39">
+	<img src="http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/holidaySkin_12022008._V239471698_.jpg" usemap="#map84">
 </div></div></div>
 
 
@@ -123,44 +137,51 @@
 <!-- End Image requirements -->
 
 <style type="text/css">
-	div#navbar-1 span.navbarTab a:hover{background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/nav_hover_tile_v200610251._V0_.gif);}
-	div#navbar-1 span.inDept a h2, div#navbar-1 span.inDept a:hover h2 {background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/nav_selected_tile._V0_.gif);}
+	a#click-to-call-link {background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/nav_images_v20080926._V261293974_.gif);}
+	.designer a#click-to-call-link {background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/nav_images_v20080926._V261293974_.gif);}
+	div.scrollArrow-left, div.scrollArrow-left_inactive, div.scrollArrow-right, div.scrollArrow-right_inactive {background-image: url(http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/nav_images_v20080926._V261293974_.gif);}
 </style>
 
 
 <script type="text/javascript">
 	function JSImageMap()  {
 		this.no_image_large = "";
-		this.no_image_30 = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/no_image_30._V0_.gif";
-		this.no_image_small = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/no_image_small._V0_.gif";
-		this.remove = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/remove_v20080606._V0_.gif";
-		this.white1px = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/white1px._V0_.jpg";
-		this.blank1px = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/1px-blank._V0_.gif";
-		this.left_arrow_inactive = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/left_arrow_inactive._V0_.gif";
-		this.left_arrow = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/left_arrow._V0_.gif";
-		this.right_arrow_inactive =" http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/right_arrow_inactive._V0_.gif";
-		this.right_arrow = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/right_arrow._V0_.gif";
-		this.mythings_remove = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/mythings_remove._V0_.gif";
-		this.mythings_add_to_cart = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/mythings_add_to_cart._V0_.gif";
-		this.no_image_30 = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/no_image_30._V0_.gif";
-		this.continue_shopping = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/continue_shopping_v20080609._V0_.gif";
-		this.saved = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/saved_v20061204._V0_.gif";
-		this.save_for_later_sm = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/save_for_later_sm_v20080606._V0_.gif";
-		this.no_main_image = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/no_image_280._V0_.gif";
-		this.no_image_51 = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/no_image_51._V0_.gif";
-		this.return_to_saved = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/return_to_saved._V0_.gif";
-		this.return_to_cart = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/return_to_cart_v20080606._V0_.gif";
-		this.top_left_corner = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/top_left_corner._V0_.gif";
-		this.top_right_corner = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/top_right_corner._V0_.gif";
-		this.bottom_left_corner = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/bottom_left_corner._V0_.gif";
-		this.bottom_right_corner = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/bottom_right_corner._V0_.gif";
-		this.top_tile = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/top_tile._V0_.gif";		
-		this.bottom_tile = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/bottom_tile._V0_.gif";	
-		this.left_tile = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/left_tile._V0_.gif";	
-		this.right_tile = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/right_tile._V0_.gif";	
-		this.title_fade = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/title_fade._V0_.jpg";		
-		this.add_to_cart_sfl = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/add_to_cart_sfl._V0_.gif";
-		this.remove_sfl = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/remove_sfl._V0_.gif";	
+		this.no_image_30 = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/no_image_30._V45790054_.gif";
+		this.no_image_small = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/no_image_small._V45790774_.gif";
+		this.new_styles_top_right = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/new-styles-top-right._V254443085_.gif";
+		this.remove = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/remove_v20080606._V255354500_.gif";
+		this.white1px = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/white1px._V4313804_.gif";
+		this.left_arrow_inactive = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/left_arrow_inactive._V45790025_.gif";
+		this.left_arrow = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/left_arrow._V45790905_.gif";
+		this.right_arrow_inactive =" http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/right_arrow_inactive._V45789786_.gif";
+		this.right_arrow = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/right_arrow._V45789469_.gif";
+		this.mythings_remove = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/mythings_remove._V45789260_.gif";
+		this.mythings_add_to_cart = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/mythings_add_to_cart._V45789425_.gif";
+		this.no_image_30 = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/no_image_30._V45790054_.gif";
+		this.continue_shopping = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/continue_shopping_v20080609._V255838830_.gif";
+		this.saved = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/saved_v20061204._V45786914_.gif";
+		this.save_for_later_sm = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/save_for_later_sm_v20080606._V255354503_.gif";
+		this.no_main_image = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/no_image_280._V45789755_.gif";
+		this.no_image_51 = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/no_image_51._V45792605_.gif";
+		this.return_to_saved = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/return_to_saved._V45793134_.gif";
+		this.return_to_compare = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/return_to_compare._V260159853_.gif";
+		this.return_to_cart = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/return_to_cart_v20080606._V255354503_.gif";
+		this.top_left_corner = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/top_left_corner._V45789818_.gif";
+		this.top_right_corner = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/top_right_corner._V45789325_.gif";
+		this.bottom_left_corner = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/bottom_left_corner._V45790839_.gif";
+		this.bottom_right_corner = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/bottom_right_corner._V45790957_.gif";
+		this.top_tile = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/top_tile._V45789380_.gif";		
+		this.bottom_tile = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/bottom_tile._V45790847_.gif";	
+		this.left_tile = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/left_tile._V45789456_.gif";	
+		this.right_tile = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/right_tile._V45792738_.gif";	
+		this.title_fade = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/title_fade._V45789273_.jpg";		
+		this.add_to_cart_sfl = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/add_to_cart_sfl._V45789530_.gif";
+		this.remove_sfl = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/remove_sfl._V45790907_.gif";
+		this.taf_top_right = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/taf-top_right._V43850307_.gif";
+		this.taf_bottom_right = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/taf-bottom_right._V43850768_.gif";
+		this.taf_bottom_left = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/taf-bottom_left._V43848272_.gif";
+		this.taf_bottom_expand = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/taf-bottom_expand._V43848373_.gif";
+		this.taf_right_expand = "http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/taf-right_expand._V43848437_.gif";
     }
 	
 	JSImageMap.prototype.getImagePath = function(img){
@@ -174,16 +195,66 @@
      var jsImg = new JSImageMap();
 </script>
 
+
+
+
+<script>
+	registerString("endless_countdown_msg_60272", "Order in the next ##timeLeft## - get it ##deliveryDate##");
+	registerString("endless_countdown_delivery_60273", "##dayOfWeek##, ##month## ##day##");
+	
+	var countdownStrings = {
+		"day"		: "day",
+		"days"		: "days",
+		"hour"		: "hour",
+		"hours"		: "hours",
+		"minute"	: "minute",
+		"minutes"	: "minutes",
+		"link-word"	: "",
+		"day-surfix": ""
+	};
+	var countdown_dayOfWeek = [
+		"Sunday",
+		"Monday",
+		"Tuesday",
+		"Wednesday",
+		"Thursday",
+		"Friday",
+		"Saturday"
+	];
+	var countdown_months = [
+		"January",
+		"February",
+		"March",
+		"April",
+		"May",
+		"June",
+		"July",
+		"August",
+		"September",
+		"October",
+		"November",
+		"December",
+	];
+</script>
+
 <!-- Start banner -->
 <div id="headerRight">
 	<div id="bannerLinks">
 	     <p id="menu">
-	     	<a href="/gp/css/homepage.html">My Account</a> | 
-	     	<a href="/gp/css/contact?viewID=click-to-call" id="click-to-call-link">1-866-218-9936</a> | 
-	     	<a href="/help/200103450">Help</a> | 
-	     	
 			
-			<a href="https://www.endless.com/gp/sign-in?signInSuccessProtocol=http&amp;signInSuccessQuery=staticFiles%3Dmain.cssendless-main.js%26ts%3D46867&amp;signInSuccessUrl=%2Fhelp%2F200103540">Sign in</a>
+				<a href="/gp/css/homepage.html">My Account</a> | 
+			
+				<a href="/gp/css/contact?ie=UTF8&amp;viewID=click-to-call" id="click-to-call-link">1-866-218-9936</a> | 
+			
+				<a href="/help/200103450">Help</a> | 
+			
+			
+				
+					
+					
+						<a href="https://www.endless.com/gp/sign-in?signInSuccessProtocol=http&amp;signInSuccessQuery=%26ts%3D62900&amp;signInSuccessUrl=%2Fhelp%2F200103540">Sign in</a>
+					
+				
 			
 			
 		</p>
@@ -191,16 +262,23 @@
 		
 	<div id="cart" class="emptyBasket" onclick="return false;">
 	  	<span id="cartImage-wrapper">
-		  	<img id="cartImage" src="http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/1px-blank._V0_.gif" width="30" height="30" border="0">
+		  	<img id="cartImage" src="http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/white1px._V4313804_.gif" width="30" height="30" border="0">
 		</span>
 	    <p>Cart <span id="cartCount"></span></p>
 	</div>
 	
 	<div id="saved" class="emptyBasket" onclick="return false;">
 	  	<span id="myThingsImage-wrapper">
-			<img id="myThingsImage" src="http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/1px-blank._V0_.gif" width="30" height="30" border="0">
+			<img id="myThingsImage" src="http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/white1px._V4313804_.gif" width="30" height="30" border="0">
 	   	</span>
-	    <p>Saved for later </p>
+	    <p>	    
+	    	<!--WEBLAB:END_COMPARE_3160-->
+			
+			
+	    		Saved for later 
+			
+	    	
+	    </p>
 	</div>
 </div>	
 <!-- End banner -->
@@ -217,9 +295,7 @@
 			</a>
 		</span>
 		
-			<span>
-    			<img src="http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/nav_divider._V0_.gif" class="nav-divider" width="2" height="19" alt="">
-    		</span>
+			<span class="navDivider"></span>
 		
 	
 		<span class="navbarTab">
@@ -228,9 +304,7 @@
 			</a>
 		</span>
 		
-			<span>
-    			<img src="http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/nav_divider._V0_.gif" class="nav-divider" width="2" height="19" alt="">
-    		</span>
+			<span class="navDivider"></span>
 		
 	
 		<span class="navbarTab">
@@ -239,35 +313,29 @@
 			</a>
 		</span>
 		
-			<span>
-    			<img src="http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/nav_divider._V0_.gif" class="nav-divider" width="2" height="19" alt="">
-    		</span>
+			<span class="navDivider"></span>
 		
 	
 		<span class="navbarTab">
 			<a href="/Handbags-Accessories/b/241747011">
-				<h2 class="navLink">Handbags</h2>
+				<h2 class="navLink">Bags &amp; Accessories</h2>
 			</a>
 		</span>
 		
-			<span>
-    			<img src="http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/nav_divider._V0_.gif" class="nav-divider" width="2" height="19" alt="">
-    		</span>
+			<span class="navDivider"></span>
 		
 	
 		<span class="navbarTab">
-			<a href="/b/sale?type=sale">
-				<h2 class="navLink">SALE</h2>
+			<a href="/Sale-Shoes-Handbags/b/sale">
+				<h2 class="navLink">Sale</h2>
 			</a>
 		</span>
 		
-			<span>
-    			<img src="http://g-ecx.images-amazon.com/images/G/01/Endless/en_US/images/nav_divider._V0_.gif" class="nav-divider" width="2" height="19" alt="">
-    		</span>
+			<span class="navDivider"></span>
 		
 	
 		<span class="navbarTab">
-			<a href="/b/designer">
+			<a href="/Designer-Shoes-Handbags/b/designer">
 				<h2 class="navLink">Designer</h2>
 			</a>
 		</span>
@@ -290,7 +358,8 @@
 <!-- End navbar-2 -->
 
 
-</div>
+<!-- End of Error Messages-->
+
 <div id="wrapper">
 <div class="insideWrapper">
 <div id="top-1"></div>
@@ -304,9 +373,12 @@
 
 
 <div id="helpContent">
-	
-		
-			<div id="helpContentTop"><img id="topLeftCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/top_left_corner.gif"><img id="topRightCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/top_right_corner.gif"></div>
+
+
+
+    
+        
+            <div id="helpContentTop"><img id="topLeftCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/top_left_corner.gif"><img id="topRightCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/top_right_corner.gif"></div>
 <div id="helpContentRight">
 <div id="helpContentLeft">
 <div class="topic">Ordering on Endless.com</div>
@@ -324,7 +396,7 @@
 <div class="subtopic">
 <li><a href="/help/200104710/">Free Overnight Shipping</a></li></div>
 <div class="subtopic">
-<li><a href="/help/200104720/">110% Price Guarantee</a></li></div>
+<li><a href="/help/200104720/">100% Price Match Guarantee</a></li></div>
 <div class="subtopic">
 <li><a href="/help/200104730/">365 Day Returns</a></li></div>
 <div class="subtopic">
@@ -388,8 +460,10 @@
 <div class="morelink"><a href="/help/200103530/">More...</a></div></div><!-- end of helpContent --></div><!-- end of helpContentRight -->
 <div id="helpContentBottom"><img id="bottomLeftCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/bottom_left_corner.gif"><img id="bottomRightCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/bottom_right_corner.gif"></div>
 <div></div>
-		
-	
+        
+    
+
+
 </div>
 </div>
 <div id="left-2"></div>
@@ -421,9 +495,12 @@
 
 <div class="helpContent">
 	<br>
-	
-		
-			<h1>Endless.com Privacy Notice</h1>
+    
+
+
+    
+        
+            <h1>Endless.com Privacy Notice</h1>
 <p><b>Last updated: October 31, 2006</b> <br>Endless.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. <b>By visiting Endless.com, you are accepting the practices described in this Privacy Notice.</b> </p>
 <ul>
 <li><a href="#gather">What Personal Information About Customers Does Endless.com Gather?</a> 
@@ -484,8 +561,10 @@
 <p>Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; search term and search result information from some searches conducted through the Web search features offered by our affiliates, Alexa Internet and A9.com; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.</p>
 <h2>Information You Can Access</h2>
 <p>Examples of information you can access easily at Endless.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications preferences, address book, and Express Checkout settings); and payment settings including credit card information.</p>
-		
-	
+        
+    
+
+
 
 	
 </div>
@@ -609,7 +688,7 @@
           <span>
           
             
-            <font color="#993300">FREE</font> Overnight Shipping - <font color="#993300">FREE</font> Return Shipping<br><font color="#993300">365</font>-Day Returns - <font color="#993300">110%</font> Price Guarantee
+            <font color="#993300">FREE</font> Overnight Shipping - <font color="#993300">FREE</font> Return Shipping<br><font color="#993300">365</font>-Day Returns - <font color="#993300">100%</font> Price Guarantee
           
           </span>
       
@@ -715,7 +794,7 @@
  
    
 
- <a href="/help/200104720">110% Price Guarantee</a>
+ <a href="/help/200104720">100% Price Guarantee</a>
  
  
    
@@ -813,4 +892,4 @@
 
 
 
-</body></html>
+</div></body></html>
