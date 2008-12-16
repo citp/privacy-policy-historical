@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the property-abroad.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612151727id_/http%3A//www.property-abroad.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property-abroad.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216144624id_/http%3A//www.property-abroad.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Property Abroad Privacy Policy
 
@@ -23,3 +23,7 @@ If do not wish to receive such information or would like to change your preferen
 **You have the right to ask in writing by email or post to our registered address for a copy of the information we hold about you (for which we may charge a fee) and to correct any inaccuracies in your information.**
 
 You have the right to ask in writing not to receive direct marketing material about our products and services. If the following facilities are available, you can amend your previous preference on our website(s), using our "unsubscribe e-mail" or in literature which you subsequently return to us. Once properly notified by you, we will take steps to stop using your information in this way. 
+
+### Data Protection Act 1998 
+
+We are registered with the Information Commissioner's Office for Data Control and our registration number is: **Z1450794**
