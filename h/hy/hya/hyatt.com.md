@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hyatt.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509075129id_/http%3A//www.hyatt.com/hyatt/customer-service/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyatt.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012605id_/http%3A//www.hyatt.com/hyatt/customer-service/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Hyatt Internet Privacy Policy
 
-[ Hyatt Home ](https://web.archive.org/hyatt/index.jsp;jsessionid=E50YPT3YFU5JDTQSNW2VAGGOCJWYOUP4)  >  Hyatt Internet Privacy Policy 
+[ Hyatt Home ](https://web.archive.org/hyatt/index.jsp)  >  Hyatt Internet Privacy Policy 
 
 ## PRIVACY POLICY
 
