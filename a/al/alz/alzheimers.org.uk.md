@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516082925id_/http%3A//www.alzheimers.org.uk/site/scripts/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216090043id_/http%3A//www.alzheimers.org.uk/site/scripts/terms.php) for the most accurate reproduction.*
 
 # Terms and disclaimer - Alzheimer's Society
 
