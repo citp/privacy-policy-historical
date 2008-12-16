@@ -1,18 +1,21 @@
-<!--The following is the downloaded HTML source of the idt.com privacy policy that was archived on 2008-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080614080239id_/http%3A//www.idt.com%3Fid%3D101%26source%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idt.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216030530id_/http%3A//www.idt.com%3Fid%3D101%26source%3Dfooter) for the most accurate reproduction.-->
 
 <html><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
 
-		<title>Integrated Device Technology
+		<title>
+			Integrated Device Technology
 		</title>
 		
 			<meta name="keywords" content=",Privacy and Security Policy,fifo,dual port,spi 3,clock buffers,standard logic,bus switch,standards based switching,serial switching,advanced switching,serial,sram,tcam,pci,ip co-processor,Cypress,PLX,Renesas,StarGen,Intel,PMC Sierra,ICS,IDT,IDTI">
 			<meta name="description" content=" Privacy and Security Policy. Communications IC supplier. Products include integrated processors, IP co-processors, telecom products, FIFOs, multi-ports, clock management products, digital logic and SRAMs.">
 		
 		<meta name="verify-v1" content="tRHMzfJdhLwiLthdJBtEpIR5Q2+9vRQH5dshFGQqmm0=">
-		<meta name="robots" content="index all,follow all">
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		
+		
+		
+		<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
 		<link rel="stylesheet" href="/ui/css/style.css">
 		<link rel="stylesheet" href="/ui/css/nav.css">
 		<script type="text/javascript" src="/ui/js/chrome.js">
@@ -29,6 +32,14 @@
 		<script type="text/javascript" src="/green/ui/connection-min.js"></script>
 		<script type="text/javascript" src="/green/ui/animation-min.js"></script>
 		<script type="text/javascript" src="/green/ui/autocomplete-min.js"></script>
+
+		<script language="javascript" type="text/javascript" src="/ui/js/yui/yahoo-min.js"></script>
+		<script language="javascript" type="text/javascript" src="/ui/js/yui/event-min.js"></script>
+		<script language="javascript" type="text/javascript" src="/ui/js/chdp.js"></script>
+		<script language="javascript" type="text/javascript" src="/ui/js/cssQuery-p.js"></script>
+		
+		<script language="javascript" type="text/javascript" src="/ui/js/yui/cookie-beta-min.js"></script>
+		<script language="javascript" type="text/javascript" src="/ui/js/jquery/jquery-min.js"></script>
 	
 <script type="text/javascript">
 	if (window.ColdFusion) ColdFusion.required['headerPartSearchInput']=true;
@@ -112,10 +123,14 @@
 //-->
 </script>
 </head>
-	
+
 	<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 		<div id="container">
+
+			
+			
+
 			<div class="bars"><img src="/images/global/margin.gif" width="994" height="5" alt=""></div>
 			<div class="bars"><img src="/images/head/corner-l.gif" alt="" width="10" height="8"><img src="/images/head/spacer-b.gif" width="974" height="8" alt=""><img src="/images/head/corner-r.gif" alt="" width="10" height="8"></div>
 
@@ -127,7 +142,32 @@
 					<div class="fL" id="lang_nav"><a href="http://www.idt.com" name="&amp;lid=langeng" id="eng"></a>  <a href="http://www.idt.com/china/" name="&amp;lid=langcna" id="cna"></a>  <a href="http://www.idt.com/japan/" name="&amp;lid=langjpn" id="jpn"></a></div>
 				</div>
 				
-				
+					<script language="javascript">
+						   function mOutTimeout(){
+						   			var objText = document.getElementById("headerPartSearchInput");
+						   			if (objText.value == ''){
+						   				objText.value='Search by Part Number';
+						   				objText.blur(); 									
+						   			}
+						   			 
+								  }
+						   function mOutTimeoutQ ()  {	
+						   			var objTextQ = document.getElementById("q");	
+						   			if (objTextQ.value == ''){				   					   		 
+						   				objTextQ.value='Search by Keyword(s)';
+						   				objTextQ.blur(); 								   			
+						   			}
+						   			 
+						   }
+							function mOut(){
+								var objText = document.getElementById("headerPartSearchInput");
+								if (objText.value == '') { 	setTimeout("mOutTimeout()",5000); }  
+							}
+							function mOutQ(){
+								var objTextQ = document.getElementById("q");
+								if (objTextQ.value == '') { setTimeout("mOutTimeoutQ()",5000); }
+							}
+						</script>
 				<div style="position:absolute; top:9px; right:250px; z-index:8001;">
 					
 					<form name="CFForm_1" id="CFForm_1" action="/index.cfm?id=101&amp;source=footer" method="get" onsubmit="return _CF_checkCFForm_1(this)">
@@ -136,7 +176,8 @@
 							<input type="hidden" name="searchtype" value="partNumber">
 							<input type="hidden" name="source" value="header_search">
 									<div id="headerPartSearchAutoComplete" style="float:left;" class="yui-ac">
-							<input name="search" type="text" value="Search by Part Number" size="25" class="form yui-ac-input" id="headerPartSearchInput" onmouseout="if (this.value == '') { this.value='Search by Part Number'; }" onfocus="if (this.value == 'Search by Part Number') { this.value=''; }" autocomplete="off">
+								 
+							<input name="search" type="text" value="Search by Part Number" class="form yui-ac-input" onmouseout="return mOut();" size="25" id="headerPartSearchInput" onfocus="if (this.value == 'Search by Part Number') { this.value=''; }" onblur="return mOut();" autocomplete="off">
 										<div id="headerPartSearchInputContainer" class="yui-ac-container"><div class="yui-ac-content" style="display: none;"><div class="yui-ac-hd" style="display: none;"></div><div class="yui-ac-bd"><ul><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li></ul></div><div class="yui-ac-ft" style="display: none;"></div></div></div>
 									</div>
 						<a href="" name="&amp;lid=PartSearchGo"></a><input class="searchspacing" type="image" src="/images/head/button_go.gif" onclick=" var searchVal = document.getElementById('headerPartSearchInput').value; if (!searchVal || (searchVal == 'Search by Part Number')) { return false; }; _hbLink('PartSearchGo');">
@@ -144,7 +185,7 @@
 
 									<script type="text/javascript">
 									 var schema = ['Record', 'Key', 'Value'];
-									 var hdrPartDataSrc = new YAHOO.widget.DS_XHR("/green/query/qry_getPartsToSuggest.cfm", schema);
+									 var hdrPartDataSrc = new YAHOO.widget.DS_XHR("/search/partNumber/query/qry_getPartsToSuggest.cfm", schema);
 									 hdrPartDataSrc.responseType = YAHOO.widget.DS_XHR.TYPE_XML;
 									 hdrPartDataSrc.scriptQueryAppend = "hide_invalid=1"
 									 var hdrPartAutoComp = new YAHOO.widget.AutoComplete("headerPartSearchInput","headerPartSearchInputContainer", hdrPartDataSrc);
@@ -153,7 +194,7 @@
 									 hdrPartAutoComp.typeAhead = false;
 									 hdrPartAutoComp.useShadow = true;
 									 hdrPartAutoComp.forceSelection = false;
-									 hdrPartAutoComp.autoHighlight = true;
+									 hdrPartAutoComp.autoHighlight = true; //<--markit
 									 //hdrPartAutoComp.useIFrame = true;
 									 hdrPartAutoComp.formatResult = function(oResultItem, sQuery) {
 									 	var sId = oResultItem[0];
@@ -162,6 +203,7 @@
 									 	return sTitle;
 									 }
 									</script>
+								
 					</form>
 
 				</div>
@@ -175,7 +217,7 @@
 						<input type="hidden" name="searchType" value="keyword">
 						<input type="hidden" name="search" value="">
 						
-							<input type="hidden" name="userID" value="16581995">
+							<input type="hidden" name="userID" value="22664965">
 							<input type="hidden" name="entqr" value="0">
 							<input type="hidden" name="output" value="xml">
 							<input type="hidden" name="sort" value="date%3AD%3AS%3Ad1">
@@ -185,7 +227,7 @@
 							<input type="hidden" name="ie" value="UTF-8">
 							
 							<input type="hidden" name="site" value="default_collection">
-							<input name="q" id="q" type="text" value="Search Site by keyword" class="form" size="25" onfocus="this.value='';" onmouseout="if (this.value == '') { this.value='Search Site by keyword'; }"> 
+							<input name="q" type="text" value="Search by Keyword(s)" class="form" onmouseout="return mOutQ();" size="25" id="q" onfocus="this.value='';" onblur="return mOutQ();"> 
 						<a href="" name="&amp;lid=GoogleMiniSearchGo"></a><input type="image" class="searchspacing" src="/images/head/button_go.gif" onclick="_hbLink('GoogleMiniSearchGo')">
 					</form>
 
@@ -212,65 +254,23 @@
 
 				&nbsp;<br>
 			
-
-
-
-<div class="pRfL">
-	<div style="width:184px; position:relative; left:10px; top:10px">
-      	<div class="bxtop" style="width:162px;">
-			<div class="bxgry">
-				<span>About IDT</span>
-			</div>
-		</div>
-		<div class="bxtrt"></div><br>
-		<div class="box" style="width:173px; background-color:#FFF;">
-			<br>
-			<div class="padl">
-				<div class="pRfL">
-					
-							<ul class="ligry">
-								<li><a href="?id=5#overview">Company Overview</a></li>
-								<li><a href="?id=5#target">Target Markets</a></li>
-								<li><a href="?id=5#quality">Quality and Manufacturing</a></li>
-								<li><a href="?id=5#environment">Environmentally Conscious</a></li>
-							</ul>
-					
-				</div>
-			</div>
-			<div style="clear:both">&nbsp;</div>
+<div style="width:979px; position:relative; left:10px; top:10px">
+	<div class="bxtop" style="width:964px;">
+		<div class="bxgry">
+			<span class="brd"> <a href="/">Home</a> &gt;
+				<a href="?id=5">About IDT</a> &gt;
+					Privacy and Security Policy
+			</span>
 		</div>
 	</div>
-	<div style="width:173px;">
-		<div class="bxbot" style="width:161px; position:relative; left:10px; top:10px">&nbsp;</div>
-		<div class="bxbrt" style="position:relative; left:10px; top:10px "></div>
-	</div>
-</div>
+	<div class="bxtrt"></div><br>
+	<div class="box3" style="width:975px; background-color:#FFF;">&nbsp;
 
-
-
-
-
-
-
-<div class="pRfL">
-	<div style="width:783px;position:relative; left:10px; top:10px">
-		<div class="bxtop" style="width:771px;">
-			<div class="bxgry">
-				<span class="brd"> <a href="/?source=aboutIDT_mainModule">Home</a> &gt;
-					<a href="?id=5">About IDT</a> &gt;
-						Privacy and Security Policy
-				</span>
-			</div>
-		</div>
-		<div class="bxtrt"></div><br>
-		<div class="box3" style="width:782px; background-color:#FFF;">&nbsp;
-		  <div class="padlrb">
-			
-				<table name="IDTcom.Main.Content" border="0">
-					<tbody><tr>
-						<td>
-							<table><tbody><tr><td width="4"> </td><td class="header-green" colspan="2">Privacy and Security Policy</td></tr></tbody></table><br>
-							<table style="FONT-SIZE: 12px" width="770" border="0">
+		
+			<table name="IDTcom.Main.Content" border="0">
+				<tbody><tr>
+					<td>
+						<table style="FONT-SIZE: 12px" width="770" border="0">
     <tbody>
         <tr>
             <td valign="top" align="left" width="748"><strong>Privacy Policy</strong><br>
@@ -299,17 +299,38 @@
         </tr>
     </tbody>
 </table>
-						</td>
-					</tr>
-				</tbody></table>
-			
-		  </div>
-			<div style="clear:both;"><br></div>
-	</div>
-	</div>
-	<div style="width:782px;">
-		<div class="bxbot" style="width:773px;position:relative; left:10px; top:10px"></div>
-		<div class="bxbrt" style="position:relative; left:10px; top:10px "></div>
+					</td>
+				</tr>
+
+				
+				
+				
+
+			</tbody></table>
+		
+
+	<div style="clear:both;"><br></div>
+</div>
+</div>
+<div style="width:975px; position:relative; left:10px">
+	<div class="bxbot" style="width:966px;"></div>
+	<div class="bxbrt"></div>
+</div>
+
+
+
+
+
+
+
+	<div class="bars" style="clear:both;">
+		<div id="footer">
+			<div class="foothr"><img src="/images/foot/spacer-hr.gif" width="994" height="1"></div>
+			<div class="footlnk"><a href="/?source=footer">Home</a> &nbsp;|&nbsp; <a href="/?app=siteMap&amp;source=footer">Site Map</a> &nbsp;|&nbsp; <a href="/?id=101&amp;source=footer" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu7, '150px')" onmouseout="delayhidemenu()">Legal</a> &nbsp;|&nbsp; <a href="/?id=11&amp;source=footer">Careers</a> &nbsp;|&nbsp; <a href="/?id=8&amp;source=footer">Contact Us</a> &nbsp;|&nbsp;   <a href="/?app=register&amp;source=footer" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu8, '200px')" onmouseout="delayhidemenu()">Quality</a> &nbsp;|&nbsp; <a href="/rss.cfm?id=101" onclick="return show_hide_box(this,180,150,'1px solid');"><img src="/ui/images/rssButton.gif" alt="Click here to receive this page as an RSS feed" border="0"></a> <a href="##" onclick="window.open('/ui/whatIs_RSS.cfm','WhatIs_RSS','width=520,height=350,left=200,top=200,scrollbars=1');">What is this?</a> &nbsp;</div>
+			Use of this website signifies your agreement to the <a href="/?id=101&amp;source=footer">acceptable use and privacy policy</a>. Copyright © 1997-2008 Integrated Device Technology, Inc. <a href="/?id=7&amp;source=footer">All Rights Reserved.</a>
+		</div>
+		<div class="bars"><img src="/images/foot/corner-l.gif" width="10" height="8"><img src="/images/foot/spacer-g.gif" width="974" height="8"><img src="/images/foot/corner-r.gif" width="10" height="8"></div>
+		<div class="bars"><img src="/images/global/margin.gif" width="994" height="5"></div>
 	</div>
 </div>
 
@@ -319,91 +340,19 @@
 
 
 
-        <div class="bars" style="clear:both;">
-                <div id="footer">
-                        <div class="foothr"><img src="/images/foot/spacer-hr.gif" width="994" height="1"></div>
-                        <div class="footlnk"><a href="/?source=footer">Home</a> &nbsp;|&nbsp; <a href="/?app=siteMap&amp;source=footer">Site Map</a> &nbsp;|&nbsp; <a href="/?id=101&amp;source=footer" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu7, '150px')" onmouseout="delayhidemenu()">Legal</a> &nbsp;|&nbsp; <a href="/?id=11&amp;source=footer">Careers</a> &nbsp;|&nbsp; <a href="/?id=8&amp;source=footer">Contact Us</a> &nbsp;|&nbsp;   <a href="/?app=register&amp;source=footer" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu8, '200px')" onmouseout="delayhidemenu()">Quality</a> &nbsp;|&nbsp; <a href="/rss.cfm?id=101" onclick="return show_hide_box(this,180,150,'1px solid');"><img src="/ui/images/rssButton.gif" alt="Click here to receive this page as an RSS feed" border="0"></a> <a href="##" onclick="window.open('/ui/whatIs_RSS.cfm','WhatIs_RSS','width=520,height=350,left=200,top=200,scrollbars=1');">What is this?</a> &nbsp;</div>
-                        Use of this website signifies your agreement to the <a href="/?id=101&amp;source=footer">acceptable use and privacy policy</a>. Copyright © 1997-2008 Integrated Device Technology, Inc. <a href="/?id=7&amp;source=footer">All Rights Reserved.</a>
-                </div>
-                <div class="bars"><img src="/images/foot/corner-l.gif" width="10" height="8"><img src="/images/foot/spacer-g.gif" width="974" height="8"><img src="/images/foot/corner-r.gif" width="10" height="8"></div>
-                <div class="bars"><img src="/images/global/margin.gif" width="994" height="5"></div>
-        </div>
-</div>
-
-
-<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-integrateddevicetech.hitbox.com";
-
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM561228EIDE96EN3";//ACCOUNT NUMBER(S)
-hbx.pn="Privacy and Security Policy";//PAGE NAME(S)
-hbx.mlc="/About IDT";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-
-//SEGMENTS AND FUNNELS
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-//INSERT CUSTOM EVENTS
 
 
 
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script>
-<script language="javascript1.1" src="/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
-
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-2739089-1";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2739089-1");
+pageTracker._trackPageview();
 </script>
+
+
 
 
 
