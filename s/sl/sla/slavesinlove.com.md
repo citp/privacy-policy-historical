@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slavesinlove.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615150235id_/http%3A//www.slavesinlove.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slavesinlove.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151645id_/http%3A//www.slavesinlove.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # SlavesInLove
 
