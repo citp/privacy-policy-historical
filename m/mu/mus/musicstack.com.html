@@ -1,42 +1,38 @@
-<!--The following is the downloaded HTML source of the musicstack.com privacy policy that was archived on 2008-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080604024427id_/http%3A//www.musicstack.com/privacy.cgi) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musicstack.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216160836id_/http%3A//www.musicstack.com/privacy.cgi) for the most accurate reproduction.-->
 
 <html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>MusicStack - Privacy Policy</title>
 <meta name="description" content="Buy music CDs, rare used cds, vinyl records and hard to find &amp; out-of-print LPs and cheap cd's">
 <meta name="keywords" content="music cds, used cds, buy music, rare cds, vinyl records, hard to find music, out of print music, cheap cd's, buy music">
 
 
-
-<link rel="StyleSheet" href="http://www.musicstack.com/styles.css" type="text/css">
-
-<script language="JavaScript" type="text/javascript">
-<!--
-function ck(form) {
-  if (form.find.value=="" || form.find.value == null)
-    return false;
-  else return true;
-}
-//-->
-</script>
+<link rel="stylesheet" type="text/css" href="http://www.musicstack.com/styles.css">
+<script type="text/javascript" src="http://www.musicstack.com/ajax/find.js"></script>
 </head>
 
-<body text="#000000" link="#0000CA" vlink="#00458A" alink="#000000" bgcolor="#FFFFFF">
-
+<body text="#000000" link="#0000CA" vlink="#00458A" alink="#000000" bgcolor="#FFFFFF" onclick="mouseOff();" onload="initiate_floater();document.getElementById('searchText').focus();">
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr><td valign="top" height="62"><a href="http://www.musicstack.com"><img src="http://www.musicstack.com/gif/header.jpg" alt="Buy rare cds, vinyl records, used cds and out-of-print music albums from 3500 record stores" height="62" width="324" border="0"></a></td>
 <td style="background: #ffffff url(http://www.musicstack.com/gif/header1.jpg) top left repeat;" height="62" width="100%" valign="top" class="tt">
-20 Million CDs &amp; Vinyl Records
+25 Million Used CDs &amp; Vinyl Records
 </td>
 <td height="62" valign="top"><img src="http://www.musicstack.com/gif/header4.jpg" width="173" height="62" border="0" usemap="#cart"><map name="cart"><area shape="rect" alt="" coords="131,0,169,44" href="http://help.musicstack.com"><area shape="rect" alt="" coords="64,0,115,44" href="http://www.musicstack.com/checkout.cgi"><area shape="rect" alt="" coords="0,0,64,43" href="http://www.musicstack.com/cart.cgi"></map></td>
 </tr><tr><td colspan="3" bgcolor="#eeeeee" valign="top">
 
 <table border="0" cellpadding="1" cellspacing="0" width="100%">
 <tbody><tr><td>
-<form style="margin-bottom:0;" onsubmit="return ck(this)" action="http://www.musicstack.com/show.cgi" method="post">
+
+<form name="search" action="http://www.musicstack.com/show.cgi" method="post" id="searchForm" autocomplete="off" style="margin-bottom: 0pt;" onsubmit="return ck(this)">
+
+&nbsp;<input id="searchText" class="boxtext" type="text" name="find" value="" size="20" maxlength="30" onfocus="flip(1)" onblur="flip(0)">
+<input type="hidden" name="find_focus" value="0">
+
+
 &nbsp;
-<select class="boxtext" name="search_type">
+<select id="boxt" class="boxtext" name="search_type">
 <option value="artist">Artist Search
 </option><option value="title">Title Search
 </option><option value="label">Label Search
@@ -44,7 +40,10 @@ function ck(form) {
 </option><option value="seller">Seller Search
 </option><option value="email">E-mail Search
 </option></select>
-<select class="boxtext" name="media">
+
+&nbsp;
+
+<select id="box1" class="boxtext" name="media">
 <option value="All">All Formats
 </option><option value="CDs">CDs only
 </option><option value="CDsVinyl">CDs &amp; Vinyl
@@ -132,12 +131,26 @@ function ck(form) {
 
 </option></select>
 
-<input class="boxtext" type="text" name="find" value="" size="20" maxlength="30">
-<input class="boxtext" type="submit" name="submit" value="Go">
 &nbsp;
+
+<input class="boxb" type="submit" name="submit" value="Search">
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.musicstack.com/advanced.cgi" class="headnav">Advanced&nbsp;Search</a>
 </form>
-</td><td align="right">
+
+<script language="JavaScript">
+<!--
+setTimeout("mouseOff()", 1200)
+//-->
+</script>
+
+</td>
+<td>
+
+<script type="text/javascript" src="http://w.sharethis.com/widget/?tabs=web%2Cpost&amp;charset=utf-8&amp;style=rotate&amp;publisher=73170fc1-6ff9-4a7e-9fa6-d33bda51e2ac&amp;linkfg=%23000000"></script>
+
+</td>
+<td align="right">
 <a href="http://login.musicstack.com/" class="headnav">My Account</a>
 
 &nbsp;
