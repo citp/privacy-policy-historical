@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611232903id_/http%3A//vtiger.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D65%26Itemid%3D147) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012356id_/http%3A//vtiger.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D65%26Itemid%3D147) for the most accurate reproduction.*
 
-# vtiger Open Source CRM - Salesforce , Marketing, Support Automation - vtiger Privacy Policy
+# vtiger Open Source CRM - vtiger Privacy Policy
 
 vtiger is committed to respecting your online privacy and recognize your need for appropriate protection of any information you share with us. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request.
 
@@ -25,4 +25,4 @@ Your personal information and other information related to your online activity 
 
 **Internet Commerce**
 
-The online store at store.vtiger.com is designed to give you options concerning the privacy of your personal information. Credit card information submitted for your purchase is never remembered by our site. vtiger is committed to data security with respect to information collected on our site. We offer the industry standard security measures available through your browser called SSL encryption. We use VeriSign Digital Certificates for SSL Encryption to make sure that all transactions are secure. If at any time you would like to make a purchase, but do not want to provide your credit card information online, you may contact sales.
+The online store at store.vtiger.com is designed to give you options concerning the privacy of your personal information. Credit card information submitted for your purchase is never remembered by our site. vtiger is committed to data security with respect to information collected on our site. We offer the industry standard security measures available through your browser called SSL encryption. We use VeriSign Digital Certificates for SSL Encryption to make sure that all transactions are secure. If at any time you would like to make a purchase, but do not want to provide your credit card information online, you may contact [sales@vtiger.com.](mailto:sales@vtiger.com.)
