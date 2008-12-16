@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crossloop.com privacy policy that was archived on 2008-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080605175749id_/http%3A//crossloop.com/ipage.htm%3Fid%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crossloop.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216024745id_/http%3A//www.crossloop.com/ipage.htm%3Fid%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -34,11 +34,14 @@
             <!--<div class="left"><a href="#" title="Home">Home</a> >> Public Profile URL</div>-->
             <script type="text/javascript">
 
-            document.write('<div class="left">')
-                document.write('&nbsp;<a href="' + homeUrl() + '" title="Home">Home</a>')
-            document.write('</div>')
+            if(document.referrer.match(/\.crossloop\.com/) && document.location.href.match(/\.crossloop\.com.+\?sid=.+/)) {
+                document.write('<div class="left">');
+                document.write('<img style="float: left" src="/images/return_icon.png">');
+                document.write('<div style="float: left; padding-top: 3px; padding-left: 4px;"><a href="javascript:window.history.go(-1)" title="Home">Return to search</a></div>');
+                document.write('</div>');
+            }
 
-            </script><div class="left">&nbsp;<a href="http://web.archive.org/" title="Home">Home</a></div>
+            </script>
             <div class="right">
                 <script type="text/javascript">
                     if (page_name != 'quick_login')
@@ -64,7 +67,7 @@
     </div>
 
     <div id="menu">
-        <div style="height: 46px;width: 185px; margin-left:13px;float:left;"><a href="/"><img src="images/gifs/blank.gif" alt="Crossloop"></a></div>
+        <div style="height: 46px;width: 185px; margin-left:13px;float:left;"><a href="/"><img src="images/gifs/blank.gif" alt="CrossLoop"></a></div>
           <div id="primenu_public">
         </div>
         <br class="clear">
@@ -91,7 +94,20 @@
 
           <script type="text/JavaScript">
 <!--
-
+function keyPress(e)
+{
+    // debugger;
+    var pK = e && e.which ? e.which : window.event.keyCode;
+    if (pK == 13)
+    {
+        var searchElement = document.getElementById('search');
+        searchElement.value = searchElement.value.replace(/"/g, "'");
+        if (prompt != null && prompt == searchElement.value)
+            searchElement.value = "";
+        url = "/search.htm?q=" + searchElement.value;
+        window.location.href = url;
+    }
+}
 function setLoginPromptIfEmpty(e)
 {
     if (e.value=='')
@@ -133,7 +149,14 @@ function MM_swapImage() { //v3.0
              </script>CrossLoop Privacy Policy
          </span>
      </div>
-     <div class="searchbarinputcontainer"><input id="search" name="search" type="text" class="searchinput" value="Search" style="color:#b3b3b3;" onfocus="if(this.value=='Search'){this.value='';this.style.color='#000';}else{this.select();}" onblur="if(this.value==''){this.value='Search';this.style.color='#b3b3b3';}">
+     <!--[if IE]>
+     <div class="searchbarinputcontainer"><input id="search" onkeypress=keyPress() name="search" type="text" class="searchinput" value="Search" style="color:#b3b3b3;" onFocus="if(this.value=='Search'){this.value='';this.style.color='#000';}else{this.select();}" onBlur="if(this.value==''){this.value='Search';this.style.color='#b3b3b3';}"/>
+      <![endif]-->
+
+    <!--[if !IE]-->
+    <div class="searchbarinputcontainer"><input id="search" onkeypress="keyPress(event)" name="search" type="text" class="searchinput" value="Search" style="color:#b3b3b3;" onfocus="if(this.value=='Search'){this.value='';this.style.color='#000';}else{this.select();}" onblur="if(this.value==''){this.value='Search';this.style.color='#b3b3b3';}">
+
+    <!--[endif]-->
      </div>
 
      <div class="searchboxbtncontainer">
@@ -199,20 +222,19 @@ function MM_swapImage() { //v3.0
 
   <div id="search_round_btmbar"></div>
 <div id="search_footer" align="center">
-  <p>
+
       <script type="text/javascript">
         document.write('<a href="' + homeUrl() + '">Home</a> | ');
       </script><a href="http://web.archive.org/">Home</a> | 
-      <a href="createaccount.htm">Free Account</a> |
       <a href="/ipage.htm?id=download">Free Download</a> |
-      <a href="/ipage.htm?id=howitworks">How it works</a> |
+      <a href="/ipage.htm?id=howitworks">Help</a> |
       <a href="/ipage.htm?id=security">Security</a> |
       <a href="http://crossloop.typepad.com" target="_blank">Blog</a> |
       <a href="/ipage.htm?id=aboutus">About Us</a> |
       <a href="/ipage.htm?id=aboutcont">Contact Us</a> |
       <a href="/ipage.htm?id=termsofservice">Terms</a> |
       <a href="/ipage.htm?id=privacypolicy">Privacy</a>
-  </p>
+
   <br>
       <span class="copyrighttext">
           © 2006-2008 CrossLoop Inc. All Rights Reserved.
