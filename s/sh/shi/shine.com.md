@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603150138id_/http%3A//www.shine.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152157id_/http%3A//www.shine.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : Shine.com
 
   
 The Privacy Policy (hereinafter “the policy”) provided below is with respect to our use and protection of any personal information/data you provide to us through our website. Firefly e-Ventures Limited (FEVL) is the sole owner of the website [_www.shine.com_](http://www.shine.com/) (hereinafter “website”). The Policy is applicable to the website. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy.  |  **1) Information Collection**  
