@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluechillies.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513082734id_/http%3A//www.bluechillies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluechillies.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216085427id_/http%3A//www.bluechillies.com/privacy.html) for the most accurate reproduction.*
 
-# Your Freeware and Shareware Download Destination! : BlueChillies.com
+# Privacy Policy : Your Freeware and Shareware Download Destination! : BlueChillies.com
 
 PRIVACY POLICY
 
@@ -12,7 +12,7 @@ PRIVACY POLICY
 
 **BlueChillies.com** run some survey and submission form in which we ask the visitors for their email address. This email address we obtain from visitors will not be sold or shared with any third party. All information gathered is used for internal purposes only. 
 
-**BlueChillies.com** use some outside ad companies to display ads on the site. These ads may contain cookies. Cookies received with banner ads are collected by our ad companies, and we do not have access to this information. 
+**BlueChillies.com** use some outside ad companies to display ads on the site. These ads contain cookies or web beacons. Cookies received with text or banner ads are collected by our ad companies, and we do not have access to this information. You can chose to disable or selectively turn off our cookies in your browser settings.
 
 **BlueChillies.com** has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers have strict security in place to prevent an intruder from retrieving personal information about our users. Staff overlook server access daily to ensure the above holds true. 
 
