@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607172032id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160633id_/http%3A//xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
 
-# XtraOrbit.Com :: Company Profile :: Privacy Policy :: E-Gold, MoneyBookers, PayPal, Google CheckOut and Credit Cards Accepted.
+# XtraOrbit.Com :: Company Profile :: Privacy Policy :: E-Gold, MoneyBookers, PayPal, Liberty Reserve, Google CheckOut and Credit Cards Accepted.
 
 |  |  |  |   
 ---|---|---  
@@ -56,4 +56,26 @@ XtraOrbit reserves the right to add, delete, or modify any provision of its Priv
   
   
 |  |   
-| 
+  
+|   
+---  
+[](http://forums.xtraorbit.com/)  
+---  
+[](http://www.xtraorbit.com/core/about/moneybookers.php)  
+---  
+|   
+---|---  
+  
+  
+  
+  
+---  
+[](https://web.archive.org/core/docs/main_terms.php)  
+  
+Major payment methods are accepted, We accept major **credit** and **debit cards** , [**E-Gold**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/e-gold.php), [**Paypal**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/paypal.php), [**Moneybookers**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/moneybookers.php), [**Liberty Reserve**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/libertyreserve.php) and **Google Checkout**.
+
+So, you are free to order or register single domain names, bulk domain names, web hosting, cPanel hosting, website design and website templates Instantly using any of the above payment methods. 
+
+  
+  
+---
