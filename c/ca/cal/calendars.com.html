@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2008-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080427230405id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216170910id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -580,6 +580,7 @@ text-decoration: underline;
   FONT-WEIGHT: bold;
   padding:5px;height:35px;vertical-align:middle;
   white-space: nowrap;
+  width:100%;
 }
 
 .tdfiller{
@@ -624,7 +625,8 @@ background-color:blue;
 .hint{font-size:75%;}
 
 .BigTable{height:1000px;}
-
+#surveycomments{text-align:center; textarea-vertical-align:middle;width:262px;height:50px;}
+#fuze_answer_table{padding-left:20px;padding-top:20px;}
 -->
 
 
@@ -820,31 +822,33 @@ function IsPasswordValid(sPassword)
 	var i;
 	var sPrevChar="";
 	
-	for(i=0;i<sPassword.length;i++)
-	{
-		if((sPrevChar != "") && (sPrevChar != sPassword.substr(i,1)))
-		{
-			bRepeated = false;
-			break;
-		}
-		sPrevChar = sPassword.substr(i,1);
-	}
+	//for(i=0;i<sPassword.length;i++)
+	//{
+		//alert(isWhitespace(sPassword.substr(i,1)));
+		//if((sPrevChar != "") && (sPrevChar != sPassword.substr(i,1)))
+		//{
+		//bRepeated = false;
+		//	break;
+		//}
+		//sPrevChar = sPassword.substr(i,1);
+	//}
 	
-	if(sPassword.length < 6 || sPassword.length > 20 || bRepeated)
+	if(sPassword.length < 6 || sPassword.length > 20)
 	{
 		return false;
 	}
-	
-	var re = new RegExp("^[0-9a-zA-Z]*$","i");
+    
+    //var re = new RegExp("^[0-9a-zA-Z$!^&()_~{}|.?\,+=\*\%\#\@]*$","i");
+	var re = new RegExp("^.*[\\s\'\"/\\\\<>`].*$","i");
 	var stringFound = sPassword.match(re);
-
+	
 	//Display error message if the pattern was not found
-	if (!stringFound) 
+	if (stringFound==null) 
 	{
+		return true;
+	}else{	
 		return false;
 	}
-
-	return true;
 }
 
 function cat(ID, Desc, parent) 
@@ -1529,11 +1533,13 @@ function setParent(url) {
 				<td align="left" id="kbdetailnewnav" nowrap="">
 					<a target="new" class="normallink" href="kbdetail.asp?kbid=41&amp;p=t"><img alt="Print This Item" src="../images/printicon2.gif" border="0" width="21" height="14"></a>
 					<a class="normallink" href="kbdetail.asp?kbid=41&amp;p=t" target="new">Print</a>
+					
 				</td>
 				<td align="left" id="kbdetailnewnav" nowrap="">
 					<a href="emailfaq.asp?kbid=41">
 					<img src="../images/emailicon2.gif" border="0" alt="Email This Item" width="21" height="14"></a>
 					<a class="normallink" href="emailfaq.asp?kbid=41">E-mail</a>
+					
 				</td>
 				
 				<td align="left" id="kbdetailnewnav" nowrap="">
@@ -1546,27 +1552,32 @@ function setParent(url) {
 				<td align="left" id="kbdetailnewnav" nowrap="">
 					<a href="#rateit"><img alt="Rate This Item" src="../images/rateicon.gif" border="0" width="14" height="14"></a>
 					<a href="#rateit" class="normallink">Rate</a>
+					
 				</td>
 				
 				<td align="left" id="kbdetailnewnav" nowrap="">
 					<a href="#related"><img alt="View Related Info" src="../images/link1.gif" border="0" width="16" height="14"></a>
 					<a href="#related" class="normallink">Related</a>
+					
 				</td>
 				
 				<td align="left" id="kbdetailnewnav" nowrap="">
 					<a href="javascript:void(0);" onclick="javascript:AddBookMark(window.location.href, 'Calendars.com Item#41');"><img alt="Bookmark This Item" src="../images/bookmarkicon2.gif" border="0" width="19" height="14"></a>
 					<a href="javascript:void(0);" onclick="javascript:AddBookMark(window.location.href, 'Calendars.com Item#41');" class="normallink">Bookmark</a>
+					
 				</td>
-				
-				<td align="right" width="100%"><a class="normallink" href="search.asp?">Search</a></td>
+				<td align="right" width="100%">
+					<a class="normallink" href="search.asp?">Search</a>
+					
+				</td>
 			</tr>
 			<tr>
-				<td colspan="9" id="kbdetailnewnav" style="padding-top:10px;" nowrap="">
+				<td colspan="6" id="kbdetailnewnav" style="padding-top:10px;" nowrap="">
 					<table cellspacing="0" cellpadding="2" valign="top">
 						<tbody><tr>
 							
-								<td valign="top" id="kbdetailnewnav" nowrap=""><b>View all items in:</b></td>
-								<td valign="top" id="kbdetailnewnav" nowrap="" style="line-height:16px;"> <a class="normallink" href="search.asp?catID1=6">Privacy Policy</a><br></td>
+								<td valign="top" id="kbdetailnewnav" nowrap="" class="FuzeKBBreadCrumb"><b>View all items in:</b></td>
+								<td valign="top" id="kbdetailnewnav" nowrap="" class="FuzeKBBreadCrumb" style="line-height:16px;"> <a class="normallink" href="search.asp?catID1=6">Privacy Policy</a><br></td>
 							
 							<td valign="top" id="kbdetailnewnav" nowrap="">
 							<img src="../images/spacer.gif" width="20" height="2" alt="">
@@ -1580,6 +1591,7 @@ function setParent(url) {
 						</tr>
 					</tbody></table>
 				</td>
+				<td width="100%">&nbsp;</td>
 			</tr>
 		</tbody></table>
 
@@ -1605,6 +1617,9 @@ function setParent(url) {
 		<table width="100%" cellpadding="0" cellspacing="0" border="0">
 			
 			<tbody><tr>
+				
+				
+				
 				<td style="padding-left:20px;">
 					
 				</td>
@@ -1614,7 +1629,7 @@ function setParent(url) {
 				<td>
 				<a id="answertext">
 				
-					<table width="100%" cellpadding="20" cellspacing="0" border="0">
+					<table width="100%" cellpadding="0" cellspacing="0" border="0" id="fuze_answer_table">
 						
 						<tbody><tr>
 							<td>
@@ -1651,7 +1666,7 @@ We save the information about products you purchased to provide you with the bes
 If at any time you would like to change any information in your account, just go to the My Account link in the upper right-hand corner of each page. Here you can change or update your email address and password, billing address, payment options, shipping options, address book, and email preferences. Be sure to click Save My Changes when you have updated your account.</p>
 <p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
 </span>&nbsp;
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="font-size: 9pt; color: black; font-family: Verdana"><strong>To remove your name</strong> from our special email bulletins, please click on the link located at the bottom of each promotional email.</span></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="font-size: 9pt; color: black; font-family: Verdana"><strong>To remove your name</strong> from our special email bulletins, please click on the link located at the bottom of each promotional email or edit your email option in <a href="http://www.fuzeqna.com/calendars/consumer/kbdetail.asp?kbid=281">your account</a>.</span></p>
 <p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
 <p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="font-size: 9pt; color: black; font-family: Verdana"><span style="font-size: 9pt; color: black; font-family: Verdana; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Our policy is intended to provide you with the safest and most secure shopping experience possible. Since the law, offerings and technologies change, we reserve the right to change, modify, add or remove portions of our privacy policy at any time without prior notice. If you have further questions, please feel free to contact our <a href="http://www.fuzeqna.com/calendars/consumer/kbdetail.asp?kbid=167">Customer Service</a> team.</span></span></p>
 </div>
@@ -1672,7 +1687,7 @@ If at any time you would like to change any information in your account, just go
 				<input type="hidden" name="ao" value="">
 				<input type="hidden" name="keyword" value="">
 				<input type="hidden" name="match" value="">
-				<input type="hidden" name="passKey" value="2436487">
+				<input type="hidden" name="passKey" value="9696161">
 				<input type="hidden" name="gpn" value="">
 				<input type="hidden" name="gpv" value="">
 		
@@ -1734,10 +1749,7 @@ If at any time you would like to change any information in your account, just go
 						<tr valign="middle">
 							<td>
 							
-								<textarea name="surveycomments" rows="3" cols="30" style="text-align:center; textarea-vertical-align:middle;" onclick="javascript:EraseComment();">
-Enter Comments Here
-
-								</textarea>
+								<textarea id="surveycomments" name="surveycomments" onclick="javascript:EraseComment();">	Enter Comments Here</textarea>
 							</td>
 							<td width="100%"><nobr>
 								<select name="question1">
@@ -1795,7 +1807,7 @@ Enter Comments Here
 						</tr>
 						<tr>
 							<td class="GrayLabelBottom">Date</td>
-							<td colspan="3" class="GrayLabelDataBottom">12/3/2007</td>
+							<td colspan="3" class="GrayLabelDataBottom">4/30/2008</td>
 						</tr>
 					</tbody></table>
 				</a></td>
