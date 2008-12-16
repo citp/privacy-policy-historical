@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knittinghelp.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613003936id_/http%3A//www.knittinghelp.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knittinghelp.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020653id_/http%3A//www.knittinghelp.com/about/privacy-policy) for the most accurate reproduction.*
 
 # KnittingHelp.com | Privacy Policy
 
@@ -24,13 +24,13 @@ We collect personal and personally identifiable information such as your name an
 
 Please take some time to familiarize yourself with the different ways that KnittingHelp.com uses the information that we gather. Keep in mind that, while we encourage all third parties (Merchant America, PayPal, Google, etc.) involved in running our business to adhere to our policies regarding the privacy of our visitors and to otherwise handle personally identifiable information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from KnittingHelp.com or independently. 
 
-### Non-personally identifiable information
+### Non-personally Identifiable Information
 
 KnittingHelp.com uses non-personally identifiable information, such as your IP address and the pages that you visit on our Site, to help diagnose problems with our servers and to administer our Site and improve Site-related services and features. Your IP address and other non-personally identifiable information also may be used to gather broad demographic information and to recognize customer traffic patterns and Site usage trends. This information aids us in advertising and in developing the Site.
 
 We also may share aggregated statistical data and other non-personally identifiable information with our current and potential business partners, and with our service providers. Such information includes the total number of visitors in a particular month or the top keyword searches that landed people on the Site. We will never disclose personally indentifiable information to third parties unless requires by a law enforcement agency.
 
-### Personally identifiable information
+### Personally Identifiable Information
 
 KnittingHelp.com uses personally identifiable information collected from you to: 
 
@@ -46,6 +46,10 @@ KnittingHelp.com uses personally identifiable information collected from you to:
 We do not sell, rent, or offer personally indentifiable information collected from you to other companies or individuals. Financial information (credit card numbers, credit card expiration dates, billing address, and so forth) is used to bill you for products purchased through our store. You may, from time to time, receive information from us regarding new features, new products and special offers we think you'll find valuable.
 
 KnittingHelp.com also may use your personally identifiable information to "pre-populate" forms that are used by the Site to facilitate transactions with us. Other types of use by us of personally identifiable information are discussed below. 
+
+### Children and Parents
+
+Children under the age of 14 are permitted to register for membership on KnittingHelp.com but must seek the permission of a parent or guardian beforehand. Parents or guardians may request that their child's account be removed from KnittingHelp.com at anytime. Information collected during registration is only used to complete the registration and process and facilitate the functions of the forum. Personal information is never shared with 3rd parties or released to other members.
 
 ### Service Providers
 
@@ -80,7 +84,7 @@ KnittingHelp.com
 P.O. Box 3306   
 Amherst, MA 01004-3306 
 
-Effective Date of Current Policy: October 1st, 2007 
+Effective Date of Current Policy: October 30th, 2008 
 
   
 
