@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dog.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509072900id_/http%3A//www.dog.com/CS/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dog.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216053725id_/http%3A//www.dog.com/CS/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dog.com
 
-|  You are here > [Home ](https://web.archive.org/) > Privacy Policy
+|  You are here > [Home ](https://web.archive.org/) >
 
 Privacy Policy
 
@@ -26,24 +26,16 @@ Dog.com may share non personal, non-individual aggregate information or summary 
 
 | 
 
-[](https://web.archive.org/Breeds/Default.aspx "Breeds")[](https://web.archive.org/ "Online Catalog")
-
-[](http://community.dog.com/forums/ "Forum")[](https://web.archive.org/Articles.aspx "Articles")
-
-[](http://community.dog.com/blogs/ "Blogs")[](http://community.dog.com/photos/ "Photos")
-
   
 
+
+[](https://web.archive.org/CS/HolidayShipping.aspx "Holiday Shipping Schedule")
+
+[](https://web.archive.org/ScreenSaverSignup.aspx "Free Screensavers")
 
 Sign up for Dog.com's exclusive promotions and for your chance to win.
 
 [](https://web.archive.org/CS/EmailSignup.aspx) This Month's Winner:  
-Lydia V. of Carlsbad, CA
-
-  
-
-
-Today:  
-98.9%  
+Vance S. of Barnegat, NJ  
   
 ---|---|---
