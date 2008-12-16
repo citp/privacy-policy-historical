@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pgp.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509194049id_/http%3A//www.pgp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgp.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054214id_/http%3A//www.pgp.com/privacy.html) for the most accurate reproduction.*
 
-# PGP Corporation - Privacy
+# PGP Corporation - Legal
 
-|   | 
-
-PGP Corporation (the Company) respects your privacy and is committed to protecting all personal information that you provide. This Privacy Statement is created to inform you of the Company's privacy policies and practices and to explain how your information is collected and used.
+### PGP Corporation (the Company) respects your privacy and is committed to protecting all personal information that you provide. This Privacy Statement is created to inform you of the Company's privacy policies and practices and to explain how your information is collected and used.
 
 **Information Collection and Use**  
 This Privacy Statement covers collection of personal information and non-personal information. Personal information is any information associated with your name or personal identity. Non-personal information is data about usage patterns, reported in aggregate, which is not associated with a specific personal identity.
@@ -52,4 +50,4 @@ Please note that some information may remain in backups of the Company's records
 PGP Corporation occasionally reviews and modifies this Privacy Statement. Therefore, the Company recommends that you review the terms from time to time to ensure that you are aware of how it collects and uses personal information. By using the PGP website, you consent to the collection and use of your personal information as outlined here.
 
 **Further Information**  
-If you have questions regarding our Privacy Statement, please contact us at [customersupport@pgp.com](mailto:customersupport@pgp.com). For other general questions, please go to our Contact Us page [http://www.pgp.com/company/contact.html](https://web.archive.org/web/20080509194049id_/http%3A//www.pgp.com/company/contact/contactoffices.html).
+If you have questions regarding our Privacy Statement, please contact us at [customersupport@pgp.com](mailto:customersupport@pgp.com). For other general questions, please go to our Contact Us page [http://www.pgp.com/about_pgp_corporation/contact/index.html](https://web.archive.org/web/20081216054214id_/http%3A//www.pgp.com/about_pgp_corporation/contact/index.html).
