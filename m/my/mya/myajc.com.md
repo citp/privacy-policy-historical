@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myajc.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210230146id_/http%3A//www.ajc.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myajc.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011026id_/http%3A//www.ajc.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Welcome to AJC! | ajc.com
 
@@ -6,10 +6,10 @@ LAST UPDATED: March 17, 2006
 
 We care about your privacy. We will not sell your name or email address to any third party advertisers without your permission. **Please read our privacy policy below for further details.**
 
-AJC.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Cox Enterprises, Inc., d/b/a The Atlanta Journal-Constitution ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our General Manager:
+AJC.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Cox Enterprises, Inc., d/b/a The Atlanta Journal-Constitution ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to:
 
-General Manager Internet Operations  
-The Atlanta Journal-Constitution  
+Vice President, Internet Operations  
+The Atlanta Journal-Constitution   
 P.O. Box 4689  
 Atlanta, Georgia 30302  
 [Send E-mail](http://www.ajc.com/services/content/services/help/ajc_feedback.html?no_owrap=true)
