@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qnx.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516052216id_/http%3A//www.qnx.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnx.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032039id_/http%3A//www.qnx.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # QNX Software Systems Privacy Statement
 
