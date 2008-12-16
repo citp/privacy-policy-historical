@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologicalscience.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616095055id_/http%3A//www.psychologicalscience.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologicalscience.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100038id_/http%3A//www.psychologicalscience.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Association for Psychological Science: About APS
 
@@ -44,8 +44,8 @@ This site contains links to other sites. Association for Psychological Science i
 If you have any additional questions or concerns about our privacy policy, please contact us:
 
 **Association for Psychological Science**  
-1010 Vermont Avenue, NW, 11th Floor  
-Washington, DC 20005-4918  
+1133 15th street, NW, Suite 1000  
+Washington, DC 20005  
 USA  
-Telephone: +1 202.783.2077, Fax: +1 202.783.2083  
+Telephone: +1 202.293.9300, Fax: +1 202.293.9350  
 [Contact APS](https://web.archive.org/contact/ "Contact APS")
