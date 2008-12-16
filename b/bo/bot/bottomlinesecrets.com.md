@@ -1,10 +1,34 @@
-> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529142309id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050811id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
 
 # BottomLineSecrets.com Web site Privacy Policy
 
-**BottomLineSecrets.com Web site Privacy Policy**
+  *   *   *   *     * [Bottom Line Secrets](http://www.bottomlinesecrets.com/el/bls_signup.html)
+    * [Daily Health News](http://www.bottomlinesecrets.com/el/dhn_signup.html)
+    * [Update Your E-mail Preferences](http://www.bottomlinesecrets.com/el/prefs.html)
+  *   *     * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_blp.html)
+    * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=blp)
+  *     * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_blh.html)
+    * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=blh)
+  *     * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_bnah.html)
+    * [Meet Dr. Stengler](http://www.bottomlinesecrets.com/experts/mstengler.html)
+    * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=nah)
+  *     * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_bwh.html)
+    * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=bmwh)
+  *     * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_blr.html)
+    * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=tomm)
+  *     * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_blw.html)
+    * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=taxl)
+  *     * [E-mail Preferences](http://www.bottomlinesecrets.com/cs/index.html)
+    * [Subscriptions](http://www.bottomlinesecrets.com/cs/subscription.html)
+    * [Books & Merchandise](http://www.bottomlinesecrets.com/cs/contact.html)
+    * [Editorial](http://www.bottomlinesecrets.com/cs/editorial.html)
+    * [Contact Us](http://www.bottomlinesecrets.com/cs/contact.html)
+  *   * 
+| 
 
-Effective April 2005 
+BottomLineSecrets.com Web site Privacy Policy
+
+Effective October 2008
 
 Thank you for visiting BottomLineSecrets.com, part of the family of Boardroom Inc. publications. This privacy policy ("Policy") applies to all Boardroom Inc. Web sites, including but not limited to Boardroom.com, BottomLinePersonal.com, BottomLineHealth.com, BottomLineTomorrow.com, BottomLinePress.com and I-Power.com (collectively, the "Web sites"). This Policy explains what information Boardroom, Inc. ("Boardroom" or "we") collects on the Web sites and how such information is used. By visiting any of the Web sites, you signify your acceptance of this Policy.
 
@@ -20,7 +44,7 @@ The information we collect from our Web sites is limited to.
   2. **Counts and trends regarding what pages people look at on our Web sites.** _Example:_ We can determine which pages on our Web sites are visited most often, and which operating systems (such as Windows 95 or Macintosh OS) and Web browsers (such as Netscape or Internet Explorer) are the most popular. None of this information identifies you personally. We use the information in the aggregate only to improve our Web sites and make them more informative. 
   3. **Information volunteered by site visitors.** We collect personal information about our customers on customer service forms, subscription forms, surveys, contests and promotions. 
 
-Our agents and vendors, such as database architects and e-mail broadcasters, who have access to our customers’ personally identifying information, are instructed to only use this information in connection with the work they are doing for Boardroom and no for no other purpose. 
+Our agents and vendors, such as database architects and e-mail broadcasters, who have access to our customers’ personally identifying information, are instructed to only use this information in connection with the work they are doing for Boardroom and for no other purpose. 
 
 Boardroom may disclose information by or about visitors to the Web sites in order to (1) comply with applicable laws, (2) respond to governmental inquiries, (3) comply with valid legal process, and (4) protect the rights or property of Boardroom. 
 
@@ -35,11 +59,11 @@ If for some reason you would prefer not to take advantage of the benefits made p
 
 Bottom Line Secrets Newsletters
 
-For those who [specifically request it](http://store.bottomlinesecrets.com/cust_service/email.html), we send an E-mail letter at least three times each week with specially selected tips of the week and information about what's new on the Web sites and in the pages of our publications. We also send occasional e-mail letters for special events, such as holidays, to those who have requested our e-mail letter. If you do not want to receive this E-mail in the future, please let us know by filling out [this form](http://store.bottomlinesecrets.com/cust_service/email_unsub.html). Please understand that processing this request may take a few days and you may receive newsletters during this time. We appreciate your understanding during this process.
+For those who [specifically request it](http://store.bottomlinesecrets.com/cust_service/email.html), we send an E-mail letter at least three times each week with specially selected tips of the week and information about what's new on the Web sites and in the pages of our publications. Additionally, one time each week we send an email that gives readers the opportunity to preview a specific Boardroom product or a third party product that helps people enrich the quality of their lives. We also send occasional e-mail letters for special events, such as holidays, to those who have requested our e-mail letter. If you do not want to receive this E-mail in the future, please let us know by filling out [this form](http://store.bottomlinesecrets.com/cust_service/email_unsub.html). Please understand that processing this request may take a few days and you may receive newsletters during this time. We appreciate your understanding during this process.
 
 Daily Health News Newsletters
 
-For those who [specifically request it](http://www.bottomlinesecrets.com/e2/e2_signup.html), we send an E-mail letter at least four times each week with newly written and edited material about health and wellness specifically produced for Daily Health News. Additionally, one time each week we send an email that gives readers the opportunity to preview a specific Boardroom product that helps people enrich the quality of their lives. We also send occasional e-mail letters for special events, such as holidays, to those who have requested our e-mail letter. If you do not want to receive this E-mail in the future, please let us know by filling out [this form](http://www.bottomlinesecrets.com/e2/e2_unsub.html). Please understand that processing this request may take a few days and you may receive newsletters during this time. We appreciate your understanding during this process.
+For those who [specifically request it](http://www.bottomlinesecrets.com/e2/e2_signup.html), we send an E-mail letter at least four times each week with newly written and edited material about health and wellness specifically produced for Daily Health News. Additionally, one time each week we send an email that gives readers the opportunity to preview a specific Boardroom product or a third party product that helps people enrich the quality of their lives. We also send occasional e-mail letters for special events, such as holidays, to those who have requested our e-mail letter. If you do not want to receive this E-mail in the future, please let us know by filling out [this form](http://www.bottomlinesecrets.com/e2/e2_unsub.html). Please understand that processing this request may take a few days and you may receive newsletters during this time. We appreciate your understanding during this process.
 
 Boardroom Special Offers
 
@@ -87,4 +111,5 @@ As Boardroom continues to explore new business opportunities, it may need to, an
   
 
 
-* * *
+ID=16004  
+
