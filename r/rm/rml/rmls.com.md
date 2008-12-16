@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rmls.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611233714id_/http%3A//www.rmls.com/RC2/UI/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmls.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013210id_/http%3A//www.rmls.com/RC2/UI/privacystatement.asp) for the most accurate reproduction.*
 
-# RMLS™ Regional Multiple Listing Service - Privacy Policy
+# RMLS.com™ Regional Multiple Listing Service - Privacy Policy
 
 RMLS™ operates a member-based multiple listing service.  As part of the services offered to our members, RMLS™ has created and maintains a public website, RMLS.COM, that members can direct their clients to use. 
 
