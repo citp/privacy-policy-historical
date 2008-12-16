@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2btrade.biz privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615035438id_/http%3A//www.b2btrade.biz/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2btrade.biz privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170711id_/http%3A//www.b2btrade.biz/Privacy.php) for the most accurate reproduction.*
 
 # Asia B2B trade Portal for Import Export Business focus on Asia
 
