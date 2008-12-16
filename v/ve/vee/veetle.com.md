@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the veetle.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610001821id_/http%3A//veetle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veetle.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153719id_/http%3A//www.veetle.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
 Nothing is more important to Veetle than protecting the private information of visitors to our site. Below you'll find information about our commitment to ensuring the privacy of your and your children's personally identifiable information (such as your full name, address, email address, telephone number and/or other identifying information) and preserving the integrity of the medium.
 
-Please read the following carefully. If you have any questions or concerns, please contact us at Veetle, Inc, 459 Hamilton Ave, Palo Alto, CA 94301.
+Please read the following carefully. If you have any questions or concerns, please contact us at Veetle, Inc, 261 Hamilton Ave, Palo Alto, CA 94301.
 
 ### Gathering and Use of Information
 
@@ -16,4 +16,4 @@ Veetle may use such information only for conducting the activities stated above.
 
 ### Acceptance of these Veetle Web Site Privacy Policy Terms and Conditions
 
-By using this site, you signify your agreement to the terms and conditions of this Veetle Web Site Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of the Veetle Web Site following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please contact us at Veetle, Inc, 459 Hamilton Ave, Palo Alto, CA 94301.
+By using this site, you signify your agreement to the terms and conditions of this Veetle Web Site Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of the Veetle Web Site following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please contact us at Veetle, Inc, 261 Hamilton Ave, Palo Alto, CA 94301.
