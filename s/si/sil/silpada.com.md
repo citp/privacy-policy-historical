@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the silpada.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521054107id_/http%3A//silpada.com/public/us/en/legal/privacy.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silpada.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155648id_/http%3A//www.silpada.com/public/us/en/legal/privacy.jsf) for the most accurate reproduction.*
 
 # Silpada Designs Sterling Silver Jewelry
 
 ##  Silpada Designs Privacy Policy 
 
-**Please read this Privacy Policy carefully prior to using this Site. By using the Site, you indicate your agreement with this Privacy Policy. If you do not agree to the Privacy Policy, do not use this Site.**
+###  Please read this Privacy Policy carefully prior to using this Site. By using the Site, you indicate your agreement with this Privacy Policy. If you do not agree to the Privacy Policy, do not use this Site. 
 
 Thank you for visiting our website. Silpada Designs respects the privacy of every individual who visits our websites and online areas. We are committed to protecting the privacy of the visitors to our websites and our Independent Representatives. This Policy outlines the information Silpada Designs will collect and how we will use that information. It applies to your use of [silpada.com](http://silpada.com/), and any other website owned or operated by Silpada Designs. 
 
