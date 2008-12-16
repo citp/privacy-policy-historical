@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avweb.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609182027id_/http%3A//www.avweb.com/help_desk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avweb.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216090300id_/http%3A//www.avweb.com/help_desk/privacy.html) for the most accurate reproduction.*
 
 # AVweb Privacy Policy
 
