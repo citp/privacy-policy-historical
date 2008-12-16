@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tv-links.eu privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516105723id_/http%3A//www.tv-links.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tv-links.eu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020527id_/http%3A//www.tv-links.eu/privacy-policy.html) for the most accurate reproduction.*
 
 # Tv-links.eu Privacy Policy
 
@@ -6,7 +6,7 @@ At Tv-links.eu we recognize that privacy is important. This Policy applies to al
 
 Tv-links.eu adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20080516105723id_/http://www.tv-links.eu/contact/) through our website.
+If you have any questions about this Policy, please feel free to contact us through our website.
 
 **Information we collect and how we use it:**
 
@@ -75,7 +75,7 @@ When you use Tv-links.eu services, we make good faith efforts to provide you wit
 
 **Enforcement**
 
-Tv-links.eu regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Tv-links.eu's treatment of personal information by [contacting us](https://web.archive.org/web/20080516105723id_/http://www.tv-links.eu/contact/) through this web site We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Tv-links.eu and an individual.
+Tv-links.eu regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Tv-links.eu's treatment of personal information by contacting us through this web site We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Tv-links.eu and an individual.
 
 **Changes to this policy**
 
