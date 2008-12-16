@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vodahost.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517083653id_/http%3A//www.vodahost.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodahost.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021448id_/http%3A//www.vodahost.com/privacy.htm) for the most accurate reproduction.*
 
-# VodaHost Privacy Policy
+# VodaHost Web Hosting Privacy Policy
 
-This privacy policy (statement) covers all  websites that are operated by AffiliSys LLC including VodaHost web hosting www.vodahost.com. Because AffiliSys LLC wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose our information practices.  
+This privacy policy (statement) covers all  websites that are operated by VodaHost [web hosting](http://www.vodahost.com/) including www.vodahost.com. Because VodaHost wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose our information practices.  
  
 
 1.      What personally identifiable information VodaHost  collects.
@@ -23,21 +23,21 @@ This privacy policy (statement) covers all  websites that are operated by Affil
 
 8.      How users can correct any inaccuracies in the information. 
 
-If users have questions or concerns regarding this privacy policy, they should first contact our [customer support](http://www.support.vodahost.com/) Department. __ **Information Collection and Use**
+If users have questions or concerns regarding this privacy policy, they should first contact our [customer support](http://www.vodasupport.com/) Department. __ **Information Collection and Use**
 
 **Information Collection**
 
-AffiliSys LLC is the sole owner of the information collected on any website that is owned an operated by AffiliSys LLC. AffiliSys LLC collects information from our users at several different points on our Web sites.
+VodaHost is the sole owner of the information collected on any website that is owned an operated by VodaHost. VodaHost collects information from our users at several different points on our Web sites.
 
 **Registration**
 
 In order to use one of the above Web sites, a user may first complete a registration form. During registration a user is required to] give[s] contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest.  It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience on our site. 
 
-**VodaHost Order**
+**VodaHost Web Hosting Order**
 
 We request information from the user on our order or registration form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).  This information is used for billing purposes and to fill customer’s orders.  If we have trouble processing an order, the information is used to contact the user.
 
-**VodaHost Profile**
+**VodaHost Web Hosting Profile**
 
 We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users.  A profile is stored information that we keep on individual users that details their viewing preferences.  Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site, and to direct pertinent marketing promotions to them. Your profile will **NEVER BE SHARED** with any third parties. 
 
@@ -82,7 +82,7 @@ We may from time to time partner with other third parties  to provide specific 
 
 **Business Transitions**
 
-In the event AffiliSys LLC goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.  Users will be notified via email & prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+In the event VodaHost goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.  Users will be notified via email & prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
 
 **Choice/Opt-out**
 
@@ -92,15 +92,15 @@ Users who no longer wish to receive our newsletter and promotional communication
 
 ## Links
 
-This Web site contains links to other sites. Please be aware that AffiliSys LLC, is not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  This privacy statement applies solely to  information collected by this Web site. 
+This Web site contains links to other sites. Please be aware that VodaHost, is not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  This privacy statement applies solely to  information collected by this Web site. 
 
 **Tell-A-Friend**
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. AffiliSys LLC will automatically send the friend a one-time email inviting them to visit the site.  AffiliSys LLC stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. VodaHost will automatically send the friend a one-time email inviting them to visit the site.  VodaHost stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
 **Security**
 
-AffiliSys LLC  takes every precaution to protect our users’ information.  When users submit sensitive information via the Web site, their information is protected both online and off-line.
+VodaHost  takes every precaution to protect our users’ information.  When users submit sensitive information via the Web site, their information is protected both online and off-line.
 
 When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.  While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’. 
 
@@ -110,7 +110,7 @@ Finally, the servers that store personally identifiable information are in a sec
 
 Supplementation of Information 
 
-In order for AffiliSys LLC  to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
+In order for VodaHost  to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
 
 Credit Check
 
