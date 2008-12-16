@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostpapa.ca privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613075721id_/http%3A//hostpapa.ca/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostpapa.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216040838id_/http%3A//www.hostpapa.ca/Privacy.shtml) for the most accurate reproduction.*
 
 # HostPapa - Canada's Web Hosting Provider
 
