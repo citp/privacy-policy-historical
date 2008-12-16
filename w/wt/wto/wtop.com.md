@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wtop.com privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227165603id_/http%3A//www.wtop.com%3Fsid%3D598239%26nid%3D164) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtop.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170152id_/http%3A//www.wtop.com%3Fsid%3D598239%26nid%3D164) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - wtop.com
 
 _**PRIVACY STATEMENT**_
 
