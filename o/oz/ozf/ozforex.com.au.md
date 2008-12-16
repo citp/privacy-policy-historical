@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozforex.com.au privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011163240id_/http%3A//www.ozforex.com.au/documents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozforex.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013145id_/http%3A//www.ozforex.com.au/documents/privacy.htm) for the most accurate reproduction.*
 
 # Oz Forex Foreign Exchange | Privacy Policy
 
@@ -7,9 +7,9 @@
   
 
 
-| **Related Links** |  | [Regulation](https://web.archive.org/web/20071011163240id_/http%3A//www.ozforex.com.au/documents/regulation.htm) |  | [Dispute Resolution](https://web.archive.org/web/20071011163240id_/http%3A//www.ozforex.com.au/documents/dispute.htm) |  | [Terms of use](https://web.archive.org/web/20071011163240id_/http%3A//www.ozforex.com.au/documents/termsofuse.htm)  
+| **Related Links** |  | [Regulation](https://web.archive.org/web/20081216013145id_/http%3A//www.ozforex.com.au/documents/regulation.htm) |  | [Dispute Resolution](https://web.archive.org/web/20081216013145id_/http%3A//www.ozforex.com.au/documents/dispute.htm) |  | [Terms of use](https://web.archive.org/web/20081216013145id_/http%3A//www.ozforex.com.au/documents/termsofuse.htm)  
 ---|---|---|---|---|---|---  
-|  | [Privacy Policy](https://web.archive.org/web/20071011163240id_/http%3A//www.ozforex.com.au/documents/privacy.htm) |  | [Financial Services Guide](https://web.archive.org/web/20071011163240id_/http%3A//www.ozforex.com.au/documents/fsg.htm) |  | [Product Disclosure](https://web.archive.org/web/20071011163240id_/http%3A//www.ozforex.com.au/documents/pds.htm)  
+|  | [Privacy Policy](https://web.archive.org/web/20081216013145id_/http%3A//www.ozforex.com.au/documents/privacy.htm) |  | [Financial Services Guide](https://web.archive.org/web/20081216013145id_/http%3A//www.ozforex.com.au/documents/fsg.htm) |  | [Product Disclosure](https://web.archive.org/web/20081216013145id_/http%3A//www.ozforex.com.au/documents/pds.htm)  
   
   
 **Responsibility**
