@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyschoolsdirectory.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511211238id_/http%3A//www.beautyschoolsdirectory.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyschoolsdirectory.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012148id_/http%3A//www.beautyschoolsdirectory.com/terms) for the most accurate reproduction.*
 
 # Beauty Schools Directory - Your Guide to Beauty Schools
 
@@ -27,7 +27,7 @@ Beauty Schools Directory offers a number of third-party services from the site t
 
 [Featured Schools](http://www.beautyschoolsdirectory.com/featured/ "Seach Featured Schools in our network \(alphabetized by state\). Read details about any Featured School and easily request more information.") | [Request Info](http://www.beautyschoolsdirectory.com/requestinfo/ "Request additional information from schools that interest you.") | [Find a School](http://www.beautyschoolsdirectory.com/find/form.php "Easily search any type of program in any location") | [Common Q & A](http://www.beautyschoolsdirectory.com/faq/ "Find answes to common questions about the beauty school industry.") | [Home](http://www.beautyschoolsdirectory.com/ "Homepage - Easily search any type of program in any location.")  
 Copyright © 2004-2008 PlattForm Zuma, Inc. All Rights Reserved.  
-[Terms of Service/Privacy](http://www.beautyschoolsdirectory.com/terms/). 
+[Terms of Service/Privacy](http://www.beautyschoolsdirectory.com/terms/) . 
 
 |  |   
 
