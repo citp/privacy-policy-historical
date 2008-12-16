@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the treehugger.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531145524id_/http%3A//dsc.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treehugger.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170029id_/http%3A//dsc.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
 
-# Discovery Channel :: Privacy Policy
-
-  
-| 
+# Privacy Policy : Discovery Channel
 
 This privacy policy applies only to the websites controlled by Discovery Communications, LLC and/or its subsidiary and affiliated entities ("Discovery," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES. 
 
 **A. Information Collected**
 
-This privacy policy applies only to information collected on the Sites and does not apply to information collected by Discovery through any other means. For details on the information collected and used from children under the age of 13, click here. 
+This privacy policy applies only to information collected on the Sites and does not apply to information collected by Discovery through any other means. For details on the information collected and used from children under the age of 13, [click here](http://dsc.discovery.com/utilities/about/privacypolicy.html#children). 
 
 We collect two types of information from visitors to the Sites: (1) Personally Identifiable Information; and (2) Non-Personally Identifiable Information, such as your IP address or cookies. 
 
@@ -39,8 +36,7 @@ The above list provides an example of the personally identifiable information th
 
 **B. Use of Information Collected Via the Sites**
 
-(1) Personally Identifiable Information We use your personally identifiable information that is collected on these Sites primarily for the following purposes:  
-
+(1) Personally Identifiable Information We use your personally identifiable information that is collected on these Sites primarily for the following purposes:
 
   * To deliver services, such as educational programs, information, newsletters or software you request or purchase; 
   * To alert you to special offers, updated information and other new services from Discovery, or other third parties, or to forward promotional materials; 
@@ -60,7 +56,9 @@ Non-personally identifiable information is used as described above and in other 
 
 **C. Sharing and Disclosure of Information**
 
-**(1) Personally Identifiable Information** We may share or disclose your personally identifiable information in the following instances: 
+**(1) Personally Identifiable Information**
+
+We may share or disclose your personally identifiable information in the following instances: 
 
 (i) To fulfill a service to you. For example, if you choose to watch an educational program on the Sites, we may share your personally identifiable information in order to provide the program to you. In addition, if you email us a question, we may use your email address to process your request and respond to your question. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion. This means that we may share the information for prize fulfillment purposes or mail carriers. We also may share your information with the co-sponsor of that promotion. 
 
@@ -82,7 +80,7 @@ Except as described in this Privacy Policy or at the time we request the informa
 
 **(2) Non-Personally Identifiable Information**
 
-We use non-personally identifiable information collected on the Sites in the manner disclosed above, in the Section A(2). We may share this non-personal information with third parties. 
+We use non-personally identifiable information collected on the Sites in the manner disclosed above, in the Section A (2). We may share this non-personal information with third parties. 
 
 **D. Collection and Use of Information from Children Under the Age of 13**
 
@@ -107,7 +105,7 @@ Below are some examples of instances in which we may collect the first name and 
 
 
 
-(2) Use of Personally Identifiable Information Collected from Kids 
+**(2) Use of Personally Identifiable Information Collected from Kids**
 
 When we collect personally identifiable information from kids, we will only use that information for the express purpose for which it was collected. For example, if a child enters a sweepstakes, we will request the parent's information (as described in Section D(1)) and will only use the child's email address to enter the child into the sweepstakes, to notify the parent of the child's entry, and to identify and notify the child if he or she is a potential winner. The personally identifiable information will not be used for any other purpose, and the personally identifiable information will not be used after the promotion is complete. 
 
@@ -148,7 +146,7 @@ If you choose to provide us with personally identifiable information, Discovery 
 
 We communicate with users who subscribe to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional. 
 
-However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on this Site or if you do not want us to share your personally identifiable information with third parties. The opt-out choice may be exercised by un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email. 
+However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on this Site or if you do not want us to share your personally identifiable information with third parties. The opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email. 
 
 **G. Forums, Chat Rooms and Other Public Posting Areas**
 
@@ -160,11 +158,11 @@ This statement applies solely to information collected on the Sites. The Sites m
 
 **I. Third Party Advertisers**
 
-We may use third-party advertisers to serve advertisements on the Sites. Please be advised that such advertisers may use information about your visit to the Sites (such as, cookies, web beacons and other technologies) to enable such advertisers to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please click here. PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY ADVERTISERS. 
+We may use advertisers, third party ad networks, and other advertising companies, to serve advertisements on the Sites.  Please be advised that such advertising companies may gather information about your visit to the Sites or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please [click here](http://www.networkadvertising.org/managing/opt_out.asp). ****  PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES. 
 
-**J. Accessing Your Personally Identifiable Information**
+**J. Accessing Your Personally Identifiable Information and Privacy Preferences**
 
-We provide you with an opportunity to access your personally identifiable information to ensure it is correct, accurate and current. To edit your personally identifiable information, please contact our customer service representatives at 1-800-889-9950. To be removed from our mailing list, fill out the form at [www.customercare.discovery.com](http://www.customercare.discovery.com/) and chose "Remove from mailing list" from the "Type of Inquiry" pull-down menu. If you would prefer that we do not share your information with third party marketers, please make sure to indicate that on our My Discovery registration form at [http://reg.cheetahmail.com/regp?aid=88808939&n=100](http://reg.cheetahmail.com/regp?aid=88808939&n=100). If for any reason you are not able to update or edit your personally identifiable information at this page, you can access such information by contacting us as described below. We will make reasonable efforts to accommodate your request. 
+We provide you with an opportunity to access your personally identifiable information to ensure it is correct, accurate and current. To edit your personally identifiable information, please contact our customer service representatives at 1-800-889-9950.  To be removed from our mailing list or if you would prefer that we do not share your information with third party marketers, please make sure to indicate that on our My Discovery registration form at [http://reg.cheetahmail.com/regp?aid=88808939&n=100](http://reg.cheetahmail.com/regp?aid=88808939&n=100). To change your privacy preferences for HowStuffWorks.com, please visit <http://www.howstuffworks.com/remove.htm>. If for any reason you are not able to update or edit your personally identifiable information at this page, you can access such information by contacting us as described below. We will make reasonable efforts to accommodate your request. 
 
 **K. Assignment**
 
@@ -196,18 +194,12 @@ If you have any questions about this privacy policy or our privacy practices, pl
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Discoveryâ€™s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us: 
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Discovery's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us: 
 
 Discovery Communications, LLC  
 1 Discovery Place  
 Silver Spring, MD 20910  
 Phone: (240) 662-2000 (Legal)  
-Email: [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com)   
+Email: [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com)
 
-
-Effective as of Wednesday, October 30, 2007 
-
-Last Updated On: Wednesday, October 30, 2007 
-
-|   
-
+Last Updated On: Wednesday, September 10, 2008 
