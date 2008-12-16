@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518182805id_/http%3A//www.studentuniverse.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151857id_/http%3A//www.studentuniverse.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy for StudentUniverse.com
+
+Privacy Policy for StudentUniverse.com
 
 Our privacy policy is very important to us and governs our actions regarding your information at StudentUniverse.com. This document will tell you what information we collect from you, what we are going to do with the information, and your rights concerning the information. The information we receive depends on what you do when you visit our site.
 
@@ -14,13 +16,13 @@ Unique identifiers (such as email addresses) are collected to verify your identi
 
 We realize the sensitive nature of this information, and guard this information very carefully.
 
-### Cookies
+Cookies
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies, but we do not store your personal data in those cookies. Rather, we use cookies to collect and store non-personal data, such as the name of the domain and host from which you access the Internet (for example, yahoo.com or princeton.edu); the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site.
 
 Some of our business partners use cookies and action tags (also known as single pixel gifs or web beacons) on our site to measure advertising effectiveness, but we have no access to or control over these cookies and action tags. Any information that these third parties collect via cookies and action tags is completely anonymous. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
-### Sharing Information
+Sharing Information
 
 No personally identifiable information will be shared with our partners except as part of an explicit transaction- for example, providing your customer data to the airline on which you've purchased a ticket or a partner for verification of your faculty/student enrollment status. Some of your information may be shared on an aggregate basis only, but that information will not be sufficient to permit the recipient to identify you.
 
@@ -28,40 +30,39 @@ As we continue to develop our business, we might sell or buy companies or assets
 
 Except as set forth in the [Terms of Use](https://web.archive.org/termsOfUse.html) and this Privacy Policy, we will not willfully disclose personal data about you to any third party without first receiving your permission.
 
-### Spam
+Spam
 
-We take extreme efforts to not involve ourselves with junk mail companies. Our mail is as targeted as we can make it, and we allow you to opt out at any time. If you feel we aren't living up to our promise, please [click here](https://web.archive.org/aboutus/feedbackform) to send us an email.
+We take extreme efforts to not involve ourselves with junk mail companies. Our mail is as targeted as we can make it, and we allow you to opt out at any time. If you feel we aren't living up to our promise, please [ send us an email](https://web.archive.org/aboutus/feedbackform).
 
 We occasionally run contests on our site in which we ask visitors for contact information (like your email address). We use contact data from our contests to alert winners of their status, and to send users information about our company and promotional material from some of our partners. Users have the option of not receiving future mailings; see the choice/opt-out section below.
 
-### Security
+Security
 
 We follow industry standards for credit card transactions to make sure your information stays yours. We use Secure Sockets Layer (SSL) encryption technology, which is widely used and respected across the industry. SSL encrypts your name, address, telephone number and credit card information before they are transmitted across the Internet, so you can feel safe about doing business with us.
 
 We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification and unlawful destruction or accidental loss. All employees who have access to, or are associated with the processing of personal data, are obliged to respect our visitors' personal data.
 
-### Children's Guidelines
+Children's Guidelines
 
 Children 17 and under are not permitted to create an account at StudentUniverse.com. We do not knowingly collect personal data from children. Our younger visitors may visit the site and read content, but only account holders over the age of 17 may buy products.
 
-### Choice/Opt-Out
+Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
-If you want to remove your information from our database, to not receive future communications, or to no longer receive our service, you can opt-out online on our homepage by clicking on "Get our DealAlerts" and completing the opt-out form, or by [clicking here](https://web.archive.org/aboutus/feedbackForm.jsp) to send us an email.
+If you want to remove your information from our database, to not receive future communications, or to no longer receive our service, you can opt-out online on our homepage by clicking on "Get our DealAlerts" and completing the opt-out form, or [send us an email](https://web.archive.org/aboutus/feedbackForm.jsp).
 
-### Correct/Update
+Correct/Update
 
-You can correct or update your account profile information at any time by visiting:  
-[/register/update](https://web.archive.org/register/update).
+You can correct or update your account profile information at any time by visiting: [/register/update](https://web.archive.org/register/update).
 
-### Partner Websites
+Partner Websites
 
 This site contains links to other websites. StudentUniverse.com is not responsible for the privacy practices or the content of other websites.
 
-### Contacting the Website
+Contacting the Website
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with StudentUniverse.com on this website, you can contact:   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with StudentUniverse.com on this website, you can contact:  
 StudentUniverse.com  
 First Floor  
 230 Third Avenue  
