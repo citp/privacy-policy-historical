@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the start64.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505124651id_/http%3A//www.start64.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1963%26Itemid%3D125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the start64.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216053724id_/http%3A//www.start64.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1963%26Itemid%3D125) for the most accurate reproduction.*
 
-# 64bit - x64 - Privacy Policy
+# 64bit and x64 - Privacy Policy
 
-Written by Pánisz Péter      
 hétfõ, 03 március 2008   
   
 ### Privacy Policy
