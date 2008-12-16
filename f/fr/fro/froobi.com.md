@@ -1,72 +1,90 @@
-> *The following text is extracted and transformed from the froobi.com privacy policy that was archived on 2007-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070712094840id_/http%3A//www.froobi.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the froobi.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045421id_/http%3A//www.froobi.com/Privacy-Policy_ep_35-1.html) for the most accurate reproduction.*
 
-# Froobi.com - Hoppin' Deals Every Day on Electronics
+# Privacy Policy
 
-**Privacy Policy**
+ 
 
-**What information do we collect?**
+We are aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+We will never share your email address , phone number or credit card information with any unrelated 3rd party except as necessary to fulfill transactions that you initiate.
 
-  
- **How do we use your information?**
+**Froobi.com Privacy Notice:**
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+By visiting the Froobi.com website you agree to accept the practices described in this Privacy Notice.
 
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To allow us to better service you in responding to your customer service requests.
-  * To quickly process your transactions.
-  * To administer a contest, promotion, survey or other site feature.
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+**Changes to this Privacy Notice, Conditions of Use and Notices:**
 
-  
- **How do we protect visitor information?**
+This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on November 17th, 2007. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our Legal Notices, including the application of the laws of the State of California.
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+**Children:**
 
- **Do we use "cookies"?**
+Froobi.com does not sell products to persons under the age of 18. If you are under the age of 18, you are required seek the approval of your parent or guardian to purchase products from this site.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard dritve through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+**Personal Information Collected By Froobi.com:**
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Froobi.com uses information that we collect from our visitors to personalize and improve your visit at Froobi.com. We gather the following types of information:
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+**Information you give us:**
 
- **Do we disclose the information we collect to outside parties?**
+Froobi.com collects any information which you enter on our Web site. This information is normally provided when you search, buy, participate in a contest, sweepstakes or on-line survey, or when you communicate with any of our departments such as customer service, sales or technical services through our Web site, telephone, mail or fax. You also provide information when you establish an account with us. Examples of the type of information you may supply us with include your name, address, telephone number, credit card information, e-mail addresses, and financial information such as your Social Security number. In some instances, we ask you for other people’s names and email addresses for the sole purpose of fulfilling your specific request to email certain specific information as part of our “email a friend” feature.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Froobi, its parent or affiliated companies. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+**Automatic Information collected by us:**
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We (or agents on our behalf) collect anonymous information from visits to our sites through the use of “Web Beacons.” Web Beacons are simply web page elements which may employ cookie technology that enable us to record anonymous data about visits to or transactions made on our web site. This anonymous information is sometimes known as “clickstream data.” We may use this data to analyze trends and statistics to improve your online experience, or customer service. No personal data is collected through the use of Web Beacons on our sites. Through the use of cookies, we may also collect and analyze the IP address used to connect your computer to the Internet; computer and connection information such as your browser type and version; operating system and platform; purchase history; confirmation when you open e-mail that we send you; and the URLs which lead you to and around our Web site including the date and time. Your browser allows you to reject cookies and software is available from third parties which will allow you to visit our Web site without providing this information. You are welcomed at our Web site if you use this software but we will not be able to offer you our personalized services and we will be unable to accept any online orders from you.
 
- **How can you opt-out, remove or modify information you have provided to us?**
+**Orders:**
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+If you place an order we use a secure order form which requires you to provide contact, billing, and financial information. This information is transmitted to your credit card company to authorize your purchase. At certain times we may offer financing options with or without third party participation. If you use a financing option, information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing. You will always be informed of this at the time you select any available financing option. All information obtained from you in the course of transacting orders is used for the purpose of fulfilling your order in a timely manner and for communicating the status of your order with you. Additionally, upon placing an order, you will begin receiving both the Froobi.com catalog and the Froobi.com email newsletter unless you opt-out of either or both by emailing us at support@froobi.com.
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+**Email Newsletter Subscription:**
 
- **Third party links**
+If you request an email newsletter subscription, we will send you an email confirming your request. This confirmation process allows you to unsubscribe if you changed your mind and decided not to join the list. Furthermore, the confirmation email will alert you if someone else had entered your email address into our email newsletter.In order to make our emails more relevant and useful to you, our servers may receive a confirmation when you open email from Froobi.com.
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+**Sharing of Information with third-parties:**
 
- **Changes to our policy**
+Independent Contractors: We may employ other companies or individuals to provide certain services to us such as analyzing customer lists and data, providing marketing assistance, or consulting services. These third parties will have access to the information needed to perform their functions but cannot use that information for any other purpose. Any 3rd parties who use our data will be fully bound by this privacy policy. In no event will the data being used by any unrelated third party include your email address.
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
+**Orders:**
 
- **Questions and feedback**
+We will never share any telephone number(s), e-mail addresses, or credit card information which you have given us with any marketing partner(s) or any unrelated 3rd party. We may, however, share your name and postal mailing address with a few carefully selected marketing partners. You may opt-out of sharing this information at any time by contacting our customer service department at support@froobi.com .
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+**Aggregate information:**
 
- **Online Policy Only**
+We provide aggregate information to some of our business partners. This information does not allow them to identify you individually in any way.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+**Credit card companies and shippers:**
 
- **Terms and Conditions**
+When you buy something from us we send your credit card information, name, billing address and the amount of your purchase to your credit card company to verify and authorize the purchase. Your name, telephone number and shipping information must be provided to third party shippers such as UPS, Federal Express and the United States Postal Service to deliver your purchase. There also may be instances in which we drop-ship orders directly to you from one of our manufacturers or suppliers. These drop-shippers are only given your name, postal address, and telephone number for the sole purpose of fulfilling your order.
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20070712094840id_/http%3A//www.froobi.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+**Third Party Transaction-Level Data:**
 
- **Your consent**
+If you visit our site from a third-party site the third-party site may be able to access select information from your individual transaction information. In order to track and credit your transaction the third-party site may give you a unique code, cookie or graphic which will uniquely identify you. This will only happen if you link directly from a third party site to our Web site. Any transactions made at our Web site while such a code is active will be reported back to the third party site. We will only report non-personal information to these sites such as the date of the transaction, the product(s) purchased and the amount spent. We will not report any information to these third party sites that will allow them to personally identify you and will never share your email address with any 3rd party. The presence of a 3rd party navigation bar atop our site is an indication that the third party site may be able to see your activity on our site
 
-By using our site, you consent to our privacy policy.
+**Link to Third Party Site:**
+
+Our Web site contains certain links to third party sites, such as our vendors. Froobi.com is not responsible or liable for the privacy practices or content found on these sites. We suggest that you check the Privacy Notice of each site you visit.
+
+**Information about Third Parties:**
+
+Froobi.com maintains relationships with other websites that operate as its affiliates, however, Froobi.com has no control over their activities. Froobi.com will immediately cease doing business with any affiliate that abuses the terms of the affiliate agreement. This includes, but is not limited to: spam, trademark infringement, predatory means of attracting visitors, or unlawful activities. To report abuse by an affiliate, please contact our Affiliate Manager at affiliates@froobi.com.
+
+**Law Enforcement and Protection of Users:**
+
+We will release personally identifiable information to third parties and organizations when we believe it is appropriate for us to do so to comply with the law. We will also do so to cooperate with law enforcement investigations, comply with court orders or subpoenas, protect the legal rights of us and our users, or when we believe it is needed for fraud protection and/ or credit risk reduction.
+
+**Business Transfer:**
+
+In the unlikely event that Froobi.com is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any customer information owned or under the control of Froobi.com may be one of the transferred assets.
+
+**Security:**
+
+We employ the latest 128-bit encryption technology in all areas of the site which require you to provide your personal or account information, including online ordering, order status, catalog request and most contest forms. Your name, your personal information and especially your credit card number are safely stored in our proprietary systems behind our firewall. Once you type your personal information, it is sent instantly, encrypted, directly to our order processing system which is on a server separate from our internet server. To make sure you have the latest security features on your browser, you may want to download the most recent version of your favorite browser, which should have full SSL support.
+
+**Choice/Opt-Out:**
+
+Our Web site gives you the opportunity to opt-out of receiving marketing communications from us. If you no longer wish to receive communications from us you may opt-out by contacting us at support@froobi.com.
+
+**SSL Data Encryption:**
+
+Our Froobi.com website is registered with site identification authorities to enable your browser to confirm our security identity before any transmission is sent. With this technology, the identity of our site is automatically confirmed behind the scenes prior to the transmission of any customer information requested to complete an online order and ensures that your data reaches your intended target or your browser notifies you (prior to your sending any personal information) that the potential receiving site looks suspicious and should be avoided. Security Guarantee If you are using a security-enabled browser (such as Microsoft Internet Explorer version 2.1 or greater, or Netscape Navigator version 2.0 or greater), the information you send us regarding your purchase is encrypted, making it extremely difficult to read even if it is wrongly intercepted. At Froobi.com, we utilize industry-standard Secure Sockets Layer (SSL) technology to allow for the encryption of: potentially sensitive information such as your name and address and other critically sensitive information like your credit card number. Standing behind our security technology, we also provide our Website Security Guarantee, further ensuring that you are protected every time you buy online with us. For more details, take a look at this guarantee.  
+
