@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ipl.org privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620100413id_/http%3A//www.ipl.org/div/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipl.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015907id_/http%3A//www.ipl.org/div/about/privacy.html) for the most accurate reproduction.*
 
 # Internet Public Library: About the IPL
+
+**The Ask an IPL Librarian Reference Service will close between academic terms beginning December 20, 2008 at 10 p.m. (EST). We will reopen the service on Monday, January 5, 2009 at Noon (EST). We use this time to work behind the scenes to improve this service. Happy Holidays from all of us at the IPL!**
 
 _Benefits of the IPL:_ Using the IPL collections benefits you by providing links to more than 45,000 evaluated information resources on hundreds of topics. The IPL contains vetted information and strives to be a safe site. Electing to seek help from the IPL’s "Ask a Question" service benefits you from the research provided to you by a mentored student or volunteer. Client identities are never shared and you can participate anonymously. 
 
