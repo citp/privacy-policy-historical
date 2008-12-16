@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the searchenginegenie.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608234909id_/http%3A//www.searchenginegenie.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginegenie.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044907id_/http%3A//www.searchenginegenie.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy search engine optimization SEO marketing search engine genie
-
-[SEO Home](http://www.searchenginegenie.com/) » Privacy Policy
-
-**Search Engine Privacy Policy**
 
 **Search Engine Genie** has created this Privacy Policy in order to demonstrate our commitment to the privacy and protection of your information. As part of the normal operation of services, we collect and, in some instances, disclose information about you. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
@@ -14,7 +10,7 @@ In order to register, users are required to give us contact information (e.g., y
 
 If you decide to purchase any **Search Engine Genie** Solutions, **Search Engine Genie** will need to collect certain financial information, such as your credit card number, credit card expiration date, and billing address ("Financial Information"). Financial Information that is collected is used to check your qualifications for registration, to bill you for products and services, and for other purposes. Search Engine Genie does not share Financial Information with outside parties except to the extent necessary to provide you with Search Engine Genie Solutions.
 
-2\. Our Use of Your Information
+2\. Our Use of Your Information 
 
 We use customer contact information from the registration form to send you information about **Search Engine Genie** and promotional material from some of our partners. Your contact information is also used to contact you when necessary. We may use your IP address to help protect our partners and us from fraud.
 
@@ -36,7 +32,6 @@ In order to maximize the protection of your information, **Search Engine Genie**
 
 5\. General 
 
-This Privacy Policy is incorporated into and subject to the terms of the **Search Engine Genie** Member Agreement.  
+This Privacy Policy is incorporated into and subject to the terms of the **Search Engine Genie** Member Agreement.
 
-
-For more information on Search Engine Genie’s services, contact us at ****[webpromotions@gmail.com](mailto:webpromotions@gmail.com)****[](mailto:webpromotions@gmail.com)
+For more information on Search Engine Genie’s services, contact us at ****[webpromotions@gmail.com](mailto:webpromotions@gmail.com)****
