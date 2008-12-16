@@ -1,149 +1,154 @@
-> *The following text is extracted and transformed from the socialmedia.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmedia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161127id_/http%3A//www.socialmedia.com.%3Fq%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | SocialMedia
 
-#### Find Answers To Your Questions:
+Last updated August 25, 2008
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+SocialMedia Networks, Inc. (“ **SOCIALMEDIA** ”) has developed a set of technologies and processes to allow advertisers to deliver targeted content across the social networking websites (“Network Sites”) who wish to display such content (the “ **Network** ”).
 
-### Privacy Policy
+We consider the protection of your privacy to be of utmost importance in how we conduct our business and provide our services. This Privacy Policy applies to our website and our services provided through our Network and describes what data we collect, how we use this data to provide our services, when and to whom we disclose such data, and how you can opt out of the data collection we perform as well as our advertising services.
 
-**Why A Privacy Policy?**  
+ **DATA COLLECTION AND USE**
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+ **Use of Personally Identifiable Information:  SOCIALMEDIA Site**  
+Advertisers and application developers (“ **Publishers** ”, collectively “ **Network Participants** ”) on various social networking platforms participating in our Network are required to register with us through our website at [www.socialmedia.com](http://www.socialmedia.com/ "www.socialmedia.com") (the “ **SOCIALMEDIA Site** ”). During registration and after, Network Participants will provide SOCIALMEDIA certain personally identifiable information, including but not limited to, their name, email address, and postal mailing address.
 
- **This Privacy Policy protects your privacy by:**
+We use the personally identifiable information of our Network Participants mainly to provide the SOCIALMEDIA services, including but not limited to administering inquiries, processing, validating and verifying registrations, making contact, and processing, remitting and/or charging fees. We will use the email addresses of our Network Participants to send service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we may send our Network Participants a notification email. Generally, Network Participants may not opt-out of these communications, which are not promotional in nature. If Network Participants do not wish to receive these types of service related email notifications they have the option of deactivating their account. We may also use their email address to provide notification of promotional events being offered by us. Network Participants may opt-in to these emails when they register and may later opt-out through the emails themselves. If a Network Participant's personally identifiable information changes, or if a Network Participant no longer desires our service, they may update or deactivate their account by making the change on our account information page or by contacting customer support at [info@socialmedia.com](mailto:info@socialmedia.com) with the details of what needs to be updated.
 
- **Informing you about:**
+If you contact us by email or through the SOCIALMEDIA Site (for example, as a prospective customer who requests that a SOCIALMEDIA representative contact you), we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you. This information will not be shared with other companies and is not used for purposes other than contacting or reaching out to you.
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+  * We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
+  *  
+  * The SOCIALMEDIA Site contains a blog for which anyone can comment on postings. Any personally identifiable information submitted as comments to blog postings on the SOCIALMEDIA Site can be read, collected, or used by other users of this blog and could be used to send unsolicited messages. We are not responsible for the personally identifiable information you choose to submit as comments to this blog **.**
+  *  
 
 
 
-**Empowering you to choose:**
+ **Use of Personally Identifiable Information:  SOCIALMEDIA Service**
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+SOCIALMEDIA will access your picture and first name voluntarily provided by you to your Network Site – provided that your profile is not marked “private” – to display in advertisements shown to others within the Network Site for which you have provided this information. This information is accessed through SOCIALMEDIA tags utilized by third party Publishers in their own Applications on Network Sites.
 
+  * When an advertisement is delivered to a user our advertisement server finds relevant friends of that user, which may include you, and may display your first name and/or picture to that user within the advertisement. SOCIALMEDIA also may also access your age and gender information provided by you to your Network Site for demographic targeting purposes. If you do not wish to have your name and picture displayed in advertisements delivered by SOCIALMEDIA or your demographic data used to deliver targeted advertisements to you, you may change the privacy settings of your public Network Site profile to disable access to this information or you may opt-out of SOCIALMEDIA’S ability to access your first name and photo by _[clicking here](http://www.socialmedia.com/facebook/optout.php)_.
+  *   
+SOCIALMEDIA does not otherwise collect or use personally identifiable information about people who interact with the SOCIALMEDIA content found on any of the Network Sites serving SOCIALMEDIA content.
 
 
-**Assuring you that Network Solutions:**
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+ **Use of Non-Personally Identifiable Information:  SOCIALMEDIA Service**
 
+Publishers may place a SOCIALMEDIA tag in an Application on a Network Site to help us ensure advertisements served are correctly targeted. These tags are used to match visitor browsing behavior to the correct audience profile for advertisement targeting purposes (that is, to permit advertisers to deliver advertisements that are appropriate for their products or services). See the “Log Data” section below to see what information SOCIALMEDIA receives from such tags and how we use it. Check the privacy policies of Applications tagged with SOCIALMEDIA tags for information regarding how they use such information.
 
+In addition, when you visit a Network Site, such Network Site may access and collect certain information from you. This may include, but is not limited to, your Network Site ID for which that Network Site resides within, non-personal profile data you disclose to the Network Site such as gender, age, photo, city location, other Network Site IDs you communicate with as part of your interaction with the Network Site, advertisements that were delivered to you and that you clicked on, and other click-stream data. This data may be shared with SOCIALMEDIA and we will use such data to deliver more targeted content to you while visiting Network Sites.
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+ **Use of Behavioral Data:  SOCIALMEDIA Service**
 
-  
-**Third Party Advertising and Cookies**
+SOCIALMEDIA will assemble non-personal behavioral, demographic and location data to create audience segments. These audience segments represent large amounts of information that have been aggregated into anonymous groups. When an advertisement is served, our advertisement server accesses this data to match the target audience with the appropriate audience segment, with only aggregate data retained by SOCIALMEDIA. This aggregate behavioral data is associated to the browser’s cookie as well as the user’s social network ID assigned by the Network Site the Application resides within.
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+ **Use of Cookies:  SocialMedia Site**
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+  * A cookie is a small data file containing a string of alphanumeric characters that uniquely identifies your browser.
+  *   
+Like many websites, we use cookies on the SOCIALMEDIA Site (by placing or reading them via your browser) to save your registration ID and login password for future logins to the SOCIALMEDIA Site. SOCIALMEDIA uses both session cookies and persistent cookies. A persistent cookie remains on your computer’s hard drive once your browser is closed and may be used by your browser on subsequent visits to the site. SOCIALMEDIA utilizes persistent cookies to better understand how you interact with Network Sites and to aggregate interactions with advertisements delivered by SOCIALMEDIA. We also utilize session ID cookies to enable certain features of the SOCIALMEDIA Site, to better understand how you interact with SOCIALMEDIA Site and to monitor aggregate usage by users and web traffic routing on the SOCIALMEDIA Site. You can remove persistent cookies by following your web browser help file directions. Unlike persistent cookies, session cookies are deleted from your computer when you close your browser. We associate your Network Site ID and clickstream data to our persistent cookies.
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions or have access to all features or functionality of the SOCIALMEDIA Site. You may also instruct your browser, by changing its privacy options, to restrict the use of third party cookies. 
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+ **Use of Cookies:  SOCIALMEDIA Service**
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+We also use cookies when you visit a Network Site with Applications tagged by Publishers with SOCIALMEDIA tags (we use a feature of your browser to set one or more cookies on your computer) to collect Log Data, as described in the Log Data section below).
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions or have access to all features or functionality of the Network Sites.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+ **Log Data**
 
- **Getting to Know Our Customers**
+For purposes of this Privacy Policy, “ **Log Data** ” may include but is not limited to such information such as your computer’s Internet Protocol (IP) address, your browser type, your browsing behavior (including your activities on a website), the webpage you were visiting before you came to a website (the referring HTTP location), what pages on a website you visit, the time spent on those pages, information you search for on a website, access times and dates, and other statistics.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+ **Use of Log Data: SOCIALMEDIA Site**
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+When you visit the SOCIALMEDIA Site, whether as a registered user to the site or a non-registered user just browsing, our servers automatically record and collect Log Data sent by your browser. We use Log Data to monitor and analyze use of the SOCIALMEDIA Site and services, and for SOCIALMEDIA Site’s technical administration, to increase the SOCIALMEDIA Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs. For example, some of this information is collected so that when you visit the SOCIALMEDIA Site again, it will recognize you and will be able to serve content, advertisements, and other information appropriate to your interests.
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+We do not link Log Data collected on the SOCIALMEDIA Site to any other personally identifiable information about you or otherwise attempt to discover your identity.
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+ **Use of Log Data:  SOCIALMEDIA Service**
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+  * We also collect Log Data each time you visit Network Sites with Applications that have been tagged by Publishers with SOCIALMEDIA tags. We analyze such Log Data and combine it between sites and with other data and information collected from your interactions with Applications and advertisements to enable the Publishers to deliver to advertiser audience segments that are appropriate for their products or services. This combined data is also used by us and our partners to serve you content, advertisements, and other information tailored to your interests.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+ **  
+Third Party Registration Data:  SOCIALMEDIA Service**
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+  * Some Network Sites may collect additional information about you by requesting you to register with them so you can earn virtual points, access premium content, or enroll in sweepstakes and/or subscriptions. You may disclose personally identifiable information as part of this registration process as well as non-personal information. This information is not shared with SocialMedia
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
 
-b. Click “Edit User Info” in the left menu;
+ **Log Data and Aggregate Information.** We may share the following information with third parties, including, but not limited to, the above vendors that support the operation of our services and entities involved in the delivery of advertisements: Log Data collected on both the SOCIALMEDIA Site and the Network Sites hosting Applications tagged with SOCIALMEDIA tags (as described in the Log Data section above), as well as aggregated anonymized information resulting from the analysis of such Log Data for a variety of purposes, including, but not limited to, conducting industry, traffic and demographic analysis, and enabling Network Sites to deliver to advertisers audience segments that are appropriate for their products or services.
 
-c. Scroll to the bottom of the page;
+ **Service Providers.** We may employ third party companies and individuals to provide and facilitate the SOCIALMEDIA services, to provide the services on our behalf, to perform services related to administration of the Network (including, without limitation, maintenance, hosting and database management services, and administration). These third parties have access to your personally identifiable information and Log Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. Personally identifiable information shared with these service providers includes, but is not limited to, your name, email address, phone number, home and business postal address, and credit card or other billing information.  
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+ **  
+Agents.** We use PayPal to both bill and credit advertisers/publishers for services. This company does not retain, share, store, or use personally identifiable information for any other purpose. Personally identifiable information shared with PayPal includes, but is not limited to, you name, email address, phone number, home and business postal address, and credit card or other billing information. 
 
-e. Click “SAVE.”
+ **  
+Compliance with Laws and Law Enforcement.** SOCIALMEDIA cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights, the rights of others, and/or comply with a judicial proceeding, court order, or legal process. 
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+**  
+Business Transfers.** As we continue to develop our business, we or our affiliates may sell, transfer, buy or otherwise share some or all of its assets to, from or with other businesses or entities in connection with a merger, acquisition, reorganization, or sale of assets or in the event of bankruptcy. In such transactions, any Log Data and non-personally identifiable information we have collected from you may be one of the transferred business assets. In addition, our prospect and customer lists would be considered a business asset and would also be included as part of a sale of our assets. You will have the opportunity to opt out of any such transfer if the new entity’s planned processing of your information differs materially from that set forth in this Privacy Policy.
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+ **  
+Promotional Purposes.** We do not share, rent, or trade any personally identifiable information with any third party for promotional purposes.
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+ **  
+Security**
 
-b. Click “Edit User Info” in the left menu;
+We restrict access to nonpublic personally identifiable information about you to personnel who are authorized to handle that information. We also maintain physical, electronic, and procedural safeguards to guard your nonpublic personally identifiable information. If you have any questions about the security on our Site, you can email us at [privacy@socialmedia.com](mailto:privacy@socialmedia.com). 
 
-c. Scroll to the bottom of the page;
+The ordering information you provide - including credit card information - is secured using Secure Sockets Layer (SSL) encryption technology via PayPal servers. PayPal uses SSL encryption when transmitting certain kinds of information, such as financial services information or payment information. An icon resembling a padlock is displayed on the bottom of most browsers window during SSL transactions that involve credit cards and other forms of payment. Any time PayPal asks for a credit card number for payment, it will be SSL encrypted. The information you provide will be stored securely on PayPal’s servers. This SSL technology is used to prevent such information from being intercepted and read as it is transmitted over the Internet. The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites. While PayPal makes every effort to ensure the integrity and security of its network and systems, they cannot guarantee that their security measures will prevent third-party "hackers" from illegally obtaining this information.
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+ **  
+Opting Out of SOCIALMEDIA’S Services**
 
-e. Click “SAVE.” 
+You can 
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+[_click here_ ](http://www.socialmedia.com/facebook/optout.php)
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+to opt-out of SOCIALMEDIA’s data collection, cookies, and use of data already collected from you. Note that if you have accounts on multiple Network Sites, you will need to repeat this opt-out process for each account on Network Sites. Our servers store your decision to opt-out for each account on a Network Site. If you use a new account on a Network Site, you should repeat this opt-out process for that new account.
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+ **  
+International Transfers**
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+Your information may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to SOCIALMEDIA, please be advised that we transfer personally identifiable information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+ **  
+Links to Other Sites.**
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+The SOCIALMEDIA Site may contain links to other websites. If you choose to click on another third party link, you will be directed to that third party’s website. The fact that we link to a website is not an endorsement, authorization, or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data, or solicit personally identifiable information from you. Other websites and services follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+ **  
+Our Policy Toward Children**
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
+We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [privacy@socialmedia.com](mailto:privacy@socialmedia.com). If we become aware that a child under 13 has provided us with personally identifiable information, we will delete such information from our files.
 
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
+ **  
+Changes to Our Privacy Policy**
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+The issue of privacy, especially within social networks, is an evolving one. SOCIALMEDIA is committed to the constant monitoring and examination of its privacy practices, and may, from time to time, institute changes to its Privacy Policy. In the event of any changes to the Privacy Policy, we will promptly make changes to this Privacy Policy to disclose such changes. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page. 
 
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+ **  
+TRUSTe Privacy Program**
+
+SOCIALMEDIA is a licensee of the TRUSTe Privacy Program. This Privacy Policy covers the site [www.socialmedia.com](http://www.socialmedia.com/) and our services provided through our Network. While this Privacy Policy addresses how SOCIALMEDIA handles information from websites participating in our Network, the TRUSTe Privacy Program only applies to the SOCIALMEDIA Site. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. We have disclosed our information privacy practices with TRUSTe, who has reviewed our privacy practices for compliance. If you have questions or concerns regarding our privacy policy please contact us at [privacy@socialmedia.com](mailto:privacy@socialmedia.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
+
+ **  
+Contacting Us**
+
+To contact us for more information or for questions regarding our Privacy Policy, please send correspondence to the following address:
+
+SocialMedia Networks
+
+Privacy Policy Inquiry
+
+Pier 38
+
+San Francisco, CA 94107
