@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613020353id_/http%3A//www.photoworks.com/util/knowledgeBaseTemplate.jsp%3FhelpFile%3Dprivacy.html%26subject%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012058id_/http%3A//www.photoworks.com/util/knowledgeBaseTemplate.jsp%3FhelpFile%3Dprivacy.html%26subject%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # PhotoWorks: Help: Privacy Policy
 
-|  |    
-
-
-PhotoWorks is firmly committed to maintaining your privacy. This includes the privacy of both your photos and your personal information. By using our service, you agree to the terms of this Privacy Policy. The Policy explains what information we collect from you and how it is used in order to continue providing you with outstanding service.
+  
+|  [ ](http://www.truste.org/ivalidate.php?url=www.photoworks.com&sealid=101)  
+---|---  
+|  |  Updated 10/24/08  
+  
+PhotoWorks, a subsidiary of American Greetings Interactive (AGI), is firmly committed to maintaining your privacy. This includes the privacy of both your photos and your personal information. By using our service, you agree to the terms of this Privacy Policy. The Policy explains what information we collect from you and how it is used in order to continue providing you with outstanding service.
 
 PhotoWorks is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.PhotoWorks.com. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
 
@@ -68,7 +70,7 @@ PhotoWorks uses online order forms to allow you to order prints and products fro
 
 #### Registration Forms: Email Updates and Promotions
 
-PhotoWorks uses online registration forms for you to request services such as PhotoWorks email updates, our newsletter, and for you to receive special offers and promotions. Subscription to our email updates is optional and requires your consent. You can opt in or opt out of receiving email updates at any time by following the simple procedure below. When you fill out the registration form you will also be asked to provide personal and/or demographic information such as your name, gender, address, and email address so we can administer the program. We may also ask questions about your camera's make and model and your use of digital images. Submitting such personal information is entirely voluntary.
+PhotoWorks uses online registration forms for you to request services such as PhotoWorks email updates, our newsletter, and for you to receive special offers and promotions. Subscription to our email updates is optional and requires your consent. Note to AOL users: By choosing to transfer your photos to PhotoWorks, you have agreed to receive our mailings. You can opt in or opt out of receiving email updates at any time by following the simple procedure below. When you fill out the registration form you will also be asked to provide personal and/or demographic information such as your name, gender, address, and email address so we can administer the program. We may also ask questions about your camera's make and model and your use of digital images. Submitting such personal information is entirely voluntary.
 
 The more information you provide (and the more accurate it is), the better we can serve you. This information is used to maintain your account at PhotoWorks and may be shared with our partners. For example, some customer surveys, special offers, or promotions may be sponsored by one or more of our partners. In those cases, the personal information you submit may be shared with the sponsoring partner. Customers will have the option to "opt out" of this arrangement either at the time the information is collected, at the time the registration is confirmed, or by following the procedures described below.
 
@@ -143,7 +145,4 @@ ATTN: Privacy Policy
 71 Columbia Street, Suite 200  
 Seattle, WA 98104
 
-PhotoWorks reserves the right to modify this Privacy Statement at any time so please visit this page often. If our Privacy Policy changes, the revised policy will be posted on this site and we will change the ‘updated’ date at the top of the page to reflect the date of the modification.
-
-|   
----|---|---
+PhotoWorks reserves the right to modify this Privacy Statement at any time so please visit this page often. If there are any material changes to our Privacy Policy, the revised policy will be posted on this site and we will change the ‘updated’ date at the top of the page to reflect the date of the modification.
