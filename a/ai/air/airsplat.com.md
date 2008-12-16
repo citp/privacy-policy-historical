@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the airsplat.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527044122id_/http%3A//www.airsplat.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airsplat.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012410id_/http%3A//www.airsplat.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Airsoft Gun Warehouse - Nation's Largest AirSoft Guns Retailer - Great Deals and Sales on Air Soft, Soft Air, and Accessories
 
-|  [](http://www.truste.org/ivalidate.php?url=www.airsplat.com&sealid=101) | Effective Date 10/01/2006  
----|---  
-  
-* AirSplat is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the site www.airsplat.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.   
 If you have questions or concerns regarding this policy, you should first contact comments@airsplat.com or call 626-357-5700. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.   
 We respect our customer’s right to privacy. No Information given to us on this web site will be given out or sold, and will only be used for internal business purposes. All personal information, such as your name, postal, email address, payment information (i.e. credit card information etc), is private and confidential. Accordingly, the personal information which you provide is stored in a secure location, and accessible only by designated staff, and is used only for the purposes for which you provided the information (such as to process your order, reply to an email or brochure request, etc). In addition, all online orders (credit card info, etc) are additionally protected by being encrypted.
 
