@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cbscorporation.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513045938id_/http%3A//www.cbscorporation.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbscorporation.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164632id_/http%3A//www.cbscorporation.com/privacy/index.php) for the most accurate reproduction.*
 
-# CBS Corporation
+# Privacy Policy
 
   
 This Privacy Policy applies to certain Web sites which are owned and/or operated by or on behalf of CBS Corporation and  other affiliated entities controlled by, or under common control with, such parties (each such web site being individually referred to herein as the "Web Site"). If you have arrived at this Privacy Policy by "clicking" on an authorized link from a Web Site, then this Privacy Policy applies to such Web Site, and the individual entity which owns and/or operates the particular Web Site from which you "clicked" to this Privacy Policy via an authorized link shall be referred to herein as "Sponsor," "we" or "us." Sponsor respects the privacy of its users, and this Privacy Policy explains what information we collect on our Web Site and how we use such information. Please read this Privacy Policy carefully. In addition, please review the Terms of Use posted at the Web Site, which governs your use of the Web Site. Your use of our Web Site indicates to us that you have read and accepted our privacy practices, as outlined in this Privacy Policy and our Terms of Use.
