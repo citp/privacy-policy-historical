@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesray.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615174539id_/http%3A//jamesray.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesray.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216010846id_/http%3A//jamesray.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # James Arthur Ray | Help zone | Create wealth in all areas of your life: Financial, Relational, Mental, Physical and Spiritual.
 
@@ -29,7 +29,7 @@ James Ray International may modify its privacy policy as needed consistent with 
 **PRIVACY POLICY**  
 James Ray International
 
-The following Privacy Policy describes the information and privacy practices for **James Ray International** retail sales and **_http://jamesray.com_**. You may read the privacy policies of each James Ray International subsidiary by visiting each entity's Web site or by emailing [webservices@jamesray.com](mailto:webservices@jamesray.com?subject=Privacy%20Policy).
+The following Privacy Policy describes the information and privacy practices for **James Ray International** retail sales and **_http://jamesray.com_**. You may read the privacy policies of each James Ray International subsidiary by visiting each entity's Web site or by contacting our support department at [http://support.jamesray.com](http://support.jamesray.com/).
 
 This Privacy Policy does not apply to other Web sites that may be accessible through the James Ray International sites. Our sites contain links to other sites operated by third parties, including but not limited to third party sites that display the James Ray International trademarks. We encourage you to read the privacy policies of those other sites to learn how they collect and use information about you.
 
@@ -89,7 +89,7 @@ To opt-out of receiving marketing material from James Ray International:
 
   1. Follow directions on a marketing e-mail or direct mail communication from us. 
   2. Call 760-476-9077 
-  3. Send an email with your current contact information to [webservices@jamesray.com](mailto:webservices@jamesray.com?subject=Opt%20Out)
+  3. Contact out support department at [http://support.jamesray.com](http://support.jamesray.com/). 
   4. Send a request with your current contact information to:  
 James Ray International  
 Attn: Privacy Manager  
@@ -154,7 +154,7 @@ James Ray International
 Attn: Privacy Manager  
 5927 Balfour Ct Ste 104  
 Carlsbad, CA 92008 
-  2. Email: [webservices@jamesray.com](mailto:webservices@jamesray.com?subject=Privacy%20Policy)
+  2. Online: Contact out support department at [http://support.jamesray.com](http://support.jamesray.com/). 
   3. Phone: 760-476-9077 
 
 
@@ -167,4 +167,4 @@ Carlsbad, CA 92008
 Because our Web sites will continue to implement new technologies and improve the services and features we provide, this policy is subject to change. If there are changes or additions to this Privacy Policy, we will post those changes here or in other formats we deem acceptable, so that you will always know what information we collect online or offline, how we use it and what choices you have. If we change our information practices or this Privacy Policy in such a way that your personal information may be used or shared in a different manner, we will give you the choice to opt-out of having your past information used or shared in that new manner.
 
 **Last revision date:** October 21, 2004  
-James Ray International has reviewed and rewritten its Privacy Policy to (1) make it easier to read and understand, (2) describe its practices in better detail, (3) make it clear that we may combine or share the information we hold across all current or future James Ray International entities, and (4) combine privacy policies and practices for James Ray International retail stores, _http://jamesray.com_ and its affiliates. Instead of having multiple and potentially conflicting privacy policies for James Ray International and our Web sites, we have decided to ensure all James Ray International operations follow the same privacy standards. By combining our privacy policies and practices, we give our customers the same privacy standards whether providing James Ray International personal information on or offline. If you have questions about our Privacy Policy, email our Privacy Manager at [webservices@jamesray.com](mailto:webservices@jamesray.com?subject=Privacy%20Policy).
+James Ray International has reviewed and rewritten its Privacy Policy to (1) make it easier to read and understand, (2) describe its practices in better detail, (3) make it clear that we may combine or share the information we hold across all current or future James Ray International entities, and (4) combine privacy policies and practices for James Ray International retail stores, _http://jamesray.com_ and its affiliates. Instead of having multiple and potentially conflicting privacy policies for James Ray International and our Web sites, we have decided to ensure all James Ray International operations follow the same privacy standards. By combining our privacy policies and practices, we give our customers the same privacy standards whether providing James Ray International personal information on or offline. If you have questions about our Privacy Policy, contact out support department at [http://support.jamesray.com](http://support.jamesray.com/).
