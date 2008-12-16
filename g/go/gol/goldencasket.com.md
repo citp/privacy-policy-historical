@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldencasket.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612061035id_/http%3A//goldencasket.com/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldencasket.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216135003id_/http%3A//www.goldencasket.com/site/privacy.asp) for the most accurate reproduction.*
 
 # Golden Casket
 
