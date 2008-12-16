@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iwebtrack.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509144412id_/http%3A//www.iwebtrack.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwebtrack.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062554id_/http%3A//www.iwebtrack.com/privacy.asp) for the most accurate reproduction.*
 
-# IWEBTRACK: Privacy Policy
+# Privacy Policy at iWebTrack
 
 |  |  |   
 ---|---|---  
@@ -29,7 +29,7 @@ We use strong technology to ensure that your sensitive information is secure and
 
 You may review or update the available personally identifiable information that we've received from you online by contacting iWebTrack at the address below. To better safeguard your information, we will also take reasonable steps to verify your identify before granting access or making corrections in your information. iWebTrack has developed this privacy policy in accordance with current U.S. standards.
 
-For questions regarding the above policy, contact [](mailto:privacy@iwebtrack.com)
+For questions regarding the above policy, contact [privacy@iwebtrack.com](mailto:privacy@iwebtrack.com?subject=iWebTrack%20Privacy%20Inquiry)
 
 |   
 |  |   
@@ -43,17 +43,4 @@ For questions regarding the above policy, contact [](mailto:privacy@iwebtrack.co
 
 [View the Live Demo](http://login.iwebtrack.com/summary.asp?autologin=true&email=demo&password=demo)  
   
-|  |   
-  
-**Sales Inquiries** :  
-[](mailto:sales@iwebtrack.com)
-
-**Technical Inquiries** :  
-[](mailto:support@iwebtrack.com)
-
-**Reseller Inquiries** :  
-[](mailto:resellers@iwebtrack.com)
-
-_"I use Iwebtrack's[web analytics](http://www.iwebtrack.com/) software for my [check advance](http://www.mypaydayloan.com/) company. It is concise, accurate, and easy to navigate. Definitely the best [tracking software](http://www.iwebtrack.com/) I've encountered since I started my web-based company."_
-
-\-- Nick Traveyo
+|  | 
