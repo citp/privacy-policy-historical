@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528170416id_/http%3A//www.adready.com/meta/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012636id_/http%3A//www.adready.com/meta/privacy) for the most accurate reproduction.*
 
 # AdReady | Privacy Policy
 
@@ -78,7 +78,5 @@ Seattle, WA 98103
 
 Policy updated as of February 1, 2007
 
-[Try It Now.](https://web.archive.org/signup/standard) — It takes just 2 minutes to set up your free account.  
+[Try It Now.](https://web.archive.org/signups/m) — It takes just 2 minutes to set up your free account.  
 Or give us a call at 866-546-6009 and we'll show you how to “convert eyeballs to sales” with AdReady. 
-
-© 2008 AdReady, Inc.
