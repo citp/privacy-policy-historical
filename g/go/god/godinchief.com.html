@@ -1,0 +1,460 @@
+<!--The following is the downloaded HTML source of the godinchief.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216084537id_/http%3A//www.godinchief.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
+	<title>Privacy Policy - God in Chief: God in Chief</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="title" content="Privacy Policy - God in Chief: God in Chief">
+	<meta name="subject" content="Technology">
+	<meta name="language" content="en">
+	<meta name="keywords" content="AFTERMATH, Analysis, Business, cinemax, India, Indian Spirit, Infosys, Internet, Israel, Mumbai, NDTV, Pakistan, pm, Politics &amp; Society, Taj, Technology, terror, Terror Attacks, terrorism, U.S.A">
+	<meta name="description" content="God in Chief">
+	<link rel="alternate" href="http://www.godinchief.com/rss.xml" type="application/rss+xml" title="God in Chief's RSS Feed">
+	<link rel="alternate" href="http://www.instablogs.com/feed/blog=God+in+Chief" type="application/rss+xml" title="God in Chief's RSS Feed (Instablogs Community)">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	
+	<style type="text/css">
+	  @import url(/style.css);
+	</style>
+	
+
+	<script type="text/javascript" src="http://www.instablogs.com/js/yui.js"></script>
+	<script type="text/javascript" src="http://www.instablogs.com/js/lightbox.js"></script>
+
+	<script type="text/javascript">
+
+		function on_blur()
+		{
+			if(document.getElementById('nav-search').value == "")
+			{
+			document.getElementById('nav-search').value = "search here...";
+			document.getElementById('nav-search').style.color = "#999";
+			}
+		}
+
+
+		function on_focus()
+		{
+			document.getElementById('nav-search').value = "";
+			document.getElementById('nav-search').style.color = "#444";
+		}
+
+		function selectAll(theField)
+		{
+			var tempval=eval("document."+theField)
+			tempval.focus()
+			tempval.select()
+		}
+
+		function play_video()
+		{
+			var appear = document.getElementById('mumbai-taj');	
+			appear.innerHTML = '<iframe src="http://www.godinchief.com/paronama/paronama.php" scrolling="no" frameborder="0" width="550" height="520"></iframe>';
+		}
+
+		function open_reply_comment(comment_id, comment_type)
+		{
+			var div = document.getElementById('reply-comment-' + comment_type+comment_id);
+			if(div.style.display=='block')
+			{
+				div.style.display='none';
+			}
+			else
+			{
+				div.style.display='block';
+			}
+		}
+
+		function show_comments(id)
+		{
+			var div = document.getElementById(id);
+			
+			if(id=='global-local-comments')
+			{
+				div.style.display='block';
+				document.getElementById('normal-comments').style.display='none';
+				YAHOO.util.Dom.addClass('g', 'head-current'); 
+				YAHOO.util.Dom.removeClass('n', 'head-current');
+			}
+			
+			if(id=='normal-comments')
+			{
+				div.style.display='block';
+				document.getElementById('global-local-comments').style.display='none';
+				YAHOO.util.Dom.addClass('n', 'head-current'); 
+				YAHOO.util.Dom.removeClass('g', 'head-current');
+			}
+		}
+
+		function lightboxImageOn(image_id, Image_title)
+		{
+			var comment_image = 'comment_image';
+			var Image_title = "Image uploaded by - " + Image_title;
+			var div = document.getElementById('lb-edit');
+			var postdata ='image_id='+image_id + '&type=' + comment_image + '&title=' + Image_title;
+			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+
+			var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
+			var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML= o.statusText;}}
+			var Callback ={success:handleSuccess,failure: handleFailure};
+		
+			var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
+
+			var black = document.getElementById('fade');
+			black.style.display = 'block';
+
+			div.style.display = 'block';
+			window.scrollTo(0,0);
+		}
+
+		function lightboxVideoOn(video_id, You_Tube_title)
+		{
+			var video='video';
+			var You_Tube_title = "Video uploaded by - " + You_Tube_title;
+			var div = document.getElementById('lb-edit');
+			var postdata ='video_id=' + video_id + '&type=' + video + '&title=' +  You_Tube_title;
+			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+		
+			var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
+			var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML=  o.statusText;}}
+			var Callback ={success:handleSuccess,failure: handleFailure};
+
+			var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
+
+			var black = document.getElementById('fade');
+			black.style.display = 'block';
+
+			div.style.display = 'block';
+			window.scrollTo(0,0);
+		}
+
+		function lightboxoff1(id)
+		{
+			var light = document.getElementById(id);
+			light.style.display = 'none';
+		}
+
+	</script>
+
+</head>
+
+<body>
+	<div id="container">
+	<div style="height:1px;"> </div>
+		
+						<div id="small-header">
+				<div class="small-logo"><img src="/css-img/GoD_in_Chief_250x110.gif"></div><!-- EOF small-logo -->
+					<div class="small-ad-top">
+											</div><!-- EOF #ad-top --> 
+
+					<div style="padding:5px;text-align:center;padding-bottom:15px;">
+											</div>
+
+				<div class="logo"> <a href="/" title="Home"><h1>God in Chief</h1></a> </div>
+
+			</div><!-- EOF small-header --> 
+			<div class="clear"></div>
+
+			
+		<div class="top-nav">
+				<span class="home">
+					<a href="/">Home</a>
+				</span>
+
+				<span class="RSS">
+					<a href="/rss.xml">RSS</a> ::
+				</span>
+
+				<span>
+					<a href="/contact-us.php?q=tips">Send Tips</a> ::
+				</span>
+
+				<span>
+					<a href="/contact-us.php?q=general">Contact</a> ::
+				</span>
+
+				<span>
+					<form method="get" action="/search.php">
+						<input id="nav-search" name="q" value="search here..." type="text" onfocus="on_focus()" onblur="on_blur()">	
+						<input type="submit" name="submit" value="Search">
+					</form>
+				</span>
+			</div><!-- EOF top-nav -->
+		<div id="content">
+			<div id="content-box">
+				
+		
+				<div class="privacy-content-main">						
+					<div class="privacy-title">Privacy Policy</div> 
+
+					<p>This privacy statement covers all of the Instablogs sites. Please read this statement carefully before using proceeding to access Instablogs Sites. Your use of Instablogs Sites indicates your agreement to abide by the Terms in effect.</p>
+
+					<div>Information Collection</div>
+
+					<p>Instablogs Network is the sole owner of the information collected on the Instablogs Sites. Instablogs Network may collect information from our users at several different points on the Instablogs Sites.</p>
+
+					<div>Comments</div>
+					<p>In order to enhance their use of the Instablogs Sites, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including a valid email address. Instablogs Network uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.</p>
+
+					<div>Mailing List</div>
+
+					<p>Instablogs Network may launch a mailing list for some or all of the Instablogs Sites. In order to sign up to receive regular emails from a site's mailing list, users must submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site, including new articles added to the site as well as emails from third party site sponsors. If you do not wish to receive emails from third party advertisers, do not sign up for the mailing list.</p>
+
+					<div>Discussion Group and Cookies</div>
+					<p>In order to further enhance the user experience, Instablogs Network may launch a discussion board service on some or all of the Instablogs Sites where users can discuss common topics of interest. Users will have the option of signing up for this service, and to do so must submit information including a valid email address. Instablogs Network uses this information to screen out users who leave comments prohibited by our terms and conditions of use and to pick out topics of interest to discussion board users. Instablogs Network will not pass this information to any other organization except in aggregate form.</p>
+
+					<p>The discussion board service may use cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.</p>
+
+					<p>By setting a cookie on a Instablogs Site, users will not have to log in a password more than once, thereby saving time while on the site's discussion board. We store a cookie on each user's machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Instablogs Network products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, not all Instablogs Network services require that you accept cookies.</p>
+
+					<div>Third Party Cookies</div>
+					<p>Some of our business partners may use cookies on our site (for example, advertisers). However, Instablogs Network has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Instablogs Network only and does not cover the use of cookies by any advertisers.</p>
+
+					<div>Third Party Advertising</div>
+					<p>The ads appearing on this Web site are delivered to users by Google, among other services. Information about users' visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, please click here.</p>
+
+					<div>Log Files
+					</div><p>Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.</p>
+
+					<div>Legal Disclaimer</div>
+					<p>Though we make every effort to preserve user privacy, Instablogs Network may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of the Instablogs Sites.</p>
+
+					<div>Business Transitions</div>
+					<p>In the event Instablogs Network goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.</p>
+
+					<div>Links</div>
+
+					<p>The Instablogs Sites contain links to other sites. Please be aware that Instablogs Network is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Instablogs Network.</p>
+
+					<div>Notification of Changes</div>
+					<p>Whenever Instablogs Network changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
+
+					<div>Contact Information</div>
+					<p>If you have any questions or notices of violations to these terms and conditions, please contact the editor of the Instablogs Site in question, or send an email to info AT instablogs.com, or by mail to: 
+					<br>Instablogs, III Floor,
+					<br>STPI, Block No. 24, 
+					<br>SDA Complex, Kasumpati, 
+					<br>Shimla, India.
+					
+					</p>
+
+
+
+				</div><!-- EOF #content-main -->
+
+				
+			
+			</div><!-- EOF #content-box -->
+
+			<div id="content-sidebar">
+
+	<div class="Comments sp">
+		<div class="facebook-wigdet"><script src="http://badge.facebook.com/badge/517449348.692.2064718217.js"></script><noscript><a href="http://www.facebook.com/people/Vishal-Gondal/517449348">Vishal Gondal's Facebook profile</a></noscript></div>		
+
+		<h2>About Me</h2>
+		<div class="comment-content-ab">
+		<img src="http://www.instablogs.com/user-img/g/god/godinchief.jpg">
+			<span>Vishal Gondal, is a global mobile and games media executive based in Mumbai and is the Founder &amp; CEO of Indiagames a games developer and publisher in India.</span>
+			<span>Vishal started his first company - FACT at the age of 16...</span>
+			<div class="sp-more"><a href="http://www.godinchief.com/about-me.php">More..</a></div>
+		</div>
+
+		
+
+	</div><!-- EOF Comments -->
+	<div class="clear"></div>
+	<div class="border"></div>
+	<div id="tags">
+		<h2>Tags</h2>
+		<div class="tag-content">
+			<a href="http://www.godinchief.com/tags/aftermath/" class="ibn_tag8">AFTERMATH</a> <a href="http://www.godinchief.com/tags/analysis/" class="ibn_tag1">Analysis</a> <a href="http://www.godinchief.com/tags/business/" class="ibn_tag2">Business</a> <a href="http://www.godinchief.com/tags/cinemax/" class="ibn_tag2">cinemax</a> <a href="http://www.godinchief.com/tags/india/" class="ibn_tag10">India</a> <a href="http://www.godinchief.com/tags/indian-spirit/" class="ibn_tag1">Indian Spirit</a> <a href="http://www.godinchief.com/tags/infosys/" class="ibn_tag5">Infosys</a> <a href="http://www.godinchief.com/tags/internet/" class="ibn_tag4">Internet</a> <a href="http://www.godinchief.com/tags/israel/" class="ibn_tag3">Israel</a> <a href="http://www.godinchief.com/tags/mumbai/" class="ibn_tag9">Mumbai</a> <a href="http://www.godinchief.com/tags/ndtv/" class="ibn_tag5">NDTV</a> <a href="http://www.godinchief.com/tags/pakistan/" class="ibn_tag6">Pakistan</a> <a href="http://www.godinchief.com/tags/pm/" class="ibn_tag6">pm</a> <a href="http://www.godinchief.com/tags/politics-society/" class="ibn_tag7">Politics &amp; Society</a> <a href="http://www.godinchief.com/tags/taj/" class="ibn_tag3">Taj</a> <a href="http://www.godinchief.com/tags/technology/" class="ibn_tag10">Technology</a> <a href="http://www.godinchief.com/tags/terror/" class="ibn_tag9">terror</a> <a href="http://www.godinchief.com/tags/terror-attacks/" class="ibn_tag8">Terror Attacks</a> <a href="http://www.godinchief.com/tags/terrorism/" class="ibn_tag7">terrorism</a> <a href="http://www.godinchief.com/tags/usa/" class="ibn_tag4">U.S.A</a> 		</div>		
+	</div><!-- EOF  tags-->
+
+	<br><div style="padding-bottom:20px;text-align:center;">
+			</div>	
+	
+		
+
+	<div class="clear"></div>
+	
+	<div class="border"></div>
+
+	<div class="Comments">
+		<h2>Fresh Comments</h2>
+					<div class="image-content">
+				<div class="image"><img src="http://www.instablogs.com/user-img/g/gre/m_greywolf.jpg"></div>
+				<div class="comment-content">
+					<div class="author">
+											<a href="http://greywolf.instablogs.com/">Michael Davison</a>
+						
+					</div>
+					on <span><a href="http://www.godinchief.com/entry/history-of-terrorism-in-isreal/#comment-556260">History of Terrorism in Isreal</a> The term ”terrorism” was hardly born in 1947, since the Nazis called the... </span>
+				</div>
+			</div>
+			<div class="clear"></div>
+					<div class="image-content">
+				<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
+				<div class="comment-content">
+					<div class="author">
+					<span style="font-weight:bold">Hum Log</span>	
+					</div>
+					on <span><a href="http://www.godinchief.com/entry/award-winning-tv-news-reported-from-karachi/#comment-556013">Award winning TV News...</a> If you feel that this is award winning news report from across the border. Check this to... </span>
+				</div>
+			</div>
+			<div class="clear"></div>
+					<div class="image-content">
+				<div class="image"><img src="http://www.instablogs.com/user-img/m/mas/m_masok.jpg"></div>
+				<div class="comment-content">
+					<div class="author">
+											<a href="http://masok.instablogs.com/">Asokananda Prosad</a>
+						
+					</div>
+					on <span><a href="http://www.godinchief.com/entry/india-a-country-run-by-the-gods/#comment-555809">India  a country run by the...</a> Dear Vishal, 14. 12. 08.
+
+There’s no question of your being 
+embarrassed. People... </span>
+				</div>
+			</div>
+			<div class="clear"></div>
+					<div class="image-content">
+				<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
+				<div class="comment-content">
+					<div class="author">
+											<a href="http://www.flyyoufools.com/">Saad Akhtar</a>
+						
+					</div>
+					on <span><a href="http://www.godinchief.com/entry/award-winning-tv-news-reported-from-karachi/#comment-555742">Award winning TV News...</a> Well at least the poor guy kept a cool head. But the train was going away.... </span>
+				</div>
+			</div>
+			<div class="clear"></div>
+					<div class="image-content">
+				<div class="image"><img src="http://www.instablogs.com/user-img/g/god/m_godinchief.jpg"></div>
+				<div class="comment-content">
+					<div class="author">
+											<a href="http://godinchief.instablogs.com/">Vishal Gondal</a>
+						
+					</div>
+					on <span><a href="http://www.godinchief.com/entry/india-a-country-run-by-the-gods/#comment-555602">India  a country run by the...</a> thanks your your reply... ashok &amp; anil I was in no means trying to do country bashing... </span>
+				</div>
+			</div>
+			<div class="clear"></div>
+			</div><!-- EOF Comments -->
+
+
+	<div class="clear"></div>
+
+	<div class="border"></div>
+
+			<div id="archives" class="Comments">
+			<h2>Archives</h2>
+			
+			<div class="year">2008</div>				
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200812/">December 2008</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200811/">November 2008</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200810/">October 2008</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200809/">September 2008</a>
+				</div>
+					</div><!-- EOF archives -->
+	
+	<div class="border"></div>
+
+	<div style="text-align:center;padding:10px 0;">
+		</div>
+
+	<div class="border"></div>
+
+	<div class="insta-logo" style="text-align:center;padding-top:40px;">
+		<a href="http://www.instablogs.com/"><img src="/css-img/insta-logo.gif"></a>
+	</div>
+
+
+<div class="inner-sidebars">
+	<div class="inner-sidebar1">
+
+		<div class="border"></div>
+
+
+	
+
+	</div><!-- EOF inner-sidebar1 -->
+
+		
+
+</div><!-- EOF inner-sidebars -->
+
+<div class="clear"></div>
+
+</div><!-- EOF #content-sidebar -->
+		</div><!-- EOF #content -->
+
+				<div class="clear"> </div>
+		
+		<div id="ad-footer">
+			
+		</div><!-- EOF #ad-footer -->
+
+		<div id="footer">
+			
+			<div id="footer-main">
+				
+				<div class="publish">Published by The <a href="http://www.instablogs.com/">Instablogs Network</a>, <a href="http://www.citizenmedia.org">Citizen Media Pvt. Ltd.</a></div>
+				<div class="copyright">Copyright © Instablogs Network 2005. All rights reserved.</div>
+				<div class="footer-links">
+				<a href="/about-us.php">About</a> |  <a href="/disclaimer.php">Disclaimer</a> | <a href="/privacy-policy.php">Privacy Policy</a> | <a href="/terms-of-use.php">Terms of Use</a> | <a href="/contact-us.php?q=general">Contact</a>
+				</div>
+			</div><!-- EOF #footer-main -->
+		</div><!-- EOF #footer -->
+		
+		
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=4027893; 
+var sc_invisible=1; 
+var sc_partition=31; 
+var sc_click_stat=1; 
+var sc_security="159baf5d"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="free hit counters" href="http://www.statcounter.com/free_hit_counter.html" target="_blank"><img class="statcounter" src="http://c.statcounter.com/4027893/0/159baf5d/1/" alt="free hit counters" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+
+
+		<!-- Start of StatCounter Code Network 0-->
+		<script type="text/javascript" language="javascript">
+		var sc_project=2497465; 
+		var sc_invisible=1; 
+		var sc_partition=23; 
+		var sc_security="77633a20";
+		var sc_remove_link=1; 
+		</script>
+
+		<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><img  src="http://c24.statcounter.com/counter.php?sc_project=2497465&java=0&security=77633a20&invisible=0" alt="blog counter" border="0"> </noscript>
+		<!-- End of StatCounter Code -->
+
+	</div> <!-- EOF #container -->
+  
+
+		<!-- Start of StatCounter Code -->
+		<script type="text/javascript">
+		sc_project=3554791; 
+		sc_invisible=1; 
+		sc_partition=39; 
+		sc_security="3a8f7447"; 
+		sc_remove_link=1; 
+		</script>
+
+		<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><img class="statcounter" src="http://c40.statcounter.com/3554791/0/3a8f7447/1/" alt="counter free hit invisible" ></div></noscript>
+		<!-- End of StatCounter Code -->
+	</body></html>
