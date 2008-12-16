@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theinquirer.net privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612013724id_/http%3A//www.theinquirer.net/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinquirer.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152530id_/http%3A//www.theinquirer.net/static/privacy-policy) for the most accurate reproduction.*
 
-# The INQUIRER - microprocessors, servers, memory, PCs, graphics, networking, storage
+# Privacy-policy - The Inquirer
 
 **Introduction** **  
 ** Respecting the privacy of our customers and ensuring the confidentiality of customer information is critical to **Incisive Media Investments Ltd (Incisive Media)** **.** The purpose of this Privacy Policy is to ensure that we interact with all of our customers in line with current legislation such as the Data Protection Act 1998 and in accordance with their wishes.
@@ -37,7 +37,7 @@ http://www.accountancyage.com, http://www.accountancyagejobs.com, http://www.act
 
 and subdomains of these websites.
 
-This statement does not extend to sites that are linked to INCISIVE MEDIA sites but which are not part of the INCISIVE MEDIA network. You should refer to those sites for further details about their use of your personal information. 
+This statement does not extend to sites that are linked to INCISIVE MEDIA sites but which are not part of the INCISIVE MEDIA network. You should refer to those sites for further details about their use of your personal information.
 
 If you use an INCISIVE MEDIA website certain information is automatically collected so that delivery can be made of the service. Cookies may be stored on your machine by your browser. You can set your browser to disable cookies, but then you might find some website features will not work.
 
@@ -51,4 +51,4 @@ INCISIVE MEDIA is not responsible for the content or the privacy policies of thi
 
 **INCISIVE MEDIA reserves the right to change this privacy policy at any time by posting changes on this page. It is your responsibility to refer to this privacy policy on accessing this site. INCISIVE MEDIA will however draw your attention to any material changes to this privacy policy by placing a notice on the site.**
 
-If you have any general questions or wish to report a technical error, please visit [**Feedback**](https://web.archive.org/static/about-us).
+If you have any general questions or wish to report a technical error, please visit [**Feedback**](https://web.archive.org/web/20081216152530id_/http%3A//static/aboutus).
