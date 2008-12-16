@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abcarticledirectory.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619081635id_/http%3A//www.abcarticledirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcarticledirectory.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020325id_/http%3A//www.abcarticledirectory.com/privacy.php) for the most accurate reproduction.*
 
-# ABC Article Directory | Submit Articles | Article Search Engine | Free Content
+# ABC Article Directory | Submit Articles | Article Search Engine | Article Directory
 
 ABC Article Directory Privacy Policy
 
@@ -42,8 +42,8 @@ ABC Article Directory reserves the right to change this policy at any time. Plea
 
 **Governing law**
 
-This policy and the use of this Site are governed by Ontario law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Toronto. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+This policy and the use of this Site are governed by Canada law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Toronto, Ontario, Canada. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Toronto, under the rules of Canadian Law. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Toronto,Ontario, Canada, under the rules of Canadian Law. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
