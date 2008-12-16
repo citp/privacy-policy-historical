@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607112708id_/http%3A//www.techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154530id_/http%3A//www.techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
 
 # TechSmith Corporation - Privacy Policy
 
@@ -71,4 +71,4 @@ As our Web site evolves over time or our data handling policies change, we will 
 
 TechSmith is committed to security and protecting your privacy. TechSmith promises to quickly work to remedy any vulnerabilities found in our website or software and to alert our customers about any potentially dangerous vulnerabilities. If you have questions about TechSmith's committment to security or concerns about a security issue in one of our products or website, please visit our [security center](https://web.archive.org/security/security.asp). 
 
-Last Updated: 01/31/2020 11:48:24 
+Last Updated: 01/31/2020 11:48:23 
