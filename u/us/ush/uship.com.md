@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611030126id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051317id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
 
 # uShip - The Online Shipping and Moving Marketplace - Privacy Policy
 
@@ -42,7 +42,9 @@ If you choose to use our referral service to tell a friend about the Site, we wi
 
 We use your personal information, including your email address, to facilitate the services you request. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; help promote safe matching; collect fees owed; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple usernames or aliases. We may compare and review your personal information for errors, omissions and for accuracy.
 
-You agree that we may use personal information, including your email address, about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site. Communications from the Site.
+You agree that we may use personal information, including your email address, about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site.
+
+## Communications from the Site
 
 We will occasionally send you information on products, services, special deals and promotions, as well as a newsletter. You are signed up for these emails at registration and you may unsubscribe at any time by going to your account tab and opting out of the emails, or by following the directions to unsubscribe in the email.
 
