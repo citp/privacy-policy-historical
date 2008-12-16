@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611065340id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024443id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
 
-# Scottish jobs, recruitment and vacancies from s1jobs.com
-
-### privacy policy
+# Privacy Policy
 
 This site is owned and operated by Newsquest (Herald & Times) Ltd. We are committed to protecting your right to personal privacy. That is why we have drafted this notice to explain the type of information we collect on this web site (the "Site") and how we use this information. This Policy also explains the choices that you can make about the way your information is collected and used.
 
