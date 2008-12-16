@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradfordexchange.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608223438id_/http%3A//www.collectiblestoday.com/ct/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradfordexchange.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217005351id_/http%3A//www.collectiblestoday.com/ct/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Collectibles Today
 
@@ -30,32 +30,60 @@ You do not have to register at our site to place an order, but ordering is much 
 
 Periodically, Collectibles Today will ask customers to participate in contests and surveys. If you participate, the information we collect may be associated with your account, and used to improve your overall customer experience.
 
-E-mail:   
-When you order an item, a catalog, or have a customer service request, we send you an e-mail to confirm that we received your request or to answer your inquiry. These messages are generated automatically, and are sent regardless of "no-e-mail" requests. If you prefer not to receive other types of e-mail, you can indicate your preference when you receive an e-mail from us. We have an opt-out feature on every e-mail that we mail out. Or, you can respond to an e-mail and request to be removed. You can also use the contact us feature on our site or phone us at 1-877-268-6638 to let us know that you prefer not to receive offers by e-mail. Please remember that if you add or change e-mail addresses, you need to separately notify us about your preferences for those e-mail addresses.
+E-mail and Opting Out of E-mail:   
+When you order an item, a catalog, or have a customer service request, we send you an e-mail to confirm that we received your request or to answer your inquiry. These messages are generated automatically, and are sent regardless of "no-e-mail" requests. If you prefer not to receive other types of e-mail, you can opt out in the following ways:
+
+• Use the opt-out link at the bottom of every e-mail we send  
+  
+• Phone us at the number below and request to be opted out  
+  
+• Use our [contact us](https://web.archive.org/ct/cs/cs_contactus_email.jsp) feature and request to be opted out  
+  
+• Mail us at the address below and request to be opted out  
+
+
+Please remember that if you add or change e-mail addresses, you need to separately notify us about your preferences for those e-mail addresses. 
 
 Information Sharing:   
-Collectibles Today is one of a network of related companies who specialize in various high quality collectible products such as collectors plates, dolls, figurines, ornaments and music boxes. Our affiliated companies include:
+Collectibles Today is one of a network of related companies who specialize in various high-quality collectible items such as collectors plates, dolls, figurines, ornaments and music boxes. Our affiliated companies include:
 
-We sell products from these affiliates and share information about your purchases with them. On occasion you may receive offers mailed by post from our affiliates for other products that they believe you may enjoy. 
+We sell products from these affiliates and share information about your purchases with them. On occasion you may receive offers mailed by e-mail or ground mail from our affiliates for items that they believe you may enjoy. If you order from one of our affiliates by phone, mail or fax, we may share your e-mail address for use in communications concerning your order. These communications may also contain information concerning other Bradford Group items that might interest you. 
 
-We share certain collections of personal information that we regard as non-sensitive with selected third parties, such as mailing list brokers and database marketers. These entities may collect and use the information alone or in combination with customer information supplied by other companies, and share it with other companies for marketing purposes in the form of mailing lists. Our contracts with such third parties prohibit them from using or permitting use of the information we provide to generate reports about specific individuals, and require that they honor our customers' do-not-call, do-not-mail, and do-not-email requests when our information is used. We occasionally do list exchanges in which we provide mailing lists containing certain customers name and contact information to third parties in exchange for mailing lists with such information concerning the other company's customers. From time to time we may use your personal information to send you offers that may interest you on behalf of third parties. If you respond to a third party offer you receive from us or from a company that has used a mailing list generated from our customer information, you will become that business's customer and the personal information you voluntarily submit to it will be subject to that company's privacy policy, not ours.
+We and our affiliates share certain collections of personal information that we regard as non-sensitive with selected third parties, such as mailing list brokers and database marketers. These entities may collect and use the information alone or in combination with customer information supplied by other companies, and share it with other companies for marketing purposes in the form of mailing lists. Our contracts with such third parties prohibit them from using or permitting use of the information we provide to generate reports about specific individuals, and require that they honor our customers' do-not-call, do-not-mail, and do-not-e-mail requests when our information is used. We and our affiliates occasionally do ground mail list exchanges in which we provide mailing lists containing customer names and ground mail addresses to third parties in exchange for mailing lists with such information concerning the other company's customers. From time to time we or our affiliates may use your ground mail address to send you offers that may interest you on behalf of third parties. If you respond to a third party offer you receive from us or from a company that has used a mailing list generated from our customer information, you will become that business's customer and the personal information you voluntarily submit to it will be subject to that company's privacy policy, not ours.
 
-If you object to our sharing information about you as a customer with these affiliated and non-affiliated companies, or if you prefer not to receive postal mail from us or other companies, you may use the [contact us](https://web.archive.org/ct/cs/cs_contactus_email.jsp) feature on our site, or phone us at 1-877-268-6638 to tell us about your preferences. 
+We do not exchange or share our customer e-mail addresses with third parties for marketing or promotional purposes.
+
+If you object to our sharing information about you as a customer with these affiliated and non-affiliated companies, or if you prefer not to receive ground mail from us or other companies, you may use the [contact us](https://web.archive.org/ct/cs/cs_contactus_email.jsp) feature on our site, or phone us at 1-877-268-6638 to tell us about your preferences. 
 
 Even if you opt out from information sharing generally, we must share information about your individual orders with the sister corporation that packs, ships and bills your purchases, and with outside companies on a confidential basis as needed to obtain approval to charge your credit card, to verify your address, and to deliver your orders. 
 
-When you visit our website from a link on another website, or in an ad or e-mail, a cookie will be placed on your computer, and if you make a purchase, information may be provided to the referring website. This information is not personally identifiable. This will occur even if you opt out from other types of information sharing. 
+When you visit our Web site from a link on another Web site, or in an ad or e-mail, a cookie will be placed on your computer, and if you make a purchase, information may be provided to the referring Web site. This information is not personally identifiable. This will occur even if you opt out from other types of information sharing. Cookies placed on your computer when you visit our site may also be used to display banner ads concerning our items when you visit certain third party sites. 
 
 We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Collectibles Today, our users, or others. This includes exchanging information with other companies and organizations for fraud protection, collecting unpaid purchase balances, and reducing credit risks. This protects you from price increases related to uncollected debt. 
 
 Our business referral program is provided by an outside company. If you choose to use this optional service, then they may share your information with us, but are not authorized to contact you or provide your information to others, without your permission. 
 
 Children:   
-collectiblestoday.com is a shopping site for mature collectors. We do not knowingly solicit data from, or market to, children under age 13. 
+collectiblestoday.com is a shopping site for mature collectors. We do not knowingly solicit data from, or market to, children under age 13.
 
 Customer Information Transfer:   
 As we continue to develop our business, we might sell or buy businesses and assets, including customer information. 
 
 Visit Us Often:   
-Please visit this Privacy Policy frequently, as our business changes all the time, and we update this policy to reflect those changes. By visiting our site you agree that we may collect and use information as stated in our privacy policy. If we change our privacy policy, we will post the changes on this page so you are always informed about what information we collect, how we use it, and under what circumstances we disclose it.  
+Please visit this Privacy Policy frequently, as our business changes all the time, and we update this policy to reflect those changes. By visiting our site you agree that we may collect and use information as stated in our privacy policy. If we change our privacy policy, we will post the changes on this page so you are always informed about what information we collect, how we use it, and under what circumstances we disclose it.
 
+You can always reach us by [e-mail](https://web.archive.org/ct/cs/cs_contactus_email.jsp), phone, or ground mail:
+
+Collectibles Today US  
+9307 N. Milwaukee Avenue  
+Niles, Illinois 60714-1381
+
+Collectibles Today Canada  
+2080 Piper Lane  
+London, Ontario N5V 3N
+
+By Phone:  
+United States: 1-877-268-6638  
+Canada: 1-800-265-1027  
+Monday - Friday (excluding major holidays)  
+7:00 A.M. - 6:00 P.M., Central Time
