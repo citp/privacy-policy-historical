@@ -1,0 +1,454 @@
+<!--The following is the downloaded HTML source of the myvi.net privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216024310id_/http%3A//www.myvi.net/site/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	ViSalus Privacy Policy
+</title><link rel="Stylesheet" type="text/css" href="/css/main-external.css"><link rel="stylesheet" type="text/css" href="/css/main-side2.css"><link rel="stylesheet" type="text/css" href="/css/sn-tmp.css">
+    <!--[if ie]>
+        <link rel="stylesheet" type="text/css" href="/css/main-side-ie.css" />
+    <![endif]-->
+
+    <script language="javascript" src="/js/ajax.js" type="text/javascript"></script>
+    <script language="javascript" src="/js/menus.js" type="text/javascript"></script></head><body><div id="dropmenudiv" style="visibility:hidden;width:165px;background-color:lightyellow" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+    <script language="javascript" src="/js/contact.js" type="text/javascript"></script>
+    <script language="javascript" src="/js/jquery.js" type="text/javascript"></script>
+    <script language="javascript" src="/js/nav.js" type="text/javascript"></script>
+    <script language="javascript" src="/js/utils/swfobject.js" type="text/javascript"></script>
+    
+    <script src="/urchin.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+    _userv=0;
+    urchinTracker();
+    </script>
+
+    <meta id="ctl00_MetaDesc" name="Description"><meta id="ctl00_MetaKeywords" name="Keywords">
+
+    <script language="javascript" type="text/javascript">
+
+function BlankField(field, text, b)
+{
+    if(field.value == text)
+    {
+        field.value = '';
+        field.className = 'cs';
+    }
+    else if(field.value.length == 0 && b)
+    {
+        field.value = text;
+        field.className = 'c';
+    }
+    else if(field.value.length > 0)
+    {
+        field.className = 'cs';
+    }
+}
+
+function UpdateField(field, className, force)
+{
+    if(field.value.length == 0 && !force) field.className = className;
+    else field.className = 'blank';
+}
+
+function Image1_onclick() 
+{
+}
+
+function BreakoutFrame()
+{
+    if (top.location != location)
+    {
+        top.location.href = document.location.href;
+    }
+}
+
+function SubmitContact(f)
+{
+    var vars = new Array();
+    vars[0] = "email=" + f.Email.value;
+    vars[1] = "name=" + f.Name.value;
+    vars[2] = "phone=" + f.Phone.value;
+    vars[3] = "page-id=" + f.pageid.value;
+    
+    var a = new AjaxCall('save.contact', vars);
+    a.sessionid = '00-00';
+    a.Send(ContactSuccess);
+    
+    return false;
+}
+
+function ContactSuccess(str)
+{
+    $('div#GlobalContactSuccessDiv').show();
+    $('div#GlobalContactSendFormDiv').hide();
+
+    document.FormGlobalContactForm.Name.value = '';
+    document.FormGlobalContactForm.Email.value = '';
+    document.FormGlobalContactForm.Phone.value = '';
+    
+    setTimeout("HideContactForm()", 1000);
+}
+
+function ShowContactForm(obj)
+{
+    var e = null;
+    
+    $('div#GlobalContactForm').hide();
+    
+    e = document.getElementById('GlobalContactForm');
+    
+    e.style.top = GetY(obj).toString() + 'px';
+    e.style.left = GetX(obj).toString() + 'px';
+
+    $('div#GlobalContactSuccessDiv').hide();
+    $('div#GlobalContactSendFormDiv').show();
+    $('div#GlobalContactForm').fadeIn(500);
+}
+
+function HideContactForm()
+{
+    $('div#GlobalContactForm').fadeOut(500);
+}
+
+function xxSendContact()
+{
+
+}
+
+</script>
+
+    
+<link rel="stylesheet" type="text/css" href="/css/jvine.css">
+
+
+    
+<style type="text/css">
+
+div.LoggedInDiv, div.LoggedOutDiv { background-image: url(/gifs/template/bg/auth-panel.jpg); background-repeat:no-repeat; background-position: top; width: 256px; margin-left: 37px; margin-right: 7px; }
+div#ViSalus { padding-top: 27px; }
+#search { margin-left: 77px; margin-top: 12px; height: 50px; }
+#contact-text { width:200px; height:80px; }
+#navMenu { margin-top: 1px; }
+
+.searchBox { margin-top: 10px; }
+
+</style>
+
+
+
+    
+    <div id="TopHead">
+        <div id="TopShineHead">
+            <div id="LeftShine">
+                <div id="RightShine">
+                    <div id="ShineBody">
+                        <div id="ViSalus">
+                            <div>
+                                <a href="#">
+                                    <img border="0" src="/gifs/template/logos/visalus-shine.jpg"></a></div>
+                        </div>
+                        <div id="search">
+                            <table>
+                                <tbody><tr>
+                                    <td valign="top" style="width: 414px;">
+                                        <div class="searchBox" style="height: 77px;">
+                                            
+<form action="/site/search.aspx" method="get" name="SearchForm" style="margin: 0px;">
+    <table cellspacing="0" cellpadding="0">
+        <tbody><tr>
+            <td style="padding-right: 3px; padding-left: 120px;">
+                <div class="white" style="font-weight: bold;">
+                    Search&nbsp;:
+                </div>
+            </td>
+            <td style="padding-right: 6px;">
+                <div id="SearchShine">
+                    <input name="term" value="" class="white" style="margin-top: 2px; margin-left: 8px;">
+                </div>
+            </td>
+            <td>
+                <input type="image" src="/gifs/template/buttons/search-button.jpg" id="Image1" language="javascript">
+            </td>
+        </tr>
+    </tbody></table>
+</form>
+
+                                            
+                                        </div>
+                                    </td>
+                                    <td valign="top">
+                                        <form name="aspnetForm" method="post" action="default.aspx?key=privacy" id="aspnetForm" style="margin: 0px;">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIMzY2NjI5MDUPZBYCZg9kFggCCQ9kFgICAQ9kFgICAw9kFgICAQ9kFgJmD2QWAmYPZBYCAgEPZBYCAgEPDxYCHgtOYXZpZ2F0ZVVybAVIL2dvLmFzcHg/Z289aHR0cDovL3d3dy52aXNhbHVzc2NpZW5jZXMuY29tL3VzL1dlbGNvbWVHdWVzdC5hc3B4P0lEPVskaWRdZGQCCw9kFgICAQ8WAh4EaHJlZgUBL2QCDQ9kFgICAQ8WAh8BBUQvZ28uYXNweD9nbz1odHRwOi8vd3d3LnZpc2FsdXNzY2llbmNlcy5jb20vdXMvc2hvcHBpbmcuYXNweD9JRD1bJGlkXWQCDw9kFgQCAQ8WAh4JaW5uZXJodG1sBRZWaVNhbHVzIFByaXZhY3kgUG9saWN5ZAIDDxYCHgdWaXNpYmxlZ2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFH2N0bDAwJExvZ2luMSRMb2dpbjEkTG9naW5CdXR0b27PB0V01DcB0H0CqVjeC9etnAF7Tw==">
+
+                                    
+                                        <div id="ctl00_AuthPanel">
+                                            
+                                            <div id="ctl00_NotLoggedIn">
+                                                <div class="LoggedOutDiv">
+                                                    <table id="ctl00_Login1_Login1" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td>
+            
+            
+            <div id="ctl00_Login1_Login1_pnlLogin">
+			
+            
+            
+                
+
+
+
+            <table cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                    <td style="width: 110px; padding-top: 3px; font-size: 11px;">
+                        <div class="Dark" style="padding-left: 7px;">
+                            Member Login<br>
+                            <a id="ctl00_Login1_Login1_hlNotMemberLink" href="/go.aspx?go=http://www.visalussciences.com/us/WelcomeGuest.aspx?ID=[$id]">Not a Member?</a>
+                        </div>
+                        <div style="padding-left: 7px; padding-top: 4px;">
+                            <a class="white" href="https://www.visalussciences.com/us/Forgotten_Password.aspx?ID=www" style="text-decoration: none;">Forgot password?</a></div>
+                    </td>
+                    <td style="padding-top: 7px;">
+                        
+                        <div class="LoginInput">
+                            <input name="ctl00$Login1$Login1$UserName" type="text" id="ctl00_Login1_Login1_UserName" class="Login" onclick="UpdateField(this, 'Login', true);" onfocus="UpdateField(this, 'Login', true);" onblur="UpdateField(this, 'Login', false);">
+                            &nbsp;
+                        </div>
+                        
+                        <div class="LoginInput">
+                            <input name="ctl00$Login1$Login1$Password" type="password" id="ctl00_Login1_Login1_Password" class="Pass" onclick="UpdateField(this, 'Pass', true);" onfocus="UpdateField(this, 'Pass', true);" onblur="UpdateField(this, 'Pass', false);">
+                            &nbsp;
+                        </div>
+                        
+                    </td>
+                    
+                    <td style="padding-bottom: 3px; padding-left: 3px;" valign="bottom">
+                        <input type="image" name="ctl00$Login1$Login1$LoginButton" id="ctl00_Login1_Login1_LoginButton" src="/gifs/template/buttons/login-button.jpg" alt="Sign In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$Login1$Login1$LoginButton&quot;, &quot;&quot;, true, &quot;ctl00$Login1&quot;, &quot;&quot;, false, false))" border="0">                        
+                    </td>
+                </tr>
+            </tbody></table>
+            
+            
+            
+            
+		</div>
+            
+    </td>
+	</tr>
+</tbody></table>
+
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                        </form>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+                        
+<ul id="navMenu">
+    <li id="home" onmouseover="toggleFontColor('home')" onmouseout="toggleFontColor('home')">
+        <a href="/" id="ctl00_topnavext_HomeLink">
+            <div class="label">
+                Home</div>
+            <div class="caption">
+                &nbsp;</div>
+        </a></li>
+    <li id="about" onmouseover="toggleFontColor('about')" onmouseout="toggleFontColor('about')">
+        <a href="/site/about">
+            <div class="label">
+                About</div>
+            <div class="caption">
+                The Company</div>
+        </a>
+        <ul>
+            <li><a href="/site/about">Mission</a></li>
+            <li><a href="/site/management">Management</a></li>
+            <li><a href="/site/sab">Scientific Board</a></li>
+            <li><a href="/site/visalus-tv">ViSalus TV</a></li>
+        </ul>
+    </li>
+    <li id="life" onmouseover="toggleFontColor('life')" onmouseout="toggleFontColor('life')">
+        <a href="/site/life">
+            <div class="label">
+                Life</div>
+            <div class="caption">
+                Your Experiences</div>
+        </a>
+        <ul>
+            <li><a href="/site/life">The "Vi Life"</a></li>
+            <li><a href="/site/rewards">Rewards</a></li>
+            <li><a href="/site/photo-gallery">Company Photo Gallery</a></li>
+        </ul>
+    </li>
+    <li id="health" onmouseover="toggleFontColor('health')" onmouseout="toggleFontColor('health')">
+        <a href="/site/science">
+            <div class="label">
+                Health</div>
+            <div class="caption">
+                Your Wellbeing</div>
+        </a>
+        <ul>
+            <li><a href="/site/science">Science</a></li>
+            <li><a href="/site/health-weightmanagement">Weight Management</a></li>
+            <li><a href="/site/vi-pak">Nutrition</a></li>
+            <li><a href="/site/health-performance">Performance</a></li>
+            <li><a href="/go.aspx?go=http://www.visalussciences.com/us/shopping.aspx?ID=[$id]">Shopping
+                Cart</a></li>
+        </ul>
+    </li>
+    <li id="prosperity" onmouseover="toggleFontColor('prosperity')" onmouseout="toggleFontColor('prosperity')">
+        <a href="/site/opportunity">
+            <div class="label">
+                Prosperity</div>
+            <div class="caption">
+                Your Future</div>
+        </a>
+        <ul>
+            <li class="left"><a href="/site/opportunity">Opportunity</a></li>
+            <li class="left"><a href="/site/bimmer-club">Bimmer Club</a></li>
+            <li class="left"><a href="/site/giving">Giving</a></li>
+            <li class="left"><a href="/MyViCalendar.aspx">Calendar</a></li>
+        </ul>
+    </li>
+    <li id="community" onmouseover="toggleFontColor('community')" onmouseout="toggleFontColor('community')">
+        <a href="/community.aspx">
+            <div class="label">
+                Community</div>
+            <div class="caption">
+                Your Support</div>
+        </a></li>
+</ul>
+
+                        <div style="clear: both;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="BodyHolder">
+        <div id="Body">
+            <div id="BodyLeft">
+                <div id="BodyRight">
+                    <div id="BodyMain">
+                    
+<div id="sideNav">
+    <ul>
+        <li class="aboutinactive"><a class="toplink" href="/site/about">About</a>
+            <ul id="2" class="sub" style="display: none;">
+                <li class="subli" id="21"><a href="/site/about">Mission</a></li>
+                <li class="subli" id="22"><a href="/site/management">Management</a></li>
+                <li class="subli" id="23"><a href="/site/sab">Scientific Board</a></li>
+                <li class="subli" id="24"><a href="/site/visalus-tv">ViSalus TV</a></li>
+            </ul>
+        </li>
+        <li class="inactive"><a class="toplink" href="/site/life">Life</a>
+            <ul id="3" class="sub" style="display: none;">
+                <li class="subli" id="31"><a href="/site/life">The "Vi Life"</a></li>
+                <li class="subli" id="32"><a href="/site/rewards">Rewards</a></li>
+                <li class="subli" id="33"><a href="/site/photo-gallery">Company Photo Gallery</a></li>
+            </ul>
+        </li>
+        <li class="inactive"><a class="toplink" href="/site/science">Health</a>
+            <ul id="4" class="sub" style="display: none;">
+                <li class="subli" id="41"><a href="/site/science">Science</a></li>
+                <li class="subli" id="42"><a href="/site/health-weightmanagement">Weight Management</a></li>
+                <li class="subli" id="43"><a href="/site/vi-pak">Nutrition</a></li>
+                <li class="subli" id="44"><a href="/site/health-performance">Performance</a></li>
+                <li class="subli" id="45"><a href="/go.aspx?go=http://www.visalussciences.com/us/shopping.aspx?ID=[$id]">Shopping Cart</a></li>
+            </ul>
+        </li>
+        <li class="inactive"><a class="toplink" href="/site/opportunity">Prosperity</a>
+            <ul id="5" class="sub" style="display: none;">
+                <li class="subli" id="51"><a href="/site/opportunity">Opportunity</a></li>
+                <li class="subli" id="52"><a href="/site/bimmer-club">Bimmer Club</a></li>
+                <li class="subli" id="53"><a href="/site/giving">Giving</a></li>
+                <li class="subli" id="54"><a href="/MyViCalendar.aspx">Calendar</a></li>
+            </ul>
+        </li>
+        <li class="inactive"><a class="toplink" href="/community.aspx">Community</a>
+            <ul id="6" class="sub" style="display: none;">
+            </ul>
+        </li>
+    </ul>
+    <div id="quickLinks">
+        <ul>
+            <li><a href="/go.aspx?go=http://www.visalussciences.com/us/shopping.aspx?ID=[$id]" id="ctl00_SideNavExt_PlaceOrder">Place Order</a></li>
+        </ul>
+    </div>
+    <div id="feedback">
+        <a href="mailto:info@myvi.net"><img alt="Feedback Button" src="/gifs/icons/feedback.jpg"></a>
+    </div>
+</div>
+
+
+                    <div id="contentAdjuster">
+                        
+    <br>
+    <h1 id="ctl00_MainBody_PageSubHead" style="margin-bottom: 0px" class="Content">ViSalus Privacy Policy</h1>
+    
+    <div id="ctl00_MainBody_Layout1">
+        <strong><br>Privacy Policy</strong><br><br>ViSalus Sciences®, Inc. is committed to protecting the privacy and security of individuals who visit ViSalus’™ web site(s) (the “Site”). The purpose of this Privacy Policy is to inform you as to what information may be collected from you when visiting the Site, how such information will be used by ViSalus™ and/or other persons or entities, with whom such information may be shared, your choices regarding the collection, use and distribution of such information, your ability to edit, update, correct or delete such information and the security procedures that we have implemented to protect your privacy.<br><br><strong>Collection of Information</strong><br><br>When visiting the Site, you may be asked for certain types of personally identifiable information (e.g., your first and last name, mailing address, city, state, zip code, telephone number, e-mail address, credit card number, bank information in connection with automatic deposit/debits, etc.). This information allows us to administer our business, provide customer service, communicate offers on products that may be of interest to you or to others disclosed by you, and to fulfill your order. You may volunteer to disclose personally identifiable information to us. If you do not want to disclose your personally identifiable information to us, please do not submit it. We may also collect non-personally identifiable information from you when you visit the Site (e.g., your IP address, browser type, domain name, etc.). This information is collected and analyzed in the aggregate in order to improve the function and content of the Site.<br>Use of Information<br><br>We use the information that is collected about you for a variety of purposes, such as confirming and fulfilling your order, adding you to our e-mail subscription list, providing your name to ViSalus™ Distributors in connection with your potential interest in our products or business opportunity, analyzing trends and statistics, enhancing the operation of the Site, serving content and advertisements and sending informational and promotional materials about ViSalus™ and other companies. We have existing business relationships and may develop other relationships in the future with business partners. In these instances, we may share or otherwise allow access to information that is collected about you that will enable our business partners to contact you regarding products and services that may be of interest. We may employ vendors to perform functions on our behalf. Examples may include fulfilling orders, delivering packages, e-mail administrative functions, processing credit card payments, and providing customer service. These vendors are under contractual obligation to use confidential data only for those purposes for which they are hired. We may disclose the information that we collect about you when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities that may be causing injury to you, to us or to others. We may also disclose information when we believe the law requires it.<br><strong><br>Distributor Access to Genealogy Reports</strong><br><br>Lineage Reports, which include all data relating to a Distributor’s downline, including, but not limited to, name, address, identification number, telephone number, e-mail address, fax number, level or rank, volume and sales statistics, are provided to Distributors in the strictest confidence and for the sole purpose of supporting the Customers and Distributors in that Distributor’s downline organization to further develop their ViSalus™ business. (The downline organization consists of all Distributors that were personally sponsored by that Distributor, and in turn, all other persons sponsored by those Distributors.)<br>Lineage Reports, including all data contained therein, constitute confidential, proprietary trade secrets of ViSalus™ (hereinafter, "Confidential Information. Distributors may not collect, distribute or gather Confidential Information or personal or aggregate information about other ViSalus™ Distributors or their customers, except in connection with their downline and solely for the purpose of promoting their ViSalus™ business, and to manage, motivate and train their downline.<br><br><strong>Protection of Children</strong><br><br>The Site is a general audience web site that is not specifically designed or targeted at children. We do not knowingly collect, use or disseminate any personally identifiable information from children under the age of 13. If, however, we become aware that personally identifiable information regarding a child under the age of 13 has been collected at the Site, we will use such information for the sole purpose of contacting a parent or guardian of the child to obtain verifiable parental consent. If we cannot obtain consent after a reasonable period of time, or if when contacted a parent or guardian requests that we do not use or maintain such information, we will make reasonable efforts to delete it from our records. Upon request by a parent or guardian, ViSalus™ will provide a description of the specific types of personal information collected from a child who is under the age of 13.<br><br><strong>Cookies</strong><br><br>Cookies are small pieces of information that are stored on computer hard drives. We may use cookies to recognize you when you return to the Site in order to provide you with a better user experience. Our cookies do not contain any personally identifying information, such as your name, or sensitive information, such as your credit card number. We may allow third parties to use cookies on the Site. We do not control the use or contents of third party cookies. Web browsers often allow you to erase existing cookies from your hard drive, block the use of cookies and/or be notified when cookies are encountered. If you elect to block cookies, please note that you may not be able to take full advantage of the features and functions of the Site.<br><br><strong>Third-Party Links</strong><br><br>The Site may contain links to web sites operated and maintained by third parties over which we have absolutely no control. Any information you provide to third party web sites will be governed under the terms of each web sites’ privacy policy and we encourage you to investigate and ask questions before disclosing any information to the operators of third party web sites. We have no responsibility or liability whatsoever for the content, actions or policies of third party web sites. The inclusion of third party web sites on our Site in no way constitutes an endorsement of such web sites’ content, actions or policies.<br><br><strong>Access or Corrections to Your Information</strong><br><br>If you identify any inaccuracy in your personal information, or you need to make a change or would like to verify such information, please contact us so that we may update our records or you may go online to one of ViSalus™’ web sites and update your own information. Our contact information is set forth below. We will use commercially reasonable efforts to accommodate all such requests.<br><br><br><strong>Security</strong><br><br>We take reasonable steps to ensure that the personal information we collect about you remains accurate, timely and secure. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure and while we strive to protect your personal information, we cannot guarantee or warrant its complete security. We shall not be responsible for harm that you or any person may suffer as a result of a breach of confidentiality in respect to your use of our Site or any information you transmit to our Site.<br><br><strong>Modifications to Policy</strong><br><br>This Privacy Policy is effective as of July 2004. ViSalus™ reserves the right to change this Privacy Policy at any time. Any changes to this Agreement will be effective immediately upon notice, which may be provided to you via e-mail or by posting the latest version on our Site (hereinafter, “Notice”). Your use of the Site after such Notice will be deemed acceptance of such changes. Be sure to review this Privacy Policy periodically to ensure familiarity with its most current version. You can easily confirm whether any revisions have been posted since your last visit by checking the date on which the Policy was last revised, which is set forth at the bottom of this Policy. If you object to such changes, we will honor our prior privacy policies as to any data previously collected. If you disagree with the changes in our policy, however, please do not use the Site after the posting of such changes online. By using the Site following the posting of changes to this Privacy Policy, you agree to all such changes.<br><br><strong>Questions or Comments or to Contact Us</strong><br><br>If you have questions or comments about this Privacy Policy, or you wish to access or make changes to information about you, please contact us at terms@myvi.net.<br>
+    </div>
+
+    
+
+    
+
+    
+    
+    <br>
+
+                    </div>
+
+                        <div style="clear: both;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+
+        <div id="BottomDiv">
+            <div id="BottomShine">
+                <div id="BottomShineLeft">
+                    <div id="BottomShineRight">
+                        <div id="BottomMenu">
+                            <a href="/manager/my">Home</a> | 
+                            <a href="/about.aspx">About</a> | 
+                            <a target="_blank" href="http://www.overview.visalus.com/">Overview Tour </a> | 
+                            <a target="_blank" href="http://visalus.com/overview/gst/">GST Tour</a> | 
+                            <a href="/go.aspx?go=http://www.visalussciences.com/us/shopping.aspx?ID=[$id]">Shopping</a> | 
+                            <a href="/site/terms-of-service">Terms &amp; Conditions</a> | 
+                            <a href="/site/privacy">Privacy Policy</a> | 
+                            <a href="/site/contact-us">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+    <div id="EditFloater">
+    </div>
+    
+
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-972891-5");
+    pageTracker._trackPageview();
+    </script>
+
+
+
+</body></html>
