@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundstrue.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612134134id_/http%3A//store.soundstrue.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundstrue.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216204058id_/http%3A//store.soundstrue.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Sounds True Privacy Policy
 
@@ -47,8 +47,7 @@ Our Web site does not enable our visitors to communicate with other visitors or 
 
 **
 
-Automatic Collection of Information  
-
+Automatic Collection of Information
 
 **
 
