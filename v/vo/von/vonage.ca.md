@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vonage.ca privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630073227id_/http%3A//www.vonage.ca/help.php%3Fkeyword%3DPrivacyPolicyCA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012328id_/http%3A//www.vonage.ca/help.php%3Fkeyword%3DPrivacyPolicyCA) for the most accurate reproduction.*
 
 # VOIP with Vonage Canada
 
@@ -32,7 +32,8 @@ Attention: Vonage Canada Corp. c/o Privacy Officer
 Suite 301   
 Mississauga, Ontario   
 L4W 5M2   
-E-mail: [vc_privacyofficer@vonage.com](mailto:vc_privacyofficer@vonage.com)
+E-mail: [vc_privacyofficer@vonage.com](mailto:vc_privacyofficer@vonage.com)   
+Phone: 416-907-6186
 
 1.3. Vonage Canada is responsible for personal information in its possession or custody, including information that has been transferred to a third party for processing. Vonage Canada will use contractual or other means to provide a comparable level of protection while the information is being processed by a third party.
 
