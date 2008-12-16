@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usp.org privacy policy that was archived on 2008-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080610112409id_/http%3A//www.usp.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usp.org privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216160828id_/http%3A//www.usp.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr"><head>
 	<title>USP Web site Privacy Policy</title>
@@ -11,19 +11,18 @@
 	<script src="/javascript/googleAnalytics.js" type="text/javascript"></script>
 </head>
 <body>
+
 <a name="top"></a>
 <!-- Begin template "top.html" -->
-<!-- usp-web1 -->
+<!-- usp-web2 -->
 <table id="pageTop">
 <tbody><tr id="utilRow">
 	<td id="languageCell">
 		<ul id="langNav">
 			<li><a href="http://www.usp.org/language.html?locale=EN" target="_top" class="current">English</a></li>
 			<li><a href="http://www.usp.org/language.html?locale=ES" target="_top">Español</a></li>
-			<li><a href="http://www.usp.org/language.html?locale=FR" target="_top">Français</a></li>
-			<li><a href="http://www.usp.org/language.html?locale=DE" target="_top">Deutsch</a></li>
 			<li><a href="http://www.usp.org/language.html?locale=ZH" target="_top">中文</a></li>
-			<!--<li><a href="http://www.usp.org/language.html?locale=PT" target="_top">Portugu&ecirc;s</a></li>-->
+			<li><a href="http://www.usp.org/language.html?locale=PT" target="_top">Português</a></li>
 		</ul>
 	</td>
 	<td id="utilCell">
@@ -55,45 +54,16 @@
 			vertical-align: middle;
 		}
 		</style>
-		<script>function VerifySearch( search ) {
-	// Make sure we copy the real search string into the one we send the iStore
-	// search form.
-	pickSearch( search.index );
-	search.kw.value = search.globalSearch.value;
-
-	if ( search.globalSearch.value.length >= 3 ) { 
-		return( true );
-	} else {
-		alert( "Please make your search at least 3 characters in length." );
-	}
-
-	return( false );
-}
-
-function pickSearch( sel ) {
-	index = sel.options[sel.selectedIndex].value;
-
-	if ( index == "all" ) {
-		sel.form.action = "http://www.usp.org/search.html";
-	} else if ( index == "news" ) {
-		sel.form.action = "http://www.usp.org/search.html";
-	} else if ( index == "store" ) {
-		sel.form.action = "http://store.usp.org/OA_HTML/usp_ibeCSrdSrchResults.jsp";
-	} else {
-		sel.form.action = "http://www.usp.org/search.html";
-	}
-}
-</script>
-		<form name="globalSearchForm" id="globalSearchForm" action="/search.html" onsubmit="return VerifySearch(this)">
-			<input type="hidden" name="kw" value="">
-			<input type="hidden" name="locale" value="EN">
+		
+		<form name="globalSearchForm" id="globalSearchForm" action="/search.html">
 			<label for="globalSearch">Search</label>
-			<select name="index" onchange="pickSearch(this);">
-				<option value="all" selected="">All of USP.org</option>
-				<option value="store">Only products</option>
-				<option value="news">Only news releases</option>
+			<select id="site" name="site">
+				<option value="externalAll">All of USP.org</option>
+				<option value="wwwusp">Only USP.org</option>
+				<!--<option value="pressroom">Only Pressroom</option>-->
+				<option value="store">Only Products</option>
 			</select>
-			<input type="text" name="search" id="globalSearch" size="15" maxlength="256" value="">
+			<input type="text" name="q" id="globalSearch" size="15" maxlength="256" value="">
 			<input type="image" name="Go" src="/images/btnSubmitArrow.gif" alt="Go" class="arrowButton">
 		</form>
 	</td>
@@ -129,7 +99,7 @@ function pickSearch( sel ) {
 	<a href="http://www.usp.org/education/">Pharmacopeial Education</a>
 </li>
 <li id="bHQI">
-	<a href="http://www.usp.org/hqi/">Healthcare Quality and Information (HQI)</a>
+	<a href="http://www.usp.org/hqi/">Healthcare Quality and Information</a>
 </li>
 <li id="bWorldwide">
 	<a href="http://www.usp.org/worldwide/">USP in Developing Countries</a>
