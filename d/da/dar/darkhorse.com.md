@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the darkhorse.com privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426014011id_/http%3A//www.darkhorse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkhorse.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023310id_/http%3A//www.darkhorse.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy :: Dark Horse Comics
 
-  
-**Dark Horse Comics, Inc. Privacy Policy**   
 By using this site, you agree to the Privacy Policy of Dark Horse Comics, Inc. If you do not agree to the Policy, please do not use this site. 
 
 Dark Horse Comics, Inc. recognizes the privacy concerns of visitors to its site on the Internet. Specifically, we recognize the importance of protecting the privacy of personally identifiable information collected about our visitors. As a general policy, no personally identifiable information, such as your name, address or email address, is automatically collected from visitors to our site. We may collect certain non-personal information used only to optimize our web pages for your computer (i.e., the identity of your Internet browser and the type of operating system you use). We may also use non-personal information to determine the total number of visitors to our website. 
