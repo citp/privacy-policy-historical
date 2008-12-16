@@ -1,36 +1,38 @@
-> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509130705id_/http%3A//www.wyndhamworldwide.com/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152228id_/http%3A//www.wyndhamworldwide.com/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Wyndham Worldwide: Privacy Policy
 
-[Home](https://web.archive.org/ "Home") > Privacy Policy 
+## Web Site Terms of Use
+
+### WYNDHAM WORLDWIDE INTERNET CUSTOMER PRIVACY & INFORMATION PRACTICES POLICY
 
 **Wyndham Worldwide Corporation** (" **Wyndham** ") recognizes the importance of protecting the privacy of certain Information collected about the users and visitors (" **user** ," " **you** " **or** " **your** ") of Wyndham's Web site (" **Web Site** "). The following privacy and information practices policy discloses and describes what Information Wyndham may gather about you, how Wyndham may use such Information, and how you can correct or change such Information (" **Privacy Policy** "). This Privacy Policy is designed to give you an understanding about how Wyndham collects your Information and the uses Wyndham may make of such Information during the course of Wyndham's business and in providing you with access to the information, products and services that may be available at this Web Site.
 
 You should print a copy of this Privacy Policy for your records. Please note, however, that Wyndham may update and amend this Privacy Policy from time to time as Wyndham deems necessary in its sole discretion. Certain capitalized terms used in this Privacy Policy may be defined in Wyndham's separate [Web Site Terms of Use](https://web.archive.org/legal/terms_of_use.cfm).
 
-## Purpose
+#### Purpose
 
 Wyndham's purpose in establishing this Privacy Policy is to balance its legitimate business interests in collecting and using its users' Information with its users' reasonable expectations of privacy. Wyndham's intent is to provide to you certain offers, information, services and discounts that it believes are relevant to your interests. Wyndham believes that its users will benefit from promotional activity based on certain information employed to market goods and services offered by and through its businesses.
 
-## Affiliate Web Sites
+#### Affiliate Web Sites
 
 This Privacy Policy applies to this Web Site only. Please note that, to the extent that this Web Site permits you to link to other Web sites of Wyndham's affiliated or related entities, or its Providers, separate privacy policies may apply to those linked Web sites, which separate privacy policies may contain different terms that are not the same as those terms contained in Wyndham's Privacy Policy. **Your access to and use of such linked Web sites through links provided on this Web Site are not governed by this Privacy Policy but, instead, are governed by the privacy policies of those linked Web sites, and Wyndham disclaims any and all responsibility for your access to and use of such linked Web sites, as well as for any use of the Information that you may provide to, or any Information that may be collected about you at, such linked Web sites.**
 
-## What Information Does Wyndham Collect?
+#### What Information Does Wyndham Collect?
 
 Wyndham gathers the following three types of Information about its users: (1) data that users provide through optional, voluntary registration on Wyndham's Web Site; (2) data that Wyndham gathers from third party sources or Providers; and (3) data that Wyndham gathers through aggregated anonymous tracking of use activity and usage trends, mainly by tallying Web pages that are viewed by users throughout this Web Site. You should be assured, however, that Wyndham will not disclose any of your Personal Information (as defined below) to third parties without your consent, except as may otherwise be described in this Privacy Policy or disclosed to you when you submit the Personal Information.
 
-## How Does Wyndham Collect Information?
+### How Does Wyndham Collect Information?
 
-## Optional Registration:
+#### Optional Registration:
 
 Wyndham collects Information by specifically requesting it from you. Generally this occurs when you register at the Web Site or request information or a service. You may elect, at your sole option, whether to provide the requested Information, although you may not be able to use or gain access to certain portions or features of this Web Site if you elect not to provide such Information. Usually, Wyndham and/or its business partners use your Information to operate the Web Site and to deliver information and services to you. Wyndham also uses your Information to inform you about other products and/or services available from Wyndham, its affiliated or related entities, and/or its Providers.
 
-## Information from Third Party Sources:
+#### Information from Third Party Sources:
 
 Wyndham may collect information about you from third party sources to supplement the Information otherwise provided by you at this Web Site. This supplemental information allows Wyndham to verify Information that you have provided to Wyndham and to enhance Wyndham's ability to provide you with information about its businesses, products and services, as further described in Wyndham's Web Site Terms. Wyndham's agreements with these third party sources typically limit how Wyndham may use this supplemental information.
 
-## Use of Aggregate Tracking Information:
+#### Use of Aggregate Tracking Information:
 
 Use of Internet Protocol (" **IP** ") Addresses. 
 
@@ -40,7 +42,7 @@ Wyndham collects IP addresses for the following purposes: (1) helping Wyndham di
 
 Wyndham can, and will, use IP addresses to identify you when Wyndham feels it is necessary to enforce compliance with its Web Site Terms and/or this Privacy Policy, or to protect its services, Web Site, systems, information, employees, business partners, Providers, users, customers or others. 
 
-## Use Of Cookies.
+#### Use Of Cookies.
 
 Wyndham may place "cookies" on your web browser. Cookies are small pieces of information or text files that a Web site sends to your computer for record-keeping purposes, which information is stored in a file on your computer's hard drive. Cookies make Web surfing and browsing easier for you by saving your preferences so that Wyndham can use the saved information to facilitate your use of, and improve your experience with, this Web Site when you navigate at or return to this Web Site. Cookies, by themselves, do not provide Wyndham with your individual identity or Personal Information unless you have chosen separately to provide it to Wyndham. Wyndham never saves passwords or credit card information in its cookies. The use of cookies is industry-standard and, as such, you will find that most major Web sites use them.
 
@@ -52,11 +54,11 @@ Wyndham has two (2) primary uses for cookies. First, Wyndham uses cookies to ide
 
 In addition, you may occasionally receive cookies from Wyndham's business partners or Providers, or when you link to other third party Web sites. Wyndham does not control these cookies, and disclaims any responsibility relating to the use or receipt of such cookies. You should note that the use of advertising cookies sent by third party Web servers is a standard practice in the Internet industry. 
 
-Use of Pixels.
+#### Use of Pixels.
 
 Wyndham and its third party ad servers may also use invisible pixels or Web beacons on this Web Site to count how many users visit certain Web pages. Information collected from invisible pixels or Web beacons is used and reported in the aggregate without the use of Personal Information. This information may be used to improve marketing programs and Content, and to target Wyndham's Internet advertisements at this Web Site and/or other web sites.
 
-## With Whom Does Wyndham Share Information?
+#### With Whom Does Wyndham Share Information?
 
 As a general rule, Wyndham will not share with or disclose to any third parties any specific personally identifiable information about you that you may submit or provide to Wyndham via this Web Site (" **Personal Information** "), in a manner that connects you with the Personal Information, except (a) as otherwise described in this Privacy Policy, (b) when Wyndham has your permission, or (c) under special circumstances, such as when Wyndham believes in good faith that the law requires such disclosure or under the circumstances described below. The following describes some of the ways that your Personal Information may be disclosed:
 
@@ -74,32 +76,30 @@ Investor Center: This Web Site may allow you to subscribe to investor newsletter
 
 **Children: This Web Site is not intended for use by children. Wyndham does not knowingly solicit or collect Personal Information from children under the age of 13. If you are under the age of 18, you must obtain the consent of your parent or guardian to use this Web Site**.
 
-## Opting Out; How Can You Control the Use of Information? 
+#### Opting Out; How Can You Control the Use of Information? 
 
 In the event that you decide that you want to opt out from Wyndham's use of any Personal Information that you previously provided to (and/or authorized for use by) Wyndham, or if any of your Personal Information (such as your zip code or e-mail address) changes, Wyndham will use reasonable efforts to provide you with a way to correct, update or remove such Personal Information. Wyndham makes repeated efforts to verify the accuracy of your Personal Information and to correct and update its databases based on the information available to Wyndham. In the event that you believe that any Personal Information held by Wyndham is inaccurate or outdated, Wyndham, upon notification and sufficient time for verification, will take all reasonable steps to correct any inaccuracy or update outdated Personal Information of which it is made aware. Wyndham also gives you the opportunity to control or opt out from the communications that Wyndham directs to you. If you wish to update or change your Personal Information or opt out from any use or communication described in this Privacy Policy for any reason, you may notify Wyndham of such update, change or opt out by contacting:
 
-###  Alyson Johnson
-
-Phone: 973-753-6888
-
-Email: [alyson.johnson@wyndhamworldwide.com](mailto:alyson.johnson@wyndhamworldwide.com)
+**Alyson Johnson**  
+Phone: 973-753-6888  
+E-mail: [alyson.johnson@wyndhamworldwide.com](mailto:alyson.johnson@wyndhamworldwide.com)
 
 Mailing:  
-Alyson Johnson   
+Alyson Johnson  
 7 Sylvan Way  
 Parsippany, NJ 07054
 
-## What Happens When You Link to a Third Party Site?
+#### What Happens When You Link to a Third Party Site?
 
 You should be aware that, when you are on Wyndham's Web Site, you may be able to hyperlink, or may be directed, to other third party Web sites that are beyond Wyndham's control and/or outside of its services. For example, if you "click" on a banner advertisement or a Wyndham search result, the "click" may transfer you off of this Web Site and to another unaffiliated Web site. These other Web sites may include sites of advertisers, sponsors, Providers and/or partners that may use Wyndham's and/or Wyndham's affiliated or related entities' logos as part of a co-branding agreement. These other Web sites may send their own cookies to, or collect or solicit Information from, users. Wyndham does not control such third parties or their Web sites, and, therefore, is not responsible for the contents of these Web sites or the hyperlinks or advertising placed on such Web sites. Wyndham's inclusion in this Web Site of hyperlinks to these other third party Web sites does not imply any endorsement of the material on such other Web sites or any association with the third party operators. This Privacy Policy does not extend to anything that is inherent in the operation of the Internet and/or that is beyond Wyndham's control. 
 
 Please keep in mind that, whenever you give out information over the Internet or Web, or otherwise in on-line environments, (for example, via message boards or forums), such information can be collected and used by people you do not know. While Wyndham strives to protect users' information and privacy, Wyndham cannot guarantee the security of any information you disclose in these environments, and you disclose such information at your own risk. 
 
-## Is Your Information Secure?
+#### Is Your Information Secure?
 
 The security of all Information associated with users of this Web Site is an important concern to Wyndham. Wyndham exercises reasonable care in providing secure transmission of your Information from your computer to Wyndham's servers and databases. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while Wyndham strives to protect your Information, Wyndham cannot ensure or warrant the security of any Information you transmit to Wyndham, and you do so at your own risk. Once you complete the transmission of, and Wyndham receives, your Information, Wyndham uses industry standard efforts and practices to safeguard the confidentiality of your Personal Information, and uses commercially reasonable efforts to collect and secure such Personal Information consistent with all applicable laws and regulations. Wyndham takes commercially reasonable efforts to use a variety of different security measures (such as encryption, digital certificates, firewalls and Secure Socket Layers) designed to protect Personal Information from access by unauthorized users both inside and outside of Wyndham, and to protect against the unauthorized or improper alteration or destruction of such Personal Information. Wyndham's communication system, software and database practices have been designed to aid in supporting authenticity, integrity and confidentiality. However, as described above, "perfect security" does not exist on the Internet and, despite these reasonable efforts by Wyndham to maintain data and Information security, Wyndham cannot guarantee the security of data or Information. 
 
-## YOUR ACCEPTANCE OF THE TERMS OF THIS PRIVACY POLICY
+### YOUR ACCEPTANCE OF THE TERMS OF THIS PRIVACY POLICY
 
 By using this Web Site, you signify your agreement to the terms of Wyndham's Internet Privacy Policy. **IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEB SITE**. Your continued use of Wyndham's Web Site following the posting of any changes or updates to the terms of this Privacy Policy will signify your acceptance of those changes and updates.
 
