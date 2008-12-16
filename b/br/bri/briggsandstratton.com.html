@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the briggsandstratton.com privacy policy that was archived on 2008-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630024700id_/http%3A//www.briggsandstratton.com/corp/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the briggsandstratton.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216033520id_/http%3A//www.briggsandstratton.com/corp/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -28,7 +28,6 @@
     <script src="/scripts/navigation-expand.js" type="text/javascript"></script>
 
     <script src="/scripts/dhtml.js" type="text/javascript"></script>
-
     <!--
 <script src="/scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <script src="https://clients.multimap.com/API/maps/1.2/briggs_na_api" type="text/javascript" ></script>
@@ -37,6 +36,7 @@
     <!--[if IE]>
 <link type="text/css" rel="stylesheet" href="/App_Themes/default/ie.css" />
 <![endif]-->
+
 </head>
 <body id="default" class="default">
     <!-- please do not remove this -->
@@ -55,6 +55,7 @@
 <!-- ACTIVE CONTENT GOES HERE -->
 <script src="/scripts/AC_OETags.js" type="text/javascript"></script>
 <script language="JavaScript" type="text/javascript">
+
 <!-- 
 var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
 if(hasRightVersion) {  // if we've detected an acceptable version
@@ -93,6 +94,30 @@ if(hasRightVersion) {  // if we've detected an acceptable version
 	//show the image
 	//document.write('<img src="/images/site/home-title.jpg" width=709 height="310" />');
 }
+
+// hide select boxes on find dealer page
+function hideSelect()
+{
+    var prodSel = document.getElementById("productType");
+    if (prodSel != null && prodSel != "")
+    {
+        prodSel.style.visibility = "hidden";
+        prodSel.style.zIndex = "9999";
+    }
+    var searchDistSel = document.getElementById("searchdistance");
+    if (searchDistSel != null && searchDistSel != "")
+    {
+        searchDistSel.style.visibility = "hidden";
+        searchDistSel.style.zIndex = "9999";
+    }
+    var countrySel = document.getElementById("countryname");
+    if (countrySel != null && countrySel != "")
+    {
+        countrySel.style.visibility = "hidden";
+        countrySel.style.zIndex = "9999";
+    }   
+}
+
 // -->
     </script>
 <!-- End Active Content -->
@@ -573,8 +598,9 @@ if(hasRightVersion) {  // if we've detected an acceptable version
 <div id="footer">
 
 <div id="alert" style="display: none;">
-<a id="alert1" href="/corp/recall/counterfeit.aspx" title="Find out more">Notification of Counterfeit Battery Chargers</a>
-<a id="alert2" href="/corp/recall/" title="Find out more">Recall Alert: OHV engines installed on snowblowers</a>
+<a id="alert1" href="/corp/recall/murray.aspx">Recall Alert: Murray front-engine riding lawn mowers</a>
+<a id="alert2" href="/corp/recall/counterfeit.aspx" title="Find out more">Notification of Counterfeit Battery Chargers</a>
+<a id="alert3" href="/corp/recall/" title="Find out more">Recall Alert: OHV engines installed on snowblowers</a>
 <script type="text/javascript" language="javascript">
                     function footerinit(){
                     	var curPath = parent.location.pathname;
@@ -650,10 +676,32 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
     </div>
     <!-- End Container -->
-    
     <!--VISUAL SCIENCES CODE HBX2.5 (Universal)-->
     <!--COPYRIGHT 1997-2007 VISUAL SCIENCES,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://visualsciences.com/privacy-->
+<script>
+function hbxStrip(a) {
 
+	a = a.split("'").join("");
+	a = a.split('"').join("");
+	a = a.split("&").join("");
+	a = a.split("|").join("");
+	a = a.split("#").join("");
+	a = a.split("$").join("");
+	a = a.split("%").join("");
+	a = a.split("^").join("");
+	a = a.split("*").join("");
+	a = a.split(":").join("");
+	a = a.split("!").join("");
+	a = a.split("<").join("");
+	a = a.split(">").join("");
+	a = a.split("~").join("");
+	a = a.split(";").join("");
+	a = a.split("\\").join("");
+	a = a.split(" ").join("+");
+
+	return a;
+	}
+</script>
     <script language="javascript">
 var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
 
@@ -710,6 +758,26 @@ hbx.hrf="";//CUSTOM REFERRER
 hbx.pec="";//ERROR CODES
 
 //INSERT CUSTOM EVENTS
+
+var ev1 = _hbEvent("search");
+// check to see if a search occurred or not
+if (document.getElementById && (document.getElementById("searchwords")))
+{
+   // check if paging thru the search results
+   var checkPaging = eval(document.getElementById("searchpaging")).value;
+   if(checkPaging == "false")
+   {
+      // NOT paging thru the search results - keep track of keywords
+      ev1.keywords = eval(document.getElementById("searchwords")).value;
+      ev1.results = eval(document.getElementById("cnt")).value;
+   }
+   else
+   {
+      // paging thru the search results - don't record keywords again
+      ev1.keywords = "";
+      ev1.results = 0;
+   }
+}
 
 //END EDITABLE SECTION
 
