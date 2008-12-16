@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the truereligionbrandjeans.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527015627id_/http%3A//www.truereligionbrandjeans.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truereligionbrandjeans.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216034805id_/http%3A//www.truereligionbrandjeans.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - True Religion Brand Jeans Official Website - Shop now for Denim, Jeans, Skirts, Joey, Bobby, Corduroy, Skirts. Fashion for the Senses.
 
-**Effective Date truereligionbrandjeans.com 2007**
+**PRIVACY POLICY**
+
+  
+**Effective Date 2008**
 
 Onestop Internet, Inc. ("Onestop") operates this Web site, pursuant to agreements with truereligionbrandjeans.com. ("truereligionbrandjeans.com"). Both Onestop and truereligionbrandjeans.com ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site. 
 
@@ -22,7 +25,7 @@ We also may collect and store information about you that we receive from other s
 
 **Is Information Collected From Children?**
 
-We do not sell or ship any items ordered through this Web site directly to anyone who we know to be under the age of 18, nor do we collect any personal information from anyone who we know to be under the age of 18. If you are under the age of 18, you should use this Web site only with the involvement of a parent or guardian and should not submit any personal information to us.   
+This Web Site is a general audience website and is not directed for use by children. We do not intend to collect Personal Information from anyone who is under the age of 13. If you are under the age of 13, you should not provide any Personal Information to us and you should use this Web Site only with the involvement of a parent or guardian.   
 **  
 With Whom Do You Share Your Information?**
 
