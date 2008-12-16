@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the utest.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608075620id_/http%3A//www.utest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utest.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043340id_/http%3A//www.utest.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # uTest.com: On-demand community software testing services based on a pay per bug QA marketplace model.
 
-**Privacy Statement for uTest.com**
+## Privacy Statement for uTest.com
 
 uTest.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: uTest.com.
 
@@ -26,6 +26,4 @@ Accessing the uTest.com web site does not authorize Users to use any name, logo,
 
 uTest.com provides links to other web sites from our site. uTest.com is not responsible for the privacy practices or content on other web sites. We strongly suggest that you read a web sites privacy policy before submitting personal information or utilizing the resources of that site. 
 
-[Click here](mailto:violation@utest.com) to report Privacy violations.
-
-[Return to the top of the page.](https://web.archive.org/web/20080608075620id_/http%3A//www.utest.com/privacy.html)
+**[Click here](mailto:violation@utest.com)** to report Privacy violations.
