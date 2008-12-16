@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revision3.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626220226id_/http%3A//revision3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revision3.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151550id_/http%3A//revision3.com/privacy) for the most accurate reproduction.*
 
 # Revision3
 
