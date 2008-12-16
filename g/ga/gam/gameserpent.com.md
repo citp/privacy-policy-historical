@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gameserpent.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509042144id_/http%3A//gameserpent.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameserpent.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012253id_/http%3A//gameserpent.com/privacypolicy) for the most accurate reproduction.*
 
-# PLAY GAMES - FREE Internet Games and Free Online Games Arcade - PLAY free internet games with GameSerpent, we have the most ADDICTING online GAMES. RACING games, SHOOTING games, ACTION games, FIGHTING games and PUZZLE GAMES, promotion games
+# PLAY GAMES - FREE Internet Games Arcade - PLAY free internet games with GameSerpent, we have the most ADDICTING online GAMES all of which can be played on Facebook! Play RACING games, SHOOTING games, ACTION games, FIGHTING games and PUZZLE GAMES, promotion games
 
 Privacy policy
 
