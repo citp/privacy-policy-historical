@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesty.org privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611060241id_/http%3A//www.amnesty.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020156id_/http%3A//www.amnesty.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for the Amnesty International Website | Amnesty International
 
@@ -53,11 +53,10 @@ Users have the opportunity to set their devices to accept all cookies, to notify
 
 ### **Access to your personal information**
 
-You may have rights of access to personal information that we hold about you, to correct that information or, in some circumstances, to object to our processing of your information, under data privacy law. If you wish to exercise any of these rights or have any questions about this policy, please contact: **
+You may have rights of access to personal information that we hold about you, to correct that information or, in some circumstances, to object to our processing of your information, under data privacy law. If you wish to exercise any of these rights or have any questions about this policy, please contact: ****
 
-Amnesty International, International Secretariat
+ **Amnesty International, International Secretariat**
 
-**  
 1 Easton Street  
 London   
 WC1X 0DW  
