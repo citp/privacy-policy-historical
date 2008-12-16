@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmission.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610165731id_/http%3A//www.xmission.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmission.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161930id_/http%3A//xmission.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | XMission Internet
 
@@ -50,12 +50,11 @@ If we ever need to change our privacy policy, we will post those changes on this
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with XMission, you can contact XMission's support staff.
 
-[support@xmission.com](mailto:support@xmission.com)
-
 Phone: 801.539.0852
 
 Toll-Free: +1.877.964.7746
 
-51 East 400 South Suite 200
+51 East 400 South, Suite 200
 
-Salt Lake City, Utah 84111
+Salt Lake City, UT 84111
+  *[UT]: Utah
