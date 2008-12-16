@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621090122id_/http%3A//searchengineland.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160429id_/http%3A//searchengineland.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Search Engine Land: News About Search Engines & Search Marketing
-
-## Privacy Policy
+# Search Engine Land Privacy Policy
 
 We want to protect your privacy. In order to operate, our web sites and business operations may gather information about you. These terms explain how this may happen, what we will do with any potentially private data and how you can get in contact should you have any concerns.
 
@@ -34,24 +32,24 @@ A web beacon does not personally identify you. It is simply a way to automatical
 
 Cookies and web beacons allows us to understand things such as whether a particular web browser is spending much time on our sites, visiting several times per month and other types of analysis.
 
-If you never provide us with personally identifiable information, then your visits - despite us using cookies or web beacons - are anonymous. We don't know the actual person linked with the cookie. 
+If you never provide us with personally identifiable information, then your visits - despite us using cookies or web beacons - are anonymous. We don’t know the actual person linked with the cookie. 
 
-It's like having a library card but never having to provide your name, address or phone number to check out books. The books are checked out by someone using a particular library card number, but who owns that number isn't known.
+It’s like having a library card but never having to provide your name, address or phone number to check out books. The books are checked out by someone using a particular library card number, but who owns that number isn’t known.
 
 If you do provide personally identifiable information, then potentially we could link that with your cookie, then gather the visits with web beacons and understand how you personally have acted when visiting our web site.
 
-Advertisers may also use cookies and web beacons to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web sites.
+Advertisers may also use cookies and web beacons to ascertain how many times you’ve seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web sites.
 
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our sites, should you so choose. If you do encounter a problem, please let us know.
+Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn’t cause a problem with our sites, should you so choose. If you do encounter a problem, please let us know.
 
 ### What We Do With Personally Identifiable Data
 
 Personally identifiable information you provide may be used to:
 
-  * Send you something you've requested, such as email newsletter
-  * Send you information from Third Door Media that we think you'll be interested in
+  * Send you something you’ve requested, such as email newsletter
+  * Send you information from Third Door Media that we think you’ll be interested in
   * Send you information from our advertisers 
-  * Target advertising based on your interests, if you've provided those
+  * Target advertising based on your interests, if you’ve provided those
 
 
 
@@ -72,4 +70,4 @@ We may buy or sell a company or property. If we sell a business, we may transfer
 
 ### Policy Changes, Questions & Comments
 
-We'll post changes to this policy on this page. Questions about this policy should be emailed using [this form](http://thirddoormedia.com/contact/feedback.shtml) or sent to our offices at Third Door Media, 279 Newtown TPKE, Redding, CT 06896.
+We’ll post changes to this policy on this page. Questions about this policy should be emailed using [this form](http://thirddoormedia.com/contact/feedback.shtml) or sent to our offices at Third Door Media, 279 Newtown TPKE, Redding, CT 06896.
