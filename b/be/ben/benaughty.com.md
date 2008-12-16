@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benaughty.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611224253id_/http%3A//www.benaughty.com/helpprivacy.asp%3Fs%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benaughty.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011131id_/http%3A//www.benaughty.com/helpprivacy.asp%3Fs%3Ds) for the most accurate reproduction.*
 
 # Casual Dating at BeNaughty.com
 
@@ -12,7 +12,7 @@ BeNaughty is committed to protecting your privacy. Our aim is to ensure that you
 
 3\. We will never sell, rent or otherwise share your name, email address, or other personal information with any other business or for any marketing campaign other than by BeNaughty without your permission. 
 
-4\. We are required to give information to legal authorities if they have the proper authorisation such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the BeNaughty web site . We are registered under the Data Protection Act (Reg No PZ7031016) to hold information about our members. 
+4\. We are required to give information to legal authorities if they have the proper authorisation such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the BeNaughty web site. We are registered under the Data Protection Act (Reg No PZ7031016) to hold information about our members. 
 
 5\. Your individual use of BeNaughty and your interaction with others through BeNaughty will be kept strictly private. 
 
