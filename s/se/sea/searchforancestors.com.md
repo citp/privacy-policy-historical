@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531110726id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216114002id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement at Ancestor Search
 
@@ -32,7 +32,19 @@ Some of the advertisements may contain cookies. A cookie is a small text file th
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 [ Ancestor Search ](mailto:webmaster@searchforancestors.com) |    
-|  Site Features   
+|  Freebies at Footnote.com   
+---  
+  
+  
+
+*   [Footnote.com](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.700229741&type=10&subid=0&u1=sfaadvanced)   **NEW!**   
+Search all the indexed data of every record for free. 
+*   [Free Databases](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.688600412&type=10&subid=0&u1=sfafreedatabases)   **NEW!**   
+View, download, and print the original record from Footnote's free database collection. 
+*   [Free Trial](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.697388383&type=10&subid=0&u1=sfacolumnft)   **NEW!**   
+Access every original record on Footnote.com with a free trial.   
+  
+Site Features   
 ---  
   
   
@@ -45,5 +57,5 @@ Register your surnames and find out who else is researching the same family name
 Genealogy software, forms, charts and templates. 
 *   [Free Genealogy](http://www.searchforancestors.com/genealogyfreebies.html)   
 Free genealogy resources: charts, lessons, software, databases, look ups, relationship charts, form letters, translation services. 
-*   [Ancestry Free Trials](http://www.searchforancestors.com/freetrials.html)   
-Free trials to Ancestry.com databases. Why pay when you can view for free? 
+*   [Genealogy Database Free Trials](http://www.searchforancestors.com/freetrials.html)   
+Free trials to genealogy databases such as Ancestry.com and Footnote.com. Why pay when you can view for free? 
