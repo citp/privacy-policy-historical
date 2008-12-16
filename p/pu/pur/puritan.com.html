@@ -1,20 +1,15 @@
-<!--The following is the downloaded HTML source of the puritan.com privacy policy that was archived on 2008-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080615171518id_/http%3A//www.puritan.com/house/PrivacyPolicy.asp%3Fxs%3D) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the puritan.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216015001id_/http%3A//www.puritan.com/house/privacypolicy.asp) for the most accurate reproduction.-->
 
-<html><head><script language="vbscript" type="text/VB"> 
-
-</script>
-<script language="vbscript" type="text/VB">
-
-</script>
-
-
+<html><head>
 <title>Puritan's Pride Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="JavaScript" src="/js/browser_functions.js"></script>
-<script language="JavaScript" src="/js/site_functions.js"></script>
-<link href="/css/GeneralStyles.css" rel="stylesheet" type="text/css">
-<link href="/includes/DIV_layout.css" rel="stylesheet" type="text/css">
+
+<script language="JavaScript" src="//images.vitaminimages.com/pp/js/browser_functions.js"></script>
+<script language="JavaScript" src="//images.vitaminimages.com/pp/js/site_functions.js"></script>
+<link href="//images.vitaminimages.com/pp/css/GeneralStyles.css" rel="stylesheet" type="text/css">
+<link href="//images.vitaminimages.com/pp/css/DIV_layout.css" rel="stylesheet" type="text/css">
+
 </head>
 <body>
 <center>
@@ -26,15 +21,127 @@
 </script>
 <script type="text/javascript">
 	_uacct = "UA-793528-1";
-	urchinTracker();
+	urchinTracker();	
 </script>
 
-<link href="/css/skingeneralStyles.css" rel="stylesheet" type="text/css">
+<link href="//images.vitaminimages.com/pp/css/skingeneralStyles.css" rel="stylesheet" type="text/css">
+<link href="//images.vitaminimages.com/pp/css/DIV_myaccount_layout.css" rel="stylesheet" type="text/css">
+<script language="javascript">
+function getPageHTML(url,element_id,text_rule)
+  {
+  var xmlHttp;
+  try
+    {
+    // Firefox, Opera 8.0+, Safari
+    xmlHttp=new XMLHttpRequest();
+    }
+  catch (e)
+    {
+    // Internet Explorer
+    try
+      {
+      xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+      }
+    catch (e)
+      {
+      try
+        {
+        xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+      catch (e)
+        {
+        alert("Your browser does not support AJAX!");
+        return false;
+        }
+      }
+    }
+    xmlHttp.onreadystatechange=function()
+      {
+      if(xmlHttp.readyState==4)
+        {
+        	HtmlTxt=xmlHttp.responseText;
+        	if(text_rule=="replace"){
+        		document.getElementById(element_id).innerHTML=HtmlTxt;
+        	}else if(text_rule=="append"){
+        		document.getElementById(element_id).innerHTML=document.getElementById(element_id).innerHTML + HtmlTxt;
+        	}else if(text_rule=="prepend"){
+        		document.getElementById(element_id).innerHTML=HtmlTxt + document.getElementById(element_id).innerHTML;
+        	}
+        }
+      }
+    xmlHttp.open("GET",url,true);
+    xmlHttp.send(null);
+  }
+  
+  
+  function setContentHTML(HtmlTxt,element_id,text_rule)
+  {
+		if(text_rule=="replace"){
+			document.getElementById(element_id).innerHTML=HtmlTxt;
+		}else if(text_rule=="append"){
+			document.getElementById(element_id).innerHTML=document.getElementById(element_id).innerHTML + HtmlTxt;
+		}else if(text_rule=="prepend"){
+			document.getElementById(element_id).innerHTML=HtmlTxt + document.getElementById(element_id).innerHTML;
+		}else if(text_rule=="" || text_rule==null){
+			document.getElementById(element_id).innerHTML=HtmlTxt;
+		}
+  }
 
-
-<script language="JavaScript" src="https://seal.networksolutions.com/siteseal/javascript/siteseal.js" type="text/javascript"></script>
-
+  
+  function getPageHtmlandExecuteCommand(url,element_id,text_rule,funcName)
+  {
+  var xmlHttp;
+  try
+    {
+    // Firefox, Opera 8.0+, Safari
+    xmlHttp=new XMLHttpRequest();
+    }
+  catch (e)
+    {
+    // Internet Explorer
+    try
+      {
+      xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+      }
+    catch (e)
+      {
+      try
+        {
+        xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+      catch (e)
+        {
+        alert("Your browser does not support AJAX!");
+        return false;
+        }
+      }
+    }
+    xmlHttp.onreadystatechange=function()
+      {
+      if(xmlHttp.readyState==4)
+        {
+        	HtmlTxt=xmlHttp.responseText;
+        	if(text_rule=="replace"){
+        		document.getElementById(element_id).innerHTML=HtmlTxt;
+        	}else if(text_rule=="append"){
+        		document.getElementById(element_id).innerHTML=document.getElementById(element_id).innerHTML + HtmlTxt;
+        	}else if(text_rule=="prepend"){
+        		document.getElementById(element_id).innerHTML=HtmlTxt + document.getElementById(element_id).innerHTML;
+        	}	
+			eval(funcName);
+        }
+      }
+    xmlHttp.open("GET",url,true);
+    xmlHttp.send(null);
+  }
+  </script>
     <div id="myheader">
+            
+    <!-- BEGIN CHANNEL INTELLIGENCE FOR ALL LANDING PAGE SUPPORT -->
+    <script type="text/javascript" src="http://cts.channelintelligence.com/33084116_landing.js"></script>
+    <!-- CHANNEL INTELLIGENCE-->
+
+
 
 
 <!-- BEGIN COREMETRICS SUPPORT -->
@@ -44,16 +151,17 @@ var cmJv="1.1";
 //-->
 </script>
 
-<script language="javascript1.1" src="/coremetrics/v40/eluminate.js" type="text/javascript"></script>
-<script language="javascript1.1" src="/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
-<script language="javascript1.1" src="/coremetrics/v40/techprops.js" type="text/javascript"></script>
+<script language="javascript1.1" src="//images.vitaminimages.com/pp/coremetrics/v40/eluminate.js" type="text/javascript"></script>
+<script language="javascript1.1" src="//images.vitaminimages.com/pp/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
+<script language="javascript1.1" src="//images.vitaminimages.com/pp/coremetrics/v40/techprops.js" type="text/javascript"></script>
 
 <script language="javascript1.1" type="text/javascript">
 <!--
   
       cmSetProduction(); 
-
-   cmCreateTechPropsTag("Privacy Policy Page","1"); 
+   
+	cmCreatePageviewTag("Privacy Policy Page","1","");
+	
 
 //-->
 </script>
@@ -66,20 +174,38 @@ var cmJv="1.1";
     <tbody><tr>
 	    <td valign="top">
 	        
-	            <a href="/?xs="><img src="//images.vitaminimages.com/pp/images/logo_header.gif" alt="Puritan's Pride The #1 Direct-To-You Vitamin Manufacturer" border="0"></a></td>
+	            <a href="/"><img src="//images.vitaminimages.com/pp/images/logo_header.gif" alt="Puritan's Pride The #1 Direct-To-You Vitamin Manufacturer" border="0"></a></td>
 	        
 	    <td align="right">
         <!--main promo and account info open-->	
             <table cellpadding="0" cellspacing="0" border="0">
                 <tbody><tr>
-	                <td>
-	                    <img src="//images.vitaminimages.com/pp/images/060808_FathersDay/PP_060808_FathersDay_v1_header.gif" border="0"></td>
+	                <td colspan="4"><img src="//images.vitaminimages.com/pp/VF/promotionuploads/10334/SITEGRAPHICS/pp_121508_hatscarfglove_v1_header.gif" border="0"></td>
                 </tr>
-                <tr>
-	                <td align="right" height="25">
-	                    <a href="http://www.puritan.com/pages/fav.asp?xs=" class="blue">My Favorites</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.puritan.com/scart/myaccount.asp?xs=" class="blue">Log In / Register</a></td>
-                </tr>
-            </tbody></table>
+                <tr class="bluecart">
+	                <td height="25" nowrap="" align="left" width="325">
+						 
+							<a href="https://www.puritan.com/scart/myaccount.asp" class="blue">My Account / Register</a>&nbsp;&nbsp;
+	                     
+						&nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="http://www.puritan.com/house/requestacat.asp" class="blue">FREE Catalog</a>
+						
+						&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="http://www.puritan.com/pages/fav.asp" class="blue">My Favorites</a>	                   
+	                </td>
+	                
+	                
+	                <td id="espanol" align="right" valign="middle" nowrap="">
+	                    
+	                        <a href="http://www.puritan.jp/index.asp?scid=12621&amp;afid=71" class="blue" style="background-color:Yellow"><img src="//images.vitaminimages.com/pp/images/icon_japanese.gif" title="Click here to go to the Puritan Japanese" border="0" style="vertical-align: middle;padding-bottom: 3px;"></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	                       <a href="http://es.puritan.com/enes/house/privacypolicy.asp?afid=28&amp;safid=nav" class="blue" style="background-color:Yellow">En Español&nbsp;<sup class="redsuper">New</sup></a> 
+	                       <!--<a href="http://es.puritan.com/enes/Default.asp?afid=28&scid=12622&utm_source=ppcore&utm_medium=espanollink&utm_campaign=puritanespanol" class="blue" style="background-color:Yellow">En Espa&ntilde;ol&nbsp;<sup class=redsuper>New</sup></a>-->
+	                    
+	                </td>
+	                
+	            </tr>
+	        </tbody></table>
+
         <!--main promo and account info close-->	
 	    </td>
     </tr>
@@ -88,27 +214,27 @@ var cmJv="1.1";
 <tbody><tr>
 	<td>
         <!--header search, tabs and cart info open-->
-            <table cellpadding="0" cellspacing="0" border="0">
+            <table cellpadding="0" cellspacing="0" border="0" class="search">
                 <tbody><tr>
-	                <td background="//images.vitaminimages.com/pp/images/bg_search.gif" width="315" height="74">
+	                <td>
                     <!--search box elements open-->
                     <table cellpadding="0" cellspacing="0" border="0">
                         <tbody><tr> 
-	                        <td nowrap="" class="whitephone">Order Toll Free: 1.800.645.1030</td>
+	                        <td nowrap="" class="whitephone">1-800-645-1030</td>
                         </tr>
                         <tr>
 	                        <td>
                     <!--search box open-->
                                 <table cellpadding="0" cellspacing="0" border="0">
                                     <tbody><tr>
-                                        <form name="search" method="get" action="http://www.puritan.com/pages/iq.asp?xs="></form>	
+                                        <form name="search" method="get" action="http://www.puritan.com/pages/iq.asp"></form>	
 	                                    <td colspan="3"><img src="//images.vitaminimages.com/pp/images/c.gif" height="10" alt="spacer" border="0"></td>
                                     </tr>
                                     <tr>
 	                                    <td class="bluesearch">Search</td>
 	                                    <td>
 	                                        <input type="Text" size="28" name="SearchText" class="search" value="">
-	                                        <input type="hidden" name="xs" value=""></td>
+	                                    </td>
 	                                    <td><input type="Image" src="//images.vitaminimages.com/pp/images/b_search.gif" border="0"></td>
                                     </tr>                  
                                         
@@ -132,21 +258,27 @@ var cmJv="1.1";
                 <!--header nav open-->
                     <table cellpadding="0" cellspacing="0" border="0">
                         <tbody><tr>
-	                        <td><img src="//images.vitaminimages.com/pp/images/bg_nav_left.gif" alt="button left" border="0"></td>
-	                        <td align="center" background="//images.vitaminimages.com/pp/images/banner-nav_bg.gif" height="31" nowrap=""><a href="http://www.puritan.com/pages/healthnotes.asp?xs=" class="white">FREE Health Guides</a></td>
-                            <td><img src="//images.vitaminimages.com/pp/images/bg_nav_right.gif" alt="button right" border="0"></td>
-                            <td><img src="//images.vitaminimages.com/pp/images/c.gif" width="3" alt="spacer" border="0"></td>
-                            <td><img src="//images.vitaminimages.com/pp/images/bg_nav_left.gif" alt="button left" border="0"></td>
-                            <td align="center" background="//images.vitaminimages.com/pp/images/banner-nav_bg.gif" height="31" nowrap=""><a href="http://www.puritan.com/house/newsletter.asp?xs=" class="white">Join Mailing List</a></td>
-                            <td><img src="//images.vitaminimages.com/pp/images/bg_nav_right.gif" alt="button right" border="0"></td>
-                            <td><img src="//images.vitaminimages.com/pp/images/c.gif" width="3" alt="spacer" border="0"></td>
-                            <td><img src="//images.vitaminimages.com/pp/images/bg_nav_left.gif" alt="button left" border="0"></td>
-                            <td align="center" background="//images.vitaminimages.com/pp/images/banner-nav_bg.gif" height="31" nowrap=""><a href="http://www.puritan.com/pages/quickorderform.asp?xs=" class="white">Quick Order Form</a></td>
-                            <td><img src="//images.vitaminimages.com/pp/images/bg_nav_right.gif" alt="button right" border="0"></td>
-                            <td><img src="//images.vitaminimages.com/pp/images/c.gif" width="3" alt="spacer" border="0"></td>
-                            <td><img src="//images.vitaminimages.com/pp/images/bg_nav_left.gif" alt="button left" border="0"></td>
-                            <td align="center" background="//images.vitaminimages.com/pp/images/banner-nav_bg.gif" height="31" nowrap=""><a href="http://www.puritan.com/house/requestacat.asp?xs=" class="white">Request A FREE Catalog</a></td>
-                            <td><img src="//images.vitaminimages.com/pp/images/bg_nav_right.gif" alt="button right" border="0"></td>	
+	<td class="bannernavleftfav"></td>
+	                        <td class="bannernavback"><a href="http://www.puritan.com/top-sellers-076?src=topnav" class="white">Customer Favorites</a></td>
+                            <td class="bannernavrightfav"></td>
+  <td class="spacer"></td>					
+	                        <td class="bannernavleft"></td>
+	                        <td class="bannernavback"><a href="http://www.puritan.com/new-arrivals-176?Page=0" class="white">New Products</a></td>
+                            <td class="bannernavright"></td>							
+                            <td class="spacer"></td>					
+	                        <td class="bannernavleft"></td>
+	                        <td class="bannernavback"><a href="http://www.puritan.com/pages/healthnotes.asp" class="white">FREE Health Guides</a></td>
+                            <td class="bannernavright"></td>
+                            <td class="spacer"></td>
+                            <td class="bannernavleft"></td>
+                            <td class="bannernavback">
+                                
+                                <a href="http://www.puritan.com/house/newsletter.asp" class="white">Email Specials</a></td>
+                            <td class="bannernavright"></td>
+                            <td class="spacer"></td>
+                            <td class="bannernavleft"></td>
+                            <td class="bannernavback"><a href="http://www.puritan.com/pages/quickorderform.asp" class="white">Quick Order</a></td>
+                            <td class="bannernavright"></td>
                         </tr>
                     </tbody></table>
                 <!--header nav close-->
@@ -157,13 +289,13 @@ var cmJv="1.1";
                 <!--cart info open-->
                     <table cellpadding="0" cellspacing="0" border="0">
                         <tbody><tr>
-	                        <td><img src="//images.vitaminimages.com/pp/images/c.gif" width="37" alt="spacer" border="0"></td>	
-	                        <td width="37"><img src="//images.vitaminimages.com/pp/images/icon_cart.gif" alt="shopping cart" border="0"></td>	
-	                        <td class="bluecart" nowrap="" width="335" align="left">
+	                        <td><img src="//images.vitaminimages.com/pp/images/c.gif" width="45" alt="spacer" border="0"></td>	
+	                        <td width="65" align="right"><img src="//images.vitaminimages.com/pp/images/icon_cart.gif" alt="shopping cart" border="0"></td>	
+	                        <td class="bluecart" nowrap="" align="left">
 	                         
-				                <nobr>Your cart is empty</nobr>
-			                  &nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.puritan.com/pages/addprod.asp?xs=" class="blue">View Cart</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.puritan.com/scart/myaccount.asp?xs=" class="blue">Checkout</a></td>
-	                        <td width="127" align="right"><!-- START SCANALERT CODE -->
+				                <nobr>You have 0 item(s) in your cart</nobr>
+			                  &nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.puritan.com/pages/addprod.asp" class="blue">View Cart</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.puritan.com/scart/myaccount.asp?checkout=1" class="blue">Checkout</a></td>
+	                        <td width="190" align="right"><!-- START SCANALERT CODE -->
                                 <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.puritan.com"><img align="bottom" width="115" height="32" border="0" src="//images.scanalert.com/meter/www.puritan.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
                                 <!-- END SCANALERT CODE --></td>	
                         </tr>
@@ -243,9 +375,9 @@ var cmJv="1.1";
 					<span class="Bold12_Blue1">We Provide You Choices</span><br>
 						We want to tailor our communication with you to your preferences.<br>
 						If you prefer not to hear from our marketing partners, please call 1-800-527-3000.<br>
-                        If you would like to subscribe to receive marketing offers or solicitations from Puritan's Pride via email, please  <a href="/house/newsletter.asp?xs=" target="_top">Click here </a>.<br>
+                        If you would like to subscribe to receive marketing offers or solicitations from Puritan's Pride via email, please  <a href="/house/newsletter.asp" target="_top">Click here </a>.<br>
 						If you prefer not to receive marketing offers or solicitations from Puritan's Pride via direct mail, please call 1-800-527-3000 <br>
-						If you prefer not to receive marketing offers or solicitations from Puritan's Pride via email, please  <a href="/house/newsletter.asp?xs=" target="_top">Click here</a>  or call 1-800-527-3000.<br>
+						If you prefer not to receive marketing offers or solicitations from Puritan's Pride via email, please  <a href="/house/newsletter.asp" target="_top">Click here</a>  or call 1-800-527-3000.<br>
 						
 						Please note that sometimes these requests may take up to 90 days to be effective, particularly if we are removing your name from mailing lists.  
 						We reserve the right to contact you concerning any purchases you have made with us or in regard to any services or promotions of which you are already taking advantage.<br><br>
@@ -328,19 +460,43 @@ var cmJv="1.1";
 <table cellpadding="0" cellspacing="0" border="0" class="category">
     <tbody><tr>
         <td nowrap="">
-<a class="category" href="http://www.puritan.com/pages/Categories.asp?xs=&amp;CID=62">Joint Support</a><br>
-<a class="category" href="http://www.puritan.com/pages/Categories.asp?xs=&amp;CID=5">Herbal Supplements</a><br>
-<a class="category" href="http://www.puritan.com/pages/Categories.asp?xs=&amp;CID=55">Coenzyme Q-10</a><br>
-<a class="category" href="http://www.puritan.com/pages/Categories.asp?xs=&amp;CID=68">Nutritional Oils</a><br>
-<a class="category" href="http://www.puritan.com/pages/Categories.asp?xs=&amp;CID=120">Immune Support</a><br>
-<a class="category" href="http://www.puritan.com/pages/Categories.asp?xs=&amp;CID=67">Multivitamins</a><br>
-<a class="category" href="http://www.puritan.com/pages/Categories.asp?xs=&amp;CID=40">Antioxidants</a><br>
-<a class="category" href="http://www.puritan.com/pages/Categories.asp?xs=&amp;CID=1">Calcium Supplements</a><br>
-<a class="category" href="http://www.puritan.com/pages/Categories.asp?xs=&amp;CID=72">Daily Weight Management</a><br>
-<a class="category" href="http://www.puritan.com/pages/Categories.asp?xs=&amp;CID=225">Web Exclusive<sup class="redsuper">New</sup></a><br>
-<a class="category" href="http://www.puritan.com/pages/Categories.asp?xs=&amp;CID=41">Aromatherapy <sup class="redsuper">New</sup></a><br>
+        <a href="http://www.puritan.com/categories" class="category"><strong>View All Categories&nbsp;&gt;&gt;</strong></a><br>
+        </td>
+    </tr>
+    <tr>
+        <td nowrap="">
+<a class="category" href="http://www.puritan.com/acai-237">Acai</a><br>
+<a class="category" href="http://www.puritan.com/acidophilus-039">Acidophilus</a><br>
+<a class="category" href="http://www.puritan.com/amino-acid-supplements-082">Amino Acid Supplements</a><br>
+<a class="category" href="http://www.puritan.com/antioxidants-040">Antioxidants</a><br>
+<a class="category" href="http://www.puritan.com/aromatherapy-041">Aromatherapy</a><br>
+<a class="category" href="http://www.puritan.com/b-12-vitamins-343">B-12 Vitamins</a><br>
+<a class="category" href="http://www.puritan.com/b-complex-vitamins-021">B-Complex Vitamins</a><br>
+<a class="category" href="http://www.puritan.com/bargain-bin-127">Bargain Bin</a><br>
+<a class="category" href="http://www.puritan.com/c-vitamins-102">C Vitamins</a><br>
+<a class="category" href="http://www.puritan.com/calcium-magnesium-169">Calcium Magnesium</a><br>
+<a class="category" href="http://www.puritan.com/calcium-supplements-001">Calcium Supplements</a><br>
+<a class="category" href="http://www.puritan.com/coenzyme-q-10-055">Coenzyme Q-10</a><br>
+<a class="category" href="http://www.puritan.com/colon-helpers-131">Colon Helpers</a><br>
+<a class="category" href="http://www.puritan.com/daily-weight-management-072">Daily Weight Management</a><br>
+<a class="category" href="http://www.puritan.com/e-vitamins-103">E Vitamins</a><br>
+<a class="category" href="http://www.puritan.com/fish-oils-056">Fish Oils</a><br>
+<a class="category" href="http://www.puritan.com/flaxseed-linseed-oil-080">Flaxseed (Linseed) Oil</a><br>
+<a class="category" href="http://www.puritan.com/ginkgo-biloba-052">Ginkgo Biloba</a><br>
+<a class="category" href="http://www.puritan.com/glucosamine-chondroitin-045">Glucosamine / Chondroitin</a><br>
+<a class="category" href="http://www.puritan.com/hair-care-products-032">Hair Care Products</a><br>
+<a class="category" href="http://www.puritan.com/herbal-supplements-005">Herbal Supplements</a><br>
+<a class="category" href="http://www.puritan.com/joint-support-062">Joint Support</a><br>
+<a class="category" href="http://www.puritan.com/mens-vitamins-006">Men’s Vitamins</a><br>
+<a class="category" href="http://www.puritan.com/multivitamins-067">Multivitamins</a><br>
+<a class="category" href="http://www.puritan.com/omega-3-products-128">Omega 3 Products</a><br>
+<a class="category" href="http://www.puritan.com/over-the-counter-pharmacy-073">Over-the-Counter Pharmacy</a><br>
+<a class="category" href="http://www.puritan.com/skin-care-products-012">Skin Care Products</a><br>
+<a class="category" href="http://www.puritan.com/top-sellers-076">Top Sellers</a><br>
+<a class="category" href="http://www.puritan.com/vitamin-d-products-326">Vitamin D Products</a><br>
+<a class="category" href="http://www.puritan.com/womens-vitamins-023">Women's Vitamins</a><br>
  
-        <a href="http://www.puritan.com/pages/azsearch.asp?xs=" class="category"><strong>View All Categories&nbsp;&gt;&gt;</strong></a><br>
+        <a href="http://www.puritan.com/categories" class="category"><strong>View All Categories&nbsp;&gt;&gt;</strong></a><br>
         </td>
     </tr>
      <tr>
@@ -348,83 +504,77 @@ var cmJv="1.1";
     </tr>
 </tbody></table>	
 
-<table cellpadding="0" cellspacing="0" border="0">
+<table cellpadding="0" cellspacing="0" border="0">    
     <tbody><tr>
-        <td><img src="//images.vitaminimages.com/pp/images/c.gif" height="8" alt="spacer" border="0"></td>	
-    </tr>
-</tbody></table>
-
-<table cellpadding="0" cellspacing="0" border="0">
-    <tbody><tr>
-        <td background="//images.vitaminimages.com/pp/images/header_shopbrand.gif" width="198" height="36">
-        <!--shop brands header open-->
-        <table cellpadding="0" cellspacing="0" border="0">
-            <tbody><tr>
-                <td nowrap="" class="whiteheaderleftbar">Shop By Brands</td>
-            </tr>
-        </tbody></table>	
-        <!--shop brands header close-->
-        </td>
+        <td>
+            <img src="//images.vitaminimages.com/pp/images/spacer.gif" height="15" border="0"></td>
+    </tr>    
+     <tr>
+        <td align="center"><a href="/brands"><img src="//images.vitaminimages.com/pp/images/banner_shopbrand.gif" border="0"></a></td>
     </tr>
 </tbody></table>
 
 
 
+
+<!--
 <table cellpadding="0" cellspacing="0" border="0" class="brand">
-    <tbody><tr>
-        <td nowrap=""><a href="http://www.puritan.com/pages/brands.asp?BID=102&amp;xs=" class="category">Puritan’s Pride</a><br> 
-        <a href="http://www.puritan.com/pages/brands.asp?BID=125&amp;xs=" class="category">TwinLab</a><br>
-        <a href="http://www.puritan.com/pages/brands.asp?BID=282&amp;xs=" class="category">Dynamic Health</a><br> 
-        <a href="http://www.puritan.com/pages/brands.asp?BID=42&amp;xs=" class="category">Garden of Life</a><br> 
-        <a href="http://www.puritan.com/pages/brands.asp?BID=334&amp;xs=" class="category">Proseed</a><br> 
-        <a href="http://www.puritan.com/pages/brands.asp?BID=28&amp;xs=" class="category">Desert Essence</a><br> 
-        <a href="http://www.puritan.com/pages/brands.asp?BID=218&amp;xs=" class="category">Herbal Authority</a><br> 
-        <a href="http://www.puritan.com/pages/allbrands.asp?xs=" class="category"><strong>View All Brands&nbsp;&gt;&gt;</strong></a><br>
+    <tr>
+    
+        <td nowrap><a href="http://www.puritan.com/brands/puritans-pride-102" class="category">Puritan’s Pride</a><br /> 
+        <a href="http://www.puritan.com/brands/twinlab-125" class="category">TwinLab</a><br />
+        <a href="http://www.puritan.com/brands/dynamic-health-282" class="category">Dynamic Health</a><br /> 
+        <a href="http://www.puritan.com/brands/garden-of-life-042" class="category">Garden of Life</a><br /> 
+        <a href="http://www.puritan.com/brands/proseed-334" class="category">Proseed</a><br /> 
+        <a href="http://www.puritan.com/brands/desert-essence-028" class="category">Desert Essence</a><br /> 
+        <a href="http://www.puritan.com/brands/herbal-authority-218" class="category">Herbal Authority</a><br /> 
+        <a href="/brands" class="category"><strong>View All Brands&nbsp;&gt;&gt;</strong></a><br />
         </td>
     </tr>
     <tr>
-        <td><img src="//images.vitaminimages.com/pp/images/spacer.gif" height="4"></td>
+        <td><img src="//images.vitaminimages.com/pp/images/spacer.gif" height="4" /></td>
     </tr>
-</tbody></table>	
+</table>
+-->
 
 
-	 <div style="margin-top: 5px;">
-	    <a href="/pages/flatrateshipping.asp?xs=" title="Flat Rate Shipping">
-	        <img src="//images.vitaminimages.com/pp/images/promotions/flatrateshipping/banner.gif" alt="Flat Rate Shipping Promotion" border="0">
-	    </a>	 
-	 </div>
-	 
 
-<table cellpadding="0" cellspacing="0" border="0">
+<table cellpadding="0" cellspacing="0" border="0">    
+  
+     
+     
+      
     <tbody><tr>
-        <td align="center" height="65"><!--
-    SiteSeal Html Builder Code:
-    Shows the logo at URL https://seal.networksolutions.com/images/prorecgreen.gif
-    Logo type is  ("NETSP")
-    //-->
-    <script language="JavaScript" type="text/javascript"> SiteSeal("https://seal.networksolutions.com/images/prorecgreen.gif", "NETSP", "none");</script></td>
-    </tr>
-    
-    <tr>
         <td>
-	    <a href="https://puritanspride.instorecard.com/signup/puritanspride" target="liferewards">
-	        <img src="//images.vitaminimages.com/pp/images/leftnav/LifesRewards.gif" alt="Introducing Life's Rewards - Enroll Now" border="0"></a></td>
+            <img src="//images.vitaminimages.com/pp/images/spacer.gif" height="15" border="0"></td>
     </tr>
-    <tr>
-        <td>
-            <img src="//images.vitaminimages.com/pp/images/spacer.gif" height="8" border="0"></td>
-    </tr>
-    
-    <tr>
-        <td align="center"><a href="http://www.puritan.com/pages/categories.asp?xs=&amp;CID=127"><img src="//images.vitaminimages.com/pp/images/banner_salebin.gif" alt="Sale! Bargain Bin." border="0"></a></td>
-    </tr>
-    <tr>
-        <td align="center"> 
+        
+    <!-- <tr>        <td> <a href="https://puritanspride.instorecard.com/signup/puritanspride" target="liferewards"> 	<img  src="//images.vitaminimages.com/pp/images/leftnav/liferewardsbanner.gif" alt="Introducing Life's Rewards - Enroll Now" border="0"></a> </td>    </tr> -->
+    <!-- <tr> <td> <img src="//images.vitaminimages.com/pp/images/spacer.gif" height="5" BORDER="0" /></td> </tr> -->
+	
+     <tr>
+        <td align="center" height="105"> 
+            
+            <a href="#" target="_blank" onclick="this.newWindow = window.open('http://livechat.boldchat.com/aid/8321501719766615033/bc.chat?cwdid=3302299156534950006&amp;wdid=3620720135788724537&amp;rdid=3940680027364577081&amp;vr=&amp;vn=&amp;vi=&amp;ve=&amp;vp=&amp;iq=&amp;url=' + escape('http://www.puritan.com/pages/passthrough.asp?target=052069069071056066051054055050058058053056050071067068066068071054067071068070051052057049069057&amp;url=http%3A%2F%2Fwww%2Epuritan%2Ecom%2Fhouse%2Fprivacypolicy%2Easp'), 'Chat', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=560,height=480');this.newWindow.focus();this.newWindow.opener=window;return false;">
+                <img src="//images.vitaminimages.com/pp/images/banner_livechat.gif" alt="Live chat with a customer service associate" border="0"></a>
             </td>
     </tr>
     <tr>
-        <td align="center" height="165"><img src="//images.vitaminimages.com/pp/images/banner_consumerlab.gif" alt="#1 Rated Catalog Merchant In Customer Satisfaction." border="0"></td>
+        <td align="center"><a href="http://www.puritan.com/bargain-bin-127"><img src="//images.vitaminimages.com/pp/images/banner_salebin.gif" alt="Sale! Bargain Bin." border="0"></a></td>
     </tr>
+   
+    <tr>
+        <td>
+            <img src="//images.vitaminimages.com/pp/images/spacer.gif" height="5" border="0"></td>
+    </tr>
+    <tr>
+        <td><a href="/house/feedback.asp?fSubOptions=7"><img src="//images.vitaminimages.com/pp/images/leftnav/banner_likeoursite.gif" alt="Like Our Site? Let Us Know." border="0"></a></td>
+    </tr>
+    <tr>
+        <td>
+            <img src="//images.vitaminimages.com/pp/images/spacer.gif" height="40" border="0"></td>
+    </tr>	
+    
 </tbody></table>	
 
 <!--left bar close-->	
@@ -440,44 +590,39 @@ var cmJv="1.1";
 
 <!--SUN MONITORING-->
 
-<table cellpadding="0" cellspacing="0" border="0">
+<table cellpadding="0" cellspacing="0" border="0" class="footerpp">
 <tbody><tr>
-	<td background="//images.vitaminimages.com/pp/images/footer_fadeout.gif" width="864" height="149" valign="top">
+	<td valign="top" align="center">
 <!--footer info open-->
-<table cellpadding="0" cellspacing="0" border="0" align="center" width="790">
+<table cellpadding="0" cellspacing="0" border="0" align="center">
 <tbody><tr>
 		<td colspan="11"><img src="//images.vitaminimages.com/pp/images/c.gif" height="12" alt="spacer" border="0"></td>
 	</tr>
 	<tr class="helpblack">
 	<td nowrap=""><img src="//images.vitaminimages.com/pp/images/icon_help.gif" alt="Help Center" border="0"></td>
 	<td valign="top" nowrap=""><strong>Help Center</strong><br> 
-<a href="http://www.puritan.com/house/customerservice.asp?xs=" class="help">Customer Service</a><br>  
+<a href="http://www.puritan.com/house/customerservice.asp" class="help">Customer Service</a><br>  
 
-<a href="http://www.puritan.com/house/helpcenter.asp?xs=" class="help">FAQ</a><br> 
-<a href="http://www.puritan.com/house/helpcenter.asp?xs=#couponredemption" class="help">Coupon Policy</a><br>  
-<a href="http://www.puritan.com/sitemap/index.htm?xs=" class="help">Site Map</a><br></td>
+<a href="#" target="_blank" onclick="this.newWindow = window.open('http://livechat.boldchat.com/aid/8321501719766615033/bc.chat?cwdid=3302299156534950006&amp;wdid=3620720135788724537&amp;rdid=3940680027364577081&amp;vr=&amp;vn=&amp;vi=&amp;ve=&amp;vp=&amp;iq=&amp;url=' + escape('http://www.puritan.com/pages/passthrough.asp?target=052069069071056066051054055050058058053056050071067068066068071054067071068070051052057049069057&amp;url=http%3A%2F%2Fwww%2Epuritan%2Ecom%2Fhouse%2Fprivacypolicy%2Easp'), 'Chat', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=560,height=480');this.newWindow.focus();this.newWindow.opener=window;return false;" class="help">Live Chat</a><br> 
 
-<td><img src="//images.vitaminimages.com/pp/images/c.gif" width="20" alt="spacer" border="0"></td>
-	<td><img src="//images.vitaminimages.com/pp/images/icon_life.gif" alt="Life's Rewards" border="0"></td>
-	<td valign="top" nowrap=""><strong>Life's Rewards®</strong><br>  
-<a href="http://www.puritan.com/pages/LL_program.html?xs=" class="help">Program Details </a><br>  
-<a href="http://www.puritan.com/pages/LL_terms.html?xs=" class="help">Terms and Conditions</a><br>  
-<a href="http://www.puritan.com/pages/LL_membership.html?xs=" class="help">Member Agreement </a><br>  </td>	
+<a href="http://www.puritan.com/house/helpcenter.asp" class="help">FAQ</a><br> 
+<a href="http://www.puritan.com/house/helpcenter.asp#couponredemption" class="help">Coupon Policy</a><br>  
+<a href="http://www.puritan.com/sitemap/index.htm" class="help">Site Map</a><br></td>
 
 	<td><img src="//images.vitaminimages.com/pp/images/c.gif" width="20" alt="spacer" border="0"></td>
 	<td><img src="//images.vitaminimages.com/pp/images/icon_company.gif" alt="Company Info" border="0"></td>
 	<td valign="top" nowrap=""><strong>Company Info</strong><br>  
-<a href="http://www.puritan.com/house/feedback.asp?xs=" class="help">Contact Us</a><br>  
-<a href="http://www.puritan.com/house/companyinfo.asp?xs=" class="help">About Us</a><br>  
-<a href="http://affiliate.puritan.com/" target="_blank" class="help">Affiliate Program</a><br> 
-<a href="http://www.puritan.com/house/companyinfo.asp?xs=" class="help">Quality Guarantee</a><br>  
-<a href="http://www.puritan.com/house/privacypolicy.asp?xs=" class="help">Privacy Policy<br></a></td>
+<a href="http://www.puritan.com/house/feedback.asp" class="help">Contact Us</a><br>  
+<a href="http://www.puritan.com/house/companyinfo.asp" class="help">About Us</a><br>  
+<a href="/affiliate/index.html" target="_blank" class="help">Affiliate Program</a><br> 
+<a href="http://www.puritan.com/house/companyinfo.asp" class="help">Quality Guarantee</a><br>  
+<a href="http://www.puritan.com/house/privacypolicy.asp" class="help">Privacy Policy<br></a></td>
 	<td><img src="//images.vitaminimages.com/pp/images/c.gif" width="20" alt="spacer" border="0"></td>
 	<td><img src="//images.vitaminimages.com/pp/images/icon_account.gif" alt="My Account" border="0"></td>
 	<td valign="top" nowrap=""><strong>My Account</strong><br> 
-<a href="http://www.puritan.com/pages/fav.asp?xs=" class="help">My Favorites List</a><br>  
-<a href="http://www.puritan.com/pages/quickorderform.asp?xs=" class="help">Quick Order Form</a><br>  
-<a href="http://www.puritan.com/scart/myaccount.asp?xs=" class="help">Log In/Register</a><br></td>
+<a href="http://www.puritan.com/pages/fav.asp" class="help">My Favorites List</a><br>  
+<a href="http://www.puritan.com/pages/quickorderform.asp" class="help">Quick Order Form</a><br>  
+<a href="http://www.puritan.com/scart/myaccount.asp" class="help">Log In/Register</a><br></td>
 	<td><img src="//images.vitaminimages.com/pp/images/c.gif" width="20" alt="spacer" border="0"></td>
 	<td><img src="//images.vitaminimages.com/pp/images/icon_shipping.gif" alt="International" border="0"></td>
 	<td valign="top" nowrap=""><strong>International</strong><br> 
@@ -497,14 +642,13 @@ var cmJv="1.1";
 </tr>
 <tr>
 	<td><img src="//images.vitaminimages.com/pp/images/footer_manfseals.gif" border="0"></td>
-	<td width="500" align="center"><!--
-SiteSeal Html Builder Code:
-Shows the logo at URL https://seal.networksolutions.com/images/prorecgreen.gif
-Logo type is  ("NETSP")
-//-->
-<script language="JavaScript" type="text/javascript"> SiteSeal("https://seal.networksolutions.com/images/prorecgreen.gif", "NETSP", "none");</script>&nbsp;&nbsp;<!-- START SCANALERT CODE -->
+	<td width="500" align="center">        
+        <!-- START SCANALERT CODE -->
         <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.puritan.com"><img align="bottom" width="115" height="32" border="0" src="//images.scanalert.com/meter/www.puritan.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-        <!-- END SCANALERT CODE --></td>
+        <!-- END SCANALERT CODE -->
+		<!--commented by Peter on 8/18/08 to replace siteseal image-->
+		&nbsp;&nbsp;<img border="0" name="siteseal" src="//images.vitaminimages.com/pp/images/siteseal.gif">
+		</td>
 	<td><img src="//images.vitaminimages.com/pp/images/footer_ccseals.gif" alt="credit cards" border="0"></td>
 </tr>
 <tr>
@@ -516,6 +660,7 @@ Logo type is  ("NETSP")
 <tbody><tr>
 	<td>The information provided on this site is intended for your general knowledge only and is not a substitute for professional medical advice or treatment for specific medical conditions. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition. The information on this website is not intended to diagnose, treat, cure or prevent any disease. Never disregard medical advice or delay in seeking it because of  something you have read on the Puritan's Pride site. Product sold on this site are for personal use and not for resale. All orders placed through this website are subject to Puritan's Pride acceptance, 
 in its sole discretion.  This means that Puritan's Pride may refuse to accept, or may cancel, any order, whether or not it has been confirmed, without liability to you or any third party.
+<br><br>Puritan's Pride reserves the right to discontinue any program or offer at any time.
 <br><br>* Based on a 2006/2007 supplement users survey.
 <br><br>	
 
@@ -526,7 +671,7 @@ in its sole discretion.  This means that Puritan's Pride may refuse to accept, o
 <br><br>
 Puritan's Pride, 1233 Montauk Highway, PO Box 9001, Oakdale, NY 11769-9001
 <br><br>
-Puritan's Pride, 2008</td>
+Copyright&nbsp;2008 Puritan's Pride, Inc.</td>
 </tr>
 </tbody></table>
 
@@ -536,7 +681,7 @@ Puritan's Pride, 2008</td>
 <!--
 //variables for all pages
 var resx = new Object();
- resx.lkmatch=/CPID%3D\d+/i;	
+ resx.lkmatch=/-\d{6}/;
 
     resx.appid="puritan";
     resx.rrcat="puritanc01";
@@ -546,11 +691,11 @@ var resx = new Object();
 
 //-->
 </script>
-<script language="JavaScript1.3" src="/js/resxclsa.js"></script>
+<script language="JavaScript1.3" src="//images.vitaminimages.com/pp/js/resxclsa.js"></script>
 
 <!-- Resonance --> 
 </div>
-
+<img src="/images/pixels/info.gif?xs=3DDF7A256199471FBCACF5BFCE2380D8&amp;name=/house/privacypolicy.asp&amp;errornumber=0&amp;error=&amp;qs=">
 	<!-- END FOOTER -->
     </div>
 </center>
