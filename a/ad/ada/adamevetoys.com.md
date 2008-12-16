@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adamevetoys.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526143935id_/http%3A//www.adamevetoys.com/t-faq.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adamevetoys.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015613id_/http%3A//www.adamevetoys.com/t-faq.aspx) for the most accurate reproduction.*
 
 # Frequently Asked Questions
 
@@ -210,7 +210,7 @@ The problem could be as simple as not using lower case characters or it is proba
 
 
 
-> Follow this link to your [My Account](http://sfadmin/AE/sfcontrol/https://www.adamevetoys.com/account.aspx) section and select the option to not receive printed catalogs. Your name will be removed from our list of catalog mailings. Once you've asked to be removed from our mailing list, it is very difficult to get back on it. 
+> Follow this link to your [My Account](https://www.adamevetoys.com/account.aspx) section and select the option to not receive printed catalogs. Your name will be removed from our list of catalog mailings. Once you've asked to be removed from our mailing list, it is very difficult to get back on it. 
 
 * * *
 
