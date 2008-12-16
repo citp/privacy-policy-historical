@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kikki-k.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029144646id_/http%3A//www.kikki-k.com.au/cart.php%3Ftarget%3Dhelp%26mode%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikki-k.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043257id_/http%3A//kikki-k.com.au/cart.php%3Ftarget%3Dhelp%26mode%3Dprivacy_statement) for the most accurate reproduction.*
 
-# kikki.K - stationery & gifts - Help section
+# kikki.K Stationery & Gifts - Help section
 
 We respect your privacy. 
 
