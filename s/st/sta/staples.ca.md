@@ -1,58 +1,55 @@
-> *The following text is extracted and transformed from the staples.ca privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815073731id_/http%3A//www.staples.ca/about/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staples.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154704id_/http%3A//www.staples.ca/ENG/Static/static_pages.asp%3Fpagename%3Dhelp%255Fterms%255Fprivacy) for the most accurate reproduction.*
 
-# Product Service Plans
+# STAPLES | BUREAU EN GROS
 
-|  [](https://web.archive.org/)
+  
+Privacy
 
-**Security and Privacy**
+Our Company is committed to providing every customer with great service, "everyday in every way". We consider the protection of the personal information of each customer (including potential customers) to be a key part of our high level of service. 
 
-Our **Shopping Security** ensures that your credit card information is safe and your privacy respected. We protect your shopping experience by: 
+We consider “personal information” to be information about an identifiable individual. We do not consider public information found in directories and listings, or business names, addresses and/or contact numbers, to be personal information. 
 
-  * utilizing SSL Technology 
-  * hosting Our Site on Secure Servers 
-  * maintaining Secure Site status from security industry leader VeriSign 
-  * allowing you to opt out of any online or traditional telemarketing efforts 
+We have adopted, as Company policy, the ten personal information privacy principles stated in the Canadian Standards Association (CSA) Model Code for the Protection of Personal Information. The ten principles are as follows: 
 
+(1) **Accountability** \- We will identify individuals in our Company who are to be specifically responsible for our compliance with the CSA Code. Their responsibilities will include making sure that third parties who process personal information on our behalf will comply with the CSA Code. 
 
+(2) **Reason for Collection** \- We will only collect and use personal information about our customers to identify them, to communicate with them, to protect the Company and its customers against error and fraud, to understand what products and services our customers want and to provide information about our products and services to our customers. We will not disclose any personal information concerning our customers to anyone else and we will not permit anyone else to use personal information about our customers for any purpose without the customer's consent. 
 
-We collect information so we can best meet your needs and notify you of offers that may be of interest. We firmly believe it's your right to know what information we collect, how we use it, and what your options are. Below you can find more detailed information about online security, information collection and use, and how to contact us. 
+(3) **Consent** \- Before collecting, using or disclosing any personal information about any individual, we will ensure that we have the individual’s consent in an appropriate form. 
 
-**What Keeps My Credit Card Safe?**   
+(4) **Limiting Collection** \- We will collect personal information only for the purposes stated above unless we receive consent from the individual to collect it for another purpose. 
 
+(5) **Limiting Use, Disclosure and Retention** \- We will use and disclose an individual’s personal information only for the purposes stated above, unless we have the individual's consent to using or disclosing it for another purpose. We will only keep personal information about individuals for as long as we need it to fulfill our stated purposes. 
 
-At this web site, whenever you provide any personal information (e.g. when making a purchase, requesting a catalogue, completing an e-mail form), we encrypt it so that no one can read it while it is being transmitted over the Internet. At this time, all information (such as your name and address) is safely stored behind a firewall. A firewall is a set of related programs that protects your information from users from other networks. We store this type of information so that you do not have to re-enter it each time you make a purchase or log in. 
+(6) **Accuracy** \- We will maintain all personal information in our possession in as accurate, complete and up-to-date form as is necessary for the purposes for which it is to be used. 
 
-**Is My Personal Information Safe?**   
+(7) **Safeguards** \- We will protect all personal information in our possession from unauthorized access or alteration or from inadvertant destruction by security safeguards appropriate to the sensitivity of the information. 
 
+(8) **Openness** \- We will make this Corporate Privacy Statement readily available in our stores, in our catalogues and on our web-sites. Individuals may make inquiries about personal information privacy issues by contacting our privacy officer by telephone (905-737-1147), by mail (The Business Depot Ltd., 6 Staples Avenue, Richmond Hill, Ontario, L4B 4W3) or by e-mail (privacy@staples.ca). 
 
-Yes, any personal information that you submit to the site will remain safe and secure. In order to offer you an individualized shopping experience we collect various types of information such as: 
+(9) **Individual Access** \- We will give any individual access to the personal information about him or her that we have in our possession. Individuals may request access to their personal information in our possession by contacting our privacy officer by any of the means noted above. In the event that the individual demonstrates that the information which we have in our possession is inaccurate or incomplete, we will make any appropriate changes. 
 
-  * domain names of visitors to our Web site 
-  * e-mail addresses of those who e-mail us or register with us 
-  * information on how many visits each page receives 
-  * user-specific information on what pages consumers visit 
-  * information volunteered by the consumer, such as survey information and/or site registrations 
+(10) **Challenging Compliance** \- Any individual may address any issues about our collection, use or disclosure of personal information by contacting our privacy officer by any of the means noted above. 
 
-We then study this information to determine how we can create the best shopping experience available for you. By looking at usage patterns, we know which areas need expansion and which areas are not meeting your needs. We also collect information so that we can help you personalize the site, receive notice about special updates, and have access to unique marketing messages. 
+The foregoing is the Corporate Privacy Statement of The Business Depot Ltd., which carries on business in Canada under the names "Business Depot", "Staples", "Staples/Business Depot" and "Bureau en gros". 
 
 **How Can I Be Removed From Your Lists?**
 
-E-mail  
-If you do not want to receive e-mail about special offers from us in the future, please let us know by sending us an [e-mail](https://web.archive.org/support/contact/) and telling us that you do not want to receive them from our company. 
+If you wish to discontinue contact with us by any or all of these methods, please notify us by any of the methods below and let us know which forms of contact you would like to be removed from. 
 
-Mail  
-If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know in writing to:  
+**Mail:**  
+The Business Depot Ltd.  
+6 Staples Avenue  
+Richmond Hill, Ontario, L4B 4W3  
+Attn: Customer Privacy Department 
 
+**E-Mail:**  
+[privacy@staples.ca](mailto:privacy@staples.ca)
 
-Staples/The Business Depot Ltd.  
-30 Centurian Drive, Suite 106  
-Markham, ON L3R 8B9  
+ **Phone:**  
+1-866-782-7537 
 
+**Facsimile:**  
+905-780-5607 
 
-Also, you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by writing to us at the above address. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. 
-
-Phone  
-Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed online and/or current offers that may be of interest to them. You can reach us by telephone at:  
-
-
-1-877-360-8500. 
+Alternatively, all of our direct-contact promotions provide customers with the ability to exclude themselves from future promotions.
