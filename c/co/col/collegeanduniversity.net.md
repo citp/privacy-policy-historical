@@ -1,65 +1,132 @@
-> *The following text is extracted and transformed from the collegeanduniversity.net privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014202249id_/http%3A//www.collegeanduniversity.net/index.cfm%3Fevent%3Dp.pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeanduniversity.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011745id_/http%3A//www.collegeanduniversity.net/index.cfm%3Fevent%3Dp.pp) for the most accurate reproduction.*
 
-# CollegeAndUniversity.net © 2007
+# CollegeAndUniversity.net - Privacy Policy
 
 CUnet, LLC Privacy Policy
 
-CUnet, LLC and its affiliated companies ("we" or "us") operate a series of websites offering a variety of products and services (a "Site" or the "Sites"). This notice outlines the privacy policies of the Sites. By visiting this website, you are accepting the practices described in this Privacy Policy.
+Cunet, LLC (the “Company”) wants you to understand how we collect, protect, and use your personally identifiable information (“your information”) and the choices you have about how your information is used. This policy covers the information handling practices of the Company; however, certain departments and/or products within the Company may have more restrictive information handling practices.
 
-**Changes to the Privacy Policy**
+**Online information**
 
-We reserve the right to change the terms of this Privacy Policy. Since any changes will be posted on this page, we encourage you to check this page regularly. Your continued use of the Sites following any changes to this Privacy Policy will constitute your acceptance of such changes. 
+We are committed to providing you a useful and enjoyable online experience. When you access a Company Web site (“Company Site”), you can be sure that your information is protected by physical, procedural, and electronic safeguards. We collect information from your visit only in order to personalize and improve upon your experience with us.
 
-**Your IP Address**
+To access information and send e-mail via Company Sites, you will need a browser that supports the use of Secure Sockets Layer. This encryption technology helps ensure the authenticity of your online sessions and secures data being transmitted over the public Internet.
 
-Each time you visit the Sites, our web server automatically recognizes your IP address and the Web page from which you came. Your IP address is used to help identify you and to gather broad demographic information about you. We also use your IP address to help diagnose problems with our servers, to administer the Sites, and to better serve you in using the services and features of the Sites. 
+When you enter a Company Site, we will identify the Internet Protocol (IP) address of your computer or handheld device. The IP address doesn’t identify you personally, but it lets us identify the device you’re using. We store IP addresses in case we need to track a connection for security purposes.
 
-**Cookies and Action Tags**
+Company Sites may use cookies in several applications for navigational purposes. A cookie is a small text file placed on your hard drive (not on the Company Site) by a Web page server. Cookies make your Internet experience quicker and more convenient. You are always free to decline our cookies if your browser permits, but some parts of Company Sites may not work properly if you do. Accepting a cookie from a Company Site does not give us access to any of your information.
 
-The first time a user provides an e-mail address in connection with their activities at a Site, we assign an identification number to that e-mail address and deploy a cookie to the user's PC. Whenever that user comes back to a Site using the same PC, the cookie allows the Site to identify the user and to recall the user's e-mail address. If, at any time, a user provides other information in connection with their activities on a Site (such as name, address, birth date, gender, etc.), we may store that information, along with the user's e-mail address, in our user database. We may use the information stored in our database (i) for the purpose for which the information was originally provided by a user, (ii) to pre-populate information fields in the event a user wishes to request information, sign up for and/or subscribe to services, promotions or offers in the future, (iii) to ensure that a user will not be repeatedly exposed to the same ads, offers and promotions while visiting Sites, and (iv) to, in connection with regular communication with a user, include offers, promotions or advertisements historically, or likely to be, of interest to that user.
+If you supply us with your e-mail address, we may let you know by e-mail about other products and services and product enhancements that may be of interest to you. You will have the opportunity to tell us you don’t want to receive future messages with each message you receive. If you e-mail a question or comment to us, we will use your e-mail address to reply to you and we will temporarily store your e-mail address, your message and our reply for quality assurance or to satisfy applicable laws and regulations. When we collect your e-mail address this way, we won’t use it for marketing our products and services unless you have given us permission.
 
-Action Tags, Web Beacons and other Data Collection Methods: An action tag or a web-beacon (also known as a clear gif or a pixel tag) is a method used to track responses or actions by visitors who view certain advertisements or other information on a site. Action tags are 1x1 pixel images embedded in a website page that are used to transparently collect information. We may use action tags to count the number of times that visitors click on a particular banner ad or visit the pages of our Sites and to provide information about what products are viewed or purchased. 
+Company Sites don’t knowingly collect, maintain, or use information from children under age 13 unless first complying with the Children’s Online Privacy Protection Act. If we find out we have unknowingly collected such information we will take all reasonable measures to delete that information from our system as soon as possible. We are not responsible for the collection and use of information by companies or individuals unaffiliated with us whose Web sites may contain links to ours, including vendors where you may shop.
 
-**Personal Information We Collect From You**
+Please note that when you shop with a vendor who is linked to a Company Site, even though you may have started your visit with us, and even though our pages may still appear, your transactions are completed with a separate organization, not with us. We don’t share your information with them, but information you choose to share with them will fall under their privacy policies, which we encourage you to review. We carefully select other organizations in an effort to give you the value and excellent customer service you expect from us, but we cannot guarantee your satisfaction with these organizations.
 
-While on the Site we may collect personal information from you. Personal information may include information you provide to us while registering with a Site, making purchases, or as otherwise requested on the Site, such as your name, address, phone number, and e-mail address. Personal information may also include information we gather about you while on a Site such as your information requests & usage history. We may also collect demographic information that you provide to us such as your zip code, age, or income level.
+**_Information we collect and why_**
 
-**How We Use Personal Information**
+In order to provide you with products and services, we collect your information from different sources: 
 
-We will use your personal information for customer service, to provide you with information that you may request, to customize your experience on a Site, and to contact you when necessary in connection with transactions entered into by you on a Site. We may also use your personal information for internal business purposes, such as analyzing and managing our business. We may also combine the information we have gathered about you with information from other sources. We may use third parties to help us operate our business and the Sites or administer activities on our behalf, information requests, interests & order fulfillment. We may share your information with these third parties for those limited purposes. 
+  * Information you provide to us on forms (such as applications), by e-mail, in writing, by telephone or through our Web sites.
+  * Information collected from your transactions with us or others, such as account activity.
+  * In the case of student loans, information from unaffiliated third parties such as credit histories from credit reporting agencies.
 
-In addition, unless a user has elected not to receive our offers and third-party offers and promotions or to limit or prohibit disclosure of information about them, we may provide individual user information to our advertising and marketing partners, our affiliated companies, or other third parties interested in marketing to our Sites' users. We make an effort to provide users and subscribers with ads and offers that they may find of interest and of some value. Nevertheless, it is our policy to allow users to make the choices about, and to control, the information our Sites collect and the manner in which that information is used. For this reason, users always have the ability to update, change or delete information about them collected by the Sites, to unsubscribe from any mailing list at any time, to opt out of receiving third-party ads, promotions and offers, and to prevent disclosure of their information to third-parties for such purposes. We reserve the right to, in connection with a transfer of any of our assets to any affiliated company, provide user information and data to the affiliate subject to the terms of this policy. Similarly, we reserve the right to, in connection with a sale of any of our assets or businesses to a third party, sell our customer database, or relevant portion thereof, so that a third-party may be able to continue to provide the services and features to which our users have subscribed. We may release user information if required by law, to enforce any terms of service, or to protect the rights, property or safety of our Sites, its registered users, or others. Please note that our privacy policy does not apply to websites or web pages that link to our Sites.
 
-You may, at any time, notify us that you do not wish to have your personal information disclosed to third parties for offers and promotions by sending an e-mail to privacy@cunetcorp.com 
 
-**How We Use Financial Information**
+**_Information safeguarding practices_**
 
-Financial information is used to bill you for products and services. By making a purchase on a Site, you consent to our providing your financial information to our service providers and to such third parties as we determine is necessary to process your transactions. These third parties may include the credit card companies and banking institutions used to process the transaction.
+We appreciate the trust you place in us, and we are committed to the security and privacy of your information.
 
-**How We Use Demographic Information**
+  * Our authorized employees, agents, and contractors receive your information only to the extent required to perform their work.
+  * We comply with federal and state regulations as well as industry standards set forth to protect your information.
+  * Companies that assist us in delivering our products and services are also required to protect your information and use it only for the services we ask them to perform.
 
-We use demographic information to tailor Sites to the interests of our users. Demographic information is shared with advertisers so that they can tailor their advertisements to the appropriate audience. Demographic information may also be shared with other third parties.
 
-**Other Sites**
 
-Other sites accessible through our Sites have their own privacy policies and data collection, use and disclosure practices. Please consult each site's privacy policy. We are not responsible for the policies or practices of third parties. Please be aware that our Sites may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those websites linked to our Sites are not covered by this Privacy Policy. These other sites may send their own cookies to users, collect data, or solicit personal information. Additionally, other companies that place advertising on our Sites may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect.
+**_Information sharing with affiliated companies_**
 
-On behalf of various sponsors, we may provide sponsored links to third-party websites. If you click on a sponsored link or banner ad, a "window" or "frame" containing a third-party's web site may appear in the foreground with a Site in the background. Unless you are on one of our Sites, any time that you have moved to a window, you should assume that your personal information is being collected, used and disclosed in accordance with the windowed site's privacy policy (if any). If you are unsure as to whose privacy policy applies, please contact us by e-mail at privacy@cunetcorp.com.
+We may share your information with our affiliated companies in order to better understand your educational and financial needs and provide solutions. Unless you instruct us otherwise, our affiliates may selectively contact you about products, services, and promotions that may be of interest to you.
 
-**Our Security Precautions**
+**_Information sharing with service providers and others outside of our affiliated companies_**
 
-The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. We encrypt all of your personal and financial information and use our best efforts to prevent it from being read or intercepted as the information travels over the Internet. While we are committed to protecting your information, we cannot ensure or warrant the security of any information you transmit to us.
+To the extent required or permitted by law, we may share your information with service providers and unaffiliated third parties for the following reasons:
 
-**Accessing Your Information**
+  * To service your account and provide you with products and services you have requested.
+  * To communicate with you about additional products, services, and special offers, using marketing providers to assist us.
+  * To comply with a legal requirement, such as a law, regulation, court order, subpoena, search warrant, or in the course of a legal proceeding.
+  * To respond to your opt-in request or other disclosure request.
+  * In the case of student loans, to report to a credit bureau, guaranty agency, school, or the U.S. Department of Education.
 
-At your request, we will modify or remove personal information that you have provided to us. You may do so by e-mailing privacy@cunetcorp.com. However, changing or deleting your information or otherwise opting-out of receipt of communications from us or third parties will only change or delete the data in our database for purposes of transacting future business on a Site and for managing future communications from us and third parties. These changes and deletions will not change or delete information already collected as part of a particular purchase in our transactions database, which may have already been shared with third parties, all as provided above in this Privacy Policy. You will need to contact third parties who may contact you directly to change your preferences or your personal information that they may be using to contact you.
 
-**Children's Online Privacy Protection Act (COPPA) Compliance**
 
-You must be at least 18 years old to have our permission to use our Sites. Our policy is that we do not knowingly collect, use or disclose personally identifiable information about visitors under 18 years of age. If you are the parent or guardian of a minor under 18 years of age and believe that they have disclosed personally identifiable information to us, please contact us at privacy@cunetcorp.com so that we may delete the minor's information.
+**_Information sharing options_**
 
-**Contacting us about privacy questions or concerns**
+You have the following options to control how your information is used:
 
-If you have any questions about this Privacy Policy, the practices of a Site, or your dealings with this Site, please email us at privacy@cunetcorp.com, or by sending a letter to:
+  * **Option # 1 (Affiliate Marketing):** You may direct our affiliated companies not to market their products and services to you. Selecting this option will also direct us not to share your third-party consumer report information with our affiliated companies. We will honor your direction until you notify us of a change.
+  * **Option # 2 (Third-Party Sharing):** You may direct us not to share your information with unaffiliated third parties. We will honor your direction until you notify us of a change.
 
-CUnet, LLC, 461 From Road, Suite 200, Paramus, NJ, 07652
+
+
+If you wish to change how we use your information, you may contact us by one of the following methods. 
+
+Please include your name, address, and account number (if applicable) along with your request.
+
+  * Go to the options page: [ Click here](http://www.nelnet.com/plainoptoutform.aspx?path=nel.sec)
+  * Write to: Nelnet Privacy Options (EP) P.O. Box 82525 Lincoln, NE 68501
+
+
+
+**_Joint accounts_**
+
+Joint account holders may make privacy choices for each other.
+
+**_Vermont residents_**
+
+We will automatically manage accounts with Vermont addresses as if the account holder has selected both opt-out choices described above. You may opt in and provide your consent using the contact methods described above.
+
+**_California residents_**
+
+We will automatically manage accounts with California addresses as if the account holder has directed us not to share with unaffiliated third parties. You may opt in and provide your consent using the contact methods described above.
+
+**_Information about this policy_**
+
+  * This policy is effective October 1, 2008.
+  * This policy applies to current and former customers.
+  * This policy is available at our Web site.
+  * This policy does not apply if we are providing services for another entity. In such circumstances, that entity’s privacy policy will apply to the use of your information.
+  * **If you previously sent us a request not to share your personally identifiable information, your request is still being honored; it is not necessary for you to submit another request.** If you wish to revoke your prior request, you may opt in and provide your consent using the contact methods described above.
+
+
+
+**_Protecting your personally identifiable information_**
+
+You are encouraged to take steps to protect your privacy by keeping passwords and personal identification numbers confidential, never disclosing personal information to unknown callers, and ensuring your Internet use is secured and protected from unauthorized access or use. If you believe you are a victim of identify theft:
+
+  * Call the Federal Social Security Administration fraud hotline: 800.269.0271
+  * File a police report with your local authorities, note the report number and officer’s name
+  * Call the Federal Trade Commission’s Identity Theft hotline: 877.IDTHEFT
+  * Contact the major national credit reporting agencies:
+
+| Experian 888.397.3742| Trans Union 800.680.7289  
+---|---  
+Equifax 800.525.6285| Innovis 800.540.2505  
+  
+**_Affiliated companies covered by this policy_**
+
+This privacy policy applies to the following companies as well as subsidiary special purpose entities:
+
+Nelnet, Inc| MELMAC, Inc.  
+---|---  
+Nelnet Guarantee Solutions, LLC| National Education Loan Network, Inc.  
+Chela Education Funding, Inc.| National Education Loan of New England, Inc./NESLA  
+College Bound Loans, Inc.| Nelnet Enrollment Solutions, LLC  
+EMT Corporation| CUnet, LLC  
+EFS Finance Co.| Petersons Nelnet, LLC  
+Education Solutions, Inc.| SLAAA Acquisition Corporation  
+LoanStar Funding Group, Inc.|    
+  
+This list may change at any time without notice. Please visit our Web site to review the most current list of affiliated companies covered under this policy.
+
+* * *
+
+Manage your e-mail marketing preferences [here](http://collegeanduniversity.net/index.cfm?event=ml.unsubform). 
