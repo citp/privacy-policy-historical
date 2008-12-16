@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talkstreamlive.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213061124id_/http%3A//www.talkstreamlive.com/%3Fb%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkstreamlive.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042206id_/http%3A//www.talkstreamlive.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# TalkStreamLive.com - A Dynamic Directory of Streaming Radio
+# TalkStreamLive
 
 Effective 8/14/06
 
