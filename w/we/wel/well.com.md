@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the well.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609004547id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the well.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216074406id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.*
 
 # The WELL - Privacy Policy
 
@@ -43,7 +43,7 @@ We also count, track and aggregate each visitor's activity into our analysis of 
 
 **Use of cookies at The WELL**
 
-A cookie is a small amount of data that is sent to your browser from a Web server and stored in your computer's memory or written on your computer's hard drive. We use session cookies, non-peristant files which vanish when you shut down your browser, to allow the system to know you have already entered a password each time you click for more data in a conference login session. Our cookies do not contain any of the personal information you have provided to us. We use cookies for our Web conferencing interface, not for telnet access to conferences.
+A cookie is a small amount of data that is sent to your browser from a Web server and stored in your computer's memory or written on your computer's hard drive. We use session cookies, non-peristant files which vanish when you shut down your browser, to allow the system to know you have already entered a password each time you click for more data in a conference login session. Our cookies do not contain any of the personal information you have provided to us. We use cookies for our Web conferencing interface, not for PicoSpan access to conferences.
 
 We do not use cookies to track usage on our site, but the conferencing software itself tracks what you have seen in order to show you new material when you return. This information about when you were last present is available to other members of the system in the forums to which you have mutual access so that it is easier to tell who is up to date in a group conversation. We never provide this information on your activity to non-participants.
 
