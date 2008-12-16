@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radarmagazine.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515195340id_/http%3A//www.radarmagazine.com/info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radarmagazine.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051430id_/http%3A//www.radaronline.com/info/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Radar Online
 
@@ -25,6 +25,3 @@ While your individual information is protected as discussed above, Radar reserve
 **Children's Online Privacy Protection Act** No one under the age of 13 should provide any personal information. In general, Radar does not knowingly collect personally identifiable information from children under 13. If in limited circumstances we do knowingly collect personally identifiable information from children under the age of 13, we will do so only with verified parental consent prior to collection. In the event that we learn that we have collected information from a child under the age of 13 without verification of parental consent, we will delete this information from our database as quickly as reasonably possible. If you believe the website has any information about anyone under 13, please contact Radar. 
 
 **Security** Radar has implemented appropriate safeguards to help prevent unauthorized access, maintain data security, and make proper use of the information that we collect. However, no security system is invulnerable. Thus, while we strive to protect your personal information, Radar cannot absolutely guarantee the security of any information you provide to us. 
-
-**TRADEMARKS AND SERVICE MARKS**  
-Radar Magazine, Radar Online, Fresh Intelligence, and the Fame-O-Meter are trademarks or service marks of Integrity Multimedia Company, LLC. 
