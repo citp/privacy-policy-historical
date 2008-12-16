@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623080720id_/http%3A//www.mayoclinic.com/health/Privacy-Policy/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015438id_/http%3A//www.mayoclinic.com/health/privacy-policy/AM00005) for the most accurate reproduction.*
 
-# - MayoClinic.com
+# Privacy policy - MayoClinic.com
 
-**Updated June 20, 2008.**
+**Updated July 1, 2008.**
 
 MayoClinic.com is committed to protecting your online privacy. We feel it is important for you to know how we handle the information we receive from you via the Internet. You can visit www.MayoClinic.com without revealing any personal information. However, you are required to provide an e-mail address to subscribe to a newsletter. 
 
@@ -14,11 +14,19 @@ MayoClinic.com may contain links to Web sites operated by third parties. MayoCli
 
 We collect and log the IP address of all visitors to MayoClinic.com. An IP address is a number automatically assigned to your computer whenever you access the Internet. IP addresses allow computers and servers to recognize and communicate with one another. We collect IP address information so that we can properly administer our system and gather aggregate information about how our site is being used, including the pages visitors are viewing. This aggregate information may be shared with advertisers, sponsors and other businesses. To maintain your anonymity, we do not associate IP addresses with records containing personal information. We will use IP address information, however, to personally identify you in order to enforce our legal rights or when required to do so by law enforcement authorities. 
 
+## Newsletters
+
+We require you to provide an e-mail address to subscribe to a newsletter. We do not share your e-mail address. 
+
 ## How we use cookies
 
 "Cookies" are small pieces of information that some Web sites store on your computer's hard drive when you visit them. Like many other Web sites, MayoClinic.com uses cookies to provide us with information relating to the sources of our site traffic. Collecting this information, however, does not allow us to personally identify you. 
 
 Most Web browsers automatically accept cookies but allow you to modify security settings so that you can approve or reject cookies on a case-by-case basis. Our site requires that both cookies and JavaScript be enabled. If you reject cookies from our site, some parts of the site may not work properly for you. 
+
+## Health tools information
+
+You may need to provide personal information in order to use some of the health tools on our site. This information may include your answers to questions about your health status. We use this information to calculate risk. We don't store or share it. 
 
 ## Surveys
 
