@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the inmusic.ca privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620025840id_/http%3A//privacy.sympatico.msn.ca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmusic.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011256id_/http%3A//privacy.sympatico.msn.ca) for the most accurate reproduction.*
 
 # Sympatico / MSN - Privacy Statement
 
-Bell Inc. (provider of the Sympatico™ services) and MSN have joined together to bring Canadians a unique package of powerful and easy-to-use Internet services that include a new Internet portal, more entertaining content, and the feature-rich MSN Premium software.
+Bell Canada (provider of the Sympatico™ services) and MSN have joined together to bring Canadians a unique package of powerful and easy-to-use Internet services that include a new Internet portal, more entertaining content, and the feature-rich MSN Premium software.
 
-In order to provide you with these services, better understand your needs, and offer you related services, Bell Inc. and MSN collect and use information about you when you use the Sympatico / MSN services, and share this data between them. Both Bell and MSN have long been committed to maintaining the accuracy, confidentiality, security and privacy of customer personal information.
+In order to provide you with these services, better understand your needs, and offer you related services, Bell Canada and MSN collect and use information about you when you use the Sympatico / MSN services, and share this data between them. Both Bell and MSN have long been committed to maintaining the accuracy, confidentiality, security and privacy of customer personal information.
 
  **Security** . Bell and MSN are committed to protecting the security of your information. Information is retained in controlled facilities, protected from unauthorized access and kept only as long as is reasonably required.
 
@@ -14,9 +14,9 @@ In order to provide you with these services, better understand your needs, and o
 
  **Access** : Upon request, you may view the personal information about you that Bell or MSN holds.
 
-Bell Inc. and MSN each maintain separate privacy policies, which describe in more detail how they handle your personal information. Please take a moment to read our privacy policies.
+Bell Canada and MSN each maintain separate privacy policies, which describe in more detail how they handle your personal information. Please take a moment to read our privacy policies.
 
-[Bell Inc. Privacy](http://www.bell.ca/support/PrsCSrvGnl_Privacy.page)
+[Bell Canada Privacy](http://www.bell.ca/support/PrsCSrvGnl_Privacy.page)
 
 [MSN Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=74170)
 
