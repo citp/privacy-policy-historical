@@ -1,66 +1,673 @@
-<!--The following is the downloaded HTML source of the citylocal.co.uk privacy policy that was archived on 2008-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080624035222id_/http%3A//www.citylocal.co.uk/frontend/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citylocal.co.uk privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216063926id_/http%3A//www.citylocal.co.uk/frontend/privacypolicy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="shortcut icon" href="http://www.citylocal.co.uk/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="http://www.citylocal.co.uk/favicon.ico" type="image/vnd.microsoft.icon">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="revisit-after" content="1">
+<meta name="robots" content="index,follow">
 
 <meta name="description" content="Looking for a franchise opportunity? For UK business franchises and internet franchise opportunities see our City Local franchises in UK cities. Work from home and be your own boss with the CityLocal franchise Opportunity.">
 	<meta name="keywords" content="Franchise, franchise opportunity, uk franchise, uk franchise opportunity, internet franchise, business franchise opportunity, business for sale, businesses for sale">
 <title>City Local UK - Privacy Policy</title>
-<link href="http://www.citylocal.co.uk/includes/citylocalstyle.css" rel="stylesheet" type="text/css">
+<script language="JavaScript1.2" type="text/javascript">
 
-<link rel="shortcut icon" href="http://www.citylocal.co.uk/favicon.ico">
-</head>
-<body>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" background="http://www.citylocal.co.uk/images/top-faded.gif">
-		<tbody><tr>
-				<td><img src="http://www.citylocal.co.uk/images/top-faded.gif" width="11" height="10"></td>
-		</tr>
-</tbody></table>
-<table width="780" height="96" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-				
-	<td width="438" valign="middle" style="padding-left:10px;"><a href="http://www.citylocal.co.uk/cities/Southampton" border="0"><img src="http://www.citylocal.co.uk/images/city-logo-anim.gif" border="0"><img src="http://www.citylocal.co.uk/images/city-banner-text.gif" border="0"></a></td>
-				
-	<td width="342" valign="middle">
-	<div align="right" style="padding-top:4px;padding-right:7px;">
-	<br>
-	<font color="#3A68C0" face="Arial" size="6">Southampton</font> </div>
+/***********************************************
+* Flashing Link Script- © Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
 
-		<div align="right" class="mainbody">
-		Tuesday 24th of June 	<span id="tick2">
-	</span>
-	</div>	
+var flashlinks=new Array()
+
+function changelinkcolor(){
+for (i=0; i< flashlinks.length; i++){
+var flashtype=document.getElementById? flashlinks[i].getAttribute("flashtype")*1 : flashlinks[i].flashtype*1
+var flashcolor=document.getElementById? flashlinks[i].getAttribute("flashcolor") : flashlinks[i].flashcolor
+if (flashtype==0){
+if (flashlinks[i].style.color!=flashcolor)
+flashlinks[i].style.color=flashcolor
+else
+flashlinks[i].style.color=''
+}
+else if (flashtype==1){
+if (flashlinks[i].style.backgroundColor!=flashcolor)
+flashlinks[i].style.backgroundColor=flashcolor
+else
+flashlinks[i].style.backgroundColor=''
+}
+}
+}
+
+function init(){
+var i=0
+if (document.all){
+while (eval("document.all.flashlink"+i)!=null){
+flashlinks[i]= eval("document.all.flashlink"+i)
+i++
+} 
+}
+else if (document.getElementById){
+while (document.getElementById("flashlink"+i)!=null){
+flashlinks[i]= document.getElementById("flashlink"+i)
+i++
+}
+}
+setInterval("changelinkcolor()", 1000)
+}
+
+if (window.addEventListener)
+window.addEventListener("load", init, false)
+else if (window.attachEvent)
+window.attachEvent("onload", init)
+else if (document.all)
+window.onload=init
+
+</script>
+<script language="javascript" type="text/javascript">
+
+var pos=0;
+var num_rows;
+
+function changePosition(id)
+{
+	if (this.pos > 0 && this.pos <= num_rows)
+	{
+		div_id = "s"+this.pos;
+		document.getElementById(div_id).style.background = '#F1F8FF';
+		document.getElementById("industry_name").value = '';
+	}
+		
+	this.pos = id;
+	div_id = "s"+this.pos;
+	document.getElementById(div_id).style.background = '#ffffff';
+}
+
+function updateSearch(id)
+{
+	if (this.pos > 0 && this.pos <= num_rows)
+	{
+		div_id = "s"+this.pos;
+		document.getElementById(div_id).style.background = '#F1F8FF';
+		document.getElementById("industry_name").value = '';
+	}
+		
+	this.pos = id;
+	div_id = "s"+this.pos;
+	document.getElementById(div_id).style.background = '#ffffff';
+	document.getElementById("industry_name").value = document.getElementById(div_id +"_value").value.replace(/&amp;/gi, '&');
 	
-	</td>
+	document.getElementById("suggestBox").style.visibility = 'hidden';
+	document.getElementById("industry_name").focus();
+	document.getElementById("industry_name").value = document.getElementById("industry_name").value;
+	this.pos = 0;
+}
+
+function suggest(e)
+{
+	var intKey = 0;
+	e = (window.event)? event : e;
+	intKey = (e.keyCode)? e.keyCode: e.charCode;
+
+	if (intKey == 40) //down
+	{
+		
+		//SWITCH THEM OFF
+		if (this.pos>0 && this.pos<=num_rows)
+		{
+			
+			div_id = "s"+this.pos;
+		
+			document.getElementById(div_id).style.background = '#F1F8FF';
+			document.getElementById("industry_name").value = '';
+		}
+		
+		//SWITCH THEM ON
+		if (this.pos+1<=num_rows)
+		{			
+			this.pos = this.pos+1;
+			div_id = "s"+this.pos;
+			document.getElementById(div_id).style.background = '#ffffff';
+			document.getElementById("industry_name").value = document.getElementById(div_id + "_value").value.replace(/&amp;/gi, '&');
+		}
+		else if(this.pos+1 == num_rows+1)
+		{
+			this.pos = this.pos +1;			
+		}
+	}
+	else if (intKey == 38) //up
+	{
+		//SWITCH THEM OFF
+		if (this.pos>0 && this.pos<=num_rows)
+		{
+			div_id = "s"+this.pos;
+			document.getElementById(div_id).style.background = '#F1F8FF';
+			document.getElementById("industry_name").value = '';
+		}
+		
+		//SWITCH THEM ON
+		if (this.pos-1>0)
+		{
+			this.pos = this.pos-1;
+			div_id = "s"+this.pos;
+			document.getElementById(div_id).style.background = '#ffffff';
+			input_text = 
+			document.getElementById("industry_name").value = document.getElementById(div_id + "_value").value.replace(/&amp;/gi, '&');
+		}
+		else if (this.pos-1==0)
+		{
+			this.pos = this.pos-1;
+		}
+	}
+	else 
+	{
+		this.pos=0;
+		getSuggestions();
+	}
+}
+
+function getSuggestions()
+{
+	xmlHttp=GetXmlHttpObject();
+
+	if (xmlHttp==null)
+	{
+		alert ("Browser does not support HTTP Request");
+		return;
+	}
+
+		var url="/suggest.php?str="+document.getElementById("industry_name").value+"&city_name=" + document.getElementById('city_name').value + "&sid="+Math.random();
+	xmlHttp.onreadystatechange=displaySuggestions;
+	xmlHttp.open("GET",url,true);
+	xmlHttp.send(null);
+}
+
+function displaySuggestions() 
+{ 
+	if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+	{ 
+		trimmed = xmlHttp.responseText.replace(/^\s+|\s+$/g, '');
+		
+		delim = trimmed.indexOf(":==:");
+		
+		num_rows = parseInt(trimmed.substr(0,delim));
+		
+		remaining = trimmed.substr(trimmed.indexOf(":==:")+4);
+		
+		trimmed = remaining;
+		
+		if (remaining!='')
+		{
+			document.getElementById("suggestBox").style.visibility = 'visible';
+		
+			document.getElementById("suggestBox").innerHTML=remaining;
+		}
+		else
+		{
+			document.getElementById("suggestBox").style.visibility = 'hidden';
+			this.pos = 0;
+		}
+	} 	
+}
+
+function GetXmlHttpObject()
+{
+	var xmlHttp;
+	try
+	{    // Firefox, Opera 8.0+, Safari
+	    xmlHttp=new XMLHttpRequest();    
+	}
+	catch (e)
+	{    // Internet Explorer    
+		try
+		{      
+			xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");      
+		}
+		catch (e)
+		{     
+			try
+			{       
+				xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");        
+			}
+			catch (e)
+			{        
+				alert("Your browser does not support AJAX!");        
+				return false;        
+			}      
+		}    
+	}
+	return xmlHttp;
+}
+</script>
+
+<script language="javascript" type="text/javascript">
+
+var pocs=0;
+var num_rowsc;
+
+function changePosition_c(id)
+{
+	if (this.posc > 0 && this.posc <= num_rowsc)
+	{
+		div_id = "sc"+this.posc;
+		document.getElementById(div_id).style.background = '#F1F8FF';
+		document.getElementById("city_name").value = '';
+	}
+		
+	this.posc = id;
+	div_id = "sc"+this.posc;
+	document.getElementById(div_id).style.background = '#ffffff';
+}
+
+function updateSearch_c(id)
+{
+	if (this.posc > 0 && this.posc <= num_rowsc)
+	{
+		div_id = "sc"+this.posc;
+		document.getElementById(div_id).style.background = '#F1F8FF';
+		document.getElementById("city_name").value = '';
+	}
+		
+	this.posc = id;
+	div_id = "sc"+this.posc;
+	document.getElementById(div_id).style.background = '#ffffff';
+	document.getElementById("city_name").value = document.getElementById(div_id +"_value").value.replace(/&amp;/gi, '&');
+	
+	document.getElementById("suggestBoxc").style.visibility = 'hidden';
+	document.getElementById("city_name").focus();
+	document.getElementById("city_name").value = document.getElementById("city_name").value;
+	this.pos = 0;
+}
+
+function suggest_c(e)
+{
+	var intKey = 0;
+	e = (window.event)? event : e;
+	intKey = (e.keyCode)? e.keyCode: e.charCode;
+	
+	if (intKey == 40) //down
+	{
+		
+		
+		//SWITCH THEM OFF
+		if (this.posc>0 && this.posc<=num_rowsc)
+		{
+			
+			div_id = "sc"+this.posc;
+		
+			document.getElementById(div_id).style.background = '#F1F8FF';
+			document.getElementById("city_name").value = '';
+		}
+		
+		//SWITCH THEM ON
+		if (this.posc+1<=num_rowsc)
+		{			
+			//alert('city_down on');
+			this.posc = this.posc+1;
+			div_id = "sc"+this.posc;
+			document.getElementById(div_id).style.background = '#ffffff';
+			document.getElementById("city_name").value = document.getElementById(div_id + "_value").value.replace(/&amp;/gi, '&');
+		}
+		else if(this.posc+1 == num_rowsc+1)
+		{
+			this.posc = this.posc +1;			
+		}
+	}
+	else if (intKey == 38) //up
+	{
+		//SWITCH THEM OFF
+		if (this.posc>0 && this.posc<=num_rows)
+		{
+			div_id = "sc"+this.pos;
+			document.getElementById(div_id).style.background = '#F1F8FF';
+			document.getElementById("city_name").value = '';
+		}
+		
+		//SWITCH THEM ON
+		if (this.posc-1>0)
+		{
+			this.posc = this.posc-1;
+			div_id = "sc"+this.posc;
+			document.getElementById(div_id).style.background = '#ffffff';
+			input_text = 
+			document.getElementById("city_name").value = document.getElementById(div_id + "_value").value.replace(/&amp;/gi, '&');
+		}
+		else if (this.posc-1==0)
+		{
+			this.posc = this.posc-1;
+		}
+	}
+	else 
+	{
+		this.posc=0;
+		getSuggestions_c();
+	}
+}
+
+function getSuggestions_c()
+{
+	xmlHttp=GetXmlHttpObject();
+
+	if (xmlHttp==null)
+	{
+		alert ("Browser does not support HTTP Request");
+		return;
+	}
+
+		var url="/suggest_city.php?str="+document.getElementById("city_name").value+"&sid="+Math.random();
+	xmlHttp.onreadystatechange=displaySuggestions_c;
+	xmlHttp.open("GET",url,true);
+	xmlHttp.send(null);
+}
+
+function displaySuggestions_c() 
+{ 
+	if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+	{ 
+		trimmed = xmlHttp.responseText.replace(/^\s+|\s+$/g, '');
+		
+		delim = trimmed.indexOf(":==:");
+		
+		num_rowsc = parseInt(trimmed.substr(0,delim));
+		//alert(num_rowsc);
+		remaining = trimmed.substr(trimmed.indexOf(":==:")+4);
+		
+		trimmed = remaining;
+		
+		if (remaining!='')
+		{
+			document.getElementById("suggestBoxc").style.visibility = 'visible';
+		
+			document.getElementById("suggestBoxc").innerHTML=remaining;
+		}
+		else
+		{
+			document.getElementById("suggestBoxc").style.visibility = 'hidden';
+			this.posc = 0;
+		}
+	} 	
+}
+
+</script>
+
+<script language="javascript" type="text/javascript">
+
+var posb=0;
+var num_rowsb;
+
+function changePosition_b(id)
+{
+	if (this.posb > 0 && this.posb <= num_rowsb)
+	{
+		div_id = "sb"+this.posb;
+		document.getElementById(div_id).style.background = '#F1F8FF';
+		document.getElementById("search").value = '';
+	}
+		
+	this.posb = id;
+	div_id = "sb"+this.posb;
+	document.getElementById(div_id).style.background = '#ffffff';
+}
+
+function updateSearch_b(id)
+{
+	if (this.posb > 0 && this.posb <= num_rowsb)
+	{
+		div_id = "sb"+this.posb;
+		document.getElementById(div_id).style.background = '#F1F8FF';
+		document.getElementById("search").value = '';
+	}
+		
+	this.posb = id;
+	div_id = "sb"+this.posb;
+	document.getElementById(div_id).style.background = '#ffffff';
+	document.getElementById("search").value = document.getElementById(div_id +"_value").value.replace(/&amp;/gi, '&');
+	
+	document.getElementById("suggestBoxb").style.visibility = 'hidden';
+	document.getElementById("search").focus();
+	document.getElementById("search").value = document.getElementById("search").value;
+	this.posb = 0;
+}
+
+function suggest_b(e)
+{
+	var intKey = 0;
+	e = (window.event)? event : e;
+	intKey = (e.keyCode)? e.keyCode: e.charCode;
+	
+	if (intKey == 40) //down
+	{
+		
+		
+		//SWITCH THEM OFF
+		if (this.posb>0 && this.posb<=num_rowsb)
+		{
+			
+			div_id = "sb"+this.posc;
+		
+			document.getElementById(div_id).style.background = '#F1F8FF';
+			document.getElementById("search").value = '';
+		}
+		
+		//SWITCH THEM ON
+		if (this.posb+1<=num_rowsb)
+		{			
+			//alert('city_down on');
+			this.posb = this.posb+1;
+			div_id = "sb"+this.posb;
+			document.getElementById(div_id).style.background = '#ffffff';
+			document.getElementById("search").value = document.getElementById(div_id + "_value").value.replace(/&amp;/gi, '&');
+		}
+		else if(this.posb+1 == num_rowsb+1)
+		{
+			this.posb = this.posb +1;			
+		}
+	}
+	else if (intKey == 38) //up
+	{
+		//SWITCH THEM OFF
+		if (this.posb>0 && this.posb<=num_rows)
+		{
+			div_id = "sb"+this.posb;
+			document.getElementById(div_id).style.background = '#F1F8FF';
+			document.getElementById("search").value = '';
+		}
+		
+		//SWITCH THEM ON
+		if (this.posb-1>0)
+		{
+			this.posb = this.posb-1;
+			div_id = "sb"+this.posb;
+			document.getElementById(div_id).style.background = '#ffffff';
+			input_text = 
+			document.getElementById("search").value = document.getElementById(div_id + "_value").value.replace(/&amp;/gi, '&');
+		}
+		else if (this.posb-1==0)
+		{
+			this.posb = this.posb-1;
+		}
+	}
+	else 
+	{
+		this.posb=0;
+		getSuggestions_b();
+	}
+}
+
+function getSuggestions_b()
+{
+	xmlHttp=GetXmlHttpObject();
+
+	if (xmlHttp==null)
+	{
+		alert ("Browser does not support HTTP Request");
+		return;
+	}
+
+		
+	var url="/suggest_bus.php?str="+document.getElementById("search").value +"&city_name=" + document.getElementById("city_name").value +"&industry_name=" +document.getElementById("industry_name").value +"&sid="+Math.random();
+	xmlHttp.onreadystatechange=displaySuggestions_b;
+	xmlHttp.open("GET",url,true);
+	xmlHttp.send(null);
+}
+
+ 
+function displaySuggestions_b() 
+{ 
+	if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+	{ 
+		trimmed = xmlHttp.responseText.replace(/^\s+|\s+$/g, '');
+		
+		delim = trimmed.indexOf(":==:");
+		
+		num_rowsb = parseInt(trimmed.substr(0,delim));
+		//alert(num_rowsc);
+		remaining = trimmed.substr(trimmed.indexOf(":==:")+4);
+		
+		trimmed = remaining;
+		
+		if (remaining!='')
+		{
+			document.getElementById("suggestBoxb").style.visibility = 'visible';
+		
+			document.getElementById("suggestBoxb").innerHTML=remaining;
+		}
+		else
+		{
+			document.getElementById("suggestBoxb").style.visibility = 'hidden';
+			this.posb = 0;
+		}
+	} 	
+}
+
+</script>
+
+<script language="javascript">
+
+function clickedon(id)
+{
+	if(document.getElementById('city_name').value=='')
+	{
+		document.getElementById('city_name').value='Find your Area';
+	}else if(id=='city_name' && document.getElementById('city_name').value=='Find your Area')
+	{
+		document.getElementById('city_name').value='';
+	}
+	
+	if(document.getElementById('industry_name').value=='')
+	{
+		document.getElementById('industry_name').value='Search by Category';
+	}else if(id=='industry_name' && document.getElementById('industry_name').value=='Search by Category')
+	{
+		document.getElementById('industry_name').value='';
+	}
+	
+	if(document.getElementById('search').value=='')
+	{
+		document.getElementById('search').value='Business Name';
+	}else if(id=='search' && document.getElementById('search').value=='Business Name')
+	{
+		document.getElementById('search').value='';
+	}
+	
+	document.getElementById('suggestBoxc').style.visibility='hidden';
+	document.getElementById('suggestBox').style.visibility='hidden';
+	document.getElementById('suggestBoxb').style.visibility='hidden';
+
+	
+}
+
+</script>
+
+<link href="/includes/front.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" background="/images/top-faded.gif">
+		<tbody><tr>
+				<td><img src="/images/top-faded.gif" width="11" height="10"></td>
 		</tr>
-</tbody></table>
-<table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>				
-	<td align="center"><a onmouseover="window.status='Find a business.' ; return true;" href="http://www.citylocal.co.uk/cities/Southampton/business/All/"><img src="http://www.citylocal.co.uk/images/findabusiness.gif" alt="Find a business." name="a" border="0" id="a"></a></td>
-	<td align="center"><a onmouseover="window.status='Home.' ; return true;" href="http://www.citylocal.co.uk/cities/Southampton"><img src="http://www.citylocal.co.uk/images/localhome.gif" alt="Home." border="0" name="b"></a></td>
-	<td align="center"><a onmouseover="window.status='Property for Sale.' ; return true;" href="http://www.citylocal.co.uk/frontend/property/property.php?cityid=276&amp;category=1"><img src="http://www.citylocal.co.uk/images/propertyforsale.gif" alt="Property For Sale" border="0" name="b"></a></td>
-	<td align="center"><a onmouseover="window.status='Free Adverts.' ; return true;" href="http://www.citylocal.co.uk/cities/Southampton/freeadvert_0.html"><img src="http://www.citylocal.co.uk/images/postfreead.gif" alt="Articles for sale." border="0" name="c"></a></td>
-	<td align="center"><a onmouseover="window.status='Local Events.' ; return true;" href="http://www.citylocal.co.uk/cities/Southampton/events/"><img src="http://www.citylocal.co.uk/images/localevents.gif" alt="Local Events." border="0" name="d"></a></td>
-	<td align="center"><a onmouseover="window.status='Fun Pages' ; return true;" href="http://www.citylocal.co.uk/frontend/funpages.php?cityid=276"><img src="http://www.citylocal.co.uk/images/funpages.gif" alt="Fun Pages." border="0" name="f"></a></td>
-	</tr>
 </tbody></table>
 
-<table width="780" height="20" border="0" align="center" cellpadding="0" cellspacing="0">
-  		<tbody><tr>
-				<td align="center"><a href="http://www.citylocal.co.uk/frontend/advertise.php?cityid=276"><img src="http://www.citylocal.co.uk/images/button-small1.gif" width="114" height="15" border="0"></a></td>
-				<td align="center"><a href="http://www.citylocal.co.uk/"><img src="http://www.citylocal.co.uk/images/nationalhome.gif" width="114" height="15" border="0"></a></td>
-				<td align="center"><a href="http://www.citylocal.co.uk/frontend/property/property.php?cityid=276&amp;category=2"><img src="http://www.citylocal.co.uk/images/button-property-rent.gif" width="114" height="15" border="0"></a></td>
-				<td align="center"><a href="http://www.citylocal.co.uk/cities/Southampton/news/"><img src="http://www.citylocal.co.uk/images/button-small-news.gif" width="114" height="15" border="0"></a></td>
-				
-				<td align="center"><a href="http://www.citylocal.co.uk/frontend/cinemas.php?cityid=276"><img src="http://www.citylocal.co.uk/images/button-cinema.gif" width="114" height="15" border="0"></a></td>
-				<td align="center"><a href="http://www.citylocal.co.uk/frontend/contactus.php?cityid=276"><img src="http://www.citylocal.co.uk/images/contactussm.gif" width="114" height="15" border="0"></a></td>
-		</tr>
-</tbody></table><table width="780" border="0" align="center" cellpadding="5" cellspacing="0">
-  <!--DWLayoutTable-->
+
+<div align="center">
+
+
+	
+<div style="width:800px;" align="left">
+
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
   <tbody><tr>
-				<td valign="top" width="20%">
+    <td rowspan="2" width="80">
+    <img src="http://www.citylocal.co.uk/images/city-logo-anim.gif" style="padding-bottom: 0px;"></td>
+    <td width="187" valign="bottom">    
+        	<img src="http://www.citylocal.co.uk/images/city-banner-text-nofind.gif">
+    	   
+    </td>
+    <td width="513" valign="middle">    
+    
+    		<h1 style="display: inline;">UK Business Directory</h1>
+		    
+    
+    </td>
+  </tr>
+    <tr>
+    <td width="700" valign="bottom" colspan="2">    
+    <p style="padding-left: 30px; font-size: 10px;">Welcome to citylocal.co.uk a <b>UK Directory </b>run by <b>local people</b> 
+    for <b>local people</b></p></td>
+  </tr>
+  </tbody></table><br>
+
+
+<table>
+<tbody><tr>
+	<td valign="top">
+	<form action="http://www.citylocal.co.uk/frontend/searchredirect.php" style="padding:0px; margin:0px;">
+		
+			<div>
+						
+			<input name="city_name" type="text" value="Find your Area" onfocus="clickedon('city_name');" onkeyup="javascript: suggest_c(event);" id="city_name" autocomplete="off" class="INPUT1" style="width:145px;">
+			</div>
+			<div style="width:135px; position:absolute; background-color:#F1F8FF; border:solid 1px #000000;visibility:hidden;padding:5px;font-size:12px;font-family:Arial;" id="suggestBoxc">
+			</div>
+			
+			<div style="height:8px;"></div>
+			
+			<div>
+						
+			<input name="industry_name" type="text" value="Search by Category" onfocus="clickedon('industry_name');" onkeyup="javascript: suggest(event);" id="industry_name" autocomplete="off" class="INPUT1" style="width:145px;">
+			</div>
+			<div style="width:135px; position:absolute; background-color:#F1F8FF; border:solid 1px #000000;visibility:hidden;padding:5px;font-size:12px;font-family:Arial;" id="suggestBox">
+			</div>
+			
+		
+			
+			<div style="height:8px;"></div>
+			
+			<div>
+						
+			<input name="search" type="text" value="Business Name" onfocus="clickedon('search');" onkeyup="javascript: suggest_b(event);" id="search" autocomplete="off" class="INPUT1" style="width:105px;">  <input type="submit" value="GO" class="button">
+			</div>
+			<div style="width:135px; position:absolute; background-color:#F1F8FF; border:solid 1px #000000;visibility:hidden;padding:5px;font-size:12px;font-family:Arial;" id="suggestBoxb">
+			</div>
+			
+			</form>	</td>
+	<td valign="top"><a href="/"><img src="/images/nationalhomebut.gif" border="0"></a></td>
+	<td valign="top"><a href="/frontend/postbusiness.php?homepage=yes" "=""><img src="/images/addbusiness.gif" border="0"></a></td>
+	<td valign="top"><a href="/frontend/postproperty.php?homepage=yes" "=""><img src="/images/advertiseproperty2.gif" border="0"></a></td>
+	<td valign="top"><a href="/frontend/postevent.php?homepage=yes" "=""><img src="/images/postaneventfree.gif" border="0"></a></td>
+	<td valign="top"><a href="/frontend/postfreeadvert.php?homepage=yes" "=""><img src="/images/post-a-free-ad.gif" border="0"></a></td>	
+</tr>
+</tbody></table>
+
+<table width="800">
+<tbody><tr>
+		<td valign="top" width="500">
+	<div id="content" style="width:480px;">
+	
 <h1>Privacy Policy</h1>
 <p class="mainbody">This privacy policy explains what  information has been collected about you, how personal information is being  used, to whom personal information is being disclosed and how this personal  information is stored and protected. This privacy policy has been developed in  accordance with our legal obligations and may be updated from time to time.  This policy applies whether or not you choose to advertise on anycitylocal.co.uk  site.<br>
   By accessing and utilising the  citylocal.co.uk website and any subsidiary sites maintained by  authorised franchisees trading under the style “citylocal.co.uk” you consent  to the use of any data collected as set out in this policy. You should review  this privacy policy regularly, to note any changes relating to how we collect  and use information.&nbsp; <br>
@@ -84,30 +691,132 @@
  </p><p align="center" class="mainbody"> <strong>Company and Data  Protection Information</strong> <br></p>
  <p class="mainbody">
   The data controller  of data on the citylocal.co.uk is CityLocal Limited, a company in the  registered in Scotland under  company number SC312837, whose registered office is at  1  Ralston Mount, Broughty Ferry, Dundee,   DD5 1NN. Any  queries or notices under the Data Protection Act 1998 should be sent to the  above address. </p>
+</div>
 </td>
-		</tr>
-</tbody></table><p align="center">
+<td valign="top">
+		<table cellpadding="0" cellspacing="0" width="300">
+<tbody><tr>
+	<td colspan="2"><img src="/images/right-top-new.gif"></td>
+</tr>
+<tr>
+	<td bgcolor="#F1F8FF" colspan="" valign="top" style="padding-left:10px;" height="600" width="150">
+	
+	<h2>England</h2><br>
+				<a href="http://www.citylocal.co.uk/cities/Basildon/" class="rightnavselected">Basildon</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Basingstoke/" class="rightnavselected">Basingstoke</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Bournemouth/" class="rightnav">Bournemouth</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Brighton/" class="rightnavselected">Brighton &amp; Hove</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Cambridge/" class="rightnav">Cambridge</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Canterbury/" class="rightnavselected">Canterbury</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Chesterfield/" class="rightnavselected">Chesterfield</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Derby/" class="rightnavselected">Derby</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Fareham/" class="rightnavselected">Fareham</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Gloucester/" class="rightnavselected">Gloucester</a><br>
+						<a href="http://www.citylocal.co.uk/cities/HavantandWaterlooville/" class="rightnavselected">Havant &amp; Waterlooville</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Ilkeston/" class="rightnavselected">Ilkeston</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Leeds-Central/" class="rightnav">Leeds Central</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Lincoln/" class="rightnavselected">Lincoln</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Liverpool/" class="rightnavselected">Liverpool Central</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Maidstone/" class="rightnavselected">Maidstone</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Manchester/" class="rightnavselected">Manchester Central</a><br>
+						<a href="http://www.citylocal.co.uk/cities/MiltonKeynes/" class="rightnavselected">Milton Keynes</a><br>
+						<a href="http://www.citylocal.co.uk/cities/NewcastleUnderLyme/" class="rightnavselected">Newcastle-U-Lyme</a><br>
+						<a href="http://www.citylocal.co.uk/cities/NewtonAbbot/" class="rightnavselected">Newton Abbot</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Northampton/" class="rightnavselected">Northampton</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Norwich/" class="rightnavselected">Norwich</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Oxford/" class="rightnav">Oxford</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Poole/" class="rightnav">Poole</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Portsmouth/" class="rightnavselected">Portsmouth</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Preston/" class="rightnavselected">Preston</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Redbridge/" class="rightnav">Redbridge</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Southampton/" class="rightnavselected">Southampton</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Stockton/" class="rightnavselected">Stockton-on-Tees</a><br>
+						<a href="http://www.citylocal.co.uk/cities/SuttonColdfield/" class="rightnavselected">Sutton Coldfield</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Wigan/" class="rightnavselected">Wigan</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Windsor/" class="rightnavselected">Windsor &amp; Maidenhead</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Wolverhampton/" class="rightnavselected">Wolverhampton</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Worthing/" class="rightnavselected">Worthing</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Yateley/" class="rightnav">Yateley</a><br>
+						<a href="http://www.citylocal.co.uk/cities/York/" class="rightnav">York</a><br>
+			<br>
+		
+	
+		
+	
+	</td>
+	<td bgcolor="#F1F8FF" valign="top" class="rightnav" width="150">
+	<h2>London</h2><br>
+				<a href="http://www.citylocal.co.uk/cities/Barnet/" class="rightnavselected">Barnet</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Bexley/" class="rightnav">Bexley</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Brent/" class="rightnavselected">Brent</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Camden/" class="rightnavselected">Camden</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Ealing/" class="rightnav">Ealing</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Greenwich/" class="rightnav">Greenwich</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Hackney/" class="rightnav">Hackney</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Harrow/" class="rightnavselected">Harrow</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Hounslow/" class="rightnav">Hounslow</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Islington/" class="rightnav">Islington</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Lambeth/" class="rightnav">Lambeth</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Newham/" class="rightnav">Newham</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Richmond/" class="rightnavselected">Richmond</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Westminster/" class="rightnav">Westminster</a><br>
+				<div style="height:5px;"></div>
+	
+	<h2>Scotland</h2><br>
+	
+				<a href="http://www.citylocal.co.uk/cities/Aberdeen/" class="rightnav">Aberdeen</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Dundee/" class="rightnavselected">Dundee</a><br>
+						<a href="http://www.citylocal.co.uk/cities/EdinburghWest/" class="rightnavselected">Edinburgh West</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Fife/" class="rightnavselected">Fife</a><br>
+						<a href="http://www.citylocal.co.uk/cities/GlasgowSouth/" class="rightnavselected">Glasgow South</a><br>
+						<a href="http://www.citylocal.co.uk/cities/PerthandKinross/" class="rightnav">Perth &amp; Kinross</a><br>
+				<div style="height:5px;"></div>
+	
+	
+	<h2>Ireland</h2><br>
+	
+				<a href="http://www.citylocal.co.uk/cities/Belfast/" class="rightnavselected">Belfast</a><br>
+							<a href="http://www.citylocal.ie/cities/Cork/" class="rightnavselected">Cork</a><br>
+							<a href="http://www.citylocal.ie/cities/DublinNorth/" class="rightnav">Dublin North</a><br>
+							<a href="http://www.citylocal.ie/cities/DublinSouth/" class="rightnavselected">Dublin South</a><br>
+							<a href="http://www.citylocal.ie/cities/Kerry/" class="rightnavselected">Kerry</a><br>
+							<a href="http://www.citylocal.ie/cities/Limerick/" class="rightnavselected">Limerick</a><br>
+							<a href="http://www.citylocal.ie/cities/Mayo" class="rightnavselected">Mayo</a><br>
+				<div style="height:5px;"></div>
+	<h2>Wales</h2><br>
+	
+				<a href="http://www.citylocal.co.uk/cities/Cardiff/" class="rightnav">Cardiff</a><br>
+						<a href="http://www.citylocal.co.uk/cities/ChesterandWrexham/" class="rightnavselected">Chester &amp; Wrexham</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Newport/" class="rightnav">Newport</a><br>
+						<a href="http://www.citylocal.co.uk/cities/Swansea/" class="rightnav">Swansea</a><br>
+			
+	</td>
+</tr>
+<tr>
+	<td colspan="2"><img src="/images/right-bot-new.gif"></td>
+</tr>
+</tbody></table>		
+</td>
+</tr>
 
-	<a href="http://www.citylocal.co.uk/cities/Wigan/" class="mainlink">Your Area</a> <font color="#6699CC">|</font>
-	<a href="http://www.citylocal.co.uk/cities/Southampton/business/All/" class="mainlink">Find 
-  a business</a> <font color="#6699CC">|</font> <a href="http://www.citylocal.co.uk/frontend/franchiseinfo.php?cityid=276" border="0" "="" class="mainlink">Franchise 
-  Information</a> <font color="#6699CC">|</font> <a href="http://www.citylocal.co.uk/frontend/property/property.php?cityid=276&amp;category=forrent" class="mainlink">Rent 
-  Property</a> <font color="#6699CC">|</font> <a href="http://www.citylocal.co.uk/frontend/funpages.php?cityid=276" class="mainlink">Fun 
-  Pages</a> <font color="#6699CC">|</font> <a href="http://www.citylocal.co.uk/frontend/listcities.php" class="mainlink">List 
-  Cities</a> <font color="#6699CC">|</font> <a href="http://www.citylocal.co.uk/cities/All/industries/" class="mainlink">List 
-  Categories</a> <font color="#6699CC">|</font> <a href="http://www.citylocal.co.uk/frontend/privacypolicy.php" class="mainlink">Privacy Policy</a> <font color="#6699CC">|</font> <a href="http://www.citylocal.co.uk/frontend/termsandconditions.php" class="mainlink">Terms &amp; Conditions</a></p>
+</tbody></table>
+</div>
+<p align="center">
+	<a href="http://www.citylocal.ie" border="0" "="" class="mainlink">CityLocal Ireland</a>
+  <font color="#6699CC">|</font> 
+  <a href="http://www.citylocal.co.uk/frontend/franchiseinfo.php?cityid=79" border="0" "="" class="mainlink">Franchise Opportunity</a> <font color="#6699CC">|</font> 
+  <a href="http://www.citylocal.co.uk/frontend/property/property.php?cityid=&amp;category=forrent&amp;homepage=yes" class="mainlink">Rent Property</a> <font color="#6699CC">|</font> 
+  <a href="http://www.citylocal.co.uk/frontend/property/property.php?cityid=&amp;category=forsale&amp;homepage=yes" class="mainlink">Buy Property</a> <font color="#6699CC">|</font> 
+<a href="http://www.citylocal.co.uk/frontend/funpages.php?homepage=yes" class="mainlink">Fun 
+  Pages</a> <font color="#6699CC">|</font> <a href="http://www.citylocal.co.uk/frontend/listcities.php" class="mainlink">List Cities</a> <font color="#6699CC">|</font> 
+ <a href="http://www.citylocal.co.uk/cities/All/industries/" class="mainlink">List Categories</a><br>
+
+  <a href="http://www.citylocal.co.uk/business/287791/Plasterman/" class="mainlink">Latest Business</a> <font color="#6699CC">|</font> <a href="http://www.citylocal.co.uk/frontend/privacypolicy.php" class="mainlink">Privacy Policy</a> <font color="#6699CC">|</font> <a href="http://www.citylocal.co.uk/frontend/termsandconditions.php" class="mainlink">Terms &amp; Conditions</a> <font color="#6699CC">|</font> 
+ <a href="http://www.citylocal.co.uk/disclaimer" class="mainlink">Disclaimer</a> <font color="#6699CC">|</font> 
+ <a href="http://www.citylocal.co.uk/cities/Dundee/news/article/921/" class="mainlink">Work From Home</a> <font color="#6699CC">|</font> 
+  <a href="http://www.citylocal.co.uk/cities/Dundee/news/article/922/" class="mainlink">Be Your Own Boss</a> <font color="#6699CC">|</font>   <a href="http://www.citylocal.co.uk/frontend/latestbusinesslistings.php" class="mainlink">Latest Business Listings</a> 
+ </p>
+ 
+ 
   
-  <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3654076-4");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
-
-
-
-</body></html>
+ </div></body></html>
