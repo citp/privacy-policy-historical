@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629051056id_/http%3A//www.dana-farber.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216063720id_/http%3A//www.dana-farber.org/privacy-policy) for the most accurate reproduction.*
 
 # Dana-Farber Privacy Statement
 
@@ -59,5 +59,3 @@ Updated August 2005
 
 **Health on the Net Foundation** – We comply with the [HONcode standard](http://www.hon.ch/HONcode/Conduct.html "Go to http://www.hon.ch/HONcode/Conduct.html \(opens in a new window\)") for trustworthy health information:  
 [verify here](http://www.hon.ch/HONcode/Conduct.html?HONConduct461196 "Go to http://www.hon.ch/HONcode/Conduct.html?HONConduct461196 \(opens in a new window\)"). 
-
-[E-mail this page](https://web.archive.org/email-page?pageUrl=http%3a%2f%2fwww.dana-farber.org%2fprivacy-policy%2fDefault.html)
