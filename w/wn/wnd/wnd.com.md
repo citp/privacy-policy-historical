@@ -1,68 +1,25 @@
-> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606174951id_/http%3A//www.wnd.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152255id_/http%3A//www.wnd.com/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**
-
-[](http://shop.wnd.com/store/)
-
+**  
+  
+  
 | **   FREE News Flashes**  
 ---  
     
   
   
-   
----  
-WND Directory|    
-[Shop.WND](http://shop.wnd.com/)  
-[Page 1 News](http://www.wnd.com/index.php)  
-[Page 2 News](http://www.wnd.com/Page%202)  
-[Commentary](http://www.wnd.com/Commentary)  
-[G2 Bulletin](http://g2.wnd.com/)  
-[WND Poll](http://forums.wnd.com/?pageId=34)  
-[WND Forums](http://forums.wnd.com/)  
-[Letters to the Editor](http://www.wnd.com/index.php?fa=PAGE.view&pageId=40)  
-[MoneyNetDaily](http://www.wnd.com/MoneyNetDaily)  
-[SportsNetDaily](http://www.breitbart.com/index.php?category=5)  
-[TV Guide](http://www.tvguide.com/)  
-[Weather](http://www.accuweather.com/adcbin/index?partner=WNDAILY)  
   
-  
-   
-WND Resources|    
-[About WND](http://www.wnd.com/About%20WND)  
-[WND Scoops](http://www.wnd.com/WND%20Scoops)  
-[WND Books](http://shop.wnd.com/store/subdept.asp?SUBDEPARTMENT_ID=131)  
-[Advertise with WND](http://www.wnd.com/?pageId=22)  
-[WND RSS feeds](http://www.wnd.com/index.php?pageId=55789)  
-[News Alerts Sign Up](http://www.wnd.com/index.php?fa=PAGE.view&pageId=47)  
-[Voluntary Payment](http://shop.wnd.com/store/subdept.asp?SUBDEPARTMENT_ID=84)  
-[US Newspapers](http://www.wnd.com/U.S.%20Newspapers)  
-[Foreign Newspapers](http://www.wnd.com/Foreign%20Newspapers)  
-[Major News Wires](http://www.wnd.com/Major%20News%20Wires)  
-[Other News Services](http://www.wnd.com/Other%20News%20Services)  
-[Other Sites](http://www.wnd.com/Other%20Sites)  
-[Writers Archives](http://www.wnd.com/Writer's%20Archive)  
-[Government Officials](http://www.visi.com/juan/congress/)  
-[Search Engines](http://www.wnd.com/Search%20Engines)  
-[Media](http://www.wnd.com/Media)  
-[Entertainment](http://www.wnd.com/Entertainment)  
-  
-  
-   
-WND People|    
-[Contact WND](http://www.wnd.com/Contact%20WND)  
-[Who's Who at WND](http://www.wnd.com/Who's%20Who%20at%20WND)  
-[Speakers and Talk Show Guests](http://www.wnd.com/index.php?pageId=57616)  
-[Columnists](http://www.wnd.com/WND%20Columnists)  
-   
-|    
 ** | 
 
   
 
 
 * * *
+
+  
+
 
 * * *
 
@@ -161,54 +118,12 @@ _Privacy statement updated Aug. 5, 2004._
 * * *
 
   
+  
 
 
 * * *
 
-|  |    
+|  |   
   
   
-[](http://shop.wnd.com/store/item.asp?ITEM_ID=108)   
-[](http://shop.wnd.com/store/item.asp?ITEM_ID=343)[](http://shop.wnd.com/store/item.asp?ITEM_ID=983)
 
-[](http://g2.wnd.com/)
-
-|    
----  
-Today's WND  
-News Highlights|    
-['Green' website tells when you should die](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66321)  
-[Jury acquits another Haditha Marine](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66297)  
-[Obama's VP team has link to Marc Rich](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66342)  
-[Obama denies Michelle made derogatory remark](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66354)  
-[Did Hamas 'un-endorse' Obama?](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66304)  
-[God-denying billboard recruits atheists](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66323)  
-[Failed abortion proves a blessing](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66301)  
-[Holy water? Christian man's car 'gets 100 miles per ounce'](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66204)  
-[Judge sued for ordering spankings](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66298)  
-[Islam-promoting principal out](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66299)  
-[Supremes asked to stop 'gay' indoctrination](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66190)  
-[Envoy: Sudan violence percolating](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66314)  
-[Historic district fights to keep cross](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66325)  
-[Priest investigated for quoting Bible](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66247)  
-[Firefighter stops at Burger King before saving woman](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66191)  
-[U.S. threatened by al-Qaida propaganda](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66042)  
-   
-Today's WND  
-Commentary Highlights|    
-[Why I don't have a column today  
-\- By Joseph Farah](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66361)  
-[Mindless monolith: Media pick Obama  
-\- By Ilana Mercer](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66341)  
-[Don't quit now, Hillary!  
-\- By Melanie Morgan](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66306)  
-[Joe Biden's war on dads  
-\- By Phyllis Schlafly](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66300)  
-[A proud day for America  
-\- By Bill Press](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66324)  
-[The arrogance of Obama 'uniters'  
-\- By David Limbaugh](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66322)  
-[The late great 1st Amendment  
-\- By Hal Lindsey](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66362)  
-[Same-sex marriage and polygamist cults  
-\- By Stephen Baskerville](http://www.wnd.com/index.php?fa=PAGE.view&pageId=66302)
