@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myplaycity.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630205256id_/http%3A//www.myplaycity.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplaycity.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015933id_/http%3A//www.myplaycity.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MyPlayCity
 
@@ -55,7 +55,7 @@ MyPlayCity, Inc
 901 N. Pitt St.  
 Suite 3255  
 Alexandria, VA 22314, USA  
-E-mail: [privacy@myplaycity.com](mailto:privacy@myplaycity.com)  
-© MyPlayCity, Inc 
+© MyPlayCity, Inc   
+[Contact Us](https://web.archive.org/support)
 
 All trademarks are the property of their respective owners. All Rights Reserved. 
