@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readingeagle.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609205837id_/http%3A//readingeagle.com/Article.aspx%3Fid%3D44841) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingeagle.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216060854id_/http%3A//readingeagle.com/Article.aspx%3Fid%3D44841) for the most accurate reproduction.*
 
-# Privacy Policy - Reading Eagle Newspaper
+# Privacy Policy
 
 Reading Eagle Company and readingeagle.com strive to offer visitors to our site a personal Internet experience, and to do this, we may from time to time ask for or use information such as your name, e-mail address, street address, telephone number, or certain demographic information subject to the terms of this privacy policy. This policy applies to information collected online and is not applicable to information collected or used by Reading Eagle Company or readingeagle.com through other means.
 
