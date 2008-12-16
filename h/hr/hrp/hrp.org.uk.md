@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517024919id_/http%3A//www.hrp.org.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022410id_/http%3A//www.hrp.org.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Historic Royal Palaces > Home > Privacy Policy
 
@@ -33,7 +33,7 @@ We need your name and address so we can send you the brochure. If you have given
 
 This information will not be given to any third party, except to the extent and for the purpose we may be required to do so by any law. If you wish us to stop contacting you email [marketing@hrp.org.uk](mailto:marketing@hrp.org.uk "Send an email to marketing@hrp.org.uk")
 
-By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by Historic Royal Palaces in the manner set out in this Privacy Policy. If you have any questions or concerns about the information we hold about you, you can also email [marketing@hrp.org.uk](mailto:marketing@hrp.org.uk "Send an email to marketing@hrp.org.uk").
+    4. By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by Historic Royal Palaces in the manner set out in this Privacy Policy. If you have any questions or concerns about the information we hold about you, you can also email [marketing@hrp.org.uk](mailto:marketing@hrp.org.uk "Send an email to marketing@hrp.org.uk").
 
   3. ###  What are cookies and do we use them?
 
