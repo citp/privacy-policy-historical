@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netwrix.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414194243id_/http%3A//www.netwrix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netwrix.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216085200id_/http%3A//www.netwrix.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - NetWrix Corporation
 
-[ About Us ](https://web.archive.org/web/20080414194243id_/http%3A//www.netwrix.com/company.html) [ Contact Us ](https://web.archive.org/web/20080414194243id_/http%3A//www.netwrix.com/contact.html) [ News ](https://web.archive.org/web/20080414194243id_/http%3A//www.netwrix.com/news.html) [ Press Coverage ](https://web.archive.org/web/20080414194243id_/http%3A//www.netwrix.com/press_coverage.html)   
+[ About Us ](https://web.archive.org/web/20081216085200id_/http%3A//www.netwrix.com/company.html) [ Contact Us ](https://web.archive.org/web/20081216085200id_/http%3A//www.netwrix.com/contact.html) [ Our Customers ](https://web.archive.org/web/20081216085200id_/http%3A//www.netwrix.com/customers.html) [ Press Coverage ](https://web.archive.org/web/20081216085200id_/http%3A//www.netwrix.com/press_coverage.html) [ News ](https://web.archive.org/web/20081216085200id_/http%3A//www.netwrix.com/news.html) [ Careers ](https://web.archive.org/web/20081216085200id_/http%3A//www.netwrix.com/careers.html)   
 | 
 
 ## Privacy Policy
@@ -38,3 +38,7 @@ We are not structured to attract children. Accordingly, we do not intend to coll
 ### Your Consent
 
 By using this Web site, you consent to the terms of our Online Privacy Policy and to our processing of Personal Information for the purposes given above as well as those explained where we collect Personal Information on the Web. 
+
+### Your California Privacy Rights
+
+California Civil Code Section 1798.83 permits customers of the NetWrix Corporation who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [contact us](https://web.archive.org/web/20081216085200id_/http%3A//www.netwrix.com/contact.html). 
