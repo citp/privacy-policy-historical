@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612102351id_/http%3A//www.verio.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153200id_/http%3A//www.verio.com/about/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Verio Privacy Policy
 
 In the course of serving its customers, Verio acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. Some of this information - such as the customer's name, address, telephone number, and credit card data - is provided to Verio by its customers in order to establish service. Other information - such as the customer's account status, choice of services, and customer logs - is created and maintained by Verio in the normal course of providing service. Verio also uses cookies, which are small pieces of information that a web site can store in a designated file on a user's computer for various reasons. For example, Verio uses cookies on the landing pages of products sold online which record the customer information that is required on the order form. This information is then forwarded to an internal sales tracking database within Verio. In addition, Verio may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications. 
 
@@ -18,7 +18,7 @@ Verio may share customer information with selected partners, for example, to pro
 
 **Opt Out & Modifications **
 
-Customers may opt out of receiving notices of new or upgraded products from Verio and Verio partners by filling out this on-line [No Solicitation Request](https://web.archive.org/web/20080612102351id_/http://www.verio.com/about/legal/privacy/optout.cfm) form. However, customers may not opt out of receiving information from Verio that is essential for maintaining or updating customers' accounts or system information. 
+Customers may opt out of receiving notices of new or upgraded products from Verio and Verio partners by filling out this on-line [No Solicitation Request](https://web.archive.org/web/20081216153200id_/http://www.verio.com/about/legal/privacy/optout.cfm) form. However, customers may not opt out of receiving information from Verio that is essential for maintaining or updating customers' accounts or system information. 
 
 Most customers may access and modify their personal information via their online personal control panel/account information page. All other customers may access and modify their personal information by contacting the appropriate Verio Billing organization. 
 
@@ -26,7 +26,9 @@ Domain name customers who have registered a domain name with Verio and wish to c
 
 **Disclosure of customer information and communications**
 
-Verio will not otherwise disclose its customers' personal and account information unless Verio has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Verio, Verio's customers, or others, or where Verio has a good faith belief that the law requires such disclosure such as in response to legal process seeking disclosure of such information. Verio also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that Verio stores or transmits for its customers. The circumstances under which Verio will disclose such electronic customer communications are when: 
+Verio will not otherwise disclose its customers' personal and account information unless Verio has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Verio, Verio's customers, or others, or where Verio has a good faith belief that the law requires such disclosure such as in response to legal process seeking disclosure of such information. 
+
+Verio also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that Verio stores or transmits for its customers. The circumstances under which Verio will disclose such electronic customer communications are when: 
 
   1. it is necessary in order to provide service to the customer; 
   2. it is necessary to protect the legitimate interests of Verio and its customers; 
