@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addforums.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612064655id_/http%3A//addforums.com/forums/showthread.php%3Fp%3D236963%23post236963) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addforums.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011821id_/http%3A//addforums.com/forums/showthread.php%3Fp%3D236963%23post236963) for the most accurate reproduction.*
 
 # Privacy Policy - ADHD Forums - Attention Deficit Hyperactivity Disorder Support and Information Resources Community
 
