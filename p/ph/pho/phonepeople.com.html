@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the phonepeople.com privacy policy that was archived on 2008-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080602034054id_/http%3A//www.phonepeople.com/%28S%28aj1wou55jlje5555vtdoiw55%29%29/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phonepeople.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216032322id_/http%3A//www.phonepeople.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_baseHeader"><link id="ctl00_ctl00_Link1" rel="stylesheet" type="text/css" href="CSS/global.css">
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_baseHeader">    
+    
     <script language="JavaScript">
-    <!-- Overture Services, Inc
+    <!-- Overture Services, Inc -->
     var pm_tagname = "universalTag.txt";
     var pm_tagversion = "1.4";
     var pm_accountid = "KPJJ51TNDCAG6M2B78CVG78KJ4";
@@ -12,361 +12,93 @@
     var pm_customargs = "";
     var pm_querystr = "?" + "ver=" + pm_tagversion + "&aid=" + pm_accountid + pm_customargs;
     var pm_tag = "<SCR" + "IPT LANGUAGE='JavaScript' " + "SRC=//" + pm_scripthost + "/collweb/ScriptServlet" + pm_querystr + "></SCR" + "IPT>";
-    document.write(pm_tag);
-    
-    // Pre-Loading the Balloon Images.
-    var imgVar1 =new Image();
-    var imgVar2 =new Image();
-    var imgVar3 =new Image();
-    var imgVar4 =new Image();
-//    imgVar1.src='/PhonePeople_v2/images/balloonTop2.gif';    
-//    imgVar2.src ='/PhonePeople_v2/images/balloonMiddleBG3.gif';
-//    imgVar3.src ='/PhonePeople_v2/images/balloonBottomClose2.gif';
-    // -->
-    
-    var http_request = false;
- 
-   function makePOSTRequest(url, parameters) 
-   {
-      http_request = false;
-      if (window.XMLHttpRequest) { // Mozilla, Safari,...
-         http_request = new XMLHttpRequest();
-         if (http_request.overrideMimeType) {
-         	// set type accordingly to anticipated content type
-            //http_request.overrideMimeType('text/xml');
-            http_request.overrideMimeType('text/html');
-         }
-      } else if (window.ActiveXObject) { // IE
-         try {
-            http_request = new ActiveXObject("Msxml2.XMLHTTP");
-         } catch (e) {
-            try {
-               http_request = new ActiveXObject("Microsoft.XMLHTTP");
-            } catch (e) {}
-         }
-      }
-      if (!http_request) {
-         //alert('Cannot create XMLHTTP instance');
-         return false;
-      }
-      
-      //http_request.onreadystatechange = alertContents;
-      http_request.open('POST', url, true);
-      http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-      http_request.setRequestHeader("Content-length", parameters.length);
-      http_request.setRequestHeader("Connection", "close");
-      if($('ballooncontainer')!=null)
-        $('ballooncontainer').style.display='none';
-      http_request.send(parameters);
-   }
-
-   function alertContents() {
-      if (http_request.readyState == 4) {
-         if (http_request.status == 200) {
-            //alert(http_request.responseText);
-            result = http_request.responseText;            
-            //document.getElementById('msg_display').innerHTML = result;            
-         } else {
-            //alert('There was a problem with the request.');
-         }
-      }
-   }
-   
-   // This will Use to set the session flag for balloon when it closed. It is AJAX Postback.
-   // When Any Client Or User close the Balloon it will not come again throught the session.
-   // To remove the stress when it come back on toll free page it again show the balloon if it already closed.
-   function ajaxFunction()
-    {
-      var poststr = "strBalloonValue=1";                    
-      makePOSTRequest('toll-free-800-numbers.aspx', poststr);
-   }
+    document.write(pm_tag);    
     </script><script language="JavaScript" src="//srv.perf.overture.com/collweb/ScriptServlet?ver=1.4&amp;aid=KPJJ51TNDCAG6M2B78CVG78KJ4"></script>
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="description" content="800 number, 800 numbers, voice mail, toll free numbers, toll free service"><meta name="keywords" content="800 number,800 numbers,voice mail,toll free numbers,toll free service,1 800 number,virtual office,toll free voice mail,toll free voicemail,vanity number,voicemail"><meta name="keyphrases" content="800 number,800 numbers,voice mail,toll free numbers,toll free service,1 800 number,virtual office,toll free voice mail,toll free voicemail,vanity number,voicemail"><meta name="robots" content="follow"><link href="CSS/main.css" rel="stylesheet" type="text/css"><title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="description" content="800 number, 800 numbers, voice mail, toll free numbers, toll free service"><meta name="keywords" content="800 number,800 numbers,voice mail,toll free numbers,toll free service,1 800 number,virtual office,toll free voice mail,toll free voicemail,vanity number,voicemail"><meta name="keyphrases" content="800 number,800 numbers,voice mail,toll free numbers,toll free service,1 800 number,virtual office,toll free voice mail,toll free voicemail,vanity number,voicemail"><meta name="robots" content="follow"><script language="JavaScript" src="/javascript/mbox.js" type="text/javascript"></script><style>.mboxDefault { visibility:hidden; }</style><script language="JavaScript" src="/javascript/AC_RunActiveContent.js" type="text/javascript"></script><link href="CSS/NewSignUpGlobal.css" rel="stylesheet" type="text/css"><link href="favicon.ico" rel="shortcut icon" type="image/ico"><link href="CSS/main.css" rel="stylesheet" type="text/css"><script language="JavaScript" src="/javascript/ajaxmanager.js" type="text/javascript"></script><title>
 	PhonePeople.com - Search and Find 800 Numbers
 </title></head>
 <body id="bodytag">
   
     <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm" class="navprivacy">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgJmD2QWAgIBDxYCHgVjbGFzcwUKbmF2cHJpdmFjeRYCAgUPZBYGAgMPZBYCZg9kFgICAQ9kFgICAQ8WAh4Dc3JjBRAvSW1hZ2VzL2xvZ28uZ2lmZAIFD2QWAmYPZBYCAgEPFgIeCWlubmVyaHRtbAWTAVRob3VzYW5kcyBhbmQgdGhvdXNhbmRzIG9mIGN1c3RvbWVycyBjYW4ndCBiZSB3cm9uZy4gV2UgYXJlIG5vdCBhIHJlc2VsbGVyLiBXZSBvcGVyYXRlIG91ciBvd24gZXF1aXBtZW50LiBDYWxsIHVzIGF0IDEtODAwLTUxMC01NTAwIGZvciBhc3Npc3RhbmNlLmQCBw9kFgJmD2QWAgIPDxYCHwEFEi9JbWFnZXMvY3Vyc29yLmdpZmRkhuEK4IF4npQCmfTEm7Gs2p/emHE=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgJmD2QWAgIBDxYCHgVjbGFzcwUKbmF2cHJpdmFjeRYCAgEPZBYCAgMPZBYCZg9kFgICBQ9kFgJmD2QWAgIBDw8WAh4LTmF2aWdhdGVVcmwFF34vdG9sbC1mcmVlLXNlYXJjaC5hc3B4ZGRki35rUfEZ7/9xWP+9iHgXIPWxtKY=">
 
 
-<script src="/ScriptResource.axd?d=Zqcq_Mr0eYq1Nht41htxqWojJrlkwDyngY-5x4li5BYFSTGHC9USGQRMOaNdPd5rqHzx3XPg9pfFNVcwKwRwGr9BIqlxUQQ1nN7i8o4BZPYr9U_rrKVPY-nXnlt9eKFT0&amp;t=633476502188955015" type="text/javascript"></script>
-    <div id="dvCodeContainer"></div>
-        
-        
+<script type="text/javascript">
+//<![CDATA[
+document.write('<script src=/javascript/s_code.js><\/script>');//]]>
+</script><script src="/javascript/s_code.js"></script>
+
+<script src="/ScriptResource.axd?d=Zqcq_Mr0eYq1Nht41htxqWojJrlkwDyngY-5x4li5BYFSTGHC9USGQRMOaNdPd5rqHzx3XPg9pfFNVcwKwRwGl4AZNB0VuHMm-EKtR8Kh9qOwnWoCkUQav9v1hBl4FWh0&amp;t=633644140221813750" type="text/javascript"></script>
         <table align="center" border="0" width="770px" cellpadding="0" cellspacing="0">
             <tbody><tr>
-                <td class="container" valign="top">
-                    <div id="AlertDiv">
-                        <div id="AlertMessage">
-                        </div>
-                        <br>
-                        <div id="AlertButtons">
-                            <input name="ctl00$ctl00$OKButton" type="button" id="ctl00_ctl00_OKButton" value="OK" onclick="ClearErrorState()">
-                        </div>
-                    </div>
+                <td class="container" valign="top">                    
                     
-    <style type="text/css">
-      #AlertDiv{
     
-    left: 40%; top: 40%;
-    position: absolute; width: 500px;
-    padding: 12px; 
-    border: #000000 1px solid;
-    background-color: white; 
-    text-align: left;
-    visibility: hidden;
-    z-index: 99;    
-    }
-  
-    #AlertButtons{
     
-    position: absolute; right: 5%; bottom: 5%;
-    }
-    ol li{margin-left: -10px !important;}
-    </style>
-
-    <!--        COMMENTS
-    
-        The below script is used for handling ajax request.
-        
-        The AJAX Request work on bases of clicked control's x & y position(cordinates).
-        Most probably this will we require for ImageButton's click event and also to eliminate the multiple request.
-        The top most corners of the ImageButton will render the undefined or zero as x,y cordinates value.
-        And this will render the ajax handle error.
-        To eliminate this error and multiple request we have keep this script.
-        This script also use for handle error on server side.
-        
-        1.During InitializeRequest, Validate Request means checking x, y co-ordinates values.
-        2.Ajax Request handles one by one . No mutiple request is handled if one request is in process it will not
-          take other request. Used Condition to check this is "if (!prm.get_isInAsyncPostBack() && continueRequest && !exclusiveFlag)".
-        4.Appropriate Error Handling is done by "EndRequestHandler(..)".
-          The status Code = 500 means "There is Server Error".
-          In this args.set_errorHandled(true) Method:-
-          (*) -- "true" as parameter means our server code will publish error, we tell ajax framework..that we already handled error.
-          (*) -- "false" as parameter means ajax will consider that error no need to worry about error.
-        
-    -->
-
-    <script type="text/javascript" language="javascript">
-    
-            // This Javascript Use to Trace/Handle the AJAX Request.
-    
-            var divElem = 'AlertDiv';
-            var messageElem = 'AlertMessage';
-            var bodyTag = 'bodytag';                        
-            var exclusiveFlag=true;                        
-            var posx=0;
-            var posy=0;            
-            var continueRequest=true;
-            var callValid=true;
-            //debugger;
-            
-                       
-            function InitializeRequest(sender, args)
-            {   
-               // First check, if request need to be validate or not.
-               // Validate request means checking x, y co-ordinates and storing in posx, posy variables.
-               // CallValid variable is set when custom javascript 
-               if(callValid)
-                {
-                    ValidateRequest(args.get_postBackElement());
-                }                
-                callValid=true;
-               
-               if(!continueRequest)
-                {
-                    args.set_cancel(true);
-                    return;
-                }               
-               if (prm.get_isInAsyncPostBack())
-               {           
-                    args.set_cancel(true);                       
-                    return;
-                    //ActivateAlertDiv('visible', 'A previous postback is still executing. The new postback has been canceled.');
-                    //setTimeout("ActivateAlertDiv('hidden','')", 1500);                    
-               }
-               
-               if(continueRequest)
-               {
-                exclusiveFlag = true;                    
-               }
-              }   
-              
-            function ValidateRequest(objPostElement)
-            {
-                
-                if(!window.ActiveXObject)
-                {
-                    continueRequest=true;
-                    return;
-                }
-                
-                var e=window.event;
-                if(e != null)
-                {
-                if(typeof(e) != 'undefined')
-                  { 
-                       var de = document.documentElement;
-                       var b = document.body;
-                       posx = e.clientX +(de.scrollLeft || b.scrollLeft) - (de.clientLeft || 0) - findPosX(objPostElement);
-                       posy = e.clientY +(de.scrollTop || b.scrollTop) - (de.clientTop || 0) - findPosY(objPostElement);   
-                    
-                        if(posx > 1 &&  posy > 1 ){continueRequest=true;}
-                        else{
-                            continueRequest=false;
-                            //prm.abortPostBack();
-                            //exclusiveFlag=false;
-                            }                  
-                  }
-                  }                 
-            }            
-            
-                         
-            function EndRequestHandler(sender, args)
-              {
-               if (args.get_error() != undefined)
-               {   
-                   args.set_errorHandled(true);                    
-               } 
-                
-                if(continueRequest)
-                {
-                    exclusiveFlag=false;                
-                }
-                //Ajit
-                setPricingPopup()
-            }
-            
-           
-              
-            function ActivateAlertDiv(visString, msg)
-                {
-                     var adiv = $get(divElem);
-                     var aspan = $get(messageElem);
-                     adiv.style.visibility = visString;
-                     aspan.innerHTML = msg;
-                }
-            
-            function ToggleAlertDiv(visString)
-            {
-                 if (visString == 'hidden')
-                 {
-                     $get(bodyTag).style.backgroundColor = 'white';                         
-                 }
-                 else
-                 {
-                     $get(bodyTag).style.backgroundColor = 'gray';                         
-                    
-                 }
-                 var adiv = $get(divElem);
-                 adiv.style.visibility = visString;
-                 
-            }
-            
-            function ClearErrorState()
-             {
-                 $get(messageElem).innerHTML = '';
-                 ToggleAlertDiv('hidden');                     
-            } 
-            function findPosX(obj)
-              {
-                var curleft = 0;
-                if(obj.offsetParent)
-                    while(1) 
-                    {
-                      curleft += obj.offsetLeft;
-                      if(!obj.offsetParent)
-                        break;
-                      obj = obj.offsetParent;
-                    }
-                else if(obj.x)
-                    curleft += obj.x;
-                return curleft;
-              }          
-            function findPosY(obj)
-              {
-                var curtop = 0;
-                if(obj.offsetParent)
-                    while(1)
-                    {
-                      curtop += obj.offsetTop;
-                      if(!obj.offsetParent)
-                        break;
-                      obj = obj.offsetParent;
-                    }
-                else if(obj.y)
-                    curtop += obj.y;
-                return curtop;
-              }             
-              
-              //THIS FUNCTION USE TO CLOSE THE SITEPAL CHARATER IF IT WAS OPEN/POPUP BY PRICING CONTROL.
-              function setPricingPopup()
-              {
-                //------
-                if(document.getElementById('audioExpContainer') != null)
-                {
-                    closeLayer('audioExpContainer');
-                }
-                //----------------------
-              } 
-               
-    </script>
-
-    
-    <table style="margin-top:10px;margin-bottom:0px"></table>
-    <table style="margin-top:10px;margin-bottom:0px" align="center" width="770px" cellpadding="0" cellspacing="0" border="0">
-        <tbody><tr id="ctl00_ctl00_ContentPlaceHolder1_trLogo">
-	<td align="left">
+    <table style="margin-top: 10px; margin-bottom: 0px" align="center" width="770px" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+            <td>
+                <div id="ctl00_ctl00_B_pnlHeader">
+	
+<noscript>
+    <meta http-equiv="refresh" content="0; url=njs.aspx">
+</noscript>
+<table style="margin-top: 10px; margin-bottom: 0px">
+</table>
+<table align="center" cellpadding="0" cellspacing="0" border="0">
+    <tbody><tr id="ctl00_ctl00_B_ucHID_trLogo">
+		<td align="left">
                 <table cellpadding="0" cellspacing="0" border="0" width="100%">
                     <tbody><tr>
                         <td class="top">
-                            <a href="default.aspx" id="ctl00_ctl00_ContentPlaceHolder1_A1">
-                                <img src="/Images/logo.gif" id="ctl00_ctl00_ContentPlaceHolder1_Img1" alt="Phone People Holdings Corporation"></a></td>
+                            <a href="default.aspx">
+                                <img src="images/logo.gif" alt="Phone People Holdings Corporation"></a></td>
                     </tr>
                 </tbody></table>
-            </td>
-</tr>
+        </td>
+	</tr>
+	
+    <tr id="ctl00_ctl00_B_ucHID_trMarquee">
+		<td>
+            <table class="marq" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr>
+                    <td class="marqText">
+                        <marquee id="ctl00_ctl00_B_ucHID_myMarquee" scrollamount="3" scrolldelay="1" direction="left" loop="5">Thousands and thousands of customers can't be wrong. We are not a reseller. We operate our own equipment. Call us at 1-800-510-5500 for assistance.</marquee>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+	</tr>
+	
+    <tr id="ctl00_ctl00_B_ucHID_trMenu">
+		<td>
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr>
+                    <td class="navBarN" style="padding-top: 3px; padding-bottom: 5px; padding-left: 0px;" valign="bottom">
+                        <a id="ctl00_ctl00_B_ucHID_mnuProducts" class="mnuProducts" href="toll-free-search.aspx">Toll Free Number Search &amp; Pricing</a>
+                        |
+                        <a id="ctl00_ctl00_B_ucHID_mnuFeature" class="mnuFeatures" href="service-comparison.aspx">Features</a>
+                        |
+                        <a id="ctl00_ctl00_B_ucHID_mnuFaq" class="mnuFaq" href="faq.aspx">FAQ's</a>
+                        |
+                        <a id="ctl00_ctl00_B_ucHID_mnuSoftware" class="mnuSoftware" href="cas.aspx">Software</a>
+                        |
+                        <a id="ctl00_ctl00_B_ucHID_mnuSpelling" class="mnuSpelling " href="spell/">Spelling</a>
+                        |
+                        <a id="ctl00_ctl00_B_ucHID_mnuContact" class="mnuContact" href="contactUs.aspx">Contact Us</a>
+                        |
+                        <a id="ctl00_ctl00_B_ucHID_mnuCart" class="mnuCart" href="cart-summary.aspx">View Cart</a>
+                        <span id="lnkLogin" class="lnkLogin"><a href="https://my.phonepeople.com" id="mnuLogin" class="mnuLogin">Log In</a> &nbsp;&nbsp;<img src="images/cursor.gif" id="ctl00_ctl00_B_ucHID_Img2"></span></td>
+                </tr>
+            </tbody></table>
+        </td>
+	</tr>
+	
+</tbody></table>
 
-        <tr id="ctl00_ctl00_ContentPlaceHolder1_trMarquee">
-	<td>
-                <table class="marq" width="100%" cellpadding="0" cellspacing="0" border="0">
-                    <tbody><tr>
-                        <td class="marqText">
-                            <marquee id="ctl00_ctl00_ContentPlaceHolder1_myMarquee" scrollamount="3" scrolldelay="1" direction="left" loop="5">Thousands and thousands of customers can't be wrong. We are not a reseller. We operate our own equipment. Call us at 1-800-510-5500 for assistance.</marquee>
-                        </td>
-                    </tr>
-                </tbody></table>
+</div>
             </td>
-</tr>
-
-        <tr id="ctl00_ctl00_ContentPlaceHolder1_trMenu">
-	<td>
-                <table width="100%" cellpadding="0" cellspacing="0" border="0">
-                    <tbody><tr>
-                        <td class="navBar" style="padding-top: 3px; padding-bottom: 5px; padding-left: 0px;" valign="bottom">
-                            <a id="ctl00_ctl00_ContentPlaceHolder1_mnuProducts" class="mnuProducts" href="toll-free-800-numbers.aspx">Toll Free Number Search &amp; Pricing</a>
-                            |
-                            <a id="ctl00_ctl00_ContentPlaceHolder1_mnuFeature" class="mnuFeatures" href="service-comparison.aspx">Features</a>
-                            |
-                             <a id="ctl00_ctl00_ContentPlaceHolder1_mnuOrder" class="mnuOrder" href="how-to-order.aspx">Order</a>
-                            |
-                            <a id="ctl00_ctl00_ContentPlaceHolder1_mnuFaq" class="mnuFaq" href="faq.aspx">FAQ's</a>
-                            |
-                            <a id="ctl00_ctl00_ContentPlaceHolder1_mnuSoftware" class="mnuSoftware" href="cas.aspx">Software</a>
-                            |
-                                
-                            <a id="ctl00_ctl00_ContentPlaceHolder1_mnuSpelling" class="mnuSpelling " href="spell/">Spelling</a>
-                            |    
-                            <a id="ctl00_ctl00_ContentPlaceHolder1_mnuContact" class="mnuContact" href="contactUs.aspx">Contact Us</a>
-                            
-                            <span id="lnkLogin" class="lnkLogin"><a href="https://my.phonepeople.com" id="mnuLogin" class="mnuLogin">Log In</a> &nbsp;&nbsp;<img src="/Images/cursor.gif" id="ctl00_ctl00_ContentPlaceHolder1_Img2" alt="Log In"></span></td>
-                    </tr>
-                </tbody></table>
-            </td>
-</tr>
-
+        </tr>
         <tr>
             <td>
                 <table class="tblMain" width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -454,19 +186,22 @@
             <td style="height: 10px">
             </td>
         </tr>
-        <tr id="ctl00_ctl00_ContentPlaceHolder1_trFooter">
+        <tr id="ctl00_ctl00_B_trFooter">
 	<td>
-                <!--Footer-->
-                <table width="100%" cellpadding="0" cellspacing="0" border="0">
-                    <tbody><tr>
-                        <td class="footer">
-                            
-                            Copyright 2007, 2008. Reproduction or duplication without written consent is prohibited.
-                            &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a id="ctl00_ctl00_ContentPlaceHolder1_mnuPrivacy" class="mnuPrivacy" href="privacy.aspx">Privacy Policy</a>
-                        </td>
-                    </tr>
-                </tbody></table>
+                
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tbody><tr>
+        </tr><tr>
+            <td class="footer">
+                © 2008 Phone People. Reproduction or duplication without written consent is prohibited.
+                &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="sitemap.aspx">Site Map</a>
+                &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="privacy.aspx" class="mnuPrivacy" id="mnuPrivacy">Privacy Policy</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                <a href="agreement.aspx" class="mnuTermsAgreement" id="mnuTermsAgreement">Terms &amp; Conditions</a>
+            </td>
+        </tr>
+    
+</tbody></table>
+
             </td>
 </tr>
 
@@ -480,6 +215,16 @@
 <script type="text/javascript">
 //<![CDATA[
 var prm = Sys.WebForms.PageRequestManager.getInstance();prm.add_initializeRequest(InitializeRequest);prm.add_endRequest(EndRequestHandler);
+s.pageName='privacy.aspx'
+s.campaign='j2global&phonepeople'
+s.events='scPageView'
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//-->
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href='http://www.omniture.com' title='Web Analytics'><img src='
+http://j2globalphonepeople.122.2O7.net/b/ss/j2globalphonepeople/1/H.14--NS/0
+' height='1' width='1' border='0' alt='' /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.14. --><script>
 Sys.Application.initialize();
 //]]>
 </script>
@@ -495,24 +240,10 @@ urchinTracker();
 // -->
 </script>
 
-
+            
     <script language="javascript" type="text/javascript">
-
-   function $(strID)
-    {
-        return document.getElementById(strID);
-    }
-        
-    if($('imgBalloonTop')!=null)
-        $('imgBalloonTop').style.backgroundImage='url('+ imgVar1.src  +')';
-    
-    $('imgBalloonClose')!=null?$('imgBalloonClose').src=imgVar3.src : null;
-        
-    if($('tblBalloonHolder')!=null)
-        $('tblBalloonHolder').style.backgroundImage='url('+ imgVar2.src  +')';
-    
-           
- 
+    $=function(a)
+    {return document.getElementById(a);}
     </script>
 
 
