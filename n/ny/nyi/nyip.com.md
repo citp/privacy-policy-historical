@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyip.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610033732id_/http%3A//www.nyip.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyip.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062507id_/http%3A//www.nyip.com/privacy.html) for the most accurate reproduction.*
 
 # NYIP - Privacy
 
@@ -29,3 +29,5 @@ Maintaining information that is current, accurate, and complete allows us to mak
 ## Security
 
 We use industry standard security measures to protect any personal information that you may provide to us. However, we cannot guarantee that your submissions to our website, any content residing on our servers, or any transmissions from our server will be completely secure.The Student Online Help Line and the online exams can only be accessed with a valid student number. You are responsible for keeping your student number secret and confidential, and for notifying us if you believe that your student number has been stolen or might otherwise be misused.
+
+[Click here to sign up for our newsletter!](http://www.nyip.com/ezine/enewsletter.html)
