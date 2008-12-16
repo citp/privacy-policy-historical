@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runaware.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607092711id_/http%3A//www.runaware.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runaware.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045721id_/http%3A//www.runaware.com/privacy.jsp) for the most accurate reproduction.*
 
-# Runaware Privacy Policy
+# Privacy Policy - Runaware
 
 Runaware deems privacy a central issue of Internet use. Runaware attempts to have reasonable measures in place to assure the anonymity of visitors to the Runaware web site. Runaware feels as part of responsible disclosure that Runaware web site users are aware of what information is being logged. 
 
@@ -40,9 +40,4 @@ Runaware may update this policy. We will notify you about significant changes in
 
 If you have questions or suggestions, please contact us at: 
 
-Runaware  
-6360 NW 5th Way, Suite 203  
-Fort Lauderdale, Florida 33309  
-+1 [954] 302 5340
-
-Revision date: March, 2007 
+Runaware 6360 NW 5th Way, Suite 203 Fort Lauderdale, Florida 33309 +1 [954] 302 5340 Revision date: March, 2007 
