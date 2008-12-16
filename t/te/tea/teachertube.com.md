@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachertube.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227211546id_/http%3A//www.teachertube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachertube.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154744id_/http%3A//www.teachertube.com/privacy.php) for the most accurate reproduction.*
 
-# TeacherTube - Teach the World
+# TeacherTube About Us | Press Room | Advertise | Contact Us | Help
 
 ### TeacherTube Privacy Policy
 
