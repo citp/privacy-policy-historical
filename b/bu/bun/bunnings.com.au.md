@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bunnings.com.au privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212183807id_/http%3A//www.bunnings.com.au/privacyPolicy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnings.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216052536id_/http%3A//www.bunnings.com.au/default_privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Bunnings Warehouse
 
@@ -31,7 +31,7 @@ Welshpool WA 6106
 
 Telephone (08) 9365 1501  
 Facsimile (08) 9356 6460  
-E-mail [privacy@bunnings.com.au ](http://mailto:privacy@bunnings.com.au/)
+E-mail [privacy@bunnings.com.au ](mailto:privacy@bunnings.com.au/)
 
 #### BUNNINGS PRIVACY POLICY 
 
