@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the valueweb.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604163206id_/http%3A//www.valueweb.com/aboutUs/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueweb.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154557id_/http%3A//www.valueweb.com/pp.htm) for the most accurate reproduction.*
 
-# ValueWeb | Privacy Policy
-
-### Looking for a Professional Pay-Per-Click Marketing Campaign?
-
-Let our certified experts get you started for as little as $300/month.  
-  
-[» Learn More](http://www.valueweb.com/online-marketing/valueTraffic.htm)  
-
-
-### Want to improve your listings on Yahoo and Google?
-
-Let our certified experts research your website for search engine friendliness and recommend ways in which to improve your listings.  
-  
-[» Learn More](http://www.valueweb.com/online-marketing/searchEngineOptimizer.htm)  
-
+# Web Hosting Services for Business and Ecommerce from ValueWeb
 
 #### Privacy Policy 
 
