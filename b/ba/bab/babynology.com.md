@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the babynology.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509192607id_/http%3A//www.babynology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynology.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012136id_/http%3A//www.babynology.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Babynology.com
 
   
-
-
   
   
 
@@ -29,9 +27,4 @@ _Cookies_ \- Our site uses a feature of your browser to set a "cookie" on your c
 _Contact_ \- If you have questions about this Privacy Policy or anything else about Babynology, Contact us.  
 
 
-|  |   
----  
-  
-How Does The Name Sound? 
-
-This is definitely the most important factor. When you say the name aloud does it have a pleasing sound? Choose a name and say it repeatedly. Call it out loud and see if it appeals to you and your spouse. Also, call out the first name along with your last name. **[More..](https://web.archive.org/articles/5_things_to_consider_when_choosing_a_name_for_your_baby.html) **
+| 
