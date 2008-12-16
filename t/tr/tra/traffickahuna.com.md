@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffickahuna.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625065725id_/http%3A//traffickahuna.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffickahuna.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152822id_/http%3A//traffickahuna.com/legal/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -78,7 +78,7 @@ REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
 This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications. 
 
 LATEST UPDATE  
-This Privacy Policy was last updated on: April 1, 2008
+This Privacy Policy was last updated on: June 26, 2008
 
 COPYRIGHT  
 This Privacy Policy is used under license. The copyright is owned by Mining Gold Corporation and Nevada Processing Center, Inc. 
@@ -93,7 +93,7 @@ In no case shall the Visitor have the right to go to court or have a jury trial.
 The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, and travel expenses. 
 
 JURISDICTION AND VENUE  
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. PLACE FOR ADDING ADDRESS. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address. 
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address. 
 
 APPLICABLE LAW  
 Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s). 
