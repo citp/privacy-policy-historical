@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gap.co.uk privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630172859id_/http%3A//www.gap.co.uk/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216081157id_/http%3A//www.gap.co.uk/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
