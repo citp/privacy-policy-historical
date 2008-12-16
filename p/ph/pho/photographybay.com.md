@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the photographybay.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606102721id_/http%3A//www.photographybay.com/2006/12/05/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographybay.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043645id_/http%3A//www.photographybay.com/2006/12/05/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Photography Bay
-
-Posted on December 5, 2006 
+# Privacy Policy » Photography Bay | Digital Camera Reviews, News and Resources
 
 By visiting and using Photography Bay, you consent to the terms of this privacy policy for the collection, use and disclosure of your personal information for the purposes set forth below.
 
@@ -29,12 +27,3 @@ Personal information, such as your name, personal postal and email address, or p
 _**Revisions**_
 
 Any changes to the this privacy policy will be communicated on this website. Policy changes will not alter how we handle previously submitted personal information. If you have any questions about our privacy policies or wish to update any of the personal information you have provided to us, please send an email to [contact@photographybay.com](mailto:contact@photographybay.com).
-
-[](http://feeds.feedburner.com/PhotographyBay) [Subscribe to Photography Bay](http://feeds.feedburner.com/PhotographyBay)
-
-» Filed Under [Uncategorized](http://www.photographybay.com/category/uncategorized/ "View all posts in Uncategorized")
-
-  
-
-
-### Comments
