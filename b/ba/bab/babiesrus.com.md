@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babiesrus.com privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406110516id_/http%3A//www.toysrus.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babiesrus.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012811id_/http%3A//www.toysrus.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # Toys"R"Us/Babies"R"Us : Help Desk
 
@@ -89,7 +89,7 @@ The "R" Us Sites use "cookies," which are small pieces of information stored by 
 
 **6\. How can I opt out from receiving "R" Us Family communications?**
 
-From time to time, you may receive periodic mailings, telephone calls or e-mails from "R" Us Family members with information on products or services, discounts, special promotions, upcoming events or other offers from an "R" Us Family member or its marketing partners. You may opt out of receiving e-mail communications by clicking the "Unsubscribe" link at the bottom of the e-mail received or [click here](http://toysrus.rsys1.net/servlet/website/ResponseForm?mhRlE0y1_1glNIlJkpIL) to unsubscribe from future emails. It may take us up to 10 days to complete this process, as permitted by law. You may opt out of receiving mailings or telephone calls by completing the online form at www.toysrusinc.com/contactus or by calling 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787) and asking for an operator who will instruct you on how you may opt out of receiving such communications. Please note that if you ask an "R" Us Family member to remove your name from a mailing list, your name will be removed from all of the mailing lists maintained by the "R" Us Family. In addition, your personal information may be retained in the database for record keeping purposes and for internal research and analysis.
+From time to time, you may receive periodic mailings, telephone calls or e-mails from "R" Us Family members with information on products or services, discounts, special promotions, upcoming events or other offers from an "R" Us Family member or its marketing partners. You may opt out of receiving e-mail communications by clicking the "Unsubscribe" link at the bottom of the e-mail received or [click here](https://secure.ed4.net/toysrus/preferencecenter) to unsubscribe from future emails. It may take us up to 10 days to complete this process, as permitted by law. You may opt out of receiving mailings or telephone calls by completing the online form at www.toysrusinc.com/contactus or by calling 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787) and asking for an operator who will instruct you on how you may opt out of receiving such communications. Please note that if you ask an "R" Us Family member to remove your name from a mailing list, your name will be removed from all of the mailing lists maintained by the "R" Us Family. In addition, your personal information may be retained in the database for record keeping purposes and for internal research and analysis.
 
  BACK TO TOP
 
@@ -125,7 +125,7 @@ The "R" Us Sites may contain links to other sites, including content from other 
 
 **10\. How to contact the "R" Us Family**
 
-If you have questions or concerns about this Privacy Policy, please send an e-mail to [guestservices.us@toysrus.com](mailto:guestservices.us@toysrus.com) or call 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787).
+If you have questions or concerns about this Privacy Policy, please feel free to call us at 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787).
 
  BACK TO TOP
 
