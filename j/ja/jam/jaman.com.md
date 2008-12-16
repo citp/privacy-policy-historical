@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the jaman.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601024227id_/http%3A//www.jaman.com/a/download/%3FtheAction%3Dshow_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaman.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021400id_/http%3A//www.jaman.com/privacy-policy) for the most accurate reproduction.*
 
 # Jaman - Jaman Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.jaman.com&sealid=101)
-
-Jaman.com, Inc. ("Jaman") recognizes that its customers, visitors, Members, and others who use www.jaman.com (the "Jaman Site") (collectively or individually "Members") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Jaman Site. Jaman provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Jaman Site. This Privacy Notice is incorporated into and is subject to the Jaman Terms of Use. Your use of the Jaman Site and any personal information you provide on the Jaman Site remains subject to the terms of this Privacy Notice and our Terms of Use.
+[](http://www.truste.org/ivalidate.php?url=www.jaman.com&sealid=101)Jaman.com, Inc. ("Jaman") recognizes that its customers, visitors, Members, and others who use www.jaman.com (the "Jaman Site") (collectively or individually "Members") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Jaman Site. Jaman provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Jaman Site. This Privacy Notice is incorporated into and is subject to the Jaman Terms of Use. Your use of the Jaman Site and any personal information you provide on the Jaman Site remains subject to the terms of this Privacy Notice and our Terms of Use.
 
 Please note that any video, image, or other content posted at the direction of Members onto the Jaman Site becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
