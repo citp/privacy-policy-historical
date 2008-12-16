@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the luckybrand.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018164157id_/http%3A//www.luckybrandjeans.com/ccare_security_privacy.aspx%3Fg%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckybrand.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011909id_/http%3A//www.luckybrand.com/ccare_security_privacy.aspx) for the most accurate reproduction.*
 
-# Lucky Brand Jeans - Security and Privacy
+# Lucky Brand - Security and Privacy
 
 Effective Date March 21, 2005
 
 **Your California Privacy Rights.**  
 California law requires us to ensure the privacy of our customers' personal information. California law also requires us to provide information to you regarding our privacy policy and the designated means by which you may inquire about our policy.
 
-Auspient, Inc. ("Auspient") hosts this Web site, [www.luckybrandjeans.com](http://www.luckybrandjeans.com/), (the "Web Site") **and performs customer care and fulfillment services** pursuant to agreements with Lucky Brand Dungarees Inc. ("Lucky Brand"). Lucky Brand administers the Web Site's content and postings. Both Auspient and Lucky Brand ("we" or "us") value our customers and recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site. Except as otherwise provided in this Privacy Policy, we do not sell or rent your personal information to third parties for marketing purposes without your explicit consent.
+Auspient, Inc. ("Auspient") hosts this Web site, [www.luckybrand.com](http://www.luckybrand.com/), (the "Web Site") **and performs customer care and fulfillment services** pursuant to agreements with Lucky Brand Dungarees Inc. ("Lucky Brand"). Lucky Brand administers the Web Site's content and postings. Both Auspient and Lucky Brand ("we" or "us") value our customers and recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site. Except as otherwise provided in this Privacy Policy, we do not sell or rent your personal information to third parties for marketing purposes without your explicit consent.
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web Site and, where applicable, through our Customer Service Department in connection with this Web Site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
 
@@ -19,7 +19,7 @@ You may opt out of our information sharing by contacting us in accordance with S
 
 > Lucky Brand Dungarees, Inc.  
 >  Attn: Customer Care – Privacy Policy Issues  
->  141-B2 Suburban Road  
+>  141-A1 Suburban Road  
 >  San Luis Obispo, CA 93401
 
 If our information practices change in the future, we will post an updated Privacy Policy on our Web Site. You can tell if the Privacy Policy has changed by checking the revision date that appears at the end of this policy. You may exercise your choices about how we collect and use your information at any time.
@@ -77,7 +77,7 @@ We want to communicate with you only if you want to hear from us. If you prefer 
 
 You will have an opportunity to "unsubscribe" by clicking on the hyperlink contained in promotional emails we send you.
 
-Additionally to OPT OUT, you may email us at [customercare@luckybrandjeans.biz](mailto:customercare@luckybrandjeans.biz) or call us at **1.800.964.5777** or write to us at **Lucky Brand Dungarees, Inc., Customer Care – Privacy Policy Issues, 141-B2 Suburban Rd., San Luis Obispo, CA 93401.** Please note that any request to be removed from such mailing lists may take up to two (2) weeks to become effective.
+Additionally to OPT OUT, you may email us at [customercare@luckybrandjeans.biz](mailto:customercare@luckybrandjeans.biz) or call us at **1.800.964.5777** or write to us at **Lucky Brand Dungarees, Inc., Customer Care – Privacy Policy Issues, 141-A1 Suburban Rd., San Luis Obispo, CA 93401.** Please note that any request to be removed from such mailing lists may take up to two (2) weeks to become effective.
 
 Please note that even if you are removed from any such list, if you order online, we will continue to confirm your order by e-mail and may need to contact you by phone, email, or regular mail if we have questions about your order.
 
