@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603100001id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151838id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy - SQL Server Central
 
@@ -91,5 +91,5 @@ By using our website, or giving us your details, at an exhibition, you consent t
 
 ### 2.2 Contacting us
 
-You have the right to access your information held by SQLServerCentral.com (for which we may charge a small fee) and where necessary, to have it amended. You can also request not to receive marketing information from SQLServerCentral.com and Red Gate Software Limited. For more details, please contact: Data Protection, SQLServerCentral.com, Red Gate Software, The Jeffreys Building, St John's Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom or email privacy@SQLServerCentral.com.  
+You have the right to access your information held by SQLServerCentral.com (for which we may charge a small fee) and where necessary, to have it amended. You can also request not to receive marketing information from SQLServerCentral.com and Red Gate Software Limited. For more details, please contact: Data Protection, SQLServerCentral.com, Red Gate Software, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom or email privacy@SQLServerCentral.com.  
 
