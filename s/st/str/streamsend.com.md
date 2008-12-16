@@ -1,48 +1,56 @@
-> *The following text is extracted and transformed from the streamsend.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218222753id_/http%3A//www.streamsend.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamsend.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035510id_/http%3A//www.streamsend.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to StreamSend : Permission-Based Email Marketing Solutions
 
-This is the web site of StreamSend.
+StreamSend.com is a service of EZ Publishing, Inc. We have created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the streamsend.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices.
 
-Our postal address is  
-1215 21st Street, STE B  
-Sacramento, CA 95814  
-We can be reached via e-mail at [privacy@streamsend.com](mailto:privacy@streamsend.com)   
-or you can reach us by telephone at 877-439-4678
+## COLLECTION OF INFORMATION
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+We require customers who register to use the services offered on our Site (collectively, the "Service") to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, credit card number, and the number of users within the organization that will be using the Service. At the time you express interest in attaining additional information, or when you register for the Service, we may also ask for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not entering it when asked. Customers can update or remove their personal information at any time by logging into the Website and editing their Personal Information within Account Information. Customers can view their updated profile to confirm their edits have been made.
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+From time to time we invite users to provide information via surveys or contests. Participation in these surveys or contests is completely voluntary, and users therefore have a choice whether to disclose requested contact or demographic information.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, not shared with other reputable organizations to help them contact consumers for marketing purposes, not shared with other organizations for commercial purposes.
+StreamSend.com uses the information that we collect to set up the Service for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers will also receive an email newsletter. Customer email addresses and any personal customer information will not be distributed or shared with third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by using the opt-out links provided in communications or by emailing sales@streamsend.com. Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter. Again, email will not be distributed or shared and customers can opt out of receiving any communication by emailing sales@streamsend.com at the time it is distributed, or at the time any customer registers for the Service.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site.
+Except as we explicitly state at the time we request information, or as provided for in the streamsend.com Service Agreement, we do not disclose to third parties the information provided.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.
+Customers of the Service will be using the Site to host data and information ("Data"). Streamsend.com will not review, share, distribute, print, or reference any such Data except as provided in the streamsend.com Service Agreement, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Service Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+Streamsend.com may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Streamsend.com will automatically send the friend a one-time email inviting them to visit the site. Streamsend.com does not store this information.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+## Cookies and Other Electronic Images
 
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
+We use cookies and other electronic images (such as transparent gifs or pixels) on this site for the collection of anonymous tracking information on site usage patterns.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+Information gathered through the use of cookies and other electronic images is used to continuously improve the site and users' experience with it. Other than information that facilitates your use and navigation of the site, it is not identified with you personally. In addition, when we send HTML-formatted e-mail messages, we may include single-pixel GIFs to determine which e-mail messages were opened and/or acted upon.
+
+## Partners, Sponsors and Links
+
+This site may provide links to third-party websites, including those of our business partners. These independent sites have their own privacy and information collection practices. We have no responsibility or liability for these independent policies, and encourage you review the sites' privacy policies to understand how they might collect and use personally identifiable information.
+
+## Minors
+
+We operate our sites in compliance with the Children's Online Privacy Protection Act and will not knowingly collect or use personally-identifiable information from anyone under 13 years of age. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
+
+## Security
+
+We take the security of your personal information very seriously and are constantly improving our efforts to protect it. We store information you provide us on our secure servers. Access to all of our users' information is restricted only to company representatives who need the information to perform a specific job.
+
+No electronic communication over the Internet, however, can be guaranteed to be completely secure. Though we take great care to protect your personal information, we cannot ensure or warrant the security of any information that you submit to us, and you do so at your own risk.
+
+## Privacy Policy Changes
+
+The terms of this Privacy Policy may change from time to time. We will notify you of any material changes to this Privacy Policy by posting a notice on our web site for a reasonable period of time after such changes are made, that this Privacy Policy has been updated, and by changing the "Updated" date at the top of this Privacy Policy. We encourage you to check this page periodically for any changes. Your continued use of the Site and participation in following the posting of changes to these terms will mean you accept those changes.
+
+Updated: July 8th, 2008.
+
+**StreamSend is an EZ Publishing service.**
+
+EZ Publishing 1215 21st Street, Suite B, Sacramento, CA 95814
+
+We can be reached via e-mail at privacy@streamsend.com or you can reach us by telephone at 877-439-4678.
 
   
 
-
-30 Day Free Trial!
-
-Take a test drive of StreamSend and launch your first email marketing campaign in minutes! 
-
-Customer Success
-
-"As an experienced marketer, it was so refreshing to find an email marketing service provider that was designed with my needs in mind. Switching to StreamSend has simplified the process and enhanced our email marketing campaigns—all at a SIGNIFICANTLY lower price." 
-
-\- Dylan Stewart,  
-Web Director  
-MadTV
-
-[Learn More](https://web.archive.org/web/20071218222753id_/http%3A//www.streamsend.com/case_studies.htm)
