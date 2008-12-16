@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the infopia.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211000524id_/http%3A//www.infopia.com/website/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011757id_/http%3A//www.infopia.com/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy
+# Infopia - Privacy Policy
 
-## Marketplace Manager and Infopia Inc. Online Privacy   
+Privacy Policy 
+
+## Transact and Infopia Inc. Online Privacy   
 and Security Policies
 
 Infopia values the relationship it has with customers and website visitors, and is committed to responsible information-handling practices. Infopia takes the privacy of customers very seriously and wants you to feel comfortable whenever you visit the website, access online services, or participate in additional online offerings from Infopia.
@@ -13,9 +15,9 @@ Infopia, Inc.
 56 East Broadway, 4th Floor  
 Salt Lake City, Utah 84111  
 888-337-6352  
-[privacy@infopia.com](mailto:privacy@infopia.com)
+[](mailto:privacy@infopia.com)
 
-### Infopia and Marketplace Manager Privacy Principles
+### Infopia and Transact Privacy Principles
 
 Infopia's approach to responsible information handling is founded on the basis of the Fair Information Practices, the cornerstone of which is providing notice of information practices and other privacy aspects in order to allow individuals to make informed decisions regarding personally identifiable information. Furthermore, Infopia has adopted leading industry practices as set forth by online privacy standards groups.
 
@@ -25,8 +27,13 @@ Infopia provides you notice of information practices. Infopia offers you choices
   * Infopia offers you choices regarding how personally identifiable information you provide may be used. You may browse Infopia's website without providing personal information. However, if you want to receive information about Infopia's online products and services, or participate in other online activities (e.g., surveys and contests), Infopia may request that you provide information about yourself.
   * Infopia strives to provide you the opportunity to update or correct the contact information that you have provided to. Infopia has a variety of mechanisms for you to modify and update the contact information that you have provided and is in the process of developing more mechanisms to update your personal data. When you visit the Infopia website, Infopia lets you know in privacy statements how you may currently modify the contact information that you have provided.
   * Infopia protects personally identifiable information. Infopia recognizes industry standards and employs security safeguards to protect personally identifiable information from unauthorized access and misuse. Furthermore, Infopia takes measures to ensure that the information used to process your request is accurate and current.
-  * Infopia provides you with a means of contact to learn about information practices and other privacy aspects. Infopia is committed to protecting the privacy of customers and website visitors. Should you have any questions or concerns about this privacy policy or the practices of the Infopia website, please contact Infopia at [privacy@infopia.com](mailto:privacy@infopia.com).
+  * Infopia provides you with a means of contact to learn about information practices and other privacy aspects. Infopia is committed to protecting the privacy of customers and website visitors. 
 
-
-
-Copyright © 2020 Infopia, Inc. All rights reserved. All trademarks are the property of their respective owners.
+|  |   
+  
+---  
+  
+[](https://web.archive.org/web/20081216011757id_/http%3A//www.infopia.com/solutions-auction.shtml)[](https://web.archive.org/web/20081216011757id_/http%3A//www.infopia.com/lp-VLED-casestudy-0808.shtml)[](http://www.merchantadvantage.com/webinar08/08282008/index.cfm?p=homeLink)[](https://www1.gotomeeting.com/register/440062048)[](https://www1.gotomeeting.com/register/172617381)[](https://web.archive.org/web/20081216011757id_/http%3A//www.infopia.com/solutions-website.shtml)  
+  
+---  
+ 
