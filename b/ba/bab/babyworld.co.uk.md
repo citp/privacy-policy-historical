@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629194334id_/http%3A//www.babyworld.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021011id_/http%3A//www.babyworld.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # babyworld - Privacy Policy
 
@@ -8,9 +8,9 @@
 
 [](http://shop.babyworld.co.uk/)
 
-Meet the babyworld team at The B
+Experts predict measles epidem
 
-Will you buying a rear-facing group one car seat now that they are available in the UK Vote now!
+Do you have a Carbon Monoxide Alarm Vote now!
 
 Win a fantastic prize when you recommend the babyworld shop to 6 friends  [click here](https://web.archive.org/shop/recommend_friend/default.asp)
 
