@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deucescracked.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606081507id_/http%3A//www.deucescracked.com/account/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deucescracked.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216205726id_/http%3A//www.deucescracked.com/account/privacy) for the most accurate reproduction.*
 
-# Account :: DeucesCracked :: Original Poker Videos :: Poker Coaching :: Win at Poker :: Top Poker Coaches :: You Get You Some Money
+# Account :: DeucesCracked :: Free Poker Videos :: Poker Coaching :: Win at Poker :: Top Poker Coaches
 
 This document was last updated on November 8th, 2007.
 
