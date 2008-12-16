@@ -1,20 +1,12 @@
-> *The following text is extracted and transformed from the cruise.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613120317id_/http%3A//www.cruise.com/misc_pages/privacy.asp%3Fskin%3D001%26pin%3D%26phone%3D888-333-3116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruise.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216115738id_/http%3A//www.cruise.com/misc_pages/privacy.asp%3Fskin%3D001%26pin%3D%26phone%3D888-333-3116) for the most accurate reproduction.*
 
 # CRUISE.COM - Privacy Policy - Cruise discounts, cruise deals and discount cruise vacations from the web's largest seller of discount cruises.
 
-The privacy of persons visiting this site is of great importance to Omega World Travel. We have developed this web site with that in mind. Customers have the right to know what type of information is being collected about them and the purpose for the collection of that information.
+Cruise.com values the privacy expectations and concerns of it’s clients and is committed to protecting that privacy. We do not require anyone browsing our site to provide any personal information unless and until you choose to make a purchase or sign up for one of our e-mail newsletters. We do not knowingly permit the site to be used by any person under the age of eighteen and we do not knowingly collect any personal information from children (meaning those younger than thirteen years of age).A valid credit card is required to make a purchase on our site. Cruise.com will not intentionally sell or disclose any personal information about you or your travel plans to any other persons, organizations, or companies known to collect such information expressly for the purposes of delivering unsolicited email or illicit materials. Your personal information may be divulged when required by law or when protecting the legal rights and/or property of Cruise.com.
 
-Collection and Use of Information   
-It is necessary for us to collect personal information for those individuals using this web site for travel. This personal information will only be used for building a profile on individual travelers. This information helps us to quickly service persons that use this web site.  
-Omega World Travel does not sell or otherwise provide your personal information to outside parties. Other Vendors or contractors used by Omega to help us develop services for this site are required to follow our privacy requirements.
+Automatic Logging of Session Data  
+We automatically log generic information about your computer's connection to the Internet, which we call "session data". Session data consists of things such as IP address, operating system and type of browser software being used and the activities conducted by the user while on our site. An IP address is a number that lets computers attached to the Internet, such as our web servers, know where to send data back to the user, such as the pages of the site the user wishes to view. We collect session data because it helps us analyze such things as what items visitors are likely to click on most, the way visitors are clicking through the site, how many visitors are surfing to various pages on the site, how long visitors to the site are staying and how often they are visiting. It also helps us diagnose problems with our servers and lets us better administer our systems. It is possible to determine from an IP address a visitor's Internet Service Provider (ISP) and the approximate geographic location of his or her point of connectivity. We may also use some session data, such as the pages you visited on our site, to send you e-mail messages focused on destinations that you may be interested in, unless you had previously opted out of receiving such messages.
 
-Access  
-You have the right to review any of your personal information Omega World Travel has collected from you. We will correct any information that you request.
+The third-party advertising companies may also employ technology that is used to measure the effectiveness of ads. Any such information is anonymous. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. No personal information about you is collected during this process. The information is anonymous and does not link online actions to an identifiable person.
 
-Inquiries  
-If you have any questions or complaints regarding our privacy policy or use of your data, please contact us at legal@owt.net, or mail us at: 
-
-       Omega World Travel, Inc.   
-       Attn: IT Department  
-       3102 Omega Office Park   
-       Fairfax, VA 22031
+If you have any questions or concerns, please feel free to contact our [Customer Service Department](mailto:customersupport@cruise.com).
