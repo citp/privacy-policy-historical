@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agkidzone.com privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103111311id_/http%3A//www.agkidzone.com/privacy_policy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agkidzone.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217004131id_/http%3A//www.agkidzone.com/privacy_policy.action) for the most accurate reproduction.*
 
 # AGKidZone - Privacy Policy
 
@@ -20,7 +20,7 @@ We will also ask for your email address, so that we may contact you to explain h
 
 We will also collect your child's email address for various communications relating to the site. This is personally identifiable information and will not be disclosed except as described below. 
 
-  2. **Contests.** From time to time we may conduct contests. In order to participate in certain contests, we may ask your child for personally identifiable information such as postal address and full name in order to award prizes. Personally identifiable information obtained specifically for contests will not be shared with third parties.
+  2. **Contests.** From time to time we may conduct contests. If your child participates in the contests, under certain circumstances we may ask you for personally identifiable information such as a postal address and full name if necessary to award prizes. Personally identifiable information obtained specifically for contests will not be shared with third parties.
   3.  **Surveys and Feedback.** We may collect information in connection with surveys or online activities. We do not collect any personally identifiable information with surveys or feedback requests. Information you or your child provides in connection with feedback or surveys will not be connected with any personally identifiable information we have.
   4.  **Website.** We use technology to collect information about the users on the site. For example, we use cookies, which are pieces of information that are placed on your computer for record-keeping purposes. As you move from page to page at our website, a cookie is the only way that we have of knowing who you are. An activity on one page may depend on what you selected on a previous page. We use a cookie to keep track of your selection. Without cookies, users may be asked to provide the same information repeatedly. Some activities may not function at all. 
 
