@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513232105id_/http%3A//www.seatwave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054808id_/http%3A//www.seatwave.com/privacy-policy) for the most accurate reproduction.*
 
 # Seatwave.com - Buy or sell concert tickets, sports tickets and theatre tickets
 
@@ -33,7 +33,7 @@ In addition, we use the Personal Information we collect from you and other visit
 
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@seatwave.com](mailto:privacy@seatwave.com). We won't send you any newsletters unless you sign up for our newsletter, in which case we will only send you our newsletter. We offer an opportunity to opt-out of our newsletter in the newsletter itself, or you may contact us by phoning us on 020 7101 5199, emailing us at [privacy@seatwave.com](mailto:privacy@seatwave.com) or writing to us at Seatwave Limited, 29-35 Rathbone Street, London W1T 1NJ.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@seatwave.com](mailto:privacy@seatwave.com). We won't send you any newsletters unless you sign up for our newsletter, in which case we will only send you our newsletter. We offer an opportunity to opt-out of our newsletter in the newsletter itself, or you may contact us by phoning us on 0207 307 9350, emailing us at [privacy@seatwave.com](mailto:privacy@seatwave.com) or writing to us at Seatwave Limited, PO Box 5631, London W1A 1LE.
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at [privacy@seatwave.com](mailto:privacy@seatwave.com) or by contacting us by telephone or postal mail at the contact information listed above.
 
@@ -51,7 +51,9 @@ The security of your personal information is important to us. When you enter sen
 
 We will disclose your name, address and phone number to people who sell tickets through us to enable them to send you tickets you purchase.
 
-We use a credit card processing company to bill you for goods and services. We will disclose your Name, Billing Address and Credit Card Information to these credit card processing companies. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+We use a credit card processing company to bill you for goods and services. We will disclose your Name, Billing Address and Credit Card Information to these credit card processing companies. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
+
+We may share personal information collected via this website with our business partners and suppliers which we engage to process data on our behalf for the purposes described in this Privacy Policy.
 
 Business Transitions: In the event Seatwave Ltd goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified either via or through a prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
 
