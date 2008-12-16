@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcelebshome.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625070522id_/http%3A//www.hotcelebshome.com/contact-us/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcelebshome.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021812id_/http%3A//www.hotcelebshome.com/contact-us/%23privacy) for the most accurate reproduction.*
 
 # Contact Us | Hot Celebs Home
 
@@ -34,7 +34,7 @@ Some of our business partners use cookies on our site (for example, advertisers)
 This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Advertisers**  
-We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense (including their [partners](https://www.google.com/adsense/support/bin/answer.py?answer=94149&ctx=sibling)), CPX interactive, RMX, KItara, Blogads, CPMOnly. Please check their websites for respective privacy policies.
+We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense (including their [partners](https://www.google.com/adsense/support/bin/answer.py?answer=94149&ctx=sibling)), CPX interactive, Blogads, Adify. Please check their websites for respective privacy policies.
 
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at: hotcelebs@gmail.com
