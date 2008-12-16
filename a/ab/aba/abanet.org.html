@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abanet.org privacy policy that was archived on 2008-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616211920id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abanet.org privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216065207id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -32,6 +32,16 @@
 <!-- End Website Statistics -->
 
 <!-- DO NOT REMOVE -->
+<link href="/javascripts/util/yui/build/container/assets/skins/sam/container.css" type="text/css" rel="stylesheet">
+<link href="/css/abalogin3.css" type="text/css" rel="stylesheet">
+<link href="/css/menu2.css" type="text/css" rel="stylesheet">
+<!--[if lt IE 7]><link href="/css/menu_ie6.css" type="text/css" rel="stylesheet" /><![endif]-->
+<script src="/javascripts/util/yui/build/yahoo-dom-event/yahoo-dom-event.js" type="text/javascript"></script>
+<script src="/javascripts/util/yui/build/container/container.js" type="text/javascript"></script>
+<script src="/javascripts/util/scripts.js" type="text/javascript"></script>
+<script src="/javascripts/util/yui/build/container/container_core.js" type="text/javascript"></script>
+<script src="/javascripts/util/yui/build/menu/menu.js" type="text/javascript"></script>
+<script type="text/javascript" src="/javascripts/util/yui/build/cookie/cookie-beta-min.js"></script>
 
 
 <!-- DO NOT REMOVE aba.js.  Add Entity Javascripts Below -->
@@ -43,76 +53,411 @@
 <div id="container">
 <div id="jumpnav"><a name="top"></a><a href="#globalnav">Jump to Navigation</a> | <a href="#content">Jump to Content</a></div>
 
-<!-- Start Masthead -->
-<div id="masthead">
-  <table border="0" cellpadding="0" cellspacing="0" width="99%" background="/images/top_bg_sm.jpg">
-    <tbody><tr>
-      <td align="left" valign="top" width="144"><div id="abalogin">
-          <script language="JavaScript">
+<div style="background-color:#FFFFFF">
+  <!-- Start Masthead -->
+  <!--NEW HEADER-->
+  <script type="text/javascript">
 
-var firstname = "";
-var pattern = /(.+)(FNAME=)(\w*)/;
-var result=document.cookie.match(pattern);
- 
- if(document.cookie.match(pattern) !=null){
-   firstname = result[3];
- }
+            /*
+                 Initialize and render the MenuBar when its elements are ready 
+                 to be scripted.
+            */
 
-if(firstname == ""){
+            YAHOO.util.Event.onContentReady("abamember", function () {
 
-	document.write("<div class=\"login\"><a href=\"/abanet/common/MyABA/home.cfm\" class=\"memberlogin\">Member Login</a></div>");
+                /*
+                     Instantiate a MenuBar:  The first argument passed to the 
+                     constructor is the id of the element in the page 
+                     representing the MenuBar; the second is an object literal 
+                     of configuration properties.
+                */
+
+                var oMenuBar = new YAHOO.widget.MenuBar("abamember", { 
+                                                            autosubmenudisplay: true, 
+                                                            hidedelay: 750, 
+                                                            lazyload: true });
+
+                /*
+                     Call the "render" method with no arguments since the 
+                     markup for this MenuBar instance is already exists in 
+                     the page.
+                */
+
+                oMenuBar.render();
+
+            });
+
+</script>
+  <script language="JavaScript" type="text/javascript">
+function checkFields()
+{
+	//var x = document.LoginForm.j_username.value;
+	//var anum=/(^\d+$)|(^\d+\.\d+$)/
+	//var filter = /^([a-zA-Z0-9_\.\-])+\@([a-zA-Z0-9\-])+\.([a-zA-Z0-9]{2,4})$/;
+	//var filter  = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+	//if (filter.test(x))
+	//{
+	//return true;
+	//}else if (anum.test(x))
+	//{
+	//        if (x.length == 8) 
+		//	{
+		//	return true;
+		//	} 
+		//	else
+		//	{ alert('ABAID is 8 characters number');
+			    //x.focus();
+			//	return false;
+			//}
+	//}
+	//alert('You need to enter your ABAID or e-mail address!!!');
+	//x.focus();
+	//return false;
 	
-}else {
-	
-	document.write("<div class=\"loggedin\"><div>Welcome, "+firstname+"<br /><span style=\"font-weight: normal;\"><a href=\"http://www.abanet.org/abanet/common/MyABA/home.cfm\">myABA</a> | <a href=\"http://www.abanet.org/abanet/common/MyABA/home.cfm?logout=yes\">Log Out</a></span></div></div>");
+if (document.LoginForm.j_username.value == "" || document.LoginForm.j_password.value == "")
+{
+
+alert("You must enter both your ABA Memebership ID and Password.");
+
+document.LoginForm.j_username.focus();
+
+return (false);
 }
-</script><div class="login"><a href="/abanet/common/MyABA/home.cfm" class="memberlogin">Member Login</a></div>
-        </div></td>
-      <td align="left" valign="top"><a href="/"><img src="/images/aba_logo_sm.jpg" alt="American Bar Association - Defending Liberty, Pursuing Justice" width="331" height="52" border="0"></a></td>
-      <td align="right" valign="top"><a href="/"><img src="/images/aba_logo_right_sm.jpg" alt="ABA Logo" width="95" height="52" border="0"></a></td>
-    </tr>
-  </tbody></table>
+
+return (true);
+}
+
+</script>
+  <div class="yui-skin-sam" id="yahoo-com" bgcolor="#FFFFFF">
+    <div id="masthead">
+      <table border="0" cellpadding="0" cellspacing="0" width="998">
+        <tbody><tr>
+          <td colspan="4" bgcolor="#FFFFFF">&nbsp;</td>
+          <td colspan="2" bgcolor="#FFFFFF"><table width="58%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td valign="bottom" align="right"><div id="body">
+                    <div class="action">
+                      <noscript>
+                      <a href="http://www.abanet.org/abanet/common/MyABA/home.cfm" class="drop-switch headerfont" title="Log Into the ABA Website">LOGIN</a>
+                      </noscript>
+                      <script type="text/javascript">
+               <!--
+            function is_user_loggedin() {
+              var is_loggedin = false;
+              var customer = YAHOO.util.Cookie.get("CUSTOMER");
+              if(customer != undefined && customer != null && customer != ""){
+                is_loggedin = true;
+              }
+              return is_loggedin;
+            }
+
+            if (is_user_loggedin()) {
+				var firstname = YAHOO.util.Cookie.get("FNAME");
+				document.write('<nobr><a href="http://www.abanet.org/abanet/common/MyABA/home.cfm" class="drop-switch headerfont" title="Click to Visit myABA">Welcome,');
+				if(firstname != undefined && firstname != null && firstname != ""){
+				  document.write(' '+firstname);
+				}
+				document.write('</a> <a href="/abanet/common/login/home.cfm?logout=1" class="drop-switch headerfont">(Logout)</a></nobr>');
+            
+            } else {
+				document.write('<a href="/abanet/common/MyABA/home.cfm" class="drop-switch headerfont"><b>');
+				document.write("LOGIN");
+				document.write('</b></a>');
+				document.write('<ul class="drop" style="list-style-type:none">');
+				document.write('<div id="containernav">');
+				document.write('<table cellspacing="0" cellpadding="0" border="0" >');
+	
+				document.write('<form action="https://www.abanet.org/abanet/common/login/home.cfm" method="post" name="LoginForm" id="LoginForm" preservedata="Yes"><input type="hidden" name="j_username_required"/><input type="hidden" name="j_password_required"/>	');
+				document.write('<input type="hidden" name="redirect" value="'+window.location+'"/>');
+				document.write('<tbody><tr><td colspan="2" align="left"><span class="mainheader">Log In to the ABA Website</span></td></tr>');
+				document.write('<tr><td colspan="2" align="right"><label for="j_username" style="font-weight: normal;"><nobr>E-mail Address <b>or</b> ABA ID Number:</label>&nbsp;<input tabindex="1" size="25" name="j_username"/></nobr></td></tr>');
+				document.write('<tr><td colspan="2" align="right" height="28"><label for="j_password" style="font-weight: normal;">Password:</label>&nbsp;<input tabindex="2" type="password" size="25" name="j_password"/></td></tr>');
+				document.write('<tr><td colspan="2" align="left" height="28"><input type="checkbox" value="true" name="rememberid" notab="notab"/><span style="font-size: 80%">Remember my ID and password on this computer.</span></td></tr>');
+				document.write('<tr><td align="left" height="28"><input onclick="return checkFields()" type="submit" value="Log In" name="submit"/></td>');
+				document.write('<td align="right"><span class="headerfont">');
+				document.write('<a href="/abanet/common/MyABA/home.cfm#detail.cfm" name="detail" class="logincontainer1" id="detail"');
+				document.write('onclick="window.open(\'http://meetings.abanet.org/aba_timssnet/login/tnt_mailuseridpassword.cfm\',\'detail\',\'resizable=yes,width=560,height=550\')">Forgot Your Password?');
+				document.write('</a></span></td></tr>');
+				document.write('<tr><td colspan="2" class="headerfont" align="right"><a href="/abanet/common/new_customer/tnt_newcustomer_form.cfm" title="Create an Account with the ABA Website">Create an Account</a></td></tr>');
+				document.write('</tbody></form></table></div></ul>');
+            }
+          --></script>
+                      <script src="/javascripts/util/yui/build/dragdrop/dragdrop.js" type="text/javascript"></script>
+                      <script src="/javascripts/util/home.js" type="text/javascript"></script>
+                    </div>
+                  </div></td>
+                <td valign="top" height="16" align="left"><nobr> &nbsp;&nbsp;|&nbsp;&nbsp;<a href="/join/" class="headerfont">Join ABA</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/media/home.html" class="headerfont">Media</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="headerfont" href="/contact/">Contact</a></nobr> </td>
+              </tr>
+            </tbody></table></td>
+          <td bgcolor="#FFFFFF"></td>
+          <td bgcolor="#FFFFFF"></td>
+        </tr>
+        <tr>
+          <td background="images/hdr_line.gif" height="1px" colspan="7" bgcolor="#FFFFFF"></td>
+        </tr>
+        <tr>
+          <td width="15" rowspan="4" bgcolor="#FFFFFF"></td>
+          <td colspan="2" rowspan="4" width="297" height="13" bgcolor="#FFFFFF"><a href="/"> <img src="/images/aba_img.gif" alt="American Bar Association - Defending Liberty, Pursuing Justice" name="American Bar Association Logo" border="0" id="American Bar Association Logo"> </a> </td>
+          <td width="100" rowspan="5" bgcolor="#FFFFFF"></td>
+          <td width="9" height="13" bgcolor="#FFFFFF"></td>
+          <td width="412" height="13" bgcolor="#FFFFFF"></td>
+          <td width="8" height="13" bgcolor="#FFFFFF"></td>
+          <td width="25" height="13" bgcolor="#FFFFFF"></td>
+        </tr>
+        <tr>
+          <td height="3"><img src="/images/aba_img_r5_c5.gif" width="9" height="3" border="0" alt=""></td>
+          <td background="/images/aba_img_r5_c6.gif" height="3"></td>
+          <td><img src="/images/aba_img_r5_c7.gif" width="8" height="3" border="0" alt=""></td>
+          <td><img src="/images/aba_img_r5_c8.gif" width="25" height="3" border="0" alt=""></td>
+        </tr>
+        <tr>
+          <td><img src="/images/aba_img_r6_c5.gif" width="9" height="43" border="0" alt=""></td>
+          <td align="center"><!--//Search//-->
+            <table border="0" cellpadding="0" width="100%">
+              <form id="gs" name="gs" action="http://search.abanet.org/search" method="get"></form>
+                <input type="hidden" value="date:D:L:d1" name="sort">
+                <input type="hidden" value="a" name="access">
+                <input type="hidden" value="xml_no_dtd" name="output">
+                <input type="hidden" value="score" name="sort2">
+                <input type="hidden" value="UTF-8" name="ie">
+                <input type="hidden" value="UTF-8" name="oe">
+                <input type="hidden" value="default_frontend" name="client">
+                <input type="hidden" value="default_frontend" name="proxystylesheet">
+                <tbody><tr>
+                  <td> <label for="q">Search: </label> <input size="35" id="q" style="FONT-SIZE: 10px" maxlength="256" name="q">
+				  <input style="FONT-SIZE: 10px" type="submit" align="right" value="Go" name="btnG">
+                  </td>
+               
+                  <td align="right"><span style="font-size: 80%; text-align:left;"><a href="http://search.abanet.org/search?access=a&amp;sort=date%3AD%3AL%3Ad1&amp;output=xml_no_dtd&amp;site=default_collection&amp;ie=UTF-8&amp;oe=UTF-8&amp;client=default_frontend&amp;proxystylesheet=default_frontend&amp;ip=10.1.21.51&amp;proxycustom=%3CADVANCED/%3E" accesskey="4">Advanced Search</a><br>
+                    <a href="/aztopics.html">Topics A-Z</a></span> </td>
+                </tr>
+              
+            </tbody></table>
+            <!--//Search//-->
+          </td>
+          <td><img src="/images/aba_img_r6_c7.gif" width="8" height="43" border="0" alt=""></td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td><img src="/images/aba_img_r7_c5.gif" width="9" height="8" border="0" alt=""></td>
+          <td background="/images/aba_img_r7_c6.gif" height="8"></td>
+          <td><img src="/images/aba_img_r7_c7.gif" width="8" height="8" border="0" alt=""></td>
+          <td width="25" height="8" bgcolor="#FFFFFF"></td>
+        </tr>
+        <tr>
+          <td width="15" height="8" bgcolor="#FFFFFF"></td>
+          <td bgcolor="#FFFFFF"><img src="/images/aba_img_r8_c2.gif" width="132" height="8" border="0" alt=""></td>
+          <td bgcolor="#FFFFFF"><img src="/images/aba_img_r8_c3.gif" width="297" height="8" border="0" alt=""></td>
+          <td width="9" height="8" bgcolor="#FFFFFF"></td>
+          <td width="412" height="8" bgcolor="#FFFFFF"></td>
+          <td bgcolor="#FFFFFF"><img name="aba_img_r8_c7" src="/images/aba_img_r8_c7.gif" width="8" height="8" border="0" id="aba_img_r8_c7" alt=""></td>
+          <td bgcolor="#FFFFFF"><img src="/images/aba_img_r8_c8.gif" width="25" height="8" border="0" alt=""></td>
+        </tr>
+        <tr> </tr>
+      </tbody></table>
+      <div id="yui-main">
+        <div id="topglobalnav">
+          <div id="abamember" class="yuimenubar yuimenubarnav">
+            <div class="bd">
+              <ul class="first-of-type">
+                <li class="yuimenubaritem" style="border:1px; border-right-style:solid; border-bottom-width: thin; border-right-color:#FFFFFF"><a id="ie6only" class="yuimenubaritemlabel" href="/home.html" accesskey="1">&nbsp;Home&nbsp;</a></li>
+                <li class="yuimenubaritem" style="border:1px; border-right-style:solid; border-bottom-width:.5px; border-right-color:#FFFFFF"><a id="ie6only" style="text-decoration:none; color:#FFFFFF;" class="yuimenubaritemlabel" href="/members/">Membership</a>
+                  <div id="membership" class="yuimenu">
+                    <div class="bd">
+                      <ul id="subglobalnav3">
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/join/" accesskey="j">Join the ABA</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="https://meetings.abanet.org/odp/sections/odp_sect_dues.cfm">Renew Dues</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/members/">Membership Benefits</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/membergroups.html">Find: Sections, Divisions, Forums and Committees</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/abanet/common/MyABA/home.cfm">myABA</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/directory/">Member Directory</a></li>
+                        <!--li class="yuimenuitem"><a class="yuimenuitemlabel" href="#">Entity Information</a></li-->
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/members/">Member Services</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/members/faqs.html">FAQ</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                <li class="yuimenubaritem" style="border:1px; border-right-style:solid; border-bottom-width: thin; border-right-color:#FFFFFF"><a id="ie6only" class="yuimenubaritemlabel" href="/lawyer.html" accesskey="m">Member Resources</a>
+                  <div id="memberresources" class="yuimenu">
+                    <div class="bd">
+                      <ul id="subglobalnav3">
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/abanet/common/MyABA/home.cfm" accesskey="y">myABA</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/lawyer.html">Practice Resources &amp; Tools</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/membergroups.html">Find: Sections, Divisions, Forums and Committees</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/cle/calendar.html">CLE Calendar</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/members/">Professional Development</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/tech/ltrc/">Technology Resources</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/lawyer.html">Volunteer Opportunities</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/discussions/">Discussion Boards &amp; E-mail Lists</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/careercounsel/home.html">Career Center</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/poladv/">Legislative and Governmental Advocacy</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/cpr/home.html" accesskey="t">Ethics/Professional Conduct</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/directory/" accesskey="d">Member Directory</a></li>
+						<li class="yuimenuitem"><a class="yuimenuitemlabel" href="/advantage/">Member Advantage</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                <li class="yuimenubaritem" style="border:1px; border-right-style:solid; border-bottom-width: thin; border-right-color:#FFFFFF"><a id="ie6only" class="yuimenubaritemlabel" href="/public.html" accesskey="r"> Public Resources </a>
+                  <div id="public" class="yuimenu">
+                    <div class="bd">
+                      <ul id="subglobalnav3">
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/publiced/">Public Education</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/public.html">Legal Topic Resources</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/legalservices/findlegalhelp/home.cfm" accesskey="f">Find Legal Help</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/publiced/publicpubs.html">Consumer Publications</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/public.html">About the Law</a></li>
+                        <!--li class="yuimenuitem"><a class="yuimenuitemlabel" href="#">Legal Research Resources</a-->
+                        <!--/li-->
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/lawyerlocator/searchlawyer.html">Lawyer Locator</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/cpr/regulation/scpd/disciplinary.html">Complaints Against a Lawyer</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/legaled/approvedlawschools/approved.html">Approved Law Schools</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/public.html">Consumer Legal Topics</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/rol/">Rule of Law</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                <li class="yuimenubaritem" style="border:1px; border-right-style:solid; border-bottom-width: thin; border-right-color:#FFFFFF"><a id="ie6only" class="yuimenubaritemlabel" href="/legaled.html" accesskey="g">Legal Education</a>
+                  <div id="legal" class="yuimenu">
+                    <div class="bd">
+                      <ul id="subglobalnav3">
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/legaled/">Getting a Law Degree</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/legaled/approvedlawschools/approved.html">Approved Law Schools</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/legaled/accreditation/acinfo.html">Law School Accreditation</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/legaled/baradmissions/barcont.html">Admissions to the Bar</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/cle/">Continuing Legal Education (CLE)</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/careercounsel/students.html">Careers in the Legal Profession</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/publiced/practical/home.html">Consumer Legal Topics</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/lsd/home.html">Law Student Division</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                <li class="yuimenubaritem" style="border:1px; border-right-style:solid; border-bottom-width: thin; border-right-color:#FFFFFF"><a id="ie6only" class="yuimenubaritemlabel" href="/cle/" accesskey="c">&nbsp;CLE&nbsp;</a>
+                  <div id="cle" class="yuimenu">
+                    <div class="bd">
+                      <ul id="subglobalnav3">
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/cle/calendar.html">CLE Meetings</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/abastore/index.cfm?section=CLE">CLE Products</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/cle/ecle/" accesskey="l">Online CLE Courses</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/cle/podcast/home.html">Downloadable CLE</a></li>
+                        <!--li class="yuimenuitem"><a class="yuimenuitemlabel" href="#">Past CLE Programs</a></li>
+<li class="yuimenuitem"><a class="yuimenuitemlabel" href="#">Free CLE Programs</a></li-->
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/cle/mandatory.html">MCLE Information</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                <li class="yuimenubaritem" style="border:1px; border-right-style:solid; border-bottom-width: thin; border-right-color:#FFFFFF"><a id="ie6only" class="yuimenubaritemlabel" href="/abanet/oc/abatoday/" accesskey="2">Calendar</a>
+                  <div id="calendar" class="yuimenu">
+                    <div class="bd">
+                      <ul id="subglobalnav3" class="first-of-type">
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/abanet/oc/">Upcoming Events &amp; Activites</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/abanet/oc/abatoday/">Upcoming CLE</a></li>
+                        <!--li class="yuimenuitem"><a class="yuimenuitemlabel" href="#">Past Programs</a></li-->
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/abanet/oc/">Entire Calendar</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/abanet/oc/abatoday/">Today</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                <li class="yuimenubaritem" style="border:1px; border-right-style:solid; border-bottom-width: thin; border-right-color:#FFFFFF"><a id="ie6only" class="yuimenubaritemlabel" href="/abastore/index.cfm" accesskey="3">Store</a>
+                  <div id="store" class="yuimenu">
+                    <div class="bd">
+                      <ul id="subglobalnav3" class="first-of-type">
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/abastore/index.cfm?tid=2&amp;section=newbooks&amp;fm=Product.Search&amp;type=pt">New Releases</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/abastore/index.cfm?section=bestsellers&amp;fm=Product.Search&amp;type=bs">Best Sellers</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/abastore/index.cfm">Books</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/abastore/index.cfm?section=CLE">CLE</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.abanet.org/abastore/index.cfm?section=magazines">Periodicals</a></li>
+                        <!--li class="yuimenuitem"><a class="yuimenuitemlabel" href="#">Law Librarians</a></li-->
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/abastore/index.cfm?section=main&amp;fm=Topic">Topics</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                <li class="yuimenubaritem" style="border:1px; border-right-style:solid; border-bottom-width: thin; border-right-color:#FFFFFF"><a id="ie6only" class="yuimenubaritemlabel" href="#" accesskey="v">Publications</a>
+                  <div id="publications" class="yuimenu">
+                    <div class="bd">
+                      <ul id="subglobalnav3" class="first-of-type">
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.abajournal.com/">ABA Journal</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.abanet.org/abastore/index.cfm?section=magazines">ABA Periodicals</a></li>
+                        <!--li class="yuimenuitem"><a class="yuimenuitemlabel" href="#">Reports</a></li-->
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/cpr/pubs/ethicopinions.html">Ethics Opinions</a></li>
+                        <!--li class="yuimenuitem"><a class="yuimenuitemlabel" href="#">Meeting Materials</a></li-->
+                        <!--li class="yuimenuitem"><a class="yuimenuitemlabel" href="#">Guides & How To</a></li-->
+                        <!--li class="yuimenuitem"><a class="yuimenuitemlabel" href="#">White Papers</a></li-->
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                <li class="yuimenubaritem"><a id="ie6only" class="yuimenubaritemlabel" href="/about/" accesskey="9">&nbsp;About the ABA</a>
+                  <div id="join" class="yuimenu">
+                    <div class="bd">
+                      <ul id="subglobalnav3">
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/about/goals.html">Mission</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/leadership/">Leadership</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/policy/mo/2006/abapolicyandprocedures06-07.pdf" target="_blank">ABA Policies (Members Only)</a></li>
+                        <!--li class="yuimenuitem"><a class="yuimenuitemlabel" href="#">ABA Official Opinions</a></li-->
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/hr/">Employment Opportunites</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/charities.html">Charities</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/about/related.html">Related and Affiliated Organizations</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/abanet/media/release/news_release_list.cfm">Press Releases</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/about/yir/">Year in Review</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/op/">President's Page</a></li>
+                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/leadership/summaryofaction.html">Governance Reports</a></li>
+                        <!--li class="yuimenuitem"><a class="yuimenuitemlabel" href="#"> Awards</a></li-->
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div style="background-color:#FFFFFF">
+          <!-- End Masthead with div directly above-->
+          <!--NEW HEADER-->
+          <br>
+        </div>
+        <nobr><strong id="tP" style="position:relative; top:-9px; left:46px; font-size: 12px; color:#000099;">Jan 30, 2020</strong></nobr>
+        <script type="text/javascript">
+function tS(){ x=new Date(); x.setTime(x.getTime()); return x; } 
+function lZ(x){ return (x>9)?x:'0'+x; } 
+function dT(){ document.getElementById('tP').innerHTML=eval(oT); setTimeout('dT()',1000); } 
+function y4(x){ return (x<500)?x+1900:x; } 
+var mN=new Array('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'),oT="mN[tS().getMonth()]+' '+tS().getDate()+','+' '+y4(tS().getYear())";
+if(!document.all){ window.onload=dT; }else{ dT(); }
+</script>
+      </div>
+    </div>
+  </div>
 </div>
-<!-- End Masthead with div directly above-->
 
 
 <div id="sidebar">
    <!--// BEGIN PRIMARY LEFT NAVIGATION OPTIONS //-->
-    <div id="globalnav">
+    <!-- Commented Out on 8/15/2008 by Phillip Gross -->
+    
+    <!-- <div id="globalnav" >
       <ul>
         <li><a href="/">ABA Home</a></li>
         <li><a href="/join/">Join</a></li>
 		<li><a href="/abastore/index.cfm">Web Store</a></li>
         <li><a href="/about/">About the ABA</a></li>
       </ul>
-    </div>
+    </div> -->
 
   <!-- Entity Local Navigation -->
-  <div id="localnav">
-	<ul>
-		<li><a href="/lawyer.html">Lawyer Resources</a></li>
-		<li><a href="/legaled.html">Legal Education</a></li>
-		<li><a href="/public.html">Public Resources</a></li>
-	</ul>
-	<br>
-	<ul>
-		<li><a href="/members/">Member Services</a></li>
-		<li><a href="/membergroups.html">Member Groups</a></li>
-	</ul>
-	<br>
-	<ul>
-		<li><a href="/legalservices/findlegalhelp/home.cfm">Find Legal Help</a></li>
-		<li><a href="/lawyerlocator/searchlawyer.html">Lawyer Locator</a></li>
-	</ul>
-</div>
-
-
+  
 
   
 <!-- ABA Advertising Include: DO NOT REMOVE -->
 <!-- Ad JavaScript Goes Here-->
-<div align="center">
-  <a href="/cle/splash/"><img src="/images/ads/clebannerad.gif" border="0" alt="ABA-CLE: Quality Content in Convenient Formats" width="120" height="600"></a>
+<div align="center" style="margin-top: 10px; ">
+  <a href="http://www.legallyminded.com/index.html?trk=abaweb"><img src="/images/ads/legallyminded_skyscraper_ad.jpg" border="0" alt="LegallyMinded - Join the Latest Legal Professionals Network provided by the ABA. " width="120" height="600"></a>
 
 </div>
 
@@ -121,80 +466,20 @@ if(firstname == ""){
   <!--End Sidebar with </div> directly above-->
 
   <!-- Begin Search DO NOT REMOVE-->
-  <!-- MODIFIED 5/22/2007 CHANG AHN - add entity site filter to search box -->
+  <!-- <div style="float: left; position:absolute; top:65px; left:19px;">
+<nobr><strong id="tP" style="float: left; position:absolute; top:65px; left:19px; font-size: 12px; color:#000099"><b>&nbsp;</b></strong></nobr>
+<script type="text/javascript">
+function tS(){ x=new Date(); x.setTime(x.getTime()); return x; } 
+function lZ(x){ return (x>9)?x:'0'+x; } 
+function dT(){ document.getElementById('tP').innerHTML=eval(oT); setTimeout('dT()',1000); } 
+function y4(x){ return (x<500)?x+1900:x; } 
+var mN=new Array('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'),oT="mN[tS().getMonth()]+' '+tS().getDate()+','+' '+y4(tS().getYear())";
+if(!document.all){ window.onload=dT; }else{ dT(); }
+</script> 
+</div> -->
 
- <div id="search" style="height: 50px;">
-    <ul id="searchemail">
-      <li id="searchbox">         
-<form name="gs" id="gs" method="get" action="http://search.abanet.org/search">
-	<input type="hidden" name="sort" value="date:D:L:d1">
-	<input type="hidden" name="access" value="a">
-	<input type="hidden" name="output" value="xml_no_dtd">
-	<input type="hidden" name="ie" value="UTF-8">
-	<input type="hidden" name="oe" value="UTF-8">
-	<input type="hidden" name="client" value="default_frontend">
-	<input type="hidden" name="proxystylesheet" value="default_frontend">
-	<input type="hidden" name="sort" value="score">
-	
-	<table border="0" cellspacing="0" cellpadding="2">
-		<tbody><tr>
-			<td><label>Search:</label>
-			<input id="q" type="text" name="q" size="20" maxlength="256" value="" style="font-size:10px">
-			<select id="as_sitesearch" name="as_sitesearch" style="font-size:10px">
-				<option value="">Web Site</option>												
-					<script type="text/javascript">
-					<!--
-					/* 5/22/2007 CHANG AHN - entity fitler search*/ 
-					
-					var whereami = window.location.href; // get root level directory
-					
-					/* 01/24/2008 Alan kong - 404 403 error page no entity search */
-					var ptitle = document.title;
-					var errpage = /404|403|500/;
-					/* returns -1 if not an error page */
-					var isErrorPage = ptitle.search(errpage);
-							
-						 // get root level directory
-					var urlParts = new Array();
-						urlParts = whereami.split("/");
-					//var http_host = urlParts[0] + "//" + urlParts[2];  // resemble http
-					var http_host = urlParts[2];
-					var rootLevelDir = urlParts[3];
-					var q_sitefilter = "";
-										
-					//chedk that the user location is under a root level directory
-					if ((rootLevelDir) && (rootLevelDir != '' )) {
-						//temporary fix until rpte is indexed by gsa. Replace RPTE with RPPT
-						if (rootLevelDir == "rpte") {
-							rootLevelDir = "rppt";
-						} 
-						
-						var testForExt = /\./;
-						var isWebPage = true;
-								isWebPage = testForExt.test(rootLevelDir);  // test if user is in a root level file.
-						if ((! isWebPage) && (isErrorPage == -1)) {
-							q_sitefilter = http_host + "/" + rootLevelDir;
-							document.write("<option selected value=\"" + q_sitefilter + "\">This Entity</option>");
-						} else {
-							q_sitefilter = "";
-						}
-					}
-					//-->
-					</script><option selected="" value="web.archive.org/web">This Entity</option> 
-				</select>
-				<input type="submit" name="btnG" value="Go" align="middle" style="font-size:10px ">
-			</td>
-			<td><span style="font-size: 80%;">
-				<a href="http://search.abanet.org/search?access=a&amp;sort=date%3AD%3AL%3Ad1&amp;output=xml_no_dtd&amp;site=default_collection&amp;ie=UTF-8&amp;oe=UTF-8&amp;client=default_frontend&amp;proxystylesheet=default_frontend&amp;ip=10.1.21.51&amp;proxycustom=%3CADVANCED/%3E">Advanced Search</a> 
-			<br>
-			<a href="http://www.abanet.org/aztopics.html">Topics A-Z</a></span> 
-			</td>
-		</tr>
-	</tbody></table>
-	
- </form>
-      </li>
-    <li id="emailprint"><script language="JavaScript">
+<nobr><div id="emailprint">
+<script language="JavaScript">
 	function pop() {
 		var title = escape(document.title);
 		window.open("/abanet/common/abaelements/emailthis.cfm?title="+title+"&link="+window.location+"", "EmailThis", "resizable=no,scrollbars=yes,width=460,height=470");
@@ -204,13 +489,7 @@ if(firstname == ""){
 		window.open("/abanet/common/print/newprintview.cfm?ref="+window.location+"", "PrinterFriendly", "resizable=yes,scrollbars=yes,width=500,height=470");
 	}
 </script>
-  <a href="javascript:print();">Print This</a> &nbsp;|&nbsp; <a name="Email This" href="#" onclick="pop();">E-mail This</a>
-    </li></ul>
-    
-</div>
-<div style="clear:right; "></div>
-  <!-- End Search  with </div> directly above-->
-
+<a href="javascript:print();">Print This</a> &nbsp;|&nbsp; <a name="Email This" href="#" onclick="pop();">E-mail This</a></div></nobr>
   <div id="content">
     <!-- ADD YOUR CODE BELOW -->
 	<h1 class="pagetitle">Privacy Statement for ABANET.ORG</h1>
@@ -240,7 +519,7 @@ if(firstname == ""){
 <p>For some e-mails distributed by the ABA and its Sections, specific information on recipient response is collected.  For example, we sometimes review how many recipients open and subsequently choose to click through to links provided in an e-mail.  We use this information only for the purposes of analyzing areas of interest, improving our products and enhancing the usefulness of our website for ABA members and other visitors.  None of this information is sold or distributed outside of the ABA in any manner.  </p>
 
 <h2>The ABA's Support Level Agreement</h2>
-<p>The ABA is committed to providing 100 percent availability of its Internet site(s) and email aliasing service.  We have implemented safeguards and alarms to notify us in the event of loss of Internet connectivity to the backbone and of hardware failures.  Even with these safeguards in place, loss of connectivity or hardware failure can still occur.  For this reason, the ABA cannot "guarantee" its Internet connectivity, nor can we be responsible for lost or delayed requests, email, or content. 
+<p>The ABA is committed to providing 100 percent availability of its Internet site(s).  We have implemented safeguards and alarms to notify us in the event of loss of Internet connectivity to the backbone and of hardware failures.  Even with these safeguards in place, loss of connectivity or hardware failure can still occur.  For this reason, the ABA cannot "guarantee" its Internet connectivity, nor can we be responsible for lost or delayed requests, email, or content. 
 </p><p>For questions regarding our web site being down or any related service outage, please send an email to <a href="mailto:help@abanet.org">help@abanet.org</a>. </p>
 
 <h2>Use of Cookies and IP addresses </h2>
@@ -312,7 +591,13 @@ if(firstname == ""){
   </div>
   <!-- ADD YOUR CODE ABOVE -->
   <!-- End Content with </div> directly above-->
-   <div style="clear:both; "></div>
+   <!-- AK: Stylesheet Links In case parent page does not have them -->
+<link href="/css/layout.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/css/mainstylesheet.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/css/print.css" rel="alternate stylesheet" type="text/css" media="screen">
+<link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
+
+ <div style="clear:both; "></div>
   <span class="printfooter">Copyright American Bar Association.  http://www.abanet.org</span>
   <div id="footer">
     <ul id="footernav">
@@ -323,7 +608,7 @@ if(firstname == ""){
     </ul><p>
 	<a href="/">
 	<img src="/img/aba_logo_blue.gif" width="70" height="45" alt="American Bar Association" border="0"></a></p>
-    <p class="address">American Bar Association | 321 N. Clark St. | Chicago, IL 60610 | 800.285.2221<br>
+    <p class="address">American Bar Association | 321 N. Clark St. | Chicago, IL 60654-7598 | 800.285.2221<br>
       <a href="/privacy.html" class="nonfooter">ABA Copyright Statement</a> &nbsp; <a href="/privacy_statement.html" class="nonfooter">ABA Privacy Statement</a> &nbsp; <a href="/feedback.shtml">Web Site Feedback</a></p>
   
   </div>
@@ -333,11 +618,25 @@ if(firstname == ""){
   
 
 
-	<script src="/abanet/common/webAnalytics/_numeric_.js"></script>
-    <script>
-    	
 
-		
+	<script src="/abanet/common/webAnalytics/_numeric_.js"></script>
+    <script type="text/javascript">
+	
+		_numeric_.bLoggedInCFMjs = '';
+		_numeric_.lMembershipCFMjs = '';
+		_numeric_.userTypeCFMjs = '';
+		_numeric_.bNewMemberCFMjs = '';
+		_numeric_.memberStatusCFMjs = '';
+		_numeric_.lNewSectionListCFMjs = '';
+		_numeric_.wsEventsCFMjs = '';
+		_numeric_.wsProductCFMjs = '';
+		_numeric_.wsMerchCatCFMjs = '';
+		_numeric_.wsPurchaseID = '';
+		_numeric_.wsPurchaseState = '';
+		_numeric_.wsPurchaseZip = '';
+		_numeric_.meetingInfoCFMjs = '';
+		_numeric_.jMemberCFMjs = '';
+
 		
 
 		_numeric_.bLoggedInCFMjs = 'no';
@@ -346,6 +645,14 @@ if(firstname == ""){
 		_numeric_.bNewMemberCFMjs = 'no';
 		_numeric_.memberStatusCFMjs = '';
 		_numeric_.lNewSectionListCFMjs = '';
+		_numeric_.wsEventsCFMjs = '';
+		_numeric_.wsProductCFMjs = '';
+		_numeric_.wsMerchCatCFMjs = '';
+		_numeric_.wsPurchaseID = '';
+		_numeric_.wsPurchaseState = '';
+		_numeric_.wsPurchaseZip = '';
+		_numeric_.meetingInfoCFMjs = '';
+		_numeric_.jMemberCFMjs = 'Visitor';
 
         
 
@@ -356,7 +663,7 @@ if(firstname == ""){
 
 
 <noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://abanetproduction.112.2O7.net/b/ss/abanetproduction/1/H.15.1--NS/0"
+src="http://webstats.abanet.org/b/ss/abanetproduction/1/H.15.1--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript>
 
 
