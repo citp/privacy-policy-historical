@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the befit4free.net privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611083421id_/http%3A//www.befit4free.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befit4free.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023511id_/http%3A//www.befit4free.com/privacypolicy) for the most accurate reproduction.*
 
 # privacypolicy
 
