@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the ijigg.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623042356id_/http%3A//www.ijigg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijigg.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011940id_/http%3A//www.ijigg.com/privacy) for the most accurate reproduction.*
 
-# | iJigg.com - Rate and Download Free Music
-
-**Listeners:**  
-• Discover new music  
-• Rate music you like  
-• Download free MP3s  
-• Share music with friends  
-• Free sign-up! [Join iJigg](https://web.archive.org/join)
-
-**Indie Bands/Artists:**  
-• Post **all** your music tracks  
-• Easily share your music  
-• Make new fans  
-• Become more popular!  
-• Totally Free. [Join iJigg](https://web.archive.org/join-artist)
-
-|   Privacy   
-
+# Privacy Policy - iJigg.com
 
 The use of the iJigg website(s) and/or iJigg software and any iJigg services and products (collectively, the "Website") provided by iJigg Inc. ("iJigg") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy may be accessed at http://www.iJigg.com/help/privacy, and is subject to the iJigg Terms of Service available at http://www.iJigg.com/help/tos. If you do not agree to this Privacy Policy or the Terms of Service, please do not use the Website.  
 **General**  
@@ -46,6 +29,22 @@ Deletion (Opt-Out). In order to delete the personally identifiable information y
 Modification. If you wish to modify or update your personally identifiable information, use the Website or application interface.  
 Third Parties' Practices. This Privacy Policy does not cover the information practices exercised by other providers of products or services, advertisers or other web sites, or companies/people that iJigg does not own or control, or does not employ or manage.  
 **Non-U.S. Users**  
-The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer.   
-  
----|---
+The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer. 
+
+| 
+
+[](https://web.archive.org/join/photo)[](https://web.archive.org/login/default)
+
+flag: 0 
+
+**Listeners:**   
+• Discover new music   
+• Rate music you like   
+• Download free MP3s   
+• Share music with friends 
+
+**Indie Bands/Artists:**   
+• Post all your music tracks   
+• Easily share your music   
+• Make new fans   
+• Become more popular! 
