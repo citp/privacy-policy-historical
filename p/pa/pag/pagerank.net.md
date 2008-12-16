@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagerank.net privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530064115id_/http%3A//www.pagerank.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagerank.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170249id_/http%3A//www.pagerank.net/privacy-policy) for the most accurate reproduction.*
 
 # PageRank » Privacy Policy
 
@@ -25,11 +25,21 @@ This site has security measures in place to protect the loss, misuse, and altera
  **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the [webmaster](http://www.pagerank.net/contact/ "search engine optimization company").
 
-[](http://www.blackwoodproductions.com/ "Search Engine Marketing")
+[](http://www.pagerank.net/advertise/ "search engine marketing")
 
-[](http://www.brickmarketing.com/ "Website Marketing")
-
-[Link Building](http://www.linkbuilderspro.com/ "Link Building") \- Professional link building services. Relevant links will increase your natural search engine rankings.
+[](http://www.pagerank.net/advertise/ "search engine marketing")
 
 [](http://www.pagerank.net/ "Search Engine Optimization")  
 Display Your [PageRank](http://www.pagerank.net/display-pagerank/ "PageRank") on Your Website Now!
+
+This Premium Spot is Available!!  
+Place your Advertisment [here](http://www.pagerank.net/advertise/ "search engine marketing").
+
+This Premium Spot is Available!!  
+Place your Advertisment [here](http://www.pagerank.net/advertise/ "search engine marketing").
+
+This Premium Spot is Available!!  
+Place your Advertisment [here](http://www.pagerank.net/advertise/ "search engine marketing").
+
+This Premium Spot is Available!!  
+Place your Advertisment [here](http://www.pagerank.net/advertise/ "search engine marketing").
