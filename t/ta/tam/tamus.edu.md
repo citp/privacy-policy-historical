@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217130425id_/http%3A//www.tamus.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032208id_/http%3A//www.tamus.edu/web/privacy.html) for the most accurate reproduction.*
 
-# Texas A&M System » Privacy
+# Privacy
+
+## Privacy
 
 The Texas A&M University System (A&M System) respects your privacy. It is the policy of the A&M System to protect the information you provide to us through the A&M System Web site. The A&M System will not share, sell, rent, or otherwise distribute that information to any entity outside of the A&M System for any commercial purposes.
 
@@ -17,4 +19,4 @@ Please include your name, address, phone, and email address (where applicable) i
 
 The A&M System uses log file analysis tools to track general site usage patterns and frequencies. The information collected is non-user specific and is used by the A&M System to monitor site traffic, performance, usage patterns, system design specifications, performance problems, hardware utilization, etc. This information is used for site management purposes only and will not be revealed to outside entities.
 
-Please contact the A&M System Communications Office (by any of the above-mentioned methods) if you have any questions regarding this policy.
+Please contact the [A&M System Communications Office](https://web.archive.org/offices/communications/index.aspx) (by any of the above-mentioned methods) if you have any questions regarding this policy.
