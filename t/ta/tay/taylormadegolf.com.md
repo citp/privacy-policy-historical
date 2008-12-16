@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylormadegolf.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415045550id_/http%3A//www.taylormadegolf.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylormadegolf.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170307id_/http%3A//www.taylormadegolf.com/privacy.asp) for the most accurate reproduction.*
 
 # TaylorMade Golf - Privacy Statement
 
@@ -7,7 +7,7 @@ TaylorMade-adidas Golf Company
 Privacy Policy  
 Effective 1/8/04
 
-Thank you for visiting the Privacy Policy page of Taylor Made Golf Company, Inc. d/b/a TaylorMade-adidas Golf Company ("TMaG"). TMaG values your right of privacy, and wants you to feel comfortable and secure using any of our websites at [www.taylormadegolf.com](http://taylormadegolf.com/) , [www.adidasgolf.com](http://www.adidasgolf.com/) , [www.rossaputters.com](http://rossaputters.com/) , [www.maxfli.com](http://maxfli.com/) , [www.tmag.com](http://tmag.com/) , [www.noodlegolf.com](http://noodlegolf.com/) , [www.projectprototype.com](http://projectprototype.com/) , [www.tmag.biz](http://tmag.biz/) , and all other TMaG websites (the "TMaG Websites"). This page describes our policy with regard to online privacy and explains how you can opt out of certain uses and disclosures of your personal information. As a courtesy, this page also provides a number of useful links to third party information regarding privacy protection. However, TMaG does not assume any responsibility for the accuracy and/or completeness of such third party information.
+Thank you for visiting the Privacy Policy page of Taylor Made Golf Company, Inc. d/b/a TaylorMade-adidas Golf Company ("TMaG"). TMaG values your right of privacy, and wants you to feel comfortable and secure using any of our websites at [www.taylormadegolf.com](http://taylormadegolf.com/) , [www.adidasgolf.com](http://www.adidasgolf.com/) , [www.rossaputters.com](http://rossaputters.com/) , [www.tmag.com](http://tmag.com/) , [www.noodlegolf.com](http://noodlegolf.com/) , [www.projectprototype.com](http://projectprototype.com/) , [www.tmag.biz](http://tmag.biz/) , and all other TMaG websites (the "TMaG Websites"). This page describes our policy with regard to online privacy and explains how you can opt out of certain uses and disclosures of your personal information. As a courtesy, this page also provides a number of useful links to third party information regarding privacy protection. However, TMaG does not assume any responsibility for the accuracy and/or completeness of such third party information.
 
 Your Acceptance
 
