@@ -1,33 +1,6 @@
-> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530025139id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161039id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
 
-# College Reviews: StudentsReview : Over 60900 College Reviews! (3,156 schools reviewed)
-
-  
-   **Main**
-
- 
-
-  
-   **Summer**
-
- 
-
-  
-   **Featured**
-
- 
-
-  
-   **University**
-
- 
-
-  
-   **Community**
-
-  |  | 
-
-Students Review, Inc. Privacy Policy
+# College Reviews: StudentsReview : Over 71400 College Reviews! (3,359 schools reviewed)
 
 Students Review, Inc. ("SRI") is a firm supporter in individuals' rights to privacy and protection of their personal information. SRI feels that not only a company such as itself fully disseminate its data acquisition processes, but also will do its best to keep users informed when it is taking data of any nature from or on them. 
 
@@ -51,10 +24,3 @@ To see what information specifically is gathered, and how it is used, see below.
 As always, it is the individuals right and duty to remain fully aware of the information being submitted to a foreign site. By submitting a review, an individual consents to release their opinions and viewpoints for use by SRI in any way. 
 
 Additionally, in the unlikely circumstance, where there is third party distribution of individually identifiable information, collected online from the individual, unrelated to the purpose for which it was collected, the individual will be given a clear opportunity to opt out of information submission. 
-
- 
-
-  
-
-
-|  | 
