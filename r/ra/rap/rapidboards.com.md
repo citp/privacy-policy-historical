@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the rapidboards.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603004437id_/http%3A//www.rapidboards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidboards.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031040id_/http%3A//www.rapidboards.com/privacy.php) for the most accurate reproduction.*
 
-# RapidBoards - Free Invision Power Board (IPB) Forum Hosting - Skin Uploads, Avatar Uploads, and More!
+# Privacy Policy - RapidBoards
 
 |  | 
-
-## Uniform Privacy Policy
 
 Your privacy is important to us. That is why we want you to be informed about how we protect the privacy of visitors to our site. Please take a moment to read the following policy, which describes our privacy practices. 
 
@@ -34,4 +32,4 @@ Our site contains links to other web sites. These sites are not covered by this 
 
 By using our site you consent to our collection and use of your personal information as described in this policy. We reserve the right to modify this privacy statement and related business practices at any time by posting updated text on this site, and your continued use constitutes acceptance of those changes. Thank you for visiting our site, and for taking the time to read this policy. 
 
-EOF  |  | 
+|  | 
