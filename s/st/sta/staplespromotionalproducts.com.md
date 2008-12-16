@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609005658id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216052645id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Staples Promotional Products Privacy Policy
 
@@ -34,7 +34,7 @@ Except as otherwise described, your personal information will not be shared outs
 
 Update Your Personal Information at Any Time
 
-Information is collected by Staples Promotional Products and stored at Staples Promotional Products. You can review and edit your personal information on StaplesPromotionalProducts.com by clicking on [My Account](https://web.archive.org/web/20080609005658id_/http%3A//www.staplespromotionalproducts.com/MyAccount/MyAccount.aspx). You can also reach us at the following address and phone number:
+Information is collected by Staples Promotional Products and stored at Staples Promotional Products. You can review and edit your personal information on StaplesPromotionalProducts.com by clicking on [My Account](https://web.archive.org/web/20081216052645id_/http%3A//www.staplespromotionalproducts.com/MyAccount/MyAccount.aspx). You can also reach us at the following address and phone number:
 
 **Staples Promotional Products  
 7500 W. 110th Street  
@@ -47,7 +47,7 @@ If you shop with us online, we use third–party advertising technology to help 
 
 A session cookie is a small data file that is placed on the hard drive of your computer when you visit a website. A session cookie expires immediately when you close your browser; a persistent cookie stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available. When you visit StaplesPromotionalProducts.com, we use both session and persistent cookies. 
 
-Coremetrics does not have the right to use the information we provide to them beyond what is necessary to assist us. For more information, including how to opt–out, go to [www.coremetrics.com/info_eluminate2.html](http://www.coremetrics.com/info_eluminate2.html) the course of delivering our online advertisements to you, a unique third–party cookie may be placed on your browser. We also use a technology called "web beacons" that enable our advertising service provider to track which advertisements bring users to our site. To learn more about our third–party advertising service provider and how to "opt–out", please go to [](http://www.doubleclick.com/com/us/about_doubleclick/privacy/) www.doubleclick.com/com/us/about_doubleclick/privacy/.
+Coremetrics does not have the right to use the information we provide to them beyond what is necessary to assist us. For more information, including how to opt–out, go to [www.coremetrics.com/info_eluminate2.html](http://www.coremetrics.com/info_eluminate2.html). During the course of delivering our online advertisements to you, a unique third–party cookie may be placed on your browser. We also use a technology called "web beacons" that enable our advertising service provider to track which advertisements bring users to our site. To learn more about our third–party advertising service provider and how to "opt–out", please go to [www.doubleclick.com/com/us/about_doubleclick/privacy/](http://www.doubleclick.com/com/us/about_doubleclick/privacy/).
 
 Keeping Your Information Secure
 
