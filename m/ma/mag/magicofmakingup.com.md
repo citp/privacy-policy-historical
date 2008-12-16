@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magicofmakingup.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619151656id_/http%3A//www.magicofmakingup.com/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicofmakingup.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011947id_/http%3A//www.magicofmakingup.com/Privacy_Statement.html) for the most accurate reproduction.*
 
-# How To Get Your Ex Back| Relationship Advice|Break Up Advice-Privacy Statement
+# Magic Of Making Up | How To Get Your Ex Back | Relationship Advice | Break Up Advice-Privacy Statement
 
 **Privacy Policy**
 
