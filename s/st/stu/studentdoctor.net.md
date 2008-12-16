@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611031714id_/http%3A//www.studentdoctor.net/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154617id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement : Student Doctor Network
 
-Privacy Statement
-
-**[](http://www.truste.org/ivalidate.php?url=www.studentdoctor.net&sealid=101)**
+[](http://www.truste.org/ivalidate.php?url=www.studentdoctor.net&sealid=101)
 
 **Privacy Statement**
 
@@ -12,8 +10,7 @@ Privacy Statement
 
 Coastal Research Group is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.studentdoctor.net. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact the SDN Executive Director, Lee Burnett at   
-<http://www.studentdoctor.net/corporate/contact_us.asp>
+If you have questions or concerns regarding this statement, you should first contact the SDN Executive Director, Lee Burnett at <http://studentdoctor.net/contact-us/>
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -39,16 +36,16 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 **Uses of Information**
 
-We use the personal information you supply us, including your registration data, to enhance our services; fulfill your requests for products, programs, or services; and personalize your experience. We also use other information obtained from user site traffic patterns to better provide you with a personalized experience. 
+We use the personal information you supply us, including your registration data, to enhance our services; fulfill your requests for products, programs, or services; and personalize your experience. We also use other information obtained from user site traffic patterns to better provide you with a personalized experience.
 
-The Student Doctor Network uses the information described above to do, among other things, the following: 
+The Student Doctor Network uses the information described above to do, among other things, the following:
 
-  * Personalize and enhance the site and service such as providing you with information we believe will be of interest to you. 
-  * We may also use the information we collect to develop summary reports for our advertisers. An example of a summary report might be "100,000 people clicked on this advertisement." We provide this information to assist our advertisers in determining how to promote their products. We do not tell our advertisers who it was that saw or clicked on their advertisements. 
+  * Personalize and enhance the site and service such as providing you with information we believe will be of interest to you.
+  * We may also use the information we collect to develop summary reports for our advertisers. An example of a summary report might be “100,000 people clicked on this advertisement.” We provide this information to assist our advertisers in determining how to promote their products. We do not tell our advertisers who it was that saw or clicked on their advertisements.
 
 
 
-Information that you provide while using products such as SDN Forums and SDN Chat is available for all to see. Discretion should be used in entering Personally Identifiable Information within such forums, as it may be collected by third parties. The Coastal Research Group does not actively associate the message content entered by our users in SDN Forums, or SDN Chat with those users' registration information. Our server computers will retain this information. It is available for distribution to law-enforcement agencies acting under subpoena power. See “Legal Disclaimer” below.
+Information that you provide while using products such as SDN Forums and SDN Chat is available for all to see. Discretion should be used in entering Personally Identifiable Information within such forums, as it may be collected by third parties. The Coastal Research Group does not actively associate the message content entered by our users in SDN Forums, or SDN Chat with those users’ registration information. Our server computers will retain this information. It is available for distribution to law-enforcement agencies acting under subpoena power. See “Legal Disclaimer” below.
 
 **Communications from the Site**
 
@@ -58,9 +55,9 @@ We will occasionally send you email messages from the SDN Forums. We only send i
 
 **Choice/Opt-Out**
 
-You may indicate when you register whether or not you would like to receive messages from our Web Administrator as described above.   
-To opt-out of SDN Forum messages, please edit your messaging and notification options at: http://forums.studentdoctor.net/profile.php?do=editoptions  
-Contact us at <http://www.studentdoctor.net/corporate/contact_us.asp> should you have any trouble administering your account.
+You may indicate when you register whether or not you would like to receive messages from our Web Administrator as described above.  
+To opt-out of SDN Forum messages, please edit your messaging and notification options at: <http://forums.studentdoctor.net/profile.php?do=editoptions>  
+Contact us at <http://studentdoctor.net/contact-us/> should you have any trouble administering your account.
 
 **Service-related Announcements**
 
@@ -74,7 +71,7 @@ Based upon the personally identifiable information you provide us, we will send 
 
 We store information that we collect through cookies, log files, and clear gifs to create a “profile” of your preferences. We do not tie your personally identifiable information, or your purchasing history, to information in the profile.
 
-We do not share your individual profile with other third parties. However, we may share information from your profile in aggregate form only with potential or existing advertisers or potential or current partner organizations. 
+We do not share your individual profile with other third parties. However, we may share information from your profile in aggregate form only with potential or existing advertisers or potential or current partner organizations.
 
 **Information Sharing and Disclosure**
 
@@ -118,16 +115,16 @@ Some advertisers use cookies on our site. We have no access to or control over t
 
 We employ, and/or our third party advertising partner, Google, may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
-To learn more about Google's use of clear gifs, please go to [www.google.com](http://www.google.com/).
+To learn more about Google’s use of clear gifs, please go to [www.google.com](http://www.google.com/).
 
 **Third Party Advertisers**
 
 Some of the ads appearing on this Web site are delivered to users by Google, our advertising partner. We do not share Web site usage information about users with Google.
 
-Google may use cookies and clear GIFs on this site, which allow it to recognize a user's cookie when a user visits this site. The information that Google collects and shares through this technology is not personally identifiable.  
+Google may use cookies and clear GIFs on this site, which allow it to recognize a user’s cookie when a user visits this site. The information that Google collects and shares through this technology is not personally identifiable.  
 For more information about our third-party advertiser, or to learn more about the choices available to you regarding this anonymous information, please click here: [www.google.com](http://www.google.com/).
 
-**Links to Other Sites**
+**L** **inks to Other Sites**
 
 This Web site contains links to other sites that are not owned or controlled by The Coastal Research Group such as Amazon.com and PayPal.com. Please be aware that we, The Coastal Research Group, are not responsible for the privacy practices of such other sites.  
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
@@ -146,7 +143,7 @@ If your personally identifiable information changes, or if you no longer desire 
 
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can contact us through our [contact form](https://web.archive.org/corporate/contact_us.asp).
+If you have any questions about security on our Web site, you can contact us through our contact form.
 
 **Business Transitions**
 
@@ -163,7 +160,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Student Doctor Network  
-PO Box 1659  
+PO Box 1160  
 Sunset Beach, CA 90742
 
 Physical Address
@@ -172,5 +169,5 @@ Student Doctor Network
 26922 Oso Parkway #380  
 Mission Viejo, CA 92691
 
-Or use our contact form at:   
-<http://www.studentdoctor.net/corporate/contact_us.asp>
+Or use our contact form at: [  
+http://studentdoctor.net/contact-us/](http://studentdoctor.net/contact-us/)
