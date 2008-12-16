@@ -1,144 +1,114 @@
-> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613011007id_/http%3A//www.princetonreview.com/footer/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011834id_/http%3A//www.princetonreview.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | The Princeton Review
 
-  
+## The Princeton Review Web Site Privacy Policy
 
+This Privacy Policy governs your use of this web site, located at [www.PrincetonReview.com](http://www.princetonreview.com/) (this “Web Site”), which is made available by The Princeton Review, Inc. (“The Princeton Review” or “we” or “us”). 
 
-The Princeton Review takes your privacy seriously. This Privacy Policy applies to all of our customers, whether you buy our services or products online or offline. It also applies to visitors to our free websites.
+Your privacy is a serious matter to us.  This Privacy Policy outlines the type of Personal Information and other information that is collected through this Web Site and how that information is used and protected.
 
-The Princeton Review takes strong measures to protect your privacy. First, we only ask you to provide information that we need in order to deliver the service or information you have requested. Second, we don't share the information you have given us without your permission to do so. 
+By visiting this Web Site, and/or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy as they may be amended from time to time.  As we update and expand our Web Site and services, this Privacy Policy may change, so check back to this page from time to time.  This Privacy Policy is incorporated into, and part of, [The Princeton Review Web Site Terms and Conditions](https://web.archive.org/terms-and-conditions.aspx "The Princeton Review Web Site Terms and Conditions") which govern your use of this Web Site in general.  This Privacy Policy applies to all of our on-line customers as well as to visitors of our free Web sites.
 
-  
-OVERALL
+We may from time to time ask you for Personal Information, and we may collect certain information from your computer each time you visit our Web Site.  “ **Personal Information** ” means personally identifiable information and includes, for example, your name; street address; e-mail address; telephone number; credit card and other payment information; demographic information; year of graduation, academic records, test scores, other information that you choose to provide regarding your academic and extracurricular activities and interests; and/or other information that may identify you as an individual or allow online contact with you.
 
-Information We Collect  
-We collect personally identifiable information from you when you purchase some of our products, including online and offline courses, and when using some of our Web-based services. We will request information that we need in order for you to participate in the service (things like your name and address, for example) or pay for the service (credit card information, for example). 
+You have the right to “opt-in” and “opt-out” of certain of our uses of your Personal Information.  For example, on this Web Site, you may be able to elect to or not to receive correspondence from us or have your Personal Information shared with other entities for their marketing purposes.  You may also make this request by visiting our [Manage Your Subscriptions](https://web.archive.org/Subscriptions.aspx "Manage Your Subscriptions") web page and indicating which correspondence you would like to receive.  If you do not want to receive any promotional correspondence, simply uncheck all of the boxes of the Manage Your Subscriptions page.  You can also send an e-mail to [privacy@review.com](mailto:privacy@review.com).  In this e-mail, please say whether: (i) you would like to opt-out of receiving all e-mail promotional correspondence from The Princeton Review in general or (ii) if you would only like to opt-out of certain of The Princeton Review’s e-newsletters or correspondence and if so which ones.  You may also opt-out of The Princeton Review’s promotional e-mails by clicking on an opt-out link within the e-mail you receive.
 
-The Princeton Review offers several opportunities to receive products or information on- and off-line, either directly from us or from our partners. You can indicate your wish to receive such products and information by checking a box on a form; unless you ask for it, nothing will be sent to you and nothing will be shared with third parties.
+Please understand that if you opt-out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.
 
-If you request to receive information from us or others, we often need to collect more information from you than when you purchase a product or service from us. The additional information we ask for will vary depending on what it is you're requesting, but generally includes your mailing address, year of graduation, and other information that you choose to provide regarding your academic and extracurricular activities and interests. When you ask to receive information from or to be contacted by a third party, your information is passed on to the third party to fulfill your request; they may have their own privacy policies that differ from ours. The information we share may include any personally identifiable information we have about you, such as your name, address, academic record, and test scores.
+### User-Provided Information
 
-We may track data on our customers in aggregate form. Such aggregated data does not uniquely identify you.
+We may collect Personal Information from users, for example, through such users’ activities, transactions and completion of surveys and other online forms on our Web Site. 
 
-Schools  
-We work with schools and institutions to provide programs such as test preparation and college counseling. Your school, district, or state may arrange for you to participate in these programs and may purchase products on your behalf. We may share personally identifiable information that you provide to us through your participation in these school programs with your school, district and your parents. In addition, your school may require us to share your information with others legally entitled to access your academic records, such as your state department of education.
+Because some of our most useful services are personalized (i.e., different visitors may have a different experience based on information they provide), registration for such services may be required (although not all areas of our Web Site require registration).
 
-COPPA Compliance  
-The Princeton Review complies with the Children's Online Privacy Protection Act of 1998. Except for K-12 students who participate in our Homeroom or ECOS product, we do not accept personally identifiable information online from children under the age of 13. (For more information on Homeroom or ECOS, please see below.) If we become aware that our records contain such information, we will delete it.
+You may be able to send information about our Web Site, products and services to your friends and family members by clicking on an “E-mail to Friend” or similar button on our Web Site or in one of our e-mails.  In some of these cases (unless you simply forward our e-mail on your own), you may provide the name and e-mail address of your friend or family member to us, and such information will be treated in accordance with this Privacy Policy and applicable law.
 
-Marketing Lists  
-From time to time, we obtain lists of people who may be interested in our products and services from third-party marketing list suppliers. We use these lists to send direct marketing promotions by mail or by email. We do our best to only obtain these lists from suppliers who have opt-in policies for third-party marketing, but we are not responsible for the conduct and policies of these suppliers. Please note that even if you are a registered customer of ours and have asked us not to use the information you provided to us to send you promotional material, a third-party marketing list supplier could still provide us with your name and address, in which case you will receive the promotional material sent by us to others on the supplier's list. If you have received a promotion from us and do not wish to receive future promotions, please contact us at: [privacy@review.com](mailto:privacy@review.com). 
+### Marketing Lists 
 
-  
-LIVE COURSES
+From time to time, we obtain lists of people who may be interested in our products and services from third-party marketing list suppliers. We may use these lists to send direct marketing promotions  by e-mail.  If you do not wish to receive future promotions via e-mail, please follow the instructions in the **Right to Opt In and Opt Out** section above.
 
-Subscriptions   
-Many of our course students are given supplemental materials to help them prepare for their test. For example, if you become a student of The Princeton Review, we may provide you with magazine and/or newspaper subscriptions, as part of your course tuition as an additional benefit. If you would rather not receive supplemental materials, you will need to contact us and ask us to remove your name from our supplemental materials lists. Offline course students should contact your local office. Online students should email [support.online@mail.review.com](mailto:support.online@mail.review.com) or call 888.755.7737.
+### Web Site Usage Information
 
-  
-ON THE INTERNET
+> #### Cookies
+> 
+> We may use “cookies” to keep, and sometimes track, information about you, and to create a personalized Web experience.  Cookies are small data files that are stored on your computer's hard drive.  Cookies track where you travel on our Web Site and what you look at and purchase.
+> 
+> Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie.  However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web Site or certain areas or features of the Web Site
+> 
+> #### Clear GIFs
+> 
+> We may use “clear GIFs” (a/k/a “Web beacons” or “pixel tags”) or similar technologies, on the Web Site and/or in our communications (e.g., in our HTML-based e-mails) which enable us to know whether you have visited a Web page or received or opened a message.  This allows us to know the effectiveness of our marketing campaigns. 
+> 
+> #### IP Address and Clickstream Data
+> 
+> Our server may automatically collect data about your server’s Internet address when you visit us.  This information, known as an Internet Protocol address, or IP Address, is a number that’s automatically assigned to your computer by your Internet service provider whenever you’re on the Internet.  In addition to logging your IP Address and sometimes your domain name, our server may also record the referring page that linked you to us (e.g., another Web site or a search engine); the pages you visit on this Web Site; how long you stay on this Web Site, the Web site you visit after this Web Site; the ads you see and/or click on; other information about your computer and its settings; any search terms you have entered on this Web Site or a referral site; and other Web usage activity and data.  We use this information for internal purposes, such as to administer our Web Site.  Such information may also be used to gather broad demographic information.
+> 
+> #### Matching Web Site Usage Information and Personal Information
+> 
+> Web Site Usage Information, alone, is tracked in aggregate form, not at an individual user level, and is not uniquely identifying.  However, we may match information collected from you through different means or at different times, including both Personal Information and Web Site Usage Information, and use such information along with information obtained from other sources, including third parties.  We may also analyze user behavior as a measure of interest in, and use of, our Web Site and e-mails, both on an individual basis and in the aggregate. 
+> 
+> Any or all of these activities with regard to Web Site Usage Information may be performed on our behalf by our services providers.
 
-Anonymous Areas  
-Some areas of our websites are accessible without registration of any kind. This is true of many of the basic content areas. Other areas require registration.
+We may use the Personal Information you provide to us, for example, to respond to your requests and to provide you with our product and service offerings (for example, to process your orders and respond to your requests and inquiries).  We may also use your Personal Information to maintain our internal record keeping. 
 
-Services that Require Registration  
-Some of our most useful services are personalized: different visitors get different results based on information they provide. Examples include but are not limited to Homeroom, Advanced School Search, Online Tests, Online Course Demos, Recruiter, the Tuition Cost Calculator, and any surveys or contests in which you may choose to participate. Registration for these services is required to facilitate customization of your individual results.
+In addition, we may send you e-mail notices and offers and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you.  You may opt-out of receiving such notices and offers from us, at any time, by following the instructions in the **Right to Opt In and Opt Out** section above.
 
-In addition to providing personalized results, registration is important for sending you specific information related to your service, and for allowing you to access stored information, and in the event that you opt-in, provide third party access to you. 
+### Subscriptions
 
-How Are Cookies Used?  
-We also use a software technology called "cookies" to create a personalized Web experience. Cookies cannot be used to find your name, email address, or anything that is uniquely identifying about you unless you provide that information. We use cookies for those applications to which we referred earlier that require us to keep track of information to customize results. If you don't have your browser set to accept cookies, certain areas of PrincetonReview.com, ECOS, and Homeroom.com will not function. We also allow you to choose to use a cookie to save your username and password so that you do not have to log in to the website each time you visit. We do not recommend this in multi-user environments such as school computer labs.
+Many of our live course students are given supplemental materials to help them prepare for their tests.  For example, we may provide students of The Princeton Review with magazine and/or newspaper subscriptions as part of the course tuition as an additional benefit, and your name and address will be given to the third party publishers of such magazines or newspapers for this purpose.  If you would rather not receive such materials, you should contact us and ask us to remove your name from our lists.  Offline course students should contact their local office. Online students should email [support.online@mail.review.com](mailto:support.online@mail.review.com) or call 888.755.7737.
 
-Partner Privacy Policies  
-When you click on links and/or ad banners that take you to third-party websites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, The Princeton Review cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any website you visit. Homeroom.com and ECOS do not display third party banner ads on the site, although there may be resource links to third party content.
+### Targeted Advertising
 
-Passive Collection of Data  
-Like most sites, we maintain logs of site usage in order to evaluate our visitors' interest level in areas of the website, which and how many pages they look at, how long they stay on the site, and what Web browsers are used. This data is tracked in aggregate form, not at an individual user level, and is not uniquely identifying. The aggregate level data may be shared with third parties and the public. 
+Advertisements and other content displayed or transmitted to you on or through the Web Site may be customized to your interests and preferences, based on your Personal Information and Web Site Usage Information, including (but not limited to) non-personally identifying information, which we may obtain from you or from other sources.
 
-Cautions  
-Please note, if you do not logout once registered for services that require registration, your personal information could be viewed by other users with access to your computer.
+###   
+Public Forums
 
-Please note, if you choose to participate in our online discussion forums, your posts will be publicly accessible, as will the username and email address you use.
+When you contribute to a public area or feature of our Web Site, such as a chat room, bulletin board, list serve, blog, wiki or other open forum, the information that you submit will be made available to the general public.  Therefore, we recommend that you do not submit any sensitive information to such areas of our Web Site, including your full name, home address, phone number, financial information or any other information that would enable other users to locate you or contact you. 
 
-Specific Privacy Issues for PrincetonReview.com
+### Third Party Offers
 
-Registration  
-When registering on PrincetonReview.com you will need to provide an email address and password. You need to choose a secret password to keep the personal information you entered on PrincetonReview.com private. In addition, we request your mailing address and other information for certain services so that we can send you the information you request via mail, or in the event you opt-in, provide third party access to you.
+We may provide visitors an opportunity to receive offers from other third parties who have services, products and offers that we think might be of interest to you.  Unless you instruct us not to do so, we may from time to time provide your Personal Information to these entities so that they may send you such offers.  If you change your mind and no longer want us to share your Personal Information with such entities, follow the instructions to opt-out in the **Right to Opt In and Opt Out** section above.
 
-If a user elects to use our system to inform a friend or parent/guardian about our site, particularly the Word du Jour feature or Lender's Center, we ask them for the friend's name and email address. The Princeton Review will automatically send the friend a one-time email inviting them to visit the site. The Princeton Review stores this information for the sole purpose of sending this one-time email. The friend may contact The Princeton Review at [webmaster@review.com](mailto:webmaster@review.com) to request the removal of this information from our database.
+### Schools
 
-Changing Personal Information  
-You may unsubscribe to Word du Jour simply by going to the Word du Jour subscription page and updating your subscription (if you are not logged in, you will be prompted to log in first). 
+The Princeton Review works with schools and institutions to provide programs such as test preparation and college counseling. Your school, district, or state may arrange for your participation in these programs and may purchase products on your behalf.  We may share the Personal Information that you provide to us through your participation in these school programs with your school, district and your parents.  In addition, your school may require us to share your information with others legally entitled to access your academic records, such as your state department of education.
 
-If you want to change any of the personal information that you completed when you registered or opt-out of any of the opt-ins that you selected, sign-in to PrincetonReview.com and click on "Your Profile" in the top right corner. 
+### Service Providers
 
-Clear Gifs (Web Beacons/Web Bugs)  
-24/7 Real Media, Inc., the company that serves our banner advertisements for PrincetonReview.com, uses a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps inform them about what content is active. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web user. Clear gifs are invisible on the page and very small, about the size of the period at the end of this sentence.
+We may use third party partners, affiliates and service providers to help operate our Web Site and deliver our products and services, and we may share your information with such third parties for such purposes.  These third parties are not authorized by us to use your Personal Information in any other way.
 
-Clear gifs can "work with" existing cookies on a computer if they are both from the same website or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear gif, the website would read the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. The information would then go back to the advertising company. To learn more about 24/7 Real Media's use of clear gifs, please go to: [www.247realmedia.com](https://web.archive.org/out.asp?URL=www.247realmedia.com).
+### Aggregate Statistics
 
-In addition, we use clear gifs in our HTML-based emails, to let us know which emails have been opened by the recipients. This allows us to know how well customers respond to certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, simply sign-in to PrincetonReview.com and click on "Your Profile" and opt-out of any service you wish.
+We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Web Site and e-mails to third parties in the form of aggregate data that do not describe or identify any individual user.
 
-Specific Privacy Issues for Homeroom.com
+### Third Party “Linked-To” Web Sites
 
-We know that privacy is very important to you, especially where your children are concerned and we want you to know that we put children's privacy first. We make you three promises: 
+When you are on our Web Site you may be able to visit or link to other sites not operated by us.  We do not control such sites and we are not responsible for the information practices of these sites.  This Privacy Policy does not address the information practices of those other Web sites, and we encourage you to read the posted privacy policies of such sites. 
 
-  * Homeroom is in complete compliance with the Children's Online Privacy Protection Act of 1998 (COPPA). 
-  * Parents will always have access to all the personal information we have about their children, including their work at the site. 
-  * We will never share with third parties personal information that identifies any of the students, without parental authorization. 
+### Legally Compelled Disclosures
 
+We may disclose user information when compelled to do so by government authorities or otherwise as required or permitted by law, such as to respond to court orders and subpoenas.  We also may disclose user information when we have reason to believe that someone is causing injury to or interfering with our rights or property, other customers or users of the Web Site, or anyone else that could be harmed by such activities.
 
+### Business Transfer
 
-Complete Compliance with COPPA   
-Homeroom complies with the Children's Online Privacy Protection Act of 1998. For Homeroom, we work with all of our clients to ensure that COPPA rules are being followed in conjunction with the creation of student accounts. A printable consent form is built into Homeroom to help teachers secure parental consent when applicable. Parents will always have access to all personal information we have about their children, including all their children's work at the site.
+In the event that The Princeton Review or all or a portion of its business, or one or more of its divisions, is acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, Personal Information may be one of the transferred assets.
 
-Parent Access to Homeroom  
-Homeroom is designed to be a student-appropriate and kid-friendly site. Our site is highly interactive and designed to provide a different experience for every user. In order to make this possible, we collect the information and provide the services listed below. 
+The Princeton Review will take steps to protect the security and integrity of all sensitive Personal Information provided to us.  However, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be safe from intrusion by others, such as hackers. 
 
-Students register by giving us their full name and gender, and they have the option of giving us their email address. They then pick a password. This information is then combined with the identifying information we have received from their school and the student's teacher, grade, and subject matter. This information is only available to us, the student, the student's school, and the parent. We use this information to provide a personalized interactive environment for each student and to give the teachers and school, district or state administrators the information necessary to track each student's progress and make effective use of Homeroom.
+If you contact us by e-mail or a “contact us” or similar feature on our Web Site, your transmission might not be secure.  A third party could view information you send by these methods in transit.
 
-Each student has a unique user name, which is the student's screen name and the Students are publicly identified at the site only by their user name. 
+You may be able to create an account on our Web Site with a username and password.  If so, you are responsible for protecting your account password, and you are responsible for any access to or use of the Web Site by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you. 
 
-As a service to its users, Homeroom provides Homeroom email services within our closed environment. Each of our users—students, parents, administrators, and teachers—is given ability in their Homeroom account to communicate with another Homeroom user As with all email accounts, children may disclose personal information about themselves to their Homeroom email correspondents. All users should practice safe computing, and parents should advise their children not to give out any personal information without parental consent. Schools and districts have the ability to disable the Homeroom email system.
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development.  If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail.  **You consent to our use of e-mail as a means of such notification.   If you prefer for us to use another method to notify you in this situation, please e-mail us at** [ **privacy@review.com**](mailto:privacy@review.com).
 
-Parents have their own Homeroom user accounts. Registration is similar to that for students, with parents providing their names, address, gender, and email. Through these accounts they can view and update information about their children, and send and receive email. 
+The Princeton Review reserves the right to change, update or remove this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Web Site by posting such changed or updated Privacy Policy on this page.  Any changes or updates will be effective immediately upon posting to this Web Site.  Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Web Site or sending you an e-mail. 
 
-Parents are welcome to review their children's personal information. They can also change or delete their children's optional personal information. 
+If you have any questions or comments regarding our privacy practices, you may contact us at [privacy@review.com](mailto:privacy@review.com) or at the following address:
 
-NOTE: Homeroom.com reserves the right to terminate service for a student if a parent wishes to delete information that is necessary to our operations, such as First Name, Last Name, Grade, and Gender.
-
-We do not condition a child's participation in an activity on the child's disclosure of more personal information than is reasonably necessary to participate in that activity. 
-
-Sharing of Information
-
-The privacy of individual user data for school administrators, teachers, parents, and students is always respected and protected. We will never disclose, sell, or rent personal information that identifies any of our Homeroom users without specific authorization to do so. Only the student, the teacher, the school administration, and the parent(s) have access to this information. Each school has agreed to maintain the confidentiality of this information. The Princeton Review retains the right to release aggregate performance information provided this information is not personally identifiable by district, school or individual students and teachers.
-
-  
-MISCELLANEOUS 
-
-Changes in Our Policy
-
-We reserve the right to change or remove this Privacy Policy at our discretion. We will post any new policy here and we encourage you to visit this area frequently to stay informed.
-
-Other Online Privacy Resources  
-A number of organizations are very actively involved in educating Internet users about privacy issues and are pushing for legislation to preserve your online privacy rights. For more information about data privacy and cookies, you should check out the Electronic Frontier Foundation, the Electronic Privacy Information Center, and the Center for Democracy and Technology.
-
-Disclaimer  
-Though we make every effort to preserve your privacy, we cannot guarantee your privacy. Further, we may need to disclose personal information when required by law where we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order or legal process served on us or a law enforcement request.
-
-Contact Us:
-
-The Princeton Review   
-2315 Broadway   
+The Princeton Review  
+2315 Broadway  
 New York, NY 10024
 
-The Princeton Review K-12 Services  
-(includes Homeroom.com)  
-160 Varick Street  
-12th Floor  
-New York, NY 10013
-
-Email us at: [privacy@review.com](mailto:privacy@review.com)
-
-Last revised: June 20, 2005 
+Effective Date:  June 28, 2008
