@@ -1,46 +1,28 @@
-> *The following text is extracted and transformed from the weeklyworldnews.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026010628id_/http%3A//www.weeklyworldnews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklyworldnews.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216111813id_/http%3A//www.weeklyworldnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Weekly World News
+# Weekly World News | Privacy Policy
 
-Internet user privacy is of paramount importance to Weekly World News and our partners. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding Weekly World News' commitment to protect the privacy of users and to ensure the integrity of the Internet. 
+## Privacy Policy
 
-## Information Collected in Ad Delivery
+GENERAL
 
-In the course of delivering an ad to you, Weekly World News, does not collect any personally-identifiable information about you, such as your name, address, phone number or email address. Weekly World News does, however, collect non-personally identifiable information about you, such as the server your computer is logged onto, your browser type (for example, Netscape or Internet Explorer), and whether you responded to the ad delivered.
+WeeklyWorldNews.com is committed to protecting the privacy of its visitors and has prepared the following statement to inform users how personally identifying information and non-personally identifying information is gathered from this site and used. This policy may be updated from time to time, so please check back periodically. Please note that this site is intended for use by residents of the United States, its territories and possessions (”U.S.”) only and, therefore, this Privacy Policy is specifically directed only towards residents of the U.S. WeeklyWorldNews.com makes no representation or warranty that content on the site is appropriate or available for use in locations outside of the U.S., and accessing it from territories where the content is illegal is prohibited. If you are located in the European Union or elsewhere outside of the U.S. and you participate in activities on this site contrary to our policy that only U.S. residents are eligible to use the site, you do so at your own risk and initiative, and are responsible for compliance with any applicable local and national laws. Please be aware that any personally identifying information you transfer to us will be transferred to and processed in the U.S and subject to U.S. law. By using this site, participating in any site activities, and/or providing us with your personally identifying information, you consent to this transfer and processing of personally identifying information to the U.S., and waive any claims that may arise under your own local and national laws.
 
-The non-personally identifiable information collected by Weekly World News is used for the purpose of targeting ads and measuring ad effectiveness on behalf of Weekly World News' advertisers.   
-There are also other cases when a user voluntarily provides personal information in response to an ad (a survey or purchase form, for example). In these situations, Weekly World News (or a third party engaged by Weekly World News) collects the information on behalf of the advertiser and/or Web site. This information is used by the advertiser and/or Weekly World News Web Site so that you can receive the goods, services or information that you requested. Where indicated, Weekly World News may use this information in aggregate form to get a better general understanding of the type of individuals viewing ads on the Web Site. Unless specifically disclosed, the personally-identifiable information collected by Weekly World News in these cases is not used to deliver personally-tailored ads to a user and is not linked by Weekly World News to any other information. 
+INFORMATION GATHERING AND USE  
+Certain non-personally identifiable information about our visitors is collected by the standard operation of WeeklyWorldNews.com internet servers and through the use of “cookie” technology. A “cookie” is a small amount of data that is sent to your browser from a web server and stored on your computer’s hard drive. WeeklyWorldNews.com, like other websites, uses cookies to remind us of who you are, estimate our audience size, and measure visiting and traffic patterns, among other things.
 
-## Sweepstakes
+Advertisers that serve ads onto WeeklyWorldNews.com may also use their own cookies. You have choices with respect to cookies. By modifying browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those WeeklyWorldNews.com features that require registration in order to participate.
 
-When you enter a Weekly World News sweepstakes, the information you provide is not be shared with any third party, unless you agree by checking the opt-in box on the sweepstakes entry form. If you enter a sweepstakes, you agree that the sweepstakes sponsor may use your name in relation to announcing and promoting the winners of the sweepstakes. See the official rules of the sweepstakes you are entering for additional information.
+WeeklyWorldNews.com reserves the right to disclose or otherwise utilize non-personally identifiable information collected by the standard operation of our internet servers and through the use of cookies for any purpose, in its sole judgment.
 
-Weekly World News does collect aggregate, anonymous information about the sweepstakes. That information is primarily used to help sweepstakes managers choose prizes and make other decisions regarding the organization of the sweepstakes. Weekly World News does not associate information provided through the sweepstakes with your other web browsing activities or clickstream data. 
+WeeklyWorldNews.com also collects personally identifiable information (such as your name, street address, telephone number and e-mail address) from voluntary submissions as part of site registration, online promotions, merchandise purchases, etc.
 
-## Information Collected by Weekly World News' Web Site
+Personally identifiable information will be used by WeeklyWorldNews.com (A) to process your requests (e.g., fulfill your merchandise order); (B) to communicate with you or make related offers to you; (3) to administer the WeeklyWorldNews.com website; and/or (4) as may be required by any applicable laws, rules or regulations or the Terms and Conditions applicable to this website.
 
-The Weekly World News Website may ask for and collect personally-identifiable information. Weekly World News is committed to providing meaningful notice and choice to users before any personally-identifiable information is submitted to us. Specifically, users will be informed about how Weekly World News may use such information, including whether it will be shared with marketing partners or combined with other information available to us. In most cases, the information provided by a user will be contributed a database to enable personally-tailored ad delivery online. Users will always be offered the choice not to provide personally-identifiable information or to have it shared with others. 
+Personally identifiable information will be shared with third parties to further any and all purposes for which you provide such information or when WeeklyWorldNews.com believes in its sole discretion that the law or regulatory obligations requires it, or to protect the rights of WeeklyWorldNews.com or its parent companies. In addition, WeeklyWorldNews.com reserves the right to transfer such information to a third party in the event of corporate restructuring.
 
-## Policy for Children Under the Age of 13
+INFORMATION GATHERING BY THIRD PARTY-SITES  
+WeeklyWorldNews.com advertisers or sites that have links on our site may collect personally identifiable information about you. The information practices of those sites linked to WeeklyWorldNews.com are not covered by this Privacy Policy, and we have no control over those sites’ use of such information. 
 
-AMI sites are not intended for use by children. Children should not provide any personal information or use AMI's public areas, forums, and chats. AMI sites do not accept registrations or collect personally identifiable information from children due to the Children's Online Privacy Protection Act ("COPPA"). COPPA was enacted to prevent websites from collecting and/or distributing information from children without their parents' consent. For more information on COPPA, please refer to the Federal Trade Commission Website. 
-
-## Access
-
-Weekly World News offers users who have voluntarily provided personally-identifiable information to Weekly World News the opportunity to review the information provided and to correct any errors. 
-
-## Cookies
-
-Weekly World News, along with thousands of other Web sites, uses cookies to enhance your Web viewing experience. Weekly World News' cookies do not damage your system or files in any way.
-
-Here's how it works. When you are first served an ad through WeeklyWorldNews.com, or our advertising partner, assigns you a unique number and records that number in the cookie file of your computer. Weekly World News may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. The cookie can help ensure that you do not see the same ad over and over again. Cookies can also help advertisers measure how you utilize an advertiser's site. This information helps our advertisers cater their ads to your needs.
-
-While we believe that cookies enhance your Web experience by limiting the repetitiveness of advertising and increasing the level of relevant content on the Web, they are not essential for us to continue our leadership position in Web advertising. 
-
-## Security
-
-Weekly World News will maintain the confidentiality of the information that it collects during the process of delivering an ad. Weekly World News maintains internal practices that help to protect the security and confidentiality of this information by limiting employee access to and use of this information. 
-
-## Industry Efforts to Protect Consumer Privacy
-
-For more information about protecting your privacy online, we recommend that you visit www.nai.org, www.netcoalition.com, and www.privacyalliance.org . We also recommend that you review this Privacy Statement periodically, as Weekly World News may update it from time to time. 
+SECURITY  
+No data transmitted over the Internet can be ensured to be 100% secure. While WeeklyWorldNews.com will use reasonable efforts to protect your personal information, personal information submitted to WeeklyWorldNews.com is done so at your own risk.
