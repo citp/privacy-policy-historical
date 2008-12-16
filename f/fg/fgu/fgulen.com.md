@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fgulen.com privacy policy that was archived on 2007-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070717060011id_/http%3A//en.fgulen.com/content/view/1796/22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fgulen.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062320id_/http%3A//en.fgulen.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Fethullah Gülen: A life dedicated to peace and humanity - Privacy Policy
+# Privacy Policy
 
 **COMMITMENT TO YOUR PRIVACY**
 
@@ -79,3 +79,6 @@ Opting not to participate in certain interactive areas, which completely allevia
  **YOUR CONSENT**
 
 By using this site, you consent to the collection and use of this information by Fethullah Gülen's Web Site. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+|  [< Prev](http://en.fgulen.com/privacy-policy/1795-terms-of-use.html) |    |  [Next >](http://en.fgulen.com/privacy-policy/2339-international-conference-on-peaceful-coexistence.html)  
+---|---|---
