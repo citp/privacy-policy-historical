@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the swing4ireland.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528010459id_/http%3A//www.swing4ireland.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swing4ireland.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171307id_/http%3A//www.swing4ireland.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free irish swinging site, meet swingers today!
+# Privacy Policy - Free Irish swinging site, meet swingers today!
 
 **What personally identifiable information do I provide to swing4ireland.com?**
 
-Swing4ireland.com ask you to provide various types of personally identifiable information to enhance your experience on our site. During registration, swing4ireland.com will ask for information such as your name, e-mail address, birth date, gender, address, and other information about yourself. The more information you provide, the better we are able to customise your experience. See below about "cookies" and what other information is collected. 
+swing4ireland.com ask you to provide various types of personally identifiable information to enhance your experience on our site. During registration, swing4ireland.com will ask for information such as your name, e-mail address, birth date, gender, address, and other information about yourself. The more information you provide, the better we are able to customise your experience. See below about “cookies” and what other information is collected.
 
-Except as stated in this privacy policy or at the time of collection, a user's personally identifiable information will not be transferred to a party outside swing4ireland.com, its divisions or affiliates, or its service vendors unless notice is given at the time of collection or prior to transfer. Swing4ireland.com may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms and Conditions or may be causing injury to or interference with (either intentionally or unintentionally) swing4ireland.com rights or property, other swing4ireland.com users, or anyone else that could be harmed by such activities.
+Except as stated in this privacy policy or at the time of collection, a user's personally identifiable information will not be transferred to a party outside swing4ireland.com, its divisions or affiliates, or its service vendors unless notice is given at the time of collection or prior to transfer. swing4ireland.com may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms and Conditions or may be causing injury to or interference with (either intentionally or unintentionally) swing4ireland.com rights or property, other swing4ireland.com users, or anyone else that could be harmed by such activities.
 
 **e-Commerce**
 
@@ -18,4 +18,6 @@ We have in place physical, electronic and managerial procedures to protect the i
 
 **What are cookies and how does swing4ireland.com use them?**
 
-Swing4ireland.com places a "cookie" on the browser of a user's computer in order to keep you logged in to the site. This is strictly for authentication purposes only, and contains no personally identifiable information. 
+swing4ireland.com places a "cookie" on the browser of a user's computer in order to keep you logged in to the site. This is strictly for authentication purposes only, and contains no personally identifiable information.
+
+[home](https://web.archive.org/web/20081216171307id_/http%3A//www.swing4ireland.com/index.html)
