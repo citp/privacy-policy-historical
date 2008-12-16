@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel.com.au privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623225452id_/http%3A//www.travel.com.au/general/privacy-policy/w140%2Cgen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015843id_/http%3A//www.travel.com.au/general/privacy-policy/w140%2Cgen) for the most accurate reproduction.*
 
 # Privacy Policy - travel.com.au
 
@@ -14,9 +14,8 @@ travel.com.au recognises the importance of client privacy and supports best prac
 
 At travel.com.au, we are committed to our clients privacy and security. We will never pass on your personal details to a third party except the necessary information required by providers of products or services you have purchased eg airlines, tour operators, hotels, etc. 
 
-Although, from time to time, travel.com.au may provide statistical information about sales, trading patterns and information on navigation techniques to reputable third parties, this does not include any direct personal information identifying you as our customer.
-
-Updated 10th April 2004.   
+Although, from time to time, travel.com.au may provide statistical information about sales, trading patterns and information on navigation techniques to reputable third parties, this does not include any direct personal information identifying you as our customer.  
+  
   
 * * *  
   
@@ -69,9 +68,9 @@ When you look at our website, our Internet Service Provider (Telstra) makes a re
 \- The previous site you have visited   
 \- The type of browser you are using 
 
-We use third-party advertising companies (such as DoubleClick) to serve ads on our web site and other web sites. These companies may use information (not personal or contact details) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you 
+We use third-party advertising companies (such as Media Smart) to serve ads on our web site and other web sites. These companies may use information (not personal or contact details) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. 
 
-To find out more about the use of cookies and the information-gathering practices and opt-out procedures of DoubleClick, please click here: http://www.doubleclick.net/privacy policy   
+To find out more please click here: [http://www.sensismediasmart.com.au/ ](http://www.sensismediasmart.com.au/)  
   
   
 
@@ -83,7 +82,7 @@ To find out more about the use of cookies and the information-gathering practice
 [](http://www3.travel.com.au/everest/index.cgi?E=webpage&M=1&Web_Site_Code=tts&Page_No=140&siteregion=gen&SITECODE=tts&ST=TTS&AGN=TTS#top)  
   
 When you make a booking or enquiry with travel.com.au we need to collect certain information so that we can process it. By information we mean your name, mailing address, email address, frequent traveller numbers, meal requirements, seating preferences, etc. and so on.   
-Corporate Account details are password protected, and all information kept on our server can be checked and/or changed at any time by the authorised Travel Managers by logging in to your company account details through the www.travel.com.au/corporate homepage 
+
 
 Individual profile and company details are not used for any other purpose. Details are only supplied to a third party supplier when it is required for goods or services which you have purchased. Although our preferred local suppliers have privacy policies in accordance with the New Privacy Laws, you accept that some third parties care located overseas eg hotels, car rental companies, etc, and may not have in place equivalent privacy policies.   
   
