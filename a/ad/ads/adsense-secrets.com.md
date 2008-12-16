@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adsense-secrets.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626122509id_/http%3A//www.infomediainc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsense-secrets.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051733id_/http%3A//www.infomediainc.com/privacy) for the most accurate reproduction.*
 
 # Infomedia Inc Privacy Policy
 
 This is the web site of InfoMedia, Inc.
 
-Our postal address is: 1151 Eagle Drive, Suite 325, Loveland, CO 80537-8020. We can be reached via e-mail at [ TheHelpDesk.us](http://www.thehelpdesk.us/). Or you can reach us by telephone at (970) 278-0011.
+Our postal address is: 1151 Eagle Drive, Suite 325, Loveland, CO 80537-8020. We can be reached via our [ Support Desk](http://support.infomediainc.com/). Or you can reach us by telephone at (970) 278-0011.
 
 The policies below are applicable to worldvillage.com, toylab.com, dealofday.com, freebietracker.com, familyfirst.com and other sites on the World Wide Web portion of the Internet owned and operated by InfoMedia, Inc. 
 
@@ -28,7 +28,7 @@ Guests’ e-mail addresses are never posted on InfoMedia, Inc. Web sites, except
 
 With the permission of a guest who is 13 years of age or over, information submitted at the time of Registration or submission may be used for marketing and promotional purposes by InfoMedia, Inc. and may be shared with our affiliates or companies that have been prescreened by InfoMedia, Inc.. If a guest objects to such use for any reason, he/she may stop that use by e-mail request. Once you have registered with InfoMedia, Inc., every effort will be made to maintain your information in a secure environment by InfoMedia, Inc. and our affiliates. 
 
-If you wish to modify your Registration information or stop receiving e-mail updates from InfoMedia, Inc., just send an email request to [the helpdesk](http://www.thehelpdesk.us/).
+If you wish to modify your Registration information or stop receiving e-mail updates from InfoMedia, Inc., just send an email request to [Support Desk](http://support.infomediainc.com/).
 
   
 **About IP Addresses**
