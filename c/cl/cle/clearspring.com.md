@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the clearspring.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430220234id_/http%3A//www.clearspring.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearspring.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020711id_/http%3A//www.clearspring.com/legal/privacy) for the most accurate reproduction.*
 
-# Clearspring - Privacy Policy
+# Privacy Policy - Clearspring
 
-  
-
-
-## Privacy Policy
-
-**Our Commitment to Privacy**
+### Our Commitment to Privacy
 
 Clearspring Technologies ("Clearspring", "we" or "our") has created this privacy policy in order to demonstrate our firm commitment to protecting the privacy of personally identifiable information about users of Clearspring.com (the "Site"). Our commitment to you is that we will not disclose information collected from you other than as described in this policy. The following discloses in detail our information collection, utilization and dissemination practices of information collected through our Site. 
 
@@ -49,7 +44,4 @@ If we change our privacy policy, we will post those changes on the Site so that 
 
 **Contacting Clearspring.**
 
-If you have any questions about this privacy policy, please feel free to [Contact Us](https://web.archive.org/contact/ "Contact Us"). 
-
-  
-
+If you have any questions about this privacy policy, please feel free to [Contact Us](https://web.archive.org/contact "Contact Us"). 
