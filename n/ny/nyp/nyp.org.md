@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyp.org privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531090643id_/http%3A//www.nyp.org/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyp.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012655id_/http%3A//www.nyp.org/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Notice - New York Presbyterian Hospital
 
@@ -34,5 +34,7 @@ If you believe your privacy rights have been violated, you may file a complaint 
 #### Other uses of medical information
 
 Other uses and disclosures of medical information not covered by this Notice or the laws that apply to us will be made only with your written authorization on a Hospital authorization form. If you provide us authorization to use or disclose medical information about you, you may revoke that authorization, in writing, at any time. If you revoke your authorization, we will no longer use or disclose medical information about you for the reasons covered by your written authorization. However, we may continue to use or disclose that information to the extent we have relied on your authorization. You also understand that we are unable to take back any disclosures we have already made with your authorization, and that we are required to retain our records of the care that we provided to you.
+
+[ ](http://nyp.org/findaphysician/index.html)
 
 Top of page 
