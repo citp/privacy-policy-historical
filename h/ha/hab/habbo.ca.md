@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habbo.ca privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420100527id_/http%3A//www.habbo.ca/papers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013550id_/http%3A//www.habbo.ca/papers/privacy) for the most accurate reproduction.*
 
 # Habbo ~ Canada
 
