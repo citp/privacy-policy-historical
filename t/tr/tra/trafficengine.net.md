@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficengine.net privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510161811id_/http%3A//trafficengine.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficengine.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012501id_/http%3A//trafficengine.net/privacy.php) for the most accurate reproduction.*
 
 # TrafficEngine - High-performance Search Marketing Technology
 
