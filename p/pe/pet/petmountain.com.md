@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the petmountain.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528070926id_/http%3A//www.petmountain.com/content/4/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petmountain.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216073642id_/http%3A//www.petmountain.com/content/4/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
+
+
+
 
 **Privacy Policy**   
 At Pet Mountain, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to Pet Mountain. Feel free to email us at [PetMountain.com](http://www.petmountain.com/contact) with any questions you might have. 
