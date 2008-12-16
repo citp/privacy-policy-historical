@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628233009id_/http%3A//www.fragrancenet.com/f/net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011828id_/http%3A//www.fragrancenet.com/f/net/privacy.html) for the most accurate reproduction.*
 
-# FragranceNet.com®- 1-800-PARFUMS - Online Since 1997 - Perfume, Cologne, Skincare, Candles at Deep Discounts
+# FragranceNet.com® Privacy Policy
 
 At FragranceNet.com, our goal is to make your shopping experience safe, convenient and worry-free. Our privacy and security programs make sure that every transaction made at FragranceNet.com is 100% safe and guaranteed. 
 
@@ -54,7 +54,8 @@ If you place an order our Website encrypts your credit card number you submit pr
   
 How to limit the use of your information from Third Parties
 
-If you prefer not to have us provide personal information about you to third parties (other than our Affiliates, subcontractors, or agents acting on our behalf in compliance with this Privacy Policy), please let us know by either:  
+If you prefer not to have us provide personal information about you to third parties (other than our Affiliates, subcontractors, or agents acting on our behalf in compliance with this Privacy Policy), please let us know by either:
+
 1\. Writing us at: 
 
 Customer Service Department  
@@ -63,8 +64,11 @@ FragranceNet.com, Inc.
 Hauppauge, NY 11788  
 
 
-If you have a catalog, brochure or other mailing label from us, please include it with your request, otherwise just include your mailing address.  
-2\. Or emailing us at [remove@fragrancenet.com](mailto:remove@fragrancenet.com) (and include your mailing address). 
+If you have a catalog, brochure or other mailing label from us, please include it with your request, otherwise just include your mailing address.   
+
+
+  
+
 
 Note: If you opt-out from receiving further promotional emails from us, we will not share your email address with any third parties, including our Affiliates. 
 
