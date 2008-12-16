@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517143818id_/http%3A//www.mals-e.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035416id_/http%3A//www.mals-e.com/privacy.php) for the most accurate reproduction.*
 
-# Mal's e-commerce
+# Mal's e-commerce - Privacy Policy
+
+  * You are here
+  * :
+  * [Home](https://web.archive.org/web/20081216035416id_/http%3A//www.mals-e.com/index.php)
+  * :
+  * Privacy
+
+
 
 **  
 ** Not much, is the answer! The only personal data we ask for from users is their name, country, telephone, fax and e-mail address. It's the stuff you see on the join form, [**see it here**](https://www.mals-e.com/join.php). Of that only the Contact e-mail address is really absolutely essential, we don't mind if people don't want to provide the other stuff. All this data can be updated at any time in Admin (go to _Your details_ ). 
@@ -32,4 +40,4 @@ If you have any specific questions about Privacy then please feel free to contac
 
 Mal Stewart  
 Mal's e-commerce Limited  
-[ms@mals-e.com ](mailto:ms@mals-e.com)
+
