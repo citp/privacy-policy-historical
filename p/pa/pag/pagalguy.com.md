@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430084633id_/http%3A//www.pagalguy.com/index.php%3Fcategoryid%3D89) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021339id_/http%3A//www.pagalguy.com/index.php%3Fcategoryid%3D89) for the most accurate reproduction.*
 
 # PaGaLGuY.com - The Everything of MBA, CAT 2008, GMAT, XAT, IIM - Privacy Policy
 
