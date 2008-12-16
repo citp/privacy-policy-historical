@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the idt.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614080239id_/http%3A//www.idt.com%3Fid%3D101%26source%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idt.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030530id_/http%3A//www.idt.com%3Fid%3D101%26source%3Dfooter) for the most accurate reproduction.*
 
 # Integrated Device Technology
+
+ 
 
 **Privacy Policy**  
 Your privacy is very important to us. Integrated Device Technology ("IDT") adheres to the following privacy policy regarding its collection, use and dissemination of personal and non-personal information collected through its website (idt.com). IDT reserves the right to modify its privacy policy at any time. 
