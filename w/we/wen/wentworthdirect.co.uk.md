@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wentworthdirect.co.uk privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515032936id_/http%3A//www.wentworthdirect.co.uk/default.aspx%3FID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wentworthdirect.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011426id_/http%3A//www.wentworthdirect.co.uk/default.aspx%3FID%3D1) for the most accurate reproduction.*
 
 # Wentworth Direct Finance - UK Unsecured Loans
 
@@ -6,7 +6,7 @@ This Privacy Policy explains the steps we take to ensure information about you i
 
 Please read this Privacy Policy carefully as once you use our website and/or enquiry facility ("Services") you will be regarded as having read and accepted this Privacy Policy. You must not use our website or our Services if you do not accept this Privacy Policy.
 
-The Slice (trading as 'CUs4', '4Quick' and 'Wentworthdirect.co.uk') is the data controller in relation to the Services and your personal data. Our registered address is 25 Ormside Way, Redhill, Surrey RH1 2LW. Registered under the data protection act with the [ Information Commissioner](http://www.ico.gov.uk/). Registered number Z8414369.
+The Slice Ltd (trading as 'CUs4', '4Quick' and 'Wentworthdirect.co.uk') is the data controller in relation to the Services and your personal data. Our registered address is 25 Ormside Way, Redhill, Surrey, RH1 2LW, UK. Registered under the data protection act with the [ Information Commissioner](http://www.ico.gov.uk/). Registered number Z8414369.
 
 ## The information we collect
 
@@ -84,11 +84,11 @@ If you wish to discontinue receiving email messages from wentworthdirect.co.uk o
 
 > a. Unsubscribe from one email list. 
 > 
-> To unsubscribe from a particular list, either click on the unsubscribe link within the email you received, enter your email address and click submit or write to Unsubscribe, The Slice, 25 Ormside Way, Redhill, Surrey, RH1 2LW. 
+> To unsubscribe from a particular list, either click on the unsubscribe link within the email you received, enter your email address and click submit or write to Unsubscribe, The Slice Ltd, 25 Ormside Way, Redhill, Surrey, RH1 2LW, UK.
 > 
 > b. Unsubscribe from all of wentworthdirect.co.uk’s email lists. 
 > 
-> We reserve the right to add Individual Information to multiple lists maintained by wentworthdirect.co.uk or Cus4 group of companies. To globally unsubscribe from all of wentworthdirect.co.uk’s lists, send an email to unsubscribeglobal@theslice.co.uk or write to Unsubscribe, The Slice, 25 Ormside Way, Redhill, Surrey, RH1 2LW
+> We reserve the right to add Individual Information to multiple lists maintained by wentworthdirect.co.uk or Cus4 group of companies. To globally unsubscribe from all of wentworthdirect.co.uk’s lists, send an email to unsubscribeglobal@theslice.co.uk or write to Unsubscribe, The Slice Ltd, 25 Ormside Way, Redhill, Surrey, RH1 2LW, UK
 
 ## Age Limit
 
