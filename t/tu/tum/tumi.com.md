@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tumi.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613031106id_/http%3A//www.tumi.com/help/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumi.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161855id_/http%3A//www.tumi.com/privacy) for the most accurate reproduction.*
 
-# Tumi.com
+# TUMI Official Site: Luxury Luggage, Briefcases and Lifestyle Accessories
 
-[home](https://web.archive.org/index.cfm) › [help center](https://web.archive.org/help/) › privacy
-
-## our privacy pledge
+## Our Privacy Pledge
 
 Dear Valued Customer,
 
