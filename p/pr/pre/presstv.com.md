@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presstv.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617193439id_/http%3A//www.presstv.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presstv.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042058id_/http%3A//www.presstv.com/policy.aspx) for the most accurate reproduction.*
 
 # PRESS TV Policy
 
@@ -25,14 +25,15 @@ This site contains cookie. Cookie is a small text file of information attached t
 **How to Contact Us**   
 If you have any questions you may contact us at [webmaster@presstv.com](mailto:webmaster@presstv.com)
 
-|  |  [Latest News](https://web.archive.org/web/20080617193439id_/http%3A//www.presstv.com/latestnews.aspx)  
+|  |  [Latest News](https://web.archive.org/web/20081216042058id_/http%3A//www.presstv.com/latestnews.aspx)  
 ---  
  Spotlight   
  QUICK VOTE   
-|  Which is the most likely scenario regarding the US-Iraq 'security treaty'?  
+|  What did the perpetrators of the Mumbai attacks aim to achieve?   
 ---  
-The Iraqi gov't will reject the treaty  
-The Iraqi gov't will sign the treaty but religious figures, political parties and the Parliament will reject it  
-The finalization of the treaty will be postponed until a new US President takes office  
+Inflicting damage on the Indian economy  
+Undermining the position of Pakistan and Muslims in the Indian Subcontinent  
+Triggering a war between India and Pakistan  
+None of the above  
 |  Results   
  Current Weather 
