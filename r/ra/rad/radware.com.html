@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the radware.com privacy policy that was archived on 2008-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080518062359id_/http%3A//www.radware.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the radware.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216113558id_/http%3A//www.radware.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Radware: Privacy Policy
@@ -37,7 +37,7 @@ if (document.layers) document.captureEvents(Event.KEYPRESS);</script>
 <table id="tbl_nav" width="990" height="55px" border="0" cellpadding="0" cellspacing="0" style="background-color:/Solutions/default.aspxffffff;">
 	<tbody><tr valign="top">
 		<td rowspan="2" width="239px" height="55px">
-            <input type="image" name="ctl00$Navigation1$ibtnLogo" id="ctl00_Navigation1_ibtnLogo" title="Radware Home" src="images/Rad_logo.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$Navigation1$ibtnLogo&quot;, &quot;&quot;, false, &quot;&quot;, &quot;Default.aspx&quot;, false, false))" border="0">
+            <input type="image" name="ctl00$Navigation1$ibtnLogo" id="ctl00_Navigation1_ibtnLogo" title="Radware Home" src="images/Rad_logo.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$Navigation1$ibtnLogo&quot;, &quot;&quot;, false, &quot;&quot;, &quot;./&quot;, false, false))" border="0">
 		</td>
 		<td width="751px" height="31px">
 		<table id="tblSearch" width="751px" height="100%" border="0" cellpadding="0" cellspacing="0">
@@ -63,7 +63,7 @@ if (document.layers) document.captureEvents(Event.KEYPRESS);</script>
 		<div class="NOPRINT">
  <!-- MainMenu Begin -->
 	<ul id="udm" class="udm">
-		<li><a href="/default.aspx" target="_self" style="outline:0px;"><img name="homeDot" src="/images/spacer.gif" width="10" height="7" border="0">Home</a>
+		<li><a href="/" target="_self" style="outline:0px;"><img name="homeDot" src="/images/spacer.gif" width="10" height="7" border="0">Home</a>
         </li>
 		<li><a href="/Solutions/default.aspx" target="_self" style="outline:0px;"><img name="solutionsDot" src="/images/spacer.gif" width="10" height="7" border="0">Solutions</a>
 				<ul>
@@ -127,6 +127,7 @@ if (document.layers) document.captureEvents(Event.KEYPRESS);</script>
 							<li><a href="/Products/ApplicationDelivery/AppDirector/default.aspx" target="_self" style="font-size:11px;">AppDirector</a></li>
 							<li><a href="/Products/ApplicationDelivery/AppXcel/default.aspx" target="_self" style="font-size:11px;">AppXcel</a></li>
 							<li><a href="/Products/ApplicationDelivery/AppXML/default.aspx" target="_self" style="font-size:11px;">AppXML</a></li>
+							<li><a href="/Products/ApplicationDelivery/VirtualDirector/default.aspx" target="_self" style="font-size:11px;">VirtualDirector</a></li>
 							<li><a href="/Products/ApplicationDelivery/SIPDirector/default.aspx" target="_self" style="font-size:11px;">SIP Director</a></li>
 							<li><a href="/Products/ApplicationDelivery/LinkProof/default.aspx" target="_self" style="font-size:11px;">LinkProof</a></li>
 							<li><a href="/Products/ApplicationDelivery/LinkProofBranch/default.aspx" target="_self" style="font-size:11px;">LinkProof Branch</a></li>
@@ -687,6 +688,27 @@ function dcsVar(){
 	}
 }
 
+function dcsMultiTrack(){
+	if (arguments.length%2==0){
+		for (var i=0;i<arguments.length;i+=2){
+			if (arguments[i].indexOf('WT.')==0){
+				WT[arguments[i].substring(3)]=arguments[i+1];
+			}
+			else if (arguments[i].indexOf('DCS.')==0){
+				DCS[arguments[i].substring(4)]=arguments[i+1];
+			}
+			else if (arguments[i].indexOf('DCSext.')==0){
+				DCSext[arguments[i].substring(7)]=arguments[i+1];
+			}
+		}
+		var dCurrent=new Date();
+		DCS.dcsdat=dCurrent.getTime();
+		dcsFunc("dcsCookie");
+		dcsTag();
+	}
+}
+
+
 function dcsA(N,V){
 	if (gI18n&&!EXRE.test(N)){
 		if (N=="dcsqry"){
@@ -893,14 +915,14 @@ addthis_logo_color      = '666699';
 addthis_brand           = 'Radware.com';
 addthis_options         = 'digg, delicious';
 </script>
-<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_to()" class="BodySmallLighter">Share It</a> |
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_to()" class="BodySmallLighter">Share It</a> |  <a href="/Resources/Glossary.aspx" class="BodySmallLighter" title="Glossary">Glossary</a>
 <script type="text/javascript" src="http://s7.addthis.com/js/15/addthis_widget.js"></script>
 <!-- ADDTHIS BUTTON END -->
 		                  
 		                  
 		                  </td>
-		                <td style="width:172px;height:42px;" align="right" class="BodySmallLight">
-			                Smart Network. Smart Business.</td>
+		                <td style="width:180px;height:42px;" align="right" class="BodySmallLight">
+			                Smart Network. Smart Business. ™</td>
 			                <td>
 						<img src="/images/spacer.gif" width="15px" height="1" alt=""></td>
 	                    </tr>
