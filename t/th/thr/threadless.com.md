@@ -1,18 +1,19 @@
-> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611073653id_/http%3A//www.threadless.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011348id_/http%3A//www.threadless.com/privacypolicy) for the most accurate reproduction.*
 
 # Threadless T-Shirts - Designer Clothing Submissions - Tees, Tshirts and T shirts!
 
-Threadless.com recognizes that its customers, visitors, users, and others (known collectively or individually as "Users") who use www.threadless.com (the "Website") value their privacy. This Privacy Policy applies to all of the products, services, and Websites offered by Threadless.com, or its subsidiaries or affiliated companies and details important information regarding the use and disclosure of User information collected on the Website. 
+Threadless.com recognizes that its customers, visitors, users, and others (known collectively or individually as "Users") who use [www.threadless.com](http://www.threadless.com/) (the "Website") value their privacy. This Privacy Policy applies to all of the products, services, and Websites offered by Threadless.com, or its subsidiaries or affiliated companies and details important information regarding the use and disclosure of User information collected on the Website.
 
   * Your use of the Website and any personal information you provide on the Website remains subject to the terms of this Privacy Policy and the Threadless.com [Terms of Use](https://web.archive.org/termsofuse).
   * Please note that any comment or other content you post or send to the Website becomes published content and is not considered personally identifiable information subject to this Privacy Policy. Your messages and other information you make available in public areas of the Threadless.com website will be seen by people and organizations not related to or controlled by Threadless.com, and may be used by others to contact you.
   * Threadless.com Privacy Policy applies only to Websites and services that are owned and operated by Threadless.com. While other Websites may be displayed as links from within Threadless.com, those sites are owned and operated by others, and they may have different privacy policies. When linking from Threadless.com to other websites, if you have privacy concerns, we urge you to review the privacy policies of those sites.
+  * We may use third-party advertising companies to serve or track ads on our website and other websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to measure advertising effectiveness and to provide advertisements about goods and services that may be of interest to you.
 
 
 
 ### 1\. Information Collection and Use
 
-General 
+General
 
   * Threadless.com does not require that you register in order to view its products or User comments. Registration is required to use certain interactive features such as posting comments, participating in the blog forums, and in order to submit ideas and participate in competitions.
   * Threadless.com collects personal information when you register with Threadless.com, when you visit the Website, when you make a purchase, or any time you provide information to Threadless.com about yourself. Threadless.com may combine information about you that we have with information we obtain from business partners or other companies.
@@ -22,7 +23,7 @@ General
 
 
 
-Children Under 13 
+Children Under 13
 
   * Threadless.com is committed to protecting the privacy of children. Threadless.com does not knowingly or intentionally collect personal information online from children under the age of 13.
   * If Threadless.com learns that personally identifiable information of persons under 13 years of age has been collected on Threadless.com without verified parental consent, then Threadless.com will take the appropriate steps to delete this information.
@@ -32,7 +33,7 @@ Children Under 13
 ### 2\. Information Sharing and Disclosure
 
   * Threadless.com does not rent, sell, or share Personal Information with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with Threadless.com under confidentiality agreements. These companies may use your Personal Information to help Threadless.com communicate with you about offers from Threadless.com and our marketing partners. However, these companies do not have any independent right to share this information.
+  *     * We provide the information to trusted partners who work on behalf of or with Threadless.com under confidentiality agreements. These companies may use your Personal Information to help Threadless.com communicate with you about offers from Threadless.com and our marketing partners. However, these companies do not have any independent right to share this information.
     * We provide Non-Personal Information to interested third-parties for purposes of understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Website.
     * We use both your Personal Information and certain Non-Personal Information to improve the quality and design of the Website and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
     * We may share Personal Information in response to subpoenas, court orders, or other forms of legal process, or to establish or exercise our legal rights or defend against legal claims.
@@ -62,7 +63,7 @@ Children Under 13
 
   * You can edit your Threadless.com account information at any time by visiting your account profile page.
   * We reserve the right to use your Personal Information in order to send you certain communications relating to the Threadless.com service, such as service announcements, and administrative messages, that are considered part of your Threadless.com account, without offering you the opportunity to opt out of receiving them.
-  * You can deactivate your Threadless.com account at any time by canceling your account on the [account profile page](http://www.threadless.com/account).
+  * You can deactivate your Threadless.com account at any time by canceling your account on the [account profile page.](https://web.archive.org/account)
 
 
 
@@ -76,7 +77,7 @@ Threadless.com may update this policy at any time in its sole discretion and wit
 
 ### 8\. Effective Date
 
-This Privacy Policy was last modified May 11, 2007.
+This Privacy Policy was last modified October 31, 2008.
 
 ### 9\. Contact Information
 
@@ -87,22 +88,5 @@ Privacy Policy
 Threadless.com  
 4043 N. Ravenswood Ave. #106  
 Chicago, IL 60613  
-privacypolicy@threadless.com
+privacypolicy@threadless.com  
 
-[](http://www.threadless.com/news)
-
-_Update:_ Jun 09, '08
-
-|  |  [](http://www.threadless.com/interviews)
-
-_Update:_ Jason Bergsieker
-
-|  |  [](http://www.threadless.com/sightings)
-
-Threadspotting every Friday!
-
-|  |  [](http://www.threadless.com/gift)
-
-You know they'll love it!  
-  
----|---|---|---|---|---|---
