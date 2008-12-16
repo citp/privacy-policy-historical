@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michiganradio.org privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429191514id_/http%3A//www.michiganradio.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganradio.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216034508id_/http%3A//www.michiganradio.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Michigan Radio - Privacy Policy
 
