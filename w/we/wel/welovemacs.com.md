@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the welovemacs.com privacy policy that was archived on 2008-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080423032355id_/http%3A//www.welovemacs.com/privstat.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welovemacs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044117id_/http%3A//www.welovemacs.com/privstat.html) for the most accurate reproduction.*
 
 # Privacy Statement, Apple Mac and iPod Accessories
 
-[](http://us.st11.yimg.com/us.st.yimg.com/I/lovemacs_1995_276363514)
+[](http://us.st12.yimg.com/us.st.yimg.com/I/lovemacs_2031_97108460)
 
 ## Privacy Statement
 
@@ -17,3 +17,5 @@ Some of the information **"We Love Macs"!** receives about you or your session m
 **"We Love Macs"!** does not sell, rent, or loan any identifiable information regarding its customers to any third party. Any information you give us is held with the utmost care and security, and will not be used in ways to which you have not consented. 
 
 If you have any questions about the privacy statement of **"We Love Macs"!** , please feel free to email us your questions or concerns at [info@welovemacs.com](mailto:info@welovemacs.com). 
+
+**Third-Party Web Beacons:** We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
