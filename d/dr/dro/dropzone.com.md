@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the dropzone.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410001538id_/http%3A//www.dropzone.com/cgi-bin/safety/detail_page.cgi%3FID%3D599) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropzone.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165242id_/http%3A//www.dropzone.com/cgi-bin/safety/detail_page.cgi%3FID%3D599) for the most accurate reproduction.*
 
-# Dropzone.com : Privacy Statement
+# Privacy Statement - Dropzone.com
 
-**Premier Membership** \- [Subscribe Today!](https://web.archive.org/content/Detailed/492.html)
+  
+
 
 * * *
 
@@ -32,6 +33,8 @@ The foregoing policies are effective as of January 1, 2001. DROPZONE.COM reserve
 
 ### More articles in this category:
 
+  * [Dropzone.com Article Submission Guidelines](http://www.dropzone.com/cgi-bin/safety/detail_page.cgi?ID=694) \- by Editor (Posted: 2008-06-17)
+  * [Write For Us](http://www.dropzone.com/cgi-bin/safety/detail_page.cgi?ID=695) \- by Editor (Posted: 2008-06-17)
   * [Terms of Use](http://www.dropzone.com/cgi-bin/safety/detail_page.cgi?ID=597) \- by sangiro (Posted: 2005-07-21)
   * [Legal Information and Notices](http://www.dropzone.com/cgi-bin/safety/detail_page.cgi?ID=598) \- by sangiro (Posted: 2005-07-21)
   * [Privacy Statement](http://www.dropzone.com/cgi-bin/safety/detail_page.cgi?ID=599) \- by sangiro (Posted: 2005-07-21)
