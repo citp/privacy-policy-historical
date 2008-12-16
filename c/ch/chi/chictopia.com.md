@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chictopia.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626062604id_/http%3A//chictopia.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chictopia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216232650id_/http%3A//www.chictopia.com/about/privacy) for the most accurate reproduction.*
 
-# Chictopia - Share Your Style
-
-### Privacy Policy
+# The people's fashion destination - Chictopia
 
 This privacy policy (the "Privacy Policy") describes the personal information collected about users of the online dating service accessible via the Website located at www.Chictopia.com and related URLs (the "Service") and how such information may be used or disclosed by Chictopia.com, LLC. ("Chictopia").
 
@@ -10,9 +8,6 @@ The term "You" (and its variants) refers to You as a user of the Service and the
 
 **Overview**  
 As part of the operation of the Service We collect and may disclose information about You. By accepting the Chictopia.com Terms of Use and this Privacy Policy, You consent to Our use and disclosure of Your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Chictopia.com Terms of Use.
-
-**A Special Note About Children**  
-Please note that individuals under the age of 18 may not submit any personal information to Us or otherwise use the Service. 
 
 **Information We Collect**  
 We use data collection devices such as "cookies" on certain pages of the Service. "Cookies" are small files placed on Your hard drive that assist Us in providing customized services. Certain features of the Service are only available with the use of a "cookie." We use this information to determine Our members' demographics, interests, and behavior to better understand and serve You and other members. This information may include the URL of the website that You visited prior to the Service (whether this URL is on the Service or not), the URL of the website You next go to (whether this URL is on the Service or not), what browser You are using and Your Internet Protocol address. Most cookies are "session cookies" meaning that they are automatically deleted from Your hard drive at the end of a session. You are always free not to accept cookies if Your browser permits.
@@ -43,7 +38,7 @@ We cooperate with law enforcement inquiries and with third parties to enforce la
 Our services may include access to instant messaging and chat rooms. As a member You have access to members' identification numbers or user names and You might gain access to other contact information of other members through the use of the Service. You may not use such information in any manner that is not authorized by Us and the applicable member. In all cases, You must give members an opportunity to remove their information from Your information databases, including email lists. Under no circumstances may You disclose personally identifiable information about another member to any third party without Our consent and the consent of such other member. You may not add a member to an mail list (email or physical mail) without that member's express consent. 
 
 **Accessing, Reviewing, and Changing Your Profile**  
-After registration You can review and change the information You submitted during registration. For instructions on how to do so visit the "Help" section of the Service. 
+After registration You can review the information You submitted during registration. For instructions on how to change the information, contact info@chictopia.com. 
 
 We may retain in Our files information You have requested be removed from Our active databases for certain purposes, such as to resolve disputes, troubleshoot problems and enforce the Terms of Use. Moreover, such prior information may never be completely removed from Our databases due to technical and legal constraints, including stored 'back up' systems. You should not expect that all of Your personally identifiable information will be completely removed from Our databases in response to Your request.
 
