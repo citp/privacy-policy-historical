@@ -1,14 +1,35 @@
-> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526021723id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011123id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Help zone :: Truesupplier - The best mobile phone and PDA accessories wholesale CO.
 
 | [](http://www.truesupplier.com/) |  |   
 ---  
-CALL US: +86-755-8884-7001   International: +86-755-8884-8991    
+CALL US: +86-755-8884-7001   International: +86-755-8884-8991   |   
   
   
   
-|  [Truesupplier - The best mobile phone and PDA accessories wholesale CO.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20080526021723id_/http%3A//www.truesupplier.com/help.php) | Privacy statement  
+
+
+| Very good seller and honest, obedient, and wise seller and very quick shipping  
+---  
+ramiwawaw   
+  
+* * *  
+  
+item as described, excellent transaction, fast shipping AAAAA+++++  
+cheech6296   
+  
+* * *  
+  
+I bought a digitizer for my htc touch. The item was shipped on time, pretty well packed and fits perfectly in my phone besides truesupplier include a handy set of tools that let me change the part in less than 20 minutes and now my touch is back in business, thanks  
+Francisco   
+  
+* * *  
+  
+[**Write Your Own Testimonial**](https://web.archive.org/web/20081216011123id_/http%3A//www.truesupplier.com/testimonials.php?mode=new_form)  
+  
+  
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=1&banner_redirect=http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=truesupplier&ftab=AllFeedback) [Truesupplier - The best mobile phone and PDA accessories wholesale CO.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20081216011123id_/http%3A//www.truesupplier.com/help.php) | Privacy statement  
 ---  
   
 Thank you for accessing the web site ("Site") of truesupplier.com, Inc. ("truesupplier.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
@@ -81,7 +102,11 @@ Truesupplier.com
    
   
     
+
+
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=14&banner_redirect=http://www.truesupplier.com)  
   
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=12&banner_redirect=http://www.truesupplier.com/blackberry-m-4.html)  
   
 |   
 ---
