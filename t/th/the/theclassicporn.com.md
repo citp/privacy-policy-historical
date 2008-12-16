@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theclassicporn.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601044944id_/http%3A//www.theclassicporn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclassicporn.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154846id_/http%3A//www.theclassicporn.com/privacy.html) for the most accurate reproduction.*
 
 # OUR COMMITMENT TO PRIVACY
 
