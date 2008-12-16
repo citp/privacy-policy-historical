@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509064333id_/http%3A//www.textmarks.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025028id_/http%3A//www.textmarks.com/info/privacy) for the most accurate reproduction.*
 
 # TextMarks - Privacy Policy - Make information accessible from any cell phone - via text messages. Coordinate Activities. Express Yourself!
 
@@ -13,9 +13,9 @@ TextMarks receives your mobile phone number when you send a text message to us. 
 
 Simply receiving textmarks on your mobile phone does not require you to register for an account with us. Creating textmarks on our web site and other advanced TextMarks services do.
 
-When you register for the Service, and at certain times during your use of the Service, TextMarks will ask you for personal information such as your mobile phone number, email address, and password. We may also obtain additional information about you from partners or other third parties.
+In the course of using our Site and Services, you may provide us with personally identifiable information. This refers to information about you that can be used to contact or identify you, information on your use of our Site and Services that may be connected with you, and any additional information about you that we obtain from partners or other third parties ("Personal Information"). When you register for the Service, and at certain times during your use of the Service, TextMarks will ask you for Personal Information, including but not limited to, your phone number(s), email address, password, credit card or other billing information and home and business postal addresses.
 
-The information you provide and the information TextMarks obtains about you (collectively, "Personal Information") may be used (a) to provide you with products and services you request; (b) to anticipate and resolve problems with our products and services; (c) to improve and update our products and services; (d) to process and respond to inquiries; (e) for other purposes communicated to you at the time you provide or authorize the use of the information. TextMarks does not rent, sell, or share your Personal Information with third parties other than as set forth herein. 
+Personal Information may be used (a) to provide you with products and services you request; (b) to anticipate and resolve problems with our products and services; (c) to improve and update our products and services; (d) to process and respond to inquiries; (e) for other purposes communicated to you at the time you provide or authorize the use of the information. TextMarks does not rent, sell, or share your Personal Information with third parties other than as set forth herein. 
 
 If you request a TextMark from your cell phone or subscribe to a TextMark, the manager of that TextMark will be able to see your cell phone number - just like any individual to whom you send a text message directly would. 
 
