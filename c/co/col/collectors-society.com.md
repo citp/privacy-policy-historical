@@ -1,38 +1,23 @@
-> *The following text is extracted and transformed from the collectors-society.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509163756id_/http%3A//www.browngoldsmiths.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectors-society.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020815id_/http%3A//www.collectors-society.com/Privacy_Statement.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Brown Goldsmiths - Beautiful Jewelry from Freeport, Maine
+# Privacy and Security statement for Collectors Society
 
-###### Privacy Policy Statement
+Certified Collectibles Group has created this privacy statement in order to demonstrate our firm commitment to privacy and security. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-This is the web site of Brown Goldsmiths, Inc.
+While you use our site, we automatically track certain information, including the URL that you came from when you entered our site, which URL you go to once you exit our site, and your IP address. Many sites automatically collect this information, and we use it to help assess demand for our services and to assist in diagnosing problems that may arise with our systems efficiently distributing information. Your IP address is used to help identify you. 
 
-Our postal address is:  
-11 Mechanic Street  
-Freeport, ME 04032  
-We can be reached via e-mail at [showroom@browngoldsmiths.com](mailto:showroom@browngoldsmiths.com) or you can reach us by telephone at **800-753-4465**.
+When you join the Collectors Society you provide us with account information. This information is kept secure on our server and can be accessed only by you, and in certain instances, by us. To contact you when necessary we use your contact information. Outside access is not allowed. 
 
-For each visitor to our Web page, our Web server automatically recognizes remote IP address.
+If you choose to post messages in our message boards, chat rooms or other message areas or leave feedback for other users, we will collect such information about you as you choose to disclose. If you send us personal correspondence, such as e-mails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file specific to you. 
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+This site contains links to other sites. CCG is not responsible for the privacy practices or the content of such Web sites. 
 
-The information we collect is used to improve the content of our Web page, not shared with other organizations for commercial purposes.
+**Public area privacy.** This site will make, at its option, chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-With respect to cookies: We do not set any cookies.
+**Security.** This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All credit card information is accessed only through secure servers using SSL encryption for the protection of our customers. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
+**Opt-Out.** We provide members the opportunity to opt-out of receiving communications from third parties at any time. You may opt-out at the time you join or at any later time. 
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
+If you have any questions about this privacy and security statement, the practices of this site, or your dealings with this web site, [contact us. ](https://web.archive.org/web/20081216020815id_/http%3A//www.collectors-society.com/ContactUs.aspx)
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address, writing us at the above address.
-
-Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
-
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+ 
