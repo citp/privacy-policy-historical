@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the zencart.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701022540id_/http%3A//www.zen-cart.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zencart.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216010815id_/http%3A//www.zen-cart.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice, Zen Cart - free shopping cart
+# Privacy Notice, shopping cart software | Zen Cart Ecommerce Solution
 
 ## The Zen Cart™ Commitment To Privacy
 
-**January, 2006**
+**revised November 2007**
 
-Your privacy is important to us. To better protect your privacy Zen Cart™ provides this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, Zen Cart™ makes a link to it available on our homepage and at every point where personally identifiable information may be requested.
+Your privacy is important to us. To better protect your privacy, Zen Cart™ provides this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, Zen Cart™ makes a link to it available on our homepage and at every point where personally identifiable information may be requested.
 
 ### The Information Zen Cart™ Collects
 
@@ -21,13 +21,13 @@ a web site address, other contact methods, location, etc are all optional.
 
 Your IP address may also be logged. IP addresses may be used in fraud prevention and/or to prosecute perpetrators of fraud or other abuses.
 
-On some pages, you may order products, make requests, and register to receive materials. The information collected for these sections is strictly confidential and only shared with shippers and payment processors as needed. The types of personal information collected at these pages are:
+On some pages, you may order products, make requests, and register to receive materials. The information collected for these sections is strictly confidential and only shared with shippers, payment processors and/or selected partners as needed. The types of personal information collected at these pages are:
 
 Your Name*  
 Billing and Shipping Address(es)*  
 Email address*  
 Phone number*  
-possibly Credit Card number or other payment information.
+possibly Credit Card number or other payment information. If a credit card number is collected it is never stored on our servers.
 
 On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. The information collected for these sections is strictly confidential and only shared with shippers as needed. In this circumstance, the types of personal information collected are:
 
@@ -44,7 +44,7 @@ Zen Cart™ uses the information you provide about someone else when placing an 
 
 Zen Cart™ uses return email addresses to answer Zen Cart™ the email Zen Cart™ receives. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-You can register with the Zen Cart™ web site if you would like to use our forum and/or other services. Information you submit on the Zen Cart™ web site will not be used for any other purpose.
+You can register with the Zen Cart™ web site if you would like to use our forum, recieve newsletters, list your site in the showcase, and/or other services. Information you submit on the Zen Cart™ web site may be shared with selected partners.
 
 Zen Cart™ may use non-identifying and aggregate information to better design the Zen Cart™ web site and to share with advertisers. For example, Zen Cart™ may tell an advertiser that X number of individuals visited a certain area on our Zen Cart™ web site, or that Y number of men and Z number of women filled out our registration form, but Zen Cart™ would not disclose anything that could be used to identify those individuals.
 
