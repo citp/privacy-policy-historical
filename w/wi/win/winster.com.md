@@ -1,25 +1,8 @@
-> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015600id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
 
-# Winster - Privacy Policy
+# Winster - Games, Friends, Prizes
 
-[](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/home.jsp "Winster Home")  
-[Home](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/home.jsp "Winster Home")  
-[About Us](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/about.jsp "About Us")  
-[Club Winster](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/club_winnie.jsp "Club Winster")  
-[Winster News](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/news.jsp "Winster News")  
-[Winster Toolbar](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/toolbar.jsp "Winster Toolbar")  
-[Testimonials](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/testimonials.jsp "Testimonials")  
-[Terms & Conditions](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/terms.jsp "Terms & Conditions")  
-[Privacy Policy](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/privacy.jsp "Privacy Policy")  
-[FAQ](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/faq.jsp "FAQ")  
-[Play for Free](https://web.archive.org/web/20080618061953id_/http%3A//www.winster.com/nopurchase.jsp "No Purchase Necessary")
-
-####  [Play Now](http://www.winster.com/secure/playit.jsp?game=SlotSocial "Play Now")
-
-  
-[](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.WINSTER.COM&lang=en) |       | 
-
-### Privacy Policy
+Privacy Policy
 
 Last updated: April 23, 2008
 
@@ -27,7 +10,7 @@ Winster, Inc. ("Winnie", "I", "We", "Us", "Our") believes in the Golden Rule: We
 
 By visiting Winster.com, you are accepting the practices described in this Privacy Policy. 
 
-##### What personal information do We gather about you? 
+#### What personal information do We gather about you? 
 
 **Information you give Us** : We may receive and keep any information you enter on Our web site or give Us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of Our offerings.
 
@@ -39,7 +22,7 @@ By visiting Winster.com, you are accepting the practices described in this Priva
 
 Note that even though you change or delete your information on Our web site, or cancel your account, We may keep copies of your information for Our records or for backup. We may also retain certain credit and credit card information, for use in future audits, investigating charge backs, as required by merchant agreements or creditors, or for other legitimate business purposes.
 
-##### Do We share what We know about you? 
+#### Do We share what We know about you? 
 
 In general, We only share information about you with third parties when We need to in order to transact business with you or on your behalf, when you have requested Us or permitted Us to, when required by law, when We think it will benefit you (i.e. for your own good), or occasionally, for Our own profit. We may also share your personal information with you, when We reasonably believe We are communicating with you. 
 
@@ -57,7 +40,7 @@ Other than the above, We will tell you when We intend to share information about
 
 Special message for California Residents: Effective January 1, 2005, companies that collect personally identifiable information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties (SB 27). We have elected the second option, and you may request that your information not be shared with third parties by sending or hand delivering your request, including your full name, email address and postal address to: Winster, Inc., 155 Bovet Rd., Suite 303, San Mateo, CA 94402. 
 
-##### What do We do to protect your information? 
+#### What do We do to protect your information? 
 
 We are committed to handling your trusted information with high standards of security. 
 
@@ -71,11 +54,11 @@ We maintain information on a computer that is not directly accessible from the i
 
 You can help! Anyone who has or gains access to your account will be able to view your personal information, so please be sure that you protect yourself by controlling access to your computer(s), keeping your login and password information confidential, and exercising care when using other people's or public computers. And watch out for those sneaky kids around the house - they know more than you think! 
 
-##### Kids! Gotta love 'em (but not here)! 
+#### Kids! Gotta love 'em (but not here)! 
 
 We love kids, but not on Our web site. As per Our Terms & Conditions of Use, no one under the age of 18 can register on Our web site or play Our Games. 
 
-##### Terms & Conditions of Use, Notices, and Revisions 
+#### Terms & Conditions of Use, Notices, and Revisions 
 
 When you visit Our web site, your visit and any dispute over privacy is subject to this Privacy Notice and Our Terms & Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. Please contact Customer Support if you have and questions or issues about these policies. 
 
