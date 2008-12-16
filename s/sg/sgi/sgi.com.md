@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgi.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514223853id_/http%3A//www.sgi.com/company_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgi.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160315id_/http%3A//www.sgi.com/company_info/privacy.html) for the most accurate reproduction.*
 
 # SGI - Company Info: Privacy Policy
 
@@ -51,5 +51,3 @@ SGI employs procedural and technological measures, consistent with the demands o
 SGI reserves the right to change this Privacy Policy. Any changes will be made available within this externally posted Privacy Policy. We encourage you to review this Privacy Policy regularly for any changes as your continued use of the Site will be subject to the then-current privacy policy.
 
 If you have questions or comments regarding SGI's privacy practices you can [contact us](https://web.archive.org/cgi-bin/send/privacy) and put "privacy" in the subject line.
-
-Last Updated: 2/10/05.
