@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petside.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531234609id_/http%3A//www.petside.com/privacy-policy%3Ffooter%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petside.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165325id_/http%3A//www.petside.com/privacy-policy%3Ffooter%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
