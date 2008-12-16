@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetsideauto.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531085819id_/http%3A//www.streetsideauto.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetsideauto.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050513id_/http%3A//www.streetsideauto.com/privacy.asp) for the most accurate reproduction.*
 
 # Security and Privacy - Auto Parts, Car Parts, Truck Accessories, Truck Parts and Car Accessories at Streetsideauto.com
 
@@ -21,10 +21,5 @@ This site may contain energy-related facts and information that could be of educ
 StreetSide Auto closely scrutinizes its marketing and public information efforts, including this site, to conform to the guidelines put forth by the Children's Advertising Review Unit and the Children's Online Privacy Protection Act of 1998. We encourage you to monitor your children's online time. We further ask that you help us protect their privacy by instructing them never to provide personal information on any Web site without your permission.
 
 StreetSide Auto reserves the right to change this privacy policy at any time. If we decide to change our policy regarding privacy, we will post the revised privacy policy on our site. You may want to visit this site periodically to review the current privacy policy. Use of our site after the posting of a revised privacy policy constitutes your agreement with the revised policy. This privacy policy is not intended to and does not create any contractual or legal rights in or on behalf of any party.
-
-Our postal address is:  
-Street Side Auto  
-686 S Adams  
-Kansas City, KS 66105
 
 We can be reached via [Contact Us Page](http://www.streetsideauto.com/shopping/shopcustcontact.asp)
