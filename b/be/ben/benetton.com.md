@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the benetton.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616181248id_/http%3A//www.benetton.com/html/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benetton.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013309id_/http%3A//www.benetton.com/portal/web/guest/privacy) for the most accurate reproduction.*
 
-# United Colors of Benetton - Privacy
-
-| 
-
-**Privacy Policy**
+# benetton.com - Privacy
 
 Information provided pursuant to section 13 of Italian Legislative Decree No. 196 of 30 June 2003 (Personal Data Protection Code, hereinafter referred to as "P.C.")
 
@@ -38,5 +34,3 @@ Appropriate security measures have been taken against accidental loss of the dat
  **Rights of the parties concerned**  
 Pursuant to section 7 of the P.C., the parties to whom the personal data refer may at any time request confirmation that their data is being held, be notified of the contents of such data and their origin, verify whether they are accurate or request that they be completed, updated, corrected, erased, demand that they be made anonymous or demand that data held in violation of law be blocked, and such parties may also object, for legitimate reasons, to the data being processed.  
 Any requests to the above-stated effect should be addressed to the data controller.
-
-| 
