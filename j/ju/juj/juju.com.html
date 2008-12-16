@@ -1,87 +1,104 @@
-<!--The following is the downloaded HTML source of the juju.com privacy policy that was archived on 2007-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071207161455id_/http%3A//www.job-search-engine.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the juju.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216021038id_/http%3A//www.juju.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-<title>Privacy Policy | Juju</title>
+    <title>Privacy Policy | Juju</title>
 
     <meta content="Juju - Find information on Juju's commitment to user privacy. Learn about the data that we collect and how we use it." name="description">
 
+
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<meta content="all" name="robots">
 <link href="/assets/images/favicon.ico" rel="shortcut icon">
-<link media="screen,projection" href="/assets/style/basic.css" type="text/css" rel="stylesheet">
+
+<link media="screen,projection" href="/assets/style/initial.css" type="text/css" rel="stylesheet">
 <link media="screen,projection" href="/assets/style/juju.css" type="text/css" rel="stylesheet">
-<link media="screen,projection" href="/assets/style/nifty.css" type="text/css" rel="stylesheet">
-<link media="print" href="/assets/style/niftyprint.css" type="text/css" rel="stylesheet">
+<link media="screen,projection" href="/assets/style/niftyCorners.css" type="text/css" rel="stylesheet">
 
+<link media="screen,projection" href="/assets/style/browseby.css" type="text/css" rel="stylesheet">
 
-<script src="/assets/js/nifty.js" type="text/javascript"></script>
-<script src="/assets/js/cookie.js" type="text/javascript"></script>
-<script src="/assets/js/set_form_field_value.js" type="text/javascript"></script>
-
+<script src="/assets/js/MochiKit.js" type="text/javascript"></script>
+<script src="/assets/js/juju-standard.js" type="text/javascript"></script>
+<script src="/assets/js/niftycube.js" type="text/javascript"></script>
 <script type="text/javascript">
 // After the page loads do the following
 window.onload=function() {
-
-    // Check if dom support for nifty corners
-    if(!NiftyCheck()) {
-        // no dom support
-        return;
-    } else {
-        // dom support good run nifty corners functions
-        Rounded("div#util","tl tr","#FFF","#FC3","smooth");
-        Rounded("div#util","bl br","#FFF","#FF9","smooth");
-        //Rounded("div#searchoptions","all","#FFF","#EEE","smooth");
-        Rounded("div#footer","tl tr","#FFF","#006","smooth");
-        Rounded("div#footer","bl br","#FFF","#009","smooth");
-        
-            Rounded("div#content","tl tr","#FFF","#EEE","smooth");
-        
-    }
+    Nifty("div#util","same-height transparent");
+    Nifty("div#searchoptions","same-height transparent");
+    Nifty("div#footer","same-height transparent");
+    
     
     
 }
 </script>
 
+    <meta content="all" name="robots">
+
+<link type="text/css" rel="stylesheet" href="/assets/style/niftyCorners.css" media="screen"></head>
+<body class="layout2">
+<div id="container">
 
 
-</head>
-<body id="page">
-<div id="wrapper" class="fixed">
+    <div style="width: 750px; margin-left: auto; margin-right: auto;">
 
 <div id="header">
-    <h1><a href="/" title="Juju - Home">Juju - Job Search Engine</a></h1>
-    <div id="util" style="padding-top: 0px; padding-bottom: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="ra1" style="background-color: rgb(255, 204, 51); border-color: rgb(255, 229, 153);"></b><b class="ra2" style="background-color: rgb(255, 204, 51); border-color: rgb(255, 229, 153);"></b><b class="ra3" style="background-color: rgb(255, 204, 51); border-color: rgb(255, 229, 153);"></b><b class="ra4" style="background-color: rgb(255, 204, 51); border-color: rgb(255, 229, 153);"></b></b> 
+    <div id="logo"><a href="/" title="Juju - Home"><img src="/assets/images/juju_logo_small.gif" alt="Juju Logo"></a></div>
+    <div id="util" style="padding-top: 0px; padding-bottom: 0px; height: auto;"><b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-bottom: -5px;"><b class="t1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b> 
         
-            <p id="browselinks">Browse Jobs by: <a href="/category/" title="Browse Jobs by Category">Category</a> <span>|</span> <a href="/location/" title="Browse Jobs by Location">Location</a> <span>|</span> <a href="/company/" title="Browse Jobs by Company">Company</a> <span>|</span> <a href="/keyword/" title="Browse Jobs by Keyword">Keyword</a> </p>
+            <p id="browselinks">Browse Jobs by: <a href="/category/" title="Browse
+Jobs by Category">Category</a> <span>|</span> <a href="/location/" title="Browse Jobs by Location">Location</a> <span>|</span> <a href="/company/" title="Browse Jobs by Company">Company</a> <span>|</span> <a href="/keyword/" title="Browse Jobs by Company">Keyword</a></p>
 
             
-<form action="/jobs" class="clearfix" id="searchform" method="get">
-    <div id="keywordbox">
+<script type="text/javascript">
+function onJobSearch(evtNode) {
+    try {
+        var r1 = document.getElementById('radius1');
+        var r2 = document.getElementById('radius2');
+        if (r1.value == '20') {
+            r1.parentNode.removeChild(r1);
+        }
+        if (r2.value == '20') {
+            r2.parentNode.removeChild(r2);
+        }
+    } catch(e) {
+    }
+}
+</script>
+<form action="/jobs" onsubmit="return onJobSearch(this)" class="searchform clearfix" method="get">
+    <div class="keywordbox"> 
         <label for="keyword">Keywords</label><br>
-        <input onblur="onKeywordBlur(this)" name="k" value="" maxlength="512" onfocus="onKeywordFocus(this)" type="text" id="keyword" size="20">
-        <span id="keyworddesc">Job Title, Industry, Employer</span>
+        <input onblur="onKeywordBlur(this)" name="k" value="" class="keyword" maxlength="512" onfocus="onKeywordFocus(this)" type="text" id="keyword1" size="20">
+        <span class="keyworddesc">Job Title, Industry, Employer</span>
     </div>
-    <div id="locationbox">
+    <div class="locationbox"> 
         <label for="location">Location</label><br>
-        <input onblur="onLocationBlur(this)" name="l" value="" maxlength="256" onfocus="onLocationFocus(this)" type="text" id="location" size="20">
-        <span id="locationdesc">City &amp; State or Zip Code</span>
+        <input onblur="onLocationBlur(this)" name="l" value="" class="location" maxlength="256" onfocus="onLocationFocus(this)" type="text" id="location1" size="20">
+        <span class="locationdesc">City &amp; State or Zip Code</span> 
     </div>
-    <div id="searchbtnbox">
-        <input type="hidden" name="order" value="relevance">
-        <input type="submit" id="search" value="Search Jobs">
+    <div class="searchbtnbox">
+        <input type="submit" class="search" value="Search Jobs">
     </div>
+    <ul class="subnav"><li><a href="/advanced-search/" title="Advanced Search">Advanced Search</a></li></ul>
     
-    <ul id="subnav"><li><a href="/advanced-search/" title="Advanced Job Search">Advanced Job Search</a></li></ul>
-    <div class="clearer"></div>
+    <input type="hidden" id="radius1" value="20" name="r">
 </form>
 
+            <div class="clear"></div>
         
-    <b class="artop" style="background-color: rgb(255, 255, 255);"><b class="ra4" style="background-color: rgb(255, 255, 153); border-color: rgb(255, 255, 204);"></b><b class="ra3" style="background-color: rgb(255, 255, 153); border-color: rgb(255, 255, 204);"></b><b class="ra2" style="background-color: rgb(255, 255, 153); border-color: rgb(255, 255, 204);"></b><b class="ra1" style="background-color: rgb(255, 255, 153); border-color: rgb(255, 255, 204);"></b></b></div>
+    <b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-top: -5px;"><b class="t4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b></div>
 </div>
 
 
-<div id="content" class="" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="ra1" style="background-color: rgb(238, 238, 238); border-color: rgb(246, 246, 246);"></b><b class="ra2" style="background-color: rgb(238, 238, 238); border-color: rgb(246, 246, 246);"></b><b class="ra3" style="background-color: rgb(238, 238, 238); border-color: rgb(246, 246, 246);"></b><b class="ra4" style="background-color: rgb(238, 238, 238); border-color: rgb(246, 246, 246);"></b></b>
+
+<style>
+.todo-marker {
+    border: dashed 2px red;
+}
+
+#searchoptions h2 {
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+</style>
 
 
 <div id="pagecontent">
@@ -319,28 +336,22 @@ window.onload=function() {
     updated December 6, 2007.</p>
 
     </div>
+<div id="footer" style="padding-top: 0px; padding-bottom: 0px; height: auto;"><b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-bottom: -5px;"><b class="t1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b>
+    <p id="copyright">© 2008 Juju Inc.</p>
+    <p id="footernav"><a href="/about/">About Us</a> <span>|</span> <a href="/privacy/">Privacy</a> <span>|</span> <a href="/add-jobs/">Add Jobs</a> | <a href="/advertise/">Advertise Jobs</a></p>
+    <div class="clear">&nbsp;</div>
+<b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-top: -5px;"><b class="t4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b></div>
 
-</div>
-<div id="footer" class="clearfix" style="padding-top: 0px; padding-bottom: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="ra1" style="background-color: rgb(0, 0, 102); border-color: rgb(127, 127, 178);"></b><b class="ra2" style="background-color: rgb(0, 0, 102); border-color: rgb(127, 127, 178);"></b><b class="ra3" style="background-color: rgb(0, 0, 102); border-color: rgb(127, 127, 178);"></b><b class="ra4" style="background-color: rgb(0, 0, 102); border-color: rgb(127, 127, 178);"></b></b>
-<p id="copyright">© 2007 Juju Inc.</p>
-<p id="footernav"><a href="/about/">About Us</a> <span>|</span> <a href="/privacy/">Privacy</a> <span>|</span> <a href="/employers/">Employers</a></p>
-<div class="clearer narrow"><xsl:text> </xsl:text></div>
-<b class="artop" style="background-color: rgb(255, 255, 255);"><b class="ra4" style="background-color: rgb(0, 0, 153); border-color: rgb(127, 127, 204);"></b><b class="ra3" style="background-color: rgb(0, 0, 153); border-color: rgb(127, 127, 204);"></b><b class="ra2" style="background-color: rgb(0, 0, 153); border-color: rgb(127, 127, 204);"></b><b class="ra1" style="background-color: rgb(0, 0, 153); border-color: rgb(127, 127, 204);"></b></b></div>
+    </div>
 
-</div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-2459316-1";
-urchinTracker();
-</script>
-<script type="text/javascript">
-if (window.location.hash == '#fa') {
-    __utmSetVar('source=email_alert');
-}
-
+    _uacct = "UA-2459316-1";
+    urchinTracker();
 </script>
 
 
 
-</body></html>
+
+</div></body></html>
