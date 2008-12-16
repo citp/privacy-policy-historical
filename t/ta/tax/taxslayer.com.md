@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511205724id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044140id_/http%3A//taxslayer.com/privacy.aspx) for the most accurate reproduction.*
 
-# TaxSlayer.com - Privacy Statement
+# TaxSlayer.com | Privacy
 
-  
+##  TaxSlayer.com Privacy Statement:
 
+####  YOUR PRIVACY IS A PRIORITY TO US 
 
-## YOUR PRIVACY IS A PRIORITY TO US 
+[ ](http://www.truste.org/ivalidate.php?url=www.taxslayer.com&sealid=101) TaxSlayer.com is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.taxslayer.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact customer support at support@taxslayer.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+
+The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Web site.
 
 At TaxSlayer.com, we are committed to safeguarding customer information. Since your privacy is a priority to us, TaxSlayer will not share nonpublic information about you with third parties outside of the TaxSlayer corporate family without your consent, except as explained in our Privacy Policy.
-
-By participating in the council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnline.  Further information about this program is available at [ http://www.bbbonline.org](http://www.bbbonline.org/). 
 
 **PRIVACY POLICY**
 
@@ -32,6 +35,8 @@ This information does not identify individual visitors and is used to enhance an
 •     **Purchasing our Products**   
 The purpose of this site is to market and sell our software. As a result, you may have to provide us your personal information and/or email address. We do not share or disseminate this information to other vendors or clients.  This information is kept in strictest, secure, confidence. If you choose to purchase our products online, you will be asked for personal information as well as your credit card number.  The forms requesting this information are on a secure server.  All steps are taken to safeguard your information. 
 
+**Cookies** We use a variety of technologies on our Web site. Among these are cookies, which are pieces of information that our Web sites provides to your browser. You can choose to decline cookies while at our Web site, however, this may limit your ability to access certain areas of the Web site. Most browsers accept and maintain cookies by default.
+
 **Information Gathering**
 
 The information we gather, in addition to your tax return, includes:  
@@ -41,18 +46,28 @@ Credit card data is used to complete our transactions and none of this informati
 •     **Technical Assistance**   
 User name, user ID, email address, operating system, connection, browser.   
 •     **Tell A Friend**   
-We use this information once to send a message to your friend.  We do not share any information for our "Tell A Friend" page and this information is not saved. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friends name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. TaxSlayer.com stores this information for the sole purpose of sending this one-time email [and tracking the success of our referral program]. 
+
+Your friend may contact us at [ http://www.taxslayer.com/optout.aspx](http://www.taxslayer.com/optout.aspx) to request that we remove this information from our database. 
+
+**Newsletters**
+
+We will use your name and email address to send newsletters to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please visit <http://www.taxslayer.com/optout.aspx> to opt out.
 
 **Sharing Information**
 
 •     **Within TaxSlayer Corporate Family**   
 We may share information about you and the products and services you have purchased from us, among members of the TaxSlayer Corporate family and our parent company of Rhodes Financial Services, all of whom follow our Privacy Policy. However, this information will not be provided to third parties outside or corporate family, except as noted below:   
 •     **With Our Service Providers**   
-In some cases, we employ service providers to provide a product you order, to fulfill a service you request, or to market one of our products or services. Examples include delivering downloadable products, offering online software applications, or sending e-mails on our behalf. While this may require us to share information, these service providers are strictly prohibited from using your information other than to act on our behalf.   
+In some cases, we employ service providers to provide a product you order, to fulfill a service you request, or to market one of our products or services. Examples include using Web analytical software, Web beacons, delivering downloadable products, offering online software applications, or sending e-mails on our behalf. While this may require us to share information, these service providers are strictly prohibited from using your information other than to act on our behalf.   
 •     **For Legal Reasons**   
 We may be required to provide information about you to third parties outside of the TaxSlayer corporate family without your consent as provided by law, such as, to respond to a subpoena or court order, judicial process or regulatory authorities, to protect against fraud.   
 •     **In Case of Sale of Company**   
 Your information may be transferred in connection with a proposed or actual sale, merger, or transfer of all or a portion of a business or operating unit. 
+
+**Testimonials**
+
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. 
 
 **Links**
 
@@ -70,17 +85,18 @@ TaxSlayer's electronic filing process is different than most in the fact that yo
 
 Incomplete tax returns or returns that are not accepted by the IRS will be deleted. 
 
+TaxSlayer.com takes industry standard measures to protect the personal information we collect. We provide high level types of security measures including, but not limited to, firewalls and protected facilities. Our Web site uses SSL encryption to transmit sensitive information. We maintain physical, electronic and procedural safeguards that comply with applicable law and federal standards. 
+
 We strive to keep our customer information as accurate and complete as we can. If you believe any of the information about you is not accurate, please let us know. 
 
 **Access to Personal Information:**
 
-Personal Information is accessible online through Oct. 15th 2008. Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). 
+Personal Information is accessible online through Oct. 15th, 2009. You may view and/or make changes to your personal information by visiting your account online at www.taxslayer.com and selecting "Edit Account Information ". Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). 
 
-**Other Information**
+**Changes in this Privacy Statement**
 
-The Privacy Policy applies to products and services of TaxSlayer.com, online. Please note that the BBOnLine Privacy Seal only covers information collected through our TaxSlayer website.  It does not cover personal information gathered through the TaxSlayer download software.  We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. Any changes to our policy will be immediately posted and made available to consumers at our website and these changes will not take effect for 15 days after their initial posting.  We will also email users with this information.  The examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive. 
+The Privacy Policy applies to products and services of TaxSlayer.com, online. We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. Any changes to our policy will be immediately posted and made available to consumers at our website and these changes will not take effect for 15 days after their initial posting.  We will also email users with this information.  The examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive. 
 
-**Approved and Effective 1/1/2000**
+**Approved and Effective 10/1/2008**
 
-  
-
+[Back to TaxSlayer Home ](https://web.archive.org/web/20081216044140id_/http%3A//taxslayer.com/default.aspx)
