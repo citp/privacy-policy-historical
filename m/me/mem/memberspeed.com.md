@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the memberspeed.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629031020id_/http%3A//www.memberspeed.com/Privacy_Policy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memberspeed.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044949id_/http%3A//www.memberspeed.com/Privacy_Policy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # MemberSpeed.com Privacy Policy
 
-|   
-  
----  
-  
-****  
-  
 WEBSITE PRIVACY POLICY
 
 The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to MemberSpeed.com & MemberSpeed, Inc.  to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
