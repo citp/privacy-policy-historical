@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savewealth.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617222606id_/http%3A//www.savewealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savewealth.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021431id_/http%3A//www.savewealth.com/privacy) for the most accurate reproduction.*
 
 # SaveWealth.com Privacy Policy
 
@@ -56,4 +56,4 @@ We encourage you to visit the Center for Media Education's guide to children's p
 
 Your privacy is of paramount importance. We use the information we collect to improve SaveWealth.com, and ensure you receive accurate estate planning, retirement and investing information. By using our website, you consent to the collection and use of this information by SaveWealth.com. If we change this policy, we will post changes here so that you always know how we handle your private information.
 
-We welcome your questions and comments about privacy. Please [contact us](http://www.savewealthllc.com/contact/) and tell us what you think about our privacy policy. ****
+We welcome your questions and comments about privacy. Please [contact us](http://www.savewealth.com/contact/) and tell us what you think about our privacy policy. ****
