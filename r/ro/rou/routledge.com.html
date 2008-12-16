@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the routledge.com privacy policy that was archived on 2008-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080409124325id_/http%3A//www.routledge.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the routledge.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216035018id_/http%3A//www.routledge.com/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <title>Privacy Policy - Routledge</title>
@@ -9,7 +9,6 @@
 
 function gotoPhantom(TargetIsCurrent)
 {
-	var Url="";
 	if (TargetIsCurrent) {
 		Url = location.pathname + location.search;
 	} else {
@@ -25,7 +24,7 @@ function gotoPhantom(TargetIsCurrent)
 	password = password.replace(/\s/g, "");
 	
 	// check for email address and password before submiting the form
-	if (userID.length === 0 || password.length === 0)	{
+	if (userID.length == 0 || password.length == 0)	{
 		alert("You must enter your email address and password to login.  Please try again.");
 	} else {	
 		document.frmLogin.action = "https://www.routledge.com/ejournals/authentication/login.asp";
@@ -35,20 +34,27 @@ function gotoPhantom(TargetIsCurrent)
 }
 //-->
 </script>
+
+<script language="JavaScript" type="text/javascript">
+//<!--
+	function linkBrowser(toHref, windowName)
+	{
+		windowprops = "height=480,width=640,location=1,resizable=1,scrollbars=1,status=1,titlebar=1,toolbar=1,z-lock=0";
+		info = window.open(toHref, windowName, windowprops);
+		if (info.opener == null) 
+		{
+			info.opener = window;
+		}
+		else 
+		{
+			info.focus();
+		}
+	}
+//-->
+</script>
 <link rel="stylesheet" type="text/css" href="http://www.routledge.com/css/screen.css" title="default">
 <link rel="shortcut icon" href="http://www.routledge.com/favicon.ico" type="image/vnd.microsoft.icon">
 <link rel="alternate" type="application/rss+xml" href="http://www.routledge.com/rssfeed.asp" title="Routledge News Feed of Latest Titles">
-<!--[if IE]>
-<style type="text/css">
-<!--
-body { font-size:76%; }
--->
-
-<!--[endif]---->
-<script type="text/javascript">
-if (navigator.appVersion.indexOf("Mac")!=-1){document.write("<style type=\"text/css\">body { font-size:75.5%; }</style>");}
-</script>
-<link rel="stylesheet" type="text/css" href="http://www.routledge.com/jscripts/jquery.autocomplete.css">
 </head>
 
 <body>
@@ -62,10 +68,18 @@ if (navigator.appVersion.indexOf("Mac")!=-1){document.write("<style type=\"text/
 	<li class="topnavcart"><a href="http://www.routledge.com/shoppingcart" title="View Your Shopping Cart">Shopping Cart</a></li>
 	<li class="topnavregion"><a href="http://www.routledge.com/shippingregion" title="Change Your Shipping Region">Shipping Region</a></li>
 	<li><a href="http://www.routledge.com/myaccount" title="View Your Account">My Account</a></li>
+	<li></li>
 </ul></div>
-<div id="topsearch"><form method="post" id="booksearch" name="booksearch" action="/books/search.asp" autocomplete="on">
-<div id="booksearchfloat"><label for="searchfor" id="titleauthor1">search by word, phrase or author last name:</label><br>
-<input type="text" id="searchfor" class="inputfield" name="Keywords" value="" size="20"> <input type="submit" id="submitbooksearch" name="submitbooksearch" class="topsearchgo" value="go"></div>
+<div id="topsearch2"><form method="post" id="booksearch" name="booksearch" action="/books/search.asp" autocomplete="on">
+<div id="booksearchfloat"><label for="searchby" id="titleauthor1">Search by Title, Author Last Name or <acronym title="International Standard Book Number">ISBN</acronym>:</label><br>
+<input type="hidden" id="nyp" name="nyp" checked="checked" value="yes"> 
+<input type="text" id="searchfor" class="inputfield" name="Keywords" value=""> 
+	<select class="text" name="searchby" id="searchby">
+  		<option value="Title" selected="selected">Title</option>
+  		<option value="Surname">Last Name</option>
+  		<option value="ISBN">ISBN</option>
+  	</select>
+    <input type="submit" id="submitbooksearch" name="submitbooksearch" class="topsearchgo" value="Search"></div>
 <div id="booksearchlabel"><label for="searchfor">Book Search</label></div> 
 </form></div>
 </div>
@@ -73,20 +87,22 @@ if (navigator.appVersion.indexOf("Mac")!=-1){document.write("<style type=\"text/
 <div class="clear" style="border-bottom:1px solid #fff;"></div>
 
 <div id="navigation">
-<ul id="nav">
-    <li><a title="Home" href="/">Home</a></li>
-    <li><a title="Browse our Books" href="/books">Books</a>
-        <ul>
-            <li><a title="Browse our Books" href="/books/browse"><strong>Browse Books</strong></a></li>
-            <li><a title="Visit Our Subject Arena Websites" href="/books" class="parent">Visit Our Subject Arenas</a>
-                <ul>
-<li><a title="Routledge Anthropology Arena" href="http://www.routledgeanthropology.com">Anthropology</a></li>
+	<ul id="nav">
+		<li><a title="Home" href="/">Home</a></li>
+		<li><a title="Browse our Books" href="/books">Books</a>
+			<ul>
+				<!--<li><a title="Browse our Books" href="/books/browse"><strong>Browse Books</strong></a></li>-->
+				<li><a title="Search our Books" href="/books/search.asp"><strong>Book Search</strong></a></li>
+				<li><a title="Visit Our Subject Arena Websites" href="/books" class="parent">Visit Our Subject Arenas</a>
+					<ul>
+						<li><a title="Routledge Anthropology Arena" href="http://www.routledgeanthropology.com">Anthropology</a></li>
 <li><a title="Routledge Archaeology &amp; Museum Studies Arena" href="http://www.routledgearchaeology.com">Archaeology &amp; Museum Studies</a></li>
 <li><a title="Routledge Architecture Arena" href="http://www.routledgearchitecture.com">Architecture</a></li>
 <li><a title="Routledge Art &amp; Visual Culture Arena" href="http://www.routledgeart.com">Art &amp; Visual Culture</a></li>
 <li><a title="Routledge Asian Studies Arena" href="http://www.routledgeasianstudies.com">Asian Studies</a></li>
 <li><a title="Routledge Business &amp; Management Arena" href="http://www.routledgebusiness.com">Business &amp; Management</a></li>
 <li><a title="Routledge Central Asian, Russian &amp; East European Studies Arena" href="http://www.routledgecarees.com">Central Asian, Russian &amp; East European Studies</a></li>
+<li><a title="Taylor &amp; Francis Built Environment" href="http://www.tandfbuiltenvironment.com">Civil Engineering &amp; Building</a></li>
 <li><a title="Routledge Classical Studies Arena" href="http://www.routledgeclassicalstudies.com">Classical Studies</a></li>
 <li><a title="Routledge Communication Arena" href="http://www.routledgecommunication.com">Communication</a></li>
 <li><a title="Routledge Criminology Arena" href="http://www.routledgecriminology.com">Criminology</a></li>
@@ -96,7 +112,7 @@ if (navigator.appVersion.indexOf("Mac")!=-1){document.write("<style type=\"text/
 <li><a title="Routledge History Arena" href="http://www.routledgehistory.com">History</a></li>
 <li><a title="Routledge Language Learning Arena" href="http://www.routledgelanguages.com">Language Learning</a></li>
 <li><a title="Routledge Law Arena" href="http://www.routledgecavendish.com">Law</a></li>
-<li><a title="Routledge Linguistics Arena" href="http://www.routledgelinguistics.com">Linguistics</a></li>
+<li><a title="Routledge Linguistics Arena" href="http://www.routledgelinguistics.com">English Language and Linguistics</a></li>
 <li><a title="Routledge Literature Arena" href="http://www.routledgeliterature.com">Literature</a></li>
 <li><a title="Routledge Media Studies Arena" href="http://www.routledgemedia.com">Media Studies</a></li>
 <li><a title="Routledge Middle East Studies Arena" href="http://www.routledgemiddleeaststudies.com">Middle East Studies</a></li>
@@ -110,69 +126,66 @@ if (navigator.appVersion.indexOf("Mac")!=-1){document.write("<style type=\"text/
 <li><a title="Routledge Sociology Arena" href="http://www.routledgesociology.com">Sociology</a></li>
 <li><a title="Routledge Sport &amp; Leisure Studies Arena" href="http://www.routledgesport.com">Sport &amp; Leisure Studies</a></li>
 <li><a title="Routledge Students Arena" href="http://www.routledgestudents.com">Students</a></li>
-</ul>
-            </li>
-            <li><a title="Browse our Books by Subject" href="/books/browse">Browse by Subject</a></li>
-            <li><a title="Browse our Book Series" href="/books/series">Browse by Series</a></li>
-            <li><a title="Browse our Textbooks" href="/books/textbooks" class="parent">Textbooks</a><ul>
-            <li><a title="Browse our Textbooks" href="/books/textbooks">Browse our Textbooks</a></li>
-            <li><a title="Browse our Textbook Companion Websites" href="/books/companionwebsites">Textbook Companion Websites</a></li>
-            </ul></li>
-            <li><a title="Browse our eBooks at the T&amp;F eBookStore" href="http://www.ebookstore.tandf.co.uk" target="_blank">eBooks</a></li>
-        </ul>
-    </li>
-    <li><a title="Journals" href="/journals">Journals</a><!--
-        <ul>
-            <li><a title="Taylor &amp; Francis Journals Website" href="http://www.tandf.co.uk/journals/" target="_blank">T&amp;F Journals Website</a></li>
-            <li><a title="Browse Journals by Subject" href="http://www.tandf.co.uk/journals/" target="_blank">Browse Journals by Subject</a></li>
-            <li><a title="informaworld" href="http://www.informaworld.com" target="_blank">informaworld</a></li>
-        </ul>
-    --></li>
-    <li><a title="Resources" href="/resources">Resources</a>
-        <ul>
-            <li><a title="Catalogs" href="/catalogs">Catalogs</a></li>
-            <li><a title="Conferences" href="/resources/conferences">Conferences</a></li>
-            <li><a title="Online Products" href="/books" class="parent">Online Products</a>
-                <ul>
-                    <li><a title="The Europa World of Learning" href="http://www.worldoflearning.com" target="_blank">The Europa World of Learning</a></li>
-                    <li><a title="Europa World Plus" href="http://www.europaworld.com" target="_blank">Europa World Plus</a></li>
-                    <li><a title="Routledge Encyclopedia of Philosophy" href="http://rep.routledge.com" target="_blank">Routledge Encyclopedia of Philosophy</a></li>
-                    <li><a title="Routledge Reference Resources" href="http://reference.routledge.com" target="_blank">Routledge Reference Resources</a></li>
-                    <li><a title="World Who's Who" href="http://www.worldwhoswho.com" target="_blank">World Who's Who</a></li>
-                    <li><a href="http://www.iiss.org/publications/armed-conflict-database/">The International Institute for Strategic Studies</a></li>
-                </ul>
-            </li>
-            <li><a title="eUpdates" href="http://www.tandf.co.uk/eupdates" target="_blank">eUpdates</a></li>
-            <li><a title="Podcast" href="/resources/podcast">Podcast</a></li>
-        </ul>
-    </li>
-    <li><a title="Info / Help" href="/info">Info / Help</a>
-        <ul>
-            <li><a title="Contact Information &amp; Forms" href="/info/contact"><strong>Contact Us</strong></a></li>
-            <!--<li><a title="Customer Service" href="/info/customers">Customer Service</a></li>
-            <li><a title="Frequently Asked Questions" href="/info/faq">FAQs</a></li>-->
-            <li><a title="Book Copy Requests" href="" class="parent">Book Copy Requests</a>
-            	<ul>
-            		<li><a title="Desk Copy Requests" href="/info/deskcopy">Desk Copy Requests</a></li>
-            		<li><a title="Complimentary Copy Requests" href="/info/compcopy">Complimentary Copy Requests</a></li>
-            		<li><a title="Examination Copy Requests" href="/info/examcopy">Examination Copy Requests</a></li>
-            		<li><a title="Review Copy Requests" href="/info/reviewcopy">Review Copy Requests</a></li>
-            	</ul>
-            </li>
-            <li><a title="Rights &amp; Permissions" href="/info/rights">Rights &amp; Permissions</a></li>
-            <li><a title="Career Opportunities" href="/info/careers">Career Opportunities</a></li>
-            <li><a title="Information" href="/info"><strong>Information</strong></a></li>
-            <li><a title="About Routledge" href="/info">About Routledge</a></li>
-            <li><a title="Information for Authors" href="/info/authors">Information for Authors</a></li>
-            <li><a title="Terms &amp; Conditions" href="/info/terms">Terms &amp; Conditions</a></li>
-            <li><a title="Privacy Policy" href="/info/privacy">Privacy Policy</a></li>
-            <li><a title="Shipping &amp; Returns" href="/info/shipping">Shipping &amp; Returns</a></li>
-            <li><a title="Representatives &amp; Information for Booksellers" href="/info/representatives">Representatives</a></li>
-            <li><a title="Site Map" href="/sitemap">Site Map</a></li>
-        </ul>
-    </li>
-    <li style="float:right;"><a title="Members of the Taylor &amp; Francis Group" href="/members">Members of the Taylor &amp; Francis Group</a></li>
-</ul>
+<li><a title="Routledge Theatre &amp; Performance Arena" href="http://www.routledgeperformance.com">Theatre &amp; Performance</a></li>
+					</ul>
+				</li>
+				<li><a title="Browse our Books by Subject" href="/books/browse">Browse by Subject</a></li>
+				<li><a title="Browse our Book Series" href="/books/series">Browse by Series</a></li>
+				<li><a title="Browse our Textbooks" href="/books/textbooks" class="parent">Textbooks</a>
+					<ul>
+						<li><a title="Browse our Textbooks" href="/books/textbooks">Browse our Textbooks</a></li>
+						<li><a title="Browse our Textbook Companion Websites" href="/books/companionwebsites">Textbook Companion Websites</a></li>
+					</ul>
+				</li>
+				<li><a title="Browse our eBooks" href="/books/ebooks">eBooks</a></li>
+			</ul>
+		</li>
+		<li><a title="Journals" href="http://www.tandf.co.uk/journals">Journals</a></li>
+		<li><a title="Resources" href="/resources">Resources</a>
+			<ul>
+				<li><a title="Catalogs" href="/catalogs">Catalogs</a></li>
+				<li><a title="Conferences" href="/resources/conferences">Conferences</a></li>
+				<li><a title="Online Products" href="/books" class="parent">Online Products</a>
+					<ul>
+						<li><a title="The Europa World of Learning" href="http://www.worldoflearning.com" target="_blank">The Europa World of Learning</a></li>
+						<li><a title="Europa World Plus" href="http://www.europaworld.com" target="_blank">Europa World Plus</a></li>
+						<li><a title="Routledge Encyclopedia of Philosophy" href="http://rep.routledge.com" target="_blank">Routledge Encyclopedia of Philosophy</a></li>
+						<li><a title="Routledge Reference Resources" href="http://reference.routledge.com" target="_blank">Routledge Reference Resources</a></li>
+						<li><a title="World Who's Who" href="http://www.worldwhoswho.com" target="_blank">World Who's Who</a></li>
+						<li><a href="http://www.iiss.org/publications/armed-conflict-database/">The International Institute for Strategic Studies</a></li>
+					</ul>
+				</li>
+				<li><a title="eUpdates" href="http://www.tandf.co.uk/eupdates" target="_blank">eUpdates</a></li>
+				<li><a title="Podcast" href="/resources/podcast">Podcast</a></li>
+			</ul>
+		</li>
+		<li><a title="Info / Help" href="/info">Info / Help</a>
+			<ul>
+				<li><a title="Contact Information &amp; Forms" href="/info/contact"><strong>Contact Us</strong></a></li>
+				<!--<li><a title="Customer Service" href="/info/customers">Customer Service</a></li>
+				<li><a title="Frequently Asked Questions" href="/info/faq">FAQs</a></li>-->
+				<li><a title="Book Copy Requests" href="" class="parent">Book Copy Requests</a>
+					<ul>
+						<li><a title="Desk Copy Requests" href="/info/deskcopy">Desk Copy Requests</a></li>
+						<li><a title="Complimentary Copy Requests" href="/info/compcopy">Complimentary Copy Requests</a></li>
+						<li><a title="Examination Copy Requests" href="/info/examcopy">Examination Copy Requests</a></li>
+						<li><a title="Review Copy Requests" href="/info/reviewcopy">Review Copy Requests</a></li>
+					</ul>
+				</li>
+				<li><a title="Rights &amp; Permissions" href="/info/rights">Rights &amp; Permissions</a></li>
+				<li><a title="Career Opportunities" href="/info/careers">Career Opportunities</a></li>
+				<li><a title="Information" href="/info"><strong>Information</strong></a></li>
+				<li><a title="About Routledge" href="/info">About Routledge</a></li>
+				<li><a title="Information for Authors" href="/info/authors">Information for Authors</a></li>
+				<li><a title="Terms &amp; Conditions" href="/info/terms">Terms &amp; Conditions</a></li>
+				<li><a title="Privacy Policy" href="/info/privacy">Privacy Policy</a></li>
+				<li><a title="Shipping &amp; Returns" href="/info/shipping">Shipping &amp; Returns</a></li>
+				<li><a title="Representatives &amp; Information for Booksellers" href="/info/representatives">Representatives</a></li>
+				<li><a title="Site Map" href="/sitemap">Site Map</a></li>
+			</ul>
+		</li>
+		<li style="float:right;"><a title="Members of the Taylor &amp; Francis Group" href="/members">Members of the Taylor &amp; Francis Group</a></li>
+	</ul>
 </div><!-- navigation -->
 <div class="clear"></div>
 
@@ -236,20 +249,6 @@ if (navigator.appVersion.indexOf("Mac")!=-1){document.write("<style type=\"text/
 </div><!-- contentbottom -->
 
 <script type="text/javascript" src="http://js.routledgeweb.com/javascript.js"></script>
-<script type="text/javascript" src="http://js.routledgeweb.com/jq.js"></script>
-<script type="text/javascript" src="http://js.routledgeweb.com/bookdata.js"></script>
-<script type="text/javascript">
-$().ready(function() {
-	function findValueCallback(event, data, formatted) {$("<li>").html( !data ? "No match!" : "Selected: " + formatted).appendTo("#result");}
-	function formatItem(row) {return row[0] + " (<strong>id: " + row[1] + "</strong>)";}
-	function formatResult(row) {return row[0].replace(/(<.+?>)/gi, '');}
-	$("#searchfor").autocomplete(titles, {matchContains:true,minChars:3,max:20,width:224});
-	$(":text, textarea").result(findValueCallback).next().click(function() {$(this).prev().search();});
-	$("#clear").click(function() {$(":input").unautocomplete();});
-	$("#searchfor").focus(function() {$(this).css({ background:"#fff url(/graphics/formfield_bg.png) no-repeat", borderWidth:"1px", borderStyle:"solid", borderColor:"#000" });});
-	$("#searchfor").blur(function() {$(this).css({ backgroundColor:"#f7f7f7", backgroundImage:"", backgroundRepeat:"", borderWidth:"", borderStyle:"", borderColor:"" });});
-});
-</script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
