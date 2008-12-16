@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netflix.net privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224032537id_/http%3A//www.netflix.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflix.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021425id_/http%3A//www.netflix.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Netflix Online Movie Rentals - Rent DVDs, Classic Films to DVD New Releases - Free Trial
+# Netflix Online Movie Rentals - Rent DVDs, Classic Films to DVD New Releases
 
 This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information. As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing our Web site or using our services, you consent to our information practices. 
 
