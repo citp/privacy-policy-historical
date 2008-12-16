@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the altontowers.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212085654id_/http%3A//www.altontowers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altontowers.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216060708id_/http%3A//www.altontowers.com/pages/privacy) for the most accurate reproduction.*
 
-# Alton Towers - General Info - Privacy Policy
+# Privacy - Alton Towers
 
 This website is owned and run by Alton Towers. Alton Towers respects your privacy and continues to do so with respect to personal data you provide via this website.
 
@@ -31,7 +31,7 @@ We try to ensure that our website offers visitors exactly what they are looking 
 Because we are constantly improving our sites there may be developments in how we use your data - all such developments will be promptly notified to you in this policy. Your continued use of our website will signify that you agree to any such changes.
 
  **Unsubscribe**  
-If you would like to unsubscribe your email address, please [Email Us](mailto:unsubscribe@alton-towers.com)
+If you would like to unsubscribe your email address, [please visit our unsubscribe page](https://web.archive.org/pages/register/unsubscribe "Unsubscribe")
 
  **YourDay**  
 Please note that personal data in the form of images of visitors to the Park is collected via the operation of closed circuit television ('CCTV'), ride photography and video cameras all of which are located throughout the Park. Your image will be recorded and processed for the purpose of producing photographic images and video recordings.
