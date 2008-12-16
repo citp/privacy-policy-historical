@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speedtv.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615183332id_/http%3A//www.speedtv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedtv.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021947id_/http%3A//www.speedtv.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY - The Online Motorsports Authority. NASCAR, Formula 1, Auto Racing, Moto Racing, Cars, Bikes, PINKS and more! - SPEEDtv.com
+# PRIVACY - NASCAR News, F1 News, and Racing News on SPEED - SPEEDtv.com
 
 SPEED CHANNEL, INC.  
 PRIVACY POLICY
