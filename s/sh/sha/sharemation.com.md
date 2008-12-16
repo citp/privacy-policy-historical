@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharemation.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608163915id_/http%3A//www.xythos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharemation.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014952id_/http%3A//www.xythos.com/privacy.html) for the most accurate reproduction.*
 
 # Xythos Privacy Policy
 
