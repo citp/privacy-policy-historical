@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dart-creations.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624034719id_/http%3A//www.dart-creations.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dart-creations.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216064413id_/http%3A//www.dart-creations.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
