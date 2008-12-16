@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605103724id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216205711id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
 
 # Education Queensland
 
@@ -8,7 +8,7 @@ Thank you for visiting the Education Queensland entry point (education.qld.gov.a
 
 Education Queensland is committed to protecting user privacy. We understand and appreciate that visitors and users of this web site are concerned about their privacy and the confidentiality and security of any information that they may provide.
 
-The Education Queensland website makes some use of data that directly or indirectly identifies users. We take great care with practices that affect personal privacy. Education Queensland officers who manage information on our website are bound by [Information Standard 42: Information Privacy](http://www.governmentict.qld.gov.au/02_infostand/standards.htm) and the departmental "[Code of Conduct](https://web.archive.org/corporate/doem/humanres/hr-07001/hr-07001.html)".
+The Education Queensland website makes some use of data that directly or indirectly identifies users. We take great care with practices that affect personal privacy. Education Queensland officers who manage information on our website are bound by [Information Standard 42: Information Privacy](http://www.qgcio.qld.gov.au/qgcio/architectureandstandards/informationstandards/current/Pages/index.aspx) and the departmental "[Code of Conduct](https://web.archive.org/corporate/doem/humanres/hr-07001/hr-07001.html)".
 
 ## Cookies
 
