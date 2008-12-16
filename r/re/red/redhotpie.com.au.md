@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redhotpie.com.au privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014015030id_/http%3A//www.redhotpie.com.au/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redhotpie.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013400id_/http%3A//redhotpie.com.au/terms/privacy.aspx) for the most accurate reproduction.*
 
-# Online dating privacy policy on Redhotpie
+# Online dating privacy policy on RedHotPie
 
 **Our Commitment To Privacy**
 
@@ -29,13 +29,13 @@ We DO NOT sell or rent any personally identifiable information about you to any 
 _**  
 **_**Our Commitment To Data Security** __
 
-Redhotpie has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. Redhotpie uses industry standard efforts to safeguard the confidentiality of your personal identifiable information such as firewalls. While "perfect security" does not exist on the Internet, our technical experts at Redhotpie work hard to ensure your secure use of our services. 
+RedHotPie has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. RedHotPie uses industry standard efforts to safeguard the confidentiality of your personal identifiable information such as firewalls. While "perfect security" does not exist on the Internet, our technical experts at RedHotPie work hard to ensure your secure use of our services. 
 
 **How You Can Access Or Correct Your Information:** __
 
-You can access all your personally identifiable information that we collect online and maintain by logging in to Redhotpie and going to "My Account" page. We use this procedure to better safeguard your information where you are the only one who has full access and control of your information. 
+You can access all your personally identifiable information that we collect online and maintain by logging in to RedHotPie and going to "My Account" page. We use this procedure to better safeguard your information where you are the only one who has full access and control of your information. 
 
-Redhotpie Members have the following choices to modify or delete their information from our database:  
+RedHotPie Members have the following choices to modify or delete their information from our database:  
 
 
 1\. Send an email to our customer service rep. at [help@redhotpie.com.au](mailto:help@redhotpie.com.au)  
@@ -43,5 +43,5 @@ Redhotpie Members have the following choices to modify or delete their informat
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-**Important Notice** As a responsible corporate citizen Redhotpie cooperates with the proper judicial processes at both the State and Federal level.  Redhotpie will, upon receipt of an appropriate warrant, or other judicial order, provide information to state and federal prosecuting authorities.  
+**Important Notice** As a responsible corporate citizen RedHotPie cooperates with the proper judicial processes at both the State and Federal level.  RedHotPie will, upon receipt of an appropriate warrant, or other judicial order, provide information to state and federal prosecuting authorities.  
 
