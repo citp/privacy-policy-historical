@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the jurgita.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509165239id_/http%3A//www.jurgita.com/articles-id380.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jurgita.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012956id_/http%3A//www.jurgita.com/articles-id380.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Author: jurgita.com  
-Articles written: 417  
+Articles written: 428  
 Source: [www.jurgita.com](http://www.jurgita.com/)  
   
   
 ---  
   
 Article stats:  
-Views: 12438   Votes: 0   Average: 0.00  
+Views: 16186   Votes: 0   Average: 0.00  
 Added: 2005-07-29  Updated: 2007-01-08  
   
   
