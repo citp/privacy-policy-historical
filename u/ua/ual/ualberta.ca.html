@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ualberta.ca privacy policy that was archived on 2008-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080619181959id_/http%3A//www.uofaweb.ualberta.ca/ualberta_about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ualberta.ca privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216014801id_/http%3A//www.uofaweb.ualberta.ca/ualberta_about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -45,7 +45,7 @@
     <ul>
       <li><a class="right" href="http://www.ualberta.ca/ELEARNING/">WebCT</a></li>
       <li><a href="https://webmail.ualberta.ca/">Webmail</a></li>
-      <li><a href="https://www.beartracks.ualberta.ca/">Beartracks</a></li>
+      <li><a href="https://www.beartracks.ualberta.ca/">Bear Tracks</a></li>
       <li class="login">Login to:</li>
     </ul>
   </div>
@@ -86,8 +86,8 @@
 <ul id="subNav">
 	
 		
-		<!-- http://www.uofaweb.ualberta.ca/facts/index.cfm -->
-		<li class="normal"><a href="http://www.uofaweb.ualberta.ca/facts/index.cfm">U of A Facts</a></li>
+		<!-- http://www.uofaweb.ualberta.ca/facts/nav01.cfm?nav01=16135 -->
+		<li class="normal"><a href="http://www.uofaweb.ualberta.ca/facts/nav01.cfm?nav01=16135">U of A Facts</a></li>
 	
 		
 		<!-- http://www.president.ualberta.ca -->
@@ -125,7 +125,25 @@
 	
 </div>
 
-<div class="pretty"><img src="/ualberta/images_2ndLevel/599-L2-L1.jpg" alt="Campus Photo"></div>
+        	<script type="text/javascript">
+			var imageList = new Array();
+			var randNumber;
+			var currentImage;
+			var altText;
+		
+				imageList[0] = 'The_Butterdome.jpg';
+			
+				imageList[1] = 'View_of_Downtown_Edmonton.jpg';
+			
+			randNumber = Math.floor(Math.random() * imageList.length);
+			currentImage = imageList[randNumber];
+			
+			altText = currentImage.replace(/_/g, ' ');
+			altText = altText.substring(0, altText.length - 4);
+			
+			document.write("<div class=\"pretty\"><img src=\"img/1stColumnRotation/" + currentImage + "\" alt=\"" + altText + "\" /></div>");
+		</script><div class="pretty"><img src="img/1stColumnRotation/The_Butterdome.jpg" alt="The Butterdome"></div>
+        
 </div>    
 <!-- close navigation -->
 <div id="content">
@@ -241,7 +259,27 @@ column: 2
         
 <div id="features">
 
-	<img src="/ualberta/images_2ndLevel/599-L2-R1.jpg" alt="Photo of a steeple"> 
+        	<script type="text/javascript">
+			var imageList = new Array();
+			var randNumber;
+			var currentImage;
+			var altText;
+		
+				imageList[0] = 'Dentistry_Pharmacy_building_steeple.jpg';
+			
+				imageList[1] = 'Hub_Mall.jpg';
+			
+				imageList[2] = 'Telus_Centre.jpg';
+			
+			randNumber = Math.floor(Math.random() * imageList.length);
+			currentImage = imageList[randNumber];
+			
+			altText = currentImage.replace(/_/g, ' ');
+			altText = altText.substring(0, altText.length - 4);
+			
+			document.write("<img src=\"img/3rdColumnRotation/" + currentImage + "\" alt=\"" + altText + "\" />");
+		</script><img src="img/3rdColumnRotation/Hub_Mall.jpg" alt="Hub Mall">
+        
 <div class="helpfulLinks">
 <h2>Quick Links</h2>
 <ul>
