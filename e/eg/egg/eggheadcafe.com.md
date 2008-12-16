@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eggheadcafe.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610134341id_/http%3A//www.eggheadcafe.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eggheadcafe.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022118id_/http%3A//www.eggheadcafe.com/privacy.aspx) for the most accurate reproduction.*
 
 # EggHeadCafe.com Privacy Policy
 
@@ -34,7 +34,4 @@ This site has security measures in place to protect the loss, misuse, and altera
   
   
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@eggheadcafe.com](mailto:info@eggheadcafe.com?cc=pbromberg@yahoo.com&subject=Privacy%20Inquiry).  
-  
-  
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@eggheadcafe.com](mailto:info@eggheadcafe.com?cc=pbromberg@yahoo.com&subject=Privacy%20Inquiry).
