@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628094858id_/http%3A//www.firebox.com/admin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015007id_/http%3A//www.firebox.com/admin/privacy) for the most accurate reproduction.*
 
-# Gadgets, games, boys toys & gift ideas from Firebox.com
+# Gadgets, gifts, boys toys & gift ideas from Firebox.com
 
 ## Privacy Policy
 
