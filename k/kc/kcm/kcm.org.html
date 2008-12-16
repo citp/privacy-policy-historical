@@ -1,17 +1,16 @@
-<!--The following is the downloaded HTML source of the kcm.org privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609050955id_/http%3A//www.kcm.org/index.php%3Fp%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kcm.org privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216160420id_/http%3A//www.kcm.org/index.php%3Fp%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Kenneth Copeland Ministries | Privacy Policy</title>
 <meta name="Keywords" content="kenneth copeland, copeland, gloria copeland, kcm, emic, privacy policy">
 <meta name="Description" content="The protection of your privacy is very important to us here at Kenneth Copeland Ministries. We value your trust, and want you to understand what information we collect, how we protect it, and how it is used.">
-<meta name="Author" content="Church Media Group, Inc. - www.churchmedia.cc - Ismael Burciaga Jr.">
 
 <link href="http://www.kcm.org/css/kcm.css" rel="stylesheet" type="text/css">
 <link href="http://www.kcm.org/css/forms.css" rel="stylesheet" type="text/css">
 
-<link rel="shortcut icon" href="favicon.ico">
+<link rel="shortcut icon" href="favicon.png">
 
 <script type="text/javascript" src="http://www.kcm.org/js/kcm.js"></script>
 <script type="text/javascript" src="http://www.kcm.org/js/cmgslideshow.js"></script>
@@ -34,19 +33,192 @@
 	<div id="header">
   	<h1><a href="http://www.kcm.org/index.php?p=home">Kenneth Copeland Ministries</a></h1>
     <h2>Jesus is Lord</h2>
+  </div>
+</div>
+<div id="sub_nav_box">
+	<div id="sub_nav">
+  </div>
+</div>
+
+<div id="secondary_content_box">
+  <form id="frmSendToFriend" name="frmSendToFriend" action="" onsubmit="return false;" method="POST">
+<input type="hidden" name="process_ajax" id="process_ajax" value="1">
+<input type="hidden" name="a" id="a" value="sendtofriend_request_submitted">
+  <div id="divSendToFriend" style="display:none;">
+  	<div class="new_form_box">
+    	<h2><span style="float:right;"><a href="#" onclick="Effect.toggle('divSendToFriend','blind')">Close</a></span>Send To Friend</h2>
+
+    	<div id="divConfirmation_stf" name="divConfirmation_stf" class="new_confirmation_note" style="display:none">
+        <p>Thank you for recommending our site.</p>
+      </div>
+
+      <h3>My Details:</h3>
+        <ul class="new_list_form">
+        	<li><label>My Name:</label><br><input type="text" name="stf_my_name" id="stf_my_name" class="new_text_field" value=""></li>
+          <li style="margin:0;"><label>My Email:</label><br><input type="text" name="stf_my_email" id="stf_my_email" class="new_text_field" value=""></li>
+        </ul>
+        <h3>I Want To Send This Email To:</h3>
+        <ul class="new_list_form">
+        	<li><label>Name:</label><br><input type="text" name="stf_friend1" id="stf_friend1" class="new_text_field" value=""></li>
+          <li style="margin:0;"><label>Email:</label><br><input type="text" name="stf_email1" id="stf_email1" class="new_text_field" value=""></li>
+        </ul>
+        <ul class="verification">
+          <li><img src="http://www.kcm.org/includes/captcha_security/CaptchaSecurityImages.php?width=130&amp;height=40&amp;characters=6&amp;sessionvarname=stf_security_code" alt="verification" style="margin-top:4px;"></li>
+          <li><label>Enter Code:</label><br><input type="text" name="stf_security_code" id="stf_security_code" class="new_ver_code"></li>
+          <li style="margin-top:6px; margin-right:0; float:right;"><input type="button" name="stf_submit" id="stf_submit" value="Send to Friend" class="btn_submit" onclick="ajaxPostSendToFriendForm('frmSendToFriend','divConfirmation_stf','stf_submit');"></li>
+        </ul>
+    </div>
+  </div>
+</form><form id="frmPrayerRequest" name="frmPrayerRequest" action="" method="POST" onsubmit="return false;">
+<input type="hidden" name="process_ajax" id="process_ajax" value="1">
+<input type="hidden" name="a" id="a" value="prayer_request_submitted">
+  <div id="divPrayerRequest" style="display:none;">
+  	<div class="new_form_box">
+    	<h2><span style="float:right;"><a href="#" onclick="Effect.toggle('divPrayerRequest','blind')">Close</a></span>Prayer Request</h2>
+
+    	<div id="divPrayerFormConfirmation" name="divPrayerFormConfirmation" class="new_confirmation_note" style="display:none">
+        <p>Thank you for submitting your prayer request.</p>
+      </div>
+
+      <h3>My Details</h3>
+        <ul class="new_list_form">
+        	<li><label>My Name:</label><br><input type="text" name="my_name" id="my_name" class="new_text_field" value=""></li>
+        </ul>
+        <h3>My Prayer Request:</h3>
+        <ul class="new_list_form">
+        	<li style="margin-right:0;"><label>My Prayer Request:</label><br><textarea rows="6" class="new_prayer_request_textarea" id="prayer_details" name="prayer_details" onkeydown="countChars(document.frmPrayerRequest.prayer_details, document.frmPrayerRequest.txtCount, 1500);" onkeyup="countChars(document.frmPrayerRequest.prayer_details, document.frmPrayerRequest.txtCount, 1500);"></textarea></li>
+          <li><label>Remaining Characters:</label><br><input type="text" disabled="disabled" name="txtCount" id="txtCount" maxlength="5" readonly="readonly" value="1500" class="new_remaining_characters"></li>
+        </ul>
+        <ul class="verification">
+          <li><img src="http://www.kcm.org/includes/captcha_security/CaptchaSecurityImages.php?width=130&amp;height=40&amp;characters=6&amp;sessionvarname=pr_security_code" alt="verification" style="margin-top:4px;"></li>
+          <li><label>Enter Code:</label><br><input type="text" name="pr_security_code" id="pr_security_code" class="new_ver_code"></li>
+          <li style="margin-top:6px; margin-right:0; float:right;"><input type="button" id="prayer_submit" name="prayer_submit" value="Submit" class="btn_submit" onclick="ajaxPostPrayerRequestForm('frmPrayerRequest','divPrayerFormConfirmation','prayer_submit');"></li>
+        </ul>
+    </div>
+  </div>
+</form>  <div id="secondary_content">
+    <div id="full_panel">
+      <div id="page_header_full">
+        <h3 class="text_resize"><a href="/index.php?p=privacy_policy&amp;css=1" style="font-size:85%;">A</a><a href="/index.php?p=privacy_policy&amp;css=2" style="font-size:100%;">A</a><a href="/index.php?p=privacy_policy&amp;css=3" style="font-size:115%;">A</a></h3>        <h2 class="main_titles">Privacy Policy</h2>
+      </div>
+
+      <h3 class="sub_titles">Your Privacy Is Our Concern!</h3>
+      <p>The protection of your privacy is very important to us here at Kenneth Copeland Ministries. We value your trust, and want you to understand what information we collect, how we protect it, and how it is used. Personal information—nonpublic information that identifies you—is essential to KCM in meeting its goal to provide you with our services, ministry and products, and will be treated with respect and in accordance with this Privacy Policy.</p>
+
+      <h3 class="main_titles">Information We May Collect</h3>
+      <p>When you contact Kenneth Copeland Ministries, we may request certain information in order to provide the services and/or products you have requested or to minister to you. This may include identification and contact information, as well as transactions and past experiences with KCM. Examples where such information may be requested include: subscriptions, prayer needs, meeting registration forms or other forms containing your name, address, telephone number and e-mail address, and past transactions you have had with us.</p>
+
+      <h3 class="main_titles">Our Privacy Policy</h3>
+      <p>Any reference to “Kenneth Copeland Ministries” or “KCM” within the context of this Privacy Policy is intended, and shall be considered to be inclusive of each and all entities operated by Kenneth Copeland Ministries, including its International Offices.</p>
+      <ul class="normal_lists">
+      	<li>KCM will not sell or rent your personal information to anyone.</li>
+        <li>KCM will only share personal information in the interest of public safety and as required by law.</li>
+        <li>KCM will notify you, and seek approval, in the event we desire to use any information covered by this policy in any manner not already described herein.</li>
+        <li>KCM may send personally identifiable information about you to other companies or other people when: we have your consent to share the information; or, we need to share your information to provide the product or service you have requested.</li>
+        <li>KCM will require other servicing companies to whom we disclose personal information to adhere to our Privacy Policy standards. All related authorizations and disclosures will conform to this Privacy Policy and applicable law.</li>
+        <li>KCM restricts access to your personal information to only those employees who have reasonable need to come into contact with that information to provide products or services to you.</li>
+        <li>KCM will maintain physical, electronic and procedural safeguards to protect personal information we obtain about you.</li>
+        <li>KCM will not share personal information if doing so requires that such information be sent to a third person or country that does not have an adequate protection system in place.</li>
+        <li>KCM will make every effort to ensure that the privacy and other rights of children (minors) are not compromised. It is recommended that children have a parent or guardian verify their subscription/registration with KCM.</li>
+      </ul>
+
+      <p>Laws and regulations on the collection, protection and use of personal information may vary between countries. To obtain more information about your privacy, contact the KCM office nearest you.</p>
+      <h3 class="main_titles">Online Privacy</h3>
+      <p>The following online privacy principles apply when you visit our Web site at www.kcm.org:</p>
+      <ul class="normal_lists">
+      	<li>You can visit us on the Internet without telling us who you are or revealing any information about yourself, including your e-mail address. Our web servers collect the domain name you used to access the Internet, such as aol.com or NBCi.com, and the Web site you came from and visit next.</li>
+          <li>KCM uses this information to measure the number of visits, average time spent, pages viewed, and other statistics about visitors coming to our Web site in general. We may also use this data to monitor site performance and to make the site easier and more convenient to use.</li>
+          <li>KCM will notify you, and seek approval, in the event we desire to use any information covered by this policy in any manner not already described herein.</li>
+          <li><strong>Cookies:</strong> We, along with thousands of other Web site hosts, use cookies to enhance your Web viewing experience and measure your Web site usage. (Cookies are small pieces of data stored by your Internet browser on your computer’s hard drive.)</li>
+          <li><strong>SSL Encryption:</strong> We use secure socket layer (SSL) encryption to protect the transmission of information when submitting online contributions or product orders through our shopping cart.</li>
+          <li><strong>E-mail:</strong> If you send us e-mail, you should know that there is no encryption to protect the transmission of that information and that it is not secured against interception</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div id="footer_box">
+  <div id="footer">
+    <div id="site_information">
+      <h2>Information</h2>
+      <ul>
+        <li><a href="http://www.kcm.org/index.php?p=site_map">Site Map</a></li>
+        <li><a href="javascript:bookmarkus()">Bookmark Us</a></li>
+        <li><a href="#" onclick="Effect.toggle('divSendToFriend','blind')">Send to Friend</a></li>
+        <li><a href="http://www.kcm.org/index.php?p=privacy_policy">Privacy Policy</a></li>
+        <li><a href="http://www.kcm.org/connect/index.php?p=partnership">Partnership</a></li>
+        <li><a href="http://www.kcm.org/about/index.php?p=contact_us">Contact Us</a></li>
+        <li><a href="http://www.kcm.org/index.php?p=webmaster_form">Webmaster</a></li>
+      </ul>
+      <h3>Quick Links</h3>
+      <form action="http://www.kcm.org/index.php" method="get">
+        <select name="selQuickLinksSections" id="selQuickLinksSections">							<option value="">Select Quick Link</option>
+              <option value="http://www.kcm.org/about/index.php?p=about">About</option>
+              <option value="http://www.kcm.org/events/index.php?p=events">Events</option>
+              <option value="http://www.kcm.org/media/index.php?p=media">Media</option>
+              <option value="http://www.kcm.org/real/index.php?p=news">News</option>
+              <option value="http://www.kcm.org/connect/index.php?p=connect">Connect</option>
+              <option value="http://www.emic.org">Church</option>
+              <option value="http://www.kcm.org/store/index.php?p=store">Store</option></select>
+        <input class="quick_links_go" value="" type="button" onclick="quickLinks('selQuickLinksSections');">
+      </form>
+      <p class="kcm_copyright">Eagle Mountain International Church Inc. aka Kenneth Copeland Ministries</p>
+      <p class="kcm_copyright"><a href="http://www.kcm.org/about/index.php?p=copyright">© 1997-2008.<br>All rights reserved.</a></p>
+    </div>
+
+    <div id="real_help_box">
+      <ul id="rh_tabs">
+        <li><a href="#" rel="#default" class="selected">Real Help</a></li>
+        <li class="last"><a href="http://www.kcm.org/real/index.php?p=real_people" rel="countrycontainer">Real People</a></li>
+		<li class="red"><a href="http://www.kcm.org/real/index.php?p=support" rel="countrycontainer">Online Support</a></li>
+<!--        <li class="red"><a href="http://www.kcm.org/real/index.php?p=online_support" rel="countrycontainer">Online Support</a></li> -->
+      </ul>
+
+      <div id="rh_tabbed_box">
+        <div id="rh_tabbed_content">
+          <div class="rh_info">
+            <h2>ABOUT Real Help</h2>
+            <p>Here you can access faith-building articles, study tools and media that will directly minister to your situation. Find biblical answers to questions about everyday life and a wide range of resources and information that will help you grow spiritually.</p>
+          </div>
+          <ul class="rh_list">
+           	<li><a href="http://www.kcm.org/real/index.php?p=real_help_topic&amp;id=1">Salvation</a></li>
+            <li><a href="http://www.kcm.org/real/index.php?p=real_help_topic&amp;id=3">Prayer</a></li>
+            <li><a href="http://www.kcm.org/real/index.php?p=real_help_topic&amp;id=5">Health &amp; Healing</a></li>
+            <li><a href="http://www.kcm.org/real/index.php?p=real_help_topic&amp;id=7">Finance</a></li>
+            <li><a href="http://www.kcm.org/real/index.php?p=real_help_topic&amp;id=9">Relationships</a></li>
+			<li class="last"><a href="http://www.kcm.org/real/index.php?p=real_help_topic&amp;id=11">Prophecies</a></li>
+          </ul>
+          <div class="rh_articles">
+            <img src="http://www.kcm.org/images/real_help/rh_02_thumb.jpg" alt="RH_Article">
+            <h2>One-Year Bible</h2>
+            <p>Read through the entire Bible in one year with planned daily readings of the Old and New Testaments.</p>
+            <p><a href="http://www.kcm.org/index.php?p=one_year_dec" class="view_more">Start Today</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<div id="country_box">
+	<div id="country_home">
+    <div id="search_keyword">
+    	<form action="/index.php" method="get">
+			<input type="hidden" name="p" value="search">
+    		<input class="search_go" value="" type="submit"><input type="text" name="searchPhrase" class="search_phrase" style="background: url(../images/kcm_google_watermark.gif) no-repeat #ffffff;" onfocus="this.style.background = '#ffffff';" onblur="if (this.value == '') this.style.background = 'url(../images/kcm_google_watermark.gif) no-repeat #ffffff';">
+	    </form>
+    </div>
     <div id="country_select">
     	<form action="http://www.kcm.org/" method="get">
-    	<input class="select_country_go" value="" type="submit"><select name="goto_site_country">                            <option value="usa">United States (HQ)</option>
+    		<input class="select_country_go" value="" type="submit"><select name="goto_site_country">                            <option value="usa">Select KCM Location</option>
                             <option>------------</option>
-                            <option value="usa">United States (HQ)</option>
                             <option value="aus">Australia</option>
                             <option value="can">Canada</option>
-                            <option value="gbr">United Kingdom</option>
+                            <option value="gbr">Europe</option>
                             <option value="zaf">South Africa</option>
                             <option value="ukr">Ukraine</option>
+							<option value="usa">United States (HQ)</option>
                             <option>------------</option>
-                          <option value="es">Spanish/Español</option>
-                          <option value="ukr">Russian/Русский</option>
+                            <option value="es">Spanish/Español</option>
+                            <option value="ukr">Russian/Русский</option>
                             <option>------------</option>
                             <option value="gbr">Afghanistan</option>
                             <option value="gbr">Albania</option>
@@ -299,7 +471,7 @@
                             <option value="aus">Tahiti (French Polynesia)</option>
                             <option value="gbr">Wales (United Kingdom)</option>
                             <option value="usa">Somoa (American Somoa)</option></select>
-        </form>
+      </form>
     </div>
     <div id="main_nav_box">
       <ul id="main_nav">
@@ -313,171 +485,9 @@
         <li><a href="http://www.kcm.org/store/index.php?p=store" id="store">Store</a></li>
       </ul>
     </div>
-  </div>
+
+	</div>
 </div>
-<div id="sub_nav_box">
-	<div id="sub_nav">
-  </div>
-</div>
-
-<div id="secondary_content_box">
-  <form id="frmSendToFriend" name="frmSendToFriend" action="" onsubmit="return false;" method="POST">
-<input type="hidden" name="process_ajax" id="process_ajax" value="1">
-<input type="hidden" name="a" id="a" value="sendtofriend_request_submitted">
-  <div id="divSendToFriend" style="display:none;">
-  	<div class="new_form_box">
-    	<h2><span style="float:right;"><a href="#" onclick="Effect.toggle('divSendToFriend','blind')">Close</a></span>Send To Friend</h2>
-
-    	<div id="divConfirmation_stf" name="divConfirmation_stf" class="new_confirmation_note" style="display:none">
-        <p>Thank you for recommending our site.</p>
-      </div>
-
-      <h3>My Details:</h3>
-        <ul class="new_list_form">
-        	<li><label>My Name:</label><br><input type="text" name="stf_my_name" id="stf_my_name" class="new_text_field" value=""></li>
-          <li style="margin:0;"><label>My Email:</label><br><input type="text" name="stf_my_email" id="stf_my_email" class="new_text_field" value=""></li>
-        </ul>
-        <h3>I Want To Send This Email To:</h3>
-        <ul class="new_list_form">
-        	<li><label>Name:</label><br><input type="text" name="stf_friend1" id="stf_friend1" class="new_text_field" value=""></li>
-          <li style="margin:0;"><label>Email:</label><br><input type="text" name="stf_email1" id="stf_email1" class="new_text_field" value=""></li>
-        </ul>
-        <ul class="verification">
-          <li><img src="http://www.kcm.org/includes/captcha_security/CaptchaSecurityImages.php?width=130&amp;height=40&amp;characters=6&amp;sessionvarname=stf_security_code" alt="verification" style="margin-top:4px;"></li>
-          <li><label>Enter Code:</label><br><input type="text" name="stf_security_code" id="stf_security_code" class="new_ver_code"></li>
-          <li style="margin-top:6px; margin-right:0; float:right;"><input type="button" name="stf_submit" id="stf_submit" value="Send to Friend" class="btn_submit" onclick="ajaxPostSendToFriendForm('frmSendToFriend','divConfirmation_stf','stf_submit');"></li>
-        </ul>
-    </div>
-  </div>
-</form><form id="frmPrayerRequest" name="frmPrayerRequest" action="" method="POST" onsubmit="return false;">
-<input type="hidden" name="process_ajax" id="process_ajax" value="1">
-<input type="hidden" name="a" id="a" value="prayer_request_submitted">
-  <div id="divPrayerRequest" style="display:none;">
-  	<div class="new_form_box">
-    	<h2><span style="float:right;"><a href="#" onclick="Effect.toggle('divPrayerRequest','blind')">Close</a></span>Prayer Request</h2>
-
-    	<div id="divPrayerFormConfirmation" name="divPrayerFormConfirmation" class="new_confirmation_note" style="display:none">
-        <p>Thank you for submitting your prayer request.</p>
-      </div>
-
-      <h3>My Details</h3>
-        <ul class="new_list_form">
-        	<li><label>My Name:</label><br><input type="text" name="my_name" id="my_name" class="new_text_field" value=""></li>
-        </ul>
-        <h3>My Prayer Request:</h3>
-        <ul class="new_list_form">
-        	<li style="margin-right:0;"><label>My Prayer Request:</label><br><textarea rows="6" class="new_prayer_request_textarea" id="prayer_details" name="prayer_details" onkeydown="countChars(document.frmPrayerRequest.prayer_details, document.frmPrayerRequest.txtCount, 1500);" onkeyup="countChars(document.frmPrayerRequest.prayer_details, document.frmPrayerRequest.txtCount, 1500);"></textarea></li>
-          <li><label>Remaining Characters:</label><br><input type="text" disabled="disabled" name="txtCount" id="txtCount" maxlength="5" readonly="readonly" value="1500" class="new_remaining_characters"></li>
-        </ul>
-        <ul class="verification">
-          <li><img src="http://www.kcm.org/includes/captcha_security/CaptchaSecurityImages.php?width=130&amp;height=40&amp;characters=6&amp;sessionvarname=pr_security_code" alt="verification" style="margin-top:4px;"></li>
-          <li><label>Enter Code:</label><br><input type="text" name="pr_security_code" id="pr_security_code" class="new_ver_code"></li>
-          <li style="margin-top:6px; margin-right:0; float:right;"><input type="button" id="prayer_submit" name="prayer_submit" value="Submit" class="btn_submit" onclick="ajaxPostPrayerRequestForm('frmPrayerRequest','divPrayerFormConfirmation','prayer_submit');"></li>
-        </ul>
-    </div>
-  </div>
-</form>  <div id="secondary_content">
-    <div id="full_panel">
-      <div id="page_header_full">
-        <h3 class="text_resize"><a href="/index.php?p=privacy_policy&amp;css=1" style="font-size:85%;">A</a><a href="/index.php?p=privacy_policy&amp;css=2" style="font-size:100%;">A</a><a href="/index.php?p=privacy_policy&amp;css=3" style="font-size:115%;">A</a></h3>        <h2 class="main_titles">Privacy Policy</h2>
-      </div>
-
-      <h3 class="sub_titles">Your Privacy Is Our Concern!</h3>
-      <p>The protection of your privacy is very important to us here at Kenneth Copeland Ministries. We value your trust, and want you to understand what information we collect, how we protect it, and how it is used. Personal information—nonpublic information that identifies you—is essential to KCM in meeting its goal to provide you with our services, ministry and products, and will be treated with respect and in accordance with this Privacy Policy.</p>
-
-      <h3 class="main_titles">Information We May Collect</h3>
-      <p>When you contact Kenneth Copeland Ministries, we may request certain information in order to provide the services and/or products you have requested or to minister to you. This may include identification and contact information, as well as transactions and past experiences with KCM. Examples where such information may be requested include: subscriptions, prayer needs, meeting registration forms or other forms containing your name, address, telephone number and e-mail address, and past transactions you have had with us.</p>
-
-      <h3 class="main_titles">Our Privacy Policy</h3>
-      <p>Any reference to “Kenneth Copeland Ministries” or “KCM” within the context of this Privacy Policy is intended, and shall be considered to be inclusive of each and all entities operated by Kenneth Copeland Ministries, including its International Offices.</p>
-      <ul class="normal_lists">
-      	<li>KCM will not sell or rent your personal information to anyone.</li>
-        <li>KCM will only share personal information in the interest of public safety and as required by law.</li>
-        <li>KCM will notify you, and seek approval, in the event we desire to use any information covered by this policy in any manner not already described herein.</li>
-        <li>KCM may send personally identifiable information about you to other companies or other people when: we have your consent to share the information; or, we need to share your information to provide the product or service you have requested.</li>
-        <li>KCM will require other servicing companies to whom we disclose personal information to adhere to our Privacy Policy standards. All related authorizations and disclosures will conform to this Privacy Policy and applicable law.</li>
-        <li>KCM restricts access to your personal information to only those employees who have reasonable need to come into contact with that information to provide products or services to you.</li>
-        <li>KCM will maintain physical, electronic and procedural safeguards to protect personal information we obtain about you.</li>
-        <li>KCM will not share personal information if doing so requires that such information be sent to a third person or country that does not have an adequate protection system in place.</li>
-        <li>KCM will make every effort to ensure that the privacy and other rights of children (minors) are not compromised. It is recommended that children have a parent or guardian verify their subscription/registration with KCM.</li>
-      </ul>
-
-      <p>Laws and regulations on the collection, protection and use of personal information may vary between countries. To obtain more information about your privacy, contact the KCM office nearest you.</p>
-      <h3 class="main_titles">Online Privacy</h3>
-      <p>The following online privacy principles apply when you visit our Web site at www.kcm.org:</p>
-      <ul class="normal_lists">
-      	<li>You can visit us on the Internet without telling us who you are or revealing any information about yourself, including your e-mail address. Our web servers collect the domain name you used to access the Internet, such as aol.com or NBCi.com, and the Web site you came from and visit next.</li>
-          <li>KCM uses this information to measure the number of visits, average time spent, pages viewed, and other statistics about visitors coming to our Web site in general. We may also use this data to monitor site performance and to make the site easier and more convenient to use.</li>
-          <li>KCM will notify you, and seek approval, in the event we desire to use any information covered by this policy in any manner not already described herein.</li>
-          <li><strong>Cookies:</strong> We, along with thousands of other Web site hosts, use cookies to enhance your Web viewing experience and measure your Web site usage. (Cookies are small pieces of data stored by your Internet browser on your computer’s hard drive.)</li>
-          <li><strong>SSL Encryption:</strong> We use secure socket layer (SSL) encryption to protect the transmission of information when submitting online contributions or product orders through our shopping cart.</li>
-          <li><strong>E-mail:</strong> If you send us e-mail, you should know that there is no encryption to protect the transmission of that information and that it is not secured against interception</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<div id="footer_box">
-  <div id="footer">
-    <div id="site_information">
-      <h2>Information</h2>
-      <ul>
-        <li><a href="http://www.kcm.org/index.php?p=site_map">Site Map</a></li>
-        <li><a href="javascript:bookmarkus()">Bookmark Us</a></li>
-        <li><a href="#" onclick="Effect.toggle('divSendToFriend','blind')">Send to Friend</a></li>
-        <li><a href="http://www.kcm.org/index.php?p=privacy_policy">Privacy Policy</a></li>
-        <li><a href="http://www.kcm.org/connect/index.php?p=partnership">Partnership</a></li>
-        <li><a href="http://www.kcm.org/about/index.php?p=contact_us">Contact Us</a></li>
-        <li><a href="http://www.kcm.org/index.php?p=webmaster_form">Webmaster</a></li>
-      </ul>
-      <h3>Quick Links</h3>
-      <form action="http://www.kcm.org/index.php" method="get">
-        <select name="selQuickLinksSections" id="selQuickLinksSections">							<option value="">Select Quick Link</option>
-              <option value="http://www.kcm.org/about/index.php?p=about">About</option>
-              <option value="http://www.kcm.org/events/index.php?p=events">Events</option>
-              <option value="http://www.kcm.org/media/index.php?p=media">Media</option>
-              <option value="http://www.kcm.org/real/index.php?p=news">News</option>
-              <option value="http://www.kcm.org/connect/index.php?p=connect">Connect</option>
-              <option value="http://www.emic.org">Church</option>
-              <option value="http://www.kcm.org/store/index.php?p=store">Store</option></select>
-        <input class="quick_links_go" value="" type="button" onclick="quickLinks('selQuickLinksSections');">
-      </form>
-      <p class="kcm_copyright">Eagle Mountain International Church Inc. aka Kenneth Copeland Ministries</p>
-      <p class="kcm_copyright"><a href="http://www.kcm.org/about/index.php?p=copyright">© 1997-2008.<br>All rights reserved.</a></p>
-    </div>
-
-    <div id="real_help_box">
-      <ul id="rh_tabs">
-        <li><a href="#" rel="#default" class="selected">Real Help</a></li>
-        <li class="last"><a href="http://www.kcm.org/real/index.php?p=real_people" rel="countrycontainer">Real People</a></li>
-		<li class="red"><a href="http://www.kcm.org/real/index.php?p=support" rel="countrycontainer">Online Support</a></li>
-<!--        <li class="red"><a href="http://www.kcm.org/real/index.php?p=online_support" rel="countrycontainer">Online Support</a></li> -->
-      </ul>
-
-      <div id="rh_tabbed_box">
-        <div id="rh_tabbed_content">
-          <div class="rh_info">
-            <h2>ABOUT Real Help</h2>
-            <p>Here you can access faith-building articles, study tools and media that will directly minister to your situation. Find biblical answers to questions about everyday life and a wide range of resources and information that will help you grow spiritually.</p>
-          </div>
-          <ul class="rh_list">
-           	<li><a href="http://www.kcm.org/real/index.php?p=real_help_salvation">Salvation</a></li>
-            <li><a href="http://www.kcm.org/real/index.php?p=real_help_prayer">Prayer</a></li>
-            <li><a href="http://www.kcm.org/real/index.php?p=real_help_healing">Health &amp; Healing</a></li>
-            <li><a href="http://www.kcm.org/real/index.php?p=real_help_finances">Finance</a></li>
-            <li><a href="http://www.kcm.org/real/index.php?p=real_help_relationships">Relationships</a></li>
-			<li class="last"><a href="http://www.kcm.org/real/index.php?p=real_help_prophecies">Prophecies</a></li>
-          </ul>
-          <div class="rh_articles">
-            <img src="http://www.kcm.org/images/real_help/rh_02_thumb.jpg" alt="RH_Article">
-            <h2>One-Year Bible</h2>
-            <p>Read through the entire Bible in one year with planned daily readings of the Old and New Testaments.</p>
-            <p><a href="http://www.kcm.org/index.php?p=one_year_jun" class="view_more">Start Today</a></p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 
 <!--<script type="text/javascript">-->
 <!--  var rh_tabs=new ddajaxtabs("rh_tabs", "rh_tabbed_box")-->
