@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatsales.com.au privacy policy that was archived on 2008-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080324234405id_/http%3A//www.boatsales.com.au/info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatsales.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216172022id_/http%3A//www.boatsales.com.au/info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Boatsales Privacy Policy - boatsales.com.au
 
@@ -97,9 +97,9 @@ The carsales Network may include links to third party web sites, co branded web 
 **What if I have a problem?**  
 If you have a problem, complaint, want to change your personal information or just wish to enquire about privacy please contact us.
 
-Location: | 77 Atherton Road, Oakleigh VIC 3166  
+Location: | Level 1, 109 Burwood Road, Hawthorn VIC 3122   
 ---|---  
-Postal Address: | Locked Bag 3333, Oakleigh VIC 3166  
+Postal Address: | Locked Bag 3333, Hawthorn VIC 3122   
 Phone: | +61 (03) 9093 8600 (Business Hours EST)  
 Contact: | Patricia Chalmers  
 Email: | [Click here](http://www.carsales.com.au/carsales-info/contact-carsales.aspx) to contact us by email  
