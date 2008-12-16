@@ -1,18 +1,38 @@
-> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/privacy.aspx) for the most accurate reproduction.*
 
 # Pixsy Corporation | Privacy Policy
 
-|  [ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/about.aspx)  
-[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/management.aspx)  
-[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/advisoryboard.aspx)  
-[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/jobs.aspx)  
-[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/events.aspx)  
-[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/press.aspx)  
-[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/news.aspx)  
-[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/awards.aspx)  
-[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/contact.aspx)  
-[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/showcase.aspx)  
-[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/copyright.aspx) | 
+|  [ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/benefits.aspx)  
+[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/management.aspx)  
+[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/advisoryboard.aspx)  
+[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/jobs.aspx)  
+[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/events.aspx)  
+[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/press.aspx)  
+[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/news.aspx)  
+[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/videos.aspx)  
+[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/awards.aspx)  
+[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/contact.aspx)  
+[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/network.aspx)  
+
+
+[ ](https://web.archive.org/web/20081216150919id_/http%3A//www.pixsycorp.com/misc/GoldmanSachsInternetConference2008.doc)
+
+Pixsy CEO to speak at 17th annual Goldman Sachs Communacopia Conference 
+
+Sept 17-18th 2008   
+New York, NY 
+
+[more ›](https://programs.regweb.com/gs/cxvii2008/assets/cxvii2008_agenda_2008-09-04.pdf)     [agenda ›](http://pixsycorp.com/pressrelease.aspx?prid=51)
+
+[ ](http://videos.webpronews.com/2008/08/19/ses-norlin/)
+
+[ ](http://www.alwayson.goingon.com/permalink/post/8389)
+
+[ ](http://www.alwayson.goingon.com/permalink/post/8813)
+
+[ ](http://www.time.com/time/2006/50coolest/index.html)
+
+| 
 
 Pixsy welcomes comments and questions on this Privacy Policy. You may e-mail your questions or comments to: [info@Pixsy.com](mailto:info@Pixsy.com)
 
