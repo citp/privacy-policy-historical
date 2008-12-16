@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freegamesway.com privacy policy that was archived on 2008-03-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080329181330id_/http%3A//www.freegamesway.com/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freegamesway.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216024006id_/http%3A//www.freegamesway.com/privacy_statement.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Free Games Way - Download Free Games - Play Free Games Now!</title>
@@ -55,10 +55,60 @@ rmShowPop();
    e9.popOnly = 1;
 </script>
 <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/FreeGamesWay/ROS/tags.js"></script>
+
 </head>
 
 <body bgcolor="#2C85FF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="img/main_bg.gif" onload="MM_preloadImages('./img/home_a.gif','./img/score_a.gif','./img/about_a.gif','./img/support_a.gif','./img/games_a.gif','./img/custom_a.gif','./img/download_a.gif')">
 <div align="center">
+        <div class="ttbar" id="ttbar">
+        <div class="l">Our Toolbar will give you any kind of entertainment whatever you may want!</div>
+        <div class="m">→ <a href="http://www.myplaycity.com/files/toolbarsetup.exe">Install Free Games Toolbar Now</a></div>
+        <div class="m2">→ <a href="http://www.freegamesway.com/toolbar/">More Info</a></div>
+        <div class="r" onclick="ttbar();"> x <a href="#">Close</a></div>
+    </div>
+    <script>
+      function setCookie (name, value, expires, path, domain, secure) {
+        document.cookie = name + "=" + escape(value) +
+          ((expires) ? "; expires=" + expires : "") +
+          ((path) ? "; path=" + path : "") +
+          ((domain) ? "; domain=" + domain : "") +
+          ((secure) ? "; secure" : "");
+      }
+      function getCookie(name) {
+        var cookie = " " + document.cookie;
+        var search = " " + name + "=";
+        var setStr = null;
+        var offset = 0;
+        var end = 0;
+        if (cookie.length > 0) {
+          offset = cookie.indexOf(search);
+          if (offset != -1) {
+            offset += search.length;
+            end = cookie.indexOf(";", offset)
+            if (end == -1) {
+              end = cookie.length;
+            }
+            setStr = unescape(cookie.substring(offset, end));
+          }
+        }
+        return(setStr);
+      }
+      function ttbar () {
+          setCookie ("ttbar", "close1", "", "");
+          document.getElementById('ttbar').style.display='none';
+      }
+      if (getCookie("ttbar") == "close1") {
+          document.getElementById('ttbar').style.display='none';
+      }
+      function ttbar_online () {
+          setCookie ("ttbar", "close1", "", "");
+          document.getElementById('ttbar_online').style.display='none';
+      }
+      if (getCookie("ttbar") == "close1") {
+          document.getElementById('ttbar_online').style.display='none';
+      }
+    </script>
+
     <table width="980" border="0" cellspacing="0" cellpadding="0" height="100%" bgcolor="#B6FF92">
         <tbody><tr>
      <td>
@@ -100,7 +150,9 @@ rmShowPop();
                   <td align="left" valign="top" height="129"><img src="img/top2_1.gif" width="225" height="129"><img src="img/top2_2_new.gif" width="411" height="129"></td>
                 </tr>
                 <tr>
-                  <td align="left" valign="top"><a href="./index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','img/home_a.gif',1)"><img name="home" border="0" src="img/home_n.gif" width="76" height="38" alt="Home"></a><a href="./games/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('free games','','img/games_a.gif',1)"><img name="free games" border="0" src="img/games_n.gif" width="85" height="38" alt="Free Games"></a><a href="./online_games/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('score','','img/score_a.gif',1)"><img name="score" border="0" src="img/score_n.gif" width="93" height="38" alt="Online Games"></a><a href="./custom_games/online" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('custom','','img/custom_a.gif',1)"><img name="custom" border="0" src="img/custom_n.gif" width="85" height="38" alt="Custom Games"></a><a href="./download_free_games/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('download','','img/download_a.gif',1)"><img name="download" border="0" src="img/download_n.gif" width="97" height="38" alt="Download"></a><a href="./advertisers/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','img/about_a.gif',1)"><img name="about" border="0" src="img/about_n.gif" width="85" height="38" alt="Advertisers"></a><a href="./developers/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('support','','img/support_a.gif',1)"><img name="support" border="0" src="img/support_n.gif" width="97" height="38" alt="Developers"></a></td>
+                  <td align="left" valign="top">
+  				      <a href="/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/img/home_a.gif',1)"><img name="home" border="0" src="/img/home_n.gif" width="76" height="38" alt="Home"></a><a href="/games" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('free games','','/img/games_a.gif',1)"><img name="free games" border="0" src="/img/games_n.gif" width="85" height="38" alt="Free Games"></a><a href="/online_games" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('score','','/img/score_a.gif',1)"><img name="score" border="0" src="/img/score_n.gif" width="93" height="38" alt="Online Games"></a><a href="/custom_games/online" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('custom','','/img/custom_a.gif',1)"><img name="custom" border="0" src="/img/custom_n.gif" width="85" height="38" alt="Custom Games"></a><a href="/download_free_games" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('download','','/img/download_a.gif',1)"><img name="download" border="0" src="/img/download_n.gif" width="97" height="38" alt="Download"></a><a href="/toolbar" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','/img/about_a.gif',1)"><img name="about" border="0" src="/img/about_n.gif" width="85" height="38" alt="Free Toolbar"></a><a href="http://www.myplaycity.com" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('support','','/img/support_a.gif',1)"><img name="support" border="0" src="/img/support_n.gif" width="97" height="38" alt="MyPlayCity"></a>
+				  </td>
                 </tr>
               </tbody></table>
             </td>
@@ -145,8 +197,6 @@ rmShowPop();
 <a href="http://www.freegamesway.com/online_games/arcade_online_games.html" class="second_level">- Arcade Online</a><br>
 <a href="http://www.freegamesway.com/online_games/puzzle_online_games.html" class="second_level">- Puzzle Online</a><br>
 <a href="http://www.freegamesway.com/online_games/racing_online_games.html" class="second_level">- Racing Online</a><br>
-<a href="http://www.freegamesway.com/online_games/card_online_games.html" class="second_level">- Card Online</a><br>
-<a href="http://www.freegamesway.com/online_games/casino_online_games.html" class="second_level">- Casino Online</a><br>
 </td>  	  	
 </tr>
      <tr> 
@@ -165,15 +215,13 @@ rmShowPop();
 <a href="http://www.freegamesway.com/free_arcade_games" class="second_level">- Arcade Games</a><br>
 <a href="http://www.freegamesway.com/free_puzzle_games" class="second_level">- Puzzle Games</a><br>
 <a href="http://www.freegamesway.com/free_racing_games" class="second_level">- Racing Games</a><br>
-<a href="http://www.freegamesway.com/free_card_games" class="second_level">- Card Games</a><br>
-<a href="http://www.freegamesway.com/free_casino_games" class="second_level">- Casino Games</a><br>
 	  </td>
      </tr>
      <tr>
       <td align="left" valign="top" height="7"><img src="http://www.freegamesway.com/img/sl_bottom.gif" width="96" height="7"></td>
      </tr>
     </tbody></table>
-    <a href="http://www.myplaycity.com/freecd" class="fist_level" target="_blank">Free Games CD</a>
+    <a href="http://www.freegamesway.com/toolbar" class="fist_level2">Free Games<br>Toolbar</a>
     <a href="http://www.freegamesway.com/high_score" class="fist_level">High Score</a>
 	<a href="http://www.freegamesway.com/free_content" class="fist_level2">Free Content<br>For Your Site</a>
 	<a href="http://www.freegamesway.com/about" class="fist_level">About</a>
@@ -416,17 +464,12 @@ function droplistfunc(){
 
 <option value="/alines">Advanced Lines</option>
 <option value="/air_aggression">Air Aggression</option>
-<option value="/antiquity_blackjack">Antiquity Blackjack</option>
-<option value="/antiquity_craps">Antiquity Craps</option>
-<option value="/antiquity_roulette">Antiquity Roulette</option>
 <option value="/barman_life">Barman's Life</option>
 <option value="/bog_glutton">Bog Glutton</option>
 <option value="/bomb_john">Bomb John</option>
-<option value="/brontosaur_poker">Brontosaur Poker</option>
 <option value="/cool_plane_game">Cool Plane Game</option>
 <option value="/crossword_puzzle_premium">Crossword Puzzle Premium</option>
 <option value="/dangerous_road">Dangerous Road</option>
-<option value="/dinosaur_poker_game">Dinosaur Poker Game</option>
 <option value="/dragon_game_premium">Dragon Game Premium</option>
 <option value="/fast_boats">Fast Boats</option>
 <option value="/fish_passion">Fish Passion</option>
@@ -435,7 +478,6 @@ function droplistfunc(){
 <option value="/free_solitaire_galaxy">Free Solitaire Galaxy</option>
 <option value="/frog_game_deluxe">Frog Game Deluxe</option>
 <option value="/hunted_by_ducks">Hunted By Ducks</option>
-<option value="/jurassic_video_poker">Jurassic Video Poker</option>
 <option value="/lucky_fisherman">Lucky Fisherman</option>
 <option value="/military_operation">Military Operation</option>
 <option value="/moto_time">Moto Time</option>
@@ -533,10 +575,10 @@ function droplistfunc(){
 <table cellpadding="0" cellspacing="0" width="126" align="center">
  <tbody><tr>
   <td width="20" align="center">
-<a href="http://www.myplaycity.com/freecd" target="_blank"><img src="http://www.freegamesway.com/img/freecd14x14.gif" width="14" height="14" border="0" hspace="0" align="absmiddle"></a>
+<a href="http://www.freegamesway.com/toolbar"><img src="http://www.freegamesway.com/img/toolbar16x16.gif" width="14" height="14" border="0" hspace="0" align="absmiddle"></a>
   </td>
   <td>
-<a href="http://www.myplaycity.com/freecd" target="_blank"><span class="b_style_big2">Free Games CD</span></a>
+<a href="http://www.freegamesway.com/toolbar"><span class="b_style_big2">Free Games<br>Toolbar</span></a>
   </td>
  </tr>
 </tbody></table>
@@ -596,7 +638,7 @@ rmShowAd("120x600");
 <script language="JavaScript">
 aj_pr = Math.floor(Math.random() * 1000000);
 document.write('<iframe width="100" height="100" noresize scrolling=No frameborder=0 marginheight=0 marginwidth=0 src="http://ads.gamesbannernet.com/servlet/ajrotator/6038/0/vh?z=gbn&dim=119&nocache='+aj_pr+'&referer='+escape(document.location.href)+'"></iframe>');
-</script><iframe width="100" height="100" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://ads.gamesbannernet.com/servlet/ajrotator/6038/0/vh?z=gbn&amp;dim=119&amp;nocache=112287&amp;referer=https%3A//web.archive.org/web/20080329181330id_/http%253A//www.freegamesway.com/privacy_statement.html"></iframe>
+</script><iframe width="100" height="100" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://ads.gamesbannernet.com/servlet/ajrotator/6038/0/vh?z=gbn&amp;dim=119&amp;nocache=392038&amp;referer=https%3A//web.archive.org/web/20081216024006id_/http%253A//www.freegamesway.com/privacy_statement.html"></iframe>
 <noscript>
 <a href="http://www.gamesbannernet.com/" target="_blank">
 <img src="http://www.gamesbannernet.com/img/spacer.gif" alt="Games Banner Network" width="1" height="1" border="0">
@@ -665,8 +707,6 @@ document.write('<iframe width="100" height="100" noresize scrolling=No framebord
 <a href="http://www.freegamesway.com/free_arcade_games" class="second_level2">Arcade Games</a>
 <a href="http://www.freegamesway.com/free_puzzle_games" class="second_level2">Puzzle Games</a>
 <a href="http://www.freegamesway.com/free_racing_games" class="second_level2">Racing Games</a>
-<a href="http://www.freegamesway.com/free_card_games" class="second_level2">Card Games</a>
-<a href="http://www.freegamesway.com/free_casino_games" class="second_level2">Casino Games</a>
 <a href="http://www.freegamesway.com/online_games" class="second_level2">Online Games</a>
 <a href="http://www.freegamesway.com/high_score" class="second_level2">High Score</a>
 <a href="http://www.freegamesway.com/free_content" class="second_level2">Free Content</a>
@@ -704,99 +744,60 @@ document.write('<iframe width="100" height="100" noresize scrolling=No framebord
 <table class="g1">
 <tbody><tr>
 <td class="g1a">
-
 <b class="text_bold_12">A</b><br>
-
-<a class="text11z" href="http://www.freegamesway.com/antiquity_craps">Antiquity Craps</a><br>
-<a class="text11z" href="http://www.freegamesway.com/antiquity_blackjack">Antiquity Blackjack</a><br>
-<a class="text11z" href="http://www.freegamesway.com/antiquity_roulette">Antiquity Roulette</a><br>
 <a class="text11z" href="http://www.freegamesway.com/alines">Advanced Lines</a><br>
 <a class="text11z" href="http://www.freegamesway.com/air_aggression">Air Aggression</a><br>
-
 <b class="text_bold_12">B</b><br>
-
 <a class="text11z" href="http://www.freegamesway.com/bog_glutton">Bog Glutton</a><br>
 <a class="text11z" href="http://www.freegamesway.com/barman_life">Barman's Life</a><br>
 <a class="text11z" href="http://www.freegamesway.com/bomb_john">Bomb John</a><br>
-<a class="text11z" href="http://www.freegamesway.com/brontosaur_poker">Brontosaur Poker</a><br>
-
 <b class="text_bold_12">C</b><br>
-
 <a class="text11z" href="http://www.freegamesway.com/crossword_puzzle_premium">Crossword Puzzle Premium</a><br>
 <a class="text11z" href="http://www.freegamesway.com/cool_plane_game">Cool Plane Game</a><br>
-
+<b class="text_bold_12">D</b><br>
+<a class="text11z" href="http://www.freegamesway.com/dangerous_road">Dangerous Road</a><br>
+<a class="text11z" href="http://www.freegamesway.com/dragon_game_premium">Dragon Game Premium</a><br>
 </td>
 <td class="g1a">
-
-<b class="text_bold_12">D</b><br>
-
-<a class="text11z" href="http://www.freegamesway.com/dangerous_road">Dangerous Road</a><br>
-<a class="text11z" href="http://www.freegamesway.com/dinosaur_poker_game">Dinosaur Poker Game</a><br>
-<a class="text11z" href="http://www.freegamesway.com/dragon_game_premium">Dragon Game Premium</a><br>
-
 <b class="text_bold_12">F</b><br>
-
 <a class="text11z" href="http://www.freegamesway.com/fortune_fishing_game">Fortune Fishing Game</a><br>
 <a class="text11z" href="http://www.freegamesway.com/free_solitaire_galaxy">Free Solitaire Galaxy</a><br>
 <a class="text11z" href="http://www.freegamesway.com/free_mahjong_planet">Free Mahjong Planet</a><br>
 <a class="text11z" href="http://www.freegamesway.com/frog_game_deluxe">Frog Game Deluxe</a><br>
 <a class="text11z" href="http://www.freegamesway.com/fast_boats">Fast Boats</a><br>
 <a class="text11z" href="http://www.freegamesway.com/fish_passion">Fish Passion</a><br>
-
-<b class="text_bold_12">J</b><br>
-
-<a class="text11z" href="http://www.freegamesway.com/jurassic_video_poker">Jurassic Video Poker</a><br>
-
 <b class="text_bold_12">H</b><br>
-
 <a class="text11z" href="http://www.freegamesway.com/hunted_by_ducks">Hunted By Ducks</a><br>
-
+<b class="text_bold_12">L</b><br>
+<a class="text11z" href="http://www.freegamesway.com/lucky_fisherman">Lucky Fisherman</a><br>
+<b class="text_bold_12">M</b><br>
+<a class="text11z" href="http://www.freegamesway.com/myplaycity_solitare">MyPlayCity Solitaire</a><br>
 </td>
 <td class="g1a">
-
-<b class="text_bold_12">L</b><br>
-
-<a class="text11z" href="http://www.freegamesway.com/lucky_fisherman">Lucky Fisherman</a><br>
-
-<b class="text_bold_12">M</b><br>
-
-<a class="text11z" href="http://www.freegamesway.com/myplaycity_solitare">MyPlayCity Solitaire</a><br>
 <a class="text11z" href="http://www.freegamesway.com/myplaycity_freecell">MyPlayCity Freecell Solitaire</a><br>
 <a class="text11z" href="http://www.freegamesway.com/free_mahjong">My Free Mahjong</a><br>
-<a class="text11z" href="http://www.freegamesway.com/my_free_poker">My Free Poker</a><br>
 <a class="text11z" href="http://www.freegamesway.com/moto_time">Moto Time</a><br>
 <a class="text11z" href="http://www.freegamesway.com/military_operation">Military Operation</a><br>
-
 <b class="text_bold_12">O</b><br>
-
 <a class="text11z" href="http://www.freegamesway.com/out_world">Out Of The World</a><br>
 <a class="text11z" href="http://www.freegamesway.com/operation_mars">Operation Mars</a><br>
-
 <b class="text_bold_12">P</b><br>
-
 <a class="text11z" href="http://www.freegamesway.com/pearl_puzzle">Pearl Puzzle</a><br>
-
-</td>
-<td class="g1a">
 <a class="text11z" href="http://www.freegamesway.com/paradise_trouble">Paradise In Trouble</a><br>
 <a class="text11z" href="http://www.freegamesway.com/play_mahjong_forever">Play Mahjong Forever</a><br>
 <b class="text_bold_12">R</b><br>
-
 <a class="text11z" href="http://www.freegamesway.com/road_attack">Road Attack</a><br>
-
+</td>
+<td class="g1a">
 <b class="text_bold_12">S</b><br>
-
 <a class="text11z" href="http://www.freegamesway.com/space_fights">Space Fights</a><br>
 <a class="text11z" href="http://www.freegamesway.com/sea_patrol">Sea Patrol</a><br>
 <a class="text11z" href="http://www.freegamesway.com/speed_motors">Speed Motors</a><br>
 <a class="text11z" href="http://www.freegamesway.com/solitaire_game_ultra">Solitaire Game Ultra</a><br>
-
 <b class="text_bold_12">W</b><br>
-
 <a class="text11z" href="http://www.freegamesway.com/word_game_deluxe">Word Game Deluxe</a><br>
 <a class="text11z" href="http://www.freegamesway.com/weird_planet">Weird Planet</a><br>
 <a class="text11z" href="http://www.freegamesway.com/wild_races">Wild Races</a><br>
-
 </td>
 </tr>
 </tbody></table>
@@ -848,7 +849,7 @@ document.write('<iframe width="100" height="100" noresize scrolling=No framebord
 <!-- basefun.com code begin -->
 <script language="JavaScript"> 
 document.write('<s'+'cript language="JavaScript" src="http://www.basefun.com/work.php?n=115&size=1&j=1&c=1&code='+new Date().getTime()+'"></s'+'cript>'); 
-</script><script language="JavaScript" src="http://www.basefun.com/work.php?n=115&amp;size=1&amp;j=1&amp;c=1&amp;code=1580432244822"></script> 
+</script><script language="JavaScript" src="http://www.basefun.com/work.php?n=115&amp;size=1&amp;j=1&amp;c=1&amp;code=1580432247519"></script> 
 <noscript>
 <IFRAME SRC="http://www.basefun.com/work.php?n=115&size=1&c=1" width=100 height=100 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling="no"></IFRAME>
 </noscript>
@@ -887,12 +888,6 @@ document.write('<s'+'cript language="JavaScript" src="http://www.basefun.com/wor
 _uacct = "UA-1217017-2";
 urchinTracker();
 </script>
-<script type="text/javascript"> 
-<!--
-naa_siteid="1210554350"; naa_sitename="freegamesway.com"; naa_test="no";
-//-->
-</script>
-<script type="text/javascript" src="http://aa.voice2page.com/naa_1x1.js"></script>
 
 
 
