@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-writing-jobs.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621210643id_/http%3A//www.online-writing-jobs.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-writing-jobs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061851id_/http%3A//www.online-writing-jobs.com/privacypolicy.php) for the most accurate reproduction.*
 
 # ONLINE WRITING JOBS - Freelance Writing Jobs
 
@@ -42,12 +42,6 @@ We can be reached by emailing us.
 **Changes to this Policy**
 
 Online-Writing-Jobs.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
-
-**Governing law**
-
-This policy and the use of this Site are governed by South Carolina law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Columbia. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
-
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Columbia, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
