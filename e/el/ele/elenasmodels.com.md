@@ -1,178 +1,150 @@
-> *The following text is extracted and transformed from the elenasmodels.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218000328id_/http%3A//www.elenasmodels.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elenasmodels.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015816id_/http%3A//www.elenasmodels.com/privacy.htm) for the most accurate reproduction.*
 
 # Elena's Models - beautiful russian girls. PRIVACY STATEMENT
 
-**IS IT FOR REAL?**  
-Check out what other users say about **[ElenasModels](http://www.elenasmodels.com/about/elenas.htm)**
-
 [ ](http://www.elenasmodels.com/services/membership.htm)  
-**Don't be alone this Christmas!** Join today and meet beautiful Russian girls - direct _email addresses_ and _phone numbers_ are included with [ Gold](http://www.elenasmodels.com/services/gold.htm), [ Platinum](http://www.elenasmodels.com/services/platinum.htm) and [ Catalog](http://www.elenasmodels.com/services/catalog.htm) subscription. 
+**Tired of being alone?** [Join today](http://www.elenasmodels.com/services/membership.htm) \- HUGE CHRISTMAS SPECIALS during the checkout! 
 
-Go ahead and order today to take advantage of **Christmas specials** during the checkout! [Click here](http://www.elenasmodels.com/index.php?method=staticpay)
+"Thank you so much to everyone at Elena's models! Dreams do come true!"   
+Mark and Elena (Australia) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story116)
+
+* * *
+
+"Thank you for bringing us together! We got married on the 12th of September, 2008. I am the happiest man alive!"   
+Larry and Natalya(USA) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story117)
+
+* * *
+
+"Thank you!"   
+Paul and Valentina (USA) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story111)
+
+* * *
+
+"Marina and I wish to thank Elena's Models because it gave us the opportunity to meet! To anybody who has doubts about this way of meeting, we can say...it can really work out!"   
+Bene and Marina, Belgium 
+
+[](http://www.elenasmodels.com/testimonials.htm#story100)
+
+* * *
+
+"We will never thank enough God and your agency which gave us the chance to make our dearest dream come true!"   
+Patrick and Inna 
+
+[](http://www.elenasmodels.com/testimonials.htm#story99)
+
+* * *
+
+"Elena, thank you for your Cupidâ€™s job! Well done! We made it in spite of different obstacles and circumstances!"   
+Olya and Brent 
+
+[](http://www.elenasmodels.com/testimonials.htm#story97)
+
+* * *
+
+"I would like to thank Elena's Models for having such a wonderful site which helped me find a wonderful partner! I would tell everyone searching for a Russian girl to trust Elena's Models!   
+Ashwini and Svetlana (Australia) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story89)
+
+* * *
+
+"Nick and I met online in March 2007 and we were married on the 20th of October! Thank you Elena's Models!   
+Elena and Nick (UK) 
+
+[](http://www.elenasmodels.com/testimonials07.htm#story88)
+
+* * *
+
+"In each of us we have found our soul mate and feel that we have been blessed by God."   
+(Bryan & Ramona, USA) 
+
+[](http://www.elenasmodels.com/testimonials07.htm#story84)
+
+* * *
+
+"We are extremely happy, Elena's Models brought us together" (Lena and Stefan, Germany)
+
+[](http://www.elenasmodels.com/testimonials07.htm#story75)
+
+* * *
+
+"We are enormously proud of our marriage!" (Svetlana and Hugh, New Zealand)
+
+[](http://www.elenasmodels.com/testimonials07.htm#story74)
+
+* * *
+
+"So it works, Thank you!!!" (Marina and Doug, USA)
+
+[](http://www.elenasmodels.com/testimonials07.htm#story72)
+
+* * *
+
+"Thank you for your website!" (Veronika and David, Australia)
+
+[](http://www.elenasmodels.com/testimonials07.htm#story70)
+
+* * *
+
+"Our love grows every day!"  
+(Steve and Julia, USA)
+
+[](http://www.elenasmodels.com/testimonials07.htm#story62)
+
+* * *
 
 "Thank you very much for your website!"  
 (Victoria and Philip, UK)
 
-[](http://www.elenasmodels.com/testimonials.htm#story61)
+[](http://www.elenasmodels.com/testimonials06.htm#story61)
 
 * * *
 
 "We met through your website!"  
 (Robert and Sveta, UK)
 
-[](http://www.elenasmodels.com/testimonials.htm#story60)
-
-* * *
-
-"We are very happy!!"  
-(Lonnie, USA, and Daniela, Romania)
-
-[](http://www.elenasmodels.com/testimonials.htm#story59)
+[](http://www.elenasmodels.com/testimonials06.htm#story60)
 
 * * *
 
 "We are grateful to you!!"  
 (Cris and Olga, Netherlands)
 
-[](http://www.elenasmodels.com/testimonials.htm#story58)
-
-* * *
-
-"We married earlier this year and now we have a son!"  
-(Anthony, UK)
-
-[](http://www.elenasmodels.com/testimonials.htm#story56)
-
-* * *
-
-"Thank you Elena's for being the place where we found our happiness!" (Will, Canada, and Tatyana, Russia)
-
-[](http://www.elenasmodels.com/testimonials.htm#story55)
-
-* * *
-
-"Your website is the best place for lonely people looking for love. " (Elena and Rob, USA) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story54)
-
-* * *
-
-"Thank you for the happiness that we have found!"  
-(Irina and Thor, Norway) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story50)
-
-* * *
-
-"Our dream came true - we are husband and wife!"  
-(Anna and Joe, USA) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story46)
+[](http://www.elenasmodels.com/testimonials06.htm#story58)
 
 * * *
 
 "I am confident that my husband is the person that I want to spend the rest of my life with."   
 (Anna, USA) 
 
-[](http://www.elenasmodels.com/testimonials.htm#story8)
-
-* * *
-
-"Thank you so much for your service!"  
-(John and Svetlana, USA) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story28)
+[](http://www.elenasmodels.com/testimonials04.htm#story8)
 
 * * *
 
 "We were married in a castle in Wales!"  
 (Mark and Zhenya, UK) 
 
-[](http://www.elenasmodels.com/testimonials.htm#story21)
-
-* * *
-
-"Right from the beginning of our correspondence we knew we were true soulmates."  
-(Rex and Svetlana, Netherlands) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story38)
-
-* * *
-
-"Thanks so much!"  
-(Darryl and Elena, Australia) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story39)
-
-* * *
-
-"I first met my wife through your web-site, and we are both sublimely happy. Thank you very much. I owe you my life."  
-(Sean, Australia) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story24)
-
-* * *
-
-"Never in my life I was so happy. Every day for me is like a wonderful fairy-tale, I go to sleep and get up with the smile on my face. I recommend your agency to all my girlfriends!"  
-(Svetlana and Nick, England) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story26)
-
-* * *
-
-"I am writing to thank you for helping me find the love of my life. We were married in Las Vegas!"  
-(Ron and Elvira Hawkes,USA) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story25)
-
-* * *
-
-"We both think that it has been just God's blessing to have met in such a wonderful, unbelievable way!"  
-(Tanya and Derek, England) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story6)
-
-* * *
-
-"Our relationship started last year and now almost a year later we have solid plans for our future. Your web site has brought to me this beautiful lady."  
-(Alberto and Elena, Netherlands) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story11)
-
-* * *
-
-"I feel I have been blessed, with exceedingly good luck and fortune in finding Tanya, who was listed on this website."  
-(Bill and Tanya, USA) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story19)
-
-* * *
-
-"I think Elena's Models is the best organized and most reliable marriage agency on the Internet. The money I paid to obtain Kseniaâ¿¿s address was nothing compared to the happiness and true love I found. It was the best investment of my life!"  
-(Steve and Ksenia, USA) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story22)
-
-* * *
-
-"We met through your service almost a year ago and are eternally grateful to you."  
-(Svetlana and Tim, UK) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story2)
+[](http://www.elenasmodels.com/testimonials04.htm#story21)
 
 * * *
 
 "I would like to share my joy with you: with your help, I found my happiness."  
 (Mila and Marshall, USA) 
 
-[](http://www.elenasmodels.com/testimonials.htm#story15)
+[](http://www.elenasmodels.com/testimonials04.htm#story15)
 
 * * *
 
-"Thank you for your wonderful service and help in bringing my wife and myself together. Without your service I would never have met my dearest Elena and our lives would not hold so much joy and happiness."  
+"Thank you for your wonderful service and help in bringing my wife and myself together."  
 (Michael and Elena, Australia) 
 
-[](http://www.elenasmodels.com/testimonials.htm#story14)   
+[](http://www.elenasmodels.com/testimonials04.htm#story14)   
 [More testimonials from our clients](http://www.elenasmodels.com/testimonials.htm)
 
 [](http://hop.clickbank.net/?beauties/petrova) **Russian women are different.** Don't even think about dating one without reading this. [Why?](http://hop.clickbank.net/?beauties/petrova)
@@ -229,126 +201,126 @@ This web site contains links to other sites. Please be aware that Elena's Models
 
 * * *
 
-If you have any question about our privacy policy or the use of the information we collect from our users, please [ contact us](https://web.archive.org/web/20061218000328id_/http%3A//www.elenasmodels.com/contact.htm).
+If you have any question about our privacy policy or the use of the information we collect from our users, please [ contact us](https://web.archive.org/web/20081216015816id_/http%3A//www.elenasmodels.com/contact.htm).
 
 | 
 
-[](https://web.archive.org/index.php?ap=4663418)
+[](https://web.archive.org/index.php?ap=3528843)
 
-Svetlana, 26 
+Tania, 22 
 
-[](https://web.archive.org/index.php?ap=8371617)
+[](https://web.archive.org/index.php?ap=8114701)
 
-Zoryana, 22 
+Lubov, 35 
 
-[](https://web.archive.org/index.php?ap=1877202)
+[](https://web.archive.org/index.php?ap=1922233)
 
-Yulia, 23 
+Elena, 36 
 
-[](https://web.archive.org/index.php?ap=4783267)
+[](https://web.archive.org/index.php?ap=9965320)
 
-Ruzana, 24 
+Natalia, 26 
 
-[](https://web.archive.org/index.php?ap=4840158)
+[](https://web.archive.org/index.php?ap=7365292)
 
-Iryna, 28 
+Nadya, 30 
 
-[](https://web.archive.org/index.php?ap=8515433)
-
-Zara, 23 
-
-[](https://web.archive.org/index.php?ap=337940)
-
-Kate, 21 
-
-[](https://web.archive.org/index.php?ap=393303)
-
-Maria, 27 
-
-[](https://web.archive.org/index.php?ap=374407)
+[](https://web.archive.org/index.php?ap=5024059)
 
 Tatiana, 30 
 
-[](https://web.archive.org/index.php?ap=6951564)
+[](https://web.archive.org/index.php?ap=399461)
 
-Anzhela, 29 
+Olga, 35 
 
-[](https://web.archive.org/index.php?ap=376214)
+[](https://web.archive.org/index.php?ap=7240802)
 
-Elena, 30 
+Tanya, 26 
 
-[](https://web.archive.org/index.php?ap=820162)
+[](https://web.archive.org/index.php?ap=553763)
 
-Ekaterina, 29 
+Alyona, 45 
 
-[](https://web.archive.org/index.php?ap=13168)
+[](https://web.archive.org/index.php?ap=856465)
 
-Olga, 33 
+Ludmila, 30 
 
-[](https://web.archive.org/index.php?ap=15963)
+[](https://web.archive.org/index.php?ap=8748837)
 
-Irina, 35 
+Kristina, 27 
 
-[](https://web.archive.org/index.php?ap=298697)
+[](https://web.archive.org/index.php?ap=3783409)
 
-Tanya, 37 
+Maria, 33 
 
-[](https://web.archive.org/index.php?ap=863389)
+[](https://web.archive.org/index.php?ap=9456505)
 
-Olena, 35 
+Oksana, 30 
 
-[](https://web.archive.org/index.php?ap=455869)
+[](https://web.archive.org/index.php?ap=850542)
 
-Tatiana, 29 
+Liel, 23 
 
-[](https://web.archive.org/index.php?ap=9312)
+[](https://web.archive.org/index.php?ap=278690)
 
-Mariya, 31 
+elena, 33 
 
-[](https://web.archive.org/index.php?ap=305228)
+[](https://web.archive.org/index.php?ap=6671672)
 
-Maria, 26 
+Alena, 25 
 
-[](https://web.archive.org/index.php?ap=831628)
+[](https://web.archive.org/index.php?ap=4395087)
 
-Victoria, 30 
+Elena, 28 
 
-[](https://web.archive.org/index.php?ap=11674)
+[](https://web.archive.org/index.php?ap=8965204)
 
-Nataliya, 37 
+Inna, 29 
 
-[](https://web.archive.org/index.php?ap=738129)
+[](https://web.archive.org/index.php?ap=5916323)
 
-Yulia, 34 
+Simona, 26 
 
-[](https://web.archive.org/index.php?ap=16907)
+[](https://web.archive.org/index.php?ap=861433)
 
-Larisa, 33 
+Tatiana, 32 
 
-[](https://web.archive.org/index.php?ap=10633)
+[](https://web.archive.org/index.php?ap=8288620)
 
-Ludmila, 34 
+Evelina, 29 
 
-[](https://web.archive.org/index.php?ap=14588)
+[](https://web.archive.org/index.php?ap=9056012)
 
-Elena, 24 
+Kristina, 25 
 
-[](https://web.archive.org/index.php?ap=155855)
+[](https://web.archive.org/index.php?ap=3721788)
 
-Anna, 22 
+Marina, 31 
 
-[](https://web.archive.org/index.php?ap=10846)
+[](https://web.archive.org/index.php?ap=3261868)
 
-Olga, 31 
+Viktoria, 28 
 
-[](https://web.archive.org/index.php?ap=856429)
+[](https://web.archive.org/index.php?ap=8031768)
 
-Vitalina, 23 
+Elena, 29 
 
-[](https://web.archive.org/index.php?ap=934554)
+[](https://web.archive.org/index.php?ap=4805134)
 
-Elena, 32 
+Svetlana, 35 
 
-[](https://web.archive.org/index.php?ap=698371)
+[](https://web.archive.org/index.php?ap=2636586)
 
-Galina, 31 
+Olya, 28 
+
+[](https://web.archive.org/index.php?ap=7051726)
+
+natalia, 29 
+
+[](https://web.archive.org/index.php?ap=5845093)
+
+Irina, 30 
+
+[](https://web.archive.org/index.php?ap=9393656)
+
+Irina, 32 
