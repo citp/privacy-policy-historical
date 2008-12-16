@@ -1,49 +1,92 @@
-> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516030301id_/http%3A//movielibrary.lynda.com/html/lotPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012725id_/http%3A//movielibrary.lynda.com/html/lotPrivacy.asp) for the most accurate reproduction.*
 
 # lynda.com Online Training Library: Privacy
 
-## Privacy Statement for lynda.com
+lynda.com, Inc. (“lynda.com”) has created this Privacy Policy to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
-lynda.com, inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: lynda.com.
+## Collection of Data/Contact Information/Financial Information
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart.
+### IP Address and Cookies
 
-Our site uses cookies to keep track of your shopping cart. We use cookies to save your password so you don't have to re-enter it each time you visit our site.
+We use your internet protocol address to help diagnose problems with our server and to administer our website. We also use your internet protocol address to help identify you and your shopping cart.
 
-Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Our website places “cookies” on your computer’s hard drive through your web browsers to keep track of your identity for the purposes of saving your shopping cart and saving your logged-in state so that you do not have to log in each time you visit our website. “Cookies” allow our website to recognize your computer when you access the website. If you would like to prevent the placement of cookies on your computer, or remove cookies from your computer, please access the “Help” portion of your browser or contact your browser provider. Please be advised that if you block or remove cookies from your computer, the website will not recognize your computer and you may not have access to all portions of the website.
 
-This site contains links to other sites. lynda.com is not responsible for the privacy practices or the content of such Web sites.
+### Contact Information/Financial Information
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+Our website’s registration and order forms require users to provide us with contact information to establish subscription accounts and purchase services and products. lynda.com collects each user’s name, address, city, state, postal code, telephone number and e-mail address. lynda.com uses this information to contact the user regarding subscriptions, orders and administrative matters. New users must opt in to receive commercial communications and may opt out of receiving future commercial communications at any time (see “Anti-Spam Policy/Opt-out Choice” below). 
 
-##  Public Forums
+lynda.com also stores the financial information entered by users, such as credit card numbers, purchase order numbers and related identification information. The financial information is only used to bill the user for products and services.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+lynda.com does not rent, sell or exchange user information, and generally restricts access to user information to qualified lynda.com employees and agents. lynda.com may transmit a customer’s credit card data only to the appropriate credit card company and/or credit card payment processing company. Third parties who need access to lynda.com user information to provide operational or other support services are required by lynda.com to maintain high standards of security. lynda.com gathers only user information that is needed to administer its business and enhance and improve its services and products. 
+
+lynda.com may disclose a user’s contact or financial information if required to do so by law or in the good-faith belief that such disclosure is necessary to comply with an order of a court or government authority, or a subpoena. lynda.com may also disclose a user’s contact or financial information in the good-faith belief that such disclosure is necessary to protect lynda.com or the website, or enforce the applicable Terms and Conditions, in conjunction with an investigation or legal, equitable or administrative action or proceeding.
+
+lynda.com may collect information on the services and products viewed by you on the website. lynda.com may use this information to customize your experience and suggest and offer you products according to your preferences. lynda.com may use this information to identify patterns and trends of use, but will only release or publish any such information in a manner that preserves your anonymity. 
+
+lynda.com may transfer part or all of your information in the case of a merger, acquisition, bankruptcy, or other sale of all or a portion of lynda.com’s assets or stock.
+
+## Links to Other Websites
+
+This website contains links to other websites. lynda.com is not responsible for the privacy practices, security practices or the content of such websites.
+
+## Site Intended for Use by Adults
+
+This website is intended for use by adults. lynda.com does not knowingly collect or publish any information personally identifying any child under age 13. Children under age 13 should not access this website and should not post any information personally identifying themselves anywhere on the website, such as a chat room, forum, message board and/or news group. 
 
 ## Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+The security of this website and your information is of great importance to lynda.com. This website has reasonable security measures in place to protect the loss, misuse and alteration of your information under our control, but we make no assurances about our ability to prevent any such loss, misuse or alteration, and we shall have no liability to you or any third party from any loss, misuse or alteration. We do not warrant that your access to the website is completely secure.
 
-## Choice/Opt-Out
+You should promptly notify lynda.com if your account, user name or password have been lost or stolen. lynda.com will never ask you for your password. If you need a new user name and/or password, lynda.com will generate a new user name and password automatically through its computers and send it to your e-mail or postal address.
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
+## Anti-Spam Policy/Opt-out Choice
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+We are committed to providing users of this website with the choice to receive or not receive e-mails and/or other communications from lynda.com. We strive to comply with the CAN-SPAM Act. We only send commercial e-mails to new users who have requested or consented to receive e-mails about our services and products. We do not send unsolicited commercial e-mails (“spam”), buy or sell e-mail lists, or use purchased or harvested e-mail lists. We offer commercial e-mail recipients the opportunity to opt-out of further communications in every e-mail. If you would like to opt-out of receiving further communications, please follow the directions in the e-mail received or contact us using one of the following modes: 
 
-You can send email to traininglibrary@lynda.com   
-You can send mail to the following postal address:   
-4171 Market Street, Suite C  
+E-mail: traininglibrary@lynda.com  
+---  
+   
+Postal mail: | 4171 Market Street, Suite C  
+  | 
+
 Ventura, CA 93003-8300  
-You can call the following telephone number: 1-888-335-9632
+  
+Please note that we may not include the opt-out information in non-commercial e-mails (i.e., e-mails concerning your order, the website’s Terms and Conditions of Use, etc.). If you have questions or concerns regarding a non-commercial e-mail, please contact us using the information under “Contacting lynda.com” below.
 
-This site gives users the following options for changing and modifying information previously provided.
+## Removal and/or Modification of Contact Information and/or Financial Information
 
-**email:** traininglibrary@lynda.com   
-send mail to the following postal address:   
-4171 Market Street, Suite C  
+If you would like to remove or modify your contact and/or financial information from our database, please log onto your account by clicking on the “Login” link on the website. Once logged on, click on the “My Account” link and the “Edit Contact Info” link. You will be able to edit your contact and financial information on the “Edit Contact Info” page. If you have any questions or concerns, or would like to remove or modify your information offline, please contact lynda.com using one of the following modes:
+
+E-mail: cs@lynda.com  
+---  
+   
+Postal mail: | 4171 Market Street, Suite C  
+  | 
+
 Ventura, CA 93003-8300  
-call the following telephone number: 1-888-335-9632 
+  
+   
+Telephone: 1-888-335-9632  
+  
+## Changes to the Privacy Policy
 
-## Contacting the Web Site
+lynda.com may change this Privacy Policy from time to time in its sole and absolute discretion. Please check this website regularly for changes. Substantive revisions to this Privacy Policy shall apply only prospectively.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact cs@lynda.com or call 1.888.335.9632
+## Contacting lynda.com
+
+If you have any questions about this Privacy Policy, the practices of lynda.com or your dealings with this website, please contact our customer service department using one of the following modes:
+
+E-mail: cs@lynda.com  
+---  
+   
+Postal mail: | 4171 Market Street, Suite C  
+  | 
+
+Ventura, CA 93003-8300  
+  
+   
+Telephone: 1-888-335-9632  
+  
+Effective Date  
+August 08, 2008
