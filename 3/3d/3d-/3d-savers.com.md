@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 3d-savers.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509125028id_/http%3A//www.3d-savers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d-savers.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043843id_/http%3A//www.3d-savers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 3D-Savers.com - Privacy Policy
 
-|    
+|  [Free 3D Fireplace Screensaver](http://off.freeze.com/survey/3dfireplace2/index.asp?a=6965&f=left_3ds)   
 |  |  |  |  |  [](https://web.archive.org/) |  |  |  |  |  [](https://web.archive.org/free.html) |  |  |  |  |  [](https://web.archive.org/animated.html) |  |  |  |  |  [](https://web.archive.org/news.html) |  |  |  |  |  [](https://web.archive.org/contact.html) |  |  |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |  | 
@@ -24,25 +24,37 @@ Contact Us
 If you have any questions or concerns about this 3D Savers Privacy Policy or its implementation please contact us via e-mail at the following address: [3dsavers@gmail.com](mailto:3dsavers@gmail.com)  
   
   
+
+
+[FREE My 3D Christmas Tree ScreenSaver](http://off.freeze.com/survey/xmastree/index.asp?a=6965&f=foot2_3ds)  
+  
+---  
+|    
+[](http://off.freeze.com/survey/xmastree/index.asp?a=6965&f=foot2_3ds) |  Decorate your own Christmas tree or set to random and enjoy the beauty of the holiday season. Watch the snow fall on our Christmas village while birds and rabbits frolic in the fresh snow. Get in the spirit with the holiday music included. 
+
+[FREE My 3D Christmas Tree ScreenSaver Download](http://off.freeze.com/survey/xmastree/index.asp?a=6965&f=foot2_3ds)
+
+|   
+  
   
   
   
 |  |   
 |   
 ---  
-|  | 3D-Savers News |   
+|  | Free Screensavers |   
 ---|---|---  
 | 
 
-**05.05.2008.**   Around the World: London has come out! [**more**](https://web.archive.org/around-the-world.html)
+**01.12.2008.**   Christmas Night Screensaver added to our collection! [**more**](https://web.archive.org/christmas-night-screensaver.html)
 
-**03.04.2008.**   Free 3D Marine Screensaver has come out! [**more**](https://web.archive.org/free-3d-marine-screensaver.html)
+**10.11.2008.**   Free 3D Christmas Screensaver has come out! [**more**](https://web.archive.org/free-3d-christmas-screensaver.html)
 
-**06.03.2008.**   Easter 3D Screensaver added to our collection! [**more**](https://web.archive.org/easter3d-screensaver.html)
+**10.10.2008.**   3D Halloween Holiday has been released. [**more**](https://web.archive.org/3D-halloween-holiday.html)
 
-**14.02.2008.**   Windmill 3D Screensaver has come out! [**more**](https://web.archive.org/windmill-3d.html)
+**23.09.2008.**   Check out new Free 3D Jupiter Screensaver now! [**more**](https://web.archive.org/free-3d-jupiter-screensaver.html)
 
-**11.02.2008.**   Free 3D Castle Screensaver has been released. [**more**](https://web.archive.org/free-castle-screensaver.html)
+**26.08.2008.**   Free 3D Valley Screensaver added to our collection! [**more**](https://web.archive.org/free-3d-valley-screensaver.html)
 
 |   
 |  |   
