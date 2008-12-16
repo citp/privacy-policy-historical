@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617223924id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044207id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy notes from AccuWebHosting.Com
 
@@ -27,11 +27,9 @@ We use client information to:
   
 
 
-1\. Carry out and process financial transactions; during various financial transactions the information are provided to different payment gateways viz. LinkPointCentral.com, Verisign.com, BluePay.com, and 2Checkout.com, Inc. who is an authorized retailer of goods and services provided by Accuwebhosting.com.
+1\. Provide technical assistance upon their written or telephonic requests; during such interaction information are provided to our technical and billing personnel who have signed-up the Intellectual Property Right Agreement with us and are bound to follow our Privacy Policy; 
 
-2\. Provide technical assistance upon their written or telephonic requests; during such interaction information are provided to our technical and billing personnel who have signed-up the Intellectual Property Right Agreement with us and are bound to follow our Privacy Policy; 
-
-3\. Complete the registration formalities with hosting registrar; here some information like name, address, phone numbers, IP Address, etc., are made available for public access through WHOIS report as per the mandatory requirement of domain name registration process;
+2\. Complete the registration formalities with hosting registrar; here some information like name, address, phone numbers, IP Address, etc., are made available for public access through WHOIS report as per the mandatory requirement of domain name registration process;
 
 Divulgence of Information :
 
@@ -40,15 +38,13 @@ Our client should note that in the following exceptions we may divulge the infor
   
 
 
-1.1 To an intended recipient of such information which also includes authorized retailers of goods and services sold by accuwebhosting.com, like 2Checkout, and 3rd party payment processors like VeriSign, BluePay etc, who are payment gateways and operating independently. They are compliant to carry out financial transactions and they follow their own privacy policies over which we do not have any control; 
+1.1 With a lawful consent of originator; 
 
-1.2 With a lawful consent of originator; 
+1.2 To a person authorized to provide technical assistance to our clients; 
 
-1.3 To a person authorized to provide technical assistance to our clients; 
+1.3 To a law enforcement agency as the case may be; 
 
-1.4 To a law enforcement agency as the case may be; 
-
-1.5 To a Domain Name Registrar;
+1.4 To a Domain Name Registrar;
 
 Client Confirmation :
 
