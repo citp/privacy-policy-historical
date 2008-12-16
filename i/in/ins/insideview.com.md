@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideview.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611224427id_/http%3A//www.insideview.com/cat-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideview.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030358id_/http%3A//www.insideview.com/cat-privacy.html) for the most accurate reproduction.*
 
 # InsideView - Privacy, It's Important to All of Us
 
@@ -6,7 +6,7 @@ Your privacy is very important to InsideView™. This Privacy Policy was prepare
 
 This document is merely a disclosure of our current practices. It is not a contract and does not create any legal rights or obligations for any party. We reserve the right to revise this Privacy Policy at any time and at our discretion.
 
-If you have questions or concerns regarding this statement, you should first contact InsideView by sending email to privacy@insideview.com. If you do not receive acknowledgment of your inquiry or if your inquiry has not been satisfactorily addressed, you should then contact the Privacy Officer, InsideView, 2216 Oakdale Rd., Hillsborough, CA 94010.
+If you have questions or concerns regarding this statement, you should first contact InsideView by sending email to privacy@insideview.com. If you do not receive acknowledgment of your inquiry or if your inquiry has not been satisfactorily addressed, you should then contact the Privacy Officer, InsideView - 444 De Haro Street, Suite 210, San Francisco, CA 94107.
 
 **Table of Contents  
 **Security  
