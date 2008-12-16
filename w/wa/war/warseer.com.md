@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the warseer.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607231624id_/http%3A//warseer.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warseer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161651id_/http%3A//warseer.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement - WarSeer
 
-|  Sidebar Advert   
----  
-  
-  | 
+|   | 
 
 ## Privacy Statement
 
@@ -24,7 +21,7 @@ The following discloses our information gathering and dissemination practices fo
 WarSeer (www.warseer.com)  
 
 
-WarSeer understands the importance of maintaining the privacy of any and all of its visitors. Therefore, WarSeer only collects information that you willingly provide, and does not pass this on to any third party without prior consent. WarSeer may occasionally set browser cookies, but these are only used to improve service and do not collect any personal information. Personal information includes; your name, email address, street address, age, interests and opinions. WarSeer reserves the right to contact users regarding personal information they have submited should the need arise.   
+WarSeer understands the importance of maintaining the privacy of any and all of its visitors. Therefore, WarSeer only collects information that you willingly provide, and does not pass this on to any third party without prior consent. WarSeer may occasionally set browser cookies, but these are only used to improve service and do not collect any personal information. Personal information includes; your name, email address, street address, age, interests and opinions. WarSeer reserves the right to contact users regarding personal information they have submitted should the need arise.   
 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your computer also stores your WarSeer Forum username and password in the form of a cookie to simplify usage of the forums.  
