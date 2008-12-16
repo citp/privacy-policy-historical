@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakegov.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608101237id_/http%3A//www.wakegov.com/web/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakegov.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155635id_/http%3A//www.wakegov.com/web/privacy/default.htm) for the most accurate reproduction.*
 
 # WakeGOV.com - Privacy Statement When Using WakeGOV
 
