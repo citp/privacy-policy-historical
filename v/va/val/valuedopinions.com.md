@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the valuedopinions.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617230942id_/http%3A//www.valuedopinions.com/index.php%3Fid%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015802id_/http%3A//www.valuedopinions.com/index.php%3Fid%3D8) for the most accurate reproduction.*
 
-# Valued Opinions: Privacy Statement
+# Privacy Statement: Valued Opinions
 
-| 
-
-## WEBSITE PRIVACY POLICY
-
- **I. Company Background**
+**I. Company Background**
 
 Research Now plc, The Mobile Panel Limited, The Mobile Channel Limited, Research Now Inc. (a US Company), Research Now Pty Limited (an Australian Company), Research Now Technology Hellas EPE (a Greek Company), Research Now GmbH (a German Company), and Research Now Srl (a French Company) (together "Research Now") operate the Valued Opinions websites. This Privacy Policy governs the website located at [ www.valuedopinions.com](http://www.valuedopinions.com/). 
 
@@ -137,4 +133,4 @@ USA
 
 **12\. Terms and Conditions of Use**
 
-Your use of Research Now's web sites, including this site, is subject to the terms of a legal agreement between you and Research Now, which is incorporated by reference herein. Please see our [ Terms and Conditions](https://web.archive.org/web/20080617230942id_/http%3A//www.valuedopinions.com/index.php%3Fid%3D8?id=9 "Opens internal link in current window"). 
+Your use of Research Now's web sites, including this site, is subject to the terms of a legal agreement between you and Research Now, which is incorporated by reference herein. Please see our [ Terms and Conditions](https://web.archive.org/web/20081216015802id_/http%3A//www.valuedopinions.com/index.php%3Fid%3D8?id=9 "Opens internal link in current window"). 
