@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qnx.com privacy policy that was archived on 2008-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516052216id_/http%3A//www.qnx.com/legal/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qnx.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216032039id_/http%3A//www.qnx.com/legal/privacy_statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 	<link rel="alternate" type="application/rss+xml" title="QNX News Feed" href="/news/feeds/news.xml">
@@ -8,7 +8,7 @@
 		<meta content="RTOS, Microkernel, Neutrino, Photon, QNX4, Momentics, Eclipse, Eclipse IDE, Embedded, Realtime, QNX, RTOS" name="Keywords">
 		<meta content="This the home page of QNX Software Systems  This is posted on the QNX website" name="Description">
 
-		
+
 		
 	<script type="text/javascript" language="javascript">
 
@@ -16,15 +16,22 @@
 			document.searchform.q.value ='';
 			document.getElementById('searchbox').style.color='#333';
 		}
+		
+		sfHover = function() {
+			var sfEls = document.getElementById("mainnav").getElementsByTagName("LI");
+			for (var i=0; i<sfEls.length; i++) {
+				sfEls[i].onmouseover=function() {
+					this.className+=" sfhover";
+				}
+				sfEls[i].onmouseout=function() {
+					this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+				}
+			}
+		}
+		if (window.attachEvent) window.attachEvent("onload", sfHover);
 
 	</script>
-	
-	<script src="/style/js/menus.js" type="text/javascript" language="javascript"></script>
-	<script src="/style/js/AC_RunActiveContent.js" type="text/javascript" language="javascript"></script>
-	<script src="/style/js/tabs.js" type="text/javascript" language="javascript"></script>
-	
-
-	<link href="/style/css/menus.css" media="all" rel="stylesheet">
+		<link href="/style/css/menus.css" media="all" rel="stylesheet">
 
 <link href="/style/css/os_extra.css" media="all" rel="stylesheet">
 	<link href="/style/css/style.css" media="all" rel="stylesheet">
@@ -34,191 +41,168 @@
 <script type="text/javascript" language="javascript">i=12272</script>
 <script type="text/javascript" language="javascript" src="http://t2.trackalyzer.com/trackalyze.js"></script>
 
+
 <link rel="shortcut icon" href="/images/favicon.ico">
 
 </head>
 
-<body onload="startList();upperList();">
+<body>
 
 
-<div class="header">
-	<div class="headerholder">
-
-		<table border="0" cellpadding="0" cellspacing="0" width="947">
-			<tbody><tr>
-				<td valign="top" width="157"><a href="/"><img class="logo" src="/images/template/logo.gif" width="106" height="45" alt="QNX Software Systems" border="0"></a></td>
-				<td valign="bottom" width="420" class="identifier">Middleware,  development tools, realtime operating system<br>software and  services for superior embedded design</td>
-				<td valign="top" align="right" width="370">
-					<ul class="searchbar" id="uppernav">
-						<li><a href="/account/login.html"><img id="login" src="/images/buttons/top_login.gif" width="30" height="20" alt="Downloads" border="0"></a></li>
-						<li><a href="/download/"><img id="downloads" src="/images/buttons/downloads.gif" width="100" height="20" alt="Downloads" border="0"></a>
-						<!--<ul class="menu">
-								<li><a href="/download/">Download Center</a></li>
-								<li><a href="/download/group.html?programid=7807">Product Updates</a></li>
-								<li><a href="http://community.qnx.com/sf/wiki/do/viewPage/projects.bsp/wiki/BSPAndDrivers">BSP Directory</a></li>
-								<li><a href="/download/group.html?programid=17429">Collateral</a></li>
-							</ul>--><!--menu-->
-						</li>
-						<li><form name="searchform" action="/search/"><input id="searchbox" name="q" type="search" value="Search" onclick="setSearch();">
-						<script type="text/javascript" language="javascript">
-						if (navigator.userAgent.match("AppleWebKit") == null) {
-						IE6 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 6.")!=-1)) ? true : false;
-						IE7 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 7.")!=-1)) ? true : false;
-						if (IE6 == true || IE7 == true) {
-							document.write("<input class=\"buttonie\" type=\"image\" src=\"/images/template/btn_search.gif\" />");
-						} else {
-							document.write("<input class=\"button\" type=\"image\" src=\"/images/template/btn_search.gif\" />");
-						}	
-					}
-				</script></form></li>
-			</ul><!--searchbar-->
-				</td>
-			</tr>
-		</tbody></table>
-
-		<ul class="navigation" id="mainnav">
-	<li><a href="#" onclick="return false;">Products</a>
-		<ul class="menu">
-			<li id="navtitle" style="background:none;margin-top: 0px;">Operating system</li>
-			<li><a href="http://www.qnx.com/products/neutrino_rtos/">QNX Neutrino RTOS</a></li>
-			<li><a href="http://www.qnx.com/products/neutrino_rtos/secure_kernel.html">QNX Neutrino secure kernel</a></li>
-			<li><a href="http://www.qnx.com/products/neutrino_rtos/java/">Java</a></li>
-			<li id="noline"><a href="http://www.qnx.com/developers/qnx4/">QNX RTOS v4</a></li>
-			<li id="navtitle" style="background:none;margin-top: 0px;">Tools</li>
-			<li id="noline"><a href="http://www.qnx.com/products/tools/">QNX Momentics</a></li>
-			<li id="navtitle" style="background:none;margin-top: 0px;">Middleware</li>
-			<li><a href="http://www.qnx.com/products/middleware/multimedia.html">QNX Aviage Multimedia Suite</a></li>
-			<li><a href="http://www.qnx.com/products/middleware/accoustic_processing.html">QNX Aviage Acoustic Processing</a></li>
-			<li><a href="http://www.qnx.com/products/middleware/graphics/adv_graphics.html">Graphics</a></li>
-			<li id="navtitle" style="background:none;margin-top: 0px;">Standards</li>
-			<li id="noline"><a href="http://www.qnx.com/products/standards.html">Standards and Certifications</a></li>
-		</ul><!--menu-->
-	</li>
-	<li><a href="#" onclick="return false;">Support + Services</a>
-		<ul class="menu">
-			<li><a href="http://www.qnx.com/support/index.html">Overview</a></li>
-			<li><a href="http://www.qnx.com/support/support.html">Technical support</a></li>
-			<li><a href="http://www.qnx.com/support/training/">Training</a>
-			</li><li><a href="http://www.qnx.com/support/prof_services/">Professional services</a></li>
-			<li id="noline"><a href="http://www.qnx.com/account/techsupport/">Support portal</a></li>
-		</ul><!--menu-->
-	</li>
-	<li><a href="#" onclick="return false;">Markets</a>
-		<ul class="menu">
-			<li><a href="http://www.qnx.com/solutions/industries/automotive/">Automotive</a></li>
-			<li><a href="http://www.qnx.com/solutions/industries/automation/">Control + Automation</a></li>
-			<li><a href="http://www.qnx.com/solutions/industries/medical/">Medical equipment</a></li>
-			<li><a href="http://www.qnx.com/solutions/industries/netcom/">Networking + Telecom</a></li>
-			<li id="noline"><a href="http://www.qnx.com/solutions/industries/defense.html">Security + Defense</a></li>
-		</ul><!--menu-->
-	</li>
-	<li><a href="#" onclick="return false;">Partners</a>
-		<ul class="menu">
-			<li><a href="http://www.qnx.com/partners/">Find a partner</a></li>
-			<li><a href="http://www.qnx.com/partners/partner_network/">Program benefits</a></li>
-			<li><a href="http://www.qnx.com/partners/partner_network/join.html">Become a partner</a></li>
-			<li id="noline"><a href="http://www.qnx.com/partners/partner_network/strategic/">Strategic partners</a></li>
-		</ul><!--menu-->
-	</li>
-	<li><a href="#" onclick="return false;">Community</a>
-	<ul class="menu">
-			<li><a href="http://community.qnx.com/">Foundry27</a></li>
-			<li><a href="http://community.qnx.com/sf/sfmain/do/listProjects">Projects</a></li>
-			<li><a href="http://community.qnx.com/sf/wiki/do/viewPage/projects.bsp/wiki/BSPAndDrivers">BSPs and Drivers Directory</a></li>
-			<li><a href="http://www.qnx.com/community/blog.html">Blogs</a></li>
-			<li id="noline"><a href="http://www.qnx.com/community/forums.html">Forums</a></li>
-		</ul><!--menu-->
-	</li>
-	<li><a href="#" onclick="return false;">Company</a>
-		<ul class="menu">
-			<li><a href="http://www.qnx.com/company/">About_QNX</a></li>
-			<li><a href="http://www.qnx.com/company/hsm/">Hybrid software model</a>
-			</li><li><a href="http://www.qnx.com/news/">News center</a></li>
-			<li><a href="http://www.qnx.com/news/events.html">Events Schedule</a></li>
-			<li><a href="http://www.qnx.com/products/standards.html">Standards and Certifications</a></li>
-			<li><a href="http://www.qnx.com/company/distributors_resellers/distributor_index.html">Distributors and resellers</a></li>
-			<li><a href="/company/education/">QNX-in-education</a></li>
-			<li><a href="http://www.qnx.com/company/careers/">Careers</a></li>
-			<li id="noline"><a href="http://www.qnx.com/company/contact/">Contact us</a></li>
-		</ul><!--menu-->
-	</li>
-	<li id="nodrop"><a href="/company/contact/">Sales</a></li>
-</ul><!--navigation-->
-		<div class="clearme">&nbsp;</div>
-
-	</div><!--headerholder-->
-</div><!--header-->
-
-<div class="headclear">&nbsp;</div>
-
-<!-- end header -->
-
-<div class="container">
-	<!-- start crumbs -->
-<dl class="crumbs">
-	<dd><a href="http://www.qnx.com">Home</a></dd><dt>QNX Software Systems Privacy Statement</dt>
-</dl>
-<!-- end crumbs -->	<div class="bodyarea">
-
-		<!-- start section navigation -->
-				<!-- end section navigation -->
-		<!-- start banner -->
-				<!-- end banner -->
-
+<div class="wrapper">
+	
+	<a href="/"><img class="logo" src="/images/template/logo.gif" width="106" height="45" alt="QNX Software Systems" border="0"></a>
+	
+	<div class="identifier">
+		<h1>					Middleware,  development tools, realtime operating system<br>software and  services for superior embedded design
+				</h1>
+	</div>
+	<ul class="topright">
+		<li><a href="/index.html?lang=jp"><img align="bottom" src="/images/japan/japan_grey.gif" height="15" width="80" alt="Switch to Japanese Site" border="0"></a></li>
+		<li><a href="/account/login.html">Login</a></li>		<li><a href="/company/contact/">Sales</a></li>
+	</ul>
 		
-<!-- start banner -->
-
-		<div class="banner_level_2">
-		<script language="javascript">
-			if (AC_FL_RunContent == 0) 
-			{
-				alert("This page requires AC_RunActiveContent.js.");
-			} 
-			else 
-			{
-				AC_FL_RunContent(
-									'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0',
-									'width', '936',
-					'height', '145',
-					'src', '/style/_swf/level_2_banner',
-					'quality', 'high',
-					'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
-					'align', 'middle',
-					'play', 'true',
-					'loop', 'true',
-					'scale', 'showall',
-					'wmode', 'transparent',
-					'devicefont', 'false',
-					'id', 'level_2_banner',
-					'bgcolor', '#ffffff',
-					'name', 'level_2_banner',
-					'menu', 'true',
-					'allowFullScreen', 'false',
-					'allowScriptAccess','sameDomain',
-					'movie', '/style/_swf/level_2_banner',
-					'salign', '',
-					'flashvars', 'xmllocation=legal/privacy.xml&columns=1'
-					); //end AC code
-			}
-		</script><embed width="936" height="145" src="/style/_swf/level_2_banner.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" align="middle" play="true" loop="true" scale="showall" wmode="transparent" devicefont="false" bgcolor="#ffffff" name="level_2_banner" menu="true" allowfullscreen="false" allowscriptaccess="sameDomain" salign="" flashvars="xmllocation=legal/privacy.xml&amp;columns=1" type="application/x-shockwave-flash"> 
-		<noscript>
-			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="936" height="145" id="level_2_banner" align="middle">
-				<PARAM NAME="FlashVars" Value="xmllocation="legal/privacy.xml"&columns=1" >
-				<param name="allowScriptAccess" value="sameDomain" />
-				<param name="allowFullScreen" value="false" />
-				<param name="movie" value="/style/_swf/level_2_banner.swf" />
-				<param name="quality" value="high" />
-				<param name="wmode" value="transparent" />
-				<param name="bgcolor" value="#ffffff" />
-				<embed src="/style/_swf/level_2_banner.swf" quality="high" wmode="transparent" bgcolor="#ffffff" width="936" height="145" name="level_2_banner" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="xmllocation="legal/privacy.xml"&columns=1" />
-			</object>
-		</noscript>
+		
+	<br clear="all">
+	<div class="mainnav">
+	
+		<ul id="mainnav">
+			<li><a href="#" onclick="return false;">Products</a>
+				
+				<ul>
+					<li><a href="#" class="drop">Operating system</a>
+						
+						<ul>
+							<li><a href="/products/neutrino_rtos/">QNX Neutrino RTOS</a></li>
+							<li><a href="/products/neutrino_rtos/secure_kernel.html">QNX Neutrino secure kernel</a></li>
+							<li><a href="/products/neutrino_rtos/java/">Java</a></li>
+							<li><a href="/developers/qnx4/">QNX RTOS v4</a></li>
+						</ul>
+						
+					</li>
+					<li><a href="#" class="drop">Tools</a>
+						
+						<ul>
+							<li><a href="/products/tools/">QNX Momentics Tools Suite</a></li>
+						</ul>
+						
+					</li>
+					<li><a href="#" class="drop">Middleware</a>
+						
+						<ul>
+							<li><a href="/products/middleware/multimedia.html">QNX Aviage Multimedia Suite</a></li>
+							<li><a href="/products/middleware/accoustic_processing.html">QNX Aviage Acoustic Processing Suite</a></li>
+							<li><a href="/products/middleware/graphics/adv_graphics.html">Graphics</a></li>
+						</ul>
+						
+					</li>
+					<li><a href="#" class="drop">Standards</a>
+						<ul>
+							<li><a href="/products/standards.html">Standards + Certifications</a></li>
+						</ul>
+						
+					</li>
+				</ul>
+				
+			</li>
+			<li><a href="#" onclick="return false;">Support + Services</a>
+				
+				<ul id="supportdrop">
+					<li><a href="/support/index.html">Overview</a></li>
+					<li><a href="/support/support.html">Technical Support</a></li>
+					<li><a href="/support/training/">Training</a>
+					</li><li><a href="/support/prof_services/">Professional Services</a></li>
+					<li><a href="/support/auto_solutions_team.html">Automotive Solutions Team</a></li>
+					<li><a href="/account/techsupport/">Support Portal</a></li>
+				</ul>
+				
+			</li>
+			<li><a href="#" onclick="return false;">Markets</a>
+				
+				<ul>
+					<li><a href="/solutions/industries/automotive/">Automotive</a></li>
+					<li><a href="/solutions/industries/automation/">Control + Automation</a></li>
+					<li><a href="/solutions/industries/medical/">Medical</a></li>
+					<li><a href="/solutions/industries/netcom/">Networking + Telecom</a></li>
+					<li><a href="/solutions/industries/defense.html">Security + Defense</a></li>
+				</ul>
+				
+			</li>
+			<li><a href="#" onclick="return false;">Partners</a>
+				
+				<ul>
+					<li><a href="/partners/">Directory</a></li>
+					<li><a href="/partners/partner_network/">Program Benefits</a></li>
+					<!--<li><a href="/partners/partner_network/join.html">Become a partner</a></li>-->
+					<li><a href="/partners/partner_network/strategic/">Strategic Partners</a></li>
+				</ul>
+				
+			</li>
+			<li><a href="#" onclick="return false;">Community</a>
+				
+				<ul>
+					<li><a href="http://community.qnx.com/">Foundry27</a></li>
+					<li><a href="http://community.qnx.com/sf/sfmain/do/listProjects">Projects</a></li>
+					<li><a href="http://community.qnx.com/sf/wiki/do/viewPage/projects.bsp/wiki/BSPAndDrivers">BSPs + Drivers Directory</a></li>
+					<li><a href="/community/blog.html">Blogs</a></li>
+					<li><a href="/community/forums.html">Forums</a></li>
+				</ul>
+				
+			</li>
+			<li><a href="#" onclick="return false;">Company</a>
+				
+				<ul>
+					<li><a href="/company/">About QNX</a></li>
+					<li><a href="/company/hsm/">Hybrid Software Model</a>
+					</li><li><a href="/news/">News Center</a></li>
+					<li><a href="/news/events.html">Events Schedule</a></li>
+					<li><a href="/products/standards.html">Standards + Certifications</a></li>
+					<li><a href="/company/industry_awards.html">Industry Awards</a></li>
+					
+					<li><a href="/company/distributors_resellers/distributor_index.html">Distributors + resellers</a></li>
+					<li><a href="/company/education/">QNX-in-Education</a></li>
+					<li><a href="/company/careers/">Careers</a></li>
+					<li><a href="/company/contact/">Contact Us</a></li>
+				</ul>
+				
+			</li>
+			<li><a href="#" onclick="return false;">Downloads</a>
+				
+				<ul>
+					<li><a href="/download/">All</a></li>
+					<li><a href="/download/group.html?programid=18770">QNX SDP 6.4</a>
+					</li><li><a href="/bsp_menu.html">BSP directory</a></li>
+					<li><a href="/download/group.html?programid=17240">Middleware</a></li>
+					<li><a href="/download/group.html?programid=7993">QNX RTOS 4.x</a></li>
+				</ul>
+			
+		</li></ul>
+<!--end navigation-->	
+		<form name="searchform" action="/search/"><input id="searchbox" name="q" type="search" value="Search" onclick="setSearch();"></form>
+		
+		<div style="clear:both; visibility: hidden; height: 1px; overflow: hidden;">&nbsp;</div>
+		
+	</div><!--nav-->
+	
+	
+	
+	<div class="titlearea">
+		<!-- start crumbs -->
+<dl class="crumbs">
+	<dd><a href="http://www.qnx.com">Home</a></dd><dd>QNX Software Systems Privacy Statement</dd><dt>QNX Software Systems Privacy Statement</dt>
+</dl>
+<!-- end crumbs -->		
+		<h1>QNX Software Systems Privacy Statement</h1>
+		
 		</div>
-	<!-- end banner -->
+	
+	<dl class="sectionnav">
+	<dd>&nbsp;</dd>
+					
+</dl>
 
-<div class="singlecolumn">
-<!-- end header -->
-
+	
+	<div class="widetext">
 <h3>General</h3>
   <p style="margin:0in;margin-bottom:.0001pt">QNX Software Systems
   International Corporation and members of the QNX Software Systems Group (as
@@ -539,16 +523,11 @@
 
 <!-- start footer -->
 		
+		</div><!--textarea--> 		
 				
-		</div><!--leftcolumn-->
-		
-				
-		<div class="clearme">&nbsp;</div>
-		
-				
-	</div><!--bodyarea-->
-</div><!--container-->
+		</div><!--wrapper-->
 
+<div style="clear:both;height: 1px; overflow:hidden;">&nbsp;</div>
 <div class="footerwrapper">
 	<div class="footer">
 		
@@ -559,6 +538,7 @@
 		<ul class="footright">
 			<li><a href="/legal/web_terms.html">Legal</a></li>
 			<li><a href="/legal/licensing/">Licensing</a></li>
+
 			<li><a href="/legal/privacy_statement.html">Privacy</a></li>
 			<li><a href="/company/contact/">Contact</a></li>
 		</ul><!--footright-->
@@ -566,13 +546,7 @@
 		<div class="clearme">&nbsp;</div>
 		
 	</div><!--footer-->
-</div><!--footerwrapper-->
-
-
-
-
-
-
+</div>
 
 
 </body></html>
