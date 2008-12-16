@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217010409id_/http%3A//www.timeatlas.com/mos/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153337id_/http%3A//www.timeatlas.com/mos/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Productivity Portfolio
 
 This privacy statement covers the practices used for [WWW.TIMEATLAS.COM](http://www.timeatlas.com/).
 
@@ -16,23 +16,25 @@ _**Orders**_
 
 Some of our written content may be sold such as specific research reports. Our payment processor, PayPal, requests additional information from each purchaser. You must provide contact information (such as name and email) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill the order. If we have trouble processing an order, the information is used to contact you. **We do not have access to your PayPal financial data.**
 
-_**Weekly Email Updates**_
+_**Email Updates** _
 
-We also use the services of Zookoda to deliver our weekly email updates. Although we initiate the updates, the subscriber's email addresses are kept on their secure servers. A user may unsubscribe from the service by clicking the link on the update emails. We also have the ability to remove an email subscriber if needed.
+We also use the services of FeedBurner to deliver our email updates. Although we initiate the updates, the subscriber's email addresses are kept on their secure servers. A user may unsubscribe from the service by clicking the link on the update emails.   
+
 
 ### Information Use
 
-_**Cookies**_
+_**Cookies** _
 
 A cookie is a small piece of data stored on your computer from our website. These cookies are created by our content management system. Although we no longer use a paid membership model, the content management system still has a membership model. For example, as the site administrator, I still have a login and password. We also wrote an [article on browser cookie basics and their uses on the web](http://www.timeatlas.com/mos/Term_to_Learn/General/Browser_Cookie_Basics/ "Basic article defining what are browser cookies") if you want more information.   
 
 
-Our system will also set cookies based on your preferences. For example, our template allows you to change your font size and screen width. These items are controlled by cookies. If you delete these cookies, you will have to reset your preferences.
+Our system may set cookies based on your preferences. For example, our template allows you to change your font size and screen width. These items are controlled by cookies. If you delete these cookies, you will have to reset your preferences.
 
-We're also experimenting with various affiliates who may set their own cookies. These ads generally appear on the right side of a page, but that may change. The affiliates and location may change based on their performance. The purpose of these cookies is to identify timeatlas.com as the referring source so I'm properly compensated if you decide to purchase their products. In other words, I'm indirectly paid by these people.   
+We're also experimenting with various affiliates who may set their own cookies. These ads generally appear on the right side of a page, but that may change. The affiliates and location may change based on their performance. The purpose of these cookies is to identify timeatlas.com as the referring source so I'm properly compensated if you decide to purchase their products. In other words, I'm indirectly paid by these people. Periodically, we show affiliate ads for: Audible, FranklinCovey, Rosetta Software , Stamps.com and Staples.
 
+Some of our advertising partners such as Google may place cookies or web beacons in the course of serving ads to this site. 
 
-Periodically, we show affiliate ads for: Audible, FranklinCovey, Rosetta Software , Stamps.com and Staples. 
+ ****
 
 ## If you use Firefox, you can view the contents for the cookies our site sets.
 
@@ -85,9 +87,9 @@ If you elect to use our referral service by emailing a friend an article link, w
 
 ### Security
 
-This Web site takes every precaution to protect your information. We have chosen a payment vendor that utilizes SSL. When a product order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with SSL encryption software by our payment vendor. While on a secure page, such as the payment form, the lock icon on the bottom of Web browsers becomes locked, as opposed to unlocked.
+This Web site takes precautions to protect your information. We have chosen a payment vendor that utilizes SSL. When a product order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with SSL encryption software by our payment vendor. While on a secure page, such as the payment form, the lock icon on the bottom of Web browsers becomes locked, as opposed to unlocked.
 
-While we require our payment vendor to use SSL encryption to protect sensitive information online, we also protect user-information off-line. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job or service are granted access to personally identifiable information.
+While we require our payment vendor to use SSL encryption to protect sensitive information online, we also protect user information off-line. Our users' information is restricted to our office. Only people who need the information to perform a specific job or service are granted access to personally identifiable information.
 
 ### Correcting/Updating/Deleting/Deactivating Personal Information
 
