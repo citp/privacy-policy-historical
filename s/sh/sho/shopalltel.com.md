@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopalltel.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612090514id_/http%3A//www.shopalltel.com/brands/alltel_fulfillment/about/privacy.htm%3Fpopup%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopalltel.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162728id_/http%3A//www.shopalltel.com/brands/alltel_fulfillment/about/privacy.htm%3Fpopup%3D1) for the most accurate reproduction.*
 
 # Shop Alltel
 
