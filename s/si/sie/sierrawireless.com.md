@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sierrawireless.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530073332id_/http%3A//www.sierrawireless.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierrawireless.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031220id_/http%3A//www.sierrawireless.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
-# Sierra Wireless
+# Sierra Wireless Inc. (sierrawireless.com) - Privacy
 
-| |   
----  
-Company  
+| Company  
   
 [About Sierra Wireless](https://web.archive.org/corporate/default.aspx)
 
@@ -18,15 +16,20 @@ Company
 [Financial Information](https://web.archive.org/corporate/investors.aspx)  
 [Corporate Presentations](https://web.archive.org/corporate/presentations.aspx)  
 [Stock](http://finance.yahoo.com/q/bc?s=SWIR&t=5d)  
-[Corporate Governance](https://web.archive.org/web/20080530073332id_/http%3A//www.sierrawireless.com/corporate/investors.aspx)
+[Corporate Governance](https://web.archive.org/web/20081216031220id_/http%3A//www.sierrawireless.com/corporate/investors.aspx)
 
 [Branding and Trademarking](https://web.archive.org/corporate/brandinguidelines.aspx)
 
   
-**News Flash**
-
-[](https://web.archive.org/newsrss/news2rss.ashx) [Subscribe to Sierra Wireless Inc. Newsfeed](https://web.archive.org/news_events/rss.aspx)  
+**News Flash**   
+[](https://web.archive.org/newsrss/news2rss.ashx) [Subscribe to Sierra Wireless Inc. Newsfeed](https://web.archive.org/news_events/rss.aspx)   
   
+**Online Store**
+
+[](https://web.archive.org/eStore)
+
+| 
+
   
 
 
@@ -129,3 +132,6 @@ If you have questions or concerns about our collection, use, or disclosure of yo
 
   
 
+
+|   
+---|---|---
