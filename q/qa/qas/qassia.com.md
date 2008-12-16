@@ -1,10 +1,19 @@
-> *The following text is extracted and transformed from the qassia.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609045751id_/http%3A//www.qassia.com/mama.pl%3Fa%3Dp%26p%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qassia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165814id_/http%3A//admin.qassia.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy - Qassia
 
-Find out more about Qassia by reading our [About Us](https://web.archive.org/web/20080609045751id_/http%3A//www.qassia.com/mama.pl?a=p&p=about) page, if you haven't done so already. 
+Find out more about Qassia by reading our [About Us](http://admin.qassia.com/about) page, if you haven't done so already. Or you could skip straight to the [Sign Up form](http://www.qassia.com/mama.pl?a=signup). 
 
-|  |  This privacy policy pertains to the use of the Qassia Web site at http://www.qassia.com/ (hereinafter referred to as "Qassia"), and describes our policy regarding the handling of user-specific information. 
+| Users|  **25,093**  
+---|---  
+Intel|  **36,804**  
+Sites|  **6,875**  
+  
+
+
+Not a member yet? You're missing out on one of the most powerful website promotion resources on the web. [Sign up](http://www.qassia.com/mama.pl?a=signup) and join the party. 
+
+|  This privacy policy pertains to the use of the Qassia Web site at http://www.qassia.com/ (hereinafter referred to as "Qassia"), and describes our policy regarding the handling of user-specific information. 
 
 **Information Gathered**
 
@@ -50,16 +59,3 @@ Qassia will make utmost efforts to protect the integrity of the data held by Qas
 **Exceptions**
 
 In case where Qassia has been subject to abuse by the user, or the user has harmed another user or an unidentified party, or the user has violated the Terms of Service, Qassia may cooperate with the relevant authorities and/or unilaterally publicize information, as deemed appropriate. However, Qassia will never immediately divulge private information without first attempting to resolve the issue in question directly with the user. 
-
-[About Qassia](http://www.qassia.com/mama.pl?a=p&p=about) \- What is Qassia about? What can Qassia do for you?  
-[Share Your Intel](http://www.qassia.com/mama.pl?a=p&p=intel) \- What we mean with intelligence and why we need it from you.   
-[Frequently Asked Questions](http://www.qassia.com/mama.pl?a=p&p=faq) \- Long list of some anticipated questions, and answers.   
-[Ad Revenue Sharing](http://www.qassia.com/mama.pl?a=p&p=revenue) \- Details about how we give you advertising revenue.   
-[When Momentum Beats Relevance](http://www.qassia.com/mama.pl?a=p&p=tougher) \- Why promoting a site is hard and how Qassia can help.  
-[The Sweatshop in the Digital Age](http://www.qassia.com/mama.pl?a=p&p=useless) \- Why there is something seriously wrong with the web.  
-[Watch the Dollars Pile Up!](http://www.qassia.com/mama.pl?a=p&p=earning) \- How to earn lots of Qassia dollars very easily.   
-[How to Promote Your Websites on Qassia](http://www.qassia.com/mama.pl?a=p&p=howto) \- How to get the most out of Qassia, quickly and easily.   
-[The Qassia Directory](http://www.qassia.com/mama.pl?a=p&p=directory) \- Why our directory represents a milestone in the evolution of the Internet  
-  
-  
----|---|---
