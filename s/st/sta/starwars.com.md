@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622113514id_/http%3A//www.starwars.com/welcome/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160254id_/http%3A//www.starwars.com/privacy) for the most accurate reproduction.*
 
-# Star Wars: Welcome | Privacy Policy
+# StarWars.com | Privacy Policy
 
-|  [](https://web.archive.org/welcome/)  
-
-
-|  |  | 
-
-Privacy Policy
-
-| | 
-
-**Lucas Online**
-
- **WELCOME!**
+**Lucas Online** **WELCOME!**
 
 We are committed to respecting the privacy rights of all visitors to our Web site. This Privacy Policy also explains the choices that you can make about the way your information is collected and used. It is available for you to review on our homepage and at least on every page where we have requested personally identifiable information, including from kids under 13. BY USING THIS WEB SITE, YOU SIGNIFY YOUR ASSENT TO THE TERMS OF THIS PRIVACY POLICY. If you do not agree with any term in this Privacy Policy, do not use this Web site. 
 
@@ -175,7 +164,7 @@ P.O. Box 29901
 San Francisco, CA 94129-0901  
 Attn: Webmaster  
 (415) 623-1113  
-[webmaster@starwars.com](mailto:%20webmaster@starwars.com)
+[webmaster@starwars.com](mailto:webmaster@starwars.com)
 
 Or [click here](https://web.archive.org/webapps/registration/feedback/) to submit your question or request online. 
 
@@ -197,22 +186,12 @@ P.O. Box 29901
 San Francisco, CA 94129-0901  
 Attn: Webmaster  
 (415) 623-1113  
-[webmaster@starwars.com](mailto:%20webmaster@starwars.com)
+[webmaster@starwars.com](mailto:webmaster@starwars.com)
 
 Or [click here](https://web.archive.org/webapps/registration/feedback/) to submit your questions online. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact the TRUSTe Watchdog Dispute Resolution Program at: <http://www.truste.org/consumers/watchdog_complaint.php>. 
 
-TRUSTe will serve as a liaison with our Website to resolve your concerns. For additional information about our Web site, please see our [Terms of Use](https://web.archive.org/welcome/about/copyright.html). To see our third party service providers and/or partners or operators who may collect cookies from this website, please view the Privacy Policy: Appendix A, by [clicking here](https://web.archive.org/welcome/about/privacy_policy_a.html). Thanks. Have fun! Back to start of Our Privacy Policy. 
+TRUSTe will serve as a liaison with our Website to resolve your concerns. For additional information about our Web site, please see our [Terms of Use](https://web.archive.org/welcome/about/copyright.html). To see our third party service providers and/or partners or operators who may collect cookies from this website, please view the Privacy Policy: Appendix A, by [clicking here](https://web.archive.org/privacy/index_a.html). Thanks. Have fun! Back to start of Our Privacy Policy. 
 
 © 2020 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved. 
 
-Effective Date: 03/05/07 
-
-|    
----|---|---  
-  
-|   
-  
-  
-
-
-© Lucasfilm 2020. All rights reserved. | [Terms of Use](https://web.archive.org/welcome/about/copyright.html) | [Privacy Policy](https://web.archive.org/welcome/about/privacy_policy.html) | [Business inquiries](https://web.archive.org/welcome/about/privacy_policy_a.html)
+Effective Date: 03/05/07
