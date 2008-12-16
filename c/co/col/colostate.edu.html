@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the colostate.edu privacy policy that was archived on 2008-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080612152938id_/http%3A//www.colostate.edu/info-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the colostate.edu privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216024617id_/http%3A//www.colostate.edu/info-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy of Colorado State University - Fort Collins
@@ -16,6 +16,7 @@
 		google.load("jquery", "1");
 	</script>
 	<script type="text/javascript">
+	<!--
 	$(document).ready(function(){
 		//*/sets captioned-photo widths
 		$('.captioned-photo-right img, .captioned-photo-left img, .captioned-video-right div, .captioned-video-left div').each(function(index){
@@ -32,6 +33,28 @@
 		$(".icon-image").attr({title:"Image File"});
 		$(".icon-story").attr({title:"Further Reading"});
 		//*/
+		
+		$('a').each(function() {
+			var $a = $(this);
+			var href;
+			if($a.attr('href')){
+				href = $a.attr('href');
+			} else {
+				href = "";
+			}
+		 
+			// see if the link is external
+			if ( (href.match(/^http/)) && (! href.match(document.domain)) ) {
+		 
+				// if so, add the tracking code
+				$a.click(function() {
+					urchinTracker('/outgoing/' + href);
+					//alert('/outgoing/' + href);
+					//return false;
+				});
+			}
+		 
+		});
 	});
 	$(window).load(function(){
 		//*/sets captioned-photo widths
@@ -40,6 +63,7 @@
 		});
 		//*/
 	});
+	-->
 	</script>
 </head>
 <body>
@@ -156,18 +180,19 @@
 					<dd><a href="http://www.ramweb.colostate.edu">Current Students (RAMweb)</a></dd>
 					<dd><a href="http://www.parentsandfamily.colostate.edu">Parents &amp; Family</a></dd>	
 					<dd><a href="http://www.facultyandstaff.colostate.edu">Faculty &amp; Staff</a></dd>
-					<dd><a href="/friends.aspx">Visitors &amp; Friends</a></dd>
+					<dd><a href="/visiting-campus.aspx">Visiting Campus</a></dd>
 				<dt class="replace">Our University</dt>
 					<dd><a href="/about.aspx">About Us</a></dd>
+					<dd><a href="http://www.green.colostate.edu">The Green University</a></dd>
 					<dd><a href="http://www.president.colostate.edu/administration.aspx">Administration</a></dd>
 					<dd><a href="/academics.aspx">Academics</a></dd>
+					<dd><a href="http://lib.colostate.edu">Libraries</a></dd>
 					<dd><a href="http://vpr.colostate.edu">Research</a></dd>
 					<dd><a href="/outreach.aspx">Extension &amp; Outreach</a></dd>
 					<dd><a href="http://www.giving.colostate.edu">Giving to CSU</a></dd>
 				<dt class="replace">Resources</dt>
 					<dd><a href="http://www.today.colostate.edu">Today @ Colorado State</a></dd>
 					<dd><a href="http://events.colostate.edu">Events &amp; Calendars</a></dd>
-					<dd><a href="http://lib.colostate.edu">Libraries</a></dd>
 					<dd><a href="http://www.newsinfo.colostate.edu">News &amp; Media</a></dd>
 					<dd><a href="http://www.rampoint.colostate.edu">RamPoint Portal</a></dd>
 					<dd><a href="/jobs.aspx">Employment Services</a></dd>
@@ -192,7 +217,7 @@
                     <li><a href="/info-disclaimer.aspx">Disclaimer</a></li>
                     <li><a href="/info-equalop.aspx">Equal Opportunity</a></li>
                     <li class="nobar"><a href="/info-privacy.aspx">Privacy Statement</a></li>
-					<li class="nobar"><span class="hide">1174</span></li>
+					<li class="nobar"><span class="hide">2846</span></li>
               	</ul>
                 <ul class="campuses">
                 	<li><a href="http://www.colostate-pueblo.edu">Colorado State University-Pueblo</a></li>
@@ -203,7 +228,7 @@
                 </ul>
             </div>
         	<div style="float: right; width: 280px;">
-                <p>© 2007 Colorado State University<br>Fort Collins, Colorado 80523 USA</p>
+                <p>© 2008 Colorado State University<br>Fort Collins, Colorado 80523 USA</p>
             </div>
         </div>
     </div> <!-- end #footersdfsdfdsfs -->	
