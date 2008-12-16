@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the junodownload.com privacy policy that was archived on 2007-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071117032244id_/http%3A//www.junodownload.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junodownload.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024530id_/http%3A//www.junodownload.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Help » Privacy Policy
-
-[Home](http://www.junodownload.com/) » [Help](http://www.junodownload.com/help/) » Privacy Policy
 
 **Our policy**  
 Juno Download takes the privacy of its customers very seriously, and will only collect information in order to fulfill customer orders and (if requested by the customer) to provide information via our e-mail new release lists. We never send unsolicited e-mails to customers, and we do not sell mailing lists or customer information to any other companies or individuals. 
