@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abajournal.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616211920id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abajournal.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216065207id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement for ABAnet.org - American Bar Association
 
@@ -28,7 +28,7 @@ For some e-mails distributed by the ABA and its Sections, specific information o
 
 ## The ABA's Support Level Agreement
 
-The ABA is committed to providing 100 percent availability of its Internet site(s) and email aliasing service. We have implemented safeguards and alarms to notify us in the event of loss of Internet connectivity to the backbone and of hardware failures. Even with these safeguards in place, loss of connectivity or hardware failure can still occur. For this reason, the ABA cannot "guarantee" its Internet connectivity, nor can we be responsible for lost or delayed requests, email, or content. 
+The ABA is committed to providing 100 percent availability of its Internet site(s). We have implemented safeguards and alarms to notify us in the event of loss of Internet connectivity to the backbone and of hardware failures. Even with these safeguards in place, loss of connectivity or hardware failure can still occur. For this reason, the ABA cannot "guarantee" its Internet connectivity, nor can we be responsible for lost or delayed requests, email, or content. 
 
 For questions regarding our web site being down or any related service outage, please send an email to [help@abanet.org](mailto:help@abanet.org). 
 
