@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619050951id_/http%3A//www.irishjobs.ie./about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015646id_/http%3A//www.irishjobs.ie/about/privacy.asp) for the most accurate reproduction.*
 
 # Irish Jobs - Irish Jobs Privacy Policy
 
@@ -19,7 +19,8 @@ Information we collect
 IrishJobs.ie Services  
 Copyright Statement  
 Changes to our Privacy Policy  
-Contact Information
+Contact Information  
+Horizon Users
 
 ## Sites Covered by this Privacy Policy
 
@@ -78,7 +79,7 @@ IrishJobs.ie vacancy advertising clients are given the option to have a profile 
 
 Some IrishJobs.ie clients are advertised on site under featured employer member pages; which means IrishJobs.ie host a number of their web pages on our server to provide users with an experience similar to the recruiter's own website. 
 
-For example: [Pinewood](https://web.archive.org/clients/featured_employer.asp?URL=pinewood/index.asp?Title=Pinewood). There are featured links on these member pages, which when accessed you will leave the IrishJobs.ie domain. 
+There are featured links on these member pages, which when accessed you will leave the IrishJobs.ie domain. 
 
 _**My Career Manager**_
 
@@ -90,7 +91,14 @@ My Career Manager is a facility on IrishJobs.ie for jobseekers to set up their i
   * **CVs**   
 Jobseekers may decide to register their CV in our database, through My Career Manager. Users can choose to make their CV searchable for inclusion in our CV database product. This product allows your CV to be viewed by recruiters who have subscribed to this service. It also means that you can attach your CV to your online job application(s).
 
-To store your CV in the database you **must** remove confidential details such as your contact information and references. Recruiters will contact you via IrishJobs.ie if they have a position that matches your experience and requirements. They will provide their company name, contact details and a job description enabling you to follow up with them **directly**. We endeavour to grant access to the CV database only to recruiters who agree to abide by our Terms and Conditions. However, should a third party gain access to your CV by evading our security measures, we cannot be held responsible.
+You may choose from the following options when uploading your CV 
+
+**Keep CV Private** – Select this option is you wish to store your CV in your Career Manager account but don't want recruiters to find your CV.   
+Employers can contact you if you choose to make your CV searchable. You have 2 options when making your CV searchable.  
+**Allow recruiters to search this CV** ( _Hide details_ ) Select this option if you want recruiters to find your CV but wish to keep your contact details private. Recruiters can contact you via IrishJobs.ie if they have a position that matches your selected criteria.   
+**Allow recruiters to search this CV** ( _Show details_ ) Select this option if you want recruiters to find your CV and relevant contact details. Recruiters will be able to contact you by phone or by email should a position arise that matches your experience and requirements. 
+
+We endeavour to grant access to the CV database only to recruiters who agree to abide by our [Terms and Conditions](https://web.archive.org/web/20081216015646id_/http%3A//www.irishjobs.ie/about/terms.asp). However, should a third party gain access to your CV by evading our security measures, we cannot be held responsible. 
 
 You may remove your CV from our database at any time. However, recruiters who have already accessed your CV may have kept a copy of it in their own files. Please note that we cannot be held responsible for the retention, use, or privacy of your CV in these instances.
 
@@ -134,5 +142,11 @@ The Malt House
 Grand Canal Quay   
 Dublin 2   
 Ireland 
+
+return to top
+
+## Horizon users
+
+Jobseekers who are subscribed to Horizon – the outplacement service from IrishJobs.ie, may opt to have their CV professionally edited by an external CV editing company. When you submit your CV for editing through Horizon, it is received **directly** by the editing company. By forwarding your information to the CV editing company, IrishJobs.ie understands that it is your decision to disclose this information to a third party and acknowledge that the third party is not covered by the IrishJobs.ie Privacy Policy.
 
 return to top
