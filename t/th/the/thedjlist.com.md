@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610131720id_/http%3A//www.thedjlist.com/corporate/legal.php%3FsecID%3DLegal%26secOne%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014635id_/http%3A//www.thedjlist.com/corporate/legal.php%3FsecID%3DLegal%26secOne%3DPrivacy) for the most accurate reproduction.*
 
 # The DJ List: Corporate: Privacy
 
@@ -6,7 +6,7 @@
 
 * * *
 
-[Terms of Use](https://web.archive.org/web/20080610131720id_/http%3A//www.thedjlist.com/corporate/legal.php?secID=Legal) | **Privacy**
+[Terms of Use](https://web.archive.org/web/20081216014635id_/http%3A//www.thedjlist.com/corporate/legal.php?secID=Legal) | **Privacy**
 
   1. What personally identifiable information is collected from you
   2. What are cookies and how are they used
