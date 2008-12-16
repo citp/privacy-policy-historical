@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the dotnetcurry.com privacy policy that was archived on 2008-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080505034339id_/http%3A//www.dotnetcurry.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotnetcurry.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216054429id_/http%3A//www.dotnetcurry.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><meta name="description" content="The site covers technical articles on Microsoft.NET, ASP.NET, C#, VB.NET, WinForms and related technologies"><meta name="keywords" content="ASP.NET 2.0, ASP.NET 3.5, .NET Interview Questions, Windows Vista, Word 2007, Outlook 2007, Office 2007, Expression Studio, Expression Web, VSTS, Team System, C#, VB.NET, WinForms, Windows Forms, ASP.NET AJAX, Sql Server, Technology News"><meta name="copyright" content="Copyright © 2008 dotnetcurry.com"><meta name="author" content="Suprotim Agarwal"><meta name="language" content="English"><meta name="verify-v1" content="Tm82h3UxQzm3pwChS26K2o7H9InN0VfUt+RTDZH583M="><meta name="blogcatalog" content="9BC8750802"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><meta name="description" content="The site covers technical articles on Microsoft.NET, ASP.NET, C#, VB.NET, WinForms and related technologies"><meta name="keywords" content="ASP.NET 2.0, ASP.NET 3.5, Silverlight, .NET Interview Questions,  Windows Vista, Word 2007, Outlook 2007, Office 2007, Expression Studio, Expression Web, VSTS, Team System, C#, VB.NET, WinForms, Windows Forms, ASP.NET AJAX, Sql Server, Technology News"><meta name="copyright" content="Copyright © 2008 dotnetcurry.com"><meta name="author" content="Suprotim Agarwal"><meta name="language" content="English"><meta name="verify-v1" content="Tm82h3UxQzm3pwChS26K2o7H9InN0VfUt+RTDZH583M="><meta name="blogcatalog" content="9BC8750802"><title>
 	.NET Curry - Privacy Policy
 </title>
     <script type="text/javascript">
@@ -30,11 +30,12 @@
             if ((screen.width>=1024) && (screen.height>=768))
             {
                 //window.document.getElementById('banner1').style.visibility = 'visible';
+                //window.document.getElementById('banner1').style.left = '530px';
             }
-//            else
-//            {
-//              window.document.getElementById('banner2').style.visibility = 'visible';
-//            }
+            else
+            {
+              //window.document.getElementById('banner2').style.visibility = 'visible';
+            }
         }
         
         function HeaderMenu()
@@ -46,7 +47,45 @@
                 window.document.getElementById('footertext').style.textAlign = '-moz-center';
                 }
         }
-        window.onload = function() { AdjustColumnsHeight(); ScreenResolution();HeaderMenu();}   
+        
+        function addLoadEvent(fn)
+        {
+//            if (window.addEventListener)
+//                window.addEventListener('load', fn, false)
+//            else if (window.attachEvent)
+//                window.attachEvent('onload', fn);
+             var oldonload = window.onload;
+              if (typeof window.onload != 'function') {
+                window.onload = func;
+              } else {
+                window.onload = function() {
+                  if (oldonload) {
+                    oldonload();
+                  }
+                  func();
+                }
+              }
+        }
+
+        function AddDotNetKicks()
+        {
+            var insertLocation = document.getElementById('postToolbar');
+            if(insertLocation)
+            {        
+                //var currentPageUrl = document.location.protocol + "//" + document.location.host + document.location.pathname + document.location.search;
+                var currentPageUrl = "http://www.dotnetcurry.com/ShowArticle.aspx" + document.location.search;
+                var dotnetkicksLink = document.createElement('a');
+                dotnetkicksLink.href = 'http://www.dotnetkicks.com/kick/?url=' + currentPageUrl;
+                var dotnetkicksImg = document.createElement('IMG');
+                dotnetkicksImg.src = 'http://www.dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=' + currentPageUrl;
+                dotnetkicksImg.border = 0;
+                dotnetkicksLink.appendChild(dotnetkicksImg);
+                insertLocation.appendChild(dotnetkicksLink);
+                alert(dotnetkicksLink);
+            }
+        }
+        
+        window.onload = function() { AdjustColumnsHeight(); ScreenResolution();HeaderMenu();addLoadEvent(AddDotNetKicks());}   
     /* ]]> */       
     </script>
     <script type="text/javascript">
@@ -58,20 +97,24 @@ var pageTracker = _gat._getTracker("UA-2417460-4");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<link href="App_Themes/TemplateMonster/Default.css" type="text/css" rel="stylesheet"><meta name="keywords" content="Microsoft C# 2.0, C# 3.0, VSTS, .NET Framework 3.0, ASP.NET 2.0, ASP.NET Futures, LINQ, WPF, WCF, WF, Windows Presentation Foundation, Windows Communication Foundation, Windows Workflow, Microsoft Expression Web, Microsoft Expression Blend, Outlook 2007, Word 2007, Excel 2007, Interview Questions,"></head>
+<link href="App_Themes/TemplateMonster/Default.css" type="text/css" rel="stylesheet"><meta name="keywords" content="Microsoft C# 2.0, C# 3.0, VSTS, Silverlight 2, .NET Framework 3.0, ASP.NET 2.0, ASP.NET Futures, LINQ, WPF, WCF, WF, Windows Presentation Foundation, Windows Communication Foundation, Windows Workflow, Microsoft Expression Web, Microsoft Expression Blend, Outlook 2007, Word 2007, Excel 2007, Interview Questions,"></head>
 
 <body>
 <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
 <input type="hidden" name="__WPPS" id="__WPPS" value="s">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYKAgEPPCsADQIADxYCHgtfIURhdGFCb3VuZGdkDBQrAAIFAzA6MBQrAAIWDh4EVGV4dAUESG9tZR4FVmFsdWUFBEhvbWUeC05hdmlnYXRlVXJsBQ0vRGVmYXVsdC5hc3B4HgdFbmFibGVkZx4KU2VsZWN0YWJsZWceCERhdGFQYXRoBQ0vZGVmYXVsdC5hc3B4HglEYXRhQm91bmRnFCsABQUPMDowLDA6MSwwOjIsMDozFCsAAhYOHwEFCEFydGljbGVzHwIFCEFydGljbGVzHwMFFC9TaG93Q2F0ZWdvcmllcy5hc3B4HwRnHwVnHwYFFC9zaG93Y2F0ZWdvcmllcy5hc3B4HwdnZBQrAAIWDh8BBQxXcml0ZSBGb3IgVXMfAgUMV3JpdGUgRm9yIFVzHwMFEC9Xcml0ZUZvclVzLmFzcHgfBGcfBWcfBgUQL3dyaXRlZm9ydXMuYXNweB8HZ2QUKwACFg4fAQUFQWJvdXQfAgUFQWJvdXQfAwULL0Fib3V0LmFzcHgfBGcfBWcfBgULL2Fib3V0LmFzcHgfB2dkFCsAAhYOHwEFB0NvbnRhY3QfAgUHQ29udGFjdB8DBQ0vQ29udGFjdC5hc3B4HwRnHwVnHwYFDS9jb250YWN0LmFzcHgfB2dkZAIDD2QWAgILDw8WAh4HVmlzaWJsZWhkFgICAQ8PFgIfAQUfU3dpdGNoIFNjb3BlIChjdXJyZW50ID0gU2hhcmVkKWRkAjMPZBYCZg9kFgICAQ9kFgJmD2QWAgINDxAPFgIeB0NoZWNrZWRoZGRkZAI1D2QWAgIFDzwrAAkCAA8WBB4NTmV2ZXJFeHBhbmRlZGQfAGdkCBQrAAIFAzA6MBQrAAIWCB4MU2VsZWN0QWN0aW9uCyouU3lzdGVtLldlYi5VSS5XZWJDb250cm9scy5UcmVlTm9kZVNlbGVjdEFjdGlvbgMfBgUkMGNmNjQyNTMtY2IyMy00ZjgxLTkyNjMtZjc0YTQxMjA1NzkyHwdnHghFeHBhbmRlZGcUKwAOBTYwOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3LDA6OCwwOjksMDoxMCwwOjExLDA6MTIUKwACFgwfAQURV2luZG93cyBGb3JtcyAyLjAfAgURV2luZG93cyBGb3JtcyAyLjAfAwUdL0Jyb3dzZUFydGljbGVzLmFzcHg/Q2F0SUQ9NDcfBgUdL2Jyb3dzZWFydGljbGVzLmFzcHg/Y2F0aWQ9NDcfB2cfDGdkFCsAAhYMHwEFE0FTUC5ORVQgMi4wIGFuZCAzLjUfAgUTQVNQLk5FVCAyLjAgYW5kIDMuNR8DBR0vQnJvd3NlQXJ0aWNsZXMuYXNweD9DYXRJRD01NB8GBR0vYnJvd3NlYXJ0aWNsZXMuYXNweD9jYXRpZD01NB8HZx8MZ2QUKwACFgwfAQUMQVNQLk5FVCBBSkFYHwIFDEFTUC5ORVQgQUpBWB8DBR0vQnJvd3NlQXJ0aWNsZXMuYXNweD9DYXRJRD01OR8GBR0vYnJvd3NlYXJ0aWNsZXMuYXNweD9jYXRpZD01OR8HZx8MZ2QUKwACFgwfAQUGQyMgMi4wHwIFBkMjIDIuMB8DBR0vQnJvd3NlQXJ0aWNsZXMuYXNweD9DYXRJRD01NR8GBR0vYnJvd3NlYXJ0aWNsZXMuYXNweD9jYXRpZD01NR8HZx8MZ2QUKwACFgwfAQUTSW50ZXJ2aWV3IFF1ZXN0aW9ucx8CBRNJbnRlcnZpZXcgUXVlc3Rpb25zHwMFHS9Ccm93c2VBcnRpY2xlcy5hc3B4P0NhdElEPTU4HwYFHS9icm93c2VhcnRpY2xlcy5hc3B4P2NhdGlkPTU4HwdnHwxnZBQrAAIWDB8BBQpTcWwgU2VydmVyHwIFClNxbCBTZXJ2ZXIfAwUdaHR0cDovL3d3dy5zcWxzZXJ2ZXJjdXJyeS5jb20fBgUdaHR0cDovL3d3dy5zcWxzZXJ2ZXJjdXJyeS5jb20fB2cfDGdkFCsAAhYOHwEFBFZTVFMfAgUEVlNUUx8DBR0vQnJvd3NlQXJ0aWNsZXMuYXNweD9DYXRJRD02MB4HVG9vbFRpcAUZVmlzdWFsIFN0dWRpbyBUZWFtIFN5c3RlbR8GBR0vYnJvd3NlYXJ0aWNsZXMuYXNweD9jYXRpZD02MB8HZx8MZ2QUKwACFgwfAQUORXhwcmVzc2lvbiBXZWIfAgUORXhwcmVzc2lvbiBXZWIfAwUdL0Jyb3dzZUFydGljbGVzLmFzcHg/Q2F0SUQ9NDgfBgUdL2Jyb3dzZWFydGljbGVzLmFzcHg/Y2F0aWQ9NDgfB2cfDGdkFCsAAhYMHwEFEEV4cHJlc3Npb24gQmxlbmQfAgUQRXhwcmVzc2lvbiBCbGVuZB8DBR0vQnJvd3NlQXJ0aWNsZXMuYXNweD9DYXRJRD01MB8GBR0vYnJvd3NlYXJ0aWNsZXMuYXNweD9jYXRpZD01MB8HZx8MZ2QUKwACFgwfAQUJV29yZCAyMDA3HwIFCVdvcmQgMjAwNx8DBR0vQnJvd3NlQXJ0aWNsZXMuYXNweD9DYXRJRD01MR8GBR0vYnJvd3NlYXJ0aWNsZXMuYXNweD9jYXRpZD01MR8HZx8MZ2QUKwACFgwfAQUMT3V0bG9vayAyMDA3HwIFDE91dGxvb2sgMjAwNx8DBR0vQnJvd3NlQXJ0aWNsZXMuYXNweD9DYXRJRD01Nx8GBR0vYnJvd3NlYXJ0aWNsZXMuYXNweD9jYXRpZD01Nx8HZx8MZ2QUKwACFgwfAQUOVmlzdGEgVWx0aW1hdGUfAgUOVmlzdGEgVWx0aW1hdGUfAwUdL0Jyb3dzZUFydGljbGVzLmFzcHg/Q2F0SUQ9NTIfBgUdL2Jyb3dzZWFydGljbGVzLmFzcHg/Y2F0aWQ9NTIfB2cfDGdkFCsAAhYMHwEFD1RlY2hub2xvZ3kgTmV3cx8CBQ9UZWNobm9sb2d5IE5ld3MfAwUaL0xhdGVzdFRlY2hub2xvZ3lOZXdzLmFzcHgfBgUaL2xhdGVzdHRlY2hub2xvZ3luZXdzLmFzcHgfB2cfDGdkZAI9DzwrAA0CAA8WAh8AZ2QMFCsAAgUDMDowFCsAAhYOHwEFBEhvbWUfAgUESG9tZR8DBQ0vRGVmYXVsdC5hc3B4HwRnHwVnHwYFDS9kZWZhdWx0LmFzcHgfB2cUKwAFBQ8wOjAsMDoxLDA6MiwwOjMUKwACFg4fAQUIQXJ0aWNsZXMfAgUIQXJ0aWNsZXMfAwUUL1Nob3dDYXRlZ29yaWVzLmFzcHgfBGcfBWcfBgUUL3Nob3djYXRlZ29yaWVzLmFzcHgfB2dkFCsAAhYOHwEFDFdyaXRlIEZvciBVcx8CBQxXcml0ZSBGb3IgVXMfAwUQL1dyaXRlRm9yVXMuYXNweB8EZx8FZx8GBRAvd3JpdGVmb3J1cy5hc3B4HwdnZBQrAAIWDh8BBQVBYm91dB8CBQVBYm91dB8DBQsvQWJvdXQuYXNweB8EZx8FZx8GBQsvYWJvdXQuYXNweB8HZ2QUKwACFg4fAQUHQ29udGFjdB8CBQdDb250YWN0HwMFDS9Db250YWN0LmFzcHgfBGcfBWcfBgUNL2NvbnRhY3QuYXNweB8HZ2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBSFjdGwwMCRMb2dpblZpZXcxJExvZ2luJFJlbWVtYmVyTWUFHWN0bDAwJExvZ2luVmlldzEkTG9naW4kU3VibWl0BRdjdGwwMCRhcnRpY2xlJFRyZWVWaWV3MYoGDjMhA3X1IwxG6rMhsGDOhIvm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYOAgEPPCsADQIADxYCHgtfIURhdGFCb3VuZGdkDBQrAAIFAzA6MBQrAAIWDh4EVGV4dAUESG9tZR4FVmFsdWUFBEhvbWUeC05hdmlnYXRlVXJsBQ0vRGVmYXVsdC5hc3B4HgdFbmFibGVkZx4KU2VsZWN0YWJsZWceCERhdGFQYXRoBQ0vZGVmYXVsdC5hc3B4HglEYXRhQm91bmRnFCsABQUPMDowLDA6MSwwOjIsMDozFCsAAhYOHwEFCEFydGljbGVzHwIFCEFydGljbGVzHwMFFC9TaG93Q2F0ZWdvcmllcy5hc3B4HwRnHwVnHwYFFC9zaG93Y2F0ZWdvcmllcy5hc3B4HwdnZBQrAAIWDh8BBQxXcml0ZSBGb3IgVXMfAgUMV3JpdGUgRm9yIFVzHwMFEC9Xcml0ZUZvclVzLmFzcHgfBGcfBWcfBgUQL3dyaXRlZm9ydXMuYXNweB8HZ2QUKwACFg4fAQUFQWJvdXQfAgUFQWJvdXQfAwULL0Fib3V0LmFzcHgfBGcfBWcfBgULL2Fib3V0LmFzcHgfB2dkFCsAAhYOHwEFB0NvbnRhY3QfAgUHQ29udGFjdB8DBQ0vQ29udGFjdC5hc3B4HwRnHwVnHwYFDS9jb250YWN0LmFzcHgfB2dkZAIDD2QWBgIHDw8WAh8EaGRkAgkPDxYCHgdWaXNpYmxlaGRkAgsPDxYCHwhoZBYCAgEPDxYCHwEFH1N3aXRjaCBTY29wZSAoY3VycmVudCA9IFNoYXJlZClkZAIHDw8WAh8IaGRkAgkPFgQeBGhyZWYFKWh0dHA6Ly93d3cuaXJvbnNwZWVkLmNvbS9Eb3ROZXRDdXJyeS5hc3B4Hglpbm5lcmh0bWwFHkdlbmVyYXRlIEFqYXggQXBwcyBpbiBNaW51dGVzIWQCHQ9kFgJmD2QWAgIBD2QWAmYPZBYCAg0PEA8WAh4HQ2hlY2tlZGhkZGRkAikPZBYCAgUPPCsACQIADxYEHg1OZXZlckV4cGFuZGVkZB8AZ2QIFCsAAgUDMDowFCsAAhYIHgxTZWxlY3RBY3Rpb24LKi5TeXN0ZW0uV2ViLlVJLldlYkNvbnRyb2xzLlRyZWVOb2RlU2VsZWN0QWN0aW9uAx8GBSRjMDllOTdkOS02NzQ5LTRiMDEtODcwMy0zNDE0ZDc1ZThjNTQfB2ceCEV4cGFuZGVkZxQrABEFRTA6MCwwOjEsMDoyLDA6MywwOjQsMDo1LDA6NiwwOjcsMDo4LDA6OSwwOjEwLDA6MTEsMDoxMiwwOjEzLDA6MTQsMDoxNRQrAAIWDB8BBRFXaW5kb3dzIEZvcm1zIDIuMB8CBRFXaW5kb3dzIEZvcm1zIDIuMB8DBR0vQnJvd3NlQXJ0aWNsZXMuYXNweD9DYXRJRD00Nx8GBR0vYnJvd3NlYXJ0aWNsZXMuYXNweD9jYXRpZD00Nx8HZx8OZ2QUKwACFgwfAQUTQVNQLk5FVCAyLjAgYW5kIDMuNR8CBRNBU1AuTkVUIDIuMCBhbmQgMy41HwMFHS9Ccm93c2VBcnRpY2xlcy5hc3B4P0NhdElEPTU0HwYFHS9icm93c2VhcnRpY2xlcy5hc3B4P2NhdGlkPTU0HwdnHw5nZBQrAAIWDB8BBQxBU1AuTkVUIEFKQVgfAgUMQVNQLk5FVCBBSkFYHwMFHS9Ccm93c2VBcnRpY2xlcy5hc3B4P0NhdElEPTU5HwYFHS9icm93c2VhcnRpY2xlcy5hc3B4P2NhdGlkPTU5HwdnHw5nZBQrAAIWDB8BBQ5DIyAyLjAgYW5kIDMuMB8CBQ5DIyAyLjAgYW5kIDMuMB8DBR0vQnJvd3NlQXJ0aWNsZXMuYXNweD9DYXRJRD01NR8GBR0vYnJvd3NlYXJ0aWNsZXMuYXNweD9jYXRpZD01NR8HZx8OZ2QUKwACFgwfAQUETElOUR8CBQRMSU5RHwMFHS9Ccm93c2VBcnRpY2xlcy5hc3B4P0NhdElEPTYyHwYFHS9icm93c2VhcnRpY2xlcy5hc3B4P2NhdGlkPTYyHwdnHw5nZBQrAAIWDB8BBRNJbnRlcnZpZXcgUXVlc3Rpb25zHwIFE0ludGVydmlldyBRdWVzdGlvbnMfAwUdL0Jyb3dzZUFydGljbGVzLmFzcHg/Q2F0SUQ9NTgfBgUdL2Jyb3dzZWFydGljbGVzLmFzcHg/Y2F0aWQ9NTgfB2cfDmdkFCsAAhYMHwEFClNxbCBTZXJ2ZXIfAgUKU3FsIFNlcnZlch8DBR1odHRwOi8vd3d3LnNxbHNlcnZlcmN1cnJ5LmNvbR8GBR1odHRwOi8vd3d3LnNxbHNlcnZlcmN1cnJ5LmNvbR8HZx8OZ2QUKwACFg4fAQUEVlNUUx8CBQRWU1RTHwMFHS9Ccm93c2VBcnRpY2xlcy5hc3B4P0NhdElEPTYwHgdUb29sVGlwBRlWaXN1YWwgU3R1ZGlvIFRlYW0gU3lzdGVtHwYFHS9icm93c2VhcnRpY2xlcy5hc3B4P2NhdGlkPTYwHwdnHw5nZBQrAAIWDh8BBQ1TaWx2ZXJsaWdodCAyHwIFDVNpbHZlcmxpZ2h0IDIfAwUdL0Jyb3dzZUFydGljbGVzLmFzcHg/Q2F0SUQ9NTYfDwULU2lsdmVybGlnaHQfBgUdL2Jyb3dzZWFydGljbGVzLmFzcHg/Y2F0aWQ9NTYfB2cfDmdkFCsAAhYMHwEFDkV4cHJlc3Npb24gV2ViHwIFDkV4cHJlc3Npb24gV2ViHwMFHS9Ccm93c2VBcnRpY2xlcy5hc3B4P0NhdElEPTQ4HwYFHS9icm93c2VhcnRpY2xlcy5hc3B4P2NhdGlkPTQ4HwdnHw5nZBQrAAIWDB8BBRBFeHByZXNzaW9uIEJsZW5kHwIFEEV4cHJlc3Npb24gQmxlbmQfAwUdL0Jyb3dzZUFydGljbGVzLmFzcHg/Q2F0SUQ9NTAfBgUdL2Jyb3dzZWFydGljbGVzLmFzcHg/Y2F0aWQ9NTAfB2cfDmdkFCsAAhYMHwEFCVdvcmQgMjAwNx8CBQlXb3JkIDIwMDcfAwUdL0Jyb3dzZUFydGljbGVzLmFzcHg/Q2F0SUQ9NTEfBgUdL2Jyb3dzZWFydGljbGVzLmFzcHg/Y2F0aWQ9NTEfB2cfDmdkFCsAAhYMHwEFDE91dGxvb2sgMjAwNx8CBQxPdXRsb29rIDIwMDcfAwUdL0Jyb3dzZUFydGljbGVzLmFzcHg/Q2F0SUQ9NTcfBgUdL2Jyb3dzZWFydGljbGVzLmFzcHg/Y2F0aWQ9NTcfB2cfDmdkFCsAAhYMHwEFDlZpc3RhIFVsdGltYXRlHwIFDlZpc3RhIFVsdGltYXRlHwMFHS9Ccm93c2VBcnRpY2xlcy5hc3B4P0NhdElEPTUyHwYFHS9icm93c2VhcnRpY2xlcy5hc3B4P2NhdGlkPTUyHwdnHw5nZBQrAAIWDB8BBQ5HZW5lcmFsIFRvcGljcx8CBQ5HZW5lcmFsIFRvcGljcx8DBR0vQnJvd3NlQXJ0aWNsZXMuYXNweD9DYXRJRD02MR8GBR0vYnJvd3NlYXJ0aWNsZXMuYXNweD9jYXRpZD02MR8HZx8OZ2QUKwACFgwfAQUPVGVjaG5vbG9neSBOZXdzHwIFD1RlY2hub2xvZ3kgTmV3cx8DBRovTGF0ZXN0VGVjaG5vbG9neU5ld3MuYXNweB8GBRovbGF0ZXN0dGVjaG5vbG9neW5ld3MuYXNweB8HZx8OZ2RkAi0PPCsADQIADxYCHwBnZAwUKwACBQMwOjAUKwACFg4fAQUESG9tZR8CBQRIb21lHwMFDS9EZWZhdWx0LmFzcHgfBGcfBWcfBgUNL2RlZmF1bHQuYXNweB8HZxQrAAUFDzA6MCwwOjEsMDoyLDA6MxQrAAIWDh8BBQhBcnRpY2xlcx8CBQhBcnRpY2xlcx8DBRQvU2hvd0NhdGVnb3JpZXMuYXNweB8EZx8FZx8GBRQvc2hvd2NhdGVnb3JpZXMuYXNweB8HZ2QUKwACFg4fAQUMV3JpdGUgRm9yIFVzHwIFDFdyaXRlIEZvciBVcx8DBRAvV3JpdGVGb3JVcy5hc3B4HwRnHwVnHwYFEC93cml0ZWZvcnVzLmFzcHgfB2dkFCsAAhYOHwEFBUFib3V0HwIFBUFib3V0HwMFCy9BYm91dC5hc3B4HwRnHwVnHwYFCy9hYm91dC5hc3B4HwdnZBQrAAIWDh8BBQdDb250YWN0HwIFB0NvbnRhY3QfAwUNL0NvbnRhY3QuYXNweB8EZx8FZx8GBQ0vY29udGFjdC5hc3B4HwdnZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFIWN0bDAwJExvZ2luVmlldzEkTG9naW4kUmVtZW1iZXJNZQUdY3RsMDAkTG9naW5WaWV3MSRMb2dpbiRTdWJtaXQFEGN0bDAwJF9idG5TZWFyY2gFF2N0bDAwJGFydGljbGUkVHJlZVZpZXcx22Ncv+Q4mUA5xqCgXdkTlzPa9ow=">
 
 
 <script src="/WebResource.axd?d=NxG6WrD0gZcxr69BecISeQ2&amp;t=633318760880952976" type="text/javascript"></script>
    <div id="header">
-       	
+   <!-- do not show the banner2 as it hides the menu bar -->
+      
 	    
-	  
+	   <div id="banner1" style="position:absolute;float:right;top:0px;left:278px;visibility:hidden;" onmouseover="window.status=''; return true" onmouseout="window.status ='';return true">
 	    
+	    </div>
+
+	
 	   
       <div id="header2">
          <div id="headermenu">
@@ -114,7 +157,7 @@ pageTracker._trackPageview();
 
    <div id="container">
       <div id="container2">      
-         <div id="centercol" style="height: 2305px;">
+         <div id="centercol" style="height: 2361px;">
                        
             <div id="breadcrumb">
                
@@ -122,23 +165,29 @@ pageTracker._trackPageview();
             </div>      
             
                                     
-            
+           
       
             <div id="centercolcontent">
             <div>
             <table border="0" cellpadding="2" cellspacing="0" width="100%">
                      <tbody><tr>
+                     <!-- Iron Speed Text Ad Rotator Begins -->
                         <td width="43%">
-                            <script type="text/javascript"> 
-                                <!-- 
-                                lqm_channel=1;
-                                lqm_publisher=173;
-                                lqm_zone=1;
-                                lqm_format=2;
-                                //-->
-                                </script>
-                            <script type="text/javascript" src="http://a.lakequincy.com/s.js"></script>
+                            
+                            
+                            
+                                                     
+                            
+
+                            
+                             
+                              <a href="http://www.ironspeed.com/DotNetCurry.aspx" id="ctl00_anchorIronSpeed" onmouseover="window.status='http://www.ironspeed.com';return true" onmouseout="window.status =''">Generate Ajax Apps in Minutes!</a>
+                              <br>
+                              
+                            Generate data entry and reporting .NET Web apps in minutes, straight from your database.  Quickly create visually stunning, feature-rich apps that are easy to customize and ready to deploy. <a href="http://www.ironspeed.com/dotnetcurry.aspx" onmouseover="window.status='http://www.ironspeed.com';return true" onmouseout="window.status =''">Download Free Edition</a>
+
                         </td>
+                        <!-- Iron Speed Text Ad Rotator Ends -->
                         <td width="4%"></td>
                         <td width="43%">
                            <script type="text/javascript"> 
@@ -157,38 +206,11 @@ pageTracker._trackPageview();
             </div>
             
                <div style="clear: both; margin-bottom: 5px;">
-                  <table cellspacing="0" cellpadding="0" border="0" id="ctl00_CenterZoneTop" width="100%">
-	<tbody><tr>
-		<td height="100%"><font face="Verdana"><table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
-			<tbody><tr>
-				<td height="100%"><font face="Verdana"></font></td>
-			</tr>
-		</tbody></table></font></td>
-	</tr>
-</tbody></table>
                   <table border="0" cellpadding="2" cellspacing="0" width="100%">
                      <tbody><tr>
                         <td width="50%">
-                           <table cellspacing="0" cellpadding="0" border="0" id="ctl00_CenterZoneTopLeft" width="100%">
-	<tbody><tr>
-		<td height="100%"><font face="Verdana"><table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
-			<tbody><tr>
-				<td height="100%"><font face="Verdana"></font></td>
-			</tr>
-		</tbody></table></font></td>
-	</tr>
-</tbody></table>
                         </td>
                         <td width="50%">
-                           <table cellspacing="0" cellpadding="0" border="0" id="ctl00_CenterZoneTopRight" width="100%">
-	<tbody><tr>
-		<td height="100%"><font face="Verdana"><table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
-			<tbody><tr>
-				<td height="100%"><font face="Verdana"></font></td>
-			</tr>
-		</tbody></table></font></td>
-	</tr>
-</tbody></table>                          
                         </td>
                      </tr>
                   </tbody></table>
@@ -773,15 +795,6 @@ pageTracker._trackPageview();
     </div>
 
                <div style="clear: both; margin-top: 5px;">
-                  <table cellspacing="0" cellpadding="0" border="0" id="ctl00_CenterZoneBottom" width="100%">
-	<tbody><tr>
-		<td height="100%"><font face="Verdana"><table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
-			<tbody><tr>
-				<td height="100%"><font face="Verdana"></font></td>
-			</tr>
-		</tbody></table></font></td>
-	</tr>
-</tbody></table>
                   <div id="search" style="text-align: center">
 
 <!-- SiteSearch Google -->
@@ -790,68 +803,59 @@ pageTracker._trackPageview();
                   <table border="0" cellpadding="2" cellspacing="0" width="100%">
                      <tbody><tr>
                         <td width="50%">
-                           <table cellspacing="0" cellpadding="0" border="0" id="ctl00_CenterZoneBottomLeft" width="100%">
-	<tbody><tr>
-		<td height="100%"><font face="Verdana"><table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
-			<tbody><tr>
-				<td height="100%"><font face="Verdana"></font></td>
-			</tr>
-		</tbody></table></font></td>
-	</tr>
-</tbody></table>
                         </td>
                         <td width="50%">
-                           <table cellspacing="0" cellpadding="0" border="0" id="ctl00_CenterZoneBottomRight" width="100%">
-	<tbody><tr>
-		<td height="100%"><font face="Verdana"><table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
-			<tbody><tr>
-				<td height="100%"><font face="Verdana"></font></td>
-			</tr>
-		</tbody></table></font></td>
-	</tr>
-</tbody></table>
                         </td>
                      </tr>
                   </tbody></table>
                </div>               
             </div>
          </div>
-         <div id="rightcol" style="font-weight: bold; height: 2305px;">
-            <table cellspacing="0" cellpadding="0" border="0" id="ctl00_RightZoneTop" width="100%">
-	<tbody><tr>
-		<td height="100%"><font face="Verdana"><table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
-			<tbody><tr>
-				<td height="100%"><font face="Verdana"></font></td>
-			</tr>
-		</tbody></table></font></td>
-	</tr>
-</tbody></table>
+         <div id="rightcol" style="font-weight: bold; height: 2361px;">
             
             
            
            
 
  
+
+
+
 <div class="sectiontitle">
 <img id="ctl00_Image4" src="images/arrowr.gif" alt="" border="0" style="float: left; margin-left: 3px; margin-right: 10px;">
-   Featured Hosting
-</div><br>
-<div style="font-family:Verdana;font-size:11px;font-weight:normal;color:#4A75AD;text-align:center">
-<a id="ctl00_thelink" href="http://www.discountasp.net/go/go.aspx?i=4896">
-<img src="images/ads/120x400_glasses_nbrd_SM.gif" alt="Windows 2008/2003 &amp; ASP.NET 3.5/2.0 – Click Here" border="0">
-</a>
+   Subscribe to RSS
+</div><br><br>
 
-</div>
-
-            <br>
-
-
-<br>
- <div style="font-family:Verdana; font-size:small"><a href="http://feeds.feedburner.com/netCurryRecentArticles" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="" style="vertical-align:middle;border:0"></a>&nbsp;<a href="http://feeds.feedburner.com/netCurryRecentArticles" rel="alternate" type="application/rss+xml">Subscribe To RSS</a>
- <br>
- <p style="text-align:center"><a href="http://feeds.feedburner.com/netCurryRecentArticles"><img src="http://feeds.feedburner.com/~fc/netCurryRecentArticles?bg=EB7F30&amp;fg=000000&amp;anim=0" height="26" width="88" style="border:0" alt=""></a></p>
+ <div style="font-family:Verdana; font-size:small; float:left; margin-left:7px;margin-bottom:4px">
+     <a href="http://feeds.feedburner.com/netCurryRecentArticles" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="" style="vertical-align:middle;border:0"></a>
+ 
+    <a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1571277&amp;loc=en_US"><img src="images/mail-icon-32x32.png" alt="" style="vertical-align:middle;border:0"></a>
+ 
  </div>
+ 
+ <div style="float:left; margin-top:4px; margin-left:5px;margin-bottom:4px">
+   
+    <a href="http://feeds.feedburner.com/netCurryRecentArticles"><img src="http://feeds.feedburner.com/~fc/netCurryRecentArticles?bg=EB7F30&amp;fg=000000&amp;anim=0" height="26" width="88" style="border:0" alt=""></a>
+    
+ </div> <br> <br> <br> <br>
+ 
+ <div style="text-align:center">
+    <img src="images/MVP_small.jpg" alt="ASP.NET MVP Award 2008" border="0">
+</div>
+ 
+ <br>
+
+<div style="text-align:center">
 <br>
+<script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "160x600,120x600";
+    e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/dotnetcurrycom/ROS/tags.js"></script>
+</div>
+<br>
+
 <div class="sectiontitle">
 <img id="ctl00_Image1" src="images/arrowr.gif" alt="" border="0" style="float: left; margin-left: 3px; margin-right: 10px;">
    Top Articles
@@ -885,23 +889,23 @@ pageTracker._trackPageview();
    Latest Articles
 </div>
   <br>
-            <a id="ctl00_toplat_Repeater1_ctl00_lnkTitle" class="top" href="ShowArticle.aspx?ID=150"><font color="#4A75AD">How to run only a Single Instance of the Application using Windows Forms</font></a>
+            <a id="ctl00_toplat_Repeater1_ctl00_lnkTitle" class="top" href="ShowArticle.aspx?ID=243"><font color="#4A75AD">Watermark and Add Copyright Info to your Images on your Local drive using C# and VB.NET</font></a>
             
                  <br><br>
             
-            <a id="ctl00_toplat_Repeater1_ctl02_lnkTitle" class="top" href="ShowArticle.aspx?ID=149"><font color="#4A75AD">ASP.NET AJAX Calendar Extender – Tips and Tricks</font></a>
+            <a id="ctl00_toplat_Repeater1_ctl02_lnkTitle" class="top" href="ShowArticle.aspx?ID=242"><font color="#4A75AD">Working with layers in Microsoft Expression Web</font></a>
             
                  <br><br>
             
-            <a id="ctl00_toplat_Repeater1_ctl04_lnkTitle" class="top" href="ShowArticle.aspx?ID=148"><font color="#4A75AD">Retrieve a List of Installed Printers on the Network Using WMI, C# and VB.NET</font></a>
+            <a id="ctl00_toplat_Repeater1_ctl04_lnkTitle" class="top" href="ShowArticle.aspx?ID=241"><font color="#4A75AD">Create a TextBoxWatermark Extender Functionality using ASP.NET and jQuery</font></a>
             
                  <br><br>
             
-            <a id="ctl00_toplat_Repeater1_ctl06_lnkTitle" class="top" href="ShowArticle.aspx?ID=147"><font color="#4A75AD">Pass Multiple Values from a GridView to Another Page using ASP.NET</font></a>
+            <a id="ctl00_toplat_Repeater1_ctl06_lnkTitle" class="top" href="ShowArticle.aspx?ID=79"><font color="#4A75AD">Creating styles in Expression Web</font></a>
             
                  <br><br>
             
-            <a id="ctl00_toplat_Repeater1_ctl08_lnkTitle" class="top" href="ShowArticle.aspx?ID=146"><font color="#4A75AD">Search and Highlight Text in a RichTextBox</font></a>
+            <a id="ctl00_toplat_Repeater1_ctl08_lnkTitle" class="top" href="ShowArticle.aspx?ID=240"><font color="#4A75AD">Creating CollapsiblePanelExtender Functionality using ASP.NET and jQuery</font></a>
             
         <br>
         <br>
@@ -914,17 +918,27 @@ pageTracker._trackPageview();
 </div>
  <br>
  
-            <a id="ctl00_topauth_Repeater1_ctl00_lnkAuth" class="top" href="About.aspx"><font color="#4A75AD">Suprotim Agarwal(79)</font></a>
+            <a id="ctl00_topauth_Repeater1_ctl00_lnkAuth" class="top" href="About.aspx"><font color="#4A75AD">Suprotim Agarwal(154)</font></a>
 
             
                  <br><br>
             
-            <a id="ctl00_topauth_Repeater1_ctl02_lnkAuth" class="top" href="About.aspx"><font color="#4A75AD">Minal Agarwal(28)</font></a>
+            <a id="ctl00_topauth_Repeater1_ctl02_lnkAuth" class="top" href="About.aspx"><font color="#4A75AD">Minal Agarwal(36)</font></a>
 
             
                  <br><br>
             
-            <a id="ctl00_topauth_Repeater1_ctl04_lnkAuth" class="top" href="About.aspx"><font color="#4A75AD">Subodh Sohoni(13)</font></a>
+            <a id="ctl00_topauth_Repeater1_ctl04_lnkAuth" class="top" href="About.aspx"><font color="#4A75AD">Subodh Sohoni(18)</font></a>
+
+            
+                 <br><br>
+            
+            <a id="ctl00_topauth_Repeater1_ctl06_lnkAuth" class="top" href="About.aspx"><font color="#4A75AD">Harsh Bardhan(3)</font></a>
+
+            
+                 <br><br>
+            
+            <a id="ctl00_topauth_Repeater1_ctl08_lnkAuth" class="top" href="About.aspx"><font color="#4A75AD">Manish Sharma(1)</font></a>
 
             
         <br>
@@ -934,47 +948,23 @@ pageTracker._trackPageview();
 
  
   
- <br> <br>
- <div class="sectiontitle">
-<img id="ctl00_Image5" src="images/arrowr.gif" alt="" border="0" style="float: left; margin-left: 3px; margin-right: 10px;">
-   FREE MAGAZINES
-</div><br>
-<div style="font-family:Verdana;font-size:11px;font-weight:normal;color:#4A75AD;text-align:center">
 
-<strong>Complimentary Computers Resources For DotNetCurry.Com Viewers</strong><p><a href="http://dotnetcurry.tradepub.com/c/pubRD.mpl/?sr=ps&amp;_t=ps:w_text:&amp;_m=01.00ev.1.0.0&amp;ct=Comp&amp;flt=mag" target="_blank">Click here for Free Computers Magazines!</a></p>
-</div>
+
              
             
             
 
-            <table cellspacing="0" cellpadding="0" border="0" id="ctl00_RightZoneBottom" width="100%">
-	<tbody><tr>
-		<td height="100%"><font face="Verdana"><table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
-			<tbody><tr>
-				<td height="100%"><font face="Verdana"></font></td>
-			</tr>
-		</tbody></table></font></td>
-	</tr>
-</tbody></table>
-            <br> <br> <div style="text-align:center"><script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/a?url=www.dotnetcurry.com"></script></div>
-<br> <br>
-         <!-- START CUSTOM WIDGETBUCKS CODE --><div style="text-align:center"><script type="text/javascript" src="http://www.widgetbucks.com/script/ads.js?uid=NpzFyTw1m32bIlr2"></script></div><!-- END CUSTOM WIDGETBUCKS CODE -->
+            
+            <br> <br>
+            
+            <div style="text-align:center"><script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/a?url=www.dotnetcurry.com"></script></div>
 <br><br>
          </div>
       </div>        
       <div style="background-color:White;height:10px;top:284px;left:0px"></div>
       
-      <div id="leftcol" style="height: 2305px;">      
+      <div id="leftcol" style="height: 2361px;">      
             <br>
-         <table cellspacing="0" cellpadding="0" border="0" id="ctl00_LeftZoneTop" width="100%">
-	<tbody><tr>
-		<td height="100%"><font face="Verdana"><table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
-			<tbody><tr>
-				<td height="100%"><font face="Verdana"></font></td>
-			</tr>
-		</tbody></table></font></td>
-	</tr>
-</tbody></table>          
          <div id="loginlabel">         
             Login</div>
       <div id="loginbox"> 
@@ -1016,8 +1006,31 @@ pageTracker._trackPageview();
                   </td>
 	</tr>
 </tbody></table>
-                     
+               
+         
+        
+    
       </div>
+       <!-- Google Search Box Start -->
+         <div id="searchBox">
+         <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody><tr><td> <input name="ctl00$q" type="text" value="Google Custom Search" maxlength="100" id="ctl00_q" onclick="ctl00$q.value=''" border="1"></td>
+                           <td align="right">
+                              <input type="image" name="ctl00$_btnSearch" id="ctl00__btnSearch" src="images/search.gif" alt="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$_btnSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0">
+                           </td>
+                           <td width="5px" align="right">&nbsp;
+<input type="hidden" name="ctl00$cx" id="ctl00_cx" value="000484292354581808138:kmy_69vgpnm">
+<input type="hidden" name="ctl00$cof" id="ctl00_cof" value="FORID:11"></td>
+                        </tr>
+                     </tbody></table>      
+
+         
+
+
+
+         </div>  
+         <!-- Google Search Box End -->
+         
          <div id="articlelabel">Categories</div> 
          <div id="articlebox">  
          
@@ -1061,7 +1074,7 @@ pageTracker._trackPageview();
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=55" id="ctl00_article_TreeView1n4"><b><font face="Verdana,Calibri" size="3">C# 2.0</font></b></a></td>
+			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=55" id="ctl00_article_TreeView1n4"><b><font face="Verdana,Calibri" size="3">C# 2.0 and 3.0</font></b></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -1069,7 +1082,7 @@ pageTracker._trackPageview();
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=58" id="ctl00_article_TreeView1n5"><b><font face="Verdana,Calibri" size="3">Interview Questions</font></b></a></td>
+			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=62" id="ctl00_article_TreeView1n5"><b><font face="Verdana,Calibri" size="3">LINQ</font></b></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -1077,7 +1090,7 @@ pageTracker._trackPageview();
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td nowrap="nowrap"><a href="http://www.sqlservercurry.com" id="ctl00_article_TreeView1n6"><b><font face="Verdana,Calibri" size="3">Sql Server</font></b></a></td>
+			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=58" id="ctl00_article_TreeView1n6"><b><font face="Verdana,Calibri" size="3">Interview Questions</font></b></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -1085,7 +1098,7 @@ pageTracker._trackPageview();
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=60" title="Visual Studio Team System" id="ctl00_article_TreeView1n7"><b><font face="Verdana,Calibri" size="3">VSTS</font></b></a></td>
+			</tbody></table></td><td nowrap="nowrap"><a href="http://www.sqlservercurry.com" id="ctl00_article_TreeView1n7"><b><font face="Verdana,Calibri" size="3">Sql Server</font></b></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -1093,7 +1106,7 @@ pageTracker._trackPageview();
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=48" id="ctl00_article_TreeView1n8"><b><font face="Verdana,Calibri" size="3">Expression Web</font></b></a></td>
+			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=60" title="Visual Studio Team System" id="ctl00_article_TreeView1n8"><b><font face="Verdana,Calibri" size="3">VSTS</font></b></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -1101,7 +1114,7 @@ pageTracker._trackPageview();
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=50" id="ctl00_article_TreeView1n9"><b><font face="Verdana,Calibri" size="3">Expression Blend</font></b></a></td>
+			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=56" title="Silverlight" id="ctl00_article_TreeView1n9"><b><font face="Verdana,Calibri" size="3">Silverlight 2</font></b></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -1109,7 +1122,7 @@ pageTracker._trackPageview();
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=51" id="ctl00_article_TreeView1n10"><b><font face="Verdana,Calibri" size="3">Word 2007</font></b></a></td>
+			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=48" id="ctl00_article_TreeView1n10"><b><font face="Verdana,Calibri" size="3">Expression Web</font></b></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -1117,7 +1130,7 @@ pageTracker._trackPageview();
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=57" id="ctl00_article_TreeView1n11"><b><font face="Verdana,Calibri" size="3">Outlook 2007</font></b></a></td>
+			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=50" id="ctl00_article_TreeView1n11"><b><font face="Verdana,Calibri" size="3">Expression Blend</font></b></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -1125,7 +1138,7 @@ pageTracker._trackPageview();
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=52" id="ctl00_article_TreeView1n12"><b><font face="Verdana,Calibri" size="3">Vista Ultimate</font></b></a></td>
+			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=51" id="ctl00_article_TreeView1n12"><b><font face="Verdana,Calibri" size="3">Word 2007</font></b></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -1133,33 +1146,51 @@ pageTracker._trackPageview();
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td nowrap="nowrap"><a href="/LatestTechnologyNews.aspx" id="ctl00_article_TreeView1n13"><b><font face="Verdana,Calibri" size="3">Technology News</font></b></a></td>
+			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=57" id="ctl00_article_TreeView1n13"><b><font face="Verdana,Calibri" size="3">Outlook 2007</font></b></a></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><table width="0">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=52" id="ctl00_article_TreeView1n14"><b><font face="Verdana,Calibri" size="3">Vista Ultimate</font></b></a></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><table width="0">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td nowrap="nowrap"><a href="/BrowseArticles.aspx?CatID=61" id="ctl00_article_TreeView1n15"><b><font face="Verdana,Calibri" size="3">General Topics</font></b></a></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><table width="0">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td nowrap="nowrap"><a href="/LatestTechnologyNews.aspx" id="ctl00_article_TreeView1n16"><b><font face="Verdana,Calibri" size="3">Technology News</font></b></a></td>
 		</tr>
 	</tbody></table>
 </font></div><a id="ctl00_article_TreeView1_SkipLink"></a>
 </div>
          <br><br>
 
-         <div id="leftadlabel">Featured Hosting</div>
-         <div id="leftsponsorbox">
-         <a id="ctl00_HyperLink4" href="http://www.discountasp.net/go/go.aspx?i=4897">
-<img src="images/ads/120x600_Win0803_NT352_Brand_EM.gif" alt="Windows 2008/2003 &amp; ASP.NET 3.5/2.0 – Click Here" border="0">
-</a>
-         </div> 
+
+        <!-- discountaspnet hosting -->
+        
+         
+         
+          <div id="leftsponsorbox">
+
+         </div>
+         
          
          
          <p></p>         
          
 
-         <table cellspacing="0" cellpadding="0" border="0" id="ctl00_LeftZoneBottom" width="100%">
-	<tbody><tr>
-		<td height="100%"><font face="Verdana"><table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
-			<tbody><tr>
-				<td height="100%"><font face="Verdana"></font></td>
-			</tr>
-		</tbody></table></font></td>
-	</tr>
-</tbody></table>
          
       </div>      
    </div>
@@ -1230,8 +1261,5 @@ ctl00_mnuFooter_Data.verticalOffset = 0;
 //]]>
 </script>
 </form>
-<!-- Kontera ContentLink(TM);-->
-
-<!-- Kontera ContentLink(TM) -->
 
 </body></html>
