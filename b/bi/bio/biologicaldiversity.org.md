@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biologicaldiversity.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609000603id_/http%3A//www.biologicaldiversity.org/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biologicaldiversity.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216084029id_/http%3A//www.biologicaldiversity.org/privacy/index.html) for the most accurate reproduction.*
 
 # Donor Privacy Policy
 
@@ -32,4 +32,4 @@ To review or correct your personal contact information or to make changes to you
 
 If you have questions regarding this policy, please contact the Membership Director at (520) 623.5252, ext. 312, by e-mail at [membership@biologicaldiversity.org](mailto:membership@biologicaldiversity.org), or by postal mail at Center for Biological Diversity, attn: Membership, P.O. Box 710, Tucson, AZ 85702-0710.
 
-[Printable PDF of Privacy Policy](https://web.archive.org/web/20080609000603id_/http%3A//www.biologicaldiversity.org/privacy/privacy_policy.pdf)
+[Printable PDF of Privacy Policy](https://web.archive.org/web/20081216084029id_/http%3A//www.biologicaldiversity.org/privacy/privacy_policy.pdf)
