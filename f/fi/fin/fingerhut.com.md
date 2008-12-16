@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fingerhut.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607225011id_/http%3A//www.fingerhut.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fingerhut.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014458id_/http%3A//www.fingerhut.com/Privacy.aspx) for the most accurate reproduction.*
 
 # FiNGERHUT.com - Security and Privacy Policy
 
@@ -80,7 +80,7 @@ Children under the age of 13 should always ask their parents or guardians for pe
 **Security and Confidentiality**  
 Safeguarding customer information is important to us. Once we receive your transmission we will do our best to protect its security on our systems. We restrict access to personal information about you to those employees who need to know that information to provide products or services to you. 
 
-We maintain physical, electronic and procedural safeguards to guard your personal information This Site is tested and certified daily to pass the FBI/SANS Internet Security Test. The "live" HACKER SAFE mark appears only when a website’s security meets the highest security scanning standards of the U.S. Government, Visa, MasterCard, American Express Discover and UCB. HACKER SAFE testing and certification prevents over 99.99% of hacker crime. No data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee or warrant the security of any information you transmit to or from our website, and you do so at your own risk. 
+We maintain physical, electronic and procedural safeguards to guard your personal information This Site is tested and certified daily to pass the FBI/SANS Internet Security Test. The "live" McAfee Secure mark appears only when a website’s security meets the highest security scanning standards of the U.S. Government, Visa, MasterCard, American Express Discover and UCB. McAfee Secure testing and certification prevents over 99.99% of hacker crime. No data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee or warrant the security of any information you transmit to or from our website, and you do so at your own risk. 
 
 **How Long Do We Retain Your Personal Information?**  
 We keep your personal information only as long as we need it for the purposes for which it was originally collected or for other legitimate purposes (such as regulatory compliance), or as permitted by applicable law. 
