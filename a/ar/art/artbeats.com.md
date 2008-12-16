@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artbeats.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522093959id_/http%3A//www.artbeats.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artbeats.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042246id_/http%3A//www.artbeats.com/info/privacy) for the most accurate reproduction.*
 
 # Artbeats - Privacy Policy
 
@@ -16,7 +16,7 @@ When you order from our site, we ask you to complete an order form that requests
 
 ### Cookies
 
-As a standard practice, Artbeats assigns a unique number to each user for anonymously tracking content preferences and traffic patterns. This number is kept in a file on your computer called a "cookie." This allows you to automatically log-in to our site and it allows us to track how visitors use our site, without us really knowing who those visitors are. We analyze this data for trends and statistics, such as which parts of our site users are visiting and how long they spend there, and what items visitors are searching for. We use all this information in order to improve our content, plan future products and measure overall site effectiveness.
+As a standard practice, Artbeats assigns a unique number to each user for anonymously tracking content preferences and traffic patterns. This number is kept in a file on your computer called a "cookie." This allows you to automatically log in to our site and it allows us to track how visitors use our site, without us really knowing who those visitors are. We analyze this data for trends and statistics, such as which parts of our site users are visiting and how long they spend there, and what items visitors are searching for. We use all this information in order to improve our content, plan future products and measure overall site effectiveness.
 
 You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some of our web pages may not display properly or you may not be able to access certain pages.)
 
