@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmeister.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601063230id_/http%3A//www.mindmeister.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmeister.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216142055id_/http%3A//www.mindmeister.com/home/privacy) for the most accurate reproduction.*
 
 # Online Mind Mapping - MindMeister
 
@@ -15,3 +15,7 @@ Our Terms and Conditions recognizes your right to retain full intellectual prope
 ## Confidentiality
 
 We will maintain all user created data and information in strict confidence (unless a user wishes to publish it) and we will take the same degree of care to protect that information as we would employ to protect similar information belonging to us. 
+
+## Other
+
+This website uses [Google Analytics](http://www.google.com/intl/en/privacy_highlights.html). 
