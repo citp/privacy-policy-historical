@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the matrixgames.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612214844id_/http%3A//www.matrixgames.com/aboutus/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixgames.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013006id_/http%3A//www.matrixgames.com/privacy.asp) for the most accurate reproduction.*
 
-# Matrix Games - Privacy Statement
+# Matrix Games - What's Your Strategy?
 
-**Matrix Games' Privacy Policy**
-
-  
 Matrix Games is committed to protecting the privacy of consumers of its products and services and of individuals visiting our websites. We want to contribute to providing a safe and secure Internet environment for consumers.
 
 All references in this policy to "Matrix Games" include the Matrix Games Network sites. The purpose of this Matrix Games privacy policy is to inform you, as a welcome visitor to Matrix Games, (1) what kinds of information we may gather about you when you visit Matrix Games; (2) how we may use that information; (3) whether we disclose it to anyone; and (4) the choices you have regarding our use of, and your ability to correct, the information. Finally, please note that this policy applies only to Matrix Games and Web sites that carry the Matrix Games brand, and not to other companies’ or organizations’ Web sites to which we link. We have clearly marked Matrix Games and these branded Web sites with our logo so you know where this policy applies.
