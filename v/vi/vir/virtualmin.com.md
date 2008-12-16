@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualmin.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528180247id_/http%3A//www.virtualmin.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmin.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020419id_/http%3A//www.virtualmin.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Virtualmin - Privacy Policy
 
