@@ -1,0 +1,75 @@
+> *The following text is extracted and transformed from the tresemme.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011912id_/http%3A//www.alberto.com/privacy.htm) for the most accurate reproduction.*
+
+# Alberto-Culver Privacy Policy
+
+General
+
+> Welcome to the Internet Sites of Alberto-Culver Company, its subsidiaries and affiliates (collectively, "Alberto," "Company," "we" or "us") which operate various Web sites such as alberto.com, VO5.com, stives.com, proline-intl.com, mrsdash.com, dietitiancenter.com, tresemme.com, jfmvipclub.com and motionshair.com, sugartwin.com, sugartwin.ca, sugartwin-french.ca, mystaticguard.com and fdsinfo.com (collectively, "Alberto Web sites"). The Alberto Web sites are intended for use only by persons residing in the United States , its territories and possessions. This policy only applies to Alberto's information collection and use practices, through the Alberto Web sites, of certain information regarding customers and other consumer visitors to the Alberto Web sites This Privacy Policy is subject to the [Terms of Use](https://web.archive.org/web/20081216011912id_/http%3A//www.alberto.com/terms.htm). 
+
+Links
+
+> There may be links from an Alberto Web site to other Web sites This privacy policy only applies to Alberto Web sites and not to Web sites of any other company or organization linked to an Alberto Web site. Accessing those third party Web sites or sources requires you to leave Alberto Web sites We do not control those third party Web sites or any of the content contained therein and you expressly acknowledge and agree that we are in no way responsible or liable for any of those third party Web sites, including, without limitation, their content, policies, failures, promotions, products, services on or actions of those Web sites and/or any damages, losses, failures or problems caused by, related to or arising from those Web sites Alberto encourages you to review all policies, rules, terms and regulations, including the privacy policies, of each Web site that you visit.
+
+Gathering Information
+
+> Alberto may request and/or collect personal information that you elect to provide to us ("Personal Information") when you (1) register with us, (2) participate in events, contests, or promotions, (3) send questions or comments to us, (4) purchase items and/or (5) submit your resume to us online. The types/categories of Personal Information we collect may include: contact information (e.g., name, address, phone number and email address), birth date, credit card and ID verification information, such as credit card number, date of birth, Social Security Number, and Driver’s License Number, certain preferences (for example, types of preferred products, types of magazines read, etc.) and information regarding how you became aware of the Alberto Web sites At any of these times, you may have the opportunity to chose to receive promotional and/or other marketing information about products, services and offerings from Alberto. We do not participate in bulk email solicitations that you have not consented to receiving (i.e., "spam"). If you would like to review and/or correct or update your Personal Information, please contact Alberto by visiting [www.alberto.com](http://www.alberto.com/contact.cfm) and sending us an e-mail or call us at (708) 450-3000 and ask for Customer Relations.
+> 
+> In such instances where you want us to remove your Personal Information from our database, you merely need to contact us by: (a) visiting us at [www.alberto.com](http://www.alberto.com/contact.cfm)and filling out an email to us requesting removal of your Personal Information; (b) by visiting the specific Alberto Web site at which you registered and filling out an email request on that web site requesting the removal of your Personal Information; or (c) calling us at (708) 450-3000 and asking for Customer Relations. Alberto will then take all reasonable efforts to delete your Personal Information from the Alberto database within a reasonable time frame, but, please be advised that Alberto may retain some residual information about you in our backup and archival copies of our database (e.g. our records of deletion) to send you important service-related communications (e.g. materials related to your registration, your purchases and/or your account) that are not promotional in nature. Moreover, if you would like to update your Personal Information, please visit the specific Alberto Web site at which you registered and click through to "Edit Profile" section of the web site. 
+
+Cookies
+
+> We may use cookies to obtain non-personally identifiable information from Web site visitors Such information may include your "Internet Protocol Address," operating system browser type and the referring Web site's address, if any ("non-Personal Information"). Cookies are files your web browser places on your computer when you visit a Web site. Depending on your browser, you may be able to reject cookies or indicate when a cookie has been sent. Cookies enable Alberto to customize your user interface to speed up the process and facilitate your navigation through Alberto Web sites
+
+Use and Disclosure of Personal Information
+
+> Alberto uses the Personal Information for the purposes indicated at the time you voluntarily provide such information and/or set forth in this Privacy Policy. The Personal Information that you provide will be available to Alberto, our agents, representatives and trusted service providers and contractors for limited purposes. These categories of use include, but may not be limited to, communicating to Alberto Web sites visitors, offering certain products and services in connection with Alberto Web sites (for example, Alberto may ask for Personal Information in order to send you information, with your consent, on new products, special offers, and performance of the Company), notifying and contacting Alberto Web site contest participants and winners, in connection with surveys related to our product and the Alberto Web sites, enhancing and improving the shopping experience of our customers and potential customers, aggregate research, promotional purposes and/or future Alberto Web site development. In addition, in the course of completing a transaction with Alberto, some of your Personal Information may be shared with certain fulfillment entities to perform functions on our behalf, such as package deliveries and credit card payment processing. The companies who have access to Personal Information are required to protect such Personal Information by, for example, using the information only to carry out the services they are performing for you or for Alberto.
+> 
+> In addition, we may, from time to time, share your information with selected third parties in a variety of categories including, but not limited to, marketing, strategic partners and providers of similar products and services ****to provide you with opportunities to purchase products, programs or services that may be of interest to you. We also may, from time to time, supplement the information we collect online with outside records to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. In addition, Alberto may share Alberto Web site usage information about visitors, who have received a targeted promotional campaign, with a reputable third-party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising company may note some of the pages you visit through the use of pixel tags (also called clear gif's).
+> 
+> We will also disclose Personal Information if in our opinion such disclosure is required (i) by law, (ii) to protect and/or defend Alberto’s rights and/or (iii) to protect the personal safety of any individual. In addition, in the event that all or substantially all of Alberto's stock and/or assets are transferred or sold to another entity, Alberto may transfer Personal Information to the acquiring entity.
+
+Changes
+
+> The Alberto Web sites policies, content, information, promotions, disclosures, disclaimers and features may be revised, modified, updated, and/or supplemented at any time and without prior notice at the sole and absolute discretion of Alberto. Changes to this Privacy Policy will be posted on the Alberto Web sites. You should review the Privacy Policy each time you access any Alberto Web site. Also, please note that the information that we gather now is subject to the Privacy Policy in effect at the time of Alberto's use of the information.
+
+Just For Me Web Site (jfmvipclub.com) Privacy Terms
+
+> While, in general, the Alberto Web sites are not directed at children, the jfmvipclub.com web site is designed for children. Your child’s privacy is important to us at jfmvipclub.com Alberto is committed to safeguarding children’s Personal Information collected online, and to helping parents and their children learn how to exercise control over Personal Information while exploring the Internet. The additional measures Alberto has taken to help children protect their privacy while online include not asking children to disclose more Personal Information than is necessary for them to participate in an activity. 
+> 
+> To help ensure a rewarding online experience for your child, Alberto provides you with this summary of our information practices on jfmvipclub.com. Specifically, this section of the Privacy Policy governs the collection and use of information solely at jfmvipclub.com.
+> 
+> While Alberto generally collects only a limited amount of Personal Information, to enable children to participate in some of our online activities, Alberto may ask children to provide Alberto with their first name, hometown, and e-mail address. 
+> 
+> On some pages of jfmvipclub.com, such as where children can send electronic postcards to their friends, Alberto also may ask your child to provide Personal Information about other people. This is usually limited to a first name and e-mail address. Alberto also may ask for the name and e-mail address of the child’s parent. 
+> 
+> Similarly to the other Alberto Web sites (as described above), when children visit jfmvipclub.com, Alberto automatically collects certain non-Personal Information such as the type of computer operating system (e.g., Windows 2000 or Mac OS) and browser (e.g., Netscape, Internet Explorer) being used, and the domain name of the Internet service provider (e.g., America Online, Earthlink). As noted above, we sometimes use the non-Personal Information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. 
+> 
+> Alberto never shares children’s Personal Information with third parties without first obtaining appropriate parental consent. Alberto uses children’s information only for our internal purposes such as to enable children to express their opinions on various topics, to send electronic postcards to their friends, to subscribe to our online newsletter, and to enter one of our sweepstakes or contests. 
+> 
+> Alberto also uses the information that we collect to enable the children to communicate with each other, for example, to send an electronic greeting card to a friend, or to obtain your consent for participation in these activities, such as to allow us to notify you when your child has entered one of our contests or promotions. 
+> 
+> Also as discussed above, we also will disclose Personal Information if in our opinion such disclosure is required (i) by law, (ii) to protect and/or defend Alberto’s rights and/or (iii) to protect the personal safety of any individual. In addition, in the event that all or substantially all of Alberto's stock and/or assets are transferred or sold to another entity, Alberto may transfer Personal Information to the acquiring entity. We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request. 
+> 
+> Like the other Alberto Web sites, jfmvipclub.com contains links to other sites whose information practices may be different than those at this site. The privacy terms for jfmvipclub.com only applies to jfmvipclub.com and not to Web sites of any other company or organization linked to jfmvipclub.com or any other Alberto Web site. Linking to third party Web sites requires you to leave jfmvipclub.com. We do not control those third party Web sites or any of the content or services that they provide and we are not responsible for any damages or problems arising from those Web sites jfmvipclub.com encourages you to review all policies and terms of each Web site that you visit.
+> 
+> As described above, we may use cookies that could enable us to relate any visitor’s use of jfmvipclub.com 
+> 
+> While currently, we do not store the e-mail addresses that we receive in connection with certain children’s activities on our site, we have, however, put in place appropriate safeguards to secure the very limited Personal Information that we receive from children for the very limited time it is in our possession. 
+
+Contact Us
+
+> If you have any questions, comments, or concerns regarding our Privacy Policy and/or practices as it relates to any or all of the Alberto Web sites, please contact us at the following e-mail address, address and telephone number:
+> 
+> E-Mail  
+>  Simply fill out the form found at [www.alberto.com](http://www.alberto.com/contact.cfm). Once the form is completed, click on submit and an e-mail will be sent to us. 
+> 
+> Address  
+>  Alberto-Culver Company  
+>  Consumer Relations  
+>  2525 Armitage Ave.  
+>  Melrose Park, Illinois 60160
+> 
+> Telephone Number  
+>  (708) 450-3000 and ask for Customer Relations
+
+[Terms & Conditions](https://web.archive.org/web/20081216011912id_/http%3A//www.alberto.com/terms.htm) | [Privacy Policy](https://web.archive.org/web/20081216011912id_/http%3A//www.alberto.com/privacy.htm) | [Communications](https://web.archive.org/web/20081216011912id_/http%3A//www.alberto.com/communications.htm) | [Copyright](https://web.archive.org/web/20081216011912id_/http%3A//www.alberto.com/copyright.htm) | Close Window 
