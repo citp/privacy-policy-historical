@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502002156id_/http%3A//www.cv-library.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011753id_/http%3A//www.cv-library.co.uk/privacy.html) for the most accurate reproduction.*
 
 # CV-library.co.uk - UK jobs, Careers, Recruitment
 
-|  **Information**
+## Information
 
 When you create or register your CV with us, we will collect information from you, such as your name, address, phone number, age, sex, email address etc.
 
@@ -10,12 +10,13 @@ We may use this information to send you details about important changes to the s
 
 Some of your details may be passed onto a small number of carefully selected companies that may have other opportunities for you. You may opt-out of this by ticking the relevant box on the second page of the CV submission form.
 
- **Cookies**
+## Cookies
 
-This site only uses cookies to monitor agency logins, and to prevent the pop-up window from displaying.
+This site only uses cookies to monitor agency logins, to prevent the pop-up window from displaying and to track referrals.
 
- **Further queries**
+## Further queries
 
 Any further queries should be directed through our [contact form](https://web.archive.org/cgi-bin/contact.cgi)
 
-| 
+  
+
