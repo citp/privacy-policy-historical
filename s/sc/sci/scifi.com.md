@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224040131id_/http%3A//www.scifi.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151845id_/http%3A//www.scifi.com/help/privacy) for the most accurate reproduction.*
 
 # SCIFI.COM | FAQ
 
@@ -157,15 +157,12 @@ New York, N.Y. 10112
 ---|---  
 |   
 ---  
+[](https://web.archive.org/members/migration/)  
+[](https://web.archive.org/members/)  
 [](https://web.archive.org/help/channelfaq/)  
 [](https://web.archive.org/help/faq/)  
 [](https://web.archive.org/help/terms/)  
 [](https://web.archive.org/help/privacy/)  
-[](https://web.archive.org/members/)  
 [](https://web.archive.org/help/forum/)  
 [](https://web.archive.org/help/downloads/)  
-[](https://web.archive.org/help/feedback/)  
-[](https://web.archive.org/help/webisodes/)  
----  
-  
-Buy _Battlestar Galactica_ episodes from [iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVSeason?id=102808898&s=143441) for your iPod.
+[](https://web.archive.org/help/feedback/)
