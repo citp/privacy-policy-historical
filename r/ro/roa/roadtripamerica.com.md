@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the roadtripamerica.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511202754id_/http%3A//www.roadtripamerica.com/aboutrta.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadtripamerica.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160442id_/http%3A//www.roadtripamerica.com/aboutrta.htm%23privacy) for the most accurate reproduction.*
 
 # About RoadTrip America®
 
-[RTA's Editors, Contributors, & Guides](https://web.archive.org/web/20080511202754id_/http%3A//www.roadtripamerica.com/guides.htm)  
+[RTA's Editors, Contributors, & Guides](https://web.archive.org/web/20081216160442id_/http%3A//www.roadtripamerica.com/guides.htm)  
 Copyright & Trademark Notice  
 Privacy Policy Statement  
-[Contact Information](https://web.archive.org/web/20080511202754id_/http%3A//www.roadtripamerica.com/address.htm)[](https://web.archive.org/web/20080511202754id_/http%3A//www.roadtripamerica.com/address.htm)Since 1996, RoadTrip America® has been the Web's premier destination for North American road trip information. In addition to [travel resources](https://web.archive.org/mainmenu.htm), RTA provides advice on [how to work on the road](https://web.archive.org/dashboarding/working.htm) and [how to stay connected to the Internet while traveling](https://web.archive.org/dashboarding/connecting.htm). RTA provides tips for [solo travelers](https://web.archive.org/tips/solo.htm), [couples](https://web.archive.org/tips/couples.htm), [disabled travelers](https://web.archive.org/tips/disabilities.htm), [international visitors](https://web.archive.org/links/international.htm), and [families](https://web.archive.org/tips/families.htm) traveling by [car](https://web.archive.org/tips/carcamping.htm), [motorcycle](https://web.archive.org/read/motorcycle.htm), [bicycle](https://web.archive.org/tips/biking.htm), or [recreational vehicle](https://web.archive.org/tips/rv.htm). [The Great American RoadTrip](http://www.roadtripamerica.com/forum/), RTA's interactive forum, is a community where road trippers share and seek advice and inspiration.
+[Contact Information](https://web.archive.org/web/20081216160442id_/http%3A//www.roadtripamerica.com/address.htm)[](https://web.archive.org/web/20081216160442id_/http%3A//www.roadtripamerica.com/address.htm)Since 1996, RoadTrip America® has been the Web's premier destination for North American road trip information. In addition to [travel resources](https://web.archive.org/mainmenu.htm), RTA provides advice on [how to work on the road](https://web.archive.org/dashboarding/working.htm) and [how to stay connected to the Internet while traveling](https://web.archive.org/dashboarding/connecting.htm). RTA provides tips for [solo travelers](https://web.archive.org/tips/solo.htm), [couples](https://web.archive.org/tips/couples.htm), [disabled travelers](https://web.archive.org/tips/disabilities.htm), [international visitors](https://web.archive.org/links/international.htm), and [families](https://web.archive.org/tips/families.htm) traveling by [car](https://web.archive.org/tips/carcamping.htm), [motorcycle](https://web.archive.org/read/motorcycle.htm), [bicycle](https://web.archive.org/tips/biking.htm), or [recreational vehicle](https://web.archive.org/tips/rv.htm). [The Great American RoadTrip](http://www.roadtripamerica.com/forum/), RTA's interactive forum, is a community where road trippers share and seek advice and inspiration.
 
 RoadTrip America® features articles **** about [destinations](https://web.archive.org/places/places.htm), [routes](https://web.archive.org/links/routes.htm), and [attractions](https://web.archive.org/links/destinations.htm), as well as the Web's largest [gallery of funny road signs](https://web.archive.org/signs/signs.htm). A one-stop source for [the best in travel publications](https://web.archive.org/read/guides.htm), RTA posts reviews and recommendations for books and software available in association with [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/roadtriamericare). RTA also keeps abreast of [developments in mobile Internet access](https://web.archive.org/dashboarding/future.htm).
 
@@ -65,7 +65,7 @@ A. Information Collected:
 
 > 1\. In general, you can join us "on the road and online" without telling us who you are and without revealing any personal information about yourself.
 > 
-> 2\. We collect anonymous information from your visits to RoadTrip America by using the IP addresses from the Log files. We keep track of domain names but not the e-mail address, of anyone who visits our Web site. However, when you use the "E-mail this page to a Friend" we can view the e-mail address of both the viewer and sender of the form. These e-mail addresses are not used for any purpose except to complete the sending of the forms as requested by the site visitors.
+> 2\. We collect anonymous information from your visits to RoadTrip America by using the IP addresses from the Log files. We keep track of domain names but not the e-mail address, of anyone who visits our Web site. We use the page sharing services of both "Share This" and the RSS feed sharing by e-mail provided by "Feed Burner" and so we can view the e-mail address of both the viewer and sender of the form. These e-mail addresses are not used for any purpose except to complete the sending of the forms as requested by the site visitors.
 > 
 > 3\. We also collect data on some of the pages that you may visit and the information that you may submit when you use the e-mail newsletter registration form, which we call the "Guest Submission" page. We may also collect data about what you pages you looked at and/or access and how long you spent on the RoadTrip America Web site.
 > 
@@ -81,7 +81,7 @@ B. Sharing of Information:
 
 2\. If you voluntarily provide personally identifiable information for the purpose of making a purchase or entering a contest, we will forward that specific information to the third parties for credit card/check processing and order fulfillment. While RoadTrip America will seek to require that any such third parties will follow the appropriate privacy policies and will not authorize them to use any part of this information except for the express purpose for which it was provided, RoadTrip America does not bear any responsibility for any actions or policies of any third parties.
 
-3\. We may partner with another party to provide specific services. If you were to sign up for these special services, we will share the names and other contact information as is necessary for the third party to provide these services. Such a service could include an online personalized mapping services or a shopping service for wireless equipment. One such service is the "E-mail this page to a friend" referenced in paragraph A-2.
+3\. We may partner with another party to provide specific services. If you were to sign up for these special services, we will share the names and other contact information as is necessary for the third party to provide these services. Such a service could include an online personalized mapping services or a shopping service for wireless equipment. Two such services are the sharing page services referenced in paragraph A-2 and you should consult each of their privacy statements for further information about how personal information is saved on their servers.
 
 4\. We may disclose personal identifiable information when required by law or in the good-faith belief that such action is necessary in order to conform to the requirements of the law or to comply with legal process served on RoadTrip America.
 
@@ -136,13 +136,10 @@ G. Choice/Double Opt-In:
 
 3\. We also give you the option to remove your name and e-mail address upon receipt of every e-newsletter that we send to you.
 
-4\. For the purposes of co-sponsoring a sweepstakes promotion with Pioneer Electronics (USA) Inc. and other sponsors for the period of September 1, 2006 to October 16, 2006, we have adopted a single opt-in registration process FOR THIS SWEEPSTAKES ONLY. Additional information about this sweepstakes and registration process, including options for opting-out can be read [here](http://www2.fanscape.com/contests/pioneer/summer06/sweepsrules/3_RoadTripAmerica_rules.htm).  
-
-
-
-
-
 H. Use of RoadTrip America by children:
+
+
+
 
 1\. While this Web site is not directed at children, it is our intention that the content produced and published on RoadTrip America be useful, entertaining and of reasonable acceptance for all ages of children and adults. 
 
@@ -153,7 +150,7 @@ H. Use of RoadTrip America by children:
 
 I. Notification of Changes:
 
-1\. This privacy statement was last updated on February 14, 2006. A notice will be posted on the RoadTrip America home page for thirty (30) days whenever this privacy statement is changed.
+1\. This privacy statement was last updated on August 31, 2008. A notice will be posted on the RoadTrip America home page for thirty (30) days whenever this privacy statement is changed.
 
 
 
