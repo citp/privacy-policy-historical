@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcreview.co.uk privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622021226id_/http%3A//www.pcreview.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcreview.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030147id_/http%3A//www.pcreview.co.uk/privacy.php) for the most accurate reproduction.*
 
 # PC Review - Privacy Policy
 
@@ -14,7 +14,9 @@ PC Review is not responsible for the content of external internet sites. You are
 
 **Cookies**
 
-A "cookie" is a small data text file that is placed in your browser and allows PC Review to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and PC Review does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as advertisers. 
+A "cookie" is a small data text file that is placed in your browser and allows PC Review to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and PC Review does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as advertisers.
+
+Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site (for example, Doubleclick DART), and you can opt out of these by changing your cookie settings from your Internet Options page.
 
 **Remember The Risks Whenever You Use The Internet**
 
