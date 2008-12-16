@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tesco.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530082054id_/http%3A//www.tesco.com/termsandconditions/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesco.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012847id_/http%3A//www.tesco.com/termsandconditions/privacy.htm) for the most accurate reproduction.*
 
 # Tesco.com Privacy policy
 
@@ -40,7 +40,7 @@ Our web site may contain links to other web sites which are outside our control 
 
 "Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about the way cookies work on [http://www.cookiecentral.com](http://www.cookiecentral.com/). Tesco uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for online shopping and to enable traffic monitoring.
 
-Non-registered visitors of the site are sent anonymous cookies to keep track of their browsing patterns and build up a demographic profile. In addition, any visitor who has clicked on a Tesco.com advertisement on another site that links to Tesco.com will be sent a semi-persistent (e.g. two weeks lifetime) anonymous cookie that will allow us to analyse advertising effectiveness and manage our relationship with affiliate sites.
+Non-registered visitors of the site are sent anonymous cookies to keep track of their browsing patterns and build up a demographic profile. In addition, any visitor who has clicked on a Tesco.com advertisement on another site that links to Tesco.com will be sent anonymous cookies that will allow us to analyse advertising effectiveness and manage our relationship with affiliate sites.
 
 Whilst you do not need to allow your browser to accept cookies in order to browse much of our web site or to access many of our services, you must have cookies enabled if you wish to shop online at any of our stores or access any areas reserved for registered users.
 
