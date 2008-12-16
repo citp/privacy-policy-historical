@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ericsson.com privacy policy that was archived on 2008-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080513102051id_/http%3A//www.ericsson.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ericsson.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216165021id_/http%3A//www.ericsson.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en" "http://www.w3.org/TR/REC-html40/loose.dtd"><html lang="en"><head>
                 
@@ -1282,6 +1282,28 @@ if (window.RegExp){
 }
 
 // Add customizations here
+
+function dcsMultiTrack(){
+	for (var i=0;i<arguments.length;i++){
+
+		if (arguments[i].indexOf('WT.')==0){  
+			WT[arguments[i].substring(3)]=arguments[i+1];
+			i++;
+		}
+		if (arguments[i].indexOf('DCS.')==0){
+			DCS[arguments[i].substring(4)]=arguments[i+1];
+			i++;
+		}
+		if (arguments[i].indexOf('DCSext.')==0){
+			DCSext[arguments[i].substring(7)]=arguments[i+1];
+			i++;
+		}
+	}
+	var dCurrent=new Date();
+	DCS.dcsdat=dCurrent.getTime();
+	dcsTag();
+}
+// End dcsMultiTrack Function
 
 function dcsVar(){
 	var dCurrent=new Date();
