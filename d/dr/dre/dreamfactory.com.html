@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the dreamfactory.com privacy policy that was archived on 2008-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080622170409id_/http%3A//www.dreamfactory.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dreamfactory.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216052831id_/http%3A//www.dreamfactory.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="js"><head>
-	    <title>DreamFactory Privacy Policy | DreamFactory</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="js"><head><title>DreamFactory Privacy Policy | DreamFactory</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="The following discloses our information gathering and dissemination practices for our web site at www.dreamfactory.com. Please note that this site contains links to other sites and that DreamFactory is not responsible for the privacy practices or the">
 <meta name="robots" content="index,follow">
@@ -15,19 +14,59 @@
 <style type="text/css" media="all">@import "/modules/user/user.css";</style>
 <style type="text/css" media="all">@import "/sites/all/modules/extlink/extlink.css";</style>
 <style type="text/css" media="all">@import "/sites/all/modules/og/og.css";</style>
-<style type="text/css" media="all">@import "/themes/dreamfactory/style.css";</style>
-    <script type="text/javascript" src="/misc/jquery.js"></script>
+
+<style type="text/css" media="all">@import "/themes/dreamfactory/style.css?refetch=1";</style>    <script type="text/javascript" src="/misc/jquery.js"></script>
 <script type="text/javascript" src="/misc/drupal.js"></script>
 <script type="text/javascript" src="/sites/all/modules/extlink/extlink.js"></script>
-<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": "ext", "baseUri": "http://www.dreamfactory.com" }, "googleanalytics": { "trackDownload": "pdf|zip|mp3" } } });</script>
-
+<script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1, "mailtoClass": 0 }, "googleanalytics": { "trackDownload": "pdf|zip|mp3" } } });</script>
+    <script type="text/javascript" src="/themes/dreamfactory/suckerfish_ie.js"></script>
     
-    
-  
-    <script type="text/javascript" language="javascript"><!--
+<script type="text/javascript" language="javascript"><!--
 function MM_popupMsg(msg) { //v1.0
   alert(msg);
 }
+
+
+	function showHide( whichLayer ) {
+  		var elem, vis;
+  		if( document.getElementById ) // this is the way the standards work
+    		elem = document.getElementById( whichLayer );
+  		else if( document.all ) // this is the way old msie versions work
+      		elem = document.all[whichLayer];
+  		else if( document.layers ) // this is the way nn4 works
+    		elem = document.layers[whichLayer];
+  		vis = elem.style;
+  		// if the style.display value is blank we try to figure it out here
+  		if(vis.display==''&&elem.offsetWidth!=undefined&&elem.offsetHeight!=undefined)
+    		vis.display = (elem.offsetWidth!=0&&elem.offsetHeight!=0)?'block':'none';
+ 			vis.display = (vis.display==''||vis.display=='block')?'none':'block';
+	}
+	
+	function changeDisplay( whichLayer, newValue ) {
+  		var elem, vis;
+  		if( document.getElementById ) // this is the way the standards work
+    		elem = document.getElementById( whichLayer );
+  		else if( document.all ) // this is the way old msie versions work
+      		elem = document.all[whichLayer];
+  		else if( document.layers ) // this is the way nn4 works
+    		elem = document.layers[whichLayer];
+  		vis = elem.style;
+    	vis.display = newValue;
+	}
+	
+	
+	function showTabNumber( tabNumber, totalTabs ){
+	
+		for(i=1;i<=totalTabs;i++){
+		
+			if(i==tabNumber){
+				changeDisplay('tab'+i,"block");
+			}else{
+				changeDisplay('tab'+i,"none");
+			}
+		}
+	}
+
 
 function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
@@ -57,152 +96,176 @@ function MM_validateForm() { //v4.0
   } if (errors) alert('The following error(s) occurred:\n'+errors);
   document.MM_returnValue = (errors == '');
 }
-
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-  if (restore) selObj.selectedIndex=0;
-}
-
-
 //--></script>
-
-    
-
-
-    <style type="text/css" media="print">@import "/themes/dreamfactory/print.css";</style>
-    <!--[if lt IE 7]>
-    <style type="text/css" media="all">@import "/themes/dreamfactory/fix-ie.css";</style>
-    <![endif]-->
-  </head>
-  <body>
-  
-
-  
+<style type="text/css" media="print">@import "/themes/dreamfactory/print.css";</style>
+</head>
+<body>
 <div id="wrapper">
-
-<div id="wrapperTop"></div>
-
-
-    <div id="loginheader">
-<div id="loginlinks">
-&nbsp;&nbsp;
-<a href="javascript:void(0)" onclick="document.location='/user/register'" title="Create account">Create account</a>
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-<a href="javascript:void(0)" onclick="document.location='/user/password'" title="Retrieve lost password">Forgot your password?</a>
-</div>
-<div id="loginform">
-<form action="/user?destination=privacy" method="post" id="user-login-form">
-Username:
-<input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" tabindex="1" class="form-text required">
-Password: 
-<input type="password" name="pass" id="edit-pass" size="15" tabindex="2" class="form-text required">
-<input type="button" name="op" id="edit-submit" value="Log in" onclick="this.form.submit();" tabindex="3" class="form-submit">
-
-<input type="hidden" name="form_id" id="edit-user-login" value="user_login">
-</form>
-</div>
-   </div>
-
-
-    <div id="preheader">
-        <a href="/">
-            <img src="/themes/dreamfactory/images/df_logo.gif" style="float: left; border: 0;"></a>
-   
-
-
+	<div id="preheader">
+        <a href="/"><img src="/themes/dreamfactory/images/logo_on_grey.jpg" style="float: left; border: 0; margin-left:14px;"></a>
         <div id="preheaderlinks">
-   
-      
-
-
-
-<form name="form" id="form">
-Customer Login:&nbsp;&nbsp;
-<select name="jumpMenu" id="jumpMenu" onchange="MM_jumpMenu('parent',this,0)">
-    <option>Select</option>
-    <option value="https://www.dreamfactory.net/amazon/professional_entrance.html">Professional</option>
-    <option value="https://www.dreamfactory.net/amazon/enterprise_entrance.html">Enterprise</option>
-    <option value="https://www.dreamfactory.net/amazon/freetrial_entrance.html">Free Trial</option>
-  </select>
-</form>
-       <!--
-       <a href="javascript:void(0)" onclick="document.getElementById('loginheader').style.display = 'block';">Sign in</a> | <a href="/user/register">Create account</a>
--->
-
-           <!-- <h2>Next gen apps for next gen platforms</h2>-->
-            
         </div>
         <!--//end #preheaderlinks//-->
         
         <div id="searchBox">
        <form action="/search/node" method="post" id="search-theme-form">
-<div>
-<a class="button" href="javascript:document.forms[2].submit();" onclick="this.blur();"><span>Search</span></a>
-	<input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search_theme_form_keys" size="15" value="" title="Enter the terms you wish to search for.">
-	<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
-	<input type="hidden" name="form_token" id="a-unique-id" value="cda6d6c5c78ebcd1f123238ba08cf8fc">
+<div><table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td valign="middle"><input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search_theme_form_keys" size="15" value="" title="Enter the terms you wish to search for.">
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
+<input type="hidden" name="form_token" id="a-unique-id" value="829b2ed6a5960b86dc78bc67cdc8b7b7"></td>
+<td valign="middle"><a href="javascript:document.forms[0].submit();" onclick="this.blur();"><img src="/themes/dreamfactory/images/08_search_button.gif" style="margin-left:6px;"></a></td>
+</tr>
+</tbody></table>
 
 
 </div></form>
  
-</div>
+		</div>
+
     </div>
     <!--//end #preheader//-->
 <!-- Layout -->
 
 <div id="header">
-<!--<div style="float:right;text-align:right;width:240px;line-height:27px;height:42px;padding:23px 20px 0px 0px;"><form action="/search/node"  method="post" id="search-theme-form">
-<div>
-<a class="button" href="javascript:document.forms[2].submit();" onclick="this.blur();"><span>Search</span></a>
-	<input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search_theme_form_keys"  size="15" value="" title="Enter the terms you wish to search for." />
-	<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form" />
-	<input type="hidden" name="form_token" id="a-unique-id" value="cda6d6c5c78ebcd1f123238ba08cf8fc" />
 
 
-</div></form>
- </div>-->
-<div id="tabs" class="clearfix">
-                  <ul class="links primary-links"><li class="first menu-1-1-2"><a href="/solutions" class="menu-1-1-2"><span>SOLUTIONS</span></a></li>
-<li class="menu-1-2-2"><a href="/resource-center" class="menu-1-2-2"><span>RESOURCE CENTER</span></a></li>
-<li class="menu-1-3-2"><a href="http://www.dreamfactory.org" class="menu-1-3-2"><span>DEVELOPER PORTAL</span></a></li>
-<li class="menu-1-4-2"><a href="/customers" class="menu-1-4-2"><span>CUSTOMERS</span></a></li>
-<li class="menu-1-5-2"><a href="/partners" class="menu-1-5-2"><span>PARTNERS</span></a></li>
-<li class="menu-1-6-2"><a href="/support" class="menu-1-6-2"><span>SUPPORT</span></a></li>
-<li class="last menu-1-7-2"><a href="/company" class="menu-1-7-2"><span>COMPANY</span></a></li>
-</ul>        </div>
-      </div> <!-- /header -->
 
-      
+
+<table width="950" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td>
+    
+    
+<ul id="suckerfishnav">
+<li><div class="mainNavButton" style="width:118px;"><a href="/solutions"><span>SOLUTIONS</span></a></div>
+<ul style="width:231px;">
+<li style="width:230px;"><a href="/intuit" style="width:225px;">Solutions for Everyone</a></li>
+<li style="width:230px;"><a href="/appexchange" style="width:225px;">For Salesforce.com Customers</a></li>
+<li style="width:230px;"><a href="/intuit" style="width:225px;">For Intuit Workplace Customers</a></li>
+<li style="width:230px;"><a href="/connect" style="width:225px;">For WebEx Connect Customers</a></li>
+
+</ul>
+</li>
+
+<!--
+
+<li><div class="mainNavButton"><a href="/platforms">PLATFORMS</a></div>
+<ul>
+<li><a href="/amazon">Amazon Web Services</a></li>
+<li><a href="/appexchange">Salesforce AppExchange</a></li>
+<li><a href="/quickbase">Intuit QuickBase</a></li>
+<li><a href="/connect">WebEx Connect</a></li>
+</ul>
+</li>
+-->
+
+<li><div class="mainNavButton" style="width:180px;"><a href="/learning-center"><span>LEARNING CENTER</span></a></div>
+<ul style="width:180px;"> 
+<li style="width:179px;"><a href="/learning-center/daily_demo">Daily Demos</a></li>
+<li style="width:179px;"><a href="/support/training">Training</a></li>
+<li style="width:179px;"><a href="/learning-center/white_papers">White Papers</a></li>
+<li style="width:179px;"><a href="/learning-center/web-seminars">Web Seminars</a></li>
+</ul>
+</li>
+<li><div class="mainNavButton" style="width:110px;"><a href="/support"><span>SUPPORT</span></a></div>
+	<ul style="width:231px;">
+	<li style="width:230px;"><a href="/support/dreamfactory-suite" style="width:225px;">DreamFactory Suite Support</a></li>
+	<li style="width:230px;"><a href="/support/dreamfactory-utilities" style="width:225px;">DreamFactory Utilities Support</a></li>
+	<li style="width:230px;"><a href="/support/dreamteam" style="width:225px;">DreamTeam Suite Support</a></li>
+	<li style="width:230px;"><a href="/support/snapshot" style="width:225px;">SnapShot Support</a></li>
+	<li style="width:230px;"><a href="/support/formfactory" style="width:225px;">FormFactory Support</a></li>
+	</ul>
+</li>
+
+ <li><div class="mainNavButton" style="width:145px;"><div style="float:right;font-size:10px;font-weight:bold;color:#ffa637;margin-right:15px;margin-left:-10px;margin-top:-1px;margin-right:10px;">[&gt;]</div><a href="http://www.dreamfactory.org" target="_self"><span>DEVELOPERS</span></a></div></li>
+
+<li><div class="mainNavButton" style="width:111px;"><a href="/partners"><span>PARTNERS</span></a></div>
+
+<ul>
+<li><a href="/platforms">Partner Platforms</a></li>
+<li><a href="/partners/technology">Technology Partners</a></li>
+<li><a href="/partners/consulting">SI/Consulting Partners</a></li>
+<li><a href="/partners/join">Partner Registration</a></li>
+</ul>
+</li>
+<li><div class="mainNavButton" style="width:110px;"><a href="/company"><span>COMPANY</span></a></div>
+<ul>
+<li><a href="/company/background">About DreamFactory</a></li>
+<li><a href="/customers">Customers</a></li>
+<li><a href="/company/news">Press Releases</a></li>
+<li><a href="/company/news/event">Events</a></li>
+<li><a href="/company/news/articles">Articles</a></li>
+<li><a href="/company/management">Executive Team</a></li>
+<li><a href="/cb">Corporate Blog</a></li>
+<li><a href="/company/careers">Careers</a></li>
+<li><a href="/company/newsletter">Newsletter</a></li>
+<li><a href="/company/contact">Contact Us</a></li>
+</ul>
+</li>
+<li><div id="mainNavButtonOrange" style="width:175px;"><a href="#"><span>CUSTOMER LOGIN</span></a></div>
+<ul>
+<li><a href="https://www.dreamfactory.net/amazon/freetrial_entrance.html">Free Trial</a></li>
+<li><a href="https://www.dreamfactory.net/amazon/professional_entrance.html">Professional</a></li>
+<li><a href="https://www.dreamfactory.net/amazon/enterprise_entrance.html">Enterprise</a></li>
+</ul></li>
+<li><div id="mainNavButtonOrangeLine" style="width:1px;"></div></li>
+</ul>
+
+
+<!--<a href="/solutions"><img src="/themes/dreamfactory/images/menu_solutions_off.gif" width="113" height="38" border="0" /></a></td>
+    <td><a href="/platforms"><img src="/themes/dreamfactory/images/menu_platforms_off.gif" width="109" height="38" border="0" /></a></td>
+    <td><a href="/learning-center"><img src="/themes/dreamfactory/images/menu_learningcenter_off.gif" width="152" height="38" border="0" /></a></td>
+    <td><a href="/support"><img src="/themes/dreamfactory/images/menu_support_off.gif" width="92" height="38" border="0" /></a></td>
+    <td><a href="http://www.dreamfactory.org" target="_self"><img src="/themes/dreamfactory/images/menu_developers_off.gif" width="133" height="38" border="0" /></a></td>
+    <td><a href="/partners"><img src="/themes/dreamfactory/images/menu_partners_off.gif" width="99" height="38" border="0" /></a></td>
+    <td><a href="/company"><img src="/themes/dreamfactory/images/menu_company_off.gif" width="97" height="38" border="0" /></a></td>
+    <td><a href="/customer-login"><img src="/themes/dreamfactory/images/menu_login_off.gif" width="155" height="38" border="0" /></a></td>
+-->
+
+
+
+  </td></tr>
+</tbody></table>
+</div>
+
+
+
+<div id="bodyWrapperTop">
+<img src="/themes/dreamfactory/images/top_background_950.jpg" width="950" height="11">
+</div>
+<div id="bodyWrapper">
+
+
+              
+        <!-- Header BLOCK-->
+        <div class="breadcrumb"><a href="/" title="Home">Home</a> / <strong>DreamFactory Privacy Policy</strong></div>        <div id="header-region" class="clear-block"></div>
+        <!-- end header block-->
+        
       <div id="centerColumn" class="clearfix">
-
 
             <div style="float:right;"><!-- DOUBLE MARGIN FIX - RC -->
         <div id="rightColumn" class="sidebar">
       
                 
 
-    <div id="block-block-3" class="clear-block block block-block">
+    
 
-  <h2>NEXT STEPS</h2>
+  <div id="blockHeader">NEED ASSISTANCE?</div>
 
-  <div class="content"><ul class="menuplus">
-<li><a href="/resource-center/daily_demo">Daily Demos</a></li>
-
-<li><a href="/solutions/trials">Free Trials</a></li>
-</ul></div>
-</div>
 <div id="block-block-1" class="clear-block block block-block">
 
-  <h2>NEED ASSISTANCE?</h2>
 
   <div class="content"><ul>
-<li>1-888-399-DREAM (3732)</li>
+<li>1-877-577-3453</li>
 <li><a href="mailto:support@dreamfactory.com">support@dreamfactory.com</a></li>
 <li><a href="#" onclick="window.open(&quot;http://server.iad.liveperson.net/hc/65393048/?cmd=file&amp;file=visitorWantsToChat&amp;site=65393048&amp;byhref=1&quot;,&quot;popwin&quot;,&quot;width=400,height=200,status=yes,scrollbars=no resizable=no&quot;)">Online Chat</a></li>
 </ul>
 </div>
 </div>
+
+  <div id="blockFooter"></div>
+
 
           
         </div>
@@ -215,11 +278,11 @@ Customer Login:&nbsp;&nbsp;
  
  
 <div id="content" class="page-content">
-
-		<div class="breadcrumb"><a href="/" title="Home">Home</a> / <strong>DreamFactory Privacy Policy</strong></div>	  
+        
+		
+	  
           
-                    <h1>DreamFactory Privacy Policy</h1>          <!-- MIchael Edited this guy out for Ryan <br /> -->
-                    
+                    <h1>DreamFactory Privacy Policy</h1>                    
                               
           
                     <div id="node-23" class="node">
@@ -259,20 +322,25 @@ Mountain View, CA 94040<br>
 
           <br>
           
-                    
-          
-          <div id="footer">©2007 DreamFactory Software, Inc. &nbsp;&nbsp;&nbsp; <a href="/privacy">Privacy Policy</a> | <a href="/terms_of_use">Terms of Use</a>
-          <br><br>
-          DreamFactory is a registered trademark of DreamFactory Software, Inc. All Rights Reserved.</div>
-          
-          <div id="wrapperBottom"></div>
-          
-          
-    </div> <!-- /container -->
+         
+      
+    </div> <!-- /bodyWrapper -->
+    <div id="bodyWrapperBottom"></div>
+    
+
+    <div id="footerSmall">
+    		©2007 DreamFactory Software, Inc. &nbsp;&nbsp;&nbsp; <a href="/privacy">Privacy Policy</a> | <a href="/terms_of_use">Terms of Use</a>
+ | DreamFactory is a registered trademark of DreamFactory Software, Inc. All Rights Reserved.
+    </div>
+    
+    
+    
+  </div><!-- /wrapper -->
+
   
 <!-- /layout -->
 
-  <script type="text/javascript">
+<script type="text/javascript">
                   document.write("\<script src='http" + "://www" + ".google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
                 </script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
                 <script type="text/javascript">
@@ -280,14 +348,8 @@ Mountain View, CA 94040<br>
                   pageTracker._initData();
                   
                   pageTracker._trackPageview();
-                </script><script type="text/javascript" src="/modules/google_analytics/downloadtracker.js"></script>
+                </script><script type="text/javascript" src="/sites/all/modules/google_analytics/downloadtracker.js"></script>
 
-<!--
-<script src="http://s1.sunflowersix.com/script.php" type="text/javascript"></script>
-<script type="text/javascript">
-sf6("254");
-</script>
--->
 
 <!-- LEADLANDER START -->
 <script type="text/javascript" language="javascript">i=11327</script>
@@ -299,14 +361,16 @@ sf6("254");
 <script language="javascript" src="http://server.iad.liveperson.net/hc/65393048/x.js?cmd=file&amp;file=chatScript3&amp;site=65393048&amp;&amp;category=en;woman;5"> </script>
 <!-- END HumanTag Monitor -->
 
-<!-- Begin Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
-<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
-<script type="text/javascript">__sfga();</script>
-<!-- End Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
+<!-- MARKETO START --->
+<script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+<script>mktoMunchkin("510-TBE-876");</script>
+<!-- MARKETO END -->
 
+<!-- Begin Salesforce Tracking Code, Place immediately before closing </BODY> tag
+<SCRIPT type="text/javascript" src="https://lct.salesforce.com/sfga.js"></SCRIPT>
+<SCRIPT type="text/javascript">__sfga();</SCRIPT>
 
-
-
+End Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
 
 
 
