@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanriotown.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201144318id_/http%3A//www.sanriotown.com/login/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanriotown.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164421id_/http%3A//www.sanriotown.com/login/privacy_us.php) for the most accurate reproduction.*
 
 # Sanriotown - Privacy Policy
 
@@ -60,13 +60,10 @@ Please be aware that when you click on the advertising banners on our web sites 
 
 Sanriotown.com does not collect personal information from persons under the age of 13. In order to ensure adherence to this policy, the opening page of our website asks for the date, month and year of birth of each visitor and denies further access to visitors whose birth date shows that they are under 13 years of age. If you believe that a child under 13 has gained access to the sanriotown.com site, or if you have any questions concerning sanriotown.com’s privacy policy and practices, please contact us at: 
 
-**Outblaze Limited**   
-Unit 1106-08, Cyberport 2   
-100 Cyberport Road   
-Hong Kong 
-
-Tel: (852) 2591-9852   
-Fax: (852) 2832-7807   
+**Sanrio Digital (HK) Ltd**  
+Unit 1109, Level 11, Cyberport 2  
+100 Cyberport Road  
+Hong Kong  
 Email: [info@sanriotown.com](mailto:info@sanriotow.com)
 
   
@@ -81,13 +78,10 @@ By registering for any of our services, you also consent to the transfer of any 
 
 If you have any questions concerning our use of your personal information, please contact us at: 
 
-**Outblaze Limited**   
-Unit 1106-08, Cyberport 2   
-100 Cyberport Road   
-Hong Kong 
-
-Tel: (852) 2591-9852   
-Fax: (852) 2832-7807   
+**Sanrio Digital (HK) Ltd**  
+Unit 1109, Level 11, Cyberport 2  
+100 Cyberport Road  
+Hong Kong  
 Email: [info@sanriotown.com](mailto:info@sanriotow.com)
 
 Last updated September/2006 
