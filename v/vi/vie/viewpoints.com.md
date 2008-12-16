@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viewpoints.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523195701id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpoints.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171147id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy at Viewpoints.com
+# Privacy Policy - Viewpoints
 
 Viewpoints Network, LLC, ("Viewpoints", "us", "we" or "our") is committed to protecting your privacy. This policy ("Privacy Policy") covers how Viewpoints treats personal information that it collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, and phone number.
 
