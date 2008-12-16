@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emmys.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212163406id_/http%3A//www.emmys.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emmys.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031158id_/http%3A//cdn.emmys.tv/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Academy of Television Arts & Sciences
 
