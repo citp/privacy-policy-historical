@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518072633id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041621id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy - Intelligent Finance
 
@@ -62,7 +62,7 @@ Our main use of your personal information is to look after your plan or to provi
 
 If you apply to us for insurance we will pass your details to the insurer. If you make a claim, any information you give to us or to the insurer may be put on to a register of claims and shared with other insurers to prevent fraudulent claims. A list of the participants is available from the insurer. 
 
-Occasionally, we may contact you by letter, telephone, email or otherwise to inform you about other products and services which may interest you. We try to limit our customer contact programme to acceptable levels, but if you wish to exercise your right to opt out, simply call us on **0845 609 4343 ¹** or write to our Head of Regulatory Risk at the following address: 
+Occasionally, we may contact you by letter, telephone, email or otherwise to inform you about other products and services which may interest you. We try to limit our customer contact programme to acceptable levels, but if you wish to exercise your right to opt out, simply call us on **0845 609 4343 ⁴** or write to our Head of Regulatory Risk at the following address: 
 
 **Head of Regulatory Risk,  
 Intelligent Finance,  
@@ -107,7 +107,7 @@ We use Equifax plc, whilst other members of the HBOS Group also use Experian Lim
 
 **Call Credit plc, One Park Lane, Leeds, West Yorkshire, LS3 1EP ([www.callcredit.co.uk](http://www.callcredit.co.uk/ "Link opens in a new window - www.callcredit.co.uk"))**
 
-If you've been refused credit you can get advice from your local Trading Standards Department, Citizens Advice Bureau or Consumer Advice Centre. The Information Commissioner also produces a useful leaflet entitled 'No Credit?'. You can obtain a free copy on the Information Commissioner's website <http://www.ico.gov.uk/> or by telephoning **0870 600 8100 ³**. Comprehensive consumer help information can also be found on the agencies' websites. 
+If you've been refused credit you can get advice from your local Trading Standards Department, Citizens Advice Bureau or Consumer Advice Centre. The Information Commissioner also produces a useful leaflet entitled 'No Credit?'. You can obtain a free copy on the Information Commissioner's website <http://www.ico.gov.uk/> or by telephoning **0870 600 8100 ⁴**. Comprehensive consumer help information can also be found on the agencies' websites. 
 
 When you apply to us for a credit based product, the details you provide, the information we already have and information from credit reference agencies are used to assess credit risk using a technique known as credit scoring. 
 
@@ -125,7 +125,7 @@ Our systems protect customers and ourselves against fraud and other crime. Custo
     * Recovering debt
     * Checking details on proposals and claims for all types of insurance
     * Checking details of job applicants and employees.
-  * Please contact us on **0845 609 4343 ¹** if you want to receive details of the relevant fraud prevention agencies.
+  * Please contact us on **0845 609 4343 ⁴** if you want to receive details of the relevant fraud prevention agencies.
 
 
 
@@ -147,8 +147,7 @@ If you apply for insurance or life assurance through us, we may ask you for some
 
 The Intelligent Finance website contains links to sites operated by persons outside the HBOS Group. We are not responsible for the privacy practices, content, or the product and services provided through those sites.
 
-¹ Calls to 0845 numbers from BT landlines will cost a maximum of 4p per minute. The price of calls from other telephone companies will vary. The call price is correct at September 2007.
-
-³ Calls to 0870 numbers from BT landlines will cost a maximum of 8p per minute. The price of calls from other telephone companies will vary. The call price is correct at September 2007.
+⁴ Calls to 0845 numbers from BT landlines will cost no more than 2p a minute, plus a 7p connection fee.  
+Calls to 0870 numbers from BT landlines will cost no more than 6p a minute, plus a 7p connection fee. The price of calls through other phone companies and from mobile phones will vary. The call price is correct at September 2008.
 
 Back to top
