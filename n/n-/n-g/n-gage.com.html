@@ -1,19 +1,14 @@
-<!--The following is the downloaded HTML source of the n-gage.com privacy policy that was archived on 2008-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080308050325id_/http%3A//www.n-gage.com/legal/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the n-gage.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216053814id_/http%3A//www.n-gage.com/ngi/ngage/web/g0/en/footer/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="eng"><head>
-	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-	<meta http-equiv="content-script-type" content="text/javascript">
-	<meta http-equiv="content-style-type" content="text/css">
-	<title>N-Gage | Privacy Policy</title>		
-	<style type="text/css" media="all">
-		@import url(/css/main.css);
-	</style>
-    <script src="/js/sifr.js" type="text/javascript"></script>
-	<script src="/js/global.js" type="text/javascript"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- HEAD --><!-- beginResource --><head><link rel="stylesheet" type="text/css" href="/ngi/etc/design/ngage/web/g0/en/default.Css.l2fWChmVBMDPl3rLBxbSyxrLCY9Uz2LnywLUnhGX.css">
+
+
+
 <!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
 <script language="javascript">
+
 
 function hbxStrip(a)
 {
@@ -39,7 +34,7 @@ function hbxStrip(a)
 function doFlashPageEvent(pageName, contentDirectory)
 {
   if (pageName == null || pageName.length < 1)
-	return;		
+	return;
   if (contentDirectory == null || contentDirectory.length < 1)
 	contentDirectory = "/";
   _hbPageView(hbxStrip(pageName), hbxStrip(contentDirectory));
@@ -49,10 +44,31 @@ function doFlashPageEvent(pageName, contentDirectory)
 function doFlashLinkEvent(linkName,linkPosition)
 {
   if (linkName == null || linkName.length < 1)
-	return;		
+	return;
   if (linkPosition == null)
 	linkPosition = "";
   _hbLink(hbxStrip(linkName), hbxStrip(linkPosition));
+}
+
+function sGetQueryParm(qp)
+{
+	var pos = document.URL.indexOf(qp + "=");
+	if (pos == -1)
+      	return null;
+	pos += qp.length+1;
+	if (pos >= document.URL.length)
+      	return null;
+	var endPos1 = document.URL.indexOf("&", pos);
+	var endPos2 = document.URL.indexOf("#", pos);
+	if (endPos1 < 0 && endPos2 < 0)
+	{
+		return unescape(document.URL.substring(pos));
+	}
+	var endPos = endPos1;
+	if (endPos < 0 || (endPos2 >= 0 && endPos2 < endPos1))
+		endPos = endPos2;
+
+	return unescape(document.URL.substring(pos, endPos));
 }
 
 
@@ -77,6 +93,19 @@ var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-nokiafin.hitbox.com";
 hbx.acct="DM570314BJWD97EN3";//ACCOUNT NUMBER(S)
 hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
 hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
+if (document.URL.indexOf("dev.") >= 0 || document.URL.indexOf("int.") >= 0 || document.URL.indexOf("verify.") >= 0)
+{
+ hbx.acct="DM530703C4DB97EN3";
+ var fullURL = location.pathname.toLowerCase();
+ var pos1 = 0;
+ var parms = "";
+ pos1 = fullURL.lastIndexOf("/");
+ if (pos1 > 0)
+     hbx.mlc = "/ngage/" + fullURL.substring(1, pos1);
+ else
+  hbx.mlc = "/ngage";
+}
+
 hbx.pndef="index.html";//DEFAULT PAGE NAME
 hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
 
@@ -84,7 +113,7 @@ hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
 //ACTION SETTINGS
 hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
 hbx.lt="auto";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dlf=".sisx";//DOWNLOAD FILTER
 hbx.dft="n";//DOWNLOAD FILE NAMING
 hbx.elf="n";//EXIT LINK FILTER
 
@@ -99,7 +128,7 @@ hbx.dcmp="";//DYNAMIC CAMPAIGN ID
 hbx.dcmpn="cmp";//DYNAMIC CAMPAIGN ID IN QUERY
 hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
 hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hra="_P::ATTR"; //RESPONSE ATTRIBUTE
 hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
 hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
 hbx.hlt="";//LEAD TRACKING
@@ -113,7 +142,6 @@ hbx.cpd="";//CAMPAIGN DOMAIN
 
 //CUSTOM VARIABLES
 hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
 hbx.hc2="";//CUSTOM 2
 hbx.hc3="";//CUSTOM 3
 hbx.hc4="";//CUSTOM 4
@@ -121,140 +149,1146 @@ hbx.hrf="";//CUSTOM REFERRER
 hbx.pec="";//ERROR CODES
 
 //INSERT CUSTOM EVENTS
+var ev1;
+var qtParam = sGetQueryParm("qt");
+var qParam = sGetQueryParm("q");
+if (qtParam != null || qParam != null)
+{
+	qParam="Forum : "+qParam;
+	ev1 = _hbEvent("search");
+	ev1.results = "10";
+	if (qtParam == null)
+		qtParam = qParam;
+	qtParam="FAQ : "+qtParam;
+	ev1.keywords = qtParam;
+}
+
 
 //END EDITABLE SECTION
 
 //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" src="/js/hbe.js"></script>
+document.write('<script language="javascript1.1" src="' + location.protocol + '//' + location.host + '/' + location.href.split('/')[3] + '/js/hbe.js' + '\"\></script\>');
+</script><script language="javascript1.1" src="https://web.archive.org/web/js/hbe.js"></script>
+
 <!--END WEBSIDESTORY CODE-->
-</head>
-<body id="twoCol">
 
-<!-- main page -->
-<div id="page">
- 	
-	<!--  header -->
-	<div id="header">
-		<!-- Logo -->
-		<h1><a href="/home.html">N-Gage</a></h1>
-		<!-- Top navigation -->
-		<ul id="mainnav">
-			<li class="hide"><a href="#container" title="s is the accesskey for skipping to main content." accesskey="s">Skip to Main Content</a></li>
-			<li id="discover"><a href="/discover.html" title="Discover">Discover</a></li>
-			<li id="getngage"><a href="/get_ngage.html" title="Get-N-Gage">Get-N-Gage</a></li>
-			<li id="showroom"><a href="/showroom.html" title="Game Showroom">Game Showroom</a></li>
-			<li id="arena"><a href="/community.html" title="Arena Community">Arena Community</a></li>
-			<li id="support"><a href="/support/faq.html" title="Support">Support</a></li>
-		</ul>
-		<!-- user Resistration area -->
-		<div id="userReg">
-			<a href="https://login.n-gage.com/ngi/register/register.jsp" class="action bold">Reserve a Player Name <span></span></a>
-		</div>
-	</div>
-	<!-- end header-->
-	<!-- content container -->   
-	<div id="container">
+
+
+<!-- endResource -->
+  <title>N-Gage | Privacy Policy</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="encoding" content="utf-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="date" content="2008-09-18">
+<meta name="DC.Title" content="Privacy Policy">
+<meta name="DC.Subject" content="">
+<meta name="DC.Description" content="">
+<meta name="DC.Date" content="2008-09-18">
+<meta name="DC.Publisher" content="">
+
+   
+  <!-- beginResource -->
+  <link href="/ngi/css/ngiMain.css" rel="stylesheet">
+  <!-- endResource -->
+  
+	<style>
+		body {
+			text-align:center;
+			background:#ececec url('/ngi/images/full_bg_all.jpg') no-repeat top center; 
+			font-family: arial,helvetica,clean,sans-serif;
+			font-size:11px;
+			font-weight:normal;
+		}
+		#contentBanner {
+			background:url('/ngi/images/gradient01.png') repeat;
+			clear:both;
+			width:988px;
+			padding:0px 0px 0px 2px;
+			*width:990px;
+			*background-image:	none;
+			*filter:	progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='/ngi/images/gradient01.png');
+		}
+		#content {
+			background:url('/ngi/images/gradient01.png') repeat;
+			clear:both;
+			width:980px;			
+			padding:10px 0px 10px 10px;
+			margin-left:-1px;
+			*width:990px;
+			*background-image:	none;
+			*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='/ngi/images/gradient01.png');
+		}
+		#contentBottom {
+			background: url('/ngi/images/shadow_bottom.png') no-repeat;
+			clear:both;
+			width:990px;
+			height:19px;
+			*background-image:	none;
+			*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='/ngi/images/shadow_bottom.png');
+		}
+	</style>
+  <!-- beginResource -->
+  <script src="/ngi/js/ngiGlobal.js"></script>
+  <!-- endResource -->
+
+
+  <!-- PAGE PROPERTIES BAR -->
+  </head><body marginheight="0" topmargin="0" marginwidth="0" leftmargin="0" class="ngibody">
+  <!-- BODY -->
+  
+
+
+<script>
+/*
+ * onload functions
+ * Description:
+ *   Function that adds an onload event
+ * Notes:
+ *   An onload event should be called within the body, but the body is
+ *   created by NME code and this is done because that code cannot be changed.
+ */
+if (window.addEventListener){ //DOM method for binding an event
+	window.addEventListener("load", ngiContentColumnResize, false);
+} else if (window.attachEvent){ //IE exclusive method for binding an event
+	window.attachEvent("onload", ngiContentColumnResize);
+} else if (document.getElementById){ //support older modern browsers
+	window.onload=ngiContentColumnResize;
+}
+</script>
+  <div id="main">
+
+    <!-- beginRightCell -->
+    <div id="rightCell">
+      
+
+
+
+
+
+
+
+
+    </div>
+    <!-- endRightCell -->
+
+    <!-- beginHeader -->
+    <div id="header"> 
+      
+
+
+
+ 
+
+
+
+
+
+
+			
+			
+ 
+
+
+
+
+
+
+
+
+			
+			
+
+
+ 
+
+
+
+
+
+
+<script type="text/javascript">
+var mode=true;
+
+function getNonSecureBaseURL(){
+	var nonSecureHostName = 'http://www.n-gage.com';
+
+	if (location.protocol.indexOf('https') > -1) {
+		return nonSecureHostName;
+	} else {
+		return '';
+	}
+}
+function getSecureBaseURL(){
+	return 'https://new.arena.n-gage.com';
+}
+
+</script>
+<script type="text/javascript" language="javascript" src="/ngi/js/ngageUtilities.js"></script>
+<script type="text/javascript" language="javascript" src="/ngi/js/cookies.js"></script>
+<script type="text/javascript" language="javascript" src="/ngi/js/topNav.js"></script>
+<script type="text/javascript" src="/ngi/js/ngiGlobal.js"></script>
+<script type="text/javascript" src="/ngi/js/util-functions.js"></script>
+<script type="text/javascript" src="/ngi/js/clear-default-text.js"></script>
+
+
+
+<style>
+	.textLogo0{
+	 	float:left;
+		display: inline;
+	}
+
+	.mainNav{
+		float: left;
+		display: inline;
+		width: 650px;
+		height: 50px;
+		padding-top: 10px;
+	}
+	.mainNav a {
+		cursor: pointer;
+	}
+	#navTabs li a,
+	#navTabs li a.TopNavigationTopNavigationFont {
+		/*color:#434444;
+		font-family:arial,helvetica,clean,sans-serif;
+		font-size:11px;
+		font-style:normal;
+		font-weight:bold;*/
+
+	}
+
+
+	#navTabs {
+		float: left;
+		clear: right;
+		width: auto;
+		/*_width: 435px;  IE Only */
+		line-height: 0px;
+		margin: 4px 0px 4px 0px;
+	}
+
+	#searchItem {
+		float: left;
+		display: inline;
+		line-height: 0px;
+		margin: 0px 0px 0px -10px;
+	}
+
+	#navTabs ul, #searchItem ul {
+		margin: 0px;
+		padding: 0px 0px 0px 10px;
+		list-style: none;
+	}
+
+	#navTabs li, #searchItem li {
+		background: transparent;
+		float: left;
+		display: inline;
+		margin: 0px;
+		padding: 0px;
+		height: 22px;
+		line-height: 22px;
+	}
+
+	/* Commented Backslash Hack hides rule from IE5-Mac \*/
+	#navTabs a span, #searchItem a span, {
+		float:none;
+	}
+	/* End IE5-Mac hack */
+
+	#navTabs a, #searchItem a {
+		display: block;
+		/*background: url("/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationNormalLeftImage.-imagedesignprocessing.gif") no-repeat left top;*/
+		padding: 0 0 0 3px;
+		text-decoration: none;
+	}
+
+	#navTabs a span, #searchItem a span {
+		float: left;
+		display: inline;
+		position: relative;
+		height: 22px;
+		line-height: 22px;
+		background-image: url("/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationNormalBackgroundImage.-imagedesignprocessing.gif");
+		background-repeat: repeat-x;
+		background-position: left top;
+		_background-image: none;
+		_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationNormalBackgroundImage.-imagedesignprocessing.gif', sizingMethod='scale', enabled="true" );
+
+
+	}
+	#navTabs a .navTabsLeft, #searchItem a .navTabsLeft {
+		float: left;
+		display: inline;
+		_position: relative;
+		/*background: url("/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationNormalLeftImage.-imagedesignprocessing.gif") no-repeat right top;*/
+		width: 8px;
+		height: 22px;
+		background-image: url( '/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationNormalLeftImage.-imagedesignprocessing.gif' );
+		background-repeat:no-repeat;
+		background-position: left top;
+		margin-right: -3px;
+		_margin-right: 0px;
+		_background-image: none;
+		_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationNormalLeftImage.-imagedesignprocessing.gif', sizingMethod='image', enabled="true" );
+
+	}
+	#navTabs a .navTabsRight, #searchItem a .navTabsRight {
+		float: left;
+		display: inline;
+		_position: relative;
+		/*background: url("/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationNormalRightImage.-imagedesignprocessing.gif") no-repeat right top;*/
+		width: 7px;
+		height: 22px;
+		background-image: url( '/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationNormalRightImage.-imagedesignprocessing.gif' );
+		background-repeat:no-repeat;
+		background-position: right top;
+		margin-left: -2px;
+		_margin-left: 0px;
+		_background-image: none;
+		_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationNormalRightImage.-imagedesignprocessing.gif', sizingMethod='image', enabled="true" );
+	}
+	#navTabs a:hover, #searchItem a:hover {
+	}
+
+	#navTabs a:hover span, #searchItem a:hover span {
+		background-image: url( '/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationHoverBackgroundImage.-imagedesignprocessing.gif' );
+		background-repeat:repeat-x;
+		background-position: left top;
+		_background-image: none;
+		_position: relative;
+		_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationHoverBackgroundImage.-imagedesignprocessing.gif', sizingMethod='scale', enabled="true" );
+	}
+	#navTabs a:hover .navTabsLeft, #searchItem a:hover .navTabsLeft {
+		/*background: url("/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationHoverLeftImage.-imagedesignprocessing.gif") no-repeat left top;*/
+		cursor: pointer;
+		background-image: url( '/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationHoverLeftImage.-imagedesignprocessing.gif' );
+		background-repeat:no-repeat;
+		background-position: top;
+		_background-image: none;
+		_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationHoverLeftImage.-imagedesignprocessing.gif', sizingMethod='image', enabled='true' );
+	}
+	#navTabs a:hover .navTabsRight, #searchItem a:hover .navTabsRight {
+		/*background: url("/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationHoverRightImage.-imagedesignprocessing.gif") no-repeat left top;*/
+		cursor: pointer;
+		background-image: url( '/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationHoverRightImage.-imagedesignprocessing.gif' );
+		background-repeat:no-repeat;
+		background-position: top;
+		_background-image: none;
+		_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationHoverRightImage.-imagedesignprocessing.gif', sizingMethod='image', enabled='true' );
+	}
+
+
+
+	.searchArea{
+		display:inline;
+		float:right;
+		height:22px;
+		width:40px;
+		margin: 0 0 4px 0;
+	}
+
+	#txtSearch {
+		background: transparent;
+		border: solid 0;
+	}
+
+	.searchBox {
+		float: left;
+		height: 21px;
+		width: 115px;
+		padding: 2px 0px 0px 5px;
+		background: url("/ngi/images/search_bg.gif") no-repeat left top;
+	}
+	.searchfield {
+		width: 100px;
+	}
+
 	
-		<!-- main content -->
-		<div id="content">
-			<!-- Page Title -->
-			<h1>Privacy Policy of N-Gage.com</h1>
-			<div class="orangFrame">
-				<div class="orangFrame_top"></div>
-				<div class="orangFrame_body clearfix">
-					<ul class="wideCol">
-						<li>
-					<p>	(Version 2007-1; posted and effective as of September, 2007)</p>
-<p>This Privacy Policy is applicable to any site, and the services provided therein, operated by Nokia Corporation, its subsidiaries or affiliates ("Nokia") from which you have accessed this Privacy Policy (the "Site"). By accessing and using the Site, you expressly agree to the terms of this Privacy Policy.</p>
-<p>
-Such Site(s) include www.n-gage.com, mobile.n-gage.com, support.n-gage.com, and blog.n-gage.com. This Privacy Policy is applicable to the Site(s) and not necessarily to other Nokia sites. When leaving any Site(s), please read the privacy policy applicable to the site you are thereafter visiting.</p>
-<p>
-If you do not agree with this Privacy Policy, please do not use the Site(s).</p>
+	#navTabsSubLeft {
+		float: left;
+		display: inline;
+		clear: right;
+		margin: 0px;
+		height: 16px;
+		width: 16px;
+		background: url(/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-SubNavigationNormalLeftImage.-imagedesignprocessing.gif) no-repeat right top;
+	}
 
-<h4>1.	Visitor Identification ("Cookies") and Non-Personal Information</h4>
-<p>
-Nokia or its third-party designees may place information on your computer to allow Nokia to collect certain data. This information is commonly known as "cookies". The cookies used by Nokia or its third-party designees on the Site(s) are session-specific and expire when you leave the Site(s). The data collected through cookies does not, in any way, identify you personally or your computer. The information collected is collected for technical and maintenance purposes only.</p>
-<p>
-Please note that Nokia may provide aggregate statistics about our customers, sales, traffic patterns, and related Site information to reputable third parties, but these statistics will not include any personally identifying information.</p>
+	div#navTabsSubRight {
+		float: left;
+		display: inline;
+		clear: right;
+		margin: 0px;
+		height: 16px;
+		width: 16px;
+		padding: 0px;
+		background: url(/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-SubNavigationNormalRightImage.-imagedesignprocessing.gif) no-repeat left top;
+	}
+	#navTabsSub {
+		float: left;
+		display: inline;
+		clear: right;
+		width: auto;
+	}
 
-<h4>2.	Personal Information Collected</h4>
-<p>
-Nokia is committed to the protection of privacy of the Site(s) visitors. Nokia stores personal information that you may provide to Nokia, or that Nokia may receive in connection with the Site(s) and the services provided therein. Such information may include, among other information, your name, address, e-mail address, telephone number, your orders, purchases, shipping, billing, and payment details and information about your responses to the Site(s), campaigns, and other activities, as well as information about your contacts with the customer care line or activities relating to after-market (repair) services ("Personal Information").</p>
-<p>
-No information may be submitted to Nokia via the Site(s) by persons under the age of 16 or who are minors under their applicable local legislation. In the event you are of the age of 16 but a minor in your country, you will need consent from your parent(s) or other legal guardian(s) before submitting any information to Nokia via the Site(s).</p>
+	#navTabsSub ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	#navTabsSub li {
+		float: left;
+		display: inline;
+		clear: right;
+		white-space: nowrap;
+		background-image: url( '/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-SubNavigationNormalBackgroundImage.-imagedesignprocessing.gif' );
+		background-repeat:repeat-x;
+		background-position: top left;
+		_background-image: none;
+		_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-SubNavigationNormalBackgroundImage.-imagedesignprocessing.gif', sizingMethod='scale', enabled='true' );
+	}
 
-<h4>3.	Purposes for which Personal Information is Collected</h4>
-<p>
-Nokia collects Personal Information for the purposes of provision, development and personalization of the Site(s) and any other Nokia sites, services and/or products, research and demographics, statistics customer care, and fulfillment of your orders. Specifically, Nokia collects Personal Information for the purposes of personal communication with you in order to respond to your questions, fulfill your requests, manage and process orders, keep track of the performance of contracts of sale (including the delivery and activation of ordered Items, as well as of re-issue requests) and prevent possible misuse of payment methods on this Site. In the event you have so consented, Nokia may contact you for direct marketing purposes via mail, e-mail, or phone to conduct market research, and to inform you of and get your feedback on upcoming products, services, and/or promotions.</p>
-<h4>
-4.	Information Storage and Processing</h4>
-<p>
-The Personal Information relating to the Site(s) will be stored, processed, and used in accordance with applicable data protection regulations by Nokia Corporation, P.O. Box 100, FIN-00045 Nokia Group, Finland. The information may be processed and stored on servers in any jurisdictions in which Nokia operates, including, without limitation, those outside of the European Union and/or outside the country where you originally entered the information. Nokia may consolidate the consumer databases.</p>
-<p>
-You expressly accept and give your unambiguous consent that your Personal Information gained in connection with your use of the Site(s), with respect to the Site(s), may be transferred across international borders to server locations supporting the Site(s) (including but not limited to transfers from those locations back to the country of your registration) for operating and developing the Site(s), including transfers to Nokia subcontractors or agents, as mentioned below, who perform tasks related to the Site(s), or for the purposes of storing the data in the relevant database, which may be located in any jurisdictions in which Nokia operates, including, without limitation, those outside of the European Union and/or outside the country where you originally entered the information.</p>
-<p>
-You expressly accept and give your unambiguous consent that Nokia, service providers, Nokia "Service Points", affiliates, and other Nokia subcontractors or agents performing support order fulfillment and other thereto related tasks, may have access to your Personal Information that is needed for completing the task in question. These entities operating in these functions have accepted appropriate confidentiality obligations when processing your Personal Information.</p>
+	#navTabsSub a {
+		height: 16px;
+		line-height: 16px;
+		padding: 0 8px;
+		display: block;
+		*display: inline;
+	}
 
-<p>
-Nokia reserves the right at its sole discretion to amend the above list of countries from which access to Personal Information may be provided. Nokia will inform relevant data protection authorities of any such amendments and Nokia will inform you of any such amendments by amending this Privacy Policy accordingly and you unambiguously consent to any such amendments.</p>
-<p>
-Your Personal Information will not be revealed to any third parties without your prior consent, except as otherwise provided above in this Privacy Policy.</p>
+	#navTabsSub a:hover {
+		position: relative;
+		height: 16px;
+		line-height: 16px;
+		background-image: url( '/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-SubNavigationHoverBackgroundImage.-imagedesignprocessing.gif' );
+		background-repeat:repeat-x;
+		background-position: top left;
+		_background-image: none;
+		_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-SubNavigationHoverBackgroundImage.-imagedesignprocessing.gif', sizingMethod='scale', enabled='true' );
+	}
 
-<h4>5.	Security, Review and Accuracy of Personal Information</h4>
-<p>
-Please note that while there are always risks associated with providing Personal Information, whether in person, by phone, or over the Internet or any other media or terminal, and no system of technology is completely safe, "tamper" or "hacker-proof", Nokia has endeavored to take appropriate measures to prevent and minimize risks of unauthorized access to, improper use of, and inaccuracy of your Personal Information.</p>
-<p>
-You have the right, once a year without any cost and thereafter subject to compensation of reasonable costs of Nokia, to review any and all of your Personal Information stored by Nokia. Further, you have the right, at any time, to ask Nokia to remove some or all of your Personal Information and to prohibit Nokia or its third-party designees from using any Personal Information submitted by or collected from you.</p>
-<p>
-Nokia will on its own initiative, or at your request, replenish, rectify, or erase any incomplete, inaccurate, or outdated Personal Information retained by Nokia in connection with the operation of the Site(s). To exercise these rights with respect to your Personal Information please contact [support@n-gage.com].</p>
-<h4>
-6.	Service Specific Terms</h4>
-<p>
-Nokia may have separate terms for different services, in which the service-specific terms and conditions are set forth (including data protection). Please review and accept such service specific terms and conditions prior to any use to ensure that you are at all times aware of your rights and obligations.</p>
+	#navTabs #footer a {/*background:url(/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationActiveLeftImage.-imagedesignprocessing.gif) no-repeat left top;*/} #navTabs #footer a span {background-image: url(/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationActiveBackgroundImage.-imagedesignprocessing.gif);background-repeat:repeat-x;background-position: left top;_background-image: none;_position: relative;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src=/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationActiveBackgroundImage.-imagedesignprocessing.gif, sizingMethod=scale, enabled=true );} #navTabs #footer a .navTabsLeft {background-image: url(/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationActiveLeftImage.-imagedesignprocessing.gif);background-repeat:no-repeat;background-position: left top;_background-image: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src=/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationActiveLeftImage.-imagedesignprocessing.gif, sizingMethod=image, enabled=true );} #navTabs #footer a .navTabsRight {background-image: url(/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationActiveRightImage.-imagedesignprocessing.gif);background-repeat:no-repeat;background-position: right top;_background-image: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src=/ngi/ngage/web/g0/en/footer/privacy_policy.-TopNavigation-TopNavigationActiveRightImage.-imagedesignprocessing.gif, sizingMethod=image, enabled=true );} 
 
-<h4>7.	Modification of the Privacy Policy</h4>
-<p>
-Nokia reserves the right to change or modify at any time without prior notice this Privacy Policy. Nokia will notify you of such change or modification by posting an updated version of this Privacy Policy. You are responsible for regularly reviewing this Privacy Policy. Continued use of the Site(s) shall constitute your consent to such changes.</p>
+	
+</style>
 
+<script src="/ngi/js/browserSniff.js"></script>
+<script>
+	//***** Adjustment for Alignment in FireFox/Mac OS *****
+	if(is_mac && is_firefox){
+		document.write("<style>");
+		document.write(".searchBox{padding:4px 0px 0px 5px;}");
+		document.write("</style>");
+	}
 
+	function doSearch() {
+		var url = "/ngi/ngage/web/g0/en/search_results" + ".search.html";
+		var term = "?term=" + document.getElementById('txtSearch').value + "&pos=1";
+		location.href = url + term;
+	}
 
-						</li>
-					</ul>
-		
-					
-				</div>
-				<div class="orangFrame_bottom"></div>
-			</div>
-		
-	  </div>	
-		<!-- end main content -->
-		
-		 <!-- begin side bar -->
-		 <div id="sidebar">
-		 <!-- keep this comment here -->
-		 &nbsp;
-		 </div>
-		 <!-- end side bar -->
+	function doHomeLink(handle, sourceCC) {
+		if (isLoggedIn('lithiumSSO:nokia') == 'true') {
+			location.href = handle + '.loggedin.html';
+		}
+		else {
+			location.href = handle + '.html';
+		}
+	}
 
+</script>
+
+<div class="mainNav">
+	<div class="textLogo0"><a href="javascript:doHomeLink('http://www.n-gage.com/ngi/ngage/web/g0/en/home', '/ngi/ngage/web/g0/en/home');"><span><img src="/ngi/images/logosm.gif" class=""></span></a></div>
+	<div id="navTabs">
+		<ul><li id="discover"><a class="TopNavigationTopNavigationFont" href="http://www.n-gage.com/ngi/ngage/web/g0/en/discover.html"><span class="navTabsLeft"></span><span>Discover</span><span class="navTabsRight"></span></a></li><li id="get_ngage"><a class="TopNavigationTopNavigationFont" href="http://www.n-gage.com/ngi/ngage/web/g0/en/get_ngage/download.html"><span class="navTabsLeft"></span><span>Get N-Gage</span><span class="navTabsRight"></span></a></li><li id="showroom"><a class="TopNavigationTopNavigationFont" href="http://www.n-gage.com/ngi/ngage/web/g0/en/showroom.html"><span class="navTabsLeft"></span><span>Games</span><span class="navTabsRight"></span></a></li><li id="community"><a class="TopNavigationTopNavigationFont" href="http://www.n-gage.com/ngi/ngage/web/g0/en/community.html"><span class="navTabsLeft"></span><span>Arena Community</span><span class="navTabsRight"></span></a></li><li id="support"><a class="TopNavigationTopNavigationFont" href="http://www.n-gage.com/ngi/ngage/web/g0/en/support.html"><span class="navTabsLeft"></span><span>Support</span><span class="navTabsRight"></span></a></li></ul>
 	</div>
-	<div id="container-bottom"></div>
-	<!-- end content container -->
-
-	<!-- footer -->
-	<div id="footer">
-		<p>©2008 Nokia</p>
-        <!--footer nav-->
-        <ul>
-			<li><a href="/legal/site_terms.html">Site Terms</a></li>
-			<li><a href="/legal/privacy_policy.html">Privacy Policy</a></li>
-			<li><a href="/developers.html">Developers</a></li>
-			<li><a href="/community/press.html">Press</a></li>
-		</ul>
-		<a href="http://www.nokia.com" class="nokia">Nokia</a>
+	<div class="searchArea">
 	</div>
+<!--
+
+	<div class="searchArea">
+	  <span class="searchBox"><input id="txtSearch" class="searchfield" size="18" value="Search" type="text" name="textSearch" /></span>
+	  <div id="searchItem">
+	  	<ul><li><a href="javascript:doSearch();" class="TopNavigationTopNavigationFont"><span>Go</span><span class="navTabsRight"></span></a></li></ul>
+	  </div>
+	</div>
+-->
+	<div id="navSub">
+	
+	</div>
+</div>
+
+
+			
+
+
+<style type="text/css">
+	.mainProfile{
+		float: right;
+		width: 282px;
+		height: 60px;
+		padding: 0 10px 0 0;	
+	}
+</style>
+<div class="mainProfile">
+
+ 
+
+
+
+
+
+
+			
+			
+ 
+
+
+
+
+
+
+
+
+			
+			
+ 
+
+
+
+
+
+
+<style>
+
+#ngageMain .mainNavOther {
+float:right;
+width:300px;
+margin-right:5px;
+height: 60px;
+overflow: hidden;
+_z-index: -1;
+font-family: arial,helvetica,clean,sans-serif;
+}
+
+#ngageMain #logStat {
+height: 20px;
+width: 105px;
+position: absolute;
+top: 20px;
+text-align: center;
+}
+#ngageMain #logStat a:link,
+#ngageMain #logStat a:visited {
+	cursor: pointer;
+	text-align: left;
+	text-decoration: none;
+	position: relative;
+	color: #000;
+	float: right;
+	display: inline;
+	width: auto;
+}
+#ngageMain #logStat a:hover {
+text-decoration: underline;
+}
+
+#ngageMain #logStat img,
+#ngageMain #logStat img:hover {
+margin: 3px 10px 0 5px;
+float: right;
+display: inline;
+cursor: pointer;
+}
+#logTestLink {
+width: auto;
+}
+.mainNavOther #miniDashLoggedIn,
+.mainNavOther #miniDashLoggedOut {
+
+	display: none;
+}
+#ngageMain #dashBG {
+		background:  url('/ngi/images/registration/mini_dashboard.png') top left no-repeat;
+		_background: none;
+		*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src="/ngi/images/registration/mini_dashboard.png");
+		width: 193px;
+		height: 48px;
+		padding: 10px 0 0 0;
+		float: right;
+		_cursor: pointer;
+}
+
+#ngageMain #miniDashLoggedIn #dashBG {
+		_cursor: default;
+}
+
+#miniDashLoggedOut #dashBG:hover {
+	cursor: pointer;
+}
+
+#ngageMain #txtSearch {
+		margin:3px 0px 0px 4px;
+		background: transparent;
+		border:solid 0;
+		font-size:10px;
+	}
+	#dashUserImg{
+		margin:0 0px 0px 10px;
+		width:40px;
+		height:40px;
+		float: left;
+		display: inline;
+		z-index: 9999;
+		overflow: hidden;
+	}
+	#dashUserImg img {
+	}
+	.mainNavOther a {
+		text-decoration: none;
+
+	}
+	.mainNavOther a:hover {
+		text-decoration: underline;
+	}
+	.mainNavOther a.createPlayerNamelink {
+		font-family:arial,helvetica,clean,sans-serif;
+		font-size:12px;
+		font-weight: bold;
+		text-decoration: none;
+		color: #000;
+	}
+	#dashUserNameLoggedOut {
+		clear:right;
+		display:block;
+		float:left;
+		font-size:12px;
+		font-weight:bold;
+		height:auto;
+		overflow:visible;
+		text-decoration:none;
+		width:135px;
+		z-index:999;
+		position: relative;
+	}
+	#dashUserNameLoggedOut:hover {
+		text-decoration: underline;
+		position: relative;
+	}
+	#dashUserNameLoggedOut img {
+	}
+	#dashUserNameLoggedIn{
+		margin:0 0px 0px 55px;
+		width:128px;
+		font-weight:bold;
+	}
+
+	#dashUserStars {
+		margin:0px 0px 0px 55px;
+		width:128px;
+	}
+	#dashUserStats{
+		margin:0px 0px 0px 55px;
+		width:122px;
+		font-size:10px;
+	}
+	#miniDashLoggedOut #dashUserStars,
+	#miniDashLoggedOut #dashUserStats {
+		display: none;
+	}
+.clearfix{
+	content: ".";
+	display: block;
+	height: 0;
+	font-size:0;
+	clear: both;
+	visibility:hidden;
+}
+/* Hides from IE-mac \*/
+* html .clearfix {height:1%;}
+.clearfix {display:block;}
+/* End hide from IE-mac */
+</style>
+
+<script type="text/javascript" src="/ngi/js/ngiGlobal.js"></script>
+<script type="text/javascript" src="/ngi/js/ngageUtilities.js"></script>
+<script type="text/javascript">
+var bodyLoaded = false;
+var miniProfileDrawn = false;
+	function doLogOut() {
+		
+		var LogoutSuccessURL = '/ngage/web/g0/en/footer/privacy_policy.html';
+		if(LogoutSuccessURL.match('home.loggedin.html')) {
+			LogoutSuccessURL = LogoutSuccessURL.replace('home.loggedin.html','home.html');
+		}
+
+		location.href = "https://new.arena.n-gage.com/ngi/servlets/reg?cmd=logout&successUrl=http://www.n-gage.com/ngi"+LogoutSuccessURL;
+	}
+
+	function doLogIn() {
+		location.href = "https://new.arena.n-gage.com/ngi/ngage/web/g0/en/login.bG9naW4=.html?d=aHR0cDovL3d3dy5uLWdhZ2UuY29t&u=L2NvbnRlbnQvbmdhZ2Uvd2ViL2cwL2VuL2Zvb3Rlci9wcml2YWN5X3BvbGljeQ==&p=";
+	}
+
+	function doRegister() {
+		location.href = "https://new.arena.n-gage.com/ngi/ngage/web/g0/en/register.html?d=aHR0cDovL3d3dy5uLWdhZ2UuY29t&u=/content/ngage/web/g0/en/footer/privacy_policy&p=";
+	}
+
+</script>
+<div id="ngageMain">
+
+    <div id="navStatus" class="mainNavOther" style="z-index:-1;">
+
+            <div id="miniDashLoggedIn" class="allDash">
+	    	<div id="logStat" style="z-index: 9999;">
+			<img src="/ngi/images/arrow_orange.gif" align="left">
+			<a id="logTestLink" href="javascript:doLogOut();" class="MiniProfileLoginLinkFont topNavlogIn">Logout</a>
+		</div>
+                <div id="dashBG">
+                    <div id="dashUserImg"></div>
+                    <div id="dashUserNameLoggedIn" class="loggedin"></div>
+                    <div id="dashUserStars"><img id="stars" src="" onload="fixPNG(this)"></div>
+                    <div id="dashUserStats"><span id="dashUserLevel">Level </span><span id="dashUserPoints"></span></div>
+                </div>
+
+            </div>
+
+            <div id="miniDashLoggedOut" class="allDash" style="display: block;">
+	    	<div id="logStat" style="z-index: 9999;">
+			<img src="/ngi/images/arrow_orange.gif" align="left">
+			<a id="logTestLink" href="javascript:doLogIn();" class="MiniProfileLoginLinkFont topNavlogIn">Login</a>
+		</div>
+                <div id="dashBG" onclick="javascript:doRegister();">
+                    <div id="dashUserImg"><img src="/ngi/images/registration/player_icon_nolog.png" onload="fixPNG(this)"></div>
+                    <div id="dashUserNameLoggedOut" class="name">Create a Player Name&nbsp;<img src="/ngi/images/arrow_orange.gif"></div>
+            	</div>
+
+            </div>
+
+    </div>
+    <div class="clearfix"></div>
+</div>
+  <script>
+  	//draw miniprofile
+	function drawMiniProfile(){
+		var ngageCookie = new NGageCookie();
+		var ngageMiniProfile = ngageCookie.getCookie('NGAGE_MINI_PROFILE');
+		if (ngageMiniProfile != null) {
+			//***loged in state***
+			var aMiniProfileCookie = ngageMiniProfile.split('|');
+			var miniProfileUserName = aMiniProfileCookie[0]; //collect username 4m cookie split
+			var miniProfileUserPic = aMiniProfileCookie[1]; //collect userpic 4m cookie split
+			var miniProfileRating = aMiniProfileCookie[2];//collect ratings 4m cookie split
+			var miniProfileLevel = aMiniProfileCookie[3];//collect level 4m cookie split
+			var miniProfileUserRating = aMiniProfileCookie[4];
+
+			//collect localization for level from atom and stuff in div id
+
+			if(miniProfileUserPic == null || miniProfileUserPic == '') {
+				miniProfileUserPic = '/ngi/images/registration/player_icon_nolog.png';
+
+			}
+			//stuff all of these to mini profile in logedin state
+			var ngageUserName= document.createTextNode(miniProfileUserName);
+		        document.getElementById("dashUserNameLoggedIn").appendChild(ngageUserName);
+
+			//alert(miniProfileUserPic);
+
+			var ngageUserIcon = document.createElement("img");
+		    	ngageUserIcon.src = miniProfileUserPic;
+		    	ngageUserIcon.className = "fixPNG";
+		    	document.getElementById("dashUserImg").appendChild(ngageUserIcon);
+
+
+			var ngagePoints= document.createTextNode(miniProfileLevel + ':' + miniProfileRating + ' NGP');
+		        document.getElementById("dashUserPoints").appendChild(ngagePoints);
+
+			var starURL = '/ngi/ngage/web/g0/en/login.7-5-2.StarRanking.png';
+			if (miniProfileUserRating == null || miniProfileUserRating == ''){
+				//replace with 0
+				starURL = starURL.replace('7-5-2', '0-5-2');
+			} else {
+				var starInt = miniProfileUserRating;
+				if (starInt > 5) {
+					starInt = 5;
+				}
+
+				starInt = Math.round(starInt * 2);
+
+				//alert(miniProfileLevel + ',' + starInt);
+				starURL = starURL.replace('7-5-2',  starInt + '-5-2');
+			}
+
+			document.getElementById("stars").src = starURL;
+
+			//var ngageUserStar = document.createElement("img");
+			//ngageUserStar.setAttribute("onload", "javascript:fixPNG(this)");
+			//ngageUserStar.setAttribute("onload", "javascript:alert('hi');");
+		    	//ngageUserStar.src = starURL;
+		    	//ngageUserStar.className = "fixPNG";
+			//ngageUserStar.onload = "fixPNG(this)";
+		    	//document.getElementById("dashUserStars").appendChild(ngageUserStar);
+
+			//enable login state
+		        document.getElementById("miniDashLoggedIn").style.display = "block";
+
+			//disable logout state (Create player name)
+
+			//diable login link
+			//collect login localized text from atom and stuff in div id
+			//enable logout link
+			//***end loged in state***
+		} else {
+			//***loged out state***
+			document.getElementById("miniDashLoggedOut").style.display = "block";
+			//***end loged out state***
+		}
+	}
+	drawMiniProfile();
+  </script>
+
+
+
+			
 
 </div>
 
+    </div>
+    <!-- endHeader -->
+
+	 <!-- beginContent -->
+    <div id="content">
+      
+
+
+<div id="contentWrapper">
+	<div id="contentColumnRow">
+
+
+
+
+<div id="contentColumn01" class="contentColumn" style="width: 766px;">
+	
+		
+ 
+
+
+
+
+
+
+			
+			
+ 
+
+
+
+
+
+
+
+
+			
+			
+ 
+
+
+
+
+
+
+<style type="text/css">
+#borderItemTitle{
+	padding:5px;
+	margin-left:10px;
+}
+#borderItemBody .top-left {
+	margin-right: 19px; /* clip right corner */
+	background-image: url(/ngi/ngage/web/g0/en/footer/privacy_policy.-Par1ngiBorderItem-BorderItemImageTopLeft.-imagedesignprocessing.gif);
+	height: 19px; /* vertical: show first half of the image with the top-corners in it */
+	font-size: 2px; /* correct height for IE */
+}
+#borderItemBody .top-right {
+	float:right;
+	margin-top: -19px; /* to level of top-left corner */
+	margin-left: 19px; /* clip left corner */
+	background-image: url(/ngi/ngage/web/g0/en/footer/privacy_policy.-Par1ngiBorderItem-BorderItemImageTopRight.-imagedesignprocessing.gif); 
+	background-position: 100% 0; /* show bg-image starting at the right */
+	height: 19px;
+	width:19px;
+	font-size: 2px;
+}
+#borderItemBody .bottom-left {
+	margin-right: 19px; /* clip right corner */
+	background-image: url(/ngi/ngage/web/g0/en/footer/privacy_policy.-Par1ngiBorderItem-BorderItemImageBottomLeft.-imagedesignprocessing.gif);
+	background-position: 0 -19px; /* show under half of the image */
+	height: 19px;
+	font-size: 2px;
+}
+#borderItemBody .bottom-right {
+	float:right;
+	margin-top: -19px; /* to level of bottom-left corner */
+	margin-left: 19px; /* clip left corner */
+	background-image: url(/ngi/ngage/web/g0/en/footer/privacy_policy.-Par1ngiBorderItem-BorderItemImageBottomRight.-imagedesignprocessing.gif); 
+	background-position: 100% -19px; /* under half, right side */
+	height: 19px;
+	width:19px; 
+	font-size: 2px; 
+}
+#borderItemBody .inside {	
+	border-left: 2px solid #D58B32;
+	border-right: 2px solid #D58B32;
+	padding-left: 19px;
+	padding-right: 19px;
+	padding-bottom: 5px;
+	_width:100%;
+}
+#borderItemBody .notopgap {
+	margin-top: 0;
+}
+#borderItemBody .nobottomgap {
+	margin-bottom: 0;
+}
+#borderItemBody .leftColumn{
+	float:left;
+	width:25%;
+	overflow:hidden;
+}
+
+#borderItemBody .rightColumn{
+	float:left;
+	padding:0px 10px 10px 10px;
+	width:71%;
+}
+#borderItemBody .oneColumn{
+	margin-top:0px;
+}
+#borderItemBody .captionText{
+	margin-bottom:10px;
+}
+#borderItemBody .btnItemContent{
+	text-align:center;
+	padding-top:15px;
+	padding-left:42%;
+	width:100%;
+	float:left;
+}
+.leftItemText{text-align:left;}
+.centerItemText{text-align:center;}
+.rightItemText{text-align:right;}
+ol {
+	margin-bottom: 0;
+}
+</style>
+<div id="borderItemTitle" class="Par1ngiBorderItemBorderItemTitleFont">Privacy Policy</div>
+<div id="borderItemBody">
+<div class="top-left"></div><div class="top-right"></div>
+	<div class="inside">
+	<!--Start Content-->
+	
+		<div style="margin: 0in 0in 11pt;"><strong><em>WE CARE ABOUT YOUR PRIVACY. </em></strong></div><div style="margin: 0in 0in 11pt;">Nokia is committed to protecting your privacy and to comply with applicable data protection and privacy laws. We hope that this Privacy Policy (“Policy”) helps you understand what kind of information we collect in connection with our products and services and how we process such information. Throughout this Policy the term “personal data” means information relating to an identified or identifiable individual (i.e. a natural person). “Nokia” refers to Nokia Corporation, including its affiliates (also referred to as “we”, “us”, or “our”). </div><div style="margin: 0in 0in 11pt;">This Policy applies to personal data collected in connection with products and services offered by Nokia or from other interactions with us where a link or other reference of incorporation to this Policy is made, for example, in connection with our devices and accessories, websites (also including mobile websites), games, music and other types of services offered by Nokia typically in electronic form, as well as other services such as customer care and warranty services or promotions and campaigns. </div><div style="margin: 0in 0in 11pt;">We may provide additional or amending privacy information in connection with a particular Nokia product or service. Such information prevails over this Policy to the extent of any conflict. Our  <span>products or services may contain links to other companies’ websites and other third party services that have privacy policies of their own. We recommend that you read the privacy policies of such services. Nokia  </span>is not responsible for the privacy practices or contents of any such services. </div><div style="margin: 0in 0in 11pt;"><strong>By using this website and/or by submitting personal data to Nokia, you express your agreement to the processing of your personal data in the manner provided in this Policy. If you do not agree with this Policy, please do not use this website or provide Nokia with your personal data.  </strong></div><div style="margin: 0in 0in 11pt;"><strong><font size="5"><span style="font-size: 12pt;">The Data We Collect </span></font></strong></div><div style="margin: 0in 0in 11pt;">We collect your personal data typically when you make a purchase, use or register into our services, enter into a sales promotion or a campaign or otherwise interact with us. We endeavour to collect personal data only with your knowledge or consent. Below are examples of the categories of data collected.  </div><div style="margin: 0in 0in 11pt 0.5in; text-indent: -0.25in; text-align: justify;"><span>· <span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span></span><strong><em>Technical Information </em></strong> For the most part, you may visit our websites or use our products or services without having to tell us who you are. However, certain technical information is normally collected as a standard part of your use of our services. Such information includes, for example, your IP-address, access times, the website you linked from, pages you visit, the links you use, the adbanners and other content you viewed, information about your devices and other such technical information your browser provides us with or as may be otherwise collected in connection with certain products and services. When you use our services or otherwise interact with us over telecommunications networks, certain additional information, such as your mobile subscription number, may be transmitted to us by the telecommunications operator as a standard part of that communication. Please also see the section “Use of Cookies and Web Beacons” below. &nbsp; </div><div style="margin: 0in 0in 11pt 0.5in; text-indent: -0.25in; text-align: justify;"><span>· <span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span></span><strong><em>Information you provide us with </em></strong> When you register for our services, make a purchase, enter a sales promotion or otherwise interact with us, we may ask you to provide us with information such as your name, email address, street address, as well as user names, passwords and other such credentials that are used to authenticate users and to validate their actions or that may be needed to provide you with the products and services you have requested or to communicate with you.  </div><div style="margin: 0in 0in 11pt 0.5in;">We may collect demographic information, for example, your age, gender, postal code and language preferences. We may also collect other information you provide, such as your consents, preferences and feedback, information relating to your devices and other such information you provide us with. Please note that certain non-identifiable information collected from you may become personally identifiable when you provide us with your personal data. We may also obtain, in accordance with applicable law, some personal data from list-rental companies and other such publicly available sources. Some of our services may allow you to submit information about other people, for example, if you make an order for a product that you wish us to send directly to another recipient. </div><div style="margin: 0in 0in 11pt 0.5in; text-indent: -0.25in; text-align: justify;"><span>· <span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span></span><strong><em>Your transactions with us </em></strong> We collect or ask for information relating to your purchase and/or use of our products and/or services and your other interactions with us. Such information may include, for example, details of the queries or requests you have made, the products and services provided (including delivery details), financial details (including payments made, credit card details, billing address, credit checks and other such financial information), details of agreements between you and Nokia, records of contacts and communications, information and details relating to the content you have provided us with and other such transactional information. We may, in accordance with applicable law, record your communication with our customer care or with other such contact points. Certain services may involve the use of your location data. However, use of your location data for such services is subject to your consent.  </div><div style="margin: 0in 0in 11pt;"><strong><font size="5"><span style="font-size: 12pt;">The Purposes for which We Process Your Personal Data </span></font></strong></div><div style="margin: 0in 0in 6pt;">Nokia processes y <span style="color: black;">our personal data for the purposes described in this Policy and/or any additional service specific privacy information. Please note that one or more purposes may apply simultaneously.  </span></div><div style="margin: 0in 0in 11pt 0.5in; text-indent: -0.25in; text-align: justify;"><span>· <span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span></span><strong><em>Provision of products and services </em></strong> We may use your personal data to fulfill your requests, process your order or as otherwise may be necessary to perform or enforce the contract between you and Nokia, to ensure the functionality and security of our products and services, to identify you and to prevent and investigate fraud and other misuses.  </div><div style="margin: 0in 0in 11pt 0.5in; text-indent: -0.25in; text-align: justify;"><span>· <span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span></span><strong><em>Development of products and services  </em></strong>We may use your personal data to develop our products and/or services. However, for the most part we only use aggregate and statistical information in the development of our products and services. We may also use your personal data to personalize our offering and to provide you with service more relevant to you, for example, to make recommendations and to display customized content and advertising in our websites.  <span style="color: black;">We may combine personal data collected in connection with your use of a particular Nokia product and/or service with other personal data we may hold about you, except where such personal data was collected for a different purpose.  </span>We may create aggregate and statistical information based on your personal data. </div><div style="margin: 0in 0in 11pt 0.5in; text-indent: -0.25in; text-align: justify;"><span>· <span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span></span><strong><em>Communicating with you and marketing </em></strong> We may use your personal data to communicate with you, for example, to provide information relating to our products and/or services you are using or to contact you for customer satisfaction queries. We may use your personal data for marketing or research purposes, for example, to conduct market research and we may, in accordance with applicable law, contact you to inform you of new products, services or promotions we may offer. Also, some of our products and services may be used to promote products and services of other companies. However, Nokia does not disclose your personal data to such companies or any other company for marketing purposes without your prior consent. </div><div style="margin: 0in 0in 11pt;"><strong><font size="5"><span style="font-size: 12pt;">Sharing Your Personal Data  </span></font></strong></div><div style="margin: 0in 0in 11pt;">Generally, we do not sell, lease, rent or otherwise disclose your personal data to third parties unless otherwise stated below.  </div><div style="margin: 0in 0in 11pt 0.5in; text-indent: -0.25in; text-align: justify;"><span>· <span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span></span><strong><em>Consent&nbsp; </em></strong>We may share your personal data if we have your consent to do so. Some services may include sharing your personal data with other users of the service, for example services where users publish their own content or Nokia user communities. </div><div style="margin: 0in 0in 11pt 0.5in; text-indent: -0.25in; text-align: justify;"><span>· <span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span></span><strong><em>Nokia companies and authorized third parties </em></strong> We may share your personal data with other Nokia companies or authorized third parties who process personal data for Nokia for the purposes described in this Policy. Such parties are not permitted to use your personal data for other purposes, and we require them to act consistently with this Policy and to use appropriate security measures to protect your personal data. </div><div style="margin: 0in 0in 11pt 0.5in; text-indent: -0.25in; text-align: justify;"><span>· <span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span></span><strong><em>International transfers </em></strong> Our products and services may be provided using resources and servers located in various countries around the world. Therefore your personal data may be transferred across international borders outside the country where you use our services, including to countries outside the European Economic Area (EEA) that do not have laws providing specific protection for personal data or that have different legal rules on data protection, for example, the United States of America. In such cases we take steps to ensure that there is a legal basis for such a transfer and that adequate protection for your personal data is provided as required by applicable law, for example, by using standard agreements approved by relevant authorities (where necessary) and by requiring the use of other appropriate technical and organizational information security measures.  </div><div style="margin: 0in 0in 11pt 0.5in; text-indent: -0.25in; text-align: justify;"><span>· <span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span></span><strong><em>Mandatory disclosures </em></strong> We may be obligated by mandatory law to disclose your personal data to certain authorities or other third parties, for example, to law enforcement agencies in the countries where we or third parties acting on our behalf operate. We may also disclose and otherwise process your personal data in accordance with applicable law to defend Nokia’s legitimate interests, for example, in civil or criminal legal proceedings. </div><div style="margin: 0in 0in 11pt 0.5in; text-indent: -0.25in; text-align: justify;"><span>· <span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span></span><strong><em>Mergers and Acquisitions </em></strong> If we decide to sell, buy, merge or otherwise reorganise our businesses in certain countries, this may involve us disclosing personal data to prospective or actual purchasers and their advisers, or receiving personal data from sellers and their advisers.  </div><div style="margin: 0in 0in 11pt;"><strong><font size="5"><span style="font-size: 12pt;">Collecting the Data of Minors </span></font></strong></div><div style="margin: 0in 0in 11pt;">Nokia does not seek to collect any information from or engage in any transactions with persons under the age of 13. Our databases may nevertheless contain personal data of children under 13 due to the fact that it is not always possible to determine precisely the age of the user. Insofar as we ask you to provide your age, we block the service from any person who is under 13 years of age. We will also make reasonable efforts to clear our databases of personal data relating to under age users. </div><div style="margin: 0in 0in 11pt;">Nokia’s policy is to request that minors (the legal age of majority and therefore the age of minors is determined by local law where you reside) do not make purchases or engage in other legal acts on our products and services without the consent of a parent or legal guardian, unless otherwise permitted by applicable law. </div><div style="margin: 0in 0in 11pt;"><strong><font size="5"><span style="font-size: 12pt;">Data Quality </span></font></strong></div><div style="margin: 0in 0in 11pt;">We take reasonable steps to keep the personal data we possess accurate and up-to-date and to delete out of date or otherwise incorrect or unnecessary personal data.  </div><div style="margin: 0in 0in 11pt;">As certain Nokia products and services may allow you to manage your profile, we encourage you to access your personal data from time to time to ensure that it is correct and up-to-date. Please remember that it is your responsibility to provide us with correct details as well as to update the personal data you have provided us with in case of any changes.  </div><div style="margin: 0in 0in 11pt;"><strong><font size="5"><span style="font-size: 12pt;">Security  </span></font></strong></div><div style="margin: 0in 0in 11pt;">While there are always risks associated with providing personal data, whether in person, by phone, via the internet or otherwise, and no technology is completely safe or “tamper” or ”hacker” proof, Nokia takes appropriate technical and organizational information security measures to prevent and minimize such risks.  </div><div style="margin: 0in 0in 11pt;">Such measures include, where appropriate, the use of firewalls, secure server facilities, encryption, implementing proper access rights management systems and processes, careful selection of processors and other technically and commercially reasonable measures to provide appropriate protection for your personal data against unauthorized use or disclosure. Where appropriate, we may also take back-up copies and use other such means to prevent accidential damage or destruction to your personal data. If a particular part of a Nokia website supports on-line transactions, we will use an industry standard security measure, such as the one available through “Secure Sockets Layer” (“SSL”), to protect the confidentiality and security of online transactions. </div><div style="margin: 0in 0in 11pt;"><strong><font size="5"><span style="font-size: 12pt;">Use of Cookies and Web Beacons </span></font></strong></div><div style="margin: 0in 0in 11pt;">From time to time when you visit a Nokia website, information may be placed on your computer to allow us to recognize your computer. This information is commonly in the form of a textfile known as a “cookie”. Cookies are small pieces of data stored on your computer’s hard drive, rather than on the website. Typically, they enable collection of certain information about your computer, including your internet protocol (IP) address, your computer’s operating system, your browser type and the address of any referring sites. Our use of cookies is intended to provide benefits to you, such as eliminating the need for you to enter your password frequently during a session or the need to re-enter items you place in a shopping cart if you do not finish a transaction in a single visit. Cookies are also used for website traffic analysis and anonymous demographic profiling so that we may improve our services.  </div><div style="margin: 0in 0in 11pt;">Nokia may use so called web beacons (or “pixel tags”) in connection with some websites. However, we do not use them to identify individual users personally. Web beacons are typically graphic images that are placed on a website and they are used to count visitors to a website and/or to access certain cookies. This information is used to improve our services. Web beacons do not typically collect any other information than what your browser provides us with as a standard part of any internet communication. If you turn off cookies, the web beacon will no longer be able to track your specific activity. The web beacon may, however, continue to collect information of visits from your IP-address, but such information will no longer be unique. </div><div style="margin: 0in 0in 11pt;">If you do not wish to receive cookies, or want to be notified before they are placed, you may set your web browser to do so, if your browser so permits. Please understand that if cookies are turned off, you may not be able to view certain parts of this site that may enhance your visit. Some of our business partners whose content is linked to or from this site may also use cookies or web beacons. However, we have no access to or control over these cookies.  </div><div style="margin: 0in 0in 11pt;"><strong><font size="5"><span style="font-size: 12pt;">Your Rights </span></font></strong></div><div style="margin: 0in 0in 11pt;">Please note that Nokia may need to identify you and to ask for additional information in order to be able to fulfill your above request. Please also note that applicable law may contain restrictions and other provisions that relate to your above rights.  </div><div style="margin: 0in 0in 11pt;"><strong><font size="5"><span style="font-size: 12pt;">The Controller of Your Personal Data and Contact Details </span></font></strong></div><div style="margin: 0in 0in 11pt;">Nokia Corporation of Keilalahdentie 4, 02150 Espoo, Finland shall be the controller of your personal data.  </div><div style="margin: 0in 0in 11pt;">In addition, the Nokia affiliate providing the product or service may be a controller of your personal data. You may find the identity of the controller and its contact details by reviewing the terms and conditions of such a product or service or by using contact information provided in the applicable Nokia websites.  </div><div style="margin: 0in 0in 11pt;">In matters pertaining to Nokia’s privacy practices you may also contact us at: </div><div style="margin: 0in 0in 0pt;">Nokia Corporation  </div><div style="margin: 0in 0in 0pt;">c/o Privacy </div><div style="margin: 0in 0in 0pt;">Keilalahdentie 4 </div><div style="margin: 0in 0in 0pt;">02150 Espoo </div><div style="margin: 0in 0in 0pt;">Finland </div><div style="margin: 0in 0in 0pt;">&nbsp; </div><div style="margin: 0in 0in 11pt;"><strong><font size="5"><span style="font-size: 12pt;">Changes to This Privacy Policy </span></font></strong></div><div style="margin: 0in 0in 11pt;">Nokia may from time to time change this Privacy Policy or change, modify or withdraw access to this site at any time with or without notice. However, if this Privacy Policy is changed in a material, adverse way, Nokia will post a notice advising of such change at the beginning of this Policy and on this site's home page for 30 days. We recommend that you re-visit this Privacy Policy from time to time to learn of any such changes to this Privacy Policy.  </div>
+		
+	
+	<!--End Content-->
+	<div class="clearfix"></div>
+	</div>
+<div class="bottom-left"></div><div class="bottom-right"></div>
+</div>
+<div class="clearfix"></div>
+
+			
+
+		
+</div>
+
+
+
+	</div> 
+</div> 
+    </div>
+
+    <div id="contentBottom">
+      
+
+
+
+
+<div class="contentBottom"></div>
+
+
+
+
+    </div>
+
+    <div id="callout">
+      
+
+
+<div id="toutDisplayCell">
+  
+ 
+
+
+
+
+
+
+
+</div>
+
+    </div>
+	 <!-- endContent -->
+
+    <!-- beginFooter -->
+    <div id="footer">
+      
+
+<div id="newsTickerCell">
+  
+ 
+
+
+
+
+
+
+			
+			
+ 
+
+
+
+
+
+
+
+
+			
+			
+
+ 
+
+
+
+
+
+
+			
+
+</div>
+<div id="footerCell">
+  
+ 
+
+
+
+
+
+
+			
+ 
+
+
+
+
+
+
+
+			
+			
+ 
+
+
+
+
+
+
+<script type="text/javascript" language="javascript" src="/ngi/js/cookies.js"></script>
+<script>
+function writeCookie() {
+	//alert('ngage_countryname:' + readCookie('ngage_countryname'));
+	//alert('country name:International English;country id:g0;language id:en');
+	//check if there is an already an cookie
+	var currentUrl = location.href;
+	if (readCookie('ngage_countryname') == null) {
+		if (location.href.indexOf('/ngage/web/') == -1) {
+			return;
+		}
+	
+		if (currentUrl.indexOf("location")>0){
+			return;
+		}
+		
+		//create cookie for ngage_countryname
+		createDomainCookie("ngage_countryname",'International English',1000,".n-gage.com");
+		//create cookie for ngage_countryid
+		createDomainCookie("ngage_countryid",'g0',1000,".n-gage.com");
+		//create cookie for ngage_languageid
+		createDomainCookie("ngage_languageid",'en',1000,".n-gage.com");
+		//create cookie for home
+		createDomainCookie("ngage_home",'http://www.n-gage.com/ngi/ngage/web/g0/en/home.html',1000,".n-gage.com");
+	} else {
+		//cookie exist, dont need to anything
+	}//end of exist cookie checking
+}
+window.onload = writeCookie;
+function getNonSecureBaseURL(){
+    var nonSecureHostName = 'http://www.n-gage.com';
+
+    if (location.protocol.indexOf('https') > -1) {
+        return nonSecureHostName;
+    }
+}
+function getSecureBaseURL(){
+    return 'https://new.arena.n-gage.com';
+}
+</script>
+<div class="footerSpace" style="display:block; clear:both">
+<span class="leftFooterColumn">
+	<span class="footerGrey">©2008 Nokia</span>
+	
+			<a class="FooterCellFooterNavigationFont" href="http://www.n-gage.com/ngi/ngage/web/g0/en/footer/site_terms.html"><span>Site Terms</span></a>
+			
+			<a class="FooterCellFooterNavigationFont" href="http://www.n-gage.com/ngi/ngage/web/g0/en/footer/privacy_policy.html"><span>Privacy Policy</span></a>
+			
+			<a class="FooterCellFooterNavigationFont" href="http://www.n-gage.com/ngi/ngage/web/g0/en/footer/account_terms.html"><span>Account Terms</span></a>
+			
+			<a id="developer" class="FooterCellFooterNavigationFont" href="http://www.insider.n-gage.com/"><span>Developers</span></a>
+			
+			<a class="FooterCellFooterNavigationFont" href="http://www.n-gage.com/ngi/ngage/web/g0/en/footer/pressroom.html"><span>Press</span></a>
+			
+</span>
+<span class="rightFooterColumn">
+	<span>International English</span><!-- This Need Dynamic Data-->
+	<span>&nbsp;|&nbsp;</span>
+	
+			<a class="FooterCellFooterNavigationFont" href="http://www.n-gage.com/ngi/ngage/web/g0/en/location.reset.html"><span>Change location</span></a>
+			
+	<span id="nokiaFooterLogo">
+						
+		<a href="http://www.nokia.com" target="_blank">
+			<span>
+				<img alttext="Nokia Footer Logo" src="/ngi/ngage/web/g0/en/footer/privacy_policy.-FooterCell-FooterLogoRef.-imagedesignprocessing.gif">
+			</span>
+		</a>
+			
+		
+	</span>			  
+</span>
+</div>
+<div class="clearfix"></div>
+<script type="text/javascript" language="javascript" src="/ngi/js/footer.js"></script>
+
+			
+
+</div>
+
+    </div>
+    <!-- endFooter -->
+  </div>
 
 
 
