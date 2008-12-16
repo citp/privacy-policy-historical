@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jivox.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615165320id_/http%3A//jivox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jivox.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030716id_/http%3A//www.jivox.com/privacy.html) for the most accurate reproduction.*
 
-# Jivox
+# Jivox - Privacy Policy
 
 JIVOX
 
@@ -9,7 +9,7 @@ Privacy Policy
 LAST UPDATED MARCH 1, 2008
 
    
-Please read this Privacy Policy carefully to understand how Jivox, its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as "Jivox") uses and protects the information you provide.  This privacy policy (the "Privacy Policy") applies to this World Wide Web site and any variations or successors to this Web site ([www.jivox.com](https://web.archive.org/web/20080615165320id_/http%3A//redir.aspx?C=fc4e7fd977f540fdba6962c72e9d8430&URL=http%3a%2f%2fwww.jivox.com), the "Jivox Site"), any Jivox computer software, accessible, downloadable or otherwise available from the Jivox Site ("Jivox Software") and any Jivox services purchased or otherwise made available from the Jivox Site ("Jivox Services") (collectively, the "Jivox Properties").  This Privacy Policy applies to all users ("Users") of the Jivox Properties.
+Please read this Privacy Policy carefully to understand how Jivox, its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as "Jivox") uses and protects the information you provide.  This privacy policy (the "Privacy Policy") applies to this World Wide Web site and any variations or successors to this Web site ([www.jivox.com](http://www.jivox.com/), the "Jivox Site"), any Jivox computer software, accessible, downloadable or otherwise available from the Jivox Site ("Jivox Software") and any Jivox services purchased or otherwise made available from the Jivox Site ("Jivox Services") (collectively, the "Jivox Properties").  This Privacy Policy applies to all users ("Users") of the Jivox Properties.
 
 A. WHAT INFORMATION JIVOX COLLECTS FROM YOU
 
@@ -47,13 +47,13 @@ C. HOW JIVOX USES YOUR INFORMATION
 
 4.     Third Party Services.  Jivox may share your Personal and Financial Information with third parties who provide services, which may include Web site hosting, promotion fulfillment, credit card clearance, data analysis and other services of an administrative nature.  Personal and Financial Information may be shared with such third parties only when necessary to facilitate your use of the Jivox Properties. Third parties may have access to Personal and Financial Information only to the extent needed to perform their functions, and may not use it for other purposes.
 
-5.     Promotional E-mails.  Jivox may use your Personal Information to send you e-mails periodically listing promotions or events relating to the Jivox Properties or from Jivox's marketing partners or sponsors.  You have the choice to opt-out of receiving such promotional e-mails by sending an e-mail to remove@jivox.com and/or following the instructions in such correspondence.  Once Jivox has processed your opt-out request, Jivox will not send you promotional e-mails unless you opt back in to receiving such communications.
+5.     Promotional E-mails.  Jivox may use your Personal Information to send you e-mails periodically listing promotions or events relating to the Jivox Properties or from Jivox's marketing partners or sponsors.  You have the choice to opt-out of receiving such promotional e-mails by sending an e-mail to [remove@jivox.com](mailto:remove@jivox.com) and/or following the instructions in such correspondence.  Once Jivox has processed your opt-out request, Jivox will not send you promotional e-mails unless you opt back in to receiving such communications.
 
-6.     Contact Information.  If you contact Jivox by telephone, e-mail or letter, Jivox may keep a record of your contact information and correspondence.  If you report a problem with the Jivox Properties, Jivox may collect this information in a file specific to you.  You may contact Jivox at admin@jivox.com to request the removal of this information from Jivox's database.
+6.     Contact Information.  If you contact Jivox by telephone, e-mail or letter, Jivox may keep a record of your contact information and correspondence.  If you report a problem with the Jivox Properties, Jivox may collect this information in a file specific to you.  You may contact Jivox at [admin@jivox.com](mailto:admin@jivox.com) to request the removal of this information from Jivox's database.
 
 D. HOW TO ACCESS AND CHANGE YOUR INFORMATION
 
-Upon request, Jivox will allow Users to update or correct Personal and Financial Information previously submitted, but only to the extent such activities will not compromise privacy or security interests.  Additionally, upon request, Jivox will delete Personal or Financial Information from the database where such information is stored; however, it may be impossible to entirely delete a User's entry without some residual information being retained due to the manner in which data backups are maintained.  Requests to delete Personal or Financial Information will be submitted to admin@jivox.com.
+Upon request, Jivox will allow Users to update or correct Personal and Financial Information previously submitted, but only to the extent such activities will not compromise privacy or security interests.  Additionally, upon request, Jivox will delete Personal or Financial Information from the database where such information is stored; however, it may be impossible to entirely delete a User's entry without some residual information being retained due to the manner in which data backups are maintained.  Requests to delete Personal or Financial Information will be submitted to [admin@jivox.com](mailto:admin@jivox.com).
 
 E. DISCLOSURE OF INFORMATION TO THIRD PARTIES
 
@@ -73,7 +73,7 @@ Jivox continually strives to implement new technologies and processes to better 
 
 H. SPECIAL NOTE REGARDING CHILDREN UNDER 13 YEARS OF AGE
 
-Use of the Jivox Properties is not intended for minors under the age of 18 ("Minors").  Minors are not authorized by Jivox to use the Jivox Properties, even if Minors set up an Account or accept the terms of any agreement for Jivox Properties.  Parents or guardians may authorize Minors between the ages of 13 and 17 to use the Jivox Properties, provided they assume all responsibility and legal liability for the conduct of such Minor including, without limitation, monitoring the Minor's access and use of the Jivox Properties.  Jivox does not intentionally collect nor maintain any personally identifiable information from Minors.  If you discover your Minor child has submitted his or her information to Jivox, you may request to have such information deleted from Jivox's database by sending an e-mail request to [admin@jivox.com](https://web.archive.org/web/20080615165320id_/http%3A//redir.aspx?C=fc4e7fd977f540fdba6962c72e9d8430&URL=mailto%3ahelp%40jivox.com) together with the e-mail address that was submitted by the Minor.  Upon receiving the request, Jivox will use reasonable efforts to delete such information.  If Jivox learns that a Minor is using the Jivox Properties, Jivox will require verified parental or guardian consent, in accordance with the Children's Online Privacy Protection Act of 1998 ("COPPA"). 
+Use of the Jivox Properties is not intended for minors under the age of 18 ("Minors").  Minors are not authorized by Jivox to use the Jivox Properties, even if Minors set up an Account or accept the terms of any agreement for Jivox Properties.  Parents or guardians may authorize Minors between the ages of 13 and 17 to use the Jivox Properties, provided they assume all responsibility and legal liability for the conduct of such Minor including, without limitation, monitoring the Minor's access and use of the Jivox Properties.  Jivox does not intentionally collect nor maintain any personally identifiable information from Minors.  If you discover your Minor child has submitted his or her information to Jivox, you may request to have such information deleted from Jivox's database by sending an e-mail request to [admin@jivox.com](mailto:admin@jivox.com) together with the e-mail address that was submitted by the Minor.  Upon receiving the request, Jivox will use reasonable efforts to delete such information.  If Jivox learns that a Minor is using the Jivox Properties, Jivox will require verified parental or guardian consent, in accordance with the Children's Online Privacy Protection Act of 1998 ("COPPA"). 
 
 I. CONTACT JIVOX 
 
@@ -81,6 +81,6 @@ If you have any questions about this Privacy Policy please contact Jivox by send
 
 Jivox Corporation   
 Attn: Privacy   
-999 Baker Way   
+1400 Fashion Island Blvd.   
 San Mateo, CA 94404   
-privacy@jivox.com 
+[privacy@jivox.com](mailto:privacy@jivox.com)
