@@ -1,17 +1,16 @@
-<!--The following is the downloaded HTML source of the stockphotopro.com privacy policy that was archived on 2008-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080422092844id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockphotopro.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216152309id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
- 
 <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="content-language" content="en">
 <meta name="robots" content="index,follow">
-<meta name="keywords" content="">
-<meta name="description" content="StockphotoPro is your resource for the best most high quality stockphoto.">
+<meta name="keywords" content="Stock Photography, Stock Photos, Royalty Free, Cheap  Stock Photos, Free stock photos, stock photos images, royalty free stock photos, royalty stock photos, adobe stock photos, stock exchange photos, sell stock photos, stock photos pictures, wildlife stock photos, cheap stock photos, i stock photos, stock photos people, subscription stock photos, big stock photos, business stock photos, buy stock photos, food stock photos, medical stock photos, selling stock photos, celebrity stock photos, digital stock photos, old stock photos, sports stock photos, stock photos online, photo stock photos, high resolution stock photos, stock photos com, background stock photos, best stock photos, download stock photos, family stock photos, free royalty free stock photos, image stock photos, nature stock photos, stock photos for sale, black and white stock photos, can stock photo, fashion stock photos, stock photos woman, stock web photos, baby stock photos, home stock photos, public domain stock photos, quality stock photos, low cost stock photos, office stock photos, photoshop stock photos, purchase stock photos, stock photos man, super stock photos, world stock photos, education stock photos, open stock photos, search stock photos, hi res stock photos, high res stock photos, inexpensive stock photos, stock photos copyright, travel stock photos, Christmas stock photos, clip art stock photos, high quality stock photos, stock photos health, stock photos sites, take stock photos, construction stock photos, stock photos library, stock photos site, technology stock photos, affordable stock photos, legal stock photos, sport stock photos, fine art stock photos, industrial stock photos, acclaim stock photos, student stock photos, internet stock photos, tech stock photos, all stock photos, best selling stock photos, buying stock photos, cheap royalty free stock photos, cheapest stock photos, find stock photos, free high resolution stock photos, free stock photos of people, good stock photos, international stock photos, micro stock photos, my stock photos, photography stock photos, popular stock photos, rf stock photos, rights managed stock photos, royalty-free stock photos, stock photos books, stock photos clipart, stock photos from, stock photos graphics, stock photos illustrations,">
+<meta name="description" content="StockphotoPro lets you find the perfect photo fast!  All concepts. The world's top photographers.">
 <meta name="rating" content="general">
 <meta name="author" content="StockphotoPro">
 <meta name="copyright" content="Copyright © 2001-2008">
-<title>StockphotoPro - The Stock Photo Community.</title>
+<title>StockphotoPro - Stock Photography - Search 3.1 Million Stock Photos, Royalty Free Images, and Illustrations</title>
 <link href="http://www.stockphotopro.com/favicon.ico" rel="SHORTCUT ICON">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.stockphotopro.com/spp.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.stockphotopro.com/themes/spp/styleNN.css">
@@ -29,16 +28,70 @@
 <script language="javascript" src="http://www.stockphotopro.com/include/expand/highslide.js"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/expand/highslide-html.js"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/filesearchhover.js" type="text/javascript"></script>
+<script language="javascript" src="http://www.stockphotopro.com/include/clienthint.js" type="text/javascript"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/search.js" type="text/javascript"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/cookie.js" type="text/javascript"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/saveFormValues.js" type="text/javascript"></script>
-<script type="text/javascript">    
+<script language="javascript" src="http://www.stockphotopro.com/include/dragimg.js" type="text/javascript"></script>
+
+<script language="javascript" src="http://www.stockphotopro.com/include/thickbox/jquery.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript">
     hs.graphicsDir = '/include/expand/graphics/';
     hs.outlineType = 'rounded-white';
     hs.outlineWhileAnimating = true;
+
+//Mantis:493 Populated Search Panel
+	jQuery.noConflict();
+	
+	function hideAdvSrchOnLoad()///called on every page load
+	{
+	
+		if (document.cookie.length>0)
+		{
+			c_start=document.cookie.indexOf('advSrchVisited=');
+			if (c_start==-1)///check if cookie was not set, then call after 2 seconds			
+			{
+				jQuery("div#advsrchfields").show();
+				setTimeout('showHideAdvSrch(false);',2000);
+			}
+			/*else///check if cookie was set, then call at once
+			{
+				jQuery("div#advsrchfields").hide();
+			}*/	
+		}
+	}
+	function showHideAdvSrch(showAdvSrchDiv)
+	{
+	   if (typeof showAdvSrchDiv =="undefined")//if parameter was not passed
+	   {
+		   if (jQuery("div#advsrchfields").is(":hidden")) {//if div is visible, show it
+				jQuery("div#advsrchfields").slideDown("slow");	
+		   } else {//otherwise hide it
+				jQuery("div#advsrchfields").slideUp();
+		   }
+	   }
+	   else
+	   {
+		   if (showAdvSrchDiv) {//show
+				jQuery("div#advsrchfields").slideDown("slow");
+				document.cookie='advSrchVisited=1;expires=365';
+		   } else {//hide
+				jQuery("div#advsrchfields").slideUp();
+		   }	   
+	   }
+	   ///set the access cookie
+	    var exdate=new Date();
+		exdate.setDate(exdate.getDate()+7);
+		document.cookie='advSrchVisited=1;expires='+exdate.toGMTString();
+	}
 </script>
+
 </head>
-<body onload="recoverInputs(document.forms.search,retrieveCookie('inpVal'),true);">
+<body onload="hideAdvSrchOnLoad();cp_init();">
+<script language="javascript" src="http://www.stockphotopro.com/include/picker.js" type="text/javascript"></script>
 <table id="wraper" cellspacing="0" cellpadding="0">
   <tbody><tr>
    <td>
@@ -53,11 +106,11 @@
       <tbody><tr>
     <td style="text-align: left;">
 Welcome to StockphotoPro - high quality stock photography         </td>
-         <td class="time">  <a href="?language=en"><img src="/modules/osC/includes/languages/english/images/icon.gif" border="0" alt="English" title=" English " \=""></a>  <a href="?language=de"><img src="/modules/osC/includes/languages/german/images/icon.gif" border="0" alt="Deutsch" title=" Deutsch " \=""></a>  <a href="?language=ja"><img src="/modules/osC/includes/languages/japanese/images/icon.gif" border="0" alt="Japanese" title=" Japanese " \=""></a>  <a href="?language=es"><img src="/modules/osC/includes/languages/espanol/images/icon.gif" border="0" alt="Español" title=" Español " \=""></a>  <a href="?language=fr"><img src="/modules/osC/includes/languages/french/images/icon.gif" border="0" alt="French" title=" French " \=""></a> </td>
+         <td class="time">Tuesday, December 16, 2008  <a href="?language=en"><img src="/modules/osC/includes/languages/english/images/icon.gif" border="0" alt="English" title=" English " \=""></a>  <a href="?language=de"><img src="/modules/osC/includes/languages/german/images/icon.gif" border="0" alt="Deutsch" title=" Deutsch " \=""></a>  <a href="?language=ja"><img src="/modules/osC/includes/languages/japanese/images/icon.gif" border="0" alt="Japanese" title=" Japanese " \=""></a>  <a href="?language=es"><img src="/modules/osC/includes/languages/espanol/images/icon.gif" border="0" alt="Español" title=" Español " \=""></a>  <a href="?language=fr"><img src="/modules/osC/includes/languages/french/images/icon.gif" border="0" alt="French" title=" French " \=""></a> </td>
         </tr>
       </tbody></table>
 	  <table cellspacing="0" cellpadding="0" width="100%" id="menuHeadNavTable">
-        <tbody><tr> 
+        <tbody><tr>
             <td id="menuHeadNav">
              	<div id="menuHead">
              		<!-- Custom top links -->
@@ -69,56 +122,147 @@ Welcome to StockphotoPro - high quality stock photography         </td>
       </tbody></table>
       <table cellpadding="0" cellspacing="0">
       	<tbody><tr>
-         <td class="left"> 
+         <td class="left">
         	<div id="leftcolumn">
                <!-- Advanced Search block -->
 				<div class="block">
 						<div class="blockTitle">Search</div>
 						<div class="blockContent">
-       						<form name="search" style="margin: 5px;" action="http://www.stockphotopro.com/searchphoto.php" onsubmit="setCookie('inpVal',getFormString(this,true));" method="post">
-							Enter Keywords<input type="text" name="keywd" value="" style="border:1px inset #fff; background:#fff; width:95%;" maxlength="60"><br>
-							<h5 style="" onclick="ToggleSearchOptionGroup('searchOptionGroupSort', 'searchOptionGroupSortOpener', false);">
-								<img id="searchOptionGroupSortOpener" src="http://www.stockphotopro.com/images/arrowrightgrey.gif">Sort Order</h5>
-								<div id="searchOptionGroupSort" class="searchOptionGroup">	
-									<input type="radio" name="SortOrder" value="Photographer">By Photographer<br>
-									<input type="radio" name="SortOrder" value="Title">By Title<br>
-									<input type="radio" name="SortOrder" value="Size">By Size<br>
-									<input type="radio" name="SortOrder" value="Date">By Upload Date (Newest First)<br>
-									<input type="radio" name="SortOrder" value="Best" checked="">By Best Match of Keyword<br>
-								</div>
-				
-							<h5 style="" onclick="ToggleSearchOptionGroup('searchOptionGroupFileType', 'searchOptionGroupFileTypeOpener', false);">
-								<img id="searchOptionGroupFileTypeOpener" src="http://www.stockphotopro.com/images/arrowrightgrey.gif">File Types &amp; Sizes</h5>
-								<div id="searchOptionGroupFileType" class="searchOptionGroup">
-									<input type="radio" name="FileSize" value="All" checked="">All<br>
-									<input type="radio" name="FileSize" value="Medium">Medium and bigger<br>
-									<input type="radio" name="FileSize" value="Large">Large and bigger<br>
-									<input type="radio" name="FileSize" value="XLarge">XLarge and bigger<br>
-									<input type="radio" name="FileSize" value="XXLarge">Hi-Res<br>
-								</div>	
+
+       						<form action="http://www.stockphotopro.com/searchphoto.php" method="GET" name="advsearch">
+							<div class="searchItem">Enter Keywords<br><input type="text" name="Keyword" id="Keyword" class="fontStyleTxtBox" tabindex="11" onfocus="javascript:showHideAdvSrch(true);" onkeydown="javascript: CheckKey(event)" ;"=""></div>
+							<div class="searchItem"><div class="fpd"><input type="checkbox" name="photograph" value="1" tabindex="15" checked=""></div><div class="fpd" style="margin-top:3px;">Photograph</div></div>
+					        <div class="searchItem"><div class="fpd"><input type="checkbox" name="illustration" value="1" tabindex="15" checked=""></div><div class="fpd" style="margin-top:3px;">Illustration</div></div>
+							<div class="searchItem">
+								<a href="javascript:showHideAdvSrch();">Advanced Search</a>
+							</div>							
+							<div id="advsrchfields" name="advsrchfields" style="display:none">
+							<div class="searchItem">By Photographer<input type="text" name="Photographer" id="Photographer" class="fontStyleTxtBox" autocomplete="off" style="left:0px" tabindex="12"><br><div id="txtHint"></div><!--input type="text" name="Photographer" id="Photographer" class="fontStyleTxtBox" autocomplete="off" onblur="hide()"/--></div>
+							<div class="searchItem">By Image Id<br><input type="text" name="Imageid" id="Imageid" class="fontStyleTxtBox" tabindex="11" onkeydown="javascript: CheckKey(event)" ;"=""></div>
+							<div class="searchItem">Orientation<br>
+								<div>
+									<select name="Orientation" class="fontStyleTxtBox" tabindex="13">
+							            <option value="0">&nbsp;</option>
+							            <option value="H">Horizontal</option>
+							            <option value="V">Vertical</option>
+						        	</select>
+						        </div>
+						    </div>
+						    <div class="searchItem">License Type<br>
+					        <div>
+					        	<select name="LicenseType" class="fontStyleTxtBox">
+					        		<option value="0">&nbsp;</option>
+						            <option value="2" selected="selected">Royalty Free</option>
+						            <option value="1">Rights Managed</option>
+						         </select>
+					        </div>
+					        
+							<div class="searchItem">
+								<div class="fpd"><input type="checkbox" id="Color" name="Color" onclick="div_display('Picker','Color');" tabindex="14"></div><div class="fpd" style="margin-top:3px;">Search By Color</div>
+								<div class="clear"></div>
+								<div id="Picker" name="Picker" style="display:none;">
+								  <input name="cp_color" value="" type="hidden">
+								  <input name="toggle_lightbox" type="hidden" value="0">
+								  <input name="lid" type="hidden" value="">
+								  <input name="lbxpage" type="hidden" value="1">
+								  <input name="dragging" type="hidden" value="0">
+							      <input name="bndl" type="hidden" value="">
+								  <!-- Color Picker Div //-->
+								  <div id="maincolorpicker">
+									    <table width="110" cellspacing="0" cellpadding="0" border="0">
+
+											<tbody><tr>
+										      <td colspan="3" style="padding-top:5px; padding-bottom:5px;">
+										        <div id="wheel" style="width:109; height:109;">
+										        <a href="#" onclick="javascript:cp_wheel(); return false;" onmouseover="this.style.cursor='crosshair';">
+										        <img src="/advancedsearch/images/wheel.png" alt="color wheel" width="109" height="109" border="0">
+										        </a>
+										        </div>
+										      </td>
+										    </tr>
+										    <tr>
+										      <td colspan="3"><table widt="130"><tbody><tr>
+										      <td><font class="small">Code:<input type="text" name="rgb1_value" class="adv" style="width:60px;" onblur="cp_text_entry();"></font></td>
+										      <td width="22" height="22" id="cp_swatch" onclick="small_wheel_click(); return false" style="background-color:#fff; border: 1px solid #ccc;background-repeat: no-repeat;"><img src="/advancedsearch/images/spacer.gif" width="22" height="22" id="cp_swatch_spacer"></td>
+										      <td>&nbsp;&nbsp;</td>
+										      </tr></tbody></table>
+										    </td></tr>
+											<tr>
+												<td colspan="3" style="padding-top:5px;"><table width="110" border="0" cellspacing="0" cellpadding="0">
+											        <tbody><tr>
+											          <td><font class="small">Tint:</font></td>
+											          <td align="right"><font class="small">Contrast:&nbsp;</font></td>
+											          <td align="right" valign="middle" width="10">
+													      <table cellspacing="0" cellpadding="0" border="0">
+											    		    <tbody><tr> <td width="10" height="10" id="cp_contrast" onclick="cp_contrast_click();"><img src="/advancedsearch/images/spacer.gif" width="10" height="10" id="cp_cont_spacer"></td></tr>
+											      			</tbody></table>
+											          </td>
+											        </tr>
+											     </tbody></table></td>
+									    	</tr>
+										    <tr>
+										      <td colspan="3">
+											      <table cellspacing="0" cellpadding="0" border="0" width="110" style="padding-top:5px;">
+											        <tbody><tr>
+											          <td width="6" height="12" id="cp_bar_15" onclick="cp_bar(15)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td><td width="6" height="12" id="cp_bar_14" onclick="cp_bar(14)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td><td width="6" height="12" id="cp_bar_13" onclick="cp_bar(13)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td><td width="6" height="12" id="cp_bar_12" onclick="cp_bar(12)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td>
+											          <td width="6" height="12" id="cp_bar_11" onclick="cp_bar(11)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td><td width="6" height="12" id="cp_bar_10" onclick="cp_bar(10)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td><td width="6" height="12" id="cp_bar_9" onclick="cp_bar(9)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td><td width="6" height="12" id="cp_bar_8" onclick="cp_bar(8)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td>
+											          <td width="6" height="12" id="cp_bar_7" onclick="cp_bar(7)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td><td width="6" height="12" id="cp_bar_6" onclick="cp_bar(6)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td><td width="6" height="12" id="cp_bar_5" onclick="cp_bar(5)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td><td width="6" height="12" id="cp_bar_4" onclick="cp_bar(4)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td>
+											          <td width="6" height="12" id="cp_bar_3" onclick="cp_bar(3)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td><td width="6" height="12" id="cp_bar_2" onclick="cp_bar(2)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td><td width="6" height="12" id="cp_bar_1" onclick="cp_bar(1)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td><td width="6" height="12" id="cp_bar_0" onclick="cp_bar(0)"><img src="/advancedsearch/images/spacer.gif" width="6" height="12"></td>
+											        </tr>
+											      </tbody></table>
+										      </td>
+									    	</tr>
 
 
-							<h5 style="" onclick="ToggleSearchOptionGroup('searchOptionGroupShape', 'searchOptionGroupShapeOpener', false);">
-								<img id="searchOptionGroupShapeOpener" src="http://www.stockphotopro.com/images/arrowrightgrey.gif">Orientation</h5>
-								<div id="searchOptionGroupShape" class="searchOptionGroup">	
-									<input name="Ratio" type="radio" value="Any" checked="">All<br>
-									<input name="Ratio" type="radio" value="H">Horizontal<br>
-									<input name="Ratio" type="radio" value="V">Vertical<br>
-								</div>
-
-							<h5 style="" onclick="ToggleSearchOptionGroup('searchOptionToggleItemsPerPage', 'searchOptionToggleItemsPerPageOpener', false);">
-								<img id="searchOptionToggleItemsPerPageOpener" src="http://www.stockphotopro.com/images/arrowrightgrey.gif">Items Per Page</h5>
-								<div id="searchOptionToggleItemsPerPage" class="searchOptionGroup">	
-									<input type="radio" name="Images" value="20" checked="">20 per page<br>
-									<input type="radio" name="Images" value="50">50 per page<br>
-									<input type="radio" name="Images" value="100">100 per page<br>
-								</div>
-
-								<br>											
-							<input type="submit" value="Search" onclick="setCookie('inpVal',getFormString(this.form,true));" style="width:95%;">
+							  			</tbody></table><br></div>
+								  </div><!-- End Color Picker Div //-->
+							  </div><!-- End Color search by color div //-->
+							  <div class="searchItem"><div class="fpd"><input type="checkbox" name="ModelReleased" value="NotNull" tabindex="15"></div><div class="fpd" style="margin-top:3px;">Model Released</div></div>
+							  <div class="searchItem"><div class="fpd"><input type="checkbox" name="PropertyReleased" value="NotNull" tabindex="16"></div><div class="fpd" style="margin-top:3px;">Property Released</div></div>
+							<div class="searchItem">File Types &amp; Sizes<br>
+									<div>
+										<select name="ImageSize" class="fontStyleTxtBox" id="ImageSize" tabindex="17">
+								            <option value="0" selected="selected">All</option>
+								            <option value="1">Medium and bigger</option>
+											<option value="2">Large and bigger</option>
+								            <option value="3">XLarge and bigger</option>
+											<option value="4">Hi-Res</option>
+								        </select>
+							        </div>
+						    </div>
+							<div class="searchItem">
+							 	Items Per Page<br>
+									<div>
+										<select name="images_per_page" class="fontStyleTxtBox" id="images_per_page" tabindex="18">
+								          <option value="20" selected="selected">20</option>
+								          <option value="50">50</option>
+								          <option value="100">100</option>
+								          <option value="200">200</option>
+								        </select>
+							        </div>
+							</div>
+							<div class="searchItem">
+							 Sort Order<br>
+								<div>
+									<select name="SortOrder" class="fontStyleTxtBox" id="SortOrder" tabindex="19">
+									 <option value="0">Most Popular</option>
+									  <option value="1" selected="selected">Most Recent First</option>
+									  <option value="2">Most Recent Last</option>
+									</select>
+						        </div>
+							</div>
+							</div>
+							</div>
+							 <div class="searchItem"><br><input type="hidden" name="txt_PageNo" value="1">
+								<input type="button" name="btn_Submit" value="Submit" class="fontStyleTxtBox" tabindex="20" onclick="javascript:submitSearch(document.forms.advsearch);">
+							</div><br>
 						</form>
-
-			    </div>  
+			    </div>
+<script type="text/javascript">
+<!--
+cp_init();
+//-->
+</script>
 		<!-- Start left blocks loop -->
                         <div class="block">
                  <div class="blockTitle">Login</div>
@@ -137,15 +281,15 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 <br>
 <a style="margin:5px;" href="http://www.stockphotopro.com/register.php">Register now!</a></div>
               </div>
-           
-          <!-- End left blocks loop -->
+                    <!-- End left blocks loop -->
 		  <!-- Links below -->
 			 <div class="block"><br>
                  <div class="blockTitle">Quick Links</div>
-				<div id="usermenu"><a href="http://www.stockphotopro.com/sppadvancedsearch.php" class="menuTop">Advanced Search</a>
+				<div id="usermenu">
 				 <a href="http://www.stockphotopro.com/spprecent.php" class="menuTop">Browse Recent</a>
 				 <a href="http://www.stockphotopro.com/lightbox.php" class="menuTop">Lightbox</a>
-				 <a href="http://www.stockphotopro.com/image_myimages.php" class="menuTop">My images</a>
+				 <!--Mantis:425-Shoppingcart Erratic behavior-->
+				 				 <a href="http://www.stockphotopro.com/image_myimages.php" class="menuTop">My images</a>
 				 <a href="http://www.stockphotopro.com/imageupload.php" class="menuTop">Upload</a>
 				 <a href="http://www.stockphotopro.com/sppftaf.php" class="menuTop">Send a Friend</a>
 				 <a href="http://www.stockphotopro.com/affiliate.php" class="menuTop">Affiliate Program</a>
@@ -154,13 +298,13 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 				<br><br><br><br><br><br><br><br><br><br><br><br><br>
 				</div>
               </div>
+			 </div>
 		  <!-- End SPP custom content -->
         </div>
-          </div></td>
-        <td id="centercolumn"> 
+          </td>
+        <td id="centercolumn">
           <!-- Display center blocks if any -->
-           
-          <!-- End display center blocks -->
+                    <!-- End display center blocks -->
           <div id="content">		<div style="width:500px;">
 		<h1>Privacy Policy</h1>
        for <b>STOCKPHOTOPRO, INC.</b>.<br>
@@ -189,31 +333,31 @@ Consumers can have this information corrected by sending us e-mail at the above 
 <p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at <a href="mailto:mgoldberger@the-dma.org">mgoldberger@the-dma.org</a>, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <a href="http://www.ftc.gov/ftc/complaint.htm">http://www.ftc.gov/ftc/complaint.htm</a>.</p>
 </div>
                 </div></td>
-       <!-- 
-        <td class="right"> 
+       <!--
+        <td class="right">
         	<div id="rightcolumn">
- 
-              </div> 
-		 Start right blocks loop 
-           
+
+              </div>
+		 Start right blocks loop
           
           </div>
           </td>
         End right blocks loop -->
         </tr>
-    </tbody></table> 
+    </tbody></table>
 	<div id="copyright">
 		<span id="designBy">
-				<a class="leftlink" href="spplegal.php">© copyright 2007 StockphotoPro All rights reserved.</a> 
-				| <a class="leftlink" href="spplegal.php">Legal notices</a> 
+				<a class="leftlink" href="spplegal.php">© copyright 2008 StockphotoPro All rights reserved.</a>
+				| <a class="leftlink" href="spplegal.php">Legal notices</a>
 				| <a class="leftlink" href="sppprivacy.php">Privacy Policy</a>
-				| <a class="leftlink" href="sppaboutus.php">About Us</a> 
-				<a href="/rs/rs.php"><img src="/images/clear.png"></a> 
+				| <a class="leftlink" href="sppaboutus.php">About Us</a>
+				<a href="/rs/rs.php"><img src="/images/clear.png"></a>
 		</span>
 	</div>
 	</td>
   </tr>
 </tbody></table>
+
 
 
 <script type="text/javascript">
