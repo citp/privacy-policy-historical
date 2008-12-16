@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kingsofchaos.com privacy policy that was archived on 2008-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080531040936id_/http%3A//www.kingsofchaos.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kingsofchaos.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216011141id_/http%3A//www.kingsofchaos.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Kings of Chaos :: Massively Multiplayer Online Role Playing Game</title>
@@ -73,13 +73,16 @@ function newcap()
 	function checkCR(evt) {
 	var evt = (evt) ? evt : ((event) ? event : null);
 	var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
-	if ((evt.keyCode == 13) && (node.type=="text")) {return false;}
+	if ((evt.keyCode == 13) && (node.type=="text") && (node.id != "box")) {return false;}
+  if (node.id == "box" && node.type == 'text'){
+     
+  }
 	}
 	document.onkeypress = checkCR;
 	</script>
 
 </head>
-<body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#FFFFFF">
+<body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#FFFFFF" onload="if (box = document.getElementById('box')) box.focus();">
 <span style="position: absolute; right: 2; top: 2; z-index:10;font-size:x-small; color:#999999;">web3</span>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="219" background="/images/main/repeater.jpg">
   <tbody><tr> 
@@ -124,7 +127,7 @@ function newcap()
   <tbody><tr> 
     <td width="140" class="menu_cell" style="padding-left: 10px;" valign="top"> 
 	      <table width="137" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr><td><img src="/images/menubar/age9.gif" width="137" height="56"></td></tr> 
+		<tbody><tr><td><img src="/images/menubar/age10.gif" width="137" height="56"></td></tr> 
 				<tr><td class="menu_cell_repeater"><form action="login.php" method="post">
 <input type="hidden" name="username">
 <input type="hidden" name="pword">
@@ -272,7 +275,7 @@ If, however, we are going to use users' personally identifiable information in a
 <font style="font-size: 8pt;">
 <a href="spam.php">Report Spam</a> | <a href="privacy.php">Privacy Policy</a> | <a href="advertising.php">Advertising</a> | <a href="mailto:%62%69%7a%64%65%76%40%6b%69%6e%67%73%6f%66%63%68%61%6f%73%2e%63%6f%6d">Business Queries</a> | <a href="tos.php">Terms of Service</a>
 </font></p><p><font style="font-size: 8pt;">
-<i>Copyright © 2003-2008 Kings of Chaos, LLC. All rights reserved.</i><br>
+<i>Copyright © 2003-2008 Kings of Chaos, LLC. All rights reserved.<br>Kings of Chaos ® is a registered trademark of Kings of Chaos, LLC.</i><br>
 </font>
 </p></center>
 	</div></td>
