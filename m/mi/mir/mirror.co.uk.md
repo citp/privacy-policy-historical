@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the mirror.co.uk privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231213715id_/http%3A//www.mirror.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirror.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022134id_/http%3A//www.mirror.co.uk/priv_statement) for the most accurate reproduction.*
 
-# Mirror.co.uk - Privacy Policy
+# Privacy Statement - mirror.co.uk
 
-  
 We are committed to: 
 
   * protecting the personal information you give us 
   * telling you how we use the information we gather about you 
   * getting your consent to our disclosure of your personal information. 
 
-Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. Trinity Mirror Digital Media Limited is part of Trinity Mirror Plc and when we refer to "we" in this policy we mean the activities of the Trinity Mirror Group. 
-
-**WHY WE COLLECT INFORMATION ABOUT YOU**
+Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. MGN Limited is part of Trinity Mirror Plc and when we refer to "we" in this policy we mean the activities of the Trinity Mirror Group. **WHY WE COLLECT INFORMATION ABOUT YOU**
 
   * We want to offer you a service which you want to use. We may use information about you to help us customise our site to improve its usefulness to you. It can also help us to choose services we think will interest you.
   * Information about you helps us sell space to advertisers of products and services relevant to you so that we can continue to fund the site through advertising and you can continue to use the site for free.
@@ -34,7 +31,7 @@ Our privacy policy is set out in detail below. Any changes to this policy will b
   * We endeavour to ensure that your data is stored securely and to prevent unauthorised access. We have security measures in place to protect your information which we monitor regularly. Unfortunately, despite our measures, because of the nature of the Internet, we cannot guarantee that your information will remain at all times 100% secure. The continuing efforts of hackers to defeat even the newest of security systems means that we can never make this promise.
   * Please be aware that if you disclose information on chat areas, forums or other public services it may be possible for other people to use this information. We are not responsible for the disclosure of any information you post in this way.
   * Our policy is to comply with the Data Protection Act 1998 and the Regulation of Investigatory Powers Act 2000 and all other legislation which governs the maintenance of privacy in your information. We also require compliance with such legislation by third parties with whom we have arrangements to offer goods or services through the "ic" website.
-  * Our web sites provide a number of links to web sites not operated by us or by companies associated with us. We take no responsibility for the use of any information about you which is collected as a result of your use of these web sites and this privacy policy does not extend to any web site operated by anybody other than us.
+  * Our web site provides a number of links to web sites not operated by us or by companies associated with us. We take no responsibility for the use of any information about you which is collected as a result of your use of these web sites and this privacy policy does not extend to any web site operated by anybody other than us.
 
 **DISCLOSING YOUR INFORMATION TO THIRD PARTIES**
 
@@ -42,6 +39,6 @@ Our privacy policy is set out in detail below. Any changes to this policy will b
   * We may disclose details about use of our web sites to other businesses e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified.
   * We may forward your personal details to the Police or another regulatory body if we are asked to do so or wish to do so in order to comply with the law or in relation to any suspected misuse by you of our web site or any of our web site services.
   * We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies.
-  * Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein. For more information about each such third party, please refer to the third partys privacy policy which can be found by clicking on this link.
+  * Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein.
 
 
