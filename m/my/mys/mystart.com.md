@@ -1,42 +1,47 @@
-> *The following text is extracted and transformed from the mystart.com privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618051237id_/http%3A//www.myinternet.com/english/privacy.zpml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystart.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013821id_/http%3A//www.mystart.com/privacy-policy.php%3Fpr%3Dmystart) for the most accurate reproduction.*
 
-# MYINTERNET.COM: PREMIER DOMAIN NAME SERVICES
+# Privacy Policy MyStart.com
 
-**PRIVACY STATEMENT**
+[](http://www.mystart.com/?pr=mystart)
 
-_myinternet.com_ has adopted this Privacy Statement as an expression of our commitment to fair electronic information practices. 
+MyStart.com and its representations in the World, hereafter collectively 'MyStart.com', recognize the need to protect the privacy of the personal information that we collect from you as you use the Site and its products and services. Users should fully understand the terms and conditions surrounding the capture and use of that information. 
 
-**Your Personal Information**
+## Information Collected
 
-When you sign up for membership at _myinternet.com_ , we require the personal information listed in our application found at http://www. _myinternet.com_ /english/signup.zpml. When you subscribe, you agree to provide and maintain accurate and complete information. The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. 
+MyStart.com collects personal information on certain areas of the Site when users register, sign up for newsletters, participate in surveys and download applications. You are informed of the nature of the data collected and whether or not providing the data is compulsory by informative notices displayed at the time the data is requested from you on the Site. The personal information collected may consist of a unique access ID and contact information such as names, email addresses, phone and fax numbers, birth date, gender, zip code, occupation, industry, and personal interests. We may ask for further optional information from time to time to get a better picture of our visitors and their preferences. MyStart.com encourages users to provide this information to ensure that the content of our Site will remain relevant to your interests and needs. 
 
-If the information you have provided us requires modification, you can make changes at any time by contacting us via email at [support@myinternet.com](mailto:support@myinternet.com). 
+## Use of Information
 
-**Who Has Access?**
+You are informed of the use of the data collected by informative notices provided at the time the data is requested from you on the Site. The data collected is required by MyStart.com to enable you to access the Site and its functionality. MyStart.com also uses personal information to measure visitor usage and interest to help us improve the content and functionality of our Site. The e-mail addresses provided on registration allow us to send e-mail giving you notice of the existence of new contents to you based on the areas of interest you may have indicated to us. If you do not wish to receive e-mailed advance notices of content, you will be given the opportunity to indicate this preference on registration. You may also request cessation of the mailing of such notices later on at any time by following the instructions mentioned in the e-mails sent. MyStart.com uses personal information collected from cookies and IP addresses as described below. 
 
-The employees, agents and business partners of _myinternet.com_ are independently responsible for ensuring compliance with our Privacy Statement. Only those employees who have a legitimate business purpose for accessing and handling your personal information are given authorization to do so. Our information management systems are designed in such a way as to block employees from accessing information without authority. 
+## Information Sharing and Disclosure
 
-**How We Use It**
+MyStart.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-_myinternet.com_ uses your personal information to accurately track and administer your account. We also use this information to provide you with important notices and to generally keep in touch with you about new product or service offerings or the offerings of our business partners. 
+We provide the information to trusted partners who work on behalf of or with MyStart.com under confidentiality agreements. These companies may use your personal information to help MyStart.com communicate with you about offers from MyStart.com and our marketing partners. However, these companies do not have any independent right to share this information. 
 
-**Sharing Domain Information**
+We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of MyStart.com's terms of use, or as otherwise required by law. 
 
-_myinternet.com_ may disclose personal information about you if required to do so by law or other regulatory authority. 
+We transfer information about you if MyStart.com is acquired by or merged with another company. In this event, MyStart.com will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
-**Your Privacy Concerns**
+## Cookies and IP addresses
 
-If you feel that _myinternet.com_ has violated our Privacy Statement in any way, contact us via email at [support@myinternet.com](mailto:support@myinternet.com). 
+Cookies are pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set up to accept cookies. If you'd prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of our web site if you do so. We use cookies to make it easy to our visitors to download graphics on MyStart.com site. We also use cookies to collect demographic and profile data for purposes of delivering content specific to your interests. IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as "traffic data" so that data (such as the Web pages you request) can be sent to you. We also use your IP address to help diagnose problems with our server and to administer our Web site. MyStart.com will not use your IP address to attempt to identify your personal information. 
 
-Legal contact: 
+## Advertisers
 
-            Traci S. Umberger, Esq.  
-            General Counsel  
-            10900 NE 4th Street, Suite 1630  
-            Bellevue, WA 98004  
-            [legal@ _myinternet.com_ ](mailto:legal@myinternet.com)  
+We might use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
+## External Links
 
-* * *
+The Site contains links to third-party Web sites. Please be aware that we cannot control and are not responsible for the information collection practices of third-party Web sites. We encourage you to review and understand the privacy policies of these Web sites before providing any information to them.
 
-© _myinternet.com._ 1998-2000. All Rights Reserved.
+## Confidentiality and Security
+
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+
+We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+
+## Contacting the Web Site
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [support@MyStart.com](mailto:support@vmn.net). 
