@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the integrativenutrition.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621141248id_/http%3A//www.integrativenutrition.com/SitePages/termsofuse.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integrativenutrition.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216233615id_/http%3A//www.integrativenutrition.com/SitePages/termsofuse.aspx) for the most accurate reproduction.*
 
 # integrativenutrition.com | Terms of Use
 
