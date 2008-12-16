@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015232252id_/http%3A//www.filemaker.com/company/legal/notice/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216034000id_/http%3A//www.filemaker.com/company/legal/notice/privacy.html) for the most accurate reproduction.*
 
 # Legal: FileMaker Customer Privacy Policy
 
@@ -106,8 +106,8 @@ FileMaker welcomes your comments regarding this privacy policy, please contact u
 >  Santa Clara, CA 95054  
 >  Fax: (408) 987-7460  
 >  E-mail: [privacy@filemaker.com](mailto:privacy@filemaker.com)  
->  Last updated January 2, 2007  
->  © 2001-2007 FileMaker, Inc. All rights reserved
+>  Last updated April 1, 2008  
+>  © 2001-2008 FileMaker, Inc. All rights reserved
 
 FileMaker, Inc., ("FileMaker") is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because FileMaker wants to demonstrate our commitment to your privacy, we have agreed to disclose our information privacy practices for compliance review by TRUSTe
 
