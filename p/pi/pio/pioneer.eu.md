@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneer.eu privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503121223id_/http%3A//www.pioneer.eu/eur/content/company/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneer.eu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165514id_/http%3A//www.pioneer.eu/eur/content/company/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pioneer Europe
 
@@ -8,7 +8,7 @@ Your privacy is important to PIONEER EUROPE NV and its national sales subsidiari
 
 This privacy notice applies to following websites :
 
-| [www.pioneer.eu](http://www.pioneer.eu/) | [www.pioneer.dk](http://www.pioneer.dk/) | [www.pioneer.nl](http://www.pioneer.nl/)  
+[www.pioneer.eu](http://www.pioneer.eu/) | [www.pioneer.dk](http://www.pioneer.dk/) | [www.pioneer.nl](http://www.pioneer.nl/)  
 ---|---|---  
 [secure.pioneer.eu](http://secure.pioneer.eu/) | [www.pioneer.es](http://www.pioneer.es/) | [www.pioneer.no](http://www.pioneer.no/)  
 [www.pioneer.at](http://www.pioneer.at/) | [www.pioneer.fi](http://www.pioneer.fi/) | [www.pioneer.pt](http://www.pioneer.pt/)  
