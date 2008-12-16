@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mindshareworld.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611020256id_/http%3A//www.mindshareworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindshareworld.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216081507id_/http%3A//www.mindshareworld.com/privacy) for the most accurate reproduction.*
 
-# MindShare - The Global Media Network - Privacy
+# Mindshare - The Global Media Network - Privacy
 
-## What information do MindShare collect?
+## What information do Mindshare collect?
 
-You may provide personal information to MindShare, for example, your contact details, so that we can contact you or if you request, so that we can send to you MindShare newsletters or email alerts.
+You may provide personal information to MindShare, for example, your contact details, so that we can contact you or if you request, so that we can send to you Mindshare newsletters or email alerts.
 
 ## What will we do with your personal information?
 
-MindShare may use your personal information to provide you with more information on our services and we may use it for statistical purposes. MindShare will not send your personal information to other third parties. MindShare will hold your personal information securely and only hold it for as long as necessary to provide information and services to you. MindShare may pass your personal information to our subsidiaries and affiliated companies so that they can contact you. Where we pass your personal information to our subsidiary or affiliated companies in another country, we will make sure that they apply the same level of protection to your confidential information as we do.
+Mindshare may use your personal information to provide you with more information on our services and we may use it for statistical purposes. Mindshare will not send your personal information to other third parties. Mindshare will hold your personal information securely and only hold it for as long as necessary to provide information and services to you. Mindshare may pass your personal information to our subsidiaries and affiliated companies so that they can contact you. Where we pass your personal information to our subsidiary or affiliated companies in another country, we will make sure that they apply the same level of protection to your confidential information as we do.
 
 ## Cookies
 
@@ -18,8 +18,8 @@ MindShare may use your personal information to provide you with more information
 
 ### How might we use cookies on our site?
 
-MindShare may use cookies to tailor your experience on our site and to help provide a better service to you. 
+Mindshare may use cookies to tailor your experience on our site and to help provide a better service to you. 
 
 ## Changes to our policy
 
-MindShare reserve the right to make changes to our privacy policy without prior notice. MindShare will use personal information in accordance with the privacy policy on the site at the time the information was collected.
+Mindshare reserve the right to make changes to our privacy policy without prior notice. Mindshare will use personal information in accordance with the privacy policy on the site at the time the information was collected.
