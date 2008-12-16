@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamesway.com privacy policy that was archived on 2008-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080329181330id_/http%3A//www.freegamesway.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamesway.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024006id_/http%3A//www.freegamesway.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Free Games Way - Download Free Games - Play Free Games Now!
 
