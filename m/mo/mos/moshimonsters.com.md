@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515053921id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165134id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
 
 # Moshi Monsters - Privacy Policy
+
+## Privacy Policy
 
 We're thrilled that you are interested in Moshimonsters.com, where you can adopt your very own pet monster! In this document we'll explain what kinds of questions we'll ask you on our website, and what we do with the information you give us.
 
