@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoneslimited.co.uk privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619183425id_/http%3A//www.phoneslimited.co.uk/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoneslimited.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041917id_/http%3A//www.phoneslimited.co.uk/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy and Data Policy
 
