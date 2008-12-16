@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectmemorials.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625012018id_/http%3A//www.perfectmemorials.com/privacy_security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectmemorials.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216093017id_/http%3A//www.perfectmemorials.com/privacy_security.php) for the most accurate reproduction.*
 
 # Privacy & Security - Perfect Memorials
 
