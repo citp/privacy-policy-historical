@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidyamandir.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502002813id_/http%3A//www.vidyamandir.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidyamandir.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035603id_/http%3A//www.vidyamandir.com/privacypolicy.jsp) for the most accurate reproduction.*
 
-# IITJEE Preparation and Online Practice Tests for IITJEE/AIEEE: Vidyamandir
+# 
 
 At [Vidyamandir Classes Pvt.Ltd.](http://www.vidyamandir.com/) we recognize that privacy is important. [Vidyamandir Classes Pvt.Ltd.](http://www.vidyamandir.com/) does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission. You have rights under this Privacy Policy, that all business or personal information provided to [Vidyamandir Classes Pvt.Ltd.](http://www.vidyamandir.com/) is on a voluntary basis, and that information provided will be protected to the extent permitted by the [Privacy Act of 1974](http://www.usdoj.gov/04foia/privstat.htm) and the [dom of Information Act of 1966](http://www.usdoj.gov/04foia/foiastat.htm).
 
