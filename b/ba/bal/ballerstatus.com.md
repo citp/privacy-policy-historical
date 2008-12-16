@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ballerstatus.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612151236id_/http%3A//www.ballerstatus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballerstatus.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043115id_/http%3A//www.ballerstatus.com/privacy.php) for the most accurate reproduction.*
 
 # BallerStatus.com | Privacy Policy
 
@@ -33,23 +33,20 @@ If you have any concerns or questions about our privacy policy or information co
 ---  
 |  |  |  |  |   
 ---  
-|  [](https://web.archive.org/article/news/2008/06/4884/) |  News  
-[Young Jeezy Launches Social Networking Site](https://web.archive.org/article/news/2008/06/4884/ "Young Jeezy Launches Social Networking Site")  
-Young Jeezy took a leap into the online trend on Wednesday (June 11) with the launch of USDA2Day.com, a new blog & ... [full story](https://web.archive.org/article/news/2008/06/4884/ "Young Jeezy Launches Social Networking Site")  
+|  [](https://web.archive.org/article/news/2008/12/5972/) |  News  
+[Tourist Shops Making A Killing From Obama Merch](https://web.archive.org/article/news/2008/12/5972/ "Tourist Shops Making A Killing From Obama Merch")  
+It's no secret President-elect Barack Obama is more than a politician, he's one of the biggest celebrities in the country. ... [full story](https://web.archive.org/article/news/2008/12/5972/ "Tourist Shops Making A Killing From Obama Merch")  
 ---|---  
-[](https://web.archive.org/article/features/2008/06/4874/) |  Features  
-[Sean 'The Pen' Garrett: Blessed With A Gift](https://web.archive.org/article/features/2008/06/4874/ "Sean 'The Pen' Garrett: Blessed With A Gift")  
-If you found yourself in '04 belting out the lyrics to Ursher's "Yeah" in the club, holding back those "Goodies" like ... [full story](https://web.archive.org/article/features/2008/06/4874/ "Sean 'The Pen' Garrett: Blessed With A Gift")  
-[](https://web.archive.org/article/editorialscolumns/2008/06/4871/) |  Editorials & Columns  
-[Crisis Of The N**** Intellectual: How Conscious Hip-Hop Failed Us](https://web.archive.org/article/editorialscolumns/2008/06/4871/ "Crisis Of The N**** Intellectual: How Conscious Hip-Hop Failed Us")  
-Here comes MC Revolutionary X, dressed down in his military gear with a Malcolm X t-shirt, raising his black fist, vowing ... [full story](https://web.archive.org/article/editorialscolumns/2008/06/4871/ "Crisis Of The N**** Intellectual: How Conscious Hip-Hop Failed Us")  
-[](https://web.archive.org/article/beyondhiphop/2008/06/4870/) |  Beyond Hip-Hop  
-[Kevin Garnett Lands 'NBA 2K9' Cover](https://web.archive.org/article/beyondhiphop/2008/06/4870/ "Kevin Garnett Lands 'NBA 2K9' Cover")  
-2K Sports recently announced that that 11-time NBA All-Star and 2008 Defensive Player of the Year, Kevin Garnett, has ... [full story](https://web.archive.org/article/beyondhiphop/2008/06/4870/ "Kevin Garnett Lands 'NBA 2K9' Cover")  
-[](https://web.archive.org/article/reviews/2008/06/4850/) |  Reviews  
-[Devin The Dude: _Smoke Sessions Vol. 1_](https://web.archive.org/article/reviews/2008/06/4850/ "Devin The Dude: <I>Smoke Sessions Vol. 1</I>")  
-Perhaps not since Necro's Death Rap has an album been named more appropriately than Devin the Dude's new street album/mixtape, ... [full story](https://web.archive.org/article/reviews/2008/06/4850/ "Devin The Dude: <I>Smoke Sessions Vol. 1</I>")  
-[](https://web.archive.org/article/video/2008/06/4883/) |  Video  
-[Some Questions With Gritz: Dizzee Rascal](https://web.archive.org/article/video/2008/06/4883/ "Some Questions With Gritz: Dizzee Rascal")  
-In the first episode of "Some Questions with Gritz," resident blogger and writer, Gritz, sits down with UK grime sensation ... [full story](https://web.archive.org/article/video/2008/06/4883/ "Some Questions With Gritz: Dizzee Rascal")  
+[](https://web.archive.org/article/features/2008/12/5944/) |  Features  
+[J.J. Fad: Remember Us?](https://web.archive.org/article/features/2008/12/5944/ "J.J. Fad: Remember Us?")  
+J.J. Fad, an acronym for Just Jamming Fresh and Def, is comprised of MC J.B. (Juana Burns), Baby-D (Dania Birks) and ... [full story](https://web.archive.org/article/features/2008/12/5944/ "J.J. Fad: Remember Us?")  
+[](https://web.archive.org/article/editorialscolumns/2008/12/5966/) |  Editorials & Columns  
+[Soulstice From France Blog #2: Days 1-3](https://web.archive.org/article/editorialscolumns/2008/12/5966/ "Soulstice From France Blog #2: Days 1-3")  
+As Amanda pointed out, although the Baltimore airport is called Baltimore Washington International, we've never been ... [full story](https://web.archive.org/article/editorialscolumns/2008/12/5966/ "Soulstice From France Blog #2: Days 1-3")  
+[](https://web.archive.org/article/beyondhiphop/2008/12/5970/) |  Beyond Hip-Hop  
+[Shopping Guide: Holidays Edition 2008](https://web.archive.org/article/beyondhiphop/2008/12/5970/ "Shopping Guide: Holidays Edition 2008")  
+It's the 2008 holiday season, and with a week and a half of shopping left until Christmas Day, the staff over here at ... [full story](https://web.archive.org/article/beyondhiphop/2008/12/5970/ "Shopping Guide: Holidays Edition 2008")  
+[](https://web.archive.org/article/video/2008/12/5968/) |  Video  
+[Brian McKnight Talks Xmas Album On The 'Today Show'](https://web.archive.org/article/video/2008/12/5968/ "Brian McKnight Talks Xmas Album On The 'Today Show'")  
+Brian McKnight appears on the "Today Show" to talk about his latest Christmas album, I'll Be Home For Christmas, previews ... [full story](https://web.archive.org/article/video/2008/12/5968/ "Brian McKnight Talks Xmas Album On The 'Today Show'")  
  
