@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techworld.com.au privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608192129id_/http%3A//www.techworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techworld.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155310id_/http%3A//www.techworld.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Techworld
+# Techworld - Privacy Policy
 
 **Privacy Statement for IDG Communications Pty Ltd**
 
