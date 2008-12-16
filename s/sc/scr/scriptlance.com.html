@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scriptlance.com privacy policy that was archived on 2008-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080625022222id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scriptlance.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216165112id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 <title>ScriptLance.com Custom Freelance Programming. Outsource web projects to programmers and designers.</title>
@@ -83,7 +83,7 @@ var password = GetCookie('password');
 var f_password = GetCookie('f_password');
 var logindiv = getElementById('login');
 if (username && password)
-    logindiv.innerHTML = "<table><tr><td>Welcome, <b>" + username + "</b><br><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/buyers.cgi?manage=1' class=ml>Manage Account</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/buyers.cgi?new=project' class=ml>Post Project</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/jobs.cgi' class=ml>Post Job Listing</a></li><li><a href='https://www.scriptlance.com/top/programmers' class=ml>View Top Programmers</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/buyers.cgi?logout=1' class=ml>Logout</a></li></td></tr></table>";
+    logindiv.innerHTML = "<table><tr><td>Welcome, <b>" + username + "</b><br><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/buyers.cgi?manage=1' class=ml>Manage Account</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/buyers.cgi?viewprojects=all' class=ml>View My Projects</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/buyers.cgi?new=project' class=ml>Post Project</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/jobs.cgi' class=ml>Post Job Listing</a></li><li><a href='https://www.scriptlance.com/top/programmers' class=ml>View Top Programmers</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/buyers.cgi?logout=1' class=ml>Logout</a></li></td></tr></table>";
 if (f_username && f_password)
 {
     logindiv.innerHTML += "<table><tr><td>Welcome, <b>" + f_username + "</b><br><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/freelancers.cgi?manage=1' class=ml>Manage Account</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/freelancers.cgi?viewprojects=all' class=ml>View My Bids</a></li><li><a href='https://www.scriptlance.com/programmers/projects.shtml' class=ml>View Projects</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/search.cgi' class=ml>Find  Projects</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/freelancers.cgi?logout=1' class=ml>Logout</a></li></td></tr></table>";
@@ -100,6 +100,9 @@ else
 	uname = f_username;
     else
 	uname = '';
+    if (typeof(nologin) != "undefined" && nologin)
+            logindiv.innerHTML = "<table width=100% cellpadding=3><tr><td colspan=2 height=25></td></tr><tr><td align=right><font size=2>Please use the login form on your right.</font></td> <td><img src=/images/arrow_blue_right.png width=13 height=15 border=0></td><td width=10></td></tr><tr><td colspan=2 height=25></td></tr></table>";
+    else
     logindiv.innerHTML =  
 	"    <form method=POST action=https://www.scriptlance.com/cgi-bin/freelancers/auto_login.cgi name=login>" +
 	"<table cellspacing=0 cellpadding=0>" +
@@ -185,26 +188,26 @@ FillName();
                <tbody><tr><td><img src="/images/m23.gif" width="31" height="20"></td><td background="/images/m15.gif" width="154" height="20" class="me">&nbsp;&nbsp;&nbsp;THE 20 LATEST PROJECTS</td></tr>
               </tbody></table>
 <table cellspacing="1" cellpadding="2" width="100%">
-<tbody><tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1214360123.shtml">Template Design Changes</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1214360061.shtml">Bloggers Wanted Posters Blog</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1214359887.shtml">Site Stability Issues</a> <img src="/images/urgent2.gif" width="14" height="14" border="0" title="Urgent Project"></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1214359465.shtml">Background Images</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1214359137.shtml">Ten 400-600 Word Articles</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1214359061.shtml">Design Installation</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1214358856.shtml">Flash Poker Game</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1214358568.shtml">Email Lists Checker/sorter</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1214358557.shtml">Unfiltered Link And Decoder</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1214358535.shtml">Youtube Type Player</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1214358318.shtml">Script Integration</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1214355787.shtml">Adult Dating Site</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1214354721.shtml">Private Job For Jaybee9992003</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1214354407.shtml">Rearrange Thumbnails. X-cart.</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1214353920.shtml">Seo For Candle Website</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1214353624.shtml">Post Articles To My Blogs</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1214353422.shtml">Actionscript 3 Job</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1214352770.shtml">View Energy</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1214351482.shtml">Poker Bot (i Provide Strategy)</a> <img src="/images/urgent2.gif" width="14" height="14" border="0" title="Urgent Project"></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1214351283.shtml">Ajax Google Directions App</a> <img src="/images/urgent2.gif" width="14" height="14" border="0" title="Urgent Project"></td></tr>
+<tbody><tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1229445113.shtml">Clone Of Website</a> <img src="/images/urgent2.gif" width="14" height="14" border="0" title="Urgent Project"></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1229444102.shtml">Asp.net Login</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1229443457.shtml">Dental Splash Page Sets</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1229443022.shtml">Mydogneedshelp</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1229443015.shtml">Dreamhost Jabber Account Add</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1229441986.shtml">Clone Domain Ordering</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1229441685.shtml">Dental Website Renovation</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1229441438.shtml">Ebook Website Design</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1229441041.shtml">Oscommerce Font Generator</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1229440895.shtml">Clone Of Wiziq</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1229440877.shtml">Netsuite Scripting And Custom</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1229440828.shtml">Multiple Priority Projects</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1229440664.shtml">Dummy Mmorpg  Auctions</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1229440631.shtml">Css Styling For Ez Publish</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1229440113.shtml">Web Site/php/mysql/amemberpro</a> <img src="/images/urgent2.gif" width="14" height="14" border="0" title="Urgent Project"></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1229440066.shtml">Inbound Links - 20</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1229439594.shtml">I Need Script For Trade Site</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1229439456.shtml">Social Script Point Module</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1229439031.shtml">Easy And Simple Design.</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1229438645.shtml">Write 5 Quality Articles</a></td></tr>
 </tbody></table>
 
               <table cellspacing="0" cellpadding="0" width="100%">
