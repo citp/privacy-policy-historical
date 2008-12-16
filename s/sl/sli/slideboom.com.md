@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideboom.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607073245id_/http%3A//www.slideboom.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideboom.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032425id_/http%3A//www.slideboom.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - SlideBoom
 
@@ -51,10 +51,3 @@ It is possible that we may need to disclose personal information when required b
 Please note that this privacy policy may change from time to time. We will not reduce your rights under this policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including an email notification of policy changes for certain services).
 
 If you have any questions about this policy, please feel free to contact us or to write to us at:
-
-[support@ispringsolutions.com](mailto:support@ispringsolutions.com)
-
-**iSpring Solutions, Inc.**  
-901 N. Pitt St.  
-Suite 325  
-Alexandria, VA 22314 
