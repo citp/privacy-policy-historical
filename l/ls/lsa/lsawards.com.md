@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsawards.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629160928id_/http%3A//www.lsawards.com/info.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsawards.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170027id_/http%3A//www.lsawards.com/info.php%23privacy) for the most accurate reproduction.*
 
 # Live Sex Awards - Online Customer Help System
 
