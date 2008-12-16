@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the sex2ube.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612013453id_/http%3A//www.sex2ube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sex2ube.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155519id_/http%3A//www.sex2ube.com/privacy) for the most accurate reproduction.*
 
 # Free Porn Videos - Movies. Watch Upload Share Videos - Sex2ube Privacy Policy
 
-#### **sex2ube.com.** ("sex2ube") recognizes that its customers, visitors, users, and others who use [www.sex2ube.com](http://www.sex2ube.com/) or other web sites owned or operated by sex2ube (the "sex2ube Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the sex2ube Sites. sex2ube provides this Privacy Notice to help you make an informed decision about whether to use or continue using the sex2ube Sites.
+**sex2ube.com.** ("sex2ube") recognizes that its customers, visitors, users, and others who use [www.sex2ube.com](http://www.sex2ube.com/) or other web sites owned or operated by sex2ube (the "sex2ube Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the sex2ube Sites. sex2ube provides this Privacy Notice to help you make an informed decision about whether to use or continue using the sex2ube Sites.
 
-#### This Privacy Notice is incorporated into and is subject to the [sex2ube Terms of Use](https://web.archive.org/terms/). Your use of the sex2ube Sites and any personal information you provide on the sex2ube Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/terms/).
+This Privacy Notice is incorporated into and is subject to the [sex2ube Terms of Use](https://web.archive.org/terms/). Your use of the sex2ube Sites and any personal information you provide on the sex2ube Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/terms/).
 
-#### Please note that any video, image, or other content posted at the direction of Users onto the sex2ube Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
+Please note that any video, image, or other content posted at the direction of Users onto the sex2ube Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
-#### **The Information sex2ube Collects:**
+**The Information sex2ube Collects:**
 
   * **User Provided Information:** You provide certain personally identifiable information (such as your name, email and in some cases mailing address) to sex2ube when choosing to participate in various activities on the sex2ube Sites such as uploading videos, posting messages in our forums or in the photo/video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
   *  **Cookies Information:** When you visit the sex2ube Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. sex2ube uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the sex2ube Sites may not function properly if the ability to accept cookies is disabled.
@@ -38,48 +38,42 @@
 
 #### **Your Choices:**
 
-#### You may, of course, decline to submit personally identifiable information through the sex2ube Sites, in which case sex2ube may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your [account profile page](https://web.archive.org/my_profile.php). Please note that media files uploaded by Users to the sex2ube Sites remain subject to our [Terms of Use](https://web.archive.org/terms/).
+You may, of course, decline to submit personally identifiable information through the sex2ube Sites, in which case sex2ube may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your [account profile page](https://web.archive.org/my_profile.php). Please note that media files uploaded by Users to the sex2ube Sites remain subject to our [Terms of Use](https://web.archive.org/terms/).  
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.  
+Please contact sex2ube with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this [contact form](https://web.archive.org/contactus/).
 
-#### To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+**Third-party Advertisers, Links to Other Sites:**
 
-#### Please contact sex2ube with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this [contact form](https://web.archive.org/contactus/).
+sex2ube allows other companies, called Webmasters, third-party ad servers or ad networks, to serve advertisements within the sex2ube Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the sex2ube Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
 
-#### **Third-party Advertisers, Links to Other Sites:**
+sex2ube does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks sex2ube to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
 
-#### sex2ube allows other companies, called Webmasters, third-party ad servers or ad networks, to serve advertisements within the sex2ube Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the sex2ube Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+You should consult the respective privacy policies of these third-party ad servers or ad networks. sex2ube's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-#### sex2ube does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks sex2ube to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+**Our Commitment To Data Security:**
 
-#### You should consult the respective privacy policies of these third-party ad servers or ad networks. sex2ube's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+sex2ube uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to sex2ube and you do so at your own risk. Once we receive your transmission of information, sex2ube makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-#### **Our Commitment To Data Security:**
+If sex2ube learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. sex2ube may post a notice on the sex2ube Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this [contact form](https://web.archive.org/contactus/).
 
-#### sex2ube uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to sex2ube and you do so at your own risk. Once we receive your transmission of information, sex2ube makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+**Our Commitment To Children's Privacy:**
 
-#### If sex2ube learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. sex2ube may post a notice on the sex2ube Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this [contact form](https://web.archive.org/contactus/).
+Protecting the privacy of young children is extremely important. For that reason, sex2ube does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the sex2ube Sites from persons under 18 years of age, and no part of our website is directed to persons under 18. If you are under 18 years of age, then please do not use or access the sex2ube Sites at any time or in any manner. If sex2ube learns that personally identifiable information of persons under 18 years of age has been collected on the sex2ube Sites without verified parental consent, then sex2ube will take the appropriate steps to delete this information and possibly terminate the account(s) associated with the information.
 
-#### **Our Commitment To Children's Privacy:**
+**Special Note to International Users:**
 
-#### Protecting the privacy of young children is extremely important. For that reason, sex2ube does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the sex2ube Sites from persons under 18 years of age, and no part of our website is directed to persons under 18. If you are under 18 years of age, then please do not use or access the sex2ube Sites at any time or in any manner. If sex2ube learns that personally identifiable information of persons under 18 years of age has been collected on the sex2ube Sites without verified parental consent, then sex2ube will take the appropriate steps to delete this information and possibly terminate the account(s) associated with the information.
+The sex2ube Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the sex2ube Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the sex2ube Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/terms/), you are transferring your personal information to the United States and you consent to that transfer.
 
-#### **Special Note to International Users:**
+**In the Event of Merger, Sale, or Bankruptcy:**
 
-#### The sex2ube Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the sex2ube Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the sex2ube Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/terms/), you are transferring your personal information to the United States and you consent to that transfer.
+In the event that sex2ube is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
 
-#### **In the Event of Merger, Sale, or Bankruptcy:**
+**Changes and updates to this Privacy Notice:**
 
-#### In the event that sex2ube is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the sex2ube Sites constitutes your agreement to this Privacy Notice and any future revisions.
 
-#### **Changes and updates to this Privacy Notice:**
+For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
 
-#### This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the sex2ube Sites constitutes your agreement to this Privacy Notice and any future revisions.
-
-#### For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
-
-#### **Date Last Modified:**
-
-#### This Privacy Notice was last modified 2/28/06.
-
-#### **Contact Information:**
+####  **Contact Information:**
 
 #### Please contact sex2ube with any questions or comments about this Privacy Notice using this [contact form](https://web.archive.org/contactus/).
