@@ -1,19 +1,41 @@
-> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005054544id_/http%3A//academicinfo.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216070831id_/http%3A//www.academicinfo.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Academic Info: Privacy Statement
+# Academic Info Privacy Statement
 
-[](http://click.linksynergy.com/fs-bin/click?id=XthyH3U2rHQ&offerid=47491.10000024&type=4&subid=0) [Home](http://www.academicinfo.net/)| [Search](https://web.archive.org/web/20061005054544id_/http%3A//academicinfo.net/search.html) | [Index](https://web.archive.org/web/20061005054544id_/http%3A//academicinfo.net/table.html) | [ Contact](mailto:madin@academicinfo.net) | [Test Prep](https://web.archive.org/web/20061005054544id_/http%3A//academicinfo.net/studentprep.html) | [Degree Programs](https://web.archive.org/web/20061005054544id_/http%3A//academicinfo.net/studentcolleges.html) | [Student Center](https://web.archive.org/web/20061005054544id_/http%3A//academicinfo.net/student.html) | [ Bookstore](http://www.academicinfo.biz/) | 
+AcademicInfo is firmly committed to ensuring your anonymity and protecting your privacy. We however reserve the right to amend this Privacy Statement at any time.
 
-## Academic Info  
-Privacy Statement 
+Over the course of your visit to our site, we periodically collect information which is used to enhance our site to ensure all your navigational needs are met. The information we collect can be derived through 2 main ways:
 
-Academic Info respects the privacy of all visitors to our educational directory. We do not lend, sell, or otherwise provide to third parties any personal information obtained from viewers of our site, including but not limited to, names, email or IP addresses, or demographic information of any kind. 
+  * Information you provide to us
+  * Information we collect automatically
 
-Academic Info does not collect personal information on our respected visitors. We do obtain anonymous statistical information but this information is not shared in any way.  To sign up for our monthly announcement list does require providing us with a valid email address but we do not sell, rent, or otherwise provide to a third party any email addresses collected. We do not use the email address collected for any purpose other than send out the viewer requested monthly email What's New announcement list.
 
-[Home](http://www.academicinfo.net/)| [Search](https://web.archive.org/web/20061005054544id_/http%3A//academicinfo.net/search.html) | [Index](https://web.archive.org/web/20061005054544id_/http%3A//academicinfo.net/table.html) | [ Contact](mailto:madin@academicinfo.net) | [Test Prep](https://web.archive.org/web/20061005054544id_/http%3A//academicinfo.net/studentprep.html) | [Degree Programs](https://web.archive.org/web/20061005054544id_/http%3A//academicinfo.net/studentcolleges.html) | [Student Center](https://web.archive.org/web/20061005054544id_/http%3A//academicinfo.net/student.html) | [ Bookstore](http://www.academicinfo.biz/) | 
 
-Last modified April 2006  
-The Privacy Statement added April 2000. Copyright © 1998-2006 Academic Info.  All rights reserved.
+**Information you provide to us**
 
-  URL: http://www.academicinfo.net/privacy.html
+An area of the site where you might be required to divulge personal information is when requesting information from one of our many online institutions. In such instances, you might be required to provide your name, contact details, email address and other relevant details. Presently, AcademicInfo does not require any registration to access the information on the site, although this is subject to change at some point in the future. 
+
+**Information we collect automatically**  
+Cookies naturally stored on a user's computer are collected by us as it enables us to see and decipher a user's search patterns and preferences. 
+
+We also collect information on your IP (Internet Protocol) address, your internet domain, your computer's operating systems and your navigation path.
+
+This information lets us see how users are finding our sites, and it tells us which pages are visited the most often so we can make our Websites more useful. 
+
+**Our Security Measures**  
+Our Websites have security measures in place to protect against the loss, misuse, and alteration of the information under our control. 
+
+**Links From Our Site To Other Sites**   
+Some of our sites may contain links to other sites external to our sites. When you access these external Websites, the providers of the sites will have access to certain information about you. AcademicInfo is not responsible for the privacy practices or the content of any Websites which we do not directly control. 
+
+**Contacting Us**
+
+If you have any questions about this privacy statement, the practices of our site, or a query as a result of your visit to our site, you can contact us via the address below.
+
+**AcademicInfo**
+
+4721 E. Moody Blvd. 
+
+Unit # 101 Bunnell, 
+
+FL 32110 
