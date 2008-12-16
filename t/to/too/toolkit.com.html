@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the toolkit.com privacy policy that was archived on 2008-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080622190039id_/http%3A//www.toolkit.com/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toolkit.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216162317id_/http%3A//www.toolkit.com/privacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -24,7 +24,7 @@
 
 <div id="header">
 	<div class="logo_bot">			
-		<a href="/index.aspx"><img src="/images/logo_bot.gif" width="186" height="70" border="0"></a>
+		<a href="/"><img src="/images/logo_bot.gif" width="186" height="70" border="0"></a>
 	</div>	
 	<div id="sign_search">
 	<div class="search">
@@ -32,8 +32,7 @@
 		<input value="keyword search" id="q" name="q" maxlength="256" style="width:135px;" type="text" onclick="javascript:this.value='';">	
 		<input name="btnG" id="btnG" type="submit" value="search">
 	</form>
-</div>
-	
+</div>	
 		<div class="sign_in_up">
 			<p><img src="/images/sign_in_icon.gif"> <a href="/register.aspx" id="header_aSignIn" style="color:red">Sign Up</a></p>
 		</div>				
@@ -44,8 +43,8 @@
 </div><!-- end id="header" -->
 
 <div id="main_nav">
-	<ul>
-		<li id="header_home" class="home"><a href="/index.aspx">Home</a></li>
+	<ul style="margin-bottom: 3px;">
+		<li id="header_home" class="home"><a href="/">Home</a></li>
 		<li id="header_business_guide" class="business_guide"><a href="/small_business_guide/index.aspx">Small Business Guide</a></li>
 		<li id="header_business_tools" class="business_tools"><a href="/tools/index.aspx">Business Tools</a></li>
 		<li id="header_radio_show" class="radio_show"><a href="/radioshow.aspx">Radio Show</a></li>	
@@ -67,7 +66,7 @@
 			<div class="content_3">
 			
 			<div class="small_bus_title">
-					<h2>Privacy Policy</h2>
+					<h1>Privacy Policy</h1>
 				
 					<div class="header_ad"> <a href=""></a></div>	
 			  </div>	
@@ -131,158 +130,221 @@
 			<div class="content">
 				<div style="margin-top:3px">
                         <div>
-<div class="serach_google">	
-		<form id="frmBCSearchMain" name="frmBCSearchMain" action="/mytoolkit/searchResults.aspx" method="post" style="margin-bottom:5px">
-			<input name="searchMain2:hdKeyword" id="searchMain2_hdKeyword" type="hidden">
-			<input name="searchMain2:hdState" id="searchMain2_hdState" type="hidden">
-			<input name="searchMain2:hdIndustry" id="searchMain2_hdIndustry" type="hidden">
-	
-			<div id="searchMain2_dvTopBar" style="width:468px">
-				<div id="searchMain2_dvSectionTitle"><div class="indexSection" style="margin-bottom:0px;width:100%;padding-left:0px">&nbsp;BUSINESS CARD EXCHANGE</div></div>
-				<div>
-				<div style="PADDING-RIGHT:12px; PADDING-LEFT:12px; BACKGROUND:#ededed;PADDING-BOTTOM:5px; PADDING-TOP:5px;">
-					<div id="searchMain2_dvInstructions" style="font-size:11px;">Promote your business and network with other business owners. <a href="/mytoolkit/myBusinessCards.aspx" style="font-size:11px;color:#417597">[Learn More]</a></div>
-					
-					<table cellspacing="0" cellpadding="0" style="WIDTH:100px;font-size:10px;width:100%;margin-top:7px;">
-						<colgroup>
-							<col width="160px">
-							<col width="152px">
-							<col width="*">
-						</colgroup>
-						<tbody><tr>
-							<td style="font-weight:bold;">Keyword:</td>
-							<td style="font-weight:bold;">Industry:</td>
-							<td style="font-weight:bold;">State:</td>
+<script type="text/javascript" src="/rn_directory/_js/open_close.js"></script>
+<script language="JavaScript"> 
+
+	function openDir( form ) { 
+		var newIndex = jumpform.jumpgate.selectedIndex; 
+		if ( newIndex == 0 ) { 
+			alert( "Please select a category." ); 
+		}	
+		else { 
+			cururl = jumpform.jumpgate.options[ newIndex ].value; 
+			window.location.assign( cururl ); 
+		} 
+	} 
+</script>
+<div id="searchMain2_dvTopBar" style="WIDTH: 468px">
+	<div id="searchMain2_dvSectionTitle" class="card_quote_tab_header">
+		<a href="javascript:;" id="card_exchange_tab" class="card_exchange_tab" onclick="show_it('business_card','card_exchange_tab','card_exchange_tab_selected');hide_it('quote_center','quote_center_tab','quote_center_tab');">
+			Business Card Exchange</a>
+		<a href="javascript:;" id="quote_center_tab" class="quote_center_tab_selected" onclick="show_it('quote_center','quote_center_tab','quote_center_tab_selected');hide_it('business_card','card_exchange_tab','card_exchange_tab');">
+			Quote Center</a>
+		<br clear="all">
+	</div>
+	<div id="business_card" style="DISPLAY:none">
+		<div style="PADDING-RIGHT: 12px; PADDING-LEFT: 12px; BACKGROUND: rgb(237,237,237) 0% 50%; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; HEIGHT: 88px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+			<div id="searchMain2_dvInstructions" style="FONT-SIZE: 11px">
+				<form id="form1" name="form1" method="post" action="/mytoolkit/searchResults.aspx">
+					<div id="searchMain2_dvInstructions2" style="FONT-SIZE: 11px">
+						<p>Promote your business and network with other business owners. <a href="/mytoolkit/myBusinessCards.aspx" style="FONT-SIZE: 11px; COLOR: rgb(65,117,151)">
+								[Learn More]</a></p>
+					</div>
+					<table style="MARGIN-TOP: 7px; FONT-SIZE: 10px; MARGIN-BOTTOM: 5px; WIDTH: 100%" cellpadding="0" cellspacing="0">
+						<tbody><tr valign="top">
+							<td style="FONT-WEIGHT: bold" valign="top" align="left">Keyword:</td>
+							<td style="FONT-WEIGHT: bold" valign="top" align="left">Industry:</td>
+							<td style="FONT-WEIGHT: bold" valign="top" align="left">State:</td>
+							<td style="FONT-WEIGHT: bold" valign="top" align="right">&nbsp;</td>
+						</tr>
+						<tr valign="top">
+							<td valign="top" align="left">
+								<input name="txtKeyword" id="txtKeyword" style="FONT-SIZE: 10px; WIDTH: 150px" type="text">
+							</td>
+							<td valign="top" align="left">
+								<p align="center" style="FONT-SIZE: 10px">
+									<select name="selIndustry" id="selIndustry" style="FONT-SIZE: 10px; WIDTH: 150px">
+										<option value="" selected=""></option>
+										<option value="Accounting/Finance">Accounting/Finance</option>
+										<option value="Advertising/Public Relations">Advertising/Public Relations</option>
+										<option value="Arts/Entertainment/Publishing">Arts/Entertainment/Publishing</option>
+										<option value="Banking/Mortgage">Banking/Mortgage</option>
+										<option value="Clerical/Administrative">Clerical/Administrative</option>
+										<option value="Construction/Facilities">Construction/Facilities</option>
+										<option value="Customer Service">Customer Service</option>
+										<option value="Education/Training">Education/Training</option>
+										<option value="Engineering/Architecture">Engineering/Architecture</option>
+										<option value="Healthcare">Healthcare</option>
+										<option value="Hospitality/Travel">Hospitality/Travel</option>
+										<option value="Human Resources">Human Resources</option>
+										<option value="Insurance">Insurance</option>
+										<option value="Internet/New Media">Internet/New Media</option>
+										<option value="Law Enforcement/Security">Law Enforcement/Security</option>
+										<option value="Legal">Legal</option>
+										<option value="Management Consulting">Management Consulting</option>
+										<option value="Manufacturing/Operations">Manufacturing/Operations</option>
+										<option value="Marketing">Marketing</option>
+										<option value="Non-Profit">Non-Profit</option>
+										<option value="Pharmaceutical/Biotech">Pharmaceutical/Biotech</option>
+										<option value="Real Estate">Real Estate</option>
+										<option value="Restaurant/Food Service">Restaurant/Food Service</option>
+										<option value="Retail">Retail</option>
+										<option value="Sales">Sales</option>
+										<option value="Technology">Technology</option>
+										<option value="Telecommunications">Telecommunications</option>
+										<option value="Transportation/Logistics">Transportation/Logistics</option>
+										<option value="Other">Other (Specify)</option>
+									</select>
+								</p>
+							</td>
+							<td valign="top" align="left">
+								<p align="center" style="FONT-SIZE: 10px">
+									<select name="selState" id="selState" style="FONT-SIZE: 10px">
+										<option value="" selected=""></option>
+										<option value="Alabama">AL</option>
+										<option value="Alaska">AK</option>
+										<option value="Arizona">AZ</option>
+										<option value="Arkansas">AR</option>
+										<option value="California">CA</option>
+										<option value="Colorado">CO</option>
+										<option value="Connecticut">CT</option>
+										<option value="D.C.">D.C.</option>
+										<option value="Delaware">DE</option>
+										<option value="Florida">FL</option>
+										<option value="Georgia">GA</option>
+										<option value="Hawaii">HI</option>
+										<option value="Idaho">ID</option>
+										<option value="Illinois">IL</option>
+										<option value="Indiana">IN</option>
+										<option value="Iowa">IA</option>
+										<option value="Kansas">KS</option>
+										<option value="Kentucky">KY</option>
+										<option value="Louisiana">LA</option>
+										<option value="Maine">ME</option>
+										<option value="Maryland">MD</option>
+										<option value="Massachusetts">MA</option>
+										<option value="Michigan">MI</option>
+										<option value="Minnesota">MN</option>
+										<option value="Mississippi">MS</option>
+										<option value="Missouri">MO</option>
+										<option value="Montana">MT</option>
+										<option value="Nebraska">NE</option>
+										<option value="Nevada">NV</option>
+										<option value="New Hampshire">NH</option>
+										<option value="New Jersey">NJ</option>
+										<option value="New Mexico">NM</option>
+										<option value="New York">NY</option>
+										<option value="North Carolina">NC</option>
+										<option value="North Dakota">ND</option>
+										<option value="Ohio">OH</option>
+										<option value="Oklahoma">OK</option>
+										<option value="Oregon">OR</option>
+										<option value="Pennsylvania">PA</option>
+										<option value="Rhode Island">RI</option>
+										<option value="South Carolina">SC</option>
+										<option value="South Dakota">SD</option>
+										<option value="Tennessee">TN</option>
+										<option value="Texas">TX</option>
+										<option value="Utah">UT</option>
+										<option value="Vermont">VT</option>
+										<option value="Virginia">VA</option>
+										<option value="Washington">WA</option>
+										<option value="West Virginia">WV</option>
+										<option value="Wisconsin">WI</option>
+										<option value="Wyoming">WY</option>
+									</select>
+								</p>
+							</td>
+							<td valign="top" align="right">
+								<input name="search2" value="search" type="submit">
+							</td>
 						</tr>
 					</tbody></table>
-					<p style="font-size:10px"><input name="txtKeyword" id="txtKeyword" type="text" style="WIDTH:150px;font-size:10px">
-						<select name="selIndustry" id="selIndustry" style="WIDTH:150px;font-size:10px">
-							<option value="" selected=""></option>
-							<option value="Accounting/Finance">Accounting/Finance</option>
-							<option value="Advertising/Public Relations">Advertising/Public Relations</option>
-							<option value="Arts/Entertainment/Publishing">Arts/Entertainment/Publishing</option>
-							<option value="Banking/Mortgage">Banking/Mortgage</option>
-							<option value="Clerical/Administrative">Clerical/Administrative</option>
-							<option value="Construction/Facilities">Construction/Facilities</option>
-							<option value="Customer Service">Customer Service</option>
-							<option value="Education/Training">Education/Training</option>
-							<option value="Engineering/Architecture">Engineering/Architecture</option>
-							<option value="Healthcare">Healthcare</option>
-							<option value="Hospitality/Travel">Hospitality/Travel</option>
-							<option value="Human Resources">Human Resources</option>
-							<option value="Insurance">Insurance</option>
-							<option value="Internet/New Media">Internet/New Media</option>
-							<option value="Law Enforcement/Security">Law Enforcement/Security</option>
-							<option value="Legal">Legal</option>
-							<option value="Management Consulting">Management Consulting</option>
-							<option value="Manufacturing/Operations">Manufacturing/Operations</option>
-							<option value="Marketing">Marketing</option>
-							<option value="Non-Profit">Non-Profit</option>
-							<option value="Pharmaceutical/Biotech">Pharmaceutical/Biotech</option>
-							<option value="Real Estate">Real Estate</option>
-							<option value="Restaurant/Food Service">Restaurant/Food Service</option>
-							<option value="Retail">Retail</option>
-							<option value="Sales">Sales</option>
-							<option value="Technology">Technology</option>
-							<option value="Telecommunications">Telecommunications</option>
-							<option value="Transportation/Logistics">Transportation/Logistics</option>
-							<option value="Other">Other (Specify)</option>
-						</select>
-						<select name="selState" id="selState" style="WIDTH:55px;font-size:10px">
-							<option value="" selected=""></option>
-							<option value="Alabama">AL</option>
-							<option value="Alaska">AK</option>
-							<option value="Arizona">AZ</option>
-							<option value="Arkansas">AR</option>
-							<option value="California">CA</option>
-							<option value="Colorado">CO</option>
-							<option value="Connecticut">CT</option>
-							<option value="D.C.">D.C.</option>
-							<option value="Delaware">DE</option>
-							<option value="Florida">FL</option>
-							<option value="Georgia">GA</option>
-							<option value="Hawaii">HI</option>
-							<option value="Idaho">ID</option>
-							<option value="Illinois">IL</option>
-							<option value="Indiana">IN</option>
-							<option value="Iowa">IA</option>
-							<option value="Kansas">KS</option>
-							<option value="Kentucky">KY</option>
-							<option value="Louisiana">LA</option>
-							<option value="Maine">ME</option>
-							<option value="Maryland">MD</option>
-							<option value="Massachusetts">MA</option>
-							<option value="Michigan">MI</option>
-							<option value="Minnesota">MN</option>
-							<option value="Mississippi">MS</option>
-							<option value="Missouri">MO</option>
-							<option value="Montana">MT</option>
-							<option value="Nebraska">NE</option>
-							<option value="Nevada">NV</option>
-							<option value="New Hampshire">NH</option>
-							<option value="New Jersey">NJ</option>
-							<option value="New Mexico">NM</option>
-							<option value="New York">NY</option>
-							<option value="North Carolina">NC</option>
-							<option value="North Dakota">ND</option>
-							<option value="Ohio">OH</option>
-							<option value="Oklahoma">OK</option>
-							<option value="Oregon">OR</option>
-							<option value="Pennsylvania">PA</option>
-							<option value="Rhode Island">RI</option>
-							<option value="South Carolina">SC</option>
-							<option value="South Dakota">SD</option>
-							<option value="Tennessee">TN</option>
-							<option value="Texas">TX</option>
-							<option value="Utah">UT</option>
-							<option value="Vermont">VT</option>
-							<option value="Virginia">VA</option>
-							<option value="Washington">WA</option>
-							<option value="West Virginia">WV</option>
-							<option value="Wisconsin">WI</option>
-							<option value="Wyoming">WY</option> 
-						</select>
-						<input name="search" type="submit" value="search">
-						</p>
-				</div>
-				</div>
-			</div>		
-		</form>
+				</form>
+			</div>
+		</div>
 	</div>
-<script language="JAVASCRIPT">
-		setControls();
-	
-		function setControls() {
-			var searchMain_hdKeyword;
-			var searchMain_hdState;
-			var searchMain_hdIndustry;
-			var txtKeyword;
-			var selIndustry;
-			var selState;
-			
-			searchMain_hdKeyword = document.getElementById('searchMain2_hdKeyword');
-			searchMain_hdState = document.getElementById('searchMain2_hdState');
-			searchMain_hdIndustry = document.getElementById('searchMain2_hdIndustry');
-			txtKeyword = document.getElementById('txtKeyword');
-			selIndustry = document.getElementById('selIndustry');
-			selState = document.getElementById('selState');
-						
-			if (searchMain_hdState.value != '') {
-				selState.value = searchMain_hdState.value;
-			}
-			
-			if (searchMain_hdKeyword.value != '') {
-				txtKeyword.value = searchMain_hdKeyword.value;
-			}
-			
-			if (searchMain_hdIndustry.value != '') {
-				selIndustry.value = searchMain_hdIndustry.value;
-			}
-			
-		}
-		
-		
-	</script>
+	<div align="center">
+		<!-- //////////////////////////////////// -->
+	</div>
+	<div id="quote_center" style="DISPLAY:block">
+		<div style="PADDING-RIGHT: 12px; PADDING-LEFT: 12px; BACKGROUND: rgb(237,237,237) 0% 50%; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; HEIGHT: 78px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+			<div align="center">
+				<table style="MARGIN-TOP: 7px; FONT-SIZE: 10px; WIDTH: 100%" cellpadding="0" cellspacing="0">
+					<colgroup>
+						<col width="160">
+						<col width="152">
+						<col width="1">
+					</colgroup>
+					<tbody>
+						<tr>
+							<td width="43%" rowspan="2"><h3 style="COLOR: rgb(65,117,151)">Vendor Price Quotes.</h3>
+								<p style="FONT-SIZE: 11px">
+									Get Free quotes from leading vendors. No obligations. <span style="FONT-SIZE: 10px; COLOR: rgb(65,117,151)">
+										[<a href="/rn_directory/index.aspx" style="FONT-SIZE: 10px; COLOR: rgb(65,117,151)">Learn 
+											more</a>]</span></p>
+							</td>
+							<td width="57%" style="FONT-WEIGHT: bold">Categories:</td>
+						</tr>
+						<tr>
+							<td>
+								<p style="FONT-SIZE: 10px">
+									</p><form name="jumpform" action="/rn_directory/index.aspx">
+<select name="category">
+<option value="http://www.resourcenation.com/business/bookkeeping-and-accounting?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">Accounting / Bookkeeping</option>
+<option value="http://www.resourcenation.com/business/appointment-setters?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">Appointment Setters</option>
+<option value="http://www.resourcenation.com/business/business-cash-advance?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">Business Cash Advance</option>
+<option value="/rn_directory/sos_incorporation.aspx">Business Plans</option>
+<option value="http://www.resourcenation.com/business/business-insurance?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">Business Insurance</option>
+<option value="/rn_directory/sos_incorporation.aspx">Business Licenses</option>
+<option value="/rn_directory/sos_incorporation.aspx">Corporate Kits</option>
+<option value="/rn_directory/sos_credit.aspx">Credit Card</option>
+<option value="http://www.resourcenation.com/business/credit-card-processing?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">Credit Card Processing</option>
+<option value="/rn_directory/sos_incorporation.aspx">DBA Filings</option>
+<option value="/rn_directory/sos_domains.aspx">Domain Registration</option>
+<option value="/rn_directory/sos_email.aspx">E-mail Marketing</option>
+<option value="http://www.resourcenation.com/business/factoring?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">Factoring</option>
+<option value="http://www.resourcenation.com/business/fulfillment-services?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">Fulfillment Services</option>
+<option value="/rn_directory/sos_printing.aspx">Graphic Design</option>
+<option value="/rn_directory/sos_incorporation.aspx">Incorporation</option>
+<option value="http://www.resourcenation.com/business/lead-generation?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">Lead Generation</option>
+<option value="http://www.resourcenation.com/business/online-marketing?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">Online Marketing</option>
+<option value="/rn_directory/sos_meetings.aspx">Online Meetings</option>
+<option value="http://www.resourcenation.com/business/payroll-services?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">Payroll</option>
+<option value="http://www.resourcenation.com/business/phone-systems?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">Phone Systems</option>
+<option value="http://www.resourcenation.com/business/pos-systems?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">POS Systems</option>
+<option value="/rn_directory/sos_printing.aspx">Printing</option>
+<option value="/rn_directory/sos_pr.aspx">Public Relations</option>
+<option value="/rn_directory/sos_incorporation.aspx">Registered Agent</option>
+<option value="http://www.resourcenation.com/business/search-optimization-seo?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">SEO Services</option>
+<option value="http://www.resourcenation.com/business/small-business-loans?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">Small Business Loan</option>
+<option value="http://www.resourcenation.com/business/voip?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">VOIP</option>
+<option value="http://www.resourcenation.com/business/web-design?iframe=1&amp;src=toolkit&amp;css=http://www.toolkit.com/css/main.css">Web Design</option>
+<option value="/rn_directory/sos_hosting.aspx">Web Hosting</option>
+</select>
+									
+									
+										<input name="search" value="Get Quotes" type="submit">
+									</form>
+								<p></p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+</div>
 </div>
        
               </div><br>
@@ -354,26 +416,42 @@
 		</div><!-- end id="content_wrap" -->
 		
 		
-<div align="center"></div>
+<div align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../images/toolkit_sponsors_footer.gif" alt="Sponsors" width="700" height="72" border="0" usemap="#MapMapMap">
+  <map name="MapMapMap" id="MapMapMap">
+    <area shape="rect" coords="610,43,699,66" href="http://www.vistaprint.com/vp/gateway.aspx?S=2556187123" alt="Visit VistaPrint">
+    <area shape="rect" coords="0,30,87,68" href="https://www.advanta.com/ADV/Apply/Apply.page?orgcode=BIZ0001" alt="Visit Advanta">
+    <area shape="rect" coords="101,32,203,67" href="http://www.bizfilings.com/jpals.asp?TGID=377&amp;d=423423&amp;PCD=CP1612" alt="Visit BizFilings">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <area shape="rect" coords="293,31,371,69" href="http://ad.doubleclick.net/clk;178120221;24078952;a?http://www.constantcontact.com/index.jsp?utm_id=TOOL&amp;cc=CLK_DCLKAWRTKTLOGO" alt="Visit Constant Contact">
+    <area shape="rect" coords="505,46,599,62" href="http://ad.doubleclick.net/clk;195966861;25468181;z?http://www.register.com/index.rcmx" alt="Visit Register.com">
+  <area shape="rect" coords="387,40,493,66" alt="visit GoToMeeting" href="/ads/goto_out.asp">
+  <area shape="rect" coords="226,31,284,68" href="http://www.cdw.com/content/products/cdw-best-deals.aspx " alt="Best Deals from CDW">
+  </map>
+</div>
 
 <div id="footer">
-
- <div align="center"><img src="../images/toolkit_sponsors_footer.gif" alt="Visit PayCycle" width="600" height="72" border="0" usemap="#MapMapMap">
-    <map name="MapMapMap" id="MapMapMap">
-      <area shape="rect" coords="82,22,158,67" href="https://www.advanta.com/ADV/Apply/Apply.page?orgcode=BIZ0001" alt="Visit Advanta">
-      
-   
-      <area shape="rect" coords="170,21,246,66" href="http://www.anchorfundingservices.com/" alt="Visit Anchor Funding Services">
-      <area shape="rect" coords="255,31,360,68" href="http://www.bizfilings.com/jpals.asp?TGID=377&amp;d=423423&amp;PCD=CP1612" alt="Visit BizFilings">
-      <area shape="rect" coords="370,34,448,64" href="http://ad.doubleclick.net/clk;178120221;24078952;a?http://www.constantcontact.com/index.jsp?utm_id=TOOL&amp;cc=CLK_DCLKAWRTKTLOGO" alt="Visit Constant Contact">
-      <area shape="rect" coords="452,39,551,63" href="http://ad.doubleclick.net/clk;195966861;25468181;z?http://www.register.com/index.rcmx" alt="Visit Register.com">
-    </map>
-    
-  <img src="http://ad.doubleclick.net/ad/N3175.Toolkit/B2571954.5;sz=1x1;ord=6/22/2008 2:00:38 PM" height="1" width="1"></div>
   <p class="links"><a href="/contact.aspx">Contact</a> | <a href="/terms.aspx">Terms</a> | <a href="/privacy_policy.aspx">Privacy</a> | <a href="/copyright.aspx">Copyright</a> | <a href="/about/">About Us</a></p>
           <p style="text-align:center">© 1995-<span id="Footerdate1_spFooterYear">2008</span>
  Toolkit Media Group. All rights reserved.<br><img align="absmiddle" src="/images/logo_wolters.gif"></p>
 </div><!-- end id="footer" -->
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4233140-4");
+
+pageTracker._trackPageview();
+
+</script>
+
+<script language="JavaScript" src="/includes/s_code.js"></script>
 
 		
 	</div><!-- end id="containter_2" -->
