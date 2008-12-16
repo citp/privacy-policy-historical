@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514074511id_/http%3A//forums.slickdeals.net/sdmisc.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013421id_/http%3A//forums.slickdeals.net/sdmisc.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Slickdeals.net
 
