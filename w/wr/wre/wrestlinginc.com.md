@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609001430id_/http%3A//www.wrestlinginc.com/pages/winc_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015558id_/http%3A//www.wrestlinginc.com/pages/winc_privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - WrestlingInc.com
 
@@ -7,19 +7,16 @@ WrestlingInc.com
 to your Favorites! | [](http://www.fightline.com/ "Get the latest MMA News at FightLine.com") | Get UFC &  
 MMA news at  
 [FightLine.com](http://www.fightline.com/) | [](http://www.tnawrestling.com/ "Watch TNA Impact! on Spike") |   
-|  |   
----  
-[](http://www.myreg.net/checkform?force_form=1&form_id=12925)  
+|    
   
-  
-  
+|   
 ---  
   
-How would you rate _WWE One Night Stand_?
+How would you rate _WWE Armageddon_?
 
- **    Good  
+ **    Good - Excellent  
    Average  
-   Poor  
+   Poor - Terrible  
    Didn't Watch It  
 **   
   
