@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509194525id_/http%3A//www.snapsurveys.com/legal/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100720id_/http%3A//www.snapsurveys.com/legal/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ If you wish to amend or delete your details, please e-mail us at the following a
 
 Visitors who register on the Snap Surveys website for any of the services available including e-mail alerts, have to complete a registration form and are therefore asked for contact information (such as name, company name and e-mail address). This information is used to contact the user about the services on our site for which they have expressed particular interest. It is optional for the user to provide demographic information, and unique identifiers, but encouraged so we can provide a more personalized experience. If you sign up for access to any of the protected areas of this website, we will use a cookie, this cookie will contain a unique ID, that we will use to identify you when you return to the site.
 
-###  Web-tracking
+### Web-tracking
 
 Snap Surveys employs a web-tracking system to track visitor traffic patterns throughout the website. We collect the visitor's domain name, referral data, browser, platform type and duration of the visit. The information gathered is used to produce overall usage statistics about our site, which we use to evaluate the site. We do not correlate this information with data about individuals.
 
