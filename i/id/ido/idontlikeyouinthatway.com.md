@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idontlikeyouinthatway.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617123817id_/http%3A//www.idontlikeyouinthatway.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idontlikeyouinthatway.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011143id_/http%3A//www.idontlikeyouinthatway.com/privacy.html) for the most accurate reproduction.*
 
-# IDontLikeYouInThatWay.com: Commitment To Privacy
+# IDontLikeYouInThatWay.com: About Us
 
 ### IDLYITW
 
@@ -14,7 +14,7 @@ IDLYITW, LLC ("Company," "we," or "us") knows that you care how information abou
 
 **User-Provided Information:** You provide us information about yourself, such as your name and e-mail address, when you register with the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
 
-**Cookies Information:** When you visit idontlikeyouinthatway.com, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+**Cookies Information:** When you visit idontlikeyouinthatway.com, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
 **Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
@@ -36,7 +36,7 @@ We use cookies, clear gifs, and log file information to: (a) remember informatio
 
 #### How We Share Your Information
 
-**Personally Identifiable Information:** Company will not rent or sell your personally identifiable information to others. Company may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
+**Personally Identifiable Information:** Company will not rent or sell your personally identifiable information to others. Company may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
 
 As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
 
