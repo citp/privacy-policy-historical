@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthetests.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606203154id_/http%3A//www.allthetests.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthetests.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012138id_/http%3A//www.allthetests.com/privacy.php3) for the most accurate reproduction.*
 
 # None
 
@@ -32,14 +32,12 @@ If you feel that this site is not following its stated information policy, you m
 
 [E-mail this page to your friends!](http://www.allthetests.com/recommender.php3?url=/privacy.php3)
 
-[**Make your own quiz or test**](http://www.allthetests.com/quiz25/quizbedingung.php)
+[**Make your own quiz or test**](http://www.allthetests.com/quiz26/quizbedingung.php)
 
 **AllTheTests.com**  
 a project of [testedich.de](http://www.testedich.de/)   
 Email:[allthetests@testedich.de](mailto:allthetests@testedich.de)  
 Your Searchengine and your link to the collection of all iq tests, EQ tests, earning power, health profile and many others.  
 http://www.AllTheTests.com 
-
-[Gastouderbureau Gastouders direct - Oma als oppas](http://www.gastoudersdirect.nl/)
 
 Copyright © 1999-2008 by testedich.de, all rights reserved. 
