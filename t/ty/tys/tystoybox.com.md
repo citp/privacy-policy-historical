@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tystoybox.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509095951id_/http%3A//www.tystoybox.com/pages/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tystoybox.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012008id_/http%3A//www.tystoybox.com/pages/Privacy_Policy) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
 We are committed to making your online transaction safe, secure and confidential to the highest standards available. Following are some relevant facts about how we treat your information 
 
-We do not share or sell data.We collect billing and shipping information in order to process your order and deliver it to its destination. This information is used only by Ty's Toy Box and the couriers we use for the purposes of fulfilling your order . Personal information collected through this site is used only for our internal purposes. We will not sell your personal information, or authorize third parties to use such information for any commercial purpose, without your prior consent. 
+We do not share or sell data.We collect billing and shipping information in order to process your order and deliver it to its destination. This information is used only by Ty's Toy Box and the couriers we use for the purposes of fulfilling your order. Personal information collected through this site is used only for our internal purposes. We will not sell your personal information, or authorize third parties to use such information for any commercial purpose, without your prior consent. 
 
 **PERSONAL INFORMATION**  
 We do not automatically collect personal information such as your name, address, telephone number or email address. Such information will be collected only if you provide it to us voluntarily in order to order products, enter a contest or promotion, or sign up to receive our eUpdate newsletter. We don't require that any personal information be provided in order to view our website. 
@@ -13,7 +13,7 @@ We do not automatically collect personal information such as your name, address,
 **Information collected by Ty's Toy Box is used to:**
 
   * allow you to order products, register for eUpdate and participate in special promotions; 
-  * improve the site by observing products that are mostpopular; and 
+  * improve the site by observing products that are most popular; and 
   * personalize the delivery of information and recommend products to you.
 
 Your personal information may also be used to create statistics about tystoybox.com T that we use to measure our performance. These statistics do not contain any information that could identify you personally. Ty's Toy Box does not sell your personal information to any organization for any purpose.
