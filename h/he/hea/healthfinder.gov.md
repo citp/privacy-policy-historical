@@ -1,47 +1,42 @@
-> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611093248id_/http%3A//www.healthfinder.gov/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023050id_/http%3A//www.healthfinder.gov/aboutus/privacy.aspx) for the most accurate reproduction.*
 
-# About healthfinder.gov: Privacy - healthfinder.gov
+# Privacy Policy: healthfinder.gov - Your Source for Reliable Health Information
 
-  
-healthfinder.gov is a free portal to reliable consumer health and human services information developed by the U.S. Department of Health and Human Services. When you visit our Web site, we do not collect any information about you unless you choose to provide that information to us (other than information automatically collected and stored in the Web server's logs—see below). As a portal Web site, healthfinder.gov links to other Web sites, and once a user leaves the healthfinder.gov site to visit a linked site, the privacy policy of that site applies. 
+healthfinder.gov is a government Web site offering reliable information and tools to help you and those you care about stay healthy. When you visit our Web site, we do not collect any personal information about you unless you choose to provide that information to us.
 
-###   
-Personal Information
+healthfinder.gov links to other Web sites. Once you leave the healthfinder.gov site to visit a linked site, the privacy policy of that site applies.
 
-You do not have to provide any personal information to visit this Web site. 
+## Personal Information
 
-If you choose to provide us with information about yourself through an e-mail message, form, survey, etc., we will only maintain the information as long as needed to respond to your question or to fulfill the stated purpose of the communication.
+You do not have to give any personal information to visit this Web site.
 
-### Information Automatically Collected and Stored in Web Server Logs
+If you choose to give information about yourself in an e-mail message, form, or survey, we will only keep the information as long as needed to respond to your question.
 
-When you browse through any Web site, certain personal information about you can be collected. Our Web server software automatically collects and temporarily stores the following information about each visit for statistical purposes:
+## Information Automatically Collected and Stored in Web Server Logs
 
-  * the name of the domain you use to access the Internet (for example, aol.com, if you are using an America Online account, or stanford.edu, if you are connecting from Stanford University's domain) 
-  * the date and time of the visit 
-  * the pages visited 
-  * the address of the Web site you came from when you came to visit
+When you browse through any Web site, some information about you can be collected. Our Web server software automatically collects and temporarily stores the following information about each visit:
+
+  * the name of the domain you use to access the Internet (for example, aol.com, if you are using an America Online account, or stanford.edu, if you are connecting from Stanford University's domain – we do not collect your full email address); 
+  * the date and time of the visit; 
+  * the pages visited; and
+  * the address of the Web site you came from when you came to visit.
 
 
 
-We use this information for statistical purposes and to help us make our site more useful to visitors. Unless it is specifically stated otherwise, no additional information will be collected about you.
+We use this information for statistical purposes and to help us make our site more useful to visitors. No other information will be collected without your knowledge.
 
-### Disclosure
+## Disclosure
 
-The [U.S. Department of Health and Human Services](http://www.hhs.gov/), of which the healthfinder.gov Web site is a part, does not disclose, give, sell, or transfer any personal information about visitors, unless required for law enforcement or by statute.
+The [U.S. Department of Health and Human Services](http://www.hhs.gov/), of which the healthfinder.gov Web site is a part, does not disclose, give, sell, or transfer any personal information about visitors, unless required for law enforcement or by law.
 
-### Intrusion Detection
+## Intrusion Detection
 
 This site is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court.
 
 For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
 
-### Systems of Records
+## Systems of Records
 
 Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided.
 
-### IHC Disclosure Statement
-
-healthfinder.gov also provides an [IHC disclosure statement](https://web.archive.org/web/20080611093248id_/http%3A//www.healthfinder.gov/aboutus/ihcdisclosure.asp) as recommended by the Science Panel on Interactive Communication and Health.
-
-You may also wish to review our [disclaimer](https://web.archive.org/web/20080611093248id_/http%3A//www.healthfinder.gov/aboutus/disclaimer.asp).   
- 
+You may also wish to review our [disclaimers](https://web.archive.org/web/20081216023050id_/http%3A//www.healthfinder.gov/aboutus/disclaimer.aspx).
