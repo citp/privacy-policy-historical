@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spamarrest.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617161323id_/http%3A//corp.spamarrest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spamarrest.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014021id_/http%3A//corp.spamarrest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Spam Arrest
 
@@ -6,7 +6,7 @@
 
 **PRIVACY POLICY**
 
-**LAST REVISION & EFFECTIVE DATE: June 18, 2007**
+**LAST REVISION & EFFECTIVE DATE: November 24, 2008**
 
 Spam Arrest LLC ("Spam Arrest") is committed to protecting your privacy. We have made a commitment to maintain strict requirements regarding how we treat your information.
 
@@ -34,7 +34,7 @@ Your use of the Site following the posting of such changes or revised statement 
 
 Although the majority of information obtained through this Site is business related, we may also collect personal information (i.e., individual information that may be used to personally identify or contact you) from Customers, Senders, and other users of this Site. Collection is done both actively (information you voluntarily submit to us) and passively (information automatically gathered from your computer).
 
-ACTIVE COLLECTION. At several places on our Site, we collect certain information you voluntarily provide to us that may contain personally identifiable information. For Customers, for example, our registration page requests your full name, address, phone number, fax number, email address, email server host name and email user name and password. If you do not provide such information you may not be able to use the Site and service offered therein. For Senders, our identity verification page requests your full name, address, phone number, fax number, email address, and email name. You may also provide us with credit card information for payment of registration fees or other fees collected by Spam Arrest. If you send us an email request, we may also store that information. Spam Arrest also will store emails sent to Customers from Senders for an indefinite period of time, as back-up copies for the purposes of recovery from errors or system failure.
+ACTIVE COLLECTION. At several places on our Site, we collect certain information you voluntarily provide to us that may contain personally identifiable information. For Customers, for example, our registration page requests your full name, address, phone number, fax number, email address, email server host name and email user name and password. If you do not provide such information you may not be able to use the Site and service offered therein. When importing your email address book or adding email addresses as a contact to the site, these addresses will be used to pre-authorize communications with these users. For Senders, our identity verification page requests your full name, address, phone number, fax number, email address, and email name. You may also provide us with credit card information for payment of registration fees or other fees collected by Spam Arrest. If you send us an email request, we may also store that information. Spam Arrest also will store emails sent to Customers from Senders for an indefinite period of time, as back-up copies for the purposes of recovery from errors or system failure.
 
 PASSIVE COLLECTION. Our software automatically collects certain information from your computer (such as your Internet address, browser type, operating software, computer language, email type, etc.) using three methods: (1) cookies, (2) log files, and (3) a software download.
 
