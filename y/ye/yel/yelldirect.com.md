@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelldirect.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617004337id_/http%3A//www.yelldirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelldirect.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152613id_/http%3A//www.yelldirect.com/privacy.html) for the most accurate reproduction.*
 
 # Security and privacy information page » Yell Direct
 
@@ -261,7 +261,7 @@ Yell Limited
 Queens Walk  
 Oxford Road  
 Reading RG1 7PT  
-Freephone 0800 555 444 (Monday to Friday, 8am to 7pm and Saturday 9am to 1pm)
+Freephone 0800 555 444 (Monday to Friday 8.30am–6.00pm, excluding bank holidays)
 
 If you tell us that you do not want to receive direct marketing, we will still contact you in order to confirm and carry out any orders you make with us and for administration purposes.
 
@@ -305,7 +305,7 @@ Yell Limited
 Queens Walk  
 Oxford Road  
 Reading RG1 7PT  
-Freephone 0800 555 444 (Monday to Friday, 8:00 am to 7:00 pm and Saturday 9:00 am to 1:00 pm)
+Freephone 0800 555 444 (Monday to Friday 8.30am–6.00pm, excluding bank holidays)
 
 If you write to us, we may phone you to check the details that you have given us. 
 
@@ -357,7 +357,7 @@ Yell Limited
 Queens Walk  
 Oxford Road  
 Reading RG1 7PT  
-Freephone 0800 555 444 (Monday to Friday, 8am to 7pm and Saturday 9am to 1pm)
+Freephone 0800 555 444 (Monday to Friday 8.30am–6.00pm, excluding bank holidays)
 
   
 
