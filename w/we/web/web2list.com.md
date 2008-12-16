@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the web2list.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620074740id_/http%3A//web2list.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2list.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151523id_/http%3A//web2list.com/privacy.php) for the most accurate reproduction.*
 
-# Web 2.0 - Web2.0List
+# Web 2.0, Web 2.0 News, Web 2.0 Sites, Web 2.0 Lists
 
 We here at Web2List.com recognize that your privacy is very important. Please read the following to learn more about our privacy policy guidelines. Since this is a growing website and because Internet technologies are constantly evolving, these guidelines are subject to change and any changes will be posted on this page. Any material changes from current practices will be posted on the main page of this website to serve as notice.
 
@@ -40,9 +40,3 @@ We may use customer information for new, unanticipated uses not previously discl
   * Please be careful and responsible whenever you are using the Internet. ****
 
 
-
-| 
-
-[](http://del.icio.us/post?url=http://www.web2list.com&title=List%20and%20News%20of%20Web%202.0%20sites "del.icio.us") [](http://digg.com/submit?phase=2&url=http://www.web2list.com&title=List%20and%20News%20of%20Web%202.0%20sites "digg") [](http://www.web2list.com/ "technorati favorite") [](http://www.furl.net/storeIt.jsp?u=http://www.web2list.com&t=List%20and%20News%20of%20Web%202.0%20sites "Furl") [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Description=&Url=http://www.web2list.com&Title=List%20and%20News%20of%20Web%202.0%20sites "BlinkList") [](http://blogmarks.net/my/new.php?mini=1&simple=1&url=http://www.web2list.com&title=List%20and%20News%20of%20Web%202.0%20sites "blogmarks") [](http://ma.gnolia.com/beta/bookmarklet/add?url=http://www.web2list.com&title=List%20and%20News%20of%20Web%202.0%20sites&description=dealspl.us:+online+social+shopping+community "Ma.gnolia") [](http://reddit.com/submit?url=http://www.web2list.com&title=List%20and%20News%20of%20Web%202.0%20sites "Reddit") [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.web2list.com&=List%20and%20News%20of%20Web%202.0%20sites "YahooMyWeb")
-
-| 
