@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511050647id_/http%3A//www.nypost.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165211id_/http%3A//www.nypost.com/legal/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | New York Post - New York Post
+# Privacy Policy | New York Post- New York Post
 
 _Effective as of June 21, 2006_   
 **NYP Holdings, Inc. ("The Post")** , which includes The New York Post, NYPOST.COM, NYPOSTSTORE.COM, STORE.NYPOST.COM and other Internet sites controlled by The Post ( **"Post Sites"** ), is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. The Post has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. 
@@ -9,7 +9,7 @@ From time to time The Post may revise this Privacy Policy to reflect changes in 
 
 **COLLECTION:** COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") BY THE POST 
 
-**GENERAL**. The Post collects personally identifiable information ("PII" -- that is, information such as your full name, email address, mailing address or telephone number) in order to create or enhance our relationship with you. For example, The Post collects PII from you when you register for full access to Post Sites. Users who have supplied Post Sites with PII in the past (for example, by entering a contest or sweepstakes, signing up for home delivery of the Print Edition, or registering for our Daily Newsletter) will also be required to complete the registration process. You can register for full access to Post Sites [here](http://www.nypost.com/register). We also collect PII when you participate in activities on Post Sites such as sweepstakes, contests, surveys, forums, bulletin boards, polls, e-mailing to a friend and subscription registrations; when you submit comments, content or suggestions to us; or when you want us to furnish you with products, services or information. We may also obtain PII from reputable third parties. 
+**GENERAL**. The Post collects personally identifiable information ("PII" -- that is, information such as your full name, email address, mailing address or telephone number) in order to create or enhance our relationship with you. For example, The Post collects PII from you when you register for full access to Post Sites. Users who have supplied Post Sites with PII in the past (for example, by entering a contest or sweepstakes, signing up for home delivery of the Print Edition, or registering for our Daily Newsletter) will also be required to complete the registration process. You can register for full access to Post Sites [here](https://web.archive.org/community/register.htm?redirect=http%3A//www.nypost.com/legal/privacy.htm). We also collect PII when you participate in activities on Post Sites such as sweepstakes, contests, surveys, forums, bulletin boards, polls, e-mailing to a friend and subscription registrations; when you submit comments, content or suggestions to us; or when you want us to furnish you with products, services or information. We may also obtain PII from reputable third parties. 
 
 **COOKIES**. Cookies are small bits of information that Post Sites place on the hard drive of your computer. Cookies remember information about your activities on our sites and enable The Post to make your visits to Post Sites more enjoyable. For example, cookies can store your name and password for easy logon to a site you have previously visited, can keep track of whether or not you have voted in an online poll, can save information concerning the sections and/or stories you visit the most or can track the items you have placed in your "shopping cart" during a visit to our online store. Information about your activities on Post Sites and other non-personally identifiable information about you may also be used to limit the online ads you encounter to those we believe are consistent with your interests. 
 
@@ -33,7 +33,7 @@ The Post Sites may also be linked to sites operated by companies affiliated with
 
 Some of the advertisements that appear on Post Sites are delivered to you by national Internet advertising companies such as DoubleClick, Atlas DMT and 24/7 Real Media. These companies utilize certain technologies to deliver and select advertisements and marketing messages based upon anonymous information their technologies collect about your visit to Post Sites, including information about the banner ads they display, their cookie and your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit their websites at:   
 <http://www.doubleclick.net/privacy_policy>  
-<http://www.atlasdmt.com/privacy>  
+<http://www.atlassolutions.com/privacy.aspx>  
 <http://www.247media.com/privacy.html>
 
 **CHOICE:** THE POST WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII 
@@ -58,7 +58,7 @@ The Post uses reasonable administrative, technical, personnel and physical measu
 
 **ACCESS:** HOW TO ACCESS, CORRECT OR DELETE YOUR PII 
 
-To review or modify your preferences or to delete the PII that The Post has collected from you via the Post Sites, [click here](https://web.archive.org/web/20080511050647id_/http%3A//www.nypost.com/legal/URL_STEM_SSL/useradmin/useradmin.htm). As an alternative, you may also review or modify your PII by contacting The Post Privacy Officer at the address indicated below under REMEDIES AND COMPLIANCE. 
+To review or modify your preferences or to delete the PII that The Post has collected from you via the Post Sites, [click here](https://web.archive.org/useradmin/useradmin.htm). As an alternative, you may also review or modify your PII by contacting The Post Privacy Officer at the address indicated below under REMEDIES AND COMPLIANCE. 
 
 To review, modify or delete the PII The Post has collected off-line about you (from reputable third parties, newspaper subscription data, etc.), email us at [onlinehelp@nypost.com](mailto:onlinehelp@nypost.com). 
 
