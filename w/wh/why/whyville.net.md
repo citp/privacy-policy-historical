@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the whyville.net privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608073641id_/http%3A//b.whyville.net/smmk/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whyville.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216080907id_/http%3A//b.whyville.net/smmk/top/gatesInfo%3Ftopic%3DprivacyStatement) for the most accurate reproduction.*
 
 # Whyville Privacy Statement
-
-  
-
 
 **Whyville** is an educational virtual world for curious minds to explore, learn, and create together. Our information practices are designed to facilitate Whyville's goal to promote and foster learning, while complying with the United States Federal Trade Commission's Children's Online Privacy Protection Rule, effective April 21, 2000. 
 
@@ -23,7 +20,7 @@ Whyville offers users and their parents the ability to view or delete the user i
 
 **Communication Tools**
 
-Whyville's communication tools facilitate the interactivity and richness of our community. These tools include chat, internal city mail, and bulletin boards. These channels of communication are considered as being higher risk. Whyville chat, internal mail, and bulletin boards are protected by our proprietary filter technology, selective monitoring by staff members, and peer reporting, but they are **NOT moderated** continuously on a 24-hour basis. Please read our [policy statement](http://b.whyville.net/smmk/privacy/policies) and learn about our [safety tools](https://web.archive.org/callbox/callbox.html). In compliance with federal regulations, we require users who declare that they are under 13 to obtain explicit prior parental permission before participation. 
+Whyville's communication tools facilitate the interactivity and richness of our community. These tools include chat, internal city mail, and bulletin boards. These channels of communication are considered as being higher risk. Whyville chat, internal mail, and bulletin boards are protected by our proprietary filter technology, selective monitoring by staff members, and peer reporting, but they are **NOT moderated** continuously on a 24-hour basis. Please read our [policy statement](http://b.whyville.net/smmk/privacy/policies) and learn about our [safety tools](http://b.whyville.net/smmk/callbox/callbox?noSkin=1). In compliance with federal regulations, we require users who declare that they are under 13 to obtain explicit prior parental permission before participation. 
 
 **Cookies**
 
