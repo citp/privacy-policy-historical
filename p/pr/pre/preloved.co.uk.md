@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610121102id_/http%3A//www.preloved.co.uk/fuseaction-privacy.default/589c4985.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160642id_/http%3A//www.preloved.co.uk/fuseaction-privacy.default/589c4985.html) for the most accurate reproduction.*
 
 # Preloved | Buy and Sell Online for Free in UK and Ireland
 
@@ -54,10 +54,11 @@ The policy below explains in detail how we manage your personal information:
 
 
 
-## Viewing or changing your personal information
+## Viewing, changing or removing your personal information
 
   * Members may view all information that Preloved stores about them as an individual, by visiting the members area at <http://www.preloved.co.uk/members/>
   * Here, they may also correct or update their personal information and opt out of receiving future newsletters or subscriptions by email. (see 'Newsletters and other email' above).
+  * Members may request that all personal information for them be removed by contacting us at <http://www.preloved.co.uk/contact/>. We will close your account and remove all personal information from the public site immediately. However, where there has been activity on an account within the preceeding 90 days, we reserve the right to retain records of your personal information for a further 90 days and may disclose this information in order to comply with any legal obligations and to prevent fraud, as outlined above.
 
 
 
@@ -85,7 +86,7 @@ London
 N13 4BS   
 England
 
-We may amend this Privacy Policy at any time by posting the amended terms on the site. All amended terms shall take effect immediately for new members, and automatically 30 days after they are initially posted on the site for other visitors. This policy was last revised 6 May 2008.
+We may amend this Privacy Policy at any time by posting the amended terms on the site. All amended terms shall take effect immediately for new members, and automatically 30 days after they are initially posted on the site for other visitors. This policy was last revised 5 Aug 2008.
 
 | 
 
@@ -95,7 +96,7 @@ Why not join the fun for free! Members can sell their stuff completely free of c
 
 [Join for free](http://members.preloved.co.uk/fuseaction-join.default/6434ddcb.html) | [Member Log In](http://members.preloved.co.uk/fuseaction-loginform.default/507d7cc4.html)
 
-### Become a Expert Second Hander
+### Become an Expert Second Hander
 
 Would you like to know how to snatch up the best bargains on Preloved? How to ensure the items you sell fetch the best possible price? 
 
