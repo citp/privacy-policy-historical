@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funenclave.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618070649id_/http%3A//www.funenclave.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funenclave.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216102331id_/http%3A//www.funenclave.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FunEnclave
 
@@ -82,4 +82,4 @@ We are posting this Policy to be a good web citizen. This site operates in good 
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can reach us through   
-[email](http://www.funenclave.com/sendmessage.php)
+[email](http://www.funenclave.com/contact.html)
