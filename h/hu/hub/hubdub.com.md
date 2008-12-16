@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hubdub.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605225800id_/http%3A//www.hubdub.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubdub.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012221id_/http%3A//www.hubdub.com/public/privacy) for the most accurate reproduction.*
 
-# Hubdub -
+# 
 
 **Hubdub ltd** recognizes that its customers, visitors, users, and others who use hubdub.com value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on via the hubdub.com website. Hubdub.com provides this Privacy Notice to help you make an informed decision about whether to use or continue using Hubdub.com.
 
@@ -21,7 +21,7 @@ EH9 3JL
 
 ## Use of Information Obtained
 
-  1. **User Provided Information:** You provide certain personally identifiable information (such as your name and email address) to Hubdub.com when choosing to participate in various activities on the Hubdub.com website such as uploading pictures, posting messages, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.   
+  1. **User Provided Information:** You provide certain personally identifiable information (such as your name and email address) to Hubdub.com when choosing to participate in various activities on the Hubdub.com website such as uploading pictures, posting messages, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. We also allow other users to search for you by name but you may turn this off in My Privacy   
 
   2. **Cookies Information:** When you visit the Hubdub.com website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Hubdub.com uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Hubdub.com website may not function properly if the ability to accept cookies is disabled.   
 
@@ -86,7 +86,7 @@ This Privacy Notice may be revised periodically and this will be reflected by th
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
 
 **Date Last Modified:**  
-This Privacy Notice was last modified January 7th, 2008.
+This Privacy Notice was last modified June 10th, 2008.
 
 **Contact Information:**  
 Please contact Hubdub.com with any questions or comments about this Privacy Notice using the [contact us](http://www.hubdub.com/public/contact) form. 
