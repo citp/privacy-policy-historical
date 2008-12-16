@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onsemi.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624053049id_/http%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsemi.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216065925id_/http%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109) for the most accurate reproduction.*
 
-# ON Semiconductor
+# ON Semiconductor: Privacy Policy
 
 **Privacy Policy**
 
@@ -20,6 +20,8 @@ In order to offer certain services, ON Semiconductor hires subcontractors to eas
 
 **Security**  
 Systems that store your information are firewall protected. Access to sensitive information is restricted to authorized personnel. If we ask for any credit card or financial information, this information is transmitted through Secure Sockets Layer (SSL) technology, which encrypts sensitive information. Some information that is transmitted between our site and our registered users is also SSL encrypted, depending on the sensitivity of the information. 
+
+**[Privacy Policy for European Union Personal Data](https://web.archive.org/site/pdf/EuropeanSafeHarbourPolicy_Sept.08.pdf) **
 
 **Contact Us**  
 If you have any questions or comments regarding this privacy policy, please contact us and a legal representative will respond to your question/comment. 
