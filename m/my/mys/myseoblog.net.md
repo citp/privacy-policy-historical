@@ -1,27 +1,20 @@
-> *The following text is extracted and transformed from the myseoblog.net privacy policy that was archived on 2008-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080310020927id_/http%3A//www.myseoblog.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myseoblog.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015335id_/http%3A//www.ientry.com/page/corp/privacy.html) for the most accurate reproduction.*
 
-# Myseoblog.net Privacy Policy
+# iEntry Network - Privacy Policy
 
-Privacy Policy - www.myseoblog.net
+iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
 
-Privacy Policy for www.myseoblog.net 
+**Registration**  
+iEntry respects and is committed to protecting your privacy. That is why this Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for iEntry Inc. We will not sell, share, or rent this information to third parties. iEntry is the sole owner of the information collected on all our sites. 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@myseoblog.net. 
+iEntry collects personally identifying information during the registration process. Information is collected in certain portions of iEntry in which users specifically and knowingly provide such information along with content submissions, Directory submissions, membership sites or suggestions etc,. iEntry collects information from our users at several different points within our websites. iEntry may use such information for its internal purposes, including, but not limited to, editorial and feedback purposes. If a user wishes to subscribe to our newsletters, alerts, updates, briefings etc. we ask for contact and delivery information like name and e-mail address. All of these e-mail lists provide opt out capabilities online and within each e-mail broadcast. On some of our sites the user is asked to provide optional demographic and personal interest information that is used to keep our content as fresh and relevant as possible. Information submitted at the time of registration (including newsletter subscriptions) may be used for marketing and promotional purposes by iEntry. If a guest objects to such use for any reason, he/she may stop that use by an e-mail request to [**support@ientry.com**](mailto:support@ientry.com). 
 
-At www.myseoblog.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.myseoblog.net and how it is used. 
+**Cookies**  
+Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes while at the site. Cookies make Web-surfing easier by, among other things, saving your passwords and preferences for you. The use of cookies is an industry standard, and you'll find cookies at most major Web sites. 
 
-**Log Files**  
-Like many other Web sites, www.myseoblog.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Cookies help make iEntry better, by showing how and when guests use the site. Many content improvements and updates are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. A cookie lets iEntry remember that you've registered, which allows us to speed up your future activities at our sites. The cookie itself does not contain any personally identifying information although it may enable iEntry to relate a user's use of iEntry to personally identifying information that has previously been submitted by the user, if any. 
 
-**Cookies and Web Beacons**  
-www.myseoblog.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+You may occasionally get cookies from our advertisers. These cookies are sent from third-party computers and are subject to such third parties' policies. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, it is likely that most areas of the site will not function properly if you do so. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Kontera. 
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.myseoblog.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
-
-www.myseoblog.net has no access to or control over these cookies that are used by third-party advertisers. 
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.myseoblog.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+**Removal from our Database**  
+Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [**support@ientry.com**](mailtop:support@ientry.com). 
