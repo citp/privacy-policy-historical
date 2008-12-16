@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsh.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510143848id_/http%3A//www.hsh.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsh.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035538id_/http%3A//www.hsh.com/privacy.html) for the most accurate reproduction.*
 
 # HSH Associates: Disclaimers and our Privacy Policy
 
@@ -13,7 +13,7 @@ It has been our policy, since the company was founded in 1979, to never sell per
 
 In some cases, such as if you e-mail a question or a comment to us, we may _request_ your name, e-mail address or other information so that we can, for example, e-mail you with a personal reply. If you choose to supply this information, we will use it only for the specific purpose for which you supply it. 
 
-In other cases, we may _require_ certain personal information -- such as when you fill out an order form on our site (or submit an order to us through some means such as phone, fax, mail, or e-mail); when you request that we send your information to a _Showcase_ lender; when you sign up for our free content; and similar cases. In these cases, you must enter your name, address, and certain other information. The information you provide goes **only** to the party(s) you select, so that they can fulfill your order (or request). Obviously, we must collect this information so your order (or request) can be fulfilled. We maintain the information you provide (other than credit card information) to evidence that you have purchased a product.
+In other cases, we may _require_ certain personal information -- such as when you fill out an order form on our site (or submit an order to us through some means such as phone, fax, mail, or e-mail); when you request that we send your information to a _Showcase_ lender; when you sign up for our free content; and similar cases. In these instances, you must enter your name, address, and certain other information. The information you provide goes **only** to the party(s) you select, so that they can fulfill your order (or request). Obviously, we must collect this information so your order (or request) can be fulfilled. We maintain the information you provide (other than credit card information) to evidence that you have purchased a product.
 
 We never share any of your personally identifying data with any other party without your explicit permission, nor use it for unapproved commercial purposes.
 
@@ -29,7 +29,7 @@ We may _offer_ to send you information or updates from HSH Associates via e-mail
 
 Finally, while your individual information is protected as outlined above, we do analyze our 'hit' logs to see how we're doing. However, we only use aggregated, anonymous data about our users as a group. For instance, we like to know that a certain percentage of our users appear to be in the market for a certain loan type, based on the pages they view.
 
-Our privacy policy may be modified from time to time; the last update was on October 31, 2007.
+Our privacy policy may be modified from time to time; the last update was on July 3, 2008.
 
 If you ever have any concerns or questions about our privacy policy, please [send us e-mail](http://www.hsh.com/bnbform.html). We welcome your feedback. You can also write to us at the following address:
 
