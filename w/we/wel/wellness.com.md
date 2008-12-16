@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509135426id_/http%3A//www.wellness.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151626id_/http%3A//www.wellness.com/privacy.asp) for the most accurate reproduction.*
 
-# Wellness - The pursuit of health and hapiness
-
-Wellness.com Privacy Policy
+# Wellness.com - The Healthy Living Community
 
 Your privacy is extremely important to Wellness.com. We want you to feel as comfortable as possible visiting our website and using its services. This Privacy Policy and Agreement ("Privacy Policy") tells you what information Wellness.com, Inc. (" _The Company_ ") collects about you and your use of this website. This policy also explains how _The Company_ protects that information and what choices you have about how it is used. We urge you to read this Privacy Policy carefully so that you will understand clearly both our commitment to you and your privacy, and how we may collect and use information. By using the Wellness.com site, you agree to the terms of this Privacy Policy.
 
@@ -83,5 +81,3 @@ You can always contact us in order to (1) delete your Personal Information or (2
 It is not technologically reasonable to remove each and every record of the information you have provided to Wellness.com from our computers servers. The need to back-up our systems to protect information from inadvertent loss means that a copy of your Personal Information may exist in a non-erasable form that will be difficult or impossible for the company to locate. Nevertheless, upon receiving your request, all Personal Information stored in the live active databases we host will be removed.
 
 Privacy as it applies to the Internet is a dynamic, rapidly developing area. In the future, the company may make significant changes to its privacy policy affecting the use of the Personal Information it collects. The company will notify users by email of any significant material changes to its privacy policy and obtain your "opt-in" consent to any significant new uses of your Personal Information, if it was collected from you prior to a significant change in this policy. The company may also make non-significant changes to our Privacy Policy that generally will not affect the use of your Personal Information. You should also check this posted Privacy Policy for any future changes. If you do not agree to the terms of this Privacy Policy or any revised policy, please exit the site immediately and terminate your membership in Wellness.com.
-
-Revised May 30, 2007 · Copyright © 2008 Wellness.com. · All rights reserved. 
