@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215233943id_/http%3A//www.tradingmarkets.com/.site/page/%3Floc%3Dlegal/privacy.cfm%26hcode%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011441id_/http%3A//www.tradingmarkets.com/.site/page/%3Floc%3Dlegal/privacy.cfm%26hcode%3Dfooter) for the most accurate reproduction.*
 
-# Daytrading, Eminis, Forex trading, Swing Trading
+# 
 
 TRADINGMARKETS PRIVACY POLICY STATEMENT
 
@@ -96,4 +96,13 @@ Facsimile: |   | 213 955 4240
 E-mail: |   | support@tradingmarkets.com  
 Postal Address: |   |  15260 Ventura Blvd. Suite #2200   
 Sherman Oaks, CA 91403   
-Web site: |   | www.tradingmarkets.com
+Web site: |   | www.tradingmarkets.com  
+  
+* * *
+
+All analyst commentary provided on TradingMarkets.com is provided for educational purposes only. The analysts and employees or affiliates of TradingMarkets.com may hold positions in the stocks or industries discussed here. This information is NOT a recommendation or solicitation to buy or sell any securities. Your use of this and all information contained on TradingMarkets.com is governed by the [Terms and Conditions of Use](http://www.tradingmarkets.com/index.cfm/termsuse/). Please click the link to view those terms. Follow this link to read our [Editorial Policy.](https://web.archive.org/index.cfm/editorialp/)  
+
+
+* * *
+
+© 2008 The Connors Group, Inc.
