@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the greenhousemegastore.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222225553id_/http%3A//www.greenhousemegastore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenhousemegastore.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061556id_/http%3A//www.greenhousemegastore.com/privacy.asp) for the most accurate reproduction.*
 
 # International Greenhouse Company Greenhouse Mega Store has everything you need to build, equip, and maintain a commercial, hobby, school or institutional greenhouse.
 
-(Effective Date 2/3/04)
-
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/)
+Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine.  Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/)
 
 International Greenhouse Company has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: igcusa.com.
 
@@ -12,7 +10,9 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 This site contains links to other sites. igcusa.com is not responsible for the privacy practices or the content of such Web sites.
 
-**Information collected by International Greenhouse Company:** Our site uses an order form for customers to order products and services. We collect customers name, address, phone number, e-mail address and credit card information.
+**Information collected by International Greenhouse Company:**
+
+Our site uses an order form for customers to order products and services. We collect customers name, address, phone number, e-mail address and credit card information.
 
 Contact information from the order form is used to send orders to our customers. The contact information is used to get in touch with the customer concerning their order. Credit card information that is collected is used to bill the user for products and services. We do not use this information to contact our customers once the transaction is completed.
 
@@ -29,9 +29,9 @@ OR
 You can write to:  
 International Greenhouse Company  
 Customer Service Department - Privacy Concern  
-806 N. Main St.  
-Georgetown, IL 61846  
-Phone: 888-281-9337
+1644 Georgetown Road  
+Danville, IL 61832  
+Phone:  888-281-9337
 
 There are no frequency or fee limits on your ability to review, correct or request this information.
 
@@ -39,8 +39,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 International Greenhouse Company  
 Customer Service Department - Privacy Concern  
-806 N. Main St.  
-Georgetown, IL 61846  
-Phone: 888-281-9337
+1644 Georgetown Road  
+Danville, IL 61832  
+Phone:  888-281-9337
 
 OR
