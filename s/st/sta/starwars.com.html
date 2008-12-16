@@ -1,498 +1,123 @@
-<!--The following is the downloaded HTML source of the starwars.com privacy policy that was archived on 2008-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080622113514id_/http%3A//www.starwars.com/welcome/about/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starwars.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216160254id_/http%3A//www.starwars.com/privacy) for the most accurate reproduction.-->
 
-<html><head><title>Star Wars: Welcome | Privacy Policy </title>
-<link rel="alternate" title="starwars.com Headlines" href="/data/headlines.xml" type="application/rss+xml">
-<link rel="shortcut icon" href="/img/sw.ico">
-<meta name="description" content="">
-<meta name="keywords" content="Star Wars, Welcome, , ">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>StarWars.com | Privacy Policy</title>
+<link rel="shortcut icon" href="/img/global/favicon.ico">
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/carousel_style.css">
+<link rel="stylesheet" type="text/css" href="/css/jcarousel.css">
+<link rel="stylesheet" type="text/css" href="/css/thickbox.css">
+<link rel="stylesheet" type="text/css" href="/css/skin_worlds.css">
+<link rel="stylesheet" type="text/css" href="/css/skin_databank.css">
+<link rel="stylesheet" type="text/css" href="/css/databank_tabs.css">
 
-<link rel="stylesheet" type="text/css" href="/meta/rd/stylesheets/pc_ie_main.css">
-<link rel="stylesheet" type="text/css" href="/meta/rd/stylesheets/pc_ie_welcome.css">
+<script src="/js/jquery.js" type="text/javascript" language="JavaScript"></script>
+<script src="/js/jquery_scroll.js" type="text/javascript" language="JavaScript"></script>
+<script src="/js/jquery_query.js" type="text/javascript" language="JavaScript"></script>
+<script src="/js/global.js" type="text/javascript" language="JavaScript"></script>
+<script src="/js/thickbox.js" type="text/javascript" language="Javascript"></script>
+<script src="/js/jcarousel.js" type="text/javascript" language="Javascript"></script>
+<script src="/js/databank_tabs.js" type="text/javascript" language="Javascript"></script>
+<script src="/js/databank_base.js" type="text/javascript" language="Javascript"></script>
 
-<script language="javascript" src="/meta/rd/js/browserDetect.js"></script>
-<script language="javascript" src="/welcome/js/sub_nav.js"></script>
-<script language="javascript" src="/meta/rd/js/loginCheckFrontPage.js"></script>
-<script language="javascript" src="/meta/rd/js/emailthis.js"></script>
-<script language="javascript" src="/meta/rd/js/imageFunctions.js"></script>
-<script language="javaScript" src="/meta/js/hp_tour.js"></script>
-<script>
-// ad junk
-var ord=Math.random()*10000000000000000;
-var headAd = false;
-
-var navActive = false;
-var timeOn = null;
-var currentMenu = "welcome";
-var currentSubMenu = null;
-
-var siteNavArray = new Array("welcome", "whatsnew", "themovies", "beyondthemovies", "gaming", "community", "kids", "shop", "hyperspace");
-function initNav() {
-	for(var x=0; x<siteNavArray.length; x++) {
-		adjustPos(siteNavArray[x]);
-	}
-	cell_bottom_high.src = drop_path + "dropdowns/bottom_high.gif";
-	cell_bottom.src = drop_path + "dropdowns/bottom.gif";
-	navActive = true;
-}
-
-function adjustPos(menuToShow) {
-	var xTop = 0;
-	var xLeft = 11;
+<!-- START: Necessary code for IE PNG functionality -->
+<!--[if gte IE 5.5000]>
+   <script language="JavaScript"> var ie55up = true </script>
+<![endif]-->
+<!-- END: Necessary code for IE PNG functionality -->
+	<link rel="stylesheet" href="/css/content.css" type="text/css" media="screen">
+	<script language="JavaScript" type="text/javascript" src="/js/news_widget.js"></script>
+	<script language="JavaScript" type="text/javascript">
+		$(document).ready(function() {
+		initSitemap();
+		initNewsModule(3);
+	});
+	</script>
+<style type="text/css" media="screen">
+	#newsMod {border:1px solid #b1aeae; padding:0px; margin:0px;}
+	#newsModNav {background-image:url(/img/news_widget/nav_bg.jpg);}
+	#newsModNav table {width:100%; border:0px; padding:0px; margin:0px;}
+	#newsModNavList {margin:0px; padding:0px;}
+	#newsModNavList li {height:36px; margin:0px; padding:0px; list-style-type:none; display:none; float:left; cursor:pointer;}
+	#newsModNavList li.selected {background-position:0px -36px;}
+	#newsModNavList li:hover {background-position:0px -36px;}
 	
-	var myNavElement  = document.getElementById("navigation");
-	var myMenuElement = document.getElementById(menuToShow);
+	#newsModTab1 {width:57px; background:url(/img/news_widget/news_tab.jpg)}
+	#newsModTab2 {width:117px; background:url(/img/news_widget/clonewars_tab.jpg)}
+	#newsModTab3 {width:103px; background:url(/img/news_widget/mostpopular_tab.jpg)}
+	#newsModTab4 {width:96px; background:url(/img/news_widget/newinshop_tab.jpg)}
 	
-	switch(menuToShow) {
-		case "welcome":
-			xTop  = -5;
-			break;
-		case "whatsnew":
-			xTop  = 17;
-			break;
-		case "themovies":
-			xTop = 39;
-			break;
-		case "beyondthemovies":
-			xTop = 61;
-			break;
-		case "gaming":
-			xTop = 83;
-			break;
-		case "community":
-			xTop = 105;
-			break;
-		case "kids":
-			xTop = 127;
-			break;
-		case "shop":
-			xTop = 149;
-			break;
-		case "hyperspace":
-			xTop = 169;
-			break;
-		default:
-			break;
-	}
-		xTop  += parseInt(myNavElement.offsetTop);
-		xLeft += parseInt(myNavElement.offsetLeft);
-		
-		if(typeof(frontPage) != "undefined") {
-			xTop += 207;
-			xLeft += 3;
-			if(menuToShow == "hyperspace") {
-				xTop += 2;
-			}
-		}
-				
-		myMenuElement.style.top  = xTop  + "px";
-		myMenuElement.style.left = xLeft + "px";
-}
-
-function showMenu(menuToShow) {
-	if(navActive && !is.ie5  && currentMenu != null) {
-		timeOn=null;
-		var myMenu = document.getElementById(currentMenu);
-		myMenu.style.visibility = "hidden";
-		if(currentSubMenu != null && typeof(currentSubMenu) != "undefined") {
-			document.getElementById(currentSubMenu).style.visibility = "hidden";
-			subMenu = null;
-		}
-		
-		var myMenuElement = document.getElementById(menuToShow);
-		myMenuElement.style.visibility = "visible";
-	}
-	currentMenu = menuToShow; 
-}
-
-function hideMenu() {
-	if(timeOn != null && currentMenu != null) {
-		var myMenu = document.getElementById(currentMenu);
-		myMenu.style.visibility = "hidden";
-	}
-}
-
-function changeBG(menuItem) {
-	document.getElementById(menuItem+"_bullet").style.backgroundColor = bgMenuColor;
-	document.getElementById(menuItem).style.backgroundColor = bgMenuColor;
-	switch(menuItem) {
-		case "welcome_cell_6":
-		case "whatsnew_cell_8":
-		case "themovies_cell_6":
-		case "beyondthemovies_cell_5":
-		case "gaming_cell_4":
-		case "community_cell_11":
-		case "kids_cell_4":
-		case "shop_cell_4":
-		case "hyperspace_cell_7":
-			document[menuItem+'_bottom'].src=eval("cell_bottom_high.src");
-			break;
-		default:
-			break;
-	}
-}
-
-function removeBG(menuItem) {
-	document.getElementById(menuItem+"_bullet").style.backgroundColor = "";;
-	document.getElementById(menuItem).style.backgroundColor = "";
-	switch(menuItem) {
-		case "welcome_cell_6":
-		case "whatsnew_cell_8":
-		case "themovies_cell_6":
-		case "beyondthemovies_cell_5":
-		case "gaming_cell_4":
-		case "community_cell_11":
-		case "kids_cell_4":
-		case "shop_cell_4":
-		case "hyperspace_cell_7":
-			document[menuItem+'_bottom'].src=eval("cell_bottom.src");
-			break;
-		default:
-			break;
-	}
-}
-
-function startTimer(time)
-{
-	time = 300;
-	timeOn = window.setTimeout("hideMenu()",time);
-}
-
-function stopTimer()
-{	
-	window.clearTimeout(timeOn);
-	timeOn=null;
-}
+	#newsModArrowTd {width:21px}
+	#newsModArrow {background:url(/img/news_widget/next_arrow.jpg); width:21px; height:36px}
+	#newsModArrow.nextarrowEnabled {cursor:pointer; background-position:0px -36px;}
+	#newsModContent {overflow:auto; height: 212px; background-color:#ffffff;}
+	#newsModContent a {color:#000000; font-family:Arial, Helvetica, sans-serif; display:block; text-decoration:none; min-height:53px;}
+	#newsModContent a:active {outline:none}
+	#newsModContent a:focus {outline:none}
 	
-var cell_bottom_high = new Image();
-var cell_bottom = new Image();
+	#newsModContent a:visited {color:#000000;}
+	#newsModContent a:hover {color:#ffffff; background-color:#0977ff}
+	.newsModAltRow {background-color:#e8e6e6}
+	.newsModHeadline {font-weight: bold; font-size:11px}
+	.newsModSubhead {font-size:10px}
+	.hidden	{display:none}
+	.newsModLinkTextContainer {padding:12px 15px 12px 12px;}
+</style>
+</head>
 
-
-
-window.onresize = adjustNav;
-var bgMenuColor="#C9D5EE";
-
-function adjustNav() {
-	initNav();
-	initSubNav();
-}
-</script>
-
-<script>var no_bananas = false;</script></head>
-
-
-
-	
-
-
-	
-
-<body bgcolor="#4E6292" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" alink="#4E6292" vlink="#4E6292" link="#4E6292" onload="initNav(); initSubNav();">
-<div id="aboutDrop" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position:absolute; top:0px; left:0px; visibility: hidden">
-<table border="0" cellpadding="0" cellspacing="0" width="194">
-<tbody><tr>
-	<td align="left" valign="top" width="6" bgcolor="#000000"><img src="/img/clear.gif" width="6" height="1"></td>
-	<td align="left" valign="top" width="189" background="/welcome/img/solid_back.gif">
-		<table border="0" cellpadding="0" cellspacing="0" background="/img/clear.gif">
-		<tbody><tr>
-			<td align="left" valign="top" width="188">
-			<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td align="left" valign="top" colspan="3"><img src="/img/clear.gif" width="1" height="3"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" width="26" id="about_link_1_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
-				<td align="left" valign="middle" width="154" id="about_link_1" onmouseover="changeSubBG('about_link_1')" onmouseout="removeSubBG('about_link_1')"><a href="/welcome/about/news/" class="dropLink">Site News</a></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" bgcolor="#6578A0" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" bgcolor="#B9CFFF" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" width="26" id="about_link_2_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
-				<td align="left" valign="middle" width="154" id="about_link_2" onmouseover="changeSubBG('about_link_2')" onmouseout="removeSubBG('about_link_2')"><a href="/welcome/about/sitemap/" class="dropLink">Site Map</a></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" bgcolor="#6578A0" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" bgcolor="#B9CFFF" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" width="26" id="about_link_3_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
-				<td align="left" nowrap="" valign="middle" width="154" id="about_link_3" onmouseover="changeSubBG('about_link_3')" onmouseout="removeSubBG('about_link_3')"><a href="/welcome/about/faq/" class="dropLink">Frequently Asked Questions</a></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			</tbody></table>
-			</td>
-	</tr>
-	</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td align="left" valign="bottom" colspan="3"><img src="/welcome/img/nav/bottom_about.gif" name="about_link_3_bottom"></td>
-</tr>
-</tbody></table>
+<body>
+<div align="center">
+	<div id="topBannerAdContainer">
+		<div id="topBannerAds">
+			<div class="floatLeft" style="position:relative;"><!-- BEGIN GN Ad Tag for StarWars.com 728x90 ros -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.starwars.com/ros;sect=ros;sz=728x90;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.starwars.com/ros;sect=ros;sz=728x90;tile=1;ord=8636180650626191?" type="text/javascript"></script>
+<!-- END AD TAG -->
 </div>
-<div id="membershipDrop" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position:absolute; top:0px; left:0px; visibility: hidden">
-<table border="0" cellpadding="0" cellspacing="0" width="194">
-<tbody><tr>
-	<td align="left" valign="top" width="6" bgcolor="#000000"><img src="/img/clear.gif" width="6" height="1"></td>
-	<td align="left" valign="top" width="189" background="/welcome/img/solid_back.gif">
-		<table border="0" cellpadding="0" cellspacing="0" background="/img/clear.gif">
-		<tbody><tr>
-			<td align="left" valign="top" width="188">
-			<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td align="left" valign="top" colspan="3"><img src="/img/clear.gif" width="1" height="3"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" width="26" id="membership_link_1_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
-				<td align="left" valign="middle" width="154" id="membership_link_1" onmouseover="changeSubBG('membership_link_1')" onmouseout="removeSubBG('membership_link_1')"><a href="/webapps/registration/registration" class="dropLink">Become A Member</a></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" bgcolor="#6578A0" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" bgcolor="#B9CFFF" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" width="26" id="membership_link_2_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
-				
-				<td align="left" valign="middle" width="154" id="membership_link_2" onmouseover="changeSubBG('membership_link_2')" onmouseout="removeSubBG('membership_link_2')"><a href="/webapps/registration/sign-in?forward=/welcome/" class="dropLink">Sign On</a></td>
-				
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" bgcolor="#6578A0" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" bgcolor="#B9CFFF" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" width="26" id="membership_link_3_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
-				<td align="left" nowrap="" valign="middle" width="154" id="membership_link_3" onmouseover="changeSubBG('membership_link_3')" onmouseout="removeSubBG('membership_link_3')"><a href="/webapps/registration/update-registration" class="dropLink">Your Settings</a></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" bgcolor="#6578A0" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" bgcolor="#B9CFFF" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" width="26" id="membership_link_4_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
-				<td align="left" valign="middle" width="154" id="membership_link_4" onmouseover="changeSubBG('membership_link_4')" onmouseout="removeSubBG('membership_link_4')"><a href="/webapps/registration/subscriptions" class="dropLink">Your Subscriptions</a></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" bgcolor="#6578A0" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" bgcolor="#B9CFFF" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
-				<td align="left" valign="top" width="26" id="membership_link_5_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
-				<td align="left" valign="middle" width="154" id="membership_link_5" onmouseover="changeSubBG('membership_link_5')" onmouseout="removeSubBG('membership_link_5')"><a href="http://cargobay.starwars.com/webapps/cargobay/fan-collection?type=want" class="dropLink">Your Collection</a></td>
-				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
-			</tr>
-			</tbody></table>
-			</td>
-	</tr>
-	</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td align="left" valign="bottom" colspan="3"><img src="/welcome/img/nav/bottom_about.gif" name="membership_link_5_bottom"></td>
-</tr>
-</tbody></table>
+			<div class="floatRight"><!-- BEGIN House Ad Tag for StarWars.com 238x90 Zazzle1 -->
+<a target="_blank" href="http://www.zazzle.com/starwarselection?CMPN=swref"><img src="/img/ad/zazzle1_238x90.png?rev=2" width="238" height="90" border="0"></a>
+<!-- END AD TAG -->
 </div>
-
-<map name="bimg_map">
-<area shape="rect" alt="[ Welcome ]" coords="15,0,187,19" onmouseover="showMenu('welcome')" href="/site/">
-<area shape="rect" alt="[ What's New ]" coords="15,19,187,40" onmouseover="showMenu('whatsnew')" href="/whatsnew/">
-<area shape="rect" alt="[ The Movies ]" coords="15,41,187,62" onmouseover="showMenu('themovies')" href="/themovies/">
-<area shape="rect" alt="[ Beyond the Movies ]" coords="15,63,187,85" onmouseover="showMenu('beyondthemovies')" href="/beyondthemovies/">
-<area shape="rect" alt="[ Gaming ]" coords="15,86,187,106" onmouseover="showMenu('gaming')" href="/gaming/">
-<area shape="rect" alt="[ Community ]" coords="15,107,187,128" onmouseover="showMenu('community')" href="/community/">
-<area shape="rect" alt="[ Kids ]" coords="15,129,187,150" onmouseover="showMenu('kids')" href="/kids/">
-<area shape="rect" alt="[ Shop ]" coords="15,151,186,172" onmouseover="showMenu('shop')" href="http://www.starwarsshop.com/?ReferrerID=SWCMNH-00001">
-<area shape="rect" alt="[ Hyperspace ]" coords="15,173,187,201" onmouseover="showMenu('hyperspace')" href="/hyperspace/">
-<area shape="rect" alt="[ Starwars.com ]" coords="9,14,186,41" href="/">
-</map>
-
-
-	<img src="/img/clear.gif" width="1" height="20"><br>
-
-<map name="bimg_map_sw">
-<area shape="rect" alt="[ Starwars.com ]" coords="11,12,187,46" href="/">
-</map>
-
-<table border="0" cellpadding="0" cellspacing="0" width="804" align="center">
+		</div>
+	</div>
+</div>
+<div id="mainBackground">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" summary="">
 <tbody><tr>
-	<!-- Main Table - Column 1 -->
-	<td align="left" valign="top" width="187">
-		<table border="0" cellpadding="0" cellspacing="0" background="/img/clear.gif">
-		<tbody><tr>
-			<td align="left" valign="top"><img src="/welcome/img/front/nav_image_top.jpg" border="0" usemap="#bimg_map_sw"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top"><div style="position:relative; top:0px; left:0px" id="navigation"><img src="/welcome/img/front/nav_image_bottom.jpg" border="0" usemap="#bimg_map"></div>
-		
-			
-				<img src="/welcome/img/front/nav_image_bottom_strip.gif"></td>
-			
-			
-	</tr>
-	
-	
-	
-	</tbody></table>
-	</td>
-	<td align="left" valign="top" width="617">
-	<table border="0" cellpadding="0" cellspacing="0" width="617" background="/img/clear.gif">
-	<tbody><tr>
-		<td align="right" valign="top" colspan="2" background="/welcome/img/search_area.jpg">
-		<table border="0" cellpadding="0" cellspacing="0" background="/img/clear.gif">
-		<tbody><tr>
-			<td align="left" valign="top" colspan="2"><img src="/img/clear.gif" width="1" height="14"></td>
-		</tr>
-		<tr>
-			<td align="right" valign="top" width="100%">
-			<table border="0" cellpadding="0" cellspacing="0" background="/img/clear.gif">
-				<tbody><tr><td align="left" valign="top">
-				<form method="POST" action="/search">
-				<input type="image" src="/welcome/img/search_button.gif" border="0"></form></td>
-				<td align="left" valign="middle">&nbsp;</td>
-				<td align="left" valign="middle"><input type="text" name="query" value="" size="25" maxlength="256" style="color: #000000; font-family: Arial,Helvetica,Verdana; font-weight: none; font-size: 11px; background-color: #ffffff;"></td>
-			</tr></tbody></table>
-			</td>
-			<td align="right" valign="top"><img src="/img/clear.gif" width="19" height="22"></td>
-		</tr>
-		</tbody></table>
-		</td>
-	</tr>
-	</tbody></table>
-	<table border="0" cellpadding="0" cellspacing="0" width="617" background="/img/clear.gif">
-	<tbody><tr>
-		<td align="left" valign="top" bgcolor="#00000"><img src="/img/clear.gif" width="10" height="23"></td>
-		<td align="left" valign="middle" bgcolor="#00000" width="50%" style="padding-left:4px"><div class="serviceText"><i><script language="javascript">showUserName("topPage");</script>Hello, you are not signed on.</i></div></td>
-		<td align="right" valign="middle" bgcolor="#00000" width="50%"><div class="serviceText"><script language="javascript">showServicesText("topPage", '/welcome/about/privacy_policy.html');</script><a href="/webapps/registration/sign-in?forward=/welcome/about/privacy_policy.html" class="serviceText">sign on</a> | <a href="/site/faq.html" class="serviceText">site help</a></div></td>
-		<td align="left" valign="top" width="17"><img src="/welcome/img/services_right.gif" width="17" height="23"></td>
-	</tr>
-	</tbody></table>
-	<a href="/welcome/"><img src="/welcome/img/welcome_title.gif" border="0" alt="[ Welcome ]"></a><br>
-	<table border="0" cellpadding="0" cellspacing="0" background="/img/clear.gif">
-	<tbody><tr>
-		<td align="left" valign="top" rowspan="1" colspan="2" bgcolor="#000000" style="padding-left:14px"><div style="position:relative; top:0px; left:0px" id="subNavigation"><a href="/welcome/about/" onmouseover="stopTimer();showSubMenu('aboutDrop'); swapImgOn('about')" onmouseout="onMouseOut=startTimer(null);swapImgOff('about')"><img src="/welcome/img/nav/about_off.gif" border="0" alt="[ About Starwars.com ]" name="about"></a><a href="/welcome/member/" onmouseover="stopTimer();showSubMenu('membershipDrop'); swapImgOn('membership')" onmouseout="onMouseOut=startTimer(null);swapImgOff('membership')"><img src="/welcome/img/nav/membership_off.gif" border="0" alt="[ Membership ]" name="membership"></a></div></td>
-		<td align="left" valign="top" rowspan="2"><img src="/welcome/img/nav/nav_right_content.gif"></td>
-	</tr>
-	<tr>
+<td width="50%" valign="top" class="leftAdGutter"></td>
+<td width="975" valign="top" style="background: url(/img/global/bg_main.jpg) no-repeat;">
+<div id="mainContainer">
+	<div id="topNavContainer"></div>
+	<script language="JavaScript" type="text/javascript">
+		var topNavSelected = "default";
+		var userMemberStatus = "nonmember";
+		loadTopNav();
+	</script>
+<div id="contentTopPad"></div>
+<div id="mainContent">
+<!-- BEGIN MAIN PAGE CONTENT -->
+<div class="moduleClear"><!--IE6FIX--></div>
+<div class="moduleWide floatLeft">
 
-		<td align="left" valign="top" width="10" bgcolor="#000000"><img src="/img/clear.gif" width="10" height="1"></td>
-		<td align="left" valign="top" bgcolor="#C4C4C4"><img src="/img/clear.gif" width="466" height="3"></td>
+	<h1>Privacy Policy</h1>
+<p>
+<b>Lucas Online</b>
+<b>WELCOME!</b>
 
-	</tr>
-	</tbody></table>
+</p><p></p><table align="right"><tbody><tr><td><a href="http://www.truste.org/ivalidate.php?companyName=LucasFilm%20Ltd.&amp;sealid=101" target="_blank"><img src="/img/global/clickseal_transparent.gif" align="right" border="0"></a></td></tr><tr><td><a href="http://www.truste.org/ivalidate.php?companyName=LucasFilm%20Ltd.&amp;sealid=105&amp;ctv_group=Children" target="_blank"><img src="/img/global/kidsclickseal_transparent.gif" align="right" border="0"></a></td></tr></tbody></table>We are committed to respecting the privacy rights of all visitors to our Web site. This Privacy Policy also explains the choices that you can make about the way your information is collected and used. It is available for you to review on our homepage and at least on every page where we have requested personally identifiable information, including from kids under 13. BY USING THIS WEB SITE, YOU SIGNIFY YOUR ASSENT TO THE TERMS OF THIS PRIVACY POLICY. If you do not agree with any term in this Privacy Policy, do not use this Web site.
+<p></p><p>KIDS: Please check with your parents before entering any information on this or any other Web site. See our <b>"SPECIAL NOTE TO KIDS"</b> below.
 
-
-
-
-
-
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%" background="/img/clear.gif">
-	<tbody><tr><td align="left" valign="top" width="100%">
-	<table border="0" cellpadding="0" cellspacing="0" width="617">
-		<tbody><tr><td align="left" valign="top" background="/img/gray_black.gif" width="13"><img src="/img/clear.gif" width="13" height="250"></td>
-		<td align="left" valign="top" width="604" background="/img/white.gif">
-		<table border="0" cellpadding="0" cellspacing="0" width="564" align="center" background="/img/clear.gif">
-		
-		<tbody><tr>
-			<td align="left" valign="top"><img src="/img/clear.gif" width="1" height="5"></td>
-		</tr>
-		
-		<tr>
-			<td align="left" valign="top"><div class="breadCrumb"><a href="/" class="breadCrumb">starwars.com</a> &gt; <a href="/welcome" class="breadCrumb">Welcome</a> &gt; <a href="/welcome/about" class="breadCrumb">About starwars.com</a> &gt; Privacy Policy</div></td>
-		</tr>
-		</tbody></table>
-
-		<table border="0" cellpadding="0" cellspacing="0" width="564" align="center" background="/img/clear.gif">
-		<tbody><tr>
-			<td align="left" valign="top">
-			
-			
-			
-				<br>
-				
-				<div class="docTitle">Privacy Policy</div>
-				
-			
-				<p>
-			
-			
-			
-
-			
-				</p><div class="textBody">
-				
-				<name="top"> <table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="10%" valign="top"><div class="textBody">&nbsp; </div></td><td width="80%" colspan="2" valign="top"><p></p><div class="textBody"><b>Lucas Online</b>
-<p></p><div class="textBody"><b>WELCOME!</b>
-
-<p><table align="right"><tbody><tr><td><a href="http://www.truste.org/ivalidate.php?companyName=LucasFilm%20Ltd.&amp;sealid=101" target="_blank"><img src="/img/privacy/clickseal_transparent.gif" align="right" border="0"></a></td></tr><tr><td><a href="http://www.truste.org/ivalidate.php?companyName=LucasFilm%20Ltd.&amp;sealid=105&amp;ctv_group=Children" target="_blank"><img src="/img/privacy/kidsclickseal_transparent.gif" align="right" border="0"></a></td></tr></tbody></table>We are committed to respecting the privacy rights of all visitors to our Web site. This Privacy Policy also explains the choices that you can make about the way your information is collected and used. It is available for you to review on our homepage and at least on every page where we have requested personally identifiable information, including from kids under 13. BY USING THIS WEB SITE, YOU SIGNIFY YOUR ASSENT TO THE TERMS OF THIS PRIVACY POLICY. If you do not agree with any term in this Privacy Policy, do not use this Web site.
-</p><p>KIDS: Please check with your parents before entering any information on this or any other Web site. See our <b>"SPECIAL NOTE TO KIDS"</b> below.
-
-</p><p></p><div class="textBody"><b>PARENTS:</b>
+</p><br><br><b>PARENTS:</b>
 
 <p>We are committed to protecting children's privacy. We developed this Web site to be an enjoyable experience for customers of all ages, including kids under 13. We recognize that some younger children may not understand some of the information contained on this Web site or how this Web site operates. PLEASE BE SURE TO CAUTION YOUR CHILD UNDER 13 AGAINST PROVIDING PERSONALLY IDENTIFIABLE INFORMATION ONLINE PRIOR TO THE WEB SITE OPERATOR OBTAINING YOUR CONSENT. It is our policy not to knowingly collect personally identifiable information from children under 13 without a parent's or guardian's permission. See our "SPECIAL NOTE TO PARENTS OF KIDS UNDER 13" below.
 
 </p><p>Please discuss this Privacy Policy with your children so that they will better understand how to use this Web site and the information they may be asked to provide. We strongly believe that providing our visitors with accurate and adequate notice about the Web site will lead to informed choices and decisions about how to use the Web site, as well as protecting our users' privacy.
 
-</p><p></p><div class="textBody"><b>WHAT INFORMATION DO WE COLLECT?</b>
+</p><br><br><b>WHAT INFORMATION DO WE COLLECT?</b>
 
 <p>Generally, we limit the collection of information to what is known as non-personally identifiable information (e.g., first name, age, state or country). We also collect certain types of personal information such as an email address. This information is collected so that visitors can participate in activities (such as, receiving our e-mail newsletter[s], saving game designs and scores, participating in our question polls).
 
@@ -510,35 +135,35 @@ function adjustNav() {
 </li><li>Internet Protocol (IP) Information, such as your IP address and browser type.
 </li><li>Information collected by or held in "cookies" or collected by Web beacons.
 </li></ul>
-<p></p><div class="textBody"><b>HOW DO WE USE INFORMATION?:</b>
+<br><br><b>HOW DO WE USE INFORMATION?:</b>
 
-<p></p><div class="textBody"><b>Registration:</b>
+<br><br><b>Registration:</b>
 
 <p>Our Web site's registration form requires users to give us contact information, unique identifiers, and demographic information. All registration information is submitted to us on a voluntary basis. We may also ask registered members to tell us how they found out about us. Once you register, we use customer contact information from the registration form to contact you, to send you information about our company and/or to give you updates on products and/or services. You may register on our Web site and choose not to receive information and updates by unchecking the relevant box on the registration form. KIDS, GET YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU REGISTER OR PROVIDE ANY INFORMATION.
 
-</p><p></p><div class="textBody"><b>Product Support for LucasArts visitors:</b>
+</p><br><br><b>Product Support for LucasArts visitors:</b>
 
 <p>To send an email to LucasArts Entertainment Company LLC's ("LucasArts") Technical Support team regarding a problem you encounter with a LucasArts product, we may ask you to provide our first name and email address in addition to information about the product you are having trouble with. The email you provide to LucasArts for this purpose is used only to respond to the sender's problem and is deleted as soon as the problem has been resolved.
 
-</p><p></p><div class="textBody"><b>Tell a Friend Feature:</b>
+</p><br><br><b>Tell a Friend Feature:</b>
 
 <p>Some of our sites provide you with the opportunity to email a web page to another person, whether it is a friend, family member or relative. For this feature of our site to work, we may need to collect your email address and the email address(es) of those to whom you send the Web page. The user inputted email addresses in this context are not stored or used for any other purpose other than to send your initial request.
 
-</p><p></p><div class="textBody"><b>Résumés:</b>
+</p><br><br><b>Résumés:</b>
 
 <p>Some of our sites allow for the online submission of résumés. Personal information collected from résumés is not subject to this Privacy Policy; however, the information submitted will be used solely lawfully, such as for the purpose of accepting and evaluating candidate submissions for job postings or for the purpose of sending candidates who have previously submitted résumés to us information regarding open positions that may fit their submitted information  Candidates are able to change or update their information by resubmitting their updated résumés by filling out a new online submission form.
 
-</p><p></p><div class="textBody"><b>Online Promotions:</b>
+</p><br><br><b>Online Promotions:</b>
 
 <p>We or our advertisers, licensees and/or other business partners may have special online promotions which feature products or services related to our business activities. TO PARTICIPATE IN ANY PROMOTION, YOU MUST BE 13 YEARS OR OLDER (unless otherwise specified by the promotion's rules and regulations). IF YOU ARE UNDER 13 YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN PARTICIPATE IN THIS ACTIVITY. IF YOU ARE 13 OR OLDER BUT NOT AN ADULT YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT TO COLLECT YOUR PRIZE OR RECEIVE YOUR BENEFIT. You may be asked to provide an e-mail address or screen name, so that we can let you know if you won a prize. For other promotions, we may request your name and home address in order to send you products or information by regular mail. The specific rules and regulations governing the particular promotion will vary and your participation constitutes your agreement to abide by those rules and regulations.
 
 </p><p>Certain of these promotions may be co-branded with one of our partners. For example, we may have an online promotion to apply for a credit card offer branded with one of our brands (e.g. Star Wars). In these instances  the collection of your personally identifiable information may occur directly by our third party partner on their Web site. The promotion will state the privacy policy or policies governing the collection of such information.
 
-</p><p></p><div class="textBody"><b>Online Contests and Sweepstakes:</b>
+</p><br><br><b>Online Contests and Sweepstakes:</b>
 
 <p>We or our advertisers, licensees and/or other business partners may sponsor contests or sweepstakes which may be entered online. The specific rules and regulations governing the particular contest or sweepstakes, including the applicable privacy policy, will vary and your participation constitutes your agreement to abide by those rules and regulations.
 
-</p><p></p><div class="textBody"><b>Collecting and Sharing Data:</b>
+</p><br><br><b>Collecting and Sharing Data:</b>
 
 <p>The following outlines the ways we share your information. We do not share your personally identifiable information in ways other than as described in this Privacy Policy. We sometimes collect information to find out how people found our Web site, which pages they visited, and how long they stayed. In addition, we may aggregate demographic and non-personal information you provide and use such aggregate information to better design our Web site and to improve our marketing strategy and our product offerings. If you are 13 or older, we may share this demographic and non-personal information with our advertisers, licensees and/or other business partners.
 
@@ -548,27 +173,28 @@ function adjustNav() {
 
 </p><p>Other than as explained in this policy, we may disclose personal information (including the personal information of those under 13) in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to: comply with legal processes; respond to any claims; or, protect the rights, property or personal safety of Lucasfilm Ltd., its subsidiaries and affiliates, our customers or the public. In addition, information about our customers, including, without limitation personal information regarding customers under 13, may be disclosed as part of any bankruptcy, merger, sale, transfer of company assets or acquisition. In the instance of a bankruptcy, merger, sale or transfer of company assets we will attempt to notify you. Please see our "CHANGES" section below.
 
-</p><p></p><div class="textBody"><b>Opinions:</b>
+</p><br><br><b>Opinions:</b>
 
 <p>We may ask for your opinion from time to time. You may send us questions or comments, which may require personal information for a response. However, please note that we have a policy against accepting unsolicited material, so do not submit any unsolicited or unique creative ideas, drawings or other materials, and refer to our policy on unsolicited submissions in our Terms of Use. IF YOU ARE UNDER 13, YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN PROVIDE THIS INFORMATION.
 
-</p><p></p><div class="textBody"><b>Mailing lists:</b>
+
+</p><br><br><b>Mailing lists:</b>
 
 <p>Where appropriate and if you are 13 or older, the option to allow us to share certain information with some of our promotional partners may be provided, or the option for you to elect not to have us share certain information may be provided. If you are under 13, we will not share your personal information with third parties. You always have the right to unsubscribe from any mailing lists we may maintain, or to delete personally identifiable electronic information we have collected online about you by going to the Member Services link and following the procedures described there. Parents, you can always ask us to review or delete any of your child's information and you can refuse to permit further collection and use of your child's information at any time by sending us a written request at the Contact Information below. IF YOU ARE UNDER 13, YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN PARTICIPATE IN THIS ACTIVITY. Please see the "Choice/Opt-In/Opt-Out" section below on how you can choose to opt-out of third party promotional emails if you do not wish to receive them.
 
-</p><p></p><div class="textBody"><b>E-mail and Newsletters:</b>
+</p><br><br><b>E-mail and Newsletters:</b>
 
 <p>We may offer fully interactive registered email services. We also provide fun and exciting newsletters, such as the Homing Beacon, and the Padawan Post to tell our users about all of our interesting films, licensed products and services. Our newsletters may include links to independently operated Web sites. Although we do not provide any personally identifiable information about kids under 13 to any "independently-operated Web site" (that is, a Web site not owned, controlled and operated by us), such Web Site(s) may solicit personally identifiable information from kids under 13. Please be aware that we don't control and are not responsible for their actions, privacy policy(ies) or terms of use. IF YOU ARE UNDER 13, YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN PARTICIPATE IN EITHER OF THESE ACTIVITIES.
 
-</p><p></p><div class="textBody"><b>Forums/Blogs/Bulletin Boards/Chat Rooms:</b>
+</p><br><br><b>Forums/Blogs/Bulletin Boards/Chat Rooms:</b>
 
 <p>If you use a forum, Blog, bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these activities or  forums.
 
-</p><p></p><div class="textBody"><b>Purchasing Items:</b>
+</p><br><br><b>Purchasing Items:</b>
 
 <p>Purchasing items from various online stores may require the giving of personally identifiable information (such as, name, credit card information). Information collected in this manner will be used consistent with this Privacy Policy.
 
-</p><p></p><div class="textBody"><b>Information Collected by Cookies and other Automated Processes:</b>
+</p><br><br><b>Information Collected by Cookies and other Automated Processes:</b>
 
 <p>We use a software technology called "cookies" to collect non-personally identifiable information. Cookies are pieces of information that we may place on your computer to help "personalize" your visit to the Web site and to allow you to enter our Web site without having to remember and enter any special passwords. For example, a "cookie" will allow us to remember certain things about you, such as your screen name, to track visitor scores or to help you keep track of where you left off in a game. "Cookies" may include the type of browser software you use to access the Internet (i.e. Internet Explorer, Netscape 3.0,), type of operating system (i.e. Windows 95, Mac, etc.), and/or the domain name of your Internet service provider. There are two types of cookies that may be used on our Web site: a persistent cookie and a session cookie. A persistent cookie gets entered by your Web browser into the "Cookies" folder on your computer and remains in this "Cookies" folder after you close your browser. Persistent cookies may be used by your browser on subsequent visits to our Web Site. A session cookie is held temporarily in your computer's memory and disappears after you close your browser or shut off your computer. Our Website may also use Web beacons in conjunction with cookies. Web beacons are small strings of code that are placed in a Web page, (sometimes referred to as "1x1 clear pixel," "Web beacon" or "clear GIF") in the pages of our Web site in order to gather additional statistical site usage information.
 
@@ -576,30 +202,30 @@ function adjustNav() {
 
 </p><p>We may use third-party companies to serve ads or analyze behavior patterns when you visit our Web site. These companies may place or provide ads (such as banner ads) on this Web site that might also place cookies. These companies may use information (not including your name, address, email address or telephone number) about your visit to our Web site in order to help us improve our user experience and/or provide advertisements about goods and services that may be of interest to you. In the course of providing these services or placing these ads, these third-party companies may place or recognize a unique "cookie" on your computer and each of these companies uses this cookie information according to their own privacy and security policies. You can find and evaluate these companies at the end of this Privacy Policy as 'Appendix A,' and we will keep this list updated or you can access this information by <a href="/welcome/about/privacy_policy_a.html">clicking here</a>. If you would like more information about this practice and to learn your choices about limiting third party access to such information, <a href="/webapps/registration/feedback/">click here</a>.
 
-</p><p></p><div class="textBody"><b>Choice/Opt-In/Opt-Out:</b>
+</p><br><br><b>Choice/Opt-In/Opt-Out:</b>
 
 <p>If you are 13 or older, you could receive communications from us or from third parties. In that case, you may: (1) opt-out of receiving communications from us by selecting or deselecting the optional e-mail from us on the "Your Account" page to control the messages you receive from us; and/or (2) opt-in or opt-out of receiving communications from third-party sponsors or promotional partners at the time of registration. If you elect to receive these communications, we will transmit the information that you provide to this third party. Note, however, that each third party is governed by a different privacy policy and may have a different method than our Web site to opt-out of future communications.
 
-</p><p></p><div class="textBody"><b>IP Address and Machine Type:</b>
+</p><br><br><b>IP Address and Machine Type:</b>
 
 <p>An IP address is a number automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you request a page from our Web site, our servers log your IP address. An IP address does not contain personally identifiable information. Except with respect to our e-commerce activities (e.g., on-line purchases), we do not link IP addresses with personally identifiable information. We may use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. We may also collect information about your browser software and/or machine type (e.g., Windows, Mac, Unix, etc.).
 
-</p><p></p><div class="textBody"><b>Links:</b>
+</p><br><br><b>Links:</b>
 
 <p>We do present links to the Web sites of other parties. IF YOU ARE UNDER 13, GET YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE LINKING TO OTHER WEB SITES. Independently operated Web sites are not associated with or authorized by us, even if they have links leading to this Web site. We are not responsible for any content appearing on Web sites linked to or from our Web site, or for any personal information gathered at those independently operated Web sites.
 
-</p><p></p><div class="textBody"><b>Bumper Pages:</b>
+</p><br><br><b>Bumper Pages:</b>
 
 <p>We sometimes provide a "bumper page" when linking from our Web site to an independently-operated Web site, which lets you know you are going to an independently-operated Web site and reminds children not to give out information online without their parent's permission.
 
-</p><p></p><div class="textBody"><b>International Visitors and Customers:</b>
+</p><br><br><b>International Visitors and Customers:</b>
 
 <p>This Web site is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to:
 </p><ul>
 <li>the use of your personal data for the purposes identified above in accordance with this Privacy Policy; and
 </li><li>the transfer of your personal data to the United States as indicated above.
 </li></ul>
-<p></p><div class="textBody"><b>Data Integrity and Security:</b>
+<br><br><b>Data Integrity and Security:</b>
 
 <p>We take reasonable precautions to keep your personal information secure. We have put in place physical, electronic, and managerial procedures to safeguard the confidentiality and integrity of the information we collect. The information is stored on computer servers which are separate from other corporate information and systems. We have and will continue to take reasonable measures to assure the security and accuracy of all information our visitors share with us. Our efforts include procedures designed to avoid any unauthorized access, alteration, misuse or disclosure of personally identifiable information.
 
@@ -607,24 +233,24 @@ function adjustNav() {
 
 </p><p>If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this Web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. We may post a notice on our Web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the starwars.com Web site. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us by <a href="/webapps/registration/feedback/">clicking here</a> to submit your request.
 
-</p><p></p><div class="textBody"><b> CHANGES:</b>
+</p><br><br><b> CHANGES:</b>
 
-<p></p><div class="textBody"><b>Changes in this Privacy Policy:</b><br>
+<br><br><b>Changes in this Privacy Policy:</b><br>
 If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy here and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 <p>We reserve the right to modify this Privacy Policy at any time, so please review it frequently. For registered users, if we make material changes to how we use personally identifiable information we will attempt to notify you by email so that you may make a choice to how your information is used. For children who are registered users, if we desire to change our use of personally identifiable information collected from children under age 13, we will obtain parental consent prior to implementing such changes. If we do not receive such consent we will not use the child's personally identifiably information in the new manner.
 
-</p><p></p><div class="textBody"><b>Your changes:</b>
+</p><br><br><b>Your changes:</b>
 
 <p>This Web site gives users options for changing and modifying information previously provided. If you are a registered visitor, you are welcome to view, change or delete your registration information at any time, or to update the contact information we have for you or to inform us that you do not want to receive new product or other information from us. Simply go to the registration page of this Web site. When the welcome screen appears, you can click on "delete or add" or, if available, you can click the "Update Profile" link to update your information. Kids under 13 cannot change registration information, only the parent or guardian can do that. Parents should follow the procedure that they used to enable their child's registration to review, change, or delete any registration information at any time. Parents, you can always ask us to review or delete any of your child's information and you can refuse to permit further collection or use of your child's information at any time by sending us a written request at the Contact Information below.
 
-</p><p></p><div class="textBody"><b>SPECIAL NOTE TO KIDS:</b>
+</p><br><br><b>SPECIAL NOTE TO KIDS:</b>
 
 <p>If you are under 13 years old, ask your parent or guardian BEFORE giving out any information about yourself, such as your name, age, address or e-mail address. You do not have to give any personal information about yourself. Remember, if you are under 13 you must have your parent or guardian make any changes to information given to us in the past or to update your profile. If you are ever unsure about anything you are seeing on this Web site, ask your parent or guardian for help. If you are 13 years or older, you may have the ability to participate in online contests or sweepstakes, e-mail other users or post messages on portions of this Web site. In the event that you do post messages on this Web site, remember that other users of this Web site may have access to your e-mail address and user name. However, if you participate in online contests, sweepstakes or promotions, you cannot collect any prizes without your parent's or guardian's consent.
 
 </p><p>If you are under 13, we may knowingly collect your email address, which is personally identifiable information, with your parent's permission. We currently use your email address information in order to send one or more newsletters to you as approved by your parent(s). In addition, following receipt of your parent's permission we collect your screen name. WE STRONGLY ENCOURAGE YOU TO CREATE A SCREEN NAME WHICH DOES NOT INCLUDE ANY PERSONAL INFORMATION.
 </p><p>
-</p><p></p><div class="textBody"><b>SPECIAL NOTE TO PARENTS OF KIDS UNDER 13:</b>
+</p><br><br><b>SPECIAL NOTE TO PARENTS OF KIDS UNDER 13:</b>
 
 <p>We may collect the online contact information in order to obtain parental consent from parents of kids under 13 and/or to provide parental notice by providing a link to this Privacy Policy wherever we have requested personally identifiable information from kids under 13. If a visitor indicates that he/she is under the age of 13, he/she will be asked to supply a parent's or guardian's e-mail address. In this case, the parent or guardian will receive an e-mail message containing instructions on how to enable the child's registration and until the parent or guardian enables the child's registration, the account is disabled. If we do not receive the parent's or guardian's said consent within a reasonable time, we delete this information from our records. If and when we have obtained consent from a parent, we only ask for and collect from a kid under 13 personally identifiable information that is reasonably necessary for that kid to participate in any given activity online. We also may collect this information to respond to a specific request from a kid under 13. Once we respond to a request from a kid under 13, we may not contact that child again and the information is deleted from our records. We take very seriously the safety of children, especially those under 13 and may also collect this information to protect that safety. If we do collect information to protect the safety of your child, we provide notice to you and we do not use that information for any other purpose. You can always ask us to review or delete any of your child's information and you can refuse to permit further collection or use of your child's information at any time by sending us a written request at the Contact Information below. However, if you ask us to delete your child's information that is necessary to participate in our activities, we may have to ask your child not to participate in our activities.
 
@@ -634,23 +260,25 @@ If we decide to change our Privacy Policy, we will post those changes to this Pr
 </p><p>
 Lucas Online<br>
 One Letterman Drive<br>
+
 P.O. Box 29901<br>
 San Francisco, CA 94129-0901<br>
 Attn: Webmaster<br>
 (415) 623-1113<br>
-<a href="mailto: webmaster@starwars.com">webmaster@starwars.com</a>
+<a href="mailto:webmaster@starwars.com">webmaster@starwars.com</a>
 </p><p>
 Or <a href="/webapps/registration/feedback/">click here</a> to submit your question or request online.
 
 </p><p>We are a licensee of the TRUSTe Web and Children's Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. As a TRUSTe licensee, we have agreed to disclose our information practices at this website and have our privacy practices at this website reviewed for compliance by TRUSTe. Because our Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. Our Web site complies with the TRUSTe Children's Privacy Program, which has been approved by the Federal Trade Commission as an authorized safe harbor under the Children's Online Privacy Protection Rule. You can learn more about the TRUSTe Children's Privacy Program by <a href="http://www.truste.org/ivalidate.php?companyName=LucasFilm%20Ltd.&amp;sealid=105&amp;ctv_group=Children" target="_blank">clicking here</a>.
 
+
 </p><p>The TRUSTe Children's Online Privacy Seal Program covers only personally identifiable information that is collected through the Web sites listed below, and does not cover Personal Information that may be collected through software downloaded from this Web site.
 
-</p><p></p><div class="textBody"><b>To What Web sites does this Privacy Policy Apply?</b>
+</p><br><br><b>To What Web sites does this Privacy Policy Apply?</b>
 
 <p>The terms of this Privacy Policy apply to all information submitted on the following Web sites: www.starwars.com, www.ilm.com, www.lucasfilm.com, www.lucaslearning.com, and www.skysound.com and not to information that may be submitted to us offline. In addition, the terms shall only apply to Web sites owned and operated by Lucasfilm Ltd. or any of its affiliated, subsidiary or related corporate entities (such as Lucasfilm Ltd., Lucas Licensing Ltd., Lucas Online, Lucas Digital Ltd. LLC, LucasArts, Lucas Learning Ltd., ILM, Skywalker Sound), as well as to some of our selected corporate partners and licensees who have agreed to abide by our Privacy Policy. It does not otherwise apply to any independently operated Web sites, for which separate privacy policies and terms of use shall apply. Finally, since this Privacy Policy is intended to protect individuals.
 </p><p>
-</p><p></p><div class="textBody"><b>CONTACT INFORMATION:</b>
+</p><br><br><b>CONTACT INFORMATION:</b>
 
 <p>We hope you have a better understanding of our commitment to protect privacy. If you have any questions or comments about anything in this Privacy Policy, please contact us at the following address:
 If you wish to review, correct or delete information that Lucasfilm may have about you or your child, or wish to inform us that you do not permit further collection or use of your child's information, please contact us at the following address:
@@ -658,10 +286,11 @@ If you wish to review, correct or delete information that Lucasfilm may have abo
 Lucas Online<br>
 One Letterman Drive<br>
 P.O. Box 29901<br>
+
 San Francisco, CA 94129-0901<br>
 Attn: Webmaster<br>
 (415) 623-1113<br>
-<a href="mailto: webmaster@starwars.com">webmaster@starwars.com</a>
+<a href="mailto:webmaster@starwars.com">webmaster@starwars.com</a>
 
 </p><p>Or <a href="/webapps/registration/feedback/">click here</a> to submit your questions online.
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact the TRUSTe Watchdog Dispute Resolution Program at:
@@ -669,877 +298,408 @@ If you do not receive acknowledgement of your inquiry or your inquiry has not be
 
 </p><p>TRUSTe will serve as a liaison with our Website to resolve your concerns.
 For additional information about our Web site, please see our <a href="/welcome/about/copyright.html">Terms of Use</a>.
-To see our third party service providers and/or partners or operators who may collect cookies from this website, please view the Privacy Policy: Appendix A, by <a href="/welcome/about/privacy_policy_a.html">clicking here</a>.
+To see our third party service providers and/or partners or operators who may collect cookies from this website, please view the Privacy Policy: Appendix A, by <a href="/privacy/index_a.html">clicking here</a>.
 Thanks. Have fun! <a href="#top">Back to start</a> of Our Privacy Policy.
+
 
 </p><p>© <script>var curDate=new Date(); document.write(curDate.getFullYear())</script>2020 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved.
 
-</p><p>Effective Date: 03/05/07
-</p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></td> <td width="10%" valign="top">&nbsp;</td></tr>    <tr><td colspan="4" align="left"></td></tr>    </tbody></table>
-				
-				</name="top"></div>
-				
-			
-			
-			</td>
-		</tr>
-		<tr>
-			<td align="left" valign="top"><img src="/img/clear.gif" width="1" height="12"></td>
-		</tr>
-		</tbody></table>
-		</td>
-		<td align="left" valign="top" bgcolor="#000000" width="10"><img src="/img/clear.gif" width="10" height="1"></td>
-		<td align="left" valign="top" bgcolor="#3A496D" width="4"><img src="/img/clear.gif" width="4" height="1"></td>
-	</tr></tbody></table>
+</p><p>Effective Date: 03/05/07</p>
 
-<map name="content_bottom_map">
-<area shape="rect" alt="[ Discuss This ]" coords="469,9,588,26" href="http://forums.starwars.com/">
+</div>
+<div class="moduleNarrow floatRight">
+<!-- BEGIN GN Ad Tag for StarWars.com 300x250 ros -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.starwars.com/ros;sect=ros;sz=300x250;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.starwars.com/ros;sect=ros;sz=300x250;tile=2;ord=8636180650626191?" type="text/javascript"></script>
+<!-- END AD TAG -->
+	<div class="moduleClear"><!-- --></div>
+	<div id="newsMod">
+		<div id="newsModNav">
+			<table border="0" cellpadding="0" cellspacing="0" summary="layout table">
+				<tbody><tr>
+					<td><ul id="newsModNavList">
+							<li id="newsModTab1" onclick="loadNewsModContent(this)" class="selected" style="display: block;"></li>
+							<li id="newsModTab2" onclick="loadNewsModContent(this)" class="" style="display: block;"></li>
+							<li id="newsModTab3" onclick="loadNewsModContent(this)" class="" style="display: block;"></li>
+							<li id="newsModTab4" onclick="loadNewsModContent(this)" class="" style="display: none;"></li>
+					</ul></td>
+					<td id="newsModArrowTd"><div id="newsModArrow" class="nextarrowEnabled"></div></td>
+				</tr>
+			</tbody></table>
+		</div>
+		<div id="newsModContent">
+					<a href="http://www.hollywoodreporter.com/hr/content_display/news/e3ie36ce5eb50d8af307996f8c028781947&#10;" target="_blank">
+						<div class="newsModLinkTextContainer" style="padding: 15px;">						
+							<div class="newsModHeadline">15 Films in VFX Oscar Shortlist</div>
+							<div class="newsModSubhead">ILM represented, of course.</div>
+						</div>								
+					</a>
+					<a href="http://www.mirror.co.uk/news/top-stories/2008/12/15/star-wars-lightsaber-banned-by-woolworths-for-looking-like-a-gun-115875-20972700/&#10;" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer" style="padding: 12px 15px 12px 12px;">						
+							<div class="newsModHeadline">Lightsabers Banned? For Looking Clumsy and Random?</div>
+							<div class="newsModSubhead">If this was Fark.com, we'd use Nanny State in our headline; from Mirror.co.uk</div>
+						</div>								
+					</a>
+					<a href="http://latimesblogs.latimes.com/herocomplex/2008/12/near-dark.html&#10;" target="_blank">
+						<div class="newsModLinkTextContainer" style="padding: 15px;">						
+							<div class="newsModHeadline">Hero Complex: <i>Star Wars</i> On Stage</div>
+							<div class="newsModSubhead">From the <i>L.A. Times</i> Blog</div>
+						</div>								
+					</a>
+					<a href="http://magazine.wsj.com/wsj-today-magazine/higher-learning-an-encyclopedic-round-up/print/%5C%22http:/magazine.wsj.com/blog-landing-page/%5C%22/%5C%22http:/magazine.wsj.com/blog-landing-page/%5C%22/&#10;" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer" style="padding: 15px;">						
+							<div class="newsModHeadline">Higher Learning: An Encyclopedic Round Up</div>
+							<div class="newsModSubhead">From the <i>Wall Street Journal</i> Magazine</div>
+						</div>								
+					</a>
+					<a href="http://spoilertv.blogspot.com/2008/12/tv-guide-sci-fi-preview-scans.html" target="_blank">
+						<div class="newsModLinkTextContainer" style="padding: 15px;">						
+							<div class="newsModHeadline"><i>Trek</i> Legend to Appear on <i>Clone Wars</i>?</div>
+							<div class="newsModSubhead">Scans of TV Guide Sci-Fi Preview Reveal Guest Spot</div>
+						</div>								
+					</a>
+					<a href="http://news.bbc.co.uk/2/hi/entertainment/7779011.stm&#10;" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer" style="padding: 15px;">						
+							<div class="newsModHeadline"><i>Star Wars</i> to become stage show</div>
+							<div class="newsModSubhead">According to BBC</div>
+						</div>								
+					</a>
+					<a href="http://www.ew.com/ew/gallery/0,,20209564_20209584_20244464,00.html" target="_blank">
+						<div class="newsModLinkTextContainer" style="padding: 15px;">						
+							<div class="newsModHeadline">EW: The Must List</div>
+							<div class="newsModSubhead">Featuring <i>The Complete Encyclopedia</i></div>
+						</div>								
+					</a>
+					<a href="http://www.greatfallstribune.com/article/20081210/LIFESTYLE/812100307/1024/rss04" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer" style="padding: 15px;">						
+							<div class="newsModHeadline">'Robot Chicken' Soars in 4th Season</div>
+							<div class="newsModSubhead">From Great Falls Tribune.com</div>
+						</div>								
+					</a>
+					<a href="http://www.usatoday.com/life/people/2008-12-09-carrie-fisher_N.htm?csp=34&#10;" target="_blank">
+						<div class="newsModLinkTextContainer" style="padding: 15px;">						
+							<div class="newsModHeadline">Carrie Fisher Keeps a Dry Sense of Humor</div>
+							<div class="newsModSubhead">From USA Today</div>
+						</div>								
+					</a>
+					<a href="http://www.variety.com/article/VR1117997097.html?categoryid=3251&amp;cs=1&amp;nid=2564&#10;" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer" style="padding: 15px;">						
+							<div class="newsModHeadline">Pixar Promotes Sound Guru to Star</div>
+							<div class="newsModSubhead">Variety features Ben Burtt</div>
+						</div>								
+					</a>
+			</div>
+			<div id="newsModContent1" class="hidden">
+					<a href="http://www.hollywoodreporter.com/hr/content_display/news/e3ie36ce5eb50d8af307996f8c028781947&#10;" target="_blank">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">15 Films in VFX Oscar Shortlist</div>
+							<div class="newsModSubhead">ILM represented, of course.</div>
+						</div>								
+					</a>
+					<a href="http://www.mirror.co.uk/news/top-stories/2008/12/15/star-wars-lightsaber-banned-by-woolworths-for-looking-like-a-gun-115875-20972700/&#10;" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Lightsabers Banned? For Looking Clumsy and Random?</div>
+							<div class="newsModSubhead">If this was Fark.com, we'd use Nanny State in our headline; from Mirror.co.uk</div>
+						</div>								
+					</a>
+					<a href="http://latimesblogs.latimes.com/herocomplex/2008/12/near-dark.html&#10;" target="_blank">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Hero Complex: <i>Star Wars</i> On Stage</div>
+							<div class="newsModSubhead">From the <i>L.A. Times</i> Blog</div>
+						</div>								
+					</a>
+					<a href="http://magazine.wsj.com/wsj-today-magazine/higher-learning-an-encyclopedic-round-up/print/%5C%22http:/magazine.wsj.com/blog-landing-page/%5C%22/%5C%22http:/magazine.wsj.com/blog-landing-page/%5C%22/&#10;" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Higher Learning: An Encyclopedic Round Up</div>
+							<div class="newsModSubhead">From the <i>Wall Street Journal</i> Magazine</div>
+						</div>								
+					</a>
+					<a href="http://spoilertv.blogspot.com/2008/12/tv-guide-sci-fi-preview-scans.html" target="_blank">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline"><i>Trek</i> Legend to Appear on <i>Clone Wars</i>?</div>
+							<div class="newsModSubhead">Scans of TV Guide Sci-Fi Preview Reveal Guest Spot</div>
+						</div>								
+					</a>
+					<a href="http://news.bbc.co.uk/2/hi/entertainment/7779011.stm&#10;" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline"><i>Star Wars</i> to become stage show</div>
+							<div class="newsModSubhead">According to BBC</div>
+						</div>								
+					</a>
+					<a href="http://www.ew.com/ew/gallery/0,,20209564_20209584_20244464,00.html" target="_blank">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">EW: The Must List</div>
+							<div class="newsModSubhead">Featuring <i>The Complete Encyclopedia</i></div>
+						</div>								
+					</a>
+					<a href="http://www.greatfallstribune.com/article/20081210/LIFESTYLE/812100307/1024/rss04" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">'Robot Chicken' Soars in 4th Season</div>
+							<div class="newsModSubhead">From Great Falls Tribune.com</div>
+						</div>								
+					</a>
+					<a href="http://www.usatoday.com/life/people/2008-12-09-carrie-fisher_N.htm?csp=34&#10;" target="_blank">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Carrie Fisher Keeps a Dry Sense of Humor</div>
+							<div class="newsModSubhead">From USA Today</div>
+						</div>								
+					</a>
+					<a href="http://www.variety.com/article/VR1117997097.html?categoryid=3251&amp;cs=1&amp;nid=2564&#10;" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Pixar Promotes Sound Guru to Star</div>
+							<div class="newsModSubhead">Variety features Ben Burtt</div>
+						</div>								
+					</a>
+			</div>
+			<div id="newsModContent2" class="hidden">
+					<a href="http://spoilertv.blogspot.com/2008/12/tv-guide-sci-fi-preview-scans.html" target="_blank">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline"><i>Trek</i> Legend to Appear on <i>Clone Wars</i>?</div>
+							<div class="newsModSubhead">Scans of TV Guide Sci-Fi Preview Reveal Guest Spot</div>
+						</div>								
+					</a>
+					<a href="&#10;http://www.channelnewsasia.com/stories/entertainment/view/393937/1/.html" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Animated <i>Star Wars</i> Series Makes Asian Debut</div>
+							<div class="newsModSubhead">From Channel News Asia.com</div>
+						</div>								
+					</a>
+					<a href="&#10;http://www.motortrend.com/auto_shows/coverage/los_angeles/112_2008_los_angeles_auto_show_coverage/photo_49.html&#10;" target="_blank">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">A Clone Concept Car?</div>
+							<div class="newsModSubhead">Looks an awful lot like one, from Motortrend.com</div>
+						</div>								
+					</a>
+					<a href="&#10;http://www.examiner.com/x-1729-Dallas-Family-Activities-Examiner~y2008m11d27-Top-ten-toys-for-boys&#10;" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Top Toys for Boys</div>
+							<div class="newsModSubhead">Clone helmet represents on list from Examiner</div>
+						</div>								
+					</a>
+					<a href="&#10;http://www.news.com.au/couriermail/story/0,23739,24671069-7642,00.html&#10;" target="_blank">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">George Lucas puts focus on TV</div>
+							<div class="newsModSubhead">From Australia's Courier Mail</div>
+						</div>								
+					</a>
+					<a href="http://blog.wired.com/geekdad/2008/11/commader-cody-a.html&#10;" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Commander Cody and the Lost <i>Clone Wars</i> Airmen</div>
+							<div class="newsModSubhead">Wired.com's Blog bridges several generations</div>
+						</div>								
+					</a>
+					<a href="http://www.news.com.au/perthnow/story/0,21598,24647398-5005382,00.html" target="_blank">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline"><i>Clone Wars</i>: Back in Force</div>
+							<div class="newsModSubhead">From Perth Now</div>
+						</div>								
+					</a>
+					<a href="http://www.kewego.co.uk/video/iLyROoafYlSS.html" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline"><i>Clone Wars</i> Behind the Scenes</div>
+							<div class="newsModSubhead">Behind-the-Scenes Video from the UK</div>
+						</div>								
+					</a>
+					<a href="http://www.nydailynews.com/entertainment/tv/2008/11/14/2008-11-14_clone_wars_animated_series_balances_ligh.html&#10;&#10;&#10;&#10;&#10;" target="_blank">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline"><i>Clone Wars</i> Balances Light and Dark Side</div>
+							<div class="newsModSubhead">Read it for yourself in the NY Daily News</div>
+						</div>								
+					</a>
+					<a href="http://www.whattheyplay.com/products/star-wars-the-clone-wars-lightsaber-duels-for-wii/&#10;&#10;&#10;&#10;" target="_blank" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline"><i>Clone Wars: Lightsaber Duels</i> Write-Up</div>
+							<div class="newsModSubhead">From WhatTheyPlay.com</div>
+						</div>								
+					</a>
+			</div>
+			<div id="newsModContent3" class="hidden">
+					<a href="/theclonewars/guide/episode009.html" target="">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">"Cloak of Darkness" Episode Guide</div>
+							<div class="newsModSubhead">Complete guide to episode #9</div>
+						</div>								
+					</a>
+					<a href="/clonewars/comic/index.html" target="" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline"><i>Clone Wars</i> Online Comic</div>
+							<div class="newsModSubhead">Read the stories between the episodes</div>
+						</div>								
+					</a>
+					<a href="/kids/do/crafts/f20081124.html" target="">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Kids: Make a Bantha</div>
+							<div class="newsModSubhead">You can name him Cuddles.</div>
+						</div>								
+					</a>
+					<a href="/games/videogames/tfudlc20081204.html" target="" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">TFU Downloadable Content</div>
+							<div class="newsModSubhead">New missions, new locales, new characters...</div>
+						</div>								
+					</a>
+					<a href="/vault/books/news20081203.html" target="">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline"><i>The Complete Encyclopedia</i> Spreads</div>
+							<div class="newsModSubhead">A look inside the massive book</div>
+						</div>								
+					</a>
+					<a href="/kids/do/draw/f20081125/index.html" target="" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Kids: Draw EG-05</div>
+							<div class="newsModSubhead">A step-by-step guide</div>
+						</div>								
+					</a>
+					<a href="/games/videogames/news20081202.html" target="">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline"><i>Star Wars Galaxies</i> TCG Expansion</div>
+							<div class="newsModSubhead">Introducing "Squadrons Over Corellia"</div>
+						</div>								
+					</a>
+					<a href="/movies/saga/20081117a.html" target="" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Happy 30th, Holiday Special!</div>
+							<div class="newsModSubhead">The forgotten TV special turns 30 years old</div>
+						</div>								
+					</a>
+			</div>
+			<div id="newsModContent4" class="hidden">
+					<a href="http://shop.starwars.com/catalog/product.xml?product_id=1308614;category_id=336;pcid1=;pcid2=&#10;&amp;rid=SWTAB" target="">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline"><i>Rogue Leaders</i>: The Story of LucasArts</div>
+							<div class="newsModSubhead">From Chronicle Books</div>
+						</div>								
+					</a>
+					<a href="http://shop.starwars.com/catalog/product.xml?product_id=1308486;category_id=336;pcid1=;pcid2=&amp;rid=SWTAB" target="" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Gray Comics Toddler/Infant T-shirt</div>
+							<div class="newsModSubhead">From Junk Food Clothing</div>
+						</div>								
+					</a>
+					<a href="http://shop.starwars.com/catalog/product.xml?product_id=1308478;category_id=336;pcid1=;pcid2=&amp;rid=SWTAB" target="">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Brown Comics Men's T-shirt</div>
+							<div class="newsModSubhead">From Junk Food Clothing</div>
+						</div>								
+					</a>
+					<a href="http://shop.starwars.com/catalog/product.xml?product_id=1308470;category_id=336;pcid1=;pcid2=&amp;rid=SWTAB" target="" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Join the Green Side Vader T-shirt</div>
+							<div class="newsModSubhead">From Junk Food Clothing</div>
+						</div>								
+					</a>
+					<a href="http://shop.starwars.com/catalog/product.xml?product_id=1305482;category_id=336;pcid1=;pcid2=&#10;&amp;rid=SWTAB" target="">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline"><i>Clone Wars</i> Digital Camera Kit</div>
+							<div class="newsModSubhead">From Sakar</div>
+						</div>								
+					</a>
+					<a href="http://shop.starwars.com/catalog/product.xml?product_id=1308334;category_id=336;pcid1=;pcid2=&amp;rid=SWTAB" target="" class="newsModAltRow">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline">Real Masks Magnet Collection #1</div>
+							<div class="newsModSubhead">From Artbox Entertainment</div>
+						</div>								
+					</a>
+					<a href="http://shop.starwars.com/catalog/product.xml?product_id=1308326;category_id=336;pcid1=;pcid2=&amp;rid=SWTAB" target="">
+						<div class="newsModLinkTextContainer">						
+							<div class="newsModHeadline"><i>Clone Wars</i> Action Figures 2009 Wave 2</div>
+							<div class="newsModSubhead">From Hasbro</div>
+						</div>								
+					</a>
+			</div>
+	</div>
+	<div class="moduleClear"><!-- --></div>
+	<div id="newsLetterSignup">
+		<div id="newsLetterText">Newsletter sign up!</div>
+		<div id="newLetterSubmitContainer">
+			<form action="/webapps/registration/quick.action" method="POST" id="newsLetterSubmitForm" name="beaconsignup">
+			<input type="text" name="email" class="newsLetterInput">
+			<input type="hidden" name="subscribe" value="star_wars_newsletter" checked="">
+			<input type="image" src="/img/global/submit_button.png" name="Submit" class="newsLetterSubmit" align="absmiddle">
+			<div class="clear"><!-- --></div>
+			</form>
+		</div>
+		<div id="newsLetterTextSmall">Enter your email here and receive exclusive Star Wars updates</div>
+	</div>
+	<div class="moduleClear"><!-- --></div>
+	<div id="tcwAd"><script type="text/javascript">showCwAd();</script></div>
+	<div class="moduleClear"><!-- --></div>
+<!-- BEGIN GN Ad Tag for StarWars.com 300x250,300x600 ros -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.starwars.com/ros;sect=ros;sz=300x250,300x600;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.starwars.com/ros;sect=ros;sz=300x250,300x600;tile=3;ord=8636180650626191?" type="text/javascript"></script>
+<!-- END AD TAG -->
+</div>
+<div class="moduleClear"><!--IE6FIX--></div>
+	<div class="clear"><!-- --></div>
+	<div id="sitemapMod" style="background-image: url(&quot;/img/sitemap/bg20.jpg&quot;);">
+		<div class="video">
+			<div class="worldTitle"><a href="/video/">Video</a></div>
+			<div class="catTitle"><a href="/video/view/0025">Clone Wars</a><br><a href="/video/view/new.html">New</a><br><a href="/video/view/popular.html">Most Popular</a><br><a href="/video/view/0000">Exclusives</a><br><a href="/video/view/0001">Humor / Pop Culture</a><br><a href="/video/view/0002">Fan Movies</a><br><a href="/video/view/0003">Behind-the-Scenes</a><br><a href="/video/view/0004">All Videos</a></div>
+		</div>
+		<div class="games">
+			<div class="worldTitle"><a href="/games/">Games</a></div>
+			<div class="catTitle"><a target="_blank" href="/kids/">Play Now</a><br><a href="/games/othergames/">Other Games</a><br><a href="/games/videogames/">Video Games</a><br><a target="_blank" href="http://www.lucasarts.com/games/theforceunleashed/">The Force Unleashed</a><br><a target="_blank" href="http://www.lucasarts.com/games/legoindianajones/">LEGO: Indiana Jones</a><br><a target="_blank" href="http://www.lucasarts.com/games/theclonewars/">Star Wars: The Clone Wars</a><br><a target="_blank" href="http://www.lucasarts.com/games/fracture/">Fracture</a><br><a target="_blank" href="http://starwarsgalaxies.station.sony.com">Star Wars Galaxies</a></div>
+		</div>
+		<div class="movies">
+			<div class="worldTitle"><a href="/movies/">Movies</a></div>
+			<div class="catTitle"><a href="/movies/episode-i/">Episode I: The Phantom Menace</a><br><a href="/movies/episode-ii/">Episode II: Attack of the Clones</a><br><a href="/movies/episode-iii/">Episode III: Revenge of the Sith</a><br><a href="/movies/episode-iv/">Episode IV: A New Hope</a><br><a href="/movies/episode-v/">Episode V: The Empire Strikes Back</a><br><a href="/movies/episode-vi/">Episode VI: Return of the Jedi</a><br><a href="/movies/other/">Other Lucasfilm Movies</a><br><a href="/clonewars/">Star Wars: The Clone Wars</a></div>
+		</div>
+		<div class="fans">
+			<div class="worldTitle"><a href="/fans/">Fans</a></div>
+			<div class="catTitle"><a href="http://blogs.starwars.com/">Blogs</a><br><a href="http://forums.starwars.com/">Message Boards</a><br><a href="/fans/news/">Event News</a><br><a href="/fans/media/">Media News</a><br><a href="/fans/rocks/">Star Wars Rocks</a><br><a href="/fans/profiles/">Fan Profiles</a><br><a href="/fans/hyperspace/">Hyperspace</a></div>
+		</div>
+		<div class="kids">
+			<div class="worldTitle"><a href="/kids/">Kids</a></div>
+			<div class="catTitle"><a href="/kids/do/">Stuff to Do</a><br> <a href="/kids/read/">Stuff to Read</a><br><a target="_blank" href="/kids/do/colorbot/">ColorBot</a><br><a href="javascript:gamePop('/games/playnow/sharpshooter/index.html?kids=1', 1005, 790)">Sharpshooter</a>
+			</div>
+		</div>
+		<div class="vault">
+			<div class="worldTitle"><a href="/vault/">Vault</a></div>
+			<div class="catTitle"><a href="/vault/collecting/">Collecting</a><br><a href="/vault/books/">Books</a><br><a href="/vault/databank/">Databank</a><br></div>
+		</div>
+		<div class="archives">
+			<a href="/sitemap/"><img src="/img/sitemap/sitemap_full.png" border="0"></a><img src="/img/sitemap/sitemap_sep.png" border="0"><a href="/archives/index.html?c=MISC"><img src="/img/sitemap/sitemap_archives.png" border="0"></a>
+		</div>
+	</div>
+	<div class="clear"><!-- --></div>
+<div class="moduleClear"><!-- --></div>
 
-	<area shape="rect" alt="[ Email This ]" coords="369,9,461,26" href="javascript:doMail('Welcome');">
 
-</map>
-
-<table border="0" cellpadding="0" cellspacing="0">
-<!--300x250AD-->
-
-
-<!--300x250AD-->
-<tbody><tr>
-	<td align="left" valign="top" colspan="3"><img src="/welcome/img/content/content_generic_bottom.gif" border="0" usemap="#content_bottom_map"></td>
-</tr>
-</tbody></table>
+<!-- END MAIN PAGE CONTENT -->
+</div>
+<!-- BEGIN MAIN FOOTER -->
+<div id="pageFooter">
+	<div id="footerLogo"></div>
+	<div id="footerContainer">
+		<div id="footerText">TM &amp; © Lucasfilm Ltd. <script>var curDate=new Date(); document.write(curDate.getFullYear())</script>2020. All rights reserved. | <a class="footer" href="/terms/">Terms of Use</a> | <a class="footer" href="/privacy/">Privacy Policy</a> | <a class="footer" href="/privacy/index_a.html">Business inquiries</a></div>
+	</div>
+</div>
+<!-- END MAIN FOOTER -->
+</div>
 </td>
+<td width="50%" valign="top" class="rightAdGutter"></td>
 </tr></tbody></table>
-
-
-
-
-
-
-
-
-	
-
-
-
-
-	
-
-
-
-
-	<img src="/img/clear.gif" width="1" height="13"><br>
-	<center>
-		<div class="copyRightText">© Lucasfilm <script>var curDate=new Date(); document.write(curDate.getFullYear())</script>2020. All rights reserved. | <a href="/welcome/about/copyright.html" class="copyrightLink">Terms of Use</a> | <a href="/welcome/about/privacy_policy.html" class="copyrightLink">Privacy Policy</a> | <a href="/welcome/about/privacy_policy_a.html" class="copyrightLink">Business inquiries</a></div>
-		<img src="/welcome//img/lol_footer.gif">
-	</center>
-	<!-- START Nielsen//NetRatings Measurement V5.1 -->
-	<!-- COPYRIGHT 2004 Nielsen//NetRatings Limited -->
-	<script language="JavaScript" type="text/javascript">
-	<!--
+</div>
+<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
+<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
+<script type="text/javascript">
 	var _rsCI="us-lucasarts";
 	var _rsCG="starwars";
-	var _rsDT=0;
-	var _rsDU=0;
-	var _rsDO=0;
-	var _rsX6=0;
-	var _rsSI=escape(window.location);
-	var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
-	var _rsRP=escape(document.referrer);
-	var _rsND=_rsLP+'//secure-us.imrworldwide.com/';
-	if (parseInt(navigator.appVersion)>=4)
-	{
-	var _rsRD=(new Date()).getTime();
+	var _rsDN="//secure-us.imrworldwide.com/";
+	var _rsPLfl=0;
 	var _rsSE=1;
-	var _rsSV="";
-	var _rsSM=1;
-	_rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v51.js"><\/scr'+'ipt>';
-	}
-	else
-	{
-	_rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
-	}
-	document.write(_rsCL);
-	//-->
-	</script><script language="JavaScript" type="text/javascript" src="https://secure-us.imrworldwide.com/v51.js"></script>
-	<noscript>
-	<img src="http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-lucasarts&amp;cg=starwars"  />
-	</noscript>
-<!-- END Nielsen//NetRatings Measurement V5.1 -->
- </td>
-
-
- </tr>
-</tbody></table>
-
-
-
-	
-	
-		<script>drop_path = '/welcome/img/';</script>
-
-
-
-	
-
-
-
-<div id="welcome" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 31px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top"><a href="/welcome/"><img src="/welcome/img/dropdowns/welcome/welcome.gif" border="0" alt="[ Welcome ]"></a></td>
-	</tr>
-	<tr>
-		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
-	</tr>
-	</tbody></table>
-	</td><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
-		<td align="left" valign="top" width="223" bgcolor="#93AADC">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td align="left" valign="top" colspan="2" background="/welcome/img/dropdowns/bar.gif"><img src="/img/clear.gif" width="1" height="6"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="middle" colspan="2" background="/welcome/img/dropdowns/bar.gif"><div class="nav_userText">&nbsp;&nbsp;&nbsp;<script language="javascript">showUserName("site_nav");</script>Hello, you are not signed on.</div></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2" background="/welcome/img/dropdowns/bar.gif"><img src="/img/clear.gif" width="1" height="4"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="welcome_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="welcome_cell_1" onmouseover="changeBG('welcome_cell_1')" onmouseout="removeBG('welcome_cell_1')"><script>if(loggedIn) document.write('<a href="/webapps/registration/sign-out"'); else document.write('<a href="/webapps/registration/sign-in"');</script><a href="/webapps/registration/sign-in" class="dropLink"><script>if(loggedIn) document.write('Sign Off'); else document.write('Become A Member');</script>Become A Member</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="welcome_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="welcome_cell_2" onmouseover="changeBG('welcome_cell_2')" onmouseout="removeBG('welcome_cell_2')"><script>if(loggedIn) document.write('<a href="/webapps/registration/update-registration"'); else document.write('<a href="/webapps/registration/sign-in"');</script><a href="/webapps/registration/sign-in" class="dropLink"><script>if(loggedIn) document.write('Your Settings'); else document.write('Sign On');</script>Sign On</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="welcome_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="welcome_cell_3" onmouseover="changeBG('welcome_cell_3')" onmouseout="removeBG('welcome_cell_3')"><script>if(loggedIn) document.write('<a href="http://cargobay.starwars.com/webapps/cargobay/fan-collection?type=want"'); else document.write('<a href="/webapps/registration/forgot-password"');</script><a href="/webapps/registration/forgot-password" class="dropLink"><script>if(loggedIn) document.write('Your Collection'); else document.write('Forgot Your Password?');</script>Forgot Your Password?</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="welcome_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="welcome_cell_4" onmouseover="changeBG('welcome_cell_4')" onmouseout="removeBG('welcome_cell_4')"><a href="/welcome/about/news/" class="dropLink">Site News</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="welcome_cell_5_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="welcome_cell_5" onmouseover="changeBG('welcome_cell_5')" onmouseout="removeBG('welcome_cell_5')"><a href="/welcome/about/sitemap/" class="dropLink">Site Map</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="welcome_cell_6_bullet"><img src="/welcome/img/dropdowns/bullet_square_bottom.gif"></td>
-			<td align="left" valign="middle" width="193" id="welcome_cell_6" onmouseover="changeBG('welcome_cell_6')" onmouseout="removeBG('welcome_cell_6')"><img src="/img/clear.gif" width="1" height="4"><br><a href="/welcome/about/faq/" class="dropLink">Frequently Asked Questions</a></td>
-		</tr>
-		</tbody></table>
-		</td>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="welcome_cell_6_bottom"></td>
-	</tr>
-	</tbody></table>
-	</td>
-
-</tr></tbody></table>
-</div>
-<div id="whatsnew" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 53px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top"><a href="/whatsnew/"><img src="/welcome/img/dropdowns/whatsnew/whatsnew.gif" border="0" alt="[ What's New ]"></a></td>
-	</tr>
-	<tr>
-		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
-	</tr>
-	</tbody></table>
-	</td><td align="left" valign="top">
-			<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
-		<td align="left" valign="top" width="223">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td align="left" valign="middle" colspan="2" background="/welcome/img/dropdowns/whatsnew/back.gif">
-			<table border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td align="left" valign="top" colspan="6"><img src="/img/clear.gif" width="1" height="9"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><img src="/img/clear.gif" width="9" height="1"></td>
-				<td align="left" valign="top"><a href="/community/event/celebration/news20080528.html"><img src="/community/event/celebration/img/20080528_story.gif" border="0" width="77" height="44"></a></td>
-				<td align="left" valign="top" width="10">&nbsp;</td>
-				<td align="left" valign="middle"><a href="/community/event/celebration/news20080528.html" class="navStory">Mark Hamill and Anthony Daniels at Celebration Japan!</a></td>
-				<td align="left" valign="top" width="10">&nbsp;</td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" colspan="6"><img src="/img/clear.gif" width="1" height="9"></td>
-			</tr>
-			</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" bgcolor="#93AADC">
-			<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" id="whatsnew_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-				<td align="left" valign="middle" width="193" id="whatsnew_cell_1" onmouseover="changeBG('whatsnew_cell_1')" onmouseout="removeBG('whatsnew_cell_1')"><a href="/kids/activity/draw/comicbooks.html" class="dropLink">You Can Draw <i>Star Wars</i>: Com...</a></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" id="whatsnew_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-				<td align="left" valign="middle" width="193" id="whatsnew_cell_2" onmouseover="changeBG('whatsnew_cell_2')" onmouseout="removeBG('whatsnew_cell_2')"><a href="/collecting/news/misc/news20080529.html" class="dropLink">New Treasures at IndianaJon...</a></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" id="whatsnew_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-				<td align="left" valign="middle" width="193" id="whatsnew_cell_3" onmouseover="changeBG('whatsnew_cell_3')" onmouseout="removeBG('whatsnew_cell_3')"><a href="/collecting/news/misc/news20080529b.html" class="dropLink">2008 <i>Star Wars</i> Weekends Mer...</a></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" id="whatsnew_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-				<td align="left" valign="middle" width="193" id="whatsnew_cell_4" onmouseover="changeBG('whatsnew_cell_4')" onmouseout="removeBG('whatsnew_cell_4')"><a href="/community/news/rocks/news20080529.html" class="dropLink">Tatooine Idol: Blake Lewis</a></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" id="whatsnew_cell_5_bullet"><img src="/welcome/img/dropdowns/bullet_hyperspace.gif"></td>
-				<td align="left" valign="middle" width="193" id="whatsnew_cell_5" onmouseover="changeBG('whatsnew_cell_5')" onmouseout="removeBG('whatsnew_cell_5')"><a href="javascript:hsTease('/hyperspace/member/about/news/news20080529.html')" class="dropLink">Download <i>Bantha Tracks</i> Onli...</a></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" id="whatsnew_cell_6_bullet"><img src="/welcome/img/dropdowns/bullet_hyperspace.gif"></td>
-				<td align="left" valign="middle" width="193" id="whatsnew_cell_6" onmouseover="changeBG('whatsnew_cell_6')" onmouseout="removeBG('whatsnew_cell_6')"><a href="/hyperspace/member/webstrips" class="dropLink">Daily <i>Star Wars</i> Webstrips</a></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" id="whatsnew_cell_7_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-				<td align="left" valign="middle" width="193" id="whatsnew_cell_7" onmouseover="changeBG('whatsnew_cell_7')" onmouseout="removeBG('whatsnew_cell_7')"><a href="/whatsnew/" class="dropLink">All latest updates</a></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top" id="whatsnew_cell_8_bullet"><img src="/welcome/img/dropdowns/bullet_square_bottom.gif"></td>
-				<td align="left" valign="bottom" width="193" id="whatsnew_cell_8" onmouseover="changeBG('whatsnew_cell_8')" onmouseout="removeBG('whatsnew_cell_8')"><a href="/data/headlines.xml" class="dropLink">RSS / XML Headline Feed</a></td>
-			</tr>
-			</tbody></table>
-			</td>
-		</tr>
-		</tbody></table>
-
-		</td>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="whatsnew_cell_8_bottom"></td>
-	</tr>
-	</tbody></table>
-	</td>
-	</tr></tbody></table>
-
-
-</div>
-<div id="themovies" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 75px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top"><a href="/themovies/"><img src="/welcome/img/dropdowns/themovies/themovies.gif" border="0" alt="[ The Movies ]"></a></td>
-	</tr>
-	<tr>
-		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
-	</tr>
-	</tbody></table>
-	</td><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
-		<td align="left" valign="top" width="223" bgcolor="#93AADC">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td align="left" valign="top" id="themovies_cell_7_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="themovies_cell_7" onmouseover="changeBG('themovies_cell_7')" onmouseout="removeBG('themovies_cell_7')"><a href="/theclonewars/" class="dropLink"><i>Star Wars</i>: The Clone Wars</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="themovies_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="themovies_cell_1" onmouseover="changeBG('themovies_cell_1')" onmouseout="removeBG('themovies_cell_1')"><a href="/episode-i/" class="dropLink">Episode I: The	Phantom Menace</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="themovies_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="themovies_cell_2" onmouseover="changeBG('themovies_cell_2')" onmouseout="removeBG('themovies_cell_2')"><a href="/episode-ii/" class="dropLink">Episode II: Attack of the Clones</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="themovies_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="themovies_cell_3" onmouseover="changeBG('themovies_cell_3')" onmouseout="removeBG('themovies_cell_3')"><a href="/episode-iii/" class="dropLink">Episode III: Revenge of the Sith</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="themovies_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="themovies_cell_4" onmouseover="changeBG('themovies_cell_4')" onmouseout="removeBG('themovies_cell_4')"><a href="/episode-iv/" class="dropLink">Episode IV: A New Hope</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="themovies_cell_5_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="themovies_cell_5" onmouseover="changeBG('themovies_cell_5')" onmouseout="removeBG('themovies_cell_5')"><a href="/episode-v/" class="dropLink">Episode V: The Empire Strikes Back</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="themovies_cell_6_bullet"><img src="/welcome/img/dropdowns/bullet_square_bottom.gif"></td>
-			<td align="left" valign="middle" width="193" id="themovies_cell_6" onmouseover="changeBG('themovies_cell_6')" onmouseout="removeBG('themovies_cell_6')"><img src="/img/clear.gif" width="1" height="4"><br><a href="/episode-vi/" class="dropLink">Episode VI: Return of the Jedi</a></td>
-		</tr>
-		</tbody></table>
-		</td>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="themovies_cell_6_bottom"></td>
-	</tr>
-	</tbody></table>
-	</td>
-
-</tr></tbody></table>
-</div>
-<div id="beyondthemovies" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 97px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top"><a href="/beyondthemovies/"><img src="/welcome/img/dropdowns/beyondthemovies/beyondthemovies.gif" border="0" alt="[ Beyond the Movies ]"></a></td>
-	</tr>
-	<tr>
-		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
-	</tr>
-	</tbody></table>
-	</td><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
-		<td align="left" valign="top" width="223" bgcolor="#93AADC">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td align="left" valign="top" id="beyondthemovies_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="beyondthemovies_cell_1" onmouseover="changeBG('beyondthemovies_cell_1')" onmouseout="removeBG('beyondthemovies_cell_1')"><a href="/theclonewars/" class="dropLink"><i>Star Wars</i>: The Clone Wars</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="beyondthemovies_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="beyondthemovies_cell_2" onmouseover="changeBG('beyondthemovies_cell_2')" onmouseout="removeBG('beyondthemovies_cell_2')"><a href="/databank/" class="dropLink">Databank</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="beyondthemovies_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="beyondthemovies_cell_3" onmouseover="changeBG('beyondthemovies_cell_3')" onmouseout="removeBG('beyondthemovies_cell_3')"><a href="/eu/" class="dropLink">Expanded Universe</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="beyondthemovies_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="beyondthemovies_cell_4" onmouseover="changeBG('beyondthemovies_cell_4')" onmouseout="removeBG('beyondthemovies_cell_4')"><a href="/collecting/" class="dropLink">Collecting</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="beyondthemovies_cell_5_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="beyondthemovies_cell_5" onmouseover="changeBG('beyondthemovies_cell_5')" onmouseout="removeBG('beyondthemovies_cell_5')"><a href="http://cargobay.starwars.com" class="dropLink">Collector's Database</a></td>
-		</tr>
-		</tbody></table>
-		</td>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="beyondthemovies_cell_5_bottom"></td>
-	</tr>
-	</tbody></table>
-	</td>
-
-</tr></tbody></table>
-</div>
-<div id="gaming" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 119px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top"><a href="/gaming/"><img src="/welcome/img/dropdowns/gaming/gaming.gif" border="0" alt="[ Gaming ]"></a></td>
-	</tr>
-	<tr>
-		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
-	</tr>
-	</tbody></table>
-	</td><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
-		<td align="left" valign="top" width="223" bgcolor="#93AADC">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td align="left" valign="top" id="gaming_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="gaming_cell_1" onmouseover="changeBG('gaming_cell_1')" onmouseout="removeBG('gaming_cell_1')"><a href="/gaming/videogames/news/" class="dropLink">Video Games</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="gaming_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="gaming_cell_2" onmouseover="changeBG('gaming_cell_2')" onmouseout="removeBG('gaming_cell_2')"><a href="/gaming/other/rpg/" class="dropLink">Roleplaying Game</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="gaming_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="gaming_cell_3" onmouseover="changeBG('gaming_cell_3')" onmouseout="removeBG('gaming_cell_3')"><a href="/gaming/other/tcg/" class="dropLink">Trading Card Game</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="gaming_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square_bottom.gif"></td>
-			<td align="left" valign="middle" width="193" id="gaming_cell_4" onmouseover="changeBG('gaming_cell_4')" onmouseout="removeBG('gaming_cell_4')"><img src="/img/clear.gif" width="1" height="4"><br><a href="/gaming/other/misc/" class="dropLink">Other Games and Puzzles</a></td>
-		</tr>
-		</tbody></table>
-		</td>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="gaming_cell_4_bottom"></td>
-	</tr>
-	</tbody></table>
-	</td>
-
-</tr></tbody></table>
-</div>
-<div id="community" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 141px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top"><a href="/community/"><img src="/welcome/img/dropdowns/community/community.gif" border="0" alt="[ Community ]"></a></td>
-	</tr>
-	<tr>
-		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
-	</tr>
-	</tbody></table>
-	</td><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
-		<td align="left" valign="top" width="223" bgcolor="#93AADC">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td align="left" valign="top" id="community_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="community_cell_1" onmouseover="changeBG('community_cell_1')" onmouseout="removeBG('community_cell_1')"><a href="/community/" class="dropLink">News &amp; Events</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="community_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="community_cell_2" onmouseover="changeBG('community_cell_2')" onmouseout="removeBG('community_cell_2')"><a href="/community/fanclub/mag/" class="dropLink">Fan Clubs</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="community_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="community_cell_3" onmouseover="changeBG('community_cell_3')" onmouseout="removeBG('community_cell_3')"><a href="http://forums.starwars.com" class="dropLink">Message Boards</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="community_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="community_cell_4" onmouseover="changeBG('community_cell_4')" onmouseout="removeBG('community_cell_4')"><a href="http://blogs.starwars.com" class="dropLink">Blogs</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="community_cell_5_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="community_cell_5" onmouseover="changeBG('community_cell_5')" onmouseout="removeBG('community_cell_5')"><a href="/community/fun/polls/" class="dropLink">Polls</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="community_cell_6_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-				<td align="left" valign="middle" width="193" id="community_cell_6" onmouseover="changeBG('community_cell_6')" onmouseout="removeBG('community_cell_6')"><a href="javascript:popSWQA('/qa/')" class="dropLink">Questions and Answers</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="community_cell_7_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-				<td align="left" valign="middle" width="193" id="community_cell_7" onmouseover="changeBG('community_cell_7')" onmouseout="removeBG('community_cell_7')"><a href="/community/fun/photomasher/" class="dropLink">Photo Masher</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="community_cell_8_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="community_cell_8" onmouseover="changeBG('community_cell_8')" onmouseout="removeBG('community_cell_8')"><a href="/community/fun/caption/" class="dropLink">Photo Captions</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="community_cell_9_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="community_cell_9" onmouseover="changeBG('community_cell_9')" onmouseout="removeBG('community_cell_9')"><a href="/community/fun/fanfilm/" class="dropLink">Fan Films</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="community_cell_10_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="community_cell_10" onmouseover="changeBG('community_cell_10')" onmouseout="removeBG('community_cell_10')"><a href="/community/fun/mashup/" class="dropLink"><i>Star Wars</i> MashUps</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="community_cell_11_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="community_cell_11" onmouseover="changeBG('community_cell_11')" onmouseout="removeBG('community_cell_11')"><a href="/community/fun/web/" class="dropLink">Webmaster Tools</a></td>
-		</tr>
-		</tbody></table>
-		</td>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="community_cell_11_bottom"></td>
-	</tr>
-	</tbody></table>
-	</td>
-
-</tr></tbody></table>
-</div>
-<div id="kids" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 163px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top"><a href="/kids/"><img src="/welcome/img/dropdowns/kids/kids.gif" border="0" alt="[ Kids ]"></a></td>
-	</tr>
-	<tr>
-		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
-	</tr>
-	</tbody></table>
-	</td><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
-		<td align="left" valign="top" width="223" bgcolor="#93AADC">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td align="left" valign="top" id="kids_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="kids_cell_1" onmouseover="changeBG('kids_cell_1')" onmouseout="removeBG('kids_cell_1')"><a href="/kids/" class="dropLink">Kids Home</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="kids_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="kids_cell_2" onmouseover="changeBG('kids_cell_2')" onmouseout="removeBG('kids_cell_2')"><a href="/kids/explore/" class="dropLink">Explore <i>Star Wars</i></a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="kids_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="kids_cell_3" onmouseover="changeBG('kids_cell_3')" onmouseout="removeBG('kids_cell_3')"><a href="/kids/activity/" class="dropLink">Activities</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="kids_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="kids_cell_4" onmouseover="changeBG('kids_cell_4')" onmouseout="removeBG('kids_cell_4')"><a href="/kids/games/" class="dropLink">Games</a></td>
-		</tr>
-		</tbody></table>
-		</td>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="kids_cell_4_bottom"></td>
-	</tr>
-	</tbody></table>
-	</td>
-
-</tr></tbody></table>
-</div>
-
-<div id="shop" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 185px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top"><a href="http://www.starwarsshop.com/?rid=SWCMTP00001"><img src="/welcome/img/dropdowns/shop/shop.gif" border="0" alt="[ Shop ]"></a></td>
-	</tr>
-	<tr>
-		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
-	</tr>
-	</tbody></table>
-	</td><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
-		<td align="left" valign="top" width="223" bgcolor="#93AADC">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td align="left" valign="top" id="shop_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="shop_cell_1" onmouseover="changeBG('shop_cell_1')" onmouseout="removeBG('shop_cell_1')"><a href="http://www.starwarsshop.com/?rid=SWLFTNAVH" class="dropLink">Shop Home</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="shop_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="shop_cell_2" onmouseover="changeBG('shop_cell_2')" onmouseout="removeBG('shop_cell_2')"><a href="/collecting/shop/shopnews/" class="dropLink">Shop News</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-
-		<tr>
-			<td align="left" valign="top" id="shop_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="shop_cell_3" onmouseover="changeBG('shop_cell_3')" onmouseout="removeBG('shop_cell_3')"><a href="http://shop.starwars.com/catalog/category.xml?category_id=334&amp;rid=SWLFTNAVEX" class="dropLink">Exclusives</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="shop_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="shop_cell_4" onmouseover="changeBG('shop_cell_4')" onmouseout="removeBG('shop_cell_4')"><a href="http://shop.starwars.com/catalog/category.xml?category_id=336&amp;rid=SWLFTNAVNR" class="dropLink">New Releases</a></td>
-		</tr>
-		</tbody></table>
-		</td>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="shop_cell_4_bottom"></td>
-	</tr>
-	</tbody></table>
-	</td>
-
-</tr></tbody></table>
-</div>
-
-<div id="hyperspace" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 205px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top"><a href="javascript:playHSSound()"><img src="/welcome/img/dropdowns/hyperspace/hyperspace.gif" border="0" alt="[ Hyperspace ]"></a></td>
-	</tr>
-	<tr>
-		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
-	</tr>
-	</tbody></table>
-	</td><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" width="6" background="/welcome/img//dropdowns/left_stretch.gif"><img src="/welcome/img//dropdowns/hyperspace/left_top.gif"></td>
-		<td align="left" valign="top" width="223" bgcolor="#93AADC">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td align="left" valign="top" id="hyperspace_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="hyperspace_cell_1" onmouseover="changeBG('hyperspace_cell_1')" onmouseout="removeBG('hyperspace_cell_1')"><a href="/hyperspace/" class="dropLink">Hyperspace Latest Updates</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="hyperspace_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="hyperspace_cell_2" onmouseover="changeBG('hyperspace_cell_2')" onmouseout="removeBG('hyperspace_cell_2')"><a href="/hyperspace/member/" class="dropLink">Exclusive Content</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="hyperspace_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="hyperspace_cell_3" onmouseover="changeBG('hyperspace_cell_3')" onmouseout="removeBG('hyperspace_cell_3')"><a href="/hyperspace/extra/" class="dropLink">Member Extras</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="hyperspace_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="hyperspace_cell_4" onmouseover="changeBG('hyperspace_cell_4')" onmouseout="removeBG('hyperspace_cell_4')"><a href="/hyperspace/about/faq.html" class="dropLink">What is the Fan Club?</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="hyperspace_cell_5_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="hyperspace_cell_5" onmouseover="changeBG('hyperspace_cell_5')" onmouseout="removeBG('hyperspace_cell_5')"><a href="/fanclub/" class="dropLink">Subscribe Now</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="hyperspace_cell_6_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
-			<td align="left" valign="middle" width="193" id="hyperspace_cell_6" onmouseover="changeBG('hyperspace_cell_6')" onmouseout="removeBG('hyperspace_cell_6')"><a href="/webapps/registration/subscription-management" class="dropLink">Enter Hyperspace Access Code</a></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" id="hyperspace_cell_7_bullet"><img src="/welcome/img/dropdowns/bullet_square_bottom.gif"></td>
-			<td align="left" valign="middle" width="193" id="hyperspace_cell_7" onmouseover="changeBG('hyperspace_cell_7')" onmouseout="removeBG('hyperspace_cell_7')"><img src="/img/clear.gif" width="1" height="4"><br><a href="javascript:doTour()" class="dropLink">Take a Tour</a></td>
-		</tr>
-		</tbody></table>
-		</td>
-		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="hyperspace_cell_7_bottom"></td>
-	</tr>
-	</tbody></table>
-	</td>
-
-</tr></tbody></table>
-</div>
-<div id="hsSound" style="position:absolute; visibility: hidden">
-<script language="javascript">
-
-	var hsSound = "homepageClickSound";
-
-	function playHSSound()
-	{
-		// Start new movie
-		movieToPlay = eval("window.document." + hsSound);				// Set Variable
-		if(typeof(movieToPlay) != "undefined")
-			movieToPlay.TGotoFrame('/', 3);									// Play Movie
-
-		setTimeout("sendToHyperspace()", 2100);
-	}
-
-	function sendToHyperspace() {
-		window.location="/hyperspace";
-	}
-
-var pluginWeWant = 5;
-var weCanPlay = false;
-var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
-
-if ( plugin ) {
-		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
-	    for (var i = 0; i < words.length; ++i)
-	    {
-		if (isNaN(parseInt(words[i])))
-		continue;
-		var pluginVersion = words[i];
-	    }
-		if(pluginVersion >= 5) { weCanPlay = true; } else { weCanPlay = false; }
-}
-else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
-   && (navigator.appVersion.indexOf("Win") != -1) && !is.opera) {
-	document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
-	document.write('on error resume next \n');
-	document.write('weCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & 5)))\n');
-	document.write('</SCR' + 'IPT\> \n');
-}
-if ( weCanPlay ) {
-
-	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="5" HEIGHT="5" id="homepageClickSound" ALIGN=""> <PARAM NAME=movie VALUE="/meta/rd/homepageClickSound.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF> <EMBED src="/meta/rd/homepageClickSound.swf" quality=high bgcolor=#FFFFFF  WIDTH="5" HEIGHT="5" NAME="homepageClickSound" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer" swLiveconnect=true></EMBED></OBJECT>');
-}
+	var _rsSM=1.0;
+	var _rsCL=1;
 </script>
+<script type="text/javascript" src="//secure-us.imrworldwide.com/v53.js"></script>
+<noscript>
+	<div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-lucasarts&amp;cg=starwars&cc=1" alt=""/></div>
+</noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
 
 
-
-
-<p>&nbsp;<br>
-<!-- Start Tacoda -->
-<script language="JavaScript">var tcdacmd="dt";</script>
-<script src="http://an.tacoda.net/an/14521/slf.js" language="JavaScript"></script>
-<!-- End Tacoda -->
-
-
-
-
-
-
-</p></div></body></html>
+</body></html>
