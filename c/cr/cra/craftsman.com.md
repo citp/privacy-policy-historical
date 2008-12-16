@@ -1,96 +1,113 @@
-> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615134452id_/http%3A//www.sears.com/shc/s/nb_10153_12605_NB_CSprivacy%3FadCell%3DAF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160805id_/http%3A//www.sears.com/shc/s/nb_10153_12605_NB_CSprivacy%3FadCell%3DAF) for the most accurate reproduction.*
 
-# Buy Craftsman Tools | Fitness Equipment | Kenmore Home Appliances | Lawn & Garden Equipment | Sears.com - Where It All Begins
+# Craftsman Tools, Fitness Equipment, Kenmore Appliances, Lawn & Garden - Sears.com
 
-  * Sears.com Privacy Policy
-  * What type of information does sears.com collect? 
-  * What information do we share and with whom?
-  * Does sears.com use cookies?
-  * Can I disable these cookies?
-  * Does sears.com use advertising networks?
-  * How does sears.com handle personally identifiable information collected on children?
-  * Can I "opt out" of receiving promotional e-mails from sears.com?
-  * How can I access my sears.com information?
-  * Will I receive notice of changes to the Privacy Policy?
+**Effective September 8, 2008:**
+
+  * SEARS Privacy Policy
+  * What Type of Information Does Sears Collect? 
+  * What Information Does Sears Share and with Whom?
+  * Can I Disable Cookies?
+  * How Does Sears Handle Personally Identifiable Information Collected on Children?
+  * What About Links to Other Websites?
+  * What About Advertisements from Third Parties?
+  * Is My Information Secure?
+  * How Can I Access My Information?
+  * Can I “Opt-Out” of Receiving Promotional E-mails from Sears.com?
+  * Will I Receive Notice of Changes to the Privacy Policy?
 
 
 
-**Every transaction on sears.com is secure. For more security policy information and tips on identifying e-mail fraud (phishing scams),[click here](http://www.sears.com/shc/s/nb_10153_12605_NB_CSsecure?adCell=A4). **
+SEARS Privacy Policy
 
-Sears.com Privacy Policy
+The Sears Website (“Sears” or Sears.com) wants to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place in order to protect it. If you have additional questions or would like further information on this topic, please feel free to write to our Webmaster at [webmaster@customerservice.sears.com](mailto:webmaster@customerservice.sears.com). **Please note that Sears’ affiliate Lands’ End will continue to maintain its own privacy policy. You may view Lands’ End’s privacy policy by[clicking here](http://www.landsend.com/customerservice/services_policies/PS_privacy.html):**
 
-We value the trust you place in Sears, Roebuck and Co. ("Sears") and the companies which Sears owns and operates ("affiliates"). We want to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place in order to protect it. If you have additional questions or would like further information on this topic, please feel free to write to our Webmaster at [webmaster@customerservice.sears.com](mailto:webmaster@customerservice.sears.com). Sears.com may update this policy from time to time. Please check our policy periodically for changes. **Please note that while Sears acquired Lands' End as an affiliate, Lands' End will continue to maintain its own privacy policy. You may view Lands' End's privacy policy by clicking here:[landsend.com privacy policy](http://www.landsend.com/cd/fp/help/0,,1_36877_36883_36979___,00.html).**
+Sears may update this policy from time to time. Please check our policy periodically for changes. Your use of Sears.com, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Service and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law.
 
-Back to top
-
-What type of information does sears.com collect?
-
-Sears.com gathers customer information needed to provide superior service, communicate offers on merchandise and services which we believe will be of interest to you, and to administer our business. In order to best serve you, we may gather information from you in a few instances. 
-
-First, when you visit our site, we may collect non-personally identifiable information from you. Through the use of computer "cookies" we collect data, such as your IP address, browser type, domain name, and specific Sears web pages through which you click. This data is collected automatically and utilized to help us look for trends so that we can improve our website and your sears.com experience and present you with personalized offers and promotions. Additional information regarding computer cookies and how to disable them is described below. 
-
-Second, we may ask you to voluntarily provide information in a few circumstances. When you purchase items from sears.com, we will ask you to voluntarily provide certain personally identifiable information, such as, your name, address, telephone number, e-mail address, and credit card number. We need this information to process and fulfill your order, notify you of order status and provide personalized customer interaction with you. Other examples of when we may ask you to voluntarily provide personally identifiable information include if you subscribe to our email program (information such as your name and e-mail address), choose to provide us preference information (such as interests, product preferences, and items purchased), or when you enter a sweepstakes or one of our promotions (information such as name, address and telephone number). 
-
-Additionally, in order to provide you with goods and services designed to meet your needs, we may collect demographic information (such as number of household members, age, and gender), purchase preference information, and mailing lists from third parties. We use this information to customize your experience on our website and to provide you with the most relevant products and services. 
+The Sears Website is a general audience site and does not knowingly collect personally identifiable information from children under 18 years of age.
 
 Back to top
 
-Sears.com does not rent or sell customer information to outside marketers. We may share your information (as described above) with members of the Sears family of businesses to provide you with products or services that you have requested or to provide you with promotional offers that we believe will be of interest to you. The Sears family of businesses includes all Sears affiliates as well as other selected businesses with which Sears has a relationship and which have agreed to adhere to our strict standards for providing quality products and services, responding to your needs, and protecting Sears' customer information. 
+What Type of Information Does Sears Collect?
 
-In certain circumstances, sears.com may share your customer information with trusted service providers that need access to your information to provide operational or other support services. To ensure the confidentiality and security of your information, service providers must agree to safeguard your information in strict compliance with our policy. Additionally, when you apply for a Sears credit card on-line, Sears may share information about your application with credit bureaus. We also may provide information to regulatory authorities and law enforcement officials in accordance with applicable law or when we otherwise believe in good faith that the law requires it. In the event of a sale of all or part of one of our businesses, we may share customer information related to that business as part of the transaction. 
+Sears collects personally identifiable information (for example, your full name, email address, mailing address, telephone number, or credit card number II from you when you voluntarily submit the information to us when you purchase items from Sears. We need this information in order to process and fulfill your order and to notify you of your order status, in order to register as a member of Sears or when you purchase items from Sears. Sears may also collect PII from you if you choose to participate in Sears activities like subscribe to our email program, or participate in sweepstakes, contests, and surveys, or in connection with content or suggestions you post on Sears. 
 
-Back to top
+Sears collects non-personally identifiable information (for example, interests, hobbies, lifestyle choices, groups with whom you are affiliated on-PPI from you when you choose to provide or post non-PII information on Sears.
 
-Does sears.com use cookies?
+Sears also collects non-PPI from you by means of Cookies. Cookies are small bits of information that Sears places on your computer. Sears uses cookies to identify your IP address, browser type, domain name, and specific web pages through which you click. This data is collected automatically and utilized to help Sears look for trends to improve our website and your Sears experience. The cookies allow Sears to recognize you when you return to the Website and to provide you with a customized experience that Sears feels will be of value to you. The cookies that are configured by Sears do not contain any personally identifying information, such as your name, or sensitive information, such as your credit card number. Additional information regarding computer cookies and how to disable them is described below.
 
-"Cookies" are small pieces of information that are stored by the browser on your hard drive. Sears.com may store some information on the visitor's computer in the form of a cookie or similar file. The cookies that are configured by us do not contain any personally identifying information, such as your name, or sensitive information, such as your credit card number. The cookies allow us to recognize you when you return to our site and to provide you with a customized experience that we feel will be of value to you. For example, these files allow us to tailor your sears.com experience to reflect your expressed interests and preferences. 
-
-Back to top
-
-Can I disable these cookies?
-
-Most web browsers allow you to exercise control over cookie files on your computer by erasing them, blocking them, or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function. If you do elect to disable the sears.com cookie, please note that you may not be able to take full advantage of a personalized experience at sears.com. 
+Sears may collect demographic information (such as number of household members, age, and gender) and purchase preference information about you from third parties. We use this information to customize your experience on our website and on other Sears Holdings family of business websites and to provide you with the most relevant products and services. 
 
 Back to top
 
-Does sears.com use advertising networks?
+Sears does not rent or sell your information to outside marketers. Sears may share your information (as described above) with members of the Sears Holdings family of businesses to provide you with products or services that you have requested or to provide you with promotional offers that Sears believes will be of interest to you. The Sears Holdings family of businesses includes all Sears Holdings affiliates, as well as other selected businesses with which Sears Holdings and its affiliates have a relationship and which have agreed to adhere to our strict standards for providing quality products and services, responding to your needs, and protecting customer information.
 
-Yes. Sears advertising networks deliver Sears ads online. These networks collect non-personally identifiable information about you, such as the server your computer is logged onto, your browser type and whether you responded to the ad delivered. When delivering these ads, no personally identifiable information about you, such as your name, address, phone number or e-mail address is collected. Further, Sears.com does not share any personally identifiable information about you with the advertising networks. To find out more about how the networks manage the privacy of information in conjunction with delivering ads online, please go to: <http://www.doubleclick.com/us/corporate/privacy/> or <http://www.atlassolutions.com/privacy2.aspx#atlas_website>. 
+In certain circumstances, Sears may share your information with service providers that need access to your information to provide operational or other support services. To ensure the confidentiality and security of your information, service providers must agree to safeguard your information in strict compliance with this policy.
 
-Back to top
+Sears also may provide information to regulatory authorities and law enforcement officials in accordance with applicable law or when we otherwise believe in good faith that the law requires it. There may be instances when Sears may access or disclose your information to protect or defend the legal rights or property of Sears and its affiliated companies or their employees and agents, to protect the safety and security of users and members of Sears, and to protect against fraud.
 
-How does sears.com handle personally identifiable information collected on children?
-
-The online privacy and safety of children is important to Sears. Please [click here](http://www.sears.com/shc/s/nb_10153_12608_NB_CSchildprivacy?adCell=A4&adCell=A4) to read our Children's Online Privacy Policy for information on Sears general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses Sears general policy regarding the following: 
-
-  * collection of children's personal information
-  * use of children's personal information
-  * the method of obtaining parental consent
-  * the method of obtaining access to the child's information
-
-
-
-Each Sears site that may be directed to children under 13 will contain a specific version of our Children's Online Privacy Policy that will address specifically each of the points listed above for that site. 
+Sears may sell, transfer or otherwise share some or all of its assets in connection with a merger, reorganization or sale of assets, or in the event of bankruptcy. In such an event, personal information may be one of the assets transferred. 
 
 Back to top
 
-Can I "opt out" of receiving promotional e-mails from sears.com?
+Can I Disable Cookies?
 
-Sears.com may send you e-mails with promotional offers only if you opt-in to receiving such e-mails. If you would no longer like to receive e-mailed special event information, sales notifications or other messages from sears.com, please [click here](http://www.sears.com/shc/s/LogonForm?adCell=A4) and follow the "Unsubscribe" instructions. Your e-mail address will be removed from our marketing list. 
-
-Back to top
-
-How can I access my sears.com information?
-
-You can personalize your experience at sears.com becoming a registered user. By registering, you will be able to tell us what products and services interest you, your billing and shipping address preferences, and whether you wish to receive e-mail about special sales and promotions. Once registered, you can review and maintain your account information at anytime, by clicking on the 'My Profile' link at the top of each sears.com page. Your account information is secure and is accessible by using a password that you select. To become registered user at sears.com, or to modify your current preferences, [click here](http://www.sears.com/shc/s/LogonForm?adCell=A4). 
+Most web browsers allow you to exercise control over cookie files on your computer by erasing them, blocking them, or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function. If you do elect to disable the Sears cookie, please note that you may not be able to take full advantage of a personalized experience on the Sears Website and on other Sears Holdings family of business websites.
 
 Back to top
 
-Will I receive notice of changes to the Privacy Policy?
+  
+  
 
-As mentioned above, this policy is subject to change and the changes will become effective immediately. If there are material changes to this policy, we will provide notice of the changes by posting the amended policy on sears.com and by revising the effective date of the Privacy Policy textual link appearing at the bottom of the page. 
 
-Effective Date: June 11, 2007
+How Does Sears Handle Personally Identifiable Information Collected on Children?
+
+Please [click here](http://www.sears.com/shc/s/nb_10153_12605_NB_CSchildprivacy?adCell=A4) to read our Children Online Privacy Policy for information on Sears general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses Sears general policy regarding the following:
+
+  * Collection of children´s personal information
+  * Use of children´s personal information
+  * The method of obtaining parental consent
+  * The method of obtaining access to the child information
+
+
+
+Each Sears Holding family of sites that may be directed to children under 13 will contain a specific version of our Children Online Privacy Policy that will address specifically each of the points listed above for that site. 
+
+Back to top
+
+What About Links to Other Websites?
+
+Sears may contain links to other websites. Sears is not responsible for the privacy practices of other websites. Sears users should read the privacy statements of each and every website that collects personally identifiable information. 
+
+Back to top
+
+What About Advertisements from Third Parties?
+
+Sears may also carry advertisements from other companies. Sears is not responsible for the privacy practices of third party Internet advertising companies. Once you click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any PII they collect from you. Third party advertisements may also contain cookies or web beacons. Sears does not control these third party cookies or web beacons and you should check the applicable privacy policy of the third party or advertiser site to see whether and how it uses cookies or web beacons. Sears.com does not share any personally identifiable information about you with the advertising networks. To find out more about how the networks manage the privacy of information in conjunction with delivering ads online, please go to: <http://www.doubleclick.com/us/corporate/privacy> or <http://www.atlassolutions.com/privacy2.aspx#atlas_website>. In addition, the Network Advertising Initiative offers useful information about Internet advertising companies; also know as ad networks, including information about how to opt-out of their information collections. See <http://www.networkadvertising.org/participating> for the list of NAI members and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. 
+
+Back to top
+
+Is My Information Secure?
+
+Sears takes appropriate precautions to protect usersinformation. Your information is located on a secured server behind a firewall. When you enter PII, we encrypt that information using secure socket layer technology (SL. While we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information will always remain private.
+
+Back to top
+
+How Can I Access My Information?
+
+You can personalize your experience at Sears by becoming a registered Member. By registering, you will be able to tell us what products and services interest you, and whether you wish to receive e-mail about special sales, promotions and other events. Once registered, you can review and maintain your account information at anytime by clicking on the 'My Profile' link at the top of each Sears Website page. Your account information is secure and is accessible by using a password that you select. To become registered user at Sears, or to modify your current preferences, [click Here.](http://www.sears.com/shc/s/LogonForm?langId=-1&storeId=10153&catalogId=12605&krypto=ZGuYz14ZweWOlfYrgHKDwQ%3D%3D&ddkey=http:LogonForm&adCell=A4) .
+
+Back to top
+
+Can I “Opt-Out” of Receiving Promotional E-mails from Sears.com?
+
+Sears.com may send you e-mails with promotional offers if you opt-in to receiving such emails. If you would no longer like to receive e-mailed special event information, sales notifications or other messages from sears.com, please click [here](http://www.sears.com/shc/s/LogonForm?storeId=10153&krypto=ZGuYz14ZweWrQg%2FooLe2dnxGWBDVc4N%2FkddunithHGg%3D&ddkey=http:LogonForm&adCell=A4) and follow the unsubscribe instructions. Your e-mail address will be removed from our email marketing list.
+
+Back to top
+
+Will I Receive Notice of Changes to the Privacy Policy?
+
+As mentioned above, from time to time Sears may modify this Privacy Policy to reflect industry initiatives or changes in the law, changes in our collection or use practices, or changes in Sears features or technology, and such modifications shall be effective upon posting by Sears on the Sears Website. Your continued use of the Sears Website after Sears posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. 
 
 Back to top
 
