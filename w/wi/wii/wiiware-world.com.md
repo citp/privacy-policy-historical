@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiiware-world.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517121944id_/http%3A//www.wiiware-world.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiiware-world.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152408id_/http%3A//www.wiiware-world.com/privacy) for the most accurate reproduction.*
 
 # WiiWare World - Privacy Policy
 
@@ -6,7 +6,7 @@ This privacy policy sets out how "WiiWare World" uses and protects any informati
 
 "WiiWare World" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-"WiiWare World" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 11th May, 2008.
+"WiiWare World" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 26th May, 2008.
 
 ## What we collect
 
