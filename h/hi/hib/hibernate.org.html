@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hibernate.org privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213001321id_/http%3A//www.jboss.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hibernate.org privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216011645id_/http%3A//www.jboss.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>JBoss.com - Privacy Statement for Red Hat, Inc.</title>
@@ -34,10 +34,7 @@
 <![endif]-->
 
 <script type="text/javascript" src="scripts/menu.js"></script>
-<script language="JavaScript" src="themes/jbosstheme/js/functions.js" type="text/javascript"></script>
-<script language="JavaScript" src="/elqNow/elqCfg.js" type="text/javascript"></script>
-<script language="JavaScript" src="/elqNow/elqImg.js" type="text/javascript"></script></head><body>
-
+<script language="JavaScript" src="themes/jbosstheme/js/functions.js" type="text/javascript"></script></head><body>
 <div class="brand_DOTCOM" id="container">
 
 <div id="TopLogo">
@@ -56,7 +53,7 @@
 </div>
 
 <div id="ControlMenu">
-   <form id="TopSearch" action="search.jsp">
+   <form name="search.form" method="get" action="http://www.redhat.com/search">
   <ul>
     <li><a href="http://www.jboss.com/fr/index"><img src="http://www.jboss.com/images/languages/french.gif" border="0"></a></li>
     <li><a href="http://de.jboss.com"><img src="http://www.jboss.com/images/languages/german.gif" border="0"></a></li>
@@ -66,7 +63,8 @@
     <li><a href="http://www.redhat.com/about/careers/">Careers</a></li>
     <li><a href="/company/contact">Contact Us</a></li>
     <li>
-      <input style="border: 1px solid #6e6e6e; font: 10px Verdana, Helvetica, Arial, sans-serif; padding-left: 2px; margin-left: 10px;" name="query" onfocus="SearchFocus(this)" onblur="SearchBlur(this)" value="Search...">
+      <input type="hidden" name="site" value="jbn_default">
+      <input style="border: 1px solid #6e6e6e; font: 10px Verdana, Helvetica, Arial, sans-serif; padding-left: 2px; margin-left: 10px;" name="q" onfocus="SearchFocus(this)" onblur="SearchBlur(this)" value="Search...">
       <input class="searchbutton" type="image" src="themes/jbosstheme/img/spacer.gif" value="go" align="middle">
     </li>
   </ul>
@@ -98,7 +96,7 @@
     <li><a href="/company/index">About Us</a></li>
     <li><a href="http://blogs.jboss.com" target="_blank">Blogs</a></li>
     <li><a href="/resources/index">Resource Centers</a></li>
-    <li><a href="https://www.redhat.com/apps/store/jboss/" target="_blank">JBoss Store</a></li>
+    <li><a href="http://store.jboss.com" target="_blank">JBoss Store</a></li>
   </ul>
 </div><!-- ### Corp Ads - START -->
 
@@ -111,19 +109,21 @@
 <tbody><tr><td bgcolor="#eeeeee">&nbsp;</td></tr>
 
 <tr><td bgcolor="#eeeeee" style="font-size:10px; padding-left:5px;">&nbsp;<b>Online:</b>
-  37922 guests, <a href="index.html?module=user&amp;op=whosonline">21 members</a></td></tr>
+  22997 guests, <a href="index.html?module=user&amp;op=whosonline">7 members</a></td></tr>
 
 <tr><td bgcolor="#eeeeee">&nbsp;</td></tr>
 
-<tr><td bgcolor="#eeeeee" style="font-size:10px; padding-left:5px;">&nbsp;<b>Monthly JBoss newsletter:</b>
-<form action="http://now.eloqua.com/f.asp" method="post" style="padding:0pt;margin:0pt;">
-<input type="hidden" name="elqFormName" value="emailform"> 
- <input type="hidden" name="elqSiteID" value="257"> 
- <input type="hidden" name="elqDefaultTargetURL" value=""> 
- <input type="hidden" name="elqPost" value="">
-<input name="email" type="text" style="margin-left:5px; margin-top:2px; border: 1px solid rgb(110, 110, 110); width: 120px; font-size: 10px;" onfocus="this.className=focus;if (this.value == my@email.address) this.value = ';" onblur="this.className=';if (this.value == ') this.value = my@email.address;" value="my@email.address">
-<input style="vertical-align:middle;" type="image" name="submit" border="0" src="/images/btn_go_grey.gif">
-</form>
+<tr><td bgcolor="#eeeeee" style="font-size:10px; padding-left:5px;">&nbsp;<b>Monthly JBoss Newsletters:</b>
+
+<div class="m2lbox">
+	<div class="m2lboxcontent">
+		<div id="m2lform">
+			<a href="https://www.redhat.com/apps/webform.html?event_type=simple_form&amp;eid=1705">Sign up</a>
+		</div>
+
+	</div>
+</div>
+
 </td></tr>
 
 <tr><td bgcolor="#eeeeee">&nbsp;</td></tr>
@@ -346,17 +346,26 @@ Raleigh, NC 27606</p>
 <br>
 </div>
 <span style="text-align:center">
-© 2007 Red Hat Middleware, LLC. All rights reserved.
+© 2008 Red Hat Middleware, LLC. All rights reserved.
  <a href="http://www.jboss.com/privacy_policy">Privacy Policy</a>
 </span>
 </div>
 
 </div>
 
+<script id="m2lwst" src="https://inquiries.redhat.com/wt/m2lwst.js"></script>
+<script language="javascript">
+_m2lTracker.tenantId ='108';
+_m2lTracker.tenantCode ='redhat';
+_m2lTracker.category['2']='jboss.com';
+_m2lTracker.track();
+</script> 
+
 <!-- SiteCatalyst code version: H.1.
  Copyright 1997-2005 Omniture, Inc. More info available at
  http://www.omniture.com sec -->
 <div id="oTags">
+
 <script type="text/javascript" src="/scripts/s_code.js"></script>
 <script><!--
  /* You may give each page an identifying name, server, and channel on
@@ -377,13 +386,14 @@ s.state=""
 s.zip=""
 s.purchaseID=""
 
+
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script> 
 
 <script type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img
-src="https://smtrcs.redhat.com/b/ss/redhatjboss/1/H.2--NS/0"
+src="https://smtrcs.redhat.com/b/ss/redhatjboss,redhatglobal/1/H.2--NS/0"
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 </div>
 
