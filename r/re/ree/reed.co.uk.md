@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030065638id_/http%3A//www.reed.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216085053id_/http%3A//www.reed.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
-# reed.co.uk Privacy
+# reed.co.uk - Privacy
 
-**Why do we have a privacy policy?**   
+**Why do we have a privacy policy?**
+
 Reed is committed to privacy for everyone who accesses the site. Under the Data Protection Acts of 1984 and 1998, we must comply with certain regulations which are designed to ensure that any data you provide to us is processed with due care and attention. 
 
 **What sort of data do we collect?**   
