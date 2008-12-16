@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yha.org.uk privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416123538id_/http%3A//www.yha.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yha.org.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170715id_/http%3A//www.yha.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - YHA
 
@@ -73,10 +73,21 @@ Dimple Road
 Matlock   
 Derbyshire   
 DE4 3XN   
-Telephone: 0870 770 8868   
+Telephone: 01629 592700   
 Email: [membership@yha.org.uk](mailto:membership@yha.org.uk)
 
 ## YHA Membership
 
-As part of your membership service, YHA will issue your YHA membership pack and various offers, information and news of our fundraising activities that we believe may be of interest to you, via the post as well as biannual issues of Discover: YHA's membership magazine received by certain membership categories. This is the standard level of contact made by YHA when you become a YHA member and will remain, unless requested otherwise.   
+As part of your membership service, YHA will issue your YHA membership pack and various offers, information and news of our fundraising activities that we believe may be of interest to you, via the post as well as biannual issues of Discover: YHA's membership magazine received by certain membership categories. This is the standard level of contact made by YHA when you become a YHA member and will remain, unless requested otherwise.
 
+## Other important information
+
+If you wish to see a copy of all the personal information held by YHA about you please contact our Customer Service Co-ordinator:
+
+Address: YHA (England & Wales) Ltd   
+Trevelyan House   
+Dimple Road   
+Matlock   
+Derbyshire   
+DE4 3YH   
+Email: [contactus@yha.org.uk](mailto:contactus@yha.org.uk)
