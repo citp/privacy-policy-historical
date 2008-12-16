@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the um.edu.mt privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516070521id_/http%3A//www.um.edu.mt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the um.edu.mt privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012615id_/http%3A//www.um.edu.mt/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - University of Malta
 
@@ -10,30 +10,30 @@ The University of Malta web servers automatically log each visit that they recei
 
 This information is used for the sole purpose of statistical information gathering and demographics relating to the University web sites, and enables us to determine general visitor patterns and pathways within our pages. This statistical data is then fed back into future design and usability modifications made to the University web pages.
 
-### Personal information
+### Personal Information
 
-#### Submission forms & surveys 
+#### Submission Forms & Surveys
 
 The University of Malta may also collect personal information supplied through the use of web-based forms and surveys. This information will not be supplied to any third party, and will only be used for subsequent communications, if indicated by you, the user, at the time of submission. In submitting your personal information online, you are agreeing that University staff may use your details for the sole purpose of conducting the business of the University.  
 
 
-#### Cookies 
+#### Cookies
 
 Cookies are small pieces of information that a website can put on your hard drive in order for it to remember something about you at a later time. The information is in the form of a text file, which will only be understood by the web site that initially set the cookie.
 
 The University web site uses cookies for certain applications, e.g. to remember your name when filling in online forms. A cookie is also used to anonymously track how visitors interact with the University website, including where they came from and what they did. This is then used to ultimately provide a better online experience for all our audiences. You can stop your browser exchanging cookies with web servers at any time by changing the settings in your web browser.
 
-#### E-mail   
+#### Email   
 
 
-If you contact the University of Malta by e-mail, we keep a record of that correspondence for the purpose of conducting University business. We do not add any email addresses of those who communicate with the University through email to any mailing databases, nor do we pass this to any third party.
+If you contact the University of Malta by email, we keep a record of that correspondence for the purpose of conducting University business. We do not add any email addresses of those who communicate with the University through email to any mailing databases, nor do we pass this to any third party.
 
 ### Changes to the Privacy Policy
 
 The University reserves the right to modify this Privacy Policy at any time. Visitors are invited to consult this Privacy Policy from time to time in order to become aware of any changes. The date when this Policy was last updated is indicated at the end of this Policy.  
 
 
-Queries about the Privacy Policy statement should be directed [here](mailto:webmaster@um.edu.mt).    
+Queries about the Privacy Policy statement should be directed [here](mailto:webmaster@um.edu.mt).   
 
 
   
