@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soccermanager.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614171624id_/http%3A//www.soccermanager.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccermanager.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216010731id_/http%3A//www.soccermanager.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy - Soccer Manager.com
+# Soccer Manager.com Privacy Policy | free football manager game
 
-[Full Terms Of Use](https://web.archive.org/web/20080614171624id_/http%3A//www.soccermanager.com/terms-main.php)
+[Full Terms Of Use](https://web.archive.org/web/20081216010731id_/http%3A//www.soccermanager.com/terms-main.php)
 
  **SoccerManager will only use information collected about you in accordance with the Data Protection Act 1998.**
 
