@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the skincareresourcecenter.com privacy policy that was archived on 2008-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080613175935id_/http%3A//www.skincareresourcecenter.com/disclaimer-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skincareresourcecenter.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216051554id_/http%3A//www.skincareresourcecenter.com/disclaimer-statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://www.skincareresourcecenter.com/favicon.ico">
 
@@ -194,7 +194,126 @@ google_ad_height = 60;
 <input type="hidden" name="hl" value="en">
 </td></tr></tbody></table>
 </form>
-<!-- SiteSearch Google --></div>
+<!-- SiteSearch Google -->
+<script type="text/javascript">
+
+    (function() {
+
+      var d = document,
+          l = d.location,
+          e = encodeURIComponent,
+          u = e(l.href),
+          t = e(d.title);
+
+      // implied global
+      socializeIt = function(where)
+      {
+        var url;
+        if (where == 'Buzz')
+        {
+           url = 'http://buzz.yahoo.com/submit?submitUrl='+ u +'&t=' + t;
+        }
+        else if (where == 'del.icio.us')
+        {
+           url = 'http://del.icio.us/post?v=4&noui&jump=close&url=' + u + '&title=' + t;
+        }
+        else if (where == 'Facebook')
+        {
+           url = 'http://www.facebook.com/share.php?u='+ u +'&t=' + t;
+        }
+        else if (where == 'Google')
+        {
+           url = 'http://www.google.com/ig/adde?moduleurl=www.google.com/ig/modules/bookmarks.xml&hl=en/u='+ u +'&t=' + t;
+        }
+        else if (where == 'Myspace')
+        {
+           url = 'http://www.myspace.com/Modules/PostTo/Pages/?u='+ u +'&t=' + t;
+        }
+        else if (where == 'StumbleUpon')
+        {
+           url = 'http://www.stumbleupon.com/submit?url=' + u + '&title=' + t;
+        }
+        else if (where == 'Technorati')
+        {
+           url = 'http://technorati.com/faves/?add=' + u;
+        }
+        else
+        {
+          throw new Error ('unknown social site "' + where + '"');
+        }
+        window.open(url, 'sharer', 'toolbar=0,status=0,width=700,height=500,resizable=yes,scrollbars=yes');
+        return false;
+      };
+
+      var sites = ['Google', 'Buzz', 'Facebook', 'Myspace', 'StumbleUpon', 'Technorati', 'del.icio.us'];
+
+      // Note that the number of elements and order of the array of images must match that of the sites array above.
+      var imgURLs = new Array();
+      var iLen = sites.length;
+      var i;
+
+      for(i = 0; i < iLen; i++)
+      {
+         imgURLs[i] = 'http://www.skincareresourcecenter.com/objects/';
+      }
+
+      //Google
+      imgURLs[0] += 'google.gif';
+
+      //Yahoo Buzz
+      imgURLs[1] +='yahoobuzz1.gif';
+
+      //Facebook
+      imgURLs[2] += 'Facebook.jpg';
+
+      //Myspace
+      imgURLs[3] += 'myspace.gif';
+
+      //StumbleUpon Image
+      imgURLs[4] += 'StumbleUpon.jpg';
+
+      //Technorati Image
+      imgURLs[5] += 'Technorati.jpg';
+
+      //Delicious Image
+      imgURLs[6] += 'del.jpg';
+
+      document.writeln('<br clear="all"><hr><table><tbody><tr><td rowspan="2" nowrap><strong>Share this page:&nbsp;</strong><br><span style="font-size:11px;"></span></td>');
+
+      for (i=0;  i<4; i++)
+      {
+         var site = sites[i];
+         var imgURL = imgURLs[i];
+          
+         document.writeln('<td><a href="#share_on_'+site+'" onClick="return socializeIt(\''+site+'\');"><img src="'+imgURL+'" alt="'+site+'" style="border:0"></a></td>');
+      }
+      document.writeln('</tr><tr>');
+      for (i=4;  i<iLen; i++)
+      {
+        var site = sites[i];
+        var imgURL = imgURLs[i];
+
+        document.writeln('<td><a href="#share_on_'+site+'" onClick="return socializeIt(\''+site+'\');"><img src="'+imgURL+'" alt="'+site+'" style="border:0"></a></td>');
+      }
+
+      document.writeln('</tr></tbody></table>');
+    })();
+
+   </script><br clear="all"><hr><table><tbody><tr><td rowspan="2" nowrap=""><strong>Share this page:&nbsp;</strong><br><span style="font-size:11px;"></span></td>
+<td><a href="#share_on_Google" onclick="return socializeIt('Google');"><img src="http://www.skincareresourcecenter.com/objects/google.gif" alt="Google" style="border:0"></a></td>
+<td><a href="#share_on_Buzz" onclick="return socializeIt('Buzz');"><img src="http://www.skincareresourcecenter.com/objects/yahoobuzz1.gif" alt="Buzz" style="border:0"></a></td>
+<td><a href="#share_on_Facebook" onclick="return socializeIt('Facebook');"><img src="http://www.skincareresourcecenter.com/objects/Facebook.jpg" alt="Facebook" style="border:0"></a></td>
+<td><a href="#share_on_Myspace" onclick="return socializeIt('Myspace');"><img src="http://www.skincareresourcecenter.com/objects/myspace.gif" alt="Myspace" style="border:0"></a></td>
+</tr><tr>
+<td><a href="#share_on_StumbleUpon" onclick="return socializeIt('StumbleUpon');"><img src="http://www.skincareresourcecenter.com/objects/StumbleUpon.jpg" alt="StumbleUpon" style="border:0"></a></td>
+<td><a href="#share_on_Technorati" onclick="return socializeIt('Technorati');"><img src="http://www.skincareresourcecenter.com/objects/Technorati.jpg" alt="Technorati" style="border:0"></a></td>
+<td><a href="#share_on_del.icio.us" onclick="return socializeIt('del.icio.us');"><img src="http://www.skincareresourcecenter.com/objects/del.jpg" alt="del.icio.us" style="border:0"></a></td>
+</tr></tbody></table>
+
+
+   <!-- END the snip -->
+   <hr>
+    </div>
 <!--YOUR CONTENT BOTTOM ENDS HERE --></td>
 </tr>
 </tbody>
@@ -244,12 +363,16 @@ google_ad_height = 60;
                 <li>
                   <p><a href="http://www.skincareresourcecenter.com/skin-care-product-review.html">Product Reviews</a></p>
                 </li>
-                <li>                  <a href="http://www.skincareresourcecenter.com/skin-care-resource-guide.html">Reference Library</a></li>
+                <li>                  <a href="http://www.skincareresourcecenter.com/skin-care-resource-guide.html">Reference Library</a><p></p>
+                </li>
+                <li>
+                  <p><a href="http://www.skincareresourcecenter.com/skin-care-news.html">Skinsational News!</a></p>
+                </li>
                 </ul>
 <br><div class="center">
   <p><a href="http://www.skincareresourcecenter.com/skin-care-forum.html"><img src="http://www.skincareresourcecenter.com/image-files/forum.gif" alt="Skin Care Forum" name="suedolan" width="132" height="68" border="0" id="suedolan"></a></p>
   <p>Join in and share your simple skin care secrets with the <br>
-    <a href="http://www.skincareresourcecenter.com/skin-care-forum.html" target="_blank">Skin
+    <a href="http://www.skincareresourcecenter.com/skin-care-forum.html">Skin
     Care Forum</a> </p>
   <hr size="1" noshade="noshade">
 </div>
@@ -259,7 +382,7 @@ google_ad_height = 60;
              
 
 </p><div class="shop"><p align="center"><a href="http://www.skincareresourcecenter.com/skin-care-shop.html" target="_blank"><img name="beautyshop" src="http://www.skincareresourcecenter.com/image-files/beauty-shop.gif" width="128" height="130" border="0" alt="Skin Care Shop"></a></p>
-<p><a href="http://www.skincareresourcecenter.com/skin-care-shop.html" target="_blank">Click here for<br>
+<p><a href="http://www.skincareresourcecenter.com/skin-care-shop.html">Click here for<br>
           </a>            carefully selected anti-aging skin care treatments
             that have been grouped in categories for specific aging skin conditions
             or by active rejuvenation ingredients.          </p>
@@ -284,8 +407,10 @@ google_ad_height = 60;
 <div class="top"><a href="#top">Top of
 Disclaimer
 Statement</a></div>
-<div class="main-navig-bottom"><a href="http://www.skincareresourcecenter.com/index.html">Home</a> | <a href="http://www.skincareresourcecenter.com/site-search-map.html">Site Map</a> | <a href="http://www.skincareresourcecenter.com/skin-care-instructor.html">About the Instructor</a> | <a href="http://www.skincareresourcecenter.com/recipe-ebook.html" target="_blank">Recipe eBook</a><br>
-<a href="http://www.skincareresourcecenter.com/disclaimer-statement.html" target="_blank">Disclaimer and Privacy Policy</a> | <a href="http://www.skincareresourcecenter.com/how-to-build-your-own-website.html">How to Build Your Own Website</a> | <a href="http://www.skincareresourcecenter.com/skin-care-contact.html" target="_blank">Contact</a>
+<div class="main-navig-bottom"><a href="http://www.skincareresourcecenter.com/index.html">Home</a> | <a href="http://www.skincareresourcecenter.com/skin-care-search.html">Search</a> | <a href="http://www.skincareresourcecenter.com/site-search-map.html">Site Map</a> | <a href="http://www.skincareresourcecenter.com/skin-care-instructor.html">About the Instructor</a> | <a href="http://www.skincareresourcecenter.com/natural-recipes.html">Recipe eBook</a><br>
+<a href="http://www.skincareresourcecenter.com/disclaimer-statement.html" target="_blank">Disclaimer and Privacy Policy</a> | <a href="http://www.skincareresourcecenter.com/how-to-build-your-own-website.html">How to Build Your Own Website</a> | <a href="http://www.skincareresourcecenter.com/skin-care-help.html">Help</a>
+
+ | <a href="http://www.skincareresourcecenter.com/skin-care-contact.html" target="_blank">Contact</a>
 
 </div>
 <div id="copyright">
