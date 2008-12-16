@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531021010id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031000id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Checkatrade : Privacy Policy
-
-0845 408 4866
-
-[](https://web.archive.org/)
 
 [Home](https://web.archive.org/) | [For  
 Consumers](https://web.archive.org/Consumer/) | [For  
 Trades](https://web.archive.org/Trade/) | [More from  
-Checkatrade](https://web.archive.org/Company/) |  | [](https://web.archive.org/Feedback)  
----|---|---|---|---|---  
+Checkatrade](https://web.archive.org/Company/) | [](https://web.archive.org/GiveFeedback)  
+---|---|---|---|---  
   
 ## Privacy Policy
 
