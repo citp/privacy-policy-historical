@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarkhoward.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514020340id_/http%3A//clarkhoward.com/inside/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarkhoward.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035225id_/http%3A//clarkhoward.com/inside/privacy_policy.html) for the most accurate reproduction.*
 
-# clarkhoward.com: About Us
+# clarkhoward.com - Save more, spend less and avoid rip-offs
 
 Cox Radio respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices. 
 
