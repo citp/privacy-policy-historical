@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the presentjobs.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613075716id_/http%3A//www.presentjobs.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentjobs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031633id_/http%3A//www.presentjobs.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Present Jobs-Jobs for Freshers and Professionals
+# Present Jobs - Jobs for Freshers and Professionals
 
   
 **Please read carefully the below privacy policy of presentjobs.com  ** _By using presentjobs.com you agree to be bound by these Terms and Conditions_ :
