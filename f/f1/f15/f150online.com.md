@@ -1,53 +1,57 @@
-> *The following text is extracted and transformed from the f150online.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020113226id_/http%3A//www.f150online.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f150online.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100848id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DF150online.com) for the most accurate reproduction.*
 
-# 
+# Site Privacy Policy
 
-### Privacy Statement for F150online
+F150online.com ("Site")
 
-F150online has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: F150online. 
+Privacy Statement
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
+We are committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself.
 
-Our message board's registration form requires users to give us contact information (like their email address). We use customer contact information from the registration form to send the user information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+By using this Site, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices.
 
-This site contains links to other sites. **F150online** is not responsible for the privacy practices or the content of such Web sites. 
+This Site contains links to other sites. These include links to resources in related topics and third-party sites that offer other related products. If you visit another website through a link on our site, please consult the privacy policy of the website you are visiting. We are not responsible for the privacy practices or the content of other websites that you may visit.
 
-Our site uses an order form for customers to purchase products from the Digital Marketplace online store. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers) for the purpose of validating those purchases. Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+Browsing the Site
 
-Our online surveys ask visitors for contact information (like their email address). We use contact data from our surveys to send the user information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer the Site. 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+Information Collected
 
-### Public Forums
+We collect the email addresses of consumers who communicate with us or through our authorized vendors via email.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+Any information provided by consumers becomes our property once received by us and may be used and disclosed as permitted in this Policy.
 
-### Security
+We may share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent your personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at [information@internetbrands.com](mailto:information@internetbrands.com). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at [information@internetbrands.com](mailto:information@internetbrands.com).
 
-### Sharing Information with Third Parties
+Use of Forums
 
-F150online does not share your information with third parties. However, we do reserve the right to reveal information pursuant to a valid subpoena or court order. 
+If you choose to transmit, submit or post information through the Site's chat rooms, bulletin boards or other forums (the "Forums"), we will collect that information you provide. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to our Terms of Use.
 
-### Choice/Opt-Out
+Cookies
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
+We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy, we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about yourself more than once.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+Security
 
-  1. You can send email to [webmaster@f150online.com](mailto:webmaster@f150online.com)
+This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.
 
+Third Party Advertising 
 
+We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
-### Correct/Update
+In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits this site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
 
-This site gives users the following options for changing and modifying information previously provided. 
+To learn more about these practices and your choices about not having this information used by these companies please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
-  1. email [webmaster@f150online.com](mailto:webmaster@f150online.com)
+Contacting the Web Site
 
+Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [information@internetbrands.com](mailto:information@internetbrands.com).
 
-### Contacting the Web Site
+F150online.com
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Steven Eppinger Ownersite Technologies 1425 Market Blvd Suite 330-179 Roswell, GA 30076 webmaster@f150online.com
+January 1, 2008
