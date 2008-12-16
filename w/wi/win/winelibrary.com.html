@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the winelibrary.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509061232id_/http%3A//winelibrary.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winelibrary.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216045719id_/http%3A//winelibrary.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>Our Privacy Policy at Wine Library</title>
@@ -26,6 +26,19 @@
         var f = new Element("form", {action: link.href, method: "post"}).update("<input type='hidden' name='go' value='true' />");
         document.body.appendChild(f);
         f.submit();
+        return false;
+      }
+      function hide_email_signup_and_set_cookie (){
+        document.cookie = "show_signup_box=false; expires=13/06/2013 00:00:00;";
+        Effect.toggle("join-email-closer", "appear");
+      }
+      function email_form_clear(email){
+        if (email == "email@email.com"){
+          $("email-signup").value = "";
+        }
+        if (email == ""){
+          $("email-signup").value = "email@email.com";
+        }
         return false;
       }
     </script>
@@ -62,15 +75,22 @@
         </div>
 <!--     <a href="http://labels.winelibrary.com" id="free_bar" alt="Wine Library Labels!">Do you like wine labels?</a> -->
     <!-- <a href="http://winelibrary.com/show_special.asp?section=hautbergey" id="free_bar" alt="Haut Bergey - Is this the next La Mission Haut Brion!  92-94 RP, under $30!">Haut Bergey - Is this the next La Mission Haut Brion!  92-94 RP, under $30!</a> -->
-    <div style="position: relative; " id="logo">
+    <div style="position: relative; height: 70px; " id="logo">
        <h1 style="display: inline;">
        
           <a href="http://winelibrary.com/default.asp"><img src="/images/wl_logo_red.gif" border="0" title="Wine Library - buy wine online - 888-980-WINE" alt="Wine library logo"></a>
        
        </h1>
+       <!--   Instructions:   -->
+<!--   Upload gif file to images/header_animations/ -->
+<!--   Put the link and the file name   -->
+<!--   TO REMOVE so there is no header at all, put these characters around the code below  -->
 
-       <a href="http://winelibrary.com/show_special.asp?section=summerwhitefs"><img src="/images/freeshipping_header_animation4.gif" style="margin-left: 120px;" height="42" border="0"></a>
-
+<a href="http://winelibrary.com/Wiz_club.asp"><img src="/images/header_animations/wotm.gif" style="margin-left: 70px; height: 42px;" border="0"></a>
+       <!-- <a href="https://winelibrary.com/Wiz_makingroomsale.asp"><img src="/images/header_animations/10_8-sale2.gif" style="margin-left: 70px; height: 42px;" border="0" /></a> -->
+       <!-- <a href="http://winelibrary.com/show_special.asp?section=supertasting2008"><img src="/images/header_animations/super-tasting.gif" style="margin-left: 70px; height: 42px;" border="0" /></a> -->
+       <!-- <a href="http://winelibrary.com/show_special.asp?rater=&section=wineroomsale&search=&Vint=&size=&sDept=&OrderBy=onhand&OrderAD=DESC&start=0"><img src="/images/header_animations/wineroom.gif" style="margin-left: 70px; height: 42px;" border="0" /></a> -->
+   
     </div>
     <div id="personal">
       <br>
@@ -123,37 +143,56 @@
           <input type="text" id="search-text" value="" name="search">
           <input type="image" src="/images/btn-search.gif" value="Search">
         </form>
-        don't like? <a href="http://winelibrary.com/old-search.asp">old search</a>
+        <a href="http://winelibrary.com/old-search.asp">Prefer Old (regional) search?</a>
       </div> <!--/Search-->
+  </div>
+  <div id="join-email-closer" style="">
+    <p style="float: right; margin: 3px 0 0 0">
+      <a href="http://winelibrary.com/emails/pressac05.html" title="The Bordeaux that we saved: 92WS/35 dollars. Read this whole email, a must case buy">check out our latest deal</a>
+      <span style="margin: 0 0 0 10px; padding: 3px 7px 3px 7px; cursor: pointer;" onclick="hide_email_signup_and_set_cookie();">X</span>
+    </p>
+    <span style="margin-left: 55px;">Join our daily email service for our best deals </span>
+    <form action="join_our_email_service.asp" method="post" style="display: inline;">
+      <input type="text" id="email-signup" name="email-signup" value="email@email.com" onclick="email_form_clear(this.value);" onblur="email_form_clear(this.value);">
+      <input type="image" src="/images/signup.gif" value="signup!">
+    </form>
   </div>
 
   <div id="overall">
-    <div id="content" style="height: auto;">
+    <div id="content">
         
         <div id="leftcolumn">
-              <div class="node" id="">
-                <a href="http://winelibrary.com/join_our_email_service.asp"><img src="http://winelibrary.com/images/email_logo_mini_1.gif" style="display: block;" border="0"></a>
-                <a href="/join_our_email_service.asp"><p class="email_title" style="font-size: 14px;background-color: #F0EAD6;padding: 3px;">CLICK TO SUBSCRIBE</p></a>
-              </div>
-              <div class="node" style="background-color: #F0EAD6;padding-bottom: 3px;padding-top: 3px; border-bottom: 1px solid #E0D0B1;">
-                <!-- <a href="http://winelibrary.com/join_our_email_service.asp"><p class="email_title">WINE LIBRARY'S</p>
-                <p class="email_title">E-MAIL SERVICE</p></a> -->
-                <div style="margin-left: 20px;width: 135px;">
-                  <li class="points">Join our <a href="http://winelibrary.com/join_our_email_service.asp">Email service</a> today!</li>
-                  <li class="points" style="margin-top: 4px;">Looking for Caymus, Insignia, Opus One?</li>
-                  <!--  <li class="points" style="margin-top: 4px;">Be the first to know and get yours before inevitable, rapid sellouts.</li>
-                        <li class="points" style="margin-top: 4px;">Enjoy the privilege of Wine Library's exclusive offers by subscribing today.</li>
-                        <li class="points" style="margin-top: 4px;">Your choice: Either the daily offer or our weekly Saturday recap.</li> -->
-                </div>
-                <hr style="width: 155px; height: 1px; color: #CAC1A5; background-color: #CAC1A5; border: dashed 0px; ">
-                <!-- <p class="latest_title" onclick="Effect.toggle('latest_emails', 'appear')">click here for latest emails</p> -->
-                
-                
-                  <div id="latest_emails" style="display: none;">
-                <img src="http://winelibrary.com/images/email-top-mini.gif" style="display: block;"><div class="email_middle_box"><a href="http://winelibrary.com/emails/alamosseleccion050808.html" title="Its big brother hit 98 Points WA: 90 Point QPR Stunner from Argentina">Its big brother hit 98...</a><br>05.08.2008</div><img src="http://winelibrary.com/images/email-bot-mini.gif" style="display: block; margin-bottom: 1px;"><img src="http://winelibrary.com/images/email-top-mini.gif" style="display: block;"><div class="email_middle_box"><a href="http://winelibrary.com/emails/cabreo050708.html" title="Tied Tignanello for half the price: 91 Pt Tuscan Price Break inside now in stock ">Tied Tignanello for ha...</a><br>05.07.2008</div><img src="http://winelibrary.com/images/email-bot-mini.gif" style="display: block; margin-bottom: 1px;"><img src="http://winelibrary.com/images/email-top-mini.gif" style="display: block;"><div class="email_middle_box"><a href="http://winelibrary.com/emails/prettysally.html" title="Your wallet will thank you: 90 Pt Cabernet/Shiraz QPR Value you'll want to buy by the case ">Your wallet will thank...</a><br>05.06.2008</div><img src="http://winelibrary.com/images/email-bot-mini.gif" style="display: block; margin-bottom: 1px;"><img src="http://winelibrary.com/images/email-top-mini.gif" style="display: block;"><div class="email_middle_box"><a href="http://winelibrary.com/emails/neyershighvalley.html" title="Turley Zinfandel Fans Need To Read This: 91 RP Limited Offer">Turley Zinfandel Fans ...</a><br>05.05.2008</div><img src="http://winelibrary.com/images/email-bot-mini.gif" style="display: block; margin-bottom: 1px;"><img src="http://winelibrary.com/images/email-top-mini.gif" style="display: block;"><div class="email_middle_box"><a href="http://winelibrary.com/emails/Barde Haut.html" title="Near perfection next door.  Why this updated 93 RP rated 2005 Bordeaux is a no brainer">Near perfection next d...</a><br>05.02.2008</div><img src="http://winelibrary.com/images/email-bot-mini.gif" style="display: block; margin-bottom: 1px;">
-                </div>
-                <center><img src="/images/btn-latestemails.gif" style="cursor: pointer;" onclick="Effect.toggle('latest_emails', 'appear')"></center>
-              </div><br>
+                    <div class="node" style="<!-- background-color: #F0EAD6; -->">
+                      <!-- <a href="http://winelibrary.com/wld.asp"><img src="http://winelibrary.com/images/service-icons/wld_logo.gif" border="0" /></a> -->
+                                      <!-- <a href="http://winelibrary.com/wld.asp"><img src="http://winelibrary.com/images/service-icons/wld_logo.jpg" border="0" /></a> -->
+                      <!-- <img src="http://winelibrary.com/images/service-icons/wld-top.png" style="display: block;"/> -->
+
+                      <div style="background-color: #F0EAD6; border: solid 2px #A22430;">
+                        <a href="http://winelibrary.com/wld.asp"><img src="http://winelibrary.com/images/service-icons/wld_logo.gif" border="0"></a>
+                        <p style="margin: 0 10px 0px 8px; text-align: center;"><a href="http://winelibrary.com/wld.asp">What is WLD?</a></p>
+                        <hr style="width: 140px; height: 1px; color: #CAC1A5; background-color: #CAC1A5; border: dashed 0px; ">
+
+                        <ul style="list-style: none; margin: 0 8px 0 8px; font-weight: bold; color: #996633;">  
+                          <li><a href="http://winelibrary.com/join_our_email_service.asp"><img width="16" src="http://winelibrary.com/images/service-icons/email_ico.gif" style="margin: 3px 8px 0 5px;vertical-align: bottom;" border="0"></a><a href="http://winelibrary.com/join_our_email_service.asp">email</a></li>
+                          <li><a href="http://twitter.com/wldaily"><img width="16" src="http://winelibrary.com/images/service-icons/twitter_ico.gif" style="margin: 3px 8px 0 5px; vertical-align: bottom;" border="0"></a><a href="http://twitter.com/wldaily">twitter</a></li>
+                          <li><a href="http://www.myspace.com/winelibrary"><img width="16" src="http://winelibrary.com/images/service-icons/myspace_ico.gif" style="margin: 3px 8px 0 5px;vertical-align: bottom;" border="0"></a><a href="http://www.myspace.com/winelibrary">myspace</a></li>
+                          <li><img width="16" src="http://winelibrary.com/images/service-icons/rss_ico.gif" style="margin: 3px 8px 0 5px;vertical-align: bottom;" border="0">rss</li>
+                          <li><a href="http://www.facebook.com/pages/Wine-Library-Daily-Offerings/73082355436?ref=mf"><img width="16" src="http://winelibrary.com/images/service-icons/facebook_ico.gif" style="margin: 3px 8px 0 5px;vertical-align: bottom;" border="0"></a><a href="http://www.facebook.com/pages/Wine-Library-Daily-Offerings/73082355436?ref=mf">facebook</a></li>
+                        </ul>
+
+                        <hr style="width: 140px; height: 1px; color: #CAC1A5; background-color: #CAC1A5; border: dashed 0px; ">
+                                
+                                  <div id="latest_emails" style="display: none; margin-left: 7px;">
+                                <img src="http://winelibrary.com/images/email-top-mini.gif" style="display: block;" width="144"><div class="email_middle_box"><a href="http://winelibrary.com/emails/pressac05.html" title="The Bordeaux that we saved: 92WS/35 dollars. Read this whole email, a must case buy">The Bordeaux that we...</a><br>12.15.2008</div><img src="http://winelibrary.com/images/email-bot-mini.gif" style="display: block; margin-bottom: 1px;" width="144"><img src="http://winelibrary.com/images/email-top-mini.gif" style="display: block;" width="144"><div class="email_middle_box"><a href="http://winelibrary.com/emails/vigna.html" title="Best deal of 2008?: 91WS/under 20 bucks. The must have case of the season. Presale.">Best deal of 2008?: ...</a><br>12.12.2008</div><img src="http://winelibrary.com/images/email-bot-mini.gif" style="display: block; margin-bottom: 1px;" width="144"><img src="http://winelibrary.com/images/email-top-mini.gif" style="display: block;" width="144"><div class="email_middle_box"><a href="http://winelibrary.com/emails/officeparty.html" title="Holiday party wine offer. Looking for something for your office/house party?">Holiday party wine o...</a><br>12.11.2008</div><img src="http://winelibrary.com/images/email-bot-mini.gif" style="display: block; margin-bottom: 1px;" width="144"><img src="http://winelibrary.com/images/email-top-mini.gif" style="display: block;" width="144"><div class="email_middle_box"><a href="http://winelibrary.com/emails/havensblackblue121008.html" title="Move over Insignia, Dominus and Opus One... The wine that crushed you for 40 dollars">Move over Insignia, ...</a><br>12.10.2008</div><img src="http://winelibrary.com/images/email-bot-mini.gif" style="display: block; margin-bottom: 1px;" width="144"><img src="http://winelibrary.com/images/email-top-mini.gif" style="display: block;" width="144"><div class="email_middle_box"><a href="http://winelibrary.com/emails/wlwoty1.html" title="Wl's Wine of the Year. The results were overwhelming">Wl's Wine of the...</a><br>12.09.2008</div><img src="http://winelibrary.com/images/email-bot-mini.gif" style="display: block; margin-bottom: 1px;" width="144">
+                                </div>
+                      <p style="margin: 4px 10px 0 8px; text-align: center;"><a href="#" onclick="Effect.toggle('latest_emails', 'appear')">Latest Offers</a></p>
+                      </div>
+                      <!-- <img src="http://winelibrary.com/images/service-icons/wld-bot.png" style="display: block;" /> -->
+                    </div>
+
+
+
+          <br>
 
 
 
@@ -175,24 +214,28 @@
                     <li>&#187;<a href="holiday.asp">Holiday 6 Pack info</a></li>
                     <li>&#187;<a href="woty.asp">Our Top 5 wines of the year</a></li>
                 -->
+                
                     <li>»<a href="http://free.winelibrary.com/">Free Shipping Item!</a></li>
-                    <li>»<a href="show_special.asp?section=garyvaynerchukspicks">Gary V's Picks</a></li>
-                    <li>»<a href="thisjustin.asp">This just in!</a></li>                                                       
-                    <li>»<a href="http://winelibrary.com/show_special.asp?section=05brdxinstock">'05 Bordeaux in Stock</a></li>
+                    <li>»<a href="http://winelibrary.com/show_special.asp?rater=&amp;section=garyvaynerchukspicks&amp;search=&amp;Vint=&amp;size=&amp;sDept=&amp;OrderBy=onhand&amp;OrderAD=DESC&amp;x=39&amp;y=8">Gary V's Picks</a></li>
+                    <li>»<a href="thisjustin.asp">This just in!</a></li>   
+                    <li>»<a href="http://winelibrary.com/show_special.asp?rater=&amp;section=05brdxinstock&amp;search=&amp;Vint=&amp;size=&amp;sDept=&amp;OrderBy=onhand&amp;OrderAD=DESC&amp;x=22&amp;y=15"><b>'05 Bordeaux in Stock</b></a></li>
+                    <li>»<a href="http://winelibrary.com/sorted.asp?rater=&amp;search=&amp;Vint=&amp;size=&amp;sDept=Champagne+All&amp;OrderBy=onhand&amp;OrderAD=DESC&amp;x=35&amp;y=7">Champagne</a></li>
+                    <li>»<a href="http://garyvthundercruise.com">Special Events</a></li>
+                    <li>»<a href="http://winelibrary.com/show_special.asp?section=gourmetbaskets08">Gourmet Gift Baskets</a></li>
+                    <li>»<a href="http://winelibrary.com/show_special.asp?section=lastbottlerack">Last Bottle Rack</a></li>
                     <!--<li>&#187;<a href="Wiz_trips.asp">Wine Trips</a></li>-->              
                 </ul>
                 <br>
                 
                 <h3 class="title">Pre-Sales (Futures)</h3>
                 <ul>
-                <li>»<a href="http://winelibrary.com/show_special.asp?section=AustraliaPreSale">Aussie Pre-Sale</a></li>
-                <li>»<a href="http://winelibrary.com/show_special.asp?section=ItalianPre-sale">Italian Pre-Sale</a></li>
-                <li>»<a href="http://winelibrary.com/reviewwine.asp?item=34228&amp;moreinfo=vayniaccab">Vayniac Cab Pre-Sale</a></li>
-                 <li>»<a href="http://winelibrary.com/show_special.asp?section=2005Bordeaux"><b>2005 Bordeaux</b></a></li>
-                <li>»<a href="http://winelibrary.com/reviewwine.asp?item=30809">Argentina Presale</a></li>
-                 <li>»<a href="http://winelibrary.com/show_special.asp?section=CaliPresale">California Presale</a></li>
-
-                    
+                  <li>»<a href="http://winelibrary.com/show_special.asp?section=2006Bordeaux">2006 Bordeaux Futures</a></li>
+                  <li>»<a href="http://winelibrary.com/show_special.asp?section=RhonePreoffers">Rhone Presale</a></li>
+                  <li>»<a href="http://winelibrary.com/show_special.asp?section=ItalianPre-sale">Italian Presale</a></li>
+                  <li>»<a href="http://winelibrary.com/show_special.asp?section=spanishpresale">Spanish Presale</a></li>
+                 <li>»<a href="http://winelibrary.com/reviewwine.asp?item=34228&amp;moreinfo=vayniaccab">Vayniac Cab PreSale</a></li>
+                  <li>»<a href="http://winelibrary.com/show_special.asp?section=aussiepre">Australian Presale</a></li>
+                  
                     <!--
                     <li>&#187;<a href="http://winelibrary.com/show_special.asp?section=spainfutures"Spain Futures">Spain Futures</a></li>
                     -->
@@ -210,11 +253,11 @@
                 <br>
                 <h3 class="title">WL Staff Picks</h3>
                 <ul>
-                    <li>»<a href="http://winelibrary.com/reviewwine.asp?item=38873&amp;moreinfo=mts">Brandon Warnke</a></li>
-                    <li>»<a href="http://winelibrary.com/reviewwine.asp?item=37525&amp;moreinfo=id">Ian Dorin</a></li>
-                    <li>»<a href="http://winelibrary.com/reviewwine.asp?item=37729&amp;moreinfo=db">Dennis Bulluck</a></li>
-                    <li>»<a href="http://winelibrary.com/reviewwine.asp?item=38501&amp;moreinfo=bck">Brant Krihak</a></li>
-                    <li>»<a href="http://winelibrary.com/reviewwine.asp?item=37658&amp;moreinfo=mts">Matt Sitomer</a></li>
+                    <li>»<a href="http://winelibrary.com/reviewwine.asp?item=42250&amp;moreinfo=bw">Brandon Warnke</a></li>
+                    <li>»<a href="http://winelibrary.com/reviewwine.asp?item=38446&amp;moreinfo=id">Ian Dorin</a></li>
+                    <li>»<a href="http://winelibrary.com/reviewwine.asp?item=7527&amp;moreinfo=db">Dennis Bulluck</a></li>
+                    <li>»<a href="http://winelibrary.com/reviewwine.asp?item=41139&amp;moreinfo=bck">Brant Krihak</a></li>
+                    <li>»<a href="http://winelibrary.com/reviewwine.asp?item=42780&amp;moreinfo=mts">Matt Sitomer</a></li>
                    
                                      
                  </ul>
@@ -230,16 +273,20 @@
 
   <h3 class="title">Winelibrary TV</h3>
 
-  <a href="http://tv.winelibrary.com"><img src="/images/current_clean.jpg" border="0" width="140" style="margin-bottom: 0px;">
-  </a><a href="http://tv.winelibrary.com/about">About WLTV</a>
+  <a href="http://tv.winelibrary.com"><img src="http://tv.winelibrary.com/episodes/current_clean.jpg" alt="Wine Library TV" border="0" width="140" style="margin-bottom: 0px;">
+  </a><a href="http://tv.winelibrary.com/about">Wine Library TV</a>
 <img src="/images/playbutton.gif" border="0" style="position: relative; float: right; top: -90px; left: -106px;" width="32">
 
 <h3 class="title" style="margin-top: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spotlight</h3>
-<a href="http://winelibrary.com/reviewwine.asp?item=30338"><img src="/images/banners/Chateau-Au-Grand-Paris.jpg" width="140" border="0"></a>
-<a href="http://winelibrary.com/show_special.asp?section=nulles"><img src="/images/banners/nullesbutton.jpg" width="140" border="0"></a>
-<a href="http://free.winelibrary.com/"><img src="/images/banners/freeWLbutton.jpg" width="140" border="0"></a>
-<a href="http://winelibrary.com/show_special.asp?section=drkarl"><img src="/images/banners/dr-karl-button.jpg" width="140" border="0"></a>
-<a href="http://tv.winelibrary.com/101-wines/"><img src="/images/banners/GV101-button.jpg" width="140" border="0"></a>
+<a href="http://winelibrary.com/show_special.asp?section=giftideas"><img src="/images/banners/gift-button2.jpg" width="140" border="0"></a>
+<a href="http://winelibrary.com/show_special.asp?section=holidaypacks08"><img src="/images/banners/Gift-Packs-Button.jpg" width="140" border="0"></a>
+<a href="http://winelibrary.com/Wiz_club.asp"><img src="/images/banners/wineclub-button.jpg" width="140" border="0"></a>
+<a href="http://winelibrary.com/corp_orders.asp"><img src="/images/banners/Corporate-Button.gif" width="140" border="0"></a>
+<a href="http://winelibrary.com/woty2008.asp"><img src="/images/banners/top5woty08.jpg" width="140" border="0"></a>
+
+
+
+
 
 
 
@@ -259,34 +306,8 @@
 
 
         </div>
-        <style>
-
-</style>
-  <div id="rightcolumn">
-  <!-- <h3 class="title" style="margin-bottom: 0px; margin-top: 0px; width: 165px;">Join Our E-mail</h3> -->
-    <div class="node" id="">
-     <a href="/join_our_email_service.asp"><p class="email_title" style="font-size: 14px;background-color: #F0EAD6;padding: 3px;">CLICK TO SUBSCRIBE</p></a>
-      <a href="http://winelibrary.com/join_our_email_service.asp"><img src="http://winelibrary.com/images/email_logo.gif" border="0" width="165"></a>
-    </div>
-    <div class="node" style="background-color: #F0EAD6;padding-bottom: 3px;padding-top: 5px;">
-      <a href="http://winelibrary.com/join_our_email_service.asp"><p class="email_title">WINE LIBRARY'S</p>
-      <p class="email_title">E-MAIL SERVICE</p></a>
-      <div style="margin-left: 20px;width: 139px;">
-        <li class="points" style="margin-top: 4px;">Join our <a href="http://winelibrary.com/join_our_email_service.asp">Email service</a> today!</li>
-        <li class="points" style="margin-top: 4px;">Looking for Caymus, Insignia, Opus One?</li>
-        <li class="points" style="margin-top: 4px;">Be the first to know and get yours before inevitable, rapid sellouts.</li>
-        <li class="points" style="margin-top: 4px;">Enjoy the privilege of Wine Library's exclusive offers by subscribing today.</li>
-        <li class="points" style="margin-top: 4px;">Your choice: Either the daily offer or our weekly Saturday recap.</li>
-      </div>
-      <hr style="width: 155px; height: 1px; color: #CAC1A5; background-color: #CAC1A5; border: dashed 0px; ">
-      <p class="latest_title">OUR LATEST EMAILS</p>
-      <img src="http://winelibrary.com/images/email_top_bar.gif" style="margin-left: 1px; display: block;"><div class="email_middle_box"><a href="http://winelibrary.com/emails/alamosseleccion050808.html" title="Its big brother hit 98 Points WA: 90 Point QPR Stunner from Argentina">Its big brother hit 98...</a><br>05.08.2008</div><img src="http://winelibrary.com/images/email_bottom_bar.gif" style="display: block;margin-left: 1px;"><img src="http://winelibrary.com/images/email_top_bar.gif" style="margin-left: 1px; display: block;"><div class="email_middle_box"><a href="http://winelibrary.com/emails/cabreo050708.html" title="Tied Tignanello for half the price: 91 Pt Tuscan Price Break inside now in stock ">Tied Tignanello for ha...</a><br>05.07.2008</div><img src="http://winelibrary.com/images/email_bottom_bar.gif" style="display: block;margin-left: 1px;"><img src="http://winelibrary.com/images/email_top_bar.gif" style="margin-left: 1px; display: block;"><div class="email_middle_box"><a href="http://winelibrary.com/emails/prettysally.html" title="Your wallet will thank you: 90 Pt Cabernet/Shiraz QPR Value you" ll="" want="" to="" buy="" by="" the="" case="" '="">Your wallet will thank...</a><br>05.06.2008</div><img src="http://winelibrary.com/images/email_bottom_bar.gif" style="display: block;margin-left: 1px;"><img src="http://winelibrary.com/images/email_top_bar.gif" style="margin-left: 1px; display: block;"><div class="email_middle_box"><a href="http://winelibrary.com/emails/neyershighvalley.html" title="Turley Zinfandel Fans Need To Read This: 91 RP Limited Offer">Turley Zinfandel Fans ...</a><br>05.05.2008</div><img src="http://winelibrary.com/images/email_bottom_bar.gif" style="display: block;margin-left: 1px;"><img src="http://winelibrary.com/images/email_top_bar.gif" style="margin-left: 1px; display: block;"><div class="email_middle_box"><a href="http://winelibrary.com/emails/Barde Haut.html" title="Near perfection next door.  Why this updated 93 RP rated 2005 Bordeaux is a no brainer">Near perfection next d...</a><br>05.02.2008</div><img src="http://winelibrary.com/images/email_bottom_bar.gif" style="display: block;margin-left: 1px;">
-    </div>
-    <div class="node" style="border:1px solid #D3CBB1;">
-     <a href="http://winelibrary.com/reviewwine.asp?item=31281"><img border="0" src="images/banners/Fleur-Bouard.gif"></a>
-    </div>
-  </div>
-            <div id="centercolumn" style="position: absolute; top: 0px; left: 0px;">
+        
+            <div id="maincolumn">
           
 <center>
 <table border="0">
@@ -484,49 +505,20 @@ was last modified on April 10, 2008.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 
         </div> <!-- Main div -->
     </div> <!-- Contenet -->
 </div> <!-- overall -->
 
-
-</div>
-
 <script language="javascript" type="text/javascript">
     var has_error = 0;
     <!--
     
-    //for (var i=0; i<1000; i++) {
-        //var bo = document.getElementById("centercolumn").offsetTop;
-        //alert(bo);
-
-        var bob = document.getElementById("centercolumn");
-        var bo = bob.offsetTop;
-        //alert(bo);
-        if (bo > 10) {
-            //alert("Crap - " + bo );
-            var oH = bob.offsetHeight;
-            bob.style.position = "absolute";
-            bob.style.top = "0px";
-            bob.style.left = "0px";
-            var bob2 = document.getElementById("leftcolumn");
-            var bob3 = document.getElementById("rightcolumn");
-            var bob4 = document.getElementById("content");
-            bob4.style.height='auto';
-            bob4.style.height=oH + 50;
-            has_error = 1;
-            //window.open("http://winelibrary.com/yellefk.asp", "bob", "height=50, width=50");
-        }
-    //}
-    /*
-    //document.write("<style #footer { position: absolute; top: " + bo + "px;  }/style>");
-    */
-    
     -->
 </script>
 <div id="footer">
-<table width="100%">
+<table width="100%" cellspacing="0">
     <tbody><tr>
         <td align="center">
             <a href="wiz_shipping.asp">Shipping Info</a> |
@@ -549,10 +541,12 @@ was last modified on April 10, 2008.</p>
     <tr>
         <td align="center"> 
             Copyright © 2008 Wine Library.  All rights reserved.<br><br>
-            <!--- START SCANALERT CODE --->
-            <a target="_blank" rel="nofollow" href="//verify.hackersafe.com/RatingVerify?ref=www.winelibrary.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.winelibrary.com/12.gif" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
-            <!--- END   SCANALERT CODE --->
         </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="http://www.blueskyfactory.com/"><img src="/images/blue_sky_factory.gif" border="0"></a>
+      </td>
     </tr>
 </tbody></table>
 </div>
