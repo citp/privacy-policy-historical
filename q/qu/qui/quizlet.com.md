@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626154543id_/http%3A//quizlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217004652id_/http%3A//quizlet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Quizlet
 
 Your privacy is critically important to us. At Brainflare we have a few fundamental principles:
 
-  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don’t ask you for personal information unless we truly need it.
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
   * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
   * We aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
@@ -12,8 +12,6 @@ Your privacy is critically important to us. At Brainflare we have a few fundamen
 
 
 Below is our privacy policy which incorporates these goals:
-
-[](http://creativecommons.org/licenses/sa/1.0/deed.en) Note, this Privacy Policy document is available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you. This document itself is adapted from the Privacy Policy of [Automattic](http://automattic.com/), the company behind the excellent free [Wordpress.com](http://wordpress.com/) blogging service.
 
 Brainflare, Inc. (" **Brainflare** ") operates several websites including [brainflare.com](http://brainflare.com/), [quizlet.com](http://quizlet.com/). It is Brainflare's policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -26,6 +24,10 @@ Brainflare also collects potentially personally-identifying information like Int
 ### Gathering of Personally-Identifying Information
 
 Certain visitors to Brainflare's websites choose to interact with Brainflare in ways that require Brainflare to gather personally-identifying information. The amount and type of information that Brainflare gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at [Quizlet](http://quizlet.com/) to provide a username and email address. Those who engage in transactions with Brainflare are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Brainflare collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Brainflare. Brainflare does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+### Children
+
+Quizlet.com is not intended for use by children under the age of 13, and does not knowingly collect personal information from children under 13 years of age. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
 ### Aggregated Statistics
 
@@ -41,4 +43,4 @@ A cookie is a string of information that a website stores on a visitor's compute
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, Brainflare may change its Privacy Policy from time to time, and in Brainflare's sole discretion. Brainflare encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Quizlet account, you should also check your blog's dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+Although most changes are likely to be minor, Brainflare may change its Privacy Policy from time to time, and in Brainflare's sole discretion. Brainflare encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
