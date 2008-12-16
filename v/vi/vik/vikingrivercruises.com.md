@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the vikingrivercruises.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503021625id_/http%3A//www.vikingrivercruises.com/us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikingrivercruises.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216065220id_/http%3A//www.vikingrivercruises.com/us/privacy.aspx) for the most accurate reproduction.*
 
 # Viking River Cruises - Privacy Policy
+
+## Privacy Policy
+
+  
+
 
 Viking River Cruises is committed to respecting and protecting your privacy. This Privacy Policy applies to the Viking River Cruises website and governs its data collection, usage and services. This privacy policy also discloses how we collect, protect, use and share information gathered about you on our website.
 
 ### Information We Collect
 
-You can use our website without divulging any personally identifiable information including your email address. Our website does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis, such as when registering at our website, requesting a brochure or video, or accessing our "request a reservation" or "book now" feature. Viking River Cruises uses such information collected to provide the products or services you request, to improve and customize the content you see, and to contact you about special promotions and new products if requested.
+You can use our website without divulging any personally identifiable information including your email address. Our website does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis, such as when registering at our website, requesting a brochure or video, or accessing our "request a reservation" or "book now" feature. Viking River Cruises uses such information collected to provide the products or services you request, to improve and customize the content you see, and to contact you about special promotions and new products if requested.
 
 ### Personal Information
 
@@ -18,7 +23,7 @@ In addition to personal information, Viking River Cruises may also gather non-pe
 
 ### Registering at Our Website
 
-When you register at our website, we request your email address, name and ZIP code. We do not currently sell our subscribers’ email addresses to third parties. We may share your email address with third parties to deliver brochures, videos, information about cruise promotions, news and other information about our website, products, services or special promotions on our behalf.
+When you register at our website, we request your email address, name and ZIP code. We do not currently sell our subscribers’ email addresses to third parties. We may share your email address with third parties to deliver brochures, videos, information about cruise promotions, news and other information about our website, products, services or special promotions on our behalf.
 
 ### Email Promotions
 
