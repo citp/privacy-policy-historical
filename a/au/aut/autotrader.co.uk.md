@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509145425id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044714id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Auto Trader Privacy Policy - Auto Trader UK
 
