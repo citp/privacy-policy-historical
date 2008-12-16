@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the 123newyear.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614044327id_/http%3A//www.123newyear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123newyear.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025625id_/http%3A//www.123newyear.com/privacy.html) for the most accurate reproduction.*
 
 # About 123newyear.com
-
-1\. What identifiable information is collected from me?
-
-123newyear.com may collect information in one or more ways from different parts of our network of Web sites. 123newyear.com may ask you for personal information at times, including, but not limited to, when you enter in a contest or promotion sponsored by 123newyear.com and/or our other contracted partners; and when you report a problem with one of our sites or services. 123newyear.com occasionally may also ask site user to complete surveys that are use for internal research. Wherever 123newyear.com collects personal information an effort is made to include a link to this Privacy Policy on that page. 
 
 **2\. What are cookies and how 123newyear.com uses them?**
 
