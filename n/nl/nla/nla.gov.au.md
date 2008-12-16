@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224025030id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216053909id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
-
-[Home](https://web.archive.org/) > [About us](https://web.archive.org/library/) > [Policy & Planning](https://web.archive.org/policy/) > [Online](https://web.archive.org/policy/online.html) > Privacy Statement
+# National Library Of Australia | Privacy statement
 
 The purpose of this statement is to let users of this web site know what information is collected about them when they visit this site, how this information is used and if it is disclosed.
 
@@ -29,6 +27,8 @@ Some sites use "cookies" to track a particular user's access to a site. Cookies 
 
 We will only record your e-mail address if you send us a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. We will not use your e-mail address for any other purpose, and will not disclose it, without your consent.
 
+Back to the top 
+
 ## Collecting personal information
 
 From time to time we will use electronic forms on this site to gather personal information for purposes directly related to a function or activity of the Library. When we do so we will let you know the purpose for which the information is being collected (including if the information is to be published), and the legal authority for the collection if it is authorised or required by or under law. 
@@ -45,4 +45,6 @@ We will only publish personal information on this site if it has been collected 
 
 ## Feedback
 
-We welcome [feedback](https://web.archive.org/contact/) from users of this web site in relation to the site's design and practices, and to this Privacy Statement. 
+We welcome [feedback](https://web.archive.org/web/20081216053909id_/http%3A//www.nla.gov.au/contact/) from users of this web site in relation to the site's design and practices, and to this Privacy Statement.
+
+Back to the top 
