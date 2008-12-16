@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snazzyspace.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522084539id_/http%3A//www.snazzyspace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snazzyspace.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030827id_/http%3A//www.snazzyspace.com/privacy.php) for the most accurate reproduction.*
 
 # SnazzySpace.com - Privacy Policy!
 
@@ -78,26 +78,4 @@ Opting not to participate in certain interactive areas, which completely allevia
 
 By using this site, you consent to the collection and use of this information by SNAZZYSPACE.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-[ ](http://www.snazzyspace.com/image-effects/water-reflection/)
-
-[ ](http://www.snazzyspace.com/image-effects/easter-frames/)
-
-[ ](http://www.snazzyspace.com/comment-graphics/post-it-notes/)
-
-[ ](http://www.snazzyspace.com/comment-graphics/post-it-notes/)
-
-[ ](http://www.snazzyspace.com/image-effects/fire-effect/)
-
-[ ](http://www.snazzyspace.com/image-effects/fire-effect/)
-
-[ ](http://www.snazzyspace.com/image-effects/matrix-effect/)
-
-[ ](http://www.snazzyspace.com/image-effects/matrix-effect/)
-
-[ ](http://www.snazzyspace.com/image-effects/floating-hearts/)
-
-[ ](http://www.snazzyspace.com/image-effects/floating-hearts/)
-
-[ ](http://www.snazzyspace.com/image-effects/christmas-effects/)
-
-[ ](http://www.snazzyspace.com/image-effects/christmas-effects/)
+[ ](http://www.snazzyspace.com/skinny-layouts/christmas/page/1 "Christmas Myspace Layouts")
