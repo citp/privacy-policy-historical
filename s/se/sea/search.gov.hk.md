@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search.gov.hk privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412065831id_/http%3A//www.gov.hk/en/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search.gov.hk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165402id_/http%3A//www.gov.hk/en/about/privacy.htm) for the most accurate reproduction.*
 
 # GovHK: Privacy Policy
 
