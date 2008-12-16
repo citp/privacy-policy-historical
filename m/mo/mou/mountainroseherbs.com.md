@@ -1,10 +1,60 @@
-> *The following text is extracted and transformed from the mountainroseherbs.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509143522id_/http%3A//www.mountainroseherbs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainroseherbs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161428id_/http%3A//www.mountainroseherbs.com/privacy.html) for the most accurate reproduction.*
 
 # Mountain Rose Herbs | Privacy and Security Policy
 
-|   
 ---  
-|  | 
+  
+  
+  
+[](http://www.addthis.com/bookmark.php)
+
+[(Accessories & Tools)](http://www.mountainroseherbs.com/tools/tools.html)  
+[(Aroma Sprays)](http://www.mountainroseherbs.com/aroma/a_sprays.html)  
+[(Bags & Boxes)](http://www.mountainroseherbs.com/tools/bags.html)  
+[(Bath Products)  
+](http://www.mountainroseherbs.com/bathbody/body.html)[(Black Tea)](http://www.mountainroseherbs.com/tea_bev/tea_black.html)  
+[(Body & Skin Care)](http://www.mountainroseherbs.com/bathbody/bath.html)  
+[(Books)](http://www.mountainroseherbs.com/books/books.html)  
+[(Bulk Herbs)](http://www.mountainroseherbs.com/bulkherb/bulkherb.html)  
+[(Bulk Spices)](http://www.mountainroseherbs.com/bulkherb/bulkherb.html)  
+[(Butters)](http://www.mountainroseherbs.com/butter/butter.html)  
+[(Capsules)](http://www.mountainroseherbs.com/cap/cap.html)  
+[(Carrier Oils)](http://www.mountainroseherbs.com/bulkoil/bulkoil.html)  
+[(Clays)](http://www.mountainroseherbs.com/clay/clay.html)  
+[(Diffusers & Burners)](http://www.mountainroseherbs.com/aroma/diffuser.html)  
+[(Essential Oils)](http://www.mountainroseherbs.com/aroma/ess.html)  
+[(Facial Care)](http://www.mountainroseherbs.com/face/face.html)  
+[(Flavoring Extracts)](http://www.mountainroseherbs.com/flavoring_extracts/extracts.html)  
+[(Flowering Teas)](http://www.mountainroseherbs.com/tea_bev/tea_flower.html)  
+[(Gift Certificates)](http://www.mountainroseherbs.com/giftcert/gift.html)  
+[(Glass Bottles)](http://www.mountainroseherbs.com/supply/glass_bottles.html)  
+[(Glass Jars)](http://www.mountainroseherbs.com/supply/glass_jars.html)  
+[(Green Tea)](http://www.mountainroseherbs.com/tea_bev/tea_greenwhite.html)  
+[(Hair Care)](http://www.mountainroseherbs.com/hair/hair.html)  
+[(Herbal Extracts)](http://www.mountainroseherbs.com/extract/extract.html)  
+[(Herbal Oils)](http://www.mountainroseherbs.com/oils/herbal.html)  
+[(Herbal Teas)](http://www.mountainroseherbs.com/tea_bev/tea_bev.html)  
+[(Incense)](http://www.mountainroseherbs.com/candle/candle.html)  
+[(Kits & Samples)](http://www.mountainroseherbs.com/aroma/oilkits.html)  
+[(Merchandise)](http://www.mountainroseherbs.com/mrh/mrh.html)  
+[(Misc)](http://www.mountainroseherbs.com/bulkmisc/bulkmisc.html)  
+[(Misters & Droppers)](http://www.mountainroseherbs.com/supply/misc.html)  
+[(Oil Blends & Resins)](http://www.mountainroseherbs.com/aroma/chakra.html)  
+[(Pet Supplies)](http://www.mountainroseherbs.com/animal/animal.html)  
+[(Plastic Bottles)](http://www.mountainroseherbs.com/supply/plastic_bottles.html)  
+[(Plastic Jars)](http://www.mountainroseherbs.com/supply/plastic_jars.html)  
+[(Red Tea)](http://www.mountainroseherbs.com/tea_bev/tea_red.html)  
+[(Salts)](http://www.mountainroseherbs.com/salt/salt.html)  
+[(Salves & Balms)](http://www.mountainroseherbs.com/salves/salves.html)  
+[(Seasoning Blends)](http://www.mountainroseherbs.com/bulkherb/seasoning.html)  
+[(Seaweeds)](http://www.mountainroseherbs.com/seaweed/seaweed.html)  
+[(Seeds)](http://www.mountainroseherbs.com/seeds/seeds.html)  
+[(Sprouting Seeds)](http://www.mountainroseherbs.com/sprouting/sprouting_seeds.html)  
+[(Tea Supplies)](http://www.mountainroseherbs.com/tea_tool/tea_tool.html)  
+[(Tins)](http://www.mountainroseherbs.com/supply/tins.html)  
+[(Wax)](http://www.mountainroseherbs.com/wax/wax.html)
+
+| 
 
 | 
 
@@ -37,6 +87,6 @@ Since 1987 Mountain Rose Herbs has never sacrificed our customer's personal info
 
 **Our promise to you is that we will never sell, dissect, decimate, share, or trade your information. We do not research your buying habits, we do not sell your buying habits, and most of all we do not transfer your online purchasing and personal information onto any other machine. Everything you have given us stays with us......period.**  
   
-© Copyright Protected 2000-2008 Mountain Rose Inc.
+| 
 
 [](http://www.mountainroseherbs.com/about/zerowaste.html)
