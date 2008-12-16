@@ -1,60 +1,159 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609134741id_/http%3A//www.transport.qld.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161310id_/http%3A//www.translink.com.au/qt/translin.nsf/index/privacy_tl) for the most accurate reproduction.*
 
-# Privacy
+# TransLink - Privacy
 
-#### Privacy and security
+| 
 
-Queensland Transport is committed to protecting user privacy. The Queensland Government has established a privacy regime for the Queensland public sector based on 11 Information Privacy Principles. These are contained in [Information Standard 42 - Information Privacy](http://www.qgcio.qld.gov.au/02_infostand/standards.htm) to which agencies are required to adhere.  In compliance with Information Standard 42, we have developed a privacy plan based on the 11 Information Privacy Principles specified in the information standard. View the [Queensland Transport privacy plan](http://www.transport.qld.gov.au/Home/About_us/Working_with_us/Privacy/). 
+Privacy
 
-When you visit this website, our server makes a record of your visit and logs the following information for statistical purposes only:
+Objective
 
-  * the user's server address
-  * the user's top level domain name (for example .com, .gov, .au, and so on)
-  * the date and time you visited the website
-  * the pages accessed and documents downloaded
-  * the previous website visited
-  * the type of browser you use. 
+  
+The TransLink Transit Authority is committed to protecting your personal information. Our objective is to protect the privacy, accuracy and security of your personal information in accordance with the _Queensland Government Information Standard 42 - Information Privacy (_ _IS42_ _)_. 
+
+Policy
+
+  
+This policy explains how we handle and protect your personal information and will be updated as required.  
+In this policy:
+
+"functions and activities" means the functions and activities of the TransLink Transit Authority set out in the _Transport Operations (TransLink Transit Authority) Act 2008_ , which includes:
+
+  * planning for, and delivery of mass transit services for the TransLink area;
+  * delivering, managing and maintaining infrastructure for the services;
+  * carrying out commercial activities related to the services;
+  * provision of information to passengers;
+  * operation, maintenance and development of the journey planner; 
+  * managing integrated ticketing; and
+  * planning for improvements and expansion of the range of services.
+
+  
+"journey planner" means the journey planner tool provided via the journey planner touch screens, www.translink.com.au, the mobile journey planner tool provided at <http://jp.translink.com.au/mobile> and any journey planning functions provided by the TransLink call centre on 13 12 30 or any TransLink information booth.
+
+"personal information" means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion.
+
+"we" and "TransLink" means the TransLink Transit Authority, and includes any contractor or service provider engaged to assist in the performance of our functions and activities.
+
+"you" means any person using this website or services provided as part of our functions and activities.
+
+Collecting information
+
+  
+When you visit this website, our server makes a record of your visit and logs the following information for statistical purposes only:  
 
 
+  * the user's server address;
+  * the user's top level domain name (for example .com, .gov, .au, and so on); 
+  * the date and time you visited the website; 
+  * the pages accessed and documents downloaded; 
+  * the previous website visited; and 
+  * the type of browser you use.
 
-No attempt will be made to identify users, or their browsing activities, unless we are lawfully required to do so for investigation or law enforcement purposes. 
+  
+No attempt will be made to identify users, or their browsing activities, unless we are lawfully required to do so for investigation or law enforcement purposes.
 
-##### Personal information
+Your emails
 
-Steps are taken at all stages of any transaction performed on this website to protect your personal and financial details.  No financial details are stored on the Queensland Transport servers at any stage of a transaction. Once account details are sent to our financial institution they are no longer known to the Queensland Transport system.  Queensland Transport uses VeriSign Secure Site Program which helps to secure all transactions. VeriSign enables information to be sent over the internet in an encrypted form, which assists in protecting against unauthorised access of your personal and financial information.
-
-All applications on the Queensland Transport website contain a privacy statement specific to the purpose for which it is being used.  
-
-
-##### Cookies 
-
-Queensland Transport's website uses 'cookies' as a mean of providing a customised online payment facility. 
-
-[More information is available on our use of cookies](http://www.transport.qld.gov.au/footer/web_footer_cookies).
-
-##### Your emails 
+  
+Your email address is recorded if you send us an email, however, we will not use your email address other than for the purpose for which you provided it. Emails in which assistance is requested will be forwarded to the relevant TransLink Transit Authority officer and/or our contractor and service provider.
 
 Email correspondence sent to this website will be treated as a public record and will be retained in line with relevant legislation. 
 
-Your name and address details will not be added to a mailing list nor will we disclose these details to third parties without your consent unless required by law. Email messages may be monitored by the department's web team for system troubleshooting and maintenance purposes. Emails in which assistance is requested will be forwarded to the relevant departmental officer and/or transport service provider. 
+Email messages may be monitored by our web team for system troubleshooting and maintenance purposes.
 
-##### Security 
+Personal information
 
-The services-online facilities of this website secure transmission of information across the internet. No other section of this website has facilities for securely transmitting information across the internet. We recognise there can be risks with transmitting information across the internet.
+  
+We will only collect personal information that is relevant and necessary for our functions and activities. 
 
-This website contains links to non-Queensland government websites. Queensland Transport is not responsible for the privacy or security practices or the content of those websites. These links are provided for your interest and information and have been added because the content, when viewed by Queensland Transport, was deemed appropriate to Queensland Transport's functions and operations.
+We collect and store personal information that you, our contractor or service provider enter into the journey planner (for example, your home address) or provide to us.
 
-##### Smart card
+Use of personal information
 
-For more detailed information view the [smart card privacy statement](http://www.translink.com.au/qt/translin.nsf/index/go_privacy).
+  
+We will limit our use of your personal information to the performance of our functions and activities and to fulfil our legal obligations.
 
-##### Journey planner
+Disclosure of personal information
 
-For more detailed information view the [journey planner privacy statement](http://www.translink.com.au/qt/translin.nsf/index/jp_privacy).
-
-##### Contact 
-
-If you have any queries about our privacy and security practices, please contact [privacy@transport.qld.gov.au](mailto:privacy@transport.qld.gov.au).  
+  
+In order to perform our functions and activities, we may be required to disclose your personal information to third parties, such as:  
 
 
-Last updated 28 April 2008
+  * service providers where we outsource functions, such as information services, software development or transport planning; 
+  * our contracted public transport service providers, such as Queensland Rail; 
+  * research organisations for the purpose of obtaining data about our services to assist us to improve the delivery of our functions and activities; 
+  * other organisations such as law enforcement agencies which we may be required to disclose information to as required by law or for the purposes of _IS42_.
+
+
+
+Personal information quality
+
+  
+We take reasonable steps to ensure that your personal information is stored accurately. 
+
+Please contact us if you believe the personal information we hold about you is not complete or up to date. (See "contacting us" below).
+
+If we disagree with your request to correct your personal information, you may request that a statement noting the disagreement be attached to your information.
+
+Personal information security
+
+  
+We will protect the personal information we hold against loss, unauthorised access, use, modification and disclosure. We have a range of physical and technological procedures in place to provide a secure environment.
+
+Our security measures include:
+
+  * restricting access to our computer systems and physical records to authorised persons and preventing users from accessing information they have no need to access;
+  * using firewalls and other network security measures within our computer systems; 
+  * requiring employees to use unique passwords to gain access to systems; 
+  * only allowing access to personal information where the individual seeking access has satisfied our identification requirements; and 
+  * where personal information is shared with other parties, requiring those parties to comply strictly with our privacy requirements.
+
+
+
+Cookies
+
+  
+The TransLink Transit Authority website uses cookies for the journey planner. More information is available on our use of cookies.
+
+Smart card
+
+  
+For more detailed information view the [smart card privacy statement](https://web.archive.org/qt/translin.nsf/index/privacy_go).
+
+External links
+
+  
+This website contains links to non - TransLink Transit Authority websites. The TransLink Transit Authority is not responsible for the privacy or security practices or the content of those websites. 
+
+Contacting us
+
+If you have any queries about our privacy and security practices, please contact:
+
+Privacy Officer  
+TransLink Transit Authority  
+GPO Box 50  
+Brisbane  
+Queensland 4001
+
+**Phone**  
+13 12 30
+
+**Email**  
+[privacy.officer@translink.com.au](mailto:privacy.officer@translink.com.au)
+
+**National Relay Service**
+
+ **TTY and modem**  
+13 36 77
+
+**Direct TTY**  
+3369 3377
+
+**Speech to Speech Relay Service**  
+1300 555 727
+
+
+  
+| 
+
+Journey planner
