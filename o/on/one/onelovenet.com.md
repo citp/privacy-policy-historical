@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onelovenet.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609071635id_/http%3A//www.onelovenet.com/index.cgi/def/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelovenet.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216133949id_/http%3A//www.onelovenet.com/index.cgi/def/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - OneLoveNet.com: Find Singles Free Dating Site, Free Online Dating Service, Personal Ads
 
@@ -6,13 +6,12 @@
 [Local Singles Free](http://www.onelovenet.com/index.cgi/def/localsingles/)  
 [Top Hobbies](http://www.onelovenet.com/index.cgi/def/topinterests/)
 
- **Welcome,  
-new user!**
+ **Welcome,**
 
   
  **login here:**[Free Registration](http://www.onelovenet.com/index.cgi/def/step1/)  
-[Upload photo](http://www.onelovenet.com/index.cgi/def/upload_form/)  
-Search profiles  
+[Upload Photo](http://www.onelovenet.com/index.cgi/def/upload_form/)  
+Search Profiles  
 * [Man looking for man](http://www.onelovenet.com/index.cgi/def/searchform/usertypeid/1/pref_usertypeid/1/)  
 * [Man looking for woman](http://www.onelovenet.com/index.cgi/def/searchform/usertypeid/1/pref_usertypeid/2/)  
 * [Woman looking for woman](http://www.onelovenet.com/index.cgi/def/searchform/usertypeid/2/pref_usertypeid/2/)  
