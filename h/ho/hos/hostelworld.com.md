@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609065505id_/http%3A//www.hostelworld.com/privacy.php%3Fnopopup%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216231314id_/http%3A//www.hostelworld.com/privacy.php%3Fnopopup%3D1) for the most accurate reproduction.*
 
 # Hostelworld.com - Secure Online Bookings at Hostels Worldwide
-
-## Hostelworld.com Privacy Policy
-
-  
-
 
 Hostelworld.com realises some people are unsure about entering their personal details into websites over the Internet. Below, we explain how we use your information and how we protect your privacy. Hostelworld.com and its associated companies respect and protect your right to privacy in relation to your interactions with this website. Any information which is provided by you to Hostelworld.com via this website or otherwise will be treated in accordance with the terms of the Data Protection Acts, 1988 and 2003 and/or such amending or replacement legislation as may be adopted in Ireland from time to time. 
 
@@ -33,6 +28,3 @@ Hostelworld.com realises some people are unsure about entering their personal de
 > HOSTELWORLD.COM, ITS DIRECTORS, EMPLOYEES, SERVANTS AND AGENTS, AFFILIATES OR OTHER REPRESENTATIVES AND THEIR RESPECTIVE PARENT AND SUBSIDIARY COMPANIES SHALL NOT BE LIABLE IN RESPECT OF ANY CLAIMS, EMERGENCIES, DEMANDS, CAUSES OF ACTION, DAMAGES, LOSSES, EXPENSES INCLUDING WITHOUT LIMITATION, REASONABLE ATTORNEY FEES AND COSTS OF PROCEEDINGS ARISING OUT OF OR IN CONNECTION WITH THE USE AND/OR DISSEMINATION OF PERSONAL INFORMATION RELATING TO YOU IN ACCORDANCE WITH THIS PRIVACY POLICY AND YOUR CONSENT. 
 > 
 > Hostelworld.com reserves the right in its sole discretion to amend this Privacy and Security Statement at any time and you should regularly check this privacy policy for any amendments.
-
-  
-
