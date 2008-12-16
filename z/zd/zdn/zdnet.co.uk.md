@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the zdnet.co.uk privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615040008id_/http%3A//www.zdnet.co.uk/misc/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152322id_/http%3A//www.zdnet.co.uk/misc/privacy/index.htm) for the most accurate reproduction.*
 
 # ZDNet UK's Privacy Statement
 
 We take your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to ZDNet UK.
 
-### 1\. What Personally Identifiable Information Does CNET Networks Collect?
+### 1\. What Personally Identifiable Information Does CBS Interactive Collect?
 
-Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Because we derive our revenue mainly from advertising, collecting information is essential to keeping our services free to users. We collect personally identifiable information when you provide it to us, such as when you register on one of our sites, when you subscribe for a print magazine or an e-mail newsletter, when you use certain products or services, such as our Talkback service. Several of the services that we offer on our sites, such as our whitepaper database may require registration as a condition of use. Once you register with one of our sites you are no longer anonymous to us. CNET Networks may also receive information about you from other sources and add it to the information you have provided to us.
+Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Because we derive our revenue mainly from advertising, collecting information is essential to keeping our services free to users. We collect personally identifiable information when you provide it to us, such as when you register on one of our sites, when you subscribe for a print magazine or an e-mail newsletter, when you use certain products or services, such as our Talkback service. Several of the services that we offer on our sites, such as our whitepaper database may require registration as a condition of use. Once you register with one of our sites you are no longer anonymous to us. CBS Interactive may also receive information about you from other sources and add it to the information you have provided to us.
 
-### 2\. What Anonymous Information Does CNET Networks Collect?
+### 2\. What Anonymous Information Does CBS Interactive Collect?
 
 _Cookies_  
 Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information when, in which case we use the information to enhance your services in the ways described below. You may elect not to allow cookies to be collected by adjusting your settings on your browser.
@@ -31,9 +31,9 @@ In the UK, we use the DoubleClick DART technology for serving advertisements on 
 
 Additionally, some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. In both cases, these third-party advertising companies employ cookie and Web bug technologies to measure advertisement effectiveness. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the website of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
 
-### 3\. How Does CNET Networks Use The Information?
+### 3\. How Does CBS Interactive Use The Information?
 
-CNET uses the information we gather for four general purposes:
+CBS Interactive uses the information we gather for four general purposes:
 
   * To customise the advertising and content you see
   * To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you
@@ -42,13 +42,13 @@ CNET uses the information we gather for four general purposes:
 
 
 
-### 4\. How Does CNET Networks Share The Information?
+### 4\. How Does CBS Interactive Share The Information?
 
 _Personally Identifiable Information_  
-CNET may make your personally identifiable information available to other companies or people when:
+CBS Interactive may make your personally identifiable information available to other companies or people when:
 
   * We have your consent to share the information
-  * We have engaged companies to work with or on behalf of CNET to provide a product or service that you have requested, such as jobs by email announcements
+  * We have engaged companies to work with or on behalf of CBS Interactive to provide a product or service that you have requested, such as jobs by email announcements
   * You use co-branded services. When you use a co-branded service within our network of sites and you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies
   * We respond to injunctions, court orders or legal process; or we believe that your actions violate applicable laws or any usage guidelines for specific products or services, or threaten the rights, property or safety of our company, our users, or others
 
@@ -81,7 +81,7 @@ Any modifications to our privacy practices will be reflected first within this a
 
 Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail to [ukmarketing@zdnet.co.uk](mailto:ukmarketing@zdnet.co.uk?subject=ZDNet%20UK%20Privacy%20Feedback) or sent by mail to our offices at: 
 
-CNET Networks UK Ltd  
+CBS Interactive  
 5 - 11 Lavington Street,  
 London,  
 SE1 0NZ
@@ -90,4 +90,4 @@ We read every message submitted and try to reply promptly to every one - please 
 
 E-mail contacts for questions - [ukmarketing@zdnet.co.uk](mailto:ukmarketing@zdnet.co.uk).
 
-UPDATED DECEMBER 2006
+UPDATED October 2008
