@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the divavillage.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214223413id_/http%3A//www.divavillage.com/article.php%3Fid%3D24072) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divavillage.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015112id_/http%3A//www.divavillage.com/article.php%3Fid%3D24072) for the most accurate reproduction.*
 
 # Privacy Policy - DivaVillage.com: Fashion, Entertainment, Beauty, Hair, Hot Finds
 
-|  | 
-
-Diva Village   
-  
----  
-|   
-  
-Privacy Policy
-
- **Links to other sites  
+**Links to other sites  
 **
 
 You should be aware that when you are on the DivaVillage site, you might be directed to other site that are beyond our control. Every site on the web has a different privacy policy and different policies regarding your personal information. The privacy policies and the practices of site outside of DivaVillage are beyond our control. It is your responsibility to read and understand the privacy policies of any and all website you visit on the internet These other site may send their own cookies to users, or otherwise collect data or solicit personal information. Always be aware of where you end up on the net. 
@@ -81,6 +72,3 @@ In addition to the foregoing, DivaVillage may share or disclose personally ident
 ·        we need to protect our legal rights (for example, if we are trying to collect money you owe us); 
 
 When you voluntarily give out any personal information, like your name, mailing address, telephone number, city, or school, in chat areas or on bulletin boards, that information can be collected and used by others. They may send you messages that you don't want or that are inappropriate. We suggest that you never post this type of information in chat rooms, or other areas open to the public, for your own safety. 
-
-  
-| 
