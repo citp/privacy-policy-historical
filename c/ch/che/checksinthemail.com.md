@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checksinthemail.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509061801id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksinthemail.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154943id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
 
 # Checks In The Mail - Online Privacy Policy
 
@@ -79,7 +79,7 @@ Click the image below to view the certificate information provided at Verisign's
 
 > Should customers need to modify personal or financial information you may do so by contacting us: 
 
-    1. E-mail [info@citm.com](mailto:info2@citm.com)
+    1. E-mail [info@citm.com](mailto:info@citm.com)
     2. Call the following telephone number: (866) 639-2432
 
 
