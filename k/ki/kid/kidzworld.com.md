@@ -1,73 +1,72 @@
-> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616052611id_/http%3A//www.kidzworld.com/chat/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012048id_/http%3A//www.kidzworld.com/chat/privacy) for the most accurate reproduction.*
 
 # Kidzworld :: Free Kids & Teen Chat Room | Online Moderated Chatroom | Meet & Talk with Friends | Safe & Secure
 
-Kidzworld has developed this policy statement to reflect our commitment to our users' privacy.
+Kidzworld is a leading safe website for kids. We have developed this policy statement to reflect our commitment to kids safety, security and privacy. The kids on Kidzworld have access to the safest kids website, however, we do try to educate them to be aware of what they are doing and to take steps to ensure their own safety.
 
-#### Children's Online Privacy Protection Act
+## Children's Online Privacy Protection Act
 
-COPPA (Children's Online Privacy Protection Act) became effective on April 21, 2000 . The regulations apply to the online collection of personal information from children 12 years and younger. The Act spells out what we, as website operators, must include in our privacy policy, when and how to seek verifiable consent from a parent and what responsibilities we, as website operators, have to protect and secure children's privacy and safety online. 
+Kidzworld is a the leading safe website for kids. It was established in 1999, by Allen W. Achilles as a direct result of his concern for the safety and security of his own children online. Since that time. Allen Achilles has been a leader in ensuring the safety and security of kids online is protected. COPPA (Children’s Online Privacy Protection Act) became effective on April 21, 2000. The regulations apply to the online collection of personal information from children 12 years and younger. The Act spells out what website operators, need to include in privacy policy, when and how to seek verifiable consent from a parent and what responsibilities website operators, have to protect and secure children’s privacy and safety online. Kidzworld is the leading safe website for kids and respects the privacy of it users, who are kids.
 
-COPPA applies to individual identifiable information about a child (12 or younger) that is collected online, such as full name, home address, email address, telephone number or any other information that would allow someone to identify or contact a child. The Act also applies to other types of information, such as hobbies, interests and user information gathered through the use of cookies and other methods of tracking, when they are tied to individually identifiable information. 
+COPPA applies to individual identifiable information about a child (12 or younger) that is collected online, such as full name, home address, email address, telephone number or any other information that would allow someone to identify or contact a kid. The Act also applies to other types of information, such as hobbies, interests and user information gathered through the use of cookies and other methods of tracking, when they are tied to individually identifiable information.
 
-Kidzworld is a tireless advocate of Internet privacy and embraces the Children's Online Privacy Protection Act (COPPA). We take extraordinary measures to ensure and secure the privacy and safety of our users. 
+Kidzworld and founder Allen Achilles are tireless advocates of Internet privacy. As the only fully moderated website for kids, we take extraordinary measures to ensure and secure the privacy and safety of our kids.
 
-#### Kidzworld User Registration and Membership
+## Kidzworld User Registration and Membership
 
-Our registration form requires users to give us contact information like their name, email address and demographic information (age, gender, general location and personal likes and dislikes). This information is used to get in touch with our members when necessary. For users under 13 years old, we are required to send their parent/guardian an email notifying them that they have registered at Kidzworld and provided us with personally identifiable information. For users 12 and under we obtain permission from their parent/guardian before they can be fully registered. We do this by sending them a confirmation email to which they must respond. 
+Our registration form requires kids to provide us with contact information: name, email address and demographic information (age, gender, state/province). This information is used to get in touch with our members kids if necessary. For kids over 13 years old, we send their parent/guardian an email notifying them that they have registered at Kidzworld and provided us with personally identifiable information. For kids 12 and under we obtain permission from the kids parent/guardian before the registration is completed. We send them a confirmation email to which they must respond.
 
-We do not disclose users' personal information to anyone, at any time, for any reason. Parents or guardians can review their child's personal information, once verifiable parental consent has been received by Kidzworld. Verifiable consent can be given by one of the following methods - following the link provided in the confirmation email sent to you, providing a signed form from a parent via postal mail or facsimile or even giving us a call. Upon request, a parent may delete or prohibit the further collection of their child's personal information by contacting us at [privacy@kidzworld.com](mailto:privacy@kidzworld.com) and clearly stating the nature of their inquiry. Any contact made with members will be through the facilities of Kidzworld. 
+We do not disclose the kids personal information to anyone, at any time, for any reason. Parents or guardians can review their kid's personal information once we receive verifiable identification. Verifiable consent can be given by one of the following methods: following the link provided in the confirmation email, provide a signed form via postal mail or facsimile or even giving us a call. Upon request, parents may delete or prohibit the further collection of their child's personal information by contacting us at [privacy@kidzworld.com](mailto:privacy@kidzworld.com) and clearly state the nature of their inquiry. Any contact made with our member kids is done so through the facilities of Kidzworld.
 
-Another way that Kidzworld accesses information about our users is through IP addresses. An IP address is something that is unique to your computer, and is used to identify and collect broad demographic information (like age, gender, regional information and generic interests). 
+Another way that Kidzworld accesses information about kids is through IP addresses. An IP address is something that is unique to your computer, and is used to identify and collect broad demographic information (like age, gender, regional information and generic interests). As a safe website for kids, tools such as these can be used positively and in the sole interest of protecting the privacy and safety of all kids online.
 
-Our site also uses a form for users to request information, products and services. We collect users' unique identifiers (like their Kidzworld on-screen name) to fulfill these requests. 
+Kidzworld also uses a form for kids to request information, products and services. We collect kids unique identifiers (like their Kidzworld on-screen name) to fulfill these requests.
 
-Kidzworld hosts regular contests in which we ask visitors for contact information (like their e-mail address). This information is used strictly to contact entrants when necessary (like to let them know they have won). Contact information collected for contests is deleted once winners have been confirmed. You do not need to be a registered member to enter contests. 
+Kidzworld hosts regular contests in which we ask kids for contact information (like their e-mail address). This information is soley used to contact winners. Contact information collected for contests is deleted once winners have been confirmed. Participation in contests is open to all kids, registered or not.
 
-#### The KW Zone - Social Networking at Kidzworld
+## The KW Zone - Social Networking at Kidzworld
 
-The KW Zone is the latest, and most exciting, component of the Kidzworld experience. The KW Zone allows users to create their own online profile where they can design backgrounds, upload pictures and videos, make friends and interact with other members with similar interests. All content on profile pages is strictly monitored, but members are still cautioned that anything they upload (and is subsequently approved) will then be viewable across the world wide web. We recommended that you only upload things that you are willing to share with everyone. 
+The KW Zone is the latest, and most exciting, component of the Kidzworld experience. The KW Zone allows users to create their own online profile where they can design backgrounds, upload pictures and videos, make friends and interact with other members with similar interests. All content on profile pages is strictly monitored, but members are still cautioned that anything they upload (and is subsequently approved) will then be viewable across the world wide web. We recommended that you only upload things that you are willing to share with everyone.
 
-#### Chat Rooms and Bulletin Boards
+## Chat Rooms and Bulletin Boards
 
-Kidzworld has chat rooms, message boards, discussion groups and forums. These are accessible to our registered users. Users should be aware that any posts and conversations in these areas becomes public information. You should NOT disclose any personally identifiable information. Your username is the only identity you should have, and that is how people should know you on the Internet. Kidzworld's chatroom and message boards are monitored at all times by experienced Kidzworld staff. Our chatroom is open from noon to 7:00PM Pacific Time (PST). Our chat moderators take extraordinary steps to ensure our users do not divulge personal information. Anyone who tries to reveal, or ask for, personal information will be removed from both the chat and message boards for 24 hours. If problems continue with the same user, their IP address could be permanently blocked and future access denied to the website from that IP address. 
+Kidzworld has safe, moderated chat rooms, bulletin boards, discussion groups and forums. These are only accessible by our registered users. We make the kids aware that postings and conversations in these areas becomes public information. Kids are not allowed to disclose any personally identifiable information. The kidzworld username is their only identity at Kidzworld, and that is how people should know you on the Internet.
 
-#### E-cards
+Kidzworld’s safe and secure chatroom and bulletin boards are moderated at all times by experienced Kidzworld staff. Our chatroom is open from 11am to 7:00pm Pacific Time (PST). Our chat moderators take extraordinary steps to ensure that the kids do not divulge personal information. Kids who tries to reveal, or ask for, personal information will be removed from both the chat and message boards for 24 hours. If problems continue with the same kid, their IP address could be permanently blocked and future access denied to the website from that IP address.
 
-Kidzworld offers numerous e-cards for users to send to family and friends. To send an e-card, users must provide their email, their name, the recipient's email and the recipient's name. Information entered in the e-card is used solely for the purpose of sending the e-card. It is not stored or retained by Kidzworld. 
+## E-cards
 
-#### Outbound Links
+Kidzworld offers numerous public domain e-cards for kids to send to family and friends. To send an e-card, kids must know the email address of the person that they are sending to. Thus, it can readily be assumed that they already know this person in real life. They must also include their own email addres and their name. Failure to do so would result in the email being treated as spam. Information entered in the e-card is used solely for the purpose of sending the e-card. It is not stored or retained by Kidzworld.
 
-Our site contains links to other sites. Although Kidzworld is not responsible for the privacy practices or the content of other sites, we screen all sites accessible from Kidzworld to ensure that they comply with our standards. When a user clicks on an outbound link, they are first directed to a page informing them that they are about to leave Kidzworld. 
+## Outbound Links
 
-#### Email communications
+Our site contains links to other sites. Although Kidzworld is not responsible for the privacy practices or the content of other sites, we screen all sites accessible from Kidzworld, as a safe website for kids, to ensure that they comply with our standards. When a kid clicks on an outbound link, they are first directed to a page informing them that they are about to leave Kidzworld.
 
-Kidzworld allows users to opt-out of receiving communications from us in the initial registration form. If a user wishes to opt-out after completing the registration form, they can do so by contacting us at [privacy@kidzworld.com](mailto:privacy@kidzworld.com) with the subject, "Cancel". They can also unsubscribe by clicking on the Unsubscribe link in their next newsletter. 
+## Email communications
 
-#### Third Party Advertising
+Occasionally Kidzworld may communicate with the kids by email. Kidzworld allows kids to opt-out of receiving communications from us in the registration form. If a user wishes to opt-out after completing the registration form, they can do so by contacting us at [privacy@kidzworld.com](mailto:privacy@kidzworld.com) or by clicking on the Unsubscribe link in the next newsletter. 
 
-The ads appearing on Kidzworld are delivered to members by Burst Media, our Web advertising partner. Information about your visit to Kidzworld, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to control the delivery of ads to you on this site. 
+## Advertising
 
-#### Third Party Cookies
+Advertising on Kidzworld is provided by Gorilla Nation, using the Dart/DoubleClick ad serving platform. Information about your visit to Kidzworld, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to control the delivery of ads to you on this site.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+## Third Party Cookies
 
-#### Security
+In the course of serving advertising, our third-party advertiser may place or recognize a unique cookie on your browser. This does not have any inmpact on the kids safety on the website.
 
-Kidzworld has security measures in place to protect the loss, misuse and alteration of the information under our control. Passwords and personal information is collected and stored on our secure servers. Paper records of data and financial transactions are stored in a locked facility. Information will only be divulged to law enforcement agencies upon subpoena. 
+## Security
 
-#### Account Cancellation
+Kidzworld is a safe website for kids. It has security measures in place to protect the loss, misuse and alteration of the information under our control. Passwords and personal information is collected and stored on our secure servers. Paper records of data and financial transactions are stored in a locked facility. Information will only be divulged to law enforcement agencies upon subpoena.
 
-To have an account cancelled, the current account holder must send an e-mail (from the e-mail address that is registered with the account) to [Hawkery@kidzworld.com](mailto:hawkery@kidzworld.com) requesting their account be cancelled. Parents who wish to have a child's account cancelled must send an email to the above address from a verified e-mail address (see above, under Registration and Membership) or through any of the other verified contact methods listed above.
+## Contacting Us and Account Cancellation
 
-#### Contacting Us
-
-If you have any questions or comments about this privacy statement, the practices of this site or your dealings with Kidzworld, you can contact us at [privacy@kidzworld.com](mailto:privacy@kidzworld.com), or by snailmail at: 
-
-Kidzworld.com, Inc.   
-Suite 301, 470 Granville St   
-Vancouver, British Columbia   
-Canada, V6C 1V5 
-
-Toll-free: 1-800-668-0071  
-General: 1-604-688-2010 
+If you wish to cancel your account or have any questions or comments about our privacy statement, our practices or your dealings with Kidzworld, you can contact us at [privacy@kidzworld.com](mailto:privacy@kidzworld.com), or by snailmail at: 
+    
+    
+      Kidzworld.com, Inc.
+      Suite 301, 470 Granville St 
+      Vancouver, British Columbia 
+      Canada, V6C 1V5
+      Toll-free: 1-800-668-0071
+      General: 1-604-688-2010 
+    
