@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtogetridofstuff.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615233852id_/http%3A//www.howtogetridofstuff.com/site-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtogetridofstuff.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024350id_/http%3A//www.howtogetridofstuff.com/site-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,5 +37,3 @@ We have appropriate security measures in place in our physical facilities to pro
 If you feel that this site is not following its stated information policy, please contact us at the above addresses or phone number.
 
 Thank you.
-
-[](http://www.addthis.com/bookmark.php)
