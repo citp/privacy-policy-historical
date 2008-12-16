@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thumbshots.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621230802id_/http%3A//www.thumbshots.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbshots.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160239id_/http%3A//www.thumbshots.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Thumbshots.com - Corporate - Privacy Policy
 
