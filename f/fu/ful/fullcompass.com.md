@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515092852id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216091702id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.*
 
 # Privacy Statement | Full Compass
-
-**800-356-5844** | 608-831-7330 | Fax: 608-831-6330   
-**Monday - Friday 9:00 - 5:30 CST**   
-¡Expertos que hablan Español disponibles en x1178 Y x1164!
 
 #### What Information Do We Collect?
 
