@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the rei.com privacy policy that was archived on 2008-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080615061443id_/http%3A//www.rei.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rei.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217004913id_/http%3A//www.rei.com/help/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:rei="http://www.rei.com/ns/rei"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="reiShortcut_requestUri" content="/privacy">
+<meta name="reiShortcut_requestUri" content="/help/privacy.html">
 <meta name="reiShortcut_targetUrl" content="/Transform.do?xml=/content/shared/help/privacy.html&amp;xsl=ultraTransform&amp;storeClass=rei&amp;sectionClass=help&amp;pageClass=content">
 <meta name="reiServer_name" content="www.rei.com">
 <meta name="reiParamXml" content="/content/shared/help/privacy.html">
 <meta name="reiParamXsl" content="ultraTransform">
-<title>Help: REI Privacy Policy</title><style type="text/css" media="all">
+<title>REI Privacy Policy</title><style type="text/css" media="all">
 
 @import url("/css/reiGlobalCss");
 @import url("/css/sections/helpStyle.css");
 </style><script type="text/javascript">
+				
 			var isUltraTransform = true;				
 			var jsIsCheckout = false;
 			var httpsPath = 'https://www.rei.com/';
@@ -20,9 +21,10 @@
 			var httpHost = 'http://www.rei.com/';
 			var httpsHost = 'https://www.rei.com/';
 			var returnUrl = window.location;
-			var yourAccountInView = 'YourAccountInfoInView?storeId=8000&langId=-1&catalogId=40000008000';
+			var storeId = '8000'; 
 			var image_path = 'http://media.rei.com';
-			var yourAccountOutView = 'YourAccountInfoOutView?storeId=8000&langId=-1&catalogId=40000008000';
+			var yourAccountInView = 'YourAccountInfoInView?storeId=8000';
+			var yourAccountOutView = 'YourAccountInfoOutView?storeId=8000';
 			var pageIsSecure = false;
 			var referringUrlPath = '/';		
 				
@@ -44,6 +46,18 @@ href = href.replace(/[#']/g, '');
 cmCreateManualLinkClickTag(href+ '?cm_sp=' + cmRe, linkName);
 }
 
+var windowOnloadDone = false;
+function origOnload() {
+}
+origOnload = window.onload;
+function init() {   
+            windowOnloadDone = true;
+}           
+window.onload=function(){
+            origOnload();
+            init();
+}
+
 var currentUrl = window.location.href;			
 function setCookie(name, value){
 var expdate = "Fri, 31-Dec-99 11:59:59 GMT"
@@ -62,57 +76,107 @@ if( numOfItems == 1 ) multipleItems = "";
 var makeCmReRun = false;
 
 function makeCmRe(){
-if(makeCmReRun == false){
-makeCmReRun = true;
-$('#pageContent a, #sidebarWrapper a') .one('mouseover', function ()
-    {
-        var parentId1 = $(this) .parents('[id = "pageContent"],[id = "sidebarWrapper"]') .get(0) .id;
-        var parentId2 = $(this) .parents('[id]') .get(0) .id;
-        var linkContent;
-        if ($(this) .children('img') .length > 0 && $(this) .children('img') .attr('alt') && $(this) .children('img') .attr('alt') .length > 0) {
-            linkContent = $(this) .children('img') .attr('alt') .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
-        } else if ($(this) .children('img') .length > 0) {
-        	linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
-        } else {
-            linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
-        }
-        $(this) .attr('manual_cm_re', parentId1 + '*' + parentId2 + '*' + linkContent);
-    });
-  }
+	if (windowOnloadDone == true) {
+		if(makeCmReRun == false){
+		makeCmReRun = true;
+		$('#pageContent a, #sidebarWrapper a') .one('mouseover', function ()
+		    {
+		        var parentId1 = $(this) .parents('[id = "pageContent"],[id = "sidebarWrapper"]') .get(0) .id;
+		        var parentId2 = $(this) .parents('[id]') .get(0) .id;
+		        var linkContent;
+		        if ($(this) .children('img') .length > 0 && $(this) .children('img') .attr('alt') && $(this) .children('img') .attr('alt') .length > 0) {
+		            linkContent = $(this) .children('img') .attr('alt') .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+		        } else if ($(this) .children('img') .length > 0) {
+		        	linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+		        } else {
+		            linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+		        }
+		        $(this) .attr('manual_cm_re', parentId1 + '-_-' + parentId2 + '-_-' + linkContent);
+		    });
+		 $('#bannerZone1 a, #bannerZone2 a, #bannerZone3 a') .one('mouseover', function ()
+		    {
+		    	var store = "REI";
+			if (storeId == "8001") {
+			    store = "Outlet";
+			}  
+			var parentId = $(this) .parents('[id]') .get(0) .id;
+			var param1 = 'banner-_-' + parentId + '_' + store + '-_-';		        
+			var linkContent;
+			if ($(this) .children('img') .length > 0 && $(this) .children('img') .attr('alt') && $(this) .children('img') .attr('alt') .length > 0) {		        
+			    linkContent = $(this) .children('img') .attr('alt') .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+			} else if ($(this) .children('img') .length > 0) {
+			    linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+			} else {		        
+			    linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+			}      	        		
+		     	$(this).click(function() {
+		     		cmSpFromCmRE($(this).attr('href'),param1 + linkContent,'');
+                 		});
+
+		    });
+		     $('#siteWideMsg a') .one('mouseover', function ()
+		     {
+			var store = "REI";
+			if (storeId == "8001") {
+			store = "Outlet";
+			}
+			else if (storeClass == "adv") {
+			store="ADV"
+			}
+			var param1 = 'banner-_-sitewide_' + store + '-_-';		        
+			var linkContent;
+			if ($(this) .children('img') .length > 0 && $(this) .children('img') .attr('alt') && $(this) .children('img') .attr('alt') .length > 0) {		        
+				linkContent = $(this) .children('img') .attr('alt') .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+			} else if ($(this) .children('img') .length > 0) {
+				linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+			} else {		        
+				linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+			}
+			$(this) .attr('manual_cm_re', param1+linkContent);
+			$(this).attr('onclick', "cmSpFromCmRE($(this).attr('href'),'" + param1+linkContent + "');return true;" );
+		  });
+		  }
+	}		  
 }
 
-var makeCmSpRun = false;
-
-function makeCmSp(){
-if(makeCmSpRun == false){
-makeCmSpRun = true;
-    $('#headerWrapper a, #footerWrapper a') .one('mouseover', function ()
-    {
-        var parentId1 = $(this) .parents('[id = "headerWrapper"],[id = "footerWrapper"]') .get(0) .id; 
-        var parentId2 = $(this) .parents('[id]') .get(0) .id .replace('hunt3', 'subNav') .replace('hunt2', 'navTabs') .replace('hunt1', 'utilityLinks');
-        var linkContent;
-        if ($(this).hasClass('catList')){
-        	var index = $(this) .attr('class') .indexOf(' ');
-        	linkType = $(this) .attr('class') .substring(index+1);
-        	linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
-        } else if($(this).parent('li').parent('ul').siblings('a').hasClass('catList')) {
-        	var catListObj = $(this).parent('li').parent('ul').siblings('a.catList');
-        	var index = catListObj .attr('class') .indexOf(' ');        	
-        	linkType = catListObj .attr('class') .substring(index+1) + ':' + $(this).parent('li').parent('ul').children('.subTitle') .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
-        	linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
-		} else if ($(this) .children('img') .length > 0) {
-            linkType = 'image';
-            linkContent = $(this) .children('img') .attr('alt') .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
-        } else {
-            linkType = 'text';
-            linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
-        }
-        $(this) .attr('manual_cm_sp', parentId1 +':' + parentId2 + '*' + linkType + '*' + linkContent);
-    });
-  }
+var makeCmSpDone = {};
+function makeOneCmSp(o){
+	if (windowOnloadDone == true) {
+	    if (!makeCmSpDone[o]) {
+			makeCmSpDone[o] = true;
+		    cmSpMouseover.apply($(o));
+		}
+	}		
+}
+function cmSpMouseover()
+{
+    var parentId1 = $(this) .parents('[id = "headerWrapper"],[id = "footerWrapper"]') .get(0) .id; 
+    var parentId2 = $(this) .parents('[id]') .get(0) .id .replace('hunt3', 'subNav') .replace('hunt2', 'navTabs') .replace('hunt1', 'utilityLinks');
+    var linkContent;
+    if ($(this).hasClass('catList')){
+    	var index = $(this) .attr('class') .indexOf(' ');
+       	linkType = $(this) .attr('class') .substring(index+1);
+       	linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+    } else if($(this).parent('li').parent('ul').siblings('a').hasClass('catList')) {
+       	var catListObj = $(this).parent('li').parent('ul').siblings('a.catList');
+       	var index = catListObj .attr('class') .indexOf(' ');        	
+       	linkType = catListObj .attr('class') .substring(index+1) + ':' + $(this).parent('li').parent('ul').children('.subTitle') .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+       	linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+	} else if ($(this) .children('img') .length > 0) {
+        linkType = 'image';
+        linkContent = $(this) .children('img') .attr('alt') .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+    } else {
+        linkType = 'text';
+        linkContent = $(this) .text() .replace(/[^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]/g, '');
+    }
+    var store = "REI_";
+    if (storeId == "8001") {
+    	store = "Outlet_";
+	}        
+    $(this) .attr('manual_cm_sp', store + parentId1 +':' + parentId2 + '-_-' + linkType + '-_-' + linkContent);
 }
 
-	<!-- jquery (document).ready runs stuff when the page can handle it -->
+<!-- jquery (document).ready runs stuff when the page can handle it -->
 
 $(document) .ready(function ()
 {
@@ -138,13 +202,9 @@ $(document) .ready(function ()
             cm_page_cat = sectionClass;
         }
     }
-    /* Begin create manual cm_re */
-//    $('#pageContent, #sidebarWrapper') .mouseover(makeCmRe);
-    /* Begin create manual cm_sp */
-//    $('#headerWrapper, #footerWrapper') .mouseover(makeCmSp)
 });
 
-			</script><script type="text/javascript" src="/javascript/helpShared.js"></script><script type="text/javascript" src="/javascript/validate.js"></script><script type="text/javascript"></script></head><body id="REI_Privacy_Policy" class="rei help content  hideSiteWideMsg"><div id="container"><div id="wrapper"><div id="coreWrapper"><div id="pageContent" onmouseover="makeCmRe()"><p class="breadcrumbs"><a href="index.html">Help</a> &gt; REI Privacy Policy</p><h1>REI Privacy Policy</h1><div class="colA5grid">
+			</script><script type="text/javascript" src="/javascript/helpShared.js"></script><script type="text/javascript" src="/javascript/validate.js"></script><script type="text/javascript"></script></head><body id="REI_Privacy_Policy" class="rei help content  hideSiteWideMsg"><script type="text/javascript" src="/javascript/coremetrics/eluminate.js"></script><script type="text/javascript" src="/javascript/coremetrics/cmdatatagutils.js"></script><div id="container"><div id="wrapper"><div id="coreWrapper"><div id="pageContent" onmouseover="makeCmRe()"><p class="breadcrumbs"><a href="index.html">Help</a> &gt; REI Privacy Policy</p><h1>REI Privacy Policy</h1><div class="colA5grid">
 			<p class="p2">Effective Date: August 22, 2007</p>
 			<p>REI respects your privacy, and we are committed to protecting it. We provide this Privacy Policy ("Policy") to describe the personal information that is collected when you sign up to become an REI member, shop in our stores, use our websites or other products or services, or when you otherwise interact with us. In addition to this Policy, for certain special offers, areas of our website, or certain services or activities, we may supply different or additional personal information practices and terms specific to those programs.</p>
 			<p>By using our site, becoming an REI member, using our other products or services, or otherwise providing information to us, you are accepting the practices described in this Policy.</p>
@@ -170,7 +230,7 @@ $(document) .ready(function ()
 				<li><a href="#toc18">Opt-Out Choices</a></li>
 			</ul>
 			<div class="cleardiv"></div>
-																
+			
 			<a name="toc2" id="toc2"></a>
 			<h2>Scope of This Privacy Policy</h2>
 			<p>This Policy applies to personally identifiable personal information, or "personal information," that we collect when you sign up to become a member, shop in one of our stores, visit any of our websites (collectively, the "site"), or use or access our other products or services. It also applies to personal information we collect when you otherwise interact with us, such as when you make a payment, place an order, sign up for an activity, or contact customer service. This Policy also applies to personal information that we may receive from our partners and third-party sources.</p>
@@ -233,7 +293,7 @@ $(document) .ready(function ()
 			
 			<a name="toc9" id="toc9"></a>
 			<h2>Access to Personal Information</h2>
-			<p>We do not maintain all personal information in a form that can be accessed or updated by you and some items may not be changed (e.g., transaction records). Accordingly, we will determine what may be accessed and how; we may also keep a record of changes (including deletions) and disclose them for lawful purposes. We keep personal information for as long as we think is necessary or advisable and we reserve the right to retain it to the full extent not prohibited by law. We may discard personal information in our discretion so you should retain your own records. Often it is not feasible or advisable to discard personal information (such as commingled personal information), so we reserve the right to retain it but treat it as inactive or discarded. You may make a request for us to update personal information (that is eligible for updating) by contacting our Customer Service department via email, telephone, or mail (see <a href="feedback/feedback.html">http://www.rei.com/contactus</a> for specific addresses and numbers); typically it takes us about two days to process an update request and we reserve the right to take longer.</p>
+			<p>We do not maintain all personal information in a form that can be accessed or updated by you and some items may not be changed (e.g., transaction records). Accordingly, we will determine what may be accessed and how; we may also keep a record of changes (including deletions) and disclose them for lawful purposes. We keep personal information for as long as we think is necessary or advisable and we reserve the right to retain it to the full extent not prohibited by law. We may discard personal information in our discretion so you should retain your own records. Often it is not feasible or advisable to discard personal information (such as commingled personal information), so we reserve the right to retain it but treat it as inactive or discarded. You may make a request for us to update personal information (that is eligible for updating) by contacting our Customer Service department via email, telephone, or mail (see <a href="/help/feedback/feedback.html">http://www.rei.com/contactus</a> for specific addresses and numbers); typically it takes us about two days to process an update request and we reserve the right to take longer.</p>
 			
 			<a name="toc10" id="toc10"></a>
 			<h2>Security of Personal Information</h2>
@@ -268,7 +328,7 @@ $(document) .ready(function ()
 			
 			<a name="toc16" id="toc16"></a>
 			<h2>Other Examples of Personal Information REI Tends To Collect</h2>
-			<p>REI is a member co-operative, but you do not have to be an REI member to shop at REI or to become a registered shopper at the REI site. For more information about becoming a member, see <a href="membership_join.html"><span class="p2">http://www.rei.com/help/membership_join.html</span></a>. Because our members and other customers participate in a wide range of services and activities that we provide, we collect a range of information associated with those services and activities. For instance, REI Adventures provides worldwide active travel opportunities for members and customers. REI Outdoor School provides educational experiences to build skills and increase confidence in outdoor recreation. To participate in these activities, members and other customers may be required to provide vital statistics, athletic ability, occupation, medical condition and medical product information, and other information relevant to the activities.</p>
+			<p>REI is a member co-operative, but you do not have to be an REI member to shop at REI or to become a registered shopper at the REI site. For more information about becoming a member, see <a href="/help/membership_join.html"><span class="p2">http://www.rei.com/help/membership_join.html</span></a>. Because our members and other customers participate in a wide range of services and activities that we provide, we collect a range of information associated with those services and activities. For instance, REI Adventures provides worldwide active travel opportunities for members and customers. REI Outdoor School provides educational experiences to build skills and increase confidence in outdoor recreation. To participate in these activities, members and other customers may be required to provide vital statistics, athletic ability, occupation, medical condition and medical product information, and other information relevant to the activities.</p>
 			
 			
 			<a name="toc17" id="toc17"></a>
@@ -282,15 +342,19 @@ $(document) .ready(function ()
 			<ul class="linkStyle1">
 				<li>Printed Materials: to opt out of receiving REI printed marketing materials at your postal address such as catalogs, flyers and postcards, call 1-800-426-4840 (US and Canada) or 1-253-891-2500 (outside the US and Canada.</li>
 				<li>Emails: to opt out of further marketing emails from REI, use the method provided in the email (such as clicking on a link).</li>
-				<li>Analytic Provider Cookies: checking the box will opt you out of cookies served by our analytic provider to determine your interests by tracking what site <i>links</i> you click on. To opt out, follow this link: <a href="opt_out.html">http://www.rei.com/help/opt_out.html</a></li>
+				<li>Analytic Provider Cookies: checking the box will opt you out of cookies served by our analytic provider to determine your interests by tracking what site <i>links</i> you click on. To opt out, follow this link: <a href="/help/opt_out.html">http://www.rei.com/help/opt_out.html</a></li>
 				<li>Third Party Catalogs and Research Companies: to have REI stop sharing your name, postal address and selected general shopping information with selected printed catalog providers, call REI customer service at 1-800-426-4840. You can also opt out of REI sharing your name, address and phone number with research and survey companies by calling REI customer service at 1-800-426-4840.</li>
 				<li>Special Offers: to have REI stop sharing personal information with third parties REI selects to offer special products or services to REI members or customers, call REI customer service at 1-800-426-4840.</li>
 			</ul>
 			<p>NEED HELP? If you need more help, call customer service at 1-800-426-4840 (US and Canada) or 1-253-891-2500 (outside the US and Canada), or write us at REI Membership Services, Sumner, WA 98352 000.</p>
-							
+			
 		</div><script type="text/javascript">
 			addStoreId();
-		</script></div><div id="sidebarWrapper" onmouseover="makeCmRe()"><ul id="clothingAndFootwear">
+		</script></div><div id="sidebarWrapper" onmouseover="makeCmRe()"><ul id="gifts">
+    <li class="sbTitle">Gifts</li>
+    <li><a href="/giftcard">REI Gift Cards</a></li>
+    <li><a href="/features/reigiftcenter.html">REI Gift Center</a></li>
+</ul><ul id="clothingAndFootwear">
     <li class="sbTitle">Clothing and Footwear</li>
         <li><a href="/category/4500007">Kids' Clothing</a></li>
         <li><a href="/category/4500008">Men's Clothing</a></li>
@@ -320,11 +384,10 @@ $(document) .ready(function ()
     <li><a href="/category/4500010">Car Racks</a></li>
     <li><a href="/category/40003681">Dog Gear</a></li>
     <li><a href="/category/1/q/Electronics">Electronics</a></li>
-    <li><a href="/giftcard">Gift Cards</a></li>
+    <!--<li><a href="/giftcard">Gift Cards</a></li>-->
     <li><a href="/category/1/q/GPS">GPS</a></li>
     <li><a href="/category/1/q/Jackets">Jackets</a></li>
     <li><a href="/category/4500012">Luggage and Day Bags</a></li>
-    <li><a href="/help/membership_join.html">REI Membership</a></li>
     <li><a href="/Sale+and+Clearance">Sale and Clearance</a></li>
     <li><a href="/category/4500001_Sleeping+Bags">Sleeping Bags</a></li>
     <li><a href="/category/4500119">Strollers and Bike Trailers</a></li>
@@ -332,31 +395,36 @@ $(document) .ready(function ()
     <li><a href="/category/4500001_Tents+and+Shelters">Tents</a></li>
     <li><a href="/category/4500074">Watches</a></li>
     <li><a href="/categories">All Categories</a></li>
-</ul></div></div><div class="cleardiv"> </div><div id="headerWrapper" onmouseover="makeCmSp()"><div id="logo">
-              <a href="/"><img src="/pix/common/REI_logo.gif" border="0" alt="REI.com" title="REI.com"></a>
+</ul><ul id="reiMembership">
+    <li class="sbTitle">REI Membership</li>
+    <li><a href="/help/membership_join.html?mem_ind_REI_sidebar">Become an REI Member</a></li>
+    <li><a href="/help/membership.html">Member Help</a></li>
+    <li><a href="http://www.reivisa.com/61rei">REI Visa® Card</a></li>
+</ul></div><div style="clear:both;"></div><script src="/javascript/oo_engine.js" type="text/javascript" language="javascript"></script><p id="opinionLab">How are we doing? <a href="javascript:O_LC()">Give us feedback</a> on this page.</p></div><div class="cleardiv"> </div><div id="headerWrapper"><div id="logo">
+              <a href="/" onmouseover="makeOneCmSp(this);"><img src="/pix/common/REI_logo.gif" border="0" alt="REI.com" title="REI.com"></a>
             </div><div id="searchContainer">
             	<form method="get" action="http://www.rei.com/search" name="psearch" id="psearch">
                 <input value="REI_SEARCH" type="hidden">							
                 <img src="/pix/common/search_bg_left.gif" border="0" alt="" title="" class="bookends">
                 <div class="mid">            
-                  <input type="text" size="19" maxlength="70" name="query" id="headerQuery" value="Search" class="searchBox" onfocus="javascript:if(document.getElementById('headerQuery').value=='Search') document.getElementById('headerQuery').value='';">
+                	<input type="text" size="19" maxlength="70" name="query" id="headerQuery" value="Search" title="Search" class="searchBox" onfocus="javascript:if(document.getElementById('headerQuery').value=='Search') document.getElementById('headerQuery').value='';">
                   <input type="image" src="/pix/common/search_button_arrow.gif" name="button" class="searchBtn" alt="Go" title="Go">
                 </div>
                 <img src="/pix/common/search_bg_right.gif" border="0" alt="" title="" class="bookends">
                 <input type="hidden" disabled="true" value="/online/servlet/autocomplete?storeId=8000&amp;entry=" id="headerQuery-autocomplete" class="autocomplete">
               </form>
             </div><ul id="hunt1">
-		<li><a href="/ShoppingCart?storeId=8000">Shopping Cart</a><span id="numInCart" class="cartCount">&nbsp;</span><script language="javascript" type="text/javascript">
+		<li><a href="/ShoppingCart?storeId=8000" onmouseover="makeOneCmSp(this);">Shopping Cart</a><span id="numInCart" class="cartCount">&nbsp;</span><script language="javascript" type="text/javascript">
 			if(numOfItems != "0") {
 			document.getElementById('numInCart').firstChild.nodeValue = ' (' + numOfItems + ') ';
 			}		
 		</script>|&nbsp;</li>
-		<li><a href="https://www.rei.com/YourAccountLoginView?storeId=8000" id="headerAccountA">Log In</a><span id="headerAccountDelim"> or </span><a href="https://www.rei.com/RegistrationView?storeId=8000" id="headerAccountB">Register</a><script type="text/javascript">
+		<li><a href="https://www.rei.com/YourAccountLoginView?storeId=8000" id="headerAccountA" onmouseover="makeOneCmSp(this);">Log In</a><span id="headerAccountDelim"> or </span><a href="https://www.rei.com/RegistrationView?storeId=8000" id="headerAccountB" onmouseover="makeOneCmSp(this);">Register</a><script type="text/javascript">
 			//      
 		document.getElementById('psearch').action=httpHost + 'search';  
                   
           		if (loggedIn == 1) {
-          		document.getElementById('headerAccountA').href=httpsHost + 'YourAccountInfoInView?storeId=8000&stat=header_account';
+          		document.getElementById('headerAccountA').href=httpsHost + 'YourAccountInfoInView?storeId=8000';
           		document.getElementById('headerAccountA').firstChild.nodeValue='Your Account';
           		document.getElementById('headerAccountB').href= httpsHost + 'Logoff?storeId=8000&URL=' + httpsHost + 'YourAccountInfoOutView?storeId=8000' ;
           		document.getElementById('headerAccountB').firstChild.nodeValue='Log Out'; 
@@ -372,10 +440,10 @@ $(document) .ready(function ()
           		}           
           	// 
               </script>&nbsp;|&nbsp;</li>
-              <li><a href="/map/store">Store Locator</a>&nbsp;|&nbsp;</li>
+              <li><a href="/map/store" onmouseover="makeOneCmSp(this);">Store Locator</a>&nbsp;|&nbsp;</li>
               <li class="phone">1-800-426-4840</li>
             </ul><ul id="hunt1Sub">
-		<li><a id="grLink" href="/GiftRegistryEditProducts/"></a></li>
+		<li><a id="grLink" href="/GiftRegistryEditProducts/" onmouseover="makeOneCmSp(this);"></a></li>
 	</ul><script type="text/javascript">
 		var setup_cook_obj = ReadGRCookie("GiftRegistrySetup");
 		if (setup_cook_obj !=null && loggedIn == 1 ) {
@@ -385,752 +453,808 @@ $(document) .ready(function ()
 		document.getElementById('grLink').appendChild(document.createTextNode('View/Update Your Gift Registry.'));
 		}
 	</script><div class="cleardiv"></div><ul id="hunt2">
-            	<li id="current"><a href="/" id="reiLink">REI.COM</a></li>
-              <li><a href="/outlet" id="outletLink">REI-OUTLET.com</a></li>
-              <li><a href="/adventures" id="advLink">REI ADVENTURES</a></li>
-              <li><a href="/expertadvice" id="expertLink">EXPERT ADVICE</a></li>
-              <li><a href="/giftregistry" id="registryLink">GIFT REGISTRY</a></li>
-            	<li><a href="/getoutthere" id="getoutLink">GET OUT THERE</a></li>
-              <li><a href="/stewardship" id="stewardLink">STEWARDSHIP</a></li>
+            	<li id="current"><a href="/" id="reiLink" onmouseover="makeOneCmSp(this);">REI.COM</a></li>
+              <li><a href="/outlet" id="outletLink" onmouseover="makeOneCmSp(this);">REI-OUTLET.com</a></li>
+              <li><a href="/adventures" id="advLink" onmouseover="makeOneCmSp(this);">REI ADVENTURES</a></li>
+              <li><a href="/expertadvice" id="expertLink" onmouseover="makeOneCmSp(this);">EXPERT ADVICE</a></li>
+              <li><a href="/giftregistry" id="registryLink" onmouseover="makeOneCmSp(this);">GIFT REGISTRY</a></li>
+            	<li><a href="/getoutthere" id="getoutLink" onmouseover="makeOneCmSp(this);">GET OUT THERE</a></li>
+              <li><a href="/stewardship" id="stewardLink" onmouseover="makeOneCmSp(this);">STEWARDSHIP</a></li>
             </ul><ul id="hunt3" class="superfish">
 					<li>
-						<a href="/category/4500001" class="catList catCamp">Camping &amp; Hiking</a>
+						<a href="/category/4500001" class="catList catCamp" onmouseover="makeOneCmSp(this);">Camping &amp; Hiking</a>
 						<ul class="col1 campNav" style="display: none;">
 							<li class="subTitle">Gear</li>
-							<li><a href="/category/4500036">Air Mattresses</a></li>
-							<li><a href="/category/4500001_Backpacks%2C+Child+Carriers+and+Duffels">Backpacks</a></li>
-							<li><a href="/category/4500047">Camp Furniture</a></li>
-							<li><a href="/category/4500001_Sleeping+Bags">Sleeping Bags</a></li>
-							<li><a href="/category/4500026">Sleeping Pads</a></li>
-							<li><a href="/category/4500001_Tents+and+Shelters">Tents</a></li>
-							<li><a href="/category/5760722">Water Bottles</a></li>
-							<li><a href="/category/4500030">Water Treatment</a></li>
-							<li><a href="/category/4500001">All Camp/Hike Gear</a></li>							
+							<li><a href="/category/4500036" onmouseover="makeOneCmSp(this);">Air Mattresses</a></li>
+							<li><a href="/category/4500001_Backpacks%2C+Child+Carriers+and+Duffels" onmouseover="makeOneCmSp(this);">Backpacks</a></li>
+							<li><a href="/category/4500047" onmouseover="makeOneCmSp(this);">Camp Furniture</a></li>
+							<li><a href="/category/4500001_Sleeping+Bags" onmouseover="makeOneCmSp(this);">Sleeping Bags</a></li>
+							<li><a href="/category/4500026" onmouseover="makeOneCmSp(this);">Sleeping Pads</a></li>
+							<li><a href="/category/4500001_Tents+and+Shelters" onmouseover="makeOneCmSp(this);">Tents</a></li>
+							<li><a href="/category/5760722" onmouseover="makeOneCmSp(this);">Water Bottles</a></li>
+							<li><a href="/category/4500030" onmouseover="makeOneCmSp(this);">Water Treatment</a></li>
+							<li><a href="/category/4500001" onmouseover="makeOneCmSp(this);">All Camp/Hike Gear</a></li>							
 						</ul>
 						<ul class="col2  campNav" style="display: none;">
 							<li class="subTitle">Gadgets and Electronics</li>
-							<li><a href="/category/4500598">Compasses</a></li>
-							<li><a href="/category/4500058/q/Flashlights">Flashlights</a></li>
-							<li><a href="/category/4500059/q/GPS">GPS</a></li>
-							<li><a href="/category/4500058/q/Headlamps">Headlamps</a></li>
-							<li><a href="/category/4500055/q/Knives">Knives</a></li>
-							<li><a href="/category/4500056">Lanterns</a></li>
-							<li><a href="/category/4500055/q/Tools">Camp Tools</a></li>
-							<li><a href="/category/4500063">Radios</a></li>
-							<li><a href="/category/4500001/q/Gadgets">All Gadgets and Electronics</a></li>
+							<li><a href="/category/4500033" onmouseover="makeOneCmSp(this);">Binoculars</a></li>
+							<li><a href="/category/4500598" onmouseover="makeOneCmSp(this);">Compasses</a></li>
+							<li><a href="/category/4500058/q/Flashlights" onmouseover="makeOneCmSp(this);">Flashlights</a></li>
+							<li><a href="/category/4500059/q/GPS" onmouseover="makeOneCmSp(this);">GPS</a></li>
+							<li><a href="/category/4500058/q/Headlamps" onmouseover="makeOneCmSp(this);">Headlamps</a></li>
+							<li><a href="/category/4500055/q/Knives" onmouseover="makeOneCmSp(this);">Knives</a></li>
+							<li><a href="/category/4500056" onmouseover="makeOneCmSp(this);">Lanterns</a></li>
+							<li><a href="/category/4500055/q/Tools" onmouseover="makeOneCmSp(this);">Camp Tools</a></li>
+							<li><a href="/category/4500063" onmouseover="makeOneCmSp(this);">Radios</a></li>
+							<li><a href="/category/4500001/q/Gadgets" onmouseover="makeOneCmSp(this);">All Gadgets and Electronics</a></li>
 						</ul>
 						<ul class="col3  campNav" style="display: none;">
 							<li class="subTitle">Camp Kitchen</li>
-							<li><a href="/category/4500001/q/Coffee">Coffee</a></li>
-							<li><a href="/category/5760719">Containers</a></li>
-							<li><a href="/category/4500001_Cookware">Cookware</a></li>
-							<li><a href="/category/5760718">Coolers</a></li>
-							<li><a href="/category/5760715">Dishes and Utensils</a></li>
-							<li><a href="/category/4500001_Food">Food</a></li>
-							<li><a href="/category/4500001_Stoves+and+Fuel">Stoves</a></li>
-							<li><a href="/category/4500555">Tables</a></li>							
-							<li><a href="/category/4500001/q/Camp+Kitchen">All Camp Kitchen</a></li>							
+							<li><a href="/category/4500001/q/Coffee" onmouseover="makeOneCmSp(this);">Coffee</a></li>
+							<li><a href="/category/5760719" onmouseover="makeOneCmSp(this);">Containers</a></li>
+							<li><a href="/category/4500001_Cookware" onmouseover="makeOneCmSp(this);">Cookware</a></li>
+							<li><a href="/category/5760718" onmouseover="makeOneCmSp(this);">Coolers</a></li>
+							<li><a href="/category/5760715" onmouseover="makeOneCmSp(this);">Dishes and Utensils</a></li>
+							<li><a href="/category/4500001_Food" onmouseover="makeOneCmSp(this);">Food</a></li>
+							<li><a href="/category/4500001_Stoves+and+Fuel" onmouseover="makeOneCmSp(this);">Stoves</a></li>
+							<li><a href="/category/4500555" onmouseover="makeOneCmSp(this);">Tables</a></li>							
+							<li><a href="/category/4500001/q/Camp+Kitchen" onmouseover="makeOneCmSp(this);">All Camp Kitchen</a></li>							
 						</ul>
 						<ul class="col4 campNav" style="display: none;">
 							<li class="subTitle">Health and Safety</li>
-							<li><a href="/category/4500520">Bear Protection</a></li>
-							<li><a href="/category/4500041">Emergency Gear</a></li>
-							<li><a href="/category/4500638">Fire Starting Gear</a></li>
-							<li><a href="/category/4500045">First Aid</a></li>
-							<li><a href="/category/4500062">Hygiene</a></li>
-							<li><a href="/category/4500001_Health+and+Safety/q/Sun+and+Bug+Protection">Sun and Bug Protection</a></li>
-							<li><a href="/category/4500041">Survival Gear</a></li>
-							<li><a href="/category/4500049">Trekking Poles</a></li>
-							<li><a href="/category/4500001_Health+and+Safety">All Health and Safety</a></li>							
+							<li><a href="/category/4500520" onmouseover="makeOneCmSp(this);">Bear Protection</a></li>
+							<li><a href="/category/4500614" onmouseover="makeOneCmSp(this);">Camp Towels</a></li>
+							<li><a href="/category/4500041" onmouseover="makeOneCmSp(this);">Emergency/Survival</a></li>
+							<li><a href="/category/4500638" onmouseover="makeOneCmSp(this);">Fire Starting Gear</a></li>
+							<li><a href="/category/4500045" onmouseover="makeOneCmSp(this);">First Aid</a></li>
+							<li><a href="/category/4500062" onmouseover="makeOneCmSp(this);">Hygiene</a></li>
+							<li><a href="/category/4500001_Health+and+Safety/q/Sun+and+Bug+Protection" onmouseover="makeOneCmSp(this);">Sun and Bug Protection</a></li>
+							<li><a href="/category/4500049" onmouseover="makeOneCmSp(this);">Trekking Poles</a></li>
+							<li><a href="/category/4500001_Health+and+Safety" onmouseover="makeOneCmSp(this);">All Health and Safety</a></li>							
 							
-							<li class="catCatchAll"><a href="/category/4500001/q/Camping+Sale+and+Clearance">Camping Sale and Clearance</a></li>
-							<li><a href="/category/4500001#topBrands">Top Camping Brands</a></li>	
-							<li><a href="/category/4500001">All Camping Categories</a></li>
+							<li class="catCatchAll"><a href="/category/4500001/q/Camping+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Camping Sale and Clearance</a></li>
+							<li><a href="/category/1/q/Gifts+for+Campers" onmouseover="makeOneCmSp(this);">Gifts for Campers</a></li>
+								
+							<li><a href="/category/4500001" onmouseover="makeOneCmSp(this);">All Camping Categories</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="/category/4500002" class="catList catClimb">Climbing</a>
+						<a href="/category/4500002" class="catList catClimb" onmouseover="makeOneCmSp(this);">Climbing</a>
 						<ul class="col1 climbNav" style="display: none;">
 							<li class="subTitle">Climbing Gear</li>
-							<li><a href="/category/4500708">Aid Gear</a></li>
-							<li><a href="/category/4500694">Ascenders</a></li>
-							<li><a href="/category/4500695">Belay/Rappel</a></li>
-							<li><a href="/category/4500079">Carabiners</a></li>
-							<li><a href="/category/40003879">Climbing Chalk</a></li>
-							<li><a href="/category/4500075">Climbing Harnesses</a></li>
-							<li><a href="/category/4500689">Climbing Helmets</a></li>
-							<li><a href="/category/40003625">Climbing Holds</a></li>
-							<li><a href="/category/40003624">Crash Pads</a></li>
+							<li><a href="/category/4500708" onmouseover="makeOneCmSp(this);">Aid Gear</a></li>
+							<li><a href="/category/4500694" onmouseover="makeOneCmSp(this);">Ascenders</a></li>
+							<li><a href="/category/4500695" onmouseover="makeOneCmSp(this);">Belay/Rappel</a></li>
+							<li><a href="/category/4500079" onmouseover="makeOneCmSp(this);">Carabiners</a></li>
+							<li><a href="/category/40003879" onmouseover="makeOneCmSp(this);">Climbing Chalk</a></li>
+							<li><a href="/category/4500075" onmouseover="makeOneCmSp(this);">Climbing Harnesses</a></li>
+							<li><a href="/category/4500689" onmouseover="makeOneCmSp(this);">Climbing Helmets</a></li>
+							<li><a href="/category/40003625" onmouseover="makeOneCmSp(this);">Climbing Holds</a></li>
+							<li><a href="/category/4500575" onmouseover="makeOneCmSp(this);">Climbing Packs</a></li>
+							<li><a href="/category/40003624" onmouseover="makeOneCmSp(this);">Crash Pads</a></li>
 						</ul>
 						<ul class="col2 climbNav" style="display: none;">
-							<li><a href="/category/4500091">Rock Protection</a></li>
-							<li><a href="/category/4500697">Pulleys</a></li>
-							<li><a href="/category/4500682">Quickdraws</a></li>
-							<li><a href="/category/4500676">Rock Climbing Shoes</a></li>
-							<li><a href="/category/4500081">Ropes</a></li>
-							<li><a href="/category/4500696">Caving and Canyoneering</a></li>
-							<li><a href="/category/4500089">Webbing and Cord</a></li>
-							<li><a href="/category/4500701">Slings and Runners</a></li>
-							<li><a href="/category/4500002">All Climbing Gear</a></li>
+							<li><a href="/category/4500091" onmouseover="makeOneCmSp(this);">Rock Protection</a></li>
+							<li><a href="/category/4500697" onmouseover="makeOneCmSp(this);">Pulleys</a></li>
+							<li><a href="/category/4500682" onmouseover="makeOneCmSp(this);">Quickdraws</a></li>
+							<li><a href="/category/4500676" onmouseover="makeOneCmSp(this);">Rock Climbing Shoes</a></li>
+							<li><a href="/category/4500081" onmouseover="makeOneCmSp(this);">Ropes</a></li>
+							<li><a href="/category/4500696" onmouseover="makeOneCmSp(this);">Caving and Canyoneering</a></li>
+							<li><a href="/category/4500089" onmouseover="makeOneCmSp(this);">Webbing and Cord</a></li>
+							<li><a href="/category/4500701" onmouseover="makeOneCmSp(this);">Slings and Runners</a></li>
+							<li><a href="/category/4500002" onmouseover="makeOneCmSp(this);">All Climbing Gear</a></li>
 						</ul>
 						<ul class="col3 climbNav" style="display: none;">
 							<li class="subTitle">Snow and Ice</li>
-							<li><a href="/category/4500076">Avalanche Safety</a></li>
-							<li><a href="/category/4500002_Snow+and+Ice/q/Crampons">Crampons</a></li>
-							<li><a href="/category/40000057">Glacier Glasses</a></li>
-							<li><a href="/category/4500002_Snow+and+Ice/q/Ice+Axes">Ice Axes</a></li>
-							<li><a href="/category/4500094/q/Ice+Tools">Ice Tools</a></li>							
-							<li><a href="/category/4500077/q/Mountaineering+Boots">Mountaineering Boots</a></li>
-							<li><a href="/category/4500002_Snow+and+Ice/q/Ice|Snow+Protection">Snow and Ice Proctection</a></li>
-							<li><a href="/category/4500002_Snow+and+Ice">All Snow and Ice</a></li>
+							<li><a href="/category/4500076" onmouseover="makeOneCmSp(this);">Avalanche Safety</a></li>
+							<li><a href="/category/4500002_Snow+and+Ice/q/Crampons" onmouseover="makeOneCmSp(this);">Crampons</a></li>
+							<li><a href="/category/40000057" onmouseover="makeOneCmSp(this);">Glacier Glasses</a></li>
+							<li><a href="/category/4500002_Snow+and+Ice/q/Ice+Axes" onmouseover="makeOneCmSp(this);">Ice Axes</a></li>
+							<li><a href="/category/4500094/q/Ice+Tools" onmouseover="makeOneCmSp(this);">Ice Tools</a></li>							
+							<li><a href="/category/4500077/q/Mountaineering+Boots" onmouseover="makeOneCmSp(this);">Mountaineering Boots</a></li>
+							<li><a href="/category/4500002_Snow+and+Ice/q/Ice|Snow+Protection" onmouseover="makeOneCmSp(this);">Snow and Ice Proctection</a></li>
+							<li><a href="/category/4500002_Snow+and+Ice" onmouseover="makeOneCmSp(this);">All Snow and Ice</a></li>
 						</ul>
 						<ul class="col4 climbNav" style="display: none;">
 							<li class="subTitle">Climbing Shops</li>
-							<li><a href="/category/4500002/q/Bouldering+Shop">Bouldering Shop</a></li>
-							<li><a href="/category/40003625">Home Climbing Gym Shop</a></li>
-							<li><a href="/category/4500002/q/Ice+Climbing+Shop">Ice Climbing Shop</a></li>
-							<li><a href="/category/1/q/Mountaineering+Shop">Mountaineering Shop</a></li>
-							<li><a href="/category/4500002/q/Rock+Climbing+Shop">Rock Climbing Shop</a></li>
-							<li><a href="/category/4500095/q/Men%27s+Climbing+Clothing">Men's Climbing Clothing</a></li>
-							<li><a href="/category/4500095/q/Women%27s+Climbing+Clothing">Women's Climbing Clothing</a></li>							
+							<li><a href="/category/4500002/q/Bouldering+Shop" onmouseover="makeOneCmSp(this);">Bouldering Shop</a></li>
+							<li><a href="/category/40003625" onmouseover="makeOneCmSp(this);">Home Climbing Gym Shop</a></li>
+							<li><a href="/category/4500002/q/Ice+Climbing+Shop" onmouseover="makeOneCmSp(this);">Ice Climbing Shop</a></li>
+							<li><a href="/category/1/q/Mountaineering+Shop" onmouseover="makeOneCmSp(this);">Mountaineering Shop</a></li>
+							<li><a href="/category/4500002/q/Rock+Climbing+Shop" onmouseover="makeOneCmSp(this);">Rock Climbing Shop</a></li>
+							<li><a href="/category/4500095/q/Men%27s+Climbing+Clothing" onmouseover="makeOneCmSp(this);">Men's Climbing Clothing</a></li>
+							<li><a href="/category/4500095/q/Women%27s+Climbing+Clothing" onmouseover="makeOneCmSp(this);">Women's Climbing Clothing</a></li>							
 						
-							<li class="catCatchAll"><a href="/category/4500002/q/Climbing+Sale+and+Clearance">Climbing Sale and Clearance</a></li>
-							<li><a href="/category/4500002#topBrands">Top Climbing Brands</a></li>
-							<li><a href="/category/4500002">All Climbing</a></li>						
+							<li class="catCatchAll"><a href="/category/4500002/q/Climbing+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Climbing Sale and Clearance</a></li>
+							<li><a href="/category/1/q/Gifts+for+Climbers" onmouseover="makeOneCmSp(this);">Gifts for Climbers</a></li>
+							
+							<li><a href="/category/4500002" onmouseover="makeOneCmSp(this);">All Climbing</a></li>						
 						</ul>
 					</li>
 					<li>
-						<a href="/category/4500003" class="catList catCycle">Cycling</a>
+						<a href="/category/4500003" class="catList catCycle" onmouseover="makeOneCmSp(this);">Cycling</a>
 						<ul class="col1 cycleNav" style="display: none;">
 							<li class="subTitle">Bikes</li>
-							<li><a href="/category/4500776">Cruiser Bikes</a></li>
-							<li><a href="/category/4500150">Kids' Bikes</a></li>
-							<li><a href="/category/4500127">Mountain Bikes</a></li>
-							<li><a href="/category/4500133">Road Bikes</a></li>
-							<li><a href="/category/4500104">Urban Bikes</a></li>
-							<li><a href="/category/4500003_Bicycles/q/Women%27s+Bikes">Women's Bikes</a></li>
-							<li><a href="/category/4500003_Bicycles">All Bikes</a></li>
+							<li><a href="/category/4500776" onmouseover="makeOneCmSp(this);">Cruiser Bikes</a></li>
+							<li><a href="/category/4502048" onmouseover="makeOneCmSp(this);">Comfort Bikes</a></li>
+							<li><a href="/category/40005004" onmouseover="makeOneCmSp(this);">Folding Bikes</a></li>
+							<li><a href="/category/4500150" onmouseover="makeOneCmSp(this);">Kids' Bikes</a></li>
+							<li><a href="/category/4500775" onmouseover="makeOneCmSp(this);">Hybrid Bikes</a></li>
+							<li><a href="/category/4500127" onmouseover="makeOneCmSp(this);">Mountain Bikes</a></li>
+							<li><a href="/category/4500133" onmouseover="makeOneCmSp(this);">Road Bikes</a></li>
+							<li><a href="/category/40005059" onmouseover="makeOneCmSp(this);">Urban Bikes</a></li>
+							<li><a href="/category/4500003_Bicycles" onmouseover="makeOneCmSp(this);">All Bikes</a></li>
 						</ul>
 						<ul class="col2 cycleNav" style="display: none;">
-							<li class="subTitle">Cycling Clothes</li>
-							<li><a href="/category/4500110/q/Cycling+Gloves">Cycling Gloves</a></li>
-							<li><a href="/category/4500003_Bike+Helmets">Cycling Helmets</a></li>
-							<li><a href="/category/4500003_Cycle+Clothing/q/Cycling+Jackets">Cycling Jackets</a></li>
-							<li><a href="/category/4500003_Cycle+Clothing/q/Cycling+Jerseys">Cycling Jerseys</a></li>
-							<li><a href="/category/4500108">Cycling Shoes</a></li>
-							<li><a href="/category/4500003_Cycle+Clothing/q/Cycling+Shorts">Cycling Shorts</a></li>
-							<li><a href="/category/4500003_Cycle+Clothing">All Cycling Clothes</a></li>
+							<li class="subTitle">Clothing/Helmets</li>
+							<li><a href="/category/4500110/q/Cycling+Gloves" onmouseover="makeOneCmSp(this);">Cycling Gloves</a></li>
+							<li><a href="/category/4500003_Bike+Helmets" onmouseover="makeOneCmSp(this);">Cycling Helmets</a></li>
+							<li><a href="/category/4500003_Cycle+Clothing/q/Cycling+Jackets" onmouseover="makeOneCmSp(this);">Cycling Jackets</a></li>
+							<li><a href="/category/4500003_Cycle+Clothing/q/Cycling+Jerseys" onmouseover="makeOneCmSp(this);">Cycling Jerseys</a></li>
+							<li><a href="/category/4500108" onmouseover="makeOneCmSp(this);">Cycling Shoes</a></li>
+							<li><a href="/category/4500003_Cycle+Clothing/q/Cycling+Shorts" onmouseover="makeOneCmSp(this);">Cycling Shorts</a></li>
+							<li><a href="/category/4500792" onmouseover="makeOneCmSp(this);">Cycling Socks</a></li>
+							<li><a href="/category/4927693" onmouseover="makeOneCmSp(this);">Arm/Leg Warmers</a></li>
+							<li><a href="/category/4500003_Cycle+Clothing" onmouseover="makeOneCmSp(this);">All Cycling Clothes</a></li>
 						</ul>
 						<ul class="col3 cycleNav" style="display: none;">
 							<li class="subTitle">Bike Accessories</li>
-							<li><a href="/category/4500105">Bike Computers</a></li>
-							<li><a href="/category/4500120">Bike Lights</a></li>
-							<li><a href="/category/4500276">Bike Racks</a></li>
-							<li><a href="/category/4500003_Bike+Accessories/q/Bike+Trailers">Bike Trailers</a></li>
-							<li><a href="/category/4500003_Bike+Hydration">Hydration</a></li>
-							<li><a href="/category/4500848">Panniers</a></li>
-							<li><a href="/category/4500003_Bike+Accessories">All Bike Accessories</a></li>
+							<li><a href="/category/4500105" onmouseover="makeOneCmSp(this);">Bike Computers</a></li>
+							<li><a href="/category/4500120" onmouseover="makeOneCmSp(this);">Bike Lights</a></li>
+							<li><a href="/category/4500121" onmouseover="makeOneCmSp(this);">Bike Locks</a></li>
+							<li><a href="/category/4500131" onmouseover="makeOneCmSp(this);">Bike Pumps</a></li>
+							<li><a href="/category/4500850" onmouseover="makeOneCmSp(this);">Bike Racks</a></li>
+							<li><a href="/category/4500003_Bike+Accessories/q/Bike+Trailers" onmouseover="makeOneCmSp(this);">Bike Trailers</a></li>
+							<li><a href="/category/4500003_Bike+Hydration" onmouseover="makeOneCmSp(this);">Hydration</a></li>
+							<li><a href="/category/4500129" onmouseover="makeOneCmSp(this);">Panniers/Bike Bags</a></li>
+							<li><a href="/category/4500003_Bike+Accessories" onmouseover="makeOneCmSp(this);">All Bike Accessories</a></li>
 						</ul>
 						<ul class="col4 cycleNav" style="display: none;">
 							<li class="subTitle">Bike Components</li>
-							<li><a href="/category/4500134">Bike Saddles/Seats</a></li>
-							<li><a href="/category/4500138">Bike Tires</a></li>
-							<li><a href="/category/4500886">Bike Tubes</a></li>
-							<li><a href="/category/4500146">Bike Wheels</a></li>
-							<li><a href="/category/4500106">Drivetrain Components</a></li>
-							<li><a href="/category/4500130">Bike Pedals</a></li>
-							<li><a href="/category/4500003_Components">All Bike Components</a></li>								
+							<li><a href="/category/4500134" onmouseover="makeOneCmSp(this);">Bike Saddles/Seats</a></li>
+							<li><a href="/category/4500138" onmouseover="makeOneCmSp(this);">Bike Tires</a></li>
+							<li><a href="/category/4500139" onmouseover="makeOneCmSp(this);">Bike Tools</a></li>
+							<li><a href="/category/4500886" onmouseover="makeOneCmSp(this);">Bike Tubes</a></li>
+							<li><a href="/category/4500146" onmouseover="makeOneCmSp(this);">Bike Wheels</a></li>
+							<li><a href="/category/4500106" onmouseover="makeOneCmSp(this);">Drivetrain Components</a></li>
+							<li><a href="/category/4500130" onmouseover="makeOneCmSp(this);">Bike Pedals</a></li>
+							<li><a href="/category/4500112" onmouseover="makeOneCmSp(this);">Handlebars</a></li>
+							<li><a href="/category/4500003_Components" onmouseover="makeOneCmSp(this);">All Bike Components</a></li>								
 							
-							<li class="catCatchAll"><a href="/category/4500003/q/Cycling+Sale+and+Clearance">Cycling Sale and Clearance</a></li>
-							<li><a href="/category/4500003#topBrands">Top Bike Brands</a></li>
-							<li><a href="/category/4500003">All Cycling Categories</a></li>
+							<li class="catCatchAll"><a href="/category/4500003/q/Cycling+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Cycling Sale and Clearance</a></li>
+							<li><a href="/category/1/q/Gifts+for+Cyclists" onmouseover="makeOneCmSp(this);">Gifts for Cyclists</a></li>
+							
+							<li><a href="/category/4500003" onmouseover="makeOneCmSp(this);">All Cycling Categories</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="/category/4500005" class="catList catFitness">Fitness</a>
+						<a href="/category/4500005" class="catList catFitness" onmouseover="makeOneCmSp(this);">Fitness</a>
 						<ul class="col1 fitnessNav" style="display: none;">
 							<li class="subTitle">Fitness Clothing</li>
-							<li><a href="/category/4500207">Men's Running Clothing</a></li>
-							<li><a href="/category/40004264">Men's Swimming</a></li>
-							<li><a href="/category/40004264/q/Men%27s+Triathlon+Clothing">Men's Triathlon Clothing</a></li>
-							<li><a href="/category/4500208">Women's Running Clothing</a></li>
-							<li><a href="/category/40004274">Women's Swimming</a></li>
-							<li><a href="/category/40004274/q/Women%27s+Triathlon+Clothing">Women's Triathlon Clothing</a></li>
-							<li><a href="/category/40001853">Women's Yoga Clothing</a></li>
-							<li><a href="/category/4500005/q/Fitness+Clothing">All Fitness Clothing</a></li>
+							<li><a href="/category/4500207" onmouseover="makeOneCmSp(this);">Men's Running Clothing</a></li>
+							<li><a href="/category/40004264" onmouseover="makeOneCmSp(this);">Men's Swimming</a></li>
+							
+							<li><a href="/category/4500208" onmouseover="makeOneCmSp(this);">Women's Running Clothing</a></li>
+							<li><a href="/category/40004274" onmouseover="makeOneCmSp(this);">Women's Swimming</a></li>
+							
+							<li><a href="/category/40001853" onmouseover="makeOneCmSp(this);">Women's Yoga Clothing</a></li>
+							<li><a href="/category/4500005/q/Fitness+Clothing" onmouseover="makeOneCmSp(this);">All Fitness Clothing</a></li>
 						</ul>
 						<ul class="col2 fitnessNav" style="display: none;">
 							<li class="subTitle">Fitness Footwear</li>
-							<li><a href="/category/4501259">Men's Cross-Training Shoes</a></li>
-							<li><a href="/category/4501260">Men's Road-Running Shoes</a></li>
-							<li><a href="/category/4501261">Men's Trail Running Shoes</a></li>
-							<li><a href="/category/4501257">Men's Walking Shoes</a></li>
-							<li><a href="/category/4501266">Women's Cross-Training Shoes</a></li>
-							<li><a href="/category/4501267">Women's Road-Running Shoes</a></li>
-							<li><a href="/category/4501261">Women's Trail Running Shoes</a></li>
-							<li><a href="/category/4501264">Women's Walking Shoes</a></li>
-							<li><a href="/category/4500005_Footwear">All Fitness Footwear</a></li>
+							<li><a href="/category/4501259" onmouseover="makeOneCmSp(this);">Men's Cross-Training Shoes</a></li>
+							<li><a href="/category/4501260" onmouseover="makeOneCmSp(this);">Men's Road-Running Shoes</a></li>
+							<li><a href="/category/4501261" onmouseover="makeOneCmSp(this);">Men's Trail Running Shoes</a></li>
+							
+							<li><a href="/category/4501266" onmouseover="makeOneCmSp(this);">Women's Cross-Training Shoes</a></li>
+							<li><a href="/category/4501267" onmouseover="makeOneCmSp(this);">Women's Road-Running Shoes</a></li>
+							<li><a href="/category/4501261" onmouseover="makeOneCmSp(this);">Women's Trail Running Shoes</a></li>
+							
+							<li><a href="/category/4500005_Footwear" onmouseover="makeOneCmSp(this);">All Fitness Footwear</a></li>
 						</ul>
 						<ul class="col3 fitnessNav" style="display: none;">
 							<li class="subTitle">Fitness Gear</li>
-							<li><a href="/category/4500061">Energy Food</a></li>
-							<li><a href="/category/4500182">Exercise Equipment</a></li>
-							<li><a href="/category/40001902">GPS Training Devices</a></li>
-							<li><a href="/category/40004553">Gym Bags</a></li>
-							<li><a href="/category/4500567">Heart Rate Monitors</a></li>
-							<li><a href="/category/4500188">Hydration</a></li>
-							<li><a href="/category/4500569">Pedometers</a></li>
-							<li><a href="/category/4500119/q/Strollers">Strollers</a></li>
-							<li><a href="/category/4500005_Outdoor+Fitness+Essentials">All Fitness Gear</a></li>
+							<li><a href="/category/4500061" onmouseover="makeOneCmSp(this);">Energy Food</a></li>
+							<li><a href="/category/4500182" onmouseover="makeOneCmSp(this);">Exercise Equipment</a></li>
+							<li><a href="/category/40001902" onmouseover="makeOneCmSp(this);">GPS Training Devices</a></li>
+							<li><a href="/category/40004553" onmouseover="makeOneCmSp(this);">Gym Bags</a></li>
+							<li><a href="/category/4500567" onmouseover="makeOneCmSp(this);">Heart Rate Monitors</a></li>
+							<li><a href="/category/4500188" onmouseover="makeOneCmSp(this);">Hydration</a></li>
+							<li><a href="/category/4500569" onmouseover="makeOneCmSp(this);">Pedometers</a></li>
+							<li><a href="/category/40005258" onmouseover="makeOneCmSp(this);">Running Packs</a></li>
+							<li><a href="/category/4500119/q/Strollers" onmouseover="makeOneCmSp(this);">Strollers</a></li>
+							<li><a href="/category/4500005_Outdoor+Fitness+Essentials" onmouseover="makeOneCmSp(this);">All Fitness Gear</a></li>
 						</ul>
 						<ul class="col4 fitnessNav" style="display: none;">
 							<li class="subTitle">Fitness Shops</li>
-							<li><a href="/category/4500003">Cycling Shop</a></li>
-							<li><a href="/category/4500005/q/Running+Shop">Running Shop</a></li>
-							<li><a href="/category/4500005/q/Swimming+Shop">Swimming Shop</a></li>
-							<li><a href="/category/4500005/q/Triathlon+Shop">Triathlon Shop</a></li>
-							<li><a href="/category/4500005/q/Yoga+Shop">Yoga Shop</a></li>	
+							<li><a href="/category/4500003" onmouseover="makeOneCmSp(this);">Cycling Shop</a></li>
+							<li><a href="/category/4500005/q/Running+Shop" onmouseover="makeOneCmSp(this);">Running Shop</a></li>
+							<li><a href="/category/4500005/q/Swimming+Shop" onmouseover="makeOneCmSp(this);">Swimming Shop</a></li>
+							<li><a href="/category/4500005/q/Triathlon+Shop" onmouseover="makeOneCmSp(this);">Triathlon Shop</a></li>
+							<li><a href="/category/4500005/q/Yoga+Shop" onmouseover="makeOneCmSp(this);">Yoga Shop</a></li>	
 							
-							<li class="catCatchAll"><a href="/category/4500006/q/Fitness+Sale+and+Clearance">Fitness Sale and Clearance</a></li>
-							<li><a href="/category/4500005#topBrands">Top Fitness Brands</a></li>
-							<li><a href="/category/4500005">All Fitness</a></li>
+							<li class="catCatchAll"><a href="/category/4500005/q/Fitness+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Fitness Sale and Clearance</a></li>
+							<li><a href="/category/1/q/Fitness+Gifts" onmouseover="makeOneCmSp(this);">Fitness Gifts</a></li>
+							
+							<li><a href="/category/4500005" onmouseover="makeOneCmSp(this);">All Fitness</a></li>
 						</ul>
 					</li>
 					
 					<li>
-						<a href="/category/4500009" class="catList catPaddle">Paddling</a>
+						<a href="/category/4500009" class="catList catPaddle" onmouseover="makeOneCmSp(this);">Paddling</a>
 						<ul class="col1 paddleNav" style="display: none;">
 							<li class="subTitle">Kayaking</li>
-							<li><a href="/category/4500271/q/Kayaks">Kayaks</a></li>
-							<li><a href="/category/4500271/q/Kayak+Accessories">Kayak Accessories</a></li>
-							<li><a href="/category/4501462">Kayak Carts</a></li>
-							<li><a href="/category/4501483">Kayak Paddles</a></li>
-							<li><a href="/category/4501499">Safety Equipment</a></li>
-							<li><a href="/category/4501490">Spray Skirts</a></li>
-							<li><a href="/category/4500271">All Kayaking Gear</a></li>
+							<li><a href="/category/4500271/q/Kayaks" onmouseover="makeOneCmSp(this);">Kayaks</a></li>
+							<li><a href="/category/4500271/q/Kayak+Accessories" onmouseover="makeOneCmSp(this);">Kayak Accessories</a></li>
+							<li><a href="/category/4501462" onmouseover="makeOneCmSp(this);">Kayak Carts</a></li>
+							<li><a href="/category/4501483" onmouseover="makeOneCmSp(this);">Kayak Paddles</a></li>
+							<li><a href="/category/4501499" onmouseover="makeOneCmSp(this);">Safety Equipment</a></li>
+							<li><a href="/category/4501490" onmouseover="makeOneCmSp(this);">Spray Skirts</a></li>
+							<li><a href="/category/4500271" onmouseover="makeOneCmSp(this);">All Kayaking Gear</a></li>
 						</ul>
 						<ul class="col2 paddleNav" style="display: none;">
 							<li class="subTitle">Canoeing</li>
-							<li><a href="/category/4501467">Canoes</a></li>
-							<li><a href="/category/4500267/q/Canoe+Accessories">Canoe Accessories</a></li>
-							<li><a href="/category/4501462">Canoe Carts</a></li>
-							<li><a href="/category/4501466">Canoe Paddles</a></li>
-							<li><a href="/category/4501468">Canoe Yokes</a></li>
-							<li><a href="/category/4501465">Canoe Flotation</a></li>
-							<li><a href="/category/4500267">All Canoeing Gear</a></li>							
+							<li><a href="/category/4501467" onmouseover="makeOneCmSp(this);">Canoes</a></li>
+							<li><a href="/category/4500267/q/Canoe+Accessories" onmouseover="makeOneCmSp(this);">Canoe Accessories</a></li>
+							<li><a href="/category/4501462" onmouseover="makeOneCmSp(this);">Canoe Carts</a></li>
+							<li><a href="/category/4501466" onmouseover="makeOneCmSp(this);">Canoe Paddles</a></li>
+							<li><a href="/category/4501468" onmouseover="makeOneCmSp(this);">Canoe Yokes</a></li>
+							<li><a href="/category/4501465" onmouseover="makeOneCmSp(this);">Canoe Flotation</a></li>
+							<li><a href="/category/4500267" onmouseover="makeOneCmSp(this);">All Canoeing Gear</a></li>							
 						</ul>
 						<ul class="col3 paddleNav" style="display: none;">
 							<li class="subTitle">Clothing and PFDs</li>
-							<li><a href="/category/4501474">Dry Suits and Tops</a></li>
-							<li><a href="/category/4501476">Paddling Gloves</a></li>
-							<li><a href="/category/4500272">PFDs</a></li>
-							<li><a href="/category/4790515">Rashguards</a></li>
-							<li><a href="/category/4501478">Spray Wear</a></li>
-							<li><a href="/category/4501480">Wet Suits</a></li>
-							<li><a href="/category/4500268">All Paddling Clothing</a></li>
+							<li><a href="/category/4501474" onmouseover="makeOneCmSp(this);">Dry Suits and Tops</a></li>
+							<li><a href="/category/4501476" onmouseover="makeOneCmSp(this);">Paddling Gloves</a></li>
+							<li><a href="/category/4500272" onmouseover="makeOneCmSp(this);">PFDs</a></li>
+							<li><a href="/category/4790515" onmouseover="makeOneCmSp(this);">Rashguards</a></li>
+							<li><a href="/category/4501478" onmouseover="makeOneCmSp(this);">Spray Wear</a></li>
+							<li><a href="/category/4501480" onmouseover="makeOneCmSp(this);">Wet Suits</a></li>
+							<li><a href="/category/4500268" onmouseover="makeOneCmSp(this);">All Paddling Clothing</a></li>
 						</ul>
 						<ul class="col4 paddleNav" style="display: none;">
 							<li class="subTitle">Accessories</li>
-							<li><a href="/category/4500277">Car Racks</a></li>
-							<li><a href="/category/4500274">Dry Bags</a></li>
-							<li><a href="/category/4500009/q/Fishing">Fishing</a></li>
-							<li><a href="/category/4501463">Boat Maintenance</a></li>
-							<li><a href="/category/9086387">Mesh Bags</a></li>
-							<li><a href="/category/4501464">Pumps</a></li>
-							<li><a href="/category/4501484/q/Rafts">Rafts</a></li>	
+							<li><a href="/category/4500277" onmouseover="makeOneCmSp(this);">Car Racks</a></li>
+							<li><a href="/category/4500274" onmouseover="makeOneCmSp(this);">Dry Bags</a></li>
+							<li><a href="/category/4500009/q/Fishing" onmouseover="makeOneCmSp(this);">Fishing</a></li>
+							<li><a href="/category/4501463" onmouseover="makeOneCmSp(this);">Boat Maintenance</a></li>
+							<li><a href="/category/9086387" onmouseover="makeOneCmSp(this);">Mesh Bags</a></li>
+							<li><a href="/category/4501464" onmouseover="makeOneCmSp(this);">Pumps</a></li>
+							<li><a href="/category/4501484/q/Rafts" onmouseover="makeOneCmSp(this);">Rafts</a></li>	
 							
-							<li class="catCatchAll"><a href="/category/4500009/q/Paddling+Sale+and+Clearance">Paddling Sale and Clearance</a></li>
-							<li><a href="/category/4500009#topBrands">Top Paddling Brands</a></li>
-							<li><a href="/category/4500009">All Paddling</a></li>
+							<li class="catCatchAll"><a href="/category/4500009/q/Paddling+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Paddling Sale and Clearance</a></li>
+							<li><a href="/category/1/q/Gifts+for+Kayakers" onmouseover="makeOneCmSp(this);">Gifts for Kayakers</a></li>
+							
+							<li><a href="/category/4500009" onmouseover="makeOneCmSp(this);">All Paddling</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="/snowsports" class="catList catSnow">Snowsports</a>
+						<a href="/snowsports" class="catList catSnow" onmouseover="makeOneCmSp(this);">Snowsports</a>
 						<ul class="col1 snowNav" style="display: none;">
 							<li class="subTitle">Alpine Skiing</li>
-							<li><a href="/category/40004320">Alpine Skis</a></li>
-							<li><a href="/category/40004340">Alpine Ski Bindings</a></li>
-							<li><a href="/category/40004425">Alpine Ski Boots</a></li>
-							<li><a href="/category/40004356">Ski Goggles</a></li>
-							<li><a href="/category/40004351">Ski Helmets</a></li>
-							<li><a href="/category/40004361">Ski Packs</a></li>
-							<li><a href="/category/40004346">Alpine Ski Poles</a></li>
-							<li><a href="/category/40004379">Men's Alpine Ski Clothing</a></li>
-							<li><a href="/category/40004390">Women's Alpine Ski Clothing</a></li>
-							<li><a href="/category/40004319">All Alpine Skiing</a></li>
+							<li><a href="/category/40004320" onmouseover="makeOneCmSp(this);">Alpine Skis</a></li>
+							<li><a href="/category/40004340" onmouseover="makeOneCmSp(this);">Alpine Ski Bindings</a></li>
+							<li><a href="/category/40004425" onmouseover="makeOneCmSp(this);">Alpine Ski Boots</a></li>
+							<li><a href="/category/40004364" onmouseover="makeOneCmSp(this);">Ski Bags</a></li>
+							<li><a href="/category/40004356" onmouseover="makeOneCmSp(this);">Ski Goggles</a></li>
+							<li><a href="/category/40004351" onmouseover="makeOneCmSp(this);">Ski Helmets</a></li>
+							<li><a href="/category/40004361" onmouseover="makeOneCmSp(this);">Ski Packs</a></li>
+							<li><a href="/category/40004346" onmouseover="makeOneCmSp(this);">Alpine Ski Poles</a></li>
+							<li><a href="/category/40004379" onmouseover="makeOneCmSp(this);">Men's Alpine Ski Clothing</a></li>
+							<li><a href="/category/40004390" onmouseover="makeOneCmSp(this);">Women's Alpine Ski Clothing</a></li>
+							<li><a href="/category/40004401" onmouseover="makeOneCmSp(this);">Gloves, Hats and Socks</a></li>
+							<li><a href="/category/40004319" onmouseover="makeOneCmSp(this);">All Alpine Skiing</a></li>
 						</ul>
 						<ul class="col2 snowNav" style="display: none;">
 							<li class="subTitle">XC, Tele and Randonee</li>
-							<li><a href="/category/4500307">Cross-Country Skiing</a></li>
-							<li><a href="/category/4500306">Telemark and Randonee Skiing</a></li>
-							<li><a href="/category/4500288">Nordic Backcountry Skiing</a></li>
-							<li><a href="/category/4500302">Race and Fitness Nordic</a></li>
-							<li><a href="/category/4501557">Cross-Country Ski Tuning</a></li>
-							<li><a href="/category/4501558">Cross-Country Ski Waxes</a></li>
-							<li><a href="/category/4500299">Men's XC Clothing</a></li>
-							<li><a href="/category/4500310">Women's XC Clothing</a></li>
-							<li><a href="/category/4500297">Kids' XC Ski Gear</a></li>
-							<li><a href="/category/40004009">All Cross-Country</a></li>
-							<li><a href="/category/4500306">All Tele/Randonee</a></li>
+							<li><a href="/category/4500307" onmouseover="makeOneCmSp(this);">Cross-Country Skiing</a></li>
+							<li><a href="/category/4500306" onmouseover="makeOneCmSp(this);">Telemark and Randonee Skiing</a></li>
+							<li><a href="/category/4500288" onmouseover="makeOneCmSp(this);">Nordic Backcountry Skiing</a></li>
+							<li><a href="/category/4500302" onmouseover="makeOneCmSp(this);">Race and Fitness Nordic</a></li>
+							<li><a href="/category/4501557" onmouseover="makeOneCmSp(this);">Cross-Country Ski Tuning</a></li>
+							<li><a href="/category/4501558" onmouseover="makeOneCmSp(this);">Cross-Country Ski Waxes</a></li>
+							<li><a href="/category/4500299" onmouseover="makeOneCmSp(this);">Men's XC Clothing</a></li>
+							<li><a href="/category/4500310" onmouseover="makeOneCmSp(this);">Women's XC Clothing</a></li>
+							<li><a href="/category/4500297" onmouseover="makeOneCmSp(this);">Kids' XC Ski Gear</a></li>
+							<li><a href="/category/40004009" onmouseover="makeOneCmSp(this);">All Cross-Country</a></li>
+							<li><a href="/category/4500306" onmouseover="makeOneCmSp(this);">All Tele/Randonee</a></li>
 						</ul>
 						<ul class="col3 snowNav" style="display: none;">
 							<li class="subTitle">Snowboarding</li>
-							<li><a href="/category/4500304">Snowboards</a></li>
-							<li><a href="/category/4500290">Snowboard Bindings</a></li>
-							<li><a href="/category/4500292">Snowboard Boots</a></li>
-							<li><a href="/category/40003587">Snowboard Goggles</a></li>
-							<li><a href="/category/11785380">Snowboard Helmets</a></li>
-							<li><a href="/category/4500293/q/Snowboard+Packs">Snowboard Packs</a></li>
-							<li><a href="/category/40003971">Stomp Pads</a></li>
-							<li><a href="/category/4500300">Men's Snowboard Clothing</a></li>
-							<li><a href="/category/4500311">Women's Snowboard Clothing</a></li>
-							<li><a href="/category/40003930">All Snowboarding</a></li>			
+							<li><a href="/category/4500304" onmouseover="makeOneCmSp(this);">Snowboards</a></li>
+							<li><a href="/category/10684568" onmouseover="makeOneCmSp(this);">Snowboard Bags</a></li>
+							<li><a href="/category/4500290" onmouseover="makeOneCmSp(this);">Snowboard Bindings</a></li>
+							<li><a href="/category/4500292" onmouseover="makeOneCmSp(this);">Snowboard Boots</a></li>
+							<li><a href="/category/40003587" onmouseover="makeOneCmSp(this);">Snowboard Goggles</a></li>
+							<li><a href="/category/11785380" onmouseover="makeOneCmSp(this);">Snowboard Helmets</a></li>
+							<li><a href="/category/4500293/q/Snowboard+Packs" onmouseover="makeOneCmSp(this);">Snowboard Packs</a></li>
+							<li><a href="/category/40003971" onmouseover="makeOneCmSp(this);">Stomp Pads</a></li>
+							<li><a href="/category/4500300" onmouseover="makeOneCmSp(this);">Men's Snowboard Clothing</a></li>
+							<li><a href="/category/4500311" onmouseover="makeOneCmSp(this);">Women's Snowboard Clothing</a></li>
+							<li><a href="/category/4500286" onmouseover="makeOneCmSp(this);">Gloves, Hats and Socks</a></li>
+							<li><a href="/category/40003930" onmouseover="makeOneCmSp(this);">All Snowboarding</a></li>			
 						</ul>
 						<ul class="col4 snowNav" style="display: none;">
 							<li class="subTitle">Snowshoeing</li>
-							<li><a href="/category/4500305">Snowshoes</a></li>
-							<li><a href="/category/40004086">Snowshoe Bags</a></li>
-							<li><a href="/category/40003596">Snowshoe Poles</a></li>
-							<li><a href="/category/40004095">Hand/Foot Warmers</a></li>
-							<li><a href="/category/4500006/q/Winter+Boots">Winter Boots</a></li>
-							<li><a href="/category/4500076">Avalanche Safety</a></li>
-							<li><a href="/category/40004010">All Snowshoeing</a></li>									
+							<li><a href="/category/4500305" onmouseover="makeOneCmSp(this);">Snowshoes</a></li>
+							<li><a href="/category/40004086" onmouseover="makeOneCmSp(this);">Snowshoe Bags</a></li>
+							<li><a href="/category/40003596" onmouseover="makeOneCmSp(this);">Snowshoe Poles</a></li>
+							<li><a href="/category/40004095" onmouseover="makeOneCmSp(this);">Hand/Foot Warmers</a></li>
+							<li><a href="/category/4500006/q/Winter+Boots" onmouseover="makeOneCmSp(this);">Winter Boots</a></li>
+							<li><a href="/category/4500076" onmouseover="makeOneCmSp(this);">Avalanche Safety</a></li>
+							<li><a href="/category/40004010" onmouseover="makeOneCmSp(this);">All Snowshoeing</a></li>									
 						
-							<li class="catCatchAll"><a href="/category/1/q/Snowsports+Sale+and+Clearance">Sale and Clearance</a></li>
-							<li><a href="/snowsports#topBrands">Top Snowsports Brands</a></li>
-							<li><a href="/snowsports">All Snowsports</a></li>
+							<li class="catCatchAll"><a href="/category/1/q/Snowsports+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Sale and Clearance</a></li>
+							<li><a href="/category/1/q/Snowsports+Gifts" onmouseover="makeOneCmSp(this);">Snowsports Gifts</a></li>
+							
+							<li><a href="/snowsports" onmouseover="makeOneCmSp(this);">All Snowsports</a></li>
 						</ul>
 					</li>
 		                                    <li>
-		                                    	<a href="/category/4500012" class="catList catTravel">Travel</a>
+		                                    	<a href="/category/4500012" class="catList catTravel" onmouseover="makeOneCmSp(this);">Travel</a>
 		                                      <ul class="col1 travelNav" style="display: none;">
 		                                        	<li class="subTitle">Luggage</li>
-		                                      	<li><a href="/category/4501710">Carry-On Luggage</a></li>
-		                                      	<li><a href="/category/4501760">Travel Packs</a></li>
-		                                      	<li><a href="/category/4501712">Wheeled Backpacks</a></li>
-		                                      	<li><a href="/category/4501705">Wheeled Duffels</a></li>
-		                                      	<li><a href="/category/4501711">Wheeled Luggage</a></li>
-		                                      	<li><a href="/category/4500879">Bike Travel Cases</a></li>
-		                                      	<li><a href="/category/40004364">Ski Bags</a></li>
-		                                      	<li><a href="/category/4500342">All Luggage</a></li>
+		                                      	<li><a href="/category/4501710" onmouseover="makeOneCmSp(this);">Carry-On Luggage</a></li>
+		                                      	<li><a href="/category/4501760" onmouseover="makeOneCmSp(this);">Travel Packs</a></li>
+		                                      	<li><a href="/category/4501712" onmouseover="makeOneCmSp(this);">Wheeled Backpacks</a></li>
+		                                      	<li><a href="/category/4501705" onmouseover="makeOneCmSp(this);">Wheeled Duffels</a></li>
+		                                      	<li><a href="/category/4501711" onmouseover="makeOneCmSp(this);">Wheeled Luggage</a></li>
+		                                      	<li><a href="/category/4500879" onmouseover="makeOneCmSp(this);">Bike Travel Cases</a></li>
+		                                      	<li><a href="/category/40004364" onmouseover="makeOneCmSp(this);">Ski Bags</a></li>
+		                                      	<li><a href="/category/4500342" onmouseover="makeOneCmSp(this);">All Luggage</a></li>
 		                                      </ul>
 		                                      <ul class="col2 travelNav" style="display: none;">
 		                                        <li class="subTitle">Day Bags</li>
-		                                      	<li><a href="/category/9064424">Camera Bags</a></li>
-		                                      	<li><a href="/category/4501696">Daypacks</a></li>
-		                                      	<li><a href="/category/40005006">Duffel Bags</a></li>
-		                                      	<li><a href="/category/40004552">Handbags</a></li>
-		                                      	<li><a href="/category/40004547">Laptop Bags</a></li>
-		                                      	<li><a href="/category/4501697">Messenger Bags</a></li>
-		                                      	<li><a href="/category/4501698">Shoulder Bags</a></li>
-		                                      	<li><a href="/category/4501700">Travel Totes</a></li>
-		                                      	<li><a href="/category/4500313">All Day Bags</a></li>
+		                                      	<li><a href="/category/9064424" onmouseover="makeOneCmSp(this);">Camera Bags</a></li>
+		                                      	<li><a href="/category/4501696" onmouseover="makeOneCmSp(this);">Daypacks</a></li>
+		                                      	<li><a href="/category/40005006" onmouseover="makeOneCmSp(this);">Duffel Bags</a></li>
+		                                      	<li><a href="/category/40004552" onmouseover="makeOneCmSp(this);">Handbags</a></li>
+		                                      	<li><a href="/category/40004547" onmouseover="makeOneCmSp(this);">Laptop Bags</a></li>
+		                                      	<li><a href="/category/4501697" onmouseover="makeOneCmSp(this);">Messenger Bags</a></li>
+		                                      	<li><a href="/category/4501698" onmouseover="makeOneCmSp(this);">Shoulder Bags</a></li>
+		                                      	<li><a href="/category/4501700" onmouseover="makeOneCmSp(this);">Travel Totes</a></li>
+		                                      	<li><a href="/category/4500313" onmouseover="makeOneCmSp(this);">All Day Bags</a></li>
 		                                      </ul>
 		                                      <ul class="col3 travelNav" style="display: none;">
 		                                        <li class="subTitle">Packing</li>
-		                                      	<li><a href="/category/4501756">Luggage Locks</a></li>
-		                                      	<li><a href="/category/40004534">Luggage Tags</a></li>
-		                                      	<li><a href="/category/4500346">Organizers</a></li>
-		                                      	<li><a href="/category/4501740">Packing Cubes</a></li>
-		                                      	<li><a href="/category/40004302">Packing Folders</a></li>
-		                                      	<li><a href="/category/4501739">Pouches</a></li>
-		                                      	<li><a href="/category/4500348">Electronics Cases</a></li>
-		                                      	<li><a href="/category/4501741">Toiletry Kits</a></li>
-		                                      	<li><a href="/category/4500012/q/Packing">All Packing</a></li>
+		                                      	<li><a href="/category/4501756" onmouseover="makeOneCmSp(this);">Luggage Locks</a></li>
+		                                      	<li><a href="/category/40004534" onmouseover="makeOneCmSp(this);">Luggage Tags</a></li>
+		                                      	<li><a href="/category/4500346" onmouseover="makeOneCmSp(this);">Organizers</a></li>
+		                                      	<li><a href="/category/4501740" onmouseover="makeOneCmSp(this);">Packing Cubes</a></li>
+		                                      	<li><a href="/category/40004302" onmouseover="makeOneCmSp(this);">Packing Folders</a></li>
+		                                      	<li><a href="/category/4501739" onmouseover="makeOneCmSp(this);">Pouches</a></li>
+		                                      	<li><a href="/category/4500348" onmouseover="makeOneCmSp(this);">Electronics Cases</a></li>
+		                                      	<li><a href="/category/4501741" onmouseover="makeOneCmSp(this);">Toiletry Kits</a></li>
+		                                      	<li><a href="/category/4500012/q/Packing" onmouseover="makeOneCmSp(this);">All Packing</a></li>
 		                                      </ul>
 		                                      <ul class="col4 travelNav" style="display: none;">
 					<li class="subTitle">Travel Accessories</li>
-		                                      	<li><a href="/category/10008332">Clothing Care</a></li> 
-		                                      	<li><a href="/category/4500314">Converters and Adapters</a></li>
-		                                      	<li><a href="/category/4500008/q/Men%27s+Travel+Clothing">Men's Travel Clothing</a></li>
-		                                      	<li><a href="/category/4500347">Personal Care</a></li>
-		                                      	<li><a href="/category/40003718">Sleeping Accessories</a></li>
-		                                      	<li><a href="/category/4501732">Umbrellas</a></li>
-		                                      	<li><a href="/category/4500349">Wallets and Money Belts</a></li>
-		                                      	<li><a href="/category/4500013/q/Women%27s+Travel+Clothing">Women's Travel Clothing</a></li>
-		                                      	<li><a href="/category/4500012/q/Travel+Accessories">All Travel Accessories</a></li>	
+		                                      	<li><a href="/category/4500010" onmouseover="makeOneCmSp(this);">Car Racks</a></li>
+		                                      	 
+		                                      	<li><a href="/category/4500314" onmouseover="makeOneCmSp(this);">Converters and Adapters</a></li>
+		                                      	<li><a href="/category/4500008/q/Men%27s+Travel+Clothing" onmouseover="makeOneCmSp(this);">Men's Travel Clothing</a></li>
+		                                      	<li><a href="/category/4500347" onmouseover="makeOneCmSp(this);">Personal Care</a></li>
+		                                      	<li><a href="/category/40003718" onmouseover="makeOneCmSp(this);">Sleeping Accessories</a></li>
+		                                      	<li><a href="/category/4501732" onmouseover="makeOneCmSp(this);">Umbrellas</a></li>
+		                                      	<li><a href="/category/4500349" onmouseover="makeOneCmSp(this);">Wallets and Money Belts</a></li>
+		                                      	<li><a href="/category/4500013/q/Women%27s+Travel+Clothing" onmouseover="makeOneCmSp(this);">Women's Travel Clothing</a></li>
+		                                      	<li><a href="/category/4500012/q/Travel+Accessories" onmouseover="makeOneCmSp(this);">All Travel Accessories</a></li>	
 		                                      	
-		                                      	<li class="catCatchAll"><a href="/category/4500012/q/Travel+Sale+and+Clearance">Travel Sale and Clearance</a></li>
-		                                      	<li><a href="/category/4500012#topBrands">Top Travel Brands</a></li>
-		                                      	<li><a href="/category/4500012">All Travel</a></li>	
+		                                      	<li class="catCatchAll"><a href="/category/4500012/q/Travel+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Travel Sale and Clearance</a></li>
+		                                      	<li><a href="/category/1/q/Gifts+for+Travelers" onmouseover="makeOneCmSp(this);">Gifts for Travelers</a></li>
+		                                      	
+		                                      	<li><a href="/category/4500012" onmouseover="makeOneCmSp(this);">All Travel</a></li>	
 		                                      </ul>
 		                                    </li>
 					<li>
-						<a href="/category/4500008" class="catList catMen">Men's</a>
+						<a href="/category/4500008" class="catList catMen" onmouseover="makeOneCmSp(this);">Men's</a>
 						<ul class="col1 menNav" style="display: none;">
 							<li class="subTitle">Men's Outerwear</li>
-							<li><a href="/category/4500251">Casual Outerwear</a></li>
-							<li><a href="/category/4500253">Fleece Clothing</a></li>
-							<li><a href="/category/4500255">Down/Insulated Clothing</a></li>
-							<li><a href="/category/4500264">Raingear</a></li>
-							<li><a href="/category/40004144">Ski and Snowboard</a></li>
-							<li><a href="/category/4500265">Soft Shell Clothing</a></li>
-							<li><a href="/category/4500008/q/Men%27s+Vests">Vests</a></li>
-							<li><a href="/category/4500263">Windbreakers</a></li>
-							<li><a href="/category/4500008_Outerwear+and+Rainwear">All Men's Outerwear</a></li>
+							<li><a href="/category/4500251" onmouseover="makeOneCmSp(this);">Casual Outerwear</a></li>
+							<li><a href="/category/4500253" onmouseover="makeOneCmSp(this);">Fleece Clothing</a></li>
+							<li><a href="/category/4500255" onmouseover="makeOneCmSp(this);">Down/Insulated Clothing</a></li>
+							<li><a href="/category/4500264" onmouseover="makeOneCmSp(this);">Raingear</a></li>
+							<li><a href="/category/40004144" onmouseover="makeOneCmSp(this);">Ski and Snowboard</a></li>
+							<li><a href="/category/4500265" onmouseover="makeOneCmSp(this);">Soft Shell Clothing</a></li>
+							<li><a href="/category/4500008/q/Men%27s+Vests" onmouseover="makeOneCmSp(this);">Vests</a></li>
+							<li><a href="/category/4500263" onmouseover="makeOneCmSp(this);">Windbreakers</a></li>
+							<li><a href="/category/4500008_Outerwear+and+Rainwear" onmouseover="makeOneCmSp(this);">All Men's Outerwear</a></li>
 						</ul>
 						<ul class="col2 menNav" style="display: none;">
 							<li class="subTitle">Men's Clothing</li>
-							<li><a href="/category/4500008_Outerwear+and+Rainwear/q/Men%27s+Jackets">Jackets</a></li>
-							<li><a href="/category/4500008/q/Men%27s+Pants">Pants</a></li>							
-							<li><a href="/category/4500008/q/Men%27s+Shirts">Shirts </a></li>
-							<li><a href="/category/4500008/q/Men%27s+Shorts">Shorts</a></li>
-							<li><a href="/category/4500256">Sweaters</a></li>
-							<li><a href="/category/40004261">Swimming</a></li>
-							<li><a href="/category/4500250">Underwear</a></li>
-							<li><a href="/category/4500006_Men%27s+Footwear">Footwear</a></li>
-							<li><a href="/category/4500008">All Men's Clothing</a></li>
+							<li><a href="/category/4500008_Outerwear+and+Rainwear/q/Men%27s+Jackets" onmouseover="makeOneCmSp(this);">Jackets</a></li>
+							<li><a href="/category/4500008/q/Men%27s+Pants" onmouseover="makeOneCmSp(this);">Pants</a></li>							
+							<li><a href="/category/4500008/q/Men%27s+Shirts" onmouseover="makeOneCmSp(this);">Shirts </a></li>
+							<li><a href="/category/4500008/q/Men%27s+Shorts" onmouseover="makeOneCmSp(this);">Shorts</a></li>
+							<li><a href="/category/4500256" onmouseover="makeOneCmSp(this);">Sweaters</a></li>
+							<li><a href="/category/40004261" onmouseover="makeOneCmSp(this);">Swimming</a></li>
+							<li><a href="/category/4500250" onmouseover="makeOneCmSp(this);">Underwear</a></li>
+							<li><a href="/category/4500006_Men%27s+Footwear" onmouseover="makeOneCmSp(this);">Footwear</a></li>
+							<li><a href="/category/4500008/q/Men%27s+Tall+Clothing" onmouseover="makeOneCmSp(this);">Tall Clothing</a></li>
+							<li><a href="/category/4500008" onmouseover="makeOneCmSp(this);">All Men's Clothing</a></li>
 						</ul>
 						<ul class="col3 menNav" style="display: none;">
 							<li class="subTitle">Men's Accessories</li>
-							<li><a href="/category/4501449">Bandanas</a></li>
-							<li><a href="/category/4501854">Belts</a></li>
-							<li><a href="/category/4501452">Gaiters</a></li>
-							<li><a href="/category/4500254">Gloves and Mittens</a></li>
-							<li><a href="/category/40003701">Hats and Headwear</a></li>
-							<li><a href="/category/4500230">Socks</a></li>
-							<li><a href="/category/4500069">Sunglasses</a></li>
-							<li><a href="/category/4500074">Watches</a></li>
-							<li><a href="/category/4500008_Clothing+Accessories">All Accssories</a></li>
+							<li><a href="/category/40004413" onmouseover="makeOneCmSp(this);">Balaclavas</a></li>
+							<li><a href="/category/4501449" onmouseover="makeOneCmSp(this);">Bandanas</a></li>
+							<li><a href="/category/4501854" onmouseover="makeOneCmSp(this);">Belts</a></li>
+							<li><a href="/category/4501452" onmouseover="makeOneCmSp(this);">Gaiters</a></li>
+							<li><a href="/category/4500254" onmouseover="makeOneCmSp(this);">Gloves and Mittens</a></li>
+							<li><a href="/category/40003701" onmouseover="makeOneCmSp(this);">Hats and Headwear</a></li>
+							<li><a href="/category/4500230" onmouseover="makeOneCmSp(this);">Socks</a></li>
+							<li><a href="/category/4500069" onmouseover="makeOneCmSp(this);">Sunglasses</a></li>
+							<li><a href="/category/4500074" onmouseover="makeOneCmSp(this);">Watches</a></li>
+							<li><a href="/category/4500008_Clothing+Accessories" onmouseover="makeOneCmSp(this);">All Accessories</a></li>
 						</ul>
 						
 						<ul class="col4 menNav" style="display: none;">
 							<li class="subTitle">Clothing Shops</li>
-							<li><a href="/category/4500124">Cycling Clothes</a></li>
-							<li><a href="/category/4500008/q/Men%27s+Eco-Friendly+Clothing">Eco-Friendly Clothing</a></li>
-							<li><a href="/category/4500008/q/Men%27s+Extended+Sizes ">Extended Sizes</a></li>
-							<li><a href="/category/4500008_Training+and+Workout+Clothing">Fitness Clothing</a></li>
-							<li><a href="/category/4500008/q/Men%27s+Hiking+Clothing">Hiking Clothing</a></li>
-							<li><a href="/category/40004379">Ski Clothing</a></li>
-							<li><a href="/category/4500300">Snowboard Clothing</a></li>
-							<li><a href="/category/4500008/q/Men%27s+Travel+Clothing">Travel Clothing</a></li>	
+							<li><a href="/category/4500124" onmouseover="makeOneCmSp(this);">Cycling Clothes</a></li>
+							<li><a href="/category/4500008/q/Men%27s+Eco-Friendly+Clothing" onmouseover="makeOneCmSp(this);">Eco-Friendly Clothing</a></li>
+							<li><a href="/category/4500008/q/Men%27s+Extended+Sizes " onmouseover="makeOneCmSp(this);">Extended Sizes</a></li>
+							<li><a href="/category/4500008_Training+and+Workout+Clothing" onmouseover="makeOneCmSp(this);">Fitness Clothing</a></li>
+							<li><a href="/category/4500008/q/Men%27s+Hiking+Clothing" onmouseover="makeOneCmSp(this);">Hiking Clothing</a></li>
+							<li><a href="/category/40004379" onmouseover="makeOneCmSp(this);">Ski Clothing</a></li>
+							<li><a href="/category/4500300" onmouseover="makeOneCmSp(this);">Snowboard Clothing</a></li>
+							<li><a href="/category/4500008/q/Men%27s+Travel+Clothing" onmouseover="makeOneCmSp(this);">Travel Clothing</a></li>							
+							<li class="catCatchAll"><a href="/category/4500008/q/Men%27s+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Men's Sale and Clearance</a></li>
+							<li><a href="/category/1/q/Gifts+for+Him" onmouseover="makeOneCmSp(this);">Gifts for Him</a></li>
 							
-							<li class="catCatchAll"><a href="/category/4500008/q/Men%27s+Sale+and+Clearance">Men's Sale and Clearance</a></li>
-							<li><a href="/category/4500008#topBrands">Men's Clothing Brands</a></li>
-							<li><a href="/category/4500008">All Men's Clothing</a></li>
+							<li><a href="/category/4500008" onmouseover="makeOneCmSp(this);">All Men's Clothing</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="/category/4500013" class="catList catWomen">Women's</a>
+						<a href="/category/4500013" class="catList catWomen" onmouseover="makeOneCmSp(this);">Women's</a>
 						<ul class="col1 womenNav" style="display: none;">
 							<li class="subTitle">Women's Outerwear</li>
-							<li><a href="/category/4500356">Casual Outerwear</a></li>
-							<li><a href="/category/4500358">Fleece Clothing</a></li>
-							<li><a href="/category/4500373">Down/Insulated Clothing</a></li>
-							<li><a href="/category/4500371">Rain Gear</a></li>
-							<li><a href="/category/40004151">Ski and Snowboard</a></li>
-							<li><a href="/category/4500372">Soft Shell Clothing</a></li>
-							<li><a href="/category/4500013/q/Women%27s+Vests">Vests</a></li>
-							<li><a href="/category/4500370">Windbreakers</a></li>
-							<li><a href="/category/4500013_Outerwear+and+Rainwear">All Women's Outerwear</a></li>
+							<li><a href="/category/4500356" onmouseover="makeOneCmSp(this);">Casual Outerwear</a></li>
+							<li><a href="/category/4500358" onmouseover="makeOneCmSp(this);">Fleece Clothing</a></li>
+							<li><a href="/category/4500373" onmouseover="makeOneCmSp(this);">Down/Insulated Clothing</a></li>
+							<li><a href="/category/4500371" onmouseover="makeOneCmSp(this);">Rain Gear</a></li>
+							<li><a href="/category/40004151" onmouseover="makeOneCmSp(this);">Ski and Snowboard</a></li>
+							<li><a href="/category/4500372" onmouseover="makeOneCmSp(this);">Soft Shell Clothing</a></li>
+							<li><a href="/category/4500013/q/Women%27s+Vests" onmouseover="makeOneCmSp(this);">Vests</a></li>
+							<li><a href="/category/4500370" onmouseover="makeOneCmSp(this);">Windbreakers</a></li>
+							<li><a href="/category/4500013_Outerwear+and+Rainwear" onmouseover="makeOneCmSp(this);">All Women's Outerwear</a></li>
 						</ul>
 						<ul class="col2 womenNav" style="display: none;">
 							<li class="subTitle">Women's Clothing</li>
-							<li><a href="/category/4500013_Outerwear+and+Rainwear/q/Women's+Jackets">Jackets</a></li>
-							<li><a href="/category/4500013/q/Women%27s+Pants">Pants</a></li>
-							<li><a href="/category/4500013/q/Women%27s+Shirts">Shirts </a></li>
-							<li><a href="/category/4500013/q/Women%27s+Shorts">Shorts</a></li>
-							<li><a href="/category/4500361">Skirts and Dresses</a></li>							
-							<li><a href="/category/4500363">Sweaters</a></li>
-							<li><a href="/category/40004271">Swimming</a></li>
-							<li><a href="/category/4500354">Underwear</a></li>
-							<li><a href="/category/4500006_Women%27s+Footwear">Footwear</a></li>
-							<li><a href="/category/4500013">All Women's Clothing</a></li>							
+							<li><a href="/category/4500013_Outerwear+and+Rainwear/q/Women's+Jackets" onmouseover="makeOneCmSp(this);">Jackets</a></li>
+							<li><a href="/category/4500013/q/Women%27s+Pants" onmouseover="makeOneCmSp(this);">Pants</a></li>
+							<li><a href="/category/4500013/q/Women%27s+Shirts" onmouseover="makeOneCmSp(this);">Shirts </a></li>
+							<li><a href="/category/4500013/q/Women%27s+Shorts" onmouseover="makeOneCmSp(this);">Shorts</a></li>
+							<li><a href="/category/4500361" onmouseover="makeOneCmSp(this);">Skirts and Dresses</a></li>
+							<li><a href="/category/4501827" onmouseover="makeOneCmSp(this);">Sleepwear</a></li>
+							<li><a href="/category/4500363" onmouseover="makeOneCmSp(this);">Sweaters</a></li>
+							<li><a href="/category/40004271" onmouseover="makeOneCmSp(this);">Swimming</a></li>
+							<li><a href="/category/4500354" onmouseover="makeOneCmSp(this);">Underwear</a></li>
+							<li><a href="/category/4500006_Women%27s+Footwear" onmouseover="makeOneCmSp(this);">Footwear</a></li>
+							<li><a href="/category/4500013" onmouseover="makeOneCmSp(this);">All Women's Clothing</a></li>							
 						</ul>
 						<ul class="col3 womenNav" style="display: none;">
 							<li class="subTitle">Women's Accessories</li>
-							<li><a href="/category/4501820">Bandanas</a></li>
-							<li><a href="/category/4501821">Belts</a></li>
-							<li><a href="/category/4501822">Gaiters</a></li>
-							<li><a href="/category/4500359">Gloves and Mittens</a></li>
-							<li><a href="/category/40003693">Hats and Headwear</a></li>
-							<li><a href="/category/11470741">Jewelry </a></li>
-							<li><a href="/category/4500230/q/Women%27s+Socks">Socks</a></li>
-							<li><a href="/category/4500069">Sunglasses</a></li>
-							<li><a href="/category/4500074">Watches</a></li>
-							<li><a href="/category/4500013_Clothing+Accessories">All Accessories</a></li>
+							<li><a href="/category/4501820" onmouseover="makeOneCmSp(this);">Bandanas</a></li>
+							<li><a href="/category/4501821" onmouseover="makeOneCmSp(this);">Belts</a></li>
+							<li><a href="/category/4501822" onmouseover="makeOneCmSp(this);">Gaiters</a></li>
+							<li><a href="/category/4500359" onmouseover="makeOneCmSp(this);">Gloves and Mittens</a></li>
+							<li><a href="/category/40003693" onmouseover="makeOneCmSp(this);">Hats and Headwear</a></li>
+							<li><a href="/category/11470741" onmouseover="makeOneCmSp(this);">Jewelry </a></li>
+							<li><a href="/category/40003483" onmouseover="makeOneCmSp(this);">Scarves</a></li>
+							<li><a href="/category/4500230/q/Women%27s+Socks" onmouseover="makeOneCmSp(this);">Socks</a></li>
+							<li><a href="/category/4500069" onmouseover="makeOneCmSp(this);">Sunglasses</a></li>
+							<li><a href="/category/4500074" onmouseover="makeOneCmSp(this);">Watches</a></li>
+							<li><a href="/category/4500013_Clothing+Accessories" onmouseover="makeOneCmSp(this);">All Accessories</a></li>
 						</ul>
 						
 						<ul class="col4 womenNav" style="display: none;">
 							<li class="subTitle">Clothing Shops</li>
-							<li><a href="/category/4500148">Cycling Clothes</a></li>
-							<li><a href="/category/4500013/q/Women%27s+Eco-Friendly+Clothing">Eco-Friendly Clothing</a></li>
-							<li><a href="/category/4500013/q/Women%27s+Extended+Sizes">Extended Sizes</a></li>
-							<li><a href="/category/4500013_Outdoor+Fitness+and+Workout+Clothing">Fitness Clothing</a></li>
-							<li><a href="/category/4500013/q/Women%27s+Hiking+Clothing">Hiking Clothes</a></li>
-							<li><a href="/category/40004390">Ski Clothing</a></li>
-							<li><a href="/category/4500311">Snowboard Clothing</a></li>
-							<li><a href="/category/4500013/q/Women%27s+Travel+Clothing">Travel Clothing</a></li>
+							<li><a href="/category/4500148" onmouseover="makeOneCmSp(this);">Cycling Clothes</a></li>
+							<li><a href="/category/4500013/q/Women%27s+Eco-Friendly+Clothing" onmouseover="makeOneCmSp(this);">Eco-Friendly Clothing</a></li>
+							<li><a href="/category/4500013/q/Women%27s+Extended+Sizes" onmouseover="makeOneCmSp(this);">Extended Sizes</a></li>
+							<li><a href="/category/4500013_Outdoor+Fitness+and+Workout+Clothing" onmouseover="makeOneCmSp(this);">Fitness Clothing</a></li>
+							<li><a href="/category/4500013/q/Women%27s+Hiking+Clothing" onmouseover="makeOneCmSp(this);">Hiking Clothes</a></li>
+							<li><a href="/category/40004390" onmouseover="makeOneCmSp(this);">Ski Clothing</a></li>
+							<li><a href="/category/4500311" onmouseover="makeOneCmSp(this);">Snowboard Clothing</a></li>
+							<li><a href="/category/4500013/q/Women%27s+Travel+Clothing" onmouseover="makeOneCmSp(this);">Travel Clothing</a></li>
 							
-							<li class="catCatchAll"><a href="/category/4500013/q/Women%27s+Sale+and+Clearance">Women's Sale and Clearance</a></li>
-							<li><a href="/category/4500013#topBrands">Women's Clothing Brands</a></li>
-							<li><a href="/category/4500013">All Women's Clothing</a></li>
+							<li class="catCatchAll"><a href="/category/4500013/q/Women%27s+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Women's Sale and Clearance</a></li>
+							<li><a href="/category/1/q/Gifts+for+Her" onmouseover="makeOneCmSp(this);">Gifts for Her</a></li>
+							
+							<li><a href="/category/4500013" onmouseover="makeOneCmSp(this);">All Women's Clothing</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="/category/4500007" class="catList catKids">Kids'</a>
+						<a href="/category/4500007" class="catList catKids" onmouseover="makeOneCmSp(this);">Kids'</a>
 						<ul class="col1 kidsNav" style="display: none;">
 							<li class="subTitle">Kids' Shops</li>
-							<li><a href="/category/4500007_Boys+and+Girls/q/Boys%27+Clothing">Boys' Clothing</a></li>
-							<li><a href="/category/4500007_Boys+and+Girls/q/Girls%27+Clothing">Girls' Clothing</a></li>
-							<li><a href="/category/4500007_Infants+and+Toddlers/q/Toddler+Clothing">Toddler Clothing</a></li>
-							<li><a href="/category/4500007_Infants+and+Toddlers/q/Baby+Clothing">Baby Clothing</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Outerwear">Kids' Outerwear</a></li>
-							<li><a href="/category/4500006_Kids%27+Footwear">Kids' Shoes</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Eco-Friendly">Eco-Friendly</a></li>
-							<li><a href="/category/4500007">All Kids'</a></li>
+							<li><a href="/category/4500007_Boys+and+Girls/q/Boys%27+Clothing" onmouseover="makeOneCmSp(this);">Boys' Clothing</a></li>
+							<li><a href="/category/4500007_Boys+and+Girls/q/Girls%27+Clothing" onmouseover="makeOneCmSp(this);">Girls' Clothing</a></li>
+							<li><a href="/category/4500007_Infants+and+Toddlers/q/Toddler+Clothing" onmouseover="makeOneCmSp(this);">Toddler Clothing</a></li>
+							<li><a href="/category/4500007_Infants+and+Toddlers/q/Baby+Clothing" onmouseover="makeOneCmSp(this);">Baby Clothing</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Outerwear" onmouseover="makeOneCmSp(this);">Kids' Outerwear</a></li>
+							<li><a href="/category/4500006_Kids%27+Footwear" onmouseover="makeOneCmSp(this);">Kids' Shoes</a></li>
+							<li><a href="/category/4500007/q/Kids'+Ski+Clothing" onmouseover="makeOneCmSp(this);">Kids' Ski Clothing</a></li>
+							<li><a href="/category/4500007/q/Kids'+Snowboard+Clothing" onmouseover="makeOneCmSp(this);">Kids' Snowboard Clothing</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Eco-Friendly" onmouseover="makeOneCmSp(this);">Eco-Friendly</a></li>
+							<li><a href="/category/4500007" onmouseover="makeOneCmSp(this);">All Kids'</a></li>
 						</ul>
 						<ul class="col2 kidsNav" style="display: none;">
 							<li class="subTitle">Clothing</li>
-							<li><a href="/category/4500007/q/Kids%27+Jackets">Jackets</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Pants">Pants</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Shirts">Shirts </a></li>
-							<li><a href="/category/4500007/q/Kids%27+Shorts">Shorts</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Vests">Vests</a></li>
-							<li><a href="/category/4500006_Kids%27+Footwear">Footwear</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Swimwear">Swimwear</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Dresses|Skirts">Dresses/Skirts</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Sweaters">Sweaters</a></li>
-							<li><a href="/category/4500007">All Kids' Clothing</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Jackets" onmouseover="makeOneCmSp(this);">Jackets</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Pants" onmouseover="makeOneCmSp(this);">Pants</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Shirts" onmouseover="makeOneCmSp(this);">Shirts </a></li>
+							<li><a href="/category/4500007/q/Kids%27+Shorts" onmouseover="makeOneCmSp(this);">Shorts</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Vests" onmouseover="makeOneCmSp(this);">Vests</a></li>
+							<li><a href="/category/4500006_Kids%27+Footwear" onmouseover="makeOneCmSp(this);">Footwear</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Swimwear" onmouseover="makeOneCmSp(this);">Swimwear</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Dresses|Skirts" onmouseover="makeOneCmSp(this);">Dresses/Skirts</a></li>
+							<li><a href="/category/4500007/q/Snowsuits" onmouseover="makeOneCmSp(this);">Kids' Snowsuits</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Sweaters" onmouseover="makeOneCmSp(this);">Sweaters</a></li>
+							<li><a href="/category/4500007" onmouseover="makeOneCmSp(this);">All Kids' Clothing</a></li>
 						</ul>
 						<ul class="col3 kidsNav" style="display: none;">
 							<li class="subTitle">Accessories</li>
-							<li><a href="/category/4500007/q/Kids%27+Gloves|Mittens">Gloves and Mittens</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Hats">Hats</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Socks">Socks</a></li>
-							<li><a href="/category/40003615">Sunglasses</a></li>
-							<li><a href="/category/40003668">Toys</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Long+Underwear">Underwear</a></li>
-							<li><a href="/category/5760722/q/Kids%27+Water+Bottles">Water Bottles</a></li>
-							<li><a href="/category/4500007/q/Clothing+Accessories">All Kids' Accessories</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Gloves|Mittens" onmouseover="makeOneCmSp(this);">Gloves and Mittens</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Hats" onmouseover="makeOneCmSp(this);">Hats</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Socks" onmouseover="makeOneCmSp(this);">Socks</a></li>
+							<li><a href="/category/40003615" onmouseover="makeOneCmSp(this);">Sunglasses</a></li>
+							<li><a href="/category/40003668" onmouseover="makeOneCmSp(this);">Toys</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Long+Underwear" onmouseover="makeOneCmSp(this);">Underwear</a></li>
+							<li><a href="/category/5760722/q/Kids%27+Water+Bottles" onmouseover="makeOneCmSp(this);">Water Bottles</a></li>
+							<li><a href="/category/4500007/q/Clothing+Accessories" onmouseover="makeOneCmSp(this);">All Kids' Accessories</a></li>
 						</ul>						
 						<ul class="col4 kidsNav" style="display: none;">
 							<li class="subTitle">Kids' Gear</li>
-							<li><a href="/category/4500066">Baby Carrier Backpacks</a></li>
-							<li><a href="/category/4500119/q/Kids%27+Bike+Trailers">Bike Trailers</a></li>
-							<li><a href="/category/4500001/q/Kids%27+Camping+Gear">Camping Gear</a></li>
-							<li><a href="/category/4500003/q/Kids%27+Cycling+Gear">Cycling Gear</a></li>
-							<li><a href="/category/4500001_Backpacks%2C+Child+Carriers+and+Duffels/q/Kids%27+Backpacks">Kids' Backpacks</a></li>
-							<li><a href="/category/4500150">Kids' Bikes</a></li>
-							<li><a href="/category/1/q/Kids%27+Snowsports+Gear">Snowsports Gear</a></li>
-							<li><a href="/category/4500119/q/Strollers">Strollers</a></li>
-							<li><a href="/category/1/q/Kids%27+Gear">All Kids' Gear</a></li>	
+							<li><a href="/category/4500066" onmouseover="makeOneCmSp(this);">Baby Carrier Backpacks</a></li>
+							<li><a href="/category/4500119/q/Kids%27+Bike+Trailers" onmouseover="makeOneCmSp(this);">Bike Trailers</a></li>
+							<li><a href="/category/4500001/q/Kids%27+Camping+Gear" onmouseover="makeOneCmSp(this);">Camping Gear</a></li>
+							<li><a href="/category/4500003/q/Kids%27+Cycling+Gear" onmouseover="makeOneCmSp(this);">Cycling Gear</a></li>
+							<li><a href="/category/4500001_Backpacks%2C+Child+Carriers+and+Duffels/q/Kids%27+Backpacks" onmouseover="makeOneCmSp(this);">Kids' Backpacks</a></li>
+							<li><a href="/category/4500150" onmouseover="makeOneCmSp(this);">Kids' Bikes</a></li>
+							<li><a href="/category/1/q/Kids%27+Snowsports+Gear" onmouseover="makeOneCmSp(this);">Snowsports Gear</a></li>
+							<li><a href="/category/4500119/q/Strollers" onmouseover="makeOneCmSp(this);">Strollers</a></li>
+							<li><a href="/category/1/q/Kids%27+Gear" onmouseover="makeOneCmSp(this);">All Kids' Gear</a></li>	
 							
-							<li class="catCatchAll"><a href="/category/4500007/q/Kids+Sale+and+Clearance">Kids' Sale and Clearance</a></li>
-							<li><a href="/category/4500007#topBrands">Top Clothing Brands</a></li>
-							<li><a href="/category/4500007">All Kids'</a></li>
+							<li class="catCatchAll"><a href="/category/4500007/q/Kids+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Kids' Sale and Clearance</a></li>
+							<li><a href="/category/1/q/Gifts+for+Kids" onmouseover="makeOneCmSp(this);">Gifts for Kids</a></li>
+							
+							<li><a href="/category/4500007" onmouseover="makeOneCmSp(this);">All Kids'</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="/category/4500006" class="catList catShoes">Shoes &amp; Boots</a>
+						<a href="/category/4500006" class="catList catShoes" onmouseover="makeOneCmSp(this);">Shoes &amp; Boots</a>
 						<ul class="col1 shoesNav" style="display: none;">
 							<li class="subTitle">Men's Footwear</li>
-							<li><a href="/category/4500006_Men%27s+Footwear/q/Men%27s+Boots">Men's Boots</a></li>
-							<li><a href="/category/40003529">Men's Sandals</a></li>
-							<li><a href="/category/4500006_Men%27s+Footwear/q/Men%27s+Shoes">Men's Shoes</a></li>
-							<li><a href="/category/4500226">Men's Slippers</a></li>
-							<li><a href="/category/4500230">Men's Socks</a></li>
+							<li><a href="/category/4500006_Men%27s+Footwear/q/Men%27s+Boots" onmouseover="makeOneCmSp(this);">Men's Boots</a></li>
+							<li><a href="/category/4500006/q/Men%27s+Extended+Sizes" onmouseover="makeOneCmSp(this);">Men's Extended Sizes</a></li>
+							<li><a href="/category/40003529" onmouseover="makeOneCmSp(this);">Men's Sandals</a></li>
+							<li><a href="/category/4500006_Men%27s+Footwear/q/Men%27s+Shoes" onmouseover="makeOneCmSp(this);">Men's Shoes</a></li>
+							<li><a href="/category/4500226" onmouseover="makeOneCmSp(this);">Men's Slippers</a></li>
+							<li><a href="/category/4500230" onmouseover="makeOneCmSp(this);">Men's Socks</a></li>
 						</ul>
 						<ul class="col2 shoesNav" style="display: none;">
 							<li class="subTitle">Women's Footwear</li>
-							<li><a href="/category/4500006_Women%27s+Footwear/q/Women%27s+Boots">Women's Boots</a></li>
-							<li><a href="/category/40003532">Women's Sandals</a></li>
-							<li><a href="/category/4500006_Women%27s+Footwear/q/Women%27s+Shoes">Women's Shoes</a></li>
-							<li><a href="/category/4500227">Women's Slippers</a></li>
-							<li><a href="/category/4500230/q/Women%27s+Socks">Women's Socks</a></li>
+							<li><a href="/category/4500006_Women%27s+Footwear/q/Women%27s+Boots" onmouseover="makeOneCmSp(this);">Women's Boots</a></li>
+							<li><a href="/category/4500006/q/Women%27s+Extended+Sizes" onmouseover="makeOneCmSp(this);">Women's Extended Sizes</a></li>
+							<li><a href="/category/40003532" onmouseover="makeOneCmSp(this);">Women's Sandals</a></li>
+							<li><a href="/category/4500006_Women%27s+Footwear/q/Women%27s+Shoes" onmouseover="makeOneCmSp(this);">Women's Shoes</a></li>
+							<li><a href="/category/4500227" onmouseover="makeOneCmSp(this);">Women's Slippers</a></li>
+							<li><a href="/category/4500230/q/Women%27s+Socks" onmouseover="makeOneCmSp(this);">Women's Socks</a></li>
 						</ul>
 						<ul class="col3 shoesNav" style="display: none;">
 							<li class="subTitle">Kids' Footwear</li>
-							<li><a href="/category/4500218/q/Kids%27+Boots">Kids' Boots</a></li>
-							<li><a href="/category/4501308">Kids' Sandals</a></li>
-							<li><a href="/category/4500218/q/Kids%27+Shoes">Kids' Shoes</a></li>
-							<li><a href="/cateogry/4501309">Kids' Slippers</a></li>
-							<li><a href="/category/4500007/q/Kids%27+Socks">Kids' Socks</a></li>
+							<li><a href="/category/4500218/q/Kids%27+Boots" onmouseover="makeOneCmSp(this);">Kids' Boots</a></li>
+							<li><a href="/category/4501308" onmouseover="makeOneCmSp(this);">Kids' Sandals</a></li>
+							<li><a href="/category/4500218/q/Kids%27+Shoes" onmouseover="makeOneCmSp(this);">Kids' Shoes</a></li>
+							<li><a href="/category/4501309/q/Kids%27+Slippers" onmouseover="makeOneCmSp(this);">Kids' Slippers</a></li>
+							<li><a href="/category/4500007/q/Kids%27+Socks" onmouseover="makeOneCmSp(this);">Kids' Socks</a></li>
 						</ul>
 						<ul class="col4 shoesNav" style="display: none;">
 							<li class="subTitle">Footwear Accessories</li>
-							<li><a href="/category/4501822">Gaiters</a></li>
-							<li><a href="/category/12221601">Insoles</a></li>
-							<li><a href="/category/4501304">Laces</a></li>
-							<li><a href="/category/4501302">Treatments</a></li>
-							<li><a href="/category/12221603">Winter Traction</a></li>
+							<li><a href="/category/4501822" onmouseover="makeOneCmSp(this);">Gaiters</a></li>
+							<li><a href="/category/12221601" onmouseover="makeOneCmSp(this);">Insoles</a></li>
+							<li><a href="/category/4501304" onmouseover="makeOneCmSp(this);">Laces</a></li>
+							<li><a href="/category/4501302" onmouseover="makeOneCmSp(this);">Treatments</a></li>
+							<li><a href="/category/12221603" onmouseover="makeOneCmSp(this);">Winter Traction</a></li>
+							<li class="catCatchAll"><a href="/category/4500006/q/Footwear+Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Footwear Sale and Clearance</a></li>
+							<li><a href="/category/1/q/Footwear+Gifts" onmouseover="makeOneCmSp(this);">Footwear Gifts</a></li>
 							
-							<li class="catCatchAll"><a href="/category/4500006/q/Footwear+Sale+and+Clearance">Footwear Sale and Clearance</a></li>
-							<li><a href="/category/4500006#topBrands">Top Footwear Brands</a></li>
-							<li><a href="/category/4500006">All Footwear</a></li>
+							<li><a href="/category/4500006" onmouseover="makeOneCmSp(this);">All Footwear</a></li>
 						</ul>
 					</li>
 					
 					<li>
-						<a href="/brands" class="catList catBrands">Brands</a>
+						<a href="/brands" class="catList catBrands" onmouseover="makeOneCmSp(this);">Brands</a>
 						<ul class="col1 brandNav" style="display: none;">
-							<li><a href="/brand/REI">REI</a></li>
-							<li><a href="/brand/Novara">Novara</a></li>
+							<li><a href="/brand/REI" onmouseover="makeOneCmSp(this);">REI</a></li>
+							<li><a href="/brand/Novara" onmouseover="makeOneCmSp(this);">Novara</a></li>
 							<li><img src="/pix/common/dot_horiz_several.gif" alt="" title="" class="dotHori" border="0"></li>
-							<li><a href="/brand/Arc%27Teryx">Arc'Teryx</a></li>
-							<li><a href="/brand/Burton">Burton</a></li>
-							<li><a href="/brand/CamelBak">CamelBak</a></li>
-							<li><a href="/brand/Chaco">Chaco</a></li>
-							<li><a href="/brand/Chariot+Carriers">Chariot Carriers</a></li>
-							<li><a href="/brand/Columbia+Sportswear">Columbia Sportswear</a></li>
-							<li><a href="/brand/Crocs">Crocs</a></li>	
+							<li><a href="/brand/Arc%27Teryx" onmouseover="makeOneCmSp(this);">Arc'Teryx</a></li>
+							<li><a href="/brand/BOB" onmouseover="makeOneCmSp(this);">BOB Strollers</a></li>
+							<li><a href="/brand/Burton" onmouseover="makeOneCmSp(this);">Burton</a></li>
+							<li><a href="/brand/CamelBak" onmouseover="makeOneCmSp(this);">CamelBak</a></li>
+							<li><a href="/brand/Chaco" onmouseover="makeOneCmSp(this);">Chaco</a></li>
+							
+							<li><a href="/brand/Columbia+Sportswear" onmouseover="makeOneCmSp(this);">Columbia Sportswear</a></li>
+							<li><a href="/brand/Crocs" onmouseover="makeOneCmSp(this);">Crocs</a></li>	
 						</ul>
 						<ul class="col2 brandNav" style="display: none;">
-							<li><a href="/brand/Dansko">Dansko</a></li>
-							<li><a href="/brand/Eagle+Creek">Eagle Creek</a></li>
-							<li><a href="/brand/Garmin">Garmin</a></li>
-							<li><a href="/brand/Gregory">Gregory</a></li>
-							<li><a href="/brand/Jetboil">Jetboil</a></li>
-							<li><a href="/brand/Keen">Keen</a></li>
-							<li><a href="/brand/Kelty">Kelty</a></li>
-							<li><a href="/brand/Life+is+good">Life is good</a></li>
-							<li><a href="/brand/Marmot">Marmot</a></li>
-							<li><a href="/brand/Merrell">Merrell</a></li>						
+							<li><a href="/brand/DaKine" onmouseover="makeOneCmSp(this);">DaKine</a></li>
+							<li><a href="/brand/Dansko" onmouseover="makeOneCmSp(this);">Dansko</a></li>
+							<li><a href="/brand/Eagle+Creek" onmouseover="makeOneCmSp(this);">Eagle Creek</a></li>
+							<li><a href="/brand/Garmin" onmouseover="makeOneCmSp(this);">Garmin</a></li>
+							
+							
+							<li><a href="/brand/Keen" onmouseover="makeOneCmSp(this);">Keen</a></li>
+							<li><a href="/brand/Kuhl" onmouseover="makeOneCmSp(this);">Kuhl</a></li>
+							
+							<li><a href="/brand/Life+is+good" onmouseover="makeOneCmSp(this);">Life is good</a></li>
+							<li><a href="/brand/Marmot" onmouseover="makeOneCmSp(this);">Marmot</a></li>
+							<li><a href="/brand/Merrell" onmouseover="makeOneCmSp(this);">Merrell</a></li>
+							<li><a href="/brand/Mountain+Hardwear" onmouseover="makeOneCmSp(this);">Mountain Hardwear</a></li>
 						</ul>
-						<ul class="col3 brandNav" style="display: none;">
-							<li><a href="/brand/Mountain+Hardwear">Mountain Hardwear</a></li>	
-							<li><a href="/brand/MSR">MSR</a></li>
-							<li><a href="/brand/Nalgene">Nalgene</a></li>
-							<li><a href="/brand/Novara">Novara</a></li>
-							<li><a href="/brand/The+North+Face">The North Face</a></li>
-							<li><a href="/brand/Oakley">Oakley</a></li>
-							<li><a href="/brand/Osprey">Osprey</a></li>
-							<li><a href="/brand/Patagonia">Patagonia</a></li>
-							<li><a href="/brand/prAna">prAna</a></li>
-							<li><a href="/brand/REI">REI</a></li>
-							
-							
+						<ul class="col3 brandNav" style="display: none;">	
+							<li><a href="/brand/MSR" onmouseover="makeOneCmSp(this);">MSR</a></li>
+							<li><a href="/brand/Nalgene" onmouseover="makeOneCmSp(this);">Nalgene</a></li>
+							<li><a href="/brand/Novara" onmouseover="makeOneCmSp(this);">Novara</a></li>
+							<li><a href="/brand/The+North+Face" onmouseover="makeOneCmSp(this);">The North Face</a></li>
+							<li><a href="/brand/Oakley" onmouseover="makeOneCmSp(this);">Oakley</a></li>
+							<li><a href="/brand/Osprey" onmouseover="makeOneCmSp(this);">Osprey</a></li>
+							<li><a href="/brand/Patagonia" onmouseover="makeOneCmSp(this);">Patagonia</a></li>
+							<li><a href="/brand/prAna" onmouseover="makeOneCmSp(this);">prAna</a></li>
+							<li><a href="/brand/REI" onmouseover="makeOneCmSp(this);">REI</a></li>
+							<li><a href="/brand/Salomon" onmouseover="makeOneCmSp(this);">Salomon</a></li>
 						</ul>
 						<ul class="col4 brandNav" style="display: none;">
-							<li><a href="/brand/Salomon">Salomon</a></li>
-							<li><a href="/brand/SIGG">SIGG</a></li>
-							<li><a href="/brand/SmartWool">SmartWool</a></li>
-							<li><a href="/brand/Teva">Teva</a></li>
-							<li><a href="/brand/Therm-a-Rest">Therm-a-Rest</a></li>
-							<li><a href="/brand/Thule">Thule</a></li>
-							<li><a href="/brand/Timbuk2">Timbuk2</a></li>
-							<li><a href="/brand/Under+Armour">Under Armour</a></li>
-							<li><a href="/brand/Yakima">Yakima</a></li>
+							<li><a href="/brand/SIGG" onmouseover="makeOneCmSp(this);">SIGG</a></li>
+							<li><a href="/brand/SmartWool" onmouseover="makeOneCmSp(this);">SmartWool</a></li>
+							<li><a href="/brand/Sorel" onmouseover="makeOneCmSp(this);">Sorel</a></li>
+							<li><a href="/brand/Teva" onmouseover="makeOneCmSp(this);">Teva</a></li>
 							
-							<li class="catCatchAll"><a href="/brands">All Brands...</a></li>
+							<li><a href="/brand/Thule" onmouseover="makeOneCmSp(this);">Thule</a></li>
+							<li><a href="/brand/Timbuk2" onmouseover="makeOneCmSp(this);">Timbuk2</a></li>
+							<li><a href="/brand/UGG" onmouseover="makeOneCmSp(this);">UGG</a></li>
+							<li><a href="/brand/Under+Armour" onmouseover="makeOneCmSp(this);">Under Armour</a></li>
+							<li><a href="/brand/Yakima" onmouseover="makeOneCmSp(this);">Yakima</a></li>
+							
+							<li class="catCatchAll"><a href="/brands" onmouseover="makeOneCmSp(this);">All Brands...</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="/categories" class="catList catAll">All Categories</a>
+						<a href="/categories" class="catList catAll" onmouseover="makeOneCmSp(this);">All Categories</a>
 						<ul class="col1 allCatNav" style="display: none;">
-							<li><a href="/category/40004319">Alpine Skiing Shop</a></li>
-							<li><a href="/category/4500306">Backcountry Skiing Shop</a></li>
-							<li><a href="/category/4500001_Backpacks%2C+Child+Carriers+and+Duffels">Backpacks</a></li>
-							<li><a href="/category/4500033">Binoculars</a></li>
-							<li><a href="/category/4500003_Bicycles">Bikes</a></li>
-							<li><a href="/category/4500002/q/Bouldering+Shop">Bouldering Shop</a></li>
-							<li><a href="/category/4500001">Camping and Hiking</a></li>
-							<li><a href="/category/4500010">Car Racks</a></li>
-							<li><a href="/category/4500002">Climbing</a></li>
-							<li><a href="/category/40004009">Cross-Country Skiing Shop</a></li>
-							<li><a href="/category/4500003">Cycling</a></li>							
+							<li><a href="/category/40004319" onmouseover="makeOneCmSp(this);">Alpine Skiing Shop</a></li>
+							<li><a href="/category/4500306" onmouseover="makeOneCmSp(this);">Backcountry Skiing Shop</a></li>
+							<li><a href="/category/4500001_Backpacks%2C+Child+Carriers+and+Duffels" onmouseover="makeOneCmSp(this);">Backpacks</a></li>
+							<li><a href="/category/4500033" onmouseover="makeOneCmSp(this);">Binoculars</a></li>
+							<li><a href="/category/4500003_Bicycles" onmouseover="makeOneCmSp(this);">Bikes</a></li>
+							
+							<li><a href="/category/4500001" onmouseover="makeOneCmSp(this);">Camping and Hiking</a></li>
+							<li><a href="/category/4500010" onmouseover="makeOneCmSp(this);">Car Racks</a></li>
+							<li><a href="/category/4500002" onmouseover="makeOneCmSp(this);">Climbing</a></li>
+							<li><a href="/category/40004009" onmouseover="makeOneCmSp(this);">Cross-Country Skiing</a></li>
+							<li><a href="/category/4500003" onmouseover="makeOneCmSp(this);">Cycling</a></li>							
 						</ul>
 						<ul class="col2 allCatNav" style="display: none;">
-							<li><a href="/category/40003681">Dog Gear</a></li>
-							<li><a href="/category/1/q/Electronics">Electronics</a></li>
-							<li><a href="/category/4500005">Fitness</a></li>
-							<li><a href="/giftcard">Gift Cards</a></li>
-							<li><a href="/category/1/q/GPS">GPS</a></li>
-							<li><a href="/category/40003625">Home Climbing Gym Shop</a></li>
-							<li><a href="/category/4500002/q/Ice+Climbing+Shop">Ice Climbing Shop</a></li>
-							<li><a href="/category/1/q/Jackets">Jackets</a></li>
-							<li><a href="/category/4500007">Kids' Clothing</a></li>
-							<li><a href="/category/1/q/Kids%27+Gear">Kids' Gear</a></li>
-							<li><a href="/category/4500006_Kids%27+Footwear">Kids' Shoes and Boots</a></li>	
-							<li><a href="/category/4500012">Luggage and Day Bags</a></li>
+							<li><a href="/category/40003681" onmouseover="makeOneCmSp(this);">Dog Gear</a></li>
+							<li><a href="/category/1/q/Electronics" onmouseover="makeOneCmSp(this);">Electronics</a></li>
+							<li><a href="/category/4500005" onmouseover="makeOneCmSp(this);">Fitness</a></li>
+							<li><a href="/giftcard" onmouseover="makeOneCmSp(this);">Gift Cards</a></li>
+							<li><a href="/features/reigiftcenter.html" onmouseover="makeOneCmSp(this);">Gift Center</a></li>
+							<li><a href="/category/1/q/GPS" onmouseover="makeOneCmSp(this);">GPS</a></li>
+							<li><a href="/category/1/q/Hammocks" onmouseover="makeOneCmSp(this);">Hammocks</a></li>
+							
+							
+							<li><a href="/category/1/q/Jackets" onmouseover="makeOneCmSp(this);">Jackets</a></li>
+							<li><a href="/category/4500007" onmouseover="makeOneCmSp(this);">Kids'</a></li>
+							
+							
+								
+							<li><a href="/category/4500012" onmouseover="makeOneCmSp(this);">Luggage and Day Bags</a></li>
 						</ul>
 						<ul class="col3 allCatNav" style="display: none;">							
-							<li><a href="/category/4500008">Men's Clothing</a></li>
-							<li><a href="/category/4500006_Men%27s+Footwear">Men's Shoes and Boots</a></li>
-							<li><a href="/category/1/q/Mountaineering+Shop">Mountaineering Shop</a></li>
-							<li><a href="/category/40003658">Outdoor Lifestyle</a></li>
-							<li><a href="/category/4500009">Paddling</a></li>
-							<li><a href="/category/4500002/q/Rock+Climbing+Shop">Rock Climbing Shop</a></li>
-							<li><a href="/category/4500005/q/Running+Shop">Running</a></li>
-							<li><a href="/category/4500001_Sleeping+Bags">Sleeping Bags</a></li>
-							<li><a href="/category/40003930">Snowboarding Shop</a></li>
-							<li><a href="/category/40004010">Snowshoeing Shop</a></li>
-							<li><a href="/snowsports">Snowsports</a></li>	
-							<li><a href="/category/4500119/q/Strollers">Strollers</a></li>
+							<li><a href="/category/4500008" onmouseover="makeOneCmSp(this);">Men's Clothing</a></li>
+							<li><a href="/category/4500006_Men%27s+Footwear" onmouseover="makeOneCmSp(this);">Men's Shoes and Boots</a></li>
+							
+							<li><a href="/category/40003658" onmouseover="makeOneCmSp(this);">Outdoor Lifestyle</a></li>
+							<li><a href="/category/4500009" onmouseover="makeOneCmSp(this);">Paddling</a></li>
+							
+							<li><a href="/category/4500005/q/Running+Shop" onmouseover="makeOneCmSp(this);">Running</a></li>
+							<li><a href="/Sale+and+Clearance" onmouseover="makeOneCmSp(this);">Sale &amp; Clearance</a></li>
+							<li><a href="/category/4500001_Sleeping+Bags" onmouseover="makeOneCmSp(this);">Sleeping Bags</a></li>
+							<li><a href="/category/40003930" onmouseover="makeOneCmSp(this);">Snowboarding Shop</a></li>
+							<li><a href="/category/40004010" onmouseover="makeOneCmSp(this);">Snowshoeing Shop</a></li>
+							<li><a href="/snowsports" onmouseover="makeOneCmSp(this);">Snowsports</a></li>	
+							<li><a href="/category/4500119/q/Strollers" onmouseover="makeOneCmSp(this);">Strollers</a></li>
 						</ul>
 						<ul class="col4 allCatNav" style="display: none;">
 							
-							<li><a href="/category/4500069">Sunglasses</a></li>
-							<li><a href="/category/4500005/q/Swimming+Shop">Swimming</a></li>
-							<li><a href="/category/4500001_Tents+and+Shelters">Tents</a></li>
-							<li><a href="/category/4500012">Travel</a></li>
-							<li><a href="/category/4500005/q/Triathlon+Shop">Triathlon</a></li>
-							<li><a href="/category/4500001/q/Ultralight+Backpacking">Ultralight Backpacking</a></li>
-							<li><a href="/category/4500074">Watches</a></li>
-							<li><a href="/category/4500013">Women's Clothing</a></li>
-							<li><a href="/category/4500006_Women%27s+Footwear">Women's Shoes and Boots</a></li>
-							<li><a href="/category/4500005/q/Yoga+Shop">Yoga</a></li>
+							<li><a href="/category/4500069" onmouseover="makeOneCmSp(this);">Sunglasses</a></li>
+							<li><a href="/category/4500005/q/Swimming+Shop" onmouseover="makeOneCmSp(this);">Swimming</a></li>
+							<li><a href="/category/4500001_Tents+and+Shelters" onmouseover="makeOneCmSp(this);">Tents</a></li>
+							<li><a href="/category/4500012" onmouseover="makeOneCmSp(this);">Travel</a></li>
+							<li><a href="/category/4500005/q/Triathlon+Shop" onmouseover="makeOneCmSp(this);">Triathlon</a></li>
+							<li><a href="/category/4500001/q/Ultralight+Backpacking" onmouseover="makeOneCmSp(this);">Ultralight Backpacking</a></li>
+							<li><a href="/category/4500074" onmouseover="makeOneCmSp(this);">Watches</a></li>
+							<li><a href="/category/1/q/Water+Bottles" onmouseover="makeOneCmSp(this);">Water Bottles</a></li>
+							<li><a href="/category/4500013" onmouseover="makeOneCmSp(this);">Women's Clothing</a></li>
+							<li><a href="/category/4500006_Women%27s+Footwear" onmouseover="makeOneCmSp(this);">Women's Shoes and Boots</a></li>
+							<li><a href="/category/4500005/q/Yoga+Shop" onmouseover="makeOneCmSp(this);">Yoga</a></li>
 							
-							<li class="catCatchAll"><a href="/categories">All Categories...</a></li>
+							<li class="catCatchAll"><a href="/categories" onmouseover="makeOneCmSp(this);">All Categories...</a></li>
 						</ul>
 					</li>	
-         				</ul><div id="siteWideMsg"></div></div><div id="footerWrapper" onmouseover="makeCmSp()"><ul>
+         				</ul><div id="siteWideMsg" onmouseover="makeCmRe()"></div></div><div id="footerWrapper"><ul>
         <li class="ftTitle">Company Info</li>
-        <li><a href="/aboutrei/about_rei.html">About REI</a></li>
-        <li><a href="/jobs/index.html">Jobs at REI</a></li>
-        <li><a href="/help/guarantee.html">100% Satisfaction Guarantee</a></li>
-        <li><a href="/cgs/index.html">Corporate Sales</a></li>
-        <li><a href="/help/privacy.html">Privacy Policy</a></li>
-        <li><a href="/help/termsofuse.html">Terms of Use</a></li>
-        <li><a href="/catalogsignup">Catalog Sign-Up</a></li>
+        <li><a href="/aboutrei/about_rei.html" onmouseover="makeOneCmSp(this);">About REI</a></li>
+        <li><a href="/jobs/index.html" onmouseover="makeOneCmSp(this);">Jobs at REI</a></li>
+        <li><a href="/help/guarantee.html" onmouseover="makeOneCmSp(this);">100% Satisfaction Guarantee</a></li>
+        <li><a href="/cgs/index.html" onmouseover="makeOneCmSp(this);">Corporate &amp; Group Sales</a></li>
+        <li><a href="/help/privacy.html" onmouseover="makeOneCmSp(this);">Privacy Policy</a></li>
+        <li><a href="/help/termsofuse.html" onmouseover="makeOneCmSp(this);">Terms of Use</a></li>
+        <li><a href="/catalogsignup" onmouseover="makeOneCmSp(this);">Request an REI Catalog</a></li>
         
         <li class="ftTitle2">Partner Program</li>
-        <li><a href="/affiliates/index.html">Become an REI Affiliate</a></li>   
+        <li><a href="/affiliates/index.html" onmouseover="makeOneCmSp(this);">Become an REI Affiliate</a></li>   
     </ul><ul>
-        <li class="ftTitle">We Care</li>
-        <li><a href="/aboutrei/gives02.html">REI Gives</a></li>
-        <li><a href="/aboutrei/stewardship_08.html">Stewardship</a></li>
-        <li><a href="/aboutrei/volunteer.html">Volunteer</a></li>
-        <li><a href="/aboutrei/reikids02.html">PEAK Program</a></li>
-        <li class="ftTitle2">REI Membership</li>
-        <li><a href="/help/membership_join.html">Become an REI Member</a></li>
-        <li><a href="/help/membership.html">Member Help</a></li>
-        <li><a href="/reivisa/foot?cm_sp=footer*visa*applyforvisa">Apply for an REI Visa<span class="spChar">®</span> Card</a></li>
-    </ul><ul>
+        <li class="ftTitle">REI Membership</li>
+        <li><a href="/help/membership_join.html?mem_ind_REI_footer" onmouseover="makeOneCmSp(this);">Become an REI Member</a></li>
+        <li><a href="/help/membership.html" onmouseover="makeOneCmSp(this);">Member Help</a></li>
+        <li><a href="/reivisa/foot" onmouseover="makeOneCmSp(this);">Apply for an REI Visa® Card</a></li>
+        
+        <li class="ftTitle2">We Care</li>
+        <li><a href="/aboutrei/gives02.html" onmouseover="makeOneCmSp(this);">REI Gives</a></li>
+        <li><a href="/aboutrei/stewardship_08.html" onmouseover="makeOneCmSp(this);">Stewardship</a></li>
+        <li><a href="/aboutrei/volunteer.html" onmouseover="makeOneCmSp(this);">Volunteer</a></li>
+        <li><a href="/aboutrei/reikids02.html" onmouseover="makeOneCmSp(this);">PEAK Program</a></li>
+        <li><a href="/help/eco-conscious.html" onmouseover="makeOneCmSp(this);">Eco-Conscious Gear</a></li>
+    </ul><ul class="helpCol">
         <li class="ftTitle">Help</li>
-        <li><a href="/help/index.html">Help Section</a></li>
-        <li><a href="/help/feedback/feedback.html">Contact Us</a></li>
-        <li><a href="javascript:launchChatPopup()">Live Help</a></li>
-        <li><a href="/help/tracking.html">Order Tracking</a></li>
-        <li><a href="/help/returns.html">Returns</a></li>
-        <li><a href="/help/shipping.html">Shipping Info</a></li>
+        <li><a href="/help/index.html" onmouseover="makeOneCmSp(this);">Help Section</a></li>
+        <li><a href="/help/feedback/feedback.html" onmouseover="makeOneCmSp(this);">Contact Us</a></li>
+        <li><a href="javascript:launchChatPopup()" onmouseover="makeOneCmSp(this);">Live Help</a></li>
+        <li><a href="/help/tracking.html" onmouseover="makeOneCmSp(this);">Order Tracking</a></li>
+        <li><a href="/help/returns.html" onmouseover="makeOneCmSp(this);">Returns</a></li>
+        <li><a href="/help/shipping.html" onmouseover="makeOneCmSp(this);">Shipping Info</a></li>
+        <li><a href="/reviews" onmouseover="makeOneCmSp(this);">Product Reviews</a></li>
         <li>1-800-426-4840</li>
-        <li><a href="/help/recall/index.html">Product Safety Recalls</a></li>					
-    </ul><ul>
-    <li class="ftTitle">Sign up for REI Gearmail<span class="spChar">®</span></li>
-    <li> Get a coupon for 15% off one full-price item.</li>
-    <li><a onclick="openWindow('/rei/coupons/cpn4670-popup.html','cpn4670','scrollbars=no,width=500,height=725,resizable=yes,status=no,toolbar=no');" href="#" class="details">Details</a>.</li>
-    <li><form action="/email/miniforms/quick.html" name="footerMiniform">
-        <input type="text" name="EmailAddress" id="footerGmQuery" value="Email Address" class="email" onfocus="javascript:if(document.getElementById('footerGmQuery').value=='Email Address') document.getElementById('footerGmQuery').value='';" size="26" maxlength="70">
-        <input type="hidden" name="formSrc" id="formSrc" value="quickReiFooter">
-        <a href="javascript:document.footerMiniform.submit();"><img alt="Continue" title="Continue" src="/pix/common/button_continue.gif" class="imgSignup"></a></form>
-    </li>
-</ul><ul>
-    <li class="ftTitle">Store Locator</li>
-    <li>Enter your ZIP code to locate a store near you. </li>
-    <li><form action="/FindStores" method="post" name="finderForm" id="finderForm" onsubmit="return finderFormScript(document.finderForm)">
-        <input name="xslName" value="" type="hidden">
-        <input name="defaultRadius" value="" type="hidden">
-        <input name="onErrorXsl" value="STORES_AND_EVENTS_XSL" type="hidden">
-        <input name="state" value="" type="hidden">
-        <select name="radius" size="1" style="display:none;">
-            <option value="50" selected="">50 mi</option>
-        </select>
-        <input type="text" name="zip" id="footerStoreQuery" value="Enter Your ZIP Code" class="findStore" onfocus="javascript:if(document.getElementById('footerStoreQuery').value=='Enter Your ZIP Code') document.getElementById('footerStoreQuery').value='';" size="20" maxlength="70">
-        <input src="/pix/common/button_find_a_store.gif" alt="Find a Store" title="Find a Store" type="image" class="imgFindStore">
-    </form>
-    </li>
-</ul></div></div></div><script type="text/javascript" src="/javascript/commonFoot"></script><script type="text/javascript" src="/javascript/urchin.js" id="googleAnalyticsShortcut"></script><script type="text/javascript">				
+        <li><a href="/help/recall/index.html" onmouseover="makeOneCmSp(this);">Product Safety Recalls</a></li>					
+    </ul><div class="ftrForms">
+        <ul class="storeLocator">
+            <li class="ftTitle">Store Locator</li>
+           
+            <li>Locate a store near you.</li>
+            <li><form action="/FindStores" method="post" name="finderForm" id="finderForm" onsubmit="return finderFormScript(document.finderForm)">    
+                <input name="xslName" value="" type="hidden">
+                <input name="defaultRadius" value="" type="hidden">
+                <input name="onErrorXsl" value="STORES_AND_EVENTS_XSL" type="hidden">
+                <input name="state" value="" type="hidden">
+                <select name="radius" size="1" style="display:none;">
+                    <option value="50" selected="">50 mi</option>
+                </select>
+                <input type="text" name="zip" id="footerStoreQuery" value="Enter Your ZIP Code" class="findStore" title="Enter your zip code to find a store near you" onfocus="javascript:if(document.getElementById('footerStoreQuery').value=='Enter Your ZIP Code') document.getElementById('footerStoreQuery').value='';" size="20" maxlength="70">
+                <input src="/pix/common/button_find_a_store.gif" alt="Find a Store" title="Find a Store" type="image" class="imgFindStore">   
+            </form>
+            </li>
+        </ul>	
+        
+        <ul>
+            <li class="ftTitle">Sign up for REI Gearmail<span class="spChar">®</span></li>
+            
+            <li>Get 15% off one full-price item.  <a onclick="openWindow('/rei/coupons/cpn4670-popup.html','cpn4670','scrollbars=no,width=500,height=725,resizable=yes,status=no,toolbar=no');" href="#" class="details" onmouseover="makeOneCmSp(this);">Details</a>.</li>
+            <li><form action="/email/miniforms/quick.html" name="footerMiniform">
+                <input type="text" name="EmailAddress" id="footerGmQuery" value="Email Address" class="email" title="Enter email address to sign up for REI Gearmail" onfocus="javascript:if(document.getElementById('footerGmQuery').value=='Email Address') document.getElementById('footerGmQuery').value='';" size="26" maxlength="70">
+                <input type="hidden" name="formSrc" id="formSrc" value="quickReiFooter">
+                <a href="javascript:document.footerMiniform.submit();" onmouseover="makeOneCmSp(this);"><img alt="Continue" title="Continue" src="/pix/common/button_continue.gif" class="imgSignup"></a>
+            </form>
+            </li>
+        </ul>
+    </div><ul class="gcPromo">
+        <li class="ftTitle">REI Gift Cards</li>
+        <li><a href="/giftcard" onmouseover="makeOneCmSp(this);"><img src="/pix/giftCard/giftcards_footer.gif" alt="Buy REI Gift Cards" title="Buy REI Gift Cards" border="0"></a></li>
+        <li>Give your favorite outdoor enthusiast an REI gift card or e-gift card. It's fast, easy and one size fits all.</li>
+        <li><a href="/giftcard" onmouseover="makeOneCmSp(this);">Buy REI Gift Cards now!</a></li>
+    </ul></div></div></div><script type="text/javascript" src="/javascript/commonFoot"></script><script type="text/javascript" src="/javascript/urchin.js" id="googleAnalyticsShortcut"></script><script type="text/javascript">				
 				_uacct = "UA-3017203-1";
 				urchinTracker();
 			</script></body></html>
