@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetchapp.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630102527id_/http%3A//www.fetchapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchapp.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030453id_/http%3A//www.fetchapp.com/privacy) for the most accurate reproduction.*
 
 # Fetch
 
@@ -42,4 +42,4 @@ Pixallent may periodically update this policy. We will notify you about signific
 
 ### Questions
 
-Any questions about this Privacy Policy should be addressed to help at pixallent dot com or by mail at: Pixallent, 1550 Larimer Street, Unit 159, Denver, Colorado 80202 USA.
+Any questions about this Privacy Policy should be addressed to help at pixallent dot com or by mail at: Pixallent, 835 E Lamar, Suite 423, Arlington Texas 76011 USA
