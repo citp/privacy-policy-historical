@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606190529id_/http%3A//www.creatingkeepsakes.com/privacy.ihtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022406id_/http%3A//www.creatingkeepsakes.com/content/view/17/41) for the most accurate reproduction.*
 
-# Creating Keepsakes Scrapbook Magazine
+# CK Scrapbook Online Community - Privacy Policy
 
 CK Media respects your privacy, and is committed to providing a safe online experience for our users. Since we request personal information for many of our online features, this policy summarizes the types of information we will collect and how it will be used.
 
@@ -8,11 +8,11 @@ While you are free to visit our websites, read selected articles, and use select
 
 We may also collect general information such as type of browser you use, your IP address, the files you request, the domain name you use, etc. This information is used to improve our website and better meet the needs of our viewers. Some of our web pages may contain “cookies,” which are sent to your computer to store data. This allows our servers to “recognize” you when you visit our sites in the future and provide you with better services. Most web browsers can be configured to not accept cookies if you choose to disable them. However if you disable cookies, some advanced features will not be available to you.
 
-The information collected is used to better serve you and improve our services. We use this information to track orders, respond to your inquiries, welcome you to our sites, and to gauge user trends. We will not sell your information to third parties. We may provide general information and statistics, such as click-through rates and user trends, to advertisers, but we will not share personal information.
+The information collected is used to better serve you and improve our services. We use this information to track orders, respond to your inquiries, welcome you to our sites, and to gauge user trends. We will not sell your information to third parties without your permission. We may provide general information and statistics, such as click-through rates and user trends, to advertisers, but we will not share personal information.
 
-To receive our email newsletters and special e-mail offers, you must voluntarily opt in to our mailing lists. We do not buy or sell lists. Any emails, articles, or other information you forward to friends from our sites is confidential, and we will not add your friends to our lists unless they choose to opt in. You may opt out of our email lists at any time.
+To receive our email newsletters and special e-mail offers, you must voluntarily opt in to our mailing lists. **We do not buy or sell lists.** Any emails, articles, or other information you forward to friends from our sites is confidential, and we will not add your friends to our lists unless they choose to opt in. We may occasionally send you special third-party offers via e-mail. We maintain all personal information and do not give that information out to those third parties. You may opt out of these lists at any time by clicking here.
 
-If you subscribe to one of our magazines, you may receive special offers from CK Media and/or TN Marketing in the mail. You must opt out if you do not wish to receive information by mail.
+If you subscribe to one of our magazines, you may receive special offers from CK Media or our partners in the mail. You must opt out if you do not wish to receive information by mail by clicking here.
 
 Our online shopping carts are highly secure to protect your information. When you place an order on one of our sites, your information is protected by SSL technology encryption, ensuring complete privacy and protection of your personal information. When you order products online, subscribe or enter an online contest, we will request more personal information such as your mailing address, phone number and credit card information to enable us to properly handle your requests. This information will not be shared.
 
@@ -23,3 +23,5 @@ Be aware that CK Media is not responsible for any personal information you post 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [(http://networkadvertising.org/consumer/opt_out.asp)](http://networkadvertising.org/consumer/opt_out.asp). 
 
 CK Media reserves the right to use or disclose any information without notice or consent as needed to satisfy any law or legal violations. We also reserve the right to modify this policy at any time.
+
+Thank you for your cooperation. 
