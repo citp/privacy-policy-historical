@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keralaglobal.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410144351id_/http%3A//www.keralaglobal.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralaglobal.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216131622id_/http%3A//www.keralaglobal.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Kerala Global.com
 
