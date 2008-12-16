@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the tvlesson.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422073919id_/http%3A//www.tvlesson.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvlesson.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216063736id_/http%3A//www.tvlesson.com/privacy.php) for the most accurate reproduction.*
 
-# TVLesson - The World is Learning
+# How to Videos on TVLesson | Instructions, Tutorials
 
-|  | 
-
-TVLesson Privacy Notice  
 Updated as of February 1, 2007  
 To understand how we treat the information you give us as you use TVLesson, you should read this policy.
 
@@ -37,10 +34,11 @@ You should consult the respective privacy policies of these third-party ad serve
 **More Information  
 **For more information about our privacy practices write to us at:
 
-TVLesson Privacy  
-285 E. Imperial Hwy #107.  
-Fullerton, CA 92835  
-USA
+[privacy@tvlesson.com  
+](mailto:privacy@tvlesson.com)11900 W. Olympic Boulevard, Suite 800  
+Los Angeles, CA 90064
 
-|   
----|---|---
+[service@tvlesson.com](mailto:service@tvlesson.com)  
+10 Pointe Drive Suite 150  
+Brea, CA 92821  
+ 
