@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517030654id_/http%3A//www.estatesales.net/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044833id_/http%3A//www.estatesales.net/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,6 +58,15 @@ The information will be shared with the following parties:
 
 **Can I review my information?**  
 Our website allows you to review all the information we keep about you. This is done by clicking on the link in the estate sale e-mail that goes out once a week. 
+
+**Can I opt-out at any time?**  
+Yes, you can unsubscribe at any time by one of the following methods. We will normally unsubscribe your address within 30 minutes. It can take up to one business day though. 
+
+  1. Click the link at the bottom of a notification e-mail that you received from us and follow the instructions.
+  2. Reply to any e-mail that you have received from us and ask to be unsubscribed or removed
+  3. Log into our web site and make the changes there: <http://www.estatesales.net/subscriptions/>
+
+
 
 **What if I think there are inaccuracies in my information?**  
 If you believe we are not handling your information in accordance with our privacy policy, please contact our customer service department. Contact information is available at [http://www.EstateSales.NET/contact.aspx](https://web.archive.org/contact.aspx).  
