@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614201119id_/http%3A//www.ripoffreport.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217005935id_/http%3A//www.ripoffreport.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Ripoff Report: By Consumers, For Consumers
+
+[](https://web.archive.org/ads/EconTelemarketersPages.htm)Telemarketers taking advantage of tough economic times.  
+[PLAY VIDEO](https://web.archive.org/ads/EconTelemarketersPages.htm)
+
+[](https://web.archive.org/ads/PyramidSchemePages.htm)Questionable pyramid scheme takes advantage of consumers.  
+[PLAY VIDEO](https://web.archive.org/ads/PyramidSchemePages.htm)
+
+[](https://web.archive.org/rormedia.asp?path=/common/videos/computer_creep.flv)Internet marketing scams prey on the innocent.  
+[PLAY VIDEO](https://web.archive.org/rormedia.asp?path=/common/videos/computer_creep.flv)
+
+[](https://web.archive.org/rormedia.asp?path=/common/videos/wbz_DoorToDoorScams.flv)Beware! Door-to-door marketing scams are on the rise.  
+[PLAY VIDEO](https://web.archive.org/rormedia.asp?path=/common/videos/wbz_DoorToDoorScams.flv)
 
 This privacy policy applies to the Ripoff Report web site. Our contact information is:
 
