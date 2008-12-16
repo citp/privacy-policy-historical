@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddigest.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417182255id_/http%3A//www.digital-digest.com/page.php%3Ffile%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddigest.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015233id_/http%3A//www.digital-digest.com/page.php%3Ffile%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Digest
 
@@ -24,7 +24,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 |   
   
 [About Digital Digest](http://www.digital-digest.com/page.php?file=about "About Digital
-Digest") | [Links](http://www.digital-digest.com/page.php?file=links "Links") | [Link to us](http://www.digital-digest.com/page.php?file=link-to-us "Link to
+Digest") | [Help](http://www.digital-digest.com/help.php "Help") | [Links](http://www.digital-digest.com/page.php?file=links "Links") | [Link to us](http://www.digital-digest.com/page.php?file=link-to-us "Link to
 us") | [Newsletter](http://www.digital-digest.com/newsletter/ "Newsletter") | [Privacy](http://www.digital-digest.com/page.php?file=policy "Privacy") | [Submissions](http://www.digital-digest.com/page.php?file=submit "Submissions") | [Sitemap](http://www.digital-digest.com/sitemap.php "Sitemap")
 
-© Copyright 1999-2006 Digital Digest. Duplication of links or content is strictly prohibited.
+© Copyright 1999-2008 Digital Digest. Duplication of links or content is strictly prohibited.
