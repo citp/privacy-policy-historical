@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the wikidot.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616082055id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikidot.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216084640id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
 
 # Wikidot - Free Wiki Hosting: Privacy Policy
 
 At Wikidot we care about the privacy of our users. If you use any of the Sites hosted by Wikidot you must accept the way we handle personal information that is described below.
 
-Through Wikidot.com Services Users are allowed to create individual Wiki Sites, edit and post Content, create profiles and communicate with other Users. For the Services to work it is required that some personal information is collected and selected information is displayed publicly. This Privacy Policy describes the way the personal information is used within the Wikidot Services.
+Within the Wikidot.com Services Users are allowed to create individual Wiki Sites, edit and post Content, create profiles and communicate with other Users. For the Services to work it is required that some personal information is collected and selected information is displayed publicly. This Privacy Policy describes the way the personal information is used within the Wikidot Services.
 
 We will update the privacy policy from time to time. The most current version of the policy is always available at: <http://www.wikidot.com/legal:privacy-policy>.
 
 Personal information is data required to identify individual users, such as user name, email address, telephone number, IM identifier etc. and also activity of an individual and any other information that is linked to an individual.
 
-Wikidot.com collects information required for proper user account handling and user identification such as: email address, screen name (and password). Optionally Users can fill additional profile data including but not limited to: real name, gender, birth date, User's website, instant messaging contact info and location. Profile information is public. Profile information can be changed by any time by the User.
+Wikidot.com collects information required for proper user account handling and user identification such as: email address, screen name (and password). Optionally Users can fill additional profile data including but not limited to: real name, gender, birth date, User's website, instant messaging contact info and location. Profile information is public or private. Profile information can be changed by any time by the User.
 
 The Services also logs other information including IP address and browser type from both registered Users and anonymous visitors. This data is used for technical purposes of running the Services, monitor and analyze trends and improve the Services and for security and monitoring purposes. These aggregate data (with any individual information stripped such that no connection to individual users can be made) can be shared with third-parties to provide more relevant services and advertisements.
 
-User profile data is public and can be viewed by any visitor.
+User profile data is public and can be viewed by any visitor, or it can be set as private and visible to contacts or people that are members of the same Sites the User is too (available in Pro accounts).
 
 User email addresses are never displayed publicly nor revealed to other Users unless a User puts it directly on the pages or another User is in your contact list. However to make finding Users easier we allow searching by email address where one can look up a User whose email address matches the queried one.
 
@@ -25,7 +25,7 @@ Email address may be used to send Wikidot Newsletter or other important Services
 Email addresses are not shared with any third party, rent or sold.
 
 On some Sites anonymous users are allowed to post content and/or participate in forum discussions. In such a case, since no user name can be associated with such a user, the IP address number of a user is used as an identifier.  
-**When posting content or messages to the Sites anonymously your IP address will be revealed to the public.**
+**When posting content or messages to the Sites anonymously, part of your IP address will be revealed to the public.**
 
 Wikidot.com Services use Cookies to uniquely identify and record session information. This is required for proper Service operation. Users with cookies disabled in their browsers will not be able to fully interact with the Services.
 
@@ -46,15 +46,21 @@ We will not share, publish nor reuse any Content from private sites for purposes
 
 Advertisements appearing on any of the Wiki Sites can be delivered to Users and Visitors by Wikidot.com or any of our advertising partners. These partners may set additional cookies which are required for the ad server to work properly and optimize ads served to you. This Privacy Policy only covers cookies usage by the Wikidot.com Services and not by any advertising partners.
 
-Wikidot.com User accounts are protected by member-created passwords
+Wikidot.com User accounts are protected by user-created passwords.
 
-Wherever required we use cryptographic and hashing algorithms to avoid _plain-text_ transport of personal information. In particular the login form data (email + password), all registration data, password-recovery forms and a few other that involve personal data use cryptographic tunnels.
+Wherever required we use security measures to avoid _plain-text_ transport of personal information between the browser and Wikidot.com servers. In particular the login form data (email + password), all registration data, password-recovery forms and a few other that involve personal data use secure transport.
 
-Since none of the Wikidot-hosted Sites use _https_ protocol, a JavaScript RSA implementation is used with the public/private key infrastructure.
+To ensure secure data transfer, pages with sensitive information use the _HTTPS_ protocol with at least 128-bit SSL certificates when communicating with a web browser. Areas protected by SSL include: My Account panel, login pages, create account pages, upgrade pages, AdSense panel and all user-created Sites with SSL enabled.
 
-The data stored on our database servers is kept with a reasonable protection against unauthorized access and accessible only by minimal number of employees. We however can not guarantee protection against unauthorized use, hardware or software failure and other factors that may compromise the security of User information.
+Whenever Wikidot.com servers need to communicate sensitive information to other third party servers, such as AdSense servers, direct card payment gateways or other payment services, secure SSL transport is used.
 
-No User information is shared or disclosed as described above except when it is required by law.
+Wikidot.com uses various techniques against unauthorized access to the information that result from hacking activity such as cross server scripting (XSS), session stealing, sniffing and many others.
+
+The data stored on our database servers is kept with a reasonable protection against unauthorized access and accessible only by minimal number of employees. We however can not guarantee protection against unauthorized use, hardware or software failure and other factors that may compromise the security of User information that is beyond our control.
+
+In particular we also take no responsibility for unauthorized access that results from Users sharing their password with others or not taking sufficient security measures when using public computers.
+
+No User information is shared or disclosed as described above without user acceptance except when it is required by law. Some information can be shared with other third party services that provide level of integration with Wikidot, but every such information transfer is prior clearly explained to the User and requires User's acceptance.
 
 Wikidot.com reserves the right to transfer personal information in case of acquisition of the Wikidot.com Services or any part of it by another company.
 
