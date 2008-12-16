@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youmail.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611224743id_/http%3A//www.youmail.com/home/corp/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youmail.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032430id_/http%3A//youmail.com/home/corp/privacy.do) for the most accurate reproduction.*
 
-# YouMail Privacy Statement
+# YouMail Terms Of Use
 
 Your privacy is important to YouMail. YouMail is committed to respecting your privacy and the confidentiality of your personal data and communications content. This Privacy Statement is designed to assist you in understanding how YouMail uses and safeguards the information you provide. 
 
