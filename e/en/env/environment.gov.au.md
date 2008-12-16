@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610004056id_/http%3A//www.environment.gov.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013925id_/http%3A//www.environment.gov.au/about/privacy.html) for the most accurate reproduction.*
 
-# Department of the Environment, Water, Heritage and the Arts - privacy statement
+# Department of the Environment, Water, Heritage and the Arts - Privacy Statement
 
 ## Scope
 
@@ -57,4 +57,9 @@ privacy@deh.gov.au
 
 ## Full privacy notice
 
-For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20080610004056id_/http%3A//www.environment.gov.au/about/privacyfull.html).
+For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20081216013925id_/http%3A//www.environment.gov.au/about/privacyfull.html).
+
+## Key
+
+   Links to another web site  
+  Opens a pop-up window 
