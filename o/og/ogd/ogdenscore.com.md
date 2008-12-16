@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ogdenscore.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201073651id_/http%3A//www.score.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogdenscore.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022318id_/http%3A//www.score.org/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | SCORE
 
-|  |  | Privacy Policy  
+|  |  |   
 ---  
 This privacy statement describes what we do with the information that we receive about you when you visit our Web site. The information that we receive about you depends on what you do when you visit our Web site.  
 If you visit our site to browse, or to read or download information (ALL VISITORS):  
