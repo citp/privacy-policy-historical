@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umd.edu privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517090100id_/http%3A//www.nethics.umd.edu/dive-in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umd.edu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015936id_/http%3A//www.nethics.umd.edu/dive-in/privacy.html) for the most accurate reproduction.*
 
 # Project Nethics - OIT
 
@@ -6,7 +6,7 @@
 
 | 
 
-This statement pertains exclusively to the collection of personal information on official university web sites. Official university web sites  use the domain names "umd.edu" and "maryland.edu" and are controlled, operated, and maintained by university personnel in connection with university business. All uses of university computing resources, however, are subject to the _Policy on the Acceptable Use of university Information Technology Resources_ available at [http://www.nethics.umd.edu/aup](https://web.archive.org/web/20080517090100id_/http%3A//www.nethics.umd.edu/aup/index.html).   
+This statement pertains exclusively to the collection of personal information on official university web sites. Official university web sites  use the domain names "umd.edu" and "maryland.edu" and are controlled, operated, and maintained by university personnel in connection with university business. All uses of university computing resources, however, are subject to the _Policy on the Acceptable Use of University Information Technology Resources_ available at [http://www.nethics.umd.edu/aup](https://web.archive.org/web/20081216015936id_/http%3A//www.nethics.umd.edu/aup/index.html).   
 
 
 ## Collection of Personal Information
@@ -31,7 +31,7 @@ Some university web pages may utilize **"cookies"** to better serve you with mor
 
 ## Data Security 
 
-The university will take appropriate steps to protect the information you share with us from unauthorized access or disclosure. The university strives to implement security measures that protect the loss, misuse and alteration of the information under our control. The university policy on the _Security of Administrative Data_ is available at [http://www.umd.edu/PRES/policies/x600a.html ](http://www.umd.edu/PRES/policies/x600a.html)
+The university will take appropriate steps to protect the information you share with us from unauthorized access or disclosure. The university strives to implement security measures that protect the loss, misuse and alteration of the information under our control. The university policy on the _Security of Administrative Data_ is available at <http://www.president.umd.edu/policies/x600a.html>
 
 Not all transmissions to and from official university web sites are secure: the web site may not encrypt or decrypt data sent to or from the web site. In addition, e-mails that you send to a university address may be subject to interception. If your communication includes personal information that you do not wish to provide electronically, contact the university by postal mail or telephone. 
 
