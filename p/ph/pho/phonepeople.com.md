@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the phonepeople.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602034054id_/http%3A//www.phonepeople.com/%28S%28aj1wou55jlje5555vtdoiw55%29%29/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonepeople.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032322id_/http%3A//www.phonepeople.com/privacy.aspx) for the most accurate reproduction.*
 
 # PhonePeople.com - Search and Find 800 Numbers
-
-Thousands and thousands of customers can't be wrong. We are not a reseller. We operate our own equipment. Call us at 1-800-510-5500 for assistance.
-
-| 
 
 This policy governs transactions on this website, however, additional covenants and conditions may exist in the case of orders for which a separate agreement exists between the parties.
 
