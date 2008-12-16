@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucasarts.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607002937id_/http%3A//www.lucasarts.com/legal/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucasarts.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011751id_/http%3A//www.lucasarts.com/legal/privacy/index.html) for the most accurate reproduction.*
 
 # LucasArts.com | Privacy Policy
 
@@ -220,7 +220,6 @@ http://www.esrb.org/privacy/contact.jsp
 or by regular mail at:  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
-212-759-0700  
 [privacy@esrb.org](mailto:privacy@esrb.org)
 
 The TRUSTe Watchdog Dispute Resolution Program can be contacted directly at:
