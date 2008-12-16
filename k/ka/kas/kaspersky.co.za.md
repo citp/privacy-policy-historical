@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kaspersky.co.za privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014023738id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky.co.za privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216063411id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
 
-# Kaspersky Lab: Antivirus software
+# Privacy
 
 ## Privacy policy
 
