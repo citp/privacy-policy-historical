@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610112409id_/http%3A//www.usp.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160828id_/http%3A//www.usp.org/privacy.html) for the most accurate reproduction.*
 
 # USP Web site Privacy Policy
 
@@ -11,7 +11,7 @@
   * [Reference Standards](http://www.usp.org/referenceStandards/)
   * [USP Verified](http://www.usp.org/USPVerified/)
   * [Pharmacopeial Education](http://www.usp.org/education/)
-  * [Healthcare Quality and Information (HQI)](http://www.usp.org/hqi/)
+  * [Healthcare Quality and Information](http://www.usp.org/hqi/)
   * [USP in Developing Countries](http://www.usp.org/worldwide/)
   * [Meetings](http://www.usp.org/meetings/)
   * [Products](http://www.usp.org/products/)
