@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leapfile.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514220310id_/http%3A//www1.leapfile.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leapfile.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045544id_/http%3A//www.leapfile.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | LeapFILE
 
