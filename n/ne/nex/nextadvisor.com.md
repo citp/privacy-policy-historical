@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextadvisor.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514191102id_/http%3A//www.nextadvisor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextadvisor.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041008id_/http%3A//www.nextadvisor.com/privacy.php) for the most accurate reproduction.*
 
 # Read Reviews and Compare Services at NextAdvisor.com
 
@@ -13,6 +13,3 @@ We may collect IP addresses. IP addresses do not contain any personally identifi
 We use cookies to make the site more easy to navigate as well as to understand what links our users like to click on and what sites they came from. Our cookies do not contain any personally identifiable information. 
 
 Please use our [contact form](http://www.nextadvisor.com/contactus.php) if you have any questions regarding our Privacy Policy and Terms of Use.
-
-  
-
