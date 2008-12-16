@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609094529id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151533id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
 
 # TRIPinfo.com - Privacy Policy
 
@@ -66,7 +66,5 @@ TRIPmedia GROUP AFFILIATED COMPANIES:
 
 EMAIL US WITH ANY QUESTIONS OR CONCERNS ABOUT OUR PRIVACY POLICY:   
 [info@tripmediagroup.com](mailto:%20info@tripmediagroup.com)
-
-* * *
 
 | 
