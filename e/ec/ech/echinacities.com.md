@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the echinacities.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513062054id_/http%3A//echinacities.com/main/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echinacities.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020517id_/http%3A//www.echinacities.com/main/footer/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
 |   |   
 This Privacy policy deals with personally identifiable information that echinacities.com may collect on this site. The Policy does not apply to other entities that echinacities.com do not own or control or persons that are not our employees, agents or otherwise within our control including, but not limited to, the internet service providers that provides users' access to the site.
