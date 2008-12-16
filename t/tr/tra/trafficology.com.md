@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficology.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513112508id_/http%3A//www.nitromarketing.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficology.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011132id_/http%3A//www.nitromarketing.com/privacypolicy.html) for the most accurate reproduction.*
 
 # NitroMarketing.com
 
@@ -74,7 +74,7 @@ Cookies can be used to electronically gather information about you.  Again, it 
 
 ** HOW INFORMATION MAY BE USED**
 
-The use of information as described below may or may not be how information that is collected is customarily used by this site.  While actual use of any information collected may be used quite conservatively, you must assume that it is not.  You must assume that information collected is shared with other persons or entities for commercial purposes.  While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website.  This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information.  This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with.
+The use of information as described below may or may not be how information that is collected is customarily used by this site.  This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information.  This information may be used for general commercial solicitation by this website.
 
 ** INFORMATION THAT IS NOT SHARED**
 
@@ -86,7 +86,7 @@ Visitors, subscribers, members, or customers who use any site provided bulletin 
 
 **EMAIL**
 
-By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations.  However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
+By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us.  However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
 
 ** DATA SECURITY**
 
@@ -105,7 +105,7 @@ This Privacy Policy is dynamic.  It will continually change.  You may not assu
 
 ** LATEST UPDATE**
 
-This Privacy Policy was last updated on:  July 1, 2004
+This Privacy Policy was last updated on:  July 9, 2008
 
 ** COPYRIGHT**
 
@@ -131,6 +131,6 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 
 ** COPYRIGHT AND LICENSE **
 
-This "Privacy Policy" is copyrighted 2003 - 2004 by  [ http://www.internet-law-compliance.com ](http://www.internet-law-compliance.com%20%20/) Mining Gold Corporation and IP Management, LLC and is fully licensed for use by this website.  If you wish to lawfully use this Privacy Policy on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or this website.
+This "Privacy Policy" is copyrighted 2003 - 2008 by  [ http://www.internet-law-compliance.com ](http://www.internet-law-compliance.com%20%20/) Mining Gold Corporation and IP Management, LLC and is fully licensed for use by this website.  If you wish to lawfully use this Privacy Policy on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or this website.
 
 | 
