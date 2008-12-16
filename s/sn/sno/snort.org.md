@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snort.org privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615142121id_/http%3A//www.snort.org/about_snort/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snort.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152647id_/http%3A//www.snort.org/about_snort/legal/privacy.html) for the most accurate reproduction.*
 
 # Snort - the de facto standard for intrusion detection/prevention
 
