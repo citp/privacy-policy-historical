@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630042648id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021536id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -83,25 +83,7 @@ We provide registered Stylus Studio® users the opportunity to opt-out of receiv
 
 If you would like to correct and/or update your information, please [contact us](https://web.archive.org/xml_contact.html "Contact Stylus Studio").
 
-[Prev: **"XML Industry News"**](https://web.archive.org/xml_industry_news.html "XML Industry News") [Next: **"Stylus Studio 2007 EULA"**](https://web.archive.org/eula.html "Stylus Studio 2007 End User Product License Agreement")
-
-### [XMLSCHEMA-DEV Blog](http://www.stylusstudio.com/blogs/schemadev/)
-
-XML Schema-DEV is an active community for XML Schema-releated development - join the discussion on XML Schema standards, tools, implementations and more. Bookmark this RSS or ATOM feed today!
-
-### [XML Code Folding](http://www.stylusstudio.com/xml_code_folding.html)
-
-Stylus Studio's XML Editor features XML code folding, a powerful and intuitive way to maximize limited screen real-estate and help make sense of large XML files.
-
-### [DTD Parser](http://www.stylusstudio.com/dtd/dtd_parser.html)
-
-Learn about the powerful DTD parser technologies that are supported in Stylus Studio's DTD tools, including DOM and SAX based DTD parsing components.
-
-### [EDIFACT Standards Available Across All Versions](http://www.stylusstudio.com/edi/EDIFACT_standard.html)
-
-The complete EDIFACT Standards Grid, listing all EDIFACT versions across the top, and the corresponding messages down the left side.
-
-#### [Stylus Most Wanted](https://web.archive.org/advertise.html "Advertise with Stylus Studio")
+[Prev: **"Contact Stylus Studio"**](https://web.archive.org/xml_contact.html "Contact Stylus Studio") [Next: **"Stylus Studio EULA"**](https://web.archive.org/eula.html "Stylus Studio End User Product License Agreement")
 
 |   
 ---|---|---
