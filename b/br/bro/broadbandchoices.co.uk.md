@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615161445id_/http%3A//www.broadbandchoices.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216034001id_/http%3A//www.broadbandchoices.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Broadband Choices Privacy Policy
 
@@ -7,7 +7,7 @@
 
 ## General
 
-Broadband Choices.co.uk and ConsumerChoices are trading names of Decision Technologies Limited (Company Number 05341159) whose registered address is Unit 4.19 United House, North Road, London N7 9DP. Decision Technologies Limited is the data controller in relation to this website and your personal data. If you have any queries relating to our use of your personal data or any other data protection or privacy policy issues then please contact our Data Protection Officer at dpo@consumerchoices.co.uk or by writing to the Data Protection Officer at the registered address.
+Broadband Choices.co.uk and ConsumerChoices are trading names of Decision Technologies Limited (Company Number 05341159) whose registered address is Unit 4.19 United House, North Road, London N7 9DP. Decision Technologies Limited is the data controller in relation to this website and your personal data. If you have any queries relating to our use of your personal data or any other data protection or privacy policy issues then please contact our Data Protection Officer at [dpo@consumerchoices.co.uk](mailto:dpo@consumerchoices.co.uk "dpo@consumerchoices.co.uk") or by writing to the Data Protection Officer at the registered address.
 
 Please read the Privacy Policy carefully as once you use our website you will be regarded as having read and accepted its terms.
 
@@ -15,7 +15,7 @@ We take your privacy and the security of your personal information very seriousl
 
 ## The information we collect
 
-We may collect personal information about you which you give to us when you use our website, for example, to receive our email newsletter, when registering with BoradbandChoices.co.uk, when carrying out a broadband availability check and so on.
+We may collect personal information about you which you give to us when you use our website, for example, to receive our email newsletter, when registering with BroadbandChoices.co.uk, when carrying out a broadband availability check and so on.
 
 The provision of some services may also require us to store some personal details. We will periodically review your personal information to ensure that we do not keep it for longer than is necessary.
 
@@ -44,7 +44,7 @@ If you carry out a broadband availability check on our website, we will only use
 
 ## Registering with BroadbandChoices.co.uk
 
-If you register BroadbandChoices.co.uk then we will keep your details solely for the purpose of sending you the information you have requested. You can easily unsubscribe at any time, either through your personal log in; by clicking the “unsubscribe” link at the bottom of any electronic correspondence; or by emailing us at support@broadbandchoices.co.uk.
+If you register BroadbandChoices.co.uk then we will keep your details solely for the purpose of sending you the information you have requested. You can easily unsubscribe at any time, either through your personal log in; by clicking the “unsubscribe” link at the bottom of any electronic correspondence; or by emailing us at [support@broadbandchoices.co.uk](mailto:support@broadbandchoices.co.uk "support@broadbandchoices.co.uk").
 
 ## Improving our Service
 
@@ -52,7 +52,7 @@ So that we can continually improve our services, we may ask you for feedback on 
 
 ## Ask the Expert
 
-We may republish extracts of emails sent to ourexpert@broadbandchoices.co.uk in articles and features on our website. We will not disclose any user's email address or any level of personal information that would enable any third party to contact or identify a particular individual (for example a full name or area of residency). If you do not want us to republish any extracts from correspondence with Ask the Expert then this should be indicated in the body text of the email and we will fully comply with your request.
+We may republish extracts of emails sent to [ourexpert@broadbandchoices.co.uk](mailto:ourexpert@broadbandchoices.co.uk "ourexpert@broadbandchoices.co.uk") in articles and features on our website. We will not disclose any user's email address or any level of personal information that would enable any third party to contact or identify a particular individual (for example a full name or area of residency). If you do not want us to republish any extracts from correspondence with Ask the Expert then this should be indicated in the body text of the email and we will fully comply with your request.
 
 ## Third party providers and personal information policies
 
@@ -72,6 +72,6 @@ Most web browsers automatically accept cookies, but normally you can alter your 
 
 ## Your rights
 
-You have certain rights under the Data Protection Act 1998 and you can contact us to ask whether we are keeping personal data about you, by sending an email to dpo@consumerchoices.co.uk or by writing to the Data Protection Officer at Decision Technologies Limited, Unit 4.19 United House, North Road, London N7 9DP.
+You have certain rights under the Data Protection Act 1998 and you can contact us to ask whether we are keeping personal data about you, by sending an email to [dpo@consumerchoices.co.uk](mailto:dpo@consumerchoices.co.uk "dpo@consumerchoices.co.uk") or by writing to the Data Protection Officer at Decision Technologies Limited, Unit 4.19 United House, North Road, London N7 9DP.
 
 If you ask us to delete, correct or amend your personal data we will do so.
