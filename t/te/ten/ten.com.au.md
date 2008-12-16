@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ten.com.au privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410225325id_/http%3A//ten.com.au/ten/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ten.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152536id_/http%3A//ten.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Privacy - Seriously TEN
 
@@ -49,7 +49,7 @@ We take reasonable steps to ensure the information we collect, use and disclose 
 
 We maintain records of personal information we have collected. You can gain access to the personal information held by Network Ten about you in two ways.  If you have registered with Network Ten through the Web Site, most information held by Network Ten about you can be viewed and changed directly by you by logging into the Web Site using your username and password and reviewing your preferences.
 
-Except in some limited circumstances such as where the information is commercially sensitive, any other information held by Network Ten about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at [Contact Us](https://web.archive.org/ten/contact_us.html)
+Except in some limited circumstances such as where the information is commercially sensitive, any other information held by Network Ten about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at [Contact Us](https://web.archive.org/web/20081216152536id_/http%3A//ten.com.au/contact_us.html)
 
 You can submit a request for access to your personal information to the Network Privacy Officer. We will process a request for access as quickly as possible. We reserve the right to impose a reasonable charge for processing and collating personal information, where appropriate and permitted under the Privacy Act 1988.   If you inform us that the information we hold is incorrect we will, if appropriate, amend those records. 
 
@@ -60,7 +60,7 @@ You can submit a request for access to your personal information to the Network 
 
 If you are concerned that there may have been some inappropriate use or disclosure or any other breach relating to your personal information, we want to know about it. The contact person for complaints is the Network Privacy Officer. All complaints will be investigated.
 
-Details about how to lodge a complaint can be found at [Contact Us](https://web.archive.org/ten/contact_us.html)
+Details about how to lodge a complaint can be found at [Contact Us](https://web.archive.org/web/20081216152536id_/http%3A//ten.com.au/contact_us.html)
 
   
 
@@ -74,6 +74,6 @@ Network Ten reserves the right to change its privacy policy at any time, and you
 
 #### Have We Answered Your Questions About Privacy?
 
-If you have other questions regarding our information handling processes, please [Contact Us](https://web.archive.org/ten/contact_us.html).
+If you have other questions regarding our information handling processes, please [Contact Us](https://web.archive.org/web/20081216152536id_/http%3A//ten.com.au/contact_us.html).
 
 This page last updated: 9 February 2007
