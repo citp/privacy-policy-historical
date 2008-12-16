@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzfeed.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404222507id_/http%3A//www.buzzfeed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzfeed.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015440id_/http%3A//www.buzzfeed.com/about/privacy) for the most accurate reproduction.*
 
 # BuzzFeed Privacy Policy
 
@@ -6,9 +6,9 @@ At BuzzFeed.com we appreciate your readership and value your personal privacy. I
 
 ## When does BuzzFeed.com collect my personal information?
 
-You may provide personal information to BuzzFeed.com in one of three ways: (1) by sharing your e-mail when you provide tips to our editor or communicate with our employees, (2) by sharing your email or IM when you using our content sharing features, and (3) by sharing contact information as a member of BuzzFeed's Pool Party. We may also ask for other information at other times but at no time will you be required to share any personal information to gain complete access to our main public site.
+You may provide personal information to BuzzFeed.com in one of three ways: (1) by sharing your e-mail when you provide tips to our editor or communicate with our employees, (2) by sharing your email or IM when you using our content sharing features, and (3) by sharing your e-mail and other information when registering with BuzzFeed. We may also ask for other information at other times but at no time will you be required to share any personal information to gain access to our main public site.
 
-In addition to personal information—such as name, street and e-mail addresses, and telephone numbers—we may also collect information that is in no way personally identifiable. This may include the operating system you are working on, the internet browser you are using, the domain name of your internet service provider, and the web sites you visit directly before and after your visit to BuzzFeed.com.
+In addition to personal information—such as name, street, e-mail addresses, and telephone numbers—we may also collect information that is in no way personally identifiable. This may include the operating system you are working on, the internet browser you are using, the domain name of your internet service provider, and the web sites you visit directly before and after your visit to BuzzFeed.com.
 
 ## How does BuzzFeed.com use my personal information?
 
