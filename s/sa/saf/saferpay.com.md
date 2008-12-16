@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saferpay.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509190912id_/http%3A//www.saferpay.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saferpay.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216105330id_/http%3A//www.saferpay.com/policy.asp) for the most accurate reproduction.*
 
 # Saferpay - Privacy Policy
 
@@ -68,4 +68,4 @@ CH - 8021 Zürich
 
 Tel: +41 (0)848 66 44 44   
 Fax: +41 (0)848 66 44 45  
-E-mail: [info@saferpay.com](https://web.archive.org/web/20080509190912id_/http%3A//www.saferpay.com/feedback.asp?recipient=info_ch)
+E-mail: [info@saferpay.com](https://web.archive.org/web/20081216105330id_/http%3A//www.saferpay.com/feedback.asp?recipient=info_ch)
