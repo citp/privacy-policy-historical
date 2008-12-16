@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livesoccertv.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609142329id_/http%3A//www.livesoccertv.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesoccertv.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161934id_/http%3A//www.livesoccertv.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Live Soccer TV
 
@@ -13,5 +13,3 @@
 
 **Third Parties and Unaffiliated Sites  
 **LiveSoccerTV.com uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. LiveSoccerTV.com may also link to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users.
-
-[](http://www.livesoccertv.com/adserver/www/delivery/ck.php?oaparams=2__bannerid=234__zoneid=29__cb=6b600e1ed8__maxdest=http://scripts.affiliatefuture.com/AFClick.asp?affiliateID=37612&merchantID=739&programmeID=3052&mediaID=55577&tracking=&url=)
