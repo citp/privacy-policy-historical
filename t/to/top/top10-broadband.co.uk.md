@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10-broadband.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609003348id_/http%3A//www.top10-broadband.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10-broadband.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216040919id_/http%3A//www.top10-broadband.co.uk/info/privacy_policy) for the most accurate reproduction.*
 
 # Top 10 Broadband » Privacy Policy of Top 10 Broadband
 
@@ -25,5 +25,9 @@ Due to the rapidly evolving technologies and capabilities on the internet our Pr
 ## Security of Personal Data
 
 Personal data shall be processed using the legally required degree of protection, in accordance with Royal Decree 994/1999, dated 11 June 1999, and the obligatory security measures will be taken to avoid improper use, modification, loss, processing or unauthorised access and theft by third parties, which could use this information for fraudulent purposes or intentions other than those for which the information has been provided for by the user. However due to data security constantly developing, we recommend that any information/communication you provide is considered non-confidential, and agree that top 10 Broadband is not held responsible or liable for information intercepted and used by an uninvited recipient. We will not sell or give your personally identifiable information to others. You may request that we cease to use any information that you have provided at anytime. However, we may release personal information in response to all court orders and lawful requests from governmental authorities. 
+
+## Email policy (when any email is submitted via our forms) 
+
+Top 10 Broadband (owned by Formula Digital Ltd.) will keep you updated with our own Top 10 offers and related information via email. We will never sell your details to 3rd parties and will not send you 'spam' emails. You will have the option to unsubscribe from our email lists at any time. 
 
 If you have comments, questions or concerns, please [click here](https://web.archive.org/info/contact/) to contact us. or call: 020 3170 8040 or by post to: Formula Digital Ltd., 131-151 Great Titchfield Street, London W1W 5BB.
