@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylefeeder.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626184040id_/http%3A//www.stylefeeder.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylefeeder.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160254id_/http%3A//www.stylefeeder.com/info/privacy.html) for the most accurate reproduction.*
 
 # Information - StyleFeeder.com
 
@@ -87,6 +87,6 @@ We reserve the right to modify this privacy policy at any time. If we make mater
 If after reviewing this privacy policy, you should have any questions or concerns about it, please send an email, in English, to [info@stylefeeder.com](mailto:info@stylefeeder.com) or write to us at: 
 
 StyleFeeder  
-614 Massachusetts Avenue, 4th Floor  
+678 Massachusetts Avenue, 7th Floor  
 Cambridge MA 02139  
 USA.
