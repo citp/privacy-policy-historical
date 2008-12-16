@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kabillion.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529041654id_/http%3A//www.kabillion.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabillion.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021148id_/http%3A//www.kabillion.com/legal/privacy) for the most accurate reproduction.*
 
-# Kabillion.com - Kabillion.com Privacy Policy
+# Kabillion.com - Kabillion.com Privacy Policy - Free Games, Online Cartoons, Kids Contests, Prizes, Spiderman and Tranformers
 
 Kabillion - The Interactive Network has created Kabillion.com as the online location where fans of the animated television series Kabillion can learn more about their favorite program and characters. Kabillion.com urges both kids and their parents to use and enjoy our website and we are committed to complying fully with the Children's Online Privacy Protection Act of 1998. Our information collection practices are described below and we strongly recommend that children who want to enter any information on any website to check with their parents first; we think parents should discuss with their children appropriate safeguards and restrictions concerning the disclosure online to anyone they don't know of any kind of personal information.
 
@@ -35,7 +35,7 @@ Log data is collected on web servers both within Kabillion’ control and under 
 
  **Parental Access**
 
-Kabillion wants to help parents make sure that their children have a safe and fun experience online. That's why Kabillion established a means for parents to review identifiable information collected about their child and to communicate directly with us have any such information deleted or to request that we cease collecting or using their child's information. [You can link to the form from here](https://web.archive.org/web/20080529041654id_/http%3A//signup/consent.en.php). Kabillion takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian.
+Kabillion wants to help parents make sure that their children have a safe and fun experience online. That's why Kabillion established a means for parents to review identifiable information collected about their child and to communicate directly with us have any such information deleted or to request that we cease collecting or using their child's information. [You can link to the form from here](https://web.archive.org/web/20081216021148id_/http%3A//signup/consent.en.php). Kabillion takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian.
 
  **Security**
 
@@ -65,4 +65,4 @@ Or email us at:
 The Kabillion.com website is primarily intended for domestic viewers and is consequently directed towards residents of the United States.  
 This privacy policy is effective as of May 11, 2005.
 
-[Submission Release](https://web.archive.org/web/20080529041654id_/http%3A//www.kabillion.com/forms/submission_release_form.php)
+[Submission Release](https://web.archive.org/web/20081216021148id_/http%3A//www.kabillion.com/forms/submission_release_form.php)
