@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtremeprofits.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619154814id_/http%3A//www.xtremeprofits.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremeprofits.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035351id_/http%3A//www.xtremeprofits.com/privacy.htm) for the most accurate reproduction.*
 
 # Xtreme Profits All-Inclusive Membership
 
