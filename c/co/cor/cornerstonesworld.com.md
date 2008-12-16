@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cornerstonesworld.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212090848id_/http%3A//www.cornerstonesworld.com%3Fs%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornerstonesworld.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013107id_/http%3A//www.cornerstonesworld.com%3Fs%3D9) for the most accurate reproduction.*
 
-# Privacy Statement | Bedrijven- & hotelgids Europa & VS
+# Index Privacy Statement | Bedrijven- & hotelgids Europa & VS
 
 At CornerstonesWorld.com, we are committed to protecting your right to privacy. We have taken countless measures to block and disable various methods Internet fraud companies use. For instance **all financial transactions** on this site (which contain most of your personal details) pass through the SSL (Secure Sockets Layer) connection that encrypts your data on its way through the Internet between you (our site) and the bank – even if it were to be intercepted on the way, it would be useless to any unscrupulous character. The SSL protocol maintains the security and integrity of the transmission channel by using encryption, authentication and message authentication codes using public and private key combinations, read more here: [www.pcurtis.com/essl.htm](http://www.pcurtis.com/essl.htm). 
 
