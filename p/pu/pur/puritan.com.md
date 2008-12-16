@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puritan.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615171518id_/http%3A//www.puritan.com/house/PrivacyPolicy.asp%3Fxs%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puritan.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015001id_/http%3A//www.puritan.com/house/privacypolicy.asp) for the most accurate reproduction.*
 
 # Puritan's Pride Privacy Policy
 
@@ -26,9 +26,9 @@ To serve you better, we may combine information you give us online, in stores, t
 We Provide You Choices  
 We want to tailor our communication with you to your preferences.  
 If you prefer not to hear from our marketing partners, please call 1-800-527-3000.  
-If you would like to subscribe to receive marketing offers or solicitations from Puritan's Pride via email, please [Click here ](https://web.archive.org/house/newsletter.asp?xs=).  
+If you would like to subscribe to receive marketing offers or solicitations from Puritan's Pride via email, please [Click here ](https://web.archive.org/house/newsletter.asp).  
 If you prefer not to receive marketing offers or solicitations from Puritan's Pride via direct mail, please call 1-800-527-3000   
-If you prefer not to receive marketing offers or solicitations from Puritan's Pride via email, please [Click here](https://web.archive.org/house/newsletter.asp?xs=) or call 1-800-527-3000.  
+If you prefer not to receive marketing offers or solicitations from Puritan's Pride via email, please [Click here](https://web.archive.org/house/newsletter.asp) or call 1-800-527-3000.  
 Please note that sometimes these requests may take up to 90 days to be effective, particularly if we are removing your name from mailing lists. We reserve the right to contact you concerning any purchases you have made with us or in regard to any services or promotions of which you are already taking advantage.
 
 As mentioned above, if you choose not to provide us with certain information, you may not be able to access certain services or promotions.
