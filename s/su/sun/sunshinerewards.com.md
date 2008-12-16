@@ -1,9 +1,37 @@
-> *The following text is extracted and transformed from the sunshinerewards.com privacy policy that was archived on 2008-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080126150900id_/http%3A//www.sunshinerewards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunshinerewards.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153116id_/http%3A//www.sunshinerewards.com/privacy.php) for the most accurate reproduction.*
 
 # Earn Rewards for Reading Email, Shopping, and Surfing at Sunshine Rewards
 
-|  |    
-| Privacy  
+[](http://www.addthis.com/bookmark.php)
+
+[ ](http://www.sunshinerewards.com/holidayshopping.php)  
+[Deck the Halls with Sunshine Savings](http://www.sunshinerewards.com/holidayshopping.php)
+
+Hot Shopping Links:
+
+[ Free Shipping Offers](http://www.sunshinerewards.com/freeshipping.php)  
+[ Cash Back on Gift Cards](http://www.sunshinerewards.com/category/gift-certificates)  
+ 
+
+* * *
+
+[Sunshine Rewards Videoblog](http://www.sunshinerewards.com/videoblog)
+
+[Free Shipping on Christmas Gifts at Sunshine Rewards](http://www.sunshinerewards.com/videoblog/2008/12/14/free-shipping-on-christmas-gifts-at-sunshine-rewards/)
+
+[Colonial Candle at Sunshine Rewards](http://www.sunshinerewards.com/videoblog/2008/12/09/colonial-candle-at-sunshine-rewards/)
+
+* * *
+
+ Featured Stores
+
+[ ](http://sunshinerewards.com/shopping/Borders/)
+
+ Featured Offers
+
+[ ](http://www.sunshinerewards.com/offers.php?oid=358)
+
+|  | Privacy  
 ---  
 _**Information Collected**_  
 Sunshine Rewards has created this privacy statement in order to demonstrate our firm commitment to privacy. Sunshine Rewards uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. Sunshine Rewards uses cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. Sunshine Rewards's registration form requires users to give us contact information (like their name, address, and email address). Sunshine Rewards uses member contact information from the registration form to send the member information about our company and email advertisements. Members may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We collect personal offline information for the sole purpose of paying members for earnings from our program. This site contains links to other sites. Sunshine Rewards is not responsible for the privacy practices or the content of such Web sites. Sunshine Rewards uses a signup form for new members and advertisers. We collect visitor's contact information (like their email address, address, and name). The member's contact information is used to get in touch with the member when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. _**Public Forums**_  
