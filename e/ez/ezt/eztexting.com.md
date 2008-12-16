@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eztexting.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619143235id_/http%3A//www.eztexting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eztexting.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216114035id_/http%3A//www.eztexting.com/privacy.html) for the most accurate reproduction.*
 
 # Ez Texting Privacy Policy
 
-Thank you for visiting our site at [www.eztexting.com](http://www.eztexting.com/) (" _Website_ ").  Use and access of this Website is subject to the terms and conditions as set out in our [Terms of Service](https://web.archive.org/web/20080619143235id_/http%3A//www.eztexting.com/tou.html) as well as our Privacy Policy set forth below.
+Thank you for visiting our site at [www.eztexting.com](http://www.eztexting.com/) (" _Website_ ").  Use and access of this Website is subject to the terms and conditions as set out in our [Terms of Service](https://web.archive.org/web/20081216114035id_/http%3A//www.eztexting.com/tou.html) as well as our Privacy Policy set forth below.
 
 **1\. General.**  
 Your privacy is important to us and we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personal information you submit at this Website. 
@@ -46,10 +46,10 @@ Ez Texting is not responsible for the content of linked third-party sites and do
 **7\. Data Security**  
 The importance of security for all personally-identifiable information associated with visitors to the Website is of utmost concern to Ez Texting, and we have implemented, and periodically review, certain physical, electronic, and managerial procedures to help prevent unauthorized access and maintain data security. Unfortunately, due to the open nature of Internet communications, no data transmission over the Internet can be guaranteed to be secure, and thus we cannot guarantee that communications between you and Ez Texting will be free from unauthorized access by third parties. Visitors of the Website and Customers use the site at their own risk.
 
-**7\. Your Acceptance of These Terms**  
+**8\. Your Acceptance of These Terms**  
 By accessing the Website, you signify your assent to the Ez Texting Privacy Policy. If you do not agree to this Policy, please do not access the Website. You should visit this page periodically, as we may, from time to time, update this Privacy Policy and such changes shall be effectively immediately upon posting on the Website and without further notice to you.  Your continued access to the Website following the posting of changes to this Privacy Policy shall be deemed an acceptance of such changes by you.  Ez Texting will, however, use personally-identifiable information only in accordance with the version of the Privacy Policy under which the information was collected. 
 
 **Questions/Concerns?**   
-If you have any questions, comments, or concerns regarding our Privacy Policy, please contact us at: [info@Eztexting.com](mailto:info@clubtexting.com). 
+If you have any questions, comments, or concerns regarding our Privacy Policy, please [contact us](http://www.eztexting.com/ticketing-contact.php). 
 
 Last updated December 2007. 
