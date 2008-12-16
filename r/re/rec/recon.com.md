@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516064855id_/http%3A//www.recon.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013301id_/http%3A//www.recon.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy.
 
