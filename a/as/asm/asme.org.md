@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531073820id_/http%3A//www.asme.org/terms/Privacy_Security_Statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216205805id_/http%3A//www.asme.org/terms/Privacy_Security_Statement.cfm) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Terms
 
@@ -12,19 +12,40 @@ The American Society of Mechanical Engineers has established this web site (“O
 
 **Collection of Anonymous Information**
 
-Our servers automatically log certain information that ASME uses for statistical analysis of web site traffic.  The information is stored as log files on our server.  The log files are regularly collected and analyzed by software to produce visitor trend reports.  The information we collect includes:
+ASME uses two methods for collecting and reporting statistical information about Web Traffic to our site:
 
-  * A user’s city and state 
-  * The length of time a user remains on Our Site 
-  * A user’s entry and exits points on Our Site 
-  * The referring site that sent a user to Our Site 
-  * Web pages viewed 
-  * Actions taken during a visit on a particular web page (e.g., links or banner ads clicked) 
-  * A user’s browser type, computer platform and Internet connection speed
+  * page tagging 
+  * log file analysis
 
 
 
-This information is used to determine:
+Using the page tagging method, ASME collects and sends data about our visitors to a third-party service provider. This is accomplished using JavaScript that can be found on most ASME web pages. The JavaScript requests a 1x1 pixel transparent image file located on our service providers' servers. This image file request is "tagged" with variable information containing data about Web traffic activities, such as; page requests, the addition of an item to our shopping cart, clicking on links, and other traffic generating events.  An anonymous "visitor identification cookie" is set in your browser so that our service can more accurately differentiate between unique visitors to ASME sites.
+
+Page tagging image requests also contain the following information: 
+
+  * IP address 
+  * Site name 
+  * date/time 
+  * screen resolution 
+  * page with query string 
+  * referrer 
+  * user agent 
+  * cookie
+
+
+
+In addition to the page tagging method, our servers also automatically log certain information that ASME uses for statistical analysis of web site traffic.  With the log file analysis method, ASME sends standard web server log data to our third-party service provider for traffic analysis.  Similar information to that collected with page tag image requests is analyzed:
+
+  * IP address 
+  * date/time 
+  * page with query string 
+  * referrer 
+  * user agent 
+  * cookie
+
+
+
+This information is then used to determine:
 
   * Traffic patterns 
   * Average visitor session length 
@@ -36,12 +57,11 @@ This information is used to determine:
 
 
 
-  
-Our server logs do not collect personally identifiable information about individual users, such as names, addresses, email address, occupation, etc.  As described in the next section, ASME does collect this type of data electronically but only through forms, surveys or event registrations on Our Sites.  ASME also collects anonymous information through cookies and clear GIFs or other graphical files placed on web pages of Our Site.  ASME does not link anonymous information it collects through Our Site to individual users’ personally identifiable information.
+Neither our third-party service nor our server logs collect personally identifiable information about individual users, such as names, addresses, email address, occupation, etc.  As described in the next section, ASME does collect this type of data electronically but only through forms, surveys or event registrations on Our Sites.  ASME also collects anonymous information through cookies and clear GIFs or other graphical files placed on web pages of Our Site.  ASME does not link anonymous information it collects through Our Site to individual users’ personally identifiable information.
 
 **Cookies**
 
-Certain parts of Our Site use cookies, which are small files placed on your computer, to better enable visitors to use Our Site.  Generally, cookies enable our server to remember visitors, allow entry into password-protected areas, and to help ensure accurate measuring of web traffic.  Cookies can be deleted or rejected by changing the settings on your web browser.  Please be aware that your deletion or rejection of cookies may affect your ability to use certain parts of Our Site effectively.  Because advertisers or third-party web sites may use cookies in different ways, this statement regarding the use of cookies covers only Our Site.
+Certain parts of Our Site use cookies, which are small files placed on your computer, to better enable visitors to use Our Site and to measure Web statistics as noted above.  Generally, cookies enable our server to remember visitors, allow entry into password-protected areas, and to help ensure accurate measuring of web traffic.  Cookies can be deleted or rejected by changing the settings on your web browser.  Please be aware that your deletion or rejection of cookies may affect your ability to use certain parts of Our Site effectively.  Because advertisers or third-party web sites may use cookies in different ways, this statement regarding the use of cookies covers only Our Site.
 
 **Collection of Personally Identifiable Information**
 
