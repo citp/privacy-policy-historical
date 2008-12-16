@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603204724id_/http%3A//www.ratesupermarket.ca/mortgage/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061119id_/http%3A//www.ratesupermarket.ca/mortgage/privacy_policy) for the most accurate reproduction.*
 
 # Ratesupermarket.ca Privacy Policy - Mortgage Rates Canada - Compare Mortgage Rates
 
@@ -54,10 +54,11 @@ We follow generally accepted industry standards to protect the personal informat
 
 For questions or concerns regarding your personal information and our privacy policy, or to update, correct or delete your personal information, please contact: 
 
-RateSupermarket.ca, a website operated by Mangaroo Media Inc.  
+Kelvin Mangaroo  
+RateSupermarket.ca Inc.  
 3000 Sandlewood Court  
 Burlington, Ontario, Canada  
 L7M 3A4  
 kelvin@RateSupermarket.ca 
 
-**PLEASE NOTE:** RateSupermarket.ca is an independent, impartial information only website that is not, and does not claim to be, a mortgage broker or mortgage lender. RateSupermarket.ca does not take any responsibility for the rates, products and their features displayed on the website, which are provided by the footer_nav_links and brokers themselves; are subject to change without notice at any time, and are for informational purposes only. Please contact the lender or broker directly for more details.
+**PLEASE NOTE:** RateSupermarket.ca is an independent, impartial information only website that is not, and does not claim to be, a mortgage broker or mortgage lender. RateSupermarket.ca does not take any responsibility for the rates, products and their features displayed on the website, as these are subject to change without notice at any time, and are for informational purposes only. Please contact the lender or broker directly for more details.
