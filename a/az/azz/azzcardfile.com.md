@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514223906id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216113916id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
 
 # AZZ Cardfile : Privacy and Security
 
@@ -26,7 +26,7 @@ AZZ Cardfile installation pack and sample collections provided by end users, whi
 
 ### Cookies
 
-This site does not use cookies. However, cookies may be used by advertising companies whose ads may be displayed on some pages.
+This site does not use cookies. However, cookies may be used by advertising companies whose ads may be displayed on some pages. To opt out of the Google DART cookie, [visit here](http://www.google.com/privacy_ads.html)
 
 ### Links to other Web sites
 
