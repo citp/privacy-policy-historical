@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sustainablebusiness.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609084233id_/http%3A//www.sustainablebusiness.com/index.cfm/go/info.privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sustainablebusiness.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022231id_/http%3A//sustainablebusiness.com/index.cfm/go/info.privacypolicy) for the most accurate reproduction.*
 
 # SustainableBusiness.com
 
