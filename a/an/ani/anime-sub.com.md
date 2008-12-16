@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the anime-sub.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622043315id_/http%3A//www.anime-sub.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-sub.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020950id_/http%3A//www.anime-sub.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Anime-sub.com
+# Privacy Policy | Anime Sub
+
+Mar 10th, 2008 by [lordgoth](http://www.anime-sub.com/author/lordgoth/ "Posts by lordgoth")
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -24,10 +26,10 @@ Contact Information
 
 If users have any questions or suggestions regarding our privacy policy, please contact me through my contact form or send me an email to: admin@anime-sub.com.
 
-These icons link to social bookmarking sites where readers can share and discover new web pages.
-
 **
-* [Report Dead Link](http://lordgoth.proboards56.com/index.cgi "Report")
+* [Report Dead Link](http://forum.anime-sub.com/index.php?board=5.0 "Report")
 **
 
-Posted in [ZZUncategorized](http://www.anime-sub.com/category/uncategorized "View all posts in ZZUncategorized") | No Comments
+Posted in [_ZZUncategorized](http://www.anime-sub.com/category/uncategorized "View all posts in _ZZUncategorized") | 1 Comment
+
+**Every your review comment will help our site and others very much.Thanks for your time :))**
