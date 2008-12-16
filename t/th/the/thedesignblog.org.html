@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thedesignblog.org privacy policy that was archived on 2008-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630160817id_/http%3A//www.thedesignblog.org/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thedesignblog.org privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216161736id_/http%3A//www.thedesignblog.org/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 	<title>Privacy Policy - The Design blog: Design trendsetter</title>
@@ -7,88 +7,193 @@
 	<meta name="title" content="Privacy Policy - The Design blog: Design trendsetter">
 	<meta name="subject" content="Lifestyle">
 	<meta name="language" content="en">
-	<meta name="keywords" content="architecture, art, Chair, chairs, coffee table, contemporary design, Contemporary Furniture, decor, design, designer, designs, furniture, home decor, Home Furnishing, lamp, Lamps, Lifestyle, Lighting, Sofa, Table">
+	<meta name="keywords" content="architecture, art, Chair, chairs, contemporary design, decor, design, design concept, designer, Designer Furniture, designs, eco-friendly, furniture, home decor, Home Furnishing, lamp, Lifestyle, Modern Design, Sofa, Table">
 	<meta name="description" content="Design trendsetter">
 	<link rel="alternate" href="http://www.thedesignblog.org/rss.xml" type="application/rss+xml" title="The Design blog's RSS Feed">
 	<link rel="alternate" href="http://www.instablogs.com/feed/blog=The+Design+blog" type="application/rss+xml" title="The Design blog's RSS Feed (Instablogs Community)">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 	
-	<style type="text/css">
-	  @import url(/style.css);
-	</style>
 	
-	<script type="text/javascript">
+<style type="text/css">
+  @import url(/style.css);
+</style>
 
-		function on_blur()
+<script type="text/javascript">
+
+	function on_blur()
+	{
+		if(document.getElementById('nav-search').value == "")
 		{
-			if(document.getElementById('nav-search').value == "")
-			{
-			document.getElementById('nav-search').value = "search here...";
-			document.getElementById('nav-search').style.color = "#999";
-			}
+		document.getElementById('nav-search').value = "search here...";
+		document.getElementById('nav-search').style.color = "#999";
 		}
+	}
 
 
-		function on_focus()
+	function on_focus()
+	{
+		document.getElementById('nav-search').value = "";
+		document.getElementById('nav-search').style.color = "#444";
+	}
+
+	function network_down(network_head_id)
+	{
+		var	flag=$('blog_network-'+network_head_id);
+		var x;			
+		for (x = 0; x < 10; x++)
 		{
-			document.getElementById('nav-search').value = "";
-			document.getElementById('nav-search').style.color = "#444";
+			if(x == network_head_id && flag.style.display=="none")
+				Effect.BlindDown('blog_network-'+x,{duration:0.5});
+			else
+				Effect.BlindUp('blog_network-'+x,{duration:0.5});
 		}
-
-		function network_down(network_head_id)
+	}
+	function open_reply_comment(comment_id, comment_type)
+	{
+		var div = document.getElementById('reply-comment-' + comment_type+comment_id);
+		if(div.style.display=='block')
 		{
-			var	flag=$('blog_network-'+network_head_id);
-			var x;			
-			for (x = 0; x < 10; x++)
-			{
-				if(x == network_head_id && flag.style.display=="none")
-					Effect.BlindDown('blog_network-'+x,{duration:0.5});
-				else
-					Effect.BlindUp('blog_network-'+x,{duration:0.5});
-			}
+			div.style.display='none';
 		}
+		else
+		{
+			div.style.display='block';
+		}
+	}
 
-	</script>
+	function show_comments(id)
+	{
+		var div = document.getElementById(id);
+		
+		if(id=='global-local-comments')
+		{
+			div.style.display='block';
+			document.getElementById('normal-comments').style.display='none';
+			YAHOO.util.Dom.addClass('g', 'head-current'); 
+			YAHOO.util.Dom.removeClass('n', 'head-current');
+		}
+		
+		if(id=='normal-comments')
+		{
+			div.style.display='block';
+			document.getElementById('global-local-comments').style.display='none';
+			YAHOO.util.Dom.addClass('n', 'head-current'); 
+			YAHOO.util.Dom.removeClass('g', 'head-current');
+		}
+	}
 
-	
+	function lightboxImageOn(image_id, Image_title)
+	{
+		var comment_image = 'comment_image';
+		var Image_title = "Image uploaded by - " + Image_title;
+		var div = document.getElementById('lb-edit');
+		var postdata ='image_id='+image_id + '&type=' + comment_image + '&title=' + Image_title;
+		div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+
+		var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
+		var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML= o.statusText;}}
+		var Callback ={success:handleSuccess,failure: handleFailure};
+
+		var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
+
+		var black = document.getElementById('fade');
+		black.style.display = 'block';
+
+		div.style.display = 'block';
+		window.scrollTo(0,0);
+	}
+
+	function lightboxVideoOn(video_id, You_Tube_title)
+	{
+		var video='video';
+		var You_Tube_title = "Video uploaded by - " + You_Tube_title;
+		var div = document.getElementById('lb-edit');
+		var postdata ='video_id=' + video_id + '&type=' + video + '&title=' +  You_Tube_title;
+		div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+
+		var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
+		var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML=  o.statusText;}}
+		var Callback ={success:handleSuccess,failure: handleFailure};
+
+		var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
+
+		var black = document.getElementById('fade');
+		black.style.display = 'block';
+
+		div.style.display = 'block';
+		window.scrollTo(0,0);
+	}
+
+	function lightboxoff1(id)
+	{
+		var light = document.getElementById(id);
+		light.style.display = 'none';
+	}
+
+</script>
+
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-9415440757655812");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-9415440757655812", "thedesignblog_above_header_728x90");
+  GA_googleAddSlot("ca-pub-9415440757655812", "thedesignblog_blog_ads_nosize");
+  GA_googleAddSlot("ca-pub-9415440757655812", "thedesignblog_google_728x15");
+  GA_googleAddSlot("ca-pub-9415440757655812", "thedesignblog_google_banner_468x60");
+  GA_googleAddSlot("ca-pub-9415440757655812", "thedesignblog_google_large_rect_336x280");
+  GA_googleAddSlot("ca-pub-9415440757655812", "thedesignblog_google_skycraper_120x600");
+  GA_googleAddSlot("ca-pub-9415440757655812", "thedesignblog_glam_160x600");
+  GA_googleAddSlot("ca-pub-9415440757655812", "thedesignblog_glam_rect_300x250");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<!-- END OF TAG FOR head SECTION -->
+
+	<script type="text/javascript"> var sz_global_config_params = {cppluginurl:"",cpserverurl:"http://sezwho.com", rating_submit_path:"", sitekey:"185305b33abe71cc6b48b758995749ef",blogkey:"48d1091394eb5",blogid:"0_25", plugin_version:"2.1",ibhome:"http://www.instablogs.com",partner:"instablogs"} ; </script>
+<script type="text/javascript" id="szJsEmbedScript" src="http://www.instablogs.com/sezwho/sezwho.js"></script>
+<link rel="stylesheet" id="szProfAndEmbedStyleSheet" href="http://www.instablogs.com/sezwho/sezwho.css" type="text/css" media="screen">
 </head>
 
 <body>
+<script type="text/javascript" src="/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.instablogs.com/js/yui.js"></script>
+<script type="text/javascript" src="http://www.instablogs.com/js/lightbox.js"></script>
+
+
+<div style="background: url(http://www.instablogs.com/css-img/top-bar-bg.gif) repeat-x;font:bold 10px/1em verdana,arial,serif;text-align:left;height:25px;padding-top:2px;color:#444"><div style="width:950px;margin:0 auto;text-align:left;"><span class="ad-w-us" style="padding-top:5px;font:bold 10px/1em verdana,arial,serif;float:right"><a href="http://www.instablogs.com/ad_solutions.php?b=25">Advertise with Us</a></span>An&nbsp; <a href="http://www.instablogs.com/"><img style="margin-bottom:-6px;" src="http://www.instablogs.com/css-img/bar-logo.gif"></a> Venture &nbsp;&nbsp;</div></div>
+
+
 	<div id="container">
 	<div style="height:1px;"> </div>
-		
-<script type="text/javascript"><!--
-var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
-var casaleU=escape(window.location.href);
-var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
-document.write('<scr'+'ipt'+casaleHost+'84760&amp;u=');
-document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
-//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=84760&amp;u=https%3A//web.archive.org/web/20080630160817id_/http%253A//www.thedesignblog.org/privacy-policy.php&amp;f=1&amp;id=3717205111.4888835"></script>
-			<div class="ad-top">
-				
-<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318102555&amp;adSize=728x90"></script>
+					<div class="ad-top">
+			<div class="left-top-ad">
+			<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT thedesignblog_above_header_728x90	 -->
+				<script type="text/javascript">
+				  GA_googleFillSlot("thedesignblog_above_header_728x90");
+				</script>
+			<!-- END OF TAG FOR SLOT thedesignblog_above_header_728x90 -->
+			</div>
+			<div class="right-top-ad">
+			<a href="http://www.instablogs.com/ad_solutions.php?b=25"><img src="http://www.instablogs.com/css-img/120-x-90.jpg"></a>
+			</div>
+			<div class="clear"></div>
 			</div><!-- EOF #ad-top -->
 			
 			<div style="padding:5px;text-align:center;">
-				
-<script type="text/javascript"><!--
-google_ad_client = "pub-9415440757655812";
-google_ad_width = 728;
-google_ad_height = 15;
-google_ad_format = "728x15_0ads_al";
-google_ad_type = "text";
-//2007-06-21:
-google_ad_channel = "5535432331+6824736761+7361404613+4012504269";
-google_color_border = "F7F3E8";
-google_color_bg = "F7F3E8";
-google_color_link = "6F2B07";
-google_color_text = "000";
-google_color_url = "666666";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>			</div>
+				<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT thedesignblog_google_728x15
+					 -->
+				<script type="text/javascript">
+				  GA_googleFillSlot("thedesignblog_google_728x15");
+				</script>
+				<!-- END OF TAG FOR SLOT thedesignblog_google_728x15
+					 -->
+			</div>
 
 		<div id="header"> 
 
@@ -97,34 +202,6 @@ google_color_url = "666666";
 		</div><!-- EOF header -->
 		
 			
-		<div class="top-nav">
-				<span class="home">
-					<a href="/">Home</a>
-				</span>
-
-				<span class="RSS">
-					<a href="/rss.xml">RSS</a> ::
-				</span>
-
-				<span>
-					<a href="/contact-us.php?q=tips">Send Tips</a> ::
-				</span>
-
-				<span>
-					<a href="/contact-us.php?q=advertise">Advertise</a> ::
-				</span>
-
-				<span>
-					<a href="/contact-us.php?q=general">Contact</a> ::
-				</span>
-
-				<span>
-					<form method="get" action="/search.php">
-						<input id="nav-search" name="q" value="search here..." type="text" onfocus="on_focus()" onblur="on_blur()">	
-						<input type="submit" name="submit" value="Search">
-					</form>
-				</span>
-			</div><!-- EOF top-nav -->
 		<div id="content">
 			<div id="content-box">
 				
@@ -192,130 +269,67 @@ google_color_url = "666666";
 			</div><!-- EOF #content-box -->
 
 			<div id="content-sidebar">
-
-	<div style="padding-bottom:20px;text-align:center;">
-		
-<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318102555&amp;adSize=300x250"></script>
-	</div>
-
-	<div style="padding-bottom:20px;text-align:center;">
-		<a href="http://www.thedesignblog.org/write_us.php"><img src="/css-img/write.gif"></a>
-	</div>	
 	
 	<div style="padding-bottom:20px;text-align:center;">
-		
-<script type="text/javascript"><!--
-google_ad_client = "pub-9415440757655812";
-google_ad_width = 336;
-google_ad_height = 280;
-google_ad_format = "336x280_as";
-google_ad_type = "text_image";
-//2007-06-21:
-google_ad_channel = "5535432331+6824736761+4046827813+0488691383";
-google_color_border = "F7F3E8";
-google_color_bg = "F7F3E8";
-google_color_link = "6F2B07";
-google_color_text = "000";
-google_color_url = "666666";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>	</div>	
+		<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT thedesignblog_glam_rect_300x250     ===ads===-->
+		<script type="text/javascript">
+		  GA_googleFillSlot("thedesignblog_glam_rect_300x250");
+		</script>
+		<!-- END OF TAG FOR SLOT thedesignblog_glam_rect_300x250     -->
+	</div>	
 	
 <div class="clear"></div>
 <div class="border"></div>
 		
-	<div id="tags">
-		<h2>Tags</h2>
-		<div class="tag-content">
-			<a href="http://www.thedesignblog.org/tags/architecture/" class="ibn_tag2">architecture</a> <a href="http://www.thedesignblog.org/tags/art/" class="ibn_tag6">art</a> <a href="http://www.thedesignblog.org/tags/chair/" class="ibn_tag8">Chair</a> <a href="http://www.thedesignblog.org/tags/chairs/" class="ibn_tag6">chairs</a> <a href="http://www.thedesignblog.org/tags/coffee-table/" class="ibn_tag2">coffee table</a> <a href="http://www.thedesignblog.org/tags/contemporary-design/" class="ibn_tag1">contemporary design</a> <a href="http://www.thedesignblog.org/tags/contemporary-furniture/" class="ibn_tag3">Contemporary Furniture</a> <a href="http://www.thedesignblog.org/tags/decor/" class="ibn_tag7">decor</a> <a href="http://www.thedesignblog.org/tags/design/" class="ibn_tag8">design</a> <a href="http://www.thedesignblog.org/tags/designer/" class="ibn_tag5">designer</a> <a href="http://www.thedesignblog.org/tags/designs/" class="ibn_tag7">designs</a> <a href="http://www.thedesignblog.org/tags/furniture/" class="ibn_tag10">furniture</a> <a href="http://www.thedesignblog.org/tags/home-decor/" class="ibn_tag9">home decor</a> <a href="http://www.thedesignblog.org/tags/home-furnishing/" class="ibn_tag9">Home Furnishing</a> <a href="http://www.thedesignblog.org/tags/lamp/" class="ibn_tag5">lamp</a> <a href="http://www.thedesignblog.org/tags/lamps/" class="ibn_tag1">Lamps</a> <a href="http://www.thedesignblog.org/tags/lifestyle/" class="ibn_tag10">Lifestyle</a> <a href="http://www.thedesignblog.org/tags/lighting/" class="ibn_tag3">Lighting</a> <a href="http://www.thedesignblog.org/tags/sofa/" class="ibn_tag4">Sofa</a> <a href="http://www.thedesignblog.org/tags/table/" class="ibn_tag4">Table</a> 		</div>		
-	</div><!-- EOF  tags-->
-	
-		
-
-	<div class="clear"></div>
-	
-	<div class="border"></div>
-
-	<div class="Comments">
-		<h2>Fresh Comments</h2>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/m_woman.jpg"></div>
-				<div class="comment-content">
-					<div class="author"><a href="http://dannidan.instablogs.com/">Dana</a></div>
-					on <span><a href="http://www.thedesignblog.org/entry/kinzo-air-light-scale-office-furniture/#comment-505396">Kinzo Air Light-Scale Office...</a> I have already seen this desk live at a vernissage on the Berlin Design Festival 2008.... </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/a/ale/m_alexanderadp.jpg"></div>
-				<div class="comment-content">
-					<div class="author"><a href="http://alexanderadp.instablogs.com/">Gabriel A</a></div>
-					on <span><a href="http://www.thedesignblog.org/entry/grill-n-table-for-patio-dinners-and-barbecue/#comment-505115">Grill 'n' table concept for...</a> Yes you are very correct. No one has ever been inconvenienced by having to take a few... </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/a/anw/m_anwesha.jpg"></div>
-				<div class="comment-content">
-					<div class="author"><a href="http://anwesha.instablogs.com/">Anwesha</a></div>
-					on <span><a href="http://www.thedesignblog.org/entry/bouchti-amin-s-yummy-eggy-basin/#comment-504844">Bouchti Amin’s yummy Eggy...</a> perfectly cute diea. i like the 1st design the best. i wish the depression (the... </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/a/anw/m_anwesha.jpg"></div>
-				<div class="comment-content">
-					<div class="author"><a href="http://anwesha.instablogs.com/">Anwesha</a></div>
-					on <span><a href="http://www.thedesignblog.org/entry/grill-n-table-for-patio-dinners-and-barbecue/#comment-504839">Grill 'n' table concept for...</a> very precise article. well thought out opinions. yes, the idea is unique but there are... </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
-				<div class="comment-content">
-					<div class="author"><a href="http://tomokazuosada.instablogs.com/">Tomokazu Osada</a></div>
-					on <span><a href="http://www.thedesignblog.org/entry/aphrodite-platform-shoes-aim-at-safety-of-prostitutes/#comment-504614">Aphrodite Platform Shoes aim...</a> do they come with a fish bowl screen saver?
-
-tomo </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-			</div><!-- EOF Comments -->
-
-
-	<div class="clear"></div>
-
-	<div class="border"></div>
+<script>
+	function toggle_div(id)
+	{
+		var divid= document.getElementById(id);
+		if(divid.style.display == 'none')
+			divid.style.display = 'block';
+		else
+			divid.style.display = 'none';
+	}
+</script>	
 
 <div class="inner-sidebars">
 	<div class="inner-sidebar1">
 
-	<div id="content-sidebar-inner">
+	<div style="padding-bottom:10px;text-align:center;">
+	<a href="http://www.instablogs.com/instablogs-club/"><img src="http://www.instablogs.com/css-img/insta_club_badge.gif"></a>
+</div>
+
+<div class="market-place">
+	<h2>Instablogs Club</h2>
+	<div class="club-data">
+	<span class="club-top-img"><a href="http://www.ilovemybaby.org/entry/another-not-so-great-baby-security-monitor-set/"><img src="http://www.instablogsimages.com/images/2008/12/16/baby-security-monitor-with-wireless-pan-and-tilt-control-450x216_bzYDF_20137_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.ilovemybaby.org/entry/another-not-so-great-baby-security-monitor-set/">Another not so great ‘baby security monitor set’</a><span> (<a href="http://www.ilovemybaby.org">I love my baby</a>)</span></div><span class="club-top-img"><a href="http://www.thedesignblog.org/entry/shorty-sporty-sustainable-car-delivers-performance-and-power-too/"><img src="http://www.instablogsimages.com/images/2008/12/16/shorty-sporty_001_poWe7_17621_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.thedesignblog.org/entry/shorty-sporty-sustainable-car-delivers-performance-and-power-too/">Shorty &amp; Sporty: Sustainable car delivers performance and power too</a><span> (<a href="http://www.thedesignblog.org">The Design blog</a>)</span></div><span class="club-top-img"><a href="http://www.gizmowatch.com/entry/braille-polaroid-camera-feel-the-picture/"><img src="http://www.instablogsimages.com/images/2008/12/16/braille-camera_J9FD7_5965_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.gizmowatch.com/entry/braille-polaroid-camera-feel-the-picture/">Braille Polaroid Camera: Feel the picture</a><span> (<a href="http://www.gizmowatch.com">Gizmo Watch</a>)</span></div><span class="club-top-img"><a href="http://www.automotto.org/entry/pimped-toyota-cab-mini-truck-is-a-thumper/"><img src="http://www.instablogsimages.com/images/2008/12/16/toyota-truck_qkJej_54_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.automotto.org/entry/pimped-toyota-cab-mini-truck-is-a-thumper/">Pimped Toyota cab mini truck is a thumper</a><span> (<a href="http://www.automotto.org">Auto Motto</a>)</span></div><span class="club-top-img"><a href="http://www.gizmowatch.com/entry/lightspeed-binoculars-use-infrared-leds-for-communication/"><img src="http://www.instablogsimages.com/images/2008/12/16/lightspeed-binoculars_oRPhh_5965_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.gizmowatch.com/entry/lightspeed-binoculars-use-infrared-leds-for-communication/">LightSpeed binoculars use infrared LEDs for communication</a><span> (<a href="http://www.gizmowatch.com">Gizmo Watch</a>)</span></div><span class="club-top-img"><a href="http://www.greendiary.com/entry/teach-your-kids-the-lesson-of-alternative-energy-this-christmas/"><img src="http://www.instablogsimages.com/images/2008/12/16/1_QCGpT_58_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.greendiary.com/entry/teach-your-kids-the-lesson-of-alternative-energy-this-christmas/">Monkey model kit: A lesson in alternative energy for kids</a><span> (<a href="http://www.greendiary.com">Green Diary</a>)</span></div><span class="club-top-img"><a href="http://blog.instablogs.com/entry/instablogs-launches-phip-product-human-interaction-platform/"><img src="http://www.instablogsimages.com/images/2008/12/16/phip_IuGNc_50_160x120.jpg"></a></span><div class="club-top-title"><a href="http://blog.instablogs.com/entry/instablogs-launches-phip-product-human-interaction-platform/">Instablogs Launches PHIP (Product Human Interaction Platform)</a><span> (<a href="http://blog.instablogs.com">Blog</a>)</span></div>	</div>
+	<div class="add-news"><a class="add-news-page" href="http://www.instablogs.com/instablogs-club/club_wp_plugin.php">Add This</a></div>
+</div><div id="content-sidebar-inner">
 	
 			<div id="auto-ninja">
 			<h2>Interview</h2>
 			<div id="ninja-image-content">	
-				<a href="http://www.thedesignblog.org/entry/gregg-fleishman-juxtaposing-geometry-and-functionality-in-his-architectural-structures/"><img src="http://www.instablogsgallery.com/interview/2008/05/06/gregg-fleishman_50.jpg" alt="gregg fleishman"></a>
+				<a href="http://www.malodyb.com/"><img src="http://www.instablogsgallery.com/interview/2008/09/13/andreas-malo-dyb_17275.jpg" alt="andreas malo dyb"></a>
 				<div class="title">
-					<a href="http://www.thedesignblog.org/entry/gregg-fleishman-juxtaposing-geometry-and-functionality-in-his-architectural-structures/">Gregg Fleishman</a>
+					<a href="http://www.malodyb.com/">Andreas  Malo Dyb</a>
 				</div>
-				<p>Largely influenced by his early work experience in the construction industry, Fleishman�s mission is to continue developing ways to make building easier.</p>
-				<p class="p2"><a href="http://www.thedesignblog.org/entry/gregg-fleishman-juxtaposing-geometry-and-functionality-in-his-architectural-structures/">Read the Interview »</a> </p>
+				<p>Recently, I actually had the pleasure of conducting an interview of one of these geniuses of the design world, Andreas Malo Dyb.
+I have idolized many of his pieces ranging from footwear to the iphone bag. He has judiciously amalgamated creativity and discipline to give out some truly unique designs.</p>
+				<p class="p2"><a href="http://www.malodyb.com/">Read the Interview »</a> </p>
 			</div><!-- EOF ninja-image-content -->
 		</div><!-- EOF auto-ninja -->
 		
 		<div class="prev-interviews">
 				<div class="single-interview">
-			<a href="http://www.thedesignblog.org/entry/face-to-face-with-vladimir-rachev-a-product-designer-from-cardiff/"><img src="http://www.instablogsgallery.com/interview/2008/04/28/vladimir-rachev_50_80x80.jpg" alt="vladimir rachev"></a>
+			<a href="http://martin-konrad.com/"><img src="http://www.instablogsgallery.com/interview/2008/09/01/martin-konrad-gloeckle_17275_80x80.jpg" alt="martin konrad gloeckle"></a>
 			<div class="title">
-				<a href="http://www.thedesignblog.org/entry/face-to-face-with-vladimir-rachev-a-product-designer-from-cardiff/">Vladimir Rachev</a>
+				<a href="http://martin-konrad.com/">Martin Konrad Gloeckle</a>
 			</div>
 		</div>
 				<div class="single-interview">
-			<a href="http://www.thedesignblog.org/entry/joel-escalona-tries-to-integrate-numerous-functions-into-a-single-creation/"><img src="http://www.instablogsgallery.com/interview/2008/03/11/joel-escalona_50_80x80.jpg" alt="joel escalona"></a>
+			<a href="http://www.thedesignblog.org/entry/gregg-fleishman-juxtaposing-geometry-and-functionality-in-his-architectural-structures/"><img src="http://www.instablogsgallery.com/interview/2008/05/06/gregg-fleishman_50_80x80.jpg" alt="gregg fleishman"></a>
 			<div class="title">
-				<a href="http://www.thedesignblog.org/entry/joel-escalona-tries-to-integrate-numerous-functions-into-a-single-creation/">Joel Escalona</a>
+				<a href="http://www.thedesignblog.org/entry/gregg-fleishman-juxtaposing-geometry-and-functionality-in-his-architectural-structures/">Gregg Fleishman</a>
 			</div>
 		</div>
 				</div>
@@ -333,185 +347,112 @@ tomo </span>
 	
 </div><!-- EOF #content-sidebar-inner -->	<div class="border"></div>
 
+	
 
-			<div id="archives">
-			<h2>Archives</h2>
-			
-			<div class="year">2008</div>				
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200806/">June 2008</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200805/">May 2008</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200804/">April 2008</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200803/">March 2008</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200802/">February 2008</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200801/">January 2008</a>
-				</div>
-			<div class="year">2007</div>				
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200712/">December 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200711/">November 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200710/">October 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200709/">September 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200708/">August 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200707/">July 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200706/">June 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200705/">May 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200704/">April 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200703/">March 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200702/">February 2007</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200701/">January 2007</a>
-				</div>
-			<div class="year">2006</div>				
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200612/">December 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200611/">November 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200610/">October 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200609/">September 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200608/">August 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200607/">July 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200606/">June 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200605/">May 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200604/">April 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200603/">March 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200602/">February 2006</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200601/">January 2006</a>
-				</div>
-			<div class="year">2005</div>				
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200512/">December 2005</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200511/">November 2005</a>
-				</div>
-							
-				<div class="archive-data">
-					<a href="http://www.thedesignblog.org/archives/200510/">October 2005</a>
-				</div>
-					</div><!-- EOF archives -->
-		
-		<div class="border"></div>
 
-		<div style="text-align:center;padding:10px 0;">
-		
-<script type="text/javascript"><!--
-google_ad_client = "pub-9415440757655812";
-google_ad_width = 120;
-google_ad_height = 600;
-google_ad_format = "120x600_as";
-google_ad_type = "text_image";
-//2007-06-21:
-google_ad_channel = "5535432331+6824736761+1755269983+3461276311";
-google_color_border = "F7F3E8";
-google_color_bg = "F7F3E8";
-google_color_link = "6F2B07";
-google_color_text = "000";
-google_color_url = "666666";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>		</div>
+	<div style="text-align:center;padding:10px 0;">
+		<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT thedesignblog_glam_160x600     ===ads===-->
+		<script type="text/javascript">
+		  GA_googleFillSlot("thedesignblog_glam_160x600");
+		</script>
+		<!-- END OF TAG FOR SLOT thedesignblog_glam_160x600     -->
+	</div>
 
-		<div class="border"></div>
 
-		<div class="insta-logo" style="text-align:center;padding-top:40px;">
-			<a href="http://www.instablogs.com/"><img src="/css-img/insta-logo.gif"></a>
-		</div>
 
+	<div class="clear"></div>
+
+	<div class="border"></div>
+
+
+	
 	</div><!-- EOF inner-sidebar1 -->
 
 		<div class="inner-sidebar2">
-			<div class="market-place">
+			<div class="market-place1">
 				<h2>Blog Ads</h2>		
 				<div class="blog-ads">
-					
-<link rel="stylesheet" type="text/css" href="http://cache.blogads.com/268777948/feed.css">
-<script language="javascript" src="http://cache.blogads.com/268777948/feed.js"></script>
+					<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT thedesignblog_blog_ads_nosize
+						 -->
+					<script type="text/javascript">
+					  GA_googleFillSlot("thedesignblog_blog_ads_nosize");
+					</script>
+					<!-- END OF TAG FOR SLOT thedesignblog_blog_ads_nosize
+						 -->
 				</div>	
 			</div><!-- EOF market-place -->
 
 			<div class="border"></div>
+
+			<div id="tags">
+				<h2>Tags</h2>
+				<div class="tag-content">
+					<a href="http://www.thedesignblog.org/tags/architecture/" class="ibn_tag6">architecture</a> <a href="http://www.thedesignblog.org/tags/art/" class="ibn_tag5">art</a> <a href="http://www.thedesignblog.org/tags/chair/" class="ibn_tag8">Chair</a> <a href="http://www.thedesignblog.org/tags/chairs/" class="ibn_tag2">chairs</a> <a href="http://www.thedesignblog.org/tags/contemporary-design/" class="ibn_tag7">contemporary design</a> <a href="http://www.thedesignblog.org/tags/decor/" class="ibn_tag5">decor</a> <a href="http://www.thedesignblog.org/tags/design/" class="ibn_tag9">design</a> <a href="http://www.thedesignblog.org/tags/design-concept/" class="ibn_tag6">design concept</a> <a href="http://www.thedesignblog.org/tags/designer/" class="ibn_tag1">designer</a> <a href="http://www.thedesignblog.org/tags/designer-furniture/" class="ibn_tag2">Designer Furniture</a> <a href="http://www.thedesignblog.org/tags/designs/" class="ibn_tag4">designs</a> <a href="http://www.thedesignblog.org/tags/eco-friendly/" class="ibn_tag7">eco-friendly</a> <a href="http://www.thedesignblog.org/tags/furniture/" class="ibn_tag10">furniture</a> <a href="http://www.thedesignblog.org/tags/home-decor/" class="ibn_tag9">home decor</a> <a href="http://www.thedesignblog.org/tags/home-furnishing/" class="ibn_tag8">Home Furnishing</a> <a href="http://www.thedesignblog.org/tags/lamp/" class="ibn_tag3">lamp</a> <a href="http://www.thedesignblog.org/tags/lifestyle/" class="ibn_tag10">Lifestyle</a> <a href="http://www.thedesignblog.org/tags/modern-design/" class="ibn_tag1">Modern Design</a> <a href="http://www.thedesignblog.org/tags/sofa/" class="ibn_tag3">Sofa</a> <a href="http://www.thedesignblog.org/tags/table/" class="ibn_tag4">Table</a> 				</div>		
+			</div><!-- EOF  tags-->
+			
+				
+
+			<div class="clear"></div>
+			
+			<div class="border"></div>
+
+			<div class="Comments">
+				<h2>Fresh Comments</h2>
+									<div class="image-content">
+						<div class="image"><img src="http://www.instablogs.com/user-img/p/ptr/m_ptrisha.jpg"></div>
+						<div class="comment-content">
+							<div class="author">
+															<a href="http://ptrisha.instablogs.com/">Trisha Phillips</a>
+															</div>
+							on <span><a href="http://www.thedesignblog.org/entry/salinity-sports-stool-is-a-synthesis-of-sports-equipment-and-furniture/#comment-556403">Salinity Sports Stool: A fine...</a> Combine sports with contemporary... </span>
+						</div>
+					</div>
+					<div class="clear"></div>
+									<div class="image-content">
+						<div class="image"><img src="http://www.instablogs.com/user-img/p/ptr/m_ptrisha.jpg"></div>
+						<div class="comment-content">
+							<div class="author">
+															<a href="http://ptrisha.instablogs.com/">Trisha Phillips</a>
+															</div>
+							on <span><a href="http://www.thedesignblog.org/entry/lie-down-in-style-with-folding-teak-chaise-lounge-chair/#comment-556401">Perfect tan: Portable sun...</a> Simple but stylish contemporary... </span>
+						</div>
+					</div>
+					<div class="clear"></div>
+									<div class="image-content">
+						<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
+						<div class="comment-content">
+							<div class="author">
+							<span style="font-weight:bold">Jack Minor</span>							</div>
+							on <span><a href="http://www.thedesignblog.org/entry/baja-1000-buggy-green-and-mean-desert-racer/#comment-556367">Baja 1000 Buggy: Green and...</a> Wow, that thing looks wicked!
+
+www.privacy.de.tc </span>
+						</div>
+					</div>
+					<div class="clear"></div>
+									<div class="image-content">
+						<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
+						<div class="comment-content">
+							<div class="author">
+															<a href="http://kabonfootprint.com/busby-seo-test/">Busby SEO Test</a>
+															</div>
+							on <span><a href="http://www.thedesignblog.org/entry/design-gift-wine-box-with-a-difference-is-lamp-in-guise/#comment-556316">Green idea: Lamp that comes...</a> Wow..this is great idea to minimize the pollutions. Hope many wine company have their... </span>
+						</div>
+					</div>
+					<div class="clear"></div>
+									<div class="image-content">
+						<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
+						<div class="comment-content">
+							<div class="author">
+															<a href="http://kabonfootprint.com/busby-seo-test/">Busby SEO Test</a>
+															</div>
+							on <span><a href="http://www.thedesignblog.org/entry/eco-inspired-residential-tower-for-the-next-green-neighborhood/#comment-556311">Eco-inspired residential...</a> Wow...this is the dream villa in the metropolitan city i think. Where people miss the... </span>
+						</div>
+					</div>
+					<div class="clear"></div>
+							</div><!-- EOF Comments -->
+
+			<div class="border"></div>
+
 
 			<div class="market-place">
 				<h2>Shopping</h2>
@@ -527,64 +468,143 @@ google_color_url = "666666";
 							<a href="http://www.blindsgalore.com/category.asp?dept_id=07000000">Cellular Shades</a>
 							<div class="desc"></div>
 						</div>
+											<div class="bizrate">
+							<a href="http://www.eroomservice.com">MODERN BEDROOM FURNITURE</a>
+							<div class="desc"></div>
+						</div>
+											<div class="bizrate">
+							<a href="http://www.made-in-china.com/products/catlist/listsubcat/129/00/mic/Light_Industry_Daily_Use.html">Household &amp; Daily Use</a>
+							<div class="desc">Purchase daily use stuff with excellent design or style to make your home and life even better.</div>
+						</div>
 					
-					<div class="buy"> To Advertise please <a href="/contact-us.php?q=advertise">Contact Us</a>.</div>
+					<div class="buy"> To Advertise please <a href="http://www.instablogs.com/ad_solutions.php?b=25">Contact Us</a>.</div>
 			</div><!-- EOF market-place -->
 
-			<div class="border"></div>
-
-			<div style="padding:10px;text-align:center;">
+							<div id="archives">
+					<h2>Archives</h2>
+					
+					<div class="year" onclick="toggle_div('arch-open0')">2008</div><div id="arch-open0">						<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200812/">December 2008</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200811/">November 2008</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200810/">October 2008</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200809/">September 2008</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200808/">August 2008</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200807/">July 2008</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200806/">June 2008</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200805/">May 2008</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200804/">April 2008</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200803/">March 2008</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200802/">February 2008</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200801/">January 2008</a>
+						</div>
+					</div><div class="year" onclick="toggle_div('arch-open1')">2007</div><div id="arch-open1" style="display:none;">						<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200712/">December 2007</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200711/">November 2007</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200710/">October 2007</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200709/">September 2007</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200708/">August 2007</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200707/">July 2007</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200706/">June 2007</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200705/">May 2007</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200704/">April 2007</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200703/">March 2007</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200702/">February 2007</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200701/">January 2007</a>
+						</div>
+					</div><div class="year" onclick="toggle_div('arch-open2')">2006</div><div id="arch-open2" style="display:none;">						<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200612/">December 2006</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200611/">November 2006</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200610/">October 2006</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200609/">September 2006</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200608/">August 2006</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200607/">July 2006</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200606/">June 2006</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200605/">May 2006</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200604/">April 2006</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200603/">March 2006</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200602/">February 2006</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200601/">January 2006</a>
+						</div>
+					</div><div class="year" onclick="toggle_div('arch-open3')">2005</div><div id="arch-open3" style="display:none;">						<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200512/">December 2005</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200511/">November 2005</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.thedesignblog.org/archives/200510/">October 2005</a>
+						</div>
+										</div>
+				</div><!-- EOF archives -->
 				
-<script type="text/javascript"><!--
-var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
-var casaleUU=escape(window.location.href); var casaleHost='.casalemedia.com/';
-var casaleWH='" width="120" height="600" ';
-var casaleFR='marginwidth="0" marginheight="0" frameborder="0" scrolling="no"';
-casaleFR += ' allowtransparency="true">';
-document.write('<ifr'+'ame src="http://as'+casaleHost+'s?s=84760&amp;u='+casaleUU);
-document.write('&amp;f=3&amp;id='+casaleR+casaleWH+casaleFR+'<a hr'+'ef="http://c');
-document.write(casaleHost+'c?s=84760&amp;f=3&amp;id='+casaleR+'" target="_blank">');
-document.write('<i'+'mg src="http://as'+casaleHost+'s?s=84760&amp;u='+casaleUU);
-document.write('&amp;f=3&amp;id='+casaleR+'&amp;if=0'+casaleWH+'border="0"><\/a>');
-document.write('<\/ifr'+'ame>');
-//--></script><iframe src="http://as.casalemedia.com/s?s=84760&amp;u=https%3A//web.archive.org/web/20080630160817id_/http%253A//www.thedesignblog.org/privacy-policy.php&amp;f=3&amp;id=3717205154.0002913" width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"><a href="http://c.casalemedia.com/c?s=84760&amp;f=3&amp;id=3717205154.0002913" target="_blank"><img src="http://as.casalemedia.com/s?s=84760&amp;u=https%3A//web.archive.org/web/20080630160817id_/http%253A//www.thedesignblog.org/privacy-policy.php&amp;f=3&amp;id=3717205154.0002913&amp;if=0" width="120" height="600" border="0"></a></iframe><noscript>
-<iframe src="http://as.casalemedia.com/s?s=84760&u=http%3A%2F%2Fbornrich.org&f=3&id=1"
-width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"
-allowtransparency="true"> 
-<a href="http://c.casalemedia.com/c?s=84760&f=3&id=0" target="_blank"><img
-src="http://as.casalemedia.com/s?s=84760&u=http%3A%2F%2Fbornrich.org&f=3&id=0&if=0" 
-width="120" height="600" border="0" alt=""></a></iframe></noscript>
-<!-- Casale Media 2007 (C) -->
-			</div>
-			<div style="padding:10px;text-align:center;">
-				
-<script language="JavaScript" type="text/javascript">
-		<!--
-		var bordercolor="ffffff";
-		var bgcolor="F7F0E6";
-		var linkcolor="6F2B07";
-		var hovercolor="CF6633";
-		var darkfont="000000";
-		var lightfont="666666";
-		var desctext="000000";
-		var pricefont="000000";
-		var userid="1512";
-		var adtype="multi";
-		var adsize = 21;
-		var fontfamily = "verdana, tahoma";
-		var ttz = 0;
-		var channel = 4862;
-		var keyword= "Appliance, Art, Buildings, Color, Furnitures, Decor, Dining Interiors, Gadgets, Jewelry, Lights, Web";
-		var PID= "";
-		var PID2= "";
-		var PID3= "";
-		var PID4 = "";
-		-->
-		</script>
-		<script src="http://www.ttzmedia.com/affiliate/ttz_ad.js" language="JavaScript"></script>
+				<div class="border"></div>
 
-			</div>
-			
 	</div><!-- EOF inner-sidebar2 -->
 
 </div><!-- EOF inner-sidebars -->
@@ -595,7 +615,190 @@ width="120" height="600" border="0" alt=""></a></iframe></noscript>
 		</div><!-- EOF #content -->
 
 				<div class="clear"> </div>
+
+		<script type="text/javascript">
+			function get_recent_stories(id)
+			{
+				var url = '/show_club_data.php';
+				appear = document.getElementById('channel_data');	
+				var pars = 'selected_value='+id;
+				$(appear).innerHTML = '<center>Loading......</center>';
+				var myAjax = new Ajax.Updater( appear, url, { method: 'post', parameters: pars });
+
+				for(var i=1; i<=9; i++ )
+				{
+					
+					if($('tab' + i).hasClassName('current') == 1)
+					{
+						$('tab' + i).removeClassName('current');
+						$('tab' + i).addClassName('done');
+					}
+					
+				}
+					$('tab'+id).removeClassName('done');
+					$('tab'+id).addClassName('current');
+				
+			}
+
+			function display_class(id, divid, tabid, num)
+			{
+				
+			}
+		</script>
 		
+					<div class="browse-main">
+			<div class="browse-cat">
+				<div class="common-head">Browse by Category</div>			
+								<ul id="network_list">
+				<li id="tab1" class="done" style="cursor:pointer" onclick="get_recent_stories(1)">Business</li><li id="tab2" class="done" style="cursor:pointer" onclick="get_recent_stories(2)">Technology</li><li id="tab3" class="done" style="cursor:pointer" onclick="get_recent_stories(3)">Environment</li><li id="tab4" class="done" style="cursor:pointer" onclick="get_recent_stories(4)">Health &amp; Fitness</li><li id="tab5" class="current" style="cursor:pointer" onclick="get_recent_stories(5)">Lifestyle</li><li id="tab6" class="done" style="cursor:pointer" onclick="get_recent_stories(6)">Entertainment</li><li id="tab7" class="done" style="cursor:pointer" onclick="get_recent_stories(7)">Travel</li><li id="tab8" class="done" style="cursor:pointer" onclick="get_recent_stories(8)">Politics &amp; Society</li><li id="tab9" class="done" style="cursor:pointer" onclick="get_recent_stories(9)">Sports</li>				</ul> 
+			</div><!-- EOF browse cat -->
+
+			<div class="channel-data" id="channel_data">
+				<div class="blog-under" style="height:470px;overflow:scroll">						<span>Blogs under <b><a href="http://www.instablogs.com/lifestyle/">Lifestyle</a></b></span>
+															
+							<div class="blog-name"><a href="http://www.annukapoor.com">Annu Kapoor</a></div>
+																
+							<div class="blog-name"><a href="http://www.beautilicious.org">Beautilicious</a></div>
+																
+							<div class="blog-name"><a href="http://www.bloggingpet.com">Blogging Pet</a></div>
+																
+							<div class="blog-name"><a href="http://www.bodypiercingblog.com">Body Piercing Blog</a></div>
+																
+							<div class="blog-name"><a href="http://www.bornrich.org">Born Rich</a></div>
+																
+							<div class="blog-name"><a href="http://latemag.com/modern">Breathe Modern</a></div>
+																
+							<div class="blog-name"><a href="http://www.coolbuzz.org">Coolbuzz</a></div>
+																
+							<div class="blog-name"><a href="http://www.enflower.org">Enflower</a></div>
+																
+							<div class="blog-name"><a href="http://www.everythingweird.com">Everything Weird</a></div>
+																
+							<div class="blog-name"><a href="http://thefashionbirdcage.com">Fashion Birdcage</a></div>
+																
+							<div class="blog-name"><a href="http://www.foodmall.org">Foodmall</a></div>
+																
+							<div class="blog-name"><a href="http://www.glamkids.org">Glam Kids</a></div>
+																
+							<div class="blog-name"><a href="http://www.hairflair.org">Hair Flair</a></div>
+																
+							<div class="blog-name"><a href="http://www.hometone.org">Hometone</a></div>
+																
+							<div class="blog-name"><a href="http://www.ilovebling.org">I Love Bling</a></div>
+																
+							<div class="blog-name"><a href="http://www.ilovemybaby.org">I love my baby</a></div>
+																
+							<div class="blog-name"><a href="http://www.inthekitchen.org">In the Kitchen</a></div>
+																
+							<div class="blog-name"><a href="http://www.latestbooks.org">Latestbooks</a></div>
+																
+							<div class="blog-name"><a href="http://www.lingeriemagic.org">Lingerie Magic</a></div>
+																
+							<div class="blog-name"><a href="http://www.madaboutbags.org">Mad About Bags</a></div>
+																
+							<div class="blog-name"><a href="http://www.madaboutshoes.org">Mad About Shoes</a></div>
+																
+							<div class="blog-name"><a href="http://www.onahigh.org">On a High</a></div>
+																
+							<div class="blog-name"><a href="http://www.perfumista.net">Perfumista</a></div>
+																
+							<div class="blog-name"><a href="http://www.prasoonjoshi.com">Prasoon Joshi</a></div>
+																
+							<div class="blog-name"><a href="http://www.random-good-stuff.com">Random Good Stuff </a></div>
+																
+							<div class="blog-name"><a href="http://www.shearyadi.com">Shearyadis World</a></div>
+																
+							<div class="blog-name"><a href="http://www.styleguru.org">Style Guru</a></div>
+																
+							<div class="blog-name"><a href="http://www.tattooblog.org">Tattoo blog</a></div>
+																
+							<div class="blog-name"><a href="http://www.thedesignblog.org">The Design blog</a></div>
+																
+							<div class="blog-name"><a href="http://www.uberdandy.com">Uberdandy</a></div>
+																
+							<div class="blog-name"><a href="http://www.ubereyes.org">Ubereyes</a></div>
+																
+							<div class="blog-name"><a href="http://www.wedlog.org">Wed log</a></div>
+																
+							<div class="blog-name"><a href="http://www.womenlifestyle.com">Women Life Style</a></div>
+																
+							<div class="blog-name"><a href="http://www.yummydesserts.org">Yummy Desserts</a></div>
+							</div><div class="blog-data"><div class="single-story">								<div class="r-img">
+									<a href="http://www.ilovemybaby.org/entry/another-not-so-great-baby-security-monitor-set/"><img src="http://www.instablogsimages.com/images/2008/12/16/baby-security-monitor-with-wireless-pan-and-tilt-control-450x216_bzYDF_20137_160x120.jpg"></a>
+								</div>
+
+								<div class="r-title1">
+									<a href="http://www.ilovemybaby.org/entry/another-not-so-great-baby-security-monitor-set/">Another not so great ‘baby security monitor set’</a>
+								</div>
+
+								<div class="r-desc">
+									
+
+Here’s another baby monitor at the rescue of all the worried parents. This one features a wireless camera and a receiver. All you need to get going with this gadget is install the camera in the room where your baby is sleeping, while the receiver...								</div>
+							
+						</div><!-- EOF single-story -->
+						<div class="clear"></div>
+						<div class="single-story">								<div class="r-img">
+									<a href="http://www.thedesignblog.org/entry/shorty-sporty-sustainable-car-delivers-performance-and-power-too/"><img src="http://www.instablogsimages.com/images/2008/12/16/shorty-sporty_001_poWe7_17621_160x120.jpg"></a>
+								</div>
+
+								<div class="r-title1">
+									<a href="http://www.thedesignblog.org/entry/shorty-sporty-sustainable-car-delivers-performance-and-power-too/">Shorty &amp; Sporty: Sustainable car delivers performance and power too</a>
+								</div>
+
+								<div class="r-desc">
+									
+
+In recent times, we have seen some of the most compact vehicle designs; however, the Shorty &amp; Sporty by Raul Frolla is an electric car with difference. The compact car not just boasts a forceful design, but it is functionally aesthetic too. The...								</div>
+							
+						</div><!-- EOF single-story -->
+						<div class="clear"></div>
+						<div class="single-story">								<div class="r-img">
+									<a href="http://www.bornrich.org/entry/gifts-for-pets/"><img src="http://www.instablogsimages.com/images/2008/12/16/hepper-bed_lux7R_48_160x120.jpg"></a>
+								</div>
+
+								<div class="r-title1">
+									<a href="http://www.bornrich.org/entry/gifts-for-pets/">Gifts for Pets</a>
+								</div>
+
+								<div class="r-desc">
+									There is absolutely no reason that Fido and Fluffy can’t get in on the festivities this holiday season. Pets really are a member of the family and this year they're more likely to get gifts than the relatives. Gift hunting for your furry friends could...								</div>
+							
+						</div><!-- EOF single-story -->
+						<div class="clear"></div>
+						<div class="single-story">								<div class="r-img">
+									<a href="http://www.coolbuzz.org/entry/leather-keyboard-comfort-for-price/"><img src="http://www.instablogsimages.com/images/2008/12/16/leather-keyboard_w5Yr1_6648_160x120.jpg"></a>
+								</div>
+
+								<div class="r-title1">
+									<a href="http://www.coolbuzz.org/entry/leather-keyboard-comfort-for-price/">Leather keyboard – Comfort for a price!</a>
+								</div>
+
+								<div class="r-desc">
+									
+
+Since keyboard(s) being the most used input source in a computer system, they ought to be beautiful and comfortable at the same time. The one I’m talking about is a beautifully comfortable Gokukawa leather keyboard that might just burn holes trough...								</div>
+							
+						</div><!-- EOF single-story -->
+						<div class="clear"></div>
+						<div class="single-story">								<div class="r-img">
+									<a href="http://www.tattooblog.org/entry/poetry-tattoo-god-is-always-with-you/"><img src="http://www.instablogsimages.com/images/2008/12/16/poem_PhigW_1822_160x120.jpg"></a>
+								</div>
+
+								<div class="r-title1">
+									<a href="http://www.tattooblog.org/entry/poetry-tattoo-god-is-always-with-you/">Poetry tattoo: God is always with you….</a>
+								</div>
+
+								<div class="r-desc">
+									
+
+Surely, you all have read the famous inspirational poem ‘Fingerprints’. I bet you read it in a book or on some poster, right? How about reading it now on a human body? Yups, a tattoo fanatic got so inspired with the poem that he got it inked on...								</div>
+							
+						</div><!-- EOF single-story -->
+						<div class="clear"></div>
+						</div>			</div><!-- EOF channel-data-->
+		</div><!-- EOF browse-main-->
+		<div class="clear"></div>		
 		<div id="ad-footer">
 			
 		</div><!-- EOF #ad-footer -->
@@ -605,9 +808,9 @@ width="120" height="600" border="0" alt=""></a></iframe></noscript>
 			<div id="footer-main">
 				
 				<div class="publish">Published by The <a href="http://www.instablogs.com/">Instablogs Network</a>, <a href="http://www.citizenmedia.org">Citizen Media Pvt. Ltd.</a></div>
-				<div class="copyright">Copyright � Instablogs Network 2005. All rights reserved.</div>
+				<div class="copyright">Copyright © Instablogs Network 2005. All rights reserved.</div>
 				<div class="footer-links">
-				<a href="/contact-us.php?q=advertise">Advertising</a>  |  <a href="/about-us.php">About</a> |  <a href="/disclaimer.php">Disclaimer</a> | <a href="/privacy-policy.php">Privacy Policy</a> | <a href="/terms-of-use.php">Terms of Use</a> | <a href="/contact-us.php?q=general">Contact</a>
+				<a href="http://www.instablogs.com/ad_solutions.php?b=25">Advertising</a>  |  <a href="/about-us.php">About</a> |  <a href="/disclaimer.php">Disclaimer</a> | <a href="/privacy-policy.php">Privacy Policy</a> | <a href="/terms-of-use.php">Terms of Use</a> | <a href="/contact-us.php?q=general">Contact</a>
 				</div>
 			</div><!-- EOF #footer-main -->
 		</div><!-- EOF #footer -->
@@ -640,6 +843,15 @@ var sc_remove_link=1;
 	</div> <!-- EOF #container -->
   
 
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-601944-7");
+	pageTracker._trackPageview();
+	</script>
+
 		<!-- Start of StatCounter Code -->
 		<script type="text/javascript">
 		sc_project=3554791; 
@@ -651,4 +863,24 @@ var sc_remove_link=1;
 
 		<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><img class="statcounter" src="http://c40.statcounter.com/3554791/0/3a8f7447/1/" alt="counter free hit invisible" ></div></noscript>
 		<!-- End of StatCounter Code -->
-	</body></html>
+	
+<!-- Lifestyle Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5515876-12");
+pageTracker._trackPageview();
+</script>
+
+<!-- Instablogs Network Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-601944-10");
+pageTracker._trackPageview();
+</script>
+</body></html>
