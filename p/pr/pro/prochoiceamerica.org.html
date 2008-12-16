@@ -1,19 +1,27 @@
-<!--The following is the downloaded HTML source of the prochoiceamerica.org privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609024638id_/http%3A//www.prochoiceamerica.org/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prochoiceamerica.org privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216164511id_/http%3A//www.prochoiceamerica.org/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+
 <meta name="generator" content="Convio CMS"> 
 <script language="JavaScript" type="text/javascript" src="/components/print/printer-friendly.js"></script>
+
+
+
+<!-- Convio CRM JS library -->
+<script src="http://action.prochoiceamerica.org/site/../js/utils.js"></script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>NARAL Pro-Choice America's Online Privacy Policy</title>
 <script type="text/javascript" src="http://static.robotreplay.com/nitobi.replay.js"></script>
-<link href="/assets/css/primary.css" rel="stylesheet" type="text/css">
-<link rel="alternate stylesheet" type="text/css" href="/assets/css/large.css" title="A++" disabled="">
-<link rel="alternate stylesheet" type="text/css" href="/assets/css/medium.css" title="A+" disabled="">
-<link rel="alternate stylesheet" type="text/css" href="/assets/css/small.css" title="A" disabled="">
-<link rel="alternate stylesheet" type="text/css" href="/assets/css/x-small.css" title="A-">
-<link rel="alternate stylesheet" type="text/css" href="/assets/css/xx-small.css" title="A--" disabled="">
+<link href="http://www.prochoiceamerica.org/assets/css/primary.css" rel="stylesheet" type="text/css">
+<link rel="alternate stylesheet" type="text/css" href="http://www.prochoiceamerica.org/assets/css/large.css" title="A++" disabled="">
+<link rel="alternate stylesheet" type="text/css" href="http://www.prochoiceamerica.org/assets/css/medium.css" title="A+" disabled="">
+<link rel="alternate stylesheet" type="text/css" href="http://www.prochoiceamerica.org/assets/css/small.css" title="A" disabled="">
+<link rel="alternate stylesheet" type="text/css" href="http://www.prochoiceamerica.org/assets/css/x-small.css" title="A-">
+<link rel="alternate stylesheet" type="text/css" href="http://www.prochoiceamerica.org/assets/css/xx-small.css" title="A--" disabled="">
 <script language="javascript">
 //select image based on random number
 ipBannerPhoto = Math.round((Math.random() * 4 + 0.5)); //for 4 images
@@ -577,7 +585,7 @@ dcsTag();
         <tbody><tr>
           <td align="left"><a href="http://www.prochoiceamerica.org/"><img src="http://www.prochoiceamerica.org/assets/wrapper-graphics/hp_naral_logo.gif" alt="NARAL Pro-Choice America" width="251" height="96" border="0"></a></td>
           <td align="right" valign="top"><!-- BEGIN RANDOM LOAD IMAGE -->
-          <script language="javascript">document.write("<img src=\"/assets/wrapper-graphics/ip_brandphoto" + ipBannerPhoto + ".jpg\" alt=\"\" width=\"519\" height=\"96\" />");</script><img src="/assets/wrapper-graphics/ip_brandphoto4.jpg" alt="" width="519" height="96">
+          <script language="javascript">document.write("<img src=\"/assets/wrapper-graphics/ip_brandphoto" + ipBannerPhoto + ".jpg\" alt=\"\" width=\"519\" height=\"96\" />");</script><img src="/assets/wrapper-graphics/ip_brandphoto2.jpg" alt="" width="519" height="96">
             <!-- BEGIN RANDOM LOAD IMAGE --></td>
         </tr>
       </tbody></table>
@@ -614,14 +622,13 @@ dcsTag();
 
 
 
-
-
 <style>
   
 </style>
 
 <div id="contentDiv">
-
+  <script src="/components/form/form.js"></script>
+  <script src="/components/cookie/cookie.js"></script>
 <table border="0" width="100%" cellpadding="15" cellspacing="0"><tbody><tr><td>
 <h4><span>NARAL Pro-Choice America's Online Privacy Policy</span></h4>
 <p>At NARAL Pro-Choice America, the NARAL Pro-Choice America Foundation and NARAL Pro-Choice America PAC, we are committed to protecting your privacy online. Our privacy policy explains the information practices NARAL Pro-Choice America uses related to: </p>
@@ -658,21 +665,22 @@ dcsTag();
 
 
 
-
-
-
 <script>
   
   document.write("<iframe id='tracker' name='tracker' style='border:0 none;width:1px;height:1px' src='/system/blank.html'></iframe>");
-          
 
   var loadSessionTracker = function() { 
 
     var now = new Date();
     var millis = Date.parse(now);
+    var url = "http://www.prochoiceamerica.org/system/auth/tracker.jsp?nocache=" + millis;
 
-    document.getElementById("tracker").src = 
-      "/system/auth/tracker.jsp?nocache=" + millis;
+    var frame = document.getElementById("tracker");
+    try {
+      frame.contentWindow.document.location.replace(url);
+    } catch (e) {
+      // do not cause a js error if this doesn't work
+    }
   } 
   
   if (window.attachEvent) {
@@ -681,8 +689,7 @@ dcsTag();
     window.addEventListener("load", loadSessionTracker, false);
   }
 
-</script><iframe id="tracker" name="tracker" style="border:0 none;width:1px;height:1px" src="/system/auth/tracker.jsp?nocache=1580383733000"></iframe>
-
+</script><iframe id="tracker" name="tracker" style="border:0 none;width:1px;height:1px" src="/system/blank.html"></iframe>
 
 
 
@@ -690,8 +697,40 @@ dcsTag();
 
 
 
+<script src="https://cmsadmin30.convio.net/system/auth/author-toolbar.jsp?hostID=527831"></script>
+<script>
+if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
+
+if (! CONVIO.page) { CONVIO.page = {}; }
+
+CONVIO.page.folderID = '527833';
+CONVIO.page.hostID = '527831';
+CONVIO.page.adminURL = 'https://cmsadmin30.convio.net';
 
 
+CONVIO.page.navFolderID = '527833';
+CONVIO.page.navFolderTitle = 'www.prochoiceamerica.org';
+
+
+
+CONVIO.page.draftID = '550045';
+CONVIO.page.hasForm = false;
+
+
+
+CONVIO.page.typeID = '528935';
+CONVIO.page.typeLabel = 'Web Page';
+
+
+
+CONVIO.page.hasEditorStep = true;
+
+
+if (! CONVIO.user) { CONVIO.user = {}; }
+CONVIO.user.isAnonymous = 'true';
+</script>
+
+<script src="/components/floatbar/floatbar.js"></script>
 
 
 	
