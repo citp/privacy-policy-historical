@@ -1,25 +1,23 @@
-> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2008-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080316041825id_/http%3A//www2.rosie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160409id_/http%3A//www.rosie.com/privacy.aspx) for the most accurate reproduction.*
 
 # rosie.com » privacy policy
-
-### [privacy policy](http://www.rosie.com/blog/privacy/ "Permanent Link to privacy policy")
 
 **Last updated: February 4, 2008**
 
 At Rosie.com, we are committed to protecting your online privacy and the security of the information that you might provide to us. Please read this privacy policy (“Privacy Policy”) carefully. By using the Rosie.com Web site you signify your agreement with the Privacy Policy. If you do not agree with the Privacy Policy please do not use Rosie.com or any portion of it. As used in this Privacy Policy, “Rosie.com” refers to the Rosie.com Web site or its owner KidRo Productions, Inc. This Privacy Policy explains our practices related to:
 
-  1. What information we collect; 
-  2. How we may use and share the information you provide at rosie.com; 
-  3. How to unsubscribe;
-  4. Information posted to public areas of Rosie.com; 
-  5. How we protect your information; 
-  6. Children under the age of 13; 
-  7. Links to other sites;
-  8. Rosie’s Shop;
-  9. Correcting your information;
-  10. Contacting us about privacy questions;
-  11. Changes to our privacy policy
-  12. Information provided by international users
+  * 1\. What information we collect; 
+  * 2\. How we may use and share the information you provide at rosie.com; 
+  * 3\. How to unsubscribe;
+  * 4\. Information posted to public areas of Rosie.com;
+  * 5\. How we protect your information;
+  * 6\. Children under the age of 13;
+  * 7\. Links to other sites;
+  * 8\. Rosie’s Shop;
+  * 9\. Correcting your information;
+  * 10\. Contacting us about privacy questions;
+  * 11\. Changes to our privacy policy
+  * 12\. Information provided by international users
 
 
 
@@ -27,12 +25,9 @@ At Rosie.com, we are committed to protecting your online privacy and the securit
 
 It is not necessary to provide any personal information to view Rosie.com.
 
-It is not necessary to provide any personal information to view Rosie.com.  
-For all Rosie.com visitors, however, we may log IP addresses (or the location of your computer network on the Internet) for systems administration and troubleshooting purposes. We also may use IP addresses to track referring/exit pages and which pages people visit in order to improve the quality of Rosie.com. However, we do not use this data to develop profiles of individual visitors to Rosie.com. 
+For all Rosie.com visitors, however, we may log IP addresses (or the location of your computer network on the Internet) for systems administration and troubleshooting purposes. We also may use IP addresses to track referring/exit pages and which pages people visit in order to improve the quality of Rosie.com. However, we do not use this data to develop profiles of individual visitors to Rosie.com. Rosie.com uses cookies to enhance functionality of the site and to aggregate and analyze traffic data such as total number of visitors, pages viewed, etc. You do not have to accept cookies as all major browsers allow you to block cookies from your computer, and you can always delete them later. Rosie.com may also use "Web beacons" to track your behavior on the site. Web beacons are small pieces of data that may be embedded in images on Rosie.com. Blocking cookies will prevent Web beacons from tracking your activity and also prevent us from collecting certain other anonymous unique information such as your IP address, but the Web beacon will still account for an anonymous visit. Many advertisements are managed and placed on Rosie.com by third parties ("Network Advertisers"). Network Advertisers who place advertisements on Rosie.com may also use cookies and Web beacons to collect non-personally identifiable information about your visits to Rosie.com and other Web sites in order to provide advertisements about goods and services of interest to you. You can find more information about this practice and your choices concerning these practices at [http://networkadvertising.org/managing/opt_out.asp.](http://networkadvertising.org/managing/opt_out.asp)
 
-Rosie.com uses cookies to enhance functionality of the site and to aggregate and analyze traffic data such as total number of visitors, pages viewed, etc. You do not have to accept cookies as all major browsers allow you to block cookies from your computer, and you can always delete them later. Rosie.com may also use “Web beacons” to track your behavior on the site. Web beacons are small pieces of data that may be embedded in images on Rosie.com. Blocking cookies will prevent Web beacons from tracking your activity and also prevent us from collecting certain other anonymous unique information such as your IP address, but the Web beacon will still account for an anonymous visit.
-
-Many advertisements are managed and placed on Rosie.com by third parties (“Network Advertisers”). Network Advertisers who place advertisements on Rosie.com may also use cookies and Web beacons to collect non-personally identifiable information about your visits to Rosie.com and other Web sites in order to provide advertisements about goods and services of interest to you. You can find more information about this practice and your choices concerning these practices at [http://networkadvertising.org/managing/opt_out.asp.](http://networkadvertising.org/managing/opt_out.asp) Finally, please keep in mind that if you click on an advertisement on Rosie.com and link to a third party’s Web site, then our Privacy Policy will not apply to your personally identifiable information collected on that third party’s Web site. You must read the privacy policy posted on that site to see how your personally identifiable information will be gathered and used.
+Finally, please keep in mind that if you click on an advertisement on Rosie.com and link to a third party’s Web site, then our Privacy Policy will not apply to your personally identifiable information collected on that third party’s Web site. You must read the privacy policy posted on that site to see how your personally identifiable information will be gathered and used.
 
 **2\. How we may use and share the information you provide at rosie.com**
 
@@ -54,21 +49,21 @@ We provide you the opportunity to opt-out of receiving communications from us ea
 
 **4\. Information posted to public areas of Rosie.com**
 
-Please keep in mind that whenever you decide to ask a question in the “Ask Ro” or “Crafty U” question forums (or any other public forums on Rosie.com), post a picture in the photo albums under “ur photos” or post any other content on the public areas of Rosie.com, you are voluntarily and publicly disclosing any personal information contained in your question, post or content. Any such information can be collected and used by other visitors to Rosie.com and you may receive unsolicited communications as a result. We cannot control which visitors will access such information or what they may do with such information, so please be careful about what you post. Any content that is posted on Rosie.com by you or at your direction becomes publicly available published content and is not subject to the terms of this Privacy Policy. 
+Please keep in mind that whenever you decide to ask a question in the "Ask Ro" or "Crafty U" question forums (or any other public forums on Rosie.com), post a picture in the photo albums under “ur photos” or post any other content on the public areas of Rosie.com, you are voluntarily and publicly disclosing any personal information contained in your question, post or content. Any such information can be collected and used by other visitors to Rosie.com and you may receive unsolicited communications as a result. We cannot control which visitors will access such information or what they may do with such information, so please be careful about what you post. Any content that is posted on Rosie.com by you or at your direction becomes publicly available published content and is not subject to the terms of this Privacy Policy.
 
 **5\. How we protect your information**
 
-Rosie.com has technical, physical and administrative security measures in place designed to protect against the loss, misuse or alteration of the information you provide to us (other than in public areas of Rosie.com). From time to time, we review our security procedures in order to consider appropriate new technology and methods to protect the information you provide to us. However, despite our reasonable efforts, no security measures are perfect or impenetrable. We cannot and do not guarantee that the information you provide to us will not be viewed by unauthorized persons. 
+Rosie.com has technical, physical and administrative security measures in place designed to protect against the loss, misuse or alteration of the information you provide to us (other than in public areas of Rosie.com). From time to time, we review our security procedures in order to consider appropriate new technology and methods to protect the information you provide to us. However, despite our reasonable efforts, no security measures are perfect or impenetrable. We cannot and do not guarantee that the information you provide to us will not be viewed by unauthorized persons.
 
-Also, remember that steps you take to help protect the privacy of your personal information (such as logging off Rosie.com after viewing or submitting personal information) are equally important. If you have broadband access to the Internet, it is strongly advised that you use a firewall when accessing the Internet. 
+Also, remember that steps you take to help protect the privacy of your personal information (such as logging off Rosie.com after viewing or submitting personal information) are equally important. If you have broadband access to the Internet, it is strongly advised that you use a firewall when accessing the Internet.
 
 **6\. Children under the age of 13**
 
-We do not knowingly collect or solicit personally identifiable information from children under the age of 13, nor is any part of Rosie.com designed to attract anyone under the age of 13. If you are under 13 years of age, please do not use Rosie.com. There are lots of other great Web sites for you. Talk to your parents about what sites are appropriate for you. 
+We do not knowingly collect or solicit personally identifiable information from children under the age of 13, nor is any part of Rosie.com designed to attract anyone under the age of 13. If you are under 13 years of age, please do not use Rosie.com. There are lots of other great Web sites for you. Talk to your parents about what sites are appropriate for you.
 
 **7\. Linking to other sites**
 
-Rosie.com links to a number of other Web sites. This Privacy Policy only applies to information collected by us at Rosie.com. Rosie.com is not responsible for the content or the privacy policies or practices of any other Web site available through links on Rosie.com. Before providing personal information to any linked Web site, please check that Web site’s privacy policy and practices, which are completely separate from and unrelated to this Privacy Policy and the privacy practices of Rosie.com. 
+Rosie.com links to a number of other Web sites. This Privacy Policy only applies to information collected by us at Rosie.com. Rosie.com is not responsible for the content or the privacy policies or practices of any other Web site available through links on Rosie.com. Before providing personal information to any linked Web site, please check that Web site’s privacy policy and practices, which are completely separate from and unrelated to this Privacy Policy and the privacy practices of Rosie.com.
 
 **8\. Rosie’s Shop**
 
@@ -82,14 +77,13 @@ If you need to change your e-mail address, you can unsubscribe from our mailing 
 **10\. Contacting us about privacy questions  
 **
 
-If you have any questions about our Privacy Policy, the information we have collected from you online, or the privacy practices of, or your interactions with, Rosie.com, please send an e-mail to [webmaster@rosie.com](mailto:webmaster@rosie.com). 
+If you have any questions about our Privacy Policy, the information we have collected from you online, or the privacy practices of, or your interactions with, Rosie.com, please send an e-mail to [webmaster@rosie.com](mailto:webmaster@rosie.com).
 
-You can also reach us via regular mail at: 
-
+You can also reach us via regular mail at:  
 KidRo Productions, Inc.  
 Attn: Webmaster  
 P.O. Box 1002  
-New York, NY 10108
+New York, NY 10108 
 
 **11\. Changes to our Privacy Policy  
 **
@@ -98,4 +92,4 @@ We reserve the right, at our discretion, to update or revise this Privacy Policy
 
 **12\. Information provided by international users**
 
-We make no representation or warranties that this Privacy Policy is in compliance with the privacy or data protection laws or regulations of any country from which you access or use Rosie.com. Accessing this site from territories where the site contents are illegal is strictly prohibited. By your use of this Web site, you consent to our collection, use and disclosure of your personal information consistent with the terms of this Privacy Policy, including transfer of your personal information to any location (including a country other than the country from which you access or use the Web site) at which our servers and/or databases may be currently located or relocated, or relocated to. Those who choose to access Rosie.com from locations outside the United States do so at their own risk and at their discretion, and are responsible for compliance with all local laws. 
+We make no representation or warranties that this Privacy Policy is in compliance with the privacy or data protection laws or regulations of any country from which you access or use Rosie.com. Accessing this site from territories where the site contents are illegal is strictly prohibited. By your use of this Web site, you consent to our collection, use and disclosure of your personal information consistent with the terms of this Privacy Policy, including transfer of your personal information to any location (including a country other than the country from which you access or use the Web site) at which our servers and/or databases may be currently located or relocated, or relocated to. Those who choose to access Rosie.com from locations outside the United States do so at their own risk and at their discretion, and are responsible for compliance with all local laws.
