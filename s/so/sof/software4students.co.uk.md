@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the software4students.co.uk privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618180728id_/http%3A//www.software4students.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the software4students.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061851id_/http%3A//www.software4students.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice | Student discounted software | Discounted Microsoft Office for Students
+
+| 
 
 ### **PRIVACY AND CONFIDENTIALITY STATEMENT**
 
@@ -28,4 +30,6 @@ We have tried to anticipate any queries you may have in relation to the area of 
 
 #### **FEEDBACK**
 
-If you want to express a view directly to Software4Students then please email us at [ info@Software4Students.co.uk ](mailto:info@software4students.co.uk)
+If you want to express a view directly to Software4Students then please email us at [ info@Software4Students.co.uk ](mailto:info@software4students.co.uk)  
+  
+---|---
