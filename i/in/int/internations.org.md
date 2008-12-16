@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internations.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011120843id_/http%3A//www.internations.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internations.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011207id_/http%3A//www.internations.org/about/privacy) for the most accurate reproduction.*
 
 # InterNations - the Community for Expatriates and Global Minds
 
@@ -14,7 +14,7 @@ This Privacy Policy supplements the General Terms and Conditions for using [www.
 
 This Privacy Policy is designed to help you better understand how InterNations collects and deals with your personal data and information. 
 
-If you have any questions or comments regarding this Privacy Policy, please contact InterNations by using the contact form available on each InterNationsWebsite under “Contact”, or by sending a fax or letter to InterNations GmbH, Bayerstrasse 21, 80335 München, Germany. 
+If you have any questions or comments regarding this Privacy Policy, please contact InterNations by using the contact form available on each InterNationsWebsite under “Contact”, or by sending a fax or letter to InterNations GmbH, Schwanthalerstrasse 39, 80336 München, Germany. 
 
 By registering to use the InterNationsWebsites, the User consents to the practices described in the following Privacy Policy. 
 
