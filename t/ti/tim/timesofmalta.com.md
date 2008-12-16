@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesofmalta.com privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113065314id_/http%3A//www.timesofmalta.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesofmalta.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021832id_/http%3A//www.timesofmalta.com/pages/privacy) for the most accurate reproduction.*
 
 # timesofmalta.com - Privacy
 
