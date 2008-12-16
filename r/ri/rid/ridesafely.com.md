@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ridesafely.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220023508id_/http%3A//www.ridesafely.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridesafely.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011736id_/http%3A//www.ridesafely.com/Privacy.asp) for the most accurate reproduction.*
 
 # SALVAGE CARS AND MOTORCYCLES
 
@@ -76,7 +76,4 @@ Your information is stored on RideSafely.com’s servers which are located in th
 
 We may amend this Privacy Policy at any time by posting the amend terms on the Site. All amended terms shall automatically be effective immediately after they are initially posted on the Site. 
 
-|  |  **Contact Us Live with:     **  
-[](aim:GoIM?screenname=ridesafelycsr)   
-  
----|---
+| 
