@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the predictad.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628224657id_/http%3A//www.predictad.com/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictad.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035756id_/http%3A//www.predictad.com/general/privacy.aspx) for the most accurate reproduction.*
 
 # PredictAd - Privacy Policy
 
+**PredictAd Privacy Policy Highlights**  
 May 14, 2007
 
 We recognize the importance of privacy. This document outlines the types of personal information we receive and collect when you use PredictAd's services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
@@ -42,5 +43,3 @@ Privacy Matters
 SimplyGen Ltd.  
 P.O. 3030  
 Ra'anana, Israel
-
-Close window
