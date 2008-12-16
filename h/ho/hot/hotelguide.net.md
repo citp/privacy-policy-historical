@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelguide.net privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516053248id_/http%3A//metroguide-inc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelguide.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011318id_/http%3A//metroguide-inc.com/privacy.html) for the most accurate reproduction.*
 
 # MetroGuide Privacy Policy
 
@@ -67,8 +67,8 @@ If you have any questions or concerns about this privacy policy, our practices, 
 You can also send us mail at:  
 MetroGuide.com, Inc.  
 c/o Legal Department  
-3990 Sheridan Street, Suite 107  
-Hollywood, FL 33021. 
+12717 West Sunrise Blvd., Suite #264  
+Fort Lauderdale, FL 33323. 
 
 The effective date of this **Privacy Policy** is January 8, 2007. 
 
