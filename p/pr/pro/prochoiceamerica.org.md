@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prochoiceamerica.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609024638id_/http%3A//www.prochoiceamerica.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prochoiceamerica.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164511id_/http%3A//www.prochoiceamerica.org/privacy-policy.html) for the most accurate reproduction.*
 
 # NARAL Pro-Choice America's Online Privacy Policy
 
