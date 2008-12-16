@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the muecs.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607055412id_/http%3A//www.muecs.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muecs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024011id_/http%3A//www.muecs.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Muecs - Privacy Policy
-
-###  Muecs Privacy Policy 
-
-  
-
+# Muecs | Privacy Policy
 
 Muecs is committed to the privacy of the users of our website and services, and we will not provide any information about you to any third-party, except in aggregate form. We will not provide user emails to any third party unless required to do so by law. 
 
@@ -28,7 +23,7 @@ Keeping Your Account Information Secure
 
 Conditions of Use
 
-If you decide to visit Muecs website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/web/20080607055412id_/http%3A//www.muecs.com/TOS.aspx), including limitations on damages, arbitration of disputes, and application of China, Hong Kong law. 
+If you decide to visit Muecs website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/web/20081216024011id_/http%3A//www.muecs.com/TOS.aspx), including limitations on damages, arbitration of disputes, and application of China, Hong Kong law. 
 
 Changes to this Privacy Policy
 
@@ -37,6 +32,3 @@ Muecs may amend this Privacy Policy from time to time, at its sole discretion. U
 Effective Date of this Privacy Policy
 
 This Privacy Policy is effective as of May 12, 2008 and last updated May 12, 2008. 
-
-  
-
