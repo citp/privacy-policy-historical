@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alloy.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628064651id_/http%3A//store.alloy.com/content/help/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloy.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163847id_/http%3A//store.alloy.com/content/help/jsp/privacy.jsp) for the most accurate reproduction.*
 
 # Alloy.com
 
 **PRIVACY POLICY**
 
- **Disclosure Regarding Collection and Use of Personal Information.**
+**Disclosure Regarding Collection and Use of Personal Information.**
 
 Thank you for visiting alloy.com. This notice explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information. 
 
@@ -14,7 +14,7 @@ REMEMBER IF YOU REGISTER WITH ALLOY.COM, PARTICIPATE IN A SURVEY, PURCHASE SOMET
 
 **The Information We Collect.**
 
-At alloy.com you can do a variety of things! You may be able to order products, enter contests, participate in surveys, vote in polls, subscribe to a service (like our ezine) or participate in a chat room. The types of personally identifiable information (i.e. information that can directly identify you or indicate where you might be contacted) that may be collected at these pages includes: name, address, age, date of birth, sex, grade level, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs and services. You can view or change your information at any time. [Click here](https://web.archive.org/account/account.do) to edit your profile or send an email to [myinfo@alloy.com](mailto:myinfo@alloy.com). 
+At alloy.com you can do a variety of things! You may be able to order products, enter contests, participate in surveys, vote in polls, subscribe to a service (like our ezine) or participate in a chat room. The types of personally identifiable information (i.e. information that can directly identify you or indicate where you might be contacted) that may be collected at these pages includes: name, address, age, date of birth, sex, grade level, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs and services. You can view or change your information at any time. [Click here](https://web.archive.org/account/account.do;jsessionid=3EE6F952A15B55C815E7F4F754E7F581.worker4) to edit your profile or send an email to [myinfo@alloy.com](mailto:myinfo@alloy.com)
 
 Sometimes you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to a friend, you might submit the friend's name and address. The types of personally identifiable information that may be collected about other people at these pages may include: recipient's name, address, age, date of birth, grade level, e-mail address, sex and telephone number. 
 
@@ -22,7 +22,7 @@ We also may collect certain non-personally identifiable information (i.e. generi
 
 **How We Use and Disclose the Information.**
 
-We will use the personal information you provide online for the purpose(s) you have submitted. Examples of us using your personal information for the purpose(s) submitted include if you order a catalog, we will send to you a catalog in the mail or, if you have won a contest, sending to you an email notification that you have won. In addition, we may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. For example, we may send to you an e-mail regarding special merchandise offers and announcements about products or services we offer. We may also contact you offline. For example, when you provide your mailing address, we may send to you in the mail special offers, promotions and catalogs, which we think may be of interest to you. If you want us to stop using the personal information you provided in these ways, please go to [Edit My Profile](https://web.archive.org/account/account.do) at ALLOY.COM or contact us at [myinfo@alloy.com](mailto:myinfo@alloy.com). 
+We will use the personal information you provide online for the purpose(s) you have submitted. Examples of us using your personal information for the purpose(s) submitted include if you order a catalog, we will send to you a catalog in the mail or, if you have won a contest, sending to you an email notification that you have won. In addition, we may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. For example, we may send to you an e-mail regarding special merchandise offers and announcements about products or services we offer. We may also contact you offline. For example, when you provide your mailing address, we may send to you in the mail special offers, promotions and catalogs, which we think may be of interest to you. If you want us to stop using the personal information you provided in these ways, please go to Edit My Profile at ALLOY.COM or contact us at [myinfo@alloy.com](mailto:myinfo@alloy.com). 
 
 **How We Share Your Personal Information.**
 
@@ -32,7 +32,7 @@ Examples of us sharing your personal information for the purposes submitted are 
 
 We will seek to obtain your consent at the place where the information is collected either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). 
 
-Additionally, with your consent, we may share certain of the personal information you provide online with companies not affiliated with us (i.e. third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. Such companies may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers. If you want us to stop sharing your personal information with these companies, please go to [Edit My Profile](https://web.archive.org/account/account.do) at ALLOY.COM or contact us at [myinfo@alloy.com](mailto:myinfo@alloy.com) If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions may not be exchanged between us and non-affiliated companies. 
+Additionally, with your consent, we may share certain of the personal information you provide online with companies not affiliated with us (i.e. third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. Such companies may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers. If you want us to stop sharing your personal information with these companies, please go to Edit My Profile at ALLOY.COM or contact us at [myinfo@alloy.com](mailto:myinfo@alloy.com) If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions may not be exchanged between us and non-affiliated companies. 
 
 If we do share personal information to a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your personal information. 
 
@@ -54,7 +54,7 @@ We use cookies as a convenience feature to save you time, to understand how our 
 
 **Clickstream Data.**
 
-As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as "clickstream data," can be collected and stored by a web site's server. Clickstream data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to alloy.com. We may use clickstream data as a form of non-personally identifiable information to anonymously determine how much time visitors spend on each page of alloy.com, how visitors navigate throughout the site and how we may tailor our web pages to better meet the needs of visitors. This information will only be used to improve our site. Any collection or use of clickstream data will be anonymous and aggregate. 
+As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as "clickstream data," can be collected and stored by a web site's server. Clickstream data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to alloy.com. We may use clickstream data to help enhance your experience on our site, including making recommendations we believe may be of interest to you. We may also use clickstream data as a form of non-personally identifiable information to anonymously determine how much time visitors spend on each page of alloy.com, how visitors navigate throughout the site and how we may tailor our web pages to better meet the needs of visitors. This information will only be used to improve our site. 
 
 **Supplementing Information.**
 
@@ -74,7 +74,7 @@ If you are visiting alloy.com from a location outside of the United States, your
 
 **How You Can Access or Correct Your Personal Information.**
 
-For instructions on how you can access the personally identifiable information that we have collected about you online, or how to correct any errors in such information, please go to [Edit My Profile](https://web.archive.org/account/account.do) at ALLOY.COM or send an e-mail to [myinfo@alloy.com](mailto:myinfo@alloy.com). 
+For instructions on how you can access the personally identifiable information that we have collected about you online, or how to correct any errors in such information, please go to Edit My Profile at ALLOY.COM or send an e-mail to [myinfo@alloy.com](mailto:myinfo@alloy.com). 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
@@ -92,11 +92,9 @@ The personal information you provide is considered a company asset and may be in
 
 **Changes to this Policy.**
 
-If you choose to visit alloy.com, your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](http://www.alloy.com/termsofuse/), including limitations on damages, arbitration of disputes, and application of the law of the state of New York. If you have any concern about privacy at alloy.com, please contact us at [myinfo@alloy.com](mailto:myinfo@alloy.com) with a thorough description, and we will try to resolve it. 
+If you choose to visit alloy.com, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of New York. If you have any concern about privacy at alloy.com, please contact us at [myinfo@alloy.com](mailto:myinfo@alloy.com) with a thorough description, and we will try to resolve it. 
 
-Our business changes constantly, and our privacy policy and the Terms of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you. 
-
-This policy is effective as of December 21, 2005. 
+Our business changes constantly, and our privacy policy and the Terms of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you. This policy is effective as of December 21, 2005. 
 
 **How to Contact Us.**
 
@@ -105,16 +103,15 @@ The information you provide pursuant to this privacy policy is jointly owned by 
 Alloy, Inc.   
 151 W. 26th Street, 11th Floor   
 New York, NY 10001   
-Attn: Privacy 
-
-Telephone: (212) 244-4307   
+Attn: Privacy   
+Telephone: (212) 244-4307  
 Facsimile: (212) 244-4311 
 
 If you have any questions about how dELiA*s, Inc. or any of its affiliates or subsidiaries will use or share your information you may email them at [questions@deliasmerch.com](mailto:questions@deliasmerch.com) or contact them as follows: 
 
-dELiA*s, Inc.   
-50 West 23rd St.   
+dELiA*s, Inc.  
+50 West 23rd St.  
 New York, NY 10010   
-Attn: Privacy   
-Telephone: (212) 807-9060   
+Attn: Privacy  
+Telephone: (212) 807-9060  
 Facsimile: (212) 590-6310 
