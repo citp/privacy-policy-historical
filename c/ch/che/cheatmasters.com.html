@@ -1,331 +1,557 @@
-<!--The following is the downloaded HTML source of the cheatmasters.com privacy policy that was archived on 2008-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080618143312id_/http%3A//www.cheatmasters.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cheatmasters.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216012548id_/http%3A//www.cheatmasters.com/privacycm.php) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Cheat Masters : PC XBOX GB PS GBA PS2 cheats, cheat codes, and hints for your console games.</title>
 <meta name="keywords" content="cheats, codes, ps2, pc, cheat codes, hints, dreamcast, playstation,playstation 2, gameboy, games, video games, console, Sony, pokemon,tony hawk,GTA3,GTA4,neopets">
-<meta name="Description" content="Cheat Masters - Let the cheat masters provide you cheats for all your games !">
+<meta name="description" content="Cheat Masters - Let the cheat masters provide you cheats for all your games !">
+<link href="/d4style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" language="javascript">
+var marked_row = new Array;
+function SetBKcolor(theRow){
+    var theCells = null;
+    if (typeof(document.getElementsByTagName) != 'undefined') {
+        theCells = theRow.getElementsByTagName('td');
+    }
+    else if (typeof(theRow.cells) != 'undefined') {
+        theCells = theRow.cells;
+    }else {  return false;}
 
-<link rel="stylesheet" type="text/css" href="http://www.cheatmasters.com/d2style.css">
-</head>
-<body background="/new_images/pagebackground2.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<div align="left">
-  <table border="0" cellspacing="0" width="100%" cellpadding="0">
-    <tbody><tr>
-     <td valign="top">
-      <!-- -- ### Start of Main Holding Table ### ---->
-      <div align="left">
-        <table border="0" cellspacing="0" width="780" cellpadding="0">
-          <tbody><tr>
-            <td>
-            <!-- -- ### Start of network header table ### ---->
-            <div align="left">
-              <table border="0" cellspacing="0" width="780" cellpadding="0">
-                <tbody><tr>
-                  <td>
-                  <div align="left">
-  <table border="0" cellpadding="0" cellspacing="0" width="780" bgcolor="#000000" background="/new_images/page_footer/textback.gif">
-    <tbody><tr>
-      <td class="foot" align="left">Welcome to Cheat Masters</td>
-      
-                <td align="right"><p align="right" class="foot">
-                	<b> Wednesday, Jun 18</b>&nbsp;&nbsp;&nbsp;
-                </p></td>
+    var rowCellsCnt  = theCells.length;
+    var domDetect    = null;
+    var newColor     = null;
+    if (typeof(window.opera) == 'undefined'
+        && typeof(theCells[0].getAttribute) != 'undefined') {
+        domDetect    = true;
+    }else {
+        domDetect    = false;
+    }
+    newColor = '#EFEAD3';
 
-    </tr>
-  </tbody></table>
-</div>
-<div align="left">
-  <table border="0" cellpadding="0" cellspacing="0" width="780">
-    <tbody><tr>
-      <td>
-      <img border="0" src="/new_images/20spacer.gif" width="5" height="1"></td>
-    </tr>
- 
-  </tbody></table>
-</div>                  </td>
-                </tr>
-              </tbody></table>
-            </div>
-            <!-- -- ### END of network header table ### ---->
-            <!-- -- ### Start of Page header table ### ---->
-            <div align="left">
-              <table border="0" cellspacing="0" width="780" cellpadding="0">
-                <tbody><tr>
-                  <td>
-                  <div align="center">
-  <center>
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="780" id="AutoNumber2">
-    <tbody><tr background="/new_images/page_header/bannerbackground.gif">
-      <td align="center">
-       
-<!-- TF 728x90 JScript VAR code -->
-<center>
-<script type="text/javascript">
-   e9 = new Object();
-   e9.size = "728x90,468x60";
+    if (newColor) {
+        var c = null;
+        if (domDetect) {
+            for (c = 0; c < rowCellsCnt; c++) {
+                theCells[c].setAttribute('bgcolor', newColor, 0);
+            }
+        }
+        else {
+            for (c = 0; c < rowCellsCnt; c++) {
+                theCells[c].style.backgroundColor = newColor;
+            }
+        }
+    }
+    return true;
+}
 </script>
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/cheatmasterscom/ROS/tags.js"></script>
+<script type="text/javascript" language="javascript">
+var marked_row = new Array;
+function setPointer(theRow, theRowNum, theAction, theDefaultColor, thePointerColor, theMarkColor){
+    var theCells = null;
+    if ((thePointerColor == '' && theMarkColor == '')
+        || typeof(theRow.style) == 'undefined') {
+        return false;
+    }
+    if (typeof(document.getElementsByTagName) != 'undefined') {
+        theCells = theRow.getElementsByTagName('td');
+    }
+    else if (typeof(theRow.cells) != 'undefined') {
+        theCells = theRow.cells;
+    }
+    else { return false; }
+    var rowCellsCnt  = theCells.length;
+    var domDetect    = null;
+    var currentColor = null;
+    var newColor     = null;
+    if (typeof(window.opera) == 'undefined'
+        && typeof(theCells[0].getAttribute) != 'undefined') {
+        currentColor = theCells[0].getAttribute('bgcolor');
+        domDetect    = true;
+    }
+    else {
+        currentColor = theCells[0].style.backgroundColor;
+        domDetect    = false;
+    }
+     if (currentColor == '' || currentColor.toLowerCase() == theDefaultColor.toLowerCase()) {
+        if (theAction == 'over' && thePointerColor != '') {
+            newColor              = thePointerColor;
+        }
+        else if (theAction == 'click' && theMarkColor != '') {
+            newColor              = theMarkColor;
+            marked_row[theRowNum] = true;
+        }
+    }
+    else if (currentColor.toLowerCase() == thePointerColor.toLowerCase()
+             && (typeof(marked_row[theRowNum]) == 'undefined' || !marked_row[theRowNum])) {
+        if (theAction == 'out') {
+            newColor = theDefaultColor;
+        }
+        else if (theAction == 'click' && theMarkColor != '') {
+            newColor = theMarkColor;
+            marked_row[theRowNum] = true;
+        }
+    }
+    else if (currentColor.toLowerCase() == theMarkColor.toLowerCase()) {
+        if (theAction == 'click') {
+            newColor              = (thePointerColor != '')
+                                  ? thePointerColor
+                                  : theDefaultColor;
+            marked_row[theRowNum] = (typeof(marked_row[theRowNum]) == 'undefined' || !marked_row[theRowNum])
+                                  ? true
+                                  : null;
+        }
+    }
+    if (newColor) {
+        var c = null;
+        if (domDetect) {
+            for (c = 0; c < rowCellsCnt; c++) {
+                theCells[c].setAttribute('bgcolor', newColor, 0);
+            }
+        }else {
+            for (c = 0; c < rowCellsCnt; c++) {
+                theCells[c].style.backgroundColor = newColor;
+            }
+        }
+    }
+    return true;
+}
+</script>
+
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+//-->
+</script>
+<script type="text/javascript"> function No_Login(){var msg = "You must be logged in to use this option!"; alert(msg); return false;}</script>
+<script language="javascript" type="text/javascript">self.focus();</script>
+
+<script type="text/javascript">
+function cmajax (){	var xmlHttpObj;
+	if(window.XMLHttpRequest){xmlHttpObj = new XMLHttpRequest();}else{try{xmlHttpObj = new ActiveXObject("Msxml2.XMLHTTP");}
+		catch (e){try{xmlHttpObj = new ActiveXObject("Microsoft.XMLHTTP");}			catch (e){	xmlHttpObj = false;}}
+	}
+	return xmlHttpObj;
+}
+</script>
+</head>
+<body onload="MM_preloadImages('/imagesd4/ico-about_on.jpg','/imagesd4/ico-blog_on.jpg','/imagesd4/ico-forum_on.jpg','/imagesd4/loader.gif','/imagesd4/ico-contest_on.jpg','/imagesd4/ico-terms_on.jpg','/imagesd4/ico-releases_on.jpg','/imagesd4/ico-arcade3_on.jpg')"><div id="wrapper">
+<!--BOF Top Bar-->
+<div class="topbar">
+  <div class="topbar_left">CheatMasters.com</div>
+  <div class="topbar_right">Monday, 15 December 2008</div>
+Cheats, Cheat Codes, Hints, and Tips for all your console games</div>
+<!--EOF Top Bar-->
+
+<!-- BOF Header-->
+<div class="header">
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="top">
+    <td width="190"><a href="http://www.CheatMasters.com"><img src="/imagesd4/logo.jpg" alt="" width="168" height="60"></a></td>
+    <td width="70"><div class="topicon"><a href="/aboutcm.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('top_about','','/imagesd4/ico-about_on.jpg',1)"><img src="/imagesd4/ico-about.jpg" alt="About" name="top_about" width="55" height="49" border="0" id="top_about"></a></div></td>
+    <td width="70"><div class="topicon"><a href="/blog/" target="blog" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('top_blog','','/imagesd4/ico-blog_on.jpg',1)"><img src="/imagesd4/ico-blog.jpg" alt="Blog" name="top_blog" width="55" height="49" border="0" id="top_blog"></a></div></td>
+    <td width="70"><div class="topicon"><a href="/forumcmvb.php" target="forum" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('top_forum','','/imagesd4/ico-forum_on.jpg',1)"><img src="/imagesd4/ico-forum.jpg" alt="Forum" name="top_forum" width="55" height="49" border="0" id="top_forum"></a></div></td>
+    <td width="70"><div class="topicon"><a href="/terms.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('top_terms','','/imagesd4/ico-terms_on.jpg',1)"><img src="/imagesd4/ico-terms.jpg" alt="Cheat Master Terms" name="top_terms" width="55" height="49" border="0" id="top_terms"></a></div></td>
+    <td width="70"><div class="topicon"><a href="/contest.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('top_contest','','/imagesd4/ico-contest_on.jpg',1)"><img src="/imagesd4/ico-contest.jpg" alt="Contest" name="top_contest" width="55" height="49" border="0" id="top_contest"></a></div></td>
+    <td width="70"><div class="topicon"><a href="/release_dates_d4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('top_releases','','/imagesd4/ico-releases_on.jpg',1)"><img src="/imagesd4/ico-releases.jpg" alt="Game Releases" name="top_releases" width="55" height="49" border="0" id="top_releases"></a></div></td>
+    <td width="70"><div class="topicon"><a href="/arcade_cm.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('arcade','','/imagesd4/ico-arcade3_on.jpg',1)"><img src="/imagesd4/ico-arcade3.jpg" alt="Arcade" name="Arcade" width="55" height="49" border="0" id="arcade"></a></div></td>
+    <td width="460" valign="middle" align="right">
+
+    	<form action="http://www.cheatmasters.com/google_search.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-6799042953542358:8d9tgb-ex7s">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="20">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+    	</td>
+  </tr>
+</tbody></table>
+</div>
+
+<div class="adtable">
+<table width="986" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="742">
+  <div class="adspace"><center>
+<script type="text/javascript">
+	sr_adspace_id = 5683907;
+	sr_adspace_width = 728;
+	sr_adspace_height = 90;
+	sr_adspace_type = "graphic";
+	sr_ad_new_window = true;	
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=5683907">
+</script>
 </center>
-<!-- TF 728x90 JScript VAR code -->
-      </td>
-    </tr>
-  </tbody></table>
-  </center>
-</div>
-<div align="center">
-  <center>
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="780" id="AutoNumber1">
-    <tbody><tr>
-      <td bgcolor="#4F4F4F">
-      <p align="center">
-      <img border="0" src="/new_images/20spacer.gif" width="3" height="3"></p></td>
-    </tr>
-    <tr>
-      <td bgcolor="#000000">
-      <div align="center">
-        <center>
-        <table border="0" cellpadding="2" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="98%" id="AutoNumber7">
-          <tbody><tr>
-            <td>
-            <p align="left" class="foot"><a href="Http://www.cheatmasters.com" class="sml">Cheat Masters Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  
-	    </p></td>
-	    <td align="center"> 	    	<a href="http://forum.cheatmasters.com" class="sml">Discuss games in <b>Cheat Master's Forum</b></a>&nbsp;&nbsp;
-	    </td>
-            <td>
-            <p align="right"></p><p align="right" class="foot"><script language="JavaScript">
-
-<!-- Begin
-if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4)) {
-
-var url="http://www.cheatmasters.com";
-var title="CheatMasters.com";
-
-document.write('<A class="sml" HREF="javascript:window.ext');
-document.write('ernal.AddFavorite(url,title);" ');
-document.write('onMouseOver=" window.status=');
-document.write("'Add our site to your favorites!'; return true ");
-document.write('"onMouseOut=" window.status=');
-document.write("' '; return true ");
-document.write('">Bookmark CM!</a>');
-}
-else {
-var msg = "bookmark us!";
-if(navigator.appName == "Netscape") msg += "  (CTRL-D)";
-document.write(msg);
-}
-
-// End -->
-                  </script>bookmark us!  (CTRL-D)   &nbsp;&nbsp;   <!-- --><a class="sml" href="#" onclick="this.style.behavior='url(#default#homepage)'; this.setHomePage('http://www.cheatmasters.com');">Make CM Your Homepage!</a><!-- --></p>
-            </td>
-          </tr>
-        </tbody></table>
-        </center>
-      </div>
-      </td>
-    </tr>
-  </tbody></table>
-  </center>
-</div>
-<div align="left">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="780" id="AutoNumber6">
-    <tbody><tr>
-      <td><img border="0" src="/new_images/20spacer.gif" width="8" height="8"></td>
-    </tr>
-  </tbody></table>
-</div>                  </td>
-                </tr>
-              </tbody></table>
-            </div>
-            <!-- -- ### END of Page header table ### ---->
-            <!-- -- ### Start of 5-column content table ---->
-            <div align="left">
-              <table border="0" cellpadding="0" cellspacing="0" width="780">
-                <tbody><tr>
-                  <!-- # Left-menu column -->
-                  <td valign="top" width="155">
-                  <div align="left">
-                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="155" id="AutoNumber1">
-                      <tbody><tr>
-                        <td><div align="center">
-  <center>
-  <table border="0" cellpadding="0" cellspacing="0" width="155">
-    <tbody><tr>
-      <td colspan="2">
-      <img border="0" src="/new_images/nav_headers/l_main_options.gif"></td>
-    </tr>
-    <tr bgcolor="#DFDFE0">
-      <td>
-      <div align="center">
-        <center>
-        <table border="0" cellpadding="2" cellspacing="2" style="border-collapse: collapse" width="145">
-          <tbody><tr>
-            <td bgcolor="#D3D3D8" align="center" class="menu">
-            <form method="post" action="/cheatsearch.php" name="soft123"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Cheat Search
-             <input type="text" style="width:100;BACKGROUND-COLOR: #181919; COLOR: #ffffff; FONT-FAMILY: Verdana; FONT-SIZE: 7pt" name="search" value="" size="13"></font>     	    
-           	
-             </form></td>
-          </tr> 
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/cheatlist/DVD">DVD</a></p></td>
-          </tr>       
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <font color="#000080">×</font><a class="menu" href="/cheatlist/PS2">Playstation 2</a></p></td>
-          </tr>
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <font color="#000080">×</font><a class="menu" href="/cheatlist/PS3">Playstation 3</a></p></td>
-          </tr>
-                    <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/cheatlist/PSP">Sony PSP</a></p></td>
-          </tr>
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/cheatlist/Xbox">XBox</a></p></td>
-          </tr>
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <font color="#008000">×</font><a class="menu" href="/cheatlist/X360">XBox 360</a></p></td>
-          </tr>
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <font color="#f00000">×</font><a class="menu" href="/cheatlist/WII">Nintendo WII</a></p></td>
-          </tr>
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/cheatlist/GBA">Gameboy Advance</a></p></td>
-          </tr>
-                     <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/cheatlist/NDS">Nintendo DS</a></p></td>
-          </tr>
-
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/cheatlist/GC">Gamecube</a></p></td>
-          </tr>
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/cheatlist/PC">PC</a></p></td>
-          </tr>   
-          <tr bgcolor="#D3D3D8">
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/cheatlist/PS">Playstation</a></p></td>
-          </tr>      
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/cheatlist/DC">Dreamcast</a></p></td>
-          </tr>
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/cheatlist/N64">Nintendo 64</a></p></td>
-          </tr>
-           <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/cheatlist/GB">Gameboy</a></p></td>
-          </tr>
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/wall_list.php">Game Wallpapers</a></p></td>
-          </tr>
-        </tbody></table>
-        </center>
-      </div>
-      </td>
-	  <td background="/new_images/headers/blk.gif" width="1"><img src="/new_images/headers/blk.gif" width="1"></td>
-    </tr>
-    <tr>
-      <td colspan="2">
-      <img border="0" src="/new_images/nav_headers/footer.gif"></td>
-    </tr>
-  </tbody></table>
-  </center>
-</div></td>
-                      </tr>
-                      <tr>
-                        <td><div align="center">
-  <center>
-  <table border="0" cellpadding="0" cellspacing="0" width="155">
-    <tbody><tr>
-      <td colspan="2">
-      <img border="0" src="/new_images/nav_headers/l_extras.gif"></td>
-    </tr>
-    <tr>
-      <td bgcolor="#DFDFE0">
-      <div align="center">
-        <center>
-        <table border="0" cellpadding="2" cellspacing="2" style="border-collapse: collapse" bordercolor="#E0E0E8" width="140" bgcolor="#E0E0E8">
-          <tbody><tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a href="/forumcmvb.php" class="menu" target="CMForum">Forum<img src="http://www.tradelair.com/images/new.gif" border="0" height="12"></a></p></td>
-          </tr>
- 
-
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/links.php">Links</a></p></td>
-          </tr>
- 
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" href="/privacy.php">Privacy Policy</a></p></td>
-          </tr>
-          
+  </div>
+</td>
+<td width="244"><div class="userprofile"><form name="form1" method="post" action="/login.php"><table width="232" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="middle">
+    <td width="152" height="80" align="left">
+				<table width="232" border="0" cellspacing="0" cellpadding="0">
+				  <tbody><tr valign="middle">
+				    <td width="77" height="25"><strong>Username</strong> </td>
+				    <td>
+				      <input name="username" type="text" id="textfield" size="12" class="loginfield" value="">    </td>
+				    </tr>
+				  <tr valign="middle">
+				    <td height="25"><strong>Password</strong></td>
+				    <td><input name="password" type="password" id="textfield2" size="12" class="loginfield"></td>
+				    </tr>
+				  <tr valign="middle">
+				    <td height="25"><span>Remember it</span></td>
+				    <td height="25"><input type="checkbox" name="remember" id="remember">
+				      <input type="submit" name="button2" id="button2" value="Login" class="loginbtn">
+				      <input type="submit" name="register" id="button3" value="Register" class="loginbtn">
+				     </td>
+				    </tr>
           </tbody></table>
-        </center>
-      </div>
-      </td>
-	  <td background="/new_images/headers/blk.gif" width="1"><img src="/new_images/headers/blk.gif" width="1"></td>
-    </tr>
-    <tr>
-      <td colspan="2">
-      <img border="0" src="/new_images/nav_headers/footer.gif"></td>
+    </td>
+  </tr>
+</tbody></table></form></div></td>
+</tr></tbody></table>
+</div>
+<div class="platform">
+<a href="/cheatlist/DVD/DVD_cheats.html" title="DVD Cheats">DVD</a> <a href="/cheatlist/PC/PC_cheats.html" title="PC Cheats">PC</a><a href="/cheatlist/PS2/PS2_cheats.html" title="PS2 Cheats">PS2</a><a href="/cheatlist/PS3/PS3_cheats.html" title="PS3 Cheats">PS3</a><a href="/cheatlist/PSP/PSP_cheats.html" title="PSP Cheats">PSP</a><a href="/cheatlist/PS/PS_cheats.html" title="PS Cheats">PS</a><a href="/cheatlist/Xbox/Xbox_cheats.html" title="Xbox Cheats">Xbox</a><a href="/cheatlist/X360/xbox_360_cheats.html" title="Xbox 360 Cheats">Xbox 360</a><a href="/cheatlist/WII/Wii_cheats.html" title="Wii Cheats">Wii</a><a href="/cheatlist/NDS/NDS_cheats.html" title="NDS Cheats">DS</a><a href="/cheatlist/GBA/GBA_cheats.html" title="GBA Cheats">GBA</a><a href="/cheatlist/GC/GC_cheats.html" title="GC Cheats">GC</a><a href="/cheatlist/GB/GB_cheats.html" title="GB Cheats">GB</a><a href="/cheatlist/N64/N64_cheats.html" title="N64 Cheats">N64</a>
+<div class="topsearch">
+<form id="form1" name="form1" method="post" action="/cheatsearch.php">
+  <table border="0" cellspacing="0" cellpadding="3" height="35">
+    <tbody><tr valign="middle">
+      <td><input name="search" type="text" class="topsearch_field"></td>
+      <td><input type="submit" name="button" id="button" value="Search"></td>
     </tr>
   </tbody></table>
-  </center>
-</div></td>
-                      </tr>
+</form>
+</div>
+ </div>
+<!-- BOF Content-->
+<div class="content">
+<table width="990" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="top">
+    <td class="home_left">
+    <div class="boxhead1">About CheatMasters.com</div>
+    <div class="boxcontent contentpadding">    	
+    	<blockquote>
+<font face="Arial" size="2"><b>Cheatmasters.com</b>, recognizes its member's rights to privacy.</font>
 
-                      <tr>
-                        <td><div align="center">
-  <center>
-  <table border="0" cellpadding="0" cellspacing="0" width="155">
-    <tbody><tr>
-      <td colspan="2">
-      <img border="0" src="/new_images/nav_headers/l_adspace.gif"></td>
-    </tr>
-    <tr>
-      <td bgcolor="#DFDFE0">
-      	<div align="center">
-        <center>
-        <table border="0" cellpadding="2" cellspacing="2" style="border-collapse: collapse" bordercolor="#E0E0E8" width="140" bgcolor="#E0E0E8">
-          <tbody><tr>
-            <td bgcolor="#D0D0DD">
-               <a href="http://www.wisebuynow.com" target="wbn"><img src="http://www.wisebuynow.com/images/125X125b.gif" border="0"></a>
-                  <a href="http://www.wisebuynow.com" target="wbn">Ethernet Cables</a>
+<p><font face="Arial" size="2"><b>Cheatmasters.com</b> does not sell, rent, lease or allow any third
+parties to view or use the information collected unless the reader consents
+through the use of the site, or in any other way. Cheatmasters.com site
+does not send unsolicited emails.</font></p>
+<p><font face="Arial" size="2">
+<b>Cheatmasters.com</b> takes
+reasonable measures to keep the information disclosed secure. However, Cheatmasters.com assumes no responsibility for any breach of security to this data.</font></p>
+<p> 
+</p><p><font face="Arial" size="2"> <b>Third Party Advertising</b>
+<br>The ads appearing on this Web site are delivered to you by Third Party Advertising. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. 
 
+<br><br><b>Third Party Cookies</b>
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.<br><br>
+<br>
+Visit Adtegrity's privacy policy <a href="http://www.adtegrity.com/privacy.asp" target="adtegrity"> HERE: http://www.adtegrity.com/privacy.asp</a>	
+
+ </font></p><font face="Arial" size="2">
+
+</font></blockquote><table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" align="center">
+
+ </table><font face="Arial" size="2">   
+    </font></div><font face="Arial" size="2">
+    
+     </font></td>
+    <td class="home_right">
+    <div class="boxhead1">LATEST GAMING ARTICLES</div>
+    <div class="boxcontent">
+       <table width="100%" border="0" cellspacing="0" cellpadding="5">
+         <tbody><tr><td height="25" width="69%" class="orangebar">Topic</td></tr>
+         <tr class="forumrow">
+           <td><strong>
+             <div class="forumtopic"><img src="/imagesd4/blog.gif" border="0" alt=""> <a href="http://www.cheatmasters.com/blog/2008/12/15/skate-it-review/" class="menu" title="Skate It" target="blog">Skate It</a><br><img src="/imagesd4/blog.gif" border="0" alt=""> <a href="http://www.cheatmasters.com/blog/2008/12/13/ultimate-band-review/" class="menu" title="Ultimate Band" target="blog">Ultimate Band</a><br><img src="/imagesd4/blog.gif" border="0" alt=""> <a href="http://www.cheatmasters.com/blog/2008/12/13/sonic-unleashed-review/" class="menu" title="Sonic Unleashed" target="blog">Sonic Unleashed</a><br><img src="/imagesd4/blog.gif" border="0" alt=""> <a href="http://www.cheatmasters.com/blog/2008/12/12/animal-crossing-city-folk-review/" class="menu" title="Animal Crossing: City Folk" target="blog">Animal Crossing: City Folk</a><br><img src="/imagesd4/blog.gif" border="0" alt=""> <a href="http://www.cheatmasters.com/blog/2008/12/12/critical-hit-punisher-war-zone/" class="menu" title="Critical Hit - Punisher: War Zone" target="blog">Critical Hit - Punisher: War Zone</a><br><img src="/imagesd4/blog.gif" border="0" alt=""> <a href="http://www.cheatmasters.com/blog/2008/12/02/tomb-raider-underworld-review/" class="menu" title="Tomb Raider Underworld" target="blog">Tomb Raider Underworld</a><br><img src="/imagesd4/blog.gif" border="0" alt=""> <a href="http://www.cheatmasters.com/blog/2008/12/01/youre-in-the-movies-review/" class="menu" title="You're In The Movies" target="blog">You're In The Movies</a><br><img src="/imagesd4/blog.gif" border="0" alt=""> <a href="http://www.cheatmasters.com/blog/2008/11/26/rayman-raving-rabbids-tv-party-review/" class="menu" title="Rayman Raving Rabbids TV Party" target="blog">Rayman Raving Rabbids TV Party</a><br><img src="/imagesd4/blog.gif" border="0" alt=""> <a href="http://www.cheatmasters.com/blog/2008/11/26/critical-hit-bolt/" class="menu" title="Critical Hit - Bolt" target="blog">Critical Hit - Bolt</a><br><img src="/imagesd4/blog.gif" border="0" alt=""> <a href="http://www.cheatmasters.com/blog/2008/11/25/need-for-speed-undercover-review/" class="menu" title="Need for Speed Undercover" target="blog">Need for Speed Undercover</a><br><img src="/imagesd4/blog.gif" border="0" alt=""> <a href="http://www.cheatmasters.com/blog/2008/11/19/critical-hit-quantum-of-solace/" class="menu" title="Critical Hit - Quantum of Solace" target="blog">Critical Hit - Quantum of Solace</a><br><img src="/imagesd4/blog.gif" border="0" alt=""> <a href="http://www.cheatmasters.com/blog/2008/11/16/wii-music-review/" class="menu" title="Wii Music" target="blog">Wii Music</a><br>             </div> 
+           </strong></td>            
+         </tr>          
+       </tbody></table>
+    </div>
+		<div class="adspace300x200"> 
+		  <script type="text/javascript">
+		   e9 = new Object();
+		   e9.size = "336x280,300x250,300x600";
+		  </script>
+		  <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/cheatmasterscom/ROS/tags.js"></script> 
+		</div>  
+      
+
+</td>
+  </tr>
+  </tbody></table>
+
+ <div class="boxhead1">Game Cheat Links</div>
+    <div class="boxcontent contentpadding"> 
+    	
+     <table width="100%" border="0" cellspacing="0" cellpadding="4"><tbody><tr><td width="33%" valign="top">
+        <div class="boxhead1">Most Popular Game Cheat Codes, Hints, Tips</div>
+    <div class="boxcontent">
+       <table width="100%" border="0" cellspacing="0" cellpadding="5">
+         <tbody><tr><td height="25" width="69%" class="orangebar">Cheat Title</td><td height="25" width="69%" class="orangebar" align="right">System</td></tr>
+         <tr class="forumrow">
+           <td colspan="2"><strong>
+             <div class="forumtopic"> 
+             	
+             	
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/28046/Need_for_Speed_Undercover_cheats.html" title="Need for Speed Undercover cheats" class="forumtopic">Need for Speed Undercover  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>PS2</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/25715/Grand_Theft_Auto_IV_cheats.html" title="Grand Theft Auto IV cheats" class="forumtopic">Grand Theft Auto IV  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>PS3</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/28014/Call_of_Duty%3A_World_at_War_cheats.html" title="Call of Duty: World at War cheats" class="forumtopic">Call of Duty: World at War  cheats   </a></td>
+<td align="right" valign="top"><font size="1"><b>X360</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/27972/WWE_SmackDown_vs._Raw_2009_cheats.html" title="WWE SmackDown vs. Raw 2009 cheats" class="forumtopic">WWE SmackDown vs. Raw 2009  cheat codes </a></td>
+<td align="right" valign="top"><font size="1"><b>PS2</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/27277/NHL_09_cheats.html" title="NHL 09 cheats" class="forumtopic">NHL 09  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>X360</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/27640/FIFA_Soccer_09_cheats.html" title="FIFA Soccer 09 cheats" class="forumtopic">FIFA Soccer 09  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>PS2</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/28024/Football_Manager_2009_cheats.html" title="Football Manager 2009 cheats" class="forumtopic">Football Manager 2009  cheat codes </a></td>
+<td align="right" valign="top"><font size="1"><b>PC</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/25277/WWE_SmackDown%21_vs._Raw_2008_cheats.html" title="WWE SmackDown! vs. Raw 2008 cheats" class="forumtopic">WWE SmackDown! vs. Raw 2008  cheats   </a></td>
+<td align="right" valign="top"><font size="1"><b>PS2</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/23909/Dragon_Fable_cheats.html" title="Dragon Fable cheats" class="forumtopic">Dragon Fable  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>PC</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/27306/Star_Wars%3A_The_Force_Unleashed_cheats.html" title="Star Wars: The Force Unleashed cheats" class="forumtopic">Star Wars: The Force Unleashed  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>PS2</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/28050/Need_for_Speed_Undercover_cheats.html" title="Need for Speed Undercover cheats" class="forumtopic">Need for Speed Undercover  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>X360</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/27502/Midnight_Club%3A_Los_Angeles_cheats.html" title="Midnight Club: Los Angeles cheats" class="forumtopic">Midnight Club: Los Angeles  cheat codes </a></td>
+<td align="right" valign="top"><font size="1"><b>X360</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/28037/Animal_Crossing%3A_City_Folk_cheats.html" title="Animal Crossing: City Folk cheats" class="forumtopic">Animal Crossing: City Folk  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>WII</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/27112/Madden_NFL_09_cheats.html" title="Madden NFL 09 cheats" class="forumtopic">Madden NFL 09  cheat codes </a></td>
+<td align="right" valign="top"><font size="1"><b>PS2</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/15689/Pokemon_Diamond_cheats.html" title="Pokemon Diamond cheats" class="forumtopic">Pokemon Diamond  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>NDS</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/15688/Pokemon_Pearl_cheats.html" title="Pokemon Pearl cheats" class="forumtopic">Pokemon Pearl  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>NDS</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/28039/Mortal_Kombat_vs._DC_Universe_cheats.html" title="Mortal Kombat vs. DC Universe cheats" class="forumtopic">Mortal Kombat vs. DC Universe  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>X360</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/25714/Grand_Theft_Auto_IV_cheats.html" title="Grand Theft Auto IV cheats" class="forumtopic">Grand Theft Auto IV  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>X360</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/14177/Pokemon%3A_Leaf_Green_cheats.html" title="Pokemon: Leaf Green cheats" class="forumtopic">Pokemon: Leaf Green  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>GBA</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/24270/Grand_Theft_Auto%3A_San_Andreas_%28Special_Edition%29_cheats.html" title="Grand Theft Auto: San Andreas (Special Edition) cheats" class="forumtopic">Grand Theft Auto: San Andreas (Special Edition)  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>PS2</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/27645/FIFA_Soccer_09_cheats.html" title="FIFA Soccer 09 cheats" class="forumtopic">FIFA Soccer 09  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>PS3</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/25355/Need_for_Speed_ProStreet_cheats.html" title="Need for Speed ProStreet cheats" class="forumtopic">Need for Speed ProStreet  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>PS2</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/16256/Midnight_Club_3%3A_DUB_Edition_Remix_cheats.html" title="Midnight Club 3: DUB Edition Remix cheats" class="forumtopic">Midnight Club 3: DUB Edition Remix  cheat codes </a></td>
+<td align="right" valign="top"><font size="1"><b>PS2</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/14178/Pokemon%3A_Fire_Red_cheats.html" title="Pokemon: Fire Red cheats" class="forumtopic">Pokemon: Fire Red  cheat codes </a></td>
+<td align="right" valign="top"><font size="1"><b>GBA</b></font></td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top">
+<a href="/cheats/27133/Command_and_Conquer_Red_Alert_3_cheats.html" title="Command and Conquer Red Alert 3 cheats" class="forumtopic">Command and Conquer Red Alert 3  cheats </a></td>
+<td align="right" valign="top"><font size="1"><b>PC</b></font></td></tr></tbody></table>            	
+             </div> 
+           </strong></td>            
+         </tr>          
+       </tbody></table>
+    </div>    
+  </td><td width="33%" valign="top">
+    <div class="boxhead1">Latest Game Cheats, Hints, Tips or Cheat Codes</div>
+    <div class="boxcontent">
+       <table width="100%" border="0" cellspacing="0" cellpadding="5">
+ <tbody><tr><td height="25" width="69%" class="orangebar">Cheat Title</td><td height="25" width="69%" class="orangebar" align="right">System</td></tr>
+         <tr class="forumrow">
+           <td colspan="2"><strong>
+             <div class="forumtopic">              	
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28291/Hitman_5_%28Working_Title%29.html" class="forumtopic" title="Hitman 5 (Working Title) Cheats">Hitman 5 (Working Title)</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>X360</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28290/Harker.html" class="forumtopic" title="Harker Cheats">Harker</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>X360</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28289/Blazing_Birds.html" class="forumtopic" title="Blazing Birds Cheats">Blazing Birds</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>X360</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28288/Yo_Ho_Kablammo%21.html" class="forumtopic" title="Yo Ho Kablammo! Cheats">Yo Ho Kablammo!</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>X360</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28287/Gravitron_Ultra.html" class="forumtopic" title="Gravitron Ultra Cheats">Gravitron Ultra</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>X360</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28286/METRO_2033%3A_The_Last_Refuge.html" class="forumtopic" title="METRO 2033: The Last Refuge Cheats">METRO 2033: The Last Refuge</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>PS3</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28285/Harker.html" class="forumtopic" title="Harker Cheats">Harker</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>PS3</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28284/Hitman_5_%28Working_Title%29.html" class="forumtopic" title="Hitman 5 (Working Title) Cheats">Hitman 5 (Working Title)</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>PS3</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28283/Motorm4x.html" class="forumtopic" title="Motorm4x Cheats">Motorm4x</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>PC</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28282/New_Dawn.html" class="forumtopic" title="New Dawn Cheats">New Dawn</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>PC</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28281/METRO_2033%3A_The_Last_Refuge.html" class="forumtopic" title="METRO 2033: The Last Refuge Cheats">METRO 2033: The Last Refuge</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>PC</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28280/Hitman_5_%28Working_Title%29.html" class="forumtopic" title="Hitman 5 (Working Title) Cheats">Hitman 5 (Working Title)</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>PC</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28279/Dragon%27s_Lair_II%3A_Time_Warp.html" class="forumtopic" title="Dragon" s="" lair="" ii:="" time="" warp="" cheats'="">Dragon's Lair II: Time Warp</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>NDS</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28278/Dating_Day.html" class="forumtopic" title="Dating Day Cheats">Dating Day</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>NDS</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28277/Deadly_Creatures.html" class="forumtopic" title="Deadly Creatures Cheats">Deadly Creatures</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>WII</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28276/Azada_2.html" class="forumtopic" title="Azada 2 Cheats">Azada 2</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>PC</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28275/The_Tale_of_Despereaux.html" class="forumtopic" title="The Tale of Despereaux Cheats">The Tale of Despereaux</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>PS3</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28274/Left_Brain_Right_Brain_2.html" class="forumtopic" title="Left Brain Right Brain 2 Cheats">Left Brain Right Brain 2</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>NDS</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28273/Damnation.html" class="forumtopic" title="Damnation Cheats">Damnation</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>X360</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28272/Damnation.html" class="forumtopic" title="Damnation Cheats">Damnation</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>PS3</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28271/Damnation.html" class="forumtopic" title="Damnation Cheats">Damnation</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>PC</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28270/Final_Fantasy_Versus_XIII.html" class="forumtopic" title="Final Fantasy Versus XIII Cheats">Final Fantasy Versus XIII</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>PS3</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28269/Ellen_Whitaker%27s_Horse_Life.html" class="forumtopic" title="Ellen Whitaker" s="" horse="" life="" cheats'="">Ellen Whitaker's Horse Life</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>WII</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28268/Ellen_Whitaker%27s_Horse_Life.html" class="forumtopic" title="Ellen Whitaker" s="" horse="" life="" cheats'="">Ellen Whitaker's Horse Life</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>NDS</b></font></p>
+		                                    </td></tr><tr onmouseover="setPointer(this, 0, 'over', '#F2F2F2', '#EFEAD3', '#FFCC99');" onmouseout="setPointer(this, 0, 'out', '#F2F2F2', '#EFEAD3', '#FFCC99');"><td align="left" valign="top" style="border-bottom: 1 solid #800000">
+		<p align="left"><a href="cheats/28267/Neopets_Puzzle_Adventure.html" class="forumtopic" title="Neopets Puzzle Adventure Cheats">Neopets Puzzle Adventure</a>  </p>
+		                                    </td><td align="right" valign="top" style="border-bottom: 1 solid #800000">
+		                                      <p align="right"><font size="1"><b>PC</b></font></p>
+		                                    </td></tr></tbody></table>           	
+             	
+             </div> 
+           </strong></td>            
+         </tr>          
+       </tbody></table>
+    </div>
+</td><td width="33%" valign="top">    
+    <div class="boxhead1">HOT GAME CHEATS</div>
+    <div class="boxcontent">
+       <table width="100%" border="0" cellspacing="0" cellpadding="1">
+         <tbody><tr><td height="25" width="69%" class="orangebar">Title</td></tr>
+         <tr class="forumrow"><td><strong><div class="forumtopic"><a href="/SpotLight/crysis.php" title="Crysis Cheats &amp; Review">Crysis</a></div></strong></td></tr>    
+	       <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/SpotLight/Super_Smash_Brothers_Brawl.php" title="SSBB">Super Smash Brothers: Brawl</a>  </div></strong></td></tr>  
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/SpotLight/Call_of_Duty_4.php" title="COD4">Call of Duty 4</a>  </div></strong></td></tr>              
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/SpotLight/Halo_3.php">Halo 3</a> </div></strong></td></tr>  
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/cheatsearch.php?search=pokemon" title="Pokemon Cheats">Pokemon Cheats</a></div></strong></td></tr>  
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/cheatsearch.php?search=halo" title="Halo Cheats">Halo Cheats</a></div></strong></td></tr>  
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/cheatsearch.php?search=Grand Theft Auto" title="Grand Theft Auto Cheats">Grand Theft Cheats</a></div></strong></td></tr>  
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/cheatsearch.php?search=Sims" title="Sims Cheats">Sims Cheats</a></div></strong></td></tr>  
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/cheatsearch.php?search=Final Fantasy" title="Final Fantasy Cheats">Final Fantasy Cheats</a></div></strong></td></tr>  
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/cheatsearch.php?search=Zelda" title="Zelda Cheats">Zelda Cheats</a></div></strong></td></tr>  
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/cheatsearch.php?search=Tony Hawk" title="Tony Hawk Cheats">Tony Hawk Cheats</a></div></strong></td></tr>  
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/cheatsearch.php?search=Medal of Honor" title="Medal of Honor Cheats">Medal of Honor Cheats</a></div></strong></td></tr>  
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/cheatsearch.php?search=Call of Duty" title="Call of Duty Cheats">Call of Duty </a></div></strong></td></tr>  
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/cheatsearch.php?search=Madden" title="Madden Cheats">Madden Cheats</a></div></strong></td></tr>  
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/cheatsearch.php?search=Need for Speed" title="Need for Speed Cheats">Need for Speed </a></div></strong></td></tr>  
+         <tr class="forumrow"><td><strong><div class="forumtopic">   <a href="/cheatsearch.php?search=Tiger Woods" title="Tiger Woods Cheats">Tiger Woods </a></div></strong></td></tr>  
+              
+                       
+                   
+       </tbody></table>
+    </div>   
+    <br>
+    <center>  <a href="http://www.gamezone.com"><img border="0" src="/images/buttonads/gamezone.gif" alt="Neopets Puzzle Adventure cheats" width="88" height="31"></a></center>
+    </td><td></td></tr></tbody></table>   	
+</div>
+
+<!-- BOF Footer-->
+<div class="footerlink">
+	<a href="http://www.CheatMasters.com/">Home</a> |
+	<a href="/aboutcm.php">About</a> |
+	<a href="http://www.CheatMasters.com/blog/" target="blog">Blog</a> |
+	<a href="http://www.cheatmasters.com/forumcmvb.php" target="forum">Forum</a> |
+	<a href="/cheatlist/DVD/DVD_cheats.html" title="DVD Cheats">DVD</a> |
+	<a href="/cheatlist/PS2/playstation_2__cheats.html" title="PS2 Cheats">PS2</a> |
+	<a href="/cheatlist/PS3/PS3_cheats.html" title="PS3 Cheats">PS3</a> |
+	<a href="/cheatlist/PSP/PSP_cheats.html" title="PSP Cheats">PSP</a> |
+	<a href="/cheatlist/NeoP/Neopets_cheats.html" title="Neopets Cheats">Neopets</a> |
+	<a href="/cheatlist/Xbox/Xbox_cheats.html" title="Xbox Cheats">Xbox</a> |
+	<a href="/cheatlist/X360/Xbox_360_cheats.html" title="Xbox 360 Cheats">360</a> |
+	<a href="/cheatlist/WII/Wii_cheats.html" title="Wii Cheats">Wii</a> |
+	<a href="/cheatlist/GBA/GBA_cheats.html" title="GBA Cheats">GBA</a> |
+	<a href="/cheatlist/NDS/NDS_cheats.html" title="NDS Cheats">NDS</a> |
+	<a href="/cheatlist/GC/Game_cube_cheats.html" title="Gamecube Cheats">GC</a> |
+	<a href="/cheatlist/PC/PC_cheats.html" title="PC Cheats">PC</a> |
+	<a href="/cheatlist/PS/Playstation_cheats.html" title="Playstation Cheats">PS</a> |
+	<a href="/cheatlist/DC/Dreamcast_cheats.html" title="Dreamcast Cheats">DC</a> |
+	<a href="/cheatlist/N64/N64_cheats.html" title="N64 Cheats">N64</a> |
+	<a href="/cheatlist/GB/Gameboy_cheats.html" title="Gameboy Cheats">GB</a> |
+	<a href="http://www.cheatmasters.com/cheats/25714/Grand_Theft_Auto_IV_cheats.html" title="GTA 4 Cheats">GTA 4 Cheats</a>
+</div>
+
+
+
+<div class="footertext">Copyright © 1994 - 2008 <a href="http://www.cheatmasters.com" target="_top"><strong>Cheatmasters.com</strong></a>. All rights reserved - <a href="/privacycm.php">Privacy Policy</a> - <a href="/TOU.php" target="TOU">Terms &amp; Conditions</a> - <a href="/DMCA2008.htm" target="dmca"> DMCA</a>.
+
+<!-- EOF Footer-->
 <script type="text/javascript" language="javascript1.2"><!--
 EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
 EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
@@ -341,375 +567,29 @@ EXd.write("<img src="+EXprot+"://nht-2.extreme-dm.com",
 </script><img src="https://nht-2.extreme-dm.com/n3.g?login=lairalli&amp;pid=cm&amp;auto=y&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><img height="1" width="1" alt=""
 src="http://nht-2.extreme-dm.com/n3.g?login=lairalli&amp;pid=cm&amp;j=n&amp;jv=n&amp;auto=y"/>
 </noscript>
- 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
+<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://cheatmasters.us.intellitxt.com/intellitxt/front.asp?ipid=11772"></script>
+<!-- end Vibrant Media IntelliTXT script section -->
+
 <script type="text/javascript">
-_uacct = "UA-792342-1";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-792342-1");
+pageTracker._initData();
+pageTracker._trackPageview();
 </script>
 
-<br>
-<script type="text/javascript"><!--
-google_ad_client = "pub-6799042953542358";
-google_ad_width = 120;
-google_ad_height = 240;
-google_ad_format = "120x240_as";
-google_ad_type = "text_image";
-google_ad_channel ="";
-google_color_border = "D0D0DD";
-google_color_bg = "D0D0DD";
-google_color_link = "336699";
-google_color_text = "000000";
-google_color_url = "000000";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-  
- 
-	  </td>
-           </tr></tbody></table>
-        </center>
-      </div>
-      </td>
-	  <td background="/new_images/headers/blk.gif" width="1"><img src="/new_images/headers/blk.gif" width="1"></td>
-    </tr>
-    <tr>
-      <td colspan="2">
-      <img border="0" src="/new_images/nav_headers/footer.gif"></td>
-    </tr>
-  </tbody></table>
-  </center>
-</div></td>
-                      </tr>
-                    </tbody></table>
-                  </div>
-                  </td>
-                  <!-- # END Left-menu column -->
-                  <td valign="top" width="5"></td>                  <!-- # Start Content column -->
-                  <td valign="top" width="460">
-                  <div align="center">
-                    <center>
-                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="455" id="AutoNumber3">
-                      <tbody><tr>
-                        <td>
-                        <img border="0" src="new_images/contenttop2.gif"></td>
-                      </tr>
-                      <tr>
-                        <td background="new_images/contentback2.gif">
-                        <div align="center">
-                          <center>
-                          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber5">
-                            <tbody><tr>
-                              <td width="100%">
-                              <img border="0" src="new_images/20spacer.gif" width="10" height="10"></td>
-                            </tr>
-                          </tbody></table>
-                          </center>
-                        </div>
-                        <div align="center">
-                          <center>
-                          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="390" id="AutoNumber6">
-                            <tbody><tr>
-                              <td>
-                              <img border="0" src="new_images/headers/top.gif"></td>
-                            </tr>
-                            <tr>
-                              <td>
-                              <div align="center">
-                                <center>
-                                <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber7">
-                                  <tbody><tr>
-                            <td width="16">
-                            <img border="0" src="new_images/headers/left.gif"></td>
-                            <td background="new_images/headers/back.gif">
-                            <p align="left"><b>PRIVACY STATEMENT</b></p></td>
-                            <td width="5" align="right">
-                            <img border="0" src="new_images/headers/rightend.gif"></td>
-                          </tr>
-                        </tbody></table>
-                        </center>
-                      </div>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td>
-                      <img border="0" src="new_images/headers/bottom.gif"></td>
-                    </tr>
-                  </tbody></table>
-                  </center>
-                </div>
-<blockquote>
-<font face="Arial" size="2"><b>Cheatmasters.com</b>, recognizes its member's rights to privacy.</font>
-
-<p><font face="Arial" size="2"><b>Cheatmasters.com</b> does not sell, rent, lease or allow any third
-parties to view or use the information collected unless the reader consents
-through the use of the site, or in any other way. Cheatmasters.com site
-does not send unsolicited emails.</font></p>
-<p><font face="Arial" size="2">
-<b>Cheatmasters.com</b> takes
-reasonable measures to keep the information disclosed secure. However, Cheatmasters.com assumes no responsibility for any breach of security to this data.</font></p>
-<p><font face="Arial" size="2">© 2000 - 2007, Cheatmasters.com </font></p><br>
-<p><font face="Arial" size="2"> <b>Third Party Advertising</b>
-<br>The ads appearing on this Web site are delivered to you by Third Party Advertising. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about Third Party Advertising, and cookies, please click <a href="http://www.cheatmasters.com/contacts.php">here </a>. 
-
-<br><br><b>Third Party Cookies</b>
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.<br><br>
-<br>
-Visit Adtegrity's privacy policy <a href="http://www.adtegrity.com/privacy.asp" target="adtegrity"> HERE: http://www.adtegrity.com/privacy.asp</a>	
-
- </font></p><font face="Arial" size="2">
-
-</font></blockquote><font face="Arial" size="2">
-                </font></td>
-              </tr>
-
-                      <tr>
-                        <td>
-                        <img border="0" src="/new_images/contentfooter2.gif"></td>
-                      </tr>
-                    </tbody></table>
-                    </center>
-                  </div>
-                  </td>
-                  <!-- # END Content column -->
-               
-               
-                  <!-- # Right-menu column -->
-                  <td valign="top" width="160">
-                  <div align="right">
-                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="155" id="AutoNumber2">
-                      <tbody><tr>
-                        <td>
-<div align="right">
-  <center>
-  <table border="0" cellpadding="0" cellspacing="0" width="155">
-    <tbody><tr>
-      <td colspan="2">
-      <img border="0" src="/new_images/login_games.gif"></td>
-    </tr>
-    <tr bgcolor="#DFDFE0">
-      <td background="/new_images/nav_headers/r_background.gif">
-      	<img src="/new_images/nav_headers/r_background.gif" width="2">
-      </td>
-      <td>
-        <table border="0" cellpadding="2" cellspacing="2" style="border-collapse: collapse" width="140" bgcolor="#E0E0E8" align="center">
-           <tbody><tr>
-            <td bgcolor="#D3D3D8">
-             <form name="form1" method="post" action="/login.php">
-		                <table border="0" cellspacing="0" cellpadding="0">
-		                  <tbody><tr>
-		                    <td><span class="sml">Username:</span></td>
-		                    <td><input type="text" name="username" style="width:63px; height:16px; margin:0px; padding:0px; font-family:Tahoma, Arial, verdana, sans-serif; font-size:9px;" value=""></td>
-		                  </tr>
-		                  <tr>
-		                    <td><span class="sml">Password:</span></td>
-		                    <td><input type="password" name="password" style="width:63px; height:16px; margin:0px; padding:0px; font-family:Tahoma, Arial, verdana, sans-serif; font-size:9px;"></td>
-		                  </tr>
-		                  <tr>
-                      <td colspan="2" class="sml" style="white-space:nowrap"><span class="green">Remember it?</span> <input name="remember" type="checkbox" style="margin:0px; padding:0px;" value="remember"></td>
-                      </tr>
-                    <tr>
-                      <td class="sml" style="white-space:nowrap"><a href="/forgotpass.php" class="text">Forgot?</a> </td>
-                      <td align="right"><input name="Submit" type="submit" class="burronsection" value="Login"></td>
-                    </tr>
-                    <tr>
-                      <td align="center" colspan="2" style="white-space:nowrap"><br><a href="/register.php" class="menu">[ Register ]</a> </td>
- 
-                    </tr>    
-		                </tbody></table>
-            </form></td>
-          </tr>
-          </tbody></table>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-      <img border="0" src="/new_images/nav_headers/r_footer.gif"></td>
-    </tr>
-  </tbody></table>
-  </center>
-</div></td>
-                      </tr>
-                    </tbody></table>
-                  </div>
-               
-<!-- TF 160x600 JScript VAR code -->
-<center><script language="javascript"><!--
-document.write('<scr'+'ipt language=javascript src="http://a.tribalfusion.com/j.ad?site=cheatmasterscom&adSpace=ROS&size=160x600&type=var&requestID='+((new Date()).getTime() % 2147483648) + Math.random()+'"></scr'+'ipt>');
-//-->
-</script><script language="javascript" src="http://a.tribalfusion.com/j.ad?site=cheatmasterscom&amp;adSpace=ROS&amp;size=160x600&amp;type=var&amp;requestID=20180409630.24694601569205843"></script>
-<noscript>
-   <a href="http://a.tribalfusion.com/i.click?site=cheatmasterscom&adSpace=ROS&size=160x600&requestID=261709425" target=_blank>
-   <img src="http://a.tribalfusion.com/i.ad?site=cheatmasterscom&adSpace=ROS&size=160x600&requestID=261709425" 
-                  width=160 height=600 border=0 alt="Click Here"></a>
-</noscript>
-</center>
-<!-- TF 160x600 JScript VAR code --> 
-                
-                  
-                   <div align="right">
-                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="155" id="AutoNumber2">
-                      <tbody><tr>
-                      </tr><tr>
-                        <td><div align="center">
-  <center>
-  <table border="0" cellpadding="0" cellspacing="0" width="155">
-    <tbody><tr>
-      <td colspan="2">
-      <img border="0" src="/new_images/nav_headers/r_games.gif"></td>
-    </tr>
-    <tr bgcolor="#DFDFE0">
-      <td background="/new_images/nav_headers/r_background.gif">
-      	<img src="/new_images/nav_headers/r_background.gif" width="2">
-      </td>
-      <td>
-        <table border="0" cellpadding="2" cellspacing="2" style="border-collapse: collapse" width="140" bgcolor="#E0E0E8" align="center">
-           <tbody><tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" target="_blank" href="http://www.lordsoflegend.com/affiliate.php"><font color="red">Lords of Legend</font><img src="http://www.tradelair.com/images/new.gif" border="0" height="12"></a></p></td>
-          </tr>   
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" target="_blank" href="http://www.blacknovatraders.net/"><font size="1">BlackNovaTraders NET</font></a></p></td>
-          </tr>  
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" target="_blank" href="http://www.tradelair.com/LoGD/">LoGD </a></p></td>
-          </tr>          
-
-          <tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <a class="menu" target="_blank" href="http://qse.tradelair.com">Solar Empire SE</a></p></td>
-          </tr>
- 
+<script src="http://www.cheatmasters.com/js/jquery.js" type="text/javascript"></script>
+<script src="http://www.cheatmasters.com/js/jtip.js" type="text/javascript"></script>
 
 
-
-          </tbody></table>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-      <img border="0" src="/new_images/nav_headers/r_footer.gif"></td>
-    </tr>
-  </tbody></table>
-  </center>
-</div></td>
-                      </tr>
-                      <tr>
-                        <td><div align="right">
-  <center>
-  <table border="0" cellpadding="0" cellspacing="0" width="155">
-    <tbody><tr>
-      <td colspan="2">
-      <img border="0" src="/new_images/nav_headers/r_affiliates.gif"></td>
-    </tr>
-    <tr bgcolor="#DFDFE0">
-      <td background="/new_images/nav_headers/r_background.gif">
-      	<img src="/new_images/nav_headers/r_background.gif" width="2">
-      </td>
-      <td>
-        <table border="0" cellpadding="2" cellspacing="2" style="border-collapse: collapse" bordercolor="#E0E0E8" width="140" bgcolor="#E0E0E8" align="center">
-          <tbody><tr>
-            <td bgcolor="#D3D3D8">
-            <p align="left" class="menu">
-            <font color="#800000">×</font><font color="#000000"> <a href="http://www.gamezone.com" class="menu" target="_blank"><font color="Blue">Game Zone</font><br> 
-            	<font color="#800000">×</font><font color="#000000"> </font></a><font color="#000000"><a href="http://www.cheatgenius.co.uk" class="menu" target="_blank">Cheat Genius<br>             	
-            <font color="#800000">×</font><font color="#000000"> </font></a><font color="#000000"><a href="http://www.playstation2-cheats.co.uk" title="PLaystation 2 cheats" class="menu" target="new"> <b>PS2 Cheats</b></a></font><b><b><br>
-            <font color="#800000">×</font><font color="#000000"> <a href="http://www.ps3cheats.net" class="menu" target="_blank">PS3 Cheats<br> 
-            <font color="#800000">×</font><font color="#000000"> </font></a><font color="#000000"><a href="http://www.wogaming.com" class="menu" target="_blank">WO Gaming<br>
-            <font color="#800000">×</font><font color="#000000"> </font></a><font color="#000000"><a href="http://www.codesfor.com" class="menu" target="_blank">Codes For<br>    
-            <font color="#800000">×</font><font color="#000000"> </font></a><font color="#000000"><a href="http://www.gamecheats.eu" class="menu" target="_blank">Game Cheats<br>         
-            <font color="#800000">×</font><font color="#000000"> </font></a><font color="#000000"><a href="http://www.cheataddict.com" class="menu" target="_blank">Cheat Addict<br>  
-            <font color="#800000">×</font><font color="#000000"> </font></a><font color="#000000"><a href="http://www.add-hits.com" class="menu" target="_blank">Google SEO<br>
-            <font color="#800000">×</font><font color="#000000"> </font></a><font color="#000000"><a href="http://www.acidcheats.com" class="menu" target="_blank"><b>Acid Cheats</b></a></font><br>            
-	          <font color="#800000">×</font><font color="#000000"> <a href="http://www.abby-cheat.com" class="menu" target="new">Abby-Cheat</a></font><br>		          
-	          <font color="#800000">×</font><font color="#000000"> <a href="http://www.level80.co.uk/" class="menu" target="new">Level 80</a></font><br>
-	          <font color="#800000">×</font><font color="#000000"> <a href="http://www.cheats.ee" class="menu" target="new">Cheats</a></font><br>  	     
-	          <font color="#800000">×</font><font color="#000000"> <a href="http://www.cheats.it" class="menu" target="_blank">cheats.it</a></font><br>
-	          <font color="#800000">×</font><font color="#000000"> <a href="http://www.xbox-cheats-online.com" class="menu" target="_blank">Xbox (Online)</a></font><br>
-	          <font color="#800000">×</font><font color="#000000"> <a href="http://www.pc-cheats-online.com" class="menu" target="_blank">PC (Online)</a></font><br>
-	          <font color="#800000">×</font><font color="#000000"> <a href="http://www.playstation-2-cheats-online.com" class="menu" target="_blank">PS2 (Online)</a></font><br>
-	          <font color="#800000">×</font><font color="#000000"> <a href="http://www.gamingworldx.com" class="menu" target="_blank">GamingWorld X</a></font><br>        
-	          <font color="#800000">×</font><font color="#000000"> <a href="http://www.darkstation.com" class="menu" target="_blank">Darkstation</a></font><br>
-	          <font color="#800000">×</font><font color="#000000"> <a href="http://www.cheatstop.com" class="menu" target="_blank">Cheatstop</a></font><br>	
-	          <font color="#800000">×</font><font color="#000000"> <a href="http://www.gamediscovery.com" class="menu" target="_blank">Game Discovery</a></font><br>
-            </font></font></font></font></font></font></b></b></font></font></p></td>
-          </tr>
-          <tr>
-            <td bgcolor="#C5C5D6">
-            <p align="center" class="menu">
-            <a class="menu" target="_blank" href="/contacts.php">Become One</a></p></td>
-          </tr>
-          </tbody></table>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-      <img border="0" src="/new_images/nav_headers/r_footer.gif"></td>
-    </tr>
-  </tbody></table>
-  </center>
-</div></td>
-                      </tr>
-                      <tr>
-                        <td></td> 
-                      </tr>
-                    </tbody></table>
-                  </div>
-  
-
-  
-  
-  
-                  </td>
-                  <!-- # END Right-menu column -->
-                </tr>
-              </tbody></table>
-            </div>
-            <!-- -- ### END of 5-column content table ---->
-            <div align="left">
-              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="760" id="AutoNumber4">
-                <tbody><tr>
-                  <td><div align="left">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="780" id="AutoNumber1">
-    <tbody><tr>
-      <td><img border="0" src="/new_images/page_footer/top.gif" width="780" height="22"></td>
-    </tr>
-    <tr>
-      <td><div align="left">
-        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="780" id="AutoNumber2" background="/new_images/page_footer/textback.gif">
-          <tbody><tr>
-            <td background="/new_images/page_footer/textback.gif"><p align="center" class="foot">Copyright © 2006 Cheatmasters.com,
-            all rights reserved -  
-            <a href="/privacy.php" class="sml">Privacy  Policy</a></p></td>
-            <td width="137"><a target="_blank" href="http://www.lairdesign.co.uk"><img border="0" src="/new_images/page_footer/sis.gif" alt="Design by SIS" width="137" height="27"></a></td>
-            <td width="43"><a href="#top"><img border="0" src="/new_images/page_footer/to_top.gif" alt="Top of Page" width="43" height="27"></a></td>
-          </tr>
-        </tbody></table>
-      </div></td>
-    </tr>
-    <tr>
-      <td><img border="0" src="/new_images/page_footer/bottom.gif" width="780" height="8"></td>
-    </tr>
-  </tbody></table>
-</div></td>
-                </tr>
-	                
-              </tbody></table>
-            </div>
-            </td>
-          </tr>
-        </tbody></table>
-      </div>
-      </td>
-    </tr>
-  </tbody></table>
+</div>
 </div>
 
-</body></html>
+
+
+
+</div></body></html>
