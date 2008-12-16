@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthomeusa.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522024540id_/http%3A//www.smarthomeusa.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthomeusa.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216064304id_/http%3A//www.smarthomeusa.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for SmartHomeUSA.com - SmartHomeUSA.com
 
@@ -9,7 +9,7 @@ Our Site uses cookies to save your password, ship-to and bill-to address (but no
 Our site's registration form requires users to give us contact information (like their name, email, and postal address). Contact information from the registration forms is used to ship purchases and to provide information about our company. The customer's contact information is also used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
   **Order Forms**   
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like email address), and financial information (like account or credit card numbers). Contact information from the order forms is used to ship purchases and to provide information about our company. The customer's contact information is also used to get in touch with them when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. 
+Our site uses an order form for customers to request information, products, and services. We collect contact information (like email address), and financial information (like account or credit card numbers). Contact information from the order forms is used to ship purchases and to provide information or advertisements about our company. The customer's contact information is also used to get in touch with them when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. 
 
   **Contests**   
 We run contests on our site in which we ask visitors for contact information (like email address). Contact information from the contests is used to ship purchases and to provide information about our company. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
