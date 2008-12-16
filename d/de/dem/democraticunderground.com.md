@@ -1,44 +1,79 @@
-> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509122206id_/http%3A//www.democraticunderground.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012801id_/http%3A//www.democraticunderground.com/privacy.html) for the most accurate reproduction.*
 
 # Democratic Underground Privacy Policy
 
-**Privacy Statement for the Democratic Underground Website**
+**Democratic Underground  Privacy Policy**
 
-_This privacy statement was created using the privacy statement wizard at<http://www.truste.com/wizard>. It was last modified on August 30, 2001._
+Democratic Underground, LLC (“Democratic Underground” or “the Site”) has created this privacy statement in order to demonstrate its firm commitment to privacy. In adopting this privacy policy, the intent is to balance the Site’s legitimate business interests in collecting and using personally identifiable information and a user’s reasonable expectations of privacy. The following discloses the information gathering and dissemination practices for the Democratic Underground Site.
 
-Democratic Underground, LLC, (Democratic Underground) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Democratic Underground. 
+**Information Collection & Use**
 
-Our site's registration forms require users to give us contact information (like their name and email address). We use customer contact information from these registration forms to send the user occasional email messages. The customer's contact information is also used to contact the visitor when necessary. Users' contact information may be shared with other organizations and companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+_Information Collected from All Users_
 
-This site contains links to other sites. Democratic Underground is not responsible for the privacy practices or the content of such Web sites. 
+Democratic Underground collects certain information from users that is not personally identifiable. This information includes, but is not limited to, the user’s Internet service provider (ISP), Internet protocol (IP) address, Internet browser type and version and operating system (OS). Other information collected includes the date and time of a user’s exit and entry on the Site, the names and addresses of referral sites, the specific pages a user chooses to visit on the Site and certain search terms that a user may have employed to find the Site.
 
-We have relationships with other Web sites to provide additional services. Plug 'n' Pay Technologies ([http://www.plugnpay.com](http://www.plugnpay.com/)) provides merchant processing services for donations to this Web site. Cafe Press ([http://www.cafepress.com](http://www.cafepress.com/)) provides merchandise production and order fullfillment for this Web site. We have contracted with BURST! Media, LLC, ([http://www.burstmedia.com](http://www.burstmedia.com/)) to serve banner advertisements on this site. We are not responsible for the services they provide, nor are we responsible for the privacy practices or content of their sites. 
+_Use of Information Collected from All Users_
 
-Our site links to order forms for customers to purchase products and make donations. We collect visitors' contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send confirmation mailings, and to send the user occasional email messages. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. 
+Information collected from “All Users” is used for purposes of internal reviews, including, but not limited to, traffic audits, tailoring of pages to a particular user’s technology environment, analyzing traffic and search trends, generating aggregate demographic information and general Site administration. This information may be shared in an aggregate form with advertisers and other third parties with a legitimate interest in the data. This aggregated data is anonymous and does not allow third parties to identify Democratic Underground users.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you in our discussion forum. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. 
+_Information Collected from Registered Users_
 
-**Public Forums**  
-This site makes discussion forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+“Registered Users” are users that choose to participate more fully on the Democratic Underground Site. This higher level of participation includes, but is not limited to, a user’s decision to register for the online forums, make a purchase or donation, or otherwise share more detailed personal or payment information with Democratic Underground.
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us. 
+Democratic Underground registration and payment forms may require users to provide certain types of personally identifiable information. This information may include, but is not limited to, a user’s name, e-mail address, postal address, country of residence, telephone number, year of birth, gender and similar identifying information. This information may also include payment information, such as a user’s credit card number or other payment account numbers. Democratic Underground may also record a user’s IP address along with your personally identifiable information.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+_Use of Information Collected from Registered Users_
 
-  1. You can send email to: [du@remove.postmastergeneral.com](mailto:du@remove.postmastergeneral.com)
-  2. You can visit the following URL: <http://inbound.postmastergeneral.com/remove?du>
+Information collected from “Registered Users” is used for purposes of communicating with registered users, including, but not limited to, sending a user occasional e-mail messages from Democratic Underground, corresponding with users via email in response to user inquiries, providing services a user may request and otherwise managing a user’s account. Users’ contact information may be shared with other organizations and companies, pre-screened by Democratic Underground, who may want to contact Site users. Users may opt-out of future mailings from Democratic Underground by employing methods provided in the below section entitled “Opt-Out and Modification of Provided Information.”
 
+Payment information is used for purposes of billing and order fulfillment. This includes, but is not limited to, sending a user’s billing information to a credit card processor or providing a user’s postal address to a shipping company.
 
+IP addresses and e-mail addresses may be employed by the Site for identity, safety and security purposes. Such uses include, but are not limited to, identifying specific users in the discussion forums or preventing access to the Site based on a user’s IP or e-mail address. Democratic Underground reserves the right to retain records of IP or e-mail addresses obtained by a Registered User for purposes of User identification and enforcement of Site policies and procedures.
 
-**Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided. 
+Democratic Underground authorizes pre-screened volunteer moderators to access limited information about Registered Users. Information accessible by these volunteers generally includes e-mail address, history of activity on the Site, and a user’s deleted posts, warnings, suspensions, and related discipline information. Volunteers also have access to any personal information which a Registered User may voluntarily disclose, including a user’s real name and location. Volunteer moderators do not have access to a user’s donation information or IP address.
 
-  1. Send an email to: [mail@democraticunderground.com](mailto:mail@democraticunderground.com)
+**Security**
 
+Democratic Underground employs reasonable security methods to secure users’ privacy, including, but not limited to, third-party encryption of payment forms, password protected file systems and similar means of protection, designed to protect the loss, misuse and alteration of information under Democratic Underground’s control. While Democratic Underground takes commercially reasonable security precautions, the Site is not responsible for data breaches of third parties, such as payment processors, web hosts or advertising providers.
 
+**Voluntary Public Disclosure**
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+The Democratic Underground Site may include features, such as discussion forums, blog comment forms and related tools, that allow users to publicly share information about themselves. Any information a user discloses in these areas is publicly available on the Internet. Such information may be read, archived, collected, or used by other Internet users, including automated services such as search engines. Democratic Underground is not responsible for personally identifiable information you choose to publicly disclose, and urges users to exercise caution when disclosing information that may be personal in nature.
 
-David Allen Democratic Underground, LLC P.O. Box 53350 Washington, DC 20009 mail@democraticunderground.com
+**Third Party Websites**
+
+This Democratic Underground Privacy Policy applies only to information collected by the Democratic Underground Site. The Democratic Underground Site may contain links to other third party web sites that are not owned or controlled by Democratic Underground, including, but not limited to, third party advertisers. These sites control their own privacy practices and are not bound by this Democratic Underground Privacy Policy. Democratic Underground is not responsible for the information or services provided on third party sites provide, nor is it responsible for the privacy practices or content of their sites.
+
+**Cookies**
+
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes.  Democratic Underground may use both “session ID cookies” and “persistent cookies.” Democratic Underground uses cookies to deliver content specific to your interests, provide convenience features and for other purposes.
+
+**Disclosure by Legal Mandate**
+
+Democratic Underground reserves the right to disclose your personally identifiable information as required by legal mandate, including, but not limited to, compliance with a judicial proceeding, court order, or legal process lawfully served on Democratic Underground.
+
+**Children Under Thirteen Years of Age**
+
+Pursuant to the Children's Online Privacy Protection Act of 1998 (COPPA), Democratic Underground generally does not knowingly collect personally identifiable information from children under thirteen (13) years of age. Democratic Underground only collects information from children under thirteen years of age after receiving verified parental consent prior to collection. Upon notice that Democratic Underground has inadvertently collected personally identifiable information from a child under thirteen, Democratic Underground will take all reasonable steps to remove such information from its records as quickly as reasonably possible.
+
+**Transition of Ownership**
+
+Were Democratic Underground to engage in a business transition, such as a merger, acquisition or sale, your personally identifiable information may be among the assets transferred. Users will be notified of any ownership transition via prominent notice on the Site at least thirty (30) days before any such change in ownership or control of your personal information is undertaken.
+
+**Opt-Out and Modification of Provided Information**
+
+Democratic Underground users may request that their personal information be deleted from Site records by sending an email to mail@democraticunderground.com. The Site will remove personally identifiable information from its records for any user that requests removal, provided that the user’s account remains inactive for seven days. Any user whose information is removed from Site records shall thereafter be bound by rules for “All Users,” as provided above, except that information in the public domain, such as a user’s forum posts while a Registered User, will not be deleted from the Site’s records.
+
+**Changes to this Privacy Policy**
+
+Democratic Underground reserves the right to modify this Privacy Policy at any time by posting the changes on the Democratic Underground Site. This Democratic Underground Privacy Policy was last updated on December 13, 2008.
+
+**Contact Information**
+
+If you have any questions or suggestions regarding our privacy policy, please contact Democratic Underground at:
+
+David Allen  
+Democratic Underground, LLC  
+P.O. Box 53350  
+Washington, DC 20009  
+mail@democraticunderground.com
