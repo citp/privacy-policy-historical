@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollyclips.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019030208id_/http%3A//www.bollyclips.com/about/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyclips.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012303id_/http%3A//www.bollyclips.com/about/privacypolicy.php) for the most accurate reproduction.*
 
 # Bollyclips.com - Privacy Policy
 
@@ -57,4 +57,4 @@ If you have any questions about this privacy statement, the practices of this si
 Bollyclips.com does not store/host any files on its server. We only index and link to content provided by other sites. Bollyclips.com  is not necessarily affiliated with any of the vidoes displayed from YouTube.com, Google Video, GoFish.com, ApnaTube.com & Metacafe.com published on this  web site. While we strive to provide useful, quality videos, we make no claims or guarantees about the accuracy, completeness, or reliability of any information they contain. Videos are provided for entertainment purposes only and should not necessarily be taken as facts. Bollyclips.com does not accept any responsibility or liability for the use or misuse of information provided by any videos on this site. Bollyclips.com do not publish or host the videos that are linked or displayed to on Bollyclips.com and have no way of controlling the publishers or the servers on which the videos are hosted. Thus, if you want a piece of content removed from circulation, the best way to do that is to contact the website that hosts the video, not us.
 
 **Date Last Modified:**  
-This Privacy Notice was last modified February 27th, 2007.
+This Privacy Notice was last modified October 2nd, 2008.
