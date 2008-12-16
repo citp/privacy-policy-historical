@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the lookery.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630080321id_/http%3A//blog.lookery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookery.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216233144id_/http%3A//www.lookery.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Lookery Blog
+# Privacy - Lookery
 
 **Lookery’s Privacy Policy**  
 **Last updated October 08, 2007**
 
-**Lookery, LLC** (”Lookery”) is a provider of targeted marketing technology and services to websites and online marketers, and considers the protection of your privacy to be of paramount importance. We operate demographic marketing services both on and more recently off Facebook. This Privacy Policy was prepared to describe how we use and collect consumer data in providing these services.
+**Lookery, LLC** (“Lookery”) is a provider of targeted marketing technology and services to websites and online marketers, and considers the protection of your privacy to be of paramount importance. We operate demographic marketing services both on and more recently off Facebook. This Privacy Policy was prepared to describe how we use and collect consumer data in providing these services.
 
 Lookery as a technology provider
 
