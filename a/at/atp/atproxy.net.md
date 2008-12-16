@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atproxy.net privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610122145id_/http%3A//www.free-internet-media.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atproxy.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217004950id_/http%3A//www.free-internet-media.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Internet Media
 
@@ -16,7 +16,7 @@ If you choose to correspond with us through email, we may retain the content of 
 
 **Web Site Use Information**
 
-Similar to other commercial web sites, our web sites utilize a standard technology called “cookies” and web server logs to collect information about how our web site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our web site, and the web sites visited just before and just after our web site.
+Similar to other commercial web sites, our web sites utilize a standard technology called “[browser cookies](http://www.tech-faq.com/browser-cookie.shtml "Browser Cookie")” and web server logs to collect information about how our web site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our web site, and the web sites visited just before and just after our web site.
 
 **Sharing Information with Third Parties**
 
@@ -25,5 +25,3 @@ We do not share information obtained from you with any third party.
 **Advertisers**
 
 Advertisers on our sites, such as Google Adsense, may also set browser cookies on your machine.
-
-**Share and Enjoy:** These icons link to social bookmarking sites where readers can share and discover new web pages.
