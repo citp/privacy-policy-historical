@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014031916id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014207id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
 
 # Opodo
 
@@ -28,7 +28,7 @@ We may use your data for the following principal purposes:
 
 \- to fulfil the bookings and purchases you have made through our website, and any other requests we receive from you;
 
-\- to contact you about changes to your itinerary eg. flight schedule changes, delays etc;
+\- to contact you about changes to your itinerary eg. flight schedule changes, delays etc, or to send you useful information about your trip;
 
 \- to notify you about our products and services, special offers and promotions and any other marketing materials which we think may interest you. While this may include material about third party products from time to time, those third parties will not contact you directly (unless you subsequently ask them to!);
 
@@ -36,7 +36,7 @@ We may use your data for the following principal purposes:
 
 \- to occasionally participate as part of a survey or to get feedback
 
-Normally we will contact you by email but we may occasionally contact you by mail, phone, fax or sms. 
+Normally we will contact you by email but we may occasionally contact you by mail, phone, fax or sms (mobile phone text messages). 
 
 _**As we may need to contact you regarding flight schedule/hotel changes or cancellations as quickly as possible after they are notified to us by the airline/hotel we strongly recommend that when booking you give us a valid email address and phone number that is accurate and does not block calls from business numbers before and during any travel period.**_
 
@@ -78,5 +78,5 @@ If you wish us to stop sending you newsletters or details of other offers and pr
 ---|---  
   
 **How safe are my details?**  
-To find out more, read our  [ Privacy](http://opodo.co.uk/opodo/StrutsServlet/PrivacyPopUp?pageName=privacy&Int_Id=PS_1.0&locale=en_GB)  
-and  [ Security](http://opodo.co.uk/opodo/StrutsServlet/SecurityPopUp?pageName=security&Int_Id=PS_1.0&locale=en_GB)  policies
+To find out more, read our  [ Privacy](http://www.opodo.co.uk/opodo/StrutsServlet/PrivacyPopUp?pageName=privacy&Int_Id=PS_1.0&locale=en_GB)  
+and  [ Security](http://www.opodo.co.uk/opodo/StrutsServlet/SecurityPopUp?pageName=security&Int_Id=PS_1.0&locale=en_GB)  policies
