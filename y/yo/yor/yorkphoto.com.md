@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yorkphoto.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509090516id_/http%3A//www.yorkphoto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yorkphoto.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044725id_/http%3A//www.yorkphoto.com/privacy) for the most accurate reproduction.*
 
 # York: Privacy Policy
 
@@ -44,7 +44,7 @@ From time to time, we will also provide Customer Information to outside companie
 York Photo Labs will also share Customer Information if required by law (or to protect its rights or property). 
 
 **Who sees your photos after they have been posted online?**  
-You, your Invitees and their Invitees can see your albums online. An Invitee is defined as anyone who is invited to the site to see an album. Anyone who is invited to see an album online must provide an email address and a password to access the site and view a shared album. When you choose to share your online images with Invitees, those individuals will be able to view your album. If you don't want your Invitees to invite other people to see the album, you can restrict their ability to do so on the album invitation. That will prohibit them from re-sharing the album from within their account. However, as with any email, your Invitees could forward the email invitation to others, who will then be able to click on the link to the album within the email, and see the pictures too. 
+You, your Invitees and their Invitees can see your albums online. An Invitee is defined as anyone who is invited to the site to see an album. Anyone who is invited to see an album online must provide an email address and a password to access the site and view a shared album. When you choose to share your online images with Invitees, those individuals will be able to view your album. However, as with any email, your Invitees could forward the email invitation to others, who will then be able to click on the link to the album within the email, and see the pictures too. 
 
 York Photo Labs employees or employees of partner companies that provide services to York Photo Labs may see your photos while they are developed, scanned or printed. In addition, your photos or personal account information may be seen by York Photo Labs employees, or employees of partner companies, in order to evaluate, validate, or correct problems with your account. 
 
