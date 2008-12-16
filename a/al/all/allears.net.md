@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the allears.net privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502053943id_/http%3A//www.allears.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allears.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030023id_/http%3A//www.allears.net/privacy.htm) for the most accurate reproduction.*
 
-# AllEarsNet -- General
+# Privacy Policy
 
   
-RYI Enterprises, LLC, owns and operates **AllEarsNet®** , which comprises **Deb's Unofficial Walt Disney World Information Guide** (WDWIG), the **ALL EARS®** weekly newsletter and its companion promotional newsletter **Ears the Deal™** , and the **Ears to Ears™** moderated forum on Yahoo.
+RYI Enterprises, LLC, (RYI) owns and operates **AllEars.net®** , which comprises **the Unofficial Walt Disney World Information Guide** , the **ALL EARS®** weekly newsletter and its companion promotional newsletter **Ears the Deal™** , and the **Ears to Ears™** moderated forum on Yahoo.
 
-RYI has created this **privacy statement** in order to demonstrate our firm commitment to the users' privacy. The following discloses the information gathering and dissemination practices for **AllEarsNet.com** **®.**
+RYI has created this **privacy statement** in order to demonstrate our firm commitment to the users' privacy. The following discloses the information gathering and dissemination practices for **AllEars.net** **®.**
 
-**AllEarsNet** **®** **** **is committed to your privacy, and does not sell, exchange, or release any of your individual personal information to a third party without your express permission.**
+**AllEars.net** **®** **is committed to your privacy, and does not sell, exchange, or release any of your individual personal information to a third party.**
 
   
 **SCOPE OF POLICY**
 
-This Privacy Policy applies only to **AllEarsNet** **®**. This privacy policy does not apply to other companies' or organizations' websites that you may link to. You should carefully review the Privacy Policy of other websites to determine how they treat personal information.
+This Privacy Policy applies only to **AllEars.net** **®**. This privacy policy does not apply to other companies' or organizations' websites that you may link to. You should carefully review the Privacy Policy of other websites to determine how they treat personal information. 
 
   
 **INFORMATION AUTOMATICALLY COLLECTED AND STORED**
 
-When you browse through any web site, certain personal information about you can be collected. Like most standard web site servers we use log files. We automatically collect and temporarily store information about your visit. We use this information for statistical purposes and to help us make our site more useful to visitors. The data collected may include Internet protocol (IP) addresses, domain name, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. This data is used to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. Your IP number is visible to most of the websites that you visit. **AllEarsNet** **®** may use IP numbers to help diagnose problems with our servers and to administer our Web site. 
+When you browse through any web site, certain personal information about you can be collected. Like most standard web site servers we use log files. We automatically collect and temporarily store information about your visit. We use this information for statistical purposes and to help us make our site more useful to visitors. The data collected may include Internet protocol (IP) addresses, domain name, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. This data is used to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. Your IP number is visible to most of the websites that you visit. **AllEars.net** **®** may use IP numbers to help diagnose problems with our servers and to administer our Web site. 
 
-**AllEarsNet** **®** utilizes **[mailermailer.com](http://mailermailer.com/)** for newsletter ( **ALL EARS** **®** **** and **Ears the Deal** ™) distribution, and **[ad-rotator.com](http://ad-rotator.com/)** for banner ad programs. Please see those sites for their privacy information.
+**AllEars.net** **®** utilizes **a number of outside vendors to operate portions of the website and/or newsletter. For instance,[mailermailer.com](http://mailermailer.com/)** is used for newsletter ( **ALL EARS** **®** **** and **Ears the Deal** ™) distribution, and **[adspeed.com](http://adspeed.com/)** for banner ad programs. Please see those sites for their privacy information.
 
   
 **PERSONALLY PROVIDED INFORMATION**
@@ -41,21 +41,21 @@ We reserve the right to perform statistical analysis of user behavior and charac
 A cookie is a mechanism that allows a website to record your comings and goings, usually without your knowledge or consent. **ALL EARS** **®** **does not request cookies of its visitors.** However, our banner rotation program is administered by a third party and may contain cookies. We do not have access to this cookie information.   
 
 
-If you do not want to accept cookies from **AllEarsNet** **®** or other sites, you must set your browser software to not accept cookies. Look in the Preferences (Netscape) or Internet Options (Microsoft Internet Explorer) feature to disable cookies. 
+If you do not want to accept cookies from **AllEars.net** **®** or other sites, you must set your browser software to not accept cookies. Look in the Preferences (Netscape) or Internet Options (Microsoft Internet Explorer) feature to disable cookies. 
 
-If you disable cookies you may not be able to use certain features on the **AllEarsNet** **®** websites. Also, the disabling of cookies may prohibit your participation in contests and drawings.
+If you disable cookies you may not be able to use certain features on the **AllEars.net** **®** websites. Also, the disabling of cookies may prohibit your participation in contests and drawings.
 
 **REGISTRATION FORMS**
 
 The only registration form is for subscription to 
 
-**ALL EARS** **®** ****, the weekly newsletter sent to subscribers e-mail addresses.
+**ALL EARS** **®** , the weekly newsletter sent to subscribers e-mail addresses. 
 
-The **ALL EARS** **®** ****registration form **requires** users to provide an e-mail address and **requests** demographic information (like zip code and country). Contact information from the registration forms is used to send out the newsletter and to gather aggregate demographic data. The demographic information is shared with advertisers and partners on an aggregate basis only.
+The **ALL EARS** **®** registration form **requires** users to provide an e-mail address and **requests** demographic information (like zip code and country). Contact information from the registration forms is used to send out the newsletter and to gather aggregate demographic data. The demographic information is shared with advertisers and partners on an aggregate basis only.
 
 **ALL EARS** **®** subscribers have the option to sign up for **Ears the Deal™** : special offers and announcements pertaining to Disney World and Central Florida? By checking the yes box you agree to have your email address added to an **AllEarsNet** **®** special mailing list.
 
-**Individual information is never shared with any third party. AllEarsNet** **®** **does NOT sell your email address or distribute it to any other entity.**
+**Individual information is never shared with any third party.** **AllEars.net** **®** **does NOT sell your email address or distribute it to any other entity.**
 
 **ALL EARS** **®** **is ONLY delivered via e-mail.** If the user does not provide an email address, **ALL EARS** **®** can not be delivered. An archive of the featured articles of previous issues is available at the **[ALL EARS](https://web.archive.org/ae/ae.htm)**[ **® ****website**](https://web.archive.org/ae/ae.htm)[.](https://web.archive.org/ae/ae.htm)
 
@@ -96,4 +96,4 @@ At any time, you can change choices you have previously made as to the use of yo
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, contact:
 
-This Privacy Policy was last modified on June 24, 2005.
+This Privacy Policy was last modified on January 6, 2008.
