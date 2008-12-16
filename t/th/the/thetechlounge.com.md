@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetechlounge.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613210458id_/http%3A//www.thetechlounge.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechlounge.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216073928id_/http%3A//www.thetechlounge.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - About | TheTechLounge
+# Privacy Policy - About TheTechLounge
 
 Privacy policy
 
@@ -31,3 +31,7 @@ Any changes to our privacy policy will be posted on this page so that you are al
 Tell us what you think
 
 TheTechLounge welcomes your questions and comments about our privacy policy. Please send an e-mail to [Brian@TheTechLounge.com](mailto:brian@thetechlounge.com).
+
+| 
+
+[I4U](http://www.i4u.com/full-review-465.html) Aug. 24, 2008 - 2:46 am
