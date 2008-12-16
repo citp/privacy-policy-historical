@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the technospot.net privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610143330id_/http%3A//www.technospot.net/blogs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technospot.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044348id_/http%3A//www.technospot.net/blogs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## Privacy Policy
 
 Technospot.Net value our readers and visitors privacy. However for maintaining statics and keeping away spammers we do need to collect and preserve small piece of information of people who visit our site.
 
@@ -18,7 +16,7 @@ Technospot.Net value our readers and visitors privacy. However for maintaining s
 
 #### Comment Policy:
 
-“Commenting a weblog or any site is one of the major responsibility on the side of reader as its same as telling something about a person or something in public…. **It Leaves A Major Impact.** ”
+“Commenting a weblog or any site is one of the major responsibility on the side of reader as its same as telling something about a person or something in public….It Leaves A Major Impact. ”
 
 Comments are means of telling somebody what he or she did but at the same time misusage can be high.Its like how you say it.If you find a problem you can say its wrong with proper reasons but nobody should or have a right to make the person feel miserable.
 
@@ -26,16 +24,11 @@ Blogger community is growing faster than anything on internet.Professional Blogg
 
 We are open to all kinds of comment a reader want to make till he is not dis-respecting a post or page.This blog or anyblog is trying to teach community to learn from each other so suggest tell but be nice.However i would like to tell my readers what i think:
 
-  * **I love comments on this blog -** Feel Free to say.It does not matter to me whether you know about the post or not but u might have your own point of view.Your welcome always…and we can learn from my mistakes too.
-  * **No Spams Please -** Please don’t spam.We delete them so the post looks much cleaner.
-  * **Spawner -** You are welcome to put signatures on the comment like if you find similar articles or a better one do leave it…
-  * **Signatures -** We don’t mind having links on the comment but make sure its relevant to your post and help other readers to learn more.Please don’t use it for advertising your blogs.
+  * I love comments on this blog - Feel Free to say.It does not matter to me whether you know about the post or not but u might have your own point of view.Your welcome always…and we can learn from my mistakes too.
+  * No Spams Please - Please don’t spam.We delete them so the post looks much cleaner.
+  * Spawner - You are welcome to put signatures on the comment like if you find similar articles or a better one do leave it…
+  * Signatures - We don’t mind having links on the comment but make sure its relevant to your post and help other readers to learn more.Please don’t use it for advertising your blogs.
 
 
 
 “My advice to those commenting on blogs (not just mine) is that in a sense you are visiting someone else’s home when you leave a comment. Comments have the ability to build up our tear down your reputation. They are a permanent record of who you are and what you stand for - so take care - be gracious - make sure they add value (not only to the blog you are visiting but also to your own online profile). “
-
-##  Click Me and Jump to Add your Comment :)
-
-
-
