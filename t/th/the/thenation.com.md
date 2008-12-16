@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203212443id_/http%3A//www.thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160614id_/http%3A//www.thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
 
 # The Nation Privacy Policy
 
@@ -104,8 +104,7 @@ Our sites give users the following options for changing and modifying informatio
 
 If you have any questions about this privacy statement, the practices of our sites, or your dealings with our sites, [click here](https://web.archive.org/contact/priv). Or you can contact: 
 
-Scott Klein  
-VP, Website & Technology  
+Teresa Stack  
 The Nation  
 33 Irving Place, 8th Floor  
 New York, NY 10003 
