@@ -1,10 +1,36 @@
-> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512145212id_/http%3A//smartertools.com/Company/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151729id_/http%3A//www.smartertools.com/Company/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - SmarterTools
 
-This privacy policy has been created to show the integrity of SmarterTools and its level of commitment to the privacy of customer and non-customer information.
+SmarterTools is committed to protecting the privacy of our customers, partners, and Web site visitors.
 
-SmarterTools does not release any identifying personal information about our customers apart from license verification, validation and upgrade services to registered partners of SmarterTools. All personal information collected by SmarterTools is used solely for internal purposes (marketing, informational notices, etc.).
+**Collected Information**  
+We may collect information about your interaction with SmarterTools sites and services. For example, we may use Web site analytics tools on our site to retrieve information, including the site you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser's width and height, etc. We may also use cookies to collect information about the pages you view, the links you click and other actions you take on our site. Additionally, we collect certain standard information that your browser sends to every Web site you visit, such as your IP address, browser type and language, access times, and referring Web site addresses.
+
+SmarterTools also collects and retains information you submit to us, including the email address of individuals that post messages to our community forums or communicate with us via email. It is up to you whether to submit information to us and how much information to provide. If you choose to become a SmarterTools customer or partner, we may ask for other personally identifiable information, and/or information used to monitor performance and protect our intellectual property rights. This additional collected information is defined in the software End User License Agreement (EULA), Partner Agreement, Terms of Service Agreement, or other related documentation.
+
+If individuals submit resumes or employment applications online, we may ask for specific contact information, such as name, address, phone number, email address, and employment history. This information is collected and used to assess the individual’s qualifications for an open position within the company. 
+
+**Use of Collected Information**  
+SmarterTools collects and uses your information to operate and improve our site and services. These uses may include providing you with more effective customer service; making the site easier to use by eliminating the need to repeatedly enter the same information; performing research and analysis aimed at improving our products, services, and technologies; helping to diagnose technical problems; and other business functions.
+
+We may also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. We may occasionally send emails to our customers regarding new features and upgrades to our products. Customers wishing to opt out of such emails can modify their subscriptions by using the Mailing Lists link in the left-hand menu of the Account Management section of the [SmarterTools Portal](http://www.smartertools.com/portal). Customers are responsible for maintaining the confidentiality and security of their user registration and passwords.
+
+We do not send email to non-customers, except in cases where those email addresses are used as points-of-contact when a product or service is ordered, trial licenses are issues, technical support is required, or information is requested.
+
+**Disclosure of Personal Information**  
+Except as described in this statement, SmarterTools will not disclose personally identifying information about our customers to third parties without consent. We may share information regarding license verification, validation, and upgrade services to registered partners of SmarterTools. We may access or disclose information about you when it is required by law, such as pursuant to a subpoena or other judicial order, to enforce our agreements of policies governing your use of SmarterTools products and services, and/or to protect our intellectual property rights.
+
+**Security of Personal Information**  
+SmarterTools is committed to protecting the security of your personal information. We employ industry-standard security measures to protect the loss, misuse, and alteration of the information we collect. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. While on a secure page, site visitors will notice a security icon on the bottom of the visitor’s browser.
+
+**Changes to Our Privacy Policy**  
+SmarterTools’ privacy policy may change from time to time. When we post changes to this privacy policy, we will revise the “last updated” date on this page.
+
+**Contacting SmarterTools**  
+SmarterTools welcomes your comments regarding this privacy policy. If you have questions about our privacy policy, the practices of this site, or your interactions with SmarterTools, please contact us by emailing [sales@smartertools.com ](mail:sales@smartertools.com) or calling us toll-free at 877-357-6278.
+
+Upon request, we may provide site visitors with access to all information (including proprietary information) that we maintain about them. Please contact our sales department to request and/or correct this information.
 
 Our postal address is:
 
@@ -12,19 +38,3 @@ SmarterTools Inc.
 1903 W. Parkside Lane  
 Suite 106  
 Phoenix, AZ 85027
-
-We can be reached via e-mail at [ sales@smartertools.com](mailto:sales@smartertools.com) or you can reach us toll-free by telephone at **877.357.6278**
-
-We collect the e-mail addresses of those who post messages to our community forum, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or product registrations. However, we do not give this information out to third parties and we only use it for internal purposes. We will occasionally send our customers emails regarding new features and upgrades to our products and services that will benefit them. We DO NOT send email to non-customers, except in cases where those email addresses are used as points-of-contact when product or service is ordered. We do not harvest emails nor do we do any data mining on the information we collect.
-
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.
-
-If you supply us with your postal address on-line or via email you will only receive the information for which you provided us your address. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access or correct this information by sending an email to [ sales@smartertools.com](mailto:sales@smartertools.com).
-
-With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a security icon that appears in the visitor's browser. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site. 
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
