@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitepublisher.net privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609205912id_/http%3A//www.websitepublisher.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitepublisher.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021123id_/http%3A//www.websitepublisher.net/privacy.php) for the most accurate reproduction.*
 
 # Website Publisher - Guides, Tutorials, and Advice for Internet Publishers.
 
