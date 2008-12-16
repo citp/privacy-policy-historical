@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ps3hax.net privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630014746id_/http%3A//www.ps3hax.net/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3hax.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012540id_/http%3A//www.ps3hax.net/privacystatement.php) for the most accurate reproduction.*
 
 # PS3HaX Network - PS3 Hacks
 
