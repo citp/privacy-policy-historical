@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rooftopcomedy.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520012207id_/http%3A//www.rooftopcomedy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rooftopcomedy.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162317id_/http%3A//www.rooftopcomedy.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy ¦RooftopComedy
+# Privacy Policy of RooftopComedy
 
 #### Rooftop Media, Inc. Privacy Statement
 
