@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citylocal.co.uk privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624035222id_/http%3A//www.citylocal.co.uk/frontend/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citylocal.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216063926id_/http%3A//www.citylocal.co.uk/frontend/privacypolicy.php) for the most accurate reproduction.*
 
 # City Local UK - Privacy Policy
 
@@ -36,3 +36,5 @@ cityloal.co.uk uses cookies to identify whether you have visited the site previo
 
 
 The data controller of data on the citylocal.co.uk is CityLocal Limited, a company in the registered in Scotland under company number SC312837, whose registered office is at 1 Ralston Mount, Broughty Ferry, Dundee, DD5 1NN. Any queries or notices under the Data Protection Act 1998 should be sent to the above address. 
+
+| 
