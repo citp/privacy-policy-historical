@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the port.ac.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609105803id_/http%3A//www.port.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the port.ac.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161357id_/http%3A//www.port.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | University of Portsmouth
 
