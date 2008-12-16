@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630082945id_/http%3A//www.direct-golf.co.uk/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020740id_/http%3A//www.direct-golf.co.uk/static/privacy) for the most accurate reproduction.*
 
 # Direct Golf UK Ltd - Golf equipment, golf clubs, golf bags, golf shoes, golf balls & golf accessories
 
@@ -42,8 +42,6 @@ Visitors to this site who; enter competitions or request advice and feedback wil
 ## Cookies
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your computer. A cookie is a simple text file which contains information about your interaction with a specific website, and cannot be read by any other site apart from the one which created it. 
-
-We do not record information like your credit card details or address in a cookie. 
 
 If you are concerned about security, you can usually modify your browser to prevent cookies being stored on your machine. 
 
