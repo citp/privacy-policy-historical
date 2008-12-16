@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517120315id_/http%3A//www.docusign.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013032id_/http%3A//www.docusign.com/privacy_policy) for the most accurate reproduction.*
 
-# DocuSign.com
+# DocuSign Privacy Policy
 
 The privacy practices of this statement apply to our services available under the domain and sub domains of www.docusign.com (the "Site") (including docusign.net, docusignexpress.com, and docusign-inc.com). By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site or products. 
 
