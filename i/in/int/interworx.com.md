@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the interworx.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527181606id_/http%3A//www.interworx.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interworx.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012526id_/http%3A//www.interworx.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | InterWorx Control Panel
 
-We have authored this privacy policy so you, our clients, know what information is gathered as you browse our site and when you order and why we gather such information. If you have any questions or concerns regarding this policy please e-mail privacy@nexcess.net or call 1.866.NEXCESS. 
+We have authored this privacy policy so you, our clients, know what information is gathered as you browse our site and when you order and why we gather such information. If you have any questions or concerns regarding this policy please e-mail privacy@interworx.com. 
 
 ## Information Collection and Use
 
-NEXCESS.NET, L.L.C. (”NEXCESS.NET”) is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. NEXCES.NET collects information from our users at several different points on our website. 
+InterWorx, L.L.C. (”InterWorx”) is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. NEXCES.NET collects information from our users at several different points on our website. 
 
 ## Order
 
@@ -22,7 +22,7 @@ We use IP addresses to analyze trends, administer the site, track user.s movemen
 
 ## Links
 
-This web site contains links to other sites. Please be aware that we NEXCESS.NET are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This web site contains links to other sites. Please be aware that we InterWorx are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 ## Surveys & Contests
 
@@ -36,7 +36,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users. information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers. information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
-If you have any questions about the security at our website, you can send an e-mail to security@nexcess.net. 
+If you have any questions about the security at our website, you can send an e-mail to security@interworx.com. 
 
 ## Site and Service Updates
 
@@ -44,7 +44,7 @@ We also send the user site and service announcement updates. Members are not abl
 
 ## Correction / Updating Personal Information
 
-If a user.s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user.s personal data provided to us. This can usually be done at the member information page or by e-mailing support@nexcess.net. 
+If a user.s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user.s personal data provided to us. This can usually be done at the member information page or by e-mailing support@InterWorx. 
 
 ## Choice / Opt-out
 
