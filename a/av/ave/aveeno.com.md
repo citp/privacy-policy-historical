@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604154559id_/http%3A//www.aveeno.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100140id_/http%3A//www.aveeno.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # AVEENO® Skin Care Products
 
