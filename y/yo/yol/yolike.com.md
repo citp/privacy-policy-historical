@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yolike.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612071457id_/http%3A//www.yolike.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yolike.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043538id_/http%3A//www.yolike.com/privacy.php) for the most accurate reproduction.*
 
-# YoLike.com - Movies Music Radio Stars Photos Forums TV Bollywood Hollywood Songs Mobile & more
+# Privacy Policy -- YoLike.com
 
 ##  Privacy Policy Statement
 
