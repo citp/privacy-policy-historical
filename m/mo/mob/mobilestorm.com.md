@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mobilestorm.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527040144id_/http%3A//www.mobilestorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilestorm.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041901id_/http%3A//www.mobilestorm.com/privacy-policy) for the most accurate reproduction.*
 
 # mobileStorm Privacy Policy
+
+[](http://www.truste.org/ivalidate.php?url=www.mobilestorm.com&sealid=101 "Click to Verify")
 
   * [anti-spam-policy](https://web.archive.org/anti-spam-policy/) |
   * **privacy-policy** |
