@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509083507id_/http%3A//www.sydneyoperahouse.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216080640id_/http%3A//www.sydneyoperahouse.com./privacystatement.aspx) for the most accurate reproduction.*
 
 # Sydney Opera House - Customer Privacy Statement
 
@@ -104,7 +104,7 @@ If you wish only to receive information about your ticket purchase, donation to 
 
 **5\. Security of personal information**
 
-Sydney Opera House takes reasonable steps to protect all the personal information it receives. Information collected is stored in an appropriately secure format retained in accordance with Sydney Opera House records management policy. Only authorised personnel have access tour customer’s personal information, and work under strict controls and procedures.
+Sydney Opera House takes reasonable steps to protect all the personal information it receives. Information collected is stored in an appropriately secure format retained in accordance with Sydney Opera House records management policy. Only authorised personnel have access to our customer’s personal information, and work under strict controls and procedures.
 
 **back to top**
 
@@ -154,12 +154,13 @@ or
 
 **back to top**
 
-## E-news
+[](http://www.sydneyoperahouse.com/About/Xmas_gifting.aspx)
 
-Subscribe to Inhouse.
+**BE FIRST IN LINE...**
 
-Be the first to hear about priority booking offers & special prices.
+Register for our  
+e-newsletter _**Inhouse**_    
+and take advantage of priority booking offers, special discounts and win great prizes!
 
-Receive information on future performances and special events!
-
-[More Info](https://web.archive.org/account/topregister.aspx)
+  
+[ **REGISTER NOW**](https://www.sydneyoperahouse.com/account/topregister.aspx "SIGN UP NOW") 
