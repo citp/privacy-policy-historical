@@ -1,63 +1,44 @@
-> *The following text is extracted and transformed from the idrive.com privacy policy that was archived on 2001-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010530213124id_/http%3A//www.idrive.com/site/corporate/corp_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrive.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013116id_/http%3A//www.idrive.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy policy for IDrive online backup
+
+What information does IDrive gather and how is it used?   
+Because of the nature of our product, we must collect personal information from users during the registration process, including first and last names, a valid credit card to process payment for service, an email address and a password. Your email address may be used to send you periodic information about IDrive and related products, but only upon your express consent. Because of our commitment to present the best possible product to all our users, we track the category of services selected by our individual users as well as all information pertaining to user satisfaction. To ensure the quality of our product, we reserve the right to maintain evaluation and feedback records indefinitely. 
+
+SESSION RECORDS  
+To maintain our quality of service and to assist in the analysis of product performance, we may also gather data on connection information, including the timing and size of all packets sent over the Internet during a session. The gathered information is used to ensure the highest quality experience possible at IDrive. 
+
+SURVEYS  
+In addition to required member information, we may conduct surveys and ask users to volunteer demographic information to be used on an aggregate basis for internal market research, joint research projects with outside companies involved in product development. We use such information to better focus our product and personalize the scope of services offered to each individual user.
 
   
+We do not voluntarily share personally identifiable information with any third party without the user's express consent or unless compelled by applicable state and federal laws. IDrive does not control the practices of our affiliates. If you have questions about how affiliates use the information gathered when you link to them, do read their privacy policies. This site contains links to other sites. Pro Softnet Corp. is not responsible for the privacy practices or the content of such Web sites. 
 
+Choice/Opt-Out  
+Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-### Privacy Statement
+You can go to your personal profile (after logging into the IDrive website) and uncheck the option to receive communications regarding our service. 
 
-We know you take your privacy seriously. So do we. We respect your privacy and the privacy and security of the data you store with us. We have taken great efforts to keep your information confidential and secure at all times within our system. i-drive is not an "infobroker". We do not engage in the selling of the behavior, habits, or demographic information of our specific users. The information we collect on you at the site is intended to help us deliver the best and most secure service we can.
+Security  
+Your Password should never be shared with anyone unless you intend to do collaborative work with others who need read/write access to your files. When we receive certain types of sensitive information such as financial information, we redirect visitors to the secure portion of our site using industry standard SSL. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. The user data is password protected. 
 
-The following information explains in greater detail the steps we take to protect you and your data.
+For details, do see the [Terms of the IDrive](https://web.archive.org/web/20081216013116id_/http%3A//www.idrive.com/terms.htm) service. 
 
-**TRUSTe Licensee**   
-i-drive is a licensee of the TRUSTe Privacy Program, a non-profit initiative dedicated to protecting individuals and their privacy on the Internet. This statement discloses the privacy practices for the i-drive site. When you visit a site with the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected, how the information is used, with whom the information may be stored, and how you can correct any inaccuracies in the information.
+IDrive may use cookies for user session tracking. The cookies are used solely for identifying user sessions and do not store any personal information regarding the user.   
+  
+Security and HIPAA compliance   
+IDrive assists Health care providers to be HIPAA compliant. Please refer to [HIPAA compliance of IDrive](https://web.archive.org/web/20081216013116id_/http%3A//www.idrive.com/online-backup-hipaa.htm).
 
-This Web site has agreed to participate in TRUSTe's formal resolution process. If you have questions or concerns regarding this statement, you should first email our [Privacy Contact](mailto:privacy-contact@mail.idrive.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at: [www.truste.org/users/users_watchdog.html](https://web.archive.org/mydrive/clickOut.jsp?url=http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+Correct/Update  
+This site gives users the following options for changing and modifying information previously provided. 
 
-**Information Collected**   
-When you register for an i-drive account, we ask for your name and e-mail address. We use this data to help customize and improve the i-drive service for all of our users. We never share any of your personal information with third parties, nor do we associate this information with your usage of i-drive. We use your e-mail address to contact you, when necessary, concerning activity that is relevant to your account.
+You can go to your personal profile option after successful logging in and correct information related to password, and option to receive communication regarding service. You can also choose to 'cancel' your account, or 'upgrade' to the IDrive Pro version by contacting us through email or via the website. 
 
-You also had the option at registration to receive our newsletter, which is distributed to keep you informed about changes to the site and new products and services we think might interest you. You may choose to stop receiving future communication from us; please refer to the Opt- Out, Delete/Deactivate section below. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-From time to time, we may collect aggregate demographic and usage data from our site. But this information is only collected and reviewed in the aggregate, meaning we will never use any personally identifiable material for any reason, at any time. The exception is when we specifically receive a complaint from a third party requesting the investigation of potentially illegal material that is publicly available in an i-drive.
-
-**IP Addresses**   
-We use your IP address, your computer's unique network identifier, to help diagnose problems with our servers, and to administer our Web site. Your IP address is used to help identify you and to gather broad demographic information.
-
-**Cookies**   
-We use cookies to deliver content specific to your interest and to save your password so that (if you choose) you do not have to re-enter it each time you visit our site. 
-
-While i-drive does not give out personally identifiable information collected from our users to others, this data may be shared with advertisers or partners on an aggregate basis (e.g., as part of a larger set of user statistics). This site contains links to other sites. i-drive is not responsible for the privacy practices or the content of such Web sites.
-
-**Opt-Out, Delete/Deactivate**   
-While i-drive does not give the users the opportunity to remove their information from our database, you may elect not to receive future communications or to discontinue use of our service. You can elect not to receive communication from i-drive directly from our Web site. As a user of i-drive, you can change your account information and preferences from the "account" section of the site, within your i-drive.
-
-**Change/Modify**   
-To change or modify the information you entered during registration:
-
-  1. Log-in to your account at www.idrive.com 
-  2. Click the "account options" link at the top of the "My Drive" section of your account. 
-  3. Change and save the relevant information.
-
-
-
-You can also add, delete and move the files in your i-drive from within the service, obviously.
-
- **Financial Information (credit card information)**   
-As an i-drive user, you will have on occasion the opportunity to purchase products, services or additional features. i-drive may require you to provide financial information, such as credit card and expiration date. This information is used solely for billing purposes, is shared with no one, and is transferred to us on a secure, SSL encrypted transmission.
-
-**Child Pornography Reporting Obligations**   
-i-drive will comply with its obligations to report evidence of child pornography offenses to the appropriate law enforcement authorities pursuant to the Protection of Children from Sexual Predators Act. Any such material will be forwarded to the appropriate law enforcement authorities upon discovery and public access will be disabled. 
-
-**Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact:
-
-> Privacy Contact   
-> i-drive.com, Inc.   
-> 842 Folsom Street   
-> San Francisco, CA 94107   
-> [privacy-contact@mail.idrive.com ](mailto:privacy-contact@mail.idrive.com)
-
-[ Top ]
+Attn: Privacy Management for IDrive  
+IDrive DIVISION  
+21300 victory Blvd  
+Suite 690  
+Woodland Hills, CA 91367  
+[privacy@idrive.com](mailto:privacy@idrive.com)
