@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessorygeeks.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517214051id_/http%3A//www.accessorygeeks.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessorygeeks.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054207id_/http%3A//www.accessorygeeks.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Free Shipping.
 
@@ -16,12 +16,10 @@ This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering syst
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). 
+
 Should you have other questions or concerns about these private policies, please contact us via email at [ INFO@AccessoryGeeks.com](mailto:INFO@AccessoryGeeks.com) or Call us at 909-468-9480   [](http://site.accessorygeeks.com/new.xml) RSS Feed  
 
-[](http://www.accessorygeeks.com/maestro-3200-giveaway.html)[](http://www.accessorygeeks.com/ipod-nano-giveaway.html)
-
-[ ](http://www.accessorygeeks.com/ipod-nano-giveaway.html)
-
-[ ](http://www.accessorygeeks.com/ipod-nano-giveaway.html)
+  [](http://www.accessorygeeks.com/ipod-nano-giveaway.html)
 
 [](http://www.accessorygeeks.com/gift-cards.html)     [](http://www.accessorygeeks.com/mobi.html)
