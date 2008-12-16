@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcare.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617225140id_/http%3A//www.healthcare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcare.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217003341id_/http%3A//www.healthcare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,8 +94,9 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If you have questions or concerns regarding this statement, you should first contact:
 
 HealthCare.com, Inc.  
-1749 NE Miami Ct., Suite 604  
-Miami, FL 33132E-mail: contact@healthcare.com
+3301 NE 1st Ave. Suite L307  
+Miami, Florida 33137  
+E-mail: contact@healthcare.com
 
 Effective Date: 1/24/2008  
 
