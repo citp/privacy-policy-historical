@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505034711id_/http%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216085048id_/http%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Payday Loans: Cash Advances & Payday Loans @ www.quickquid.co.uk
-
-Due to the upcoming banking holiday, all requests to make changes for loans due on May 06, 2008 must be received by 15:00 GMT on May 01, 2008.  
-All loans approved on May 02, 2008 will be funded on May 06, 2008.
 
 ## CashEuroNetUK, LLC Privacy Policy
 
@@ -15,7 +12,8 @@ The website servers that support the Website, as well as many of our operations,
 
 By providing us with your personal information on our Website or in the course of using our services, you consent to the transfer of your personal data, and any other data we acquire about you from third-party service providers in the process of evaluating you for a loan, to companies outside the EU, including CashEuroNetUK, its affiliates, and authorised third parties, in accordance with this Privacy Policy.
 
-## What Information We Collect
+What Information We Collect
+    
 
 Our primary goal in collecting Personal Data is to provide you with an accurate, customised loan transaction. The information we obtain from our customers helps us personalise and continually improve our customers’ experience at our Website. We automatically collect and/or track the following types of information:
 
@@ -37,7 +35,8 @@ Please note that the information in our cookies can be requested only by our Web
 
 To ensure that we are providing materials of interest to you, we may monitor whether you opened a particular email have clicked on the images and/or links therein. Our email communications may include HTML-based email messages, which includes an invisible coded sensor that is activated when the email message is opened. This sensor communicates the date and time the message was opened and, more importantly, whether your computer is capable of receiving HTML-based email. You will receive a functioning sensor only if your computer is enabled to accept HTML email.
 
-## How We Use and Disclose Personal Data
+How We Use and Disclose Personal Data
+    
 
 We use your Personal Data to process your loan transaction, enhance your experience at our Website, and (as described in the next section below) to transmit marketing communications. We may also use your Personal Data for such purposes as processing payments, updating our account records, improving our Website, conducting statistical analysis and for editorial or feedback purposes for our advertisers.
 
@@ -45,6 +44,7 @@ When you provide your Personal Data, you are consenting to sharing it with CashE
 
   * Service Providers: We contract with service providers to perform certain functions on our behalf. Examples include database providers who assist in identity verification, credit scoring companies, magazine publishers, retailers, and direct marketers. Their access is limited only to the Personal Data needed to perform their functions, and only for the purpose of performing those functions, and they are prohibited from using or disclosing the Personal Data for other purposes. 
   * Related Company/Group Transfers: CashEuroNetUK is part of a larger group of related companies and may need to disclose customer Personal Data to its affiliates from time to time for administrative and compliance purposes, including the group parent company, Cash America International, Inc.
+  * Fraud Prevention: If false or inaccurate information is provided, including in relation to a person's identity and fraud is identified, details about this information, including customer Personal Data, will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related and other facilities; managing credit and credit related accounts or other facilities; recovering debt; checking details on proposals and claims for all types of insurance; and checking details of job applicants and employees. We and other organizations may access and use from other countries the information recorded by fraud prevention agencies. For further details of the relevant fraud prevention agencies please contact us as described at the end of this Privacy Policy.
   * Other Disclosures: In accordance with our customary practices and those in our industry, we disclose information about your transactions with us to credit bureaus. If necessary or appropriate in connection with the sale or transfer of the loans or all or part of the business, we disclose relevant Personal Data to third party purchasers. We also release personal and account Personal Data if it becomes necessary for compliance with law or to protect the rights, property, or safety of our Website, our users, or third parties. We reserve the right to release such Personal Data to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law. 
   * With Your Consent: Other than as set out above, you will receive notice when Personal Data about you may be shared with third parties not described above, and you will have an opportunity to choose not to share the Personal Data. 
 
@@ -52,11 +52,13 @@ When you provide your Personal Data, you are consenting to sharing it with CashE
 
 If you have any questions or concerns about the sharing of your Personal Data as described above, please contact us as described at the end of this Privacy Policy. Depending on the nature of your request, you may have the opportunity to opt-out of these sharing practices in limited circumstances. In addition, we reserve the right to use and disclose all information that is not in individually identifiable form as we deem appropriate in our sole discretion.
 
-## Marketing and Opt-Out Rights
+Marketing and Opt-Out Rights
+    
 
 By visiting our Website, you understand and agree that we may contact you at the phone number or email address you enter on your loan application to assist you with your loan or to discuss other products and services that CashEuroNetUK may provide for you. You may opt-out of receiving these marketing communications from us by not submitting your Personal Data. We also allow you to opt-out of our use of your Personal Data for marketing purposes at any time by responding to any of our e-mail communications with “remove” in the subject line, or by sending us an email to support@quickquid.co.uk or by visiting your customer account at www.quickquid.co.uk and updating your contact preferences. If you opt-out of our use of your Personal Data for marketing purposes, we will honour such choice once we have had a reasonable opportunity to process your request. We reserve the right to take reasonable steps to authenticate your identity with respect to any such request or other inquiry. 
 
-## How We Protect the Security of Your Personal Data
+How We Protect the Security of Your Personal Data
+    
 
 We maintain reasonable measures to protect security and confidentiality of your Personal Data, and strive to keep it accurate, and only for as long as is necessary. Some of the specific security measures we maintain include:
 
@@ -69,32 +71,36 @@ We maintain reasonable measures to protect security and confidentiality of your 
   * It is important for you to protect against unauthorised access to your User ID and to your computer. Be sure to sign off when finished using a shared computer. 
 
 
-
-## You May Access your Personal Data 
+You May Access your Personal Data 
+    
 
 CashEuroNetUK believes that you should have the ability to review and update your account Personal Data. CashEuroNetUK gives you access to Personal Data about your account and your interactions with CashEuroNetUK for the purpose of viewing and updating that Personal Data.
 
-## Children 
+Children 
+    
 
 We do not seek or knowingly collect any Personal Data about children under 18 years of age.
 
-## Conditions of Use and Revisions 
+Conditions of Use and Revisions 
+    
 
 If you choose to visit the CashEuroNetUK Website, your visit and any dispute over privacy is subject to this Privacy Policy. 
 
 If you have any concern about privacy or have any questions or comments, please send them to:
 
 QuickQuid  
-Communications House  
-26 York Street  
-London  
-W1U 6PZ 
 
-Free phone: 0808-234-4558  
+
+Communications House  
+26 York Street
+
+London
+
+W1U 6PZ
+
+Free phone: 0808 234 4558  
 Email: [support@quickquid.co.uk](mailto:support@quickquid.co.uk)
 
 We reserve the right to change this Privacy Policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our Website.
 
 Privacy Policy last amended 20 June, 2007
-
-For information on QuickQuid regulatory and legal information, click here: [Regulatory & Legal](https://web.archive.org/regulatory_legal.html "Regulatory & Legal").
