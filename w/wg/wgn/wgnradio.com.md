@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the wgnradio.com privacy policy that was archived on 2007-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070721003952id_/http%3A//www.wgnradio.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D34%26Itemid%3D120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgnradio.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020512id_/http%3A//www.wgnradio.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D34%26Itemid%3D120) for the most accurate reproduction.*
 
 # WGN Radio - Privacy Policy
 
-**Last Updated: October, 2004**
+**Last Updated: May, 2006**
 
 WGNRADIO.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by WGNRADIO.com online and does not impact information collected or used by WGNRADIO.com or its affiliates through other means. 
 
 ### How we gather information from users.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also provide information when you participate in sweepstakes and contests, voting and polling activities, message boards and chat rooms and other interactive areas of our site.
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also provide information when you participate in sweepstakes and contests, voting and polling activities, message boards and chat rooms and other interactive areas of our site. 
 
 Like most Web sites, WGNRADIO.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use "cookie" technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password. Additionally we may not be able to customize the site's features according to your preferences. 
 
@@ -16,7 +16,7 @@ Like most Web sites, WGNRADIO.com also collects information automatically and th
 
 We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually. 
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on WGNRADIO.com to communicate with you regarding our [Terms of Service](https://web.archive.org/web/20070721003952id_/http%3A//www.wgnradio.com/index.php?option=com_content&task=view&id=35) and privacy policy, products and services offered by WGNRADIO.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information. 
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on WGNRADIO.com to communicate with you regarding our Terms of Service and privacy policy, products and services offered by WGNRADIO.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information. 
 
 Personally Identifiable Information collected by WGNRADIO.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information. 
 
@@ -32,6 +32,8 @@ WGNRADIO.com expects its partners, advertisers and third-party affiliates to res
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. WGNRADIO.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties. 
 
+A cookie gets entered by your Web browser into the "Cookies" folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the Site. We use persistent and session cookies to analyze and enhance your experience on the Site, and use third party ad technology to serve ads. The data that is collected is the property of WGNRADIO.com, not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on WGNTV.com. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on WGNRADIO.com. WGNRADIO.com does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. WGNRADIO.com maintains relationships with a number of third-party networks, including Doubleclick, Unicast, and Pointroll. Those parties that use cookies may offer you a way to opt out of ad targeting. You may find more information at the Web site of the individual ad network or the Network Advertising Initiative. 
+
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of WGNRADIO.com and this policy. 
 
 ### Children.
@@ -41,6 +43,11 @@ WGNRADIO.com does not knowingly collect or solicit Personally Identifiable Infor
 ### Contacting us.
 
 We can be reached by contacting: 
+
+> WGNRADIO.com Webmaster  
+>  435 N. Michigan Avenue  
+>  Chicago, IL 60611  
+>  Email: [Click here](https://web.archive.org/web/20081216020512id_/http%3A//www.wgnradio.com/index.php?option=com_contact&catid=275&Itemid=3) 
 
 ### Changes to this policy.
 
@@ -52,4 +59,4 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
-Copyright © 2007, WGN Radio 
+Copyright © 2008, WGN Radio 
