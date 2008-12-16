@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smartsystemsllc.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509140328id_/http%3A//www.smartsystemsllc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsystemsllc.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152545id_/http%3A//smartsystemsllc.com/en/main/privacy) for the most accurate reproduction.*
 
-# 
-
-Last Updated: February 1, 2007
+# Smart Systems - Privacy
 
 **PRIVACY POLICY**
 
@@ -10,7 +8,7 @@ Smart Systems LLC strives to offer its visitors the many advantages of Internet 
 
 **How we gather information from users**
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, our company also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, our company also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
 
 **What we do with the information we collect**
 
@@ -26,7 +24,7 @@ Personally Identifiable Information collected by Smart Systems LLC and our compa
 
 Smart Systems LLC, our company web sites expect its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame of content that is actually created or hosted by a third party. Also, through our company web sites you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Smart Systems LLC is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Smart Systems LLC does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Smart Systems LLC and this policy. 
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Smart Systems LLC and this policy.
 
 **Children**
 
@@ -36,15 +34,9 @@ Smart Systems LLC does not knowingly collect or solicit Personally Identifiable 
 
 We can be reached by contacting: 
 
-Website: [http://www.SmartSystemsLLC.com](http://www.smartsystemsllc.com/)
+Website: [www.SmartSystemsLLC.com](http://www.smartsystemsllc.com/)
 
-Mail: Smart Systems LLC, 6 Hrachya Nersisyan St., 0014, Yerevan, Armenia 
-
-Tel.: +374 (10) 28.39.54 (Armenia)  
-Fax: +374 (10) 28.39.53 (Armenia)  
-Tel.: +1 (818) 921.49.87 (USA) 
-
-E-mail: [info@SmartSystemsLLC.com](mailto:info@SmartSystemsLLC.com)
+E-mail: [info@smartsystemsllc.com](mailto:info@smartsystemsllc.com)
 
 **Changes to this Policy**
 
@@ -52,6 +44,6 @@ Smart Systems LLC reserves the right to change this policy at any time. Please c
 
 **Governing law**
 
-This policy and the use of this Site are governed by Armenia law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Yerevan, Armenia. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Yerevan, Armenia. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
+This policy and the use of this Site are governed by US law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: US. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: US. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.  
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
