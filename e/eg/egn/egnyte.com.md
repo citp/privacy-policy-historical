@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530232739id_/http%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050856id_/http%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
 
 # Egnyte
 
-Thank you for visiting Egnyte Inc.'s website located at www.Egnyte.com. Egnyte Inc. (hereinafter "Egnyte") is concerned about personal privacy and is committed to protecting the privacy of visitors to our website. This Privacy Policy identifies the personally identifiable information that Egnyte collects about you at our website and describes how Egnyte uses and protects such information.
+Thank you for visiting Egnyte Inc.'s website located at www.egnyte.com. Egnyte Inc. (hereinafter "Egnyte") is concerned about personal privacy and is committed to protecting the privacy of visitors to our website. This Privacy Policy identifies the personally identifiable information that Egnyte collects about you at our website and describes how Egnyte uses and protects such information.
 
-**YOUR USE OF THE WEBSITE OR THE SERVICES OFFERED BY EGNYTE ON THE WEBSITE IS CONDITIONED UPON YOUR ACCEPTANCE OF THE TERMS OF SERVICE LOCATED AT HTTP://WWW.EGNYTE.COM AS WELL AS THIS PRIVACY POLICY. IF YOU DO NOT ACCEPT THE TERMS OF SERVICE OR TERMS OF THIS PRIVACY POLICY, DO NOT USE THE WEBSITE OR SERVICES OFFERED BY EGNYTE.**
+**YOUR USE OF THE WEBSITE OR THE SERVICES OFFERED BY EGNYTE ON THE WEBSITE IS CONDITIONED UPON YOUR ACCEPTANCE OF THE TERMS OF SERVICE LOCATED AT[http://www.egnyte.com](http://www.egnyte.com/) AS WELL AS THIS PRIVACY POLICY. IF YOU DO NOT ACCEPT THE TERMS OF SERVICE OR TERMS OF THIS PRIVACY POLICY, DO NOT USE THE WEBSITE OR SERVICES OFFERED BY EGNYTE.**
 
 **What Information Is Collected**  
 You may visit our website and learn about Egnyte's service offered on the website anonymously. The data that we regularly collect about visitors to our website (e.g., browser type, pages accessed, duration of visit, etc.) does not enable us to identify you. We also collect your IP address, but this information generally does not reveal your personal identity.
@@ -24,10 +24,10 @@ We do not sell, rent or lease your personally identifiable information to third 
 
 
 **Updating Your Information**  
-To update any of your personal information previously submitted to Egnyte you may do so within the My Profile section of your account when logged in.  
+To update any of your personal information previously submitted to Egnyte you may do so within the Account Settings section of your account when logged in.  
 .   
 **A Special Note about Children**  
-Our website does not gather any personally identifiable information from children that we know are under the age of 13. We believe strongly that parents should play an integral part in their child's on-line experience and should monitor that activity to ensure on-line sites are respecting their child's privacy. For additional information on protecting children's privacy, visit: http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html
+Our website does not gather any personally identifiable information from children that we know are under the age of 13. We believe strongly that parents should play an integral part in their child's on-line experience and should monitor that activity to ensure on-line sites are respecting their child's privacy. For additional information on protecting children's privacy, visit: <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html>
 
 **Cookies**  
 Cookies are files that your web browser places on your computer's hard drive and are used to tell us whether you have visited our website previously. We issue a session cookie only to record encrypted authentication information for the duration of a specific session. The session cookie includes neither the username or nor the password of the user.
