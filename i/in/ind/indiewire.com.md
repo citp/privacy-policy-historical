@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiewire.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626105215id_/http%3A//www.indiewire.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiewire.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170721id_/http%3A//www.indiewire.com/legal/privacy.html) for the most accurate reproduction.*
 
 # indieWIRE > Privacy
 
@@ -28,16 +28,16 @@ If you are a registered indieWIRE member, you will be able to post comments and 
 indieWIRE occasionally uses Cookies to better understand our user's experience on the site and does not share this information with any third party. indieWIRE also uses Cookies to help remember your preferences to better enhance you experience on our website. You may reset your cookie preference in your internet browser.
 
 **Unsubscribing**  
-Users may unsubscribe from any or all indieWIRE publications through "your settings" on the site. We may periodically contact past clients (advertisers and sponsors) via phone, e-mail or postal mail with new information about indieWIRE's products and services. If you would like to be removed from our past customer list, please send an e-mail to [**jd@indiewire.com**](mailto:jd@indiewire.com) and be sure to indicate your company name.
+Users may unsubscribe from any or all indieWIRE publications through "your settings" on the site. We may periodically contact past clients (advertisers and sponsors) via phone, e-mail or postal mail with new information about indieWIRE's products and services. If you would like to be removed from our past customer list, please send an e-mail to [**contact@indiewire.com**](mailto:contact@indiewire.com) and be sure to indicate your company name.
 
 **Links**  
 Remember that indieWIRE.com contains links to other sites, such as indieWIRE partners, advertisers and other content providers. When you "click" on a link or banner advertisement, you will leave the indieWIRE site and this Privacy and Information Use Policy will no longer be relevant or in effect for those other sites to which you arrive. Those sites may have privacy and information use policies that differ from indieWIRE's policies, so please check them before submitting any information.
 
 **Questions**  
-If you have any questions about this privacy statement, indieWIRE practices, or feel that your privacy has been compromised, please contact us at [**jd@indiewire.com**](mailto:jd@indiewire.com).
+If you have any questions about this privacy statement, indieWIRE practices, or feel that your privacy has been compromised, please contact us at [**contact@indiewire.com**](mailto:contact@indiewire.com).
 
 **Changes**  
 We reserve the right to make changes to this policy at any time at our sole discretion. We will not make any substantial changes to our policies, however, without notifying you that we have made changes. Please check this page periodically for changes.
 
 **FURTHER INFORMATION:**  
-For questions or for any further information, please contact us at: [**jd@indiewire.com**](mailto:jd@indiewire.com).
+For questions or for any further information, please contact us at: [**contact@indiewire.com**](mailto:contact@indiewire.com).
