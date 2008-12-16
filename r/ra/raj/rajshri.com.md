@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajshri.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613005845id_/http%3A//www.rajshri.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajshri.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011037id_/http%3A//www.rajshri.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Rajshri.com. India's #1 Broadband Entertainment Destination.
 
