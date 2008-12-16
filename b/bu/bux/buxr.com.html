@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buxr.com privacy policy that was archived on 2008-02-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080225141133id_/http%3A//www.buxr.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buxr.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216020939id_/http%3A//www.buxr.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -7,12 +7,16 @@
 <meta name="title" content="Privacy Policy at Buxr.com">
 <meta name="robots" content="index, follow">
 <meta name="language" content="en">
+<meta name="verify-v1" content="fTUixOzJXvlqbvgyrv6kVVIy3KpwSyBkxuMCVG+W1nM=">
 
 <title>Privacy Policy at Buxr.com</title>
 
 <link rel="shortcut icon" href="/favicon.ico">
 
-<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://www.buxr.com/rssfeed">
+<link rel="alternate" type="application/rss+xml" title="Deals RSS Feed" href="http://www.buxr.com/rssfeed">
+<link rel="alternate" type="application/rss+xml" title="Deals Comments RSS Feed" href="http://www.buxr.com/rssfeed/comments">
+<link rel="alternate" type="application/rss+xml" title="News RSS Feed" href="http://www.buxr.com/blog/feed/">
+<link rel="alternate" type="application/rss+xml" title="News Comments RSS Feed" href="http://www.buxr.com/blog/comments/feed/">
 
 <!--[if IE]>
 <link rel="stylesheet" type="text/css" href="/css/all-ie.css" />
@@ -21,6 +25,7 @@
 <script type="text/javascript" src="/js/main.js"></script>
 <script type="text/javascript" src="/js/msgbox.js"></script>
 <script type="text/javascript" src="/js/rico_corner.js"></script>
+<script type="text/javascript" src="/js/quicktags.js"></script>
 <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/frontend.css">
 </head>
@@ -37,19 +42,40 @@
 <div class="tl-corner"></div><div class="tr-corner"></div>
 <p>
 <a href="/deals">shopping</a> |
-<a href="/blog">blog</a> |
+<a href="/discuss">discussion</a> |
+<a href="/contest/daily">contests</a> |
+<a href="http://www.buxr.com/blog">blog</a> |
 <a href="/login">sign in</a>&nbsp;&nbsp;
 </p>
 </div> <!-- header-menu -->
 
+<div id="reminder-popup">
+<div class="reminder-message">
+<a id="close-reminder" href="#" onclick="close_reminder(); return false;"><img alt="Close" width="10px" height="10px" src="/images/yellow-close.gif"></a><p>
+<img alt="Tip" width="16px" height="16px" src="/images/lightbulb.png"><b>Tip:</b> Did you know it pays to <a href="/contest/friends/tip/1">Refer Friends</a> to Buxr? More details <a href="/info/contest/tip/1#refer-friend">here</a>.</p>
+</div>
+</div><!-- reminder-popup -->
+
+<script type="text/javascript">
+//<![CDATA[
+
+function close_reminder()
+{
+	Element.hide('reminder-popup');
+	document.cookie = 'buxr-popup=aGlkZS0x; expires=Mon, 29 Dec 2008 21:05:56 -0500; path=/'
+}
+
+//]]>
+</script>
+
 <div id="header-ad">
 <table width="100%" cellspacing="0">
 <tbody><tr>
-<td align="left" style="padding:20px 5px 0px 35px">
+<td align="left" id="logo-image">
 <a href="/"><img alt="Buxr Shopping Deals" src="/images/buxr_logo.jpg" height="78" width="200"></a></td>
-<td align="right" style="padding:15px 35px 0px 5px">
-<p align="center">There are two ways to use Buxr, <u>shop &amp; save</u> and <u>share &amp; earn</u><br>Discover what works best for you!</p>
-</td>
+<td align="right" id="header-image">
+<!-- p align="center">There are two ways to use Buxr, <u>shop &amp; save</u> and <u>share &amp; earn</u><br/>Discover what works best for you!</p -->
+<img alt="There are two ways to use Buxr, shop &amp; save and share &amp; earn. Discover what works best for you!" src="/images/buxr_banner.jpg" height="77" width="614"></td>
 </tr>
 </tbody></table>
 </div> <!-- header-ad -->
@@ -67,22 +93,48 @@
 
 
 </tr>
-
-
 </tbody></table>
 </div> <!-- header-tabs -->
 
 <script type="text/javascript">
 //<![CDATA[
 
-Rico.Corner.round('page-menu-products', {corners:"top"});
+Rico.Corner.round('page-menu-shopping', {corners:"top"});
 
 //]]>
 </script>
 <script type="text/javascript">
 //<![CDATA[
 
-Rico.Corner.round('page-menu-configure', {corners:"top"});
+Rico.Corner.round('page-menu-merchants', {corners:"top"});
+
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+Rico.Corner.round('page-menu-newdeal', {corners:"top"});
+
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+Rico.Corner.round('page-menu-upcoming', {corners:"top"});
+
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+Rico.Corner.round('page-menu-activity', {corners:"top"});
+
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+Rico.Corner.round('page-menu-reported', {corners:"top"});
 
 //]]>
 </script>
@@ -96,17 +148,18 @@ Rico.Corner.round('page-menu-report', {corners:"top"});
 <script type="text/javascript">
 //<![CDATA[
 
-Rico.Corner.round('page-menu-merchant', {corners:"top"});
+Rico.Corner.round('page-menu-widget', {corners:"top"});
 
 //]]>
 </script>
-<script type="text/javascript">
-//<![CDATA[
 
-Rico.Corner.round('page-menu-user', {corners:"top"});
 
-//]]>
-</script>
+
+
+
+
+
+
 <script type="text/javascript">
 //<![CDATA[
 
@@ -122,8 +175,10 @@ Rico.Corner.round('page-menu-selected', {corners:"top"});
 <table id="sub-menu" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td>
-<a href="/generalterms">General Terms</a>
-<a href="/publisherterms">Publisher Terms</a>
+<span><a href="/generalterms">General Terms</a></span>
+
+<span><a href="/publisherterms">Publisher Terms</a></span>
+
 <span id="sub-menu-selected"><a href="/privacy">Privacy Policy</a></span>
 </td>
 </tr>
