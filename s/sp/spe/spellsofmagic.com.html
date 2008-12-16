@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the spellsofmagic.com privacy policy that was archived on 2008-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080623152444id_/http%3A//www.spellsofmagic.com/privicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spellsofmagic.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216012105id_/http%3A//www.spellsofmagic.com/privicy.html) for the most accurate reproduction.-->
 
 <html><head>
-<title>Spells of Magic Free Magic Spells, Forums and More</title>
-<link rel="stylesheet" type="text/css" href="/resources/template.css">
+<title>Spells Of Magic Privacy Policy</title>
 <link rel="stylesheet" type="text/css" href="/resources/tarot.css">
+<link rel="stylesheet" type="text/css" href="/resources/template.css">
 <meta name="verify-v1" content="8J/KyA9ZQFH2CkL/rqMWbEW0fkwE95zNsBkkiA/OVIk="> 
 <meta name="y_key" content="db8d52e28016dcfc">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -20,201 +20,190 @@ magic oils, curses, magic curses, enchantments, magic enchantments, witch, witch
 rituals, ritual, magic ritual, occult, hex, hexes, magic hexes, magic hex, magical hexes, spellcaster, spell caster, salem, salem witches, witchcraft, witchcraft spells, wizard, wizard spells, wicca, 
 wicca spells, wicca black magic, voodoo, vodo, vodo spells, voodoo spells, sto, sto spells, statnic spells, satanic, satan, pagan, pagan magic, pagan spells, ">
 <meta name="distribution" content="global">
-<meta name="copyright" content="Copyright (c) 1997-2008 Peter Sadlon">
+<meta name="copyright" content="Copyright (c) 1997-2009 Peter Sadlon">
 <meta name="author" content="magic@merentha.com">
-</head>
-<body link="847a15" vlink="847a15" bgcolor="dddd88" alink="847a15" background="/images/bg-wood-1.jpg">
-<script language="JavaScript1.2">
-function load_chatter() {
-//return true;
-return true;
+<script>
+var req2 = null;
+function chattertalk(ta, evt, chan) {
+  var charCode = (evt.which) ? evt.which : evt.keyCode;
+  if (charCode==13) {
+    if (req2) {
+      return false;
+    }
+    if (window.XMLHttpRequest) {
+      try {
+        req2 = new XMLHttpRequest();
+      } catch (e) {
+        req2 = false;
+      }
+    } else if (window.ActiveXObject) {
+      // For Internet Explorer on Windows
+      try {
+        req2 = new ActiveXObject("Msxml2.XMLHTTP");
+      } catch (e) {
+        try {
+          req2 = new ActiveXObject("Microsoft.XMLHTTP");
+        } catch (e) {
+          req2 = false;
+        }
+      }
+    }
+    req2.open("POST", "http://www.spellsofmagic.com/chatter/gateway.adp", true);
+    req2.onreadystatechange = sendStateChange;
+    req2.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+    var encoded = "";
+    encoded = "u=0&t=abcdef&c="+escape(chan)+"&m="+escape(ta.value);
+    req2.send(encoded);
 
+    ta.value='';
+    return false;
+  }
+  return true;
 }
+
+function sendStateChange() {
+  if (req2.readyState != 4) {
+    return;
+  }
+  req2 = null;
+}
+
 </script>
+</head>
+<body bgcolor="cccccc" link="995705" alink="995705" vlink="995705">
 <center>
+
+<table cellpadding="2" cellspacing="1" border="0"><tbody><tr><td bgcolor="222222">
 <table cellpadding="0" cellspacing="0" border="0">
- <tbody><tr><td></td><td><img src="/images/blank.gif" width="787" height="1"></td></tr>
+ <tbody><tr>
+  <td bgcolor="000000"><img src="/images/blank.gif" width="950" height="1" border="0"></td>
+ </tr>
  <tr>
-  <td><img src="/images/blank.gif" width="1" height="222"></td>
-  <td background="/images/scroll-top.gif" valign="top">
-   <br><br>
-   <table border="0" width="100%">
-    <tbody><tr>
-     <td><img src="/images/blank.gif" width="70" height="1"></td>
-     <td width="630"><center> 
-      <img src="/images/title.gif" width="500" height="95">
-<!--      <span class=large>Spells of Magic</span><br>-->
-<br><span class="title">Free Magic Spells, Forums and More</span><br><br>
-      </center>
+  <td bgcolor="d9d9d9" width="100%">
 
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td width="100%">
+   <table cellpadding="2" cellspacing="2" width="100%"><tbody><tr><td nowrap="">
+   <b><a href="http://mobi.spellsofmagic.com" class="smallmenu"><font color="000000">MOBILE</font></a> | 
+      <a href="http://scroll.spellsofmagic.com" class="smallmenu"><font color="000000">800x600</font></a> | 
+      <a href="http://book.spellsofmagic.com" class="smallmenu"><font color="000000">SPELLBOOK</font></a></b><font color="000000">
+   </font></td></tr></tbody></table>
+  </td>
+  <td bgcolor="d9d9d9" align="right" width="99%">
+   <table cellpadding="2" cellspacing="2" width="100%"><tbody><tr><td width="100%" nowrap="">
 
-<center>
-<form action="/login.adp">
+<form action="/login.adp"></form></td><td class="menu" nowrap="">
 Login: <input name="username" size="15"> Password: <input type="password" name="password" size="15"> <input type="submit" value="login"> <input type="submit" value="signup / join">
-
-</form></center>
-Hello!  Become a member today and enter our <a href="/contests.html">contest</a> for free spell castings and join in the conversations in our 
-<a href="/forums.html">forums</a>.  Membership is 100% FREE!
-<input type="hidden" name="remember" value="1">
+</td><td>
 
 
+</td></tr></tbody></table>
+
+   </td></tr></tbody></table>
+  </td>
+ </tr>
+ <tr>
+  <td background="/images/title_bg.jpg">
+   <table cellpadding="0" cellspacking="0" border="0">
+    <tbody><tr>
+     <td rowspan="2" width="148">
+      <img src="/images/title_book.gif" width="258" height="148">
+     </td>
+     <td width="692" align="center" valign="middle">
+      <br>
+      <img src="/images/title.gif" width="440" height="77">
+     </td>
+    </tr>
+    <tr>
+     <td align="right" width="100%">
 
      </td>
-     <td><img src="/images/blank.gif" width="70" height="1"></td>
     </tr>
    </tbody></table>
   </td>
  </tr>
  <tr>
-  <td></td>
-  <td background="/images/scroll-middle.gif" valign="top">
-   <table border="0" width="647">
+  <td background="/images/top_menu_bg.gif" align="right">
+   <table cellpadding="3" cellspacing="3" width="100%"><tbody><tr><td width="100%">
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+<th><a href="/index.html" class="menu"><font color="000000">HOME</font></a></th>
+<th><a href="/profile.html" class="menu"><font color="000000">PROFILE</font></a></th>
+<th><a href="/main_mail.html" class="menu"><font color="000000">MAIL</font></a></th>
+<th><a href="/teller.html" class="menu"><font color="000000">FORTUNES</font></a></th>
+<th><a href="/spell_list.html" class="menu"><font color="000000">SPELLS</font></a></th>
+<th><a href="/ritual_list.html" class="menu"><font color="000000">ARTICLES</font></a></th>
+<th><a href="/videos.html" class="menu"><font color="000000">VIDEOS</font></a></th>
+<th><a href="/members.html" class="menu"><font color="000000">MEMBERS</font></a></th>
+<th><a href="/covens.html" class="menu"><font color="000000">COVENS</font></a></th>
+<th><a href="/forums.html" class="menu"><font color="000000">FORUMS</font></a></th>
+<th><a href="/contests.html" class="menu"><font color="000000">CONTESTS</font></a></th>
+
+</tr></tbody></table>
+  </td></tr></tbody></table>
+  </td>
+ </tr>
+ <tr>
+  <td bgcolor="ffeec2" align="right">
+   <table cellpadding="0" cellspacing="0" border="0">
     <tbody><tr>
-     <td valign="top" align="center">
-<img src="/images/blank.gif" width="63" height="1"><br>
+     <td background="/images/top_submenu_edge.gif">
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     </td>
+     <td background="/images/top_submenu_bg.gif">
+     <table cellpadding="2" cellspacing="2"><tbody><tr><td>
 
-<!--
-<table width=40 cellpadding=0 cellspacing=0 border=0>
-<tr><td background=/images/nav_top.gif><img src=/images/blank.gif width=40 height=22></td></tr><tr><td background=/images/nav_mid.gif align=center>
-<font size=2>
-<a href=/chatter.html style="text-decoration: none">
-L<br>
-I<br>
-V<br>
-E<br>
-<br>
-C<br>
-H<br>
-A<br>
-T<br>
-</a>
-</td></tr>
-<tr><td background=/images/nav_bot.gif><img src=/images/blank.gif width=40 height=22></td></tr>
--->
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+<th><a href="/index.html" class="menu"><font color="000000">WELCOME</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th><a href="/learn_casting.html" class="menu"><font color="ff0000">START HERE</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th><a href="/features.html" class="menu"><font color="000000">FEATURES</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th><a href="/tips.html" class="menu"><font color="000000">TIPS</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th><a href="/faqs.html" class="menu"><font color="000000">FAQS</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th><a href="/contact.html" class="menu"><font color="000000">CONTACT</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</th>
 
-<table width="40" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td background="/images/nav_top.gif"><img src="/images/blank.gif" width="40" height="22"></td></tr><tr><td background="/images/nav_mid.gif" align="center">
-<font size="2"><b>
-<a href="/spell_list.html" style="text-decoration: none">
-S<br>
-P<br>
-E<br>
-L<br>
-L<br>
-S<br>
-</a>
-</b></font>
-</td></tr>
-<tr><td background="/images/nav_bot.gif"><img src="/images/blank.gif" width="40" height="22"></td></tr>
-
-</tbody></table><table width="40" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td background="/images/nav_top.gif"><img src="/images/blank.gif" width="40" height="22"></td></tr><tr><td background="/images/nav_mid.gif" align="center">
-<font size="2">
-<a href="/covens.html" style="text-decoration: none">
-C<br>
-O<br>
-V<br>
-E<br>
-N<br>
-S<br>
-</a>
-<br>
-<a href="/coven.html?coven=148"><img src="/images/covens/coven_twilight_sm.gif" wifth="16" height="16" border="0" alt="Coven of Black Twilight"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=147"><img src="/images/covens/coven_christian_sm.gif" wifth="16" height="16" border="0" alt="Coven of Christian Wiccans"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=108"><img src="/images/covens/coven_devine_sm.gif" wifth="16" height="16" border="0" alt="Coven of Divine Spirits"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=49"><img src="/images/covens/coven_dragon_sm.gif" wifth="16" height="16" border="0" alt="Coven of Dragon Magick"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=46"><img src="/images/covens/coven_midnight_sm.gif" wifth="16" height="16" border="0" alt="Coven of MidnightMagick"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=149"><img src="/images/covens/coven_penta_sm.gif" wifth="16" height="16" border="0" alt="Coven of Penta Magic"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=8"><img src="/images/covens/coven_roots_sm.gif" wifth="16" height="16" border="0" alt="Coven of Roots of Magick"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=67"><img src="/images/covens/coven_sight_sm.gif" wifth="16" height="16" border="0" alt="Coven of Second Sight"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=2"><img src="/images/covens/coven_shadow_craft_sm.gif" wifth="16" height="16" border="0" alt="Coven of Shadow Craft"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=107"><img src="/images/covens/coven_shaman_sm.gif" wifth="16" height="16" border="0" alt="Coven of Shaman's Way"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=9"><img src="/images/covens/coven_arcana_sm.gif" wifth="16" height="16" border="0" alt="Coven of Sisters Arcana"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=6"><img src="/images/covens/coven_casters_sm.gif" wifth="16" height="16" border="0" alt="Coven of Spell Casters"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=3"><img src="/images/covens/coven_teen_sm.gif" wifth="16" height="16" border="0" alt="Coven of Teen Witches"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=91"><img src="/images/covens/coven_closet_sm.gif" wifth="16" height="16" border="0" alt="Coven of The Broom Closet"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=1"><img src="/images/covens/coven_order_sm.gif" wifth="16" height="16" border="0" alt="Coven of The Order"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=22"><img src="/images/covens/coven_time_sm.gif" wifth="16" height="16" border="0" alt="Coven of Time Mages"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=4"><img src="/images/covens/coven_wicca_sm.gif" wifth="16" height="16" border="0" alt="Coven of True Wicca"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-<a href="/coven.html?coven=5"><img src="/images/covens/coven_star_sm.gif" wifth="16" height="16" border="0" alt="Coven of Way of the Star"></a><br>
-<img src="/images/blank.gif" wifth="16" height="4" border="0"><br>
-
-</font></td></tr>
-<tr><td background="/images/nav_bot.gif"><img src="/images/blank.gif" width="40" height="22"></td></tr>
+</tr></tbody></table>
 
 
-</tbody></table>
-</td>
-<td>
-
-<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/images/blank.gif" width="7" hright="1"></td></tr></tbody></table>
-</td>
-     <td width="99%" valign="top">
-
-
-      <table border="0" width="99%" cellpadding="0" cellspacing="0">
-       <tbody><tr>
-        <td valign="top"><center>
-         <h1 class="title"><span class="title">Privacy Policy</span></h1>
-
-
-<!--
-<p>
-<center>
-<table width=90% cellpadding=1 cellspacing=1 border=0><tr><td bgcolor=000000>
-<table width=100% cellpadding=10 cellspacing=1 border=0><tr><td bgcolor=fdfadf>
-<b>Moderators Wanted:</b> I will be adding moderators to the website who will have the ability to remove forum posts and ban people from the live chat.
-If you want to be a moderator please send a message to <a href=/profile.html?profile=1>Petrarch</a>.
-</td></tr></table>
-</td></tr></table>
-</center>
--->
-
-         <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
-          
-         </td></tr></tbody></table>
-        </center></td>	
-        <td valign="bottom" align="right">
+     </td></tr></tbody></table>
+     </td>
+    </tr>
+   </tbody></table>
+  </td>
+ </tr>
+ <tr>
+  <td bgcolor="ffeec2" colspan="2">
+   <center>
+   <table cellpadding="3" cellspacing="3">
+    <tbody><tr>
+     <td>
 <script type="text/javascript"><!--
 google_ad_client = "pub-5628668109165058";
-google_ad_width = 300;
-google_ad_height = 250;
-google_ad_format = "300x250_as";
-google_ad_type = "text_image";
-//2007-04-06: spell_pages
-google_ad_channel = "5759173817";
-google_color_border = "faf4b8";
-google_color_bg = "faf4b8";
-google_color_link = "dfce25";
-google_color_text = "000000";
-google_color_url = "dfce25";
+/* 728x90, created 10/26/08 */
+google_ad_slot = "5551970179";
+google_ad_width = 728;
+google_ad_height = 90;
 //-->
 </script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 
-        </td>
+     </td>
+     <td>
+      <img src="/images/blank.gif" width="204" height="90" border="1">
+     </td>
+    </tr>
+   </tbody></table>
+  </center></td>
+ </tr>
+ <tr>
+  <td bgcolor="ffeec2">
+   <table cellpadding="3" cellspacing="3">
+    <tbody><tr>
+     <td width="100%" valign="top"><center>
+      <table border="0" cellpadding="0" cellspacing="0" width="620"><tbody><tr><td valign="top" align="middle">
+       <h1>Privacy Policy</h1>
 
-       </tr>
-      </tbody></table>
-      <img src="/images/blank.gif" width="630" height="1"><br>
 
-
+     <img src="/images/blank.gif" width="640" height="1" border="0">
+     <table width="620" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>   
       
       I fully understand the desire for privacy, specially when it comes to magic.  This policy is to let you know how and why we collect information from
 you and what we do with that information.
@@ -258,41 +247,218 @@ If you have any questions or concerns about our policy please <a href="/contact.
 
 
 
+     </p></td></tr></tbody></table>
 
 
+    </td>
+    <td width="300" valign="top">
 
-
-
-
-</p><center>
-<!-- SiteSearch Google -->
-<form method="get" action="http://www.spellsofmagic.com/search.html" target="_top">
-<script type="text/javascript"><!--
-google_ad_client = "pub-5628668109165058";
-google_ad_width = 468;
-google_ad_height = 60;
-google_ad_format = "468x60_as";
-google_ad_type = "text_image";
-//2007-04-06: spell_bottom
-google_ad_channel = "3880159558";
-google_color_border = "faf4b8";
-google_color_bg = "faf4b8";
-google_color_link = "dfce25";
-google_color_text = "000000";
-google_color_url = "dfce25";
-//-->
-</script>
-
-<table width="614" height="152" cellpadding="0" cellspacing="0" border="0" background="/images/vscroll.gif">
- <tbody><tr><td rowspan="2"><img src="/images/blank.gif" width="1" height="152"></td><td><img src="/images/blank.gif" width="613" height="1"></td></tr>
- <tr><td valign="middle" align="center">
-<br>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+<table cellpadding="1" cellspacing="1" border="0"><tbody><tr><td bgcolor="000000">
+<table cellpadding="0" cellspacing="0" border="0" width="300"><tbody><tr><td background="/images/headline.gif" valign="middle" width="100%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td><img src="/images/blank.gif" width="40" height="25"></td><td width="99%">
+CHAT
+</td><td align="right" nowrap="" valign="middle">
+<img src="/images/blank.gif" width="1" height="4"><br>
+<!--
+<img src=/images/min.gif width=21 height=21>
+<img src=/images/max.gif width=21 height=21>
+<img src=/images/close.gif width=21 height=21>
+-->
+<img src="/images/blank.gif" width="4" height="2">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
 </td></tr></tbody></table>
 
 
-<table border="0" bgcolor="#faf4b8" cellpadding="0" cellspacing="0">
+<table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td bgcolor="000000">
+<table cellpadding="0" cellspacing="0" border="0">
+ <tbody><tr>
+  <td bgcolor="ffffff" nowrap="" id="public_tab">&nbsp;&nbsp;<span onclick="chat_visibility('public');">PUBLIC</span>&nbsp;&nbsp;</td>
+  <td bgcolor="000000"><img src="/images/blank.gif" width="1" height="1"></td>
+  <td bgcolor="dddddd" nowrap="" id="coven_tab">&nbsp;&nbsp;<span onclick="chat_visibility('coven');">COVEN</span>&nbsp;&nbsp;</td>
+  <td bgcolor="000000"><img src="/images/blank.gif" width="1" height="1"></td>
+  <td bgcolor="dddddd" nowrap="" id="mod_tab">&nbsp;&nbsp;<span onclick="chat_visibility('mod');">MODERATOR</span>&nbsp;&nbsp;</td>
+ </tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="300"><tbody><tr><td bgcolor="ffffff" width="300">
+
+<script>
+ function chat_visibility(which) {
+document.getElementById('public_chat').style.display = 'none';
+document.getElementById('coven_chat').style.display = 'none';
+document.getElementById('mod_chat').style.display = 'none';
+
+document.getElementById('public_tab').style.backgroundColor = '#dddddd';
+document.getElementById('coven_tab').style.backgroundColor = '#dddddd';
+document.getElementById('mod_tab').style.backgroundColor = '#dddddd';
+
+document.getElementById(which + '_chat').style.display = 'inline';
+document.getElementById(which + '_tab').style.backgroundColor = '#ffffff';
+}
+</script>
+ <span id="public_chat" style="display:block">
+   <iframe height="300" width="300" frameborder="0" scrolling="yes" marginheight="5" marginwidth="5" src="http://www.spellsofmagic.com/chatter/gateway.adp?u=0&amp;t=abcdef&amp;c=0&amp;s=1"></iframe>
+   <textarea cols="34" rows="2" onkeypress="chattertalk(this, event, 0);"></textarea>
+ </span>
+ <span id="coven_chat" style="display:none">
+   <iframe height="300" width="300" frameborder="0" scrolling="yes" marginheight="5" marginwidth="5" src="http://www.spellsofmagic.com/chatter/gateway.adp?u=0&amp;t=abcdef&amp;c=0&amp;s=1"></iframe>
+   <textarea cols="34" rows="2" onkeypress="chattertalk(this, event, 0);"></textarea>
+ </span>
+ <span id="mod_chat" style="display:none">
+   <iframe height="300" width="300" frameborder="0" scrolling="yes" marginheight="5" marginwidth="5" src="http://www.spellsofmagic.com/chatter/gateway.adp?u=0&amp;t=abcdef&amp;c=-1&amp;s=1"></iframe>
+   <textarea cols="34" rows="2" onkeypress="chattertalk(this, event,-1);"></textarea>
+ </span>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+<span class="small">
+* You can change to <a href="/toggle_chat.adp?s=0&amp;ref=%2fprivicy%2ehtml%3f">full screen</a> chat 
+</span>
+
+
+
+<p>
+
+
+
+</p><p>
+
+
+
+</p><p>
+
+<table cellpadding="1" cellspacing="1" border="0"><tbody><tr><td bgcolor="000000">
+<table cellpadding="0" cellspacing="0" border="0" width="300"><tbody><tr><td background="/images/headline.gif" valign="middle" width="100%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td><img src="/images/blank.gif" width="40" height="25"></td><td width="100%">
+SPONSORED LINKS
+</td><td align="right" nowrap="">&nbsp;&nbsp;
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</p><center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-5628668109165058";
+/* 200x90, created 10/27/08 */
+google_ad_slot = "1825220364";
+google_ad_width = 200;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</center>
+
+<p>
+
+
+<table cellpadding="1" cellspacing="1" border="0"><tbody><tr><td bgcolor="000000">
+<table cellpadding="0" cellspacing="0" border="0" width="300"><tbody><tr><td background="/images/headline.gif" valign="middle" width="100%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td><img src="/images/blank.gif" width="40" height="25"></td><td width="100%">
+MEMBERS ONLINE
+</td><td align="right" nowrap="">&nbsp;&nbsp;
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="302">
+
+<tbody><tr><td width="50"><a href="/profile.html?profile=50999"><img src="/pics/none_sml.jpg" width="45" height="45" border="0" alt="drusilla18"></a></td>
+<td width="50"><a href="/profile.html?profile=45968"><img src="/pics/68/45968_sml.jpg" width="45" height="45" border="0" alt="fire_raven"></a></td>
+<td width="50"><a href="/profile.html?profile=1"><img src="/pics/01/1_sml.jpg" width="45" height="45" border="0" alt="Petrarca"></a></td>
+<td width="50"><a href="/profile.html?profile=47143"><img src="/pics/none_sml.jpg" width="45" height="45" border="0" alt="athrun"></a></td>
+<td width="50"><a href="/profile.html?profile=51094"><img src="/pics/94/51094_sml.jpg" width="45" height="45" border="0" alt="psionicguy97"></a></td>
+<td width="50"><a href="/profile.html?profile=56631"><img src="/pics/31/56631_sml.jpg" width="45" height="45" border="0" alt="jkinna"></a></td>
+</tr><tr><td><img src="/images/blank.gif" width="1" height="3"></td></tr>
+<tr><td width="50"><a href="/profile.html?profile=56634"><img src="/pics/none_sml.jpg" width="45" height="45" border="0" alt="frzrbrn"></a></td>
+<td width="50"><a href="/profile.html?profile=30032"><img src="/pics/32/30032_sml.jpg" width="45" height="45" border="0" alt="Saiya.S"></a></td>
+<td width="50"><a href="/profile.html?profile=43400"><img src="/pics/00/43400_sml.jpg" width="45" height="45" border="0" alt="Paige.N"></a></td>
+<td width="50"><a href="/profile.html?profile=35170"><img src="/pics/70/35170_sml.jpg" width="45" height="45" border="0" alt="Brother_Dark"></a></td>
+<td width="50"><a href="/profile.html?profile=56131"><img src="/pics/31/56131_sml.jpg" width="45" height="45" border="0" alt="ice_mage"></a></td>
+<td width="50"><a href="/profile.html?profile=50958"><img src="/pics/58/50958_sml.jpg" width="45" height="45" border="0" alt="TheHealer82"></a></td>
+</tr><tr><td><img src="/images/blank.gif" width="1" height="3"></td></tr>
+<tr><td width="50"><a href="/profile.html?profile=38188"><img src="/pics/none_sml.jpg" width="45" height="45" border="0" alt="ally434"></a></td>
+<td width="50"><a href="/profile.html?profile=51707"><img src="/pics/07/51707_sml.jpg" width="45" height="45" border="0" alt="hutches2b"></a></td>
+<td width="50"><a href="/profile.html?profile=56325"><img src="/pics/25/56325_sml.jpg" width="45" height="45" border="0" alt="Hokanafire"></a></td>
+<td width="50"><a href="/profile.html?profile=21106"><img src="/pics/06/21106_sml.jpg" width="45" height="45" border="0" alt="eddy"></a></td>
+<td width="50"><a href="/profile.html?profile=49009"><img src="/pics/09/49009_sml.jpg" width="45" height="45" border="0" alt="Kyann"></a></td>
+<td width="50"><a href="/profile.html?profile=49813"><img src="/pics/13/49813_sml.jpg" width="45" height="45" border="0" alt="Latriona"></a></td>
+</tr><tr><td><img src="/images/blank.gif" width="1" height="3"></td></tr>
+<tr><td width="50"><a href="/profile.html?profile=41616"><img src="/pics/16/41616_sml.jpg" width="45" height="45" border="0" alt="fishfreak321"></a></td>
+<td width="50"><a href="/profile.html?profile=55806"><img src="/pics/06/55806_sml.jpg" width="45" height="45" border="0" alt="Tootles_Bean"></a></td>
+<td width="50"><a href="/profile.html?profile=52042"><img src="/pics/42/52042_sml.jpg" width="45" height="45" border="0" alt="witchwisher"></a></td>
+<td width="50"><a href="/profile.html?profile=29940"><img src="/pics/40/29940_sml.jpg" width="45" height="45" border="0" alt="coooljo2000"></a></td>
+<td width="50"><a href="/profile.html?profile=9327"><img src="/pics/none_sml.jpg" width="45" height="45" border="0" alt="junior904"></a></td>
+<td width="50"><a href="/profile.html?profile=26425"><img src="/pics/25/26425_sml.jpg" width="45" height="45" border="0" alt="Luzifer"></a></td>
+
+ </tr>
+</tbody></table>
+
+
+
+</p><p>
+
+
+
+
+</p><p>
+
+
+<table cellpadding="1" cellspacing="1" border="0"><tbody><tr><td bgcolor="000000">
+<table cellpadding="0" cellspacing="0" border="0" width="300"><tbody><tr><td background="/images/headline.gif" valign="middle" width="100%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td><img src="/images/blank.gif" width="40" height="25"></td><td width="100%">
+MODERATORS
+</td><td align="right" nowrap="">&nbsp;&nbsp;
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="302">
+
+<tbody><tr><td width="50"><a href="/profile.html?profile=1"><img src="/pics/01/1_sml.jpg" width="45" height="45" border="0" alt="Petrarca"></a></td>
+<td width="50"><a href="/profile.html?profile=21106"><img src="/pics/06/21106_sml.jpg" width="45" height="45" border="0" alt="eddy"></a></td>
+<td width="50"><a href="/profile.html?profile=11733"><img src="/pics/33/11733_sml.jpg" width="45" height="45" border="0" alt="nowhere2hide"></a></td>
+<td width="50"><a href="/profile.html?profile=16730"><img src="/pics/30/16730_sml.jpg" width="45" height="45" border="0" alt="SilverVixen"></a></td>
+<td width="50"><a href="/profile.html?profile=13365"><img src="/pics/65/13365_sml_bw.jpg" width="45" height="45" border="0" alt="piper_gurl"></a></td>
+<td width="50"><a href="/profile.html?profile=16198"><img src="/pics/98/16198_sml_bw.jpg" width="45" height="45" border="0" alt="dreamkiller"></a></td>
+</tr><tr><td><img src="/images/blank.gif" width="1" height="3"></td></tr>
+<tr><td width="50"><a href="/profile.html?profile=6502"><img src="/pics/02/6502_sml_bw.jpg" width="45" height="45" border="0" alt="Moony"></a></td>
+<td width="50"><a href="/profile.html?profile=11373"><img src="/pics/73/11373_sml_bw.jpg" width="45" height="45" border="0" alt="AvaMoonLight"></a></td>
+<td width="50"><a href="/profile.html?profile=23201"><img src="/pics/01/23201_sml_bw.jpg" width="45" height="45" border="0" alt="Joethewicca"></a></td>
+<td width="50"><a href="/profile.html?profile=26660"><img src="/pics/60/26660_sml_bw.jpg" width="45" height="45" border="0" alt="ericak"></a></td>
+<td width="50"><a href="/profile.html?profile=22974"><img src="/pics/74/22974_sml_bw.jpg" width="45" height="45" border="0" alt="Shadow333"></a></td>
+<td width="50"><a href="/profile.html?profile=22611"><img src="/pics/11/22611_sml_bw.jpg" width="45" height="45" border="0" alt="dothanwitch"></a></td>
+</tr></tbody></table>
+
+
+</p><p>
+     </p></td>
+    </tr>
+   </tbody></table>
+  </center></td>
+ </tr>
+
+</tbody></table></td></tr>
+
+ <tr>
+  <td bgcolor="ffeec2" colspan="2">
+<p>
+   </p><center>
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-5628668109165058";
+/* 728x90, created 10/26/08 */
+google_ad_slot = "1121986535";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+<form method="get" action="http://www.spellsofmagic.com/search.html" target="_top">  
+<table border="0" bgcolor="#ffeec2" cellpadding="0" cellspacing="0">
 <tbody><tr><td nowrap="nowrap" valign="top" align="left" height="32">
 <a href="http://www.google.com/">
 <img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" align="middle"></a>
@@ -322,80 +488,66 @@ google_color_url = "dfce25";
 <input type="hidden" name="channel" value="1386624854">
 <input type="hidden" name="ie" value="ISO-8859-1">
 <input type="hidden" name="oe" value="ISO-8859-1">
-<input type="hidden" name="cof" value="GALT:#7b7643;GL:1;DIV:#faf4b8;VLC:7b7643;AH:center;BGC:faf4b8;LBGC:faf4b8;ALC:7b7643;LC:7b7643;T:000000;GFNT:7b7643;GIMP:7b7643;LH:0;LW:0;L:http://www.petrarch.petersadlon.com/images/search.gif;S:http://www.petrarch.petersadlon.com/petrarch.html;FORID:11">
+<input type="hidden" name="cof" value="GALT:#7b7643;GL:1;DIV:#faf4b8;VLC:995705;AH:center;BGC:ffeec2;LBGC:faf4b8;ALC:995705;LC:995705;T:000000;GFNT:7b7643;GIMP:995705;LH:0;LW:0;L:http://www.petrarch.petersadlon.com/images/search.gif;S:http://www.petrarch.petersadlon.com/petrarch.html;FORID:11">
+<!--value="GALT:#7b7643;GL:1;DIV:#faf4b8;VLC:7b7643;AH:center;BGC:faf4b8;LBGC:faf4b8;ALC:7b7643;LC:7b7643;T:000000;GFNT:7b7643;GIMP:7b7643;LH:0;LW:0;L:http://www.petrarch.petersadlon.com/i-->
+
 <input type="hidden" name="hl" value="en">
 </td></tr></tbody></table>
-
-</form>
-<!-- SiteSearch Google -->
-
-<p>
-</p><center>
-<table width="100%" cellpadding="1" cellspacing="1" border="0"><tbody><tr><td bgcolor="000000">
-<table width="100%" cellpadding="10" cellspacing="1" border="0"><tbody><tr><td bgcolor="faf4b8">
-<b>NEW!</b> Join our new <a href="http://www.facebook.com/group.php?gid=35513770525&amp;ref=mf" target="_blank">Facebook Group</a>.  10 free spell castings will be given away at the end of the month, chosen at 
-random from all those who join!
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</center>
-<p>
-
-
-</p><center>
-<table cellpadding="1" cellspacing="1" border="0"><tbody><tr><td bgcolor="000000">
-<table cellpadding="10" cellspacing="1" border="0"><tbody><tr><td bgcolor="faf4b8">
-<b>Are you new to casting magic?</b>  Want to learn how?  Check out our <a href="/learn_casting.html">How To Cast Magic</a> page and consider 
-<a href="/login.html">joining our site as a member</a>!
-<p>
-Membership is 100% free and includes access to write in our <a href="/forums.html">forums</a>, enter our <a href="/contests.html">contests</a> for free 
-spell castings, and allows you to <a href="/chatter.html">live chat</a> with others.  
-<!--
-And don't forget our Covens!  Create or join a Coven and learn from 
-real spell casters.
--->
-</p></td></tr></tbody></table>
-</td></tr></tbody></table>
-</center>
-
-
-     </center></td>
-     <td><img src="/images/blank.gif" width="70" height="1"></td>
-    </tr>
-   </tbody></table>
-  </td>
- </tr><tr>
-  <td><img src="/images/blank.gif" width="1" height="182"></td>
-  <td background="/images/scroll-bottom.gif" valign="top">
-   <br><br>
-   <table border="0" width="100%">
-    <tbody><tr>
-     <td><img src="/images/blank.gif" width="120" height="1"></td>
-     <td width="99%">
-      <table border="0" width="100%">
-       <tbody><tr>
-        <td valign="top" nowrap="">
-         <b><font size="3">Navigation / Site Map</font></b> [<a href="/">HOME</a>]<br>
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spellbooks: <b><a href="/white/page.html">White Magic</a></b> | <b><a href="/black/page.html">Black Magic</a></b> | <a href="/spellbooks.html">All Spellbooks</a><br>
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spell Casting: <a href="/learn_casting.html">How to Cast Spells</a> | <a href="/faqs.html">FAQs</a> | <a href="/tips.html">Tips</a><br>
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fortunes: <a href="/numerology.html">Numerology</a> |  <a href="/numerology.html">Horoscope</a> | <a href="/tarot.html">Tarot</a> | <a href="/teller.html"><b>Fortune</b></a><br>
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Members: <a href="/login.html">Login</a> | <a href="/forums.html">Forums</a> | <a href="/contests.html">Contests</a> | <a href="/chatter.html">Live Chat</a> | <a href="/covens.html">Covens</a> 
 <br>
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Books For Sale: <a href="/shop/spells.pl?locale=us&amp;input_string=magic+spells&amp;mode=books">Magic Spell Books</a> | <a href="/shop/tricks.pl?locale=us&amp;input_string=magic+tricks&amp;mode=books">Magic Trick Books</a><br>
-        </td>
-        <td valign="middle" align="right" width="99%">
 
-        <a href="http://www.spellsofmagic.com/chatter.html"><img src="/images/new-chat.gif" border="0"></a>
+  </form></center></td>
+ </tr>
 
-        </td>
-       </tr>
-      </tbody></table>
+ <tr>
+  <td bgcolor="ffeec2" align="left">
+   <table cellpadding="0" cellspacing="0" border="0">
+    <tbody><tr>
+     <td background="/images/bottom_submenu_bg.gif">
+     <table cellpadding="2" cellspacing="2" width="100%"><tbody><tr><td width="100%">
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+<th>&nbsp;&nbsp;</th>
+<th><a href="/index.html" class="menu"><font color="000000">WELCOME</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th><a href="/learn_casting.html" class="menu"><font color="000000">START HERE</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th><a href="/features.html" class="menu"><font color="000000">FEATURES</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th><a href="/tips.html" class="menu"><font color="000000">TIPS</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th><a href="/faqs.html" class="menu"><font color="000000">FAQS</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th><a href="/contact.html" class="menu"><font color="000000">CONTACT</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+
+</tr></tbody></table>
+
+     </td></tr></tbody></table>
      </td>
-     <td><img src="/images/blank.gif" width="40" height="1"></td>
+     <td background="/images/bottom_submenu_edge.gif">
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     </td>
     </tr>
    </tbody></table>
   </td>
- </tr>  
-</tbody></table>
+ </tr>
+ <tr>
+  <td background="/images/bottom_menu_bg.gif" align="left">
+   <table cellpadding="2" cellspacing="2" width="100%"><tbody><tr><td width="100%">
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+<th><a href="/index.html" class="menu"><font color="000000">HOME</font></a></th>
+<th><a href="/profile.html" class="menu"><font color="000000">PROFILE</font></a></th>
+<th><a href="/main_mail.html" class="menu"><font color="000000">MAIL</font></a></th>
+<th><a href="/teller.html" class="menu"><font color="000000">FORTUNES</font></a></th>
+<th><a href="/spell_list.html" class="menu"><font color="000000">SPELLS</font></a></th>
+<th><a href="/ritual_list.html" class="menu"><font color="000000">ARTICLES</font></a></th>
+<th><a href="/videos.html" class="menu"><font color="000000">VIDEOS</font></a></th>
+<th><a href="/members.html" class="menu"><font color="000000">MEMBERS</font></a></th>
+<th><a href="/covens.html" class="menu"><font color="000000">COVENS</font></a></th>
+<th><a href="/forums.html" class="menu"><font color="000000">FORUMS</font></a></th>
+<th><a href="/contests.html" class="menu"><font color="000000">CONTESTS</font></a></th>
+
+</tr></tbody></table>
+  </td></tr></tbody></table>
+  </td>
+ </tr>
+ <tr>
+  <td background="/images/title_bg.jpg">
+   <center>
+<br>
 - <a href="/advertise.html">Advertise on this site</a> - <br>
 - <a href="/contact.html">contact</a> 
 - <a href="/disclaimer.html">disclaimer</a> 
@@ -405,6 +557,12 @@ real spell casters.
 <br>
 © 1997-2008 <a href="http://www.merentha-entertainment.com" target="_blank">Merentha-Entertainment.com</a><br>
 For entertainment purposes only<br>
+<br>
+  </center></td>
+ </tr>
+</tbody></table>
+</td></tr></tbody></table>
+</center>
 
 
 
@@ -417,7 +575,4 @@ urchinTracker();
 
 
 
-
-
-
-</center></body></html>
+</body></html>
