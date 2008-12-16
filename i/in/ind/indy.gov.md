@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indy.gov privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225152058id_/http%3A//www.indygov.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indy.gov privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217005517id_/http%3A//www.indygov.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -92,7 +92,7 @@ Indygov.org will not rent, sell or give away any Personally Identifiable Informa
 
 All information collected or submitted may be subject to disclosure pursuant to the Indiana Access to Public Records Act. In accordance with Indiana public record statutes, we may be required to disclose the information you submit. If you use one of our online forms, the information you provide is up to you. If you do not provide your name or other information, it may be impossible for us to refer, respond to, or investigate your complaint or request.
 
-For more information on the Indiana Access to Public Records Act, [click here](http://www.ai.org/legislative/ic/code/title5/ar14/ch3.html).  Visit the web page for the Indiana Public Access Counselor, by [clicking here](http://www.state.in.us/pac/), or to visit the web page for the City of Indianapolis Public Access Counselor, [click here](https://web.archive.org/eGov/Mayor/PAC/).
+For more information on the Indiana Access to Public Records Act, [click here](http://www.ai.org/legislative/ic/code/title5/ar14/ch3.html).  Visit the web page for the Indiana Public Access Counselor, by [clicking here](http://www.state.in.us/pac/), or to visit the web page for the City of Indianapolis Public Access Counselor, click here.
 
 _Third Party Processing_ : Indygov.org will send Personally Identifiable Information about you to other companies, agencies, or people when:
 
