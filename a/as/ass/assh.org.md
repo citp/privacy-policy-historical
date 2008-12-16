@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the assh.org privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226233036id_/http%3A//www.assh.org/Template.cfm%3FSection%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assh.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050840id_/http%3A//www.assh.org/AM/Template.cfm%3FSection%3DPrivacy_Policy) for the most accurate reproduction.*
 
-# American Society for Surgery of the Hand | Privacy Policy
+# ASSH | Privacy Policy
+
+[Home](http://www.assh.org/) Privacy Policy 
+
+  
+
 
 In an effort to maintain efficient service while respecting the privacy of ASSH website visitors, ASSH has created and posted the following privacy policy. 
 
