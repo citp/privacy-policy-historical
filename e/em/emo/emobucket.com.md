@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the emobucket.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515015609id_/http%3A//www.emobucket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emobucket.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033804id_/http%3A//www.emobucket.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Emo Bucket
+
+  
+
 
 ### Privacy Policy Statement
 
@@ -35,3 +38,6 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 Consumers can have this information corrected by sending us e-mail at the above address.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+  
+
