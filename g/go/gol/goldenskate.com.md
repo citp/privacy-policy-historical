@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509144557id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216055211id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
 
 # Golden Skate's Privacy Policy
 
   * [Home](http://www.goldenskate.com/)
-  * [Articles](https://web.archive.org/articles/articles.shtml)
-  * [Forum](https://web.archive.org/forum/)
-  * [Newsletter](https://web.archive.org/newsletter.shtml)
-  * [Upcoming Events](https://web.archive.org/resources/events.shtml)
-  * [Site Map](https://web.archive.org/web/20080509144557id_/http%3A//www.goldenskate.com/sitemap.shtml)
+  * [Articles](http://www.goldenskate.com/articles/articles.shtml)
+  * [Forum](http://www.goldenskate.com/forum/)
+  * [Newsletter](http://www.goldenskate.com/newsletter.shtml)
+  * [Upcoming Events](http://www.goldenskate.com/resources/events.shtml)
+  * [Site Map](http://www.goldenskate.com/sitemap.shtml)
 
 
   * **DIRECTORIES**
