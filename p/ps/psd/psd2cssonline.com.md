@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the psd2cssonline.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420195338id_/http%3A//www.psd2cssonline.com/node/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psd2cssonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216135412id_/http%3A//psd2cssonline.com/node/13) for the most accurate reproduction.*
 
 # Privacy Policy | psd 2 CSS Online
+
+Submitted by shaun on Wed, 04/16/2008 - 20:44.
 
 This is the web site of psd2cssonline.com.
 
