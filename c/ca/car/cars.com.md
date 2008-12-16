@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cars.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530082600id_/http%3A//www.cars.com/go/about/privacy.jsp%3Faff%3Dnational) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cars.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012000id_/http%3A//www.cars.com/go/about/privacy.jsp%3Faff%3Dnational) for the most accurate reproduction.*
 
 # Cars.com: Privacy Statement
 
