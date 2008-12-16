@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streetfire.net privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616174453id_/http%3A//videos.streetfire.net/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetfire.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151834id_/http%3A//videos.streetfire.net/Privacy.aspx) for the most accurate reproduction.*
 
-# The StreetFire Media Network
+# Car videos, car photos, events and community on StreetFire.net
 
 What this Privacy Policy Covers
 
