@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216183125id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216103048id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - lostateminor.com
-
-## Privacy policy
+# Privacy policy — Lost At E Minor: For creative people
 
 PERSONAL INFORMATION  
 In order to receive Lost At E Minor we need your email address. We also ask you your name in order to personalise the newsletter. Lost At E Minor will not disclose your email or any personal information to any third party without your consent.
@@ -28,7 +26,7 @@ LINKS
 Both the Lost At E Minor newsletters and websites contain links to other sites. Lost At E Minor is not responsible for the privacy practices of such other sites. This privacy statement applies solely to information directly collected by Lost At E Minor.
 
 SECURITY  
-Lost At E Minor takes every precaution to protect users' information. Access to your personal information is limited to people who need it to do their job.
+Lost At E Minor takes every precaution to protect users’ information. Access to your personal information is limited to people who need it to do their job.
 
 NOTIFICATION OF CHANGES  
 Lost At E Minor reserves the right, at its sole discretion, to change, modify or otherwise alter these terms and conditions at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Please review the terms and conditions periodically. Continued use of any Lost At E Minor publication following the posting of changes and/or modifications constitutes acceptance of the revised terms and conditions.
@@ -37,5 +35,3 @@ LEGAL DISCLAIMER
 Lost At E Minor may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on us, our partners, sponsors, investors, or affiliates; (b) protect and defend our rights or property or those of our users; and (c) act as immediately necessary in order to protect the personal safety of our users or the public.
 
 If you have any questions, please contact us [using the form on this page](https://web.archive.org/about/ "Contact us").
-
-  |   [Email this page](http://www.lostateminor.com/privacy-policy/emailpage/ "Email this page")
