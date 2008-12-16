@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chemistwarehouse.com.au privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624225019id_/http%3A//www.epharmacy.com.au/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemistwarehouse.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216065319id_/http%3A//www.epharmacy.com.au/aboutus/privacy.asp) for the most accurate reproduction.*
 
-# epharmacy
+# ePharmacy
 
 **Privacy**  
   
