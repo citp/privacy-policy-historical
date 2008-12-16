@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fraserinstitute.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630205343id_/http%3A//www.fraserinstitute.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fraserinstitute.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045520id_/http%3A//www.fraserinstitute.org/privacy.htm) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 Privacy Policy   
   
@@ -21,31 +21,30 @@ THE FRASER INSTITUTE only collects personal information from users if that user 
 **5\. Purpose**  
 THE FRASER INSTITUTE uses the personal information collected for the following purposes:
 
-  * To provide users with Email updates (if requested) of events, new research, and activities of The Fraser Institute. 
-  * To keep aggregate information on website use. 
+  * To provide users with Email updates (if requested) of events, new research, and activities of The Fraser Institute.
+  * To keep aggregate information on website use.
   * To obtain user feedback on the website. 
 
 
 
-**6\. Collection of Information**
-
+**6\. Collection of Information**  
 When a user subscribes to receive Email updates from THE FRASER INSTITUTE we may collect some (or all) of the following personal information: 
 
-  * Name 
-  * Email address 
-  * Address 
+  * Name
+  * Email address
+  * Address
   * City 
 
 
 
 When a user purchases a copy of a FRASER INSTITUTE publication, registers for an event, or joins the Institute, some (or all) of the following personal information is collected: 
 
-  * Name 
-  * Address 
-  * City 
-  * Province 
-  * Postal Code 
-  * Email address 
+  * Name
+  * Address
+  * City
+  * Province
+  * Postal Code
+  * Email address
   * Credit Card Number, Type and Expiry Date 
 
 
@@ -58,9 +57,9 @@ When submitting a comment by email to THE FRASER INSTITUTE'S general mailbox **[
 
 THE FRASER INSTITUTE also collects non-personally identifiable information that becomes available as a result of a user's visit to THE FRASER INSTITUTE'S website. This information includes the following: 
 
-  * The user's IP address (A number automatically assigned to your computer when you visit the website. Our server logs the user's IP address.) 
-  * The user's Internet Service Provider (ISP) 
-  * The user's Web browser. 
+  * The user's IP address (A number automatically assigned to your computer when you visit the website. Our server logs the user's IP address.)
+  * The user's Internet Service Provider (ISP)
+  * The user's Web browser.
   * Non-personal information about a user's visiting habits MAY also be automatically collected through the use of "cookies." Cookies are computer files that are placed in a user's hard drive to remember any preferences the user may have when surfing the web. They can also tell us how often particular pages are visited. 
 
 
@@ -68,19 +67,19 @@ THE FRASER INSTITUTE also collects non-personally identifiable information that 
 **7\. Limiting Use, Disclosure & Retention**  
 An individual's personal information is only used in connection with the purposes identified in paragraph 4 of this policy. Individual information collected by THE FRASER INSTITUTE will not be sold or made available to third parties. The retention periods for personal information collected by THE FRASER INSTITUTE are as follows: 
 
-  * Information collected for the purpose of providing Email updates is retained until the user requests to be removed from our subscription list. 
+  * Information collected for the purpose of providing Email updates is retained until the user requests to be removed from our subscription list.
   * Information collected pursuant to the sale of publications, event registrations, and memberships is retained as long as required by the Canada Customs and Revenue Agency for tax and audit purposes. 
 
 
 
 **8\. Ensuring Accuracy**  
-Users can subscribe to receive Email updates from THE FRASER INSTITUTE. To unsubscribe, users simply send an Email to **[info@fraserinstitute.org](mailto:info@fraserinstitute.org)** requesting to be removed from THE FRASER INSTITUTE'S Email updates list. Also, to change or modify information previously provided to THE FRASER INSTITUTE simply send an Email with the required changes to **[info@fraserinstitute.org](mailto:info@fraserinstitute.org).**
+Users can [subscribe](http://www.fraserinstitute.org/newsletter.aspx) or to receive Email updates from THE FRASER INSTITUTE and [unsubscribe](http://www.fraserinstitute.org/Unsubscribe.aspx) to be removed from THE FRASER INSTITUTE'S Email updates list at any time. 
 
 **9\. Safeguards**  
 To ensure the protection of personal information collected by us, THE FRASER INSTITUTE employs the following physical, organizational and technological security safeguards:
 
-  * Access is restricted to THE FRASER INSTITUTE offices to employees and authorized individuals of THE FRASER INSTITUTE only. 
-  * Access to THE FRASER INSTITUTE server containing personal information is limited to designated employees of THE FRASER INSTITUTE, our web site development company, and ISP and is accessed by use of a password. 
+  * Access is restricted to THE FRASER INSTITUTE offices to employees and authorized individuals of THE FRASER INSTITUTE only.
+  * Access to THE FRASER INSTITUTE server containing personal information is limited to designated employees of THE FRASER INSTITUTE, our web site development company, and ISP and is accessed by use of a password.
   * The FRASER INSTITUTE server contains firewall protection. Further, all THE FRASER INSTITUTE employees are made aware of the importance of maintaining the confidentiality of our users' personal information. 
 
 
