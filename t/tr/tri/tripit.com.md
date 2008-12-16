@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616164249id_/http%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160923id_/http%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
 
 # TripIt | Organize your travel
 
