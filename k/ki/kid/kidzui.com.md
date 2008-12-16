@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523145603id_/http%3A//www.kidzui.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023309id_/http%3A//www.kidzui.com/help/privacypolicy) for the most accurate reproduction.*
 
 # KidZui - The Internet for Kids
 
@@ -28,7 +28,7 @@ Children - KidZui.com does not knowingly collect personal information from child
 
 Corrections and updates - If you wish to modify or update any information KidZui.com has received, please contact privacy@kidzui.com.
 
-Modifications of the privacy policy - KidzuiKidZui.com reserves the rights to modify its privacy policy at any time and will notify you by posting an amendment to the privacy policy on the website. Such modifications will become effective on the day they are posted. KidZui.com encourages you to frequently review the privacy policy for any modifications.
+Modifications of the privacy policy - KidZui.com reserves the rights to modify its privacy policy at any time and will notify you by posting an amendment to the privacy policy on the website. Such modifications will become effective on the day they are posted. KidZui.com encourages you to frequently review the privacy policy for any modifications.
 
 Questions? - If you have any additional questions or concerns about this Policy, please feel free to contact us any time.
 
@@ -67,6 +67,3 @@ Modifications to this policy - If KidZui, Inc. makes modifications or changes to
 Questions? - If you have any other questions or require any additional assistance please send an email to support@kidzui.com, or write us at KidZui, Inc., attention CFO, 2448 Historic Decatur Road, Suite 105, San Diego, CA 92106.
 
 Effective: March 19, 2008
-
-Your friends and family  
-will love KidZui!
