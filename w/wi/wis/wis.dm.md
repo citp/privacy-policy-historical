@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the wis.dm privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422072318id_/http%3A//wis.dm/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wis.dm privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012353id_/http%3A//wis.dm/corp/privacy) for the most accurate reproduction.*
 
 # wis.dm
 
-## wis.dm Privacy Policy 
-
-Effective as of 24th April 2007 
+Effective as of 24th April 2008 
 
 ### Introduction 
 
-Welcome to wis.dm, a social network that enables members to ask questions, give and get answers, spark a debate or test an idea (the “wis.dm Service”). We understand you may not want everyone in the world to have access to the information you share on wis.dm, which is why we believe you should have control over your personal information, in terms of both the nature and extent of the information you supply, as well as with whom you are prepared to share that information. By using or accessing wis.dm, you are accepting the practices described in this Privacy Policy. 
+Welcome to wis.dm, a vibrant social scene bursting with people, passion and promise that enables members to explore, experiment and discover other attitudes towards life and meet people they don’t know, but should (the “wis.dm Service”). We understand you may not want everyone in the world to have access to the information you share on wis.dm, which is why we believe you should have control over your personal information, in terms of both the nature and extent of the information you supply, as well as with whom you are prepared to share that information. By using or accessing wis.dm, you are accepting the practices described in this Privacy Policy. 
 
 ### Information collected by wis.dm 
 
