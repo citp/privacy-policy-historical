@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worthpoint.com privacy policy that was archived on 2008-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080107110751id_/http%3A//www.worthpoint.com/page/worthpoint-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthpoint.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152946id_/http%3A//www.worthpoint.com/page/worthpoint-privacy-policy) for the most accurate reproduction.*
 
 # WorthPoint Privacy Policy | WorthPoint
 
@@ -99,4 +99,4 @@ We reserve the right to retain any Personal Information reasonably necessary to 
 **9\. Contact Us**  
 
 
-If you have questions regarding our websites, our services, the privacy policy or your privacy while accessing or using our websites, you can send a request with any further questions to us by e-mail at **support@worthpoint.com** _,_ by mail at **WorthPoint Corporation, 2050 Marconi Drive, Suite 300, Alpharetta, GA, 30005** _,_ ATTN: MEMBER SUPPORT, or you may call us at **(770) 777-8200**. 
+If you have questions regarding our websites, our services, the privacy policy or your privacy while accessing or using our websites, you can send a request with any further questions to us by e-mail at **support@worthpoint.com** _,_ by mail at **WorthPoint Corporation, 75 5th Street, Suite 212, Atlanta, GA, 30308** _,_ ATTN: MEMBER SUPPORT, or you may call us at **404-477-3250**. 
