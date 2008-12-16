@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622110103id_/http%3A//marketing.justia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160342id_/http%3A//marketing.justia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Justia :: Privacy Policy - Search Engine Optimized Web Site Design for Law Firms
 
@@ -33,6 +33,12 @@ Justia encourages you to review the privacy statements of Web sites you choose t
 Justia will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission. Justia may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to conform to the edicts of the law or comply with legal process served on Justia, protect and defend the rights or property of Justia or act under exigent circumstances to protect the personal safety of users of Justia or members of the public. 
 
 Certain Justia services and content may be co-branded with another company. If you register for or use such services, both Justia and the other company may receive information collected in conjunction with the co-branded services. In such cases, either a joint privacy statement or a link to the other company's privacy statement will be provided, which will provide you with information about how the other company will use the information and how you can contact the other company with requests to access the information or other inquiries. 
+
+The Justia Lawyer Directory will be sharing all user information with Cornell's Legal Information Institute for their version of the lawyer directory. We may also cobrand the lawyer directory with other thrid parites, but will not share information marked private or non-public email addresses with those other third parties. 
+
+**Content Submitted Or Made Available For Inclusion On The Service**
+
+With respect to content you submit or make available for inclusion on publicly accessible areas of the Service, this information will be made public on the Internet. "Publicly accessible" areas of the Service are those areas of the Justia network of properties that are intended by Justia to be available to the general public. By way of example, publicly accessible areas of the Service would include the Justia Lawyer Directory, Wikis, Message Boards and Justia developed Websites and Blogs. 
 
 **Protecting Your Information**
 
