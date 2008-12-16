@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scenedaily.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621011643id_/http%3A//www.scenedaily.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenedaily.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216093925id_/http%3A//www.scenedaily.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | SceneDaily.com - NASCAR News
+# Privacy Policy - Privacy Policy | SceneDaily.com - NASCAR News
 
 PRIVACY POLICYThe SceneDaily.com web site is maintained by Street & Smith's Sports Group, Inc., 120 West Morehead St., Suite 400, Charlotte, NC 28202. We can be reached by email at bsnyder@scenedaily.com. 
 
