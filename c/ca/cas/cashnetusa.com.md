@@ -1,55 +1,30 @@
-> *The following text is extracted and transformed from the cashnetusa.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611151312id_/http%3A//www.cashnetusa.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnetusa.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023808id_/http%3A//www.cashnetusa.com/privacy_policy.html) for the most accurate reproduction.*
 
 # CashNetUsa - Fast Payday Loans
 
-**CashNetUSA** is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
+**This policy replaces any privacy policy previously delivered to you or appearing on our website, any transaction agreement, application, loan document or any other document previously delivered to you. If there are conflicts between this Policy and any other policy we have delivered to you, the terms of this Policy shall control until revised.**
 
-"You" or "Your" means you as a participant in or as a user of the **CashNetUSA** program. "We" or "Our" or "Us" means **CashNetUSA**. "Our site" means **CashNetUSA**. All information transmitted, printed or otherwise submitted to **CashNetUSA** via this website shall be deemed to be the property of **CashNetUSA** and **CashNetUSA** shall be free to use such information for any lawful purpose as detailed herein. We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
+Cash America Net Holdings, LLC (“CashNetUSA”) is serious about protecting your privacy. This notice is provided to you on behalf of CashNetUSA and its parent company, Cash America International, Inc., and their respective family of companies including CashNetUSA, its parent company, Cash America International, Inc., and all of their respective subsidiaries and affiliates, (hereafter collectively referred to as the “CashNetUSA Related Companies,” “we,” “our,” or “us”). The CashNetUSA Related Companies include, but are not limited to: CashNetUSA, Cash America International, Inc., and all of their respective subsidiaries and affiliates, including those that operate under the trade names CashNetUSA, Cash America Net, Cash America, Cash America Pawn, Cashland, SuperPawn, Cash America Payday Advance, Primary Pay Card (or variations thereof), or company-owned Mr. Payroll locations. “You” or “Your” means you as a participant in or as a user of the products and/or services offered by a CashNetUSA Related Company.
 
-## What Information We Collect
+All information transmitted, printed or otherwise submitted to us shall be deemed to be our property and we shall be free to use such information for any lawful purpose described herein, and for other purposes as required or permitted by law.
 
-We automatically collect and/or track the following:
+**Please read this notice carefully.** This notice provides important information about the way we collect, share, and protect your information. This privacy policy applies to anyone who applies for or uses our products or services, or visits our websites, including, but not limited to, current and former customers. We must notify you about our sharing practices when you establish a customer relationship and each year while you are a customer. A customer relationship begins when you obtain a financial product or service from us. A customer relationship terminates when you pay off a transaction in full.
 
-  * web page http headers (home server domain names, IP address, type of client computer, and type of Web browser)
-  * information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information
-  * information, user specific or aggregate, on what pages our visitors access
-  * the e-mail addresses of visitors that communicate with **CashNetUSA** via e-mail
+Expand All | Collapse All
 
-
-
-## How We Use That Information
-
-We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online.
-
-## Disclosure of Data to Third Parties
-
-If you choose to provide personal information, it will be used for the following purposes:
-
-  * considering you for a payday loan, and
-  * for marketing products and services which we determine, in our sole judgment, that you might find of interest.
-
-
-
-We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be carefully prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
-
-## Your Opt-Out Rights
-
-You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our database by responding to any of our e-mail communications with "remove" in the subject line. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or by third parties to send promotional correspondences to you. **CashNetUSA** takes your privacy seriously and does not tolerate spam.
-
-## Our Right To Contact You
-
-We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
-
-## Our Right To Change
-
-We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
-
-## We Do Not Intend To Collect Data From Children
-
-The information and services provided by us or by our affiliates, sponsors, and advertisers, are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside **CashNetUSA**.
+Information We Collect 
+How We Use Your Information 
+Sharing Your Information 
+Notice of Furnishing Negative Information 
+Automatic Information and Cookies 
+Your Right to Limit the Sharing of Your Information 
+Opt-Out Information and Notice 
+How We Protect Your Information 
+Our Right to Contact You 
+We Do Not Collect Data from Children 
+Our Right to Change This Policy 
+Notice to California Residents 
+Notice to North Dakota Residents 
+Notice to Vermont Residents 
 
 Customer Notice: Payday advances should be used for short-term financial needs only, not as a long-term financial solution. Customers with credit difficulties should seek credit counseling.
-
-CashNetUSA's affiliates only offer payday advance in those states where permitted by the state banking authority. More details are in the "About Us" page.
-
-CashNetUSA is a registered trademark with the U.S. Patent and Trademark Office. (3,210,970) All rights reserved. 
