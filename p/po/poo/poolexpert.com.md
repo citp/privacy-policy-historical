@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the poolexpert.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526041526id_/http%3A//www.poolexpert.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolexpert.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011055id_/http%3A//www1.poolexpert.com/privacy.asp) for the most accurate reproduction.*
 
 # PoolExpert.com - NHL Hockey and MLB Baseball Pool Manager - Free trial
 
   
-Privacy Statement| [](https://web.archive.org/web/20080526041526id_/http%3A//www.poolexpert.com/privacy.asp?ui=pr)  
+Privacy Statement| [](https://web.archive.org/web/20081216011055id_/http%3A//www1.poolexpert.com/privacy.asp?ui=pr)  
 ---|---  
   
 PoolExpert has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for all PoolExpert' Web sites. 
@@ -11,10 +11,10 @@ PoolExpert has created this privacy statement in order to demonstrate our firm c
 Security  
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We take the security issue very seriously, and will always do our best to protect our visitors. However, no security mechanism is perfect and all visitors must understand that there are always risks that the personal information you send to PoolExpert may be intercepted by others through no fault of our own. PoolExpert is not responsible for such security breaches so long as it is not due to negligence on our part. 
 
-What information does PoolExpert collect from you?  
-Under some circumstances (for example if you create a hockey pool on PoolExpert.com), PoolExpert requires that you submit your name, mailing address, and certain other personal information when filling out our registration form. However, any time that PoolExpert wishes to collect such information, you will be warned in advance. PoolExpert will always allow you to view the information that we have on file about you. You will also be able to make changes (eg. Address changes) to your profile whenever you like. Please e-mail [support@poolexpert.com](mailto:support@poolexpert.com) for any such requests. 
+What information does our web site collect from you?  
+Under some circumstances (for example if you create a hockey pool on PoolExpert), PoolExpert requires that you submit your name, mailing address, and certain other personal information when filling out our registration form. However, any time that PoolExpert wishes to collect such information, you will be warned in advance. PoolExpert will always allow you to view the information that we have on file about you. You will also be able to make changes (eg. Address changes) to your profile whenever you like. Please e-mail [support@poolexpert.com](mailto:support@poolexpert.com) for any such requests. 
 
-Why does PoolExpert need this information?  
+Why does our site need this information?  
 Collecting this data allows us to quickly and easily contact you. For example, we may need to notify you of technical issues, or if you win a prize using one of our sites (eg. PoolExpert). If you like, we can also keep you informed of new products and services being offered by PoolExpert, but we will always give you the choice of whether you wish to receive this type of information or not. 
 
 PoolExpert would like to make it clear that none of our advertisers, clients, or partners have access to your personal data. In addition, PoolExpert will never disclose your personal data to any outside party without your knowledge and consent except under the most exceptional circumstances such as: police authorities force us to by law/warrant; it is required for PoolExpert to protect ourselves against actions taken against us which threaten our rights and/or property, or those of our visitors, clients, partners, advertisers, or retailers. 
