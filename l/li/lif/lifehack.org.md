@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lifehack.org privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224143950id_/http%3A//www.lifehack.org/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifehack.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164327id_/http%3A//lifehack.org/about/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Lifehack.org
-
-## Privacy Policy
+# Privacy Policy - Stepcase Lifehack
 
 Lifehack.org has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices covers all of the Lifehack.org sites. Your use of Lifehack.org Sites indicates your agreement to abide by the Terms in effect.
 
