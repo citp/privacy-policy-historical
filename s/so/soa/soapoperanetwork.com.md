@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the soapoperanetwork.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629045409id_/http%3A//www.soapoperanetwork.com/content/view/81/137) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapoperanetwork.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154805id_/http%3A//www.soapoperanetwork.com/site/privacy) for the most accurate reproduction.*
 
-# Soap Opera Network - Privacy Policy
+# Privacy Policy
+
+* * *
+
+(Last Updated: April 30, 2005)
 
 **General**   
 SoapOperaNetwork.com is owned and operated by Manti, Inc., a Corporation based in the State of New York in the United States of America. SoapOperaNetwork.com respects the right to privacy of each individual who visits this website or responds to our interactive advertisements. This privacy policy outlines the information SoapOperaNetwork.com will collect and how we will use that information. This statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit SoapOperaNetwork.com or respond to our advertisements. 
