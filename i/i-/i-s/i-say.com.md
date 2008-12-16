@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516113325id_/http%3A//www.i-say.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011623id_/http%3A//i-say.com/privacy.aspx) for the most accurate reproduction.*
 
 # Ipsos i-Say Privacy Policy - For Online Panel Members
 
@@ -12,7 +12,7 @@ The purpose of this Privacy Statement is to inform you about the practices and p
 
 Ipsos Interactive Services U.S., Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the websites www.i-say.com and www.i-say.ca. Because these website want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe.
 
-If you are a resident of the United States of America and have any questions or comments regarding this statement, you should first contact i-Say USA Member Services at Ipsos, Member Services, 100 Charles Lindbergh Blvd., Uniondale, NY, 11553, USA - 1-866-893-1188 or by email at questions@i-say.com. 
+If you are a resident of the United States of America and have any questions or comments regarding this statement, you should first contact i-Say USA Member Services at Ipsos, Member Services, 1600 Stewart Avenue, Suite 500, Westbury, NY, 11590, USA - 1-866-893-1188 or by email at questions@i-say.com. 
 
 If you are a resident of Canada and have any questions or comments regarding this statement, you should first contact i-Say Canada Member Services team at Ipsos, 200-240 Duncan Mill Rd., Toronto, Canada M3B 3R6 1-888-618-2056 or by email at [panel@i-say.com](mailto:panel@i-say.com). 
 
@@ -134,8 +134,9 @@ All comments, questions, concerns or complaints regarding your Personal Informat
 (USA Residents)  
 Ipsos  
 Member Services  
-100 Charles Lindbergh Blvd.  
-Uniondale, NY, 11553, USA
+1600 Stewart Avenue  
+Suite 500  
+Westbury, NY, 11590, USA
 
 (Canada Residents)  
 Ipsos  
@@ -143,7 +144,7 @@ Member Services
 200-240 Duncan Mill Rd.  
 Toronto, ON, M3B 3R6, Canada
 
-If you are a resident of the USA, you may submit changes to your Name, Mailing Address, e-Mail Address, Telephone Number online at www.i-say.com, by e-mail at questions@i-say.com, by telephone 1-866-893-1188 or by writing to us at Ipsos, Member Services, 100 Charles Lindbergh Blvd. Uniondale, NY, 11553, USA
+If you are a resident of the USA, you may submit changes to your Name, Mailing Address, e-Mail Address, Telephone Number online at www.i-say.com, by e-mail at questions@i-say.com, by telephone 1-866-893-1188 or by writing to us at Ipsos, Member Services, 1600 Stewart Ave, Suite 500, Westbury, NY, 11590, USA
 
 If you are a resident of Canada, you may submit changes to your Name, Mailing Address, e-Mail Address, Telephone Number online at www.i-say.ca, by e-mail at panel@i-say.com , by telephone 1-866-893-1188, or by writing to us at Ipsos, Member Services, 200-240 Duncan Mill Rd, Toronto, ON, M3B 3R6, Canada.
 
@@ -154,8 +155,9 @@ If you are chosen as a winner in one of our contests you will be given the optio
 (USA Residents)  
 Ipsos  
 Member Services  
-100 Charles Lindbergh Blvd.  
-Uniondale, NY, 11553, USA
+1600 Stewart Ave  
+Suite 500  
+Westbury, NY, 11590, USA
 
 (Canada Residents)  
 Ipsos  
