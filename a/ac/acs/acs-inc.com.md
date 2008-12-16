@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615031039id_/http%3A//www.acs-inc.com/pages_exp.aspx%3Fid%3D190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216085001id_/http%3A//acs-inc.com/privacy.aspx) for the most accurate reproduction.*
 
 # Affiliated Computer Services
 
@@ -55,3 +55,9 @@ This Statement describes the online privacy practices for ACS Web Sites maintain
  **Contact Information**
 
 Please direct any questions you might have about this Statement to the ACS Privacy Office.
+
+Close All
+
+Expand All
+
+Social Security Number Protection Policy
