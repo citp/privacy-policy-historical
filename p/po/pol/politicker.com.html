@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the politicker.com privacy policy that was archived on 2008-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080526235959id_/http%3A//www.politicker.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the politicker.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216073940id_/http%3A//www.politicker.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
-  <title>The Politicker.com Privacy Policy | Politicker</title>
+  <title>
+	  The Politicker.com Privacy Policy | Politicker 
+  </title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!--[if IE]>
     <script type="text/javascript" src="/misc/jquery.js"></script>
@@ -13,12 +15,25 @@
 <meta name="robots" content="index,follow">
 <meta name="DC.title" content="The Politicker.com Privacy Policy">
 <link rel="shortcut icon" href="/files/politickerna/politickerna_favicon.gif" type="image/x-icon">
-  <style type="text/css" media="all">@import "/files/politickerna/css/8c42f41036066e3500f34778491b2048.css";</style>
+  <style type="text/css" media="all">@import "/modules/aggregator/aggregator.css";</style>
+<style type="text/css" media="all">@import "/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/modules/poll/poll.css";</style>
+<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/cck/content.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/logintoboggan/logintoboggan.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/nice_menus/nice_menus.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/nice_menus/nice_menus_default.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/date/date.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/cck/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/devel/devel.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/politickerna/style.css";</style>
   <!--[if gte IE 7]>
     <link rel="stylesheet" href="/sites/all/themes/politickerna/ie7.css" type="text/css" />
   <![endif]-->
 <!--[if lte IE 6]>
-  <link rel="stylesheet" href="//sites/all/themes/politickerna/ie6.css" type="text/css" />
+  <link rel="stylesheet" href="/sites/all/themes/politickerna/ie6.css" type="text/css" />
   <![endif]-->
   <script type="text/javascript" src="/misc/jquery.js"></script>
 <script type="text/javascript" src="/misc/drupal.js"></script>
@@ -26,9 +41,14 @@
 <script type="text/javascript" src="/sites/all/modules/jquery_update/compat-1.0.js"></script>
 <script type="text/javascript" src="/sites/all/themes/politickerna/jcarousel/lib/jquery.jcarousel.pack.js"></script>
 <script type="text/javascript" src="/sites/all/themes/politickerna/interface.js"></script>
+<script type="text/javascript" src="/sites/all/modules/devel/devel.js"></script>
 <script type="text/javascript" src="/sites/all/modules/jquery_update/collapse-fix.js"></script>
 <script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackDownload": "pdf|zip|mp3" } } });</script>
 <script type="text/javascript">var BASE_URL = "/";</script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">GS_googleAddAdSenseService("ca-pub-1353013829847076"); GS_googleEnableAllServices();</script>
+<script type="text/javascript">GA_googleAddSlot("ca-pub-1353013829847076", "NATL_allother_Bottom_728x90");GA_googleAddSlot("ca-pub-1353013829847076", "NATL_allother_Top_728x90");GA_googleAddSlot("ca-pub-1353013829847076", "NATL_allother_Right2_300x250");GA_googleAddSlot("ca-pub-1353013829847076", "NATL_allother_Right1_300x250");</script>
+<script type="text/javascript">GA_googleFetchAds();</script>
   <script type="text/javascript"> </script>
 <script type="text/javascript">
 
@@ -39,8 +59,19 @@ $(document).ready(function(){
     if (document.all) {
         $("#header-menutree li li").hoverClass ("sfHover");
     }
+    $("#states-li").bind("mouseover",
+        function() { $('#states-ul').show(); }
+    );
+    $("#states-li").bind("mouseout",
+        function() { $('#states-ul').hide(); }
+    );
+    $("#pr-li").bind("mouseover",
+        function() { $('#pr-ul').show(); }
+    );
+    $("#pr-li").bind("mouseout",
+        function() { $('#pr-ul').hide(); }
+    );
 });
-
 $.fn.hoverClass = function(c) {
     return this.each(function(){
         $(this).hover( 
@@ -52,116 +83,228 @@ $.fn.hoverClass = function(c) {
 
 </script>
 
+
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-1353013829847076");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-1353013829847076", "Popunder_ObsMethod");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<script type="text/javascript">
+  GA_googleFillSlot("Popunder_ObsMethod");
+</script>
 </head>
 
 <body id="page-node" class="page-node page-interior">
 
 <div id="page-wrapper">
 
-<div id="header">
-  <div id="header-ad"><div class="block block-block" id="block-block-23">
- <h2 class="title"></h2>
- <div class="content">
-<div style="background-color: #666;width: 728px; height: 90px;margin: auto; z-index:49000; visibility: visible;" id="topad" ;="" border:="" 1px="" solid="" white="">
-<!-- START: Politicker.com: National: Leaderboard (728x90); Ads Managed By: Intermarkets.net -->
-
-<script type="text/javascript" src="http://harvest247.adgardener.com/flowerPot.aspx?c=af7ca6d5-41ce-44fb-aaa0-bc41e373730f"></script>
-
-<noscript><iframe src="http://harvest247.adgardener.com/daisies.aspx?isS=-1&s=67&p=f9ff6146-df83-4232-ab7b-a9ea23e4a12c&c=af7ca6d5-41ce-44fb-aaa0-bc41e373730f&ihr=1" style="width:728px;height:90px;" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" allowTransparency="true">
-
-<a href="http://harvest.AdGardener.com/noscript.aspx?s=67&c=af7ca6d5-41ce-44fb-aaa0-bc41e373730f" target="_blank"><img src="http://harvest.AdGardener.com/noscript.aspx?s=67&w=728&h=90&c=af7ca6d5-41ce-44fb-aaa0-bc41e373730f" width="728" height="90" border="0" /></a>
-
-</iframe></noscript>
-
-<!-- END: Powered By: AdGardener.com --></div></div>
-</div>
-</div>
-  <div id="header-bar" class="clearfix">
-    <div id="logo" style="background-image: url(/files/politickerna/politickerna_logo.gif);"><a class="logolink" href="/" title="Home"></a></div>
-    <div id="header-right">
-      <div id="login">
-        <ul>
-<li><a href="/user/login">Login</a></li> <li><a href="/user/register">Register</a></li><li class="last"><a href="/wake-up-call">FREE Newsletter</a></li>        </ul>
-      </div><!--close login-->
-      <div id="headsearch" style="text-align: right;">
-        <div class="form-item"><!-- Google CSE Search Box Begins  --><form action="/gsearch" id="cse-search-box"><span class="search-label">Search: </span><div><input type="hidden" name="cx" value="013146296611011491011:t9bz1lff_q4"><input type="hidden" name="cof" value="FORID:11"><span class="form-text"><input type="text" name="query" size="25"></span><span class="form-image"><input type="submit" name="sa" value="GO"></span></div></form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script><!-- Google CSE Search Box Ends --></div>      </div>
-    </div><!--close header-right-->
-  </div><!--close header-bar-->
-  <div id="header-menu" class="clearfix">
-	<div id="header-feeds"><a href="/feeds">Feeds</a></div>
-	<div id="header-menutree">
+  	<div id="header">
+	  <div id="header-ad">
+	          <div class="block block-google_admanager" id="block-google_admanager-0">
+                <div class="content"><script type="text/javascript">GA_googleFillSlot("NATL_allother_Top_728x90");</script></div><!--close content-->
+      </div><!--close block-->	  </div>
+	  <div id="header-bar" class="clearfix">
+	    <!-- <div id="logo" style="background-image: url(/files/politickerna/politickerna_logo.png);"><a class="logolink" href="/" title="Home"></a></div> -->
+	  	<div id="logo">
+			<a class="logolink" href="/" title="Home"><img src="/files/politickerna/politickerna_logo.png"></a>
+	  	</div>
+	    <div id="header-right">
+		        <div id="header-login">
+		  <a href="/user/login">Login</a>  |  <a href="/user/register">Register</a>  |  		<a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.politicker.com');">Make Politicker.com Your Homepage</a>
+		        </div><!--close login-->
+	      <div id="headsearch" style="text-align: right;">
+	        <div class="form-item"><!-- Google CSE Search Box Begins  --><form action="/gsearch" id="cse-search-box"><span class="search-label">Search: </span><div><input type="hidden" name="cx" value="002912065740705512557:sz6tty0mu9y"><input type="hidden" name="cof" value="FORID:11"><span class="form-text"><input type="text" name="query" size="25"></span><span class="form-image"><input type="submit" name="sa" value="GO"></span></div></form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script><!-- Google CSE Search Box Ends --></div>	      </div>
+	    </div><!--close header-right-->
+	  </div><!--close header-bar-->
+	  <div id="header-menu">
+	  	<div id="header-bluetree"><ul class="menu"><li id="states-li"><a id="states-dropdown" class="expandable-dd" href="/states" title="States">States</a><ul id="states-ul"><li><a style="float:left;" href="http://www.politickeraz.com">Arizona</a><a style="float:left;" href="http://www.politickernj.com">New Jersey</a></li><li><a style="float:left;" href="http://www.politickerca.com">California</a><a style="float:left;" href="http://www.politickerny.com">New York</a></li><li><a style="float:left;" href="http://www.politickerco.com">Colorado</a><a style="float:left;" href="http://www.politickeroh.com">Ohio</a></li><li><a style="float:left;" href="http://www.politickerky.com">Kentucky</a><a style="float:left;" href="http://www.politickeror.com">Oregon</a></li><li><a style="float:left;" href="http://www.politickerme.com">Maine</a><a style="float:left;" href="http://www.politickerpa.com">Pennsylvania</a></li><li><a style="float:left;" href="http://www.politickermd.com">Maryland</a><a style="float:left;" href="http://www.politickertx.com">Texas</a></li><li><a style="float:left;" href="http://www.politickerma.com">Massachusetts</a><a style="float:left;" href="http://www.politickervt.com">Vermont</a></li><li><a style="float:left;" href="http://www.politickernv.com">Nevada</a><a style="float:left;" href="http://www.politickerwa.com">Washington</a></li><li><a style="float:left;" href="http://www.politickernh.com">New Hampshire</a></li></ul></li><li><a id="states-dropdown" class="feed-img" href="/rss.xml" title="Feeds">Feeds</a></li><li id="pr-li"><a id="pr-dropdown" class="expandable-dd" href="/pindell-report" title="Pindell Report">Pindell Report</a><ul id="pr-ul"><li class="pr-info">America's most dynamic and deeply reported political forecast.</li><li class="pr-title">RACES:</li><li><a href="/pindell-report/senate">U.S. Senate</a></li><li><a href="/pindell-report/house">U.S. House</a></li><li><a href="/pindell-report/president">Presidential Swing States</a></li><li><a href="/pindell-report/governor">Governor</a></li></ul></li></ul>	  	</div>
+	  	<div id="header-menutree">
 <ul class="menu">
 <li class="odd leaf"><a href="/" title="Politicker" class="menu-home">Home</a></li>
 <li class="even leaf"><a href="/president" title="President" class="menu-president">President</a></li>
-<li class="odd leaf"><a href="/us_senate" title="US Senate" class="menu-us-senate">US Senate</a></li>
-<li class="even leaf"><a href="/house" title="House" class="menu-house">House</a></li>
+<li class="odd leaf"><a href="/us_senate" title="U.S. Senate" class="menu-u.s.-senate">U.S. Senate</a></li>
+<li class="even leaf"><a href="/us_house" title="U.S. House" class="menu-u.s.-house">U.S. House</a></li>
 <li class="odd leaf"><a href="/governor" title="Governor" class="menu-governor">Governor</a></li>
 <li class="even leaf"><a href="/opinion" title="Opinion" class="menu-opinion">Opinion</a></li>
-<li class="odd leaf"><a href="/category/pindell-report" title="Pindell Report" class="menu-pindell-report">Pindell Report</a></li>
-<li class="odd expanded"><a href="/states" title="States" class="menu-states">States</a>
-<ul class="menu">
-<li class="even leaf"><a href="http://www.politickeraz.com" title="" class="menu-arizona">Arizona</a></li>
-<li class="odd leaf"><a href="http://www.politickerca.com" title="California" class="menu-california">California</a></li>
-<li class="even leaf"><a href="http://www.politickerco.com" title="" class="menu-colorado">Colorado</a></li>
-<li class="odd leaf"><a href="http://www.politickerky.com" title="" class="menu-kentucky">Kentucky</a></li>
-<li class="even leaf"><a href="http://www.politickerme.com" title="" class="menu-maine">Maine</a></li>
-<li class="odd leaf"><a href="http://www.politickermd.com" title="" class="menu-maryland">Maryland</a></li>
-<li class="even leaf"><a href="http://www.politickernv.com" title="" class="menu-nevada">Nevada</a></li>
-<li class="odd leaf"><a href="http://www.politickernh.com" title="" class="menu-new-hampshire">New Hampshire</a></li>
-<li class="even leaf"><a href="http://www.politickernj.com" title="" class="menu-new-jersey">New Jersey</a></li>
-<li class="odd leaf"><a href="http://www.politickeror.com" title="" class="menu-oregon">Oregon</a></li>
-<li class="even leaf"><a href="http://www.politickerpa.com" title="" class="menu-pennsylvania">Pennsylvania</a></li>
-<li class="odd leaf"><a href="http://www.politickervt.com" title="" class="menu-vermont">Vermont</a></li>
-<li class="even leaf"><a href="http://www.politickerwa.com" title="" class="menu-washington">Washington</a></li>
-
-</ul>
-</li>
-<li class="even leaf"><a href="/tools" title="Tools" class="menu-tools">Tools</a></li>
 
 </ul>
 </div>
-      </div><!--close header-menu-->
-</div><!--close header-->
+	    	  </div><!--close header-menu-->
+	</div><!--close header-->
 
 <div class="content-wrapper clearfix" id="front">
-
-  	         <div id="content_topspan">
-          <div class="block block-views" id="block-views-scrolling_state_stories">
- <h2 class="title"></h2>
- <div class="content"><div class="view view-scrolling-state-stories"><div class="view-content view-content-scrolling-state-stories"><div class="item-list"><div class="jcarousel-skin-politickerna jcarousel-container jcarousel-container-horizontal" style="display: block;"><div class="jcarousel-prev jcarousel-prev-horizontal jcarousel-prev-disabled jcarousel-prev-disabled-horizontal" disabled="true" style="display: block;"></div><div class="jcarousel-next jcarousel-next-horizontal" disabled="false" style="display: block;"></div><div class="jcarousel-clip jcarousel-clip-horizontal"><ul id="jcarousel-state" class="jcarousel-list jcarousel-list-horizontal" style="width: 10800px; left: 0px;"><li class="first jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="width: 1350px;"><div class="view-data-title">
-<span class="view-data-field_shared_term_value">Nevada:&nbsp;</span>
-<a href="http://politickernv.com/jkcooper/1567/barr-takes-libertarian-nod-root-prepping-2-spot">Barr takes Libertarian nod, Root prepping for #2 spot</a></div>
-</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="width: 1350px;"><div class="view-data-title">
-<span class="view-data-field_shared_term_value">Maryland:&nbsp;</span>
-<a href="http://politickermd.com/kevinagnese/2377/edwards-commends-passage-gi-bill">Edwards commends passage of G.I. Bill</a></div>
-</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal" jcarouselindex="3" style="width: 1350px;"><div class="view-data-title">
-<span class="view-data-field_shared_term_value">California:&nbsp;</span>
-<a href="http://politickerca.com/alexisenstadt/1023/mcclintock-hits-roseville-airwaves-60-second-radio-spot">McClintock hits Roseville airwaves with 60-second radio spot</a></div>
-</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="width: 1350px;"><div class="view-data-title">
-<span class="view-data-field_shared_term_value">Maryland:&nbsp;</span>
-<a href="http://politickermd.com/kevinagnese/2378/lawmakers-remind-students-expanded-health-insurance-benefits">Lawmakers remind students of expanded health insurance benefits</a></div>
-</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-5 jcarousel-item-5-horizontal" jcarouselindex="5" style="width: 1350px;"><div class="view-data-title">
-<span class="view-data-field_shared_term_value">California:&nbsp;</span>
-<a href="http://politickerca.com/alexisenstadt/1024/ose-continues-campaign-cash-infusion-week-primary">Ose continues campaign cash infusion a week before primary</a></div>
-</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-6 jcarousel-item-6-horizontal" jcarouselindex="6" style="width: 1350px;"><div class="view-data-title">
-<span class="view-data-field_shared_term_value">Colorado:&nbsp;</span>
-<a href="http://politickerco.com/jeremypelzer/1341/new-york-times-opinion-piece-criticizes-cu-conservative-chair-proposal">New York Times opinion piece criticizes CU conservative chair proposal</a></div>
-</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-7 jcarousel-item-7-horizontal" jcarouselindex="7" style="width: 1350px;"><div class="view-data-title">
-<span class="view-data-field_shared_term_value">New Hampshire:&nbsp;</span>
-<a href="http://politickernh.com/brianlawson/1725/nh-pols-honor-vets">NH Pols honor vets </a></div>
-</li><li class="last jcarousel-item jcarousel-item-horizontal jcarousel-item-8 jcarousel-item-8-horizontal" jcarouselindex="8" style="width: 1350px;"><div class="view-data-title">
-<span class="view-data-field_shared_term_value">New Jersey:&nbsp;</span>
-<a href="http://politickernj.com/matt-friedman/20070/democratic-senate-candidates-campaign-bergen">Democratic Senate candidates campaign in Bergen</a></div>
+							<div id="content_topspan-inside">
+		                <div class="block block-views" id="block-views-scrolling_state_stories">
+        <h2 class="title">THE TICKER</h2>        <div class="content"><div class="view view-scrolling-state-stories"><div class="view-content view-content-scrolling-state-stories"><div class="item-list"><div class="jcarousel-skin-politickerna jcarousel-container jcarousel-container-horizontal" style="display: block;"><div class="jcarousel-prev jcarousel-prev-horizontal jcarousel-prev-disabled jcarousel-prev-disabled-horizontal" disabled="true" style="display: block;"></div><div class="jcarousel-next jcarousel-next-horizontal" disabled="false" style="display: block;"></div><div class="jcarousel-clip jcarousel-clip-horizontal"><ul id="jcarousel-state" class="jcarousel-list jcarousel-list-horizontal" style="width: 13500px; left: 0px;"><li class="first jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="width: 1350px;"> <div class="view-data-title">
+ <span class="view-data-field_shared_term_value">NY:&nbsp;</span>
+ <a href="http://www.politickerny.com/1060/bloomberg-defends-fossella-exitstentially">Bloomberg Defends Fossella, Existentially </a> </div>
+</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="width: 1350px;"> <div class="view-data-title">
+ <span class="view-data-field_shared_term_value">NY:&nbsp;</span>
+ <a href="http://www.politickerny.com/1061/paterson-says-he-hasnt-spoken-again-kennedy">Paterson Says He Hasn't Spoken Again with Kennedy</a> </div>
+</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal" jcarouselindex="3" style="width: 1350px;"> <div class="view-data-title">
+ <span class="view-data-field_shared_term_value">NY:&nbsp;</span>
+ <a href="http://www.politickerny.com/http://www.observer.com/2008/politics/kennedy-adopts-maloney-strategy-clinton-seat ">Kennedy Hires Isay to Campaign for Clinton Seat</a> </div>
+</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="width: 1350px;"> <div class="view-data-title">
+ <span class="view-data-field_shared_term_value">NY:&nbsp;</span>
+ <a href="http://www.politickerny.com/1063/paterson-reformed-soda-drinker">David Paterson, Reformed Soda Drinker</a> </div>
+</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-5 jcarousel-item-5-horizontal" jcarouselindex="5" style="width: 1350px;"> <div class="view-data-title">
+ <span class="view-data-field_shared_term_value">PA:&nbsp;</span>
+ <a href="http://www.politickerpa.com/alexroarty/2812/pennsylvania-electoral-college-selects-obama">Pennsylvania electoral college selects Obama</a> </div>
+</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-6 jcarousel-item-6-horizontal" jcarouselindex="6" style="width: 1350px;"> <div class="view-data-title">
+ <span class="view-data-field_shared_term_value">NJ:&nbsp;</span>
+ <a href="http://www.politickernj.com/max/26102/irish-honor-one-their-own-former-democratic-party-chairman-ray-durkin">The Irish honor one of their own: former Democratic Party Chai...</a> </div>
+</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-7 jcarousel-item-7-horizontal" jcarouselindex="7" style="width: 1350px;"> <div class="view-data-title">
+ <span class="view-data-field_shared_term_value">NH:&nbsp;</span>
+ <a href="http://www.politickernh.com/brianlawson/4909/gardner-nh-primary-will-survive">Gardner: NH primary will survive</a> </div>
+</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-8 jcarousel-item-8-horizontal" jcarouselindex="8" style="width: 1350px;"> <div class="view-data-title">
+ <span class="view-data-field_shared_term_value">NY:&nbsp;</span>
+ <a href="http://www.politickerny.com/1065/sharpton-kennedy-more-qualified">Sharpton on Kennedy: More Than Qualified</a> </div>
+</li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-9 jcarousel-item-9-horizontal" jcarouselindex="9" style="width: 1350px;"> <div class="view-data-title">
+ <span class="view-data-field_shared_term_value">MA:&nbsp;</span>
+ <a href="http://www.politickerma.com/jeremyjacobs/2147/rasmussen-55-percent-approve-patrick-s-job-performance-41-disapprove">Rasmussen: 55 percent approve of Patrick’s job performance, ...</a> </div>
+</li><li class="last jcarousel-item jcarousel-item-horizontal jcarousel-item-10 jcarousel-item-10-horizontal" jcarouselindex="10" style="width: 1350px;"> <div class="view-data-title">
+ <span class="view-data-field_shared_term_value">NY:&nbsp;</span>
+ <a href="http://www.politickerny.com/1066/bill-lynch-caroline-kennedy-relations-paterson">Bill Lynch on Caroline Kennedy, Relations With Paterson</a> </div>
 </li></ul></div></div></div><script language="JavaScript" type="text/javascript">
       // Ride the state carousel...
       $("#jcarousel-state").jcarousel({visible:1,auto:5,scroll:1,wrap:"last"});
       </script></div></div>
+</div><!--close content-->
+      </div><!--close block-->		        </div><!--close content_topspan-->
+		      			 <div class="panel-col-last">
+			    <div>
+
+			      			        <div class="top-ad">      <div class="block block-google_admanager" id="block-google_admanager-1">
+                <div class="content"><script type="text/javascript">GA_googleFillSlot("NATL_allother_Right1_300x250");</script></div><!--close content-->
+      </div><!--close block--></div>
+			      
+			      			        <div class="sidebar-right">
+			                <div class="block block-block" id="block-block-28">
+                <div class="content"><table width="300" border="0" cellpadding="4" bgcolor="ffffff">
+  <tbody><tr>
+    <td height="25" colspan="2" valign="middle" bgcolor="#FFFFFF" align="center" style="padding-top:20px; ">
+<span style="color:#1245b0; font-weight:bold; font-size: 18px;">Politicker</span>&nbsp;<span style="color:#ff6600; font-weight:bold; font-size: 18px;">INTERACTIVE</span></td>
+  </tr>
+  <tr>
+    <td width="120" bgcolor="#FFFFFF">
+<a href="http://politicker.com/sunlights-lawmaker/">
+<img src="http://politicker.com/files/politickerna/images/lawmaker.jpg" border="0" style="margin:0 7px 0 11px;"></a></td>
+    <td width="180" bgcolor="#FFFFFF">
+<span style="font-size:14px"><a href="http://politicker.com/sunlights-lawmaker/">Lawmaker Profile</a></span><br>
+    <span style="font-size: 12px; color:#000">Follow the funding of your representatives</span></td>
+  </tr>
+<tr>
+    <td width="120" height="55" bgcolor="#FFFFFF">
+<a href="http://politicker.com/270towin/270towin.html">
+<img src="http://politicker.com/files/politickerna/images/270.jpg" width="120" height="54" border="0" style="margin:0 7px 5px 11px;"></a></td>
+    <td width="180" height="55" bgcolor="#FFFFFF" style="margin-bottom:11px;"><span style="font-size:14px"><a href="http://politicker.com/270towin/270towin.html">270 to Win</a><span style="font-size:14px"><br>
+    <span style="font-size: 12px; color:#000;">See how Obama got to the magic number</span></span></span></td>
+  </tr>
+</tbody></table>
+</div><!--close content-->
+      </div><!--close block-->      <div class="block block-poll" id="block-poll-0">
+        <h2 class="title">Poll</h2>        <div class="content"><form action="/who-wins-race-republican-national-chairman" accept-charset="UTF-8" method="post" id="poll-view-voting">
+<div><div class="poll">  <div class="vote-form">    <div class="choices"><div class="form-item">
+ <label>Who wins the race for Republican National Chairman?: </label>
+ <div class="form-radios"><div class="form-item">
+ <label class="option"><input type="radio" name="choice" value="0" class="form-radio"> Newt Gingrich</label>
+</div>
+<div class="form-item">
+ <label class="option"><input type="radio" name="choice" value="1" class="form-radio"> Jim Nussle</label>
+</div>
+<div class="form-item">
+ <label class="option"><input type="radio" name="choice" value="2" class="form-radio"> Michael Steele</label>
+</div>
+<div class="form-item">
+ <label class="option"><input type="radio" name="choice" value="3" class="form-radio"> John Sununu</label>
+</div>
+<div class="form-item">
+ <label class="option"><input type="radio" name="choice" value="4" class="form-radio"> Someone Else</label>
 </div>
 </div>
-        </div><!--close content_topspan-->
-      
+</div>
+    </div><input type="hidden" name="nid" id="edit-nid" value="41347">
+<input type="submit" name="op" id="edit-vote" value="Vote" src="sites/all/themes/politickerna/img/button-med.png" class="form-image">
+  </div><input type="hidden" name="form_id" id="edit-poll-view-voting" value="poll_view_voting">
+</div>
+</div></form>
+</div><!--close content-->
+      </div><!--close block-->      <div class="block block-block" id="block-block-9">
+                <div class="content"><h2 class="title">Most <span class="sans">Active Stories</span></h2>
+<script type="text/javascript">
+function showActiveTab(num)
+{
+   for(x = 1; x <= 3; x++)
+   {
+      document.getElementById('t0'+x).className='tab';
+      document.getElementById('le0'+x).className='left-edge';
+      document.getElementById('sh0'+x).className='shide';
+   }
+
+   document.getElementById('t0'+num).className='active tab';
+   document.getElementById('le0'+num).className='left-edge left-edge-active';
+   document.getElementById('sh0'+num).className='sview';
+}
+</script>
+<div class="active-block">
+<div class="left-edge left-edge-active" id="le01"></div><div class="tab active" id="t01"><a href="" onclick="showActiveTab('1'); return false;">READ</a></div>
+<div class="left-edge" id="le02"></div><div class="tab" id="t02"><a href="" onclick="showActiveTab('2'); return false;">COMMENTED</a></div>
+<div class="left-edge" id="le03"></div><div class="tab" id="t03"><a href="" onclick="showActiveTab('3'); return false;">EMAILED</a></div>
+<div class="right-edge" id="re01"></div>
+<div class="mstory-tab">
+<div class="sview" id="sh01"><div class="view view-popular-recent"><div class="view-content view-content-popular-recent"><div class="item-list"><ol><li class="first"><a href="/morland-wins-british-cartooning-award">Morland wins British cartooning award</a></li><li><a href="/mid-morning-read-malcolm-smith-brian-higgins-and-two-indictments">Mid-Morning Read: Malcolm Smith, Brian Higgins and Two Indictments</a></li><li><a href="/remainders-team-obama-sticker-violation-questionable-newspaper-endorsement">Remainders: Team Obama, Sticker Violation, A Questionable Newspaper Endorsement</a></li><li><a href="/smith-smiling-says-hell-have-32-votes">Smith Is Smiling, Says He'll Have 32 Votes</a></li><li><a href="/bloomberg-hotel-tax-possibly-more-cuts-firehouses">Bloomberg on Hotel Tax, Possibly More Cuts to Firehouses</a></li><li><a href="/elsewhere-king-2010-fossella-against-another-bailout">Elsewhere: King on 2010, Fossella Against Another Bailout</a></li><li><a href="/go-check-it-out-ruben-bolling-work">Go check it out: Ruben Bolling at work</a></li><li><a href="/fossella-pledges-100-percent-bloomberg-breakfast-guest">Fossella Pledges '100 Percent' to Bloomberg, Breakfast Guest</a></li><li><a href="/mid-morning-read-rebates-maloney-holtzman-and-bailout">Mid-Morning Read: Rebates, Maloney, Holtzman and the Bailout</a></li><li class="last"><a href="/pa-pols-knock-back-few-casey">Pa. pols knock back a few with Casey</a></li></ol></div></div></div>
+</div>
+<div class="shide" id="sh02"></div>
+<div class="shide" id="sh03"><div class="item-list"><ol><li><a href="/bay-area-transportation-chief-under-consideration-obama-adminstration-post">Bay Area transportation chief under consideration for Obama Administration post</a></li><li><a href="/layoffs-hit-daily-planet-metropolis">Layoffs hit 'The Daily Planet' in Metropolis</a></li><li><a href="/blagojevichs-golden-moment-history">Blagojevich's 'golden' moment in history</a></li><li><a href="/la-takes-center-stage-march-2009-elections">L.A. takes center stage with March 2009 elections</a></li><li><a href="/another-poll-gives-chris-matthews-shot-against-specter-possible-2010-contest">Another poll gives Chris Matthews a shot against Specter in possible 2010 contest</a></li><li><a href="/famed-cartoonist-job-eliminated">Famed cartoonist job eliminated</a></li><li><a href="/citigroup-thanks-you-paying-their-marketing-efforts">Citigroup thanks you for paying for their marketing efforts</a></li><li><a href="/video-former-des-moines-register-cartoonist-speaks-out">Video: Former Des Moines Register cartoonist speaks out</a></li><li><a href="/most-corrupt-political-office-america-illinois-governor">The most corrupt political office in America: Illinois Governor</a></li><li><a href="/obama-deceased-grandmothers-absentee-ballot-legally-does-not-count">Obama deceased grandmother's absentee ballot legally does not count</a></li></ol></div></div>
+</div>
+</div></div><!--close content-->
+      </div><!--close block-->      <div class="block block-google_admanager" id="block-google_admanager-2">
+                <div class="content"><script type="text/javascript">GA_googleFillSlot("NATL_allother_Right2_300x250");</script></div><!--close content-->
+      </div><!--close block-->      <div class="block block-block" id="block-block-21">
+                <div class="content"><div style="width: 300px; background-color: #FF6600; text-align: center;">
+<center><form action="/privacy" accept-charset="UTF-8" method="post" id="politicker-signup-multi-form">
+<div><p><img src="http://www.politicker.com/files/politickerna/images/wake-up_2.gif"><br></p><center>
+                <span style="font-family: Arial,Helvetica,sans-serif; font-size: 12px; color: #fff;">EMail address</span><br><div class="form-item">
+ <input type="text" maxlength="100" name="email" id="edit-email" size="20" value="" class="form-text">
+</div>
+<br><span style="color: #ffffff; font-family: Arial,Helvetica,sans-serif, font-size: 10px;">
+                  Select State or States<br>Hold down CTRL to select multiple<br></span><div class="form-item">
+ <select name="states[]" multiple="multiple" class="form-select" id="edit-states" size="7"><option value="All">All States</option><option value="Arizona">Arizona</option><option value="California">California</option><option value="Colorado">Colorado</option><option value="Kentucky">Kentucky</option><option value="Maine">Maine</option><option value="Maryland">Maryland</option><option value="Massachusetts">Massachusetts</option><option value="National">National</option><option value="Nevada">Nevada</option><option value="New Hampshire">New Hampshire</option><option value="New Jersey">New Jersey</option><option value="New York">New York</option><option value="Ohio">Ohio</option><option value="Oregon">Oregon</option><option value="Pennsylvania">Pennsylvania</option><option value="Texas">Texas</option><option value="Vermont">Vermont</option><option value="Washington">Washington</option></select>
+</div>
+<input type="image" class="form-submit" name="op" id="edit-submit" value="Sign up" src="/files/politickeroh/images/signup.gif" alt="" title="">
+</center><input type="hidden" name="form_id" id="edit-politicker-signup-multi-form" value="politicker_signup_multi_form">
+
+</div></form>
+</center></div>
+</div><!--close content-->
+      </div><!--close block-->      <div class="block block-views" id="block-views-in_the_news_summary">
+        <h2 class="title">Politicker in the News</h2>        <div class="content"><div class="view view-in-the-news-summary"><div class="view-content view-content-in-the-news-summary"><div class="item-list"><ul><li class="first"><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.nytimes.com/2008/02/18/technology/18observer.html?_r=2&amp;adxnnl=1&amp;oref=slogin&amp;adxnnlx=1210345555-gg6ZEa4iopyBrZd8mEiW1g&amp;oref=slogin" target="_blank" rel="nofollow">NY Times&gt; A Plan to Offer 50 Sites on Politics in 50 States</a></div><div class="view-field view-data-node-title"> </div></div>
+</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.foxnews.com/story/0,2933,442926,00.html" target="_blank" rel="nofollow">Fox News: Kerry's Below the Belt Remark on McCain: Joke or Insult?</a></div><div class="view-field view-data-node-title">PolitickerMA.com's Jeremy Jacobs discusses Kerry's adult diaper joke with Greta Van Susteren</div></div>
+</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.nydailynews.com/blogs/dailypolitics/2008/10/bucking-the-trend.html" target="_blank" rel="nofollow">New York Daily News: Bucking The Trend</a></div><div class="view-field view-data-node-title">NYDN's Elizabeth Benjamin on PolitickerNY.com: "The Observer's expansion of its political team [is] heartening."</div></div>
+</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.laconiadailysun.com/pdf/2008/10/16.pdf" target="_blank" rel="nofollow">Laconia Daily Sun: Sun columnist leaves Shea-Porter campaign amid flap over Web post</a></div><div class="view-field view-data-node-title">Shea-Porter campaign blogger resigns after comments left on PolitickerNH.com</div></div>
+</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.mediabistro.com/fishbowlDC/the_revolving_door/politicker_changes_97546.asp" target="_blank" rel="nofollow">FishbowlDC: Politicker Changes</a></div><div class="view-field view-data-node-title">Politicker hires CQ's Eric Pfeiffer as deputy managing editor</div></div>
+</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.boston.com/news/local/new_hampshire/articles/2008/10/16/nh_congressional_candidates_call_for_lower_taxes/" target="_blank" rel="nofollow">Associated Press: NH Congressional candidates call for lower taxes</a></div><div class="view-field view-data-node-title">PolitickerNH.com hosts NH-1 debate</div></div>
+</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.sentinelsource.com/articles/2008/10/18/news/state/free/id_328027.txt" target="_blank" rel="nofollow">Keene Sentinel: Challenger is the aggressor in Hodes-Horn debate, Oct. 18, 2008</a></div><div class="view-field view-data-node-title">PolitickerNH.com hosts NH-2 debate</div></div>
+</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.politicker.com/james-pindell-available-discuss-mccain-s-vp-choice-and-its-impact-down-ballot-races" target="_blank" rel="nofollow">James Pindell Available to Discuss McCain’s VP Choice and Its Impact on Down Ballot Races</a></div><div class="view-field view-data-node-title"> </div></div>
+</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://blogs.wsj.com/washwire/2008/08/26/politicker-poaches-from-politico/" target="_blank" rel="nofollow">Wall Street Journal &gt; Politicker Poaches From Politico</a></div><div class="view-field view-data-node-title">Waldo Tibbetts joins Politicker as the new executive vice president and associate publisher</div></div>
+</li><li class="last"><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.mediabistro.com/fishbowlDC/capitol_hill/wheres_waldo_92379.asp" target="_blank" rel="nofollow">FishbowlDC &gt; Where's Waldo?</a></div><div class="view-field view-data-node-title">Politico's Waldo Tibbetts joins the Politicker team</div></div>
+</li></ul></div></div><div class="more-link"><a href="/in_the_news_summary">more &gt;</a></div></div>
+</div><!--close content-->
+      </div><!--close block-->      <div class="block block-block" id="block-block-26">
+                <div class="content"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" type="application/x-shockwave-flash" width="300px" height="273px" id="InsertWidget_ac9fcad1-5be2-473a-a8d9-11a7a81e6c6e" align="middle"><param name="movie" value="http://widgetserver.com/syndication/flash/wrapper/InsertWidget.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="menu" value="false"><param name="flashvars" value="r=1&amp;appId=ac9fcad1-5be2-473a-a8d9-11a7a81e6c6e"> <embed src="http://widgetserver.com/syndication/flash/wrapper/InsertWidget.swf" name="InsertWidget_ac9fcad1-5be2-473a-a8d9-11a7a81e6c6e" width="300px" height="273px" quality="high" menu="false" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" align="middle" flashvars="r=1&amp;appId=ac9fcad1-5be2-473a-a8d9-11a7a81e6c6e"></object></div><!--close content-->
+      </div><!--close block-->			        </div><!--close sidebar-right-->
+			      
+			    </div>
+			  </div>
   <div class="panel-col-first shadow">
-    <div>
+    <div id="panel-col-first-inner">
       
         <div class="node">
         <h2 class="title"><a href="/privacy">The Politicker.com Privacy Policy</a></h2>
@@ -267,7 +410,8 @@ If the Observer Media Group, PoliticsNJ.com or any of its products is involved i
 </p>
 </div>
 	</div>
-      </div>
+    <div class="links">» <ul class="links inline"><li class="first last comment_forbidden"></li>
+</ul></div>  </div>
 
     </div>
   </div><!--close panel-col-first-->
@@ -279,273 +423,24 @@ If the Observer Media Group, PoliticsNJ.com or any of its products is involved i
       
       
               <div class="sidebar-left shadow">
-          <div class="block block-pnj_assets" id="block-pnj_assets-featured-writers-columns">
- <h2 class="title">Contributors</h2>
- <div class="content"><h3><a href="/blog/3571"><img src="http://politicker.com/files/politickerna/imagecache/opinion_portrait_thumbnail/files/politickerna/images/JamesPindell.jpg" alt="" title=""></a><a href="/blog/3571">James Pindell</a></h3>
-<div class="clear-block"><div class="node-link"><a href="/will-mccain-share-convention-stage-bush-and-cheney">Will McCain share convention stage with Bush and Cheney?</a></div><div class="node-content"><p> Last week I used this space to explore the possibilities of who <a href="/mccains-options-convention-keynote-speaker">McCain might pick as his convention keynote speaker</a> in St. Paul. However, there ... <a href="/will-mccain-share-convention-stage-bush-and-cheney">&gt;</a></p>
-</div></div><h3><a href="/blog/5917">Reid Wilson</a></h3>
-<div class="clear-block"><div class="node-link"><a href="/boehners-new-approach-troublemakers">Boehner's new approach to troublemakers</a></div><div class="node-content"><p>When New York Rep. Vito Fossella, the last Republican to hold a seat that touches any part of New York City, was arrested for driving while ... <a href="/boehners-new-approach-troublemakers">&gt;</a></p>
-</div></div><h3><a href="/tornoe"><img src="http://politicker.com/files/politickerna/imagecache/opinion_portrait_thumbnail/files/politickerna/images/headshot3.jpg" alt="" title=""></a><a href="/tornoe">Rob Tornoe</a></h3>
-<div class="clear-block"><div class="node-link"><a href="/tornoes-toons-mccain-supports-troops-his-own-way">Tornoe's Toons: McCain supports the troops in his own way</a></div><div class="node-content"><p><strong>John McCain</strong> claims he stands for and the supports the troops, but when it comes to putting his money where his mouth his, he's a no show. <a href="/tornoes-toons-mccain-supports-troops-his-own-way">&gt;</a></p>
-</div></div></div>
-</div>
-<div class="block block-views" id="block-views-states_opinion_block">
- <h2 class="title"></h2>
- <div class="content"><div class="view view-states-opinion-block"><div class="view-content view-content-states-opinion-block"><div class="item-list"><ul><li class="first">
-
-<div class="view-field view-data-value">
-  	<a href="/user/skornacki">Steve Kornacki</a>  	 - New York Observer</div>
-
-<div class="view-field view-data-title">
-  <a href="http://www.observer.com/2008/imaginary-glass-ceiling">An imaginary glass ceiling</a>
-</div>
-
-
-<div class="view-field view-data-body">
-  <p>It was probably inevitable that the first national campaign featuring a black man and a white woman as its main combatants would produce a race vs. gender fault line.</p>
-</div>
-</li><li>
-
-<div class="view-field view-data-value">
-  	<a href="/user/3730">Joe Conason</a>  	 - New York Observer</div>
-
-<div class="view-field view-data-title">
-  <a href="http://www.observer.com/2008/mccain-s-team-lobbyists">McCain's team of lobbyists</a>
-</div>
-
-
-<div class="view-field view-data-body">
-  <p>Disturbed by troubling connections and unflattering publicity, John McCain has just purged several prominent Washington lobbyists from his presidential campaign. Surely his intentions are laudable, but if Mr. McCain is consistent in ridding the campaign of such compromised people, he will find himself riding lonesome on the Straight Talk Express.</p>
-</div>
-</li><li class="last">
-
-<div class="view-field view-data-value">
-  	<a href="/user/jhorowitz">Jason Horowitz</a>  	 - New York Observer</div>
-
-<div class="view-field view-data-title">
-  <a href="http://www.observer.com/2008/best-and-brightest-clinton-hands-seek-obama-treaty">Best and brightest of Clinton hands seek Obama treaty</a>
-</div>
-
-
-<div class="view-field view-data-body">
-  <p class="text">Robert Einhorn is a hot property. An expert at the Center for Strategic and International studies, he currently chairs Hillary Clinton’s advisory group on nonproliferation and arms control, a critical political issue as Iran has emerged as a source of bitter conflict between Barack Obama and John McCain. The Obama campaign already has him in its sights.</p>
-</div>
-</li></ul></div></div></div>
-</div>
-</div>
-        </div><!--close sidebar-left-->
+                <div class="block block-pnj_assets" id="block-pnj_assets-featured-writers-columns">
+        <h2 class="title">Contributors</h2>        <div class="content"><h3><a href="/pindell-column"><img src="http://www.politicker.com/files/politickerna/imagecache/opinion_portrait_thumbnail/files/politickerna/images/JamesPindell.jpg" alt="" title=""></a><a href="/pindell-column">James Pindell</a></h3>
+<div class="clear-block"><div class="node-link"><a href="/most-corrupt-political-office-america-illinois-governor">The most corrupt political office in America: Illinois Governor</a></div><div class="node-content"><p>The arrest of Illinois Gov. Rod Blagojevich and his top aide on charges, among other things, that he attempted to sell off his pick to replace ... <a href="/most-corrupt-political-office-america-illinois-governor">&gt;</a></p>
+</div></div><h3><a href="/tornoe"><img src="http://www.politicker.com/files/politickerna/imagecache/opinion_portrait_thumbnail/files/politickerna/images/headshot3.jpg" alt="" title=""></a><a href="/tornoe">Rob Tornoe</a></h3>
+<div class="clear-block"><div class="node-link"><a href="/morland-wins-british-cartooning-award">Morland wins British cartooning award</a></div><div class="node-content"><p>Across the pond, they have political cartoonists too, and one of England's best, <strong>Morten Morland</strong>, won the Political Cartoon ... <a href="/morland-wins-british-cartooning-award">&gt;</a></p>
+</div></div></div><!--close content-->
+      </div><!--close block-->        </div><!--close sidebar-left-->
       
     </div>
   </div>
 
-  <div class="panel-col-last">
-    <div>
-
-              <div class="top-ad"><div class="block block-block" id="block-block-24">
- <h2 class="title"></h2>
- <div class="content">
-<div style="background: #e5e5e5;text-align: center;">
-<div style="background-color: #666;width: 300px; height: 250px;">
-<!-- START: Politicker.com: National: Medium Rectangle (300x250); Ads Managed By: Intermarkets.net -->
-
-<script type="text/javascript" src="http://harvest248.adgardener.com/flowerPot.aspx?c=673f3d58-cee7-4a40-a9ac-1d9cc2f843e4"></script>
-
-<noscript><iframe src="http://harvest248.adgardener.com/daisies.aspx?isS=-1&s=67&p=f9ff6146-df83-4232-ab7b-a9ea23e4a12c&c=673f3d58-cee7-4a40-a9ac-1d9cc2f843e4&ihr=1" style="width:300px;height:250px;" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" allowTransparency="true">
-
-<a href="http://harvest.AdGardener.com/noscript.aspx?s=67&c=673f3d58-cee7-4a40-a9ac-1d9cc2f843e4" target="_blank"><img src="http://harvest.AdGardener.com/noscript.aspx?s=67&w=300&h=250&c=673f3d58-cee7-4a40-a9ac-1d9cc2f843e4" width="300" height="250" border="0" /></a>
-
-</iframe></noscript>
-
-<!-- END: Powered By: AdGardener.com --></div>
-</div></div>
-</div>
-</div>
-      
-              <div class="sidebar-right">
-          <div class="block block-poll" id="block-poll-0">
- <h2 class="title">Poll</h2>
- <div class="content"><form action="/will-president-bush-have-speakers-slot-republican-national-convention" accept-charset="UTF-8" method="post" id="poll-view-voting">
-<div><div class="poll">  <div class="vote-form">    <div class="choices"><div class="form-item">
- <label>Will President Bush have a speaker's slot at the Republican National Convention?: </label>
- <div class="form-radios"><div class="form-item">
- <label class="option"><input type="radio" name="choice" value="0" class="form-radio"> Yes</label>
-</div>
-<div class="form-item">
- <label class="option"><input type="radio" name="choice" value="1" class="form-radio"> No</label>
-</div>
-</div>
-</div>
-    </div><input type="hidden" name="nid" id="edit-nid" value="2776">
-<input type="submit" name="op" id="edit-vote" value="Vote" src="sites/all/themes/politickerna/img/button-med.png" class="form-image">
-  </div><input type="hidden" name="form_id" id="edit-poll-view-voting" value="poll_view_voting">
-</div>
-</div></form>
-</div>
-</div>
-<div class="block block-block" id="block-block-9">
- <h2 class="title"></h2>
- <div class="content"><h2 class="title">Most <span class="sans">Active Stories</span></h2>
-<script type="text/javascript">
-function showActiveTab(num)
-{
-   for(x = 1; x <= 3; x++)
-   {
-      document.getElementById('t0'+x).className='tab';
-      document.getElementById('le0'+x).className='left-edge';
-      document.getElementById('sh0'+x).className='shide';
-   }
-
-   document.getElementById('t0'+num).className='active tab';
-   document.getElementById('le0'+num).className='left-edge left-edge-active';
-   document.getElementById('sh0'+num).className='sview';
-}
-</script>
-<div class="active-block">
-<div class="left-edge left-edge-active" id="le01"></div><div class="tab active" id="t01"><a href="" onclick="showActiveTab('1'); return false;">READ</a></div>
-<div class="left-edge" id="le02"></div><div class="tab" id="t02"><a href="" onclick="showActiveTab('2'); return false;">COMMENTED</a></div>
-<div class="left-edge" id="le03"></div><div class="tab" id="t03"><a href="" onclick="showActiveTab('3'); return false;">EMAILED</a></div>
-<div class="right-edge" id="re01"></div>
-<div class="mstory-tab">
-<div class="sview" id="sh01"><div class="view view-popular-recent"><div class="view-content view-content-popular-recent"><div class="item-list"><ol><li class="first"><a href="/tornoes-toons-mccain-supports-troops-his-own-way">Tornoe's Toons: McCain supports the troops in his own way</a></li><li><a href="/tornoes-toons-olbermann-notices-obamas-hanford-gaffe">Tornoe's Toons: Olbermann notices Obama's Hanford gaffe</a></li><li><a href="/after-waiting-eighteen-months-corzine-appoints-76-year-old-ex-judge-gop-elec-commissioner">After waiting eighteen months, Corzine appoints 76-year-old ex-Judge as GOP ELEC Commissioner</a></li><li><a href="/may-23-2008">May 23, 2008</a></li><li><a href="/poll-shows-shaheen-beating-sununu-7">Poll shows Shaheen beating Sununu by 7</a></li><li><a href="/finance-committee-approves-budget-cuts-without-changes">Finance Committee approves budget cuts without changes</a></li><li><a href="/5th-district-fundraising-totals">5th district fundraising totals</a></li><li><a href="/two-nh-edwards-delegates-back-obama">Two NH Edwards delegates back Obama</a></li><li><a href="/nation-hits-leno-education-focused-mailer">Nation hits Leno in education-focused mailer</a></li><li class="last"><a href="/post-game-martin-marks">Post-game with Martin Marks</a></li></ol></div></div></div>
-</div>
-<div class="shide" id="sh02"></div>
-<div class="shide" id="sh03"><div class="item-list"><ol><li><a href="/plain-node-nodequeue-featured-image-and-video-6">Comfortable in the polls here, McCain stands between bristling Maryland rivals</a></li></ol></div></div>
-</div>
-</div></div>
-</div>
-<div class="block block-block" id="block-block-21">
- <h2 class="title"></h2>
- <div class="content">
-
-
-	
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>Untitled Document</title>
-	    <style type="text/css">
-<!--
-.style1 {color: #FFFFFF}
-.style2 {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-}
-.style4 {
-	font-size: 18px;
-	font-family: Georgia, "Times New Roman", Times, serif;
-}
-.style6 {
-	color: #FFFFFF;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 10px;
-}
--->
-        </style>
-
-
-	
-	
-			<form action="/index.php" method="post">
-				<table bgcolor="#ff6600" width="298px">
-					<tbody><tr>
-					  <td><p><span class="style1"><span class="style4">SIGN UP FOR NEWSLETTERS</span><br>
-				            <span class="style2">Email address</span></span><br>
-				        <input type="text" name="email" size="20" maxlength="100">
-			          </p>				      </td></tr>
-		
-					<tr>
-					  <td>
-						<span class="style6">Select State or States<br>
-						Hold down CTRL to select multiple<br>
-						</span><br>
-						<select multiple="multiple" name="stateschosen[]" size="7">
-							<option value="All">All States</option>
-                                                        <option value="National">National</option>
-							<option value="Arizona">Arizona</option>
-							<option value="Colorado">Colorado</option>
-                                                        <option value="Kentucky">Kentucky</option>
-							<option value="Maine">Maine</option>
-							<option value="Maryland">Maryland</option>
-							<option value="Nevada">Nevada</option>
-							<option value="New Hampshire">New Hampshire</option>
-							<option value="New Jersey">New Jersey</option>
-							<option value="Oregon">Oregon</option>
-							<option value="Vermont">Vermont</option>
-                                                        <option value="Washington">Washington</option>
-					</select>					</td></tr>
-			
-					<tr><td>	
-						<input type="submit" name="submitmailingform" value="Submit">
-					</td></tr>
-				</tbody></table>
-	</form>
-	
-
-
-</div>
-</div>
-<div class="block block-views" id="block-views-in_the_news_summary">
- <h2 class="title">Politicker in the News</h2>
- <div class="content"><div class="view view-in-the-news-summary"><div class="view-content view-content-in-the-news-summary"><div class="item-list"><ul><li class="first"><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.nytimes.com/2008/02/18/technology/18observer.html?_r=2&amp;adxnnl=1&amp;oref=slogin&amp;adxnnlx=1210345555-gg6ZEa4iopyBrZd8mEiW1g&amp;oref=slogin" target="_blank" rel="nofollow">NY Times&gt; A Plan to Offer 50 Sites on Politics in 50 States</a></div></div>
-</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.mediabistro.com/fishbowlDC/online_media/james_pindell_the_fishbowldc_interview_81119.asp" target="_blank" rel="nofollow">FishbowlDC&gt; James Pindell: The FishbowlDC Interview</a></div></div>
-</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.delawareonline.com/apps/pbcs.dll/article?AID=/20080420/LIFE/804200327/-1/NLETTER01&amp;source=nletter-news" target="_blank" rel="nofollow">DelawareOnline&gt; 'Equal opportunity offender'</a></div></div>
-</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.paidcontent.org/entry/419-observer-media-expands-political-news-site-with-bostoncom-blogger-pinde" target="_blank" rel="nofollow">paidContent.org&gt; Observer Media Kicks Off Campaign To Build State-Specific Political News Network</a></div></div>
-</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.nytimes.com/2008/01/06/nyregion/nyregionspecial2/06polnj.html?scp=1&amp;sq=politickernj.com&amp;st=nyt" target="_blank" rel="nofollow">NY Times&gt; Crucial Year for Corzine</a></div></div>
-</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.nytimes.com/2007/12/02/nyregion/nyregionspecial2/02polnj.html?scp=2&amp;sq=politickernj.com&amp;st=nyt" target="_blank" rel="nofollow">NY Times&gt; Aide Criticizes Paper Over Corzine Illustration</a></div></div>
-</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.politickernj.com/wallye/19742/quote-day" target="_blank" rel="nofollow">PolitickerNJ&gt; Corzine cites Wally's words: 'Hold me accountable'</a></div></div>
-</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.downeast.com/Articles-2008/Demand-a-Recount/" target="_blank" rel="nofollow">Down East&gt; Demand a Recount</a></div></div>
-</li><li><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://www.editorandpublisher.com/eandp/search/article_display.jsp?vnu_content_id=1003783867" target="_blank" rel="nofollow">Editor &amp; Publisher&gt; Full-Time Politicker Cartoonist Does Different Drawings for Many Sites</a></div></div>
-</li><li class="last"><div class="view-item view-item-in-the-news-summary"><div class="view-field view-data-node-data-field-url-field-url-url"><a href="http://theinsideclamdigger.blogspot.com/2008/03/politicker-has-goo.html" target="_blank" rel="nofollow">The Inside Clamdigger&gt; Politicker has a good convention story</a></div></div>
-</li></ul></div></div><div class="more-link"><a href="/in_the_news_summary">more &gt;</a></div></div>
-</div>
-</div>
-<div class="block block-block" id="block-block-26">
- <h2 class="title"></h2>
- <div class="content"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" type="application/x-shockwave-flash" width="300px" height="273px" id="InsertWidget_ac9fcad1-5be2-473a-a8d9-11a7a81e6c6e" align="middle"><param name="movie" value="http://widgetserver.com/syndication/flash/wrapper/InsertWidget.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="menu" value="false"><param name="flashvars" value="r=1&amp;appId=ac9fcad1-5be2-473a-a8d9-11a7a81e6c6e"> <embed src="http://widgetserver.com/syndication/flash/wrapper/InsertWidget.swf" name="InsertWidget_ac9fcad1-5be2-473a-a8d9-11a7a81e6c6e" width="300px" height="273px" quality="high" menu="false" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" align="middle" flashvars="r=1&amp;appId=ac9fcad1-5be2-473a-a8d9-11a7a81e6c6e"></object></div>
-</div>
-<div class="block block-block" id="block-block-25">
- <h2 class="title"></h2>
- <div class="content">
-<div style="background: #e5e5e5;text-align: center;">
-<div style="background-color: #666;width: 300px; height: 250px;">
-<!-- START: Politicker.com: National: Medium Rectangle 2 (300x250); Ads Managed By: Intermarkets.net -->
-
-<script type="text/javascript" src="http://harvest253.adgardener.com/flowerPot.aspx?c=a7858b04-7dcb-4116-9b57-7c7f69a99871"></script>
-
-<noscript><iframe src="http://harvest253.adgardener.com/daisies.aspx?isS=-1&s=67&p=f9ff6146-df83-4232-ab7b-a9ea23e4a12c&c=a7858b04-7dcb-4116-9b57-7c7f69a99871&ihr=1" style="width:300px;height:250px;" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" allowTransparency="true">
-
-<a href="http://harvest.AdGardener.com/noscript.aspx?s=67&c=a7858b04-7dcb-4116-9b57-7c7f69a99871" target="_blank"><img src="http://harvest.AdGardener.com/noscript.aspx?s=67&w=300&h=250&c=a7858b04-7dcb-4116-9b57-7c7f69a99871" width="300" height="250" border="0" /></a>
-
-</iframe></noscript>
-
-<!-- END: Powered By: AdGardener.com --></div>
-</div></div>
-</div>
-        </div><!--close sidebar-right-->
-      
-    </div>
-  </div>
+ 
 </div><!--close content-wrapper-->
 
 <div id="footer">
   
-<div class="block block-block" id="block-block-22">
- <h2 class="title"></h2>
- <div class="content">
-<div style="background-color: #666;width: 728px; height: 90px;margin: auto; border: 1px solid white">
-<!-- START: Politicker.com: National: Leaderboard 2 (728x90); Ads Managed By: Intermarkets.net -->
-
-<script type="text/javascript" src="http://harvest252.adgardener.com/flowerPot.aspx?c=d3aff5ac-78fa-4d9c-8eb0-4513c9a738c1"></script>
-
-<noscript><iframe src="http://harvest252.adgardener.com/daisies.aspx?isS=-1&s=67&p=f9ff6146-df83-4232-ab7b-a9ea23e4a12c&c=d3aff5ac-78fa-4d9c-8eb0-4513c9a738c1&ihr=1" style="width:728px;height:90px;" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" allowTransparency="true">
-
-<a href="http://harvest.AdGardener.com/noscript.aspx?s=67&c=d3aff5ac-78fa-4d9c-8eb0-4513c9a738c1" target="_blank"><img src="http://harvest.AdGardener.com/noscript.aspx?s=67&w=728&h=90&c=d3aff5ac-78fa-4d9c-8eb0-4513c9a738c1" width="728" height="90" border="0" /></a>
-
-</iframe></noscript>
-
-<!-- END: Powered By: AdGardener.com --></div></div>
-</div>
-<div class="block block-menu" id="block-menu-96">
- <h2 class="title">footer links</h2>
- <div class="content">
+      <div class="block block-menu" id="block-menu-96">
+        <h2 class="title">footer links</h2>        <div class="content">
 <ul class="menu">
 <li class="even leaf"><a href="/about-politicker-com" title="" class="menu-about-us">About Us</a></li>
 <li class="odd leaf"><a href="/contact-information-politicker-com" title="" class="menu-contact-us">Contact Us</a></li>
@@ -556,13 +451,12 @@ function showActiveTab(num)
 <li class="even leaf"><a href="/rss.xml" title="RSS Feed" class="menu-rss-feed">RSS Feed</a></li>
 
 </ul>
-</div>
-</div>
-<div class="block block-node" id="block-node-0">
- <h2 class="title">Syndicate</h2>
- <div class="content"><a href="/rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="Syndicate content" width="16" height="16"></a></div>
-</div>
-</div>
+</div><!--close content-->
+      </div><!--close block-->      <div class="block block-google_admanager" id="block-google_admanager-3">
+                <div class="content"><script type="text/javascript">GA_googleFillSlot("NATL_allother_Bottom_728x90");</script></div><!--close content-->
+      </div><!--close block-->      <div class="block block-node" id="block-node-0">
+        <h2 class="title">Syndicate</h2>        <div class="content"><a href="/rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="Syndicate content" width="16" height="16"></a></div><!--close content-->
+      </div><!--close block--></div>
 
 </div><!--close page-wrapper-->
 <script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
@@ -570,7 +464,5 @@ function showActiveTab(num)
 _uacct = "UA-1342329-13";urchinTracker();
 </script>
 <script type="text/javascript" src="/sites/all/modules/google_analytics/downloadtracker.js"></script>
-
-
 
 </body></html>
