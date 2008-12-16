@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011051341id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26bannerImage%3Dfooter_privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153538id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26cm_sp%3Dfooter-_-anchor-_-privacy_and_security) for the most accurate reproduction.*
 
 # Road Runner Sports Privacy & Security Policy
 
@@ -18,6 +18,8 @@ Fax: (858) 636-7650
 
 **Security**  
 Road Runner Sports uses the most advanced and highest level of online security available today (128-bit encryption). Our commerce server uses Secure Sockets Layer (SSL) which encrypts or codes all the data you enter so you can relax and feel completely secure with your order. When we transfer and receive certain types of sensitive information, such as financial or health information, we redirect visitors to this secure server and will notify visitors through the [ VeriSign Secure](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.ROADRUNNERSPORTS.COM&lang=en) pop-up screen on our site. 
+
+We are enrolled in Trustwave's TrustKeeper® remote compliance program to validate compliance with the Payment Card Industry (PCI) Data Security Standard supported by all the major credit card associations including: American Express, Diners Club, Discover, JCB, MasterCard International, Visa International and Visa USA. The Trusted CommerceSM service seal you see displayed on our site indicates that Road Runner Sports protects credit card and order information in accordance with payment card industry best practices.
 
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Your credit card number cannot be read by a third party while in transit and will remain private and completely protected.
 
