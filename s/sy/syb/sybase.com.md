@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612134504id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011716id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
 
 # Sybase Inc. Privacy Policy Policy Statement: - Sybase Inc
 
-**Effective August 28, 2006**
+**Effective August 21, 2008**
 
 **Sybase Privacy Policy**
 
