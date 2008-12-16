@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usafisnews.org privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225010747id_/http%3A//www.usafis.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usafisnews.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216234656id_/http%3A//www.usafis.org/privacy.asp) for the most accurate reproduction.*
 
-# Green Card Lottery, Apply and win the USA Green Card Lottery, USAFIS, Live & work in America
+# Usafis Green Card Lottery Application Service Online | Privacy Policy
 
 Version 2.1 – (Last updated December 6, 2006)
 
