@@ -1,26 +1,27 @@
-> *The following text is extracted and transformed from the hostek.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009102855id_/http%3A//hostek.com/web-hosting-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostek.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045534id_/http%3A//hostek.com/web-hosting-privacy.asp) for the most accurate reproduction.*
 
-# Affordable Web Hosting - HosTek.com
+# Windows Hosting | ColdFusion Hosting - web hosting privacy | Hostek.com - Hostek.com
 
-HosTek.com PRIVACY STATEMENT
+  
+Hostek.com PRIVACY STATEMENT
 
 Information Collection and Use  
-Advanced Online Solutions, Inc. (Corporate name for HosTek.com) is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. HosTek.com may collect information from our users at several different points on our website. 
+Advanced Online Solutions, Inc. (Corporate name for Hostek.com) is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Hostek.com may collect information from our users at several different points on our website. 
 
 Order  
 We request information from the user on our order form(s). Here a user must provide contact information (like name, adddress, telephone) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. We use a high encryption SSL certificate for securely gathering the credit card information. We also encrypt the credit card information for your security. 
 
 Cookies  
-HosTek.com in general does not implement the use of cookies. In our user Control Panel, you have the option to set a cookie so you don't have to continue to log in. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. 
+Hostek.com in general does not implement the use of cookies. In our user Control Panel, you have the option to set a cookie so you don't have to continue to log in. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. 
 
 Log Files  
 We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
 Sharing  
-HosTek.com does NOT share any information with any other company except as noted here. We use a credit card processing company (just like every business that accepts credit cards has to) to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+Hostek.com does NOT share any information with any other company except as noted here. We use a credit card processing company (just like every business that accepts credit cards has to) to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
 
 Links  
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Other [sites](https://web.archive.org/web/20081216045534id_/http%3A//hostek.com/links.asp) owned operated by Advanced Online Solutions. 
 
 Newsletter  
 If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. 
