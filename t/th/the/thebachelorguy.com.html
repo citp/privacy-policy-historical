@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thebachelorguy.com privacy policy that was archived on 2007-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071128150612id_/http%3A//www.thebachelorguy.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thebachelorguy.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216053256id_/http%3A//www.thebachelorguy.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -12,6 +12,11 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
 <meta http-equiv="Expires" content="-1">
+
+<!--	BMAN_HAT	-->
+<link type="text/css" rel="Stylesheet" href="http://media1.break.com/static/app/v1/global/css/bmanheader.css">
+<script type="text/javascript" src="http://media1.break.com/static/app/v1/global/js/bmandata.js"></script>
+<script type="text/javascript" src="http://media1.break.com/static/app/v1/global/js/bmanheader.js"></script>
 
 <!-- site stylesheet (site colors and layout definitions) -->
 <link rel="stylesheet" type="text/css" href="http://www.thebachelorguy.com/skins/default/default_right.css">
@@ -87,7 +92,55 @@ a=a.split(' ');
 for (z=0; z<a.length; z++) {if (a[z].length > 0) r++;}
 x.value=r;
 }
+</script><script>
+
+// SETUPS:
+// ===============================
+
+// Set the horizontal and vertical position for the popup
+
+PositionX = 100;
+PositionY = 100;
+
+// Set these value approximately 20 pixels greater than the
+// size of the largest image to be used (needed for Netscape)
+
+defaultWidth  = 500;
+defaultHeight = 500;
+
+// Set autoclose true to have the window close automatically
+// Set autoclose false to allow multiple popup windows
+
+var AutoClose = true;
+
+// Do not edit below this line...
+// ================================
+if (parseInt(navigator.appVersion.charAt(0))>=4){
+var isNN=(navigator.appName=="Netscape")?1:0;
+var isIE=(navigator.appName.indexOf("Microsoft")!=-1)?1:0;}
+var optNN='scrollbars=no,width='+defaultWidth+',height='+defaultHeight+',left='+PositionX+',top='+PositionY;
+var optIE='scrollbars=no,width=150,height=100,left='+PositionX+',top='+PositionY;
+function popImage(imageURL,imageTitle){
+if (isNN){imgWin=window.open('about:blank','',optNN);}
+if (isIE){imgWin=window.open('about:blank','',optIE);}
+with (imgWin.document){
+writeln('<html><head><title>Loading...</title><style>body{margin:0px;}</style>');writeln('<sc'+'ript>');
+writeln('var isNN,isIE;');writeln('if (parseInt(navigator.appVersion.charAt(0))>=4){');
+writeln('isNN=(navigator.appName=="Netscape")?1:0;');writeln('isIE=(navigator.appName.indexOf("Microsoft")!=-1)?1:0;}');
+writeln('function reSizeToImage(){');writeln('if (isIE){');writeln('window.resizeTo(300,300);');
+writeln('width=300-(document.body.clientWidth-document.images[0].width);');
+writeln('height=300-(document.body.clientHeight-document.images[0].height);');
+writeln('window.resizeTo(width,height);}');writeln('if (isNN){');       
+writeln('window.innerWidth=document.images["George"].width;');writeln('window.innerHeight=document.images["George"].height;}}');
+writeln('function doTitle(){document.title="'+imageTitle+'";}');writeln('</sc'+'ript>');
+if (!AutoClose) writeln('</head><body bgcolor=000000 scroll="no" onload="reSizeToImage();doTitle();self.focus()">')
+else writeln('</head><body bgcolor=000000 scroll="no" onload="reSizeToImage();doTitle();self.focus()" onblur="self.close()">');
+writeln('<img name="George" src='+imageURL+' style="display:block"></body></html>');
+close();		
+}}
+
 </script></head>
+
 
 
 
@@ -98,11 +151,40 @@ x.value=r;
 <!-- page header -->
 <body>
 
-<form method="get" action="http://www.thebachelorguy.com">
+<form method="get" action="http://www.thebachelorguy.com/static">
 
 <!-- page header -->
+
 <div id="mainwrapper">
-<div id="header"><a name="top" href="http://www.thebachelorguy.com/"><img src="http://www.thebachelorguy.com/skins/default/images/header.jpg"></a>
+<div align="center">
+	<div id="test" style="display:none;"></div>
+	<script type="text/javascript">
+	   InitBMANHeader(26, "test", "1000px");
+	</script>
+
+<script type="text/javascript">
+	loc = location.href;	
+	if(loc == "http://www.thebachelorguy.com/" || loc == "http://www.thebachelorguy.com" || loc == "http://thebachelorguy.com/" || loc == "http://thebachelorguy.com" )
+	{
+	
+		document.write("<!-- Begin Adify tag for \"HP 728x90\" Ad Space (728x90) ID #3698207 -->");
+		document.write("<scr"+"ipt type=\"text\/javascript\">	sr_adspace_id = 3698207;	sr_adspace_width = 728;	sr_adspace_height = 90;	sr_adspace_type = \"graphic\";	sr_ad_new_window = true;<\/scr"+"ipt>");
+		document.write("<scr"+"ipt type=\"text\/javascript\" src=\"http:\/\/ad.afy11.net\/srad.js?azId=3698207\"><\/scr"+"ipt>");
+		document.write("<!-- End Adify tag for \"HP 728x90\" Ad Space (728x90) ID #3698207 -->");
+	}
+	else
+	{
+		document.write("<!-- Begin Adify tag for \"ROS 728x90\" Ad Space (728x90) ID #3698307 -->");
+		document.write("<scr"+"ipt type=\"text\/javascript\">	sr_adspace_id = 3698307;	sr_adspace_width = 728;	sr_adspace_height = 90;	sr_adspace_type = \"graphic\";	sr_ad_new_window = true;	<\/scr"+"ipt>");
+		document.write("<scr"+"ipt type=\"text\/javascript\" src=\"http:\/\/ad.afy11.net\/srad.js?azId=3698307\"><\/scr"+"ipt>");
+		document.write("<!-- End Adify tag for \"ROS 728x90\" Ad Space (728x90) ID #3698307 -->");
+	}
+</script><!-- Begin Adify tag for "ROS 728x90" Ad Space (728x90) ID #3698307 --><script type="text/javascript">	sr_adspace_id = 3698307;	sr_adspace_width = 728;	sr_adspace_height = 90;	sr_adspace_type = "graphic";	sr_ad_new_window = true;	</script><script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=3698307"></script><!-- End Adify tag for "ROS 728x90" Ad Space (728x90) ID #3698307 -->
+
+
+</div>
+<div id="header">
+<a name="top" href="http://www.thebachelorguy.com/"><img src="http://www.thebachelorguy.com/skins/default/images/header.jpg"></a>
 </div>
 
 	<!-- TOP NAVIGATION -->
@@ -129,48 +211,9 @@ x.value=r;
 
 <!-- page menu -->
 <div id="sidebarcontainerleft">
-<div class="adbar">
-<dl class="adbardl">
-<dd><!--/* Openads Javascript Tag v2.4.0 */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://www.thebachelorguy.com/bgads/www/delivery/ajs.php':'http://www.thebachelorguy.com/bgads/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=5");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://www.thebachelorguy.com/bgads/www/delivery/ajs.php?zoneid=5&amp;cb=68973603710&amp;loc=https%3A//web.archive.org/web/20071128150612id_/http%3A//www.thebachelorguy.com/privacy/"></script><noscript><a href='http://www.thebachelorguy.com/bgads/www/delivery/ck.php?n=ad3d1cca&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.thebachelorguy.com/bgads/www/delivery/avw.php?zoneid=5&amp;n=ad3d1cca' border='0' alt='' /></a></noscript>
-</dd>
-</dl></div>
-
-<div class="adbar">
-<dl class="adbardl">
-<dd><script type="text/javascript"><!--
-google_ad_client = "pub-6401815746911084";
-google_ad_width = 120;
-google_ad_height = 600;
-google_ad_format = "120x600_as";
-google_ad_type = "text";
-//2007-07-09: Left_Tower
-google_ad_channel = "6332395531";
-google_color_border = "FFFFFF";
-google_color_bg = "FFFFFF";
-google_color_link = "601800";
-google_color_text = "000000";
-google_color_url = "000000";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</dd>
-</dl></div>
+<div class="sidebar_link">
+<div class="sidebar">	<br><br>	<dl class="sidebar_link">		<dt><img src="http://www.thebachelorguy.com/static/nucleus/plugins/leftlinks/img/BG_leftheaders_stuff.jpg" style="border:0px">	</dt><dd><a title="Keep Your Chrome Dome Fresh" href="http://www.thebachelorguy.com/keep-your-chrome-dome-fresh.html">Keep Your Chrome Dome Fresh</a></dd>	<dd><a title="Put a Pin-Up On Your Fuselage" href="http://www.thebachelorguy.com/put-a-pin-up-on-your-fuselage.html">Put a Pin-Up On Your Fuselage</a></dd>	<dd><a title="Join the Mile High Club Flying Solo" href="http://www.thebachelorguy.com/join-the-mile-high-club-flying-solo.html">Join the Mile High Club Flying Solo</a></dd>	<dd><a title="Utility Belt for Barbecue Super Heroes?" href="http://www.thebachelorguy.com/utility-belt-for-barbecue-superheroes.html">Utility Belt for Barbecue Super Heroes?</a></dd>	<dd><a title="Royal Flush Beats a Deuce Every Time" href="http://www.thebachelorguy.com/royal-flush-beats-a-deuce-every-time.html">Royal Flush Beats a Deuce Every Time</a></dd>	<dd><a title="Using Science to Catch More Zzzzs" href="http://www.thebachelorguy.com/using-science-to-catch-more-zzzzs.html">Using Science to Catch More Zzzzs</a></dd>	</dl></div><div class="sidebar">	<br><br>	<dl class="sidebar_link">		<dt><img src="http://www.thebachelorguy.com/static/nucleus/plugins/leftlinks/img/BG_leftheaders_knowledge.jpg" style="border:0px">	</dt><dd><a title="What the Hell is Grassoline? A Quick Guide to Alt Fuels" href="http://www.thebachelorguy.com/cars/what-the-hell-is-grassoline-a-quick-guide-to-alt-fuels.html">What the Hell is Grassoline? A Quick Guide to Alt Fuels</a></dd>	<dd><a title="Guy Survival Chemistry - Mix Your Own Cleaning Solutions" href="http://www.thebachelorguy.com/guy-survival-chemistry-mix-your-own-cleaning-solutions.html">Guy Survival Chemistry - Mix Your Own Cleaning Solutions</a></dd>	<dd><a title="6 Tips For Buying the Perfect Shades" href="http://www.thebachelorguy.com/6-tips-for-buying-the-perfect-shades.html">6 Tips For Buying the Perfect Shades</a></dd>	<dd><a title="Extreme Road Trips That Make Yours Look Like a Ride to the Market" href="http://www.thebachelorguy.com/extreme-road-trips-that-make-yours-look-like-a-ride-to-the-market.html">Extreme Road Trips That Make Yours Look Like a Ride to the Market</a></dd>	<dd><a title="12 Ways to Save Money on Your Electric Bill This Summer" href="http://www.thebachelorguy.com/12-ways-to-save-money-on-your-electric-bill-this-summer.html">12 Ways to Save Money on Your Electric Bill This Summer</a></dd>	<dd><a title="Chemical Warfare in Your Kitchen" href="http://www.thebachelorguy.com/chemical-warfare-in-your-kitchen.html">Chemical Warfare in Your Kitchen</a></dd>	</dl></div><div class="sidebar">	<br><br>	<dl class="sidebar_link">		<dt><img src="http://www.thebachelorguy.com/static/nucleus/plugins/leftlinks/img/BG_leftheaders_drink.jpg" style="border:0px">	</dt><dd><a title="1800 Silver Select Tequila 100% Agave - 100 Proof" href="http://www.thebachelorguy.com/1800-silver-select-tequila-100-agave-100-proof.html">1800 Silver Select Tequila 100% Agave - 100 Proof</a></dd>	<dd><a title="The Irish In-Cider" href="http://www.thebachelorguy.com/the-irish-in-cider.html">The Irish In-Cider</a></dd>	<dd><a title="6 Simple Summer Drinks to mix For the Ladies" href="http://www.thebachelorguy.com/6-simple-summer-drinks-to-mix-for-the-ladies.html">6 Simple Summer Drinks to mix For the Ladies</a></dd>	<dd><a title="Drinkable Dessert" href="http://www.thebachelorguy.com/drinkable-dessert.html">Drinkable Dessert</a></dd>	<dd><a title="Explosive Cocktails For Your Fourth" href="http://www.thebachelorguy.com/explosive-cocktails-for-your-fourth.html">Explosive Cocktails For Your Fourth</a></dd>	</dl></div><div class="sidebar">	<br><br>	<dl class="sidebar_link">		<dt><img src="http://www.thebachelorguy.com/static/nucleus/plugins/leftlinks/img/BG_leftheaders_food.jpg" style="border:0px">	</dt><dd><a title="Better Burger and Buffalo Wings For Your Belly" href="http://www.thebachelorguy.com/better-burger-and-buffalo-wings-for-your-belly.html">Better Burger and Buffalo Wings For Your Belly</a></dd>	<dd><a title="Skip the Common &quot;Cue and Throw a Cajun Crawfish Boil" href="http://www.thebachelorguy.com/skip-the-common-cue-and-throw-a-cajun-crawfish-boil.html">Skip the Common "Cue and Throw a Cajun Crawfish Boil</a></dd>	<dd><a title="Summer Grilling - Fire Up the Fruit" href="http://www.thebachelorguy.com/summer-grilling-fire-up-the-fruit.html">Summer Grilling - Fire Up the Fruit</a></dd>	<dd><a title="Grilling With McGraw" href="http://www.thebachelorguy.com/grilling-with-mcgraw.html">Grilling With McGraw</a></dd>	</dl></div><div class="sidebar">	<br><br>	<dl class="sidebar_link">		<dt><img src="http://www.thebachelorguy.com/static/nucleus/plugins/leftlinks/img/BG_leftheaders_cars.jpg" style="border:0px">	</dt><dd><a title="Test Drive - VW Tiguan" href="http://www.thebachelorguy.com/cars/test-drive-vw-tiguan.html">Test Drive - VW Tiguan</a></dd>	<dd><a title="Hell Yeah! The Return of American Muscle" href="http://www.thebachelorguy.com/cars/hell-yeah-the-return-of-american-muscle.html">Hell Yeah! The Return of American Muscle</a></dd>	<dd><a title="The 08 Saturn Sky Redline" href="http://www.thebachelorguy.com/cars/the-08-saturn-sky-redline.html">The 08 Saturn Sky Redline</a></dd>	<dd><a title="08 Silverado 2500 HD Z71 4x4" href="http://www.thebachelorguy.com/cars/08-silverado-2500-hd-z71-4x4.html">08 Silverado 2500 HD Z71 4x4</a></dd>	<dd><a title="Minier Than a Mini" href="http://www.thebachelorguy.com/cars/minier-than-a-mini.html">Minier Than a Mini</a></dd>	<dd><a title="Hydrogen Powered Chevy Equinox" href="http://www.thebachelorguy.com/cars/hydrogen-powered-chevy-equinox.html">Hydrogen Powered Chevy Equinox</a></dd>	<dd><a title="Chevy Silverado Full-Sized Hybrid Pickup" href="http://www.thebachelorguy.com/cars/chevy-silverado-full-sized-hybrid-pickup.html">Chevy Silverado Full-Sized Hybrid Pickup</a></dd>	<dd><a title="The Shape of Things to Come - Buick Concepts" href="http://www.thebachelorguy.com/cars/the-shape-of-things-to-come-buick-concepts.html">The Shape of Things to Come - Buick Concepts</a></dd>	</dl></div><div class="sidebar">	<br><br>	<dl class="sidebar_link">		<dt><img src="http://www.thebachelorguy.com/static/nucleus/plugins/leftlinks/img/BG_leftheaders_popular.jpg" style="border:0px">	</dt><dd><a title="34 Uses for That Can of Soda Other Than Quenching Thirst" href="http://www.thebachelorguy.com/popular/34-uses-for-that-can-of-soda-other-than-quenching-thirst.html">34 Uses for That Can of Soda Other Than Quenching Thirst</a></dd>	<dd><a title="10 Examples of Why Guys Shouldn&quot;t Drink and Invent" href="http://www.thebachelorguy.com/popular/10-examples-of-why-guys-shouldnt-drink-and-invent.html">10 Examples of Why Guys Shouldn"t Drink and Invent</a></dd>	<dd><a title="12 Other Businesses That Would Thrive if Staffed by Girls in Bikinis" href="http://www.thebachelorguy.com/popular/12-other-businesses-that-would-thrive-if-staffed-by-girls-in-bikinis.html">12 Other Businesses That Would Thrive if Staffed by Girls in Bikinis</a></dd>	<dd><a title="Field Guide to the North American Bikini" href="http://www.thebachelorguy.com/field-guide-to-the-north-american-bikini.html">Field Guide to the North American Bikini</a></dd>	<dd><a title="5 Summer Sex Positions That Could Get You Hospitalized or Arrested" href="http://www.thebachelorguy.com/popular/5-summer-sex-positions-that-could-get-you-hospitalized-or-arrested.html">5 Summer Sex Positions That Could Get You Hospitalized or Arrested</a></dd>	<dd><a title="MILFs and Cougars - A Practical Guide" href="http://www.thebachelorguy.com/popular/milfs-and-cougars-a-practical-guide.html">MILFs and Cougars - A Practical Guide</a></dd>	<dd><a title="Booty Sweat: Fake Movie Product to Hit Real Store Shelves" href="http://www.thebachelorguy.com/booty-sweat-fake-movie-product-to-hit-real-store-shelves.html">Booty Sweat: Fake Movie Product to Hit Real Store Shelves</a></dd>	</dl></div>
+</div>
 
 </div>
 
@@ -239,35 +282,36 @@ Any changes to TheBachelorGuy.com privacy policy will be posted here. If you hav
 
 </div>
 
-<div class="sidebar">
+<div class="adrbot">
+<dl class="adrbotdl">
+<dd>	<!-- Begin Adify tag for "ROS 300x250" Ad Space (300x250) ID #2174607 -->
+<script type="text/javascript">
+	sr_adspace_id = 2174607;
+	sr_adspace_width = 300;
+	sr_adspace_height = 250;
+	sr_adspace_type = "graphic";
+	sr_ad_new_window = true;
+	
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=2174607">
+</script>
+<!-- End Adify tag for "ROS 300x250" Ad Space (300x250) ID #2174607 -->
+</dd>
+</dl>
+</div>
+
+<!--<div class="sidebar">
 <dl class="sidebardl">
 <dt><img src="http://www.thebachelorguy.com/skins/default/images/popheader.gif"></dt>
 <dd><a href="http://www.thebachelorguy.com/popular/5-summer-sex-positions-that-could-get-you-hospitalized-or-arrested.html"><img src="http://www.thebachelorguy.com/images/newgraphics/cosmo40.jpg" align="left"></a><a href="http://www.thebachelorguy.com/popular/5-summer-sex-positions-that-could-get-you-hospitalized-or-arrested.html" title="http://www.thebachelorguy.com/images/newgraphics/cosmo40.jpg">5 Summer Sex Positions That Could Get You Hospitalized. Or Arrested.</a></dd><dd><a href="http://www.thebachelorguy.com/10-examples-of-why-guys-shouldnt-drink-and-invent.html"><img src="http://www.thebachelorguy.com/images/newgraphics/invent.jpg" align="left"></a><a href="http://www.thebachelorguy.com/10-examples-of-why-guys-shouldnt-drink-and-invent.html" title="http://www.thebachelorguy.com/images/newgraphics/invent.jpg">10 Examples of Why Guys Shouldn't Drink and Invent</a></dd><dd><a href="http://www.thebachelorguy.com/field-guide-to-the-north-american-bikini.html"><img src="http://www.thebachelorguy.com/images/newgraphics/smbikini10.jpg" align="left"></a><a href="http://www.thebachelorguy.com/field-guide-to-the-north-american-bikini.html" title="http://www.thebachelorguy.com/images/newgraphics/smbikini10.jpg">Field Guide to the North American Bikini</a></dd><dd><a href="http://www.thebachelorguy.com/34-uses-for-that-can-of-soda-other-than-quenching-thirst.html"><img src="http://www.thebachelorguy.com/images/coke.jpg" align="left"></a><a href="http://www.thebachelorguy.com/34-uses-for-that-can-of-soda-other-than-quenching-thirst.html" title="http://www.thebachelorguy.com/images/coke.jpg">34 Uses for That Can of Soda, Other Than Quenching Thirst</a></dd><dd><a href="http://www.thebachelorguy.com/some-of-you-arent-doing-your-job.html"><img src="http://www.thebachelorguy.com/images/newgraphics/sm361.jpg" align="left"></a><a href="http://www.thebachelorguy.com/some-of-you-arent-doing-your-job.html" title="http://www.thebachelorguy.com/images/newgraphics/sm361.jpg">Some of You Aren't Doing Your Job</a></dd>
 </dl>
 <span class="mpoplink"><a href="http://www.thebachelorguy.com/popular/">Click here to see all of BG's Most Popular</a></span>
 </div>
+-->
 
-<div class="adrbot">
-<dl class="adrbotdl">
-<dd><!--/* Openads Javascript Tag v2.4.0 */-->
 
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://www.thebachelorguy.com/bgads/www/delivery/ajs.php':'http://www.thebachelorguy.com/bgads/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=4");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://www.thebachelorguy.com/bgads/www/delivery/ajs.php?zoneid=4&amp;cb=34662751404&amp;loc=https%3A//web.archive.org/web/20071128150612id_/http%3A//www.thebachelorguy.com/privacy/"></script><noscript><a href='http://www.thebachelorguy.com/bgads/www/delivery/ck.php?n=a4793bc5&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.thebachelorguy.com/bgads/www/delivery/avw.php?zoneid=4&amp;n=a4793bc5' border='0' alt='' /></a></noscript>
-
-</dd>
-</dl>
+<div id="sidebarcontainer">
+<a href="http://www.thebachelorguy.com/static/index.php?action=plugin&amp;name=models&amp;type=list"><img src="http://www.thebachelorguy.com/static/nucleus/plugins/models/shirleycontest.jpg" style="border:0px"></a>
 </div>
 
 <div class="sidelinks">
@@ -293,43 +337,34 @@ Any changes to TheBachelorGuy.com privacy policy will be posted here. If you hav
 <dl class="polldl">
 <dt><img src="http://www.thebachelorguy.com/skins/default/images/pollheader.gif"></dt>
 <dd>
-<!-- start poll 7 -->
-<a name="poll7"></a><form method="post" action="http://www.thebachelorguy.com/privacy/?results=7#poll7"><input type="hidden" name="pitem" value="519">
-<b>This weekend I'm headed to Vegas with three buddies for some gambling and
-drunken debauchery. A couple of us go for the gambling. A couple for the
-non-stop partying. Why do you go?</b>
+<!-- start poll 16 -->
+<a name="poll16"></a><form method="post" action="http://www.thebachelorguy.com/static/privacy-policy.html?results=16#poll16"><input type="hidden" name="pitem" value="519">
+<b>Gas is inching closer and closer to $5 per gallon. How has this affected your gas buying habits?</b>
 <div>
-<div><input type="radio" value="0" name="poll-7" id="poll-7-0"><label for="poll-7-0">I've never been to Vegas and have no desire to go.</label></div>
-<div><input type="radio" value="1" name="poll-7" id="poll-7-1"><label for="poll-7-1">Never been, but want to go. Badly.</label></div>
-<div><input type="radio" value="2" name="poll-7" id="poll-7-2"><label for="poll-7-2">I go for the thrill of risking my bankroll. (And free cocktails.)</label></div>
-<div><input type="radio" value="3" name="poll-7" id="poll-7-3"><label for="poll-7-3">I go for the insane nightlife.</label></div>
-<div><input type="radio" value="4" name="poll-7" id="poll-7-4"><label for="poll-7-4">I go for both gambling and partying.</label></div>
+<div><input type="radio" value="0" name="poll-16" id="poll-16-0"><label for="poll-16-0">It hasn't at all. I suck it up and pay the cost increase.</label></div>
+<div><input type="radio" value="1" name="poll-16" id="poll-16-1"><label for="poll-16-1">I still use the same brands I'm loyal to, but I've dropped a grade or two, to mid or regular. Premium is too rich for me.</label></div>
+<div><input type="radio" value="2" name="poll-16" id="poll-16-2"><label for="poll-16-2">I drive around to find the cheapest gas I can find, regardless of brand.</label></div>
 <input style="margin-top:5px" type="submit" class="formbutton" name="singlepoll" value="vote">
 </div>
-<a href="http://www.thebachelorguy.com/privacy/?results=7#poll7" title="poll results">+ see results +</a>
-</form><!-- end poll 7 --></dd>
+<a href="http://www.thebachelorguy.com/static/privacy-policy.html?results=16#poll16" title="poll results">+ see results +</a>
+</form><!-- end poll 16 --></dd>
 </dl>
 </div>
 
 <div class="adrbot">
 <dl class="adrbotdl">
-<dd><!--/* Openads Javascript Tag v2.4.0 */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://www.thebachelorguy.com/bgads/www/delivery/ajs.php':'http://www.thebachelorguy.com/bgads/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=7");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://www.thebachelorguy.com/bgads/www/delivery/ajs.php?zoneid=7&amp;cb=32159491156&amp;loc=https%3A//web.archive.org/web/20071128150612id_/http%3A//www.thebachelorguy.com/privacy/"></script><noscript><a href='http://www.thebachelorguy.com/bgads/www/delivery/ck.php?n=ac43e6cf&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.thebachelorguy.com/bgads/www/delivery/avw.php?zoneid=7&amp;n=ac43e6cf' border='0' alt='' /></a></noscript>
-
+<dd>	<!-- Begin Adify tag for "ROS 300x250" Ad Space (300x250) ID #2174607 -->
+<script type="text/javascript">
+	sr_adspace_id = 2174607;
+	sr_adspace_width = 300;
+	sr_adspace_height = 250;
+	sr_adspace_type = "graphic";
+	sr_ad_new_window = true;
+	
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=2174607">
+</script>
+<!-- End Adify tag for "ROS 300x250" Ad Space (300x250) ID #2174607 -->
 </dd>
 </dl>
 </div>
@@ -337,7 +372,7 @@ non-stop partying. Why do you go?</b>
 <div class="sidebar">
 <dl class="sidebardl">
 <dt><img src="http://www.thebachelorguy.com/skins/default/images/vidheader.gif"></dt>
-<dd><a href="http://www.thebachelorguy.com/video/low-landing.html"><img src="http://thebachelorguy.com/images/blogs/5videos/lowlanding.jpg" align="left"></a><a href="http://www.thebachelorguy.com/video/low-landing.html" title="http://thebachelorguy.com/images/blogs/5videos/lowlanding.jpg">Low Landing</a></dd><dd><a href="http://www.thebachelorguy.com/video/chuck-norris.html"><img src="http://thebachelorguy.com/images/blogs/5videos/chucknorris.jpg" align="left"></a><a href="http://www.thebachelorguy.com/video/chuck-norris.html" title="http://thebachelorguy.com/images/blogs/5videos/chucknorris.jpg">Chuck Norris - Will it Blend?</a></dd><dd><a href="http://www.thebachelorguy.com/video/mustache.html"><img src="http://thebachelorguy.com/images/blogs/5videos/mustache.jpg" align="left"></a><a href="http://www.thebachelorguy.com/video/mustache.html" title="http://thebachelorguy.com/images/blogs/5videos/mustache.jpg">"Mustache"</a></dd><dd><a href="http://www.thebachelorguy.com/video/engrish.html"><img src="http://thebachelorguy.com/images/blogs/5videos/0807topvids_engrish.jpg" align="left"></a><a href="http://www.thebachelorguy.com/video/engrish.html" title="http://thebachelorguy.com/images/blogs/5videos/0807topvids_engrish.jpg">Herro, Do you speak Engrish</a></dd><dd><a href="http://www.thebachelorguy.com/video/"><img src="http://thebachelorguy.com/images/blogs/5videos/bgvv.jpg" align="left"></a><a href="http://www.thebachelorguy.com/video/" title="http://thebachelorguy.com/images/blogs/5videos/bgvv.jpg">BG's Video Archive. See More</a></dd>
+<dd><a href="http://www.thebachelorguy.com/video/low-landing.html"><img src="http://thebachelorguy.com/images/blogs/5videos/lowlanding.jpg" align="left"></a><a href="http://www.thebachelorguy.com/video/low-landing.html" title="http://thebachelorguy.com/images/blogs/5videos/lowlanding.jpg">Low Landing</a></dd><dd><a href="http://www.thebachelorguy.com/video/chuck-norris.html"><img src="http://thebachelorguy.com/images/blogs/5videos/chucknorris.jpg" align="left"></a><a href="http://www.thebachelorguy.com/video/chuck-norris.html" title="http://thebachelorguy.com/images/blogs/5videos/chucknorris.jpg">Chuck Norris - Will it Blend?</a></dd><dd><a href="http://www.thebachelorguy.com/video/mustache.html"><img src="http://thebachelorguy.com/images/blogs/5videos/mustache.jpg" align="left"></a><a href="http://www.thebachelorguy.com/video/mustache.html" title="http://thebachelorguy.com/images/blogs/5videos/mustache.jpg">"Mustache"</a></dd><dd><a href="http://www.thebachelorguy.com/video/shower-women-vs-men.html"><img src="http://thebachelorguy.com/images/blogs/5videos/shower.jpg" align="left"></a><a href="http://www.thebachelorguy.com/video/shower-women-vs-men.html" title="http://thebachelorguy.com/images/blogs/5videos/shower.jpg">Shower - Women vs Men</a></dd><dd><a href="http://www.thebachelorguy.com/video/"><img src="http://thebachelorguy.com/images/blogs/5videos/bgvv.jpg" align="left"></a><a href="http://www.thebachelorguy.com/video/" title="http://thebachelorguy.com/images/blogs/5videos/bgvv.jpg">BG's Video Archive. See More</a></dd>
 </dl>
 </div>
 
@@ -371,26 +406,20 @@ non-stop partying. Why do you go?</b>
 <dd><a href="http://www.fhmonline.com/" target="_blank">FHM ONLINE</a></dd>
 </dl>
 </div>
-
 <div class="adrbot">
 <dl class="adrbotdl">
-<dd><!--/* Openads Javascript Tag v2.4.0 */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://www.thebachelorguy.com/bgads/www/delivery/ajs.php':'http://www.thebachelorguy.com/bgads/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=7");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://www.thebachelorguy.com/bgads/www/delivery/ajs.php?zoneid=7&amp;cb=7670414775&amp;loc=https%3A//web.archive.org/web/20071128150612id_/http%3A//www.thebachelorguy.com/privacy/"></script><noscript><a href='http://www.thebachelorguy.com/bgads/www/delivery/ck.php?n=ac43e6cf&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.thebachelorguy.com/bgads/www/delivery/avw.php?zoneid=7&amp;n=ac43e6cf' border='0' alt='' /></a></noscript>
-
+<dd>	<!-- Begin Adify tag for "ROS 300x250" Ad Space (300x250) ID #2174607 -->
+<script type="text/javascript">
+	sr_adspace_id = 2174607;
+	sr_adspace_width = 300;
+	sr_adspace_height = 250;
+	sr_adspace_type = "graphic";
+	sr_ad_new_window = true;
+	
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=2174607">
+</script>
+<!-- End Adify tag for "ROS 300x250" Ad Space (300x250) ID #2174607 -->
 </dd>
 </dl>
 </div>
