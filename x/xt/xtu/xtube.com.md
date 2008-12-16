@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtube.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230180955id_/http%3A//wiki.xtube.com/index.php%3Ftitle%3DPrivacy%26action%3Dpurge) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtube.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011338id_/http%3A//wiki.xtube.com/index.php%3Ftitle%3DPrivacy%26action%3Dpurge) for the most accurate reproduction.*
 
 # Privacy - XTube Wiki
 
@@ -105,4 +105,4 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 
 
- **3.2** /5 (990 votes total)
+ **3.2** /5 (2502 votes total)
