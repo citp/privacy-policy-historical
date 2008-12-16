@@ -1,173 +1,586 @@
-<!--The following is the downloaded HTML source of the assh.org privacy policy that was archived on 2005-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051226233036id_/http%3A//www.assh.org/Template.cfm%3FSection%3DPrivacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the assh.org privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216050840id_/http%3A//www.assh.org/AM/Template.cfm%3FSection%3DPrivacy_Policy) for the most accurate reproduction.-->
 
 <html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Information about hand, wrist, finger, elbow and shoulder problems from the American Society for Surgery of the Hand. ASSH is the oldest and largest organization for hand surgeons in the United States.">
-<meta name="keywords" content="hand, wrist, finger, thumb, carpal tunnel, ganglion, hand surgeon, hand doctor, arthritis of the hand, arthritis of the thumb, assh, american society for surgery of the hand, tennis elbow, brachial plexus, upper extremity, hand safety">
-<title>American Society for Surgery of the Hand | Privacy Policy</title>
+
+	
+			
+		
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <link rel="StyleSheet" href="/AM/Styles/ASSH_Int_styles.css" type="text/css">
+  
+  <link rel="shortcut icon" href="favicon.ico">
+  
+    <script language="JavaScript" type="text/javascript">
+    <!--
+      if(document.images) {
+  this[1] = new Image();
+  this[1].src = "/AM/Templates/Graphics/findahandsurgeon_on5.gif";
+  this[2] = new Image();
+  this[2].src = "/AM/Templates/Graphics/asshstore_on2.gif";
+  this[3] = new Image();
+  this[3].src = "/AM/Templates/Graphics/continuingeducation_on5.gif";
+}
+
+function swapIt(imgName,imgType,imgAction) {
+      if (document.images) {
+        if (imgAction == 1) {
+          switch(imgType){
+            case "Find_a_Hand_Surgeon1": newSrc="/AM/Templates/Graphics/findahandsurgeon_on5.gif"; break
+          case "ASSH_STORE": newSrc="/AM/Templates/Graphics/asshstore_on2.gif"; break
+          case "Continuing_Education": newSrc="/AM/Templates/Graphics/continuingeducation_on5.gif"; break
+        }
+        }
+        else {
+          switch(imgType){
+            case "Patients_Public": newSrc="/AM/Templates/Graphics/patientspublic_text2.gif"; break
+          case "e-Newsroom": newSrc="/AM/eNewsroom_off.gif"; break
+          case "Doctors_and_Hand_Care_Professionals": newSrc="/AM/Templates/Graphics/doctorshandcare_text2.gif"; break
+          case "Members": newSrc="/AM/Templates/Graphics/asshmembers_text2.gif"; break
+          case "Find_a_Hand_Surgeon1": newSrc="/AM/Templates/Graphics/findahandsurgeon_off5.gif"; break
+          case "ASSH_STORE": newSrc="/AM/Templates/Graphics/asshstore_off2.gif"; break
+          case "Continuing_Education": newSrc="/AM/Templates/Graphics/continuingeducation_off6.gif"; break
+        }
+        }
+        document.images[imgName].src = newSrc;
+      }
+    }
+    //-->
+    </script>
+  
+  
+    <script language="JavaScript" type="text/javascript">
+    <!--
+    /* E. Rasul 11/01/2004:  CUSTOMIZATION START */
+    /* E. Rasul 11/01/2004:  this code here determines where the drop-down menu should go vertically down and to the left of 
+    the a roll-over image. Also deals with proper-alignement in any browser-size or location */
+    
+    function getXYcoord ( nvn, coord ) {  
+      var elm = document.images[nvn];
+      var rd = { x:0 ,y:0 };
+      var pos_value = 0;
+      if ( document.layers ) {  // NS4 images contain x and y values
+        rd.x = document.images[nvn].x + document.images[nvn].width;
+        rd.y = document.images[nvn].y ;  
+      }          
+      else{ 
+        var height = elm.offsetHeight;
+        var width= elm.offsetWidth;         
+        do { 
+          rd.x += parseInt( elm.offsetLeft );
+          rd.y += parseInt( elm.offsetTop );
+          elm = elm.offsetParent;
+        } 
+        while ( elm );
+        rd.x = rd.x + width;
+      }    	
+          
+      /* E. Rasul 11/01/2004: adjusted the menus  */
+      if (coord == 'X')	{
+      pos_value = rd.x + 5;
+      }  	
+      if (coord == 'Y')	{ 	  
+      pos_value = rd.y - 4; 
+      }	
+      //alert(pos_value);
+      return pos_value;
+      
+    }; //end getXYcoord ( string ) -> object{x,y}
+    /* E. Rasul 11/01/2004:    CUSTOMIZATION END */
+    
+    //-->
+    </script>    
+  
+
+  <script language="JavaScript" type="text/javascript">
+  <!--
+	/* START: this javascript is used for the pop-up window for the Email A Friend functionality */	
+	var isNav4, isIE4, isNav3, isIE3
+	if (navigator.appVersion.charAt(0) == "4") {
+	        if (navigator.appName == "Netscape") {
+	                isNav4 = true;
+	        } else {
+	                isIE4 = true;
+	        }
+	} else if (navigator.appVersion.charAt(0) == "3") {
+	        if (navigator.appName == "Netscape") {
+	                isNav3 = true;
+	        } else {
+	                isIE3 = true;
+	        }
+	}
+	var popupWin = null;
+	function openWindow(url, name, rs, sc, w, h) {
+	  var resize = "";
+	  var scroll = "";
+	  if (isNav3 || isNav4 || isIE4) {
+	    if (rs)
+	      resize = "resizable,";
+	    if (sc)
+	          scroll = "scrollbars,";
+	    if (popupWin != null && !popupWin.closed) {
+	          oldWin = popupWin;
+	          oldWin.name = "oldWin";
+	          oldWin.close();
+	    }
+	    popupWin = window.open(url, name, resize + scroll + 'width=' + w + ',height=' + h);
+	    if (popupWin.opener == null)
+	      popupWin.opener = popupWin;
+	    popupWin.opener.name = "origWin";
+			popupWin.focus();
+	    return false; // for links
+	  } else {
+			return true;
+	  }
+	}
+	/*  END: this javascript is used for the pop-up window for the Email A Friend functionality */	
+  //-->
+  </script>
+  
+<title>ASSH | Privacy Policy</title></head>
+	  <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#5987B8">  
+	
+
+		
 
 
-  <link rel="StyleSheet" href="/Styles/Styles.css" type="text/css">
 
-<script language="JavaScript">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+    
+
+
+
+
+<script language="JavaScript" type="text/javascript">
 <!--
-if (document.images) { 
-  img01on = new Image();
-    img01on.src = "/Graphics/printthispage_on.gif";
-  img01off = new Image();
-    img01off.src = "/Graphics/printthispage_off.gif";
-  img400on = new Image(); img400on.src = "/Graphics/Home_on.gif"; img361on = new Image(); img361on.src = "/Graphics/SiteMap_on.gif"; img398on = new Image(); img398on.src = "/Graphics/ContactUs_on.gif"; img485on = new Image(); img485on.src = "/Graphics/EmploymentOpportunities_on.gif"; img194on = new Image(); img194on.src = "/Graphics/FindAMember_on.gif"; img215on = new Image(); img215on.src = "/Graphics/FindAHandSurgeon_on.gif"; img167on = new Image(); img167on.src = "/Graphics/patientspublic_on.gif"; img168on = new Image(); img168on.src = "/Graphics/members_on.gif"; img583on = new Image(); img583on.src = "/Graphics/residentsfellows_on.gif"; img170on = new Image(); img170on.src = "/Graphics/handsurgeryprofessionals_on.gif"; img169on = new Image(); img169on.src = "/Graphics/exhibitorssponsors_on.gif"; img677on = new Image(); img677on.src = "/Graphics/eNewsroom_on.gif"; img164on = new Image(); img164on.src = "/Graphics/annualmeetingcourses_on.gif"; img166on = new Image(); img166on.src = "/Graphics/products_on.gif"; img163on = new Image(); img163on.src = "/Graphics/thesociety_on.gif"; img165on = new Image(); img165on.src = "/Graphics/thefoundation_on.gif"; img400off = new Image(); img400off.src = "/Graphics/Home_off.gif"; img361off = new Image(); img361off.src = "/Graphics/SiteMap_off.gif"; img398off = new Image(); img398off.src = "/Graphics/ContactUs_off.gif"; img485off = new Image(); img485off.src = "/Graphics/EmploymentOpportunitiess_off.gif"; img194off = new Image(); img194off.src = "/Graphics/FindAMember_off.gif"; img215off = new Image(); img215off.src = "/Graphics/FindAHandSurgeon_off.gif"; img167off = new Image(); img167off.src = "/Graphics/patientspublic_off.gif"; img168off = new Image(); img168off.src = "/Graphics/members_off.gif"; img583off = new Image(); img583off.src = "/Graphics/residentsfellows_off.gif"; img170off = new Image(); img170off.src = "/Graphics/handsurgeryprofessionals_off.gif"; img169off = new Image(); img169off.src = "/Graphics/exhibitorssponsors_off.gif"; img677off = new Image(); img677off.src = "/Graphics/eNewsroom_off.gif"; img164off = new Image(); img164off.src = "/Graphics/annualmeetingcourses_off.gif"; img166off = new Image(); img166off.src = "/Graphics/products_off.gif"; img163off = new Image(); img163off.src = "/Graphics/thesociety_off.gif"; img165off = new Image(); img165off.src = "/Graphics/thefoundation_off.gif"; 
-}
-
-function imgOn(imgName) {
-  if (document.images) {
-    document[imgName].src = eval(imgName + "on.src");
-  }
-}
-
-function imgOff(imgName) {
-  if (document.images) {
-    document[imgName].src = eval(imgName + "off.src");
-  }
-}
-
-function CheckSearch() {
-  if(document.Search.Criteria.value.length==0){
-    alert('Please enter at least one search term before clicking the Search button.')
-    return false;
-  }else{
-    return true;
-  }
-}
+if(window.event + "" == "undefined") event = null;
+function HM_f_PopUp(){return false};
+function HM_f_PopDown(){return false};
+popUp = HM_f_PopUp;
+popDown = HM_f_PopDown;
 //-->
 </script>
-<title>ASSH | Privacy Policy</title></head>
-<body bgcolor="#ffffff" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  
-  <tbody><tr>
-    <td width="760" background="/Graphics/header_bkgd.gif">
-    <table width="760" cellpadding="0" cellspacing="0" border="0">
-      <tbody><tr>
-        <td width="660"><a href="http://www.assh.org/"><img src="/Graphics/logo.gif" width="660" height="99" alt="American Society for Surgery of the Hand" border="0"></a></td>
-        <td width="100"><a href="http://www.assh.org" onmouseover="imgOn('img400'); return true;" onmouseout="imgOff('img400'); return true;"><img name="img400" src="/Graphics/Home_off.gif" alt="Home" border="0" width="100"></a><br><a href="http://www.assh.org/Template.cfm?Section=Site_Map&amp;Template=/SiteMap/SiteMap.cfm" onmouseover="imgOn('img361'); return true;" onmouseout="imgOff('img361'); return true;"><img name="img361" src="/Graphics/SiteMap_off.gif" alt="Site Map" border="0" width="100"></a><br><a href="http://www.assh.org/Content/NavigationMenu/Contact_Us/Contact_Us.htm" onmouseover="imgOn('img398'); return true;" onmouseout="imgOff('img398'); return true;"><img name="img398" src="/Graphics/ContactUs_off.gif" alt="Contact Us" border="0" width="100"></a><br><a href="http://www.assh.org/Content/NavigationMenu/Hand_Surgery_Professionals/Employment_Opportunities/Employment_Opportunities.htm" onmouseover="imgOn('img485'); return true;" onmouseout="imgOff('img485'); return true;"><img name="img485" src="/Graphics/EmploymentOpportunitiess_off.gif" alt="Employment Opportunities" border="0" width="100"></a><br><a href="http://www.assh.org/Template.cfm?Section=Membership_Directory&amp;Template=/MembersOnly.cfm&amp;NavMenuID=194&amp;ContentID=4444&amp;DirectListComboInd=D" onmouseover="imgOn('img194'); return true;" onmouseout="imgOff('img194'); return true;"><img name="img194" src="/Graphics/FindAMember_off.gif" alt="Membership Directory" border="0" width="100"></a><br><a href="http://www.assh.org/FrameTemplate.cfm?Section=Find_A_Hand_Surgeon&amp;Template=/eseries/ScriptContent/fahsSplash.cfm" onmouseover="imgOn('img215'); return true;" onmouseout="imgOff('img215'); return true;"><img name="img215" src="/Graphics/FindAHandSurgeon_off.gif" alt="Find a Hand Surgeon" border="0" width="100"></a><br></td>
-      </tr>
-    </tbody></table>
-    </td>
-    <td width="99%" background="/Graphics/header_bkgd.gif"><img src="/Graphics/spacer.gif" width="1" height="99" alt="" border="0"></td>
-  </tr>
-  <tr>
-    <td background="/Graphics/goldbar_bkgd.gif">
-    <table width="760" cellpadding="0" cellspacing="0" border="0">
-      <tbody><tr>
-        <td width="180"><img src="/Graphics/hand_top.gif" width="180" height="30" alt="" border="0"></td>
-        <td width="58" background="/Graphics/goldbar_bkgd.gif"><img src="/Graphics/rounded_goldbar.gif" width="58" height="30" alt="" border="0"></td>
-        <form action="https://www.assh.org/Template.cfm?Section=Members&amp;Template=/Security/Login.cfm" method="POST"></form>
-        <td width="25" background="/Graphics/goldbar_bkgd.gif"><img src="/Graphics/user.gif" width="23" height="30" alt="User" border="0"><img src="/Graphics/spacer.gif" width="2" height="30" alt="" border="0"></td>
-        <td width="63" background="/Graphics/goldbar_bkgd.gif"><input type="text" name="Username" class="LoginBox" size="5" maxlength="50" value=""></td>
-        <td width="52" background="/Graphics/goldbar_bkgd.gif"><img src="/Graphics/spacer.gif" width="3" height="18" alt="" border="0"><img src="/Graphics/password.gif" width="47" height="30" alt="Password" border="0"><img src="/Graphics/spacer.gif" width="2" height="30" alt="" border="0"></td>
-        <td width="64" background="/Graphics/goldbar_bkgd.gif"><input type="password" name="Password" class="LoginBox" size="5" maxlength="50" value=""></td>
-        <td width="39" background="/Graphics/goldbar_bkgd.gif"><img src="/Graphics/spacer.gif" width="3" height="18" alt="" border="0"><input type="image" src="/Graphics/login.gif" width="33" height="18" alt="Login" border="0"><img src="/Graphics/spacer.gif" width="3" height="18" alt="" border="0"></td>
-				
- 				<td width="39" background="/Graphics/goldbar_bkgd.gif"><a href="/Template.cfm?Section=Privacy_Policy&amp;Template=/Security/Logout.cfm"><img src="/Graphics/logout.gif" width="39" height="18" alt="Logout" border="0"></a></td>
-				<td width="20" background="/Graphics/goldbar_bkgd.gif"><input type="image" src="/Graphics/loginsearch_divider.gif" width="20" height="30" border="0"></td>						 
-				<td width="88" background="/Graphics/goldbar_bkgd.gif"><a href="/Template.cfm?Section=Privacy_Policy&amp;Template=/Search/Search.cfm"><img src="/Graphics/advancedsearch.gif" width="85" height="18" alt="Advanced Search" border="0"></a><img src="/Graphics/spacer.gif" width="3" height="18" alt="" border="0"></td>
-        <form name="Search" action="/Template.cfm?Section=Privacy_Policy&amp;Template=/Search/SearchDisplay.cfm" method="POST" onsubmit="return CheckSearch();"></form>
-        <td width="90" background="/Graphics/goldbar_bkgd.gif" align="right"><input type="text" name="Criteria" size="12" class="SearchBox"></td>
-        <td width="42" background="/Graphics/goldbar_bkgd.gif"><img src="/Graphics/spacer.gif" width="3" height="18" alt="" border="0"><input type="image" src="/Graphics/search.gif" width="39" height="18" alt="Search" border="0"></td>
-               
-      </tr>
-    </tbody></table>
-    </td>
-    <td background="/Graphics/goldbar_bkgd.gif"><img src="/Graphics/spacer.gif" width="1" height="30" alt="" border="0"></td>
-  </tr>
-  
-  <tr>
-    <td>
-    <table width="760" cellpadding="0" cellspacing="0" border="0">
-      <tbody><tr>
-        
-        <td width="180" valign="top" bgcolor="#336699">
-        <table width="180" cellpadding="0" cellspacing="0" border="0">
-          <tbody><tr>
-            <td colspan="10"><img src="/Graphics/hand_bottom.gif" width="180" height="46" alt="" border="0"></td>
-          </tr>
-          <tr bgcolor="#003366"><td colspan="10"><a href="http://www.assh.org/Content/NavigationMenu/Patients_and_Public/Patients_and_Public.htm" onmouseover="imgOn('img167'); return true;" onmouseout="imgOff('img167'); return true;"><img name="img167" src="/Graphics/patientspublic_off.gif" width="180" height="24" alt="Patients &amp; Public" border="0"></a></td></tr><tr bgcolor="#003366"><td colspan="10"><a href="http://www.assh.org/Content/NavigationMenu/Members/Membership.htm" onmouseover="imgOn('img168'); return true;" onmouseout="imgOff('img168'); return true;"><img name="img168" src="/Graphics/members_off.gif" width="180" height="24" alt="Members" border="0"></a></td></tr><tr bgcolor="#003366"><td colspan="10"><a href="http://www.assh.org/Content/NavigationMenu/Residents_and_Fellows/Residents_and_Fellows.htm" onmouseover="imgOn('img583'); return true;" onmouseout="imgOff('img583'); return true;"><img name="img583" src="/Graphics/residentsfellows_off.gif" width="180" height="24" alt="Residents and Fellows" border="0"></a></td></tr><tr bgcolor="#003366"><td colspan="10"><a href="http://www.assh.org/Content/NavigationMenu/Hand_Surgery_Professionals/Hand_Surgery_Professionals.htm" onmouseover="imgOn('img170'); return true;" onmouseout="imgOff('img170'); return true;"><img name="img170" src="/Graphics/handsurgeryprofessionals_off.gif" width="180" height="24" alt="Hand Surgery Professionals" border="0"></a></td></tr><tr bgcolor="#003366"><td colspan="10"><a href="http://www.assh.org/Content/NavigationMenu/Exhibitors_Sponsors/Exhibitors_and_Sponsors.htm" onmouseover="imgOn('img169'); return true;" onmouseout="imgOff('img169'); return true;"><img name="img169" src="/Graphics/exhibitorssponsors_off.gif" width="180" height="24" alt="Exhibitors/Sponsors" border="0"></a></td></tr><tr bgcolor="#003366"><td colspan="10"><a href="http://www.assh.org/Content/NavigationMenu/e-Newsroom/Default677.htm" onmouseover="imgOn('img677'); return true;" onmouseout="imgOff('img677'); return true;"><img name="img677" src="/Graphics/eNewsroom_off.gif" width="180" height="24" alt="e-Newsroom" border="0"></a></td></tr><tr bgcolor="#003366"><td colspan="10"><a href="http://www.assh.org/Content/NavigationMenu/Annual_Meeting_and_Courses1/Annual_Meeting_and_Courses.htm" onmouseover="imgOn('img164'); return true;" onmouseout="imgOff('img164'); return true;"><img name="img164" src="/Graphics/annualmeetingcourses_off.gif" width="180" height="24" alt="Annual Meeting &amp; Courses" border="0"></a></td></tr><tr bgcolor="#003366"><td colspan="10"><a href="http://www.assh.org/Content/NavigationMenu/Products/ASSH_Products.htm" onmouseover="imgOn('img166'); return true;" onmouseout="imgOff('img166'); return true;"><img name="img166" src="/Graphics/products_off.gif" width="180" height="24" alt="Products" border="0"></a></td></tr><tr bgcolor="#003366"><td colspan="10"><a href="http://www.assh.org/Content/NavigationMenu/The_Society/The_Society.htm" onmouseover="imgOn('img163'); return true;" onmouseout="imgOff('img163'); return true;"><img name="img163" src="/Graphics/thesociety_off.gif" width="180" height="24" alt="The Society" border="0"></a></td></tr><tr bgcolor="#003366"><td colspan="10"><a href="http://www.assh.org/Content/NavigationMenu/The_Foundation/The_Foundation.htm" onmouseover="imgOn('img165'); return true;" onmouseout="imgOff('img165'); return true;"><img name="img165" src="/Graphics/thefoundation_off.gif" width="180" height="24" alt="The Foundation" border="0"></a></td></tr>
-          <tr>
-            <td colspan="10"><img src="/Graphics/nav_below.gif" width="180" height="13" alt="" border="0"></td>
-          </tr>
-          <tr>
-            <td width="8" bgcolor="#336699"><img src="/Graphics/spacer.gif" width="8" height="1" alt="" border="0"></td>
-            <td width="8" bgcolor="#336699"><img src="/Graphics/spacer.gif" width="8" height="1" alt="" border="0"></td>
-            <td width="8" bgcolor="#336699"><img src="/Graphics/spacer.gif" width="8" height="1" alt="" border="0"></td>
-            <td width="8" bgcolor="#336699"><img src="/Graphics/spacer.gif" width="8" height="1" alt="" border="0"></td>
-            <td width="8" bgcolor="#336699"><img src="/Graphics/spacer.gif" width="8" height="1" alt="" border="0"></td>
-            <td width="18" bgcolor="#336699"><img src="/Graphics/spacer.gif" width="18" height="1" alt="" border="0"></td>
-            <td width="18" bgcolor="#336699"><img src="/Graphics/spacer.gif" width="18" height="1" alt="" border="0"></td>
-            <td width="18" bgcolor="#336699"><img src="/Graphics/spacer.gif" width="18" height="1" alt="" border="0"></td>
-            <td width="18" bgcolor="#336699"><img src="/Graphics/spacer.gif" width="18" height="1" alt="" border="0"></td>
-            <td width="68" bgcolor="#336699"><img src="/Graphics/spacer.gif" width="68" height="1" alt="" border="0"></td>
-          </tr>
-          
-        
-          <tr>
-            <td colspan="10" bgcolor="#336699">
-            <table width="180" cellpadding="0" cellspacing="0" border="0">
+
+
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+isMac = (navigator.appVersion.indexOf("Mac") != -1);
+HM_PG_MenuWidth = 150;
+HM_PG_FontFamily = "Verdana,Arial,Sans-serif";
+if(isMac){HM_PG_FontSize = 9;}
+     else{HM_PG_FontSize = 9 - 2;}
+HM_PG_FontBold = 0;
+HM_PG_FontItalic = 0;
+HM_PG_FontColor = "#000346";
+HM_PG_FontColorOver = "#FFFFFF";
+HM_PG_BGColor = "#FFFFFF";
+HM_PG_BGColorOver = "#000346";
+HM_PG_ItemPadding = 3;
+
+HM_PG_BorderWidth = 1;
+HM_PG_BorderColor = "#000346";
+HM_PG_BorderStyle = "solid";
+HM_PG_SeparatorSize = 1;
+HM_PG_SeparatorColor = "black";
+
+HM_PG_ImageSrc = "";
+HM_PG_ImageSrcLeft = "";
+HM_PG_ImageSrcOver = "";
+HM_PG_ImageSrcLeftOver = "";
+HM_PG_ImageSize = 5;
+HM_PG_ImageHorizSpace = 0;
+HM_PG_ImageVertSpace = 2;
+
+HM_PG_KeepHilite = 1; 
+HM_PG_ClickStart = 0;
+HM_PG_ClickKill = false;
+HM_PG_ChildOverlap = 20;
+HM_PG_ChildOffset = 10;
+HM_PG_ChildPerCentOver = null;
+HM_PG_TopSecondsVisible = .5;
+HM_PG_StatusDisplayBuild =0;
+HM_PG_StatusDisplayLink = 0;
+HM_PG_UponDisplay = null;
+HM_PG_UponHide = null;
+HM_PG_RightToLeft = 0;
+
+HM_PG_CreateTopOnly = 1;
+HM_PG_ShowLinkCursor = 1;
+HM_PG_NSFontOver = true;
+
+HM_PG_ScrollEnabled = true;
+HM_PG_ScrollBarHeight = 14;
+HM_PG_ScrollBarColor = "lightgrey";
+HM_PG_ScrollImgSrcTop = "";
+HM_PG_ScrollImgSrcBot = "";
+HM_PG_ScrollImgWidth = 9;
+HM_PG_ScrollImgHeight = 5;
+
+HM_PG_ScrollBothBars = true;
+
+HM_PG_HoverTimeTop  = 1000;
+HM_PG_HoverTimeTree = 1000;
+
+//HM_a_TreesToBuild = [2,3]
+
+//=============================================================
+/*
+ * Original Script: HM_Loader.js
+ * Original script copyright © 2003 Peter Belesis.
+ * http://www.webreference.com/dhtml/
+ * All rights reserved.
+ * Used under license.
+ * All modifications Copyright © 2003 Active Matter, Inc. www.activematter.com 
+ * Copyright (c) 2003 Peter Belesis. All Rights Reserved.
+*/
+
+HM_DOM = (document.getElementById) ? true : false;
+HM_NS4 = (document.layers) ? true : false;
+HM_IE = (document.all) ? true : false;
+HM_IE4 = HM_IE && !HM_DOM;
+HM_Mac = (navigator.appVersion.indexOf("Mac") != -1);
+HM_IE4M = HM_IE4 && HM_Mac;
+HM_Opera = (navigator.userAgent.indexOf("Opera")!=-1);
+HM_Konqueror = (navigator.userAgent.indexOf("Konqueror")!=-1);
+
+HM_IsMenu = !HM_Opera && !HM_IE4M && (HM_DOM || HM_NS4 || HM_IE4 || HM_Konqueror);
+
+HM_BrowserString = HM_NS4 ? "NS4" : HM_DOM ? "DOM" : "IE4";
+
+if(window.event + "" == "undefined") event = null;
+function HM_f_PopUp(){return false};
+function HM_f_PopDown(){return false};
+popUp = HM_f_PopUp;
+popDown = HM_f_PopDown;
+
+
+HM_GL_MenuWidth          = 150;
+HM_GL_FontFamily         = "Arial,sans-serif";
+HM_GL_FontSize           = 10;
+HM_GL_FontBold           = true;
+HM_GL_FontItalic         = false;
+HM_GL_FontColor          = "black";
+HM_GL_FontColorOver      = "white";
+HM_GL_BGColor            = "transparent";
+HM_GL_BGColorOver        = "transparent";
+HM_GL_ItemPadding        = 3;
+
+HM_GL_BorderWidth        = 2;
+HM_GL_BorderColor        = "red";
+HM_GL_BorderStyle        = "solid";
+HM_GL_SeparatorSize      = 2;
+HM_GL_SeparatorColor     = "yellow";
+
+HM_GL_ImageSrc = "";
+HM_GL_ImageSrcLeft = "";
+
+HM_GL_ImageSrcOver = "";
+HM_GL_ImageSrcLeftOver = "";
+
+HM_GL_ImageSize          = 5;
+HM_GL_ImageHorizSpace    = 5;
+HM_GL_ImageVertSpace     = 5;
+
+HM_GL_KeepHilite         = false;
+HM_GL_ClickStart         = false;
+HM_GL_ClickKill          = 0;
+HM_GL_ChildOverlap       = 40;
+HM_GL_ChildOffset        = 10;
+HM_GL_ChildPerCentOver   = null;
+HM_GL_TopSecondsVisible  = .5;
+HM_GL_ChildSecondsVisible = .3;
+HM_GL_StatusDisplayBuild = 0;
+HM_GL_StatusDisplayLink  = 1;
+HM_GL_UponDisplay        = null;
+HM_GL_UponHide           = null;
+
+HM_GL_RightToLeft      = false;
+HM_GL_CreateTopOnly      = HM_NS4 ? true : false;
+HM_GL_ShowLinkCursor     = true;
+
+HM_GL_ScrollEnabled = false;
+HM_GL_ScrollBarHeight = 14;
+HM_GL_ScrollBarColor = "lightgrey";
+HM_GL_ScrollImgSrcTop = "";
+HM_GL_ScrollImgSrcBot = "";
+HM_GL_ScrollImgWidth = 9;
+HM_GL_ScrollImgHeight = 5;
+HM_GL_ScrollBothBars = false;
+
+HM_GL_HoverTimeTop  = 1000;
+HM_GL_HoverTimeTree = 1000;
+
+// the following function is included to illustrate the improved JS expression handling of
+// the left_position and top_position parameters introduced in 4.0.9
+// and modified in 4.1.3 to account for IE6 standards-compliance mode
+// you may delete if you have no use for it
+
+function HM_f_CenterMenu(topmenuid) {
+	var MinimumPixelLeft = 0;
+	var TheMenu = HM_DOM ? document.getElementById(topmenuid) : window[topmenuid];
+	var TheMenuWidth = HM_DOM ? parseInt(TheMenu.style.width) : HM_IE4 ? TheMenu.style.pixelWidth : TheMenu.clip.width;
+	var TheWindowWidth = HM_IE ? (HM_DOM ? HM_Canvas.clientWidth : document.body.clientWidth) : window.innerWidth;
+	return Math.max(parseInt((TheWindowWidth-TheMenuWidth) / 2),MinimumPixelLeft);
+}
+
+if(HM_IsMenu) {
+	HM_Array1 = [[,"getXYcoord('i_Patients_Public','X')","getXYcoord('i_Patients_Public','Y')",,,,,,,,,,,,,,,],["Hand Conditions","http://www.assh.org/AM/Template.cfm?Section=Hand_Conditions&Template=/CustomSource/HandMap.cfm",1,0,0],["About Hand Surgery","http://www.assh.org/Content/NavigationMenu/PatientsPublic/AboutHandSurgery/About_Hand_Surgery_.htm",1,0,0],["Find a Hand Surgeon","http://www.assh.org/AM/AMeSeries/eSeriesLoginRedirect.cfm?Redirect=/eseries/ScriptContent/fahsSplash.cfm&Section=Find_a_Hand_Surgeon",1,0,0],["Hand Safety","http://www.assh.org/Content/NavigationMenu/PatientsPublic/HandSafety/Default381.htm",1,0,0],["Hand Anatomy","http://www.assh.org/Content/NavigationMenu/PatientsPublic/HandAnatomy/Hand_Anatomy_.htm",1,0,0],["e-Newsroom","http://www.assh.org/Content/NavigationMenu/PatientsPublic/eNewsroom/Default344.htm",1,0,0],["About ASSH","http://www.assh.org/AM/Template.cfm?Section=About_ASSH3&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=14&ContentID=7156",1,0,0],["About AFSH","http://www.assh.org/Content/NavigationMenu/PatientsPublic/AboutAFSH1/AFSH.htm",1,0,0]];
+HM_Array2 = [[,"getXYcoord('i_Doctors_and_Hand_Care_Professionals','X')","getXYcoord('i_Doctors_and_Hand_Care_Professionals','Y')",,,,,,,,,,,,,,,],["My Account","http://www.assh.org/AM/AMeSeries/IDRedirect.cfm?Redirect=/eSeries/ScriptContent/assh_profile.cfm&Section=My_Account",1,0,0],["My CME Transcripts","http://www.assh.org/AM/AMeSeries/IDRedirect.cfm?Redirect=/eSeries/Source/Transcripts/Transcripts.cfm&Section=My_CME_Transcripts",1,0,0],["About ASSH","http://www.assh.org/AM/Template.cfm?Section=About_ASSH1&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=14&ContentID=5554",1,0,0],["About AFSH","http://www.assh.org/AM/Template.cfm?Section=About_AFSH1&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=38&ContentID=12526",1,0,0],["Annual Meeting","http://www.assh.org/AM/Template.cfm?Section=Annual_Meeting1&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=10&ContentID=11510",1,0,0],["Archives","http://www.assh.org/AM/Template.cfm?Section=Archives1&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=26&ContentID=7588",1,0,0],["Career Services","http://www.assh.org/AM/Template.cfm?Section=Career_Services1&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=31&ContentID=9582",1,0,0],["Courses","http://www.assh.org/AM/Template.cfm?Section=Courses1&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=4&ContentID=10612",1,0,0],["Exhibitors and Sponsors","http://www.assh.org/Content/NavigationMenu/DoctorsHandCareProfessionals/Exhibitors/Exhibitors_and_Spon.htm",1,0,0],["Health Policy","http://www.assh.org/AM/Template.cfm?Section=Health_Policy&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=27&ContentID=7718",1,0,0],["How to Become a Hand Surgeon","http://www.assh.org/Content/NavigationMenu/DoctorsHandCareProfessionals/HowtoBecomeaHandSurgeon/How_To_Become_a_Hand.htm",1,0,0],["International Relations","http://www.assh.org/AM/Template.cfm?Section=International_Relations&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=18&ContentID=6723",1,0,0],["Join ASSH","http://www.assh.org/Content/NavigationMenu/DoctorsHandCareProfessionals/JoinASSH/Become_A_Member_of_t.htm",1,0,0],["Journal Club","http://www.assh.org/AM/Template.cfm?Section=Journal_Club2&Template=/TaggedPage/JournalClub.cfm&ICID=1",1,0,0],["Journal of Hand Surgery On-Line","http://www.assh.org/Content/NavigationMenu/DoctorsHandCareProfessionals/JHSOnLine/Default442.htm",1,0,0],["Links","http://www.assh.org/AM/Template.cfm?Section=Links2&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=23&ContentID=7346",1,0,0],["Lending a Hand","http://www.assh.org/AM/Template.cfm?Section=Lending_a_Hand2&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=16&ContentID=5566",1,0,0],["Research","http://www.assh.org/Content/NavigationMenu/DoctorsHandCareProfessionals/Research/Research.htm",1,0,0],["Residents and Fellows","http://www.assh.org/Content/NavigationMenu/DoctorsHandCareProfessionals/ResidentsandFellows/Residents_and_Fellow.htm",1,0,0],["Support Staff Listserv","http://www.assh.org/Content/NavigationMenu/DoctorsHandCareProfessionals/SupportStaffListserv/StaffList.htm",1,0,0]];
+HM_Array3 = [[,"getXYcoord('i_Members','X')","getXYcoord('i_Members','Y')",,,,,,,,,,,,,,,],["My Account","http://www.assh.org/AM/AMeSeries/IDRedirect.cfm?Redirect=/eSeries/ScriptContent/assh_profile.cfm&Section=My_Account1",1,0,0],["My ASSH","http://www.assh.org/Content/NavigationMenu/Members/MyASSH/My_ASSH.htm",1,0,0],["My CME Transcript","http://www.assh.org/AM/AMeSeries/IDRedirect.cfm?Redirect=/eSeries/Source/Transcripts/Transcripts.cfm&Section=My_CME_Transcript",1,0,0],["AFSH","http://www.assh.org/AM/Template.cfm?Section=AFSH&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=38&ContentID=12530",1,0,0],["Annual Meeting","http://www.assh.org/AM/Template.cfm?Section=Annual_Meeting2&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=10&ContentID=11514",1,0,0],["Archives","http://www.assh.org/AM/Template.cfm?Section=Archives2&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=26&ContentID=7589",1,0,0],["Board Certification","http://www.assh.org/Content/NavigationMenu/Members/BoardCertification/Board_Certification.htm",1,0,0],["Career Services","http://www.assh.org/AM/Template.cfm?Section=Career_Services2&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=31&ContentID=9269",1,0,0],["Correspondence News","http://www.assh.org/AM/Template.cfm?Section=Correspondence_News1&Template=/MembersOnly.cfm&NavMenuID=408&ContentID=5499&DirectListComboInd=D",1,0,0],["Courses","http://www.assh.org/AM/Template.cfm?Section=Courses2&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=4&ContentID=10613",1,0,0],["Grants and Awards","http://www.assh.org/Content/NavigationMenu/Members/GrantsandAwards/Research1.htm",1,0,0],["Hand Surgery Online","http://www.assh.org/AM/Template.cfm?Section=Hand_Surgery_Online&Template=/MembersOnly.cfm&NavMenuID=867&ContentID=10802&DirectListComboInd=D",1,0,0],["Health Policy","http://www.assh.org/AM/Template.cfm?Section=Health_Policy1&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=27&ContentID=7715",1,0,0],["International Relations","http://www.assh.org/AM/Template.cfm?Section=International_Relations2&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=18&ContentID=6783",1,0,0],["Journal Clubs","http://www.assh.org/Content/NavigationMenu/Members/JournalClubs/Journal_Clubs.htm",1,0,0],["Journal of Hand Surgery","http://www.assh.org/am/elsevier_jhs_redirect.cfm",1,0,0],["Links","http://www.assh.org/AM/Template.cfm?Section=Links1&Template=/TaggedPage/TaggedPageDisplay.cfm&TPLID=23&ContentID=7673",1,0,0],["Membership Directory","http://www.assh.org/AM/AMTemplate.cfm?Section=Membership_Directory&Template=/MembersOnly.cfm&NavMenuID=418&ContentID=7736&DirectListComboInd=D",1,0,0],["Practice Management","http://www.assh.org/Content/NavigationMenu/Members/PracticeManagement/Practice.htm",1,0,0]];
+
+  document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='/AM/HierMenu/HM_Script"+ HM_BrowserString +".js' TYPE='text/javascript'><\/SCR" + "IPT>");
+}
+//end
+//-->
+</script><script language="JavaScript1.2" src="/AM/HierMenu/HM_ScriptDOM.js" type="text/javascript"></script>
+ 
 			
-			<tbody><tr><td colspan="2" bgcolor="#336699">&nbsp;</td></tr>
-              <tr>
-              
-                <td align="center" bgcolor="#336699"><a href="http://www.assh.org/Elsevier_JASSH_redirect.cfm"><img src="http://www.assh.org/Content/ContentGroups/Template_Images/surgeryofthehand.gif" alt="" border="0"></a></td>
-                <td align="center" bgcolor="#336699"><a href="http://www.assh.org/Elsevier_JHS_redirect.cfm"><img src="http://www.assh.org/Content/ContentGroups/Template_Images/visit_jhs_off.gif" alt="" border="0"></a></td>
-              
-              </tr>
-            </tbody></table>
-            </td>
-          </tr>
-        
-          <tr>
-            <td colspan="10"><br>&nbsp; &nbsp;<a href="/PrinterTemplate.cfm?Section=Privacy_Policy" onmouseout="imgOff('img01')" onmouseover="imgOn('img01')"><img name="img01" src="/Graphics/printthispage_off.gif" width="92" height="21" alt="" border="0"></a></td>
-          </tr>
-        
-        </tbody></table>
-        </td>
-        
-        <td width="580" valign="top"><img src="/Graphics/goldfadecurve.gif" width="580" height="45" alt="" border="0"><br>
-       
-        <table width="580" cellpadding="0" cellspacing="0" border="0">
-          <tbody><tr>
-            <td width="35"><img src="/Graphics/spacer.gif" width="30" height="1" alt="" border="0"></td>
-            <td width="545" valign="top">
-<!-- // Include start. // -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#5987B8">
+	<tbody><tr>
+		<td>
+      
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="760" bgcolor="#5987B8">
+				<tbody><tr>
+					<td>
             
+						<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
               
+						  <tbody><tr><td colspan="2"><img src="/AM/graphics/templates/exterior/images/spacer.gif" alt="" height="10"></td></tr>		
+              	
+							<tr>
                 
-                
-                
-                
-    							
+								<td width="641" height="70" bgcolor="#003366"><a href="http://www.assh.org/"><img src="/AM/graphics/templates/exterior/images/top_logo.gif" alt="American Society for Surgery on Hand" border="0"></a></td>
+								<td bgcolor="#003366" valign="top" align="left"><script language="JavaScript" src="/AM/CustomSource/login_status.cfm"></script><a href="/AM/Template.cfm?Section=Login&amp;Template=/security/Login.cfm" class="utility_nav"><img src="/AM/graphics/templates/exterior/images/Login_on.gif" border="0" alt="login"></a></td>
+							</tr>
+							<tr>
+                <td colspan="2"><img src="/AM/graphics/templates/exterior/images/top_logo_tagline.gif" width="760" height="25" alt="" border="0"></td>
+              </tr>
+						</tbody></table>
+
+
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+
+
+			<tbody><tr><td colspan="4" valign="middle"></td></tr>
+
+	
+			<tr align="left">
+				<td width="170" align="left" valign="top" bgcolor="#003466" style="width: 170px;">
+
+
+ <style type="text/css">@import url(http://www.google.com/cse/api/branding.css);</style>
                   
-                    
-                    
-                    
-                  
-                  
-                
-                
-                
-                  
-                
-                
-                
-                  
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" background="#93ABC3">
+						<tbody><tr bgcolor="#93ABC3"><td colspan="4"><img src="/AM/graphics/templates/exterior/images/search_text.gif" border="0" alt="Search"></td></tr>
+						<tr bgcolor="#93ABC3">
+							<td><img src="/AM/graphics/templates/exterior/images/spacer.gif" border="0" width="5" alt=""></td>
+					  <form action="http://www.google.com/cse" id="searchbox_011835758514069391324:yuqvmdsjsbw"></form>
+                        <input type="hidden" name="cx" value="011835758514069391324:yuqvmdsjsbw">
+                        <td><input type="text" name="q" id="searchbox_011835758514069391324:yuqvmdsjsbw" style="height:18;width:110;font-family:Arial; font-size:12px; font-color:black;"></td>
+						<td><input type="image" border="0" alt="GO" src="/AM/graphics/templates/exterior/images/search_go.gif">
+					
+							</td><td><img src="/AM/graphics/templates/exterior/images/spacer.gif" border="0" width="5" alt=""></td>
+						</tr>
+						<tr bgcolor="#93ABC3"><td colspan="4" class="google">&nbsp;&nbsp;ASSH Google Custom Search</td></tr>
+						<tr bgcolor="#93ABC3"><td colspan="4"><img src="/AM/graphics/templates/exterior/images/spacer.gif" border="0" height="20" alt=""></td></tr>
+					</tbody></table>
+
+							
+				
+
+
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#003466">
+						<tbody><tr><td colspan="3"><img src="/AM/graphics/templates/exterior/images/spacer.gif" border="0" width="5" height="2" alt=""></td></tr>
+						<tr>
+							<td><img src="/AM/graphics/templates/exterior/images/spacer.gif" border="0" width="2" alt=""></td>
+							<td><table width="100%" cellpadding="3" cellspacing="0" border="0">
+					<tbody><tr bgcolor="#000346"><td height="1" colspan="12" style="padding: 0 0 0 0;"></td></tr>
+				<tr valign="top"><td colspan="12" class="SideNav1Title_PaP">
+        
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+					<tbody><tr valign="middle">
+						<td width="5" height="20" class="SideNav1Title_PaP"><img src="/AM/graphics/templates/exterior/images/spacer.gif" border="0" width="5" height="20" alt=""></td>
+						<td align="center" valign="middle" width="17" class="SideNav1Title_PaP"><img src="/AM/graphics/templates/exterior/images/patientspublic_arrow.gif" alt="" width="17" height="17" border="0"></td>
+            
+						<td width="5" height="20" class="SideNav1Title_PaP"><img border="0" src="/AM/graphics/templates/exterior/images/spacer.gif" alt="" height="20" width="5"></td>
+						<td class="SideNav1Title_PaP">
+				<span class="SideNav1Title_PaP"><a class="SideNav1Title_PaP" href="http://www.assh.org/AM/Template.cfm?Section=Patients_Public" onmouseover="popUp('HM_Menu1',event);" onmouseout="popDown('HM_Menu1',event);">Patients &amp; Public</a></span>
+      
+			
+				</td>
+					<td width="0" height="0" align="left" valign="top" class="SideNav1Title_PaP"><img name="i_Patients_Public" id="i_Patients_Public" border="0" src="/AM/graphics/templates/exterior/images/spacer.gif" alt="" height="0" width="0"></td>
+					</tr>
+					</tbody></table>
+      
+			</td></tr>
+					<tr bgcolor="#000346"><td height="1" colspan="12" style="padding: 0 0 0 0;"></td></tr>
+				<tr valign="top"><td colspan="12" class="SideNav1_DaHCP">
+        
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+					<tbody><tr valign="middle">
+						<td width="5" height="20" class="SideNav1_DaHCP"><img src="/AM/graphics/templates/exterior/images/spacer.gif" border="0" width="5" height="20" alt=""></td>
+						<td align="center" valign="middle" width="17" class="SideNav1_DaHCP"><img src="/AM/graphics/templates/exterior/images/doctorshandcare_arrow.gif" alt="" width="17" height="17" border="0"></td>
+            
+						<td width="5" height="20" class="SideNav1_DaHCP"><img border="0" src="/AM/graphics/templates/exterior/images/spacer.gif" alt="" height="20" width="5"></td>
+						<td class="SideNav1_DaHCP">
+				<span class="SideNav1_DaHCP"><a class="SideNav1_DaHCP" href="http://www.assh.org/AM/Template.cfm?Section=Doctors_and_Hand_Care_Professionals" onmouseover="popUp('HM_Menu2',event);" onmouseout="popDown('HM_Menu2',event);">Doctors &amp; Hand Care Professionals</a></span>
+      
+			
+				</td>
+					<td width="0" height="0" align="left" valign="top" class="SideNav1_DaHCP"><img name="i_Doctors_and_Hand_Care_Professionals" id="i_Doctors_and_Hand_Care_Professionals" border="0" src="/AM/graphics/templates/exterior/images/spacer.gif" alt="" height="0" width="0"></td>
+					</tr>
+					</tbody></table>
+      
+			</td></tr>
+					<tr bgcolor="#000346"><td height="1" colspan="12" style="padding: 0 0 0 0;"></td></tr>
+				<tr valign="top"><td colspan="12" class="SideNav1_AM">
+        
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+					<tbody><tr valign="middle">
+						<td width="5" height="20" class="SideNav1_AM"><img src="/AM/graphics/templates/exterior/images/spacer.gif" border="0" width="5" height="20" alt=""></td>
+						<td align="center" valign="middle" width="17" class="SideNav1_AM"><img src="/AM/graphics/templates/exterior/images/asshmembers_arrow.gif" alt="" width="17" height="17" border="0"></td>
+            
+						<td width="5" height="20" class="SideNav1_AM"><img border="0" src="/AM/graphics/templates/exterior/images/spacer.gif" alt="" height="20" width="5"></td>
+						<td class="SideNav1_AM">
+				<span class="SideNav1_AM"><a class="SideNav1_AM" href="http://www.assh.org/AM/Template.cfm?Section=Members" onmouseover="popUp('HM_Menu3',event);" onmouseout="popDown('HM_Menu3',event);">Members</a></span>
+      
+			
+				</td>
+					<td width="0" height="0" align="left" valign="top" class="SideNav1_AM"><img name="i_Members" id="i_Members" border="0" src="/AM/graphics/templates/exterior/images/spacer.gif" alt="" height="0" width="0"></td>
+					</tr>
+					</tbody></table>
+      
+			</td></tr>
+					<tr bgcolor="#000346"><td height="1" colspan="12" style="padding: 0 0 0 0;"></td></tr>
+				
+  	<tr><td height="10" colspan="12" style="padding: 0 0 0 0;"></td></tr>
+		
+		</tbody></table>
+  </td>
+							<td><img src="/AM/graphics/templates/exterior/images/spacer.gif" border="0" width="2" alt=""></td>
+						</tr>
+						<tr><td colspan="3"><img src="/AM/graphics/templates/exterior/images/spacer.gif" border="0" width="5" height="1" alt=""></td></tr>
+					</tbody></table>
+
+						
+
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#003466">
+					<tbody><tr>
+						<td><table width="100%" cellpadding="4" cellspacing="0"><tbody><tr valign="top"><td colspan="12" class="SideNav1Title"><span class="SideNav1Title"><a class="SideNav1Title" href="http://www.assh.org/AM/AMeSeries/eSeriesLoginRedirect.cfm?Redirect=/eseries/Scriptcontent/FAHSSplash.cfm&amp;Section=Find_a_Hand_Surgeon">&nbsp;&nbsp;&gt;&nbsp;Find a Hand Surgeon</a><br></span></td></tr><tr valign="top"><td colspan="12" class="SideNav1"><span class="SideNav1"><a class="SideNav1" href="http://www.assh.org/AM/AMeSeries/eSeriesLoginRedirect.cfm?Redirect=/eseries/Source/Orders/index.cfm&amp;Section=ASSH_STORE">&nbsp;&nbsp;&gt;&nbsp;ASSH Store</a><br></span></td></tr><tr valign="top"><td colspan="12" class="SideNav1"><span class="SideNav1"><a class="SideNav1" href="http://www.assh.org/AM/Template.cfm?Section=Continuing_Education&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=4&amp;ContentID=5361">&nbsp;&nbsp;&gt;&nbsp;Continuing Education</a><br></span></td></tr>
+  <tr>
+
+		<td colspan="12" style="padding: 0 0 0 0;" height="10"></td>	
+	</tr>
+	
+	</tbody></table>
+  </td>
+					</tr>				
+				</tbody></table>
+
+
+
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#003466">
+					<tbody><tr>
+						<td><img src="/AM/graphics/templates/exterior/images/spacer.gif" border="0" width="5" alt=""></td>
+						<td align="left">
+							
+
+
+
+
+
+
+
+<form name="TellaFriendForm" action="/AM/AMTemplate.cfm?template=/CM/SendToFriend.cfm" method="post" target="myWindowName" onsubmit="openWindow('/AM/AMTemplate.cfm?template=/CM/SendToFriend.cfm','myWindowName',0,0,350,310)">
+	
+		<a href="/AM/PrinterTemplate.cfm?Section=Privacy_Policy"><img src="/AM/graphics/templates/exterior/images/printerfriendlypage.gif" alt="Printer Friendly Page this page" border="0" align="texttop"></a><br>
+<img src="/AM/graphics/spacer.gif" width="1" height="5"><br>
+			
   
+     <script language="JavaScript" type="text/javascript">
+     <!--
+     		document.write("<input type='hidden' name='PageLinkStatic' value='" + window.location + "'><input type='hidden' name='Title' value='Privacy Policy'><input type='image' src='/AM/graphics/templates/exterior/images/emailthispage.gif' alt='Email this page' border='0'>")
+     //-->
+     </script><input type="hidden" name="PageLinkStatic" value="https://web.archive.org/web/20081216050840id_/http%3A//www.assh.org/AM/Template.cfm%3FSection%3DPrivacy_Policy"><input type="hidden" name="Title" value="Privacy Policy"><input type="image" src="/AM/graphics/templates/exterior/images/emailthispage.gif" alt="Email this page" border="0">
+  
+</form>  
+
+
+						</td>
+					</tr>
+				</tbody></table>
+
+
+
+
+				</td>
+
+				<td width="5" bgcolor="#FFFFFF"><img src="/AM/graphics/templates/exterior/images/spacer.gif" border="0" width="5" alt=""></td>
+				<td width="580" valign="top" bgcolor="#FFFFFF">
+
+				
+
+		
+
+	
+
 
   
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+	
+  
+  <div class="breadcrumb">
+  
+  
+  
+  
+	
+    <a href="http://www.assh.org/" class="BreadCrumb">Home</a>
     
     
+      <img src="/AM/graphics/indentarrow.gif" alt="" border="0" align="bottom">Privacy Policy
     
-    <h1>American Society for Surgery of the Hand (ASSH)<br>
+  
+  </div><br>
+
+
+
+
+
+  <!-- Source Code Copyright © 2005 by Advanced Solutions International, Inc.-->
+<h1>American Society for Surgery of the Hand (ASSH)<br>
 Privacy Policy</h1>
 
 <p>In an effort to maintain efficient service while respecting the privacy of ASSH website visitors, ASSH has created and posted the following privacy policy. </p>
@@ -214,61 +627,113 @@ Fax : (847) 384-1435
 <p><b>Effective Date:</b> August 27, 2004</p>
 
 
+    <table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="Secret" style="display:none;"></td></tr></tbody></table>
     
-
-
-
-                
-              
-            
-<!-- // Include end. // -->
-            </td>
-          </tr>
-          
-          <tr>
-            <td></td>
-            <td><br><br>  
-               <a href="/Content/NavigationMenu/Patients_and_Public/Patients_and_Public.htm" class="FooterNav">Patients &amp; Public</a>&nbsp;&nbsp;
-              <a href="/Template.cfm?Section=Members" class="FooterNav">Members</a>&nbsp;&nbsp;    
-              <a href="/Content/NavigationMenu/Hand_Surgery_Professionals/Hand_Surgery_Professionals1.htm" class="FooterNav">Hand Surgery Professionals</a>&nbsp;&nbsp;    
-              <a href="/Content/NavigationMenu/Exhibitors_Sponsors/Exhibitors_and_Sponsors.htm" class="FooterNav">Exhibitors/Sponsors</a>&nbsp;&nbsp;
-			        <a href="/Content/NavigationMenu/e-Newsroom/Default677.htm" class="FooterNav">eNewsroom</a>&nbsp;&nbsp;
-              <a href="/Content/NavigationMenu/Annual_Meeting_and_Courses1/Annual_Meeting_and_Courses.htm" class="FooterNav">Annual Meeting &amp; Courses</a>&nbsp;&nbsp;    
-              <a href="/Template.cfm?Section=Products" class="FooterNav">Products</a>&nbsp;&nbsp;    
-              <a href="/Content/NavigationMenu/The_Society/History/History.htm" class="FooterNav">The Society</a>&nbsp;&nbsp;    
-              <a href="/Content/NavigationMenu/The_Foundation/Overview_and_Mission/Overview_and_Mission.htm" class="FooterNav">The Foundation</a>&nbsp;&nbsp; 
-              <a href="/Template.cfm?Section=Privacy_Policy" class="FooterNav">PRIVACY Policy</a>&nbsp;&nbsp;        
-            </td>
-          </tr>
-          
-          <tr>
-            <td colspan="2"><br><br><img src="/Graphics/assh_address.gif" width="580" height="11" alt="" border="0"></td>
-          </tr>
-        </tbody></table>
-        </td>
-      </tr>
-    </tbody></table>
-    </td>
   
-  </tr>
-  <tr>
-    <td><img src="/Graphics/bottom_cap.gif" width="180" height="23" alt="" border="0"></td>
-    <td>&nbsp;</td>
-  </tr>
-  
-  <tr>
-    <td>
-    <table width="760" cellpadding="0" cellspacing="0" border="0">
-      <tbody><tr>
-        <td width="215"><img src="/Graphics/spacer.gif" width="215" height="1" alt="" border="0"></td>
-        <td width="545" class="Copyright"><br><br><br>
-        © Copyright 2003 American Society for Surgery of the Hand. <a href="/Content/NavigationMenu/Disclaimer/Disclaimer.htm" class="Copyright">Disclaimer</a><br>
-        <a href="http://www.activematter.com" class="Copyright">This site designed and developed by ACTIVE MATTER</a></td>
-        
-      </tr>
-    </tbody></table>
-    </td><td>&nbsp;</td>
+
+
+  <!-- Source Code Copyright © 2003 Active Matter, Inc. www.activematter.com -->
+
+
+
+
+
+
+				</td>
+				<td bgcolor="#FFFFFF"><img src="/AM/graphics/templates/exterior/images/spacer.gif" border="0" width="5" alt=""></td>
+			</tr>		
+		</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table align="center" cellpadding="0" cellspacing="0" border="0" width="100%" background="#002457">
+	<tbody><tr bgcolor="#002457">
+    <td width="0"><img src="/AM/graphics/spacer.gif" width="0" height="30" alt="" border="0"></td><td align="center" valign="middle"><a class="utility_nav" href="/AM/Template.cfm?Section=Site_Map">Site Map</a>  |  <a class="utility_nav" href="/AM/Template.cfm?Section=Contact_Us">Contact Us</a>  |  <a class="utility_nav" href="/AM/Template.cfm?Section=Privacy_Policy">Privacy Policy</a>  | <a class="utility_nav" href="/AM/Template.cfm?Section=Disclaimer">Disclaimer</a></td>
   </tr>
 </tbody></table>
 
- </body></html>
+
+
+	
+
+
+
+    </td>
+  </tr>
+</tbody></table>
+
+
+<br>
+<br>
+
+<br>
+<br>
+<br>
+
+<br><br>
+<br>
+
+<br><br>
+<br>
+
+<br><br>
+<br>
+
+<br><br>
+<br>
+
+<br><br>
+<br>
+
+<br><br>
+<br>
+
+<br><br>
+<br>
+
+<br>
+
+
+	</td>
+	</tr>
+</tbody></table>
+
+
+
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2713362-1";
+urchinTracker();
+</script>
+
+  
+  
+
+<!-- saved from url=(0022)http://internet.e-mail -->
+<!-- Source Code Copyright © 2005 by Advanced Solutions International, Inc. -->
+
+
+
+
+ 
+
+  
+
+
+</body></html>
