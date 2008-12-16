@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sharegyan.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630034035id_/http%3A//www.sharegyan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharegyan.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163151id_/http%3A//www.sharegyan.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ShareGyan.com
 
-**Highlights:** 1\. Do intraday trading only for few days.   2 **.** Try to book profit at regular intervals only. 
-
-[](http://edit.yahoo.com/config/send_webmesg?.target=sharegyan&.src=pg)
+**Highlights:1.** Market to remain volatile. Execute order with strict stoploss. 2. Follow market trend!!
 
 **Yahoo! ID - sharegyan**  
 (Add Now)
