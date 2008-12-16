@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tutorio.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503142121id_/http%3A//www.tutorio.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorio.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151708id_/http%3A//www.tutorio.com/info/privacy) for the most accurate reproduction.*
 
-# Tutorio.com Privacy Policy
+# Tutorio.com Privacy
+
+## **Privacy Policy**
 
 Tutorio.com is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible. 
 
@@ -16,4 +18,6 @@ Tutorio.com uses a third-party advertising company to serve ads when you visit o
 
 ### Obtaining your consent
 
-By using our Web site, you give tutorio.com permission to collect information about the pages served to you as an anonymous user for the purpose of calculating aggregate site statistics. Tutorio.com welcomes your questions and comments about our privacy policy. You may contact us using our [contact page](http://www.tutorio.com/info/contact). 
+By using our Web site, you give tutorio.com permission to collect information about the pages served to you as an anonymous user for the purpose of calculating aggregate site statistics. 
+
+Tutorio.com welcomes your questions and comments about our privacy policy. You may contact us using our [contact page](http://www.tutorio.com/info/contact). 
