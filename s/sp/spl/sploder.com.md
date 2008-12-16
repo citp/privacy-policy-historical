@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sploder.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616184630id_/http%3A//sploder.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sploder.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021934id_/http%3A//www.sploder.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Flash Game Creator, Games for MySpace, Blogger, Xanga, and Everywhere!
+# Privacy Policy - Make your own Online Games Arcade, War Space & Fantasy Games
 
 ### Privacy Policy
 
