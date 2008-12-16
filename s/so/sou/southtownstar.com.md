@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southtownstar.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608215902id_/http%3A//www.suntimes.com/aboutus/privacy.stng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southtownstar.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154645id_/http%3A//www.suntimes.com/aboutus/privacy.stng) for the most accurate reproduction.*
 
 # Privacy policy :: CHICAGO SUN-TIMES :: About Us
 
