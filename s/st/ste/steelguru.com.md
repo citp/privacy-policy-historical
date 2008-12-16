@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the steelguru.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516220348id_/http%3A//steelguru.com/about_steelguru/read_sg_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelguru.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154908id_/http%3A//www.steelguru.com./about_steelguru/read_sg_privacy_policy.html) for the most accurate reproduction.*
 
 # SteelGuru - Privacy Policy
-
-### Privacy Policy
 
 Steel Guru is committed to protect personal information about you which is not publicly available elsewhere. You should read this privacy policy in order to understand what information we may collect and how we use it.
 
@@ -27,3 +25,8 @@ Steel Guru may set cookies on your computer to store your preferences. Steel Gur
 In case of Change of Policy
 
 In case of significant changes to privacy policy, we will inform you about any change via email. In case you have any questions regarding policies mentioned here, you may contact us by sending us email at info@steelguru.com.
+
+  * [Subscription Policy](https://web.archive.org/about_steelguru/read_about_sg_subspolicy.html)
+  * [Disclaimer](https://web.archive.org/about_steelguru/read_about_sg_disclaimer.html)
+
+
