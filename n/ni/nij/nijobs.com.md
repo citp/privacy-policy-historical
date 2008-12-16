@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nijobs.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618095148id_/http%3A//www.nijobs.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nijobs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035904id_/http%3A//nijobs.com/about/privacy.asp) for the most accurate reproduction.*
 
 # NIJobs.com - Privacy Policy
 
@@ -69,6 +69,39 @@ NIjobs.com vacancy advertising clients are given the option to have a profile pa
 Some NIjobs.com clients are advertised on site under featured employer member pages; which means NIjobs.com host a number of their web pages on our server to provide users with an experience similar to the recruiters own website. 
 
 There are featured links on these member pages, which when accessed you will leave the NIjobs.com domain. 
+
+return to top
+
+## My Career Manager
+
+My Career Manager is a facility for jobseekers to set up their individual job search requirements (job alerts) and register their CV online;
+
+  * **Job Alerts  
+**The Job Alert service matches a jobseeker's requirements for employment with the profile of vacancies advertised on our site. For jobseekers who subscribe to this service, you receive an email listing of those jobs which match the criteria you have registered. Vacancies that match this criterion by 50% or more are sent in the form of a job alert. You decide how often you wish to receive these alerts and can change your search criteria at any time. 
+
+  * **CVs**   
+Jobseekers may decide to register their CV in our database, through My Career Manager. Users can choose to make their CV searchable for inclusion in our CV database product. This product allows your CV to be viewed by recruiters who have subscribed to this service. It also means that you can attach your CV to your online job application(s).
+
+You may choose from the following options when uploading your CV 
+
+**Keep CV Private** – Select this option is you wish to store your CV in your Career Manager account but don't want recruiters to find your CV.   
+Employers can contact you if you choose to make your CV searchable. You have 2 options when making your CV searchable.  
+**Allow recruiters to search this CV** ( _Hide details_ ) Select this option if you want recruiters to find your CV but wish to keep your contact details private. Recruiters can contact you via NIjobs.com if they have a position that matches your selected criteria.   
+**Allow recruiters to search this CV** ( _Show details_ ) Select this option if you want recruiters to find your CV and relevant contact details. Recruiters will be able to contact you by phone or by email should a position arise that matches your experience and requirements. 
+
+We endeavour to grant access to the CV database only to recruiters who agree to abide by our [Terms and Conditions](https://web.archive.org/web/20081216035904id_/http%3A//nijobs.com/about/terms.asp). However, should a third party gain access to your CV by evading our security measures, we cannot be held responsible. 
+
+You may remove your CV from our database at any time. However, recruiters who have already accessed your CV may have kept a copy of it in their own files. Please note that we cannot be held responsible for the retention, use, or privacy of your CV in these instances.
+
+In the interest of your privacy and the maintenance of an up-to-date CV database, CVs are removed from recruiters' access if they have not been updated for a period of 12 months. If you wish your CV to remain in the searchable database, you must update your details at least once every 12 months. 
+
+  * **Career Update Service  
+**The Career Update service within My Career Manager offers users the ability to register their personal details to receive a monthly email detailing career information and site service information. 
+
+If, at any time, you do not wish to remain a registered user of any of the above facilities within My Career Manager, you can unsubscribe and/or delete your personal information from our databases. NIjobs.com also offers you the ability to change at any time the personal information you give during registration.
+
+
+
 
 return to top
 
