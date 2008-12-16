@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the petpeoplesplace.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605203508id_/http%3A//www.petpeoplesplace.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petpeoplesplace.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042306id_/http%3A//www.petpeoplesplace.com/help/privacy.php) for the most accurate reproduction.*
 
-# PetPeoplesPlace.com Privacy Policy
+# Privacy Policy | Help | PetPeoplesPlace.com
+
+**This Privacy Policy is subject to change at any time.  **
 
 **We respect internet users' preference for privacy**  
 At PetPeoplesPlace we take the security of users’ information very seriously. The following discloses our information gathering and dissemination practices of personal and non-personal information we collect when you visit our site. Our site is designed for people over 16 years of age. We do not wish to gather information from people below this age.  
@@ -10,7 +12,7 @@ Residents of California have a legal right to request and receive in writing or 
 
 **_Your personally identifiable information is never shared with third parties with the purpose of using such information for marketing purposes under any circumstances._**
 
-To receive confirmation of this information in writing, please [Contact Us](https://web.archive.org/web/20080605203508id_/http%3A//www.petpeoplesplace.com/help/contact.php).
+To receive confirmation of this information in writing, please [Contact Us](https://web.archive.org/help/contact.php).
 
 **What Information We Collect**  
 You can visit our websites, read articles and other materials, and check on offerings without giving us any personally identifiable information. So that we can provide our users and subscribers with the most efficient and enhanced, personalized service, we request information about you in certain circumstances, and also collect certain information automatically. For the convenience of our customers and to better serve you, a customer account includes all the collected personal information we may have, but you can update or correct your contact information or change your preferences about receiving offers and information from us or third parties at any time. 
@@ -19,10 +21,12 @@ You can visit our websites, read articles and other materials, and check on offe
 **We collect personally identifiable information, such as names, mailing addresses, and/or e-mail addresses, when you register to use our site. Occasionally, we may also request demographic information, such as age, gender, hobbies or interests. Often this additional information is optional or requested anonymously in connection with a survey. Website visitors may register to receive one of our e-mail updates, or to enter online contests and sweepstakes, and we may offer offline contests and sweepstakes as well. Registration is also required to participate in message boards, bulletin boards, or chat rooms at our website, and may be requested in connection with certain surveys. Registration forms will indicate what information is required and what information (if any) is optional. 
 
 **Subscriptions and Orders  
-**If you wish to place an order for products or services online, you must generally provide additional information to that required for registration, such as your credit card number and credit card expiration date. Please see [2CheckOut](http://www.2co.com/) and select Privacy Policy for additional information. 
+**If you wish to place an order for products or services online, you must generally provide additional information to that required for registration, such as your credit card number and credit card expiration date. 
 
 **Information Collected Automatically  
 **We also may collect your IP address, browser type, domain name, access times and referring website address. This helps facilitate your online experience at our website. In addition, we use cookies to track usage patterns at our site and to control the display of ads, as well as to offer other functionalities (such as screening for age, helping to track items in your shopping basket at sites which offer online shopping opportunities, and "recognizing" you to speed up your log-in when you visit our sites).
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 **What We Do With Collected Information    
 **We use information you provide to fulfill your requests and improve our publications, products and services. We may, from time to time, produce reports for advertisers, sponsors and vendors containing anonymous, aggregate information about our users and subscribers, such as demographic, age and online usage information. This allows us to provide content and offers that are most relevant to our subscribers and users and to work more closely with advertisers. We do not include any personally identifiable information of our users in these reports. 
@@ -56,4 +60,4 @@ We use personal information so that we may display or send custom, personalized 
 **In developing our business, we might sell certain assets, or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets. 
 
 **More Information  
-** If you require further information, help in understanding our policy or have a request for account deletion, please [contact us](https://web.archive.org/web/20080605203508id_/http%3A//www.petpeoplesplace.com/help/contact.php). 
+** If you require further information, help in understanding our policy or have a request for account deletion, please [Contact Us](https://web.archive.org/help/contact.php).
