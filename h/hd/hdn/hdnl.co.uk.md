@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdnl.co.uk privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406025417id_/http%3A//www.hdnl.co.uk/hdnl/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdnl.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020629id_/http%3A//www.hdnl.co.uk/hdnl/privacy.aspx) for the most accurate reproduction.*
 
 # Home Delivery Network Limited | PRIVACY POLICY
 
