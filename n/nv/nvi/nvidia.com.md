@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nvidia.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605184121id_/http%3A//nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvidia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011742id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Policy
 
