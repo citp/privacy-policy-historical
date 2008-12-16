@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deviantart.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013030453id_/http%3A//about.deviantart.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deviantart.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023422id_/http%3A//about.deviantart.com/policy/privacy) for the most accurate reproduction.*
 
 # deviantART: Privacy Policy
 
-Revision date: December 10, 2005
+Revision date: June 5, 2008
 
 deviantART respects your privacy. This Privacy Policy applies to our web sites, including [www.deviantart.com](http://www.deviantart.com/) and [shop.deviantart.com](http://shop.deviantart.com/) (collectively, the “deviantART Sites” or “Sites”). This Privacy Policy explains what information we collect through the Sites, how we use that information, and what choices you have. 
 
@@ -28,6 +28,8 @@ If you so choose, we will also use it to send you information about products and
 
 We use information that is not personally identifiable to determine how people use our web site and its services. For example this data tells us information including how often users click on our advertisements, which files are downloaded most frequently, and which areas of our site are the most popular. Analyzing this data allows us to improve the offerings on and performance of our site(s). Using your IP address, we can also determine the general physical location of a user and may at times use this information to better target advertising to users.
 
+We have contracted with Lotame Solutions LLC ("Lotame") to better help us operate the website, report website traffic, statistics, advertisement 'click-throughs', and/or other activities on our web sitewebsite. Lotame may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. Lotame does not collect personally identifiable information. For more information about how the information is collected and used by Lotame, please see Lotame's privacy policy at <http://www.lotame.com/policy.php>.
+
 ## How we share information
 
 Except as noted below, deviantART does not share your Personally Identifiable Information with third parties unless you give us your permission or we need to share such information in order to provide products or services you have requested. For example, we use third parties to help with some of the products and services available on our site, such as processing payments and fulfilling orders for products through the deviantART Shop. We also engage third parties to assist us by tracking the number of visitors to the Sites that have "clicked-through" from specified promotions on third party sites and those visitors' activities on the deviantART Site. When we supply personally identifiable information to these third parties, we require them to use it only for the function they are helping us with. 
@@ -46,7 +48,7 @@ Even if you choose not to receive information from us, we reserve the right to c
 
 ## Making changes
 
-You may review the Personally Identifiable Information we have on file by logging in and clicking the [Profile](http://my.deviantart.com/profile/) and [Settings](http://my.deviantart.com/settings/) tabs on your user page. Once there, there you may modify information that is incorrect and delete certain information from your profile. You can also change your permission for us to send you e-mail newsletters.
+You may review the Personally Identifiable Information we have on file by logging in and clicking the [Settings & Profile](http://my.deviantart.com/settings/) tab on your user page. Once there, there you may modify information that is incorrect and delete certain information from your profile. You can also change your permission for us to send you e-mail newsletters.
 
 To delete your Personally Identifiable Information, you must manually change your data fields to null values. Otherwise, your data is retained indefinitely. Please note that the public comments made by a user in a chat room or a forum cannot be deleted. Data related to transactions for products and services through the deviantART Shop is retained indefinitely. Moreover, since, Anonymous Information is not identifiable as originating with you, it cannot be reviewed or changed by you.
 
@@ -69,6 +71,6 @@ We may update this Privacy Policy from time to time as our services change and e
 If you have questions about this Statement or our policies, please contact us at:
 
 **deviantART,Inc.**  
-**7095 Hollywood, BLVD #788**  
-**Hollywood, CA 90046**  
+**7095 Hollywood Blvd #788**  
+ **Hollywood, CA 90028**  
 
