@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolrunning.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516052206id_/http%3A//www.coolrunning.com/engine/5/5_8/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolrunning.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170319id_/http%3A//www.coolrunning.com/engine/5/5_8/index.shtml) for the most accurate reproduction.*
 
 # Cool Running :: Privacy Policy
 
@@ -24,9 +24,9 @@ External Links
 This site contains links to other sites. Cool Sports, Inc is not responsible for the privacy practices or the content of such Web sites. 
 
 Our Partner Sites  
-The Cool Running site also includes links to sites owned by our commerce partners (including, but not limited to, Amazon.com and SignMeUpSports.com). These sites are not covered by our privacy policy. We do not share any user information with these sites. Any information provided to our partners, including ordering information, is governed by the privacy policy of the partner sites. 
+The Cool Running site also includes links to sites owned by our commerce partners. These sites are not covered by our privacy policy. We do not share any user information with these sites. Any information provided to our partners, including ordering information, is governed by the privacy policy of the partner sites. 
 
-Likewise, any exchange of information that takes place during race registration conducted from the Cool Running race calendar is governed by the privacy policy of the relevant race registration firm (including, but not limited to, Racegate.com, ActiveUSA.com, and SignMeUpSports.com). 
+Likewise, any exchange of information that takes place during race registration conducted from the Cool Running race calendar is governed by the privacy policy of the relevant race registration firm. 
 
 Public Forums  
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
@@ -46,8 +46,8 @@ We will NOT provide any links to Web sites that are unsuitable for children.
 Choice/Opt-Out  
 Our site provides users the opportunity to opt-out of receiving promotional or marketing information from us as well as our partners. 
 
-  * You can send us e-mail by visiting us at [our contact page](http://www.coolrunning.com/engine/5/5_3/index.shtml) and selecting general feedback department ,
-  * You can send mail to the following postal address: Cool Sports, Inc, 22 Winsor Drive, Dracut, Massachusetts 01826
+  * You can send us e-mail by visiting us at [our contact page](http://www.coolrunning.com/engine/5/5_3/index.shtml) and selecting general feedback department
+  * You can send mail to the following postal address: Cool Running, PO Box 3242, Nashua, NH 03061
   * To remove yourself from the Cool Running Relay mailing list, send an e-mail to [requests@coolrunning.com](mailto:requests@coolrunning.com) with the words "unsubscribe relay" (no quotes) in the BODY of the e-mail message.
 
 
@@ -56,9 +56,9 @@ Data Quality/Access
 This site gives users the following options for changing and modifying information previously provided: 
 
   * You can send us e-mail by visiting us at [our contact page](http://www.coolrunning.com/engine/5/5_3/index.shtml) and selecting general feedback department 
-  * You can edit your profile by visiting the following URL: <http://www.coolrunning.com/cgi-bin/register/prefs.cgi>
+  * You can edit your profile by logging into your account on [this page.](http://www.active.com/page/coolrunning/login?referrerUrl=http://www.active.com/home.htm)
   * You can send mail to the following postal address:  
-Cool Sports, Inc, 22 Winsor Drive, Dracut, Massachusetts 01826 
+Cool Running, PO Box 3242, Nashua, NH 03061 
 
 
 
