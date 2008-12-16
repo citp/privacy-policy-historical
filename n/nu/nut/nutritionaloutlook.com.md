@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionaloutlook.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011090334id_/http%3A//www.devicelink.com/expo/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionaloutlook.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011215id_/http%3A//www.devicelink.com/expo/privacypolicy.html) for the most accurate reproduction.*
 
 # CANON COMMUNICATIONS, LLC - Privacy Policy
 
@@ -46,7 +46,7 @@ We also may obtain information about your general Internet usage by using a cook
 
 The following link takes you to a website that sets out a detailed explanation about cookies and the ways in which you can disable them:
 
-[www.allaboutcookies.org/manage-cookies](https://web.archive.org/web/20071011090334id_/http%3A//www.devicelink.com/expo/example/www.allaboutcookies.org/manage-cookies)
+[www.allaboutcookies.org/manage-cookies](https://web.archive.org/web/20081216011215id_/http%3A//www.devicelink.com/expo/example/www.allaboutcookies.org/manage-cookies)
 
 Please note that we may allow other companies called third party ad servers or ad networks to display advertisements on our web pages.  Some of these companies may place a persistent cookie on your computer in order to recognize your computer each time they send you an online advertisement.  We do not have access to the cookies that may be placed by third party ad servers or ad networks.
 
