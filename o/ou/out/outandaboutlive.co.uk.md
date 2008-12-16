@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outandaboutlive.co.uk privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618191251id_/http%3A//www.outandaboutlive.co.uk/open/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outandaboutlive.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054355id_/http%3A//www.outandaboutlive.co.uk/open/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Out&About Live
 
@@ -31,6 +31,3 @@ You have the right to request a copy of the personal information that Warners Gr
 
 **Users 16 and under**[](http://www.warnersgroup.co.uk/privacy/privacypolicy.htm#top)  
 If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to Warners Group Publications controlled websites. Users without this consent are not allowed to provide us with personal information.
-
-  
-
