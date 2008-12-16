@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmag.co.uk privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612062954id_/http%3A//www.netmag.co.uk/zine/general-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmag.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163001id_/http%3A//www.netmag.co.uk/zine/general-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - .net magazine
 
@@ -22,7 +22,3 @@ In accordance with our requirements under the Data Protection Act 1998, we shall
 We may disclose Your Information if we are required to do so by any law or other regulatory or government authority. **10\. Corrections/updates**   
 If we hold any of Your Information and that information is incorrect in any respect, you can e-mail the Website editor and the information will be corrected as soon as reasonably possible. **11\. Policy changes**   
 By using this Website you agree to the terms of this privacy policy and our [website terms of use](https://web.archive.org/zine/general-info/terms-of-use). We may amend this privacy policy and our [website terms of use](https://web.archive.org/zine/general-info/terms-of-use) from time to time. If we do so, we will post an updated version on this Website.
-
-[](https://web.archive.org/zine/net-competition)
-
-The latest competitons from .net magazine
