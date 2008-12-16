@@ -1,68 +1,114 @@
-> *The following text is extracted and transformed from the playerauctions.com privacy policy that was archived on 2001-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010814075455id_/http%3A//playerauctions.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playerauctions.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020805id_/http%3A//www.playerauctions.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Player Auctions News
+# Privacy Policy - PlayerAuctions
+
+|  |  **Privacy Policy - PlayerAuctions**  
+---|---  
+  
+This is the Privacy Policy governing your use of the PlayerAuctions.com ("PlayerAuctions") web site which is identified by the uniform resource locator PlayerAuctions.com (the "Site"). This policy tells you about how we use and protect your personal information. This policy covers only information that is collected through the Site. This policy does not apply to the practices of third parties that we do not own or control, or to individuals that we do not employ or manage. This policy may change from time to time, so please check back periodically. 
+
+Scope
+
+This Privacy Policy describes how we handle your personal information for our services on the Site. There are several places throughout the Site that may link you to other websites that do not operate under this Privacy Policy. When you click through to these websites, this Privacy Policy no longer applies. PlayerAuctions recommends that you examine the privacy statements for all third party websites to understand their procedures for collecting, using, and disclosing your personal information. The policy that applies on any of our domains or sub-domains is always the policy that appears in the footer of each website. 
+
+Subject to the requirements of applicable laws, we strive to provide a consistent set of privacy practices throughout the global PlayerAuctions trading community. By using our Sites, you acknowledge that you have read and accepted this Privacy Policy and the User Agreement, and you expressly consent to our collection, storage, use and disclosure of your personal information ("Personal Information") as described in this Privacy Policy. 
+
+Collection
+
+You can browse PlayerAuctions.com without telling us who you are. If you choose to provide us with personal information, you consent to the transfer and storage of that information to our servers. We may collect other information that is provided to us by your web browser. This may include the browser you used to come to our website, the Uniform Resource Locator ("URL") of the website that you just visited before visiting our website, which pages on our website you visit, any search terms you entered, which URL you go to next, and your Internet Protocol ("IP") address. 
+
+We may collect and store the following personal information: 
+
+  * Email, address, phone number, physical contact information, and sometimes financial information; 
+  * Transactional information based on your activities on PlayerAuctions (such as information to facilitate buying and selling); 
+  * Community discussions, chats, dispute resolution, correspondence through PlayerAuctions, and correspondence sent to us;
+  * Computer sign-on data, statistics on page views, traffic to and from PlayerAuctions, cookies information; 
+  * Other information, including IP address and standard weblog information, and supplemental information from third parties.
+
+You can choose not to provide information to us, but in general some information about you is required in order for you to register as a member; purchase products or services; complete a profile; participate in a survey, contest, or sweepstakes; ask us a question; or initiate other transactions on our site. If you use a message board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there may be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+
+Marketing
+
+We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. 
+
+Use
+
+Our primary purpose in collecting personal information is to provide you with a customized experience that is safe, smooth, and efficient. You agree that we may use your personal information to: 
+
+  * Provide the services and customer support you request; 
+  * Resolve disputes, collect fees, and troubleshoot problems;
+  * Prevent potentially prohibited or illegal activities; 
+  * Enforce our User Agreement, other agreements and policies; 
+  * Customize, measure, and improve our services and the Site's content and layout; 
+  * Protect our rights, property, and safety, including that of our employees, users, or others; 
+  * Tell you about or provide targeted marketing, service updates, and promotional offers based on your communication preferences; and 
+  * Compare information for accuracy, and verify it with third parties. 
+
+Our Disclosure of Your Information
+
+We may disclose personal information to comply with legal requests, subpoenas, court orders (or substantially similar legal procedures), enforce our policies, respond to claims that a listing or other content violates the rights of others, or if we believe it is necessary to protect anyone's rights, property, or safety. 
+
+We may also share your personal information with: 
+
+  * Members of our affiliates to help detect and prevent potentially illegal acts and provide joint services; 
+  * Service providers who help with our business operations (such as for payment processing, fraud investigations, bill collection, affiliate and rewards programs); 
+  * Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to); 
+  * Law enforcement or other governmental officials, in response to a request relating to a criminal investigation or alleged illegal activity; 
+  * Other business entities, should we plan to merge with or be acquired (whether through an asset sale or otherwise) by that business entity.
+
+Using Information from PlayerAuctions
+
+PlayerAuctions may require you at some point to reveal personal information (such as the name of your in-game character) to other users in order to complete transactions. We require that you respect the privacy of other users. You must give other users a chance to remove themselves from your database and a chance to review what information you have collected about them. You agree to use user information only for: 
+
+  * PlayerAuctions transaction-related purposes that are not unsolicited commercial messages; or 
+  * Using services offered through PlayerAuctions.
+
+Cookies
+
+"Cookies" are small files placed on the hard drive of your computer. PlayerAuctions uses cookies to provide services to you. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive once you end your session (log out or close your browser). We do link the information we store in cookies to any personally identifiable information you submit while on our site. 
+
+PlayerAuctions uses cookies on its Web site to: 
+
+  * Allow you to enter your password less frequently during a session; 
+  * Provide information that is targeted to your interests;
+  * Promote and enforce trust and safety; 
+  * Offer certain features that are only available through the use of cookies;
+  * Measure promotional effectiveness; and 
+  * Analyze our web page flow. 
+
+Web Beacons
+
+We may also use web beacon technologies to better tailor the site to provide better customer service. A web beacon is a single pixel image file that allows a website to count users who have visited that page or access certain cookies. These web beacons may be placed on specific pages across this website. When a visitor accesses these pages, a notice of that visit is generated which may be processed by us or by our vendors. These web beacons work in conjunction with cookies. If you don't want to associate your anonymous cookie information with your visits to these pages, depending on the browser used, you can set your browser to turn off cookies. 
+
+No spam, spyware or spoofing
+
+We and our users do not tolerate spam. You are not licensed to add other PlayerAuctions users, even a user who has purchased from or sold to you, to your mail list (email or physical mail), or other contact without their express consent. To report PlayerAuctions related spam or spoof emails to PlayerAuctions, please forward the email to abuse@playerauctions.com. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We may filter and automatically scan messages before they are sent for viruses and other illegal or prohibited content. PlayerAuctions may, but is not obligated, to send you strictly service-related announcements on occasions when it is necessary to do so. For example, if our service is temporarily suspended for maintenance, we might send you an email. 
+
+Generally, you may not opt-out of these communications since they are not promotional in nature and are necessary to maintain quality of service. If you do not wish to receive them, you may have the option to deactivate your account.
+
+Account Protection
+
+Your password is the key to your account. Use unique numbers, letters, and special characters and do not disclose your PlayerAuctions password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken and financial commitments made in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify PlayerAuctions and change your password. 
+
+Accessing, Reviewing and Changing Your Personal Information
+
+You can see, review and change most of your personal information, including opt-in and opt-out communications preferences, by logging in to PlayerAuctions and clicking on "My Account". Generally, we will not manually modify your personal information. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts in order to comply with state and federal laws, deter fraud, collect any outstanding debts, resolve disputes, troubleshoot problems, assist with investigations, enforce our User Agreement or policies, and take other actions otherwise permitted by law. 
+
+Security
+
+Your information is stored on our servers. We treat data as an asset that must be protected and use multiple tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+
+Children's privacy
+
+All registered users on PlayerAuctions must be 18 years or older. However in the event that you are under the age of 18 and access areas of our website that do not require an account, please make sure that you provide your Personal Information only after obtaining your parental consent. 
+
+Applicable laws
+
+PlayerAuctions will protect your Personal Information in accordance with the laws of the United States and the state of Delaware. 
+
+General
+
+PlayerAuctions reserves the right to change this Privacy Policy at any time. Any such changes will be posted on this site, so please check back periodically.
 
   
-**OUR PRIVACY POLICY OUTLINED**
 
-**Required Information**
-
-In order to use Player Auctions services, a user must first complete the registration form. During registration we require name, email address, mailing address, phone, and the creation of a unique password. Contact information is used only to identify a user and ensure fraud protection and security. Unique identifier information is used to qualify for and set up a Player Auctions Account. Credit card and checking account information is required to use specific services of Player Auctions and is used only to process those transactions initiated by the user. 
-
-**Disclosure of Information**  
-Player Auctions will protect the personal information that you share with us. Contact and demographic information is not shared with third parties without prior permission from the user. If you make a transaction that requires credit card and checking account information, we use that information only to process your payment request and will not use it for marketing purposes. When required, we may also disclose information to regulatory agencies, including the Visa and MasterCard Association. 
-
-We may disclose personal information when required by law or in good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our web site. 
-
-**Security**  
-This web site takes every precaution to protect our users' information. When users submit sensitive information via the web site, their information is protected both online and off-line. 
-
-When our registration form asks users to enter sensitive information (such as credit card number, address, phone number), that information is encrypted and is protected. While on a secure page, such as our registration form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about our security, follow this link: [https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&form_file=../fdf/authCertByIssuer.fdf&issuerSerial=04705d9f6f14ecda746146eed920c1cf](https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&form_file=../fdf/authCertByIssuer.fdf&issuerSerial=04705d9f6f14ecda746146eed920c1cf)
-
-While we use VeriSign encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (our database administrator and customer service representatives) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. The servers that store personally identifiable information are kept in a secure environment. 
-
-If you have any questions about the security at our web site, please email webmaster@playerauctions.com 
-
-**Cookies**  
-Our site uses cookies only to track referrals from our affiliates who have joined our affiliate programs and to identify a user when they return to our site. 
-
-**Links**  
-This web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this site. 
-
-**Email Links**  
-We use email links located on the "contact us" page to allow you to contact us directly with any questions or comments. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or we may review and discard the information. 
-
-**Newsletter and Promotions**  
-We send all new members a welcoming email. Established members will receive information on special promotions and a newsletter, including product and service updates. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please refer to the "Opting Out" section below. 
-
-Player Auctions may occasionally present a special promotion. To qualify for entry, we may ask you to provide personal information. If we plan to share that information with any sponsor(s), we will provide a statement to that effect. 
-
-**Opting Out**  
-Our users are given the opportunity to 'opt-out' of receiving further information from us about special promotions or product updates. Our registration form has an 'opt-out' mechanism so users who sign up for the service, but don't want any marketing material or product updates, can keep their email address off of our lists. 
-
-Users who no longer wish to receive service updates or promotional materials from Player Auctions may opt-out of receiving these communications by emailing customerservice@playerauctions.com 
-
-**Surveys**  
-From time-to-time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information and demographic information. Survey information will be used for purposes of monitoring or improving the use and satisfaction of our service and/or this site. 
-
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post a notification of these changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. 
-
-**How to Update Your Personal Information**  
-You can help Player Auctions maintain the accuracy of your personal information by notifying us or updating your personal profile when you change your address, mailing address, phone numbers, or email address. If at any time you wish to update your information, you are provided with the means to update your information through "My Auctions" or you can contact Player Auctions by email at customerservice@playerauctions.com or by postal mail at: 
-
-Player Auctions  
-2457 152ND AVE NE  
-Redmond Wa, 98052
-
-Please include your old and new contact information so that we can make the appropriate corrections. 
-
-[](http://www.standingwavesoftware.com/2KPADownload.htm)
-
-[](http://thumperv2.com/pricing.htm)
-
-Copyright © 2001 Isomedia, Inc. _All Rights Reserved._   
-Use of this Web site constitutes acceptance of the [User Agreement](https://web.archive.org/registration/user_agreement.cfm) & [Privacy Policy](https://web.archive.org/privacy.cfm).  
-Copyright and Trademark policies can be found [here](https://web.archive.org/web/20010814075455id_/http%3A//playerauctions.com/registration/trademark.cfm)
-
-Copyright © 1997-2001 [playerauctions.com]() _All Rights Reserved._
