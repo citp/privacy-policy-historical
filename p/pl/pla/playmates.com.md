@@ -1,46 +1,73 @@
-> *The following text is extracted and transformed from the playmates.com privacy policy that was archived on 1998-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19981206015524id_/http%3A//www.playboy.com/copyright.html%23privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playmates.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013726id_/http%3A//www.playboy.com/help/privacypolicy.html) for the most accurate reproduction.*
 
-# On-Line Copyright Statement
+# Playboy Enterprises, Inc. Privacy Policy
 
-Copyright © Playboy Enterprises, Inc. All rights reserved. The material on this site may not be reproduced and may not be distributed, publicly performed, proxy cached or otherwise used, except with the prior express permission of Playboy Enterprises, Inc. 
+PLAYBOY ENTERPRISES, INC. PRIVACY POLICY  
+Effective as of January 15, 2005
 
-PLAYBOY, HTTP://WWW.PLAYBOY.COM, PLAYBOY CYBER CLUB, RABBIT HEAD DESIGN, PLAYMATE, PLAYMATE OF THE MONTH, PLAYMATE OF THE YEAR, PMOY, CENTERFOLD, PLAYBOY CENTERFOLD, MISS " ", BUYING IN, CENTERFOLD COLLECTIBLES, CENTERFOLD MEMORABILIA, CLASSIC CENTERFOLD, CLUBLAND, COMPETE, CYBERBOY, FAST SERVE, GIRLS OF THE INTERNET, PLAYBOY-THE OFFICIAL MILLENNIAL WEB SITE, PLAYWARE, PROWL, REBOOT, ROAM, SCRAWL, SEX LIFE, TECHCHICK, THE BACHELOR PAD, POP, THE MOST VISITED GLOBAL ENTERTAINMENT SITE FOR MEN, SEXCETERA, PLAYBOY NEWS DESK and WORLD OF PLAYBOY are trademarks of Playboy Enterprises, Inc. all pending or registered in the U.S. Patent and Trademark Office. 
+This Privacy Policy (the "Policy") applies to Playboy Enterprises, Inc.'s and Playboy.com, Inc.'s (collectively, "Playboy") family of websites (the "Sites"). These include playboy.com; cyber.playboy.com; store.playboy.com; auctions.playboy.com; playboynet.playboy.com; playboydaily.playboy.com; tvjukebox.playboy.com; nahv.playboy.com and any other sites at which this Policy appears. It does not apply to other online or offline Playboy sites, products or services. 
 
-Users must be at least 18 years old. 
+This Policy explains what information we collect about you and what we do with it. We reserve the right to modify this Policy at any time, and we will notify you of any material changes to the Policy by posting the new Policy hereand changing the "Effective Date" at the top. We encourage you to check this page periodically for any changes. By using or navigating any of the Sites, you acknowledge that you have read, understand and agree to be bound by this Policy or any modified Policy as posted. If you do not agree to these terms, please do not use or visit any of our Sites. 
 
-**Privacy Statement for PLAYBOY.COM**
+What information do we collect?
 
-PLAYBOY.COM has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information-gathering and dissemination practices for this site: PLAYBOY.COM. 
+We collect personal information that you provide to us such as your name, e-mail address, street address and telephone number. We also collect credit card information from you. We generally collect this personal information on our registration and order forms when you sign up to receive products or services from any of our Sites. We may also collect information from our online surveys such as age, gender and income level.
 
-Our site occasionally uses an order form for customers to request information, products and services. We collect visitors' contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders, information about our company and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may **opt-out** of receiving future mailings; see the delist/deactivate section below. Financial information that is collected is used to bill the user for products and services. 
+We collect IP addresses and anonymous demographic information (such as your zip code) and may use this data to: tailor your experience at our Sites; provide content in which we think you may be interested; display content according to your preferences; and analyze traffic to our Sites. 
 
-Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code, age or income level). We use contact data from our surveys to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may **opt-out** of receiving future mailings; see the delist/deactivate section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitors' experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. Anonymous demographic information is shared with advertisers and market researchers on an aggregate basis. Any email from PLAYBOY.COM will include specific instructions to unsubscribe. 
+What do we do with the information we collect?
 
-**Opt-Out**
+We use personal information and other demographic or profile information you provide to us to fulfill your order or request; to provide you with information about Playboy, some of our partners and third party companies in which we think you may be interested; and to contact you when necessary. 
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+We use IP addresses and anonymous demographic information to tailor your experiences at our Sites by showing content in which we think you will be interested and displaying content according to your preferences. Anonymous demographic information is shared with advertisers and market researchers on an aggregate basis. 
 
-**Delete/Deactivate**
+We use information collected to evaluate and improve our services. We may develop and use, in our sole discretion, consumer research which may be based on your use of our services. 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+Personal information collected on the Sites is stored and processed in the United States and by using any of the Sites, you consent to any such transfer of information outside of your country. 
 
-1.You can send email to [listadmin@peiecommerce.com](mailto:listadmin@peiecommerce.com)  
-2.You can send mail to the following postal address:  
+Do we share the information we collect with third parties?
 
+In some cases, we will share information we collect (including personal information or anonymous demographic information) with third party companies who may offer products or services in which we believe you may be interested. We also share this information with third parties with whom we partner to co-promote and administer sweepstakes and contests on our Sites. 
+
+We may also share information we collect with third party service providers to manage certain aspects of the services we provide, such as maintaining our servers and processing or fulfilling orders for products and services you purchase through the Sites.
+
+We may also disclose your information in special cases if required to do so by law, court order or other governmental authority or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact, or bring legal action against someone who may be causing injury to or interfering with the rights or property of Playboy, another user or anyone else that could be harmed by such activities.
+
+Is the information submitted in public forums confidential?
+
+No. The Sites may offer chat rooms, forums, message boards and/or news groups to our users. Please remember that any information disclosed in these areas becomes public information. Accordingly, you should exercise caution when deciding to disclose your personal information and you do so at your own risk. 
+
+Do we use cookies?
+
+Yes. Cookies are pieces of information generated by web servers and stored in your computer for future access. The Sites use cookie technology to enhance your online experience by making it easier for you to navigate through our Sites or make a feature work better. Generally, cookies can be disabled. However, you must accept cookies in order to navigate the Sites; register for our membership Sites and order products from our online stores.
+
+Do we use web beacons?
+
+Yes. Some of our Sites may contain electronic images known as "web beacons" or single-pixel gifs that allow us to count visitors to our Sites and deliver co-branded services. Web beacons collect limited information including cookie number, time and date of a page view and a description of the page on which the web beacon resides. 
+
+Are the Sites secure?
+
+We are committed to maintaining the security of your information and have measures in place to protect against the loss, misuse and alteration of the information under our control. All credit transactions occur in a secure area of the Site using Secure Sockets Layer ("SSL") software to process orders. SSL encrypts the information you input on the Sites. In addition, all information is stored in a secure location behind a firewall with limited administrative access. 
+
+Does this Policy apply to linked sites other than the Sites?
+
+No. The Sites contain links to other Internet sites, resources and sources of Playboy. By clicking on an ad banner or other link, you will be redirected off the Sites and to third party websites. Playboy is not responsible for the privacy policies of such sites. You should make sure that you read and understand the privacy policies of these sites and direct any concerns regarding external links to the site administrator or webmaster of that third party website.
+
+How do I unsubscribe?
+
+All e-mails you receive from us will include specific instructions on how to unsubscribe and you may unsubscribe at any time. Additionally, we give you the following options for removing your information from our database:
+
+(1) send an email to [admin@playboy.com](mailto:admin@playboy.com);
+
+(2) select the opt-out link at the bottom of any Playboy email and follow the instructions provided; 
+
+(3) send mail to the following address: 
 
 Customer Service  
-Playboy Online  
+Playboy.com, Inc.  
 680 North Lake Shore Drive  
-Chicago, IL 60611  
+Chicago, IL 60611
 
+Can I update/correct my information?
 
-**Contacting the Web site**
-
-If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, you can contact:  
-
-
-Customer Service  
-Playboy Online  
-680 North Lake Shore Drive  
-Chicago, IL 60611  
-[admin@playboy.com](mailto:admin@playboy.com)
+Yes. You may correct or update your personal information by sending us an email at [pb@playboy.com](mailto:pb@playboy.com). 
