@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612151514id_/http%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030032id_/http%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
 
 # WIN A GREEN CARD - APPLY FOR LOTTERY TODAY
 
