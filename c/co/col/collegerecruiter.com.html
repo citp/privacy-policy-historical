@@ -1,440 +1,410 @@
-<!--The following is the downloaded HTML source of the collegerecruiter.com privacy policy that was archived on 2006-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207222716id_/http%3A//jobs.collegerecruiter.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collegerecruiter.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216013440id_/http%3A//www.collegerecruiter.com/pages/privacy.php) for the most accurate reproduction.-->
 
-<html><head><meta name="robots" content="index,follow"><meta name="description" content="Click Here! Entry Level Jobs for College Students &amp; Recent Graduates! Careers, Job Postings, Internships, Resumes, Cover Letters, Salaries, Interviewing and Employers.">
-		<meta name="keywords" content="entry level jobs, entry level job, job, jobs, job search, ENTRY LEVEL JOB, ENTRY LEVEL JOBS, search, college, Entry Level Job, Entry Level Jobs, entry level, for, employment, ENTRY LEVEL, college job, jobs for college student, summer job college student, Jobs for college graduate, job college grad, jobs for college grads, college student job search, college job search, job for recent college graduate, college recruiter, college graduate job market, job for recent college grads, entry level job for college graduate, entry level job for college grads, job opportunity for college student, college graduate job searching, college grads job searching, college job boards, college grads job market, job search for college graduate, college job recruiting, collegerecruiter.com, college job board, Job, Jobs, grad, graduate, career, resume, cover letter, cover letters, student, students, career, careers, recent graduate, entry-level, computer, interview, interviewing, out, offer, networking, engineering, education, accounting, finance, business, relations, employer, companies, company, searches, negotiation, internships, freshman, sophomore, junior, senior, relocation, podcasts">
-		<meta name="classification" content="Internet">
-		<meta name="distribution" content="Global">
-		<meta name="rating" content="General">
-		<meta name="copyright" content="Beyond.com, Inc">
-		<meta name="author" content="Beyond.com - Careers. Business. Life.  Go Beyond! ">
-		<meta name="language" content="en-us">
-		<meta name="resource-type" content="document">
-		<meta name="revisit-after" content="10 days">
-		<meta http-equiv="reply-to" content="meta@4Jobs.com">
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Privacy Policy</title>
+<link rel="stylesheet" type="text/css" href="/includes/screen.css">
+<script src="/include/themes/classic/main.js"></script>
+<title> Entry Level Jobs and Internships </title>
+<meta http-equiv="description" content="Entry level jobs and internships.">
+<meta http-equiv="keywords" content="entry level jobs, internships, internship">
+<script type="text/javascript" src="http://www.collegerecruiter.com/include/ajaxfileupload/jquery.js"></script>
+<script type="text/javascript" src="http://www.collegerecruiter.com/include/ajaxfileupload/ajaxfileupload.js"></script>
+
+<style>
+#int_page{
+	position:fixed;
+	top:0px;
+	left:20px;
+	height:445px;
+	width:670px;
+	border:5px double #000000;
+	background-color:#EAEAEA ;
+	padding:25px;
+	display:none;
+	text-align:justify;
+	z-index:auto;
+	
+}
+
+#close_int_page{
+	text-align:center;
+	text-decoration:underline;
+	cursor:pointer;
+}
+.divpadding{
+padding:3px;
+}
+</style>
+<!--[if lt IE 7]>
+
+<style>
+#int_page{
+	position:absolute;
+}
+</style>
+<![endif]-->
+
+
+
+
+<script type="text/javascript">
+
+var request2 = null;
+    try {
+        request2 = new XMLHttpRequest();
+    } catch (trymicrosoft) {
+        try {
+            request2 = new ActiveXObject("Msxml2.XMLHTTP");
+        } catch (othermicrosoft) {
+            try {
+                request2 = new ActiveXObject("Microsoft.XMLHTTP");
+            } catch (failed) {
+                request2 = null;
+            }
+        }
+    }
+
+	
+	function ajaxFileUpload()
+	{	
+		$("#loading")
+		.ajaxStart(function(){
+			$(this).show();
+		})
+		.ajaxComplete(function(){
+			$(this).hide();
+		});
+
+		$.ajaxFileUpload
+		(
+			{
+				url:'http://www.collegerecruiter.com/include/ajaxfileupload/doajaxfileupload.php',
+				secureuri:false,
+				fileElementId:'fileToUpload',
+				dataType: 'json',
+				success: function (data, status)
+				{
+					if(typeof(data.error) != 'undefined')
+					{
+						if(data.error != '')
+						{
+ 							//alert(data.error);
+				var url = "http://www.collegerecruiter.com/include/ajaxfileupload/interstitial.php";
+	
+				var params = 'name='+document.getElementById('appr_name').value;
+				
+				params+= '&email_address='+ document.getElementById('appr_from').value;
+				params += '&comments='+document.getElementById('coverletter').value;
+				params += '&filename='+document.getElementById('fileToUpload').value;
+				params += '&post_id='+document.getElementById('int_post_id').value;
+				params += '&notification='+document.getElementById('checkId').value;
+				
+				
+				request2.open("POST", url, true);
+				//Send the proper header information along with the request
+				request2.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+				request2.setRequestHeader("Content-length", params.length);
+				request2.setRequestHeader("Connection", "close");
+				request2.onreadystatechange =updatersvp;
+				request2.send(params);
+						}else
+						{
+							//alert(data.msg);
+							
+				var url = "http://www.collegerecruiter.com/include/ajaxfileupload/interstitial.php";
+	
+				var params = 'name='+document.getElementById('appr_name').value;
+				
+				params+= '&email_address='+ document.getElementById('appr_from').value;
+				params += '&comments='+document.getElementById('coverletter').value;
+				params += '&filename='+document.getElementById('fileToUpload').value;
+				params += '&post_id='+document.getElementById('int_post_id').value;
+				params += '&notification='+document.getElementById('checkId').value;
+				
+				
+				request2.open("POST", url, true);
+				//Send the proper header information along with the request
+				request2.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+				request2.setRequestHeader("Content-length", params.length);
+				request2.setRequestHeader("Connection", "close");
+				request2.onreadystatechange =updatersvp;
+				request2.send(params);
+						}
+					}
+				},
+				error: function (data, status, e)
+				{
+					//alert(e);
+				}
+			}
+		)
+	
+	
+		return false;
+
+	}
+
+
+function registrationByMail()
+{
+	var error='';
+	if(document.getElementById('appr_name').value=='')
+	error="Please fill name.\n";
+	
+	if(document.getElementById('appr_from').value==''){
+	error+="Email address is required.\n";
+	}
+	if(document.getElementById('appr_from').value!=''){
+		check = /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9-]+[.][a-zA-Z]+[a-zA-Z.]*$/.test(document.getElementById('appr_from').value);
+		if (!check) 
+		{
+			error+="Please provide a valid email address.\n";
+			
+			
+		}
+		
+	}
+
+
+	if(document.getElementById('fileToUpload').value!=''){
+		var sFileName=document.getElementById('fileToUpload').value;
+		var i = sFileName.lastIndexOf(".") ;
+		if (i == -1 || sFileName.substring(i,sFileName.length).toLowerCase() != ".doc" && sFileName.substring(i,sFileName.length).toLowerCase() != ".pdf" && sFileName.substring(i,sFileName.length).toLowerCase() != ".rtf")
+		{
+		error+="You can upload only .pdf, .rtf and .doc file.";
+	
+		}
+	}
+
+	if(error!=''){
+		alert(error);
+		return false;
+	}else{
+
+	
+	ajaxFileUpload();
+	
+	
+	
+	
+	}return true;
+}
+function updatersvp()
+{
+
+    if (request2.readyState == 4) {
+     var response = request2.responseText;
+
+	//alert(response);
+ 	//document.getElementById('int_page').innerHTML = response;
+
+
+}
+
+}
+function setValue()
+	{
+		if(document.getElementById('checkId').value =="none")
+			document.getElementById('checkId').value="1";
+		else
+			document.getElementById('checkId').value="none";
+		return true;
+
+	}
+
+	</script>
+
+<script type="text/javascript">
+        function change_parent_url(url)
+        {
+	    document.location=url;
+        }		
+        function change_current_url(url)
+        {
+	    document.location=url;
+        }		
+</script>
+
+
+</head>
+<body onload="display();  banner();" id="sandbox" class="full">
+<div id="head">	
+<p id="tlinks"><a href="/myjobs/">My CollegeRecruiter.com</a> | <a href="/employers/">Employers &amp; Advertisers</a></p>
+	<div id="hwrap"><a href="/" id="logo"></a>
+		<p class="hlink"><a href="/jobs/">entry level jobs</a><a href="/internship/">internships</a><a href="/careers/">advice &amp; resources</a></p>
+<script type="text/JavaScript" src="/scw/scw_js.php?lang=EN"></script>
+<form action="/index.php" method="get">
+<input type="hidden" name="action" value="search">
+<div id="search_form" class="search">
+	<div class="search_input" id="input2">
+	<input class="search_input_style" name="title" type="text" value="" maxlength="75">
+	<p><span style="color:#0099FF;"><b>What: </b></span>job title or keywords </p>
+	</div>
+	<div class="search_input" id="input15">
+	<input class="search_input_style" name="loc" type="text" value="" maxlength="75">
+	<p><span style="color:#0099FF;"><b>Where: </b></span> city, state</p></div><div class="search_input" id="input5"><input class="search_input_style" name="5" type="text" value=""><p>Description</p></div>
+	<input class="form_submit_button" type="submit" value="Go"> 
+	  	</div>
+</form>	
+<div id="adspace"><script language="javascript" type="text/javascript"><!--
+document.write('<scr'+'ipt language=javascript src="http://a.tribalfusion.com/j.ad?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;pop=0&amp;requestID='+((new Date()).getTime() % 2147483648) + Math.random()+'"></scr'+'ipt>');
+//--></script><script language="javascript" src="http://a.tribalfusion.com/j.ad?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;pop=0&amp;requestID=19644533860.8491259797483064"></script><noscript><a href="http://a.tribalfusion.com/i.click?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;requestID=710123390" target="_blank"><img src="http://a.tribalfusion.com/i.ad?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;requestID=710123390" width="468" height="60" border="0" alt="Click Here" /></a></noscript>
+	</div>
+</div>
+<h1>Privacy Policy: Disclosure Regarding Collection and Use of Information</h1>
+</div>
+
+<div class="colmask threecol">
+    <div class="colmid">
+		<div class="colleft">
+	<div id="col1">
+
+<p>Visitors to this and other websites owned or powered by Adguide Publications, Inc. can engage in a variety of activities such as post a resume, apply to a job, request information about continuing your education, request scholarship information, participate in surveys, enter contests, order products and/or services, and more. Job boards such as we operate cannot be well used by their visitors unless those visitors choose to provide information about themselves to us and the third party organizations that use our site to help them offer employment, educational, and other opportunities to our visitors.</p>
+
+<p>You may provide us with personally identifiable information that can directly identify you or indicate where you may be contacted during these activities. The information may include your name, address, age, date of birth, gender, class, email address, telephone number, credit card information, hobbies, interests, and more. Sometimes visitors provide similar information about others. We also collect generic information that does not identify you personally such as the type of browser and in which city you're located.</p>
+
+<p>Except as otherwise provided, we reserve the right to use and disclose any information that you provide via this website (regardless of whether such information is provided by you actively, passively, directly, or indirectly) for any purpose that we, in our sole discretion, deem necessary or proper.  That said, it is our practice to limit the collection of information to what is necessary to administer our business and to deliver superior products and services to you, and to use and disclose the information collected in ways that are compatible with the purposes for which it is gathered. For example, if you apply to a job or request information about continuing your education, we may send the information you provide to the third party organization (the employer or school) which is of interest to you. Or we may, for example, share your information in order to send to you information about a product, service, or opportunity available either through Adguide Publications, Inc. or a third party organization.  You may opt out of receiving such information from us under the procedures set forth below.</p>
+
+<p>This website also contains links to websites operated by third parties. We have no control over information that is submitted to or collected by them.</p>
+
+<p>When we share information with third party organizations, we request to the extent we deem practical that they protect your information in a manner that is consistent with our privacy policy. We cannot, however, guarantee that they will do so.</p>
+
+<p>We also use non-personally identifiable information to improve our site and your Internet experience. Many of our web pages use text files called "cookies." These are placed on your hard disk by our web server to store your preferences. Some of the cookies are placed by our site and others by third parties which advertise on our website. Our cookies do not reveal to us your personally identifiable information. However, if you choose to provide personally identifiable information to us, then that information may be linked to the data stored in the cookie. Many websites, including ours, use cookies to save their visitors time and to improve the experience of those visitors on the sites they visit. You may choose to have your browser reject some or all cookies. This policy does not cover how the third parties use their cookies.</p>
+
+<p>Like most commercial websites, our site collects information about our visitors including how they came to our site, what browsers they use, what pages they visit, how long they spend on the site, from which pages they left our site, and to which sites they went to when they left our site. We use this information to improve our site and may share it with third party organizations.</p>
+
+<p>In order to better understand the people using our sites, we may supplement the information you provide to us with information from third party organizations. For example, you may accidentally provide to us an invalid zip code. We may correct that information with zip code information that we obtain from a third party.</p>
+
+<p>Any information that you post to content pages such as the blogs, our resume bank, or other pages on our site may become available to third parties. We may use that information for a variety of purposes including promoting the products we offer. Any information posted online should always be considered as being publicly posted so that information may be re-posted elsewhere without your knowledge or consent. </p>
+
+<p>We have put in place physical, electronic, and other procedures to help keep your information safe and prevent unauthorized access. No security system is 100 percent safe from security breaches.  We cannot guaranty the security of the information collected on this website or information that you otherwise provide to us.  By using this website, you agree that you, and not us, bear the risk of any use or misuse of information about you due to a security breach.   Please note that credit card information submitted via this website is processed by a third party provider.  Further, when your information is provided to third party organizations their procedures will determine the safety of your data.  We cannot guarantee that they will keep your data as safe as you would want them to.</p>
+
+<p>Our web servers and other operations are located in the United States of America. Visitors from other countries authorize the export of personal information to the USA, the storage of that information in the United States, and the use of that information in the United States and other countries. This policy and our legal obligations are subject to the laws of the State of Minnesota and the United States, regardless of your location. The venue for any claims or complaints shall be in the United States in the State of Minnesota.</p>
+
+<p>We do not knowingly accept personal information from anyone under 13 years old in violation of applicable laws. This site is designed to be used by those who are at least 13 years of age and should not be used by those who are under 13 years old. We do not sell products or services for purchase by children and all products and services we sell are for purchase by adults only, or with adult permission.</p>
+
+<p>We consider the information you provide to be an asset of our company. As such, Adguide Publications, Inc. may include your information in the sale of any of its assets to any third party in the event of a merger, acquisition, or other transaction.</p>
+
+<p>You have the right to opt-out of receiving future communications from us.  If you do not wish to receive future communications from us, please follow the unsubscribe or removal instructions in the communications.</p>
+
+<p>UNDER NO CIRCUMSTANCES SHALL WE BE LIABLE FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, THAT RESULT FROM THE USE OF THE INFORMATION COLLECTED AS A RESULT OF YOUR ACCESSING THIS WEBSITE OR OTHERWISE PROVIDED TO US EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. </p>
+
+<p>As is the case with all organizations, our business needs and policies evolve and change over time. We therefore reserve the discretion and right to change, modify, add, or remove portions from this policy at any time and such changes will retroactively apply to your information. Your use of this site means you accept this policy and any changes we may make to it.</p>
+
+</div>
+<!--<div id="col2">
+Left Column Will Go Here.
+</div>-->
+<div id="col3">
+<p>
+<a href="http://www.collegerecruiter.com/admanager/www/delivery/ck.php?oaparams=2__bannerid=1__zoneid=1__cb=bc457d4d87__maxdest=http://a.awopi.com/cgi/r?;n=203;c=471113;s=6844;x=7936;f=200810071510470;u=j;z=TIMESTAMP;hdr=471124" target="_blank">Get the best new job by completing your education at an on-line or a traditional, campus school.</a></p><div id="beacon_bc457d4d87" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.collegerecruiter.com/admanager/www/delivery/lg.php?bannerid=1&amp;campaignid=1&amp;zoneid=1&amp;cb=bc457d4d87" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><p></p><br>
+
+	<b>Career Videos</b><br>
+	<iframe src="http://www.careertv.com/CollegeRecruiter/CR_Search.aspx?RefID=110&amp;keywords=internship" style="border: none; width: 200px; height: 200px;" scrolling="no" frameborder="0"></iframe><br>
+	
+<h3>Featured Employers</h3>
+	<center>
+	<div style=" height: 204px; border-bottom: 2px solid rgb(234, 234, 234); padding-bottom: 6px;">
+		<div id="FE1" class="FE"><a href="http://s0b.bluestreak.com/ix.e?hy&amp;s=7840359&amp;a=7074451"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/disney.gif"></a></div>
+		<div id="FE2" class="FE"><a href="http://snipurl.com/radio_shack"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/rs.gif"></a></div>
+		<div id="FE3" class="FE"><a href="http://snipurl.com/internalrevenue"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/irs.gif"></a></div>
+		<div id="FE4" class="FE"><a href="http://snipurl.com/tmobile"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/tmob.gif"></a></div>
+		<div id="FE5" class="FE"><a href="http://snipurl.com/collegepropainters"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/crp.gif"></a></div>
+		<div id="FE6" class="FE"><a href="http://snipurl.com/newengland"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/necc.gif"></a></div>
+		<div id="FE7" class="FE"><a href="http://snipurl.com/transamass"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/tra.gif"></a></div>
+		<div id="FE8" class="FE"><a href="http://snipurl.com/valpack"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/valpak.gif"></a></div>
+		<div id="FE9" class="FE"><a href="http://snipurl.com/ups"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/ups.gif"></a></div>
+		<div id="FE10" class="FE"><a href="http://www.collegerecruiter.com/weblogs/intern-signup.php"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/crec.gif"></a></div>
+	</div>
+	
+<iframe src="http://www.collegerecruiter.com/admanager/ads/poll/vertical.php?p=8" width="200" height="250" frameborder="0" scrolling="no" style="margin: 0; padding: 0;"></iframe>
+	</center>
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-4473299699511092";
+/* 200x200 : CollegeRecruiter */
+google_ad_slot = "6777195737";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-4473299699511092";
+/* 200x200 : CollegeRecruiter */
+google_ad_slot = "6777195737";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	
+
+	<div style="margin: 1em 0pt 2em; text-align: center;">
+<a id="rss_job_feed_link" href="/pages/rss-subscribe.php"><img src="/upload_files/images/rss_logo.png" border="0"></a>
+	</div>
+	
+	
+<!-- ad rotater--><script type="text/javascript">var timer=null;var counter=0;function banner(){timer=setTimeout("banner()",4000);counter++;var i;var id2;switch(counter){case 1:document.getElementById("FE1").style.display='block';document.getElementById("FE2").style.display='block';document.getElementById("FE3").style.display='block';document.getElementById("FE10").style.display='none';break;case 2:document.getElementById("FE4").style.display='block';document.getElementById("FE5").style.display='block';document.getElementById("FE6").style.display='block';for(i=1;i<4;i++){id2="FE"+i;document.getElementById(id2).style.display='none';} break;case 3:document.getElementById("FE7").style.display='block';document.getElementById("FE8").style.display='block';document.getElementById("FE9").style.display='block';for(i=4;i<7;i++){id2="FE"+i;document.getElementById(id2).style.display='none';} break;case 4:document.getElementById("FE10").style.display='block';for(i=7;i<10;i++){id2="FE"+i;document.getElementById(id2).style.display='none';} counter=0;break;}}</script>		
+</div>
+<!-- end container tags -->
+		</div>
+	</div>
+</div>
+	<div id="foot">
+		<div id="foot-form">
+<form action="/index.php" method="get">
+<input type="hidden" name="action" value="search">
+<div id="search_form" class="search">
+<div class="search_input" id="input2"><input class="search_input_style" name="title" type="text" value="" maxlength="75"><p><span style="color:#0099FF;"><b>What: </b></span>job title, keywords</p></div><div class="search_input" id="input15"><input class="search_input_style" name="loc" type="text" value="" maxlength="75"><p><span style="color:#0099FF;"><b>Where: </b></span> city, state</p></div>
+<input class="form_submit_button" type="submit" value="Find">
+		</div>
+</form>
+	</div>
+<ul>
+<li><a href="/pages/aboutus.php">About</a> | </li> 
+<li><a href="/myjobs/">Job Alerts</a> | </li> 
+<li><a href="/careers/ ">Advice &amp; Resources</a> | </li> 
+<li><a href="/salary/">Salary Calculator</a> | </li>
+<li><a href="http://a.awopi.com/cgi/r?;n=203;c=471113;s=6844;x=7936;f=200810071510470;u=j;z=TIMESTAMP;hdr=471124">School Finder</a> | </li> 
+<li>
+<a href="http://www.addthis.com/bookmark.php" onclick="addthis_url = location.href; addthis_title = document.title; return addthis_click(this);" target="_blank">Bookmark</a> <script type="text/javascript">var addthis_pub = 'slickricky';</script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script>| </li> 
+<li><a href="/pages/rss-subscribe.php">RSS</a> | </li> 
+<li><a href="/pages/privacy.php">Privacy</a> | </li>
+<li><a href="/pages/terms-of-use.php">Terms</a> | </li> 
+<li><a href="/pages/affiliateinfo.php">Affiliate</a>| </li> 
+<li><a href="/pages/urllist.php">Site Map</a> | </li> 
+<li><a href="/contact/">Contact</a>  </li> 
+</ul>
+<ul>
+	<li><a href="/employers/">Employers &amp; Advertisers</a> : </li>
+	<li><a href="/pages/ratecard-job-postings.php">Job Postings</a> | </li>
+	<li><a href="/pages/ratecard-targeted-email-sms-direct-mail.php">Targeted Emails</a> | </li>
+	<li><a href="/pages/ratecard-targeted-email-sms-direct-mail.php">Cell Phone Text Messaging</a> | </li>
+	<li><a href="/pages/ratecard-pay-per-lead-pay-per-click.php">Pay Per Lead/Click</a> | </li>
+	<li><a href="/pages/ratecard-banners-text-links-employer-spotlights.php">Banner Ads</a></li>
+	<!--<li><a href="/ratecard-facebook.php">Facebook Pages</a> | </li>-->
+	<!--<li><a href="/pages/ratecard-packages.php">Specials & Packages</a></li>-->
+</ul>
+
+<br>
+© Copyright 1996-2008 <a href="http://www.collegerecruiter.com/">CollegeRecruiter.com</a>  All rights reserved.
+</div>
+
+<b><a href="http://www.RazorIT.com/" title="Website Design Site Management Maintenance" class="slickricky">Website Design, Management, Maintenance, Affordable</a></b>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-88771-1";
 urchinTracker();
-</script><title>CollegeRecruiter.com : Careers</title>
-  
-  <link rel="stylesheet" type="text/css" href="/MKT/Style/main.css"></head>
-  
-  
-  
-  
-  
-  <body bgcolor="#FFFFFF" leftmargin="0" text="#000000" topmargin="0" marginheight="0" marginwidth="0" style="FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif" vlink="darkblue" link="darkblue" alink="darkblue" class="bodygrey">
-  
-  
-  <table border="0" cellpadding="0" cellspacing="0" width="760" bgcolor="#FFFFFF" align="Center"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" width="760" align="Center"><tbody><tr><td><!--banindustryid:--><link rel="StyleSheet" href="/companies/misc/collegerecruiter/style.css" title="Contemporary" type="text/css">
-<link rel="StyleSheet" href="/companies/misc/collegerecruiter/menu.css" title="Contemporary" type="text/css">
-<!--[if IE]> <LINK REL=StyleSheet HREF="/companies/misc/collegerecruiter/ie_only.css" TITLE="Contemporary" TYPE="text/css"> <![endif]-->
-<!-- <style type="text/css">.main_image {background: url("/images/random/1.jpg");}</style> -->
+</script>
 
 
 
-
-
-<div id="sizer">
-	<div id="expander">
-		<div id="wrapper" class="clearfix">
-
-<!--div class="page"
-div class="layout"-->
-
-<table width="760" border="0" cellpadding="0" cellspacing="0" id="tablelayout"><tbody><tr><td colspan="2" style="border-bottom: 1px solid black;">
-
-<div class="top">
-<a href="http://www.collegerecruiter.com">
-<img src="/companies/misc/collegerecruiter/logored3.gif" class="logo" border="0">
-</a>
-
-<div class="search">
-<!-- Start Tribal Fusion 468x60 code -->
-<script language="javascript"><!--
-document.write('<scr'+'ipt language=javascript src="http://a.tribalfusion.com/j.ad?site=CollegeRecruitercom&adSpace=JobBoard&size=468x60&pop=0&requestID='+((new Date()).getTime() % 2147483648) + Math.random()+'"></scr'+'ipt>');
-//--></script><script language="javascript" src="http://a.tribalfusion.com/j.ad?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;pop=0&amp;requestID=19644506840.9160606274751228"></script><noscript><a href="http://a.tribalfusion.com/i.click?site=CollegeRecruitercom&adSpace=JobBoard&size=468x60&requestID=710123390" target=_blank><img src="http://a.tribalfusion.com/i.ad?site=CollegeRecruitercom&adSpace=JobBoard&size=468x60&requestID=710123390" width=468 height=60 border=0 alt="Click Here"></a></noscript>
-<!-- End Tribal Fusion 468x60 code -->
-</div>
-
-
-<div id="nav">
-  <ul style="margin-left: 5px;">
-<li><a href="http://www.collegerecruiter.com"><span>Home</span></a></li>
-<li><a href="http://jobs.collegerecruiter.com/MKT/Content/JS/Channels/Home.asp"><span>My CollegeRecruiter.com</span></a></li>
-<li><a href="http://www.collegerecruiter.com/jobs/"><span>Job Search</span></a></li>
-<li><a href="http://www.collegerecruiter.com/careers/"><span>Career Tools</span></a></li><!--instead of Career Center-->
-<li><a href="http://www.collegerecruiter.com/schools-parents/"><span>Schools &amp; Parents</span></a></li><!--instead of the For Schools and For Parents tabs-->
-<li><a href="http://www.collegerecruiter.com/employers/"><span>Employer Solutions</span></a></li><!--Instead of For Employers-->
-  </ul>
-</div>
-
-</div></td></tr><tr><td valign="top">
-  
-  <table border="0" cellpadding="1" cellspacing="0" bgcolor="#000000" width="100%"><tbody><tr><td>
-  
-  
-  
-  <table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" width="100%"><tbody><tr>
-  <td valign="top" height="100%">
-  
-  
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#FFFFFF" align="center" height="100%">
-
-  <tbody><tr><!-- Start Left Spacer Column -->
-   
-    <td valign="top" width="100%">
-		
-		<table cellpadding="0" cellspacing="0" width="100%" border="0" bgcolor="#E3DFDF"><tbody><tr><td><table cellpadding="2" cellspacing="0" width="100%" border="0"><tbody><tr><td width="100%" align="left">&nbsp;<a href="/js/form/loginform.asp">Member Login</a></td><td align="right"><a href="/MKT/Content/EMP/Default.asp">Employers</a></td><td><a href="/MKT/Content/EMP/Default.asp"><img src="/common/images/channels/ch-arrow.gif" border="0"></a></td><td align="right"><a href="/JS/Form/PreChatLoad.asp?seg=JS&amp;pg=/MKT/Content/JS/default.asp" target="new"><img src="http://server.iad.liveperson.net/hc/66118572/?cmd=repstate&amp;site=66118572&amp;imageUrl=http://www.4jobs.com/Common/Images/LiveHelp/ChannelHelp/&amp;ver=1" name="hcIcon" border="0"></a></td></tr></tbody></table></td></tr></tbody></table>
-		
-		<table cellpadding="10" cellspacing="0" width="100%" border="0">
-		  <tbody><tr>
-		    <td valign="top" height="100%">
-    
-    
-			<!-- Main Body Start -->
-			
-			<!-- USER MESSAGE -->
-			
-			<!-- END USER MESSAGE -->
-				
-				
-
-
-<table cellpadding="5" cellspacing="0" border="0" align="left">
-  <tbody><tr>
-    <td align="left"><a href="/MKT/Content/JS/Default.asp">Jobseeker Home</a>
-    &nbsp;&nbsp;<a href="/JS/Content/Testimonials.asp">Testimonials</a>
-    &nbsp;&nbsp;<a href="/JS/Form/SignUpForm.asp">Get Started</a>
-    <!--&nbsp;&nbsp;<a href="/MKT/Content/JS/Portfolio.asp">Portfolio</a>
-    &nbsp;&nbsp;<a href="/MKT/Content/JS/RDS.asp">Resume Distribution</a>
-    &nbsp;&nbsp;<a href="/MKT/Content/JS/Website.asp">Personal Website</a>
-    &nbsp;&nbsp;<a href="/MKT/Content/JS/Alerts.asp">AutoMatch</a>--></td>
-  </tr>
-</tbody></table>
-
-<br><br>
-
-      <table class="tblbgcolor" cellspacing="0" cellpadding="0" border="0">
-        <tbody>
-        <tr>
-		  <td width="10"><font face="Verdana"><img height="1" src="/Common/Images/blank.gif" width="10"></font></td>
-          <td valign="top"><br><font size="3"><b>Privacy Policy</b></font></td>
-          <td width="10"><font face="Verdana"><img height="1" src="/Common/Images/blank.gif" width="10"></font></td>
-        </tr>
-       
-        <tr>
-          <td valign="top" colspan="3"><font face="Verdana"><img height="8" src="/Common/Images/blank.gif" width="1"></font></td>
-        </tr>
-            
-        <tr>
-          <td width="10"><font face="Verdana"><img height="1" src="/Common/Images/blank.gif" width="10"></font></td>
-          <td class="body" valign="top">
-
-			<p><font face="Verdana"> If you have questions or concerns regarding this statement, please 
-			contact us. 
-			<br><br>Please take a minute to read 
-			      the following policy so you understand how we use the personal information 
-			      we ask you to submit. As we update and expand our services, this policy 
-			      may change, so please refer back to it periodically. If you use any of our 
-			      services, you agree to these terms.</font> 
-			</p><p>
-			<table align="center" border="0" cellpadding="0" cellspacing="0" cols="1" width="95%">
-
-			  <tbody><tr valign="bottom">
-			    <td><img height="9" alt="" hspace="3" src="/Common/Images/arrowright.gif" width="6" border="0"><font face="verdana, helvetica, sans-serif">&nbsp;<a href="#collection">Collection 
-			      and Use of Information</a></font></td></tr>
-			  <tr valign="bottom">
-			    <td><img height="9" alt="" hspace="3" src="/Common/Images/arrowright.gif" width="6" border="0"> <font face="verdana, helvetica, sans-serif"><a href="#viewinginfo"> 
-			       Viewing and Updating Your Information</a></font></td></tr>
-			  <tr valign="bottom">
-			    <td><img height="9" alt="" hspace="3" src="/Common/Images/arrowright.gif" width="6" border="0"> <font face="verdana, helvetica, sans-serif"><a href="#cookies">Cookies</a></font></td></tr>
-			  <tr valign="bottom">
-			    <td><img height="9" alt="" hspace="3" src="/Common/Images/arrowright.gif" width="6" border="0"> <font face="verdana, helvetica, sans-serif"><a href="#logfiles">Log Files</a></font></td></tr>
-			  <tr valign="bottom">
-			    <td><img height="9" alt="" hspace="3" src="/Common/Images/arrowright.gif" width="6" border="0"> <font face="verdana, helvetica, sans-serif"><a href="#links">Links</a></font></td></tr>
-			  <tr valign="bottom">
-			    <td><img height="9" alt="" hspace="3" src="/Common/Images/arrowright.gif" width="6" border="0"> <font face="verdana, helvetica, sans-serif"><a href="#recommend">Recommend A Friend or Colleague</a></font></td></tr>
-			  <tr valign="bottom">
-			    <td><img height="9" alt="" hspace="3" src="/Common/Images/arrowright.gif" width="6" border="0"> <font face="verdana, helvetica, sans-serif"><a href="#security">Security 
-			      and Access</a></font></td></tr>
-
-			  <tr valign="bottom">
-			    <td><img height="9" alt="" hspace="3" src="/Common/Images/arrowright.gif" width="6" border="0"> <font face="verdana, helvetica, sans-serif"><a href="#children">Children</a></font></td></tr>
-			      
-			  <tr valign="bottom">
-			    <td><img height="9" alt="" hspace="3" src="/Common/Images/arrowright.gif" width="6" border="0"> <font face="verdana, helvetica, sans-serif"><a href="#notify">Notification of Changes</a></font></td></tr>
-
-			  <tr valign="bottom">
-			    <td><img height="9" alt="" hspace="3" src="/Common/Images/arrowright.gif" width="6" border="0"> <font face="verdana, helvetica, sans-serif"><a href="#contact">Contact</a></font></td></tr>
-			</tbody></table>
-			</p><p>
-			</p><hr noshade="" size="1" width="100%">
-			<p><font face="verdana, helvetica, sans-serif" size="3"><b>Collection and Use of 
-			Information</b></font><br><font face="verdana, helvetica, sans-serif">
-			</font></p><p><font face="verdana, helvetica, sans-serif">When you register with this site or one of its 
-			      affiliated web sites, we ask you for personal information. We use this 
-			      information to process your requests and to communicate with you about the 
-			      status of your requests. For example, if you request additional information 
-            on other services, such as continuing education or student loan consolidation, 
-            we will share your information solely as is necessary to process your request.              
-            We may also use your email address to send you 
-			      newsletters you are subscribed to during registration, as well as messages 
-			      about any special offers, promotional announcements and consumer surveys.
-			      </font></p><p><font face="verdana, helvetica, sans-serif">We are the sole owners of the information collected on this site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  We collect information from our users at several different points on our website.
-			When you first register with us, we ask 
-			for your email address and a password. At this time, we may subscribe you to 
-			various email publications. You can unsubscribe at any time. 
-			</font></p><p><font face="verdana, helvetica, sans-serif">We also offer an Associate program, 
-			where associate members direct customers to the network through links 
-			on their Web sites. We ask associates for their site name (URL), mailing 
-			address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a 
-			site will be included in our network. The information collected from our affiliates 
-			is used strictly for that program; none of this information is 
-			used for general marketing purposes.&nbsp;
-			<br><br>
-			In some
-cases our software and web site are utilized by our partners in a joint venture
-via their web community.  In these cases,
-the information collected on our site is available to both companies.
-
-
-			</font>&nbsp; 
-			</p><p><img height="5" alt="" hspace="0" src="/Common/Images/arrowup.gif" width="8" vspace="1" border="0"> <font face="verdana, helvetica, sans-serif" size="-2"><a href="#top">Back to 
-			top</a></font>
-			</p><p> 
-			</p><hr noshade="" size="1" width="100%">
-
-			<p><a name="viewinginfo"></a>&nbsp;</p>
-			<p><font face="verdana, helvetica, sans-serif" size="3"><b>Viewing and Updating Your Information on 
-			the Network</b></font> 
-			</p><p><font face="verdana, helvetica, sans-serif">You always have complete access to the information you have 
-			provided to the network. You can make changes to this information to update your account 
-			anytime.</font> 
-			</p><p><img height="5" alt="" hspace="0" src="/Common/Images/arrowup.gif" width="8" vspace="1" border="0"> <font face="verdana, helvetica, sans-serif" size="-2"><a href="#top">Back to 
-			top</a></font> 
-			</p><p>
-			</p><hr noshade="" size="1" width="100%">
-
-			<p><a name="cookies"></a>&nbsp;</p>
-			<p><font face="verdana, helvetica, sans-serif" size="3"><b>Cookies</b></font> 
-			</p><p><font face="verdana, helvetica, sans-serif">In general, we have limited use of cookies.&nbsp; As you browse areas of this site, cookies may 
-			be placed on your computer’s hard drive. (Cookies are small pieces of data that 
-			are sent to your browser from a Web server and stored on your hard drive.) 
-			Cookies allow us to track your account so you 
-			don’t need to retype the information each time you visit our site. 
-			</font></p><p><font face="verdana, helvetica, sans-serif">Our advertisers may also serve cookies when users click on the ad banners on this 
-			site. We do not have access to any personal information 
-			gathered by advertisers.</font> 
-			</p><p><img height="5" alt="" hspace="0" src="/Common/Images/arrowup.gif" width="8" vspace="1" border="0"> <font face="verdana, helvetica, sans-serif" size="-2"><a href="#top">Back to 
-			top</a></font>
-			</p><p> 
-			</p><hr noshade="" size="1" width="100%">
-
-			<p><a name="logfiles"></a>&nbsp;</p>
-			<p><strong><font face="Verdana" size="3">Log Files</font></strong>&nbsp; 
-			</p><p><font face="verdana, helvetica, sans-serif">We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information.
-			</font></p><p><font face="verdana, helvetica, sans-serif"><img height="5" alt="" hspace="0" src="/Common/Images/arrowup.gif" width="8" vspace="1" border="0"> <font face="verdana, helvetica, sans-serif" size="-2"><a href="#top">Back to 
-			top</a></font> 
-			</font></p><p><font face="verdana, helvetica, sans-serif">
-			</font></p><hr noshade="" size="1" width="100%"><font face="verdana, helvetica, sans-serif">
-
-			<p><a name="links"></a>&nbsp;</p>
-			<p><font face="Verdana" size="3"><b>Links</b></font>
-			</p><p>This web 
-			site contains links to other sites. Please be aware that we are not 
-			responsible for the privacy practices of such other sites.&nbsp; We encourage our users to be aware when 
-			they leave our site and to read the privacy statements of each and every web 
-			site that collects personally identifiable information. This privacy statement applies solely to 
-			information collected by this web site.                 
-			           
-			  
-			</p><p><img height="5" alt="" hspace="0" src="/Common/Images/arrowup.gif" width="8" vspace="1" border="0"> <font face="verdana, helvetica, sans-serif" size="-2"><a href="#top">Back to 
-			top</a></font>
-			</p><p> 
-			</p><hr noshade="" size="1" width="100%">
-
-			<p><a name="recommend"></a>&nbsp;</p>
-			<p><font face="Verdana" size="3"><b>Recommend a Friend or Colleague</b></font>
-			</p></font><p><font face="verdana, helvetica, sans-serif">If a user elects to use our referral 
-			service for informing a friend or 
-			colleague about our site, we ask them for the friend's name and email address. We will automatically send the friend an email inviting them to visit the site or review the content selected by a user. We then store this information in our databases. The friend may contact us to request that we remove this information at any time.             
-			           
-			  </font> 
-			</p><p><img height="5" alt="" hspace="0" src="/Common/Images/arrowup.gif" width="8" vspace="1" border="0"> <font face="verdana, helvetica, sans-serif" size="-2"><a href="#top">Back to 
-			top</a></font>
-			</p><p> 
-			</p><hr noshade="" size="1" width="100%">
-
-			<p><a name="security"></a>&nbsp;</p>
-			<p><font><font face="verdana, helvetica, sans-serif"><b>Security and Access</b></font> 
-			</font> 
-			</p><p><font face="Verdana">We have implemented technology 
-			and security features, as well as strict internal guidelines, to safeguard the 
-			privacy of your personal information from unauthorized access or improper use. 
-			We will continue to enhance our security procedures as new technology becomes 
-			available. While we make every effort to ensure that your information is secure 
-			on our system, no data transmission over the Internet can be guaranteed to be 
-			100% secure. As a result, we cannot guarantee the security of any information 
-			you transmit to us, and you do so at your own risk. 
-			      </font></p><p><font face="Verdana">When you place an order online at Beyond.com, your credit card 
-			      information is protected through the use of encryption, such as the Secure 
-			      Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card 
-			      information to be intercepted or stolen while being transmitted. Artemis 
-			      HR uses a service company to process its credit card 
-			      transactions.</font></p><font face="Verdana"><font face="Verdana"><font>           
-			  
-			</font></font><p><font face="Verdana"><font>Users should not post personal information to any site 
-			if they are uncomfortable with the security of the site.&nbsp; If you have any 
-			questions, please contact us.         
-			        <br><br></font></font><img height="5" alt="" hspace="0" src="/Common/Images/arrowup.gif" width="8" vspace="1" border="0"> <font face="verdana, helvetica, sans-serif" size="-2"><a href="#top">Back to 
-			top</a></font>
-			</p><p> 
-			</p><hr noshade="" size="1" width="100%">
-			
-			<p><a name="children"></a>&nbsp;</p>
-			<p><font face="Verdana" size="3"><b>Children</b></font>
-			</p></font><p><font face="Verdana"><font face="Verdana">
-			 This site is not intended for children under 13 years of age and we do not knowingly or specifically collect information about children. This site does not and will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
-We believe that children should get their parents' consent before giving out personal information. If you are concerned about your child's use of this site, we encourage you to use web-filtering technology to supervise your child's access to the site.  For children 14 and up (high-school age), we also encourage you to participate in your child's experience with our site. With a little guidance, this site can prove very useful in finding a part-time or summer job for your child, as well as providing them with excellent career counseling information.
-       
-			  </font></font> 
-			</p><p><img height="5" alt="" hspace="0" src="/Common/Images/arrowup.gif" width="8" vspace="1" border="0"> <font face="verdana, helvetica, sans-serif" size="-2"><a href="#top">Back to 
-			top</a></font>
-
-			
-			</p><p> 
-			</p><hr noshade="" size="1" width="100%">
-
-			<p><a name="notify"></a>&nbsp;</p>
-			<p><font><strong><font face="Verdana">Notification of 
-			Changes</font></strong>&nbsp; 
-			</font> 
-			</p><p><font face="verdana, helvetica, sans-serif">                                                    If we decide to change our privacy policy, we will post those changes&nbsp;here&nbsp;so our users are always aware of what information we  collect, how we use it, and under what circumstances, if any, we disclose it. If at any point you have questions or concerns about Beyond.com's privacy policy, please feel free to contact us. </font>
-			</p><p><img height="5" alt="" hspace="0" src="/Common/Images/arrowup.gif" width="8" vspace="1" border="0"> <font face="verdana, helvetica, sans-serif" size="-2"><a href="#top">Back to 
-			top</a></font>
-			</p><p> 
-			</p><hr noshade="" size="1" width="100%">
-
-			<p><a name="contact"></a>&nbsp;</p>
-			<p><font><font face="verdana, helvetica, sans-serif"><b>Contact</b></font> </font> 
-			</p><p><font face="verdana, helvetica, sans-serif">If you have questions 
-			concerning your account&nbsp;or this privacy policy, please contact us. </font>
-			</p><p><img height="5" alt="" hspace="0" src="/Common/Images/arrowup.gif" width="8" vspace="1" border="0"> <font face="verdana, helvetica, sans-serif" size="-2"><a href="#top">Back to 
-			top</a></font>
-			</p><p> 
-			</p><hr noshade="" size="1" width="100%">
-
-			<br><br><!-- CONTENT ENDS HERE -->
-
-
-          </td>
-          <td width="10"><img height="1" src="/Common/Images/blank.gif" width="10"></td></tr>
-            
-        <tr>
-          <td valign="top" colspan="3"><img height="12" src="/Common/Images/blank.gif" width="1"></td>
-        </tr>
-        </tbody></table><!--End Content	-->
-<br>
-
-
-<table cellpadding="5" cellspacing="0" border="0" align="left">
-  <tbody><tr>
-    <td align="left"><a href="/MKT/Content/JS/Default.asp">Jobseeker Home</a>
-    &nbsp;&nbsp;<a href="/JS/Content/Testimonials.asp">Testimonials</a>
-    &nbsp;&nbsp;<a href="/JS/Form/SignUpForm.asp">Get Started</a>
-    <!--&nbsp;&nbsp;<a href="/MKT/Content/JS/Portfolio.asp">Portfolio</a>
-    &nbsp;&nbsp;<a href="/MKT/Content/JS/RDS.asp">Resume Distribution</a>
-    &nbsp;&nbsp;<a href="/MKT/Content/JS/Website.asp">Personal Website</a>
-    &nbsp;&nbsp;<a href="/MKT/Content/JS/Alerts.asp">AutoMatch</a>--></td>
-  </tr>
-</tbody></table>
-
-<br><br>
-
-				<!-- Main Body End -->
-			</td>
-		  </tr>
-		</tbody></table>
-	
-	</td>
-
-    <!-- include virtual="/MKT/General/Nav.asp" -->
- 
-  </tr>
-</tbody></table>
-
-
-	</td>
-  </tr>
-</tbody></table>
-
-
-  <table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" width="100%">
-    <tbody><tr>
-      <td>	
-  	<table border="0" bgcolor="#FFFAE0" cellpadding="0" cellspacing="0" width="100%" align="center">
-  	<tbody><tr>	
-  		<td colspan="5"><img height="1" src="/common/Images/HR.gif" width="100%"></td>	
-  	</tr>
-  
-  
-  	  <tr height="22" valign="middle">
-  	  <td width="15">&nbsp;</td>
-  	  <td align="left" valign="middle">	
-  				<font size="1">	
-  					
-  				</font>	
-  	  </td>
-  	  <td align="right">
-  		<font size="1">
-  	  CollegeRecruiter.com : Careers
-  	  </font>
-  	  </td>
-  	  <td width="3" colspan="2">&nbsp;</td>
-  	  </tr>
-  
-  	<tr>	
-  		<td colspan="5"><img height="1" src="/common/Images/HR.gif" width="100%"></td>	
-  	</tr>
-  	</tbody></table>
-      </td>
-    </tr>
-    <tr bgcolor="#000000" height="10">
-      <td>&nbsp;</td>
-    </tr>
-  	
-  </tbody></table>
-
-
-</td></tr></tbody></table>
-
-<div class="free_links">
-<a href="http://jobs.collegerecruiter.com/JS/Form/SearchForm.asp?alert=y">FREE Receive new job postings by e-mail</a>&nbsp;&nbsp;&nbsp;   <a href="http://jobs.collegerecruiter.com/JS/CareerResources/Consultation/">FREE Career consultation</a>&nbsp;&nbsp;&nbsp;   <a href="http://jobs.collegerecruiter.com/JS/CareerResources/ResWriting/?id=%20Resume%20Writing">FREE Resume writing help</a>&nbsp;&nbsp;&nbsp;   <a href="http://jobs.collegerecruiter.com/JS/Form/SignUpForm.asp">FREE Career Newsletter</a>&nbsp;&nbsp;&nbsp;   <a href="http://www.collegerecruiter.com/pages/student-loans-debt-consolidation.php">Got Student Loans?</a>&nbsp;&nbsp;&nbsp;   
-<a href="http://4jobs.com/JS/Form/PreChatIDForm.asp">LIVE HELP!</a>
-</div>
-
-<div class="bottom">
-<a href="http://www.collegerecruiter.com/pages/aboutus.php">About Us</a> | 
-<a href="http://jobs.collegerecruiter.com/JS/Form/ContactUsForm.asp">Contact Us</a> |  
-<a href="http://www.collegerecruiter.com/pages/press-room.php">Press Room</a> |  
-<a href="http://www.collegerecruiter.com/pages/affiliateinfo.php">Affiliate Program</a> |  
-<a href="http://jobs.collegerecruiter.com/MKT/Content/JS/default.asp?pg=privacy">Privacy Policy</a> |  
-<a href="http://jobs.collegerecruiter.com/MKT/Content/JS/default.asp?pg=terms">Terms of Service</a><br>
-© Copyright 1996-2006 <a href="http://www.collegerecruiter.com/">CollegeRecruiter.com</a>  All rights reserved. <a href="http://www.collegerecruiter.com/pages/urllist.php">Site Map</a>
-<br>
-
-<font size="1">Beyond.com <a href="http://www.beyond.com/Content/PortalOverview.asp?hn=y&amp;src=CollegeRecruiter">Career Portal Software</a>. © Copyright 2001-2006 <a href="http://www.beyond.com/content/AboutUs.asp?hn=y&amp;src=CollegeRecruiter">Beyond.com,</a> Inc.</font><br>
-<img src="/common/Images/PoweredBy.gif"><br><br>
-</div>
-
-</td></tr></tbody></table>
-
-
-
-
-
-</div></div></div></td></tr></tbody></table></td></tr></tbody></table></body></html>
+</body></html>
