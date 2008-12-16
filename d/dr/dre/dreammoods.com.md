@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreammoods.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612143416id_/http%3A//www.dreammoods.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammoods.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216052619id_/http%3A//www.dreammoods.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Dream Moods: Privacy Statement
 
@@ -22,9 +22,3 @@ Note also that when using the discussion forums, a "cookie" will be placed on yo
 
   
 **Contacting The Web Site** : If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [privacy@dreammoods.com](mailto:contact@dreammoods.com).
-
-|  **
-
-advertisement
-
-**
