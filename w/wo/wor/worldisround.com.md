@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldisround.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409032544id_/http%3A//www.worldisround.com/privacy.html%3Ff) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldisround.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170329id_/http%3A//www.worldisround.com/privacy.html%3Ff) for the most accurate reproduction.*
 
 # Privacy Policy on Worldisround
 
@@ -70,4 +70,4 @@ We may use your e-mail address to contact you for administrative purposes or to 
 Exception
      One exception to this policy is that we will release specific information about you or your account to comply with any reasonable, valid legal process such as a search warrant, subpoena, statute or court order. 
 Ask us Questions
-     In writing this policy we are trying to be honest, straightforward, complete, and legal all at the same time. If any of these items seems vague or worrisome, please e-mail us at [_info@_ _worldisround.com_](mailto:info@worldisround.com) for clarification. 
+     In writing this policy we are trying to be honest, straightforward, complete, and legal all at the same time. If any of these items seems vague or worrisome, please e-mail us at for clarification. 
