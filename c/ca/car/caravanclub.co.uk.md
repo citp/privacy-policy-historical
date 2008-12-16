@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the caravanclub.co.uk privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630075302id_/http%3A//www.caravanclub.co.uk/General/Footer/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caravanclub.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012441id_/http%3A//www.caravanclub.co.uk/General/Footer/Privacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Caravan Club Limited, company number 646027,  registered office is Rotherwick House, 3 Thomas More Street, London E1W 1YX and the correspondence address is East Grinstead House, London Road, East Grinstead, West Sussex, RH19 1UA, United Kingdom ('The Caravan Club') has developed this privacy policy as we understand that the privacy and security of your personal information is an important issue to you.
+The Caravan Club Limited, company number 646027, the registered office and correspondence address is East Grinstead House, London Road, East Grinstead, West Sussex, RH19 1UA, United Kingdom ('The Caravan Club') has developed this privacy policy as we understand that the privacy and security of your personal information is an important issue to you.
 
 This privacy policy explains what personal information we will collect from you and how it will be used.
 
@@ -86,8 +86,7 @@ The Caravan Club website provides links to other websites that offer products, s
 
 ## Direct marketing
 
-You have the right under the 1998 Act to request that we do not process your personal data for the purposes of direct marketing. If you would prefer that we cease to send you direct marketing information please write to Membership  
-Services at The Club’s address below or call 01342 318 813.
+You have the right under the 1998 Act to request that we do not process your personal data for the purposes of direct marketing. If you would prefer that we cease to send you direct marketing information please write to Membership Services at The Club’s address below or call 01342 318 813.
 
 Please note that if you make such a request, you will continue to receive communications relating to the administration of your membership and any services purchased.
 
