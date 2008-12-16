@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the sharewareplaza.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529092249id_/http%3A//www.sharewareplaza.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharewareplaza.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216172337id_/http%3A//www.sharewareplaza.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy & Copyright - SharewarePlaza.com
+
+**********************Spotlight**
+
+**********************Popular Video Converter**
 
 [Home](http://www.sharewareplaza.com/) » **Privacy Policy & Copyright**
 
