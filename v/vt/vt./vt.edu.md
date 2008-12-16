@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vt.edu privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212182013id_/http%3A//www.vt.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vt.edu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154719id_/http%3A//www.vt.edu/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Virginia Tech
 
-Virginia Tech has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web page: www.vt.edu
+Virginia Tech has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web page: www.vt.edu.
 
 ## Information Automatically Logged
 
@@ -34,8 +34,11 @@ This site contains links to other sites. Virginia Tech is not responsible for th
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Log file access is restricted to system administrators while stored on the server. Log files are rotated regularly and archived in a secure location. User and password information, if requested, is encrypted before it is transmitted across the network.
 
-Users should also consult Virginia Tech's policy on Acceptable Use. <http://www.policies.vt.edu/7000.pdf> Virginia Tech complies with all statutory and legal requirements with respect to access to information.
+Users should also consult [Virginia Tech's policy on Acceptable Use](http://www.policies.vt.edu/7000.pdf). (PDF) Virginia Tech complies with all statutory and legal requirements with respect to access to information.
 
-## Contacting the Web Site
+## Contacting the Website
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@vt.edu](mailto:webmaster@vt.edu).
+
+  
+
