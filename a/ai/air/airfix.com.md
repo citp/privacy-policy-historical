@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfix.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514130137id_/http%3A//www.airfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfix.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024026id_/http%3A//www.airfix.com/privacy-policy) for the most accurate reproduction.*
 
 # Scale Plastic Model Kits by Airfix
 
@@ -71,4 +71,4 @@ In all cases this information will only be used for the stated purpose for which
 
 The data is collected so that we can send you news and other information which is relevant to your needs and interests.
 
-If you have any concerns regarding the data held about you by the Hornby Hobbies web site, please [**Contact Us**](https://web.archive.org/contact-us/ "Contact Us").
+If you have any concerns regarding the data held about you by the Airfix web site, please [**Contact Us**](https://web.archive.org/contact-us/ "Contact Us").
