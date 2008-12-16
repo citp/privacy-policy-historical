@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608141031id_/http%3A//www.lilypie.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216211434id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Lilypie : Privacy Policy
 
 **OVERVIEW**  
-Lilypie.com allows you to set up a Wishlist, receive newsletters, and use the Lilypie Baby ticker. We use the information that we collect about you to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This Policy may change from time to time, so please check back periodically.
+In this Privacy Policy, "us", "we" or "our" means Lilypie.com (ABN 72 866 880 115). Lilypie.com allows you to set up a Wishlist, receive newsletters, and use the Lilypie Baby ticker. We use the information that we collect about you to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This Policy may change from time to time, so please check back periodically.
 
 Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
 
@@ -65,8 +65,10 @@ TOP
   6. **Contacting Lilypie.com about privacy questions or concerns**  
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [Contact us](https://web.archive.org/contact.php)   
 TOP
+  
+
   7. **Privacy Policy changes**  
-This Privacy Policy was last changed on November 10, 2006. If Lilypie.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
+This Privacy Policy was last changed on November 16, 2008. If Lilypie.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
 
   
 ---  
