@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the villman.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212083134id_/http%3A//villman.com/products/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villman.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153327id_/http%3A//www.villman.com/Privacy.php) for the most accurate reproduction.*
 
-# VillMan Computer Systems, Inc.
-
-  
-**Private Policy**
+# Privacy Policy | VillMan Computers
 
 VillMan Computer Systems, Inc. (VCSi) is committed to protecting your right to privacy. In keeping with that commitment, we are providing you with details about the information we collect while doing business. 
 
