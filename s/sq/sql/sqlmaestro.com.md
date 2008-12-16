@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517100255id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021507id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
-# Database admin tools for MySQL, Oracle, SQL Server, DB2, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
+# Database admin tools for MySQL, Oracle, SQL Server, DB2, SQL Anywhere, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
 
 Subscribe to our newsletter 
 
@@ -61,4 +61,31 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 | 
 
+|  [](http://www.sqlmaestro.com/purchase/)|  SQL Maestro  
+Group team wishes you **Merry Christmas!**  
+---|---  
+We're happy to grant you the [**25% discount**](http://www.sqlmaestro.com/purchase/) for all our products and bundles till **December  31!**
+
+Company news[](http://www.sqlmaestro.com/rss.xml)
+
+Dec 15, 2008
+
+New version features significantly improved Visual Query Builder, master-detail data views, lookup editors and more.
+
+Dec 3, 2008
+
+Introduces support for OS authentication, autoincrement columns, some of Oracle 11g new features, and a lot of significantly improved GUI tools.
+
+Nov 12, 2008
+
+New version provides support for transparent database encryption, remote database management extensions and some interface improvements.
+
 Feature of the day
+
+[](http://www.sqlmaestro.com/products/sqlite/phpgenerator/screenshots/common/example_custom_settings/)
+
+PHP Generator allows you to customize the HTML appearance of the result scripts along with header and footer. 
+
+[](http://www.sqlmaestro.com/products/firebird/codefactory/screenshots/getting_started/diagram_viewer/)
+
+Firebird Code Factory allows you to represent numeric data from a query result as a diagram with a possibility of customizing its appearance and export the diagram to the following formats: BMP, Windows metafile, PDF, JPEG, PNG and more. 
