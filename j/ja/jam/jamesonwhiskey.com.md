@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesonwhiskey.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511234217id_/http%3A//www.jamesonwhiskey.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesonwhiskey.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014256id_/http%3A//www.jamesonwhiskey.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Jameson Irish Whiskey Distilleries Privacy Policy
 
@@ -6,7 +6,7 @@ You should not use this website if you are not of legal drinking age in your cou
 
 At Jameson, we are committed to ensuring your privacy as a customer. You can be confident that Jameson does not sell or exchange names, or any other information about our online customers with third parties and that appropriate safeguards have been put in place to protect any personal information we may collect.
 
-As a visitor to [www.jamesonwhiskey.com](https://web.archive.org/web/20080511234217id_/http%3A//www.jamesonwhiskey.com/sitemap.php), our website automatically recognises your Internet service provider, but you cannot be identified as an individual. We will only use information collected to improve your overall experience at [www.jamesonwhiskey.com](https://web.archive.org/web/20080511234217id_/http%3A//www.jamesonwhiskey.com/sitemap.php) if you consent to such use.
+As a visitor to [www.jamesonwhiskey.com](https://web.archive.org/web/20081216014256id_/http%3A//www.jamesonwhiskey.com/sitemap.php), our website automatically recognises your Internet service provider, but you cannot be identified as an individual. We will only use information collected to improve your overall experience at [www.jamesonwhiskey.com](https://web.archive.org/web/20081216014256id_/http%3A//www.jamesonwhiskey.com/sitemap.php) if you consent to such use.
 
 We also keep track of information volunteered during the order and registration processes - and we keep this information confidential. In an effort to offer you the best - and most current - membership opportunities, we may contact you with news about Jameson discounts and events. When you give us your details we will ask you if you would like to receive such information. Any information will only be sent to you when you indicate consent to receiving it.
 
@@ -14,4 +14,4 @@ You are entitled to know what personal information we hold about you and to have
 
 Our policy may change as the website develops in order to take advantage of technological developments. We therefore encourage users to check our policy on a regular basis.
 
-[Back](https://web.archive.org/web/20080511234217id_/http%3A//www.jamesonwhiskey.com/index.php)
+[Back](https://web.archive.org/web/20081216014256id_/http%3A//www.jamesonwhiskey.com/index.php)
