@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509105010id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015018id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
 
 # mtvU.com
 
@@ -163,5 +163,5 @@ Copyright © 2007 MTV Networks On Campus Inc., a subsidiary of Viacom Internatio
   
  
 
-|  |  [](https://www.citicards.com/cards/acq/Apply.do?app=COLLEGE&sc=4C7CW357&m=D0MT000006W&langId=EN&siteId=CB&B=V&screenID=3002)   
+|  |  [](http://citicards.mtvu.com/)   
  
