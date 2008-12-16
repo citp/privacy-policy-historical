@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the totalfrance.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606004047id_/http%3A//www.totalfrance.com/france/help.php%3Fpick%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalfrance.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045557id_/http%3A//www.totalfrance.com/france/help.php%3Fpick%3Dprivacy) for the most accurate reproduction.*
 
 # Help
 
 Total France is very concerned about privacy issues. Please read the following: 
 
-**Cookies** We do not use cookies to obtain or transmit personal information about you. Our cookies simply record data such as your language preference, your login status, and other site-specific information to enhance your experience of using Total France. This cookie information is stored on **your** computer, not on ours. Cookies do not gather personal information. See more [cookie information here](https://web.archive.org/web/20080606004047id_/http%3A//www.totalfrance.com/france/help.php?pick=cookies). 
+**Cookies** We do not use cookies to obtain or transmit personal information about you. Our cookies simply record data such as your language preference, your login status, and other site-specific information to enhance your experience of using Total France. This cookie information is stored on **your** computer, not on ours. Cookies do not gather personal information. See more [cookie information here](https://web.archive.org/web/20081216045557id_/http%3A//www.totalfrance.com/france/help.php?pick=cookies). 
 
 **IP address** We collect, keep, and publish your IP address on your posted adverts. We do this to help protect all users from fraudulent postings and spam. 
 
@@ -17,3 +17,19 @@ Total France is very concerned about privacy issues. Please read the following:
 _Lost Password_ link). 
 
 **Other sites** Certain ads and forum postings may contain links to other websites ... our Links page certainly will. Total France cannot be held responsible either for the content or for the privacy practices of any other web sites. 
+
+TotalFrance.com is owned by: 
+
+Horizon New Media Ltd  
+2 Queens Parade,  
+BATH  
+BA1 2NJ  
+UK
+
+Tel: +44 (0)1225 463752 (Enquiries)  
++44 (0)1280 813111 (Accounts)
+
+email: [info@horizonnewmedia.com](mailto:info@horizonnewmedia.com)  
+web: [www.horizonnewmedia.com](http://www.horizonnewmedia.com/)
+
+Registered in England No. 2814734 
