@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypyramid.gov privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611020100id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypyramid.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012026id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # FOIA Privacy Policy
 
@@ -29,6 +29,14 @@ If you do nothing during your visit but browse through the website, read pages, 
 5\. If you linked to the U.S. Department of Agriculture website from another website, the address of that website. 
 
 We use this information to help us make our site more useful to visitors - to learn about the number of visitors to our site and the types of technology our visitors are using. We do not track or record information about individuals and their visits.   
+  
+| Cookies  
+  
+| 
+
+When you visit some websites, their web servers generate pieces of information known as cookies. Some cookies collect personal information to recognize your computer in the future. This is not the case at USDA.gov, where we only use non-persistent cookies or "per-session cookies." These cookies do not collect personal information on users and they are erased as soon as you leave our website. 
+
+Per-session cookies serve technical purposes, like providing seamless navigation through USDA.gov. These cookies do not permanently record data and they are not stored on your computer's hard drive. USDA.gov's cookies are stored in memory and are only available during an active browser session. Again, once you close your browser, the cookie disappears.   
   
 | You Send Us Personal Information  
   
@@ -78,6 +86,16 @@ The E-Government Act requires that agencies conduct privacy impact assessments f
 A PIA is an analysis of how information is handled: (i) to ensure handling conforms to applicable legal, regulatory, and policy requirements regarding privacy, (ii) to determine the risks and effects of collecting, maintaining and disseminating information in identifiable form in an electronic information system, and (iii) to examine and evaluate protections and alternative processes for handling information to mitigate potential privacy risks. 
 
   * [Link to USDA electronic information systems Privacy Impact Assessments (PIA):](https://web.archive.org/wps/portal/!ut/p/_s.7_0_A/7_0_1OB?navid=PRIVACY_POLICY_ES)
+
+  
+  
+| Machine-Readable Privacy Policies (P3P)  
+  
+| 
+
+The Privacy Provisions of the E-Government Act of 2002 require agencies to have both a 'human readable' Privacy Policy and machine readable technology that automatically alerts users about whether site privacy practices match their personal privacy preferences. P3P is the standard for machine-readable Privacy Policy. 
+
+  * [Learn more here:](http://www.usa.gov/webcontent/reqs_bestpractices/laws_regs/privacy_p3p.shtml "Link opens in new window")
 
   
   
