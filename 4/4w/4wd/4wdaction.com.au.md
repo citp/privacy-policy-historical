@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wdaction.com.au privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412193248id_/http%3A//www.4wdmonthly.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wdaction.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014438id_/http%3A//www.4wdaction.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Australian 4WD Monthly dedicated to 4WD, 4x4, SUV, Truck, 4 wheel drive and off road community, loaded with tips, tests, reviews, travel, gallery and forum
 
@@ -66,4 +66,4 @@ Phone: +61 2 9741 3800
 
 2 Stanley Street Silverwater NSW 2128 
 
-Also read our [Safety Tips ](https://web.archive.org/web/20080412193248id_/http%3A//www.4wdmonthly.com.au/safety_tips.php) and [Terms and Conditions uf use](https://web.archive.org/web/20080412193248id_/http%3A//www.4wdmonthly.com.au/conditions_of_use.php)
+Also read our [Safety Tips ](https://web.archive.org/web/20081216014438id_/http%3A//www.4wdaction.com.au/safety_tips.php) and [Terms and Conditions uf use](https://web.archive.org/web/20081216014438id_/http%3A//www.4wdaction.com.au/conditions_of_use.php)
