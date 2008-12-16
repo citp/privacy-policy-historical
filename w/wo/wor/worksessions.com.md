@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worksessions.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211194500id_/http%3A//www.worksessions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksessions.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155226id_/http%3A//www.worksessions.com/privacy_policy.html) for the most accurate reproduction.*
 
 # WorkSessions - Privacy Policy
 
@@ -10,7 +10,7 @@
   
 Apply now to download new and exclusive songs.   
   
-## [**Record Labels**](http://www.worksessions.com/record_labels.html)
+## [**Record Labels**](http://www.worksessions.com/record_labels/)
 
   
 Upload songs and instantly achieve worldwide airplay.   
@@ -18,12 +18,12 @@ Upload songs and instantly achieve worldwide airplay.
 ## [**Charts**](http://www.worksessions.com/charts.html)
 
   
-Top ten promoted tracks updated in realtime.   
+View the top ten promoted songs updated in realtime.   
   
 ## [**Contact Us**](http://www.worksessions.com/contact_us.html)
 
   
-Submit feedback.   
+Submit questions, comments and feedback.   
 | 
 
 This is the website of the WorkSessions Digital Record Pool located online at http://www.worksessions.com. WorkSessions is abbreviated as "we" and "us" in the following privacy policy. 
