@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2008-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080331131907id_/http%3A//www.imnewswatch.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170210id_/http%3A//www.imnewswatch.com/Privacy.html) for the most accurate reproduction.*
 
 # Internet Marketing NewsWatch - PRIVACY POLICY
 
@@ -135,7 +135,7 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 **CONTACT INFORMATION**
 
 support AT imnewswatch DOT com  (replace “AT” with @ and replace DOT with “.”)  
-The Internet Marketing Profits Center, Inc.  
+Nroo, Inc.  
 doing business as [www.imnewswatch.com](http://www.imnewswatch.com/) 
 
 **COPYRIGHT AND LICENSE  **  
