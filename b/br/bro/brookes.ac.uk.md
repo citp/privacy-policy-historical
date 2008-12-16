@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookes.ac.uk privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527050925id_/http%3A//www.brookes.ac.uk/about/structure/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookes.ac.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216034705id_/http%3A//www.brookes.ac.uk/about/structure/policies/privacy) for the most accurate reproduction.*
 
 # Privacy policy — Oxford Brookes University
 
