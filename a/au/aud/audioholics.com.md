@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the audioholics.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612065205id_/http%3A//www.audioholics.com/groups/admin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioholics.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013204id_/http%3A//www.audioholics.com/groups/admin/privacy) for the most accurate reproduction.*
 
-# Privacy — Audioholics Home Theater Reviews and News
+# Privacy — Reviews and News from Audioholics
 
 Audioholics has created this statement in order to communicate our firm commitment to privacy. We have taken the proper measures to ensure that your experience with us is safe, secure and enjoyable. This statement details our information gathering and sharing practices for Audioholics.
 
