@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boortz.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612143223id_/http%3A//boortz.com/inside/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boortz.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216063023id_/http%3A//boortz.com/inside/privacy.html) for the most accurate reproduction.*
 
-# boortz.com: General Information Privacy Policy
+# Privacy Policy on boortz.com
 
 Boortz.com respects the privacy of visitors to our site. Please read this Privacy Statement carefully so that you understand our privacy practices relating to information we gather through this website. Other policies may apply to information we gather elsewhere. Questions regarding privacy issues should be directed to boortz.com at: [privacy@boortz.com](mailto:privacy@boortz.com). 
 
@@ -52,4 +52,4 @@ Information we gather on our website is stored within boortz.com controlled data
 
 **CHANGES TO THIS PRIVACY STATEMENT**
 
-A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. If at any point we decide to use personally identifying information in a manner different from what was stated at the time the information was collected, we will notify you and give you an opportunity to opt out of the proposed use.
+A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. If at any point we decide to use personally identifying information in a manner different from what was stated at the time the information was collected, we will notify you and give you an opportunity to opt out of the proposed use. 
