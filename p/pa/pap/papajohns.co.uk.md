@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608235458id_/http%3A//www.papajohns.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012726id_/http%3A//www.papajohns.co.uk/content/privacy-statement.aspx) for the most accurate reproduction.*
 
-# Papa John's UK - Papa John's Privacy Statement
+# Papa John's - Better Ingredients, Better Pizza - Papa John's : Privacy Statement
+
+## Papa John's : Privacy Statement
 
 Papa John's has created this privacy statement in order to demonstrate our strong commitment to protecting the privacy of all visitors to our site. If you have any questions or comments about this Privacy Statement, they can be directed to [webmaster@papajohns.co.uk](mailto:web_master@papajohns.co.uk) or in writing to the address supplied at the bottom of this page. 
 
