@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valdosta.edu privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611142130id_/http%3A//www.valdosta.edu/it/security/policies/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valdosta.edu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216040859id_/http%3A//www.valdosta.edu/it/security/policies/privacypolicy.shtml) for the most accurate reproduction.*
 
 # VSU Privacy Policy
 
@@ -16,7 +16,7 @@ If you would like to publish information that you find on our Web site, please s
 
 ## Accessibility
 
-This Web site is designed to be accessible to visitors with disabilities, and to comply with federal guidelines concerning accessibility. We welcome your comments. If you have suggestions on how to make the site more accessible, please contact [VSU Webservices](https://web.archive.org/it/eis/systems/webservices/forms/contactus.shtml).  
+This Web site is designed to be accessible to visitors with disabilities, and to comply with federal guidelines concerning accessibility. We welcome your comments. If you have suggestions on how to make the site more accessible, please contact [VSU Webservices](https://web.archive.org/it/eis/systems/webservices/forms/contactus.php).  
 
 
 ## Web Site Privacy Policy
