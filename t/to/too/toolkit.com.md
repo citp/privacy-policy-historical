@@ -1,7 +1,14 @@
-> *The following text is extracted and transformed from the toolkit.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622190039id_/http%3A//www.toolkit.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolkit.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162317id_/http%3A//www.toolkit.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy 10.1
 
+### Vendor Price Quotes.
+
+Get Free quotes from leading vendors. No obligations.  [[Learn more](https://web.archive.org/rn_directory/index.aspx)]
+
+| Categories:  
+---|---  
+  
 This site is owned and operated by Wolters Kluwer. Your privacy on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
