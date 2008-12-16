@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qualityarticles.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609065737id_/http%3A//www.qualityarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityarticles.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020138id_/http%3A//www.qualityarticles.com/privacy.php) for the most accurate reproduction.*
 
-# Quality Articles - where QUALITY content truly is King!
+# QualityArticles.com
 
 **QualityArticles.com Privacy Policy**
 
@@ -64,4 +64,4 @@ QualityArticles.com reserves the right to change this policy at any time. Please
 This policy and the use of this Site are governed by Kansas law.  
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-|  **Friday, January 31, 2020**
+| 
