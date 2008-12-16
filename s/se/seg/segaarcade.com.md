@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segaarcade.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513092553id_/http%3A//www.segaarcade.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segaarcade.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216053501id_/http%3A//www.segaarcade.com/privacypolicy) for the most accurate reproduction.*
 
 # Sega Amusements USA - Online Privacy Policy
 
@@ -7,7 +7,7 @@
 
 [Home](https://web.archive.org/) » Privacy Policy
 
- **Last Updated:** February 5, 2007
+ **Last Updated:** February 7, 2007
 
 Sega Amusements USA, Inc. (" **Sega** " or " **we** ") respects the privacy rights of our online visitors and is committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy (" **Privacy Policy** ") to guide how we collect, store, and use the information you provide us at our websites [http://www.segaarcade.com](http://www.segaarcade.com/), [http://www.sau.sega.com](http://www.sau.sega.com/), [http://www.sauservice.com](http://www.sauservice.com/), [http://www.seuservice.com](http://www.seuservice.com/), [http://www.saupartsonline.com](http://www.saupartsonline.com/), [http://www.sammyusa.com](http://www.sammyusa.com/), [http://segaallnet.com](http://segaallnet.com/), [http://segaamusements.com](http://segaamusements.com/), [http://segaprizeusa.com](http://segaprizeusa.com/), [http://segatoyusa.com](http://segatoyusa.com/), and [http://www.extremehunting.net](http://www.extremehunting.net/) (collectively, the " **Site** ") which are hosted and operated from the United States.
 
@@ -145,23 +145,22 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be 10
 
 **Sega's Privacy Policy for Children 13 and Under:**
 
-Sega Amusements complies with the Federal Trade Commissions Childrens Online Privacy Protection Act (COPPA) that was enacted to protect the privacy and safety of children 13 and younger. COPPA specifically precludes the collection of any personal information of children without the parent or guardians prior consent. Personal information may include the full name, home address, e-mail address, or telephone number. Sega Amusements will not collect more personally identifiable information than is reasonably necessary to administer the activity.
+Sega Amusements complies with the Federal Trade Commission’s Children’s Online Privacy Protection Act (COPPA) that was enacted to protect the privacy and safety of children 13 and younger. COPPA specifically precludes the collection of any personal information of children without the parent or guardian’s prior consent. Personal information may include the full name, home address, e-mail address, or telephone number. Sega Amusements will not collect more personally identifiable information than is reasonably necessary to administer the activity.
 
-When Sega Amusements knowingly seeks the personal information of children 13 and under, it will notify the parent or legal guardian of our privacy policy and obtain verifiable parental consent before collecting personally identifiable information from the child. Our only exceptions to this policy would be when we collect only the childs first name and online contact information to (1) obtain parental consent or to provide parents with notice; or (2) respond specifically to a childs one-time request.
+When Sega Amusements knowingly seeks the personal information of children 13 and under, it will notify the parent or legal guardian of our privacy policy and obtain verifiable parental consent before collecting personally identifiable information from the child. Our only exceptions to this policy would be when we collect only the child’s first name and online contact information to (1) obtain parental consent or to provide parents with notice; or (2) respond specifically to a child’s one-time request.
 
-When we notify parents or seek their consent, we will provide them with a copy of this policy. We also let parents know that they retain the right to review, delete and refuse to allow the collection of any personal information at all times. If the parent wishes to review, refuse further collection of, or have deleted their childs information, they need only notify Sega Amusements website operator, Jeff March, by email at [privacy@sau.sega.com](mailto:privacy@sau.sega.com) or [segakids@sau.sega.com](mailto:segakids@sau.sega.com); or contact Sega Amusements by calling toll free (888) 877-2669; by fax at (847) 427-1065; or you may write to Sega Amusements U.S.A., Inc. at 800 Arthur Avenue, Elk Grove Village, IL 60007, Attn: Event Coordinator. Sega Amusements will respond to any parent or guardians request within 24 hours of receipt. 
+When we notify parents or seek their consent, we will provide them with a copy of this policy. We also let parents know that they retain the right to review, delete and refuse to allow the collection of any personal information at all times. If the parent wishes to review, refuse further collection of, or have deleted their child’s information, they need only notify Sega Amusements’ website operator, Jeff March, by email at [privacy@sau.sega.com](mailto:privacy@sau.sega.com) or [segakids@sau.sega.com](mailto:segakids@sau.sega.com); or contact Sega Amusements by calling toll free (888) 877-2669; by fax at (847) 427-1065; or you may write to Sega Amusements U.S.A., Inc. at 800 Arthur Avenue, Elk Grove Village, IL 60007, Attn: Event Coordinator. Sega Amusements will respond to any parent or guardian’s request within 24 hours of receipt. 
 
-Any personal information of children 13 and younger obtained by Sega Amusements will be used for internal purposes only, such as to promote other games or to notify contest winners. Sega Amusements will only share this information with third parties to promote other games. Parents also retain the right to refuse the sharing of their childs information with third parties.
+Any personal information of children 13 and younger obtained by Sega Amusements will be used for internal purposes only, such as to promote other games or to notify contest winners. Sega Amusements will only share this information with third parties to promote other games. Parents also retain the right to refuse the sharing of their child’s information with third parties.
 
-Sega Amusements U.S.A., Inc. ("Sega Amusements") is committed to protecting the privacy and security of its online visitors and to creating a safe environment for children. If you have any questions or concerns regarding the Sega Amusements Privacy Policy, please contact us at [privacy@sau.sega.com](mailto:privacy@sau.sega.com) or by calling us toll free at 888-877-2669. 
+Sega Amusements U.S.A., Inc. ("Sega Amusements") is committed to protecting the privacy and security of its online visitors and to creating a safe environment for children. If you have any questions or concerns regarding the Sega Amusements’ Privacy Policy, please contact us at [privacy@sau.sega.com](mailto:privacy@sau.sega.com) or by calling us toll free at 888-877-2669. 
 
 **How do I ask a question or file a complaint? (Contact Information)**
 
 If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact us by email at [marketing@sau.sega.com](mailto:marketing@sau.sega.com), or by writing to us at Sega Amusements USA, Inc. 800 Arthur Ave. Elk Grove Village, IL 60007
 
-[Home](https://web.archive.org/) | [Corporate Info](https://web.archive.org/corporate/) | [Find a Distributor](https://web.archive.org/distributor/) | [Trade Shows](https://web.archive.org/shows/) | [F.A.Q.](https://web.archive.org/faq/) | [Contact Us](https://web.archive.org/contact/)   
-[Video Games](https://web.archive.org/video/) | [Redemption / Vending Games](https://web.archive.org/vending/) | [Archive Games](https://web.archive.org/archive/)   
-[Cabinet Conversion](https://web.archive.org/cabinet/) | [Merchandise / Prizes](https://web.archive.org/merchandise/)   
+[Home](https://web.archive.org/) | [Corporate Info](https://web.archive.org/corporate/) | [Find a Distributor](https://web.archive.org/distributor/) | [Trade Shows](https://web.archive.org/shows/) | [F.A.Q.](https://web.archive.org/faq/) | [Contact Us](https://web.archive.org/contact/) | [Video Games](https://web.archive.org/video/)   
+[Redemption / Vending Games](https://web.archive.org/vending/) | [Archive Games](https://web.archive.org/archive/) | [Cabinet Conversion](https://web.archive.org/cabinet/) | [Merchandise / Prizes](https://web.archive.org/merchandise/)   
 [Policies and Procedures](https://web.archive.org/policy/) | [Privacy Policy](https://web.archive.org/privacypolicy/) | [Terms of Service](https://web.archive.org/terms/)
 
   
