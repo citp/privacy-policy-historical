@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modelmayhem.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211231901id_/http%3A//www.modelmayhem.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modelmayhem.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160737id_/http%3A//www.modelmayhem.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -132,7 +132,7 @@ Some of these Web beacons may be placed by third party service providers to help
 
 **5\. Accessing Web Account Information**
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant -- [tyleradam@gmail.com](mailto:tyleradam@gmail.com)..
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant -- [mods@modelmayhem.com](mailto:mods@modelmayhem.com)..
 
 **8.** **Changes to this Statement**
 
@@ -141,7 +141,7 @@ MODEL MAYHEM has the discretion to occasionally update this privacy statement. W
 
 **7\. Contacting Us**
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us. [tyleradam@gmail.com](mailto:tyleradam@gmail.com) or send your comments to :
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us. [mods@modelmayhem.com](mailto:mods@modelmayhem.com) or send your comments to :
 
 MODEL MAYHEM
 
