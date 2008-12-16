@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the wheelsnext.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509085512id_/http%3A//www.wheelsnext.com/content/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheelsnext.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024157id_/http%3A//www.wheelsnext.com/content/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Wheels Rims Tires for Cars Trucks SUVs WheelsNext.com
 
-[Home](http://www.wheelsnext.com/default.cfm) | [ Customer Service](http://www.wheelsnext.com/content/customer_service.html) | [Track Orders](http://www.fedex.com/Tracking?cntry_code=us) | [About Us](http://www.wheelsnext.com/content/company.html) | [Blog](http://blog.wheelsnext.com/) | [Cart ](http://www.wheelsnext.com/default.cfm?action=dspCart) [](https://www.scanalert.com/RatingVerify?ref=www.wheelsnext.com)
+[Home](http://www.wheelsnext.com/default.cfm) | [ Customer Service](http://www.wheelsnext.com/content/customer_service.html) | [Track Orders](http://www.fedex.com/Tracking?cntry_code=us) | [About Us](http://www.wheelsnext.com/content/company.html) | [Blog](http://blog.wheelsnext.com/) | [Cart ](http://www.wheelsnext.com/default.cfm?action=dspCart)
 
   *   * [Wheel + Tire Combos](http://www.wheelsnext.com/wheels-tires-packages.html "browse through our inventory of wheels and tires -	Wheelsnext.com your premier online store for rims, custom wheels and tires")
-  * [Wheels](http://www.wheelsnext.com/wheels-rims.html "wheels, custom wheels, chrome wheels – Wheelsnext.com your premier online store for custom wheels")
+  * [Wheels](http://www.wheelsnext.com/wheels-rims.html "wheels, custom wheels, chrome wheels â€“ Wheelsnext.com your premier online store for custom wheels")
   * [Tires](http://www.wheelsnext.com/tires.html "performance tires, rims and tires, wheels and tires, Wheelsnext.com your onine store for rims and tires packages")
-  * [Car Gallery](http://www.wheelsnext.com/vehicle-wheels-rims/photos-pictures-gallery.html "Car wheels, rims Picture Gallery – Wheelsnext.com")
+  * [Car Gallery](http://www.wheelsnext.com/vehicle-wheels-rims/photos-pictures-gallery.html "Car wheels, rims Picture Gallery â€“ Wheelsnext.com")
   * [Info + Tech FAQ](http://www.wheelsnext.com/content/info.html)
 
 
