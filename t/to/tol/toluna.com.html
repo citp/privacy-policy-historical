@@ -1,820 +1,197 @@
-<!--The following is the downloaded HTML source of the toluna.com privacy policy that was archived on 2008-01-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080127132443id_/http%3A//www.toluna.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toluna.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216152333id_/http%3A//www.toluna.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>Toluna.com: Privacy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+	<title>Privacy Policy, Toluna.com</title>
 	<meta id="MetaDescription" name="Description" content="Toluna, create and participate in online polls surveys and opinions, test products for free and get rewards.">
 	<meta id="MetaKeywords" name="Keywords" content="">
 	<meta name="robots" content="index,follow">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 	<base id="dPollsBaseId" href="http://www.toluna.com/">
-	<link rel="SHORTCUT ICON" href="/Icons/tolunaIcon.ico">
-	
+	<link rel="shortcut icon" href="/Icons/tolunaIcon.ico">
+	<script language="javascript" src="/Scripts/Localization/LocalizedStrings.js"></script>
+	<script language="javascript" src="/Scripts/Common/FuncLib.js"></script>
+	<script language="javascript" src="/Scripts/Common/Common.js"></script>
 	<script language="javascript" src="/Scripts/Validator/Validations.js"></script>
 	<script language="JavaScript" src="/Scripts/MarqueeScript/MarqueeScript.js"></script>
 	<script language="JavaScript" src="/Scripts/EventHandler/EventHandler.js"></script>
 	<script language="javascript" src="/Scripts/Ajax/Ajax.js"></script>
 	<script language="javascript" src="/Scripts/Messages/Messaging.js"></script>
-	<script language="javascript" src="/Scripts/Rating/Rating.js"></script>
 	<script language="javascript" src="/Scripts/Opinions/OpinionsFunctions.js"></script>
-	<script language="JavaScript" src="/Scripts/BoxFunctions/CustBoxFunctions.js"></script>
-	<!--[if IE]>
-		<LINK REL="stylesheet" HREF="/CSS/dPolls.css" TYPE="text/css"> 
-	<![endif]-->
-	<!--[if !IE]-->
-		<link rel="stylesheet" href="/CSS/dPolls_moz.css" type="text/css"> 
-	<!--[endif]-->
+    <script language="javascript" src="/scripts/widget/widget.js"></script>
+    <script language="javascript" src="/scripts/widget/effects.js"></script>
+    <script language="javascript" src="/scripts/rating/rating.js"></script>
+    <script language="javascript" src="/scripts/TopNav/TopNav.js"></script>    
+    <script type="text/javascript" src="/scripts/Ajax/autocompletion.js"></script>
+		
+	<link rel="stylesheet" href="/CSS/dPolls.css" type="text/css"> 
 	<link rel="stylesheet" href="/CSS/dPolls_Opinions.css" type="text/css"> 
 	<link rel="stylesheet" href="/CSS/LoginWidget.css" type="text/css"> 
+	<link rel="stylesheet" href="/CSS/TopNav.css" type="text/css"> 
+	<link rel="stylesheet" href="/CSS/Boxes.css" type="text/css"> 
 	
+    <script language="javascript">    
+		sDomain = ".toluna.com";
+    </script>
   </head>
-<body bgcolor="white" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" onload="JavaScript:markCurrentPageMenu();">
+<body>
 <script id="pap_x2s6df8d" src="http://affiliate.toluna.com/scripts/track.js" type="text/javascript"></script>
 <script type="text/javascript">
 <!--
-     papTrack();
+     if(typeof(papTrack)=="function") { papTrack(); } else window.setTimeout('papTrack();',800); 
 //-->
 </script>
 
-<script language="javascript">
-<!--
-	var bMouseOnSubMenu = false;
-	var iIntObj = 0;
-	var sSubMenuOverStyle = '#fff6ce';
-	var sSubMenuRegStyle = '#e2e3e3';
 
-	function PerformQuickSearch()
-	{
-		var sQuickSearchValue = fQuickSearch.searchphrase.value;
-		
-		if ( (sQuickSearchValue=='') || (sQuickSearchValue=='Keyword(s)') || (sQuickSearchValue=='Please enter text') ) 
-			fQuickSearch.searchphrase.value = 'Please enter text';
-		else 
-			fQuickSearch.submit();
-	}
-	
-	function clearSubMenus()
-	{
-		for(i=1;i<=6;i++)
-		{
-			var obj = document.getElementById('SubMenu' + i);
-			if (obj!=null)
-			{
-				obj.style.display='none';
-				//obj.attributes['CurrentDisplay'].value=0;
-			}
-			else
-			{
-			}
-		}
-	}
-	
-	function openSubMenu(iSubMenu, iPxLeft)
-	{
-		
-		var subMenu = document.getElementById('SubMenu' + iSubMenu);
-		if (subMenu!=null)
-		{
-			if (subMenu.style.display=='none')
-			{
-				var iPixels = document.body.offsetWidth -iPxLeft - 150; //150--> right space
-				clearSubMenus();
-				subMenu.style.left=iPxLeft + 'px';
-				//subMenu.style.top=5 + 'px';
-				//subMenu.style.width=iPixels;
-				//subMenu.attributes['CurrentDisplay'].value=1;
-				//new Effect.Appear(subMenu,{duration:0.5});
-				subMenu.style.display='block';	
-			}
-		}
-		else
-		{
-			clearSubMenus();
-		}
-	}
-
-	function markSubMenu(objToMark)
-	{
-		//if mark on object that not selected -> disable selected
-		if (objToMark!='' && '' != '')
-			unMarkSubMenu('');
-		var obj = document.getElementById(objToMark);
-		if (obj!=null)
-		{
-			var aobj = obj.parentNode;
-			if (aobj != null)
-			{
-				aobj.style.backgroundColor=sSubMenuOverStyle;
-			}
-		}
-	}
-
-	function unMarkSubMenu(objToUnMark)
-	{
-		var obj = document.getElementById(objToUnMark);
-		if (obj!=null)
-		{
-			var aobj = obj.parentNode;
-			if (aobj != null)
-				aobj.style.backgroundColor=sSubMenuRegStyle;
-		}
-	}
-	
-	function markCurrentPageMenu()
-	{
-		//mark menu
-		markMenu('HomeMark');	
-		//mark sub menu
-		markSubMenu('');
-	}
-		
-	function closeSubMenu(iSubMenu)
-	{
-		var iInterval = 800;
-		if (iIntObj!=0)
-			window.clearInterval(iIntObj);
-			
-		iIntObj = window.setInterval(function(){
-								var obj = document.getElementById('SubMenu' + iSubMenu);
-								if ( (obj!=null) && (!bMouseOnSubMenu) )
-								{
-									window.clearInterval(iIntObj);
-									iIntObj = 0;
-									//new Effect.Fade('SubMenu' + iSubMenu,{duration:0.5});
-									document.getElementById('SubMenu' + iSubMenu).style.display='none';
-									unmarkMenu('HomeMark');
-									unmarkMenu('Explore');
-									unmarkMenu('You');
-									unmarkMenu('Polls');
-									unmarkMenu('Opinions');
-									unmarkMenu('TestAndRewards');
-									markCurrentPageMenu();
-									//obj.style.display='none';
-								}
-							},iInterval);
-	}
-	
-	function markMenu(objToMark)
-	{
-		window.clearInterval(iIntObj);
-		iIntObj = 0;
-		unmarkMenu('HomeMark');
-		unmarkMenu('Explore');
-		unmarkMenu('You');
-		unmarkMenu('Polls');
-		unmarkMenu('Opinions');
-		unmarkMenu('TestAndRewards');
-		var obj = document.getElementById(objToMark);
-		if (obj!=null)
-			obj.style.color = '#fcd734';//obj.style.backgroundImage = "url('/Images/New/headerback.gif')";
-	}
-
-	function unmarkMenu(objToUnmark)
-	{
-		var obj = document.getElementById(objToUnmark);
-		/*
-		if (obj!=null)
-			obj.style.backgroundColor='#ffffff';*/
-			
-		if (obj!=null)
-			obj.style.color = "white";
-	}
-	
-	function SwitchImage(obj,mode)
-	{
-		if (mode == 0)
-			obj.style.backgroundImage = "url('/Images/Header/quicktiphover.gif')";
-		else
-			obj.style.backgroundImage = "url('/Images/Header/quicktip.gif')";
-	}
-
-	function ClearText(obj)
-	{
-		if (obj.value == '(enter your question here)' || obj.value == '(enter answer here, then click the + button)')
-		{
-			obj.value = '';
-		}
-	}
-	
-	function ClearAreaText(obj)
-	{
-		if (obj.innerHTML == '(enter a description of the question)')
-		{
-			obj.innerHTML = '';
-		}
-	}
-	
-	var bLangFilterOpen = false;
-	var iLangFilterInterval = 0;
-	function OpenLangFilter()
-	{
-		var filterdiv = document.getElementById('langfilterdiv');
-		if (filterdiv.style.display == 'none')
-		{
-			filterdiv.style.display = 'block';
-			iLangFilterInterval = window.setInterval(function(){if (!bLangFilterOpen) {window.clearInterval(iLangFilterInterval);filterdiv.style.display = 'none';}},2000);
-		}
-		else
-		{
-			filterdiv.style.display = 'none';
-		}
-	}
-	
-	function CheckifAll(obj)
-	{
-		var langform = document.getElementById("flang");
-		var bCBState = obj.checked;
-		if (bCBState == false)
-		{
-			var cball = langform.elements[0];
-			if (cball != null)
-				cball.checked = false;
-		}
-	}
-	
-	function ChangeAllCB(obj)
-	{
-		var langform = document.getElementById("flang");
-		var bCBState = obj.checked;
-		for (var i=0;i<langform.length;i++)
-		{
-			if (langform.elements[i].id == '-1')
-				continue;
-				
-			if (langform.elements[i].type == 'checkbox')
-			{
-				langform.elements[i].checked = bCBState;
-			}
-		}
-	}
-	
-	function SelectLanguage(sForm)
-	{
-		var langs = "";
-		var langform = document.getElementById(sForm);
-		for (var i=0;i<langform.length;i++)
-		{
-			if (langform.elements[i].id == '-1' && sForm=='flang')
-				{
-					if (!langform.elements[i].checked)
-					{
-						delCookie("dlangs");
-						document.location.reload();
-					}
-					else
-					{
-						langs = -1;
-						OpenLangFilter();
-						setCookie("dlangs",langs,365);
-						document.location.reload();
-						return;
-					}
-				}
-			if (langform.elements[i].checked)
-			{
-				langs += langform.elements[i].id + "|";
-			}
-		}
-		
-		if (langs == "")
-			langs = "1";
-		else
-		{
-			langs = langs.substring(0,langs.length-1);
-		}
-		
-		setCookie("dlangs",langs,365);
-		
-		if (sForm == 'flang')
-		{
-			OpenLangFilter();
-			document.location.reload();
-		}
-		else
-		{
-			langform.submit();
-		}
-		
-		
-	}
-	
-	function CloseInsert(oinsert)
-	{
-		document.getElementById('dpinserttr').style.display = 'none';
-		setCookie(oinsert,"close",365);
-	}
-	
-	function setCookie(c_name,c_value,expiredays)
-	{
-		var exdate=new Date();
-		exdate.setDate(exdate.getDate()+expiredays);
-		document.cookie=c_name+ "=" +escape(c_value)+ ";expires="+exdate.toGMTString() + ";path=/";
-		document.cookie=c_name+ "=" +escape(c_value)+ ";expires="+exdate.toGMTString() + ";path=/;domain=" + ".toluna.com";
-	}
-	
-	function delCookie(c_name) 
-	{
-		document.cookie=c_name+ "=;expires=Thu, 01-Jan-1970 00:00:01 GMT" + ";path=/";
-	}
-	
-	function QuickSignIn()
-	{
-		document.getElementById('qusername').style.backgroundColor='';
-		document.getElementById('qpassword').style.backgroundColor='';
-
-		var userName = document.getElementById('qusername').value;
-		var password = document.getElementById('qpassword').value;
-		
-		if ( (!ValidateTextLen(2, 255, userName)) || (!ValidateTextExp(loginField, userName)) )
-		{
-			alert(getError(4));
-			document.getElementById('qusername').style.backgroundColor='#fffb86';
-			document.getElementById('qusername').focus();
-			return false;
-		}
-		if ( (!ValidateTextLen(3, 255, password)) || (!ValidateTextExp(passwordField, password)) )
-		{
-			alert(getError(5));
-			document.getElementById('qpassword').style.backgroundColor='#fffb86';
-			document.getElementById('qpassword').focus();
-			return false;
-		}
-		
-		document.getElementById('qLogin').submit();
-		return true;
-	}
-	
-	function ClearLoginText(obj)
-	{
-		if (obj.value == 'Username' || obj.value == 'Password') 
-		{
-			SaveTextBeforeRestoreObject(obj);
-			obj.value = '';
-		}
-	}
-	
-	function QuickSignOut()
-	{
-		document.location.href = document.getElementById('dPollsBaseId').href + '/Logout.aspx';
-	}
-	
-//-->
-</script>
-<table width="970" height="100%" cellpadding="0" border="0" cellspacing="0" align="center">
-	<tbody><tr><td height="10"></td></tr>
-	<tr valign="top">
-		<td>
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table width="875" style="height: 100%" cellpadding="0" border="0" cellspacing="0" align="center">
+	<tbody><tr valign="top">
+		<td id="headerLineTd">
+			<div id="logoDiv"><a href="/"><img src="/Images/New2/tlogo.gif" alt="Toluna: People, polls and opinions"></a></div>
+			<!-- Login -->
+			<table id="loginLineTable" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td width="145" rowspan="3"><a href="home/toluna"><img src="/Images/New2/tlogo.gif" border="0" alt="Toluna: People, polls and opinions"></a></td>
 					<td>
-						<table border="0" cellpadding="0" cellspacing="0">
-							<tbody><tr>
-								<td align="center" width="100%">
-									<form name="qLogin" id="qLogin" method="post" action="Login.aspx?quick=true" style="display:inline;">
-										<table border="0" cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td align="left" class="GrayHeaderFont" width="50">&nbsp;<a class="GrayHeaderFont" href="Register.aspx"><b>Register</b></a></td>
-												<td align="left">&nbsp;&nbsp;&nbsp;&nbsp;</td>
-												<td align="left" class="GrayHeaderFont" nowrap="true"><b>Sign In:&nbsp;</b></td>
-												<td align="left" class="GrayHeaderFont" width="40"><input type="text" class="ilogin" id="qusername" name="qusername" value="Username" maxlength="255" onfocus="ClearLoginText(this);" onblur="JavaScript:RestoreTextToObject(this,'Username');"></td>
-												<td align="left">&nbsp;&nbsp;</td>
-												<td align="left" class="GrayHeaderFont" width="40"><input type="password" class="ilogin" id="qpassword" name="qpassword" maxlength="255" onkeypress="JavaScript:return AddKeyEvent(event, 13, 'QuickSignIn();');" style="display:none;" onblur="JavaScript:RestoreTextToObject(this,'Password');"><input style="display:block;" type="text" class="ilogin" id="qpasswordtemp" name="qpasswordtemp" value="Password" maxlength="255" onfocus="JavaScript:document.getElementById('qpassword').style.display='block';this.style.display='none';document.getElementById('qpassword').focus();"></td>
-												<td align="left" class="GrayHeaderFont" width="50"><img src="/Images/New/signin.gif" onclick="JavaScript:QuickSignIn();" class="buttoncursor" alt="Sign in"></td>
-												<td align="left" class="GrayHeaderFont" nowrap="true">(<a class="GrayHeaderFont" href="ForgotPassword.aspx">Forgot your password?</a>)</td>
-												<!--<span id="Header1_lblUserName">Guest</span>&nbsp;&nbsp;<span id="Header1_lblLogin"></span>-->
-											</tr>
-										</tbody></table>
-									</form>
-									<form name="qLogout" id="qLogout" method="post" action="Logout.aspx?quick=true" style="display:none;">
-										<table border="0" cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td align="left" class="GrayHeaderFontBlack" nowrap="true">Welcome, <b class="GrayHeaderFont">Guest</b></td>
-												<td align="left">&nbsp;&nbsp;</td>
-												<td align="left" class="GrayHeaderFont"><a href="Logout.aspx" class="SignText" title="Sign out" onmouseover="JavaScript:changeWindowStatusBar('Sign out');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Sign Out</a><!--<img src="/Images/New/signout.gif" onclick="JavaScript:QuickSignOut();" class="buttoncursor" />--></td>
-												<td width="100%">&nbsp;</td>
-											</tr>
-										</tbody></table>
-									</form>
-								</td>
-								<td align="right" class="GrayHeaderFontBlack" nowrap="">Language for polls and opinions: <span id="langname" class="GrayHeaderFont"><b>Multiple</b></span>&nbsp;</td>
-								<td align="right" valign="middle"><img onmouseout="JavaScript:bLangFilterOpen=false;" onmouseover="JavaScript:bLangFilterOpen=true;OpenLangFilter();" src="/Images/new/downsmall2.gif" class="langfiltericon"><img src="/Images/spacer.gif" width="5" height="1"><!--<img onclick="JavaScript:OpenHelp('S5Q1');" src="/Images/grayheader/helpicosm.gif" class="langfiltericon" alt="Polls Languages Help" border="0" />--><div onmouseover="JavaScript:bLangFilterOpen=true;" onmouseout="JavaScript:bLangFilterOpen=false;" id="langfilterdiv" style="display:none;"><form method="post" id="flang" style="display: inline;"><table border="0" width="150" cellspacing="0" cellpadding="0" class="GrayHeaderBackground"><tbody><tr><td colspan="2"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="GrayHeaderBottomLeft" valign="bottom" align="left"><img src="/Images/GrayHeader/left_top_g.jpg"></td><td valign="bottom" align="left" width="100%"></td><td class="GrayHeaderBottomRight" valign="bottom" align="right"><img src="/Images/GrayHeader/right_top_g.jpg"></td></tr></tbody></table></td></tr><tr><td class="LangInput"><input size="5" type="checkbox" id="-1" checked="true" onclick="JavaScript:ChangeAllCB(this);"></td><td class="LangText" align="left" width="100%">Any language</td></tr><tr><td colspan="2"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td style="font-size:8px;height:8px;" width="70" align="left">&nbsp;&nbsp;-------</td></tr></tbody></table></td></tr><tr><td class="LangInput"><input size="5" type="checkbox" onclick="JavaScript:CheckifAll(this);" id="3" checked="true"></td><td class="LangText">Arabic</td></tr><tr><td class="LangInput"><input size="5" type="checkbox" onclick="JavaScript:CheckifAll(this);" id="7" checked="true"></td><td class="LangText">Chinese Simplified</td></tr><tr><td class="LangInput"><input size="5" type="checkbox" onclick="JavaScript:CheckifAll(this);" id="8" checked="true"></td><td class="LangText">Chinese Traditional </td></tr><tr><td class="LangInput"><input size="5" type="checkbox" onclick="JavaScript:CheckifAll(this);" id="1" checked="true"></td><td class="LangText">English</td></tr><tr><td class="LangInput"><input size="5" type="checkbox" onclick="JavaScript:CheckifAll(this);" id="16" checked="true"></td><td class="LangText">French</td></tr><tr><td class="LangInput"><input size="5" type="checkbox" onclick="JavaScript:CheckifAll(this);" id="17" checked="true"></td><td class="LangText">German</td></tr><tr><td class="LangInput"><input size="5" type="checkbox" onclick="JavaScript:CheckifAll(this);" id="23" checked="true"></td><td class="LangText">Italian</td></tr><tr><td class="LangInput"><input size="5" type="checkbox" onclick="JavaScript:CheckifAll(this);" id="24" checked="true"></td><td class="LangText">Japanese</td></tr><tr><td class="LangInput"><input size="5" type="checkbox" onclick="JavaScript:CheckifAll(this);" id="25" checked="true"></td><td class="LangText">Korean</td></tr><tr><td class="LangInput"><input size="5" type="checkbox" onclick="JavaScript:CheckifAll(this);" id="34" checked="true"></td><td class="LangText">Russian</td></tr><tr><td class="LangInput"><input size="5" type="checkbox" onclick="JavaScript:CheckifAll(this);" id="38" checked="true"></td><td class="LangText">Spanish</td></tr><tr><td colspan="2" align="center" width="90%" class="hrlang"></td></tr><tr><td colspan="2" align="center" height="5"></td></tr><tr><td align="left" nowrap="true" colspan="2"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="right">&nbsp;<span onclick="JavaScript:SelectLanguage('flang');" class="langsubmit">Apply</span></td><td width="100%" align="right"><a href="Myaccount.aspx?pagemode=3" class="langmore">More...</a>&nbsp;</td></tr></tbody></table></td></tr><tr><td colspan="2" align="center" height="2"></td></tr><tr><td colspan="2"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="GrayHeaderBottomLeft" valign="bottom" align="left"><img src="/Images/GrayHeader/left_bottom_g.jpg"></td><td valign="bottom" align="left" width="100%"></td><td class="GrayHeaderBottomRight" valign="bottom" align="right"><img src="/Images/GrayHeader/right_bottom_g.jpg"></td></tr></tbody></table></td></tr></tbody></table></form></div></td>
-							</tr>
-						</tbody></table>
+						<form name="qLogin" id="qLogin" method="post" action="Login.aspx?quick=true" style="display:inline;">
+							<table border="0" cellpadding="0" cellspacing="0">
+								<tbody><tr>
+									<td><a href="/Register.aspx"><b>Register</b></a></td>
+									<td class="spacerTd">&nbsp;</td>
+									<td><b>Sign In:</b></td>
+									<td><input type="text" class="ilogin" id="qusername" value="Username" defaultvalue="Username" name="qusername" maxlength="255" onfocus="ClearLoginText(this);" onblur="RestoreTextToObject(this,this.defaultValue);"></td>
+									<td><input type="password" class="ilogin" id="qpassword" name="qpassword" maxlength="255" onkeypress="return AddKeyEvent(event, 13, 'QuickSignIn();');" style="display:none;" onblur="RestoreTextToObject(this,this.defaultValue);"><input style="display:block;" type="text" class="ilogin" id="qpasswordtemp" name="qpasswordtemp" value="Password" defaultvalue="Password" maxlength="255" onfocus="document.getElementById('qpassword').style.display='block';this.style.display='none';document.getElementById('qpassword').focus();"></td>
+									<td><img src="/Images/New/signin.gif" onclick="QuickSignIn();" class="buttoncursor" alt="Sign in"></td>
+									<td>(<a class="forgotA" href="/ForgotPassword.aspx">Forgot your password?</a>)</td>
+									<!--<span id="Header1_lblUserName">Guest</span>&nbsp;&nbsp;<span id="Header1_lblLogin"></span>-->
+								</tr>
+							</tbody></table>
+						</form>
+						<form name="qLogout" id="qLogout" method="post" action="Logout.aspx?quick=true" style="display:none;">
+							<table border="0" cellpadding="0" cellspacing="0">
+								<tbody><tr>
+									<td><span class="Black">Welcome,&nbsp;</span>Guest</td>
+									<td><a href="/Logout.aspx" class="forgotA" title="Sign out">Sign Out</a></td>
+								</tr>
+							</tbody></table>
+						</form>
 					</td>
-				</tr>
-				<tr style="height:10px;"><td></td></tr>
-				<tr style="height:37px;">
-					<td align="left">
-						<table border="0" cellpadding="0" cellspacing="0" style="height:37px;width:100%">
-							<tbody><tr>
-								<td align="center">
-									<table border="0" cellpadding="0" cellspacing="0" class="NewHeaderBackground" align="center" width="100%">
-										<tbody><tr>
-											<td align="left" class="HeaderStart"></td>
-											<td align="left">
-												<table width="100%" cellpadding="0" cellspacing="0" border="0">
-													<tbody><tr>
-														<td>
-															<table border="0" width="100%" cellpadding="0" cellspacing="0">
-																<tbody><tr>
-																	<td width="100%" valign="bottom">
-																		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-																			<tbody><tr>
-																				<td valign="bottom" class="HeaderLinksTD" align="center" nowrap="true" onmouseover="JavaScript:markMenu('HomeMark');openSubMenu(1, 124);" onmouseout="JavaScript:closeSubMenu(1);">
-																					<table border="0" cellpadding="0" cellspacing="0" height="37">
-																						<tbody><tr>
-																							<td width="12">&nbsp;</td>
-																							<td valign="middle"><a href="home/toluna" class="HeaderLinks" id="HomeMark" onmouseover="JavaScript:changeWindowStatusBar('Home');return true;" onmouseout="JavaScript:changeWindowStatusBar('');" style="color: rgb(252, 215, 52);">Home</a><!--&nbsp;<div style="position:relative;margin-top:-13px;margin-left:63px;"><img src="images/downsmall.jpg" border="0"/></div>--></td>
-																							<td width="12">&nbsp;</td>
-																						</tr>
-																					</tbody></table>
-																				</td>
-																				<td class="HeaderDivider"></td>
-																				<td valign="bottom" class="HeaderLinksTD" align="center" nowrap="true" onmouseover="JavaScript:markMenu('You');openSubMenu(5,  3 + this.offsetLeft);" onmouseout="JavaScript:closeSubMenu(5);">
-																						<table border="0" cellpadding="0" cellspacing="0" height="37">
-																						<tbody><tr valign="top">
-																							<td width="12">&nbsp;</td>
-																							<td valign="middle" nowrap="true"><a href="JavaScript:void(0);" class="HeaderLinks" id="You" onmouseover="JavaScript:changeWindowStatusBar('My Polls');return true;" onmouseout="JavaScript:changeWindowStatusBar('');" style="color: white;">You</a>&nbsp;<span><img src="/images/new2/downsmall.gif" border="0"></span></td>
-																							<td width="12">&nbsp;</td>
-																						</tr>
-																					</tbody></table>
-																				</td>
-																				<td class="HeaderDivider"></td>
-																				<td valign="bottom" class="HeaderLinksTD" align="center" nowrap="true" onmouseover="JavaScript:markMenu('Polls');openSubMenu(2, 3 + this.offsetLeft);" onmouseout="JavaScript:closeSubMenu(2);">
-																					<table border="0" cellpadding="0" cellspacing="0" height="37">
-																						<tbody><tr valign="top">
-																							<td width="12">&nbsp;</td>
-																							<td valign="middle" style="text-align:top;"><a href="polls/popular" id="Polls" class="HeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Polls');return true;" onmouseout="JavaScript:changeWindowStatusBar('');" style="color: white;">Polls</a>&nbsp;<span><img src="/images/new2/downsmall.gif" border="0"></span></td>
-																							<td width="12">&nbsp;</td>
-																						</tr>
-																					</tbody></table>
-																				</td>
-																				<td class="HeaderDivider"></td>
-																				<td valign="bottom" class="HeaderLinksTD" align="center" nowrap="true" onmouseover="JavaScript:markMenu('Opinions');openSubMenu(3, 3 + this.offsetLeft);" onmouseout="JavaScript:closeSubMenu(3);">
-																					<table border="0" cellpadding="0" cellspacing="0" height="37">
-																						<tbody><tr valign="top">
-																							<td width="12">&nbsp;</td>
-																							<td valign="middle" style="text-align:top;"><a href="opinions/popular" id="Opinions" class="HeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Opinions');return true;" onmouseout="JavaScript:changeWindowStatusBar('');" style="color: white;">Opinions</a>&nbsp;<span><img src="/images/new2/downsmall.gif" border="0"></span></td>
-																							<td width="12">&nbsp;</td>
-																						</tr>
-																					</tbody></table>
-																				</td>
-																				<td class="HeaderDivider"></td>
-																				<td valign="bottom" class="HeaderLinksTD" align="center" nowrap="true" onmouseover="JavaScript:markMenu('Explore');openSubMenu(4, 3 + this.offsetLeft);" onmouseout="JavaScript:closeSubMenu(4);">
-																					<table border="0" cellpadding="0" cellspacing="0" height="37">
-																						<tbody><tr valign="top">
-																							<td width="12">&nbsp;</td>
-																							<td valign="middle" style="text-align:top;"><a href="CategoryList.aspx" id="Explore" class="HeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Category List');return true;" onmouseout="JavaScript:changeWindowStatusBar('');" style="color: white;">Explore</a>&nbsp;<span><img src="/images/new2/downsmall.gif" border="0"></span></td>
-																							<td width="12">&nbsp;</td>
-																						</tr>
-																					</tbody></table>
-																				</td>
-																				<td class="HeaderDivider"></td>
-																				<td valign="bottom" class="HeaderLinksTD" align="center" nowrap="true" onmouseover="JavaScript:markMenu('TestAndRewards');openSubMenu(6, 3 + this.offsetLeft);" onmouseout="JavaScript:closeSubMenu(6);">
-																					<table border="0" cellpadding="0" cellspacing="0" height="37">
-																						<tbody><tr valign="top">
-																							<td width="12">&nbsp;</td>
-																							<td valign="middle" style="text-align:top;"><a href="TestArea.aspx" id="TestAndRewards" class="HeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Test Area');return true;" onmouseout="JavaScript:changeWindowStatusBar('');" style="color: white;">Test &amp; Rewards</a>&nbsp;<span><img src="/images/new2/downsmall.gif" border="0"></span></td>
-																							<td width="12">&nbsp;</td>
-																						</tr>
-																					</tbody></table>
-																				</td>
-																				<td class="HeaderDivider"></td>
-																				<td valign="bottom" class="HeaderLinksTD" align="center" nowrap="true" width="110"></td>
-																				<td class="HeaderDivider"></td>
-																			</tr>
-																		</tbody></table>
-																	</td>
-																	<td valign="middle">
-																		<table border="0" cellpadding="0" cellspacing="0">
-																			<tbody><tr>
-																				<td>
-																					<table border="0" cellpadding="0" cellspacing="0">
-																						<tbody><tr>
-																							<td class="HeaderLinks" title="Quick search">&nbsp;Search:&nbsp;</td>
-																							<td>
-																								<form action="SearchResults.aspx" method="get" id="fQuickSearch" style="display: inline;">
-																									<input type="hidden" name="MainCategory" value="0">
-																									<input type="hidden" name="SubCategory" value="0">
-																									<input type="hidden" name="PageNumber" value="1">
-																									<input type="hidden" name="PageNumberOps" value="1">
-																									<input type="hidden" name="exactphrase" value="">
-																									<input type="hidden" name="searchmustnotinclude" value="">
-																									<input type="hidden" name="searchmustinclude" value="">
-																									<input name="searchphrase" value="Keyword(s)" onclick="JavaScript:if (this.value=='Keyword(s)') this.value='';" type="text" style="BORDER-RIGHT:#e0ba11 1px solid; font-family:Tahoma;BORDER-TOP:#e0ba11 1px solid; FONT-SIZE:13px; BORDER-LEFT:#e0ba11 1px solid; WIDTH:105px;height:21px; margin-bottom:1px; COLOR:#888887; BORDER-BOTTOM:#e0ba11 1px solid; BACKGROUND-COLOR:#f7f7f7">
-																								</form>
-																							</td>
-																							<td title="Quick search" onclick="JavaScript:PerformQuickSearch();" onmouseover="JavaScript:this.style.cursor='hand';changeWindowStatusBar('Quick search');return true;" onmouseout="JavaScript:this.style.cursor='auto';changeWindowStatusBar('');void(0);">&nbsp;<img src="/images/new/gosearch.gif" border="0" class="buttoncursor" alt="Search"></td>
-																						</tr>
-																					</tbody></table>
-																				</td>
-																			</tr>
-																		</tbody></table>														
-																	</td>
-																</tr>
-															</tbody></table>
-														</td>
-													</tr>
-												</tbody></table>
-											</td>
-											<td align="right" class="HeaderEnd"></td>
-										</tr>
-										<tr>
-											<td colspan="3">
-												<table border="0" cellpadding="0" cellspacing="0" id="SubMenu" align="left">
-													<tbody><tr>
-														<td align="left" style="position:relative;z-index:5;">
-														<div style="position:absolute;">
-															<table id="SubMenu2" border="0" cellpadding="0" cellspacing="0" class="GrayHeaderBackground" onmouseover="JavaScript:bMouseOnSubMenu=true;" onmouseout="JavaScript:bMouseOnSubMenu=false;" style="display:none;position:relative;top:0px;" currentdisplay="0">
-																<tbody><tr>
-																	<td valign="bottom" align="left"><img src="/Images/spacer.gif" class="GrayHeaderBottomLeft"></td>
-																	<td align="left" class="GrayHeaderFont">
-																		<table border="0" cellpadding="0" cellspacing="0">
-																			<tbody><tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenuFeaturedPolls"><a href="polls/featured" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Sponsored Polls');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Sponsored Polls</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																			<tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenuPopularPolls"><a href="polls/popular" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Popular Polls');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Popular Polls</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																			<tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenuRecentPolls"><a href="polls/recent" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('New Polls');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">New Polls</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																			<tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenuCreatePoll"><a href="createpoll" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Create a Poll');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Create a Poll</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																		</tbody></table>
-																	</td>
-																	<td valign="bottom" align="left"><img src="/Images/spacer.gif" class="GrayHeaderBottomRight"></td>
-																</tr>
-																<tr>
-																	<td class="GrayHeaderBottomLeft" valign="bottom" align="left"><img src="/Images/GrayHeader/left_bottom_g.jpg"></td>
-																	<td valign="bottom" align="left"></td>
-																	<td class="GrayHeaderBottomRight" valign="bottom" align="left"><img src="/Images/GrayHeader/right_bottom_g.jpg"></td>
-																</tr>
-															</tbody></table>					
-															<table id="SubMenu3" border="0" cellpadding="0" cellspacing="0" class="GrayHeaderBackground" onmouseover="JavaScript:bMouseOnSubMenu=true;" onmouseout="JavaScript:bMouseOnSubMenu=false;" style="display:none;position:relative;top:0px;" currentdisplay="0">
-																<tbody><tr>
-																	<td valign="bottom" align="left"><img src="/Images/spacer.gif" class="GrayHeaderBottomLeft"></td>
-																	<td align="left" class="GrayHeaderFont">
-																		<table border="0" cellpadding="0" cellspacing="0">
-																			<tbody><tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenuPopularOpinions"><a href="opinions/popular" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Hot Opinions');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Hot Opinions</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																			<tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenuRecentOpinions"><a href="opinions/recent" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('New Opinions');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">New Opinions</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																			<tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenuRecentTopics"><a href="opinions/recenttopics" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('New Topics');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">New Topics</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																			<tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenuCreateOpinion"><a href="createtopic" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Create an opinion');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Create an Opinion</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																		</tbody></table>
-																	</td>
-																	<td valign="bottom" align="left"><img src="/Images/spacer.gif" class="GrayHeaderBottomRight"></td>
-																</tr>
-																<tr>
-																	<td class="GrayHeaderBottomLeft" valign="bottom" align="left"><img src="/Images/GrayHeader/left_bottom_g.jpg"></td>
-																	<td valign="bottom" align="left"></td>
-																	<td class="GrayHeaderBottomRight" valign="bottom" align="left"><img src="/Images/GrayHeader/right_bottom_g.jpg"></td>
-																</tr>
-															</tbody></table>					
-															<table id="SubMenu4" border="0" cellpadding="0" cellspacing="0" class="GrayHeaderBackground" onmouseover="JavaScript:bMouseOnSubMenu=true;" onmouseout="JavaScript:bMouseOnSubMenu=false;" style="display:none;position:relative;top:0px;" currentdisplay="0">
-																<tbody><tr>
-																	<td valign="bottom" align="left"><img src="/Images/spacer.gif" class="GrayHeaderBottomLeft"></td>
-																	<td align="left" class="GrayHeaderFont">
-																		<table border="0" cellpadding="0" cellspacing="0">
-																			<tbody><tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenuCategories"><a href="CategoryList.aspx" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Category List');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Categories</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																			<tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenudPollsVision"><a href="tolunavision" target="_blank" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Toluna Vision');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Toluna Vision</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																		</tbody></table>
-																	</td>
-																	<td valign="bottom" align="left"><img src="/Images/spacer.gif" class="GrayHeaderBottomRight"></td>
-																</tr>
-																<tr>
-																	<td class="GrayHeaderBottomLeft" valign="bottom" align="left"><img src="/Images/GrayHeader/left_bottom_g.jpg"></td>
-																	<td valign="bottom" align="left"></td>
-																	<td class="GrayHeaderBottomRight" valign="bottom" align="left"><img src="/Images/GrayHeader/right_bottom_g.jpg"></td>
-																</tr>
-															</tbody></table>					
-															<table id="SubMenu5" border="0" cellpadding="0" cellspacing="0" class="GrayHeaderBackground" onmouseover="JavaScript:bMouseOnSubMenu=true;" onmouseout="JavaScript:bMouseOnSubMenu=false;" style="display:none;position:relative;top:0px;" currentdisplay="0">
-																<tbody><tr>
-																	<td valign="bottom" align="left"><img src="/Images/spacer.gif" class="GrayHeaderBottomLeft"></td>
-																	<td align="left" class="GrayHeaderFont">
-																		<table border="0" cellpadding="0" cellspacing="0">
-																			<tbody><tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenudDashboard"><a href="home/dashboard" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Dashboard');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Your dashboard</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																			<tr><td style="width:13px;">&nbsp;</td><td nowrap="true" valign="bottom" align="left" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenuRegister"><a href="Register.aspx" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Register');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Register</a></td><td style="width:13px;">&nbsp;</td></tr><tr style="height:5px"><td colspan="3"></td></tr>
-																			<tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenudPointRewards"><a href="Points.aspx" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Your points');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Your points</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																			<tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td nowrap="true" valign="bottom" align="left" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenuInviteFriend"><a href="InviteFriend.aspx" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Invite a friend to Toluna');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Invite a friend to Toluna</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																		</tbody></table>
-																	</td>
-																	<td valign="bottom" align="left"><img src="/Images/spacer.gif" class="GrayHeaderBottomRight"></td>
-																</tr>
-																<tr>
-																	<td class="GrayHeaderBottomLeft" valign="bottom" align="left"><img src="/Images/GrayHeader/left_bottom_g.jpg"></td>
-																	<td valign="bottom" align="left"></td>
-																	<td class="GrayHeaderBottomRight" valign="bottom" align="left"><img src="/Images/GrayHeader/right_bottom_g.jpg"></td>
-																</tr>
-															</tbody></table>
-															<table id="SubMenu6" border="0" cellpadding="0" cellspacing="0" class="GrayHeaderBackground" onmouseover="JavaScript:bMouseOnSubMenu=true;" onmouseout="JavaScript:bMouseOnSubMenu=false;" style="display:none;position:relative;top:0px;" currentdisplay="0">
-																<tbody><tr>
-																	<td valign="bottom" align="left"><img src="/Images/spacer.gif" class="GrayHeaderBottomLeft"></td>
-																	<td align="left" class="GrayHeaderFont">
-																		<table border="0" cellpadding="0" cellspacing="0">
-																			<tbody><tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenuTestProducts"><a href="TestArea.aspx" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Test products');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Test products</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																			<tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenudLotteries"><a href="Winners.aspx" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Prize draws');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Prize draws winners</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																			<tr>
-																				<td style="width:13px;">&nbsp;</td>
-																				<td valign="bottom" align="left" nowrap="true" onmouseover="JavaScript:markSubMenu(this.id);" onmouseout="JavaScript:unMarkSubMenu(this.id);" class="HeaderLinksTD" id="SubMenudOurPartners"><a href="Points.aspx?pagemode=6" class="SubHeaderLinks" onmouseover="JavaScript:changeWindowStatusBar('Reward partners');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Reward partners</a></td>
-																				<td style="width:13px;">&nbsp;</td>
-																			</tr>
-																			<tr style="height:5px"><td colspan="3"></td></tr>
-																		</tbody></table>
-																	</td>
-																	<td valign="bottom" align="left"><img src="/Images/spacer.gif" class="GrayHeaderBottomRight"></td>
-																</tr>
-																<tr>
-																	<td class="GrayHeaderBottomLeft" valign="bottom" align="left"><img src="/Images/GrayHeader/left_bottom_g.jpg"></td>
-																	<td valign="bottom" align="left"></td>
-																	<td class="GrayHeaderBottomRight" valign="bottom" align="left"><img src="/Images/GrayHeader/right_bottom_g.jpg"></td>
-																</tr>
-															</tbody></table>					
-															</div>					
-														</td>
-													</tr>
-												</tbody></table>
-											</td>
-										</tr>
-									</tbody></table>					
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
+					<td style="width: 50px">
+						<span id="langname" style="cursor:pointer;float: right" onmouseout="bLangFilterOpen=false;" onmouseover="bLangFilterOpen=true;OpenLangFilter(this);">Site:<b>&nbsp;<img align="absmiddle" width="18" height="17" border="0" src="/Images/Flags/en.gif" alt="Global"></b></span>
+						<div onmouseover="bLangFilterOpen=true;" onmouseout="bLangFilterOpen=false;" id="langfilterdiv" style="display:none;z-index:3"><div class="LightGrayBox"><div class="LightGrayBox2"><div class="LightGrayBox3"><form class="LangText" method="post" id="langChoiceDropDown" name="langChoiceDropDown" style="margin: 0; padding: 0; z-index: 2"><input type="hidden" id="newlang" name="newlang"><div onclick="javascript:SelectLanguageNew('en','1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43','www');"><img align="absmiddle" class="buttoncursor" width="18" height="17" border="0" src="/Images/Flags/en.gif" alt="Global">Global</div><div onclick="javascript:SelectLanguageNew('de-de','17','de');"><img align="absmiddle" class="buttoncursor" width="18" height="17" border="0" src="/Images/Flags/de-de.gif" alt="Germany">Germany</div><div onclick="javascript:SelectLanguageNew('es-es','38','es');"><img align="absmiddle" class="buttoncursor" width="18" height="17" border="0" src="/Images/Flags/es-es.gif" alt="Spain">Spain</div><div onclick="javascript:SelectLanguageNew('en-gb','1','uk');"><img align="absmiddle" class="buttoncursor" width="18" height="17" border="0" src="/Images/Flags/en-gb.gif" alt="United Kingdom">United Kingdom</div><div onclick="javascript:SelectLanguageNew('fr-fr','16','fr');"><img align="absmiddle" class="buttoncursor" width="18" height="17" border="0" src="/Images/Flags/fr-fr.gif" alt="France">France</div><div onclick="javascript:SelectLanguageNew('nl-nl','12','nl');"><img align="absmiddle" class="buttoncursor" width="18" height="17" border="0" src="/Images/Flags/nl-nl.gif" alt="Netherlands">Netherlands</div><div onclick="javascript:SelectLanguageNew('it-it','23','it');"><img align="absmiddle" class="buttoncursor" width="18" height="17" border="0" src="/Images/Flags/it-it.gif" alt="Italy">Italy</div><div onclick="javascript:SelectLanguageNew('ru-ru','34','ru');"><img align="absmiddle" class="buttoncursor" width="18" height="17" border="0" src="/Images/Flags/ru-ru.gif" alt="Russia">Russia</div></form></div></div></div></div>
+					</td>					
 				</tr>
 			</tbody></table>
+			<!-- /Login -->
+			<!-- Top Navigation Line -->						
+			<div id="TopNavLineDiv">																	
+				<!-- Top Navigation -->												
+				<div id="TopNavBar">
+				  <ul class="navBarUl">
+					  <li>		
+						<a class="dDMenuA" title="Home" href="/">Home</a>
+					  </li>
+					  <li class="hasCildren">
+						<a class="dDMenuA" title="You" href="JavaScript:void(0);">You</a>
+						<div class="dDMenuDiv" id="dDMenuDiv_1">
+							<ul>
+								<li><a href="Register.aspx" title="Register">Register</a></li>
+								<li><a href="/InviteFriend.aspx" title="Invite a friend to Toluna">Invite a friend to Toluna</a></li>
+							</ul>
+						</div>
+					  </li>
+					  <li class="hasCildren">
+						<a class="dDMenuA" title="Create" href="/create">Create</a>
+						<div class="dDMenuDiv" id="dDMenuDiv_2">
+							<ul>
+								<li><a href="/createpoll" title="Create a Poll">Create a Poll</a></li>
+								<li><a href="/createtopic" title="Create an Opinion">Create an Opinion</a></li>
+								<!-- li><a href="/dPollsWebProdNet2/quickSurveyCreate.aspx" title="Create a QuickSurvey">Create a QuickSurvey</a></li -->
+							</ul>
+						</div>
+					  </li>
+					  <li class="hasCildren">
+						<a class="dDMenuA" title="Explore" href="/popular">Explore</a>
+						<div class="dDMenuDiv" id="dDMenuDiv_3">
+							<ul>
+								<li><a href="/popular" title="Popular">Popular</a></li>
+								<li><a href="/recent" title="Recent">Recent</a></li>
+								<li><a href="/featured/polls" title="Sponsored">Sponsored</a></li>
+								<li><a href="/popular/polls" title="Popular Polls">Polls</a></li>
+								<li><a href="/popular/opinions" title="Hot Opinions">Opinions</a></li>
+								<li><a href="/popular/polls&amp;opinions/video" title="Video">Video</a></li>
+								<li><a href="/categorylist" title="Category List">Categories</a></li>
+								<li><a href="/users" title="Users">Users</a></li>
+								<li><a href="http://www.toluna.com/tolunavision" target="_blank" title="Toluna Vision">Toluna Vision</a></li>
+							</ul>
+						</div>
+					  </li>
+					  <li class="hasCildren">
+						<a class="dDMenuA" title="Test &nbsp; Rewards" href="/test">Test &amp; Rewards</a>
+						<div class="dDMenuDiv" id="dDMenuDiv_4">
+							<ul>
+								<li><a href="/InviteFriend.aspx" title="Invite a friend to Toluna">Invite a friend to Toluna</a></li>
+								<li><a href="/test" title="Test products">Test area</a></li>
+								<li><a href="/winners" title="Prize draws">Prize draws winners</a></li>
+								<li><a href="/rewardpartners" title="Reward partners">Reward partners</a></li>
+							</ul>
+						</div>
+					  </li>
+					</ul>
+				</div>								
+				<!-- /Top Navigation -->			
+				<!-- Search form -->																		
+				<table id="searchTable" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td class="headerDivider">&nbsp;</td>
+						<td meta:resourcekey="QuickSearch">Search:</td>
+						<td>
+							<form action="Search.aspx" method="get" id="fQuickSearch" style="display: inline;" onsubmit="return PerformQuickSearch();">
+								<input name="query" defaultvalue="Keyword(s)" value="Keyword(s)" onclick="if (this.value==this.defaultValue) this.value='';" type="text" style="BORDER-RIGHT:#e0ba11 1px solid; font-family:Tahoma;BORDER-TOP:#e0ba11 1px solid; FONT-SIZE:13px; BORDER-LEFT:#e0ba11 1px solid; WIDTH:105px;height:21px; margin-bottom:1px; COLOR:#888887; BORDER-BOTTOM:#e0ba11 1px solid; BACKGROUND-COLOR:#f7f7f7">
+							</form>
+						</td>
+						<td title="Quick search" onclick="PerformQuickSearch();"><img src="/images/new/gosearch.gif" border="0" class="buttoncursor" alt="Search"></td>
+					</tr>
+				</tbody></table>				
+				<!-- /Search form -->
+			</div>
+			<!-- /Top Navigation Line -->
+			<script type="text/javascript" language="javascript">
+				try {setupMenus();} catch(e){};
+			</script>
+			 
 		</td>
 	</tr>
-	 
-	<tr height="5"><td></td></tr>
-	<tr valign="top" height="100%">
-		<td width="100%" valign="top" align="center">
-			<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr valign="top">
-					<td width="100%" align="center">
-<table border="0" width="100%" align="left">
-	<tbody><tr>
-		<td width="100%" align="left">
-			<table border="0">
-				<tbody><tr>
-					<td>
-						<font class="Heading">Privacy Policy</font><br>
-						<hr class="HrStyle">
-					</td>
-				</tr>
-				<tr>
-					<td>
+	<tr valign="top">
+		<td id="contentLineTd">
 
+<h1>Privacy Policy</h1>
+
+<h2>MEMBER PRIVACY POLICY</h2>
 
 <p>
-  <span>MEMBER PRIVACY POLICY</span>
+  Toluna is committed to the privacy of our participants. We wish to share this promise with you through our Privacy Statement.
 </p>
 <p>
-  <br>
+  Below you may understand how Toluna will use and treat your data. 
+</p>
+<h3>Article 1. Toluna’s confidentiality and quality commitments</h3>
+<p>
+  Toluna makes a commitment to each participant that it will ensure the utmost confidentiality and therefore maintain the anonymity of each participant online. Indeed, under no pretext whatsoever will Toluna divulge personal information relating to individual participants (such as their e-mail address, postal address, level of income, marital status, etc.) to any third party in any way, shape or form without the participant’s explicit consent.
 </p>
 <p>
-  <span>Toluna is committed to the privacy of our participants. We
-  wish to share this promise with you through our Privacy Statement. </span>
+  In accordance with the provisions of Law No. 78-17 concerning Data Processing and Civil Liberties, dated 6 January 1978, the participant shall have the right to gain access to his or her data and correct it.
 </p>
 <p>
-  <br>
+  In order to exercise this right, the participant may either write to the address below or <a href="/ContactUs.aspx?type=0">Contact us.</a>
 </p>
 <p>
-  <span>Below you may understand how Toluna will use and treat your
-  data. </span>
+  Toluna undertakes to carry out all the formalities required with the French Data Processing and Civil Liberties Commission in order to declare the participants’ file. As part of ensuring the security of exchanges of e-mail with the participant, Toluna shall make sure that the tools required pursuant to the legislation in force in France are set up. In this respect, Toluna’s only obligation shall be to take due care.
 </p>
+<h3>Article 2 Use of Sensitive Personal Information</h3>
 <p>
-  <br>
-</p>
-<p>
-  <b><span>Article 1. Toluna’s confidentiality and quality
-  commitments</span></b>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <span>Toluna makes a commitment to each participant that it will
-  ensure the utmost confidentiality and therefore maintain the anonymity of each
-  participant online. Indeed, under no pretext whatsoever will Toluna divulge
-  personal information relating to individual participants (such as their e-mail
-  address, postal address, level of income, marital status, etc.) to any third
-  party in any way, shape or form without the participant’s explicit
-  consent.</span>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <span>In accordance with the provisions of Law No. 78-17 concerning
-  Data Processing and Civil Liberties, dated 6 January 1978, the participant
-  shall have the right to gain access to his or her data and correct it. </span>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <span>In order to exercise this right, the participant may either
-  write to the address below or <a href="/ContactUs.aspx?type=0">contact us.</a> </span>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <span>Toluna undertakes to carry out all the formalities required
-  with the French Data Processing and Civil Liberties Commission in order to
-  declare the participants’ file. As part of ensuring the security of exchanges
-  of e-mail with the participant, Toluna shall make sure that the tools required
-  pursuant to the legislation in force in France are set up. In this respect,
-  Toluna’s only obligation shall be to take due care.</span>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <b><span>Article 2 Use of Sensitive Personal Information
-  </span></b>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <span>In some circumstances, Toluna may ask you to inform us of
+  In some circumstances, Toluna may ask you to inform us of
   your sensitive personal data, unless we are permitted to process such
   sensitive personal data by law, we will ask for your consent. In general,
-  sensitive data that may be collected by Toluna may cover: </span>
-</p>
-<p>
-  <br>
+  sensitive data that may be collected by Toluna may cover:
 </p>
 <p>
   your racial or ethnic origin;
@@ -828,190 +205,59 @@
 <p>
   your sexual life.
 </p>
+<h3>Article 3 Participant Anonymity</h3>
 <p>
-  <br>
+  In case the participant has agreed to take part in online surveys, Toluna will provide clients with data files containing anonymous answers to survey questions or a report setting out and interpreting those answers. No personal data in respect of those individuals responding to a survey will be given to clients of Toluna without previous constent.
 </p>
 <p>
-  <b><span>Article 3 Participant Anonymity</span></b>
+	In some circumstances Toluna may be required by law to share sensitive personal data about you to a third party. Otherwise Toluna does not share sensitive personal data outside of the companies forming the Toluna Group without your consent.
+</p>
+<h3>Article 4 Processing of Data</h3>
+<p>
+  Toluna ensures that it is permitted to process your personal data. If no statutory condition applies to the form of processing we undertake, we can only undertake such processing with your consent. You may withdraw your consent to our processing your personal data by writing to the address below.
 </p>
 <p>
-  <br>
+  If a statutory condition applies allowing Toluna to process your personal data and you withdraw consent to process your personal data this will not necessarily mean that Toluna ceases to process your personal data as it may, for example, be under a statutory duty to continue to process your personal data for some purposes e.g. to keep copies of commercial transactions for a minimum of seven years.
 </p>
 <p>
-  <span><font color="black">In case the participant has agreed to
-  take part in online surveys, Toluna will provide clients</font> with data
-  files containing anonymous answers to survey questions or a report setting out
-  and interpreting those answers. No personal data in respect of those
-  individuals responding to a survey will be given to clients of Toluna without
-  previous constent. </span>
+  Any personal information you send to us will be treated in the strictest confidence.
 </p>
 <p>
-  <br>
+  Toluna may continue to process your personal data after you have ceased to be a member of Toluna or we have sent you any information requested by you.
+</p>
+<h3>Article 5: Cookies</h3>
+<p>
+  One or more "cookies" will be placed on the hard disk of the participant’s computer in order to allow Toluna to recognise the participant when they connect to the Toluna website, in order to facilitate the management of Toluna, and for statistical purposes (pages consulted, date and time of consultations etc.)
 </p>
 <p>
-  <span>In some circumstances Toluna may be required by law to share
-  sensitive personal data about you to a third party. Otherwise Toluna does not
-  share sensitive personal data outside of the companies forming the Toluna
-  Group without your consent. </span>
+  Only information collected by cookies as specified in this section of our privacy policy is automatically collected from users of the Site. In the event that we do collect any personal data about visitors to the Site it is available only to Toluna.
 </p>
 <p>
-  <br>
+  The participant authorises cookies to be put in place and their use by Toluna. The participant is informed of the possibility of opposing the installation of " cookies ". To do so you should modify your browser settings click on the help section of your Internet browser and follow the instructions.
+</p>
+<h3>Contact us </h3>
+<p>
+  If you have any queries relating to this Statement, please feel free to contact us by letter at the following address:
 </p>
 <p>
-  <br>
+Panel Manager, Toluna<br>
+14 Place Marie-Jeanne Bassot<br>
+92300 Levallois-Perret<br>
+t: +33 (0)1 40 89 71 00<br>
+f: +33 (0)1 40 89 71 01
 </p>
+<h2>Definitions: </h2>
+<h3>Personal data are: </h3>
 <p>
-  <br>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <b><span>Article 4 Processing of Data</span></b>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <span>Toluna ensures that it is permitted to process your personal
-  data. If no statutory condition applies to the form of processing we
-  undertake, we can only undertake such processing with your consent. You may
-  withdraw your consent to our processing your personal data by writing to the
-  address below. </span>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <span>If a statutory condition applies allowing Toluna to process
-  your personal data and you withdraw consent to process your personal data this
-  will not necessarily mean that Toluna ceases to process your personal data as
-  it may, for example, be under a statutory duty to continue to process your
-  personal data for some purposes e.g. to keep copies of commercial transactions
-  for a minimum of seven years. </span>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  Any personal information you send to us will be treated in the strictest
-  confidence.
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <span>Toluna may continue to process your personal data after you
-  have ceased to be a member of Toluna or we have sent you any information
-  requested by you. </span>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <b><span>Article 5: Cookies</span></b>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <span>One or more "cookies" will be placed on the hard disk of the
-  participant’s computer in order to allow Toluna to recognise the participant
-  when they connect to the Toluna website, in order to facilitate the management
-  of Toluna, and for statistical purposes (pages consulted, date and time of
-  consultations etc.) </span>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <span>Only information collected by cookies as specified in this
-  section of our privacy policy is automatically collected from users of the
-  Site. In the event that we do collect any personal data about visitors to the
-  Site it is available only to Toluna.</span>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <span>The participant authorises cookies to be put in place and
-  their use by Toluna. The participant is informed of the possibility of
-  opposing the installation of " cookies ". To do so you should modify your
-  browser settings click on the help section of your Internet browser and follow
-  the instructions. </span>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <b>Contact us </b>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  If you have any queries relating to this Statement, please feel free to
-  contact us by letter at the following address:
-</p>
-<p>
-  <br>
-</p>
-<p>
-  Panel Manager
-</p>
-<p>
-  Toluna
-</p>
-<p>
-  204 Rue de Crimée
-</p>
-<p>
-  75019 Paris
-</p>
-<p>
-  France
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <b>Definitions: </b>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  <b>Personal data are: </b>
-</p>
-<p>
-  <br>
-</p>
-<p>
-  any data from which the identity of a living individual can be determined,
-  either by itself or with other data processed by data controller;
+  any data from which the identity of a living individual can be determined, either by itself or with other data processed by data controller;
 </p>
 <p>
   any information such as name and address, email address, telephone number and
-  general contact details, personal data includes images on film (e.g. CCTV
-  images), photographs and telephone voice recordings.
+  general contact details, personal data includes images on film (e.g. CCTV images), photographs and telephone voice recordings.
 </p>
-<p>
-  <br>
-</p>
-<p>
-  <b>Sensitive Personal Data </b>
-</p>
-<p>
-  <br>
-</p>
+<h3>Sensitive Personal Data </h3>
 <p>
   Sensitive Personal Data means personal data consisting of information as to:
-</p>
-<p>
-  <br>
 </p>
 <p>
   the racial or ethnic origin of the data subject;
@@ -1023,7 +269,7 @@
   his religious beliefs or other beliefs of a similar nature;
 </p>
 <p>
-  <span>whether he is a member of a trade union; </span>
+  whether he is a member of a trade union;
 </p>
 <p>
   his physical or mental health or condition;
@@ -1035,81 +281,38 @@
   the commission or alleged commission by him of any offence; or
 </p>
 <p>
-  any proceedings for any offence committed or alleged to have been committed by
-  him, the disposal of such proceedings or the sentence of any court in such
-  proceedings.
-</p>
-<p>
-</p>
-<p>
-</p>
-<p>
-  <br>
+  any proceedings for any offence committed or alleged to have been committed by him, the disposal of such proceedings or the sentence of any court in such proceedings.
 </p>
 
 
-
-
-					</td>
-				</tr>
-			</tbody></table>
 		</td>
 	</tr>
-</tbody></table>
-
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr height="20"><td></td></tr>
-	<tr style="height:20px;">
-		<td width="100%">
-			<table border="0" style="width:100%;height:20px;" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td class="GrayHeaderBottomLeft" valign="top" align="left"><img src="/Images/new/tableft.gif"></td>
-					<td align="center" class="FooterTabMiddle"><img src="/images/spacer.gif" border="0" height="1" width="1"></td>
-					<td class="GrayHeaderBottomRight" valign="top" align="right"><img src="/Images/new/tabright.gif"></td>
-				</tr>
-				<tr>
-					<td class="FooterTabLeft"><img src="/images/spacer.gif" border="0" height="1" width="1"></td>
-					<td align="center" height="100%">
-						<table border="0" width="100%" cellpadding="0" cellspacing="0" height="100%">
-							<tbody><tr>
-								<td align="left">
-									<table border="0" cellpadding="0" cellspacing="0">
-										<tbody><tr>
-											<td nowrap="true"><a href="About.aspx" class="FooterLinks" title="About Us" onmouseover="JavaScript:changeWindowStatusBar('About Us');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">About Us</a></td>
-											<td nowrap="true"><span class="FooterLinks">&nbsp;|&nbsp;</span></td>
-											<td nowrap="true"><a href="Terms.aspx" class="FooterLinks" title="Site Terms" onmouseover="JavaScript:changeWindowStatusBar('Site Terms');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Site Terms</a></td>
-											<td nowrap="true"><span class="FooterLinks">&nbsp;|&nbsp;</span></td>
-											<td nowrap="true"><a href="Privacy.aspx" class="FooterLinks" title="Privacy Policy" onmouseover="JavaScript:changeWindowStatusBar('Privacy Policy');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Privacy Policy</a></td>
-											<td nowrap="true"><span class="FooterLinks">&nbsp;|&nbsp;</span></td>
-											<td nowrap="true"><a href="help" class="FooterLinks" title="Help" onmouseover="JavaScript:changeWindowStatusBar('FAQ');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">FAQ</a></td>
-											<td nowrap="true"><span class="FooterLinks">&nbsp;|&nbsp;</span></td>
-											<td nowrap="true"><a href="http://dpolls.blogspot.com/" target="_blank" class="FooterLinks" title="Blog" onmouseover="JavaScript:changeWindowStatusBar('Blog');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Blog</a></td>
-											<td nowrap="true"><span class="FooterLinks">&nbsp;|&nbsp;</span></td>
-											<td nowrap="true"><a href="tour/tour01.aspx" class="FooterLinks" title="Tour" onmouseover="JavaScript:changeWindowStatusBar('Tour');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Quick Tour</a></td>
-											<td nowrap="true"><span class="FooterLinks">&nbsp;|&nbsp;</span></td>
-											<td nowrap="true"><a href="jobs" class="FooterLinks" title="Jobs" onmouseover="JavaScript:changeWindowStatusBar('Jobs');return true;" onmouseout="JavaScript:changeWindowStatusBar('');">Jobs</a></td>
-										</tr>
-									</tbody></table> 
-								</td>
-								<td></td>
-								<td align="right" nowrap="true"><span id="FooterText">Copyright © 2008 Toluna Inc. All rights reserved.</span>&nbsp;</td>
-							</tr>
-							<tr><td height="3"></td></tr>
-						</tbody></table>					
-					</td>
-					<td class="FooterTabRight"><img src="/images/spacer.gif" border="0" height="1" width="1"></td>
-				</tr>
-			</tbody></table>
+	<tr>
+		<td id="footerLineTd">
+	    	<span class="TimeDiffDiv">TL-FR-WAPPS4</span>
+			<div class="grayBordDiv"><div class="grayBordDiv2"><div class="grayBordDiv4"><div class="grayBordDiv5"><div class="grayBordDiv6">
+				<ul>
+					<li><a href="About.aspx" title="About Us">About Us</a></li>
+					
+					<li><a href="Terms.aspx" title="Site Terms">Site Terms</a></li>
+					
+					<li><a href="Privacy.aspx" title="Privacy Policy">Privacy Policy</a></li>
+					<li><a href="help" title="Help">FAQ</a></li>
+					<li><a href="/blog" target="_blank" title="Blog">Blog</a></li>
+					<li><a href="tour/Site/en/index.aspx" target="_blank" title="Tour">Tutorial</a></li>
+					<li><a href="jobs" title="Jobs">Jobs</a></li>
+					<li><a href="http://affiliate.toluna.com" title="Partner with us">Affiliates</a></li>
+					<li class="last"><a title="QuickSurvey" href="/managesurveys">QuickSurveys</a></li>
+				</ul>	
+				<div id="copyrightDiv">Copyright © 2008 Toluna Inc. All rights reserved.</div>	
+				<div class="trHrDiv"></div>		
+			</div></div></div></div></div>
 		</td>
 	</tr>
 </tbody></table>
 
 
-
+				
 <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? " https://ssl." : "http://www.");
     document.write("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
