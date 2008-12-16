@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiercewireless.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610001805id_/http%3A//www.fiercewireless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiercewireless.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165625id_/http%3A//www.fiercewireless.com/privacy) for the most accurate reproduction.*
 
 # FierceMarkets Privacy Policy
 
