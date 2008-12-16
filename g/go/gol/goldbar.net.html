@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goldbar.net privacy policy that was archived on 2007-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071014031943id_/http%3A//www.goldbar.net/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldbar.net privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216023850id_/http%3A//www.goldbar.net/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
@@ -44,102 +44,6 @@ li {
 </style>
 
 <script type="text/JavaScript">
-<!--
-function changedimensions()
-{
-            var x,y;
-            switch(screen.width)
-            {
-			                      case 800:
-                        {
-                                    if(navigator.appName == 'Microsoft Internet Explorer')
-                                    {
-                                                x=633;  
-                                                y=51;
-                                    }
-                                    else
-                                    {
-                                                x=631;
-                                                y=56;
-                                    }
-                                    break;
-                        }
-
-                        case 1024:
-                        {
-                                    if(navigator.appName == 'Microsoft Internet Explorer')
-                                    {
-                                                x=707;  
-                                                y=51;
-                                    }
-                                    else
-                                    {
-                                                x=708;
-                                                y=56;
-                                    }
-                                    break;
-                        }
-                        case 1152:
-                        {
-                                    if(navigator.appName == 'Microsoft Internet Explorer')
-                                    {
-                                                x=771;  
-                                                y=51;
-                                    }
-                                    else
-                                    {
-                                                x=772;
-                                                y=56;
-                                    }
-                                    break;
-                        }
-						case 1440:
-                        {
-                                    if(navigator.appName == 'Microsoft Internet Explorer')
-                                    {
-                                                x=915;  
-                                                y=51;
-                                    }
-                                    else
-                                    {
-                                                x=916;
-                                                y=56;
-                                    }
-                                    break;
-                        }
-                        case 1280:
-                        {
-                                    if(screen.height == '768')
-                                    {
-                                                if(navigator.appName == 'Microsoft Internet Explorer')
-                                                {
-                                                            x=835;  
-                                                            y=51;
-                                                }
-                                    }
-                                    else
-                                    {
-                                                if(navigator.appName == 'Microsoft Internet Explorer')
-                                                {
-                                                            x=835;  
-                                                            y=51;
-                                                }
-                                                else
-                                                {
-                                                            x=846;
-                                                            y=44;		
-                                                }
-                                    }
-                                    break;
-                        }
-                        
-            }//switch
-            
-            e=document.getElementById("loginbx");
-            e.style.left = x+'px';
-            e.style.top = y+'px';
-            //alert(x,y);
-}//function
 
 function MM_findObj(n, d) { //v4.01
   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
@@ -189,16 +93,64 @@ function MM_showHideLayers() { //v9.0
 }
 //-->
 </script>
+
+<script language="javascript" type="text/javascript">
+	function doAlign ()
+	{
+
+		var v	=	document.getElementById("apDiv2");
+		var v5  =   document.getElementById("loginbx");
+		var left=	findLeftPos(v);
+		var top	=	findTopPos(v);
+		moveIt(v5,left+623,top-100);
+	}
+	
+	function findLeftPos(obj)
+	{
+		var curleft = 0;
+		if (obj.offsetParent)
+		{
+			do
+			{
+				curleft += obj.offsetLeft;
+			}
+			while (obj = obj.offsetParent);
+		}
+		return (curleft);
+	}
+
+function findTopPos(obj)
+	{
+		var curtop = 0;
+		if (obj.offsetParent)
+		{
+			do
+			{
+				curtop += obj.offsetTop;
+			}
+			while (obj = obj.offsetParent);
+		}
+		return (curtop);
+	}
+
+
+	function moveIt(obj, mvLeft,mvTop)
+	{
+		obj.style.position = "absolute";
+		obj.style.top = mvTop+"px";
+		obj.style.left = mvLeft+"px";
+	}
+  </script>
 </head>
 
-<body onload="MM_showHideLayers('loginbx','','hide');MM_preloadImages('images/nav_ovr_03.jpg','images/nav_ovr_05.jpg','images/nav_ovr_07.jpg','images/nav_ovr_09.jpg','images/nav_ovr_11.jpg','images/nav_ovr_13.jpg','images/nav_ovr_15.jpg','images/nav_ovr_17.jpg','images/nav_ovr_19.jpg','images/nav_ovr_21.jpg');changedimensions()">
+<body onload="MM_showHideLayers('loginbx','','hide');MM_preloadImages('images/nav_ovr_03.jpg','images/nav_ovr_05.jpg','images/nav_ovr_07.jpg','images/nav_ovr_09.jpg','images/nav_ovr_11.jpg','images/nav_ovr_13.jpg','images/nav_ovr_15.jpg','images/nav_ovr_17.jpg','images/nav_ovr_19.jpg','images/nav_ovr_21.jpg');doAlign()">
 
 <table width="834" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td>
    
     <!-- Login Box -->
-<div id="loginbx" style="position: absolute; border: 0px; width: 211px; margin: 0px; visibility: hidden; left: 631px; top: 56px;"> 
+<div id="loginbx" style="position: absolute; border: 0px; width: 211px; margin: 0px; visibility: hidden; top: 41px; left: 889px;"> 
   <form id="form1" name="frm1" method="post" action="login.php">
     <div style="width:211; height:161; background:url(images/login_bg_33.jpg);"> 
       <div align="right"><a href="#"><img src="images/btn_ovr_lgn_03.jpg" alt="Log In" width="63" height="21" hspace="12" vspace="5" border="0" onclick="MM_showHideLayers('loginbx','','hide')"></a></div>
@@ -264,7 +216,7 @@ function MM_swapImage() { //v3.0
 <div style="height:60; margin-top:18px; text-align:left; float:left;" align="left">
 <br><a href="#"><img src="images/hdr_29.jpg" alt="GoldbarOne" width="192" height="60" border="0"></a></div>
 
-<div style="background:url(images/header_bg_26.jpg); margin-top:10px;  width:834; height:35; text-align:left; float:left;">
+<div id="apDiv2" style="background:url(images/header_bg_26.jpg); margin-top:10px;  width:834; height:35; text-align:left; float:left;">
         <div class="heading03" style="margin-left:10px; margin-top:5px; text-align:left; float:left; width:834;">Privacy Policy</div>
 </div>
 <div style="width:800; text-align:left; padding:10px; float:left;">
@@ -368,7 +320,7 @@ h = screen.height;
 info= "&ref=" + f + "&url="+ u + "&width=" + w + "&height=" + h +"&js=" + js;
 document.write("<img height=0 width=0 src=http://www.goldbar.net/statsone/count.php?id=1" + info + ">");
 -->
-</script><img height="0" width="0" src="http://www.goldbar.net/statsone/count.php?id=1&amp;ref=&amp;url=https%3A//web.archive.org/web/20071014031943id_/http%253A//www.goldbar.net/privacy.htm&amp;width=800&amp;height=600&amp;js=n">
+</script><img height="0" width="0" src="http://www.goldbar.net/statsone/count.php?id=1&amp;ref=&amp;url=https%3A//web.archive.org/web/20081216023850id_/http%253A//www.goldbar.net/privacy.htm&amp;width=800&amp;height=600&amp;js=n">
 
 
 </body></html>
