@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518144600id_/http%3A//www.uwe.ac.uk/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022852id_/http%3A//www.uwe.ac.uk/info/privacy.shtml) for the most accurate reproduction.*
 
-# Bristol UWE - Privacy Policy
+# Privacy Policy - UWE Bristol
 
 The University of the West of England, Bristol respects the privacy of users of its web site. This Privacy Policy applies to any page from which it is linked. Special terms which apply only to **Blackboard** (the University's virtual learning environment ) are grouped later in this document. Users of **myUWE** should also consult our advice on [Protecting your privacy](http://info.uwe.ac.uk/myuwe/guidance/protectingprivacy.asp).
 
@@ -14,9 +14,13 @@ When you access a web page, information about your usage is automatically collec
 
 You are not personally identifiable as an individual from such information alone. However, the University of the West of England, Bristol may be legally obliged to release this information to appropriate authorities.
 
+## Web metrics
+
+To maintain and improve the quality of our website we use the SiteStat web metrics service provided by Nedstat. The SiteStat Privacy Policy states that Nedstat "do not link IP-addresses of your website visitors to individuals" and that where measuring data includes personal data that Nedstat will process such data only on our behalf and will not use the data on its own behalf, nor make the data available to other Nedstat customers, unless the data have been anonimised and aggregated (i.e. are no longer linked to an individual or to our website).
+
 ## Cookies
 
-Please see the University's [Cookie Policy](https://web.archive.org/web/20080518144600id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml). Also, the information (below) on tracking in **Blackboard** , which depends on use of cookies. 
+Please see the University's [Cookie Policy](https://web.archive.org/web/20081216022852id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml). Also, the information (below) on tracking in **Blackboard** , which depends on use of cookies. 
 
 ## Personal disclosures 
 
