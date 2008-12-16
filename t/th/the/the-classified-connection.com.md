@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the the-classified-connection.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414002901id_/http%3A//www.the-classified-connection.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-classified-connection.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162150id_/http%3A//www.the-classified-connection.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy – We take Your Privacy Seriously
 
-  |  |   
 ---  
   |  | 
 
@@ -70,5 +69,4 @@ Creative Software Systems may update this policy. We will notify you about signi
   
 ---|---  
   
-   
  
