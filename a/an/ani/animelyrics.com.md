@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animelyrics.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611141804id_/http%3A//www.animelyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animelyrics.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011806id_/http%3A//www.animelyrics.com/privacy.html) for the most accurate reproduction.*
 
 # Anime Lyrics dot Com - Privacy Policy
 
