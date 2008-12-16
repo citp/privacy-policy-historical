@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elizabetharden.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229162423id_/http%3A//shop.elizabetharden.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elizabetharden.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155300id_/http%3A//shop.elizabetharden.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # Elizabeth Arden Skincare, Fragrance and Cosmetics featuring PREVAGE Anti Aging Treatment line, INTERVENE Skin Care line, Mediterranean perfume, color lip and eye makeup and many other prestige beauty products.
 
@@ -17,6 +17,8 @@ PII will only be collected when it is voluntarily provided to Elizabeth Arden. Y
 **2\. Non-personally Identifiable Information.**
 
 As is true with most websites, we may also collect from you non-personally identifiable information, such as an IP host address, the pages viewed, the browser type, the Site usage, and other data which do not identify any individual ("Aggregate Information"). When your computer contacts our web servers (for example, when you visit the Site, view an HTML e-mail, or download an interactive desktop from the Site), Aggregate Information may be collected automatically. We also may determine the applicable technology available to serve you the most appropriate version of a web page, e-mail or similar service.
+
+We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website and your interaction with our products and services. They may also use information about your visits to this and other websites associated with the network advertiser to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.networkadvertising.org/).
 
 **3\. Cookies and Tracking Technology**
 
@@ -41,6 +43,8 @@ We will never disclose your PII to any third party who is not affiliated with, a
 **2\. Non-Personally Identifying Information.**
 
 Elizabeth Arden may use and disclose Aggregate Information to improve and enhance your experience on the Site and for other purposes. For example, from time to time, we may use and share Aggregate Information with third parties to show general demographic and preference information among users of the Site. In these circumstances, the shared information will neither contain nor be linked to any PII.
+
+We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website and your interaction with our products and services. They may also use information about your visits to this and other websites associated with the network advertiser to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.networkadvertising.org/).
 
 **_SPECIAL NOTICE REGARDING CHILDREN UNDER 18 YEARS OLD_**
 
@@ -72,6 +76,6 @@ If you have any questions, comments or concerns about our privacy practices or t
 
 **_EFFECTIVE DATE_**
 
-This Privacy Policy is effective and was last updated on November 15, 2006.
+This Privacy Policy is effective and was last updated on November 21, 2008.
 
-Copyright ? 2006 Elizabeth Arden, Inc. All rights reserved.
+Copyright © 2008 Elizabeth Arden, Inc. All rights reserved.
