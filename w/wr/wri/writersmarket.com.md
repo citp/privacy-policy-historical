@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writersmarket.com privacy policy that was archived on 2008-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080222231204id_/http%3A//www.writersmarket.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writersmarket.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155652id_/http%3A//www.writersmarket.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Writer's Market Privacy Policy
 
