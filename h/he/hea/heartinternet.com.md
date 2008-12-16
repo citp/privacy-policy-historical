@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516052001id_/http%3A//www.heartinternet.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041024id_/http%3A//www.heartinternet.co.uk/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,18 +16,21 @@
 
 7\. If you have any questions about privacy please contact us at [sales@heartinternet.co.uk](mailto:sales@heartinternet.co.uk).
 
-[ ](https://web.archive.org/web/20080516052001id_/http%3A//www.heartinternet.co.uk/extend-h.shtml)
+  
 
-The worlds most powerful web hosting control panel - now even better.
 
-[ ](https://web.archive.org/web/20080516052001id_/http%3A//www.heartinternet.co.uk/prices-d.shtml)
-
-The UKs lowest price domains - only from Heart Internet.
-
-[ ](https://web.archive.org/web/20080516052001id_/http%3A//www.heartinternet.co.uk/transfer-d.shtml)
+[ ](https://web.archive.org/web/20081216041024id_/http%3A//www.heartinternet.co.uk/transfer-d.shtml)
 
 Move to Heart Internet and get all our great features for FREE.
 
-[ ](https://web.archive.org/web/20080516052001id_/http%3A//www.heartinternet.co.uk/builder-h.shtml)
+[ ](https://web.archive.org/web/20081216041024id_/http%3A//www.heartinternet.co.uk/hostpay-r.shtml)
+
+Sell Domains and Hosting using our Free HostPay software.
+
+[ ](https://web.archive.org/web/20081216041024id_/http%3A//www.heartinternet.co.uk/dedicated-servers.shtml)
+
+Using yesterdays technology? Why not use Windows Server 2008?
+
+[ ](https://web.archive.org/web/20081216041024id_/http%3A//www.heartinternet.co.uk/builder-h.shtml)
 
 Many of our hosting accounts come with our FREE Website Builder Software.
