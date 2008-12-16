@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicproducer.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611050659id_/http%3A//www.sonicproducer.com/iprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicproducer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044947id_/http%3A//www.sonicproducer.com/iprivacy.html) for the most accurate reproduction.*
 
 # SonicProducer.com
 
