@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the costumecity.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610004108id_/http%3A//store.costumecity.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumecity.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061040id_/http%3A//store.costumecity.com/privacy.html) for the most accurate reproduction.*
 
-# privacy
+# Privacy Policy
 
 At Costume City, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.  
   
