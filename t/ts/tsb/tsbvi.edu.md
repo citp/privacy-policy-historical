@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsbvi.edu privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602151322id_/http%3A//www.tsbvi.edu/about.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsbvi.edu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035848id_/http%3A//www.tsbvi.edu/about.html%23Privacy) for the most accurate reproduction.*
 
 # About the TSBVI Web Site
 
@@ -18,15 +18,23 @@ The Texas School for the Blind and Visually Impaired World Wide Web site reflect
 
 All resources on the TSBVI Web page are in the public domain unless otherwise noted. You are welcome to use these resources as needed provided that the TSBVI Web page is cited as the source. A basic tenet of TSBVI is to promote the collegial sharing of information. You are invited to submit items for publication on the website. In all cases author contact information will be included. In this manner, we hope to build a valuable resource to promote the development of instructional materials and resources.
 
-### Web Site Usability Features
+### Accessibility Policy
 
-If you have a visual impairment there are many options which you can control from the selection of an accessible browser to modifying your browser to meet your needs. Visit the [Large Print and Speech Access to the World Wide Web.](https://web.archive.org/web/20080602151322id_/http%3A//www.tsbvi.edu/technology/web.htm)
+The Texas School for the Blind and Visually Impaired (TSBVI) is committed to making its Web site accessible to all users. To make the site more accessible, we include several features designed to improve accessibility for users with disabilities. Some of these features are described below.
 
-This website strives to follow [Web Content Accessibility Guidelines](http://www.w3.org/TR/WAI-WEBCONTENT).
+A descriptive text equivalent is provided for images and other non-text elements, aiding users who listen to the content of the site by using a screen reader, rather than reading the site.
 
-The Texas image on each page will link back to the home page
+Major reports and other publications that are on the Web site are generally available in HTML or other accessible format. When publishing a document in Adobe Portable Document Format (PDF), we will also post an accessible version.
 
-Every graphics image will have alt text to name the graphic. Where appropriate, a graphic will be followed by a D link that provides an in-depth description of the image.
+TSBVI is committed to making its Web site accessible according to the standards set forth by the World Wide Web Consortium (W3C) [Web Content Accessibility Guidelines](http://www.w3.org/TR/WAI-WEBCONTENT) and the [Section 508 Web Accessibility Standards.](http://www.section508.gov/index.cfm?FuseAction=Content&ID=12#Web) To improve the accessibility of our Web site, we test any major redesign with screen readers and other tools. The results of these reviews are incorporated into the Web site.
+
+TSBVI welcomes comments on how to improve the site's accessibility for users with disabilities. If you use assistive technology and the format of any material on our Web site interferes with your ability to access the information, please [contact the webmaster](mailto:jimallan@tsbvi.edu). To enable us to respond in a manner most helpful to you, please indicate the nature of your accessibility problem, the preferred format in which to receive the material, the Web address of the requested material, and your contact information. 
+
+Additional information about accessibility programs in Texas is available from the [Governor's Committee on People with Disabilities](http://www.governor.state.tx.us/disabilities).
+
+If you have a visual impairment there are many options which you can control from the selection of an accessible browser to modifying your browser to meet your needs. Visit [Large Print and Speech Access to the World Wide Web.](https://web.archive.org/web/20081216035848id_/http%3A//www.tsbvi.edu/technology/web.htm)
+
+[Questons about accessibility?](https://web.archive.org/school/whodoyou.htm#access)
 
 * * *
 
@@ -60,7 +68,7 @@ We use Log analysis tools to create summary statistics, which are used for purpo
 
 ### Submission Guidelines
 
-  * Use a FAQ structure (see [bnsemail.htm](https://web.archive.org/web/20080602151322id_/http%3A//www.tsbvi.edu/technology/bnsemail.htm) as an example)
+  * Use a FAQ structure (see [bnsemail.htm](https://web.archive.org/web/20081216035848id_/http%3A//www.tsbvi.edu/technology/bnsemail.htm) as an example)
   * Identify sources of quoted materials (link to source when available)
   * When referencing specific products provide a link to appropriate manufacturer's product page
   * Provide complete author information. Name, Organization, Address, E-mail.
@@ -70,13 +78,13 @@ We use Log analysis tools to create summary statistics, which are used for purpo
 
 * * *
 
-### [Open Records Policy](https://web.archive.org/web/20080602151322id_/http%3A//www.tsbvi.edu/school/open.htm)
+### [Open Records Policy](https://web.archive.org/web/20081216035848id_/http%3A//www.tsbvi.edu/school/open.htm)
 
 * * *
 
-[](https://web.archive.org/web/20080602151322id_/http%3A//www.tsbvi.edu/index.htm) [](https://web.archive.org/web/20080602151322id_/http%3A//www.tsbvi.edu/tsbvi-toc.htm) [](https://web.archive.org/web/20080602151322id_/http%3A//www.tsbvi.edu/search.htm)  
-[Agency Contact Information](https://web.archive.org/web/20080602151322id_/http%3A//www.tsbvi.edu/school/whodoyou.htm) | [Texas State Homepage](http://www.state.tx.us/) | [Texas State Wide Search](http://www.tsl.state.tx.us/trail/)
+[](https://web.archive.org/web/20081216035848id_/http%3A//www.tsbvi.edu/index.htm) [](https://web.archive.org/web/20081216035848id_/http%3A//www.tsbvi.edu/tsbvi-toc.htm) [](https://web.archive.org/web/20081216035848id_/http%3A//www.tsbvi.edu/search.htm)  
+[Agency Contact Information](https://web.archive.org/web/20081216035848id_/http%3A//www.tsbvi.edu/school/whodoyou.htm) | [Texas State Homepage](http://www.state.tx.us/) | [Texas State Wide Search](http://www.tsl.state.tx.us/trail/)
 
-Please complete the [comment form](https://web.archive.org/web/20080602151322id_/http%3A//www.tsbvi.edu/survey.htm) or send comments and suggestions to: Jim Allan ([Webmaster-Jim Allan](mailto:jimallan@tsbvi.edu))
+Please complete the [comment form](https://web.archive.org/web/20081216035848id_/http%3A//www.tsbvi.edu/survey.htm) or send comments and suggestions to: Jim Allan ([Webmaster-Jim Allan](mailto:jimallan@tsbvi.edu))
 
-Last Revision: July 16, 2003
+Last Revision: July 14, 2008
