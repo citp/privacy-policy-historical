@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apress.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611093001id_/http%3A//www.apress.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apress.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021417id_/http%3A//www.apress.com/info/privacypolicy) for the most accurate reproduction.*
 
 # APRESS.COM | Books for Professionals, by Professionals ...
 
@@ -22,18 +22,18 @@ Apress may request Personal Information about you in connection with your use of
 
 We may occasionally contact you by telephone or send you information by post, fax or e-mail about goods, services, offers or competitions which we think may interest you ('Apress'). We will not do so, however, if you have indicated either by contacting us (our details are at the end of this Privacy Policy) or by indicating user preferences on the Preferences Screen of one of our Web sites if that page exists, that you do not wish to receive Apress information. Assuming you have not told us that you do not wish to receive information from Apress We may use information you have provided us to.
 
-  * send information to you about Apress or promotional material from either us, our partners or companies that have a significant investment in Apress either directly or indirectly in Apress; 
-  * introduce a product or service that we think might be of interest to you; 
-  * keep in touch with you when necessary; 
-  * respond to your questions or comments. 
-  * administer the provision of goods and/or services requested; 
-  * inform users of our Web Site of technical /functional improvements to our Web Sites; 
-  * administer competition entries; 
-  * deal with inquiries and complaints; 
-  * make credit decisions; 
-  * protect Web Site security and prevent and detect crime; 
-  * comply with legal obligations, including for taxation purposes, and any valid legal process, including a search warrant, subpoena, statute or court order. 
-  * conduct market research and analysis including to improve our products, our Web Sites and the services which we offer; 
+  * Send information to you about Apress or promotional material from either us, our partners or companies that have a significant investment in Apress either directly or indirectly in Apress; 
+  * Introduce a product or service that we think might be of interest to you; 
+  * Keep in touch with you when necessary; 
+  * Respond to your questions or comments. 
+  * Administer the provision of goods and/or services requested; 
+  * Inform users of our Web Site of technical /functional improvements to our Web Sites; 
+  * Administer competition entries; 
+  * Deal with inquiries and complaints; 
+  * Make credit decisions; 
+  * Protect Web Site security and prevent and detect crime; 
+  * Comply with legal obligations, including for taxation purposes, and any valid legal process, including a search warrant, subpoena, statute or court order. 
+  * Conduct market research and analysis including to improve our products, our Web Sites and the services which we offer; 
 
 
 
