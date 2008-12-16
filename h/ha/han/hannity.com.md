@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hannity.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610001554id_/http%3A//mediaspannetwork.com/article.asp%3Fid%3D210703) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hannity.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216010501id_/http%3A//www.mediaspannetwork.com/article.asp%3Fid%3D210703) for the most accurate reproduction.*
 
 # MediaSpan Network
 
