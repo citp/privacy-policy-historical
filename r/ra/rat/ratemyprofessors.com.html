@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the ratemyprofessors.com privacy policy that was archived on 2007-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071015050744id_/http%3A//ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratemyprofessors.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216012023id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class="webkit safari linux js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 <title>Privacy Policy - RateMyProfessors.com</title>
 </head>
@@ -10,22 +10,26 @@
 
 
 	<!-- Date: 2007-02-25 -->
-	<link rel="stylesheet" href="/stylesheets/master.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	<link rel="stylesheet" href="http://static.ratemyprofessors.com/stylesheets/master.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	<!-- Vic S: 5-16-08 -->
+	<link rel="stylesheet" href="http://static.ratemyprofessors.com/stylesheets/srchBtn.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	<!--[if IE]>
-		<link rel="stylesheet" href="/stylesheets/ie_general.css" type="text/css" media="screen" title="no title" charset="utf-8">
+		<link rel="stylesheet" href="http://static.ratemyprofessors.com/stylesheets/ie_general.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	<![endif]-->
 	<!--[if lt IE 7.]>
-		<link rel="stylesheet" href="/stylesheets/ie_lt_ie7.css" type="text/css" media="screen" title="no title" charset="utf-8">
+		<link rel="stylesheet" href="http://static.ratemyprofessors.com/stylesheets/ie_lt_ie7.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	<![endif]-->
-	<link rel="stylesheet" href="/stylesheets/modalbox.css" type="text/css" media="screen" title="no title" charset="utf-8">
-	<script type="text/javascript" charset="utf-8" src="/javascript/prototype.js"></script>
-	<script type="text/javascript" charset="utf-8" src="/javascript/scriptaculous.js?load=builder,effects">	</script><script type="text/javascript" src="https://web.archive.org/javascript/builder.js"></script><script type="text/javascript" src="https://web.archive.org/javascript/effects.js"></script>
-	<script type="text/javascript" charset="utf-8" src="/javascript/modalbox.js"> </script>
-	<script type="text/javascript" charset="utf-8" src="/javascript/rmp.js"></script>
-	<script type="text/javascript" charset="utf-8" src="/javascript/imgZoom.js"></script><div style="position:absolute;z-index:100" id="outer_frame"></div>
+	<link rel="stylesheet" href="http://static.ratemyprofessors.com/stylesheets/modalbox.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	<script type="text/javascript" charset="utf-8" src="http://static.ratemyprofessors.com/javascript/prototype.js"></script>
+	<script type="text/javascript" charset="utf-8" src="http://static.ratemyprofessors.com/javascript/scriptaculous.js?load=builder,effects">	</script>
+	<script type="text/javascript" charset="utf-8" src="http://static.ratemyprofessors.com/javascript/modalbox.js"> </script>
+	<script type="text/javascript" charset="utf-8" src="http://static.ratemyprofessors.com/javascript/rmp.js"></script>
+	<script type="text/javascript" charset="utf-8" src="http://static.ratemyprofessors.com/javascript/imgZoom.js"></script>
 	
-		<script type="text/javascript" src="/javascript/sponsored_links_conf_gen_pages.js"></script>
-		<script type="text/javascript" src="/javascript/sponsored_links_lib_gen_pages.js"></script>
+	
+	
+		<script type="text/javascript" src="http://static.ratemyprofessors.com/javascript/sponsored_links_conf_gen_pages.js"></script>
+		<script type="text/javascript" src="http://static.ratemyprofessors.com/javascript/sponsored_links_lib_gen_pages.js"></script>
 		<script language="Javascript">
 			var keywords = "";
 			var overture_links;
@@ -36,12 +40,16 @@
 			var outputCharEnc= '';
 			var maxCount = '3'
 		</script>
+		
+		<span id="see_me_span" style="display:none"></span>
+		
 		<script language="Javascript">
 			if ((keywords == undefined) || (keywords == ""))
 				keywords = getMetaTagKeywords();
 			
 			//Create a configuration object and add the keywords to the conf.			
 			loadOvertureCMArray();
+			
 		</script>
 
 		<!-- load the zSr array into our own overtureLinks object. -->
@@ -49,6 +57,7 @@
 		<!--<span id="see_me_span"></span>-->
 		<script language="Javascript">
 			var overture_links;
+						
 			//alert("in header.ijsp3: " + zSr);
 			//document.getElementById("see_me_span").innerHTML = test_see_url;
 			//document.getElementById("see_me_span").style.display = "none";
@@ -63,19 +72,60 @@
 				//If this in not populated use dummy data
 				zSr = zSr_dummy;
 			}
+			
+			// 12/08: for linkspots
+			var overtureLinkspots;
+			//alert("starting linkspots");
+			//Create a configuration object for linkspots and load the linkspots in
+			var lsConf = new overtureLinkspotConf();
+			lsConf.setLinkspotId("rmp_education");
+			lsConf.setNGrp(1);
+			lsConf.setNKw(10);
+			//var myLsUrl = createOvertureLinkspotLink(lsConf);
+			//document.getElementById("see_me_span").innerHTML = myLsUrl;
+			//builds the url
+			loadOvertureLinkspotInclude(lsConf);
+			generateOvertureLSArray();
+			
+			if(mapkey) 
+			{
+				overtureLinkspots = populateOvertureLinkspots(mapkey);
+				//alert("in if(mapkey), overtureLinkspots: " + overtureLinkspots);
+				if (overtureLinkspots == undefined) 
+				{
+					//If this in not populated use dummy data
+					mapkey = mapkey_dummy;
+				}
+			}
+			else 
+			{
+				//If this in not populated use dummy data
+				mapkey = mapkey_dummy;
+			}
+			// 12/08: end for linkspots
+			
 			// Vic cmmnt - they are using a mapkey to generate links, but this var is not being populated, so it is commented out.
 			//generateOvertureLSArray();
+		
 		</script>
  
 	<script type="text/javascript" charset="utf-8">
 		// for the header
-		Event.observe(window, 'load', function() {
-			//defaultTextInputSwap('rmp_navFindTextInput','Enter keywords (e.g. Sam Smith Ball State University)','black');
-			extraDropDowns('rmp_chooseCountry','drops','selected');
-			alternateTableRows('rmp_table','odd');
-			noticeAppear("rmp_notice");
-		});
-		
+		function drop_country()
+		{
+			if(document.getElementById("down").style.display='none')
+			{
+				document.getElementById("down").style.display='block';
+			}
+		}
+		function onmousedrop_down()
+		{
+			if(document.getElementById("down").style.display='block')
+			{
+				document.getElementById("down").style.display='none';
+			}
+		}
+
 		var popUpWin=0;
 		function popUpWindow(URLStr, left, top, width, height)
 		{
@@ -87,53 +137,110 @@
 		}
 		
 
-		
 
-	</script> 
+
+</script> 
 	<div id="rmp_container">
-		<div class="rmp_leaderboard">	
-				
+	     <div class="rmp_leaderboard">	
+
+		   
+
 <script language="Javascript">
 	var ordJS=Math.floor(Math.random()*10000000000000000000);
 	var fnm = location.pathname.substring(1,location.pathname.lastIndexOf("."));
-	document.write ( "<scr" + "ipt language='JavaScript' src='http:\/\/ad.doubleclick.net\/adj\/rmp.mtvi\/about\/atf;gw=" + fnm + ";pos=atf;dcopt=ist;u=|gw-" + fnm + "|pos-atf|dcopt-ist;tile=1;sz=728x90;ord=[20071015010743" + ordJS + "]?' type='text\/javascript'><\/scr"+"ipt>");
-	document.write ("<noscr" + "ipt><a href='http:\/\/ad.doubleclick.net\/jump\/rmp.mtvi\/" + fnm + "\/atf;gw=" + fnm + ";pos=atf;dcopt=ist;u=|gw-" + fnm + "|pos-atf|dcopt-ist;tile=1;sz=728x90;ord=[20071015010743" + ordJS + "]?' target='_blank'><img src='http:\/\/ad.doubleclick.net\/ad\/rmp.mtvi\/" + fnm + "\/atf;gw=" + fnm + ";dcopt=ist;u=|gw-" + fnm + "|pos-atf|dcopt-ist;tile=1;sz=728x90;ord=[20071015010743" + ordJS + "]?' width='728' height='90' border='0' alt=''><\/a><\/noscr"+"ipt>");
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/rmp.mtvi/about/atf;gw=web/20071015050744id_/http%3A//ratemyprofessors.com/PrivacyPolicy_us;pos=atf;dcopt=ist;u=|gw-web/20071015050744id_/http%3A//ratemyprofessors.com/PrivacyPolicy_us|pos-atf|dcopt-ist;tile=1;sz=728x90;ord=[200710150107434819902718270823000]?" type="text/javascript"></script><noscript><a href='http://ad.doubleclick.net/jump/rmp.mtvi/web/20071015050744id_/http%3A//ratemyprofessors.com/PrivacyPolicy_us/atf;gw=web/20071015050744id_/http%3A//ratemyprofessors.com/PrivacyPolicy_us;pos=atf;dcopt=ist;u=|gw-web/20071015050744id_/http%3A//ratemyprofessors.com/PrivacyPolicy_us|pos-atf|dcopt-ist;tile=1;sz=728x90;ord=[200710150107434819902718270823000]?' target='_blank'><img src='http://ad.doubleclick.net/ad/rmp.mtvi/web/20071015050744id_/http%3A//ratemyprofessors.com/PrivacyPolicy_us/atf;gw=web/20071015050744id_/http%3A//ratemyprofessors.com/PrivacyPolicy_us;dcopt=ist;u=|gw-web/20071015050744id_/http%3A//ratemyprofessors.com/PrivacyPolicy_us|pos-atf|dcopt-ist;tile=1;sz=728x90;ord=[200710150107434819902718270823000]?' width='728' height='90' border='0' alt=''></a></noscript>
-<noscript><a href="http://ad.doubleclick.net/jump/rmp.mtvi/" + fnm + "/atf;gw=" + fnm + ";pos=atf;dcopt=ist;u=|gw-" + fnm + "|pos-atf|dcopt-ist;tile=1;sz=728x90;ord=[20071015010743" + ordJS + "]?" target="_blank"><img src="http://ad.doubleclick.net/ad/rmp.mtvi/" + fnm + "/atf;gw=" + fnm + ";dcopt=ist;u=|gw-" + fnm + "|pos-atf|dcopt-ist;tile=1;sz=728x90;ord=[20071015010743" + ordJS + "]?" width="728" height="90" border="0" alt=""></a></noscript>
-		</div>
-		
-	<div id="rmp_new_image">			
-		<div id="rmp_header"> 
- 			 <h1><a href="/">RateMyProfessors.com</a></h1>
- 				 <div id="rmp_nav" class="basicBorder"> 
- 				   <div class="gutter" style="padding-bottom:14px;background-image:url(/images/rmp_google_new_ribbon.png);background-position:right;background-repeat:no-repeat"> 
-      				<ul class="options">
-        				<li><a href="/">Home</a></li>
-        				<li><a href="/jive/vodka/viewForum.jsp?forum=2">Forum</a></li>
-       					<li class="last"><a href="/referral.jsp">Tell a Friend</a></li>
-      				</ul>
-      
-      <p>Hi, <span>Guest!</span> [ <a href="/join.jsp">create account</a> | <a href="/member/">login</a> 
-        ]</p>
-      
-      
-      
-	  
-      <form action="/gSearchResults.jsp" method="post" name="search" id="search" onsubmit="if(search.letter.value == '' || search.letter.value == 'Enter keywords (e.g. Sam Smith Ball State University)') {alert( 'Enter keywords (e.g. Sam Smith Ball State University)' );search.letter.focus();return false ;}return true;">
-		<input id="rmp_navFindTextInput" name="letter" type="text" tabindex="1" style="width: 350px;color: gray;" value="Enter keywords (e.g. Sam Smith Ball State University)" onfocus="if(this.value=='Enter keywords (e.g. Sam Smith Ball State University)'){this.value='';this.style.color='black'}">
-		<input id="search_submit" type="submit" value="Search" tabindex="3" style="margin-right: 10px;">
-	  </form>
-	
-
-      
-    </div> 
+	var sectionParamAndValue = "";
+	if(fnm=="" || fnm=="index") // http://dev.ratemyprofessors.com:8060
+	{
+		sectionParamAndValue = "sec0=_hp";
+	}
+	else if(fnm=="/" && location.pathname.indexOf("member")==-1) // http://dev.ratemyprofessors.com:8060/
+	{
+		sectionParamAndValue = "sec0=_hp";
+	}
+	else if(fnm=="/" && location.pathname.indexOf("member")>-1) // http://dev.ratemyprofessors.com:8060/member/
+	{
+		sectionParamAndValue = "sec0=member";
+	}
+	else if(location.pathname.indexOf("member")>-1) // http://dev.ratemyprofessors.com:8060/member/*.*
+	{
+		sectionParamAndValue = "sec0=member;";
+		sectionParamAndValue += "sec1=" + fnm.substring(fnm.indexOf("/")+1, fnm.length);
+	}
+	else
+	{
+		sectionParamAndValue = "sec0=" + fnm;
+	}
+	document.write ( "<script language='JavaScript' src='http:\/\/ad.doubleclick.net\/adj\/rmp.mtvi\/atf_j_s\/" + fnm + ";" + sectionParamAndValue + ";pos=atf;tag=adj;mtype=standard;tile=1;sz=728x90;dcopt=ist;u=mtype-standard|tile-1;ord=20081215082023" + ordJS + "?' type='text\/javascript'><\/script>");
+	//alert("location.pathname: " + location.pathname);
+	//alert("fnm: " + fnm);
+	//alert("sectionParamAndValue: " + sectionParamAndValue);
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/rmp.mtvi/atf_j_s/web/20081216012023id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us;sec0=web/20081216012023id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us;pos=atf;tag=adj;mtype=standard;tile=1;sz=728x90;dcopt=ist;u=mtype-standard|tile-1;ord=200812150820233168075392938249700?" type="text/javascript"></script>
+<noscript>
+	<a href="http://ad.doubleclick.net/jump/rmp.mtvi/_hp;tile=2;sz=728x90;ord=123456789?" target="_blank">
+		<img src="http://ad.doubleclick.net/ad/rmp.mtvi/_hp;tile=2;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt="" />
+	</a>
+</noscript>
+	      	
   </div>
- </div>
- </div> 
+
+		
+	
+<div id="rmp_new_image"> <!-- Testin for QA PRocess in includes on 13-March-2008 -->
+  <div id="rmp_header">
+  <!-- Comment Added for QA Process testing on 17-March-2008 -->
+    <h1><a href="/">RateMyProfessors.com</a></h1>
+    <div id="rmp_nav" class="basicBorder"> 
+      <div class="gutter" style="padding-bottom:14px;background-position:right;background-repeat:no-repeat"> 
+        <ul class="options">
+          <li><a href="/">Home</a></li>
+          <li><a href="/jive/vodka/viewForum.jsp?forum=2">Forum</a></li>
+          <li class="last"><a href="/referral.jsp">Tell a Friend</a></li>
+        </ul>
+        
+        <p>Hi, <span>Guest!</span> [ <a href="/join.jsp">create account</a> | 
+          <a href="/member/">login</a> ]</p>
+        
+        
+        <form onsubmit="if(search.letter.value == '' || search.letter.value == 'Enter keywords (e.g. Sam Smith Ball State University)') {alert( 'Enter keywords (e.g. Sam Smith Ball State University)' );search.letter.focus();return false ;}return true;" id="search" name="search" method="post" action="/gSearchResults.jsp"> 
+		<input type="text" onfocus="if(this.value=='Enter keywords (e.g. Sam Smith Ball State University)'){this.value='';this.style.color='black'}" value="Enter keywords (e.g. Sam Smith Ball State University)" style="width: 290px; color: gray; float: left; font-size: 0.7em; height: 15px;" tabindex="1" name="letter" id="rmp_navFindTextInput"> 
+		<input type="submit" style="margin-left: 4px; color: rgb(0, 0, 0); float: left; font-size: 0.7em;" tabindex="2" value="Search" id="search_submit"> 
+		<input type="button" style="margin-left: 4px; color: rgb(0, 0, 0); float: left; font-size: 0.7em;" tabindex="3" value="Web" id="web_submit" onclick="javascript: document.location = 'http://search.live.com/results.aspx?q=' + document.getElementById('rmp_navFindTextInput').value + '&amp;mkt=en-US&amp;FORM=VCM018'"> 
+	</form>
+
+      </div>
+    </div>
+  </div>
+</div> 
  <div id="rmp_wrap">
   
+<script type="text/javascript">
+function showlayer(layer)
+{
+	var myLayer = document.getElementById(layer);
+	if(myLayer.style.display=="none" || myLayer.style.display=="")
+		myLayer.style.display="block";
+	else 
+		myLayer.style.display="none";
+}
 
-			<!-- END HEADER --> 
+var submitSwitch = 
+{
+	invoke:function()
+	{
+		var srchMode = document.getElementById("search_select").value;
+		if(srchMode=="the_web")
+		{
+			var srchText = document.getElementById("rmp_navFindTextInput").value;
+			var theUrl = "http://search.live.com/results.aspx?q=" + srchText + "&mkt=en-US&FORM=VCM018";
+			document.location = theUrl;
+		}
+		else if(srchMode=="this_site")
+			document.getElementById("search").submit();
+	}
+}
+</script>
+			<!-- END HEADER -->
+ 
 
 	<div id="breadcrumb_links">
 			<a href="/">Home</a> »
@@ -234,8 +341,9 @@
 							or you may contact us via regular mail at: <br><br>
 							<b>RateMyProfessors.com LLC<br>
 							RateMyProfessors.com<br>
-							1515 Broadway, 45th Floor<br>
-							New York, New York 10036<br>
+							1515 Broadway<br>
+							New York, New York 10036<br><br>
+							Attn: Business and Legal Affairs, Office Number: 24-40<br>
 							Attn: Your California Privacy Rights<br>
 							c/o Privacy Administrator<br><br>
 							All requests sent via regular mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request.</b> 
@@ -243,8 +351,9 @@
 							To all other users of this Site, if you have other questions about this Privacy Policy, please contact our Privacy Administrator at <b><a href="mailto:info@ratemyprofessors.com">info@ratemyprofessors.com</a></b> or: <br><br>
 							<b>RateMyProfessors.com LLC<br>
 							RateMyProfessors.com<br>
-							1515 Broadway, 45th Floor<br>
-							New York, New York 10036<br>
+							1515 Broadway<br>
+							New York, New York 10036<br><br>
+							Attn: Business and Legal Affairs, Office Number: 24-40<br>
 							Attn: Your California Privacy Rights<br>
 							c/o Privacy Administrator<br><br></b></p><b>
 							<center>GENERAL PRIVACY INFORMATION</center></b><br>
@@ -480,19 +589,22 @@
 _uacct = "UA-304376-1";
 urchinTracker();
 </script>
-<script language="javascript" src="/ts_files/mtvi_reporting.js">
-</script><div><img name="s_i_none" height="1" width="1" border="0" alt=""></div>
+<script language="javascript" src="http://static.ratemyprofessors.com/ts_files/mtvi_reporting.js">
+</script>
 <script type="text/javascript">
  com.mtvi.reporting.Account={
  name:'viaviarmp',
- filters:'javascript:,ratemyprofessors.com', trackExternalLinks: true
+ filters:'javascript:,ratemyprofessors.com', 
+ trackExternalLinks: true,
+ trackInlineStats:true
 };
-		var dispatcher=com.mtvi.reporting.Dispatcher;
+		//var dispatcher=com.mtvi.reporting.Dispatcher;
+		var dispatcher=new com.mtvi.reporting.Dispatcher();
 		var pn = location.pathname;
 		var h1 = location.pathname.substring(1);
 		dispatcher.setAttribute('pageName',pn);
 		dispatcher.setAttribute('hier1',h1);
-		//if("0AA6118416AE41526711D3C5A470879D.ajp13" != "") commented as per 8/23 email from Sam @ 12:23 
+		//if("FBDF02A0A75847891706417F1D3C887F" != "") commented as per 8/23 email from Sam @ 12:23 
 			dispatcher.setAttribute('prop1', "");
 		//if("USA" != "")
 			dispatcher.setAttribute('prop2', "USA");
@@ -525,11 +637,11 @@ urchinTracker();
 				<h2>Select Your Region</h2>
 				<div id="flags">
 					
-					<a href="/index.jsp?country=0" onmouseover="document.us_s.src='/images/site/flags/us_s.jpg'" onmouseout="document.us_s.src='/images/site/flags/us_s_faded.png'"><img name="us_s" alt="United States" title="United States" src="/images/site/flags/us_s_faded.png"></a>	
-					<a href="/index.jsp?country=1" onmouseover="document.ca_s.src='/images/site/flags/canada_s.jpg'" onmouseout="document.ca_s.src='/images/site/flags/canada_s_faded.png'"><img name="ca_s" alt="Canada" title="Canada" src="/images/site/flags/canada_s_faded.png"></a>
-					<a href="/index.jsp?country=2" onmouseover="document.uk_s.src='/images/site/flags/england_s.jpg'" onmouseout="document.uk_s.src='/images/site/flags/england_s_faded.png'"><img name="uk_s" alt="England" title="England" src="/images/site/flags/england_s_faded.png"></a>
-					<a href="/index.jsp?country=5" onmouseover="document.scotland_s.src='/images/site/flags/scotland_s.jpg'" onmouseout="document.scotland_s.src='/images/site/flags/scotland_s_faded.png'"><img name="scotland_s" alt="Scotland" title="Scotland" src="/images/site/flags/scotland_s_faded.png"></a>
-					<a href="/index.jsp?country=7" onmouseover="document.wales_s.src='/images/site/flags/wales_s.jpg'" onmouseout="document.wales_s.src='/images/site/flags/wales_s_faded.png'"><img name="wales_s" alt="Wales" title="Wales" src="/images/site/flags/wales_s_faded.png"></a>	
+					<a href="/index.jsp?country=0" onmouseover="document.us_s.src='http://static.ratemyprofessors.com/images/site/flags/us_s.jpg'" onmouseout="document.us_s.src='http://static.ratemyprofessors.com/images/site/flags/us_s_faded.png'"><img name="us_s" alt="United States" title="United States" src="http://static.ratemyprofessors.com/images/site/flags/us_s_faded.png"></a>	
+					<a href="/index.jsp?country=1" onmouseover="document.ca_s.src='http://static.ratemyprofessors.com/images/site/flags/canada_s.jpg'" onmouseout="document.ca_s.src='http://static.ratemyprofessors.com/images/site/flags/canada_s_faded.png'"><img name="ca_s" alt="Canada" title="Canada" src="http://static.ratemyprofessors.com/images/site/flags/canada_s_faded.png"></a>
+					<a href="/index.jsp?country=2" onmouseover="document.uk_s.src='http://static.ratemyprofessors.com/images/site/flags/england_s.jpg'" onmouseout="document.uk_s.src='http://static.ratemyprofessors.com/images/site/flags/england_s_faded.png'"><img name="uk_s" alt="England" title="England" src="http://static.ratemyprofessors.com/images/site/flags/england_s_faded.png"></a>
+					<a href="/index.jsp?country=5" onmouseover="document.scotland_s.src='http://static.ratemyprofessors.com/images/site/flags/scotland_s.jpg'" onmouseout="document.scotland_s.src='http://static.ratemyprofessors.com/images/site/flags/scotland_s_faded.png'"><img name="scotland_s" alt="Scotland" title="Scotland" src="http://static.ratemyprofessors.com/images/site/flags/scotland_s_faded.png"></a>
+					<a href="/index.jsp?country=7" onmouseover="document.wales_s.src='http://static.ratemyprofessors.com/images/site/flags/wales_s.jpg'" onmouseout="document.wales_s.src='http://static.ratemyprofessors.com/images/site/flags/wales_s_faded.png'"><img name="wales_s" alt="Wales" title="Wales" src="http://static.ratemyprofessors.com/images/site/flags/wales_s_faded.png"></a>	
 				</div>
 				<ul class="options">
 					<li><a href="/faq.jsp">FAQ</a></li>
@@ -542,10 +654,15 @@ urchinTracker();
 					
 					<li><a href="/TermsOfUse_us.jsp">Terms of Use</a></li>
 					<li><a href="/PrivacyPolicy_us.jsp">Privacy Policy/Your CA Privacy Rights</a></li>
+					<li><a href="/rater_guidelines.jsp">Site Guidelines</a></li>
 					<li class="last"><a href="copyright_comp_policy.jsp">Copyright Compliance Policy</a></li>
 					
 				</ul>
-				<p class="copyright">Copyright © 2007 RateMyProfessors.com, LLC.</p>
+				<p class="copyright">Copyright © 2008 RateMyProfessors.com, LLC.
+					<br><br>
+					Powered by <img src="http://static.ratemyprofessors.com/images/site/logo_mtvu.gif" border="0"> and 
+                              <img src="http://static.ratemyprofessors.com/images/site/logo_mtvn.gif" border="0">
+                         </p>
 			</ul></div>
 </center>			
 		</div>
@@ -570,6 +687,18 @@ urchinTracker();
 			   document.getElementById("lowerAdvertisementImg").style.display = "none";
 			};
 		</script>
+
+<!-- Start Quantcast tag -->
+
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qoptions = { labels:"Viacom Domestic,MTVN Digital,MTVN Music and Logo,MTVN Music Group,mtvU Online" }; _qacct="p-94wNw88f65Rhk";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-94wNw88f65Rhk" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-94wNw88f65Rhk.gif?labels=Viacom%20Domestic%2CMTVN%20Digital%2CMTVN%20Music%20and%20Logo%2CMTVN%20Music%20Group%2CmtvU%20Online" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+
 
 
 
