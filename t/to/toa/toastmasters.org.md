@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toastmasters.org privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509085254id_/http%3A//www.toastmasters.org/FooterMenuCategories/PrivacyPolicy_1.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toastmasters.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012604id_/http%3A//www.toastmasters.org/FooterMenuCategories/PrivacyPolicy_1.aspx) for the most accurate reproduction.*
 
 # Toastmasters International - Privacy Policy
 
@@ -9,7 +9,7 @@ Toastmasters Privacy Policy
 Thank you for visiting Toastmasters International’s official Web site and for shopping at our online store. The staff at Toastmasters International knows that you care how information about you is used and shared – including information gathered on the Internet – and we appreciate your trust that we will do so carefully. We've done our best to ensure the privacy of your personal information. Your credit card number and other personal data will be treated with the highest standards of safety, security features, and confidentiality. This notice describes our privacy policy. By visiting any Web site in the Toastmasters.org domain you are accepting the practices described in this Privacy Policy. 
 
 What personal information about members and other customers does Toastmasters.org gather?  
- ** _Information You Give Us:_ **We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing your future visits to the Toastmasters Web site and shopping, improving our Web site, and communicating with you. 
+**_Information You Give Us:_ **We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing your future visits to the Toastmasters Web site and shopping, improving our Web site, and communicating with you. 
 
 For example, you provide information when you search for a product; place an order through our store; provide information to our Member Services department; provide information in your personal profile (or profiles, if you have more than one); communicate with us by phone, e-mail, or otherwise; complete a questionnaire; or use other Toastmasters.org features. As a result of those actions, you might supply us with such information as your name (or another person's), address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; content of e-mails to us; personal information (your name and any Toastmasters International honors or awards you’ve received); and financial information. 
 
@@ -65,7 +65,7 @@ How does Toastmasters International use my e-mail address?
 
 Occasionally, World Headquarters uses e-mail to send messages to large groups of members. It is the most efficient and cost-effective way of sending information to large groups of people. Some of the mass e-mails Toastmasters members might receive from World Headquarters are:
 
-  * TIPS (a helpful publication to club, area and district officers for circulation to members)
+  * TIPS (a helpful publication to club, area and district officers for circulation to members) 
   * The DISTRICT NEWSLETTER 
 
 
@@ -88,15 +88,14 @@ Our Web site is growing, and our Privacy Notice and the Conditions of Use will c
 
 Toastmasters International strongly supports our members’ right to privacy. For this reason, we urge our visitors to read about privacy issues and laws on [http://www.privacy.ca.gov/ ](http://www.privacy.ca.gov/). This information is presented by the State of California Office of Privacy Protection (under the California Department of Consumer Affairs), and because World Headquarters is located in California, we fall under their jurisdiction in regard to the legalities surrounding privacy issues. We recommend that you read the page entitled: “How to Read a Privacy Policy,” which is useful information for viewing any Web site, including Toastmasters.org.
 
-Related Practices and Information   
-
+Related Practices and Information 
 
 **NOTE (FOR TOASTMASTERS INTERNATIONAL MEMBERS):**  
 By visiting any Web site in the Toastmasters.org domain you are accepting the practices described in this Privacy Policy. Please note the following additional agreement:
 
 I agree to the collection, use and processing of the personal information I provide to Toastmasters for the purposes of organization administration, payment of my dues, and inclusion of my contact information in a members’ directory that will be distributed to members and employees of Toastmasters. By submitting my personal information to Toastmasters, I also agree that my information may be accessed and used by Toastmasters and its employees and agents, and will be transferred to countries that are not regarded as having adequate data protection, including to Toastmasters’ headquarters in the United States. I agree to notify [addresschanges@toastmasters.org ](mailto:addresschanges@toastmasters.org?subject=Personal%20Information%20Update)of any change to my personal information, including making any requests to check, delete or correct my personal information, so that it is accurate and current. I understand that the majority of the data requested in this application is necessary for administrative and planning purposes, and that the failure to provide this information may prevent my application from being properly processed or inclusion of my contact information in the members’ directory.
 
- **To view Toastmasters Conditions of Use information, please visit:**
+**To view Toastmasters Conditions of Use information, please visit:**
 
 [ Conditions of Use 
 
