@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the paydaybank.co.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516010715id_/http%3A//www.paydaybank.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydaybank.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165636id_/http%3A//www.paydaybank.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Payday Bank - Same Day Payday Loans
 
 **We recognize the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
 
+**Fraud Prevention:** If false or inaccurate information is provided, including in relation to a person’s identity and fraud is identified, details about this information, including customer Personal Data, will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related and other facilities; managing credit and credit related accounts or other facilities; recovering debt; checking details on proposals and claims for all types of insurance; and checking details of job applicants and employees. For further details of the relevant fraud prevention agencies please contact us as described at the end of this Privacy Policy. 
+
 **What Information Do We Collect?**  
-When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
 
 **1\. Personal Information You Choose to Provide**
 
@@ -29,8 +31,9 @@ Furthermore, such information may be shared with others on an aggregate basis. P
 Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
 
      **Sharing and Selling Information**  
-We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
-**How Can You Access and Correct Your Information?**     You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
+We do not share, sell, lend or lease any of the personal or financial information that you choose to provide us (such as personal details or bank information) with anyone except to the extent it is necessary to process transactions or provide services that you have requested. We may use statistical and email information for making lending decisions and servicing our relationship with you, for the purposes of fraud prevention and debt collection, to understand your financial needs, to conduct our business and to provide you with better customer services and products from both PaydayBank and those of selected third parties, to evaluate the effectiveness of our marketing of the Website and for statistical analysis.
+    **How Can You Access and Correct Your Information?**  
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
     **What About Legally Compelled Disclosure of Information?**  
 We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
      **What About Other Web Sites Linked to Our Web Site?**
