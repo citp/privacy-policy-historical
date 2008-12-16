@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the dvd-ppt-slideshow.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628004213id_/http%3A//www.dvd-ppt-slideshow.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvd-ppt-slideshow.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216081551id_/http%3A//www.dvd-ppt-slideshow.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Moyea Software
-
-Moyea **PowerPoint Presentation to DVD Burner**  
-\- Convert PowerPoint to Video & Burn PowerPoint to DVD Disc
-
-[](http://www.dvd-ppt-slideshow.com/)
-
-  * [Home](http://www.dvd-ppt-slideshow.com/)
-  * [Products](https://web.archive.org/products/)
-  * [Download](https://web.archive.org/download/)
-  * [Purchase](https://web.archive.org/purchase/)
-  * [Support](https://web.archive.org/support/)
-  * [Forum](http://www.moyea.com/forum/)
-
-
-
-News about Moyea PPT to DVD Burner:
-
-[Home](http://www.dvd-ppt-slideshow.com/) > [About US](https://web.archive.org/about/) > Privacy
 
 Moyea fully respects your privacy right, and is committed to protecting your personal information. Generally, you are not required to provide any personal information for browsing Moyea's website. For specific purposes, in case you provide your name, sex, category and number of credentials, date of birth, country, E-mail box, telephone, address and other similar personal information that are required for registration or reading E-information by voluntarily filling in forms, you will be deemed having understood and accepted the use of your personal information and agreed that Moyea uses your personal information for the specific purposes. 
 
