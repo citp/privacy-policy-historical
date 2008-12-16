@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shanghaiexpat.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513023441id_/http%3A//www.shanghaiexpat.com/News-article-sid-175.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shanghaiexpat.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024038id_/http%3A//www.shanghaiexpat.com/News-article-sid-175.phtml) for the most accurate reproduction.*
 
 # Privacy Policy - Shanghai Expat - Living and Working in Shanghai
 
@@ -11,7 +11,7 @@
 [](http://www.addthis.com/bookmark.php)  
   
 ---  
-**on Sunday, November 07, 2004 - 06:30 PM AST - 9924 Reads**  
+**on Sunday, November 07, 2004 - 06:30 PM AST - 14792 Reads**  
   
 ## **Privacy Policy**
 
