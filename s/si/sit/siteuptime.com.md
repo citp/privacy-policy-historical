@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteuptime.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509131359id_/http%3A//www.siteuptime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteuptime.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165516id_/http%3A//www.siteuptime.com/privacy.php) for the most accurate reproduction.*
 
 # SiteUptime - Website Monitoring Service
 
@@ -25,7 +25,7 @@ Check the status of your website instantly. Enter your domain name or URL below 
   
   
 Testimonials   
-"Your service is great, I love knowing that my site is available to my customers! I have recommended your services to many of my friends, keep up the great work!"  
+"Your service is great, I love knowing that my web site is available to my customers! I have recommended your services to many of my friends, keep up the great work!"  
 \--Stephen Maher  
 [more...](http://www.siteuptime.com/testimonials.php)  
   
