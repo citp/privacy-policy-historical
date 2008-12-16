@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the incentreward.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615015741id_/http%3A//www.incentreward.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incentreward.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032542id_/http%3A//www.incentreward.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | IncentReward
+# CPA Affiliate Network | Affiliate Programs | Affiliate Marketing : IncentReward.com
 
 **  
 PRIVACY POLICY INCENTREWARD AFFILIATE NETWORK, LLC, and each of its related web sites (“IncentReward.com”) Privacy Policy Last updated August 22, 2007. This Privacy Policy outlines important information regarding the use and disclosure of information collected via this Website. IncentReward.com provides this Privacy Policy to help users make an informed decision as to whether to use or continue using the Website. **
