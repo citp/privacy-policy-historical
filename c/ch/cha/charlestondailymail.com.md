@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlestondailymail.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611011222id_/http%3A//www.cnpapers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlestondailymail.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013621id_/http%3A//www.cnpapers.com/privacy) for the most accurate reproduction.*
 
 # Charleson Newspaper Privacy Policy
 
