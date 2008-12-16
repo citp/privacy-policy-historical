@@ -1,0 +1,306 @@
+<!--The following is the downloaded HTML source of the frameshow.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216040903id_/http%3A//www.frameshow.com/privacy.php) for the most accurate reproduction.-->
+
+<html><head>
+<title>Photo Frame Show: Digital Photo/Desktop Enhancement Software - Frame photos with ease!</title>
+<meta name="description" content="Frame your digital photos and desktop wallpapers with ease! Add stylish frames to your digital photos and enhance your desktop wallpapers, personal albums, and projects with this easy to use software.">
+<meta name="keywords" content="frame,desktop enhancement,digital photo,desktop, wallpaper,imaging,digital photo frame,software,desktop wallpaper enhancement,website image,photo imaging software,image enhancement software,digital image enhancement, digital photo enhancement"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="script.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/JavaScript">
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-151344-5");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+</head>
+
+<body stats="1" background="pics/background.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<script type="text/javascript" src="/ecard_application/choose_frame/ajax_util.js"></script>
+<div id="loginarea" style="position: absolute; top: 86px; left: 509px;"></div>
+<script language="JavaScript" type="text/JavaScript">
+function open_login_page() {
+	var win = window.open("/frameshow_login.php", "Login", "width=500, height=360, status=no, toolbar=no, menubar=no, location=no, resizable=yes, scrollbars=no");
+	win.focus();
+}
+
+function open_signup_page() {
+	//var win = window.open("/frameshow_login.php?action=signupChoose", "Login", "width=500, height=360, status=no, toolbar=no, menubar=no, location=no, resizable=yes, scrollbars=no");
+	var win = window.open("/photoframecommunity/register.php", "Register", "width=850, height=750, status=no, toolbar=no, menubar=no, location=no, resizable=yes, scrollbars=yes");
+	win.focus();
+}
+
+function open_logout_page() {
+	var win = window.open("/frameshow_login.php?action=logout", "Login", "width=500, height=300, status=no, toolbar=no, menubar=no, location=no, resizable=yes, scrollbars=no");
+}
+
+function do_login(ref) {
+	fr="";
+	if (ref) {
+		if (ref=="userarea") {
+			top.document.location.href="userarea.php?action=main";
+		} else {
+			hasIframe=false;
+			if (document.getElementById('frame_gallery')) {
+				fr = 'frame_gallery';
+				hasIframe=true;
+			} else if (document.getElementById('userarea')) {
+				fr = 'userarea';
+				//hasIframe=true;
+			}
+			
+			if (hasIframe) {
+				gal = document.getElementById(fr);
+				if(gal.contentDocument) {
+					gal.contentDocument.location.reload(true); // Firefox, Opera
+				} else if (gal.contentWindow) {
+					gal.contentWindow.document.location.reload(true); // Internet Explorer
+				} else if (gal.document) { 
+					gal.document.location.reload(true); // Others?
+				}
+			} else {
+				if (fr=='userarea') {
+					top.document.location.href="userarea.php?action=main";
+				} else {
+					window.location.reload(true);
+				}
+			}
+		}
+	}
+	
+	var url = "/getLoginInfo.php";
+	var ajax = new AjaxObject();
+	ajax.sndReq('get',url,'');
+}
+
+function do_logout(ref) {
+	if (ref) {
+		hasIframe=false;
+		if (document.getElementById('frame_gallery')) {
+			fr = 'frame_gallery';
+			hasIframe=true;
+		} else if (document.getElementById('account_info')) {
+			fr = 'account_info';
+			hasIframe=true;
+		}
+		
+		if (hasIframe) {
+			gal = document.getElementById(fr);
+			if(gal.contentDocument) {
+				gal.contentDocument.location.reload(true); // Firefox, Opera
+			} else if (gal.contentWindow) {
+				gal.contentWindow.document.location.reload(true); // Internet Explorer
+			} else if (gal.document) { 
+				gal.document.location.reload(true); // Others?
+			}
+		} else {
+			window.location.reload(true);
+		}
+	}
+	
+	var url = "/getLoginInfo.php";
+	var ajax = new AjaxObject();
+	ajax.sndReq('get',url,'');
+}
+
+do_logout(false);
+</script><table width="693" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr><td width="693" valign="top">
+		<table width="693" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr><td>
+				<div style="position: absolute; width: 693px; background-image: url(/pics/menu_background2.gif);">
+										<table height="25" width="100%" border="0" cellpadding="5" cellspacing="0">
+						<tbody><tr><td align="center" class="menuTable" background="/pics/spacer.gif" onmouseover="document.getElementById('menu2line').style.display='';">
+							<a href="/index.php" class="menu">Home</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/photoframecommunity/" class="menu">Community</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/gallery.php" class="menu">Frame Gallery</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/photos-unique.htm" class="menu">Features</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/examples.htm" class="menu">Examples</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/download.htm" class="menu">Download</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/register.htm" class="menu">Purchase</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/ecards.htm" class="menu">E-cards</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="http://www.liknoaffiliateservices.com" target="_blank" class="menu">Affiliates</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/links.htm" class="menu">Links</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/userarea.php" class="menu">User Area</a>
+						</td></tr>
+					</tbody></table>	
+					<table id="menu2line" style="display: none;" height="25" width="100%" border="0" cellpadding="5" cellspacing="0" onmouseover="document.getElementById('menu2line').style.display='';" onmouseout="document.getElementById('menu2line').style.display='none';">
+						<tbody><tr><td align="center" class="menuTable" background="/pics/spacer.gif">
+							<!--<a href="licensing.php" class="menu">Licensing - Terms</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="privacy.php" class="menu">Privacy Policy</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop">--><a href="/frames_add_your_own.php" class="menu">Create Frames</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/frames_embed.php" class="menu">Embed Frames to Pages</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/support.htm" class="menu">Support/Feedback</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/faq.php" class="menu">FAQ</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="javascript:void(0);" class="menu" onclick="window.open('help.htm','helpWindow','width=750,height=550');">Demo</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/awards.htm" class="menu">Awards</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/adspromo.htm" class="menu">Advertise</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="http://www.frameshow.com/photoframeshow-blog" target="_blank" class="menu">Blog</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/aboutus.htm" class="menu">About Us</a>
+						</td></tr>
+					</tbody></table>
+				</div>
+				<div style="width: 1px; height: 25px;">&nbsp;</div>
+			</td></tr>
+		</tbody></table>
+		<table width="693" border="0" cellspacing="0" cellpadding="0"> 
+			<tbody><tr><td valign="top"><img src="/pics/site-header.jpg" width="693" height="114"></td></tr> 
+		</tbody></table>
+		  	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td class="headerBold">Photo Frame Show Privacy Statement </td>
+              </tr>
+            </tbody></table>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td valign="top" bgcolor="#FFFFFF" class="bodytext"><table width="100%" border="0" cellspacing="20" cellpadding="0">
+                      <tbody><tr>
+                        <td valign="top" class="bodytext"><p class="bluebigtitles">Privacy Policy Statement</p>                          
+                          <p class="bluetitles">General</p>
+                          <p>Likno Software respects the privacy of every individual who visits our Web site. This privacy policy outlines the information Likno Software will collect and how we will use that information. This statement also will instruct you on what to do if you do not want your personal information collected or shared when you visit the <span class="bluesubtitles">FrameShow.com</span> Web Site or respond to our advertisements.</p>
+                          <p class="bluetitles">Individually Identifiable Information</p>
+                          <p>Likno Software will not collect any individually identifiable information about you such as your name, address, telephone number, or email address unless you provide it to us voluntarily.</p>
+                          <p>If you do not want your individually identifiable information collected, please do not submit it to us. If you have already submitted this information and would like us to remove it from our records, please contact us at the e-mail address or phone number listed at the bottom of this policy. We will use delete your information from our existing files.</p>
+                          <p>When you do provide us with individually identifiable information, we may use that information in the following ways unless stated otherwise: we may store and process it to better understand your needs and how we can improve our products and services and we may use it to contact you.</p>
+                          <p class="bluetitles">Children</p>
+                          <p>Likno Software has no intention of collecting any individually identifiable information such as name, address, telephone number, or e-mail address from individuals under the age of 13. Where appropriate, Likno Software will specifically instruct children not to submit such information on our Web Site (<span class="bluesubtitles">FrameShow.com</span>) or in response to advertisements. If a child has provided us with individually identifiable information, that child's parent or guardian should contact us at the e-mail address or phone number listed at the bottom of this policy if they would like this information deleted from our records.</p>
+                          <p class="bluetitles">Non-Individually Identifiable Information Collected Automatically</p>
+                          <p>In some cases, we may collect information about you that is not individually identifiable. Examples of this type of information include the type of Internet browser you are using, the type of computer operating system you are using and the domain name of the Web Site from which you linked to our site or advertisement.</p>
+                          <p class="bluetitles">Information We May Place Automatically On Your Computer's Hard Drive</p>
+                          <p>We may place a "cookie" on the hard drive of the visitor's computer through his or her Web browser. Cookies are alphanumeric identifiers that enable the systems used by the website operator who places the cookie to recognize the visitor's browser. In connection with certain features of our services, we use cookies in order to determine whether and when a "cookied" Web browser is used to return to our site after a prior visit. The cookies we currently use permit us to determine when a browser is used to make repeat visits or clickthroughs to a website, but do not permit us to determine the identity of any user of that browser or gather any other personally identifiable information about that user, such as postal address, email address, phone number, social security number or any credit card number. We may use additional cookies in the future. Please refer to your browser instructions or help screen to learn more about these functions.</p>
+                          <p class="bluetitles">Storage Of Individual Information</p>
+                          <p>Likno Software stores the Individual Information in a database on company computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Likno Software's control. Notwithstanding such measures, we cannot guarantee that its security measures will prevent Likno Software computers from being illegally accessed, and the Individual Information on them stolen or altered.</p>
+                          <p class="bluetitles">Use Of Individual Information</p>
+                          <p>Likno Software uses Individual Information to provide promotional offers by email to individuals. We may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need  email us at support@frameshow.com with their request.</p>
+                          <p class="bluetitles">Dissemination Of Individual Information</p>
+                          <p>                          Likno Software does not rent or sell your personally identifiable information  to any third parties. In order to provide you with offers of interest,  however, Likno Software may share only your contact information with third-party  partners so that the partner may directly make an offer to you. Contact  information may include name, address and/or  email address. Any access to your information is limited and Likno Software retains sole ownership of all of your personally identifiable  information.</p>
+                          <p>Order Fulfillment:<br>
+                          Likno Software will transfer Individual Information to third parties when necessary to provide a product or service that a person orders from such third party (like SWREG, Regsoft, TrialPay, etc.) while using Likno Software web sites or when responding to offers provided by Likno Software.</p>
+                          <p class="bluetitles">Links</p>
+                          <p>The Web Sites and email messages sometimes contain hypertext links to the web sites of third parties. Likno Software is not responsible for the privacy practices or the content of such other web sites.</p>
+                          <p class="bluetitles">Legal Process</p>
+                          <p>Likno Software may disclose Individual Information to respond to subpoenas, court orders, and other legal process.</p>
+                          <p class="bluetitles">More Information</p>
+                          <p>If you have questions about this policy, please contact us at support@frameshow.com. WE RESERVE THE RIGHT TO UPDATE THIS POLICY FROM TIME TO TIME, WITHOUT NOTICE SO YOU SHOULD REVIEW THIS POLICY FREQUENTLY.</p>
+                        <p align="right" class="bluesubtitles">© Likno Software. All rights reserved</p></td>
+                      </tr>
+                  </tbody></table></td>
+                </tr>
+              </tbody></table></td>
+        </tr>
+      </tbody></table> 
+     
+   
+ 
+<table width="693" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td style="background-image:url(pics/footer3.jpg); background-position:top; background-repeat:repeat-x; text-align:center; padding-top:30px;" class="bluetext"><div align="center">
+      <table width="90%" border="0" cellspacing="1" cellpadding="0">
+        <tbody><tr>
+          <td align="center" class="bluesubtitles">Information</td>
+          <td align="center" class="bluesubtitles">Using Photo Frame Show</td>
+          <td align="center" class="bluesubtitles">Help</td>
+          <td align="center" class="bluesubtitles">Photo Frame Show on the Web</td>
+          <td align="center" class="bluesubtitles">Services</td>
+        </tr>
+        <tr>
+          <td align="center" class="bluetext"><a href="aboutus.htm">About Us</a></td>
+          <td align="center" class="bluetext"><a href="licensing.php">Licensing - Terms </a></td>
+          <td align="center" class="bluetext"><a href="support.htm">Feedback/Contact</a></td>
+          <td align="center" class="bluetext"><a href="http://www.facebook.com/apps/application.php?id=19367456835">Facebook Application </a></td>
+          <td align="center" class="bluetext"><a href="ecards.htm">E-Cards</a></td>
+        </tr>
+        <tr>
+          <td align="center" class="bluetext"><a href="http://www.frameshow.com/photoframeshow-blog">Blog</a></td>
+          <td align="center" class="bluetext"><a href="privacy.php">Privacy Policy</a></td>
+          <td align="center" class="bluetext"><a href="javascript:void(0);" onclick="window.open('help.htm','helpWindow','width=750,height=550');">Demo</a></td>
+          <td align="center" class="bluetext">&nbsp;</td>
+          <td align="center" class="bluetext">&nbsp;</td>
+        </tr>
+        <tr>
+          <td align="center" class="bluetext"><a href="adspromo.htm">Advertise</a></td>
+          <td align="center" class="bluetext"><a href="faq.php">FAQ</a></td>
+          <td align="center" class="bluetext">&nbsp;</td>
+          <td align="center" class="bluetext">&nbsp;</td>
+          <td align="center" class="bluetext">&nbsp;</td>
+        </tr>
+        <tr>
+          <td align="center" class="bluetext"><a href="http://www.liknoaffiliateservices.com">Affiliates</a></td>
+          <td align="center" class="bluetext">&nbsp;</td>
+          <td align="center" class="bluetext">&nbsp;</td>
+          <td align="center" class="bluetext">&nbsp;</td>
+          <td align="center" class="bluetext">&nbsp;</td>
+        </tr>
+        <tr>
+          <td align="center" class="bluetext"><a href="awards.htm">Awards</a><br></td>
+          <td align="center" class="bluetext">&nbsp;</td>
+          <td align="center" class="bluetext">&nbsp;</td>
+          <td align="center" class="bluetext">&nbsp;</td>
+          <td align="center" class="bluetext">&nbsp;</td>
+        </tr>
+        <tr>
+          <td align="center" class="bluetext"><a href="career.php">Jobs</a></td>
+          <td class="bluetext">&nbsp;</td>
+          <td class="bluetext">&nbsp;</td>
+          <td class="bluetext">&nbsp;</td>
+          <td class="bluetext">&nbsp;</td>
+        </tr>
+      </tbody></table>
+      <p>Photo Frame Show - <a href="http://www.frameshow.com">Digital Photo</a> and <a href="http://www.frameshow.com">Desktop Enhancement</a> Software: Frame photos with ease!<br>
+      Copyright © 2003-2008 Likno Software - All rights reserved.</p></div></td>
+  </tr>
+</tbody></table><script type="text/javascript">
+var woopra_id = '2602515273';
+</script>
+<script src="http://static.woopra.com/js/woopra.js"></script>
+
+
+<div style="position:absolute; top:19px; left:761px; background-image:url(pics/newsletter-background.jpg); background-repeat:no-repeat; width:128px; height:122px; text-align:left;">  
+      <script type="text/javascript">
+function showSubscriptionWindow()
+{
+	var	em = new String(document.getElementById("subemail").value);
+	if (em == "")
+	{
+		alert("Please enter an email address.");
+		return false;
+	}
+	if (em.indexOf('@') == -1 || em.indexOf('.') == -1)
+	{
+		alert("Please enter a valid email address.");
+		return false;
+	}
+	window.open("mlsub.php?email="+em, "subscribeToOurList", "channelmode=no,directories=no,fullscreen=no,width=450,height=280,left=200,top=150,location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,titlebar=yes,toolbar=no");
+	return false;
+}
+
+    </script>    <form method="get" action="mlsub.php" onsubmit="return showSubscriptionWindow()" style="margin:0;padding:0">      <table width="128" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td class="newslettertext">Join our newsletter<br>and get notified when<br>new frames and features become available.</td>
+        </tr>        <tr>
+          <td align="center"><input id="subemail" name="em" class="nlinput"></td>
+        </tr>
+        <tr>
+          <td align="center"><input type="image" name="imageField" id="imageField" src="pics/newsletter-button.jpg" style="margin-top:2px;"></td>
+        </tr>
+      </tbody></table>   </form>
+</div>
+<div style="position:absolute; top: 3px; left: 762px; width: 125px;">
+  <script type="text/javascript">addthis_pub  = 'likno';</script>
+  <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt=""></a>
+  <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+</div>
+<div id="adSense">
+<script type="text/javascript" src="ad1.js"></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+<div id="adPFS">
+<a href="adspromo.htm"><img src="pics/adpfs.gif" alt="Advertise your website here!" width="120" height="247" border="0"></a></div>
+
+
+
+
+<div id="adBrite">
+<!-- Begin: AdBrite -->
+<style type="text/css">
+   .adHeadline {font: bold 10pt Arial; text-decoration: underline; color: #063E3F;}
+   .adText {font: normal 10pt Arial; text-decoration: none; color: #000000;}
+</style>
+<script type="text/javascript" src="http://ads.adbrite.com/mb/text_group.php?sid=341977&amp;br=1&amp;dk=726567697374657220646f6d61696e5f355f315f776562">
+</script>
+<div><a class="adHeadline" target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=341977&amp;afsid=1">Your Ad Here</a></div>
+<!-- End: AdBrite -->
+</div>
+
+
+
+</body></html>
