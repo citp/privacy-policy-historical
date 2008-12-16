@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allcheckdeals.com privacy policy that was archived on 2008-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080525155605id_/http%3A//www.allcheckdeals.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcheckdeals.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030904id_/http%3A//www.allcheckdeals.com/privacy_policy.php) for the most accurate reproduction.*
 
-# AllCheckDeals | Buy property in Delhi, Bangalore, Chandigarh, Real Estate Services, Real Estate Broker
+# Privacy Policy – AllCheckDeals.com - Real Estate Property in India – Buy Residential Property for Sale – NRI Properties
 
 This Privacy policy is subject to the terms of the Site Policy (User agreement) of this website.
 
@@ -20,4 +20,4 @@ You agree that IEIL may use your personal information to contact you and deliver
 
 All IEIL websites including this website fully comply with all Indian Laws applicable. IEIL has always cooperated with all law enforcement inquires. IEIL may disclose all or part of your personal details in response to a request from the law enforcement authorities or in a case of bonafide requirement to prevent an imminent breach of the law.
 
-IEIL has taken all reasonable steps to ensure that information on this site is authentic. Users are advised to research bonafides of advertisers independently. IEIL shall not have any responsibility in this regard. We also recommend that you visit link to [User agreement/Disclaimer](https://web.archive.org/disclaimer.php) for more comprehensive information on this aspect
+IEIL has taken all reasonable steps to ensure that information on this site is authentic. Users are advised to research bonafides of advertisers independently. IEIL shall not have any responsibility in this regard. We also recommend that you visit link to [User agreement/Disclaimer](https://web.archive.org/disclaimer.php) for more comprehensive information on this aspect. 
