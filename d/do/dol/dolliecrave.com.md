@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the dolliecrave.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515022249id_/http%3A//www.dolliecrave.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolliecrave.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216053730id_/http%3A//www.dolliecrave.com/privacypolicy.shtml) for the most accurate reproduction.*
 
-# Happy Mother's Day Comments, Mother's Day Myspace Graphics, Summer Myspace Layouts, Summer 2008 Layouts, Skinny Layouts, Girly Layouts, Default Layouts, Quote Layouts, Myspace Music Player Skins, Myspace Picture Captions, Myspace Contact Buttons, Myspace Comments, Myspace Backgrounds, Myspace Icons, Myspace Comment Boxes
+# 
 
-  
 _DollieCrave.com Privacy Policy_
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
