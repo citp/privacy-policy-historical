@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chase.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610004138id_/http%3A//www.chase.com/ccpmapp/shared/assets/page/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chase.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011041id_/http%3A//www.chase.com/ccp/index.jsp%3Fpg_name%3Dccpmapp/shared/assets/page/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy ¿ Chase Security Center
 
 This Policy explains what Chase does to keep information about you private and secure. We want you to know how we manage that information to serve you and that you have choices about how it is shared. This Policy covers our family of companies, a partial list of which is contained at the end of this Policy. Please read this Policy carefully.
 
