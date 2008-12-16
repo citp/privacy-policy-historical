@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iata.org privacy policy that was archived on 2008-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080526073949id_/http%3A//www.iata.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iata.org privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216092329id_/http%3A//www1.iata.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		<!-- ------------------------- -->
@@ -55,6 +55,24 @@
 
 
 	<script language="javascript">
+function validateSearch(txtsearchid)
+{
+var txtsearch=document.getElementById(txtsearchid)
+var tempstrSearch=txtsearch.value;
+tempstrSearch=tempstrSearch.replace(/\s/g, '');
+var strSearch=tempstrSearch.toLowerCase();
+  txtsearch.value=(txtsearch.value).replace(/^\s+/,'');
+  if( strSearch== 'search'|| strSearch=='')
+  {
+      alert('Enter a keyword to search');
+      txtsearch.focus();
+      return false;
+  }
+  else
+  {
+  return true;
+  }
+}
 function ClickButton(buttonToClick)
 {
   if( (event.which&&event.which == 13) || (event.keyCode && event.keyCode == 13 ) )
@@ -117,7 +135,8 @@ function ClickButton(buttonToClick)
 				<li><a href="/ps/financial_services/">Financial Services</a></li>
 				<li><a href="/ps/intelligence_statistics/">Intelligence &amp; Statistics</a></li>
 				<li><a href="/ps/publications/">Publications &amp; Interactive Tools</a></li>
-				<li><a href="http://www.iataonline.com" target="_blank">IATA Online Store</a></li>
+				<li><a href="https://www.iataonline.com" target="_blank">IATA Online Store</a></li>
+				<li><a href="/ps/resellers/index.htm">IATA Authorised Resellers</a></li>
 			</ul>
 		</div>
 	</div>
@@ -136,7 +155,7 @@ function ClickButton(buttonToClick)
 				<li><a href="/pressroom/DG_biography">Director General &amp; CEO</a></li>
 				<li><a href="/about/organisation">Organisation</a></li>
 				<li><a href="/about/history">History</a></li>
-				<li><a href="/hc/iata/">Careers</a></li>
+				<li><a href="/hc/">Careers</a></li>
 				<li><a href="/about/offices">Offices Worldwide</a></li>
 			</ul>
 		</div>
@@ -151,7 +170,7 @@ function ClickButton(buttonToClick)
 		<div class="dropmenu" onmouseover="MM_showHideLayers('membermenu','','show')" onmouseout="MM_showHideLayers('membermenu','','hide')">
 			<ul>
 				<li><a href="/membership/airlines">Airlines</a></li>
-				<li><a href="/aa">Airports <br>(Airport Advisors)</a></li>
+				<li><a href="/membership/aa">Airports <br>(Airport Advisors)</a></li>
 				<li><a href="/membership/travelcargo">Freight Forwarders</a></li>
 				<li><a href="/sp/">Industry Suppliers (Strategic&nbsp;Partnerships)</a></li>
 				<li><a href="/membership/travelcargo">Travel Agencies</a></li>
@@ -219,7 +238,7 @@ function ClickButton(buttonToClick)
 <!-- Header Start              -->
 <!-- ------------------------- -->
 <div id="header">
-	<div class="logo"><a href="/index.htm"><img src="/NR/ContentConnector/CS2000/SiteInterface/images/2005/header_logo_light.gif" border="0"></a></div>
+	<div class="logo"><a href="/index.htm"><img src="/NR/ContentConnector/CS2000/SiteInterface/images/2005/new_header_logo_light.gif" border="0"></a></div>
 	<div class="logoprint"><img src="/NR/ContentConnector/CS2000/SiteInterface/images/2005/logo_print.gif"></div>
 </div>
 
@@ -266,7 +285,7 @@ function ClickButton(buttonToClick)
 <div id="SubNavBar">
 	<ul class="SubNav">
 		<li class="first"><a href="/worldwide/">IATA by Region</a></li>
-		<li class="item"><a href="/hc/iata/index">Careers</a></li>
+		<li class="item"><a href="/hc/index">Careers</a></li>
 		<li class="item"><a href="/customer_service/">Customer Service</a></li>
 	</ul>
 
@@ -340,7 +359,7 @@ function ClickButton(buttonToClick)
 <p><strong>Online</strong>: You can make your choice regarding these communications by using the IATA customer registration tools, as applicable, to set your privacy preferences (available in the English language only).</p></blockquote>
 <ul>
 <ul>
-<li>If you have never registered with the IATA customer registration tools, <a href="/ps/optinform/profile.htm">create your privacy preferences</a>; 
+<li>If you have never registered with the IATA customer registration tools, <a href="/ps/optinform/">create your privacy preferences</a>; 
 </li><li>If you have registered with the IATA customer registration tool in the past, you may <a href="/ps/optinform/">edit your privacy preference</a>s on the IATA customer registration tool&nbsp;(requires a user ID and password). </li></ul></ul>
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 <p><strong>Offline:</strong> Please specify your privacy preferences by writing to IATA at <a href="mailto:imc@iata.org">imc@iata.org</a>. Be sure to provide your name, e-mail&nbsp;and postal address in all correspondence. </p></blockquote>
@@ -419,7 +438,7 @@ win.document.write('</HTML>')
 </script>
 
 <div id="subnavsearch">
-	<span id="RightContent_PortalSearch1"><div id="iatasearch"><span id="portal_search"><input name="RightContent:PortalSearch1:_ctl0" type="text" value="Search" onkeypress="Javascript:ClickButton('RightContent_PortalSearch1_Search')" onfocus="Javascript:if (this.value == 'Search') {this.value = ''}" onblur="Javascript:if (this.value == '') {this.value = 'Search'}"> <select name="RightContent:PortalSearch1:ddlSearchCategories" id="RightContent_PortalSearch1_ddlSearchCategories">
+	<span id="RightContent_PortalSearch1"><div id="iatasearch"><span id="portal_search"><input name="RightContent:PortalSearch1:txtsearch" type="text" value="Search" id="RightContent_PortalSearch1_txtsearch" onkeypress="Javascript:ClickButton('RightContent_PortalSearch1_Search')" onfocus="Javascript:if (this.value == 'Search') {this.value = ''}" onblur="Javascript:if (this.value == '') {this.value = 'Search'}"> <select name="RightContent:PortalSearch1:ddlSearchCategories" id="RightContent_PortalSearch1_ddlSearchCategories">
 	<option value="all">All IATA</option>
 	<option value="about">About Us</option>
 	<option value="whatwedo">Areas of Activity</option>
@@ -432,7 +451,7 @@ win.document.write('</HTML>')
 	<option value="training">Training</option>
 	<option value="workgroups">Work Groups</option>
 
-</select>&nbsp;<input type="submit" name="RightContent:PortalSearch1:Search" value="Go" id="RightContent_PortalSearch1_Search" class="btn"></span></div></span>
+</select>&nbsp;<input type="submit" name="RightContent:PortalSearch1:Search" value="Go" id="RightContent_PortalSearch1_Search" class="btn" onclick="Javascript:return validateSearch('RightContent_PortalSearch1_txtsearch')"></span></div></span>
 		<div id="rightbuttons"><a class="print" href="javascript:void(0);" onclick="displayHTML(document.getElementById('content').innerHTML);">Print this page</a></div>
 </div>
 <div class="dotted"></div>
