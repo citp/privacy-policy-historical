@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224175303id_/http%3A//www.uksmallbusinessdirectory.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216091058id_/http%3A//www.uksmallbusinessdirectory.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # UK Small Business Directory - privacy policy
 
@@ -9,9 +9,8 @@
 
 Please Note:  
 All information submitted to the UK Small Business Directory is made publicly available.  
-This includes your name telephone number and email address, if you are uncomfortable with this, you may use a throw away email account such as hotmail, msn, yahoo etc. or use an .invalid address.  
-You do not have to include your telephone number, address or postcode, but we do ask that you submit to your correct County.  
-If you do so choose, a hyperlink is set up pointing to your website and this is placed on several pages within the UK Small Business Directory. The description you submit, and all contact details you submit are displayed alongside this.
+This includes; your name, telephone number, address and business description.  
+You do not have to include your telephone number, address or postcode, but we do ask that you submit to your correct County and Town.
 
 This privacy policy sets out how "Access Appraisals Ltd." uses and protects any information that you give "Access Appraisals Ltd." when you use this website.
 
@@ -63,9 +62,114 @@ A cookie is a small file which asks permission to be placed on your computer's h
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
+We also use 3rd party cookies from advertisers and specifically from the Google AdSense program. Most web browsers automatically accept these cookies, but you can usually modify your browser setting to decline cookies if you prefer. Please consult the instructions in your web browser to find out how to control cookies.
+
+Third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on our website. Please consult the instructions in your web browser to find out how to control this behaviour
+
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+We also use 3rd party tracking systems to monitor visitor behaviour, the primary systems we use are statcounter.com and google analytics, please view the privacy policies of both ofthese companies if you have any concerns.
+
+### How to reject cookies
+
+There are two ways you can minimise the number of cookies you receive:
+
+**1\. Adjust your browser settings to reject cookies** (for mobile phones you will have to refer to your handset manufacturer's help manual) using one of the following procedures (depending on your website browser);
+
+### If you're using Internet Explorer 6.0 or 7.0:
+
+  1. Choose Tools, then
+  2. Internet Options
+  3. Click the Privacy tab
+  4. Click on Custom Level
+  5. Click on the 'Advanced' button
+  6. Check the 'override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate. 
+
+
+
+### If you're using Firefox 2.0:
+
+  1. Choose Tools, then
+  2. Options
+  3. Click the Privacy icon
+
+
+
+### If you're using Firefox 1.0 or 1.5:
+
+  1. Choose Tools, then
+  2. Options
+  3. Click the Privacy icon
+  4. Click the Cookies tab
+
+
+
+### If you're using Opera 8.0 or 9.0:
+
+  1. Choose Tools, then
+  2. Preferences
+  3. Advanced
+  4. Cookies
+
+
+
+### If you're using Opera 7.0:
+
+  1. Choose File, then
+  2. Preferences
+  3. Privacy
+
+
+
+### If you're using Netscape 6.0:
+
+  1. Choose Edit, then
+  2. Preferences
+  3. Click on Advanced
+  4. Click on Cookies
+
+
+
+### If you're using Internet Explorer 5.0 or 5.5:
+
+  1. Choose Tools, then
+  2. Internet Options
+  3. Click the Security tab
+  4. Click on Custom Level
+  5. Scroll down to the sixth option to see how cookies are handled by IE5 and change to Accept, Disable, or Prompt for action as appropriate.
+
+
+
+### If you're using Internet Explorer 4.0:
+
+  1. Choose View, then
+  2. Internet Options
+  3. Click the Advanced tab
+  4. Scroll down to the yellow exclamation icon under Security and choose one of the three options to regulate your use of cookies.
+
+
+
+### If you're using Internet Explorer 3.0:
+
+  1. Choose View, then
+  2. Options
+  3. Click on Advanced
+  4. Click on the button that says Warn before Accepting Cookies.
+
+
+
+### If you're using Netscape Communicator 4.0:
+
+  1. Choose Edit, then
+  2. Preferences
+  3. Click on Advanced
+  4. Set your options in the box that says Cookies.
+
+
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/)
 
 ### Links to other websites
 
@@ -112,7 +216,7 @@ Stourton
 Shipston-on-Stour  
 Warwickshire  
 CV365HG  
-[uksbd@xp64.co.uk](mailto:uksbd@xp64.co.uk)  
+[tj@uksbd.co.uk](mailto:tj@uksbd.co.uk)  
 01608 685039
 
 Access Appraisals Ltd. are registered under the Data Protection act with the registration number Z9389941  
