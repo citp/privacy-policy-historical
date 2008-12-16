@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517083538id_/http%3A//www.cellularfactory.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011530id_/http%3A//cellularfactory.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CellularFactory.com Customer Service Center
 
@@ -130,6 +130,6 @@ Profit from your own cell phone website. We already have many partners generatin
 
      
 
- Customer Service (877)409-8454  
+ Customer Service (888)952-6550  
 8am-5pm PST M-F |    
 ---|---
