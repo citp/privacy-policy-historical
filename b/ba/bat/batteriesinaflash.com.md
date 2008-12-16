@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the batteriesinaflash.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501190806id_/http%3A//www.batteriesinaflash.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteriesinaflash.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054953id_/http%3A//www.batteriesinaflash.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : BatteriesInAFlash.Com™, Batteries & Chargers for Camcorders, Laptops, iPods & more
+# Privacy Notice : Batteries, Chargers & Power Solutions for Electronics
 
 Effective 1/1/2004 
 
