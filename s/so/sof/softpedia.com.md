@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softpedia.com privacy policy that was archived on 2008-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080116030643id_/http%3A//www.softpedia.com/user/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softpedia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020803id_/http%3A//www.softpedia.com/user/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy - Softpedia
+# Privacy policy - Softpedia
 
 Written in accordance with the provisions of Law 677/2001, regarding individual protection about collecting and free circulation of personal data. 
 
@@ -11,13 +11,19 @@ During the administration process of the website, Softpedia needs to take over s
 The clauses of this policy are valuable for all kinds of information gathered from Softpedia users. Additional clauses, if any, will be added if necessary for special services that we may offer in the future. This privacy policy informs you about the type of personal data that we may collect from you, the way we can use it, the way we understand to protect it, who has access to it and how the possible mistakes can be corrected. 
 
 **Information that we collect**  
-Softpedia may collect information from its users in three different ways: directly from the user, from traffic references of hosting servers and from cookies. Information provided directly by the user: when you subscribe to a service provided by Softpedia, we may ask you about your name, e-mail address or other personal data. For example, when you register to our website, you need to enter your username, e-mail address and password. 
+Softpedia may collect information from its users in three different ways: directly from the user, from traffic references of hosting servers and from cookies. 
+
+Information provided directly by the user: when you subscribe to a service provided by Softpedia, we may ask you about your name, e-mail address or other personal data. For example, when you register to our website, you need to enter your username, e-mail address and password. 
 
 Information from traffic references: when you visit a website, you unveil certain information about you, such as your IP address, time of visit, place from which you accessed our website. Softpedia, like other operators, stores this information. 
 
 Information collected from cookies: in order to offer you a personalized service, Softpedia may use cookies to ease storing and tracking your preferences. For instance, we may use cookies to make sure you don't see the same ad repeatedly, or to deliver content specific to your interests; the content contained is not distributed to third parties. 
 
-Cookies are “txt” files offered to your browser by a web server and then stored on the hard-disk of your computer. Most of browsers are set to accept cookies. But if you prefer, you can reset your browser so as to let you know whenever you receive a cookie or even to refuse cookies. However, you should know that some parts of Softpedia website can only be normally seen if your browser allows cookies. 
+Cookies are "txt" files offered to your browser by a web server and then stored on the hard-disk of your computer. Most of browsers are set to accept cookies. But if you prefer, you can reset your browser so as to let you know whenever you receive a cookie or even to refuse cookies. However, you should know that some parts of Softpedia website can only be normally seen if your browser allows cookies. 
+
+Softpedia allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Softpedia site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Softpedia site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. 
+
+Softpedia does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Softpedia to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Softpedia Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. 
 
 You need to acknowledge that, whenever you disclose information in public areas on the website, such as message boards (comments) or forums, that information becomes public and can easily be tracked and used by unauthorized persons. Although SoftNews NET does its best in order to protect your personal data, we cannot entirely grant you its safety. You should exercise caution when deciding to disclose your personal information. You should also know that you are the only one responsible for keeping the secret of your passwords, usernames etc. 
 
@@ -30,7 +36,7 @@ Softpedia uses the information collected from you for several purposes, dependin
 **How we protect information collected from you**  
 We show great interest in confidentiality. SoftNews NET does not offer your personal data to third parties without your prior express consent. Any statistics that we may offer to our partners or to advertisement networks does not include any personal identifying information about any individual user.
 
-Your access to certain services on the website is protected by a password. We advise you not to unveil this password to anyone. Softpedia will never ask for the password of your accounts through any kind of messages or unsolicited phone calls. We strongly advise you not to unveil your passwords to those who may ask you to. As a plus, if possible, you should remember to click “log off” / “sign out”, at the end of any working session in your account. We also advise you to close your browser window when you quit using the sites or the services provided by SoftNews Net. 
+Your access to certain services on the website is protected by a password. We advise you not to unveil this password to anyone. Softpedia will never ask for the password of your accounts through any kind of messages or unsolicited phone calls. We strongly advise you not to unveil your passwords to those who may ask you to. As a plus, if possible, you should remember to click �log off� / �sign out�, at the end of any working session in your account. We also advise you to close your browser window when you quit using the sites or the services provided by SoftNews Net. 
 
 These pieces of advice are meant to restrain the access of unauthorized persons to your personal information or mail, especially when you work in a computer network in a public place (net cafe for example).
 
