@@ -1,27 +1,37 @@
-> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606085117id_/http%3A//www.digitaldirect.co.uk/dd3/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020633id_/http%3A//www.digitaldirect.co.uk/guide/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Direct
 
-Digital Direct take your privacy rights as a customer seriously. This policy outlines the data we collect from our visitors and how we use it.
+Digital Direct take your privacy rights as a customer seriously. This policy outlines the data we collect from our visitors and how we use it
 
-Any personal information provided to Digital Direct is used solely by Digital Direct (GB) Ltd, 19 Mather Street, Kearsley, Bolton, BL4 8AT.
+Any personal information provided to Digital Direct is used solely by Digital Direct (GB) Ltd, Future House, Express Trading Estate, Stonehill Road, Farnworth, Bolton BL4 9TP.
 
-**In order to monitor the performance of our site we collect the following information:**  
-\- An IP address to monitor site traffic and volume  
-\- A session ID to uniquely identify you on our site
+**In order to monitor the performance of our site we collect the following information:**
 
-**In order to fulfill any orders placed with Digital Direct, we collect the following details:**  
-\- Email address & telephone number to contact you regarding the order  
-\- Name of Customer  
-\- Credit card and delivery address for security fraud checks
+  * An IP address to monitor site traffic and volume
+  * A session ID to uniquely identify you on our site
 
-**In order to provide a valuable service to our Members we collect the following details:**  
-\- Name  
-\- Address  
-\- Email Address  
-\- Buying Preferences to aid navigation and inform them of offers if they so request
 
-**Security**  
+
+**In order to fulfill any orders placed with Digital Direct, we collect the following details:**
+
+  * Email address & telephone number to contact you regarding the order
+  * Name of Customer
+  * Credit card and delivery address for security fraud checks
+
+
+
+**In order to provide a valuable service to our Members we collect the following details:**
+
+  * Name
+  * Address
+  * Email Address
+  * Buying Preferences to aid navigation and inform them of offers if they so request
+
+
+
+## Security
+
 When you place orders or access sensitive account information, we offer the use of a secure server.  
 The secure server software (SSL) encrypts all information you input before it is sent to us.
 
@@ -33,8 +43,3 @@ In accordance with the Privacy & Electronic Communications Act passed into law i
 Digital Direct conform with the requirements of the Data Protection Act, 1998. 
 
 Should you have any queries with regard our privacy policy then please contact us at privacy@digitaldirect.uk.com
-
-  
-All prices include V.A.T. at 17.5%.  
-Copyright © 2007 Digital Direct GB Ltd. All rights reserved. E&OE. V5.3  
-[Terms and Conditions](https://web.archive.org/web/20070606085117id_/http%3A//www.digitaldirect.co.uk/terms) | [Privacy Policy](https://web.archive.org/web/20070606085117id_/http%3A//www.digitaldirect.co.uk/dd3/privacy.asp)
