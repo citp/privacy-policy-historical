@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyhead.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517052913id_/http%3A//www.surveyhead.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyhead.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014232id_/http%3A//www.surveyhead.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Surveyhead! Take paid surveys online for cash rewards. Consumer panels for market research firms.
 
@@ -24,7 +24,7 @@ A cookie is a small amount of data that is sent to your browser from a web serve
 
 **Who is collecting information and for what purpose?**
 
-Surveyhead collects valuable information which assists in developing new products and services. When you are on a Surveyhead site and are asked for personal information, you are sharing that information with Surveyhead alone, unless it is specifically stated otherwise. If data is being collected and/or maintained by any company other than Surveyhead -- or its parent company [UnitedSample,Inc.](http://www.unitedsample.com/) , you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. 
+Surveyhead collects valuable information which assists in developing new products and services. When you are on a Surveyhead site and are asked for personal information, you are sharing that information with Surveyhead alone, unless it is specifically stated otherwise. If data is being collected and/or maintained by any company other than Surveyhead, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. 
 
 Promotions that run on Surveyhead may be sponsored by companies other than Surveyhead or may be co-sponsored by Surveyhead and another company. Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you do not want your data to be shared. 
 
@@ -56,7 +56,7 @@ Surveyhead does not sell or rent user information to anyone. We will notify you 
 
 **What is** **Surveyhead’s** **policy on allowing me to update, correct, or delete my personally identifiable information?**
 
-You may edit your Surveyhead Account Information and your public Surveyhead Profile at any time by using your Surveyhead ID and password. If you have forgotten your password, please [ click here](https://web.archive.org/web/20080517052913id_/http%3A//www.surveyhead.com/forgot_password.php) . 
+You may edit your Surveyhead Account Information and your public Surveyhead Profile at any time by using your Surveyhead ID and password. If you have forgotten your password, please [ click here](https://web.archive.org/web/20081216014232id_/http%3A//www.surveyhead.com/forgot_password.php) . 
 
 Your Surveyhead account can be deleted or deactivated. Please contact [ support@surveyhead.com](mailto:support@surveyhead.com) for further instructions about deleting or deactivating your Surveyhead account. 
 
