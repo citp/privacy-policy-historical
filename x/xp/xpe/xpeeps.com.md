@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the xpeeps.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602133141id_/http%3A//www.xpeeps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpeeps.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012235id_/http%3A//xpeeps.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice - xPeeps.com
 
-**xPeeps, Inc.** ("xPeeps") recognizes that its customers, visitors, users, and others who use [www.xPeeps.com](http://www.xpeeps.com/) or other web sites owned or operated by xPeeps (the "xPeeps Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the xPeeps Sites. xPeeps provides this Privacy Notice to help you make an informed decision about whether to use or to continue using the xPeeps Sites.
+**LAST UPDATED: NOVEMBER 21, 2008
+
+xPeeps, Inc.
+
+**("xPeeps") recognizes that its customers, visitors, users, and others who use [www.xPeeps.com](http://www.xpeeps.com/) or other web sites owned or operated by xPeeps (the "xPeeps Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the xPeeps Sites. xPeeps provides this Privacy Notice to help you make an informed decision about whether to use or to continue using the xPeeps Sites.
 
 This Privacy Notice is incorporated into and is subject to the [xPeeps Terms of Use](http://www.xpeeps.com/tos.php). Your use of the xPeeps Sites and any personal information you provide on the xPeeps Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](http://www.xpeeps.com/tos.php).
 
@@ -63,8 +67,8 @@ You should consult the respective privacy policies of these third-party ad serve
 
 Currently, xPeeps has relationships with the following third-party ad servers or ad networks: 
 
-  * **AVNads, Inc.**  
-<http://www.adbrite.com/mb/privacy.php>
+  * **Black Label Ads**  
+<http://www.blacklabelads.com/mb/privacy.php>
 
 
 
