@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grindtv.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617160257id_/http%3A//www.grindtv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grindtv.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170755id_/http%3A//www.grindtv.com/privacy) for the most accurate reproduction.*
 
 # GrindTV.com Privacy Policy
 
@@ -12,7 +12,7 @@ GrindTV.com collects information about your transactions with us and with some o
 
 GrindTV.com automatically receives and records information on our server logs from your browser, including your IP address, GrindTV.com cookie information, and the pages of videos you request.
 
-GrindTV.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+GrindTV.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
 ## Information Sharing and Disclosure
 
@@ -32,7 +32,7 @@ GrindTV.com does not provide any personal information to the advertiser when you
 
 GrindTV.com advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
 
-GrindTV.com works with vendors, partners, advertisers, and other service providers in different industries and categories of business.
+GrindTV.com works with vendors, partners, advertisers, and other service providers in different industries and categories of business. 
 
 ## Cookies
 
@@ -40,17 +40,17 @@ GrindTV.com may set and access GrindTV.com cookies on your computer.
 
 GrindTV.com lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to GrindTV.com's cookies.
 
-GrindTV.com may use web beacons to access GrindTV.com cookies inside and outside our network of web sites and in connection with GrindTV.com products and services.
+GrindTV.com may use web beacons to access GrindTV.com cookies inside and outside our network of web sites and in connection with GrindTV.com products and services. 
 
 ## Confidentiality and Security
 
 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
 
-We have physical and procedural safeguards to protect personal information about you.
+We have physical and procedural safeguards to protect personal information about you. 
 
 ## Changes to this Privacy Policy
 
-GrindTV.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your GrindTV.com account or by placing a prominent notice on our site.
+GrindTV.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your GrindTV.com account or by placing a prominent notice on our site. 
 
 ## Questions and Suggestions
 
