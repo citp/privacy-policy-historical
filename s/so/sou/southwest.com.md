@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630072155id_/http%3A//www.southwest.com/travel_center/privacy_policy.html%3Fref%3Dprypol_fgn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023148id_/http%3A//www.southwest.com/travel_center/privacy_policy.html%3Fref%3Dprypol_fgn) for the most accurate reproduction.*
 
 # Southwest Airlines Privacy Policy
 
