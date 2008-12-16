@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026024828id_/http%3A//www.newsobserver.com/member_center/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165154id_/http%3A//www.newsobserver.com/member_center/help/privacy_policy) for the most accurate reproduction.*
 
 # newsobserver.com | Privacy policy
 
@@ -28,8 +28,10 @@ The News & Observer strongly recommends parental supervision when a child uses t
 E-Commerce  
 The News & Observer hosts a number of online stores that sell a variety of goods and services. These stores may collect information from you such as your name, credit card number and other contact information. The News & Observer does not collect, use or disclose this information nor does it own or control the stores or have responsibility for transactions made by those merchants. If you would like to know more about the information collected when you participate in e-commerce on or through this site, please contact the store merchants directly. 
 
-Cookies  
+Cookies, Web Beacons and Third-Party Advertising Technology on our sites  
 A "cookie" is a small data text file that is placed in your browser and allows The News & Observer to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and The News & Observer does not use cookies to collect personal information. Instead, they allow us to see which parts of our site you have used so that we can better serve you when you return to our site. Cookies may be used to provide you with information and special opportunities tailored to your interests. 
+
+We use third-party advertising technology vendors to collect, via includes, cookies and web beacons (1x1 pixels), non-personally identifiable data when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
 Direct Mailings and "Opting Out"  
 We may send you information about various products and services. If you don't want to receive this information, you can "opt out" by changing your member preferences within the [Member Center](https://web.archive.org/member_center/). 
