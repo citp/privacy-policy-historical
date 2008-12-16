@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resmed.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225191925id_/http%3A//www.resmed.com/en-us/privacy_notice/privacy-notice.html%3Fmenu%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resmed.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154741id_/http%3A//resmed.com/en-us/privacy_notice/privacy-notice.html%3Fmenu%3Dprivacy) for the most accurate reproduction.*
 
 # ResMed - Privacy Notice
 
