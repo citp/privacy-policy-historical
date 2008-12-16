@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winxclub.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224140245id_/http%3A//www.winxclub.com/privacy.php%3Flingua%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winxclub.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170803id_/http%3A//www.winxclub.com/privacy.php%3Flingua%3Den) for the most accurate reproduction.*
 
 # Winx Club Site - Privacy
 
