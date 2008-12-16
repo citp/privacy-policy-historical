@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbrides.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012104807id_/http%3A//www.rbrides.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbrides.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012444id_/http%3A//www.rbrides.com/pp.html) for the most accurate reproduction.*
 
 # Russian Brides.
 
@@ -31,4 +31,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please [contact us](http://www.rbrides.com/content.php?page=help). 
+Should you have other questions or concerns about these privacy policies, please call us at +7 9047 632045 or send us an email at support@rBrides.com 
