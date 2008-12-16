@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hemscott.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026091414id_/http%3A//www.hemscott.com/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hemscott.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051207id_/http%3A//www.hemscott.com/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy | Hemscott
 
@@ -78,5 +78,5 @@ Hemscott Group Limited
 37 - 45 Paul Street  
 London  
 EC2A 4LS  
-Tel: 020 7763 8200  
+Tel: 020 3194 1075  
 [dataprotection@hemscott.co.uk](mailto:dataprotection@hemscott.co.uk)
