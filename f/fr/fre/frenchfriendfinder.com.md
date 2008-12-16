@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the frenchfriendfinder.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208205304id_/http%3A//frenchfriendfinder.com/go/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchfriendfinder.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032309id_/http%3A//frenchfriendfinder.com/go/page/privacy.html) for the most accurate reproduction.*
 
-# French Friendfinder PRIVACY POLICY
+# French FriendFinder PRIVACY POLICY
 
-**2\. About French Friendfinder and Information We Collect**  
-French Friendfinder is an online network which provides you useful tools and communities to build relationships online. French Friendfinder basic service is FREE to all qualified members. 
+**2\. About French FriendFinder and Information We Collect**  
+French FriendFinder is an online network which provides you useful tools and communities to build relationships online. French FriendFinder basic service is FREE to all qualified members. 
 
 In our online registration form, we ask you to provide us with certain information such as your birth date and the type of relationship you are looking for. In addition, we collect address, credit card, and bank information only from those who wish to acquire Gold and Silver member privileges. 
 
-At your own discretion, you may choose to post additional facts about yourself on your profile, such as your occupation, level of education, religious denomination, marital status, etc. While some members freely elect to include their names in their profile, it is not requested or required, and the French Friendfinder Terms of Service forbids posting personal contact information for any reason.   
-In addition to standard business contact information, American individuals and companies signing up for French Friendfinder's Affiliate Program must provide URL information for their website(s) and a social security or Tax I.D. number. None of this information can be accessed or used by individuals not under the direct employ of French Friendfinder Inc. 
+At your own discretion, you may choose to post additional facts about yourself on your profile, such as your occupation, level of education, religious denomination, marital status, etc. While some members freely elect to include their names in their profile, it is not requested or required, and the French FriendFinder Terms of Service forbids posting personal contact information for any reason.   
+In addition to standard business contact information, American individuals and companies signing up for French FriendFinder's Affiliate Program must provide URL information for their website(s) and a social security or Tax I.D. number. None of this information can be accessed or used by individuals not under the direct employ of French FriendFinder Inc. 
 
 In the course of using our site, we automatically track certain information such as your IP addresses and email addresses. Many sites collect this sort of information. We may tie your IP address to your personally identifiable information. If you choose to post messages in our Advice Columns, chat rooms or other message areas, we will only display such information about you as you choose to reveal. If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. Once posted, you cannot change or remove any public postings made in our chat rooms or other message areas. We are not responsible for the personally identifiable information you choose to submit in these forums. We reserve the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use. 
 
