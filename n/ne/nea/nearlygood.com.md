@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nearlygood.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026083927id_/http%3A//www.nearlygood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearlygood.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216040448id_/http%3A//www.nearlygood.com/privacy.html) for the most accurate reproduction.*
 
-# Nearly Good - Privacy Policy
+# Nearly Good - funny videos, sexy babes, play games, funny pictures, jokes and more
 
 **Introduction**
 
-Nearly Good respects the privacy of the visitors to this website and thus, have a firm commitment which we uphold. 
+Nearly Good respects the privacy of the visitors to this website and thus, have a firm commitment to privacy which we uphold. 
 
 On this page you will find our policies towards information gathering and dissemination practices which cover NearlyGood.com. 
 
@@ -44,8 +44,7 @@ We make use of a number of external ad providers to serve adverts which will be 
 
 Here are the advertisers we are currently using: 
 
-\- [Ad Brite](http://www.adbrite.com/)  
-\- [Target Point](http://www.targetpoint.com/)
+\- [Ad Brite](http://www.adbrite.com/)
 
 **Contacting Nearly Good**
 
