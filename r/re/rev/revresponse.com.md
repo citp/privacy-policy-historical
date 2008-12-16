@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revresponse.com privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104141729id_/http%3A//revresponse.com%3Fq%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revresponse.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061336id_/http%3A//www.revresponse.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RevResponse
 
