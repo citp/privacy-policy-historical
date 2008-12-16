@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villagephotos.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612071034id_/http%3A//www.villagephotos.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villagephotos.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011252id_/http%3A//www.villagephotos.com/privacy.asp) for the most accurate reproduction.*
 
 # VillagePhotos-Free photo hosting, free image hosting, picture upload, free picture hosting, eBay selling tools, listing management, picture hosting and image management.
 
@@ -16,7 +16,7 @@ VillagePhotos.com and Ripside Interactive, LLC are wholly owned divisions of Rip
   
 [](http://www.free-webhosts.com/add-review.php?Name=VillagePhotos) |  All artwork and programming copyright 2002© [Ripside Interactive, Inc.](http://www.ripside.com/) All photos and electronic content uploaded or installed by our customers are copyright their respective owner. View our [Terms of Service](https://web.archive.org/tos.asp) for usage restrictions or the [Privacy Statement](https://web.archive.org/privacy.asp) for information regarding your privacy. 
 
-VillagePhotos.com is a licensed eBay developer. VillagePhotos.com is not affiliated with any web sites mentioned on our site except where noted. eBay and the eBay logo are trademarks of eBay Inc. 
+VillagePhotos.com is a licensed eBay developer. VillagePhotos.com is not affiliated with any web sites mentioned on our site except where noted. eBay and the eBay logo are trademarks of eBay Inc. Connected to 192.168.0.51 
 
 |  [ ](http://www.bbbonline.org/cks.asp?id=102080714265425346)  
 ---|---|---
