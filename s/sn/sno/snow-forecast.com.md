@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510144048id_/http%3A//www.snow-forecast.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011920id_/http%3A//www.snow-forecast.com/pages/privacy) for the most accurate reproduction.*
 
-# Snow-Forecast.com - Weather, Webcams & Snow Reports
+# Snow-Forecast.com - Resort Weather, Webcams & Ski Snow Reports
 
 ## **Privacy Statement for Snow-Forecast.com**
 
