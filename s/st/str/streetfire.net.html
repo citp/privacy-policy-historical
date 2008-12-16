@@ -1,53 +1,114 @@
-<!--The following is the downloaded HTML source of the streetfire.net privacy policy that was archived on 2008-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616174453id_/http%3A//videos.streetfire.net/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the streetfire.net privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216151834id_/http%3A//videos.streetfire.net/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-	The StreetFire Media Network
-</title><link href="http://px2.sfstatic.com/assets/css/global.css?ref=125" rel="stylesheet" type="text/css"><link href="http://px2.sfstatic.com/assets/css/buttons.css?ref=125" rel="stylesheet" type="text/css"><link href="http://px2.sfstatic.com/assets/css/portalcss3.css?ref=125" rel="stylesheet" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta id="metadescid" name="description" content="The largest automotive community site on the web with over 150,000 domestic and import videos, photos, rides and events."><meta id="metatitleid" name="title" content="Car videos, car photos, events and community on StreetFire.net"><title>
+	Car videos, car photos, events and community on StreetFire.net
+</title>
 
 
-<script type="text/javascript" src="http://px2.sfstatic.com/assets/js/master0001.js?ref=125"></script>
-<link rel="icon" href="/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="StreetFire.net Video Search"></head>
+
+
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-4179651296767592");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleUseIframeRendering();
+</script>
+<!-- END OF TAG FOR head SECTION -->
+
+<script type="text/javascript">
+	var googleAdUnits = new Array();
+	var reloadCount = 0;
+	
+	function AddAdUnitToGoogleAdUnits(div, adUnitName, width, height)
+	{
+		var howManyAdUnits = googleAdUnits.length;
+		if( howManyAdUnits == 0 )
+		{
+			googleAdUnits[0] = div + '|' + adUnitName + '|' + width + '|' + height;
+		}
+		else
+		{
+			googleAdUnits[howManyAdUnits] = div + '|' + adUnitName + '|' + width + '|' + height;
+		}
+	}
+	
+	function reloadAdUnit()
+	{
+		reloadCount = reloadCount + 1;
+		urchinTracker('/event/AdReloader/' + reloadCount);
+		
+		var howManyAdUnits = googleAdUnits.length;
+
+		// Loop over every ad unit and reload it
+		if( howManyAdUnits > 0 )
+		{
+			for( x=0; x<howManyAdUnits; x++ )
+			{
+				var adUnitCode = googleAdUnits[x].split('|');
+				var div = adUnitCode[0];
+				var adUnitName =  adUnitCode[1];
+				var width =  adUnitCode[2];
+				var height =  adUnitCode[3];
+				
+				document.getElementById(div).innerHTML = '<iframe src=\"http://videos.streetfire.net/handlers/GoogleAdUnit.ashx?unit=' + adUnitName + '&height=' + height + '&width=' + width + '\" height=\"' + height + '\" width=\"' + width + '\" frameborder=\"0\" scrolling=\"no\" style=\"border: 0px none;\" marginheight=\"0\" marginwidth=\"0\" allowtransparency=\"true\" hspace=\"0\" vspace=\"0\"></iframe>';
+			}
+		}
+
+		// Loop over and do it again
+		setTimeout("reloadAdUnit()", 60000);
+	}
+
+	setTimeout("reloadAdUnit()", 60000);
+</script>
+<link rel="stylesheet" type="text/css" href="http://px4.sfstatic.com/assets/css/global.css?ref=200811252014"><link rel="stylesheet" type="text/css" href="http://px4.sfstatic.com/assets/css/buttons.css?ref=200811252014"><link rel="stylesheet" type="text/css" href="http://px4.sfstatic.com/assets/css/portalcss3.css?ref=200811252014"><script type="text/javascript" src="http://px4.sfstatic.com/assets/js/master0001.js?ref=200811252014"></script><link rel="icon" href="/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="StreetFire.net Video Search"></head>
 <body>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script language="javascript" type="text/javascript">
 _uacct = "UA-2283400-1";
 _udn="streetfire.net";
-if(false){
-	__utmSetVar('registered');
-}else{
-	__utmSetVar('unregistered');
-}
 urchinTracker();
 </script>
+<script src="/js/suckerFish.js" type="text/javascript" language="JavaScript"></script>
 <noscript><div id="Description"></div></noscript>
 <form name="Form1" method="post" action="/Privacy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTk1ODg3MTYyMQ9kFgICAg9kFgICAw9kFgRmD2QWAmYPZBYEAgEPFgIeB1Zpc2libGVoFgYCDQ8WAh8AaGQCDw8WAh8AaGQCEQ8WAh4Fc3R5bGUFDWRpc3BsYXk6bm9uZTtkAgUPZBYCAgUPD2QWBB4Hb25mb2N1cwUnaWYodGhpcy52YWx1ZT09J1NlYXJjaCcpIHRoaXMudmFsdWU9Jyc7HgZvbmJsdXIFKGlmKHRoaXMudmFsdWU9PScnKXt0aGlzLnZhbHVlPSdTZWFyY2gnO31kAgIPZBYCZg9kFgICAQ9kFgICAQ9kFgICCQ8PFgIeDU9uQ2xpZW50Q2xpY2sFRmphdmFzY3JpcHQ6UGFnZUZvb3RlcjFfU3RkX1JlcG9ydEFCdWcxX3N1Ym1pdEZlZWRiYWNrKCk7IHJldHVybiBmYWxzZTtkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAwUYUGFnZUhlYWRlcjEkU2VhcmNoQnV0dG9uBR9QYWdlRm9vdGVyMSRTdGRfUmVwb3J0QUJ1ZzEkYnVnBSZQYWdlRm9vdGVyMSRTdGRfUmVwb3J0QUJ1ZzEkc3VnZ2VzdGlvblRqi0aGzA/Ew6VpYTY6NPUPvhPX">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3MDg4MDI2ODQPZBYCAgUPZBYCAgMPZBYCZg9kFgJmD2QWBGYPFgIeB1Zpc2libGVoFgYCDQ8WAh8AaGQCDw8WAh8AaGQCEQ8WAh4Fc3R5bGUFDWRpc3BsYXk6bm9uZTtkAgIPZBYCAgUPD2QWBB4Hb25mb2N1cwUnaWYodGhpcy52YWx1ZT09J1NlYXJjaCcpIHRoaXMudmFsdWU9Jyc7HgZvbmJsdXIFKGlmKHRoaXMudmFsdWU9PScnKXt0aGlzLnZhbHVlPSdTZWFyY2gnO31kZA==">
 
 
-<script src="/ScriptResource.axd?d=JI9oiMf4bohwZM_cln6NFznHfXo02wpDLapG_FURTl8ARZj25K9ryWaNa2StXYfNm9y6VZZnfdNfZJxs96xY9ETbrnMlg0HI0&amp;t=633163413144182221" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=JI9oiMf4bohwZM_cln6NFznHfXo02wpDLapG_FURTl8ARZj25K9ryWaNa2StXYfNm9y6VZZnfdNfZJxs96xY9ETbrnMlg0HI0&amp;t=633528568645937500" type="text/javascript"></script>
 <script src="/services/photocommentmanagement.asmx/js" type="text/javascript"></script>
 <script src="/services/commentmanagement.asmx/js" type="text/javascript"></script>
 
 
 
+<!-- Start Quantcast tag -->
+
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">  _qacct="p-3181js9eMtA3Y";quantserve();</script>
+<noscript><img src="http://pixel.quantserve.com/pixel/p-3181js9eMtA3Y.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+
+<!-- End Quantcast tag -->  
+
+
 <div id="TopNav">
 	<div class="TopNavSubCon">
 		<div class="hdLogoFormCon">
-			<a href="http://www.streetfire.net">
-			<img src="/images/trans.gif" width="309" height="60" alt="StreetFire" class="headerAddLogo">
-			</a>
+			<a href="http://www.streetfire.net"><img src="/images/trans.gif" width="309" height="60" alt="StreetFire" class="headerAddLogo"></a>
 			<div class="hdGreetFormCon">
 				
 				<div id="PageHeader1_loggedOutGreetingID" class="hdGreetingMessage">
 					<a href="http://videos.streetfire.net/Login.aspx" class="LoginReg">Login</a> | <a href="http://videos.streetfire.net/Register.aspx" class="LoginReg">Register</a>
-					<a href="http://videos.streetfire.net/help.aspx" class="LoginReg">&nbsp;Help</a>
+					<a href="http://videos.streetfire.net/help.aspx" id="PageHeader1_A1" class="LoginReg">&nbsp;Help</a>
 				</div>
 				<div class="hdFormCon">
-					<div id="PageHeader1_Panel1">
+					<div id="PageHeader1_HeaderPanel">
 	
 					<div class="hdSearchButton">
-					<input type="image" name="PageHeader1$SearchButton" id="PageHeader1_SearchButton" class="hdSearchButton" src="/images/buttons/searchBtNew.gif" border="0">					
+						<a onclick="urchinTracker('/event/PageHeader/SearchButton');" id="PageHeader1_SearchButtonHeader" class="topNavSearchBt" href="javascript:__doPostBack('PageHeader1$SearchButtonHeader','')"><span><span class="searchButton">&nbsp;</span></span></a>					
 					</div>
 					<!-- <div class="topNavSearchSelect"> -->
 					<select name="PageHeader1$SearchCategoryID" id="PageHeader1_SearchCategoryID" class="hdSelectSearch">
@@ -64,36 +125,112 @@ urchinTracker();
 	</select>
 					<!-- </div> -->
 					<div class="topNavSearchInput">
-					<input name="PageHeader1$SearchTextBoxID" type="text" value="Search" id="PageHeader1_SearchTextBoxID" class="hdSearch" onfocus="if(this.value=='Search') this.value='';" onblur="if(this.value==''){this.value='Search';}">
+						<input name="PageHeader1$SearchTextBoxID" type="text" value="Search" id="PageHeader1_SearchTextBoxID" class="hdSearch" onfocus="if(this.value=='Search') this.value='';" onblur="if(this.value==''){this.value='Search';}">
 					</div>
 					
 </div>
 				</div>
 			</div>
 		</div>
-		<div class="hdMenuCon">
+	
+		<div id="hdMenuCon">
+			<ul class="hdMenuListHome">
+				<li class="hdMenuHomeItem"><a href="http://www.streetfire.net" class="hdMenuHomeLink" onclick="urchinTracker('/event/sitenav/Home');">Home</a></li>
+			</ul>
+			
+			<div class="sema">
+				<a href="/profile/SEMA-2008.htm" onclick="urchinTracker('/event/sitenav/Sema2008');"><img src="http://px4.sfstatic.com/assets/images/semabutton2.png" width="137" height="27" alt=""></a>
+			</div>
+			
 			<ul class="hdMenuList">
-			<li class="hdMenuListItems"><a href="http://videos.streetfire.net/upload/upload.uplx" id="PageHeader1_aUploadID" class="hdMenuUploadLink">Upload</a></li>
-			<li class="hdMenuPipe">|</li>
-			<li class="hdMenuListItems"><a href="http://forums.streetfire.net/" id="PageHeader1_aForumID" class="hdMenuLink">Forum</a></li>
-			<li class="hdMenuPipe">|</li>
-			<li class="hdMenuListItems"><a href="http://videos.streetfire.net/channels.aspx" id="PageHeader1_aChannelsID" class="hdMenuLink">Channels</a></li>
-			<li class="hdMenuPipe">|</li>
-			<li class="hdMenuListItems"><a href="http://videos.streetfire.net/EventsList.aspx" id="PageHeader1_a1" class="hdMenuLink">Events</a></li>
-			<li class="hdMenuPipe">|</li>
-			<li class="hdMenuListItems"><a href="http://videos.streetfire.net/rides.aspx" id="PageHeader1_aRides" class="hdMenuLink">Rides</a></li>
-			<li class="hdMenuPipe">|</li>
-			<li class="hdMenuListItems"><a href="http://videos.streetfire.net/members.aspx" id="PageHeader1_aMembers" class="hdMenuLink">Members</a></li>
-			<li class="hdMenuPipe">|</li>
-			<li class="hdMenuListItems"><a href="http://videos.streetfire.net/photolist.aspx?all=1" id="PageHeader1_aPhotosID" class="hdMenuLink">Photos</a></li>
-			<li class="hdMenuPipe">|</li>
-			<li class="hdMenuListItems"><a href="http://videos.streetfire.net/" id="PageHeader1_aVideosID" class="hdMenuLink">Videos</a></li>
-			<li class="hdMenuPipe">|</li>
-			<li class="hdMenuListItems"><a href="http://www.streetfire.net/" id="PageHeader1_aHomeID" name="aHomeID" class="hdMenuLink">Home</a></li>
+				<li class="hdMenuListItemsBlank">&nbsp;</li>
+				<li class="hdMenuListItems">
+					<a href="http://videos.streetfire.net/UserHome.aspx" class="hdMenuLink" onclick="urchinTracker('/event/sitenav/MyHome');">My Home</a>
+					<ul class="hdSubMenuList">
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/UserHome.aspx" id="PageHeader1_MyProfileLink" class="hdSubLink" onclick="urchinTracker('/event/sitenav/ViewMyProfile');">View My Profile</a></li>
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/profile/edit.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/EditMyProfile');">Edit My Profile</a></li>
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/UserEditAccountInfo.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/AccountSettings');">Account Settings</a></li>
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/UserMailInbox.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/Messages');">Messages</a></li>
+						
+					</ul>
+				</li>
+				
+				<li class="hdMenuListItems">
+					<a href="http://videos.streetfire.net/" class="hdMenuLink" onclick="urchinTracker('/event/sitenav/Videos');">Videos</a>
+					<ul class="hdSubMenuList">
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/" class="hdSubLink" onclick="urchinTracker('/event/sitenav/BrowseVideos');">Browse</a></li>
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/UserManageVideos.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/MyVideos');">My Videos</a></li>
+						<li class="hdSubMenuListItems"><a href="http://upload.streetfire.net/upload/upload.uplx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/UploadVideos');">Upload</a></li>
+					</ul>
+				</li>
+				
+				<li class="hdMenuListItems">
+					<a href="http://videos.streetfire.net/photolist.aspx?all=1" class="hdMenuLink" onclick="urchinTracker('/event/sitenav/Photos');">Photos</a>
+					<ul class="hdSubMenuList">
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/photolist.aspx?all=1" class="hdSubLink" onclick="urchinTracker('/event/sitenav/BrowsePhotos');">Browse</a></li>
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/UserManageAlbums.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/MyPhotos');">My Photos</a></li>
+						<li class="hdSubMenuListItems"><a href="http://upload.streetfire.net/photoadd.aspx?type=1&amp;hidevid=1" class="hdSubLink" onclick="urchinTracker('/event/sitenav/UploadPhotos');">Upload</a></li>
+					</ul>
+				</li>
+				
+				<li class="hdMenuListItems">
+					<a href="http://videos.streetfire.net/members.aspx" class="hdMenuLink" onclick="urchinTracker('/event/sitenav/Members');">Members</a>
+					<ul class="hdSubMenuList">
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/members.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/BrowseMembers');">Browse</a></li>
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/UserHome.aspx" id="PageHeader1_MyFriendsLink" class="hdSubLink" onclick="urchinTracker('/event/sitenav/MyFriends');">My Friends</a></li>
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/RegisterInvite.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/InviteFriends');">Invite Friends</a></li>
+					</ul>
+				</li>
+				
+				<li class="hdMenuListItems">
+					<a href="http://videos.streetfire.net/rides.aspx" class="hdMenuLink" onclick="urchinTracker('/event/sitenav/Rides');">Rides</a>
+					<ul class="hdSubMenuList">
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/rides.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/BrowseRides');">Browse</a></li>
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/UserEditRides.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/MyRides');">My Rides</a></li>
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/rideedit.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/CreateRide');">Create Rides</a></li>
+					</ul>
+
+				</li>
+				
+				<li class="hdMenuListItems">
+					<a href="http://videos.streetfire.net/EventsList.aspx" class="hdMenuLink" onclick="urchinTracker('/event/sitenav/Events');">Events</a>
+					<ul class="hdSubMenuList">
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/EventsList.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/BrowseEvents');">Browse</a></li>
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/UserEventsList.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/MyEvents');">My Events</a></li>
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/EventEdit.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/CreateEvent');">Create Event</a></li>
+					</ul>
+				</li>
+				
+				<li class="hdMenuListItems">
+
+					<a href="http://videos.streetfire.net/channels.aspx" class="hdMenuLink" onclick="urchinTracker('/event/sitenav/Channels');">Channels</a>
+					<ul class="hdSubMenuList">
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/channels.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/ChannelsSubNav');">Channels</a></li>
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/shows.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/Shows');">Shows</a></li>
+						<li class="hdSubMenuListItems"><a href="http://blog.streetfire.net" class="hdSubLink" onclick="urchinTracker('/event/sitenav/Blog');">Blog</a></li>
+					</ul>
+				</li>
+				
+				<li class="hdMenuListItems">
+					<a href="http://videos.streetfire.net/more.aspx" class="hdMenuLink" onclick="urchinTracker('/event/sitenav/More');">More</a>
+					<ul class="hdSubMenuList">
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/feeds.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/Feeds');">Feeds</a></li>
+						<li class="hdSubMenuListItems"><a href="http://videos.streetfire.net/Contest0908.aspx" class="hdSubLink" onclick="urchinTracker('/event/sitenav/Contests');">Contests</a></li>
+						<li class="hdSubMenuListItems"><a href="http://forums.streetfire.net/" class="hdSubLink" onclick="urchinTracker('/event/sitenav/Forum');">Forum</a></li>
+					</ul>
+				</li>
+				
+				<li class="hdMenuListItemsBlank">
+					<a href="http://upload.streetfire.net/upload/upload.uplx" class="hdMenuUploadLink" onclick="urchinTracker('/event/sitenav/Upload');">Upload</a>
+				</li>
 			</ul>
 		</div>
 	</div>
 </div>
+
+
+
+
 
 
 
@@ -211,69 +348,140 @@ A:hover.teamAnchor {
 </tbody></table>
 	</div>
 </div>
-<div id="footerBugCon">
 
-	<div class="footerFixFF">		
+<script type="text/javascript">
+	//report a bug open/close functionality 
+	function toggleFeedback(obj)
+	{
+		var feedBackForm = document.getElementById(obj);
+		if(feedBackForm != null)
+		{
+			if(feedBackForm.style.display=='block')
+			{
+				feedBackForm.style.display='none';
+			}
+			else
+			{
+				feedBackForm.style.display='block';		
+				window.scrollBy(0,200); // horizontal and vertical scroll increments
+			}
+			
+			var infoheader = document.getElementById('infoheader');
+			if(infoheader != null)
+			{
+				infoheader.style.display = 'none';
+			}
+		}
+	}
 
+	function submitFeedback()
+	{
+		var email = document.getElementById('emailAddress');
+		var txtsubmit = document.getElementById('description');
+		var bug = document.getElementById('bug');
+		var suggestion = document.getElementById('suggestion');
+		var type = '';
 
-<div class="ReportBugCon"><div class="OnOff"><a href="javascript:toggleFeedback('feedBackFormID');" class="OnButton">Report a bug</a></div></div>
-<div class="ReportBugContainer" id="feedBackFormID" style="display:none; margin-left:120px">
-    <div id="PageFooter1_Std_ReportABug1_ReportABugPanel">
-	
-        <div class="ReportBugFormCon">
-	        <div class="ReportBugFormRow">
-		        <label class="ReportBugLabel">Email Address<br><span>(optional)</span></label>
-		        <input name="PageFooter1$Std_ReportABug1$emailAddress" type="text" id="PageFooter1_Std_ReportABug1_emailAddress" class="ReportBugAddr">
-		        <div class="ReportBugExpl">
-		        Please let us know if you experience any problems while on our site.
-		        </div>
-	        </div>
-	        <div class="ReportBugFormRow">
-		        <label class="ReportBugLabel">Message</label>
-		        <textarea name="PageFooter1$Std_ReportABug1$description" id="PageFooter1_Std_ReportABug1_description" cols="30" rows="4" class="ReportBugMess"></textarea>
-		        <div class="ReportBugExpl">
-		        Please be as specific as possible as to the problem you experienced.<br><br>Thank you!
-		        </div>
-	        </div>
-	        <div class="ReportBugFormRowTwo">
-		        <div class="ReportBugRbCon">
-			        <div class="ReportBugRbRow"><input value="1" name="PageFooter1$Std_ReportABug1$bugType" type="radio" id="PageFooter1_Std_ReportABug1_bug" checked="checked" class="ReportBugRb"><label class="bugType">This is a bug</label></div>
-			        <div class="ReportBugRbRow"><input value="2" name="PageFooter1$Std_ReportABug1$bugType" type="radio" id="PageFooter1_Std_ReportABug1_suggestion" class="ReportBugRb"> <label class="bugType">This is a suggestion</label></div>
-		        </div>
-		        <div class="ReportBugButCon">
-			        <a onclick="javascript:PageFooter1_Std_ReportABug1_submitFeedback(); return false;" id="PageFooter1_Std_ReportABug1_submit" class="button" href="javascript:__doPostBack('PageFooter1$Std_ReportABug1$submit','')"><span>Submit</span></a>
-		        </div>
-	        </div>
-	        <div id="infoheader" style="display:none;" class="success"><span>Your bug/suggestion has been submitted.&nbsp;&nbsp;<a href="javascript:toggleFeedback('feedBackFormID');"><img src="/images/icons/cross_gray.png" alt="close"></a></span></div>
-        </div>
-    
-</div>
-</div>
+		if (bug != null && suggestion != null)
+		{
+			if (bug.checked == true)
+			{
+				type ='1';
+			}
+			else if (suggestion.checked == true)
+			{
+				type = '2';
+			}
+		}
+
+		var wRequest = new Sys.Net.WebRequest();
+		if (txtsubmit.value.length > 0)
+		{
+			var postBackTxt = '';
+			postBackTxt = 'email=' + escape(email.value) + '&txt=' + escape(txtsubmit.value) + '&url=' + escape(window.location) + '&type=' + escape(type) + '&rnd=' + Math.random();
+			wRequest.set_url('/handlers/reportabug.ashx');
+			wRequest.set_body(postBackTxt);
+			wRequest.set_httpVerb('POST');
+			wRequest.add_completed(feedbackCallback);
+			wRequest.invoke();
+		}
+	}
+
+	function feedbackCallback(executor, eventArgs)
+	{
+		var retVal = null;
+		if (executor.get_responseAvailable()) 
+		{
+			retVal = executor.get_responseData();
+			if(retVal=='ok') //set alert message
+			{
+				var infoHeaderSpacer = document.getElementById('infoHeaderSpacer');
+				var infoheader = document.getElementById('infoheader');
+				var email = document.getElementById('emailAddress');
+				var txtsubmit = document.getElementById('description');
+
+				infoHeaderSpacer.style.display = 'none';
+				infoheader.style.display = 'inline';
+				email.value = '';
+				txtsubmit.value = '';
+			}
+		}
+	}
+</script>
+
+<div id="footerBugCon" style="background:#000;">
+	<div class="footerFixFF" style="background:#000;">
+		<!-- Report a Bug -->
+		<div class="ReportBugFormCon" id="feedBackFormID" style="display:none;">
+			<div class="ReportBugFormRow">
+				<label class="ReportBugLabel">Email Address<br><span>(optional)</span></label>
+				<input id="emailAddress" type="text" name="emailAddr" class="ReportBugAddr">
+				<div class="ReportBugExpl">Please let us know if you experience any problems while on our site.</div>
+			</div>
+			<div class="ReportBugFormRow">
+				<label class="ReportBugLabel">Message</label>
+				<textarea name="description" id="description" cols="30" rows="4" class="ReportBugMess"></textarea>
+				<div class="ReportBugExpl">Please be as specific as possible as to the problem you experienced.<br><br>Thank you!</div>
+			</div>
+			<div class="ReportBugFormRowTwo">
+				<div class="ReportBugRbCon">
+					<div class="ReportBugRbRow"><input id="bug" type="radio" name="bugType" value="1" checked="true" class="ReportBugRb"><label class="bugType">This is a bug</label></div>
+					<div class="ReportBugRbRow"><input id="suggestion" type="radio" name="bugType" value="2" checked="false" class="ReportBugRb"> <label class="bugType">This is a suggestion</label></div>
+				</div>
+				<div class="ReportBugButCon">
+					<a onclick="javascript:submitFeedback(); return false;" id="PageFooter1_submit" class="button" href="#"><span>Submit</span></a>
+				</div>
+			</div>
+			
+			<div id="infoHeaderSpacer" class="reportBugAlert" style="display:inline; background:#000; padding-top:45px;"></div>
+			<div id="infoheader" class="reportBugAlert" style="display:none;">
+				<span class="success">
+					<span class="successTxtCon">Your bug/suggestion has been submitted.</span>
+					<a href="javascript:toggleFeedback('feedBackFormID');"><img src="/images/icons/cross_gray.png" alt="close"></a>
+				</span>
+			</div>
+		</div>
+
+		<!-- Footer -->
 		<div id="footer">
-			    
-
-		
-		
+			<div class="ReportBugCon">
+				<a href="javascript:toggleFeedback('feedBackFormID');" class="OnButton"><span class="onButtonText">Report a bug</span></a>
+			</div>
 			<ul class="footerList">
-				<li></li>
-				<li></li>
 				<li><a href="http://purdue.facebook.com/group.php?gid=23439760456" class="footerLink">StreetFire on FaceBook</a></li>
 				<li><a href="http://www.myspace.com/streetfirenet" class="footerLink">StreetFire on MySpace</a></li>
-				<li><a href="http://www.chopaholic.com/id38.html" class="footerLink" target="_blank">Get Gear</a></li>
+				<li><a href="http://www.streetfire.net/contest.aspx" class="footerLink">Contests</a></li>
+				<li><a href="http://streetfiregear.net/" class="footerLink" target="_blank">Get Gear</a></li>
 			</ul>
-			
 			<div class="footerPipe"><img src="/images/backgrounds/footerPipe.gif" width="1" height="89" alt=""></div>
-			
 			<ul class="footerList">
-				<li><a href="http://videos.streetfire.net/Login.aspx" id="PageFooter1_loginID" class="footerLink">Log In</a></li>
-				<li><a href="http://videos.streetfire.net/Register.aspx" class="footerLink">Register</a></li>
+				<li id="PageFooter1_loginID"><a href="http://videos.streetfire.net/Login.aspx" class="footerLink">Log In</a></li>
+				<li id="PageFooter1_registerID"><a href="http://videos.streetfire.net/Register.aspx" class="footerLink">Register</a></li>
 				<li><a href="http://videos.streetfire.net/upload/upload.uplx" class="footerLink">Upload Content</a></li>
 				<li><a href="http://videos.streetfire.net/codecfaq.aspx" class="footerLink">Video Tips</a></li>
 				<li><a href="http://videos.streetfire.net/LeaveFeedback.aspx" class="footerLink">Give us Feedback</a></li>
 			</ul>
-			
 			<div class="footerPipe"><img src="/images/backgrounds/footerPipe.gif" width="1" height="89" alt=""></div>
-			
 			<ul class="footerList">
 				<li><a href="http://videos.streetfire.net/About.aspx" class="footerLink">About Us</a></li>
 				<li><a href="http://videos.streetfire.net/Jobs.aspx" class="footerLink">Jobs</a></li>
@@ -284,99 +492,21 @@ A:hover.teamAnchor {
 			
 			<div class="footerPipe"><img src="/images/backgrounds/footerPipe.gif" width="1" height="89" alt=""></div>
 		
-			<div class="footerLogo"><a href="http://www.streetfire.net" class="imageLink"><img src="/images/trans.gif" width="210" height="41" alt=""></a></div>
+			<div class="footerLogo">
+				<a href="http://www.streetfire.net" class="imageLink"><img src="/images/trans.gif" width="210" height="41" alt=""></a>
+				<div class="copyRight">Copyright © 2008 StreetFire Inc.</div>
+			</div>
 		</div>
 	</div>
 </div>
 
-<!-- I put this here just to add space underneath the footer. -->
-<div><br>&nbsp;<br>&nbsp;</div>
-
 
 <script type="text/javascript">
-//<![CDATA[
-
-		function PageFooter1_Std_ReportABug1_submitFeedback()
-		{	
-				//debugger;
-				var email=document.getElementById('PageFooter1_Std_ReportABug1_emailAddress');
-				var txtsubmit=document.getElementById('PageFooter1_Std_ReportABug1_description');
-				var bug = document.getElementById('PageFooter1_Std_ReportABug1_bug');
-				var suggestion = document.getElementById('PageFooter1_Std_ReportABug1_suggestion');
-				var type = '';
-				
-				// see Msg_LegacyMessages.STD_FEEDBACK_TYPES for feedback translations
-				//		Custom = 0,			// feedback Prompt supplied by caller
-				//		Bug = 1,			// use standard Bug feedback Prompt
-				//		Suggestion = 2,		// use standard Suggestion feedback Prompt
-				//		MaxFeedBackTypes = Suggestion + 1		
-				
-				if (bug != null && suggestion != null){
-					if (bug.checked == true){
-						type ='1';
-					}
-					else if (suggestion.checked == true){
-						type = '2';
-					}
-				}
-				
-				var wRequest = new Sys.Net.WebRequest();
-				if (txtsubmit.value.length > 0) {
-					var postBackTxt = '';
-					postBackTxt = 'email=' + escape(email.value) + '&txt=' + escape(txtsubmit.value) + '&url=' + escape(window.location) + '&type=' + escape(type) + '&rnd=' + Math.random();
-					wRequest.set_url('/handlers/reportabug.ashx');
-					wRequest.set_body(postBackTxt);
-					wRequest.set_httpVerb('POST');
-					wRequest.add_completed(PageFooter1_Std_ReportABug1_feedbackCallback);
-					wRequest.invoke();
-				}
-		}
-
-		function PageFooter1_Std_ReportABug1_feedbackCallback(executor, eventArgs)
-		{
-			var retVal = null;
-		    
-			if (executor.get_responseAvailable()) 
-			{  
-				retVal = executor.get_responseData();
-				if(retVal=='ok') //set alert message
-				{
-					var infoheader = document.getElementById('infoheader');
-					infoheader.style.display = 'block';
-					
-					var email=document.getElementById('PageFooter1_Std_ReportABug1_emailAddress');
-					var txtsubmit=document.getElementById('PageFooter1_Std_ReportABug1_description');
-					
-					email.value = '';
-					txtsubmit.value = '';
-				}
-			}
-		}addClickFunction('PageFooter1_Std_ReportABug1_submit');Sys.Application.initialize();
-//]]>
+<!--
+addClickFunction('PageHeader1_SearchButtonHeader');Sys.Application.initialize();
+// -->
 </script>
 </form>
-<script type="text/javascript" language="javascript">
-function pageLoad(){
-	var ad=document.getElementById("AdContainer");
-	if(ad){
-		ad.innerHTML='<iframe src="http://videos.streetfire.net/300x250.aspx?bannertype=DefaultPlayerBanner" name="ifr_300x250ad" id="ifr_300x250ad" width="300" height="250" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no>'+'<'+'/iframe>';
-	}
-}
-if(false){
-	window.CT_X_Authenticated = 1;
-}
-</script>
-<script type="text/javascript">
-document.write('<'
-				+ 'script type="text/javascript" src="'
-				+ document.location.protocol
-				+ '//stats2.clicktracks.com/cgi-bin/ctasp-server.cgi'
-				+ '?i=vQqpxmXmyQpfcO'
-				+ '&d=videosstreetfirenet'
-				+ '&c='+escape(document.cookie)
-				+ '&fp=.streetfire.net'
-				+ '"></'+'script>');
-</script><script type="text/javascript" src="https://stats2.clicktracks.com/cgi-bin/ctasp-server.cgi?i=vQqpxmXmyQpfcO&amp;d=videosstreetfirenet&amp;c=&amp;fp=.streetfire.net"></script><noscript><img src="https://stats2.clicktracks.com/cgi-bin/ctasp-server.cgi?i=vQqpxmXmyQpfcO&g=1" alt="Web Analytics" border=0></noscript>
 
 
 </body></html>
