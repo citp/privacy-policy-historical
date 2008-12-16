@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpari-us.com privacy policy that was archived on 2008-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080407144132id_/http%3A//www.alpari-us.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari-us.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054823id_/http%3A//www.alpari-us.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Your privacy is important to us
 
@@ -44,7 +44,7 @@ Accessing and Revisiting Your Personal Information
 
 We endeavor to keep our customer files complete and accurate. We will give you reasonable access to the information we have about you. Most of this information is contained in account statements that you receive from us and applications that you submit to obtain our products and services. We encourage you to review this information and notify us if you believe any information should be corrected or updated. If you have a question or concern about your personal information or this privacy notice, please contact your Alpari (US), LLC representative.
 
-Privacy Choices Form – Opt Out
+Privacy Choices Form - Opt Out
 
 If you prefer that we limit disclosures of personal information about you, you may notify us via email at [optout@alpari-us.com](mailto:optout@alpari-us.com) by calling 1-646-825-5760, or via US Postal Service, that you elect to opt out of our privacy policy procedures. Please send correspondence where you maintain your account(s) as listed on your account statements, along with your account number(s) to:
 
@@ -61,3 +61,7 @@ Our account records will then indicate the following preferences:
 
 
 Please allow approximately 30 days from our receipt of your request for your instructions to become effective. You do not need to notify us, if you have previously instructed ALPARI (US), LLC, in writing, not to share information about you.
+
+CUSTOMER NOTIFICATION OF PRIVACY POLICY
+
+Alpari (US), LLC will maintain a copy of its Privacy Policy on its website. You will be sent a link to this Privacy Policy webpage via email once your account has been approved and on an annual basis thereafter.
