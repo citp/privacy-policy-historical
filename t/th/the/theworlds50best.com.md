@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theworlds50best.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615165443id_/http%3A//www.theworlds50best.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworlds50best.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216114931id_/http%3A//www.theworlds50best.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The S.Pellegrino World’s 50 Best Restaurants 2008
 
