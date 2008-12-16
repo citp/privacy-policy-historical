@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the logoonline.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227145406id_/http%3A//logoonline.com/about/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161600id_/http%3A//www.logoonline.com/about/privacy-policy.jhtml) for the most accurate reproduction.*
 
-# Get Logo on TV, Online or Download Podcasts | Buy Favorite Logo TV Show on DVD | Logo Online | Logo Online
+# Gay, Lesbian, Bisexual & Transgender TV Shows & Specials | Logo Online
 
-|  |  | [](https://web.archive.org/about/) | [](https://web.archive.org/about/) | [](https://web.archive.org/about/) |  | [](https://web.archive.org/about/get-logo.jhtml) | [](https://web.archive.org/about/get-logo.jhtml) | [](https://web.archive.org/about/get-logo.jhtml) |  | [](https://web.archive.org/about/contact.jhtml) | [](https://web.archive.org/about/contact.jhtml) | [](https://web.archive.org/about/contact.jhtml) |  | [](https://web.archive.org/about/faq.jhtml) | [](https://web.archive.org/about/faq.jhtml) | [](https://web.archive.org/about/faq.jhtml) |  | [](https://web.archive.org/about/casting.jhtml) | [](https://web.archive.org/about/casting.jhtml) | [](https://web.archive.org/about/casting.jhtml)  
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-  
 PRIVACY POLICY
-
-| 
 
 UPDATED: 08.14.2007     
   
