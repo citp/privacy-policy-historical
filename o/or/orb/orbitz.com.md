@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the orbitz.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612021825id_/http%3A//www.orbitz.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitz.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020050id_/http%3A//www.orbitz.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
-# Orbitz: Privacy Policy
+# Privacy Policy on Orbitz
 
 [](http://www.truste.org/ivalidate.php?url=www.orbitz.com&sealid=101)
 
-Effective December 04, 2006
+Effective January 8, 2008
 
 ## Orbitz® Privacy Policy
 
