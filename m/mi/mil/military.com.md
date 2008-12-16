@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518193625id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012210id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
 
 # About Us - Military.com
 
@@ -103,7 +103,7 @@ We participate in the Department of Commerce's Safe Harbor Framework arising out
 
 If we decide to materially change our Privacy Statement for Monster and Military.com we will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
 
-If at any time, you have questions or concerns about this Privacy Statement or believe that we have not adhered to this Privacy Statement, please feel free to email us at [privacystatement@monster.com](mailto:privacystatement@monster.com) or call us at 1-800-MONSTER and speak to one of our representatives. We will use commercially reasonable efforts to promptly answer your question or resolve your problem.
+If at any time, you have questions or concerns about this Privacy Statement or believe that we have not adhered to this Privacy Statement, please feel free to email us at [privacystatement@military-inc.com](mailto:privacystatement@military-inc.com) or call us at 1-800-MONSTER and speak to one of our representatives. We will use commercially reasonable efforts to promptly answer your question or resolve your problem.
 
 **Contact Information**
 
