@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momjunction.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612170029id_/http%3A//www.momjunction.com/members/privacyPolicy.aspx%3Fm%3DM%26p%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momjunction.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162832id_/http%3A//www.momjunction.com/members/privacyPolicy.aspx%3Fm%3DM%26p%3D1) for the most accurate reproduction.*
 
 # Support Groups, Parenting Tips & Advice from Moms. – MomJunction Privacy Policy
 
