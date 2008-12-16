@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the endless.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622160131id_/http%3A//www.endless.com/help/200103540) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endless.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216235059id_/http%3A//www.endless.com/help/200103540) for the most accurate reproduction.*
 
-# Endless.com
+# Endless.com: Help
 
 **Last updated: October 31, 2006**   
 Endless.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Endless.com, you are accepting the practices described in this Privacy Notice.**
