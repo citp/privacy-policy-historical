@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldseriesofpoker.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615222145id_/http%3A//www.worldseriesofpoker.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseriesofpoker.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216040734id_/http%3A//www.worldseriesofpoker.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # World Series of Poker - Official Tournament Coverage and Results
 
