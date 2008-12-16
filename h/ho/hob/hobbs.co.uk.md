@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612070121id_/http%3A//hobbs.co.uk/index.cfm%3Fpage%3D1041) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011324id_/http%3A//www.hobbs.co.uk/index.cfm%3Fpage%3D1041) for the most accurate reproduction.*
 
 # Hobbs
 
