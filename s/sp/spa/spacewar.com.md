@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacewar.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509141014id_/http%3A//www.spacewar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacewar.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154540id_/http%3A//www.spacewar.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -52,16 +52,7 @@ If you do not want the benefit of a network cookie, there is a simple procedure 
 Valued Friends for Valuable Info 
 
 | 
-* Get [Prepaid Phone Cards](http://www.phoneshark.com/) as low as $2 and up to $150
-  
-
 * [Eating Disorder Treatment](http://www.casapalmera.com/) Find the support that you need to begin rebuilding your health and self-esteem.
-  
-
-* [Spanx ](ttp://www.barenecessities.com/Spanx_brand_44.htm) \- Look and feel your best with the ultimate Red Carpet figure fixer. 
-  
-
-* [NASCAR](http://www.nascarspace.com/) \- This is your place to hang out, check the upcoming NASCAR schedule, race results, talk with other NASCAR fans, buy and sell your own personal nascar stuff and more!
   
   
 ---
