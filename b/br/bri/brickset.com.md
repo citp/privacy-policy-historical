@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brickset.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611024343id_/http%3A//www.brickset.com/misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickset.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012253id_/http%3A//www.brickset.com/misc/privacy.aspx) for the most accurate reproduction.*
 
 # Brickset: LEGO set reference | Privacy policy
 
@@ -37,4 +37,4 @@ We only collect and keep the minimum amount of information necessary to perform 
 
 Parents of a child who has joined Brickset can ask us for access to, or to remove, the information pertaining to the child upon reasonable proof that the requestor is in fact the parent or guardian of that user.
 
-Maintaining online safety and privacy is a prime concern of Brickset administrators. If you have a concern about the privacy of you or your child, please [contact us](https://web.archive.org/web/20080611024343id_/http%3A//www.brickset.com/misc/contact.aspx "Contact us by email")
+Maintaining online safety and privacy is a prime concern of Brickset administrators. If you have a concern about the privacy of you or your child, please [contact us](https://web.archive.org/web/20081216012253id_/http%3A//www.brickset.com/misc/contact.aspx "Contact us by email")
