@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519225141id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015824id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
 
-# FAA - Privacy Policy
+# Privacy Policy
 
 | 
 
-|  | [Printer Friendly](https://web.archive.org/privacy/index.cfm?print=go)  
----|---  
-| [Email Page](https://web.archive.org/email_page/?title=FAA%20Privacy%20and%20Website%20Policy&pageurl=%2Fprivacy%2Findex%2Ecfm&sid=true)  
-  
+  * [Printer Friendly](https://web.archive.org/privacy/index.cfm?print=go)
+  * [Email Page](https://web.archive.org/email_page/?title=FAA%20Privacy%20and%20Website%20Policy&pageurl=%2Fprivacy%2Findex%2Ecfm&sid=true)
+
+
+
 * * *
 
 ## Our Commitment
@@ -56,6 +57,10 @@ Also, the law may require us to share collected information with authorized law 
 ## Choices on How We Use the Information You Provide
 
 Throughout our website, we will let you know whether the information we ask you to provide is voluntary or required. By providing personally identifiable information, you grant us consent to use this information, but only for the primary reason you are giving it. We will ask you to grant us consent before using your voluntarily provided information for any secondary purposes, other than those required under the law.
+
+## Information Collected from Interactive Forms
+
+On some of our webpages we offer interactive forms that let you voluntarily submit personal information (such as your email address, name, or organization). This may occur when you are registering for conferences, workshops, or training sessions offered by FAA, ordering publications from FAA, or submitting comments to various web discussion forums. In those cases, we only use your information for the expressed purposes for which it is intended. Your information is not made available to any third party. However, if you supply your name, email address, or other personal information when you submit a comment to an FAA web discussion forum, we may post that information along with your comment.
 
 ## Information Practices for Children
 
@@ -114,3 +119,6 @@ View our [Privacy Act Notices](http://cio.ost.dot.gov/DOT/OST/Documents/files/re
 For more information or for comments and concerns on our privacy practices, please contact our Privacy Officer, Carla Mauney, by [email](https://web.archive.org/contact_faa/?returnPage=2%2FV%5D%2FNKB8789CIXL%2AE%5B%24RA9B%3F%0A&mailto=44WY%2FOZ%5F7%3CYXYH%28%207LJ%5D%5DA%5D%225B8L%20%0A&subject=00%26U4I%3A%5E%3A1%5D%5C%2FH8L%2DE%5BMRE0%20%20%0A). Also, DOT has conducted a Privacy Impact Assessment on some systems.
 
 View our [Privacy Impact Assessments](http://www.dot.gov/pia.html).
+
+|   
+---|---|---
