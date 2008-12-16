@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609034207id_/http%3A//www.robinsharma.com/canada_success_coach_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051537id_/http%3A//www.robinsharma.com/canada_success_coach_privacy.htm) for the most accurate reproduction.*
 
-# Leadership Development, Personal Success | Robin Sharma
+# Privacy and Security | Robin Sharma | Sharma Leadership International
 
 We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website. 
 
