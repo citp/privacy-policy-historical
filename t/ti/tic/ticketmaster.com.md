@@ -1,15 +1,21 @@
-> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013052903id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_home_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020433id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
 
 # Ticketmaster - Help
 
-Ticketmaster is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including Ask.com, Citysearch, Evite, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, Ticketmaster has revised its [privacy policy](http://www.ticketmaster.com/h/privacyrights.html), effective July 15, 2007, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](http://www.ticketmaster.com/h/privacyfaq.html) for details about the changes. Please review both the Consumer Privacy statement and this site’s complete privacy policy.
+**[Click here if you are buying tickets to an event in Canada](http://www.ticketmaster.ca/h/privacy.html)**
 
-**Consumer Privacy at Ticketmaster, an IAC Company**
+Welcome to Ticketmaster! We want you to know that protecting your personal information is very important to us, and we respect your privacy. This Privacy Policy is meant to explain how we use and protect the personal information you share with us. This Policy applies to all users of www.ticketmaster.com or our services, and to any information provided to us. 
 
-At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Ticketmaster, please [click here](http://www.ticketmaster.com/h/privacyrights.html).
+By using our website, you are accepting the practices we describe here. 
+
+If you have any questions, please click here for information on how to contact us. 
+
+**Consumer Privacy at Ticketmaster**
+
+At Ticketmaster, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on Ticketmaster’s website. To read the entire Privacy Policy of Ticketmaster, please [click here](http://www.ticketmaster.com/h/privacyrights.html). 
 
 **Information we may collect**    ([Read More](http://www.ticketmaster.com/h/privacyrights.html#aboutYou))  
-We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
+We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
 
 We also may collect other types of information in the following ways when you visit our website: 
 
@@ -50,8 +56,8 @@ We may use information to:
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: 
 
   * Event providers, such as the venues, promoters, artists' representatives and fan clubs, teams, leagues and others who are involved in, produce or bring you events;
+  * Ticketmaster-owned or affiliated businesses, in order to provide you with information about a variety of products and services that might interest you;
   * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other IAC businesses;
   * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
   * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
@@ -76,7 +82,7 @@ We take appropriate physical, electronic, and other security measures to help sa
 We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
 
 **Your California Privacy Rights**  
-If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the IAC companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information: 
+If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information: 
 
   1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year;
   2. the names and addresses of the third parties that received that information; and
@@ -95,4 +101,4 @@ c/o Ticketmaster Legal
 West Hollywood, CA 90069  
 [legal@ticketmaster.com](mailto:legal@ticketmaster.com)
 
-© IAC/InterActiveCorp. All rights reserved. 
+© Ticketmaster. All rights reserved. 
