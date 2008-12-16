@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerio.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516041313id_/http%3A//www.kerio.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerio.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023035id_/http%3A//www.kerio.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Kerio Technologies Inc. | Privacy policy
 
@@ -74,7 +74,7 @@ Suite 1100
 San Jose, CA 95113  
 USA  
 Toll free in North America:   
-**1-888-77-KERIO (53746)**  
+**1-888-77-KERIO** (53746)  
 Direct: + 1 (408) 496-4500  
 Fax: + 1 (408) 496-6902  
 Email Sales  
