@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigthink.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611225735id_/http%3A//www.bigthink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigthink.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216065027id_/http%3A//www.bigthink.com/privacy) for the most accurate reproduction.*
 
 # Big Think - Privacy Policy
 
