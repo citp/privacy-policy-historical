@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the protx.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622020545id_/http%3A//www.protx.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protx.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035814id_/http%3A//www.protx.com/privacy.asp) for the most accurate reproduction.*
 
 # Protx - secure online payment gateway for credit card processing | Disclaimers : Privacy Policy
 
 ## Privacy & Cookie Policy
 
-This is the privacy policy of Protx Limited ("Protx"). It applies only to personal data as defined in s.1 of the 1998 Data Protection Act ("personal information" or "information") and not other types of business or general information. Broadly speaking, this is information that enables you to be identified, such as your name, address and email address. Please note that this policy will only relate to financial information about you if that financial information is personal data, as defined by that Act. The policy tells you who we are, how we collect personal information about you through this website, what we intend to use that information for, with whom we intend to share it, how we keep it secure, and how we transfer your information outside the European Economic Area ("EEA").
+This is the privacy policy of Protx, a division of Sage (UK) Limited ("Protx"). It applies only to personal data as defined in s.1 of the 1998 Data Protection Act ("personal information" or "information") and not other types of business or general information. Broadly speaking, this is information that enables you to be identified, such as your name, address and email address. Please note that this policy will only relate to financial information about you if that financial information is personal data, as defined by that Act. The policy tells you who we are, how we collect personal information about you through this website, what we intend to use that information for, with whom we intend to share it, how we keep it secure, and how we transfer your information outside the European Economic Area ("EEA").
 
 Please read this policy carefully. By accessing or using this website you are deemed to agree to the terms of this privacy policy, and if you do not agree with it, then you must not send us any personal information.
 
@@ -12,7 +12,7 @@ Note that if you follow a link from this site to another site, this policy will 
 
 Further information about privacy and data protection issues including the online Register of Data Controllers can be found on the Information Commissioner´s website at [http://www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/ "Visit the Online Services Commissioner's website")
 
-We are Protx, a division of Sage (UK) Limited, a company registered in England and Wales with company registration number 4176403. Our registered office is at North Park, Newcastle upon Tyne, NE13 9AA. Please see our Contact Us section for more information. If you have any queries about the information we hold on you, please contact our Data Protection Compliance Officer, who you may write to at the address above, or telephone on 0191 294 3000.
+We are Protx, a division of Sage (UK) Limited, a company registered in England and Wales with company registration number 1045967. Our registered office is at North Park, Newcastle upon Tyne, NE13 9AA. Please see our Contact Us section for more information. If you have any queries about the information we hold on you, please contact our Data Protection Compliance Officer, who you may write to at the address above, or telephone on 0191 294 3000.
 
 We are entered in the Register of Data Controllers with registration no. Z8245307.
 
