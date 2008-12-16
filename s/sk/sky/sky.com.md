@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sky.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509182055id_/http%3A//www1.sky.com/portal/site/skycom/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sky.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011124id_/http%3A//www.sky.com/portal/site/skycom/privacy) for the most accurate reproduction.*
 
 # Sky.com - Sky Help Centre>Sky.com Privacy Statement
 
@@ -70,4 +70,4 @@ How to refuse cookies with Internet Explorer:
 
 Following these instructions will stop Your computer from accepting cookies in future. You may reconfigure Your computer to accept cookies again by selecting a lower level of privacy.
 
-You can find information on disabling cookies in other browsers at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+You can find information on disabling cookies in other browsers at <http://www.aboutcookies.org/>.
