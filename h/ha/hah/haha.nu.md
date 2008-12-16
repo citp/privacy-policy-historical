@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haha.nu privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603010235id_/http%3A//haha.nu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haha.nu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216115737id_/http%3A//haha.nu/privacy-statement) for the most accurate reproduction.*
 
 # haha.nu - a lifestyle blogzine
 
@@ -24,4 +24,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Changes of policy**
 
-Please note that we review our privacy practices from time to time, and that such practices are subject to change. We ask that our visitors periodically review this page to ensure familiarity with the most current version of our privacy statement. 
+Please note that we review our privacy practices from time to time, and that such practices are subject to change. We ask that our visitors periodically review this page to ensure familiarity with the most current version of our privacy statement.
