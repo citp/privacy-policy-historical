@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the sitening.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611070024id_/http%3A//sitening.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitening.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216072728id_/http%3A//sitening.com/privacy-policy) for the most accurate reproduction.*
 
-# Sitening Privacy Policy - Nashville SEO, SEM, Internet Strategy and Web Design
+# Privacy Policy / Sitening / Nashville TN
 
-## Sitening Privacy Policy
-
-### November 1, 2006
+### AUGUST 1, 2008
 
 At Sitening we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Sitening LLC or its subsidiaries or affiliated companies (collectively, Sitening's "services"). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
 
 Sitening adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's safe harbor program.
 
-If you have any questions about this Policy, please feel free to contact us through our website or write to us at Privacy Matters, c/o Sitening LLC, 3004 Poston Ave, Unit #B, Nashville, TN 37203, USA.
+If you have any questions about this Policy, please feel free to contact us through our website or write to us at Privacy Matters, c/o Sitening LLC, 1910 21st Ave S, Nashville, TN 37212, USA.
 
 **Information we collect and how we use it:**
 
@@ -92,4 +90,4 @@ Sitening regularly reviews its compliance with this Policy. Please feel free to 
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o Sitening LLC, 3004 Poston Ave, Unit #B, Nashville, TN 37203, USA.
+If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o Sitening LLC, 1910 21st Ave S, Nashville, TN 37212, USA.
