@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517064853id_/http%3A//www.truthdig.com/privacy_policy/%3Fbn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160450id_/http%3A//www.truthdig.com/privacy_policy/%3Fbn) for the most accurate reproduction.*
 
 # Truthdig - Privacy Policy
 
@@ -22,7 +22,7 @@ We offer a "send this Dig to a friend" feature, which allows our users to inform
 
 ### Discussion Forums
 
-Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdigs [User Agreement](https://web.archive.org/web/20080517064853id_/http%3A//www.truthdig.com/user_agreement), by using the Web Site you grant Truthdig permission to use any content you post on the Web Site for any purpose.
+Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdig's [User Agreement](https://web.archive.org/web/20081216160450id_/http%3A//www.truthdig.com/user_agreement), by using the Web Site you grant Truthdig permission to use any content you post on the Web Site for any purpose.
 
 If you have any concerns about the discussion forums, send email to [info@truthdig.com](mailto:info@truthdig.com).
 
@@ -42,7 +42,7 @@ Protecting the rights of children is important to us. As a result, we do not col
 
 Truthdig allows users to opt-out of receiving communications from us and to modify or remove their information from our system. The following options are available to do so:
 
-Send email to [unsubscribe@truthdig.com](mailto:unsubscribe@truthdig.com)
+Send email to [webmaster@truthdig.com](mailto:webmaster@truthdig.com)
 
 Send mail to: 
 
