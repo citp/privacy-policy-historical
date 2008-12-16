@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the totalbeauty.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213093445id_/http%3A//www.totalbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalbeauty.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151753id_/http%3A//www.totalbeauty.com/privacy) for the most accurate reproduction.*
 
-# Total Beauty: Package - Package
+# Privacy Policy for TotalBeauty.com
 
 TOTAL BEAUTY MEDIA, INC. - PRIVACY POLICY 
 
 Your privacy is important, so Total Beauty Media, Inc. has created this Privacy Policy to let you know what information we collect when you visit the Total Beauty web site (the "Site"), why we collect it, and how it is used. 
 
-The terms "you," "your" and "yours" refer to all visitors of our Site. The terms "Total Beauty", "we", "us" and "our" refer to Total Beauty Media, Inc. and its subsidiaries and affiliates. This Privacy Policy is governed by our Terms of Use. By accessing this Site and the content, information, products and services available on this Site (collectively the "Service"), you consent to the data practices described in this Privacy Policy and our [Terms of Use](https://web.archive.org/terms/). We may periodically make changes to this Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes, so we encourage you to visit this page often. 
+The terms "you," "your" and "yours" refer to all visitors of our Site. The terms "Total Beauty", "we", "us" and "our" refer to Total Beauty Media, Inc. and its subsidiaries and affiliates. This Privacy Policy is governed by our "Terms of Use". By accessing this Site and the content, information, products and services available on this Site (collectively the "Service"), you consent to the data practices described in this Privacy Policy and our [Terms of Use](https://web.archive.org/terms/). We may periodically make changes to this Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes, so we encourage you to visit this page often. 
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us. 
 
@@ -14,13 +14,13 @@ If you have any questions about our privacy practices, please refer to the end o
 
 We may request at times that you voluntarily supply us with personal information. Such personal information includes any information that may be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number(s) and other contact information, as well as physical traits and allergies in the "Beauty Scout." Generally some or all of this information is requested when you register on the Site, when you post product reviews or ratings, or when you provide information in connection with sweepstakes, contests and surveys. We may request information about your interests and activities, your gender and age, and other demographic information as well as public information such as user ratings and reviews and other information you view on the Site. 
 
-Some of the information Total Beauty collects is not explicitly submitted by you-- Total Beauty also automatically receives and records information on its server logs from your browser, including your IP address, cookie information, the web pages you request, your browser type and language, access times, and the referring web site address. 
+Some of the information Total Beauty collects is not explicitly submitted by you -- Total Beauty also automatically receives and records information on its server logs from your browser, including your IP address, cookie information, the web pages you request, your browser type and language, access times, and the referring web site address. 
 
 For instance, when you visit our Site, we may assign your computer one or more cookies, to facilitate access to our Site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our Site, such as the web pages you visit, the links you click, and the searches you conduct on the Site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our Site. 
 
 We also may use standard other technologies, such as web beacons and other similar technologies, to track your use of our Site. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our Site users to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities. 
 
-We may allow third-parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements on our Site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our Site does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. 
+We use third-party advertising companies to serve advertisements when you visit our Site. The third-party advertising technology that we use on this Site uses information derived from your visits to this Site to target advertising within this Site and gauge the effectiveness of the advertising. In addition, our advertisers may use other third-party advertising technology to target advertising on this Site and other web sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your browser. In addition, we may use web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this Site, and to learn which banner ads bring users to our Site. To “opt-out,” please [click here](http://www.networkadvertising.org/consumer/opt_out.asp)
 
 * **How We Use Your Information**
 
@@ -104,8 +104,8 @@ This Privacy Policy is intended to cover collection of information on our Site f
 Our goal is to respect your privacy. If you have any questions, comments or concerns about our Privacy Policy, you may contact us by email at [privacy@totalbeauty.com](mailto:privacy@totalbeauty.com) or by postal mail to: 
 
 Total Beauty Media, Inc.,   
-8383 Wilshire Blvd., Suite 810  
-Beverly Hills, CA 90211  
+3250 Ocean Park Blvd, Suite 200,  
+Santa Monica, CA 90405  
 Attn: Privacy Officer 
 
 Total Beauty welcomes your comments and questions.
@@ -121,3 +121,6 @@ If you are a resident of California, in addition to the rights set forth above, 
 
 
 We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [legal@totalbeauty.com](mailto:legal@totalbeauty.com).
+
+_Last updated on February 14, 2008_  
+© 2008 Total Beauty Media, Inc. All rights reserved. 
