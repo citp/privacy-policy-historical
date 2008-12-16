@@ -1,68 +1,72 @@
-> *The following text is extracted and transformed from the georgia.gov privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602141436id_/http%3A//www.gagta.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgia.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021154id_/http%3A//georgia.gov/00/static/0%2C2085%2C4802_0_0_Privacy%2C00.html) for the most accurate reproduction.*
 
-# GTA | Georgia Technology Authority: Privacy Statement
+# georgia.gov - Online access to Georgia government.
 
-**GEORGIA TECHNOLOGY AUTHORITY  
-PRIVACY STATEMENT**  
+_Revised:  March 16, 2006_
+
+Thank you for visiting georgia.gov. The georgia.gov portal is designed to make it easier and more efficient for Georgia citizens and businesses to interact with their State Government. Georgia government strives to provide online resources in a safe, secure manner that respects your privacy when you visit our sites.
+
+This privacy statement addresses the collection, use, disclosure, and security of information that may be obtained by the State of Georgia through the use of the georgia.gov portal.
+
+**Information Collected**
+
+If you visit a georgia.gov portal website, the State may collect some or all of the following information:
+
+  * The name of your domain; for example, "xyzcompany.com" if you use a private Internet access account;
+
+  * An IP address; a number automatically assigned to your computer when you are using the Internet;
+
+  * The type of browser and operating system used to access our site;
+
+  * The Internet address of the website from which you linked directly to our site;
+
+  * The pages you visit within the portal; and
+
+  * The links made to other websites through the portal.
 
 
-Thank you for visiting a website maintained by the Georgia Technology Authority. Our websites are designed to make it easier and more efficient for Georgia citizens and businesses to interact with their State Government. But as with all online resources, we appreciate that many visitors to our sites will be concerned about their privacy. The State of Georgia is committed to preserving your privacy when you visit our sites.   
 
 
-This privacy statement addresses the collection, security and disclosure of information that may be obtained through the use of websites maintained by the Georgia Technology Authority. This statement covers the following topics:  
+This information is collected for statistical analysis using third-party or proprietary software programs to create summary statistics. The statistics are used for the purpose of determining what information is of most and least interest to all visitors and identifying system performance or problem areas in order to better plan future portal enhancements. This information is not collected for commercial marketing purposes.
+
+If, during your visit to georgia.gov, you voluntarily provide personally identifiable information, we will collect such information. Examples of personally identifiable information may include:
+
+  * Your name, address, or phone number;
+
+  * An e-mail address if you are communicating to us through e-mail;
+
+  * Information you voluntarily submit to the State of Georgia for the purposes of completing or submitting an application or form online;
+
+  * Other information volunteered, such as vendor profile/contact information, survey information or content of e-mail.
 
 
-> • Information We Collect  
->  • Public Disclosure  
->  • Cookies  
->  • Security
-
-**Information Collected**  
-If you visit a website maintained by the Georgia Technology Authority to read or download information, we may collect some or all of the following information:   
 
 
-> • The name of your domain; for example, "xyzcompany.com" if you use a private Internet access account;   
->  • An IP address; a number automatically assigned to your computer when you are using the Internet;   
->  • The type of browser and operating system used to access our site;   
->  • The Internet address of the website from which you linked directly to our site;   
->  • The pages you visit within The State of Georgia's website(s); and   
->  • The links made to other websites through this site.   
-> 
+In general, please note the information collected, whether or not personally identifiable, is not limited to text characters and may include audio, video and other graphic formats you send us. Information is retained and used in accordance with existing laws, rules, regulations, and other policies.
 
-This information is collected for statistical analysis using third-party or proprietary software programs to create summary statistics. The statistics are used for the purpose of determining what information is of most and least interest to all visitors and identifying system performance or problem areas. This information is not collected for commercial marketing purposes.
+**Use**  
+Depending on the specific service or transaction, the State of Georgia may share personally identifiable information amongst its agencies in order to provide such service or complete such transaction.
 
-If, during your visit to a website maintained by The Georgia Technology Authority, you voluntarily provide personally identifiable information, we will collect such information. Examples of personally identifiable information may include: 
-
-> • An e-mail address if you are communicating to us through e-mail;   
->  • Information you voluntarily submit to The State of Georgia for the purposes of completing or submitting an application or form online; and   
->  • Other information volunteered, such as vendor profile/contact information, survey information or content of e-mail.   
-> 
-
-In general, please note the information collected, whether or not personally identifiable, is not limited to text characters and may include audio, video and other graphic formats you send us. Information is retained in accordance with existing laws, rules, regulations, and other policies.
+**Personalization**  
+You may choose or opt to voluntarily provide certain personally identifiable information in order to customize your visits to georgia.gov. To personalize your georgia.gov experience you will be required to register and create an online profile. Information required during the registration process will include a user name (which need not be your legal name), a password and a valid e-mail address. GTA will collect this and other information requested during the registration process in order to customize your experience at georgia.gov pages. The combined information will most likely constitute personally identifiable information. You may review, delete or modify such profile at any time. If you simply wish to view pages on georgia.gov, or conduct most transactions, you are not required to use the personalization features.
 
 **Public Disclosure**  
-As a general rule, the Georgia Technology Authority does not disclose any personally identifiable information collected online except where you have given us permission, or where the information is public information under the Georgia Open Records Act O.C.G.A. § 50-18-70 et seq., or other applicable laws. Visitors should be aware that information collected by The State of Georgia on its websites may be subject to examination and inspection, if such information is a public record or not otherwise protected from disclosure.
+As a general rule, we will not disclose any personally identifiable information collected online to entities outside of State of Georgia departments and agencies except where you have given us permission, or where the information is public information under the Georgia Open Records Act O.C.G.A. 50-18-70 et seq., or other applicable laws. Visitors should be aware that information collected through the Portal may be subject to examination and inspection, if such information is a public record or not otherwise protected from disclosure.
 
 **Cookies**  
-The Georgia Technology Authority may occasionally use "cookies" to customize your browsing experience. Cookies are simple text files stored by your web browser and they provide a method of distinguishing among visitors to the websites, and allowing customized features such as a “shopping cart” feature for online purchasing. Cookies created on your computer by using our websites do not contain personally identifiable information and do not compromise your privacy or security. You can refuse the cookie or delete the cookie file from your computer at any time by using any one of a number of widely available methods.
+The georgia.gov portal may occasionally use "cookies" to customize your browsing experience. Cookies are simple text files stored by your web browser and they provide a method of distinguishing among visitors to the websites, and allowing customized features such as a "shopping cart" feature for online purchasing. Cookies created on your computer by using our websites do not contain personally identifiable information and do not compromise your privacy or security. You can refuse the cookie or delete the cookie file from your computer at any time by using any one of a number of widely available methods.
 
 **Security**  
-Several tools, policies and protocols are used to safeguard the submission of information through websites maintained by the Georgia Technology Authority. Security measures have been integrated into the design, implementation and day-to-day operations of the entire operating environment as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information.   
+Several tools, policies and protocols are used to safeguard the submission of information through the Portal. Security measures have been integrated into the design, implementation and day-to-day operations of the entire operating environment as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information.
 
+For services requiring online financial transactions, georgia.gov uses the Secure Sockets Layer (SSL) encryption protocol to safeguard your sensitive personal information, including your credit card number. Information is encrypted from your computer to the Portal computer processing your request.
 
-In certain instances, you will have the opportunity to receive or create a password to access or submit certain information. You should not divulge your password to anyone in an unsolicited phone call or e-mail. When you are finished with those applications that are password protected, it is always recommended that you close or otherwise exit the browser page.  
+In order to further secure your privacy, do not divulge any passwords or sensitive information (e.g. credit card number) to anyone in a phone call or e-mail. When you are finished with those applications that are password protected or required the input of your credit card information, it is always recommended that you close or otherwise exit the browser page.
 
+**Email  
+**E-mail is not a secure form of transmission. As such georgia.gov does not recommend that you submit sensitive or personally identifiable information via e-mail. If you choose to provide us with personal information in an e-mail we may use the e-mail and the information contained within it to improve our service to you or to respond to your request. Sometimes we forward your e-mail to other State employees who may be better able to help you, and this staff may be employed by a different agency within the State. Except for authorized law enforcement investigations or as required by law, we do not share our e-mail with any other organizations outside of the public sector.
 
-**Link Disclaimer**  
-Websites maintained by the Georgia Technology Authority may contain links to other websites, including those owned or maintained by other government, private, or not-for-profit entities. Such links are provided for convenience and/or information purposes only. A link does not constitute an endorsement of content, viewpoint, policies, products or services of that website. Once you link to a website not maintained by The Georgia Technology Authority, you are subject to the terms and conditions of that website, including but not limited to its privacy policy.
+**Changes to this Privacy Statement**  
+Revisions to this Privacy Statement will be posted to this location so that you will know the type of information we collect and how that information is used. We will also post the last date of revision at the top of this page.
 
-**Information Disclaimer**  
-Information provided on websites maintained by the Georgia Technology Authority is intended to allow the public convenient access to public information. While all attempts are made to provide accurate, current and reliable information we cannot guarantee that the information will be error-free. Therefore, the State of Georgia, the Georgia Technology Authority, and their respective employees, officers and agencies expressly deny any warranty of the accuracy, reliability or timeliness of any information published through their websites and shall not be held liable for any losses caused by reliance upon the accuracy, reliability or timeliness of such information. Any person who relies upon such information obtained from these websites, does so at his or her own risk. 
-
-**Trademarks, Service Marks, and Copyrights**  
-All trademarks, service marks or copyrights appearing on this website and other linked websites are trademarks, service marks, or copyrights of their respective owners. Pursuant to 17 U.S.C. Sec. 512(c)(2), notice of claims of copyright infringement should be directed to Chris Tomlinson at [ctomlins@gta.ga.gov](mailto:ctomlins@gta.ga.gov) or by mail at Georgia Technology Authority, 100 Peachtree Street, Suite 2300, Atlanta, Georgia 30303-3404, Attn: Legal Services.
-
-**Usage of This Website**  
-The contents of this website are published for information purposes only and subject to change without notice.
-
-Back to the top
+Our goal is to provide a private, efficient and friendly digital government experience. Please note that agency sub-portals and/or specific pages may contain additional or different privacy statements.
