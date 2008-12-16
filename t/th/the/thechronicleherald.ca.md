@@ -1,28 +1,22 @@
-> *The following text is extracted and transformed from the thechronicleherald.ca privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011135204id_/http%3A//thechronicleherald.ca/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechronicleherald.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013041id_/http%3A//thechronicleherald.ca/services/privacypolicy.html) for the most accurate reproduction.*
 
 # Nova Scotia News - TheChronicleHerald.ca
 
 Privacy Policy
 
-**INTRODUCTION**
-
 Effective January 1, 2004, private sector organizations must follow a code for the protection of personal information in accordance with the Personal Information Protection and Electronic Documents Act (PIPEDA). 
-
-**CUSTOMER PERSONAL INFORMATION DEFINED**
 
 Personal information includes any factual or subjective information about an identifiable individual. For The Chronicle Herald's purposes this includes but is not limited to name, address, telephone number, comments, transactions, credit information, Visa, MasterCard or banking information. 
 
 Personal information does not include that which is collected for journalistic purposes or that information that may be contained in a business card, such as the name, title, business address and telephone number of an employee of an organization. 
 
-**TEN PRINCIPLES OF FAIR INFORMATION PRACTICES**
-
 There are ten (10) principles of fair information practices. These principles form the ground rules for the collection, use and disclosure of the personal information of our customers. As a private sector organization, we are responsible for the protection of personal information and the fair handling of that information at all times. 
 
 The ten (10) principles that The Chronicle Herald must follow are: 
 
-**1\. Accountability** \- The Chronicle Herald is responsible for personal information that is under its control. The individual responsible for The Chronicle Herald's compliance with respect to the principles of fair information practices is Theresa Williams, Human Resources Manager. The Chronicle Herald is responsible for personal information in its possession, including information that has been sent to a third party for processing. The Chronicle Herald shall use contractual means to provide a comparable level of protection while the information is being processed by a third party. 
+\- The Chronicle Herald is responsible for personal information that is under its control. The individual responsible for The Chronicle Herald's compliance with respect to the principles of fair information practices is Theresa Williams, Human Resources Manager. The Chronicle Herald is responsible for personal information in its possession, including information that has been sent to a third party for processing. The Chronicle Herald shall use contractual means to provide a comparable level of protection while the information is being processed by a third party. 
 
-**2\. Identifying Purposes** \- The Chronicle Herald shall identify the purpose for which personal information is collected at or before the time that the information is collected. 
+\- The Chronicle Herald shall identify the purpose for which personal information is collected at or before the time that the information is collected. 
 
 In compliance with the Openness principle and the Individual Access principle, purposes for which personal information is collected include but are not limited to: 
 
@@ -40,7 +34,7 @@ When collected personal information is to be used for a new purpose not previous
 
 Whoever is collecting the personal information should be able to explain the collection purpose to the individual from whom the information is collected. 
 
-**3\. Consent** \- Consent and knowledge of the individual is required, except where inappropriate, for the collection, use and disclosure of their personal information. 
+\- Consent and knowledge of the individual is required, except where inappropriate, for the collection, use and disclosure of their personal information. 
 
 Except for purposes provided for in exceptions to consent, personal information may not be collected, used, or disclosed without knowledge and consent of the individual. 
 
@@ -63,19 +57,15 @@ Consent may be obtained orally when information is collected over the telephone,
 
 A checkoff box may be used on order forms or invoices to allow a customer to request that their personal information not be given to other organizations. Customers who do not check the box are assumed to consent to the transfer of their personal information to third parties. 
 
-**4\. Limiting Collection** \- The Chronicle Herald will limit collection of personal information to that which is necessary for the purpose of collection and shall do so using fair and lawful means. 
+\- The Chronicle Herald will limit collection of personal information to that which is necessary for the purpose of collection and shall do so using fair and lawful means. 
 
 The Chronicle Herald shall not collect personal information indiscriminately. The Chronicle Herald will not deceive or mislead customers about the reasons for collecting their personal information. 
 
 The amount and type of information gathered will be limited to that which is necessary in order to fulfill the identified purpose. 
 
-**5\. Limiting Use, Disclosure and Retention** \- The Chronicle Herald shall not use or disclose personal information for any purpose other than that for which the information was collected unless consent is provided by the customer or the use or disclosure is authorized by the Act. 
-
-**USE OF PERSONAL INFORMATION**
+\- The Chronicle Herald shall not use or disclose personal information for any purpose other than that for which the information was collected unless consent is provided by the customer or the use or disclosure is authorized by the Act. 
 
 The information shall not be used for purposes other than those made known at the time of collection of the personal information. Personal information that has been collected during the course of past activities does not need to be recollected. In order to continue to use or disclose it, however, consent is required. Customers must be notified about what is done with their information, to whom it is disclosed and they must be given the option to object to these ongoing uses or disclosures. 
-
-**DISCLOSURE OF PERSONAL INFORMATION**
 
 Personal information may be disclosed only for the purpose for which it was collected. 
 
@@ -90,15 +80,15 @@ Such third parties shall be contractually bound to protect this personal contact
 
 The Chronicle Herald will not sell, lease or trade the personal information of their customers to third parties unless express consent is obtained from the customer. 
 
-**RETENTION OF PERSONAL INFORMATION** A customer is no longer a customer seven years past their most recent business transaction and their personal information will be destroyed in accordance with the Safeguards principle. 
+A customer is no longer a customer seven years past their most recent business transaction and their personal information will be destroyed in accordance with the Safeguards principle. 
 
-**6\. Accuracy** \- The Chronicle Herald will keep personal information as accurate, complete and up-to-date as is necessary and will take into account its use and the interests of the customer. 
+\- The Chronicle Herald will keep personal information as accurate, complete and up-to-date as is necessary and will take into account its use and the interests of the customer. 
 
 Personal information will not be routinely updated and will be updated only when necessary in order to fulfill the identified purpose or upon request by the customer. 
 
 Unless there are clearly set out limits, frequently used information will be kept as accurate and up-to-date as is necessary for the identified purpose. 
 
-**7\. Safeguards** Personal information of customers shall be protected regardless of its format. The Chronicle Herald shall safeguard the information from unauthorized access, disclosure, copying, modification, loss or theft. 
+Personal information of customers shall be protected regardless of its format. The Chronicle Herald shall safeguard the information from unauthorized access, disclosure, copying, modification, loss or theft. 
 
 If necessary to transport personal information, it shall be contained in a sealed envelope and transported personally. Interoffice mail distribution is not acceptable. 
 
@@ -116,13 +106,9 @@ Personal information may be kept only as long as necessary to satisfy the purpos
 
 All hard-copy reports or documents containing customer information shall identify the customer only by an account number. 
 
-**DESTRUCTION OF PERSONAL INFORMATION**
-
 All hard-copy forms, records, papers or other document containing personal information shall be shredded once the information is no longer required for an identified purpose. 
 
 All computerized records containing personal information shall be purged once the information is no longer required for an identified purpose. 
-
-**ACCESS TO PERSONAL INFORMATION**
 
 Access to customer personal information is on a "need-to-know" basis only. Personal information that has no relevance to the transaction is to be masked or removed when copies of information is provided to others. 
 
@@ -136,7 +122,7 @@ The following information will be readily available on thechronicleherald.ca web
   * The procedure for a customer to gain access to their personal information; 
   * A description of that personal information which is made available to third parties and the purpose for which it is disclosed.
 
-**9\. Individual Access** \- Upon request, the customer shall be informed of any personal information we have about them as well as its use and disclosure. An opportunity shall be extended to correct or amend any personal information if its accuracy and completeness is challenged or incorrect. 
+9\. Individual Access \- Upon request, the customer shall be informed of any personal information we have about them as well as its use and disclosure. An opportunity shall be extended to correct or amend any personal information if its accuracy and completeness is challenged or incorrect. 
 
 Except when The Chronicle Herald is required by law to not disclose personal information to the individual, should a customer request a copy of their personal information, the request shall be complied with within thirty days. The 30-day response time limit may be extended if: responding to the request within the original 30 days would unreasonably interfere with The Chronicle Herald's business activities; if additional time is necessary to convert the personal information to an alternate format; or, if additional time is necessary to conduct consultations. If an extension to the original 30 days is required, The Chronicle Herald will notify the customer of their right to complain to the Privacy Commissioner of Canada. 
 
@@ -156,7 +142,7 @@ The Chronicle Herald must refuse access to personal information in the following
   * If it was collected without the individuals knowledge or consent to ensure its availability and accuracy and the collection was required to investigate a breach of an agreement or contravention of a provincial or federal law; 
   * If the information was generated in the course of a formal dispute resolution process.
 
-**10\. Challenging Compliance** \- A customer may address a challenge concerning compliance with the principles of the Personal Information Protection and Electronic Documents Act (PIPEDA) to The Chronicle Heralds privacy compliance officer. 
+10\. Challenging Compliance \- A customer may address a challenge concerning compliance with the principles of the Personal Information Protection and Electronic Documents Act (PIPEDA) to The Chronicle Heralds privacy compliance officer. 
 
 The customer shall be made aware of The Chronicle Herald's Privacy Policy and that it is in place for protection of their personal information. The customer shall be offered a copy of this policy. 
 
