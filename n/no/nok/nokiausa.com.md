@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509135932id_/http%3A//www.nokiausa.com/A4411013) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011023id_/http%3A//www.nokiausa.com/A4411013) for the most accurate reproduction.*
 
-# Nokia - Privacy policy - Default footer and common elements
+# Nokia USA - Privacy policy - Default footer and common elements
 
 (This Privacy Policy is posted and effective as of March 2, 2006. Except for language noted in red lettering below, which constitute special terms applicable to these US web pages, this Privacy Policy is identical to the Privacy Policy posted on the home page of [www.Nokia.com](http://www.nokia.com/) effective as of November 28, 2005.)
 
