@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the tmlewin.co.uk privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620092300id_/http%3A//www.tmlewin.co.uk/Content.aspx%3Fcontent%3DSecurityAndPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmlewin.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151623id_/http%3A//www.tmlewin.co.uk/Content.aspx%3Fcontent%3DSecurityAndPrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Security and Privacy Policy - T.M.Lewin
 
-T.M.Lewin is committed to protecting the privacy of its users. This statement outlines our privacy and data protection policy.
+T.M.Lewin is committed to protecting the privacy of our customers. This statement outlines our privacy and data protection policy.
 
-### Collection and Use of User Details
+## Collection and Use of User Details
 
 Personal details of users of T.M.Lewin, such as name and address and email address, will be collected and processed upon registration to our website. The personal information collected on our site is collected and stored in the United Kingdom.
 
 This information is collected for the following purposes:
 
-  * to enable us to handle/fulfil your orders
-  * to notify customers of relevant new products or services 
-  * to notify users of other promotional activities within T.M.Lewin.
+  * To enable us to handle/fulfil your orders
+  * To notify customers of relevant new products or services
+  * To notify users of other promotional activities within T.M.Lewin
 
 
 
 User information is retained for in-house research to:
 
-  * improve our understanding of our customers needs in relation to product development, ensure effective communication and aid strategic development.
-
-
+\- Improve our understanding of our customers needs in relation to product development, ensure effective communication and aid strategic development. 
 
 All results of such research and analysis will be collated as aggregated information and will not reveal any personal facts about individual customers.
 
@@ -48,11 +46,11 @@ Given that the Internet is a global environment, using it to collect and process
 
 Please note this Security and Privacy Policy may change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice.
 
-### For further information regarding privacy issues please write to:
+For further information regarding privacy issues please write to 
 
 Privacy Department  
 T.M.Lewin & Sons Limited  
-106 Jermyn Street  
+6-7 St Cross Street Courtyard  
 London  
-SW1Y 6EQ  
+EC1N 8UA  
 United Kingdom
