@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealsofamerica.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501092020id_/http%3A//www.dealsofamerica.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsofamerica.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216094440id_/http%3A//www.dealsofamerica.com/privacy.php) for the most accurate reproduction.*
 
-# DealsOfAmerica.com - Best American Deals & Coupons- Updated 7 Days a Week
+# DealsOfAmerica.com - Deals, Coupons, Freebies, Special Offers, Promotions!
 
   
 DealsOfAmerica.com takes your privacy very seriously. Our privacy statement reflects various measures, we take to protect your privacy. Our web server collects visitors IP address and browsers version.
@@ -11,7 +11,7 @@ User may "unsubscribe" to newsletter any time by sending an email to subscribe@d
 
 Apart from this, we do not collect any other information about visitors. The information we collect, if any, is not shared with other organizations for commercial purposes.
 
-**Cookies:** We partner with some of the third party statistics provider who may set cookie to identify statistics such as unique visitors, visits etc..
+**Cookies:** We set cookies to gether user specific information. We partner with some of the third party statistics provider who may set cookie to identify statistics such as unique visitors, visits etc..
 
 **With respect to Ad Servers:** We do not partner with or have special relationships with any ad server companies. In order to provide you best information about deals, We do provide advertisements and links to various retailers. DealsOfAmerica.com has no control or knowledge about privacy policy of each retailer. Please see web site of retailers or contact them directly if you want any information about their privacy policy.
 
