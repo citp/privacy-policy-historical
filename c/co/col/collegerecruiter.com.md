@@ -1,114 +1,35 @@
-> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207222716id_/http%3A//jobs.collegerecruiter.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013440id_/http%3A//www.collegerecruiter.com/pages/privacy.php) for the most accurate reproduction.*
 
-# CollegeRecruiter.com : Careers
+# Privacy Policy
 
-If you have questions or concerns regarding this statement, please contact us. 
+Visitors to this and other websites owned or powered by Adguide Publications, Inc. can engage in a variety of activities such as post a resume, apply to a job, request information about continuing your education, request scholarship information, participate in surveys, enter contests, order products and/or services, and more. Job boards such as we operate cannot be well used by their visitors unless those visitors choose to provide information about themselves to us and the third party organizations that use our site to help them offer employment, educational, and other opportunities to our visitors.
 
-Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of our services, you agree to these terms.
+You may provide us with personally identifiable information that can directly identify you or indicate where you may be contacted during these activities. The information may include your name, address, age, date of birth, gender, class, email address, telephone number, credit card information, hobbies, interests, and more. Sometimes visitors provide similar information about others. We also collect generic information that does not identify you personally such as the type of browser and in which city you're located.
 
- Collection and Use of Information  
----  
-Viewing and Updating Your Information  
-Cookies  
-Log Files  
-Links  
-Recommend A Friend or Colleague  
-Security and Access  
-Children  
-Notification of Changes  
-Contact  
-  
-* * *
+Except as otherwise provided, we reserve the right to use and disclose any information that you provide via this website (regardless of whether such information is provided by you actively, passively, directly, or indirectly) for any purpose that we, in our sole discretion, deem necessary or proper. That said, it is our practice to limit the collection of information to what is necessary to administer our business and to deliver superior products and services to you, and to use and disclose the information collected in ways that are compatible with the purposes for which it is gathered. For example, if you apply to a job or request information about continuing your education, we may send the information you provide to the third party organization (the employer or school) which is of interest to you. Or we may, for example, share your information in order to send to you information about a product, service, or opportunity available either through Adguide Publications, Inc. or a third party organization. You may opt out of receiving such information from us under the procedures set forth below.
 
-**Collection and Use of Information**  
+This website also contains links to websites operated by third parties. We have no control over information that is submitted to or collected by them.
 
+When we share information with third party organizations, we request to the extent we deem practical that they protect your information in a manner that is consistent with our privacy policy. We cannot, however, guarantee that they will do so.
 
-When you register with this site or one of its affiliated web sites, we ask you for personal information. We use this information to process your requests and to communicate with you about the status of your requests. For example, if you request additional information on other services, such as continuing education or student loan consolidation, we will share your information solely as is necessary to process your request. We may also use your email address to send you newsletters you are subscribed to during registration, as well as messages about any special offers, promotional announcements and consumer surveys. 
+We also use non-personally identifiable information to improve our site and your Internet experience. Many of our web pages use text files called "cookies." These are placed on your hard disk by our web server to store your preferences. Some of the cookies are placed by our site and others by third parties which advertise on our website. Our cookies do not reveal to us your personally identifiable information. However, if you choose to provide personally identifiable information to us, then that information may be linked to the data stored in the cookie. Many websites, including ours, use cookies to save their visitors time and to improve the experience of those visitors on the sites they visit. You may choose to have your browser reject some or all cookies. This policy does not cover how the third parties use their cookies.
 
-We are the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points on our website. When you first register with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe at any time. 
+Like most commercial websites, our site collects information about our visitors including how they came to our site, what browsers they use, what pages they visit, how long they spend on the site, from which pages they left our site, and to which sites they went to when they left our site. We use this information to improve our site and may share it with third party organizations.
 
-We also offer an Associate program, where associate members direct customers to the network through links on their Web sites. We ask associates for their site name (URL), mailing address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a site will be included in our network. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes. 
+In order to better understand the people using our sites, we may supplement the information you provide to us with information from third party organizations. For example, you may accidentally provide to us an invalid zip code. We may correct that information with zip code information that we obtain from a third party.
 
-In some cases our software and web site are utilized by our partners in a joint venture via their web community. In these cases, the information collected on our site is available to both companies. 
+Any information that you post to content pages such as the blogs, our resume bank, or other pages on our site may become available to third parties. We may use that information for a variety of purposes including promoting the products we offer. Any information posted online should always be considered as being publicly posted so that information may be re-posted elsewhere without your knowledge or consent. 
 
- 
+We have put in place physical, electronic, and other procedures to help keep your information safe and prevent unauthorized access. No security system is 100 percent safe from security breaches. We cannot guaranty the security of the information collected on this website or information that you otherwise provide to us. By using this website, you agree that you, and not us, bear the risk of any use or misuse of information about you due to a security breach. Please note that credit card information submitted via this website is processed by a third party provider. Further, when your information is provided to third party organizations their procedures will determine the safety of your data. We cannot guarantee that they will keep your data as safe as you would want them to.
 
-Back to top
+Our web servers and other operations are located in the United States of America. Visitors from other countries authorize the export of personal information to the USA, the storage of that information in the United States, and the use of that information in the United States and other countries. This policy and our legal obligations are subject to the laws of the State of Minnesota and the United States, regardless of your location. The venue for any claims or complaints shall be in the United States in the State of Minnesota.
 
-* * *
+We do not knowingly accept personal information from anyone under 13 years old in violation of applicable laws. This site is designed to be used by those who are at least 13 years of age and should not be used by those who are under 13 years old. We do not sell products or services for purchase by children and all products and services we sell are for purchase by adults only, or with adult permission.
 
-**Viewing and Updating Your Information on the Network**
+We consider the information you provide to be an asset of our company. As such, Adguide Publications, Inc. may include your information in the sale of any of its assets to any third party in the event of a merger, acquisition, or other transaction.
 
-You always have complete access to the information you have provided to the network. You can make changes to this information to update your account anytime.
+You have the right to opt-out of receiving future communications from us. If you do not wish to receive future communications from us, please follow the unsubscribe or removal instructions in the communications.
 
-Back to top
+UNDER NO CIRCUMSTANCES SHALL WE BE LIABLE FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, THAT RESULT FROM THE USE OF THE INFORMATION COLLECTED AS A RESULT OF YOUR ACCESSING THIS WEBSITE OR OTHERWISE PROVIDED TO US EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
 
-* * *
-
-**Cookies**
-
-In general, we have limited use of cookies.  As you browse areas of this site, cookies may be placed on your computer’s hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track your account so you don’t need to retype the information each time you visit our site. 
-
-Our advertisers may also serve cookies when users click on the ad banners on this site. We do not have access to any personal information gathered by advertisers.
-
-Back to top
-
-* * *
-
-**Log Files**  
-
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
-
-Back to top
-
-* * *
-
-**Links**
-
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
-
-Back to top
-
-* * *
-
-**Recommend a Friend or Colleague**
-
-If a user elects to use our referral service for informing a friend or colleague about our site, we ask them for the friend's name and email address. We will automatically send the friend an email inviting them to visit the site or review the content selected by a user. We then store this information in our databases. The friend may contact us to request that we remove this information at any time. 
-
-Back to top
-
-* * *
-
-**Security and Access**
-
-We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
-
-When you place an order online at Beyond.com, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. Artemis HR uses a service company to process its credit card transactions.
-
-Users should not post personal information to any site if they are uncomfortable with the security of the site.  If you have any questions, please contact us.  Back to top
-
-* * *
-
-**Children**
-
-This site is not intended for children under 13 years of age and we do not knowingly or specifically collect information about children. This site does not and will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. We believe that children should get their parents' consent before giving out personal information. If you are concerned about your child's use of this site, we encourage you to use web-filtering technology to supervise your child's access to the site. For children 14 and up (high-school age), we also encourage you to participate in your child's experience with our site. With a little guidance, this site can prove very useful in finding a part-time or summer job for your child, as well as providing them with excellent career counseling information. 
-
-Back to top
-
-* * *
-
-**Notification of Changes**  
-
-If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point you have questions or concerns about Beyond.com's privacy policy, please feel free to contact us. 
-
-Back to top
-
-* * *
-
-**Contact**
-
-If you have questions concerning your account or this privacy policy, please contact us. 
-
-Back to top
-
-* * *
+As is the case with all organizations, our business needs and policies evolve and change over time. We therefore reserve the discretion and right to change, modify, add, or remove portions from this policy at any time and such changes will retroactively apply to your information. Your use of this site means you accept this policy and any changes we may make to it.
