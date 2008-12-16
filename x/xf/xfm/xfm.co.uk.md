@@ -1,132 +1,64 @@
-> *The following text is extracted and transformed from the xfm.co.uk privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524231250id_/http%3A//xfm.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfm.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020550id_/http%3A//www.xfm.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # XFM Privacy Policy - Xfm
 
-added 28 February 2008 at 14.42
+added 08 July 2003 at 20.50
 
-Xfm is owned by GCap Media plc ("GCap") a company registered in England and Wales with registration number 923454 and registered office at 30 Leicester Square, London WC2H 7LA. 
+ **Xfm is owned and operated by Global Radio UK Limited company registered in England and Wales under number 6251684 with its registered office at 30 Leicester Square, London WC2H 7LA ("Global Radio").   **
 
-The terms “we”, “our”, “us” when used in this Privacy Policy means GCap.  The terms “you”, “your” and “yours” means you as a user of our websites or our other services.
+**Global Radio Privacy Policy**  
+Any information you provide about yourself to Global Radio UK Limited (“Global Radio”) or our associated companies will only be used in accordance with our Privacy Policy Statement, detailed below. Please note, the Privacy Policy Statement does not apply to websites or text services operated by third parties.
 
-Please read the following Privacy Policy (“Privacy Policy”) carefully before submitting any personal information to us.  Any information you provide about yourself to GCap or our associated companies will only be used in accordance with this Privacy Policy.
+We collect information from you for a number of reasons, for example:
 
-If you are under 16 years of age, we recommend that you do not submit any personal data to us via any media. 
+  * To provide personalised services for our individual users. 
+  * To enable us to send out editorial content that you’ve requested. 
+  * To enable us to send out promotions in which we think you will be interested. 
+  * To help us to improve the services we offer.    
+To use anonymous, aggregated details about our users to sell appropriate advertising space on our websites and other properties (for example, we may need to tell advertisers what proportion of the visitors to our websites are female), collect promotional and marketing information, and to pass on offers to our users, and does not mean sharing an individual's details with an advertiser.   
 
-**1.  Changes to this Privacy Policy**
 
-1.1 From time to time, we may need to make changes to this Privacy Policy. This may happen as a result of government regulation, new technologies, or other developments in our online or other services. Any updates to our Privacy Policy will be clearly posted in this section of our website. We advise you to regularly review this policy when you visit our websites to keep informed about how we are safeguarding your privacy.  If the changes are significant, we may also email you to notify you about these.
 
-1.2 Please note that this Privacy Policy does not apply to websites or text services operated by third parties and you are advised to check such third party privacy policies before submitting data to them.
 
- **2.  Our Aims**
+**Our Aims**  
+1\. We are fully committed to protecting your privacy and will respect your privacy in terms of email, mobile and any other details you submit to us via any media.  
+2\. We will not collect personally identifying information except with your specific knowledge and consent.  
+3\. We will work with our suppliers to ensure that your data is protected with high quality, reliable and secure technology. Our technology partners invest in high-quality security and work hard to protect your privacy.  
+4\. We follow strict security procedures set out in UK Data Protection Legislation in respect of the storage and disclosure of information given by you via our websites, your mobile or via any other media.  
+Collection of Information  
+5\. We collect information on our users through cookies on websites, interactions with both our websites and our text services and via other media, such as postal registrations to club membership.  
+6\. The information we need depends on how you are interacting with our website, text or otherwise but could include an email address, a password, age, gender and postcode and a mobile telephone number although additional information may also be requested.  We may ask further or different questions for different services, including competitions. Unless stated, all questions are compulsory. We may also ask some further, voluntary questions so we can gain a clearer understanding of our users. Your responses help us to sell appropriate advertising space and to alert you to information we think may be of interest to you and so improve the offering we can make to users. They also enable us to personalise services for our users, for example through club membership.  We do not share this information with third parties unless you have specifically consented to this.  
+7\. If you are registered you may update your personal information at any time via the “My Details” page for web users, where registration is available on the site. You can get to the “My Details Page” from most pages on the website if you are logged-on. If you are a text user then the text messages you receive from us will alert you to options for unsubscription and/ or change of details – please follow these messages.  
+8\. When you interact with us via either online or text services you may be invited to register with us. Such registration is your choice. Your decision to register or otherwise will not have any effect on the outcome of any competition.
 
-2.1 We are fully committed to protecting your privacy and will respect your privacy in connection with any email, mobile or other personal details you submit to us via any media. 
+ **“Cookies”**  
+9\. You may have read about "cookies", small pieces of information that are stored by your browser on your computer's hard drive. Global Radio uses cookies to identify registered users without needing to ask for registration details every time you access one of our sites. The cookies control the display of ads, to ensure that you don't see the same ad too many times in a single session, for example, and to track usage patterns on our sites. Our cookies do not contain any personally identifying information.  While using the sites, you may notice that our advertisers occasionally serve you cookies, either directly or when you link to their sites. We cannot directly control what our advertisers or these cookies do, but it's our policy that advertisers on the sites should use cookies the same way we do.  
+10\. Occasionally, we may use cookies to track registered or unregistered users as they travel through the site - for instance, we might use cookies to count the total number of unique users who are accessing the site over a particular period of time. This information will never be shared with a third party at an individual level, and is used to make our systems more efficient.  
+11\. If you are concerned about cookies, you can turn them off in your browser. However, please note that if you do this some areas of the site may not work properly.
 
-2.2 We will not collect personally identifying information (such as your name, address, email address etc.) except with your specific knowledge and consent or as detailed within this Privacy Policy. 
+ **“Safe Harbor”**  
+12\. For purely technical and operational reasons, your user data may from time to time be stored on our behalf on servers based overseas.  All contractors operating such storage on our behalf will be identifiable as “Safe Harbor” compliant.
 
-2.3 We work closely with our technology partners and other suppliers to ensure that your personal information is protected with high quality, reliable and secure technology. Our technology partners invest in high-quality security and work hard to protect your privacy.  
+ **“Data Protection Act”**  
+13\. We will ensure that all personal information supplied is held securely in accordance with the Data Protection Act 1998 and its relevant subordinate legislation and we will comply with the principles set out in that Act. When you supply any personal information to us we will meet our legal obligations towards you in the way that we deal with that information. In accordance with the data protection principles we have to collect the information fairly and to let you know how we will use it (see paragraphs 14 - 18) and whether we will pass the information on to anyone else. We will not supply your personal information to third parties without your express prior consent or where required by law. We will ensure that any information will be held only as long as is necessary to ensure that our service runs smoothly. We use up to date industry procedures to keep personal data as safe and secure as possible and to protect against loss, unauthorised disclosure or access.
 
-2.4 We follow strict security procedures in compliance with UK Data Protection legislation governing the storage and disclosure of information given by you to us via our websites, your mobile or other media. 
+ **Use of Information**  
+14\. Where you have submitted personal information about yourself we may from time to time provide you by e-mail, mail, text or otherwise with an update of information about our services and products. You may "opt out" by clicking on unsubscribe links provided in subsequent communications.  
+15\. You should be aware that any information you post in our public areas on our websites, such as message boards, may be seen, collected and used by others, and may result in unsolicited messages from other users or parties. Alas, we can't control this; you post at your own risk.  
+16\. We will e-mail, mail, text or otherwise, as appropriate, occasionally with information about your registration and/or your club membership if you have joined one.  
+17\. Sometimes you will provide us with data that doesn't reveal your personal identity. We may use this sort of information for editorial marketing and promotion purposes and occasionally for other purposes.  
+18\. Any research carried out via our websites or through text message to your mobile is for the exclusive use of Global Radio unless specifically stated at the time of completion. However, please note that “pooled” responses to questions may be shared with our partner organisations.
 
-**3.  Collection and use of information  **
-
-3.1 It will normally be clear when your personal information is being collected.  The personal information we will collect depends on how you are interacting with our websites, text service or otherwise but may include, amongst other things, your name, postal address (including post code), telephone number, email address, age, gender, password and, for transactions, financial details.   
-3.2 We may ask different questions or request additional information depending on the service being offered to or requested by you.  Unless stated, all questions are compulsory. We may also ask some further, voluntary questions so we can gain a clearer understanding of our users.
-
-3.3 We collect personal information only for specific limited purposes and we only ask for information that is appropriate. We will only collect personal information from you which you have provided by completing any registration, enquiry, order or application form on our websites, or which you have sent to us via email, fax or post or which you have provided by telephone or any other means.  We also collect information on our users through cookies on websites (see Section 6 below), interactions with our websites and our text services and via other media.
-
-3.4 By disclosing your personal information to us, you agree that we may obtain, hold and use the personal information you provide for the purposes of providing you with our services and/or products and with ancillary services (the “Purposes”). The Purposes for which personal information is collected and processed include, without limitation:
-
-> (a) responding to any enquiries you have made;
-> 
-> (b) sending you materials and/or information you have requested or products which you have purchased;
-> 
-> (c) performing our obligations in relation to any agreement you have with us;
-> 
-> (d) conducting contests, competitions or promotions;
-> 
-> (e) enabling you to submit contributions to us (for example, for use on our radio shows or websites);
-> 
-> (f) to customise and improve the content on our websites or any other websites which are part of the GCap Group and/or to improve our products and services to respond to your current and future needs and interests;
-> 
-> (g) contacting you if we change our products or services or terms or if we need to give you notice of them;
-> 
-> (h) for the purpose of marketing our other products and services to you (for example, by email, text or post) unless you indicate otherwise during the submission process or by subsequently notifying us as set out in Sections 3.11 and 10.1 that you do not wish to receive such material;
-> 
-> (i) for accounting purposes and internal administration and analysis;
-> 
-> (j)  for the prevention of fraud; and
-> 
-> (k) for any purpose required by law or regulation.
-
-   
-3.5 The information we need depends on how you are interacting with our website, text service or otherwise, but could include by way of example an email address, password, age, gender and postcode and a mobile telephone number. 
-
-3.6 You may be invited to register with us when you interact with us (for example, via our websites or text services). Any registration is voluntary and entirely your choice. However, you may be unable to visit certain parts of our website or enter some of our competitions if you do not register. 
-
-3.7 If you have registered with us (for example, if you have become a member of parts of our websites), we may e-mail, mail, text or otherwise contact you, as appropriate, with information about your registration and/or offers or competitions open to you as a registered member.
-
-3.8 From time to time we may run competitions or request material for publication or broadcast.  To participate, you must usually supply us with your identity which you agree to have publicly associated with your submission. The exact rules vary from case to case, and will be noted clearly on the relevant pages (e.g. our website terms and conditions relating to submission of material or in the relevant competition terms and conditions). 
-
-3.9 You should be aware that any information or material you post in public areas on our websites (such as message boards) may be seen, collected and used by others, and may result in unsolicited messages from other users or parties. Alas, we can't control this; you post at your own risk. Please see our website [terms and conditions](https://web.archive.org/article.asp?id=160722). 
-
-3.10 Any research carried out via our websites or through text message to your mobile is for the exclusive use of GCap unless specifically stated at the time of completion. Your response to research request is voluntary. However, please note that "pooled" responses to questions may be shared with our partner organisations.
-
-3.11 If you wish to unsubscribe from emails and/or other communications sent by GCap, you may do so at any time by clicking on the “unsubscribe” link that appears in our email messages or by [contacting us](http://www.xfm.co.uk/contactus.asp).
-
- **4.  Disclosure of personal information**
-
-4.1 Subject to the terms set out in this Privacy Policy, we do not share, sell, rent or distribute personal data to or with third parties (for example, sponsors and advertisers) unless the transfer of such information to third parties is strictly necessary for the performance of the Purposes (e.g. for fulfilling a request you may have made of us) and we will not disclose personal information to third parties for their own marketing purposes unless you have consented to this. 
-
-4.2 We may share personal information with other companies within the GCap Group of companies which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985 in connection with the Purposes and the operation of the Website.  We may disclose personal information to service providers who manage aspects of our operations for example third parties who provide technical services to the site.
-
-4.3 We may share your personal information with other third party companies where you have expressly consented to this. 
-
-4.4 We may disclose your personal information if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or to enforce our website or other [terms and conditions](https://web.archive.org/article.asp?id=160722), or to protect the rights, property, security or safety of GCap, other websites, our users or others.  This includes exchanging information with our companies and organisations for the purposes of fraud protection and credit risk reduction.
-
-4.5 Information about you and your use of our websites may help us to sell appropriate advertising space to third parties and we may share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers. Whilst your individual information is protected as outlined in this Privacy Policy, we reserve the right to use aggregated, anonymous data about our users as a group whether this is in connection with either web or text users. For example, we might report to potential advertisers that a certain percentage of our users are interested in its products, based on information requests.  In addition, we may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
-
-4.6 In the future, we may sell our business or assets. Personal information is usually considered an asset in such transactions. We may disclose, transfer, sell, assign or licence information described in this Privacy Policy, including personally identifiable information, to third parties as a result of or in preparation for the sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation of GCap and you consent to such disclosure, transfer, sale, assignment or licence. 
-
-**5.  Registration**
-
-5.1 Where you have registered to access certain parts of our websites you will have chosen a password which enables you to access a restricted part of a website.  You are responsible for keeping your password confidential and you should not share this with anyone.  You are responsible for all use and communications with our websites which take place using your registration or password. 
-
-**6.  Cookies**
-
-6.1 You may have read about "cookies".  These are small pieces of information that are stored by your browser on your computer's hard drive. GCap uses cookies to identify registered users without needing to ask for registration details every time you access one of our websites. Our cookies do not contain any personally identifying information.  Occasionally, we may use cookies to track browsing actions or monitor usage patterns on our site.  This helps us administer our websites.  In particular, we may track users as they travel through our websites - for instance, cookies may be used to count the total number of unique users who are accessing our websites over a particular period of time. This information will not be shared with a third party at an individual level, and is used to make our systems more efficient. In addition, cookies can control the display of ads, to ensure that you do not see the same ad too many times in a single session. You may also notice that our advertisers occasionally serve you cookies, either directly or when you link to their sites. We cannot directly control what our advertisers or these cookies do.
-
-6.2 If you are concerned about cookies, you can turn them off or refuse to accept cookies by modifying the settings in your browser. However, please note that if you do this some areas of our websites may not work properly. Unless you have adjusted your browser setting so that it will not accept cookies, our website will issue cookies when you log on to the site.
-
- **7.  Transfer of personal information outside of the European Economic Area (“EEA”)**
-
-For the reasons set out in this Privacy Policy and for technical and operational reasons, your personal information may from time to time, on our behalf, be transferred, processed or stored on servers based outside of the EEA.  You should be aware that such countries outside of the EEA may not offer the same level of protection for your data.  For example, your data may be processed to allow personalised radio streaming, to process your entry into a competition, to fulfil any order you make for goods or services, to process any payment details or to provide support services. By submitting data to us you consent to such transfer, storing and processing outside the EEA.  We will take all steps reasonably necessary to ensure your data is treated securely and in accordance with this Privacy Policy, including steps to help ensure that contractors operating on our behalf are subject to our standard technical and security obligations to provide an adequate level of protection for your information. 
+ **Advertisers, Sponsors and Associates**  
+19\. Where we collect registration information from you, we will only contact you ourselves.  
+20\. We will not sell, trade, rent or pass on any individual’s user details (including your email address and/ or mobile telephone number) unless we have your prior consent. With your permission we will only share the information with carefully chosen, reputable and trustworthy third parties.  
+21\. We will never share your personally identifying information with a third party, including an advertiser, without your explicit permission. Similarly, you will receive unsolicited mail or texts only from Global Radio and associated companies only if you have agreed to this.  
+22\. A few special cases are worth noting: From time to time we may run competitions or request material we can publish; to participate, you must usually supply us with your identity which you agree to have publicly associated with your submission. The exact rules vary from case to case, and will be noted clearly on the relevant pages. Your participation will always be voluntary and knowing.  
+23\. Otherwise, we will only share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers. Whilst your individual information is protected as outlined above, we reserve the right to use aggregated, anonymous data about our users as a group whether this is in connection with either web or text users. For example, we might report to potential advertisers that a certain percentage of our users are interested in its products, based on information requests.  
+24\. We reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate our systems properly and to protect both ourselves and our users.  
+25\. We may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.  
+26\. Global Radio and our associated companies follow the relevant legal requirements and uses all reasonable precautions to ensure only responsible third parties see the information, however we are not responsible for any breach of security or any actions of any third parties who receive the information.  
+We reserve the right to change our privacy policy and all changes will be posted here.  Where the changes are significant, we may also choose to email all our registered users with the new privacy policy.
 
   
-**8.  Security**
-
-8.1 We use up to date industry procedures and technology to keep personal data as safe and secure as possible and to protect against loss, unauthorised disclosure or access. GCap and our associated companies follow the relevant legal requirements and use all reasonable precautions to ensure only responsible third parties see the information. However, we are not responsible for any breach of security or any actions of any third parties who receive the information. 
-
-8.2 Unfortunately, the transmission of information via the internet is not completely secure.  Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk.  Once we have received your information, we use strict procedures and security features to try to prevent unauthorised access.
-
- **9.  The Data Protection Act and the Information Commissioner**
-
-9.1 In the UK, the Data Protection Act provides a framework for the safety and security of personal data and the uses to which such personal data is put. The Information Commissioner is the UK’s independent public body set up to protect personal information and provide information to individuals and organisations.  Please see [www.ico.gov.uk](http://www.ico.gov.uk/) for more information. 
-
-9.2 We are registered with the Information Commissioner as a ‘data controller’ under registration number Z8410660. We will ensure that all personal information supplied by you to us is held and dealt with in accordance with the Data Protection Act 1998 and its relevant subordinate legislation and we will comply with the principles set out in that Act. When you supply any personal information to us we will meet our legal obligations towards you in the way that we deal with that information. In accordance with the data protection principles we must collect personal information fairly and let you know how we will use it and whether we will pass the information on to anyone else. For the avoidance of doubt, we will not supply your personal information to third parties without your express prior consent other than as set out in this Privacy Policy. We will ensure that any information will be held only as long as is necessary to ensure that our service runs smoothly. 
-
-9.3 The Data Protection Act gives you the right to access information held about you.  Your right of access can be exercised in accordance with the Act.  Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
- **10.  Updating your information**
-
-10.1 If you are registered with us, you may update your personal information at any time via the "My Details" page for web users. You can get to the "My Details Page" or equivalent from most pages on our websites if you are logged-on.  If you are a text user then the text messages you receive from us will alert you to options for unsubscription and/ or change of details - please follow these messages. In addition if you believe the information we hold about you to be out of date or inaccurate please [email us](http://xfm.co.uk/contactus.asp) or contact us at: Xfm, 30 Leicester Square, London, WC2H 7LA..
-
- **11.  Parents**
-
-11.1 GCap is committed to the safety and privacy of children who visit and participate in our services. For those activities that require us to collect personal information (e.g. competitions), we will only collect personal information which is necessary to enable us to administer the relevant activity. We encourage parents and guardians to watch over their children’s online use. Please educate your children to always ask for your permission before they provide personal information.
-
- **12.  Children**
-
-12.1 Remember to be smart and safe online. Always ask your parent or guardian for permission before you give out any personal information. This could include your name, email address, home address, telephone number, your school or any other information about yourself that would enable someone to contact you either online or offline.
-
-12.2 From time to time we run online competitions that you may be able to enter. Always remember to ask your parent or guardian for permission before entering any competition.
+ **© Global Radio UK Limited 2008**
