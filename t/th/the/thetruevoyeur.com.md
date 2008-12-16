@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetruevoyeur.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418140521id_/http%3A//www.thetruevoyeur.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruevoyeur.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160617id_/http%3A//www.thetruevoyeur.com/privacy.php) for the most accurate reproduction.*
 
-# The True Voyeur.Com - Free Voyeur, Real Amateur & Exhibitionist Nude Photos. We Updated Daily!
+# The True Voyeur.Com - Free Voyeur, Real Amateur & Exhibitionist Nude Photos. We Update Daily!
 
 > > thetruevoyeur.com, thevaultz.com and wankland.com ( collectively "our website" , "our websites" , "website services ) 
 >> 
