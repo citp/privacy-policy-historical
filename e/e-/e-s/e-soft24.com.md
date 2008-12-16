@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-soft24.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611155540id_/http%3A//www.e-soft24.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-soft24.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216070502id_/http%3A//www.e-soft24.com/privacy.html) for the most accurate reproduction.*
 
-# e-Soft24
+# e-Soft24 - Privacy Notice
 
 **Your Privacy**  
 We respect your privacy. We only use the information we collect about you to process orders, prevent fraud and to provide a personalized shopping experience. 
