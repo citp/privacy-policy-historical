@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616081343id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011708id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
 
 # Bergdorf Goodman - World-renowned fashion, plus exclusive beauty brands
 
@@ -27,7 +27,7 @@ As we continue to develop our Web site and take advantage of advances in technol
 
 If you have a Bergdorf Goodman credit card, a separate privacy policy describes collection, use, and protection of information about you and your account. To obtain a copy of our credit card privacy policy: 
 
-  * Click to [review BG Credit Card policy](https://web.archive.org/category/assistance/service/shoppingOnline.jhtml;jsessionid=YQ1VAT2X3P1PACQAAKMRPVY#nmccuse) online
+  * Click to [review BG Credit Card policy](https://web.archive.org/category/assistance/service/shoppingOnline.jhtml;jsessionid=IIZ1UG5Q0YLVSCQAAKNRPVY#nmccuse) online
   * Call 1.888.774.2424
   * Write:  
 BergdorfGoodman.com  
@@ -79,12 +79,13 @@ Dallas, TX 75265-0589
 
 Please note that many promotions and mailings are completed well in advance, so you may continue to receive some offers after you ask us to stop sharing your information. We appreciate your patience in giving us time to carry out your request. 
 
-**Cookies and how we use them**   
-A "cookie" is a small data file stored by your Web browser on your computer's hard drive. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. 
+**Cookies, Web Beacons, and how we use them**
 
-We use cookies to identify the pages you click on during your visit to our site and the name of the Web site you visited immediately before clicking to BergdorfGoodman.com. We use this information to improve our site design, product assortments, customer service, and special promotions. 
+A "cookie" is a small data file stored by your Web browser on your computer's hard drive. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. A "web beacon" or "pixel tag" or “clear gif” is typically a one-pixel image, used to pass information from your computer to a website.
 
-We may contract with third parties who may use cookies and collect information on our behalf or provide services such as credit card processing, shipping, promotional services or data management. We call them our Customer Care Partners. These third parties are prohibited by our contract with them from sharing that information with anyone other than us or our other Customer Care Partners. However, we respect your right to choose whether to be included in such services. If you would like to opt out of these services, please click here. 
+We use cookies and web beacons to keep track of what you have in your shopping cart and to remember you when you return to the Web Site as well as to identify the pages you click on during your visit to our site and the name of the Web site you visited immediately before clicking to BergdorfGoodman.com. We use this information to improve our site design, product assortments, customer service, and special promotions. You can, of course, disable cookies and web beacons on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies.
+
+We may contract with third parties who may use cookies and web beacons and collect information on our behalf or provide services such as credit card processing, shipping, promotional services or data management. We call them our Customer Care Partners. These third parties are prohibited by our contract with them from sharing that information with anyone other than us or our other Customer Care Partners. However, we respect your right to choose whether to be included in such services. If you would like to opt out of these services, please click here.
 
 **Children's privacy**   
 The Children's Online Privacy Protection Act took effect on April 21, 2000. It imposes certain requirements on Web sites directed at children under 13 that collect information on those children, and on Web sites that knowingly collect information on children under 13. 
