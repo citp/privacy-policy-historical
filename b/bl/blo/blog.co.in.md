@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the blog.co.in privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629024515id_/http%3A//blog.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.co.in privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062934id_/http%3A//blog.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Blog.co.in » Privacy Policy
+# Privacy Policy | Blog.co.in
+
+[Get Your FREE Blog!](http://blog.co.in/wp-signup.php "Get Your FREE Blog!")
+
+Join the family of 119,103 Indian bloggers. It's free.
+
+### Privacy Policy
 
 Blog.co.in doesn’t sell / disclose the information collected about the users during registration process.
 
