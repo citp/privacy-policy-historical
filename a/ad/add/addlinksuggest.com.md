@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the addlinksuggest.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630043033id_/http%3A//www.addlinksuggest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addlinksuggest.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033355id_/http%3A//www.addlinksuggest.com/privacy.html) for the most accurate reproduction.*
 
 # AddLinkSuggest::Privacy Policy
 
-**10 Free Tools for Search Engine Optimization**  
----  
-**Privacy Policy**
+  **Privacy Policy**
 
 iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
 
