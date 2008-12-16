@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the startech.com privacy policy that was archived on 2008-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080513042912id_/http%3A//www.startech.com/AboutUs/PrivacyStatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startech.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216153447id_/http%3A//www.startech.com/AboutUs/PrivacyStatement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 		<title>Privacy Statement</title>
@@ -12,7 +12,7 @@
 </script>
 <script type="text/javascript">
   _uacct="UA-139242-1";
-  _udn="none";
+  _udn="startech.com";
   _ulink=1;
   urchinTracker();
 </script>
@@ -21,6 +21,11 @@
     day = new Date();
     id = day.getTime();
     eval("page" + id + " = window.open(URL,'feedback','toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=1,width=480,height=550,left=200,top=100');");
+    }
+    function openWebChat(URL,Size) {
+    day = new Date();
+    id = day.getTime();
+    eval("page" + id + " = window.open(URL,'webchat','toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=1,width=475,height='+Size+',left=50,top=100');page" + id + ".focus();");
     }
 </script>
 <table class="Container" cellspacing="0" cellpadding="0" width="930" border="0">
@@ -36,7 +41,18 @@
 						<table cellspacing="2" cellpadding="0" border="0">
 							<tbody><tr>
 								<td rowspan="3">
+								    
+								        <!-- START SCANALERT CODE -->
+                                        <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.startech.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/survey/www.startech.com/22.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+                                        <!-- END SCANALERT CODE --> 
+								    
+								    
+								</td>
+								<td rowspan="3">
 								    <a href="http://www.startech.com/Support/ContactUs.aspx"><img id="NETPageTop1_imgPhone" src="../Design/Default/images/phoneUS.gif" border="0"></a>
+								</td>
+								<td rowspan="3">
+								    &nbsp;&nbsp;&nbsp;
 								</td>
 								<td colspan="2" height="5" align="right"></td>
 							</tr>
@@ -82,7 +98,7 @@
 									<img src="../Design/Default/images/top_nav_space.gif">
 								</td>
 								<td>
-									<a href="http://www.startech.com/ResellerArea/"><img src="../Design/Default/images/top_nav_reseller.gif" id="NETPageTop1_imgresellers"></a>
+									<a id="NETPageTop1_hlReseller" href="http://www.startech.com/ResellerArea/"><img src="../Design/Default/images/top_nav_reseller.gif" id="NETPageTop1_imgresellers"></a>
 								</td>
 								<td>
 									<img src="../Design/Default/images/top_nav_space.gif">
@@ -164,19 +180,20 @@
 	</tr>
 	<tr>
 		<td class="SideBar" style="width:155">
-			<!-- BEGIN LivePerson Button Code -->
-		    <table id="NETPageTop1_tblLivePerson" border="0" cellspacing="3" cellpadding="3" width="100%">
-	<tbody><tr>
-		<td align="center">
-		                <a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/44187051/?cmd=file&amp;file=visitorWantsToChat&amp;site=44187051&amp;byhref=1&amp;imageUrl=https://www.startech.com/Design/LivePerson/Images" target="chat44187051" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/44187051/?cmd=file&amp;file=visitorWantsToChat&amp;site=44187051&amp;imageUrl=https://www.startech.com/Design/LivePerson/Images&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat44187051','width=475,height=400,resizable=yes');return false;">
-		                    <img src="https://server.iad.liveperson.net/hc/44187051/?cmd=repstate&amp;site=44187051&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=https://www.startech.com/Design/LivePerson/Images" name="hcIcon" border="0">
+			<!-- BEGIN ECI Button Code -->
+		    <table border="0" cellspacing="3" cellpadding="3" width="100%">
+		        <tbody><tr id="NETPageTop1_trChatOnline">
+	<td align="center">
+		                <a href="javascript:openWebChat('http://www.startech.com/support/livechat.aspx',500)">
+		                    <img src="../Design/LivePerson/Images/reponline.gif">
 		                </a>
 		            </td>
-	</tr>
-</tbody></table>
+</tr>
 
-            <!-- END LivePerson Button code -->
- 
+		        
+		    </tbody></table>
+            <!-- END ECI Button code -->
+
  			<!--- Side Bar --->
 			<table cellpadding="0" cellspacing="0" class="TextNormalGrey" width="100%">
 				<tbody><tr>
@@ -194,6 +211,9 @@
 						<img src="../Design/Default/images/left_nav_line.gif" border="0" vspace="0" width="114"><br>
     					<img src="../Design/Default/images/side_arrow_right.gif" border="0">
 						<a id="NETPageTop1_hlSale" class="SideBarMenu Bold" href="http://www.startech.com/Product/SaleList.aspx">Product Specials</a><br>
+						<img src="../Design/Default/images/left_nav_line.gif" border="0" vspace="0" width="114"><br>
+    					<img src="../Design/Default/images/side_arrow_right.gif" border="0">
+						<a id="NETPageTop1_hlHardToFind" class="SideBarMenu Bold" href="http://www.startech.com/Verticals/HardToFind.aspx">Hard-to-Find Products</a><br>
 						
             					<img src="../Design/Default/images/left_nav_line.gif" border="0" vspace="0" width="114"><br>
 								<img id="NETPageTop1_rptNavProduct_ctl00_img1" src="../Design/Default/images/side_arrow_right.gif" border="0">
@@ -290,7 +310,7 @@
 										<a id="NETPageTop1_rptNavProduct_ctl03_rptSubNavProduct_ctl02_hlk2" class="SideBarMenu" href="http://www.startech.com/category/kvm/lcd-rack-consoles/main.aspx">KVM Rack Consoles</a><br>
 									
 										&nbsp;&nbsp;&nbsp;
-										<a id="NETPageTop1_rptNavProduct_ctl03_rptSubNavProduct_ctl03_hlk2" class="SideBarMenu" href="http://www.startech.com/category/kvm/server-racks/main.aspx">KVM/Server Racks</a><br>
+										<a id="NETPageTop1_rptNavProduct_ctl03_rptSubNavProduct_ctl03_hlk2" class="SideBarMenu" href="http://www.startech.com/category/kvm/server-racks/main.aspx">Server Racks</a><br>
 									
 										&nbsp;&nbsp;&nbsp;
 										<a id="NETPageTop1_rptNavProduct_ctl03_rptSubNavProduct_ctl04_hlk2" class="SideBarMenu" href="http://www.startech.com/category/kvm/kvm-cables/main.aspx">KVM Switch Cables</a><br>
@@ -305,8 +325,10 @@
 					    <img src="../Design/Default/images/left_nav_line_2.gif" border="0" vspace="0" width="114"><br>
 					    <img src="../Design/Default/images/side_arrow_right.gif" border="0">
 					    <span class="SideBarMenu Bold">Search by Vertical</span><br>
-					    &nbsp;&nbsp;&nbsp;<a id="NETPageTop1_hlPOS" class="SideBarMenu" href="http://www.startech.com/Verticals/POS.aspx">Point-of-Sale</a><br>
-					    &nbsp;&nbsp;&nbsp;<a id="NETPageTop1_hlSec" class="SideBarMenu" href="http://www.startech.com/Verticals/Security.aspx">Security</a><br>
+					    &nbsp;&nbsp;&nbsp;<a class="SideBarMenu" href="http://www.startech.com/Verticals/POS.aspx">Point-of-Sale</a><br>
+					    &nbsp;&nbsp;&nbsp;<a class="SideBarMenu" href="http://www.startech.com/Verticals/Security.aspx">Security</a><br>
+					    &nbsp;&nbsp;&nbsp;<a class="SideBarMenu" href="http://www.startech.com/Verticals/Mobility.aspx">Mobile Computing</a><br>
+					    &nbsp;&nbsp;&nbsp;<a class="SideBarMenu" href="http://www.startech.com/Verticals/DigitalSignage.aspx">Digital Signage</a><br>
 					</td>
 				</tr>
 				<tr>
@@ -322,7 +344,7 @@
 
 
 		<form name="Form1" method="post" action="PrivacyStatement.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0OTEzNDQyODAPZBYCAgUPDxYCHgRNTElEZmQWGAIBD2QWAmYPDxYCHghJbWFnZVVybAUjfi9EZXNpZ24vRGVmYXVsdC9pbWFnZXMvcGhvbmVVUy5naWZkZAIaDw8WAh4EVGV4dAUHMCBJdGVtc2RkAh4PDxYCHgdWaXNpYmxlaGRkAh8PDxYCHwNoZGQCIA8PFgIfA2hkZAIhDw8WAh8DaGRkAiIPDxYCHwNoZGQCIw8PFgIfA2hkZAIkDw8WBB8CBQZMb2cgSW4eC05hdmlnYXRlVXJsBRR+L0FjY291bnQvTG9naW4uYXNweGRkAiYPDxYCHwEFJ34vRGVzaWduL0RlZmF1bHQvaW1hZ2VzL3NtYWxsZmxhZ1VTLmdpZmRkAicPDxYCHwIFDVVuaXRlZCBTdGF0ZXNkZAIyDxYCHgtfIUl0ZW1Db3VudAIEFghmD2QWCAIDDw8WAh8BBSx+L0Rlc2lnbi9EZWZhdWx0L2ltYWdlcy9zaWRlX2Fycm93X3JpZ2h0LmdpZmRkAgUPDxYEHwIFBVBhcnRzHwQFGn4vY2F0ZWdvcnkvcGFydHMvbWFpbi5hc3B4ZGQCBw8WBB8FAggfA2cWEGYPZBYCAgEPDxYCHwQFLH4vY2F0ZWdvcnkvcGFydHMvaW8tY2FyZHMtYWRhcHRlcnMvbWFpbi5hc3B4ZBYCZg8VAQlJL08gQ2FyZHNkAgEPZBYCAgEPDxYCHwQFKX4vY2F0ZWdvcnkvcGFydHMvcG93ZXItc3VwcGxpZXMvbWFpbi5hc3B4ZBYCZg8VAQ5Qb3dlciBTdXBwbGllc2QCAg9kFgICAQ8PFgIfBAUnfi9jYXRlZ29yeS9wYXJ0cy9kYXRhLXN0b3JhZ2UvbWFpbi5hc3B4ZBYCZg8VAQxEYXRhIFN0b3JhZ2VkAgMPZBYCAgEPDxYCHwQFIH4vY2F0ZWdvcnkvcGFydHMvY2FzZXMvbWFpbi5hc3B4ZBYCZg8VAQ5Db21wdXRlciBDYXNlc2QCBA9kFgICAQ8PFgIfBAUnfi9jYXRlZ29yeS9wYXJ0cy9mYW5zLWNvb2xlcnMvbWFpbi5hc3B4ZBYCZg8VARBGYW5zIGFuZCBDb29sZXJzZAIFD2QWAgIBDw8WAh8EBSV+L2NhdGVnb3J5L3BhcnRzL3NlcmlhbC1hdGEvbWFpbi5hc3B4ZBYCZg8VARFTZXJpYWwgQVRBIChTQVRBKWQCBg9kFgICAQ8PFgIfBAUnfi9jYXRlZ29yeS9wYXJ0cy91c2ItZmlyZXdpcmUvbWFpbi5hc3B4ZBYCZg8VARBVU0IgYW5kIEZpcmVXaXJlZAIHD2QWAgIBDw8WAh8EBSV+L2NhdGVnb3J5L3BhcnRzL25ldHdvcmtpbmcvbWFpbi5hc3B4ZBYCZg8VAQpOZXR3b3JraW5nZAIJDw8WAh8EBRp+L2NhdGVnb3J5L3BhcnRzL21haW4uYXNweGRkAgEPZBYIAgMPDxYCHwEFLH4vRGVzaWduL0RlZmF1bHQvaW1hZ2VzL3NpZGVfYXJyb3dfcmlnaHQuZ2lmZGQCBQ8PFgQfAgUGQ2FibGVzHwQFG34vY2F0ZWdvcnkvY2FibGVzL21haW4uYXNweGRkAgcPFgQfBQIHHwNnFg5mD2QWAgIBDw8WAh8EBSZ+L2NhdGVnb3J5L2NhYmxlcy91c2ItY2FibGVzL21haW4uYXNweGQWAmYPFQEKVVNCIENhYmxlc2QCAQ9kFgICAQ8PFgIfBAUnfi9jYXRlZ29yeS9jYWJsZXMvcG93ZXJlZC11c2IvbWFpbi5hc3B4ZBYCZg8VAQtQb3dlcmVkIFVTQmQCAg9kFgICAQ8PFgIfBAUrfi9jYXRlZ29yeS9jYWJsZXMvZmlyZXdpcmUtY2FibGVzL21haW4uYXNweGQWAmYPFQEPRmlyZVdpcmUgQ2FibGVzZAIDD2QWAgIBDw8WAh8EBSp+L2NhdGVnb3J5L2NhYmxlcy9uZXR3b3JrLWNhYmxlcy9tYWluLmFzcHhkFgJmDxUBDk5ldHdvcmsgQ2FibGVzZAIED2QWAgIBDw8WAh8EBSZ+L2NhdGVnb3J5L2NhYmxlcy9rdm0tY2FibGVzL21haW4uYXNweGQWAmYPFQERS1ZNIFN3aXRjaCBDYWJsZXNkAgUPZBYCAgEPDxYCHwQFNH4vY2F0ZWdvcnkvY2FibGVzL2dlbmRlci1jaGFuZ2Vycy1hZGFwdGVycy9tYWluLmFzcHhkFgJmDxUBD0dlbmRlciBDaGFuZ2Vyc2QCBg9kFgICAQ8PFgIfBAUnfi9jYXRlZ29yeS9jYWJsZXMvc2NzaS1jYWJsZXMvbWFpbi5hc3B4ZBYCZg8VAQtTQ1NJIENhYmxlc2QCCQ8PFgIfBAUbfi9jYXRlZ29yeS9jYWJsZXMvbWFpbi5hc3B4ZGQCAg9kFggCAw8PFgIfAQUsfi9EZXNpZ24vRGVmYXVsdC9pbWFnZXMvc2lkZV9hcnJvd19yaWdodC5naWZkZAIFDw8WBB8CBQtBdWRpby9WaWRlbx8EBSB+L2NhdGVnb3J5L2F1ZGlvLXZpZGVvL21haW4uYXNweGRkAgcPFgQfBQIGHwNnFgxmD2QWAgIBDw8WAh8EBSt+L2NhdGVnb3J5L2F1ZGlvLXZpZGVvL2NvbnZlcnRlcnMvbWFpbi5hc3B4ZBYCZg8VARBWaWRlbyBDb252ZXJ0ZXJzZAIBD2QWAgIBDw8WAh8EBSp+L2NhdGVnb3J5L2F1ZGlvLXZpZGVvL3NwbGl0dGVycy9tYWluLmFzcHhkFgJmDxUBD1ZpZGVvIFNwbGl0dGVyc2QCAg9kFgICAQ8PFgIfBAUqfi9jYXRlZ29yeS9hdWRpby12aWRlby9leHRlbmRlcnMvbWFpbi5hc3B4ZBYCZg8VAQ9WaWRlbyBFeHRlbmRlcnNkAgMPZBYCAgEPDxYCHwQFKX4vY2F0ZWdvcnkvYXVkaW8tdmlkZW8vc3dpdGNoZXMvbWFpbi5hc3B4ZBYCZg8VAQxBL1YgU3dpdGNoZXNkAgQPZBYCAgEPDxYCHwQFKn4vY2F0ZWdvcnkvYXVkaW8tdmlkZW8vY2FibGUtemVuL21haW4uYXNweGQWAmYPFQEJQ2FibGUgWmVuZAIFD2QWAgIBDw8WAh8EBTN+L2NhdGVnb3J5L2F1ZGlvLXZpZGVvL2F2LWNhYmxlcy1hZGFwdGVycy9tYWluLmFzcHhkFgJmDxUBCkEvViBDYWJsZXNkAgkPDxYCHwQFIH4vY2F0ZWdvcnkvYXVkaW8tdmlkZW8vbWFpbi5hc3B4ZGQCAw9kFggCAw8PFgIfAQUsfi9EZXNpZ24vRGVmYXVsdC9pbWFnZXMvc2lkZV9hcnJvd19yaWdodC5naWZkZAIFDw8WBB8CBQ9LVk0vU2VydmVyIE1nbXQfBAUYfi9jYXRlZ29yeS9rdm0vbWFpbi5hc3B4ZGQCBw8WBB8FAgUfA2cWCmYPZBYCAgEPDxYCHwQFJX4vY2F0ZWdvcnkva3ZtL2t2bS1zd2l0Y2hlcy9tYWluLmFzcHhkFgJmDxUBDEtWTSBTd2l0Y2hlc2QCAQ9kFgICAQ8PFgIfBAUkfi9jYXRlZ29yeS9rdm0va3ZtLW92ZXItaXAvbWFpbi5hc3B4ZBYCZg8VAQ9JUCBLVk0gUHJvZHVjdHNkAgIPZBYCAgEPDxYCHwQFKn4vY2F0ZWdvcnkva3ZtL2xjZC1yYWNrLWNvbnNvbGVzL21haW4uYXNweGQWAmYPFQERS1ZNIFJhY2sgQ29uc29sZXNkAgMPZBYCAgEPDxYCHwQFJX4vY2F0ZWdvcnkva3ZtL3NlcnZlci1yYWNrcy9tYWluLmFzcHhkFgJmDxUBEEtWTS9TZXJ2ZXIgUmFja3NkAgQPZBYCAgEPDxYCHwQFI34vY2F0ZWdvcnkva3ZtL2t2bS1jYWJsZXMvbWFpbi5hc3B4ZBYCZg8VARFLVk0gU3dpdGNoIENhYmxlc2QCCQ8PFgIfBAUYfi9jYXRlZ29yeS9rdm0vbWFpbi5hc3B4ZGRks3L4S5YzTaxD5Z1k7MQ12lu07Oc=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0OTEzNDQyODAPZBYCAgUPDxYCHgRNTElEZmQWHAICDxYCHgdWaXNpYmxlaGQCAw9kFgJmDw8WAh4ISW1hZ2VVcmwFI34vRGVzaWduL0RlZmF1bHQvaW1hZ2VzL3Bob25lVVMuZ2lmZGQCHA8PFgIeBFRleHQFBzAgSXRlbXNkZAIgDw8WAh8BaGRkAiEPDxYCHwFoZGQCIg8PFgIfAWhkZAIjDw8WAh8BaGRkAiQPDxYCHwFoZGQCJQ8PFgIfAWhkZAImDw8WBB8DBQZMb2cgSW4eC05hdmlnYXRlVXJsBRR+L0FjY291bnQvTG9naW4uYXNweGRkAigPDxYCHwIFJ34vRGVzaWduL0RlZmF1bHQvaW1hZ2VzL3NtYWxsZmxhZ1VTLmdpZmRkAikPDxYCHwMFDVVuaXRlZCBTdGF0ZXNkZAIsDxYCHwFoZAI4DxYCHgtfIUl0ZW1Db3VudAIEFghmD2QWCAIDDw8WAh8CBSx+L0Rlc2lnbi9EZWZhdWx0L2ltYWdlcy9zaWRlX2Fycm93X3JpZ2h0LmdpZmRkAgUPDxYEHwMFBVBhcnRzHwQFGn4vY2F0ZWdvcnkvcGFydHMvbWFpbi5hc3B4ZGQCBw8WBB8FAggfAWcWEGYPZBYCAgEPDxYCHwQFLH4vY2F0ZWdvcnkvcGFydHMvaW8tY2FyZHMtYWRhcHRlcnMvbWFpbi5hc3B4ZBYCZg8VAQlJL08gQ2FyZHNkAgEPZBYCAgEPDxYCHwQFKX4vY2F0ZWdvcnkvcGFydHMvcG93ZXItc3VwcGxpZXMvbWFpbi5hc3B4ZBYCZg8VAQ5Qb3dlciBTdXBwbGllc2QCAg9kFgICAQ8PFgIfBAUnfi9jYXRlZ29yeS9wYXJ0cy9kYXRhLXN0b3JhZ2UvbWFpbi5hc3B4ZBYCZg8VAQxEYXRhIFN0b3JhZ2VkAgMPZBYCAgEPDxYCHwQFIH4vY2F0ZWdvcnkvcGFydHMvY2FzZXMvbWFpbi5hc3B4ZBYCZg8VAQ5Db21wdXRlciBDYXNlc2QCBA9kFgICAQ8PFgIfBAUnfi9jYXRlZ29yeS9wYXJ0cy9mYW5zLWNvb2xlcnMvbWFpbi5hc3B4ZBYCZg8VARBGYW5zIGFuZCBDb29sZXJzZAIFD2QWAgIBDw8WAh8EBSV+L2NhdGVnb3J5L3BhcnRzL3NlcmlhbC1hdGEvbWFpbi5hc3B4ZBYCZg8VARFTZXJpYWwgQVRBIChTQVRBKWQCBg9kFgICAQ8PFgIfBAUnfi9jYXRlZ29yeS9wYXJ0cy91c2ItZmlyZXdpcmUvbWFpbi5hc3B4ZBYCZg8VARBVU0IgYW5kIEZpcmVXaXJlZAIHD2QWAgIBDw8WAh8EBSV+L2NhdGVnb3J5L3BhcnRzL25ldHdvcmtpbmcvbWFpbi5hc3B4ZBYCZg8VAQpOZXR3b3JraW5nZAIJDw8WAh8EBRp+L2NhdGVnb3J5L3BhcnRzL21haW4uYXNweGRkAgEPZBYIAgMPDxYCHwIFLH4vRGVzaWduL0RlZmF1bHQvaW1hZ2VzL3NpZGVfYXJyb3dfcmlnaHQuZ2lmZGQCBQ8PFgQfAwUGQ2FibGVzHwQFG34vY2F0ZWdvcnkvY2FibGVzL21haW4uYXNweGRkAgcPFgQfBQIHHwFnFg5mD2QWAgIBDw8WAh8EBSZ+L2NhdGVnb3J5L2NhYmxlcy91c2ItY2FibGVzL21haW4uYXNweGQWAmYPFQEKVVNCIENhYmxlc2QCAQ9kFgICAQ8PFgIfBAUnfi9jYXRlZ29yeS9jYWJsZXMvcG93ZXJlZC11c2IvbWFpbi5hc3B4ZBYCZg8VAQtQb3dlcmVkIFVTQmQCAg9kFgICAQ8PFgIfBAUrfi9jYXRlZ29yeS9jYWJsZXMvZmlyZXdpcmUtY2FibGVzL21haW4uYXNweGQWAmYPFQEPRmlyZVdpcmUgQ2FibGVzZAIDD2QWAgIBDw8WAh8EBSp+L2NhdGVnb3J5L2NhYmxlcy9uZXR3b3JrLWNhYmxlcy9tYWluLmFzcHhkFgJmDxUBDk5ldHdvcmsgQ2FibGVzZAIED2QWAgIBDw8WAh8EBSZ+L2NhdGVnb3J5L2NhYmxlcy9rdm0tY2FibGVzL21haW4uYXNweGQWAmYPFQERS1ZNIFN3aXRjaCBDYWJsZXNkAgUPZBYCAgEPDxYCHwQFNH4vY2F0ZWdvcnkvY2FibGVzL2dlbmRlci1jaGFuZ2Vycy1hZGFwdGVycy9tYWluLmFzcHhkFgJmDxUBD0dlbmRlciBDaGFuZ2Vyc2QCBg9kFgICAQ8PFgIfBAUnfi9jYXRlZ29yeS9jYWJsZXMvc2NzaS1jYWJsZXMvbWFpbi5hc3B4ZBYCZg8VAQtTQ1NJIENhYmxlc2QCCQ8PFgIfBAUbfi9jYXRlZ29yeS9jYWJsZXMvbWFpbi5hc3B4ZGQCAg9kFggCAw8PFgIfAgUsfi9EZXNpZ24vRGVmYXVsdC9pbWFnZXMvc2lkZV9hcnJvd19yaWdodC5naWZkZAIFDw8WBB8DBQtBdWRpby9WaWRlbx8EBSB+L2NhdGVnb3J5L2F1ZGlvLXZpZGVvL21haW4uYXNweGRkAgcPFgQfBQIGHwFnFgxmD2QWAgIBDw8WAh8EBSt+L2NhdGVnb3J5L2F1ZGlvLXZpZGVvL2NvbnZlcnRlcnMvbWFpbi5hc3B4ZBYCZg8VARBWaWRlbyBDb252ZXJ0ZXJzZAIBD2QWAgIBDw8WAh8EBSp+L2NhdGVnb3J5L2F1ZGlvLXZpZGVvL3NwbGl0dGVycy9tYWluLmFzcHhkFgJmDxUBD1ZpZGVvIFNwbGl0dGVyc2QCAg9kFgICAQ8PFgIfBAUqfi9jYXRlZ29yeS9hdWRpby12aWRlby9leHRlbmRlcnMvbWFpbi5hc3B4ZBYCZg8VAQ9WaWRlbyBFeHRlbmRlcnNkAgMPZBYCAgEPDxYCHwQFKX4vY2F0ZWdvcnkvYXVkaW8tdmlkZW8vc3dpdGNoZXMvbWFpbi5hc3B4ZBYCZg8VAQxBL1YgU3dpdGNoZXNkAgQPZBYCAgEPDxYCHwQFKn4vY2F0ZWdvcnkvYXVkaW8tdmlkZW8vY2FibGUtemVuL21haW4uYXNweGQWAmYPFQEJQ2FibGUgWmVuZAIFD2QWAgIBDw8WAh8EBTN+L2NhdGVnb3J5L2F1ZGlvLXZpZGVvL2F2LWNhYmxlcy1hZGFwdGVycy9tYWluLmFzcHhkFgJmDxUBCkEvViBDYWJsZXNkAgkPDxYCHwQFIH4vY2F0ZWdvcnkvYXVkaW8tdmlkZW8vbWFpbi5hc3B4ZGQCAw9kFggCAw8PFgIfAgUsfi9EZXNpZ24vRGVmYXVsdC9pbWFnZXMvc2lkZV9hcnJvd19yaWdodC5naWZkZAIFDw8WBB8DBQ9LVk0vU2VydmVyIE1nbXQfBAUYfi9jYXRlZ29yeS9rdm0vbWFpbi5hc3B4ZGQCBw8WBB8FAgUfAWcWCmYPZBYCAgEPDxYCHwQFJX4vY2F0ZWdvcnkva3ZtL2t2bS1zd2l0Y2hlcy9tYWluLmFzcHhkFgJmDxUBDEtWTSBTd2l0Y2hlc2QCAQ9kFgICAQ8PFgIfBAUkfi9jYXRlZ29yeS9rdm0va3ZtLW92ZXItaXAvbWFpbi5hc3B4ZBYCZg8VAQ9JUCBLVk0gUHJvZHVjdHNkAgIPZBYCAgEPDxYCHwQFKn4vY2F0ZWdvcnkva3ZtL2xjZC1yYWNrLWNvbnNvbGVzL21haW4uYXNweGQWAmYPFQERS1ZNIFJhY2sgQ29uc29sZXNkAgMPZBYCAgEPDxYCHwQFJX4vY2F0ZWdvcnkva3ZtL3NlcnZlci1yYWNrcy9tYWluLmFzcHhkFgJmDxUBDFNlcnZlciBSYWNrc2QCBA9kFgICAQ8PFgIfBAUjfi9jYXRlZ29yeS9rdm0va3ZtLWNhYmxlcy9tYWluLmFzcHhkFgJmDxUBEUtWTSBTd2l0Y2ggQ2FibGVzZAIJDw8WAh8EBRh+L2NhdGVnb3J5L2t2bS9tYWluLmFzcHhkZGQYaakcViSAEQVCvUcJrZUGqyBy8g==">
 
 			<table cellspacing="0" cellpadding="0">
 				<tbody><tr>
@@ -437,6 +459,8 @@
 					<a class="FooterNavLink" href="http://www.startech.com/AboutUs/PrivacyStatement.aspx">Privacy Policy</a>
 					<img src="../Design/Default/images/bot_nav_line.gif" border="0" align="middle">
 					<a class="FooterNavLink" href="http://www.startech.com/Careers/">Careers</a>
+					<img src="../Design/Default/images/bot_nav_line.gif" border="0" align="middle">
+					<a class="FooterNavLink" href="http://www.startech.com/QualityCommitment">Quality Commitment</a>
 				</td>
 				<td bgcolor="#e6e6e6" valign="top" align="right" style="BORDER-TOP:#a6a6a6 1px solid">
 				    &nbsp;&nbsp;&nbsp;
@@ -473,17 +497,6 @@
 <!-- BEGIN Google Variables  -->
 
 <!-- END Google Variables  -->
-
-<!-- BEGIN Invitation Positioning  -->
-<script language="javascript" type="text/javascript">
-var lpPosY = 100;
-var lpPosX = 100;
-</script>
-<!-- END Invitation Positioning  -->
-
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-<script language="javascript" src="https://server.iad.liveperson.net/hc/44187051/x.js?cmd=file&amp;file=chatScript3&amp;site=44187051&amp;&amp;imageUrl=https://www.startech.com/Design/LivePerson/Images"> </script>
-<!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 	
 
 </body></html>
