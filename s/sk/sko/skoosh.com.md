@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skoosh.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608073150id_/http%3A//www.skoosh.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skoosh.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051315id_/http%3A//www.skoosh.com/content/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy // Skoosh
+# Skoosh Privacy Policy
 
 Skoosh conforms to the Data Protection Act of 1998, and any person providing information to Skoosh. is protected by the laws therein.
 
@@ -17,4 +17,4 @@ The Personally Identifiable Information that Skoosh collects is:
 
 These details are used only to send requested/important information to customers, and for our own marketing research. Credit card payments over the internet are secure and are managed using secure server technology (SSL encryption). Our card acquirer is Barclays Merchant Services, the information is sent using 128bit SSL encryption. N.B. We do not store your credit card details.
 
-**Any concerns that you may have with regards to security can be addressed to the IT Manager at[contact page](http://www.skoosh.com/s/twibo/contact_us.html)**.
+**Any concerns that you may have with regards to security can be addressed to the IT Manager on the[contact page](http://www.skoosh.com/s/twibo/contact_us.html)**.
