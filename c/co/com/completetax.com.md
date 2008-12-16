@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the completetax.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509082532id_/http%3A//www.completetax.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completetax.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216092412id_/http%3A//www.completetax.com/privacy.asp) for the most accurate reproduction.*
 
 # Online federal and state tax preparation.
 
@@ -130,7 +130,7 @@ After paying for your return, the financial information used to make your paymen
   
 How to Contact Us
 
-Should you have other questions or concerns about this Privacy Policy, please submit your questions using our [Customer Support](https://web.archive.org/web/20080509082532id_/http%3A//www.completetax.com/supportrequest.asp) link or one of the methods below.
+Should you have other questions or concerns about this Privacy Policy, please submit your questions using our [Customer Support](https://web.archive.org/web/20081216092412id_/http%3A//www.completetax.com/supportrequest.asp) link or one of the methods below.
 
 CCH INCORPORATED  
 Online Tax Group - MS 28  
