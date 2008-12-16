@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysportsclubs.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617032842id_/http%3A//www.mysportsclubs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysportsclubs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030121id_/http%3A//www.mysportsclubs.com/privacy.htm) for the most accurate reproduction.*
 
 # MySportsClubs | Privacy Policy
 
