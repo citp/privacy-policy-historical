@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512150932id_/http%3A//www.catchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054017id_/http%3A//www.catchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # CatChannel.com
 
-|  |  | 
+|  | 
 
 [](http://www.catchannel.com/registration/registration.aspx?signup=y)  
   
----|---  
-|   
+---  
   
 Animal Network Privacy Policy 
 
@@ -76,8 +75,17 @@ You can also edit and update your subscription account information at any time b
  Give us your opinion on  
 Animal Network Privacy Policy
 
-       
+In the contest (under your tab for contests) for most colorful there's an entry of a Maine coon called Bob Cat.  
+It was entered in the contest late last night. He had 51 votes almost immediately.  
+When the siamese call Ollie started to get close to the 51 votes Bob Cat had the total went almost immediately again (within 1 hour) to 101. I think the owner is Stacking the vote. (possibly by using fakes email addresses)  
+Please investigate it's not fair.  
+Thank you,  
+Kenneth Buck
 
-
+**Kenneth Buck, Clearwater, FL  
+Posted: 9/9/2006 6:02:25 PM**  
+  
+---  
+  
   
 
