@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mrolympia.com privacy policy that was archived on 2008-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080305130647id_/http%3A//www.mrolympia.com/2008/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrolympia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022115id_/http%3A//www.mrolympia.com/2008/privacy.htm) for the most accurate reproduction.*
 
-# 2007 OLYMPIA WEEKEND
+# 2008 OLYMPIA WEEKEND
 
   
 MrOlympia.com is committed to providing our visitors with content and services characterized by outstanding quality and customer service. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online.
 
 BY USING OUR WEBSITE, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY. Accordingly, please review the following carefully so that you understand our privacy practices in regards to: 
 
-If you have questions about this Privacy Policy, please contact us at [webmaster@amilink.com](https://web.archive.org/2008/mailto:webmaster@amilink.com)
+If you have questions about this Privacy Policy, please contact us at [webmaster@amilink.com](mailto:webmaster@amilink.com)
 
 Children Under 13:  
 WIN cares about the safety of children. Since our content and services are not directed towards kids, children under 13 are not allowed to register with our website or to participate in public posting areas on our site. As a reminder, children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else.
