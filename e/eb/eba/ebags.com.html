@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the ebags.com privacy policy that was archived on 2008-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080618010839id_/http%3A//www.ebags.com/help/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebags.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216011307id_/http%3A//www.ebags.com/help/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
-<link rel="Shortcut Icon" href="favicon.ico">
+<link rel="Shortcut Icon" href="/favicon.ico">
 <meta http-equiv="P3P" content="policyref=&quot;http://www.ebags.com/w3c/p3p.xml&quot;">
 <link rel="P3P" href="/w3c/p3p.xml" type="text/xml">
 <title>Luggage, Handbags, Backpacks, Suitcases, Purses, Briefcases, Wallets &amp; More - eBags </title>
@@ -22,6 +22,9 @@
 .TopLInk a:link {color: #FFFFFF;text-decoration: underline;font-size: 12px}
 .TopLInk a:hover {color: #FFFFFF;text-decoration: none;font-size: 12px}
 .TopLInk a:visited {color: #FFFFFF;text-decoration: underline;font-size: 12px}
+.autoCompleteContainer { background-color:#FEFEFE; border-top:#57677F solid 1px; border-right:#57677F solid 1px; border-left:#57677F solid 1px; border-bottom:1px solid #57677F; left:140px; top:111px; }
+.autoCompleteMenuItem { font-family:Verdana; color:black; padding:2px; font-size:11px; width:372px; cursor:pointer; }
+.autoCompleteMenuItemSelected { font-family:Verdana; color:black; padding:2px; font-size:11px; width:372px; background-color:#CCCCCC; cursor:pointer; }
 </style>
 <link rel="stylesheet" href="/style_IE.css?v=1" type="text/css">
 </head>
@@ -36,7 +39,17 @@ var akamaipath = 'http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com';
 function dimMaker() {
 //document.textForm.D.value = document.textForm.Ntt.value;
 }
+function CleanInvalidSearchBoxCharacters(searchBox)
+{
+var matchedValues = searchBox.value.match(/[\{\}\v\t\r\n\f\+\*\\\|<>=~;]/g, "");
+if (matchedValues != null)
+{
+searchBox.value = searchBox.value.replace(/[\{\}\v\t\r\n\f\+\*\\\|<>=~;]/g, "");
+}
+}
 </script>
+<script src="/Utils/JAVASCRIPT/AJax.js" language="JavaScript" type="text/javascript"></script>
+<script src="/Utils/JAVASCRIPT/AutoComplete.js" language="JavaScript" type="text/javascript"></script>
 <table width="770" cellspacing="0" cellpadding="0" border="0" style="margin-top: 5px;"><tbody><tr><td align="right">
 <a href="/rewards/index.cfm?fuseaction=signup" class="s">Join eBags Rewards</a>
 &nbsp;|&nbsp;
@@ -44,78 +57,75 @@ function dimMaker() {
 &nbsp;|&nbsp;<a href="/members/index.cfm?fuseaction=trackorder&amp;LoginName=track%20your%20recent%20orders&amp;TimeFrame=Recent&amp;YourAccount_Link=RecentOrders" class="sml2">Track Your Order</a>
 &nbsp;|
 <a href="http://www.ebags.com/members/index.cfm?fuseaction=welcome" class="sml2">Your Account</a>
-&nbsp;|&nbsp;<a href="http://www.ebags.com/shoppingcart/index.cfm?FuseAction=viewcart&amp;CurrentTime=%7Bts%20%272008-06-17%2019%3A15%3A43%27%7D&amp;requesttimeout=2000" class="sml2"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/icon_cart.gif" width="18" height="18" border="0" hspace="5" align="absmiddle">Your Cart</a>
+&nbsp;|&nbsp;<a href="http://www.ebags.com/shoppingcart/index.cfm?FuseAction=viewcart&amp;CurrentTime=%7Bts%20%272008-12-15%2018%3A13%3A06%27%7D&amp;requesttimeout=2000" class="sml2"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/icon_cart.gif" width="18" height="18" border="0" hspace="5" align="absmiddle">Your Cart</a>
 </td></tr></tbody></table>
-<table width="770" cellspacing="0" cellpadding="0" border="0" style="margin-top: -3px;">
+<table width="770" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td rowspan="2" valign="bottom" width="125" align="left"><a href="http://www.ebags.com/"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/Logo_blue.gif" width="125" height="83" border="0" alt=" HOME - luggage, handbags, backpacks, bags and travel accessories"></a></td>
-<td width="4"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/s.gif" width="4" height="47"></td>
-<td valign="bottom" width="611">
-<table cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr>
-<td colspan="17" align="center"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/s.gif" width="105" height="4"></td>
-</tr>
-<tr nowrap="">
-<td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_start_off.gif" width="4" height="17"></td><td class="tab"><a href="http://www.ebags.com/handbags/department/index.cfm?sub_site_id=14">Handbags</a></td>
+<td rowspan="2" valign="bottom" width="125" height="89" align="left"><a href="http://www.ebags.com/"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/Logo_blue.gif" width="125" height="89" border="0" alt=" HOME - luggage, handbags, backpacks, bags and travel accessories"></a></td>
+<td valign="bottom" width="645">
+<center>
+<table cellpadding="0" cellspacing="0" border="0" height="37" align="center">
+<tbody><tr><td colspan="17" align="center"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/s.gif" width="105" height="20"></td></tr>
+<tr nowrap="" align="center"><td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_start_off.gif" width="4" height="17"></td>
+<td class="tab"><a href="http://www.ebags.com/handbags/department/index.cfm?sub_site_id=14">Handbags</a></td>
 <td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" width="9" height="17"></td>
 <td class="tab"><a href="http://www.ebags.com/luggage/department/index.cfm?sub_site_id=16">Luggage</a></td>
 <td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" width="9" height="17"></td>
 <td class="tab" nowrap=""><a href="http://www.ebags.com/backpacks/department/index.cfm?sub_site_id=10">Backpacks</a></td>
 <td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" width="9" height="17"></td>
-<td class="tab" nowrap=""><a href="http://www.ebags.com/messengers/department/index.cfm?sub_site_id=21">Messengers</a></td><td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" width="9" height="17"></td>
+<td class="tab" nowrap=""><a href="http://www.ebags.com/messengers/department/index.cfm?sub_site_id=21">Messenger Bags</a></td>
+<td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" width="9" height="17"></td>
 <td class="tab"><a href="http://www.ebags.com/wallets/department/index.cfm?sub_site_id=19">Wallets</a></td>
 <td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" width="9" height="17"></td>
-<td class="tab" nowrap=""><a href="http://www.ebags.com/landings/index.cfm?fuseaction=SnowSkateSurf&amp;sub_site_id=48">Snow, Skate &amp; Surf</a></td>
+<td class="tab" nowrap=""><a href="http://www.ebags.com/snow_skate_surf/department/index.cfm?sub_site_id=48">Snow, Skate &amp; Surf</a></td>
 <td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" width="9" height="17"></td>
-<td class="tab"><a href="http://www.ebags.com/brands/index.cfm?sub_site_id=49">Brands</a></td>
-<td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off_R_red.gif" width="9" height="17"></td><td class="tabred" nowrap=""><a href="/sale/department/index.cfm?sub_site_id=31" style="color:#FFFFFF">Sale</a></td>
-<td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_end_on_red.gif"></td>
-</tr>
+<td class="tab" nowrap=""><a href="http://www.ebags.com/kids_and_baby/department/index.cfm?sub_site_id=15">Kids &amp; Baby</a></td>
+<td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off_R_Red.gif" height="17"></td>
+<td class="tabred" nowrap=""><a href="/sale/department/index.cfm?sub_site_id=31" style="color:#FFFFFF">Holiday Sale</a></td>
+<td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_end_on_red.gif"></td></tr>
 </tbody></table>
-<table cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr><td colspan="17" align="center"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/s.gif" width="1" height="1"></td></tr>
-<tr>
-<td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_start_off.gif" width="4" height="17"></td><td class="tab"><a href="http://www.ebags.com/landings/index.cfm?fuseaction=designer&amp;sub_site_id=47">Designer&nbsp;Handbags</a></td>
+<table cellpadding="0" cellspacing="0" border="0" height="20" align="center">
+<tbody><tr><td colspan="17" align="center"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/s.gif" width="1" height="2"></td></tr>
+<tr><td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_start_off.gif" width="4" height="17"></td>
+<td class="tab"><a href="http://www.ebags.com/designer_handbags/department/index.cfm?sub_site_id=47">Designer&nbsp;Handbags</a></td>
 <td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" width="9" height="17"></td>
 <td class="tab" nowrap=""><a href="http://www.ebags.com/business_cases/department/index.cfm?sub_site_id=25">Business &amp; Laptop</a></td>
 <td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" width="9" height="17"></td>
 <td class="tab"><a href="http://www.ebags.com/travel_accessories/department/index.cfm?sub_site_id=24">Travel&nbsp;Accessories</a></td>
 <td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" width="9" height="17"></td>
 <td class="tab" nowrap=""><a href="http://www.ebags.com/sports_and_duffels/department/index.cfm?sub_site_id=18">Sports &amp; Duffels</a></td>
-<td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" width="9" height="17"></td>
-<td class="tab" nowrap=""><a href="http://www.ebags.com/kids_and_baby/department/index.cfm?sub_site_id=15">Kids &amp; Baby</a></td>
 <td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" height="17"></td>
 <td class="tab" nowrap=""><a href="http://ebags.liveclicker.com">Video</a></td>
+<td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" width="9" height="17"></td>
+<td class="tab"><a href="http://www.ebags.com/brands/index.cfm?sub_site_id=49">Brands</a></td>
+<td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_off.gif" width="9" height="17"></td>
+<td class="tab" nowrap=""><a href="http://www.ebags.com/eBags_private_collection/department/index.cfm?sub_site_id=51">Bags by eBags</a></td>
 <td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/tab_end_off.gif"></td>
-</tr>
-<tr>
-<td colspan="17"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/s.gif" width="1" height="1"></td>
-</tr>
-</tbody></table>
+</tr><tr><td colspan="15"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/s.gif" width="1" height="1"></td></tr></tbody></table>
+</center>
+</td></tr>
+<tr><td bgcolor="#57677F" colspan="23" height="42" valign="middle">
+<div id="divAutoCompleteTermList" class="autoCompleteContainer" style="visibility:hidden; position:relative;">
+</div><table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td colspan="4" height="7"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/s.gif" width="200" height="7"></td></tr>
+<tr><td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/s.gif" width="6"></td>
+<form action="http://www.ebags.com/search/index.cfm" method="get" name="textForm" onsubmit="CleanInvalidSearchBoxCharacters(this.Ntt)"></form>
+<input type="hidden" name="fuseaction" value="endecasearch"><input type="hidden" name="n" value="0">
+<td bgcolor="#57677F" valign="top" height="24px"><input type="text" id="searchBoxNtt" name="Ntt" size="60" height="18" autocomplete="off" style="font:11px verdana; border:1px; height:18px" onfocus="InitializeAutoCompleteMenu('searchBoxNtt', 'divAutoCompleteTermList', 10, 1, 'autoCompleteMenuItem', 'autoCompleteMenuItemSelected');" onblur="CloseAutoCompleteMenu(false);">&nbsp;</td>
+<td bgcolor="#57677F" valign="top" height="24px"><input type="image" value="Search" src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/Pagestart_Search.gif">
 </td>
-</tr>
-<tr>
-<td bgcolor="#57677F" height="36" colspan="2" valign="middle">
-<table cellpadding="0" cellspacing="0" border="0" height="36" width="645">
-<tbody><tr>
-<td bgcolor="#57677F"><form action="http://www.ebags.com/search/index.cfm" method="get" name="textForm"><input type="hidden" name="fuseaction" value="endecasearch"><input type="hidden" name="n" value="0"><input type="text" name="Ntt" size="22" style="font:11px verdana">&nbsp;<input type="submit" value="Search" style="background-color:#fafafa; font:10px arial"></form></td>
-<td bgcolor="#57677F" height="36" colspan="2" valign="middle">
-<table class="TopLInk" width="435px" height="36px" bgcolor="#57677F" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/s.gif" width="20" height="4"></td><td align="center" valign="middle"><a href="/help/index.cfm?fuseaction=ReturnPolicy">Free Returns</a></td>
-<td align="center" valign="middle"><a href="http://www.ebagscorporate.com/index.cfm?sourceid=EBAGLINK">High Volume Orders</a></td>
-</tr>
-</tbody></table></td></tr>
-</tbody></table>
-</td>
-</tr>
-<!--<tr><td colspan=17><a href="#" onclick="window.open('http://www.ebags.com/blocks/dsp_non_discountable_brands.cfm','nonbrands','height=750,width=300,resizable,left=200,top=200,scrollbars=yes');return false;"> <img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/120406_Holiday_DB_Details.gif" height="14px" border="0px" width="770px"></a></td></tr>-->
-</tbody></table>
+
+<td width="200px" align="center" valign="top" class="TopLInk"><a href="/help/index.cfm?fuseaction=ReturnPolicy">Free Returns</a></td></tr></tbody></table>
+</td></tr></tbody></table>
 <table cellpadding="0" cellspacing="0" border="0">
 <tbody><tr><td>
+<img src="http://a1512.g.akamaitech.net/f/1512/124/1h/media.ebags.com/ebags/img/Countdown/Countdown_Mini_DB.gif" border="0">
+</td></tr>
+<tr><td>
 </td></tr>
 <tr>
 <td>
-<div><a href="#" onclick="if(!event||event.x<600||event.layerX<600)window.open('/sale/department/index.cfm?sub_site_id=31','p2');else window.open('/blocks/dsp_non_discountable_brands.cfm','p2','height=750,width=300,scrollbars,resizable'); return false"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/sourceids/CP_IMG_BANNER_40959822.gif" width="770" border="0"></a></div>
+<div><a href="#" onclick="if(!event||event.x<600)window.open('/department/index.cfm?sub_site_id=31');else window.open('/blocks/dsp_non_discountable_brands.cfm','p2','height=750,width=300,scrollbars,resizable'); return false"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/sourceids/CP_IMG_BANNER_15425663.gif" width="770" border="0"></a></div>
 </td>
 </tr>
 </tbody></table>
@@ -256,6 +266,32 @@ We always enjoy hearing from you and appreciate your business.
 
 <a name="pageend">
 </a></p><hr width="770" size="1" color="#cccccc" noshade="" align="left"><a name="pageend">
+<script language="JavaScript">
+<!--
+maxL=2000;
+function taLimit(taObj) {
+if (taObj.value.length>=maxL) {
+alert("You've reached the maximum number of characters allowed in this field.");
+taObj.value = taObj.value.substring(0,2000);
+return false;
+}
+return true;
+}
+function taCount(taObj,Cnt) {
+objCnt=createObject(Cnt);
+objVal=taObj.value;
+if (objVal.length>maxL) objVal=objVal.substring(0,maxL);
+if (objCnt) objCnt.innerText=maxL-objVal.length;
+return true;
+}
+function createObject(objId) {
+if (document.getElementById) return document.getElementById(objId);
+else if (document.layers) return eval("document." + objId);
+else if (document.all) return eval("document.all." + objId);
+else return eval("document." + objId);
+}
+//-->
+</script>
 <noscript>
 <input type="hidden" name="javascript" value="noscript">
 </noscript><table width="770" cellpadding="5" border="0" cellspacing="0">
@@ -318,7 +354,7 @@ return false;
 </script>
 <span style="color:#57677F; font:bold 17px arial">eBags Wants to Hear From You!</span><br>
 Are there additional Brands or Products that you would like to see on eBags? Is there other information that we can include on our site to make your shopping experience better? We are listening!<br>
-<textarea rows="3" cols="40" name="comments"></textarea>
+<textarea rows="3" cols="40" name="comments" onkeypress="return taLimit(this)" onkeyup="return taCount(this, 'myCounter')"></textarea><br><span id="myCounter">2000</span> characters remaining<br>
 <img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/s.gif" width="50" height="5">
 <br>
 <select name="comment_category" id="comment_category">
@@ -338,7 +374,7 @@ Are there additional Brands or Products that you would like to see on eBags? Is 
 </tbody></table>
 <table width="770" cellpadding="5" border="0" cellspacing="0">
 <tbody><tr>
-<td align="center" bgcolor="#57677F" colspan="5"><font color="white"><b>Order by Phone: 800-820-6126&nbsp; | &nbsp; 7,455,034 Bags Shipped Since 1999&nbsp; | &nbsp; Free Returns</b></font><br></td>
+<td align="center" bgcolor="#57677F" colspan="5"><font color="white"><b>Order by Phone: 800-820-6126&nbsp; | &nbsp; 7,845,354 Bags Shipped Since 1999&nbsp; | &nbsp; Free Returns</b></font><br></td>
 </tr>
 <tr bgcolor="#ececec">
 <td width="93">&nbsp;</td>
@@ -353,10 +389,10 @@ Are there additional Brands or Products that you would like to see on eBags? Is 
 </tr>
 <tr><td align="center" colspan="5"><a href="http://www.ebags.com/giftcertificates/index.cfm" class="sml2">Gift Certificates</a> | <a href="http://www.ebags.com/about/index.cfm?Fuseaction=about&amp;sub_site_ID=20" class="sml2">About eBags</a> | <a href="http://www.ebags.com/about/index.cfm?Fuseaction=jobs" class="sml2">Careers</a> | <a href="http://www.ebags.com/info/index.cfm?Fuseaction=overview&amp;sub_site_ID=20" class="sml2">Affiliate Info</a> | <a href="http://www.ebags.com/help/index.cfm?fuseaction=privacy" class="sml2">Privacy</a> | <a href="http://www.ebags.com/info/index.cfm?FuseAction=security" class="sml2">Security</a> | <a href="http://www.ebagscorporate.com/index.cfm?sourceid=EBAGLINK" class="sml2">High Volume Orders</a> | <a href="http://www.ebags.com/SiteMap" class="sml2">Site Map</a></td></tr>
 <tr><td align="center" colspan="5">
-<img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/flag_us_mini.gif" border="0" style="/;margin-right:5px; margin-bottom:-3px">eBags USA &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.ebags.co.uk"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/flag_uk_mini.gif" border="0" style="/;margin-right:5px; margin-bottom:-3px">eBags UK</a> <p>
+<img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/flag_us_mini.gif" border="0" style="/;margin-right:5px; margin-bottom:-3px">eBags USA &nbsp;&nbsp;
 <font class="sml2">© 1999 - 2008 eBags, Inc. All rights reserved.</font>
-</p></td></tr>
-<tr><td align="center" colspan="5"><a href="##" onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/cps/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.paypal.com/en_US/i/logo/PayPal_mark_37x23.gif" border="0" hspace="20"></a><a href="/info/index.cfm?fuseaction=aaa"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/aaa_logo.gif" border="0" height="30" width="49"></a> <a href="/info/index.cfm?fuseaction=aaa" class="sml2">AAA Members Click Here</a><p><span class="sml2">All other trademarks not owned by eBags.com or its subsidiaries that appear on this site are the property of their respective owners.</span></p></td></tr>
+</td></tr>
+<tr><td align="center" colspan="5"><a href="##" onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/cps/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="http://www.paypal.com/en_US/i/logo/PayPal_mark_37x23.gif" border="0" hspace="20"></a><a href="/info/index.cfm?fuseaction=aaa"><img src="http://a1512.g.akamaitech.net/f/1512/124/1h/images.ebags.com/img/aaa_logo.gif" border="0" height="30" width="49"></a> <a href="/info/index.cfm?fuseaction=aaa" class="sml2">AAA Members Click Here</a><p><span class="sml2">All other trademarks not owned by eBags.com or its subsidiaries that appear on this site are the property of their respective owners.</span></p></td></tr>
 </tbody></table>
 <script type="text/JavaScript" src="/LivePerson/View/conversion_script.js"></script>
 <script type="text/JavaScript" src="https://sales.liveperson.net/hc/16136262/x.js?cmd=file&amp;file=chatScript3&amp;site=16136262"></script>
@@ -366,10 +402,10 @@ Are there additional Brands or Products that you would like to see on eBags? Is 
 <img border="0" width="1" height="1" src="http://track.roiservice.com/track/pixel.gif.aspx?roiid=938394107000025&amp;sid=&amp;desc=landingpage&amp;refr=">
 <script language="JavaScript"><!--
 {
-document.write("<img src=https://tracking.searchmarketing.com/welcome.asp?SMCID=261&x="+escape(document.referrer)+" width=1 height=1>");
+document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=261&x="+escape(document.referrer)+" width=1 height=1>");
 }
 //-->
-</script><img src="https://tracking.searchmarketing.com/welcome.asp?SMCID=261&amp;x=" width="1" height="1">
+</script><img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=261&amp;x=" width="1" height="1">
 <!-- eBags Analytics -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
