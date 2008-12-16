@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the xoops.org privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505234051id_/http%3A//www.xoops.org/modules/wfchannel/index.php%3Fpagenum%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoops.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161947id_/http%3A//xoops.org/modules/wfchannel/index.php%3Fpagenum%3D4) for the most accurate reproduction.*
 
 # All about XOOPS : XOOPS Project
 
 Who's Online
 
-**329** user(s) are online ( **1** user(s) are browsing **All about XOOPS** )
+**86** user(s) are online ( **1** user(s) are browsing **All about XOOPS** )
 
 Members: 2  
-Guests: 327
+Guests: 84
 
-[azfaiz](http://www.xoops.org/userinfo.php?uid=52363), [johnjoda](http://www.xoops.org/userinfo.php?uid=53981), more...
+[Shiva](http://www.xoops.org/userinfo.php?uid=51009 "Shiva"), [sailjapan](http://www.xoops.org/userinfo.php?uid=41644 "sailjapan"), more... 
 
 | 
 
@@ -62,7 +62,7 @@ If XOOPS becomes aware that a user's personal information provided to XOOPS has 
 
  **Updates to the Privacy Statement**
 
-To update the Privacy Statement, we will post both the changed version and its effective date at [](http://www.xoops.org/privacy)[www.xoops.org/privacy](http://www.xoops.org/privacy)
+To update the Privacy Statement, we will post both the changed version and its effective date at [](http://www.xoops.org/privacy)[www.xoops.org/privacy](http://www.xoops.org/privacy "www.xoops.org/privacy")
 
  **No Guarantees For Factors Beyond XOOPS's Control**
 
@@ -73,6 +73,10 @@ While this Privacy Statement expresses XOOPS's standards for maintenance of priv
   
 
 
-|   
+| 
+
+Developers for Hire
+
+[](http://www.xoops.org/modules/newbb/viewtopic.php?topic_id=64294&forum=30)  
   
 ---|---|---
