@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the iberiabank.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517144057id_/http%3A//iberiabank.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iberiabank.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216084036id_/http%3A//www.iberiabank.com/privacy.cfm) for the most accurate reproduction.*
 
 # IBERIABANK
 
-[](https://web.archive.org/web/20080517144057id_/http%3A//iberiabank.com/default.cfm)
+[](https://web.archive.org/web/20081216084036id_/http%3A//www.iberiabank.com/default.cfm)
 
-Saturday, May 17, 2008
+Tuesday, December 16, 2008
 
-##  Merger News 
+##  New Deposit Insurance Limits 
 
-IBERIABANK Corporation Announces [Pulaski Bank & Trust](http://www.iberiabank.com/irPressRelease.cfm?releaseID=1143093) Company Expansion [ ](http://www.iberiabank.com/irPressRelease.cfm?releaseID=1143093)
+On October 3, 2008, FDIC deposit insurance temporarily increased from $100,000 to $250,000 per depositor through December 31, 2009.
 
 ##  Easy Switch Kit 
 
 Click for our [Easy Switch Kit](http://www.iberiabank.com/pdfs/pdfLibrary/Switchkitonline.pdf).
 
-##  [ e-Statements ](https://web.archive.org/web/20080517144057id_/http%3A//iberiabank.com/specials.cfm?selSpecial=1112)
+##  [ e-Statements ](https://web.archive.org/web/20081216084036id_/http%3A//www.iberiabank.com/specials.cfm?selSpecial=1112)
 
 Go Paperless... what a great way to view your statements anytime. Learn More!
 
-  * [Reorder Checks Online](https://web.archive.org/web/20080517144057id_/http%3A//iberiabank.com/checkReorder.cfm)
-  * [Learn More About Online Banking](https://web.archive.org/web/20080517144057id_/http%3A//iberiabank.com/onlineFeatures.cfm)
+  * [Reorder Checks Online](https://web.archive.org/web/20081216084036id_/http%3A//www.iberiabank.com/checkReorder.cfm)
+  * [Learn More About Online Banking](https://web.archive.org/web/20081216084036id_/http%3A//www.iberiabank.com/onlineFeatures.cfm)
   * Deluxe Gift Card
 
 
@@ -53,9 +53,9 @@ How? | All financial companies need to share clients’ personal information to 
 **For our marketing purposes** – to offer our products and services to you  | Yes | No  
 **For joint marketing with other financial companies** | Yes | No  
 **For our affiliates’ everyday business purposes** – information about your transactions and experiences  | Yes | No  
-**For affiliates to market to you** | Yes | No  
-**For our affiliates’ everyday business purposes –** information about your creditworthiness or from your applications with us | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20080517144057id_/http%3A//iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf)  
-**For non-affiliates to market to you** | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20080517144057id_/http%3A//iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf)  
+**For affiliates to market to you** | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20081216084036id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf)  
+**For our affiliates’ everyday business purposes –** information about your creditworthiness or from your applications with us | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20081216084036id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf)  
+**For non-affiliates to market to you** | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20081216084036id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf)  
 **Sharing practices**  
 ---  
 **How often does IBERIABANK notify me about their practices?** | We must notify you about our sharing practices when you open an account and each year while you are a client.   
@@ -75,6 +75,7 @@ We collect your nonpublic personal information about you from the following sour
 Federal law gives you the right to limit sharing only for: 
 
   * affiliates’ everyday business purposes-information about your creditworthiness 
+  * affiliates to market to you based on your personal information that we collect
   * non-affiliates to market to you 
 
 State laws and individual companies may give you additional rights to limit sharing.   
@@ -112,7 +113,7 @@ A formal agreement between nonaffiliated financial companies that together marke
 **Sharing practices**  
 **Contact us** | 
 
-**By mail:**[Print this mail-in form](https://web.archive.org/web/20080517144057id_/http%3A//iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf) (PDF), mark your choices, fill in and send form to: 
+**By mail:**[Print this mail-in form](https://web.archive.org/web/20081216084036id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/foronlineib.pdf) (PDF), mark your choices, fill in and send form to: 
 
 Customer Privacy Control Desk  
 IBERIABANK  
