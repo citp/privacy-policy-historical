@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610071409id_/http%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015548id_/http%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Paul Tan's Automotive News
+# Privacy Policy
 
 paultan.org collects information when a site visitor submits a form. We do not share this information with any third parties without the express permission of the user. We collect site traffic information in order to help us deliver high quality content to our visitors. We do not collect any information though our traffic logging that allows us to personally identify users. You may opt out of receiving any contact from us.
 
