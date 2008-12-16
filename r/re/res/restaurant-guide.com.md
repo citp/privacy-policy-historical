@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restaurant-guide.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626084146id_/http%3A//www.restaurant-guide.com/uk%2Bprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurant-guide.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154752id_/http%3A//www.restaurant-guide.com/uk%2Bprivacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement From Restaurant-Guide.com
 
@@ -8,7 +8,7 @@
 
 General
 
-Our Privacy Policy is designed to tell you about our practices regarding the collection, use and disclosure of information that you may provide via restaurant-guide.com website. Whenever you use this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
+Our Privacy Policy is designed to tell you about our practices regarding the collection, use and disclosure of information that you may provide via this website. Whenever you use this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
 
 Ways that we collect information
 
