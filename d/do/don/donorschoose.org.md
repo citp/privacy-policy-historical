@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619222317id_/http%3A//www.donorschoose.org/help/privacy_policy.html%3Fzone%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216055308id_/http%3A//www.donorschoose.org/help/privacy_policy.html%3Fzone%3D0) for the most accurate reproduction.*
 
 # DonorsChoose.org: Privacy Policy
-
-Crate and Barrel  
-
-
-Budget Rent A Car  
-
 
 | 
 
@@ -17,7 +11,7 @@ This document contains the privacy practices for the DonorsChoose.org web site a
 
 1\. _How Does DC Collect Information?_
 
-Our web server automatically recognizes and collects the domain name and IP address of visitors to our Sites. In addition, we collect information volunteered by the visitor to participate in activities on the Sites, such as making a donation, purchasing or redeeming a gift certificate, funding a project in someone's honor, opening a gift registry of favorite projects, creating or participating in a challenge, responding to surveys, registering to create an account, requesting email newsletters and/or contacting us through one or more of our contact email addresses. DC also collects personal information when you create an account. When you create an account we ask for information such as your name, email address, postal address, and phone number. If a visitor has enabled cookies in their browser, we also will send a cookie file that will only store a unique, random session ID that is maintained throughout the session to track the pages visited, allowing us to provide visitors to our Sites with certain conveniences, such as delivering unique content. We also use cookies to track the path of users through our Sites, and to keep track of where they came from (for example, if they arrive via a search engine). We also collect aggregate tracking information derived mainly from tallying page views throughout our Sites. 
+Our web server automatically recognizes and collects the domain name and IP address of visitors to our Sites. In addition, we collect information volunteered by the visitor to participate in activities on the Sites, such as making a donation, purchasing or redeeming a GivingCard, funding a project in someone's honor, opening a gift registry of favorite projects, creating or participating in a challenge, responding to surveys, registering to create an account, requesting email newsletters and/or contacting us through one or more of our contact email addresses. DC also collects personal information when you create an account. When you create an account we ask for information such as your name, email address, postal address, and phone number. If a visitor has enabled cookies in their browser, we also will send a cookie file that will only store a unique, random session ID that is maintained throughout the session to track the pages visited, allowing us to provide visitors to our Sites with certain conveniences, such as delivering unique content. We also use cookies to track the path of users through our Sites, and to keep track of where they came from (for example, if they arrive via a search engine). We also collect aggregate tracking information derived mainly from tallying page views throughout our Sites. 
 
 2\. _How Does DC Protect Information?_
 
@@ -33,7 +27,7 @@ Email addresses provided by users of the Sites will only be used to send email f
 
 Postal addresses collected on-line may be used for various mailings from DC and its affiliates, including the forwarding of student and teacher thank you letters or other correspondence and pictures in appreciation of your donation. Postal addresses are not sold, leased or bartered to or with any third parties. 
 
-3.3 _Donations, Registries and Other Services_. By voluntarily providing us with your name, credit card information, e-mail address, postal address, telephone number, billing address, and any other personally identifiable information, you consent to our use of such information for the purpose(s) for which it was collected, such as processing your donations, issuing or redeeming gift certificates, opening a gift registry, funding a project in someone's honor, and/or for providing any other service or product you request. 
+3.3 _Donations, Registries and Other Services_. By voluntarily providing us with your name, credit card information, e-mail address, postal address, telephone number, billing address, and any other personally identifiable information, you consent to our use of such information for the purpose(s) for which it was collected, such as processing your donations, issuing or redeeming GivingCards, opening a gift registry, funding a project in someone's honor, and/or for providing any other service or product you request. 
 
 3.4 _Aggregate Data_. DC may collect information about the use of the Sites, such as the types of services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually. DC may use this aggregate, non-identifying statistical data for statistical analysis, marketing or similar promotional purposes. This may include disclosure of this information to a third party market analysis firm. 
 
@@ -49,7 +43,7 @@ We do not sell, trade, or rent your personal information to others without your 
 
 4.3 _Gift Registry_. When a visitor to a Site creates a gift registry account enabling donors to contribute funds for a specific project in honor of a named person (for example, contributing funds to honor someone's birthday, anniversary or other special event), the named person's first and last name may be displayed to various users of the Sites; however, no other personal information about the named person will be disclosed on the Sites. By providing such named person's first and last name, you represent to DC that you have permission to provide and grant DC the right to disclose such information. 
 
-4.4 _Gift Certificates_. The name, donation amount, and redemption code of donors who redeem gift certificates issued by DC's corporate partners will be shared with the company that issued the donor the gift certificate. DC is not responsible for the privacy practices of those companies. For more information regarding the handling of your information by those companies, please refer to the privacy policies of those companies. For more information regarding redemption of gift certificates, you can email us at giftcertificates@donorschoose.org. 
+4.4 _GivingCards_. The name, donation amount, and redemption code of donors who redeem GivingCards issued by DC's corporate partners will be shared with the company that issued the donor the GivingCard. DC is not responsible for the privacy practices of those companies. For more information regarding the handling of your information by those companies, please refer to the privacy policies of those companies. For more information regarding redemption of GivingCards, you can email us at giftcertificates@donorschoose.org. 
 
 4.5 _Matching Contributions_. We may disclose your contact information (name, postal address, email address and telephone number) and donation information (donation amount and supported projects) to your employer if you have notified us that your employer will match your donation for the purposes of enabling your employer to make a matching donation. DC is not responsible for the privacy practices of your employer. For more information regarding the handling of your information by your employer, please refer to your employer's privacy policies. 
 
