@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060947id_/http%3A//www.hostels.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011706id_/http%3A//www.hostels.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to Hostels.com / The Internet Guide to Hostelling - Every hostel, Everywhere
-
-|  | 
 
 PRIVACY AND SECURITY STATEMENT
 
@@ -33,6 +31,3 @@ On occasions, we may supply statistics about our customers to third-parties such
 Hostels.com, ITS DIRECTORS, EMPLOYEES, SERVANTS AND AGENTS, AFFILIATES OR OTHER REPRESENTATIVES AND THEIR RESPECTIVE PARENT AND SUBSIDIARY COMPANIES SHALL NOT BE LIABLE IN RESPECT OF ANY CLAIMS, EMERGENCIES, DEMANDS, CAUSES OF ACTION, DAMAGES, LOSSES, EXPENSES INCLUDING WITHOUT LIMITATION, REASONABLE ATTORNEY FEES AND COSTS OF PROCEEDINGS ARISING OUT OF OR IN CONNECTION WITH THE USE AND/OR DISSEMINATION OF PERSONAL INFORMATION RELATING TO YOU IN ACCORDANCE WITH THIS PRIVACY POLICY AND YOUR CONSENT. 
 
 Hostels.com reserves the right in its sole discretion to amend this Privacy and Security Statement at any time and you should regularly check this privacy policy for any amendments. 
-
-|   
----|---|---
