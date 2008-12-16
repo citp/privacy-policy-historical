@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the superslots.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512154130id_/http%3A//www.superslots.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superslots.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152335id_/http%3A//www.superslots.com/privacy.php) for the most accurate reproduction.*
 
-# Super Slots Privacy Policy - How to use this Online Slots Theme Casino Site
+# Super Slots Online Casino Privacy Policy
 
-##  Privacy Policy 
-
-EH New Ventures Inc. (EHNVI) is committed to respecting the privacy of all website visitors. This privacy statement discloses the privacy practices for [superslots.com](http://www.superslots.com/)'s entire website.
+EH New Ventures Inc. (EHNVI) is committed to respecting the privacy of all website visitors. This privacy statement discloses the privacy practices for [superslots.com](http://www.superslots.com/ "Super Slots")'s entire website.
 
 EHNVI is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
 
@@ -48,7 +46,7 @@ EHNVI offers users the opportunity to unsubscribe so as not receive any future c
 
   * Clicking on the unsubscribe link within the communication. Enter and submit the email address to be removed from our mailing list distribution.
   * Replying to a communication with the word UNSUBSCRIBE in the subject line.
-  * Contacting the customer service support team by [email](https://web.archive.org/support/support.php).
+  * Contacting the customer service support team by [email](https://web.archive.org/support/ "Email").
 
 
 
