@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fugly.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509124510id_/http%3A//www.fugly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fugly.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030132id_/http%3A//www.fugly.com/privacy) for the most accurate reproduction.*
 
 # Fugly.com Privacy Policy
 
