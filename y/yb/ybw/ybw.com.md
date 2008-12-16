@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ybw.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608222920id_/http%3A//www.ybw.com/ybw/ipc_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ybw.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160728id_/http%3A//www.ybw.com/ybw/ipc_privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -14,7 +14,7 @@ Pixel tags are used to read cookies.
 
 Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser. However some of the cookies sent to your browser will help us to save you time, for example by remembering your contact details when you are making an order for the second time — this means that you will not have to complete your contact details section again unless they have changed. In addition you may find that some parts of the site will not function properly if you refuse cookies. 
 
-We may share your information with other members of the AOL Time Warner Group of companies, including certain offices in the United States for internal management and administration purposes. We may also share your information with certain reputable third parties in order to fulfil your order or request or in order to obtain professional advice. If you would like details of who these companies are, please write to Company Secretariat, Room 0820, King’s Reach Tower, Stamford Street, London SE1 9LS. 
+We may share your information with other members of the AOL Time Warner Group of companies, including certain offices in the United States for internal management and administration purposes. We may also share your information with certain reputable third parties in order to fulfil your order or request or in order to obtain professional advice. If you would like details of who these companies are, please write to Company Secretariat, Blue Fin Building, 110 Southwark Street, London SE1 0SU. 
 
 It is possible that IPC Media could merge or be acquired by another business. If this happens, we may share the information that relates to you. You will be sent notice of such an event. 
 
