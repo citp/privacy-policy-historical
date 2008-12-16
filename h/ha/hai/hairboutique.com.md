@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612000529id_/http%3A//hairboutique.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012431id_/http%3A//hairboutique.com/privacy.asp) for the most accurate reproduction.*
 
 # HairBoutique.com - Privacy Policy
 
@@ -20,7 +20,7 @@ Our online surveys ask visitors for contact information (like their email addres
 
 We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+We use third-party advertising companies to serve ads. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [http://networkadvertising.org/consumer/opt_out.asp](http://cts.vresp.com/c/?TACODA/97c75013d4/fc65bc108b/f13f6fdf4c).
 
 Public Forums
 
