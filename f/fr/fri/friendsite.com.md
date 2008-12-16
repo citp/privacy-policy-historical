@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friendsite.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629010516id_/http%3A//www.friendsite.com/privacy/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsite.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015630id_/http%3A//friendsite.com/privacy/privacy-policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy | FRIENDSITE - the FREE Social Networking Site for Friends!
+# Privacy Policy | The Site Where Friends Connect With Friends
 
 **Our Commitment to Privacy  
 **It is the policy of FRIENDSITE.COM to respect your privacy. To better protect your privacy we provide this notice explaining our online information practices at HTTP://FRIENDSITE.COM (the "Site") and the choices you can make about the way your information is collected and used. This notice applies only to information collected or submitted on the Site. By using the Site, you agree to the collection and use of your information as described herein. We reserve the right to change these terms and will post any changes on this page so that you are always aware of what information we collect and how we use it. We encourage you to check this page regularly. Your continued use of the Site following any changes will constitute your acceptance of such changes.
