@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weber.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628204918id_/http%3A//www.weber.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weber.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155807id_/http%3A//www.weber.com/support/privacy) for the most accurate reproduction.*
 
 # Weber Grills and Accessories - Support
 
