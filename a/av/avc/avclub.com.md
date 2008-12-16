@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avclub.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611005713id_/http%3A//www.theonion.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avclub.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011342id_/http%3A//www.theonion.com/content/privacy) for the most accurate reproduction.*
 
 # privacy | The Onion - America's Finest News Source
 
