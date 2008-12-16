@@ -1,0 +1,546 @@
+<!--The following is the downloaded HTML source of the jillkonrath.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216012049id_/http%3A//www.sellingtobigcompanies.com/content_display.jsp%3Ftop%3D21141) for the most accurate reproduction.-->
+
+<html><head>
+		
+		<title>Privacy Policy</title>
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<!-- main calendar program -->
+
+	<script language="JavaScript">
+		function popWin(pageName,windowWidth,windowHeight)
+		{
+			window.open(pageName, 'window', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=no,width='+windowWidth+',height='+windowHeight+',top=150,left=150');return false;
+		}
+
+		var newWindow;
+		function makeNewWindow(siteObjectID, publish){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open("publish_unpublish_survey.jsp?siteObjectID=" + siteObjectID + "&publish=" + publish,"","scrollbars,resizable");
+			}else{
+				newWindow.focus();
+			}
+		}
+		function makeSurveyWindow(siteObjectID, respInd){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open("view_survey.jsp?top=21141&siteObjectID=" + siteObjectID + "&start=0&pagenumber=1&admin=false&respInd=" + respInd,"","toolbar,location,dependent,scrollbars,resizable,width=500,height=600");
+			}else{
+				newWindow.focus();
+			}
+		}
+		function makeSurveyResponseWindow(siteObjectID){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open("view_survey_responses.jsp?siteObjectID=" + siteObjectID + "&start=0&pagenumber=1","","toolbar,dependent,scrollbars,resizable");
+			}else{
+				newWindow.focus();
+			}
+		}
+		function makeLinkWindow(newURL){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open(newURL,"","toolbar,location,statusbar,menubar,dependent,scrollbars,resizable,height=600,width=800");
+			}else{
+				newWindow.focus();
+			}
+		}
+		function makeVideoWindow(filename, siteObjectID){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open("display_video.jsp?siteObjectID="+siteObjectID+"&toURL="+filename,"","scrollbars,dependent,height=350,width=600");
+			}else{
+				newWindow.focus();
+			}
+		}
+		function openPublishWindow(siteObjectID,publish){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open("/admin_common/publish_unpublish_site_object.jsp?siteObjectID=" + siteObjectID + "&action=" + publish,"","scrollbars,resizable,height=400,width=600");
+			}else{
+				newWindow.focus();
+			}
+		}
+		function openPublishWindowForContent(siteObjectID){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open("/admin_common/publish_content.jsp?siteObjectID=" + siteObjectID + "&action=publish","","scrollbars,resizable,height=400,width=600");
+			}else{
+				newWindow.focus();
+			}
+		}
+		function openUnPublishWindowForContent(siteObjectID){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open("/admin_common/unpublish_content.jsp?siteObjectID=" + siteObjectID + "&action=publish","","scrollbars,resizable,height=400,width=600");
+			}else{
+				newWindow.focus();
+			}
+		}
+		function openEditPublishDatesWindow(siteObjectID){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open("/admin_common/edit_publish_dates.jsp?action=publish&siteObjectID=" + siteObjectID,"","scrollbars,resizable,height=400,width=600");
+			}else{
+				newWindow.focus();
+			}
+		}
+		
+		function openWindow(pageURL){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open(pageURL,"","scrollbars,resizable,height=400,width=600");
+			}else{
+				newWindow.focus();
+			}
+		}
+		
+		//	MM/DD/YY
+		function checkDate(TestDate)
+		{
+			var rightDate = true;
+			if(TestDate.indexOf("/") == -1)
+			{
+				rightDate = false;
+			}	
+			else
+			{
+				var theTokens = TestDate.split("/");
+				if ( theTokens.length != 3 )
+				{
+					rightDate = false;
+				}
+				else
+				{
+					var tokenIndex;
+					for ( tokenIndex = 0; tokenIndex < theTokens.length; tokenIndex++ ) 
+					{
+						theTokens[tokenIndex] = new String(theTokens[tokenIndex])			
+						if ( theTokens[tokenIndex].charAt(0) == '0' )
+							theTokens[tokenIndex] = theTokens[tokenIndex].substring(1, theTokens[tokenIndex].length);
+					}
+					// MM/dd/yy
+					if(theTokens[2] < 0)
+					{
+						rightDate = false;
+					}
+					if(theTokens[0]>12 || theTokens[0]<0)
+					{
+						rightDate = false;
+					}
+					if(theTokens[1]>31 || theTokens[1]<0)
+					{
+						rightDate = false;
+					}
+				}
+			
+			}
+			if(!rightDate)
+			{
+				return false;
+			}
+			return true;
+		}
+		
+		function checkTime(TestTime)
+		{
+			var rightTime = true;
+			var sTime = new String(TestTime);
+			if(sTime.indexOf(" ") == -1)
+			{
+				rightTime = false;
+			}
+			if(sTime.indexOf(":") == -1)
+			{
+				rightTime = false;
+			}
+			if((sTime.toLowerCase().indexOf("pm") == -1) && (sTime.toLowerCase().indexOf("am") == -1))
+			{
+				rightTime = false;
+			}
+			if(!rightTime)
+			{
+				return false;
+			}
+			return true;
+		}
+		
+	// Added by Tom to track mouse position and show the "pleasewait.gif" when clicked on a slow responding link
+		function initTinyMCE(obj) {
+tinyMCE.init({
+        mode : "exact",
+        elements : "ContentText",
+        theme : "advanced",
+        plugins : "table,save,advhr,advimage,advlink,emotions,iespell,insertdatetime,preview,zoom,flash,searchreplace,print,contextmenu",
+        theme_advanced_buttons1_add_before : "save,separator",
+        theme_advanced_buttons1_add : "fontselect,fontsizeselect",
+        theme_advanced_buttons2_add : "separator,insertdate,inserttime,preview,zoom,separator,forecolor,backcolor",
+        theme_advanced_buttons2_add_before: "cut,copy,paste,separator,search,replace,separator",
+        theme_advanced_buttons3_add_before : "tablecontrols,separator",
+        theme_advanced_buttons3_add : "emotions,iespell,flash,advhr,separator,print",
+        theme_advanced_toolbar_location : "top",
+        theme_advanced_toolbar_align : "left",
+        theme_advanced_path_location : "bottom",
+        plugin_insertdate_dateFormat : "%Y-%m-%d",
+        plugin_insertdate_timeFormat : "%H:%M:%S",
+        extended_valid_elements : "a[name|href|target|title|onclick],img[class|src|border=0|alt|title|hspace|vspace|width|height|align|onmouseover|onmouseout|name],hr[class|width|size|noshade],font[face|size|color|style],span[class|align|style]",
+        external_link_list_url : "example_data/example_link_list.js",
+        external_image_list_url : "example_data/example_image_list.js",
+        flash_external_list_url : "example_data/example_flash_list.js"
+});
+
+		}
+
+			function replace(s, t, u) {
+  /*
+  **  Replace a token in a string
+  **    s  string to be processed
+  **    t  token to be found and removed
+  **    u  token to be inserted
+  **  returns new String
+  */
+  				i = s.indexOf(t);
+  				r = "";
+  				if (i == -1) return s;
+  				r += s.substring(0,i) + u;
+  				if ( i + t.length < s.length)
+    					r += replace(s.substring(i + t.length, s.length), t, u);
+  				return r;
+  			}
+
+			function pausecomp(millis) 
+			{
+			date = new Date();
+			var curDate = null;
+
+			do { var curDate = new Date(); } 
+			while(curDate-date < millis);
+			} 
+
+
+			var IE = document.all?true:false
+
+			// If NS -- that is, !IE -- then set up for mouse capture
+			if (!IE) document.captureEvents(Event.MOUSEMOVE)
+			document.onmousemove = getMouseXY;
+			var tempX = 0
+			var tempY = 0
+						
+			function getMouseXY(e) {
+			if (IE) { // grab the x-y pos.s if browser is IE
+				tempX = event.clientX + document.body.scrollLeft
+				tempY = event.clientY + document.body.scrollTop
+			} else {  // grab the x-y pos.s if browser is NS
+				tempX = e.pageX
+				tempY = e.pageY
+			}  
+			// catch possible negative values in NS4
+			if (tempX < 0){tempX = 0}
+			if (tempY < 0){tempY = 0}  
+			// show the position values in the form named Show
+			// in the text fields named MouseX and MouseY
+			//document.Show.MouseX.value = tempX
+			//document.Show.MouseY.value = tempY
+			return true
+			}
+
+
+			var lastshown ="";
+			var req = "";
+			var response = "";
+			var result = "";
+			var method = "";
+			var DivRef = "";
+
+
+
+			function loadXMLDoc(url) {
+				req = false;
+			    // branch for native XMLHttpRequest object
+			//	alert('top of loadXMLdoc:'+url);
+				
+			    	if(window.XMLHttpRequest) {
+			    	try {
+					req = new XMLHttpRequest();
+        			} catch(e) {
+					req = false;
+        			}
+    // branch for IE/Windows ActiveX version
+    				} else if(window.ActiveXObject) {
+       					try {
+        					req = new ActiveXObject("Msxml2.XMLHTTP");
+      					} catch(e) {
+        					try {
+          						req = new ActiveXObject("Microsoft.XMLHTTP");
+        					} catch(e) {
+          						req = false;
+        					}
+					}
+    				}
+				if(req) {
+					req.onreadystatechange = processReqChange;
+					req.open("GET", url, true);
+					req.send("");
+				}else {
+					alert('req was false');
+				}
+				
+			}
+
+			function processReqChange() {
+			    // only if req shows "loaded"
+			    	if (req.readyState == 4) {
+			        	// only if "OK"
+        				if (req.status == 200) {
+            					// ...processing statements go here...
+						if(req.responseXML != null) {
+							//alert("req.responseXML:"+req.responseXML+" "+req.responseText);
+							//response = req.responseXML.documentElement;
+
+      							//method = response.getElementsByTagName('method')[0].firstChild.data;
+
+      							//result = response.getElementsByTagName('result')[0].firstChild.data;
+							//alert("result:"+result);
+							//DivRef.innerHTML=result;
+							DivRef.innerHTML=req.responseText;
+							initTinyMCE("");
+				//			alert("req.responseText:"+req.responseText);
+						}
+						else {
+							alert('req.responseXML was null:'+req.responseXML);
+						}
+        				} else {
+						
+            					alert("There was a problem retrieving the XML data:\n" + req.statusText);
+        				}
+    				}
+			}
+
+			function show(id) {
+				return show(id,"","","","");
+			}
+			function show(idin,a,b,c,d){
+//				alert("Top of show:"+id+" "+a+" "+b+" "+c+" "+d);	
+				if(lastshown!="") document.getElementById(lastshown).style.visibility = "hidden";
+				var id = "default";
+
+				var width = document.body.offsetWidth;
+				var height = document.body.offsetHeight;
+				var stop = document.body.scrollTop;
+				var swid = document.body.scrollLeft;
+//				var def = document.getElementByID("default");
+
+//				alert("tempX:"+tempX);
+//				alert("tempY:"+tempY);
+				var wide = 600;
+				var tall = 600
+
+				var w = tempX - wide;
+				var h = tempY - tall;
+				if(w<0) w=0;
+				if(h<0) h=0;
+				
+				document.getElementById(id).style.left = w+"px";
+				document.getElementById(id).style.top = h+"px";
+                                document.getElementById(id).style.width = wide+"px";
+                                document.getElementById(id).style.height = tall+"px";
+
+				DivRef = document.getElementById(id); 
+				var IfrRef = document.getElementById('WaitShim'); 
+
+				DivRef.style.display = "block"; 
+				IfrRef.style.width = DivRef.offsetWidth; 
+				IfrRef.style.height = DivRef.offsetHeight; 
+				IfrRef.style.top = DivRef.style.top; 
+				IfrRef.style.left = DivRef.style.left; 
+				IfrRef.style.zIndex = DivRef.style.zIndex - 1; 
+				IfrRef.style.display = "block"; 
+
+				var url= 'http://dev.einsof.com:8104/admin_mirror/';
+//				alert('After url set:'+url);
+				if(document.all){
+					req = new ActiveXObject("Microsoft.XMLHTTP");
+//					alert("IE");
+				}
+				else if(document.getElementById){
+					req = new XMLHttpRequest();
+//					alert("NOT IE");
+				}
+//				alert('id:'+id+' url:'+url);
+				if(idin == 'editcontent' ){
+					url = url + 'mini_edit_content.jsp?siteObjectID='+a;
+//					alert("Content: before call to LoadXMLDoc:"+url);
+				}
+                                else if(idin == 'editsection' ){
+                                        url = url + 'mini_edit_site_section.jsp?siteObjectID='+a;
+  //                                      alert("Section: before call to LoadXMLDoc:"+url);
+                                }
+				DivRef.innerHTML = "<br><br><br><br><br><center><B>Loading....</b></center>";
+				loadXMLDoc(url);
+//				pausecomp(1000);
+
+			//	DivRef.innerHTML=result;
+				
+
+				document.getElementById(id).style.visibility = "visible";
+				lastshown=id;
+				
+			}
+			function hide(id) {
+				
+//				document.getElementById(id).style.visibility = "hidden";
+
+				document.getElementById('WaitShim').style.width = "0px";
+                                document.getElementById('WaitShim').style.height = "0px";
+
+                                document.getElementById(id).style.visibility = "hidden";
+
+
+			}
+		
+		
+	</script>
+</head><body background="/images/bug.gif" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><iframe id="WaitShim" src="" scrolling="no" frameborder="0" style="position:absolute; top:0px; left:0px; display:none;"> 
+</iframe> 
+
+<div id="default" style="position:absolute; width:100px; height:50px; z-index:99999; left: 100px; top: 100px;
+ background-color: #EEEEEE; layer-background-color: #EEEEEE; border: 0px none #000000; visibility: hidden;">
+</div>
+
+	
+
+		<meta http-equiv="content-type" content="text/html;charset=utf-8">
+		<link rel="STYLESHEET" href="/sitestyle.css" type="text/css">
+		<link rel="shortcut icon" href="/assets/favicon.ico">
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+			_uacct = "UA-102462-1";
+			urchinTracker();
+		</script>
+	
+	
+	<center>
+	
+	
+
+		<table height="141" width="800" cellpadding="0" cellspacing="0" border="0" bgcolor="#0041A4">			
+			<tbody><tr>
+				<td width="258" background="/images/header_background_left.jpg" style="padding-left: 12px; padding-top: 10px;" valign="top">
+				<a href="/content_display.jsp?top=8492" class="headerNav">training &amp; keynotes</a><br>
+<a href="/content_display.jsp?top=8497" class="headerNav">success products</a><br>
+<a href="/content_display.jsp?top=15261" class="headerNav">upcoming events</a><br>
+<a href="/content_display.jsp?top=8494" class="headerNav">free resources</a><br>
+<a href="/content_display.jsp?top=8505" class="headerNav">about us</a><br>
+<a href="/content_display.jsp?top=15263" class="headerNav">media center</a><br>
+
+				
+				</td>
+				<td width="345" nowrap="" bgcolor="#0041A4" background="/images/header_background_middle.jpg"></td>
+			
+				<td width="197" nowrap="" bgcolor="#0041A4" background="/images/header_background_right.jpg" align="right" valign="top" style="padding-top: 10px;">
+				<a href="/index.jsp" class="headerNav" style="padding-right: 12px; padding-top: 10px; text-decoration: none;">Home</a><br>
+				<a href="https://secure.sellingtobigcompanies.com/shopping_cart.jsp" class="headerNav" style="padding-right: 12px; padding-top: 10px; text-decoration: none;">View Cart</a>
+
+				</td>
+			</tr>
+		</tbody></table>
+		<table width="800" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td background="/images/header_nav_background.gif" height="30">
+					<table width="100%" cellpadding="0" cellspacing="0" border="0">
+						<tbody><tr><td width="10">&nbsp;</td>
+						
+			
+							<td width="100%" style="text-align: right; padding-right: 12px;">
+							<a href="http://www.sellingtobigcompanies.blogs.com/" class="topLinkBlog"> blog</a>
+&nbsp;<b class="topLinkNav"><font size="4">•</font></b>&nbsp;
+<a href="contact_us.jsp?top=8486&amp;mid=8511" class="topLinkNav"> contact us</a>
+							
+							 </td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+
+		<table width="800" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				
+
+				<td width="259" nowrap="" bgcolor="#F6F8E6" valign="top" align="center" height="100%"><br><br>
+					<table cellspacing="0" cellpadding="0" height="100%"><tbody><tr><td valign="top">
+				
+
+				</td></tr><tr><td valign="bottom">
+					<p class="sidebar_text" align="left">
+						copyright 2008. All rights reserved.<br><br>
+						
+						Selling to Big Companies is a production of Leapfrog Strategies. Your online resource for sales techniques, sales strategies, sales tips and sales training for selling products and marketing services.<br><br>
+						
+						Contact Us<br>
+						Jill Konrath<br>
+						<font color="#CC0530">651-429-1922</font><br><br>
+						
+						<a href="http://www.einsof.com" target="_blank"><img src="/assets/shared/powered_einsof_trans.gif" border="0"></a>
+						
+						<br><br><br>
+						
+<br>
+<a href="login.jsp" class="footerNav">login</a>
+<br><br>
+
+						<br><br><br><br>
+					</p>
+					</td></tr></tbody></table>
+					
+				</td>
+
+				<td width="20" nowrap="" bgcolor="#FFFFFF">&nbsp;</td>
+				<td bgcolor="#FFFFFF" valign="top" width="100%">
+
+
+	
+
+		
+		<p class="pageTitle">Privacy Policy for Selling to Big Companies</p>
+		<p class="pageDesc"></p>
+		<p>This policy was last updated on July 31, 2007.<br><br>Selling to Big Companies, a Leapfrog Strategies company, takes your privacy seriously. We strive to keep your personal and financial information totally secure. To that end, we have prepared this privacy policy to disclose and describe our information gathering and dissemination practices for this website.<br><br></p><ul><li>We pledge to hold all information you provide to us in absolute privacy.</li></ul><ul><li>We do not sell, rent, loan, or give your email address or other personal information to anybody and will never do so.</li></ul><ul><li>We will NEVER sell or rent your name or personal information to any third party without your express permission.</li></ul><b>Use of Your Personal Information</b><br>If you subscribe, your email address will be used to send the Selling to Big Companies newsletter. Special offers are sometimes sent to subscribers as well on behalf of third parties. But these third parties do not have access to your information since we alone send out the emails. However, all recipients of the newsletter may opt-out of receiving future newsletters or offers when so desired, and are given opportunity to opt-out of these emails at any time.<br><br>We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our users in general. For example, we may inform third parties about the number of subscribers to the newsletter, open rates and website pages most frequently browsed.<br><br>Only authorized employees may access your information. All employees are required to adhere to our strict privacy policies and any employee who violates the privacy policy is subject to termination and other disciplinary measures, up to being criminally prosecuted for their violation.<br><br>Aside from these uses of user information, we do not sell, nor plan to sell any user information to anyone.<br><br><b>Protection of Children's Personal Information</b><br>Selling to Big Companies is a general audience site and does not knowingly collect any personal information from children. While our website may be viewed by children, we do not wish to receive data from children. No information should be submitted to, or posted at, the Selling to Big Companies web site by visitors under 18 years of age without the express written consent of their parent or guardian.<br><b><br>Links to Third Party Sites</b>  <br>This website contains links to other web sites that are not controlled by Selling to Big Companies ("Third Party Sites"). Please note that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. The Selling to Big Companies Privacy Policy applies solely to information collected by this website.<br><br><b>Changes to this Privacy Policy</b><br>Selling to Big Companies will occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy. For material changes to this statement, Selling to Big Companies will notify our subscribers by placing prominent notice on the site.<br><br>Enforcement of this Privacy Policy and Contact Information<br>Selling to Big Companies welcomes your comments regarding our privacy policy.<br><br>IF FOR ANY REASON YOU BELIEVE THAT YOUR PRIVACY HAS BEEN BREACHED THROUGH THE USE OF OUR SITE, YOU MAY CONTACT US IMMEDIATELY BY E-MAIL, AND WE WILL DO OUR BEST TO PROMPTLY DETERMINE AND CORRECT THE PROBLEM.<br><br>
+<p></p>
+
+<!-- 0 -->
+
+
+
+
+
+						<br>
+					<br>
+					<br>
+					<br>
+					<br>
+				</td>
+				<td width="20" nowrap="" bgcolor="#FFFFFF">&nbsp;</td>
+			</tr>
+			<tr>
+			<td width="20" nowrap="" bgcolor="#F6F8E6">&nbsp;</td>
+			<td colspan="2" bgcolor="#FFFFFF" width="100%" valign="top" style="padding-left: 10px;">
+				<a href="/index.jsp?top=8486">home</a>&nbsp;
+<a href="/content_display.jsp?top=8492">training &amp; keynotes</a>&nbsp;
+<a href="/content_display.jsp?top=8497">success products</a>&nbsp;
+<a href="/content_display.jsp?top=15261">upcoming events</a>&nbsp;
+<a href="/content_display.jsp?top=8494">free resources</a>&nbsp;
+<a href="/content_display.jsp?top=8505">about us</a>&nbsp;
+<a href="/content_display.jsp?top=15263">media center</a>&nbsp;
+<br>
+				<a href="/content_display.jsp?top=21141" class="footerNav_sel">privacy policy</a>&nbsp;
+
+				</td>
+				<td width="20" nowrap="" bgcolor="#FFFFFF">&nbsp;</td>
+			</tr>
+		</tbody></table>
+		
+<br><br>
+	</center>
+
+
+
+
+
+	
+
+
+
+</body></html>
