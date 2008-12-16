@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amanet.org privacy policy that was archived on 2008-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514151111id_/http%3A//www.amanet.org/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amanet.org privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216061442id_/http%3A//www.amanet.org/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- #BeginTemplate "/Templates/three-col-template.dwt" --><!-- DW6 --><head>
 <!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
@@ -47,6 +47,7 @@ h3+h3{margin-top:-12px;}
 </script>
 <script type="text/javascript" src="/js/checkIsSeminar.js" language="javascript"></script>
 <script type="text/javascript" language="javascript" src="/js/searchSubjValidate.js"></script>
+<script type="text/javascript" language="javascript" src="/js/jquery.js"></script>
 
 <link href="/css/3col_ama.css" type="text/css" rel="stylesheet" media="all">
 <link href="/css/chromestyle.css" type="text/css" rel="stylesheet" media="all">
@@ -71,7 +72,7 @@ h3+h3{margin-top:-12px;}
 	<li style="width:10%;" class="liChromestyle"><a href="/events/" rel="specialEventsDropDownMenu" name="&amp;lid=Special_Events_Nav&amp;lpos=top">Events</a></li>	
 	<li style="width:16%;" class="liChromestyle"><a href="/books/" rel="booksDropDownMenu" name="&amp;lid=Book_SelfStudy_Nav&amp;lpos=top">Books &amp; Self Study</a></li>	
 	<li style="width:10%;" class="liChromestyle"><a href="/blended/" rel="elearnDropDownMenu" name="&amp;lid=eLearning_Nav&amp;lpos=top">Blended Learning</a></li>	
-	<li style="width:10%;" class="liChromestyle"><a href="http://www.amamember.org" rel="membershipDropMenu" name="&amp;lid=Membership_Nav&amp;lpos=top">Membership</a></li>
+	<li style="width:10%;" class="liChromestyle"><a href="https://www.amamember.org" rel="membershipDropMenu" name="&amp;lid=Membership_Nav&amp;lpos=top">Membership</a></li>
 	<li style="width:10%;" class="lastChromestyle"><a href="/aboutama/" rel="aboutAMADropDownMenu" name="&amp;lid=AboutAMA_Nav&amp;lpos=top">About AMA</a></li>
 	</ul>
 </div>
@@ -130,8 +131,8 @@ h3+h3{margin-top:-12px;}
 							
 							<!--Membership Drop Menu -->                                                   
 							<div id="membershipDropMenu" class="dropmenudiv">
-								<a href="http://www.amamember.org" name="&amp;lid=Members_Web_Site_Nav&amp;lpos=top">Members Web Site</a>
-								<a href="http://membersonly.amamember.org/my_account/" name="&amp;lid=Your_Member_Account_Nav&amp;lpos=top">Your Member Account</a>
+								<a href="https://www.amamember.org" name="&amp;lid=Members_Web_Site_Nav&amp;lpos=top">Members Web Site</a>
+								<a href="https://membersonly.amamember.org/my_account/" name="&amp;lid=Your_Member_Account_Nav&amp;lpos=top">Your Member Account</a>
 								<a href="/joinama/" name="&amp;lid=Join_AMA_Nav&amp;lpos=top">Join AMA</a>
 							</div>
 							
@@ -142,7 +143,7 @@ h3+h3{margin-top:-12px;}
 								<a href="/aboutama/senior-management.htm" name="&amp;lid= Management_Team_Nav&amp;lpos=top">Management Team</a>
 								<a href="/research/" name="&amp;lid=Research_Nav&amp;lpos=top">Research</a>
 								<a href="/aboutama/worldwide.htm" name="&amp;lid=Worldwide_Nav&amp;lpos=top">Worldwide</a>
-								<a href="/aboutama/hr/" name="&amp;lid=Career_Opportunities_Nav&amp;lpos=top">Career Opportunities</a>
+								<a href="http://careers-amanet.icims.com/amanet_careers/jobs/candidate/intro.jsp" name="&amp;lid=Career_Opportunities_Nav&amp;lpos=top">Career Opportunities</a>
 								<a href="/faculty/" name="&amp;lid=Faculty_Nav&amp;lpos=top">Faculty</a>
 								<a href="/oe/" name="&amp;lid=OE_Young_Adult_Program_Nav&amp;lpos=top">OE/Young adult program</a>
 								<a href="/aboutama/partners_sponsors.htm" name="&amp;lid=Partnerships_and_Sponsorships_Nav&amp;lpos=top">Partnerships &amp; Sponsorships</a>
@@ -306,6 +307,19 @@ document.write(d.getFullYear())
 	
 	 
 </div> <!-- closes wrapper -->
+<!-- because of google's ppc restrictions -->
+<script language="javascript" type="text/javascript">
+	var patt=new RegExp("www.american-management-association.org");
+	str = document.location.href;
+	if (patt.test(str)==true)
+	  {
+	  var idx = document.URL.indexOf('?');
+	  var parametersURL = document.URL.substring(idx, document.URL.length);
+	  //document.write("<iframe src='http://devwww.amanet.org/load.htm"+parametersURL+"' id='trackerIFrame' width=1 height=1 style='display:none;'></iframe>");
+	  document.write("<img src='http://www.amanet.org/load.cfm"+parametersURL+"' id='trackerIFrame' width=1 height=1 />");
+	  }
+</script>
+
 <!-- WebMetro Tracking JS File --->
 <script language="JavaScript" src="//tracking.dsmmadvantage.com/Clients/AMA/webmetro_dsmmtracker.js"></script>
 
