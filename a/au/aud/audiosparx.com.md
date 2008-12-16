@@ -1,16 +1,37 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512141847id_/http%3A//www.audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021458id_/http%3A//audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
+sound effects,  
+wav,  
+professional multimedia business presentations,  
+sonido para eventos,  
+sound effects mask,  
+sound effects wavs,  
+downloadable sound effects,  
+high quality sound effects,  
+sound effects,  
+royalty-free sounds,  
+16-bit sound effects,  
+hollywood sound effects,  
+geluidseffecten,  
+sonido,  
+infografia multimedia 3d,  
+24-bit sound effects,  
+royalty-free sound effects,  
+fresh sound effects,  
+find sound effects,  
+movie wavs,  
+sound wavs 
+
 |  |  | 
 
-|  **     HOME    ** |  **     SEARCH    ** |  **     SOUND EFFECTS    ** |  **     MUSIC    ** |  **     LOOPS    ** |  **     RINGTONES    ** |  **     ARTISTS    ** |  **     JOIN NOW    ** |  **     SUPPORT    **  
----|---|---|---|---|---|---|---|---  
+|  **  HOME    ** |  **     TESTIMONIALS    ** |  **     SEARCH    ** |  **     SOUND EFFECTS    ** |  **     PRODUCTION MUSIC    ** |  **     INSTRUMENTS    ** |  **     RINGTONES    ** |  **     ARTISTS    ** |  **     JOIN NOW    ** |  **     SUPPORT  **  
+---|---|---|---|---|---|---|---|---|---  
   
   
-|  |   
----|---  
-  
+
+
 **Privacy Policy of AudioSparx  **
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **By visiting us, you are accepting the privacy policy described below.**
@@ -82,3 +103,25 @@ We know that you care how your information is used, and we appreciate your trust
   
 [](https://web.archive.org/sa/)  
 | 
+
+sound effects,  
+wav sound effects,  
+hollywood edge,  
+hollywood sound effects,  
+royalty free sound effect,  
+productos audio profesional,  
+son,  
+desarrollo de aplicaciones multimedia,  
+television sound effects,  
+movie background sounds,  
+음향 효과,  
+sound effect libraries,  
+wav,  
+download sounds,  
+royalty-free sounds,  
+royalty-free sound effect,  
+surround sound effects,  
+royalty-free sound effects,  
+sound effects,  
+wav sounds,  
+sonido para eventos 
