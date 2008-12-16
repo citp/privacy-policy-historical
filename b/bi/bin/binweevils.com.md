@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612151735id_/http%3A//www.binweevils.com/info/index.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216034652id_/http%3A//www.binweevils.com/info/index.html%23privacy) for the most accurate reproduction.*
 
 # Bin Weevils - Information
 
@@ -29,51 +29,58 @@ CEG is a recent investor into Bin Weevils, for more information about CEG, pleas
 
 These Terms and Conditions apply to UK residents only
 
-1\. Entrants enter the competition by playing games and doing activities on The Bin Weevils web site. Costs to enter the competition via the Internet may vary so please check with your network operator for current charges. Entrants should seek the permission of the person paying the bill before entering.
+**Registration:**  
+1\. If you are under 13 and register an account you are representing (i.e. making a promise) that you have consent from your parents / guardian to use Bin Weevils in accordance with our terms and conditions and privacy policy. We reserve the right to permanently ban any account if we are not satisfied that such consent has been given.
+
+2\. If we are notified by a parent that their child has lied about their age when registering on Bin Weevils, we will terminate the account provided we have confirmation which satisfies us that the reporting person is indeed the parent or guardian.
+
+3\. Before registering and playing on Bin Weevils, you should read the guides found in our [Parents section](http://www.binweevils.com/parents/). It is particularly important to read the [Safety Guide](http://www.binweevils.com/parents/safety.html) and the [Safety Rules](http://www.binweevils.com/parents/rules.html). 
+
+**Special note regarding the King of the Bin competition:**  
+1\. Entrants enter the King of the Bin competition by playing games and doing activities on the Bin Weevils web site. Costs to enter the competition via the Internet may vary so please check with your network operator for current charges. Entrants should seek the permission of the person paying the bill before entering.
 
 2\. The closing date for entries is Midnight on Sunday every week. For the foreseeable future.
 
 3\. This competition is open to residents of the UK aged sixteen (16) and under, excluding employees and immediate relatives of employees of Bin Weevils Limited (the “Producer”) and/or of their respective parents, subsidiaries or affiliated companies or any other person connected with this competition. Entrants must obtain parental consent prior to entering this competition.
 
-4\. The Bin Weevil with the highest score will be contacted via e-mail and asked to supply name, age, address, (including postcode), and telephone number. An employee of Bin Weevils Limited will verify their prize claim and will then interview the prospective winner.
+4\. The Bin Weevil with the highest score will be contacted via e-mail and asked to supply name, age, address, (including postcode), and possibly telephone number. Entrants MUST obtain permission from their parents prior to sending these details. An employee of Bin Weevils Limited will verify their prize claim and may interview the prospective winner.
 
 5\. There can only be 1 winner per household per month. This is to give other people the opportunity to win a prize within that 1 month period.
 
-6\. The prize will be as listed on the prize page shown on the website for the week in question. 
-
+6\. The prize will be as listed on the prize page shown on the website for the week in question.  
 For the avoidance of doubt, the players should view the prize page on the Bin Weevils Site to see what that weekly prize is. 
 
-The prize will be posted to the winner only when all the criteria listed above have been complied. The prize fulfillment shall be at the sole discretion of the Producer.
+7\. The prize will be posted to the winner only when all the criteria listed above have been complied. The prize fulfillment shall be at the sole discretion of the Producer. Please allow up to 28 days for delivery. 
 
-7\. In the event that the Producer cannot for any reason contact the selected winner 1 month after the winner has been announced the producer reserves the right to withdraw the prize.
+8\. In the event that the Producer cannot for any reason contact the selected winner 1 month after the winner has been announced the producer reserves the right to withdraw the prize.
 
-8\. The judge’s decision is final. No correspondence will be entered into.
+9\. The judge’s decision is final. No correspondence will be entered into.
 
-9\. The Producer reserves the right to select an alternative winner in the event that the Promoter has reasonable grounds for believing that the selected winner has contravened any of these Terms and Conditions of entry.
+10\. The Producer reserves the right to select an alternative winner in the event that the Promoter has reasonable grounds for believing that the selected winner has contravened any of these Terms and Conditions of entry.
 
-10\. The winner maybe required to provide a parent’s or legal guardian’s signature as written acknowledgement of acceptance of all Terms and Conditions of the competition prior to receiving the prize.
+11\. The winner maybe required to provide a parent’s or legal guardian’s signature as written acknowledgement of acceptance of all Terms and Conditions of the competition prior to receiving the prize.
 
-11\. No responsibility can be accepted for prizes lost, delayed, misdirected, damaged or undelivered. The Producer shall not be responsible for technical errors in telecommunications networks, Internet access or otherwise preventing entry to any competition. 
+12\. No responsibility can be accepted for prizes lost, delayed, misdirected, damaged or undelivered. The Producer shall not be responsible for technical errors in telecommunications networks, Internet access or otherwise preventing entry to any competition. 
 
-12\. The prize is as stated and is non-transferable. No cash alternatives will be offered. If due to circumstances beyond the Producers control the Producer is unable to provide the stated prize, the Producer reserves the right to award a substitute prize of equal value. All prizes are subject to the additional terms and conditions of the Event organizer including any terms and conditions in relation to entrance to the Event. 
+13\. The prize is as stated and is non-transferable. No cash alternatives will be offered. If due to circumstances beyond the Producers control the Producer is unable to provide the stated prize, the Producer reserves the right to award a substitute prize of equal value. All prizes are subject to the additional terms and conditions of the Event organizer including any terms and conditions in relation to entrance to the Event. 
 
-13\. No purchase necessary. 
+14\. No purchase necessary. 
 
-14\. By entering the competition, entrants acknowledge that they may be required to be used in publicity without further consent or payment. Such publicity may include without limitation the entrant’s name and/or likeness, voice, photographs and/or video footage of the entrant, biographical information provided by the entrants/winner and/or the winner’s guests and/or any statement made by them concerning the competition and/or the prize. Entrants agree that any or all such elements may be used by the Producer in any and all media in perpetuity throughout the world as the Producer in its sole discretion sees fit. 
+15\. By entering the competition, entrants acknowledge that they may be required to be used in publicity without further consent or payment. Such publicity may include without limitation the entrant’s name and/or likeness, voice, photographs and/or video footage of the entrant, biographical information provided by the entrants/winner and/or the winner’s guests and/or any statement made by them concerning the competition and/or the prize. Entrants agree that any or all such elements may be used by the Producer in any and all media in perpetuity throughout the world as the Producer in its sole discretion sees fit. 
 
-15\. The Producer shall not be liable to the winner and/or any guests and/or parents/legal guardians for any loss or damage howsoever caused (whether in contract, tort or statutory duty or otherwise) arising out of or in connection with the competition and/or prize other than death or personal injury caused by negligence of the Producer and/or the Producer personnel and/or deceit or fraud by Producer and/or Producer personnel. 
+16\. The Producer shall not be liable to the winner and/or any guests and/or parents/legal guardians for any loss or damage howsoever caused (whether in contract, tort or statutory duty or otherwise) arising out of or in connection with the competition and/or prize other than death or personal injury caused by negligence of the Producer and/or the Producer personnel and/or deceit or fraud by Producer and/or Producer personnel. 
 
-16\. The Producer shall not be liable for any delay in performing or partial or total failure to perform any of its obligations to the winner (and/or any guests) under these competition Terms and Conditions if such delay or failure is caused by circumstances beyond its reasonable control including without limitation delays, changes, disruptions, cancellations, diversions or substitutions howsoever caused including without limitation as a result of war, terrorist action or threatened terrorist action, strikes, hostilities, civil commotions, accidents, fire, flood or natural catastrophes including where any of the above arise without limitation out of or in connection with (i) the activities of the Event organizers; (ii) any form of transportation (including but not limited to flights, trains, coaches, buses, ferries, taxis or cars); and/or (iii) by third parties providing accommodation that may be included in the prize. For the avoidance of doubt, the winner (and/or any guests and/or parents/legal guardians) shall be solely liable for any additional costs incurred as a result.
+17\. The Producer shall not be liable for any delay in performing or partial or total failure to perform any of its obligations to the winner (and/or any guests) under these competition Terms and Conditions if such delay or failure is caused by circumstances beyond its reasonable control including without limitation delays, changes, disruptions, cancellations, diversions or substitutions howsoever caused including without limitation as a result of war, terrorist action or threatened terrorist action, strikes, hostilities, civil commotions, accidents, fire, flood or natural catastrophes including where any of the above arise without limitation out of or in connection with (i) the activities of the Event organizers; (ii) any form of transportation (including but not limited to flights, trains, coaches, buses, ferries, taxis or cars); and/or (iii) by third parties providing accommodation that may be included in the prize. For the avoidance of doubt, the winner (and/or any guests and/or parents/legal guardians) shall be solely liable for any additional costs incurred as a result.
 
-17\. The name of the winner can be obtained by sending a stamped addressed envelope to Mr. J. Stanners, King of the Bin Competition Winner (Week No), Bin Weevils Limited, 220 Latimer Road, London, W10 6QY , for one (1) month after the competition closes.
+18\. The name of the winner can be obtained by sending a stamped addressed envelope to King of the Bin Competition Winner (Week No), Bin Weevils Limited, 220 Latimer Road, London, W10 6QY , for one (1) month after the competition closes.
 
-18\. Any personal information, including without limitation, the entrant's name, age, address (including postcode), telephone number and/or email address will be used solely in connection with this competition and will not be disclosed to any third party, except for the purpose of fulfilling the prize where applicable. Any personal information held by the Promoter in respect of any competition will be held on record for a short period for the purpose of ensuring fulfillment of the competition and then destroyed.
+19\. Any personal information, including without limitation, the entrant's name, age, address (including postcode), telephone number and/or email address will be used solely in connection with this competition and will not be disclosed to any third party, except for the purpose of fulfilling the prize where applicable. Any personal information held by the Promoter in respect of any competition will be held on record for a short period for the purpose of ensuring fulfillment of the competition and then destroyed.
 
-19\. All entrants agree to be bound by these Terms and Conditions, which may be amended or varied at any time by the Promoter on notice.
+20\. All entrants agree to be bound by these Terms and Conditions, which may be amended or varied at any time by the Promoter on notice.
 
-20\. These competition Terms and Conditions shall be governed by and construed in accordance with the laws of England and Wales and the courts of England shall have exclusive jurisdiction in relation to any disputes arising there from.
+21\. These competition Terms and Conditions shall be governed by and construed in accordance with the laws of England and Wales and the courts of England shall have exclusive jurisdiction in relation to any disputes arising there from.
 
-21\. Bin Weevils Limited, 220 Latimer Road, London W10 6QY  
+22\. Bin Weevils Limited, 220 Latimer Road, London W10 6QY  
 
 
 Bin Weevils is the place in cyberspace where kids can play games, enter competitions, win prizes, chat to friends and watch favourite cartoons. Bin Weevils believes in the power of kids and we urge both them and their parents to use and enjoy our Site. Whilst we encourage the interactive nature of online media, we strive to educate parents and kids about how to appropriately safeguard their privacy when travelling on the web. Our information collection practices are described below. We urge kids to check with their parents before entering any information on any website and we urge parents to discuss with their kids restrictions regarding the online release of personal information to anyone they don't know. 
@@ -151,3 +158,6 @@ Bin Weevils Limited
 220 Latimer Road   
 LONDON  
 W10 6QY
+
+The Bin Weevils Clubs allows users to gain exclusive access to certain areas within the bin. They will also receive exclusive newsletters with information about that particular club. Users will be able to unsubscribe when they receive a newsletter.   
+More information will be added here as more clubs are made.
