@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spankingtube.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612170926id_/http%3A//www.spankingtube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spankingtube.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011748id_/http%3A//www.spankingtube.com/privacy.php) for the most accurate reproduction.*
 
 # Spanking Tube - Your source for free Spanking Videos :: Privacy Policy
 
@@ -40,11 +40,11 @@ Special Note for Parents
 
 Modification and Deletion of Personally Identifiable Information (Opt-Out) 
 
-  In order to delete the personally identifiable information you submitted, notify us, to the following email address: webmaster@fetishtube.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
+  In order to delete the personally identifiable information you submitted, notify us, to the following email address: webmaster@spankingtube.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
 
 Modification 
 
-  If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: webmaster@fetishtube.com. Please note that deletion of your personally identifiable information from Spanking Tube - Your source for free Spanking Videos's database will not prevent Spanking Tube - Your source for free Spanking Videos from using gathered anonymous information. 
+  If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: webmaster@spankingtube.com. Please note that deletion of your personally identifiable information from Spanking Tube - Your source for free Spanking Videos's database will not prevent Spanking Tube - Your source for free Spanking Videos from using gathered anonymous information. 
 
 Third Parties' Practices 
 
