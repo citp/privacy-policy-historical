@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625022222id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165112id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.*
 
 # ScriptLance.com Custom Freelance Programming. Outsource web projects to programmers and designers.
 
 | |    THE 20 LATEST PROJECTS  
 ---|---  
-[Template Design Changes](http://www.scriptlance.com/projects/1214360123.shtml)  
+[Clone Of Website](http://www.scriptlance.com/projects/1229445113.shtml)  
 ---  
-[Bloggers Wanted Posters Blog](http://www.scriptlance.com/projects/1214360061.shtml)  
-[Site Stability Issues](http://www.scriptlance.com/projects/1214359887.shtml)  
-[Background Images](http://www.scriptlance.com/projects/1214359465.shtml)  
-[Ten 400-600 Word Articles](http://www.scriptlance.com/projects/1214359137.shtml)  
-[Design Installation](http://www.scriptlance.com/projects/1214359061.shtml)  
-[Flash Poker Game](http://www.scriptlance.com/projects/1214358856.shtml)  
-[Email Lists Checker/sorter](http://www.scriptlance.com/projects/1214358568.shtml)  
-[Unfiltered Link And Decoder](http://www.scriptlance.com/projects/1214358557.shtml)  
-[Youtube Type Player](http://www.scriptlance.com/projects/1214358535.shtml)  
-[Script Integration](http://www.scriptlance.com/projects/1214358318.shtml)  
-[Adult Dating Site](http://www.scriptlance.com/projects/1214355787.shtml)  
-[Private Job For Jaybee9992003](http://www.scriptlance.com/projects/1214354721.shtml)  
-[Rearrange Thumbnails. X-cart.](http://www.scriptlance.com/projects/1214354407.shtml)  
-[Seo For Candle Website](http://www.scriptlance.com/projects/1214353920.shtml)  
-[Post Articles To My Blogs](http://www.scriptlance.com/projects/1214353624.shtml)  
-[Actionscript 3 Job](http://www.scriptlance.com/projects/1214353422.shtml)  
-[View Energy](http://www.scriptlance.com/projects/1214352770.shtml)  
-[Poker Bot (i Provide Strategy)](http://www.scriptlance.com/projects/1214351482.shtml)  
-[Ajax Google Directions App](http://www.scriptlance.com/projects/1214351283.shtml)  
+[Asp.net Login](http://www.scriptlance.com/projects/1229444102.shtml)  
+[Dental Splash Page Sets](http://www.scriptlance.com/projects/1229443457.shtml)  
+[Mydogneedshelp](http://www.scriptlance.com/projects/1229443022.shtml)  
+[Dreamhost Jabber Account Add](http://www.scriptlance.com/projects/1229443015.shtml)  
+[Clone Domain Ordering](http://www.scriptlance.com/projects/1229441986.shtml)  
+[Dental Website Renovation](http://www.scriptlance.com/projects/1229441685.shtml)  
+[Ebook Website Design](http://www.scriptlance.com/projects/1229441438.shtml)  
+[Oscommerce Font Generator](http://www.scriptlance.com/projects/1229441041.shtml)  
+[Clone Of Wiziq](http://www.scriptlance.com/projects/1229440895.shtml)  
+[Netsuite Scripting And Custom](http://www.scriptlance.com/projects/1229440877.shtml)  
+[Multiple Priority Projects](http://www.scriptlance.com/projects/1229440828.shtml)  
+[Dummy Mmorpg Auctions](http://www.scriptlance.com/projects/1229440664.shtml)  
+[Css Styling For Ez Publish](http://www.scriptlance.com/projects/1229440631.shtml)  
+[Web Site/php/mysql/amemberpro](http://www.scriptlance.com/projects/1229440113.shtml)  
+[Inbound Links - 20](http://www.scriptlance.com/projects/1229440066.shtml)  
+[I Need Script For Trade Site](http://www.scriptlance.com/projects/1229439594.shtml)  
+[Social Script Point Module](http://www.scriptlance.com/projects/1229439456.shtml)  
+[Easy And Simple Design.](http://www.scriptlance.com/projects/1229439031.shtml)  
+[Write 5 Quality Articles](http://www.scriptlance.com/projects/1229438645.shtml)  
 | 
 
 ##  Privacy Statement for ScriptLance.com 
