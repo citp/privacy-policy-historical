@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011151415id_/http%3A//www.homegain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216010914id_/http%3A//www.homegain.com/privacy%3Fht%3Ddef_foot_privacy) for the most accurate reproduction.*
 
 # HomeGain -- Find a real estate agent - Realtor - Real Estate - Homes for sale - Home Buying - Home Selling - Home
 
-  
-
-
-**Effective June 28, 2007**
+**Effective May 1, 2008**
 
 HomeGain is committed to protecting the privacy of its users. When you register for HomeGain's online services, the information you provide to us is used to provide the services you have registered for, to deliver email notifications to you, and from time to time, to validate your identity. Our data collection policies with regard to current and future services allow you to choose how much information you provide to us, and to control how we use that information. Read below to find out more. 
 
@@ -37,7 +34,7 @@ Agents: We use a credit card processing company to bill you for goods and servic
 
 Service Providers: We use third party real estate agents to provide assistance in estimating the value of your home. When you sign up for our services, we will share all of your personally identifiable information so that the real estate agent can provide that service. In addition, we use a third party service. Careerbuilder.com, which hosts an online job application process for us. Careerbuilder.com may collect personal information that you provide and forward it on to us as a part of a job application. As such, any information provided to Careerbuilder.com will be covered by its privacy policy as opposed to this one. 
 
-If you post a testimonial on this web site, you should be aware that any personally identifiable information you submit here can be read, collected or used by other users of this site, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit to this site. 
+If you post to a blog on this web site, you should be aware that any personally identifiable information you submit here can be read, collected or used by other users of this site, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit to this site. We obtain prior consent to display a user’s personally identifiable information when they submit a testimonial for display on our web site. 
 
 **What about cookies**
 
@@ -45,7 +42,7 @@ A cookie is a small text file that is stored by your computer that contains info
 
 **Information Distribution**
 
-If you are providing us Personally Identifiable Information, it will be used within HomeGain's site to deliver our services. Depending on the service and your preferences provided to HomeGain when registering for these services, your Personally Identifiable Information may also be provided to intermediaries and third parties who assist HomeGain in providing the services you request. Except as otherwise provided in this Privacy Policy, however, HomeGain will not share, rent or sell your information to third parties without your permission. HomeGain may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. If requested by law enforcement or judicial authorities, we will provide this information upon receipt of the appropriate documentation. 
+If you are providing us Personally Identifiable Information, it will be used within HomeGain's site to deliver our services. Depending on the service and your preferences provided to HomeGain when registering for these services, your Personally Identifiable Information may also be provided to intermediaries and third parties who assist HomeGain in providing the services you request. Except as otherwise provided in this Privacy Policy, however, HomeGain will not share, rent or sell your information to third parties without your permission or in ways other than as disclosed in this privacy statement. HomeGain may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. If requested by law enforcement or judicial authorities, we will provide this information upon receipt of the appropriate documentation. 
 
 **EMAIL: What choices are available to you regarding collection, use, and distribution of the information**
 
@@ -59,19 +56,23 @@ The security of your personal information is important to us. When you enter sen
 
 **How you can correct any inaccuracies in the information**
 
-HomeGain believes strongly in providing you with the ability to access and edit the personal information that you have provided to us. To update the information retained about you, please visit our My HomeGain Control Center area. 
+HomeGain believes strongly in providing you with the ability to access and edit the personal information that you have provided to us. To update the information retained about you, please visit our My HomeGain control center area. 
 
-Agents click [www.homegain.com/agent/agentProfile1?mi=cr](https://web.archive.org/agent/agentProfile1?mi=cr)
+Agents click [www.homegain.com/agent/agentProfile1](https://web.archive.org/agent/agentProfile1)
 
-Consumers click [www.homegain.com/client/user_info?return_to=/welcome_02](https://web.archive.org/client/user_info?return_to=/welcome_02)
+Consumers click [www.homegain.com/client/user_info](https://web.archive.org/client/user_info)
 
 **Standard corporate transfers of information**
 
-Information about the users of our web site, including personally identifiable information, may also be disclosed in connection with certain standard business transaction such as any debt financing, acquisition or merger, sale of assets as well as in the event of a bankruptcy, assignment for benefit of creditors or receivership in which personally identifiable information could be sold or transferred to third parties as an asset. 
+Information about the users of our web site, including personally identifiable information, may also be disclosed in connection with certain standard business transaction such as any debt financing, acquisition or merger, sale of assets as well as in the event of a bankruptcy, assignment for benefit of creditors or receivership in which personally identifiable information could be sold or transferred to third parties as an asset. Please see our “Changes in this Privacy Statement” section below for how we will notify users of such an occurrence. 
 
 **Your Privacy Rights Regarding Third Party Sharing**
 
-To help service your requests, we may provide certain Personally Identifiable Information to third parties who may use this information for their own purposes, including sending advertising to you. If you would prefer to opt out of this usage of your Personally Identifiable Information, you may do so by updating your Personal Profile and opting out of such usage. To access your Personal Profile, you must first log in to www.homegain.com. However, we will still use and provide to third parties your Personally Identifiable Information to fulfill your request. 
+To help service your requests, such as a request to Find A REALTOR® or to receive a home valuation, we may provide certain Personally Identifiable Information to third parties who may use this information for their own purposes, including sending advertising to you. If you would prefer to opt out of this usage of your Personally Identifiable Information, you may do so by updating your Personal Profile and opting out of such usage. To access your Personal Profile, you must first log in to www.homegain.com. However, we will still use and provide to third parties your Personally Identifiable Information to fulfill your request. Additionally, we may have entered into agreements with various third party providers that result in the display of a co-branded web page which is hosted by the third party provider. In such instances, we are neither responsible for the content on nor for the information collection practices of such web sites, nor do we control the privacy policies of such web sites. Their policies may be substantially different in this regard from HomeGain. Accordingly, we recommend that you review their privacy and information collection policies before providing any information to such third parties. 
+
+**Share This (Blog)**
+
+If you choose to use our service to forward a blog posting from our site to a friend, we will ask you for your name and email address and for your friend’s email address. We will automatically send your friend a one-time email with the information you requested be sent. HomeGain does not store any of the information you have provided. 
 
 **Changes in this Privacy Statement**
 
@@ -88,14 +89,3 @@ If you have any questions or concerns regarding this statement, you should first
 **Privacy questions**
 
 If you have any questions about our privacy policy, please contact us at [privacy@homegain.com](mailto:privacy@homegain.com). Our office address is 1250 45th Street, Ste. 200, Emeryville, CA. 94608. 
-
-  
-
-
-Copyright © 2007 Yahoo! Inc. All rights reserved. 
-
-[Terms of Service](http://docs.yahoo.com/info/terms/) \- [Privacy Policy](http://privacy.yahoo.com/privacy/us/re/)
-
-HomeGain provides the services and information available through and collects personal information on this site.   
-For more information regarding HomeGain's privacy practices and terms, please consult our Privacy Policy and Terms of Use.   
-Yahoo! Inc. does not collect or receive any personal information submitted through this site. 
