@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terrapinn.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501054447id_/http%3A//www.terrapinn.com/Legal.aspx%3FL%3DP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrapinn.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170857id_/http%3A//www.terrapinn.com/Legal.aspx%3FL%3DP) for the most accurate reproduction.*
 
 # Terrapinn - Legal
 
