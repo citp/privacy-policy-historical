@@ -1,47 +1,47 @@
-> *The following text is extracted and transformed from the thenbs.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509054649id_/http%3A//www.thenbs.com/corporate/terms.asp%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenbs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165446id_/http%3A//www.thenbs.com/corporate/privacyPolicy.asp) for the most accurate reproduction.*
 
-# NBS | National Building Specification | Terms and Conditions
+# NBS | National Building Specification | Privacy Policy
 
-### Terms and Conditions
+### Privacy Policy
 
-  
+RIBA Enterprises Limited is committed to preserving the privacy of all visitors to its range of websites. Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
+
+**By registering or placing an order on any of these sites, you consent to the collection, use and transfer of your information under the terms of this policy.**
+
+##### Information that we collect from you
+
+We may collect the details provided by you, including details of payment cards used, when you register or order products and services from one or more of our web sites, together with information we learn from your visits and usage of these web sites and services.
+
+##### Use of your information
+
+Your information will enable us to provide you with access to all relevant parts of our sites and to supply the goods or services you have requested. It will also enable us to invoice you and to contact you where necessary concerning your orders. We will also use and analyse the information we collect so that we can administer, support, develop and improve our products and services.
+
+In particular:
+
+  * Where appropriate we may record the name and version of your software to ensure compatibility with the particular product or service being supplied
+  * Where appropriate we may download a file to your system containing new web addresses accessed by the product or services being supplied which will allow you uninterrupted use of the relevant web services
+  * If you subscribe to NBS software products, optional online access to other data will be provided and we will track usage to provide statistics for the purposes of validating and improving the service
+  * All NBS software products contain support for automated error reporting via the internet to RIBA Enterprises and this report may be sent to third parties where relevant to help us resolve your issue. 
 
 
-#### Privacy Policy
 
-You don't have to register to use the public area NBS website but you may be asked to submit information to access the subscriber-only area. If so, it is because we would like to provide you with the best service we can.
+We may also use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to the sites or our services. Further, where you have consented, we might also use your information to let you know about other products and services which we offer which may be of interest to you and we may contact you by post, telephone or fax, as well as by e-mail. You can opt out at any time by sending an email to [privacy@ribaenterprises.com](mailto:privacy@ribaenterprises.com).
 
-When you register to use a RIBA Enterprises Ltd website, RIBA Enterprises Ltd will store your e-mail address along with any other information you may provide. When you use some services on the website, we may need to collect further information about you. This information may include, but is not limited to, details such as your name and address.
+##### Disclosure of your information
 
-We may use the information provided to process any transactions undertaken by you and for internal administration and analysis.
+The information you provide to us will be held on our computers in the UK and may be accessed by or given to our staff working outside the UK and third parties who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, fulfill and deliver orders, process credit card payments and provide support services on our behalf. We may also pass aggregate information on the usage of our sites to third parties but this will not include information that can be used to identify you.
 
-We never disclose your information to any third parties outside of the RIBA Enterprises Ltd group of companies without your permission. The information may also be used to notify you of products and services from RIBA Enterprises Ltd which may be of interest to you, unless you advise RIBA Enterprises Ltd in writing of your wish not to receive such information.
+Where you have consented when providing us with your details, we may also allow carefully selected third parties, other than companies in our group, to contact you occasionally about products and services which may be of interest to you. They may contact you by post, telephone or fax, as well as by e-mail. 
 
-By disclosing your personal information, you agree to collection, storage and processing of your personal information in the manner set out here.
+If our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners. Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that third parties are aware of this policy and are required to act in accordance with this policy. Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent. 
 
-##### NBS Web Courier service
+##### Cookies
 
-Additional Terms & Conditions apply to [ usage of the NBS Web Courier service](https://web.archive.org/web/20080509054649id_/http%3A//www.thenbs.com/corporate/termsWebCourier.asp).
+Cookies are small amounts of information which we store on your computer. Our system issues these cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies although, in that case, you may not be able to use certain features on our sites. 
 
-#### Cookies
+##### Security and data retention
 
-This site makes use of session cookies. If your browser does not support session cookies, then you will be unable to use the subscriber-only area.
-
-The site also sets a long-term cookie, the purpose of which is to monitor the numbers of new and repeat visitors to the site. The information gathered by this cookie is not linked to any personal subscription information, and your use of the site will be unaffected if your browser does not support long-term cookies.
-
-The site may also allow you to store a long-term cookie with login information, to allow you to skip the login procedure. If your browser does not support long-term cookies, this functionality will be unavailable.
-
-For more information on what cookies are and how they can be switched off on your computer, see [About Cookies](http://www.aboutcookies.org/ "Link to About Cookies site").
-
-#### Disclaimer
-
-The copyright in the material contained in this website belongs to RIBA Enterprises Ltd. All rights reserved. Except solely for your own personal and non-commercial use, no part of this website may be copied, performed in public, broadcast or adapted without the prior written permission of RIBA Enterprises Ltd.
-
-RIBA Enterprises Ltd assumes no responsibility for the contents of any other websites to which any RIBA Enterprises Ltd website has links.
-
-To the extent permitted by law RIBA Enterprises Ltd shall not be liable to any person for any loss or damage which may arise from the use of any of the information contained in this website.
-
-While RIBA Enterprises Ltd has taken every effort to ensure that the information contained within this website is correct, you should be aware that the information may be incomplete, inaccurate or may have become out of date.
+We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.
 
 BackToTop
 
