@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opera.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514220956id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opera.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054736id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
-# Opera Privacy Statement
+# Opera: Privacy Statement
 
 The Opera browser offers excellent features for the protection of privacy and security when using Opera in the internet environment. It is the policy of Opera Software to process personal data for purposes that are objectively justified by Opera Software's service and to perform the processing in accordance with fundamental respect for the right to privacy, including the need to protect personal integrity and private life and to ensure that personal data are of adequate quality.
 
@@ -44,7 +44,7 @@ Users can choose not to use Hitslink.com services, **see link to instructions.**
 Users of Opera Software's products and services have the following options for changing and modifying information previously provided:
 
   * Registered users can use this [form](https://web.archive.org/support/new2opera/buy/changemail/)
-  * All visitors can send mail to the postal address listed on the [contact pages](http://www.opera.com/contact/offline/)
+  * All visitors can send mail to the postal address listed on the [contact page](https://web.archive.org/company/contact/)
 
 
 
@@ -68,12 +68,11 @@ Opera Software provides interactive environments on the Internet to enable membe
 
 If you have any questions about this privacy statement, privacy issues regarding Opera Software and our products, or privacy on our Web sites please use our contact form
 
-Postal address:   
-Opera Software ASA   
-P.O. Box 2648 St Hanshaugen   
-NO-0131 OSLO   
-Norway   
-
+Postal address:  
+Opera Software ASA  
+P.O. Box 2648 St Hanshaugen  
+NO-0131 OSLO  
+Norway
 
 ## Privacy in the Opera desktop browser
 
@@ -108,10 +107,6 @@ Opera Software strictly protects the security of your personal information withi
 ### Information Collected and Shared IP Addresses
 
 Opera Software collects visitors' IP addresses to help diagnose problems with servers, to administer Web sites, and for statistical purposes (aggregated). IP addresses will not be shared to other than Opera Software's partner for handling statistical analyses (see further information below under "Partners") or used for any purposes other than these.
-
-### Cookies
-
-Cookies are used when logging in to My.Opera.com
 
 ### Voluntary Information Sources
 
@@ -167,7 +162,7 @@ Please use our contact form if you got questions about this privacy statement, p
 
 Please see [www.opera.com/privacy](http://www.opera.com/privacy/) for Opera Software's general privacy policies.
 
-## Privacy Statment for Opera Web Mail
+## Privacy Statement for Opera Web Mail
 
 Opera Software has created this privacy statement in order to demonstrate our firm commitment to privacy. This statement discloses our information gathering and dissemination practices for Opera Web Mail.
 
