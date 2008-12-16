@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618052944id_/http%3A//www.ha.com/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216113412id_/http%3A//www.ha.com/common/privacy.php) for the most accurate reproduction.*
 
 # Heritage Privacy Policy
 
-**Heritage Privacy Policy**
-
-Any information that you provide to us is personal, private, and valuable. When you choose to provide us with information, we realize that you trust us and expect us to act responsibly. Our policy is that the information you provide will be used to better serve you. 
+  
+Heritage Privacy Policy Any information that you provide to us is personal, private, and valuable. When you choose to provide us with information, we realize that you trust us and expect us to act responsibly. Our policy is that the information you provide will be used to better serve you. 
 
 As we update and expand our services, this privacy policy will change to better serve everyone. Check back periodically for updates and feel free to contact us at any time with questions or suggestions regarding this policy.
 
@@ -51,4 +50,4 @@ Heritage limits access to personal information about you to those employees who 
 In the interest of privacy and security, we automatically expire your session when a specific period goes by without activity. Heritage takes reasonable precautions - including administrative, technical, and physical measures - to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
 **Reviewing and changing your information**  
-Heritage has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. Naturally, you always have the right to access and correct the personal information you have provided. You can help us ensure that your contact information and preferences are accurate, complete, and up to date by going to your [MyProfile](https://web.archive.org/common/myprofile.php) page.
+Heritage has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. Naturally, you always have the right to access and correct the personal information you have provided. You can help us ensure that your contact information and preferences are accurate, complete, and up to date by going to your [MyProfile](https://web.archive.org/common/myprofile.php) page. 
