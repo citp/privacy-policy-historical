@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red-gate.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609091749id_/http%3A//www.red-gate.com/about/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red-gate.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020414id_/http%3A//www.red-gate.com/about/legal.htm) for the most accurate reproduction.*
 
 # Legal information about Red Gate Software
 
@@ -47,7 +47,7 @@ When you visit our site, we automatically log your IP address which is recognize
 
 We may automatically collect non-personal information about you, such as the type of internet browsers you use or the site from which you linked to our site. You cannot be identified from this information and it is only used to assist us in providing an effective service on our site.
 
-Red Gate may share non-personal aggregate or summary, information regarding its customers with partners or other third parties, such as information relating to the number of users linking to our site from their sites but Red Gate does not sell or share any information at the individual level. 
+Red Gate may share non-personal aggregate or summary information regarding its customers with partners or other third parties, such as information relating to the number of users linking to our site from their sites but Red Gate does not sell or share any information at the individual level. 
 
 ## Cookies
 
@@ -97,4 +97,4 @@ By using our website, or giving us your details at an exhibition, you consent to
 
 ## Contacting us
 
-If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by sending an email to us at [privacy@red-gate.com](mailto:privacy@red-gate.com) or by contacting us at Red Gate Software Limited, St John's Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom. You are entitled to ask for a copy of the information we store about you (for which we may charge a small fee).
+If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by sending an email to us at [privacy@red-gate.com](mailto:privacy@red-gate.com) or by contacting us at Red Gate Software Limited, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom. You are entitled to ask for a copy of the information we store about you (for which we may charge a small fee).
