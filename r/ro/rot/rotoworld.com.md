@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rotoworld.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214090226id_/http%3A//www.rotoworld.com/pages/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotoworld.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170927id_/http%3A//www.rotoworld.com/pages/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# Fantasy Football - Baseball, Basketball, Hockey, forums, rankings, draft guide - Rotoworld.com
+# Fantasy Football, Baseball and Basketball - news, projections, rankings, draft guide - Rotoworld.com
 
 ** This Privacy Policy was last updated on November 1, 2007. 
 
