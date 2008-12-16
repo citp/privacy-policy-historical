@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirddoormedia.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629051530id_/http%3A//thirddoormedia.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirddoormedia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152015id_/http%3A//thirddoormedia.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy for Third Door Media
 
