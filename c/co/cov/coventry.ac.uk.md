@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coventry.ac.uk privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017024751id_/http%3A//www.coventry.ac.uk/home-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventry.ac.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216085959id_/http%3A//www.coventry.ac.uk/home-links/privacy) for the most accurate reproduction.*
 
-# Privacy - Coventry University
+# Privacy at Coventry University
 
 Coventry University's Website will process information about you in the following ways:
 
@@ -15,12 +15,16 @@ Information about you will only be disclosed to relevant employees of Coventry U
 
 You have a right to ask for a copy of the information we hold on you at any time, and to have that information corrected if it is inaccurate. For further details please see: Procedure for Data Subject Access Requests
 
-Summary of terms
+ **Summary of terms**
 
-**Browser** \- software used to locate and display Web pages  
-**Cookies** \- files stored on the user's machine which are designed to identify users and collect user information  
-**IP address** \- the Internet Protocol address is an identifier allocated to a computer using the Web. IP addresses may be static (a particular computer always has the same address) or dynamic (the address is different each time the computer connects to the Web) 
+ **Browser** \- software used to locate and display Web pages  
+ **Cookies** \- files stored on the user's machine which are designed to identify users and collect user information  
+ **IP address** \- the Internet Protocol address is an identifier allocated to a computer using the Web. IP addresses may be static (a particular computer always has the same address) or dynamic (the address is different each time the computer connects to the Web) 
 
-June 2004
+April 2008
+
+### International enquiry form
+
+By submitting your enquiry you are consenting to your data being held by Hobsons PLC, on behalf of Coventry University. Your data will be used for the purposes of dealing with your enquiry, and sending you relevant information about Coventry University. Neither Hobsons PLC nor Coventry University will pass your details on to any third party. If you wish to remove yourself from Coventry University's database please contact Hobsons PLC, Challenger House, 42 Adler Street, London E1 1EE, or email [enquiries.io@coventry.ac.uk](mailto:enquiries.io@coventry.ac.uk).
 
 top of page
