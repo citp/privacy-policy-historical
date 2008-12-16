@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymart.ca privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424073730id_/http%3A//www.moneymart.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymart.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216172555id_/http%3A//www.moneymart.ca/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Money Mart.ca
 
