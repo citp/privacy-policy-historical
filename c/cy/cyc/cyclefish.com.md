@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cyclefish.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517070744id_/http%3A//www.cyclefish.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclefish.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061557id_/http%3A//www.cyclefish.com/privacy.php) for the most accurate reproduction.*
 
 # CycleFish.com - Privacy Policy
 
 CycleFish.com - Privacy Policy
 
-We can be contacted through our [Contact Us](https://web.archive.org/contact.asp) or by email at; [info@cyclefish.com](mailto:info@cyclefish.com), page should you have any questions or concerns regarding our privacy policy.
+We can be contacted through our [Contact Us](https://web.archive.org/contact.php) or by email at; [info@cyclefish.com](mailto:info@cyclefish.com), page should you have any questions or concerns regarding our privacy policy.
 
 We assign a unique identifier to each user that signs up on our site. We do not share personal information with any participating merchants or other third parties. We use this unique identifier in order to provide you with the most relevant content on our site based on the information you have supplied.
 
