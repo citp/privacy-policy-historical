@@ -1,29 +1,110 @@
-> *The following text is extracted and transformed from the zillr.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613221110id_/http%3A//www.zillr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zillr.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162116id_/http%3A//www.zillr.com/privacy.php) for the most accurate reproduction.*
 
-# ZillR :: Privacy Policy
+# 
 
-ZillR is a website which deals in social networking .it helps people in developing relationships of healthy friendship worldwide by sharing ideas,emotions ,information, photographs etc. To establish this one has to create one's profile on ZillR which includes the personal information which user chooses to give. 
+## Privacy Policy
 
-**Personal Detail**  
-As a member, one can create a society that includes personal information, such as one's gender, age, occupation, hobbies, and interests, plus other content, such as photos. This information may be accessed and viewed by other Zillr members members. 
-
-while you select new members into your network or send messages through zillr we gather relevant details regarding message such as email addresses and content of messages. if you choose new members into your network or send messages through Zillr, we keep track of information associated with those messages, including email addresses and content. 
-
-ZillR also provides non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from members and users of the site .This data is utilized to maintain website,keep record of usage and for making website services better. This non-personally-identifiable information may be shared with third-parties to provide more reliable services and advertisements to visitors. User IP addresses are collected for purpose of safety and security. 
-
-**Uses**  
-ZillR gather information provide by user such as name, email address, and age to verify users and to send messages to those users relating to the ZillR services. ZillR also collects other information related to once profile which is not confined to: personal interests, gender, age, education and employment in order to help members in finding and communicating with each other. 
-
-The visitor Profile information including members' pictures and first names are made available to people in order to facilitate user interaction in the ZillR social networking society. Email addresses are utilized for many purposes such as for inviting new friends to join Zillr, to include users in members' friends' networks, and to send information related to the service. A user's email address is not conveyed to people within a user's personal network Users within a personal network communicate on ZillR with each other through the ZillR service, without disclosing their email addresses. Users' full names are never directly conveyed to other members. 
-
-To search for friends and acquaintances on the service, ZillR permits users to search for other members using first and last name, email address, and schools and companies where users may have gone or served. 
-
-From time to time, ZillR or a partner, can sponsor a promotion or contest on ZillR. Users may be asked to give personal information including name, email address or home address or to answer questions in order to participate. We may forward personal information to various ad partners that you have directly requested to receive information from. It will be clear at the time of gathering of information who is collecting the personal information and whose privacy statement will be applicable. 
-
-**Options for you**  
-ZillR provide you option to restrict your profile and personal information. When you create your account you can go to 'settings' option which allows you to limit viewing certain part of information to yourself, your friends, friends of friends, or to make the information available to all ZillR members. 
-
-  * You can make minor or major changes in your profile information at any time by using the "edit" button in your profile setting. 
-  * Messages you get from ZillR can be sent to your primary email address or ZillR Inbox, if you don't want to receive message alerts from ZillR then you need not to click the option 'new ZillR notification email in settings.
+  
 
 
+### About Us
+
+This is a privacy policy for ZillR. Our homepage on the Web is located at [http://www.zillr.com.](http://www.zillr.com/) The full text of our privacy policy is available on the web at [policy URL not specified] Users may go to for information on how to opt-in or opt-out of use of their information.
+
+We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
+
+ZillR.Com  
+#544,Top Floor Sector 70  
+Mohali, Punjab 160071   
+India 
+
+You may contact us by e-mail at [support@zillr.com](mailto:support@zillr.com). You may call us at +919872913245. 
+
+### Dispute Resolution and Privacy Seals
+
+We have no privacy seals or other assurance mechanisms. 
+
+### Additional Information
+
+This policy is valid until 31 Dec, 2009 at 12:00:00 EST.
+
+### Data Collection
+
+P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately.
+
+**Group "Basic information"**
+
+We collect the following information:
+
+* Click-stream data
+* HTTP protocol elements
+* Search terms
+
+This data will be used for the following purposes:
+
+* Completion and support of the current activity.
+* Web site and system administration.
+* Research and development.
+
+This data will be used by ourselves and our agents.
+
+The following explanation is provided for why this data is collected:  
+      Data collected from all Web users: access logs, and search strings (if entered).
+
+### Group "Cookies"
+
+At the user's option, we will collect the following data:
+* HTTP cookies
+
+This data will be used for the following purposes:
+
+* Research and development.
+* One-time tailoring.
+
+This data will be used by ourselves and our agents.
+
+The following explanation is provided for why this data is collected:
+
+      Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
+
+### Cookies
+
+Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.  
+Our site makes use of cookies. Cookies are used for the following purposes:  
+
+* User targeting
+* Research and development
+
+### Compact Policy Summary
+
+The compact policy which corresponds to this policy is:  
+     CP="ALL CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT" 
+
+The following table explains the meaning of each field in the compact policy.
+
+**Field** | **Meaning**  
+---|---  
+CP= | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
+|   
+ALL  | Access to all collected information is available.  
+CURa | The data is used for completion of the current activity.  
+ADMa | The data is used for site administration.  
+DEVa | The data is used for research and development.  
+TAIa | The data is used for tailoring the site.  
+OUR | The data is given to ourselves and our agents.  
+BUS | Our business practices specify how long the data will be kept.  
+IND | The data will be kept indefinitely.  
+UNI | Unique identifiers are collected.  
+COM | Computer information is collected.  
+NAV | Navigation and clickstream data is collected.  
+INT | Interactive data is collected.  
+  
+The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at [http://www.w3.org/TR/p3pdeployment.](http://www.w3.org/TR/p3pdeployment)
+
+### Policy Evaluation
+
+Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
+
+**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
+
+**Satisfactory policy:** this compact policy is considered satisfactory according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
