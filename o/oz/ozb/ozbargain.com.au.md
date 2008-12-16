@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the ozbargain.com.au privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204001728id_/http%3A//www.ozbargain.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozbargain.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014011id_/http%3A//www.ozbargain.com.au/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - OzBargain
 
 **OzBargain** values our users and is 100% committed to protect your privacy. Since this is a growing website and Internet technologies are constantly evolving, our privacy policy is subject to change and any change will be reflected in this page. OzBargain is not responsible for the content or privacy policy of the websites it links it.
 
 #### Collection of Information
 
 During registration for membership, we may collection information like your login name, email address and (optionally) your current location. Other personal information like birthdate, geneder, IM ids are only collected with your explicit consent. We do not collect information from visitors browsing our website.
+
+However, third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on OzBargain.
 
 #### Use of Information
 
