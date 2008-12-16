@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdtown.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611141506id_/http%3A//www.dvdtown.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdtown.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023944id_/http%3A//www.dvdtown.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Blu-ray, HD DVD, DVD Movie news, rumors and reviews - DVDTOWN.com
 
