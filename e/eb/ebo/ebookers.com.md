@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612043755id_/http%3A//www.ebookers.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012409id_/http%3A//www.ebookers.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
-This Website is operated by Flightbookers Limited (a company registered in England and Wales under number 01616788 (VAT number **381 8626 26** ) (either trading as itself or as its ABTA registered trading name ebookers .com) (“ebookers”, “us” or “we”) whose registered office is 140 Aldersgate Street, London, EC1A 4HY and whose trading address is 140 Aldersgate Street, London, EC1A 4HY. Your privacy is very important to ebookers . This Privacy Policy describes the principles and practices that apply to Personal Information (defined below) collected from users of our services ("you") on our Website, in telephone or email communications, or in competitions or prizedraws.
+This Website is operated by Flightbookers Limited (a company registered in England and Wales under number 01616788 (VAT number **381 8626 26** ) (either trading as itself or as ebookers .com) (“ebookers”, “us” or “we”) whose registered office is 140 Aldersgate Street, London, EC1A 4HY and whose trading address is 140 Aldersgate Street, London, EC1A 4HY. Your privacy is very important to ebookers . This Privacy Policy describes the principles and practices that apply to Personal Information (defined below) collected from users of our services ("you") on our Website, in telephone or email communications, or in competitions or prizedraws.
 
  **Simply put:**
 
@@ -147,8 +147,15 @@ From time to time, we may disclose your Personal Information as follows:
   * To those travel service providers with which you make arrangements through our Website, for example, airlines, car rental, hotel, ground transportation or travel insurance. We provide them with the Personal Information needed to make and complete the purchase, booking, or reservation.
   * To organisations that perform services for or on behalf of ebookers , for example to provide customer service, deliver tickets, ship items, process credit cards, for research, marketing, data processing, to measure the use of our Website or to facilitate usage by a Visitor. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in countries outside the European Economic Area ("EEA"). Your Personal Information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to ebookers , and under the instructions of ebookers , and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy. By submitting your Personal Information, you agree to the transfer, storing and processing of your data outside the EEA.
   * We may collaborate with other companies to offer you additional Products or Services, for example, through promotions, competitions and prizedraws. We will share Personal Information that is necessary for these other companies to provide the Products or Services that you have requested.
+  * Your Personal Information (including credit or debit card information) will be transferred to ‘Shopper Discounts & Rewards’ which is a third party company owned and operated by Webloyalty International Limited (referred to as Webloyalty) if you give your consent to this in the process detailed below:
 
 
+  1. Clicking the ‘CONTINUE’ button on the discount voucher offer made by Webloyalty on the purchase confirmation page after you make a booking on the ebookers’ website; and
+  2. Providing and confirming your email address and last four digits of your credit/debit card on the subsequently-displayed ‘Shopper Discounts and Rewards’ webpage, and completing your consent to the transfer by clicking the submission button.
+
+
+
+If you consent as set out above, your Personal Information will be subject to Webloyalty’s privacy policy, which is accessible from <http://www.shopperdiscountsandrewards.co.uk/Features/Common/PrivacyPolicy.rails>. We strongly advise you to read Webloyalty’s privacy policy and satisfy yourself as to the purposes for which Webloyalty will use your Personal Information before agreeing to their terms & conditions, as we have no responsibility for any use of your Personal Information by Webloyalty.
 
 This policy will not cover the use of your Personal Information by these other companies. We encourage you to read a company's privacy policy before requesting any of its products or services.
 
