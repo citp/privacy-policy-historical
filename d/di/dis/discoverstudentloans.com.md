@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverstudentloans.com privacy policy that was archived on 2008-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080208092646id_/http%3A//www.discoverstudentloans.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverstudentloans.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044410id_/http%3A//www.discoverstudentloans.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Discover Student Loans - Privacy Policy
 
@@ -51,7 +51,7 @@ We may share the information we collect about you, as described in Section 1, wi
 
 We maintain physical, electronic and procedural safeguards to protect the information we collect about you. Access to such information is restricted to individuals who need it in order to service your Loan or provide products and services to you, and who are trained in the proper handling of such information. Employees who violate these confidentiality requirements are subject to our disciplinary process.Where third parties provide support services, we require them to conform to our privacy standards.
 
-If you see information on your letters, statements or elsewhere which suggests that our information is incomplete or inaccurate, please write to us at Discover® Student Loans, P.O. Box 64123, St. Paul MN 55164-0123, so that we can update this information.
+If you see information on your letters, statements or elsewhere which suggests that our information is incomplete or inaccurate, please write to us at Discover® Student Loans, P.O. Box 30947, Salt Lake City UT 84130-0947, so that we can update this information.
 
 ### 4\. How Can You Limit Sharing of Information About You?
 
