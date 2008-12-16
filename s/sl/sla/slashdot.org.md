@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slashdot.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616101351id_/http%3A//web.sourceforge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slashdot.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021740id_/http%3A//web.sourceforge.com/privacy.php) for the most accurate reproduction.*
 
-# SourceForge - Privacy
+# Privacy Statement | SourceForge
 
 **(Last Updated May 23, 2008)**
 
@@ -20,7 +20,7 @@ SourceForge provides this Privacy Statement to make users aware of SourceForge p
 
 Users represent they are of legal age to create binding and financial obligations for any liability users may incur as a result of their use of the Sites. The Sites are not directed to children under the age of 13, and SourceForge will never request personally identifiable information from anyone whom it knows to be under the age of 13 without verifiable parental or guardian consent. SourceForge does not knowingly collect, or wish to obtain, personally identifiable information from children. If SourceForge becomes aware that a user is under the age of 13 and has provided personally identifiable information without prior verifiable parental or guardian consent, it will remove user’s personally identifiable information from its files.
 
-**What information SourceForge.net collects**
+**What information SourceForge collects**
 
 SourceForge may collect two types of information from users of Sites: "personally identifiable information" (such as name, email address, postal address, telephone, birth date) and "aggregate information" (such as frequency of visits to Sites, IP address, Site pages most frequently accessed, browser type). Personally identifiable information is any piece of information which can potentially be used to uniquely identify, contact, or locate a user of the Sites. Aggregate information is non-personally identifiable/anonymous information about users of the Sites. Aggregate information is used in a collective manner and no single person can be identified by that compiled information.
 
@@ -44,7 +44,7 @@ SourceForge web servers may automatically log aggregate information, such as a u
 
 With respect to SourceForge.net, SourceForge contracts with third party mirror providers, who deliver integrated communications services, including Internet access services, to deploy mirrors of downloads in order to make file downloading via SourceForge.net faster and more convenient. SourceForge has no control over the privacy or logging policies of mirror providers, or the implementation thereof, and such policies may differ from this Privacy Statement.
 
-**How SourceForge.net uses the information collected**
+**How SourceForge uses the information collected**
 
 SourceForge may use the personally identifiable information a user submits for any purposes related to SourceForge’s business, including, but not limited to:
 
@@ -101,7 +101,7 @@ SourceForge.net offers an email alias service that allows a user to create an em
 
 Users may have the opportunity to submit photographs to the Sites for product promotions, contests, and other purposes to be disclosed at the time of request. In these circumstances, the Sites are designed to allow the public to view, download, save, and otherwise access the photographs posted. By submitting a photograph, users waive any privacy expectations users have with respect to the security of such photographs, and SourceForge’s use or exploitation of users’ likeness. All photographs submitted to SourceForge become the property of SourceForge and will not be returned.
 
-**With whom may SourceForge.net share information?**
+**With whom may SourceForge share information?**
 
 SourceForge will not sell, rent, or lease a user’s personally identifiable information to others, except as described in this Privacy Statement. Unless SourceForge has a user’s permission or as required by law, SourceForge will only share the personally identifiable information a user provides online with other entities that are part of the SourceForge corporate family and/or outside service providers who may be used to ship products, process credit cards, provide technical support, handle order processing, or otherwise act on SourceForge’s behalf. These third parties are prohibited from using users’ information for any other purpose, including their own marketing.
 
@@ -148,15 +148,15 @@ If SourceForge becomes aware that a user's personally identifiable information h
 If a user has comments or questions about SourceForge.net's privacy statement, please contact:
     
     
-    Email: legal@corp.sourceforge.com
-     
+    Email: [legal@corp.sourceforge.com](mailto:legal@corp.sourceforge.com)
     Telephone: (650) 694-2100
-     
     Fax: (650) 288-1579
      
     Postal Mail:
-     
     Attn: SourceForge, Inc. Legal Services - Privacy
     SourceForge, Inc.
     650 Castro Street, Suite 450
     Mountain View, CA 94041
+
+[We self-certify compliance with](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)  
+[ ](http://export.gov/safeharbor)  
