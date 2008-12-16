@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zacks.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607155128id_/http%3A//www.zacks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zacks.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013625id_/http%3A//www.zacks.com/privacy.php) for the most accurate reproduction.*
 
-# Zacks.com - - Privacy Policy
+# - Privacy Policy
 
 **Zacks Investment Research Privacy Policy**
 
