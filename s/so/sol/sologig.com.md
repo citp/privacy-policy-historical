@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sologig.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622105852id_/http%3A//www.sologig.com/common/Information.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sologig.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151515id_/http%3A//www.sologig.com/common/Information.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Freelance Jobs Contract Consulting Projects | Sologig.com
 
 ### Privacy
 
-[Terms & Conditions](https://web.archive.org/web/20080622105852id_/http%3A//www.sologig.com/common/Information.aspx?id=tos) [Privacy Policy](https://web.archive.org/web/20080622105852id_/http%3A//www.sologig.com/common/Information.aspx?id=privacy) [Fraud](https://web.archive.org/web/20080622105852id_/http%3A//www.sologig.com/common/Information.aspx?id=fraud)
+[Terms & Conditions](https://web.archive.org/web/20081216151515id_/http%3A//www.sologig.com/common/Information.aspx?id=tos) [Privacy Policy](https://web.archive.org/web/20081216151515id_/http%3A//www.sologig.com/common/Information.aspx?id=privacy) [Fraud](https://web.archive.org/web/20081216151515id_/http%3A//www.sologig.com/common/Information.aspx?id=fraud)
 
 ### Privacy
 
