@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pubmatic.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604232354id_/http%3A//www.pubmatic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubmatic.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051258id_/http%3A//www.pubmatic.com/privacy.html) for the most accurate reproduction.*
 
 # PubMatic : Privacy Policy
 
