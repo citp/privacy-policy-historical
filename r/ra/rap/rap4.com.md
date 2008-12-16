@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rap4.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611141632id_/http%3A//rap4.com/paintball/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rap4.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041419id_/http%3A//www.rap4.com/paintball/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Real Action Paintball Privacy Statement
 
@@ -57,4 +57,4 @@ Real Action Paintball
 Attn: Consumer Affairs   
 2215 Ringwood Avenue  
 San Jose, CA 95131  
-Tel.: 408-727-3144
+Tel.: 408-434-0434
