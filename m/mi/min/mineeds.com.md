@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mineeds.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618001201id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mineeds.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162555id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.*
 
-# MiNeeds Privacy Policy - MiNeeds
+# MiNeeds Privacy Policy | MiNeeds
 
 ## Privacy Policy
 
