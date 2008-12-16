@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instantfundas.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506094936id_/http%3A//www.instantfundas.com/2007/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantfundas.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050226id_/http%3A//www.instantfundas.com/2007/08/privacy-policy.html) for the most accurate reproduction.*
 
-# instant fundas: Privacy Policy
+# Privacy Policy - instant fundas
 
 Instant Fundas respect your privacy and we are committed to safeguarding it while you are online at our site. The following privacy policy is to help you understand what information we collect, how it is used and who will have access to that information.
 
