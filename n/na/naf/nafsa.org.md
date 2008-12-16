@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623213423id_/http%3A//www.nafsa.org/legal_information/privacy_policy.pg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163700id_/http%3A//www.nafsa.org/legal_information/privacy_policy.pg) for the most accurate reproduction.*
 
 # NAFSA - Privacy Policy
 
@@ -40,4 +40,4 @@ This Web site contains links to other Web sites. NAFSA has no control over and i
 
 ## Questions?
 
-Please contact us by e-mailing to webmaster[at]nafsa.org. 
+[Please contact us.](http://www.nafsa.org/contact.sec/webmaster_feedback)
