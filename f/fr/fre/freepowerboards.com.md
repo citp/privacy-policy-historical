@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freepowerboards.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521150653id_/http%3A//www.freepowerboards.com/privacy.fpb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepowerboards.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216034957id_/http%3A//www.freepowerboards.com/privacy.fpb) for the most accurate reproduction.*
 
-# FreePowerBoards - Free phpBB3 Hosting
+# FreePowerBoards - Free phpBB3 Forum Hosting
 
 ## **Privacy Policy**
 
