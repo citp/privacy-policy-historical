@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the attractionformula.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502185723id_/http%3A//www.attractionformula.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attractionformula.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013633id_/http%3A//www.attractionformula.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Paul Janka's Attraction Formula
+# How To Pick Up Women | Paul Janka's Attraction Formula | Privacy Policy
 
 ### **Privacy Policy**
 
