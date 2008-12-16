@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frigidaire.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610134251id_/http%3A//www.frigidaire.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frigidaire.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030848id_/http%3A//www.frigidaire.com/privacy.asp) for the most accurate reproduction.*
 
 # Frigidaire.com Privacy Policy
 
