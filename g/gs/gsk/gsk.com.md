@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsk.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605060805id_/http%3A//www.gsk.com/yourprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsk.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030752id_/http%3A//www.gsk.com/yourprivacy.htm) for the most accurate reproduction.*
 
 # Privacy statement - GlaxoSmithKline
 
@@ -37,7 +37,7 @@ If you wish to disable GSK’s ability to track your website interactions, you h
 **How we protect your personal information**  
 GSK is committed to protecting the security of your personal information. GSK uses a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide to GSK on computer servers with limited access that are located in controlled facilities. While we cannot guarantee that loss, misuse or alteration to data will not occur, we make every commercially reasonable effort to prevent such unfortunate occurrences. 
 
-**Sharing Personally Identifiable Information with Third Parties**  
+**Sharing personally identifiable information with third parties**  
 GSK will not sell or rent personally identifiable information to any third party for any purpose. Sometimes selected third parties are however used to provide GSK with support services in connection with its web sites and such parties may, from time to time, have access to your information to enable them to provide those services to GSK. Please rest assured that all companies providing such support services are required by GSK to meet the same standards of data protection as GSK and are prohibited from using the information for their own marketing purposes.
 
 In certain special cases, we may disclose your personally identifiable information in the following circumstances:
@@ -49,7 +49,7 @@ In certain special cases, we may disclose your personally identifiable informati
 
 Personal information collected on the Site may be stored and processed in your country of residence or any other country in which GSK or its affiliates, subcontractors or agents maintain facilities, and by using the Site, you consent to any transfer of information outside of your country of residence. GSK will ensure that if information is transferred outside your country of residence, it will still be treated in accordance with this privacy statement.
 
-**Links to Other Web Sites**  
+**Links to other web sites**  
 This Site may provide links to other GSK and third party web sites as a service to our users. The privacy statement described here does not apply to those sites. **Please ensure you check the legal and privacy statement posted on each site you link to.**
 
 **Changes**  
