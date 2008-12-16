@@ -1,0 +1,31 @@
+> *The following text is extracted and transformed from the halfoffdepot.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216052214id_/http%3A//halfoffdepot.com/privacy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+Thank you for visiting HalfOffDepot.com. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information going forward, not on a retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
+
+**Note: The privacy practices set forth in this privacy policy are for this Web site only. If you follow a link from HalfOffDepot.com to other Web sites, please review the privacy policies posted at those sites.**
+
+### Collection of Information
+
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is used for no other purpose, unless you give us permission to use it in another manner, for example, to add you to one of our mailing lists. 
+
+### Cookie/Tracking Technology
+
+This site may use cookie and tracking technology to customize the site for each visitor, as well as to gather information on how visitors use the site so that we can improve it to meet customer needs. Personal information cannot be collected via cookies and other tracking technology. However, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. 
+
+### Distribution of Information
+
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
+
+### Commitment to Data Security
+
+Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings. 
+
+### Privacy Contact Information
+
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
+
+Heidi Chandonia Office Manager, Sunday Paper Publishing, LLC By e-mail: heidichandonia@gmail.com By Phone: 404-351-5797 
+
+We reserve the right to make changes to this policy. Any changes to this policy will be posted.
