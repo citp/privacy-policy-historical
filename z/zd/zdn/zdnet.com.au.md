@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406140757id_/http%3A//www.zdnet.com.au/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162414id_/http%3A//www.zdnet.com.au/services/privacy) for the most accurate reproduction.*
 
 # Security & Privacy Statement - ZDNet Australia
 
@@ -10,11 +10,11 @@ ZDNet Australia is bound by the National Privacy Principles contained in the Com
 
 ZDNet Australia may, from time to time, review and update this policy to take account of new laws and technology and changes to ZDNet's operations. All personal information held by ZDNet Australia will be governed by ZDNet Australia's most recent policy, posted on the ZDNet Australia site.
 
-ZDNet Australia is a wholly owned subsidiary of CNET Networks Inc and is part of a world wide network of sites providing information about technology. As such ZDNet Australia also adheres to the policy guidelines set down by CNET Networks.
+ZDNet Australia is a wholly owned subsidiary of CBS Interactive and is part of a world wide network of sites providing information about technology. As such ZDNet Australia also adheres to the policy guidelines set down by CBS Interactive.
 
-## What is CNET Networks?
+## What is CBS Interactive?
 
-CNET Networks, Inc. is a worldwide media company and creator of content environments for the interactive age. CNET Networks takes pride in being "a different kind of media company," creating richer, deeper interactive experiences by combining the wisdom and the passion of users, marketers, and its own expert editors. CNET Networks' leading brands--such as CNET, GameSpot, MP3.com and ZDNet--focus on the personal technology, entertainment, and business technology categories. The company has a strong presence in the USA, Asia, and Europe. For more information about the company [click here](http://www.cnetnetworks.com/?tag=cnetfd.ft).
+CBS Interactive is a worldwide media company and creator of content environments for the interactive age. CBS Interactive takes pride in being "a different kind of media company," creating richer, deeper interactive experiences by combining the wisdom and the passion of users, marketers, and its own expert editors. CBS Interactive's leading brands--such as CNET, GameSpot, MP3.com and ZDNet--focus on the personal technology, entertainment, and business technology categories. The company has a strong presence in the USA, Asia, and Europe. For more information about the company [click here](http://www.cbsinteractive.com/?tag=cnetfd.ft).
 
 **1\. What personally identifiable information does ZDNet Australia collect?**
 
