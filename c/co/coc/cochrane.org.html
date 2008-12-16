@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cochrane.org privacy policy that was archived on 2008-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514214214id_/http%3A//www.cochrane.org/docs/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cochrane.org privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216023030id_/http%3A//www.cochrane.org/docs/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/cochrane.dwt" codeOutsideHTMLIsLocked="false" --><head>
 
@@ -333,18 +333,20 @@ urchinTracker();
 <!-- =============SEARCH FORM=============== -->
 	
 	<h2 class="google">Search</h2>
-<form name="gs" method="GET" action="http://search.cochrane.org/search" id="google_level_1" class="google">
+<form name="gs" method="GET" action="http://search.cochrane.org/search" id="google_level_1" class="google" onsubmit="return checkIfTitleSearch(this);">
     <fieldset>
         <input type="text" name="q" maxlength="256" value="">
-        <select name="restrict">
+        <select name="restrict" id="restrict">
             <option value="colloquia_abstracts">colloquia abstracts</option>
             <option value="evidence_aid">evidence aid</option>
             <option value="newsletters">newsletters</option>
             <option value="review_abstracts">Cochrane reviews</option>
+            <option value="registered_titles">registered titles</option>
             <option value="cochrane_org" selected="selected">whole site</option>
         </select>
         <input type="hidden" name="scso_cochrane_org" value="whole site">
         <input type="hidden" name="scso_review_abstracts" value="Cochrane reviews">
+        <input type="hidden" name="scso_registered_titles" value="registered titles">
         <input type="hidden" name="scso_evidence_aid" value="evidence aid">
         <input type="hidden" name="scso_colloquia_abstracts" value="colloquia abstracts">
         <input type="hidden" name="scso_newsletters" value="newsletters">
