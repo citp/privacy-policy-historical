@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneida.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530214438id_/http%3A//www.oneida.com/index.cfm/fuseaction/content.page/nodeID/0b64fe42-c403-4a70-a6ea-293c3dfd7ead) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneida.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041417id_/http%3A//www.oneida.com/index.cfm/fuseaction/content.page/nodeID/0b64fe42-c403-4a70-a6ea-293c3dfd7ead) for the most accurate reproduction.*
 
 # Oneida Customer Service Privacy Policy
 
@@ -14,7 +14,7 @@
 ** Oneida respects your privacy and is committed to protecting you while on our site. We have developed this privacy policy to explain our position on privacy issues and how they relate to the use of Oneida.com.
 
 **How we use email:  
-** Oneida solicits email addresses for communications purposes. We will use email as our primary method of communication with our customers to announce special events and promotions, product-related announcements and contest winners.
+** When someone opts-in to receive emails from Oneida, we will use email as a method of communication with our customers to announce special events and promotions, product-related announcements and contest winners. Oneida does not sell or share email address information with any 3rd parties.
 
  **Cookie files:**  
 Oneida.com uses files called cookies to track user sessions on our site. A cookie is a small file placed on your computer from a web server containing a unique ID for your computer. Cookies enable us to customize your shopping experience and provide you with relevant content and offers. The cookie file does not contain any personally identifying information, and cannot control or access your computer or files located on your computer.
