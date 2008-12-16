@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611224431id_/http%3A//www.native-instruments.com/index.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011900id_/http%3A//www.native-instruments.com/index.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -45,7 +45,7 @@ Your data protection rights
 According to the BDSG you have a right to be furnished at no charge with information on the data we stored about you and on their use, as well as under certain circumstances a right to correction, blocking or deletion of your data.   
 Any consent given to the processing of data may be revoked according to the TDDSG at any time and without stating any reasons. 
 
-For further questions, please contact our Data Protection Officer Johannes Mai:   
+For further questions, please contact our Data Protection Officer Thomas Barnow:   
 [privacy@native-instruments.de](mailto:privacy@native-instruments.de)
 
 New offers of services or new developments in data protection and IT security technology may have an effect on these privacy principles. Therefore we reserve the right of changing or amending this privacy statement.
