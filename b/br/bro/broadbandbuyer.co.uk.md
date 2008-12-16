@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandbuyer.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609233112id_/http%3A//www.broadbandbuyer.co.uk/Shop/Info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandbuyer.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216125241id_/http%3A//www.broadbandbuyer.co.uk/Shop/Info/Privacy.asp) for the most accurate reproduction.*
 
 # Broadbandbuyer.co.uk | Privacy Policy
 
