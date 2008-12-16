@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techimo.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024113519id_/http%3A//www.techimo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techimo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216074610id_/http%3A//www.techimo.com/privacy.html) for the most accurate reproduction.*
 
 # TechIMO.com - The enthusiast community where your opinion counts.
 
@@ -46,8 +46,10 @@ When you are at the TechIMO.com site and asked for personal information, you sha
 
 **Third Party Advertising:**
 
-We use DoubleClick, Rydium, FastClick, and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). **How to Correct Inaccuracies**
+We use DoubleClick, Google, and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites and other interactive media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+**How to Correct Inaccuracies**
 
 If you use another All Enthusiast, Inc. service, we may send you a confirmation e-mail confirming your new account and/or service. The message will be sent to the address that you supplied us and will describe ways for you to change or delete the account information provided. Remember to keep the confirmation e-mail as it will also contain information that will help you in case you run into problems accessing our services.
 
-We welcome any questions or comments you have about TechIMO.com: please direct them to [info@techimo.com](mailto:info@techimo.com).
+We welcome any questions or comments you have about TechIMO.com: please direct them to [our contact form](http://www.techimo.com/timo_contact.pl).
