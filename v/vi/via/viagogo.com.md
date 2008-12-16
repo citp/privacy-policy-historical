@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the viagogo.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030182645id_/http%3A//www.viagogo.com/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagogo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020458id_/http%3A//www.viagogo.com/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
 
-# 
+# viagogo - Buy & Sell Concert, Sport & Theater Tickets
+
+## Privacy Policy
 
 ## Privacy Policy
 
@@ -26,14 +28,13 @@ For your convenience, you may prefer to create an online customer profile by pro
 
 viagogo may share your personal information (excluding credit or bank card details) with certain selected viagogo partners if you register with viagogo or transact on a co-branded partner site. 
 
-If you opt in, these partners may use your personal information to contact you regarding related sites which they think may be of interest to you as a viagogo customer. 
+If you opt in, these partners may use your personal information to contact you regarding related sites which they think may be of interest to you as a viagogo customer.
 
 These partners will be based worldwide and by agreeing to this privacy policy, you are consenting to the transfer of your personal data to these selected partners regardless of where they are based. 
 
 ## Automatic Logging of Session Data
 
-Generic information about your computer's connection to the Internet, called "session data", will automatically be logged. This information is anonymous and can not be used to track your personal information. Session data consists of things such as IP address, operating system and type of browser software being used and the activities conducted by the user while on our site. An IP address is a number that enables computers attached to the Internet, such as our web servers, to know where to send data back to the user, such as the pages of the site the user wishes to view. We collect session data because it helps us administer our web site, track correlative information and to collate statistics in relation to visitor traffic. We may use your IP address to help us diagnose problems with our server. Rest assured that this information can not be linked to you personally.  
-
+Generic information about your computer's connection to the Internet, called "session data", will automatically be logged. This information is anonymous and can not be used to track your personal information. Session data consists of things such as IP address, operating system and type of browser software being used and the activities conducted by the user while on our site. An IP address is a number that enables computers attached to the Internet, such as our web servers, to know where to send data back to the user, such as the pages of the site the user wishes to view. We collect session data because it helps us administer our web site, track correlative information and to collate statistics in relation to visitor traffic. We may use your IP address to help us diagnose problems with our server. Rest assured that this information can not be linked to you personally. 
 
 ## Cookies
 
@@ -41,32 +42,31 @@ A cookie is a small file of information that is automatically stored by your bro
 
 Any personal information that you provide us with such as your name and address etc. is neither gathered nor stored in the cookies placed by the viagogo web site and, as a result, your information will not be passed on to any third parties. 
 
-Most web browsers automatically accept cookies but it is possible to change the options on your web browser or use certain software programs, which will enable you to control how and whether cookies will be accepted by your browser. You can disable cookies or set your browser to alert you when cookies are being sent. viagogo supports your right to block any unwanted Internet activity, especially that of unscrupulous websites, but please note that if you choose to block viagogo cookies, this may disable certain features on our site and may make it impossible to purchase or use certain services available on the site. It is possible however to block cookie activity from certain web sites while permitting cookies from sites you trust, like viagogo.
+Most web browsers automatically accept cookies but it is possible to change the options on your web browser or use certain software programs, which will enable you to control how and whether cookies will be accepted by your browser. You can disable cookies or set your browser to alert you when cookies are being sent. viagogo supports your right to block any unwanted Internet activity, especially that of unscrupulous websites, but please note that if you choose to block viagogo cookies, this may disable certain features on our site and may make it impossible to purchase or use certain services available on the site. It is possible however to block cookie activity from certain web sites while permitting cookies from sites you trust, like viagogo. 
 
 ## Opting Out
 
-As a viagogo customer, you may opt in at any time to occasionally receive updates from us about ticket sales in your area, special offers, new viagogo services, and other items that may be of interest to you. Where previous indication of consent has been provided, it is possible for you to opt out at any time, in order to no longer receive these types of email messages through your account settings. This feature is accessible on the viagogo home page.
+As a viagogo customer, you may opt in at any time to occasionally receive updates from us about ticket sales in your area, special offers, new viagogo services, and other items that may be of interest to you. Where previous indication of consent has been provided, it is possible for you to opt out at any time, in order to no longer receive these types of email messages through your account settings. This feature is accessible on the viagogo home page. 
 
 If you opt in, viagogo's partners may sell, rent or trade personal information (excluding credit or bank card details) to certain third parties. If you do not wish viagogo's partners to pass on these details, please do not opt in, or if you have already opted in, use the opt out procedure as described in above paragraph. 
 
 ## Our Security Precautions
 
-Our web site has security features in place to protect against loss, misuse and alteration of the information under our control. All personal information you provide to viagogo is transmitted using 128 bit Secure Server Software SSL (Secure Socket Layer) encryption. SSL is a proven coding system that allows your browser to automatically encrypt, or scramble, all of your personal data before you send it to us. It will not therefore be possible for your payment method data, name and address to be read as the information travels over the Internet. In addition, whenever you transact on viagogo, you are protected by viagogo’s guarantee.
+Our web site has security features in place to protect against loss, misuse and alteration of the information under our control. All personal information you provide to viagogo is transmitted using 128 bit Secure Server Software SSL (Secure Socket Layer) encryption. SSL is a proven coding system that allows your browser to automatically encrypt, or scramble, all of your personal data before you send it to us. It will not therefore be possible for your payment method data, name and address to be read as the information travels over the Internet. In addition, whenever you transact on viagogo, you are protected by viagogo’s guarantee. 
 
 ## Disclosure of Information
 
-We do not sell, rent or trade your personal information to third parties for marketing purposes without your express consent.  
-
+We do not sell, rent or trade your personal information to third parties for marketing purposes without your express consent. 
 
 ## Third Party Vendors and their Privacy Policies
 
-viagogo may contain links to other web sites for which we are not responsible. By clicking on any such links, you are entering another web site which will contain content and practices for which viagogo has no responsibility. We therefore encourage you to read the privacy statements of all such sites independently as their policies may be materially different from this Privacy Policy. Please note that it is your responsibility to maintain the secrecy of your passwords and your viagogo membership account information. Please be vigilant with this information, especially whenever you are online.
+viagogo may contain links to other web sites for which we are not responsible. By clicking on any such links, you are entering another web site which will contain content and practices for which viagogo has no responsibility. We therefore encourage you to read the privacy statements of all such sites independently as their policies may be materially different from this Privacy Policy. Please note that it is your responsibility to maintain the secrecy of your passwords and your viagogo membership account information. Please be vigilant with this information, especially whenever you are online. 
 
-We may use third-party advertising companies, such as Performics Inc., to serve or track ads on our web site and other web sites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services that may be of interest to you. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of Performics, please click here: [privacy policy](http://performics.com/our_company_files/privacy.htm).
+We may use third-party advertising companies, such as Performics Inc., to serve or track ads on our web site and other web sites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services that may be of interest to you. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of Performics, please click here: [privacy policy](http://performics.com/our_company_files/privacy.htm). 
 
 ## Transfer of Your Personal Information and Financial Information Outside of the EEA
 
-Please note that from time to time, viagogo may transfer your personal and/or financial information to a related company or partner in order to improve our services or to help our security, credit risk or fraud protection activities. Such companies may be based outside of the EEA. By submitting to us your details, you are providing consent to the transfer of your information for the purposes set out in this paragraph. Please acknowledge that any transfer of information will take place in accordance with this Privacy Policy and as permitted by law.
+Please note that from time to time, viagogo may transfer your personal and/or financial information to a related company or partner in order to improve our services or to help our security, credit risk or fraud protection activities. Such companies may be based outside of the EEA. By submitting to us your details, you are providing consent to the transfer of your information for the purposes set out in this paragraph. Please acknowledge that any transfer of information will take place in accordance with this Privacy Policy and as permitted by law. 
 
 ## Transfer of Personal Information in Event of Sale of viagogo or its Assets
 
@@ -78,13 +78,14 @@ You should be aware that in addition to the circumstances described above, viago
 
 This policy is effective as of August 1, 2006. Any material changes in the way viagogo uses personal information will be described in future versions of this Privacy Statement. 
 
-You can always submit concerns regarding our Privacy Policy or our privacy practices via email by [clicking here](https://web.archive.org/contactus.aspx). Please reference the privacy policy in your subject line. viagogo will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. You can also write to us at: 
+You can always submit concerns regarding our Privacy Policy or our privacy practices via email by [clicking here](https://web.archive.org/FAQ.aspx). Please reference the privacy policy in your subject line. viagogo will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. You can also write to us at: 
 
 **viagogo**  
 Attn: Privacy Team  
 1 Hammersmith Grove  
 London   
 W6 0NB  
-United Kingdom
+United Kingdom  
+
 
 Thank you for using viagogo! 
