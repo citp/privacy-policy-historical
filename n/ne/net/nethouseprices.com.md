@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609091958id_/http%3A//www.nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014113id_/http%3A//www.nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
 
-# Free UK House Prices - nethouseprices.com
+# Nethouseprices.com - Privacy
 
-**Privacy Policy** At Nethouseprices.com we take your right to privacy very seriously; the following policy reflects our commitment to confidentiality.
+At Nethouseprices.com we take your right to privacy very seriously; the following policy reflects our commitment to confidentiality.
 
 **Opt In**   
 When you register or use Nethouseprices.com you will be asked to "opt in" to our privacy policy i.e. to confirm that you agree to our use of any personal information that we may collect from you as a user of Nethouseprices.com as set out in this privacy policy. If you do not give your consent, you will not be able to use Nethouseprices.com as we will be unable to provide our services and facilities to you. You can withdraw your consent to our use of your personal information at any time by cancelling your membership of Nethouseprices.com.
@@ -62,7 +62,7 @@ You have the ability to accept or decline cookies by modifying the settings in y
 **What can I do to manage cookies stored on my computer?**   
 There are a number of ways to manage cookies. If you use different computers in different locations you will need to ensure that each browser is adjusted to suit your cookie preferences. 
 
-Some modern browsers have a feature that will analyse website privacy policies and allow a user to control their privacy needs. These are known as 'P3P' features (Privacy Preferences Platform Find further information on [P3P.](http://www.allaboutcookies.org/p3p-cookies/index.html)
+Some modern browsers have a feature that will analyse website privacy policies and allow a user to control their privacy needs. These are known as 'P3P' features (Privacy Preferences Platform Find further information on [P3P](http://www.allaboutcookies.org/p3p-cookies/index.html).
 
 
 
@@ -85,17 +85,15 @@ If you are not using Microsoft Windows Explorer, then you should select 'cookies
 **What can I do to stop cookies being installed on my browser?**
 
 All web browsers enable you to set your cookie preferences before you start surfing.  
-[Netscape Navigator 3.0](http://www.allaboutcookies.org/manage-cookies/netscape-navigator3.html)  
-[Internet Explorer 3.0](http://www.allaboutcookies.org/manage-cookies/internet-explorer3.html)  
-[Netscape 4.0+](http://www.allaboutcookies.org/manage-cookies/netscape4.html)  
-[Internet Explorer 4.0](http://www.allaboutcookies.org/manage-cookies/internet-explorer4.html)  
 [Internet Explorer 5.0+](http://www.allaboutcookies.org/manage-cookies/internet-explorer5-plus.html)  
-[Netscape 6.0+](http://www.allaboutcookies.org/manage-cookies/netscape-6-plus.html)  
+[Netscape 6.0+](http://www.allaboutcookies.org/manage-cookies/netscape-6-plus.html)   
+[Firefox 2.0+ / 3.0+](http://www.allaboutcookies.org/manage-cookies/firefox2-plus.html)   
+[Internet Explorer (IE) 7.0+](http://www.allaboutcookies.org/manage-cookies/internet-explorer7-plus.html)  
 
 
 **I like to control which cookies are being set on my browser, but the alerts are rather annoying - is there any way that I can stop them?**
 
-The called P3P (Privacy Preferences Platform) to match your preferences with the privacy policy of a website. For more information about this, please click below. Set preferences on [Internet Explorer 6](http://www.allaboutcookies.org/manage-cookies/pref-internet-explorer6.html)  
+The called P3P (Privacy Preferences Platform) to match your preferences with the privacy policy of a website. For more information about this, please click below. Set preferences on [Internet Explorer 6](http://www.allaboutcookies.org/manage-cookies/internet-explorer4.html)  
 Set preferences on [Netscape 7](http://www.allaboutcookies.org/manage-cookies/pref-netscape7.html)  
 
 
@@ -107,6 +105,6 @@ Your personal information will be held and used by us in accordance with UK data
 
 We may change this privacy policy from time to time. Any change will take effect once the revised privacy policy is available on the Nethouseprices.com home page. 
 
-If you have any queries regarding this privacy policy, please write to us at [Nethouseprices.com](mailto:privacy@nethouseprices.com)
+If you have any queries regarding this privacy policy, please write to us at [Nethouseprices.com](mailto:info@nethouseprices.com)
 
 Our advertising partners OTP Media also have a privacy policy which you can view here : <http://www.otpmedia.com/privacy>
