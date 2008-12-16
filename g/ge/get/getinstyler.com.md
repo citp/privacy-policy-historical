@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the getinstyler.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628165514id_/http%3A//www.getinstyler.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getinstyler.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041012id_/http%3A//www.getinstyler.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy: InStyler®
+# Privacy Policy - Instyler® Rotating Hot Iron Hair Straightener
 
 ### Overview 
 
 The privacy practices of this statement apply to our services available under the domain and sub-domains of getinstyler.com. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our services. 
 
-As described below, as part of the normal operation of our services, your information is collected by us, may be disclosed to third parties and might be used by third parties and us. This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about InStyler's practices so that you can make informed decisions. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the InStyler web site. 
+As described below, as part of the normal operation of our services, your information is collected by us, may be disclosed to third parties and might be used by third parties and us. This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about Instyler®'s practices so that you can make informed decisions. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the Instyler® web site. 
 
-By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your identifiable information. This Privacy Policy is incorporated into and subject to the terms of the InStyler User Agreement. This Privacy Policy is effective on September 1, 2002 for new registering users, and is otherwise effective on February 1, 2007 for all users registered prior to that date. 
+By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your identifiable information. This Privacy Policy is incorporated into and subject to the terms of the Instyler® User Agreement. This Privacy Policy is effective on September 1, 2002 for new registering users, and is otherwise effective on February 1, 2007 for all users registered prior to that date. 
 
 ### 1\. A Special Note About Children.
 
@@ -38,15 +38,15 @@ Due to the existing regulatory environment, we cannot ensure that all of your pr
 
 As a matter of policy, we may sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be disclosed. We will be gathering credit applications via the website, we reserve the right to "sell" or "market" that information to other vendors as a credit reference source. 
 
-Legal Requests. InStyler cooperates with law enforcement inquiries, as well as other third parties to enforce laws. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation, or other activity that is illegal or may expose us or you to legal liability. Further, we can (and you authorize us to) disclose your, name, street address, city, state, zip code, country, phone number, email, and company name as we in our sole discretion believe necessary or appropriate in connection with an investigation. 
+Legal Requests. Instyler® cooperates with law enforcement inquiries, as well as other third parties to enforce laws. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation, or other activity that is illegal or may expose us or you to legal liability. Further, we can (and you authorize us to) disclose your, name, street address, city, state, zip code, country, phone number, email, and company name as we in our sole discretion believe necessary or appropriate in connection with an investigation. 
 
 ### 5\. Other Information Collectors.
 
-Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since InStyler does not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others. 
+Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since Instyler® does not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others. 
 
 ### 6\. Security.
 
-The InStyler web site uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including "firewalls" and Secure Socket Layers. InStyler treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet. 
+The Instyler® web site uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including "firewalls" and Secure Socket Layers. Instyler® treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet. 
 
 ### 7\. Conflict of Terms.
 
