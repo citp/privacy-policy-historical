@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627204255id_/http%3A//www.berkleemusic.com/about/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011303id_/http%3A//www.berkleemusic.com/about/about/privacypolicy) for the most accurate reproduction.*
 
-# Berkleemusic - Privacy Policy
+# Privacy Policy
 
 Please read this Privacy Policy carefully before using www.berkleemusic.com ("Web site"), an Internet site maintained by Berklee College of Music, Inc. ("Berklee"). Your use of the Web site serves as your acceptance of this Privacy Policy and consent to Berklee's collection and use of the information you provide as set forth in the Privacy Policy. Please note that this Privacy Policy applies only to the Web site, and not to other Web sites operated by other companies or organizations to which we may link. When you link to any other Web sites from the Web site, this policy no longer applies and Berklee has no control of the activities of those Web sites. Also this Privacy Policy does not apply to any information that Berklee may collect from you in any manner other than online.
 
