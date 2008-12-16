@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seo.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610061203id_/http%3A//www.seo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155727id_/http%3A//www.seo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SEO.com
+# Privacy Policy
 
 We respect your privacy. Any information we collect from you, including your email address, will simply be used to send you the information you have requested. This information includes search engine ranking reports, marketing proposals and monthly newsletters.
 
