@@ -1,39 +1,8 @@
-> *The following text is extracted and transformed from the eastbay.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511210613id_/http%3A//www.eastbay.com/content/custserv/supercat--home/help--security/Q--3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastbay.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216231534id_/http%3A//www.eastbay.com/content/custserv.cfm%3Fsupercat%3Dhome%26help%3Dsecurity%26Q%3D3) for the most accurate reproduction.*
 
 # Eastbay
 
-| **Help Index**  
-  
----  
-|  [Ordering Help](http://www.eastbay.com/content/custserv/help--order_help/)  
-  
-|  [GiftCards](http://www.eastbay.com/content/custserv/help--gift_cert/)  
-  
-|  [Shipping Info](http://www.eastbay.com/content/custserv/help--shipping_info/)  
-  
-|  [Information About Your Order](http://www.eastbay.com/content/custserv/help--orders/)  
-  
-|  [Security and Privacy](http://www.eastbay.com/content/custserv/help--security/)  
-  
-|  [Site Information](http://www.eastbay.com/content/custserv/help--security/)  
-  
-|  [Returns and Exchanges](http://www.eastbay.com/content/custserv/help--returns/)  
-  
-|  [Payment Info](http://www.eastbay.com/content/custserv/help--payment_info/)  
-  
-|  [Sizing Help](http://www.eastbay.com/content/custserv/help--sizing_help/)  
-  
-|  [Legal Statements](http://www.eastbay.com/content/custserv/help--legal/)  
-  
-|  [The Company](http://www.eastbay.com/content/custserv/help--contact/)  
-  
-|  [Contact Us](http://www.eastbay.com/content/custserv/help--contact/Q--6/)  
-  
-|  [Donations/Sponsorships](http://www.eastbay.com/content/custserv/help--donations/Q--1/)  
-  
-|  [Search Tips](http://www.eastbay.com/content/custserv/help--search_tips/)  
-  
-**Security, Privacy and Site Information**
+[](http://www.eastbay.com/promo/default/promoId--5003479/) **Security, Privacy and Site Information**
 
 * * *
 
@@ -41,7 +10,7 @@
 
 Eastbay believes in keeping your confidential information confidential. With this in mind, we have adopted the online privacy policy described below, which addresses:
 
-| Registration | [Option to Opt-out](http://www.eastbay.com/content/custserv/help--security/Q--3/Q2--next/#Option)  
+Registration | [Option to Opt-out](http://www.eastbay.com/content/custserv/help--security/Q--3/Q2--next/#Option)  
 ---|---  
 Order Information | [Security of Information](http://www.eastbay.com/content/custserv/help--security/Q--3/Q2--next/#Information)  
 Use of Information | [Contests](http://www.eastbay.com/content/custserv/help--security/Q--3/Q2--next/#Contests)  
@@ -50,7 +19,7 @@ Changes to Our Privacy Policy | [External Links](http://www.eastbay.com/content/
 Cookies|   
   
 **Registration**  
-We encourage you to register when shopping at our Website, however it is not required. Our [registration form](https://www.eastbay.com/account/default.cfm?TID=5555-12110823060112230518608-0&action=accountCreate) requires users to give us contact information (such as name, age range, mailing address, daytime telephone number, e-mail address and password). **You must be 13 years of age or older to register.** Registration helps us to provide you with a quick and simple checkout experience. The customer contact information you supply on the registration form will be used to contact you concerning the status of an order or to answer your questions. In addition, unless you choose to opt-out, it will be used to send you e-mail updates about upcoming sales, contests, promotions and product information. _You acknowledge and agree that you are responsible for maintaining the confidentiality of your registration information and password._ If you would like, you can also fill out a customer profile. While it is not required, information obtained from the customer profile questions helps us to learn more about our customers and is used to improve our customers' shopping experience with us.
+We encourage you to register when shopping at our Website, however it is not required. Our [registration form](https://www.eastbay.com/account/default.cfm?TID=5555-22160811030122111290437-0&action=accountCreate) requires users to give us contact information (such as name, age range, mailing address, daytime telephone number, e-mail address and password). **You must be 13 years of age or older to register.** Registration helps us to provide you with a quick and simple checkout experience. The customer contact information you supply on the registration form will be used to contact you concerning the status of an order or to answer your questions. In addition, unless you choose to opt-out, it will be used to send you e-mail updates about upcoming sales, contests, promotions and product information. _You acknowledge and agree that you are responsible for maintaining the confidentiality of your registration information and password._ If you would like, you can also fill out a customer profile. While it is not required, information obtained from the customer profile questions helps us to learn more about our customers and is used to improve our customers' shopping experience with us.
 
 **Order Information**  
 **Eastbay does not sell products for purchase by children.** We sell children's products for purchase by adults. Customers may use an order form to purchase products. When you place an order, we collect contact information, such as your shipping and e-mail addresses, and financial information, such as your account or credit card numbers. Contact information from the order form is used to send orders and information to our customers and to get in touch with them when necessary. Financial information is used to bill the customer for products. You also have the option of ordering products over the telephone and you may choose to pay by check, credit card or money order. 
@@ -65,12 +34,14 @@ Information collected by Eastbay is used for the following purposes:
   5. We may share personal information with our Website hosting partners, and other parties who assist us in operating our Website or conducting Eastbay business, so long as those outside parties agree to keep the information confidential. 
   6. We may release your personal information to comply with the law, to enforce our Website policies, or to protect our or others' rights, property, or safety. 
 
+
+
 We do not sell any information about our users on the individual customer level.
 
 As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that our company or substantially all of our assets are acquired by a third party, such information may be one of the transferred assets.
 
 **Updating of Information**  
-In order to change or modify information previously provided by you, please choose ["My Account"](https://www.eastbay.com/account/default.cfm?TID=5555-12110823060112230518608-0) and update your information using the options on this page.
+In order to change or modify information previously provided by you, please choose ["My Account"](https://www.eastbay.com/account/default.cfm?TID=5555-22160811030122111290437-0) and update your information using the options on this page.
 
 **Changes to Our Privacy Policy**  
 We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending you an e-mail at the last e-mail address that you provided us, and/or by prominently posting notice of the changes on the Website covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our transmittal of an e-mail notice to you or thirty (30) calendar days following our posting of the notice of changes on the Website covered by the Privacy Policy. 
@@ -87,6 +58,3 @@ If you register with us or order from our Website, we use cookies to monitor and
 Most Web browsers automatically accept cookies, but you can usually change the configuration of your browser to prevent this from occurring. Even without a cookie, you can still take advantage of most of the features of our Website, including making a purchase, but we will not be able to recognize you as a registered user unless you log-in. 
 
 [](http://www.eastbay.com/content/custserv/help--security/Q--3/Q2--next/)
-
-  
-
