@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the open.edu privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924000329id_/http%3A//www.open.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the open.edu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011906id_/http%3A//www.open.ac.uk/privacy) for the most accurate reproduction.*
 
-# This website : Privacy
+# This website : Privacy : At the OU
 
-## Privacy 
+## Privacy At the OU
 
-top
+  
 
-### Privacy at www.open.ac.uk
 
-This page describes how you can access any personal information the OU may hold, and how we may use cookies to monitor usage patterns across the OU website. You may wish to print this page.
+This page describes how you can access any personal information the OU may hold, and how we may use cookies to monitor usage patterns across the OU website. You may wish to print this page. 
+
+There are particular circumstances regarding the **OpenLearn** website (the OU's open content initiative) - see [OpenLearn privacy statement](https://web.archive.org/web/20081216011906id_/http://www.open.ac.uk/about/thiswebsite/p1_2.shtml).
 
 top
 
