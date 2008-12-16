@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdstelecom.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603014919id_/http%3A//www.tdstelecom.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdstelecom.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216010734id_/http%3A//www.tdstelecom.com/about/privacy.asp) for the most accurate reproduction.*
 
 # TDS - Privacy Policy
 
