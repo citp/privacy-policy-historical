@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ignitermedia.com privacy policy that was archived on 2008-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080517112735id_/http%3A//www.ignitermedia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ignitermedia.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216012954id_/http%3A//www.ignitermedia.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -27,6 +27,80 @@
 	urchinTracker();
 	// intra-view message passing
 	__msgMgr = new IgniterMedia.MessageManager();
+	
+	function showDownloadOptions(radioInput) {
+  	var radioValue = getCheckedValue(document.purchaseForm.purchaseOption);
+  	var sel = document.getElementById('sel_' + radioValue);
+  	var input = document.getElementById('input_' + radioValue);
+  	var selholder = document.getElementById('holder_' + radioValue);
+
+  	if (radioInput) {	
+  		if (active_pdlformat) {
+  			var old_pdlformat = document.getElementById(active_pdlformat);
+  			old_pdlformat.disabled = true;
+  			if (old_pdlformat.nodeName == 'SELECT') {
+  				var oldholder = document.getElementById(active_pdlformat.replace(/sel/, 'holder'));
+  				oldholder.style.display = 'none';
+  			}
+  		}
+
+  		if (input) {
+  			input.disabled = false;
+  			active_pdlformat = input.id;
+  		}
+  		else if (sel) {
+  			sel.disabled = false;
+  			selholder.style.display = 'block';
+  			active_pdlformat = sel.id;
+  		}
+  	} else {
+  		if (active_pdlformat) {
+  			var old_pdlformat = document.getElementById(active_pdlformat);
+  			old_pdlformat.disabled = true;
+  			if (old_pdlformat.nodeName == 'SELECT') {
+  				var oldholder = document.getElementById(active_pdlformat.replace(/sel/, 'holder'));
+  				oldholder.style.display = 'none';	
+  			}
+  		}
+  		if (input) {
+  			input.disabled = true;
+  		}
+  		else if (sel) {
+  			sel.disabled = true;
+  			selholder.style.display = 'none';
+  		}
+  	}
+  }
+
+  function loadDlOptState() {
+  	var radioValue = getCheckedValue(document.purchaseForm.purchaseOption);
+  	for (var i = 0; i < document.purchaseForm.elements.length; i++) {
+  		var elem = document.purchaseForm.elements[i];
+  		if (elem.nodeName == 'INPUT' && elem.type == 'radio' && elem.value == radioValue) {
+  			showDownloadOptions(elem);
+  			break;
+  		}
+  	}
+  }
+
+  function getCheckedValue(radioBtns) {
+  	if (!radioBtns)	return '';
+  	var radioLength = radioBtns.length;
+  	if (radioLength == undefined) {
+  		if (radioBtns.checked)
+  			return radioBtns.value;
+  		else
+  			return '';
+  	}
+
+  	for (var i = 0; i < radioLength; i++) {
+  		if (radioBtns[i].checked) {
+  			return radioBtns[i].value;
+  		}
+  	}
+
+  	return '';
+  }
 </script>
 
 <script type="text/javascript">
@@ -40,7 +114,7 @@
 <div id="holder" class="holder" align="center">
 	<div class="titlebar" align="center">
 		<div class="logoHolder"><a class="logo" title="Igniter Media Group" href="/home"><img src="/images/igniterlogo.jpg" alt="Igniter Media" width="228" height="72" border="0"></a></div>
-		<div class="dropButtonHolder"><a href="/jobs"><img src="/images/dropbutton-job-intern.png" alt="Jobs &amp; Internships" width="173" height="45" border="0"></a></div>
+		<!--<div class="dropButtonHolder"><a href="/jobs"><img src="/images/dropbutton-job-intern.png" alt="Jobs &amp; Internships" width="173" height="45" border="0" /></a></div>-->
 		<div class="siteButtons">
 			
 <div class="tabsHolder">
@@ -51,7 +125,9 @@
 	<div id="loginInfo" align="right">
 		<div id="loginTag" class="hidden">Logged in as <span id="userName"></span></div>
 		<div id="loginLinks">
-			<span><a href="/account">My Account</a></span>
+		  
+			  <span><a href="/account">Register / Login</a></span>
+			
 			<span>&nbsp;•</span>
 			<span><a href="/cart">Cart (0 items)</a></span>
 		</div>
@@ -144,31 +220,33 @@
 
 <ol>
 
-	<li style="padding-bottom:6px;"><a href="/products/iv/volumes/361/Thats-My-King-DVD">THAT'S MY KING DVD</a></li>
+	<li style="padding-bottom:6px;"><a href="/products/sea/singles/1063/Retooning-the-Nativity">RETOONING THE NATIVITY</a></li>
 
-	<li style="padding-bottom:6px;"><a href="/products/iv/volumes/887/Igniter-Videos-Vol-6">IGNITER VIDEOS, VOLUME 6</a></li>
+	<li style="padding-bottom:6px;"><a href="/products/sea/singles/831/Jesus-And-Santa">JESUS AND SANTA</a></li>
+
+	<li style="padding-bottom:6px;"><a href="/products/iv/volumes/361/Thats-My-King-DVD">THAT'S MY KING DVD</a></li>
 
 	<li style="padding-bottom:6px;"><a href="/products/iv/singles/4/Thats-My-King">THAT'S MY KING!</a></li>
 
-	<li style="padding-bottom:6px;"><a href="/products/sea/singles/608/Mothers-Day-Moment">A MOTHER'S DAY MOMENT</a></li>
+	<li style="padding-bottom:6px;"><a href="/products/sea/singles/378/A-Thanksgiving-Moment">A THANKSGIVING MOMENT</a></li>
 
-	<li style="padding-bottom:6px;"><a href="/products/ib/volumes/609/Mothers-Day-Collection">MOTHER'S DAY COLLECTION</a></li>
+	<li style="padding-bottom:6px;"><a href="/products/sea/singles/306/A-Child-Is-Born">A CHILD IS BORN</a></li>
+
+	<li style="padding-bottom:6px;"><a href="/products/sea/singles/1084/All-Ye-Faithful">ALL YE FAITHFUL</a></li>
 
 	<li style="padding-bottom:6px;"><a href="/products/iv/singles/570/99-Balloons">99 BALLOONS</a></li>
 
-	<li style="padding-bottom:6px;"><a href="/products/iv/singles/884/Cruise-Ship-Vs-Battleship">CRUISE SHIP VS. BATTLESHIP</a></li>
+	<li style="padding-bottom:6px;"><a href="/products/sea/singles/836/Tree-Landscape-Loop">TREE LANDSCAPE</a></li>
 
-	<li style="padding-bottom:6px;"><a href="/products/sea/singles/607/Mother-Always-Said-Countdown">MOTHER ALWAYS SAID COUNTDOWN</a></li>
-
-	<li style="padding-bottom:6px;"><a href="/products/iv/singles/573/Teamwork">TEAMWORK</a></li>
-
-	<li style="padding-bottom:6px;"><a href="/products/iv/singles/886/The-Dont-Song">THE DON'T SONG</a></li>
+	<li style="padding-bottom:6px;"><a href="/products/sea/singles/377/A-Christmas-Moment">A CHRISTMAS MOMENT</a></li>
 
 </ol>
 
 </div>
 
 						</div>
+						<div class="leftColumnSpacer"><img src="/images/leftcolumnspacer.jpg" alt="" width="18" height="1" border="0"></div>
+						
 					</div>
 					<div class="rightColumnFrame">
 						
@@ -243,7 +321,17 @@
 					<div class="rightSpacerFrame"></div>
 				</div>
 			</div>
-			<div class="mainFrameBottom"></div>
+			<div class="mainFrameBottom">
+			  <div id="rt">
+          <ul>
+            <li><span>RT Productions, Inc. Web Network</span></li>
+            <li><a href="http://www.worshiphousemedia.com/" title="WorshipHouse Media" class="whm">WorshipHouse Media</a></li>
+            <li><a href="http://www.echoconference.com/" title="Echo | Church Media Conference" class="echo">Echo | Church Media Conference</a></li>
+            <li><a href="http://www.collidemagazine.com/" title="Collide Magazine" class="col">Collide Magazine</a></li>
+            <li><a href="http://www.ignitermedia.com/" title="Igniter Media" class="igniter">Igniter Media</a></li>
+          </ul>
+        </div>
+			</div>
 		</div>
 	</div>
 </div>
