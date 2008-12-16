@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upstartblogger.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020000439id_/http%3A//www.upstartblogger.com//privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upstartblogger.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152309id_/http%3A//www.upstartblogger.com//privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Upstart Blogger | Privacy Policy
 
 ### About The Information We Collect
 
