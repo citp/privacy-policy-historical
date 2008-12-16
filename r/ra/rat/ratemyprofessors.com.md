@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the ratemyprofessors.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015050744id_/http%3A//ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyprofessors.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012023id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - RateMyProfessors.com
 
 **Last modified March 16, 2007**
 
-**PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
-
   
+**PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**   
 
 
 This is the official privacy policy ("
@@ -65,6 +64,8 @@ This is the official privacy policy ("
 *  
 |  The mechanisms we have implemented to protect your Personal Information.   
   
+
+
 This Site is offered and made available only to users 18 years of age or older who reside in the United States of America, its territories and possessions ("
 
  _U.S._
@@ -79,7 +80,8 @@ We reserve the right to revise this Privacy Policy at any time by updating this 
 
 We are committed to protecting our users' privacy. Keeping the Personal Information you share with us on the Site secure and ensuring your understanding of how we collect, use, disclose and maintain your Personal Information is important to us. We maintain reasonable physical, electronic and procedural safeguards to protect your information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information.
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**
+**YOUR CALIFORNIA PRIVACY RIGHTS**  
+
 
 If you are a resident of the State of California, under the California Civil Code, you have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a Privacy Policy that gives either an opt-out (which we may sometimes refer to as "
 
@@ -93,8 +95,10 @@ If you are a California resident and request information about how to exercise y
 
 **RateMyProfessors.com LLC  
 RateMyProfessors.com  
-1515 Broadway, 45th Floor  
-New York, New York 10036  
+1515 Broadway  
+New York, New York 10036
+
+Attn: Business and Legal Affairs, Office Number: 24-40  
 Attn: Your California Privacy Rights  
 c/o Privacy Administrator
 
@@ -106,13 +110,16 @@ To all other users of this Site, if you have other questions about this Privacy 
 
 **RateMyProfessors.com LLC  
 RateMyProfessors.com  
-1515 Broadway, 45th Floor  
-New York, New York 10036  
+1515 Broadway  
+New York, New York 10036
+
+Attn: Business and Legal Affairs, Office Number: 24-40  
 Attn: Your California Privacy Rights  
-c/o Privacy Administrator**
+c/o Privacy Administrator
 
- ** GENERAL PRIVACY INFORMATION**  
+**
 
+ ** GENERAL PRIVACY INFORMATION**
 
 This Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. By your participation in our Site activities, you certify that you are at least 18 years of age and a resident of the U.S. If you are located in the European Union or elsewhere outside of the U.S. and you participate in activities on this Site contrary to our policy that only U.S. residents are eligible for certain activities, you do so at your own risk and initiative, and you, not us, are responsible for compliance with any applicable local and national laws. Please be aware that any Personal Information you provide to us or we obtain as a result of your use on this Site will be transferred to the U.S and subject to U.S. law. By using this Site, participating in any Site activities, and/or providing us with your Personal Information, you consent to this transfer and processing of Personal Information to the U.S., and in other countries that may not have an equivalent level of protection or a level of data protection considered adequate in the European Union or European Economic Area. Consequently, you hereby waive any claims that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false, fraudulent, or inconsistent with this Privacy Policy. Your continued participation on this Site indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below. We may from time to time, transfer or merge any Personal Information collected off-line to our online databases or store off-line information in an electronic format. We may also combine Personal Information we collect online with information available from other sources, including information received from our Affiliates, marketing companies, or Advertisers (as defined in the Terms of Use Agreement). This Privacy Policy covers all such Personal Information and will remain in full force and effect as long as you are a user of the Site even if your use of or participation in any particular service, feature, function or promotional activity terminates, expires, ceases, is suspended or deactivated for any reason.
 
@@ -139,9 +146,7 @@ All member benefits are free. As a registered user of the Site, from time to tim
 
 If you are a registered user, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities, your use of the Site in connection with your registration. You also agree to this Privacy Policy and Agreement with you.
 
-**b. Collection of Personal Information During Registration or In Connection with Certain Features and Functions.
-
-**During registration (and possibly at certain other times to enable your use of other features or functions or for security purposes), you will be required to provide us with certain information about you in order for us to allow you to use the features and functions that we may offer on the Site, such as chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages. 
+**b. Collection of Personal Information During Registration or In Connection with Certain Features and Functions.** During registration (and possibly at certain other times to enable your use of other features or functions or for security purposes), you will be required to provide us with certain information about you in order for us to allow you to use the features and functions that we may offer on the Site, such as chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages. 
 
 **c. Collection of Personal Information in Connection with Promotions such as Contests and Sweepstakes:** To the extent we offer user registration on the Site, registration as a member of the Site is not always required to enter Promotions such as contests and sweepstakes. There may be a separate registration process which will require the submission of your first and last name, street address, city, state and zip code, email address, telephone number and date of birth. Additional Personal Information may be requested depending on the specific Promotion, but submission of such information may be optional. The Promotion's entry page and/or Rules will provide the specific requirements. You may also have the opportunity to opt-in to special Promotions or offers from our Advertisers in connection with many of these types of Promotions.
 
@@ -173,7 +178,6 @@ To the extent we provide wireless marketing services, there are two registration
 **2)**      |  **Double Opt-in (Site/SMS) Method:** In response to a print, radio, television, Internet, or other promotional messages, users will be directed to this Site to start the registration process. The user must affirmatively consent to the Site's and RMP's sending of wireless messages to his or her designated wireless device by submitting a telephone number (or wireless email address, only if requested by the Site and/or RMP) and by clicking the consent statement on the Site's registration page. The user must also agree to the Site's Privacy Policy and Agreement before the online registration process is completed. The Site and/or RMP will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from the Site and/or RMP to that particular telephone number (or wireless domain name when appropriate). **** The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of the Site's and/or RMP's wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the "Confirmation" message at any time _provided that_ the Site and RMP may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while the Site and/or RMP continues to offer the specific wireless marketing service.   
 **3)**      |  **Double Opt-in (SMS/SMS) Method:** In response to a print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. The Site and/or RMP will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from the Site and RMP to that particular telephone number (or wireless domain name when appropriate). **** The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of the Site's and RMP's wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the "Confirmation" message at any time provided that the Site and RMP may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while the Site and/or RMP continues to offer the specific wireless marketing service.   
   
-  
 **b. Termination of Wireless Services by User**  
 Regardless of which one of the above opt-in methods was used to register, users may revoke their consent to receive messages from the Site and RMP by the following procedure:
 
@@ -184,8 +188,6 @@ A user understands, acknowledges and agrees that the Site and RMP may, at their 
 
 **d. Use of Information**  
 The Site and RMP will not use a wireless telephone number, wireless or conventional Internet email address, or other information submitted for its wireless marketing services for any other purpose but to provide the service requested, unless we provide advance notice of any other use. We will not share this Personal Information with Advertisers or other third party marketers unless you opt-in to such disclosure. We will share this information with the operational service providers that assist us in delivering these wireless services to you and with the Parent Companies and Affiliates.
-
-****
 
 **3.     Accuracy and Confidentiality: ** It is your responsibility to give us current, complete, truthful and accurate information and to keep the Personal Information that you provide to us up to date. **We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or you fail to update the information you give us.  
 **  
@@ -209,8 +211,6 @@ This Site may contain advertisements, references and links to other websites and
 
 
 Although we may track the numbers of visitors to inform us on how best to update the Site and enhance the experience for all visitors, Personal Information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the Site, enhance and improve our service, improve the look of the Site and display advertising and marketing information. You can choose to have your computer warn you each time a cookie or image tag is being sent, or you can choose to turn off all such devices. This is done through your browser. If you turn cookies off, you may not have access to many features at the Site that make your Internet experience more efficient and enjoyable - like the features mentioned above - and some of our other services will not function properly.
-
-****
 
 **  
 5.     Privacy of Your Postings: **We respect the privacy of the contents of any Personal Information related to or contained in a Posting, unless the information is intended to be disclosed (such Personal Information, except as intended to be disclosed, is called " _Confidential Personal Information_ "). However, we reserve the right to monitor, edit, and disclose your use of the Site or Confidential Personal Information to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or the other terms of the Agreement, or to protect the interests of our users, Advertisers, Parent Companies, Affiliates, suppliers, operational service providers, and others. Please see the Terms of Use Agreement for details regarding Postings.
@@ -240,22 +240,22 @@ Although we may track the numbers of visitors to inform us on how best to update
 *  
 |  In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us, or our Parent Companies or Affiliates.   
   
+
+
 **7.     Security & Protection of Personal Information:** We maintain reasonable standards of security and confidentiality. However, for most Internet sites, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We conduct financial transactions via secured transmissions but may not always secure other parts of the site. We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our operational service providers follow the same policy. 
 
 **8.     Phishing:** Phishing attacks attempt to steal consumers' personal identity data and financial account credentials. "Phishers" use 'spoofed' e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Sensitive Personal Information such as credit card numbers, account usernames, passwords, and social security numbers. **WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM SENSITIVE PERSONAL INFORMATION OR YOUR USERNAME OR PASSWORD!** If you receive such email communication, please forward it immediately to the Site's Privacy Administrator at **[info@ratemyprofessors.com](mailto:info@ratemyprofessors.com)** , and then immediately delete the fraudulent email from your computer.
 
-**9\. Review, Update or Delete Your Personal Information:** Generally, you may review, update or delete your Personal Information or Sensitive Personal Information collected by this Site. You may also correct factual inaccuracies. However, Personal Information that is necessary to check eligibility, such as date of birth or age cannot be deleted, but may be modified with sufficient verification of the correct information. Deletion or attempted deletion of certain Personal Information, such as your user name, may not be permitted and/or may result in suspension of your account or termination of any registration you may have made. To review, update or delete your Personal Information or Sensitive Personal Information collected by the Site, please sign in to your account with your User ID and then click "Member Area" and "Edit Account" to change or delete your Personal Information. **
-
-**If you wish to review Personal Information collected for Promotions such as contests and sweepstakes, you will need to contact the Site's Privacy Administrator via email with a request at [info@ratemyprofessors.com](mailto:info@ratemyprofessors.com) and be prepared to provide verification of your identity. Personal Information collected for certain entries are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user's request, unless the entrant is a child under the age of 13 years old.   
-
+**9\. Review, Update or Delete Your Personal Information:** Generally, you may review, update or delete your Personal Information or Sensitive Personal Information collected by this Site. You may also correct factual inaccuracies. However, Personal Information that is necessary to check eligibility, such as date of birth or age cannot be deleted, but may be modified with sufficient verification of the correct information. Deletion or attempted deletion of certain Personal Information, such as your user name, may not be permitted and/or may result in suspension of your account or termination of any registration you may have made. To review, update or delete your Personal Information or Sensitive Personal Information collected by the Site, please sign in to your account with your User ID and then click "Member Area" and "Edit Account" to change or delete your Personal Information. **** If you wish to review Personal Information collected for Promotions such as contests and sweepstakes, you will need to contact the Site's Privacy Administrator via email with a request at [info@ratemyprofessors.com](mailto:info@ratemyprofessors.com) and be prepared to provide verification of your identity. Personal Information collected for certain entries are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user's request, unless the entrant is a child under the age of 13 years old. 
 
 Persons under the age of 18 that are unknowingly registered on the Site are in violation of this Agreement. Parents (including legal guardians) of children that registered on the Site in violation of the Agreement who wish to terminate their child's membership please [Contact](https://web.archive.org/ContactUs.jsp) and provide us with your child's User ID and request to terminate your child's account and registration. We will not allow direct access to a user's account and Personal Information by any person without the user's User ID. (Please see above for how to change your preferences or the information associated with your account.) If a parent does not have his or her child's User ID, the parent will be required to [send an email](https://web.archive.org/ContactUs.jsp) that includes the parent's name, address, telephone and email address, in addition to the child's name and email address as registered on the Site, plus the child's date of birth. The parent must also provide verifiable identification that they are the parent of the ineligible child. The Site and/or RMP will send a confirming email to the parent via the email address provided to verify that the parent wishes to terminate his or her child's account and registration. The parent must then confirm by sending a reply email to the designated return address. The Site and/or RMP will then terminate the child's account but will notify the child of the termination request via email and will identify the name, address and email address of the person making the request. 
-
-****
 
 We reserve the right to deny access, use and registration privileges to any user, including with limitation a registered user of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user's account or any services, features or functions. And if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and a contact person for further inquiries. 
 
 **10\. Questions:** If you have questions or comments about our Privacy Policy, please contact us by sending us an email at [info@RateMyProfessors.com](mailto:info@RateMyProfessors.com)
+
+  
+
 
 **11\. Sole Statement:** This document is the sole statement of the Site's Privacy Policy with respect to this Site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
 
