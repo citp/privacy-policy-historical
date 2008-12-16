@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the flhsmv.gov privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626201119id_/http%3A//www.flhsmv.gov/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flhsmv.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025722id_/http%3A//www.flhsmv.gov/html/privacy_policy.html) for the most accurate reproduction.*
 
-# Florida DHSMV - Privacy Statement
+# Florida DHSMV - Privacy Policy
 
-### DHSMV Privacy Statement 
+  
+**DHSMV Privacy Statement**
 
 Thank you for visiting the official web site for the Florida Department of Highway Safety and Motor Vehicles.
 
@@ -17,5 +18,3 @@ If you choose to share personal information with us by sending a message or fill
 If you supply your postal or e-mail address on-line you will only receive the information for which you provided your address. Persons who supply their telephone numbers on-line may receive telephone contact from us with information regarding questions they sent on-line.
 
 Some information, such as e-mails received, may be saved for a designated period of time to comply with the State of Florida's archiving policies. We will not disclose the information to third parties or other government agencies unless required to do so by state or federal law. 
-
-For comments or suggestions, E-Mail: [HSMV-Info@hsmv.state.fl.us](mailto:HSMV-Info@hsmv.state.fl.us).
