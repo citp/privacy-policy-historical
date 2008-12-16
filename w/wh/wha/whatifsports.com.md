@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the whatifsports.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011072114id_/http%3A//www.whatifsports.com/locker/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatifsports.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170323id_/http%3A//whatifsports.com/locker/privacy.shtm) for the most accurate reproduction.*
 
 # WhatIfSports.com: Privacy Statement
-
-**Warning:** You are currently seeing a text-only version of our site because you are using an older browser that is not standards compliant.  
-For information on how to upgrade your browser for free, [click here](https://web.archive.org/web/20071011072114id_/http%3A//www.whatifsports.com/help/browser_upgrade.asp).
 
 ## WhatIfSports Statement of Privacy
 
