@@ -1,60 +1,58 @@
-> *The following text is extracted and transformed from the selfmadesuccess.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027082724id_/http%3A//www.selfmadesuccess.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfmadesuccess.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161357id_/http%3A//www.selfmadesuccess.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-...
-
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by JoNaf Marketing Ltd (collectively, "Services") ("Authorized Customers"). 
-
   
-**"Personally Identifiable Information"**   
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
+Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
 
-**What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. 
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. 'This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors') as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
-**What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+**Introduction:** Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below. 
 
-**How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+**Registration:** Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances.
 
-**With whom may the information may be shared?**  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf.
+However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion.
 
-**How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by JoNaf Marketing Ltd is securely stored and is not accessible to third parties or employees of JoNaf Marketing Ltd except for use as indicated above.
+In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [privacy@jonafmarketing.com](mailto:privacy@jonafmarketing.com)
+**Our Company Partners and Sponsors:** Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature.
 
-**Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+Additionally, our partners may have advertisements or co-branded Web Pages that are cosponsored by an affiliate, independent contractor seller, or non-affiliated partner. Our company may share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered. 
 
-**How does JoNaf Marketing Ltd use login information?**  
-JoNaf Marketing Ltd uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+**Online Shopping:** At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalogue or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information.
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-JoNaf Marketing Ltd has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
-Our privacy policy does not cover their collection or use of this information.
+If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so.
 
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+If you order services or products directly from our company we 'Will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-**How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
+**Online Advertisements:** Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers.
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [privacy@jonafmarketing.com](mailto:privacy@jonafmarketing.com)
+Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies. 
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [privacy@jonafmarketing.com](mailto:privacy@jonafmarketing.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+**Responses to Email Inquiries:** When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
+**Voluntary Customer Surveys:** We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary.
 
-**Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
-© 2007 **JoNaf Marketing Ltd** , All rights reserved.   
+**Special Cases:** It is our company's policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. 
 
+However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information~ to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies~ to operate the Services properly~ or to protect our company and our Members.
+
+"Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
+
+If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
+
+Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+
+Our Company Commitment to Children's Privacy. Protecting children's privacy is especially important to us. It is our policy to comply with the US Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older. 
+
+**Public Forums:** Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
+
+**Our Company's Commitment to Data Security:** Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
+
+**Where to Direct Questions About Our Privacy Policy:** If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
+
+**Revisions to This Policy:** Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
+
+Our company reserves all rights not expressly granted here.
