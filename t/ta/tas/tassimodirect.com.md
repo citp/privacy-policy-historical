@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tassimodirect.com privacy policy that was archived on 2008-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080221101824id_/http%3A//www.tassimodirect.com/Tassimo/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tassimodirect.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012747id_/http%3A//www.tassimodirect.com/Tassimo/privacy.aspx) for the most accurate reproduction.*
 
 # Tassimo - Tassimo Privacy
 
@@ -124,6 +124,6 @@ Dover , DE 19905-6361
 
 **1-877-TDISCS1 (1-877-834-7271)** 24 hours a day, 7 days a week. 
 
-E-mail us at [customer_service@cl.TassimoUS.com](mailto:customer_service@cl.TassimoUS.com). 
+E-mail us at [customer_service@TassimoUS.com](mailto:customer_service@TassimoUS.com). 
 
 We would be happy to answer your questions or hear your concerns. 
