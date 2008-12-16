@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oztion.com.au privacy policy that was archived on 2008-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080427231040id_/http%3A//www.oztion.com.au/public/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztion.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216172028id_/http%3A//www.oztion.com.au/public/privacy.htm) for the most accurate reproduction.*
 
 # OZtion Privacy Policy
 
@@ -38,7 +38,7 @@ OZtion provides facilities throughout the site to refer a friend to OZtion or to
 
 OZtion provides you with ways in which you can update your personal information, including changing your email address, password, address and phone number, etc. You must ensure your personal information is kept up to date and is accurate. OZtion will store your previous personal information to prevent fraud, resolve disputes, assist with any investigations and enforce our User Agreement and legal requirements. 
 
-Upon your request we will deactivate your account, however your personal information is not removed from our databases due to technical constraints. Therefore you should not expect that your personal information is removed. To close you account, please go to: http://www.oztion.com.au/secure/User/cancelmembership.aspx
+Upon your request we will deactivate your account, however your personal information is not removed from our databases due to technical constraints. Therefore you should not expect that your personal information is removed. To close your account, please go to: http://www.oztion.com.au/secure/User/cancelmembership.aspx
 
 **6\. Control of your password**
 
