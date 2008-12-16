@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unltdworld.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514012949id_/http%3A//unltdworld.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unltdworld.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216131858id_/http%3A//unltdworld.com/pages/privacy.php) for the most accurate reproduction.*
 
 # UnLtdWorld – the social network and online platform for social entrepreneurs
 
@@ -64,9 +64,9 @@ UnLtdWorld does not knowingly collect or solicit personal information from anyon
 
   9. **Contact Details:**
 
-UnLtdWorld - C/O UnLtd - 123 Whitecross Street - EC1Y 8JJ London  
+UnLtdWorld - 123 Whitecross Street - EC1Y 8JJ London  
 T: +44 020 7566 1100 E: info@unltdworld.com  
-UnLtd is a registered charity, number 1090393 and our company registration number is 4180639.
+FSE World Limited (t/a UnLtdWorld) is a registered company, number 6503647.
 
 
 
