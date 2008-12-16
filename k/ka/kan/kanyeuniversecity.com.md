@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanyeuniversecity.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608084315id_/http%3A//www.kanyeuniversecity.com/page.php%3Fcontent%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanyeuniversecity.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164018id_/http%3A//www.kanyeuniversecity.com/page.php%3Fcontent%3Dprivacy_policy) for the most accurate reproduction.*
 
 # kanYe West : Privacy Policy
 
