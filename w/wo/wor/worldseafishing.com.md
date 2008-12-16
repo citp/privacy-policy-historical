@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511155413id_/http%3A//www.worldseafishing.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216141538id_/http%3A//www.worldseafishing.com/about/privacy.html) for the most accurate reproduction.*
 
-# WSF Terms and Conditions
-
-| 
-
-Privacy Policy
+# Privacy Policy | Sea Fishing and Sea Angling Online
 
 This privacy policy is applicable to any personal information which is given by You to World Sea Fishing ("User Information") via the web site located at www.worldseafishing.com and all its related domains, the World Sea Fishing web site.
 
@@ -25,13 +21,3 @@ You may notify World Sea Fishing of any updates, amendments and corrections to p
 World Sea Fishing reserves the right, at any time, to modify, alter, or update this privacy policy and any changes shall be notified to all users.
 
 Our web site uses third party advert servers (such as DoubleClick, ValueClick, Google) to serve the advertisements that you see on the pages of our web site. That partner may use cookies in the process of serving advertisements, but it will not collect any personally identifiable information about you.
-
-|  |   
----  
-  
-[](http://www.wsftackle.com/)   
-  
-  
-WSF FAQ & Help
-
-Coming Soon!
