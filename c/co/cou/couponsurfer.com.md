@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the couponsurfer.com privacy policy that was archived on 2008-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080111152334id_/http%3A//www.couponsurfer.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsurfer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051346id_/http%3A//www.couponsurfer.com/privacy.cfm) for the most accurate reproduction.*
 
 # CouponSurfer Privacy Statement
 
-   [](http://www.couponsurfer.com/) **[316](https://web.archive.org/web/20080111152334id_/http%3A//www.couponsurfer.com/pg_show.cfm?pg_id=41) Free Coupons From Over 100 [Stores](https://web.archive.org/web/20080111152334id_/http%3A//www.couponsurfer.com/browsemerchants.cfm)** CouponSurfer Privacy Statement
+[ ](https://web.archive.org/instantcoupon.cfm)
+
+|  CouponSurfer Privacy Statement
 
 > The CouponSurfer.com mission is to simplify the shopping experience of on-line consumers by providing a dedicated web site of major brand promotions. Consumers view coupons at their convenience with an interactive easy-to-use format. CouponSurfer.com saves consumers time and money by eliminating the need for searching through newspapers or hundreds of web sites. 
 > 
@@ -12,9 +14,7 @@
 > 
 > Second, we may track your visit to our site by giving you a "cookie" when you enter. Cookies are pieces of information that Web sites transfer to your computer's hard drive for record-keeping purposes. We use Cookies so that you won't have to re-enter your password and CouponSurfer ID when you visit CouponSurfer.com. Cookies are also used to track user trends and patterns. The use of cookies is now an industry standard, and you'll find them used on most major Web sites. Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser either to notify you when you've received a cookie, or to refuse to accept cookies. You should understand that areas of certain sites will not function properly if you set your browser to not accept cookies. 
 > 
-> In addition when you become a member you can select whether to receive new coupon alerts emails and a CouponSurfer.com emails newsletter. Besides the user confirmation message, you will only receive email from CouponSurfer.com if you choose to receive new coupon alerts or the CouponSurfer.com. You have the option to change your email preferences at any time if you wish to stop receiving email from CouponSurfer.com by going to http://www.couponsurfer.com/user_update.cfm or contacting support@couponsurfer.com 
+> In addition when you become a member you can select whether to receive new coupon alerts emails and a CouponSurfer.com emails newsletter. Besides the user confirmation message, you will only receive email from CouponSurfer.com if you choose to receive new coupon alerts or the CouponSurfer.com. You have the option to change your email preferences at any time if you wish to stop receiving email from CouponSurfer.com by going to <http://www.couponsurfer.com/user_update.cfm> or contacting support@couponsurfer.com 
 > 
 > Information Sharing and Disclosure   
 >  CouponSurfer.com may use contractors or vendors to help us provide some of the services at our site. If we need to disclose personal information for them to provide the services, it is with the requirement that the information is kept confidential and is used only for those services. 
-
-[Get Help](http://www.couponsurfer.com/faq.cfm) | [Learn About CouponSurfer](http://www.couponsurfer.com/about.cfm) | [Talk to us](http://www.couponsurfer.com/suggest_coupon.cfm) | [Top Ten Coupons](http://www.couponsurfer.com/special.cfm) | [Affiliate Program](http://www.couponsurfer.com/affiliate.cfm) Copyright ©1998-2008 CouponSurfer, Inc. All rights reserved. | 
