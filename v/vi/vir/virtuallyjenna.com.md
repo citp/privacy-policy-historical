@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtuallyjenna.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527222911id_/http%3A//www.virtuallyjenna.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuallyjenna.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154743id_/http%3A//www.virtuallyjenna.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Virtually Jenna Privacy Policy
 
@@ -33,7 +33,7 @@ Broadly speaking, persons we employ directly, or as contractors or agents at our
 We use Passive Information to gather information about our users and to enhance and design our site to make it easier, faster and friendlier to use. Additionally, cookies help us know information about how many people visit our site, when they visit and how they use our service. We do not connect any of this information to your personal information or email address. However, Passive Information may result in your viewing of particular advertising based on your user habits for your viewing on our site.
 
 **Your Information In Relation to Others We Link To**  
-You may be able to access other websites through our site. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those siteâ€™s privacy policies to make sure you agree to them before using such sites. When you choose to perform e-commerce at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
+You may be able to access other websites through our site. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those site’s privacy policies to make sure you agree to them before using such sites. When you choose to perform e-commerce at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
 
 **Sharing Information with Advertisers or Other Third Parties**  
 We may disclose anonymous information about user habits, characteristics and user patterns, based on aggregate user statistics to advertisers on our site.
