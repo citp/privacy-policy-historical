@@ -1,7 +1,29 @@
-> *The following text is extracted and transformed from the myhotsite.net privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620172920id_/http%3A//www.myhotsite.net/static/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhotsite.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011057id_/http%3A//www.myhotsite.net/static/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Myhotsite.Net - Share Your Downloads
 
+|  **  Search →**  
+---  
+   
+  
+  
+  
+**  ** **Public Poll** ** →**  
+---  
+   
+  
+  
+  
+  
+    
+ 
+
+[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=638173&afsid=1)   
+  
+
+
+|  | **Privacy Policy** |   
+---|---|---  
 |  Your Privacy
 
 Myhotsite.net is committed to protecting your privacy. Myhotsite.net does not sell, trade or rent your personal information to other companies. Myhotsite.net will not collect any personal information about you except when you specifically and knowingly provide such information.  
@@ -25,4 +47,25 @@ Modification of Privacy Policy
 
 Myhotsite.net reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
 
-| 
+|   
+|  |   
+  
+  
+|  **  Translate →**  
+---  
+  
+  
+  
+  
+  
+**  Tags →**  
+---  
+  
+[Adriana Lima Sex Tape](http://www.myhotsite.net/tags/Adriana+Lima+Sex+Tape/), [Anna Nicole Smith Sex Tape](http://www.myhotsite.net/tags/Anna+Nicole+Smith+Sex+Tape/), [Bangla Hot Scene](http://www.myhotsite.net/tags/Bangla+Hot+Scene/), [Big Brother Sweden](http://www.myhotsite.net/tags/Big+Brother+Sweden/), [Bo Derek XxX Collection](http://www.myhotsite.net/tags/Bo+Derek+XxX+Collection/), [Debbie Rochon Sex Scene](http://www.myhotsite.net/tags/Debbie+Rochon+Sex+Scene/), [Demi Moore Sex Scene](http://www.myhotsite.net/tags/Demi+Moore+Sex+Scene/), [Denise Richards Sex Scene](http://www.myhotsite.net/tags/Denise+Richards+Sex+Scene/), [Desi Adult Movies](http://www.myhotsite.net/tags/Desi+Adult+Movies/), [Desi Mujra](http://www.myhotsite.net/tags/Desi+Mujra/), [Hindi Adult Movie](http://www.myhotsite.net/tags/Hindi+Adult+Movie/), [Hindi Adult Movies](http://www.myhotsite.net/tags/Hindi+Adult+Movies/), [Hindi Blue Film](http://www.myhotsite.net/tags/Hindi+Blue+Film/), [Homemade Tape](http://www.myhotsite.net/tags/Homemade+Tape/), [Icono Maker](http://www.myhotsite.net/tags/Icono+Maker/), [Indecent magazine](http://www.myhotsite.net/tags/Indecent+magazine/), [Indian Blue Film](http://www.myhotsite.net/tags/Indian+Blue+Film/), [Jennifer Lopez Hot Clips](http://www.myhotsite.net/tags/Jennifer+Lopez+Hot+Clips/), [Mallu Reshma](http://www.myhotsite.net/tags/Mallu+Reshma/), [Membership](http://www.myhotsite.net/tags/Membership/), [Mujra Party](http://www.myhotsite.net/tags/Mujra+Party/), [My Girlfriend Soha](http://www.myhotsite.net/tags/My+Girlfriend+Soha/), [Nokia 7210](http://www.myhotsite.net/tags/Nokia+7210/), [Reshma Hot Video](http://www.myhotsite.net/tags/Reshma+Hot+Video/), [Rock and Roll](http://www.myhotsite.net/tags/Rock+and+Roll/), [Salma Hayek Hot Scene](http://www.myhotsite.net/tags/Salma+Hayek+Hot+Scene/), [Sex Tape](http://www.myhotsite.net/tags/Sex+Tape/), [Sexy Mujra](http://www.myhotsite.net/tags/Sexy+Mujra/), [Singapore Girls Hostel](http://www.myhotsite.net/tags/Singapore+Girls+Hostel/), [Sound Editor](http://www.myhotsite.net/tags/Sound+Editor/), [Tina Ambani](http://www.myhotsite.net/tags/Tina+Ambani/), [XP Themes](http://www.myhotsite.net/tags/XP+Themes/), [actress](http://www.myhotsite.net/tags/actress/), [cartoon movie](http://www.myhotsite.net/tags/cartoon+movie/), [clips](http://www.myhotsite.net/tags/clips/), [hidden Cam](http://www.myhotsite.net/tags/hidden+Cam/), [kate winslet](http://www.myhotsite.net/tags/kate+winslet/), [play boy magazine](http://www.myhotsite.net/tags/play+boy+magazine/), [reshma clip](http://www.myhotsite.net/tags/reshma+clip/), [xXx Movie DVD Rip Full](http://www.myhotsite.net/tags/xXx+Movie+DVD+Rip+Full/)
+
+[Show all tags](http://www.myhotsite.net/tags/)  
+  
+  
+  
+  
+
