@@ -1,221 +1,440 @@
-<!--The following is the downloaded HTML source of the qualtrics.com privacy policy that was archived on 2007-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071020222046id_/http%3A//www.qualtrics.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qualtrics.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216163058id_/http%3A//www.qualtrics.com/privacy-statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-  <title>Privacy Statement</title>
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="verify-v1" content="b7y9dI7DIn4yT4EOXNBMLGYiRuf+fYffAlVgOnmx35Q=">	<!-- Enable Google's Webmaster Tools -->
+<title>Privacy Statement&nbsp;-&nbsp;Qualtrics</title>
+<meta name="title" content="Privacy Statement">
+<meta name="author" content="Administrator">
+<meta name="robots" content="index, follow">
+<base href="http://www.qualtrics.com/">
+	<link rel="shortcut icon" href="http://www.qualtrics.com/images/favicon.ico">
+	<link href="http://www.qualtrics.com/templates/Default-TemplateFiles/css/template_css.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://www.qualtrics.com/templates/Default-TemplateFiles/javascript/fancybox/fancy.css" type="text/css" media="screen">
+    <script type="text/javascript" src="/swfobject.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/lib/chili-1.7.pack.js"></script>
+	<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/lib/jquery.easing.js"></script>
+	<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/lib/jquery.dimensions.js"></script>
+	<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/jquery.accordion.js"></script>
+	<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/javascript/fancybox/jquery.fancybox-1.0.0.js"></script>
+	<script type="text/javascript">
+	function registration_info(full_name,company,work_phone,email,questions)
+	{
+			var transport = jQuery.ajax({
+			url:'/forms/curl.php', 
+			type:'POST',
+			data:{name:full_name, phone:work_phone, email:email, company:company, comment:questions},
+			success:function(responseText){
+				alert('We will contact you shortly');
+			}
+		});
+	}
+	function loadContent(url)
+	{
+		if(url)
+		{
+			window.lastPage = url;
+			window.location = getBaseUrl()+'#'+url; //for recreating the state.
+			var transport = jQuery.ajax({
+				url:url, 
+				data:{contentOnly:true},
+				success:function(responseText){
+					var xjson = transport.getResponseHeader('X-JSON');
+					var pageName;
+					if(xjson) pageName = eval(xjson);
+					if(pageName)
+					{
+						$('pageDiv').className = 'page_'+pageName;
+					}
+					if(jQuery('#contentParent'))
+					{
+						jQuery('#contentParent').html(responseText);
+					
+						if($('hiddenFooter'))
+						{
+							if(url == '/')
+							{
+								jQuery('#hiddenFooter').css({display:'none'});
+							}
+							else
+							{
+								jQuery('#hiddenFooter').css({display:'block'});
+							}
+						}
+					}
+				}
+				
+			});
+		}
+	}
+	 
+	function getPageUrl(opt_url)
+	{
+		var url = opt_url || String(window.location);
+		var page = url.substring(url.lastIndexOf('/')+1, url.length);
+    	if(url.indexOf('#') != -1)
+    	{
+    		var page = url.substring(url.lastIndexOf('#')+1, url.length);
+    	}
+    	return page;
+  
+	}
+	function getBaseUrl(opt_domainOnly)
+	{
+		var url = String(window.location)
+		if(url.indexOf('#') == -1)
+		{
+			return String(window.location);
+		}
+		if(opt_domainOnly)
+		{
+			return url.substring(0, url.indexOf('.com')+4);
+		}
+		return url.substring(0, url.indexOf('#'));
+	}
+	function recreateState(loadHomePage)
+	{
+		//check to see if we need to load some content 
+    	var url = String(window.location);
+    	var page = getPageUrl();
+    	if(url.indexOf('#') != -1)
+    	{
+    		loadContent(page);
+       	}
+       	else if(loadHomePage)
+       	{
+       		loadContent('/');
+       	}
+	}
+	function getAccordianIndexByPage(page)
+	{
+		if(page)
+		{
+			var links = jQuery('#navigation a')
+			for(var i=0, len=links.length; i<len; ++i)
+			{
+				linkHref = getPageUrl(links[i].href);
+				if(linkHref == page)
+				{
+					//find the li that is the accordian node parent for the link we found. 
+					var li = jQuery(links[i]).parents('li.accordianItem');
+					var accordianList = li.parent().children()
+					var pos = jQuery.inArray(li[0], accordianList);
+					return pos;
+				}
+			}
+		}
+		return -1; //dont open anything
+	}
+	function checkForUrlChange()
+	{
+		var curPage = getPageUrl();
+		if(!curPage)
+		{
+			curPage = '/';
+		}
+		if(!window.lastPage)
+		{
+			window.lastPage = curPage;
+		}
+		//console.log(curPage, window.lastPage)
+		if(curPage != window.lastPage)
+		{
+			recreateState(true);
+			var index = getAccordianIndexByPage(curPage);
+			jQuery('#navigation').accordion("activate", index);
+		}
+	}
+	function setupImageZoom()
+	{
+		jQuery("a.ImageZoom").fancybox({
+			hideOnContentClick: true
+		});
+	}
+	jQuery().ready(function(){
+		setupImageZoom();
+		recreateState();
+		setInterval(checkForUrlChange, 500);
+  		var index = getAccordianIndexByPage(getPageUrl());
+  		// second simple accordion with special markup
+		jQuery('#navigation').accordion({
+			autoHeight: false,
+			active:index,
+			alwaysOpen: false,
+			header: "a.head",
+			navigation: false, //ill do this manually so i can get subpages working also. 
+			animated: "easeslide"
+		});
+		jQuery('.head').click(function(evt){
+		  loadContent(getPageUrl(evt.target.getAttribute('href')));
+		});
+		jQuery('.headerLink').click(function(evt){
+			window.location = getBaseUrl(true)+'#/';
+			checkForUrlChange();
+		});
+	   
+		if($('homeFlash'))
+		{
+			//swfobject.embedSWF('http://qualtrics.cachefly.net/website/quaHomeBucket.swf', 'homeFlash', "777", "254", "8")
+			swfobject.embedSWF('flash/quaHomeBucket.swf', 'homeFlash', "777", "254", "8")
+		}
+		
+	});
+	
+	</script>
+<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/scripts/prototype.lite.js"></script>
+<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/scripts/moo.fx.js"></script>
+<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/scripts/moo.fx.pack.js"></script>
+<script type="text/javascript">
+//the main function, call to the effect object
+function init(){
+	if($('content'))
+	{
+		//Element.cleanWhitespace('content');
+		var stretchers = document.getElementsByClassName('stretcher'); //div that stretches
+		var toggles = document.getElementsByClassName('tab'); //h3s where I click on
+		var activeTab = document.getElementById('hdnActiveTab'); //value of currently active tab
+	
+		//accordion effect
+		var myAccordion = new fx.Accordion(
+			activeTab, toggles, stretchers, {opacity: true, height: true, duration: 400}
+		);
+	
+		//hash functions
+		var found = false;
+		toggles.each(function(h3, i){
+			var div = jQuery(h3).next();
+			if(div)
+			{
+				if (window.location.href.indexOf(h3.title) > 0) {
+					myAccordion.showThisHideOpen(div);
+					found = true;
+				}
+			}
+		});
+		if (!found) myAccordion.showThisHideOpen(stretchers[0]);
+	}
+}
 
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="generator" content="gvim">
+function openParentWatcher()
+{
+	var qualtricsWatcher = window.open('http://www.qualtrics.com/exitpopup.html', 'QualtricsSurveyWindow', 'width=1,height=1');
+	if(qualtricsWatcher)
+	{
+		qualtricsWatcher.blur();	
+		self.focus();
+	}
+	
+}
+function prepareParentWatcher()
+{
+	document.onclick = openParentWatcher;
+}
+//prepareParentWatcher();
 
-  <meta name="Description" content="Survey Software, Enterprise Survey software for enterprise feedback management and CRM solutions.  Enables high-quality data collection, panel management and results analysis. Perfect for market research or CRM solution (Customer Relationship Management) integration.  Free trial and consultation.">
-
-  <meta name="Keywords" content="enterprise survey software, survey software, email survey software, web survey software, internet survey software, online survey software, online survey, employee satisfaction survey, customer satisfaction survey, customer survey, market research, survey templates, employee survey, web survey, customer service survey, employee opinion survey, survey hosting, qualtrics.com">
-
-
-
-  <style type="text/css">
-    @import url( /style.css?v=3 );
-      @import url( /tier2.css?v=3 );
-    @import url( /tier2overrides.css?v=3 );
-    </style>
-  <script type="text/javascript" src="/js/swfobject15.js"></script>
-  	<script type="text/javascript" src="/js/Scriptaculous/prototype.js"></script>
-    <script type="text/javascript" src="/js/Scriptaculous/scriptaculous.js"></script><script type="text/javascript" src="https://web.archive.org/js/Scriptaculous/builder.js"></script><script type="text/javascript" src="https://web.archive.org/js/Scriptaculous/effects.js"></script><script type="text/javascript" src="https://web.archive.org/js/Scriptaculous/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/js/Scriptaculous/controls.js"></script><script type="text/javascript" src="https://web.archive.org/js/Scriptaculous/slider.js"></script>
-    <script type="text/javascript" src="/js/run/prototype_extended.js"></script>
-    <script type="text/javascript" src="/js/run/run.js"></script>
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-  </script>
-  <script type="text/javascript">
-  _uacct = "UA-570722-1";
-  urchinTracker();
-  </script>
-  <script type="text/javascript">
-    // <![CDATA[
-    /* assign hovers in internet explorer */
-    function startList() {
-
-
-      if (document.all&&document.getElementById) {
-        navRoot = document.getElementById("navul");
-        for (i=0; i<navRoot.childNodes.length; i++) {
-          node = navRoot.childNodes[i];
-
-          if (node.nodeName=="LI") {
-            node.onmouseover=function() {
-              this.className+=" over";
-            }
-            node.onmouseout=function() {
-              this.className=this.className.replace(" over", "");
-            }
-            }
-          }
-      }
-	      var cs = new SWFObject("clientshowcase_v.swf", "clientshowcase", "760", "60", "6", "#ffffff");
-	      cs.addParam("id", "clientshowcase");
-	      cs.addParam("allowScriptAccess", "sameDomain");
-	      cs.write("clientshowcase");
-    }
-	window.onload = startList;
-    // ]]>
-  </script>
-  <script type="text/javascript">
-    // <![CDATA[
-    function checkEnter(e){
-      var characterCode = e ? (e.which ? e.which : e.keyCode) : e.keyCode;
-      if (13 == characterCode){
-        document.Login.submit();
-        return false;
-      } else {
-        return true;
-      }
-    }
-    // ]]>
-  </script>
+</script>
+<style>
+  .Login .textInput {
+    width: 100px;
+  }
+</style>
+<!--[if IE 7]>
+<link href="http://www.qualtrics.com/templates/Default-TemplateFiles/css/template_css_ie7.css" rel="stylesheet" type="text/css"/>
+<![endif]-->
+<!--[if IE 6]>
+<link href="http://www.qualtrics.com/templates/Default-TemplateFiles/css/template_css_ie6.css" rel="stylesheet" type="text/css"/>
+<![endif]-->
 </head>
-<body>
+<body class="qualtricsMain">
+<div id="container">
+  <div id="header"><a href="/#" class="headerLink"></a><div>  <form name="Login" class="Login" method="post" action="https://new.qualtrics.com/ControlPanel/">
+    Username <input class="textInput" type="text" name="UserName"> &nbsp;&nbsp;  
+    Password <input class="textInput" type="password" name="UserPassword"> &nbsp;&nbsp; 
+    <input type="submit" value="Login">
+    <input type="hidden" name="ServerID" value="Prod">
+    <input type="hidden" name="ClientAction" value="Login">
+  </form>
+  </div></div>
+  <div id="horizontalBar">
+  <div class="Left">
+  the world's best online survey software</div>
+  <div class="Right">
+  <span class="barLink1"><a style="text-decoration: none;" href="https://new.qualtrics.com/ControlPanel/Register.php?BrandID=qtrial&amp;ServerID=Prod"><img src="http://www.qualtrics.com/templates/Default-TemplateFiles/images/layout/horizontalBar-arrow.png" align="texttop" width="21" height="21" class="barImagePad">free account</a></span>
+    <span class="barLink2"><a style="text-decoration: none;" href="http://www.qualtrics.com/demo.html"><img src="http://www.qualtrics.com/templates/Default-TemplateFiles/images/layout/horizontalBar-arrow.png" align="texttop" width="21" height="21" class="barImagePad">view demo</a></span>
+    <span class="barLink3"><a style="text-decoration: none;" href="http://www.qualtrics.com/request-a-quote.html"><img src="http://www.qualtrics.com/templates/Default-TemplateFiles/images/layout/horizontalBar-arrow.png" align="texttop" width="21" height="21" class="barImagePad">get a quote</a></span>
+   </div>
+   <div class="Clear"></div>
+  </div>
 
-    <div id="pagebg">
-      <div id="center">
-        <div id="page" class="tier2">
-                <div id="masthead">
-      <a href="/" id="logo"><img src="/images/logo.jpg"></a>
-      <div id="loginbar">
-			<form name="Login" method="post" action="https://new.qualtrics.com/ControlPanel/">
 
-                    <input type="hidden" name="clickID" value="93">
-                    <input type="hidden" name="clickIDBase" value="2000">
-                    <input type="hidden" name="Language" value="EN">
-                    <input type="hidden" name="ServerID" value="Prod">
-                    <input type="hidden" name="ClientAction" value="Login">
-                    User Name: <input type="text" name="UserName" class="textbox" size="15" onclick="select();" onkeypress="checkEnter(event);">
-                    Password: <input type="password" name="UserPassword" class="textbox" size="15" onkeypress="checkEnter(event);">
-
-                    <a href="#submit" class="button" onclick="document.Login.submit();">Login</a>
-
-
-            </form>
-      </div><br><br><br>
-      <div id="topnav">
-        <ul id="navul">
-          <li id="websolutions"><a href="/surveysoftware/"><h2>Survey Software</h2></a>
-            <ul>
-              <li><a href="/surveysoftware/build/">Build</a></li>
-              <li><a href="/surveysoftware/send/">Send</a></li>
-              <li><a href="/surveysoftware/analyze/">Analyze</a></li>
-            </ul>
-          </li>
-          <li id="services"><a href="/solutions/"><h2>Enterprise Solutions</h2></a>
-            <ul>
-              <li><a href="/solutions/efm-enterprise-feedback-management-surveys/">EFM</a></li>
-              <li><a href="/solutions/voc/">Voice of the Customer</a></li>
-              <li><a href="/solutions/panelmanagement/">Panel Management</a></li>
-              <li><a href="/solutions/dynamicreporting/">Dynamic Reporting</a></li>
-              <li><a href="/solutions/privatelabel/">Private Label</a></li>
-            </ul>
-          </li>
-          <li id="surveypanels"><a href="/surveypanels/"><h2>Survey Panels</h2></a>
-            <ul>
-              <li><a href="/surveypanels/consumerpanels/">Consumer Panels</a></li>
-              <li><a href="/surveypanels/b2b/">Business to Business</a></li>
-              <li><a href="/surveypanels/createyourown/">Create Your Own</a></li>
-            </ul>
-          </li>
-          <li id="surveyuniversity"><a href="/researchservices/"><h2>Research Services</h2></a>
-            <ul>
-              <li><a href="/researchservices/surveydesign/">Survey Design</a></li>
-              <li><a href="/researchservices/conjoint/">Conjoint</a></li>
-              <li><a href="/researchservices/analysis/">Analysis</a></li>
-              <li><a href="/researchservices/translation/">Translation</a></li>
-            </ul>
-          </li>
-          <li id="company"><a href="/company/"><span>Company</span></a>
-            <ul>
-              <li><a href="/company/overview/">Overview</a></li>
-              <li><a href="/company/aboutus/">About Us</a></li>
-              <li><a href="/company/casestudies/">Case Studies</a></li>
-              <li><a href="/company/clients/">Clients</a></li>
-              <li><a href="/company/contact/">Contact</a></li>
-            </ul>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="clear"></div>
-    <div id="headerbottom"></div>		<div id="op_content">
-			<div id="op_content_left">
-			      <div id="content-headerimg">
-        <img src="/images/header-tier2.jpg" alt="header image">
-    </div>
-      <div id="content-menu">    <div>
-      <div id="leftmenu">
-        &nbsp;
-      </div>
-      <div id="leftarrow">
-        &nbsp;
-      </div>
-     </div>
-</div><div id="content-main"><h2>What is your privacy policy regarding email <br> addresses and personal information?</h2>
-
-<p>www.qualtrics.com collects and analyzes aggregate information of visitors to
-it's network of surveys, including the domain name, visited surveys, referring
-URLs, and other publicly available information. We use this information to help
-improve our web site and services, and to customize the content of our pages for
-each individual customer.</p>
-
-<p>We provide the most advanced survey building tools for corporations, research
-companies and consultants. These clients collect data. We do not sell or make
-available specific information about our clients, or their clients, except in
-aggregate form, and except in cooperation with law enforcement bodies in regards
-to content violations or violations of applicable laws. We maintain a database
-of member and user information which is used only for internal purposes such as
-advertising, collections efforts, technical support and notifying members of
-changes or enhancements to the service, new services and products that may be of
-interest to them, and special discounts available.</p>
-
-<p>www.qualtrics.com uses VeriSign's secure services for online credit card
-payment transactions and does not record or store credit card information on its
-site or servers.</p>
-
-<p>Any member may cancel their membership at any time by going to their survey
-administration page. Questions or problems regarding this policy may be sent to
-<a href="mailto:support@qualtrics.com">support@qualtrics.com</a></p>
-</div><div class="clear"></div>
-
-		    </div>
-			<div id="op_content_right">
-		        			<div id="contact">
-				<div id="contact_box">
-					<div class="title">Next Steps <img src="/images/small_arrow.gif"><img src="/images/small_arrow.gif"></div>
-					<div id="freetrial"><a href="http://new.qualtrics.com/ControlPanel/Register.php?BrandID=qtrial&amp;ServerID=Prod" onclick="javascript:urchinTracker('/outgoing/free_trial')"><img src="/images/freeaccount_button.png" alt="Free Survey Account"></a></div>
-					<div id="viewdemos"><a href="/wiki/"><img src="/images/viewdemo_button.png" alt="View Survey Demo"></a></div>
-					<div id="contact"><a href="/company/contact/"><img src="/images/quote_request.png" alt="Ask about our surveys"></a></div>
-					<div class="telephone">800.340.9194</div>				
-				</div>
-			</div>
-		    </div>
-		    <div class="clear"></div>
-	    </div>
-       </div> <!--end page-->
-
-     </div><!--end center-->
-
-		<div id="pagefooter">
-	    <div class="footerlinks">
-	      <ul>
-	        <li><a href="/privacy/">Privacy Statement</a></li>
-	        <li><a href="/security/">Security Statement</a></li>
-	        <li><a href="/aup/">Acceptable Use Statement</a></li>
-	      </ul>
-	    </div>
-
-	    © Copyright 2007, All Rights Reserved
-		<div id="bottomborder"></div>
+<div id="pageDiv" class="page_PrivacyStatement">
+	<div id="sidebar1">
+	<ul id="navigation">
+		<li class="accordianItem">
+			<a class="head" href="/survey-software.html">qualtrics research suite</a>
+			<ul class="navigationCopy">
+				<li><b><a href="/build.html">SURVEY DESIGN</a></b><br>
+				The perfect blend of sophistication and simplicity.</li>
+				<li><b><a href="/analyze.html">REPORTING &amp; ANALYSIS</a></b><br>
+				Make your data heard through professional, real-time reports.</li>
+				<li class="NavigationBottom"><b><a href="/send.html">DISTRIBUTION &amp; PANEL MANGEMENT</a></b><br>Who, when, how often.</li>
+				<li><b><a href="advanced-surveys.html">ADVANCED SURVEYS</a></b><br>Dynamic surveys fit the needs of your respondent.</li>
+				<li><b><a href="advanced-data-management.html">ADVANCED DATA MANAGEMENT</a></b><br>Transport and analyze with ease and convenience.</li>
+				<li><b><a href="enterprise-features.html">ENTERPRISE FEATURES</a></b><br>The tools that bring your entire organization together.</li><br>
+		  </ul> 
+		</li>
+		<li class="accordianItem">
+			<a class="head" href="/survey-panels.html">survey panels</a>
+			<ul class="navigationCopy">
+				<li><b><a href="/consumer-panels.html">CONSUMER PANELS</a></b><br>
+				Over 4m respondents to cover almost any segment you can imagine</li>
+				<li><b><a href="/business-to-business.html">BUSINESS PANELS</a></b><br>
+				Over 1m respondents covering every industry, organizational size, and functinal role in the US or Canada.</li>
+				<!-- <li class="NavigationBottom"><b><a href="/create-your-own.html">CREATE YOUR OWN</a></b><br />
+				Qualtrics Panel Management gives a company the tools to create and maintain its own feedback panels.</li> -->
+			</ul> 
+		</li>
+		<li class="accordianItem">
+			<a class="head" href="/the-qualtrics-story.html">the qualtrics story</a>
+			<ul class="navigationCopy">
+				<li><b><a href="/overview.html">CUSTOMER SATISFACTION</a></b><br>
+				Where we spend the majority of our time</li>
+			  <!-- <li class="NavigationButton"><b><a href="/our-team.html">OUR TEAM</a></b><br />The brawn and the brain</li> -->
+			  <li class="NavigationBottom"><b><a href="/contact.html">CONTACT</a></b><br>
+			  Talk to us.</li>
+		  </ul> 
+		</li>
+		<li class="accordianItem">
+			<a class="head" href="/our-clients.html">our clients</a>
+			<!-- <ul class="navigationCopy">
+				<li><b><a href="/case-studies.html">CASE STUDY</a></b><br />How are companies using qualtrics?<br /></li><br />
+		  </ul> -->
+		</li>
+			</ul>                
+		<div id="footerLeft">
+	<a href="/contact.html">Contact us</a><br><br>
+	<a href="/privacy-statement.html">Privacy Statement</a><br><br>
+	<a href="/security-statement.html">Security Statement</a><br><br>
+	<a href="/acceptable-use-statement.html">Acceptable Use Statement</a><br><br><br>
+	© 2008 Qualtrics, Inc.<br>
+	All Rights Reserved
 	</div>
-  	</div> <!-- end pagebg -->
+</div>
+   
+	<div class="mainRight">
+		<div class="contentContainer contentBackground">
+			<div class="contentImage" id="contentParent">
+				
 
-<div id="debug"></div>
+			
+				<div id="mainContent">
+<h1 class="pageTitle">privacy statement</h1>
+<div id="subCopyBR">
+<p><b>What is your privacy policy regarding email  addresses and personal information?</b></p>
+<p>Qualtrics collects and analyzes aggregate information of visitors to its network of surveys, including the domain name, visited surveys, referring URLs, and other publicly available information. We use this information to help improve our web site and services, and to customize the content of our pages for each individual customer.</p>
+<p style="width: 500px;">We provide the most advanced survey building tools for corporations, research companies, and consultants. These clients collect data. We do not sell or make available specific information about our clients or their clients, except in aggregate form, and except in cooperation with law enforcement bodies in regards to content violations or violations of applicable laws. We maintain a database of member and user information which is used only for internal purposes such as advertising, collections efforts, technical support,  notifying members of changes or enhancements to the service, new services and products that may be of interest to them, and special discounts available.<br>
+<br>
+Qualtrics uses VeriSign's secure services for online credit card payment transactions and does not record or store credit card information on its site or servers.<br>
+<br>
+Any member may cancel their membership at any time by going to their survey administration page. Questions or problems regarding this policy may be sent to 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy85737 = 's&#117;pp&#111;rt' + '&#64;';
+ addy85737 = addy85737 + 'q&#117;&#97;ltr&#105;cs' + '&#46;' + 'c&#111;m';
+ var addy_text85737 = 's&#117;pp&#111;rt' + '&#64;' + 'q&#117;&#97;ltr&#105;cs' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy85737 + '\'>' );
+ document.write( addy_text85737 );
+ document.write( '<\/a>' );
+ //-->\n </script><a href="mailto:support@qualtrics.com">support@qualtrics.com</a><script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spam bots, you need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+
+	
+		
+
+					</div>
+			<div class="contentFooter">
+				<div id="mainContentRoundBottomShort">&nbsp;</div>
+				<a href="/contact.html"><div id="mainContentEmailButtonShort" class="LinkCursor"></div></a>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div id="footerContainer">
+		  
+		  		  
+		
+		  
+    <div id="topFooter1"><ul><li><span class="topFooterTitle"><a href="http://www.qualtrics.com/wiki/">survey university</a></span><br>
+      Need tutorials, guides, articles about how to build surveys, or what to include in specific types of surveys</li>
+    </ul></div>
+    <div id="topFooter2"><ul><li><span class="topFooterTitle"><a href="/enterprise-feedback-management.html">enterprise feedback management</a></span><br>
+      EFM provides feedback and data collection for your entire organization. Actionable and timely data, shared across corporate boundaries.</li>
+    </ul></div>
+    <div id="topFooter3"><ul><li><span class="topFooterTitle"><a href="http://www.aboutsurveys.com/">blog: about surveys</a></span><br>
+      Aboutsurveys.com presents current topics and discussions about customer satisfaction, concept testing and how to create surveys.</li>
+    </ul></div>
+    <div id="topFooter4"><ul><li><span class="topFooterTitle"><a href="/voice-of-the-customer.html">voice of the customer</a></span><br>
+      Know your customers through a continual flow of customer feedback. Increase customer retention with alert triggers allowing you to respond immediately to your customers.</li>
+    </ul></div>
+    <div id="bottomFooter1"><strong><a href="/customer-satisfaction-surveys.html">CUSTOMER SATISFACTION SURVEYS</a></strong><br>
+      <a href="/customer-service-surveys.html">Customer Service</a><br>
+      <a href="/test-market-analysis-surveys.html">Test Market</a><br>
+      <a href="/online-advertising-surveys-and-research.html">Advertising</a><br>
+      <a href="/sales-lead-generation-software-and-systems.html">Lead Generation</a></div>
+<div id="bottomFooter2"><strong><a href="/consumer-surveys.html">CONSUMER SURVEYS</a></strong><br>
+  <a href="/habits-and-uses-surveys.html">Consumer Habits and Uses</a><br>
+  <a href="/customer-attitudes-and-expectations-surveys.html">Consumer Attitudes</a><br>
+    <a href="/customer-retention-surveys.html">Consumer Retention</a><br>
+    <a href="/new-product-acceptance-surveys.html">New Product Acceptance</a></div>
+<div id="bottomFooter3"><strong><a href="/product-surveys.html">PRODUCT SURVEYS</a></strong><br>
+  <a href="/brand-management-surveys.html">Brand and Product</a><br>
+  <a href="/concept-test.html">Concept Test</a><br>
+  <a href="/product-pricing-surveys.html">Pricing</a><br>
+    <a href="/conjoint-analysis-surveys.html">Conjoint Analysis</a><br>
+    <a href="/product-positioning-surveys.html">Product Positioning</a></div>
+<div id="bottomFooter4"><strong><a href="/employee-satisfaction-survey.html">EMPLOYEE SATISFACTION SURVEYS</a></strong><br>
+  <a href="/360-feedback-surveys.html">360 Feedback</a><br>
+  <a href="/exit-interview-surveys.html">Exit Interview</a><br>
+  <a href="/employee-retention-surveys.html">Employee Retention</a><br>
+    <a href="/whistle-blower-surveys.html">Whistle Blower</a><br>
+    <a href="/sarbanes-oxley-evaluation.html">Sarbanes Oxley Evaluation</a></div>
+<div id="bottomFooter5"><strong><a href="/market-segmentation-surveys.html">MARKET SEGMENTATION SURVEYS</a></strong><br>
+  <a href="/attitude-surveys-benefit-surveys.html">Attitude Surveys - Benefit</a><br>
+  <a href="/demographic-surveys.html">Demographic</a><br>
+    <a href="/panel-management.html">Panel Management Software</a><br>
+    <a href="/enterprise-feedback-management.html">Enterprise Feedback Management</a></div>
+<br class="clearfloat">
+</div>
+  
+<!-- Google Analytics Setup -->
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-570722-1");
+  pageTracker._trackPageview();
+</script>
 
 
 
-</body></html>
+		</div>
+	</div>
+</div>
+<!-- 1229445058 --></body></html>
