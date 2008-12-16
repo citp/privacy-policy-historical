@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumtree.sg privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624082918id_/http%3A//singapore.gumtree.sg/p-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.sg privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151537id_/http%3A//singapore.gumtree.sg/p-Privacy) for the most accurate reproduction.*
 
 # Gumtree : About Gumtree
 
