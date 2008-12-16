@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516075827id_/http%3A//www.skipton.co.uk/securityAndPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160515id_/http%3A//www.skipton.co.uk/securityAndPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Important Security and Privacy Policy - Skipton Building Society - mutual matters
 
