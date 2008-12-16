@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the marketamerica.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221173720id_/http%3A//www.marketamerica.com/corporate/index.cfm%3Faction%3Dservices.wpPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketamerica.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216112317id_/http%3A//www.marketamerica.com/corporate/index.cfm%3Faction%3Dservices.wpPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Market America
 
-| 
-
+|   
+  
 |  | privacypolicy  
 ---|---  
    
@@ -21,7 +21,7 @@ We appreciate the trust you place in Market America, and we are committed to res
 To best serve your needs, we will, from time to time, collect certain information from you. The information we collect may include, without limitation, your name, address, telephone number, email address, corporate information, testimonial, credit card information and date of birth. Personal information will be collected at various times including, without limitation, when you:
 
   * Register as a Preferred Customer
-  * Order or reorder products by telephone or on our website
+  * Order or reorder products, services and/or gift cards by telephone or on our website
   * Write an e-mail or letter to Market America
   * Sign up for Auto Ship
   * Submit a testimonial to Market America
@@ -75,7 +75,7 @@ Market America uses cookies on our websites. A cookie is a small data file that 
   
 **How We Use Email**
 
-When you provide us your email address, you may receive emails from us or from one of our Independent Distributors. E-mails may be sent in order to assist us in processing your order, respond to a request, provide customer service or inform you about products, services or promotional materials. It is our intent to send promotional e-mails only to those persons who wish to receive them. We provide instructions on how to unsubscribe in our e-mails.   
+When you provide us your e-mail address, you may receive e-mails from us or from one of our Independent Distributors. E-mails may be sent in order to assist us in processing your order, respond to a request, provide customer service or inform you about products, services or promotional materials. It is our intent to send promotional e-mails only to those persons who wish to receive them. We provide instructions on how to unsubscribe in our e-mails.   
    
   
 **Links to Other Sites**
@@ -114,4 +114,6 @@ By using Market America facilities and continuing to order products and services
 **Contact Us**
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at [privacy@marketamerica.com](mailto:privacy@marketamerica.com).  
- 
+   
+  
+  | 
