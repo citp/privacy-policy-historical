@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tycoelectronics.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014024222id_/http%3A//www.tycoelectronics.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tycoelectronics.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216010636id_/http%3A//www.tycoelectronics.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Tyco Electronics - Products
 
