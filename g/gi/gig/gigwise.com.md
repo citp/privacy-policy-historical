@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gigwise.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513152035id_/http%3A//gigwise.com/info/69/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigwise.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020439id_/http%3A//www.gigwise.com/info/69/PrivacyStatement) for the most accurate reproduction.*
 
-# GIGWISE, Privacy Policy
+# Privacy Policy - GIGWISE
 
 **This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.gigwise.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.** "You" shall mean you, the user of the Site. "We/Us" means Gigwise. The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.
 
@@ -32,11 +32,4 @@ Cookies do not attach to Your system and damage Your files. If You do not want i
 Security is very important to Us. Security procedures are in place to protect the confidentiality, integrity and availability of Your User information. Your User information will not be kept longer than is necessary for the purposes stated at the collection point or in this Privacy Policy.
 
 **Updates**  
-You may notify Us of any updates, amendments and corrections to previously collected User Information by using the E-mail address below or the Contact section on the site. Further, upon Your request, We will use commercially reasonable efforts to delete Your User Information from our database; however, it may be impossible to delete Your entry without some residual information remaining because of backups and records of deletions.
-
-We reserve the right, at any time, to modify, alter, or update this Privacy Policy.
-
-**Contact**  
-Any queries or comments about this policy should be forwarded to gigwise 'AT' gigwise.com
-
-Any site that you may connect to from here is not covered by this Privacy Policy.
+You may notify Us of any updates, amendments and corrections to previously collected User Information by using the E-mail address below or the Contact section on the site.
