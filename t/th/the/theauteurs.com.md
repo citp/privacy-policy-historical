@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theauteurs.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410002151id_/http%3A//www.theauteurs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theauteurs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165302id_/http%3A//www.theauteurs.com/privacy_policy) for the most accurate reproduction.*
 
-# The Auteurs - Privacy Policy
+# Privacy Policy
 
-The Auteurs’ Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using The Auteurs, located at http://theauteurs.com and its directly associated domains and social network presence (collectively, "The Auteurs" or "Website"). 
+The Auteurs’ Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using The Auteurs, located at http://www.theauteurs.com and its directly associated domains and social network presence (collectively, "The Auteurs" or "Website"). 
 
 By using or accessing The Auteurs, you are accepting the practices described in this Privacy Policy. 
 
