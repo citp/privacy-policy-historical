@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-surf.net privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502151910id_/http%3A//www.2-surf.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-surf.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216095736id_/http%3A//www.2-surf.net/privacy.php) for the most accurate reproduction.*
 
 # Cosmetics,Fragrance,Handbags,Jewelry,Shoes,Music,Art,Music,Automotive,WebTools
 
@@ -15,39 +15,39 @@
 |  Recent Listings  
 ---  
   
-  [ ** _1º TV FOR RICH & FAMOUS_**](http://www.2-surf.net/Family/Entertainment/12-47-0-18454-0-0.html) \- Other, New York 
+  [ ** _american express blue card_**](http://www.2-surf.net/Financial-services/Credit-Cards/13-51-0-20020-0-0.html) \- USA, New York 
 
-  Theresa Bernabe TV, the first international luxury television on internet dedica
+  Online Credit Card Application Site 
 
-  (12-11-2006)
+  (01-08-2007)
 
-  [ ** _Clean Spam_**](http://www.2-surf.net/Computer-&-Electronics/Computer-Support/9-36-0-21257-0-0.html) \- Australia, Alabama 
+  [ ** _Forex Trader Forum, where forex traders talk about forex_**](http://www.2-surf.net/Financial-services/Investment/13-53-0-15072-0-0.html) \- USA, Alabama 
 
-  Clean Spam provides spam removal service for all businesses. We are specialists 
-
-  (01-28-2007)
-
-  [ ** _French abroad_**](http://www.2-surf.net/Education/Languages/10-42-0-14348-0-0.html) \- Other, Other 
-
-  Intensive French for non-speakers school in Paris, France. Various courses &
+  Forextraderforum.com is a forum where Forex traders come together to educate, sh
 
   (10-20-2006)
 
-  [ ** _Pocono Earth_**](http://www.2-surf.net/Recreation-&-Leisure/Outdoors/24-99-0-23526-0-0.html) \- USA, Pennsylvania 
+  [ ** _NanayOnting.com_**](http://www.2-surf.net/Family/Entertainment/12-47-0-12140-0-0.html) \- USA, Alabama 
 
-  Free recreational locations in the Pocono Mountains PA. Hiking, Hunting, fishing
+  Nanay died in childbirth. This site is a tribute to her hardworking and loving n
 
-  (03-06-2007)
+  (10-20-2006)
 
-  [ ** _gts_**](http://www.2-surf.net/ArtPhotoMusic/Music/2-5-0-16213-0-0.html) \- Other, Other 
+  [ ** _Microsoft Training London And UK Wide_**](http://www.2-surf.net/Education/Professional/10-43-0-5646-0-0.html) \- United Kingdom, 
 
-  Dedicated to Ludwig van Beethoven, the site offers the reader detailed informati
+  Microsoft office training London and UK wide. Instructor led. Including Ms Proje
 
-  (11-05-2006)
+  (10-20-2006)
 
-  [ ** _Sabamasoft_**](http://www.2-surf.net/Home-&-Garden/Kitchen/18-82-0-8357-0-0.html) \- USA, 
+  [ ** _peter_**](http://www.2-surf.net/Business/Business-To-Business/5-18-0-3478-0-0.html) \- USA, 
 
-  This BathroomAccesories common description appears at the end of every Category 
+  The interest rates are charged by lenders when someone borrows a loan from them 
+
+  (10-20-2006)
+
+  [ ** _Burning Grooves_**](http://www.2-surf.net/ArtPhotoMusic/Music/2-5-0-6051-0-0.html) \- United Kingdom, 
+
+  Online music technology resource featuring articles, reviews and interviews for 
 
   (10-20-2006)  
   
@@ -167,69 +167,69 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 Featured Listings  
 ---  
   
-  [ ** _Insurance Broker Finder UK_**](http://www.2-surf.net/Insurance/Car-Insurance/19-137-0-29558-0-0.html) \- United Kingdom, Idaho 
+  [ ** _Car hire Finder_**](http://www.2-surf.net/Travel/Car/27-108-0-29553-0-0.html) \- United Kingdom, Arkansas 
 
-  This website has listed every uk insurance broker from scotland and ireland to w
+  This website has listed every car hire firm in the uk. the listings provide chea
 
-  [ ** _SafeGuard World International Managed Payroll_**](http://www.2-surf.net/Business/Business-To-Business/5-18-0-29510-0-0.html) \- United Kingdom, Alabama 
+  [ ** _Fantasize Me_**](http://www.2-surf.net/Recreation-&-Leisure/Matchmaking/24-97-0-29571-0-0.html) \- United Kingdom, Alabama 
 
-  SafeGuard World provide managed payroll and HR solutions to a range of industrie
+  FREE Dating for Women,that means theres more choice for you blokes! FREE 48 Hour
+
+  [ ** _IndoorAthlete.com_**](http://www.2-surf.net/Sports-&-Fitness/Online-Stores/26-154-0-29560-0-0.html) \- USA, Louisiana 
+
+  Family run business featuring name brand darts, dartboards, and dart accessories
+
+  [ ** _gVilla Boutique_**](http://www.2-surf.net/Accessories/Clothes-Shops/1-133-0-29579-0-0.html) \- United Kingdom, New York 
+
+  We are an online department store specialising in designer goods. We offer class
 
   [ ** _The Cellular One_**](http://www.2-surf.net/Commerce/Telephone-Services/8-33-0-14132-0-0.html) \- USA, Kansas 
 
   Compare Cell Phones, Research Cellular phones, Free cell phones, Compare Cell Ph
 
-  [ ** _Felix-Enterprises_**](http://www.2-surf.net/ClothingApparel/Women's/7-28-0-15764-0-0.html) \- USA, Oregon 
+  [ ** _Lanzarote Tourist_**](http://www.2-surf.net/Travel/Vacation/27-111-0-19129-0-0.html) \- Europe, Alabama 
 
-  We carry hot lingerie and sexy intimate. FREE shipping on all orders over $50.00
-
-  [ ** _Phone Shop Finder_**](http://www.2-surf.net/Commerce/Telephone-Services/8-33-0-29559-0-0.html) \- United Kingdom, Arkansas 
-
-  This website is a large directory of all UK phone shops and mobile phone shops. 
-
-  [ ** _Photographer Erik Hagman_**](http://www.2-surf.net/ArtPhotoMusic/Photo/2-6-0-29529-0-0.html) \- USA, New York 
-
-  Photographer Erik Hagman, Cars, Still-Life and Landscape Photography.  
+  Information on local history, current weather and a complete overview of the mai  
   
   
 Top Listings  
 ---  
   
-  [ ** _drugstores4u.com_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-2222-0-0.html) \- Canada, 
-
-  FDA approval drugs online, the cheapest prescription Tramadol, fioricet, ultram,
-
-  ( **16767** Hits since 10-19-2006)
-
   [ ** _BestgenericPharmacy_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-9799-0-0.html) \- USA, 
 
   generic pharmacy online offers you the finest quality generic drugs for a very c
 
-  ( **16467** Hits since 10-20-2006)
+  ( **19293** Hits since 10-20-2006)
+
+  [ ** _drugstores4u.com_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-2222-0-0.html) \- Canada, 
+
+  FDA approval drugs online, the cheapest prescription Tramadol, fioricet, ultram,
+
+  ( **19085** Hits since 10-19-2006)
 
   [ ** _bestgenericpharmacy_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-2809-0-0.html) \- USA, 
 
   Order generic Viagra and other prescription drugs online, online generic pharmac
 
-  ( **12809** Hits since 10-20-2006)
+  ( **15623** Hits since 10-20-2006)
 
   [ ** _PillHunt_**](http://www.2-surf.net/Sports-&-Fitness/Exercise-&-Health/26-102-0-2305-0-0.html) \- USA, 
 
   Weightloss comparison and general fitness information at Pillhunt.com
 
-  ( **6826** Hits since 10-20-2006)
+  ( **8895** Hits since 10-20-2006)
 
   [ ** _genericsmed_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-15787-0-0.html) \- United Kingdom, Other 
 
   Buy Generic Viagra, Cialis, Propecia, Levitra online. Guaranteed Cheap,Confident
 
-  ( **5834** Hits since 10-29-2006)
+  ( **7989** Hits since 10-29-2006)
 
   [ ** _Cheap Web Design_**](http://www.2-surf.net/Web-Services/Web-Design/28-119-0-19105-0-0.html) \- United Kingdom, Alabama 
 
   Cheap inexpensive website design, SEO and Marketing based in scotland UK. Low pr
 
-  ( **3950** Hits since 12-21-2006)  
+  ( **7425** Hits since 12-21-2006)  
   
   
   
