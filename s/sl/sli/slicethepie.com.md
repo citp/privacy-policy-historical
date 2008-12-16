@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the slicethepie.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613173137id_/http%3A//www.slicethepie.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slicethepie.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152212id_/http%3A//www.slicethepie.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Slicethepie - Home > Privacy policy
+# Slicethepie - Privacy policy
+
+Outline of our policy on the holding and use of personal information gathered by Slicethepie and the rights and responsibilities of Slicethepie and the user to whom the information relates.
 
 This Privacy Policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by Slicethepie. If you have any requests concerning your personal information or any queries with regard to these practices please contact us at [legal@slicethepie.com](mailto:legal@slicethepie.com).
 
@@ -13,13 +15,16 @@ We collect additional information automatically about your visit to our web site
 ## Use of personal information
 
 We process personal information collected via this web site for the purposes of:
-    providing and personalising our services
-    dealing with your enquiries and requests
-    administering orders and accounts relating to our suppliers or customers
-    administering membership records
-    maintaining information as a reference tool or general resource
-    carrying out market research campaigns
-    providing you with information about products and services
+
+  * providing and personalising our services
+  * dealing with your enquiries and requests
+  * administering orders and accounts relating to our suppliers or customers
+  * administering membership records
+  * maintaining information as a reference tool or general resource
+  * carrying out market research campaigns
+  * providing you with information about products and services
+
+
 
 You may opt-out by sending us an email at [membership@slicethepie.com](mailto:membership@slicethepie.com).
 
@@ -27,7 +32,7 @@ We may also use and disclose information in aggregate (so that no individuals ar
 
 ## Use of cookies
 
-A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. Find out more about the use of cookies on [www.cookiecentral.com](http://www.cookiecentral.com/ "external link to Cookie Central").
+A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. Find out more about the use of cookies on [www.cookiecentral.com](http://www.cookiecentral.com/).
 
 We use cookies to identify you when you visit this web site and to keep track of your browsing patterns and build up a demographic profile.
 
