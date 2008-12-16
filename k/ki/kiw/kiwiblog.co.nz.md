@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiwiblog.co.nz privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421033426id_/http%3A//www.kiwiblog.co.nz/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwiblog.co.nz privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216064059id_/http%3A//www.kiwiblog.co.nz/privacy_policy) for the most accurate reproduction.*
 
-# Kiwiblog » Privacy Policy
+# Privacy Policy | Kiwiblog
 
 I should follow best practice, and post an explicit privacy policy, so here goes.
 
