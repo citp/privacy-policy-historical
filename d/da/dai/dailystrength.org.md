@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailystrength.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608123506id_/http%3A//dailystrength.org/content/view/201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailystrength.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015420id_/http%3A//dailystrength.org/content/view/201) for the most accurate reproduction.*
 
-# DailyStrength Privacy Policy
+# Privacy Policy for DailyStrength
 
 DailyStrength is a warm, caring community where you can discuss anything you like with others in a safe environment. Our primary goal is to offer a secure place where you can reveal as much (or as little) as you choose to reveal about yourself and your life challenges as you meet and interact with other members.
 
