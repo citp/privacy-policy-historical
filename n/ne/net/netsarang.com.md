@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netsarang.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616104654id_/http%3A//www.netsarang.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsarang.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216111722id_/http%3A//www.netsarang.com/company/privacy.html) for the most accurate reproduction.*
 
-# NetSarang Computer, Inc. - PC X server, SSH, SFTP, LPD Softwares for Windows
+# NetSarang - Secure Connectivity Solutions: PC X server, SSH client, SFTP client, LPD server
 
 |  |   
 ---|---  
@@ -11,7 +11,7 @@ NetSarang Computer, Inc. is committed to protecting your privacy. We use the inf
   * We do not sell lists or usage information.
   * We do not report usage or user information to any third-party.
   * We do not accept any advertisement on our site and therefore have no information reporting requirements to any third-party.
-  * We do not send you unsolicited commercial e-mails without providing the means of getting off our address list. 
+  * We do not send you unsolicited commercial emails without providing the means of getting off our address list. 
 
 
 
