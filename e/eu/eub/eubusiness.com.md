@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520131541id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164934id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement — EUbusiness.com - business, legal and economic news and information from the European Union
 
