@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zooomr.com privacy policy that was archived on 2008-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080622141120id_/http%3A//www.zooomr.com/about/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zooomr.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216151622id_/http%3A//www.zooomr.com/about/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" id="Zooomr" dir="ltr" lang="en"><head><title>About Zooomr | Privacy Policy</title>
 
@@ -9,13 +9,14 @@
   <meta name="keywords" content="photo sharing, photography, digital photography, cameraphones, camera, hobby photography, photo, digital camera, compactflash, smartmedia, cameras, canon, nikon, olympus, fujifilm, bluebridge">
   <meta name="Copyright" content="Copyright (c) 2006-08 Zooomr Inc. Zooomr, Zipline and Zooomr Mobile are trademarks of Zooomr Inc. and Zooomr KK in Japan.">
   <meta name="verify-v1" content="OQWt6CZePffxmJ5l7kPtUT2TDueRSUeUUxE+bVTtBRE=">
-	<link rel="shortcut icon" type="image/ico" href="http://assets0.zooomr.com/favicon.ico">
+  <link rel="shortcut icon" type="image/ico" href="http://assets0.zooomr.com/favicon.ico">
   <link rel="stylesheet" href="http://assets0.zooomr.com/css_i/default.css?v=4.61a" type="text/css">
-  <link rel="stylesheet" href="http://assets0.zooomr.com/css_i/lightbox.css" type="text/css">
+  <link rel="stylesheet" href="http://assets0.zooomr.com/css_i/lightbox.css?v=4.62a" type="text/css">
+  <script src="http://assets0.zooomr.com/js_i/jquery-1.2.6.pack.js" type="text/javascript"></script><script>jQuery.noConflict();var j$ = jQuery;</script>
   <script src="http://assets0.zooomr.com/js_i/prototype.js" type="text/javascript"></script>
   
   <script type="text/javascript">
-  var global_kamisama = '3266e64cfa36e25d304cb9be1555a440',
+  var global_kamisama = '5bc0916d95a1d8a70d1a0f6c452ee76d',
   global_auth_hash = '',
   global_auth_token = '',
   global_zooomr_secret = '2aa70e37e5829091',
@@ -24,6 +25,9 @@
   global_icon_url ='http://assets0.zooomr.com/images/avatarmaker/default.png',
   photos_url = '/photos//',
   _ZGLOBAL = {},
+  _GLOBAL_EVENTS = [];
+  _RUN_GLOBAL_EVENTS = function (e) {for (var i=0;_GLOBAL_EVENTS.length>i;i++){if (_GLOBAL_EVENTS[i](e)) _GLOBAL_EVENTS.splice(i,1);}}
+  Event.observe(document,'click',_RUN_GLOBAL_EVENTS);
   _zlang = {}; //For Backwards Compatibility
   var _photo_root = 'http://static.zooomr.com/images/';
   var _icon_root = 'http://static.zooomr.com/avatars/';
@@ -32,81 +36,133 @@
   var _css_root = 'http://assets0.zooomr.com/css_i/';
   </script>
   <script src="/x/jsi18n/en.v1.18/?hl=en" type="text/javascript"></script>
-  <script src="http://assets0.zooomr.com/js_i/main.js?v=4.28b" type="text/javascript"></script>
+  <script src="http://assets0.zooomr.com/js_i/main.js?v=4.29b" type="text/javascript"></script>
   <style type="text/css">
   .tabMenu { margin: 25px 0 0; padding-left: 5px;}
   .tabMenu li { display: inline; margin-left: -5px;}
 
   .blockMenu { margin: 0; padding: 0;}
   .blockMenu li { display: inline;margin-left: 4px;padding:0;}
-  
-  
-  body { background: #F3F3F3 url(http://assets0.zooomr.com/images/site_patterns/base/cloudies.png) 99% 99% fixed no-repeat; color: #4E1F0E; }
-  #zipline_content #sidebar, div.zipline_content_sidebar { background: #FFFFFF; border: 1px solid #B9E4FD; }
-  #youcell {background-color: #FFFFFF; border: 1px solid #B9E4FD; border-bottom-style: none; z-index:1000; }
-  #navcell {background-color: #FFFFFF; border: 1px solid #B9E4FD;}
-  
+
+  /* CUSTOM THEME */
+  body { background: #eeeeee url(http://assets0.zooomr.com/images/site_patterns/base/cloudies.png) no-repeat fixed 0 68px; color: #4E1F0E; }
+  #zipline_content #sidebar, div.zipline_content_sidebar { background: #d1e9fb; border: 1px solid #FFFFFF; padding:1px 6px 0 8px; }
+  #youcell {background-color: #d1e9fb; border: 1px solid #FFFFFF; border-bottom-style: none; z-index:1000; }
+  #navcell {background-color: #d1e9fb; border: 1px solid #FFFFFF;}
+
   #zipline_content #sidebar h2, div.zipline_content_sidebar h2 { color: #4E1F0E; }
-  
+
   /* color defs */
   .theme_master_bg { background: transparent; }
-  
+
   a:active, a:hover { background-color: #fff; }
   a:link, a:visited { color: #15386C; }
-  
+
   a.smalllink_ltgrey:link, a.smalllink_ltgrey:visited { color: #15386C; }
   a.smalllink_ltgrey:hover, a.smalllink_ltgrey:active { background: #fff; color: #15386C; }
-  
+
   a.nav:link, a.nav:visited { color: #15386C; }
-  a.nav:hover, a.nav:active { background: #ffffff; color:#15386C; }
-  
-  .theme_rounded_background { padding:2px; background: #B9E4FD; }
-  
-  .theme_background_as_bdr { border: 2px solid #F3F3F3; }
-  .theme_background_as_bdr_lite { border: 1px solid #F3F3F3; }
-  
-  .theme_sbar_border { border: 2px solid #B9E4FD; }
-  .theme_sbar_border_lite { border: 1px solid #B9E4FD; }
-  
-  .theme_sbar_fill_clr_bg { background: #FFFFFF; }
-  .theme_sbar_fill_clr_lite_color { color: #ffffff; }
-  .theme_sbar_fill_clr_lite_bg { background: #ffffff; }
-  
+  a.nav:hover, a.nav:active { background: #faffff; color:#15386C; }
+
+  .theme_rounded_background { padding:2px; background: #FFFFFF; }
+
+  .theme_background_as_bdr { border: 2px solid #eeeeee; }
+  .theme_background_as_bdr_lite { border: 1px solid #eeeeee; }
+
+  .theme_sbar_border { border: 2px solid #FFFFFF; }
+  .theme_sbar_border_lite { border: 1px solid #FFFFFF; }
+
+  .theme_sbar_fill_clr_bg { background: #d1e9fb; }
+  .theme_sbar_fill_clr_lite_color { color: #faffff; }
+  .theme_sbar_fill_clr_lite_bg { background: #faffff; }
+  .theme_sbar_txt_clr { color:#222 !important; }
+
   .theme_txt_clr { color: #4E1F0E; }
-  .theme_name_clr { color: #15386C; }
-  
+  .theme_name_clr { color: #3179EE; }
+
   /* head navs */
-  h1, h2, h3, h4 { color: #15386C; }
-  
+  h1, h2, h3, h4 { color: #3179EE; }
+
   /* zipline */
   #zipline_content .zipline .even { background-color: #f9f9f9; }
-  .theme_zipline_bubble { -moz-border-radius: 5px; background-color: #fff; padding:5px;margin:5px 5px 0 5px; border: 2px solid #B9E4FD;}
-  
+  .theme_zipline_bubble { -moz-border-radius: 5px; background-color: #fff; padding:5px;margin:5px 5px 0 5px; border: 2px solid #FFFFFF;}
+
   .tabMenu li a { display: inline; padding: 3px 20px 1px 20px; background: #e6e6e6; text-decoration: none; color: #4c4c4c; border-top: 1px solid #cecece;border-right: 1px solid #cecece; border-left: 1px solid #cecece; -moz-border-radius-topleft: 5px; -moz-border-radius-topright: 5px; }
   .tabMenu li a:hover { text-decoration: none; color: #fff; background: #999;}
   .tabMenu li.active a { background: #fff; color: #000; border-bottom: 1px solid #fff; }
-  
-  #zipline_content #updateForm .bar {line-height: 2.5em; position: relative; padding: 0 3px 0 6px;background: #B9E4FD;}
-  #zipline_content #updateForm .bar h3 {font: normal 1.5em/1.5 Helvetica, Arial, sans-serif; color:#fff;}
-  #zipline_content #updateForm .bar h3 img {background: url(/images/tidbits/tp30p_white.png);padding:3px;}
-  #zipline_content #updateForm .info {background: #FFFFFF; padding-top: 4px; text-align: center;}
-  #zipline_content #updateForm textarea {width: 280px; margin: 0 2px; border:0; padding: 9px; font: 1.15em/1.1 Helvetica, Arial, sans-serif; background: #fff; overflow: hidden;border:2px solid #B9E4FD;}
-  
+
+  #zipline_content #updateForm .bar, .sideNav .bar {line-height: 2.5em; position: relative; padding: 0 3px 0 6px;background: #FFFFFF;}
+  .sideNav .bar a { background: none;text-decoration:none;color:#333; }
+  #zipline_content #updateForm .bar h3, .sideNav .bar h3 {font: normal 1.5em/1.5 Helvetica, Arial, sans-serif; color:#333;}
+  #zipline_content #updateForm .bar h3 img, .sideNav .bar h3 img {background: url(/images/tidbits/tp30p_white.png);padding:3px;}
+  #zipline_content #updateForm .info {background: #d1e9fb; padding-top: 4px; text-align: center;}
+  #zipline_content #updateForm textarea {width: 280px; margin: 0 2px; border:0; padding: 9px; font: 1.15em/1.1 Helvetica, Arial, sans-serif; background: #fff; overflow: hidden;border:2px solid #FFFFFF;}
+
   #zipline_content #updateForm .submit {text-align:right;position:relative;background: transparent url(http://assets0.zooomr.com/images/tidbits/bubble_arr.png) no-repeat top left; padding: 8px; height:48px;top:-2px;}
   #zipline_content #updateForm .submit span#submit_loading {padding-top:.3em;}
   #zipline_content #updateForm .submit span#chars_left_notice {font-size: 0.92em; display: block;margin:0 auto;text-align:right;padding-right:5px;}
   #zipline_content #submit {display: block; padding: 3px 10px; margin: 5px auto; margin-right:5px; font: bold 1.12em/1.5 Helvetica, Arial, sans-serif;}
-  
-  
+
+
   .hello {position:relative; top:-2px; text-align:left; background: transparent url(http://assets0.zooomr.com/images/tidbits/bubble_arr.png) no-repeat top left; padding: 8px;width: 400px; height: 52px;}
-  
-   #SubNav { background: #fff; margin:0; } /*
-   .transback { background: url(http://assets0.zooomr.com/images/tidbits/tp30p_black.png); } */
+
+  #SubNav { background: #fff; margin:0; } /*
+  .transback { background: url(http://assets0.zooomr.com/images/tidbits/tp30p_black.png); } */
 
   .blockMenu li a { display: inline; padding: 2px; background: #e6e6e6; text-decoration: none; color: #4c4c4c; }
   .blockMenu li a:hover { text-decoration: none; color: #fff; background: #999;}
   .blockMenu li.active a { background: #fff; color: #000; border-bottom: 3px solid #fff;font-weight:bold; }
+
+  .navMenu { margin: 0; padding: 0;}
+  .navMenu li { display: inline;margin-left: 4px;padding:0;position:relative;z-index:1000;}
+  .navMenu li .navMenuPull {display:none;top:19px;position:absolute;width:180px;background: #d1e9fb;border-color:#d1e9fb #FFFFFF #FFFFFF #ccc;border-style:none solid solid;border-width:0pt 1px 1px;}
+  .navMenu li .navMenuPull a {padding:6px;line-height:0.96em;display:block;font-size:0.87em;text-decoration: none;}
+  .navMenu li .navMenuPull a:hover {text-decoration:underline;background:#faffff !important; }
+  .navMenu li .navMenuPull div {border-top:1px solid #ddd;}
+
+
+  .navMenu li img { vertical-align:text-bottom; }
+
+  .navMenu li > span { background: none;font-size:13px;line-height:25px;padding:3px 3px 3px 3px;border-color:#d1e9fb;border-color-bottom:none;border-style:solid;border-width:1px;font-weight:bold;}
+  .navMenu li > span:hover, .navMenuLiHover { background:#faffff !important;text-decoration: none;padding-bottom:5px;color:#15386C;border-color:#ccc #888 #faffff #ccc !important;border-style:solid;border-width:1px;}
+
+  .navMenu li > span > a { background:none;text-decoration:none; }
+  .navMenu li > span > a:hover { background:none;text-decoration:underline; }
+
+  .widgetKit_drop_dark{background:transparent url(http://assets0.zooomr.com/images/tidbits/widget_kit_dark.gif) no-repeat scroll 0 0 !important;}
+  .widgetKit_drop_dark_promoted, a:hover .widgetKit_drop_dark{background:transparent url(http://assets0.zooomr.com/images/tidbits/widget_kit_dark.gif) no-repeat scroll 0 -12px !important;}
+
+  .widgetKit_drop_lite{background:transparent url(http://assets0.zooomr.com/images/tidbits/widget_kit_lite.gif) no-repeat scroll 0 0 !important;}
+  .widgetKit_drop_lite_promoted, a:hover .widgetKit_drop_lite{background:transparent url(http://assets0.zooomr.com/images/tidbits/widget_kit_lite.gif) no-repeat scroll 0 -12px !important;}
   </style>
+  <script>
+  navmenu = {
+      openMenu: function(tabname) {
+        var t = $("navtab_" + tabname);
+        var c = t.childElements()
+        c[1].clonePosition(t, {setWidth:0,setHeight:0,setTop:1,offsetTop:t.getHeight()+4});
+        c[1].setStyle({display:'block'});
+        c[0].addClassName("navMenuLiHover");
+        _GLOBAL_EVENTS.push(function(e) {if(!isChild(e.target,t)){navmenu.closeMenu(tabname);return 1;}});
+      },
+      closeMenu: function(tabname) {
+        var t = $("navtab_" + tabname);
+        var c = t.childElements()
+        c[0].removeClassName("navMenuLiHover");
+        c[1].setStyle({display:'none'});
+      },
+      toggleMenu: function(tabname) {
+      var t = $("navtab_" + tabname);
+      var c = t.childElements()
+      if (c[0].hasClassName("navMenuLiHover")) {
+        this.closeMenu(tabname);
+      } else {
+        this.openMenu(tabname);
+      }
+    }
+  }
+
+  </script>
   <!-- Head content --><style type="text/css" media="screen"> div.rounded_white { background:#fff;padding: 3px; } </style>
 <script src="http://assets0.zooomr.com/js_i/niftycube.js?v=0.1" type="text/javascript"></script>
 <script type="text/javascript">
@@ -118,10 +174,16 @@ addLoadEvent( function() {
 </head><body class="platform">
 <script type="text/javascript">zloader.build();</script>
 <div id="auto_complete_area" class="auto_complete" style="z-index: 5100;position: absolute;display: none;"></div>
-<div id="container" style="background: url(/images/tidbits/tp30p_white.png);">
-  <!-- Header content -->
+<div style="background-color: #d1e9fb; border-bottom: 1px solid #FFFFFF;text-align:left;">
+  <!-- Header content --><!-- google_ad_section_start(weight=ignore) -->
   
   
+  
+  <div id="global_msg" style="padding:5px;text-align:center;"><img src="http://assets0.zooomr.com/images/silk/star.png" style="vertical-align:-3px;"> <strong>Hey Friends,</strong> do you use <a href="http://www.facebook.com/pages/Zooomr/64865490008">facebook</a>? <strong>Please take a moment to <a href="http://www.facebook.com/pages/Zooomr/64865490008">add yourself to Zooomr</a> on Facebook Today!</strong> <img src="http://assets0.zooomr.com/images/silk/star.png" style="vertical-align:-3px;"></div>
+  
+
+  
+
   
 
   
@@ -132,44 +194,70 @@ addLoadEvent( function() {
   
 
   
-
-  <!-- google_ad_section_start(weight=ignore) -->
-  <table id="headerblock" cellspacing="0" cellpadding="0" width="100%" height="45" style="border-collapse:separate;padding:10px;line-height:0.45;">
-    <tbody><tr>
-      <td valign="bottom"><a href="http://www.zooomr.com/" class="image_link"><img src="http://assets0.zooomr.com/images/logos/zooomr_fresh_logo_sm_08.png" alt="Zooomr" width="168" height="40"></a></td>
-      <td align="right" style="padding-right:10px;font-size:13px;">
-        
-        <div id="youcell" dir="ltr">
-          
-          
-          <img src="http://assets0.zooomr.com/images/silk/group.png" alt=""> <form action="/search/people/" method="get" style="display:inline;"><input style="color: #333;font-size: 12px;padding-left: 2px;width: 175px;" type="text" name="q" id="top_q" value="Find Friends!" size="30"> <input type="image" src="http://assets0.zooomr.com/images/silk/bullet_go.png" alt="" style="vertical-align:bottom;"></form>
-          OR <a href="/discover/100/" class="nav"><img src="http://assets0.zooomr.com/images/silk/images.png" alt=""> Discover</a><a href="/login/" class="nav"><img src="http://assets0.zooomr.com/images/silk/door_in.png"> Sign-In</a><a href="/signup/" class="nav"><img src="http://assets0.zooomr.com/images/silk/star.png"> Join Zooomr!</a>
-        </div>
-        <div style="clear:all;"></div>
-        <br>
-        
-          <script type="text/javascript">
-          var sf = $('top_q')
-          if (sf.value == 'Find Friends!') { sf.style.color = '#999'; }
-          
-          sf.onblur = function() {
-            if (this.value != '') return;
-            this.value = 'Find Friends!';
-            this.style.color = '#999';
-          }
-
-          sf.onfocus = function() {
-            this.style.color = '#222';
-            if (this.value == 'Find Friends!') { this.value = ''; }
-
-          }
-          </script>
-      </td>
-    </tr>
+  <div style="width:840px;margin:0 auto;padding:5px 5px 0 5px;position:relative;z-index:900;">
     
-  </tbody></table><!-- google_ad_section_end -->
+
+    <a href="http://www.zooomr.com/" class="image_link"><img src="http://assets0.zooomr.com/images/logos/zooomr_fresh_logo_sm_08.png" alt="Zooomr" width="168" height="40"></a><br>
+    <div>
+      <ul class="navMenu">
+        <li><span><a href="/">Home</a></span></li>
+        
+        
+
+        
+        <li><span><img src="http://assets0.zooomr.com/images/silk/door_in.png"> <a href="/login/">Sign-In</a></span></li>
+        <li><span><img src="http://assets0.zooomr.com/images/silk/star.png"> <a href="/signup/">Join Zooomr!</a></span></li>
+        <li id="navtab_discover"><span><img src="http://assets0.zooomr.com/images/silk/images.png" alt=""> <a href="/discover/100/">Discover</a> <a href="javascript:void(0);" onmouseup="navmenu.toggleMenu('discover');this.blur();"><img class="widgetKit_drop_dark" width="12" height="12" style="vertical-align: text-middle;" src="http://assets0.zooomr.com/images/tidbits/blank.gif" alt=""></a></span>
+            <div class="navMenuPull">
+              <a href="/discover/100/">Discover One Hundred</a>
+              <a href="/discover/100/pro/">Discover Pro</a>
+              <a href="/undiscovered/100/">Undiscovered</a>
+              <div></div>
+              <a href="/zipline/hotline/">Zipline Hotline</a>
+              <a href="/world/">The World</a>
+              <div></div>
+
+              <a href="/tv/tutorials/">Tutorial Videos</a>
+              <a href="/mobile/">Zooomr Mobile</a>
+              <a href="http://trac.zooomr.com/">Knowledge Center</a>
+              <a href="http://blog.zooomr.com/">Zooomr Blog</a>
+              <a href="/tv/">Zooomr TV</a>
+              <div></div>
+              <a href="/services/">Zooomr Services</a>
+              <a href="/zipfox/">Zipfox</a>
+              <div></div>
+              <a href="/about/">About Zooomr</a>
+            </div>
+        </li>
+        
+
+        <li style="position:absolute;right:8px;"><span><form id="navSearch" action="/search/people/" method="get" style="display:inline;"><input style="color: #333;font-size: 12px;padding-left: 2px;width: 125px;" type="text" name="q" id="top_q" value="Find Friends!" size="30"></form> <a href="javascript:void(0);" onmouseup="if ($('top_q').value == 'Find Friends!') $('top_q').value = ''; $('navSearch').submit();">Search</a></span></li>
+      </ul>
+    </div>
+      <script type="text/javascript">
+      var sf = $('top_q')
+      if (sf.value == 'Find Friends!') { sf.style.color = '#999'; }
+
+      sf.onblur = function() {
+        if (this.value != '') return;
+        this.value = 'Find Friends!';
+        this.style.color = '#999';
+      }
+
+      sf.onfocus = function() {
+        this.style.color = '#222';
+        if (this.value == 'Find Friends!') { this.value = ''; }
+      }
+      </script>
+  </div>
+
+
   
+  <!-- google_ad_section_end -->
   <!-- /END Header content -->
+</div>
+
+<div id="container" style="padding-top:15px;background: url(http://assets0.zooomr.com/images/tidbits/tp30p_white.png);">
   <!-- Main content -->
   <div id="content">
   
@@ -227,7 +315,7 @@ addLoadEvent( function() {
   <!-- /END Main content -->
   <!-- google_ad_section_start(weight=ignore) -->
   <div id="footer">
-    <table cellspacing="0" cellpadding="0" border="0" width="100%">      
+    <table cellspacing="0" cellpadding="0" border="0" width="100%">
       <tbody><tr>
         <td style="font-size:9px;color:#aaa;line-height: 1.5;padding-top:4px;" align="left" valign="top">
           <div id="localebar" style="margin-bottom:3px;">&nbsp;<strong>Language Select</strong> | English | <a href="http://es.zooomr.com/i18n/setlang/?language=es" class="smalllink_grey">Español</a> | <a href="http://de.zooomr.com/i18n/setlang/?language=de" class="smalllink_grey">Deutsch</a> | <a href="http://it.zooomr.com/i18n/setlang/?language=it" class="smalllink_grey">Italiano</a> | <a href="http://pl.zooomr.com/i18n/setlang/?language=pl" class="smalllink_grey">Polski</a> | <a href="http://pt.zooomr.com/i18n/setlang/?language=pt" class="smalllink_grey">Português</a> | <a href="http://pt-br.zooomr.com/i18n/setlang/?language=pt-br" class="smalllink_grey">Português (BR)</a> | <a href="http://nl.zooomr.com/i18n/setlang/?language=nl" class="smalllink_grey">Nederlands</a> | <a href="http://ru.zooomr.com/i18n/setlang/?language=ru" class="smalllink_grey">Русский</a> | <a href="http://jp.zooomr.com/i18n/setlang/?language=ja" class="smalllink_grey">日本語</a> | <a href="http://cn.zooomr.com/i18n/setlang/?language=zh-cn" class="smalllink_grey">简体中文</a> | <a href="http://tw.zooomr.com/i18n/setlang/?language=zh-tw" class="smalllink_grey">繁體中文</a></div>
@@ -240,15 +328,16 @@ addLoadEvent( function() {
                 <a href="/discover/100/last-week/">Last Week</a> |
                 <a href="/discover/100/last-month/">Last Month</a> |
                 <a href="/public/">Public Zipline</a> |
-                <a href="/search/">Search</a>			  
+                <a href="/search/">Search</a>
                 </td>
             </tr>
             <tr>
               <th class="Loc">&nbsp;Help</th>
               <td>
+                
                 <a href="/tv/tutorials/">Tutorial Videos</a> |
                 <a href="/groups/help/">Help Group</a> |
-                <a href="/about/contact/">EMail Support</a>		
+                <a href="/about/contact/">EMail Support</a>
               </td>
             </tr>
             <tr>
@@ -269,11 +358,12 @@ addLoadEvent( function() {
         <td valign="top" align="center" width="135">
           <a href="http://bbridgetech.com/" class="image_link"><img src="http://assets0.zooomr.com/images/bbtech_logo_fff.gif" alt="A BlueBridge Solution"></a>
           <a href="http://www.zoho.com/" class="image_link"><img src="http://assets0.zooomr.com/images/big_props_to_zoho.gif" alt="Big Props to ZOHO!"></a>
-        </td>  
+        </td>
       </tr>
     </tbody></table> 
   </div><!-- google_ad_section_end -->
 </div>
+
 <script src="http://assets0.zooomr.com/js_i/scriptaculous.js" type="text/javascript"></script>
 <script src="http://assets0.zooomr.com/js_i/lightbox.js" type="text/javascript"></script>
 <script src="http://assets0.zooomr.com/js_i/md5.js" type="text/javascript"></script>
@@ -281,19 +371,21 @@ addLoadEvent( function() {
 <script type="text/javascript">var ZAPI = new ZooomrAPI(global_kamisama, global_zooomr_secret, global_auth_hash);</script>
 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-577752-1";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-577752-1");
+pageTracker._initData();
+pageTracker._setVar('na:en');
+pageTracker._trackPageview();
 </script>
 
-<!-- Start Quantcast tag -->
+<!-- Start Quantcast tag
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-c7XsaeCaiA7q6";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-c7XsaeCaiA7q6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-c7XsaeCaiA7q6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
+<script type="text/javascript">_qacct="p-c7XsaeCaiA7q6";quantserve();</script>  -->
+<img src="http://pixel.quantserve.com/pixel/p-c7XsaeCaiA7q6.gif?1229440581" border="0" height="1" width="1" alt="Quantcast">
 <!-- End Quantcast tag -->
 
 
