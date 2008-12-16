@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the mineeds.com privacy policy that was archived on 2008-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080618001201id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mineeds.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216162555id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>MiNeeds Privacy Policy - MiNeeds</title>
+<title>MiNeeds Privacy Policy | MiNeeds</title>
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -13,6 +13,7 @@
 <link rel="stylesheet" type="text/css" href="css/signup.css?26032008">
 <link rel="stylesheet" type="text/css" href="css/autocompleter.css">
 <link rel="stylesheet" type="text/css" href="css/extra.css?20042008">
+<link rel="stylesheet" type="text/css" href="css/scrollable.css">
 <script language="javascript" src="js/prototype.js"></script>
 <script language="javascript" src="js/scriptaculous/scriptaculous.js"></script>
 <script language="javascript" src="js/signup.js?26032008"></script>
@@ -20,15 +21,104 @@
 <script language="javascript" type="text/javascript" src="js/rollovers.js?16012008"></script>
 <script language="javascript" type="text/javascript" src="js/ajaxurlfixer.js?14042008"></script>
 <script type="text/javascript" src="js/modalwindow.js?10042008"></script>
+<script type="text/javascript" src="js/carousel.js"></script>
 </head>
 
 <body>
+<script language="javascript" type="text/javascript" src="js/cookies.js"></script>
+
+	<style>
+		#contest_popup_window.modal_window {
+			top: 15%;
+			border-color: #395d7f;
+			width: 600px;
+			z-index: 200;
+			padding: 0;
+		}
+	</style>
+	<script>
+		/*Event.observe(window, 'load', function() {
+			var timer_ = 0;
+
+			if(document.cookie.indexOf('contest_popup=')<=0) {
+				timer_ = setTimeout('contestPopUp()', 2000);
+			}
+		});*/
+
+		function contestPopUp() {
+			document.cookie = 'contest_popup=1; path=/';
+
+			var opt = {
+				method: 'get',
+				onSuccess: contestPopUpResult
+			}
+
+			new Ajax.Request('ajax/contest_popup.php', opt);
+		}
+
+		function contestPopUpResult(msg) {
+			var myJSON = eval('(' + msg.responseText + ')');
+			if (myJSON.result == '1') {
+				var arrayPageSize = [document.body.offsetWidth+document.documentElement.scrollLeft, document.body.offsetHeight+document.documentElement.scrollTop];
+				var leftVal = (arrayPageSize[0]/2) - 300;
+				if ($('service_window') == null) {
+					new Insertion.Bottom(document.body, '<div id="contest_popup_window" style="left:'+leftVal+'px;" class="modal_window"></div>');
+				}
+
+				if ($('backgroundOverlay') == null) {
+					var html = '<div id="backgroundOverlay" style="position: absolute; top: 0px; left: 0px; z-index: 190;';
+					html += 'width: '+arrayPageSize[0]+'px; height: '+arrayPageSize[1]+'px; background-color: rgb(0, 0, 0); display:none;"/>';
+					new Insertion.Bottom(document.body, html);
+					new Effect.Appear('backgroundOverlay', { duration: 0.3, from: 0.0, to: 0.5 });
+				}
+
+				$('backgroundOverlay').show();
+
+				$('contest_popup_window').innerHTML = myJSON.form;
+				$('contest_popup_window').show();
+			}
+
+		}
+
+		function contestPopUpClose() {
+			if ($('contest_popup_window') != null) {
+				$('contest_popup_window').hide();
+			}
+			if ($('backgroundOverlay') != null) {
+				$('backgroundOverlay').hide();
+			}
+		}
+
+	</script>
+
+
+
+
+
 <div class="white" id="main_container">
   <div class="headerdiv" id="header">
+	
+<div style="float:left; width: 20%;">
 	<div class="logo"><a href="http://www.mineeds.com"><img src="images/logo.gif" alt="miNeeds" border="0"></a></div>
-<div class="menu_div"><a href="http://www.mineeds.com"><img src="images/tab_home3.gif" alt="Home" border="0"></a><a href="http://www.mineeds.com/Seattle-Services"><img src="images/tab_searchprov3.gif" alt="Search Provider" border="0"></a><a href="http://www.mineeds.com/Seattle-Needs"><img src="images/tab_searchneed3.gif" alt="Search Needs" border="0"></a></div>
-<div style="float:right; padding:0; margin-top:-8px;" id="header_login_area">
-
+	</div>
+<div style="float:left; width: 80%;">
+	<div class="menu" style="text-align: right;">
+		<div style="float:left;width: 410px;"><a href="/contest" style="font-size: 15px; color: #0099CC;"><b><u>View MiNeeds KidStar Contest</u></b></a></div>
+		<div style="padding:10px 10px 0 0;">
+			<a style="vertical-align:middle; color:#42C355; font-size: 15px; font-weight: bold;margin:0pt 10px;" href="http://www.mineeds.com/pages/sp_howitworks.html">You have a service to offer?
+			<img style="vertical-align:middle;" src="images/howitworks.gif" border="0"></a>
+		</div>
+	</div>
+	<div>
+		<div class="menu_div">
+			<a href="http://www.mineeds.com" style="margin-top:14px;background:url(images/nav-blue.gif);">Home</a>
+			<a href="http://www.mineeds.com/post_need" style="margin-top:14px;background:url(images/nav-blue.gif);">Post Your Need</a>
+			<a href="http://www.mineeds.com/Seattle-Washington-Services" style="margin-top:14px;background:url(images/nav-blue.gif);">Search Services</a>
+			<a href="http://www.mineeds.com/Seattle-Washington-Needs" style="margin-top:14px;background:url(images/nav-blue.gif);">Search Needs</a>
+			<b class="clearl"></b>
+		</div>
+		<div style="padding:0;" id="header_login_area">
+						
 <script language="JavaScript" type="text/javascript" src="js/modalwindow.js"></script>
 <script language="javascript" src="js/infomessage.js"></script>
 <script language="javascript">
@@ -42,9 +132,11 @@ function showSignupEndUser(force, positionSource) {
 	if (typeof(force) == 'undefined')
 		var force = false;
 	if ($('forgot_password_box')) $('forgot_password_box').hide();
+
 	if (!$('signup_box') || $('signup_box').style.display == 'none' || force) {
 		if (signupFormLoaded == 0) {
 			SignupWindow = new ModalWindow('SignupWindow', 'signup_box', 'header', 'modal_window', {contentId:'signup_content'});
+
 			/*if (typeof(positionSource) != 'undefined')
 				Position.clone(positionSource, 'signup_box', {setWidth: false, setHeight: false});*/
 			var opt = {
@@ -191,13 +283,15 @@ function showForgotPassword() {
 </script>
 
 
-<div class="menu" style="padding: 20px 0pt 0pt 20px;" id="rightBlock">
-<a href="javascript:void(0)" onclick="showSignupEndUser(true); return false"><strong>Login or Register</strong></a>
+<div class="menu" style="padding: 14px 0pt 0pt 0px;" id="rightBlock">
+<a style="cursor:pointer;" href="javascript:void(0)" onclick="showSignupEndUser(true); return false"><strong id="login-or-reg">Login or Register</strong></a>
 </div>
+						<b class="clearl"></b>
+		</div>
+	</div>
+	<b class="clearl"></b>
 </div>
-<div style="float:right; padding:0 10px 0 5px;" class="menu"><a href="http://www.mineeds.com/pages/sp_howitworks.html" style="margin:0"><img src="images/youhaveservice.gif" border="0"></a></div>
 <b class="clearl"></b>  </div>
-  <div class="clearit"></div>
   <div class="headerdiv_below">
 <a href="http://www.mineeds.com">Home</a> &gt; <strong>MiNeeds Privacy Policy</strong></div>
 <div class="leftcolumn2">
@@ -279,27 +373,70 @@ function showForgotPassword() {
 </div>
     <p>&nbsp;</p>
     <div class="footerdiv">
-  <div class="footer"><strong>Site Links</strong><br>
-	<a href="pages/AboutMiNeeds.html">About Us</a><br>
-	<a href="pages/contact.html">Contact Us</a><br>
-	<a href="http://blog.mineeds.com">Blog</a><br>
-	<a href="pages/Press.html">Press</a>
-  </div>
+
+  <!--
   <div class="footer2"><strong>Cities</strong><br>
-  	<a href="?search%5Bwhat%5D=&amp;search%5Blocation_id%5D=150645">Seattle, WA</a>
+  	<a href="?search%5Bwhat%5D=&search%5Blocation_id%5D=150645">Seattle, WA</a>
   	  </div>
   <div class="footer2"><strong>Categories</strong><br>
     	<a href="all_categories">Browse all categories</a>
   </div>
   <div class="footer2">
-  <strong><a href="pages/sp_howitworks.html">Products &amp; Services</a></strong><br>
+  <strong><a href="pages/sp_howitworks.html">Products & Services</a></strong><br>
   		<a href="pages/marketing_filming.html">Get filmed</a>
 	  </div>
-  <div class="copyright"> © 2008 miNeeds.com. All rights reserved<br>
-    <a href="pages/privacy.html">Privacy policy</a> | <a href="pages/terms-of-use.html">Terms of Use</a> </div>
-	<div style="clear:both"></div>
-	<div style="font-size:10px;padding-top:10px;">
-<a href="http://www.mineeds.com/services/Auto-Repair-Services" style="font-size:10px;">Auto Repair &amp; Services</a>&nbsp;| <a href="http://www.mineeds.com/services/Auto-Detailing-Services" style="font-size:10px;">Auto Detailing Services</a>&nbsp;| <a href="http://www.mineeds.com/services/Chauffeur-Limo-Service" style="font-size:10px;">Chauffeur &amp; Limo Service</a>&nbsp;| <a href="http://www.mineeds.com/services/Art-Picture-Framing" style="font-size:10px;">Art &amp; Picture Framing</a>&nbsp;| <a href="http://www.mineeds.com/services/Art-Painting-Drawing" style="font-size:10px;">Art Painting &amp; Drawing</a>&nbsp;| <a href="http://www.mineeds.com/services/Body-Art" style="font-size:10px;">Body Art</a>&nbsp;| <a href="http://www.mineeds.com/services/Collage" style="font-size:10px;">Collage</a>&nbsp;| <a href="http://www.mineeds.com/services/Craft" style="font-size:10px;">Craft</a>&nbsp;| <a href="http://www.mineeds.com/services/Digital" style="font-size:10px;">Digital</a>&nbsp;| <a href="http://www.mineeds.com/services/Glass" style="font-size:10px;">Glass</a>&nbsp;| <a href="http://www.mineeds.com/services/Pottery" style="font-size:10px;">Pottery</a>&nbsp;| <a href="http://www.mineeds.com/services/Sculpting" style="font-size:10px;">Sculpting</a>&nbsp;| <a href="http://www.mineeds.com/services/Fashion" style="font-size:10px;">Fashion</a>&nbsp;| <a href="http://www.mineeds.com/services/Graphic" style="font-size:10px;">Graphic</a>&nbsp;| <a href="http://www.mineeds.com/services/Jewelry" style="font-size:10px;">Jewelry</a>&nbsp;| <a href="http://www.mineeds.com/services/Photographers-Photography" style="font-size:10px;">Photographers</a>&nbsp;| <a href="http://www.mineeds.com/services/Videographers-Videography-Video-Production" style="font-size:10px;">Videographers &amp; Videography</a>&nbsp;| <a href="http://www.mineeds.com/services/Musicians-Bands-DJs" style="font-size:10px;">Musicians, Bands &amp; DJs</a>&nbsp;| <a href="http://www.mineeds.com/services/Doctors" style="font-size:10px;">Doctors</a>&nbsp;| <a href="http://www.mineeds.com/services/Dentists" style="font-size:10px;">Dentists</a>&nbsp;| <a href="http://www.mineeds.com/services/Nurses" style="font-size:10px;">Nurses</a>&nbsp;| <a href="http://www.mineeds.com/services/Acupuncture" style="font-size:10px;">Acupuncture</a>&nbsp;| <a href="http://www.mineeds.com/services/Chiropractic" style="font-size:10px;">Chiropractic</a>&nbsp;| <a href="http://www.mineeds.com/services/Massage-Therapists" style="font-size:10px;">Massage Therapists</a>&nbsp;| <a href="http://www.mineeds.com/services/Naturopathic" style="font-size:10px;">Naturopathic</a>&nbsp;| <a href="http://www.mineeds.com/services/Physical-Therapy" style="font-size:10px;">Physical Therapy</a>&nbsp;| <a href="http://www.mineeds.com/services/Fitness-Trainers-Fitness-Centers" style="font-size:10px;">Fitness Trainers &amp; Fitness Centers</a>&nbsp;| <a href="http://www.mineeds.com/services/Nutritionists-Dieticians" style="font-size:10px;">Nutritionists &amp; Dieticians</a>&nbsp;| <a href="http://www.mineeds.com/services/Pilates" style="font-size:10px;">Pilates</a>&nbsp;| <a href="http://www.mineeds.com/services/Sports" style="font-size:10px;">Sports</a>&nbsp;| <a href="http://www.mineeds.com/services/Yoga" style="font-size:10px;">Yoga</a>&nbsp;| <a href="http://www.mineeds.com/services/Beauty-Skincare-Makeup-Hair" style="font-size:10px;">Beauty</a>&nbsp;| <a href="http://www.mineeds.com/services/Cleaning-Services-Maids" style="font-size:10px;">Cleaning Services &amp; Maids</a>&nbsp;| <a href="http://www.mineeds.com/services/Home-Repair-General-Contractors" style="font-size:10px;">Home Repair General Contractors Lawn Care</a>&nbsp;| <a href="http://www.mineeds.com/services/Architecture-58" style="font-size:10px;">Architecture</a>&nbsp;| <a href="http://www.mineeds.com/services/Interior-Design" style="font-size:10px;">Interior Design</a>&nbsp;| <a href="http://www.mineeds.com/services/Landscape-Architect-Contractor-Designer" style="font-size:10px;">Landscape Architect</a>&nbsp;| <a href="http://www.mineeds.com/services/Stage-Style" style="font-size:10px;">Stage &amp; Style</a>&nbsp;| <a href="http://www.mineeds.com/services/Statuary" style="font-size:10px;">Statuary</a>&nbsp;| <a href="http://www.mineeds.com/services/Moving-Company-Mover-Services" style="font-size:10px;">Moving Services</a>&nbsp;| <a href="http://www.mineeds.com/services/Other-44" style="font-size:10px;">Other</a>&nbsp;| <a href="http://www.mineeds.com/services/Appraisal" style="font-size:10px;">Appraisal</a>&nbsp;| <a href="http://www.mineeds.com/services/Builders" style="font-size:10px;">Builders</a>&nbsp;| <a href="http://www.mineeds.com/services/Escrow-Title" style="font-size:10px;">Escrow &amp; Title</a>&nbsp;| <a href="http://www.mineeds.com/services/Home-Inspectors" style="font-size:10px;">Home Inspectors</a>&nbsp;| <a href="http://www.mineeds.com/services/Insurance" style="font-size:10px;">Insurance</a>&nbsp;| <a href="http://www.mineeds.com/services/Mortgage-Lenders-Home-Loans" style="font-size:10px;">Mortgage Lenders / Home Loans</a>&nbsp;| <a href="http://www.mineeds.com/services/Property-Mgmt" style="font-size:10px;">Property Mgmt</a>&nbsp;| <a href="http://www.mineeds.com/services/Real-Estate-Agents-Realtors" style="font-size:10px;">Real Estate Agents &amp; Realtors</a>&nbsp;| <a href="http://www.mineeds.com/services/Care-Givers" style="font-size:10px;">Care Givers</a>&nbsp;| <a href="http://www.mineeds.com/services/Counselors" style="font-size:10px;">Counselors</a>&nbsp;| <a href="http://www.mineeds.com/services/Baby-Sitter-Nanny-Services" style="font-size:10px;">Baby Sitters / Nanny</a>&nbsp;| <a href="http://www.mineeds.com/services/Pet-Care-Services" style="font-size:10px;">Pet Care Services</a>&nbsp;| <a href="http://www.mineeds.com/services/Veterinary" style="font-size:10px;">Veterinary</a>&nbsp;| <a href="http://www.mineeds.com/services/Accountants-CPA" style="font-size:10px;">Accountants</a>&nbsp;| <a href="http://www.mineeds.com/services/Lawyers-Attorneys" style="font-size:10px;">Lawyers</a>&nbsp;| <a href="http://www.mineeds.com/services/Art-Teachers" style="font-size:10px;">Art Teachers</a>&nbsp;| <a href="http://www.mineeds.com/services/Foreign-Language-Study" style="font-size:10px;">Foreign Language Study</a>&nbsp;| <a href="http://www.mineeds.com/services/Subject-Tutors" style="font-size:10px;">Subject Tutors</a>&nbsp;| <a href="http://www.mineeds.com/services/Test-Prep-Standardized-Tests" style="font-size:10px;">Test Prep</a>&nbsp;| <a href="http://www.mineeds.com/services/Wedding-Event-Services" style="font-size:10px;">Wedding Services</a>&nbsp;| <a href="http://www.mineeds.com/services/Catering" style="font-size:10px;">Catering</a>&nbsp;| <a href="http://www.mineeds.com/services/Events-Planner" style="font-size:10px;">Events Planner</a>&nbsp;| <a href="http://www.mineeds.com/services/Florists-Flower-Shops" style="font-size:10px;">Florists &amp; Flower Shops</a>&nbsp;| <a href="http://www.mineeds.com/services/Marketing-Advertising" style="font-size:10px;">Marketing &amp; Advertising</a>&nbsp;| <a href="http://www.mineeds.com/services/Web-Developers-Computer-Programmers-Web-Designers" style="font-size:10px;">Web &amp; Programming</a>&nbsp;| <a href="http://www.mineeds.com/services/Translators" style="font-size:10px;">Translators</a>&nbsp;| <a href="http://www.mineeds.com/services/Word-Processors" style="font-size:10px;">Word Processors</a>&nbsp;| <a href="http://www.mineeds.com/services/Writers" style="font-size:10px;">Writers</a>&nbsp;| <a href="http://www.mineeds.com/services/Other-Services" style="font-size:10px;">Other</a></div>
+  -->
+<div>
+  <div class="copyright" style="padding: 10px;"> © 2008 miNeeds.com. All rights reserved<br>
+    <a href="pages/privacy.html">Privacy policy</a> | <a href="pages/terms-of-use.html">Terms of Use</a>
+  </div>
+  <div style="float:right;"><a href="http://alaskaoregonwesternwashington.bbb.org/WWWRoot/Report.aspx?site=114&amp;bbb=1296&amp;firm=22425655"><img src="images/BBB_Blue_FooterSize2.jpg" border="0"></a></div>
+  <div style="clear:both"></div>
+</div>
+
+	  <div class="footer" style="margin-top: -20px;">
+	    <strong>Site Links: </strong>
+		<a href="pages/AboutMiNeeds.html">About Us</a> &nbsp;|
+		<a href="pages/contact.html">Contact Us</a> &nbsp;|
+		<a href="http://www.mineeds.com/blog">Blog</a> &nbsp;|
+		<a href="pages/Press.html">Press</a>
+		<div style="font-size:10px;padding-top:10px;">
+<span style="font-size:12px;"><b>Categories: </b></span>
+
+<a href="Seattle-Washington-Services/Home-Repair-General-Contractors" style="font-size:10px;">Home Contractors</a> |
+<a href="Seattle-Washington-Services/Lawyers-Attorneys" style="font-size:10px;">Attorneys</a> |
+<a href="Seattle-Washington-Services/Massage-Therapists" style="font-size:10px;">Massage Therapists</a> |
+<a href="Seattle-Washington-Services/Photographers-Photography" style="font-size:10px;">Photographers</a> |
+<a href="Seattle-Washington-Services/Accountants-CPA" style="font-size:10px;">Accountants</a> |
+<a href="Seattle-Washington-Services/Fitness-Trainers-Fitness-Centers" style="font-size:10px;">Fitness Trainers</a> |
+<a href="Seattle-Washington-Services/Cleaning-Services-Maids" style="font-size:10px;">Cleaning Services</a> |
+<a href="Seattle-Washington-Services/Auto-Repair-Services" style="font-size:10px;">Auto Repair</a> |
+<a href="Seattle-Washington-Services/Wedding-Event-Services" style="font-size:10px;">Wedding Services</a> |
+<a href="all_categories" style="font-size:10px;">All Categories</a> |
+<a href="http://resources.mineeds.com/" style="font-size: 10px;">Resources</a>
+</div>
+
+		<div style="font-size:10px;padding-top:10px;">
+<span style="font-size:12px;"><b>Cities: </b></span>
+
+<a href="/Seattle-Washington-Services" style="font-size:10px;">Seattle</a> |
+<a href="/San+Francisco-California-Services" style="font-size:10px;">San Francisco</a> |
+<a href="/Austin-Texas-Services" style="font-size:10px;">Austin</a> |
+<a href="/Chicago-Illinois-Services" style="font-size:10px;">Chicago</a> |
+<a href="/Dallas-Texas-Services" style="font-size:10px;">Dallas</a> |
+<a href="/Los+Angeles-California-Services" style="font-size:10px;">Los Angeles</a> |
+<a href="/Portland-Oregon-Services" style="font-size:10px;">Portland</a> |
+<a href="/San+Diego-California-Services" style="font-size:10px;">San Diego</a> |
+<a href="/San+Jose-California-Services" style="font-size:10px;">San Jose</a> |
+<a href="/New+York-New+York-Services" style="font-size:10px;">New York</a> |
+<a href="/more_cities" style="font-size:10px;">More Cities</a>
+</div>
+	  </div>
+  <div style="clear:both"></div>
+
+
+
+
 </div>
 </div>
 	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
