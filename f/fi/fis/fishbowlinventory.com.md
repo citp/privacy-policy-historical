@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610204836id_/http%3A//www.fishbowlinventory.com/company/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062531id_/http%3A//www.fishbowlinventory.com/company/legal/privacy) for the most accurate reproduction.*
 
-# Fishbowl Inventory - Privacy Statement
+# Privacy Statement | Fishbowl Inventory
 
 **1\. Site covered by this Privacy Statement**
 
-This Privacy Statement applies to the http://www.fishbowlinventory.com domain.
+This Privacy Statement applies to the [http://www.fishbowlinventory.com](http://www.fishbowlinventory.com/ "http://www.fishbowlinventory.com") domain.
 
 **Links to non-Fishbowl Inventory websites**
 
@@ -24,7 +24,7 @@ is information that is associated with your name or personal identity. Fishbowl 
 
 
 
-is data about usage and service operation that is not associated with a specific personal identity. Fishbowl Inventory collects and analyzes non-personal information to evaluate how visitors use the Fishbowl Inventory website. Non-personal data we collect may include the pages visited on the Fishbowl Inventory website, unique URLs(1) visited within www.fishbowlinventory.com, browser type and IP(2) address. Most non-personal data is collected via analysis technologies. Fishbowl Inventory Web pages use technologies for data analysis and personalization services.
+is data about usage and service operation that is not associated with a specific personal identity. Fishbowl Inventory collects and analyzes non-personal information to evaluate how visitors use the Fishbowl Inventory website. Non-personal data we collect may include the pages visited on the Fishbowl Inventory website, unique URLs([1](https://web.archive.org/company/legal/privacy.#f1)) visited within [www.fishbowlinventory.com](http://www.fishbowlinventory.com/ "www.fishbowlinventory.com"), browser type and IP([2](https://web.archive.org/company/legal/privacy.#f2)) address. Most non-personal data is collected via analysis technologies. Fishbowl Inventory Web pages use technologies for data analysis and personalization services.
 
 **3\. Children's privacy**
 
@@ -67,25 +67,10 @@ We value your opinions. If you have comments or questions about our privacy poli
 Fishbowl Inventory   
 580 E. Technology Ave.   
 Suite C2500   
-Orem, UT 84097 
+Orem, UT 84097
 
 _Rev. October 2005_
 
-1A URL (Uniform Resource Locator) is the global address of documents and other resources on the World Wide Web. For example, [http://www.fishbowlinventory.com](http://www.fishbowlinventory.com/) is the URL for Fishbowl Inventory's home page.
+1A URL (Uniform Resource Locator) is the global address of documents and other resources on the World Wide Web. For example, [http://www.fishbowlinventory.com](http://www.fishbowlinventory.com/ "http://www.fishbowlinventory.com") is the URL for Fishbowl Inventory's home page.
 
 2An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (TCP/IP) network, such as the World Wide Web. Networks use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
-
-| 
-
-Give us a ring  
-1.800.774.7085
-
-[](https://web.archive.org/community/customer_comments.php)
-
-Fishbowl Inventory is the perfect solution for inventory control at the right price. The integration with QuickBooks is easy to configure and will save you a lot time with no double entries. Great product and will recommended to anybody that's looking for a QuickBooks integrated inventory solution.  
-[ _Posted on the QuickBooks website_](https://web.archive.org/community/customer_comments.php#cust137)
-
-WOW! Fishbowl is a fantastic inventory control system! It has helped us organize our inventory from sales to purchasing, and it interfaces with our existing QuickBooks software. Kudos to Fishbowl & its staff for going the extra mile to help even those of us who are only "semi-computer literate"!  
-[ _Posted on the QuickBooks website_](https://web.archive.org/community/customer_comments.php#cust135)  
-  
----|---
