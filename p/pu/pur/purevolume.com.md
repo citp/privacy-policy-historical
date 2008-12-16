@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purevolume.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617172414id_/http%3A//www.purevolume.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purevolume.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160259id_/http%3A//www.purevolume.com/privacy_policy) for the most accurate reproduction.*
 
 # purevolume™ | We're Listening To You
 
@@ -8,7 +8,7 @@ Welcome to PureVolume.com (“PureVolume”), owned, produced and operated by Pu
 
 PureVolume.com is a music-oriented content and information website that provides a service to musical artists and to record companies on behalf of musical artists (each an “Artist” and collectively “Artists”) to post information regarding themselves as well as musical content owned and/or created by them. PureVolume members can view each others' profiles (“Profiles”), communicate with each other, share photos, post journals and comments, and describe their interests. Registered Listeners can change their Profile information at any time and can control how other Listeners and the service communicates with them. Listeners and Artists are sometimes referred to hereinafter individually and collectively as “Users.” 
 
-PureVolume cares about online privacy. If you have any questions concerning this privacy policy, please email us at [privacy[at]PureVolume[dot]com]().
+PureVolume cares about online privacy. If you have any questions concerning this privacy policy, please email us at legal[at]PureVolume[dot]com.
 
 #### INFORMATION COLLECTION AND USE BY PUREVOLUME
 
@@ -25,6 +25,8 @@ PureVolume may also use a Listener’s email address to send updates, a newslett
 From time to time, PureVolume or a partner may sponsor a promotion, sweepstake or contest on PureVolume. Listeners may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. PureVolume may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply. 
 
 PureVolume may also collect information for market research purposes to gain a better understanding of our customers and thus provide more valuable service. PureVolume also collects information regarding customer activities on our website, and on related websites. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites and Internet services are of most interest to them.
+
+Through PureVolume's Video Syndication arrangement with Warner Music Group and Brightcove, Brightcove and/or Warner may collect certain personally identifiable information and other usage information from end users via the Brightcove Player in connection with Warner Content.
 
 #### USE OF COOKIES
 
@@ -70,6 +72,6 @@ From time to time PureVolume may make changes to our Privacy Policy. If we make 
 
 #### CONTACTING THE WEB SITE
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [privacy[at]PureVolume[dot]com](https://web.archive.org/web/20080617172414id_/http%3A//www.purevolume.com/privacy@purevolume.com)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: legal[at]PureVolume[dot]com
 
 #### Last updated December, 2007
