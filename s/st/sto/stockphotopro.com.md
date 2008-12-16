@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockphotopro.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422092844id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockphotopro.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152309id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.*
 
-# StockphotoPro - The Stock Photo Community.
+# StockphotoPro - Stock Photography - Search 3.1 Million Stock Photos, Royalty Free Images, and Illustrations
 
 for **STOCKPHOTOPRO, INC.**.
 
