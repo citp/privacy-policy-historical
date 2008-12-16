@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopwiki.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623061937id_/http%3A//www.shopwiki.com/wiki/Help%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwiki.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012213id_/http%3A//www.shopwiki.com/wiki/Help%3APrivacy) for the most accurate reproduction.*
 
-# Help:Privacy - ShopWiki
+# Help:Privacy Buying Guide
 
 #### Effective Date: January 24, 2007
 
