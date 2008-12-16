@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401143411id_/http%3A//www.fitnessanywhere.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021357id_/http%3A//www.fitnessanywhere.com/company/privacy.php) for the most accurate reproduction.*
 
 # Fitness Anywhere - Home of TRX and Suspension Training
 
