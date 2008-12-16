@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sec.gov privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602091531id_/http%3A//www.sec.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sec.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051405id_/http%3A//www.sec.gov/privacy.htm) for the most accurate reproduction.*
 
-# On the SEC Site: Your Privacy
+# SEC Web Site Privacy and Security Policy
 
 |  |   
 |  |   
@@ -16,61 +16,118 @@
 |   
 
 
-At various places on our web site, we tell you how to contact us, and we encourage you to give us some personal details about yourself. You do not have to give us personal information to visit our site. We collect personal information from you only if you choose to give it to us.
+## The U. S. Securities and Exchange Commission (SEC)
 
-When we ask you to provide information to us voluntarily, the [Privacy Act of 1974](https://web.archive.org/cgi-bin/goodbye.cgi?www.usdoj.gov/foia/privstat.htm) requires us to tell you how we can use the information. Under the Act, we cannot sanction you if you fail to provide all or any part of the information to us. Sanctions may apply if you provide information to us and you know it is false or misleading.
+## Privacy Policy
 
-## A. Our Authority for Requesting Your Information
+  * Introduction
+  * Information Collected and Stored Automatically
+  * Cookies Policy
+  * If You Send us Personal Information
+  * E-Mail Policy
+  * What are Your Rights under the Privacy Act of 1974?
+  * Principal Purpose and Routine Uses of Information
+  * Authority for Collecting Information
+  * COPPA Information
+  * Links to Other Web Sites
+  * Internet Security Policy
+  * False Statements and Documents
+
+
+
+* * *
+
+## Introduction
+
+Thank you for visiting the Securities and Exchange Commission’s web site and reviewing our Privacy Policy. The privacy of visitors to our web site is of the utmost importance to the SEC. At the SEC web site we collect personal information only if you voluntarily choose to provide it to us. You do not have to give us personal information to visit our site.
+
+Information presented on www.sec.gov is considered public information and may be copied or further distributed by users of the web site. 
+
+## Information Collected and Stored Automatically
+
+If you choose not to provide us with personal information but merely browse our site or download information, we will collect certain information automatically for site management purposes. The SEC's web site will automatically collect the following information, as applicable:
+
+  * IP addresses;
+  * Type of Internet traffic associated with a specific IP address;
+  * Type of Internet traffic associated with a specific time or event;
+  * Types of events;
+  * The location associated with an event (such as apparent nation of origin);
+  * Host names;
+  * Malicious software identification; and
+  * Caller Identification logs, which provide a caller's apparent phone number.
+
+
+
+This data is used in summary form for statistical purposes, to assess system performance, identify problems with agency systems, and to improve the site for users. In the event of computer security incidents, such data may be further refined manually to allow computer security specialists to identify Internet service providers and, in extreme cases, individuals attacking the agency. 
+
+## Cookies Policy
+
+When you visit some web sites, their web servers generate pieces of software known as “cookies.” A cookie is a file placed on your hard drive by a web site that allows the web site to monitor your use of that site, usually without your express knowledge.
+
+Some cookies collect personal information to recognize your computer in the future. That is not the case at the SEC’s web site, where we use only non-persistent cookies or "per-session cookies." These cookies do not collect personal information on users and they are not stored on your computer’s hard drive. They are stored only in memory during an active browser session, and they are erased as soon as you close your browser after visiting our web site 
+
+## If You Send Us Personal Information
+
+We do not collect personal information for any purpose other than to respond to your inquiries or complaints. Any personally identifying information you provide is voluntary. If you choose to provide us with personal information—like filling out a Contact Us form, with an e-mail address and zip code, and submitting it to us through the web site— we use it to fulfill a request you make or to assist us in carrying out our mission; it may be disclosed to others for such purposes. We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. In some circumstances, including requests from Congress or private individuals, we may be required by law to disclose the information you submit. Our web site does not collect information or create individual profiles for commercial marketing.
+
+While you must provide an e-mail address and zip code for a personal response to any incoming questions or comments to SEC.gov, we recommend that you NOT include any other personal information, especially Social Security Numbers. The Social Security Administration offers additional [guidance](http://www.usa.gov/external/external.jsp?url=http://www.ssa.gov/pubs/10002.html#giving) on protecting your Social Security Number.
+
+## E-Mail Policy
+
+You may send us electronic mail (e-mail) containing your personal information, comment, question, or complaint. If you send us e-mail, we may store your name and address in order to respond. With the exception of comments made specifically in response to a Request for Comments issued by the SEC for rulemaking purposes (see the [Current SEC Rulemaking](https://web.archive.org/rules.shtml) page), we do not share your e-mail with any other outside organizations except for authorized law enforcement investigations or in assisting investors with complaints and inquiries. Comments made in response to a Request for Comments incident to rulemaking are public information and are posted on the site in the rulemaking section.
+
+## What are Your Rights under the Privacy Act of 1974?
+
+Under the [Privacy Act of 1974](http://www.usdoj.gov/oip/privstat.htm), federal agencies must not disclose any “record” which is contained in a “system of records” to any person, or to another agency, except at the written request of, or with the prior written consent of, the person to whom the record relates. There are exceptions for certain disclosures within the Government and disclosures required by statute. 
+
+A “record” is any item, collection, or grouping of information about a person that an agency maintains and that contains the person’s name, or some other identifying number, symbol, or feature assigned to the person by the agency ( _e.g._ , a fingerprint or a photograph). 
+
+A “system of records” means a group of “records” under the control of an agency from which the agency _actually retrieves_ information by a person’s name or by the identifying number, symbol, or feature that the agency has assigned to the person. Because of this actual retrieval requirement, not all personal information collected online is covered by the Privacy Act. 
+
+Other major provisions of the Privacy Act require the SEC to:
+
+  * Publish a system of records notice in the Federal Register explaining the existence, character, and uses of any new or revised system of records; 
+  * Maintain in its records only information about you that is relevant and necessary to accomplish a purpose of the agency required by law;
+  * Keep information about you accurate, relevant, timely, and complete to assure fairness in dealing with you; and 
+  * Allow you, upon request, to access, review, and request amendment of your information held in a system of records. 
+
+
+
+## Principal Purpose and Routine Uses of Information
+
+Our principal purpose for requesting information from you is to respond to inquiries and complaints from you and other members of the public. 
+
+As required by the Privacy Act of 1974, all routine uses are published in SEC systems of records notices, found on the [SEC Privacy Office](https://web.archive.org/about/privacy/secprivacyoffice.htm) web site. As stated in the routine uses in SEC systems of records notices (where applicable), the SEC may also use your information to determine whether any person has violated, is violating, or is about to violate the federal securities laws or rules that the SEC enforces, such as the rules of the securities exchanges and the Municipal Securities Rulemaking Board. The SEC may use the information you provide in legal proceedings. If the information points to violations of other laws or regulations, we may turn it over to other government agencies, including United States Attorneys and state prosecutors. In order to preserve integrity of the investigation, we generally do not disclose to you whether we have done so or not.
+
+The SEC will not agree to limit its use of your information in any way not required by law, unless the SEC or its staff explicitly agrees to do so in writing.
+
+## Authority for Collecting Information
 
 The SEC is authorized to request information from you by various laws: Sections 19 and 20 of the Securities Act of 1933, Section 21 of the Securities Exchange Act of 1934, Section 321 of the Trust Indenture Act of 1939, Section 42 of the Investment Company Act of 1940, Section 209 of the Investment Advisers Act of 1940 and Title 17 of the Code of Federal Regulations, Section 202.5.
 
-## B. The Principal Ways We May Use Your Information
+## COPPA Information
 
-Our principal purpose for requesting information from you is to respond to inquiries and complaints from members of the public. The SEC may also use your information to determine whether any person has violated, is violating, or is about to violate the federal securities laws or rules that the SEC enforces, such as the rules of the securities exchanges and the Municipal Securities Rulemaking Board. The SEC may use the information you provide in an enforcement proceeding. If the information points to violations of other laws or regulations, we may turn it over to other government agencies, including United States Attorneys and state prosecutors. We generally do not disclose to you whether we have done so or not.
+If a visitor under the age of 13 uses this Web site, no personally identifiable information is collected from them unless the information is voluntarily submitted as a request for information or services. The information supplied is used to respond to the user’s inquiries or to provide services requested by the user.
 
-The SEC will not agree to limit its use of your information in any way, unless the SEC or its staff explicitly agrees to do so in writing.
+## Links to Other Web Sites
 
-## C. Routine Uses of the Information You May Provide
+This web site contains hypertext links to information created and maintained by other organizations. These links are provided for your convenience. The SEC does not control or guarantee the accuracy, relevance, timeliness, or completeness of any information. If you go to other web sites through these links, our privacy and security policy no longer applies to you and you are subject to the privacy and security policy of the new sites. 
 
-Listed below are the ways we may routinely use your information:
+## Internet Security Policy
 
-| 1. | To coordinate law enforcement activities between the SEC and other federal, state, local or foreign law enforcement agencies, securities self-regulatory organizations, and foreign securities authorities.  
----|---  
-2. | By SEC personnel for purposes of investigating possible violations of, or to conduct investigations authorized by, the federal securities laws.  
-3. | Where there is an indication of a violation or potential violation of law, whether civil, criminal or regulatory in nature, relevant records may be referred to the agency charged with investigating or prosecuting such violation or enforcing or implementing the statute, rule, regulation or order in question. Records may be referred to other federal agencies, state or local governments, foreign governments or foreign securities authorities, or securities self-regulatory organizations.  
-4. | In any proceeding where the federal securities laws are in issue or in which the SEC, or past or present members of its staff, are parties or are involved in an official capacity.  
-5. | Disclosure to a federal, state, local or foreign government agency or foreign securities authority maintaining civil, criminal or other relevant enforcement information or other pertinent information, such as current licenses, if necessary to obtain information relevant to an agency decision concerning hiring or retention of an employee, the issuance of a security clearance, the letting of a contract, or the issuance of a license, grant, or other benefit.  
-6. | Disclosure to a federal, state, local or foreign government agency or foreign securities authority, in response to its request, in connection with the hiring or retention of an employee, the issuance of a security clearance, the reporting of an investigation of an employee, the letting of a contract, or the issuance of a license, grant, or other benefit by the requesting agency, to the extent that the information is relevant and necessary to the requesting agency's decision.  
-7. | In connection with SEC suspension or disbarment proceedings under Rule 102(e) of the SEC's Rules of Practice 17 CFR 201.102(e).  
-8. | When appropriate, records may be disclosed to a bar association, the American Institute of Certified Public Accountants, a state accountancy board, or other federal, state, local or foreign licensing or oversight authority, foreign securities authority, or professional association or self-regulatory authority performing similar functions, for possible disciplinary or other action.  
-9. | In connection with investigations or disciplinary proceedings by a state securities regulatory authority or a foreign securities authority, or by a self-regulatory organization involving one or more of its members.  
-10. | As a data source for management information a) for production of summary descriptive statistics and analytical studies in support of the function for which the records are collected and maintained, b) for statistical information (without personal identification of individuals) under the Freedom of Information Act, or c) to locate specific individuals for personnel research or other personnel management functions.  
-11. | In connection with their regulatory and enforcement responsibilities under the federal securities laws or state or foreign laws regulating securities or other related matters, records may be disclosed to national securities associations that are registered with the SEC, the Municipal Securities Rulemaking Board, the Securities Investor Protection Corporation, the federal banking authorities (e.g., the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation), state securities regulatory or law enforcement agencies, or regulatory or law enforcement agencies of a foreign government or foreign securities authority.  
-12. | Disclosure to any trustee, receiver, master, special counsel, or other person or entity that is appointed by a court or by agreement of the parties in connection with proceedings involving alleged violations of the federal securities laws or the SEC's Rules of Practice, or otherwise, where such person or entity is specifically designated to perform particular functions with respect to the proceedings or in connection with the SEC's administration and enforcement of the federal securities laws or the SEC's Rules of Practice.  
-13. | Disclosure to any persons during the course of any inquiry or investigation conducted by SEC staff, or in connection with civil litigation, if the staff has reason to believe that the person to whom the record is disclosed may have further information about the matters related therein, and those matters appeared to be relevant at the time to the subject matter of the inquiry.  
-14. | Disclosure to any person with whom the SEC contracts to reproduce, by typing, photocopy or other means, any record for use by the SEC and its staff in connection with their official duties or to any person who is utilized by the SEC to perform clerical or stenographic functions relating to the official business of the SEC.  
-15. | Inclusion in reports published by the SEC pursuant to authority granted in the federal securities laws.  
-16. | Disclosure to members of advisory committees that are created by the SEC or by the Congress to render advice and recommendations to the SEC or to the Congress, to be used solely in connection with their official duties.  
-17. | To any person who is, or has agreed to be, subject to the SEC's Rules of Conduct and who assists in the SEC's investigation of possible violations of the securities laws, in the preparation or conduct of enforcement actions brought by the SEC for such violations, or otherwise in connection with the SEC's enforcement or regulatory functions under the federal securities laws.  
-18. | Disclosure may be made to a Congressional office from the records of an individual in response to an inquiry from the Congressional office made at the request of that individual.  
-19. | To respond to inquiries from Members of Congress, the press and the public which relate to specific matters that the SEC has investigated and to matters under the SEC's jurisdiction.  
-20. | To prepare and publish information relating to violations of the federal securities laws.  
-21. | To respond to subpoenas in any litigation or other proceeding.  
-22. | To a trustee in bankruptcy.  
-  
-## D. False Statements and Documents
+By using this site, you are agreeing to security monitoring and auditing. For security purposes, and to ensure that the public service remains available to users, this government computer system employs programs to monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage, including attempts to deny service to users. 
 
-Section 1001 of Title 18 of the United States Code provides as follows:
+Unauthorized attempts to upload information and/or change information on any portion of this site are strictly prohibited and are subject to prosecution under the [Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996](http://www.usdoj.gov/criminal/cybercrime/1030_new.html) (see Title 18 U.S.C. §§ 1001 and 1030). 
 
-> Whoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined under this title or imprisoned not more than five years, or both.
+## False Statements and Documents
+
+If you choose to furnish us with information that you know to be false or misleading, you may be prosecuted for any violations of federal law. Section 1001 of Title 18 of the United States Code provides as follows:
+
+_Whoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined under this title or imprisoned not more than five years, or both._
 
 The information you give the SEC may be used against you in any federal, state, local or foreign administrative, civil or criminal proceeding brought by the SEC or any other agency. You may refuse, in accordance with the rights guaranteed to you by the Fifth Amendment to the Constitution of the United States, to give any information that may tend to incriminate you or subject you to fine, penalty or forfeiture.
 
-## E. The Freedom of Information Act
-
-The Freedom of Information Act (FOIA) generally allows the SEC to make your information available to the public upon request. You may request that your information not be released to the public by writing a letter asking that it remain confidential under one of the exemptions described in FOIA (see 5 U.S.C. 552). The SEC determines whether your claim of an exemption is valid when someone requests your information under FOIA.
-
-Rule 83 of the SEC's Rules on Information and Requests, (17 CFR 200.83) explains how you should make your request for confidentiality. Your letter may be sent or faxed to our FOIA Officer at 100 F Street, NE, MS 0-5, Washington, DC 20549 or fax number (703) 914-1149. Alternatively, you may follow the instructions on our [on-line FOIA pages](https://web.archive.org/foia.shtml).
+Please do not use the SEC seal or any of the other logos or artwork from this site. In addition, please be advised that the EDGAR logo and the EDGAR and EDGARLink names are the SEC's registered trademarks. You may not use them in connection with an EDGAR-related business without a license from the SEC.
 
 _http://www.sec.gov/privacy.htm_  
 
