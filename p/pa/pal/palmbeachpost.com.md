@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palmbeachpost.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611042621id_/http%3A//www.palmbeachpost.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachpost.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022549id_/http%3A//www.palmbeachpost.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Palm Beach Post: Palm Beach & Treasure Coast news, sports, entertainment, jobs, cars, homes
 
@@ -8,7 +8,8 @@ We care about your privacy. We will not sell your name or email address to any t
 
 PalmBeachPost.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Palm Beach Newspapers, Inc. ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our Director of Digital Operations: 
 
-Gina C. Wilcox  
+Tim Burke  
+Vice President, Digital Media  
 Palm Beach Newspapers  
 2751 South Dixie Highway  
 West Palm Beach, Florida 33405  
