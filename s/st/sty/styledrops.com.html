@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the styledrops.com privacy policy that was archived on 2008-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080623065930id_/http%3A//www.styledrops.com/interne/customers/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the styledrops.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216160556id_/http%3A//www.styledrops.com/interne/customers/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Language" content="en">
@@ -66,7 +66,7 @@ html>body #formArea{margin-top:-15px;}
 	width:auto;
 }
 
-div#container{ width: expression(  document.body.clientWidth > 1006 ? "1004px":(document.body.clientWidth < 770? "765px":"auto") ) }
+div#container{ width: expression(document.body.clientWidth > 1006 ? "1004px":(document.body.clientWidth < 770? "765px":"auto") ) }
 
 div.sidebar{margin-right:-3px;}
 
@@ -84,7 +84,7 @@ div#dxCol{ width: expression(  document.body.clientWidth < 800 ? "145px":"" ) }
 
 
 
-<!--div#contenuto{ width: expression(  document.body.clientWidth < 780 ? "582px":"auto" ) }-->
+<!--div#contenuto{ width: expression(document.body.clientWidth < 780 ? "582px":"auto") }-->
 
 <!-- /parte comune head--><script type="text/javascript">/***** funzioni che potrebbero essere anche in home ****/
 
@@ -138,8 +138,8 @@ function locatMenu(Url)
 	return name;
 }
 
-rangeIds=new Array(16,66,83,22,33,44,85,80);
-categorie=new Array('/prada-shoes.html','/gucci-shoes.html','/ferragamo-shoes.html','/valentino-shoes.html','/prada-handbags.html','/gucci-handbags.html','/ferragamo-handbags.html','/gucci-wallets.html');
+rangeIds = new Array(16,66,83,22,33,44,85,80);
+categorie = new Array('/prada-shoes.html','/gucci-shoes.html','/ferragamo-shoes.html','/valentino-shoes.html','/prada-handbags.html','/gucci-handbags.html','/ferragamo-handbags.html','/gucci-wallets.html');
 
 var mostrato=false;
 // controlla se procedere o no a mostrare il menu della pagina. se  true il menu relativo 
@@ -413,9 +413,9 @@ function scegliTaglia(questo)
 {
 	mioForm=eval("document."+questo);
 	
-	if (mioForm.sizes.type=="select-one") 
+	if(mioForm.sizes.type == "select-one") 
 	{
-		if (mioForm.sizes.selectedIndex==0)
+		if(mioForm.sizes.selectedIndex == 0)
 		{
 			alert("You have to choose a size for this product");
 			mioForm.action="javascript:void(0);";
@@ -423,7 +423,7 @@ function scegliTaglia(questo)
 		else 
 			inviaDati(mioForm);
 	}
-	else if (mioForm.sizes.type=="hidden") 
+	else if(mioForm.sizes.type == "hidden") 
 		inviaDati(mioForm);
 }
 
@@ -437,8 +437,8 @@ function inviaDati(mioForm)
 
 function changeAction() 
 {
-	document.getElementById("makeReg").value="true";
-	document.checkon.action="step3.php";
+	document.getElementById("makeReg").value = "true";
+	document.checkon.action = "step3.php";
 }
 
 /***livello con il freeshipping **/
@@ -672,7 +672,63 @@ function redirectLang(valLang)
 	document.frmLanguage.action = redUrl;
 	document.frmLanguage.submit();
 }
-*/1</script>
+*/
+
+
+/****************************************************************/
+
+/***** immagine che scende *****/
+
+lockMove3Rid = false;
+
+function muoviRidotto3(livello, partenza, arrivo, act, vel)
+{
+	raggiungiRid2 = arrivo;
+	posAttualeRid2 = partenza;
+	var inviaDati = "vaiRidotto2(\""+livello+"\",\""+act+"\","+vel+")";
+	qv = setInterval(inviaDati, 4);
+}
+
+function vaiRidotto2(livello, act, vel) 
+{
+	if((lockMove3Rid==false) && (posAttualeRid2<raggiungiRid2))
+	{
+		lockMove3Rid = true;
+	 	posAttualeRid2 += vel;
+		eval("document.getElementById(livello).style."+act+"='"+posAttualeRid2+"px';");
+		lockMove3Rid = false;
+	}
+	else 
+	{
+		clearInterval(qv);
+		
+		if(act == "left") 
+		{
+			scriviCookie("popupInterne", "true");
+			document.getElementById('frameArchive').style.visibility = 'hidden';
+		}
+	}
+}
+
+function popupArchive() 
+{
+	/*if(leggiCookie("popupInterne") == null) 
+	{*/
+		muoviRidotto3('frameArchive', -300, 300, "top", 15);
+		//setTimeout("viaBici()", 5000);
+	//}
+}
+
+function viaBici() 
+{
+	//document.getElementById('frameArchive').style.visibility='hidden';
+	//muoviRidotto3('frameArchive', 300, -300, "top", 15);
+	var arrivo = -370;
+	muoviRidotto3('frameArchive', 316, arrivo, "left", 8);
+
+}
+
+1</script>
 </head>
 
 <body>
@@ -719,7 +775,7 @@ function redirectLang(valLang)
 	<!-- inizio colonna di sinistra -->
 <!--inizio menu sx-->
 <script type="text/javascript">
-<!--
+<!-- 
 var rangeId;
 //-->
 </script>
@@ -728,8 +784,8 @@ var rangeId;
 		<div id="giftCont">
 			<div id="giftInfo">
 							<iframe id="a473ba8b" name="a473ba8b" src="/openads/www/delivery/afr.php?n=a473ba8b&amp;zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE" framespacing="0" frameborder="no" scrolling="no" width="158" height="53"><a href='/openads/www/delivery/ck.php?n=a6c2e973&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='/openads/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a6c2e973' border='0' alt='' /></a></iframe>
-<script type="text/javascript" src="/openads/www/delivery/ag.php"></script>
-							</div>
+				<script type="text/javascript" src="/openads/www/delivery/ag.php"></script>
+						</div>
 			<div id="giftFil"><img src="/imgs/interne/new_interne/extended_3.gif"></div>	
 		</div>
 
@@ -747,10 +803,11 @@ var rangeId;
             <!--women shoes-->
             <li class="menuCSS"><a href="javascript:mmenu('submenu-1-1')"><strong>Shoes</strong></a>
 <ul class="submenu1CSS" id="submenu-1-1">
-									<li class="menu1CSS"><a href="/prada-shoes.html">Prada classic shoes</a></li>
-				                <li class="menu1CSS"><a href="/prada-sport-shoes-27.html">Prada sport shoes</a></li>
+									<li class="menu1CSS"><a href="/prada-shoes.html">Prada shoes</a></li>
+				                <!--<li class="menu1CSS"><a href="/prada-sport-shoes-27.html">Prada sport shoes</a></li>-->
                 					<li class="menu1CSS"><a href="/gucci-shoes.html">Gucci shoes</a></li>
-								<li class="menu1CSS"><a href="/balenciaga-shoes-272.html">Balenciaga shoes</a></li>
+								<li class="menu1CSS"><a href="/bally-shoes-220.html">Bally shoes</a></li>
+				<li class="menu1CSS"><a href="/balenciaga-shoes-272.html">Balenciaga shoes</a></li>
 				<li class="menu1CSS"><a href="/bottega-veneta-shoes-308.html">Bottega Veneta shoes</a></li>
 				<li class="menu1CSS"><a href="/burberry-shoes-327.html">Burberry shoes</a></li>
 				<li class="menu1CSS"><a href="/camper-shoes-115.html">Camper shoes</a></li>
@@ -758,6 +815,7 @@ var rangeId;
 				<li class="menu1CSS"><a href="/cesare-paciotti-shoes-40.html">Cesare Paciotti shoes</a></li>
 				<li class="menu1CSS"><a href="/chloe-shoes-298.html">Chloè shoes</a></li>
 				<li class="menu1CSS"><a href="/churchs-shoes-238.html">Church's shoes</a></li>
+				<li class="menu1CSS"><a href="/christian-lacroix-shoes-378.html">Christian Lacroix shoes </a></li>
 				<li class="menu1CSS"><a href="/dior-shoes-173.html">Dior shoes</a></li>
 				<li class="menu1CSS"><a href="/dirk-bikkembergs-shoes-179.html">Dirk Bikkembergs shoes</a></li>
 				<li class="menu1CSS"><a href="/dolce-gabbana-shoes-78.html">Dolce &amp; Gabbana shoes</a></li>
@@ -768,8 +826,10 @@ var rangeId;
 								<li class="menu1CSS"><a href="/jean-paul-gaultier-shoes-240.html">Jean Paul Gaultier shoes</a></li>
 				<li class="menu1CSS"><a href="/john-galliano-shoes-200.html">John Galliano shoes</a></li>
 				<li class="menu1CSS"><a href="/jimmy-choo-shoes-326.html">Jimmy Choo shoes</a></li>
+				<li class="menu1CSS"><a href="/lanvin-shoes-374.html">Lanvin shoes</a></li>
 				<li class="menu1CSS"><a href="/marc-jacobs-shoes-309.html">Marc Jacobs shoes</a></li>
 				<li class="menu1CSS"><a href="/marni-shoes-361.html">Marni shoes</a></li>
+				<li class="menu1CSS"><a href="/melissa-shoes-386.html">Melissa shoes</a></li>
 				<li class="menu1CSS"><a href="/miu-miu-shoes-20.html">Miu Miu shoes</a></li>
 				<li class="menu1CSS"><a href="/moma-shoes-342.html">MOMA shoes</a></li>
 				<li class="menu1CSS"><a href="/paul-smith-shoes-292.html">Paul Smith shoes</a></li>
@@ -778,6 +838,7 @@ var rangeId;
         							<li class="menu1CSS"><a href="/tods-shoes.html">Tod's shoes</a></li>
 								<li class="menu1CSS"><a href="/sergio-rossi-shoes-79.html">Sergio Rossi shoes</a></li>
 				<li class="menu1CSS"><a href="/vivienne-westwood-shoes-178.html">Vivienne Westwood shoes</a></li>
+				<li class="menu1CSS"><a href="/viktor-rolf-shoes-377.html">Viktor &amp; Rolf shoes</a></li>
                 <li class="menu1CSS"><a href="/y-by-yamamoto-shoes-204.html">Y3 by Yamamoto shoes</a></li>
                 <li class="menu1CSS"><a href="/ysl-shoes-171.html">YSL shoes</a></li>
               </ul>
@@ -797,14 +858,16 @@ var rangeId;
 				<li class="menu1CSS"><a href="/cesare-paciotti-handbags-303.html">Cesare Paciotti handbags</a></li>
 				<li class="menu1CSS"><a href="/chloe-handbags-269.html">Chloè handbags </a></li>
 				<li class="menu1CSS"><a href="/christian-lacroix-handbags-362.html">Christian Lacroix handbags </a></li>
-				<li class="menu1CSS"><a href="/corto-moltedo-handbags-307.html">Corto Moltedo handbags </a></li>
+				<!--<li class="menu1CSS"><a href="/corto-moltedo-handbags-307.html">Corto Moltedo handbags </a></li>-->
+				<li class="menu1CSS"><a href="/dior-handbags-175.html">Dior handbags</a></li>
 				<li class="menu1CSS"><a href="/dolce-gabbana-handbags-75.html">Dolce &amp; Gabbana handbags</a></li>
-				<li class="menu1CSS"><a href="/emporio-armani-handbags-331.html">Emporio Armani handbags</a> </li>
+				<!--<li class="menu1CSS"><a href="/emporio-armani-handbags-331.html">Emporio Armani handbags</a> </li> -->
+				<li class="menu1CSS"><a href="/fay-handbags-87.html">Fay handbags</a></li>
 				<li class="menu1CSS"><a href="/fendi-handbags-62.html">Fendi handbags</a></li>
 									<li class="menu1CSS"><a href="/ferragamo-handbags.html">Ferragamo handbags</a></li>
 					<li class="menu1CSS"><a href="/hogan-handbags.html">Hogan handbags</a></li>
 								<li class="menu1CSS"><a href="/jean-paul-gaultier-handbags-104.html">Jean Paul Gaultier handbags</a></li>
-				<li class="menu1CSS"><a href="/jimmy-choo-handbags-333.html">Jimmy Choo handbags</a></li>
+				<!--<li class="menu1CSS"><a href="/jimmy-choo-handbags-333.html">Jimmy Choo handbags</a></li>-->
 				<li class="menu1CSS"><a href="/john-galliano-handbags-103.html">John Galliano handbags</a></li>
 				<li class="menu1CSS"><a href="/marc-jacobs-handbags-183.html">Marc Jacobs handbags</a></li>
 				<li class="menu1CSS"><a href="/marni-handbags-306.html">Marni handbags</a></li>
@@ -838,16 +901,22 @@ var rangeId;
 				<li class="menu1CSS"><a href="/burberry-hats-256.html">Burberry hats</a></li>
 				<li class="menu1CSS"><a href="/bulgari-wallets-344.html">Bulgari wallets</a></li>
 				<li class="menu1CSS"><a href="/bulgari-belts-345.html">Bulgari belts</a></li>
+				<li class="menu1CSS"><a href="/dior-belts-365.html">Dior belts</a></li>
 				<li class="menu1CSS"><a href="/dolce-gabbana-belts-291.html">Dolce &amp; Gabbana belts</a></li>
 				<li class="menu1CSS"><a href="/dolce-gabbana-wallets-299.html">Dolce &amp; Gabbana wallets</a></li>
+				<li class="menu1CSS"><a href="/dolce-gabbana-jewellery-368.html">Dolce &amp; Gabbana jewellery</a></li>
+				<li class="menu1CSS"><a href="/dolce-gabbana-hats-366.html">Dolce &amp; Gabbana hats</a></li>
 				<li class="menu1CSS"><a href="/dsquared-belts-301.html">DSquared belts</a></li>
                 <li class="menu1CSS"><a href="/fendi-wallets-101.html">Fendi wallets</a></li>
                 <li class="menu1CSS"><a href="/fendi-belts-281.html">Fendi belts</a></li>
                 <li class="menu1CSS"><a href="/fendi-hats-268.html">Fendi hats</a></li>
                 <li class="menu1CSS"><a href="/ferragamo-wallets-126.html">Ferragamo wallets</a></li>
 				<li class="menu1CSS"><a href="/jean-paul-gaultier-wallets-253.html">Jean Paul Gaultier wallets</a></li>
+				<li class="menu1CSS"><a href="/jean-paul-gaultier-jewellery-391.html">Jean Paul Gaultier jewellery</a></li>
 				<li class="menu1CSS"><a href="/jean-paul-gaultier-watches-197.html">Jean Paul Gaultier watches</a></li>
+				<li class="menu1CSS"><a href="/john-galliano-belts-381.html">John Galliano belts </a></li>
 				<li class="menu1CSS"><a href="/john-galliano-hats-228.html">John Galliano hats </a></li>
+				<li class="menu1CSS"><a href="/john-galliano-jewellery-380.html">John Galliano jewellery </a></li>
 				<li class="menu1CSS"><a href="/marc-jacobs-wallets-184.html">Marc Jacobs wallets</a></li>
 				<li class="menu1CSS"><a href="/miu-miu-wallets-261.html">Miu Miu wallets</a></li>
                	<li class="menu1CSS"><a href="/paul-smith-wallets-263.html">Paul Smith wallets</a></li>
@@ -855,6 +924,7 @@ var rangeId;
                 <li class="menu1CSS"><a href="/tods-wallets-273.html">Tod's wallets</a></li>
 				<li class="menu1CSS"><a href="/vivienne-westwood-wallets-177.html">Vivienne Westwood wallets</a></li>
 				<li class="menu1CSS"><a href="/vivienne-westwood-belts-323.html">Vivienne Westwood belts</a></li>
+				<li class="menu1CSS"><a href="/vivienne-westwood-jewellery-387.html">Vivienne Westwood jewellery</a></li>
 				<li class="menu1CSS"><a href="/yves-saint-laurent-belts-297.html">Yves Saint Laurent belts</a></li>
               </ul>
             </li>
@@ -863,15 +933,18 @@ var rangeId;
               <ul class="submenu1CSS" id="submenu-1-4">
               						<li class="menu1CSS"><a href="/prada-clothing.html">Prada clothing </a></li>
               		<li class="menu1CSS"><a href="/gucci-clothing.html">Gucci clothing </a></li>
-				              	<li class="menu1CSS"><a href="/balenciaga-clothing-286.html">Balenciaga clothing </a></li>
+								<li class="menu1CSS"><a href="/antonio-marras-clothing-371.html">Antonio Marras clothing </a></li>
+              	<li class="menu1CSS"><a href="/balenciaga-clothing-286.html">Balenciaga clothing </a></li>
               	<li class="menu1CSS"><a href="/burberry-clothing-348.html">Burberry clothing </a></li>
                 <li class="menu1CSS"><a href="/chloe-clothing-284.html">Chloè clothing </a></li>
                 <li class="menu1CSS"><a href="/dolce-gabbana-clothing-283.html">Dolce &amp; Gabbana clothing </a></li>
 				<li class="menu1CSS"><a href="/dondup-clothing-364.html">Dondup clothing </a></li>
                 <li class="menu1CSS"><a href="/dsquared-clothing-351.html">DSquared clothing</a></li>
+				<li class="menu1CSS"><a href="/ermanno-scervino-clothing-372.html">Ermanno Scervino clothing</a></li>
                 <li class="menu1CSS"><a href="/fay-clothing-358.html">Fay clothing</a></li>
                 <li class="menu1CSS"><a href="/jean-paul-gaultier-clothing-265.html">Jean Paul Gaultier clothing</a></li>
               	<li class="menu1CSS"><a href="/john-galliano-clothing-201.html">John Galliano clothing</a></li>
+				<li class="menu1CSS"><a href="/lanvin-clothing-373.html">Lanvin clothing</a></li>
 			    <li class="menu1CSS"><a href="/miu-miu-clothing-187.html">Miu Miu clothing</a></li>
 			    <li class="menu1CSS"><a href="/paul-smith-clothing-347.html">Paul Smith clothing</a></li>
 			    <li class="menu1CSS"><a href="/vivienne-westwood-clothing-266.html">Vivienne Westwood clothing</a></li>
@@ -893,9 +966,11 @@ var rangeId;
           <ul class="submenuCSS" id="submenu-2">
             <li class="menuCSS"><a href="javascript:mmenu('submenu-2-1')"><strong>Shoes</strong></a>
 <ul class="submenu1CSS" id="submenu-2-1">
-				<li class="menu1CSS"><a href="/prada-shoes-39.html">Prada classic shoes</a></li>
-                <li class="menu1CSS"><a href="/prada-sport-shoes-28.html">Prada sport shoes</a></li>
+				<li class="menu1CSS"><a href="/prada-shoes-39.html">Prada shoes</a></li>
+                <!--<li class="menu1CSS"><a href="/prada-sport-shoes-28.html">Prada sport shoes</a></li>-->
                 <li class="menu1CSS"><a href="/gucci-shoes-48.html">Gucci shoes </a></li>
+				 <li class="menu1CSS"><a href="/alberto-guardiani-shoes-376.html">Alberto Guardiani shoes</a></li>
+                <li class="menu1CSS"><a href="/mc-queen-shoes-385.html">Alexander Mc Queen shoes</a></li>
                 <li class="menu1CSS"><a href="/bottega-veneta-shoes-346.html">Bottega Veneta shoes</a></li>
 				<li class="menu1CSS"><a href="/car-shoe-shoes-128.html">Car Shoe shoes</a></li>
 				<li class="menu1CSS"><a href="/cesare-paciotti-shoes-46.html">Cesare Paciotti shoes</a></li>
@@ -909,7 +984,8 @@ var rangeId;
 				<li class="menu1CSS"><a href="/fratelli-rossetti-shoes-360.html">Fratelli Rossetti shoes</a></li> 
 				<li class="menu1CSS"><a href="/hogan-shoes-18.html">Hogan shoes</a></li>
 				<li class="menu1CSS"><a href="/john-richmond-shoes-207.html">John Richmond shoes</a></li>
-                <li class="menu1CSS"><a href="/paul-smith-shoes-262.html">Paul Smith shoes</a></li>
+				<li class="menu1CSS"><a href="/lanvin-shoes-375.html">Lanvin shoes</a></li>
+				<li class="menu1CSS"><a href="/paul-smith-shoes-262.html">Paul Smith shoes</a></li>
 				<li class="menu1CSS"><a href="/puma-by-mcqueen-shoes-312.html">Puma by McQueen shoes</a></li>
 				<li class="menu1CSS"><a href="/puma-by-dassler-shoes-313.html">Puma by R. Dassler shoes</a></li>
                 <li class="menu1CSS"><a href="/tods-shoes-19.html">Tod's shoes</a></li>
@@ -929,22 +1005,34 @@ var rangeId;
                 <li class="menu1CSS"><a href="/gucci-hats-95.html">Gucci hats</a></li>
                 <li class="menu1CSS"><a href="/gucci-belts-97.html">Gucci belts</a></li>
                 <li class="menu1CSS"><a href="/gucci-watches-213.html">Gucci watches</a></li>
-                <li class="menu1CSS"><a href="/bally-briefcases-290.html">Bally briefcases / messenger bags</a></li>
-				<li class="menu1CSS"><a href="/dolce-gabbana-belts-291.html">Dolce &amp; Gabbana belts</a></li>
+                <li class="menu1CSS"><a href="/alexander-mc-queen-wallets-384.html">Alexander Mc Queen wallets </a></li>
+                <!--<li class="menu1CSS"><a href="/bally-briefcases-290.html">Bally briefcases / messenger bags</a></li>-->
+				<li class="menu1CSS"><a href="/dior-briefcases-369.html">Dior bags / messenger bags</a></li>
+				<li class="menu1CSS"><a href="/dior-belts-365.html">Dior belts</a></li>
+				<li class="menu1CSS"><a href="/dior-wallets-367.html">Dior wallets</a></li>
+				<li class="menu1CSS"><a href="/dolce-gabbana-belts-291.html">Dolce &amp; Gabbana belts</a></li> 
 				<li class="menu1CSS"><a href="/dolce-gabbana-briefcases-203.html">Dolce &amp; Gabbana briefcases / messenger bags</a></li>
 				<li class="menu1CSS"><a href="/dolce-gabbana-wallets-314.html">Dolce &amp; Gabbana wallets</a></li>
+				<li class="menu1CSS"><a href="/dolce-gabbana-hats-366.html">Dolce &amp; Gabbana hats</a></li>
+				<li class="menu1CSS"><a href="/dolce-gabbana-jewellery-368.html">Dolce &amp; Gabbana jewellery</a></li>
 				<li class="menu1CSS"><a href="/dsquared-belts-301.html">DSquared belts</a></li>
 				<li class="menu1CSS"><a href="/ferragamo-briefcases-241.html">Ferragamo briefcases / messenger bags </a></li>
 				<li class="menu1CSS"><a href="/ferragamo-belts-315.html">Ferragamo belts </a></li>
+		
 				<li class="menu1CSS"><a href="/jean-paul-gaultier-handbags-254.html">Jean Paul Gaultier handbags</a></li>
 				<li class="menu1CSS"><a href="/jean-paul-gaultier-wallets-190.html">Jean Paul Gaultier wallets</a></li>
+				<li class="menu1CSS"><a href="/jean-paul-gaultier-jewellery-391.html">Jean Paul Gaultier jewellery</a></li>
+				<li class="menu1CSS"><a href="/john-galliano-belts-381.html">John Galliano belts </a></li>
+				<li class="menu1CSS"><a href="/john-galliano-wallets-382.html">John Galliano wallets </a></li>
 				<li class="menu1CSS"><a href="/paul-smith-handbags-202.html">Paul Smith handbags</a></li>
 				<li class="menu1CSS"><a href="/paul-smith-wallets-263.html">Paul Smith wallets</a></li>
 				<li class="menu1CSS"><a href="/paul-smith-belts-324.html">Paul Smith belts</a></li>
+				<li class="menu1CSS"><a href="/paul-smith-ties-388.html">Paul Smith ties</a></li>
 				<li class="menu1CSS"><a href="/vivienne-westwood-belts-323.html">Vivienne Westwood belts</a></li>
 				<li class="menu1CSS"><a href="/vivienne-westwood-briefcases-226.html">Vivienne Westwood briefcases / messenger bags</a></li>
                 <li class="menu1CSS"><a href="/vivienne-westwood-ties-191.html">Vivienne Westwood ties</a></li>
                 <li class="menu1CSS"><a href="/vivienne-westwood-wallets-252.html">Vivienne Westwood wallets</a></li>
+				<li class="menu1CSS"><a href="/vivienne-westwood-jewellery-387.html">Vivienne Westwood jewellery</a></li>
                 <li class="menu1CSS"><a href="/y-handbags-282.html">Y3 handbags</a></li>
 				<li class="menu1CSS"><a href="/yves-saint-laurent-belts-297.html">Yves Saint Laurent belts</a></li>
               </ul>
@@ -954,17 +1042,22 @@ var rangeId;
               <ul class="submenu1CSS" id="submenu-2-3">
               	<li class="menu1CSS"><a href="/prada-clothing-250.html">Prada clothing</a></li>
               	<li class="menu1CSS"><a href="/gucci-clothing-349.html">Gucci clothing</a></li>
+				<li class="menu1CSS"><a href="/for-all-mankind-men-denim-jeans-390.html">7 For All Mankind Denim jeans </a></li>
               	<li class="menu1CSS"><a href="/alexander-mcqueen-clothing-359.html">Alexander McQueen clothing</a></li>
+				<li class="menu1CSS"><a href="/antonio-marras-clothing-392.html">Antonio Marras clothing</a></li>
               	<li class="menu1CSS"><a href="/cesare-paciotti-clothing-354.html">Cesare Paciotti clothing</a></li>
               	<li class="menu1CSS"><a href="/christian-dior-clothing-350.html">Christian Dior clothing</a></li>
                 <li class="menu1CSS"><a href="/dolce-gabbana-clothing-244.html">Dolce &amp; Gabbana clothing</a></li>
 				<li class="menu1CSS"><a href="/dondup-clothing-363.html">Dondup clothing </a></li>
                 <li class="menu1CSS"><a href="/dsquared-clothing-251.html">DSquared clothing</a></li>
                 <li class="menu1CSS"><a href="/etro-clothing-352.html">Etro clothing</a></li>
+                <li class="menu1CSS"><a href="/fay-clothing-383.html">Fay clothing</a></li>
                 <li class="menu1CSS"><a href="/frankie-morello-clothing-353.html">Frankie Morello clothing</a></li>
                 <li class="menu1CSS"><a href="/john-galliano-clothing-355.html">John Galliano clothing</a></li>
+				<li class="menu1CSS"><a href="/marc-jacobs-clothing-370.html">Marc Jacobs clothing</a></li>
                 <li class="menu1CSS"><a href="/paul-smith-clothing-356.html">Paul Smith clothing</a></li>
-                <li class="menu1CSS"><a href="/vivienne-westwood-clothing-259.html">Vivienne Westwood clothing</a></li>                
+                <li class="menu1CSS"><a href="/vivienne-westwood-clothing-259.html">Vivienne Westwood clothing</a></li>
+				 <li class="menu1CSS"><a href="/kris-van-assche-clothing-389.html">Kris Van Assche clothing</a></li>                
               </ul>
             </li>
           </ul>
@@ -1212,8 +1305,8 @@ var rangeId;
 				<p><font color="#666666" size="2"><strong>Do we use “cookies”?<br>
 				</strong></font><font color="#666666" size="2">Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. </font></p>
 				<p><font color="#666666" size="2">You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our customer service numbers:</font><font size="2"><br>
-				</font><font color="#666666" size="2"><strong>For US customers: </strong></font><font size="2"><strong><span class="style1">0039-011-5096531</span></strong></font><font color="#666666" size="2"> (Monday to Friday 8am-1pm USA EST) <br>
-				<strong>For International Customers: +390115096531</strong> (Monday to Friday 2pm-7pm CET)</font> </p>
+				</font><font color="#666666" size="2"><strong>For US customers: </strong></font><font size="2"><strong><span class="style1">0039-011-5096531</span></strong></font><font color="#666666" size="2"> (Monday to Friday 7.30 am - 1.30 pm USA EST) <br>
+				<strong>For International Customers: +390115096531</strong> (Monday to Friday 1.30 pm - 7.30 pm CET)</font> </p>
 				<p><font color="#666666" size="2"><strong>Do we disclose the information we collect to outside parties?<br>
 				</strong></font><font color="#666666" size="2">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term “outside parties” does not include STYLEDROPS.com. wholly-owned companies. It also does not include website hosting partners and other parties who assist us in operating our website, conducting Styledrops's business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. </font></p>
 				<p><font color="#666666" size="2">However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</font></p>
