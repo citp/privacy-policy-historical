@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609234237id_/http%3A//www.pcadvisor.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165305id_/http%3A//www.pcadvisor.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Site Policy - PC Advisor
 
@@ -104,12 +104,11 @@ This Site may contain links to other web sites that are beyond our control. Othe
 If you have any questions or comments regarding this privacy policy, please contact our Customer Service Department at: 
 
 PC Advisor Website Customer Services  
-99 Gray's Inn Rd  
+101 Euston Road  
 London  
-WC1X 8TY  
+NW1 2RA  
 UK  
-Tel +44 (0) 20 7071 3664  
-Fax + 44 (0) 20 7405 0262  
+Tel +44 (0) 20 7756 2800  
 E-mail: webmaster@pcadvisor.co.uk
 
 If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact us on at the details above. Disputes under this privacy policy will be resolved by our Customer Service Department, which will use commercially reasonable efforts to promptly investigate and, if necessary, to correct any problem. 
