@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630075258id_/http%3A//www.maplin.co.uk/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041527id_/http%3A//www.maplin.co.uk/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Maplin > Privacy Statement
+# Maplin
 
 **OUR PRIVACY POLICY**
 
