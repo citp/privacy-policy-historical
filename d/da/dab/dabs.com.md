@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620060313id_/http%3A//www.dabs.com/article.aspx%3Farticleid%3D132) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015546id_/http%3A//www.dabs.com/article.aspx%3Farticleid%3D132) for the most accurate reproduction.*
 
 # dabs.com - Our privacy policy
 
@@ -11,7 +11,9 @@ The dabs.com website is operated by dabs.com PLC. We are committed to protecting
 
 During our registration process, we ask for personal information which both identifies you and enables us to communicate with you.  We also invite you to tell us your interests so that we can make our communications relevant and interesting for you.
 
-To help us prevent fraud, please be aware that we may make searches about you at credit reference agencies for the purpose of verifying your identity. These agencies will supply us with information, including information from the Electoral Register. The fact that we have requested an identity check is recorded by these agencies, though be assured that the searches will not be seen, or used by lenders to assess your ability to obtain credit.
+To help us prevent fraud, please be aware that we may make searches about you at credit reference agencies for the purpose of verifying your identity. These agencies will supply us with information, including information from the Electoral Register. The fact that we have requested an identity check is recorded by these agencies, though be assured that the searches will not be seen, or used by lenders to assess your ability to obtain credit. 
+
+Please also note that we may cross reference the information you provide us with data from a specialist anti-fraud third party with a view to stopping fraudulent transactions before they occur. 
 
 We will use the information you provide only for the following purposes: 
 
@@ -29,7 +31,7 @@ This privacy policy only covers the dabs.com website at [http://www.dabs.com](ht
 
 ### Principle 2 - Consent and Choice
 
-If you choose not to register or not provide personal information, you may still visit the dabs.com website but you will not be able to access the restricted areas available to registered users. By completing the registration process, you accept the Terms and Conditions described and consent to our using your information accordingly.
+If you choose not to register or not provide personal information, you may still visit the dabs.com website but you will not be able to access the restricted areas available to registered users. By completing the registration process, you are confirming that you accept the terms of our Privacy Policy as described and consent to our using your information accordingly.
 
 ### Principle 3 - Access
 
@@ -82,6 +84,6 @@ If we decide to change this privacy policy, we would post such changes on this p
 ## Need Further Assistance?
 
  **Can we assist via email?**  
-If this article didn't help resolve your query, then you may wish to contact a dabs.com Customer Service representative via our [email service](https://web.archive.org/contact.aspx?articleId=132&articleTitle=Our+privacy+policy&rs=1 "Chat Service Closed - Our online chat service is currently closed"). 
+If this article didn't help resolve your query, then you may wish to contact a dabs.com Customer Service representative via our [email service](https://web.archive.org/contact.aspx?articleId=132&articleTitle=Our+privacy+policy&rs=1&js=false "Chat Service Closed - Our online chat service is currently closed"). 
 
-[](https://web.archive.org/web/20080620060313id_/http%3A//www.dabs.com/ContentMain.aspx?ContentType=Help "Back to the help main menu")
+[](https://web.archive.org/ContentMain.aspx?ContentType=Help "Back to the help main menu")
