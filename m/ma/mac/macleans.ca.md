@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macleans.ca privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502182836id_/http%3A//www.rogerspublishing.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macleans.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012112id_/http%3A//www.rogerspublishing.ca/privacy.htm) for the most accurate reproduction.*
 
-# Rogers Publishing -- Canada's largest publisher magazines and online -- Privacy Policy
+# Rogers Media Privacy Policy
 
 Thank you for your interest in Rogers Media products and services. We believe in giving you full disclosure about the kinds of information we gather and what we do with it, and in giving you a choice about the use of your personal information.
 
@@ -13,6 +13,8 @@ _How does Rogers use information it gathers about me?_
 _Might I be contacted by organizations outside Rogers?_  
 _What are marketing preferences?_  
 _How can I change my marketing preferences?_  
+_Does Rogers Media use telemarketing to sell magazine subscriptions?_  
+_What if I use Rogers Cable or Wireless services?_  
 _Are there other ways my information will be used?_  
 _What about personalized ads in magazines?_  
 _Does Rogers protect the privacy of children?_
@@ -40,7 +42,7 @@ _What happens to information I provide on a contest entry?_
 **General FAQs**
 
 **_What is Rogers Media?_**  
-Rogers Media Inc. is one of Canada's largest media enterprises, including radio stations, "The Shopping Channel", "Rogers Sportsnet", two multicultural television stations in Toronto, and some of Canada's best-known consumer magazines, business periodicals, directories and information products. It is part of Rogers Communications Inc, which also includes Rogers Wireless, Canada's largest wireless voice and data communications services provider, and Rogers Cable, Canada's largest cable television provider offering cable television, high-speed Internet access and video retailing. [Click here](https://web.archive.org/web/20080502182836id_/http%3A//www.rogerspublishing.ca/portfolio/rogers_web.htm) to see a list of all Rogers Media Web sites.  
+Rogers Media Inc. is one of Canada's largest media enterprises, including radio stations, "The Shopping Channel", "Rogers Sportsnet", two multicultural television stations in Toronto, and some of Canada's best-known consumer magazines, business periodicals, directories and information products. It is part of Rogers Communications Inc, which also includes Rogers Wireless, Canada's largest wireless voice and data communications services provider, and Rogers Cable, Canada's largest cable television provider offering cable television, high-speed Internet access and video retailing. [Click here](https://web.archive.org/web/20081216012112id_/http%3A//www.rogerspublishing.ca/portfolio/rogers_web.htm) to see a list of all Rogers Media Web sites.  
 Back to top
 
 _**How can I learn more about your official privacy policy?**_  
@@ -61,7 +63,7 @@ Back to top
 
 **_Might I be contacted by organizations outside Rogers?_**  
 Advertisers who use direct mail may ask Rogers Publishing to be able to send through the mail material of interest to subscribers of some of our publications, but in such cases the list is only released to a reputable third party service bureau for the purpose of sending the specific mailing. E-mail lists might be used for similar communications. All such advertising material is reviewed and subject to approval for acceptable advertising content.  
-If you would prefer that you name not be provided to marketers outside of Rogers, please inform us. (see "[Contact Us](https://web.archive.org/web/20080502182836id_/http%3A//www.rogerspublishing.ca/portfolio/privacy.htm#Contact)" below)  
+If you would prefer that you name not be provided to marketers outside of Rogers, please inform us. (see "[Contact Us](https://web.archive.org/web/20081216012112id_/http%3A//www.rogerspublishing.ca/portfolio/privacy.htm#Contact)" below)  
 Back to top
 
 **_What are marketing preferences?_**  
@@ -70,6 +72,14 @@ Back to top
 
 _**How can I change my marketing preferences?**_  
 You can contact a customer service representative of the Rogers Media property you receive material from, or use their online customer care (if available for that property). If you registered with a password-protected profile at one of our web sites, log in to your profile update page and click the "Update Your Rogers Marketing Preferences" link at the bottom of the page. If you do not have a password-protected profile, you will have to upgrade your newsletter registration. Do this by registering for a password-protected profile with your existing e-mail address, and clicking on the upgrade link when prompted. If you prefer not to register with a password, you can remove yourself from all future marketing e-mail communications by clicking the link found at the end of any marketing e-mail.  
+Back to top
+
+_**Does Rogers Media use telemarketing to sell magazine subscriptions?**_  
+Yes, we have found it convenient for some consumers to contact them by phone either to start new subscriptions or to renew an existing subscription. The authorized agents who sell new subscriptions are required to make use of the national "Do Not Call" registry so that they do not call the phone numbers of people who have registered. You can get more information about the "Do Not Call" registry here <http://www.crtc.gc.ca/eng/INFO_SHT/t1031.htm>. For telemarketing related to the renewals of existing subscriptions, you can update your contact preferences by logging in to your subscriber service page which can be found here. <http://www.rogerspublishing.ca/subscribe/subscriptions_consumer.htm>  
+Back to top
+
+_**What if I use Rogers Cable or Wireless services?**_  
+You should go to the customer care section of the Rogers web site at <http://www.rogers.com/web/Rogers.portal>  
 Back to top
 
 **_Are there other ways my information will be used?_**  
@@ -104,7 +114,7 @@ If you registered with a password-protected profile at one of our web sites, log
 Back to top
 
 _**I'm registering on one of your sites for the first time, but my name is here already. How?**_  
-Virtually all [Rogers Media Web sites](https://web.archive.org/web/20080502182836id_/http%3A//www.rogerspublishing.ca/portfolio/rogers_web.htm) will begin using a shared web registration service in 2006. Any information you provide at registration for a site is tied to your e-mail address. If you use the same e-mail address to register at another Rogers Media Web site, the associated information will be retrieved, so you don't have to re-enter it.  
+Virtually all [Rogers Media Web sites](https://web.archive.org/web/20081216012112id_/http%3A//www.rogerspublishing.ca/portfolio/rogers_web.htm) will begin using a shared web registration service in 2006. Any information you provide at registration for a site is tied to your e-mail address. If you use the same e-mail address to register at another Rogers Media Web site, the associated information will be retrieved, so you don't have to re-enter it.  
 Back to top
 
 **_Do Rogers web sites use cookies?_**  
@@ -122,7 +132,7 @@ During your visit to our sites, we may record choices you have made and use this
 Back to top
 
 **_Does Rogers use "third party advertising"?_**  
-The ads appearing on many of our Web sites are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.com/us/about_doubleclick/privacy).  
+The ads appearing on many of the Rogers Media Web sites are delivered to you using online advertising networks. Information about your visits to this site, such as number of times you have viewed an ad or visits to certain pages of Rogers Media web sites (but not your name, address, e-mail address or other personal information) is used to serve ads to you. The ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of the advertisements served to you on Rogers Media web sites or through affiliate advertising network providers. Web beacons utilize JavaScript code and write information to cookies, which are small files on your computers.  If you do not want a cookie to be written, simply change the setting in your browser.  For more information and how to "opt-out" from DoubleClick cookies, please [click here](http://www.doubleclick.com/us/about_doubleclick/privacy). For more information on how to opt-out from other ad network providers’ cookies, please [click here](http://www.jellycloud.com/optout_landing.html).  
 Back to top
 
 **_What about information on public forums?_**  
