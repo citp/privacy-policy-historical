@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypornbucket.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625091052id_/http%3A//www.mypornbucket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypornbucket.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164316id_/http%3A//www.mypornbucket.com/privacy.php) for the most accurate reproduction.*
 
 # MyPornBucket Free Amateur Teen Porn TOS'd Videos and Pictures:: Privacy Policy
 
@@ -54,4 +54,6 @@ Third Parties' Practices
 
   This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that MyPornBucket does not own or control, or does not employ or manage. 
 
-**Public Videos:** 374 |  **Private Videos:** 29 |  **Watched Videos:** 731.947 |  **Members:** 6072 |  **Online:** -1 guests, 1 members 
+**Public Videos:** 577 |  **Private Videos:** 35 |  **Watched Videos:** 1.637.211 |  **Members:** 11474 |  **Online:** -4 guests, 4 members 
+
+[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=434068&afsid=55544)
