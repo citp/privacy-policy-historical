@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebuyinginstitute.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502135034id_/http%3A//www.homebuyinginstitute.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebuyinginstitute.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216094004id_/http%3A//www.homebuyinginstitute.com/privacy.php) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -12,9 +12,6 @@ Round Rock, TX 78681
 
 **Our email address:**  
 
-
-**Our phone number:**  
-(512) 300-5410
 
 This policy was last updated on February 27, 2008.
 
@@ -43,3 +40,15 @@ To ensure your security, we transfer the handling of all credit card transaction
 "The personally identifiable information we collect about you is stored in limited access servers. We maintain safeguards to protect the security of these servers and your personally identifiable information. We retain personally identifiable information only as long as necessary to complete a purchase, thwart fraud, provide customer service, or maintain your account with us."
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+[](http://www.credit.com/r2/credit-reports/af=p47391&c=13761-2046407033&ag=HBI-sidebar-image)
+
+[](http://www.homebuyinginstitute.com/videos.php)
+
+[](http://www.homebuyinginstitute.com/home-buying-guide.php)
+
+**[Mortgage Modification Programs](http://www.homebuyinginstitute.com/mortgage-modification.php)**  
+A number of home loan modification programs have been created to help struggling homeowners avoid foreclosure (by refinancing into loans with lower rates). Here is a list of lenders who are offering loan modification plans ... [learn more](http://www.homebuyinginstitute.com/mortgage-modification.php)
+
+**[How to Repair Bad Credit](http://www.homebuyinginstitute.com/badcredit_article37.php)**  
+You need good credit in order to qualify for a loan these days. This article explains what you can do to improve your credit score if it happens to be low ... [learn more](http://www.homebuyinginstitute.com/badcredit_article37.php)
