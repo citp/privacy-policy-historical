@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barcamp.org privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602115407id_/http%3A//pbwiki.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcamp.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012658id_/http%3A//pbwiki.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,7 @@
 
 
 
-* * *
-
-We at PBwiki, Inc. have created this privacy policy to describe our information gathering and dissemination practices with respect to information we collect through our website. This privacy policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through our website. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using our website, you explicitly consent to such use of your information and agree to the terms of this privacy policy. This privacy policy is effective as of May 7, 2008.
+We at PBwiki, Inc. have created this privacy policy to describe our information gathering and dissemination practices with respect to information we collect through our website. This privacy policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through our website. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using our website, you explicitly consent to such use of your information and agree to the terms of this privacy policy. This privacy policy is effective as of July 13, 2005.
 
 ### Information You Choose to Submit
 
@@ -38,7 +36,7 @@ Generally, except as otherwise described in this section of our privacy policy, 
 
 ### Public Areas
 
-Your use of areas of our website that are intended for interaction with other users (e.g., message boards, discussion rooms, and other online forums) may allow you to post Personal Data. By choosing to use these areas, you understand and agree that anyone may access, use, and disclose any Personal Data that you post to those areas. Also, if you post content to any such area (e.g., if you post a comment on another user's wiki), please note that your name and e-mail address may be displayed next to such content to identify you as the source.
+Your use of areas of our website that are intended for interaction with other users (e.g., message boards, discussion rooms, and other online forums) may allow you to post Personal Data. By choosing to use these areas, you understand and agree that anyone may access, use, and disclose any Personal Data that you post to those areas.
 
 ### Choice/Opt-Out
 
@@ -46,7 +44,7 @@ We offer you the opportunity to choose not to receive communications from us. If
 
 ### Accessing, Correcting, and Deleting Your Personal Data
 
-If you would like to modify or delete from our database any Personal Data you previously submitted to us, please let us know by accessing and updating your profile on our site or by sending us an email to privacy (at) pbwiki (D0T) com. (please send your request from the email address associated with your account and clearly state what Personal Data you would like modified or deleted). Please note that (1) sometimes these requests may take up to ten business days to process, (2) any Personal Data that we have copied may remain in back-up storage for some period of time after your request, (3) if you delete certain information (e.g., your billing address or credit card number) you may not be able to purchase products in the future without re-submitting such information, (4) we will maintain information about you in our database whenever we are required to do so by law, and (5) we will have no obligation to delete any Personal Information contained in any area of our website other than your own wikis (e.g., Personal Information contained in any other user's wiki as a result of your posting a comment to such wiki).
+If you would like to modify or delete from our database any Personal Data you previously submitted to us, please let us know by accessing and updating your profile on our site or by sending us an email to privacy (at) pbwiki (D0T) com. (please send your request from the email address associated with your account and clearly state what Personal Data you would like modified or deleted). Please note that sometimes these requests may take up to ten business days to process, that any Personal Data that we have copied may remain in back-up storage for some period of time after your request, and that if you delete certain information (e.g., your billing address or credit card number) you may not be able to purchase products in the future without re-submitting such information. Also, please note that we will maintain information about you in our database whenever we are required to do so by law.
 
 ### Security
 
