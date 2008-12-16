@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513091655id_/http%3A//www.cpsc.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216132016id_/http%3A//www.cpsc.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
@@ -89,7 +89,7 @@ Questions
 
 > CPSC is responsible for ensuring the privacy and confidentiality of the information it collects on members of the public, business partners, and its own employees. These people have a right to expect CPSC will collect, maintain, use and disseminate identifiable personal information only as authorized by law and as necessary to carry out agency responsibilities.
 > 
-> [Privacy Impact Assessments (PIAs)](https://web.archive.org/cpscpub/pubs/pia.html) are performed on computer systems and applications in order to evaluate any risks these systems may pose to personally identifiable information.
+> [Privacy Impact Assessments (PIAs)](https://web.archive.org/cpscpub/pubs/reports.html#pia) are performed on computer systems and applications in order to evaluate any risks these systems may pose to personally identifiable information.
 
 * * *
 
