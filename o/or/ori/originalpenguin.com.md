@@ -1,10 +1,21 @@
-> *The following text is extracted and transformed from the originalpenguin.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517082452id_/http%3A//www.originalpenguin.com/opg/service/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originalpenguin.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216131826id_/http%3A//originalpenguin.com/opg/service/privacy.jsp) for the most accurate reproduction.*
 
 # The Official Online Store for Penguin – Original Penguin® Clothes & Accessories > Privacy Policy
 
 Original Penguin® has instituted policies and practices intended to ensure that your personal information is handled in a secure manner that respects and protects your privacy. 
 
 Any changes to our privacy policy and practices will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our website, you consent to the collection and use of this information by Original Penguin. Original Penguin (“Original Penguin”) is a division and wholly owned subsidiary of [Perry Ellis International, Inc](http://www.pery.com/). Our privacy policy was last updated on October 1, 2005. 
+
+Your California Privacy Policy
+
+Original Penguin collects various types of personal information about you both online and offline during the course of our customer relationship. Under California law, if you are a resident of California, you may make a written request to Original Penguin about how we have shared your information with third parties for their direct marketing purposes. In response to your written request, Original Penguin is allowed to provide you with a notice describing the cost-free means to opt-out of our sharing your information with third parties with whom we do not share the same brand name, if the third party will use it for their direct marketing purposes.
+
+If you would like to exercise your rights under California law, please send your written request to the email address or postal address below. Your written request must include your postal address so that we may provide you with our notice and third party direct marketing opt-out form. Original Penguin will provide you with this form within thirty (30) days of receiving your written request. 
+
+Original Penguin Attn: Direct Operations  
+3000 N.W. 107th Avenue  
+Miami, FL 33172   
+custserv@originalpenguin.com
 
 Original Penguin collects data that you provide to our company-owned channels of operation, such as OriginalPenguin.com, either through transactions, email registration, sweepstakes, contests, or membership; or through phone, mail and fax interactions or registrations that you submit. 
 
