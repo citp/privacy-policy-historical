@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plazes.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624111110id_/http%3A//plazes.com/the/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plazes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217004805id_/http%3A//plazes.com/the/privacy_policy) for the most accurate reproduction.*
 
-# Plazes - Right Plaze, Right People, Right Time
+# Privacy Policy - Plazes
 
 ## What This Privacy Policy Covers
 
