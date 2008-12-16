@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612055331id_/http%3A//www.joomlashine.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D17%26Itemid%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216233016id_/http%3A//www.joomlashine.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D17%26Itemid%3D24) for the most accurate reproduction.*
 
-# Free Joomla Templates and Joomla 1.5 Templates - Privacy Policy
+# Joomla Templates and Joomla 1.5 Templates - Privacy Policy
 
 In today's world of shared information, We (JoomlaShine) - take great care of protecting your personal information when you are using our Website ([www.joomlashine.com](http://www.joomlashine.com/)) and any products or services provided on the Website. This Privacy Policy details JoomlaShine's policies relating to your personal information. We may periodically update this Privacy Policy. We encourage you to review this Privacy Policy from time to time for any changes.
 
