@@ -1,18 +1,25 @@
-> *The following text is extracted and transformed from the mmafighting.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515074557id_/http%3A//www.mmafighting.com/site/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmafighting.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024213id_/http%3A//www.mmafighting.com/privacy-policy) for the most accurate reproduction.*
 
-# MMAFighting.com - MMAFighting.com - Privacy Policy Statement
+# Privacy Policy | MMAFighting.com
 
-MMAFighting.com is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.  
+**Privacy Policy Statement**
 
-**Your Personal Information** ** **  
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
+MMAFighting.com is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. ****
 
-When registering for our forums, a valid email address is required to register. This is used to notify you of replies or private messages if you enable these options, and for the administration to email you with important information if necessary.
+* * *
 
-Any cookies received with banner or other ads are collected by advertising companies, and MMAFighting.com does not have any control over or access to this information and will not be held liable for the use of these cookies. 
+**Your Personal Information**
 
-**Advertisers**  
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and information. 
+This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. When registering for our forums, a valid email address is required to register. This is used to notify you of replies or private messages if you enable these options, and for the administration to email you with important information if necessary. Any cookies received with banner or other ads are collected by advertising companies, and MMAFighting.com does not have any control over or access to this information and will not be held liable for the use of these cookies. ****
 
-**Questions**  
-If you have any questions or comments about this privacy statement, the practices of this site, you can contact [webmaster@mmafighting.com](mailto:webmaster@mmafighting.com)
+* * *
+
+**Advertisers**
+
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and information. ****
+
+* * *
+
+**Questions**
+
+If you have any questions or comments about this privacy statement, the practices of this site, you can [contact us](https://web.archive.org/contact). 
