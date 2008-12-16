@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512151342id_/http%3A//goldmoney.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011439id_/http%3A//www.goldmoney.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # GoldMoney Privacy Policy
 
@@ -14,4 +14,4 @@ GoldMoney does not sell, rent, loan, trade or lease any personal information col
 
 For security reasons, we do not recommend saving your Holding number and Passphrase in your computer's memory (do not allow your browser to remember your Passphrase). Consequently, we advise entering your Holding number and Passphrase each time you begin a new browser session and wish to view your Holding. Please read our [Security FAQ](http://support.goldmoney.com/category.php?id=10) for important tips on accessing GoldMoney securely.
 
-Questions regarding the GoldMoney privacy policy should be directed to [Customer Support](https://web.archive.org/web/20080512151342id_/http%3A//goldmoney.com/en/support.php).
+Questions regarding the GoldMoney privacy policy should be directed to [Customer Support](https://web.archive.org/web/20081216011439id_/http%3A//www.goldmoney.com/en/support.php).
