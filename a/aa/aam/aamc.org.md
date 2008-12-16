@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612062816id_/http%3A//www.aamc.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011728id_/http%3A//www.aamc.org/privacy.htm) for the most accurate reproduction.*
 
 # AAMC: Privacy Notice
-
-#### Last updated April 25, 2008 
-
-  
-
 
 ### Our Commitment to Privacy
 
@@ -53,6 +48,14 @@ Access to your personally identifiable information is available through your AAM
 
 To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access or making corrections following such a request.
 
+### Protecting Your Personal Information Online
+
+The AAMC and the National Resident Matching Program (NRMP) take significant measures to protect your data in their systems, but you must also be vigilant in protecting access to your information online. 
+
+Treat your user names and passwords with care. Be careful not to share this information or enter them into fraudulent sites. Be aware that legitimate AAMC and NRMP sites include "aamc.org" and "nrmp.org," respectively. Do not conduct AAMC or NRMP business with any sites that do not contain one of these addresses.
+
+To learn more about protecting your personal information online, read [7 Practices for Computer Security](http://www.onguardonline.gov/topics/computer-security.aspx) and [How Not to Get Hooked by a 'Phishing' Scam](http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.shtm) from the Federal Trade Commission.
+
 ### How to Contact Us About This Policy
 
 Should you have any questions, comments, requests, or concerns related to this privacy notice, please contact the AAMC at [privacy@aamc.org](mailto:privacy@aamc.org) or at:
@@ -82,8 +85,11 @@ Certain AAMC services and surveys provide additional detailed information regard
 [MSPS (Medical School Profile System)](https://web.archive.org/data/msps/reports.htm)  
 [MSQ (Matriculating Student Questionnaire)  
 ](https://web.archive.org/data/msq/start.htm)[PMQ (Pre-MCAT Questionnaire)](https://web.archive.org/data/pmq/start.htm)  
-[Survey of Housestaff Stipends, Benefits and Funding](https://web.archive.org/data/housestaff/)  
+[Survey of Resident/Fellow Stipends and Benefits](https://web.archive.org/data/housestaff/)  
 [Visiting Student Application Service (VSAS)](https://web.archive.org/programs/vsas/start.htm)
 
+#### Last updated Oct. 31, 2008 
+
   
+[Top]  
 
