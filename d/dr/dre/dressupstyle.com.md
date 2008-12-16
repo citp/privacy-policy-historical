@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupstyle.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616044053id_/http%3A//www.dressupstyle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupstyle.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012420id_/http%3A//www.dressupstyle.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,5 @@ This site, DressupStyle, uses the services of Yahoo, Google, MochiAds, CPM Star 
   * To learn more about Yahoo, go to [http://privacy.yahoo.com](http://privacy.yahoo.com/)
   * To learn more about FastClick, go to <http://www.fastclick.com/about/opt-out.html>
   * To learn more about ValueClick, go to <http://www.valueclick.com/privacy.html>
-  * To learn more about focusIN, go to <http://www.focusin.com/privacy.htm>
 
 
