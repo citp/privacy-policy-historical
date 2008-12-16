@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514211622id_/http%3A//www.stratfor.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033358id_/http%3A//www.stratfor.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stratfor
 
@@ -71,3 +71,5 @@ We are often asked about our use of cookie technology, which we employ at Stratf
 Faster, more convenient access. We can deliver to you customized information and store your settings more efficiently. Better information. We want to give you features and services in which you're interested. Through the use of cookies, we can determine which features are most popular with subscribers on an aggregate basis and thus better serve your needs by developing new features and services in response to our analysis of subscribers' usage. More efficient ad processing. Cookies enable us to streamline our ad presentations. Will the cookies you send me go away? Some of our cookies are long term. Some cookies do expire after a short period of time. Remember, cookies are small files (just a few hundred bytes) and won't pose any significant disk-space concerns. You are, of course, free to clear any and all cookies from your hard drive any time you wish. Just search your system for any files named cookies.txt (or similar) and delete them at your discretion.
 
 **Should I set my browser to not accept cookies or to alert me each time I receive one?** You certainly could set your browser to alert you each time a cookie is passed to your machine. However, we'd recommend that you turn that feature off, perhaps after using the site for a day or so with it on, once you've seen firsthand how we use this technology. Our use of cookies ultimately helps you have a better experience here. You might find it cumbersome to be alerted to each cookie you'll encounter.
+
+**To have Stratfor's free intelligence reports emailed to you each week,[click here](https://www.stratfor.com/join/free?source=FreeWeekly).**
