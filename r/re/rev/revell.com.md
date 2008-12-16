@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the revell.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613215151id_/http%3A//www.revell.com/Privacy-Policy.privacy_policy.0.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revell.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153125id_/http%3A//www.revell.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Revell:Privacy Policy
+# Revell Privacy Policy
 
-Revell-Monogram, LLC, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Revell-monogram.com. The Revell-Monogram website is a dynamic site and changes all the time. Some information given in this section is included for future intended use. By visiting this portion of our site, you can expect to be notified of:
+Revell Inc., has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Revell-monogram.com. The Revell-Monogram website is a dynamic site and changes all the time. Some information given in this section is included for future intended use. By visiting this portion of our site, you can expect to be notified of:
 
   * What personally identifiable information is collected
   * How the information is used
@@ -66,6 +66,7 @@ Our site also gives users the option to change and modify information previously
 ** Questions regarding this statement, the practices of this site, or your dealings with this Web site should be directed to:
 
 > Manager, Consumer Communication  
-> Revell-Monogram  
-> 725 Landwehr Rd.  
-> Northbrook, IL 60062
+>  Revell Inc.  
+>  1850 Howard Street, Unit A  
+>  Elk Grove Village, IL 60007  
+> 
