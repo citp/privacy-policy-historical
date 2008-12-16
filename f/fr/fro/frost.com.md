@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frost.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604032504id_/http%3A//www.frost.com/prod/servlet/privacy-policy.pag) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frost.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216232846id_/http%3A//www.frost.com/prod/servlet/privacy-policy.pag) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 **About Us**
 
-This is a privacy policy for Frost & Sullivan. Frost & Sullivan is an international consulting firm that has been operating since 1961 with [offices](http://www.frost.com/prod/servlet/locations.pag) all over the globe. We provide market intelligence, [research reports](http://www.frost.com/prod/servlet/research.pag), [customized consulting](http://www.frost.com/prod/servlet/mcon.pag), and [corporate financial services](http://www.frost.com/prod/servlet/finsvc-home.pag) throughout 35 different [international industries](http://www.frost.com/prod/servlet/subscriptions.pag) for our clients in order to help them grow, become more efficient, and generate revenue. **For more information on Frost & Sullivan [click here](http://www.frost.com/prod/servlet/company-info.pag). **
+This is a privacy policy for Frost & Sullivan. Frost & Sullivan is a Global Growth Partnership Company that has been operating since 1961 with 31 [offices](http://www.frost.com/prod/servlet/locations.pag) all over the globe. We provide market intelligence, [research studies](http://www.frost.com/prod/servlet/research.pag), [customized consulting](http://www.frost.com/prod/servlet/mcon.pag), and [corporate financial services](http://www.frost.com/prod/servlet/finsvc-home.pag) throughout 35 different [international industries](http://www.frost.com/prod/servlet/subscriptions.pag) for our clients in order to help them grow, become more efficient, and generate revenue. **For more information on Frost & Sullivan [click here](http://www.frost.com/prod/servlet/company-info.pag). **
 
 Our homepage on the Web is located at **[http://www.frost.com](http://www.frost.com/)**. 
 
@@ -103,7 +103,7 @@ This data will be used for the following purposes:
 
 This data will be used by Frost & Sullivan and our agents. 
 
-This information is collected so that we can send you valuable and useful information which is relevant to your needs and interests in order to provide you with a strategic range of information.
+This information is collected so that we can send you valuable and useful information that is relevant to your needs and interests in order to provide you with a strategic range of information.
 
  ****
 
