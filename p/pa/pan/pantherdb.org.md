@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pantherdb.org privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517054806id_/http%3A//www.sri.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantherdb.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155105id_/http%3A//www.sri.com/privacy.html) for the most accurate reproduction.*
 
 # SRI's Privacy Policy
 
