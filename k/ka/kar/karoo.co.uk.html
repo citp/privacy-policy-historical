@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the karoo.co.uk privacy policy that was archived on 2008-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514210059id_/http%3A//karoo.co.uk/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the karoo.co.uk privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -58,7 +58,11 @@ window.open(url,target,winopt);}}ns_i.src=ns_l;return false;}
 	}
 	function ChangeFontSize(a,b) {
 		var newstyle = document.getElementById(a);
-		newstyle.style.fontSize = b;
+		if (b=='xlarge') {
+			newstyle.style.fontSize = 'x-large';
+		} else {
+			newstyle.style.fontSize = b;
+		}
 	}
 	NewText = readCookie("TextPref");
 	if (NewText=='xlarge') {
@@ -72,12 +76,12 @@ window.open(url,target,winopt);}}ns_i.src=ns_l;return false;}
     <div id="header">
 		<div id="nav_tools" class="clear">
 			<ul class="nav">
-				<li><a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.karoo.co.uk');ns_onclick(this,'','.onclick.header.make_karoo_your_homepage','clickin');return false" title="">Make Karoo your homepage</a></li>
+				<li><a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.karoo.co.uk');ns_onclick(this,'','privacy_policy.onclick.header.make_karoo_your_homepage','clickin');return false" title="">Make Karoo your homepage</a></li>
 			</ul>
 		</div>
 		<div id="nav_utility">
 			<ul class="nav">
-				<li><a href="https://controlpanel.karoo.kcom.com/CGIControl/control.pl" onclick="ns_onclick(this,'','.onclick.header.my_account','clickout');return false" title="" class="pipe" target="_blank">My account</a></li>
+				<li><a href="https://controlpanel.karoo.kcom.com/CGIControl/control.pl" onclick="ns_onclick(this,'','privacy_policy.onclick.header.my_account','clickout');return false" title="" class="pipe" target="_blank">My account</a></li>
 				<li><a href="/helpandsupport/" title="" class="pipe">Help &amp; support</a></li>
 				<li><a href="/feedback/site_feedback.asp" title="" class="pipe">Feedback</a></li>
 				<li><a href="/contactus/" title="">Contact us</a></li>
@@ -89,7 +93,7 @@ window.open(url,target,winopt);}}ns_i.src=ns_l;return false;}
 		<div id="top_banner_ad">
 			
 			
-			<a href="/broadband/"><img src="/banners/NewKaroo_banner1_468x60.gif" width="468" height="60" alt="NEW Karoo broadband from just £8.49 per month!"></a>
+			<a href="/karootoday/planet_ink_club.asp"><img src="/banners/karoo-banner-468X60.gif" width="468" height="60" alt="Planet Ink Club - the greener way to print" id="strGif"></a>
 		
 			
 
@@ -99,35 +103,24 @@ window.open(url,target,winopt);}}ns_i.src=ns_l;return false;}
 			<map name="PrefMap" id="PrefMap">
 			<area shape="rect" coords="2,2,16,22" title="Medium fontsize" href="/set_textsize.asp?TextSize=medium" onclick="javascript:ChangeFontSize('container','medium'); return true;" alt="Medium fontsize">
 			<area shape="rect" coords="17,2,28,22" title="Large fontsize" href="/set_textsize.asp?TextSize=large" onclick="javascript:ChangeFontSize('container','large'); return true;" alt="Large fontsize">
-			<area shape="rect" coords="30,3,44,22" title="X-Large fontsize" href="#" onclick="javascript:ChangeFontSize('container','xlarge'); return true;" alt="X-Large fontsize">
+			<area shape="rect" coords="30,3,44,22" title="X-Large fontsize" href="/set_textsize.asp?TextSize=xlarge" onclick="javascript:ChangeFontSize('container','xlarge'); return true;" alt="X-Large fontsize">
 			<area shape="rect" coords="13,26,22,35" title="Blue theme" href="/set_theme.asp?Theme=Blue" alt="Blue theme">
 			<area shape="rect" coords="28,25,37,35" title="Pink theme" href="/set_theme.asp?Theme=Pink" alt="Pink theme">
 			<area shape="rect" coords="12,43,21,53" title="Orange theme" href="/set_theme.asp?Theme=Orange" alt="Orange theme">
 			<area shape="rect" coords="28,44,37,53" title="Green theme" href="/set_theme.asp?Theme=Green" alt="Green theme">
 			</map>
 		</div>
-		<div id="web_search" class="clear">
-			<form id="ask_search_form" action="http://uk.ask.com/ar" name="ask_search_form_header" method="get">
-			<input type="hidden" name="qsrc" value="999">
-			<input type="hidden" name="siteid" value="41613120">
-			<input type="hidden" name="l" value="dis">
-			<div id="ask_logo"><img src="/images/powered_by_ask.gif" width="111" height="24" alt="Search Powered by Ask"></div>
-			<h1><label for="search_ask">Search:</label></h1>
-			<ul>
-				<li class="pipe"><a href="http://uk.ask.com/web" onclick="searchWeb('http://uk.ask.com/web','idWeb','search_choice_web'); return false;" id="idWeb" class="current_search" title="Search Web">Web</a></li>
-				<li class="pipe"><a href="http://uk.ask.com/pictures" onclick="searchWeb('http://uk.ask.com/pictures','idImages','search_choice_images'); return false;" id="idImages" class="inactive_search" title="Search Images">Images</a></li>
-				<li class="pipe"><a href="http://news.uk.ask.com/news" onclick="searchWeb('http://news.uk.ask.com/news','idNews','search_choice_news'); return false;" id="idNews" class="inactive_search" title="Search News">News</a></li>
-				<li><a href="http://uk.ask.com/blogsearch" onclick="searchWeb('http://uk.ask.com/blogsearch','idBlogs','search_choice_blogs'); return false;" id="idBlogs" class="inactive_search" title="Search Blogs">Blogs</a></li>
-			</ul>
-			<div id="search_bar" class="search_bar_web"><input type="text" id="search_ask" name="q" size="91" tabindex="1"> <input type="submit" class="search_button" name="submit" value="" tabindex="4" onclick="ns_onclick(this,'','.onclick.asksearch.web','clickout'); return true;" onkeypress="ns_onclick(this,'','.onclick.asksearch.web','clickout'); return true;"></div>
-			<div id="search_choice_web"><input type="radio" id="alltop" name="dm" value="all" tabindex="2" checked="checked"> <label for="alltop">The web</label> <input type="radio" id="ctrytop" name="dm" value="ctry" tabindex="3"> <label for="ctrytop">UK only</label></div>
-			
-			
-			<div id="search_choice_images">Search the web for images</div>
-			<div id="search_choice_news">Search the web for news</div>
-			<div id="search_choice_blogs">Search the web for blogs</div>
-			
-			
+		<div id="google_search" class="clear">
+			<form name="google_search_form" method="get" action="/search/search.aspx">
+			<div id="search_box_top">
+            	Web Search&nbsp;&nbsp;<input type="text" class="google_search_box" name="q" size="77">&nbsp;&nbsp;<input type="submit" class="search_button_top" name="submit" value="" onclick="ns_onclick(this,'','.onclick.search.google.header','clickin'); return true;">
+            </div>
+			<div id="google_logo_top">
+
+            </div>
+			<div id="search_type">
+            	<input type="radio" id="all" name="meta" value="" checked="checked"> <label for="all">The web</label> <input type="radio" id="cty" name="meta" value="cr=countryUK|countryGB"> <label for="cty">UK only</label>
+            </div>
 			</form>
 		</div>
 		<div id="nav_global" class="clear">
@@ -135,72 +128,13 @@ window.open(url,target,winopt);}}ns_i.src=ns_l;return false;}
 				<li id="home"><a href="/" title="">Home</a></li>
 				<li id="broadband"><a href="/broadband/" title="">Broadband</a></li>
 				<li id="talk"><a href="/kctalk/" title="">KC Talk</a></li>
-				<li id="shop"><a href="/onlineshop/" title="">KC shop</a></li>
+				<li id="shop"><a href="http://www.karoo.dslshop.co.uk/index.asp" title="">Karoo Shop</a></li>
 				<li id="local_news"><a href="/newsandsport/" title="">News &amp; sport</a></li>
-				<li id="lifestyle"><a href="/lifestyle/" title="">Lifestyle</a></li>
-				<li id="webmail"><a href="/webmail/" title="">Webmail</a></li>
+				<li id="greenzone"><a href="/greenzone/" title="">Green Zone</a></li>
+				<li id="customer_zone"><a href="/customerzone/" title="">Customer Zone</a></li>
 			</ul>
 		</div>
 	</div>
-	<script type="text/javascript">
-	<!--
-	function searchWeb(newURL,elemID,displayID) {
-		document.ask_search_form_header.action = newURL;
-		document.getElementById(elemID).className = 'current_search';
-		document.getElementById(displayID).style.display = 'block';
-		if (elemID == 'idWeb') {
-			document.getElementById('idImages').className = 'inactive_search';
-			document.getElementById('idNews').className = 'inactive_search';
-			document.getElementById('idBlogs').className = 'inactive_search';
-			document.getElementById('search_bar').className = 'search_bar_web';
-			document.getElementById('search_choice_images').style.display = 'none';
-			document.getElementById('search_choice_news').style.display = 'none';
-			document.getElementById('search_choice_blogs').style.display = 'none';
-		} 
-		if (elemID == 'idImages') {
-			document.getElementById('idWeb').className = 'inactive_search';
-			document.getElementById('idNews').className = 'inactive_search';
-			document.getElementById('idBlogs').className = 'inactive_search';
-			document.getElementById('search_bar').className = 'search_bar_images';
-			document.getElementById('search_choice_web').style.display = 'none';
-			document.getElementById('search_choice_news').style.display = 'none';
-			document.getElementById('search_choice_blogs').style.display = 'none';
-		}
-		if (elemID == 'idNews') {
-			document.getElementById('idWeb').className = 'inactive_search';
-			document.getElementById('idImages').className = 'inactive_search';
-			document.getElementById('idBlogs').className = 'inactive_search';
-			document.getElementById('search_bar').className = 'search_bar_news';
-			document.getElementById('search_choice_web').style.display = 'none';
-			document.getElementById('search_choice_images').style.display = 'none';
-			document.getElementById('search_choice_blogs').style.display = 'none';
-		}
-		if (elemID == 'idBlogs') {
-			document.getElementById('idWeb').className = 'inactive_search';
-			document.getElementById('idImages').className = 'inactive_search';
-			document.getElementById('idNews').className = 'inactive_search';
-			document.getElementById('search_bar').className = 'search_bar_blogs';
-			document.getElementById('search_choice_web').style.display = 'none';
-			document.getElementById('search_choice_images').style.display = 'none';
-			document.getElementById('search_choice_news').style.display = 'none';
-		}
-	}
-	function nedstatevent() {
-		if (document.getElementById('idWeb').className == 'current_search') {
-			ns_onclick(this,'','.onclick.asksearch.web','clickout'); return false;
-		}
-		if (document.getElementById('idImages').className == 'current_search') {
-			ns_onclick(this,'','.onclick.asksearch.images','clickout'); return false;
-		}
-		if (document.getElementById('idNews').className == 'current_search') {
-			ns_onclick(this,'','.onclick.asksearch.news','clickout'); return false;
-		}
-		if (document.getElementById('idBlogs').className == 'current_search') {
-			ns_onclick(this,'','.onclick.asksearch.blogs','clickout'); return false;
-		}
-	}
-	//-->
-	</script>
 	<div id="content_left">
 		<div id="kt_header">
 			<h1>Privacy Policy</h1>
@@ -426,7 +360,7 @@ if ((B468x60_isM) && (B468x60_isMIE)) {
 
 //-->
 
-</script><script language="JavaScript1.2" type="text/javascript" src="http://ukdisplay.bidsystem.com/js/468-60_ad.js?adkBref=noRef&amp;pubID=10037&amp;ran=8KHtuda1fBd2LLIx&amp;ue=n&amp;placement=46&amp;channel=17"></script>
+</script><script language="JavaScript1.2" type="text/javascript" src="http://ukdisplay.bidsystem.com/js/468-60_ad.js?adkBref=noRef&amp;pubID=10037&amp;ran=RbfioVlvtPkgDwV8&amp;ue=n&amp;placement=46&amp;channel=17"></script>
 
 <noscript>
 
@@ -451,14 +385,14 @@ if ((B468x60_isM) && (B468x60_isMIE)) {
 			<input type="hidden" name="lid" value="0">
 			<h1 id="email_heading">Karoo webmail</h1>
 			<ul id="email_help" class="nav">
-					<li><a href="https://jupiter.karoo.kcom.com/login" onclick="ns_onclick(this,'','.onclick.karoo_webmail.quarantine','clickout');return false" title="Quarantine" target="_blank" class="pipe_dark">Quarantine</a></li>
-					<li><a href="https://controlpanel.karoo.kcom.com/CGIControl/control.pl?remindpassword=1" onclick="ns_onclick(this,'','.onclick.karoo_webmail.lost_password','clickout');return false" title="Lost password" target="_blank">Lost password</a></li>
+					<li><a href="https://jupiter.karoo.kcom.com/login" onclick="ns_onclick(this,'','privacy_policy.onclick.karoo_webmail.quarantine','clickout');return false" title="Quarantine" target="_blank" class="pipe_dark">Quarantine</a></li>
+					<li><a href="https://controlpanel.karoo.kcom.com/CGIControl/control.pl?remindpassword=1" onclick="ns_onclick(this,'','privacy_policy.onclick.karoo_webmail.lost_password','clickout');return false" title="Lost password" target="_blank">Lost password</a></li>
 				</ul>
 				<div id="full_login" class="clear">
 				<div>
 					<input type="text" id="user_email" name="UNAME" size="17" tabindex="5" value=".karoo.co.uk">
 					<input type="password" id="user_password" name="PASSWORD" size="9" tabindex="6">
-					<input type="submit" class="signin_button" name="submit" value="" tabindex="7" onclick="ns_onclick(this,'','.onclick.karoo_webmail.signin','clickout'); return true;" onkeypress="ns_onclick(this,'','.onclick.karoo_webmail.signin','clickout'); return true;">
+					<input type="submit" class="signin_button" name="submit" value="" tabindex="7" onclick="ns_onclick(this,'','privacy_policy.onclick.karoo_webmail.signin','clickout'); return true;" onkeypress="ns_onclick(this,'','privacy_policy.onclick.karoo_webmail.signin','clickout'); return true;">
 				</div>
 				<p id="email_address"><label for="user_email">Email address</label></p>
 				<p id="email_password"><label for="user_password">Password</label></p>
@@ -466,7 +400,7 @@ if ((B468x60_isM) && (B468x60_isMIE)) {
 			</div>
 			<div id="user_signin" class="clear">
 				<p id="current_user"></p>
-				<p class="signin_float"><input type="submit" class="signin_button" name="submit" value="" onclick="ns_onclick(this,'','.onclick.karoo_webmail.signin_remembered','clickout'); return true;" onkeypress="ns_onclick(this,'','.onclick.karoo_webmail.signin_remembered','clickout'); return true;"></p>
+				<p class="signin_float"><input type="submit" class="signin_button" name="submit" value="" onclick="ns_onclick(this,'','privacy_policy.onclick.karoo_webmail.signin_remembered','clickout'); return true;" onkeypress="ns_onclick(this,'','privacy_policy.onclick.karoo_webmail.signin_remembered','clickout'); return true;"></p>
 				<div class="notyou">
 					<p><strong><a href="javascript:notYou()">Not your login details?</a></strong></p>
 					<p><strong><a href="javascript:forgetMe()">Forget my details</a></strong></p>
@@ -562,9 +496,9 @@ if ((B468x60_isM) && (B468x60_isMIE)) {
 			</div>
 			<div>
 				<ul>
-					<li><a href="/helpandsupport/dnsoptout/" title="Redirected Search">Redirected Search</a></li>
+					<li><a href="/helpandsupport/karoosecurity/avg-offer.asp" title="AVG">Security – Save £10</a></li>
 					<li><a href="/helpandsupport/virusalerts/" title="Virus alerts">Virus alerts</a></li>
-					<li><a href="/helpandsupport/karoostatus/" onclick="ns_onclick(this,'','.onclick.technical_help_and_support.karoo_status','clickout');return false" title="Karoo status">Karoo status</a></li>
+					<li><a href="/helpandsupport/karoostatus/" onclick="ns_onclick(this,'','privacy_policy.onclick.technical_help_and_support.karoo_status','clickout');return false" title="Karoo status">Karoo status</a></li>
 					<li><a href="/helpandsupport/downloads/" title="Downloads">Downloads</a></li>
 				</ul>
 			</div>
@@ -634,7 +568,7 @@ if ((B300x250_isM) && (B300x250_isMIE)) {
 
 //-->
 
-</script><script language="JavaScript1.2" type="text/javascript" src="http://ukdisplay.bidsystem.com/js/300-250_ad.js?adkBref=noRef&amp;pubID=10037&amp;ran=EqcJ05QJ206523dp&amp;ue=n&amp;placement=45&amp;channel=17"></script>
+</script><script language="JavaScript1.2" type="text/javascript" src="http://ukdisplay.bidsystem.com/js/300-250_ad.js?adkBref=noRef&amp;pubID=10037&amp;ran=TUfL7J2LHr200_O7&amp;ue=n&amp;placement=45&amp;channel=17"></script>
 
 <noscript>
 
@@ -647,7 +581,18 @@ if ((B300x250_isM) && (B300x250_isMIE)) {
 			<p class="ad_right"><a href="/feedback/ad_feedback.asp" title="Ad Feedback">Ad Feedback</a></p>
 		</div>
 	</div>
-		<div id="footer" class="clear">
+		<div id="google_search_bottom" class="clear">
+		<form name="google_search_form_bot" method="get" action="/search/search.aspx">
+		<div id="google_footer">
+			<div id="google_logo_bottom">
+				<img src="/images/google_power_bot.gif" width="78" height="39" alt="Search Powered by Google">
+			</div>
+			<div id="search_box"><input type="text" class="google_search_box" name="q" size="84">&nbsp;&nbsp;<input type="submit" class="search_button" name="submit" value="" onclick="ns_onclick(this,'','.onclick.search.google.footer','clickin'); return true;">
+			</div>
+		</div>
+		</form>
+	</div>
+	<div id="footer" class="clear">
 		<ul class="nav">
 			<li><a href="/acceptableuse.asp" title="Acceptable use policy" class="pipe">Acceptable use policy</a></li>
 			<li><a href="/termsofuse.asp" title="Terms of use" class="pipe">Terms of use</a></li>
@@ -658,7 +603,7 @@ if ((B300x250_isM) && (B300x250_isMIE)) {
 		<p id="kc_business"><a href="http://www.kcom.com" title="Part of the KCOM Group" target="_blank">Part of the KCOM Group</a></p>
 		
 		<div id="footer_image" class="clear">
-			<p class="clear"><a href="http://www.ispaawards.org.uk/categories/portal.htm" title="Best Portal Finalist in the ISPA Awards 2008" target="_blank"><img src="/images/best_portal.gif" width="95" height="95" alt="Best Portal Finalist in the ISPA Awards 2008"></a></p>
+			<a href="http://www.kcfm.co.uk" title="Visit the new radio station for Hull and East Yorkshire" target="_blank"><img src="/images/kcfm_footer.gif" width="155" height="62" alt="Visit the new radio station for Hull and East Yorkshire"></a>
 		</div>
 		
 		<div id="footer_copyright" class="clear">
@@ -683,12 +628,12 @@ if ((B300x250_isM) && (B300x250_isMIE)) {
 	<script type="text/javascript">
 		<!--
 		// call sitestat
-		sitestat("http://uk.sitestat.com/kcom/karoo/s?.privacy_policy&amp;category=Theme.Colour.Blue");
+		sitestat("http://uk.sitestat.com/kcom/karoo/s?privacy_policy&amp;category=Theme.Colour.Blue");
 		//-->
 	</script>
 	
 	<noscript>
-		<img src="http://uk.sitestat.com/kcom/karoo/s?.privacy_policy&amp;category=Theme.Colour.Blue" alt="" />
+		<img src="http://uk.sitestat.com/kcom/karoo/s?privacy_policy&amp;category=Theme.Colour.Blue" alt="" />
 	</noscript>
 </div>
 
