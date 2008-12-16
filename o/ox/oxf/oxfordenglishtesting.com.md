@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oxfordenglishtesting.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524101529id_/http%3A//www.oxfordenglishtesting.com/showContent.aspx%3FmenuId%3D2%26id%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordenglishtesting.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062949id_/http%3A//www.oxfordenglishtesting.com/showContent.aspx%3FmenuId%3D2%26id%3D116) for the most accurate reproduction.*
 
-# 
+# www.oxfordenglishtesting.com
 
 ## Privacy Policy and Legal Notice for Oxford English Testing
 
@@ -40,22 +40,23 @@ If we believe that your use of the web site is unlawful or damaging to others, w
 
 Cookies are small files that we create to store information on your computer.
 
-  * we do not use cookies to track what other sites you have visited.
-  * we do not look at or track any personal or confidential information about you.
-  * we do make use of cookies to enable authorization control for online products.
-  * we delete all our cookies when you click “Sign Out” or quit your browser.
+• we do not use cookies to track what other sites you have visited.
 
+• we do not look at or track any personal or confidential information about you.
 
+• we do make use of cookies to enable authorization control for online products.
 
-[There are [two] cookies used in our system:
+• we delete all our cookies when you click “Sign Out” or quit your browser.
 
-[     ]: identifies you to our system (and only to our system) as a valid user  
-[     ]: identifies your session to our computer]
+There are two cookies used in our system:
+
+1: identifies you to our system (and only to our system) as a valid user  
+2: identifies your session to our computer]
 
 **Security**
 
 Your personal information is stored at a data centre controlled by our third party hosting company and on the customer databases at OUP and OUP, Inc.  The data centre controlled by our third party hosting company is specifically designed to be physically secure and to admit authorized personnel only, who are contractually bound to keep all of our data confidential.
 
-Access to our customer databases at OUP and OUP, Inc. in the USA is only given to those of our employees who need such access in order to carry out necessary processing of your account.
+Access to our customer databases at OUP and OUP, Inc. in the USA is only given to those of our employees who need such access in order to carry out necessary processing of your account. 
 
 All personal information submitted by you and entered by OUP or OUP, Inc. into the Oxford English Testing resource access control system is encoded using 128-bit SSL encryption before being sent over the Internet.
