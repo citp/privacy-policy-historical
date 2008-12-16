@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingwithoutablog.com privacy policy that was archived on 2008-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080323012103id_/http%3A//bloggingwithoutablog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingwithoutablog.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100156id_/http%3A//bloggingwithoutablog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogging Without A Blog
 
@@ -74,3 +74,5 @@ from this Site is expressly prohibited.
 Get your own Privacy Policy [here](http://www.prioritydigital.com/)!  
   
 
+
+Tags: [Blogging](http://bloggingwithoutablog.com/tag/blogging/ "Blogging")
