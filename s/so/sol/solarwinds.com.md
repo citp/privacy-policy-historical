@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarwinds.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613115032id_/http%3A//www.solarwinds.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarwinds.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165150id_/http%3A//www.solarwinds.com/privacy.aspx) for the most accurate reproduction.*
 
 # Solarwinds - Privacy Policy
 
