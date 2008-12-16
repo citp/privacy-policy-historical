@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the solidcactus.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529030458id_/http%3A//www.solidcactus.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidcactus.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041057id_/http%3A//www.solidcactus.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Solid Cactus Inc., Inc. Web Site Privacy Policy**
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
-Solid Cactus Inc. has created this privacy policy to demonstrate our firm commitment to privacy while visiting our web site, and/or using our software and utilities. The following discloses our information gathering and dissemination practices for www.solidcactus.com, tools.solidcactus.com, or any Solid Cactus Web Property. (the "SC Website"). Solid Cactus Inc. reserves the right to update this policy as these sites evolve and new sites are added. 
+ **Solid Cactus Inc., Inc. Web Site Privacy Policy**
+
+Solid Cactus Inc. has created this privacy policy to demonstrate our firm commitment to privacy while visiting our web site, and/or using our software and utilities. The following discloses our information gathering and dissemination practices for [www.solidcactus.com](http://www.solidcactus.com/), [webstore.solidcactus.com](http://webstore.solidcactus.com/), [www.solidcactusprostores.com](http://www.solidcactusprostores.com/), [www.cactusondemand.com](http://www.cactusondemand.com/), [www.feedperfect.com](http://www.feedperfect.com/), or any Solid Cactus Web Property. (the "SC Website"). Solid Cactus Inc. reserves the right to update this policy as these sites evolve and new sites are added. 
+
+**Third-Party Web Beacons:**
+
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
 
 **Visits to the Solid Cactus Inc. Web Sites**
 
@@ -47,9 +53,7 @@ Several areas of the Solid Cactus web sites are housed on a secure server. All i
 All questions or comments should be addressed to: 
 
 Solid Cactus Inc.  
-100 North Wilkes-Barre Blvd.  
-Wilkes-Barre PA 18702  
+106 S. Lehigh St.  
+Shavertown, PA 18708  
 [info@solidcactus.com](mailto:info@solidcactus.com)  
 888-361-9814
-
- _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, orderingsystem, and order data. Yahoo! automatically collects order information butmay only use this information in the aggregate. If you accessed this storethrough Yahoo! Shopping, Yahoo! also automatically collects informationabout your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for moreinformation about how Yahoo! uses this information._
