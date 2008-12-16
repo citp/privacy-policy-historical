@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techworld.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624180401id_/http%3A//www.techworld.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techworld.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160146id_/http%3A//www.techworld.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Techworld.com
 
@@ -34,7 +34,7 @@ At all times a recipient of a IDG product and/or service will have the opportuni
 
 If you submit your email address to sign up for our newsletter(s) on the website, then you can unsubscribe at any time by either contacting us directly or via the unsubscribe facility included in communications sent to you. 
 
-You have the right to be told what personal information we hold about you on our databases. You should write to Ms Alex Lincoln, IDG Communications Ltd, 99 Grays Inn Rd, London, WC1X 8TY, United Kingdom. In your letter you must state your full name, your address and all publications and/or services from IDG to which you know you subscribe. A small administration charge of £5.00 will be made for fulfilling this request. 
+You have the right to be told what personal information we hold about you on our databases. You should write to Ms Alex Lincoln, IDG Communications Ltd, 101 Euston Rd, London, NW1 2RA, United Kingdom. In your letter you must state your full name, your address and all publications and/or services from IDG to which you know you subscribe. A small administration charge of £5.00 will be made for fulfilling this request. 
 
 ##### Information about your use of the Website
 
@@ -88,11 +88,10 @@ If you have any comments or queries in connection with our privacy policy, pleas
 
 We can be contacted at:   
 IDG Communications Ltd  
-99 Grays Inn Rd  
+101 Euston Road  
 London  
-WC1X 8TY  
+NW1 2RA  
 United Kingdom
 
-**Phone:** +44 (0) 20 7071 3615  
-**Fax:** +44 (0) 20 7071 3658  
+**Phone:** +44 (0) 20 7756 2800  
 **Email:** [webmaster@techworld.com](mailto:webmaster@techworld.com)
