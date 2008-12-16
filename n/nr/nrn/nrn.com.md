@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrn.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609112544id_/http%3A//www.nrn.com/PrivacyPolicy.aspx%3FclearMenu%3Dtrue%26globalMenuTab%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrn.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216122035id_/http%3A//www.nrn.com/PrivacyPolicy.aspx%3FclearMenu%3Dtrue%26globalMenuTab%3D-1) for the most accurate reproduction.*
 
 # Nation's Restaurant News
 
@@ -62,6 +62,8 @@ If your children disclose information about themselves in our public discussion 
 This Privacy Policy may be modified from time to time; notice of changes will appear on this page, so check back often. Any such changes will be prospective, never retroactive.
 
 If you have concerns or questions about any aspect of this policy, please e-mail our Online Manager at [jpeche@nrn.com](mailto:jpeche@nrn.com?subject=Question-Privacy%20Policy). We welcome your feedback.
+
+* * *
 
 |   
 ---|---
