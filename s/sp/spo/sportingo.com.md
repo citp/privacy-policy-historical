@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the sportingo.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605030937id_/http%3A//sportingo.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154710id_/http%3A//www.sportingo.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # - Sportingo
 
 **Privacy Policy**
 
-Last updated: 7 September, 2006
+Last updated: 21 October, 2008
 
 This document contains information regarding our privacy policy and practice and is presented to help you feel comfortable using our website. It is provided for your benefit and describes how we collect and use information. Please take a moment to read the following statement in order to affirm you agree with our practices.  
 Sportingo reserves the right to modify this Privacy Policy at any time without the requirement of any notice to you. The last modification date will be indicated on the top of this Agreement. 
 
-By using the Sportingo Website ("Website") you permit the usage of your Personal Information and User Generated Content (as such terms are defined below) as outlined below in our Privacy Policy and in the [Terms of Use](http://www.sportingo.com/terms-of-use/1001,2).
+By using the Sportingo Website ("Website") you permit the usage of your Personal Information and User Generated Content (as such terms are defined below) as outlined below in our Privacy Policy and in the [Terms of Use](http://www.sportingo.com/termsofuse.aspx).
 
  **COLLECTION OF INFORMATION**
 
@@ -27,7 +27,7 @@ Please be further advised that certain browser-type related information such as,
 
 **USE OF USER GENERATED CONTENT**
 
-Please note that by using this Website you hereby grant Sportingo the licenses set forth in the [Terms of Use](http://www.sportingo.com/terms-of-use/1001,2) under the "Use of Website Content" section. For further information regarding how your User Generated Content may be used, please refer to our [Terms of Use](http://www.sportingo.com/terms-of-use/1001,2). 
+Please note that by using this Website you hereby grant Sportingo the licenses set forth in the [Terms of Use](http://www.sportingo.com/termsofuse.aspx) under the "Use of Website Content" section. For further information regarding how your User Generated Content may be used, please refer to our [Terms of Use](http://www.sportingo.com/termsofuse.aspx). 
 
 **CONTROLLING YOUR PERSONAL INFORMATION**
 
@@ -65,5 +65,5 @@ This privacy policy will be governed by and interpreted in accordance with the l
 
  **COPYRIGHT NOTICE**
 
-All rights reserved. © 2006  
+All rights reserved. © 2008  
 SportBuzz Limited
