@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpads.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621073757id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpads.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012112id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - HotPads.com
 
@@ -20,7 +20,7 @@ HotPads collects a variety of information in order to enhance the user experienc
 
   1. **User Provided Information:** You may provide information in connections with your use of the Services. You may provide information about available housing. You may also provide information about yourself and your company when creating accounts, listings, or profiles. This information can be managed by editing within your HotPads Account. We may combine this information with other information we collect from the Services or from other companies. 
   2. **Cookies:** Cookies are bits of electronic information that are transferred to a user's computer to identify a particular browser. HotPads uses Cookies to improve the user experience of the site by tracking user activity. Cookies cannot be used to read data off your computer and cannot be used to transfer personally identifiable information unless you have registered with us. You may adjust settings on you browser to refuse cookies. However, HotPads as well as other sites may not function as they ought to if you refuse cookies. 
-  3. **IP Address:** We log your IP address in order to help diagnose problems with servers, administer our site, and track usage statistics. Your IP address may very each time you visit the site or it could remain the same, either way it would be extremely difficult to identify you through your IP address and make no attempt to do so. 
+  3. **IP Address:** We log your IP address in order to help diagnose problems with servers, administer our site, and track usage statistics. Your IP address may vary each time you visit the site or it could remain the same, either way it would be extremely difficult to identify you through your IP address and we make no attempt to do so. 
 
 
 
@@ -55,6 +55,6 @@ The Services may include links to the Web sites of other companies and/or indivi
 
 ### Security
 
-We use commercially reasonable security to protect the loss, misuse, and alteration of the information under our control. However, we cannot guarantee the protection of information against interception, misappropriation, misuse, or alteration or that your information may b e not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. You should be aware that we have no control over the security of other sites on the Internet you might visit, interact with, or from which you buy products or services. 
+We use commercially reasonable security to protect the loss, misuse, and alteration of the information under our control. However, we cannot guarantee the protection of information against interception, misappropriation, misuse, or alteration or that your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. You should be aware that we have no control over the security of other sites on the Internet you might visit, interact with, or from which you buy products or services. 
 
 HotPads, Inc. 
