@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indulekha.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611141700id_/http%3A//indulekha.com/about/2005/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indulekha.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054033id_/http%3A//indulekha.com/about/2005/11/privacy-policy.html) for the most accurate reproduction.*
 
 # INDULEKHA» about us: PRIVACY POLICY
 
-Indulekha.com ("Indulekha" or the "Site") respects your right to privacy. Any personal information you provide on the Site will be known only to two parties: you and Indulekha, unless we state otherwise at the time the information is collected or in this Privacy Policy. Indulekha does not spam or sell/lease its user information to third parties.
+Indulekha Media Network and Indulekha.com ("Indulekha" or the "Site") respect your right to privacy. Any personal information you provide on the Site will be known only to two parties: you and Indulekha, unless we state otherwise at the time the information is collected or in this Privacy Policy. Indulekha does not spam or sell/lease its user information to third parties.
 
 This Privacy Policy covers Indulekha's treatment of personally identifiable information that Indulekha collects when you are on the Site, and when you use Indulekha's services. This policy also covers Indulekha's treatment of any personally identifiable information that Indulekha's business partners share with Indulekha. This policy does not apply to the practices of companies that Indulekha does not own or control, or to people that Indulekha does not employ or manage. This policy may change from time to time, so please check back periodically.
 
