@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendars.com privacy policy that was archived on 2008-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080427230405id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendars.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170910id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.*
 
 # Item Detail
 
@@ -28,6 +28,6 @@ If you forget your password, we will first verify your identity and then email y
   
 If at any time you would like to change any information in your account, just go to the My Account link in the upper right-hand corner of each page. Here you can change or update your email address and password, billing address, payment options, shipping options, address book, and email preferences. Be sure to click Save My Changes when you have updated your account.
 
-**To remove your name** from our special email bulletins, please click on the link located at the bottom of each promotional email.
+**To remove your name** from our special email bulletins, please click on the link located at the bottom of each promotional email or edit your email option in [your account](http://www.fuzeqna.com/calendars/consumer/kbdetail.asp?kbid=281).
 
 Our policy is intended to provide you with the safest and most secure shopping experience possible. Since the law, offerings and technologies change, we reserve the right to change, modify, add or remove portions of our privacy policy at any time without prior notice. If you have further questions, please feel free to contact our [Customer Service](http://www.fuzeqna.com/calendars/consumer/kbdetail.asp?kbid=167) team.
