@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516053411id_/http%3A//www.sas.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021708id_/http%3A//www.sas.com/Privacy.html) for the most accurate reproduction.*
 
 # SAS Institute Inc. | Privacy Statement
 
@@ -86,6 +86,8 @@ Links to third-party Web sites from this Web site are provided solely as a conve
 #### OUR WORLDWIDE PRACTICES
 
 SAS is a global corporation with subsidiaries and business partners in many countries, and with technical systems that cross borders. Personal information collected on our site may be transferred across state and country borders and stored or processed in the United States or any other country in which SAS, its subsidiaries, affiliates or business units maintain facilities for the purposes of data consolidation, storage, and simplified customer information management. By using this web site, you consent to any such transfer of information outside of your country of residence. SAS, our subsidiaries, affiliates and business units will handle your information collected on our site in a consistent manner, as described here, even if the laws in some countries may provide less protection for your information. Our privacy practices are designed to protect your personal information all over the world. 
+
+To ensure adequate protection for the personal information of employees and workers that SAS receives in the United States from the European Economic Area, SAS has certified to the US-EU Safe Harbor Principles. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Web site at <http://export.gov/safeharbor/>. 
 
 #### CHANGES TO THIS STATEMENT
 
