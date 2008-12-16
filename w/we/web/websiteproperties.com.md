@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteproperties.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608110824id_/http%3A//www.websiteproperties.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteproperties.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161008id_/http%3A//www.websiteproperties.com/privacy.asp) for the most accurate reproduction.*
 
 # Website Properties Inc., Website Business Brokers
 
@@ -10,4 +10,4 @@ We make every effort to ensure that doing business with us is as simple and unen
 
 In addition to the contractual protection of our client’s information, we have also used appropriate technical safeguards in the collection and delivery of the information stored on our website. All areas of our site that contain client confidential information are password protected. Data is stored in a password protected commercial database product and is encrypted and transmitted via Secure Socket Layer (SSL) technology.
 
-If you have any questions or concerns regarding the Privacy Policy in use on our website please direct you inquiries to [privacy@websiteproperties.com](mailto:privacy@websitepropertiesinc.com) 
+If you have any questions or concerns regarding the Privacy Policy in use on our website please direct you inquiries to   **private@websiteproperties.com**
