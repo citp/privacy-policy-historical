@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netbenefit.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604132045id_/http%3A//www.netbenefit.com/netbenefit/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netbenefit.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162915id_/http%3A//www.netbenefit.com/netbenefit/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | NetBenefit
 
@@ -98,4 +98,4 @@ c) in the context of a sale or merger of all or part of our business.
 
 
 
-[](https://web.archive.org/netbenefit/Get+a+Quote)
+[ ](https://web.archive.org/netbenefit/Get+a+Quote)
