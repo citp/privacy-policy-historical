@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiaa.org privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526221551id_/http%3A//www.tiaa-cref.org/about/inside/topics/index.html%3Ftc_lnk%3Dbottomutlity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiaa.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152206id_/http%3A//www.tiaa-cref.org/about/inside/topics/index.html%3Ftc_lnk%3Dbottomutlity) for the most accurate reproduction.*
 
 # TIAA-CREF - TIAA-CREF Online Privacy Policy
 
@@ -103,7 +103,7 @@ TIAA-CREF periodically reviews its policies. We reserve the right to amend them.
 
 To change information such as your name, address, retirement start date, telephone number, email address, or other personal information, please call our National Contact Center at 1 800 842-2776 Monday through Friday from 8:00 a.m. to 10:00 p.m., and on Saturday from 9:00a.m. to 6:00 p.m., E.T.
 
-You may also change your personal information by [logging onto your TIAA-CREF account page](https://web.archive.org/web/20080526221551id_/http%3A//www.tiaa-cref.org/go/login/index.html) and submitting your changes. Your new information will be effective immediately. If you want to change your address on fewer than all contracts, or to enter a foreign address, you will need to select "click here" located under the e-mail section of the page.
+You may also change your personal information by [logging onto your TIAA-CREF account page](https://web.archive.org/web/20081216152206id_/http%3A//www.tiaa-cref.org/go/login/index.html) and submitting your changes. Your new information will be effective immediately. If you want to change your address on fewer than all contracts, or to enter a foreign address, you will need to select "click here" located under the e-mail section of the page.
 
 Note that certain changes cannot be processed over the phone. Address changes for payout contracts must be mailed. Also, to change your or your spouse's name on a contract, you must send us a letter with the following information:
 
@@ -130,7 +130,7 @@ As described in this notice, the "TIAA-CREF companies" include but are not limit
 
   * Teachers Insurance and Annuity Association of America (TIAA) and TIAA-CREF Life Insurance Company are insurance companies. They provide products such as life insurance and annuities. 
   * College Retirement Equities Fund (CREF) is an investment company that is the companion organization to TIAA. CREF provides retirement annuities. 
-  * TIAA-CREF Mutual Funds and TIAA-CREF Institutional Mutual Funds are investment companies. 
+  * TIAA-CREF Mutual Funds and TIAA-CREF Funds are investment companies. 
   * Teachers Advisors, Inc., is an investment advisor. It provides services for our mutual funds and personal annuities. 
   * TIAA-CREF Investment Management, LLC, is the investment advisor to CREF. 
   * Teachers Personal Investors Services, Inc. (TPIS), is the principal underwriter for TIAA-CREF Mutual Funds, Institutional Mutual Funds, Life Funds, and interest in tuition savings products. 
