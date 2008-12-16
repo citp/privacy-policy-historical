@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ononesoftware.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611092547id_/http%3A//www.ononesoftware.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ononesoftware.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216105352id_/http%3A//www.ononesoftware.com/privacy.php) for the most accurate reproduction.*
 
-# onOne Software - Privcay Policy
+# onOne Software - Privacy Policy
 
 ### Your Information
 
@@ -8,7 +8,7 @@ onOne Software's privacy policy covers the collection and use of personal inform
 
 We collect your personal information because it assists us in delivering a high level of customer service. For example, your personal information helps us to keep you informed and up-to-date on the latest product updates and announcements as well as special offers that may be extended from time to time.
 
-When you provide onOne Software with your name, email address, mailing address or telephone number, and you do not "opt-out", onOne Software and onOne Software representatives and authorized affiliates my use the provided information to alert you to product updates, special offers, updated information, new products and other onOne Software information. Other than onOne Software representatives and authorized affiliates (such as value-added resellers), onOne Software does not offer, sell, or otherwise make available any user-provided information to third parties.
+When you provide onOne Software with your name, email address, mailing address or telephone number, and you do not "opt-out", onOne Software and onOne Software representatives and authorized affiliates may use the provided information to alert you to product updates, special offers, updated information, new products and other onOne Software information. Other than onOne Software representatives and authorized affiliates (such as value-added resellers), onOne Software does not offer, sell, or otherwise make available any user-provided information to third parties.
 
 onOne Software will send notifications regarding product updates and technical support notices. These messages are deemed essential to the functionality of your product and as such, there is no "opt-out" available for update notifications.
 
