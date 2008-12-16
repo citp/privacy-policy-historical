@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademe.co.nz privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212015743id_/http%3A//www.trademe.co.nz/Help/Topic.aspx%3Fhelp_id%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademe.co.nz privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031743id_/http%3A//www.trademe.co.nz/Help/Topic.aspx%3Fhelp_id%3D145) for the most accurate reproduction.*
 
 # TradeMe - New Zealand Online Auctions and Classifieds
 
@@ -7,10 +7,12 @@ Trade Me has created this privacy statement in order to demonstrate our firm com
 **Use of your information**  
 Trade Me **does not** sell or rent your personal information to third parties. 
 
-We release account and other personal information only when we believe release is appropriate to comply with law; facilitate court proceedings; enforce or apply our terms and conditions; or protect the rights, property, or safety of Trade Me Limited, our users, or others. 
+We release account and other personal information only when we believe release is appropriate for legal compliance and law enforcement (including to government agencies with statutory law enforcement responsibilities); to facilitate court proceedings; enforce or apply our terms and conditions; or protect the rights, property, or safety of Trade Me Limited, our users, or others. Government agencies with statutory roles enabling them to request data from us includes but is not restricted to Police, IRD and the Ministry Of Economic Development. Members can contact Trade Me to ask whether such information has been provided. 
+
+If you wish to take Dispute Tribunal proceedings against another member, you can contact Trade Me or the Disputes Tribunal for a statutory declaration, requesting contact details for the sole purpose of making a claim. 
 
 **Email**  
-It is the policy of Trade Me to send our members email throughout the auction process and other email they elect to receive, in addition to customary business communications (payment confirmations, etc.). Further, it is our policy to immediately remove any member from any mailing list upon the member's request. In addition, Trade Me will send a monthly newsletter to members. Newsletters will contain clear and obvious instructions for how the member can remove himself or herself from that mailing list. 
+It is the policy of Trade Me to send our members email throughout the auction process and other email they elect to receive, in addition to customary business communications (payment confirmations, etc.). Further, it is our policy to immediately remove any member from any mailing list upon the member's request. In addition, Trade Me will send newsletters and other communications to members. Newsletters will contain clear and obvious instructions for how the member can remove himself or herself from that mailing list. 
 
 We do use email as a means of receiving feedback from our members, and we encourage you to [email us](https://web.archive.org/Help/ContactUs.aspx) with your questions or comments. 
 
@@ -35,7 +37,7 @@ You are responsible for all actions taken with your user name, email address and
 **Credit Card Security**  
 We work diligently to protect the security of your personal information, including credit card information. 
 
-We protect your credit card information during transmission by using the Secure Sockets Layer (SSL) protocol, which encrypts your information when transmitted over the Internet. Your credit card details are not held by Trade Me and cannot be accessed by Trade Me staff. However they may be held by either Direct Payment Solutions (DPS) ([review their Privacy Policy](https://web.archive.org/Partners/DPS/dps_privacy_policy.pdf)) or Paystation ([ review their Privacy Policy](http://www.paystation.co.nz/cms_display.php?sn=17&st=1)) depending on which provider processes the transaction. 
+We protect your credit card information during transmission by using the Secure Sockets Layer (SSL) protocol, which encrypts your information when transmitted over the Internet. Trade Me retains only partial card details. However they may be held by either Direct Payment Solutions (DPS) ([review their Privacy Policy](https://web.archive.org/Partners/DPS/dps_privacy_policy.pdf)) or Paystation ([ review their Privacy Policy](http://www.paystation.co.nz/cms_display.php?sn=17&st=1)) depending on which provider processes the transaction. 
 
 When topping up your Trade Me account by credit card, you may have the option to "save this card for next time". If you choose this option, your credit card details are encrypted and securely stored by DPS. 
 
@@ -51,17 +53,19 @@ Trade Me mostly uses "session" cookies, which are removed from your computer onc
 
 Trade Me also uses persistent cookies to personalise the user experience, to help protect our members and to provide us with research information (such as how often members visit Trade Me each month). Persistent cookies allow us to track users on Trade Me and helps us identify users abusing the Trade Me service. 
 
-**Other information we collect**  
-We use additional information to do internal research on our users' demographics, interests, and behavior to better understand and serve you and our community. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address. 
+Trade Me participates in Google's AdWords pay-per-click advertising programme. AdWords advertisements appear on Google's search result pages and on the Google Network. Google uses cookies to measure the number of Google users that click on an advertisement and visit certain Trade Me web pages, or who complete certain actions on the Website (such as adding an item to their Watchlist). Google provides this data to Trade Me without identifying the users. [View Google's privacy policy](http://www.google.com/privacypolicy.html). 
 
-Users who login have their IP addresses recorded. This information can be used to track users who abuse the Trade Me system and will be only be provided to legal authorities in cases of suspected fraud. IP addresses can be used, in conjunction with an Internet Service Provider, to find the dial-in account of a user and, ultimately, further information to identify a user. This information is stored securely and will not be provided to other members or non-authorised parties. 
+**Other information we collect**  
+We use additional information to do internal research on our users' demographics, interests, and behaviour to better understand and serve you and our community. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address. 
+
+Users who login have their IP addresses recorded. This information will only be provided to legal authorities in cases of suspected fraud or for law enforcement purposes. This information is stored securely and will not be provided to other members or non-authorised parties. 
 
 If you choose to post messages in our message areas or leave feedback for other users, we will collect that information you provide to us. 
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you. 
 
 **Membership Removal**  
-If you wish to have your registration removed from our directory for any reason, simply send us an email requesting to be removed. 
+If you wish to have your registration removed from our directory for any reason, you may send us an email requesting this. 
 
 **Advertising and Third Party Links**  
 Some Trade Me advertisers may request information directly from users, or link to sites that do so. Trade Me has no control over its advertisers' privacy policies, and encourages users to review such policies prior to submitting any personal information to them. 
