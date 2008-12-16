@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metatube.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513062626id_/http%3A//www.metatube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metatube.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171228id_/http%3A//www.metatube.com/privacy.html) for the most accurate reproduction.*
 
 # Online Video Sharing, Share Your Videos, Online Community - MetaTube
 
