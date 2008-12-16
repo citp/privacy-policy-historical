@@ -1,39 +1,44 @@
-> *The following text is extracted and transformed from the opensourcecms.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D313%26Itemid%3D73) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensourcecms.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D313%26Itemid%3D73) for the most accurate reproduction.*
 
 # Privacy Policy - OpenSourceCMS
 
 |  Demo Refresh   
 ---  
-Count Down: 01:53:56   
+Count Down: 01:26:26   
   
 Main Menu   
 ---  
-| [Home](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_frontpage&Itemid=1)  
+| [Home](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_frontpage&Itemid=1)  
 ---  
-[News and More!](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_content&task=view&id=314&Itemid=75)  
+[News and More!](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=314&Itemid=75)  
+[Free Magazines & Tech Papers](http://opensourcecms.tradepub.com/)  
+[Free Webcasts & Videos](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_wrapper&Itemid=202)  
   
   
-[Hosting Providers](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_content&task=view&id=2172&Itemid=176)  
-[Commercial CMSs](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_content&task=view&id=2173&Itemid=177)  
-[Coders / Themes / Consultants](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_content&task=view&id=2174&Itemid=178)  
+[Hosting Providers](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2172&Itemid=176)  
+[Commercial CMSs](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2173&Itemid=177)  
+[Coders / Themes / Consultants](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2174&Itemid=178)  
   
   
-[Advertising Info](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_content&task=view&id=312&Itemid=170)  
+[Advertising Info](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=312&Itemid=170)  
 CMS Demo Menu   
 ---  
   
-Open All | Close All   
+Open All | Close All  
   
 Latest News  
 ---  
   
-  * [ DrupalEd ](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_content&task=view&id=2252&Itemid=1)
-  * [ 1024 ](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_content&task=view&id=2251&Itemid=1)
-  * [ Everything You Need To Know To Get Started With Content Management Systems ](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_content&task=view&id=2250&Itemid=132)
-  * [ Automatically Upgrade Your Wordpress ](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_content&task=view&id=2249&Itemid=1)
-  * [ Keeping Drupal Updated Without Losing Customizations. ](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_content&task=view&id=2248&Itemid=132)
+  * [ ocPortal ](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2361&Itemid=1)
+  * [ TangoCMS ](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2360&Itemid=1)
+  * [ phpBMS ](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2359&Itemid=1)
+  * [ OpenGoo ](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2358&Itemid=1)
+  * [ Zimplit ](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2357&Itemid=1)
 
   
+Acquia   
+---  
+[](http://www.opensourcecms.com/adserver/adclick.php?n=a04697d8)  
 Login Form   
 ---  
 |  Username   
@@ -43,34 +48,34 @@ Password
 Remember me   
   
 ---  
-[ Password Reminder ](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_registration&task=lostPassword)  
-No account yet? [ Create one ](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_registration&task=register)  
+[ Password Reminder ](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_registration&task=lostPassword)  
+No account yet? [ Create one ](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_registration&task=register)  
 Donate   
 ---  
 Support opensourceCMS in making a small donation:  
   
 Who's Online   
 ---  
-We have 810 guests online and 3 members online   
+We have 505 guests online and 1 member online   
   
 Syndicate   
 ---  
   
-[ ](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_rss&feed=RSS0.91&no_html=1)
+[ ](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_rss&feed=RSS0.91&no_html=1)
 
-[ ](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_rss&feed=RSS1.0&no_html=1)
+[ ](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_rss&feed=RSS1.0&no_html=1)
 
-[ ](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_rss&feed=RSS2.0&no_html=1)
+[ ](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_rss&feed=RSS2.0&no_html=1)
 
-[ ](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_rss&feed=ATOM1.0&no_html=1)
+[ ](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_rss&feed=ATOM1.0&no_html=1)
 
-[ ](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_rss&feed=OPML&no_html=1)  
+[ ](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_rss&feed=OPML&no_html=1)  
   
-[Home](https://web.archive.org/web/20071012190558id_/http%3A//www.opensourcecms.com/index.php?option=com_frontpage&Itemid=1)  Privacy Policy
+[Home](https://web.archive.org/web/20081216023338id_/http%3A//opensourcecms.com/index.php?option=com_frontpage&Itemid=1)  Privacy Policy
 
 |  Privacy Policy  |  |   
 ---|---|---  
-User Rating: / 12   
+User Rating: / 28   
 PoorBest 
 
 ### Privacy Policy
@@ -115,12 +120,12 @@ If you have any questions about this Policy or our web site, please contact us a
 
 Back 
 
-|  OpenSourceHost   
+|  TMD Hosting   
 ---  
   
 
 
-[](http://opensourcecms.com/adserver/adclick.php?n=a473c4f0)  
+[](http://affiliates.tmdhosting.com/?s=opensourcecms)  
   
 Packt Publishing  
 ---  
@@ -130,18 +135,38 @@ Packt Publishing
 
   
   
-Your Ad Here   
+Bitrix Site Manager   
 ---  
   
+[](http://www.bitrixsoft.com/sitemanager/modules/social_network.php?r1=oscms&r2=social_network)  
   
+Gold Sponsors   
+---  
   
-Supporters   
+[Cheap Web Hosting](http://www.maiahost.com/ "Cheap Web Hosting")  
+[Unlimited Domain Hosting](http://www.allreseller.com/ "Unlimited Domain Hosting")  
+[OpenSourceHost](http://www.opensourcehost.com/ "open source web hosting")  
+  
+Silver Sponsors   
 ---  
   
 [Web Hosting](http://www.siteground.com/)  
-[Email Hosting](http://www.swishmail.com/ "Email Hosting")  
 [UK Web Hosting](http://www.eukhost.com/ "eUKhost.com")  
-[Domain Web Hosting](http://www.afrihost.com/ "Domain Web Hosting")  
+[Web Hosting UK](http://www.ukhost4u.com/ "Web Hosting UK")  
+[Web Hosting Canada](http://www.canadianwebhosting.com/ "Web Hosting Canada")  
+[Reseller Hosting](http://www.lightningservers.net/ "Reseller Hosting")  
+  
+Bronze Sponsors   
+---  
+  
+[Web Hosting ADSL](http://www.webafrica.co.za/ "Web Hosting ADSL")  
+[TYPO3 web design](http://www.modulis.ca/en/ "TYPO3 web design")  
+[PHP web hosting](http://www.wesh.co.uk/ "PHP web hosting")  
+[Cpanel Web Hosting](http://www.600host.net/ "Cpanel Web Hosting")  
+[Website Hosting](http://www.pickaweb.co.uk/ "Website Hosting")  
+[CMS Web Hosting](http://www.hostcolor.com/webhosting/cmshosting "CMS Web Hosting")  
+[Dedicated Hosting](http://www.storminternet.co.uk/ "Dedicated Hosting")  
+[eZ Publish hosting](http://nicedayhosting.net/ "eZ Publish hosting")  
   
 Sponsored Links   
 ---  
