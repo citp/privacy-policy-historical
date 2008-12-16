@@ -1,7 +1,68 @@
-> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021015924id_/http%3A//www.starbucksstore.com/products/shourplg.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020107id_/http%3A//www.starbucksstore.com/products/shourplg.asp) for the most accurate reproduction.*
 
 # Prvacy Policy - StarbucksStore.com
 
+  
+  
+  
+|    
+|   
+---  
+|  **Featured Items**  
+>  [Starbucks Gift Ideas](http://www.starbucksstore.com/products/shprodli.asp?Keywords=Gift)  
+>  [Holiday/Seasonal](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&MaterialNo=8102)  
+>  [Kona Coffee](http://www.starbucksstore.com/products/shprodli.asp?Keywords=Starbucks+Kona+Coffees)  
+>  [Syrups](http://www.starbucksstore.com/products/shprodli.asp?Keywords=Syrup) **Starbucks Card**  
+>  [Purchase](http://www.starbucksstore.com/products/starbuckscard.asp)  
+>  [Reload](http://www.starbucksstore.com/shopping/sc_reload.asp) **Subscription**  
+>  [Create](http://www.starbucksstore.com/StarbucksAtHome/shprodreorder.asp?cr=jna)  
+>  [Modify](http://www.starbucksstore.com/athome/) **Equipment**  
+>  [Brewing Equipment](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0036)  
+>  [Serveware](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0035) **Starbucks Coffees**  
+>  [Starbucks® Coffees](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&StyleNo=8101)  
+>  [Starbucks® Decaf](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&StyleNo=8102)  
+    [Coffees](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&StyleNo=8102)
+
+>  
+
+[All Starbucks Coffees](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100)  
+>  [Mild](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ShapeNo=1788)  
+>  [Medium](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ShapeNo=0002)  
+>  [Bold](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ShapeNo=1787)  
+>  [Extra Bold](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ShapeNo=0001)
+
+>  
+
+[Ground](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ColorNo=8102)  
+>  [Whole Bean](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ColorNo=8101)  
+>  [Pods](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ColorNo=8103)  
+>  [Filter Packs](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ColorNo=0411)  
+>  [Portion Packs](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ColorNo=1014) **Tazo Teas**  
+>  [Black Teas](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0027&SubClassNo=0174)  
+>  [Green Teas](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0027&SubClassNo=0176)  
+>  [White Teas](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0027&SubClassNo=0973)  
+>  [Herbal Infusions](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0027&SubClassNo=0178)  
+>  [Assorted](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0027&SubClassNo=0184)
+
+>  
+
+[All Tazo Teas](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0027)  
+>  [Caffeinated](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0027&StyleNo=0663)  
+>  [Decaffeinated](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0027&StyleNo=0664)  
+>  [Caffeine Free](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0027&StyleNo=0728) |   
+|  |   
+|   
+**About StarbucksStore**  
+>  [Newsletters](http://www.starbucksstore.com/extras/newsletters.asp)  
+>  [Shipping](http://www.starbucksstore.com/guestassist/ga_faq_shipop.asp) |   
+  
+  
+  
+  
+| 
+
+|  |  |   
+---|---|---  
 | 
 
 Our Pledge  
@@ -27,7 +88,6 @@ Cooking.com respects your privacy. Our Internet site, [StarbucksStore.com](https
   
 
   * **make lists of our customers' names and postal addresses (but not e-mail addresses or phone numbers) available** to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you.
-  * **automatically send you emails to collect feedback related to your purchases.**
 
 **b. Your Subsequent Use of the Shopping Cart at StarbucksStore.com** \- If you entered personal information into the Shopping Cart at StarbucksStore.com before, unless you edit your subscription profile, your subscription status will remain unchanged.
 
@@ -39,7 +99,6 @@ Whether you are using the Shopping Cart for the first time or not, if you later 
   *  **When you create a My Account** , we collect your name, address, telephone number and e-mail address. You can use your My Account to update your account information, save addresses where you have sent products and track orders. We also use the information you provide to:
     * **automatically place you on our e-mail lists** to receive special offers and updates about products and services; and
     *  **automatically place you on our direct mail/ catalog list** to receive from us direct mail and printed catalogs with special offers and updates about products and services.
-  * **When you enter a sweepstakes** sponsored by Cooking.com through StarbucksStore.com, we may ask for any or all of the following information: your name, postal address, e-mail address and telephone number. Check the official rules or the actual sweepstakes for what information is requested and may be shared for any individual sweepstakes. Unless the official rules for a particular sweepstakes provide otherwise, when you provide your e-mail address you will be signed up to receive StarbucksStore.com e-mail newsletters and, if you provide us with your postal address, you will be added to our direct mail/catalog list. You can unsubscribe from the e-mail newsletters and/or direct mail/catalog list at any time by following the instructions in the section below "Reviewing, Changing Your Information or Unsubscribing."
 
 If you want to be removed from a list, simply follow the instructions in the section "Reviewing, Changing Your Information or Unsubscribing" below.
 
@@ -59,13 +118,13 @@ At any time you can unsubscribe, correct or update your information or modify yo
   * **To review, change or update information, as it pertains to our newsletters, you have several options:**
     * **On the StarbucksStore.com Site.** Click on the "Help" button at the top of the home page then on the appropriate link under the "subscriptions" to change your information.
     *  **By e-mail.** Send an email request to Customer Service.
-    *  **By postal mail.** Please include your email address and mail your request to us at 2850 Ocean Park Blvd. Suite 310, Santa Monica, CA 90405: Attention: Customer Service.
+    *  **By postal mail.** Please include your email address and mail your request to us at 4086 Del Rey Avenue, Marina Del Rey, CA 90292: Attention: Customer Service.
     *  **By phone.** Call toll-free at (800) 571-7289 in the USA and Canada.  
-(310) 664-3222 outside USA and Canada.
+(310) 664-1299 outside USA and Canada.
   * **To review, change or update information as it pertains to our catalog or the sharing of your name and postal address with third parties who offer a product or service we think may be of interest to you, you have several options:**
     * **On the StarbucksStore.com Site.** Click on the "Help" button at thetop of the home page then on the appropriate link under the "subscriptions" to change your information.
     *  **By e-mail.** Send an email request to Customer Service.
-    *  **By postal mail.** Please follow [these instructions](https://web.archive.org/extras/mail_printout.htm) and mail your request to us at 2850 Ocean Park Blvd. Suite 310, Santa Monica, CA 90405: Attention: Customer Service.
+    *  **By postal mail.** Please follow [these instructions](https://web.archive.org/extras/mail_printout.htm) and mail your request to us at 4086 Del Rey Avenue, Marina Del Rey, CA 90292: Attention: Customer Service.
     *  **By phone.** Call toll-free at (800) 571-7289 in the USA and Canada.  
 (310) 664-3222 outside USA and Canada.
 
@@ -91,4 +150,11 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 Cooking.com’s Privacy Policy for StarbucksStore.com is subject to change without notice. At any time, you may visit our website to view the current policy. 
 
-| 
+|   
+|   
+  
+  
+  
+  
+  
+
