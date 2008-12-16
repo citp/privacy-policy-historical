@@ -1,13 +1,179 @@
-<!--The following is the downloaded HTML source of the intellimon.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211195124id_/http%3A//xsitepro.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intellimon.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216154546id_/http%3A//www.xsitepro.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>XSitePro - Web Site Design Software for Internet Marketers - Privacy</title>
-<meta name="Keywords" content="html editor, web site design, web page design, internet marketing, internet entrepreneur, web design software">
-<link type="text/css" rel="stylesheet" href="xsitepro.css">
-<meta name="Author" content="Paul Smithson">
-<meta name="Copyright" content="2006">
+<title>XSitePro 2-Privacy</title>
+<link type="text/css" rel="stylesheet" href="xsp_styles.css">
+<style>
+.opaque {
+   -moz-opacity: .8;
+} 
+</style>
+<script type="text/javascript">
+      
+/***********************************************
+* Ultimate Fade-In Slideshow (v1.51): © Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+ 
+var fadeimages=new Array()
+//SET IMAGE PATHS. Extend or contract array as needed
+fadeimages[0]=["images/quote01.jpg", "testimonials.html", ""] //plain image syntax
+fadeimages[1]=["images/quote02.jpg", "testimonials.html", ""] //plain image syntax
+fadeimages[2]=["images/quote03.jpg", "testimonials.html", ""] //plain image syntax
+fadeimages[3]=["images/quote04.jpg", "testimonials.html", ""] //plain image syntax
+fadeimages[4]=["images/quote05.jpg", "testimonials.html", ""] //plain image syntax
+fadeimages[5]=["images/quote06.jpg", "testimonials.html", ""] //plain image syntax
+fadeimages[6]=["images/quote07.jpg", "testimonials.html", ""] //plain image syntax
+  
+var fadebgcolor="transparent"
+
+////NO need to edit beyond here/////////////
+ 
+var fadearray=new Array() //array to cache fadeshow instances
+var fadeclear=new Array() //array to cache corresponding clearinterval pointers
+ 
+var dom=(document.getElementById) //modern dom browsers
+var iebrowser=document.all
+ 
+function fadeshow(theimages, fadewidth, fadeheight, borderwidth, delay, pause, displayorder){
+this.pausecheck=pause
+this.mouseovercheck=0
+this.delay=delay
+this.degree=10 //initial opacity degree (10%)
+this.curimageindex=0
+this.nextimageindex=1
+fadearray[fadearray.length]=this
+this.slideshowid=fadearray.length-1
+this.canvasbase="canvas"+this.slideshowid
+this.curcanvas=this.canvasbase+"_0"
+if (typeof displayorder!="undefined")
+theimages.sort(function() {return 0.5 - Math.random();}) //thanks to Mike (aka Mwinter) :)
+this.theimages=theimages
+this.imageborder=parseInt(borderwidth)
+this.postimages=new Array() //preload images
+for (p=0;p<theimages.length;p++){
+this.postimages[p]=new Image()
+this.postimages[p].src=theimages[p][0]
+}
+ 
+var fadewidth=fadewidth+this.imageborder*2
+var fadeheight=fadeheight+this.imageborder*2
+ 
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers (ie: Firefox)
+document.write('<div id="master'+this.slideshowid+'" style="position:relative;width:'+fadewidth+'px;height:'+fadeheight+'px;overflow:hidden;"><div id="'+this.canvasbase+'_0" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div><div id="'+this.canvasbase+'_1" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div></div>')
+else
+document.write('<div><img name="defaultslide'+this.slideshowid+'" src="'+this.postimages[0].src+'"></div>')
+ 
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers such as Firefox
+this.startit()
+else{
+this.curimageindex++
+setInterval("fadearray["+this.slideshowid+"].rotateimage()", this.delay)
+}
+}
+
+function fadepic(obj){
+if (obj.degree<100){
+obj.degree+=10
+if (obj.tempobj.filters&&obj.tempobj.filters[0]){
+if (typeof obj.tempobj.filters[0].opacity=="number") //if IE6+
+obj.tempobj.filters[0].opacity=obj.degree
+else //else if IE5.5-
+obj.tempobj.style.filter="alpha(opacity="+obj.degree+")"
+}
+else if (obj.tempobj.style.MozOpacity)
+obj.tempobj.style.MozOpacity=obj.degree/101
+else if (obj.tempobj.style.KhtmlOpacity)
+obj.tempobj.style.KhtmlOpacity=obj.degree/100
+else if (obj.tempobj.style.opacity&&!obj.tempobj.filters)
+obj.tempobj.style.opacity=obj.degree/101
+}
+else{
+clearInterval(fadeclear[obj.slideshowid])
+obj.nextcanvas=(obj.curcanvas==obj.canvasbase+"_0")? obj.canvasbase+"_0" : obj.canvasbase+"_1"
+obj.tempobj=iebrowser? iebrowser[obj.nextcanvas] : document.getElementById(obj.nextcanvas)
+obj.populateslide(obj.tempobj, obj.nextimageindex)
+obj.nextimageindex=(obj.nextimageindex<obj.postimages.length-1)? obj.nextimageindex+1 : 0
+setTimeout("fadearray["+obj.slideshowid+"].rotateimage()", obj.delay)
+}
+}
+ 
+fadeshow.prototype.populateslide=function(picobj, picindex){
+var slideHTML=""
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML='<a href="'+this.theimages[picindex][1]+'" target="'+this.theimages[picindex][2]+'">'
+slideHTML+='<img src="'+this.postimages[picindex].src+'" border="'+this.imageborder+'px">'
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML+='</a>'
+picobj.innerHTML=slideHTML
+}
+ 
+ 
+fadeshow.prototype.rotateimage=function(){
+if (this.pausecheck==1) //if pause onMouseover enabled, cache object
+var cacheobj=this
+if (this.mouseovercheck==1)
+setTimeout(function(){cacheobj.rotateimage()}, 100)
+else if (iebrowser&&dom||dom){
+this.resetit()
+var crossobj=this.tempobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+crossobj.style.zIndex++
+fadeclear[this.slideshowid]=setInterval("fadepic(fadearray["+this.slideshowid+"])",50)
+this.curcanvas=(this.curcanvas==this.canvasbase+"_0")? this.canvasbase+"_1" : this.canvasbase+"_0"
+}
+else{
+var ns4imgobj=document.images['defaultslide'+this.slideshowid]
+ns4imgobj.src=this.postimages[this.curimageindex].src
+}
+this.curimageindex=(this.curimageindex<this.postimages.length-1)? this.curimageindex+1 : 0
+}
+ 
+fadeshow.prototype.resetit=function(){
+this.degree=10
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+if (crossobj.filters&&crossobj.filters[0]){
+if (typeof crossobj.filters[0].opacity=="number") //if IE6+
+crossobj.filters(0).opacity=this.degree
+else //else if IE5.5-
+crossobj.style.filter="alpha(opacity="+this.degree+")"
+}
+else if (crossobj.style.MozOpacity)
+crossobj.style.MozOpacity=this.degree/101
+else if (crossobj.style.KhtmlOpacity)
+crossobj.style.KhtmlOpacity=this.degree/100
+else if (crossobj.style.opacity&&!crossobj.filters)
+crossobj.style.opacity=this.degree/101
+}
+ 
+ 
+fadeshow.prototype.startit=function(){
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+this.populateslide(crossobj, this.curimageindex)
+if (this.pausecheck==1){ //IF SLIDESHOW SHOULD PAUSE ONMOUSEOVER
+var cacheobj=this
+var crossobjcontainer=iebrowser? iebrowser["master"+this.slideshowid] : document.getElementById("master"+this.slideshowid)
+crossobjcontainer.onmouseover=function(){cacheobj.mouseovercheck=1}
+crossobjcontainer.onmouseout=function(){cacheobj.mouseovercheck=0}
+}
+this.rotateimage()
+}
+
+</script>
+<script language="javascript" type="text/javascript">
+<!--
+var win=null;
+function NewWindow(mypage,myname,w,h,scroll,pos){
+if(pos=="random"){LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;}
+if(pos=="center"){LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:100;}
+else if((pos!="center" && pos!="random") || pos==null){LeftPosition=0;TopPosition=20}
+settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no';
+win=window.open(mypage,myname,settings);}
+// -->
+</script>
+
 <!-- www.hitslink.com/ web tools statistics hit counter code -->
 <script type="text/javascript" id="wa_u" src="https://counter.hitslink.com/track.js"></script>
 <script type="text/javascript">//<![CDATA[
@@ -29,216 +195,609 @@ wa_img=new Image();wa_img.src=wa_hp+'://counter.hitslink.com/statistics.asp'+
 document.getElementById('wa_u').src=wa_hp+'://counter.hitslink.com/track.js'; //]]>
 </script>
 <!-- End www.hitslink.com/ statistics web tools hit counter code -->
+<link type="text/css" rel="stylesheet" href="LEFT_MENU.css">
+<script type="text/javascript" src="milonic_src.js"></script>
+<script type="text/javascript" src="mmenudom.js"></script><script>function $9(ap){return 0}</script>
+
 
 </head>
 <body>
 
 <table class="XSP_OUTLINE" align="center" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<td colspan="2" class="XSP_HEADER_PANEL"><img height="271" src="Header.gif" width="800" usemap="#Map1" border="0"><map name="Map1"><area shape="RECT" coords="679,29,763,56" href="contact.html"><area shape="RECT" coords="578,33,664,56" href="purchase.html"><area shape="RECT" coords="630,255,712,270" href="testimonials.html"><area shape="RECT" coords="563,255,606,270" href="faq.html"><area shape="RECT" coords="732,256,785,270" href="purchase.html"><area shape="RECT" coords="488,256,538,270" href="index.html"></map></td>
+<td colspan="3" class="XSP_HEADER_PANEL"><table style="WIDTH: 440px; HEIGHT: 248px" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+        <tr>
+            <td style="PADDING-LEFT: 70px; PADDING-TOP: 75px" valign="top" align="left"><script type="text/javascript">
+//new fadeshow(IMAGES_ARRAY_NAME, slideshow_width, slideshow_height, borderwidth, delay, pause (0=no, 1=yes), optionalRandomOrder)
+new fadeshow(fadeimages, 264, 109, 0, 7000, 1, "R")
+ 
+</script><div id="master0" style="position:relative;width:264px;height:109px;overflow:hidden;"><div id="canvas0_0" style="position: absolute; width: 264px; height: 109px; top: 0px; left: 0px; opacity: 0.990099; background-color: transparent; z-index: 1;"><a href="testimonials.html" target=""><img src="https://web.archive.org/web/20081216154546id_/http%3A//www.xsitepro.com/images/quote03.jpg" border="0px"></a></div><div id="canvas0_1" style="position:absolute;width:264px;height:109px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:transparent"><a href="testimonials.html" target=""><img src="https://web.archive.org/web/20081216154546id_/http%3A//www.xsitepro.com/images/quote04.jpg" border="0px"></a></div></div></td>
+        </tr>
+    </tbody>
+</table></td>
 </tr>
 <tr>
-<td class="XSP_LEFT_PANEL_SPC" id="XSP_LEFT_PANEL_SPC"><div class="XSP_LEFT_PANEL"><p><table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td valign="top" height="10" colspan="2"></td></tr><tr><td valign="top" colspan="2"><font style="font-family:Verdana; font-size:10pt; color:Black"><b>Main</b></font>
-
-</td></tr>
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="./">Home</a>
-
-</td></tr>
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="features.html">Features</a>
-
-</td></tr>
-
-
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="faq.html">FAQ</a>
-
-</td></tr>
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="testimonials.html">Testimonials</a>
-
-</td></tr>
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="screenshots.html">Screenshots</a>
-
-</td></tr>
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="system_requirements.html">System Requirements</a>
-
-</td></tr>
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="7_reasons_video.html">7 Reasons Video</a>
-
-</td></tr>
-<tr><td valign="top" height="10" colspan="2"></td></tr><tr><td valign="top" colspan="2"><font style="font-family:Verdana; font-size:10pt; color:Black"><b>Purchase</b></font>
-
-</td></tr>
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="purchase.html">Buy Online</a>
-
-</td></tr>
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="pricing.html">Pricing</a>
-
-</td></tr>
-<tr><td valign="top" height="10" colspan="2"></td></tr><tr><td valign="top" colspan="2"><font style="font-family:Verdana; font-size:10pt; color:Black"><b>Resources</b></font>
-
-</td></tr>
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="knowledgebase.html">Knowledgebase</a>
-
-</td></tr>
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="support.html">Support</a>
-
-</td></tr>
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="forum.html">Forum</a>
-
-</td></tr>
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="tutorial_videos.html">Tutorial Videos</a>
-
-</td></tr>
-<tr><td valign="top" height="10" colspan="2"></td></tr><tr><td valign="top" colspan="2"><font style="font-family:Verdana; font-size:10pt; color:Black"><b>Other</b></font>
-
-</td></tr>
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="privacy.html">Privacy</a>
-
-</td></tr>
-
-
-
-
-
-
-<tr><td valign="top" class="NAVBAR_LEFT">▪&nbsp;</td><td valign="top"><a class="NAVBAR_LEFT" href="contact.html">Contact</a>
-
-</td></tr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</tbody></table>
-
-</p>
-<p><img title="Quick Quotes" alt="Quick Quotes" src="quick-quotes.gif" border="0"></p>
-<p align="left"><a href="7_reasons_video.html"><img title="7 Reasons Why You NEED XSitePro" alt="7 Reasons Why You NEED XSitePro" src="online_video.gif" border="0"></a></p>
-<p align="left"><font face="Arial" size="1">For a <span style="BACKGROUND-COLOR: #ffff00"><u>limited time only</u></span> -- get a <br>free copy of <em>Secrets to Finding <br>the Hottest Products to Sell on <br>the Web</em> and the complete <br>recording of&nbsp;<strong>Rich Schefren's<br>Big Seminar Preview Call in <br>MP3.&nbsp;Just enter your name <br>and e-mail address&nbsp;below.</strong></font></p>
-<form action="http://www.xsitepro.com/mail/signup.php" method="post">
-<p><input type="hidden" value="1" name="list"> <font size="1"><strong>First Name</strong><br></font><input style="WIDTH: 146px; HEIGHT: 22px" size="15" name="fname"><br><font size="1"><strong>Last Name<br></strong></font><input style="WIDTH: 146px; HEIGHT: 22px" size="15" name="lname"><br><font size="1"><strong>Email</strong><br></font><input style="WIDTH: 146px; HEIGHT: 22px" size="15" name="email"><br></p>
-<p align="center"><input type="submit" value="Submit" name="sup"></p></form>
+<td colspan="3" class="XSP_INFO_BAR"><div align="center">
+    <script type="text/javascript" src="info.js">
+    </script><div class="mmenu" onmouseout="$I()" onmouseover="$J(0)" onselectstart="return 0" id="menu0" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 782px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" height="42" id="tbl0"><tbody><tr><td width="29" id="el0" onmouseover="h$(0)" style="padding:0px;height:42px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl0"><tbody><tr id="td0"><td id="_imgO0"><img onload="_p2(0,this)" border="0" style="display:block" id="img0" src="images/Left.jpg"></td></tr></tbody></table></td><td width="111" id="el1" onmouseover="h$(1)" style="padding:0px;height:42px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl1"><tbody><tr id="td1"><td id="_imgO1"><img onload="_p2(0,this)" border="0" style="display:block" id="img1" src="images/Button01.jpg"></td></tr></tbody></table></td><td width="109" id="el2" onmouseover="h$(2)" style="padding:0px;height:42px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl2"><tbody><tr id="td2"><td id="_imgO2"><img onload="_p2(0,this)" border="0" style="display:block" id="img2" src="images/Button02.jpg"></td></tr></tbody></table></td><td width="140" id="el3" onmouseover="h$(3)" style="padding:0px;height:42px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl3"><tbody><tr id="td3"><td id="_imgO3"><img onload="_p2(0,this)" border="0" style="display:block" id="img3" src="images/Button03.jpg"></td></tr></tbody></table></td><td width="97" id="el4" onmouseover="h$(4)" style="padding:0px;height:42px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl4"><tbody><tr id="td4"><td id="_imgO4"><img onload="_p2(0,this)" border="0" style="display:block" id="img4" src="images/Button04.jpg"></td></tr></tbody></table></td><td width="154" id="el5" onmouseover="h$(5)" style="padding:0px;height:42px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl5"><tbody><tr id="td5"><td id="_imgO5"><img onload="_p2(0,this)" border="0" style="display:block" id="img5" src="images/Button05.jpg"></td></tr></tbody></table></td><td width="111" id="el6" onmouseover="h$(6)" style="padding:0px;height:42px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl6"><tbody><tr id="td6"><td id="_imgO6"><img onload="_p2(0,this)" border="0" style="display:block" id="img6" src="images/Button06.jpg"></td></tr></tbody></table></td><td width="31" id="el7" onmouseover="h$(7)" style="padding:0px;height:42px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl7"><tbody><tr id="td7"><td id="_imgO7"><img onload="_p2(0,this)" border="0" style="display:block" id="img7" src="images/Right.jpg"></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink0" href="#" onmouseout="hidetip()" onmouseup="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div><div class="opaque" onmouseout="$I()" onmouseover="$J(1)" onselectstart="return 0" id="menu1" style="padding:0px;background:#1A4851;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="opaque" onmouseout="$I()" onmouseover="$J(2)" onselectstart="return 0" id="menu2" style="padding:0px;background:#1A4851;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="opaque" onmouseout="$I()" onmouseover="$J(3)" onselectstart="return 0" id="menu3" style="padding:0px;background:#1A4851;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="opaque" onmouseout="$I()" onmouseover="$J(4)" onselectstart="return 0" id="menu4" style="padding:0px;background:#1A4851;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="opaque" onmouseout="$I()" onmouseover="$J(5)" onselectstart="return 0" id="menu5" style="padding:0px;background:#1A4851;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="opaque" onmouseout="$I()" onmouseover="$J(6)" onselectstart="return 0" id="menu6" style="padding:0px;background:#1A4851;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="XSP_LEFT_PANEL_SPC" id="XSP_LEFT_PANEL"><div class="XSP_LEFT_PANEL"><table style="BACKGROUND-IMAGE: url(images/Left_Panel_Top.jpg); WIDTH: 100%; BACKGROUND-REPEAT: no-repeat; TABLE-LAYOUT: fixed" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td style="WIDTH: 21px; HEIGHT: 18px" background="Left_Panel_Top.jpg" align="left"></td>
+
+            <td style="WIDTH: 187px; HEIGHT: 18px" background="Left_Panel_Top.jpg" align="left"></td>
+        </tr>
+
+        <tr>
+            <td style="WIDTH: 21px; HEIGHT: 133px" background="Left_Panel_Top.jpg" align="left"></td>
+
+            <td style="WIDTH: 187px; HEIGHT: 282px" valign="top" background="Left_Panel_Top.jpg" align="left"><script type="text/javascript" src="left.js">
+                </script><div class="mmenu" onmouseout="$I()" onmouseover="$J(7)" onselectstart="return 0" id="menu7" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 187px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="187" height="33" id="tbl7"><tbody><tr id="pTR30"><td width="187" id="el30" onmouseover="h$(30)" style="padding:0px;height:12px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl30"><tbody><tr id="td30"><td id="_imgO30"><img onload="_p2(7,this)" border="0" style="display:block" id="img30" src="images/Top.jpg"></td></tr></tbody></table></td></tr><tr id="pTR31"><td width="187" id="el31" onmouseover="h$(31)" style="padding:0px;height:33px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl31"><tbody><tr id="td31"><td id="_imgO31"><img onload="_p2(7,this)" border="0" style="display:block" id="img31" src="images/Button1.jpg"></td></tr></tbody></table></td></tr><tr id="pTR32"><td width="187" id="el32" onmouseover="h$(32)" style="padding:0px;height:33px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl32"><tbody><tr id="td32"><td id="_imgO32"><img onload="_p2(7,this)" border="0" style="display:block" id="img32" src="images/Button2.jpg"></td></tr></tbody></table></td></tr><tr id="pTR33"><td width="187" id="el33" onmouseover="h$(33)" style="padding:0px;height:33px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl33"><tbody><tr id="td33"><td id="_imgO33"><img onload="_p2(7,this)" border="0" style="display:block" id="img33" src="images/Button3.jpg"></td></tr></tbody></table></td></tr><tr id="pTR34"><td width="187" id="el34" onmouseover="h$(34)" style="padding:0px;height:33px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl34"><tbody><tr id="td34"><td id="_imgO34"><img onload="_p2(7,this)" border="0" style="display:block" id="img34" src="images/Button4.jpg"></td></tr></tbody></table></td></tr><tr id="pTR35"><td width="187" id="el35" onmouseover="h$(35)" style="padding:0px;height:33px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl35"><tbody><tr id="td35"><td id="_imgO35"><img onload="_p2(7,this)" border="0" style="display:block" id="img35" src="images/Button5.jpg"></td></tr></tbody></table></td></tr><tr id="pTR36"><td width="187" id="el36" onmouseover="h$(36)" style="padding:0px;height:33px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl36"><tbody><tr id="td36"><td id="_imgO36"><img onload="_p2(7,this)" border="0" style="display:block" id="img36" src="images/Button6.jpg"></td></tr></tbody></table></td></tr><tr id="pTR37"><td width="187" id="el37" onmouseover="h$(37)" style="padding:0px;height:33px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl37"><tbody><tr id="td37"><td id="_imgO37"><img onload="_p2(7,this)" border="0" style="display:block" id="img37" src="images/Button7.jpg"></td></tr></tbody></table></td></tr><tr id="pTR38"><td width="187" id="el38" onmouseover="h$(38)" style="padding:0px;height:21px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl38"><tbody><tr id="td38"><td id="_imgO38"><img onload="_p2(7,this)" border="0" style="display:block" id="img38" src="images/Bottom.jpg"></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink7" href="#" onmouseout="hidetip()" onmouseup="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div><div class="opaque" onmouseout="$I()" onmouseover="$J(8)" onselectstart="return 0" id="menu8" style="padding:0px;background:#000000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="opaque" onmouseout="$I()" onmouseover="$J(9)" onselectstart="return 0" id="menu9" style="padding:0px;background:#000000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div></td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="WIDTH: 208px; TABLE-LAYOUT: fixed" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td style="WIDTH: 12px" id="__tmpTD" align="left"></td>
+
+            <td style="PADDING-RIGHT: 30px" align="left">
+                <div style="CURSOR: pointer" id="pc_I_d"></div>
+
+                <div style="DISPLAY: none" id="pc_S_d"><script src="http://chat.intellimon.com/PureChat/PureChatResourceHandler.ashx?h=web.archive.org" type="text/javascript"></script></div><script type="text/javascript" language="javascript">
+    function pc_a_s()
+    {
+        var t_u = window.location.host;
+        var pc_b = 'http://chat.intellimon.com/PureChat/';
+        var s_d = document.getElementById("pc_S_d");
+        if(!s_d)
+            return;
+        var st = document.createElement('script');
+        st.src = pc_b + 'PureChatResourceHandler.ashx?h=' + escape(t_u);
+        st.type = "text/javascript";
+        if(s_d.childNodes.length > 0)
+            s_d.removeChild(s_d.childNodes[0]);
+        s_d.appendChild(st);
+    }
+    window.setTimeout('pc_a_s();', 30);
+</script><br>
+                <img style="WIDTH: 167px; HEIGHT: 28px" title="Find_Out_More" border="0" alt="Find_Out_More" src="images/Left_Menu_Header_Find_Out_m.jpg"><br>
+                <a onfocus="this.blur()" onclick="NewWindow(this.href,'Showreel','820','675','no','center');return false" href="http://www.xsiteprovideo.com/showreel/video.html">
+                <img style="WIDTH: 167px; HEIGHT: 123px" title="" border="0" alt="" src="images/watch_video.jpg"></a><br>
+                <img style="WIDTH: 167px; HEIGHT: 13px" title="divide" border="0" alt="divide" src="images/Left_Menu_Header_Separator.jpg"><br>
+                <a href="brochure.html"><img style="WIDTH: 167px; HEIGHT: 123px" title="brochure" border="0" alt="brochure" src="images/download_brochure.jpg"></a><br>
+                &nbsp;<br>
+
+                <p><img style="WIDTH: 167px; HEIGHT: 28px" title="Feedback" border="0" alt="Feedback" src="images/Left_Menu_Header_Customer_F.jpg"><br>
+                <span style="FONT-SIZE: 8pt"><font size="2"><font color="#4D526C"><span style="FONT-SIZE: 8pt"><br>
+                "Way beyond my expectations."&nbsp;</span><br>
+                <br></font><font color="#4D526C"><strong><span style="FONT-SIZE: 8pt">Harold
+                Read</span><br></strong><span style="FONT-SIZE: 8pt">Tennessee,
+                USA<br></span>&nbsp;<br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"><br></font><span style="FONT-SIZE: 8pt">
+                <br>
+                <font color="#4D526C">"I love the improvements
+                - great job!!"&nbsp;</font></span><br>
+                <font color="#4D526C"><br>
+                <span style="FONT-SIZE: 8pt"><strong>Barbara</strong></span><br>
+
+                <span style="FONT-SIZE: 8pt">USA</span><br>
+                <span style="FONT-SIZE: 8pt"><font color="#ffffff"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></span><br>
+                </font><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"Fabulous. More features
+                than I probably will be able to use in a long
+                while."</font></span><br>
+                <font color="#4D526C"><br></font><font color="#4D526C"><strong>
+                <span style="FONT-SIZE: 8pt">Brian
+                Kurtz</span><br></strong><span style="FONT-SIZE: 8pt">Taylor,
+                MI</span><br></font><span style="FONT-SIZE: 8pt"><font color="#ffffff"><font color="#4D526C"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></font><br>
+                </span><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"Fantastic! This is a
+                vast improvement over the original
+                version."&nbsp;</font></span><br>
+                <font color="#4D526C"><br></font><font color="#4D526C"><strong>
+                <span style="FONT-SIZE: 8pt">Brenda
+                Harness</span><br></strong><span style="FONT-SIZE: 8pt">US</span><br></font><span style="FONT-SIZE: 8pt">
+                <font color="#ffffff"><font color="#4D526C"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></font><br>
+                </span><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"Blown away by the
+                incredible features."&nbsp;</font></span><br>
+                <font color="#4D526C"><br></font><font color="#4D526C"><strong>
+                <span style="FONT-SIZE: 8pt">Woody
+                Longacre</span><br></strong><span style="FONT-SIZE: 8pt">Tempe AZ,
+                USA</span><br></font><span style="FONT-SIZE: 8pt"><font color="#ffffff"><font color="#4D526C"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></font><br>
+                </span><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"Amazing! I LOVE it!"<br>
+                <br>
+                <strong>Colin
+                Green</strong><br></font></span><font color="#4D526C">
+                <span style="FONT-SIZE: 8pt">Sydney,
+                Australia</span><br>
+                <span style="FONT-SIZE: 8pt"><font color="#ffffff"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></span><br>
+                </font><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"Great improvement of a
+                superb product"&nbsp;</font></span><br>
+                <font color="#4D526C"><br></font><font color="#4D526C"><strong>
+                <span style="FONT-SIZE: 8pt">Ed
+                Jackson</span><br></strong><span style="FONT-SIZE: 8pt">Woking,
+                UK</span><br></font><span style="FONT-SIZE: 8pt"><font color="#ffffff"><font color="#4D526C"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></font><br>
+                </span><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"Very impressive! I have
+                been using the SBI site builder, which in
+                itself is an impressive tool. After seeing the
+                new version of XsitePro though, I can honestly
+                say that it is second to none, in terms of
+                functionality and
+                features."&nbsp;</font></span><br>
+                <font color="#4D526C"><br></font><font color="#4D526C"><strong>
+                <span style="FONT-SIZE: 8pt">Cesar
+                Campos</span><br></strong><span style="FONT-SIZE: 8pt">Sydney,
+                Australia</span><br></font><span style="FONT-SIZE: 8pt"><font color="#ffffff"><font color="#4D526C"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></font><br>
+                </span><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"Absolutely amazing! I
+                thought I'd seen the "BEST" website building
+                software in XSitePro v1 - version 2 just takes
+                website building and developing to a whole new
+                level. Sheer
+                brilliance!"&nbsp;</font></span><br>
+                <font color="#4D526C"><br></font><font color="#4D526C"><strong>
+                <span style="FONT-SIZE: 8pt">Alan
+                Howells</span><br></strong><span style="FONT-SIZE: 8pt">Stoke on Trent,
+                UK</span><br></font><span style="FONT-SIZE: 8pt"><font color="#ffffff"><font color="#4D526C"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></font><br>
+                </span><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"EXCELLENT"&nbsp;</font></span><br>
+                <font color="#4D526C"><br>
+                <span style="FONT-SIZE: 8pt"><strong>Deanna</strong></span><br>
+
+                <span style="FONT-SIZE: 8pt">Wisconsin,
+                USA</span><br>
+                <span style="FONT-SIZE: 8pt"><font color="#ffffff"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></span><br>
+                </font><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"It looks awesome. The
+                best just got better."&nbsp;</font></span><br>
+                <font color="#4D526C"><br>
+                <span style="FONT-SIZE: 8pt"><strong>Simon</strong></span><br>
+
+                <span style="FONT-SIZE: 8pt">Wiltshire,
+                UK</span><br>
+                <span style="FONT-SIZE: 8pt"><font color="#ffffff"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></span><br>
+                </font><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"WOW!!!"&nbsp;</font></span><br>
+                <font color="#4D526C"><br></font><font color="#4D526C"><span style="FONT-SIZE: 8pt">
+                <strong>Judie Brown</strong><br>
+                Washington,
+                      USA</span><br></font><span style="FONT-SIZE: 8pt">
+                <font color="#ffffff"><font color="#4D526C"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></font><br>
+                </span><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"I can hardly breathe!
+                There is SO much stuff. I'm choking with
+                excitement!"&nbsp;</font></span><br>
+                <font color="#4D526C"><br></font><font color="#4D526C"><span style="FONT-SIZE: 8pt">
+                <strong>Harold Jaynes</strong><br>
+                Washington
+                      DC</span><br></font><span style="FONT-SIZE: 8pt">
+                <font color="#ffffff"><font color="#4D526C"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></font><br>
+                </span><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"WOW! FAR-OUT! GREAT!
+                TREMENDOUS! This is coming from a web
+                developer, not a novice! I have so many clients
+                that I have put on hold - waiting for the added
+                features. These features will save me so much
+                time which will add revenue in my
+                pockets...It's like going from the horse and
+                buggy to a
+                Ferrari!"&nbsp;&nbsp;</font></span><br>
+                <font color="#4D526C"><br></font><font color="#4D526C"><strong>
+                <span style="FONT-SIZE: 8pt">Betsy
+                Parsons</span><br></strong><span style="FONT-SIZE: 8pt">Virginia,
+                USA</span><br></font><span style="FONT-SIZE: 8pt"><font color="#ffffff"><font color="#4D526C"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></font><br>
+                </span><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"Fantastic!"&nbsp;</font></span><br>
+                <font color="#4D526C"><br></font><font color="#4D526C"><span style="FONT-SIZE: 8pt">
+                <strong>Andrea Wilson</strong><br>
+                Vancouver,
+                      Canada</span><br></font><span style="FONT-SIZE: 8pt">
+                <font color="#ffffff"><font color="#4D526C"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></font><br>
+                </span><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"Wow...so many new,
+                exciting and upgraded features this is going to
+                make website building a really fun
+                project."&nbsp;</font></span><br>
+                <font color="#4D526C"><br></font><font color="#4D526C"><strong>
+                <span style="FONT-SIZE: 8pt">Connie
+                Upright</span><br></strong><span style="FONT-SIZE: 8pt">Virginia</span><br></font><span style="FONT-SIZE: 8pt">
+                <font color="#ffffff"><font color="#4D526C"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></font><br>
+                </span><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"I think it is a really
+                powerful piece of software ... I am an
+                experienced marketer, as well as a web designer
+                with FrontPage, DreamWeaver CS-3 and others.
+                You guys have done it
+                again!"&nbsp;</font></span><br>
+                <font color="#4D526C"><br></font><font color="#4D526C"><strong>
+                <span style="FONT-SIZE: 8pt">Ettione
+                Stuckey</span><br></strong><span style="FONT-SIZE: 8pt">USA</span><br></font><span style="FONT-SIZE: 8pt">
+                <font color="#ffffff"><font color="#4D526C"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></font><br>
+                </span><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"Superb improvement on an
+                already excellent
+                tool."&nbsp;</font></span><br>
+                <font color="#4D526C"><br></font><font color="#4D526C"><strong>
+                <span style="FONT-SIZE: 8pt">James
+                Mitchell</span><br></strong><span style="FONT-SIZE: 8pt">United
+                Kingdom</span><br></font><span style="FONT-SIZE: 8pt"><font color="#ffffff"><font color="#4D526C"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></font><br>
+                </span><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"Beyond all
+                expectations!"&nbsp;</font></span><br></font></span><span style="FONT-SIZE: 8pt">
+                <font size="2"><font color="#4D526C"><strong><span style="FONT-SIZE: 8pt"><br>
+                Shush
+                      Arya</span><br></strong><span style="FONT-SIZE: 8pt">
+                UK</span><br>
+                <span style="FONT-SIZE: 8pt"><font color="#ffffff"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></span><br>
+                </font><span style="FONT-SIZE: 8pt"><br>
+                <font color="#4D526C">"WOW! WOW! WOW! There
+                seems to be everything that anyone will need to
+                create great content sites. And the easy tools
+                to put video, ssn, rss feeds, and right now my
+                mind is swimming in awe."</font></span><br>
+                <font size="2"><font color="#4D526C"><br></font></font><font color="#4D526C"><font size="2"><span style="FONT-SIZE: 8pt"><strong>Steven R Shover
+                Sr</strong><br>
+                Texas,
+                      USA</span><br></font></font><span style="FONT-SIZE: 8pt">
+                <font color="#ffffff"><br>
+                <img style="WIDTH: 158px; HEIGHT: 1px" title="divider" border="0" alt="divider" src="images/testimonial_divider.jpg"></font></span></font></span></p>
+
+                <p><span style="FONT-SIZE: 8pt"><font color="#000000" size="2"><span style="FONT-SIZE: 8pt"><a href="testimonials.html"><strong>Read more
+                      testimonials</strong></a></span></font></span></p>
+
+                <p><span style="FONT-SIZE: 8pt"><font color="#000000" size="2"><span style="FONT-SIZE: 8pt"><img style="WIDTH: 167px; HEIGHT: 28px" title="Secure" border="0" alt="Secure" src="images/Left_Menu_Header_Secure.jpg"><br>
+                <img style="WIDTH: 167px; HEIGHT: 60px" title="secure" border="0" alt="secure" src="images/left_panel_section_security.jpg"><br>
+                <br>
+                &nbsp;</span></font></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 </div></td>
-<td class="XSP_CENTER_PANEL" rowspan="2"><table class="XSP_CENTER_PANEL"><tbody><tr><td class="XSP_MAIN_PANEL"><p style="TEXT-ALIGN: center" align="center"><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Privacy Policy </span></b></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. </span></p>
-<p><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">We recognizes the importance of protecting your privacy</span></b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"> and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs. </span></p>
-<p><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">What Information Do We Collect?</span></strong><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><br></span></b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. </span></p>
-<p><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">1. Personal Information You Choose to Provide </span></strong></p>
-<p><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Registration Information</span></strong><br><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">When you register for any of our products, services or newsletters you will provide us information about yourself. </span></p>
-<p><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Credit Card Information</span></strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><br>If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information: Name, Mailing address, Email address, Credit card number, </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Name on credit card, </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Credit card billing address, Business and home phone number. </span></p>
-<p></p>
-<p><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Email Information</span></strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><br>If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone. </span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><br><strong>2. Web Site Use Information</strong><br>Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. </span></p>
-<p></p>
-<p><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">How Do We Use the Information That You Provide to Us? <br></span></strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">, </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">to monitor the use of the service, </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">our marketing and promotional efforts</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"> and </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">improve our content and service offerings, and customize our site's content, layout, services</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"> and for other lawful purposes.</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"> These uses improve our site and better tailor it to meet your needs. </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law. </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter. <br style="mso-special-character: line-break"><br></span></p>
-<p><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">What Are Cookies?</span></strong><span><br><font face="Arial, Sans-Serif">A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.</font> </span></p>
-<p></p>
-<p><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">How Do We Use Information We Collect from Cookies?</span></strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><br>As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies. </span></p>
-<p></p>
-<p><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">IP Addresses</span></strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><br>IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you. </span></p>
-<p></p>
-<p><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Sharing and Selling Information</span></strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><br>We <b>do not</b> share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested. </span></p>
-<p></p>
-<p><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">How Can You Access and Correct Your Information?</span></strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><br>You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address. </span></p>
-<p><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">What About Legally Compelled Disclosure of Information?<br></span></b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"> We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public. </span></p>
-<p></p>
-<p><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">What About Other Web Sites Linked to Our Web Site?</span></strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><br>We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.&nbsp;</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding. </span></p>
-<p></p>
-<p><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Your Consent</span></strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><br>By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice. </span></p>
-<p><em><b><span style="FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-FAMILY: Arial">Our Commitment To Data Security:<br></span></b></em><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. </span></p>
-<p><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Choice/Opt-In/Opt-Out<br></span></b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.<span style="mso-spacerun: yes"></span> </span></p>
-<p><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></span></b></p>
-<p><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Surveys &amp; Contests <br></span></b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. </span></p>
-<p><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">A Special Note About Children <br></span></b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Children are not eligible to use our services </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">unsupervised and we ask that children </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">(under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians. </span></p>
-<p><span style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial"></span></p>
-<p><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acquisition or Changes in Ownership<br></span></b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred. </span></p>
-<p><b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Policy Modifications<br></span></b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.</span> </p>
-
-</td></tr><tr><td class="XSP_MAIN_PANEL_FOOTER"><p align="center"><a href="./" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Home</a>&nbsp;&nbsp;
-<a href="features.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Features</a>&nbsp;&nbsp;
-<a href="example_sites.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Example&nbsp;Sites</a>&nbsp;&nbsp;
-<a href="faq.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">FAQ</a>&nbsp;&nbsp;
-<a href="testimonials.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Testimonials</a>&nbsp;&nbsp;
-<a href="screenshots.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Screenshots</a>&nbsp;&nbsp;
-<a href="7_reasons_video.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">7&nbsp;Reasons&nbsp;Video</a>&nbsp;&nbsp;
-<a href="purchase.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Buy&nbsp;Online</a>&nbsp;&nbsp;
-<a href="pricing.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Pricing</a>&nbsp;&nbsp;
-<a href="knowledgebase.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Knowledgebase</a>&nbsp;&nbsp;
-<a href="support.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Support</a>&nbsp;&nbsp;
-<a href="forum.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Forum</a>&nbsp;&nbsp;
-<a href="tutorial_videos.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Tutorial&nbsp;Videos</a>&nbsp;&nbsp;
-<a href="privacy.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Privacy</a>&nbsp;&nbsp;
-<a href="affiliate_program.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Affiliate&nbsp;Program</a>&nbsp;&nbsp;
-<a href="contact.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Contact</a>&nbsp;&nbsp;
-<a href="Site_Map.html" style="FONT-SIZE: 8pt; COLOR: Navy; FONT-FAMILY: Verdana, Sans-Serif;">Site&nbsp;Map</a>&nbsp;&nbsp;
-
-</p>
-</td></tr></tbody></table></td>
+<td class="XSP_CENTER_PANEL"><table class="XSP_CENTER_PANEL" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+<td class="XSP_MAIN_PANEL_HEADER"><p></p>
+</td>
 </tr>
-<tr><td class="XSP_LEFT_PANEL" id="XSP_LEFT_PANEL" style="FONT-SIZE:1px;" height="1">&nbsp;</td></tr>
+<tr><td class="XSP_MAIN_PANEL"><p align="left"><b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><span style="FONT-SIZE: 16pt"><strong><font color="#0F1F35" size="4" face="Tahoma"><strong>Privacy
+      Policy</strong></font></strong></span></span></b></p>
 
-<tr><td colspan="2" class="XSP_FOOTER_PANEL"><p align="center"></p>
-<p align="right"><font color="#ffffff">Web: </font><a href="http://www.xsitepro.com/280306"><font color="#ffffff">http://www.xsitepro.com</font></a><font color="#ffffff">&nbsp;&nbsp; E-Mail: </font><a href="mailto:info@xsitepro.com"><font color="#ffffff">info@xsitepro.com</font></a><br><font color="#ffffff">© 2007 Intellimon Limited&nbsp;&nbsp; All Rights Reserved</font></p></td></tr></tbody></table>
-<script language="JavaScript" type="text/javascript" src="PopIn_83.js"></script><div id="popin83" pos="tc" style="display:none;top:5000;left:0;width:750;height:575;padding:10px;z-index:100;"><table width="100%" height="100%" cellspacing="0" cellpadding="2" style="font:;border:1px solid RoyalBlue;"><tbody><tr style="background-color:RoyalBlue;color:White;font:normal 12pt Arial, Sans-Serif;"><th style="background-color:RoyalBlue;color:White;font-bold: normal; font-size: 12pt font-family: Arial, Sans-Serif;" width="100%" height="10">Free Report</th><th style="padding-left:1ex;padding-right:1ex;"><a href="javascript:popin83_close()" style="color:White;font:normal 10pt Verdana;text-decoration:none;">×</a></th></tr><tr><td height="100%" colspan="2" style="background-color:White;color:black;"><div style="width:100%;height:100%;overflow:auto; FONT-FAMILY:Verdana; FONT-SIZE: x-small; COLOR: Black"><table title="" cellspacing="3" cellpadding="3" width="100%" border="0"> <tbody> <tr> <td valign="top" width="100%"><b> <p> <table title="" cellspacing="3" cellpadding="3" width="100%" border="0"> <tbody> <tr> <td valign="top" width="100%"><font face="Arial" size="2"><font size="1"> </font><p><font size="1"><strong><font color="#0033cc" size="4"><font size="5">Secrets to Finding<br>the Hottest Products<br>to Sell on the Web</font><em> </em></font></strong><br></font><em>Find out what people <u>want</u>...<br>... what they can't live without <br>... and how much they're willing to pay for it<br></em><font face="Times New Roman"><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></font><b><font face="Times New Roman" color="#ff9900">&nbsp;&nbsp;&nbsp;&nbsp; <font face="Arial" color="#0033cc">A <u>Free</u> Report</font></font></b></p></font></td> <td><img title="Rich Schefren" alt="Rich Schefren" src="Rich-Schefren-Flash.gif" border="0"></td></tr></tbody></table></p> </b><p><b></b><font face="Arial" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><u><b></b></u></span></font></p> <p><font face="Arial"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><u><b>FACT</b></u>:&nbsp; Products that sell well in in retail stores or other offline marketing channels may <u>not</u> necessarily fare very well on the Web. The free report titled <i>"Secrets for Finding the Hottest Products to Sell on the Web</i> enables you to <b>make the right product decisions</b> when <i>launching a new product</i> or <i>adding a new one to your product offerings</i>.&nbsp; <br><br>You'll <b>never again waste time or money</b> developing and promoting products that aren't going to be profitable to sell on the Web, or products that are <u>not</u> suitable for online marketing.</span></font></p> <p><font face="Arial"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Discover <b>...<br></b></span></font><span style="FONT-WEIGHT: 700; FONT-FAMILY: Arial"><font face="Arial" size="2">&gt;</font></span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font face="Arial"><b> </b>what the Internet buying population is <b>hungry</b> for<b><br>&gt; </b>how to locate <b>little-known areas </b>where the "fish are biting" and<b><br>&gt; </b>the top 3 ways of finding <b>products and services that sell like crazy on the Web</b></font></span></p> <p><span class="b"><b><font face="Arial" size="2">...</font></b></span><font size="2"><font face="Arial, Helvetica, sans-serif"><span class="b"><font face="Arial"> so that you can <u>cash in</u> on the top-selling<b> </b>and<b> most profitable products</b> every time.</font></span></font></font></p></td> <td style="WIDTH: 175px" valign="top" width="190"> <p><img title="Find the Hottest Products to Sell" alt="Find the Hottest Products to Sell" src="happy_people_2.jpg" border="0"></p> <form action="http://www.xsitepro.com/mail/signup.php" method="post"><font face="Arial" size="1">This <b>FREE report</b> is available for a <span style="BACKGROUND-COLOR: #ffff00"><u>limited time only</u></span> -- so don't delay. Simply fill in your name and address and this valuable report and the <strong>Rich Schefren MP3</strong> will&nbsp;be sent to your e-mail box <i><u>within minutes</u></i>.</font>  <p><input type="hidden" value="1" name="list"> <font size="1">First Name<br></font><input style="WIDTH: 150px; HEIGHT: 22px" size="15" name="fname"><br><font size="1">Last Name<br></font><input style="WIDTH: 150px; HEIGHT: 22px" size="15" name="lname"><br><font size="1">Email<br></font><input style="WIDTH: 150px; HEIGHT: 22px" size="15" name="email"><br></p> <p align="center"><input type="submit" value="Submit" name="sup"></p></form> <p><font face="Verdana" size="1">Your contact information will be handled with the <i>strictest confidence</i>, and will never be sold or shared with third parties ... ever!</font></p></td></tr></tbody></table></div></td></tr></tbody></table></div>
-<script language="javascript" type="text/javascript">
-<!--
-document.getElementById("XSP_LEFT_PANEL_SPC").innerHTML = document.getElementById("XSP_LEFT_PANEL").innerHTML;
-document.getElementById("XSP_LEFT_PANEL").innerHTML = "&nbsp;";
-//-->
+<p><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma">We
+      have created this privacy statement in order to
+      demonstrate our firm and continuing commitment to the
+      privacy of personal information provided by those
+      visiting and interacting with this web site. We hold the
+      privacy of your personal information in the highest
+      regard. The following discloses our information gathering
+      and dissemination practices for this
+      website.</font></span></p>
+
+<p><font face="Tahoma"><b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">We recognize the
+importance of protecting your privacy</span></b>
+      <span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">and our
+      policy is designed to assist you in understanding how we
+      collect, use and safeguard the personal information you
+      provide to us and to assist you in making informed
+      decisions when using our site. This policy will be
+      continuously assessed against new technologies, business
+      practices and our customers' needs.</span></font></p>
+
+<p><strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma">What
+Information Do We
+      Collect?</font></span></strong><font face="Tahoma"><b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">
+&nbsp;<br></span></b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">When you visit this web
+site you may provide us with two types of information: personal
+information you knowingly choose to disclose that is collected
+on an individual basis and Web site use information collected
+on an aggregate basis as you and others browse our Web
+site.</span></font></p>
+
+<p><strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma">1.
+Personal Information You Choose to
+Provide</font></span></strong></p>
+
+<p><font face="Tahoma"><strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">Registration
+Information</span></strong><br>
+<span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">When you
+register for any of our products, services or newsletters you
+will provide us information about yourself.</span></font></p>
+
+<p><strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma">Credit Card
+Information</font></span></strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><br>
+<font face="Tahoma">If you choose to avail of our services, you
+may need to give personal information and authorization to
+obtain information from various credit services. For example,
+you may need to provide the following information: Name,
+Mailing address, Email address, Credit card
+number,</font></span> <font face="Tahoma"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">Name on credit
+card,</span> <span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">Credit card billing
+address, Business and home phone number.</span></font></p>
+
+<p><strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma">Email
+Information</font></span></strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><br>
+<font face="Tahoma">If you choose to correspond with us through
+email, we may retain the content of your email messages
+together with your email address and our responses. We provide
+the same protections for these electronic communications that
+we employ in the maintenance of information received by mail
+and telephone.</font></span></p>
+
+<p><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma"><strong>
+2. Web Site Use Information</strong><br>
+Similar to other commercial Web sites, our Web site utilizes a
+standard technology called "cookies" (see explanation below,
+"What Are Cookies?") and web server log files to collect
+information about how our Web site is used. Information
+gathered through cookies and Web server logs may include the
+date and time of visits, the pages viewed, time spent at our
+Web site, and the Web sites visited just before and just after
+our Web site.</font></span></p>
+
+<p><font face="Tahoma"><strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">How Do We Use the
+Information That You Provide to
+Us?<br></span></strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">Broadly speaking, we use
+personal information for purposes of administering our business
+activities, providing the products and services you requested,
+to process your payment,</span> <span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">,</span>
+      <span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">to
+      monitor the use of the service,</span> <span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">our marketing and
+      promotional efforts</span> <span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">and</span>
+      <span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">improve
+      our content and service offerings, and customize our
+      site's content, layout, services</span> <span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">and for other
+      lawful purposes.</span> <span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">These uses improve
+      our site and better tailor it to meet your needs.</span>
+      <span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">Furthermore, such
+      information may be shared with others on an aggregate
+      basis. Personally identifiable information or business
+      information will not be shared with parties except as
+      required by law.</span> <span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">Occasionally, we
+      may also use the information we collect to notify you
+      about important changes to our Website, new services, and
+      special offers we think you will find valuable. You may
+      notify us at any time if you do not wish to receive these
+      offers by emailing us at the link provided on the
+      newsletter.</span></font></p>
+
+<p><strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma">What
+Are Cookies?</font></span></strong><span><br>
+<font face="Tahoma">A cookie is a very small text document,
+which often includes an anonymous unique identifier. When you
+visit a Web site, that site's computer asks your computer for
+permission to store this file in a part of your hard drive
+specifically designated for cookies. Each Web site can send its
+own cookie to your browser if your browser's preferences allow
+it, but (to protect your privacy) your browser only permits a
+Web site to access the cookies it has already sent to you, not
+the cookies sent to you by other sites. Browsers are usually
+set to accept cookies. However, if you would prefer not to
+receive cookies, you may alter the configuration of your
+browser to refuse cookies. If you choose to have your browser
+refuse cookies, it is possible that some areas of our site will
+not function as effectively when viewed by the users. A cookie
+cannot retrieve any other data from your hard drive or pass on
+computer viruses.</font></span></p>
+
+<p><strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma">How
+Do We Use Information We Collect from
+Cookies?</font></span></strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><br>
+<font face="Tahoma">As you visit and browse our Web site, the
+site uses cookies to differentiate you from other users. In
+some cases, we also use cookies to prevent you from having to
+log in more than is necessary for security. Cookies, in
+conjunction with our Web server's log files, allow us to
+calculate the aggregate number of people visiting our Web site
+and which parts of the site are most popular. This helps us
+gather feedback to constantly improve our Web site and better
+serve our clients. Cookies do not allow us to gather any
+personal information about you and we do not intentionally
+store any personal information that your browser provided to us
+in your cookies.</font></span></p>
+
+<p><strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma">IP
+Addresses</font></span></strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><br>
+<font face="Tahoma">IP addresses are used by your computer
+every time you are connected to the Internet. Your IP address
+is a number that is used by computers on the network to
+identify your computer. IP addresses are automatically
+collected by our web server as part of demographic and profile
+data known as traffic data so that data (such as the Web pages
+you request) can be sent to you.</font></span></p>
+
+<p><strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma">Sharing and Selling
+Information</font></span></strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><br>
+<font face="Tahoma">We <b>do not</b> share, sell, lend or lease
+any of the information that uniquely identify a subscriber
+(such as email addresses or personal details) with anyone
+except to the extent it is necessary to process transactions or
+provide services that you have requested.</font></span></p>
+
+<p><strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma">How
+Can You Access and Correct Your
+Information?</font></span></strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><br>
+<font face="Tahoma">You may request access to all your
+personally identifiable information that we collect online and
+maintain in our database by emailing us at the usual
+address.</font></span></p>
+
+<p><font face="Tahoma"><b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">What About Legally
+Compelled Disclosure of
+      Information?<br></span></b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">
+We may disclose information when legally compelled to do so, in
+other words, when we, in good faith, believe that the law
+requires it or for the protection of our legal rights.</span>
+<span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">We may also
+disclose account information when we have reason to believe
+that disclosing this information is necessary to identify,
+contact or bring legal action against someone who may be
+violating our Terms of Service or to protect the safety of our
+users and the Public.</span></font></p>
+
+<p><strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma">What
+About Other Web Sites Linked to Our Web
+Site?</font></span></strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><br>
+<font face="Tahoma">We are not responsible for the practices
+employed by Web sites linked to or from our Web site or the
+information or content contained therein. Often links to other
+Web sites are provided solely as pointers to information on
+topics that may be useful to the users of our Web
+site.&nbsp;</font></span><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma">Please remember that when you use a link to go from
+our Website to another web site, our Privacy Policy is no
+longer in effect. Your browsing and interaction on any other
+web site, including web sites, which have a link on our
+Website, is subject to that Web site's own rules and policies.
+Please read over those rules and policies before
+proceeding.</font></span></p>
+
+<p><strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma">Your
+Consent</font></span></strong><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><br>
+<font face="Tahoma">By using our Web site you consent to our
+collection and use of your personal information as described in
+this Privacy Policy. We reserve the right to amend this privacy
+policy at any time with or without notice.</font></span></p>
+
+<p><font face="Tahoma"><em><b><span style="FONT-STYLE: normal; FONT-FAMILY: Arial; FONT-SIZE: 10pt">Our
+Commitment To Data
+      Security:<br></span></b></em><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">
+Please note that your information will be stored and processed
+on our computers in the United States. The laws on holding
+personal data in the United States may be less stringent than
+the laws of your Country of residence or citizenship.</span>
+<span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">To prevent
+unauthorized access, maintain data accuracy, and ensure the
+correct use of information, we have put in place appropriate
+physical, electronic, and managerial procedures to safeguard
+and secure the information we collect online.</span></font></p>
+
+<p><font face="Tahoma"><b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">Choice/Opt-In/Opt-Out<br></span></b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">
+This site allows visitors to unsubscribe so that they will not
+receive future messages. After unsubscribing we will
+discontinue sending the particular messages as soon as
+technically feasible.</span></font></p>
+
+<p><font face="Tahoma"><b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">Surveys &amp;
+Contests<br></span></b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">From time-to-time our
+site requests information from users via surveys or contests.
+Participation in these surveys or contests is completely
+voluntary and the user therefore has a choice whether or not to
+disclose this information. Information requested may include
+contact information (such as name and shipping address), and
+demographic information (such as zip code, age level). Contact
+information will be used to notify the winners and award
+prizes. Survey information will be used for purposes of
+monitoring or improving the use and satisfaction of this
+site.</span></font></p>
+
+<p><font face="Tahoma"><b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">A Special Note About
+Children<br></span></b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">Children are not eligible
+to use our services</span> <span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">unsupervised and we ask
+that children</span> <span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">(under the age of 14) do
+not submit any personal information to us. If you are a minor,
+you can use this service only in conjunction with permission
+and guidance from your parents or guardians.</span></font></p>
+
+<p><font face="Tahoma"><b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">Acquisition or Changes in
+Ownership<br></span></b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">In the event that the web
+site (or a substantial portion of its assets) is acquired, your
+information would be considered part of those assets, and may
+be part of those assets that are transferred.</span></font></p>
+
+<p><font face="Tahoma"><b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">Policy
+Modifications<br></span></b><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">We may change this
+Privacy Policy from time to time. If/when changes are made to
+this privacy policy, we will email users who have given us
+permission to do so. We will post any changes here, so be sure
+to check back periodically. However, please be assured that if
+the Privacy Policy changes in the future, we will not use the
+personal information you have submitted to us under this
+Privacy Policy in a manner that is materially inconsistent with
+this Privacy Policy, without your prior
+consent.</span></font></p>
+
+<p><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><font face="Tahoma"><img style="WIDTH: 1px; HEIGHT: 1000px" id="D#images/spacer_5x44.gif" title="spacer" border="0" alt="spacer" src="images/spacer_5x44.gif"></font></span></p>
+</td></tr></tbody></table></td>
+<td class="XSP_RIGHT_PANEL_SPC" id="XSP_RIGHT_PANEL"><div class="XSP_RIGHT_PANEL"><p></p>
+
+</div></td></tr>
+
+
+<tr><td colspan="3" class="XSP_FOOTER_PANEL"><table style="WIDTH: 200px; TABLE-LAYOUT: fixed" border="0" cellspacing="0" cellpadding="0" align="right">
+    <tbody>
+        <tr>
+            <td style="WIDTH: 300px" align="left"></td>
+
+            <td style="WIDTH: 455px" align="left"></td>
+
+            <td style="WIDTH: 15px; HEIGHT: 100px" align="left"></td>
+        </tr>
+
+        <tr>
+            <td id="__tmpTD" valign="top" align="left"><span style="COLOR: #44bfd9; FONT-SIZE: 8pt"><span style="COLOR: #44bfd9"><font color="#44FD00"><span style="COLOR: #91acbf">&nbsp;©&nbsp; Copyright 2008
+                Intellimon Ltd. All Rights
+                Reserved.</span></font></span></span></td>
+
+            <td valign="top" align="left">
+                <p align="right"><span style="COLOR: #94efff; FONT-SIZE: 8pt"><strong><span style="COLOR: #44bfd9">
+                <a href="articles.html"><font color="#44BFD9">Articles</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="privacy.html"><span style="FONT-FAMILY: Tahoma; COLOR: #44bfd9; FONT-SIZE: 8pt">
+                <font color="#44BFD9">Privacy</font></span></a>&nbsp;<font color="#44BFD9">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+                   <a href="contact.html"><span style="FONT-FAMILY: Tahoma; COLOR: #44bfd9; FONT-SIZE: 8pt">
+                <font color="#44BFD9">Contact</font></span></a>
+                <font color="#44BFD9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+                <a href="affiliates.html"><font color="#44BFD9">Affiliates</font></a>&nbsp;<font color="#44BFD9">
+                &nbsp;<font color="#44BFD9">&nbsp;&nbsp;&nbsp;&nbsp;</font><a target="_new" href="http://www.xsitepro.com/messageboard/index.php">
+                <font color="#44BFD9">Forum</font></a>&nbsp;&nbsp;&nbsp;
+                &nbsp;</font> <a style="TEXT-DECORATION: underline" id="D#http://www.xsitepro.com/sitemap-alphabetical.html" target="_self" href="http://www.xsitepro.com/sitemap-alphabetical.html">
+                <span style="FONT-FAMILY: Tahoma; COLOR: #44bfd9; FONT-SIZE: 8pt">
+                <font color="#44BFD9">Sitemap</font></span></a>
+                <span style="FONT-FAMILY: Tahoma; COLOR: #44bfd9; FONT-SIZE: 8pt">
+                &nbsp;&nbsp;</span>&nbsp;</span></strong></span></p>
+            </td>
+
+            <td valign="top" align="left"></td>
+        </tr>
+    </tbody>
+</table>
+
+<p align="center">&nbsp;</p></td></tr></tbody></table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4818804-2");
+pageTracker._trackPageview();
 </script>
 
 
