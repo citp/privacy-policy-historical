@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613184422id_/http%3A//www.guidetoonlineschools.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216071409id_/http%3A//www.guidetoonlineschools.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy for GuideToOnlineSchools.com
+# 
 
 **Privacy Policy**
 
-[](http://www.truste.org/ivalidate.php?url=guidetoonlineschools.com&sealid=101)
+[](http://www.truste.org/ivalidate.php?url=GuideToOnlineSchools.com&sealid=101)
 
 [GuideToOnlineSchools.com](http://www.guidetoonlineschools.com/) is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site, GuideToOnlineSchools.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
@@ -80,4 +80,4 @@ This children's privacy statement explains the Site's practices with respect to 
 
 **Questions Regarding Privacy**
 
-If you have questions or concerns about this Privacy Policy, the privacy practices of the DegreePages.com website, or your dealings with the Site, please contact us by email:  or in writing at .
+If you have questions or concerns about this Privacy Policy, the privacy practices of the DegreePages.com website, or your dealings with the Site, please contact us by email:  or in writing at . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at: <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
