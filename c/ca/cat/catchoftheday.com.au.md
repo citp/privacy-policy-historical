@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219183728id_/http%3A//www.catchoftheday.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023813id_/http%3A//www.catchoftheday.com.au/privacy.php) for the most accurate reproduction.*
 
 # Catch Of The Day - More Than You Bargained For
 
@@ -24,8 +24,8 @@ Please be assured we will not disclose information about you unless the disclosu
 
 We may also use your personal information to provide you with information about other services offered by us. However, the only information that you must provide is your name and payment details (where applicable). If you would prefer not to receive promotional or other material from us, please let us know and we will respect your request.
 
-Under the Privacy Act 1988 (Cth) you have a right to request access to your personal information held by us. You may do this by sending us an email to [admin@catchoftheday.com.au](mailto:admin@catchoftheday.com.au) or by writing to us at:
+Under the Privacy Act 1988 (Cth) you have a right to request access to your personal information held by us. You may do this by sending us an email using our helpcenter or by writing to us at:
 
 Catch Of The Day  
-1/26 Roberna St  
-Moorabbin, Victoria 3189
+2215 Princes Highway  
+Mulgrave, Victoria 3170
