@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509132534id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165521id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ShapeFit Privacy Policy - Protecting The Privacy Our Visitors
 
@@ -7,13 +7,16 @@
 [  
 ](http://www.shapefit.com/)[  
 ](http://fittracker.shapefit.com/)[  
+](http://www.shapefit.com/shapefit-fitness-products.html)[  
 ](http://www.shapefit.com/exercise.html)[  
 ](http://www.shapefit.com/nutrition.html)[](http://www.shapefit.com/cardio.html)[  
 ](http://fittracker.shapefit.com/)[  
 ](http://www.shapefit.com/weight-loss.html)[](http://www.shapefit.com/success-stories.html)  
+[](http://www.shapefit.com/latest-articles.html)  
 [  
 ](http://www.shapefit.com/fitness-questions-answers.html)[](http://www.shapefit.com/best-snacks.html)  
 [](http://www.shapefit.com/exercise-videos.html)  
+[](http://www.shapefit.com/fitness-games.html)  
 [](http://www.shapefit.com/weight-loss-recipes.html)  
 [  
 ](http://www.shapefit.com/forum)[](http://www.shapefit.com/fitness-models.html)  
@@ -21,14 +24,18 @@
 [  
 ](http://www.shapefit.com/newsletter.html)[  
 ](http://www.shapefit.com/fitness-extras.html)[  
-](http://www.shapefit.com/tellafriend.html) [](http://www.addthis.com/bookmark.php)
+](http://www.shapefit.com/tellafriend.html)[  
+](http://www.shapefit.com/testimonials.html)[  
+](http://www.shapefit.com/support-our-site.html) [](http://www.addthis.com/bookmark.php)
 
-| **ShapeFit.com Poll**  
----  
-| **What type of supplement are you most interested in?**  
----  
-[Version 2.02](http://www.proxy2.de/ "Advanced Poll")  
-  
+[](http://www.shapefit.com/shapefit-assist.html)
+
+[](http://www.shapefit.com/exercise-bands.html)
+
+[](http://fittracker.shapefit.com/users/foxeg15/)
+
+| 
+
 ShapeFit Privacy Policy - Protecting The Privacy Our Visitors
 
 At ShapeFit, we respect your privacy and believe you should be informed about how we collect, use and disclose your Personal Information. This Privacy Policy describes our practices regarding how we use and share with third parties Personal Information (as defined below ) that we collect on the Website. By visiting the ShapeFit.com website and any other URLs and websites administered by ShapeFit, LLC and its affiliates (collectively, the “Website”) that are offered by ShapeFit, LLC and its affiliates (collectively, “ShapeFit” or “we” or “us”) or otherwise submitting your Personal Information to us, you accept the practices described in this statement. The terms "you" and "user" as used herein refer to all individuals and/or entities accessing the Website for any reason. 
@@ -68,4 +75,6 @@ We may make changes to the Privacy Policy from time to time in our sole discreti
 **Queries**   
 If you have a question or comment about the ShapeFit site or a request to correct or delete your Personal Information, please contact us at info@shapefit.com. We will use commercially reasonable efforts to fulfill your request in a timely manner. However, please be aware that even if ShapeFit deletes such Personal Information from its ‘live’ databases, such information may still be stored on other databases (including those kept for archival purposes).
 
-[](http://fittracker.shapefit.com/)
+[](http://fittracker.shapefit.com/)  
+  
+---|---
