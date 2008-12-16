@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kindercare.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512092432id_/http%3A//www.kindercare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kindercare.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170646id_/http%3A//www.kindercare.com/Privacy.aspx) for the most accurate reproduction.*
 
 # KinderCare : Privacy Policy
 
@@ -6,7 +6,7 @@ _Last Modified: July 11, 2005_
 
 KinderCare® understands the importance of protecting the privacy of all KinderCare customers, including visitors to KinderCare.com. We believe that, as our online visitor, you have the right to know our practices regarding the information we collect when you visit our website, and what type of information is collected. To help ensure a rewarding online experience for all visitors, we provide this summary of our information practices.
 
-These guidelines only apply to your visits to KinderCare.com, which is operated by KinderCare Learning Centers, Inc. Other websites that are linked to or from KinderCare.com may have different policies; therefore, please review the privacy policy notices on those websites for details.
+These guidelines only apply to your visits to KinderCare.com, which is operated by Knowledge Learning Corporation. Other websites that are linked to or from KinderCare.com may have different policies; therefore, please review the privacy policy notices on those websites for details.
 
 ##  The Information We Collect
 
