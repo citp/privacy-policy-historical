@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530032924id_/http%3A//www.next.co.uk/help/WinHelpSC.asp%3FLID%3D01_99_02) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062149id_/http%3A//www.next.co.uk/help/WinHelpSC.asp%3FLID%3D01_99_02) for the most accurate reproduction.*
 
 # NEXT Directory Online : Privacy Policy
 
@@ -113,5 +113,5 @@ As part of our efforts to make further improvements to the service we provide to
 
 If you have any questions relating to this policy or the use by Next of personal data please write to the Group Data Protection Manager at [Head Office](https://web.archive.org/Help/WinHelpHO.asp "click to view head office postal address") or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.
 
-| [](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=09942FE4-F0FB-4426-BDD3-E80B9683C620) |   | [](http://www.dma.org.uk/)  
----|---|---|---
+|   | [](http://www.dma.org.uk/)  
+---|---|---
