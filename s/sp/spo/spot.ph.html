@@ -1,10 +1,25 @@
-<!--The following is the downloaded HTML source of the spot.ph privacy policy that was archived on 2008-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080506095246id_/http%3A//www.spot.ph/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spot.ph privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216053310id_/http%3A//www.spot.ph/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<!-- Begin Keyword Generator -->
+
+<!-- End Keyword Generator -->
+
 <title>SPOT - TERMS OF SERVICE</title>
+
+<link rel="alternate" type="text/xml" title="Spot.PH" href="http://www.spot.ph/rss">
+<link rel="alternate" type="application/rss+xml" title="Spot.PH" href="http://www.spot.ph/rss">
+<link rel="alternate" type="application/atom+xml" title="Spot.PH" href="http://www.spot.ph/rss">
+
 <link type="text/css" rel="stylesheet" href="http://www.spot.ph/css/main_style.css">
+<link type="text/css" rel="stylesheet" href="http://www.spot.ph/css/nmain_style.css">
+
+<link href="http://www.spot.ph/images/spoticon.ico" rel="icon">
+<link href="http://www.spot.ph/images/spoticon.ico" rel="shortcut icon">
+
 <link type="text/css" href="http://www.spot.ph/css/static.css" rel="stylesheet">
 <script language="JavaScript" src="http://www.spot.ph/js/animatedcollapse.js"></script>
 <script language="JavaScript" src="http://www.spot.ph/js/menu.js"></script>
@@ -14,11 +29,12 @@
 function chk_search()
 {
 	var myURL = "";
+	var html   = /\<.*?\>/g;
 	
 	if(document.frm.keyword.value == '' && document.frm.neighborhood.value == '')
 	{
 		alert('- Please please a Spot to search!');		
-	}
+	}	
 	else 
 	{
 		myURL = "http://www.spot.ph/search";
@@ -34,10 +50,19 @@ function chk_search()
 function chk_advance_search()
 {
 	var myURL = "http://www.spot.ph/advance_search";
-	myKeyword = escape_chars(document.frm.keyword.value);
-	if(document.frm.keyword.value != '') myURL = myURL + '/name/' + myKeyword;
-	if(document.frm.neighborhood.value != '') myURL = myURL + '/city/'+ document.frm.neighborhood.value;
-	location.href = myURL;
+	var html   = /\<.*?\>/g;
+	
+	if(document.frm.keyword.value != '' && document.frm.keyword.value.match(html)) alert('- HTML tags are not allowed in Keywords');
+	else if(document.frm.neighborhood.value != '' && document.frm.neighborhood.value.match(html)) alert('- HTML tags are not allowed in Location');
+	else
+	{
+		myKeyword = escape_chars(document.frm.keyword.value);
+		if(document.frm.keyword.value != '') myURL = myURL + '/name/' + myKeyword;
+		if(document.frm.neighborhood.value != '') myURL = myURL + '/city/'+ document.frm.neighborhood.value;
+		location.href = myURL;
+	}
+	
+	return false;
 }
 
 function escape_chars(str) {	
@@ -59,7 +84,34 @@ function slideup_div(img)
 		collapse2.slideup();
 	}
 }
+function showToolTip(e){
+	document.getElementById("ToolTip").innerHTML="<div align='left' style='padding-left:10px; padding-top:10px;'>Are you a member of PEP, GMANews or iGMA?<br>If you are, use your existing username and password to log in to SPOT!</div>";
+	document.getElementById("ToolTip").style.visibility="visible";
+}
+function hideToolTip(){
+	document.getElementById("ToolTip").style.visibility="hidden";     
+}
 </script>
+<style>
+#v3mainmenu { display: inline; float: left; width: 1005px; height: 24px; clear: both;}
+#v3mainmenu ul { list-style: none; margin: 0px; padding: 0px;}
+#v3mainmenu li { display: inline; font-size: 11px; }
+#v3mainmenu a { color: #000000; text-decoration: none; margin: 2px 2px 5px 2px; font-size: 11px; }
+#v3mainmenu a:hover { color: #000000; text-decoration: underline }
+
+#v3login { display: inline; float: left; width: 991px; height: 19px; padding: 7px; clear: both; background-color: e5e5e5; vertical-align: middle; margin-bottom: 10px; }
+#v3login2 { display: inline; float: left; width: 991px; height: 19px; padding: 7px; clear: both; vertical-align: middle; margin-bottom: 0px; }
+#v3login a { color: #333333; }
+.loginBox { width: 100px; height: 17px; margin-top: 0px; font-size: 10px; border: 1px solid #ccc; }
+.loginBox:hover { width: 100px; height: 17px; margin-top: 0px; font-size: 10px; border: 1px solid #999; }
+.loginBox:focus { width: 100px; height: 17px; margin-top: 0px; font-size: 10px; border: 1px solid #999; }
+
+#multi a { color: #000000; text-decoration: none; font-size: 10px; }
+#multi a:hover { color: #000000; text-decoration: underline; font-size: 10px; }
+#artic_div a { color: #000000; text-decoration: none; font-size: 10px; }
+#artic_div a:hover { color: #000000; text-decoration: underline; font-size: 10px; }
+</style>
+
 
 </head>
 
@@ -71,8 +123,10 @@ function slideup_div(img)
 			<!-- header START -->	
 			<div id="header_1">
 				<div class="left"><a href="http://www.spot.ph"><img src="http://www.spot.ph/webpics/images/common/spot_logo.jpg" border="0"></a></div>
-				<div class="left"><iframe src="http://204.2.168.8/deliver.nmi?zoneid=0001&amp;sid=0004" framespacing="0" frameborder="no" scrolling="no" width="728" height="100"></iframe>
-</div>
+				<div class="left" align="right" style="margin-left: 40px">
+					<iframe src="http://204.2.168.8/deliver.nmi?zoneid=0001&amp;sid=0004" framespacing="0" frameborder="no" scrolling="no" width="728" height="100"></iframe>
+                    </div>
+                </div>
 				<div style="clear:both;"></div>
 			</div>
 			<div id="header_2" style="padding-top:10px; " onmouseover="collapse1.slideup(); collapse2.slideup()">
@@ -92,9 +146,8 @@ function slideup_div(img)
 				</div>
 				</form>
 				<div style="clear:both;"></div>
-			</div>			
+			</div>						
 			
-			<hr align="center" width="980" color="#CACACA" size="1"> 
 			
 			<!-- <div align="center" style="padding-top:10px; padding-bottom:10px; ">
 				Your are viewing: 
@@ -104,63 +157,55 @@ function slideup_div(img)
 				<span class="locationLink"><a href="#">Cebu</a></span> |
 				<span class="locationLink"><a href="#">More Cities</a></span>
 			</div>	-->
-		
-			<div style="width:100%;">				
-				<a href="http://www.spot.ph" onmouseover="turnOn('home'); slideup_div('home');"><img name="home" id="home" src="http://www.spot.ph/webpics/images/common/home_btn1.jpg" border="0"></a><a href="http://www.spot.ph/search/1" onmouseover="turnOn('restaurant'); slideup_div('restaurant');"><img name="restaurant" id="restaurant" src="http://www.spot.ph/webpics/images/common/restaurant_btn1.jpg" border="0"></a><a href="http://www.spot.ph/search/2" onmouseover="turnOn('night'); slideup_div('night');"><img name="night" id="night" src="http://www.spot.ph/webpics/images/common/night_btn1.jpg" border="0"></a><a href="http://www.spot.ph/all_spots" onmouseover="turnOn('all_spots'); slideup_div('all_spots');"><img name="all_spots" id="all_spots" src="http://www.spot.ph/webpics/images/common/all_spot_btn1.jpg" border="0"></a><a href="http://www.spot.ph/reviews" onmouseover="turnOn('reviews'); slideup_div('reviews');"><img name="reviews" id="reviews" src="http://www.spot.ph/webpics/images/common/review_btn1.jpg" border="0"></a><a href="http://www.spot.ph/forum" onmouseover="turnOn('forum'); slideup_div('forum');"><img name="forum" id="forum" src="http://www.spot.ph/webpics/images/common/forum_btn1.jpg" border="0"></a><a href="javascript:collapse1.slidedown()" onmouseover="turnOn('multimedia'); slideup_div('multimedia'); collapse1.slidedown()"><img name="multimedia" id="multimedia" src="http://www.spot.ph/webpics/images/common/multimedia_btn1.jpg" border="0"></a><a href="javascript:collapse2.slidedown()" onmouseover="turnOn('article'); slideup_div('article'); collapse2.slidedown()"><img name="article" id="article" src="http://www.spot.ph/webpics/images/common/articles_btn1.jpg" border="0"></a><a href="http://www.spot.ph/peoples" onmouseover="turnOn('people'); slideup_div('people');"><img name="people" id="people" src="http://www.spot.ph/webpics/images/common/people_btn1.jpg" border="0"></a><a href="http://www.spot.ph/events" onmouseover="turnOn('event'); slideup_div('event');"><img name="event" id="event" src="http://www.spot.ph/webpics/images/common/event_btn1.jpg" border="0"></a><img src="http://www.spot.ph/webpics/images/common/header_side.jpg" border="0"><br>				<div class="left" style="width:1005px; height:32px; background-image:url(http://www.spot.ph/webpics/images/common/menu_sub_bg.jpg); background-repeat:repeat-x;">
-					<div class="headerLoginText" style="height:32px; padding-top:3px; padding-left:10px;">
-						<form name="frm_Login" method="POST" action="http://www.allaccess.com.ph/sitelogin/spot">
-						<table>
-							<tbody><tr>								
-								<td align="left">Log in </td>
-								<td align="left"><input type="text" name="username" class="loginBox" maxlength="32" value="Username" onclick="if (this.value == 'Username') { this.value = ''; }" onblur="if (this.value == '') { this.value = 'Username'; }"></td>
-								<td align="left"><input type="password" name="password" class="loginBox" maxlength="32" value="Password" onclick="if (this.value == 'Password') { this.value = ''; }" onfocus="if (this.value == 'Password') { this.value = ''; }" onblur="if (this.value == '') { this.value = 'Password'; }"></td>
-								<td align="left" width="30">
-								<input type="hidden" name="site_code" value="spot">
-								<input type="hidden" name="btnlogin" value="login">	
-								<input type="image" src="http://www.spot.ph/webpics/images/common/login_button.jpg" onclick="this.form.submit();"> 
-							  <!--<input type="submit" name="bt_login" value="GO" />--></td>
-								<td align="left"><a href="http://www.allaccess.com.ph/spot" style="font-weight:bold;">Not yet a member? Register now</a> | <a href="http://www.allaccess.com.ph/forgotpassword/spot" style="font-weight:bold;">Forgot Password?</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="http://www.spot.ph/newtospot" style="font-weight:bold;" target="_blank"><u>New to SPOT?</u></a></td>
-							</tr>
-						</tbody></table>
-						</form>
-					</div>
-				</div>
-								
-			</div>
-			<div id="multi" style="position:absolute; left:400px; top:213px; z-index:210px; width:105px; height:31px; background-image:url(http://www.spot.ph/webpics/images/common/sub_multi_bg.png); background-repeat:no-repeat;">
-				<div align="center">					
-					<table width="100%" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td align="left"><a href="http://www.spot.ph/photos" onmouseover="turnOn('photo');"><img name="photo" id="photo" src="http://www.spot.ph/webpics/images/common/sub_photo_btn1.jpg" border="0"></a></td>
-						</tr>
-						<tr>
-							<td align="left"><a href="http://www.spot.ph/videos" onmouseover="turnOn('video');"><img name="video" id="video" src="http://www.spot.ph/webpics/images/common/sub_video_btn1.jpg" border="0"></a></td>
-						</tr>
-					</tbody></table>	
-				</div>									
-			</div>			
-			<div id="artic_div" style="position:absolute; left:473px; top:213px; z-index:210px; width:105px; height:74px; background-image:url(http://www.spot.ph/webpics/images/common/sub_article_bg.png); background-repeat:no-repeat;">
-				<div align="center">
-					<table width="100%" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td align="left"><a href="http://www.spot.ph/editors_blog" onmouseover="turnOn('editor');"><img name="editor" id="editor" src="http://www.spot.ph/webpics/images/common/sub_blog_btn1.jpg" border="0"></a></td>
-						</tr>
-						<tr>
-							<td align="left"><a href="http://www.spot.ph/editors_pick" onmouseover="turnOn('editorpick');"><img name="editorpick" id="editorpick" src="http://www.spot.ph/webpics/images/common/sub_pick_btn1.jpg" border="0"></a></td>
-						</tr>
-						<tr>
-							<td align="left"><a href="http://www.spot.ph/spot_featured" onmouseover="turnOn('featured');"><img name="featured" id="featured" src="http://www.spot.ph/webpics/images/common/sub_featured_btn1.jpg" border="0"></a></td>
-						</tr>
-						<tr>
-							<td align="left"><a href="http://www.spot.ph/hot_list" onmouseover="turnOn('citybest');"><img name="citybest" id="citybest" src="http://www.spot.ph/webpics/images/common/sub_best_btn1.jpg" border="0"></a></td>
-						</tr>
-						<tr>
-							<td align="left"><a href="http://www.spot.ph/diaries" onmouseover="turnOn('crdiaries');"><img name="crdiaries" id="crdiaries" src="http://www.spot.ph/webpics/images/common/sub_diaries_btn1.jpg" border="0"></a></td>
-						</tr>
-					</tbody></table>
-				</div>		
-			</div>
+			<div align="center" onmouseover="collapse1.slideup(); collapse2.slideup()" style="width: 1025px; height: 2px; margin: 0px 0px 0px 0px; border-bottom: #741a9e solid 8px; clear: both">&nbsp;</div>
+        	
+			<div id="v3mainmenu">
+        	<ul>
+            	<li><a href="http://www.spot.ph" onmouseover="slideup_div('home');">Home</a></li>|
+                <li><a href="http://www.spot.ph/restaurant" onmouseover="slideup_div('restaurant');">Restaurants</a></li>|
+                <li><a href="http://www.spot.ph/nightlife" onmouseover="slideup_div('night');">Night Life</a></li>|
+                <li><a href="http://www.spot.ph/all_spots" onmouseover="slideup_div('all_spots');">All Spots</a></li>|
+                <li><a href="http://www.spot.ph/reviews" onmouseover="slideup_div('reviews');">All Reviews</a></li>|
+                <li><a href="http://www.spot.ph/forum" onmouseover="slideup_div('forum');">Forum</a></li>|
+                <!--<li><a href="http://www.spot.ph/multimedia" onMouseOver="slideup_div('multimedia'); collapse1.slidedown()">Multimedia</a></li>|-->
+                <li><a href="http://blogs.spot.ph/editors_blog/" onmouseover="slideup_div('article'); collapse2.slidedown()">Articles</a></li>|
+                <li><a href="http://www.spot.ph/people" onmouseover="slideup_div('people');">People</a></li>|
+                <li><a href="http://www.spot.ph/events" onmouseover="slideup_div('event');">Events</a></li>|
+                <li><a href="http://www.spot.ph/gold_spot" style="color: #faac26">GOLD SPOTS</a></li>|      
+                <li><a href="https://www.ticketworld.com.ph/OnlineSPOT/default.asp?brand=SPOT" onmouseover="slideup_div('ticket');" style="color: #990000">Buy Show Tickets</a></li>| 
+                <li><a href="http://www.spot.ph/add_establishment" onmouseover="slideup_div('event');" style="color: #FF6600;">Add a Spot</a></li>| 
+                <li><a href="http://www.spot.ph/review" onmouseover="slideup_div('event');" style="color:#FF0000;">Write a Review</a></li>
+            </ul>
+        </div>
+        
+                <div id="v3login" onmouseover="collapse1.slideup(); collapse2.slideup()" style="background-color:#E5E5E5">
+        <form name="frm_Login" method="POST" action="http://www.allaccess.com.ph/sitelogin/spot"><b>Log in</b>&nbsp;<input type="text" name="username" class="loginBox" maxlength="32" value="Username" onclick="if (this.value == 'Username') { this.value = ''; }" onblur="if (this.value == '') { this.value = 'Username'; }">&nbsp;<input type="password" name="password" class="loginBox" maxlength="32" value="Password" onclick="if (this.value == 'Password') { this.value = ''; }" onfocus="if (this.value == 'Password') { this.value = ''; }" onblur="if (this.value == '') { this.value = 'Password'; }">&nbsp;<input type="hidden" name="site_code" value="spot"><input type="hidden" name="btnlogin" value="login"><input type="image" src="http://www.spot.ph/webpics/images/v3/redcirc.gif" style="margin-top: 2px;" onclick="this.form.submit();">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Not yet a member?</b>&nbsp;<a href="http://www.allaccess.com.ph/spot" onmouseover="javascript:showToolTip(event);" onmouseout="javascript:hideToolTip();">Register now</a>&nbsp;|&nbsp;<a href="http://www.allaccess.com.ph/forgotpassword/spot">Forgot Password?</a>&nbsp;<a href="http://www.allaccess.com.ph" target="_blank"><img src="http://www.spot.ph/webpics/images/v3/allaccess.gif" style="margin-top: 2px; margin-left: 160px;"></a>&nbsp;|&nbsp;<a target="_blank" style="font-weight: bold; color: #FF0000; text-decoration: underline;" href="http://www.spot.ph/newtospot">NEW TO SPOT?</a><div id="ToolTip" name="ToolTip" style="height: auto; position:absolute; visibility:hidden; top:180px; left:300px; width:420px; background-color:#ffffff;"></div>
+        </form>
+        </div>        
+    </div>
+    	        
+			<div id="multi" style="position:absolute; left:395px; top:195px; z-index:210px; width:105px; height:auto;">
+            <div align="center">					
+                <table width="100%" cellpadding="5" cellspacing="0" border="1" bordercolor="#741a9e" bgcolor="#DDDDDD">
+                    <tbody><tr><td align="left"><a href="http://www.spot.ph/photos">Photo Gallery</a></td></tr>
+                    <tr><td align="left"><a href="http://www.spot.ph/videos">Videos</a></td></tr>
+                </tbody></table>	
+            </div>									
+        </div>	
+        
+        <div id="artic_div" style="position:absolute; left:370px; top:201px; z-index:210px; width:105px; height:auto;">
+            <div align="center">
+                <table width="100%" cellpadding="5" cellspacing="0" border="1" bordercolor="#741a9e" bgcolor="#DDDDDD">
+                    <tbody><tr><td align="left"><a href="http://blogs.spot.ph/editors_blog/?cat=3">Editor's Blog</a></td></tr>
+                    <tr><td align="left"><a href="http://blogs.spot.ph/editors_blog/?cat=12">Editor's Pick</a></td></tr>
+                    <tr><td align="left"><a href="http://blogs.spot.ph/editors_blog/?cat=11">Spot Featured</a></td></tr>
+                    <tr><td align="left"><a href="http://blogs.spot.ph/editors_blog/?cat=14">Hot List</a></td></tr>
+                    <tr><td align="left"><a href="http://blogs.spot.ph/editors_blog/?cat=13">CR Diaries</a></td></tr>
+                </tbody></table>
+            </div>		
+        </div>
+        
+        <br><br><br>
 			<script type="text/javascript">
 				var collapse1=new animatedcollapse("multi", 50, false);				
 				var collapse2=new animatedcollapse("artic_div", 50, false);
@@ -297,7 +342,7 @@ urchinTracker();
 </script>
 <!-- END for Google Analytics -->
 <!-- Start for FOOTER -->
-			<div style="width:100%; float:left; margin-top:40px">		
+			<div style="width:1025px; float:left; margin-top:10px;">		
 				<br>
 				<hr size="5" color="#959796">
 				<div align="center" style="padding-top:10px;">
@@ -305,22 +350,8 @@ urchinTracker();
 	<table cellpadding="3" cellspacing="1">
 		<tbody><tr>
 			<td align="center">
-				<iframe src="http://204.2.168.8/deliver.nmi?zoneid=0064&amp;sid=0004" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe>
-			</td>
-			<td align="center">
-				<iframe src="http://204.2.168.8/deliver.nmi?zoneid=0071&amp;sid=0004" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe>
-			</td>
-			<td align="center">
-				<iframe src="http://204.2.168.8/deliver.nmi?zoneid=0078&amp;sid=0004" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe>
-			</td>			
-			<td align="center">
-				<iframe src="http://204.2.168.8/deliver.nmi?zoneid=0085&amp;sid=0004" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe>
-			</td>			
-			<td align="center">
-				<iframe src="http://204.2.168.8/deliver.nmi?zoneid=0092&amp;sid=0004" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe>
-			</td>			
-			<td align="center">
-				<iframe src="http://204.2.168.8/deliver.nmi?zoneid=0099&amp;sid=0004" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe>
+            	<script type="text/javascript" src="http://204.2.168.8/deliverjs.nmi?zoneid=1111&amp;sid=0004"></script>
+				<!--<iframe src='http://204.2.168.8/deliver.nmi?zoneid=1111&sid=0004' framespacing='0' frameborder='no' scrolling='no' width='728' height='90'></iframe>-->
 			</td>
 		</tr>
 	</tbody></table>
@@ -330,13 +361,15 @@ urchinTracker();
 				<div align="center" style="width:100%;">
 					<div align="center" class="footerMenu" style="padding-top:10px;">						
 						<div align="center" class="footerMenu" style="padding-top:10px;">
-							<a href="http://www.spot.ph/newtospot" style="padding:12px;">New to Spot</a>
-							<a href="http://www.spot.ph/privacy_policy" style="padding:12px;">Privacy Policy</a>
-							<a href="http://www.spot.ph/terms_of_service" style="padding:12px;">Terms of Service</a>
-							<a href="http://www.spot.ph/about_us" style="padding:12px;">About Us</a>
-							<a href="mailto:sales@spot.ph?subject=Advertise with SPOT" style="padding:12px;">Advertise with Us</a>
-							<a href="mailto:editorial@spot.ph?subject=Get Featured" style="padding:12px;">Get Featured on SPOT</a>
-							<a href="http://www.spot.ph/editors_blog" style="padding:12px;">Editor's Blog</a>
+						<a href="http://www.spot.ph/newtospot" style="padding:2px;">New to Spot</a>|
+						<a href="http://www.spot.ph/businessguide" style="padding:2px;">Business Guide</a>|
+						<a href="http://www.spot.ph/privacy_policy" style="padding:2px;">Privacy Policy</a>|
+						<a href="http://www.spot.ph/terms_of_service" style="padding:2px;">Terms of Service</a>|
+						<a href="http://blogs.spot.ph/faq/" style="padding:2px;">About Us</a>|
+						<a href="http://blogs.spot.ph/editors_blog/?cat=3" style="padding:2px;">Editor's Blog</a>|
+						<a href="http://www.spot.ph/getfeatured" style="padding:2px;">Get Featured on SPOT</a>|
+						<a href="http://www.spot.ph/advertisewithus" style="padding:2px;">Advertise with Us</a>|
+						<a href="http://www.spot.ph/ebpupgrade" style="padding:2px;">Enhanced Business Page</a>
 						</div>
 					</div>
 				</div>
@@ -347,7 +380,8 @@ urchinTracker();
 			</div>
 			<!-- End of Footer -->
 		</div>
-	</div>
-</div>
+	
+
+
 
 </body></html>
