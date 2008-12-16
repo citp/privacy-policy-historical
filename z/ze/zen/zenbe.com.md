@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zenbe.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511134401id_/http%3A//www.zenbe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenbe.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032326id_/http%3A//zenbe.com/privacy) for the most accurate reproduction.*
 
-# Zenbe: Privacy
+# Privacy Policy | Zenbe
 
 ## Privacy policy
 
@@ -40,16 +40,16 @@ Zenbe uses industry standard measures to protect the security of your informatio
 
 ### Your Choices About Your Information
 
-You may choose not to submit personally identifiable information through Zenbe, in which case Zenbe may not be able to provide certain services to you. You may update or correct your account information and preferences at any time by logging in to your account. You can review and correct the information about you that Zenbe keeps on file by contacting us directly at [support@zenbe.com](mailto:support@zenbe.com). 
+You may choose not to submit personally identifiable information through Zenbe, in which case Zenbe may not be able to provide certain services to you. You may update or correct your account information and preferences at any time by logging in to your account. You can review and correct the information about you that Zenbe keeps on file by contacting us directly at [support@zenbe.com](mailto:support@zenbe.com "support@zenbe.com"). 
 
 ### Children’s Privacy
 
-Zenbe does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Zenbe. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@zenbe.com](mailto:privacy@zenbe.com).
+Zenbe does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Zenbe. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@zenbe.com](mailto:privacy@zenbe.com "privacy@zenbe.com").
 
 ### Changes to Our Privacy Policy
 
 If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. You are bound by changes to the Privacy Policy when you use the site after those changes have been posted. 
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [privacy@zenbe.com](mailto:privacy@zenbe.com).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [privacy@zenbe.com](mailto:privacy@zenbe.com "privacy@zenbe.com").
 
 If Zenbe becomes involved in an acquisition, merger, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
