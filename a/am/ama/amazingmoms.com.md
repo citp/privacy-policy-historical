@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingmoms.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629105622id_/http%3A//corporate.kaboose.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingmoms.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015025id_/http%3A//corporate.kaboose.com/privacy.html) for the most accurate reproduction.*
 
 # Kaboose - Privacy Policy
 
@@ -146,22 +146,21 @@ Parents may contact us at privacy@kaboose.com about reviewing or deleting the in
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-California Civil Code Section 1798.83 permits Kaboose customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [click here or] send request for information to the mailing address found below. 
+California Civil Code Section 1798.83 permits Kaboose customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [click here](https://web.archive.org/web/20081216015025id_/http%3A//corporate.kaboose.com/email.php "Contact Us:: :: width: 590") or send request for information to the mailing address found below. 
 
-**CONTACTING US**
+**CONTACT US**
 
 If you have any questions about this privacy statement or the practices of this site you can contact us at:
 
 Kaboose Inc.  
-505 University Avenue  
+2200 Yonge Street,  
 Suite 1400  
-Toronto, ON  
-M5G 1X3  
+Toronto, Ontario, M4S 2C6  
 Canada  
 Telephone: 416-593-3000  
 Fax: 416-593-4658
 
-To contact Kaboose by e-mail please click here.
+To contact Kaboose by e-mail please [click here](https://web.archive.org/web/20081216015025id_/http%3A//corporate.kaboose.com/email.php "Contact Us:: :: width: 590").
 
 Kaboose hopes this document answers your questions and concerns about our privacy policies. Protecting the privacy of our visitors is vitally important to us. Kaboose reserves the right to change its privacy policies or practices at any time. When Kaboose makes any changes, it will be reflected on its updated Privacy Statement and will be posted on this page. We encourage you to periodically review this Privacy Statement.
 
