@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfish.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603162007id_/http%3A//www.adfish.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfish.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032332id_/http%3A//www.adfish.com/privacy.php) for the most accurate reproduction.*
 
 # AdFish
 
@@ -91,6 +91,8 @@ You further acknowledge that Adfish.com operates in the United States. You agree
 
 Adfish.com or its successors and assigns may amend the terms and conditions of the Privacy Policy at any time, or substitute a different Agreement by posting a revised version, on the Adfish.com Sites. Please refer to our site periodically for updates. Amendments shall become effective upon posting. As we continue to develop our business, we might sell or buy certain assets. In such transactions, customer information generally is one of the transferred business assets. If Adfish.com or its assets are acquired, customer information will of course be one of the transferred assets.
 
+We may sell, brand or share your personal information that you supply to us with other 3rd party businesses so they can bring selected retail opportunities via direct mail, e-mail or telemarketing for the privacy policy.
+
 **Contact Information:**
 
 **Redwood City Headquarters**   
@@ -98,12 +100,12 @@ Tel: 650.364.3110
 Fax: 650.364.3184 
 
 **Mailing Address**   
-Adfish.com  
+Adfish.com   
 1450 Veterans Blvd.   
 Redwood City, CA 94063 
 
-Contact Information: 
+Unsubscribe Information: 
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the Adfish email list, please visit http://www.adfish.com/optout.php or write to us at , 1450 Veterans, Redwood City, CA 94063 and request to be removed. 
+If you are not in agreement with the terms of this Policy,  please write to us at Adfish, 1450 Veterans Blvd. Suite 100, Redwood City, CA 94063 and request to be removed. 
 
-If you feel that Adfish is not abiding by its posted privacy policy, please send an e-mail to [webmaster@adfish.net](mailto:$email) or write us at Adfish, 1450 Veterans, Redwood City, CA 94063.
+If you feel that Adfish is not abiding by its posted privacy policy, please send an e-mail to [webmaster@adfish.net](mailto:webmaster@adfish.net) or write us at Adfish, 1450 Veterans Blvd. Suite 100, Redwood City, CA 94063.
