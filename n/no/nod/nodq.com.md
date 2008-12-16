@@ -1,10 +1,22 @@
-> *The following text is extracted and transformed from the nodq.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227234827id_/http%3A//www.nodq.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nodq.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012148id_/http%3A//www.nodq.com/siteinfo.shtml) for the most accurate reproduction.*
 
-# NoDQ.com > Privacy Policy
+# NoDQ.com > Site Information
 
-**[NoDQ.com](https://web.archive.org/) > Privacy Policy**
+**[NoDQ.com](https://web.archive.org/) > [Site Information](https://web.archive.org/siteinfo.shtml)**
 
-At NoDQ.com and our network of websites, we do everything we possibly can to respect your online privacy. In attempts to further make your experience at NoDQ.com more enjoyable, we provide you with our privacy statement. 
+**Legal Notice**  
+NoDQ.com is not affiliated nor associated with WWE, TNA, UFC, or any other wrestling/MMA organizations. This is a fan-created website. 
+
+Unless otherwise stated, any original content on NoDQ.com (including HTML, graphics, etc) may not be used without proper credit. 
+
+All trademarks, service marks and logos used on the NoDQ.com website belong to their respective owners. 
+
+By submitting any "Content" (information, forum posts, links, feedback, content, etc) to NoDQ.com or any NoDQ.com staff member; you retain the ownership of that content and face any legal consequences yourself, as you are the owner of that information. Further, by submitting Content to NoDQ.com or any NoDQ.com staff member, you acknowledge that you have the knowledge of what you are submitting and are willing to face legal consequences for what is submitted. You retain ownership of any copyrights of all content you submit. If the submitted Content includes information or source code which is in any way objectionable or harmful, our staff shall have the right to analyze, summarize, and report on this information as we see fit. 
+
+* * *
+
+**Privacy Policy**  
+At NoDQ.com, we do everything we possibly can to respect your online privacy. In attempts to further make your experience at NoDQ.com more enjoyable, we provide you with our privacy statement. 
 
 Here on this site, we collect both anonymous and personal data. Anonymous being that we have no way to truely identify you with this information unless we really knew you well. We collect data such as your IP address/hostmask, what kind of web browser you use, what kind of resolution you're viewing the site in, and other technical information so we can better design this site for your technological capabilities. We do this through AddFreeStats, plus none of the information we collect can personally identify you at all. 
 
@@ -13,3 +25,8 @@ The personal data we retain is only through methods that you condone or "Opt-in"
 We are not responsible for any personal information you decide to make public through our message board or our chat room services. What you release on those services is of your own responsibility and liability. 
 
 We at NoDQ.com thank you for using our services, and hope to continue to provide you with A+ class service as long as we are able to! 
+
+* * *
+
+**Submit Feedback**  
+|    | 
