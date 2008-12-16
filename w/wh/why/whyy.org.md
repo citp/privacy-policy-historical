@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whyy.org privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616011328id_/http%3A//www.whyy.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whyy.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024100id_/http%3A//www.whyy.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About | WHYY
 
