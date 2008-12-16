@@ -1,23 +1,12 @@
-> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529043526id_/http%3A//www.models.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170103id_/http%3A//www.models.com/company/privacy.html) for the most accurate reproduction.*
 
 # MODELS.com - Privacy Statement
 
-|  [](https://www.scanalert.com/RatingVerify?ref=models.com) _Click on the HackerSafe seal above to verify MODELS.com is HackerSafe certified_ | 
+|  [](https://www.scanalert.com/RatingVerify?ref=models.com) _Click on the McAfee seal above to verify MODELS.com is McAfee certified_ | 
 
-MODELS.com is a Certified HackerSafe Web site 
+MODELS.com is tested and certified daily to pass the McAfee secure site seal
 
-This confirms that the MODELS.com web site is tested and certified **daily** to pass the **FBI/SANS Internet Security Test**. The "live" HACKER SAFE mark appears only when a web site's current security status meets the **highest security scanning standards of the U.S. government, Visa, MasterCard, American Express, Discover and JCB**.   
-  
-  
-  
----|---  
-_Click on the BBBOnLine seal above to verify MODELS.com's seal_ | 
-
-MODELS.com   
-is a Certified Participant of  
-the **BBBOnLine** ® Privacy Program
-
-This confirms that the information practices of MODELS.com have been reviewed and meet the standards of the Council of **Better Business Bureaus** ' BBBOnLine Privacy Program.   
+This confirms that the MODELS.com web site is tested and certified **daily** to pass the **FBI/SANS Internet Security Test**. The "live" McAfee mark appears only when a web site's current security status meets the **highest security scanning standards of the U.S. government, Visa, MasterCard, American Express, Discover and JCB**.   
   
   
   
