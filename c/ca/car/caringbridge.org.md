@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623073827id_/http%3A//www.caringbridge.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216040756id_/http%3A//www.caringbridge.org/privacy) for the most accurate reproduction.*
 
 # CaringBridge Privacy Policy.
 
@@ -186,8 +186,8 @@ If you have any questions about this Privacy Policy or concerns about the way Ca
 
   * CaringBridge 
   * Attn: Privacy Concerns
-  * 1995 Rahn Cliff Court, Suite 200 
-  * Eagan, MN 55122 
+  * 1715 Yankee Doodle Road, Suite 301
+  * Eagan, MN 55121
 
 
 
