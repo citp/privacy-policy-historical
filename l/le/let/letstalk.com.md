@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517085700id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013052id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -86,7 +86,7 @@ Although LetsTalk cookies cannot harm your computer and do not contain any perso
 How to enable session cookies:  
 (If you do not know your browser version, click on help in your browser menu and then click the About... option) 
 
-[Microsoft](http://www.letstalk.com/product/browse.htm?pgId=100&tNav=1&paId=2088) Internet Explorer 6.0 and 7.0  
+Microsoft Internet Explorer 6.0 and 7.0  
 
 
   * Select Tools -> Internet Options and click on the "Privacy" tab. 
@@ -97,7 +97,7 @@ How to enable session cookies:
 
 
 
-[Microsoft](http://www.letstalk.com/product/browse.htm?pgId=100&tNav=1&paId=2088) Internet Explorer 5.0  
+Microsoft Internet Explorer 5.0  
 
 
   * Select Tools -> Internet Options and click on the "Security" tab. 
@@ -163,7 +163,7 @@ Opera 9.2
 
 Addtionally, this version of Opera allows you to set different settings for different sites. If you want to set a custom setting for Letstalk that will not override settings that you currently have for other sites: 
   * Under header "Cookie settings can be adapted to each site" -> Manage Cookies 
-  * Click on "Add..." button -> General tab. In the "Site" filed, type "http://[www.letstalk.com](http://www.letstalk.com/product/browse.htm?pgId=100&tNav=1)". Click on Cookies tab 
+  * Click on "Add..." button -> General tab. In the "Site" filed, type "http://www.letstalk.com". Click on Cookies tab 
   * Select radio button "Accept only cookies from the site I visit" 
   * You may also check the box underneath that says "Delete new cookies when exiting Opera" 
   * Click OK 
