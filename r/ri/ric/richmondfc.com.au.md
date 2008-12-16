@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the richmondfc.com.au privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210194457id_/http%3A//www.afl.com.au/Hidden/Privacy/tabid/8780/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richmondfc.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013842id_/http%3A//www.afl.com.au/Hidden/Privacy/tabid/8780/Default.aspx) for the most accurate reproduction.*
 
 # Privacy - Official Website of the Australian Football League
 
-**AFL TELSTRA NETWORK PRIVACY STATEMENT**
+### Privacy Statement
+
+ **AFL TELSTRA NETWORK PRIVACY STATEMENT**
 
 Welcome to the AFL Telstra Network ("AFLTN").
 
