@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515220738id_/http%3A//www.studica.com/support/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161834id_/http%3A//www.studica.com/support/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Studica.com - Student Software Discounts, academic software at reduced prices up to 80% off retail.
 
@@ -7,8 +7,6 @@
 Fax | (877) 754-2807  
   
 
-
-[](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.STUDICA.COM&lang=en)
 
 [](https://www.scanalert.com/RatingVerify?ref=www.studica.com)   
 **Studica Privacy Policy**
