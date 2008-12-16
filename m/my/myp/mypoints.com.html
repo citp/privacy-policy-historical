@@ -1,0 +1,829 @@
+<!--The following is the downloaded HTML source of the mypoints.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216162808id_/http%3A//www.mypoints.com/emp/u/privacy.vm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+
+
+
+
+
+<title></title>
+
+  <link rel="stylesheet" type="text/css" href="/CSS/template.css">
+  <link rel="stylesheet" type="text/css" href="/CSS/lightbox.css" media="screen,projection">
+  <link rel="stylesheet" type="text/css" href="/CSS/lightboxContent.css">
+  <link rel="stylesheet" type="text/css" href="/CSS/headerMod.css">
+  <link rel="stylesheet" type="text/css" href="/CSS/autocomplete.css">
+  
+
+
+
+
+<script type="text/javascript">
+var lbInitialized = false;
+
+function owin(v){
+	window.open(v,'_blank');
+	exLightBox.deactivate();
+}
+
+function flSplash(occ){
+	var flof= new Object();
+	flof.rel = 'insert';
+	flof.href = '/emp/u/lb/splash.vm?openTop=true&cell='+occ;
+	exLightBox = new lightbox(flof);
+	exLightBox.activate();
+}
+
+function quickClickers(evt){
+  var clicked = Event.element(evt);
+	if( clicked.hasClassName('lbOn') && !lbInitialized ){
+	  Event.stop(evt)
+	}
+
+	var clickedAncestors = clicked.ancestors();
+	for ( var i=0; i < clickedAncestors.size(); i++ ){
+	  if (clickedAncestors[i].hasClassName('lbOn') && !lbInitialized){
+	    Event.stop(evt)
+	  }
+	}
+}
+
+
+function extLtOffer(myUrlOffer){
+	var flof= new Object();
+	flof.rel = 'insert';
+	flof.href = '/emp/u/lb/splash.vm?cell='+myUrlOffer;
+	var exLightBox = new lightbox(flof);
+	exLightBox.activate();
+}
+
+function focusInt(thisForm){
+	Form.focusFirstElement(thisForm);
+}
+	var sFormIs = "";
+	var fNameIs = "";
+	var 	lNameIs = "";
+	var 	eMailIs = "";
+	var 	zipIs = "";
+	var 	genderCodeIs = "";
+	var 	bMonthIs = "";
+	var 	bDayIs = "";
+	var 	bYearIs = "";
+	var vpg = "false";
+function passAlong(frmIs){
+		sFormIs = $(frmIs);
+		fNameIs = $F('fname');
+	lNameIs = $F('lname');
+	eMailIs = $F('email');
+	zipIs = $F('zip');
+	genderCodeIs = $F('genderCode');
+	bMonthIs = $F('birthDateMonth');
+	bDayIs = $F('birthDateDay');
+	bYearIs = $F('birthDateYear');
+		var clX = $('clsSignUp');
+	var ccX = new lightbox(clX);
+	ccX.deactivate();
+	vpg = "true";
+	var tosIt = new Object();
+	tosIt.rel = 'insert';
+	tosIt.href = '/emp/u/lb/terms.vm';
+		var tosLightBox = new lightbox(tosIt);
+	tosLightBox.activate();
+}
+
+function lbNormal(clsX){
+	var clsIt = new Object();
+	clsIt.rel = 'deactivate';
+	var clsLb = new lightbox(clsIt);
+	clsLb.deactivate();
+	if(vpg=="true"){
+	vpg = "false";
+	exJoin('flasignup');
+	}
+}
+
+function exJoin(ex) {
+	var flas= new Object();
+	flas.rel = 'insert';
+	flas.href = '/emp/u/lb/join.vm';
+	var exLightBox = new lightbox(flas);
+	exLightBox.activate();
+}
+
+
+function initialize(){
+  // Initialize our lightboxes
+	addLightboxMarkup();
+	lbox = document.getElementsByClassName('lbOn');
+	for(i = 0; i < lbox.length; i++) {
+		valid = new lightbox(lbox[i]);
+	}
+
+
+  	
+
+
+
+
+
+	lbInitialized = true;
+}
+// Required Flash Version
+var requiredMajorVersion = 7;
+var requiredMinorVersion = 6;
+var requiredRevision = 0;
+</script>
+
+<script type="text/javascript" src="/js/lib/prototype.js"></script>
+<script type="text/javascript" src="/js/lib/scriptaculous.js"></script><script type="text/javascript" src="https://web.archive.org/js/lib/builder.js"></script><script type="text/javascript" src="https://web.archive.org/js/lib/effects.js"></script><script type="text/javascript" src="https://web.archive.org/js/lib/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/js/lib/controls.js"></script><script type="text/javascript" src="https://web.archive.org/js/lib/slider.js"></script>
+<script type="text/javascript" src="/js/lib/lightbox.js"></script>
+<script type="text/javascript" src="/js/lib/forms.js"></script>
+<script type="text/javascript" src="/js/detectIE.js"></script>
+<script type="text/javascript" src="/js/search.js"></script>
+<script type="text/javascript" src="/js/ac.js"></script>
+<script type="text/javascript" src="/js/formatDate.js"></script>
+<script type="text/javascript" src="/js/messageCenter.js"></script>
+<script type="text/javascript" src="/js/AC_RunActiveContent.js"></script>
+
+
+<script type="text/javascript" src="/js/BillDortch.js"></script>
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+
+
+
+	
+<div id="bubble" class="bubbleFormat bubblePosi">
+<div class="bubbleBack"><img id="bubbleBg" src="/images/clr.gif"></div>
+<div id="bubbleCopy" style="font-size:11px; position:absolute; top:0px; left:0px; z-index:2; width:200px; padding:5px 0px 0px 3px;"></div>
+</div>
+<div id="container">
+		<div id="header">
+		<div id="utilities" style="background: url(/z/a/62501/920x25_XmasHdr.jpg) top left no-repeat;">
+															<p>Already a member? <a href="/emp/u/login.do?rloc=%2Femp%2Fu%2Fprivacy.vm%3F">Sign In</a></p>
+			<h1><a href="/emp/u/index.vm" style="background: none;">MyPoints</a></h1>
+			<a id="signup" href="/emp/u/signup.do" class="">Join Now!</a>
+			<h2><span class="name">Welcome, Shopper.</span> <span class="points">Get Rewarded.</span></h2>
+				</div>
+		<div id="navigation">
+			<ul id="mainNav">
+				<li><a class="link1 " href="/emp/u/index.vm">My Home</a></li>
+				<li><a class="link2 " href="/emp/u/shop.vm">Shop</a></li>
+				<li><a class="link3 " href="/emp/u/rewards.vm">Rewards</a></li>
+								<li><a class="link5 " href="/emp/u/promos/winahome/homefortheholidays.vm">Holiday</a></li>
+							</ul>
+			<ul id="subNav">
+				<li><a class="link1 " href="/emp/u/learnMore.vm">Learn More</a></li>
+				<li><a class="link2 " href="/emp/u/easyPoints.vm">Easy Points</a></li>
+				<li><a class="link3 " href="/emp/u/raf.do">Refer-a-Friend</a></li>
+							</ul>
+		</div>
+		
+<script>
+var dt;
+var arr = new Array();
+var urlT = "/emp/u/data/acData.vm";
+new Ajax.Request(urlT, {
+method: 'get',
+parameters: '',
+onComplete: parseJSON,
+onFailure: function(request){alert(request.responseText);}
+});
+
+function parseJSON(request){
+	dataResponse = request.responseText;
+	dt = eval("(" + dataResponse + ")");
+	for(i=0; i < dt.datas.length; i++)
+		arr.push(dt.datas[i].data);
+}
+</script>
+
+<script>
+merchant_search_ac = xml_tst = null;
+
+function create_merchant_search_ac()
+{
+if (merchant_search_ac != null) return;
+var options = {
+		script:'',
+		varname:'input',
+		json:true,
+		shownoresults:true,
+		maxresults:16,
+		callback: function (obj) { }
+		};
+merchant_search_ac = new AutoComplete('keywords',options);return true;
+}
+
+</script>
+
+
+<script type="text/javascript">
+//INIT THE PRIMARY FORM AND DEFAULT SELECTED OPTION
+var mptFormLoader = function(){
+  var currentSearchType = new initSearchType(
+  {
+  	fElemForm:"globalsearchform",
+  	fElemId:"globalsearchlabel1",
+  	fElemHInput:"mypOffers",
+  	fElemLabel:"Search Merchant"
+  }
+  );
+}
+
+bubbleBG = new Image();
+bubbleBG.src = "/z/a/60314/dnt_fgt_search_bubble.gif";
+bubbleText = "Don't forget to log in so you can earn <b>Points</b> for your searches.";
+//$('bubbleBg').src = bubbleBG.src;
+var bubbleToggle = Class.create();
+bubbleToggle.prototype={
+	initialize:function(id,tw,th,cX,cY){
+		hId = id;
+		hWVal = tw;
+		hHVal = th;
+		xVal = cX;
+		yVal = cY;
+		bub = $('bubble');
+	},
+	initBubble:function(){
+		$('bubbleBg').src = bubbleBG.src;
+		bBgH = $('bubbleBg').getHeight();
+		$('bubbleCopy').innerHTML = bubbleText;
+		bub.setStyle({
+			visibility:"visible",
+			top:yVal-bBgH-5+'px',
+			left:xVal-50+'px'
+		});
+	}
+}
+function attachBubbles(){
+	infoItems = $$('a.bInfo');
+	infoItems.each(function(items){
+		Event.observe(items.id,'mouseover',objOnBubble.onFunc);
+		Event.observe(items.id,'mouseout',objOffBubble.offFunc);
+	})
+}
+var objOnBubble = {
+	bubbleFunc:function(event){
+	handler = Event.element(event);
+	hW = handler.getWidth();
+	hH = handler.getHeight();
+	var showBubble = new bubbleToggle(handler.id,hW,hH,Event.pointerX(event),Event.pointerY(event));
+	showBubble.initBubble();
+	}
+}
+var objOffBubble = {
+	bubbleFunc:function(event){
+	$('bubble').setStyle({
+			visibility:"hidden",
+			top:0+"px",
+			left:0+"px"
+		});
+	}
+}
+objOnBubble.onFunc=objOnBubble.bubbleFunc.bindAsEventListener(objOnBubble);
+objOffBubble.offFunc=objOffBubble.bubbleFunc.bindAsEventListener(objOffBubble);
+Event.observe(window,'load',attachBubbles,false);
+
+Event.observe(window,'load',mptFormLoader,false);
+
+</script>
+<div id="searchbar">
+<form id="globalsearchform" action="/emp/u/myoffers.vm" method="get" target="_top">
+<label>What are you looking for?</label>
+<ul>
+			<li><a id="globalsearchlabel1" href="javascript:void(0)" onclick="mptOptionSelect(this,'globalsearch','mypOffers');">Merchant</a></li>
+	<li><a id="globalsearchlabel2" href="javascript:void(0)" class="bInfo" onclick="mptOptionSelect(this,'globalsearch','mypWeb');">Web</a></li>
+</ul>
+<br>
+<!-- <input type="text" name="q" id="keywords" value="" /> -->
+<input type="text" name="q" id="keywords" value="" onfocus="javascript:create_merchant_search_ac();" autocomplete="off">
+<button id="globalSearchLabel" class="buttonBright" onclick="doSearch();">Search Merchant</button>
+<br clear="all">
+</form>
+</div>
+<div style="display:block;margin-top:-16px;">
+<span class="ac_holder" style="margin-left:100px;">
+<!-- <input style="width: 200px" type="text" id="test_json" onFocus="javascript:create_json_tst();" value="" /> -->
+</span><span id="json_info"></span>
+</div>
+
+				
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+									
+		  
+
+
+  		
+
+
+
+  	
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+			
+      
+
+
+
+			
+
+
+		 	
+	    
+					
+
+							</div>
+	<div id="canvas">
+		<div id="mainCol">
+			
+
+
+
+
+
+
+
+
+
+    				
+	  				
+	
+
+
+
+    
+  
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+	
+
+
+
+					
+
+
+  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
+
+
+  	
+
+
+
+							
+<div class="module fixed content" id="">
+	
+
+
+<b>MyPoints Privacy Policy</b><br>
+<span class="subHead">Last Updated 03/07/06</span>
+<br><br>
+<a href="http://www.truste.org/ivalidate.php?url=www.mypoints.com&amp;sealid=101" target="new"><img src="/images/g/clickseal.gif" style="display:block; float:right; border:0px;"></a>
+MyPoints.com, Inc. is committed to protecting your privacy. This Privacy Policy applies to MyPoints.com and governs data collection and usage including MyPoints website and email services. This Privacy Policy is effective upon acceptance in registration for new registering members, and is otherwise effective on June 6, 2005 for all MyPoints members.
+<br><br>
+We firmly believe that both our Members and our clients benefit because we market only to people who have given us express permission to do so.
+<br><br>
+While the word "privacy" may mean different things to different people, we believe that once you understand how we use your information, the steps we take to protect it, and the resulting benefit to you, you will not only feel confident when sharing information with us, but will also find your participation in the program a most rewarding experience.
+<br><br>
+<b>Collection of Information</b><br>
+MyPoints collects both personal and non-personal information using the methods listed below. Our primary purpose in collecting such information is to provide you with a personalized MyPoints experience by displaying content and delivering offers that are likely to be of interest to you according to your preferences.
+<br><br>
+<b>Information Collected at Registration</b><br>
+To take advantage of the offers available at MyPoints, you must register for our service and become a MyPoints Member. MyPoints collects personal information when you register with us and when you use MyPoints services. MyPoints may combine information about you that we have with information we obtain from business partners or companies. During registration, we require members to give us basic contact information (such as your first name, last name and e-mail address) and demographic information (such as your zip code, age and gender). The registration form information requests may change from time to time. Although additional demographic information may be requested at the time of registration, only information marked "required" is necessary for registration and utilization of our services. Once you register with MyPoints, you are not anonymous to us.
+<br><br>
+We do not accept registrations from persons under the age of eighteen. The MyPoints Program is available only to persons who are eighteen years of age and over. The site will automatically block enrollment of any person once they indicate they are under the age of eighteen. If we later learn that a user is under the age of eighteen, we will terminate the account and delete the user's information. Inherent in the Program is the responsibility of parents and/or guardians to ensure that their children's privacy is protected. MyPoints.com will not be liable for any content or advertisements viewed by minor children in violation of the terms of this agreement.
+<br><br>
+<b>Information Collected though Participation in the MyPoints Program</b><br>
+When you sign in to the MyPoints® website, the server automatically recognizes you by your cookie. This cookie acts as a unique identifier, which allows us to personalize the website to your specified interests and allows you to access your personal information. It also allows us to keep track of your activity on our site and allows us to properly credit Points to your account. This information may be added to your personal profile and used to deliver offers and advertisements that are most relevant to your interests.
+<br><br>
+The program makes active use of third-party cookies; therefore, full participation in the Program is dependent upon you setting your browser configuration to accept third-party cookies.
+We also use cookies to tailor the program to your interests and, most importantly, to ensure that only you can access your account. We also review "log-file" data to monitor site performance and analyze traffic patterns and usage of our site.
+<br><br>
+MyPoints also retrieves the following information from your browser:
+<ul>
+<li>Your browser type (e.g., Internet Explorer 6.0)</li>
+<li>Platform-dependent information (e.g., Win 2002)</li>
+<li>Requested document (the page you're looking at)</li>
+<li>Referrer URL (the page you came from if within the MyPoints.com site)</li>
+<li>Date and time of your visit</li>
+<li>Your registered MyPoints®  account information</li>
+<li>Purchase transaction detail (from merchants on the MyPoints.com site)</li>
+<li>IP address associated with member transaction in the system</li>
+</ul>
+Additionally, for each visitor to our website, our server automatically recognizes the following:
+<ul>
+<li>Host origin of the request (your IP address or that of your ISP if using proxy servers)</li>
+<li>Requested document (the page you're looking at)</li>
+<li>Referrer URL (the page you came from if within the MyPoints.com site)</li>
+<li>Your registered MyPoints. account information </li>
+<li>Date and time of your visit</li>
+</ul>
+This information, sometimes called log-file or clickstream data, is used to monitor site performance and ensure the Program functions properly. It may also be appended to your personal profile so that we may further tailor the Program to your interests.
+<br><br>
+Many of MyPoints advertisers, shopping affiliates and merchants also utilize third-party cookies to identify you as a MyPoints member. This enables them to report your purchases back to MyPoints so we are able to credit your account with Points.
+<br><br>
+We and our advertisers currently use third-party cookies and clear pixel GIFs (also referred to as "web beacons") to measure page views on both MyPoints and advertisers' web sites and email responses.  These devices allow us to identify unique visitors to MyPoints' site, member visits to advertisers' sites, and act as a counter for ongoing monitoring of site, email and corresponding future transaction activity related to a specific offer for both MyPoints.com and its advertisers. These commonly used counters collect absolutely no personal information and, as always, this technology is only used to enhance the program and make it more relevant to your personal interests.
+<br><br>
+Third-party cookies are also used to count unique page views, email responses and future transaction activity corresponding to specific offers.   MyPoints will also capture and store your transaction details, which may include the items and quantities purchased, purchase price, date and time of purchase. This information is used to credit Points for purchases and to adjust your account balance in the event of returns and exchanges.  This information is also used by the Member Services department while assisting you in resolving account inquiries.  We may also use your transaction information to provide you more timely relevant offers, products and services.
+<br><br>
+<b>Information Collected Via Online Surveys, Sweepstakes and Other Promotions</b><br>
+From time to time we may provide you the opportunity to participate in contests, sweepstakes or surveys.  If you choose to participate, we will request certain personally identifiable information from you.  Participation in these surveys or contests is completely voluntary and you therefore have a choice as to whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address) and demographic information (such as gender and zip code).
+<br><br>
+We use this information to notify contest winners and award prizes.  We may also use the information gathered to better personalize your MyPoints program experience.
+<br><br>
+We may use a third party service provider to conduct these surveys, contests and sweepstakes.  That company is prohibited from using your personally identifiable information for any other purpose.  We will not share the personally identifiable information you provide through a contest, sweepstakes or survey with any third party unless we give you prior notice and choice.
+<br><br>
+<b>Use and Disclosure of Personal Information</b><br>
+We do not rent or sell your personal information to anyone without your express consent.  When we do share data with our advertisers it is in aggregate form and is designed to ensure you are not identified personally.  In order to provide you with information about offers and services you have indicated an interest in, we may provide certain of your personal information to specific advertisers to allow them to provide information about the offer or service to you in the most convenient and meaningful form. Also, by participating in an advertiser's offer, you are authorizing us to share your relevant personal information with the advertiser responsible for the offer.  In the event either we or a participating advertiser are unable to capture your transaction detail, we may need to provide certain of your personal information to the advertiser to validate your transaction with them to ensure that your account is credited with the correct number of points. However, before any personal information is provided to an advertiser for any such purpose, the advertiser will be contractually bound to observe the strict requirements of the MyPoints Privacy Policy.
+<br><br>
+MyPoints engages in email and direct mail marketing. Because email is an integral part of the program, you sign up to receive email targeted to your interests at the time of registration. If you later decide you wish to cease participation in this portion of the program, you may do so at any time on this page: <a href="/emp/u/unsubscribe.do">https://www.mypoints.com/emp/u/unsubscribe.do</a>.  To further ensure we have your consent, we make sure each e-mail we send you contains an additional opportunity to "opt out" of receiving future e-mails. If you are not interested in receiving either e-mail or direct mail marketing, you may choose to opt out from receiving the e-mail or close your membership.
+<br><br>
+Although we house our data in the United States, it is possible that some of our data processing may occur outside of the United States. While the data protection laws of these countries may vary, we will make every reasonable effort to protect your information based upon the express terms of this Privacy Promise. By enrolling in the program, you consent to this transfer of your personal data.
+<br><br>
+As long as you remain a MyPoints member, opting not to receive email does not exempt you from receiving administrative emails, which include, but are not limited to, notices about vital program and membership status changes or alterations to our Terms of Service.
+<br><br>
+<b>Access to Personally Identifiable Information</b><br>
+If your personally identifiable information changes or if you no longer desire our service, you may correct, update, or delete it by making a change on the <a href="member/">Update My Account</a> page, by closing your account here: <a href="/emp/u/closeAccount.do">http://wwww.mypoints.com/emp/u/closeAccount.do</a>, or by writing:
+<br><br>
+MyPoints Member Services<br>
+525 Market Street, Suite 3400<br>San Francisco, CA 94105
+<br><br>
+<b>Member Communications and Email</b><br>
+MyPoints employs a strict policy against sending unsolicited email.  Because email is an integral part of the program, you sign up to receive email targeted to your interests at the time of enrollment. If you later decide you wish to cease participation in this portion of the program, you may do so at any time by adjusting your email settings in the <a href="editProfile.do">Edit Account Information</a> section of your account or by clicking on the opt-out links contained within each MyPoints email or by sending an email to
+<a href="mailto:unsubscribe@mypoints.com">unsubscribe@mypoints.com</a>.
+<br><br>
+Please note that opting not to receive email does not exempt you from receiving administrative emails that include but are not limited to, notices about vital program and membership status changes, Privacy Policy and Terms of Service updates and purchase and redemption confirmation emails.
+<br><br>
+Members may also receive MyPoints program offers via telephone or postal mail.  We contact you with offers we think you are interested in.  Members may opt out of either or both of these communications by sending a request to <a href="mailto:memberservices@mypoints.com">memberservices@mypoints.com</a>.
+<br><br>
+Our Member Services Department may contact you in response to your inquiries, to provide services at your request and to manage your account.  We will communicate with you by email, telephone or fax in accordance with your wishes.
+<br><br>
+<b>MyPoints Advertisers and 3rd Party Websites</b><br>
+The MyPoints website and emails contain links to various other sites.  While MyPoints makes every effort to ensure that our advertisers post clear and complete Privacy Policies and observe appropriate data practices, each of these sites has a privacy policy that may differ from that of MyPoints.  The privacy practices of other websites and companies are not covered by this policy.
+<br><br>
+Except as specifically set forth below, it is our policy not to provide your personally identifiable information to our advertisers unless you make the choice to share it with them.  We occasionally pass personally identifiable information via a secure interface to certain of our advertisers for the purpose of making it easier for you to sign up for their offers.  However, this information is only to be used by the advertiser if you agree to submit the information to the advertiser for the purposes of completing an offer.
+<br><br>
+We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
+<br><br>
+In the event that we were unable to capture your transaction detail, MyPoints may need to validate your transaction with an advertiser or merchant partner to ensure that your account is credited with the correct number of Points. The validation information shared is used solely for this purpose and may include your first name, last name, email address, mailing address or date of birth.  We will require that these third parties comply with the information practices set forth in this Privacy Promise and that the information not be shared or used for any other purpose.
+<br><br>
+We may share non-personally identifiable information collected via the program in aggregate, anonymous form with advertisers or other third parties so that they may better evaluate what products and services are most appealing to different segments of our member base.  We do not disclose your first name, last name, address, email address, or any other personally identifiable information to these third parties unless you give your express consent.
+<br><br>
+We occasionally send the information we gather about our members to trusted third-party data processors to organize, process and/or analyze the data on our behalf.  We use this information to enhance our program offerings, namely to tailor advertisements, updates, and offers to your particular interests and to ensure that your opt-out requests are honored.  All such third-party data processors are prohibited from using your personal information except to provide these services to MyPoints.  They are contractually bound to observe the strict policy stated herein, so you can rest assured that the confidentiality of your personally identifiable information will be maintained.
+<br><br>
+<b>Data Verification and Supplementation</b><br>
+Data verification involves the use of third-party data processing services to standardize and clean your provided enrollment information so that it is easily identified and accessed in our database. Data supplementation involves appending any publicly available information about you to your personal profile.
+<br><br>
+In order to provide you with the most rewarding experience, we might send your information to data processors so that they can clean your address and standardize to ensure it is most accurate and up-to-date. Next, we might seek out any information about you that is publicly available on the open market and overlay this data onto ours for comparison purposes. Information collected in this manner could include your spending habits from a mail-order catalogue, demographic information you provided in entering a sweepstakes, or your financial history. All of this results in a program that is tailored to your personal interests and provides you with the most relevant Point-earning opportunities.
+<br><br>
+We use this information solely for the purpose of enhancing the offerings of the MyPoints Program, namely to tailor advertisements, updates, and Point-earning and spending offers to your particular interests. All such third-party data processors are contractually bound to observe the strict policy stated herein, so you can rest assured that the confidentiality of your personal information will be maintained.
+<br><br>
+<b>Security</b><br>
+MyPoints.com has established company-wide security practices for your protection. These practices include, but are not limited to, firewall security, the use of appropriate encryption technology, and the use of multiple levels of password security to limit access to data on a "need-to-know" basis.
+<br><br>
+We may use contractors or vendors to help us provide some of the services at our site.  If we disclose personal information for them to provide the services, it is with the requirement that the information is kept confidential and used only for those services.  All contractors and employees are required to familiarize themselves with, and abide by, these safeguards.
+<br><br>
+<b>Changes to this Privacy Policy</b><br>
+We may amend this policy from time to time. If we make any material changes in the way we use your personally identifiable information collected at this site (<a href="http://www.mypoints.com">www.mypoints.com</a>) we will notify you by email and at the top of this Privacy Policy web page.  For questions and concerns about the information collected or used at this site, please contact <a href="mailto:memberservices@mypoints.com">memberservices@mypoints.com</a>.
+<br><br>
+<b>Contact Us</b><br>
+If you have any questions or suggestions regarding our privacy policy, please contact us at <a href="mailto:memberservices@mypoints.com">memberservices@mypoints.com</a> or at:
+<br><br>
+MyPoints.com<br>
+Attention: Member Services (Privacy)<br>
+525 Market Street, Suite 3400<br>San Francisco, CA 94105
+
+
+</div>
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+		<div id="sideCol">
+		  
+
+<script type="text/javascript" src="/js/webPoll.js"></script>
+
+
+
+
+ 
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+		
+		
+	
+
+
+
+
+ 
+
+  		
+
+  
+
+			  		
+
+  
+
+			
+  
+
+  
+
+  
+
+
+
+
+
+
+
+  	  
+
+
+
+
+
+
+
+  	   
+
+
+
+
+
+
+ 
+  		
+
+  
+
+			  		
+
+  
+
+			
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+      
+
+
+
+
+
+		</div>
+	</div>
+
+     
+
+
+
+	<div id="footer">
+		<ul>
+			<li><a href="http://www.classmatesmedia.com/company/info.jsp">Company</a></li>
+			<li><a href="http://www.mypointscorp.com">Advertise With Us</a></li>
+			<li><a href="https://jobs-untd.icims.com/untd_jobs/jobs/candidate/jobs.jsp?ss=1&amp;searchKeyword=MyPoints">Careers</a></li>
+			<li><a href="/emp/u/privacy.vm">Privacy Policy</a></li>
+			<li><a href="/emp/u/terms.vm">Terms of Service</a></li>
+			<li><a href="/emp/u/affiliates.vm">Affiliates</a></li>
+			<!--li><a href="/emp/u/sitemap.vm">Site Map</a></li-->
+			<!--li><a href="http://www.irconnect.com/untd/pages/icontacts.html">Contact Us</a></li-->
+			<li><a href="/emp/u/help.vm">Assistance</a></li>
+						<li class="button"><a class="btn" href="/emp/u/signup.do?campaign=">Join Now</a></li>
+					</ul>
+		<table class="globalfooter_outside">
+			<tbody><tr>
+				<td class="globalfooter">
+				<table class="globalfooter_inside">
+				<tbody><tr>
+				<td><a href="http://www.untd.com" target="_blank"><img src="/images/template/footer/footer_uol.gif" border="0"></a></td>
+
+				<td rowspan="2" width="1"><img src="/images/template/footer/spacer2.gif"></td>
+				<td><a href="http://www.ftd.com/15868" target="_blank"><img src="/images/template/footer/footer_ftd.gif" border="0"></a></td>
+
+				<td rowspan="2" width="1"><img src="/images/template/footer/spacer.gif"></td>
+				<td><a href="http://www.classmates.com" target="_blank"><img src="/images/template/footer/footer_classmates.gif" border="0"></a></td>
+				<td rowspan="2" width="1"><img src="/images/template/footer/spacer.gif"></td>
+				<td><a href="http://www.mypoints.com"><img src="/images/template/footer/footer_mypoints.gif" border="0"></a></td>
+				<td rowspan="2" width="1"><img src="/images/template/footer/spacer.gif"></td>
+				<td><a href="http://www.netzero.net" target="_blank"><img src="/images/template/footer/footer_nz.gif" border="0"></a></td>
+				<td rowspan="2" width="1"><img src="/images/template/footer/spacer.gif"></td>
+				<td><a href="http://www.juno.com" target="_blank"><img src="/images/template/footer/footer_ju.gif" border="0"></a></td>
+				<td rowspan="2" width="1"><img src="/images/template/footer/spacer.gif"></td>
+				<td><a href="http://www.mysite.com" target="_blank"><img src="/images/template/footer/footer_mysite.gif" border="0"></a></td>
+                <td rowspan="2" width="1"><img src="/images/template/footer/spacer.gif"></td>
+				<td><a href="http://www.freeinternet.com" target="_blank"><img src="/images/template/footer/footer_freeinternet.gif" border="0"></a></td>
+
+
+
+				</tr>
+				<tr>
+				<td align="center"><div id="globalfooter"><a href="http://www.untd.com" target="_blank">United Online</a></div></td>
+				<td align="center"><div id="globalfooter"><a href="http://www.ftd.com/15868" target="_blank">FTD</a></div></td>
+                <td align="center"><div id="globalfooter"><a href="http://www.classmates.com" target="_blank">Classmates</a></div></td>
+				<td align="center"><div id="globalfooter"><a href="http://www.mypoints.com">MyPoints</a></div></td>
+				<td align="center"><div id="globalfooter"><a href="http://www.netzero.net" target="_blank">NetZero</a></div></td>
+				<td align="center"><div id="globalfooter"><a href="http://www.juno.com" target="_blank">Juno</a></div></td>
+                <td align="center"><div id="globalfooter"><a href="http://www.mysite.com" target="_blank">MySite</a></div></td>
+                <td align="center"><div id="globalfooter"><a href="http://www.freeinternet.com" target="_blank">FreeInternet</a></div></td>
+				</tr>
+				</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		<p id="copyright">Copyright © 2004 - 2008 MyPoints.com. All rights reserved.</p>
+	</div>
+
+</div><!-- end:container -->
+
+
+
+
+
+<script type="text/javascript">
+<!--
+var s_pageName=""
+var s_server=""
+var s_channel=""
+var s_pageType=""
+var s_prop1="Non-Member"
+var s_prop2="Segment Non-Member"
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+/* E-commerce Variables */
+var s_campaign=""
+var s_state=""
+var s_zip=""
+var s_events=""
+var s_products=""
+var s_purchaseID=""
+var s_eVar1=""
+var s_eVar2=""
+var s_eVar3=""
+var s_eVar4=""
+var s_eVar5=""
+//-->
+</script>
+<script type="text/javascript" src="https://www.mypoints.com/js/s_code_remote.js"></script>
+
+
+<div id="overlay"></div><div id="lightbox" class="loading"><div id="lbLoadMessage"><p>Loading</p></div></div></body></html>
