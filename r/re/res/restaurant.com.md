@@ -1,129 +1,119 @@
-> *The following text is extracted and transformed from the restaurant.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608235114id_/http%3A//www.restaurant.com/privacy.asp%3Fpgn%3Dx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurant.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015146id_/http%3A//www.restaurant.com/privacy.asp%3Fpgn%3Dx) for the most accurate reproduction.*
 
 # Restaurant.com - Find deals on neighborhood restaurants. $25 Restaurant Certificates for only $10!
 
-**What information is collected?**  
-Restaurant.com is the sole owner of the information collected on its Website. We will not sell, share or rent this information to others in ways different from what is disclosed in this policy, without first obtaining your consent. 
+  
+**Restaurant.com Online Privacy Policy**
 
-Restaurant.com may collect information when you visit or use our Website. We also may automatically record information on our server logs from your internet browser, such as your IP address, page requests and cookie information. This information may be used to customize the content you see when you use our Website. This information is generally used to fulfill your requests, to contact you and to customize and improve your experience with Restaurant.com. 
+Last updated November 24, 2008
 
-> **IP Addresses**  
->  Every computer connected to the internet is given an IP address. We use IP addresses to analyze trends, administer the Website, track users' movement and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information, and our web servers do not record the email addresses of our visitors.
-> 
-> **Cookies**  
->  A "cookie" is a piece of data stored on a user's hard drive containing information about the user. To receive a customized experience at Restaurant.com you should allow your computer to accept cookies. As part of offering and providing personalized services, we may use cookies in an effort to save you time while on our Website. If you reject cookies, you may have limited use of the Website. Generally we use cookies to:
+This Privacy Policy discloses the privacy practices for the Restaurant.com websites, as well as diningdough.com, theidealmeal.com, and theperfectpremium.com (collectively, the “Website”). Restaurant.com, Inc., a Delaware corporation, the provider of the Website (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please [email us](mailto:info@restaurant.com).
 
-    * Save you time while using Restaurant.com
-    * Remind us who you are and to access your account information; and
-    * Track and target the interests of our users to provide a customized and more personal experience on our Website. 
+**PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.**
 
+**1\. Changes to Privacy Policy**  
+We may change this Privacy Policy at any time by posting the revised Privacy Policy in the “Privacy Policy” section of the Website. The revised Privacy Policy is effective immediately when posted on the Website. It is the responsibility of each User to review the Website and the Privacy Policy periodically to learn of any revisions to this Privacy Policy. Your continued use of the Website after the effectiveness of such revisions will constitute your acknowledgment and acceptance of the terms of the revised Privacy Policy. 
 
+**2\. Types of Information Collected and Uses of Collected Information**  
+We collect two types of information about our Website Users: Personally Identifiable Information and Non-Personally Identifiable Information. 
 
-Back to Top>
+**Personally Identifiable Information**. Personally Identifiable Information is information that identifies a specific End User. When you engage in certain activities on the Website, such as creating an account, ordering a product or service from us or our partners, submitting content and/or posting content in discussion forums, entering a contest or sweepstakes sponsored by us or our partners, filling out a survey, posting a review, sending us or our partners feedback, requesting information about our services, submitting an affiliate agreement, applying for a job, posting a video or signing up for special offers from third parties through the Website (collectively, “Identification Activities”), we may ask you to provide certain information about yourself. It is optional for you to engage in an Identification Activity. If you elect to engage in an Identification Activity, however, we may ask you to provide us with certain personal information about yourself, such as your first and last name, mailing address (including zip code), email address, telephone number and date of birth. When you order products or services, we may also ask you to provide us with your credit card number, expiration date and authentication codes or related information. Depending on the activity, some of the information we ask you to provide is identified as mandatory and some is identified as voluntary. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity. 
 
-**Registered Users**  
-When a customer joins Restaurant.com we collect information to provide customized service, to deliver dining certificates and other communications via email and to allow our customers to access and manage their Restaurant.com purchases and requests. (Please note that dining certificates are delivered via email so a valid email address is required.)  We collect some or all of the following information: 
+We use Personally Identifiable Information to provide products and services to you, administer sweepstakes and contests, enhance the operation of the Website, improve our marketing and promotional efforts, analyze Website use, improve our product and service offerings, and to tailor your experience with third parties as provided in Item 3 of this Privacy Policy. For example, if you send our customer service an email we may use your comments and feedback to tell others about our services, and may post your comment in our marketing materials or on our Website. In addition, if you use our Website to send information or a product to another person, we may store your personal information, and the personal information of any recipient. We may use that other person’s contact information to allow him or her to view and accept your gift or to allow the recipient to access the information you requested we send. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities. 
 
-> Full Name, Email Address, Password, Address, City, State, Zip Code, Phone Number, Birthday, Anniversary, Restaurant Dining Certificate Purchases, Restaurant.com Gift Certificate purchases, Take-out Orders, Reservation Requests and Customer Service Correspondence
+**Non-Personally Identifiable Information**. Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (“IP”) address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in Items 4 and 8 of this Privacy Policy.
 
-Information required to become a registered user includes name, password, email address and full home address. Optional information includes email preferences, birthday, and anniversary. All users have the option not to receive emails from Restaurant.com (and/or from Restaurant.com restaurant partners), other than automated service messages concerning an order, request or dining survey. If you would like to change your email preferences please visit “[My Account](http://www.restaurant.com/my-restaurant.asp).” Here you will be able to manage your email preferences, update your contact information and view and track your orders and requests. 
-
-Some of our services may be offered in conjunction with partner companies, affiliates or other companies or websites with which we work. In order for us to provide these services to you, it may be necessary for us to share your personal information with one of such entities. These trusted partners are not allowed to use personally identifiable information except for the purpose of providing these services. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
+We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming. 
 
 Back to Top>
 
-**Online Reservations**  
-If you choose to make an online reservation using Restaurant.com it is required that you are a registered user of Restaurant.com and you will need to provide your name, phone number, email address, requested reservation date and time along with the number of people in the party. (For best results, make your reservation during the restaurant's regular hours of operation.) The restaurant has the option to contact you about the reservation; this call may be recorded for training and quality control. 
+**3\. Release of Personally Identifiable Information**  
+We will not share your Personally Identifiable Information with other parties except as provided below: 
+
+**We may share your information with Affiliated Restaurants**. We provide some products or services jointly with particular restaurants. These are known as “Affiliated Restaurants.” We share some of your Personally Identifiable Information with Affiliated Restaurants in order to help them provide you with better service and track the value of our program. Sharing this Information will allow an Affiliated Restaurant to market directly to you should they choose to do so. However, we will only share Personally Identifiable Information with an Affiliated Restaurant if you engage in an Identification Activity, and then only to the Affiliated Restaurant involved in that Identification Activity. For example, if you purchase a promotional certificate for a particular restaurant, we may share your name, email address and city with that restaurant. We may also share your Personally Identifiable Information with an Affiliated Restaurant if you choose to make an online reservation using our Website. The Affiliated Restaurant needs this information to complete the reservation and it may contact you regarding the reservation. 
+
+**We may share your information with Affiliated Businesses**. We provide some products or services jointly with other retail merchants who offer discounts through us. These are known as “Affiliated Businesses.” We may share your Personally Identifiable Information with an Affiliated Business so they can contact you regarding a transaction. Sharing this Information will allow an Affiliated Business to market directly to you should they choose to do so. However, we will only share Personally Identifiable Information with an Affiliated Business if you engage in an Identification Activity, and then only to the Affiliated Business involved in that Identification Activity. For example, if you purchase a promotional certificate for a particular retail merchant, we may share your name, email address and city with that merchant. 
+
+**We may share your information with Marketing Partners**. From time to time we may establish a business relationship with third parties. These are known as our “Marketing Partners.” We may share your Personally Identifiable Information with our Marketing Partners to enable them to contact you regarding products, services, and special offers that may be of interest to you. Some Marketing Partners may contact you from a promotional space on our Website, and others may contact you via email. 
+
+**We may share your information with Authorized Third Party Service Providers**. We provide some of our services and products through third parties. These “Third Party Service Providers” perform functions on our behalf, like sending out and distributing our administrative and promotional emails. We may share your Personally Identifiable Information with such Service Providers to fulfill orders, deliver packages, send postal or email, administer contests or sweepstakes, remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the Website, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies (“Affiliates”) with whom we have business relationships and may have to also share their information with Service Providers to accomplish our administrative tasks. For example, when you order a service, we release your credit card information to the card-issuing bank to confirm payment for the service and, if applicable, release your address to the delivery service to deliver the service. Likewise, we may release an Affiliate’s information to our bank to send out a payment.
+
+We encourage Affiliated Restaurants, Affiliated Businesses, Marketing Partners and Third Party Service Providers to adopt and post privacy policies. However, the use of your Personally Identifiable Information by such parties is governed by the privacy policies of such parties and is not subject to our control. 
+
+**We may share your information in a Business Transfer**. As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including Personally Identifiable Information. However, Personally Identifiable Information would remain subject to this Privacy Policy. 
+
+**We may share your information for our Protection and the Protection of Others**.We may also disclose Personally Identifiable Information when we believe release is appropriate to comply with the law or a court order; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or protect the rights, property or safety of the Website, its Users or others. 
 
 Back to Top>
 
-**Online Take-out and/or Delivery**  
-If you choose to order online take-out and/or delivery using Restaurant.com, it is required that you are a registered user of Restaurant.com and you will need to provide your name, phone number, email address and credit card information. (The restaurant has the option to contact you about your order). Restaurant.com will not charge your credit card. Your credit card information will be provided to the restaurant to be charged. This information is collected in advance to prevent fraudulent orders. When placing an order for delivery, you will need to agree that you are in fact within the delivery area of the restaurant. 
+**4\. Release of Non-Personally Identifiable Information**  
+We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:
+
+We use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use Non-Personally Identifiable Information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to opt-out of targeted advertising from any NAI member company, click here: <http://www.networkadvertising.org/consumer/opt_out.asp>
+
+We also use Third Party Service Providers, like Omniture, to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us. If you would like more information about this policy, including how to opt out, please visit: <http://www.omniture.com/en/privacy>
+
+**5\. Updating and Correcting Information**  
+We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by: (1) updating your account at <http://www.restaurant.com/my-restaurant.asp>; (2) [emailing us](mailto:info@restaurant.com); or (3) writing to us at the address below. Please indicate your name, address and email address, and what information you would like to update when you contact us. 
+
+We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information. 
+
+**6\. User Choices on Collection and Use of Information**  
+As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website.
+
+As a condition of purchase of our products and services, we require your permission to send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. We send Promotional Emails to Users who register with us and have not opted-out of receiving Promotional Emails. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by (1) adjusting your account preferences at <http://www.restaurant.com/my-restaurant.asp>; (2) [emailing us](mailto:info@restaurant.com); (3) writing to us at the address found below, or (4) hitting the “unsubscribe” button at the bottom of any of our emails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive. Please note that this paragraph applies to Promotional Emails only if another agreement (like a Corporate Sales agreement) does not supersede this term of the policy. If you received a promotional certificate through Corporate Sales, please either [contact us](mailto:corpsalesinfo@restaurant.com) or contact the company that gave you the certificate to determine if you are automatically opted into our Promotional Emails. 
+
+You also have a choice with respect to the sharing of your Personally Identifiable Information with Affiliated Businesses and Marketing Partners for direct marketing purposes (but not with Affiliated Businesses for transaction-related purposes, Affiliated Restaurants, or Third Party Service Providers). As described above, if we share your Personally Identifiable Information with Affiliated Business or Marketing Partners, such companies may contact you regarding products and services that may be of interest to you. If you do not want us to share your Personally Identifiable Information with Affiliated Businesses or Marketing Partners for direct marketing purposes, you may elect to opt-out of such information sharing after you sign up as a registered User by (1) adjusting your account preferences at <http://www.restaurant.com/my-restaurant.asp>; (2) [emailing us](mailto:info@restaurant.com); or (3) writing to us at the address found below. When contacting us, please indicate your name, address, email address, and what information you do not want us to share with Affiliated Businesses or Marketing Partners. Please note that because email addresses and names are one mechanism used by Affiliated Restaurants to track the success of our service, we must share your name and address with an Affiliated Restaurant when you purchase a promotional certificate to that particular Affiliated Restaurant. If you receive unwanted communication from an Affiliated Restaurant, contact such Affiliated Restaurant directly to address such communications.
+
+Please note that opting out of our Promotional Emails or information sharing as described above will only affect future communications from us. This means, for example, that while we will promptly stop sharing such information once we receive your opt-out request, if we shared your information with an Affiliated Business or Marketing Partner before your request, you must contact such Marketing Partner or Affiliated Business to directly opt-out of its communications.
+
+If you are a restaurant partner and you provided us with your email address, you will receive service-oriented Partner Emails from us regarding your account. You have the choice of whether you would like to receive these emails. If you do not wish to receive account updates, you can opt-out by (1) [emailing us](mailto:info@restaurant.com); (2) writing to us at the address found below; or (3) hitting the unsubscribe button at the bottom of an account email. If you wish you receive our promotional emails, you must opt-in to those emails on our consumer Website. Please note that opting-out (once you have opted-in) of Promotional Emails will not result in your opting out of Partner Emails and vice versa. 
 
 Back to Top>
 
-**Your Restaurant.com Account** (Correction/Updating Personal Information)  
-You may access your account at <http://www.restaurant.com/my-restaurant.asp>. Here you will be able to manage your email preferences, update your contact information and view and track your orders and requests. Please note: This system is a self-management tool—in other words, a means for you to keep track of and record your purchases. For privacy reasons, Restaurant.com will not mark or indicate certificate usage, but has offered this system as a simple way for you to keep track of your purchases. 
+**7\. Security of Information**   
+We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information on our Website through a password and unique User ID selected by you, or, for restaurant partners, by us. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt certain sensitive information using Secure Socket Layer (SSL) technology to ensure that your Personally Identifiable Information is safe as it is transmitted to us. 
+
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies which do the same, we cannot guarantee the security of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such information. 
+
+**8\. Data Tracking**  
+**Cookies**. To facilitate and customize your experience with the Website, we store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Website only and does not cover the use of cookies by any Advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly.
+
+**Other Tracking Devices**. We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes. 
+
+**9\. Privacy Policies of Third Party Websites** This Privacy Policy only addresses the use and disclosure of information we collect from you. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties. 
+
+**10\. Miscellaneous Privacy Issues**  
+**Children**. Minors under the age of 13 may not use the Website. We do not collect or maintain information from anyone known to be under the age of 13,and no part of the Website is designed to attract anyone under the age of 13. 
+
+**Public Areas**. We may provide areas on our Website where you can publicly post information about yourself, can communicate with others, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information.
+
+**Notice of Privacy Rights to California Residents**. California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the “Act”) and the California Business and Professions Code. As required by the Act, we will provide you with the categories of Personally Identifiable Information that we collect through the Website and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. California law requires us to inform you, at your request, (1) the categories of Personally Identifiable Information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with Affiliated Businesses or Marketing Partners. The request should be sent to the attention of our legal department, and labeled “California Customer Choice Notice.” Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.
+
+**11\. Contacting Us** Whether you’re a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we’d like to stay connected and want to hear from you! 
+
+**Corporate Address**  
+Restaurant.com   
+1500 West Shure Drive, Suite 200   
+Arlington Heights, Illinois 60004 
+
+**Phone**  
+(800) 979-8985 Toll-free 
+
+**For Customers**  
+Customer Service Inquiries | [info@restaurant.com](mailto:info@restaurant.com)
+
+**For Restaurant Owners**  
+Restaurant Owner Inquiries from Current Partners | [partnersupport@restaurant.com](mailto:partnersupport@restaurant.com)   
+Restaurant Owner Inquiries from Prospective Partners | [partnerjoin@restaurant.com](mailto:partnerjoin@restaurant.com)
+
+**For Business Owners  
+** Corporate Gifts and Incentives | [corpsalesinfo@restaurant.com](mailto:corpsalesinfo@restaurant.com)
+
+**To Contact the Corporate Office  
+** Corporate Business Inquiries | [corpsalesinfo@restaurant.com](mailto:corpsalesinfo@restaurant.com)[](mailto:corporate@restaurant.com)   
+Marketing and Advertising Opportunities | [marketing@restaurant.com](mailto:marketing@restaurant.com)   
+Press and Media Requests | [pr@restaurant.com](mailto:pr@restaurant.com)   
+Career Opportunities | [jobs@restaurant.com](mailto:jobs@restaurant.com)
 
 Back to Top>
-
-**Email Preferences/Opt-out**  
-We send out two types of emails ¾ transactional and promotional. Our users are given the opportunity to "opt-out" of receiving promotional communications from Restaurant.com by updating their email preferences in your “[My Account](http://www.restaurant.com/my-restaurant.asp)” or by sending an email with the information to update to [info@restaurant.com](mailto:info@restaurant.com). 
-
-> **Transactional emails**  
->  Transactional emails include registration, confirmation, account update, customer service, restaurant surveys and other communications that Restaurant.com needs to reach our customers concerning their account, requests or purchases. This does not include any promotional communications, such as sales or specials. You may not opt out of these transactional communications. These emails will all be sent from a Restaurant.com address, for example lastname@restaurant.com or halfprice@restaurant.com. 
-> 
-> **Promotional emails**  
->  Promotional emails are sent to customers who opted into our email list. This option is provided when registering with Restaurant.com. These emails share exclusive sales and offers with our users and will be sent from restaurant_com@emailrestaurant.com. 
-> 
-> If you are having trouble receiving these emails first check your spam/junk folder. Occasionally emails can mistakenly end up in your spam/junk folder; it may help to add restaurant_com@emailrestaurant.comto your address book. You can also email [info@restaurant.com](mailto:info@restaurant.com) and have us check to make sure you are still on the list, be sure to include your email address.
-> 
-> If you have opted-in to receive promotional emails you may opt out of these promotional emails at any time by updating your email preferences in “[My Account](http://www.restaurant.com/my-restaurant.asp)” or by sending an email with their request to [info@restaurant.com](mailto:info@restaurant.com). 
-
-Back to Top>
-
-**Customer Service Correspondence**  
-If you send us correspondence, including emails and faxes, we may retain such information in the records of your account. We may also retain customer service correspondence and other correspondence from Restaurant.com to you. We retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our Terms of Use Agreement. We may, over time, delete these records, if permitted by law. 
-
-Back to Top>
-
-**Information or Data Sharing**  
-As a general rule, except as described in this privacy policy, we will not disclose any of your personally identifiable information except when we have your permission or under special circumstances (such as when we believe the law requires it). We may disclose or share aggregated demographic information with certain partners, affiliates and advertisers, however, except as described above, this is not linked to any personal information that can identify any individual person or company. In addition, Restaurant.com may disclose account or other personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Restaurant.com's rights or property, other Website users or anyone else that could be harmed by such activities. 
-
-Restaurant.com may also release personal information to appropriate governmental authorities under the following circumstances: 
-
-    * Where release is required by law (for example, a subpoena) or regulation, or is requested by a government agency conducting investigations or proceedings; or 
-    * Where our records indicate a company may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of. 
-
-
-
-As with any other business, it is possible that Restaurant.com in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by Restaurant.com, including customer account information, but would continue to be bound by this Privacy Policy unless and until it is amended as described herein.
-
-Back to Top>
-
-**Surveys**  
-From time-to-time Restaurant.com may request information from users via surveys (e.g. within the Feedback section of the Website). Participation in these surveys, to the extent we run any, is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code and age level). Survey information will be used for purposes of monitoring ad/or improving the use and satisfaction of the Website. 
-
-Back to Top>
-
-**Restaurant Surveys and Access to Information**  
-For purposes of allowing targeted marketing restaurant owners are provided with access to the name and email information for each purchaser of a Restaurant.com dining certificate for their restaurant once such certificate has been validated. After you have used your dining certificate you may be invited to take a survey to provide feedback to the restaurant about your dining experience. These survey results will be provided to the restaurant. If you choose to leave added comments the restaurant will be provided with your name and email address along with your comment so they may follow-up if necessary. If you would like to send comments to Restaurant.com you may send an email to [info@restaurant.com](mailto:info@restaurant.com) at anytime. 
-
-Back to Top>
-
-**Links**  
-This Website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites, as this privacy policy applies solely to Restaurant.com. We encourage our users to remain vigilant when they leave our Website and to read the privacy statements of each and every website that collects personally identifiable information. 
-
-Back to Top>
-
-**Security**  
-The Restaurant.com team takes security seriously and takes numerous precautions to protect our customer’s personal information. When our users submit sensitive information via the Website (e.g. [credit card information]), such information is protected both on- and offline. **[We encrypt certain sensitive information using Secure Socket Layer (SSL) technology to ensure that our visitors' information is safe as it is sent over the internet to our server. SSL works by using a private key to encrypt data that is transferred over the SSL connection]**. 
-
-In addition, all of our users' sensitive information is restricted in our offices. While Restaurant.com employs commercially reasonable security measures to protect our data and seeks to partner with companies, which do the same, we cannot absolutely guarantee the security of any data transmission over the internet or any wireless network. Unfortunately, no data transmission over the internet or any wireless network can be guaranteed to be 100% secure, and we therefore are not responsible for any breach of security or for any actions of any third parties that may receive any such information. 
-
-Back to Top>
-
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes under the appropriate link on the "home page" of our Website so our users are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. The new terms shall be effective immediately upon being posted on the Website. It is the responsibility of each user to review the latest terms from time to time, and if any user does not agree with any updates to the privacy policy, such user should immediately cease use of the Website and any purchased services. 
-
-Back to Top>
-
-**Contacting Restaurant.com**  
-Whether you’re a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we’d like to stay connected and want to hear from you! 
-
-> **Corporate Address**  
->  Restaurant.com  
->  1500 West Shure Drive, Suite 200  
->  Arlington Heights, Illinois 60004 
-> 
-> **For Restaurant Owners**  
->  Restaurant Owner Inquiries from Current Partners | [partnersupport@restaurant.com](mailto:partnersupport@restaurant.com)   
->  Restaurant Owner Inquiries from Prospective Partners | [partnerjoin@restaurant.com](mailto:partnerjoin@restaurant.com)
-> 
-> **To Contact the Corporate Office**  
->  Corporate Business Inquiries | [corporate@restaurant.com](mailto:corporate@restaurant.com)  
->  Marketing and Advertising Opportunities | [marketing@restaurant.com](mailto:marketing@restaurant.com)  
->  Press and Media Requests | [pr@restaurant.com](mailto:pr@restaurant.com)  
->  Career Opportunities | [jobs@restaurant.com](mailto:jobs@restaurant.com)
-
-****Back to Top >
