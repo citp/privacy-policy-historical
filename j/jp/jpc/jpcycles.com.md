@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619085906id_/http%3A//www.jpcycles.com/privacy_statement.jpc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020500id_/http%3A//www.jpcycles.com/privacy_statement.jpc) for the most accurate reproduction.*
 
 # J&P Cycles - Motorcycle exhausts, seats, mirrors, and more
 
