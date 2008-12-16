@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeevansathi.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630072601id_/http%3A//www.jeevansathi.com/P/privacy_policy.php%3Fchecksum%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeevansathi.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011904id_/http%3A//www.jeevansathi.com/P/privacy_policy.php%3Fchecksum%3D) for the most accurate reproduction.*
 
 # Jeevansathi Matrimonials- Privacy Policy
 
@@ -25,10 +25,15 @@ The information collected from any of our clients is not shared with any individ
 
 4\. 
 
+**When and to whom is my contact information disclosed?**   
+When you accept a paid member or if you are a paid member and accept another member's contact or if you are a paid member and initiate a contact with another member, your contact details will be disclosed to the other member you have accepted or initiated contact with. 
+
+5\. 
+
 **Do all visitors have to pay?**   
 NO, All visitors to our site may browse the site, search the ads and view any articles or features our site has to offer without entering any personal information or paying money. 
 
-5\. 
+6\. 
 
 **Can users contact any number of profiles in a single day?**   
 As a paid member of this site, you have the privilege to contact lots of profiles. However, there is a specified limit to 100 contacts for security reasons per day. If you want to contact more profiles than the specified limit in a single day, he/she can do so after the completion of 24 hours of their login time. 
