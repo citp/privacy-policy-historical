@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crispygamer.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616053335id_/http%3A//www.crispygamer.com/privacy.policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crispygamer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014100id_/http%3A//www.crispygamer.com/privacy.policy) for the most accurate reproduction.*
 
 # Crispy Gamer - Privacy Policy
 
@@ -45,7 +45,7 @@ In an effort to better understand and serve the users of our services, we may co
 
 **Your California Privacy Rights**
 
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please write to us at: Privacy Coordinator, Crispy Gamer, 42 W24th Street, New York, NY 10010 with a reference to California Disclosure Information. 
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please write to us at: Privacy Coordinator, Crispy Gamer, 35 West 36th Street, Suite 4W, New York, NY 10018 with a reference to California Disclosure Information. 
 
 We will respond to such written requests within 30 days following receipt at the mailing address stated above. If we receive your request at a different mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year. 
 
@@ -92,7 +92,7 @@ When you click on a third party advertisers' link from our Website, you will be 
 
 **Email**
 
-From time to time we may provide special offers on this Website, or may send special email offers about our products and services. Or, if you elected to receive them, (which permission may be granted by declining to opt-out) those of selected partners or our affiliated companies. Crispy Gamer will not send you any email that you do not wish to receive. If you wish to receive newsletters and special offers by email from Crispy Gamer, selected partners, or our affiliated companies, you can visit the "Email Subscriptions" Web page. If at any time you wish to unsubscribe from any of Crispy Gamer's email products, either click on the unsubscribe link at the bottom of any of these communications or visit the "Email Subscriptions" Web page and deselect the email products that you no longer wish to receive. To access this Web page, you will need to be logged-in to Crispy Gamer, which may require you to type-in your id and password. If you are having difficulty reaching our E-mail Subscriptions page, please access The 
+From time to time we may provide special offers on this Website, or may send special email offers about our products and services. Or, if you elected to receive them, (which permission may be granted by declining to opt-out) those of selected partners or our affiliated companies. Crispy Gamer will not send you any email that you do not wish to receive. If you wish to receive newsletters and special offers by email from Crispy Gamer, selected partners, or our affiliated companies, you can visit the "Edit Profile" Web page. If at any time you wish to unsubscribe from any of Crispy Gamer's email products, either click on the unsubscribe link at the bottom of any of these communications or visit the "Edit Profile" Web page and deselect the email products that you no longer wish to receive. Please allow up to 15 days for changes to your subscription status to be made. To access this Web page, you will need to be logged-in to Crispy Gamer, which may require you to type-in your id and password. If you are having difficulty reaching our Edit Profile page, please access The Contact Us page by clicking the link found at the bottom of every page.
 
 **Crispy Gamer's "Customer Feedback" Web page.**
 
@@ -127,7 +127,7 @@ If you have any questions or suggestions about this Privacy Policy, please [cont
 
 Privacy Coordinator  
 Crispy Gamer, Inc.  
-42 W24th Street   
-New York, NY. 10010 
+35 West 36th Street, Suite 4W  
+New York, NY. 10018 
 
 Only questions about Crispy Gamer's Privacy Policy should be addressed to the above addresses. Any inquiries sent to these addresses that are not related to the Privacy Policy will not be reviewed. You may address other concerns regarding Crispy Gamer, by visiting the "Customer Feedback" Web page. 
