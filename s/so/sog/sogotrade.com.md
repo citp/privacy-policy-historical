@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sogotrade.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529015600id_/http%3A//www.sogotrade.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sogotrade.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014306id_/http%3A//www.sogotrade.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
