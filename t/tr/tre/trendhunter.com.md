@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendhunter.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604122902id_/http%3A//www.trendhunter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendhunter.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160554id_/http%3A//www.trendhunter.com/privacy) for the most accurate reproduction.*
 
 # TREND HUNTER - Trends, Trend Spotting, Cool Hunting and Innovation
 
