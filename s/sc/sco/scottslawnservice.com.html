@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the scottslawnservice.com privacy policy that was archived on 2006-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230150419id_/http%3A//scottslawnservice.com/index.cfm/event/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scottslawnservice.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216044152id_/http%3A//www.scottslawnservice.com/index.cfm/event/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>The Scotts Company Online Privacy Policy - ScottsLawnService.com</title>
+<title>Privacy policy - ScottsLawnService.com</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="imagetoolbar" content="no">
 <meta name="MSSmartTagsPreventParsing" content="true">
 <meta name="keywords" content="scotts, company, online, privacy, policy, information, collected, personal, information">
-<meta name="title" content="The Scotts Company Online Privacy Policy - ScottsLawnService.com">
+<meta name="title" content="Privacy policy - ScottsLawnService.com">
 <meta name="description" content="The Scotts Company takes your privacy seriously and is committed to safeguarding your privacy online.">
 <meta name="SLSIndexable" content="true">
+<meta name="layout" content="layout_htmlWrap">
 
 <meta name="WT.actionId" content="">
 <meta name="WT.event" content="privacyPolicy">
@@ -22,28 +23,94 @@
 
 <link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon">
 <script language="javascript1.1" src="/js/global.js" type="text/javascript"></script>
-<style type="text/css" media="screen">@import url(/css/global.css);</style>
+
+<style type="text/css" media="screen">@import url(/css/global2.css);</style>
+<style type="text/css" media="screen">@import url(/css/services2.css);</style>
+
+
+
+<script language="javascript1.1" src="/js/mootools-1.2.js" type="text/javascript"></script>
+<script type="text/javascript" language="javascript">
+	window.addEvent('domready', function() {
+		var iframe = new Element('iframe', {
+			'id': 'newsletter_frame',
+			'src': '/weekender/seasonal_weekender_newsletter_popup.html',
+			'frameborder': '0',
+			'width': '400',
+			'height': '290',
+			'styles': {
+				'position': 'absolute',
+				'left': ($(document.body).getSize().x / 2) - 200,
+				'top': ($(document.body).getSize().y / 2) - 175,
+				'display': 'none',
+				'z-index': '10000'
+			}
+		});
+
+		if ($('view_current_issue'))
+		{
+			$('view_current_issue').addEvent('click', function(event) {
+				event = new Event(event);
+				event.stop();
+				show_newsletter();
+			});
+		}
+
+		iframe.inject($(document.body), 'top');
+
+		setInterval(position_iframe, 5);
+
+		function position_iframe()
+		{
+			$('newsletter_frame').setStyle('top', window.getScrollTop() + (($(document.body).getSize().y / 2) - 175));
+		}
+
+		function show_newsletter()
+		{
+			$('newsletter_frame').setStyle('display', 'block');
+		}
+
+		function hide_newsletter()
+		{
+			$('newsletter_frame').setStyle('display', 'none');
+		}
+
+		if (location.href.indexOf('showWeekender') > 0)
+		{
+			show_newsletter();
+		}
+	});
+</script>
+
+
+
 </head>
 
+
 <body>
+
+	<div id="header_navigation_bar"><div id="header_navigation_menu"><a href="/">Home</a> | <a href="/index.cfm/event/franchises_scottsRep">Franchise Opportunities</a> | <a href="/index.cfm/event/employment">Careers</a> | <a href="/index.cfm/event/contactUs">Contact Us</a></div></div>
 	<div id="wrapper">
 		<div id="header">
 			
-	<!-- wrapper and billboard corners -->
-	<img src="http://www.scottslawnservice.com/media/images/crn_C3D6E2_tp-lf.gif" alt="" id="ulWrapCorner">
-	<img src="http://www.scottslawnservice.com/media/images/crn_C3D6E2_tp-rt.gif" alt="" id="urWrapCorner">
-	<img src="http://www.scottslawnservice.com/media/images/crn_FFFFFF_bm-lf.gif" alt="" id="billboardCorner">
-	<!-- table formatting for old browser acceptable layout -->
-	<table width="740" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td width="268" align="left" valign="top">
-				<a href="http://www.scottslawnservice.com"><img src="http://www.scottslawnservice.com/media/images/logo_sls.gif" width="162" height="47" class="logoPadding" alt="Scotts LawnService" border="0"></a>
+	<div style="height: 65px;">
+		<a href="/index.cfm/event/home"><img src="http://www.scottslawnservice.com/media/images2/scotts-logo.gif" width="255" height="65" class="logoPadding" alt="Scotts LawnService" title="Home Page" border="0"></a>
+		<a href="http://myscottslawnservice.com"><img src="http://www.scottslawnservice.com/media/images2/header-already.gif" align="right" border="0"></a>
+	</div>
+<!--
+	<img src="http://www.scottslawnservice.com/media/images/crn_C3D6E2_tp-lf.gif" alt="" id="ulWrapCorner"/>
+	<img src="http://www.scottslawnservice.com/media/images/crn_C3D6E2_tp-rt.gif" alt="" id="urWrapCorner"/>
+	<img src="http://www.scottslawnservice.com/media/images/crn_FFFFFF_bm-lf.gif" alt="" id="billboardCorner"/>
+	<table width="740"  border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="268" align="left" valign="top">[HEADER_ONECOLUMN]
+				<a href="/index.cfm/event/home"><img src="http://www.scottslawnservice.com/media/images/logo_sls.gif" width="162" height="47" class="logoPadding" alt="Scotts LawnService" border="0"/></a>
 				
 	
 	<div id="primaryNav">
 		<a href="/index.cfm/event/home" class="" onmouseover="mState=1;showMenu('navItem1Rollover',0)">home</a>
-		<a href="/index.cfm/event/services" class="" onmouseover="mState=1;showMenu('navItem2Rollover',1)">our services</a>
-		<a href="/index.cfm/event/signUp" class="" onmouseover="mState=1;showMenu('navItem3Rollover',1)">sign up</a>
+		<a href="/index.cfm/event/analysis_signup" class="" onmouseover="mState=1;showMenu('navItem2Rollover',1)">free lawn analysis</a>
+		<a href="/index.cfm/event/services" class="" onmouseover="mState=1;showMenu('navItem3Rollover',1)">our services</a>
 		<a href="/index.cfm/event/serviceAreas" class="" onmouseover="mState=1;showMenu('navItem4Rollover',0)">service areas</a>
 		<a href="/index.cfm/event/contactUs" class="" onmouseover="mState=1;showMenu('navItem5Rollover',0)">contact us</a>
 		<a href="/index.cfm/event/about" class="" onmouseover="mState=1;showMenu('navItem6Rollover',1)">about SLS</a>
@@ -54,10 +121,10 @@
 				<a href="/index.cfm/event/home" class="" onmouseover="mState=1;showMenu('navItem1Rollover',0)" onmouseout="mState=0;hideMenu('navItem1Rollover',0,0)">home</a>
 			</div>
 			<div id="navItem2Rollover" style="visibility:hidden;">
-				<a href="/index.cfm/event/services" class="" onmouseover="mState=1;showMenu('navItem2Rollover',1)" onmouseout="mState=0;hideMenu('navItem2Rollover',0,1)">our services</a>
+				<a href="/index.cfm/event/analysis_signup" class="" onmouseover="mState=1;showMenu('navItem2Rollover',1)" onmouseout="mState=0;hideMenu('navItem2Rollover',0,1)">free lawn analysis</a>
 			</div>
 			<div id="navItem3Rollover" style="visibility:hidden;">
-				<a href="/index.cfm/event/signUp" class="" onmouseover="mState=1;showMenu('navItem3Rollover',1)" onmouseout="mState=0;hideMenu('navItem3Rollover',0,1)">sign up</a>
+				<a href="/index.cfm/event/services" class="" onmouseover="mState=1;showMenu('navItem3Rollover',1)" onmouseout="mState=0;hideMenu('navItem3Rollover',0,1)">our services</a>
 			</div>
 			<div id="navItem4Rollover" style="visibility:hidden;">
 				<a href="/index.cfm/event/serviceAreas" class="" onmouseover="mState=1;showMenu('navItem4Rollover',0)" onmouseout="mState=0;hideMenu('navItem4Rollover',0,0)">service areas</a>
@@ -80,173 +147,200 @@
 			</td>
 			<td width="472" valign="top">
 				<table cellpadding="0" cellspacing="0" border="0">
-					<tbody><tr>
-						<td><img src="http://www.scottslawnservice.com/media/images/billboard_1_blank.gif" width="472" height="174" alt=""></td>
+					<tr>
+						<td>
+							<img src="http://www.scottslawnservice.com/media/images/billboard_1_blank.gif" width="472" height="174" alt="" />
+							
+						</td>
 					</tr>
-				</tbody></table>
+				</table>
 			</td>
 		</tr>
-	</tbody></table>
-	<!-- dividerLine -->
-	<hr class="dividerLine">
+	</table>
+	<hr class="dividerLine" />
+-->
 
 		</div>
 
-		
+		<!--<div id="content_menu"><div id="secondarynav">
+	<script>
+	function expImgOff(event) {
+		x=event.currentTarget; 
+		document.getElementById( 'exlprod' ).style.visibility='hidden';
+	}
+	
+	function expImgOn() {
+		document.getElementById( 'exlprod' ).style.visibility='visible';
+	}
+	</script>
+	<a class="sec1 " href="/index.cfm/event/analysis_signup">FREE lawn analysis</a>
+	<a class="sec2 " href="/index.cfm/event/services_lawn">lawn service</a>
+	<a class="sec3 " href="/index.cfm/event/services_treeAndShrub">tree &amp; shrub care</a>
+	<a class="sec4 " href="/index.cfm/event/services_pestControl">pest control</a>
+	<img src="http://www.scottslawnservice.com/media/images2/sub-cap.gif" style="position: absolute; left: 557px;">
+	<div id="exlprod" style="display: block; visibility: hidden; position: absolute; width: 410px; padding: 5px 5px 5px 5px; left: 585px; top: 86px; height: 40px;" OFFonMouseOver="expImgOn();" OFFonMouseOut="expImgOff(event);"><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_01.gif"><a href="/index.cfm/event/about_exclusive#grub"><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_02.gif" border="0"></a><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_03.gif"><a href="/index.cfm/event/about_exclusive#maxpro"><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_04.gif" border="0"></a><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_05.gif"><a href="/index.cfm/event/about_exclusive#weed"><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_06.gif" border="0"></a><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_07.gif"></div>
+	<a id="expButton" class="sec5 " OFFonMouseOver="expImgOn();" href="/index.cfm/event/about_exclusive">exclusive products</a>
+</div></div>-->
+		<div id="content_menu"><div id="secondarynav">
+	<script>
+	function expImgOff(event) {
+		x=event.currentTarget; 
+		document.getElementById( 'exlprod' ).style.visibility='hidden';
+	}
+	
+	function expImgOn() {
+		document.getElementById( 'exlprod' ).style.visibility='visible';
+	}
+	</script>
+	<a class="sec1 " href="/index.cfm/event/analysis_signup">FREE lawn analysis</a>
+	<a class="sec2 " href="/index.cfm/event/services_lawn">lawn service</a>
+	<a class="sec3 " href="/index.cfm/event/services_treeAndShrub">tree &amp; shrub care</a>
+	<a class="sec4 " href="/index.cfm/event/services_pestControl">pest control</a>
+	<img src="http://www.scottslawnservice.com/media/images2/sub-cap.gif" style="position: absolute; left: 557px;">
+	<div id="exlprod" style="display: block; visibility: hidden; position: absolute; width: 410px; padding: 5px 5px 5px 5px; left: 585px; top: 86px; height: 40px;" offonmouseover="expImgOn();" offonmouseout="expImgOff(event);"><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_01.gif"><a href="/index.cfm/event/about_exclusive#grub"><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_02.gif" border="0"></a><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_03.gif"><a href="/index.cfm/event/about_exclusive#maxpro"><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_04.gif" border="0"></a><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_05.gif"><a href="/index.cfm/event/about_exclusive#weed"><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_06.gif" border="0"></a><img src="http://www.scottslawnservice.com/media/images2/exclusive-products_07.gif"></div>
+	<a id="expButton" class="sec5 " offonmouseover="expImgOn();" href="/index.cfm/event/about_exclusive">exclusive products</a>
+</div></div>
 
 		<div id="maincontent">
 			
 	<table border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td valign="top"><a name="backToTop"><img src="http://www.scottslawnservice.com/media/images/head_privacyPolicy_home.gif" alt=""></a></td>
 			<td>
-				<h2>the Scotts Company online privacy policy</h2>
-				<p>The Scotts Company takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our sites, we have developed a privacy statement to help you understand the terms and conditions surrounding the collection and use of that information. This statement discloses the types of information we gather, how it is used, and how you can gain access to and edit any data that we've collected about you at any time.</p>
+<p></p><h2>Privacy policy</h2><p></p>
+<p>The Scotts Company takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our sites, we have developed a privacy statement to help you understand the terms and conditions surrounding the collection and use of that information. This statement discloses the types of information we gather, how it is used, and how you can gain access to and edit any data that we've collected about you at any time.</p>
+<h3>Guiding principles</h3>
+<p>The Scotts Company respects the privacy of individuals who visit our Web sites, send us e-mail, or participate in features/services we offer online. Accordingly, our policy regarding online privacy has been developed using the following guiding principles:</p>
+<ul>
+<li>Scotts maintains a strict "no-spam" policy. Subscribers to our e-mail services or any other feature/service found on a Scotts Company Web site (scotts.com, miracle-gro.com, ortho.com, roundup.com, osmocote.com, etc.) will not receive unsolicited e-mail messages from Scotts.</li>
+<li>Scotts collects information online primarily to provide our visitors with a more relevant experience on our sites. When doing so, we will make every reasonable effort to avoid excessive or irrelevant collection of data.</li>
+<li>Scotts will take reasonable physical, electronic and managerial measures to safeguard and secure any information you provide to us (e.g., data will be stored in protected databases on secured servers with restricted access).</li>
+<li>Scotts will not share any information you've provided to us with anyone without your consent other than to provide the service you've requested. At the time you register for any such service, you will be notified of, and asked to consent to, the sharing of your information with any particular third party necessary to the provision of the requested service.</li>
+</ul>
+<h3>Information collected</h3>
+<ul>
+<li>Non-Personally Identifiable Data: Any time you visit a Scotts Web site, we may gather certain non-personally identifiable information regarding the means you use to access our site. This information may include the type and version of your browser, your service provider, your IP address, and any search engine you may have used to locate the site. We use this information to help diagnose problems with our server, administer the Web site, and compile broad statistical data. In addition, The Scotts Company gathers certain navigational information about where you go on our Web sites. This information enables us to determine which areas of the Web sites are most frequently visited and helps us to tailor the sites to the needs and interests of our online visitors. In addition, this tracking data may be used to tailor information presented to you on our sites based on your previous use of the sites and your interests in particular topics.</li>
+<li>Information Voluntarily Provided: Any information you provide to us (i.e., name, e-mail address, etc.) when you enroll in one of our E-Mail Reminder Services, request information, register on our site, enter one of our contests, or use any of the other interactive portions of our Web sites, is securely maintained on our Web server and internal systems. This information may be used to provide you with information you've requested about our company, our products and our services, or to provide you with special notices. When we request information on our sites, some requests are marked as "Required"; this information is necessary to allow you to participate in the program or service you've requested. You may opt out of receiving future communications at any time (see Opt-Out Procedures below). This data may also be used to tailor your experience on our sites by providing content that is relevant to your interests and geographic region. Finally, we may create aggregated information from information you provide us (such as demographic data) for use in updating and maintaining our sites. This aggregated information will not be shared with others except as noted below (see the "Disclosure of Personal Information" and "Use of Cookies" sections).</li>
+<li>Information Collected from Other Sources: To help us better understand and respond to your needs and interests, Scotts may in the future receive information about you from other sources. Scotts will ask any provider of such information to represent and warrant that the information has been gathered and maintained in accordance with all state and federal laws. Any such information will be maintained by Scotts in accordance with the standards set forth in this privacy policy along with other personal information you've provided.</li>
+</ul>
+<h3>How we communicate with you</h3>
+<p>Scotts may send authorized communications to you on the basis of the information you provide to us through e-mail or regular mail. We will not contact you by telephone, fax, or other means unless you have explicitly requested us to contact you in that manner. You may also opt out of e-mail and regular mail communications from us at any time (see "Opt-Out Procedures" below).</p>
+<h3>Disclosure of personal information</h3>
+<p>Scotts understands the importance of your privacy. We collect and maintain the personal information of our consumers for the use of The Scotts Company and its subsidiaries. We do not sell, rent, or trade consumer information to third parties, other than as described below, and never without your consent.</p>
+<ul>
+<li>Business Partners: The Scotts Company may partner with select retailers and other companies at various times to provide expanded services to our site visitors. As part of such a relationship, Scotts may share with these companies the use of certain interactive Web site functions (e.g., the E-Mail Reminder Service). Information provided by site visitors through the use of such interactive functions may be available to both The Scotts Company and its partners.</li>
+<li>Agents: Scotts may use other companies and individuals to perform certain functions on our behalf. Examples include administering e-mail services and running special promotions. Such parties only have access to the personal information needed to perform these functions and may not use or store the information for any other purpose. Subscribers or site visitors will never receive unsolicited e-mail messages from agents working on our behalf.</li>
+<li>Business Transfers: In the event that Scotts sells or transfers a particular portion of its business assets, consumer information may be one of the business assets transferred as part of the transaction. If substantially all of the assets of The Scotts Company are acquired, consumer information may be transferred as part of the acquisition.</li>
+<li>Compliance with Law/Safety: Scotts may disclose specific personal information based on a good-faith belief that such disclosure is necessary to comply with or conform to the law or that such disclosure is necessary to protect the users of our Web sites, the sites themselves, or the public.</li>
+<li>With Consent: Other than as set forth in this Privacy Policy, you will be notified when any personally identifiable information about you may be shared with third parties, and you will be given the opportunity to decline to share that information.</li>
+</ul>
+<h3>Policies on children</h3>
+<p>Children under the age of 13 are welcome to use The Scotts Company Web sites. However, we will ask that a registrant under the age of 13 obtain the approval of a parent or guardian before they become fully registered with one of our Web sites.</p>
+<h3>Use of cookies</h3>
+<p>Scotts may use a browser feature known as a "cookie." Cookies are small files placed on your hard drive that assist Scotts in providing you with a customized browsing experience. Scotts uses cookies to provide you with the convenience of not having to reenter information, such as user IDs and passwords, multiple times during your visits to the Scotts Web sites. Cookies can also be utilized to help Scotts provide you with information targeted to your interests, based upon your prior browsing on Scotts Web sites. The "help" section of the toolbar on most browsers will inform you on how to prevent your browser from accepting new cookies, how to have the browser notify you upon the receipt of a new cookie, or how to disable the use of cookies completely. As the Scotts Web sites have been designed to take advantage of the use of cookies, should you configure your browser to decline their use, certain features of the Scotts Web sites may not function correctly and you may be required to reenter any user IDs and passwords more frequently.</p>
+<h3>Accessing the Scotts Company web sites from outside of the United States</h3>
+<p>If you are visiting a Scotts Company Web site from a location outside of the United States, your connection will be through and to servers located in the United States. Any information you provide during your visit will be processed and maintained on our Web server and other internal systems located within the United States.</p>
+<h3>External links</h3>
+<p>The Scotts Company Web sites contain links to other sites. Scotts is not responsible for the privacy practices or the content of such Web sites. To help ensure the protection of your privacy, Scotts recommends that you review the privacy policy of any site you visit via a link from one of Scotts' Web sites.</p>
+<h3>Passwords</h3>
+<p>The personal data record created through your registration with a Scotts Web site can only be accessed with the unique password associated with that record. To protect the integrity of the information contained in this record, you should not disclose or otherwise reveal your password to third parties.</p>
+<h3>Public forums</h3>
+<p>The Scotts Company Web sites may make chat rooms, forums, message boards, and/or news groups available to its users at various times. Please remember that, unless otherwise stated, any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information in these areas.</p>
+<h3>Opt-out procedures</h3>
+<p>You may always opt out of receiving future communications from The Scotts Company. Our sites allow users to opt out of receiving such communications at the point where personal information is requested, or through other means as identified.</p>
+<h3>Correcting, updating and removing information</h3>
+<p>Scotts supports the individual's right to protect their privacy. Accordingly, personal information you provide us will be made available for your review. Additionally, you may update, modify or remove this information at any time by doing any of the following:</p>
+<ul>
+<li>accessing and modifying your personal information through the Scotts personal information manager application/tool</li>
+<li>sending your updated information by e-mail to <a href="mailto:consumer.services@scotts.com">consumer.services@scotts.com</a></li>
+<li>visiting the following URL: <a href="http://www.scotts.com">www.scotts.com</a> and using the "Contact Scotts" form</li>
+<li>calling us toll-free at (800) 543-8873</li>
+</ul>
+<h3>Notification of changes</h3>
+<p>This privacy policy may be revised over time as new features are added to the Web sites and as Internet privacy standards evolve. To ensure that you are fully informed about how your personal information is used, our privacy policy will always be available for review on our Web sites. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our pages.</p>
+<h3>Contacting the web sites</h3>
+<p>If you have questions concerning this privacy policy or the practices of these sites, you may contact us at:</p>
+<p>E-mail: <a href="mailto:webservices@scotts.com">webservices@scotts.com</a><br>
+The Scotts Company<br>
+14111 Scottslawn Road<br>
+Marysville , Ohio , 43041<br>
 
-				<h3>Guiding Principles</h3>
-				<p>The Scotts Company respects the privacy of individuals who visit our Web sites, send us email, or participate in features/services we offer online. Accordingly, our policy regarding online privacy has been developed using the following guiding principles:</p>
-				<ul>
-					<li>Scotts maintains a strict “no-spam” policy. Subscribers to our email services or any other feature/service found on a Scotts Company Web site (scotts.com, miracle-gro.com, ortho.com, roundup.com, osmocote.com, scottslawnservice.com etc.) will not receive unsolicited email messages from Scotts.</li>
-					<li>Scotts collects information online primarily to provide our visitors with a more relevant experience on our sites. When doing so, we will make every reasonable effort to avoid excessive or irrelevant collection of data.</li>
-					<li>Scotts will take reasonable physical, electronic, and managerial measures to safeguard and secure any information you provide to us (e.g., data will be stored in protected databases on secured servers with restricted access).</li>
-					<li>Scotts will not share any information you've provided to us with anyone without your consent other than to provide the service you've requested. At the time you register for any such service, you will be notified of, and asked to consent to, the sharing of your information with any particular third party necessary to the provision of the requested service.</li>
-				</ul>
-				<h3>Information Collected</h3>
-				<ul>
-					<li>Non-Personally Identifiable Data: Any time you visit a Scotts Web site, we may gather certain non-personally identifiable information regarding the means you use to access our site. This information may include the type and version of your browser, your service provider, you IP address, and any search engine you may have used to locate the site. We use this information to help diagnose problems with our server, administer the Web site, and compile broad statistical data. In addition, The Scotts Company gathers certain navigational information about where you go on our Web sites. This information enables us to determine which areas of the Web sites are most frequently visited and helps us to tailor the sites to the needs and interests of our online visitors. In addition, this tracking data may be used to tailor information presented to you on our sites based on your previous use of the sites and your interests in particular topics.</li>
-					<li>Information Voluntarily Provided: Any information you provide to us (i.e., name, email address, etc.) when you enroll in one of our Email Reminder Services, request information, register on our site, enter one of our contests, or use any of the other interactive portions of our Web sites, is securely maintained on our Web server and internal systems. This information may be used to provide you with information you've requested about our company, our products and our services, or to provide you with special notices. When we request information on our sites, some requests are marked as “Required”; this information is necessary to allow you to participate in the program or service you've requested. You may opt out of receiving future communications at any time (see Opt-Out Procedures below). This data may also be used to tailor your experience on our sites by providing aggregated information from information you provide us (such as demographic data) for use in updating and maintaining our sites. This aggregated information will not be shared with others except as noted below (see the “Disclosure of Personal Information” and “Use of Cookies” sections).</li>
-					<li>Information Collected from Other Sources: To help us better understand and respond to your needs and interests, Scotts may in the future receive information about you from other sources. Scotts will ask any provider of such information to represent and warrant that the information has been gathered and maintained in accordance with all state and federal laws. Any such information will be maintained by Scotts in accordance with the standards set forth in this privacy policy along with other personal information you've provided.</li>
-				</ul>
-
-				<h3>How We Communicate with You</h3>
-				<p>Scotts may send authorized communications to you on the basis of the information you provide to us through email or regular mail. We will not contact you by telephone, fax, or other means unless you have explicitly requested us to contact you in that manner. You may also opt out of email and regular mail communications from us at any time (see “Opt-Out Procedures” below).</p>
-
-				<h3>Disclosure of Personal Information</h3>
-				<p>Scotts understands the importance of your privacy. We collect and maintain the personal information of our consumers for the use of The Scotts Company and its subsidiaries. We do not sell, rent, or trade consumer information to third parties, other than as described below, and never without your consent.</p>
-				<ul>
-					<li>Business Partners: The Scotts Company may partner with select retailers and other companies at various times to provide expanded services to our site visitors. As part of such a relationship, Scotts may share with these companies the use of certain interactive Web site functions (e.g., the Email Reminder Service). Information provided by site visitors through the use of such interactive functions may be available to both The Scotts Company and its partners.</li>
-					<li>Agents: Scotts may use other companies and individuals to perform certain functions on our behalf. Examples include administering email services and running special promotions. Such parties only have access to the personal information needed to perform these functions and may not use or store the information for any other purpose. Subscribers or site visitors will never receive unsolicited email messages from agents working on our behalf.</li>
-					<li>Business Transfers: In the event that Scotts sells or transfers a particular portion of its business assets, consumer information may be one of the business assets transferred as part of the transaction. If substantially all of the assets of The Scotts Company are acquired, consumer information may be transferred as part of the acquisition.</li>
-					<li>Compliance with Law/Safety: Scotts may disclose specific personal information based on a good-faith belief that such disclosure is necessary to comply with or conform to the law or that such disclosure is necessary to protect the users of our Web sites, the sites themselves, or the public.</li>
-					<li>With Consent: Other than as set forth in this Privacy Policy, you will be notified when any personally identifiable information about you may be shared with third parties, and you will be given the opportunity to decline to share that information.</li>
-				</ul>
-
-				<h3>Policies on Children</h3>
-				<p>Children under the age of 13 are welcome to use The Scotts Company Web sites. However, we will ask that a registrant under the age of 13 obtain the approval of a parent or guardian before they become fully registered with one of our Web sites.</p>
-
-				<h3>Use of Cookies</h3>
-				<p>Scotts may use a browser feature known as a “cookie.” Cookies are small files placed on your hard drive that assist Scotts in providing you with a customized browsing experience. Scotts uses cookies to provide you with the convenience of not having to reenter information, such as user IDs and passwords, multiple times during your visits to the Scotts Web sites. Cookies can also be utilized to help Scotts provide you with information targeted to your interests, based upon your prior browsing on Scotts Web sites. The “help” section of the toolbar on most browsers will inform you on how to prevent your browser from accepting new cookies, how to have the browser notify you upon the receipt of a new cookie, or how to disable the use of cookies completely. As the Scotts Web sites have been designed to take advantage of the use of cookies, should you configure your browser to decline their use, certain features of the Scotts Web sites may not function correctly and you may be required to reenter any user IDs and passwords more frequently.</p>
-
-				<h3>Accessing The Scotts Company Web Sites from Outside of the United States</h3>
-				<p>If you are visiting a Scotts Company Web site from a location outside of the United States, your connection will be through and to servers located in the United States. Any information you provide during your visit will be processed and maintained on our Web server and other internal systems located within the United States.</p>
-
-				<h3>External Links</h3>
-				<p>The Scotts Company Web sites contain links to other sites. Scotts is not responsible for the privacy practices or the content of such Web sites. To help ensure the protection of your privacy, Scotts recommends that you review the privacy policy of any site you visit via a link from one of Scotts' Web sites.</p>
-
-				<h3>Passwords</h3>
-				<p>The personal data record created through your registration with a Scotts Web site can only be accessed with the unique password associated with that record. To protect the integrity of the information contained in this record, you should not disclose or otherwise reveal you password to third parties.</p>
-
-				<h3>Public Forums</h3>
-				<p>The Scotts Company Web sites may make chat rooms, forum, message boards, and/or news groups available to its users at various times. Please remember that, unless otherwise stated, any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information in these areas.</p>
-
-				<h3>Opt-Out Procedures</h3>
-				<p>You may always opt out of receiving future communications from The Scotts Company. Our sites allow users to opt out of receiving such communications at the point where personal information is requested, or through other means as identified.</p>
-
-				<h3>Correcting, Updating, and Removing Information</h3>
-				<p>Scotts supports the individual's right to protect their privacy. Accordingly, personal information you provide us will be made available for your review. Additionally, you may update, modify, or remove this information at any time by doing any of the following:</p>
-				<ul>
-					<li>Accessing and modifying your personal information through the Scotts personal information manager application/tool.</li>
-					<li>Sending your updated information by email to <a href="mailto:consumer.services@scotts.com">consumer.services@scotts.com</a>.</li>
-					<li>Using the <a href="/index.cfm/event/contactUs">“Contact Scotts”</a> form.</li>
-					<li>Calling us toll-free at (800) 543-8873.</li>
-				</ul>
-
-				<h3>Notification of Changes</h3>
-				<p>This privacy policy may be revised over time as features are added to the Web sites and as Internet privacy standards evolve. To ensure that you are fully informed about how your personal information is used, our privacy policy will always be available for review on our Web sites. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our pages.</p>
-
-				<h3>Contacting the Web Sites</h3>
-				<p>If you have questions concerning this privacy policy or the practices of these sites, you may contact us at:</p>
-
-				<p>Email: <a href="mailto:webservices@scotts.com">webservices@scotts.com</a></p>
-
-				<p>
-					The Scotts Company<br>
-					14111 Scottslawn Road<br>
-					Marysville, Ohio 43041
-				</p>
-
-				<a href="#backToTop">back to top</a>
-
-			</td>
+			</p></td>
 		</tr>
 	</tbody></table>
 
 
 		</div>
+
+		<div id="footer_content_bar">
+			<img src="http://www.scottslawnservice.com/media/images2/footer-links.gif" width="497" height="57" alt="Scotts LawnService" border="0" style="margin-left: 300px;"><br>
+			<a target="_blank" href="http://www.scotts.com/smg/"><img src="http://www.scottslawnservice.com/media/images2/logos-scotts.gif" alt="Scotts" border="0" style="margin: 20px 0px 0px 310px;"></a>
+			<a target="_blank" href="http://www.scotts.com/smg/catalog/productCategoryLanding.jsp?navAction=jump&amp;itemId=cat70010&amp;id=cat50016"><img src="http://www.scottslawnservice.com/media/images2/logos-birdfood.gif" alt="Bird Food" border="0"></a>
+			<a target="_blank" href="http://www.scotts.com/smg/brand/miraclegro/brandLanding.jsp?branPage=miraclegro"><img src="http://www.scottslawnservice.com/media/images2/logos-miraclegro.gif" alt="MiracleGro" border="0"></a>
+			<a target="_blank" href="http://www.scotts.com/smg/brand/osmocote/brandLanding.jsp?branPage=osmocote"><img src="http://www.scottslawnservice.com/media/images2/logos-osmocote.gif" alt="Osmocote" border="0"></a>
+			<a target="_blank" href="http://www.scotts.com/smg/brand/ortho/orthoLanding.jsp?branPage=ortho"><img src="http://www.scottslawnservice.com/media/images2/logos-ortho.gif" alt="Ortho" border="0"></a>
+			<a target="_blank" href="http://www.scotts.com/smg/brand/roundup/brandLanding.jsp?branPage=roundup"><img src="http://www.scottslawnservice.com/media/images2/logos-roundup.gif" alt="Roundup" border="0"></a>
+			<a target="_blank" href="http://www.scottslawnservice.com/"><img src="http://www.scottslawnservice.com/media/images2/logos-sls.gif" alt="Scotts LawnService" border="0"></a>
+			<a target="_blank" href="http://www.smithandhawken.com/"><img src="http://www.scottslawnservice.com/media/images2/logos-smith.gif" alt="Smith &amp; Hawken" border="0"></a>
+		</div>
+
 		<div id="footer">
 			
 
+	<!--
 <form action="/index.cfm" method="post" name="searchFooter_form" id="searchFooter_form">
-	<input type="hidden" name="event" value="search_form_submit">
-	<table width="740" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td width="7" bgcolor="#A2B4A9"><img src="http://www.scottslawnservice.com/media/images/clear.gif" width="4" height="4" alt=""></td>
+	<input type="hidden" name="event" value="search_form_submit"/>
+	<table width="740"  border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="7" bgcolor="#A2B4A9"><img src="http://www.scottslawnservice.com/media/images/clear.gif" width="4" height="4" alt="" /></td>
 			<td width="725" bgcolor="#A2B4A9">
-				<table width="100%" border="0" cellspacing="0" cellpadding="3">
-					<tbody><tr>
+				<table width="100%"  border="0" cellspacing="0" cellpadding="3">
+					<tr>
 						<td width="595" align="left"><p>passionate about beautiful lawns? then come work for Scotts! view Scotts <a href="/index.cfm/event/employment">employment opportunities</a></p></td>
-						
 					</tr>
-				</tbody></table>
+				</table>
 			</td>
-			<td width="8" bgcolor="#A2B4A9"><img src="http://www.scottslawnservice.com/media/images/clear.gif" width="4" height="4" alt=""></td>
+			<td width="8" bgcolor="#A2B4A9"><img src="http://www.scottslawnservice.com/media/images/clear.gif" width="4" height="4" alt="" /></td>
 		</tr>
 		<tr>
-			<td height="4" bgcolor="#A2B4A9" align="left"><img src="http://www.scottslawnservice.com/media/images/crn_C3D6E2_bm-lf.gif" width="4" height="4" alt=""></td>
-			<td bgcolor="#A2B4A9" height="4"><img src="http://www.scottslawnservice.com/media/images/clear.gif" width="4" height="4" alt=""></td>
-			<td height="4" bgcolor="#A2B4A9" align="right"><img src="http://www.scottslawnservice.com/media/images/crn_C3D6E2_bm-rt.gif" width="4" height="4" alt=""></td>
+			<td height="4" bgcolor="#A2B4A9" align="left"><img src="http://www.scottslawnservice.com/media/images/crn_C3D6E2_bm-lf.gif" width="4" height="4" alt="" /></td>
+			<td bgcolor="#A2B4A9" height="4"><img src="http://www.scottslawnservice.com/media/images/clear.gif" width="4" height="4" alt="" /></td>
+			<td height="4" bgcolor="#A2B4A9" align="right"><img src="http://www.scottslawnservice.com/media/images/crn_C3D6E2_bm-rt.gif" width="4" height="4" alt="" /></td>
 		</tr>
 		<tr>
 			<td colspan="3">
-				<table width="100%" border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						<td width="13%"><img src="http://www.scottslawnservice.com/media/images/logo_van.gif" width="79" height="40" class="logoPadding" alt="Scotts LawnService Logo"></td>
-						<td width="74%"><p>©2002 - 2006, The Scotts Company, Worldwide Rights Reserved | <a href="http://www.scotts.com" target="_blank">scotts.com</a> | <a href="/index.cfm/event/privacyPolicy">privacy policy</a> </p></td>
-						<td width="13%" align="right"><a href="http://www.bbbonline.org/cks.asp?id=10405127595142739" target="_blank"><img src="http://www.scottslawnservice.com/media/images/ReliabilitySeal.gif" class="logoPadding" alt="Better Business Bureau Logo" border="0"></a></td>
+				<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td>&copy; 2002–2008 The Scotts Company LLC, Worldwide Rights Reserved. <span class="regMark">&reg;</span> or &trade; indicates a trademark of The Scotts Company LLC or its affiliates.</td>
 					</tr>
-				</tbody></table>
+				</table>
 			</td>
 		</tr>
-	</tbody></table>
+	</table>
 </form>
+	-->
+	<p><a href="/index.cfm/event/privacyPolicy">Privacy</a> | <a href="/index.cfm/event/terms">Terms &amp; Conditions</a> | <a href="/index.cfm/event/about_faqs">FAQs</a> | <a href="/index.cfm/event/contactUs">Contact Us</a> | <a href="/index.cfm/event/about_siteMap">Site Map</a> | <a href="/index.cfm/event/franchises_scottsRep">Franchise Opportunities</a> | <a href="/index.cfm/event/employment">Careers</a> | <a href="http://investor.scotts.com/phoenix.zhtml?c=98364&amp;p=irol-IRhome">Investor Relations</a><br>
+	© 2002-2008 The Scotts Company LLC, Worldwide Rights Reserved. <span class="regMark">®</span> or TM indicates a trademark of the Scotts Company LLC or its affiliates</p>
 
 		</div>
+
 		
 <!-- nav rollovers -->
 <div id="nav">
 	<div id="navItemKiller" onmouseover="hideMenus()" onmouseout="hideMenus()"></div>
 
 	<div id="subNav">
-		<div id="navItem2Rollover_sub" style="visibility:hidden;" onmouseover="mState=1" onmouseout="mState=0;hideMenu('navItem2Rollover',0,1)">
-			<div id="navItem2Rollout">
-					<div class="subNavItem"><a href="/index.cfm/event/services_lawn">lawn services</a></div>
+		<div id="navItem3Rollover_sub" style="visibility:hidden;" onmouseover="mState=1" onmouseout="mState=0;hideMenu('navItem2Rollover',0,1)">
+			<div id="navItem3Rollout">
+					<div class="subNavItem"><a href="/index.cfm/event/services_lawn">lawn programs</a></div>
 					<div class="subNavItem"><a href="/index.cfm/event/services_treeAndShrub">tree &amp; shrub care</a></div>
 					<div class="subNavItem"><a href="/index.cfm/event/services_pestControl">pest control</a></div>
 					<div class="subNavItem"><a href="/index.cfm/event/services_garden">garden care tips</a></div>
 			</div>
 		</div>
-
-		<div id="navItem3Rollover_sub" style="visibility:hidden;" onmouseover="mState=1" onmouseout="mState=0;hideMenu('navItem3Rollover',0,1)">
-			<div id="navItem3Rollout">
-					<div class="subNavItem"><a href="/index.cfm/event/serviceAreas">servicing location</a></div>
-					<div class="subNavItem"><a href="/index.cfm/event/contactBranch">email your branch</a></div>
-					<div class="subNavItem"><a href="/index.cfm/event/referralProgram.step1">good neighbor referral</a></div>
-			</div>
-		</div>
-
 		<div id="navItem6Rollover_sub" style="visibility:hidden;" onmouseover="mState=1" onmouseout="mState=0;hideMenu('navItem6Rollover',0,1)">
 			<div id="navItem6Rollout">
 					
+					<div class="subNavItem"><a href="/index.cfm/event/about_tenReasons">10 reasons</a></div>
 					<div class="subNavItem"><a href="/index.cfm/event/about_whatToExpect">what to expect</a></div>
 					<div class="subNavItem"><a href="/index.cfm/event/about_testimonials">testimonials</a></div>
 					<div class="subNavItem"><a href="/index.cfm/event/about_faqs">faqs</a></div>
@@ -269,152 +363,628 @@
 	</div>
 </div>
 
-<div id="mapSmallStates" style="position:absolute;visibility:hidden;">
-	<a href="/index.cfm/event/branch_searchForStateCoverage/state/ME" class="mapMenuItem" onmouseover="mState=1" onmouseout="mState=0;hideMenu('mapSmallStates',0,0)">ME</a>
-	<a href="/index.cfm/event/branch_searchForStateCoverage/state/NH" class="mapMenuItem" onmouseover="mState=1" onmouseout="mState=0;hideMenu('mapSmallStates',0,0)">NH</a>
-	<a href="/index.cfm/event/branch_searchForStateCoverage/state/MA" class="mapMenuItem" onmouseover="mState=1" onmouseout="mState=0;hideMenu('mapSmallStates',0,0)">MA</a>
-	<a href="/index.cfm/event/branch_searchForStateCoverage/state/NJ" class="mapMenuItem" onmouseover="mState=1" onmouseout="mState=0;hideMenu('mapSmallStates',0,0)">NJ</a>
-	<a href="/index.cfm/event/branch_searchForStateCoverage/state/DE" class="mapMenuItem" onmouseover="mState=1" onmouseout="mState=0;hideMenu('mapSmallStates',0,0)">DE</a>
-	<a href="/index.cfm/event/branch_searchForStateCoverage/state/MD" class="mapMenuItem" onmouseover="mState=1" onmouseout="mState=0;hideMenu('mapSmallStates',0,0)">MD</a>
-	<a href="/index.cfm/event/branch_searchForStateCoverage/state/DC" class="mapMenuItem" onmouseover="mState=1" onmouseout="mState=0;hideMenu('mapSmallStates',0,0)">DC</a>
-</div>
 <!-- overlib -->
 <div id="overDiv" style="text-align:left; position:absolute; visibility:hidden; z-index:2000;"></div>
 <script language="JavaScript" src="/js/overlib.js" type="text/javascript"><!-- overLIB (c) Erik Bosrup --></script>
 
 	</div>
 	
-<script language="JavaScript">
-<!-- <[CDATA[
-	var gImages=new Array;
-	var gIndex=0;
-	var DCS=new Object();
-	var WT=new Object();
-	var DCSext=new Object();
-	
-	var gDomain="ssdc.scotts.com";
-	//var gDcsId="@@DCSID@@";
-	// Add customizations here
-	//WT.sp="@@SPLITVALUE@@";
-	
-	function dcsVar(){
-		var dCurrent=new Date();
-		WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-		if (WT.tz==0){
-			WT.tz="0";
+<!-- START OF SDC Advanced Tracking Code -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime: 2005/09/22 12:07:59 $ -->
+<script language="Javascript">
+var gService = false;
+var gTimeZone = -5;
+
+<!--// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
 		}
-		WT.bh=dCurrent.getHours();
-		WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-		if (typeof(screen)=="object"){
-			WT.cd=screen.colorDepth;
-			WT.sr=screen.width+"x"+screen.height;
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
 		}
-		if (typeof(navigator.javaEnabled())=="boolean"){
-			WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	return null;
+}
+function dcsGetIdCrumb(name,crumb){
+	var cookie=dcsGetCookie(name);
+	var id=cookie.substring(0,cookie.indexOf(":lv="));
+	var aCrumb=id.split("=");
+	for (var i=0;i<aCrumb.length;i++){
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
 		}
-		if (document.title){
-			WT.ti=document.title;
+	}
+	return null;
+}
+function dcsFPC(offset){
+	if (typeof(offset)=="undefined"){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	if (document.cookie.indexOf(name+"=")!=-1){
+		var id=dcsGetIdCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
 		}
-		WT.js="Yes";
-		if (typeof(gVersion)!="undefined"){
-			WT.jv=gVersion;
+		WT.co_f=id;
+		var dLst=new Date(lv);
+		dSes.setTime(ss);
+		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
 		}
-		DCS.dcsdat=dCurrent.getTime();
-		DCS.dcssip=window.location.hostname;
-		DCS.dcsuri=window.location.pathname;
-		if (window.location.search){
-			DCS.dcsqry=window.location.search;
+		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	else{
+		var tmpname=name+"_TMP=";
+		document.cookie=tmpname+"1";
+		if (document.cookie.indexOf(tmpname)!=-1){
+			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+				WT.co_f=gWtId;
+			}
+			else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+				WT.co_f=gTempWtId;
+				WT.vt_f="1";
+			}
+			else{
+				WT.co_f="2";
+				var cur=dCur.getTime().toString();
+				for (var i=2;i<=(32-cur.length);i++){
+					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+				}
+				WT.co_f+=cur;
+				WT.vt_f="1";
+			}
+			if (typeof(gWtAccountRollup)=="undefined"){
+				WT.vt_f_a="1";
+			}
+			WT.vt_f_s="1";
+			WT.vt_f_d="1";
+		}
+		else{
+			WT.vt_f="2";
+			WT.vt_f_a="2";
+			return;
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+dSes.getTime();
+	var expiry="; expires="+dExp.toGMTString();
+	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+}
+
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc="WT_FPC";
+var gWtId="";
+var gTempWtId="";
+var gConvert=true;
+
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+	dcsFunc("dcsTP");
+}
+
+//-->
+</script>
+<!-- END OF SDC Advanced Tracking Code -->
+
+<!-- START OF SmartSource Data Collector TAG -->
+
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+
+<!-- V7.5 -->
+
+<!-- $DateTime: 2005/10/21 15:53:12 $ -->
+
+<script language="Javascript"><!--
+
+gVersion="1.0";
+
+//-->
+
+</script>
+
+<script language="Javascript1.1"><!--
+
+gVersion="1.1";
+
+//-->
+
+</script>
+
+<script language="Javascript1.2"><!--
+
+gVersion="1.2";
+
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+
+//-->
+
+</script>
+
+<script language="Javascript1.3"><!--
+
+gVersion="1.3";
+
+if (window.ActiveXObject){
+
+	var gFV="";
+
+	for (var gVer=2;gVer<=10;gVer++){
+
+		try{
+
+			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
+
+			if (gFlash){
+
+				gFV=gVer+".0";
+
+				break;
+
+			}
 
 		}
-		if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-			if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-				DCS.dcsref=window.document.referrer;
+
+		catch(e){
+
+		}
+
+	}
+
+}
+
+//-->
+
+</script>
+
+<script language="Javascript1.4"><!--
+
+gVersion="1.4";
+
+//-->
+
+</script>
+
+<script language="Javascript1.5"><!--
+
+gVersion="1.5";
+
+//-->
+
+</script>
+
+<script language="JavaScript"><!--
+
+var gImages=new Array;
+
+var gIndex=0;
+
+var DCS=new Object();
+
+var WT=new Object();
+
+var DCSext=new Object();
+
+var gQP=new Array();
+
+
+
+var gDomain="webtrends.thescottsmiraclegrocompany.com";
+
+var gDcsId="dcsshkub33denrs79rsg6uvce_9j9u";
+
+
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
+
+	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
+
+}
+
+//-->
+
+</script>
+
+<script language="Javascript"><!--
+
+function dcsVar(){
+
+	var dCurrent=new Date();
+
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+
+	if (WT.tz==0){
+
+		WT.tz="0";
+
+	}
+
+	WT.bh=dCurrent.getHours();
+
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+
+	if (typeof(screen)=="object"){
+
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+
+		WT.sr=screen.width+"x"+screen.height;
+
+	}
+
+	if (typeof(navigator.javaEnabled())=="boolean"){
+
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+
+	}
+
+	if (document.title){
+
+		WT.ti=document.title;
+
+	}
+
+	WT.js="Yes";
+
+	if (typeof(gVersion)!="undefined"){
+
+		WT.jv=gVersion;
+
+	}
+
+	if (document.body&&document.body.addBehavior){
+
+		document.body.addBehavior("#default#clientCaps");
+
+		if (document.body.connectionType){
+
+			WT.ct=document.body.connectionType;
+
+		}
+
+		document.body.addBehavior("#default#homePage");
+
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+
+	}
+
+	if (parseInt(navigator.appVersion)>3){
+
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+
+		}
+
+		else if (navigator.appName=="Netscape"){
+
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+
+		}
+
+	}
+
+	WT.fi="No";
+
+	if (window.ActiveXObject){
+
+		if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
+
+			WT.fi="Yes";
+
+			WT.fv=gFV;
+
+		}
+
+	}
+
+	else if (navigator.plugins&&navigator.plugins.length){
+
+		for (var i=0;i<navigator.plugins.length;i++){
+
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+
+				WT.fi="Yes";
+
+				WT.fv=navigator.plugins[i].description.split(" ")[2];
+
+				break;
+
 			}
+
 		}
+
 	}
-	
-	function A(N,V){
-		return "&"+N+"="+dcsEscape(V);
-	}
-	
-	function dcsEscape(S){
-		if (typeof(RE)!="undefined"){
-			var retStr = new String(S);
-			for (R in RE){
-				retStr = retStr.replace(RE[R],R);
-			}
-			return retStr;
-		}
-		else{
-			return escape(S);
-		}
-	}
-	
-	function dcsCreateImage(dcsSrc){
-		if (document.images){
-			gImages[gIndex]=new Image;
-			gImages[gIndex].src=dcsSrc;
-			gIndex++;
-		}
-		else{
-			document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-		}
-	}
-	
-	function dcsMeta(){
-		var myDocumentElements;
-		if (document.all){
-			myDocumentElements=document.all.tags("meta");
-		}
-		else if (document.documentElement){
-			myDocumentElements=document.getElementsByTagName("meta");
-		}
-		if (typeof(myDocumentElements)!="undefined"){
-			for (var i=1;i<=myDocumentElements.length;i++){
-				myMeta=myDocumentElements.item(i-1);
-				if (myMeta.name){
-					if (myMeta.name.indexOf('WT.')==0){
-						WT[myMeta.name.substring(3)]=myMeta.content;
-					}
-					else if (myMeta.name.indexOf('DCSext.')==0){
-						DCSext[myMeta.name.substring(7)]=myMeta.content;
-					}
-					else if (myMeta.name.indexOf('DCS.')==0){
-						DCS[myMeta.name.substring(4)]=myMeta.content;
-					}
+
+	WT.sp="@@SPLITVALUE@@";
+
+	DCS.dcsdat=dCurrent.getTime();
+
+	DCS.dcssip=window.location.hostname;
+
+	DCS.dcsuri=window.location.pathname;
+
+	if (window.location.search){
+
+		DCS.dcsqry=window.location.search;
+
+		if (gQP.length>0){
+
+			for (var i=0;i<gQP.length;i++){
+
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+
+				if (pos!=-1){
+
+					var front=DCS.dcsqry.substring(0,pos);
+
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+
+					DCS.dcsqry=front+end;
+
 				}
+
 			}
+
 		}
+
 	}
-	//(gDcsId==""?'':'/'+gDcsId)+goes after domain
-	function dcsTag(){
-		var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/dcs.gif?";
-		for (N in DCS){
-			if (DCS[N]) {
-				P+=A(N,DCS[N]);
-			}
+
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+
+			DCS.dcsref=window.document.referrer;
+
 		}
-		for (N in WT){
-			if (WT[N]) {
-				P+=A("WT."+N,WT[N]);
-			}
-		}
-		for (N in DCSext){
-			if (DCSext[N]) {
-				P+=A(N,DCSext[N]);
-			}
-		}
-		if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-			P=P.substring(0,2040)+"&WT.tu=1";
-		}
-		dcsCreateImage(P);
+
 	}
-	
-	dcsVar();
-	dcsMeta();
-	dcsTag();
-	
-// ]]> -->
+
+}
+
+
+
+function A(N,V){
+
+	return "&"+N+"="+dcsEscape(V);
+
+}
+
+
+
+function dcsEscape(S){
+
+	if (typeof(RE)!="undefined"){
+
+		var retStr = new String(S);
+
+		for (R in RE){
+
+			retStr = retStr.replace(RE[R],R);
+
+		}
+
+		return retStr;
+
+	}
+
+	else{
+
+		return escape(S);
+
+	}
+
+}
+
+
+
+function dcsCreateImage(dcsSrc){
+
+	if (document.images){
+
+		gImages[gIndex]=new Image;
+
+		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+
+			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+
+		}
+
+		gImages[gIndex].src=dcsSrc;
+
+		gIndex++;
+
+	}
+
+	else{
+
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+
+	}
+
+}
+
+
+
+function dcsMeta(){
+
+	var elems;
+
+	if (document.all){
+
+		elems=document.all.tags("meta");
+
+	}
+
+	else if (document.documentElement){
+
+		elems=document.getElementsByTagName("meta");
+
+	}
+
+	if (typeof(elems)!="undefined"){
+
+		for (var i=1;i<=elems.length;i++){
+
+			var meta=elems.item(i-1);
+
+			if (meta.name){
+
+				if (meta.name.indexOf('WT.')==0){
+
+					WT[meta.name.substring(3)]=meta.content;
+
+				}
+
+				else if (meta.name.indexOf('DCSext.')==0){
+
+					DCSext[meta.name.substring(7)]=meta.content;
+
+				}
+
+				else if (meta.name.indexOf('DCS.')==0){
+
+					DCS[meta.name.substring(4)]=meta.content;
+
+				}
+
+			}
+
+		}
+
+	}
+
+}
+
+
+
+function dcsTag(){
+
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+
+	for (N in DCS){
+
+		if (DCS[N]) {
+
+			P+=A(N,DCS[N]);
+
+		}
+
+	}
+
+	for (N in WT){
+
+		if (WT[N]) {
+
+			P+=A("WT."+N,WT[N]);
+
+		}
+
+	}
+
+	for (N in DCSext){
+
+		if (DCSext[N]) {
+
+			P+=A(N,DCSext[N]);
+
+		}
+
+	}
+
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+
+		P=P.substring(0,2040)+"&WT.tu=1";
+
+	}
+
+	dcsCreateImage(P);
+
+}
+
+
+
+function dcsFunc(func){
+
+	if (typeof(window[func])=="function"){
+
+		window[func]();
+
+	}
+
+}
+
+
+
+dcsVar();
+
+dcsMeta();
+
+dcsFunc("dcsAdv");
+
+dcsTag();
+
+//-->
+
+</script>
+
+
+
+<noscript>
+
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://webtrends.thescottsmiraclegrocompany.com/dcsshkub33denrs79rsg6uvce_9j9u/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+
+</noscript>
+
+<!-- END OF SmartSource Data Collector  TAG -->
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3517237-1");
+pageTracker._initData();
+pageTracker._trackPageview();
 </script>
 
 
