@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the spellsofmagic.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623152444id_/http%3A//www.spellsofmagic.com/privicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellsofmagic.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012105id_/http%3A//www.spellsofmagic.com/privicy.html) for the most accurate reproduction.*
 
-# Spells of Magic Free Magic Spells, Forums and More
+# Spells Of Magic Privacy Policy
 
-  
 I fully understand the desire for privacy, specially when it comes to magic. This policy is to let you know how and why we collect information from you and what we do with that information. 
 
 _Information we collect_  
@@ -21,5 +20,3 @@ Some 3rd parties may also use cookies to track certain bits of information. Curr
 
 _Contact Us_  
 If you have any questions or concerns about our policy please [_contact_](https://web.archive.org/contact.html) me with them. 
-
-**NEW!** Join our new [Facebook Group](http://www.facebook.com/group.php?gid=35513770525&ref=mf). 10 free spell castings will be given away at the end of the month, chosen at random from all those who join! 
