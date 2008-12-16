@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the getitfromboy.net privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520075722id_/http%3A//getitfromboy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getitfromboy.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171608id_/http%3A//getitfromboy.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Showbiz Intriga? Get It From Boy!
 
-We respect your privacy and we are committed to safeguarding your privacy while online at our site http://getitfromboy.net. The following discloses the information gathering and dissemination practices for this Web site.
+This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
+**_We respect your privacy and we are committed to safeguarding your privacy while online at our site http://getitfromboy.net. The following discloses the information gathering and dissemination practices for this Web site._  
+**  
 **Log Files**  
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
@@ -19,5 +21,5 @@ This Web site contains links to other sites. Please be aware that we are not res
 **Advertisers**  
 We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Amazon, Widgetbucks, etc. Please check their websites for respective privacy policies.
 
-Contact Information  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: getitfromboy[at]gmail[dot]com
+**Contact Information**  
+If users have any questions or suggestions regarding our privacy policy, please contact us at: _**getitfromboy[at]gmail[dot]com.**_
