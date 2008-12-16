@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the academicsuperstore.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519072715id_/http%3A//www.academicsuperstore.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicsuperstore.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216072823id_/http%3A//www.academicsuperstore.com/page/privacy) for the most accurate reproduction.*
 
-# Academic Software, Student Software : Academic Superstore : Academic Software savings for students, teachers, schools
+# Academic Superstore : Academic Software discounts for students, teachers and schools
 
 | 
 
