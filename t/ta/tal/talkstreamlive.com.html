@@ -1,76 +1,75 @@
-<!--The following is the downloaded HTML source of the talkstreamlive.com privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213061124id_/http%3A//www.talkstreamlive.com/%3Fb%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the talkstreamlive.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216042206id_/http%3A//www.talkstreamlive.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
-<html><head>
-<meta name="Description" content="A Dynamic Directory of Streaming Talk Radio.">
-<meta name="Keywords" content="streaming, talk radio, Rush Limbaugh, Michael Savage, Sean Hannity">
-<title>TalkStreamLive.com - A Dynamic Directory of Streaming Radio</title>
-<link rel="stylesheet" href="http://www.talkstreamlive.com/style.css">
-<link rel="stylesheet" href="http://www.talkstreamlive.com/popup.css">
-<script language="javascript" src="http://www.talkstreamlive.com/js/ajax.js"></script>
-<script language="javascript" src="http://www.talkstreamlive.com/js/boxover.js"></script>
-<script language="javascript">
-function loadBlogs(strBlogs, intTotalShows)
-{
-	var strBlogURL = "http://www.talkstreamlive.com/rss.php?blogs=" + strBlogs + "&ts=" + intTotalShows;
-	requestURLDefined(strBlogURL, "blogs", "<center><br>Loading Blogs...</center>", "<center><br>There are currently no blogs available.</center>");
-}
-function changeNP(strShowName, strStationName)
-{
-	showprogress("np_showname", strShowName);
-	showprogress("np_stationname", strStationName);
-}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="distribution" content="global">
+<meta name="robots" content="follow, all">
+<meta name="language" content="en, sv">
+<link rel="stylesheet" href="/css/style.css">
+<title>TalkStreamLive</title>
+
+<script language="javascript" src="/js/ajax.js" type="text/javascript"></script>
+<script language="javascript" src="/js/scroller.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+	function loadBlogs(intCategory)
+	{
+		var strBlogURL = "/blogs/blogs.aspx?category=" + intCategory;
+		requestURLDefined(strBlogURL, "blogs", "<center><br>Loading Blogs...</center>", "<center><br>There are currently no blogs available.</center>");
+	}
 </script>
 </head>
-<body onunload="javscript:cancelRequest();">
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-138150-2";
-urchinTracker();
-</script>
-	<table class="FullHeight" align="center" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr id="logo">
-			<td id="logoshadowleft" colspan="2">
-			</td>
-			<td style="cursor:pointer;" onclick="javascript:window.location='http://www.talkstreamlive.com/';" id="logocell" align="right">
-				<span id="np_showname"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-				<span id="np_stationname"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			</td>
-			<td id="logoshadowright" colspan="2">
-			</td>
-		</tr>
-		<tr>
-			<td id="menu_border_left">&nbsp;
-			</td>
-			<td id="menu_dropshadow_left">&nbsp;
-			</td>
-			<td id="menucell" valign="top">
-				<div id="menu">
-					<a href="http://www.talkstreamlive.com/?b=nowplaying&amp;category=1">Refresh the List</a> |
-					<a href="http://www.talkstreamlive.com/?b=sendtofriend">Send to a Friend</a> |
-					<a href="http://www.talkstreamlive.com/forums/">Forum</a> |
-					<a href="http://talkstreamlive.wordpress.com">Blog</a> |
-					<a href="http://www.talkstreamlive.com/?b=contact">Contact</a> |
-					<a title="cssbody=[ttbdy] cssheader=[tthdr] header=[TalkStreamLive] body=[Works on your Smartphone or PDA. Requires Windows Mobile]" href="http://www.talkstreamlive.mobi">.mobi</a>
-				</div>
-				<div align="right">
-					&nbsp;
-				</div>
-			</td>
-			<td id="menu_dropshadow_right">&nbsp;
-			</td>
-			<td id="menu_border_right">&nbsp;
-			</td>
-		</tr>
-		<tr>
-			<td id="dropshadow_left" colspan="2">&nbsp;
-			</td>
-			<td id="body" align="center" valign="top">
-				<div style="width: 700px; text-align:center; font-weight:bold;" align="center">
+
+<body>
+<div id="wrap">
+	<div id="header">
+		<div id="headerleft">
+			<a href="/"><img src="/images/logo.gif" alt="TalkStreamLive"></a>
+		</div>
+		<div id="headermiddle">
+			<iframe src="/gadgets/scroller.aspx" width="200" height="70" scrolling="no" frameborder="0" style="background: url(/images/header.gif);"></iframe>
+		</div>
+		<div id="headerright">
+			<a href="mailto:contacttsl@gmail.com"><img src="/images/email.gif" alt="Email"></a>
+			<a href="/rss/"><img src="/images/rss.gif" alt="RSS"></a>
+			<a href="/shoutbox/"><img src="/images/comments.gif" alt="Shoutbox"></a>
+		</div>
+	</div>
+	<div id="navbar">
+		<div id="navbarleft">
+			<ul id="nav">
+				<li>
+					<a href="/" title="Refresh the List">Categories</a>
+					<ul>
+						<li><a href="/" title="Talk Radio">Talk Radio</a></li>
+						<li><a href="/news.aspx" title="News">News</a></li>
+						<li><a href="/sports.aspx" title="Sports">Sports</a></li>
+						<li><a href="/music.aspx" title="Music">Music</a></li>
+						<li><a href="/health.aspx" title="Health">Health</a></li>
+						<li><a href="/tech.aspx" title="Technology">Technology</a></li>
+						<li><a href="/travel.aspx" title="Travel">Travel</a></li>
+						<li><a href="/college.aspx" title="College">College</a></li>
+						<li><a href="/video.aspx" title="Video">Video</a></li>
+					</ul>
+				</li>
+				<li><a href="/gadgets/" title="Gadgets">Gadgets</a></li>
+				<li><a href="http://talkstreamlive.wordpress.com/" title="Blog">Blog</a></li>
+				<li><a href="/contact.aspx" title="Contact">Contact</a></li>
+				<li><a href="http://www.talkstreamlive.mobi/" title="Mobi">.Mobi</a></li>
+				
+			</ul>
+		</div>
+		
+		<div id="navbarright">
+		
+		</div>
+	</div>
+	<div id="homepage">
+		<div id="hpmain">
+			
+<div style="width: 700px; text-align:center; font-weight:bold;" align="center">
 TalkStreamLive PRIVACY POLICY
 </div>
-
 <div class="textBlock">
 Effective 8/14/06<p></p>
         <p>&nbsp;&nbsp;<br>
@@ -104,34 +103,20 @@ Effective 8/14/06<p></p>
         <p>If you have any questions about this privacy policy, or the privacy practices of TalkStreamLive, you can email <a href="mailto:contacttsl@gmail.com" target="_blank">contacttsl@gmail.com</a>.&nbsp;<br></p>
 </div>
 
-				<br>
-			</td>
-			<td id="dropshadow_right" colspan="2">&nbsp;
-			</td>
-		</tr>
-		<tr>
-			<td id="dropshadow_left" colspan="2">&nbsp;
-			</td>
-			<td id="footerborder">&nbsp;
-			</td>
-			<td id="dropshadow_right" colspan="2">&nbsp;
-			</td>
-		</tr>
-		<tr>
-			<td id="dropshadow_left" colspan="2">&nbsp;
-			</td>
-			<td id="footer">
-				<br>
-				<a href="http://www.talkstreamlive.com/?b=aboutus">About Us</a> | <a href="http://www.talkstreamlive.com/?b=versions">Versions</a> | <a href="http://www.talkstreamlive.com/?b=terms">Terms of Use</a> | <a href="http://www.talkstreamlive.com/?b=privacypolicy">Privacy Policy</a> | <a href="http://www.talkstreamlive.com/docket/">The Docket</a>
-				<br>&nbsp;<br>
-				<div class="copyright">
-					Copyright © 2006-2007. All Rights Reserved
-				</div>
-			</td>
-			<td id="dropshadow_right" colspan="2">&nbsp;
-			</td>
-		</tr>
-	</tbody></table>
+			<div style="background-color: #1c1c1c; clear:both;">
+				&nbsp;
+			</div>
+		</div>
+	</div>
+
+	<div style="background-color: #1c1c1c; clear:both;">
+		&nbsp;
+	</div>
+
+	<div id="footer">
+		<a href="/terms.aspx">Terms</a> | <a href="/privacypolicy.aspx">Privacy Policy</a> | © TalkStreamLive 2008
+	</div>
+</div>
 
 
 </body></html>
