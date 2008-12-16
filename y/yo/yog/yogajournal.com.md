@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogajournal.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211171950id_/http%3A//www.yogajournal.com/general_customer_service/cs_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogajournal.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050723id_/http%3A//yogajournal.com/general_customer_service/cs_privacy) for the most accurate reproduction.*
 
 # Yoga Journal
 
@@ -20,4 +20,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet.
 
-[Posting comments on our blogs is subject to additional policies.](https://web.archive.org/general_customer_service/cs_privacy/cs_privacy_blogs/)
+[Posting comments on YogaJournal.com is subject to additional policies.](https://web.archive.org/general_customer_service/cs_privacy/cs_privacy_blogs/)
