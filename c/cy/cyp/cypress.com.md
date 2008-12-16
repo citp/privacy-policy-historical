@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519205335id_/http%3A//www.cypress.com/go/footer/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170942id_/http%3A//www.cypress.com/go/footer/privacypolicy) for the most accurate reproduction.*
 
 # Cypress Home
 
