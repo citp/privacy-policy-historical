@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosurefreesearch.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612041602id_/http%3A//www.foreclosurefreesearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosurefreesearch.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011041id_/http%3A//www.foreclosurefreesearch.com/privacy) for the most accurate reproduction.*
 
 # Foreclosures - Foreclosed Homes
 
