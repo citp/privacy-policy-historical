@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the quizilla.com privacy policy that was archived on 2008-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080308150244id_/http%3A//quizilla.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizilla.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023256id_/http%3A//www.quizilla.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-**
-
-Privacy Policy/Your California Privacy Rights
-
-**
+# Privacy Policy | Quizilla
 
 At QUIZILLA.COM (the "Site"), your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our online information practices and the choices you can make about the collection and use of the personally identifiable information we collect at the Site. This Privacy Policy applies only to personally identifiable information collected at QUIZILLA.COM and does not cover, unless otherwise specifically stated, any information collected by any other web site and/or offline.
 
@@ -32,9 +26,13 @@ We may disclose anonymous, aggregated user statistics to third parties for a var
 
 
 
+  
+
+
 The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities. In addition, when you post content on our Site, you have the ability to post personally identifiable information about yourself. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. If you choose to submit content for publication we may publish your screen name and other information you have provided to us.
 
-Collection of Information by Third-Party Sites and Sponsors
+**Collection of Information by Third-Party Sites and Sponsors**  
+
 
 Some of our web pages contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
@@ -69,12 +67,18 @@ If you have any questions, comments or concerns regarding Quizilla's privacy not
 >  support@quizilla.com  
 > 
 
+  
+
+
 **YOUR CALIFORNIA PRIVACY RIGHTS**  
 California Civil Code Section 1798.83 permits customers of Quizilla who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to support@quizilla.com or write us: 
 
 > QUIZILLA.COM Privacy Rights  
 >  1515 Broadway  
 >  New York, NY 10036
+
+  
+
 
 **Effective Date:**   
 This notice was updated on May 16, 2007 
