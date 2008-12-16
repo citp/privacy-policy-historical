@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the duels.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604023754id_/http%3A//www.duels.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duels.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216210737id_/http%3A//www.duels.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Duels
 
 Sign In
+
+"All Roads Lead To Phyrra"
 
 Register
 
@@ -20,7 +22,7 @@ Duels is a Player vs. Player (PVP) Strategy Game:
 
 Privacy Policy
 
-At Oxygen Games, Inc. (“Oxygen”) we share your concerns about privacy while using our website, www.duels.com (the "Site” or “Duels”). Accordingly we want you to understand what types of information we are collecting and what may happen to that information.  This Privacy Policy details how we safeguard the privacy of our on-line users and does not apply to information that may be collected by us off-line. This Privacy Policy is incorporated into and is subject to the Duels Terms of Use. Your use of Duels and any personal information you provide through Duels remains subject to the terms of this Privacy Policy and our Terms of Use.
+At Challenge Online Games, Inc. (“Challenge”) we share your concerns about privacy while using our website, www.duels.com (the "Site” or “Duels”). Accordingly we want you to understand what types of information we are collecting and what may happen to that information.  This Privacy Policy details how we safeguard the privacy of our on-line users and does not apply to information that may be collected by us off-line. This Privacy Policy is incorporated into and is subject to the Duels Terms of Use. Your use of Duels and any personal information you provide through Duels remains subject to the terms of this Privacy Policy and our Terms of Use.
 
 WHAT YOU WILL FIND IN THIS PRIVACY POLICY
 
@@ -43,7 +45,7 @@ Passive Collection of Information. In addition to the information which you acti
 
 Cookies. When you visit the Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Site may not function properly if the ability to accept cookies is disabled.
 
-Collection of Information from Children. Oxygen abides by federal law and the guidelines set up by the Federal Trade Commission regarding youth privacy (Children's Online Privacy Protection Act). As such, we will not knowingly collect any personal information from or allow the registration of young people under the age of 13.
+Collection of Information from Children. Challenge abides by federal law and the guidelines set up by the Federal Trade Commission regarding youth privacy (Children's Online Privacy Protection Act). As such, we will not knowingly collect any personal information from or allow the registration of young people under the age of 13.
 
 USE / SHARING OF INFORMATION 
 
