@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513201329id_/http%3A//www.adam.com/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217004755id_/http%3A//www.adam.com/PrivacyStatement.html) for the most accurate reproduction.*
 
 # A.D.A.M. Inc. :: Complete Online Health Content Solutions :: Privacy Statement
 
