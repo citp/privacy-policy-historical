@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bighugelabs.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612001916id_/http%3A//bighugelabs.com/flickr/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighugelabs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011307id_/http%3A//www.bighugelabs.com/flickr/privacy.php) for the most accurate reproduction.*
 
 # BigHugeLabs.com Privacy Policy
 
