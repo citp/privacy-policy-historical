@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evo.com privacy policy that was archived on 2008-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080407210419id_/http%3A//www.evo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216073032id_/http%3A//www.evo.com/privacy-policy) for the most accurate reproduction.*
 
 # EVO Privacy Policy
 
@@ -69,8 +69,8 @@ By using the website, you signify your agreement to the terms of our Privacy Pol
 If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact: 
 
 EVO Media, Inc.  
-1317 5th Street, Third Floor  
-Santa Monica, CA. 90401
+1112 Montana Avenue, Suite 452  
+Santa Monica, CA 90403
 
 
 
@@ -92,8 +92,8 @@ Spencer Communications
 [pr@evo.com](mailto:pr@evo.com)
 
 EVO Media, Inc.  
-1317 5th St, 3rd Floor  
-Santa Monica, CA 90401  
+1112 Montana Ave, Suite 452  
+Santa Monica, CA 90403  
 [business@evo.com](mailto:business@evo.com)
 
 Site  
