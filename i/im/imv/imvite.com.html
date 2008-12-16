@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the imvite.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509142955id_/http%3A//www.imvite.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imvite.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216021322id_/http%3A//imvite.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <base href="http://www.imvite.com">
@@ -8,14 +8,145 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="KEYWORDS" content="free tv, online tv, watch tv, online radio, video clips, funny videos,games, online games, movies, sports, watch online tv, watch free tv, television, tv">
 <meta name="DESCRIPTION" content="Watch TV Online Free at Imvite.com. Watch the newest Videos and live TV."> 
+<style type="text/css">
+
+.halfmoon{
+margin-bottom: 4px;
+}
+
+.halfmoon ul{
+padding: 3px 9px 2px 5px;
+margin-left: 0;
+margin-top: 1px;
+margin-bottom: 0;
+font: bold 14px Verdana;
+list-style-type: none;
+text-align: left; /*set to left, center, or right to align the menu as desired*/
+border-bottom: 1px solid #929492;
+}
+
+.halfmoon li{
+display: inline;
+margin: 0;
+}
+
+.halfmoon li a{
+text-decoration: none;
+padding: 3px 9px 2px 5px;
+margin: 0;
+margin-right: 0; /*distance between each tab*/
+border-left: 1px solid #DDD;
+color: black;
+font: bold 14px Verdana;
+background: #ECEEEC url(img/tabmenu.gif) top right no-repeat;
+}
+
+.halfmoon li a:visited{
+color: black;
+}
+
+.halfmoon li a:hover, .halfmoon li a.current{
+background-color: #CDDADA;
+color: navy;
+}
+
+#tabcontentcontainer{
+width:95%; /*width of 2nd level content*/
+height:140px; /*height of 2nd level content. Set to largest's content height to avoid jittering.*/
+}
+
+.tabcontent{
+display:none;
+overflow:hidden;
+}
+
+</style>
+
+
+<script type="text/javascript">
+
+/***********************************************
+* DD Tab Menu II script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Set tab to intially be selected when page loads:
+//[which tab (1=first tab), ID of tab content to display (or "" if no corresponding tab content)]:
+var initialtab=[1, "sc2"]
+
+//Turn menu into single level image tabs (completely hides 2nd level)?
+var turntosingle=1 //0 for no (default), 1 for yes
+
+//Disable hyperlinks in 1st level tab images?
+var disabletablinks=0 //0 for no (default), 1 for yes
+
+////////Stop editting////////////////
+
+var previoustab=""
+
+if (turntosingle==1)
+document.write('<style type="text/css">\n#tabcontentcontainer{display: none;}\n</style>')
+
+function expandcontent(cid, aobject){
+if (disabletablinks==1)
+aobject.onclick=new Function("return false")
+if (document.getElementById && turntosingle==0){
+highlighttab(aobject)
+if (previoustab!="")
+document.getElementById(previoustab).style.display="none"
+if (cid!=""){
+document.getElementById(cid).style.display="block"
+previoustab=cid
+}
+}
+}
+
+function highlighttab(aobject){
+if (typeof tabobjlinks=="undefined")
+collectddimagetabs()
+for (i=0; i<tabobjlinks.length; i++)
+tabobjlinks[i].className=""
+aobject.className="current"
+}
+
+function collectddimagetabs(){
+var tabobj=document.getElementById("ddimagetabs")
+tabobjlinks=tabobj.getElementsByTagName("A")
+}
+
+function do_onload(){
+collectddimagetabs()
+expandcontent(initialtab[1], tabobjlinks[initialtab[0]-1])
+}
+
+if (window.addEventListener)
+window.addEventListener("load", do_onload, false)
+else if (window.attachEvent)
+window.attachEvent("onload", do_onload)
+else if (document.getElementById)
+window.onload=do_onload
+
+</script><style type="text/css">
+#tabcontentcontainer{display: none;}
+</style>
+
 <link rel="stylesheet" href="menu_tabs.css">
 <link rel="stylesheet" href="standards_whitecss.css">
 <link rel="stylesheet" href="new_menu.css">
-<script src="swfobject.js" type="text/javascript">
+<script src="flashplayer/swfobject.js" type="text/javascript">
 </script>
 <script src="sort.js" type="text/javascript"></script>
 <script src="ajax.js" type="text/javascript"></script>
-
+<style>
+.b1f, .b2f, .b3f, .b4f{font-size:1px; overflow:hidden; display:block;}
+.b1f {height:1px; background:#ddd; margin:0 5px;}
+.b2f {height:1px; background:#ddd; margin:0 3px;}
+.b3f {height:1px; background:#ddd; margin:0 2px;}
+.b4f {height:2px; background:#ddd; margin:0 1px;}
+.contentf {background: #ddd;}
+.contentf div {margin-left: 5px;}
+</style>
 
 </head>
 
@@ -23,14 +154,13 @@
 <table width="1000" align="center" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr><td>
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr><td rowspan="2" valign="top" width="248">
+<tbody><tr><td rowspan="2" valign="middle" width="248">
 <a href="index.php" target="_top"><img src="img/imvitelogo.png" border="0" width="224" height="78" alt="Imvite - The Entertainment Super Mall!"></a>
-
-</td>
-
+<br><a href="new_register.php"><font size="2"><b>Sign Up Now - It's Free and Fun</b></font></a>
 
 
-<td valign="top">
+
+</td><td valign="top">
 
 
 </td></tr>
@@ -40,13 +170,12 @@
 </p><form method="POST" action="search.php">
 
 <table>
-<tbody><tr><td align="center" colspan="2">
-<input type="text" style="width: 200px;font-size:14pt" name="search" value=""> 
+<tbody><tr><td align="right" colspan="2">
+<font size="2"><b>Search</b></font> <input type="text" style="width: 150px;font-size:12pt" name="search" value=""> 
 </td>
 
 <td align="center">
-
-<select name="search_cat" style="width: 125px;font-size:12pt">
+<select name="search_cat" style="width: 100px;font-size:12pt">
 
 
 <option value="All">All</option>
@@ -60,27 +189,13 @@
 </td>
 
 
-<td align="center">
+<td align="left">
 <input name="cat" type="hidden" value="All">
 <input type="image" src="img/searchmain.gif" alt="Submit Search">
 
 <input type="hidden" name="view" value="1"></td></tr>
 <tr><td align="center" colspan="4">
-Search Imvite for millions of Video Clips, Games, Live TV &amp; Radio Stations, and More.
-
-
-<p>
-<script type="text/javascript"><!--
-google_ad_client = "pub-4854119354110322";
-google_ad_slot = "8046526609";
-google_ad_width = 468;
-google_ad_height = 15;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-</p></td></tr>
+</td></tr>
 </tbody></table>
 </form>
 
@@ -88,7 +203,7 @@ google_ad_height = 15;
 </td>
 <td align="left" valign="top">
 <p>
-</p><div align="right"><font size="2"><a href="es/"> En Español</a>&nbsp;&nbsp;&nbsp;<a href="new_register.php">My Favorites</a></font></div>
+</p><div align="right"><font size="2"><a href="es/privacy.php"> En Español</a>&nbsp;&nbsp;&nbsp;<a href="new_register.php">My Favorites</a></font></div>
 <br>
 <table align="right" class="newlogin">
 <tbody><tr>
@@ -98,103 +213,20 @@ google_ad_height = 15;
 
 </td></tr>
 </tbody></table>
-<p>
-<span class="preload2"></span>
-
-</p><ul class="menu2">
-	<li class="top"><a href="index.php" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top"><a href="tv_search.php" id="liveTV" class="top_link"><span class="down">Live TV</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
-                <!--[if lte IE 6]><table><tr><td><![endif]-->
-                <ul class="sub">
-			<li><a href="tv_search.php">Search Wizard</a></li>
-                        <li><a href="watch-free-live-tv.php">By Country</a></li>
-			<li><a href="most-popular-tv.php">Most Popular</a></li>
-
-                                                <li><a class="fly">By Category<!--[if gte IE 7]><!--></a><!--<![endif]-->
-
-                                                        <!--[if lte IE 6]><table><tr><td><![endif]-->
-                                                        <ul>
-                                                <li><a href="search.php?view=3&amp;cat=tv&amp;search=finance">Finance</a></li>
-						<li><a href="search.php?view=3&amp;cat=tv&amp;search=music">Music</a></li>
-                                                <li><a href="search.php?view=3&amp;cat=tv&amp;search=news">News</a></li>
-                                                <li><a href="search.php?view=3&amp;cat=tv&amp;search=sports">Sports</a></li>
-						<li><a href="search.php?view=3&amp;cat=tv&amp;search=weather">Weather</a></li>
-
-                                                        </ul>
-                                                        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                                                </li>
-		<li><a href="newest-tv.php">Newly Added</a></li>
-
-                </ul>
-                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-        </li>
-
-
-<li class="top"><a href="search.php?cat=clips" id="videos" class="top_link"><span class="down">Videos</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul class="sub">
-			<li><a href="search.php?cat=clips">Newest Videos</a></li>
-			<li><a href="channel.php">By Category</a></li>
-			 <li><a href="search.php?cat=webcams">Live Webcams</a></li>
-
-		</ul>
-		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	</li>
-
-<li class="top"><a href="alltvepisodes.php" id="videos" class="top_link"><span class="down">TV Shows</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
-                <!--[if lte IE 6]><table><tr><td><![endif]-->
-                <ul class="sub">
-                        <li><a href="alltvepisodes.php">TV Episodes A-Z</a></li>
-                        <li><a href="allcartoons.php">Cartoons A-Z</a></li>
-                        <li><a href="allanime.php">Anime A-Z</a></li>
-                </ul>
-                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-        </li>
-
-	
-        <li class="top"><a href="listen-free-live-radio.php" id="LiveRadio" class="top_link"><span class="down">Radio</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
-                <!--[if lte IE 6]><table><tr><td><![endif]-->
-                <ul class="sub">
-                        <li><a href="listen-free-live-radio.php">By Country</a></li>
-			<li><a href="most-popular-radio.php">Most Popular</a></li>
-         <li><a class="fly">By Category<!--[if gte IE 7]><!--></a><!--<![endif]-->
-
-                                                        <!--[if lte IE 6]><table><tr><td><![endif]-->
-                                                        <ul>
-                                                <li><a href="search.php?view=3&amp;cat=radio&amp;search=music">Music</a></li>
-                                                <li><a href="search.php?view=3&amp;cat=radio&amp;search=news">News</a></li>
-                                                <li><a href="search.php?view=3&amp;cat=radio&amp;search=sports">Sports</a></li>
-                                                <li><a href="search.php?view=3&amp;cat=radio&amp;search=finance">Finance</a></li>
-                                                        </ul>
-                                                        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                                                </li>
-			<li><a href="newest-radio.php">Newly Added</a></li>
-
-			<li><a href="tag/%22old%20time%20radio%22">Old Time Radio</a></li>
-			 <li><a href="search.php?cat=podcast">Podcasts</a></li>
-                </ul>
-                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-        </li>
-
-
-	<li class="top"><a href="search.php?cat=games" id="Games" class="top_link"><span class="down">Games</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul class="sub">
-			<li><a href="search.php?cat=games">Most Popular</a></li>
-		</ul>
-		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	</li>
-        <li class="top"><a href="people.php" id="Community" class="top_link"><span class="down">Community</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
-                <!--[if lte IE 6]><table><tr><td><![endif]-->
-                <ul class="sub">
-                        <li><a href="people.php">Meet Imvite Users</a></li>
-                        <li><a href="new_register.php">My Favorites </a></li>
-     			 <li><a href="favslogin.php">Login</a></li>
-			<li><a href="new_register.php">Register</a></li>
-                </ul>
-                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-        </li>
+ 
+<br>
+<div id="ddimagetabs" class="halfmoon">
+<ul>
+<li><a href="index.php" onmouseover="expandcontent('sc1', this)">Home</a></li>
+<li><a href="tv_search.php" onmouseover="expandcontent('sc2', this)">Live TV</a></li>
+<li><a href="channel.php" onmouseover="expandcontent('sc3', this)">Videos</a></li>
+<li><a href="radio_search.php" onmouseover="expandcontent('sc4', this)">Radio</a></li>
+<li><a href="people.php" onmouseover="expandcontent('sc5', this)">Friends Live Chat</a></li>
 </ul>
+</div>
+
+
+
 
 
 <table width="965" align="center"><tbody><tr><td style="border-top: 1px #666666 solid;">
@@ -247,7 +279,14 @@ Some links on our site or as part of our messaging service may direct you to web
 
 </td></tr>
 </tbody></table>
-
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-239683-1");
+pageTracker._trackPageview();
+</script>
 
 
 
