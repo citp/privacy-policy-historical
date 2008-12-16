@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipbhost.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630201719id_/http%3A//www.invisionpower.com/ip.dynamic/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipbhost.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043054id_/http%3A//www.invisionpower.com/corporate/privacy.html) for the most accurate reproduction.*
 
-# Invision Power Services :: Corporate ::
+# Invision Power Services :: Corporate :: Privacy Policy
 
 ## Contents
 
