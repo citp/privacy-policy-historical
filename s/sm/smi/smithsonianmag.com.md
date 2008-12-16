@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smithsonianmag.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605233416id_/http%3A//www.smithsonianmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithsonianmag.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021452id_/http%3A//www.smithsonianmag.com/privacy) for the most accurate reproduction.*
 
-# Smithsonian Magazine | Privacy Policy
+# Privacy Policy | www.smithsonianmag.com | Smithsonian Magazine
 
 ## About Smithsonian
 
