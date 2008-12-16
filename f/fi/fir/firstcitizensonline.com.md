@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509122212id_/http%3A//www.firstcitizensonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033319id_/http%3A//www.firstcitizensonline.com/privacy) for the most accurate reproduction.*
 
 # First Citizens Bank | Privacy and Security
 
@@ -18,10 +18,8 @@ Read our [Privacy Policy](https://web.archive.org/privacy/policy.html) to learn 
 
 ## Search our site:
 
-## Are wedding bells  
-about to ring?  
-Check out these  
-financial tips.
+## 170 locations.  
+Zero worries.
 
-## Your future won't wait.  
-Don't wait to plan for it. 
+## Take flight with Visa® Bankmiles.  
+No blackout dates. No hassles.
