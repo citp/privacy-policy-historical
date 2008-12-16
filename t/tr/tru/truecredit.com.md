@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610131738id_/http%3A//www.truecredit.com/policy/privacy.jsp%3Ffc_se%3DfooterTab) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023726id_/http%3A//www.truecredit.com/policy/privacy.jsp%3Ffc_se%3DfooterTab) for the most accurate reproduction.*
 
-# Online Personal Credit Reports & Credit Scores - TrueCredit
+# Credit Scoring, Online Credit Checks & ID Fraud-Watch - TrueCredit Services
 
 |  | 
 
@@ -9,7 +9,7 @@
 |  | TrueCredit Privacy Statement  
 ---  
 TrueCredit is firmly committed to respecting the consumer's right to privacy and has created this privacy statement to demonstrate our commitment.  
-Last updated March 27, 2007.  
+Last updated June 17,2008.  
   
 **The Information We Collect from You**  
 TrueCredit allows you to access your credit report and related information conveniently and affordably through our Web site. We collect your personal information only if you decide to purchase one of our products or services, participate in our affiliate program, subscribe to our newsletter, participate in one of our contests or surveys or transact other business with us. In order to process your transactions and provide you with quality customer service, we need your full name and current and/or billing address, your email address (so we can contact you) and, if you purchase one of our products or services, a valid credit card number, your Social Security number and certain other personal information, such as your date of birth, address information, employment information, and certain credit card and loan account information. We use personal information to authenticate the credit card number and to confirm that the person requesting your credit report really is you and not an impostor or other person improperly seeking to access your information. 
@@ -38,6 +38,9 @@ If you indicated to us when you registered, placed an order or updated your acco
   
 **The Collection of Anonymous Data**  
 In order to enhance the usefulness of our Web site and our products and services, TrueCredit will collect data about our customers' use of our Web site, in a manner that does not include any personally identifiable information. While you browse the TrueCredit Web site, we note which pages of our site you visit and note the IP address of your computer (as all Web sites do automatically), but we do not link that address information to your personal information. The general information we gather enables us to serve our customers better by continually enhancing our site based on up-to-date use patterns. 
+
+**Information Regarding Your Subscription**  
+We may use information about your Credit Monitoring subscription, such as your usage patterns, to customize your web site and/or customer service experience. 
 
 **Updating Your Personal Information and Email Preferences**  
 You can correct or update at any time the personal information that you provided and that we maintain on you by accessing the TrueCredit Web site and selecting "Account Preferences" from the Main Menu. You can also indicate your preference not to receive promotional email from this screen. TrueCredit is not responsible for and cannot amend the information in your credit report, which is produced by one or more credit reporting agencies. If you believe that some of the information in your credit report is inaccurate, you must contact the applicable credit reporting agency directly. Information on how to contact the credit reporting agency will be contained in the credit report that you receive if you purchase. In addition, Information about how to contact the three major credit reporting agencies is available under "Disputing Your Credit Information" on our Web site at <http://www.truecredit.com/help/handlingInaccuracies.jsp>. 
