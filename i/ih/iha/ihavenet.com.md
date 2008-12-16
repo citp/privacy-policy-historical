@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ihavenet.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617130424id_/http%3A//www.ihavenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihavenet.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025150id_/http%3A//www.ihavenet.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - iHaveNet.com
+# Privacy Policy | iHaveNet.com
 
-**This statement discloses the privacy practices of the iHaveNet.com site.**
+**This statement discloses the privacy practices of iHaveNet.com**
 
 Welcome to iHaveNet.com (owned and produced by promiQue.com, LLC). iHaveNet.com is offered by promiQue.com, LLC through www.ihavenet.com and is made available subject to this Privacy Policy. By using this site, you agree, without limitation or qualification, to be bound by this Privacy Policy. 
 
@@ -10,11 +10,11 @@ Our policy may be updated from time to time so please check back periodically.
 
 www.iHaveNet.com contains links to other sites, and while we are highly selective of the links we provide, we cannot ensure, represent or guarantee their privacy policy. Please, bear in mind that the sites linked to from www.iHaveNet.com may have privacy policies that differ from those of www.iHaveNet.com. 
 
-**Information of yours collected by www.iHaveNet.com**
+**Information of yours collected by iHaveNet.com**
 
 The goal of www.iHaveNet.com is to be your premiere destination on the Internet by providing you with the relevant information, services and offerings. To achieve this goal, we collect information to understand what differentiates unique visitors. 
 
-**Our site only collects anonymous information**. 
+**Our site only collects anonymous information**
 
 **Anonymous information** refers to information that cannot be tied back to a specific individual. Each time a visitor comes to www.iHaveNet.com, we collect some information to improve the overall quality of our visitors' online experience. We collect: 
 
@@ -28,7 +28,7 @@ The goal of www.iHaveNet.com is to be your premiere destination on the Internet 
 
 * If you contact us (phone, fax, mail and/or email), we may keep a record of that contact and correspondence. We use the information provided so that we may respond to you via e-mail. 
 
-**Cookies and their use by www.iHaveNet.com**
+**Cookies and their use by iHaveNet.com**
 
 We also collect information "anonymously" using "cookies." Presently, "cookies" play an important role in making the Internet work, but there is much confusion among Internet users about what cookies are and how they are used. A cookie is a small text file containing a unique identification number that is transferred from a web site to the hard drive of your computer so that the web site may identify you and track your activities on the web site. This unique number identifies your browser-- but not you -- whenever you visit our site. A cookie will not let a web site know any personally identifiable information about you, such as your real name and address. We are not generally interested in any one individual and do not collect personally identifiable information about any one person using cookies. The coding in the cookies we set lets us know that you are using a particular computer but nothing more. Since cookies are only text files, they cannot run on your computer, search your computer for other information or transmit any information to anyone. 
 
