@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartwebby.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610045657id_/http%3A//www.smartwebby.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwebby.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165303id_/http%3A//www.smartwebby.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Smart Webby Privacy Policy
 
