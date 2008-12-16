@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509093809id_/http%3A//www.naa.org/AboutNAA/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216090241id_/http%3A//www.naa.org/AboutNAA/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Newspaper Association of America: Advancing Newspaper Media for the 21st Century
 
 ### Privacy Policy
 
-This is the World Wide Web site of the Newspaper Association of America, 4401 Wilson Boulevard, Suite 900, Arlington, Va. 22203-1867. NAA can be reached by e-mail at [webmaster@naa.org ](mailto:webmaster@naa.org)and by telephone at (571) 366-1000. 
+This is the World Wide Web site of the Newspaper Association of America, 4401 Wilson Boulevard, Suite 900, Arlington, Va. 22203-1867. NAA can be reached by e-mail at [feedback@naa.org](mailto:feedback@naa.org) and by telephone at (571) 366-1000. 
 
 This site does not target children under the age of 13 and does not collect personal information about individuals except when specifically and knowingly provided by such individuals. Currently, the site collects information (e.g., name, title, employer, mailing address, telephone number, fax number, e-mail address, and payment information) voluntarily provided by individuals who register for NAA events or purchase NAA products online. NAA uses this information to process online requests. 
 
@@ -22,8 +22,8 @@ Prior parental consent is not required for NAA to accept personal information fr
 
 **Children** : Even under circumstances where prior parental consent is not required by law, NAA suggests that children obtain permission from a parent before sending any information about themselves (including name, age, address, e-mail address, etc.) to NAA or anyone else over the Internet. 
 
-**Parents** : NAA encourages parents to get involved with their children's online usage and to be aware of the activities in which their children are participating. Any personal information collected by NAA from children (if NAA is aware they are children) will be used only for internal purposes such as contest fulfillment, or fulfilling requests for information or materials. Such information will not be included in our database and will not be posted or published by NAA, or provided to any third parties, without prior parental consent. If you have any concerns regarding use of information provided by a child, please contact us at [webmaster@naa.org ](mailto:webmaster@naa.org), or at the postal mail address or telephone number above. 
+**Parents** : NAA encourages parents to get involved with their children's online usage and to be aware of the activities in which their children are participating. Any personal information collected by NAA from children (if NAA is aware they are children) will be used only for internal purposes such as contest fulfillment, or fulfilling requests for information or materials. Such information will not be included in our database and will not be posted or published by NAA, or provided to any third parties, without prior parental consent. If you have any concerns regarding use of information provided by a child, please contact us at [feedback@naa.org](mailto:feedback@naa.org), or at the postal mail address or telephone number above. 
 
 NAA's Web site contains links to many other sites. However, we are not responsible for the content or the privacy practices employed by other sites. 
 
-Questions or concerns regarding what is done with information provided via this site should be directed to [webmaster@naa.org ](mailto:webmaster@naa.org)before any information is submitted. 
+Questions or concerns regarding what is done with information provided via this site should be directed to [feedback@naa.org](mailto:feedback@naa.org) before any information is submitted. 
