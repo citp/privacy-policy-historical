@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509164153id_/http%3A//www.iherb.com/info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013734id_/http%3A//www.iherb.com/info/Privacy.aspx) for the most accurate reproduction.*
 
 # iHerb.com - Privacy Policy
 
-Your Privacy and Security are Top Priority at iHerb.
+**In a nutshell:**   Your Privacy and Security are a Top Priority at iHerb
 
-**In a nutshell:**
-
-When you submit personal information on our website, your information is protected both online and offline. We can only access your credit card (but not your actual credit card information) to issue credits, never actual charges. Only you can produce a charge by placing an order in your password-protected account. 
+When you submit personal information on our website, your information is protected both online and offline. We can only access your credit card (but not your actual credit card information) to issue credits, never for actual charges. Only you can produce a charge by placing an order in your password-protected account. 
 
 While on a secure page, such as our order form which is hosted in a secure data facility, the lock icon of your web browser becomes locked. This indicates that the connection between your web browser and our web server is secured. While on a secure page, the 'http' on your browser changes to 'https'. 
 
@@ -20,7 +18,7 @@ Information Collected and How it is Used
 
 If you opted to register with us you are asked for a login ID and a password to establish the registration. Once registered, you must input your name and address to facilitate ordering and reordering from iHerb. Registration is required to order from us. 
 
-During the order process, you will be asked for shipping information name, address, telephone number, email, and choice of payment method. This information is collected in order to process your purchase and for shipping purposes. 
+During the order process, you will be asked for shipping information name, address, telephone number, email, and choice of payment method. This information is collected in order to process your purchase and is for shipping purposes only. 
 
 Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
 
@@ -30,7 +28,7 @@ We use third party service providers such as credit card processors and delivery
 
 Newsletter
 
-If you did not opt out of receiving our newsletter after placing an order with us or if you signed up to receive it while visiting our site, we provide a way for you to unsubscribe from it if you no longer wish to receive it. To unsubscribe from our newsletter, you may follow the unsubscribe instructions within the newsletter or email us at [info@iHerb.com.](mailto:info@iHerb.com)
+If you did not opt out of receiving our newsletter after placing an order with us or if you signed up to receive it while visiting our site, there is a way for you to unsubscribe from it if you no longer wish to receive it. To unsubscribe from our newsletter, you may follow the unsubscribe instructions within the newsletter or email us at [info@iHerb.com.](mailto:info@iHerb.com)
 
 Live Chat
 
@@ -54,11 +52,11 @@ When you submit personal information on our website, we will protect your inform
 
 When you submit sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - (Secure Socket Layer). While on a secure page, such as our order form which is hosted in a secure data facility, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. 
 
-We also use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure once we receive it. For example, we store your personal information on computer systems located in limited access, secured facilities. iHerb.com's employees are trained and kept up to date on our security procedures. If you have any questions about the security at our website, you can send an email to [security@iHerb.com](mailto:security@iHerb.com). 
+We also use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure once we receive it. For example, we store your personal information on computer systems located in limited access, secured facilities. iHerb.com's employees are trained and kept up-to-date on our security procedures. If you have any questions about the security at our website, you can send an email to [security@iHerb.com](mailto:security@iHerb.com). 
 
 Correcting/Updating Personal Information
 
-If you need to correct or update your personal information (such as your email address), or you no longer desires our service you can let us know by emailing our customer support at [info@iHerb.com](mailto:info@iHerb.com) or calling 626.939.7800.
+If you need to correct or update your personal information (such as your email address), or if you no longer desire our service, you can let us know by emailing our customer support at [info@iHerb.com](mailto:info@iHerb.com) or calling 626.939.7800.
 
 Notification of Changes
 
