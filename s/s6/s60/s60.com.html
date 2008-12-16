@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the s60.com privacy policy that was archived on 2007-10-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071013052215id_/http%3A//www.s60.com/life%3FpbId%3D36) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the s60.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216011644id_/http%3A//www.s60.com/life/navi%3FpbId%3D36) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
 
 
 
@@ -16,6 +17,8 @@
 
 
 
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
@@ -26,11 +29,17 @@
     <script type="text/javascript" src="/js/sifr.js"></script>
     <script type="text/javascript" src="/js/swfobject.js"></script>
     <script type="text/javascript" src="/js/ajax.js"></script><link rel="stylesheet" type="text/css" href="/css/navbug_chatroom_style.css">
+    <script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
+    <script type="text/javascript" src="/dwr/engine.js"></script>
+
+    <script type="text/javascript" src="/dwr/interface/DWRSearchInterface.js"></script>
+    
 
 
     
     
         <link rel="stylesheet" href="/css/new20/global.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="/css/new40/global.css" type="text/css" media="screen">
         <!--[if lt IE 7]>
         <link rel="stylesheet" href="/css/new20/ie.css" media="screen" type="text/css" />
         <![endif]-->
@@ -42,6 +51,7 @@
     
 
 
+
 <script language="javascript">
     <!--
     function setClassName(objId, className)
@@ -50,6 +60,425 @@
     }
     -->
 </script>
+
+
+
+</head>
+
+<body id="page-sub-main" class="">
+
+
+<div id="skiplinks">
+    <a href="#content">Skip to content »</a>
+    <br>
+    <a href="#navi">Skip to navigation »</a>
+</div>
+
+<div id="container" class="clear">
+    
+    
+
+    
+
+
+
+<div id="branding-area">
+    <div id="logo">
+        <h1>
+            <a href="/life">S60 Open to new features</a>
+        </h1>
+    </div>
+    <div id="search-area2">
+        <div id="controls-wrapper">
+            <form name="userForm" method="post" action="/life" id="frm_search2">
+                <input type="hidden" value="searchFiles" name="action">
+                
+                
+                  
+                
+                <input type="hidden" value="/life/navi?pbId=36" name="backLink">                
+    				
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	div.auto_complete {
+	  width: 150px;
+	  background: #fff;
+	  display: inline;
+	  z-index: 1;
+      position: absolute;
+    }
+	
+	div.auto_complete ul {
+	  border: 1px solid #888;
+	  margin: 0;
+	  padding: 0 !important; /* content-narrow ul tries override */
+	  width: 100%;
+	  list-style-type: none;
+      background: #fff;
+    }
+	
+	div.auto_complete ul li {
+	  margin: 0;
+	  padding: 3px;
+	}
+	
+	div.auto_complete ul li.selected {
+	  background-color: #ffb;
+	}
+	
+	div.auto_complete ul strong.highlight {
+	  color: #800;
+	  margin: 0;
+	  padding: 0;
+	}
+</style>
+
+<input type="text" id="search-box" class="textinput2" name="searchKeyword" onfocus="if (this.value=='Search for') this.value='';" onblur="if (this.value=='') this.value='Search for';" value="Search for" onkeyup="lookup(this.value);">
+
+<script type="text/javascript">
+function lookup(inputString) {
+    if(inputString.length < 2) {
+        // Hide the suggestion box.
+        $('#search-box-keyword_list').hide();
+    } else {
+        /*
+        $.post("rpc.php", {queryString: ""+inputString+""}, function(data){
+            if(data.length >0) {
+                $('#search-box-keyword_list').show();
+                $('#autoSuggestionsList').html(data);
+            }
+        });*/
+        $('#search-box-keyword_list').show();
+        DWRSearchInterface.getTopKeywords(
+	    	inputString,
+	    	function(data) {
+                var ldata = "<ul>";
+                for (var i=0; i < data.length; i++) {
+                    var ldata = ldata+ "<li onclick=\"fill('"+data[i]+"');\">" + data[i] + "</li>";
+                }
+                ldata = ldata + "</ul>";
+                $('#search-box-keyword_list').html( ldata ) }
+	  	);
+
+    }
+} // lookup
+
+function fill(thisValue) {
+    $('#search-box').val(thisValue);
+   $('#search-box-keyword_list').hide();
+}
+</script>
+
+                    <span id="span-box">in</span>
+                    <select tabindex="-1" name="scope" id="searchCombo">
+                        <option value="all" selected="selected">All</option>
+                        <option value="applications">Applications</option>
+                        <option value="articles">Articles</option>
+                        <option value="pages">Pages</option>
+                        <option value="press_releases">Press releases</option>
+                        <option value="top_stories">Top stories</option>
+                        <option value="wishes">Wishes</option>
+                        <option value="devices">Devices</option>
+                    </select>
+                    <input type="image" class="search-submit2" alt="Search" value="search" id="search_btn2" name="search_btn" src="/img/magnifier.png">
+            </form>
+            <div class="auto_complete" id="search-box-keyword_list" style="display:none;"></div>
+        </div>
+    </div>
+
+
+    <div id="sign-in">
+        <form method="POST" name="loginfrm" style="margin:0px;padding:0px;">
+            <input type="hidden" name="action" value="login">
+        </form>
+        <form action="/life/mys60" method="POST" name="logoutfrm" style="margin:0px;padding:0px;">
+            <input type="hidden" name="action" value="logout">
+            <input type="hidden" name="sourceUrl" value="https://web.archive.org/web/20081216011644id_/http%3A//www.s60.com/life/navi%3FpbId%3D36">
+            
+        </form>
+        <script language="JavaScript">document.logoutfrm.sourceUrl.value = location.href;</script>
+        <ul>
+            <li>
+                
+                    
+                    
+                        
+                        <a href="/life/mys60/?action=login&amp;returnPage="><span>Sign In »</span></a>
+                    
+                
+        </li>
+    </ul>
+</div>
+</div>
+			
+
+
+<div class="cb">
+	<div class="bt">
+		<div></div>
+	</div>
+	<div class="i1">
+		<div class="i2">
+
+
+<div class="i3 clear">
+
+    
+<div id="section-nav">
+	<ul>
+        
+         
+         
+             <li class="category">
+         
+         
+                     <a href="/life" title="Main pages" style="width:57px;background-image:url(/img/home_toplevel_navigation_10.jpg);">
+                            <span>Home</span>
+                        </a>
+        
+			
+			
+			
+				</li><li class="category">
+			
+			
+				<a href="/life/thisiss60" title="Getting to know S60, including tips and tricks" style="width:77px;background-image:url(/img/navi-s60info.gif);">
+					<span>S60 info</span>
+				</a>
+			</li>
+		
+			
+			
+			
+				<li class="category">
+			
+			
+				<a href="/life/s60phones" title="A complete list of phones with S60 software " style="width:104px;background-image:url(/img/navi-devices.gif);">
+					<span>S60 devices</span>
+				</a>
+			</li>
+		
+			
+			
+			
+				<li class="category">
+			
+			
+				<a href="/life/application" title="Downloads, shops, and goodies for your phone" style="width:111px;background-image:url(/img/navi-applications.gif);">
+					<span>Applications</span>
+				</a>
+			</li>
+		
+			
+			
+			
+				<li class="category">
+			
+			
+				<a href="/life/mys60/?action=login" title="Register with us for exclusive downloads and other perks" style="width:68px;background-image:url(/img/navi-mys60.gif);">
+					<span>My S60</span>
+				</a>
+			</li>
+		
+			
+			
+			
+				<li class="category">
+			
+			
+				<a href="/life/newsevents" title="" style="width:53px;background-image:url(/img/navi-news.gif);">
+					<span>News</span>
+				</a>
+			</li>
+		
+         <li class="category">
+             <a href="http://blogs.s60.com/" title="blogs" style="width:52px;background-image:url(/img/navi-blogs.gif);">
+					<span>Blogs</span>
+				</a>
+         </li>
+    </ul>
+</div>
+
+
+		<div id="section-sub-nav">
+	<ul>
+		
+	</ul>
+</div>
+        <a name="content"></a>
+		
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+<div id="wrapper">
+<script type="text/javascript">
+                    if (document.location.href.indexOf('/life/mys60/myexclusives') > -1)
+                            document.location.href = '/life/mys60/?action=login&returnPage=/life/mys60/myexclusives';
+                </script>
+                                <!--sub page containers -->
+	<!-- id="content" OR id="content-narrow" -->
+
+
+<div id="content-narrow">
+
+
+            
+
+
+        
+	
+		
+			
+<h3>Privacy Policy of "www.s60.com" (this "Site")</h3><p>This Privacy Policy is applicable to this Site and not necessarily to other Nokia sites on the World Wide Web pages. When leaving this Site, please read the privacy policy applicable to the site you are visiting. <br></p><p>By accessing and using this Site, you hereby agree to the terms of this Privacy Policy. If you do not agree with this Privacy Policy, please do not use this Site.  <br></p><h3>Non-Personal Information Collected Automatically</h3><p>Nokia is committed to the protection of the privacy of its web site visitors.  Nokia, including its affiliates in the "Nokia Group" family of companies (those under common control of Nokia's ultimate parent company), may share personal information within the Nokia Group for the purposes described in this Policy. Such sharing may involve transferring data to and from other countries in the world, including countries in the European Union where Nokia has operation and does business. Some countries may provide less legal protection of your personal data. However, in such countries Nokia will still handle information in the manner described in this Policy. Please note that Nokia may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-parties, but these statistics will include no personally identifying information. <br></p><h3>Personal Information</h3><p>In order to respond to your questions, fulfill your requests or manage interactive customer programs, it may be necessary to ask for personal information such as your name, address, e-mail address and telephone number. Nokia may store this information on a database. Nokia may use this information to respond to your requests, or to contact you via mail, e-mail or phone to inform you of new products, services or promotions Nokia may offer. If you place an order for a product, request a service or submit content to this site, Nokia may need to contact you for additional information required to process or fulfill your order and/or request. However, unless compelled by applicable legislation, Nokia will not provide this information to a third party without your permission, except as necessary to process your order, fulfill your requests or manage interactive customer programs. You also hereby grant to Nokia the right to exchange any information provided by you between Nokia's affiliates for the purposes mentioned above. <br></p><p>In addition to the personal information that you may provide Nokia, this Site may use technology that lets Nokia collect certain technical information like your Internet protocol address, your computer's operating system, your browser type, your general location (continent or country), traffic patterns and the address of any referring Web sites. <br></p><p> Nokia has the right, but not the obligation, to retain and use such information stored in Nokia's databases and other information obtained from your current or previous activities on this Site for a reasonable period of time, not to exceed any legal requirements or limitations, to resolve disputes, troubleshoot problems and enforce Nokia's legal rights and the terms and conditions of this Policy or this Site's "Site Terms".<br></p><h3>Security</h3><p>Please note that while there are always risks associated with providing personal data, whether in person, by phone or over the Internet, and no system of technology is completely safe, "tamper" or "hacker- proof", Nokia has endeavoured to take appropriate measures to prevent and minimize risks of unauthorized access to, improper use and the inaccuracy of your personal information. For example, we use encryption technology when collecting or transferring sensitive data such as credit card information. <br></p><h3>Accuracy of collected data</h3><p>  Nokia will on its own initiative, or at your request, replenish, rectify or erase any incomplete, inaccurate or outdated personal data retained by Nokia in connection with the operation of this Site. 
+
+<br></p><h3>Visitor identification</h3><p>From time to time, information may be placed on your computer to allow us to identify you. This information is commonly known as "cookies". By showing how and when our visitors use this Site, this information can help us to continue to improve our Site. We will only use cookies to view information on your hard drive that was put there by a cookie from this Site. The use of cookies is an industry standard and many web sites use them. Cookies are stored on your computer and not on this Site. If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits. <br></p><h3>Minors</h3><p>No information may be submitted to Nokia by persons under the age of 18 without the consent of a parent or legal guardian, nor may persons under the age of 18 make purchases or other legal acts on this Site without such consent, unless permitted by applicable legislation. <br></p><h3> Disclosures Required by Law</h3><p>If Nokia is compelled by law, court order or other judicial process to disclose any of your personal information to a court or third party, Nokia will attempt to give you prior notice before using the contact information you have provided. You hereby authorize Nokia to disclose any information about you for any of the above purposes stated above in the "Personal Information" Section, such as in connection with an investigation of intellectual property infringements or other activity that is illegal or may expose Nokia to legal liability.
+<br></p><h3>Changes</h3><p>We may change this Privacy Policy, or change, modify or withdraw access to this Site, or the content of these pages at any time with or without notice. <br></p>
+			
+		
+		
+	
+	
+        
+
+
+	
+	</div>
+</div>
+
+
+
+
+    
+
+<div id="sub-nav">
+  
+    
+
+    
+  	<ul>
+  		
+  	</ul>
+  
+</div>
+
+
+
+<div id="extra">
+	
+
+
+
+
+
+
+
+
+       
+</div>
+
+	
+	
+	
+
+			</div>
+		</div>
+	</div>
+	<div class="bb2">
+		<div></div>
+	</div>
+</div>
+
+
+
+
+<!-- footer.jsp -->
+
+<div id="siteinfo">
+		<div id="siteinfo-links">
+            <p style="font-size:10px;">
+                <a href="/cn">S60.com <img src="/img/chinese.gif" alt="Chinese"></a>
+                |
+                <a href="http://www.s60.mobi">S60 mobile Site</a>
+                |
+                <a href="/life/navi?pbId=148">About</a>
+                |
+                <a href="/life/navi?pbId=35">Site Terms</a>
+                |
+                <a href="/life/navi?pbId=36">Privacy Policy</a>
+                |
+                <a href="/life/navi?pbId=149">Sitemap</a>
+                |
+                <a href="/life/?action=feedback&amp;pbId=150">Feedback</a>
+                |
+                <a href="/life/navi?pbId=382">RSS feeds</a>
+
+                </p>
+                <hr>
+                <div id="siteinfo-partners" style="width:50%;">
+                    <a href="http://www.lge.com" target="_blank"><img alt="LG brand logo" src="/img/partners/lg.gif"></a>
+                    <a href="http://www.nokia.com" target="_blank"><img alt="Nokia brand logo" src="/img/partners/nokia.gif"></a>
+                    <a href="http://www.samsung.com" target="_blank"><img alt="Samsung brand logo" src="/img/partners/samsung.gif"></a>
+                </div>
+
+
+            <br clear="all">
+            <p style="margin-left: 15px;">These companies are S60 licensees.</p>
+            <br clear="all">
+        </div>
+</div>
+
+</div><!-- end containder div -->
+
+
+<script type="text/javascript">
+//<![CDATA[
+if(typeof sIFR == "function"){
+	
+	
+	
+
+  
+  
+
+  
+    sIFR.replaceElement(named({sSelector:"body #ac-head h2", sFlashSrc:"/img/flash/klavika.swf", sColor:"#AAC800", sLinkColor:"#AAC800", sBgColor:"#F7F7F7", sHoverColor:"#666666"}));
+  	sIFR.replaceElement(named({sSelector:"body #amb-ranking-flash", sFlashSrc:"/img/flash/klavika.swf", sColor:"#666666", sLinkColor:"#666666", sBgColor:"#FFFFFF", sHoverColor:"#666666"}));
+    sIFR.replaceElement(named({sSelector:"body h2", sFlashSrc:"/img/flash/klavika.swf", sColor:"#A8C000", sLinkColor:"#A8C000", sBgColor:"#FFFFFF"}));
+	  sIFR.replaceElement(named({sSelector:"body #view-wish h3", sFlashSrc:"/img/flash/klavika.swf", sColor:"#1F82C1", sLinkColor:"#1F82C1", sBgColor:"FFFFFF"}));
+    sIFR.replaceElement(named({sSelector:"body #extra .promo-teaser h4", sFlashSrc:"/img/flash/klavika.swf", sColor:"#b2c631", sLinkColor:"#b2c631", sBgColor:"#FFFFFF", sWmode: "transparent"}));
+    sIFR.replaceElement(named({sSelector:"body .rounded-box-content .profile-info .profile-nick", sFlashSrc:"/img/flash/klavika.swf", sColor:"#b2c631", sLinkColor:"#999999", sBgColor:"#f9f9f9"}));
+    sIFR.replaceElement(named({sSelector:"body h3.flash-font", sFlashSrc:"/img/flash/klavika.swf", sColor:"#1F82C1", sLinkColor:"#1F82C1", sBgColor:"FFFFFF", sWmode: "transparent"}));
+  
+	
+
+};
+//]]>
+</script>
+
+
 
 
 
@@ -86,11 +515,19 @@ var gRefTrack = document.referrer;
     
     
 
+	
+    
+    
+
     
     
 
     hbx.pn="Main";
     hbx.mlc="/S60/Privacy+Policy";//MULTI-LEVEL CONTENT CATEGORY
+    
+    if(typeof overrideHbPageName != 'undefined') hbx.pn=overrideHbPageName;
+    if(typeof overrideHbCatName != 'undefined') hbx.mlc=overrideHbCatName;
+    
     
     
     hbx.pndef="Series 60";//DEFAULT PAGE NAME
@@ -131,7 +568,7 @@ var gRefTrack = document.referrer;
     //CUSTOM VARIABLES
     hbx.ci="";//CUSTOMER ID
     hbx.hc1="";//CUSTOM 1
-    hbx.hc2="";//CUSTOM 2
+    hbx.hc2="US";//CUSTOM 2
     hbx.hc3="";//CUSTOM 3
     hbx.hc4="";//CUSTOM 4
     
@@ -146,324 +583,19 @@ var gRefTrack = document.referrer;
     //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
 </script>
 
-
 <script language="javascript1.1" type="text/javascript" src="/data/hbx.js"></script>
 
 
-<script language="javascript1.2" type="text/javascript" src="/js/page_validation.js"></script>
 
-<script language="javascript">
-    addLoadEvent(setPageValidation);
-</script>
 
-</head>
 
-<body id="page-sub-main" class="">
 
 
 
-<div id="skiplinks">
-    <a href="#content">Skip to content »</a>
-    <br>
-    <a href="#navi">Skip to navigation »</a>
-</div>
 
-<div id="container" class="clear">
-    
-    
 
 
-<div id="branding-area">
-    <div id="logo">
-        <h1>
-            <a href="/life">S60 Open to new features</a>
-        </h1>
-    </div>
 
-    <div id="search-area">
-        <form id="frm_search" action="/life" method="post" name="userForm">
-            <input type="hidden" name="action" value="searchFiles">
 
-            <p>
-                
-                <input type="text" name="searchKeyword" class="textinput" id="search-box" value="Search">
-                <input type="image" src="/img/search-icon.gif" name="search_btn" id="search_btn" value="search" alt="Search" class="search-submit">
-            </p>
-        </form>
-    </div>
 
-    <div id="sign-in">
-        <form method="POST" name="loginfrm" style="margin:0px;padding:0px;">
-            <input type="hidden" name="action" value="login">
-        </form>
-        <form action="/life/mys60" method="POST" name="logoutfrm" style="margin:0px;padding:0px;">
-            <input type="hidden" name="action" value="logout">
-            <input type="hidden" name="sourceUrl" value="https://web.archive.org/web/20071013052215id_/http%3A//www.s60.com/life%3FpbId%3D36">
-            
-        </form>
-        <script language="JavaScript">document.logoutfrm.sourceUrl.value = location.href;</script>
-        <ul>
-            <li>
-                
-                
-                                    
-                
-                <a href="/life/mys60/?action=login&amp;returnPage="><span>Sign In »</span></a>
-            
-            
-        </li>
-    </ul>
-</div>
-</div>
-			
-
-<div id="main-nav">
-	<ul>
-		
-			<li id="s60">
-				<a href="/life" title="S60 In Your Life">
-					<span>S60 In Your Life</span>
-				</a>
-			</li>
-		
-			<li id="business">
-				<a href="/business" title="Doing business with S60">
-					<span>Doing business with S60</span>
-				</a>
-			</li>
-		
-
-    <li id="s60Blogs">
-      <a href="http://blogs.s60.com/" title="S60 Blogs">
-        <span>S60 Blogs</span>
-      </a>
-    </li>
-  </ul>
-</div>
-<div class="cb">
-	<div class="bt">
-		<div></div>
-	</div>
-	<div class="i1">
-		<div class="i2">
-
-
-<div class="i3 clear">
-
-    
-<div id="section-nav">
-	<ul>
-		
-			
-			
-			
-				<li class="category">
-			
-			
-				<a href="/life/thisiss60" title="Getting to know S60, including tips and tricks" style="width:97px;background-image:url(/img/navi-this-is-s60.gif);">
-					<span>This is S60</span>
-				</a>
-			</li>
-		
-			
-			
-			
-				<li class="category">
-			
-			
-				<a href="/life/application" title="Downloads, shops, and goodies for your phone" style="width:111px;background-image:url(/img/navi-applications.gif);">
-					<span>Applications</span>
-				</a>
-			</li>
-		
-			
-			
-			
-				<li class="category">
-			
-			
-				<a href="/life/wishlist/displayWishList.do" title="" style="width:171px;background-image:url(/img/navi-applicationWL.gif);">
-					<span>Application wishlist</span>
-				</a>
-			</li>
-		
-			
-			
-			
-				<li class="category">
-			
-			
-				<a href="/life/mys60/?action=login" title="Register with us for exclusive downloads and other perks" style="width:68px;background-image:url(/img/navi-mys60.gif);">
-					<span>My S60</span>
-				</a>
-			</li>
-		
-			
-			
-			
-				<li class="category">
-			
-			
-				<a href="/life/s60phones/browseDevices.do" title="A complete list of phones with S60 software " style="width:104px;background-image:url(/img/navi-phones.gif);">
-					<span>S60 Phones</span>
-				</a>
-			</li>
-		
-	</ul>
-</div>
-
-	
-		<div id="section-sub-nav">
-	<ul>
-		
-	</ul>
-</div>	
-		<a name="content"></a>
-		
-
-
-
-
-
-
-
-
-	
-		
-<div id="wrapper">
-								<!--sub page containers -->
-	<!-- id="content" OR id="content-narrow" -->
-
-
-<div id="content-narrow">
-
-
-	
-		
-			
-<h3>Privacy Policy of "www.s60.com" (this "Site")</h3><p>This Privacy Policy is applicable to this Site and not necessarily to other Nokia sites on the World Wide Web pages. When leaving this Site, please read the privacy policy applicable to the site you are visiting. <br></p><p>By accessing and using this Site, you hereby agree to the terms of this Privacy Policy. If you do not agree with this Privacy Policy, please do not use this Site.  <br></p><h3>Non-Personal Information Collected Automatically</h3><p>Nokia is committed to the protection of the privacy of its web site visitors.  Nokia, including its affiliates in the "Nokia Group" family of companies (those under common control of Nokia's ultimate parent company), may share personal information within the Nokia Group for the purposes described in this Policy. Such sharing may involve transferring data to and from other countries in the world, including countries in the European Union where Nokia has operation and does business. Some countries may provide less legal protection of your personal data. However, in such countries Nokia will still handle information in the manner described in this Policy. Please note that Nokia may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-parties, but these statistics will include no personally identifying information. <br></p><h3>Personal Information</h3><p>In order to respond to your questions, fulfill your requests or manage interactive customer programs, it may be necessary to ask for personal information such as your name, address, e-mail address and telephone number. Nokia may store this information on a database. Nokia may use this information to respond to your requests, or to contact you via mail, e-mail or phone to inform you of new products, services or promotions Nokia may offer. If you place an order for a product, request a service or submit content to this site, Nokia may need to contact you for additional information required to process or fulfill your order and/or request. However, unless compelled by applicable legislation, Nokia will not provide this information to a third party without your permission, except as necessary to process your order, fulfill your requests or manage interactive customer programs. You also hereby grant to Nokia the right to exchange any information provided by you between Nokia's affiliates for the purposes mentioned above. <br></p><p>In addition to the personal information that you may provide Nokia, this Site may use technology that lets Nokia collect certain technical information like your Internet protocol address, your computer's operating system, your browser type, your general location (continent or country), traffic patterns and the address of any referring Web sites. <br></p><p> Nokia has the right, but not the obligation, to retain and use such information stored in Nokia's databases and other information obtained from your current or previous activities on this Site for a reasonable period of time, not to exceed any legal requirements or limitations, to resolve disputes, troubleshoot problems and enforce Nokia's legal rights and the terms and conditions of this Policy or this Site's "Site Terms".<br></p><h3>Security</h3><p>Please note that while there are always risks associated with providing personal data, whether in person, by phone or over the Internet, and no system of technology is completely safe, "tamper" or "hacker- proof", Nokia has endeavoured to take appropriate measures to prevent and minimize risks of unauthorized access to, improper use and the inaccuracy of your personal information. For example, we use encryption technology when collecting or transferring sensitive data such as credit card information. <br></p><h3>Accuracy of collected data</h3><p>  Nokia will on its own initiative, or at your request, replenish, rectify or erase any incomplete, inaccurate or outdated personal data retained by Nokia in connection with the operation of this Site. 
-
-<br></p><h3>Visitor identification</h3><p>From time to time, information may be placed on your computer to allow us to identify you. This information is commonly known as "cookies". By showing how and when our visitors use this Site, this information can help us to continue to improve our Site. We will only use cookies to view information on your hard drive that was put there by a cookie from this Site. The use of cookies is an industry standard and many web sites use them. Cookies are stored on your computer and not on this Site. If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits. <br></p><h3>Minors</h3><p>No information may be submitted to Nokia by persons under the age of 18 without the consent of a parent or legal guardian, nor may persons under the age of 18 make purchases or other legal acts on this Site without such consent, unless permitted by applicable legislation. <br></p><h3> Disclosures Required by Law</h3><p>If Nokia is compelled by law, court order or other judicial process to disclose any of your personal information to a court or third party, Nokia will attempt to give you prior notice before using the contact information you have provided. You hereby authorize Nokia to disclose any information about you for any of the above purposes stated above in the "Personal Information" Section, such as in connection with an investigation of intellectual property infringements or other activity that is illegal or may expose Nokia to legal liability.
-<br></p><h3>Changes</h3><p>We may change this Privacy Policy, or change, modify or withdraw access to this Site, or the content of these pages at any time with or without notice. <br></p>
-			
-		
-		
-	
-	</div>
-</div>
-
-
-
-
-    <div id="sub-nav">
-
-
-    
-	
-	<ul>
-		
-	</ul>
-</div>
-
-
-
-<div id="extra">
-	
-
-
-
-
-</div>
-
-	
-	
-	
-	
-			</div>
-		</div>
-	</div>
-	<div class="bb">
-		<div></div>
-	</div>
-</div>
-
-
-
-
-<!-- footer.jsp -->
-
-<div id="siteinfo">
-		<div id="siteinfo-links"><p style="font-size:10px;"><a href="/cn">S60.com <img src="/img/chinese.gif" alt="Chinese"></a> | <a href="/life?pbId=148">About</a> | <a href="/life?pbId=35">Site Terms</a> | <a href="/life?pbId=36">Privacy Policy</a> | <a href="/life?pbId=149">Sitemap</a> | <a href="/life/?action=feedback&amp;pbId=150">Feedback</a> | <a href="/life?pbId=382">RSS feeds</a></p></div>
-
-
-
-	  <div id="page-ranking">
-	  	
-	  	
-		
-		
-			<form name="pafForm" method="post">
-			<p><label>Did you find this page useful?</label>
-			<input id="page-ranking-yes" name="paf" type="radio" value="yes"><label for="page-ranking-yes" class="label-radio">Yes</label>
-			<input id="page-ranking-no" name="paf" type="radio" value="no"><label for="page-ranking-no" class="label-radio">No</label>
-			<input type="image" src="/img/btn_submit.gif" id="page-ranking-submit" onclick="javascript:validatePaf()"></p>
-			<!-- <a href="javascript:validatePaf()" ><img src="/img/btn_submit.gif"  id="page-ranking-submit"/></a></p> -->
-			</form>
-		<script name="JavaScript" type="text/javascript">
-
-			function validatePaf(){
-				var pafYes = document.getElementById("page-ranking-yes");
-				var pafNo = document.getElementById("page-ranking-no");
-				if( pafYes.checked == true || pafNo.checked == true ){
-                    if ( pafYes.checked == true ) _hbPageView('Yes','/S60/PAF+Feedback');
-                    if ( pafNo.checked == true ) _hbPageView('No','/S60/PAF+Feedback');
-
-                    document.pafForm.submit();
-				}else {
-					alert("Please select Yes or No");
-				 }
-
-			}
-		</script>
-		
-	  	
-
-
-
-
-	  </div>
-	
-</div>
-
-</div><!-- end containder div -->
-
-
-
-
-<script type="text/javascript">
-//<![CDATA[
-if(typeof sIFR == "function"){
-	
-	
-	
-
-  
-  
-
-  
-	sIFR.replaceElement(named({sSelector:"body h2", sFlashSrc:"/img/flash/klavika.swf", sColor:"#A8C000", sLinkColor:"#A8C000", sBgColor:"#FFFFFF", sHoverColor:"#A8C000"}));
-	sIFR.replaceElement(named({sSelector:"body #view-wish h3", sFlashSrc:"/img/flash/klavika.swf", sColor:"#1F82C1", sLinkColor:"#1F82C1", sBgColor:"FFFFFF", sHoverColor:"#1F82C1"}));
-	sIFR.replaceElement(named({sSelector:"body #extra  h4", sFlashSrc:"/img/flash/klavika.swf", sColor:"#999999", sLinkColor:"#999999", sBgColor:"#FFFFFF", sHoverColor:"#999999"}));
-  
-	
-	
-};
-//]]>
-</script>	
-
-
-
-
-
-<!-- footer.jsp(end) -->
-</body></html>
+<!-- footer.jsp(end) --></body></html>
