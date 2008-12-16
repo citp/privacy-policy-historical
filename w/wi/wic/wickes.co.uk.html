@@ -1,21 +1,29 @@
-<!--The following is the downloaded HTML source of the wickes.co.uk privacy policy that was archived on 2008-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080612000913id_/http%3A//www.wickes.co.uk/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wickes.co.uk privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216051520id_/http%3A//www.wickes.co.uk/pcat/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		
 <title>Wickes 
  
  
- - Privacy 
  
+ - Privacy Policy 
  
  
  
  
 
 </title>
-		<meta name="keywords" content="DIY, home improvement, do it yourself, building supplies, trade, next-day delivery, Saturday delivery">
-<meta name="description" content="Wickes offer Free Delivery on orders over £45. Wickes are Voted Britain's Favourite DIY retailer, Wickes offer DIY and home improvement products online  and instore.">
+		
+
+
+
+
+
+
+        <meta name="description" content="Wickes offer Free Delivery on orders over £45. Wickes are Voted Britain's Favourite DIY retailer, Wickes offer DIY and home improvement products online  and instore."> 
+<meta name="keywords" content="DIY, home improvement, do it yourself, building supplies, trade, next-day delivery, Saturday delivery">
+
 
 
 
@@ -29,11 +37,20 @@
 <style type="text/css" media="all">
 @import "http://www.wickes.co.uk/content/ebiz/wickes/resources/css/styles.css";
 @import "http://www.wickes.co.uk/content/ebiz/wickes/resources/css/checkout.css";
+@import "http://www.wickes.co.uk/content/ebiz/wickes/resources/css/tabbs.css";
 </style>
 <link rel="stylesheet" href="http://www.wickes.co.uk/content/ebiz/wickes/resources/css/print.css" type="text/css" media="print">
 
-<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/maxymiser/maxymiser.js"></script>
+<!-- TABBS SCRIPT -->
+  <script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/jquery-latest.js"></script>
+  <script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/ui.core.js"></script>
+  <script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/ui.tabs.js"></script>  
+<!-- END TABBS SCRIPT -->  
 
+ <!-- ANIMATION SCRIPT -->
+<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/jquery.innerfade.js"></script>
+ <!-- END ANIMATION SCRIPT -->
+ 
 <meta name="verify-v1" content="ZZff9uOas8/P85u6W2HZ+jDw2J1KglJeuH5ElyVfC/w=">
 
 <!-- Wickes: UAT Build 24 -->
@@ -41,11 +58,68 @@
 		<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/general.js"></script>
 		<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/dcs_tag.js"></script>
 		<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/sorttablescolumns.js"></script>
-		
+		<script type="text/javascript">
+	var thisurls = location.href;
+	var thisbvdisplaycode = grabURL(thisurls, 'bvdisplaycode');
+	var thisbvproductid = grabURL(thisurls, 'bvproductid');
+	var thisbvcontenttype = grabURL(thisurls, 'bvcontenttype');
+	var thisbvauthenticateuser = grabURL(thisurls, 'bvauthenticateuser');
+	var thisbvpage = grabURL(thisurls, 'bvpage', 1);
+	
+	thisbvpage = thisbvpage.replace('&bvdisplaycode='+thisbvdisplaycode,'')
+	thisbvpage = thisbvpage.replace('&bvproductid='+thisbvproductid,'')
+	thisbvpage = thisbvpage.replace('&bvcontenttype='+thisbvcontenttype,'')
+	thisbvpage = thisbvpage.replace('&bvauthenticateuser='+thisbvauthenticateuser,'')
+	
+	addCookies('bvdisplaycode', thisbvdisplaycode);
+	addCookies('bvproductid', thisbvproductid);
+	addCookies('bvcontenttype', thisbvcontenttype);
+	addCookies('bvauthenticateuser', thisbvauthenticateuser);
+	addCookies('bvpage', thisbvpage);
 
-<!--	LIVE Environment		-->
+	var isloggedin = false;
+	var bvreviewerid = '';
+	
+	
+
+	if (String(thisbvauthenticateuser) == 'true') {
+		if (isloggedin == true) {
+		
+			var bvshare_key = '2sie93wt';
+			var bvcurdate = 'date=20081216';
+			var bvuserid = bvcurdate + bvreviewerid;
+		
+			var md5bvuserid = hex_md5(bvshare_key + bvuserid);	
+			var hexbvuserid = bin2hex(bvuserid);
+			
+			var encodeduserid = md5bvuserid + hexbvuserid;
+
+			// Ensure "__USERID__" is replaced with the 
+			// encoded user authentication string in the 
+			// bvpage parameter, then render the BVSubmissionFrame
+			// iframe using the new bvpage.
+			newbvpage = thisbvpage.replace(/__USERID__/g, encodeduserid);
+			
+		}
+		else {
+			// Redirect to login.
+			// After login, redirect back to the submission container 
+			// page with preserved URL parameters.
+			window.location = 'https://www.wickes.co.uk/bin/venda?ex=co_wizr-register&bsref=wickes&htxt=1T03%2FJLhuWzWKeoUYZPwTz1KnSszOF4vPoB1uJSN%2FvplRWVqRCNy9%2FKzbmf8Vc4ccSIsQOBMnLad%0AO%2BTWYxjI6g%3D%3D';
+		}
+	}
+	else {
+		// Render the BVSubmissionFrame iframe with bvpage 
+	// (no modifications are necessary).
+	}
+</script>
+
+
+
 <link type="text/css" rel="STYLESHEET" href="http://reviews.wickes.co.uk/static/9987-en_gb/bazaarvoice.css">
+<link type="text/css" rel="STYLESHEET" href="http://reviews.wickes.co.uk/static/9987-en_gb/bazaarvoiceUI.css">
 <script language="JavaScript" src="http://reviews.wickes.co.uk/static/9987-en_gb/bazaarvoice.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://reviews.wickes.co.uk/static/9987-en_gb/bazaarvoiceUI.js" type="text/javascript"></script>
 <script type="text/javascript" language="javascript">
 <!--
      document.domain = "wickes.co.uk";
@@ -53,20 +127,7 @@
 //-->
 </script>
 
-
-<script type="text/javascript" language="javascript">
-<!--
-function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, buyAgainPercentage, productID)
-{
-     if (totalReviewsCount > 0) {
-         document.getElementById("BVReviewsContainer").style.display = "block";
-         document.getElementById("BVSVPLinkContainer").style.display = "block";
-     }
-     // Other custom items leveraging these values.
-}
-//-->
-</script>
-
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
 
 	</head>
 	<body>
@@ -74,7 +135,7 @@ function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, 
 		<a href="#content" class="hide" accesskey="2">Skip to content</a>
 		<!-- start wrapper -->
 		<div id="wrapper">
-			<div id="wrapper2">
+			<div id="wrapper_norhn">
 				<!-- start header -->
 <div id="header">
 	<!-- <div class="header-col-one"><a href="http://www.wickes.co.uk/page/home"><img id="logo" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/logo.gif" alt="Wickes" title="Wickes" border="0"></a></div> -->
@@ -93,10 +154,11 @@ function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, 
 		
 			<div class="navbar"> 
 			<ul id="topnavbar">
-				<li><a href="http://www.wickes.co.uk/page/home">Home</a> |</li>
-				<li><a href="http://www.wickes.co.uk/pcat/customerservices">Customer Services</a> |
-				</li><li><a href="http://www.wickes.co.uk/scat/stores">Store Locator</a> 
-				</li><li class="telephone"><a class="telLink" style="text-decoration:none" href="http://www.wickes.co.uk/pcat/telephone"><img src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/telephone.gif" border="0">0845 279 9898</a></li>
+				<li><a title="Wickes Home" href="http://www.wickes.co.uk/page/home">Home</a> |</li>
+				<li><a href="http://www.wickes.co.uk/pcat/customservices" title="Wickes Customer Services">Customer Services</a> |</li>
+				<li><a href="http://www.wickes.co.uk/page/store" title="Wickes Store Locator">Store Locator</a> |</li>
+                <li><a href="http://www.wickes.co.uk/pcat/deliverydetails" title="Wickes Delivery Information">Delivery</a> |</li>
+				<li><img src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/telephone.gif" border="0" alt="Wickes Order by phone"><a class="telLink telephone" href="http://www.wickes.co.uk/pcat/telephone" title="Order by phone">Order by phone</a></li>
 			</ul>
 			</div>
 		
@@ -164,16 +226,16 @@ function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, 
 		</div>
 		
 		<div class="header-col-three-cart">
-			<venda_detblock>
+			
 	
-</venda_detblock>
+
 
 <script language="JavaScript" type="text/javascript">
 	var allitemcart = "";
 	var allunits = "";
 </script>
 
-<venda_detail>
+
 
 <script language="JavaScript" type="text/javascript">
 	allitemcart = allitemcart.substring(1);
@@ -205,7 +267,7 @@ function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, 
 
 
 
-		</venda_detail></div>
+		</div>
 	</div>
 	<br class="clear-all"><!-- ns6 hack -->
 </div>
@@ -213,7 +275,7 @@ function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, 
 <!-- end header -->
 
 				<div id="bluenav">
-	<div class="navheader">Browse Categories</div>
+	<div class="navheader"><a href="http://www.wickes.co.uk/page/home" class="hd_log">Browse Categories</a></div>
 	<div class="blue-col-two-three">
 		<div class="navwelcome">
 			
@@ -240,270 +302,209 @@ function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, 
 </div>
 				<!-- start columns 2 and 3 -->
 				<div id="col-two-three">
-					<!-- start column 2 -->
-					<div id="col-two">
-						<!-- start content -->
-						<a name="content" id="content"></a>
-						<div id="crumbtrail">
-	
+					<!-- start content -->
+					<a name="content" id="content"></a>
+					
 
-	
-	
 
-	
-	
-		<!-- 134 -->
-       <h1 id="crumbtrail"><div class="crumbmargin"><a href="http://www.wickes.co.uk/page/home" class="crumb_line">Home</a>&nbsp;//&nbsp;<a href="http://www.wickes.co.uk/pcat/customerservices" class="crumb_line">Customer Services</a>&nbsp;//&nbsp;<a href="http://www.wickes.co.uk/pcat/privacy" class="crumb_line">Privacy Policy</a>&nbsp;//&nbsp;Privacy</div></h1>  
-	
+	<style type="text/css">
 
-	
-</div>
-						<div class="print"><a href="javascript:window.print()">| Print this page |</a></div>
+#secure {margin: 10px 0 15px 15px;padding:0; width:560px;}
+#secure h1 {padding:0 0 10px 0; margin:0; color:#e47e18; font-size:130%;}
+#secure h2 {padding:5px 0 3px 0; margin-bottom:5px; font-weight:bold; color:#e47e18; font-size:115%; }
+#secure p {padding:3px 0 3px 0}
+#secure a,#secure a:link,#secure a:visited {text-decoration:underline;}
+#secure a:hover{text-decoration:underline; color:#cc0000;}
+.bottomLine{border-bottom:2px solid #c6c8d1; }
 
+</style>
 
 <a name="top"></a>
+<div id="secure">
 
-
-<h1 class="cserviceheader">Privacy policy</h1>
-
-
-<div id="cservice">
-
-<p>Wickes is committed to protecting your privacy. Please read the following privacy policy to understand how we use and protect the information that you provide to us.</p>
-<p><strong>By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy.</strong></p>
+<h1>Privacy policy</h1>
+<p>By registering or placing an order on this website you consent to the collection, use and transfer of your information under the terms of this policy.</p>
+<p>Wickes is committed to protecting your privacy. Please read this privacy policy to understand how we use and protect the information that you provide us with.</p>
+<div class="bottomLine"><br></div><br>
 
 <h2>Information we collect from you and how we use it</h2>
-
-
-<p>When you visit, register or place an order with us, you may be asked to provide certain information about yourself. This may include (but is not limited to) your name, contact details and credit or debit card details. This information will allow us to process and fulfil your orders, for example, using your e-mail address to confirm receipt of your order. Should you enter a competition or promotional feature, take part in a survey, or request a brochure or any other information from us, we may also ask for your details as to administer such competition or request.</p>
+<p>When you visit, register or place an order with us, you may be asked to provide certain information about yourself. This may include (but is not limited to) your name, contact details and credit or debit card details. This information will allow us to process and fulfil your orders. Should you enter a competition or promotional feature, take part in a survey, or request a brochure or any other information from us, we will also ask for your details if required.</p>
 <p>From time to time we may also collect information about your usage of our website, as well as information about you from messages you post to the website and e-mails or letters you send to us.</p>
 <p>This information will enable us to provide you with access to all parts of our website and to supply the goods or services you have requested. We will also use and analyse the collected information to administer, support, improve and develop our business.</p>
-<p>We may use other companies to provide services on our behalf, such as fulfilling orders, processing payments, packing and delivery as well as analysing data and carrying out market research. <strong>We will only disclose your information to the extent needed to deliver the services required.</strong></p>
-<p>We may use your information to contact you for your views on our services, as well as to occasionally notify you about important changes or developments to our site or services. Furthermore, we may also use your information to let you know about our other products and services which may be of interest to you. Depending on your elected means of communication, we may contact you by post, telephone or e-mail. If you decide that you do not want to receive any further communications from Wickes, please let us know by sending an e-mail to <a href="javascript:openpopup('http://www.wickes.co.uk/pcat/emailforms')"> custservices@wickes.co.uk</a></p>
-<p>Where you have consented to receive such information, we may allow other companies in our group to occasionally contact you about products and services which may be of interest to you. Depending on your elected means of communication, they may contact you by post, telephone or e-mail. If you decide you do not want to receive any further communications from these companies, please let us know by sending an e-mail to <a href="javascript:openpopup('http://www.wickes.co.uk/pcat/emailforms')"> custservices@wickes.co.uk</a></p>
+<p>We may use other companies to provide services on our behalf, such as fulfilling orders, processing payments, packing and delivery as well as analysing data and carrying out market research. We will only disclose your information to the extent needed to deliver the services required.</p>
+<p>We may use your information to contact you for your views on our services, as well as to occasionally notify you about important changes or developments to our site or services. Furthermore, we may also use your information to let you know about our other products and services which may be of interest to you. Depending on your elected means of communication, we may contact you by post, telephone or e-mail. If you decide that you do not want to receive any further communications from Wickes, please let us know by sending an e-mail to <a href="javascript:openpopup('http://www.wickes.co.uk/pcat/emailforms')">Customer Services</a>.</p>
+<p>Where you have consented to receive such information, we may allow other companies in our group to occasionally contact you about products and services which may be of interest to you. Depending on your elected means of communication, they may contact you by post, telephone or e-mail. If you decide you do not want to receive any further communications from these companies, please let us know by sending an e-mail to <a href="javascript:openpopup('http://www.wickes.co.uk/pcat/emailforms')">Customer Services</a>.</p>
 <p>Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.</p>
+
+<p><a href="#top" title="Back to top"><strong>Back to top</strong></a></p><div class="bottomLine"><br></div><br>
+
+ 
+<h2>How we secure customer information</h2>
+<p>The Wickes website complies with the terms of the Data Protection Act. We make every effort to secure your information and maintain your confidentiality, including using Secure Socket Server and encrypting all entered data.</p>
+<p>Ordering online via the Wickes website is protected by various levels of security technology. We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. </p>
+<p>For more information, please see our <a href="/pcat/security">Security</a> page.</p>
+<p><a href="#top" title="Back to top"><strong>Back to top</strong></a></p><div class="bottomLine"><br></div><br>
+
+<h2>Registering</h2>
+<p>You can browse the Wickes website without registering. However, you need to register if you make a purchase through the website, or want to request a brochure.</p>
+<p>Registration is free. You do not need to enter your credit card details to register - credit card details will only be asked for when you order a product.</p>
+<p>To register, you will be asked to enter your name, address and a few other personal details.</p>
+<p>You only need to enter your full details when you are registering. Completing the registration process only takes a few minutes and creates your personal account.</p>
+<p>Once you have registered, you can use your e-mail address and chosen password to identify yourself to the site, or ‘log in’. Each time you visit the Wickes website, you can enter these two pieces of information to access your user details.</p>
+<p>Any personal information or account details you give us will be securely protected. Please see our <a href="/pcat/security">Security</a> page for full details on how the Wickes site secures your personal data.</p>
+
+
+<p><a href="#top" title="Back to top"><strong>Back to top</strong></a></p><div class="bottomLine"><br></div><br>
 
 <h2>Cookies</h2>
 <p>Cookies are small amounts of information which are automatically set by our website on your computer. They are generally used to remember the choices you make while on the site and are harmless to your computer system.</p>
 <p>Unless you have specifically refused to accept cookies when disclosing your details to us, our system will automatically issue one or more cookies to your computer when you log on and use this website. Should you elect to set your computer to not accept cookies, you may not be able to use certain features on this website.</p>
+<p><a href="#top" title="Back to top"><strong>Back to top</strong></a></p><div class="bottomLine"><br></div><br>
 
-<h2>Security</h2>
-<p>Ordering online via the Wickes website is protected by various levels of security technology. We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. For more information, please see our Security page.</p>
-
-<h2>Accessing and Updating</h2>
-<p>You are entitled to see the information we hold about you and you may request that we make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us by e-mailing <a href="javascript:openpopup('http://www.wickes.co.uk/pcat/emailforms')"> custservices@wickes.co.uk</a>. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
+<h2>Viewing your information</h2>
+<p>You are entitled to see the information we hold about you and you may request that we make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us by e-mailing <a href="javascript:openpopup('http://www.wickes.co.uk/pcat/emailforms')">Customer Services</a>. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
+<p><a href="#top" title="Back to top"><strong>Back to top</strong></a></p><div class="bottomLine"><br></div><br>
 
 <h2>Changes to our privacy policy</h2>
 <p>Any changes to our privacy policy will be added to this website and will immediately supercede any previously posted information.</p>
-
+<p><a href="#top" title="Back to top"><strong>Back to top</strong></a></p><div class="bottomLine"><br></div><br>
 
 <h2>Contact</h2>
-<p>All comments, queries and requests relating to our use of your information are welcomed, and should be e-mailed to <a href="javascript:openpopup('http://www.wickes.co.uk/pcat/emailforms')"> custservices@wickes.co.uk</a></p>
+<p>All comments, queries and requests relating to our use of your information are welcomed, and should be e-mailed to <a href="javascript:openpopup('http://www.wickes.co.uk/pcat/emailforms')">Customer Services</a>.</p>
 
-</div>
-
-<div class="backtop"><a href="#top" title="Back to top"><img src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/arrowTop_12x12.gif" alt="Back to top" width="12" height="12" border="0"> </a><a href="#top" title="Back to top">Back to top</a>
-</div>
-						<!-- end content -->
-					</div>
-					<!-- end column 2 -->
-					<!-- start column 3 -->
-					<div id="col-three">
-						<!-- If no right column required, remove #col-three and #col-two then put content in #col-two-three. -->
-						
-
-
-	
-		
-
-<div class="rightnav">
-	
-	
-		<a href="/invt/205754?WT.ac=SP60051" alt="" title=""><img src="http://www.wickes.co.uk/content/ebiz/wickes/scat/bestselldoors/wickes-pvcu-doors.gif" width="169" border="0" name="image1" alt="PVC Doors"></a>
-	
-	
-
-	
-		<a href="/invt/235247?WT.ac=SP60049" alt="" title=""><img src="http://www.wickes.co.uk/content/ebiz/wickes/scat/bestselltiles/wickes-ceramic-floor-tiles.gif" width="169" border="0" name="image1" alt="Tiles"></a>
-	
-	
-
-	
-		<a href="/invt/158471?WT.ac=SP60050" alt="" title=""><img src="http://www.wickes.co.uk/content/ebiz/wickes/scat/bestselllogcabin/wickes-log-cabin-lomond.gif" width="169" border="0" name="image1" alt="Log Cabin"></a>
-	
-	
-
-	
-		<a href="/pcat/reviewsratings?WT.ac=SP60034" alt="" title=""><img src="http://www.wickes.co.uk/content/ebiz/wickes/scat/reviewsratings/rate_and_review.gif" width="169" border="0" name="image1" alt="Reviews"></a>
-	
-	
-
-	
-		<a href="/" alt="" title=""><img src="http://www.wickes.co.uk/content/ebiz/wickes/scat/toprateprod/top_rated_products.gif" width="169" border="0" name="image1" alt="Top Rated Products"></a>
-	
-	
-
-	
-		<a href="/invt/187707?WT.ac=SP60036" alt="" title=""><img src="http://www.wickes.co.uk/content/ebiz/wickes/scat/topprod1/tp_gate.jpg" width="169" border="0" name="image1" alt="Gate Kit"></a>
-	
-	
-
-	
-		<a href="/invt/187707#reviews?WT.ac=SP60036" alt="" title=""><img src="http://www.wickes.co.uk/content/ebiz/wickes/scat/topprod1rev/readReview.gif" width="169" border="0" name="image1" alt="Read Review"></a>
-	
-	
-
-	
-		<a href="/invt/199895?WT.ac=SP60038" alt="" title=""><img src="http://www.wickes.co.uk/content/ebiz/wickes/scat/topprod3/tp_floor.jpg" width="169" border="0" name="image1" alt="Real Wood Flooring"></a>
-	
-	
-
-	
-		<a href="/invt/199895#reviews?WT.ac=SP60038" alt="" title=""><img src="http://www.wickes.co.uk/content/ebiz/wickes/scat/toprod3rev/readReview.gif" width="169" border="0" name="image1" alt="Read Review"></a>
-	
-	
-
-	
-		<a href="/invt/205600?WT.ac=SP60040" alt="" title=""><img src="http://www.wickes.co.uk/content/ebiz/wickes/scat/topprod4/tp_doors.jpg" width="169" border="0" name="image1" alt="Interior Doors"></a>
-	
-	
-
-	
-		<a href="/invt/205600#reviews?WT.ac=SP60040" alt="" title=""><img src="http://www.wickes.co.uk/content/ebiz/wickes/scat/topprod4rev/readReview.gif" width="169" border="0" name="image1" alt="Read Review"></a>
-	
-	
-
+<p><a href="#top" title="Back to top"><strong>Back to top</strong></a></p><div class="bottomLine"><br></div><br>
 </div>
 
 
-	
-	
-
-
-
-
-					</div>
-					<!-- end column 3 -->
+					<!-- end content -->
 				</div>
 				<!-- end columns 2 and 3 -->
 				<!-- start column 1 -->
 				<div id="col-one">
-					<div id="nav_block">
+					<script type="text/javascript" language="JavaScript">
+function validateEmail() {
+var fldValue = document.emailsignup.usemail.value;
+if ((fldValue == '') || (fldValue == 'E-mail address here') || (fldValue.indexOf('@') < 0)){
+alert ("Please enter a valid e-mail address");
+document.emailsignup.usemail.focus();
+document.emailsignup.usemail.value='';
+}
+else {
+document.emailsignup.submit();
+}
+}
+</script>
+
+
+<div id="nav_blockv2">
 
 <ul>
 	
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Adhesives-and-Sealants/icat/adhesivesealant" id="navadhesivesealant" class="nav_lv1" title="">Adhesives and Sealants</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Adhesives+Sealants/icat/adhesivesealant" id="navadhesivesealant" class="nav_v1" title="Adhesives &amp; Sealants">Adhesives &amp; Sealants</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Bathrooms/icat/bathroominst" id="navbathroominst" class="nav_lv1" title="">Bathrooms</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Bathrooms/icat/bathroominst" id="navbathroominst" class="nav_v1" title="Bathrooms">Bathrooms</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Building-Materials/icat/buildmaterial" id="navbuildmaterial" class="nav_lv1" title="">Building Materials</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Building-Materials/icat/buildmaterial" id="navbuildmaterial" class="nav_v1" title="Building Materials">Building Materials</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Doors-and-Windows/icat/doorswindows" id="navdoorswindows" class="nav_lv1" title="">Doors and Windows</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Doors+Windows/icat/doorswindows" id="navdoorswindows" class="nav_v1" title="Doors &amp; Windows">Doors &amp; Windows</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Electrical/icat/electrical" id="navelectrical" class="nav_lv1" title="">Electrical</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Electrical/icat/electrical" id="navelectrical" class="nav_v1" title="Electrical">Electrical</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Flooring/icat/flooring" id="navflooring" class="nav_lv1" title="">Flooring</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Flooring/icat/flooring" id="navflooring" class="nav_v1" title="Flooring">Flooring</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Gardens-and-Landscaping/icat/gardens" id="navgardens" class="nav_lv1" title="">Gardens and Landscaping</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Gardens+Landscaping/icat/gardens" id="navgardens" class="nav_v1" title="Gardens &amp; Landscaping">Gardens &amp; Landscaping</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Heating-Plumbing-and-Fires/icat/heatingplumbing" id="navheatingplumbing" class="nav_lv1" title="">Heating, Plumbing and Fires</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Heating-Plumbing+Fires/icat/heatingplumbing" id="navheatingplumbing" class="nav_v1" title="Heating, Plumbing &amp; Fires">Heating, Plumbing &amp; Fires</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Insulation/icat/insulation" id="navinsulation" class="nav_lv1" title="">Insulation</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Insulation/icat/insulation" id="navinsulation" class="nav_v1" title="Insulation">Insulation</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Kitchens/icat/kitcheninst" id="navkitcheninst" class="nav_lv1" title="">Kitchens</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Kitchens/icat/kitcheninst" id="navkitcheninst" class="nav_v1" title="Kitchens">Kitchens</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Lighting/icat/lighting" id="navlighting" class="nav_lv1" title="">Lighting</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Lighting/icat/lighting" id="navlighting" class="nav_v1" title="Lighting">Lighting</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Nails-Screws-and-Fixings/icat/nailscrewfixing" id="navnailscrewfixing" class="nav_lv1" title="">Nails, Screws and Fixings</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Nails-Screws+Fixings/icat/nailscrewfixing" id="navnailscrewfixing" class="nav_v1" title="Nails, Screws &amp; Fixings">Nails, Screws &amp; Fixings</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Paint-and-Decorating/icat/paintdecorating" id="navpaintdecorating" class="nav_lv1" title="">Paint and Decorating</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Paint+Decorating/icat/paintdecorating" id="navpaintdecorating" class="nav_v1" title="Paint &amp; Decorating">Paint &amp; Decorating</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Roofing-and-Guttering/icat/roofguttering" id="navroofguttering" class="nav_lv1" title="">Roofing and Guttering</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Roofing+Guttering/icat/roofguttering" id="navroofguttering" class="nav_v1" title="Roofing &amp; Guttering">Roofing &amp; Guttering</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Tiles/icat/tiles" id="navtiles" class="nav_lv1" title="">Tiles</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Tiles/icat/tiles" id="navtiles" class="nav_v1" title="Tiles">Tiles</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Timber/icat/timber" id="navtimber" class="nav_lv1" title="">Timber</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Timber/icat/timber" id="navtimber" class="nav_v1" title="Timber">Timber</a></div>
 		
 	</li>
 
 	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Tools-Ladders-and-Storage/icat/toolsstorage" id="navtoolsstorage" class="nav_lv1" title="">Tools, Ladders and Storage</a></div>
+		<div><a href="http://www.wickes.co.uk/Shop/Tools-Ladders+Storage/icat/toolsstorage" id="navtoolsstorage" class="nav_v1" title="Tools, Ladders &amp; Storage">Tools, Ladders &amp; Storage</a></div>
 		
 	</li>
 
 </ul>
 </div>
 
-<div id="promo">
-	<div class="promotions"><a class="promotionsLink" style="color:#FFFFFF; text-decoration:none" href="../../../pcat/promotions" title="Wickes Best Deals on DIY and home improvement products for your home and garden. Great DIY products at great prices – that’s Wickes.">Best Deals</a></div>
-	<ul>
-        <li><div><a href="http://www.wickes.co.uk/pcat/bestDeals" class="nav_promo" title="Wickes have great DIY deals on Folding Patio Doors, Laminate and Real Wood Flooring, Floor Tiles, Wall Tiles, Power Tools and Kitchen Cabinets">Deals of the Week</a></div></li>
-		<li><div><a href="http://www.wickes.co.uk/pcat/gardernspringoffer" class="nav_promo" title="Great Garden Deals on Wickes Garden Furniture, Garden Buildings (e.g. Sheds and Log Cabins), Garden Gates, Arbours, Arches and Paving">Garden Deals</a></div></li>
-		<li><div><a href="http://www.wickes.co.uk/pcat/powertoolsoffer" class="nav_promo" title="Wickes makes DIY easy with these great deals on Power Tools. Choose from Power Drills, Hammer Drills, Sanders, Jigsaws and Angle Grinders">Power Tool Deals</a></div></li>
-		<li><div><a href="http://www.wickes.co.uk/pcat/kitchenoffers" class="nav_promo" title="Upgrade to a Wickes Oven, Hob and Chimney Hood with Wickes Kitchen Appliance deals. Great kitchens for your home at great prices – that’s Wickes">Kitchen Appliance Deals</a></div></li>
-        <li><div><a href="http://www.wickes.co.uk/Kitchens/Kitchen-Cabinets/icat/kitrangeinst" class="nav_promo" title="Choose a Wickes Kitchen Cabinet deal and transform your kitchen. Great kitchens for your home at great prices – that’s Wickes">Kitchen Cabinet Deals</a></div></li>
-        <li><div><a href="http://www.wickes.co.uk/pcat/promotions" class="nav_promoRed" title="Wickes Best Deals on DIY and home improvement products for your home and garden. Great DIY products at great prices  – that’s Wickes">View All</a></div></li>
-	</ul>
-</div>
+<div id="newsLetter">
+	<h1>Newsletter</h1>
+	<p class="newsText">Sign-up for regular updates on products, promotions &amp; offers.</p>
+    <form name="emailsignup" method="post" action="https://www.wickes.co.uk/bin/venda" onsubmit="validateEmail();return false;">
+        <input type="hidden" name="ex" value="tl_user-procmyform">
+        <input type="hidden" name="page" value="emailsignupthanks">
+        <input type="hidden" name="bsref" value="wickes">
+        <input type="hidden" name="log" value="">
+        <input type="hidden" name="emlonly" value="1">       
+        <fieldset class="emailsignup">
+			<label for="emailsignup"></label>
+			<input type="text" id="emailsignup" name="usemail" size="25" class="newsEmail" onclick="if (this.value=='E-mail address here'){this.value=''};" value="E-mail address here">
+			<input type="image" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/leftMenu/emailBtn.gif" alt="signup" name="submit" class="signemail">
+        </fieldset>
+   </form>
+</div> 
 
-
-<div id="promo">
-	<div class="leftinformation">Information</div>
-	<ul>
-		<li><div><a href="http://www.wickes.co.uk/pcat/helpadvice" class="nav_promo" title="Help &amp; Advice">Help &amp; Advice</a></div></li>
-        <li><div><a href="http://www.wickes.co.uk/pcat/goodidealeaflet" class="nav_promo" title="Good Idea Leaflets">Good Idea Leaflets</a></div></li>
-		<li><div><a href="http://www.wickes.co.uk/page/brochurespdf" class="nav_promo" title="Download Wickes Brochures">Download Brochures</a></div></li>
-		<li><div><a href="http://www.wickes.co.uk/pcat/brochures2" class="nav_promo" title="Order a Wickes Brochure">Order a Wickes Brochure</a></div></li>
-        <li><div><a href="http://www.wickes.co.uk/pcat/pricelists" class="nav_promo" title="Price Lists">Price Lists</a></div></li>
-		<!--<li><div><a href="../../../scat/stores" class="nav_promo">Store Locator</a></div></li>-->
-	</ul>
-</div>
 
 <div id="website">
 	<div class="wwebsite">Other Wickes Websites</div>
@@ -513,20 +514,17 @@ function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, 
 	</ul>
 </div>
 
-<div class="imglinks">
-<a href="http://www.wickes.co.uk/scat/stores" title="Store Locator"><img src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/store.gif" border="0" alt="Store Locator"></a>
+
+<div id="preferredPartners">
+	<a href="http://www.wickes.co.uk/pcat/partners"><img src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/leftMenu/preferredPartners.gif" alt="Wickes Preferred Partners" border="0"></a>
 </div>
 
-<div class="imglinks">
-<a href="http://www.wickes.co.uk/pcat/calculators" title="Calculate Your Quantities"><img src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/calculators.gif" border="0" alt="Calculate Your Quantities"></a>
+<div id="hotline">
+    <h1>Order by phone</h1>
+    <h3>7 days a week</h3>
+    <h2><img src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/wickes-phone.gif" border="0" alt="Order by phone"> 0845 279 9898</h2>
+    <p><a title="Order by phone 7 days a week" href="http://www.wickes.co.uk/pcat/telephone">More information &amp; opening hours</a></p>
 </div>
-
-
-<div class="imglinks">
-<a href="http://www.wickes.co.uk/pcat/newsletter" title="E-mail Sign-up"><img src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/signup.gif" border="0" alt="E-mail Sign-up"></a>
-</div>
-
-
 				</div>
 				<!-- end column 1 -->
 				<!-- <div class="clear-all"></div> -->
@@ -546,64 +544,63 @@ function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, 
 		<td>Company Information</td>
 	</tr>
 	<tr>
-		<td><a href="../../../pcat/sitemap">Site  Map  </a></td>
-		<td><a href="../../../pcat/quickanswers">Frequently Asked Question (FAQ)</a></td>
-		<td><a href="../../../pcat/shoppingonline">Shop Online</a></td>
-		<td><a href="../../../page/helpadvice">Help &amp; Advice</a></td>
-		<td><a href="../../../pcat/companyhistory">Company History </a></td>
+		<td><a href="../../../pcat/sitemap" title="Site  Map">Site  Map</a></td>
+		<td><a href="../../../pcat/quickanswers" title="Frequently Asked Questions (FAQ)">Frequently Asked Questions (FAQ)</a></td>
+		<td><a href="../../../pcat/shoppingonline" title="Shop Online">Shop Online</a></td>
+		<td><a href="../../../page/helpadvice" title="Help &amp; Advice">Help &amp; Advice</a></td>
+		<td><a href="../../../pcat/companyhistory" title="Company History">Company History </a></td>
 	</tr>
 	<tr>
-		<td><a href="../../../pcat/security">Security Online </a></td>
-		<td><a href="../../../pcat/deliverydetails">Delivery  Information</a></td>
-		<td><a href="../../../pcat/telephone">Telephone Order Line </a></td>
-		<td><a href="../../../pcat/goodidealeaflet">Good Ideas Leaflets</a></td>
-		<td><a href="../../../pcat/environmental2">Wickes &amp; the Environment </a></td>
+		<td><a href="../../../pcat/security" title="Security Online">Security Online </a></td>
+		<td><a href="../../../pcat/deliverydetails" title="Delivery  Information">Delivery  Information</a></td>
+		<td><a href="../../../pcat/telephone" title="Telephone Order Line">Telephone Order Line </a></td>
+		<td><a href="../../../pcat/goodidealeaflet" title="Good Idea Leaflets">Good Idea Leaflets</a></td>
+		<td><a href="../../../pcat/environmental2" title="Wickes &amp; the Environment">Wickes &amp; the Environment </a></td>
 	</tr>
 	<tr>
-		<td><a href="../../../pcat/terms">Terms &amp; Conditions </a></td>
-		<td><a href="../../../pcat/returnsandrefunds">Returns &amp; Refunds</a></td>
-		<td><a href="../../../scat/stores">Your  Nearest Wickes Store </a></td>
-		<td><a href="../../../page/brochurespdf">Download a Brochure</a></td>
-		<td><a href="../../../pcat/affiliate">Become a Wickes Affiliate </a></td>
+		<td><a href="../../../pcat/terms" title="Terms &amp; Conditions">Terms &amp; Conditions </a></td>
+		<td><a href="../../../pcat/returnsandrefunds" title="Returns &amp; Refunds">Returns &amp; Refunds</a></td>
+		<td><a href="../../../page/store" title="Your  Nearest Wickes Store">Your  Nearest Wickes Store </a></td>
+		<td><a href="../../../page/brochurespdf" title="Download a Brochure">Download a Brochure</a></td>
+		<td><a href="../../../pcat/leukaemia" title="Wickes &amp; Leukaemia Research">Wickes &amp; Leukaemia Research</a></td>
 	</tr>
 	<tr>
-		<td><a href="../../../pcat/privacy">Privacy  Policy</a></td>
-		<td><a href="../../../pcat/coshh">COSHH Hazard Data Sheets</a></td>
+		<td><a href="../../../pcat/privacy" title="Privacy  Policy">Privacy  Policy</a></td>
+		<td><a href="../../../pcat/coshh" title="COSHH Hazard Data Sheets">COSHH Hazard Data Sheets</a></td>
 		<td></td>
-		<td><a href="../../../pcat/buildingworks">How to Cope with Building Works </a></td>
-		<td><a href="../../../pcat/partners">Wickes Preferred Partners  </a></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td><a href="../../../pcat/contact">Contact Us </a></td>
-		<td></td>
-		<td><a href="../../../pcat/webtv">Wickes TV  </a></td>
-		<td><a href="../../../pcat/jobs">Careers at Wickes</a></td>
+		<td><a href="../../../pcat/buildingworks" title="How to Cope with Building Works">How to Cope with Building Works </a></td>
+		<td><a href="../../../pcat/affiliate" title="Become a Wickes Affiliate">Become a Wickes Affiliate </a></td>
 	</tr>
 	<tr>
 		<td></td>
+		<td><a href="../../../pcat/contact" title="Contact Us">Contact Us </a></td>
+		<td></td>
+		<td><a href="../../../pcat/webtv" title="Wickes TV">Wickes TV  </a></td>
+		<td><a href="../../../pcat/partners" title="Wickes Preferred Partners">Wickes Preferred Partners  </a></td>
+	</tr>
+	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
+		<td><a href="../../../pcat/jobs" title="Careers at Wickes">Careers at Wickes</a></td>
 	</tr>
 </tbody></table>
 </div>
 <br class="clear-all">
 
 <div class="copyright">
-	<div class="left">
+	<div class="left" style="padding-top:11px;">
 	Copyright Wickes.co.uk 2008
 	</div>
 	
 	<div class="right" style="padding-bottom:5px;">
+	<a href="http://www.venda.com/pci-compliance-certificate?referer=www.wickes.co.uk" rel="popup" target="_blank"><img src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/PCI_web_colour.gif" border="0" alt="PCI Compliance" title="PCI Compliance" style=""></a>
+
 	<a href="http://www.venda.com" rel="popup" target="_blank"><img src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/en_ffffff.gif" border="0" alt="eCommerce and CRM systems powered by Venda" title="eCommerce and CRM systems powered by Venda" style=""></a>
 	</div>
-	
+
 </div>
-			
-			
-			
 		</div>
 		<!-- end wrapper -->
 		<!-- if on a secure page use pull in the SSL JS -->
