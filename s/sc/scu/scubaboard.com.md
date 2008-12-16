@@ -1,32 +1,29 @@
-> *The following text is extracted and transformed from the scubaboard.com privacy policy that was archived on 2007-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070905082931id_/http%3A//www.scubaboard.com/matrix/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scubaboard.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030955id_/http%3A//www.scubaboard.com/forums/matrix/privacy.php) for the most accurate reproduction.*
 
 # ScubaBoard - Privacy Policy
 
   
+|  **Register today and make this ad disappear!**  
+|  Welcome to **ScubaBoard** , an online scuba diving forum community where you can join over 100,000 divers from around the world discussing all things related to Scuba Diving. To gain full access to ScubaBoard you must [register](https://web.archive.org/web/20081216030955id_/http%3A//www.scubaboard.com/forums/matrix/register.php) for a **free** account. As a registered member you will be able to: 
 
-
-* * *
-
-|   | 
-
-Welcome to **ScubaBoard** , an online scuba diving forum community where you can join over 80,000 divers from around the world discussing all things related to Scuba Diving. To gain full access to ScubaBoard you must [register](https://web.archive.org/register.php) for a **free** account. As a registered member you will be able to: 
-
-  * Participate in over 500 dive topic forums and browse from over 2,500,000 posts.
+  * Participate in over 500 dive topic forums and browse from over 3,000,000 posts.
   * Communicate privately with other divers from around the world.
-  * Post your own photos or view from 60,000 user submitted images.
+  * Post your own photos or view from 80,000 user submitted images.
   * Gain access to our free classifieds marketplace to buy, sell and trade gear, travel and services.
+  * Use the calendar to organize your events and enroll in other members' events.
 
-All this and much more is available to you absolutely free when you [register](https://web.archive.org/register.php) for an account, so [sign up today](https://web.archive.org/register.php)! 
+All this and much more is available to you absolutely free when you [register](https://web.archive.org/web/20081216030955id_/http%3A//www.scubaboard.com/forums/matrix/register.php) for an account, so [sign up today](https://web.archive.org/web/20081216030955id_/http%3A//www.scubaboard.com/forums/matrix/register.php)! 
 
-If you have any problems with the registration process or your account login, please [contact](https://web.archive.org/sendmessage.php) the ScubaBoard Support Team.
-
+If you have any problems with the registration process or your account login, please [contact](https://web.archive.org/web/20081216030955id_/http%3A//www.scubaboard.com/forums/matrix/sendmessage.php) the ScubaBoard Support Team.  
+  
+---|---  
   
   
 
 
 ### Privacy Statement for ScubaBoard
 
-InterMedia Publications, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: ScubaBoard. 
+ScubaBoard.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: ScubaBoard. 
 
 ### Information Automatically Logged
 
@@ -96,19 +93,4 @@ This site gives users the following options for changing and modifying informati
 
 
   
-|  | 
 
-All times are GMT -4. The time now is 04:27 AM. 
-
-| 
-
-Archive Links:  
-[Underwater Photography](https://web.archive.org/archive/index.php/f-3.html) \- [Basic Scuba Diving](https://web.archive.org/archive/index.php/f-2.html) \- [Equipment](https://web.archive.org/archive/index.php/f-39.html) \- [Travel](https://web.archive.org/archive/index.php/f-42.html)
-
-| 
-
-Syndicate this content on your website with [ rss](https://web.archive.org/external.php?type=rss2) or [javascript](https://web.archive.org/external.php?type=js) data feeds.  
-[](https://web.archive.org/faq.php?faq=vb_faq#faq_rss_feeds "Syndication Help")
-
-|  [](http://www.intermediapublications.com/)  
----|---|---|---|---
