@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chefscatalog.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607105553id_/http%3A//www.chefscatalog.com/service/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chefscatalog.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020746id_/http%3A//www.chefscatalog.com/service/security.aspx) for the most accurate reproduction.*
 
-# Shop quality kitchenware, cookware, cutlery, bakeware, kitchen electrics, and kitchen tools.
+# CHEFS: Cookware, bakeware, cutlery, small appliances, kitchen utensils for the cooking enthusiast and home chef
 
 **Secure ordering**  
 Your online credit card transactions are secure with chefscatalog.com. We use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures safe Internet transmission of your personal information. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area.
