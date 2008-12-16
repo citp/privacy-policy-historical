@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redherring.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214033731id_/http%3A//www.redherring.com/Home/pages/page/%3Fpgid%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redherring.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152511id_/http%3A//www.redherring.com/Home/pages/page/%3Fpgid%3D6) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,9 +62,7 @@ The Red Herring Site is not directed to children and Red Herring does not knowin
 If you have any questions about this Privacy Policy, the privacy practices of the Red Herring Site, or if you want to exercise any of the rights that you are given under this Privacy Policy you can contact:
 
  **Red Herring, Inc.**  
-19 Davis Drive  
-Belmont, CA 94002  
+1900 Alameda de las Pulgas  
+San Mateo, CA 94403  
 650.428.2900  
 [ _privacy@redherring.com_](mailto:privacy@redherring.com)
-
-_Last updated September 15, 2003. _
