@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhome.com.au privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521051321id_/http%3A//www.myhome.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhome.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013433id_/http%3A//www.myhome.com.au/privacy-policy) for the most accurate reproduction.*
 
 # myhome.com.au privacy policy - myhome.com.au Australian real estate search
 
@@ -37,7 +37,7 @@ If you volunteer personal information to a real estate agent through our website
 Personal information collected by myhome.com.au may be disclosed to a related company of myhome.com.au or to the following types of third parties:
 
   * with your consent, we will provide your personal information to organisations who are sponsoring or otherwise involved with or participating in a competition, survey, promotion; and
-  * we may provide your personal information to other companies or individuals to whom we outsource specialised functions (including but not limited to mailing houses, printing companies, data processors, data analysts and research companies). If we do outsource functions in this way, we take steps to ensure that those contractors:
+  * we may provide your personal information to other companies or individuals to whom we outsource specialised functions (including but not limited to mailing houses, printing companies, data processors, data analysts and research companies). If we do outsource functions in this way, we take steps to ensure that those contractors: 
     * comply with the NPPs when they handle personal information about you (regardless of whether they are a small business, and would otherwise be exempt from the NPPs); and
     * are bound to use the personal information for the same purpose as the information was collected (ie in order to provide the services or to perform the functions required by myhome.com.au).
 
