@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buxr.com privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225141133id_/http%3A//www.buxr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxr.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020939id_/http%3A//www.buxr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Buxr.com
 
