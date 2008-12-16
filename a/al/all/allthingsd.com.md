@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the allthingsd.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612234836id_/http%3A//allthingsd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingsd.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216235941id_/http%3A//allthingsd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Use of Information | About | AllThingsD
 
-Dow Jones & Company Inc. and its affiliates (”Dow Jones”) are committed to maintaining the privacy of personal information that you provide to us when using AllThingsD.com. This Privacy Policy describes how we treat personal information received about you when you visit AllThingsD.com.
+Dow Jones & Company Inc. and its affiliates (”Dow Jones”) are committed to maintaining the privacy of personal information that you provide to us when using **AllThingsD.com**. This Privacy Policy describes how we treat personal information received about you when you visit **AllThingsD.com**.
 
 **1\. LINKS TO OTHER WEB SITES**
 
-We may make content or services from other Web sites including our affiliated or co-branded Web sites available to you from links located on AllThingsD.com. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that site protects your privacy.
+We may make content or services from other Web sites including our affiliated or co-branded Web sites available to you from links located on **AllThingsD.com**. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that site protects your privacy.
 
 **2\. INFORMATION WE COLLECT**
 
@@ -40,7 +40,7 @@ We may disclose and use personally identifiable information to resolve disputes,
 
 **4\. YOUR ABILITY TO CHOOSE**
 
-You can let us know that you do not wish to receive information about new features and special offers from AllthingsD.com at the time you sign up for email services. You can also change your email settings by clicking [here](http://allthingsd.com/contact/) or by contacting us at [help@allthingsd.com](mailto:help@allthingsd.com).
+You can let us know that you do not wish to receive information about new features and special offers from **AllthingsD.com** at the time you sign up for email services. You can also change your email settings by clicking [here](http://allthingsd.com/contact/) or by contacting us at [help@allthingsd.com](mailto:help@allthingsd.com).
 
 **5\. COOKIES**
 
