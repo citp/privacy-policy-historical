@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vfs.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229203818id_/http%3A//www.vfs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062648id_/http%3A//vfs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Vancouver Film School
 
