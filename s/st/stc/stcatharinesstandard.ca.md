@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stcatharinesstandard.ca privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628013156id_/http%3A//www.stcatharinesstandard.ca/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stcatharinesstandard.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216122708id_/http%3A//www.stcatharinesstandard.ca/Privacy.aspx) for the most accurate reproduction.*
 
 # St. Catharines Standard - Ontario, CA
 
