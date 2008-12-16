@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layitlow.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609002148id_/http%3A//www.layitlow.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layitlow.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216064717id_/http%3A//www.layitlow.com/privacy.shtml) for the most accurate reproduction.*
 
 # LayItLow.com Privacy Statement
 
