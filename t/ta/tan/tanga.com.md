@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2008-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080128111931id_/http%3A//www.tanga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151929id_/http%3A//www.tanga.com/privacy) for the most accurate reproduction.*
 
-# Tanga.com
+# Tanga
 
 Tanga respects your privacy. What you do behind closed doors, and in front of the open doors of your college dorm room is completely up to you. And we will not tell a soul, unless, of course, you post about it on our forums. What we collect from you allows us to ship product to you, use all of our Daily Fun and Social Entertainment features, make great improvements to our web site and give you a better, interactive experience. 
 
