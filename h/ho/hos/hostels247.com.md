@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostels247.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029074937id_/http%3A//www.hostels247.com/pravicy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostels247.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020157id_/http%3A//www.hostels247.com/pravicy_and_security) for the most accurate reproduction.*
 
 # Privacy & Security – Secure Bookings Online for Hostels youth hostel cheap accommodation London & Worldwide – Hostels247.com
 
