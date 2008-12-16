@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511161528id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011759id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
 
 # Artsonia - Privacy Policy
 
@@ -68,23 +68,19 @@ As noted above, we require that Teachers and Parents only type the first name of
 
 Users should be aware that any personal information (including names of persons or schools) that is posted on Artsonia by Users is accessible to other Users of the Website and could be collected, used, and disclosed by others. For example, if a User includes his or her full name or the name of a school in a comment for an Artist, then once that comment is approved, that information would be accessible to all Users of the Website. Artsonia is not responsible for the collection, use, or disclosure of information provided in comments approved for posting. We strongly discourage Users from including personally identifiable information in comments that they leave for Artists. Specifically, we encourage Parents to erase all email addresses and last names from comments for their child that they approve for posting to the Website.
 
-**7\. Electronic Greeting Cards (eCards)**
-
-When a User sends an electronic greeting card (eCard) through Artsonia, an email is sent to the recipient on the User's behalf. Artsonia's policy is to respect the privacy and confidentiality of the content of the eCards sent. Artsonia does not sell, barter or exchange email addresses provided when sending an eCard.
-
-**8\. Cookies**
+**7\. Cookies**
 
 Cookies are small text files that Artsonia writes to a User's computer to make it easier for the User to navigate within the Website. Artsonia cookies do not contain any personally identifiable information such as passwords. Visitors to the Website have the option of disabling cookies via browser preferences. However, if cookies are disabled, some features of the Website may not function properly.
 
-**9\. Aggregate Statistics**
+**8\. Aggregate Statistics**
 
 Artsonia may report aggregate statistics about visitors, traffic patterns, electronic postcard usage and related site information to partners, sponsors, advertisers, subsidiaries, affiliates and other third parties, but these statistics do not include any personally identifiable information.
 
-**10\. Choice/Opt-Out**
+**9\. Choice/Opt-Out**
 
 Artsonia provides Users with the opportunity to opt-out of receiving any future communications from Artsonia and its partners at any time. If a User wants to remove their information from Artsonia's database and not receive future communications, please contact Artsonia at [info@artsonia.com](mailto:info@artsonia.com).
 
-**11\. Additional Information**
+**10\. Additional Information**
 
 For more information about Artsonia's privacy policy or questions and comments, please contact [info@artsonia.com](mailto:info@artsonia.com) or write Artsonia at:
 
