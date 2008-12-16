@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsonline.net privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626111514id_/http%3A//www.jobsonline.net/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsonline.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011500id_/http%3A//www.jobsonline.net/misc/privacy.html) for the most accurate reproduction.*
 
-# JobsOnline : Privacy Policy
+# JobsOnline: Privacy Policy
 
 This privacy policy is effective as of June 1, 2006. JobsOnline respects the privacy of consumers. JobsOnline will not knowingly disclose personally identifiable information about its consumers to any third party advertiser other than as set forth in this privacy policy. 
 
