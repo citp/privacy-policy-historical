@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616090154id_/http%3A//www.hsbc.com/hsbc/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013511id_/http%3A//www.hsbc.com./1/2/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
 
-# Data Protection and Privacy statement
+# Privacy statement
 
-### 15  August  2005
+## 15  August  2005
 
 This privacy statement sets out the privacy policy of hsbc.com, inc., a wholly-owned subsidiary of the financial holding company, HSBC North America, Inc. hsbc.com, inc. provides a portal, or gateway, to the financial services offered by members of the HSBC Group.
 
@@ -12,7 +12,7 @@ hsbc.com, inc., hosts the HSBC Group website and provides technical support, acc
 
 The HSBC Group provides financial products and services through its affiliated companies and branches located in 79 countries and territories. Privacy and personal data protection principles vary from one country to another. When you access or link to a Local Site, please read the privacy statement issued by the Local Site to determine the policies that apply to information or data maintained by the Local Site.
 
-### Cookies
+## Cookies
 
 This website, along with most other major websites, use cookies. Cookies are pieces of information that a website transfers to the cookie file on your computer’s hard disk. Cookies enable users to navigate around the website and (where appropriate) enable us to tailor the content to fit the needs of visitors who have accessed the site.
 
@@ -37,14 +37,14 @@ In order to develop this website in line with customer needs hsbc.com, inc. is w
 
 WebTrends uses a cookie to track the number of unique users of this website. It basically tells hsbc.com, inc. whether the website has a small number of regular visitors or a large number of infrequent visitors. None of the information can be traced to an individual - hsbc.com, inc. do not know who you are as a unique user, merely that there are a certain number of people using this website. The cookie only relates to what goes on in this website and the information cannot be used for marketing on an individual basis.
 
-For more information about how WebTrends collects data, please read their privacy policy at [https://ondemand.webtrends.com/privacypolicy.asp#PSFV](https://web.archive.org/code/tools/site/extURL.jhtml?type=1&url=https%3A//ondemand.webtrends.com/privacypolicy.asp%23PSFV).
+For more information about how WebTrends collects data, please read their privacy policy at <https://ondemand.webtrends.com/privacypolicy.asp#PSFV>.
 
 The web browsers of most computers are initially set up to accept cookies. If you prefer, you can set your web browser to disable cookies or to inform you when a website is attempting to add a cookie. You can also delete cookies that have previously been added to your computer’s cookie file.
 
 You can set your browser to disable persistent cookies and/or session cookies but if you disable session cookies, although you will be able to view this website’s unsecured pages, you may not be able to log onto any authenticated pages.
 
-Please visit [http://www.allaboutcookies.org/manage-cookies/](https://web.archive.org/code/tools/site/extURL.jhtml?type=2&url=http%3A//www.allaboutcookies.org/manage-cookies/) to discover how to disable and delete cookies.
+Please visit <http://www.allaboutcookies.org/manage-cookies/> to discover how to disable and delete cookies.
 
-### Web beacons and spotlight tags
+## Web beacons and spotlight tags
 
 This website may contain electronic images, known as web beacons or spotlight tags. These enable hsbc.com, inc. to count users who have visited certain pages on the website. Web beacons and spotlight tags are simply tools used to obtain generic information about the web pages visited. They are not used to obtain information about specific users.
