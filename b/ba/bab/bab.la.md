@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bab.la privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609091005id_/http%3A//bab.la/dataprotection.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bab.la privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061747id_/http%3A//bab.la/dataprotection.php) for the most accurate reproduction.*
 
-# bab.la language portal - loving languages
+# bab.la language portal
 
 #### 1\. Personal information
 
@@ -73,8 +73,8 @@ Identification with valid legal ID papers.
 Your trust in our services is essential to us. If you have any questions or want more detailed information about this Privacy Policy please contact our person responsible for all issues regarding data protection (“Datenschutzbeautragter”).   
 bab.la GmbH  
 \- Datenschutzbeauftragter -  
-Palmaille 94  
-22767 Hamburg  
+Baumwall 7  
+20459 Hamburg  
 Germany  
 datenschutz [at] bab.la
 
