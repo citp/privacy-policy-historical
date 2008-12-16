@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michelfortin.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528044157id_/http%3A//www.successdoctor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michelfortin.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015321id_/http%3A//www.successdoctor.com/privacy) for the most accurate reproduction.*
 
-# Privacy And Disclosure Policies | The Success Doctor, Inc.
+# Privacy And Disclosure Policies | The Success Doctor
 
 At _SuccessDoctor.com_ , your privacy is assured. If you join the newsletter on this site, you will be kept posted on any developments that might benefit you. However, please note:
 
@@ -14,7 +14,7 @@ At _SuccessDoctor.com_ , your privacy is assured. If you join the newsletter on 
 
 
 
-If you received unsolicited commercial information about this website or its offerings from an unknown third party (i.e., "spam"), please report the abuse to us immediately so that appropriate action can be taken, by using [this confidential form](http://www.successdoctor.com/contact/ "Contact The Success Doctor, Inc.").
+If you received unsolicited commercial information about this website or its offerings from an unknown third party (i.e., "spam"), please report the abuse to us immediately so that appropriate action can be taken, by using [this confidential form](http://www.successdoctor.com/contact/ "Contact The Success Doctor™").
 
 Also, this site uses several third parties to handle certain business services. Great care was taken in their selection. But if you have received unsolicited email as a result of using these services, please do not hesitate to report it immediately as well. They will be discontinued immediately.
 
@@ -23,7 +23,7 @@ Also, this site uses several third parties to handle certain business services. 
 Users are provided with the opportunity to easily opt-out of receiving future communications from Michel Fortin, modify information they've provided, or remove them from Mike's databases. You may do so in the following ways:
 
   * **Online:** Directly by clicking the unsubscribe link at the bottom of each email.
-  * **Email:** Contact tech support [on this page](http://www.successdoctor.com/contact/ "Contact The Success Doctor, Inc.") via email or online
+  * **Email:** Contact tech support [on this page](http://www.successdoctor.com/contact/ "Contact The Success Doctor™") via email or online
   * **Mail:** 1707 Cara Crescent, Ottawa, Ontario K4A 1M4 (Canada)
   * **Telephone/Fax:** 613-482-4828
 
@@ -41,11 +41,11 @@ _The Success Doctor_ encourages parents to go online with their kids. Here are a
 
 
 
-If you have any questions or concerns about this privacy pledge or about the practices of this site, do not hesitate to [contact us](http://www.successdoctor.com/contact/ "Contact The Success Doctor, Inc.") at any time, in complete confidence, or call directly at (613) 482-4828. For more on privacy policies and guidelines, visit the [Online Privacy Alliance](http://www.privacyalliance.org/ "Online Privacy Alliance").
+If you have any questions or concerns about this privacy pledge or about the practices of this site, do not hesitate to [contact us](http://www.successdoctor.com/contact/ "Contact The Success Doctor™") at any time, in complete confidence, or call directly at (613) 482-4828. For more on privacy policies and guidelines, visit the [Online Privacy Alliance](http://www.privacyalliance.org/ "Online Privacy Alliance").
 
 ### Disclosure Policy
 
-This policy is valid from 2nd of November, 2006. This site, and sites owned by and referenced from this site, are written and edited by Michel Fortin. For questions about this site, [please contact us](http://www.successdoctor.com/contact/ "Contact The Success Doctor, Inc."). This website accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+This policy is valid from 2nd of November, 2006. This site, and sites owned by and referenced from this site, are written and edited by Michel Fortin. For questions about this site, [please contact us](http://www.successdoctor.com/contact/ "Contact The Success Doctor™"). This website accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
 The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post may not always be identified as paid or sponsored content. The owner(s) of this site is not compensated to provide opinion on products, services, websites and various other topics.
 
