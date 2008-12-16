@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530070041id_/http%3A//www.techsoup.org/about/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160034id_/http%3A//www.techsoup.org/about/privacy/index.cfm) for the most accurate reproduction.*
 
 # CompuMentor Privacy Policy
 
@@ -38,7 +38,7 @@ TechSoup Stock also uses cookies to retain information on what products Register
 
 Visitors to our Web Sites have the option of disabling or not accepting cookies by changing the preferences in their Web browsers. If visitors opt to disable cookies, they will still be able to access our Web Sites. However, they will not be able to use the My TechSoup functionality, post to the TechSoup message boards (Community Discussions), or place orders for products on TechSoup Stock.
 
-[More information on managing cookies](https://web.archive.org/learningcenter/internet/page5051.cfm "More information on managing cookies") is available in TechSoup's Learning Center section.
+More information on managing cookies is available in TechSoup's Learning Center section.
 
 ## When We May Contact You
 
