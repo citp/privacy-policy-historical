@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blacklibrary.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529014023id_/http%3A//www.blacklibrary.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacklibrary.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022331id_/http%3A//www.blacklibrary.com/information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Black Library | Bringing the worlds of Warhammer and Warhammer 40,000 to life.
-
-**PRIVACY POLICY**
+# The Black Library :: Bringing the worlds of Warhammer and Warhammer 40,000 to life
 
 Games Workshop is committed to protecting your privacy. Games Workshop will only use the information that Games Workshop collect about you lawfully (in accordance with the Data Protection Act 1998).
 
@@ -28,9 +26,4 @@ The personal information which Games Workshop hold will be held securely in acco
 
 If Games Workshop intend to transfer your information outside the EEA (European Economic Area) Games Workshop will always obtain your consent first.
 
-Games Workshop may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.If you have any questions/comments about privacy, you should [email](mailto:orders@blpublishing.com) us
-
-  
-
-
-* * *
+Games Workshop may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/information/contact-us/).
