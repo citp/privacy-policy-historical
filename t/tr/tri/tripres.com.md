@@ -1,7 +1,15 @@
-> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517205158id_/http%3A//www.tripres.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012210id_/http%3A//www.tripres.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Information - TripRes.com
 
+|  |   
+  
+
+
+  
+|  |  |   
+---|---  
+  
 At TripRes.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized travel experience. Please read on for more details about our privacy policy. 
 
 **What information do we collect? How do we use it?**
@@ -28,4 +36,6 @@ We are committed to protecting your privacy. We use the information we collect o
 By using our Web site, you consent to the collection and use of this information by TripRes.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
 **Tell us what you think**   
-TripRes.com welcomes your questions and comments about privacy. Please call 800-255-0372. 
+TripRes.com welcomes your questions and comments about privacy. Please call 800-255-0372.   
+  
+  | 
