@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611141336id_/http%3A//www.carsales.com.au/carsales-info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011208id_/http%3A//www.carsales.com.au/carsales-info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - carsales.com.au
 
   
 **About this Policy**  
-This policy sets out how carsales.com.au Limited (carsales) collects, uses and discloses your personal information.
+This policy sets out how carsales.com Limited (carsales) collects, uses and discloses your personal information.
 
 If you disclose personal information to third parties this policy will not apply and you will be subject to the privacy policy of that third party.
 
@@ -97,9 +97,9 @@ The carsales Network may include links to third party web sites, co branded web 
 **What if I have a problem?**  
 If you have a problem, complaint, want to change your personal information or just wish to enquire about privacy please contact us.
 
-Location: | 77 Atherton Road, Oakleigh VIC 3166  
+Location: | Level 1, 109 Burwood Road, Hawthorn VIC 3122   
 ---|---  
-Postal Address: | Locked Bag 3333, Oakleigh VIC 3166  
+Postal Address: | Locked Bag 3333, Hawthorn VIC 3122   
 Phone: | +61 (03) 9093 8600 (Business Hours EST)  
 Contact: | Patricia Chalmers  
 Email: | [Click here](https://web.archive.org/carsales-info/contact-carsales.aspx) to contact us by email  
@@ -111,4 +111,4 @@ This policy may change over time. All changes will be published on this website.
 **About security and personal Information**  
 carsales takes reasonable steps to protect personal information collected from misuse, loss, unauthorised access, modifications or disclosure.
 
-_Version 2.0 (July 2007)_
+_Version 2.1 (July 2008)_
