@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the 1888articles.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609073201id_/http%3A//www.1888articles.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1888articles.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032413id_/http%3A//www.1888articles.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of 1888 Articles.com
 
-  
 **Privacy Policy Information**  
 This Privacy Policy covers the 1888 Articles conduct of individual information that is provided while the articles submission. Other than the information requested in our online forms, no other information is collected from the users to 1888Articles.com.
 
