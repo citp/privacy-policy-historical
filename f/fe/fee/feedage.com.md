@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the feedage.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516193417id_/http%3A//www.feedage.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedage.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013500id_/http%3A//www.feedage.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Feedage - Privacy policy
 
-  
+Privacy Policy
+
 **Feedage Privacy Policy**
 
-We may disclose personal information collected from you as required by law, for example in response to a court order or subpoena. We also may disclose such information in response to a specific request from a law enforcement agency. 
+We may disclose personal information collected from you as required by law, for example in response to a court order or subpoena. We also may disclose such information in response to a specific request from a law enforcement agency.
 
 Except as set out above, we will not sell, rent or otherwise disclose any personal information to any company or person, without obtaining appropriate permission prior to such disclosure. We may collect information about you through active as well as passive means. 
 
