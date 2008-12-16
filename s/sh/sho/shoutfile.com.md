@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shoutfile.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430110858id_/http%3A//www.shoutfile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutfile.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015521id_/http%3A//www.shoutfile.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Shoutfile Privacy Policy
 
-###  The following information explains what we do with the information you give us. All information you give us is held on computers under the control of Shoutfile. If at any time you have a question about anything contained in this statement or a general query on privacy please do not hesitate to [contact us](https://web.archive.org/contact). 
+The following information explains what we do with the information you give us. All information you give us is held on computers under the control of Shoutfile. If at any time you have a question about anything contained in this statement or a general query on privacy please do not hesitate to [contact us](https://web.archive.org/contact). 
 
 **How we collect information from you**
 
@@ -22,4 +22,4 @@ We make sure that all the information we hold on you is as safe as possible. You
 
 **When do we give information you provide us to other people?**
 
-We never give your information to anyone outside. 
+We never give your information to anyone outside.
