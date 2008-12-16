@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526073949id_/http%3A//www.iata.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216092329id_/http%3A//www1.iata.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ You can make or change your choices at the data collection point or through IATA
 
 > **Online** : You can make your choice regarding these communications by using the IATA customer registration tools, as applicable, to set your privacy preferences (available in the English language only).
 
-    * If you have never registered with the IATA customer registration tools, [create your privacy preferences](https://web.archive.org/ps/optinform/profile.htm); 
+    * If you have never registered with the IATA customer registration tools, [create your privacy preferences](https://web.archive.org/ps/optinform/); 
     * If you have registered with the IATA customer registration tool in the past, you may [edit your privacy preference](https://web.archive.org/ps/optinform/)s on the IATA customer registration tool (requires a user ID and password). 
 
 
