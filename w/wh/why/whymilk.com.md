@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whymilk.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509140411id_/http%3A//www.whymilk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whymilk.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013439id_/http%3A//www.whymilk.com/privacy.php) for the most accurate reproduction.*
 
 # Why Milk? - Privacy Policy
 
-| [](https://web.archive.org/web/20080509140411id_/http%3A//www.whymilk.com/privacy.php)| 
+| [](https://web.archive.org/web/20081216013439id_/http%3A//www.whymilk.com/privacy.php)| 
 
 This site ("Milk") has a policy to respect and protect the privacy of its users. This privacy policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so. 
 
@@ -66,7 +66,7 @@ If you would like to use, copy, upload or retransmit any of our proprietary mate
 **YOUR ACCEPTANCE OF THESE TERMS**  
 By using this site, you signify your assent to the Milk Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the Milk site following the posting of changes to these terms will mean you accept those changes. If you have questions or concerns regarding this Web site's privacy statement, you should first contact: 
 
-[privacy@whymilk.com](mailto:privacy@whymilk.com?subject=Unsubscribe)
+[privacy@whymilk.com](mailto:privacy@whymilk.com?subject=Privacy)
 
 Milk PEP   
 ATTN: Marketing Coordinator, [whymilk.com](http://www.whymilk.com/)   
