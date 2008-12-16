@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nyfa.edu privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217130540id_/http%3A//nyfa.com/film_school/about_us/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfa.edu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020047id_/http%3A//www.nyfa.com/film_school/about_us/policy.php) for the most accurate reproduction.*
 
-# Film School - About Us
+# New York Film Academy - Film & Acting School - Privacy Policy
 
 Last Updated: Thursday, June 23, 2005
 
-NEW YORK FILM ACADEMY (further referred to in this Privacy Statement as "we" or "NEW YORK FILM ACADEMY") recognize the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all other customers of our products and services. We created this policy with a fundamental respect for our customers right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned by NEW YORK FILM ACADEMY. A current list of our publications, web sites, newsletters and events can be found at http://www.nyfa.com. 
+NEW YORK FILM ACADEMY (further referred to in this Privacy Statement as "we" or "NEW YORK FILM ACADEMY") recognize the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all other customers of our products and services. We created this policy with a fundamental respect for our customers right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned by NEW YORK FILM ACADEMY. A current list of our publications, web sites, newsletters and events can be found at [ http://www.nyfa.com](http://www.nyfa.com/). 
 
 **INFORMATION COLLECTION AND USE**  
 NEW YORK FILM ACADEMY collects information from our website users, subscribers and other customers. In this section of our Privacy Statement, we describe the type of information we collect and how we use it to provide better services to our customers. 
