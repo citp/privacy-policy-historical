@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accessmedicine.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611123537id_/http%3A//www.accessmedicine.com/public/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessmedicine.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033402id_/http%3A//www.accessmedicine.com/public/privacy.aspx) for the most accurate reproduction.*
 
-# AccessMedicine - Privacy
+# AccessMedicine | Privacy Notice
 
 Privacy Notice
 
