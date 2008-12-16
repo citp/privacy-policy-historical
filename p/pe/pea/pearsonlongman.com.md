@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonlongman.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509073354id_/http%3A//www.pearsoned.co.uk/Privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonlongman.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011202id_/http%3A//www.pearsoned.co.uk/Privacynotice) for the most accurate reproduction.*
 
 # Pearson Education - Privacy notice
 
@@ -31,7 +31,7 @@ Our cookies do not contain any personal information, but they do enable us to pr
 
 Through your use of this site, you consent to the above policy regarding use and collection of your Personal Information by Pearson Education Limited. Any changes to the policy will be posted on this page. 
 
-This Website is hosted on a server in the UK. If you have any questions in relation to the above, please do not hesitate to contact us at 
+This Website is hosted on a server in the EU or the US. If you have any questions in relation to the above, please do not hesitate to contact us at 
 
 Pearson Education,   
 Edinburgh Gate,   
