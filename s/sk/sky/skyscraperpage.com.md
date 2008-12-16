@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscraperpage.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609025231id_/http%3A//skyscraperpage.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscraperpage.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153005id_/http%3A//skyscraperpage.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SkyscraperPage.com
 
