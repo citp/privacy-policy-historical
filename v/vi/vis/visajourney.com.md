@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610170436id_/http%3A//www.visajourney.com/forums/index.php%3Fautocom%3Dcustom%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161211id_/http%3A//www.visajourney.com/forums/index.php%3Fautocom%3Dcustom%26page%3Dprivacy) for the most accurate reproduction.*
 
 # VisaJourney.com -> Privacy Policy
 
