@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the shabugames.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223124047id_/http%3A//www.shabugames.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shabugames.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155547id_/http%3A//www.shabugames.com/general/privacy.html) for the most accurate reproduction.*
 
 # Shabu Games - Privacy Policies
 
 Shabu Games created this privacy policy to show our commitment to privacy issues. The content below describes our privacy practices.
+
+**Third-Party Web Beacons**
+
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [ click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com)."
 
 **Anonymous information**
 
@@ -32,7 +36,7 @@ Shabu Games reserves the right to change this privacy policy from time to time.
   
 
 
-﻿  ﻿  ﻿ 
+﻿  ﻿ 
 
 ## Join our free Game Newsletter
 
