@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridamoves.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608063157id_/http%3A//www.floridamoves.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridamoves.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011830id_/http%3A//www.floridamoves.com/privacy.aspx) for the most accurate reproduction.*
 
 # Coldwell Banker Residential Real Estate LLC. presents FloridaMoves.com, the real estate site serving all of Florida
 
@@ -32,6 +32,15 @@ Most cookies expire after a defined period of time, or You can delete Your cooki
 Coldwell Banker and/or Coldwell Banker-affiliates have two (2) primary uses for cookies. First, We use them to specify a User's preferences. Second, We use cookies to track Web site usage trends and patterns. This helps Us understand Our Users' needs better and improve areas of Our Web Site. While both of these activities depend on the use of cookies, You have the option of disabling (refusing) the cookies via Your Web browser preferences. 
 
 You may occasionally get cookies from Our business partners. Coldwell Banker and/or Coldwell Banker-affiliates do not control these cookies. The use of advertising cookies sent by such third-party Web servers is standard in the Internet industry. 
+
+**_Advertising Networks_**
+
+We send to your web browser some of the advertisements you see when you use our network of web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the web site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always, remember we authorize our third-party ad servers to employ anonymous cookies only for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any Personal Information about you. 
+
+**_Opting Out of Third-Party Ad Servers_**
+
+If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's web site individually and opt out (if they offer this capability). Currently, we have relationships with the following third-party ad networks (click to visit their Web sites and review their privacy statements):   
+24/7 Real Media, Inc. <http://www.247realmedia.com/privacy.html>
 
 **_With Whom Does Coldwell Banker Share Information?_**
 
