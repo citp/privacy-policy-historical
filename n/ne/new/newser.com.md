@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newser.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617050236id_/http%3A//www.newser.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newser.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217002948id_/http%3A//www.newser.com/privacy.aspx) for the most accurate reproduction.*
 
-# Newser - Know More. Search Less.
+# Newser: Know More. Search Less.
 
 Please read this Privacy Policy (last revised as of March 12, 2008) before using this service. By continuing to use Newser.com, you acknowledge that you have read and agree to the terms of this policy. 
 
-Newser, LLC., the operator of www.Newser.com (the “Newser Website,” and collectively with its parent company, HighBeam™ Research, Inc., referred to as “Newser,” “us,” “we” or “our”) respects the privacy of our users, and we want you to be aware of how we use information that we have collected from and about you. By coming to the Newser Website, you are agreeing to and accepting this Privacy Policy as well as the [User Agreement](https://web.archive.org/terms.aspx) governing our services. Because the Internet is a rapidly evolving medium, and enhancements to the services we provide may affect the information that we collect and the manner that we use it, the Privacy Policy may change from time to time. If it does, we will post the revised Privacy Policy on the Newser Website, with an indication of the date of the most recent revisions. 
+Newser, LLC., the operator of www.Newser.com (the “Newser Website,” referred to as “Newser,” “us,” “we” or “our”) respects the privacy of our users, and we want you to be aware of how we use information that we have collected from and about you. By coming to the Newser Website, you are agreeing to and accepting this Privacy Policy as well as the [User Agreement](https://web.archive.org/terms.aspx) governing our services. Because the Internet is a rapidly evolving medium, and enhancements to the services we provide may affect the information that we collect and the manner that we use it, the Privacy Policy may change from time to time. If it does, we will post the revised Privacy Policy on the Newser Website, with an indication of the date of the most recent revisions. 
 
 You should be aware that this Privacy Policy applies only to the Newser Website. Any websites linked to from the Newser Website, an advertisement or an article displayed on the site are governed by their own privacy policies.
 
