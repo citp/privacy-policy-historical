@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeahbaby.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413001610id_/http%3A//www.yeahbaby.com/bottom-links.php%3Fpage%3D161) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeahbaby.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013421id_/http%3A//www.yeahbaby.com/bottom-links.php%3Fpage%3D161) for the most accurate reproduction.*
 
 # Privacy Policy for YeahBaby.com
 
