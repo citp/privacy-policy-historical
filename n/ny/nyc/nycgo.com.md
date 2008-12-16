@@ -1,0 +1,25 @@
+> *The following text is extracted and transformed from the nycgo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216091343id_/http%3A//nycgo.com%3Fevent%3Dview.footerArticle%26id%3D49570) for the most accurate reproduction.*
+
+# nycgo / about us/
+
+In order for you to use our website, subscribe to our electronic newsletter and other electronic mailings, participate in our programs and promotions and participate in sweepstakes or other contests that we may sponsor, we collect personal information that you submit to us and nonpersonal information that is collected pursuant to the “cookies” definition described herein. That information may include, but not be limited to, your first and last name, postal address, telephone number, email address, date of birth and interests. We do not collect any personal information that you do not provide.
+
+From time to time, we may use your personal information for internal or external marketing and promotional purposes or analytical purposes. For example, we may send you our monthly email newsletter about NYC events and special offers and we may email you about promotions and surveys. Also, we may occasionally provide your contact information to our partners and affiliates who may, in turn, send you information by, for example, mail or email about their products and services. On occasion, we may offer a special promotion (such as a sweepstakes, contest or a free subscription to goods and services) on the website in conjunction with a third-party service provider, sponsor or promotional partner, and share your information with that third-party service provider, sponsor or promotional partner so that it can send you other special promotions it offers.
+
+We safeguard your personal information by implementing reasonable security procedures to protect your privacy, but shall not be liable for any failure to safeguard such information, whether inadvertent or otherwise.
+
+If you would like us to delete all of your personal information (except for information that we keep for record-keeping purposes) and/or remove your name and address from promotional lists (including any personal information gathered by our service providers) and place your name on our “do not contact” list, you should contact our Privacy Administrator. Please note that any requests to update your personal information may take up to 30 days for an email request and six weeks to process a postal-mail request.
+
+“Cookies”: To help us serve you better, we collect information that does not identify you personally, but rather identifies your computer or browser. Cookies are pieces of information placed in the settings of your web browser by a website server to identify your computer when you return to a website. Whenever a site welcomes you and tailors data to your specifications, it is reading a cookie left in your browser and identifying information that you may have registered during previous visits, such as your viewing preferences.
+
+We may use cookies to keep track of your status as a participant in our promotions, to tailor information to your preferences or for other similar purposes. Cookies also help us estimate and report the size of our viewing community and traffic. You can set your browser not to accept cookies, but if you do, you may not be able to take advantage of certain features enjoyed by other visitors to our website.
+
+We may also use IP addresses to analyze trends, help us administer the website, track the movement of visitors and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+
+Aggregated Demographic Information: We may share aggregated demographic information with third parties, but this information is not linked to any personal information that can identify you or another individual person. Therefore, no personal information is disclosed in this manner.
+
+Disclosure for Legal Purposes: The law requires that we may be required to share your personal information and nonpersonal information (see “Cookies” section above for examples of nonpersonal information) pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose and share your personal and nonpersonal information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this site’s Terms of Service or as otherwise required by law.
+
+By submitting information to us, you consent to its collection and use by us in accordance with this Privacy Policy.
+
+If you have any questions about this Privacy Policy, please contact us at [info@nycvisit.com](mailto:info@nycvisit.com).
