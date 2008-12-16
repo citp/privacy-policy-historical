@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atomicgamer.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617161150id_/http%3A//www.atomicgamer.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomicgamer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217003612id_/http%3A//atomicgamer.com/privacyPolicy.php) for the most accurate reproduction.*
 
-# AtomicGamer - Privacy Policy
+# Privacy Policy - AtomicGamer - Free video game downloads, patches, videos, demos, reviews, previews, and screenshots.
 
 Here at AtomicGamer we are dedicated to making sure your private information stays private. Any time we ask to collect any of this kind of information, we'll link to this Privacy Policy and will adhere to the policy in all cases. 
 
