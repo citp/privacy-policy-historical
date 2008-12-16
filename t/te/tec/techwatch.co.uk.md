@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602123344id_/http%3A//www.techwatch.co.uk/about/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216052312id_/http%3A//www.techwatch.co.uk/about/%23privacy) for the most accurate reproduction.*
 
 # About Techwatch
 
@@ -28,13 +28,13 @@ The Techwatch.co.uk forums also includes a volunteer staff of over 20 dedicated 
 ## Contact
 
 Brite Media are happy to receive emails and correspondence regarding the Techwatch.co.uk publication. If you wish to email us about Techwatch.co.uk, please do send emails to:  
-**admin @ techwatch.co.uk**
+**editors @ britemedia.co.uk**
 
 To contact Brite Media directly about the site, or to raise feedback or complaints about the site operations, please use the following information:
 
 _(Please note that Brite Media nor its parent company neither sell nor provide technical support for any satellite, cable, TV, or computer related products)_
 
-**Email:** editors@britemedia.co.uk  
+**Email:** editors @ britemedia.co.uk  
 **Tel:** +44 (0)845 4306340  
 **Postal Address:** Brite Media, Second Floor, 145-157 St John Street, London EC1V 4PY, UK
 
