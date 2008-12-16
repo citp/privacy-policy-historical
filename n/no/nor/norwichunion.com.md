@@ -1,30 +1,39 @@
-> *The following text is extracted and transformed from the norwichunion.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509091544id_/http%3A//www.norwichunion.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norwichunion.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170919id_/http%3A//www.norwichunion.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Legal by Norwich Union uk: Privacy policy
+# Norwich Union - Legal - Privacy Policy
 
-The pages on this website are only directed at United Kingdom residents and comply with appropriate UK legislation and regulation. We have provided this Privacy Policy to help you understand how we collect and use your personal information when you visit our website.
+The pages on this website are only directed at United Kingdom residents and comply with appropriate UK legislation and regulation. We have provided this privacy policy to help you understand how we collect and use your personal information when you visit our website.
 
-Click on the Legal link on the right to find out more about general legal information, Click on the links on the left for further information about the Norwich Union site and services that may help you.
+Who we are
+    
 
-## Who we are
+Wherever the name “Norwich Union” is used within these pages, this refers to one or more of the trading companies of Aviva Plc that operate in the United Kingdom and who may or may not offer insurance and financial products or services on this site.
 
-Wherever the name "Norwich Union" is used within these pages, this refers to one or more of the trading companies of Aviva Plc that operate in the United Kingdom and who may or may not offer insurance and financial products or services on this site.
+  * For more information concerning Aviva Plc - [www.aviva.com](http://www.aviva.com/ "This link will open in a new window")
+  * [A full list of trading companies](https://web.archive.org/legal/list-of-norwich-union-companies.html)
 
-For more information concerning Aviva Plc - [www.aviva.com](http://www.aviva.com/ "This link opens a new browser window").  
-[A full list of trading companies](https://web.archive.org/legal/trading-companies.htm)
 
-## What information we collect and how
+What information we collect and how
+    
 
 The information that we collect via this website may include:-
 
   1. Any personal details that you type in and submit such as your name, address, e-mail address, date of birth, lifestyle and other information.
-  2. Data that allows us to remember you, any interests that you have recorded and how you use this website. This saves you from re-keying information when you return to the site and allows us to arrange our website content to match your preferred interests. We use ”cookies” to collect this data. Cookies are text-only strings of information that are stored on your web browser or hard disk. You have the ability to accept or decline cookies by modifying the settings of your web browser. However, you may not be able to use all the interactive facilities of our site if cookies are disabled. Further details are available on our [Norwich Union Cookie Policy](https://web.archive.org/legal/cookie-policy.htm) or for further information about how to disable cookies in your browser please visit the [About Cookies Website](http://www.aboutcookies.org/ "This link opens a new browser window").
+
+  2. Data that allows us to remember you, any interests that you have recorded and how you use this website. This saves you from re-keying information when you return to the site and allows us to arrange our website content to match your preferred interests.
+
+We use “cookies” to collect this data. Cookies are text-only strings of information that are stored on your web browser or hard disk. You have the ability to accept or decline cookies by modifying the settings of your web browser. However, you may not be able to use all the interactive facilities of our site if cookies are disabled.
+
+Further details are available on our [Norwich Union Cookie Policy](https://web.archive.org/legal/norwich-union-cookie-policy.html) or for further information about how to disable cookies in your browser please visit the [About Cookies Website](http://www.aboutcookies.org/ "This link will open in a new window").
+
   3. Your IP address (this is your computer's individual identification number for internet connection) that is automatically logged by our web server. This is used to note your interest in our website.
+
   4. Your preferences and use of e-mail updates that are recorded by e-mails we send you (only if you have selected to receive e-mail updates on products and offers).
 
 
 
-## What we do with your information
+What we do with your information
+    
 
 Your information may be used for the purposes of insurance administration by the insurer, its associated companies and agents, by reinsurers and your intermediary. It may be disclosed to regulatory bodies for the purposes of monitoring and/or enforcing the insurer's compliance with any regulatory rules/codes.
 
@@ -34,33 +43,36 @@ If you give us information about another person, in doing so you confirm that th
 
 In the case of personal data, with limited exceptions, and on payment of the appropriate fee, you have the right to access and if necessary rectify information held about you.
 
-## Marketing
+Marketing
+    
 
-[Aviva group](https://web.archive.org/legal/aviva-group-products-services.htm) and its agents may use your information to keep you informed by post, telephone, e-mail, text messaging or other electronic means, about insurance and financial products and services which may be of interest to you. Your information may also be disclosed and used for these purposes after your policy has lapsed.
+[Aviva group](https://web.archive.org/legal/aviva-group-products-and-services.html) and its agents may use your information to keep you informed by post, telephone, e-mail, text messaging or other electronic means, about insurance and financial products and services which may be of interest to you. Your information may also be disclosed and used for these purposes after your policy has lapsed.
 
 By providing us with your contact details, you consent to being contacted for these purposes.
 
 If you wish to receive these, please ensure that the "Yes" box contains a tick when entering your personal details. However, you can contact us at any time to have your details removed from lists used by us for direct marketing purposes.
 
-We can also provide you with great deals from our carefully selected partners. 
+We can also provide you with great deals from our carefully selected partners.
 
 If you wish to receive these, then please tick the "Yes" box when entering your personal details. Note that again you may unsubscribe at a later date if you wish.
 
-## Your rights
+Your rights
+    
 
 You can ask us to update or remove your personal information by e-mail or by writing to the Customer Services contact that is listed in the Norwich Union website where you negotiated or concluded the sale of your particular insurance or financial product or service.
 
 You also have the right to request a copy of all the personal information we hold about you. To do this, simply write to us at the following address enclosing a cheque for £10.00 payable to Norwich Union to cover our administrative costs in dealing with your request:-
 
-The Data Protection Team  
-Norwich Union Insurance  
-Pitheavlis  
-Perth  
+The Data Protection Team   
+Norwich Union Insurance   
+Pitheavlis   
+Perth   
 PH2 0NH
 
 We will take all reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you.
 
-## Other websites and information security
+Other websites and information security
+    
 
 This Privacy Policy covers all websites operated by Norwich Union. Any other websites that may be linked to or by our website(s) will be subject to their own policies which may differ from ours. You should carefully read the privacy policies of these websites before submitting any personal information.
 
