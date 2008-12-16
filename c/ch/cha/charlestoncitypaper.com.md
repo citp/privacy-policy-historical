@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlestoncitypaper.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611230328id_/http%3A//www.charlestoncitypaper.com/gyrobase/page%3Foid%3D25105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlestoncitypaper.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022210id_/http%3A//charlestoncitypaper.com/gyrobase/page%3Foid%3D25105) for the most accurate reproduction.*
 
 # Privacy Statement - Charleston City Paper - Charleston
 
@@ -54,4 +54,5 @@ To contact us, please see the information set forth on the "[Contact Us](http://
 
 Copyright (c) 2007, Jones Street Publishers, LLC. All rights reserved.
 
-| 
+|   
+---|---|---
