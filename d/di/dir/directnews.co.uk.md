@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directnews.co.uk privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514000951id_/http%3A//www.directnews.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directnews.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025120id_/http%3A//directnews.co.uk/Privacy) for the most accurate reproduction.*
 
 # DirectNews - Privacy
 
