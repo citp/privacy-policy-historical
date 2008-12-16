@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621051045id_/http%3A//www.travelzoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170156id_/http%3A//www.travelzoo.com/privacy) for the most accurate reproduction.*
 
 # Travelzoo - Privacy Statement
 
-Since 1998, Travelzoo has been a member of the TRUSTe program. This statement discloses the privacy practices of Travelzoo Inc., Travelzoo (Europe) Ltd and Travelzoo (Canada) Inc. ("Travelzoo"). The statement is effective July 14, 2005 and applies to Travelzoo's Web sites ([www.travelzoo.com](http://www.travelzoo.com/?site=us), [www.travelzoo.co.uk](http://www.travelzoo.co.uk/) and [www.travelzoo.ca](http://www.travelzoo.ca/)). 
+Since 1998, Travelzoo has been a member of the TRUSTe program. This statement discloses the privacy practices of Travelzoo Inc., Travelzoo (Europe) Ltd and Travelzoo (Canada) Inc. ("Travelzoo"). The statement is effective July 14, 2005 and applies to Travelzoo's Web sites ([www.travelzoo.com](http://www.travelzoo.com/?site=us), [www.travelzoo.co.uk](http://www.travelzoo.co.uk/), [www.travelzoo.ca](http://www.travelzoo.ca/) and [www.travelzoo.com.au](http://www.travelzoo.com.au/)). 
 
 ### TRUSTe Certified 
 
