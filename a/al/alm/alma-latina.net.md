@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alma-latina.net privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630072615id_/http%3A//www.alma-latina.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alma-latina.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011726id_/http%3A//www.alma-latina.net/privacy.shtml) for the most accurate reproduction.*
 
 # :::ALMA LATINA::: - Privacy Policy
 
