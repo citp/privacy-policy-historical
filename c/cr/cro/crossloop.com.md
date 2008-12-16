@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossloop.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605175749id_/http%3A//crossloop.com/ipage.htm%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossloop.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024745id_/http%3A//www.crossloop.com/ipage.htm%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
 # CrossLoop - Privacy Policy
 
