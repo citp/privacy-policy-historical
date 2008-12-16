@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fairmont.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613025436id_/http%3A//www.fairmont.com/EN_FA/FooterNavigation/SecondLevel/PrivacyPolicy.htm%3FDisplayType%3DPopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairmont.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015842id_/http%3A//www.fairmont.com/EN_FA/FooterNavigation/FirstLevel/PrivacyPolicy.htm%3FDisplayType%3DPopup) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[**Francais**](http://www.fairmont.com/FR_FA/Help/Terms.htm?DisplayType=Popup)
+[**Francais**](https://web.archive.org/FR_FA/Help/Terms.htm?DisplayType=Popup)
 
 **FAIRMONT HOTELS & RESORTS**   
 **PRIVACY PROTECTION POLICY**   
@@ -64,7 +64,7 @@ We use "cookies" on our website. Cookies are pieces of information that an Inter
 
 We may also evaluate our content and services and tailor our websites, for visitors, based on other information we collect such as IP addresses, which are numbers assigned to your computer whenever you use the Internet, pixel tags (or clear gifs), and the type of Internet browser or operating system you are using. This information is collected in the aggregate, but we may tie it to your personal information through cookie use as described above.
 
-Our company contracts under the confidentiality restrictions mentioned above with Coremetrics, a service partner, to provide data collection and reports regarding our customers' activities on our site. Coremetrics may use cookies on our behalf and may receive information about your browsing and buying activity. Coremetrics may store member ID, city, state, zip code, and email address on our behalf. Under no circumstances may Coremetrics use your information other than in connection with providing services to us to make our site more useful and efficient. If you would like to opt out of these particular services, please [[CLICK HERE](http://www.fairmont.com/EN_FA/Help/coremetrixoptout.htm?DisplayType=Popup)]. 
+Our company contracts under the confidentiality restrictions mentioned above with Coremetrics, a service partner, to provide data collection and reports regarding our customers' activities on our site. Coremetrics may use cookies on our behalf and may receive information about your browsing and buying activity. Coremetrics may store member ID, city, state, zip code, and email address on our behalf. Under no circumstances may Coremetrics use your information other than in connection with providing services to us to make our site more useful and efficient. If you would like to opt out of these particular services, please [[CLICK HERE](https://web.archive.org/EN_FA/Help/coremetrixoptout.htm?DisplayType=Popup)]. 
 
 **WHY WE COLLECT PERSONAL INFORMATION**
 
