@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseballsavings.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503125657id_/http%3A//www.baseballsavings.com/about/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballsavings.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035500id_/http%3A//www.baseballsavings.com/about/privacy-policy.jsp%3FCP%3DILC-SPIRA%26AD%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Baseball Savings - The Net's Premier Online Baseball Superstore
 
