@@ -1,23 +1,20 @@
-> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610052037id_/http%3A//www.wboy.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012327id_/http%3A//www.wboy.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
 
-# WBOY-TV – News for Clarksburg, Fairmont, Morgantown, West Virginia
+# WBOY-TV – News for Clarksburg, Fairmont, Morgantown, West Virginia - WBOY.com
 
 | 
 
-**Polls** |  | 
-
+|  |  | **Polls**  
+---  
 There are currently no active polls at this time. 
 
-[Click here](https://web.archive.org/web/20080610052037id_/http%3A//www.wboy.com/poll.cfm?func=viewoldpolls) to view other polls on our site and past poll results. 
+[Click here](https://web.archive.org/web/20081216012327id_/http%3A//www.wboy.com/poll.cfm?func=viewoldpolls) to view other polls on our site and past poll results.
 
-|   
----|---|---  
-  
 * * *  
   
 | 
 
-[Home](https://web.archive.org/web/20080610052037id_/http%3A//www.wboy.com/index.cfm) > Privacy Policy
+[Home](https://web.archive.org/web/20081216012327id_/http%3A//www.wboy.com/index.cfm) > Privacy Policy
 
 Privacy Policy
 
