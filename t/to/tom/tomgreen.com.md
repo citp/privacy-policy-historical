@@ -1,76 +1,101 @@
-> *The following text is extracted and transformed from the tomgreen.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014022130id_/http%3A//www.tomgreen.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomgreen.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041322id_/http%3A//www.tomgreen.com/estore/privacy.php%3Fheight%3D600%26width%3D600) for the most accurate reproduction.*
 
-# :: Tom Green Offical Site ::
+# TomGreen.com - The Channel
 
-**PRIVACY POLICY**
+### TomGreen.com Customer Privacy Policy
 
-Thank you for visiting TomGreen.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+The TomGreen.com Customer Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by TomGreen.com anytime you interact with TomGreen.com, such as when you visit our website, when you purchase TomGreen.com products and services, or when you call our sales or support number. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at TomGreen.com, and we go to great lengths to protect it.
 
-The Information We Collect
+### Why we collect personal information
 
-At TomGreen.com, you can create your own artist site, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, and information about your interests in and use of various products, programs, and services. You may also be asked to submit a person's name and e-mail address to send an electronic greeting card or e-mail reminder. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. When you visit many of our Web pages, we also may collect certain non-personally identifiable information such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows 95 or Mac OS), and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+We collect your personal information because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest product announcements, software updates, special offers, and events that you might like to hear about.
 
-How We Use the Information
+If you do not want TomGreen.com to keep you up to date with the latest information on products and services click the unsubscribe link at the bottom of the email you receive and you will be removed from our email database.
 
-IP Address:
+### What information we collect and how we may use it
 
-We use your IP address to gather broad demographic information, such as country of origin.
+There are a number of situations in which your personal information may help us give you better products. For example:
 
-Cookies:
+  * We may ask for your personal information when you're discussing a service issue on the phone with an associate, participating in an online survey, registering with the site, or purchasing a product.
+  * When you interact with TomGreen.com, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences; your credit card information and information about products you own; and information relating to a support or service issue.
+  * We may also collect information for market research purposes - such as your occupation and where you use your computer - to gain a better understanding of our customers and thus provide more valuable service.
+  * We collect information regarding customer activities on our websites, TomGreen.com and Channel747.com. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites, products, and services are of most interest to them.
+  * We may use personal information to provide products that you have requested as well as for auditing, research, and analysis to improve TomGreen.com products.
 
-Cookies are text files placed in your computer's browser to store your preferences when you surf the Web. Cookies, by themselves, do not give your e-mail address or other personally identifiable information unless you choose to provide this information by, for example, registering to the site. Once you register, you don't have to reenter your information each time you enter our site.
 
-Cookies may also be used by our ad servers for the purpose of: calculating the number of unique users (a key advertising metric), performing frequency caps (preventing a user from seeing the same ad more than a specified number of times), and for the geographic targeting of ads. The cookies that come from these ad servers do not track any identifying personal information. When a user scrolls over an ad on TomGreen.com, the name of the ad server appears in the "mouse-over." This does not necessarily indicate that such company is collecting data on the user, merely that the company's computers served the ad.
 
-Personal Information:
+If you use a comment forum or chat room on a TomGreen.com website you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. TomGreen.com is not responsible for the personally identifiable information you choose to submit in these forums. For example, if you choose to make information, which was previously non-public, available by participating in a comment forum or chat room, TomGreen.com will collect that information from your interaction and the information will become publicly available.
 
-Through surveys and newsletter registration, our site may request users to give us contact, demographic, and/or financial information (such as name, locale, gender, age, income level and e-mail address). We may use the information you provide about yourself to fulfill your requests for our products, programs and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services we believe may be of interest to you. We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. This demographic information is also used for advertising and marketing purposes. We use the information gathered during newsletter registration to notify users of updates made to the content of their choosing.
+### When we disclose your information
 
-We hold contests on our site in which we ask visitors for contact information (such as their name and e-mail address) and demographic information (such as their ZIP code and age). The user's contact information is sometimes used to contact the user when necessary, such as to notify them if they win a contest or to notify users of upcoming contests. There are three primary types of contests: (1) We host solely and all information that is collected stays in-house. (2) We may share address information with third party for shipping purposes. (3) In some rare instances, a third party may host the contest and all information is then shared. By virtue of their sponsorship, this third party may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. TomGreen.com has no control over the third-party sponsors' use of this information. TomGreen.com will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information.
+TomGreen.com takes your privacy very seriously. TomGreen.com does not sell or rent your contact information to other marketers.
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
+### Within the TomGreen.com Group
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+To help us provide superior service, your personal information may be shared with legal entities within the TomGreen.com group globally who will take steps to safeguard it in accordance with TomGreen.com's privacy policy.
 
-Agents and contractors of TomGreen.com who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for TomGreen.com.
+### With our service providers, vendors, and strategic partners
 
-Although we take appropriate measures to safeguard against unauthorized disclosure of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
+There are also times when it may be advantageous for TomGreen.com to make certain personal information about you available to companies that TomGreen.com has a strategic relationship with or that perform work for TomGreen.com to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with TomGreen.com's policies, except if we inform you otherwise at the time of collection. Without such information being made available, it would be difficult for you to purchase products, have products delivered to you, receive customer service, provide us feedback to improve our products and services, or access certain services, offers, and content on the TomGreen.com website.
 
-If TomGreen.com discloses personally identifiable information to companies not owned by TomGreen.com who want to market products or services to you, we will provide you with an opportunity to opt out or block such uses.
+At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary.
 
-TomGreen.com may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you.
+### How we protect your personal information
 
-Finally, TomGreen.com sites will not use or transfer personally identifiable information provided to us in ways unrelated to those described above without also providing you with an opportunity to opt out of these unrelated uses.
+TomGreen.com takes precautions - including administrative, technical, and physical measures - to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
-Third-Party Sites and Sponsors
+The TomGreen.com Music Store uses Secure Sockets Layer (SSL) encryption on all web pages where personal information is required for the purchase of music. To make purchases from the TomGreen.com Music Store, you must use an SSL-enabled browser such as Safari, Netscape Navigator 3.0 or later, or Internet Explorer. Doing so protects the confidentiality of your personal and credit card information while its transmitted over the Internet.
 
-The Service may contain links, through advertising or otherwise, to other Web sites ("Linked Sites"). The Linked Sites are not under the control of TomGreen.com and TomGreen.com is not responsible or liable for the communications or materials of any Linked Sites. TomGreen.com is providing these links to you as a convenience and to advertisers to promote their own sites or products, and the inclusion of any link does not imply TomGreen.com's endorsement of the site or any association with its operators. You are responsible for adhering to the applicable Terms of Use for any other Web site. You are strongly encouraged to evaluate any third party sites, as you are solely responsible and liable for any interactions you may have with such sites, their sponsors and other third-parties. We also take no responsibility for how a third-party sponsor utilizes the user information it collects.
+You can help us by also taking precautions to protect your personal data when you are on the Internet. Avoid saving passwords and credit card numbers in your browser cache, and make sure you use a secure web browser like Safari.
 
-Bulletin Boards and/or User Reviews
+### Integrity of your personal information
 
-This site contains message boards and/or user-posted reviews available to its users. We request users to give us contact information, such as name, e-mail, address, occupation, and interest to become a registered user. This information may be used by the administrator to send the user e-mail notices. Please remember that any information that is disclosed in these areas becomes public information, and users should exercise caution when deciding to disclose personal information.
+TomGreen.com desires to keep your personal information accurate, complete, and up to date for the purposes for which it is used. Naturally, you always have the right to access and correct the personal information you have provided. You can help us ensure that your contact information and preferences are accurate, complete, and up to date by emailing [privacy@tomgreen.com](mailto:privacy@tomgreen.com) to get a current listing of the contact information we have on file. 
 
-Our Commitment to Security
+### Kids
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+TomGreen.com recognizes that parents, guardians, or other adults often purchase our products for family use, including use by minors. We do not knowingly collect personal information from children under 13, but because some information is collected electronically, it can appear to be the personal information of the TomGreen.com purchaser of the product, and will be treated as such by this privacy policy. If a child under 13 submits personal information to TomGreen.com and we learn that that personal information is the information of a child under 13, we will attempt to delete the information as soon as possible.
 
-How You can Access or Correct Information
+### Cookies and other technologies
 
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. To change information that you post in our Community area, you can access an edit screen from the main page of Community. Click here to edit your existing page. If you have further questions regarding your Community page, please read our Artist Site Terms of Use.
+As is standard practice on many corporate websites, TomGreen.com uses "cookies" and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We also use cookies and other technologies to make sure that our online advertising is bringing customers to our products and services, such as the TomGreen.com Music Store. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. And we use cookies to customize your experience and provide greater convenience each time you interact with us.
 
-This site gives users the following options for removing their information from our database, to not receive future communications, or to no longer receive our service:
+Information such as your country and language helps us provide a more useful online experience. And your contact information, and information about your computer helps us provide you with customer service.
 
-1\. Users can send e-mail to unsubscribe@mediatrip.com 2\. Users can send mail to the postal address displayed below.
+If, however, you prefer not to enable cookies, please email [privacy@tomgreen.com](mailto:privacy@tomgreen.com), and you will be contacted with instructions explaining step-by-step how you can disable cookies. Please note that certain features of the TomGreen.com website will not be available once cookies are disabled.
 
-Special Note for Parents
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-The site you are visiting is not necessarily appropriate for children. Parental discretion is advised. Much of our content is geared toward persons 18 years of age or older.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users� movements around the site and to gather demographic information about our user base as a whole. TomGreen.com will not use the information collected to market directly to that person.
 
-How to Contact Us
+In some of our email messages we use a "click-through URL" linked to content on the TomGreen.com website. When customers click one of these URLs, they pass through our web server before arriving at the destination web page. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.
 
-If you have any questions or concerns about TomGreen.com's Privacy Policy, you may contact us via e-mail at info@TomGreen.com or mail us at the following address:
+In addition we use pixel tags - tiny graphic images - to tell us what parts of our website customers have visited or to measure the effectiveness of searches customers perform on our site.
 
-TomGreen.com  
-(v) (866) 212-2664  
-(f) (866) 212-2664  
-email: glenn@tomgreen.com
+Pixel tags also enable us to send email messages in a format customers can read. And they tell us whether emails have been opened to ensure that we're sending only messages that are of interest to our customers. We store all of this information in a secure database, located in the United States.
+
+### Our companywide commitment to your privacy
+
+As we said, TomGreen.com takes protecting your privacy very seriously. To make sure your personal information is secure, we communicate these guidelines to TomGreen.com employees and strictly enforce privacy safeguards within the company. In addition, TomGreen.com supports industry initiatives, such as TRUSTe, to preserve privacy rights on the Internet and in all aspects of electronic commerce.
+
+### International users
+
+TomGreen.com abides by the safe harbor framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union. The following link provides more information about the U.S. Department of Commerce Safe Harbor Program: <http://www.export.gov/safeharbor/>
+
+TomGreen.com has links to the sites of other companies. TomGreen.com is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
+
+### Privacy questions
+
+If you have questions or concerns about TomGreen.com's Customer Privacy Policy or data processing, please use the email address below to contact us. The TomGreen.com Privacy Police will respond to your inquiry promptly.
+
+[privacy@tomgreen.com](mailto:privacy@tomgreen.com)
+
+If you do not want TomGreen.com to keep you up to date with the latest information on products and services click the "unsubscribe" link at the bottom of the email you received and you will be removed from our email database. Naturally, if you notify us that you do not want us to use your information for a particular purpose, we will not do so.
+
+TomGreen.com may update its privacy policy from time to time. When we change the policy in a material way a notice will be posted on our website along with the updated privacy policy.
+
+TomGreen.com 5750 Wilshire Blvd. Ste. 580, Los Angeles, CA 90036
+
+_Last updated December 11, 2007_
+
+© 2008 TomGreen.com. All rights reserved.
