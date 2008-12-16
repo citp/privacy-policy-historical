@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plantedtank.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509193206id_/http%3A//www.plantedtank.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantedtank.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013631id_/http%3A//www.plantedtank.net/privacypolicy.html) for the most accurate reproduction.*
 
-# The Planted Tank - Advertising
+# The Planted Tank - Privacy Policy
 
 Effective May 5, 2006 
 
