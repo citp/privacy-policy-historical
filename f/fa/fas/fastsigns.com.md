@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastsigns.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615125257id_/http%3A//www.fastsigns.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastsigns.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216101737id_/http%3A//www.fastsigns.com/privacy.html) for the most accurate reproduction.*
 
 # Digital Sign Solutions, Graphic Services, Signs, Signage: FASTSIGNS®
 
@@ -75,6 +75,10 @@ In some cases we may track or collect information about your use of our site by 
 
 Certain pages of FASTSIGNS Sites and promotional e-mail messages or newsletters we send may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow us to count users who have visited those pages and to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or e-mail communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. Doing this allows the service provider to recognize your computer each time you visit certain pages or e-mails and compile anonymous information in relation to those page views. These third parties are not permitted to use Web beacons to collect or access your personal information. However, we do not undertake to confirm, investigate, or police their practices.
 
+**_Third-Party Web Beacons_**
+
+ We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [**click here**](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com)
+
 **_Security_**
 
 We take reasonable precautions to protect your information. When our registration/order form asks you for sensitive information (such as credit card numbers and/or social security numbers), that information is encrypted and protected with industry-standard encryption software - Secure Sockets Layer™ (SSL) technology. If we do so, we will notify you at that time if such encryption is available. If you are still uncomfortable with submitting your credit card or other order information via the Internet for any reason, please feel free to print a copy of an order form and submit the completed form to a FASTSIGNS Center via facsimile or call in your order ([click here to find the FASTSIGNS Center nearest you](https://web.archive.org/locations.html)).
@@ -93,6 +97,6 @@ In any event, we cannot and do not guarantee that independently owned and operat
 
 **_Changes to Our Privacy Policy_**
 
-This Privacy Policy became effective on May 24, 2005. We reserve the right to modify or amend this Policy at any time with or without notice, and for any reason. If we make material changes to our Privacy Policy, we will post those changes on our main FASTSIGNS Site, www.fastsigns.com so you will always be aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. You are responsible for reviewing this Policy each time you use or access the Website. Your continued use of this Website is an acknowledgment and consent to any terms contained in this Policy, as it may be amended from time to time.
+This Privacy Policy became effective on October 9, 2008. We reserve the right to modify or amend this Policy at any time with or without notice, and for any reason. If we make material changes to our Privacy Policy, we will post those changes on our main FASTSIGNS Site, www.fastsigns.com so you will always be aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. You are responsible for reviewing this Policy each time you use or access the Website. Your continued use of this Website is an acknowledgment and consent to any terms contained in this Policy, as it may be amended from time to time.
 
 ©2005. **FASTSIGNS INTERNATIONAL, INC.** All rights reserved.
