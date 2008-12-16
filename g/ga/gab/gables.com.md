@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gables.com privacy policy that was archived on 2008-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080223132434id_/http%3A//www.gables.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gables.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216113806id_/http%3A//www.gables.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Gables ::: Taking Care of the Way People Live, luxury apartments, rentals, accommodation, rental housing, lease
+# Gables, Gables.com - Apartments for Rent, Luxury Apartments, Furnished Apartments, Unfurnished Apartments, Corporate Housing
 
 Thank you for reviewing Gables Residential Privacy Policy. This statement describes Gables Residential information gathering and dissemination practices for our internet services at www.Gables.com and www.gcarents.com. 
 
