@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfm.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623191936id_/http%3A//www.nfm.com/cust_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfm.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012017id_/http%3A//nfm.com/cust_privacy.aspx) for the most accurate reproduction.*
 
 # Your privacy
 
