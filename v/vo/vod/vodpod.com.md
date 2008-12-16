@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vodpod.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618215134id_/http%3A//vodpod.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodpod.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012648id_/http%3A//vodpod.com/site/privacy) for the most accurate reproduction.*
 
-# Vodpod: privacy
+# Vodpod: Privacy
 
 Principles of the Vodpod Privacy Policy  
 
@@ -91,7 +91,7 @@ Data Security and Change of Control
 
 Vodpod uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Vodpod and you do so at your own risk. Once we receive your transmission of information, Vodpod makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If Vodpod learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Vodpod may post a notice on the Vodpod Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using by sending e-mail to admin@vodpod.com.
+If Vodpod learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Vodpod may post a notice on the Vodpod Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using by sending us [feedback](https://web.archive.org/site/feedback).
 
 In the event that Vodpod is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
 
