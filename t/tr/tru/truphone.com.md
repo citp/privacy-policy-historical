@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the truphone.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621122447id_/http%3A//www.truphone.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truphone.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216064420id_/http%3A//www.truphone.com/about_us/privacy.html) for the most accurate reproduction.*
 
-# Truphone - Privacy Policy
+# Cheap Calls using VoIP with Truphone - Your Mobile VoIP Provider
+
+## Privacy Policy
 
 At Truphone we take privacy very seriously. Throughout the data collection process, all necessary steps are taken to ensure that data are used only for the purposes we clearly state. 
 
@@ -36,7 +38,7 @@ We need this information so that we can confirm your identity and process your o
 
   * #### Community
 
-One of the features of our service is the ability for you to see which of your friends and colleagues are online and available for Truphone to Truphone calling. To do this we will allow your nominated contacts to see your screen name and limited details about you. 
+One of the features of our service is the ability for you to see which of your friends and colleagues are online and available for Truphone to Truphone calling. To do this we will allow your nominated contacts to see your username and limited details about you. 
   * #### Personal Data of friends and contacts 
 
 You may be interested in inviting your friends to join Truphone. In the event you wish to use Truphone's referral service, you will be directed to a web page where you may add one or more e-mail addresses via an online form. The information entered in this form will only be used for the purposes of automatically generating an e-mail message to these potential Truphone users and will be deleted immediately thereafter. 
@@ -65,7 +67,7 @@ If we provide you with Access to Emergency Services then we will provide all the
 We may sometimes contact other companies to assist with our administration. In these cases we will make sure these parties have the same or similar guidelines to ours. 
   * #### Providing a directory enquires service
 
-    * We will enter your Truphone number into Truphone and third party directories, and our network will allow the display of your number on receiving devices. We will also make your screen name and your "online status" available to other Truphone users. You have the option to opt out of these services. 
+    * We will enter your Truphone number into Truphone and third party directories, and our network will allow the display of your number on receiving devices. We will also make your username and your "online status" available to other Truphone users. You have the option to opt out of these services. 
     * Note that if Truphone provides you with Access to Emergencies Services, your number and location of your device will always be sent if you are calling the emergency services.
   * #### Information Storage
 
@@ -95,4 +97,4 @@ Truphone takes appropriate technical measures to protect the confidentiality of 
 
 ### Will this policy change?
 
-This privacy policy may change from time to time for either legal or business reasons. In particular, You should check this Policy regularly if You are using our Beta-test service. If any changes are made a revised privacy policy will be published at [http://www.truphone.com/about_us/legal.html](https://web.archive.org/about_us/legal.html)
+This privacy policy may change from time to time for either legal or business reasons. If any changes are made a revised privacy policy will be published at [http://www.truphone.com/about_us/legal.html](https://web.archive.org/about_us/legal.html)
