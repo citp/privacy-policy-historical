@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the retaggr.com privacy policy that was archived on 2008-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080607001304id_/http%3A//www.retaggr.com/Home/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the retaggr.com privacy policy that was archived on 2008-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216153047id_/http%3A//www.retaggr.com/Home/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><title>
-	retaggr - your online presence everywhere
-</title><link rel="shortcut icon" href="/favicon.ico"><link href="/Content/Site.css?css0.58" rel="stylesheet" type="text/css"><!--[if lt IE 7]><link href="/Content/SiteIE.css?css0.58" rel="stylesheet" type="text/css" /><![endif]-->
-    
-    <script language="javascript" type="text/javascript" src="/Script/jquery.all.js?20080604"></script>
-	<script language="javascript" type="text/javascript" src="/Script/common.js?js0.3"></script>
-	<link href="http://blog.retaggr.com/?feed=rss2" title="RSS 2.0" type="application/rss+xml" rel="alternate"><link href="http://blog.retaggr.com/?feed=rss" title="RSS .92" type="text/xml" rel="alternate"><link href="http://blog.retaggr.com/?feed=atom" title="Atom 0.3" type="application/atom+xml" rel="alternate"><meta content="widgets, business card, social card, profiles, identity, image tagging, webmaster tool, blog" name="keywords"><meta content="Aggregate all your online profiles and widgets into one interactive Profile Card that can be embedded anywhere." name="description">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=7"><title>
+	Retaggr - your online presence everywhere
+</title><link rel="shortcut icon" href="/favicon.ico"><link href="/Content/Site.css?css0.765" rel="stylesheet" type="text/css"><!--[if lt IE 7]><link href="/Content/SiteIE.css?css0.765" rel="stylesheet" type="text/css" /><![endif]-->
+    <script language="javascript" type="text/javascript" src="http://script.retaggr.com/Script/jquery.all.js?20081027"></script>
+	
+	<script language="javascript" type="text/javascript" src="http://script.retaggr.com/Script/com.js?js0.362"></script>
+	
+	<script language="javascript" type="text/javascript" src="http://script.retaggr.com/Script/jquery.effects.js?ver=20080716"></script>
+	<link href="http://blog.retaggr.com/?feed=rss2" title="RSS 2.0" type="application/rss+xml" rel="alternate"><link href="http://blog.retaggr.com/?feed=rss" title="RSS .92" type="text/xml" rel="alternate"><link href="http://blog.retaggr.com/?feed=atom" title="Atom 0.3" type="application/atom+xml" rel="alternate">
 <script type="text/javascript" language="javascript">
 
 $j(document).ready( function(){
@@ -56,6 +58,8 @@ $j(document).ready( function(){
 			submitHandler: function(form) {
 				$j('#cmdSubmit').hide();
 				$j('#imgLoginWait').show();
+				HidePageResponseMesssage();
+				
 				$j(form).ajaxSubmit({
 					success: function(response, success) {
 						var data = Eval(response);
@@ -67,6 +71,11 @@ $j(document).ready( function(){
 						} else {
 							window.location = "/Login?error=" + data.responseCode + "&returnurl=" + escape(window.location);
 						}
+					},
+					error : function(response, success){
+						$j('#imgLoginWait').hide();
+						$j('#cmdSubmit').show();
+						alert('Unfortunately there was a problem logging in. Please try again later.');
 					}
 				});
 				return true;
@@ -81,10 +90,15 @@ $j(document).ready( function(){
 </head>
 <body>
 <div id="container">
-	
+
 	
 
-<div class="middle" id="header" style="padding-top:10px;">
+	<div class="middle" id="header" style="padding-top:10px;">
+
+	<div style="float:right">
+		
+	</div>
+
 	
 		<div class="loginBox">
 			<form action="/Security/Authenticate" method="post" id="frmMasterLogin">
@@ -106,10 +120,10 @@ $j(document).ready( function(){
 						<td align="right">
 							
 							<div style="float:left">
-								<input type="checkbox" name="rememberMe" value="true">
+								<input type="checkbox" name="rememberMe" value="true" style="margin-top:0.5em">
 							</div>
 							<button type="submit" name="cmdSubmit" id="cmdSubmit">Login</button>
-							<img id="imgLoginWait" style="display:none;margin-right:10px" src="/Content/images/fetching.gif" title="Please wait">
+							<img id="imgLoginWait" style="display:none;margin-right:20px;margin-top:5px" src="/Content/images/fetching.gif" title="Please wait">
 							<a href="/Login?error=FORGOTPASSWORD">Forgot Password?</a>
 						</td>
 					</tr>
@@ -125,20 +139,31 @@ $j(document).ready( function(){
 	</div><br>
 
 
-	<div id="tabsAndSearch" style="margin-top:10px;">
+	
+	<div id="masterMenu">
 		<div style="float:left">
 			<div class="nav">
 				<ul>
 					<li><a href="/Home">Home</a></li>
 					
 						<li>
-							<b><a href="/Register">Sign up</a></b>
+							<b><a href="/register">Sign up</a></b>
 						</li>
+						
+						<li>
+							<a href="/Home/Demo">Demo</a>
+						</li>
+						<li>
+							<a href="/Home/Tour">Tour</a>
+						</li>
+						
+						<li>
+							<a href="/Partners">Partners</a>
+						</li>
+						
 					
 					
-					<li>
-						<a href="/Home/Search">Find People</a>
-					</li>
+					
 					
 					<li>
 						<a href="/FAQ">FAQ</a>
@@ -148,13 +173,13 @@ $j(document).ready( function(){
 			</div>	
 		</div>	
 	</div>
-
+	
 </div>
 
 <div style="clear:both;height:3px"></div>
 
 <div id="body">
-	<div class="fullStrip clearfix">
+	<div class="fullStrip clearfix" id="fullStrip">
 		<div class="middle">
 			
 	<h1>Privacy Policy Statement</h1>
@@ -303,40 +328,71 @@ you have any questions regarding our policy, email us at <a href="mailto:privacy
 
 
 
+		
+		
 	</div>
 </div>
 
 <div id="footer">
-	<!-- AddThis Button BEGIN -->
+<!-- AddThis Button BEGIN -->
+	
+
+
+<script language="javascript" type="text/javascript">
+var addthis_pub = 'niksmit';
+var addthis_url = 'http://www.retaggr.com';
+var addthis_title = 'retaggr - your online presence everywhere';
+
+function addthis_click(obj, str){
+var aturl = 'http://www.addthis.com/bookmark.php';
+aturl += '?v=10';
+aturl += '&pub='+addthis_pub;
+aturl += '&url='+encodeURIComponent(addthis_url);
+aturl += '&title='+encodeURIComponent(addthis_title);
+
+window.open(aturl,'addthis','scrollbars=yes,menubar=no,width=620,height=520,resizable=yes,toolbar=no,location=no,status=no,screenX=200,screenY=100,left=200,top=100');
+
+return false;
+}
+</script>
+	
 <a href="http://www.addthis.com/bookmark.php" onclick="addthis_url  = 'http://www.retaggr.com'; addthis_title = 'retaggr'; addthis_logo  = 'http://www.retaggr.com/Content/images/retaggrLogo.png'; return addthis_click(this);" target="_blank">
-<img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" border="0" alt="Bookmark and Share" style="vertical-align:baseline"></a> 
-<script type="text/javascript">var addthis_pub = 'niksmit';</script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script>  
+<img src="http://content.retaggr.com/static/button1-share.gif" width="125" height="16" border="0" alt="Bookmark and Share" style="vertical-align:baseline"></a> 
+
+
+
 <!-- AddThis Button END -->
 <br><br>
 	
-	<b><a href="http://blog.retaggr.com/" target="_blank">blog</a></b>
-	|
-	<b><a href="http://twitter.com/retaggr/" target="_blank">twitter</a></b>
-	|
-	<b><a href="http://blog.retaggr.com/?page_id=2" target="_blank">about us</a></b>
-	|
-	<a href="/Contact">contact</a>
-	|
-	<a href="/FAQ">faq</a>
-	|
-	<a href="/Home/Terms">terms and conditions</a>
-	|
-	<a href="/Home/Privacy">privacy</a>
-	
-	
+<b><a href="http://www.retaggr.com/Home/About/Us">about us</a></b>
+|
 
-	<br>
-	<br>
-	Version 1.0.0.28817
-	|
-	copyright © 2008 retaggr | thumbnail images copyright their respective owners
-	
+<b><a href="http://blog.retaggr.com/" target="_blank">blog</a></b>
+|
+<b><a href="http://twitter.com/retaggr/" target="_blank">twitter</a></b>
+|
+<b><a href="http://www.retaggr.com/Partners">partners</a></b>
+|
+<b><a href="http://www.retaggr.com/Home/Press">press</a></b>
+|
+
+<a href="http://www.retaggr.com/Contact">contact</a>
+|
+<a href="http://www.retaggr.com/FAQ">faq</a>
+|
+<a href="http://www.retaggr.com/Home/UserTools">user tools</a>
+|
+<a href="http://www.retaggr.com/Home/Terms">terms and conditions</a>
+|
+<a href="http://www.retaggr.com/Home/Privacy">privacy</a>
+
+<br>
+<br>
+Version 1.0.0.34017
+|
+copyright © 2008 Retaggr | thumbnail images copyright their respective owners
 </div>
+
 <div style="display:none">
 	<img src="/Content/images/btn-bg2.gif">
 	<img src="/Content/images/btn-bgG2.gif">
@@ -355,5 +411,6 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 
+<!-- web02,12/16/2008 3:31:04 PM -->
 
 </body></html>
