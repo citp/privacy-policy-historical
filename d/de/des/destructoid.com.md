@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511195715id_/http%3A//www.destructoid.com/privacy-policy-28114.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012754id_/http%3A//www.destructoid.com/privacy-policy-28114.phtml) for the most accurate reproduction.*
 
-# destructoid.com privacy policy. Destructoid offers reviews, previews, trailers, cheats, and more.
+# destructoid.com privacy policy | Destructoid, The Gamer's Blog
 
 **Mini Privacy Policy:**
 
