@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austlii.edu.au privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517071536id_/http%3A//www.austlii.edu.au/austlii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austlii.edu.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216105538id_/http%3A//www.austlii.edu.au/austlii/privacy.html) for the most accurate reproduction.*
 
 # AustLII - About AustLII: Privacy Policy
 
@@ -53,6 +53,6 @@ Due to the developing nature of privacy principles for online communication, thi
 
 * * *
 
-**AustLII:** [Feedback](https://web.archive.org/austlii/feedback.html) **|** [Privacy Policy](https://web.archive.org/austlii/privacy.html) **|** [Disclaimers](https://web.archive.org/austlii/disclaimers.html)  
+**AustLII:** [Copyright Policy](https://web.archive.org/austlii/copyright.html) **|** [Privacy Policy](https://web.archive.org/austlii/privacy.html) **|** [Disclaimers](https://web.archive.org/austlii/disclaimers.html) **|** [Feedback](https://web.archive.org/austlii/feedback.html)   
 URL: _http://www.austlii.edu.au/austlii/privacy.html_  
 
