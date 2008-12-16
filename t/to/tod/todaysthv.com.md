@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the todaysthv.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503145654id_/http%3A//www.todaysthv.com/company/terms_of_service/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysthv.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033626id_/http%3A//www.todaysthv.com/company/terms_of_service/privacy.aspx) for the most accurate reproduction.*
 
-# Today's THV - KTHV Little Rock
+# todaysthv.com | KTHV | Little Rock, AR - THV Info - Privacy Policy
 
-todaysthv.com Privacy Policy
-
-_Effective Date: February 22, 2007_
+### todaysthv.com Privacy Policy
 
 The following Privacy Policy governs the online information collection practices of todaysthv.com (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the todaysthv.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail). 
 
-Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy and our [Terms of Service](https://web.archive.org/company/terms_of_service/default.asp). Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy and our [Terms of Service](https://web.archive.org/company/terms_of_service/tos.aspx). Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
+
+**Your California Privacy Rights**
 
 California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
@@ -16,6 +16,8 @@ California Civil Code Section 1798.83, also known as the “Shine The Light” l
 >  Broadcast Division  
 >  7950 Jones Branch Drive  
 >  McLean, VA 22107 **
+
+**How We Collect and Use Information**
 
 We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). 
 
@@ -39,6 +41,8 @@ Be aware that we may occasionally release information about our visitors when re
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
 
+**Children’s Privacy Statement**
+
 This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
 
 > • This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
@@ -49,12 +53,15 @@ This children’s privacy statement explains our practices with respect to the o
 > 
 > • Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site’s online activities on providing personally identifiable information.
 
+How To Make Changes to Your Information
+
 If you have subscribed to one or more of our email newsletters, you may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by visiting <http://www.todaysthv.com/THVmail/help/page1.htm>
+
+**Questions Regarding Privacy**
 
 If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact:
 
 > **Online Privacy Coordinator  
 >  Broadcast Division  
 >  7950 Jones Branch Drive  
->  McLean, VA 22107   
->  **
+>  McLean, VA 22107 **
