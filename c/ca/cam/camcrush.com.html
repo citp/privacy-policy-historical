@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the camcrush.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609192137id_/http%3A//www.camcrush.com/docs.php%3Fdoc%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the camcrush.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217045139id_/http%3A//www.camcrush.com/docs.php%3Fdoc%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>CAM CRUSH</title>
 <link rel="stylesheet" type="text/css" href="http://static.gfx.camcrush.com/skin/cc/style.css">
 <link rel="icon" href="http://static.gfx.camcrush.com/skin/cc/favicon.ico" type="image/ico">
@@ -12,7 +13,7 @@ sakey = "";
 function chatNow_r( SMId )
 {
   SMId = parseInt( SMId );
-  if ( SMId <= 0 || SMId == 'NaN' ) return false ;
+  if ( SMId <= 0 || isNaN(SMId) ) return false ;
 
   numChatAttsThisPage ++ ;
 
@@ -71,6 +72,7 @@ if ( 0 ) chatNow( 0 );
 <body bgcolor="#FFFFFF" background="http://static.gfx.camcrush.com/skin/cc/images/background.gif" marginheight="0" topmargin="0">
 
 <center>
+
 <table border="0" cellpadding="0" cellspacing="0" width="720" class="mtop" bgcolor="#FFFFFF">
 <tbody><tr>
   <td align="left" height="71" rowspan="2" valign="top"><a href="/?"><img src="http://static.gfx.camcrush.com/skin/cc/images/head1.gif" width="124" height="71" border="0"></a></td>
@@ -114,7 +116,14 @@ if ( 0 ) chatNow( 0 );
 <form name="searchform" action="/search.php" onsubmit="return submitSearch()" method="GET"></form>
 
 	<tbody><tr>
-		<td class="mid2">WELCOME GUEST!</td>
+		<td class="mid2">WELCOME GUEST!
+<script language="JavaScript">
+var d = new Date();
+var tz = ((d.getTimezoneOffset()>0)?'-':'') +
+  Math.abs(d.getTimezoneOffset()/60);
+document.cookie = "jstz2="+tz;
+</script>
+</td>
 		<td class="mid" align="right">SEARCH MODELS:</td>
 		<td width="60"><input class="flatbox" type="text" name="q" value="Enter Keyword Here" onfocus="if ( this.value==this.defaultValue ) this.value=''" size="13">
 		<input type="hidden" name="searchtype" value="kword"></td>
@@ -194,7 +203,7 @@ function selectBrowse( opt )
 			</tr>
 			<tr>
 		<td width="699" bgcolor="#ffffff" valign="top">
-<table border="0" cellspacing="0" cellpadding="3" width="100%">
+﻿<table border="0" cellspacing="0" cellpadding="3" width="100%">
 
 		<tbody><tr>
 			<td valign="middle" class="shaded_lightly_dotty">
