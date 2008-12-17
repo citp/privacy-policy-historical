@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytelus.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614050705id_/http%3A//about.telus.com/legal/privacy/privacy.html%3Flid%3Dt.c-privacy_popup%26lpos%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytelus.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217203515id_/http%3A//about.telus.com/legal/privacy/privacy.html%3Flid%3Dt.c-privacy_popup%26lpos%3Dfooter) for the most accurate reproduction.*
 
 # Privacy | TELUS
 
