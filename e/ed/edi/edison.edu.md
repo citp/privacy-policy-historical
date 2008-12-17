@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edison.edu privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612055257id_/http%3A//edison.edu/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edison.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152239id_/http%3A//www.edison.edu/privacypolicy.php) for the most accurate reproduction.*
 
-# Edison College - Privacy Policy
+# Edison State College - Privacy Policy
 
-Thank you for visiting the Edison College website. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit our website unless you affirmatively choose to make such information available to us.
+Thank you for visiting the Edison State College website. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit our website unless you affirmatively choose to make such information available to us.
 
 When you visit our website, our Web server automatically recognizes only the Internet domain and IP address from which you accessed our website. This information does not result in the identification of your personal email address or other personal information.
 
