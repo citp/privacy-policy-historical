@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collarme.com privacy policy that was archived on 2008-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080206125810id_/http%3A//www.collarme.com/personals/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collarme.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044748id_/http%3A//www.collarme.com/personals/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -10,9 +10,9 @@ Last Updated : October 23, 2007
 
 **I. General**
 
-A. The operative parties referred to in this Privacy Policy (“Policy”) are Bayshore Software, Inc. and you, the user of this site.
+A. The operative parties referred to in this Privacy Policy (“Policy”) are and you, the user of this site.
 
-1\. Bayshore Software, Inc. is the publisher of www.collarme.com. Hereinafter, when first-person pronouns are used in this Policy, (us, we, our, ours, etc.) they are referring to the Bayshore Software, Inc. or www.collarme.com. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to www.collarme.com. Hereinafter, Bayshore Software, Inc. shall be referred to as COMPANY, or will be referred to in first-person, plural, pronouns.
+1\. is the publisher of www.collarme.com. Hereinafter, when first-person pronouns are used in this Policy, (us, we, our, ours, etc.) they are referring to the or www.collarme.com. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to www.collarme.com. Hereinafter, shall be referred to as COMPANY, or will be referred to in first-person, plural, pronouns.
 
 2\. **You, the User** – As the user of this SITE, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the SITE shall be referred to in applicable second-person pronouns.
 
