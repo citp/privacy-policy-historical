@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gucomics.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609142142id_/http%3A//www.gucomics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gucomics.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217073135id_/http%3A//www.gucomics.com/privacy.php) for the most accurate reproduction.*
 
 # GU Comics by: Woody Hearn
 
