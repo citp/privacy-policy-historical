@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgiasown.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011085158id_/http%3A//www.georgiasown.org/terms07.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgiasown.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071523id_/http%3A//www.georgiasown.org/terms07.html) for the most accurate reproduction.*
 
 # Join a Credit Union | Become a Member | Page Title Here
 
