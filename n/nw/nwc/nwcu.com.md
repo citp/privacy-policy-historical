@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwcu.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609183501id_/http%3A//www.nwcu.com/about_us/disclosures/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwcu.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101647id_/http%3A//www.nwcu.com/about_us/disclosures/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Northwest Community Credit Union
 
@@ -7,7 +7,7 @@
   
 ## We respect your privacy.
 
-We know how important it is to maintain the confidentiality of your financial information.  This page describes the privacy policy and practices followed by Northwest Community Credit Union and our wholly-owned subsidiary, Northwest Financial Resources.  Read further for the types of member information we collect and under what circumstances we may share it.  You may also want to refer to the [policy standards](https://web.archive.org/web/20080609183501id_/http%3A//www.nwcu.com/about_us/disclosures/agreement5.aspx) we have in place as part of our Membership and Account Agreement.
+We know how important it is to maintain the confidentiality of your financial information.  This page describes the privacy policy and practices followed by Northwest Community Credit Union and our wholly-owned subsidiary, Northwest Financial Resources.  Read further for the types of member information we collect and under what circumstances we may share it.  You may also want to refer to the [policy standards](https://web.archive.org/web/20081217101647id_/http%3A//www.nwcu.com/about_us/disclosures/Acct_Agreement.pdf) we have in place as part of our Membership and Account Agreement.
 
 ### Member Information We Collect
 
