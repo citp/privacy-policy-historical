@@ -1,20 +1,57 @@
-> *The following text is extracted and transformed from the mactricksandtips.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531005346id_/http%3A//www.mactricksandtips.com/2007/05/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mactricksandtips.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217194359id_/http%3A//www.mactricksandtips.com/privacy-policy) for the most accurate reproduction.*
 
-# Mac Tricks And Tips: Privacy Policy
+# Privacy Policy | Mac Tricks And Tips
 
-We respect your privacy and we are committed to safeguarding your privacy while online at our site [http://www.mactricksandtips.com](http://www.mactricksandtips.com/). The following discloses the information gathering and dissemination practices for this Web site.
+## Privacy Policy
 
-Log Files  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. As well as this However, this site does serve ads from Google, who does collect data from visitors when the ads are clicked upon. See the Google Privacy Policy at <http://www.google.com/privacypolicy.html> for the data that may be collected, and what it might be used for.
+Every time you visit this website there is some information that I collect. This privacy policy is designed to outline what I collect and how I use it.
 
-Newsletter  
-If a user wishes to subscribe to our newsletter (powered by Feedburner), we ask for contact information such as an email address. Out of respect for our users privacy we provide a way to opt-out of these communications.
+### What I Collect
 
-Cookies  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. The cookie enables us to serve you and our content better. As well as this some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options.
+Like every website on the Internet I do collect some information from you. Most of this information is anonymous and it can’t be used to personally identify you. The information I collect from you includes:
 
-Links  
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+  * Internet protocol address
+  * Browser including OS and some other related information
+  * Time of visit
+  * Pages and images accessed
 
-Contact Information  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: jamespowell100@gmail.com 
+
+
+If you leave a comment or use the contact me form there is other information that I will collect this includes:
+
+  * Email address
+  * Name
+  * Website (If provided)
+
+
+
+### How Is This Information Used?
+
+This information is used for a couple of things. This list includes:
+
+  * Website statistics
+  * Removing and combating spam
+  * To be able to contact you if you leave a comment or question.
+
+
+
+This information may also be used to track certain uses. Mainly ones who spam this site or comprise its quality and security. This information may then be used to blacklist your IP address on this site.
+
+### Cookies
+
+This website and its advertisers may place a small cookie on your computer. This cookie for Mac Tricks And Tips is used to:
+
+  * Store you name, address and website when you leave a comment
+
+
+
+As well as this external advertising websites such as Google Adsense may also leave a small cookie on your computer. This is used by them to track your activity between sites. I am not in control of this cookie.
+
+### Security
+
+You personal information as listed on this page is important to me. As a result I try to secure my website as much as possible. Include firewalls, strong passwords as well as encryption to make sure your data cannot be downloaded by a third party. As well as this I do not sell your email address or other personal information to third parties.
+
+### Subscription Manager
+
+For added interaction and enjoyment of this site you can subscribe to posts by email using the subscription manger. This product enables you to receive email updates when ever a new comment is left. This is some privacy implications with this. I can view and modify your subscriptions. Subscriptions are based off you email address. You can at any time delete your subscriptions or sign up to different subscriptions using this interface.  
+_This page may be updated at any time without notice._
