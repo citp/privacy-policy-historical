@@ -1,40 +1,35 @@
-> *The following text is extracted and transformed from the downloadhelper.net privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205081907id_/http%3A//www.downloadhelper.net/company/profile/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadhelper.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035238id_/http%3A//www.downloadhelper.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# DownloadHelper - Media download Firefox extension
 
-####  Privacy Policy
+## Web hosts
 
-We at Aladdin Systems, Inc. recognize your right to confidentiality and are committed to protecting your privacy. Protecting your privacy is important to us; the information contained herein strives to help you understand just how much personal information is (and is not) collected on our web site and how it is used.
+As you can see navigating our site, the displayed hostname in the url may change between _www.downloadhelper.net_ and _www.vidohe.com_. This is only for technical reasons, and both domains are hosted from the same servers, using the same technology. We name the whole site, whatever its domain, _downloadhelper.net_.
 
-**Automatic Information Collection**  
-When navigating our web site, personal information about you is not collected automatically. On the StuffIt Expander and DropStuff pages of our site of our website, we do log the IP address of your computer to help us validate the opt-in to our mailing list. This does not disclose any personal information about you.
+## Log Files
 
-**About Cookies**  
-As is the case with many web sites, certain portions of Aladdin's web site may utilize a common technology known as "cookies" to collect and/or store information about you. A cookie is small amount of data that is transferred to your browser by a Web server and can only be read by the server that gave it to you. A cookie cannot be executed as code or deliver viruses.
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-Our online store, which is powered by Digital River, utilizes cookies to store information such as your name and address. (IMPORTANT: information is only taken from what you have typed into the online form and not your hard drive.)
+## Cookies
 
-The cookie file is important because it allows Digital River to make sure that you are who you say you are when you come back into their system and it also prevents anyone from using your information to place orders. It is also convenient because when you come back to the online store the Digital River system will recognize you and enter in your name and address for you into the order form when you place a new order. 
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site uses a few cookies for statistical purpose. In particular a cookie may be set by the extension to export the number of downloads you performed using Video DownloadHelper. If this is a problem for you, you can very easily disable the use of this cookie from the extension preferences. In no way, can those cookies be used to track your online activities.
 
-These files in no way allow us to access your hard drive at anytime; it only allows your system to tell us that you have previously visited our site.
+As with most web sites, some of our business partners use cookies on our site (for example, advertisers). If you are converned about this, we recommend you disable third-party cookies from your browser's preferences (Note that we have no access to or control over these cookies).
 
-Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. Our system is completely cookie dependent and you must receive ALL cookies to order from our online store.
+## Advertisers
 
-**Aladdin Software sending information via the Internet**  
-Some of our software products have been equipped with a version checking feature. Upon launching the software application, the version of the application you are running is captured and sent to our webserver. It is compared to the most current shipping version and if there is an update available the software will notify you of how to obtain it. There is no personal information sent to our server, only information from the software application itself.
+We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by the ad companies, and we do not have access to this information. We work with ad companies: Google Adsense, etc. Please check their websites for respective privacy policies.
 
-**E-mail Addresses and Their Usage**  
-Aladdin asks that you enter your e-mail address on our download pages before downloading software. You always have the option to not provide your e-mail address; it is not a requirement to download our software. Aladdin does not sell, trade or rent your email address to others. We ask for your e-mail address so that we may contact you to inform you of updates, special offers, or other software that we think would be of interest to you, including software or products from companies other than Aladdin. Any offer you may receive via email will always come from Aladdin, not the sponsoring third party. We know that the members of our e-mail list are very sensitive to receiving spam, or unsolicited email; hence we are very careful about what we send out and to whom.
+## Site navigation analyzing
 
-When you participate in a contest, promotion or survey, we may ask for your name, address, e-mail address or other information.
+As many web sites around, we use Google Analytics to collect anonymously information about your navigation on our site. We analyze this information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. downloadhelper.net may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of the downloadhelper.net search and navigation.
 
-At any time, you may choose to not be included in e-mail messages from Aladdin by visiting our [Mailing List Page](https://web.archive.org/web/20011205081907id_/http%3A//www.downloadhelper.net/company/maillist.html) and unsubscribing your email address.
+## Personal information
 
-**Security of Information**  
-When you place an order for a product, we offer the use of a secure server. The secure server software (SSL) encrypts all the information you input before it is sent to us.
+Should you contact us for technical support, partnership request or any other reason, we will communicate through email. Your email address will not be disclosed, given or sold to anyone, including third-party partners.
 
-**Third Party Information**  
-Aladdin Systems, Inc works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.engage.com/privacy/>.
+In the case of a technical support mail exchange, we may publish the content of the mail thread (without personal information like email or IP address) to our [knowledge base](https://web.archive.org/web/20081217035238id_/http%3A//www.downloadhelper.net/support-kb.php) as this may be an efficient source of information for the other users.
 
-  
+## Changes to privacy policy
 
+We reserve the right to amend or revise this privacy policy from time to time. We will post these changes to this page. Use of information that we gather now is subject to the privacy policy in effect at the time the information is used. 
