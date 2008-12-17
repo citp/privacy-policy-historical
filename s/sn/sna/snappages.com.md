@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snappages.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609225410id_/http%3A//www.snappages.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappages.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052337id_/http%3A//www.snappages.com/privacy.php) for the most accurate reproduction.*
 
 # SnapPages
 
@@ -54,11 +54,11 @@ If we change our privacy policy, we will post those changes on our web site so M
 
 ### Invite a Friend
 
-If a Member elects to use our "Invite" feature to invite a friend to become a Member of SnapPages, we ask them for the friend's email address. SnapPages will automatically send the friend an email inviting them to join the site. This email address is stored for the purpose of automatically adding the respondent to the friends list of the Member sending the invitation. SnapPages will never sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Any person who receives an invitation may **[contact SnapPages](mailto:support@test1studios.com?subject=Remove%20my%20information%20from%20databases)** to request the removal of this information from our database. 
+If a Member elects to use our "Invite" feature to invite a friend to become a Member of SnapPages, we ask them for the friend's email address. SnapPages will automatically send the friend an email inviting them to join the site. This email address is stored for the purpose of automatically adding the respondent to the friends list of the Member sending the invitation. SnapPages will never sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Any person who receives an invitation may **[contact SnapPages](https://web.archive.org/feedback.php)** to request the removal of this information from our database. 
 
 ### Security
 
-The SnapPages account of every Member is password-protected. SnapPages takes every precaution to protect the information of the Members, as well as information collected from other users of the SnapPages. We use industry standard measures to protect all information that is stored on our servers and within our database. We limit the access to this information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please [**contact us**](mailto:support@test1studios.com?subject=Security%20Question). 
+The SnapPages account of every Member is password-protected. SnapPages takes every precaution to protect the information of the Members, as well as information collected from other users of the SnapPages. We use industry standard measures to protect all information that is stored on our servers and within our database. We limit the access to this information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please [**contact us**](https://web.archive.org/feedback.php). 
 
 ### Members and Users Located Outside of the United States of America
 
@@ -66,7 +66,11 @@ We have made an effort to protect the personal information of all Members and ot
 
 ### Contacting SnapPages
 
-If you have any questions about this privacy policy, SnapPages’ privacy practices, or your dealings with SnapPages, please [**contact us**](mailto:support@snappages.com?subject=SnapPages%20Privacy%20Policy). 
+If you have any questions about this privacy policy, SnapPages’ privacy practices, or your dealings with SnapPages, please [**contact us**](https://web.archive.org/feedback.php). 
 
   
 
+
+Contacting SnapPages
+
+If you have any questions about this privacy policy, SnapPages’ privacy practices, or your dealings with SnapPages, please [**contact us**](https://web.archive.org/feedback.php).
