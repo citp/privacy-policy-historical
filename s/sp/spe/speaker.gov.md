@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speaker.gov privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614232017id_/http%3A//www.speaker.gov/footerlinks%3Fid%3D0001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speaker.gov privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217190155id_/http%3A//www.speaker.gov/footerlinks%3Fid%3D0001) for the most accurate reproduction.*
 
 # Speaker Nancy Pelosi
 
@@ -7,7 +7,7 @@ Get the latest news and info from the Speaker
 
 [](http://www.kintera.org/autogen/home/default.asp?ievent=239010)
 
-[](http://speaker.gov/issues?id=0031)
+[](http://inaugural.senate.gov/index.cfm)
 
 [](http://www.speaker.gov/blog)
 
