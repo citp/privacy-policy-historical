@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509063951id_/http%3A//www.tempurpedic.com/customer_service/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217074823id_/http%3A//www.tempurpedic.com/customer_service/privacy_policy) for the most accurate reproduction.*
 
 # Tempur-Pedic® - Customer Service - Privacy Policy
 
@@ -87,5 +87,4 @@ Our security measures are designed to prevent anyone from stealing and using you
 
 We will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made at our website while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
-LAST UPDATED December 2007   
-
+LAST UPDATED December 2007 
