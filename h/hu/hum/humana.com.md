@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517164802id_/http%3A//humana.com/about/privacy/internet_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040455id_/http%3A//www.humana.com/about/privacy/internet_privacy_policy.asp) for the most accurate reproduction.*
 
-# Internet Privacy Statement
+# Internet Privacy Statement | Humana
 
 | 
 
@@ -54,7 +54,7 @@ This Internet Privacy Statement assures you that the information you share with 
 
 Links to other Websites are available to provide you with additional useful information and services. Links that take you off our site are clearly labeled. We are not responsible for the privacy policies or actions of those who control other Websites. We encourage you to look for and review the privacy policies of any site you visit.
 
-Humana has also partnered with third parties and provides links to their Websites to offer you additional information and services. You may see both the Humana logo and the third party's logo on these third-party Websites. Users of these Websites will be aware of who is collecting personal information and whose internet privacy policy applies before they provide personal information. Humana does not have control over our third-party partner's use of your information.
+Humana has also partnered with third parties and provides links to their Websites to offer you additional information and services. You may see both the Humana logo and the third party's logo on these third-party Websites. Users of these Websites will be aware of who is collecting personal information and whose internet privacy policy applies before they provide personal information. Humana does not have control over our third-party partners' use of your information.
 
 ### Personal Information
 
