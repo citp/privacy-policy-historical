@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the kingolotto.co.uk privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616150014id_/http%3A//www.kingolotto.co.uk/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingolotto.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044550id_/http%3A//www.kingolotto.co.uk/privacyPolicy.php) for the most accurate reproduction.*
 
 # Kingolotto - 100% free UK lottery - Win : vouchers, DVDs, holidays, DVD players, mobile phones and loads of great prizes!
 
 Purpose of this Privacy Policy
 
 Mediastay Ltd is registered with The Information Commissioner's Office under the Data Protection Act 1998 (ICO Registration No. Z962923X).   
-This Privacy Policy relates to the KINGOLOTTO website accessible at [www.kingolotto.co.uk](http://www.kingolotto.co.uk/) (the “Website”) which is owned by and operated by the proprietor : MEDIASTAY Ltd, Pramex Capital House, 85 King William Street London EC4N 7BL (“Mediastay”). Company Registration No. 5958600.
+This Privacy Policy relates to the KINGOLOTTO website accessible at [www.kingolotto.co.uk](http://www.kingolotto.co.uk/) (the “Website”) which is owned by and operated by the proprietor : Mediastay Limited Natixis Pramex International Cannon Bridge House 25, Dowgate Hill London EC4T 2YA England. Company Registration No. 5958600.
 
 Mediastay respects your privacy and is committed to protecting it. Mediastay also has obligations under the Data Protection Act 1998 regarding the collection, use and storage of personal information relating to individuals which Mediastay receives via the Website. Mediastay provides this Privacy Policy to inform you of Mediastay’s policy and practices and of the choices you can make about the way your information is collected and used. Mediastay have structured the Website so that, if you are simply visiting the Website and not playing Kingolotto, you can do so without identifying yourself or revealing any personal information.
 
