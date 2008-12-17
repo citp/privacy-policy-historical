@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torridart.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503013214id_/http%3A//www.torridart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torridart.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125937id_/http%3A//www.torridart.com/privacy) for the most accurate reproduction.*
 
 # TorridArt.com Privacy Statement
 
@@ -12,13 +12,19 @@ TorridArt.com is committed to the privacy and security of personal information. 
 
 #### Spam
 
-TorridArt.com does not engage in spam, or activities that could result in spam.
+TorridArt.com does not engage in spam, or activities that could result in spam. Email addresses collected from site visitors in any way, for example through forms on the site or direct email contact, will never be disclosed to any party or business entity.
+
+#### Newsletter
+
+The Torrid Art Newsletter communicates updates and site news via email to anyone who voluntary submits their email address through a form on the site. Subscriptions to the Newsletter are through a double opt-in system to guard against an individual entering an email address that is not their own.
+
+Email addresses collected through the Newsletter signup forms on the site will never be disclosed to any party or business entity.
 
 #### Unsolicited contact
 
 TorridArt.com will not contact individuals unsolicited.
 
-TorridArt.com will not contact members based solely on their membership status, past or present. TorridArt.com does not mail a newsletter to members or non-members.
+TorridArt.com will not contact members based solely on their membership status, past or present.
 
 TorridArt.com may contact individuals who have voluntarily entered their email address into one of the forms on the site. The purpose of such contact is to answer questions or respond with requested information only; no other contact will be made. Contact will be made via email only. In such cases TorridArt.com will clearly identify themselves and provide email contact information.
 
