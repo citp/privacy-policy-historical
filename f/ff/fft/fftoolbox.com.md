@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the fftoolbox.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609132551id_/http%3A//www.fftoolbox.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fftoolbox.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217103331id_/http%3A//fftoolbox.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Fantasy Football Toolbox: Privacy Policy
 
 We respect your privacy. Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Fantasy Football Toolbox LLC will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to [let us know](https://web.archive.org/feedback.cfm). 
 
+#### 
+
 * * *
 
 **Resale or disclosure of information to third parties:**  
-Fantasy Football Toolbox LLC does not sell, rent, loan, trade, or lease any personal information collected at our site, including email lists. 
+Fantasy Football Toolbox LLC does not sell, rent, loan, trade, or lease any personal information collected at our site, including email lists.
+
+#### 
 
 **Browser information collected on the website:** Fantasy Football Toolbox analyzes our website logs to constantly improve the value of the materials available on website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
 
