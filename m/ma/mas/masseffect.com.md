@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the masseffect.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509122547id_/http%3A//masseffect.bioware.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masseffect.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217120757id_/http%3A//masseffect.bioware.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Mass Effect Community - Privacy Policy (Updated April 1, 2008)
+# Mass Effect Community - Privacy Policy
 
 BioWare considers issues relating to your privacy to be a serious matter. As such, BioWare has created and implemented this Privacy Policy so that you understand what BioWare may and may not do with certain personal information. This Privacy Policy describes the guidelines BioWare uses to protect the information we collect about you during your visit(s) to our Web Sites. By visiting BioWare's Web Sites and/or purchasing products through the BioWare Store, you consent to the collection and use of information described below and in the [BioWare Store Policy](https://web.archive.org/legal/store_policy.html) or [Web Site Terms of Use](https://web.archive.org/legal/terms.html).
 
