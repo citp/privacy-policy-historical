@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodnet.net privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224161755id_/http%3A//www.woodnet.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodnet.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217213228id_/http%3A//www.woodnet.net/privacy) for the most accurate reproduction.*
 
 # WoodNet.net - The Woodworker's Online Resource - Privacy Policy
 
@@ -64,4 +64,4 @@ In the event all or a portion of the assets owned or controlled by August Home o
 
 Please be careful and responsible online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your information, August Home cannot ensure or warrant the security of any information through the transmission process and you do so at your own risk. 
 
-If you have questions or comments about this privacy policy, you may contact Gordon Gaippe at the above address or send an e-mail to [ggaippe@augusthome.com](mailto:ggaippe@augusthome.com). 
+If you have questions or comments about this privacy policy, you may contact us at the above address or send an e-mail to [orders@augusthome.com](mailto:orders@augusthome.com). 
