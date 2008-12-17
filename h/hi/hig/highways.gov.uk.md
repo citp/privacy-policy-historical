@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highways.gov.uk privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616184743id_/http%3A//www.highways.gov.uk/aboutus/2301.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highways.gov.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101237id_/http%3A//www.highways.gov.uk/aboutus/2301.aspx) for the most accurate reproduction.*
 
 # Highways Agency - Privacy Statement
 
@@ -18,8 +18,8 @@ If you want to know whether any information is held about you, please see our po
 
 ### Electronic Surveys and Personal Information
 
-The Highways Agency occasionally operates electronic surveys on our website, sometimes in conjunction with our contractors. The information you provide will be kept in a secure environment only accessible by the Highways Agency and the specific contractor(s) working with the survey. 
+The Highways Agency occasionally operates electronic surveys on our website, sometimes in conjunction with our contractors. The information you provide will be kept in a secure environment only accessible by the Highways Agency and the specific contractor(s) working with us on that project. 
 
-The information you submit will only be used for the purpose specified in the survey. Personal details are collected only to ensure entries are not duplicated and in order to contact respondents and any potential prize winners if necessary. All personal details will be deleted at the end of the survey analysis period. 
+The information you submit will only be used for the purpose specified in the survey. Personal details are collected only to ensure entries are not duplicated and in order to contact respondents and any potential prize winners if necessary. All personal details will be deleted at the end of the survey analysis period unless otherwise stated. 
 
 Your personal information will not be shared with any other individuals or organisations unless otherwise stated.
