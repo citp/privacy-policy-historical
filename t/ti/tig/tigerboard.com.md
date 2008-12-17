@@ -1,54 +1,63 @@
-> *The following text is extracted and transformed from the tigerboard.com privacy policy that was archived on 2000-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000603034907id_/http%3A//www.tigerboard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerboard.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217134724id_/http%3A//www.tigerboard.com/privacy.php) for the most accurate reproduction.*
 
-# TigerBoard
+# TigerBoard.com :: Where Mizzou Fans Talk
 
-## Privacy Policy for TigerBoard
+Tigerboard.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-TigerBoard.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
+This Privacy Policy covers Tigerboard.com's treatment of personal information that Tigerboard.com gathers when you are on the Tigerboard.com website and when you use Tigerboard.com services. This policy does not apply to the practices of third parties that Tigerboard.com does not own or control, or to individuals that Tigerboard.com does not employ or manage. 
 
-Our site uses cookies to keep track of your shopping cart and to save your password so you don't have to re-enter it each time you post a message on our site. 
+### Information Collected by Tigerboard.com 
 
-Our site's registration form requires users to give us contact information. We use customer contact information from the registration form to send the user a temporary password. 
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Tigerboard.com users: 
 
-This site contains links to other sites. **TigerBoard** is not responsible for the privacy practices or the content of such Web sites.
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Financial information that is collected is used to bill the user for products and services. 
+2\. Automatic Information: 
 
-Our online surveys ask visitors for demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
+o We receive and store certain types of information whenever you interact with us. Tigerboard.com and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, Tigerboard.com cookie information, and the page you requested. Tigerboard.com uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website. 
 
-We run contests on our site in which we ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. 
+o Tigerboard.com may collect and, on any page, display the total counts that page has been viewed. 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+o Many companies offer programs that help you to visit websites anonymously. While Tigerboard.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
-## Public Forums
+### E-mail Communications 
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Tigerboard.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. Tigerboard.com may send out e-mails with Tigerboard.com-related news, products, offers, surveys or promotions. 
 
-## Security
+### Cookies 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+• Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Tigerboard.com cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
 
-## Choice/Opt-Out
+• The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Tigerboard.com's coolest features. 
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
+• Tigerboard.com’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page. 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+### Sharing Your Information 
 
-  1. You can send email to [nick@tigerboard.com](mailto:nick@tigerboard.com)
-  2. You can visit the following URL: [http://www.tigerboard.com](http://www.tigerboard.com/)
+Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below. 
 
+• Tigerboard.com Personnel: Tigerboard.com personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Tigerboard.com business. 
 
+• Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Tigerboard.com, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
 
-## Correct/Update
+• Protection of Tigerboard.com and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Tigerboard.com, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-This site gives users the following options for changing and modifying information previously provided. 
+• Syndication: Tigerboard.com allows for the RSS syndication of all of its public content within the Tigerboard.com website. 
 
-  1. email [nick@tigerboard.com](mailto:nick@tigerboard.com)
+• With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information. 
 
+### Children Under 18 Years of Age 
 
+You must be 13 years and older to register to use the Tigerboard.com website. As a result, Tigerboard.com does not specifically collect information about children. If we learn that Tigerboard.com has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using Tigerboard.com or sending information about themselves or anyone else over the Internet. 
 
-## Contacting the Web Site
+### Changes to this Privacy Policy 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Nick Witthaus TigerBoard.com 1130 S. Michigan Ave. Chicago, IL 60605 nick@tigerboard.com
+Tigerboard.com may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Tigerboard.com website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
 
-TigerBoard works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+### Conditions of Use 
+
+If you decide to visit Tigerboard.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Missouri state law. 
+
+### Effective Date of this Privacy Policy 
+
+This Privacy Policy is effective as of 10/1/2008 and last updated 10/1/2008. 
