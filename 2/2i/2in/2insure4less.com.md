@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2insure4less.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529013258id_/http%3A//www.2insure4less.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2insure4less.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102339id_/http%3A//www.2insure4less.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # 2Insure4Less.com - Privacy Policy
 
