@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plunder.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625015335id_/http%3A//www.plunder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plunder.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110001id_/http%3A//www.plunder.com/x/privacy) for the most accurate reproduction.*
 
-# Privacy Information - Plunder
+# Privacy Policy
 
 **Privacy Policy  
 **   
@@ -25,4 +25,4 @@ We use third-party advertising companies to serve ads when you visit our site. T
 **Third-Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
 
-Effective Date: March 06, 2006  
+Effective Date: July 06, 2008  
