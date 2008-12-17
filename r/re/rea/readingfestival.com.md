@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readingfestival.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629133218id_/http%3A//www.readingfestival.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingfestival.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217184228id_/http%3A//readingfestival.com/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Reading Festival 2008 :: PRIVACY
+# Reading Festival :: Privacy Policy
 
 The websites [www.readingfestival.com](http://www.readingfestival.com/) (“the Website”) are owned and operated by Festival Republic Music Group Ltd ("we"/"us"/"our"), company number 02948536.  
 **  
