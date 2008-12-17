@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the michaelbaisden.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609045515id_/http%3A//www.michaelbaisden.com/article.asp%3FID%3D397403) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the michaelbaisden.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217095422id_/http%3A//www.michaelbaisden.com/article.asp%3FID%3D397403) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -18,7 +18,31 @@
 
 <script language="javascript" type="text/javascript" src="/gbinc/jsfiles/gbincFlashCheck.js"></script>
 
+<script src="http://www.rushmoredrive.com/Scripts/Syndication/SyndicationSearch.js" language="javascript"></script>
+<script src="/jsfiles/incCustomFormValidate.js" language="javascript"></script>
+<script language="Javascript">
+function funRushmoreDrive() {
+var sinput = document.searchFormKeywords.keyword.value
+var found_it
 
+for (var i=0; i<document.searchFormKeywords.KeySearch.length; i++)  { 
+if (document.searchFormKeywords.KeySearch[i].checked)  {
+
+found_it = document.searchFormKeywords.KeySearch[i].value
+
+//alert (found_it)
+//alert(sinput)
+
+if (found_it == 'Rushmore') {
+	RMDSearch('MB2008', 'Web', sinput , '', '') 
+	}else{
+		document.searchFormKeywords.action='/keywordSearch.asp'
+		}
+}
+}
+}
+//-->
+</script>
 </head>
 <body>
 
@@ -105,42 +129,14 @@ OAS_AD('Top');
 			   	<h1><a href="/default.asp">The Michael Baisden Show</a></h1>
 			   </div>
 			   <!-- Begin Search Section -->
-<div id="search" class="module">
+<div id="search" class="module" style="margin-top:20px">
      <div class="moduleContainer">
           <div class="moduleHeader">
-               <h3>Keyword Search</h3>
+               <h3>Search</h3>
           </div>
           <div class="moduleContent">
                <div class="moduleContentContainer">
-                 <div class="containerPadding">
-                    
-		<script language="Javascript">
-		<!--
-		function ValidateSearchForm()
-		{
-			var objForm = document.searchFormKeywords;
-			var isOK = true;
-			if (objForm.keyword.value.length < 1) {
-				alert("Please enter a valid Keyword to search for.");
-				objForm.keyword.focus();
-				isOK = false;
-			}
-			return isOK
-		}
-		//-->
-		</script>
-		 <form method="GET" action="/KeywordSearch.asp" name="searchFormKeywords" onsubmit="return ValidateSearchForm();"><input type="hidden" name="search" value="1">
-		 <fieldset>
-                         <legend></legend>
-                         <div class="formRow">
-                              <input name="keyword" type="text" id="searchFor">
-                         </div>
-                         <div class="submitRow">
-                              <input type="image" class="buttonKW" src="/images/search_button_go.gif" name="searchSubmitButton" value="Go" width="25" height="19">
-                         </div>
-          </fieldset></form>
-	
-                 </div>
+                
                </div>
           </div>
           <div class="moduleFooter"></div>
@@ -190,14 +186,14 @@ OAS_AD('Top');
 	<ul class="navItems">
 		<li class=""><a target="" href="/default.asp">Home</a></li>
 		<li><a target="" href="/Article.asp?id=611268">Features</a></li>
-		<li><a target="" href="/calendar/default.asp?MONTHADD=0">Tour</a></li>
+		<li><a target="" href="/Article.asp?id=991855">Tour</a></li>
 		<li><a target="" href="/Article.asp?id=423685">Biography</a></li>
 		<li><a target="" href="/Article.asp?id=538074">Photos</a></li>
 		<li><a target="_blank" href="http://www.minglecity.com/forum/">Boards</a></li>
 		<li><a target="" href="/sectional.asp?ID=17364&amp;tid=1">Store</a></li>
 		<li><a target="" href="/els/elsloginfrm.asp">Insider</a></li>
 		<li><a target="" href="/Article.asp?id=423702">Stations</a></li>
-		<li class="last"><a target="" href="/Article.asp?id=472653">Contact Us</a></li>
+		<li class="last"><a target="" href="/contactus.asp">Contact Us</a></li>
 	</ul>
 			  </div>
 			</div>
@@ -208,6 +204,7 @@ OAS_AD('Top');
 <!-- End Navigation Section -->
 
 <!-- End Navigation Section -->
+ 
           <div id="contentBackground">
                <div id="contentColumns">
                     <div id="contentEnclose">
@@ -222,7 +219,6 @@ OAS_AD('Top');
                                    <div class="moduleContent">
                                         <div class="moduleContentContainer">
                                           <div class="containerPadding">
-
 					
 														<!-- Begin Cube Insert -->
 														 <div id="articleAdInsert">  
@@ -284,7 +280,7 @@ OAS_AD('Position1');
 	<h4>Show Features</h4>
 	</div>
 	<div class="moduleContainer">
-	<a href="/Article.asp?id=557095"> <img src="http://images.radcity.net/6538/2367836.jpg" border="0"></a>
+	
 <a href="/Article.asp?id=491600"> <img src="http://images.radcity.net/6538/2371133.jpg" border="0"></a>  
 <a href="/Article.asp?id=559006"> <img src="http://images.radcity.net/6538/2367892.jpg" border="0"></a>  
 
@@ -303,9 +299,10 @@ OAS_AD('Position1');
 						 <div class="footer"></div>
                     </div>
 
-                    <div id="contentRight">
-                      <div class="contentAreaPadding">
-                        
+    
+		<div id="contentRight">
+		  <div class="contentAreaPadding">
+		    
 <!------ OAS AD michaelbaisden.com/articles/political 160x600 'Right' begin ------>
 <script language="JavaScript">
 <!--
@@ -319,16 +316,55 @@ OAS_AD('Right');
 </noscript>
 <!------ OAS AD michaelbaisden.com/articles/political 160x600 'Right' end ------>
 
-                      </div>
-                    </div>
-					
-                    <div class="contentBottom"></div>
-					<div class="footer"></div>
-               </div>
-			   
+		  </div>
+		</div>
+    
+	     <div class="contentBottom"></div>
+	     <div class="footer">
+<!--div id="leaderboard"-->
+		<!------ OAS AD michaelbaisden.com ROS 728x90 'Bottom' begin ------>
+<script language="JavaScript1.1" src="http://oascentral.michaelbaisden.com/RealMedia/ads/adstream_jx.ads/michaelbaisden.com/ros@Bottom">
+</script>
+
+<script language="JavaScript">
+<!--
+_version=10;
+//-->
+</script>
+<script language="JavaScript1.1">
+<!--
+_version=11;
+// -->
+</script>
+
+<script language="JavaScript">
+
+<!--
+if (navigator.appVersion.indexOf('MSIE 3') != -1){
+document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://oascentral.michaelbaisden.com/RealMedia/ads/adstream_sx.ads/michaelbaisden.com/ros@Bottom"></iframe>');
+} else if (_version < 11) {
+document.write ('<A HREF="http://oascentral.michaelbaisden.com/RealMedia/ads/click_nx.ads/michaelbaisden.com/ros@Bottom"><IMG SRC="http://oascentral.michaelbaisden.com/RealMedia/ads/adstream_nx.ads/michaelbaisden.com/ros@Bottom"></a>');
+}
+// -->
+</script>
+<noscript>
+<A HREF="http://oascentral.michaelbaisden.com/RealMedia/ads/click_nx.ads/michaelbaisden.com/ros@Bottom" target="_blank">
+<IMG SRC="http://oascentral.michaelbaisden.com/RealMedia/ads/adstream_nx.ads/michaelbaisden.com/ros@Bottom" border=0>
+</A>
+</noscript>
+<!------ OAS AD michaelbaisden.com ROS 728x90 'Bottom' END ------>
+
+	</div>
+
+</div>
+	   </div>
+		
+	   
           </div>
-		  
-          <div id="footer">
+  
+
+
+         <div id="footer">
 			<a id="abcLogo" target="_blank" href="http://www.abcradio.com">abc Radio Networks</a>
             <div class="contentAreaPadding">
                <div id="footerTop"></div>
@@ -346,16 +382,7 @@ OAS_AD('Right');
 <!-- BEGIN COPYRIGHT AREA -->
 	<div id="copyrightContainer">
 	 	<div class="areaPadding">	
-	 	  <p class="copyright">Copyright © 2008 Citadel and <a class="footerCopyrightLinks" href="Javascript:displayNotice();">MediaSpan</a><br><a class="footerCopyrightLinks" target="_blank" href="http://mediaspannetwork.com/article.asp?id=210703">Part of the MediaSpan Network (Privacy Policy)</a><script type="text/javascript" language="Javascript">
-<!--
-/* <![CDATA[ */
-function displayNotice() {
-	noteWin = window.open("http://mediaspanonline.com/PopUpCopyrightNotice.asp?d=www.michaelbaisden.com", "noteWindow", "location=no,status=no,toolbar=no,menubar=no,width=520,height=500,scrollbars=yes,resizable=yes");
-	if (noteWin.focus) noteWin.focus();
-}
-/* ]]> */
-//-->
-</script><br><!--future stat tag code goes here--></p>
+	 	  <p class="copyright">Copyright © 2008 Citadel and <a class="footerCopyrightLinks" target="_blank" href="http://www.mediaspanonline.com/services">MediaSpan</a><br><a class="footerCopyrightLinks" target="_blank" href="http://www.mediaspannetwork.com/article.asp?id=210703">Part of the MediaSpan Network (Privacy Policy)</a><br><!--future stat tag code goes here--></p>
 	 	  <p class="policies">Privacy Policies: <a target="_blank" href="http://abcradio.com/article.asp?ID=327747">ABC Radio Networks</a>I<a target="_blank" href="http://mediaspanonline.com/article.asp?id=210703">MediaSpan</a></p>
 	 	</div>
 	</div><!--future stat tag code goes here-->				
@@ -369,12 +396,14 @@ function displayNotice() {
                <div id="footerBottom"></div>
             </div>
           </div>
-     </div> <!--End Framework-->
+     </div> 
+
+<!--End Framework-->
      
      <div id="frameworkBottom"></div>
      
   </div><!--End sitePadding-->
-</div><!--End site-->
+<!--End site-->
 
 <!------ OAS AD michaelbaisden.com/articles/political x69  begin ------>
 <script language="JavaScript">
@@ -384,6 +413,40 @@ OAS_AD('x69');
 </script>
 <!------ OAS AD michaelbaisden.com/articles/political x69 end ------>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start Quantcast tag -->
+
+<script type="text/javascript">
+
+_qoptions={
+
+qacct:"p-3f2oI59_krbBM"
+
+};
+
+</script>
+
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+
+<noscript>
+
+<a href="http://www.quantcast.com/p-3f2oI59_krbBM" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-3f2oI59_krbBM.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+
+</noscript>
+
+<!-- End Quantcast tag -->
 
 
 
