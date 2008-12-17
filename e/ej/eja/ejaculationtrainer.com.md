@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the ejaculationtrainer.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624025038id_/http%3A//www.ejaculationtrainer.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ejaculationtrainer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131315id_/http%3A//www.ejaculationtrainer.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# privacy policy statement
+# Privacy Policy
 
-**[](https://web.archive.org/web/20080624025038id_/http%3A//www.ejaculationtrainer.com/npe/index.htm)[Home](https://web.archive.org/web/20080624025038id_/http%3A//www.ejaculationtrainer.com/index.htm)[  ](https://web.archive.org/web/20080624025038id_/http%3A//www.ejaculationtrainer.com/index.htm)   **
+**[Home](https://web.archive.org/web/20081217131315id_/http%3A//www.ejaculationtrainer.com/index.htm)    **
 
 **Ejaculationtrainer.com Website Privacy ****Policy**
+
+ **We respect your privacy and are committed to protecting it.**
 
 This document was last updated on 3/14/08.
 
  **1\. Acknowledgement and acceptance of terms**
 
-Ejaculationtrainer.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website.   By accessing Ejaculationtrainer.com, you acknowledge and fully understand Ejaculationtrainer.com’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Ejaculationtrainer.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interacts with our website.  By accessing Ejaculationtrainer.com, you acknowledge and fully understand Ejaculationtrainer.com’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
  **2\. Participating Merchant Policies**
 
@@ -20,7 +22,7 @@ Related services and offerings with links from this website, including vendor si
 
 Ejaculationtrainer.com collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
 
- **a.       ****Web Server Logs**.
+a. **Web Server Logs**.
 
 When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
 
@@ -43,7 +45,7 @@ When you visit our Website, we may track information to administer the site and 
 
 
 
- **b. Use of Cookies**
+b. **Use of Cookies**
 
 Ejaculationtrainer.com may use cookies to personalize or enhance your user experience.  A cookie is a small text file that is placed on your hard disk by a Web page server.  Cookies cannot be used to run programs or deliver viruses to your computer.  Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
 
@@ -62,13 +64,13 @@ Visitors to our website can register to purchase services.  When you register, 
 
 We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
-§  To fulfill your service requests for services.
+ To fulfill your service requests for services.
 
-§  To protect ourselves from liability,
+To protect ourselves from liability,
 
-§  To respond to legal process or comply with law, or
+To respond to legal process or comply with law, or
 
-§  In connection with a merger, acquisition, or liquidation of the company.
+In connection with a merger, acquisition, or liquidation of the company.
 
  **4. Use of Web Beacons or GIF files**
 
@@ -94,10 +96,10 @@ Ejaculationtrainer.com
 
 Matt Wutzke
 
-P.O. Box 513
+P.O. Box 1705
 
 Pendleton, Or 97801
 
 Ejaculationtrainer.com will use commercially reasonable efforts to promptly respond and resolve any problem or question.
 
- [](http://www.copyscape.com/)
+[](http://www.copyscape.com/)
