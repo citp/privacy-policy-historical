@@ -1,0 +1,41 @@
+> *The following text is extracted and transformed from the betterplace.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070204id_/http%3A//www.betterplace.com/privacy-policy) for the most accurate reproduction.*
+
+# Better Place || Privacy Policy
+
+## Privacy Policy
+
+Better PLC (referred to here as �Better Place�) provides this privacy policy (�Policy�) to explain how we collect, use and protect (or, in some cases, do not protect), your personal information as you interact with us online through the �betterplace.com� web site. Better Place recognizes the importance of protecting personally identifiable information provided by users of the site, as well as for persons included in our subscriber mailing lists. The following privacy policy grows from our fundamental respect for our users’ right to privacy and will serve to guide our relationships with our users and subscribers. 
+
+Better Place reserves the right to change this Policy at any time by posting a new privacy statement on our web site. You are responsible for checking periodically for changes. By accessing the site, you indicate your agreement to and acceptance of the terms of this Policy, and consent to the collection, retention and use of your personally identifiable information consistent with this Policy, as amended from time to time. If you are visiting our site from outside the United States, there may be special rules or limitations on your use of this web site. 
+
+**Information Collected by Better Place**   
+Better Place and its authorized service providers collect information about users during their registration for our various subscription lists, their participation in certain activities on our web site, their purchase of products or services through the site, and through the use of cookies. When users request pages from our server, our web server automatically collects some information about the users, including their IP addresses. These IP addresses are used by computers to send the requested pages to users. 
+
+If a user wishes to subscribe to our mailing list and/or newsletter, we collect and retain contact information such as name, email and mailing address. We may also collect and retain information regarding the types of information or topics that are of interest if we are provided with that information, as well as identification of which communications our users wish to receive. 
+
+**Use of Information**   
+Except as disclosed to you or as otherwise described in this Policy, as may be amended from time to time, Better Place will not share any personally identifiable information that subscribers or web site users provide to us with any third party for their direct marketing purposes. Better Place will disclose info to the extent necessary to comply with applicable laws or legal processes (e.g., subpoenas). We will cooperate with law enforcement authorities. Better Place may share your personal information where it is necessary for us to complete a transaction or do something that you have asked us to do. 
+
+Better Place uses visitors’ IP addresses to help diagnose problems with our server and to administer our Web site. We also use them to gather broad demographic information about our users in general. When a user visits our website we only capture their IP address information unless they have specifically provided other personal information as noted above. IP information does not contain anything that can identify users personally. We may combine demographic information supplied by a subscriber at registration with site usage data to provide profiles, in aggregate form, about our users and their preferences in the content of the site and advertising. 
+
+Any information disclosed in public areas of the site will become public information. Better Place cannot control the use of information disclosed in public forums, such as bulletin boards, news groups, or chat rooms. Better Place will treat any postings by users, feedback, emails or suggestions to us as NON-CONFIDENTIAL and as NON-PROPRIETARY. If you choose to use your real name, it will be available to and viewable by anyone. 
+
+**Using e-mail and mailing addresses**   
+Better Place periodically sends out e-mail and mail to our subscribers about services and products offered by Better Place and our partners. Better Place may work with service providers to assist with these mailings, and these service providers may have access to your personally identifiable information. Third parties will not contact our subscribers through the use of our e-mail and mailing lists except through our own emails or newsletters that may contain messages from our partners within the email and/or mail themselves, or unless users ask to be placed on a list to receive e-mail and/or mail from our partners on subjects of interest. 
+
+**Children**   
+Better Place does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, you should not attempt to register for this site or send information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on the site. If a child under 13 submits information through any part of the site without verification of parental consent, and we learn the person submitting the information is a child or such consent has not been verified, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any personal information from children under 13, we do not use or disclose such information to third parties. 
+
+**International Visitors**   
+Because Better Place operates or plans to operate in many countries, circumstances could arise where it is necessary for us to make your personal information available to our worldwide business units. Privacy laws differ across the globe. If it is necessary for the purposes for which you have shared personal information with us for us to share your information within our global operations, we will do so consistent with this Policy. 
+
+This site is hosted in the United States and is intended for United States visitors. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from United States law, please note that you are transferring your personal data to the United States and by providing your personal data you consent to that transfer. When you provide personal data to Better Place or our service providers or vendors, you consent to the processing of your data in the United States as the site is operated in the United States. Accordingly, your data may be stored and used subject to US law. 
+
+**Additional Terms**   
+To request that we remove your personally identifiable information from our database or to “opt-out” of any further e-mail or contact, send request to [optout@betterplace.com](mailto:optout@betterplace.com). Better Place will make a good faith effort to comply with such written requests within thirty days of receipt of the request. 
+
+Better Place is not responsible for the content or the privacy polices of web sites to which it may provide links or the web sites of its advertisers. Better Place uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to responsible third parties. Please note that Better Place makes no guarantee that information provided to us will not be accessed, disclosed, altered or destroyed by breach of firewalls or secure server software. Better Place is not responsible for circumvention of any privacy settings or security measures contained on the site 
+
+If Better Place should ever file for bankruptcy or merge with another company, or if we should decide to buy, sell or reorganize some part or all of our business, Better Place may be required to disclose your personally identifiable information to prospective or actual purchasers or receive such information from sellers. Better Place intends to seek appropriate protection for information disclosed or received in these types of transactions. 
+
+Policy Effective: July 25, 2008 
