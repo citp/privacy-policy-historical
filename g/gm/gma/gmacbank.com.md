@@ -1,84 +1,218 @@
-> *The following text is extracted and transformed from the gmacbank.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207145645id_/http%3A//www.gmacbank.com/jsp/privacy.jsp%3FsiteSource%3DPublic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmacbank.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055945id_/http%3A//www.gmacbank.com/legal-information/privacy-promise.html) for the most accurate reproduction.*
 
-# Privacy
+# GMAC Bank : Privacy Promise
 
-Overview
-
-You take online privacy seriously and so does GMAC Bank. It's our way of sustaining your trust in our company, our products and our services. Our privacy statement describes how we collect, protect and use customer information.
-
-There are a few simple things that you can do to help safeguard your information on the Internet: memorize your UserID and Password, change your Password regularly, use our secure Message Center when communicating with GMAC Bank, and always remember to log-off of your gmacbank.com Online Banking session. Here are several helpful suggestions to [maintain your privacy](https://web.archive.org/gmac/privacy_maintenance.htm) we hope you'll consider. Together we can make your Online Banking experience enjoyable and secure.
-
-This privacy statement applies to our online privacy policy. At the time you establish a loan or deposit account relationship with GMAC Bank, and on an annual basis, we will provide you with our Privacy Notice titled "Important Privacy Notice from GMAC Bank". This notice will outline your choices as a customer regarding our information sharing practices. 
-
-What Personal Information is collected on gmacbank.com?
-
-There are several opportunities on our web site for you to provide us with personal information, such as:
-
-  * your name;
-  * mailing address; and
-  * e-mail address.
+  * [Privacy Promise](https://web.archive.org/legal-information/privacy-promise.html)
+  * [Disclosures](https://web.archive.org/legal-information/disclosures.html)
+  * [Fair Lending](https://web.archive.org/legal-information/fair-lending.html)
 
 
 
-Why Is My Personal Information Collected?
+At GMAC Bank, protecting your privacy is our priority
 
-The information we obtain from you as you use the gmacbank.com site helps us personalize your Online Banking experience. There are several types of information we gather. We use the information you enter on our site to help us respond to your requests, improve our site to make it more responsive to meet your needs, and to customize certain site features or advertisements presented to you on our site. If you supply us with your e–mail address, we may let you know by e–mail about other products and services that may be of interest to you.
-
-Also, if you choose to share any personal information with us, we may store it and use it for marketing research and other marketing purposes.
-
-How Is My Personal Information Collected on gmacbank.com?
-
-Cookies:  GMAC Bank may use "cookies" to help us recognize you and better serve you when you visit our site. We may use them for marketing – to allow us to present products and services that may be of interest to you, site personalization, web tracking and online ordering. We do not use cookies to obtain data from your computer or to obtain your e–mail address or personal identifying information. Most browser software can be configured to inform you when cookies are set or to prevent cookies from being set. Please note, however, that by not accepting cookies you may limit the functionality we can provide when you visit gmacbank.com.
-
-E–mail:  When you send us an e–mail to comment on something or to ask a question, we will use your e–mail address to reply to you and for a limited time we will store your e–mail address, your message and our response for quality assurance purposes. We may also do this to meet legal and regulatory requirements. If we collect your e–mail address in this manner, we won't use it to let you know about GMAC Bank products and services unless you have given us permission.
-
-Are Cookies or Other Online Technologies Used To Collect Personal Information From Me on gmacbank.com?
-
-When you visit gmacbank.com, we may collect and store information about your visit on an anonymous, aggregate basis. We use this information only to measure site activity and to develop ideas for improving our sites. This information may include:
-
-  * time and length of your visit,
-  * web pages you look at on our sites,
-  * web site you visited just before coming to ours, and
-  * name of your Internet service provider.
+  * [Learn about GMAC Bank](https://web.archive.org/web/20081217055945id_/http%3A//www.gmacbank.com/about-us.html)
+  * [Learn about site security](https://web.archive.org/web/20081217055945id_/http%3A//www.gmacbank.com/banking-online/site-security.html)
 
 
 
-Do You Share My Personal Information?
+### Overview
 
-GMAC Bank contracts with third party service providers who specialize in data processing services to help us serve you better. These companies only have access to the information we obtain from you if it is necessary to provide the services we've contracted with them to provide. For example, we use third party service providers to maintain customer account records, process transactions on your account, and produce account statements. GMAC Bank subjects these third party service providers to a thorough selection process, and they are contractually required to comply with strict standards of confidentiality.
+You take your privacy seriously and so does GMAC Bank. We are a company committed to protecting the personal information and privacy of our customers. This statement is one way of sustaining your trust in our company, our products and our services.
 
-GMAC Bank has established relationships with other parties on the Internet to offer you the benefit of products and services we may not offer directly. These services are optional and not required by us. GMAC Bank offers you access to these other companies either through the use of hyperlinks to their sites from our site, or through offering "co–branded" sites in which both GMAC Bank and the other company share the same URL, domain name or pages within a domain name on the Internet. Generally, we do not own the company we form co–branded relationships with and we do not control how those companies use any information you supply them. Therefore, it's important that you understand their privacy policy if you visit their sites. However, if you are providing information to GMAC Bank, we will always adhere to GMAC Bank's Privacy practices.
+### 
 
-Can I Access My Personal Information To Make Changes?
+Privacy (Website Visitors)
 
-There are also several opportunities on our web site for you to provide us with information about you, such as your name, mailing address and e-mail address. If you choose to share any personal information with us, we may store it and use it for marketing research and other marketing purposes. If you are a current GMAC Bank customer, and you do not wish to receive emails regarding discounts and special offers from us, please call us at 1-866-2GMBANK (1-866-246-2265).
+Our Online Privacy Statement describes how we collect, protect and use information about you either during your visit to our web site or when you are a GMAC Bank customer.
 
-Is My Personal Information Secure?
 
-You can rest assured that GMAC Bank is serious about security. We continually improve our security standards and procedures to help protect against anyone gaining unauthorized access to your personally identifiable information – including your Online Banking transactions. Information that is collected for processing or to keep as a GMAC Bank account record is transmitted directly to secure database servers, and information stored there is not accessible to parties outside of GMAC Bank via the Internet. Only authorized internal personnel whose job responsibilities require it are provided access to personally identifiable information. GMAC Bank employees and contract vendors are required to comply with our security, privacy and confidentiality standards and practices. Please take a moment to review our [Security Statement](https://web.archive.org/gmac/security.htm), which outlines the steps we take to protect your information and provide you with a secure Online Banking experience.
 
-E–mail sent to us via the Message Center displayed on your personal My GMAC Bank page is encrypted for your security. However, other e–mail you send us is not secure. Therefore, we ask that you not send us confidential information such as social security numbers or account numbers via unsecured e–mail.
 
-What About Children's Information?
+### Information We Collect About You During Your Online Visit
 
-We comply with the practices established under the Children's Online Privacy Protection Act. We do not knowingly collect or retain any information from consumers under the age of eighteen.
+**_Website Visitors / Registered Users  
+_**  
+When you browse our site as a visitor or are a registered user of this website, we may collect and store information about your online visit ([see cookies](https://web.archive.org/web/20081217055945id_/http%3A//www.gmacbank.com/legal-information/privacy-promise.html#Cookies)). This information may include the time and length of your visit, the pages you view on our site, the last site you visited before coming to ours, and the name of your internet service provider. 
 
-How Do I Contact GMAC Bank if I Have a Concern About My Personal Information?
+We use this data on an aggregate basis to measure site activity, and on an individual basis to make the site more useful and provide information that may be of interest to you. 
 
-| U.S. Mail:| GMAC Bank|    
----|---|---  
-| P.O. Box 1620|    
-| Morgantown, WV 26507-1620|    
- |  |    
-Email:| [customercare@gmacbank.com](mailto:customercare@gmacbank.com)| \- to maintain the security of your  
-account information when contacting us by e-mail, please be sure to include only  
-your name and address - not your account number, social security number or  
-any other personal data regarding your account.  
- |  |    
-Telephone:| 1-866-2GMBANK (1-866-246-2265)| \- Customer Care Representatives  
-are available to assist you from 8:00 a.m. to 10:00 p.m.,  
-Monday through Saturday.  
+ ** _Registered Users Only  
+_**  
+Information collected about registered users is used and shared in accordance with our customer privacy notice and practices. If you are an existing customer, please see the Information Collection and Sharing Practices for [Existing Customer](https://web.archive.org/web/20081217055945id_/http%3A//www.gmacbank.com/legal-information/privacy-promise.html#Existing%20Customer) section for more information. 
+
+As a registered user, you may use the website to: 
+
+  * provide information to us about you when you complete an online application or other form;
+  * provide information to us about you during web page registration; 
+  * provide information to us about you during personal profile updates.
+
+
+
+### 
+
+Security Statement
+
+****About our Website(s)**  ** 
+
+**_Cookies  
+_**  
+We may use Web cookies for security purposes to recognize your computer when you log into your account. We may also make use of Web cookies or similar data on certain parts of our Web site for fraud prevention and other purposes. If you disable your Web browser's ability to accept our Web cookies, it may not be possible for you to access your online account. 
+
+ ** _Passwords  
+_**  
+Your access to certain portions of our Web site may be protected with an individualized username and password. Your username and password are confidential and personal to you, and should never be disclosed or shared with anyone else.
+
+ ** _Timed logout_  
+**  
+Certain portions of our Web site may be protected with a timed-logout feature. This can help protect your account from being viewed or used by others if your computer becomes unattended.  
+ **  
+ _Encryption  
+_**  
+We may use encryption to protect your information as it travels across the Internet. This can help prevent others from eavesdropping on your browser sessions with our Web servers.   
+ **  
+ _Firewalls_  
+**  
+Our Web site may be protected with firewall technology, which can help prevent your account information and our Web site from being improperly accessed.  
+ **  
+ _Surveillance_  
+**  
+Certain portions of our Web site are monitored by advanced surveillance and logging technologies. These technologies can help to ensure that both your information and our Web servers are protected from compromise.
+
+### 
+
+Information Collection and Sharing Practices for Existing Customers
+
+**Existing Customer/Registered Users  
+**  
+If you are a GMAC Bank customer details about the information we collect and how it may be disclosed is contained in our Privacy Notice, which includes additional information regarding your privacy choices. Briefly, we collect information about you for example, when you: 
+
+• apply for a loan;   
+• make your monthly payment. 
+
+We also collect personal information from you or others, such as credit bureaus, affiliates, employers, or others.   
+ **  
+Information We Share About Our Existing Customers  
+**  
+The information contained in this section applies to GMAC Bank customers. 
+
+We may collect and subsequently share personal information about you to: 
+
+• run our everyday business;   
+• respond quickly to customer needs;   
+• help us communicate with you;   
+• evaluate eligibility for additional products and services that may be of interest to you. 
+
+ ** _What We Share  
+_**  
+We may share personal information that includes, but is not limited to your: 
+
+• name, address, and other account application information;   
+• account balances, transactions, and payment history;   
+• creditworthiness including credit history and credit score.   
+ **  
+ _With Whom We Share_  
+**  
+We disclose some of the information we collect about you to third parties such as credit reporting agencies, regulators and loan investors. These types of third parties are called **non-affiliated third parties**. 
+
+We may also share some of this information with companies performing services on our behalf such as the vendor who prepares and mails our monthly statements. These types of vendors are called **service providers**. 
+
+We may share information we collect about you with companies with whom we have formal agreements to offer you financial products and services. These types of relationships are called **joint marketing** partnerships. 
+
+Finally, we may share information we collect about you with companies related by common control (i.e. GMAC Financial Services, GMAC Insurances, Ditech, etc.) to offer you products and services that may be of interest to you. These types of companies are called **affiliates**.   
   
-Will GMAC Bank Make Changes To This Privacy Statement?
+ ** _Benefits of Sharing_  
+**  
+We need to collect and share information about our customers to help us communicate with you. 
 
-GMAC Bank reserves the right to alter its privacy principles as business needs require. Any alterations to these principles will be posted on our web sites in a timely manner.
+We also may share customer and former customer information within our GMAC family and with **valued partners** (our employees) to evaluate eligibility, offer and recommend valuable products and services that may be right for you.   
+ **  
+Customer Information Sharing Choices/Opt Out  
+** **  
+ _Federal Law_**
+
+Federal law requires us to tell you how we collect, share, and protect personal information about our customers. While Federal law allows us to share information about you to run our business, to perform services and offer our products, Federal law also gives you the right to limit some, but not all, sharing of your personal information. 
+
+Specifically, Federal law allows you to opt out/restrict us from sharing information as follows:   
+• About your credit worthiness with our affiliates; and   
+• To non-affiliates to offer you their products and services   
+ **  
+ _State Laws_  
+**  
+State laws may give you additional rights regarding our information sharing limitations. 
+
+We share personal information about you as permitted by the law of the state in which you reside and in accordance with federal law. As a customer of GMAC Bank you received our Privacy Notice when you became our customer and you will receive our updated annual Privacy Notice each year you continue to be our customer. 
+
+You can limit us from sharing your information as permitted by law and as described in our Privacy Policy at any time by advising us of your Opt Out choices and how you do not want your information shared by calling **1-877-450-4622**. You may notify us of your choices at any time. 
+
+If your past choices have not changed, you only need to tell us one time, as long as you have your account with us.   
+ **  
+ _Customer Data Protection_  
+**  
+We are a company committed to securing personal information and protecting the privacy of our customers. We use security measures that comply with federal law including assessing risk and using reasonable controls to protect customer information. 
+
+Our company culture is to treat customer information the way we would want our own information treated. We train employees on handling and securing customer data to maintain a culture of protection and security. It is the responsibility of every associate, affiliate, and nonaffiliate to care for personal information about our customers.   
+ **  
+ _Correcting Information_  
+**  
+We are committed to maintaining accurate and up-to-date information on all of our customers. We may provide customers with access to account information in different ways, for example, over the telephone, online or on paper. 
+
+If you are a registered user of this website, you may be able to update some information online. You will need to log-into your account in order to utilize this feature. 
+
+How to contact us regarding your account: 
+
+U.S. Mail:   
+GMAC Bank   
+ATTN: Customer Care Department   
+P.O. Box 951   
+Horsham, PA 19044 
+
+Phone: 1.866.246.BANK 
+
+Email: 
+
+_[customercare@gmacbank.com](mailto:customercare@gmacbank.com?subject=Question%20about%20my%20account&body=Please%20note%20this%20is%20not%20a%20secure%20e-mail%20so%20please%20do%20not%20ask%20account%20specific%20questions.)_
+
+Questions about this Online Privacy Statement may be sent via email to: 
+
+_[PrivacyOffice@gmacm.com](mailto:PrivacyOffice@gmacm.com?subject=Question%20about%20this%20Online%20Privacy%20Statement)_  
+
+ **  
+ _Policy Effective Date  
+_**  
+This Online Privacy Statement is effective February 25th, 2008 and remains in effect until amended. GMAC Bank reserves the right to amend this Privacy Statement or alter its privacy principles at its sole discretion without notice to you. We will post any alterations to this Privacy Statement on our web site in a timely manner so please check periodically.  
+
+
+### 
+
+Identity Theft / Fraudulent Activities
+
+**Theft/Fraud  
+**  
+Identity Theft occurs when someone uses sensitive information, called Personally Identifiable Information (or PII) of another person without their permission to commit fraud or other crimes, such as Account Takeover or Application Fraud. [ _Account Takeover has occurred when an individual acquires another person’s existing credit account information and purchases products and services at the victim’s expense. Application Fraud has occurred when an individual uses another’s Social Security Number or other Personally Identifiable Information to open new credit accounts in the victim’s name._ ] 
+
+If you believe you are a victim of Identity Theft, contact the three major credit bureaus to place a fraud alert message on your credit file. When you place a fraud alert on your file, the credit reporting agencies will send you a copy of your credit report at no charge. 
+
+• Experian (1-888-397-3742)   
+• Equifax (1-800-525-6285)   
+• TransUnion (1-800-680-7289) 
+
+Carefully review your credit reports for: accounts you did not open, inquiries from creditors you did not initiate, and for personal information (such as home address and social security number) that is not accurate. If you see anything you do not understand or any accounts you did not open, call the credit reporting agency at the telephone number on the report. 
+
+If you decide not to place a fraud alert on your credit file, you can still obtain free copies of your credit report by going to the following Annual Credit Report website (
+
+ _[www.annualcreditreport.com](https://web.archive.org/web/20081217055945id_/http%3A//www.gmacbank.com/exit/exit-annualcreditreport.html)_
+
+) or by calling them toll-free at 1-877-322-8228. (Hearing impaired consumers can access their TDD service at 1-877-730-4204. 
+
+To learn more about identity theft, visit the Federal Trade Commission’s web site to receive further information and insights about how to protect your identity from identity thieves. 
+
+Identity Theft Hotline: 877-438-4338   
+Web: [www.consumer.gov/idtheft](https://web.archive.org/web/20081217055945id_/http%3A//www.gmacbank.com/website.html)
+
+ _  
+_
+
+Mail: Identity Theft Clearinghouse,   
+Federal Trade Commission   
+600 Pennsylvania Ave., N.W., Washington, DC 20580   
+
