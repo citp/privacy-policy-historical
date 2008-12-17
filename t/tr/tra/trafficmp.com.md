@@ -1,60 +1,87 @@
-> *The following text is extracted and transformed from the trafficmp.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516162849id_/http%3A//www.trafficmp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficmp.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045612id_/http%3A//www.trafficmarketplace.com/privacy) for the most accurate reproduction.*
 
 # Traffic Marketplace : Privacy Policy
 
-###### Effective June 2007
+###### Effective August 12, 2008
 
-This page sets forth the privacy policies and practices of the Traffic Marketplace ("Traffic Marketplace") corporate site [www.trafficmarketplace.com](http://www.trafficmarketplace.com/) ("Traffic Marketplace Site").
+Your privacy is important to **Traffic Marketplace, Inc., a Connexus company** , so we have created the following Privacy Policy to let you know what information we collect when you visit our websites and websites in our advertising network when we serve advertisements on our network of websites (collectively, the "Traffic Marketplace Network"), why we collect it and how it is used. Traffic Marketplace is a member of the [Network Advertising Initiative](http://networkadvertising.org/).
 
-Please read this privacy policy carefully since by visiting this site and sharing information with Traffic Marketplace you agree to be bound by the terms and conditions of this Privacy Policy unless you offer different terms which are accepted by Traffic Marketplace in writing. To the extent there is a conflict between the terms of this Privacy Policy and a written agreement to which Traffic Marketplace is party, the terms of such agreement shall prevail with respect to the parties to that agreement.  
+The terms "you," "your," and "yours" refer to the web surfer and/or consumer utilizing our Network. The terms "Traffic Marketplace," "we," "us," and "our" refer to Traffic Marketplace, Inc. and its partners.
+
+Please read this privacy policy carefully. Use of the Traffic Marketplace Network and your sharing of information with the Traffic Marketplace Network is subject to the terms and conditions of this Privacy Policy and the website's Terms and Conditions.
+
 For more information about Traffic Marketplace and other Connexus companies please visit [www.connexuscorp.com](http://www.connexuscorp.com/).
-
-###### STATEMENT OF RESPONSIBLE ONLINE MARKETING
-
-The Traffic Marketplace information usage practices are based on two beliefs: first, that protecting user privacy is essential to the growth and prosperity of the Internet; second, that a personalized web experience can provide significant benefits to Internet end users if done properly. In accordance with these beliefs, Traffic Marketplace creates results for advertisers and publishers in revolutionary ways without compromising individual privacy.
 
 ###### I. INFORMATION WE COLLECT
 
-Traffic Marketplace is the corporate entity that manages the Traffic Marketplace marketing, technology and e-commerce companies and divisions. The Traffic Marketplace Site is not directed towards individual Internet consumers nor does it seek any personally identifiable information ("PII") from such consumers. PII may be collected should a consumer contact Traffic Marketplace on his/her own accord and volunteer PII. The information collection practices of the various Traffic Marketplace companies and divisions are detailed on their individual sites.
+The Traffic Marketplace Network contains more than 1,000 websites to which we deliver advertisements and which you, the web surfer, may occasionally visit. During your visit to the Traffic Marketplace Network, Traffic Marketplace and/or our third party vendors may collect certain information, as follows.
 
-Like most standard website servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. 
+**Personally Identifiable Information**
 
-###### II. INFORMATION MANAGEMENT
+"Personally Identifiable Information" or "PII" means any information that may be used to identify an individual, including first and last name, physical address, email address, or telephone number.
 
-Traffic Marketplace may share information with its affiliated entities for or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, reorganization or liquidation of any of the Connexus companies. Traffic Marketplace also may release information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our agreements; or protect the rights, property, or safety of Traffic Marketplace or others. This includes exchanging information with other companies and organizations for fraud protection.
+To access certain websites operated by Traffic Marketplace in the Traffic Marketplace Network, we may ask you to register and provide certain PII. Traffic Marketplace is committed to making sure that you have clear notice and choice before sharing any PII. Web surfers who have provided PII may elect to have their data deleted from our files, or kept from being used for purposes other than for the requested service, by following the procedures set forth below in the "Access" section below.
 
-###### III. CONSUMER CHOICE AND ACCESS
+**Non-Personally Identifiable Information**
 
-Because the Traffic Marketplace Site is not directed towards individual Internet users and does not use cookies, we do not maintain a process for an individual consumer to review and/or request changes to any PII collected.
+Traffic Marketplace also automatically receives and records anonymous information that your browser sends whenever you visit a website which is part of the Traffic Marketplace Network. We use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, one or more cookies that may uniquely identify your browser, and responses by a web surfer to an advertisement delivered by us. This information may be stored on our systems for about one year.
+
+Traffic Marketplace uses technology, including technology from its third party advertising vendors, which includes cookies, "web beacons" and/or "action tags." A "cookie" is a small text file stored by your browser on your computer when you visit our Network. A "web beacon" or "action tag" is a small image (usually 1x1 pixel) embedded in a web page or email. We use cookies, web beacons and action tags to collect non-personally identifiable data to provide better and more relevant services and messages to that user. Cookies, web beacons and action tags permit us to recognize users and avoid repetitive requests for the same information.
+
+As a rule, non-personally identifiable information is anonymous and is not used to identify a specific person by Traffic Marketplace.
+
+Web surfers may elect not to provide non-personally identifiable information by following the cookie opt-out procedures set forth below.
+
+###### II. HOW IS SUCH INFORMATION USED?
+
+**Personally identifiable information**
+
+We collect PII from customers who are individuals or companies that wish to enter into business relationships with Traffic Marketplace, including websites and marketers. This customer information is used only for purposes of administering these relationships, including maintaining account information and managing payments. In addition, our lead generation business may gather personally identifiable information.
+
+Traffic Marketplace will not disclose personal information unless required to do so by law or in the good faith belief that such action is necessary to: (1) comply with the law or legal process served on Traffic Marketplace; (2) protect and defend the rights or property of Traffic Marketplace; or (3) act in urgent circumstances to protect the personal safety of users of Traffic Marketplace, its websites or the public. If Traffic Marketplace should ever file for bankruptcy or merge with another company, we may sell the information you provide to us to a third party or share the information with any company with whom we merge or that acquires all or substantially all of our stock or assets. 
+
+**Non-personally identifiable information**
+
+Traffic Marketplace will use your non-personal information in order to better target advertisements across the Traffic Marketplace Network, to provide aggregate reporting to advertisers and clients, and to improve our advertising systems and products. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. We may also share non-personally identifiable information with our subsidiaries and third party partners for similar use.
+
+###### III. ACCESS TO PII
+
+Traffic Marketplace allows visitors to the Traffic Marketplace Network who have provided PII to access, correct, amend or delete any PII they have provided by sending us a letter at the contact listed below.
 
 ###### IV. SECURITY
 
-Traffic Marketplace employs industry standard security measures to ensure the security of all data. Any data that is stored on Traffic Marketplace servers is treated as proprietary and confidential and is not available to the public. Traffic Marketplace has an internal security policy with respect to the confidentiality of customer and other data, allowing access only to those employees or third parties who have a need to know such information for the purpose of effectively delivering Traffic Marketplace products and services by means of user login and password requirements. Traffic Marketplace routinely evaluates its data security practices to identify security threats or opportunities for improvement.
+Traffic Marketplace employs commercially reasonable security measures to ensure the security of all data. In addition, we comply with all applicable data security laws. Although no system is full proof, in the event of a breach we will comply with all applicable notification requirements required under the law.
 
-No transmission of data over the Internet, however, is guaranteed to be completely secure. It may be possible for third parties not under the control of Traffic Marketplace to intercept or access transmissions or private communications unlawfully. While we strive to protect your information, Traffic Marketplace cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with us.
+###### V. CHOICE AND OPT-OUT
 
-###### V. CONSENT AND CHANGES
+**Non-personally identifiable information**
 
-Traffic Marketplace may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by Traffic Marketplace prior to the effective date of the policy change unless we provide you direct notice and the opportunity to opt-out.
+Traffic Marketplace is a member of the [Network Advertising Initiative](http://networkadvertising.org/) and works with industry leading companies to address important privacy and consumer protection issues in online advertising. Traffic Marketplace's information usage practices are based on two beliefs: first, that protecting user privacy is essential to the growth and prosperity of the Internet; second, that a personalized web experience can provide significant benefits to Internet end users if done properly. In accordance with these beliefs, Traffic Marketplace creates value for consumers, advertisers and publishers in revolutionary ways without compromising individual privacy.
+
+If you prefer not to receive targeted advertisements delivered by Traffic Marketplace you can opt-out of [our program](https://web.archive.org/optout/), or opt-out from all anonymous ad targeting by clicking [here](http://networkadvertising.org/managing/opt_out.asp). Please note that if you opt-out, Traffic Marketplace will continue to collect non-personal information in connection with ad serving for limited reporting and auditing purposes. Examples of these include but are not limited to reporting overall advertising performance, geographic activity, and other similar analyses. Most browsers will accept cookies unless you change your browser settings to refuse them and opt-out of the use of Traffic Marketplace cookies and those of our third party advertising technology vendors. For more information on cookies and how to manage and delete them, please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
 
 ###### VI. CHILDREN'S PRIVACY AND SPAM
 
-Traffic Marketplace is very sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. Traffic Marketplace web site, products, and services are not developed for or directed at children. Children (persons under the age of 18) are not eligible to do business with us and we do not collect personal information from any person we actually know is under the age of 13. Traffic Marketplace is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701). It is our policy to prohibit the sending of unsolicited or "Spam" e-mail by Traffic Marketplace or any of its marketing partners.
+Traffic Marketplace is very sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. Traffic Marketplace's web site, products, and services are not developed for or directed at children under 13. For that reason, Traffic Marketplace does not knowingly collect or maintain PII or non-personally identifiable information on the Traffic Marketplace websites from persons under 13 years of age. Any person who provides their information to Traffic Marketplace through the login page for new customers or website users or any other part of the Traffic Marketplace Network represents to Traffic Marketplace that they are 13 years of age or older. If Traffic Marketplace learns that PII of persons under 13 years of age has been collected on the Traffic Marketplace websites we will take appropriate steps to delete this information. 
 
-###### VII. DATA PROCESSING/SAFE HARBOR
+Traffic Marketplace is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701). 
 
-The European Union ("EU") maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations.
+###### VII. INTERNATIONAL TRANSFERS AND SAFE HARBOR
 
-Traffic Marketplace adheres to the Safe Harbor principals. For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+Personal information collected on the Traffic Marketplace Network and websites may be stored and processed in the United States or any other country in which Traffic Marketplace or its affiliates, subsidiaries or agents maintain facilities, and by using this website you acknowledge and agree that we may transfer your personal information outside of the country in which you live and that you consent to any such transfer of information outside of your country. Traffic Marketplace adheres to the Safe Harbor Agreement concerning the transfer of personal data from the EU to the United States. In order to comply with the European Union's Safe Harbor principles, we commit to resolve any complaints by European Union citizens relating to this policy, which cannot be resolved directly with our company, through the Council of Better Business Bureaus, Inc.'s Safe Harbor Privacy Dispute Resolution Procedure. 
 
-By providing information to Traffic Marketplace, you acknowledge that they operate in the United States and agree to (i) permit Traffic Marketplace to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by Traffic Marketplace shall be subject to the terms and conditions stated in this Privacy Statement and applicable Terms and Conditions and Policies.
+If we are unable to satisfactorily resolve your concerns please contact the BBB:  
+Council of Better Business Bureaus, Inc.  
+4200 Wilson Boulevard, Suite 800  
+Arlington, VA 22203  
+Phone: 703-276-0100  
+Web: bbb.org  
+Email: eusafeharbor@council.bbb.org
 
-###### VIII. LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE
+###### VII. CHANGES TO THIS PRIVACY POLICY
 
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER THE PRIVACY OF TRAFFIC MARKETPLACE DATA OR TRAFFIC MARKETPLACE PRACTICES IS SUBJECT TO THE PROVISIONS OF THIS PRIVACY POLICY AND ANY APPLICABLE TERMS AND CONDITIONS (WHICH MAY INCLUDE LIMITATIONS ON DAMAGES AND/OR ARBITRATION OF DISPUTES). YOU AGREE THAT TRAFFIC MARKETPLACE LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE GREATER OF THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY TRAFFIC MARKETPLACE OR $100 TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS. YOU FURTHER AGREE THAT THIS AGREEMENT IS GOVERNED BY CALIFORNIA LAW WITHOUT REGARD TO CHOICE OF LAW PRINCIPLES AND THAT ANY ACTION ARISING FROM OR RELATED TO THIS POLICY WILL BE EXCLUSIVELY VENUED IN A STATE OR FEDERAL COURT SITUATED IN LOS ANGELES COUNTY, CALIFORNIA.
+Traffic Marketplace may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information, or notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. For all other changes, it is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of the Traffic Marketplace Network constitutes your agreement to this Privacy Policy and any updates.
 
-You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to Traffic Marketplace with regard to: (a) the purposes for which such third party's personal data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. 
+###### VIII. CONTACT US
 
-###### CONTACT US
-
-For more information or if you have questions or concerns regarding this Privacy Policy, please send correspondence to the following address: Traffic Marketplace, Privacy Officer, 2101 Rosecrans Ave., Suite 2000, El Segundo, CA 90245.
+For more information or if you have questions or concerns regarding this Privacy Policy, please send correspondence to the following address: Traffic Marketplace, Privacy Officer, 2141 Rosecrans Ave., Suite 2020, El Segundo, CA 90245.
