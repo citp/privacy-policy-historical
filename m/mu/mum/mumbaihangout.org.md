@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumbaihangout.org privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505053950id_/http%3A//www.mumbaihangout.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D547%26Itemid%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumbaihangout.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110850id_/http%3A//www.mumbaihangout.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D547%26Itemid%3D54) for the most accurate reproduction.*
 
 # MumbaiHangOut
 
