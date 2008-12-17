@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630023115id_/http%3A//www.boo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217180724id_/http%3A//www.boo.com/privacy) for the most accurate reproduction.*
 
 # boo.com Privacy Policy
 
@@ -48,10 +48,6 @@ Except when inviting or adding "buddies", your email address will never be share
 
 You can review and revise your personal profile, and who will be given access to your personal profile, at any time.
 
-**BOOKING WITH BOO AND YOUR PRIVACY**
-
-For us to process a booking for you, we require some information from you. This includes your name, nationality, your gender (or the gender of the group you are in), your phone number and email address. Also, since we confirm your booking while you are on the site, we require your credit or debit card details so we can guarantee your beds when you pay your deposit.
-
 **WHO SEES YOUR INFORMATION**
 
 boo is required to send your information to the travel services provider with which you booked travel services so that the travel service provider knows who you are and when you will use its travel services. boo gives your name, your nationality, your gender (or the gender of the group you are in), your phone number, your email address, your credit card details and of course, the details of your booking.
@@ -60,7 +56,7 @@ The travel service provider requires this information to accept a confirmed book
 
 **HOW WE USE YOUR INFORMATION**
 
-Your email address will only be used to send you a confirmation of your bookings or to contact you for any reason directly linked to your booking, or occasionally to inform you of new features on boo.com. We only use your phone number to contact you urgently if there is a problem with your booking.
+Your email address will only be used occasionally to inform you of new features on boo.com or to send you the monthly boo ezine.
 
 boo.com may acquire personal data and information about you which you have registered with the site. In this regard, boo promises to only use your data in complete accordance with the following conditions: 
 
