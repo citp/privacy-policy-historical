@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puremobile.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608124057id_/http%3A//www.puremobile.com/help.asp%3Fsection%3Dterms%26question%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puremobile.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217132406id_/http%3A//www.puremobile.com/help.asp%3Fsection%3Dterms%26question%3D3) for the most accurate reproduction.*
 
 # Help Center for Frequently Asked Questions - PureMobile
 
