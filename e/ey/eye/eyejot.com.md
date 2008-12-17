@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyejot.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403201706id_/http%3A//www.eyejot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyejot.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217103056id_/http%3A//www.eyejot.com/privacy.html) for the most accurate reproduction.*
 
 # Eyejot :: Privacy Policy
 
@@ -48,6 +48,10 @@ The Eyejot Sites, Products and Services use their own cookies for a number of pu
 
 In the event that Eyejot lets other entities show advertisements on some of our web pages, these other entities do not have access to Eyejot's cookies. 
 
+### Web Beacons
+
+This site uses [web beacons](http://en.wikipedia.org/wiki/Web_bug) and other, related, tracking mechanisms to aid us in analyzing traffic to our site. We primarily utilize analytic tools provided to us by Google but may also enlist resources from other vendors. These tools give us a high-level overview of traffic patterns but do not reveal to us user-identifiable information. Additionally, this site may deliver ads that are managed and presented through third-party advertising distribution companies. These companies may also utilize web beacons and cookies to deliver semi-targeted messaging but are unable to collect existing account or other user identifiable information. 
+
 ### Information Use, Sharing and Disclosure
 
 The Eyejot Sites, Products and Services do not share personal information we learn about you from your use of the web sites, products and services with others except as described in this policy. We do not share your information with unrelated third parties for their direct marketing purposes. However, the Eyejot Sites, Products and Services may display targeted advertisements based on personal information. 
@@ -93,10 +97,10 @@ You can delete your applicable account by contact Eyejot's support team through 
 If you have a privacy concern regarding any Eyejot Site, Product or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at [privacy@eyejot.com](mailto:privacy@eyejot.com). Alternatively, we can be reached at our postal mail address: 
 
 > Eyejot, Inc.  
->  307 3rd Avenue South, Suite 520  
+>  315 5th Avenue South, Suite 800  
 >  Seattle, WA 98104  
 >  Attention: Privacy Officer 
 
 If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our business practices. In some instances, honoring your requests may interfere with or preclude your ability to use the Eyejot Sites, Products and Services or may require us to terminate our relationship with you. 
 
-Effective Date: December 20, 2007 
+Effective Date: December 20, 2007. Updated October 10, 2008. 
