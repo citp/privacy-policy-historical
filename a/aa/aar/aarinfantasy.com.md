@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the aarinfantasy.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223124416id_/http%3A//www.aarinfantasy.com/content/view/632/39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarinfantasy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044756id_/http%3A//www.aarinfantasy.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D632%26Itemid%3D39) for the most accurate reproduction.*
 
-# Aarinfantasy -=The Yaoi Collection=- - Privacy Policy
+# Privacy Policy
 
-Written by Dai-kun      
-Thursday, 31 May 2007   
+Thursday, 31 May 2007 09:59   
   
 **Introduction.**  
-We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our staff, agents or within our control. Please take time to read our [Terms of Use](http://www.aarinfantasy.com/content/view/631/38/).
+We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our staff, agents or within our control. Please take time to read our [Terms of Use](https://web.archive.org/content/view/631/38/).
 
 **1\. Collection of Data.**  
 Our site registration process requires only a valid e-mail address and a unique user ID and password. Providing us with other information is at your option. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. Like many web sites, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site (if at all) is set forth below.
@@ -21,7 +20,7 @@ Like many web sites, we set and use cookies to enhance your user experience, suc
 We do not allow persons who are ages fifteen or younger to become members of this site, however, there are parts of the site that is only designated for persons eighteen and over. For more information, please contact staff [at] aarinfantasy.com.
 
 **5\. Editing or Deleting Your Account Information.**  
-We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](http://aarinfantasy.com/forum/usercp.php). You may request deletion of your user account by contacting [our webmaster](http://www.aarinfantasy.com/component/option,com_contact/task,view/contact_id,2/Itemid,3/). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](http://www.aarinfantasy.com/content/view/631/38/) for more information.
+We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](http://aarinfantasy.com/forum/usercp.php). You may request deletion of your user account by contacting [our webmaster](https://web.archive.org/component/option,com_contact/task,view/contact_id,2/Itemid,3/). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](https://web.archive.org/content/view/631/38/) for more information.
 
 **6\. Changes to this Privacy Policy.**  
 We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.
@@ -32,4 +31,4 @@ While this Privacy Policy states our standards for maintenance of Data and we wi
 **8\. Contact Information.**  
 If you have any questions about this Policy or our web site, please feel free to contact staff [at] aarinfantasy.com  
   
-Last Updated ( Thursday, 05 July 2007 ) 
+Last Updated ( Thursday, 05 July 2007 11:36 ) 
