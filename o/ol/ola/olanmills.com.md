@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the olanmills.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612083439id_/http%3A//www.olanmills.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olanmills.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050352id_/http%3A//www.olanmills.com/privacy.asp) for the most accurate reproduction.*
 
-# Olan Mills Portrait Studios - Capturing the Heart of America
+# Olan Mills Portrait Studios - High-Quality Studio Portraits
 
 This is the web site of **Olan Mills, Inc.**
 
