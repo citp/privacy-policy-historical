@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kinowear.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610212629id_/http%3A//www.kinowear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinowear.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062122id_/http%3A//www.kinowear.com/privacy.html) for the most accurate reproduction.*
 
-# Kinowear.com: Pick Up Artist Fashion, Style, Peacocking - Privacy Policy
+# Kinowear.com: Men's Fashion, Style, Peacocking, Consultant, Grooming, Image Advice - Privacy Policy
 
 ## Privacy Policy
 
