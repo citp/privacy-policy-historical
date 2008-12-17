@@ -1,27 +1,8 @@
-> *The following text is extracted and transformed from the vehix.com privacy policy that was archived on 2007-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070921043306id_/http%3A//www.vehix.com/corporate/aboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vehix.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070242id_/http%3A//www.vehix.com/corporate/aboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Vehix.com - Privacy Policy
+# Privacy Policy
 
-  
-
-[home](https://web.archive.org/\(X\(1\)A\(vhXNV5oyyAEkAAAAMzlkNGY2ZTMtOGUzOS00OTAwLWE4YTQtOTFmNTE2YjcyNzFh0\)\)/Default.aspx?radius=75&year=)  :  [about us](https://web.archive.org/\(X\(1\)A\(vhXNV5oyyAEkAAAAMzlkNGY2ZTMtOGUzOS00OTAwLWE4YTQtOTFmNTE2YjcyNzFh0\)\)/corporate/aboutUs/Default.aspx?radius=75&year=)  :  privacy policy
-
-* * *
-
-Interested in partnering with Vehix.com?  
-Contact our business development department at **[busdev@vehix.com](mailto:busdev@vehix.com)**. 
-
-Corporate Headquarters  
-Vehix.com  
-1165 East Wilmington Ave.  
-Suite 200  
-Salt Lake City, Utah 84106
-
-1.866.MY.VEHIX  
-1.866.698.3449  
-1.801.401.6060   Local 
-
-  
+Privacy Policy  
 This privacy Notice explains Vehix's privacy policies and practices, and lists the types of information we collect, with whom we share the information, and how you can direct us not to share certain information with certain third parties. The practices described in this policy are applicable to current and former customers and to consumers who do business with us. The policy also explains how we protect the confidentiality and security of our customer information. 
 
 In connection with your transaction, Vehix may obtain information about you as described in this notice:
