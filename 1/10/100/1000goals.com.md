@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502133332id_/http%3A//www.1000goals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217172553id_/http%3A//www.1000goals.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 1000 Football (soccer) goals, videos, wallpapers and animations
+# Privacy Policy | 1000 Goals - football blog
 
-## Privacy Policy
+  
+
 
 Third Party Advertising:  
 We use Google AdSense, to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
@@ -15,3 +16,6 @@ This Web site does allow user to enter their email address at their own will for
 
 External Links  
 This site contains links to other sites. 1000goals.com is not responsible for the privacy practices or the content of such Web sites.
+
+  
+
