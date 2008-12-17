@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the expressindia.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509093845id_/http%3A//www.expressindia.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the expressindia.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217052236id_/http%3A//expressindia.com/policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -32,7 +32,25 @@ function readCookie(name) {
 	}
 		document.getElementById("login").innerHTML = "<a href='/login.php'>Login</a> ";	
 	return null;
-}		
+}
+function submt()
+	{
+			document.frmCity.action = 'http://www.expressindia.com/search.php';
+			document.frmCity.submit();
+			document.frmCity.method='POST';
+	}
+function show(val)
+	{
+		if (val == 1)
+		{
+			document.getElementById('subcontent').style.display="block";
+		}
+		if (val == 2)
+		{
+			document.getElementById('subcontent').style.display="none";
+			//return false;
+		}
+	}
 </script>
 	
 <script>
@@ -43,23 +61,87 @@ function readCookie(name) {
 	var dataStr;
 dataStr = Days[thisdate.getDay()]+', '+thisdate.getDate()+' '+Mons[(thisdate.getMonth())]+' '+thisdate.getFullYear();
 </script>
+<!--<script type="text/javascript" src="js/dropdowncontent.js"></script>-->
+<link href="http://static.expressindia.com/expressindia/css/city_changes1.css" rel="stylesheet" type="text/css">
+<div id="subcontent" class="city" style="display:none">
 
-<div class="top_div">
+<table width="334" border="0" cellspacing="0" cellpadding="0">
+<form name="frm" method="post" action="search.php"></form>
+  <tbody><tr>
+    <td width="7" align="right" valign="bottom"><img src="http://static.expressindia.com/expressindia/images/left-top-bg.gif" width="7" height="7"></td>
+    <td class="city_top_bg"><img src="http://static.expressindia.com/expressindia/images/top-bg.gif" width="321" height="26"></td>
+    <td align="left" valign="bottom"><img src="http://static.expressindia.com/expressindia/images/top-right.gif" width="7" height="7"></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><img src="http://static.expressindia.com/expressindia/images/mid-left.gif" width="7" height="111"></td>
+    <td align="left" valign="top" class="city_search_mid"><table width="334" border="0" cellspacing="0" cellpadding="0" class="cityform">
+      <tbody><tr>
+        <td width="188" height="26" valign="middle"><strong class="cityform_hd">City Search </strong></td>
+        <td width="146" height="26" valign="middle">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="26" valign="middle"><label>Search for</label> <input name="srch" type="text" size="20"></td>
+        <td height="26" valign="middle">(eg. movies, restaurants)</td>
+      </tr>
+      <tr>
+        <td height="26" valign="middle"><label style="padding-right:14px;">Locality</label>
+            <input name="loc" type="text" size="20"></td>
+        <td height="26" valign="middle">in 
+			<select name="city" class="txt_body"><option value="delhi">Delhi</option>
+				<option value="bangalore">Bangalore</option>
+				<option value="mumbai">Mumbai</option>
+				<option value="chennai">Chennai</option>
+				<option value="pune">Pune</option>
+				<option value="kolkata">Kolkata</option>
+				<option value="hyderabad">Hyderabad</option>
+				<option value="ahmedabad">Ahmedabad</option>
+				<option value="goa">Goa</option>
+				<option value="jaipur">Jaipur</option>
+				</select></td>
+      </tr>
+      <tr>
+        <td height="30" colspan="2" align="center" valign="bottom"><input type="hidden" name="onSubmit" value="Submit"><input type="image" src="http://static.expressindia.com/expressindia/images/submit.gif"> <a onclick="show(2)"><img src="http://static.expressindia.com/expressindia/images/reset.gif"></a></td>
+        </tr>
+    </tbody></table></td>
+    <td width="7" align="left" valign="top"><img src="http://static.expressindia.com/expressindia/images/mid-right.gif" width="7" height="111"></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><img src="http://static.expressindia.com/expressindia/images/bot-left.gif" width="7" height="6"></td>
+    <td background="http://static.expressindia.com/expressindia/images/bot-mid-bg.gif"></td>
+    <td align="left" valign="top"><img src="http://static.expressindia.com/expressindia/images/bot-right.gif" width="7" height="6"></td>
+  </tr>
+</tbody></table>
+
+
+<!--<div style="vertical-align: bottom;" align="right"><a href="javascript:dropdowncontent.hidediv('subcontent')" class="article">Close</a></div>-->
+
 </div>
 
+<div class="top_div">
+
+</div>
+ 
+<div id="add_baner"> </div>
+
+
 <div class="main_head">
-<div style="float:left; width:600px;">
-  <a href="http://www.expressindia.com"><img src="http://static.expressindia.com/expressindia/images/logo.png?a=123" hspace="10px" alt="www.expressindia.com" border="0" class="logo" align="absbottom"></a>
-   <span class="today" style="padding-left:90px;"> <script>document.write(dataStr)</script>Mon, 24 Feb 2020 -  <a href="http://www.expressindia.com/weatherReport.php" title="Latest weather report">Weather</a> | <a href="http://www.expressindia.com/astro.php" title="Astrology &amp; Horoscope">Horoscope</a> | <a href="http://www.financialexpress.com/stocks.php" title="Latest stocks report">Stocks</a></span></div>
+<div style="float:left; width:600px; padding:10px 0 0 0;">
+  <a href="http://www.expressindia.com"><img src="http://static.expressindia.com/expressindia/images/logo.png" hspace="10px" alt="www.expressindia.com" border="0" class="f1" align="absmiddle"></a>
+   <span class="today" style="padding-left:10px;"> <script>document.write(dataStr)</script>Wed, 19 Feb 2020 -  <a href="http://www.expressindia.com/weatherReport.php" title="Latest weather report">Weather</a> | <a href="http://www.expressindia.com/astro.php" title="Astrology &amp; Horoscope">Horoscope</a> | 
+   <a href="http://www.financialexpress.com/stocks.php" title="Latest stocks report">Stocks</a>
+   | <a href="http://www.expressindia.com/syndications/ei.xml" title="RSS">RSS</a>
+   </span></div>
       <form action="/tsearch/search.php" style="margin:0">
 <div class="head_search_cov">
       <div class="date_redio" align="left">
         <table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="15%"><input name="radiobutton" type="radio" value="express" checked="checked"></td>
+            <td width="15%"><input name="radiobutton" type="radio" value="express" checked="checked" onclick="return show(2)"></td>
             <td width="47%">expressindia</td>
-            <td width="13%"><input name="radiobutton" type="radio" value="web"></td>
+            <td width="13%"><input name="radiobutton" type="radio" value="web" onclick="return show(2)"></td>
             <td width="25%">web</td>
+ 		<td width="13%"><input name="radiobutton" type="radio" value="Citysearch" id="searchlink" onclick="return show(1)"></td>
+            <td width="25%"><b>city</b></td>
           </tr>
         </tbody></table>
       </div>
@@ -73,10 +155,12 @@ dataStr = Days[thisdate.getDay()]+', '+thisdate.getDate()+' '+Mons[(thisdate.get
   </div>
   </form>
  <div class="tab_cov">
-<a href="http://www.expressindia.com/" id="tab_cov_active" title="Latest news from India">Home</a><a href="http://www.expressindia.com/blogs" title="Express blogs">Blogs</a><a href="http://cricket.expressindia.com/" title="Latest cricket news">Cricket</a><a href="http://astro.expressindia.com" title="Astrology &amp; Horoscope" rel="nofollow">Astrology</a><a href="http://shopping.expressindia.com/" title="Online shopping">Shopping</a><a href="http://hotels.expressindia.com/" title="Hotels">Hotels</a><a href="http://tenders.expressindia.com/" title="Tenders">Tenders</a><a href="http://www.expressclassifieds.in/" title="Book classifieds">Classifieds</a> <a href="http://www.expressindia.com/eicomments.php" title="Top comments">Opinions</a><a href="http://travel.expressindia.com" title="Travel">Travel</a>
+<a href="http://www.expressindia.com/" id="tab_cov_active" title="Latest news from India">Home</a><a href="http://www.expressindia.com/blogs" title="Express blogs">Blogs</a><a href="http://cricket.expressindia.com/" title="Latest cricket news">Cricket</a><a href="http://astro.expressindia.com" title="Astrology &amp; Horoscope" rel="nofollow">Astrology</a><a href="http://shopping.expressindia.com/" title="Online shopping">Shopping</a><a href="http://tenders.expressindia.com/" title="Tenders">Tenders</a><a href="http://www.expressclassifieds.in/" title="Book classifieds">Classifieds</a> <a href="http://www.expressindia.com/eicomments.php" title="Top comments">Opinions</a><a href="http://travel.expressindia.com" title="Travel">Travel</a>
+<a href="http://www.careerbuilder.co.in/intl/partnerlandingpage.aspx?lr=Int_inExpressindia&amp;SiteID=Int_inExpressindia" title="Jobs" target="_blank">Jobs</a><!-- edit 3rd dec08 ravi -->
+<a href="http://hotels.expressindia.com/" title="Hotels" target="_blank">Hotels</a>
   </div> 
   <div class="right_tab ">
-     <div style="width:42px;display:inline; vertical-align:text-bottom;" id="login"></div> 
+     <div style="width:42px;display:inline; vertical-align:text-bottom;" id="login"><a href="/login.php">Login</a> </div> 
     | <a href="#" onclick="this.style.behavior = 'url(#default#homepage)'; this.setHomePage('http://www.expressindia.com/');" title="">Make this your homepage</a> | <a href="/archiveMap.php" title="Expressindia stories archives">Archive</a></div>
 </div>
 
@@ -97,4 +181,329 @@ dataStr = Days[thisdate.getDay()]+', '+thisdate.getDate()+' '+Mons[(thisdate.get
     <p>This is broadly how we handle the information we gather.</p>
     <p><strong>Information Collected and Stored Automatically </strong><br>
       If you visit our website(s) just to browse, read pages or download information, but do not register for any of our services, we gather and store certain information about your visit automatically. This information cannot and does not identify you personally.</p>
-    <p>The kind of information that is gathered automatically include the type of browser you are using (e.g. Netscape, Internet Explorer), the type of Operating System you are using (e.g. Windows '98 or Mac OS) and the domain name of your Internet Service Provider (e.g. America Online, Satyam Online, Mantra Online, VSNL), the date and time of your visit and the pages you visit. We sometimes use this non-personally identifiable information to improve our website(s) d</p></div></div></div></body></html>
+    <p>The kind of information that is gathered automatically include the type of browser you are using (e.g. Netscape, Internet Explorer), the type of Operating System you are using (e.g. Windows '98 or Mac OS) and the domain name of your Internet Service Provider (e.g. America Online, Satyam Online, Mantra Online, VSNL), the date and time of your visit and the pages you visit. We sometimes use this non-personally identifiable information to improve our website(s) design, content and primarily to give you a better browsing experience. </p>
+    <p><strong>Personal Information Collected</strong><br>
+      We collect personal information from you only if you provide it voluntarily. The type of personally identifiable information that may be collected by us include name, address, e-mail address and information about your interests in and use of various services. For example, you might submit your name and e-mail address to subscribe to our newsletters or to take part in our discussion forum or to send us your feedback. You might also enter another person's e-mail address and name and yours when you use our 'Mail This Story' feature. The information you provide is not given or sold to any private organisations or private persons.</p>
+    <p><strong>Collection of Information by Third-Party Sites and Sponsors</strong><br>
+      Our website(s) sometimes contain links to other websites whose privacy policies may be different to ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.</p>
+    <p>We also use a reputable third party to serve the advertisements that you see on our pages. In the course of serving advertisements, our third-party advertiser may place or recognise a unique "cookie" on your browser and may use information (not including your name, address, e-mail address) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.</p>
+    <p><strong>Links to Other Sites </strong><br>
+      Our website(s) has links to other website(s) in the World Wide Web. The privacy policies of these website(s) is not under our control. Once you leave our servers, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. It is advisable to read their privacy policies for further information.</p>
+    <p></p>
+  </div>
+
+</div>
+</div>
+<!--Ads by google start here-->
+<div class="google_head">
+  <div class="google_head_tag">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+      <tbody><tr>
+        <td class="active_link" height="19" align="center" valign="middle" width="80"><a class="wht_link" href="#">Ads By Google</a></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" height="3"><img src="http://static.expressindia.com/expressindia/images/blue_arrow_sm.gif" width="9" height="3" border="0"></td>
+      </tr>
+    </tbody></table>
+  </div>
+
+</div>
+<div class="google_add_bottom">
+    <div class="google_add_txt"></div><div class="google_add_txt1"> <script language="JavaScript">
+<!--
+  function google_ad_request_done(google_ads) {
+    var s = '';
+    var i;
+
+    if (google_ads.length == 0) {
+      return;
+    }
+if (google_ads[0].type=="text") {
+	if (google_ads.length > 0) {
+               s += "";
+               for(i=0; i < google_ads.length; ++i) {
+                s += '<a href="' + google_ads[i].url + '" target="_blank" ' +
+                                  'onmouseout="window.status=\'\'" ' +
+                                  'onmouseover="window.status=\'go to ' +
+                                  google_ads[i].visible_url + '\'" ' +
+                                  ' id="lnk1">' +
+                                  '<strong>' + google_ads[i].line1 + '</strong><b>' +
+								  google_ads[i].line2 + '' +
+                                  google_ads[i].line3 + '</b><b>'+
+                                  google_ads[i].visible_url + '</b></a><div class="google_add_txt_bottom"></div>';
+            }
+         }
+		  s += "";
+    }
+
+    document.write(s);
+    return;
+  }
+  
+		           google_ad_client   = 'ca-expressindia_site_js';
+		           google_ad_output   = 'js';
+		           google_max_num_ads = 3;
+		           google_ad_channel  = "express_india,section_bottom,newui";
+		           google_adtest    = 'off';
+		           google_safe = 'high';
+				   google_ad_type = "text";
+// -->
+ </script>
+
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script> </div>
+
+</div>
+
+<!--Ads by google end here-->
+<br>
+<!--Footer Start-->
+<div class="footer">
+<div class="footlink">
+    <div class="foot_text"> <a href="/">Home</a><br>
+      <a href="http://blogs.expressindia.com/">Blogs</a> </div>
+    <div class="foot_text"> <a href="http://www.expressmoney.in/">Money</a><br>
+      <a href="http://www.expressestates.in/">Estates</a> </div>
+    <div class="foot_text"> <a href="http://cricket.expressindia.com/">Cricket</a><br>
+      <a href="http://astro.expressindia.com" target="_blank" rel="nofollow">Astrology</a> </div>
+    <div class="foot_text"> <a href="http://shopping.expressindia.com/" target="_blank">Shopping</a><br>
+      <a href="http://travel.expressindia.com/">Travel</a></div>
+    <div class="foot_text"> <a href="http://tenders.expressindia.com/">Tenders</a><br>
+      <a href="http://www.expressclassifieds.in/beta/">Classifieds</a> </div>
+  </div>
+<form action="/tsearch/search.php">
+<div class="foot_search_cov">
+      <div class="date_redio" align="left">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="15%"><input name="radiobutton" type="radio" value="express" checked="checked"></td>
+            <td width="47%">expressindia</td>
+            <td width="13%"><input name="radiobutton" type="radio" value="web"></td>
+            <td width="25%">web</td>
+          </tr>
+        </tbody></table>
+      </div>
+	 <div class="goog_logo" align="right"><img src="http://static.expressindia.com/expressindia/images/goog_logo.gif" width="121" height="20"></div>
+	  <table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="187"><input type="text" name="q" class="search_input"></td>
+            <td width="88"><input type="image" src="http://static.expressindia.com/expressindia/images/search_but.gif"></td>
+          </tr>
+    </tbody></table>
+  </div>
+</form></div>
+
+<div class="footer_banner">
+<script language="Javascript" src="http://banners.expressindia.com/banner/ei/ei_story468x60.js"></script>
+</div>
+<div class="copy_container">
+  <div class="copy_textleft">© 2008 Indian Express Newspapers (Mumbai) Ltd. All rights reserved</div>
+  <div class="copy_textright"> <a href="http://www.expressindia.com/expressgroup/">The Indian Express Group</a> | <a href="http://www.expressindia.com/advertise.php">Advertise With Us</a> | <a href="http://www.expressindia.com/policy.php">Privacy Policy</a> | <a href="http://www.expressindia.com/feedback.php">Feedback</a> | <a href="http://www.expressindia.com/expressgroup/careers.php">Work With Us</a> | <a href="http://www.expressindia.com/sitemap.php">Site Map</a></div>
+		
+</div>
+<!--Header banner -->
+
+
+<div class="add_baner">
+<iframe src="http://banners.expressindia.com/banner/ei/ei_story728x90.html" height="90" scrolling="no" width="728" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+</div>
+<!-- / Header banner -->
+<!-- Record page views -->
+
+<!-- End Record page views -->
+<script> readCookie('user1')</script>
+
+
+
+
+<!-- Google analytics starts expressindia.com -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1403607-1";
+urchinTracker();
+</script>
+<!-- Google analytics ends -->
+
+<!--Footer end-->
+<!-- Ad Specifications Start-->
+<div class="right_ads">
+  <div id="rightadd"><!-- start 160x600 + 120x600 banner -->
+
+<script language="javascript">
+
+rnd.today=new Date();
+rnd.seed = rnd.today.getTime();
+var number=rand(2);
+var num = 1;
+
+if (number == num)
+{
+
+   
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://banners.expressindia.com/adsnew/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:684&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referer)
+      document.write ("&amp;referer=" + escape(document.referer));
+   document.write ("'><" + "/script>");
+
+}
+else{
+	// 160x300 1st position
+    
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://banners.expressindia.com/adsnew/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:685&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referer)
+      document.write ("&amp;referer=" + escape(document.referer));
+   document.write ("'><" + "/script>");
+
+
+// 160x300 2nd position
+   
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://banners.expressindia.com/adsnew/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:686&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referer)
+      document.write ("&amp;referer=" + escape(document.referer));
+   document.write ("'><" + "/script>");
+
+
+}
+
+function rnd()
+{
+	rnd.seed = (rnd.seed*9301+49297) % 233280;
+	return rnd.seed/(233280.0);
+}
+function rand(number)
+{
+	return Math.ceil(rnd()*number);
+}
+
+</script><script language="JavaScript" type="text/javascript" src="http://banners.expressindia.com/adsnew/adjs.php?n=542861333&amp;what=zone:684&amp;target=_blank&amp;exclude=,"></script>
+
+<script language="javascript">
+var page_height = document.getElementById("pg_height").clientHeight;
+
+	if(page_height>1620){
+				if (!document.phpAds_used) document.phpAds_used = ',';
+		   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+		   
+		   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+		   document.write ("http://banners.expressindia.com/adsnew/adjs.php?n=" + phpAds_random);
+		   document.write ("&amp;what=zone:658&amp;target=_blank");
+		   document.write ("&amp;exclude=" + document.phpAds_used);
+		   if (document.referer)
+			  document.write ("&amp;referer=" + escape(document.referer));
+		   document.write ("'><" + "/script>");
+}
+
+</script>
+
+
+<!--End 160x600 + 120x600 banner -->
+<!--<img src="http://static.expressindia.com/expressindia/images/ad.gif" alt="" border="0" />--><br>
+    <br>
+    <br>
+  </div>
+  
+<div>
+ 	<script type="text/javascript">
+		crbz_scag_height="130";
+		crbz_scag_width="160";
+		crbz_scag_dtlpage = "IEX";
+		crbz_scag_dtllinknm = "IEX";
+	</script>
+<a href="http://cricket.expressindia.com/fullscore.php">
+	<script type="text/javascript" src="http://www.cricbuzz.com/livescore/iex/lv_scag03_ren.php?sess=####RANDOM####">
+	</script>
+</a></div>
+<div class="featureadd_two">
+<span class="poll_header"><strong>Group Websites</strong></span>
+<div><img src="http://static.expressindia.com/expressindia/images/zero.gif" width="1" height="7"></div>
+<a href="http://www.indianexpress.com/" target="blank">Indian Express</a>
+<a href="http://www.financialexpress.com/" target="blank">Financial Express</a>
+<a href="http://www.screenindia.com/" target="blank">Screen</a>
+<a href="http://www.loksatta.com/" target="blank">Loksatta</a>
+<a href="http://www.kashmirlive.com/" target="blank">Kashmir Live</a>
+<a href="http://www.expressbusinesspublications.com/" target="blank">Biz Publications</a>
+</div>
+
+<div class="featureadd">
+<span class="poll_header"><strong>Featured Services</strong></span>
+<!--
+<div class="featureadd_service">
+<a href="http://banners.expressindia.com/adsnew/adclick.php?bannerid=2530&zoneid=&source=&dest=http%3A%2F%2Fwww.shaadi.com%2Fregistration%2Fuser%2Findex.php%3Fptnr%3Dielink" target="_blank" rel="nofollow">Matrimonials</a></div>
+<div class="featureadd_border"><img src="http://static.expressindia.com/expressindia/images/zero.gif" /></div>
+
+<div class="featureadd_service">
+<a href="http://banners.expressindia.com/adsnew/adclick.php?bannerid=2626&zoneid=&source=&dest=http%3A%2F%2Fwww.naukri.com%2Ftieups%2Ftieups.php%3Fothersrcp%3D4655" target="_blank" rel="nofollow">Register FREE on Naukri.com.</a></div>
+<div class="featureadd_border"><img src="http://static.expressindia.com/expressindia/images/zero.gif" /></div>
+
+<div class="featureadd_service">
+<a href="http://static.expressindia.com/adsNew/openx247/openx-247/www/delivery/ck.php?oaparams=2__bannerid=160__zoneid=0__cb=3b16187dda__maxdest=http://jobsearch.naukri.com/mynaukri/mn_newsmartsearch.php?xz=8_0_3&js=1&qc=742&tem=manpowercarb&xid=121931423967042800&qp=MANPOWER+SERVICES&qm=-1&qx=-1&qs=r&qt=all&enableRoleMapping=y&qd=1&mode=7" target="_blank" rel="nofollow">Best of jobs this October</a></div>
+<div class="featureadd_border"><img src="http://static.expressindia.com/expressindia/images/zero.gif" /></div>
+-->
+
+<div class="featureadd_service">
+<a href="http://static.expressindia.com/adsNew/openx247/openx-247/www/delivery/ck.php?oaparams=2__bannerid=153__zoneid=0__cb=dfd1c24d5f__maxdest=http://www.s2d6.com/x/?x=c&amp;z=s&amp;v=1203106&amp;k=[NETWORKID]" target="_blank" rel="nofollow">99online with free shipping</a></div>
+<div class="featureadd_border"><img src="http://static.expressindia.com/expressindia/images/zero.gif"></div>
+
+
+<!--
+<div class="featureadd_service">
+<a href="http://banners.expressindia.com/adsnew/adclick.php?bannerid=3120&zoneid=&source=&dest=http%3A%2F%2Fwww.fropper.com%2Fdating-member%2Findex.php%3Fregister%3DY%26ptnr%3Dietkl021" target="_blank" rel="nofollow">Find Love, Romance & friends</a></div>
+<div class="featureadd_border"><img src="http://static.expressindia.com/expressindia/images/zero.gif" /></div>
+-->
+
+
+<div class="featureadd_service">
+<a href="http://banners.expressindia.com/adsnew/adclick.php?bannerid=3543&amp;zoneid=&amp;source=&amp;dest=http%3A%2F%2Fwww.s2d6.com%2Fx%2F%3Fx%3Dc%26z%3Ds%26v%3D579062" target="_blank" rel="nofollow">Send Gifts &amp; Flowers</a></div>
+<div class="featureadd_border"><img src="http://static.expressindia.com/expressindia/images/zero.gif"></div>
+
+
+<div class="featureadd_service">
+<a href="http://www.careerbuilder.co.in/intl/partnerlandingpage.aspx?lr=Int_inExpressindia&amp;SiteID=Int_inExpressindia" target="_blank" rel="nofollow">New Jobs this December</a></div>
+<div class="featureadd_border"><img src="http://static.expressindia.com/expressindia/images/zero.gif"></div>
+
+<div class="featureadd_service">
+<a href="http://astro.expressindia.com/" target="_blank" rel="nofollow">Express Astrology</a></div>
+<div class="featureadd_border"><img src="http://static.expressindia.com/expressindia/images/zero.gif"></div>
+
+<div class="featureadd_service">
+<a href="http://www.expressclassifieds.in/" target="_blank" rel="nofollow">Express classifieds</a></div>
+<div class="featureadd_border"><img src="http://static.expressindia.com/expressindia/images/zero.gif"></div>
+
+<div class="featureadd_service">
+<a href="http://cricket.expressindia.com/" target="_blank" rel="nofollow">Express cricket</a></div>
+<div class="featureadd_border"><img src="http://static.expressindia.com/expressindia/images/zero.gif"></div>
+
+<div class="featureadd_service">
+<a href="http://hotels.expressindia.com/" target="_blank" rel="nofollow">Express hotels</a></div>
+<div class="featureadd_border"><img src="http://static.expressindia.com/expressindia/images/zero.gif"></div>
+
+</div>
+
+
+
+</div>
+<!-- Ad Specifications End-->
+
+<!--Header banner -->
+
+
+</body></html>
