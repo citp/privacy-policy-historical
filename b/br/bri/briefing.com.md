@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512012300id_/http%3A//www.briefing.com/GeneralInfo/Home/Legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054825id_/http%3A//www.briefing.com/GeneralInfo/Home/Legal/privacy.htm) for the most accurate reproduction.*
 
 # Briefing.com: Privacy Statement
 
