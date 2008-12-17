@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lrb.co.uk privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611103603id_/http%3A//www.lrb.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrb.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084652id_/http%3A//www.lrb.co.uk/privacy) for the most accurate reproduction.*
 
 # LRB · privacy
 
