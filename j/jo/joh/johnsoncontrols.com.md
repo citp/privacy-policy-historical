@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnsoncontrols.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531153647id_/http%3A//johnsoncontrols.com/publish/us/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnsoncontrols.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093229id_/http%3A//www.johnsoncontrols.com/publish/us/en/privacy.html) for the most accurate reproduction.*
 
 # Johnson Controls Inc. | Privacy
 
