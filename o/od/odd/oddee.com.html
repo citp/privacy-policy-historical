@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the oddee.com privacy policy that was archived on 2008-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080525082136id_/http%3A//oddee.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oddee.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217060838id_/http%3A//www.oddee.com/privacy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Privacy Policy</title>
-	<meta name="description" content="Quality Entertainment">
+	<meta name="description" content="A Blog on Oddities: the odd, bizarre and strange things of our world!">
 	<meta name="keywords" content="">
 
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -13,14 +13,17 @@
 
 	<style><!--
 		BODY, TD { font-family: Georgia, Arial, Verdana; font-size: 14px; line-height:20px };
+		H1 { font-size: 170% };
+		H2 { font-size: 18px };
 		H3 { font-size: 18px };
 		.l { color:#aa6300 }
 		.nound { text-decoration:none }
 		A:link { color:#aa6300 }
 		A:visited { color:#aa6300 }
 		A:active { color:#aa6300 }
-		.tit { font-size:24px; font-weight:bolder; text-decoration:none; line-height:24px }
+		.tit { font-family: Arial, Georgia, Verdana; font-size:190%; text-decoration:none; font-weight:bolder; line-height:100% }
 		.tit:hover { text-decoration:underline }
+		.subtit { font-size:115% }
 		.artd { font-weight:bolder; text-decoration:none }
 		.artd:hover { text-decoration:underline }		
 		.imgl { border-bottom: #b2b2b2 1px solid; border-left: #b2b2b2 1px solid; border-right: #b2b2b2 1px solid; border-top: #b2b2b2 1px solid; margin: 5px auto 15px auto; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; padding-top: 5px }
@@ -32,7 +35,35 @@
 			if (prop==null) { prop='width=400,height=350,left=200,top=150,scrollbars=yes,resizable=yes' }
 			window.open(pag, nom, prop)
 		}
+
+		function getRecommendations() {
+			var xmlHttp;
+			try {			  
+			  xmlHttp=new XMLHttpRequest();	// Firefox, Opera 8.0+, Safari
+			} catch (e) {	// Internet Explorer			  
+			  try {
+			    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+			  } catch (e) {
+			    try {
+			      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+			    } catch (e) {
+			      // browser does not support AJAX
+			      return false;
+			    }
+			  }
+			}
+
+			xmlHttp.onreadystatechange=function() {
+			    if(xmlHttp.readyState==4) {
+			      document.getElementById("recommendations").innerHTML=xmlHttp.responseText;
+			    }
+			}
+
+			xmlHttp.open("GET","recommendation.aspx?r=" + escape(document.referrer),true);
+			xmlHttp.send(null);
+		}
 	//--></script>
+
 
 
 	
@@ -45,30 +76,23 @@
 	<tbody><tr>
 		<td background="/_media/imgs/Oddee/cabecerafondo.jpg" align="center">
 
-			<a href="/"><img src="/_media/imgs/Oddee/Cabecera.jpg" border="0"></a>
+			<a href="/"><img src="http://63.134.213.184/_media/imgs/Oddee/Cabecera.jpg" border="0"></a>
 
 		</td>
 
 		<td background="/_media/imgs/Oddee/cabecerafondo.jpg" align="center">
 
 
-<!-- ValueClick Media 468x60 Banner v1.4 for oddee.com -->
-<script language="Javascript"><!--
-var i=j=p=t=u=x=z=dc='';var id=f=0;var f=Math.floor(Math.random()*7777);
-id=38597; dc=document;u='ht'+'tp://media.fastclick.net/w'; x='/get.media?t=s';
-z=' width=468 height=60 border=0 ';t=z+'marginheight=0 marginwidth=';
-i=u+x+'&sid='+id+'&m=1&tp=1&f=b&v=1.4&c='+f+'&r='+escape(dc.referrer);
-u='<a  hr'+'ef="'+u+'/click.here?sid='+id+'&m=1&c='+f+'"  target="_top">';
-dc.writeln('<ifr'+'ame src="'+i+'&d=f"'+t+'0 hspace=0 vspace=0 frameborder=0 scrolling=no>');
-if(navigator.appName.indexOf('Mic')<=0){dc.writeln(u+'<img src="'+i+'&d=n"'+z+'></a>');}
-dc.writeln('</iframe>'); // --></script><iframe src="http://media.fastclick.net/w/get.media?t=s&amp;sid=38597&amp;m=1&amp;tp=1&amp;f=b&amp;v=1.4&amp;c=3984&amp;r=&amp;d=f" width="468" height="60" border="0" marginheight="0" marginwidth="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
-<a  href="http://media.fastclick.net/w/click.here?sid=38597&m=1&c=3984"  target="_top"><img src="http://media.fastclick.net/w/get.media?t=s&sid=38597&m=1&tp=1&f=b&v=1.4&c=3984&r=&d=n" width=468 height=60 border=0 ></a>
-</iframe>
-<noscript>
-<a href="http://media.fastclick.net/w/click.here?sid=38597&m=1&c=1"  target="_top">
-<img src="http://media.fastclick.net/w/get.media?sid=38597&m=1&tp=1&d=s&c=1&f=b&v=1.4"
-width=468 height=60 border=1></a></noscript>
-<!-- ValueClick Media 468x60 Banner v1.4 for oddee.com -->
+<!-- BEGIN RICH-MEDIA Burst Network CODE -->
+<script type="text/javascript" language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+ts=String.fromCharCode(60);
+if (window.self != window.top) {nf=''} else {nf='NF/'};
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad18128a.cgi/v=2.3S/sz=468x60A/'+rnum+'/NI/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad18128a.cgi/v=2.3S/sz=468x60A/87745/NI/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad18128a-map.cgi/ns/v=2.3S/sz=468x60A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad18128a.cgi/ns/v=2.3S/sz=468x60A/" border="0" alt="Click Here" /></a>
+</noscript>
+<!-- END Burst Network CODE -->
 
 
 
@@ -93,44 +117,640 @@ width=468 height=60 border=1></a></noscript>
 <table width="100%" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 	    <td width="22%" bgcolor="#f5f5f5" valign="top" style="border-right:1px solid #cccccc; padding-left:15px; padding-right:30px; background-image:url('/_media/imgs/oddee/shadow1.gif') ; background-position: top right; " align="right">
-		<br>
 
 
-<!-- START ADENGAGE.COM CODE 2.0 -->
-<style>
-.ae_table_vert { width:auto; height:auto; background-color:None; }
-.ae_td_vert,.ae_image_td_vert { padding-bottom: 4px; padding-top: 4px; padding-left: 3px; padding-right: 3px; vertical-align:top; }
-.ae_image_td_vert, .ae_image_td_horiz { text-align:right; padding-top:4px; padding-bottom:4px; padding-right: 4px; }
-.ae_image_td_sky { text-align:left; padding-top:4px; padding-bottom:0px; padding-right: 0px; }
-.ae_bb_td_vert { padding-bottom: 4px; padding-top: 4px; padding-left: 3px; padding-right: 3px; vertical-align:top; }
-A.ae_title_vert, A.ae_image_link_vert {font-family: Georgia,Verdana,Sans-Serif; font-size: 14px; font-style: normal; font-weight: bold; font-variant: normal; text-transform: none; color: #aa6300; text-decoration: None; }
-.ae_desc_vert {font-family: Georgia,Verdana,Sans-Serif; font-size: 12px; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; color: black; }
-.ae_click_count_vert {font-family: Georgia,Verdana,Sans-Serif; font-size: 10px; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; color: None; }
-A.ae_powered_vert {font-family: Georgia,Verdana,Sans-Serif; font-size: 10px; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #aa6300; text-decoration: None; }
-A.ae_yourlink_vert {font-family: Georgia,Verdana,Sans-Serif; font-size: 10px; font-style: normal; font-weight: bold; font-variant: normal; text-transform: none; color: #aa6300; text-decoration: None; }
-A.ae_title_vert:hover, A.ae_powered_vert:hover, A.ae_yourlink_vert:hover, A.ae_image_link_vert:hover { color: #aa6300;  text-decoration: Underline;}
-.ae_image_vert { border-width:1px; border-color:#aa6300;}
-</style>
-<script language="JavaScript">
-adengage_num_ads = 16;
-adengage_layout_type = "vert";
-adengage_show_your_ad_here = 1;
-adengage_yourlink_text = "See your link here";
-adengage_show_powered_by = 0;
-adengage_show_click_count = 0;
-adengage_class_suffix = adengage_layout_type;
-adengage_arrow_text = "";
-window.adengage_draw_break = 1;
-window.adengage_use_image = 1;
-window.adengage_image_size = 50;
-window.adengage_hide_desc = 0;
-</script><script src="http://adcode.adengage.com/js/ae_24507_adbox.js" language="JavaScript"></script>
-<!-- END ADENGAGE.COM CODE 2.0 -->
+		<span id="recommendations">
+
+  
+    <title>Wayback Machine</title>
+    <script type="text/javascript">      window.webComponentLoaderConfig = {
+      baseUrl: 'https://archive.org',
+      version: '29e56e87'
+      }
+    </script>
+    <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/jquery-ui.min.js?v1.12.1" type="text/javascript"></script>
+    <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/clipboard/dist/clipboard.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/regenerator-runtime-polyfill.min.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/ie-dom-node-remove-polyfill.min.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/polyfill.min.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/more-facets.min.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?v16.7.0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/archive.min.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/areact.min.js?v=bf10aa9c" type="text/javascript"></script>
+    <link href="//archive.org/includes/build/css/archive.min.css?v=bf10aa9c" rel="stylesheet" type="text/css">
+    <meta property="braintree_token" content="production_w3jccm3z_pqd7hz44swp6zvvw">
+    <meta property="environment" content="production">
+    <meta property="venmo_id" content="2878003111190856236">
+        <script src="/_static/js/raven.min.js" crossorigin="anonymous"></script>
+    <script>Raven.config('https://5588e3adb3e545248e893d6f2fc41ba2@wwwb-sentry.us.archive.org/3').install();</script>
+<script type="text/javascript">if('archive_analytics' in window){var v=archive_analytics.values;v.path='/web';v.service='wb';v.server_name='wwwb-app101.us.archive.org';v.server_ms=899;archive_analytics.send_pageview_on_load()}</script>
+    <link href="/_static/images/archive.ico" rel="shortcut icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/_static/css/styles.css">
+    <script type="text/javascript" src="/_static/js/ui.js" charset="utf-8"></script>
+    <base target="_top">
+<link rel="stylesheet" type="text/css" href="/_static/css/web.css">
+<script type="text/javascript">
+if (window!=window.top) {
+  $(document).ready(function(){ document.body.classList.add('wb_embedded') });
+}
+</script>
+  
+  
+    
+                    <div class="ia-banners">
+              <div class="ia-banner hidden" data-campaign="ia_user_1">
+        <p>This banner text <i>can</i> have <b>markup</b>.</p>
+        <a href="#" data-action="ia-banner-close"></a>
+      </div>
+          </div>
+            
+        <div id="navwrap1" class="">
+          <div id="navwrap2">
+            <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+              <div id="nav-tophat-helper" class="hidden-xs"></div>
+
+              <ul class="nav navbar-nav navbar-main">
+                <li class="pull-left">
+                  <a title="Home" class="navia-link home" href="/" target="_top">
+                    <span class="iconochive-logo"></span>
+                    <div class="archive-wordmark">
+                      <img src="https://archive.org/images/wordmark-narrow-spacing.svg" alt="Internet Archive Logo">
+                    </div>
+                  </a>
+                </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Web" class="navia-link web" data-top-kind="web" href="https://archive.org/web/" target="_top"><span class="iconochive-web" aria-hidden="true"></span><span>web</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Texts" class="navia-link texts" data-top-kind="texts" href="https://archive.org/details/texts" target="_top"><span class="iconochive-texts" aria-hidden="true"></span><span>books</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Video" class="navia-link movies" data-top-kind="movies" href="https://archive.org/details/movies" target="_top"><span class="iconochive-movies" aria-hidden="true"></span><span>video</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Audio" class="navia-link audio" data-top-kind="audio" href="https://archive.org/details/audio" target="_top"><span class="iconochive-audio" aria-hidden="true"></span><span>audio</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Software" class="navia-link software" data-top-kind="software" href="https://archive.org/details/software" target="_top"><span class="iconochive-software" aria-hidden="true"></span><span>software</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left rightmost">
+                    <a title="Image" class="navia-link image" data-top-kind="image" href="https://archive.org/details/image" target="_top"><span class="iconochive-image" aria-hidden="true"></span><span>images</span></a>
+                  </li>
+                
+                <li class="nav-right-tool nav-hamburger pull-right hidden-sm hidden-md hidden-lg">
+                  <div class="container-fluid">
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-hamburger-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                      </button>
+                      <div class="navbar-collapse collapse" id="nav-hamburger-menu" aria-expanded="false">
+                            <ul id="" class="nav navbar-nav">
+            <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE <span class="iconochive-heart"></span></a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
+          </ul>
+                          </div><!-- /.navbar-collapse -->
+                    </div>
+                  </div><!-- /.container-fluid -->
+                </li>
+
+                                  <li class="nav-right-tool pull-right" id="nav-search">
+                    <a class="nav-search-button" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false" aria-hidden="true"><span class="iconochive-search" aria-hidden="true"></span><span class="sr-only">search</span></a>
+                    <div class="searchbar">
+                      <form class="search-form js-search-form" method="get" role="search" action="https://archive.org/searchresults.php" target="_top" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/">
+                        <input id="search-bar-2" class="js-search-bar" data-autocomplete-format="right" placeholder="Search" type="text" name="search" value="" aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below.">
+
+                              <div id="navbar_search_options" class="search-options js-search-options" aria-expanded="false" aria-label="Search Options" data-keep-open-when-changed="false">
+      <div class="pre-search-options"></div>
+      <fieldset>
+                      <label>
+      <input type="radio" name="sin" value="" checked="">
+      <span>Search metadata</span>
+    </label>
+                          <label>
+      <input type="radio" name="sin" value="TXT">
+      <span>Search text contents</span>
+    </label>
+                          <label>
+      <input type="radio" name="sin" value="TV">
+      <span>Search TV news captions</span>
+    </label>
+                          <label>
+      <input type="radio" name="sin" value="WEB">
+      <span>Search archived web sites</span>
+    </label>
+                  </fieldset>
+
+              <a href="https://archive.org/advancedsearch.php" class="search-options__advanced-search-link" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+          </div>
+    
+                              <input class="js-tvsearch" type="hidden" value="{&quot;ands&quot;:[],&quot;minday&quot;:&quot;06/04/2009&quot;,&quot;maxday&quot;:&quot;02/19/2020&quot;}">
+    
+                        <input type="submit" value="Search">
+                      </form>
+                    </div><!--/.searchbar -->
+                  </li>
+                
+                <li class="nav-right-tool pull-right">
+                  <a class="nav-upload" href="https://archive.org/create" _target="top" data-event-click-tracking="TopNav|UploadIcon"><span class="iconochive-upload" aria-hidden="true"></span><span class="sr-only">upload</span><span class="hidden-xs-span hidden-sm-span">UPLOAD</span></a>
+                </li>
+
+                <li class="nav-right-tool pull-right leftmost">
+                                      <a class="nav-user" href="https://archive.org/account/login" style="padding-right:0" _target="top" data-event-click-tracking="TopNav|LoginIcon"><span class="iconochive-person" aria-hidden="true"></span><span class="sr-only">person</span><span class="hidden-xs-span hidden-sm-span">SIGN IN</span></a>
+                                  </li>
+
+                              </ul>
+
+                  <ul id="nav-abouts" class="">
+            <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE <span class="iconochive-heart"></span></a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
+          </ul>
+                </div><!--/.navbar-->
+
+                        <div id="nav-tophat" class="collapse">
+                                                                <div class="row toprow web" style="max-width:1000px;margin:auto;display:block;">
+                    <div class="col-xs-12">
+                      <div class="wayback-txt">
+                        Search the history of over 411 billion                        <a style="display:inline" data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/">web pages</a> on the Internet.
+                      </div>
+                      <div class="roundbox7 wayback-main">
+                        <div class="row">
+                          <div class="col-sm-6" style="padding-left:0; padding-right:0;">
+                            <a style="padding-bottom:0" data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/"><img src="https://archive.org/images/WaybackLogoSmall.png" alt="Wayback Machine"></a>
+                          </div>
+                          <div class="col-sm-6" style="padding-top:13px;">
+                            <form style="position:relative;">
+                              <span class="iconochive-search" aria-hidden="true"></span><span class="sr-only">search</span>                              <label for="nav-wb-url" class="sr-only">Search the Wayback Machine</label>
+                              <input id="nav-wb-url" class="form-control input-sm roundbox20" type="text" placeholder="enter URL or keywords" name="url" autocomplete="off" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()">
+                            </form>
+                          </div>
+                        </div><!--/.row-->
+                      </div><!--/.wayback-main-->
+                    </div>
+                  </div><!--./row-->
+
+                                                                                <div class="row toprow fivecolumns texts">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/books" data-event-click-tracking="TopNav|FeaturedLink-AllBooks"><span class="iconochive-texts" aria-hidden="true"></span><span class="sr-only">texts</span> All Books</a>
+                            <a href="https://archive.org/details/texts" data-event-click-tracking="TopNav|FeaturedLink-AllTexts">All Texts</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/smithsonian" title="Smithsonian Libraries" data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries">Smithsonian Libraries</a>                                                          <a href="https://archive.org/details/fedlink" title="FEDLINK (US)" data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS">FEDLINK (US)</a>                                                          <a href="https://archive.org/details/genealogy" title="Genealogy" data-event-click-tracking="TopNav|FeaturedLink-Genealogy">Genealogy</a>                                                          <a href="https://archive.org/details/lincolncollection" title="Lincoln Collection" data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection">Lincoln Collection</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                                        <center class="items_list">
+              <div class="items_list_img">
+                <a href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');" aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow"></a>
+              </div>
+              <a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+            </center>
+                                    </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/americana" title="American Libraries" data-event-click-tracking="TopNav|TopLink-AmericanLibraries">American Libraries</a>                                                          <a href="https://archive.org/details/toronto" title="Canadian Libraries" data-event-click-tracking="TopNav|TopLink-CanadianLibraries">Canadian Libraries</a>                                                          <a href="https://archive.org/details/universallibrary" title="Universal Library" data-event-click-tracking="TopNav|TopLink-UniversalLibrary">Universal Library</a>                                                          <a href="https://archive.org/details/opensource" title="Community Texts" data-event-click-tracking="TopNav|TopLink-CommunityTexts">Community Texts</a>                                                          <a href="https://archive.org/details/gutenberg" title="Project Gutenberg" data-event-click-tracking="TopNav|TopLink-ProjectGutenberg">Project Gutenberg</a>                                                          <a href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library" data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary">Biodiversity Heritage Library</a>                                                          <a href="https://archive.org/details/iacl" title="Children's Library" data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary">Children's Library</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                                        <center class="items_list">
+              <div class="items_list_img">
+                <a href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');" aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary"></a>
+              </div>
+              <a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+            </center>
+                                    </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/booksbylanguage" title="Books by Language" data-event-click-tracking="TopNav|TopLink-BooksByLanguage">Books by Language</a>                                                          <a href="https://archive.org/details/additional_collections" title="Additional Collections" data-event-click-tracking="TopNav|TopLink-AdditionalCollections">Additional Collections</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns movies">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/movies" data-event-click-tracking="TopNav|FeaturedLink-AllVideo"><span class="iconochive-movies" aria-hidden="true"></span><span class="sr-only">movies</span> All video</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/prelinger" title="Prelinger Archives" data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives">Prelinger Archives</a>                                                          <a href="https://archive.org/details/democracy_now_vid" title="Democracy Now!" data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow">Democracy Now!</a>                                                          <a href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street" data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet">Occupy Wall Street</a>                                                          <a href="https://archive.org/details/nsa" title="TV NSA Clip Library" data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary">TV NSA Clip Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons" data-event-click-tracking="TopNav|TopLink-AnimationCartoons">Animation &amp; Cartoons</a>                                                          <a href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music" data-event-click-tracking="TopNav|TopLink-ArtsMusic">Arts &amp; Music</a>                                                          <a href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology" data-event-click-tracking="TopNav|TopLink-ComputersTechnology">Computers &amp; Technology</a>                                                          <a href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films" data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms">Cultural &amp; Academic Films</a>                                                          <a href="https://archive.org/details/ephemera" title="Ephemeral Films" data-event-click-tracking="TopNav|TopLink-EphemeralFilms">Ephemeral Films</a>                                                          <a href="https://archive.org/details/moviesandfilms" title="Movies" data-event-click-tracking="TopNav|TopLink-Movies">Movies</a>                                                          <a href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs" data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs">News &amp; Public Affairs</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion" data-event-click-tracking="TopNav|TopLink-SpiritualityReligion">Spirituality &amp; Religion</a>                                                          <a href="https://archive.org/details/sports" title="Sports Videos" data-event-click-tracking="TopNav|TopLink-SportsVideos">Sports Videos</a>                                                          <a href="https://archive.org/details/television" title="Television" data-event-click-tracking="TopNav|TopLink-Television">Television</a>                                                          <a href="https://archive.org/details/gamevideos" title="Videogame Videos" data-event-click-tracking="TopNav|TopLink-VideogameVideos">Videogame Videos</a>                                                          <a href="https://archive.org/details/vlogs" title="Vlogs" data-event-click-tracking="TopNav|TopLink-Vlogs">Vlogs</a>                                                          <a href="https://archive.org/details/youth_media" title="Youth Media" data-event-click-tracking="TopNav|TopLink-YouthMedia">Youth Media</a>                                                          <a href="https://archive.org/details/opensource_movies" title="Community Video" data-event-click-tracking="TopNav|TopLink-CommunityVideo">Community Video</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns audio">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/audio" data-event-click-tracking="TopNav|FeaturedLink-AllAudio"><span class="iconochive-audio" aria-hidden="true"></span><span class="sr-only">audio</span> All audio</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/GratefulDead" title="Grateful Dead" data-event-click-tracking="TopNav|FeaturedLink-GratefulDead">Grateful Dead</a>                                                          <a href="https://archive.org/details/netlabels" title="Netlabels" data-event-click-tracking="TopNav|FeaturedLink-Netlabels">Netlabels</a>                                                          <a href="https://archive.org/details/oldtimeradio" title="Old Time Radio" data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio">Old Time Radio</a>                                                          <a href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings" data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings">78 RPMs and Cylinder Recordings</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry" data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry">Audio Books &amp; Poetry</a>                                                          <a href="https://archive.org/details/opensource_audio" title="Community Audio" data-event-click-tracking="TopNav|TopLink-CommunityAudio">Community Audio</a>                                                          <a href="https://archive.org/details/audio_tech" title="Computers &amp; Technology" data-event-click-tracking="TopNav|TopLink-ComputersTechnology">Computers &amp; Technology</a>                                                          <a href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture" data-event-click-tracking="TopNav|TopLink-MusicArtsCulture">Music, Arts &amp; Culture</a>                                                          <a href="https://archive.org/details/audio_news" title="News &amp; Public Affairs" data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs">News &amp; Public Affairs</a>                                                          <a href="https://archive.org/details/audio_foreign" title="Non-English Audio" data-event-click-tracking="TopNav|TopLink-NonEnglishAudio">Non-English Audio</a>                                                          <a href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion" data-event-click-tracking="TopNav|TopLink-SpiritualityReligion">Spirituality &amp; Religion</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/podcasts" title="Podcasts" data-event-click-tracking="TopNav|TopLink-Podcasts">Podcasts</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns software">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/software" data-event-click-tracking="TopNav|FeaturedLink-AllSoftware"><span class="iconochive-software" aria-hidden="true"></span><span class="sr-only">software</span> All software</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/tosec" title="Old School Emulation" data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation">Old School Emulation</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games" data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames">MS-DOS Games</a>                                                          <a href="https://archive.org/details/historicalsoftware" title="Historical Software" data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware">Historical Software</a>                                                          <a href="https://archive.org/details/classicpcgames" title="Classic PC Games" data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames">Classic PC Games</a>                                                          <a href="https://archive.org/details/softwarelibrary" title="Software Library" data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary">Software Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File" data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile">Kodi Archive and Support File</a>                                                          <a href="https://archive.org/details/open_source_software" title="Community Software" data-event-click-tracking="TopNav|TopLink-CommunitySoftware">Community Software</a>                                                          <a href="https://archive.org/details/vintagesoftware" title="Vintage Software" data-event-click-tracking="TopNav|TopLink-VintageSoftware">Vintage Software</a>                                                          <a href="https://archive.org/details/apkarchive" title="APK" data-event-click-tracking="TopNav|TopLink-APK">APK</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS" data-event-click-tracking="TopNav|TopLink-MSDOS">MS-DOS</a>                                                          <a href="https://archive.org/details/cd-roms" title="CD-ROM Software" data-event-click-tracking="TopNav|TopLink-CDROMSoftware">CD-ROM Software</a>                                                          <a href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library" data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary">CD-ROM Software Library</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/softwaresites" title="Software Sites" data-event-click-tracking="TopNav|TopLink-SoftwareSites">Software Sites</a>                                                          <a href="https://archive.org/details/tucows" title="Tucows Software Library" data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary">Tucows Software Library</a>                                                          <a href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs" data-event-click-tracking="TopNav|TopLink-SharewareCDROMs">Shareware CD-ROMs</a>                                                          <a href="https://archive.org/details/cdromimages" title="CD-ROM Images" data-event-click-tracking="TopNav|TopLink-CDROMImages">CD-ROM Images</a>                                                          <a href="https://archive.org/details/softwarecapsules" title="Software Capsules Compilation" data-event-click-tracking="TopNav|TopLink-SoftwareCapsulesCompilation">Software Capsules Compilation</a>                                                          <a href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum" data-event-click-tracking="TopNav|TopLink-ZXSpectrum">ZX Spectrum</a>                                                          <a href="https://archive.org/details/doom-cds" title="DOOM Level CD" data-event-click-tracking="TopNav|TopLink-DOOMLevelCD">DOOM Level CD</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns image">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/image" data-event-click-tracking="TopNav|FeaturedLink-AllImage"><span class="iconochive-image" aria-hidden="true"></span><span class="sr-only">image</span> All images</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/flickrcommons" title="Flickr Commons" data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons">Flickr Commons</a>                                                          <a href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr" data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr">Occupy Wall Street Flickr</a>                                                          <a href="https://archive.org/details/coverartarchive" title="Cover Art" data-event-click-tracking="TopNav|FeaturedLink-CoverArt">Cover Art</a>                                                          <a href="https://archive.org/details/maps_usgs" title="USGS Maps" data-event-click-tracking="TopNav|FeaturedLink-USGSMaps">USGS Maps</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/nasa" data-event-click-tracking="TopNav|TopLink-NASAImages">NASA Images</a>                                                          <a href="https://archive.org/details/solarsystemcollection" data-event-click-tracking="TopNav|TopLink-SolarSystemCollection">Solar System Collection</a>                                                          <a href="https://archive.org/details/amesresearchcenterimagelibrary" data-event-click-tracking="TopNav|TopLink-AmesResearchCenter">Ames Research Center</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                  </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                          </div><!--/#nav-tophat-->
+    
+          </div><!--#navwrap1-->
+        </div><!--#navwrap2-->
+
+        
+    <script type="text/javascript">show_donation_banner();</script>
+      <div class="container">
+    <div class="row" style="margin-top: 30px">
+      <div class="col-md-4 col-sm-4 col-xs-4 text-right">
+	<div id="donation-link" class="web_message">
+  <a href="http://archive.org/donate/" data-event-click-tracking="Wayback|DonateButton" class="beta_button">DONATE</a>
+</div>
+
+      </div>
+      <div class="col-md-4 col-sm-4 col-xs-4 text-center">
+        <div id="logoHome">
+          <a href="/web/"><h1><span>Internet Archive's Wayback Machine</span></h1></a>
+        </div>
+      </div>
+    </div>
+    <div id="errorBorder">
+      <div id="positionHome">
+<div id="searchHome">
+	      <form name="form1" method="get" action="/web/submit">
+		<input type="text" name="url" value="https://www.oddee.com:80/recommendation.aspx?r=" size="40" onfocus="javascript:this.focus();this.select();">
+		<button type="submit" name="type" value="replay">Latest</button>
+		<button type="submit" name="type" value="urlquery">Show All</button>
+	      </form>
+	    </div>
+<div id="error">
+<h2>Hrm.</h2>
+<p>The Wayback Machine has not archived that URL.</p>
+    <div id="livewebInfo" class="unavailable">
+      <p>This page is not available on the web</p>
+      <p>because of server error</p>
+    </div>
+    <p>Click here to search for all archived pages under
+      <a href="https://web.archive.org/web/*/https://www.oddee.com:80/*">https://www.oddee.com:80/</a>.
+    </p>
+</div>
+	  </div>
+	</div>
+  </div>
+    <noscript>
+      <div class="no-script-message">
+        The Wayback Machine requires your browser to support JavaScript, please email <a href="mailto:info@archive.org">info@archive.org</a><br/>if you have any questions about this.
+      </div>
+    </noscript>
+    <footer>
+      <div id="footerHome">
+        <p>
+          The Wayback Machine is an initiative of the
+          <a href="//archive.org/">Internet Archive</a>,
+          a 501(c)(3) non-profit, building a digital library of
+          Internet sites and other cultural artifacts in digital form.
+          <br>Other <a href="//archive.org/projects/">projects</a> include
+          <a href="https://openlibrary.org/">Open Library</a> &amp;
+          <a href="https://archive-it.org">archive-it.org</a>.
+        </p>
+        <p>
+          Your use of the Wayback Machine is subject to the Internet Archive's
+          <a href="//archive.org/about/terms.php">Terms of Use</a>.
+        </p>
+      </div>
+    </footer>
+  
+</span>
+
+		<script language="JavaScript"><!--
+		getRecommendations();
+		//--></script>
+
+
+		
+<center>
+<!-- BEGIN RICH-MEDIA Burst Network CODE -->
+<script type="text/javascript" language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+ts=String.fromCharCode(60);
+if (window.self != window.top) {nf=''} else {nf='NF/'};
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad18128a.cgi/v=2.3S/sz=160x600A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad18128a.cgi/v=2.3S/sz=160x600A/55822/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad18128a-map.cgi/ns/v=2.3S/sz=160x600A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad18128a.cgi/ns/v=2.3S/sz=160x600A/" border="0" alt="Click Here" /></a>
+</noscript>
+<!-- END Burst Network CODE -->
+</center>
+
+
+		<table>
+			<tbody><tr><td height="15"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a213_min2.jpg"></td>
+				<td><a class="artd" href="item_96156.aspx">				
+				 20 Funniest Newspaper Headlines ever</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a103_min2.jpg"></td>
+				<td><a class="artd" href="item_89227.aspx">				
+				Only in Africa!</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a102_min2.jpg"></td>
+				<td><a class="artd" href="item_89219.aspx">				
+				 20 Worst Engrish ever</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a86_e9_min2.jpg"></td>
+				<td><a class="artd" href="item_87522.aspx">				
+				 12 Hilarious Tombstones</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a77_church1_min2.jpg"></td>
+				<td><a class="artd" href="item_86516.aspx">				
+				  15 Hilarious Church Signs</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a63_min2.jpg"></td>
+				<td><a class="artd" href="item_82923.aspx">				
+				 20 Most Amazing Coincidences</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a28_min2.jpg"></td>
+				<td><a class="artd" href="item_60193.aspx">				
+				10 Coolest Robots</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a219_min2.jpg"></td>
+				<td><a class="artd" href="item_96447.aspx">				
+				  15 Funniest Police Blotters</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a218_min2.jpg"></td>
+				<td><a class="artd" href="item_96446.aspx">				
+				 15 Ads that'll make you say WTF?!</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a114_min2.jpg"></td>
+				<td><a class="artd" href="item_90683.aspx">
+				10 Most Bizarre Scientific Papers</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a50_bhagat_min2.jpg"></td>
+				<td><a class="artd" href="item_65612.aspx">
+				10 Most Bizarre People on Earth</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a98_min2.jpg"></td>
+				<td><a class="artd" href="item_88742.aspx">
+				10 Most Amazing Extinct Animals</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a109_min2.jpg"></td>
+				<td><a class="artd" href="item_89792.aspx">
+				World's Most Amazing Islands</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a94_min2.jpg"></td>
+				<td><a class="artd" href="item_88437.aspx">
+				15 Stupidest Warning Labels</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a173_min2.jpg"></td>
+				<td><a class="artd" href="item_94046.aspx">				
+				 World's Most Creative Buildings</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a104_min2.jpg"></td>
+				<td><a class="artd" href="item_89236.aspx">
+				 World's Most Bizarre Statues</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a66_min2.jpg"></td>
+				<td><a class="artd" href="item_84847.aspx">
+				10 Weirdest Diseases</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a88_pizza_min2.jpg"></td>
+				<td><a class="artd" href="item_87778.aspx">
+				Bizarre Advertising around the World</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a95_min2.jpg"></td>
+				<td><a class="artd" href="item_88495.aspx">
+				10 Most Bizarre (but REAL!) Personal Ads ever</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a108_min2.jpg"></td>
+				<td><a class="artd" href="item_89460.aspx">
+				Papercut Sculptures from single sheets of A4</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a99_min2.jpg"></td>
+				<td><a class="artd" href="item_88803.aspx">				
+				20 Ugliest Celebrities</a></td>
+			</tr>
+			<tr><td height="8"></td></tr>
+			<tr>
+				<td><img width="50" src="/_media/imgs/articles/a84_a1_min2.jpg"></td>
+				<td><a class="artd" href="item_87332.aspx">
+				15 Unfortunately Placed Ads</a></td>
+			</tr>
+		</tbody></table>
+
 
 
 		<center>
-
-                
 
 		<br><br>
 
@@ -138,7 +758,6 @@ window.adengage_hide_desc = 0;
 		<a href="http://www.CollegeHumor.com">CollegeHumor</a><br>
 		<a href="http://www.ebaumsworld.com">EBaumsWorld</a><br>
 		<a href="http://www.i-am-bored.com">I-am-bored</a><br>
-		<a href="http://www.Fark.com">Fark</a><br>
 		<a href="http://www.GorillaMask.net">GorillaMask</a><br>
 		<a href="http://www.Entensity.net">Entensity</a><br>
 		<a href="http://www.LinkSwarm.com">LinkSwarm</a><br>
@@ -150,26 +769,29 @@ window.adengage_hide_desc = 0;
 		<a href="http://www.darkroastedblend.com/">Dark roasted blend</a><br>
 		<a href="http://www.dumptrumpet.com">Dump Trumpet</a><br>
 		<a href="http://www.afrojacks.com">AfroJacks</a><br>
-
-
-
-		<br><br>
-
-		<script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/a?url=oddee.com" rel="nofollow"></script><br>
+		<a href="http://www.Uphaa.com">Uphaa</a><br>
 
 		<br>
 
-		<a href="http://topsites.blogflux.com/humor/"><img style="border:none;" src="http://topsites.blogflux.com/track_121176.gif" alt="Humor Blogs - Blog Top Sites"></a>
+                
 
+
+		<script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/a?url=oddee.com" rel="nofollow"></script><br>
+		<br>
+		<a href="http://topsites.blogflux.com/humor/"><img style="border:none;" src="http://topsites.blogflux.com/track_121176.gif" alt="Humor Blogs - Blog Top Sites"></a>
+		<br><br>
+		<a href="privacy.aspx">Privacy Policy</a>
 		<br><br>
 
-		<a href="privacy.aspx">Privacy Policy</a>
+		<a href="http://www.pcmag.com/article2/0,2817,2327435,00.asp"><img src="/_media/imgs/oddee/PCMag.gif" border="0"></a><br>
+		Oddee.com makes PC Magazine's Top 100 Web Sites of 2008!
 
 		</center>
 
 	    </td>
 	    <td width="2%"></td>
             <td width="52%" bgcolor="#ffffff" valign="top">
+
 
 		
 
@@ -198,445 +820,660 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 	
 
-		<!---
-		<BR><BR>
-		<center><a href="http://www.downloadorama.com/item_1.aspx"><img src="/_Media/imgs/downloadorama/ad1.gif" border="0"></a></center>
-		<br><br>
-		-->
-
 
 	    </td>
 	    <td width="2%"></td>
 	    <td width="22%" bgcolor="#f5f5f5" valign="top" style="border-left:1px solid #cccccc; padding-left:30px; padding-right:15px; background-image:url('/_media/imgs/oddee/shadow2.gif') ; background-position: top left; ">
 
-
-		<form style="text-align:center" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1010610', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-		<br><img src="/_biblioteca/graficos/estilowin/iconos/pequenos/HipervinculoEmail.gif" align="absmiddle"> <b>Subscribe by E-mail</b>:<br><input type="text" style="width:140px" onfocus="if (this.value=='Your E-mail') { this.value='' }" value="Your E-mail" name="email"><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=1010610" name="url"><input type="hidden" value="Oddee" name="title"><input type="hidden" name="loc" value="en_US"><input type="submit" value="Go"><br><small>(Delivered by <a href="http://www.feedburner.com" target="_blank">FeedBurner</a>)</small>
-		<br><br>
-		<a href="http://feeds.feedburner.com/Oddee"><img src="http://feeds.feedburner.com/~fc/Oddee?bg=FF9900&amp;fg=000000&amp;anim=0" height="26" width="88" style="border:0" alt=""></a>
+		<form action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1010610', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+		<br><img src="/_biblioteca/graficos/estilowin/iconos/pequenos/HipervinculoEmail.gif" align="absmiddle"> <b>Subscribe by E-mail</b>:<br><input type="text" style="width:100px" onfocus="if (this.value=='Your E-mail') { this.value='' }" value="Your E-mail" name="email"><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=1010610" name="url"><input type="hidden" value="Oddee" name="title"><input type="hidden" name="loc" value="en_US"><input type="submit" value="Go"><br><small style="line-height:14px">(Delivered by <a href="http://www.feedburner.com" target="_blank">FeedBurner</a>)<br></small>
 		</form>
+		
+		<b>Subscribe by RSS</b>:<br>
+		<a href="http://feeds.feedburner.com/Oddee"><img src="http://feeds.feedburner.com/~fc/Oddee?bg=FF9900&amp;fg=000000&amp;anim=0" height="26" width="88" style="border:0" alt=""></a>
+
+		<table>
+			<tbody><tr><td height="12"></td></tr>
+			<tr><td><b>Categories:</b></td></tr>
+			<tr><td><a class="artd" href="default_0_85_datetime.aspx">Art</a> |     <a class="artd" href="default_0_86_datetime.aspx">Advertising</a> | <a class="artd" href="default_0_89_datetime.aspx">Signs</a></td></tr>
+			<tr><td><a class="artd" href="default_0_87_datetime.aspx">Places</a> |  <a class="artd" href="default_0_88_datetime.aspx">Names</a> | <a class="artd" href="default_0_93_datetime.aspx">Objects</a></td></tr>
+			<tr><td><a class="artd" href="default_0_90_datetime.aspx">Science</a> | <a class="artd" href="default_0_91_datetime.aspx">Tech</a>  | <a class="artd" href="default_0_92_datetime.aspx">Medicine</a></td></tr>
+			<tr><td><a class="artd" href="default_0_82_datetime.aspx">Misc</a></td></tr>
+		</tbody></table>
 
 
 		<table>
-			<tbody><tr><td colspan="2"><b>Oddee's Classics:</b></td></tr>
-			<tr><td height="4"></td></tr>
-
-			
-
-
-			<tr>
-				<td><img width="50" src="/_media/imgs/articles/a50_bhagat_min2.jpg"></td>
-				<td><a class="artd" href="item_65612.aspx">10 Most Bizarre People on Earth</a></td>
-			</tr>
-			<tr><td height="8"></td></tr>
-			<tr>
-				<td><img width="50" src="/_media/imgs/articles/a98_min2.jpg"></td>
-				<td><a class="artd" href="item_88742.aspx">
-				10 Most Amazing Extinct Animals</a></td>
-			</tr>
-			<tr><td height="8"></td></tr>
-			<tr>
-				<td><img width="50" src="/_media/imgs/articles/a88_pizza_min2.jpg"></td>
-				<td><a class="artd" href="item_87778.aspx">
-				Bizarre Advertising around the World</a></td>
-
-			</tr>
-			<tr><td height="8"></td></tr>
-			<tr>
-				<td><img width="50" src="/_media/imgs/articles/a95_min2.jpg"></td>
-				<td><a class="artd" href="item_88495.aspx">
-				10 Most Bizarre (but REAL!) Personal Ads ever</a></td>
-			</tr>
-			<tr><td height="8"></td></tr>
-
-			
-
-
-
-
-			<tr>
-				<td><img width="50" src="/_media/imgs/articles/a84_a1_min2.jpg"></td>
-				<td><a class="artd" href="item_87332.aspx">
-				15 Unfortunately Placed Ads</a></td>
-			</tr>
-			<tr><td height="15"></td></tr>
+			<tbody><tr><td height="10"></td></tr>
 			<tr><td colspan="2"><b>New at Oddee:</b></td></tr>
 			<tr><td height="4"></td></tr>
+
         	        		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a212_min2.jpg"></td>
-		<td><a class="artd" href="item_96038.aspx">
-		20 Most Bizarre Mugshots ever</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a295_min2.jpg" alt="10 Crazy Old Christmas Ads (Vintage Christmas Ads)"></td>
+		<td><a class="artd" href="item_96522.aspx" title="10 Crazy Old Christmas Ads (Vintage Christmas Ads)">
+		10 Crazy Old Christmas Ads</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a211_min2.jpg"></td>
-		<td><a class="artd" href="item_95996.aspx">
-		12 Most Awesome Pieces of Food Art</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a294_min2.jpg" alt="10 Fascinating Albino Animals (Albino Animals)"></td>
+		<td><a class="artd" href="item_96521.aspx" title="10 Fascinating Albino Animals (Albino Animals)">
+		10 Fascinating Albino Animals</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a210_min2.jpg"></td>
-		<td><a class="artd" href="item_95868.aspx">
-		12 Funniest Fortune Cookies ever</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a293_min2.jpg" alt="15 Most Impressive Cakes (Incredible Cakes, Awesome Cakes)"></td>
+		<td><a class="artd" href="item_96520.aspx" title="15 Most Impressive Cakes (Incredible Cakes, Awesome Cakes)">
+		15 Most Impressive Cakes</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a209_min2.jpg"></td>
-		<td><a class="artd" href="item_95867.aspx">
-		World's Strangest Furniture</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a292_min2.jpg" alt="7 Most Breathtaking Views of Bolivia (Photos Bolivia, Views of Bolivia, Places in Bolivia)"></td>
+		<td><a class="artd" href="item_96519.aspx" title="7 Most Breathtaking Views of Bolivia (Photos Bolivia, Views of Bolivia, Places in Bolivia)">
+		7 Most Breathtaking Views of Bolivia</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a208_min2.jpg"></td>
-		<td><a class="artd" href="item_95814.aspx">
-		7 Coolest Beer Gadgets</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a290_min2.jpg" alt="10 Geekiest Graffiti (nerd grafitti, geek graffiti)"></td>
+		<td><a class="artd" href="item_96517.aspx" title="10 Geekiest Graffiti (nerd grafitti, geek graffiti)">
+		10 Geekiest Graffiti</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a207_min2.jpg"></td>
-		<td><a class="artd" href="item_95679.aspx">
-		Origami: 15 Most Amazing Paper Sculptures</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a291_min2.jpg" alt="Another 12 Hilarious Tombstones (Funny Tombstones, Funny Headstones)"></td>
+		<td><a class="artd" href="item_96518.aspx" title="Another 12 Hilarious Tombstones (Funny Tombstones, Funny Headstones)">
+		Another 12 Hilarious Tombstones</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a206_min2.jpg"></td>
-		<td><a class="artd" href="item_95629.aspx">
-		7 Unbelievable Lottery Stories</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a289_min2.jpg" alt="10 Most Bizarre Phobias (weird phobias, strange phobias)"></td>
+		<td><a class="artd" href="item_96516.aspx" title="10 Most Bizarre Phobias (weird phobias, strange phobias)">
+		10 Most Bizarre Phobias</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a205_min2.jpg"></td>
-		<td><a class="artd" href="item_95628.aspx">
-		15 Strangely Shaped Trees</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a288_min2.jpg" alt="Only in Japan! (Japan Funny Photos)"></td>
+		<td><a class="artd" href="item_96515.aspx" title="Only in Japan! (Japan Funny Photos)">
+		Only in Japan!</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a204_min2.jpg"></td>
-		<td><a class="artd" href="item_95416.aspx">
-		Still-Life Levitation by Johan Lorbeer</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a287_min2.jpg" alt="Help Wanted: Irresistible Job Offers (Funny Job Offers, Help Wanted)"></td>
+		<td><a class="artd" href="item_96514.aspx" title="Help Wanted: Irresistible Job Offers (Funny Job Offers, Help Wanted)">
+		Help Wanted: Irresistible Job Offers</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a203_min2.jpg"></td>
-		<td><a class="artd" href="item_95415.aspx">
-		10 Greatest Office Pranks</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a286_min2.jpg" alt="Pimp My Rice: Greatest Crop Circles (Crop Circles, Crop Art)"></td>
+		<td><a class="artd" href="item_96513.aspx" title="Pimp My Rice: Greatest Crop Circles (Crop Circles, Crop Art)">
+		Pimp My Rice: Greatest Crop Circles</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a202_min2.jpg"></td>
-		<td><a class="artd" href="item_95373.aspx">
-		Unexpectedly Funny Shopping Bags</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a285_min2.jpg" alt="11 Weirdest Dresses (Strange Dresses, Weird Dress, Bizarre dresses)"></td>
+		<td><a class="artd" href="item_96512.aspx" title="11 Weirdest Dresses (Strange Dresses, Weird Dress, Bizarre dresses)">
+		11 Weirdest Dresses</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a201_min2.jpg"></td>
-		<td><a class="artd" href="item_95300.aspx">
-		10 Cleverly Suggestive Ads</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a284_min2.jpg" alt="World's Firsts ()"></td>
+		<td><a class="artd" href="item_96511.aspx" title="World's Firsts ()">
+		World's Firsts</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a200_min2.jpg"></td>
-		<td><a class="artd" href="item_95203.aspx">
-		10 Most Bizarre Wedding Rings</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a283_min2.jpg" alt="15 Most Incredible Face Paintings ()"></td>
+		<td><a class="artd" href="item_96510.aspx" title="15 Most Incredible Face Paintings ()">
+		15 Most Incredible Face Paintings</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a195_min2.jpg"></td>
-		<td><a class="artd" href="item_95202.aspx">
-		10 Funniest Typos ever</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a282_min2.jpg" alt="15 Misspelled Signs ()"></td>
+		<td><a class="artd" href="item_96509.aspx" title="15 Misspelled Signs ()">
+		15 Misspelled Signs</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a199_min2.jpg"></td>
-		<td><a class="artd" href="item_95201.aspx">
-		10 Most Creative Business Cards</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a281_min2.jpg" alt="World's Smallest Musical Instruments ()"></td>
+		<td><a class="artd" href="item_96508.aspx" title="World's Smallest Musical Instruments ()">
+		World's Smallest Musical Instruments</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a198_min2.jpg"></td>
-		<td><a class="artd" href="item_95064.aspx">
-		World's Ugliest Dog</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a269_min2.jpg" alt="10 Fascinating Art Installations ()"></td>
+		<td><a class="artd" href="item_96507.aspx" title="10 Fascinating Art Installations ()">
+		10 Fascinating Art Installations</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a197_min2.jpg"></td>
-		<td><a class="artd" href="item_95063.aspx">
-		Ron Mueck's Incredible Human Sculptures</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a279_min2.jpg" alt="10 Most Unique Churches ()"></td>
+		<td><a class="artd" href="item_96506.aspx" title="10 Most Unique Churches ()">
+		10 Most Unique Churches</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a196_min2.jpg"></td>
-		<td><a class="artd" href="item_95062.aspx">
-		Tennis anyone? Sky is the limit</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a275_min2.jpg" alt="6 Most Amazing Street Performers ()"></td>
+		<td><a class="artd" href="item_96505.aspx" title="6 Most Amazing Street Performers ()">
+		6 Most Amazing Street Performers</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a194_min2.jpg"></td>
-		<td><a class="artd" href="item_95061.aspx">
-		Black and White Twins</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a278_min2.jpg" alt="10 Misspelled Tattoos ()"></td>
+		<td><a class="artd" href="item_96504.aspx" title="10 Misspelled Tattoos ()">
+		10 Misspelled Tattoos</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a193_min2.jpg"></td>
-		<td><a class="artd" href="item_95060.aspx">
-		Suicidal Bear Reconsiders</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a277_min2.jpg" alt="The Greatest Bird Spectacle on Earth (Bird Spectacle, Nakuru Lake, Kenya)"></td>
+		<td><a class="artd" href="item_96503.aspx" title="The Greatest Bird Spectacle on Earth (Bird Spectacle, Nakuru Lake, Kenya)">
+		The Greatest Bird Spectacle on Earth</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a191_min2.jpg"></td>
-		<td><a class="artd" href="item_95058.aspx">
-		Bizarre Illegal Immigration techniques</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a276_min2.jpg" alt="15 Most Offensive, Banned and Rejected Ads (Banned Ads, Offensive Ads, Rejected Ads, Funny Ads)"></td>
+		<td><a class="artd" href="item_96502.aspx" title="15 Most Offensive, Banned and Rejected Ads (Banned Ads, Offensive Ads, Rejected Ads, Funny Ads)">
+		15 Most Offensive, Banned and Rejected Ads</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a190_min2.jpg"></td>
-		<td><a class="artd" href="item_95057.aspx">
-		Smallest Works of Art on Earth</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a274_min2.jpg" alt="10 Most Unique Lakes of our World (Largest Lakes, Beautiful Lakes, Plitvice Lakes, Boiling Lake, Red Lagoon, Five-Flower Lake, Dead Sea, Lake Baikal, Lake Titicaca, Caspian Sea, Crater Lake, Lake Karachay)"></td>
+		<td><a class="artd" href="item_96501.aspx" title="10 Most Unique Lakes of our World (Largest Lakes, Beautiful Lakes, Plitvice Lakes, Boiling Lake, Red Lagoon, Five-Flower Lake, Dead Sea, Lake Baikal, Lake Titicaca, Caspian Sea, Crater Lake, Lake Karachay)">
+		10 Most Unique Lakes of our World</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a189_min2.jpg"></td>
-		<td><a class="artd" href="item_95004.aspx">
-		Arthur Mole's Extraordinary Mass Photography</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a273_min2.jpg" alt="Bolivia's Witches' Market: Llama Foetuses and Dried Armadillos (Witches Market, Witch Market, Bolivia Witch Market)"></td>
+		<td><a class="artd" href="item_96500.aspx" title="Bolivia's Witches' Market: Llama Foetuses and Dried Armadillos (Witches Market, Witch Market, Bolivia Witch Market)">
+		Bolivia's Witches' Market: Llama Foetuses and Dried Armadillos</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a188_min2.jpg"></td>
-		<td><a class="artd" href="item_94909.aspx">
-		Please ignore our other... um... crashed  airliner</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a272_min2.jpg" alt="15 Weirdest Shoes (Weird Shoes, Weirdest Shoes, Strange Shoes, Bizarre Shoes, Funny Shoes, Cool Shoes)"></td>
+		<td><a class="artd" href="item_96499.aspx" title="15 Weirdest Shoes (Weird Shoes, Weirdest Shoes, Strange Shoes, Bizarre Shoes, Funny Shoes, Cool Shoes)">
+		15 Weirdest Shoes</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a187_min2.jpg"></td>
-		<td><a class="artd" href="item_94908.aspx">
-		Now that must be a one happy groom...</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a271_min2.jpg" alt="10 Cocaine and other Drug Products of the Past (Cocaine Products, Old drug products)"></td>
+		<td><a class="artd" href="item_96498.aspx" title="10 Cocaine and other Drug Products of the Past (Cocaine Products, Old drug products)">
+		10 Cocaine and other Drug Products of the Past</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a186_min2.jpg"></td>
-		<td><a class="artd" href="item_94907.aspx">
-		World's Drunkest House: 70,000 Beer Cans</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a270_min2.jpg" alt="15 Creepiest Old Album Covers (Worst Album Covers, Bad Album Covers, Awful Album Covers, Creppy Album Covers, Old Album Covers)"></td>
+		<td><a class="artd" href="item_96497.aspx" title="15 Creepiest Old Album Covers (Worst Album Covers, Bad Album Covers, Awful Album Covers, Creppy Album Covers, Old Album Covers)">
+		15 Creepiest Old Album Covers</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a185_min2.jpg"></td>
-		<td><a class="artd" href="item_94906.aspx">
-		Saving space in your fridge: Square Watermelons!</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a267_min2.jpg" alt="World's Wackiest Addictions (Weird Addictions, Strange Addictions, Bizarre Addictions, Wacky Addictions, CrackBerry, Tanorexia, Addiction to Cosmetic Surgery, Pagophagia, Addiction to Funerals, Geophagy, Teeth Whitening Addiction)"></td>
+		<td><a class="artd" href="item_96496.aspx" title="World's Wackiest Addictions (Weird Addictions, Strange Addictions, Bizarre Addictions, Wacky Addictions, CrackBerry, Tanorexia, Addiction to Cosmetic Surgery, Pagophagia, Addiction to Funerals, Geophagy, Teeth Whitening Addiction)">
+		World's Wackiest Addictions</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a184_min2.jpg"></td>
-		<td><a class="artd" href="item_94900.aspx">
-		10 Incredible Old Magazine Covers</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a268_min2.jpg" alt="Paris Then and Now: 1900 - 2008 (Paris 1900, Paris Old Photos, Paris Old Pictures)"></td>
+		<td><a class="artd" href="item_96495.aspx" title="Paris Then and Now: 1900 - 2008 (Paris 1900, Paris Old Photos, Paris Old Pictures)">
+		Paris Then and Now: 1900 - 2008</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a174_min2.jpg"></td>
-		<td><a class="artd" href="item_94349.aspx">
-		7 Most Amazing Caves of our World</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a265_min2.jpg" alt="12 Crazy Old Videogame Ads (Videogame ads, Old Videogame Ads)"></td>
+		<td><a class="artd" href="item_96493.aspx" title="12 Crazy Old Videogame Ads (Videogame ads, Old Videogame Ads)">
+		12 Crazy Old Videogame Ads</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a173_min2.jpg"></td>
-		<td><a class="artd" href="item_94046.aspx">
-		World's Most Creative Buildings</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a266_min2.jpg" alt="10 Amazing Contemporary Sculptures (Contemporary Sculptures, Modern sculptures)"></td>
+		<td><a class="artd" href="item_96494.aspx" title="10 Amazing Contemporary Sculptures (Contemporary Sculptures, Modern sculptures)">
+		10 Amazing Contemporary Sculptures</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a172_min2.jpg"></td>
-		<td><a class="artd" href="item_93915.aspx">
-		20 Most Fascinating Prehistoric Paintings</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a263_min2.jpg" alt="20 Most Awesome Pumpkin Carvings (Pumpkin Carvings, scary pumpkin stencils, painted pumpkin ideas, drawing pumpkin faces, pumpkin faces, cool pumpkin carvings, funny pumpkin designs, scary faces of pumpkins, painting pumpkin faces, pumpkin carving)"></td>
+		<td><a class="artd" href="item_96491.aspx" title="20 Most Awesome Pumpkin Carvings (Pumpkin Carvings, scary pumpkin stencils, painted pumpkin ideas, drawing pumpkin faces, pumpkin faces, cool pumpkin carvings, funny pumpkin designs, scary faces of pumpkins, painting pumpkin faces, pumpkin carving)">
+		20 Most Awesome Pumpkin Carvings</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a164_min2.jpg"></td>
-		<td><a class="artd" href="item_93761.aspx">
-		Medical Craziness: Extreme Babies</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a264_min2.jpg" alt="10 of the World's Smallest Animals (Smallest Animals, Smallest Dog, Smallest Cat, Small Animals, Smallest Fish, Smallest Horse, Smallest Lizard)"></td>
+		<td><a class="artd" href="item_96492.aspx" title="10 of the World's Smallest Animals (Smallest Animals, Smallest Dog, Smallest Cat, Small Animals, Smallest Fish, Smallest Horse, Smallest Lizard)">
+		10 of the World's Smallest Animals</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a167_min2.jpg"></td>
-		<td><a class="artd" href="item_93581.aspx">
-		Breathtaking Monasteries Around the World</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a262_min2.jpg" alt="10 Most Breathtaking Fountains in the World (Fountains, Trevi Fountain, Water Fountains, outdoor fountains, Fountain of Wealth, Bellagio Fountains, Magic Fountain of Montjuic, Volcano Fountain, Big Wild Goose Pagoda Fountains, People’s Friendship Fountain, Trevi Fountai)"></td>
+		<td><a class="artd" href="item_96490.aspx" title="10 Most Breathtaking Fountains in the World (Fountains, Trevi Fountain, Water Fountains, outdoor fountains, Fountain of Wealth, Bellagio Fountains, Magic Fountain of Montjuic, Volcano Fountain, Big Wild Goose Pagoda Fountains, People’s Friendship Fountain, Trevi Fountai)">
+		10 Most Breathtaking Fountains in the World</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a162_min2.jpg"></td>
-		<td><a class="artd" href="item_93544.aspx">
-		10 Most Unfortunate Car Names</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a261_min2.jpg" alt="10 Most Amazing Bridges (Bridges, Amazing Bridges, different types of bridges, bridge designs, Coolest Bridges, Beautiful Bridges, Banpo Bridge, Millau Bridge, Henderson Waves, Hangzhou Bay Bridge, Rolling Bridge, Oliveira Bridge, Wind and Rain Bridg)"></td>
+		<td><a class="artd" href="item_96489.aspx" title="10 Most Amazing Bridges (Bridges, Amazing Bridges, different types of bridges, bridge designs, Coolest Bridges, Beautiful Bridges, Banpo Bridge, Millau Bridge, Henderson Waves, Hangzhou Bay Bridge, Rolling Bridge, Oliveira Bridge, Wind and Rain Bridg)">
+		10 Most Amazing Bridges</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a161_min2.jpg"></td>
-		<td><a class="artd" href="item_93109.aspx">
-		World's Most Dangerous Airports</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a260_min2.jpg" alt="10 People with Unbelievable Talents (Talented People, gifted and talented, talents, move objects with mind, psycho kinesis, Flatulist, Flatulism, Pop eyes, Mr Methane, Tu Jin-Sheng, Miroslaw Magola, Manjit Singh, Michel Lotito,)"></td>
+		<td><a class="artd" href="item_96488.aspx" title="10 People with Unbelievable Talents (Talented People, gifted and talented, talents, move objects with mind, psycho kinesis, Flatulist, Flatulism, Pop eyes, Mr Methane, Tu Jin-Sheng, Miroslaw Magola, Manjit Singh, Michel Lotito,)">
+		10 People with Unbelievable Talents</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a153_min2.jpg"></td>
-		<td><a class="artd" href="item_92692.aspx">
-		7 Most Beautiful Oases</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a259_min2.jpg" alt="10 People Who Survived the Impossible (Survivors, Survived, Struck by Lightning, Andes Crash, Survive the Sahara, Vesna Vulovic, Frane Selak, Andes Survivors, Bugorski, Joe Simpson, Roy Sullivan, Truman Duncan, Aron Ralston, Mauro Prosperi)"></td>
+		<td><a class="artd" href="item_96487.aspx" title="10 People Who Survived the Impossible (Survivors, Survived, Struck by Lightning, Andes Crash, Survive the Sahara, Vesna Vulovic, Frane Selak, Andes Survivors, Bugorski, Joe Simpson, Roy Sullivan, Truman Duncan, Aron Ralston, Mauro Prosperi)">
+		10 People Who Survived the Impossible</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a150_min2.jpg"></td>
-		<td><a class="artd" href="item_92625.aspx">
-		12 Crazy Old Ads</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a257_min2.jpg" alt="10 Manliest Ways to Die (Ways to die, Manliest deaths)"></td>
+		<td><a class="artd" href="item_96485.aspx" title="10 Manliest Ways to Die (Ways to die, Manliest deaths)">
+		10 Manliest Ways to Die</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a146_min2.jpg"></td>
-		<td><a class="artd" href="item_92594.aspx">
-		15 Craziest Personal Names</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a258_min2.jpg" alt="15 Most Creative Bus Ads (Funny Bus Ads, Cool bus ads, Funny Bus advertising)"></td>
+		<td><a class="artd" href="item_96486.aspx" title="15 Most Creative Bus Ads (Funny Bus Ads, Cool bus ads, Funny Bus advertising)">
+		15 Most Creative Bus Ads</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a144_min2.jpg"></td>
-		<td><a class="artd" href="item_92488.aspx">
-		9 Coolest Aquariums</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a256_min2.jpg" alt="Top 10 Mad Scientists in History (Mad Scientists, Evil Scientists, Crazy Scientists, Mad Scientist, Weird Scientists, Strange Scientists, Corpse Electrocutioner, Two-Headed Dog, First Human Cyborg, Dog Decapitator, Sensory Deprivation, Demikhov, Ffirth, Menge)"></td>
+		<td><a class="artd" href="item_96484.aspx" title="Top 10 Mad Scientists in History (Mad Scientists, Evil Scientists, Crazy Scientists, Mad Scientist, Weird Scientists, Strange Scientists, Corpse Electrocutioner, Two-Headed Dog, First Human Cyborg, Dog Decapitator, Sensory Deprivation, Demikhov, Ffirth, Menge)">
+		Top 10 Mad Scientists in History</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a141_min2.jpg"></td>
-		<td><a class="artd" href="item_92285.aspx">
-		7 Craziest Conspiracy Theories</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a255_min2.jpg" alt="15 Most Unfortunate T-shirts for a Mugshot (T-shirt Mugshot, Mugshots, Funny Mugshot T-shirts, Funny Mugshot)"></td>
+		<td><a class="artd" href="item_96483.aspx" title="15 Most Unfortunate T-shirts for a Mugshot (T-shirt Mugshot, Mugshots, Funny Mugshot T-shirts, Funny Mugshot)">
+		15 Most Unfortunate T-shirts for a Mugshot</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a136_min2.jpg"></td>
-		<td><a class="artd" href="item_92016.aspx">
-		10 Most Shocking things found In people's stomachs</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a254_min2.jpg" alt="World's Most Incredible Animal Prosthetics (Animal Prosthetics, Animal Prostheses, Prosthetic animals, Tonka the Turtle, Molly the Pony, Motala the elephant, Fuji the Dolphin, Uzonka the Stork, Stumpy the kangaroo,)"></td>
+		<td><a class="artd" href="item_96482.aspx" title="World's Most Incredible Animal Prosthetics (Animal Prosthetics, Animal Prostheses, Prosthetic animals, Tonka the Turtle, Molly the Pony, Motala the elephant, Fuji the Dolphin, Uzonka the Stork, Stumpy the kangaroo,)">
+		World's Most Incredible Animal Prosthetics</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
 		
 
 	<tr>
-		<td><img width="50" src="/_media/imgs/articles/a135_min2.jpg"></td>
-		<td><a class="artd" href="item_92015.aspx">
-		Unfortunate Bodies: 7 Unbelievable Genetic Accidents</a></td>
+		<td><img width="50" src="/_media/imgs/articles/a253_min2.jpg" alt="Cool Bus Stops around the World (Cool Bus Stops, Bizarre Bus Stops, Funny Bus Stops, Strange Bus Stops)"></td>
+		<td><a class="artd" href="item_96481.aspx" title="Cool Bus Stops around the World (Cool Bus Stops, Bizarre Bus Stops, Funny Bus Stops, Strange Bus Stops)">
+		Cool Bus Stops around the World</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a252_min2.jpg" alt="10 Funniest Law-Firm Names (Funniest Company Names, Funny Law-Firm company names)"></td>
+		<td><a class="artd" href="item_96480.aspx" title="10 Funniest Law-Firm Names (Funniest Company Names, Funny Law-Firm company names)">
+		10 Funniest Law-Firm Names</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a251_min2.jpg" alt="15 Most Insanely Titled Books (Funny Titled Books, Funny Book Titles, How to Shit in the Woods, In People Who Don't Know They're Dead, How to Avoid Big Ships, History of Lesbian Hair, Bombproof your horse, Reusing old graves)"></td>
+		<td><a class="artd" href="item_96479.aspx" title="15 Most Insanely Titled Books (Funny Titled Books, Funny Book Titles, How to Shit in the Woods, In People Who Don't Know They're Dead, How to Avoid Big Ships, History of Lesbian Hair, Bombproof your horse, Reusing old graves)">
+		15 Most Insanely Titled Books</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a248_min2.jpg" alt="World's Most Bizarre Magazines (Strange Magazines, Funny Mags, Weird Magazines, Girls and Corpses, Miniature Donkey, Modern Drunkard, A Bear's Life, Sheep, OMFG magazine)"></td>
+		<td><a class="artd" href="item_96476.aspx" title="World's Most Bizarre Magazines (Strange Magazines, Funny Mags, Weird Magazines, Girls and Corpses, Miniature Donkey, Modern Drunkard, A Bear's Life, Sheep, OMFG magazine)">
+		World's Most Bizarre Magazines</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a247_min2.jpg" alt="Bizarre Celebrity Merchandise (celebrity merchandise, kiss kasket)"></td>
+		<td><a class="artd" href="item_96475.aspx" title="Bizarre Celebrity Merchandise (celebrity merchandise, kiss kasket)">
+		Bizarre Celebrity Merchandise</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a249_min2.jpg" alt="Only in Russia (Only in Russia, Funny Russia, Bizarre Russian Photos)"></td>
+		<td><a class="artd" href="item_96477.aspx" title="Only in Russia (Only in Russia, Funny Russia, Bizarre Russian Photos)">
+		Only in Russia</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a237_min2.jpg" alt="Unfortunate World Trade Center Old Ads (World Trade Center Ads)"></td>
+		<td><a class="artd" href="item_96465.aspx" title="Unfortunate World Trade Center Old Ads (World Trade Center Ads)">
+		Unfortunate World Trade Center Old Ads</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a244_min2.jpg" alt="World's Wackiest Coffins (funny coffins, weird coffins, strange coffins, wacky coffins)"></td>
+		<td><a class="artd" href="item_96472.aspx" title="World's Wackiest Coffins (funny coffins, weird coffins, strange coffins, wacky coffins)">
+		World's Wackiest Coffins</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a250_min2.jpg" alt="10 Greatest Office Pranks... reloaded! (funny office pranks, coolest pranks)"></td>
+		<td><a class="artd" href="item_96478.aspx" title="10 Greatest Office Pranks... reloaded! (funny office pranks, coolest pranks)">
+		10 Greatest Office Pranks... reloaded!</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a246_min2.jpg" alt="World's Geekiest Weddings (Geek wedding, Geekiest weddings, Geek weddings, Robot Wedding)"></td>
+		<td><a class="artd" href="item_96474.aspx" title="World's Geekiest Weddings (Geek wedding, Geekiest weddings, Geek weddings, Robot Wedding)">
+		World's Geekiest Weddings</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a241_min2.jpg" alt="10 Homes that Defy Gravity (Defy Gravity)"></td>
+		<td><a class="artd" href="item_96469.aspx" title="10 Homes that Defy Gravity (Defy Gravity)">
+		10 Homes that Defy Gravity</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a239_min2.jpg" alt="10 Manliest Guitars ever (Cool Guitars)"></td>
+		<td><a class="artd" href="item_96467.aspx" title="10 Manliest Guitars ever (Cool Guitars)">
+		10 Manliest Guitars ever</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a240_min2.jpg" alt="Bizarre Dispensers you don't see everyday (Dispensers, Funny Dispensers, Weird Dispensers, Bizarre Dispensers)"></td>
+		<td><a class="artd" href="item_96468.aspx" title="Bizarre Dispensers you don't see everyday (Dispensers, Funny Dispensers, Weird Dispensers, Bizarre Dispensers)">
+		Bizarre Dispensers you don't see everyday</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a236_min2.jpg" alt="World's Worthless Money ()"></td>
+		<td><a class="artd" href="item_96464.aspx" title="World's Worthless Money ()">
+		World's Worthless Money</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a243_min2.jpg" alt="Only in India! (Only in India, Funny Photos of India)"></td>
+		<td><a class="artd" href="item_96471.aspx" title="Only in India! (Only in India, Funny Photos of India)">
+		Only in India!</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a245_min2.jpg" alt="10 People with Unbelievable Medical Conditions (medical conditions, medical diseases)"></td>
+		<td><a class="artd" href="item_96473.aspx" title="10 People with Unbelievable Medical Conditions (medical conditions, medical diseases)">
+		10 People with Unbelievable Medical Conditions</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a242_min2.jpg" alt="10 Most Awesome Tree Houses (Tree Houses of the World, Cool Tree Houses, Pictures of Tree Houses)"></td>
+		<td><a class="artd" href="item_96470.aspx" title="10 Most Awesome Tree Houses (Tree Houses of the World, Cool Tree Houses, Pictures of Tree Houses)">
+		10 Most Awesome Tree Houses</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a238_min2.jpg" alt="10 Most Bizarre Monuments (Funny Monuments, Strange Monuments, Bizarre Monuments, Weird Monuments)"></td>
+		<td><a class="artd" href="item_96466.aspx" title="10 Most Bizarre Monuments (Funny Monuments, Strange Monuments, Bizarre Monuments, Weird Monuments)">
+		10 Most Bizarre Monuments</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a235_min2.jpg" alt="10 Most Bizarre Restaurants ()"></td>
+		<td><a class="artd" href="item_96463.aspx" title="10 Most Bizarre Restaurants ()">
+		10 Most Bizarre Restaurants</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a227_min2.jpg" alt="Worst " before="" and="" after"="" pics="" ever="" ()"=""></td>
+		<td><a class="artd" href="item_96458.aspx" title="Worst " before="" and="" after"="" pics="" ever="" ()"="">
+		Worst "Before and After" pics ever</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a170_min2.jpg" alt="10 Most Amazing Ghost Towns ()"></td>
+		<td><a class="artd" href="item_96462.aspx" title="10 Most Amazing Ghost Towns ()">
+		10 Most Amazing Ghost Towns</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a234_min2.jpg" alt="10 Most Unfortunate Store Names ()"></td>
+		<td><a class="artd" href="item_96461.aspx" title="10 Most Unfortunate Store Names ()">
+		10 Most Unfortunate Store Names</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a232_min2.jpg" alt="11 Curiously Coincidental Photos ()"></td>
+		<td><a class="artd" href="item_96460.aspx" title="11 Curiously Coincidental Photos ()">
+		11 Curiously Coincidental Photos</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a231_min2.jpg" alt="10 Most Bizarre Musical Instruments ()"></td>
+		<td><a class="artd" href="item_96459.aspx" title="10 Most Bizarre Musical Instruments ()">
+		10 Most Bizarre Musical Instruments</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a230_min2.jpg" alt="10 Funniest Homeless signs ever ()"></td>
+		<td><a class="artd" href="item_96457.aspx" title="10 Funniest Homeless signs ever ()">
+		10 Funniest Homeless signs ever</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a229_min2.jpg" alt="Girl Dances Holding 10 Bottles over her head -- Oddee's Original Videos ()"></td>
+		<td><a class="artd" href="item_96456.aspx" title="Girl Dances Holding 10 Bottles over her head -- Oddee's Original Videos ()">
+		Girl Dances Holding 10 Bottles over her head -- Oddee's Original Videos</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a228_min2.jpg" alt="6 Strangest Plastic Surgeries ()"></td>
+		<td><a class="artd" href="item_96455.aspx" title="6 Strangest Plastic Surgeries ()">
+		6 Strangest Plastic Surgeries</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a226_min2.jpg" alt="9 Most Idiotic Promos ever ()"></td>
+		<td><a class="artd" href="item_96454.aspx" title="9 Most Idiotic Promos ever ()">
+		9 Most Idiotic Promos ever</a></td>
+	</tr>
+	<tr><td height="8"></td></tr>
+  
+		
+
+	<tr>
+		<td><img width="50" src="/_media/imgs/articles/a225_min2.jpg" alt="12 Funniest Wedding Names ()"></td>
+		<td><a class="artd" href="item_96453.aspx" title="12 Funniest Wedding Names ()">
+		12 Funniest Wedding Names</a></td>
 	</tr>
 	<tr><td height="8"></td></tr>
   
@@ -650,7 +1487,20 @@ If users have any questions or suggestions regarding our privacy policy, please 
 		<a class="artd" href="default_3_0_datetime.aspx">More articles »</a>
 		</center>
 
-
+		<br><br><br>
+		
+		<b>Search Oddee.com:</b><br>
+				
+		<form action="http://www.google.com/cse" id="cse-search-box">
+		  <div>
+		    <input type="hidden" name="cx" value="partner-pub-1943569606117530:41g334tv6io">
+		    <input type="hidden" name="ie" value="UTF-8">
+		    <input type="text" name="q" size="16">
+		    <input type="submit" name="sa" value="Search">
+		  </div>
+		</form>
+		<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+		
 		
 	    </td>
 	</tr>
@@ -658,7 +1508,15 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 </center>
 
-
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4956890-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 
 
 
