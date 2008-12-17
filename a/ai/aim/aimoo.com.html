@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aimoo.com privacy policy that was archived on 2008-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080625042056id_/http%3A//www.aimoo.com/Privacy_message_board.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aimoo.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217015411id_/http%3A//www.aimoo.com/Privacy_message_board.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,6 +8,7 @@
 <meta name="description" content="free message board,free board,message board,free boards,message boards,free message boards">
 <meta name="verify-v1" content="eaNrTI1//cPwdRrTa5KM3TDX5SU0bMfHVnT8+nQoVXo=">
 <link href="/Css/NewStyle.css" rel="stylesheet" type="text/css">
+<link href="/Css081031/Style.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
 .STYLE1 {font-size: 12px}
@@ -17,64 +18,163 @@
 </head>
 <body>
 
-<div id="aimoodiv">
-  <ul>
-    <li class="font"><a name="top"></a>Aimoo message boards Version 8.0.1</li>
-    <li class="header"><a href="/"><img src="/images/logo.jpg" width="175" height="82" border="0"></a></li>
-    <li class="search"><form action="/search.cfm" id="cse-search-box">
-    <input type="hidden" name="cx" value="partner-pub-4451077929018474:xdqubf83owm">
-    <input type="hidden" name="cof" value="FORID:11">
-    <input type="hidden" name="ie" value="UTF-8">
-      <input name="q" type="text" style="width:150px; color:#000000" value="">
-      <input name="Search" type="submit" class="input2" value="Search"></form>
-    </li>
-    <li class="92h">
-      <div id="aimoodiv_user">
-        
-          <form id="Login_to_Aimoo" action="http://www.aimoo.com/login/LoginConfirm.cfm" name="Login_to_Aimoo" method="post" onsubmit="return checklogin()">
-            <input type="hidden" name="thispagename" value="http://www.aimoo.com/Privacy_message_board.html">
-            <ul class="useul">
-              <li class="useli1"><a href="/Reg.html">Sign Up</a> | <a href="/login/Forgotpassword.html">Forgot Password?</a></li>
-              <li class="useli2">
-                <input name="Aimoo_username" type="text" class="input4" id="Aimoo_username" value="username" onfocus="focuslogin('username', this)">
-                <input name="Aimoo_password" type="password" class="input4" id="Aimoo_password" value="password" onfocus="focuslogin('password', this)">
-                <input name="Search" type="submit" class="input2" value="Sign In">
-              </li>
-              <li class="useli2" style="text-align:center">
-                <input name="Remenberme" type="checkbox" id="Remenberme" value=""> Remember Me</li>
-            </ul>
-          </form>
-          
-      </div>
-    </li>
-  </ul>
-</div>
-<script language="javascript" type="text/javascript">
-	function checklogin() {
-		var username = document.getElementById('Aimoo_username').value;
-		var password = document.getElementById('Aimoo_password').value;
-		if(username =="" || username == "username" || password == "" || password == "password"){return false;}
-		return true;
+
+
+
+<script language="javascript">
+function showwin(o1,o2)
+{
+	document.body.style.overflow="hidden";
+	var obj=document.getElementById(o1);
+	availWidth=parseInt(window.screen.availWidth);
+	availHeight=parseInt(window.screen.availHeight);
+	if (parseInt(window.screen.availHeight) < 900)
+		{
+			obj.style.height=availHeight;
+		}
+	else
+		{
+			obj.style.height=window.screen.availHeight;
+		}
+	if(window.screen.height > document.body.scrollHeight){
+	document.getElementById(o1).style.height=window.screen.height;
+	}else{
+	document.getElementById(o1).style.height=document.body.scrollHeight;
 	}
-	function focuslogin(value, obj) {if(value == obj.value) {obj.value = "";obj.style.color = "#000000";}}
+	document.getElementById(o1).style.display="block";
+	document.getElementById(o2).style.display="block"; 
+}
+function recover(o1,o2)
+{
+	document.body.style.overflow="";
+	document.getElementById(o1).style.display="none";
+	document.getElementById(o2).style.display="none"; 
+}
 </script>
 
+<script language="javascript">
+function LoginKeyPress(event) {event = event || window.event;if(event.keyCode == 13){LoginSubmit();}return false;}
+function LoginSubmit() {
+	var UserName = document.getElementById('Aimoo_username').value;
+	var Password = document.getElementById('Aimoo_password').value;
+	if (UserName==""){
+		document.getElementById('Aimoo_username').focus();
+		ShowLoginTip(1);
+		return false;
+	}
+	if (Password==""){
+		document.getElementById('Aimoo_password').focus();
+		ShowLoginTip(1);
+		return false;
+	}
+	document.LoginAimoo.submit();
+}
+function ShowLoginTip(TypeId){
+	if(TypeId==1){
+	document.getElementById("LoginTips").innerHTML = "Please insert your username or password.";
+	}else{
+	document.getElementById("LoginTips").innerHTML = "Your username and password don't match, please try again.";
+	}
+}
+function clearTips(ID){
+	document.getElementById(ID).innerHTML = "";
+}
+</script>
+<div id="operationdiv" style="display:none; float:none; "></div>
+<div id="shadow_logout" style="width:100%; height:100%;" class="shadow"></div> 
+<div id="detail" class="detail">
+<iframe width="0" height="0" name="LoginTarget" id="LoginTarget"></iframe><table width="412" border="0" align="center" cellpadding="0" cellspacing="0" class="popup_font">
+<form action="/login/AjaxLogin.cfm" name="LoginAimoo" id="LoginAimoo" method="post" onsubmit="return LoginSubmit()" target="LoginTarget"></form>
+
+  <tbody><tr>
+    <td width="412" height="53" align="right" valign="top" background="/Popup_Images/popup_header.gif"><a href="#" onclick="recover('shadow_logout','detail');clearTips('LoginTips');document.getElementById('Aimoo_username').value='';document.getElementById('Aimoo_password').value='';"><img src="/Popup_Images/popup_close.gif" width="78" height="48" border="0"></a></td>
+  </tr>
+  <tr>
+    <td height="202" align="center" valign="middle" background="/Popup_Images/popup_bg.gif"><table width="360" border="0" cellspacing="0" cellpadding="4">
+      <tbody><tr>
+        <td align="center"><span class="popup_font_color_topic">Not have an account on Aimoo yet? Just</span> <a href="/Reg.html">Sign Up</a></td>
+      </tr>
+      <tr>
+        <td align="center"><table border="0" cellspacing="0" cellpadding="3">
+          <tbody><tr>
+            <td align="right">Username or Email:</td>
+            <td><label>
+              <input type="text" name="Aimoo_username" onkeypress="LoginKeyPress(event)" onkeydown="clearTips('LoginTips')" class="input-style" id="Aimoo_username"><input type="hidden" name="fromurl" value="http://www.aimoo.com/Privacy_message_board.html">
+            </label></td>
+          </tr>
+          <tr>
+            <td align="right">Password:</td>
+            <td><input type="password" name="Aimoo_password" onkeypress="LoginKeyPress(event)" onkeydown="clearTips('LoginTips')" class="input-style" id="Aimoo_password"></td>
+          </tr>
+          <tr>
+            <td colspan="2"><div id="LoginTips" style="color:#FF0000"></div></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td height="4" align="center"><div class="popup_line"></div></td>
+      </tr>
+      <tr>
+        <td align="center"><table border="0" cellspacing="0" cellpadding="3">
+          <tbody><tr>
+            <td>Remember me</td>
+            <td><label>
+              <input type="checkbox" name="Remenberme" id="Remenberme" value="1">
+            </label></td>
+            <td><input type="image" src="/Popup_Images/popup_sign_in.gif" width="113" height="36"></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="/login/Forgotpassword.html">Forget your login information?</a></td>
+      </tr>
+      
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td><img src="/Popup_Images/popup_footer.gif" width="412" height="19"></td>
+  </tr>
+
+</tbody></table>
+</div>
+
+<div id="aimoodiv">
+    <ul>
+        <li class="header"><a href="/index.html"><img src="/Images081031/logo.gif" border="0"></a></li>
+      <li class="92h"></li>
+    </ul>
+</div>
 <div id="main">
   
   <div id="left_bg" style="height:600px"></div>
   <div id="main_bg">
     
     
-
 <div id="menu">
-  <ul class="meul">
-    <li class="mli"><a id="mhome" href="/"><div></div></a></li>
-    <li class="mli"><a id="mcomm" href="/Community.html"><div></div></a></li>
-    <li class="mli"><a id="mspon" href="/Sponsorship.html"><div></div></a></li>
-    <li class="mli"><a id="mshow" href="/Showcase/Showcase.html"><div></div></a></li>
-    <li class="mli"><a id="msupp" target="_blank" href="http://help.aimoo.com/"><div></div></a></li>
-    <li class="mli"><img src="/images/menu_down.gif" width="122" height="26"></li>
-  </ul>
+<table width="137" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td background="/images081031/button_home.gif"><a class="MeunLink" id="mhome" href="/"></a></td>
+  </tr>
+  
+  <tr>
+  
+    <td background="/images081031/button_signin_up.gif"><a class="MeunLink" id="msignin" href="#" onclick="javascript:showwin(&quot;shadow_logout&quot;,&quot;detail&quot;);document.getElementById(&quot;Aimoo_username&quot;).focus();"></a></td>
+  </tr>
+  <tr>
+    <td background="/images081031/button_Forums.gif"><a class="MeunLink" id="mforums" href="/Forums.html"></a></td>
+  </tr>
+  <tr>
+    <td background="/images081031/button_Diamond.gif"><a class="MeunLink" id="mdiamond" href="/Sponsorship.html"></a></td>
+  </tr>
+  <tr>
+    <td background="/images081031/button_Showcase.gif"><a class="MeunLink" id="mshow" href="/Showcase/Showcase.html"></a></td>
+  </tr>
+  <tr>
+    <td background="/images081031/button_Support.gif"><a class="MeunLink" id="msupp" target="_blank" href="http://help.aimoo.com/"></a></td>
+  </tr>
+  
+</tbody></table>
+<div class="autoaddheight"></div>	
 </div>
     
     <div id="dangqianweizhi"><a href="/index.html">Home</a> &gt; <a href="">Privacy</a></div>
@@ -172,7 +272,7 @@
   
 <div id="footer"><img src="/images/main_footer.jpg"></div>
 <div id="footer2">
-		  <a href="/Reg.html"> Sign Up</a> | <a href="/Create.html">Create</a> | <a href="/about.html">About us</a> | <a href="/SiteMap.html">SiteMap</a> | <a href="/featurelist.html">Features</a> | <a href="/Support.html">Faq</a> | <a href="http://help.aimoo.com" target="_blank">Support</a> | <a href="/Community.html">Forums</a> | <a href="http://showoff.aimoo.com/" target="_blank">Show Off</a> | <a href="/MemberShip_agreement.html">Membership Agreement</a> | <a href="/Privacy_message_board.html">Privacy</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="#top"><img src="/images/top.gif" alt="" width="33" height="14" border="0"></a><br>
+		  <a href="/Reg.html"> Sign Up</a> | <a href="/Create.html">Create</a> | <a href="/about.html">About us</a> | <a href="/SiteMap.html">Site Map</a> | <a href="/featurelist.html">Features</a> | <a href="/Support.html">FAQ</a> | <a href="/Forums.html">Forums</a> | <a href="http://showoff.aimoo.com/" target="_blank">Show Off</a> | <a href="/MemberShip_agreement.html">Membership Agreement</a> | <a href="/Privacy_message_board.html">Privacy</a> | <a href="http://help.aimoo.com" target="_blank">Support</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="#top"><img src="/images/top.gif" alt="" width="33" height="14" border="0"></a><br>
 Copyright © 2000-2008 Aimoo free forum All rights reserved.</div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
