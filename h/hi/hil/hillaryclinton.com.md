@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625195144id_/http%3A//www.hillaryclinton.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085730id_/http%3A//www.hillaryclinton.com/help/privacy) for the most accurate reproduction.*
 
 # HillaryClinton.com - Privacy Policy
 
-At Hillary Clinton for President, we are putting forth every effort to ensure the privacy and security of information that you share with us online. We urge you to take steps also to protect the privacy of your personal information, such as safeguarding your passwords and logging off of the website after submitting personal information. If you have broadband access to the Internet, we strongly advise you to use a firewall.
+At Friends of Hillary, we are putting forth every effort to ensure the privacy and security of information that you share with us online. We urge you to take steps also to protect the privacy of your personal information, such as safeguarding your passwords and logging off of the website after submitting personal information. If you have broadband access to the Internet, we strongly advise you to use a firewall.
 
 Our privacy policy explains the information practices we use at HillaryClinton.com:
 
@@ -18,9 +18,9 @@ Our website has a number of security measures in place to protect against the lo
 
 ### How do we use the information you provide? 
 
-On registration, sign-up and contribution forms on HillaryClinton.com, we may ask for your name, address, telephone number, and e-mail address. We may also ask who, if anyone, referred you to the site so that we can credit those who are organizing volunteer support or fundraising for Hillary Clinton for President.
+On registration, sign-up and contribution forms on HillaryClinton.com, we may ask for your name, address, telephone number, and e-mail address. We may also ask who, if anyone, referred you to the site so that we can credit those who are organizing volunteer support or fundraising for Friends of Hillary.
 
-We will use your e-mail address to provide you news and information about Hillary Clinton for President. We may also use your zip code and state to send you e-mail messages about upcoming campaign events or activities in your area. 
+We will use your e-mail address to provide you news and information about Friends of Hillary. We may also use your zip code and state to send you e-mail messages about upcoming campaign events or activities in your area. 
 
 On occasion, we may also use the information that you provide online to contact you for other purposes or to solicit you for contributions. When you register or sign-up online, we may share your contact information with successor organizations and other like-minded Democratic candidates and organizations, and they may contact you. When you make a contribution to us, we may also exchange your contributor information with successor organizations and other like-minded Democratic candidates and organizations, and they may solicit you (see below for additional information regarding your contributor information). However, we will not sell or exchange your credit card information to any other third party under any circumstances.
 
@@ -56,7 +56,7 @@ If you wish to unsubscribe from our communications, please email us at [unsubscr
 
 ### Use of Photos and Videos
 
-Hillary Clinton for President (the "Committee") regularly takes photographs and video ("Images") of campaign events. Unless a participant or attendee requests otherwise, his/her attendance at, or participation in, an event with the Committee or the Candidate is considered a release to use images obtained during that event for any lawful purpose, including on the Committee's website or in other promotional materials. For the purposes of this policy, “images” includes any still, digital, video, and photographic images, recordings, or drawings, which may include sound or other audio clips.
+Friends of Hillary (the "Committee") regularly takes photographs and video ("Images") of campaign events. Unless a participant or attendee requests otherwise, his/her attendance at, or participation in, an event with the Committee or the Candidate is considered a release to use images obtained during that event for any lawful purpose, including on the Committee's website or in other promotional materials. For the purposes of this policy, “images” includes any still, digital, video, and photographic images, recordings, or drawings, which may include sound or other audio clips.
 
 The Committee does not require specific permission from any or all individuals appearing in photographs or video of the audience at an event where specific individuals are not easily identifiable. Your attendance or participation is considered a release to use said images for any lawful purpose. The Committee reserves the right to use or not to use images of this type, in its sole discretion, without seeking any further permission. 
 
@@ -68,18 +68,21 @@ By submitting images, you guarantee that you have obtained the permission of all
 
 If you object to an image of you (or your child) from appearing in photographs or video of campaign events, please notify the Committee in writing at:
 
-Hillary Clinton for President  
-4420 North Fairfax Drive  
-Arlington, VA 22203  
-Fax: 703-962-8600
+Friends of Hillary  
+1825 K Street NW  
+Suite 1000  
+Washington, DC 20006
+
+Phone: 202-595-2620 
 
 ### Contacting us about privacy
 
 If you have any questions about our privacy policy, corrections to the information we have collected from you online, the practices of this site or your interaction with this website, send email to: [support@hillaryclinton.com](mailto:support@hillaryclinton.com). 
 
-Our site links to a limited number of other websites. Hillary Clinton for President is not responsible for the content or the privacy policies of these websites. We encourage you to read the privacy statements for each website you visit. Hillary Clinton for President will occasionally update this privacy policy as changes to the site necessitate it. We encourage you to periodically review this policy to be informed of how we are protecting your information.
+Our site links to a limited number of other websites. Friends of Hillary is not responsible for the content or the privacy policies of these websites. We encourage you to read the privacy statements for each website you visit. Friends of Hillary will occasionally update this privacy policy as changes to the site necessitate it. We encourage you to periodically review this policy to be informed of how we are protecting your information.
 
 You can also reach us via U.S. Mail at:  
-Hillary Clinton for President  
-4420 North Fairfax Drive  
-Arlington, VA 22203
+Friends of Hillary  
+1825 K Street NW  
+Suite 1000  
+Washington, DC 20006
