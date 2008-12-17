@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iboats.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616053521id_/http%3A//www.iboats.com/aboutus_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iboats.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024913id_/http%3A//www.iboats.com/aboutus_privacy.html) for the most accurate reproduction.*
 
 # About iboats- Privacy Policies
 
@@ -30,7 +30,8 @@ Your privacy is one of our primary concerns. To better protect your privacy we p
   1. We will NEVER sell, rent, or share your your e-mail address.
   2. The information we collect is used only within our own organization to improve our services and to better service our client's areas of interest.
   3. If you elect to provide us with additional information (by filling out forms, etc.), we will collect it and only use it to improve our product offerings and services to you.
-  4. Please be aware that we host sites for a number of dealers and other clients, who may have privacy policies that differ from ours. Please see their individual privacy policies for more information regarding their sites' policies.
+  4. On occasion we may market specials and offers from trusted third party vendors, we will only share your personal information that you authorize us to provide should you accept one of these third party offers (for example, your name and mailing address for a free magazine subscription).
+  5. Please be aware that we host sites for a number of dealers and other clients, who may have privacy policies that differ from ours. Please see their individual privacy policies for more information regarding their sites' policies.
 
 
 
@@ -38,7 +39,7 @@ _Detailed Privacy Policy Information Collected_
 
 We collect only the domain name, but not the e-mail address of visitors to our web pages, aggregate information on which pages consumers access or visit, and information volunteered by the consumers, such as survey information and/or site registrations. 
 
-The information we collect is used to improve the content of our Web pages, used to notify consumers about updates to our Web sites, and used by us to contact consumers for our own marketing purposes. 
+The information we collect is used to improve the content of our Web pages, used to notify consumers about updates to our Web sites, and used by us to contact consumers for our own marketing purposes or our trusted partners when authorized by the consumer. 
 
 _Our Commitment To Data Security_
 
