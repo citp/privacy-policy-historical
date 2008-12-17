@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motime.com privacy policy that was archived on 2004-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040528223727id_/http%3A//www.motime.com/node/view/139394) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motime.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040650id_/http%3A//www.motime.com/node/view/139394) for the most accurate reproduction.*
 
-# :: motime.com :: instant publishing and communication
+# Privacy Policy
 
 **What personal information does mo’time collect?**
 
@@ -17,8 +17,6 @@ We use this information primarily to help diagnose and fix any technical problem
 _Cookies_
 
 Like most sites that have features requiring registration and sign-in, mo’time uses cookies to recognize you when you return to mo’time and to keep track of your username and password when you are signed in (so you don't have to re-sign in every time you visit a new page at mo'time). 
-
-This site is now conducting a test of the ImetriX.biz site measurement system, to analyze our traffic, to optimize content and site performance. ImetriX respects your privacy by not collecting data about you, but uses only one cookie which assigns you a random number. For more information we invite you to visit: [ http://www.imetrix.biz/legal/netprivacy.html](http://www.imetrix.biz/legal/netprivacy.html)
 
 **Who else collects personal information from me?**
 
@@ -50,13 +48,13 @@ No data transmission over the Internet, however, can be guaranteed to be 100% se
 
 **Children's Privacy**
 
-mo’time is intended for use by people who are at least 13 years old, and we will not knowingly collect personal information from children under 13. 
+mo’time is intended for use by people who are at least 13 years old. We will not knowingly allow a person under 13 years old to join mo’time nor will we collect personal information from children under 13.
 
 We have designed our registration process to make it clear that you must be at least 13 years old to participate in the mo’time community.
 
 _Special Note to Parents_
 
-If you are the Parent or Legal Guardian of a child under 13 who has become a mo’time member and you would like his or her account deleted, please email us at: [info@motime.com](mailto:info@motime.com). As soon as we are able to verify your identity (and status as parent or legal guardian) we will immediately delete your child's account. You may also request to see a copy of any information that has been submitted by your child, prior to the account being deleted from our systems. 
+If you are the Parent or Legal Guardian of a child under 13 who has disregarded our rules and become a mo’time member and you would like his or her account deleted, please email us at: info@motime.com. As soon as we are able to verify your identity (and status as parent or legal guardian) we will immediately delete your child's account. You may also request to see a copy of any information that has been submitted by your child, prior to the account being deleted from our systems.
 
 For more information about the kinds of personally identifiable information collected by mo’time, how it is collected, and how it is used by mo’time, please review this Privacy Policy as well as the mo’time [Terms of Use](http://www.motime.com/node/view/139395).
 
@@ -65,3 +63,5 @@ For more information about the kinds of personally identifiable information coll
 We will do everything in our power to maintain your privacy and online security. Strong privacy and security, however, requires effort from both motime.com and its members. Please be sure to follow the advice listed above for protecting your mo’time account. The best way to protect your privacy is to protect your password; change your password often, and keep it secret, even from motime.com employees. Remember that motime.com employees will never ask you for your password! 
 
 [go back to top](http://www.motime.com/#top)
+
+Published on 27 May 2003 - 21:35
