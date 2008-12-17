@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitescanga.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501062800id_/http%3A//www.sitescanga.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitescanga.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051313id_/http%3A//www.sitescanga.com/privacy_policy) for the most accurate reproduction.*
 
 # SiteScan By EpikOne - A Google Analytics Help, Setup, and Configuration Tool
 
@@ -8,7 +8,9 @@ SiteScan collects no personal information about you when you visit our web site 
 
 ## Sharing and Usage
 
-We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you. 
+We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.
+
+Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information, and to reputable, contracted service providers for purposes of providing services relating to our communications with you. The latter of which includes periodic notifications on SiteScan and related services. All such notifications include an option to unsubscribe as you feel appropriate. 
 
 ##  What We Collect and Store Automatically 
 
@@ -37,7 +39,4 @@ SiteScan makes no claims, promises or guarantees about the accuracy, completenes
 
 Please note that Google Analytics™ is the trademark of Google, Inc. and is not affiliated with SiteScan.  Google, Inc. accepts no responsibility, liability and does not provide support to individuals choosing to use this product.  All inquiries regarding SiteScan should be submitted to:  [info@SiteScanGA.com](mailto:info@SiteScanGA.com)
 
-**Copyright 2007   SiteScan is a service of EpikOne, Inc.  All Rights Reserved.**
-
-  
-
+**Copyright 2008   SiteScan is a service mark of EpikOne, Inc.  All Rights Reserved.**
