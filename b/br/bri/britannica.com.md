@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616160443id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217132152id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
 
 # Encyclopædia Britannica, Inc. Corporate Site
 
@@ -12,7 +12,6 @@
   * Protection for Children
   * Our Commitment to Security
   * How to Opt Out, Correct, Update, or Remove Personal Information
-  * Third-Party Advertising
   * Links to Other Web Sites
   * Your Consent and Changes to Privacy Policy  
 
@@ -133,10 +132,6 @@ We do not share your Personal Information with others except as indicated below 
 >>> Your mailing address (street, city, state, zip code, and country)
 >>> 
 >>> The name of the Britannica site to which the request applies
->>> 
->>> The service or section of the site to which you are registered or subscribe to
->>> 
->>> **Online:**Visit our main Help page at [http://corporate.britannica.com/help/ ](http://corporate.britannica.com/help/index.html)and submit a message to us using our online forms **or** simply respond to the pertinent e-mail with the word "unsubscribe" in the subject line. (Please note: "Unsubscribe" is an automatic process. We will not respond to these messages.) 
 >> 
 >>     * **Call us at:**
 >>
@@ -149,12 +144,13 @@ We do not share your Personal Information with others except as indicated below 
 >>> **Write us at:**  
 >  Britannica Customer Service, Attn: Removal from Mailing List  
 >  331 North La Salle Street  
->  Chicago, IL 60610
+>  Chicago, IL 60654-2682
 >> 
->> Please allow up to six (6) weeks for your opt-out and other requests to be processed.
+>>     * **With Respect to third party advertising:**
+>>
+>>> The Britannica sites use the services of one or more third parties to present or target the advertisements, promotions, and other marketing messages that you may see on various Web pages and to conduct research about such advertisements, promotions, and other marketing messages. Our Privacy Policy does not cover any use of information that such third parties may have collected from Users or the method used by such third parties to collect that information (e.g., Cookies). You can opt-out of this process by clicking [here](http://www.myadchoice.com/alpha/).
 >> 
->> **Third-Party Advertising.**  
->  The Britannica sites use the services of third parties to present or target the advertisements, promotions, and other marketing messages that you may see on any of the Britannica sites' Web pages and to conduct research about such advertisements, promotions, and other marketing messages. Our Privacy Policy does not cover any use of information that such third parties may have collected from Users or the method used by such third parties to collect that information (e.g., Cookies). 
+>> Please allow up to six (6) weeks for mailed-in or faxed opt-out requests to be processed.
 >> 
 >> **Links to Other Web sites.**  
 >  The Britannica sites each contain links to other Web sites. Britannica is not responsible for the privacy practices or content of these third-party Web sites. We urge all Britannica site Users to follow safe Internet practices: Do not supply Personal Information to these Web sites unless you have verified their security and privacy policies.
