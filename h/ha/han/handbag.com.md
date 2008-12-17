@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516195423id_/http%3A//www.handbag.com/Privacy/v1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104503id_/http%3A//www.handbag.com/Privacy/v1) for the most accurate reproduction.*
 
-# Privacy :: Handbag.com
+# Privacy :: handbag.com
+
+Posted by handbag on 03/09/2007 
 
 ## The principal activity of Handbag.com Limited (Handbag) is owning and operating the web site www.handbag.com. 
 
@@ -73,8 +75,3 @@ In the event that you have provided personal information that has been shared wi
 
 **How to contact us**  
 If you have any questions about our privacy policy or the practices of Handbag, please contact us at: Handbag.com Limited, 72 Broadwick Street, London, W1F 9EP or by email at marketing@handbag.com. 
-
-Published: 03 September 2007
-
-  
-
