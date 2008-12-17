@@ -1,234 +1,23 @@
-<!--The following is the downloaded HTML source of the dellamoda.com privacy policy that was archived on 2008-02-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080221232017id_/http%3A//www.dellamoda.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dellamoda.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217152341id_/http%3A//www.dellamoda.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><script language="javascript"> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><script type="text/javascript"> 
  <!-- 
  (new Image).src="http://store.yahoo.net/cgi-bin/refsd?e=http://www.dellamoda.com/privacy-policy.html&h=www.dellamoda.com&v=1.0&dr=" + escape(document.referrer); 
  --> 
  </script>
-<title>Privacy Policy :: Dellamoda.com</title><link rel="stylesheet" type="text/css" href="http://site.dellamoda.com/ystore/style.css">
+<title>Privacy Policy :: Dellamoda.com</title><meta name="Description" content=""><meta name="Keywords" content=""><link rel="stylesheet" type="text/css" href="http://site.dellamoda.com/ystore/style.css">
 <script type="text/javascript" src="http://site.dellamoda.com/ystore/scripts/tabbing.js"></script>
-<script language="javascript1.2">
-var str1="Recent_Dellamoda";
-function createCookie(name,value,days)
-{
-	
-	if (days)
-	{
-		var date = new Date();
-		date.setTime(date.getTime()+(days*24*60*60*1000));
-		var expires = "; expires="+date.toGMTString();
-	}
-	else var expires = "";
-	document.cookie = name+"="+value+expires+"; path=/";
-}
+<script type="text/javascript" src="http://site.dellamoda.com/ystore/scripts/prototype.js"></script>
+<script type="text/javascript" src="http://site.dellamoda.com/ystore/scripts/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="http://site.dellamoda.com/ystore/scripts/lightbox.js"></script>
 
-
-function GetCookie(name) 
-{  
-	var nameEQ = name + "=";
-	var ca = document.cookie.split(';');
-	for(var i=0;i < ca.length;i++)
-	{
-		var c = ca[i];
-		while (c.charAt(0)==' ') c = c.substring(1,c.length);
-		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-	}
-	return null;
-}
-
-function checkCookie(id, name, imgpath)
-{
-	var j=1;
-	var str="";
-	var username="";
-	var count=0;
-	var k=1;
-	str=str1 + k;
-	username=GetCookie(str);
-	
-	
-	if(username!=null)
-	{
-		k=2;
-		str = str1 + k;
-		username=GetCookie(str);
-		if(username!=null)
-		{
-			k=3;
-			str = str1 + k;
-			username=GetCookie(str);
-			if(username!=null)
-			{
-				k=4;
-				str = str1 + k;
-				username=GetCookie(str);
-				if(username != null)
-				{
-					k=5;
-				}
-				else
-				{
-					k=4;
-				}	
-			}
-				
-		}
-	}
-	
-	for(i=1;i<k;i++)
-	{
-		str = str1 + i;
-		username=GetCookie(str);
-		
-		if(username==id)
-		{
-			count=count+1;
-		}
-	}
-	if(count==0)
-	{	
-		if(k==5)
-		{
-			var m = 1;
-			var n = m + 1;
-		
-			for(m=1;m<4;m++)
-			{
-				n = m + 1;
-				username=GetCookie(str1+n);
-				createCookie(str1+m,username);
-				
-				str=str1+n;
-				str=str+"_imgpath";
-				username=GetCookie(str);
-
-				str=str1+m;
-				str=str+"_imgpath";
-				createCookie(str,username);
-				
-				str=str1+n;
-				str=str+"_name";
-				username=GetCookie(str);
-
-				str=str1+m;
-				str=str+"_name";
-				createCookie(str,username);
-
-
-			}
-			
-			createCookie(str1+m,id);
-
-			str=str1+m;
-			str=str+"_imgpath";
-			createCookie(str,imgpath);
-
-			str=str1+m;
-			str=str+"_name";
-			createCookie(str,name);
-
-
-		}
-		else
-		{
-
-			var p=k;
-			createCookie(str1+p,id);
-			str=str1+p;
-			str=str+"_imgpath";
-			createCookie(str,imgpath);
-			
-			str=str1+p;
-			str=str+"_name";
-			createCookie(str,name);
-			
-		}
-	}
-}
-
-function gc1()
-{
-	var j=1; 
-	var str=str1;
-	var username='';
-	var k=1;
-	str=str1;
-	str=str+k;
-	username=GetCookie(str);
-
-	if(username!=null)
-	{
-		k=2;
-		str = str1 + k;
-		username=GetCookie(str);
-		if(username!=null)
-		{
-			k=3;
-			str = str1 + k;
-			username=GetCookie(str);
-			if(username!=null)
-			{
-				k=4;
-				str = str1 + k;
-				username=GetCookie(str);
-				if(username != null)
-				{
-					k=4;
-				}
-				else
-				{
-					k=3;
-				}
-				
-			}
-			else
-			{
-				k=2;
-			}
-		}
-		else
-		{
-			k=1;
-		}
-	}
-	j=k;
-	
-	while(j>0)
-	{
-		str=str1;
-		str=str+j;
-		username=GetCookie(str);
-		if(username!=null)
-		{
-				var linkid=username;
-				str=str1;
-				str=str+j;
-				str=str+'_imgpath';
-				imgpath=GetCookie(str); 
-				
-				str=str+'_name';
-				username=GetCookie(str); 
-				document.write('<div class="img_left">');
-				if(j==1)
-				{
-					document.write('<div class="realted_pro_box" style="border-right: none;"><span></span><a href="' + linkid + '.html"><img src="' + imgpath + '" border=0 alt="' + username + '"></a></div>');
-				}
-				else
-				{
-					document.write('<div class="realted_pro_box"><span></span><a href="' + linkid + '.html"><img src="' + imgpath + '" border=0 alt="' + username + '"></a></div>');
-				}
-				document.write('</div>');
-					
-		}
-		j--;
-		
-	}
-
-
-}
-</script>
-</head><body><center><div id="docwidth"><div id="header"> <h1>Dellamoda - Fashion @ Unfashionable Prices</h1> <a href="index.html"><img src="http://site.dellamoda.com/ystore/images/logo.gif" alt="Dellamoda" title="Dellamoda" class="logo"></a> <div class="top_links"><a href="index.html">Home</a> | <a href="contact.html">Contact Us</a> | <a href="ind.html">Sitemap</a></div> <div style="float:right; clear:right; margin-top:5px;"> <iframe src="https://s.p9.hostingprod.com/@dellamoda.com/ssl/scripts/cookieget.html" width="135" height="20" frameborder="0" scrolling="no" style="margin-top:0px; margin-bottom:0px; padding-top:0px; padding-bottom:0px; vertical-align:middle;"></iframe> </div> <div class="header_pt1"> <ul> <li> <h2><a href="women-s-boutique.html">Women's Boutique</a></h2> </li> <li> <h2><a href="men-s-store.html">Men's Store</a></h2> </li> <li> <h2><a href="bags---travels.html">Bags &amp; Travels</a></h2> </li> <li> <h2><a href="eyewear-collections.html">Eyewear Collections</a></h2> </li> <li> <h2><a href="accessories.html">Accessories</a></h2> </li> <li> <h2><a href="designer-index.html">Designer Index</a></h2> </li> </ul> <div class="header_pt2"> <select onchange="window.location = this.value;"><option value="">Browse by Brand</option><option value="shop-by-brand--balenciaga-handbags.html"> Balenciaga Handbags</option><option value="shop-by-brand--bvlgari.html">Bvlgari Sunglasses</option><option value="shop-by-brand-burberry-handbags.html">Burberry (Women)</option><option value="shop-by-brand-cesare-paciotti--men-.html">Cesare Paciotti (Men)</option><option value="shop-by-brand-cesare-paciotti--women-.html">Cesare Paciotti (Women)</option><option value="shop-by-brand-cesare-paciotti-handbags.html">Cesare Paciotti Handbags</option><option value="shop-by-brand-chloe-handbags.html">Chloe Handbags</option><option value="shop-by-brand-christian-dior.html">Christian Dior Handbags</option><option value="shop-by-brand--christian-dior.html"> Christian Dior Sunglasses</option><option value="shop-by-brand-christian-dior--women-.html">Christian Dior Shoes (Women)</option><option value="shop-by-brand-dolce---gabbana.html">Dolce &amp; Gabbana (Women)</option><option value="shop-by-brand-dolce---gabbana--men-.html">Dolce &amp; Gabbana (Men)</option><option value="shop-by-brand--dolce---gabbana-sunglasses.html"> Dolce &amp; Gabbana Sunglasses</option><option value="shop-by-brand-fendi.html">Fendi handbags</option><option value="shop-by-brand--giorgio-armani.html">Giorgio Armani Sunglasses</option><option value="shop-by-brand--gucci.html"> Gucci Sunglasses</option><option value="shop-by-brand-gucci-handbags.html">Gucci Handbags</option><option value="shop-by-brand-gucci-shoes--women-.html">Gucci Shoes (Women)</option><option value="shop-by-brand-gucci-shoes--men-.html">Gucci Shoes (Men)</option><option value="shop-by-brand-hugo-boss-shoes--men-.html">Hugo Boss Shoes (Men)</option><option value="shop-by-brand-john-richmond--women-.html">John Richmond (Women)</option><option value="shop-by-brand-jp-tod-s.html">JP Tod's (Women)</option><option value="shop-by-brand-lesilla-project--women-.html">Lesilla Project  (Women)</option><option value="shop-by-brand-lowe-valentini-handbags.html">Lowe Valentini Handbags</option><option value="shop-by-brand-moschino.html">Moschino handbags</option><option value="shop-by-brand-prada.html">Prada Handbags</option><option value="shop-by-brand-prada-shoes--women-.html">Prada Shoes (Women)</option><option value="shop-by-brand-prada-shoes--men-.html">Prada Shoes (Men)</option><option value="shop-by-brand--prada-sunglasses.html"> Prada Sunglasses</option><option value="shop-by-brand-rodo-handbags.html">Rodo Handbags</option><option value="shop-by-brand-yamamato--men-.html">Yamamoto Shoes (Men)</option><option value="shop-by-brand-yves-saint-laurent-shoes.html">YSL Shoes (Women)</option><option value="shop-by-brand-yve-saint-laurent.html">YSL handbags</option><option value="shop-by-brand--yves-saint-laurent.html">YSL Sunglasses</option><option value="shop-by-brand-more-designers.html">More Designers</option><option value="clearance.html">Clearance</option></select> <select onchange="window.location = this.value;"><option value="">Browse by Department</option><option value="newarrival.html">New Arrival</option><option value="shop-by-category-all-handbags.html">Designer Handbags</option><option value="shop-by-category-all-shoes--men-.html">Designer Shoes (Men)</option><option value="shop-by-category-shoes--women-.html">Designer Shoes (Women)</option><option value="shop-by-category-wallets.html">Wallets</option><option value="shop-by-category-messanger-bag.html">Messenger Bag</option><option value="shop-by-category-eyewear.html">Eyewear</option><option value="shop-by-category--ties---men--.html">Ties (men)</option><option value="shop-by-category-keychains.html">Keychains</option><option value="shop-by-category--fragrances.html">Fragrances</option><option value="shop-by-category-travel-bag.html">Travel Bags</option><option value="shop-by-category-gloves.html">Gloves</option><option value="shop-by-category--hats.html"> Hats</option><option value="shop-by-category-umbrellas.html">Umbrellas</option><option value="shop-by-category--shawls---scarves--women-.html"> Shawls / Scarves (Women)</option><option value="shop-by-category--belts.html"> Belts</option><option value="clearance.html">Clearance</option></select> <form method="get" action="http://search.store.yahoo.com/cgi-bin/nsearch" style="display: inline;"> <input name="catalog" value="yhst-15967350103970" type="hidden"> <input name=".autodone" value="http://search.store.yahoo.com/cgi-bin/nsearch?catalog=yhst-15967350103970" type="hidden"> <div class="search_box"> Product Search <img src="http://site.dellamoda.com/ystore/images/search_bullet.gif" alt=""> <input name="query" type="text" size="20"> <a href="document.serchform.submit();"><img src="http://site.dellamoda.com/ystore/images/search_btn.gif" alt="Search Button"></a> </div> </form> </div> </div> </div> <div id="static_content"><div class="static_display"><h1>Privacy Policy</h1><img src="http://us.st11.yimg.com/us.st.yimg.com/I/yhst-15967350103970_1986_11019651" width="22" height="127" align="center" border="0" hspace="0" vspace="0" alt="Privacy Policy" class="title"><div class="breadcrumb" style="float: right;"><a href="index.html">Home</a> &gt; <span>Privacy Policy</span></div><div class="static_display_pt1">
+<script type="text/javascript" src="http://lib.store.yahoo.net/lib/yhst-15967350103970/javascript.js"></script>
+<script type="text/javascript" src="http://site.dellamoda.com/ystore/scripts/paging-script.js"></script><link rel="stylesheet" type="text/css" href="http://lib.store.yahoo.net/lib/yhst-15967350103970/ysw-stylesheet.css">
+<link rel="stylesheet" type="text/css" href="http://lib.store.yahoo.net/lib/yhst-15967350103970/lightbox.css">
+<script type="text/javascript" src="http://lib.store.yahoo.net/lib/yhst-15967350103970/prototype.js"></script>
+<script type="text/javascript" src="http://lib.store.yahoo.net/lib/yhst-15967350103970/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="http://lib.store.yahoo.net/lib/yhst-15967350103970/lightbox.js"></script><link rel="stylesheet" type="text/css" href="css-edits.css"><base href="http://www.dellamoda.com/"></head><body><center><div id="docwidth"><div class="sw-text-above-header" align="left">Designer Handbags, Designer Shoes &amp; Designer Sunglasses @ Dellemoda.com</div><div id="header"> <a href="index.html"><img src="http://site.dellamoda.com/ystore/images/logo.gif" alt="Dellamoda" title="Dellamoda" class="logo"></a> <div class="top_links"><a href="index.html">Home</a> | <a href="contact.html">Contact Us</a> | <a href="ind.html">Sitemap</a> | <span class="bookmark-page"><script language="javascript" src="/lib/yhst-51581308183786/bookmark-page.js"></script></span></div> <div style="float:right; clear:right; margin-top:5px;"> <iframe src="https://s.p9.hostingprod.com/@dellamoda.com/ssl/scripts/cookieget.html" width="135" height="20" frameborder="0" scrolling="no" style="margin-top:0px; margin-bottom:0px; padding-top:0px; padding-bottom:0px; vertical-align:middle;"></iframe> </div> <div class="header_pt1"> <ul> <li> <a href="women-s-boutique.html">Women's Boutique</a> </li> <li> <a href="men-s-store.html">Men's Store</a> </li> <li> <a href="bags---travels.html">Bags &amp; Travels</a> </li> <li> <a href="eyewear-collections.html">Eyewear Collections</a> </li> <li> <a href="accessories.html">Accessories</a> </li> <li> <a href="designer-index.html">Designer Index</a> </li> </ul> <div class="header_pt2"> <select onchange="window.location = this.value;"><option value="">Browse by Brand</option><option value="shop-by-brand--balenciaga-handbags.html">Balenciaga </option><option value="shop-by-brand-bvlgari.html">Bvlgari</option><option value="shop-by-brand-burberry-handbags.html">Burberry</option><option value="chanel-sunglasses.html">Chanel </option><option value="shop-by-brand-cesare-paciotti.html">Cesare Paciotti</option><option value="shop-by-brand-chloe-handbags.html">Chloe</option><option value="shop-by-brand-dior.html">Christian Dior</option><option value="shop-by-brand-dolce-and-gabbana.html">Dolce &amp; Gabbana</option><option value="shop-by-brand--d-g-sunglasses.html"> D&amp;G </option><option value="shop-by-brand-ed-hardy.html">Ed Hardy</option><option value="shop-by-brand-fendi.html">Fendi </option><option value="shop-by-brand--ferre.html"> Ferre</option><option value="francesco-biasia-handbags.html">Francesco Biasia</option><option value="giorgio-armani-sunglasses.html">Giorgio Armani</option><option value="shop-by-brand-gucci.html">Gucci</option><option value="shop-by-brand-hugo-boss-shoes--men-.html">Hugo Boss</option><option value="shop-by-brand-john-richmond--women-.html">John Richmond</option><option value="shop-by-brand-jp-tod-s.html">JP Tod's </option><option value="just-cavalli-handbags.html">Just Cavalli</option><option value="shop-by-brand-lesilla-project--women-.html">Lesilla Project </option><option value="shop-by-brand-lowe-valentini-handbags.html">Lowe Valentini</option><option value="miu-miu-sunglasses.html">Miu Miu </option><option value="shop-by-brand--marc-jacobs-sunglasses.html"> Marc Jacobs </option><option value="shop-by-brand-moschino.html">Moschino</option><option value="shop-by-brand-prada-shoes-handbags-sunglasses.html">Prada</option><option value="prada-sports-sunglasses.html">Prada Sports</option><option value="shop-by-brand-rodo-handbags.html">Rodo</option><option value="shop-by-brand--salvatore-ferragamo-sunglasses.html"> Salvatore Ferragamo </option><option value="valentino-sunglasses.html">Valentino</option><option value="shop-by-brand--versace.html">Versace </option><option value="shop-by-brand-yamamato--men-.html">Yamamoto </option><option value="shop-by-brand-yves-saint-laurent-ysl.html">Yves Saint Laurent YSL</option><option value="shop-by-brand-more-designers.html">More Designers</option><option value="clearance.html">Clearance</option></select> <select onchange="window.location = this.value;"><option value="">Browse by Department</option><option value="newarrival.html">New Arrivals</option><option value="shop-by-category-all-handbags.html">Designer Handbags</option><option value="shop-by-category-all-shoes--men-.html">Designer Shoes (Men)</option><option value="designer-shoes-women.html">Designer Shoes (Women)</option><option value="shop-by-category-wallets.html">Designer Wallets</option><option value="shop-by-category-messanger-bag.html">Messenger Bag</option><option value="shop-by-category-eyewear.html">Designer Sunglasses</option><option value="shop-by-category-keychains.html">Keychains</option><option value="shop-by-category-travel-bag.html">Travel Bags</option><option value="shop-by-category-gloves.html">Gloves</option><option value="accessories-shop-by-category-hats.html">Hats</option><option value="shop-by-category-umbrellas.html">Umbrellas</option><option value="shop-by-category--shawls---scarves--women-.html"> Shawls / Scarves</option><option value="shop-by-category--belts.html"> Belts</option><option value="shop-by-category--ties---men--.html">Ties</option><option value="clearance.html">Clearance</option></select> <form method="get" action="http://search.store.yahoo.com/cgi-bin/nsearch" style="display: inline;"> <input name="catalog" value="yhst-15967350103970" type="hidden"> <input name=".autodone" value="http://search.store.yahoo.com/cgi-bin/nsearch?catalog=yhst-15967350103970" type="hidden"> <div class="search_box"> Product Search <img src="http://site.dellamoda.com/ystore/images/search_bullet.gif" alt=""> <input name="query" type="text" size="20"> <input type="image" src="http://site.dellamoda.com/ystore/images/search_btn.gif" alt="Search Button" class="submit"> </div> </form> </div> </div> </div> <div id="static_content"><div class="static_display"><img src="http://us.st12.yimg.com/us.st.yimg.com/I/yhst-15967350103970_2028_8534909" width="22" height="127" align="center" border="0" hspace="0" vspace="0" alt="Privacy Policy" class="title"><div class="breadcrumb" style="float: right;"><a href="index.html">Home</a> &gt; <span>Privacy Policy</span></div><div class="caption"></div><div class="static_display_pt1">
 						<h2>Our Privacy  Guarantee</h2>
 						<p>At Dellamoda.com we respect our customers and understand that you are  concerned about privacy, so we've instituted policies intended to  ensure that your personal information is handled safely and  responsibly. When you order from Dellamoda.com we receive your name,  shipping address, email address, phone number and your credit card  information via a secure network. <br><br>
 We take  the privacy of your personal information very seriously and will use  your information only in accordance with the terms of this Privacy  Policy. We will not sell or rent your personally identifiable  information or a list of our customers to third parties. <br>
@@ -238,32 +27,31 @@ Additionally, in order to enhance the protection of                           yo
     <br>
   SquareTrade works with leading organizations including                           eBay, Yahoo!, Google, the California Association of                           REALTORS®, and the US Federal Trade Commission's                           econsumer.gov program, as well as with thousands of                           online merchants to help millions of consumers shop                           safely every month.</p>
 						<h2> E-mail Newsletters</h2> <p>
-  If users wish to subscribe to our e-mail newsletters,                         we ask for contact information (such as name, e-mail                         address and, occasionally, demographic information). We                         use this information in the same manner as we use contact                         information in the registration and ordering process                         described above. Recipients of our newsletters can                         unsubscribe using the instructions listed at the end of                         the e-mail newsletter. </p>
+  If users wish to subscribe to our e-mail newsletters,                         we ask for contact information (such as name, e-mail                         address and, occasionally, demographic information). We                         use this information in the same manner as we use contact                         information in the registration and ordering process                         described above. Recipients of our newsletters can                         unsubscribe using the instructions listed at the end of                         the e-mail newsletter. Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, <a href="https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com">click here</a>. </p> 
+					
+	
 						
-						
-					</div></div></div><div id="bottombar">
-  <div style="float:left; width:768px; border:solid 1px #eaeaea; border-top:0px; padding:5px 4px 4px 4px; text-align:left;">
+					</div></div></div><div id="bottombar"><div style="float:left; width:768px; border:solid 1px #eaeaea; border-top:0px; padding:5px 4px 4px 4px; text-align:left;">
     <div style="background:url('http://site.dellamoda.com/ystore/images/footer_bg1.gif') no-repeat 0px 0px; width:768px; float:left; margin-top:0px; margin-bottom:1px">
       <div style="width:128px; float:right; display:inline">
-        <!-- C4S -->
-        <script src="http://web.chat4support.com/Weboperator/Operator/banner.aspx?sid=1805&amp;sTag=DELLAMODA&amp;style=3&amp;online=1&amp;nFloat=0&amp;nInvite=1&amp;nMode=0&amp;nPos=0"></script>
-        <!-- C4S -->
-      </div>
+    </div>
     </div>
     <div style="float:left; width:255px; height:93px; background:url('http://site.dellamoda.com/ystore/images/gift_certificate_bg.gif') no-repeat left top;"> <a href="clearance.html"><img src="http://site.dellamoda.com/ystore/images/title_clearance.gif" style="margin:10px 0px 0px 10px;"></a><br>
       <a href="gift-certificates.html"><img src="http://site.dellamoda.com/ystore/images/title_gift_certificate.gif" style="margin:45px 10px 0px 10px; float:right"></a> </div>
     <div class="bottom_box" style="height: 83px;"> <img src="http://site.dellamoda.com/ystore/images/title_whats_new.gif" alt="What's New" title="What's New" class="img_left">&nbsp;
-      <a href="http://www.dellamoda.com/eyewear-collections-shop-by-brand-prada.html">
-      Prada Sunglasses</a>
-      <a href="http://www.dellamoda.com/shop-by-brand-gucci-shoes--men-.html">
-      Gucci Shoes for Men</a>
-      <a href="http://www.dellamoda.com/women-s-boutique-shop-by-brand-dolce---gabbana.html">
-      Dolce &amp; Gabbana Shoes &amp; Sunglasses</a> <div class="more"> <a href="#">more <img src="http://site.dellamoda.com/ystore/images/more_bullet.gif" alt=""></a> </div>
-    </div>
+      <a href="http://www.dellamoda.com/shop-by-brand-fendi.html">
+      Fendi handbags &amp; wallets </a>
+      <a href="http://www.dellamoda.com/shop-by-brand--dolce---gabbana-sunglasses.html">
+      Dolce &amp; Gabbana Sunglasses </a>
+      <a href="http://www.dellamoda.com/great-gifts-for-men.html">
+      D&amp;G Ties  + Great Gifts for him</a>
+      <div class="more"> 
+        <a href="http://www.dellamoda.com/newarrival.html">more <img src="http://site.dellamoda.com/ystore/images/more_bullet.gif" alt=""></a> </div>
+  </div>
     <div class="bottom_box"> <img src="http://site.dellamoda.com/ystore/images/title_free_shipping.gif" alt="Free Shipping" title="Free Shipping" class="img_left"> <a href="easy-returns.html">
       RETURN POLICY</a> <a href="http://www.dellamoda.com/privacy-policy.html">
       PRIVACY POLICY</a> <a href="shipping.html">SHIPPING POLICY</a>
-      <div class="more"> <a href="#">more <img src="http://site.dellamoda.com/ystore/images/more_bullet.gif" alt=""></a> </div>
+      <div class="more"> <a href="http://www.dellamoda.com/company.html">more <img src="http://site.dellamoda.com/ystore/images/more_bullet.gif" alt=""></a> </div>
     </div>
     <div class="newsletter">
       <form method="post" action="http://site.dellamoda.com/ystore/scripts/newsletter.php" onsubmit="return nvalidate();" name="newsletter">
@@ -274,17 +62,43 @@ Additionally, in order to enhance the protection of                           yo
       </form>
     </div>
   </div>
-  <div class="bottom_links"> <a href="index.html">Home</a> | <a href="company.html">Company</a> | <a href="shipping.html">Shipping</a> | <a href="privacy-policy.html">Privacy Policy</a> | <a href="easy-returns.html"> Easy Returns &amp; Policy</a> | <a href="security.html">Security</a> | <a href="testimonials.html">Testimonials</a>| <a href="http://order.store.yahoo.net/cgi-bin/wg-order?yhst-15967350103970">Shopping Bag</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2073055-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script><div class="bottom_links"> <b> <a href="index.html">Home</a> | <a href="company.html">Company</a> | <a href="shipping.html">Shipping</a> | <a href="privacy-policy.html">Privacy Policy</a> | <a href="easy-returns.html"> Easy Returns &amp; Policy</a> | <a href="security.html">Security</a> | <a href="http://shopping.yahoo.com/merchrating/user_rv.html;_ylt=Aqk2oLW71fPtkl52.Z9PHOkbFt0A?merchant_id=1039234">Testimonials</a>| <a href="http://order.store.yahoo.net/cgi-bin/wg-order?yhst-15967350103970">Shopping Bag</a></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- START SCANALERT CODE -->
     <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.dellamoda.com">
     <img oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." src="https://images.scanalert.com/meter/www.scanalert.com/32.gif" border="0" width="115" height="30"></a>
 <!-- END SCANALERT CODE -->
 </div>
-  <div class="copyright">© 2008 Dellamoda USA Inc. All rights reserved</div>
-</div></div></center>
+  <div class="copyright">© 2008 Dellamoda USA Inc. All rights reserved</div></div></div></center>
+<script type="text/javascript">
+csell_env = 'mud';
+</script>
 <script type="text/javascript">
 // Begin Y! Store Generated Code
- </script><script type="text/javascript" src="http://us.js2.yimg.com/us.js.yimg.com/ult/ylc_1.9.js"></script><script type="text/javascript" src="http://us.js2.yimg.com/us.yimg.com/lib/smbiz/store/csell/js/beacon-1.2.2.7.js">
+ </script><script type="text/javascript" src="http://d.yimg.com/mi/ywa.js">
+</script>
+<script type="text/javascript">
+// Begin Y! Store Generated Code
+var analytics_token_map = {}; analytics_token_map['TOK_ENTRY_DOMAIN'] = ''; analytics_token_map['TOK_DOCGROUP'] = 'Store'; analytics_token_map['TOK_STATS_URL'] = 'http://a.analytics.yahoo.com/p.pl?a=1000'; analytics_token_map['TOK_PROJECT_ID'] = '988276513'; analytics_token_map['TOK_DOCNAME'] = 'privacy-policy'; analytics_token_map['TOK_OTHER_DOMAINS'] = '*.store.yahoo.net';  YStore = window.YStore||{};YStore.itatm = analytics_token_map;YWATracker = YWA.getTracker('1000'+YStore.itatm['TOK_PROJECT_ID']);YWATracker.setDocumentName(YStore.itatm['TOK_DOCNAME']);YWATracker.setDocumentGroup(YStore.itatm['TOK_DOCGROUP']);if ('' != YStore.itatm['TOK_ENTRY_DOMAIN']) {   YWATracker.setCookieDomain(YStore.itatm['TOK_ENTRY_DOMAIN']);}YWATracker.setDomains(YStore.itatm['TOK_OTHER_DOMAINS']);
+</script>
+<script type="text/javascript">
+// Begin Y! Store Generated Code
+function analytics_BEACON() {  YWATracker.submit(); } 
+</script>
+<script type="text/javascript">
+analytics_BEACON(); </script>
+<script type="text/javascript">
+// Begin Y! Store Generated Code
+ </script><script type="text/javascript" src="http://us.js2.yimg.com/us.js.yimg.com/ult/ylc_1.9.js"></script><script type="text/javascript" src="http://us.js2.yimg.com/us.yimg.com/lib/smbiz/store/csell/js/beacon-1.3.6.4.js">
 </script>
 <script type="text/javascript">
 // Begin Y! Store Generated Code
@@ -296,22 +110,22 @@ function csell_GLOBAL_INIT_TAG() { var csell_token_map = {}; csell_token_map['TO
 </script>
 <script type="text/javascript">
 // Begin Y! Store Generated Code
-function csell_REC_VIEW_TAG() {  var p = csell_page_data; var a = '/sid='+p['si']+'/io='+p['io']+'/ii='+p['ii']+'/bt='+p['bt']+'-view'; var r=Math.random(); YStore.CrossSellBeacon.renderBeaconWithRecData(p['url']+'/p/s='+p['s']+'/'+p['rnd']+'='+r+a); } 
+function csell_REC_VIEW_TAG() {  var env = (typeof csell_env == 'string')?csell_env:'prod'; var p = csell_page_data; var a = '/sid='+p['si']+'/io='+p['io']+'/ii='+p['ii']+'/bt='+p['bt']+'-view'+'/en='+env; var r=Math.random(); YStore.CrossSellBeacon.renderBeaconWithRecData(p['url']+'/p/s='+p['s']+'/'+p['rnd']+'='+r+a); } 
 </script>
 <script type="text/javascript">
 // Begin Y! Store Generated Code
-var csell_token_map = {}; csell_token_map['TOK_PAGE'] = 'p'; csell_token_map['TOK_WS_URL'] = ''; csell_token_map['TOK_SHOW_CS_RECS'] = 'false'; csell_token_map['TOK_CURR_SYM'] = '$';  var t = csell_token_map; csell_GLOBAL_INIT_TAG(); YStore.page = t['TOK_PAGE']; YStore.currencySymbol = t['TOK_CURR_SYM']; YStore.crossSellUrl = t['TOK_WS_URL']; YStore.showCSRecs = t['TOK_SHOW_CS_RECS'];</script><script type="text/javascript" src="http://us.js2.yimg.com/us.yimg.com/lib/smbiz/store/csell/js/recs-1.1.2.28.js"></script><script type="text/javascript">
+var csell_token_map = {}; csell_token_map['TOK_PAGE'] = 'p'; csell_token_map['TOK_WS_URL'] = ''; csell_token_map['TOK_SHOW_CS_RECS'] = 'false'; csell_token_map['TOK_CURR_SYM'] = '$';  var t = csell_token_map; csell_GLOBAL_INIT_TAG(); YStore.page = t['TOK_PAGE']; YStore.currencySymbol = t['TOK_CURR_SYM']; YStore.crossSellUrl = t['TOK_WS_URL']; YStore.showCSRecs = t['TOK_SHOW_CS_RECS'];</script><script type="text/javascript" src="http://l.yimg.com/a/lib/smbiz/store/csell/js/recs-1.3.2.2.js"></script><script type="text/javascript">
 </script>
-<script language="javascript"> 
+<script type="text/javascript"> 
  <!-- 
  if (document.referrer && (document.referrer!='') && window.Image) 
  { 
- (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=47be085d&catalog=yhst-15967350103970&r=" + escape(document.referrer) + "&v=1"; }
+ (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=49491aa9&catalog=yhst-15967350103970&r=" + escape(document.referrer) + "&v=1"; }
  // --> 
- </script><script language="javascript"> 
+ </script><script type="text/javascript"> 
  <!-- 
  if (document.referrer && (document.referrer!='') && window.Image) 
  { 
- (new Image).src="http://redirect1.vip.store.yahoo.net/cgi-bin/referadd?spcl=1&et=47be085d&catalog=yhst-15967350103970&r=" + escape(document.referrer) + "&v=3"; }
+ (new Image).src="http://redirect1.vip.store.yahoo.net/cgi-bin/referadd?spcl=1&et=49491aa9&catalog=yhst-15967350103970&r=" + escape(document.referrer) + "&v=3"; }
  // --> 
  </script></body></html>
