@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609023307id_/http%3A//www.raymourflanigan.com/catalog/pop_up-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094422id_/http%3A//www.raymourflanigan.com/catalog/pop_up-privacy.asp) for the most accurate reproduction.*
 
-# Furniture for Every Room at Raymour & Flanigan - Privacy
+# Privacy Policy
 
 Raymour & Flanigan Furniture is committed to protecting your personal information. As a reminder, Raymour & Flanigan does not request personal information via e-mail or telemarketing. If someone contacts you in this manner and requests personal information on behalf of Raymour & Flanigan, DO NOT RESPOND! Delete, disregard or hang up. These questions are not from us. We want your personal information to remain private. If you have questions about Raymour & Flanigan's privacy practices, contact [privacy@raymourflanigan.com](mailto:%20privacy@raymourflanigan.com) or call toll free - 1.866.383.4484.
 
@@ -61,7 +61,7 @@ Some browser versions and some firewalls don't permit communication through secu
 
 ## Accessing and Updating Your Information
 
-You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the [Sign In](https://www.raymourflanigan.com/catalog/account_sign_in.asp) section of the site and then clicking on "Edit Your Account." 
+You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the [Sign In]() section of the site and then clicking on "Edit Your Account." 
 
 As a customer or subscriber you will occasionally receive e-mail communications about new Raymour & Flanigan products, special offers we think you'll like and requests for feedback. Raymour & Flanigan is an opt-out organization. You always have the ability to opt-in or opt-out of receiving future marketing communications from Raymour & Flanigan.
 
