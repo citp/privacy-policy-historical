@@ -1,0 +1,249 @@
+<!--The following is the downloaded HTML source of the ticketvala.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217094208id_/http%3A//www.ticketvala.com/ticketvala/html/privacy.shtml) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Book Bus Tickets Online, Bus Tickets Booking, Online Bus Ticket Reservation India</title>
+
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/intro.css" rel="stylesheet" type="text/css">
+<link href="css/forms.css" rel="stylesheet" type="text/css">
+<link href="css/datepicker.css" rel="stylesheet" type="text/css">
+<link href="css/faq.css" rel="stylesheet" type="text/css">
+<link href="css/mticket.css" rel="stylesheet" type="text/css">
+<link href="css/twk_autosuggest.css" rel="stylesheet" type="text/css">
+<link href="css/hotseat.css" rel="stylesheet" type="text/css">
+<link href="css/bushire.css" rel="stylesheet" type="text/css">
+<script src="../js/faq.js" type="text/javascript"></script>
+<script src="../js/newsticker.js" type="text/javascript"></script>
+<script src="../js/myscript.js" type="text/javascript"></script>
+<script src="../js/form.js" type="text/javascript"></script>
+<script src="../js/CalendarPopup.js" type="text/javascript"></script>
+<script src="../js/ajaxforcarbushotelhire.js" type="text/javascript"></script>
+<script src="../js/ajaxcontactus.js" type="text/javascript"></script>
+ <script src="../js/ajaxfeedback.js" type="text/javascript"></script>
+ <script src="../js/tkw.editable_combo_box.js" type="text/javascript"></script>
+<script src="../js/fadeinFadeout.js" type="text/javascript"></script><!-- included References to JS & CSS Files -->
+
+</head>
+
+<body id="privacy" class="twoColFixLtHdr">
+
+	<div id="container">
+    
+		 
+<ul id="topnav">
+        <li id="faq_tab"><a href="faq.shtml">FAQ's</a></li>
+        <li id="feedback_tab"><a href="feedback.shtml">Feedback</a></li>
+        <li id="contact_tab"><a href="contact.shtml">Contact Us</a></li>
+</ul>
+<div id="header" class="clearfix">
+	<img class="helpline" src="images/toll_free.gif" alt="Ticketvala Helpline" height="45" width="301">
+	<a href="/"><img src="images/ticketvala_logo1.gif" alt="Ticketvala Homepage" width="190" height="54" border="0"></a>
+	<p>India’s Largest Online<br>Bus Ticket Platform</p>
+</div>
+
+<div id="mainnav"><!-- beginning of main Navigation -->
+    <ul id="secondary_nav" class="inline">
+		<li id="cancel_tab"><a onclick="showPNR(); return false;" href="#">Cancel/Modify Booking</a></li>
+    <li style="margin-left:8px" id="travel_tab"><a href="http://agent.ticketvala.com">Travel Agent Login</a></li>
+    </ul>
+    <ul id="primary_nav" class="inline">
+        <!--<li><a href="">Home</a></li>-->
+        <li id="ticket_tab"><a href="/">Bus Tickets</a></li><!-- RetrieveBookingDirect.do?pageId=0&eventId=0 -->
+		 <li id="car_tab"><a href="car_hire.shtml">Car Hire</a></li>
+        <li id="bus_tab"><a href="bus_hire.shtml">Bus Hire</a></li>
+        <li id="hotel_tab"><a href="hotel_hire.shtml">Budget Hotels</a></li>
+        
+        <!--<li id="destination_tab"><a href="">Destinations</a></li>-->
+    </ul>
+</div>
+<div id="PNRcloserDiv">
+	<table>
+		<tbody><tr><th colspan="2">Please Enter your Booking Details</th></tr>
+		<tr><td colspan="2"><div id="pnrmsg"></div></td></tr>	
+		<tr>
+			<td class="small">* PNR-No.</td>
+			<td class="general"><input name="pnrno" type="text" id="pnrno" value="" class="text"></td>
+		</tr>
+		<tr>
+			<td class="small">Email ID</td>
+			<td class="time"><input name="email" type="text" id="email" value="" class="text"></td>
+		</tr>
+		<tr>
+			<td></td>
+				<td><label for="helpline" class="mylabel">
+				<input type="checkbox" name="helpline" id="helpline" class="check" value="helpline">
+				Booked through Ticketvala's Helpline</label>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" align="right">	
+				<button type="submit" class="button grey" onclick="toogleElement('PNRcloserDiv','none');removeWashOut();"><strong>Cancel</strong></button>
+				<button type="submit" class="button red" id="submit_btn" onclick="valForm_PNR();"><strong>Submit</strong></button>
+			</td>
+		</tr>
+	</tbody></table>			
+</div>
+
+
+<div id="HotSeatDiv">
+	<table>
+		<tbody><tr><th colspan="2">Please Enter your Booking Details</th></tr>
+		<tr><td colspan="2"><div id="pnrmsg"></div></td></tr>	
+		<tr>
+			<td class="small">No of Pax</td>
+			<td class="newtime">
+			<select name="paxno" id="paxno" class="text">
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+			</select>
+			</td>
+		</tr>
+		<tr>
+			<td class="small">SeatType</td>
+			<td class="time">
+			<select name="seattype" id="seattype" class="text">
+				<option value="Seat">Seat</option>
+				<option value="Sleeper">Sleeper</option>
+			</select>
+			<input type="hidden" name="valid" id="valid" value=""> 
+			<input type="hidden" name="currdate" id="currdate" value=""> 
+			</td>
+		</tr>
+		<tr>
+			<td></td>
+				
+		</tr>
+		<tr>
+			<td colspan="2" align="right">	
+				<button type="submit" class="button grey" onclick="toogleElement('HotSeatDiv','none');removeWashOut();"><strong>Cancel</strong></button>
+				<button type="submit" class="button red" id="submit_btn" onclick="valForm_HotSeat();"><strong>Submit</strong></button>
+			</td>
+		</tr>
+	</tbody></table>			
+</div>
+<!-- included header -->
+
+         <div id="globalcontent">
+         
+            <div class="globalcontentarea">
+            
+				<h1>Privacy Policy</h1>
+    
+                        <p>
+                        Ticketvala respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites.
+        In general, you can visit Ticketvala website without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous.
+                        </p>
+                        
+                        <p>
+                        There are times when we have to collect personal information from you such as name, physical address or telephone number. It is our intent to inform you before we do that and to tell you what we intend to do with the information. You can choose not to provide the information that we requested and still visit the Ticketvala website, but you may be unable to access certain options, offers and services.
+                        </p>
+                        
+                        <p>
+                        Ticketvala will take appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. Ticketvala will continue to enhance our security procedures as new technology becomes available.
+                        </p>
+                        
+                        <p>If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. Please reference the privacy policy in your subject line. Ticketvala will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
+                        </p>
+                        
+                        <p>
+                        Thank you for using Ticketvala!
+                        </p>
+                        
+       		</div>		
+                
+        
+            	<div class="rightpromos">
+                
+    				 <a href="smallBox_SpecialOfferforTouristLanding.shtml"><img src="images/offer_tourists.jpg" height="112" width="154" alt=""></a>
+<a href="smallBox_SouthernComfortLanding.shtml"><img src="images/southern_comfort.jpg" height="112" width="154" alt=""></a>
+<a href="smallBox_BhaktiYatraLanding.shtml" class="lastad"><img src="images/bhakti_yatra.jpg" height="112" width="154" alt=""></a><!-- included right promos-->
+
+                    
+                </div> 
+                
+        </div><!-- end #mainContent -->
+        
+		<br class="clearfloat">
+        
+        <div id="myfooter">
+
+	<div id="rightCol1" style="float:right;">
+		<table cellspacing="5" cellpadding="5" border="0">
+			<tbody><tr>
+				<td>
+					<h3>Ticket Trouble</h3>
+					For cancellations, lost tickets or viewing booking details <a onclick="showPNR();" href="#">click here</a>.
+				</td>
+				<td>
+					<h3>Home Delivery</h3>					
+					Available in Ahmedabad, Bangalore, Chennai, Hyderabad, Mumbai and Pune.										
+				</td>
+				<td>
+					<h3>Partner With Us</h3>					
+					<a href="mailto:business@ticketvala.com">Email us</a> with your business ideas.						
+				</td>
+			</tr>
+		</tbody></table>	
+	</div>
+</div> <!-- my footer -->	
+
+<div id="bottompanel"><!-- beginning of Bottom Panel -->
+		<div id="part_technology">
+			<p>Alliance Partners:</p>
+			<img src="images/partners/ebay.jpg" alt="eBay.in" width="90" height="40">
+			<img src="images/partners/zapak.jpg" alt="Zapak" width="90" height="40">
+			<img src="images/trans.gif" width="70" height="40">
+		</div>
+		<div id="part_business">
+			<p>Payment Partners:</p>
+			<img src="images/partners.gif" alt="Master Card" width="324" height="40">
+			<!--<img src="images/partners/mastercard.jpg" alt="Master Card" width="55" height="40"/>
+			<img src="images/partners/visa.jpg" alt="Visa Card" width="61" height="40"/>
+			<img src="images/partners/hdfcbank.jpg" alt="Hdfc Bank" width="120" height="40"/>
+			<img src="images/partners/oxicash.jpg" alt="Oxicash" width="88" height="40"/>
+		--></div>
+		<div id="part_technologynew">
+		<img src="images/trans.gif" width="25" height="40">
+			<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.ticketvala.com&amp;lang=en" onclick="window.open('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.ticketvala.com&amp;lang=en','','width=720,height=450,scrollbars=1'); return false;">
+<img src="http://www.ticketvala.com/ticketvala/images/verisign-seal.gif" width="95" height="55" border="0" align="absmiddle" alt="VeriSign Secured"></a>
+						<!--<script src=https://seal.verisign.com/getseal?host_name=www.ticketvala.com&size=M&use_flash=YES&use_transparent=YES&lang=en></script>-->
+						
+            </div>
+		
+</div>
+
+<div id="footer">
+	<div id="footermenu">
+		<ul id="footerrightmenu" class="inline">
+			<li id="terms_tab"><a href="terms.shtml">Terms &amp; Conditions</a></li>
+			<li id="privacy_tab"><a href="privacy.shtml">Privacy Policy</a></li>
+		</ul>
+		<ul id="footerleftmenu" class="inline">
+			<li id="about_tab"><a href="about.shtml">About Us</a></li>
+			<li id="partners_tab"><a href="partners.shtml">Our Partners</a></li>
+			<li id="faq_tab"><a href="faq.shtml">FAQ's</a></li>
+			<li id="contact_tab"><a href="feedback.shtml">Contact Us</a></li>
+			<li id="feedback_tab"><a href="contact.shtml">Feedback</a></li>
+		</ul>
+	</div>
+	<p>All rights reserved © copyright 2007-2008 Ticketvala.com</p>	
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-950199-1");
+pageTracker._trackPageview();
+</script><!-- included homepage footer -->
+
+	</div><!-- end #container -->
+    
+
+
+</body></html>
