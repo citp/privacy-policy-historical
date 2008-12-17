@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roxypalace.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024153711id_/http%3A//www.roxypalace.com/EN/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxypalace.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024514id_/http%3A//roxypalace.com/EN/privacy_statement.aspx) for the most accurate reproduction.*
 
-# Roxy Palace - Privacy Statement
+# Roxy Palace Online Casino — Privacy Statement
 
 Roxy Palace Online Casino and associated companies highly value and respect the privacy of all our online visitors and players. This document is designed to demonstrate our strong commitment to your privacy, and discloses how we gather and disseminate information from our websites, and security procedures in place for protection of your information. 
 
