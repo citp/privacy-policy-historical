@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the surveys4checks.com privacy policy that was archived on 2008-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080216025815id_/http%3A//www.surveys4checks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveys4checks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217173901id_/http%3A//www.surveys4checks.com/privacy.html) for the most accurate reproduction.*
 
-# Surveys4Checks.com - Get Paid To Take Surveys Today. Work From Home and make $500-$3500 Per Month.
-
-Privacy Policy  
-
+# Surveys4Checks.com | Privacy Policy
 
 **Survey4Checks.com takes your privacy seriously** , and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information.
 
@@ -57,10 +54,9 @@ Survey4Checks.com provides every user with the opportunity to opt-out of receivi
 
 **Contacting Survey4Checks.com**
 
-If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above.
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please [contact us](http://www.surveys4checks.com/contact.html).
 
 **Policy Changes**
 
-Survey4Checks reserves the right to change this privacy policy at any time.
+Survey4Checks reserves the right to change this privacy policy at any time.  
 
-This Privacy Policy was last revised on September 15, 2006.
