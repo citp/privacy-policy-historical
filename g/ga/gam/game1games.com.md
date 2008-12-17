@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game1games.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620045805id_/http%3A//www.game1games.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game1games.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217181056id_/http%3A//www.game1games.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
 
 # Game1Games.com - Privacy Policy
 
@@ -6,7 +6,7 @@ WEB ENTERTAINMENT PRODUCTIONS, INC. PRIVACY POLICY
 
 **GAME1GAMES.COM**
 
-Web Entertainment Productions, Inc. we appreciates our relationship with you, respects that your information is yours, and is committed to safeguarding your privacy when you’re using our web site. The following describes our collection of and use of any information that we may collect from you.
+Web Entertainment Productions, Inc. we appreciates our relationship with you, respects that your information is yours, and is committed to safeguarding your privacy when you�re using our web site. The following describes our collection of and use of any information that we may collect from you.
 
 **Questions**
 
@@ -15,11 +15,11 @@ If you have any questions, we can be reached via
 
 **We generally do not collect any information.**
 
-For each visitor to our Site, our web server does not recognize any **** information regarding the visitor’s domain or e-mail address. We only collect information that you voluntarily provide to us.
+For each visitor to our Site, our web server does not recognize any **** information regarding the visitor�s domain or e-mail address. We only collect information that you voluntarily provide to us.
 
 **We do not use Cookies but our third party advertisers might use Cookies.**
 
-A cookie is a small amount of data that is sent to your computer’s hard drive through your web browser to enable us to recognize your computer and to deliver personalized features. The information collected by cookies is sometimes called “clickstream” or “click trail” and may also describe which areas of the Site you have used. We do not use cookies at this time. However, in the course of serving advertisements to this Site, our third-party advertisers may place or recognize a unique cookie on your browser. We do not receive any such information from our third party advertisers nor do we have any control over such third party advertisers or the use of any such information that is collected.
+A cookie is a small amount of data that is sent to your computer�s hard drive through your web browser to enable us to recognize your computer and to deliver personalized features. The information collected by cookies is sometimes called �clickstream� or �click trail� and may also describe which areas of the Site you have used. We do not use cookies at this time. However, in the course of serving advertisements to this Site, our third-party advertisers may place or recognize a unique cookie on your browser. We do not receive any such information from our third party advertisers nor do we have any control over such third party advertisers or the use of any such information that is collected.
 
 **We collect certain information if you request our Newsletter.**
 
