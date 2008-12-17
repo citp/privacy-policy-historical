@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the folkd.com privacy policy that was archived on 2008-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080603002436id_/http%3A//www.folkd.com/page/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the folkd.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217020203id_/http%3A//www.folkd.com/page/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="application/xhtml+xml;  charset=utf-8">
-	<meta name="description" content="Social Bookmarks about the most interesting webpages on these topics.">
-	<meta name="keywords" content="Social Bookmarks">
+	<meta name="description" content="folkd.com - Social Bookmarking - Save your bookmarks online and share them with your friends.">
+	<meta name="keywords" content="Social Bookmarking, bookmarks, news, web2.0, videos, audios, blogs">
 	<meta name="robots" content="index">
 	<title>folkd.com - Enrich your websurfing experience</title>
 	<link rel="search" type="application/opensearchdescription+xml" title="folkd.com Search" href="/folkd-opensearch.xml">
@@ -17,9 +17,9 @@
 	var OutsideMenu = new Object();
 	var chatwindows   = new Object();
 	var pendingChatRequests   = new Array('---'); // do not change !!! needed for inarray >0 comparison
-	
-	function $(i) {  	 
-	    return document.getElementById(i); 	 
+
+	function $(i) {
+	    return document.getElementById(i);
 	}
 	function initTabDIVs( id, alltabs ) {
 		tabsets[id] = new Array();
@@ -27,17 +27,17 @@
 			tabsets[id].push( alltabs[i] );
 		}
 	}
-	
+
 	var OutsideMenu = new Object();
 	function RMenu(e,type,key,action,icon) {
-		var menu 	= document.getElementById(type+'menu'+key);	
+		var menu 	= document.getElementById(type+'menu'+key);
 		var img 	= document.getElementById(type+'menuimg'+key);
 		var trigger = document.getElementById(type+'menutrigger'+key);
 			if (type.length>0){
 			switch(action) {
 				case "outTrigger":
 					if (menu.style.display=='none') {
-	
+
 						trigger.style.backgroundColor='';
 					} else {
 						OutsideMenu[key] = true;
@@ -55,9 +55,9 @@
 					if (menu.style.display=='none') {
 						menu.style.display='block';
 						OutsideMenu[key] = false;
-						some_menu_active = 1;						
+						some_menu_active = 1;
 					} else {
-						menu.style.display='none';						
+						menu.style.display='none';
 					}
 					break;
 				case "outMenu":
@@ -71,24 +71,24 @@
 					if(OutsideMenu[key]){
 						some_menu_active = 0;
 						menu.style.display = "none";
-						//img.src= 'chrome://folkd/skin/classic/'+icon+'-Down.gif',
+						//img.src= 'http://i.folkd.com/images/'+icon+'-Down.gif',
 						RMenu(e,type,key,'outTrigger',icon);
 					}
 					break;
 				default:
 					return false;
 					break;
-			}	
+			}
 		}
 	}
-	
+
 	</script>
 	<link rel="stylesheet" href="/styles/folkd.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/styles/form.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/styles/table.css" type="text/css" media="screen">
 		<!-- style definitions for calendar -->
 	<link rel="shortcut icon" href="/favicon.ico">
-	<link id="rssfeed" rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss.php?items=3&amp;find=0&amp;sort=2">	</head>
+	<link id="rssfeed" rel="alternate" type="application/rss+xml" title="RSS 2.0" href="">	</head>
 <body id="top">
 	<div id="container">
 		<div id="header">
@@ -97,20 +97,20 @@
 				<a href="/page/privacy.html?lang=de"><img src="/images/flag-germany.gif" alt="use german" style="vertical-align:middle;"></a>
 				<a href="/page/privacy.html?lang=es"><img src="/images/flag-spain.gif" alt="use spanish" style="vertical-align:middle;"></a>
 				<a href="/page/privacy.html?lang=fr"><img src="/images/flag-france.gif" alt="use french" style="vertical-align:middle;"></a><br>
-				<a href="/page/explore.html">Explore</a>  · <a href="/blog">Blog</a> · <a href="/page/feedback.html">Help / Feedback</a> · <a href="/page/faq.html">FAQ</a>
+				<a href="/page/explore.html">Explore</a> · <a href="/page/feedback.html">Help / Feedback</a> ·  <a href="http://twitter.com/folkd">twitter</a>
 			</div>
-		
+
 								<div id="title"><a href="/"><img src="/images/title.gif"></a></div>
 					<div id="logo"><a href="/"><img src="/images/logo200.gif" alt="folkd logo" title="folkd logo"></a></div>
 					<div class="spacer clear"></div>
 					<div id="subheader">
 								<div style="font-weight:bold; padding:3px 0px 0 0; width:20px; float:right; text-align:center; margin:0 2px 0 10px;">
-			<img id="link_toogle" class="pointer" src="/images/button-search.gif" onclick="this.blur(); $('toggle_search').toggle();return false;"></div>					<span class="grey">Get in touch:</span> 
-					<a href="/page/register.html"><strong>Register</strong></a> for a free account · 
+			<img id="link_toogle" class="pointer" src="/images/button-search.gif" onclick="this.blur(); $('toggle_search').toggle();return false;"></div>					<span class="grey">Get in touch:</span>
+					<a href="/page/register.html"><strong>Register</strong></a> for a free account ·
 					Already a member? <a href="/page/login.html"><strong>Login</strong></a>
 							</div>
 		</div>
-	
+
 		<div id="toggle_search" style="display:none;">
 <div id="global_search">
         <form action="/q/" name="global_search_form" id="global_search_form" method="post" accept-charset="utf-8">
@@ -137,7 +137,6 @@
                 <div style="background:#F1F1F1; line-height:33px; padding:14px 0 0 15px;">
                         <input type="text" id="searchfor_word" name="q" value=""><input class="submit" type="submit" style="margin:0 0 -1px 4px;" id="global_search_submit" value="Search"><br>
                         <input type="checkbox" id="check_pages" name="check_pages" checked="checked"><label for="check_pages"><img src="/images/dot-page.gif"></label> <a href="/page/pages.html">pages</a>
-                        <input type="checkbox" id="check_audio" name="check_audio" checked="checked"><label for="check_audio"><img src="/images/dot-audio.gif"></label> <a href="/page/audio.html">audio</a>
                         <input type="checkbox" id="check_news" name="check_news" checked="checked"><label for="check_news"><img src="/images/dot-news.gif"></label> <a href="/page/news.html">news</a>
 <input type="checkbox" id="check_video" name="check_video" checked="checked"><label for="check_video"><img src="/images/dot-video.gif"></label> <a href="/page/video.html">video</a>
                         <input type="hidden" id="check_notes" name="check_notes">                </div>
@@ -266,7 +265,7 @@
 		<a href="/page/about.html">About folkd.com</a>
 		· <a href="/page/download.html">Download</a>
 		· <a href="/page/features.html">Features and Facts</a>
-		· <a href="/page/tour.html">Quick Tour with Screenshots</a>
+		· <a href="/page/tour.html">Quick intro</a>
 		· <a href="/page/proaccount.html">Pro Account</a>
 		· <a href="/page/credits.html">Credits</a><br>
 	<div style="float:left;width:120px;" class="grey">About the business:</div>
@@ -287,8 +286,7 @@
 		· <a href="/page/webpublishers.html">folkd for Web Publishers</a>
 	
 	<div style="margin-left:20px;" class="grey inline">Partner:</div>
-		<a href="http://www.pressebox.de">PresseBox</a> · <a href="http://www.accreditas.de/inkasso.html">Inkasso</a>
-		<br>
+		<a href="http://www.pressebox.de">PresseBox</a>		<br>
 	
 		
  	<div class="grey size12" style="margin-top:7px; text-align:center;">
@@ -302,20 +300,6 @@
 	</div>
 
 </div>
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1" height="1" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" id="flv_playa" style="position:absolute">
-	<param name="movie" value="/media/flv_playa.swf">
-	<param name="quality" value="high">
-	<param name="flashvars" value="autoplay=false&amp;urlfile=">
-	<embed name="flv_playa" src="/media/flv_playa.swf" width="1" height="1" quality="high" swliveconnect="true" flashvars="autoplay=false&amp;urlfile=" pluginspage="http://www.macromedia.com/go/flashplayer/" style="position:absolute">
-	
-</object>
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1" height="1" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" id="mp3_playa" style="position:absolute">
-	<param name="movie" value="/media/mp3_playa.swf">
-	<param name="quality" value="high">
-	<param name="flashvars" value="autoplay=false&amp;urlfile=">
-	<embed name="mp3_playa" src="/media/mp3_playa.swf" width="1" height="1" quality="high" swliveconnect="true" flashvars="autoplay=false&amp;urlfile=" pluginspage="http://www.macromedia.com/go/flashplayer/" style="position:absolute">
-	
-</object>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -327,4 +311,4 @@ pageTracker._trackPageview();
 </script>
 
 
-<!-- q7 / i4 --></body></html>
+<!-- q / i4 --></body></html>
