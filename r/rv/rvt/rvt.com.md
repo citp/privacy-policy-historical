@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the rvt.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505054552id_/http%3A//www.rvt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvt.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075647id_/http%3A//www.rvt.com/privacy.php) for the most accurate reproduction.*
 
 # RVT Privacy Agreement
 
-[](http://www.truste.org/ivalidate.php?url=www.rvt.com&sealid=101) |   |  **Natco Trading Corporation, DBA RV Trader** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.rvt.com](http://www.rvt.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+[](http://www.truste.org/ivalidate.php?url=www.rvt.com&sealid=101) |   | 
+
+Last Updated: May 21 2008
+
+**Natco Trading Corporation, DBA RV Trader** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.rvt.com](http://www.rvt.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact RVTrader Support at [tradersupport@rvt.com](mailto:tradersupport@rvt.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -39,9 +43,9 @@ This policy will let you know:
 
 ### What personally identifiable information is collected from you
 
-The RV Trader Classifieds collects information in several ways from different parts of our web site from both users (buyers and sellers) and dealers. 
+The RV Trader Classifieds collects information in several ways from different parts of our web site from the buyers, users and dealers. 
 
-Personal information is gathered when you register as a user or a dealer on our site. During registration, we ask for information such as, name and email address, street address, city, state/province, zip/postal code, country, telephone number, company name, vehicle information, and the URL of your web site, although only fields that are marked with an asterisk (*) on the registration field are required. This information is used solely to assist you in navigating the system by automatically filling in certain forms (such as the ad posting form) with your information so that you don't have to continually re-enter it. Once you register you are no longer anonymous to RV Trader - you have a username and are able to take full advantage of the many offerings of the RV Trader Classifieds. 
+Personal information is gathered when you register as a user or a dealer on our site. During registration, we ask for personally identifiable information such as, name and email address, street address, city, state/province, zip/postal code, country, telephone number, company name, vehicle information, and the URL of your web site, although only fields that are marked with an asterisk (*) on the registration field are required. This information is used solely to assist you in navigating the system by automatically filling in certain forms (such as the ad posting form) with your information so that you don't have to continually re-enter it. Once you register you are no longer anonymous to RV Trader - you have a username and are able to take full advantage of the many offerings of the RV Trader Classifieds. 
 
 In addition to registration we ask you for personal information at other times, including (but not limited to) when you place ads or take advantage of the other features of the RV Trader Classifieds such as Auto Notify, Dealer Inventory, and Contact us. We use the information submitted only to provide the service you have requested and for no other purpose. If you contact us, we may keep a record of that correspondence. Every page within the RV Trader Classifieds includes a link to this Privacy Policy. 
 
@@ -99,7 +103,7 @@ Back to Top
 
 ### Links to Other Sites
 
-This Web site contains links to other sites that are not owned or controlled by RV Trader. Please be aware that we, RV Trader are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site. 
+This Web site contains links to other sites that are not owned or controlled by RV Trader. Please be aware that we, RV Trader are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by these Web sites as denoted by the URLs described at the beginning of this statement. 
 
 Back to Top
 
@@ -123,7 +127,7 @@ Back to Top
 
 ### Public Display of Personally Identifiable Information
 
-Some functions on our site will, by their very nature, result in your personal information being revealed to other users of the RV Trader Classifieds. For example, when you enter personal information on the ad posting form, this information will generally be included in your ad, unless specifically stated otherwise. Please be aware that information that you submit in your classified ad can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+Some functions on our site will, by their very nature, result in your personal information being revealed to other users of the RV Trader Classifieds. For example, when you enter personal information on the ad posting form, this information will generally be included in your ad, unless specifically stated otherwise. Please be aware that information that you submit in your classified ad can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in your ad listings or on these forums. 
 
 Back to Top
 
@@ -131,7 +135,7 @@ Back to Top
 
 ### Testimonials
 
-We use testimonials on our site. We receive permission to post the testimonials in advance of their posting. If you would like your testimonial removed at any time, please contact us at [tradersupport@rvt.com](mailto:tradersupport@rvt.com). 
+We use testimonials on our Web Sites(s). We receive permission to post the testimonials in advance of their posting. If you would like your testimonial removed at any time, please contact us at [tradersupport@rvt.com](mailto:tradersupport@rvt.com). 
 
 Back to Top
 
@@ -139,7 +143,7 @@ Back to Top
 
 ### With whom your information may be shared
 
-RV Trader will not share any of your personally identifiable information with third parties except our service providers without your prior consent and as described in this privacy statement. 
+RV Trader will not share any of your personally identifiable information with third parties except our service providers without your prior and explicit consent and only as described in this privacy statement. 
 
 Back to Top
 
