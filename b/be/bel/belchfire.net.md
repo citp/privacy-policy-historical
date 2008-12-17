@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430030148id_/http%3A//belchfire.net/index.php%3Fshowtopic%3D8794) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217233051id_/http%3A//belchfire.net/index.php%3Fshowtopic%3D8794) for the most accurate reproduction.*
 
-# Privacy Policy - Belchfire Free Windows XP Themes and Vista Themes
+# Privacy Policy - Belchfire XP Themes and Vista Themes
 
 Admin  
 
 
 Group: Admin
 
-Posts: 8,218
+Posts: 9,507
 
 Joined: 17-July 04
 
