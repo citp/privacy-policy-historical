@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmawarehouse.com privacy policy that was archived on 2008-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080212043315id_/http%3A//www.mmawarehouse.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmawarehouse.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081120id_/http%3A//www.mmawarehouse.com/Terms_privacy.asp) for the most accurate reproduction.*
 
-# MMA Gear, Fight Shirts, Mixed Martial Arts Equipment and Clothing - MMAWarehouse.com
+# MMAWarehouse.com - MMA Clothing, MMA Gear, Fight Shirts, MMA Shorts and MMA Gloves
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20080212043315id_/http%3A//www.mmawarehouse.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20081217081120id_/http%3A//www.mmawarehouse.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
