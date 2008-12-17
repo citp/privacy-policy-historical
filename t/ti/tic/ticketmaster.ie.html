@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ticketmaster.ie privacy policy that was archived on 2008-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080608084443id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ticketmaster.ie privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217091845id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Ticketmaster.ie - Privacy</title>
@@ -14,7 +14,8 @@
 <meta name="expires" content="never">
 <meta name="distribution" content="global">
 <meta name="robots" content="index">
-<!-- ClickStream MetaTags - Begin -->
+<link rel="shortcut icon" href="http://www.ticketmaster.ie/favicon.ico"><!-- ClickStream MetaTags - Begin -->
+
     <meta name="DCSext.cntry" id="DCSext.cntry" content="IE">
     <meta name="DCSext.mkt" id="DCSext.mkt" content="99999">
     <meta name="DCSext.lang" id="DCSext.lang" content="en-gb">
@@ -25,16 +26,26 @@
 
 
 <!-- ClickStream MetaTags - End -->
-    <link href="http://media.ticketmaster.co.uk/en-gb/css/982d8a309fdcbdd62ae66c0c7c16b5ee/tm_layout.css" rel="stylesheet" type="text/css">
-    <link href="http://media.ticketmaster.co.uk/en-gb/css/982d8a309fdcbdd62ae66c0c7c16b5ee/core.css" rel="stylesheet" type="text/css">
-    <link href="http://media.ticketmaster.co.uk/en-gb/css/982d8a309fdcbdd62ae66c0c7c16b5ee/tmAds.css" rel="stylesheet" type="text/css">
-       <link href="http://media.ticketmaster.co.uk/en-gb/css/982d8a309fdcbdd62ae66c0c7c16b5ee/tm_style_new.css" rel="stylesheet" type="text/css">
+
+<script language="JavaScript" src="http://media.ticketmaster.co.uk/en-gb/js/2e4419f90dc1652aa5d8760547c7850c/tmjs.js" type="text/javascript"></script>
+
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.co.uk/en-gb/js/2e4419f90dc1652aa5d8760547c7850c/prototype/prototype.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.co.uk/en-gb/js/2e4419f90dc1652aa5d8760547c7850c/prototype/builder.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.co.uk/en-gb/js/2e4419f90dc1652aa5d8760547c7850c/prototype/effects.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.co.uk/en-gb/js/2e4419f90dc1652aa5d8760547c7850c/prototype/dragdrop.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.co.uk/en-gb/js/2e4419f90dc1652aa5d8760547c7850c/prototype/controls.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.co.uk/en-gb/js/2e4419f90dc1652aa5d8760547c7850c/prototype/slider.js"></script>
 
 
 
-<script language="JavaScript" src="http://media.ticketmaster.co.uk/en-gb/js/982d8a309fdcbdd62ae66c0c7c16b5ee/tmjs.js" type="text/javascript"></script>
 
-<script language="JavaScript" src="http://media.ticketmaster.co.uk/en-gb/js/982d8a309fdcbdd62ae66c0c7c16b5ee/unicode.js"></script>
+
+<script language="JavaScript" src="http://media.ticketmaster.co.uk/en-gb/js/2e4419f90dc1652aa5d8760547c7850c/global.js" type="text/javascript"></script>
+
+<script language="JavaScript" src="http://media.ticketmaster.co.uk/en-gb/js/2e4419f90dc1652aa5d8760547c7850c/base64.js"></script>
+
+<script language="JavaScript" src="http://media.ticketmaster.co.uk/en-gb/js/2e4419f90dc1652aa5d8760547c7850c/unicode.js"></script>
 
 
 
@@ -120,232 +131,152 @@ function grabUrl() {
    TMObject(mName).SetVariable("tmUrl", tmPath);
 
 }
-</script>
-<!--b4 dc--><script type="text/javascript"><!--//<![CDATA[
-        var sitezone = 'P4542.TKT/other';
 
+//////////////////////////////////////////////////////////////////////////
+// Change Location JS for Top Nav and Browse Box
+//////////////////////////////////////////////////////////////////////////
+    var reg_ex = new RegExp("&eacute;","g");
+    var replaceItem = '\u00E9';
+
+var location_text = 'Enter region or postcode';
+location_text = location_text.replace(reg_ex,replaceItem);
+
+var page_context_uri = "L2xlZ2FsL3ByaXZhY3kuaHRtbD90bV9saW5rPXRtX2hvbWVBX2lfcHA";
+
+
+        new CookieTree( '_E' ).remove( 'did' );
+        new CookieTree( '_E' ).remove( 'pp' );
+
+</script>
+
+<!--b4 dc--><script type="text/javascript"><!--//<![CDATA[
+        var unanimis_zone = 'other';
+        var unanimis_kv = '';
         var loc = escape(location.pathname);
         var path = loc.substring(1).split('/');
         if (location.protocol == 'https:')
-            { sitezone='P4542.TKT/ssl'; var http='https:'; }
+            { unanimis_zone='ssl'; var http='https:'; }
         else
             { var http='http:'; }
-        function writeDart(sz, pos) {
-            if (typeof(sz) == 'undefined') { return; }
-            if (typeof(pos) != 'undefined') { pos = ';pos='+pos; }
-            else { pos = ''; }
-            if (typeof(document.dfp_ord) == 'undefined')
-            { document.dfp_ord = Math.floor(Math.random()*999999999); }
-            if (typeof(document.dfp_tile) == 'undefined') {
-                document.dfp_tile = 1;
-                var dfp_dcopt = ';dcopt=ist';
-            }
-            else {
-            document.dfp_tile++;
-            var dfp_dcopt = '';
-            }
-            uName = sz +'-'+ pos;
-            curSize = sz.split("x");
-            document.write('<iframe id="'+uName+'" name="'+uName+'"'+ ' src="'+http+'//ad.uk.doubleclick.net/adi/'+sitezone);
-            document.write(';kw='+path.join(',')+';'+ 'tile='+document.dfp_tile+dfp_dcopt+';true=1;'+ kv.replace(/%3D/g,'=').replace(/%3B/g,';')+';'+ pos+';sz='+sz+';ord='+document.dfp_ord);
-            document.write('" framespacing="0" frameborder="no" scrolling="no"'+ ' width="'+curSize[0]+'" height="'+curSize[1]+'"');
-            document.write('></iframe>');
-        }
+
     //]]>--></script><!--after dc-->
-
-<meta name="DCSext.uri" content="/web/20080608084443id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp"></head>
-<body id="body" onload="SS_preloadImages('http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_music_over.jpg','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_sports_over.jpg','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_arts_over.jpg','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_family_over.jpg')" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-
-<noscript>
-<div style="background-color:#FFF3D2; border-bottom:1px solid #E4D199; margin-bottom:15px; padding:10px;" align="center">
-You must set your browser to <a href="http://www.ticketmaster.ie/h/cookies.html">accept cookies</a> and to <a href="http://www.ticketmaster.ie/h/javascript.html">enable Javascript</a> in order to access certain functions of this site, including the purchase of tickets.
-</div>
-</noscript>
-<div id="paddingContainer">
-<div id="frame">
-<div id="topContainer">
+    <link href="http://media.ticketmaster.co.uk/en-gb/css/2e4419f90dc1652aa5d8760547c7850c/legacy.css" rel="stylesheet" type="text/css">
+    <link href="http://media.ticketmaster.co.uk/en-gb/css/2e4419f90dc1652aa5d8760547c7850c/default.css" rel="stylesheet" type="text/css">
+    <link href="http://media.ticketmaster.co.uk/en-gb/css/2e4419f90dc1652aa5d8760547c7850c/langoverlay_en-gb.css" rel="stylesheet" type="text/css">
 
 
+    
 
-<div align="center" class="logoLocation-container" id="logoLocation">
-    <table width="755" border="0" align="center" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-        <td valign="middle">
-            <div class="floatLeft"><a href="http://www.ticketmaster.ie/section"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tmLogo.jpg" alt="Ticketmaster" width="159" height="30" border="0"></a>            </div></td>
-        <td valign="middle" class="paddingLeftRight10px" nowrap="nowrap">
-            <div class="floatRight"><a href="http://www.ticketmaster.ie/etc/?tm_link=tm_retail_header" title="Ticket Centres">Ticket Centres</a>  |  <a href="http://www.ticketmaster.ie/about_us/worldwide/?tm_link=tm_intl_header">International</a>&nbsp;|&nbsp;<a href="http://www.ticketmaster.ie/h/help.html?tm_link=tm_help_header" title="Help">Help</a>            </div>
-         </td>
-    </tr>
-    </tbody></table>
-</div>
-<script language="JavaScript">
-var member_name = GetCookie("MNAME");
-var check1 = GetCookie("MID");
-var member_text = "";
-var action_text;
+    
+    
 
-if ( check1 == null || check1.length == 0 ) {
-     member_text = "";
-     action_text = "Log In";
-     member_name = null;
-}
-else {
-     if (window.decodeURI != null) {
-          var decoded = decodeURI(escape(member_name));
-          if (decoded != null && decoded.length > 0) member_name = decoded;
-     }
-     if( member_name != 'null' ) {
-         member_name = member_name.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/\"/g,"&quot;");
-         member_text = ", " + member_name;
-     }
-     action_text = "Log Out";
-}
+    
 
-function buildLink( myFlag ) {
-     if( myFlag == "log" ) {
-         if ( check1 == null || check1.length == 0 ) {
-             var theLink = "https://www.ticketmaster.ie/member?";
-         }
-         else {
-             var theLink = "https://www.ticketmaster.ie/member/logout";
-         }
-         document.write( "<a href=\"" + theLink + "\" class=\"passive\">");
-     }
-     else {
-          if( check1 != null || check1.length != 0 ) {
-               var theLink = "https://www.ticketmaster.ie/member/edit_subscriptions?tm_link=tm_alert_header";
-          }
-          else {
-               var theLink = "http://www.ticketmaster.ie/ticketalerts/?tm_link=tm_alert_header";
-          }
-          document.write( "<a href=\"" + theLink + "\" class=\"active\" title=\"Sign Up \/ Log In for TicketAlerts\">");
-     }
-}
-</script>
-<div id="tabs">        <style type="text/css">
-            #gcFlyover-wrapper{
-                position:absolute;
-                z-index:3;
-                height:46px;
-                width:108px;
-                cursor:pointer;
-                margin:-20px 0px 0px 662px;
+        <script type="text/javascript"><!--
+            var major_cat_cookie = GetCookie("MAJOR_CATEGORY");
+            var css_link_href = "http://media.ticketmaster.co.uk/en-gb/css/2e4419f90dc1652aa5d8760547c7850c/cat_" + major_cat_cookie + ".css";
+
+            var major_cat_cookie_style = "\n<link href='" + css_link_href + "' rel='stylesheet' type='text/css' />\n";
+          if(major_cat_cookie){
+              document.write( major_cat_cookie_style );
+              }
+        //-->
+        </script>
+    
+
+        <!--[if IE 6]>
+        <style>
+            #logoBox {
+            filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/tmLogo.png');
+            }
+            .less #change_location {
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/locboxbg_wt.png');
+            }
+            .less #location_button {
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/locboxbg_wt_rt.png');
+            }
+            #locBoxTop {
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/locationbox_top.png');
+            }
+            #locBoxMid {
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/locationbox_mid.png');
+            }
+            #locBoxBot {
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/locationbox_bot.png');
+            }
+            #colLeft .lid {
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/corners/lid_left.png');
+            }
+            .wrap-myTM .lid {
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/corners/lid-mytm.png');
+            }
+            #seeEvents .lid {
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/corners/wrap_top_search.png');
+            }
+            #leftCol #seeEvents .lid {
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/corners/wrap_top_search_rt.png');
+            }
+            .lid-cat .roundBot {
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/corners/lid_browse_bot.png');
+            }
+            .lid-cat {
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/corners/lid_browse_top.png');
+                    height: 40px;
+            }
+            .dropdown {
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/shad_box.png');
+            }
+            .dropdownSm {
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/shad_box_sm.png');
             }
         </style>
-        <div id="gcFlyover-wrapper">
-<iframe width="108" height="46" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.as4x.tmcs.net/html.ng/Params.richmedia=yes&amp;site=tmie&amp;pagepos=1000&amp;adsize=108x46&amp;page=legal&amp;dmaid=99999&amp;bgcolor=ffffff&amp;cceclassid=&amp;lang=en-gb"></iframe>
-
-
-
-
-
-
-
-
-
-
-
-</div>    <table width="770" cellpadding="0" align="center" cellspacing="0" border="0" class="topNav-subLedgeStroke">
-        <tbody><tr>
-            <td align="center">
-                <table cellpadding="0" cellspacing="0" border="0">
-                    <tbody><tr>
-                        <td valign="top"><a href="http://www.ticketmaster.ie/section?tm_link=tm_home_header" title="Home"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_home_off.gif" height="27" border="0" alt="Home"></a></td>
-                        <td width="4"></td>                        <td valign="top"><a href="https://www.ticketmaster.ie/member?tm_link=tm_myaccount_header" title="My Ticketmaster"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_mytm_off.gif" height="27" border="0" alt="My Ticketmaster"></a></td>
-                    </tr>
-                </tbody></table>
-            </td>
-        </tr>
-        <tr>
-            <td class="topNav-subLedge"></td>
-        </tr>
-    </tbody></table>
-</div>
-
-<div id="tabsSub">        <table width="770" cellpadding="0" align="center" cellspacing="0" border="0">
-            <tbody><tr>
-                <td width="169" class="topNav-subL"><br></td>
-                <td width="1" class="topNav-subSpace"></td>
-                <td width="64"><a href="http://www.ticketmaster.ie/section/concerts?tm_link=tm_music_header" title="Category: Music" onmouseover="SS_swapImage('Image1','','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_music_on.gif',1)" onmouseout="SS_swapImgRestore()"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_music_off.gif" height="21" width="64" border="0" alt="Category: Music" name="Image1" id="Image1"></a></td>
-                <td width="1" class="topNav-subSpace"></td>
-                <td width="66"><a href="http://www.ticketmaster.ie/section/sports?tm_link=tm_sports_header" title="Category: Sport" onmouseover="SS_swapImage('Image2','','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_sports_on.gif',1)" onmouseout="SS_swapImgRestore()"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_sports_off.gif" height="21" width="66" border="0" alt="Category: Sport" name="Image2" id="Image2"></a></td>
-                <td width="1" class="topNav-subSpace"></td>
-                <td width="128"><a href="http://www.ticketmaster.ie/section/arts_theater?tm_link=tm_arts_header" title="Category: Arts and Theatre" onmouseover="SS_swapImage('Image3','','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_arts_on.gif',1)" onmouseout="SS_swapImgRestore()"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_arts_off.gif" height="21" width="128" border="0" alt="Category: Arts and Theatre" name="Image3" id="Image3"></a></td>
-                <td width="1" class="topNav-subSpace"></td>
-                <td width="169"><a href="http://www.ticketmaster.ie/section/family?tm_link=tm_family_header" title="Category: Family and Attractions" onmouseover="SS_swapImage('Image4','','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_family_on.gif',1)" onmouseout="SS_swapImgRestore()"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_family_off.gif" height="21" width="169" border="0" alt="Category: Family and Attractions" name="Image4" id="Image4"></a></td>
-                <td width="1" class="topNav-subSpace"></td>
-                <td width="169" class="topNav-subR"><br></td>
-            </tr>
-            <tr>
-                <td colspan="11" class="topNav-subBorder"></td>
-            </tr>
-        </tbody></table></div><script language="javascript">
-    function launchComment(x){
-        windowHandle = window.open(x,'windowName','width=600,height=600,toolbar=1,location=0,directories=0,status=1,scrollbars=1,menubar=0,resizable=1');
-    }
-    var reg_ex = new RegExp("&eacute;","g");
-    var replaceItem = '\u00E9';
-    var search_text = 'Enter Artist, Team, or Venue';
-    search_text = search_text.replace(reg_ex,replaceItem);
-
-    function verifySearchString(form) {
-        if(form.keyword.value.replace(/^\s*|\s*$/g,'') == "" || form.keyword.value == search_text ){
-            alert(checkUni("Please enter search text."));
-            form.keyword.focus();
-            form.keyword.value = search_text;
-            return false;
+    <![endif]-->
+    <style>
+        #footPng1 {
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/opina.png');
         }
-    }
-</script>
+        #footPng2 {
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/rescata.png');
+        }
+        #footPng3 {
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/empresa.png');
+        }
+        #footPng4 {
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.co.uk/en-gb/img/sys/1000/fondo.png');
+        }
+        #footPng1, #footPng2, #footPng3, #footPng4 {
+            width: 112px;
+            height: 50px;
+        }
+        #footPng1, #footPng3 {
+            margin-right: 10px;
+        }
+        #footPng1[id] {
+            background-image: url(http://media.ticketmaster.co.uk/en-gb/img/sys/1000/opina.png);
+        }
+        #footPng2[id] {
+            background-image: url(http://media.ticketmaster.co.uk/en-gb/img/sys/1000/rescata.png);
+        }
+        #footPng3[id] {
+            background-image: url(http://media.ticketmaster.co.uk/en-gb/img/sys/1000/empresa.png);
+        }
+        #footPng4[id] {
+            background-image: url(http://media.ticketmaster.co.uk/en-gb/img/sys/1000/fondo.png);
+        }
+    </style>
 
-<div id="searchBar">
-    <table width="770" cellpadding="0" cellspacing="0" align="center" border="0" class="searchBar-container">
-    <tbody><tr>
-        <td width="200" style="padding:10px">
-            <form name="main_search" action="http://www.ticketmaster.ie/search" onsubmit="return verifySearchString(this);">
-                <input type="hidden" name="tm_link" value="tm_header_search">
-                <table border="0" cellspacing="0" cellpadding="4">
-                <tbody><tr>
-                    <td>
-                        <input name="keyword" id="keyword" type="text" class="searchBox" style="width:155px;border:1px solid #FFCC44; " value="Enter Artist, Team, or Venue" onfocus="if(this.value == search_text)this.value='';" onblur="if(this.value == '')this.value=search_text;" title="Search Ticketmaster by Artist, Team, or Venue" maxlength="80"></td>
-                    <td align="left">
-                        <input type="submit" value="Search" class="navButton" title="Search Ticketmaster by Artist, Team, or Venue"></td>
-                </tr>
-                </tbody></table>
-            </form></td>
-        <td>
-            <div id="locationContainer" style="padding-right:10px">
-                <div class="floatLeft"><span class="locationText" style="font-size: 12px;">Ireland</span>
-        <br><a href="http://www.ticketmaster.ie/find_area/?tm_link=tm_changeloc_header" title="Change your location settings" style="font-size: 9px;">Change Location</a>
-                </div>
-                <div class="floatRight" style="margin-top: 2px;">
-                    <form name="asb" action="http://uk.ask.com/web" method="get" target="_jeeves" onsubmit="if(this['q'].value == 'Search the Web'){this.q.value = ''};dcsMultiTrack('DCS.dcsuri', 'Ask Jeeves Search', 'WT.ti', 'Ask Jeeves Search', 'WT.cg_n', '', 'DCSext.cntry', '', 'DCSext.mkt', '', 'DCSext.lang', '', 'DCSext.venID', '', 'DCSext.artID', '', 'DCSext.term', '', 'DCSext.results', '', 'DCSext.prmtrID', '' );">
-                        <input name="qsrc" type="hidden" value="2034">
-                        <input name="o" type="hidden" value="9000">
-                        <input name="iu" type="hidden" value="http://www.ticketmaster.ie">
-                        <input name="l" type="hidden" value="iac">                        <input name="dm" type="hidden" value="ctry">                        <table width="185" cellpadding="2" cellspacing="0" border="0">
-                        <tbody><tr>
-                            <td width="45">
-                                <img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_Ask_logo.gif" height="21" width="44" border="0" alt="Search the Web, Powered by Ask"></td>
-                            <td width="95" align="center">
-                                <input type="text" style="width: 90px; height: 13px; color: #666666; font-size: 9px; margin: 0px;" name="q" value="Search the Web" onfocus="if(this.value=='Search the Web')this.value='';" onblur="if(this.value=='')this.value='Search the Web';" title="Search the Web, Powered by Ask"></td>
-                            <td width="40" valign="middle" align="right">
-                                  <input type="submit" value=" Go " class="buttonJeeves"></td>
-                        </tr>
-                        </tbody></table>
-                    </form>
-                    <script language="javascript">
-                    function ie55() {
-                        if(navigator.appVersion.indexOf("MSIE 5.5") != -1) {
-                            document.getElementById("inputjeeves").style.height = "20px";
-                        }
-                    }
-                    </script>
-                </div>
-            </div></td>
-    </tr>
-    </tbody></table>
-</div>
+
+
+<meta name="DCSext.uri" content="/web/20081217091845id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_homeA_i_pp"></head>
+<body id="body">
+
+<noscript>
+    <div style="baCkground-color:#FFF3D2; border-bottom:1px solid #E4D199; margin-bottom:15px; padding:10px;" align="center">
+    You must set your browser to <a href="http://www.ticketmaster.ie/h/cookies.html">accept cookies</a> and to <a href="http://www.ticketmaster.ie/h/javascript.html">enable Javascript</a> in order to access certain functions of this site, including the purchase of tickets.
+    </div>
+</noscript>
+
+
 <script language="JavaScript">
 var member_name = GetCookie("MNAME");
 var check1 = GetCookie("MID");
@@ -390,22 +321,126 @@ function buildLink( myFlag ) {
      }
 }
 </script>
-<div id="signInBar">    <table width="770" border="0" cellpadding="0" align="center" cellspacing="0">
-    <tbody><tr>
-        <td class="topNav-signInBar" style="padding:5px">
-        <div id="signInBar-text">            <div class="floatLeft">
-                <span class="altTextColor" style="padding-left:10px" id="welcome_bar">Welcomeundefined&nbsp;&nbsp;</span>  |  <script>buildLink('log');</script><a href="https://www.ticketmaster.ie/member?" class="passive"><script>document.write(action_text);</script>undefined</a>
-            </div>            <div class="floatRight" style="margin-right:13px">            </div>        </div></td>
-    </tr>
-    </tbody></table></div><script language="JavaScript">
-    var my_content = document.getElementById('welcome_bar');
-    my_content.innerHTML = my_content.innerHTML + member_text + "&nbsp;&nbsp;";
+<div class="color-alt" id="topNavLinks">
+    <div class="frame">
+        <div class="mgRt10">                                    <a href="https://www.ticketmaster.ie/member?tm_link=tm_ql_1">My Ticketmaster</a>&nbsp;|&nbsp;                                    <a href="http://www.ticketmaster.ie/etc/?tm_link=tm_ql_2">Ticket Centres</a>&nbsp;|&nbsp;                                    <a href="http://www.ticketmaster.ie/h/help.html?tm_link=tm_ql_3">Customer Service</a>                    </div>
+    </div>
+</div>
+        <div id="topMain">
+            <div class="frame">
+                <a id="logoBox" href="http://www.ticketmaster.ie/section?tm_link=tm_logo" title="Ticketmaster"></a><script language="javascript">
+    var reg_ex = new RegExp("&eacute;","g");
+    var replaceItem = '\u00E9';
 
-if (!member_text && (document.getElementById('myAccountSubNav'))) {
-    subNavDiv = document.getElementById('myAccountSubNav');
-    subNavDiv.parentNode.removeChild(subNavDiv);
+var search_text = 'Enter Artist, Team, or Venue';
+search_text = search_text.replace(reg_ex,replaceItem);
+
+function verifySearchString(form) {
+    if(form.q.value.replace(/^\s*|\s*$/g,'') == "" || form.q.value == search_text ){
+        alert(checkUni("Please enter search text."));
+        form.q.focus();
+        form.q.value = search_text;
+        return false;
+    }
 }
-</script>    </div>
+</script>
+<div id="searchBox">
+    <div class="searchWrap">
+        <form name="main_search" action="http://www.ticketmaster.ie/search" onsubmit="return verifySearchString(this);">
+            <input type="hidden" name="tm_link" value="tm_header_search">
+            <table border="0" cellpadding="0" cellspacing="5">
+                <tbody><tr>
+                                        <td><input type="text" name="q" value="Enter Artist, Team, or Venue" class="text" maxlength="80" onfocus="if(this.value == search_text)this.value=''; this.style.color='#333';" onblur="if(this.value == ''){this.value=search_text; this.style.color='#898989'; }; ">&nbsp;</td>
+                    <td><input type="image" name="search" alt="search" src="http://media.ticketmaster.co.uk/en-gb/img/sys/1000/blank.gif" class="search" title="Search Ticketmaster by Artist, Team, or Venue">
+                    </td>
+                </tr>    
+            </tbody></table>
+        </form>
+    </div>
+</div>    <div id="locationBox" onclick="toggleA('locationBox','locationEx'); return false" class="more">
+        <script language="javascript">
+            <!--
+                var my_market = "Ireland";
+                var location_box_market_name = GetCookie("MARKET_NAME");
+                if( location_box_market_name ) {
+                    location_box_market_name = location_box_market_name.base64decode();
+                }
+                if( my_market.strip().empty() ) {
+                    if( location_box_market_name ) {
+                        document.write(  location_box_market_name );
+                    }
+                }
+                else {
+                    document.write(  my_market );
+                }
+            //-->
+        </script>
+        <div id="location">
+            <span id="location_button"><a href="" onclick="return false;" id="arrow"></a></span>
+            <a href="" onclick="return false;" id="change_location">Change Location</a>
+            <div class="clear"></div>
+        </div>    
+    </div>
+    <div class="clear"></div>
+    <div id="locationEx" style="display: none">
+        <div id="location_menu">
+            <div id="locBoxTop"></div>
+            <div id="locBoxMid">
+                <form action="/find_area" method="get" onsubmit="return verifyLocationString(this);">
+                    <h5 class="show">Change Location</h5>
+                    <div class="spacer7px"></div>
+                    <input type="text" name="area" id="location_input" onfocus="this.select(value='');" onblur="if(this.value == '')this.value=location_text;" value="Enter region or postcode">
+                    <input type="image" src="http://media.ticketmaster.co.uk/en-gb/img/sys/1000/blank.gif" alt="Go" class="goLg">
+                    <div class="clear spacer7px"></div>
+                                        <div class="error mgBot10 txt11" id="location_eror_blank" style="display: none">Please enter city or post code or click "See All Locations" below</div>
+                                        <div class="error mgBot10 txt11" id="location_eror_multiple" style="display: none">We found multiple results matching "<div id="location_results" style="display: inline">keyword</div>".
+                        <br>Please choose from the list below                    </div>
+                    <div style="width: 250px; display: none;" class="selectOption" id="location_eror_multiple_dropdown">
+                        <div class="scrollBox" id="location_multiple_dropdown"></div>
+                    </div>
+                                        <div class="error mgBot10 txt11" id="location_eror_not_found" style="display: none">We could not find this location.  Please check your entry or click the "See All Locations" link below.</div>
+                    <a href="/find_area?uri=L2xlZ2FsL3ByaXZhY3kuaHRtbD90bV9saW5rPXRtX2hvbWVBX2lfcHA&amp;tm_link=tm_changeloc_cities" class="under">See All Locations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.ticketmaster.ie/about_us/worldwide/?tm_link=tm_changeloc_intl" class="under">See International</a>
+                    <input type="hidden" name="tm_link" value="tm_changeloc_go">
+                </form>
+            </div><div id="locBoxBot"></div>
+        </div>
+    </div>                <div class="clear"></div>
+            </div>
+        </div><div class="color-alt" id="topNavMain">
+    <div class="frame">
+        <div id="navButtons">
+            <a href="http://www.ticketmaster.ie/section?tm_link=tm_header" id="home">Home</a>
+            <a href="http://www.ticketmaster.ie/section/concerts?tm_link=tm_music_header" onmouseover="effect_queue = self.setTimeout( 'menu(\'music\',\'\show_menu\',1000)', 70 );" onmouseout="menu('music','hide_menu',0);" id="music">Music</a>
+            <a href="http://www.ticketmaster.ie/section/sports?tm_link=tm_sports_header" onmouseover="effect_queue = self.setTimeout( 'menu(\'sports\',\'\show_menu\',1000)', 70 );" onmouseout="menu('sports','hide_menu',0);" id="sports">Sport</a>
+            <a href="http://www.ticketmaster.ie/section/arts_theater?tm_link=tm_arts_header" onmouseover="effect_queue = self.setTimeout( 'menu(\'arts\',\'\show_menu\',1000)', 70 );" onmouseout="menu('arts','hide_menu',0);" id="arts">Arts and Theatre</a>
+            <a href="http://www.ticketmaster.ie/section/family?tm_link=tm_family_header" onmouseover="effect_queue = self.setTimeout( 'menu(\'family\',\'\show_menu\',1000)', 70 );" onmouseout="menu('family','hide_menu',0);" id="family">Family and Attractions</a>        </div>
+        <div class="welcomeText mgRt10" id="welcome_module">
+<script language="JavaScript">
+var member_name = GetCookie("MNAME");
+var cookie_id = GetCookie("MID");
+
+if ( cookie_id == null || cookie_id.length == 0 ) {
+    $('welcome_module').update('<strong>Welcome.</strong>&nbsp;&nbsp;<a href="https://www.ticketmaster.ie/member?tm_link=tm_header_signin">Sign In</a>');
+}else{
+    if (window.decodeURI != null) {
+        var member_name = decodeURI(escape(member_name));
+        if (member_name.length > 0) {
+            member_name = member_name.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/\"/g,"&quot;");
+            member_name = ' ' + member_name;
+        }
+    }
+    $('welcome_module').update('<strong>Welcome' + member_name + '.</strong>&nbsp;&nbsp;<a href="https://www.ticketmaster.ie/member/logout/?tm_link=tm_header_signout">Sign Out</a>');
+}
+</script>        </div>
+        <div class="clear"></div>    
+    </div>
+</div>            <div id="contentWrap">
+            <div class="frame">
+                <div id="mainContent">	
+
+
+
+
 
 
 
@@ -447,7 +482,8 @@ if (!member_text && (document.getElementById('myAccountSubNav'))) {
 
 
 		
-				<!-- SPECIAL OFFERS -->
+				
+
 
 
 
@@ -466,63 +502,397 @@ if (!member_text && (document.getElementById('myAccountSubNav'))) {
             <div class="container-neutralZone">
 
                 <span class="spotlight-headline">Ticketmaster Privacy Policy</span><br>
-                    Our privacy statement demonstrates our firm commitment to your online privacy. In this statement, we disclose our information gathering and dissemination practices for this web site. Ticketmaster.ie has created this privacy statement ("Privacy Policy") in order to demonstrate our firm commitment to your privacy online. The following discloses our information gathering and dissemination practices for Ticketmaster.ie web site ("Site").<br><br><br>
-                    <strong class="tableListing-act">Your IP Address</strong><br><br>
-                    We use your IP address to help diagnose problems with our server, and to administer our web site. Your IP address is used to help identify you and to gather broad demographic information about you.<br><br>
-                    <strong class="tableListing-act">Cookies</strong><br><br>
-                    Our site uses cookies to keep track of what you have purchased. We use cookies to deliver content specific to your interests, to save your password so you do not have to re-enter it each time you visit our Site, and for other purposes relating to your transactions on the Site.<br><br>
-                    <strong class="tableListing-act">Information We Request Directly From You</strong><br><br>
-                    Our Site's registration forms, order forms, surveys and contests require you to give us contact information (like your name and email address) and demographic information (like your, age, or income level). Our order forms require financial information (like your account or credit card numbers) as well.<br><br>
-                    <strong class="tableListing-act">Profiling Customer Data</strong><br><br>
-                    Ticketmaster uses a customer profiling tool called "Profilemaster" which provides Ticketmaster with information on customer behaviour such as buying patterns, card use, demographic analysis, Data Protection status. Ticketmaster only uses this information for its own customer analysis purposes. However depending on a customer's Data Protection status, customer details may be shared with Ticketmaster's subsidiaries or affiliate companies, Ticketmaster's event partners (Promoter, Venue and/or Artist), third parties, and/or utilised for direct marketing purposes.<br><br>
-                    <strong class="tableListing-act">How We Use Contact Information</strong><br><br>
-                    Your contact information is used to contact you when necessary in connection with transactions entered into by you on our Site. You will be given an opportunity to determine whether your contact information may be shared with third parties and/or utilised for direct marketing purposes. From time to time, Ticketmaster, its subsidiaries or affiliate companies, or Ticketmaster's event partners may contact you with information and offers regarding upcoming events, products or services. Depending on your selection, your contact information may also be provided to carefully selected third parties who may contact you with information or offers regarding their goods and services, such as discounts, exclusive offers or special event information. Should this option not be available, your details will not be used for any purpose other than in connection with your transaction. If you opt out of being contacted but previously have opted in, your choice to decline will not apply to those mailings that use our database from the earlier purchase. Notwithstanding the foregoing, we will not disclose your name or address to any outside organisation unless compelled by law. If a third party serves on us a subpoena or other lawful document compelling disclosure of your identity, we will use our best efforts to provide you notice to the latest address in our files provided-we are not responsible if your contact information is not current or if we are otherwise unable to provide notice. Your contact information will be passed on to a successor in interest in the event or bankruptcy, receivership or other transfer of ownership.<br><br>
-                    <strong class="tableListing-act">Transfer of Your Personal Information and Financial Information Outside Of The EEA</strong><br><br>
-                    From time to time, we may transfer your personal information and/or financial information to a company within the Ticketmaster group of companies or one of such company's agents or contractors in order to improve our services or to assist our security, credit risk or fraud protection activities. Such companies may be located outside of the European Economic Area including in the United States, and you consent to the transfer of your personal information and financial information to such companies for the purposes set out in this paragraph. Whenever we transfer your personal information or financial information to countries outside of the European Economic Area, we will ensure that the information is transferred in accordance with this Privacy Policy and as permitted by the UK's Data Protection Act.<br><br>
-                    <strong class="tableListing-act">How We Use Financial Information</strong><br><br>
-                    Financial information that is collected is used to check your qualifications and bill you for products and services. We will not share financial information with third parties without your prior consent. When you make a purchase on the Site, your consent is given to provide your financial or contact information to those third parties necessary to process your transactions with us, such as credit card companies and the companies that handle shipping on our behalf.<br><br>
-                    <strong class="tableListing-act">How We Use Demographic Information</strong><br><br>
-                    We use this information to tailor our Site to the interests of our users. This information may be shared with advertisers only on an aggregate basis so that they can tailor their advertisements to the appropriate audience.<br><br>
-                    <strong class="tableListing-act">Other Sites/Third Party Vendors and their Privacy Policies</strong><br><br>
-                    This Site may contain links to other Sites. Ticketmaster is not responsible for the privacy practices or the content of such web Sites or for the privacy policies and practices of other third parties.<br><br>
-                    <strong class="tableListing-act">Our Security Precautions</strong><br><br>
-                    This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.<br><br>
-                    <strong class="tableListing-act">Profiling Customer Data</strong><br><br>
-                    Ticketmaster uses a customer profiling tool called "Profilemaster" which provides Ticketmaster with information on customer behaviour such as buying patterns, card use, demographic analysis, Data Protection status. Ticketmaster only uses this information for its own customer analysis purposes. However depending on a customer's Data Protection status, customer details may be shared with Ticketmaster's subsidiaries or affiliate companies, Ticketmaster's event partners (Promoter, Venue and/or Artist), third parties, and/or utilised for direct marketing purposes.<br><br>
+           Ticketmaster has created this privacy statement in order to demonstrate our firm commitment to the privacy of the details that you provide us when using this web site ("Site"). <strong>When you use the Site, you are consenting to the practices set forth in this Privacy Policy.</strong>
+               <p>
+               <strong class="feature-headline">Your IP Address</strong> We use your IP address to help diagnose problems with our server and to administer the Site. Your IP address is also used to help identify you and to gather broad demographic information about you. Your IP address may also be used to assist in the detection of fraud and we may pass this information to the police.
+               </p>
+               <p>
+               <strong class="feature-headline">Cookies</strong> A cookie is a small file that is automatically issued to your computer when you enter our Site and which is stored by the browser on your computer's hard drive. Cookies identify your computer, not the individual user of your computer. Cookies store some basic information that helps us to identify if a user of your computer has visited the Site before and if you have provided us with some personalised information.  Our Site also uses cookies to keep track of what you have purchased. We also use cookies to deliver content specific to your interests, to save your password (if you have supplied us with one) so you do not have to re-enter it each time you visit our Site, and for other purposes, such as informing you that you may have made multiple bookings for specific events on our Site.
+               <br><br>
+               You can disable cookies or set your browser to alert you when cookies are being sent, but if you choose to do so you may not be able to access some areas of the Site.
+               </p>
+               <p>
+               <strong class="feature-headline">Information We Request Directly From You</strong> Our Site's registration forms, order forms, surveys, competitions and prize draws require you to give us personal information (like your name, address and/or email address). If you are ordering tickets, you will be asked to provide financial information (like your account or credit card numbers).
+               </p>
+               <p>
+               <strong class="feature-headline">How We Use Personal Information</strong>
+               </p><p class="paddingLeftRight10px">
+               <strong>Ticketmaster and its Event Partners</strong><br>
+               As an authorised ticket agent, Ticketmaster sells tickets on behalf of the venue or promoter that produces the event for which you buy a ticket. We refer to the venue or promoter from whom we obtain tickets to sell to you as our "Event Partner". Your personal information is shared between Ticketmaster and its Event Partner for the particular event for which you are buying tickets in accordance with this Privacy Policy and Ticketmaster's contractual relationship with its Event Partner. Your personal information is used by us to contact you by post, phone or by email when necessary in connection with transactions entered into by you on the Site.
+               <br><br>
+               <strong>Direct Marketing</strong><br>
+               You will be given an opportunity to determine whether your contact information may be used by us or third parties for direct marketing purposes.  Depending on your selection, Ticketmaster, its subsidiary companies, Event Partners and/or other third parties may contact you by e-mail or post with information or offers regarding their goods and services, such as discounts, exclusive offers or special event information.
+               <br><br>
+               If you purchase a ticket for an event and provide Ticketmaster with an email address, your address will be entered into Ticketmaster's PerformerAlert service.  This service sends you e-mail communications in relation to the particular artist connected to the ticket you have bought.  You will be given the opportunity to unsubscribe to PerformerAlert whenever a PerformerAlert is sent to you. Alternatively, if you wish to unsubscribe now, please contact Ticketmaster by clicking the following link and inserting your email address into the link as indicated, <a href="https://www.ticketmaster.ie/member/unsubscribe?email_address=InsertEmailAddressHere" title="Email Unsubscribe Stencil">https://www.ticketmaster.ie/member/unsubscribe?email_address=InsertEmailAddressHere</a>
+               <br><br>
+               <strong>Changing your Marketing Preferences</strong><br> 
+               As mentioned above, you will only be contacted for marketing purposes other than PerformerAlerts where you have agreed in advance to such marketing.  You may change your marketing preferences at any time by going into "My Ticketmaster" on the Site and changing the preferences that are specified for you.
+               <br><br>
+               <strong>Carefully Selected Third Parties</strong><br>
+               Depending on your selection when you purchase a ticket or create an account, your personal information may also be provided to carefully selected third parties other than Ticketmaster's Event Partners that may contact you by post or email with information or offers regarding their goods and services.
+               <br><br>
+               <strong>Opting Out</strong><br>
+               You may opt out of any of Ticketmaster's regular email contact at any time even if you have previously indicated your consent to such contact at some other time by clicking the following link and inserting your email address into the link as indicated, <a href="https://www.ticketmaster.ie/member/unsubscribe?email_address=InsertEmailAddressHere" title="Email unsubscribe stencil">https://www.ticketmaster.ie/member/unsubscribe?email_address=InsertEmailAddressHere</a>
+               <br><br>
+               </p> 
+               <p>
+               <strong class="feature-headline">How We Use Financial Information</strong>
+               Financial information that is collected is used to authorise payment and bill you for products and services. When you make a purchase on the Site, your consent is given to provide your financial or personal information to those third parties necessary to process your transactions with us, such as credit card companies, banks and the companies that handle shipping on our behalf. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Except as provided above, we will not share financial information with third parties without your prior consent.
+                </p>
+                <p>
+                <strong class="feature-headline">Disclosure of Your Personal Information and Financial Information in Compliance with Laws</strong><br>
+                You should be aware that we may release your personal information or financial information when we believe it is necessary to comply with laws or regulations, to assist law enforcement, to enforce the terms under which you transacted with Ticketmaster, or to protect the rights, property or safety of Ticketmaster, users of the Site or others.
+                </p>
+                <p>
+                <strong class="feature-headline">Transfer of Your Personal Information and Financial Information To Group Companies, Agents and Contractors - Transfer outside European Economic Area</strong><br>
+                From time to time, we may transfer your personal information and/or financial information to a company within the Ticketmaster group of companies or one of such company's agents or contractors in order to improve our services or to assist our security, credit risk or fraud protection activities. Such companies may be located outside of the European Economic Area, including in the United States, and you consent to the transfer of your personal information and financial information to such companies for the purposes set out in this paragraph. Whenever we transfer your personal information or financial information to countries outside of the European Economic Area, we will ensure that the information is transferred in accordance with this Privacy Policy and as permitted by the Data Protection Acts 1988 and 2003 and any other applicable legislation from time to time.
+                </p>
+                <p>
+                <strong class="feature-headline">Transfer of Personal Information In Event Of Sale Of Ticketmaster Or Its Assets</strong><br>
+                In the event that Ticketmaster is sold, or transferred some of its assets to another party, your personal information could be one of the transferred assets. If your personal information is transferred, use of your personal information will remain subject to this Privacy Policy.  Your personal information will be passed on to a successor in interest in the event of a liquidation or administration of Ticketmaster.
+                </p>
+                <p>
+                <strong class="feature-headline">How We Use Demographic Information</strong><br>
+                Demographic information is statistical data about our purchasers' age, gender, location etc. We use this demographic information to tailor our Site to the interests of our users. This information may be shared with advertisers only on an aggregate basis so that they can tailor their advertisements to the appropriate audience. "On an aggregate basis" means that your personal details would not be identifiable in the demographic information that we may use with advertisers.
+                </p>
+                <p>
+                <strong class="feature-headline">Other Sites/Third Party Vendors and their Privacy Policies</strong><br>
+                This Site may contain links to other web sites. Ticketmaster is not responsible for the privacy practices or the content of such web sites or for the privacy policies and practices of other third parties, and so you should be careful to read those web sites' privacy policies independently.
+                </p>
+                <p>
+                <strong class="feature-headline">Our Security Precautions</strong><br>
+                This Site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use 128 bit industry standard Secure Server Software (SSL) for your transactions with us. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet. 
+                </p>
+                <p>
+                <strong class="feature-headline">Your rights with regard to the data we hold</strong><br>
+                You have the right to obtain a copy of the personal data we hold about you.  You also have the right to correct any inaccuracies in such data.   If you wish to avail of any of these rights, please contact us via <a href="http://www.ticketmaster.ie/h/customer_serve.html" title="Click to contact">Customer Services</a> or at Ticketmaster Ireland Mailing Services, PO BOX 4695, Dublin 2. Your request will be dealt with as soon as possible and will not take more than 40 days to process.
+                </p>
+                <p>
+                If you have any questions or concerns about this privacy statement, you can contact us at <a href="mailto:legal@ticketmaster.ie" title="Click to contact">legal@ticketmaster.ie</a>
+                </p>
+                <p>
+                Please note that any customer query regarding a current or past booking cannot be dealt with through this link. Please contact <a href="http://www.ticketmaster.ie/h/customer_serve.html" title="Click to contact">Customer Services</a>.
+                </p>
             </div>
         </div>
     <!-- END CONTENT -->
   </div>
 </div>
 
-    <!-- START FOOTER-->
-<div id="bottom" align="center"><div class="footerContainer" style="border-top: 0px;">    <div class="footerSections" align="center"> <a href="http://www.ticketmaster.ie/section" class="footer">Home</a> <a href="http://www.ticketmaster.ie/section/concerts" class="footer">Music</a> <a href="http://www.ticketmaster.ie/section/sports" class="footer">Sport</a> <a href="http://www.ticketmaster.ie/section/arts_theater" class="footer">Arts &amp; Theatre</a> <a href="http://www.ticketmaster.ie/section/family" class="footer">Family &amp; Attractions</a> </div>            <div class="footerSubSections" align="center">
-                <a href="http://www.ticketmaster.ie/sitemap">Site Map</a> 
-                - <a href="http://www.ticketmaster.ie/h/help.html">Help</a>
-                - <a href="http://www.ticketmaster.ie/etc/">Ticket Centres</a>
-                - <a href="http://www.ticketmaster.ie/about_us/">About Us</a>                    - <a href="http://www.ticketmaster.ie/about_us/advertise_with_us/">Advertise with Us</a>
-                    - <a href="http://www.ticketmaster.ie/h/selltixwithus.html">Sell Tickets</a>                - <a href="http://www.ticketmaster.ie/about_us/worldwide/">International</a>
-                - <a href="http://www.ticketmaster.ie/legal/">Our Policies</a> <br>                 <a href="http://www.ticketmaster.ie/legal/privacy.html">Privacy Policy</a>
-            </div>    <div class="footerTOU" align="center">Use of this site is subject to express <a href="http://www.ticketmaster.ie/legal/" target="_blank">terms of use,</a> which prohibit commercial use of this site. By continuing past this page, you agree to abide by these terms.</div>
- <div class="footerCopyRight" align="center">© 2008 Ticketmaster. All rights reserved.<br>Ticketline trading as Ticketmaster Registration in Republic Of Ireland No. 135876 whose registered office is at Grafton House, 70 Grafton Street, Dublin 2, Ireland
- </div>
-
-<div class="footerPartnerSites" align="center">Partner Sites:
-    <a target="_blank" href="http://www.expedia.co.uk/">Expedia</a>
-    <a target="_blank" href="http://ireland.hotels.com/">Hotels</a>
-    <a target="_blank" href="http://www.livedaily.com/">LiveDaily</a>
-    <a target="_blank" href="http://ticketmasterireland.match.com/channel/index.aspx?cpe=1">Match</a>
-    <a target="_blank" href="http://www.ticketweb.co.uk/">TicketWeb</a>
+    <!-- START FOOTER-->                    <div class="clear"></div>
+                </div>	
+            </div>
+        </div>
+        <div id="footer">
+            <div class="frame"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody><tr>
+        <td width="600" colspan="4"><h3>Ticketmaster</h3></td>
+        <td width="70" rowspan="2"></td>
+        <td width="300" colspan="2"><h3>Partner Sites</h3></td>
+    </tr>
+    <tr>
+        <td width="150">
+            <a href="http://www.ticketmaster.ie/section?tm_link=tm_i_home">Home</a>
+            <a href="http://www.ticketmaster.ie/section/concerts?tm_link=tm_i_concerts">Music</a>
+            <a href="http://www.ticketmaster.ie/section/sports?tm_link=tm_i_sports">Sport</a>
+            <a href="http://www.ticketmaster.ie/section/arts_theater?tm_link=tm_i_arts">Arts &amp; Theatre</a>
+            <a href="http://www.ticketmaster.ie/section/family?tm_link=tm_i_family">Family &amp; Attractions</a>
+        </td>
+        <td width="150">
+            <a href="http://www.ticketmaster.ie/sitemap?tm_link=tm_i_sitemap">Site Map</a>
+            <a href="http://www.ticketmaster.ie/about_us/?tm_link=tm_i_abouttm">About Us</a>
+            <a href="http://investors.ticketmaster.com/">Investor Relations</a>
+            <a href="http://www.ticketmaster.ie/legal/?tm_link=tm_i_ourpolicy">Our Policies</a>
+            <a href="http://www.ticketmaster.ie/legal/privacy.html?tm_link=tm_i_pp">Privacy Policy</a>
+        </td>
+        <td width="150">
+            <a href="http://www.ticketmaster.ie/h/selltixwithus.html?tm_link=tm_i_ticketevent">Ticket Your Event</a>
+            <a href="http://www.ticketmaster.ie/about_us/worldwide/?tm_link=tm_i_intl">International</a>
+            <a href="http://www.ticketmaster.ie/etc/?tm_link=tm_i_retail">Ticket Centres</a>
+            <a href="https://www.ticketmaster.ie/member/order_history?tm_link=tm_i_print">Print Your Tickets</a>
+        </td>
+        <td width="150">
+            <a href="https://www.ticketmaster.ie/member/?tm_link=tm_i_ma">Your Account</a>
+            <a href="http://www.ticketmaster.ie/h/help.html?tm_link=tm_i_help">Help</a>
+            <a href="http://www.ticketmaster.ie/ticketauctions?tm_link=tm_i_auction">Bid on Auctions</a>
+            <a href="https://www.ticketmaster.ie/member/edit_subscriptions?tm_link=tm_i_email">Your Email Preferences</a>
+        </td>
+       	<td width="150">
+           	<a href="http://ticketmaster.centralr.com/" target="_blank">CentralR</a>	
+           	<a href="http://www.helloecho.com/" target="_blank">Echo</a>
+        	</td>
+         <td width="150">
+        	<a href="http://www.ilike.com/" target="_blank">iLike</a>
+                <a href="http://www.apple.com/ie/itunes/store/" target="_blank">iTunes</a>
+        </td>
+    </tr>	
+</tbody></table>
+                        <br><br>        Use of this site is subject to express <a class="under" href="http://www.ticketmaster.ie/legal/?tm_link=tm_i_terms">terms of use</a>, which prohibit commercial use of this site. By continuing past this page, you agree to abide by these terms.<br>    © 2008 Ticketmaster. All rights reserved.<br>Ticketline trading as Ticketmaster Registration in Republic Of Ireland No. 135876 whose registered office is at Grafton House, 70 Grafton Street, Dublin 2, Ireland                    <div class="clear"></div>
+            </div>
+        </div>
+        
+<iframe id="drop_shim" style="display: none; position: absolute" frameborder="0" scrolling="no" zindex="99999" src="javascript:false;"></iframe>
+<div class="" id="music_menu" onmouseover="menu('music','show_menu',0);" onmouseout="menu('music','hide_menu',0);" style="display: none;">
 </div>
 
-</div>
+<div class="" id="sports_menu" onmouseover="menu('sports','show_menu',0);" onmouseout="menu('sports','hide_menu',0);" style="display: none;">
 </div>
 
+<div class="" id="arts_menu" onmouseover="menu('arts','show_menu',0);" onmouseout="menu('arts','hide_menu',0);" style="display: none;">
+</div>
 
+<div class="" id="family_menu" onmouseover="menu('family','show_menu',0);" onmouseout="menu('family','hide_menu',0);" style="display: none;">
+</div>
+
+<div class="" id="especiales_menu" onmouseover="menu('especiales','show_menu',0);" onmouseout="menu('especiales','hide_menu',0);" style="display: none;">
+</div>
+
+<div class="" id="toros_menu" onmouseover="menu('toros','show_menu',0);" onmouseout="menu('toros','hide_menu',0);" style="display: none;">
+</div>
+                <script language="JavaScript">
+var menu_data = $H();
+var NavMenu = Class.create({
+    initialize: function() {
+        this.genres = {
+            "10001" : {
+                "root_name" : "All Concerts",
+                "Alternative and Indie" : "60",                    
+                "Clubs and Dance" : "201",                    
+                "Country/Folk" : "2",                    
+                "R&B/Urban Soul" : "202",                    
+                "Hard Rock/Metal" : "200",                    
+                "Jazz/Blues" : "4",                    
+                "World" : "5",                    
+                "Rock/Pop" : "1",                    
+                "Rap and Hip-Hop" : "3",                    
+                "Tribute Bands" : "228",                    
+                "More Music" : "52"                    
+            },        
+            "10004" : {
+                "root_name" : "All Sport",
+                "Basketball" : "7",                    
+                "Boxing" : "33",                    
+                "Cricket" : "212",                    
+                "Ice Hockey" : "9",                    
+                "GAA" : "229",                    
+                "Golf" : "30",                    
+                "Gymnastics" : "220",                    
+                "Hockey" : "221",                    
+                "Martial Arts" : "742",                    
+                "Athletics" : "205",                    
+                "Wrestling" : "27",                    
+                "Motorsports" : "25",                    
+                "Horse Racing" : "222",                    
+                "Cycling" : "213",                    
+                "Equestrian" : "215",                    
+                "Rugby League" : "224",                    
+                "Rugby Union" : "225",                    
+                "Soccer" : "741",                    
+                "Tennis/Squash" : "31",                    
+                "More Sport" : "102"                    
+            },        
+            "10002" : {
+                "root_name" : "All Arts",
+                "Opera" : "13",                    
+                "Classical" : "203",                    
+                "Comedy" : "51",                    
+                "Ballet & Dance" : "12",                    
+                "Museums" : "14",                    
+                "Musicals" : "207",                    
+                "Drama" : "214",                    
+                "More Arts and Theatre" : "53"                    
+            },        
+            "10003" : {
+                "root_name" : "All Family",
+                "Exhibitions" : "767",                    
+                "Ice Shows" : "22",                    
+                "Family Shows" : "23",                    
+                "Flower Shows" : "218",                    
+                "Ice Rinks" : "232",                    
+                "Fashion Shows" : "216",                    
+                "Pantomime" : "231",                    
+                "Festivals" : "54",                    
+                "Transport" : "227",                    
+                "More Family & Attractions" : "55"                    
+            },        
+            "10005" : {
+                "root_name" : "All Miscellaneous",
+                "Cruise and Sightseeing" : "106",                    
+                "Miscellaneous" : "0"                    
+            }        
+        };
+        this.popular_events;
+        this.popular_genres = {
+            "10001" : {
+                "popular" : {},
+                "track" : "music",
+                "section" : "concerts",
+                "browse" : "music",
+                "menu" : "music_menu"
+            },
+            "10002" : {
+                "popular" : {},
+                "track" : "arts",
+                "section" : "arts_theater",
+                "browse" : "arts",
+                "menu" : "arts_menu"
+            },
+            "10003" : {
+                "popular" : {},
+                "track" : "family",
+                "section" : "family",
+                "browse" : "family",
+                "menu" : "family_menu"
+            },
+            "10004" : {
+                "popular" : {},
+                "track" : "sports",
+                "section" : "sports",
+                "browse" : "sports",
+                "menu" : "sports_menu"
+            },
+            "10005" : {
+                "popular" : {},
+                "track" : "specials",
+                "section" : "miscellaneous",
+                "browse" : "miscellaneous",
+                "menu" : "especiales_menu"
+            },
+            "10012" : {
+                "popular" : {},
+                "track" : "specials",
+                "section" : "toros",
+                "browse" : "toros",
+                "menu" : "toros_menu"
+            }
+        };
+        this._get_data();
+    },
+    _get_data: function() {
+        var dma_id;
+            dma_id = 99999;
+        getMenu('http://www.ticketmaster.ie/json/search/genremenu', menu_data, 'popular_genres', { dma_id : dma_id });
+        getMenu('http://www.ticketmaster.ie/json/menu', menu_data, 'popular_events', { domain_id: '4', brand: '' });
+        new PeriodicalExecuter(
+            function(pe) {
+                if( menu_data.get('popular_genres') && menu_data.get('popular_events') ) {
+                    pe.stop();
+                    var genre_data = menu_data.get('popular_genres');
+                    $H(this.popular_genres).values().each( function(g) {
+                        var hist_list = g.browse.capitalize() + 'BrowseGenre';
+                        if( genre_data[ hist_list ] ) {
+                            g.popular = genre_data[ hist_list ].reject( function(n){ return Object.isNumber(n) });
+                        }
+                        else {
+                            g.popular = null;
+                        }
+                    }.bind(this) );
+                    this.popular_events = menu_data.get('popular_events');
+                    this._build_menu();
+                }
+                else if( menu_data.get('popular_events') ) {
+                    pe.stop();
+                    this.popular_events = menu_data.get('popular_events');
+                    this._build_menu();
+                }
+                else if( menu_data.get('popular_genres') ) {
+                    pe.stop();
+                    var genre_data = menu_data.get('popular_genres');
+                    $H(this.popular_genres).values().each( function(g) {
+                        var hist_list = g.browse.capitalize() + 'BrowseGenre';
+                        if( genre_data[ hist_list ] ) {
+                            g.popular = genre_data[ hist_list ].reject( function(n){ return Object.isNumber(n) });
+                        }
+                        else {
+                            g.popular = null;
+                        }
+                    }.bind(this) );
+                    this._build_menu();
+                }
+            }.bind(this), 1
+        );
+    },
+    _build_menu: function () {
+        $H(this.popular_genres).keys().each(
+            function(cat) {
+                var size = 0;
+                var add_class;
+                if( this.popular_events && this.popular_events[cat] && $H(this.popular_events[cat]).size() > 0 ) {
+                    size += 1;
+                }
+                if( this.popular_genres[cat].popular && this.popular_genres[cat].popular.length ) {
+                    size += 1;
+                }
+                add_class = size > 1 ? 'dropdown' : add_class = size == 1 ? 'dropdownSm' : '';
+                $( this.popular_genres[cat].menu ).className = add_class;
     
-</div>
-</div>
-<!-- PART 1 -->
+                var d_table = new Element('table', { cellspacing: 0, cellpadding: 0, border: 0, 'class': 'dd_table'});
+                var t_row = new Element('tr');
+                var c_row = new Element('tr');
+                if( this.popular_genres[cat].popular && this.popular_genres[cat].popular.length ) {
+                    var cat_hdr_txt = cat == '10005' ? 'Especiales' : cat == '10004' ? 'Top Sport' : 'Top Categories';
+                    var cat_hdr = new Element('th').update( cat_hdr_txt );
+                    t_row.appendChild( cat_hdr );
+    
+                    var g_cell = new Element('td');
+                    this.popular_genres[cat].popular.each(
+                        function(d, idx) {
+                            idx += 1;
+                            var link = new Element('a', {href:'http://www.ticketmaster.ie/browse?category=' + this.genres[cat][d] + '&root=' + cat + '&rdc_select=n1095&dma=&type=selected&tm_link=tm_' + this.popular_genres[cat].track + '_header_l' + idx});
+                            link.update( d );
+                            g_cell.appendChild( link );
+                        }.bind(this)
+                    );
+                    var see_more = new Element('a', {href:'http://www.ticketmaster.ie/section/' + this.popular_genres[cat].section + '?tm_link=tm_' + this.popular_genres[cat].track + '_header_lmore', 'class': 'more'}).update("See All");
+                    g_cell.appendChild( see_more );
+                    c_row.appendChild( g_cell );
+                }
+                if( this.popular_events && this.popular_events[cat] && this.popular_events[cat].links ) {
+                    var show_hdr_txt = cat == '10004' ? "Popular Events" : "Popular Shows";
+                    var show_hdr = new Element('th', { 'class':'dd_right'}).update( show_hdr_txt );
+                    t_row.appendChild( show_hdr );
+    
+                    var e_cell = new Element('td', { 'class':'dd_right'});
+                    Object.keys(this.popular_events[cat].links).sort().each(
+                        function(d, idx) {
+                            idx += 1;
+                            var link_value = this.popular_events[cat].links[d].link;
+                            if( !link_value.startsWith('http') ) {
+                                link_value = 'http://www.ticketmaster.ie' + link_value;
+                            }
+                            var tm_link_value = 'tm' + '_' + this.popular_genres[cat].track + '_header_r' + idx;
+
+                            if( link_value.include('?') ) {
+                                link_value += '&tm_link=' + tm_link_value;
+                            }
+                            else {
+                                link_value += '?tm_link=' + tm_link_value;
+                            }
+
+                            var link = new Element('a', {href: link_value});
+                            link.update( this.popular_events[cat].links[d].link_text.strip() );
+                            e_cell.appendChild( link );
+                        }.bind(this)
+                    );
+                    c_row.appendChild( e_cell );
+                }
+                if( size > 0 ) {
+                    var t_body = new Element('tbody');
+                    t_body.appendChild( t_row );
+                    t_body.appendChild( c_row );
+                    d_table.appendChild( t_body );
+                    $( this.popular_genres[cat].menu ).innerHTML = '';
+                    $( this.popular_genres[cat].menu ).appendChild( d_table );
+                }
+            }.bind(this)
+        );
+    }
+});
+function makeNav() {
+    new NavMenu();
+}
+document.observe("dom:loaded",makeNav);
+</script><!-- PART 1 -->
 <!-- START OF SmartSource Data Collector TAG -->
 <!-- © 1999-2004 NetIQ Corporation. All rights reserved. -->
 <!-- V7.0 -->
@@ -606,10 +976,16 @@ myDocumentHead.appendChild(newMetaTag);
 
 var tm_link_value = getQry("tm_link");
 if(tm_link_value){
-  newMetaTag = document.createElement("meta");
-  newMetaTag.setAttribute('name', 'DCSext.tm_link');
-  newMetaTag.setAttribute('content', tm_link_value ? tm_link_value : "NULL");
-  myDocumentHead.appendChild(newMetaTag);
+    newMetaTag = document.createElement("meta");
+    newMetaTag.setAttribute('name', 'DCSext.tm_link');
+    // As a result ofpeople monkeying around with our URLs tm_links are coming back as unique and are overloading our reports
+    // If the tm_link value contains bogus entries such as "rnd=" reset it to "NULL"
+    if(tm_link_value.match("rnd=")){
+        newMetaTag.setAttribute('content', "NULL");
+    }else{
+        newMetaTag.setAttribute('content', tm_link_value ? tm_link_value : "NULL");
+    }
+    myDocumentHead.appendChild(newMetaTag);
 }                                           
 //==============================================================
 // This will allow WT to recognize the flag set on SEM keyword 
@@ -671,7 +1047,9 @@ function dcsVar(){
 		WT.jo=navigator.javaEnabled()?"Yes":"No";
 	}
 	if (document.title){
-		WT.ti=document.title;
+// Overriding Webtrends default setting to prevent overflowing the "Page View" Reporting (Bug 49665)
+//		WT.ti=document.title;
+		WT.ti='Miscellaneous';
 	}
 	WT.js="Yes";
 	if (typeof(gVersion)!="undefined"){
@@ -679,7 +1057,9 @@ function dcsVar(){
 	}
 	DCS.dcsdat=dCurrent.getTime();
 	DCS.dcssip=window.location.hostname;
-	DCS.dcsuri=window.location.pathname;
+// Overriding Webtrends default setting to prevent overflowing the "Page View" Reporting (Bug 49665)
+//		DCS.dcsuri=window.location.pathname;
+		DCS.dcsuri='Miscellaneous';
 //	if (window.location.search){
 //		DCS.dcsqry=window.location.search;
 //	}
@@ -766,17 +1146,24 @@ function dcsTag(){
 	}
 	dcsCreateImage(P);
 }
-
 dcsVar();
 dcsMeta();
-dcsTag();
-//-->
+dcsTag();//-->
 </script>
-
-
 <!-- SearchRev beg -->
 <!-- SearchRev end -->
 
+<!-- START OF UNANIMIS FOOTER CODE -->
+<script type="text/javascript"><!--//<![CDATA[
+    // DO NOT CHANGE THIS LINE
+    var unanimis_zone = 'other';
+    document.write('<scr'+'ipt type="text/javascript" src="http://d.unanimis.co.uk/TKTM/TKTM-Footer.js"><\/scr'+'ipt>');
+
+//]]>--></script><script type="text/javascript" src="http://d.unanimis.co.uk/TKTM/TKTM-Footer.js"></script>
+<!-- END OF UNANIMIS FOOTER CODE -->
+
+
+    
 
 
 
@@ -793,7 +1180,7 @@ dcsTag();
 
 
 
-
+    
 
 
 
