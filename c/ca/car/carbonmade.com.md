@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the carbonmade.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607164448id_/http%3A//www.carbonmade.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonmade.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021256id_/http%3A//www.carbonmade.com/privacy) for the most accurate reproduction.*
 
-# Carbonmade : Privacy Policy
+# Privacy Policy : Carbonmade
 
-Last Updated: April 12th, 2008
+Last Updated: November 5th, 2008
 
 ## Introduction
 
-Your ("You" or "Your") privacy concerns are important to Nterface Apps LLC, ("Us", "We" or "Our") and protecting Your privacy and safeguarding Your information is one of Our highest goals. You need to know what information is being collected about You through the Carbonmade website ("Service") and how Your information may be used. To that end, this Privacy Policy explains what information We may collect about You.
+Your ("You" or "Your") privacy concerns are important to Carbonmade LLC, ("Us", "We" or "Our") and protecting Your privacy and safeguarding Your information is one of Our highest goals. You need to know what information is being collected about You through the Carbonmade website ("Service") and how Your information may be used. To that end, this Privacy Policy explains what information We may collect about You.
 
 ## Collection of Information
 
@@ -38,6 +38,6 @@ By using the Service, You consent to the collection and use of Your information 
 
 ## Additional Information
 
-We welcome Your questions, comments and requests for additional information regarding privacy of the Service. You can contact Us by regular mail at Nterface Apps LLC, c/o Carbonmade.
+We welcome Your questions, comments and requests for additional information regarding privacy of the Service. You can contact Us by regular mail at Carbonmade, LLC.
 
-You accept and agree to be bound this Privacy Policy and Terms and Conditions of use [http://www.carbonmade.com/about/privacypolicy.](http://www.carbonmade.com/about/privacypolicy)
+You accept and agree to be bound this Privacy Policy and Terms and Conditions of use.
