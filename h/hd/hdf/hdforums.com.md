@@ -1,144 +1,57 @@
-> *The following text is extracted and transformed from the hdforums.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031160336id_/http%3A//www.hdforums.com/includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdforums.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040142id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DHDForums.com) for the most accurate reproduction.*
 
-# Harley Davidson Forums
+# Site Privacy Policy
 
-  
-| **Harley Davidson Forums - Privacy Policy**  
----  
-  
-|  Privacy Policy   
----  
-  
-Harley Davidson Forums has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for this web site: HDForums.com
+HDForums.com ("Site")
 
-If you are a member of our www.HDForums.com Community, we use your IP address to prevent access to our Community Forums in the event that a mailicious member has been removed from the Community. 
+Privacy Statement
 
-Our Community's registration form requires users to give us contact information (like their name and email address). We use the contact information from the registration form to send the user information and Community updates about our web site. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+We are committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself.
 
-Our site uses a contact form for users to request information, products, and services. We collect visitor's contact information (like their email address and/or telephone number). The user's contact information is used to get in touch with the user when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+By using this Site, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices.
 
-**Security**
+This Site contains links to other sites. These include links to resources in related topics and third-party sites that offer other related products. If you visit another website through a link on our site, please consult the privacy policy of the website you are visiting. We are not responsible for the privacy practices or the content of other websites that you may visit.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All data is encrypted and kept in a secure facility. 
+Browsing the Site
 
-**Children's Guidelines**
+If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer the Site. 
 
-1\. We do NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
+Information Collected
 
-2\. We do NOT collect personally identifiable offline contact information without prior parental consent
+We collect the email addresses of consumers who communicate with us or through our authorized vendors via email.
 
-3\. We do NOT distribute to third parties any personally identifiable information with out prior parental consent
+Any information provided by consumers becomes our property once received by us and may be used and disclosed as permitted in this Policy.
 
-4\. We do NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
+We may share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent your personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at [information@internetbrands.com](mailto:information@internetbrands.com). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
-5\. We do NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the given activity 
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at [information@internetbrands.com](mailto:information@internetbrands.com).
 
-****
+Use of Forums
 
-**Choice/Opt-Out**
+If you choose to transmit, submit or post information through the Site's chat rooms, bulletin boards or other forums (the "Forums"), we will collect that information you provide. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to our Terms of Use.
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
+Cookies
 
-This site gives users the following options for removing their information from our database to not receive future communications: 
+We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy, we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about yourself more than once.
 
-™ [Contact Form](https://web.archive.org/contact/)
+Security
 
- ****
+This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-**Corrections/Updates**
+Third Party Advertising 
 
-This site gives users the following options for changing and modifying information previously provided. 
+We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
-™ [Contact Form](https://web.archive.org/contact/)
+In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits this site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
 
- ****
+To learn more about these practices and your choices about not having this information used by these companies please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
-**Contacting HDForums.com**
+Contacting the Web Site
 
-If you have any questions about this privacy policy, the practices of the HDForums.com web site, or your dealings with the HDForums.com web site, you can contact us by sending an email to the following address: 
+Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
 
-[Contact Form](https://web.archive.org/contact/)  
-  
-| Featured Vendors  
----  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=471&url=http://www.internatrix.com/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1004&url=http://www.rivcoproducts.com/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=818&url=http://www.rekluse.com/ProStart.html)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1003&url=http://www.wheeldock.com/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=844&url=http://www.rjsoriginals.com)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=779&url=http://gordonshdparts.safeshopper.com)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=986&url=http://www.buyaqua-aire.com/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=344&url=http://www.jacksflaps.com/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=252&url=http://www.customdynamics.com)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=973&url=http://www.bikerbids.com)  
-  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [information@internetbrands.com](mailto:information@internetbrands.com).
 
+HDForums.com
 
-  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=988&url=http://www.dohertymachine.com)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=780&url=http://www.boogey.com/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=469&url=http://www.hogpro.com/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=666&url=http://www.georges-garage.com)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=799&url=http://www.rifle.com)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=889&url=http://www.blueridgebedandbreakfast.net)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=990&url=http://www.revperf.com/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=658&url=http://www.skullmanonline.com/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=609&url=http://www.bigboyzcycles.com/)|   
-  
-Ride of the Month  
----  
-October 2006  
-[](https://web.archive.org/MemberRides/showRide.asp?ID=160)  
-[2005 883 Custom](https://web.archive.org/MemberRides/showRide.asp?ID=160 "2005 883 Custom")  
-  
-
-
-Top 10 Posters  
----  
-| [springer](https://web.archive.org/showprofile.asp?memID=933)| 26693  
----|---  
-[bruce00](https://web.archive.org/showprofile.asp?memID=6073)| 14550  
-[grunt](https://web.archive.org/showprofile.asp?memID=13838)| 11490  
-[87lowrider](https://web.archive.org/showprofile.asp?memID=8002)| 11407  
-[pilot1996](https://web.archive.org/showprofile.asp?memID=678)| 8985  
-[john tn](https://web.archive.org/showprofile.asp?memID=1045)| 8607  
-[rahlow](https://web.archive.org/showprofile.asp?memID=3178)| 8180  
-[terry1955](https://web.archive.org/showprofile.asp?memID=1423)| 7919  
-[mikeisglidn](https://web.archive.org/showprofile.asp?memID=1453)| 7529  
-[12stones](https://web.archive.org/showprofile.asp?memID=535)| 7116  
-  
-New Vendors  
----  
-[Cycle Paint & Metal](http://www.cyclepaintmetal.com/)  
-[Ramp Master](http://www.ramp-master.com/)  
-[Performance Oil Technology](http://www.hypertracker.com/go/perfoiltech/hd/)  
-[Rivco](http://www.rivcoproducts.com/)  
-[The Wheel Dock](http://www.wheeldock.com/)  
-[Wyotech](http://www.search4wyotech.com/?s_id=345)  
-[Revolution Performance](http://www.revperf.com/)  
-[Doherty Machine](http://www.dohertymachine.com/)  
-[Aqua Aire](http://www.buyaqua-aire.com/)  
-[Motorcycle Industry Jobs](http://www.motorcycleindustryjobs.com/)  
-[Biker Bids](http://www.bikerbids.com/)  
-[Meadowood Bed & Breakfast](http://www.blueridgebedandbreakfast.net/)  
-[Fix My Hog](http://www.fixmyhog.com/)  
-[Motherwell Products](http://www.motherwellproducts.com/)  
-[No More Fried Thighs](http://www.rjsoriginals.com/)
+January 1, 2008
