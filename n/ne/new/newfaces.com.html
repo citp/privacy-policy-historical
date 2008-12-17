@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newfaces.com privacy policy that was archived on 2008-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514193840id_/http%3A//www.newfaces.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newfaces.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217100954id_/http%3A//newfaces.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,59 +10,8 @@
 @import url('css-include/header-settings.css');
 @import url('css-include/about-newfaces.css');
 </style>
-<!--for the prototype window for the password-->
-<!--JAVASCRIPT-->
-<script language="javascript" type="text/javascript" src="../script-include/prototype-window/javascripts/prototype.js"></script>
-<script language="javascript" type="text/javascript" src="../script-include/prototype-window/javascripts/effects.js"></script>
-<script language="javascript" type="text/javascript" src="../script-include/prototype-window/javascripts/window.js"></script>
-<script language="javascript" type="text/javascript" src="../script-include/prototype-window/javascripts/window_effects.js"></script>
-<script language="javascript" type="text/javascript" src="../script-include/prototype-window/javascripts/debug.js"></script>
-<script language="javascript" type="text/javascript" src="../script-include/prototype-window/javascripts/tooltip.js"></script>
-<!--CSS-->
-<link href="../script-include/prototype-window/themes/default.css" rel="stylesheet" type="text/css">
-<link href="../script-include/prototype-window/themes/alert.css" rel="stylesheet" type="text/css">
-<link href="../script-include/prototype-window/themes/alphacube.css" rel="stylesheet" type="text/css">
-<!-- Add this to have a specific theme-->
-<link href="../script-include/prototype-window/themes/mac_os_x.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-/*.popup_effect1 {
-  background:#11455A;
-  opacity: 0.2;
-  z-index: 100;
-}
-.popup_effect2 {
-  background:#FF0041;
-  border: 3px dashed #000;
-  z-index: 100*/
-      .popup_effect1 {
-      background:#11455A;
-      opacity: 0.2;
-      filter:alpha(opacity=20);
-        }
-        .popup_effect2 {
-          background:#FF0041;
-          border: 3px dashed #000;
-          z-index: 100
-        }
-</style> 
-<script type="text/javascript">
-    function email_a_friend(html) {
-        var effect = new PopupEffect(html, {className: "popup_effect1"});
-        var win = new Window({className: "dialog", width:350, height:400, zIndex: 100, resizable: false, url: "/email-a-friend.php?this_page=http://www.newfaces.com/privacy.html", title: "Email this page...", showEffect:Effect.BlindDown, hideEffect: Effect.SwitchOff, draggable:true, wiredDrag: true}) 
-        win.showCenter(html);  
-  }
-   function openDialog3(html) {
-        var effect = new PopupEffect(html, {className: "popup_effect1"});
-        var win = new Window({className: "dialog", width:350, height:400, zIndex: 100, resizable: false, url: "/passwords.html", title: "Request Password", showEffect:Effect.BlindDown, hideEffect: Effect.SwitchOff, draggable:true, wiredDrag: true}) 
-        win.showCenter(html);  
-  }
-  
-  function comming_msg(html) {
-    var effect = new PopupEffect(html, {className: "popup_effect2"})
-        var win = new Window({className: "mac_os_x",  width:400, height:320, zIndex: 100, resizable: false,  url: "/comming_soon.html", showEffect:Effect.BlindDown, hideEffect: Effect.SwitchOff, draggable:true, wiredDrag: true})
-        win.showCenter();         
-  }
-</script>
+<script language="javascript" type="text/javascript" src="/javascript/new-window.js"></script>
+<script language="javascript" type="text/javascript" src="/javascript/browse_portfolio.js"></script>
 <link rel="shortcut icon" href="new-images/favicon.ico">
 <link rel="icon" href="new-images/favicon.ico">
 <script language="JavaScript" src="script-include/newwindow.js" type="text/javascript"></script>
@@ -70,7 +19,7 @@
 <body id="about">
 <div id="container">
 		<div id="header"> <!-- Begin of Header -->
-                <h1>We Invented Online Portfolios for Models and Actors in 1995 -  <span> Enough Dreaming. It's Time to Be a Star!</span></h1>
+                <h1 style="width: 638px">We Invented Online Portfolios for Models and Actors in 1995 -  <span> Enough Dreaming. It's Time to Be a Star!</span></h1>
                 <h2><a href="/index.html" title="Back to New Faces ®Homepage"><span>New Faces® Models and Talents</span></a></h2>
                 
                 <div id="top_nav">
@@ -81,16 +30,18 @@
        		    </div>
        		    
 		        <div id="mid_nav">
-		                <ul>
-		                        <li><span><a href="/castingcalls-auditions.php" class="navigation" title="View Acting Auditions and Modeling Casting Calls">CASTINGS</a></span></li>
+		                <ul style="float: right;">
+								<li class="search-header"><span><a href="../model-search.php" class="navigation" title="NEW FACES MODEL SEARCH - Actors, Models and Child Models">SEARCH</a></span></li>
+		                        <li style="margin-right:5px;"><span><a href="/spotlight/" class="navigation" title="Meet Featured Models, Actors, Child Talent, Agencies and Industry Pros in Spotlight">SPOTLIGHT</a></span></li>
+		                        <li class="ascc-header"><span><a href="/about-newfaces.php" class="navigation" title="Learn about New Faces - Our History, Founder, Success Stories, Testimonials, and Latest Press Releases">ABOUT US</a></span></li>
+		                        <li class="ascc-header"><span><a href="/testimonials/" class="navigation" title="Models and Actors Talk About the Success and Great Jobs They've Booked Because of Their New Faces Portfolio">SUCCESS</a></span></li>
 								<li><span><a href="/shop/" class="navigation" title="New Faces Shop - Get the Essential Modeling Guides, Photo Enhancement and More">SHOP</a></span></li>
-		                        <li><span><a href="/videos/" class="navigation" title="View videos of Modeling and Acting Tips, Interviews with Modeling Agencies, etc. PLUS the Top Videos Submitted by Models and Actors at New Faces">VIDEO</a></span></li>
-		                        <li><span><a href="/about-newfaces.php" class="navigation" title="Learn about New Faces - Our History, Founder, Success Stories, Testimonials, and Latest Press Releases">ABOUT US</a></span></li>
-		                        <li><span><a href="/testimonials/" class="navigation" title="Models and Actors Talk About the Success and Great Jobs They've Booked Because of Their New Faces Portfolio">SUCCESS</a></span></li>
-		                        <li><span><a href="/acting-modeling-advice/" class="navigation" title="Get Advice and Tips from top Female Models and Male Supermodels Plus Model Agencies like Elite Models">ADVICE</a></span></li>
-		                        <li><span><a href="/spotlight/" class="navigation" title="Meet Featured Models, Actors, Child Talent, Agencies and Industry Pros in Spotlight">SPOTLIGHT</a></span></li>
-		                        <li><span><a href="/blog/" class="navigation" title="Keep up to date with the Latest Industry News, Events and Buzz at the New Faces Blog">BLOG</a></span></li>
+		                        <li class="ascc-header"><span><a href="/castingcalls-auditions.php" class="navigation" title="View Acting Auditions and Modeling Casting Calls">CASTINGS</a></span></li>
+		                        <li class="ascc-header"><span><a href="/contest.html" class="navigation">CONTESTS</a></span></li>
 		                        <li><span><a href="/chat/" class="navigation" title="Chat with other New Faces Members to Network, Share Advice and Make New Friends">CHAT</a></span></li>
+		                        <li><span><a href="/videos/" class="navigation" title="View videos of Modeling and Acting Tips, Interviews with Modeling Agencies, etc. PLUS the Top Videos Submitted by Models and Actors at New Faces">VIDEO</a></span></li>
+		                        <li><span><a href="/acting-modeling-advice/" class="navigation" title="Get Advice and Tips from top Female Models and Male Supermodels Plus Model Agencies like Elite Models">ADVICE</a></span></li>
+		                        <li><span><a href="/blog/" class="navigation" title="Keep up to date with the Latest Industry News, Events and Buzz at the New Faces Blog">BLOG</a></span></li>
 		                        <li><span><a href="/help-faq.html" class="navigation" title="Need Help? Here's Where to Find It">HELP</a></span></li>
 		                </ul>
 		        </div>
@@ -109,14 +60,30 @@
 		                </ul>
 		        </div>
 		</div> <!-- End of Header -->
-	
+		<div style="clear:both;"></div>
 		
         <div id="main"> <!-- Begin Main Body -->
     <div class="wrap">
-
+ 		<div style="float:right;width: 230px; padding-right: 12px; display: none;" id="browse-portfolio">
+			<div style="position:relative;float: left;">
+				<div style="float: left; top: 30px; z-index: 88; padding: 5px; background-color: #85BBEF;border:1px solid #8EAADA;position: absolute; width: 230px;" onmouseover="showBrowsePortfolio()" onmouseout="hideBrowsePortfolio()">
+						<h3 style="float: none; text-align: center;color:#FFFFFF">Browse Top Picks</h3>
+						<br>
+						<a href="/pro-female-male-models.html"><img src="/new-images/temp/top-50-models.gif" alt="TOP 50 MODELS PHOTO GALLERY" title="See Photos of the Top 50 Male &amp; Female Models" width="73" height="92"></a>
+						<a href="/pro-actors-actresses.html"><img src="/new-images/temp/top-50-actors.gif" alt="TOP 50 ACTORS PHOTO GALLERY" title="See Photos of the Top 50 Male &amp; Female Actors" width="72" height="92"></a>
+						<a href="/pro-child-models-actors.html"><img src="/new-images/temp/top-50-children.gif" alt="TOP 50 CHILD MODELS &amp; ACTORS PHOTOS" title="See Photos of the Top 50 Child Models and Kid Actors" width="72" height="92"></a>
+						<a href="/pro-photographers.html"><img src="/new-images/temp/top-50-photographers.gif" alt="TOP 50 PHOTOGRAPHERS PHOTO GALLERY" title="See Photography Portfolios of the Top 50 Photographers" width="73" height="92"></a>
+						<a href="/pro-talent-modeling-agencies.html"><img src="/new-images/temp/top-50-agencies.gif" alt="TOP 20 AGENCIES &amp; MODELING AGENCIES" title="Meet the Top 20 Agencies" width="72" height="92"></a>
+						<a href="/industry-pro.html"><img src="/new-images/temp/top-50-industry-pro.gif" alt="TOP 20 TALENT INDUSTRY PROS" title="Meet the Top 20 Industry Professionals" width="72" height="92"></a>			
+						<h3 style="float: none; text-align: center;">&nbsp;</h3>
+				</div>
+			</div>
+		</div>
         <div id="site-title">
                 <h2><span>New Faces®</span>   Privacy Statement</h2>
-                <p id="quick_browse"><a href="/model-search.php" title="Browse Portfolio" id="tooltip4" onmouseover="TooltipManager.addAjax(this, {url:'../show_propicks_castings.html', options: {method: 'get'}});"><span>Browse Potfolios</span></a></p>
+                <p id="quick_browse">
+					<a href="/model-search.php" title="Browse Portfolio" id="tooltip4" onmouseover="showBrowsePortfolio()" onmouseout="hideBrowsePortfolio()"><span>Browse Potfolios</span></a>
+				</p>
                 <p id="bookmark">
                   <!-- AddThis Button BEGIN -->
                   <script type="text/javascript">addthis_pub  = 'newfaces';
@@ -126,8 +93,19 @@
                   addthis_sendto()"><img src="/new-images/bookmark.gif" width="162" height="26" border="0" alt="Bookmark or share using any bookmark manager!"></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
                   <!-- AddThis Button END -->
                 </p>
-                <p id="title-links"> <a href=" " onclick="email_a_friend(this); return false;" class="blue"> Email This Page</a> | <a href="/LoginLogout.php" class="blue">LOGIN</a></p>
+                <p id="title-links"> <a href="../email-a-friend.php?this_page=http://www.newfaces.com/privacy.html" class="new_window blue"> Email This Page</a> | <a href="/LoginLogout.php" class="blue">LOGIN</a></p>
         </div>
+		
+		<script>
+			var my_Timer;
+			function showBrowsePortfolio(){
+				clearTimeout(my_Timer);
+				document.getElementById('browse-portfolio').style.display='block';
+			}
+			function hideBrowsePortfolio(){
+				my_Timer = setTimeout(function () {document.getElementById('browse-portfolio').style.display='none';},100);
+			}
+		</script>
 
 	
 			<div id="content">
@@ -151,7 +129,7 @@
 
 <script type="text/javascript"><!--
 google_ad_client = "pub-4073009347808695";
-google_alternate_ad_url = "http://www.newfaces.com/ads/600-banner.html";
+google_alternate_ad_url = "";
 google_ad_width = 160;
 google_ad_height = 600;
 google_ad_format = "160x600_as_new";
@@ -174,14 +152,12 @@ google_ui_features = "rc:6";
 			<!--insert the left navigator for members success stories-->
 			                        <div id="sidebar">
                                 <div id="left-buttons">
-                                        <ul class="left-buttons">
-                                                <li id="lb-nav1"><a href="/model-search.php" title="Search our Huge Talent Database to find Female and Male Models, Actors and Actresses, Talented Teens and Kids, plus Agencies and Industry Pros"><span>Search Talent</span></a></li>
-                                                <li id="lb-nav2"><a href="/talent-signup.html?talent=1" title="Boost Your Career by signing up for a Free Online Portfolio or one of our Enhanced Upgraded Portfolios"><span>Talent Sign-up</span></a></li>
-                                                <li id="lb-nav3"><a href="/industry-signup.html" title="Agencies and Industry Pros - Sign Up Now to find and book the Perfect Talent Match or Industry Project"><span>industry Sign-up</span></a></li>
-                                        </ul>
-                                </div>
-                                
-                                <div class="wrap">                                        
+  <ul class="left-buttons">
+    <li id="lb-nav1"><a href="/model-search.php" title="Search our Huge Talent Database to find Female and Male Models, Actors and Actresses, Talented Teens and Kids, plus Agencies and Industry Pros"><span>Search Talent</span></a></li>
+			<li id="lb-nav2"><a href="/signup.php?type=2" title="Boost Your Career by signing up for a Free Online Portfolio or one of our Enhanced Upgraded Portfolios"><span>Talent Sign-up</span></a></li>
+		<li id="lb-nav3"><a href="/signup.php?type=4" title="Agencies and Industry Pros - Sign Up Now to find and book the Perfect Talent Match or Industry Project"><span>industry Sign-up</span></a></li>
+		  </ul>
+</div>                                <div class="wrap">                                        
                                         <div class="left margin-bottom-7" style="padding-left: 6px">
                                                 <script type="text/javascript"><!--
                                                 google_ad_client = "pub-4073009347808695";
@@ -258,41 +234,41 @@ google_ui_features = "rc:6";
                 	<h2><b><b>Spotlight <a href="/spotlight" style="display:block;font-size:10px;font-weight:bold;margin-top:-15px;text-align:right;text-decoration:none; padding-right: 14px; color: #fff;">+See More</a></b></b></h2>
                     <div class="contentbox_fullbody cb-body" style="height: auto;">
                     	<script type="text/javascript" src="/launchpad/wz_tooltip.js"></script>
-		<a href="/MarcianoSilva" target="_blank">
-		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/MarcianoSilva-MarcianoSilva-36bd.jpg&amp;x=55&amp;y=68" alt="NEW FACES MODELS, FREE MODEL PORTFOLIOS &amp; MODELING PICTURES &amp; MODELING AGENCIES" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 4px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: #eff6ff; padding: 5px;&quot;><p><img src=&quot;/new-images/blue-elite.jpg&quot; alt=&quot;Elite Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model/Actor</h3><p>Marciano, 4\'10&quot; <br />Boston, MA</p><p>7 Photos</p></div>')" onmouseout="UnTip()">
+		<a href="/nkiruka" target="_blank">
+		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/71560.jpg&amp;x=55&amp;y=68" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 3px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: url(/new-images/details-bg.gif) #fff bottom repeat-x ; padding: 5px;&quot;><p><img src=&quot;/new-images/silver-s.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Nkiruka, 5\'10&quot; <br />New York, NY</p><p>7 Photos</p></div>')" onmouseout="UnTip()">
 	</a>
-  		<a href="/sweepea92" target="_blank">
-		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/sweepea92-sweepea92-e361.jpg&amp;x=55&amp;y=68" alt="NEW FACES MODELS, FREE MODEL PORTFOLIOS &amp; MODELING PICTURES &amp; MODELING AGENCIES" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 4px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: #eff6ff; padding: 5px;&quot;><p><img src=&quot;/new-images/blue-elite.jpg&quot; alt=&quot;Elite Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Colette, 5\'4&quot; <br />Los Angeles, CA</p><p>39 Photos</p></div>')" onmouseout="UnTip()">
+  		<a href="/minnie16" target="_blank">
+		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/minnie16-minnie16-adc1.jpg&amp;x=55&amp;y=68" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 3px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: url(/new-images/details-bg.gif) #fff bottom repeat-x ; padding: 5px;&quot;><p><img src=&quot;/new-images/silver-s.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Sara, 5\'7&quot; <br />Los Angeles, CA</p><p>7 Photos</p></div>')" onmouseout="UnTip()">
 	</a>
-  		<a href="/boats" target="_blank">
-		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/boats-boats-e3b1.jpg&amp;x=55&amp;y=68" alt="NEW FACES MODELS, FREE MODEL PORTFOLIOS &amp; MODELING PICTURES &amp; MODELING AGENCIES" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 4px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: #eff6ff; padding: 5px;&quot;><p><img src=&quot;/new-images/blue-silver.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Scott, 6\' <br />Fresno, CA</p><p>5 Photos</p></div>')" onmouseout="UnTip()">
+  		<a href="/Katelynnd388" target="_blank">
+		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/Katelynnd388-Katelynnd388-df2b.jpg&amp;x=55&amp;y=68" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 3px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: url(/new-images/details-bg.gif) #fff bottom repeat-x ; padding: 5px;&quot;><p><img src=&quot;/new-images/silver-s.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model/Actor</h3><p>Katelynnd, 4\'5&quot; <br />Cleveland, OH</p><p>4 Photos</p></div>')" onmouseout="UnTip()">
 	</a>
-  		<a href="/Danamoss" target="_blank">
-		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/Danamoss-1.jpg&amp;x=55&amp;y=68" alt="NEW FACES MODELS, FREE MODEL PORTFOLIOS &amp; MODELING PICTURES &amp; MODELING AGENCIES" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 4px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: #eff6ff; padding: 5px;&quot;><p><img src=&quot;/new-images/blue-silver.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Gyongyike, 5\'6&quot; <br />Toronto, ON</p><p>7 Photos</p></div>')" onmouseout="UnTip()">
+  		<a href="/ridge" target="_blank">
+		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/ridge-0.jpg&amp;x=55&amp;y=68" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 3px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: url(/new-images/details-bg.gif) #fff bottom repeat-x ; padding: 5px;&quot;><p><img src=&quot;/new-images/silver-s.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model/Actor</h3><p>Andrea, 6\'3&quot; <br />New York,<br /> Italy</p><p>8 Photos</p></div>')" onmouseout="UnTip()">
 	</a>
-  		<a href="/PaigeMills" target="_blank">
-		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/PaigeMills-PaigeMills-3c6b.jpg&amp;x=55&amp;y=68" alt="NEW FACES MODELS, FREE MODEL PORTFOLIOS &amp; MODELING PICTURES &amp; MODELING AGENCIES" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 4px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: #eff6ff; padding: 5px;&quot;><p><img src=&quot;/new-images/blue-elite.jpg&quot; alt=&quot;Elite Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Paige, 4\'7&quot; <br />Los Angeles, CA</p><p>6 Photos</p></div>')" onmouseout="UnTip()">
+  		<a href="/charlottesmith" target="_blank">
+		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/charlottesmith-charlottesmith-b9cL.jpg&amp;x=55&amp;y=68" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 3px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: url(/new-images/details-bg.gif) #fff bottom repeat-x ; padding: 5px;&quot;><p><img src=&quot;/new-images/platinum-s.jpg&quot; alt=&quot;Platinum Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Actor</h3><p>Charlotte, 5\'5&quot; <br />New York, NY</p><p>1 Photos</p></div>')" onmouseout="UnTip()">
 	</a>
-  		<a href="/alyBcouture" target="_blank">
-		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/alyBcouture-alyBcouture-4d30.jpg&amp;x=55&amp;y=68" alt="NEW FACES MODELS, FREE MODEL PORTFOLIOS &amp; MODELING PICTURES &amp; MODELING AGENCIES" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 4px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: #eff6ff; padding: 5px;&quot;><p><img src=&quot;/new-images/blue-platinum.jpg&quot; alt=&quot;Platinum Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Alicia, 5\'5&quot; <br />Frankfurt,<br /> Germany</p><p>18 Photos</p></div>')" onmouseout="UnTip()">
+  		<a href="/criscavalcante" target="_blank">
+		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/criscavalcante-criscavalcante-3f4a.jpg&amp;x=55&amp;y=68" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 3px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: url(/new-images/details-bg.gif) #fff bottom repeat-x ; padding: 5px;&quot;><p><img src=&quot;/new-images/elite-s.jpg&quot; alt=&quot;Elite Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Cristiane, 5\'9&quot; <br />New York, NY</p><p>1 Photos</p></div>')" onmouseout="UnTip()">
 	</a>
-  		<a href="/christiana" target="_blank">
-		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/christiana-3.jpg&amp;x=55&amp;y=68" alt="NEW FACES MODELS, FREE MODEL PORTFOLIOS &amp; MODELING PICTURES &amp; MODELING AGENCIES" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 4px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: #eff6ff; padding: 5px;&quot;><p><img src=&quot;/new-images/blue-elite.jpg&quot; alt=&quot;Elite Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Christiana, 3\'5&quot; <br />Los Angeles, CA</p><p>38 Photos</p></div>')" onmouseout="UnTip()">
+  		<a href="/Florenciap" target="_blank">
+		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/Florenciap-Florenciap-aced.jpg&amp;x=55&amp;y=68" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 3px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: url(/new-images/details-bg.gif) #fff bottom repeat-x ; padding: 5px;&quot;><p><img src=&quot;/new-images/silver-s.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Florencia, 5\'7&quot; <br />New York, NY</p><p>7 Photos</p></div>')" onmouseout="UnTip()">
 	</a>
-  		<a href="/boopboop" target="_blank">
-		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/boopboop-boopboop-5d6U.jpg&amp;x=55&amp;y=68" alt="NEW FACES MODELS, FREE MODEL PORTFOLIOS &amp; MODELING PICTURES &amp; MODELING AGENCIES" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 4px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: #eff6ff; padding: 5px;&quot;><p><img src=&quot;/new-images/blue-silver.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Crystal, 5\'11&quot; <br />Orlando, FL</p><p>8 Photos</p></div>')" onmouseout="UnTip()">
+  		<a href="/kaylac20" target="_blank">
+		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/kaylac20-kaylac20-f788.jpg&amp;x=55&amp;y=68" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 3px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: url(/new-images/details-bg.gif) #fff bottom repeat-x ; padding: 5px;&quot;><p><img src=&quot;/new-images/silver-s.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Kayla, 4\'2&quot;  <br />Los Angeles, CA</p><p>7 Photos</p></div>')" onmouseout="UnTip()">
 	</a>
-  		<a href="/2725" target="_blank">
-		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/2725-2725-3529.jpg&amp;x=55&amp;y=68" alt="NEW FACES MODELS, FREE MODEL PORTFOLIOS &amp; MODELING PICTURES &amp; MODELING AGENCIES" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 4px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: #eff6ff; padding: 5px;&quot;><p><img src=&quot;/new-images/blue-elite.jpg&quot; alt=&quot;Elite Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model/Actor</h3><p>Caitlin, 5\'3&quot; <br />Los Angeles, CA</p><p>37 Photos</p></div>')" onmouseout="UnTip()">
+  		<a href="/ba8y10v3" target="_blank">
+		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/ba8y10v3-ba8y10v3-7b7f.jpg&amp;x=55&amp;y=68" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 3px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: url(/new-images/details-bg.gif) #fff bottom repeat-x ; padding: 5px;&quot;><p><img src=&quot;/new-images/silver-s.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Mila, 3\' <br />Santa Clara, CA</p><p>6 Photos</p></div>')" onmouseout="UnTip()">
 	</a>
-  		<a href="/JoeyModel" target="_blank">
-		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/JoeyModel-JoeyModel-37b6.jpg&amp;x=55&amp;y=68" alt="NEW FACES MODELS, FREE MODEL PORTFOLIOS &amp; MODELING PICTURES &amp; MODELING AGENCIES" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 4px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: #eff6ff; padding: 5px;&quot;><p><img src=&quot;/new-images/blue-elite.jpg&quot; alt=&quot;Elite Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model/Actor</h3><p>Joey, 5\'10&quot; <br />Las Vegas, NV</p><p>37 Photos</p></div>')" onmouseout="UnTip()">
+  		<a href="/Dynocutie" target="_blank">
+		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/Dynocutie-Dynocutie-fcb0.jpg&amp;x=55&amp;y=68" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 3px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: url(/new-images/details-bg.gif) #fff bottom repeat-x ; padding: 5px;&quot;><p><img src=&quot;/new-images/silver-s.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Actor</h3><p>Shayna, 5\'8&quot; <br />New York, NY</p><p>7 Photos</p></div>')" onmouseout="UnTip()">
 	</a>
-  		<a href="/Clemons01" target="_blank">
-		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/Clemons01-Clemons01-87cf.jpg&amp;x=55&amp;y=68" alt="NEW FACES MODELS, FREE MODEL PORTFOLIOS &amp; MODELING PICTURES &amp; MODELING AGENCIES" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 4px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: #eff6ff; padding: 5px;&quot;><p><img src=&quot;/new-images/blue-silver.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Actor</h3><p>Ashley, 4\'9&quot; <br />New York City, NY</p><p>2 Photos</p></div>')" onmouseout="UnTip()">
+  		<a href="/im2kute4uxo" target="_blank">
+		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/im2kute4uxo-im2kute4uxo-63dc.jpg&amp;x=55&amp;y=68" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 3px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: url(/new-images/details-bg.gif) #fff bottom repeat-x ; padding: 5px;&quot;><p><img src=&quot;/new-images/elite-s.jpg&quot; alt=&quot;Elite Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model/Actor</h3><p>Ali, 5\'2&quot; <br />Milwaukee, WI</p><p>6 Photos</p></div>')" onmouseout="UnTip()">
 	</a>
-  		<a href="/Redhairbeauty" target="_blank">
-		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/Redhairbeauty-Redhairbeauty-3c36.jpg&amp;x=55&amp;y=68" alt="NEW FACES MODELS, FREE MODEL PORTFOLIOS &amp; MODELING PICTURES &amp; MODELING AGENCIES" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 4px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: #eff6ff; padding: 5px;&quot;><p><img src=&quot;/new-images/blue-silver.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>J'ypsy, 5\'9&quot; <br />Los Angeles, CA</p><p>7 Photos</p></div>')" onmouseout="UnTip()">
+  		<a href="/ModelSamm" target="_blank">
+		<img src="/classes/image.php?im=http://images.newfaces.com/userimages/thumbs/ModelSamm-ModelSamm-7f5e.jpg&amp;x=55&amp;y=68" class="margin-bottom-7" style="float: none;clear: none; vertical-align: top; padding: 4px; margin: 3px; border: 1px solid #8EAADA" onmouseover="Tip('<div style=&quot;text-align: center; background: url(/new-images/details-bg.gif) #fff bottom repeat-x ; padding: 5px;&quot;><p><img src=&quot;/new-images/silver-s.jpg&quot; alt=&quot;Silver Member&quot; style=&quot;border: 0; float: none;&quot; /></p><h3>Model</h3><p>Samantha, 5\'7&quot; <br />New York, NY</p><p>7 Photos</p></div>')" onmouseout="UnTip()">
 	</a>
                       </div>
                 </div>
@@ -323,7 +299,7 @@ google_ui_features = "rc:6";
 
                 <div class="margin-left-7 left">
                     <!-- BEGIN ProvideSupport.com Custom Images Chat Button Code -->
-                        <div id="ciWTrF" style="z-index:100;position:absolute"></div><div id="scWTrF" style="display:inline"></div><div id="sdWTrF" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/newfaces/safe-standard.js?ps_h=WTrF&amp;ps_t=1580435786911&amp;online-image=http%3A//www.newfaces.com/new-images/online-support.gif&amp;offline-image=http%3A//www.newfaces.com/new-images/offline-support.gif"></script></div><script type="text/javascript">var seWTrF=document.createElement("script");seWTrF.type="text/javascript";var seWTrFs=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/newfaces/safe-standard.js?ps_h=WTrF\u0026ps_t="+new Date().getTime()+"\u0026online-image=http%3A//www.newfaces.com/new-images/online-support.gif\u0026offline-image=http%3A//www.newfaces.com/new-images/offline-support.gif";setTimeout("seWTrF.src=seWTrFs;document.getElementById('sdWTrF').appendChild(seWTrF)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=newfaces">Customer Service Help Desk</a></div></noscript>
+                        <div id="ciWTrF" style="z-index:100;position:absolute"></div><div id="scWTrF" style="display:inline"></div><div id="sdWTrF" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/newfaces/safe-standard.js?ps_h=WTrF&amp;ps_t=1580435786869&amp;online-image=http%3A//www.newfaces.com/new-images/online-support.gif&amp;offline-image=http%3A//www.newfaces.com/new-images/offline-support.gif"></script></div><script type="text/javascript">var seWTrF=document.createElement("script");seWTrF.type="text/javascript";var seWTrFs=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/newfaces/safe-standard.js?ps_h=WTrF\u0026ps_t="+new Date().getTime()+"\u0026online-image=http%3A//www.newfaces.com/new-images/online-support.gif\u0026offline-image=http%3A//www.newfaces.com/new-images/offline-support.gif";setTimeout("seWTrF.src=seWTrFs;document.getElementById('sdWTrF').appendChild(seWTrF)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=newfaces">Customer Service Help Desk</a></div></noscript>
                     <!-- END ProvideSupport.com Custom Images Chat Button Code -->
                 </div>
                 <!-- BEGIN quicklinks.html -->
@@ -349,7 +325,7 @@ google_ui_features = "rc:6";
                         <li><a title="Get Modeling Advice and Tips from Elite Model Agency" href="/advice-elite-models.html" target="_blank">Elite Models Agency Advice</a></li>
                         <li><a title="A Complete Guide on How to Become a Model" href="/shop/guide-become-model.php" target="_blank">How to Become a Model</a></li>
                         <li><a title="Male Models" href="http://www.supermodelguide.com/male-models.html" target="_blank">Male Supermodels</a></li>
-                        <li><a title="Celebrity Gossip, Photos and Biographies" href="http://www.celebritysizzle.com/" target="_blank">Celebrity Gossip</a></li>
+                        <li><a title="Celebrity Gossip, Photos and Biographies" href="http://www.hilary.com/blog/" target="_blank">Celebrity Gossip</a></li>
                         <li><a title="Celebrity and Supermodel Pictures and Biographies" href="http://www.supermodelguide.com/" target="_blank">Supermodels</a></li>
                         <li><a title="Supermodel Photos and Biographies" href="/supermodels/modelpage.html" target="_blank">Top Models</a></li>
                         <li><a title="Get Modeling Advice from Top Modeling Agencies and Professional Models" href="/acting-modeling-advice/" target="_blank">Modeling Advice</a></li>
@@ -391,19 +367,30 @@ google_ui_features = "rc:6";
         </div>
         <div>
                 <!-- BEGIN footer.html -->
-                <div id="copyright" class="footer-content footer clear">
-	<p>This site and its contents are <a href="/copyright.html" class="footer">copyright</a> © 1995-2008 <a href="http://www.newfaces.com/" class="footer">New Faces Models and Talent Inc.</a> All rights reserved. <a href="/privacy.html" class="footer">Privacy Statement</a>. <a href="/sitemap.html" class="footer">Sitemap</a></p>
-	<p>Reproduction in whole or in part in any form or medium without express written permission of New Faces® is prohibited.</p>
+                <div id="copyright" style="height:90px;" class="footer-content footer clear">
+	<div class="textAligncenter">
+        Ways to contact New Faces: Chat with 
+        <!-- BEGIN ProvideSupport.com Text Chat Link Code -->
+        <div id="ciKAtQ" style="z-index:100;position:absolute"></div><div id="scKAtQ" style="display:inline"></div><div id="sdKAtQ" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/newfaces/safe-textlink.js?ps_h=KAtQ&amp;ps_t=1580435786900&amp;online-link-html=Live%20Customer%20Support%20Rep%20%28now%20Online%29&amp;offline-link-html=Live%20Customer%20Support%20Rep%20%28now%20Offline%29"></script></div><script type="text/javascript">var seKAtQ=document.createElement("script");seKAtQ.type="text/javascript";var seKAtQs=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/newfaces/safe-textlink.js?ps_h=KAtQ\u0026ps_t="+new Date().getTime()+"\u0026online-link-html=Live%20Customer%20Support%20Rep%20%28now%20Online%29\u0026offline-link-html=Live%20Customer%20Support%20Rep%20%28now%20Offline%29";setTimeout("seKAtQ.src=seKAtQs;document.getElementById('sdKAtQ').appendChild(seKAtQ)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=newfaces">Customer Service Help Desk</a></div></noscript>
+        <!-- END ProvideSupport.com Text Chat Link Code -->
+        &nbsp;or by <a href="/help-faq.html">Email</a>  or 1-888-417-7208 
+    </div>
+    <br>
+    <div> 
+        <p>This site and its contents are <a href="/copyright.html" class="footer">copyright</a> © 1995-2008 <a href="http://www.newfaces.com/" class="footer">New Faces® </a> All rights reserved. <a href="/privacy.html" class="footer">Privacy Statement</a>. <a href="/terms.php" class="footer">Terms of Use</a>. <a href="/sitemap.html" class="footer">Sitemap</a>.</p>
+        <p>"New Faces" is a registered trademark. Unauthorized use of our trademark is strictly prohibited.</p>
+        <p>Reproduction in whole or in part in any form or medium without express written permission of New Faces® is prohibited. <a href="/help-faq.html" class="footer">Contact Us</a> </p>
+    </div>
 	<br>
 	<p style="font: 14px;">
-		0.113843	</p>
+		0.118162	</p>
 </div>
                                 <!-- END footer.html -->
         </div>
 </div>
 <!-- BEGIN ProvideSupport.com Visitor Monitoring Code -->
 <div id="ci0Bcc" style="z-index:100;position:absolute"></div>
-<div id="sd0Bcc" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/newfaces/safe-monitor.js?ps_h=0Bcc&amp;ps_t=1580435786942"></script></div>
+<div id="sd0Bcc" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/newfaces/safe-monitor.js?ps_h=0Bcc&amp;ps_t=1580435786900"></script></div>
 <script type="text/javascript">var se0Bcc=document.createElement("script");se0Bcc.type="text/javascript";var se0Bccs=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/newfaces/safe-monitor.js?ps_h=0Bcc\u0026ps_t="+new Date().getTime();setTimeout("se0Bcc.src=se0Bccs;document.getElementById('sd0Bcc').appendChild(se0Bcc)",1)</script>
 <noscript>
 <div style="display:inline"><a href="http://www.providesupport.com?monitor=newfaces"><img src="http://image.providesupport.com/image/newfaces.gif" border="0" alt="" /></a></div>
@@ -414,8 +401,9 @@ google_ui_features = "rc:6";
 <script type="text/javascript">
                                 _uacct = "UA-339004-1";
                                 urchinTracker();
-                                </script>
+                                </script>							
 <!-- END OF GOOGLE ANALYTICS-->
+<script type="text/javascript" src="http://load.exelator.com/load/?p=132&amp;c=118749&amp;g=002"></script>
 </div>
 
 </body></html>
