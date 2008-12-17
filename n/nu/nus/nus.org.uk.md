@@ -1,68 +1,28 @@
-> *The following text is extracted and transformed from the nus.org.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509163952id_/http%3A//www.nusonline.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nus.org.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217042754id_/http%3A//www.nus.org.uk/en/Privacy-Policy) for the most accurate reproduction.*
 
-# nusonline.co.uk
+# Privacy Policy: NUS.org.uk
 
-**nusonline.co.uk Privacy Policy**
+[www.nus.org.uk](https://web.archive.org/web/20081217042754id_/http://www.nus.org.uk/) is operated by NUS, a Students' Union membership organisation, based in London. NUS are committed to protecting the privacy of its users while using the site. 
 
-The nusonline website is operated by the National Union of Students. The NUS are committed to protecting your privacy when you are using its online services. To protect your privacy, we apply five principles which you can read about here. 
+1.1 We will collect information about your personal details, tastes and preferences both when you tell us what these are and by analysis of traffic on the Website, including by using cookies. 
 
-**Principle 1 - Notice**
+1.1.2 A cookie is a piece of information that is stored on your computer's hard drive by your web browser. On revisiting the Website our computer server may recognise the cookie, giving us information about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of the Website. 
 
-We will ask for personal information which identifies you and enables you to be contacted, and about your course. 
+1.1.2.1 We use cookies for recognition purposes at logon through the use of a persistent cookie placed on your hard drive. We also use standard cookies to track activity around the site. This cookie is deleted at the end of each session/visit. We may also use cookies to track any click through from promotional emails sent by NUS/NUS Services Ltd and/or selected partners. 
 
-We will use the information only for the following purposes: 
+1.2 We use information collected about you to help us (a) develop the design and layout of the Website to ensure that it is as useful and enjoyable as possible and (b) provide the products and services which interest you. Sometimes this information may also be used by us and our associated companies to inform you about changes to the Website, new services and products or offers that you might find interesting. If you do not wish to receive this information, simply use the 'Unsubscribe' function. 
 
-  * To send you newsletters from nusonline and details of new student promotions as they become available
-  * To improve the content, design and layout of the nusonline website and to facilitate knowledge management
-  * To carry out research on the demographics, interests and behaviour of our registered users
-  * To perform marketing and promotional activities
-  * To forward information to you which we feel you may find useful, such as details of products and services and forthcoming career/job opportunities.
+1.3 In addition, we may provide aggregate statistics about our services, competitions, clients, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you. In the event that your personal details become untrue, inaccurate or incomplete, or in any event, you have the right to access your personal details and may rectify the same. 
 
+You agree that you do not object to us, our associated companies or such third parties contacting you for any of the above purposes whether by telephone, email, fax or in writing, and you confirm that you do not and will not consider any of the above as being a breach of any of your rights under the Telecommunications (Data Protection and Privacy) Regulations 1999. 
 
+1.4 We reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests or requests by the police investigating suspected illegal activities, to operate our systems properly or to protect ourselves or other Users. We also reserve the right to disclose individually identifiable information to third parties if a complaint arises concerning your use of the Website, and that use is deemed by us inconsistent with the Conditions. 
 
-Either of us may pass your personal information to the constituent member unions of the NUS and to other selected organisations which may also use it for these purposes. We may also register you for our other services which we feel may be useful or of interest to you. 
+1.5 When you input information or request services from us, we offer appropriate physical, electronic and managerial security measures in order that you may input information safely whilst effectively preventing that information from being accessed by unauthorised persons. In addition, we have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access to comply with the UK Data Protection Act 1998. This means that sometimes we may ask for proof of identity before we disclose personal information to you. 
 
-This privacy policy only covers the nusonline website at http://www.nusonline.co.uk 
+We welcome your questions and comments about privacy issues and the design of the Website. Should you have such comments or have a complaint about how we are using your personal data, please send an email to [nusuk@nus.org.uk](mailto:nusuk@nus.org.uk). 
 
-Other links within this site to other websites or framed third party sites within nusonline are not covered by this policy. We may continue to use your personal information for a period after you cease being a registered user. 
+You can ask us to update or remove your personal information by emailing [nus@nus.org.uk](mailto:nus@nus.org.uk) or by writing to us at NUS, 2nd floor, Centro 3,  
+Mandela Street, London, NW1 ODU, United Kingdom. 
 
-**Principle 2 - Consent and Choice**
-
-If you choose not to register or not provide personal information, you may still visit the nusonline website but you will not be able to access the restricted areas available to registered users. By clicking on "next" during the registration process, you accept the Terms and Conditions described herein and consent to our using your information accordingly. 
-
-**Principle 3 - Access**
-
-We have provided an administration service where you can review your personal information at any time to ensure it is correct and current. You will be able to update, correct, change or delete inaccurate details. 
-
-You may also change your choice of opting in or out of direct marketing activities, although you may continue to receive mailings for a short period while your change is being processed. You have the right to ask for a copy of your personal information on payment of a small fee. 
-
-**Principle 4 - Security**
-
-We have taken appropriate measures to ensure that your personal information is not unlawfully processed. However, no information transferred over the Internet or wireless network can be guaranteed to be completely secure. We will not be transferring your personal information outside of the European Economic Area. This website may use cookies containing temporary session information. 
-
-Cookies are a means of storing information about you and your preferences on the 
-
-hard drive of the computer you are using. 
-
-**Principle 5 - Minors**
-
-The nusonline website is not intended for children and we ask that no-one under the age of 12 submits personal information to us or uses the site without supervision of a parent or guardian. Registered nusonline users under the age of 18 will, at most, receive limited direct marketing communications. 
-
-**Questions**
-
-If you have any questions about this privacy policy, or the use of your personal information, or if you wish to request us to stop using your information in any way, please write to: 
-
-Data Protection Officer,  
-National Union of Students.,  
-2nd Floor,  
-Cento 3,  
-Mandella Street,  
-London NW1 ODU 
-
-If you have any questions for NUS relating to privacy, please send them to this address. 
-
-**Changes to this policy**
-
-If we decide to change this privacy policy, we would post such changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
-
-8 July 2002 
+However please note that we may need to retain some information in order to process orders or to comply with customer service or after sales obligations. 
