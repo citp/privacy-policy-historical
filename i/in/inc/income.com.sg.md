@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2007-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070720184045id_/http%3A//www.income.com.sg/others/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071423id_/http%3A//www.income.com.sg/others/privacy.asp) for the most accurate reproduction.*
 
-# NTUC Income : Privacy Policy
+# NTUC Income | Privacy Policy
 
-|  |   | 
+|   |    
 
-|   
----  
-|   | 
 
   1. What Personal Information do we collect?
     1. Information you give us   
@@ -49,7 +46,7 @@ We use the information we gather for the following purposes:
 We may disclose your personal information under certain circumstances where: 
 
     * we have your consent to share the information 
-    * we have engaged external companies to work with or on behalf of [Income coop] to provide a product or service that your have requested 
+    * we have engaged external companies to work with or on behalf of [NTUC Income] to provide a product or service that your have requested 
     * we use internal service providers to facilitate our services (e.g. surveys, discussion forums) 
     * you use co-branded services. When you use a co-branded service within our network of sites you grant us permission to pass your registration information back to that external service partner 
     * you participate in contests or other promotional programs on our site sponsored or organized by third parties, or purchase goods and services offered by third parties 
@@ -92,9 +89,4 @@ Singapore 189557
 
 
 |    
----|---|---  
-|  |   |   
-  
----|---|---  
-  
-
+---|---|---
