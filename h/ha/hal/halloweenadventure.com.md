@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halloweenadventure.com privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504024139id_/http%3A//halloweenadventure.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweenadventure.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152524id_/http%3A//www.halloweenadventure.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security And Privacy
 
@@ -22,8 +22,6 @@ We take your business seriously and will use every precaution necessary to ensur
 HalloweenAdventure.com is a wholly owned subsidiary of Masquerade LLC,. We at HalloweenAdventure.com value your business, and your trust. Therefore, we will not sell nor give away any customers' e-mail address (or any other personal information) to other businesses. 
 
 The reason we request your e-mail address is so we will be able to send you information regarding your order, (order confirmation, order processing, and tracking number). We may e-mail you coupons or discount offers in the future. Additionally, we may share information we collect at our Web site with other members of the MASQUERADE Halloween Adventure family. They may use this information to offer you products and services that may be of interest to you. 
-
-[](http://shop.halloweenadventure.com/shared/HelpDesk)
 
 To help protect you from identity theft and credit card fraud, HalloweenAdventure.com has choosen a shoping cart that has teamed up with ScanAlert and is now tested and certified daily to pass the FBI/SANS Internet Security Test. The "live" HACKER SAFE® mark appears only when a web site's security meets the highest security scanning standards of the U.S. government, Visa, MasterCard, American Express, Discover. 
 
