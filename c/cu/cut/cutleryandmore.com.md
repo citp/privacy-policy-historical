@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627195603id_/http%3A//www.cutleryandmore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217155659id_/http%3A//www.cutleryandmore.com/privacy.asp) for the most accurate reproduction.*
 
 # CutleryAndMore.com: Wusthof Knives, All Clad Cookware, Henckels Cutlery, Calphalon, Le Creuset, John Boos & More.
 
-| [](http://www.cutleryandmore.com/) |    |   
----|---|---  
-| 
+|   
+  
+[](https://web.archive.org/)
 
-| [](https://web.archive.org/cutlery.htm)| [](https://web.archive.org/kitchenware.htm)| [](https://web.archive.org/cookware.htm)| | [](https://web.archive.org/bakeware/)| | [](https://web.archive.org/tools/)| | [](https://web.archive.org/electrics/)| | [](https://web.archive.org/barware/) |  | [](https://web.archive.org/clearance.htm) |   
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-|  |   
+| [](http://www.cutleryandmore.com/cutlery.htm)| [](http://www.cutleryandmore.com/cutlery.htm)| [](http://www.cutleryandmore.com/cookware.htm)| | [](http://www.cutleryandmore.com/bakeware.htm)| | [](http://www.cutleryandmore.com/kitchentools.htm)| | [](http://www.cutleryandmore.com/electrics.htm)| | [](http://www.cutleryandmore.com/entertaining.htm)| | [](http://www.cutleryandmore.com/gifts.htm) |  | [](http://www.cutleryandmore.com/clearance.htm)|   
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+| |   
 ---  
-[](https://web.archive.org/shop/brands.asp)  
+[](http://www.cutleryandmore.com/brands.htm)  
    
   
 
 
 [](https://web.archive.org/cooks_illustrated.htm)  
   
-|  [](https://web.archive.org/shipping.asp)
+|  [](http://www.cutleryandmore.com/shipping.asp)[](https://web.archive.org/instock.asp)
 
 CutleryAndMore.com: Wusthof Knives, All Clad Cookware, Henckels Cutlery, Calphalon, Le Creuset, John Boos & More. | 
 
