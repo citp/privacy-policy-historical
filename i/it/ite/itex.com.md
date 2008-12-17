@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itex.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509070100id_/http%3A//www.itex.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itex.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110711id_/http%3A//www.itex.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # ITEX >> Help Center >> Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Help Center >> Privacy Policy
 
-[Print Format](https://web.archive.org/web/20080509070100id_/http%3A//www.itex.com/privacy_policy.asp?print=1 "Print Format")
+[Print Format](https://web.archive.org/web/20081217110711id_/http%3A//www.itex.com/privacy_policy.asp?print=1 "Print Format")
 
 ## Privacy Policy and Online Data Collection Notice
 
