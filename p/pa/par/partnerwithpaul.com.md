@@ -1,10 +1,26 @@
-> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603132924id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052724id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
 
 # Partner with Paul - Privacy Policy
 
   
-We take your privacy very seriously, and we've created this Privacy Policy in order to demonstrate our firm commitment to online privacy. This page outlines our information gathering and dissemination practices, and our use of personally identifiable information.
+We take your privacy very seriously, and we've created this Privacy Policy in order to demonstrate our firm commitment to online privacy. This page outlines our information gathering and dissemination practices, and our use of personally identifiable information. | 
 
+[ ](https://secure.trust-guard.com/certificates/www.partnerwithpaul.com)
+
+|   | 
+
+[ ](https://secure.trust-guard.com/certificates/www.partnerwithpaul.com)
+
+|   | 
+
+[ ](https://secure.trust-guard.com/certificates/www.partnerwithpaul.com)
+
+|   | 
+
+[ ](https://secure.trust-guard.com/certificates/www.partnerwithpaul.com)  
+  
+---|---|---|---|---|---|---  
+  
 **_What information does PartnerWithPaul.com collect from visitors?_**
 
 PartnerWithPaul.com collects information from our visitors and users of our website and uses the information internally for marketing and administration purposes, in the fulfillment of our service commitment to you, or as required under the law.
@@ -13,7 +29,7 @@ As a user of this website, PartnerWithPaul.com may collect your personally ident
 
 The personally identifiable information that we collect is limited to just your name and email.
 
-**PartnerWithPaul.com is the sole owner of the information collected on this website. We do not sell, share, or rent this information to others in any way, for any reason.**
+**PartnerWithPaul.com is the sole owner of the information collected on this website. We do not sell, rent, or share your personally identifiable information with others.**
 
 **_Why is information collected?_**
 
@@ -65,11 +81,17 @@ You can view and/or modify the information provided to us at any time by logging
 
 **_What if I want to Opt-Out of email communications from PartnerWithPaul.com?_**
 
-PartnerWithPaul.com provides every user with the opportunity to opt-out of receiving future promotional communications from us. You may do so in the following ways. Please note however that even if you opt-out, you may still receive important announcements or updates regarding your PartnerWithPaul.com account unless you cancel your account.
+PartnerWithPaul.com provides every user with the opportunity to opt-out of receiving future promotional communications from us. You may do so in the following ways.
+
+Please note however that even if you opt-out, you may still receive important announcements or updates regarding your PartnerWithPaul.com account unless you cancel your account.
 
 1\. Email: [support@partnerwithpaul.com](mailto:support@partnerwithpaul.com)  
+  
 2\. Website: [http://www.partnerwithpaul.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
-3\. Postal Mail: 381 Casa Linda Plaza #102, Dallas, TX 75218
+  
+3\. Postal Mail: 228 Park Ave S, Suite 17260, New York, NY 10003  
+  
+4\. Telephone: (347)562-1179
 
 **_Can children or minors use PartnerWithPaul.com?_**
 
@@ -89,4 +111,4 @@ By using this website, you consent to the collection and use of the information 
 
 If you have any questions about this Privacy Policy statement, the privacy-related practices of this website, or your dealings with this website, please contact us via one of the methods above.
 
-This Privacy Policy was last updated January 13th, 2008.
+This Privacy Policy was last updated October 26th, 2008.
