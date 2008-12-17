@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchmarketingnow.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615142637id_/http%3A//searchmarketingnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmarketingnow.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217200231id_/http%3A//searchmarketingnow.com/privacy) for the most accurate reproduction.*
 
 # Search Marketing Now Privacy Policy
 
@@ -70,6 +70,8 @@ We may buy or sell a company or property. If we sell a business, we may transfer
 ### Policy Changes, Questions & Comments
 
 We’ll post changes to this policy on this page. Questions about this policy should be emailed using [this form](https://web.archive.org/contact "Contact Us") or sent to our offices at Third Door Media, 279 Newtown TPKE, Redding, CT 06896.
+
+[](http://searchmarketingnow.com/white-papers/9-tips-for-organizing-your-ppc-campaigns)
 
 ### SMN News & Notices
 
