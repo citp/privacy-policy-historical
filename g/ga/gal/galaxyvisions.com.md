@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galaxyvisions.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611033458id_/http%3A//www.galaxyvisions.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galaxyvisions.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122811id_/http%3A//www.galaxyvisions.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GalaxyVisions - Privacy Policy
 
@@ -20,13 +20,11 @@
 
 [FREQUENTLY ASKED QUESTIONS](http://www.galaxyvisions.com/general_hosting_faq.php)
 
-[SWEEPSTAKES](http://www.galaxyvisions.com/sweepstakes.php)
-
 [DATACENTER TOUR](http://www.galaxyvisions.com/datacenter_tour.php)
 
 [OUR AWARDS](http://www.galaxyvisions.com/awards.php)
 
-[](http://www.galaxyvisions.com/sweepstakes.php "Signup for a Dedicated server and get a chance to win a 16GB IPhone!")
+[](http://www.galaxyvisions.com/64Bit_unix_vps.php "GalaxyVisions is proud to Launch 64 Bit Unix VPS servers!")
 
 [](http://www.galaxyvisions.com/datacenter_tour.php "Data Center Virtual Tour")
 
