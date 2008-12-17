@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigtits.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529212635id_/http%3A//bigtits.com/static/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtits.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024331id_/http%3A//www.bigtits.com/static/privacy.htm) for the most accurate reproduction.*
 
-# 
+# Tits | Big Tits | Big Boobs | Huge Tits And Big Boobs Porn Tube
 
 This document details important information regarding the use and disclosure of User Data collected on Bigtits.com 
 
@@ -13,7 +13,7 @@ DATA COLLECTED
   * Personal Information:   
 
     * Non-Registered users can watch videos without registering and without any information being collected and processed. Howverver the visitor's IP address will be recorded in the event that there is any misappropriationof information and/or content.
-    *     * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
+    * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
   * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
   * Cookies: When you visit Bigtits.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Bigtits.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
   * Log File Information: When you visit Bigtits.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
