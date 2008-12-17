@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612013754id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217165951id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # CarInsurance.com Statement of Privacy and Security
 
@@ -24,8 +24,8 @@ We may collect the following nonpublic personal information:
 
 We restrict access to nonpublic personal information about you to employees of CarInsurance.com or of our service providers that have agreed to maintain its confidentiality. We maintain physical, electronic and procedural safeguards that guard your nonpublic personal information. 
 
-We provide a secure environment for your personal data and transactions on every page of our quoting and policy writing application, which is approved by Thawte.   
-Click the logo at the bottom of this page.
+We provide a secure environment for your personal data and transactions on every page of our quoting and policy writing application, which is approved by VeriSign.   
+Click the security logo at the bottom of this page.
 
 ## Here are the types of information we gather. 
 
