@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dessci.com privacy policy that was archived on 2008-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080524082513id_/http%3A//www.dessci.com/en/company/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dessci.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217063554id_/http%3A//dessci.com/en/company/privacy.htm) for the most accurate reproduction.-->
 
 <html><!-- doc:support --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -11,15 +11,31 @@
 <script language="JavaScript" src="/misc/js/dsi.js"></script>
 <script language="JavaScript" src="/en/misc/js/dsilocal.js"></script>
 <script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-667634-1");
-	pageTracker._initData();
-	pageTracker._trackPageview();
-</script>
+// skip the first character, we are not interested in the "?"
+var query = location.search.substring(1);
+// split at each "&" character to give a list of  "name=value"  pairs
+var pairs = query.split("&");
+for (var i=0; i<pairs.length; i++) {
+	//alert("Item " + i + " is:" + pairs[i] + ".");
+	// break each pair at the first "=" to obtain the name and value
+	var pos = pairs[i].indexOf("=");
+	var argname = pairs[i].substring(0,pos).toLowerCase();
+	var value = pairs[i].substring(pos+1).toLowerCase();
 
+	// process only possible argname
+	if (argname == "reseller_id") {
+		reseller_id = parseFloat(value);
+		var gaTracking = "modified";
+	}
+	else {
+		var gaTracking = "standard";
+	}
+}
+</script>
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <title>Privacy Statement</title>
 </head>
 
@@ -80,7 +96,6 @@
 	<tr>
 		<td valign="top" class="dsinav" height="100%">
 <!-- End dsi1of3 -->
-
 <!-- begin menu.htm -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
@@ -236,14 +251,27 @@ Be certain the words Privacy Policy are in the Subject line.</p>
 <!-- End content2of2top.htm -->
 
 <!-- Begin dsi3of3.htm -->
-			<table width="590" height="100%" cellspacing="0" cellpadding="10" border="0" summary="Copyright, contact, and privacy info">	
-				<tbody><tr>
-					<td valign="top" colspan="99" class="footerinfo">Copyright © 1996-2008 Design Science. All rights reserved. &nbsp; <a href="/en/company/contacts.htm"><font color="#666666">Contact us</font></a>&nbsp;|&nbsp;<a href="/en/company/privacy.htm"><font color="#666666">Privacy statement</font></a></td>
-				</tr>
-			</tbody></table>	
-		</td>
-		<td>&nbsp;</td><!-- right margin --></tr></tbody></table><!-- outermost table (end) -->
-		
+<table width="590" height="5%" cellspacing="0" cellpadding="10" border="0" summary="Copyright, contact, and privacy info">	
+<tbody><tr>
+<td valign="top" colspan="99" class="footerinfo">Copyright © 1996-2008 Design Science. All rights reserved. &nbsp; <a href="/en/company/contacts.htm"><font color="#666666">Contact us</font></a>&nbsp;|&nbsp;<a href="/en/company/privacy.htm"><font color="#666666">Privacy statement</font></a></td>
+</tr>
+</tbody></table>
+</td>
+<td>&nbsp;</td><!-- right margin --></tr></tbody></table><!-- outermost table (end) -->
+<script type="text/javascript">
+if (gaTracking =="modified") {
+	var pageTracker = _gat._getTracker("UA-667634-1");
+	   pageTracker._setCampSourceKey("reseller_id"); // source
+       pageTracker._setCampTermKey("eval"); // term/keyword
+       pageTracker._setCampNameKey("reseller_id"); // name
+       pageTracker._setCampMediumKey("reseller_id"); // medium
+	pageTracker._trackPageview();
+}
+else{
+	var pageTracker = _gat._getTracker("UA-667634-1");
+	   pageTracker._trackPageview();
+}
+</script>
 	<!-- End dsi3of3.htm -->
 	
 
