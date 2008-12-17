@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the twopair.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527022935id_/http%3A//www.twopair.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twopair.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123639id_/http%3A//www.twopair.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # About Us | Privacy Policy - America's Best Contacts and Eyeglasses - Changing the way America buys glasses!
 
 ## About Us - Privacy Policy
 
-  * [About Us](https://web.archive.org/web/20080527022935id_/http%3A//www.twopair.com/about/index.cfm)
-  * [Privacy Policy](https://web.archive.org/web/20080527022935id_/http%3A//www.twopair.com/about/privacy.cfm)
+  * [About Us](https://web.archive.org/web/20081217123639id_/http%3A//www.twopair.com/about/index.cfm)
+  * [Privacy Policy](https://web.archive.org/web/20081217123639id_/http%3A//www.twopair.com/about/privacy.cfm)
 
 
 
