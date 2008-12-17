@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mukamo.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611032303id_/http%3A//www.mukamo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mukamo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082733id_/http%3A//www.mukamo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,9 +22,16 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 **Related Entries:**
 
-[Ces Drilon, TV crew kidnapped by Abu Sayyaf in Sulu?](http://www.mukamo.com/ces-drilon-tv-crew-kidnapped-by-abu-sayyaf-in-sulu/ "Permanent Link: Ces Drilon, TV crew kidnapped by Abu Sayyaf in Sulu?")  
-[President Gloria Macapagal-Arroyo pardons Joseph “Erap” Estrada](http://www.mukamo.com/president-gloria-macapagal-arroyo-pardons-joseph-erap-estrada/ "Permanent Link: President Gloria Macapagal-Arroyo pardons Joseph “Erap” Estrada")  
-[Philippines inflation rate surges to 9-year high at 9.6%](http://www.mukamo.com/philippines-inflation-rate-surges-to-9-year-high-at-96/ "Permanent Link: Philippines inflation rate surges to 9-year high at 9.6%")  
-[Tumayo Tayo Laban sa Kahirapan (STAND UP Against Poverty)](http://www.mukamo.com/tumayo-tayo-laban-sa-kahirapan-stand-up-against-poverty/ "Permanent Link: Tumayo Tayo Laban sa Kahirapan \(STAND UP Against Poverty\)")  
-[The 2006 State of the Nation Address](http://www.mukamo.com/the-2006-state-of-the-nation-address/ "Permanent Link: The 2006 State of the Nation Address")  
+[Yahoo! steps up anti-phishing Campaign](http://www.mukamo.com/yahoo-steps-up-anti-phishing-campaign/ "Permanent Link: Yahoo! steps up anti-phishing Campaign")  
+[Metrobank’s Official Anti-Phishing Guide](http://www.mukamo.com/metrobanks-official-anti-phishing-guide/ "Permanent Link: Metrobank’s Official Anti-Phishing Guide")  
+[Metrobank Warns Clients of Phishing Attack](http://www.mukamo.com/metrobank-warns-clients-of-phishing/ "Permanent Link: Metrobank Warns Clients of Phishing Attack")  
+[Stormpay: Paypal Alternative](http://www.mukamo.com/stormpay-paypal-alternative/ "Permanent Link: Stormpay: Paypal Alternative")  
+[SSS Online Inquiry System is always down](http://www.mukamo.com/sss-online-inquiry-system-is-always-down/ "Permanent Link: SSS Online Inquiry System is always down")  
+[US Visa Application](http://www.mukamo.com/us-visa-application/ "Permanent Link: US Visa Application")  
+[Andi Manzano cries foul over mail-order bride web site](http://www.mukamo.com/andi-manzano-cries-foul-over-mail-order-bride-web-site/ "Permanent Link: Andi Manzano cries foul over mail-order bride web site")  
+[US Gov’t launches Web site for new immigrants](http://www.mukamo.com/us-govt-launches-web-site-for-new-immigrants/ "Permanent Link: US Gov’t launches Web site for new immigrants")  
+[Swedish Embassy in Manila set to close](http://www.mukamo.com/swedish-embassy-in-manila-set-to-close/ "Permanent Link: Swedish Embassy in Manila set to close")  
+[Gmail enables IMAP](http://www.mukamo.com/gmail-enables-imap/ "Permanent Link: Gmail enables IMAP")
+
+  
 
