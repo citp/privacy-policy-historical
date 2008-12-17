@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatsoma.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607124433id_/http%3A//www.fatsoma.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatsoma.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110747id_/http%3A//www.fatsoma.com/pages/legal/privacy.php) for the most accurate reproduction.*
 
 # Fatsoma Ltd - Privacy Policy
 
