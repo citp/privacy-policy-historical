@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the testfunda.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502004709id_/http%3A//www.testfunda.com/ExamPrep/Articles/SiteContent/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testfunda.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161953id_/http%3A//www.testfunda.com/ExamPrep/Articles/SiteContent/PrivacyPolicy) for the most accurate reproduction.*
 
-# Article - Privacy Policy
+# Article - PRIVACY POLICY
 
-This Privacy Policy explains what information is collected from visitors to [TESTfunda](http://www.testfunda.com/), why the information is collected and how it is used. It also explains user options for accessing and managing information, our data security practices and other matters. [TESTfunda](http://www.testfunda.com/) is operated and owned by Enabilon Learning Pvt. Limited. This Policy became effective 1 February 2008 and is subject to our Terms of Use. 
+This Privacy Policy explains what information is collected from visitors to [TESTfunda](http://www.testfunda.com/TestFunda.aspx), why the information is collected and how it is used. It also explains user options for accessing and managing information, our data security practices and other matters. [TESTfunda](http://www.testfunda.com/TestFunda.aspx) is operated and owned by Enabilon Learning Pvt. Limited. This Policy became effective 1 February 2008 and is subject to our Terms of Use. 
 
 Why we collect personal information  
 We collect personal information from you to identify you, to ensure that we provide you with the correct feedback regarding your performance in various tests, and to help us deliver a superior educational experience. Information collected enables us to give you convenient access to our service offerings and products, and may help us tailor your educational experience. 
@@ -13,7 +13,7 @@ What Information do we collect and how do we use it?
 
 We collect information to provide more effective services. We ask for your name, email address, and other personal information when you register to use certain features of our website. We also may ask for this information at other times, such as when you enter contests or other promotions sponsored by us and/or our partners. If you use a feature that requires payment of a fee, we collect your credit card data or payment account information. 
 
-If you choose to use our invitation service to tell a friend about our site, we ask you for information to send the invitation (such as your friend's email address). We automatically send your friend a one-time email or instant message inviting him/her to visit our site. We store this information to: send this one-time invitation, register a referral if your invitation is accepted, and track the success of our referral program. Your friend may contact us at privacy@TESTfunda.com to request that we remove this information from our database. 
+If you choose to use our invitation service to tell a friend about our site, we ask you for information to send the invitation (such as your friend's email address). We automatically send your friend a one-time email or instant message inviting him/her to visit our site. We store this information to: send this one-time invitation, register a referral if your invitation is accepted, and track the success of our referral program. Your friend may contact us at [privacy@TESTfunda.com](mailto:privacy@TESTfunda.com) to request that we remove this information from our database. 
 
 When you use one of our paid products, we track the web pages, and information that has been accessed by you, and store it on our servers. This enables us to track items that you have completed, and those that you need to see. 
 
@@ -59,7 +59,7 @@ We have a good faith belief that access, use, preservation or disclosure of such
   1. Satisfy any applicable law, regulation, legal process or enforceable governmental request 
   2. Enforce applicable [Terms of Use](http://www.testfunda.com/ExamPrep/Articles/SiteContent/TermsOfUse), including investigation of potential violations thereof 
   3. Detect, prevent, or otherwise address fraud, security or technical issues, or 
-  4. Protect against imminent harm to the rights, property or safety of [TESTfunda](http://www.testfunda.com/) or Enabilon Learning Pvt. Limited, its users or the public as required or permitted by law. 
+  4. Protect against imminent harm to the rights, property or safety of [TESTfunda](http://www.testfunda.com/TestFunda.aspx) or Enabilon Learning Pvt. Limited, its users or the public as required or permitted by law. 
 
 If we become involved in a merger, acquisition, or any form of sale of some or all of our assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. 
 
@@ -77,10 +77,11 @@ Your Consent to This Policy
 By accessing our website, you agree to this Privacy Policy. This document supersedes any prior communication on this topic and reflects the entire and exclusive Privacy Policy for this Site. This Policy is subject to our Terms of Use, which take precedence over any conflicting Policy provision. We may change our Policy by posting a new version of it on our Site. 
 
 If You Have a Question:  
-We are posting this Policy in an effort to be a good web citizen. If you have a question, please bring it to our attention at privacy@TESTfunda.com or write to: 
+We are posting this Policy in an effort to be a good web citizen. If you have a question, please bring it to our attention at [privacy@TESTfunda.com](mailto:privacy@TESTfunda.com) or write to: 
 
 Enabilon Learning Pvt. Limited   
-B1, 201, Centre Point   
+B1-201 Centre Point   
+Eldee Mills Compound   
 243-A Delisle Road   
 Mumbai-400013   
 India 
