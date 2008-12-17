@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-seo-news.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630041335id_/http%3A//www.axandra.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-seo-news.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217034232id_/http%3A//www.axandra.com/company/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -80,4 +80,4 @@ In general, under federal law of the United States, you will not be liable for m
 
 ### Unsubscribe from the search engine facts newsletter
 
-If you don't want to receive our [newsletter](http://www.free-seo-news.com/) anymore, enter your email address in the following box and click the unsubscribe button:
+If you don't want to receive our [newsletter](http://www.free-seo-news.com/) anymore, click the unsubscribe link at the bottom of the newsletter that you have received.
