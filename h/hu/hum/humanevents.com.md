@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanevents.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225004009id_/http%3A//www.humanevents.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanevents.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024249id_/http%3A//www.humanevents.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - HUMAN EVENTS
 
@@ -10,7 +10,7 @@ If you place a subscription or order online, you must provide us contact informa
 
 **Will you rent, sell, or trade my e-mail address to a third party?**
 
-Your e-mail address will be used by **HUMAN EVENTS** to send order confirmations and to e-mail you about services and news that you have specifically chosen to receive. Though we hope you gain value from the messages you receive, you can choose to opt-out of receiving further messages by following the instructions provided at the close of each e-mail. We will honor the change to your account preferences on humanevents.com, however we also advertise on many other Internet and email outlets. Therefore you may see our advertisements in connection with other websites and email outlets. We will ensure that they offer you the ability to opt-out from their messages.
+Your e-mail address will be used by **HUMAN EVENTS** to send order confirmations and to e-mail news and offers that we believe will be of interest to you. Though we hope you gain value from the messages you receive, you can choose to opt-out of receiving further messages by following the instructions provided at the close of each e-mail. We will honor the change to your account preferences on humanevents.com, however we also advertise on many other Internet and email outlets. Therefore you may see our advertisements in connection with other websites and email outlets. We will ensure that they offer you the ability to opt-out from their messages.
 
 We may from time to time send you special offers and advertisements for products or services offered by third parties. We will not disclose any of your personal information to such third parties when we do this. 
 
