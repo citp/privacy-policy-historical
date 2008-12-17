@@ -1,91 +1,73 @@
-> *The following text is extracted and transformed from the myeg.com.my privacy policy that was archived on 2002-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020518193942id_/http%3A//myeg.com.my/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeg.com.my privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050119id_/http%3A//www.myeg.com.my/privacy.htm) for the most accurate reproduction.*
 
-# MyEG - Forget about the new economy, we are creating a new society!
+# MyEG Services Berhad
 
-| ****MyEG ... In Depth****  
----  
-  
-****Government Information Services****  
----  
-  
-****Citizen Central****  
----  
-  
-**Subscribe Now!**  
----  
-  
-[](https://web.archive.org/web/20020518193942id_/http%3A//myeg.com.my/Trans/welcome.htm)
+MyEG Services Bhd (MYEG) collects information from our users for a number of reasons, the chief one being to better understand our users and their needs.
 
-  
- | 
+Please read carefully our policy on data collection and use of the data collected.
 
-[](http://www.myeg.com.my/promopage/promopage.htm)  
+**When is information collected from you?**
+
+* When you register for or use any of MYEG's services on websites owned and/or operated by MYEG
+
+* When you take part in any contest, survey or promotion conducted by MYEG and/or its business partners
+
+* When you register as a member of websites hosted by MYEG on behalf of its business partners or use services on such websites  
 
 
-| 
+**What is the information used for?**
 
-| The Government of Malaysia is proud to roll out eServices, one of the pilot projects under the Electronic Government flagship application in fulfilling the Multimedia Super Corridor (MSC) initiative. You can now view & pay your bills, summons and conduct other transactions the **QUICK & EASY **way....  
----|---  
-  
-  
+* To provide goods and services by MYEG or its designated representatives and/or business partners to you or parties designated by you and matters ancillary thereto
 
+* To verify and process payment when you purchase goods and services from our sites
 
-**MyEG dot com Sdn. Bhd (505639-K) Privacy Statement**
+* For verification and record of your personal particulars including comparing it with information from other sources and using the information to communicate with you
 
- **** **_
+* To conduct statistical analysis of the users of our sites including the number of users, the frequency of use, profile of users and using such analysis for our business plans, the enhancement of our products and services, targeted advertisements and conveying such information in broad terms (but not information in relation to specific individuals) to third parties who have or propose to have business dealings with us
 
-Our commitment to Privacy
+* To send you information, promotions and updates including marketing and advertising materials in relation to our goods and services and those of third party organizations selected by us
 
-_**
-
-This privacy statement is meant to demonstrate MyEG dot com Sdn. Bhd ("MyEG") has firm commitment to privacy. The following discloses our information gathering and dissemination practices for web services.
-
-**_
-
-Use of your personal Information
-
-_**
-
-MyEG user registration and information forms requires the users to supply us contact information and billing details (examples are name, email address and account numbers of billers). MyEG will require such information to contact the user with relation to our bill payment services and **eServices of the Malaysian government**. The user contact information will also be used to contact the customer when necessary.
-
-MyEG will not share and disseminate any personal information with other 3rd parties, the government or any other organisation. However, personal information retrieved via MyEG from **Databases of the Malaysian Government** shall remain property and privy of the Malaysian Government and the respective **Service Suppliers to be appointed by the Malaysian Government**. MyEG will not partake in any form of commercial transaction of personal information of users. Personal information will be kept strictly confidential.
-
-Demographic and profile data collected by MyEG will be used to tailor the services and information to the users’ experience and requirements. 
-
-**_
-
-Information Security
-
-_**
-
-MyEG utilises strong security and encryption measures to protect the loss, misuse and alteration of information within the environment of MyEG. MyEG currenly utilises, the the Secure Socket Layer (SSL) protocol with 128-bit encryption.
-
-**_
-
-Digital Security
-
-_**
-
-**__**
-  * **SSL server authentication and server ID,** installed on the web server, a server ID is a digital credential that enables visitors using web browsers to verify MyEG's authenticity and to communicate with it securely via SSL encryption it   
-allows a user to confirm MyEG’s server identity. SSL-enabled client software uses standard techniques of public-key cryptography to check that MyEG’s server certificate and public ID are valid and have been issued by a certification authority (CA) listed with the _CCA (Office of the Controller Of Certification Authority, Prime Minister’s Department)_. The digital certificate of MyEg will be issued by MSCTrustGate.com Sdn. Bhd. ([http://www.msctrustgate.com](http://www.msctrustgate.com/)) This confirmation will be important as the user, will be sending a credit card number over the network and wants to check the receiving server's (MyEG’s) identity. MSCTrustGate.com Sdn. Bhd is located in : 
+* · To comply with any order of court or directive from authorities investigating any alleged offence, misdeeds and/or abuse or for the purposes of taking legal action against any users for breach of the Conditions of Access and/or Terms of Service  
 
 
+**Can you opt out?**
 
-Ground Floor, Belatuk Block  
-Cyberview Garden  
-63000 Cyberjaya  
-Selangor Darul Ehsan  
-Phone: (603) 8318-1800  
-FAX: (603) 8319-1800   
+Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may e-mail us. If you do not wish to receive any information of any kind from us at all, you may e-mail us.  
 
 
-The Server ID deployed by MSCTrustGate.com Sdn. Bhd is based on VeriSign Server ID ([http://verisign.com)](http://www.verisign.com/). VeriSign deploys 128-bit "session key".
+**Will your personal information be shared with anyone?**
 
-****
-  * **An encrypted SSL connection** requires all information sent between a client and a server to be encrypted by the sending software and decrypted by the receiving software, thus providing a high degree of confidentiality. Confidentiality is important for both parties to any private transaction. In addition, all data sent over an encrypted SSL connection is protected with a mechanism for detecting tampering--that is, for automatically determining whether the data has been altered in transit
+We are committed to safeguarding your privacy. As a general rule, we do not disclose specific information about our users to any third parties unless so required by law or any government agencies. All communication whether from us or our business partners will be sent to you by us.
 
-****
-  * **Public Key Infrastructure** to be deployed by MyEG will be with MSCTrustGate Sdn. Bhd. and on a Verisign Inc. technology. 
+However, in the event that you participate in contests or other promotional programs on our site sponsored or organized by third parties or purchase goods and services offered by third parties or offer goods and services to third parties on our sites, your information may be disclosed to and used by such third parties.  
 
+
+**Can you change and update your particulars?**
+
+If you wish to correct, change or update your particulars, all you have to do is to go to your "My Profile " page to do so. You will need to have your user id and password.  
+
+
+**How your data is protected**
+
+MYEG will take reasonable steps to ensure that personal data are protected from unauthorized access. Access to "My Account" is password protected. Thus, no other party, including employees ofMYEG, can change the information. However, you must remember to log off from your account and close the browser window after use so that no unauthorized party can have access. You must not, at any time, divulge your password to any third party.
+
+All information gathered by MYEG is stored in systems that may only be accessed by authorized staff of MYEG using assigned user ids and passwords.
+
+**Use of cookies**
+
+MYEG uses "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
+
+Like many web site operators, MYEG also use the independent company GoogleAnalytics to measure and analyse the internet usage across MYEG web sites. Nielsen//NetRatings is a leader in the internet industry in interactive measurement technologies and market research. MYEG use GoogleAnalytics' services to collect the following core information on the usage of our web sites, including:
+
+* The number of page views (or page impressions) that occur on MYEG web sites;
+
+* The number of unique visitors to MYEG web sites;
+
+* How long these unique visitors (on average) spend on MYEG web sites when they do visit; and
+
+* Common entry and exit points into MYEG web sites. 
+
+This aggregate, non-personal information is collated by GoogleAnalyticsand provided to MYEG to assist in analysing the usage of MYEG web sites.
+
+All pages on MYEG web sites are coded with software provided by GoogleAnalytics. This is transparent to the user as the software makes use of an invisible image (via _Javascript) or an invisible Java Applet*, at the bottom of the web page.  
 
