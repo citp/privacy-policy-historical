@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackhat.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521115241id_/http%3A//www.blackhat.com/html/bh-about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackhat.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217173823id_/http%3A//www.blackhat.com/html/bh-about/privacy.html) for the most accurate reproduction.*
 
 # Black Hat : About Us : Privacy Policy
 
