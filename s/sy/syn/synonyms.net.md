@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synonyms.net privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520081437id_/http%3A//www.synonyms.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synonyms.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217145528id_/http%3A//www.abbreviations.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ Enforcement of Agreement or Compliance with Law: STANDS4 LLC may use or disclose
 **How may you change or remove your personal information?**
 
   
-You may at any time review and change your Personal Information stored by this web site by contacting us using our [contact page](https://web.archive.org/web/20080520081437id_/http%3A//www.synonyms.net/contact.asp).
+You may at any time review and change your Personal Information stored by this web site by contacting us using our [contact page](https://web.archive.org/web/20081217145528id_/http%3A//www.abbreviations.com/contact.asp).
 
 You may also request that STANDS4 LLC permanently remove all Personal Information stored by STANDS4 LLC by delivering notice requesting such removal. Upon such request, STANDS4 LLC will remove all such information and will not thereafter use personally identifiable information about you in any way. 
 
