@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the louisvillemojo.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229050031id_/http%3A//www.louisvillemojo.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louisvillemojo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045704id_/http%3A//www.louisvillemojo.com/privacy.cfm) for the most accurate reproduction.*
 
-# Louisville Mojo: Louisville Personals, Events, Louisville Classifieds, Blogs, Forums & Chat... For Free!
+# Louisville Mojo: Louisville Personals, Events, Louisville Classifieds, Blogs, Forums & Chat... Free!
 
 return...
 
