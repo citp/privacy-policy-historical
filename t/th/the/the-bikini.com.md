@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611110924id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218004339id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Extreme bikinis for sexy women. The- bikini .com Micro bikinis
 
+  
+  
   
   
   
@@ -30,7 +32,6 @@ The [Body Bare](http://www.personalshavers-affiliates.com/b.asp?ID=1005) will sh
 It does not bite, cause bumps, discomfort or ingrown hairs. This is the BEST WOMEN or MEN'S razor in the world!   
 [ ](http://www.personalshavers-affiliates.com/b.asp?ID=1005)
 
-  
   
 
 
@@ -107,4 +108,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20080611110924id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20081218004339id_/http%3A//www.the-bikini.com/contact/). 
