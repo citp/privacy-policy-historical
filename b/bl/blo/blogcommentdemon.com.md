@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogcommentdemon.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611071530id_/http%3A//blogcommentdemon.com/private.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogcommentdemon.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110116id_/http%3A//blogcommentdemon.com/private.htm) for the most accurate reproduction.*
 
 # Private Policy
 
@@ -14,7 +14,7 @@ We do not provide services or sell products to children. If you are below the ag
 
 **3\. Policy Is Part Of Our Terms And Conditions Of Use.**
 
-Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions by clicking _[this link](https://web.archive.org/web/20080611071530id_/http%3A//blogcommentdemon.com/terms.htm)_.
+Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions by clicking _[this link](https://web.archive.org/web/20081217110116id_/http%3A//blogcommentdemon.com/terms.htm)_.
 
 **4\. The Type Of Information We Collect From You.**
 
