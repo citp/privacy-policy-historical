@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impactinfomarketing.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526043231id_/http%3A//www.impactinfomarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactinfomarketing.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114033id_/http%3A//www.impactinfomarketing.com/privacy.html) for the most accurate reproduction.*
 
 # Privicy
 
@@ -38,7 +38,7 @@ We can be reached by contacting:
 
 
 ImpactInfoMarketing.com/SucccessTriggers.com  
-Email: Michael AT ImpactInfoMarketing.com
+Email: ImpactInfoMarketing AT Gmail.com
 
 For more tips on protecting children's privacy online.   
 refer to the above FTC link or contact us.
