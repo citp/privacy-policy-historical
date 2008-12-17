@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norman.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515014611id_/http%3A//www.norman.com/Home/Privacy_policy/50861/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norman.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217174430id_/http%3A//www.norman.com/Home/Privacy_policy/50861/en) for the most accurate reproduction.*
 
 # :: NORMAN :: Antivirus | Firewall | Network security
 
