@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unlike.net privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615131232id_/http%3A//www.unlike.net/pages/2-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlike.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060050id_/http%3A//berlin.unlike.net/pages/2-Privacy) for the most accurate reproduction.*
 
-# berlin.unlike | Privacy Statement
+# Privacy | berlin.unlike
 
 unlike media Ltd. (“UM”) is aware that the security of your private information from the use of our website is an important concern. Therefore we take the protection of your personal data very seriously and would like to inform you about our security measures.
 
@@ -8,11 +8,11 @@ unlike media Ltd. (“UM”) is aware that the security of your private informat
 
 UM collects information through our Website at several points. 
 
-If you use the website of UM [www.unlike.net](http://www.unlike.net/), you may need to register to use certain functions. We collect the email address and the username from visitors. 
+If you use the website of UM www.unlike.net, you may need to register to use certain functions. We collect the email address and the username from visitors. 
 
 UM does not actively market to children, and we never knowingly ask a person under 18 to divulge personal information.
 
-We also collect the following general data that is not personally identifiable information, such as traffic data, IP address, to help diagnose problems on servers. We collect demographic data in order to improve the Hypediss service.
+We also collect the following general data that is not personally identifiable information, such as traffic data, IP address, to help diagnose problems on servers. We collect demographic data in order to improve the unlike service.
 
 Within the registration process the provision of some information is optional such as name, gender, birth date, country, location and your personal homepage or your instant messenger username. We will collect this information if provided to us.
 
@@ -46,13 +46,13 @@ Our customers and users will occasionally receive newsletters or e-mails with in
 
 ## 5\. Right of Access and Correction
 
-Please regard that you are obliged to inform us about any changes in your personal data stored in our system. If there are any changes, please send an email to [info@unlike.net](mailto:info@unlike.net).
+Please regard that you are obliged to inform us about any changes in your personal data stored in our system. If there are any changes, please send an email to info@unlike.net.
 
 You are solely responsible for maintaining the confidentiality of your password and information associated with your account that you desire to remain confidential. You also agree that you are responsible for any and all activities that may take place, or occur under your password and account. 
 
 ## 6\. Right of Cancellation
 
-You have the right to withdraw your consent to the use of your personal data in the future at any time. Therefore please send an email to [comment@unlike.net](mailto:comment@unlike.net).
+You have the right to withdraw your consent to the use of your personal data in the future at any time. Therefore please send an email to comment@unlike.net.
 
 ## 7\. Security
 
