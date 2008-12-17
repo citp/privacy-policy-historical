@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wordflood.com privacy policy that was archived on 2008-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080103042142id_/http%3A//www.wordflood.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordflood.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055711id_/http%3A//www.wordflood.com/Privacy_Policy.html) for the most accurate reproduction.*
 
-# WordFlood 2.0
+# 
 
 * * *
 
-Copyright 2007 Real Slick Software. All Rights Reserved.
+Copyright 2008 by Brandon Tanner and Real Slick Software. All Rights Reserved.
 
 _Privacy Policy_
 
@@ -14,7 +14,7 @@ The hosting provider for this internet site may record various information, incl
 
 **Use of personal information  
 **  
-We respect your privacy. Your email address will never be shared with any third parties. Any personally identifiable information collected is used solely for the purpose of tracking sales and to provide information about future updates of the program.
+We respect your privacy. Your email address will never be shared with any third parties. Any personally identifiable information collected is used primarily for the purpose of providing you with news regarding WordFlood updates, as well as news about other products which we develop. If you signed up for the mailing list to receive the free version of WordFlood, then we may also on occasion inform you of third party products which we feel may be of interest to you.
 
 **Cookies**
 
