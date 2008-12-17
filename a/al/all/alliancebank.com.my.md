@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alliancebank.com.my privacy policy that was archived on 2008-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080331104856id_/http%3A//www.alliancebank.com.my/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliancebank.com.my privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092422id_/http%3A//www.alliancebank.com.my/privacypolicy.html) for the most accurate reproduction.*
 
-# ALLIANCE BANK
+# ALLIANCE BANK MALAYSIA BERHAD
 
 **Your Privacy, Our Policy**
 
