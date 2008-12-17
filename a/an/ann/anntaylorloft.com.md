@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anntaylorloft.com privacy policy that was archived on 2008-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080402081035id_/http%3A//anntaylorloft.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anntaylorloft.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035152id_/http%3A//www.anntaylorloft.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Ann Taylor LOFT : Privacy and Security
 
@@ -10,8 +10,9 @@
 |  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200033&categoryId=231)  
 |  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200047&categoryId=245)  
 |  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200051&categoryId=249)  
+|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200052&categoryId=269)  
 |  [](http://www.anntaylorloft.com/catalog/department_sale.jsp?Nr=AND\(CAT_SALE_FLAG:Y\)&N=1200054&categoryId=270)  
-| [](https://web.archive.org/custserv/content_popup.jsp?pageName=ShipPop) [](https://web.archive.org/catalog/editorial.jsp?pageName=Teachers)  
+| [](https://web.archive.org/catalog/editorial.jsp?pageName=StJude) [](https://web.archive.org/catalog/editorial.jsp?pageName=fallfashion) [](http://teachers.anntaylorloft.com/) [](https://web.archive.org/custserv/custserv.jsp?pageName=ATCard)  
   
 [](https://web.archive.org/custserv/custserv.jsp?pageName=FAQ)[](https://web.archive.org/custserv/custserv.jsp?pageName=Return)[](https://web.archive.org/custserv/custserv.jsp?pageName=Terms)[](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy)[](https://web.archive.org/custserv/custserv.jsp?pageName=ATCard)[](https://web.archive.org/custserv/contactus.jsp)
 
@@ -68,7 +69,7 @@ Your request may take up to 10 business days to process, and you may receive e-m
 **What are cookies? Does anntaylorLOFT.com use cookies?**   
 Cookies are bits of information that are automatically stored on your computer's hard drive to recognize your preferences in order to make shopping easier. anntaylorLOFT.com uses cookies to help us personalize your shopping experience and keep track of your order as you shop in our online store. Your cookie also allows us to recognize you when you return to our site and provides you with access to your account information. Cookies do not contain any personally identifiable information, such as your name, address or any financial information on your computer. 
 
-Ann Taylor LOFT may use reputable third parties to provide services to us, such as to help us measure the effectiveness of our advertising and how visitors use our site, and these third parties may also use cookies on your computer. anntaylorLOFT.com respects your right to choose whether to be included in the services that these third parties provide. If you would like to opt-out of these services, please [click here](https://web.archive.org/catalog/email_unsubscribe.jsp). 
+Ann Taylor LOFT may use reputable third parties to provide services to us, such as to help us measure the effectiveness of our advertising and how visitors use our site, and these third parties may also use cookies on your computer. anntaylorLOFT.com respects your right to choose whether to be included in the services that these third parties provide. If you would like to opt-out of these services, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 You can refuse cookies by turning them off in your Internet browser. In order to disable cookies, please consult your browser's help section for instructions. If you turn off cookies, however, you will not be able to purchase from our website, as we will not be able to track your online order. You may still place an order by calling us at 1-800-DIAL-ANN. 
 
