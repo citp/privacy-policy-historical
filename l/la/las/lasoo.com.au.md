@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasoo.com.au privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630072642id_/http%3A//www.lasoo.com.au/portal/homepage%3Ffooter%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasoo.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060143id_/http%3A//lasoo.com.au/portal/homepage%3Ffooter%3Dprivacy) for the most accurate reproduction.*
 
 # Lasoo.com.au - Search offers and catalogues from your local retail stores
 
@@ -47,4 +47,24 @@ Changes to this policy Please note that this Privacy Policy may change from time
 
 
 
-**If you have any questions regarding the Privacy Statement - please[email us](https://web.archive.org/web/20080630072642id_/http%3A//www.lasoo.com.au/portal/homepage?footer=contact%20us)**
+**If you have any questions regarding the Privacy Statement - please[email us](https://web.archive.org/web/20081217060143id_/http%3A//lasoo.com.au/portal/homepage?footer=contact%20us)**
+
+###  Your Locations 
+
+###  Retailers 
+
+###  Lasoo Newsletters 
+
+Subscribe to Lasoo Pre-Shop News for the latest catalogues and bargains, as well as exclusive competitions.
+
+You can view the latest edition of Lasoo Pre-Shop News [here](https://web.archive.org/newsletters/current.html).
+
+###  Tell Your Friends 
+
+###  Lasoo Community 
+
+### Lasoo.com.au in the News
+
+"Lasoo.com.au - one of the most popular pre-shop websites..."
+
+### Pre-Shop 2 Win
