@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416224147id_/http%3A//www.rue21.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040435id_/http%3A//www.rue21.com/privacy) for the most accurate reproduction.*
 
-# rue21: hot fashions @ cool prices
+# Privacy Policy @ rue21.com
 
   
 
