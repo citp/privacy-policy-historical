@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetcam.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611012448id_/http%3A//www.meetcam.com/docs.php%3Fp%3DPrivacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetcam.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050701id_/http%3A//www.meetcam.com/docs.php%3Fp%3DPrivacy%2520Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy :: Docs
 
@@ -41,5 +41,5 @@ Links to Other Web Sites: This Site may contain links to other Web sites. Please
 
 Changes to This Privacy Statement: We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
 
-Contact Information: MeetCam welcomes your comments regarding this privacy statement. If you believe that MeetCam has not adhered to this privacy statement, please contact us by e-mail at [support@MeetCam.com](mailto:support@MeetCam.com) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.   
+Contact Information: MeetCam welcomes your comments regarding this privacy statement. If you believe that MeetCam has not adhered to this privacy statement, please contact us by e-mail at [help@MeetCam.com](mailto:help@MeetCam.com) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.   
 
