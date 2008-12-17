@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamershell.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224000949id_/http%3A//www.gamershell.com/privacystat.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamershell.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217031128id_/http%3A//www.gamershell.com/privacystat.shtml) for the most accurate reproduction.*
 
 # G a m e r s H e l l - Privacy Statement
 
@@ -18,4 +18,4 @@ _Famous gH Quote:
 
 _
 
- **Copyright © 1999-2005 Gamer's Hell. All rights reserved.**
+ **Copyright © 1999-2008 GamersHell.com, All rights reserved.**
