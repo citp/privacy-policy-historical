@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the radioreference.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611124631id_/http%3A//www.radioreference.com/apps/content/%3Fcid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioreference.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050650id_/http%3A//www.radioreference.com/apps/content/%3Fcid%3D1) for the most accurate reproduction.*
 
 # RadioReference.com - Privacy Policy
 
 | 
 
-Links
+Site Navigation
 
  **General**
 
