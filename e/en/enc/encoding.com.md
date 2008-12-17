@@ -1,57 +1,140 @@
-> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207141318id_/http%3A//www.encoding.com/common/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094213id_/http%3A//www.encoding.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# On Demand Video Encoding - privacy statement
 
-This privacy policy ("Policy") applies to [www.loudeye.com](http://www.loudeye.com/) (the "Site"), which is owned and operated by Loudeye Corp. Please note that this Policy does not apply to the Loudeye Radio Player. For information about the privacy policy that applies to the Loudeye Radio Player, please visit <http://radio.player.loudeye.com/radioPlayer/tab_my_help/policy_privacy.html>. Except as provided below, we do not collect any personally identifiable information about you while you use the Site. Please read on for more details about our privacy policy. 
+We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate.
 
-Please note that if we decide to change our privacy policy, we will post those changes to this Policy in this section of the Site, and other places we deem appropriate so that our users are always aware of what information we collect, how we use it, and under what, if any, circumstances we disclose it. We will always use any information collected in accordance with the privacy policy in place at the time the information was collected. 
+1\. What information does Encoding.com collect?
 
-**Information We Collect: How We Use Information We Collect**  
-Except in the limited circumstances provided below, we do not collect any personally identifiable information while you use the Site. The cases in which we do collect personally identifiable information are as follows: 
+Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our sites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, subscriptions to print magazines and email newsletters and participation in message boards. 
 
-**Newsletter**  
-On our Site we make available "Viewpoint," a newsletter with the intention of providing you with the inside track into the trends and new technologies in the digital music industry. If you elect to receive the newsletter we will ask you to subscribe and provide the following information: your name, company name (if applicable) and email address. This information will only be used to send the newsletter. If, at any time you wish to un-subscribe, you can do so by sending an email to [newsletter@loudeye.com](mailto:newsletter@loudeye.com&subject=unsubscribe) with "unsubscribe" in the subject header. 
+We collect personally identifiable information, such as your name, email address, postal address, phone number, mobile number and credit card information when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us. 
 
-**Music Labels**  
-If you represent a music label and are interested in participating in Loudeye services (e.g., services that allow Loudeye customers access to samples of music in your music catalog or that allow us to include your music when we deliver files to licensed users, such as XM Radio), you can request a service agreement on our site. When you request an agreement, we will ask you for the name of your label and any sublabels, as well as an address, phone number, fax number, e-mail address and an individual contact name. This information will only be used to send you the agreement you have requested. 
+Once you register with one of our Encoding.com sites you are no longer anonymous to us.
 
-We also collect and use certain types of non-personally identifiable information. 
+2\. What is Encoding.com' practice regarding cookies?
 
-**Cookies**  
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while using the Site. Loudeye uses a persistent cookie for the Site. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
+Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected. 
 
-Loudeye uses cookies to create profiles of our users. A profile is stored information that we keep on non-specific users, which details user preferences. We use this profile to tailor each user's interaction with the Site and to personalize our Site to your particular interests. 
+We also use technologies, including electronic images known as Web bugs-sometimes called transparent GIFs, clear GIFs, or beacons-that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you. 
 
-This Policy covers the use of cookies by Loudeye only and does not cover the use of cookies by any advertisers that may advertise through the Site. 
+We use cookies and tracking technologies in a variety of ways, including:
 
-**Enhancement of Marketing Profile**  
-We purchase third party marketing data and add it to our existing user database to better target our advertising and provide offers we think our users would be interested in. We use this information to enhance the existing user profiles. This aggregate marketing data is tied to your user profile and used to tailor your interaction with the Site. 
+  * Keeping count of return visits to our site or our advertisers' or partners' sites;
+  * Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage;
+  * Determining which features our overall user population likes best;
+  * Saving your password so you don't have to re-enter it each time you visit our sites;
+  * Displaying the most appropriate advertising or content based on your interests.
 
-**Log Files**  
-Like most standard website servers, we use log files. This includes Internet Protocol (IP) addresses, browser type, Internet service provider (ISP), platform type, and date/time stamp. This information is not linked to any personally identifiable information about you. We collect and use this information in aggregate to tailor our services and to share with advertisers. 
 
-**Children**  
-We may require you to provide your age and date of birth in order to insure compliance with U.S. government restrictions on web sites providing content to, and acquiring information from, children. 
 
-**Disclosure of Information to Third Parties**  
-We do not sell, trade, or rent your personal information to outside parties. Loudeye may share aggregate statistical information about our users, traffic patterns, and related site information with reputable third-party associates and vendors, but these statistics will include no personally identifying information. 
+We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
 
-**Business Transition**  
-In the event that Loudeye goes through a business transition, such as a merger, acquisition by another company, or selling a portion of its assets, users' information, in most instances, be a part of the assets transferred. Such a transfer shall not be considered a violation of or deviation from this Policy. 
+3\. How does Encoding.com use the information?
 
-**Links to Third Party Sites**  
-This Site contains links to other unaffiliated sites. Please be aware that Loudeye is not responsible for the privacy practices of such other sites. We encourage you to be aware of when you leave the Site and to read the privacy policies of each website you visit. This Policy applies solely to information collected on this Site. 
+We use the information we gather for four general purposes:
 
-**Our Commitment to Data Security**  
-To prevent unauthorized access, maintain data accuracy, and to ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+  * To customize the advertising and the content you see;
+  * To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you;
+  * To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in paid services, polls, contests, and message boards;
+  * To send you information you agreed to receive about topics we think will be of interest to you.
 
-**Our Commitment to Children's Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain personally identifiable information from anyone we know to be under the age of 13. 
 
-**How to Contact Us**  
-If at any time you believe that Loudeye has not followed the above policy, please let us know and we will make reasonable efforts to identify and correct any problem. You can contact us at: 
 
-Loudeye Corp.  
-1130 Rainier Ave. South  
-Seattle, WA 98144  
-Email: [webmaster@loudeye.com](mailto:webmaster@loudeye.com)
+4\. How does Encoding.com share the information?
+
+Personally identifiable information We will make your personally identifiable information available to other companies or people when:
+
+  * You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website.
+  * You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, photo sharing or other forms of public communication and interaction.
+  * You use cobranded services (i.e., sites or services that we offer to you in connection with a partner, who is identified on the site). When you use a cobranded service within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies.
+  * We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.
+  * You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person's list of people to whom they may not send emails.
+  * You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process.
+  * When required by law, such as when we respond to subpoenas, court orders, or legal process.
+  * We believe that your actions violate applicable laws, Encoding.com' Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
+
+
+
+_Aggregate information_ : We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+
+_Business transfers_ :We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
+
+5\. What are my options?
+
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering. We also give users the following options:
+
+  * Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us;
+  * Opting not to provide certain personal information when registering for a site, provided, however, that you may not be able to use some of our products or services without providing us with certain information.
+
+
+
+6\. How can I review and update my personally identifiable information?
+
+You can review, correct, or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page.
+
+7\. How will I know if the privacy policy is changed?
+
+Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail.
+
+8\. Privacy of children
+
+None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
+
+Questions, Comments
+
+Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent to our legal department at [legal@Encoding.com](mailto:legal@Encoding.com). We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
+
+| 
+
+Developer Resources
+
+[API Documentation](https://web.archive.org/wdocs/ApiDoc)
+
+[Supported Source Media Formats](https://web.archive.org/wdocs/SourceFileFormats)
+
+[Sample Scripts](https://web.archive.org/wdocs/SampleScripts)
+
+[Recent Changes](https://web.archive.org/wdocs/Changes)
+
+| 
+
+Video Encoding Service
+
+[Pricing/Scaling](https://web.archive.org/pricing)
+
+[Service Description](https://web.archive.org/service)
+
+Feature List
+
+| 
+
+Support
+
+[Contact Us](https://web.archive.org/contact.html)
+
+[Client Login](http://manage.encoding.com/user/)
+
+[Technical FAQ](http://help.encoding.com/)
+
+| 
+
+Get Started
+
+[Buy Now](https://www.encoding.com/register/)
+
+[Free 1GB Trial](https://www.encoding.com/register/?trial=yes)
+
+[Try 3 videos Free!](https://web.archive.org/try/)
+
+| 
+
+Legal Eagle
+
+[Terms of Use](https://web.archive.org/terms.html)
+
+[Privacy](https://web.archive.org/privacy.html)  
+  
+---|---|---|---|---  
+  
+Copyright 2008 Encoding.com. All rights reserved. 
