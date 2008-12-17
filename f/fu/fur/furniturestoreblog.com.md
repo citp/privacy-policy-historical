@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturestoreblog.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526013135id_/http%3A//www.furniturestoreblog.com/2007/03/06/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturestoreblog.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113057id_/http%3A//www.furniturestoreblog.com/2007/03/06/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,8 +14,3 @@ We also use third party advertisements on furniturestoreblog.com to support our 
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.  
 
-
-**Share this article:**  
-[](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.furniturestoreblog.com%2F2007%2F03%2F06%2Fprivacy_policy.html&title=Privacy%20Policy&bodytext=&topic=) [](http://del.icio.us/post?v=4&url=http%3A%2F%2Fwww.furniturestoreblog.com%2F2007%2F03%2F06%2Fprivacy_policy.html&title=Privacy%20Policy) [](http://reddit.com/submit?url=http%3A%2F%2Fwww.furniturestoreblog.com%2F2007%2F03%2F06%2Fprivacy_policy.html&title=Privacy%20Policy) [](http://www.google.com/bookmarks/mark?op=add&title=Privacy%20Policy&bkmk=http%3A%2F%2Fwww.furniturestoreblog.com%2F2007%2F03%2F06%2Fprivacy_policy.html) [](http://www.stumbleupon.com/submit?url=href=http%3A%2F%2Fwww.furniturestoreblog.com%2F2007%2F03%2F06%2Fprivacy_policy.html&title=Privacy%20Policy)
-
-Posted by John | March 6, 2007 | [0 comments](http://www.furniturestoreblog.com/2007/03/06/privacy_policy.html#comments)
