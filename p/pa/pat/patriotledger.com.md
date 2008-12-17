@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the patriotledger.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611065902id_/http%3A//www.gatehousemedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotledger.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122001id_/http%3A//www.gatehousemedia.com/privacy) for the most accurate reproduction.*
 
 # GateHouse Media, Inc. - Privacy Policy
 
-This privacy policy describes the privacy practices for the websites operated by GateHouse Media, Inc. (“Gatehouse”) and certain of Gatehouse’s subsidiaries, including this website (the “Websites”).   
+This privacy policy describes the privacy practices for the websites operated by GateHouse Media, Inc. (â€œGatehouseâ€) and certain of Gatehouseâ€™s subsidiaries, including this website (the â€œWebsitesâ€).   
 
 
 ## INFORMATION COLLECTION AND USE.
 
-We gather two types of information: (1) personally identifiable information that you supply voluntarily when you register for interactive services, order other products or services, or enter certain other areas of our Websites as noted below in this Privacy Policy and (2) aggregate tracking and site usage information that we gather on an anonymous basis as you access our Websites. Your provision to us of any information through our Websites, or through other sites that link to our Websites, is deemed your agreement to this Privacy Policy. It is our policy to use the personally identifiable information we acquire at our Websites for internal business uses only and to provide products and services to you that you ordered. We do not authorize your personal information to be used by a third party (other than our service providers as described later in this Privacy Policy) without disclosing that intention and receiving your consent, except as described under “Legal Matters” below. We maintain security measures to keep this information private. 
+We gather two types of information: (1) personally identifiable information that you supply voluntarily when you register for interactive services, order other products or services, or enter certain other areas of our Websites as noted below in this Privacy Policy and (2) aggregate tracking and site usage information that we gather on an anonymous basis as you access our Websites. Your provision to us of any information through our Websites, or through other sites that link to our Websites, is deemed your agreement to this Privacy Policy. It is our policy to use the personally identifiable information we acquire at our Websites for internal business uses only and to provide products and services to you that you ordered. We do not authorize your personal information to be used by a third party (other than our service providers as described later in this Privacy Policy) without disclosing that intention and receiving your consent, except as described under â€œLegal Mattersâ€ below. We maintain security measures to keep this information private. 
 
 ### Personally Identifiable Information.
 
@@ -20,7 +20,7 @@ Certain information supplied by you to our Websites may be password-protected, a
 
 Personal information which you provide on bulletin boards or in other areas that are accessible to other users could be collected and disclosed by others. We cannot take any responsibility for such collection or disclosure. 
 
-From time to time, we may obtain e-mail addresses from third party sources to be used for promotional emails. You may opt out of receiving any messages from us in the future by either clicking on the “Unsubscribe” link in the email, or by contacting us as instructed at the end of this Privacy Policy.   
+From time to time, we may obtain e-mail addresses from third party sources to be used for promotional emails. You may opt out of receiving any messages from us in the future by either clicking on the â€œUnsubscribeâ€ link in the email, or by contacting us as instructed at the end of this Privacy Policy.   
 
 
 ### Legal Matters 
@@ -67,7 +67,7 @@ We may modify this Privacy Policy at any time, so please review it frequently. W
 
 If you have any questions about this Privacy Policy or you wish to make changes to your personal information or remove yourself from our database, please contact us in one of the following ways: 
 
-E-mail us at: webmaster@gatehousemedia.com and insert only the words “Re: Privacy Policy” in the subject line header of the email. 
+E-mail us at: webmaster@gatehousemedia.com and insert only the words â€œRe: Privacy Policyâ€ in the subject line header of the email. 
 
 Write to us at:   
 Webmaster  
