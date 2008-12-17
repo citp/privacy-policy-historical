@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the levenger.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615201454id_/http%3A//www.levenger.com/CUSTOMER/SERVICE/privacy.asp%3FParams%3Dcategory%3D539%7Clevel%3D2%7Cpageid%3D2370) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levenger.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065553id_/http%3A//www.levenger.com/CUSTOMER/SERVICE/privacy.asp%3FParams%3Dcategory%3D539%7Clevel%3D2%7Cpageid%3D2370) for the most accurate reproduction.*
 
 # Levenger Privacy Statement - Levenger
-
-Levenger Privacy Statement
 
 Last updated 10/1/07
 
@@ -91,7 +89,7 @@ We use an outside shipping company to ship orders, an outside telemarketing comp
 
 Service Providers
 
-We partner with other third parties such as Experian and DoubleClick to provide specific services. For example, DoubleClick is our email vendor that transmits all of our marketing emails and Experian is responsible for the data processing and postal sortation for each catalog mailing. When the user signs up for these particular services, we share names, email addresses and mailing address information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+We partner with other third parties such as Experian and e-Dialog to provide specific services. For example, e-Dialog is our email vendor that transmits all of our marketing emails and Experian is responsible for the data processing and postal sortation for each catalog mailing. When the user signs up for these particular services, we share names, email addresses and mailing address information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
 Business Transitions
 
