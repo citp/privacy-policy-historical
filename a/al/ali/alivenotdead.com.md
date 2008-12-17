@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alivenotdead.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614223540id_/http%3A//www.alivenotdead.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alivenotdead.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015426id_/http%3A//alivenotdead.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy - alive not dead
+# Privacy policy - alivenotdead.com
 
 Published: Monday, Apr 9, 2007 11:50PM   By: The alive not dead team    Source: alivenotdead.com
 
