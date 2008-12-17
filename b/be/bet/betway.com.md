@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betway.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619191230id_/http%3A//betway.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betway.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090702id_/http%3A//betway.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Betway Online Casino and Betting :: Privacy Policy
 
