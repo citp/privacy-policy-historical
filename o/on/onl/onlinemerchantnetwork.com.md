@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemerchantnetwork.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616034207id_/http%3A//www.onlinemerchantnetwork.com/inform/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemerchantnetwork.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084921id_/http%3A//www.onlinemerchantnetwork.com/inform/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Merchant Network
 
