@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isubmit.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isubmit.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
@@ -6,15 +6,15 @@
 By registering your information with us, you confirm that you have read, understood and agree to the provisions of this Privacy Policy and to our Terms of Service. Dialup Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Dialup Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. This privacy statement discloses the privacy practices for iSubmit.COM (http://www.isubmit.com), owned Dialup Inc. 
 
 **Table of Contents**   
-**1.[What is iSubmit, and why is my information needed?](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#section1)   
-2\. [What information does Dialup Inc. gather/track and how is it used?](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#section2)   
-3\. [With whom does Dialup Inc. share the information?](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#section3)   
-4\. [How can I review, correct and update my personal information?](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#section4)   
-5\. [What types of communications does iSubmit send out?](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#section5)   
-6\. [How can I opt out of Dialup Inc's collection, use and distribution of my information?](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#section6)   
-7\. [How does Dialup Inc. protect my information from loss, misuse or alteration?](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#section7)   
-8\. [Whom can I ask if I have additional questions?](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#section8)   
-9\. [Miscellaneous Information](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#section9)   
+**1.[What is iSubmit, and why is my information needed?](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#section1)   
+2\. [What information does Dialup Inc. gather/track and how is it used?](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#section2)   
+3\. [With whom does Dialup Inc. share the information?](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#section3)   
+4\. [How can I review, correct and update my personal information?](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#section4)   
+5\. [What types of communications does iSubmit send out?](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#section5)   
+6\. [How can I opt out of Dialup Inc's collection, use and distribution of my information?](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#section6)   
+7\. [How does Dialup Inc. protect my information from loss, misuse or alteration?](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#section7)   
+8\. [Whom can I ask if I have additional questions?](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#section8)   
+9\. [Miscellaneous Information](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#section9)   
 **
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. If you have questions or concerns regarding this statement, you should first contact an iSubmit Support Representative by email (support@isubmit.com). If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve your concerns. 
@@ -23,7 +23,7 @@ The TRUSTe program covers only information that is collected through this Web si
 
 iSubmit is a website submission service. We ensure our clients get thier websites listed as fast as possible and long lasting as possible. For this service, iSubmit charges a recurring monthly fee via credit card. Once a client registers with iSubmit, he/she can log into their account via internet connection through our home page, http://www.isubmit.com. In order for Dialup Inc to properly bill our customers, confirm they are U.S. based websites, and allow clients to log in to thier accounts, me must collect certain Personally Identifiable (Pieces) of Information (PII). 
 
-[Back to top](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
+[Back to top](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
 
 **2.What information does Dialup Inc. gather/track and how is it used?**
 
@@ -39,23 +39,23 @@ COOKIES: A cookie is a small text file that is stored on a user's computer for r
 
 Dial Up Inc. (PO Box 910325, San Diego, Ca, 92191-0325) is the sole owner of the information collected on ISUBMIT.COM. ISUBMIT.COM collects personally identifiable information from our users at several different points on our Web site. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
-[Back to top](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
+[Back to top](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
 
 **3.With whom does Dialup Inc. share the information?**
 
-PERSONALLY IDENTIFIABLE INFORMATION: We do not share your Personally Identifiable Information (PII) (see [Section 1](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#section1) \- Personal Information above) with other third parties. Dialup Inc processes all credit card transactions internally and therefore does not share this information with third parties. 
+PERSONALLY IDENTIFIABLE INFORMATION: We do not share your Personally Identifiable Information (PII) (see [Section 1](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#section1) \- Personal Information above) with other third parties. Dialup Inc processes all credit card transactions internally and therefore does not share this information with third parties. 
 
-WEBSITE INFORMATION: When you sign up with iSubmit, we will share ALL your website information (see [Section 1](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#section1) \- Website Information above) to over 350 third party search engines and directories in order for them to consider placing your website in their system. A list of all these third party search engines and directoriescan be found at <http://www.isubmit.com/?engines=home>. We do not provide any personally identifiable information to them. 
+WEBSITE INFORMATION: When you sign up with iSubmit, we will share ALL your website information (see [Section 1](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#section1) \- Website Information above) to over 350 third party search engines and directories in order for them to consider placing your website in their system. A list of all these third party search engines and directoriescan be found at <http://www.isubmit.com/?engines=home>. We do not provide any personally identifiable information to them. 
 
 LIVE INTERNET CHAT SUPPORT: iSubmit uses a third party software called 'PHPLive!' (http://www.phplivesupport.com) from OSI Codes Inc. The representative you are talking to on the other end is an employee of Dialup Inc, but all information is recorded on PHPLive'ss servers. This information is only used by Dialup Inc management to assure proper quality control. PHPLive does not use the information submitted in the live chat for any other purpose than to provide the Live Chat service. 
 
-[Back to top](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
+[Back to top](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
 
 **4.How can I review, correct and update my personal information?**
 
 If your personally identifiable information changes, you may update it by logging into your account and clicking on 'Update Account Information', or by contacting the site directly. See section 8 for contact information. 
 
-[Back to top](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
+[Back to top](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
 
 **5.What types of communications does iSubmit send out?**
 
@@ -73,7 +73,7 @@ HARD COPY INVOICE: You have the option of receiving a hard copy invoice sent to 
 
 FUTURE CHANGES: Although we have no plans or desires at this time to share your information with any third parties, if this changes in the future, you will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
 
-[Back to top](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
+[Back to top](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
 
 **6.How can I opt out of Dialup Inc's collection, use and distribution of my information?**
 
@@ -81,13 +81,13 @@ OPTING-OUT OF EMAILS: You MAY NOT opt out of receiving any of the three emails l
 
 OPTING-OUT OF POSTAL MAIL: We provide you the opportunity to 'opt-out' of having a hard copy invoice sent to you via postal mail. The first time you log into your account, you will be asked whether or not you wish to receive a hard copy invoice. If youchange your mind at a future time, you must contact a support representative at support@isubmit.com to change your hard copy opt-out setting. 
 
-[Back to top](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
+[Back to top](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
 
 **7.How does Dialup Inc. protect my information from loss, misuse or alteration?**
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order form, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.If you have any questions about security on our Web site, you can send email us at support@isubmit.com. 
 
-[Back to top](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
+[Back to top](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
 
 **8.Whom can I ask if I have additional questions?**
 
@@ -99,7 +99,7 @@ San Diego, Ca 92191.
 
 INTERNET: Email us at support@isubmit.com, or you can contact us during normal business hours by going to http://www.isubmit.com and clicking on 'Click here for live support..'. 
 
-[Back to top](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
+[Back to top](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#top)
 
 **9.Miscellaneous Information**
 
@@ -113,5 +113,5 @@ BUSINESS TRANSACTIONS: In the event ISUBMIT.COM goes through a business transiti
 
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
 
-[Back to top](https://web.archive.org/web/20080517023324id_/http%3A//www.isubmit.com/privacypolicy.php?#top)  
+[Back to top](https://web.archive.org/web/20081217055401id_/http%3A//www.isubmit.com/privacypolicy.php?#top)  
 
