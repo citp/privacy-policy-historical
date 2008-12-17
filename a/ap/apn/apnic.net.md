@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnic.net privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621073238id_/http%3A//www.apnic.net/docs/corpdocs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnic.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217115257id_/http%3A//www.apnic.net/docs/corpdocs/privacy.html) for the most accurate reproduction.*
 
 # APNIC privacy statement
 
