@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608044101id_/http%3A//www.peacecorps.gov/index.cfm%3Fshell%3Dpchq.Policies.general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021206id_/http%3A//www.peacecorps.gov/index.cfm%3Fshell%3Dpchq.Policies.general) for the most accurate reproduction.*
 
 # General Policies | Policies | Peace Corps HQ | Peace Corps
 
-### Use of Links
+| 
+
+Use of Links
 
 Throughout our Web pages, we provide links to other servers which may contain information of interest to our readers. The Peace Corps takes no responsibility for, and exercises no control over, the organizations, views, or accuracy of the information contained on other servers.
 
 Creating a text link from your Web site to the Peace Corps Web site does not require permission. If you have a link you'd like us to consider adding to the Peace Corps Web site, please send e-mail to webmaster@peacecorps.gov with the subject "Link request."
 
-### Using Text and Images
+Using Text and Images
 
 If you would like to publish information that you find on the Peace Corps Web site, please send your request to webmaster@peacecorps.gov. Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.
 
 Information about using the Peace Corps logo and images is available in Media Resources. Peace Corps Web banner ads and buttons, along with instructions for their use, also are available.
 
-### Accessibility
+Accessibility
 
 This Web site is designed to be accessible to visitors with disabilities, and to comply with federal guidelines concerning accessibility. We welcome your comments. If you have suggestions on how to make the site more accessible, please contact us at [webmaster@peacecorps.gov](mailto:webmaster@peacecorps.gov).
 
-### Privacy Policy
+Privacy Policy
 
 Peace Corps has created this statement in order to demonstrate our firm commitment to your privacy. The Peace Corps does not collect personally identifying information about you when you visit our site, unless you choose to provide such information to us. Providing such information is strictly voluntary. This policy is your guide to how the Peace Corps will handle information we learn about you from your visit to our Web site.
 
@@ -27,6 +29,12 @@ Peace Corps has created this statement in order to demonstrate our firm commitme
 We collect and store only the following information about you: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or princeton.edu if you are connecting from Princeton University's domain); the date and time you access our site; and the Internet address of the Web site from which you linked to our site. 
 
 We use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.
+
+#### Information Collected for Tracking and Customization (Cookies)
+
+A cookie is a small file that a Web site transfers to your computer to allow it to remember specific information about your session while you are connected. Your computer will only share the information in the cookie with the Web site that provided it, and no other Web site can request it. There are two types of cookies, session and persistent. Session cookies last only as long as your Web browser is open. Once you close your browser, the cookie disappears. Persistent cookies store information on your computer for longer periods of time.
+
+Peace Corps.gov is conducting a survey in 2008 and 2009 to measure customer satisfaction and will make use of persistent cookies to remember you between visits. This will assure you are not prompted more than once to complete the survey. At no time is your private information, whether stored in persistent cookies or elsewhere, shared with third parties who have no right to that information. If you do not wish to have session or persistent cookies stored on your machine, you can turn them off in your browser. 
 
 #### Online Application
 
@@ -44,12 +52,14 @@ If you sign up for one of our e-mail lists, we'll only send you the kinds of inf
 
 #### Kids and Privacy
 
-For children who visit our site, special rules apply. We do not request personal information about children, such as first and last name or street address and city. When kids send e-mail to us, their online contact information (e-mail address) is not used to re-contact them and is not maintained in retrievable form. 
+For children who visit our site, special rules apply. We do not request personal information about children, such as first and last name or street address and city. When kids send e-mail to us, their online contact information (e-mail address) is not used to re-contact them and is not maintained in retrievable form.
 
 #### Opt Out or Change Your Contact Information
 
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications. These same options may be used to change or modify information previously provided to us. 
 
-### Questions About Our Policies
+#### Questions About Our Policies
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at:
+
+|  |  [](http://www.addthis.com/bookmark.php)
