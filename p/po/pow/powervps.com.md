@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powervps.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626085228id_/http%3A//www.powervps.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powervps.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084516id_/http%3A//powervps.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Premier provider of Windows and Linux VPS Hosting - utilizing Virtuozzo and Windows Virtual Server Technology
 
@@ -17,6 +17,8 @@ In the process of administering our site, we maintain and track usage through We
 
 **How your personal information is used**  
 PowerVPS collects your information in order to record and support your participation in the activities you select. The information that you provide is also used as part of our effort to keep you informed about special offers and other products and services of PowerVPS and selected third parties.
+
+Please note, when you sign-up for service with a Defender Technologies Group, LLC branded company (PowerVPS, PowerVS, Defender Hosting, Power360Hosting, etc) you are opted in to our regular newsletter and customer update email notifications which is sent to customers on a regular basis. You can opt-out of the newsletter at anytime by clicking on the "opt-out" link that is sent with every email we send.
 
 **How we share your personal information**  
 We will not sell, rent or lease to others telephone numbers or e-mail addresses. We will share the personal data you provide only with other PowerVPS entities and/or business partners who are acting on our behalf for the uses described above, except as provided below (see Consent).
