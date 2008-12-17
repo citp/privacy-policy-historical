@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retail-week.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211172436id_/http%3A//www.retail-week.com/privacy_and_cookie_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retail-week.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021612id_/http%3A//www.retail-week.com/privacy_and_cookie_policy.html) for the most accurate reproduction.*
 
 # Services - Privacy Policy
 
@@ -7,7 +7,7 @@
 
 ## Our Commitment To Your Privacy
 
-Retail Week and Emap Communications Limited are committed to protecting your privacy and security. From time to time we may invite you to supply personal information in order for us to provide you with services (such as access to subscriber-only services, our bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to affiliates of Emap Communications Limited for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy **"Who Else Will We Tell About You" section below**  
+Retail Week and Emap Limited are committed to protecting your privacy and security. From time to time we may invite you to supply personal information in order for us to provide you with services (such as access to subscriber-only services, our bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to affiliates of Emap Limited for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy **"Who Else Will We Tell About You" section below**  
 This Policy only applies to the use that we make of data provided to us via the Internet and email. Other uses may be made of data provided to Communications Limited in correspondence, by telephone or by other means not detailed in this Policy.
 
 ## Why We Need To Collect Information From You
