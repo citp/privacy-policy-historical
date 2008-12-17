@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doridro.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509125849id_/http%3A//www.doridro.com/forum/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doridro.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061243id_/http%3A//www.doridro.com/forum/privacy.php) for the most accurate reproduction.*
 
 # come To || Doridro.Com || :: You Are In: : Wel
 
