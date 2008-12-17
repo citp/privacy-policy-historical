@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boorah.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605180226id_/http%3A//boorah.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boorah.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094433id_/http%3A//www.boorah.com/privacy.html) for the most accurate reproduction.*
 
-# BooRah - Terms of Service
+# Privacy
 
-#### BooRah - Privacy Policy
+BooRah - Privacy Policy 
 
 Boorah knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting Boorah's web site, submitting in formation or using any of our products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
