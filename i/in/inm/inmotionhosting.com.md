@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmotionhosting.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509144941id_/http%3A//www.inmotionhosting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmotionhosting.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217153557id_/http%3A//www.inmotionhosting.com/privacy.html) for the most accurate reproduction.*
 
 # InMotion Hosting - Privacy Policy
 
@@ -14,7 +14,7 @@ InMotion Hosting, Inc. may use personally identifiable information collected thr
 
 InMotion Hosting, Inc may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above. We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we treat this information as property of InMotion Hosting, Inc. and thus can be transferred as an asset in the event of acquisition or merger.
 
-If you have any questions concerning the above policies, please feel free to [contact](https://web.archive.org/web/20080509144941id_/http%3A//www.inmotionhosting.com/contact.html) us.
+If you have any questions concerning the above policies, please feel free to [contact](https://web.archive.org/web/20081217153557id_/http%3A//www.inmotionhosting.com/contact.html) us.
 
 Back To Top
 
@@ -22,9 +22,9 @@ Back To Top
 
 ## Customer Testimonials
 
-InMotion has given my growing company the reliability, flexibility and consistency that I have been looking for. Their customer service and technical support have always been fast and efficient. I have never waited on hold and have always had my requests handled promptly and professionally. I wish all my vendors were as effective as InMotion."
+Before I found InMotion Hosting I was paying my ISP 3 times as much money for less disk space and bandwidth. With InMotion, I not only get more for my hard earned dollars, I actually am able to talk to a live support technician on the phone, instead of being on hold for what seems like an eternity. I also opted for the pro plan and I'm able to host all of my websites on one account."
 
-Ajay Narain  
-Sunnyvale, CA
+Brian Wetsch  
+Burbank, CA
 
-[Read More](https://web.archive.org/web/20080509144941id_/http%3A//www.inmotionhosting.com/quotes.html)
+[Read More](https://web.archive.org/web/20081217153557id_/http%3A//www.inmotionhosting.com/quotes.html)
