@@ -1,0 +1,360 @@
+<!--The following is the downloaded HTML source of the myhappyplanet.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217061431id_/http%3A//www.myhappyplanet.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/i/favicon.ico">
+<title>
+Privacy policy @ MyHappyPlanet</title>
+
+
+<meta name="Keywords" content="my happy planet, learn english, learn spanish, learn french, learn german, language learning, TOEFL, ESL">
+
+ 
+<meta name="description" content="MyHappyPlanet connects language learners around the world. Practice foreign languages with native speakers. Learn languages through videos and lessons.">
+
+
+<link href="/codelibrary/css/style-athens.css?barcelonaMyHome1" media="screen" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]>
+<link href="/codelibrary/css/ie6and7.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+<!--[if lte IE 6]>
+<link href="/codelibrary/css/ie6.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+
+<script type="text/javascript" src="/codelibrary/css/minify_php4/minify.php?files=codelibrary/js/2leveltab.js,codelibrary/js/func_ajax.js,codelibrary/js/common.js"></script>
+
+
+  <script type="text/javascript" src="/codelibrary/js/jquery.js"></script>
+ <script type="text/javascript" src="/codelibrary/js/jquery.growfield.packed-1.1.js"></script>
+ 
+<!-- Do we need this? -->
+<script type="text/javascript">
+
+//<[CDATA[
+function goTop()
+{
+	window.scrollTo(0,0);
+}
+
+
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+//]]>
+</script>
+</head>
+<!-- start header.php -->
+<body class="colMainOnly noNav2" id="privacyPolicy">
+<script type="text/javascript">
+
+
+function mhpTokstaChat(user_name)
+{
+
+tokstaChat(user_name);	
+var user_from='';
+var page_name='';
+
+user_from='';
+page_name='/privacy_policy.php';
+
+ callAjax("track", "track/chat_track.php", {
+    params: "userto=" + user_name +"&userfrom="+user_from + "&page=" + page_name +"&mhpcs="+Math.random(),
+    meth:"get",
+    async:true });
+	
+	
+	
+}
+</script>
+	
+<div id="container">
+
+
+<div id="masthead">
+<a href="#" id="setfocus" name="setfocus"></a>
+<a href="index.php" accesskey="1" title="Home page" id="logo"><img src="/i/logo-4.gif" title="My Happy Planet: Learn and practice English, French, Spanish and other languages with partners around the world." alt="My Happy Planet"></a>
+
+<a id="access" accesskey="2" href="#contentStart">Skip to the content.</a>
+
+  <ul id="navUtility">
+
+    				
+		<li><a class="register" href="register.php">Sign up free</a></li>
+		<li><a class="login" href="login.php?redir=/privacy_policy.php">Log in</a></li>
+
+        
+  </ul>
+  <!-- end utility nav -->
+
+<div id="siteSearch">
+
+<form class="" name="frm_top_search" method="post" action="" onsubmit="return validate_search_frm(this);">
+<div class="contForm">
+<input name="keyword" type="text" class="text field medium" value="">
+<select class="select field" name="searchtype">
+<option value="lesson">Lessons</option>
+<option value="member">Members</option>
+<option value="video">Videos</option>
+</select>
+<input class="btTxt" type="submit" name="Submit_top" value="Search" onclick="show_search(document.frm_top_search.searchtype.value); return false;">
+</div><!-- end contform -->
+</form>
+<script type="text/javascript">
+// fucntion used for searching // search_par=all or member
+function show_search(search_par)
+{
+
+if(document.frm_top_search.keyword.value!="")
+{
+
+if(search_par=="all" || search_par=="member")
+{
+document.frm_top_search.action="friends_search.php";
+document.frm_top_search.submit();
+
+}
+else if(search_par=="video")
+{
+
+document.frm_top_search.action="search_videos.php";
+document.frm_top_search.submit();
+}
+else if(search_par=="lesson")
+{
+//change occur due to ticket # 4
+document.frm_top_search.action="search_lesson.php";
+document.frm_top_search.submit();
+}
+
+else
+{
+alert("Please enter search value");
+document.frm_top_search.keyword.focus();
+return false;
+}
+}
+
+}
+
+<!--no JS alerts! this needs to be replaced with a div on the page that outputs with the error info (brian)-->
+function validate_search_frm(obj)
+{
+document.frm_top_search.search_msg.value=document.frm_top_search.keyword.value;
+if(obj.keyword.value=="")
+{
+alert("Please enter search value");
+obj.keyword.focus();
+return false;
+}
+}
+</script>
+</div><!-- end sitesearch -->
+ 
+
+
+<!-- end header.php --><!-- Start nav.php -->
+<div id="nav">
+  <ul id="nav1">
+
+          
+          <li><a href="/">
+
+                  Home
+                  </a>
+                  </li><!--because the friends tab is also the same as the secondary nav item Search Friends, we need to turn off the link on the primary tab if myFriends is true. this is the same for the other tabs - the "search" page in each section is the tab's landing page --><li>
+            <a href="friends_search.php">
+            Friends
+            <span id="navFriendCount"></span></a>
+            
+                    </li><li>
+            <a href="search_videos.php">
+            Videos
+            </a>
+            
+                    </li><li>
+            <a href="search_lesson.php">
+            Lessons
+            </a>
+            
+                    </li><li>
+            <a href="inbox.php">
+            Messages
+            <span id="navMessageCount"></span></a>
+            
+                    </li>
+  </ul><!-- end ul#nav1 -->
+
+
+</div><!-- end div#nav -->
+
+</div><!--end masthead -->
+<!-- target for main skip link -->
+<a style="position:absolute;" id="contentStart"></a>
+<!--new for athens:-->
+
+<div id="colWrap">
+
+<div class="leaderBoardAd">
+
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.myhappyplanet.com/www/delivery/ajs.php':'http://ads.myhappyplanet.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=8");
+   document.write ('&amp;cb=' + m3_r);
+   document.write ('&amp;langlearn=');
+   document.write ('&amp;langspeak=');
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>
+</script><script type="text/javascript" src="https://ads.myhappyplanet.com/www/delivery/ajs.php?zoneid=8&amp;cb=33630277542&amp;langlearn=&amp;langspeak=&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20081217061431id_/http%253A//www.myhappyplanet.com/privacy_policy.php"></script>
+</div>
+
+<!-- end nav.php --><!-- top inc ends here -->
+
+<div id="colMain">
+
+<h1>MyHappyPlanet.com Privacy Policy</h1>
+
+<p>Most websites come with a barrage of terms and conditions attached, and MyHappyPlanet is no exception. We're not sure that anyone ever reads it, but some of this small print can actually be important to know about - it's for your benefit as well as ours. On these pages, we've tried to explain it all in a way that doesn't require a law degree to understand.</p>
+
+<p>Again, welcome to MyHappyPlanet.com! MyHappyPlanet.com is a language exchange service that allows you to find and communicate with native speakers around the world. MyHappyPlanet members can view each others' profiles, communicate with old friends and meet new friends on the service, share photos, and describe their interests. To enrich our members' experience, we request and display some personal information to other members and visitors, which allows our users to identify each other and expand their network of friends. MyHappyPlanet members can change their profile information at any time and can control how other members and the service communicates with them.</p>
+
+<p>MyHappyPlanet.com cares deeply about online privacy If you have any questions concerning this privacy policy, please email us at <a href="mailto:privacy@MyHappyPlanet.com">privacy@MyHappyPlanet.com</a>.</p>
+
+<h2>Information Collection and Use by MyHappyPlanet.com</h2>
+
+<p>MyHappyPlanet.com collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the MyHappyPlanet.com service. MyHappyPlanet.com also collects other profile data including but not limited to: personal interests, gender, age, education and occupation in order to assist users in finding and communicating with each other.</p>
+                                                <p>MyHappyPlanet.com also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes </p>
+                                                <p>User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in the MyHappyPlanet.com social networking community. Email addresses are used for the purposes of inviting new friends to join MyHappyPlanet, to add users to members' friends' networks, and to send notifications related to the service. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within a user's personal network Users within a personal network communicate on MyHappyPlanet.com with each other through the MyHappyPlanet.com service, without disclosing their email addresses. Users' full names are never directly revealed to other members. To facilitate searching and finding friends and acquaintances on the service, MyHappyPlanet.com allows users to search for other members using first and last name, email address, and schools and/or companies where users may have attended or worked.</p>
+
+<h2>Invitations and Other Communications to Non-members</h2>
+
+<p>MyHappyPlanet members can invite friends to join the service by sending invitation emails via our automated invitation system. MyHappyPlanet.com stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations MyHappyPlanet.com does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders. Recipients of invitations from MyHappyPlanet.com may contact MyHappyPlanet.com to request the removal of their information from our database. </p>
+
+<p>MyHappyPlanet members may also store email addresses of people they know in their internal MyHappyPlanet address book and may also choose to send invitations and other communications to those addresses.</p>
+
+<p>You may prevent MyHappyPlanet.com email invitations and other messages from being sent to any email address you control by sending a single email with the subject "BLOCK" to <a href="mailto:privacy@MyHappyPlanet.com">privacy@MyHappyPlanet.com</a> Please note that the email must come from the account you wish to block.</p>
+
+<h2>Cookies</h2>
+
+<p>MyHappyPlanet.com uses cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from MyHappyPlanet.com in order to use most functions on the site. Please note that MyHappyPlanet allows 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the MyHappyPlanet Privacy Policy.</p>
+
+<h2>Links</h2>
+
+<p>MyHappyPlanet.com contains links to sites. MyHappyPlanet.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on MyHappyPlanet.com.</p>
+
+<h2>Correcting/Updating or Removing Information</h2>
+
+<p>MyHappyPlanet.com users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile.</p>
+
+<h2>Third Party Advertising</h2>
+
+<p>Ads appearing on this Web site may be delivered to users by MyHappyPlanet.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by MyHappyPlanet.com and does not cover the use of cookies by any advertisers.</p>
+
+<h2>Security</h2>
+
+<p>MyHappyPlanet.com member accounts are secured by member-created passwords MyHappyPlanet.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on MyHappyPlanet.com, please contact us at <a href="mailto:privacy@MyHappyPlanet.com">privacy@MyHappyPlanet.com</a>.</p>
+
+<h2>Sharing and Disclosure of Information MyHappyPlanet.com Collects</h2>
+
+<p>Except as otherwise described in this privacy statement, MyHappyPlanet will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by MyHappyPlanet.com, whether or not a response is required by applicable law; (2) to enforce the MyHappyPlanet.com Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. MyHappyPlanet reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of MyHappyPlanet or substantially all of its assets to that successor in interest.</p>
+
+<h2>Changes in Our Privacy Policy</h2>
+
+<p>From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted.</p>
+
+<h2>Contacting the Web Site</h2>
+
+<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: <a href="mailto:privacy@MyHappyPlanet.com">privacy@MyHappyPlanet.com</a>.</p>
+
+</div><!-- end #colMain -->
+
+<!-- footer inc starts here -->
+	</div> <!-- end #colWrap -->
+   
+	<div id="footer">
+		 
+		<div id="addThis"> 
+<script type="text/javascript">
+/* <![CDATA[ */
+
+  addthis_url    = location.href;
+  addthis_title  = document.title;
+  addthis_pub    = 'myhappyplanet';
+  
+  /* ]]> */
+</script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
+ </div>
+		<ul id="corporate">
+			<li><a href="about_us.php">About Us</a></li>
+			<li><a href="http://blog.myhappyplanet.com">Blog</a></li>
+			<li><a href="contact_us.php">Contact Us</a></li>
+			<li><a href="feedback.php">Feedback</a></li>
+			<li><a href="privacy_policy.php">Privacy Policy</a></li>
+			<li><a href="terms_of_use.php">Terms of Use</a></li>
+			<li><a href="help.php">Help</a></li>
+		</ul>
+	 
+			<p id="copyright">© 2008 My Happy Planet, Inc. (Version: Barcelona)</p>
+	
+	</div> <!-- end #footer -->
+
+</div> <!-- end #container -->
+	
+<script type="text/javascript">
+// <![CDATA[
+
+  $('#navFriendCount').load('view/count_friend_request.php');
+  $('#navMessageCount').load('view/count_message.php');
+  
+// ]]>
+</script>
+ 
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+
+_uacct = "UA-2392256-1";
+urchinTracker();
+/* ]]> */
+</script>
+
+
+<!-- footer inc ends here --></body></html>
