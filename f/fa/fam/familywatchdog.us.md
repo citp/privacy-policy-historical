@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2008-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080323235124id_/http%3A//www.familywatchdog.us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050153id_/http%3A//familywatchdog.us/privacy.asp) for the most accurate reproduction.*
 
 # Family WatchdogTerms of Service
 
-### Privacy Statement
+### privacy statement
 
 Your privacy is important to us. We want you to be absolutely certain that we will not misuse any of the personal information that you provide in order to use this service. To that end, this is a full disclosure on how we will, and will not, use your personal information: 
 
 We collect information from you in order to provide you with maps, lists, and other information about registered sexual offenders in your area. 
 
-  * No information that you provide us will be shared with any other person, company, or organization. Period.
-  * Your detailed interaction with the site will not be shared with anyone, anywhere, at any time. Ever.
-  * The lone exception to the above policy is if we are required to provide information under a properly served order of a court of competent jurisdiction.
+  * No information that you provide us will be shared with any other person, company, or organization. Period. 
+  * Your detailed interaction with the site will not be shared with anyone, anywhere, at any time. Ever. 
+  * The lone exception to the above policy is if we are required to provide information under a properly served order of a court of competent jurisdiction. 
 
 
 
@@ -30,15 +30,15 @@ We use PayPal to process credit card and electronic fund transfer transactions. 
 
 You hate spam. We hate spam. When you register for an account, you are asked for your email address or telephone number. 
 
-  * If you provide your email address, we won't email you without a good reason. We won't sell, rent, or give your email address to anyone, anywhere, at any time. Ever.
-  * If you provide your telephone number, we won't call you without a good reason. We won't sell, rent, or give your telephone number to anyone, anywhere, at any time. Ever.
+  * If you provide your email address, we won't email you without a good reason. We won't sell, rent, or give your email address to anyone, anywhere, at any time. Ever. 
+  * If you provide your telephone number, we won't call you without a good reason. We won't sell, rent, or give your telephone number to anyone, anywhere, at any time. Ever. 
 
 
 
 We will only contact you under the following circumstances: 
 
-  * Report a new offender in your area.
-  * Announce a new feature of this site.
+  * Report a new offender in your area. 
+  * Announce a new feature of this site. 
 
 
 
