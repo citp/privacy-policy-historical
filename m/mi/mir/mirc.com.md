@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirc.com privacy policy that was archived on 2008-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080525092442id_/http%3A//www.mirc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirc.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035838id_/http%3A//www.mirc.com/privacy.html) for the most accurate reproduction.*
 
 # mIRC: Privacy Policy
 
@@ -21,9 +21,9 @@ As with all websites, visits to the mIRC website are logged by IP address, brows
   
 We collect your email address when you subscribe to the mIRC mailing list and when you create an account on the mIRC Discussion Forums. We also collect your name and email address when you register mIRC. 
 
-In the case of the mailing list, your email address is used solely for the purpose of emailing you when a new version of mIRC is released. We honour all unsubscribe requests and you can remove yourself from the mailing list at any time through the unsubscribe link on the [Mailing List](https://web.archive.org/web/20080525092442id_/http%3A//www.mirc.com/mailing.html) page. 
+In the case of the mailing list, your email address is used solely for the purpose of emailing you when a new version of mIRC is released. We honour all unsubscribe requests and you can remove yourself from the mailing list at any time through the unsubscribe link on the [Mailing List](https://web.archive.org/web/20081217035838id_/http%3A//www.mirc.com/mailing.html) page. 
 
-In the case of the Message Board, your email address is used solely for the purpose of allowing you to use your Message Board account and is not used for any other purpose. 
+In the case of the Discussion Forums, your email address is used solely for the purpose of allowing you to use your Discussion Forums account and is not used for any other purpose. 
 
 In the case of when you register mIRC, your name and email address are used to provide you with your mIRC registration information after you have registered mIRC and for no other purpose. 
 
@@ -49,5 +49,5 @@ We may occasionally need to update our privacy policy and if we do we will post 
   
 If you have any questions or concerns regarding this privacy policy please contact us.   
   
-[Privacy](https://web.archive.org/web/20080525092442id_/http%3A//www.mirc.com/privacy.html)   [Contact Us](https://web.archive.org/web/20080525092442id_/http%3A//www.mirc.com/contact.html)  
-Copyright © mIRC Co. Ltd. 1995-2008. All Rights Reserved.|  
+[Privacy](https://web.archive.org/privacy.html)   [Contact Us](https://web.archive.org/contact.html)   
+Copyright © mIRC Co. Ltd. 1995-2008. All Rights Reserved. 
