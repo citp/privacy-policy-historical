@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621124312id_/http%3A//www.jdpower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217030434id_/http%3A//www.jdpower.com/privacy) for the most accurate reproduction.*
 
 # JDPower.com | Privacy Policy
+
+[](https://web.archive.org/autos)[](https://web.archive.org/boats)[](https://web.archive.org/electronics)[](https://web.archive.org/finance)[](https://web.archive.org/healthcare)[](https://web.archive.org/homes)[](https://web.archive.org/insurance)[](https://web.archive.org/telecom)[](https://web.archive.org/travel)
 
 ## Privacy Policy
 
