@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224174238id_/http%3A//www.care2.com/help/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217042624id_/http%3A//www.care2.com/help/membership/privacy.html) for the most accurate reproduction.*
 
 # Care2 Help Center
 
@@ -33,7 +33,6 @@ Questions regarding this privacy statement should be submitted to Care2 Customer
 ** Privacy Questions **
 
   * Does Care2 ask for personal information? 
-  * Does Care2 ask for credit card information? When? 
   * How does Care2 use my personal information? 
   * Should I post personal information in group forums? 
   * Will Care2 disclose any of my personal information? 
@@ -53,13 +52,9 @@ Questions regarding this privacy statement should be submitted to Care2 Customer
 
 ** Answers **
 
-** Does Care2 ask for personal information?  **
+** Does Care2 ask for personal information? **
 
 Yes. Care2 asks for your name and other personal information when you sign up for our services. 
-
-** Does Care2 ask for credit card information? When?  **
-
-Care2 allows you to use your credit card to become a [Care2 Charter Member](https://commerce1.care2.com/charter.html). We do not provide your credit card number to any outside parties. Your transaction is conducted on a secure server using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
 
 * * *
 
@@ -68,13 +63,6 @@ Care2 allows you to use your credit card to become a [Care2 Charter Member](http
 **How Does Care2 use my personal information?**
 
   1. **Personal and Demographic Information:** Care2 asks for personal information, such as your name, email address, street address and zip code. Your personal information is used to set up your Care2 account and to allow you to use many Care2 member services. Members may also supply additional information for special site services such as My Care2 and Biorhythms. Care2 may also ask for demographic information, such as your education level, occupation and industry. Care2 does not knowingly collect information from children under 13 and if Care2 later learns that a child under 13 is registered, steps will be taken to remove the child's information from the data base. 
-
-When you register to become a [Care2 Charter Member](https://commerce1.care2.com/charter.html), we require personal information (such as name, mailing address, credit card number). We use this information to ship products to you and confirm the validity of your credit card. We do not sell this information to any third-party. We do provide your mailing address to a third-party provider of Care2 apparel (T-shirts, Sweatshirts, etc.) so that these items can be mailed to you. We do not provide your credit card number to any outside parties. 
-
-Your ecommerce and Charter Member transactions are conducted on a secure server using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
-
-We retain your address information to ensure that you receive merchandise provided for the appropriate charter membership level and in case we opt to send you additional gifts in the future. Without explicit permission, we will not use any addresses gathered through our Charter Member store except for order processing. 
-
   2. **Advertising:** Care2's goal in collecting personal and demographic information is to provide our members with the most personalized web experience possible and our advertisers with an efficient means to reach the right audience. By knowing about you, Care2 can deliver more relevant content and advertisements (e.g. banner ads), and hence better service, to you. 
 
 In delivering targeted online advertisements, Care2 plays the middleman. Advertisers give us an ad and tell us the type of audience they want to reach (e.g. females over 35). Care2 or one of our ad server partners takes and displays the ad to users meeting those criteria. In this process, only Care2 -- not the advertiser can access individuals' account information. 
@@ -106,10 +94,9 @@ When submitting a profile, you have the option of including information such as:
 
 Tell-a-Friend service: Care2 Connect members can elect to invite friends to join using an invitation template provided by Care2. Through the template, one e-mail invitation containing a unique url link is sent to each person whose email is entered by the sender. Care2 has a no-SPAM policy and thus will not collect or sell the e-mail addresses entered by Care2 members. 
 
-Members can remove themselves from the C2C system at any time by adjusting their account settings via their 
+Members can remove themselves from the C2C system at any time by adjusting their account settings via their [My Account Page](http://www.care2.com/accounts/manageaccount.html). Some changes may take up to 24 hours to appear on the site.
 
-[My Account Page. Some changes may take up to 24 hours to appear on the site. ](http://www.care2.com/accounts/manageaccount.html)
-  10. [ ****](http://www.care2.com/accounts/manageaccount.html)**[Race for the Rain Forest](http://rainforest.care2.com/) ** , **[ Race for the Big Cats ](http://bigcats.care2.com/) ** , **[ Race for the Primates ](http://primates.care2.com/) ** , **[ Race for the Pets in Need ](http://pets.care2.com/) ** , **[ Race for the Oceans ](http://oceans.care2.com/) ** and **[ End Breast Cancer ](http://breastcancer.care2.com/) ** : Members and visitors may participate in the click-to-donate Races without entering personal information. However, to track visits and see how one compares to other Race participants, members must be logged in while visiting the Race. Care2 members are automatically registered for each race the first time they click on the free donation button while logged-in. New visitors can become Race participants after registering for a Care2 account. 
+  10. **[ Race for the Rain Forest ](http://rainforest.care2.com/) ** , **[ Race for the Big Cats ](http://bigcats.care2.com/) ** , **[ Race for the Primates ](http://primates.care2.com/) ** , **[ Race for the Pets in Need ](http://pets.care2.com/) ** , **[ Race for the Oceans ](http://oceans.care2.com/) ** and **[ End Breast Cancer ](http://breastcancer.care2.com/) ** : Members and visitors may participate in the click-to-donate Races without entering personal information. However, to track visits and see how one compares to other Race participants, members must be logged in while visiting the Race. Care2 members are automatically registered for each race the first time they click on the free donation button while logged-in. New visitors can become Race participants after registering for a Care2 account. 
 
 When Race participants login to a Race, Care2 tracks the participant's site visits. Race participants can elect to invite friends to join the Races using an invitation template provided by Care2. Through the template, one e-mail invitation containing a unique url link to the Race is sent to each person whose email is entered by the sender. Care2 has a no-SPAM policy and thus will not collect or sell the e-mail addresses entered by Race participants. All Race participants will also receive periodic Race updates via e-mail. These updates can be disabled using the "account settings" page on the Race web site. If a friend joins a Race using an invitation url, Care2 records the friend relationship and gives credit to the friend's "upline" for each click. Sending the url in personal e-mails or posting it in text or image-link format is entirely the member's option, although Care2 specifically asks members to avoid sending the unique url to anyone they do not know. Players' participation data is aggregated daily and the participation statistics of the top 100 Racers are posted more frequently on each race. 
 
