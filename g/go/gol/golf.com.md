@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golf.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610164948id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/golfmag%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golf.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021354id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/golfmag%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # Golf Privacy Policy
 
