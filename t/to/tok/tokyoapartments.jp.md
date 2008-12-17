@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyoapartments.jp privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615142231id_/http%3A//www.tokyoapartments.jp/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyoapartments.jp privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217210032id_/http%3A//www.tokyoapartments.jp/privacy_policy.html) for the most accurate reproduction.*
 
 # Tokyo Apartments | Privacy Policy
 
