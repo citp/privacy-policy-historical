@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harness.org.au privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426200419id_/http%3A//www.harness.org.au/national-content.cfm%3Fpagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harness.org.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125203id_/http%3A//www.harness.org.au/national-content.cfm%3Fpagename%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Australian Harness Racing
 
