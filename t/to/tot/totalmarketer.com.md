@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalmarketer.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601225417id_/http%3A//totalmarketer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalmarketer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082601id_/http%3A//totalmarketer.com/privacy.php) for the most accurate reproduction.*
 
 # :: Privacy policy for TotalMarketer.com ::
 
@@ -24,4 +24,4 @@ Check out the [FTC's site](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/ind
 
 Contacting Us.
 
-You can reach us by [clicking here](https://web.archive.org/web/20080601225417id_/http%3A//totalmarketer.com/support.php)
+You can reach us by [clicking here](https://web.archive.org/web/20081217082601id_/http%3A//totalmarketer.com/support.php)
