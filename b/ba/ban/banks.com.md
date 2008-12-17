@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banks.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222024540id_/http%3A//www.banks.com/site/banks/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217103417id_/http%3A//www.banks.com/site/banks/html/privacy.php) for the most accurate reproduction.*
 
 # Banks.com Privacy Policy
 
@@ -42,4 +42,4 @@ We may provide personal information and other information collected online to a 
 
 **Questions?**
 
-If you have questions about privacy issues, [contact us](https://web.archive.org/web/20071222024540id_/http%3A//www.banks.com/site/banks/html/contact.html).
+If you have questions about privacy issues, [contact us](https://web.archive.org/web/20081217103417id_/http%3A//www.banks.com/site/banks/html/contact.php).
