@@ -1,35 +1,29 @@
-> *The following text is extracted and transformed from the fabulousfoods.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512075146id_/http%3A//www.fabulousfoods.com/community/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulousfoods.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113412id_/http%3A//www.fabulousfoods.com/privacy-policy) for the most accurate reproduction.*
 
-# FABULOUS FOODS
+# Privacy Policy Statement - - FabulousFoods.com
 
-Privacy Statement for FabulousFoods.com
+This is how we handle information we learn about you from your visit to an Enigma Communications site (FabulousFoods.com, FabulousLiving.com, FabulousTravel.com):
 
-**Enigma Communications** has created this privacy statement in order to demonstrate our firm commitment to privacy of the visitors to our web sites. The following discloses our information gathering and dissemination practices for this website: **FabulousFoods.com**. 
+Information collected  
+We collect and store the following information about you: the IP address or name of the domain from which you access the Internet (for example, aol.com, if you are coming from an America Online account, or yale.edu if you are connecting from a Yale domain): the date and time you access our site; the Internet address of the Web site from which you linked directly to our site; and your Operating System and Browser. We use the information to measure the number of visitors to the sections of our site, which, in turn, helps us make our site more useful. The browser information is used to develop and code pages so most people will be able to view the site correctly. We also maintain information volunteered by site visitors, including but not limited to contest/sweepstakes entries; survey information, board/site registrations, additions to reviews, tips and other databases, blog registration, comments and e-mail list membership.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Our site has a strictly voluntary email registration form in which users give us their email address only. We use this customer contact information from the registration form to send periodic email newsletters. Users may opt-out of receiving future mailings at any time simply by requesting, via email, to be removed from the list. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://networkadvertising.org/consumer/opt_out.asp.
 
-This site contains links to other sites. FabulousFoods.com is not responsible for the privacy practices or the content of such Web sites. 
+Newsletters and email contact  
+You may sign up for the various Enigma Communications email newsletters, RSS Feeds, opt-in lists for occasional (usually weekly) mailings from us regarding updates to the individual sites and other related issues, as well as freebies, downloads and/or contests. By signing up, you hereby give permission for Enigma Communications to use this data.
 
-Our site uses an order form for customers to purchase products. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders, information about our company. The customer's contact information is also used to get in touch with the visitor if necessary. Financial information that is collected is used to bill the user for products and services. 
+Enigma Communications collects personal information when you enter promotions or giveaways on our siteâ€™s. When you register, we ask for information such as your name, email address, gender, address, zip code and personal interests. We may use this data to contact you, and to share with our advertising partners.
 
-We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users promotional material from some of our partners. Users may opt-out of receiving future mailings by making this request known. 
+If you believe your e-mail address was subscribed to a list in error, please contact memberservices@fabulousliving.com with the e-mail address that was incorrectly subscribed and a note stating the error so we may correct this problem. (Unsubscription information is also included with each newsletter or blog message.)
 
-Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
+Enigma Communications typically works with third parties to deliver our email newsletters. For information regarding their privacy practices, please visit http://www.feedburner.com/.
 
-We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. These companies may also use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
+Off-site links  
+Once you access another Web site through a off-site link, whether to an advertiser or to an informational site, you are no longer on an Enigma Communications site, and are then subject to the privacy policy of the specific Web site containing that material.
 
-### Security
+Advertisers  
+Enigma Communications works with third parties to serve ads to this site. For information regarding Dart/DoubleClick ad serving, see http://www.doubleclick.com/us/about_doubleclick/privacy/ . 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All sensitive and personal information is secure via our secure socket layer (SSL). 
+  
+  
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. Viewers can email cheri@fabulousfoods.com in order to not receive future communications or to update their current information. 
-
-### Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-Cheri Sicard  
-Enigma Communications  
-P.O. Box 3162  
-Big Bear Lake, CA 92315   
-cheri@fabulousfoods.com 
