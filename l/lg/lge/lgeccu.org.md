@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lgeccu.org privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529061114id_/http%3A//www.lgeccu.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lgeccu.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093806id_/http%3A//www.lgeccu.org/privacy.cfm) for the most accurate reproduction.*
 
 # LGE Community Credit Union
 
@@ -84,6 +84,6 @@ Web Bill Pay \- LGE Community Credit Union maintains a vendor relationship with 
 
 Click on the Acrobat icon below to view the current LGE Privacy Notice Disclosure and Opt Out (in a Portable Document Format).
 
-[](https://web.archive.org/web/20080529061114id_/http%3A//www.lgeccu.org/privacyOptOut.pdf)
+[](https://web.archive.org/web/20081217093806id_/http%3A//www.lgeccu.org/privacyOptOut.pdf)
 
 If you do not have Adobe Acrobat Reader, you can click here for your free download. Click this link for instructions on configuring your browser to read PDF files. 
