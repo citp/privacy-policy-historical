@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utube.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612194404id_/http%3A//utube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utube.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044510id_/http%3A//www.utube.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 How To Contact Us
 
@@ -12,7 +12,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 The Information We Collect
 
-This notice applies to all information collected or submitted on the Universal Tube & Rollform Equipment Corporation and/or Universal Controls Group website. You can register with us if you would like to receive our catalog as well as updates on our new products, used machinery, inquiry�s and services. The information you provide about yourself is included in our database so we may complete any requests you have in the future.
+This notice applies to all information collected or submitted on the Universal Tube & Rollform Equipment Corporation and/or Universal Controls Group website. You can register with us if you would like to receive our catalog as well as updates on our new products, used machinery, inquiry's and services. The information you provide about yourself is included in our database so we may complete any requests you have in the future.
 
 The types of personal information collected are: 
 
