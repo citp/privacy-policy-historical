@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friendster.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509164058id_/http%3A//www.friendster.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendster.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021731id_/http%3A//www.friendster.com/info/privacy.php) for the most accurate reproduction.*
 
-# Friendster Privacy Policy
+# Friendster - Privacy Policy
 
 Last Updated on Oct 30, 2007
 
