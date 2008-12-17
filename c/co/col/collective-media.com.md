@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collective-media.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513184128id_/http%3A//www.collective-media.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collective-media.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217135252id_/http%3A//www.collective-media.com/privacy) for the most accurate reproduction.*
 
-# Collective Media - Privacy Policy
+# Privacy Policy | Collective Media
 
 ## Collective Media
 
@@ -53,7 +53,7 @@ Collective Media uses technology, including cookies and web beacons (1x1 pixels)
 If a consumer elects to provide Collective Media with personally identifiable data, he or she has the right to tell us not to make some of the uses of such data described herein or may have such data deleted in its entirety at any time. Simply contact us and provide the name of the service for which you provided information and let us know what level of opt-out you would like to exercise. These include: (1) Do not share information about me with business partners, (2) Do not solicit me with special offers other than those related to the service I signed up for, or (3) Remove my data from your database for such service completely. Once we receive this instruction, we will promptly take corrective action. Please note that we will need you to provide your email address or other previously provided personal identifier in order to identify you in the Data Opt-Out process. Also, please remember that if you choose to delete your information completely you will no longer receive the Collective Media service in question.
 
 **Access to Data**  
-Collective Media allows consumers who have voluntarily provided personally identifiable data access to their data to ensure that it is correct and to make any changes. [contact us](https://web.archive.org/contact.php "contact us").
+Collective Media allows consumers who have voluntarily provided personally identifiable data access to their data to ensure that it is correct and to make any changes. [contact us](https://web.archive.org/web/20081217135252id_/http%3A//www.collective-media.com/contactus "contact us").
 
 #### Miscellaneous
 
@@ -61,7 +61,7 @@ Collective Media allows consumers who have voluntarily provided personally ident
 Collective Media is very sensitive to the issue of children's privacy. Collective Media's websites, products, and services are neither developed for, nor directed at, children. If you believe your child has provided Collective Media with personally identifiable data, or registered at one of Collective Media's websites, and you would like to have the data removed, please contact us.
 
 **A Special Note About the European Union**  
-European Union users understand and consent to the processing of personal information in the United States. 
+European Union users understand and consent to the processing of personal information in the United States.
 
 **Changes to Our Privacy Policy**  
 The issue of privacy is an evolving one. Collective Media is committed to the constant monitoring and examination of its privacy practices, and may, from time to time, institute changes to its Privacy Policy. In the event that any material changes are made to the company's privacy practices, we will promptly make changes to this privacy policy that discloses the changes.
@@ -70,6 +70,6 @@ The issue of privacy is an evolving one. Collective Media is committed to the co
 This Privacy Policy has been in effect since August 1, 2005.
 
 **Contacting Us**  
-For more information, or if you have questions or concerns regarding Collective Media's Privacy Policy, please [contact us](https://web.archive.org/contact.php "contact us").
+For more information, or if you have questions or concerns regarding Collective Media's Privacy Policy, please [contact us](https://web.archive.org/web/20081217135252id_/http%3A//www.collective-media.com/contactus "contact us").
 
 Back to Top
