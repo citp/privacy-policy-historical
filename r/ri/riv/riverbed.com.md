@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverbed.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629183729id_/http%3A//www.riverbed.com/company/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverbed.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217235511id_/http%3A//riverbed.com/company/privacy_policy.php) for the most accurate reproduction.*
 
 # Riverbed Technology -Company
 
@@ -28,7 +28,7 @@ Personal Information Collected Automatically
 
 E-mail Communications 
 
-We may receive a confirmation when you open an e-mail from Riverbed if your computer supports this type of program. We may also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please notify us by e-mail at [unsubscribe@riverbed.com](mailto:unsubscribe@riverbed.com) and include sufficient information for us to identify your account. 
+We may receive a confirmation when you open an e-mail from Riverbed if your computer supports this type of program. We may also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please unsubscribe at: [www.riverbed.com/info/unsubscribe.php](http://www.riverbed.com/info/unsubscribe.php). 
 
 What About Cookies? 
 
