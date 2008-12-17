@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the xatspace.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509142825id_/http%3A//www.xat.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xatspace.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217081937id_/http%3A//www.xat.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta name="description" content="xat.com Privacy Policy">
@@ -16,7 +16,12 @@
     <tr>
       <td width="16" rowspan="2">&nbsp;</td>
       <td width="138" height="90" rowspan="2" valign="center"><a href="http://xat.com"><img border="0" height="49" alt="xat - Get Connected..." src="http://xat.com/images/xatblk.gif" width="138" longdesc="http://xat.com"></a></td>
-      <td height="20" colspan="2" valign="center"><div align="right"><a class="topmenulink" href="http://xat.com/web_gear/chat/changelanguage.php">Language</a>&nbsp;&nbsp;<a class="topmenulink" href="http://xat.com/help">Help</a>&nbsp;
+      <td height="20" colspan="2" valign="center"><div align="right">
+	  <span id="loc"></span>
+	  <a class="topmenulink" href="http://xat.com/new.php">New&nbsp;stuff</a>&nbsp;&nbsp;
+	  <a class="topmenulink" href="http://xat.com/web_gear/chat/changelanguage.php">Language</a>&nbsp;&nbsp;
+	  <a class="topmenulink" href="http://web.xat.com/wiki/index.php/Main_Page">Wiki</a>&nbsp;&nbsp;
+	  <span id="helplink"><a class="topmenulink" href="http://xat.com/help">Help</a></span>&nbsp;
 	  </div></td>
       <td width="16">&nbsp;</td>
     </tr>
@@ -61,14 +66,59 @@
 <input type="hidden" name="channel" value="6645636414">
 <input type="hidden" name="ie" value="ISO-8859-1">
 <input type="hidden" name="oe" value="ISO-8859-1">
+<input type="hidden" name="safe" value="active">
 <input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#000080;VLC:663399;AH:center;BGC:FFFFFF;LBGC:000080;ALC:000080;LC:000080;T:000000;GFNT:0000FF;GIMP:0000FF;LH:50;LW:279;L:http://xat.com/images/xat.gif;S:http://;FORID:1">
 <input type="hidden" name="hl" value="en"></td></tr></tbody></table>
 </form>
 <!-- SiteSearch Google -->			
 </td>
-          </tr>
-        </tbody>
-      </table>
+</tr>
+</tbody>
+</table>
+<script language="Javascript">
+<!--
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/; domain=.xat.com";
+}
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+var c = readCookie('Country2');
+if(c == null) 
+{
+	createCookie('Country2',1,30);
+	c = readCookie('Country2');
+}
+if(c == 1) 
+document.getElementById('loc').innerHTML=
+	'<img width="1" height="1" src="http://xat.com/css/loc.php"</img>';
+var l = readCookie('Language');
+var h = 0;
+switch(l)
+{
+	case 'es' : h = 'Ayuda'; break;
+	case 'pt' : h = 'Ajuda'; break;
+	case 'it' : h = 'Aiuti'; break;
+	case 'tr' : h = 'Yardim'; break;
+}
+if(h !== 0)
+document.getElementById('helplink').innerHTML=
+	'<A class="topmenulink" href="http://xat.com/'+h+'">'+h+'</A>';
+//-->
+</script>
 
 <div class="pad16">
 
@@ -158,8 +208,7 @@ google_color_url = "3399FF";
   <tbody>
     <tr>
       <td bgcolor="#dedede" height="36"><p align="center">©2008 xat - <a href="http://www.xat.com/privacy.html">Privacy</a> - <a href="http://www.xat.com/terms.html">Terms</a> - 
-      <a href="http://www.xat.com/safety.html">Safety</a> -
-      <a href="http://www.xat.com/internet_technology/advertise.html">Advertise with xat</a>
+      <a href="http://www.xat.com/safety.html">Safety</a>
 	  </p>
 	  </td>
     </tr>
