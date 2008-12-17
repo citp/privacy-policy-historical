@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606233046id_/http%3A//www.travelsmith.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D131%26path%3D1%252C3%252C129%252C131) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217165153id_/http%3A//www.travelsmith.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D131%26path%3D1%252C3%252C129%252C131) for the most accurate reproduction.*
 
 # Customer Service - Your Privacy Rights - TravelSmith
 
 TravelSmith respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmaconsumers.org](http://www.dmaconsumers.org/)
 
-**Consumer Privacy at TravelSmith, an IAC Company.**  
-TravelSmith is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including: Ask.com, Citysearch, Evite, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, Ticketmaster, and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
+**Consumer Privacy at TravelSmith, an HSNi Company.**  
+TravelSmith is part of the HSN, Inc. ("HSNi") family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN), ecommerce (hsn.com and catalogue websites), catalogues (Cornerstone Brands), and brick & mortar retail (Frontgate, Ballard Designs, The Territory Ahead). For a complete list of all of HSNi's businesses, please visit [www.hsni.com.](http://www.hsni.com/)
 
-At IAC, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of TravelSmith, please click [here](https://web.archive.org/jump.jsp?itemID=893&itemType=CATEGORY&path=1%2C3%2C129%2C131%2C893).
+At HSNi, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all HSNi websites. To read the entire Privacy Policy of TravelSmith, please click [here](https://web.archive.org/jump.jsp?itemID=893&itemType=CATEGORY&path=1%2C3%2C129%2C131%2C893).
 
 **Information we may collect**    ([read more](https://web.archive.org/jump.jsp?itemID=893&itemType=CATEGORY&path=1%2C3%2C129%2C131%2C893#aboutyou))  
-We may collect information that can identify you ("personal information"), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. We also may collect other types of information in the following ways when you visit our website: 
+We may collect information that can identify you ("personal information"), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other HSNi businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. We also may collect other types of information in the following ways when you visit our website: 
 
   * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
   * We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.
@@ -49,7 +49,7 @@ We may use information to:
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
 
   * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other IAC businesses;
+  * Other HSNi businesses;
   * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
   * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
@@ -64,7 +64,7 @@ You may choose:
   * To stop receiving promotional emails or newsletters from us by sending an email to the contact address below or by [clicking here to unsubscribe](https://web.archive.org/subscribemain.jsp?action=0)
   * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
   * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
-  * Opt-out. If you do not wish to receive mailings from other companies or to have personal information shared with other companies, including other IAC businesses, please contact us by phone, email or mail.
+  * Opt-out. If you do not wish to receive mailings from other companies or to have personal information shared with other companies, including other HSNi businesses, please contact us by phone, email or mail.
 
 **Our company contact points:**  
 Toll Free: 1-800-950-1600  
@@ -93,4 +93,4 @@ TravelSmith
 Novato, CA 94949  
 [privacy@travelsmith.com](mailto:privacy@travelsmith.com)
 
-© 2007 IAC/InterActiveCorp. All rights reserved.
+© 2008 HSN, Inc. All rights reserved.
