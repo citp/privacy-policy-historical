@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolsfirstfcu.org privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620005043id_/http%3A//www.schoolsfirstfcu.org/website/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolsfirstfcu.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217083506id_/http%3A//www.schoolsfirstfcu.org/website/privacypolicy.asp) for the most accurate reproduction.*
 
 # SchoolsFirst FCU - Privacy Policy
 
@@ -33,7 +33,7 @@ _Cookies Information_
 
 "Cookies" are small pieces of information sent by a web site's server to a user; the user's computer may show the information back to the server on subsequent pages or actions. Session cookies end when the session with the server ends. 
 
-When you browse our web site, www.SchoolsFirstfcu.org, you do so anonymously; information about you is not collected. When you access our Online Banking system, session cookies are used. Session cookies are necessary for the security of your account and are used for authentication only. For more information on the use of cookies, [click here](https://web.archive.org/web/20080620005043id_/http%3A//www.schoolsfirstfcu.org/onlinesecurity/cookies.asp). 
+When you browse our web site, www.SchoolsFirstfcu.org, you do so anonymously; information about you is not collected. When you access our Online Banking system, session cookies are used. Session cookies are necessary for the security of your account and are used for authentication only. For more information on the use of cookies, [click here](https://web.archive.org/web/20081217083506id_/http%3A//www.schoolsfirstfcu.org/onlinesecurity/cookies.asp). 
 
 Information We Disclose
 
@@ -60,7 +60,7 @@ When you enter Online Banking, encryption is automatically enabled. This is call
 
 You can help protect your information by using the "Log Out" option to exit Online Banking. For added security, your account will be logged out of Online Banking after 15 minutes of inactivity. 
 
-[Click here](https://web.archive.org/web/20080620005043id_/http%3A//www.schoolsfirstfcu.org/onlinesecurity/overview.asp) for more information about the Secure Sockets Layer or the use of encryption. 
+[Click here](https://web.archive.org/web/20081217083506id_/http%3A//www.schoolsfirstfcu.org/onlinesecurity/overview.asp) for more information about the Secure Sockets Layer or the use of encryption. 
 
 _An Important Note About Email_
 
@@ -80,13 +80,13 @@ You may be aware that businesses can obtain certain consumer information, such a
 
 How to Remove Your Name from Credit Offers
 
-If you prefer not to receive unsolicited pre-approved credit or insurance offers, you can remove your name from lists used by credit reporting agencies (CRAs) for these purposes. To remove your name and address, call 888/5OPTOUT (888/567-8688) or go to [www.optoutprescreen.com](https://web.archive.org/web/20080620005043id_/http%3A//www.schoolsfirstfcu.org/website/ext_url.asp?url=http://www.optoutprescreen.com/). By removing your name, you will no longer receive unsolicited credit offers from the credit union or other businesses, such as credit card companies, department stores and banks. 
+If you prefer not to receive unsolicited pre-approved credit or insurance offers, you can remove your name from lists used by credit reporting agencies (CRAs) for these purposes. To remove your name and address, call 888/5OPTOUT (888/567-8688) or go to [www.optoutprescreen.com](https://web.archive.org/web/20081217083506id_/http%3A//www.schoolsfirstfcu.org/website/ext_url.asp?url=http://www.optoutprescreen.com/). By removing your name, you will no longer receive unsolicited credit offers from the credit union or other businesses, such as credit card companies, department stores and banks. 
 
 When you call to remove your name from credit bureau lists, you will be given a choice to opt out for five years or permanently. Even though your request becomes effective within a week of calling, it may take several months before you see a reduction in the amount of unsolicited offers of credit. 
 
 How to Reduce Telemarketing Calls
 
-The National Do Not Call Registry was created to offer consumers a choice regarding telemarketing calls and gives you an opportunity to limit the telemarketing calls you receive. The National Do Not Call Registry is managed by the Federal Trade Commission (FTC), the nation’s consumer protection agency. Thirty-one days after placing your phone number on the registry, most (but not all) telemarketers should stop calling. For more information on the National Do Not Call Registry, or to register your phone number, go to [www.donotcall.gov](https://web.archive.org/web/20080620005043id_/http%3A//www.schoolsfirstfcu.org/website/ext_url.asp?url=http://www.donotcall.gov/) or call 888/382-1222. 
+The National Do Not Call Registry was created to offer consumers a choice regarding telemarketing calls and gives you an opportunity to limit the telemarketing calls you receive. The National Do Not Call Registry is managed by the Federal Trade Commission (FTC), the nation’s consumer protection agency. Thirty-one days after placing your phone number on the registry, most (but not all) telemarketers should stop calling. For more information on the National Do Not Call Registry, or to register your phone number, go to [www.donotcall.gov](https://web.archive.org/web/20081217083506id_/http%3A//www.schoolsfirstfcu.org/website/ext_url.asp?url=http://www.donotcall.gov/) or call 888/382-1222. 
 
 Telephone numbers placed on the National Do Not Call Registry will remain on it permanently (unless you choose to remove it) due to the Do-Not-Call Improvement Act of 2007, which became law in February 2008. If you have previously registered your phone number, your registration will not expire after five years, but instead will be permanent. 
 
@@ -106,7 +106,7 @@ Free Credit Reports
 
 You are entitled to receive one free credit report every 12 months from each of the three nationwide consumer credit reporting agencies– Equifax, Experian, and TransUnion. 
 
-These three consumer reporting agencies have set up a central web site, a toll-free telephone number and a mailing address through which you can order your free annual report. To order, visit [www.annualcreditreport.com](https://web.archive.org/web/20080620005043id_/http%3A//www.schoolsfirstfcu.org/website/ext_url.asp?url=http://www.annualcreditreport.com/), call 877/322-8228, or print and complete the Annual Credit Report Request Form (available online at [www.ftc.gov/credit](https://web.archive.org/web/20080620005043id_/http%3A//www.schoolsfirstfcu.org/website/ext_url.asp?url=http://www.ftc.gov/)) and mail it to: 
+These three consumer reporting agencies have set up a central web site, a toll-free telephone number and a mailing address through which you can order your free annual report. To order, visit [www.annualcreditreport.com](https://web.archive.org/web/20081217083506id_/http%3A//www.schoolsfirstfcu.org/website/ext_url.asp?url=http://www.annualcreditreport.com/), call 877/322-8228, or print and complete the Annual Credit Report Request Form (available online at [www.ftc.gov/credit](https://web.archive.org/web/20081217083506id_/http%3A//www.schoolsfirstfcu.org/website/ext_url.asp?url=http://www.ftc.gov/)) and mail it to: 
 
 **Annual Credit Report Request Service**  
 P.O. Box 105281  
@@ -116,9 +116,9 @@ Do not contact these three consumer reporting agencies individually. Free annual
 
 When ordering your free report you will be asked to provide your name, address, date of birth, and social security number. In addition, you may be asked to provide further identifying information based on information contained in your credit report. 
 
-Only one web site, [www.annualcreditreport.com](https://web.archive.org/web/20080620005043id_/http%3A//www.schoolsfirstfcu.org/website/ext_url.asp?url=http://www.annualcreditreport.com/), is authorized to fulfill orders for the free annual credit report you are entitled to by law. Other web sites that claim to offer free credit reports, free credit scores or free credit monitoring are not part of the legally-mandated free annual credit report program. In some cases, the “free” product comes with strings attached. 
+Only one web site, [www.annualcreditreport.com](https://web.archive.org/web/20081217083506id_/http%3A//www.schoolsfirstfcu.org/website/ext_url.asp?url=http://www.annualcreditreport.com/), is authorized to fulfill orders for the free annual credit report you are entitled to by law. Other web sites that claim to offer free credit reports, free credit scores or free credit monitoring are not part of the legally-mandated free annual credit report program. In some cases, the “free” product comes with strings attached. 
 
-For more information, refer to the Federal Trade Commission (FTC) brochure, “Your Access to Free Credit Reports,” available on the FTC’s web site at [www.ftc.gov](https://web.archive.org/web/20080620005043id_/http%3A//www.schoolsfirstfcu.org/website/ext_url.asp?url=http://www.ftc.gov/). 
+For more information, refer to the Federal Trade Commission (FTC) brochure, “Your Access to Free Credit Reports,” available on the FTC’s web site at [www.ftc.gov](https://web.archive.org/web/20081217083506id_/http%3A//www.schoolsfirstfcu.org/website/ext_url.asp?url=http://www.ftc.gov/). 
 
 Report Identity Theft
 
