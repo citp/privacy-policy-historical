@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polkaudio.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621051248id_/http%3A//www.polkaudio.com/inside/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polkaudio.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110437id_/http%3A//www.polkaudio.com/inside/privacy.php) for the most accurate reproduction.*
 
 # Polk Audio privacy policy at polkaudio.com
 
