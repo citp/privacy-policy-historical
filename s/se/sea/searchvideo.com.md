@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchvideo.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515081846id_/http%3A//www.truveo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchvideo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142240id_/http%3A//www.truveo.com/privacy) for the most accurate reproduction.*
 
 # Truveo Privacy Policy - Truveo Video Search
 
@@ -40,7 +40,7 @@ Cookies are text files that are placed in your computer's browser, and that can 
 
 We may use cookies, web beacons or similar technologies in combination with your Truveo information to enhance and personalize your experience on Truveo, including to operate and improve offerings through Truveo; to help authenticate you when you use Truveo; to remember your preferences; to present and help measure and research the effectiveness of Truveo offerings and advertisements; and, to customize the content and advertisements provided to you through Truveo. 
 
-Truveo and its advertisers may use advertising network providers to help present advertisements on Truveo. These advertising networks may use cookies, web beacons, or similar technologies on your computer in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. The use of cookies, web beacons, or similar technologies by ad network providers is subject to their own privacy policies. Any choices that you have about these technologies will be presented here in the event we utilize the services of any advertising network provider. Therefore, you are encouraged to return to this section periodically for updated information about advertising networks. 
+Truveo and its advertisers may use advertising network providers to help present advertisements on Truveo. These advertising networks may use cookies, web beacons, or similar technologies on your computer in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. Truveo may share certain non-personally identifiable information about you as a Truveo user with certain ad network providers help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by ad network providers is subject to their own privacy policies. You can find out more about ad network providers and the choices you have about these technologies by clicking [here](http://www.truveo.com/networkinfo.php). 
 
 **Security**
 
@@ -58,4 +58,4 @@ If you have any questions or concerns about Truveo's Privacy Policy or its imple
 
 We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to Truveo's information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from Truveo, as well as for special features and services not described in this Policy that may be introduced in the future. 
 
-Last Updated: 3 January 2008 
+Last Updated: 24 April 2008 
