@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlebase.info privacy policy that was archived on 2007-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070508194851id_/http%3A//www.articlebase.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlebase.info privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060406id_/http%3A//www.articlebase.info/privacy.php) for the most accurate reproduction.*
 
-# ArticleBase
+# ArticleBase.Info
 
 **ArticleBase.info Privacy Policy**
 
@@ -11,7 +11,7 @@ We may use Personally Identifiable Information (your name, e-mail address, stree
 **How we gather information from users**  
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase.
 
-You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most web sites, ArticleBase.info also collects information automatically and through the use of electronic tools that may be transparent to our visitors. 
+You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most web sites, YOUR-DOMAIN-NAME.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. 
 
 > For example, we may log the name of your Internet Service Provider or use cookie technology (Via your IP Address.), to recognize you and hold information from your visit. 
 
@@ -55,19 +55,15 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 ArticleBase.info does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe ArticleBase.info has any information from or about anyone under 13, please contact us through the email link below. 
 
 **Contacting Us**  
-We can be reached by e-mailing us via this "MailTo" Link  [webmaster@ArticleBase.info](mailto:webmaster@ArticleBase.info)
+We can be reached by e-mailing us via this "MailTo" Link  [articlebase@xemailbuddy.com](mailto:articlebase@xemailbuddy.com)
 
 **Changes to this Policy**  
 ArticleBase.info reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 **Governing law**  
-This policy and the use of this Site are governed by United Kingdom law.  
+This policy and the use of this Site are governed by UK law.  
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
 | 
 
-[Article Directory Software](http://www.articledashboard.com/download.htm)  
-Click here to download the exact software that powers this directory for FREE. Start your own article directory today!  
-
-
-[ ](http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=twofifty)
+[ ](http://www.blogmatrixpro.com/?aff_id=21004)
