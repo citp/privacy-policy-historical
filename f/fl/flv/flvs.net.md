@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flvs.net privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617034535id_/http%3A//www.flvs.net/students_parents/right_to_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvs.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044228id_/http%3A//www.flvs.net/students_parents/right_to_privacy.php) for the most accurate reproduction.*
 
-# Welcome to Florida Virtual School
+# Florida Virtual School: Right to Privacy
 
 >   
 >  Florida Virtual School will abide by the **student privacy guidelines** set forth by the Family Educational Rights and Privacy Act (FERPA). The following persons have access to student records: 
