@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the refurbdepot.com privacy policy that was archived on 2008-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080515234741id_/http%3A//www.refurbdepot.com/privacypolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the refurbdepot.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217214528id_/http%3A//www.refurbdepot.com/privacypolicy.cfm) for the most accurate reproduction.-->
 
 <html><head><script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -13,6 +13,7 @@ pageTracker._trackPageview();
   
 
 
+	
 
 
 
@@ -25,11 +26,12 @@ pageTracker._trackPageview();
 
 
 
-<title>RefurbDepot.COM - Privacy Policy</title><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+
+<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
-<script type="text/javascript">
+<title>RefurbDepot.COM - Privacy Policy</title><script type="text/javascript">
 <!--
-    function  _CF_checkCFForm_1(_CF_this)
+    _CF_checkCFForm_1 = function(_CF_this)
     {
         //reset on submit
         _CF_error_exists = false;
@@ -59,13 +61,92 @@ pageTracker._trackPageview();
 </script>
 <script type="text/javascript">
 <!--
-    function  _CF_checkSearch1(_CF_this)
+    _CF_checkSearch1 = function(_CF_this)
     {
         //reset on submit
         _CF_error_exists = false;
         _CF_error_messages = new Array();
         _CF_error_fields = new Object();
         _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+<script type="text/javascript">
+<!--
+    _CF_checkCFForm_2 = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['elist_email']=true;
+</script>
+<script type="text/javascript">
+<!--
+    _CF_checkelist = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element elist_email required check
+        if( _CF_hasValue(_CF_this['elist_email'], "TEXT", false ) )
+        {
+            //form element elist_email 'EMAIL' validation checks
+            if (!_CF_checkEmail(_CF_this['elist_email'].value, true))
+            {
+                _CF_onError(_CF_this, "elist_email", _CF_this['elist_email'].value, "Please enter a valid email address.");
+                _CF_error_exists = true;
+            }
+
+        }else {
+            _CF_onError(_CF_this, "elist_email", _CF_this['elist_email'].value, "Please enter a valid email address.");
+            _CF_error_exists = true;
+        }
 
 
         //display error messages and return success
@@ -89,6 +170,16 @@ pageTracker._trackPageview();
 </script>
 </head>
 <body text="#000000" bgcolor="#FFFFFF" link="#000099" vlink="#000000" alink="#CCCCCC" topmargin="0" leftmargin="0" marginwidth="0" marginborder="0" onload="randombanner(); startTime();">
+ <table width="970" align="center" border="0">
+  <tbody><tr>
+    <td width="11" align="left" valign="top" background="images/formatting/left_border.gif">&nbsp;&nbsp;&nbsp;</td>
+	
+	
+    <td width="950">
+	
+	
+	
+	 
  <style><!--A:hover {color : #FF3300;} A:active {color : #33cc00}--></style>
 
 
@@ -97,10 +188,13 @@ pageTracker._trackPageview();
 
 
 <!-- banner -->
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<table border="0" width="950" align="center" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td width="100%" colspan="3">
+<td bgcolor="#231AA9" width="950" colspan="3" align="center">
+<font face="Verdana, Arial, sans-serif" size="+1" color="White">
+<strong>
 	
+	<meta name="verify-v1" content="ipCe1J5JJlR3vcjgBZPYGvzZ5H7cDYnYCKe8vrtcP8k=">
 <script language="JavaScript">
 <!-- Hide from old browsers
 // Copyright &copy; 1999 Doug Popeney
@@ -109,17 +203,17 @@ pageTracker._trackPageview();
 
 i = 3 // Number of banners that you have
 banner1 = new Image();
-banner1.src = "images/banners/topbanner34.gif";
+banner1.src = "/images/banners/topbanner25.gif";
 banner2 = new Image();
-banner2.src = "images/banners/topbanner25.gif";
+banner2.src = "/images/banners/topbanner25.gif";
 banner3 = new Image();
-banner3.src = "images/banners/topbanner25.gif";
+banner3.src = "/images/banners/topbanner40.gif";
 
 
 links = new Array
-links[1] = "category.cfm?PageID=607"
-links[2] = "results2.cfm?CategorySearchList=digital%20cameras&CompanySearchList=canon"
-links[3] = "results2.cfm?CategorySearchList=digital%20cameras&CompanySearchList=canon"
+links[1] = "results2.cfm?CategorySearchList=digital cameras&CompanySearchList=canon"
+links[2] = "results2.cfm?CategorySearchList=digital cameras&CompanySearchList=canon"
+links[3] = "category.cfm?PageID=514"
 
 description = new Array
 description[1] = "This is your description takes you to main index"
@@ -182,22 +276,22 @@ function descript(){
 <table border="0" cellspacing="0" cellpadding="0" width="100%" height="85">
 <tbody><tr bgcolor="white">
 <td width="10%">
-	<img alt="" border="0" height="60" src="images/formatting/RDlogo.gif" width="200">
+	<img alt="" border="0" height="60" src="/images/formatting/RDlogo.gif" width="200">
 </td>
 <td width="80%" align="middle">
-<center><a href="" onclick="clickLink(); return false;" onmouseover="descript(); return true;" onmouseout="window.status=''"><img src="https://web.archive.org/web/20080515234741id_/http%3A//www.refurbdepot.com/images/banners/topbanner25.gif" border="0" name="banner"></a></center>
+<center><a href="" onclick="clickLink(); return false;" onmouseover="descript(); return true;" onmouseout="window.status=''"><img src="https://web.archive.org/images/banners/topbanner40.gif" border="0" name="banner"></a></center>
 </td>
 <td width="10%">
 <a href="clearance.cfm">
-	<img alt="" border="0" height="60" src="images/banners/clearance.gif" width="150">
+	<img alt="" border="0" height="60" src="/images/banners/clearance.gif" width="150">
 	</a>
 </td>
 </tr>
 <tr>
-<td width="10%" bgcolor="#8B0509" style="border-top: 1px solid Black;"><font face="Verdana, arial, sans-serif" size="-2" color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Thu, May. 15, 2008</strong></font></td>
+<td width="10%" bgcolor="#8B0509" style="border-top: 1px solid Black;"><font face="Verdana, arial, sans-serif" size="-2" color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Wed, Dec. 17, 2008</strong></font></td>
 
 <td width="80%" bgcolor="#8B0509" style="border-top: 1px solid Black;" align="center">
-<style>             
+<style>
              <!--
              .headlink  {
              	text-decoration : none;
@@ -207,7 +301,7 @@ function descript(){
              	font-size : xx-small;
              	font-weight : bold;
              }
-             
+
              .headlink:hover  {
              	color : White;
              	text-decoration : underline;
@@ -230,8 +324,14 @@ function descript(){
 
 
 
+
+</strong> 
+</font>
 </td>
 </tr>
+
+
+
 <tr>
 <td valign="top" width="15%" align="left" bgcolor="#231aa9">
 <b>
@@ -249,7 +349,7 @@ function descript(){
 <div align="left">
 <font face="Arial" size="-2">
 
-<form name="CFForm_1" action="freetext2.cfm" method="post" onsubmit="return _CF_checkCFForm_1(this)">
+<form name="CFForm_1" id="CFForm_1" action="freetext2.cfm" method="post" onsubmit="return _CF_checkCFForm_1(this)">
 	<table border="0" width="125" cellpadding="0" cellspacing="0" align="center">
 	<tbody><tr><td bgcolor="#ddddff">
 		<img src="images/formatting/Sidebar_QuickSearch.gif" width="125" height="18" border="0" alt=""><br>
@@ -263,7 +363,7 @@ function descript(){
 </form>
 
 
-<form name="Search1" action="results2.cfm" method="post" onsubmit="return _CF_checkSearch1(this)">
+<form name="Search1" id="Search1" action="results2.cfm" method="post" onsubmit="return _CF_checkSearch1(this)">
 	<table width="125" border="0" cellspacing="0" cellpadding="0" align="center">
 	<tbody><tr align="left" width="125"><td bgcolor="#231aa9">
 	<img src="images/formatting/Sidebar_PowerSearch.gif" width="140" height="18" alt="" border="0"><br>
@@ -273,57 +373,21 @@ function descript(){
 &nbsp;		<select name="CategorySearchList" size="1" style="font-size: 10; font: Verdana; font-family: sans-serif; font-weight: normal; border-style: solid; border-width: 1; color: Navy;">
 			<option selected="">Category Search</option>
 			 
-			<option>2-Way Radios</option>
-			 
-			<option>Accessories</option>
-			 
 			<option>Air Beds</option>
 			 
 			<option>Air Conditioners</option>
 			 
-			<option>Aquos</option>
-			 
 			<option>Audio Systems</option>
 			 
-			<option>Best Sellers</option>
-			 
-			<option>Beverage Chillers</option>
-			 
-			<option>Blue-Ray Recorders</option>
+			<option>Blue-Ray Players</option>
 			 
 			<option>Camcorders</option>
 			 
-			<option>Cameras</option>
-			 
 			<option>Car Audio/Video</option>
-			 
-			<option>Car Stereo</option>
-			 
-			<option>Cassette Decks</option>
-			 
-			<option>Cassette Receivers</option>
-			 
-			<option>CD Changers</option>
-			 
-			<option>CD Receivers</option>
-			 
-			<option>CD Recorders</option>
-			 
-			<option>CD-RW Drives</option>
 			 
 			<option>Cell Phones</option>
 			 
-			<option>Clearance</option>
-			 
-			<option>Clock Radios</option>
-			 
-			<option>Coffee Makers</option>
-			 
 			<option>Copy Machines</option>
-			 
-			<option>Cordless</option>
-			 
-			<option>Cyber Monday</option>
 			 
 			<option>Deep Fryers</option>
 			 
@@ -333,17 +397,9 @@ function descript(){
 			 
 			<option>Digital Cameras</option>
 			 
-			<option>Digital Recorders</option>
+			<option>Digital Frames</option>
 			 
-			<option>Digital Video Recorders</option>
-			 
-			<option>Drills</option>
-			 
-			<option>DVD Players</option>
-			 
-			<option>DVD Receivers</option>
-			 
-			<option>DVD Recorders</option>
+			<option>DVD Players/Recorders</option>
 			 
 			<option>DVD/VCR Combos</option>
 			 
@@ -351,17 +407,7 @@ function descript(){
 			 
 			<option>Fax Machines</option>
 			 
-			<option>Free Shipping</option>
-			 
-			<option>Game Consoles</option>
-			 
 			<option>GPS</option>
-			 
-			<option>Grinders</option>
-			 
-			<option>Hammers</option>
-			 
-			<option>HDTV Receivers</option>
 			 
 			<option>Home Theater</option>
 			 
@@ -369,27 +415,13 @@ function descript(){
 			 
 			<option>Irons</option>
 			 
-			<option>Jigsaws</option>
-			 
-			<option>Label Makers</option>
-			 
-			<option>LCD Displays</option>
-			 
 			<option>LCD TVs 13in-26in</option>
 			 
 			<option>LCD TVs 27in-65in</option>
 			 
-			<option>Microwaves</option>
-			 
-			<option>MiniDisc Players</option>
-			 
 			<option>Monitors</option>
 			 
-			<option>MP3 Players</option>
-			 
-			<option>Multifunction</option>
-			 
-			<option>Musical Instruments</option>
+			<option>MultiFunction</option>
 			 
 			<option>Notebooks</option>
 			 
@@ -397,67 +429,33 @@ function descript(){
 			 
 			<option>Ovens</option>
 			 
-			<option>PDA Phones</option>
+			<option>PDAs</option>
 			 
-			<option>PDA's</option>
-			 
-			<option>Personal Stereo</option>
-			 
-			<option>Plasma TV's</option>
+			<option>Plasma TVs</option>
 			 
 			<option>Portable DVD Players</option>
 			 
-			<option>Portable Stereo</option>
+			<option>PowerTools</option>
 			 
 			<option>Printers</option>
 			 
-			<option>Processors</option>
-			 
-			<option>Projection TV's</option>
+			<option>Projection TVs</option>
 			 
 			<option>Projectors</option>
 			 
-			<option>Receivers</option>
-			 
 			<option>Refrigerators</option>
-			 
-			<option>Remote Controls</option>
-			 
-			<option>Sanders</option>
-			 
-			<option>Saws</option>
 			 
 			<option>Scanners</option>
 			 
 			<option>Shavers</option>
 			 
-			<option>Steam Cleaners</option>
+			<option>Steam Cleaner</option>
 			 
 			<option>Telephones</option>
 			 
-			<option>Tool Kits</option>
-			 
-			<option>Tools</option>
-			 
-			<option>Transcribers</option>
-			 
-			<option>Turntables</option>
-			 
 			<option>TV/DVD Combos</option>
 			 
-			<option>Under $100</option>
-			 
-			<option>Under $200</option>
-			 
-			<option>Under $300</option>
-			 
-			<option>Under $500</option>
-			 
 			<option>Vacuum Cleaners</option>
-			 
-			<option>VCR's</option>
-			 
-			<option>Water Coolers</option>
 			 
 			<option>Wine Cellars</option>
 			 
@@ -475,13 +473,7 @@ function descript(){
 			 
 			<option>APPLE</option>
 			 
-			<option>AUDIOVOX</option>
-			 
-			<option>AVERATEC</option>
-			 
 			<option>Bracketron</option>
-			 
-			<option>BRAVETTI</option>
 			 
 			<option>BROTHER</option>
 			 
@@ -501,13 +493,13 @@ function descript(){
 			 
 			<option>DICOTA</option>
 			 
-			<option>Directed</option>
-			 
 			<option>Emachines</option>
+			 
+			<option>epson</option>
 			 
 			<option>EURO-PRO</option>
 			 
-			<option>FANTOM</option>
+			<option>Everlast</option>
 			 
 			<option>FUJI</option>
 			 
@@ -515,13 +507,13 @@ function descript(){
 			 
 			<option>GATEWAY</option>
 			 
+			<option>GE</option>
+			 
 			<option>GENERIC</option>
 			 
-			<option>GREENWAY</option>
+			<option>GPX</option>
 			 
 			<option>HAIER</option>
-			 
-			<option>Harman Kardon</option>
 			 
 			<option>HITACHI</option>
 			 
@@ -539,6 +531,8 @@ function descript(){
 			 
 			<option>KODAK</option>
 			 
+			<option>Lenovo</option>
+			 
 			<option>Lexmark</option>
 			 
 			<option>LG</option>
@@ -549,17 +543,15 @@ function descript(){
 			 
 			<option>MAKITA</option>
 			 
-			<option>MICROSOFT</option>
-			 
 			<option>MOTOROLA</option>
+			 
+			<option>NAVIGON</option>
 			 
 			<option>NEXTAR</option>
 			 
 			<option>NIKON</option>
 			 
-			<option>NORELCO</option>
-			 
-			<option>OLEVIA</option>
+			<option>NOKIA</option>
 			 
 			<option>OLYMPUS</option>
 			 
@@ -577,15 +569,9 @@ function descript(){
 			 
 			<option>PIONEER</option>
 			 
-			<option>POLAROID</option>
-			 
 			<option>RCA</option>
 			 
-			<option>REMINGTON</option>
-			 
 			<option>RIM</option>
-			 
-			<option>RIO</option>
 			 
 			<option>SAMSUNG</option>
 			 
@@ -605,9 +591,9 @@ function descript(){
 			 
 			<option>TOSHIBA</option>
 			 
-			<option>UNIDEN</option>
+			<option>TRANSCEND</option>
 			 
-			<option>Windchaser</option>
+			<option>UNIDEN</option>
 			
 		</select>
 		<input type="hidden" name="startrow" value="1" style="border-style: solid; border-color: #000080;">
@@ -652,7 +638,7 @@ function descript(){
 	
 	
 	<tr>
-		<td height="500">
+		<td height="500" align="center">
 			
 
 
@@ -686,7 +672,6 @@ function descript(){
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=204">MultiFunction</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=206">Printers</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=207">Scanners</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=208">CD-RW Drives</a><br>
 </font>
 <br>
 <p>
@@ -695,7 +680,7 @@ function descript(){
 
 <font size="-2" face="Verdana, Arial, sans-serif">
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=202">Digital Cameras</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=301">35mm Cameras</a><br>
+&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=210">Digital Frames</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=101">Audio Systems</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=016">Game Consoles</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=305">Telephones</a><br>
@@ -709,12 +694,7 @@ function descript(){
 <table width="125" cellspacing="0" cellpadding="0" align="center" bgcolor="#231AA9"><tbody><tr><td width="2%" bgcolor="#ddddff"></td><td width="96%" height="0" rowspan="0"><b><font face="Verdana, Arial, sans-serif" size="2" color="White">&nbsp;Mobile</font></b></td><td width="2%" bgcolor="#ddddff"></td></tr></tbody></table>
 
 <font size="-2" face="Verdana, Arial, sans-serif">
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=601">CD Receivers</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=602">Cassette Receivers</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=605">CD Changers</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=604">DVD Receivers</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=603">LCD Displays</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=606">Processors</a><br>
+&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=608">Car Audio/Video</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=607">GPS</a><br>
 
 </font>
@@ -727,8 +707,7 @@ function descript(){
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=017">XM Satellite Radio</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=508">Portable DVD Players</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=008">Voice Recorders</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=011">2-Way Radios</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=012">Remote Controls</a><br>
+
 
 </font>
 
@@ -749,19 +728,19 @@ function descript(){
 
 <font size="-2" face="Verdana, Arial, sans-serif">
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=107">Home Theater</a><br>
+&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=514">Blue-Ray Players</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=501">Camcorders</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=502">DVD Players</a><br>
+&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=507">DVD Players/Recorders</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=505">DVD/VCR Combos</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=507">DVD Recorders</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=509">Projectors</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=506">HDTV Receivers</a><br>
 </font>
 <br>
 
 <table width="125" cellspacing="0" cellpadding="0" align="center" bgcolor="#231AA9"><tbody><tr><td width="2%" bgcolor="#ddddff"></td><td width="96%"><b><font face="Verdana, Arial, sans-serif" size="2" color="White">&nbsp;Home &amp; More</font></b></td>
 <td width="2%" bgcolor="#ddddff"></td></tr></tbody></table>
 <font face="Verdana, Arial, sans-serif" size="-2">
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=907">Coffee Makers</a><br>
+&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=914">Air Beds</a><br>
+&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=913">Exercise &amp; Fitness</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=906">Vacuum Cleaners</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=908">Steam Cleaner</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=910">Deep Fryers</a><br>
@@ -770,19 +749,15 @@ function descript(){
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=901">Dehumidifiers</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=902">Wine Cellars</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=915">Air Conditioners</a><br>
-
+&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=904">Refrigerators</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=905">Other</a><br>
 </font>
 <br>
 
 <table width="125" cellspacing="0" cellpadding="0" align="center" bgcolor="#231AA9"><tbody><tr><td width="2%" bgcolor="#ddddff"></td><td width="96%"><b><font face="Verdana, Arial, sans-serif" size="2" color="White">&nbsp;Power Tools</font></b></td><td width="2%" bgcolor="#ddddff"></td></tr></tbody></table>
 <font face="Verdana, Arial, sans-serif" size="-2">
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=801">Cordless</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=802">Drills</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=803">Saws</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=806">Hammers</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=804">Sanders</a><br>
-&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=805">Tool Kits</a><br>
+&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=888">PowerTools</a><br>
+
 </font>
 <br>
 
@@ -879,7 +854,7 @@ customerservice@refurbdepot.com</a>. </span></p>
 		
 
 		
-<a href="todaysdeal.cfm">		<img src="images/formatting/TodaysDeal_051508.gif" width="150" height="200" border="0" alt="" align="center"></a>
+<a href="todaysdeal.cfm">		<img src="images/formatting/todaysdeal_121608.gif" width="150" border="0" alt="" align="center"></a>
 		
 		
 		
@@ -891,27 +866,44 @@ customerservice@refurbdepot.com</a>. </span></p>
 
 
 
+	
 
+
+<form name="CFForm_2" id="CFForm_2" action="https://www.refurbdepot.com/check-out.cfm" method="post" onsubmit="return _CF_checkCFForm_2(this)">
 
 <table cellspacing="0" cellpadding="1" width="150" border="0" bgcolor="#660033">
 	<tbody><tr>
-    <td>
-	
-    	  <table cellspacing="0" cellpadding="2" width="150" border="0" bgcolor="#f0f0f0" align="left">
-	   		<tbody><tr><td bgcolor="#660033" colspan="3"><font size="-2" face="Verdana, Arial, sans-serif" color="#FFFFFF"><div align="center"><b>Your Shopping Cart</b></div></font></td></tr>
-	
-			<tr><td width="100%" colspan="3"><center><font size="-2" face="Verdana, Arial, sans-serif">Your cart is EMPTY.</font></center></td></tr></tbody></table>
-	
-
-
-</td></tr></tbody></table>
+	    <td>
+			<table cellspacing="0" cellpadding="2" width="150" border="0" bgcolor="#f0f0f0" align="left">
+	   			<tbody><tr>
+					<td align="center" bgcolor="#660033" colspan="3">
+						<font size="-2" face="Verdana, Arial, sans-serif" color="White">
+						<b>Your Shopping Cart</b>
+						</font>
+					</td>
+				</tr>
+				
+					<tr>
+						<td align="center" width="100%" colspan="3">
+							<font size="-2" face="Verdana, Arial, sans-serif">
+							Your cart is EMPTY.
+							</font>
+						</td>
+					</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<input type="Hidden" name="CheckoutStep" value="1">
+</form>
 
 
 
 
 	
 		<br>
-	</td></tr>
+  </td></tr>
 	
 	<tr><td>
 	
@@ -931,22 +923,24 @@ customerservice@refurbdepot.com</a>. </span></p>
 				</tr>
 
 
-		<form action="/privacypolicy.cfm" method="post"></form>
+		<form name="elist" id="elist" action="/privacypolicy.cfm" method="post" onsubmit="return _CF_checkelist(this)"></form>
 			    <tr>
 					<td valign="top" align="center" width="150">
 					<font face="Verdana, Arial, sans-serif" size="-2">
-					<input type="text" name="elist_email" size="24" maxlength="255" style="border-style: solid; border-color: #000080; border-width: 1; color: Navy; font-size: xx-small;">
+					<input name="elist_email" id="elist_email" type="text" maxlength="255" size="24" style="border-style: solid; border-color: #000080; border-width: 1; color: Navy; font-size: xx-small;">
 					</font>
 					</td>
 				</tr>
 			    <tr>
 					<td valign="top" width="150">
 					<font face="Verdana, Arial, sans-serif" size="-2">
-					<input type="image" src="images/formatting/submit.gif" align="right" width="45" height="12">
+					<input name="subscribe" id="subscribe" type="image" src="images/formatting/submit.gif" align="right" width="45" height="12">
 					</font>
 					</td>
 				</tr>
-			<input type="Hidden" name="elist_action" value="subscribe">
+			<input name="elist_action" id="elist_action" type="hidden" value="subscribe">
+		
+
 		
 	
 </tbody></table>
@@ -968,7 +962,7 @@ customerservice@refurbdepot.com</a>. </span></p>
 	
 	
 	
-	 
+	
 
 
 
@@ -982,24 +976,24 @@ customerservice@refurbdepot.com</a>. </span></p>
 	
 	
 	
-    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">1.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=5899">APPLE iPod Classic 80GB Black</a><br></font></td>
+    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">1.</font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="CANON_PowerShot_SD1000_(Silver)_1862B001.cfm">CANON PowerShot SD1000 (Silver)</a><br></font></td>
       </tr>
 	  
-    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">1.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=5697">CANON PowerShot SD1000 (Silver)</a><br></font></td>
+    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">2.</font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="SAMSUNG_BD-P1400.cfm">SAMSUNG BD-P1400</a><br></font></td>
       </tr>
 	  
-    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">2.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=5795">SAMSUNG BDP-1400</a><br></font></td>
+    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">2.</font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="CANON_PowerShot_SD430_0311B001.cfm">CANON PowerShot SD430</a><br></font></td>
       </tr>
 	  
-    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">2.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=5169">CANON PowerShot SD430</a><br></font></td>
+    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">3.</font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="CANON_PowerShot_SD750_(Silver)_2239B001.cfm">CANON PowerShot SD750 (Silver)</a><br></font></td>
       </tr>
 	  
-    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">3.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=5631">CANON PowerShot SD750 (Silver)</a><br></font></td>
+    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">3.</font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="GARMIN_StreetPilot_C330_0100040110.cfm">GARMIN StreetPilot C330</a><br></font></td>
       </tr>
 	  
 	</tbody></table>
@@ -1014,7 +1008,7 @@ customerservice@refurbdepot.com</a>. </span></p>
 	
 	
 	
-	 
+	
 
 
 
@@ -1027,24 +1021,24 @@ customerservice@refurbdepot.com</a>. </span></p>
 	
 	
 	
-    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">1.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=5898">APPLE iPod Touch 16GB</a><br></font></td>
+    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">1.</font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="APPLE_iPod_Touch_16GB_MA627LLA.cfm">APPLE iPod Touch 16GB</a><br></font></td>
       </tr>
 	  
-    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">1.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=5697">CANON PowerShot SD1000 (Silver)</a><br></font></td>
+    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">2.</font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="SAMSUNG_DVD-VR357.cfm">SAMSUNG DVD-VR357</a><br></font></td>
       </tr>
 	  
-    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">2.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=5272">SAMSUNG DVD-VR357</a><br></font></td>
+    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">3.</font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="HP_PAVILION_DV9623CL_GS722UA.cfm">HP PAVILION DV9623CL</a><br></font></td>
       </tr>
 	  
-    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">2.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=5631">CANON PowerShot SD750 (Silver)</a><br></font></td>
+    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">4.</font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="SAMSUNG_CLP-300_CLP300.cfm">SAMSUNG CLP-300</a><br></font></td>
       </tr>
 	  
-    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">3.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=5840">HP PAVILION DV9623CL</a><br></font></td>
+    <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">5.</font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="MAGELLAN_RoadMate_2000_GPS_98088901.cfm">MAGELLAN RoadMate 2000 GPS</a><br></font></td>
       </tr>
 	  
 	</tbody></table>
@@ -1057,14 +1051,11 @@ customerservice@refurbdepot.com</a>. </span></p>
 	</td></tr>
 	<tr><td>
 		
-<a href="testimonials.cfm">		<img src="images/formatting/testimonials.gif"></a><br><br>
-<a href=" ">		<img src="images/formatting/affiliates.gif"></a>
-
-	<br>
+        <a href="testimonials.cfm"><img src="images/formatting/testimonials.gif" border="0" alt=""></a><br><br>
+		<a href="affiliates.cfm"><img src="images/formatting/affiliates.gif" border="0" alt=""></a>
+		
+		<br>
 	</td></tr>
-
-
-	
 	</tbody></table>
 </td></tr>
 <tr><td bgcolor="#000000" colspan="3">
@@ -1106,7 +1097,25 @@ customerservice@refurbdepot.com</a>. </span></p>
 
 </td></tr>
 </tbody></table>
+	
+	
+	
+	
+	</td>
+	
+	
+	
+    <td width="11" background="images/formatting/right_border.gif">&nbsp;</td>
+  </tr>
+</tbody></table>
+
  
+ 
+
+ 
+
+
+
 
 
 
