@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612025522id_/http%3A//linesmaker.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090226id_/http%3A//linesmaker.com/support/privacy.htm) for the most accurate reproduction.*
 
-# linesmaker.com: Protecting your privacy
+# LinesMaker.com: Protecting your privacy
 
 LinesMaker is 100% committed to protecting your privacy. The following discloses the information we gather and why. Equally important, we disclose what we will NOT do with information gathered.
 
