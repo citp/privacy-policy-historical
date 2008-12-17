@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609140004id_/http%3A//www.freeview.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217231239id_/http%3A//www.freeview.co.uk/freeview/Privacy-Cookie-Policy) for the most accurate reproduction.*
 
-# Freeview - Privacy Cookie Policy
+# Freeview - Home / Privacy & Cookie Policy
 
-## Privacy & Cookie Policy
-
-### 1\. Introduction
+#### 1\. Introduction
 
 Your privacy is important to us. This Privacy & Cookie Policy explains what information we collect about you and what we do with it. Please take a few minutes to read it. 
 
-The Site is for visitors who wish to find out more about the business and products of DTV Services Ltd ("DTVS"), the company formed specifically for the purposes of promoting Freeview, by using the Site ("you"). Your access and use of the Site constitutes your explicit consent to the collection, use and transfer of your personal data, in the manner described in this Privacy & Cookie Policy ("the Policy"). If you disagree with the way we process data collected on the Site, we recommend that you do not use the Site. If you have any questions about this Privacy & Cookie Policy please email **info@freeview.co.uk**
+The Site is for visitors who wish to find out more about the business and products of DTV Services Ltd ("DTVS"), the company formed specifically for the purposes of promoting Freeview, by using the Site ("you"). Your access and use of the Site constitutes your explicit consent to the collection, use and transfer of your personal data, in the manner described in this Privacy & Cookie Policy ("the Policy"). If you disagree with the way we process data collected on the Site, we recommend that you do not use the Site. If you have any questions about this Privacy & Cookie Policy please email **[Freeview@mgtplc.com](mailto:Freeview@mgtplc.com)**
 
-### 2\. What type of data do we collect about you?
+#### 2\. What type of data do we collect about you?
 
 Personal data relating to Internet users viewing the Site may be collected through the Site on each of the following occasions: 
 
@@ -19,9 +17,9 @@ Personal data relating to Internet users viewing the Site may be collected throu
 
 
 
-Upon collection the personal data will be stored for as long as is reasonably necessary to deal with any requests made by you or any information provided by you. 
+Upon collection the personal data will be stored for as long as is reasonably necessary to deal with any requests made by you or any information provided by you.
 
-### 3\. What is a cookie?
+#### 3\. What is a cookie?
 
 A cookie is a tiny element of data that is stored on your computer's hard drive by your web browser when you access a website. The Site may make use of the following types of cookie technology: 
 
@@ -36,15 +34,16 @@ We may use third-party advertising companies or affiliates to display advertisem
 
 **You do not have to agree to the use of cookies.** For information on how to reject cookies, see the "Removing and disabling cookies" section below. However, in order to use any restricted access sections of the Site, we recommend that you do not block the recording of cookies on your computer. 
 
-### 4\. Removing and disabling cookies
+#### 4\. Removing and disabling cookies
 
 If you don't want us to place cookies on your computer at all, you can set your browser to disable or reject cookies. This will mean that no websites will be able to place cookies on your computer. You can do this by adjusting the preferences within your browser. This may mean, however, that you will not be able to enjoy full use of all parts of the Site. 
 
 If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent websites from placing further cookies on your computer. 
 
-To find out exactly how to disable/ remove, please go to [www.allaboutcookies.org/manage-cookies/index.html](http://www.allaboutcookies.org/manage-cookies/index.html)
+To find out exactly how to disable/ remove, please go to  
+[www.allaboutcookies.org/manage-cookies/index.html](http://www.allaboutcookies.org/manage-cookies/index.html)
 
-### 5\. What we do with the information we collect about you
+#### 5\. What we do with the information we collect about you
 
 _(i) Data collected by web servers and cookies_
 
@@ -58,7 +57,7 @@ You may want to submit personal information to us via the Site, for instance whe
 
 We will only use the personal information you provide to us in this way for the purposes made clear on the data collection pages and for dealing with your request or competition entry. 
 
-### 6\. Transfer of the data collected via the site to third parties
+#### 6\. Transfer of the data collected via the site to third parties
 
 Data collected by web servers and cookies are not transferred to any third parties 
 
@@ -71,34 +70,31 @@ Data collected through the Site may be transferred to others from time to time i
 
 
 
-### 7\. Transferring your data outside Europe 
+#### 7\. Transferring your data outside Europe 
 
 Currently we do not transfer your data outside Europe. 
 
-### 8\. Transferring your data outside Europe 
-
-Currently we do not transfer your data outside Europe. 
-
-### 9\. Subject access rights 
+#### 8\. Subject access rights 
 
 At law you have the following rights 
 
   * a subject access right which enables you to be told whether we hold any personal data about you and to obtain a copy of that information
   * a right to get personal data relating to you rectified, completed, updated, blocked or erased when incomplete, unclear, obsolete or processed unlawfully;
-  * a right to object to the processing of data relating to you on legitimate grounds and a right to object free of charge to the use of data for solicitation purposes.
+  * a right to object to the processing of data relating to you on legitimate grounds and a right to object free of charge to the use of data for solicitation purposes. 
 
 
 
-We will comply with such rights as provided under applicable law. If you wish to exercise your subject access right, please contact us in writing at DTV Services Limited, Broadcast Centre, BC3 B6 Media Village, White City, 201 Wood Lane, London W12 7TP with sufficient information to identify yourself and the information you require. We will respond to your request within 40 days. We reserve the right to charge £10 for complying with a subject access request. 
+We will comply with such rights as provided under applicable law. If you wish to exercise your subject access right, please contact us in writing at DTV Services Limited, 27-29 Cursitor Street, London, EC4A 1LT with sufficient information to identify yourself and the information you require. We will respond to your request within 40 days. We reserve the right to charge £10 for complying with a subject access request.  
 
-### 10\. Security 
+
+#### 9\. Security 
 
 Except if provided to others in the circumstances set out in this Policy, the data supplied by you will be kept on the Site's secured servers and computer systems, protected from outside intrusions. 
 
-### 10\. Links from the Site to other websites
+#### 10\. Links from the Site to other websites 
 
 The Site may contain links to sites operated by other entities. We do not control the privacy policies or the terms of use of the websites reached through the links from the Site. These may differ from the policy and terms of use of the Site. You will need to determine if they are acceptable to you. We accept no responsibility for the content or the privacy practices employed by such other websites. 
 
-### 10\. Changes to this Privacy & Cookie policy
+#### 10\. Changes to this Privacy & Cookie policy 
 
-We reserve the right, at our sole discretion, to change, add to or delete any or all of this Privacy & Cookie Policy at any time without prior notice, and will post these changes on the Site. Your continued use of the Site after such changes have been posted will constitute your acceptance of those changes. You are therefore advised to visit the Privacy & Cookie Policy on a regular basis to consult the current version. 
+We reserve the right, at our sole discretion, to change, add to or delete any or all of this Privacy & Cookie Policy at any time without prior notice, and will post these changes on the Site. Your continued use of the Site after such changes have been posted will constitute your acceptance of those changes. You are therefore advised to visit the Privacy & Cookie Policy on a regular basis to consult the current version.
