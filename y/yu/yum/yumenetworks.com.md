@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yumenetworks.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523090419id_/http%3A//yumenetworks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yumenetworks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114503id_/http%3A//www.yumenetworks.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy – YuMe Networks
+# Privacy Policy – YuMe
 
 **_YuMe Privacy Notice_**
 
