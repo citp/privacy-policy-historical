@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mckinseyquarterly.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620024707id_/http%3A//www.mckinseyquarterly.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckinseyquarterly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217121316id_/http%3A//mckinseyquarterly.com/privacy.aspx) for the most accurate reproduction.*
 
 # The McKinsey Quarterly: Privacy Policy
 
-###  About Us 
+##  About Us 
 
 This is a privacy policy for mckinseyquarterly.com (the "Site"), which is published by McKinsey & Company. Our home page is located at http://www.mckinseyquarterly.com.
 
-###  Data Collection 
+##  Data Collection 
 
 #### Access Log Information
 
@@ -44,7 +44,7 @@ In addition, _The McKinsey Quarterly_ has contracted with a third party to send 
 
 #### Transaction Information
 
-To process your subsription orders, we collect the following transaction information: physical contact information and subscription purchase information. The data may be used by us and our agents (and by delivery services) for the following other purposes:
+To process your subscription orders, we collect the following transaction information: physical contact information and subscription purchase information. The data may be used by us and our agents (and by delivery services) for the following other purposes:
 
   * completion and support of the current activity
   * Web site and system administration
@@ -81,32 +81,32 @@ If you sign up to receive any of our newsletters or alerts, you may on occasion 
 
 The "E-Mail a Colleague" feature enables the _Quarterly_ to send links to our content through e-mail at our users' request. The e-mail address(es) that you supply in connection with this service will be used only to send the requested article. They will not be stored or reused for any purpose.
 
-###  Links to Third-Party Sites 
+##  Links to Third-Party Sites 
 
 We may provide links to third-party Web sites as a service to our users. Please be aware that we cannot control and are not responsible for the information collection practices of such third-party Web sites-policies that may differ from those of this Site. We encourage you to review and understand the privacy policies of these other Web sites before providing any information to them.
 
-###  Information Access, Change, and/or Deletion 
+##  Information Access, Change, and/or Deletion 
 
 You may access, correct, update, and/or delete any personally identifiable information that you submit to the Site. You may also unsubscribe from mailing lists or any registrations on the Site. To do so, please either follow the instructions on the page of the Site where you provided the information or where you subscribed or registered or contact us at McKinsey & Company, Legal Department, 55 East 52nd Street, New York, NY 10022.
 
 You also may go to [My Profile](https://web.archive.org/my_profile.aspx) for information on how to opt in or opt out of the use of your information.
 
-###  Security 
+##  Security 
 
 McKinsey has implemented generally accepted standards of technology and operational security to protect personally identifiable information from loss, misuse, alteration, or destruction. Only authorized McKinsey personnel have access to personally identifiable information, and these employees are required to treat this information as confidential. Despite these precautions, McKinsey cannot guarantee that unauthorized persons will not obtain access to your personally identifiable information.
 
-###  Transborder Hosting and Transfer of Information 
+##  Transborder Hosting and Transfer of Information 
 
 Personally identifiable information collected on the Site may be transferred, from time to time, to McKinsey offices or personnel or to third parties located throughout the world, and the Site may be viewed and hosted anywhere in the world, including countries that may not have laws of general applicability regulating the use and transfer of such data.
 
-###  Children's Online Privacy Protection 
+##  Children's Online Privacy Protection 
 
 McKinsey understands the importance of protecting children's privacy, especially in an online environment. The Site is not intentionally designed for or directed at children 13 years of age or younger, and McKinsey will not intentionally collect or maintain information about anyone under the age of 14.
 
-###  Consent 
+##  Consent 
 
 By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time. We will alert you to any such changes by updating this Privacy Policy, which was last updated on September 29, 2005.
 
-###  Contact Our Privacy Department 
+##  Contact Our Privacy Department 
 
 If you have any questions about our Privacy Policy, please contact us at McKinsey & Company, Legal Department, 55 East 52nd Street, New York, NY 10022.
