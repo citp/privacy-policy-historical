@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the askdrsears.com privacy policy that was archived on 2008-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080511190233id_/http%3A//www.askdrsears.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the askdrsears.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217030057id_/http%3A//www.askdrsears.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <!-- #BeginEditable "doctitle" --> 
 <title>DR. SEARS STORE PRIVACY POLICY</title>
 
 <link rel="stylesheet" href="sears2006.css" type="text/css">
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+<script src="http://www.askdrsears.com/inc/prototype.js"></script><script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
 _uacct = "UA-1556380-1";
 urchinTracker();
-</script><script src="/inc/splashtest.js"></script><script language="JavaScript">
+</script><script language="JavaScript">
 
  
 
@@ -128,419 +128,8 @@ self.name = "mainWin";
  
 
  
-
- 
-
-var bannerNow = 0;
-
-var bannerDelay = 10000;
-
-var banners = new Array();
-
- 
-
-/*  Add your banner and links here */
-
-banners[banners.length] = new Array();
-
-banners[banners.length-1].href = "/amby.asp";
-
-banners[banners.length-1].src = "http://www.askdrsears.com/ads/images/amby_260x168_natural.jpg";
-
-banners[banners.length-1].click = "javascript:urchinTracker('/advertisers/amby/260x168')";
-
-banners[banners.length] = new Array();
-
-banners[banners.length-1].href = "http://www.playtexbaby.com/";
-
-banners[banners.length-1].src = "http://www.askdrsears.com/ads/images/playtexhome.JPG";
-
-banners[banners.length-1].click = "javascript:urchinTracker('/advertisers/playtex/260x168')";
-
-banners[banners.length] = new Array();
-
-banners[banners.length-1].href = "http://www.drsearsfamilyapproved.com/?utm_source=AskDrSears.com&utm_medium=homepage&utm_content=V2&utm_campaign=brainykids";
-
-banners[banners.length-1].src = "/ads/260-x-168_b.jpg";
-
-banners[banners.length-1].click = "javascript:urchinTracker('/advertisers/DRSFA/260x168')";
-
-
-
-
-/* Combine all varibales and HTML into one variable */
-
- 
-function banner() {
-
-      document.write('<a href="'+banners[bannerNow].href+'" id="bannerA" target="new" onclick="'+banners[bannerNow].click+'"><img src="'+banners[bannerNow].src+'" border="0" width="260" height="168" id="bannerImg" /></a>');
-
-      setTimeout(bannerRotate, bannerDelay); 
-
-      setTimeout(bannerPreload, 1);
-
-}
-
- 
-
-function bannerRotate() {
-
-      bannerNow++;
-
-      if(bannerNow > banners.length-1) bannerNow = 0;
-
- 
-
-      document.getElementById('bannerA').href = banners[bannerNow].href;
-
-      document.getElementById('bannerImg').src = banners[bannerNow].src;
-
-      setTimeout(bannerRotate, bannerDelay); 
-
-}
-
- 
-
-function bannerPreload() {
-
-      var bannersPreloaded = new Array();
-
-      for(i=0;i<banners.length;i++){
-
-            bannersPreloaded[i] = new Image();
-
-            bannersPreloaded[i].src = banners[i].src;
-
-      }
-
-}
- 
-
 //-->
-
- 
-
-</script><style type="text/css">
-	/* START CSS only needed for this demo page */
-	/*body{	 Styling the body element 	
-		font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
-		margin:0px;
-		padding:0px;
-		height:100%;
-		font-size:0.9em;
-		line-height:130%;
-		background-color:#E2EBED;
-	}	
-	a{
-		color:#D60808;
-		text-decoration:none;
-	}
-	a:hover{
-		text-decoration:underlin;
-	}*/
-	
-	#dhtmlgoodies_leftPanel ul{
-		padding-left:20px;
-		margin-left:0px;
-	}
-	#dhtmlgoodies_leftPanel div{
-		padding:3px;
-	}
-	#mainContent{
-		width:660px;
-		margin-left:150px;
-		background-color:#FFF;
-		padding-right:5px;
-		border-left:1px solid #000;
-		border-right:1px solid #000;
-		border-bottom:1px solid #000;
-		
-	}
-
-	/* END CSS ONLY NEEDED FOR THIS DEMO PAGE */
-	
-	#dhtmlgoodies_leftPanel{	/* Styling the help panel */
-		
-		/* background-color:#3c94c8;	Blue background color */
-		color:#FFF;	/* White text color */
-		font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;	/* Which font to use */
-		
-		/* You shouldn't change these 5 options unless you need to */		
-		height:100%;		
-		left:0px;
-		z-index:10;
-		position:absolute;
-		display:none;
-	}
-	
-	#dhtmlgoodies_leftPanel #leftPanelContent{
-		padding:0px;
-	}
-	#dhtmlgoodies_leftPanel .closeLink{ /* Layout of close link */
-		padding-left:2px;
-		padding-right:2px;
-		background-color:#FFF;
-		position:absolute;
-		top:2px;
-		right:2px;
-		border:1px solid #000;
-		color:#000;
-		font-size:0.8em;				
-	}
-	#dhtmlgoodies_leftPanel .closeLink:hover{	/* Close link text  - mouseover effect*/
-		color:#FFF;
-		background-color:#000;
-	}	
-	
-	</style><script type="text/javascript">
-	
-	/************************************************************************************************************
-	(C) www.dhtmlgoodies.com, October 2005
-	
-	Version 1.2: Updated, November 12th. 2005
-	
-	This is a script from www.dhtmlgoodies.com. You will find this and a lot of other scripts at our website.	
-	
-	Terms of use:
-	You are free to use this script as long as the copyright message is kept intact. However, you may not
-	redistribute, sell or repost it without our permission.
-	
-	Thank you!
-	
-	www.dhtmlgoodies.com
-	Alf Magne Kalleland
-	
-	************************************************************************************************************/		
-	var panelWidth = 370;	// Width of help panel
-        if(navigator.userAgent.indexOf('MSIE')>=0){
-		var panelWidth = 350;	// Width of help panel
-		}	
-	var slideSpeed = 15;		// Higher = quicker slide
-	var slideTimer = 10;	// Lower = quicker slide
-	var slideActive = true;	// Slide active ?
-	var initBodyMargin = 0;	// Left or top margin of your <body> tag (left if panel is at the left, top if panel is on the top)
-	var pushMainContentOnSlide = true;	// Push your main content to the right when sliding
-	var panelPosition = 0; 	// 0 = left , 1 = top
-	
-	/*	Don't change these values */
-	var slideLeftPanelObj=false;
-	var slideInProgress = false;	
-	var startScrollPos = false;
-	var panelVisible = false;
-	function initSlideLeftPanel(expandOnly)
-	{
-		if(slideInProgress)return;
-                
-		if(!slideLeftPanelObj){
-			if(document.getElementById('dhtmlgoodies_leftPanel')){	// Object exists in HTML code?
-				slideLeftPanelObj = document.getElementById('dhtmlgoodies_leftPanel');
-				if(panelPosition == 1)slideLeftPanelObj.style.width = '100%';
-			}else{	// Object doesn't exist -> Create <div> dynamically
-				slideLeftPanelObj = document.createElement('DIV');
-				slideLeftPanelObj.id = 'dhtmlgoodies_leftPanel';
-				slideLeftPanelObj.style.display='none';
-				document.body.appendChild(slideLeftPanelObj);
-			}
-			
-			if(panelPosition == 1){
-				slideLeftPanelObj.style.top = "-" + panelWidth + 'px';
-				slideLeftPanelObj.style.left = '0px';	
-				slideLeftPanelObj.style.height = panelWidth + 'px';			
-			}else{
-				slideLeftPanelObj.style.left = "-" + panelWidth + 'px';
-				slideLeftPanelObj.style.top = '0px';
-				slideLeftPanelObj.style.width = panelWidth + 'px';
-			}
-			
-
-			if(!document.all || navigator.userAgent.indexOf('Opera')>=0)slideLeftPanelObj.style.position = 'fixed';;
-		}	
-		
-		if(panelPosition == 0){
-			if(document.documentElement.clientHeight){
-				slideLeftPanelObj.style.height = document.documentElement.clientHeight + 'px';
-			}else if(document.body.clientHeight){
-				slideLeftPanelObj.style.height = document.body.clientHeight + 'px';
-			}
-			var leftPos = slideLeftPanelObj.style.left.replace(/[^0-9\-]/g,'')/1;
-		}else{
-			if(document.documentElement.clientWidth){
-				slideLeftPanelObj.style.width = document.documentElement.clientWidth + 'px';
-			}else if(document.body.clientHeight){
-				slideLeftPanelObj.style.width = document.body.clientWidth + 'px';
-			}
-			var leftPos = slideLeftPanelObj.style.top.replace(/[^0-9\-]/g,'')/1;			
-			
-			
-		}
-		slideLeftPanelObj.style.display='block';
-		
-		if(panelPosition==1)
-			startScrollPos = Math.max(document.body.scrollTop,document.documentElement.scrollTop);
-		else
-			startScrollPos = Math.max(document.body.scrollLeft,document.documentElement.scrollLeft);
-		if(leftPos<(0+startScrollPos)){
-			if(slideActive){
-				slideLeftPanel(slideSpeed);	
-			
-			}else{
-				document.body.style.marginLeft = panelWidth + 'px';
-				slideLeftPanelObj.style.left = '0px';
-			}
-		}else{
-			if(expandOnly)return;
-			if(slideActive){		
-				slideLeftPanel(slideSpeed*-1);
-			}else{
-				if(panelPosition == 0){
-					if(pushMainContentOnSlide)document.body.style.marginLeft =  initBodyMargin + 'px';
-					slideLeftPanelObj.style.left = (panelWidth*-1) + 'px';	
-				}else{
-					if(pushMainContentOnSlide)document.body.style.marginTop =  initBodyMargin + 'px';
-					slideLeftPanelObj.style.top = (panelWidth*-1) + 'px';						
-				}			
-			}
-		}	
-		
-		if(navigator.userAgent.indexOf('MSIE')>=0 && navigator.userAgent.indexOf('Opera')<0){
-			window.onscroll = repositionHelpDiv;
-		
-			repositionHelpDiv();
-		}
-		window.onresize = resizeLeftPanel;
-		
-	}
-        
-	
-	function resizeLeftPanel()
-	{
-		if(panelPosition == 0){
-			if(document.documentElement.clientHeight){
-				slideLeftPanelObj.style.height = document.documentElement.clientHeight + 'px';
-			}else if(document.body.clientHeight){
-				slideLeftPanelObj.style.height = document.body.clientHeight + 'px';
-			}		
-		}else{
-			if(document.documentElement.clientWidth){
-				slideLeftPanelObj.style.width = document.documentElement.clientWidth + 'px';
-			}else if(document.body.clientWidth){
-				slideLeftPanelObj.style.width = document.body.clientWidth + 'px';
-			}	
-		}
-	}
-	
-	function slideLeftPanel(slideSpeed){
-		slideInProgress =true;
-		var scrollValue = 0;
-		if(panelPosition==1)
-			var leftPos = slideLeftPanelObj.style.top.replace(/[^0-9\-]/g,'')/1;
-		else
-			var leftPos = slideLeftPanelObj.style.left.replace(/[^0-9\-]/g,'')/1;
-			
-		leftPos+=slideSpeed;
-		okToSlide = true;
-		if(slideSpeed<0){
-			if(leftPos < ((panelWidth*-1) + startScrollPos)){
-				leftPos = (panelWidth*-1) + startScrollPos;	
-				okToSlide=false;
-			}
-		}
-		if(slideSpeed>0){
-			if(leftPos > (0 + startScrollPos)){
-				leftPos = 0 + startScrollPos;
-				okToSlide = false;
-			}			
-		}
-		
-		
-		if(panelPosition==0){
-			slideLeftPanelObj.style.left = leftPos + startScrollPos + 'px';
-			if(pushMainContentOnSlide)document.body.style.marginLeft = leftPos - startScrollPos + panelWidth + 'px';
-		}else{
-			slideLeftPanelObj.style.top = leftPos + 'px';
-			if(pushMainContentOnSlide)document.body.style.marginTop = leftPos - startScrollPos + panelWidth + 'px';			
-			
-		}
-		if(okToSlide)setTimeout('slideLeftPanel(' + slideSpeed + ')',slideTimer); else {
-			slideInProgress = false;
-			if(slideSpeed>0)panelVisible=true; else panelVisible = false;
-		}
-		
-	}
-	
-	
-	function repositionHelpDiv()
-	{
-		if(panelPosition==0){
-			var maxValue = Math.max(document.body.scrollTop,document.documentElement.scrollTop);
-			slideLeftPanelObj.style.top = maxValue;
-		}else{
-			var maxValue = Math.max(document.body.scrollLeft,document.documentElement.scrollLeft);
-			slideLeftPanelObj.style.left = maxValue;	
-			var maxTop = Math.max(document.body.scrollTop,document.documentElement.scrollTop);
-			if(!slideInProgress)slideLeftPanelObj.style.top = (maxTop - (panelVisible?0:panelWidth)) + 'px'; 		
-		}
-	}
-	
-	function cancelEvent()
-	{
-		return false;
-	}
-	function keyboardShowLeftPanel()
-	{
-			initSlideLeftPanel();
-			return false;	
-	
-	}
-	
-	function leftPanelKeyboardEvent(e)
-	{
-		if(document.all)return;
-		
-		if(e.keyCode==112){
-			initSlideLeftPanel();
-			return false;
-		}		
-	}
-	
-	function setLeftPanelContent(text)
-	{
-		document.getElementById('leftPanelContent').innerHTML = text;
-		initSlideLeftPanel(true);
-		
-	}
-        function miscupdates()
-	{
-	                 
-               
-               
-               
-               var nurl = get_cookie("cbRawURL");
-               alert(nurl);
-               
-              
-
-
-	}
-      
-
-
-function get_cookie ( cookie_name )
-{
-  var results = document.cookie.match ( cookie_name + '=(.*?)(;|$)' );
-
-  if ( results )
-    return ( unescape ( results[1] ) );
-  else
-    return null;
-}
-
-	</script></head>
-
-
-
-
-
+</script></head>
 
 
 
@@ -553,15 +142,7 @@ function get_cookie ( cookie_name )
  
 
 
-
-
-	
-
-
-
-
-
-
+<!--_include file="sliderscript.vbs"-->
 
 
 
@@ -573,15 +154,20 @@ function get_cookie ( cookie_name )
   	<td align="center" colspan="7">
       <div align="centrer" style="padding-top:5px;">
 
-<!-- begin ad tag-->
-<iframe src="http://ad.doubleclick.net/adi/askdrsears.ron/;dcopt=ist;sz=728x90;ord=[timestamp]?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000">
-<script language="JavaScript" src="http://ad.doubleclick.net/adj/askdrsears.ron/;dcopt=ist;sz=728x90;abr=!ie;ord=[timestamp]?" type="text/javascript"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/askdrsears.ron/;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/askdrsears.ron/;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?" width="728" height="90" border="0" alt=""></a></noscript>
-</iframe>
-<!-- End ad tag -->   
-<!-- REPLACED 10-9-07 at Max's Request begin ZEDO for channel:  ADS1446_RS , publisher: DMS123_KS , Ad Dimension: Super Banner - 728 x 90 
-<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=350;c=1446/228;s=555;d=14;w=728;h=90" frameborder=0 marginheight=0 marginwidth=0 scrolling="no" allowTransparency="true" width=728 height=90></iframe></div>
-end ZEDO for channel:  ADS1446_RS , publisher: DMS123_KS , Ad Dimension: Super Banner - 728 x 90 -->
+
+<!-- begin ad tag -->
+
+
+<!-- Ask Dr Sears Generic Tag (728x90) -->
+<script language="JavaScript" type="text/javascript">
+	ord=Math.random()*10000000000000000;
+	document.write('<sc'+'ript language="JavaScript" src="http://ad.doubleclick.net/adj/n4426.askdrsears/generic;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
+	</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/n4426.askdrsears/generic;tile=1;dcopt=ist;sz=728x90;ord=133860748692193.89?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/n4426.askdrsears/generic;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/n4426.askdrsears/generic;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>
+	<!-- End ad tag -->
+    
+	
+
+
 
 
 
@@ -638,18 +224,6 @@ end ZEDO for channel:  ADS1446_RS , publisher: DMS123_KS , Ad Dimension: Super B
 
          
 
-
-       <table border="0" width="100%" cellpadding="0" cellspacing="5">
-       <tbody><tr><td align="middle">
-
-       <a href="/ads/adclick.asp?id=133&amp;url=%2Fprivacypolicy%2Easp" target="sister" onclick="urchinTracker('/advertisers/armsreach125twins.jpg')"><img src="/ads/images/armsreach125twins.jpg" width="125" height="125" border="0"></a>
-        </td></tr><tr><td align="middle">
-        <a href="/ads/adclick.asp?id=135&amp;url=%2Fprivacypolicy%2Easp" target="sister" onclick="urchinTracker('/advertisers//001/001-chalkboard-square.jpg')"><img src="/ads/images//001/001-chalkboard-square.jpg" width="125" height="125" border="0"></a>
-        </td></tr><tr><td align="middle">
-        <a href="/ads/adclick.asp?id=136&amp;url=%2Fprivacypolicy%2Easp" target="sister" onclick="urchinTracker('/advertisers/meyenberg125.jpg')"><img src="/ads/images/meyenberg125.jpg" width="125" height="125" border="0"></a>
-        </td></tr><tr><td align="middle"></td></tr></tbody></table>
-
-
       <!--<p><img src="/images/ads/sears_store_180.gif" width="180" height="150"></p>
       <p><img src="/images/ads/amby_180.gif" width="180" height="150"></p>-->
       <!-- #EndEditable --> </td>
@@ -661,8 +235,24 @@ end ZEDO for channel:  ADS1446_RS , publisher: DMS123_KS , Ad Dimension: Super B
       </p>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
    <tbody><tr><td>
+   	
+	
 
 
+<div id="insertAd" style="display:none;padding:12px;padding-right:none;float:right;">
+
+
+	<!-- Ask Dr Sears Generic Tag (300x250) -->
+	<script language="JavaScript" type="text/javascript">
+	document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/n4426.askdrsears/generic;tile=2;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
+	</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/n4426.askdrsears/generic;tile=2;sz=300x250;ord=133860748692193.89?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/n4426.askdrsears/generic;tile=2;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/n4426.askdrsears/generic;tile=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
+	<!-- End ad tag -->
+
+
+
+</div>
+
+<script src="/inc/insertAd.js"></script>
 
   
 <p>This privacy policy ("Policy") discloses the data collection and use practices of AskDrSears.com ("AskDrSears.com") in connection with the AskDrSears.com Web site (the "Web Site") and all associated AskDrSears.com products and services (the "AskDrSears.com Services"). </p>
@@ -722,25 +312,22 @@ We use all this information in five ways:
   
   </td></tr>
 </tbody></table>
-
-    </td>
-    <td align="left" valign="top" class="main_rightbrdr"><img src="/images/main_topics_rightbkg.gif" width="7" height="76"></td>
-    <td align="left" valign="top"><img src="/images/spacer_gif.gif" width="9" height="4"></td>
-    <td align="left" valign="top" width="120">
+</td>
+<td align="left" valign="top" class="main_rightbrdr"><img src="/images/main_topics_rightbkg.gif" width="7" height="76"></td>
+<td align="left" valign="top"><img src="/images/spacer_gif.gif" width="9" height="4"></td>
+<td align="left" valign="top" width="120">
     <!-- #BeginEditable "right%20content%20column" -->
-      <!-- include removed - include file="../ads/display_ad_8.asp"-->
-      
-      
- 
-
-<!-- begin ad tag-->
-<script language="JavaScript" src="http://ad.doubleclick.net/adj/askdrsears.ron;sz=160x600;ord=[timestamp]?" type="text/javascript"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/askdrsears.ron;sz=160x600;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/askdrsears.ron;sz=160x600;ord=[timestamp]?" width="160" height="600" border="0" alt=""></a></noscript><!-- End ad tag -->
 
 
 
-      
-      <!-- #EndEditable -->
+	            <!-- Ask Dr Sears Generic Tag (160x600) -->
+				<script language="JavaScript" type="text/javascript">
+					document.write('<sc'+'ript language="JavaScript" src="http://ad.doubleclick.net/adj/n4426.askdrsears/generic;tile=3;sz=160x600;ord=' + ord + '?" type="text/javascript"><\/script>');
+				</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/n4426.askdrsears/generic;tile=3;sz=160x600;ord=133860748692193.89?" type="text/javascript"></script>
+				<noscript><a href="http://ad.doubleclick.net/jump/n4426.askdrsears/generic;tile=3;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/n4426.askdrsears/generic;tile=3;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
+				<!-- End ad tag -->
+
+    <!-- #EndEditable -->
     </td>
   </tr>
   <tr>
@@ -782,225 +369,8 @@ _uacct = "UA-1556380-1";
 urchinTracker();
 </script>
 
-	
-<style type="text/css">
-<!--
-.style0 {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 24px;
-	font-weight: bold;
-	color:red;
-	line-height: 22px;
-}
-.style1 {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-weight: bold;
-	color: #000000;
-}
-.style1a {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 9px;
-	font-weight: bold;
-	color: #000000;
-}
-.style1b {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 9px;
-	color: #000000;
-}
-.style1c {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	color: #000000;
-}
-.style2 {font-family: Arial, Helvetica, sans-serif; color: #000000;}
-.style2a {font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 9px;}
-
-.style4 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;line-height:normal;}
-.style7 {
-	color: #3361A2;
-	font-size: 13px;
-	color: #000000;
-}
-.style10 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #666666; }
-
-
-ul.slidelist {margin: 0; padding:0;}
-ul.slidelist li {margin: 0; padding:0; padding-left:2px; padding-bottom:4px;}
--->
-</style>
-
-
-
-
-<!-- Code for the left panel -->
-<div id="dhtmlgoodies_leftPanel" style="height: 100%;">
-	<a class="closeLink" href="#" onclick="initSlideLeftPanel();return false">x</a>
-	<div id="leftPanelContent" style="height: 100%;">
-<!-- This is the content -->
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- FIRST TEXT INSERT - HEADLINE--->
-<div id="fadeinbox" style="background-color:#a6c4ef; border-right:#000000 1px solid; padding:0px;width:370px;height:100%;">
-
-
-<script language="Javascript">
-	function formValidate_slidein(f) {
-	
-		if (f.n.value == '')
-		{
-			alert('Name is required');
-			return false;
-		}
-		
-		if (f.e.value == '')
-		{
-			alert('Email Address is required');
-			return false;
-		}
-		
-		var x = f.e.value;
-		var filter  = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-		if (!filter.test(x))
-		{	
-			alert('Invalid Email address');
-			return false;
-		}
-	
-		return true;
-	}
-</script>
-
-
-
-<div style="background-color:#ffffff; width:370px;padding:0px;" align="center">
-
-
-
-
-
-<img src="/images/slide-in/01/sign-up.jpg" width="370" height="97"><br>
-
-<img src="/images/slide-in/01/slide-in.gif" width="370" height="75">
-
-
-<!-- END FIRST TEXT INSERT --->
-
-
-<!--- SECOND INSERT - HEADLINE ID --->
-<input type="hidden" id="WebForm" name="user_WebForm" value="1102-01">
-<!--- HEADLINE TEXT --->
-
-
-
-<form name="" onsubmit="return formValidate_slidein(this)" action="/grabdata.asp" id="form1" method="Get">
-
-		  
-             <input type="hidden" value="S" name="s">
-                    <input type="hidden" value="html" name="f">
-                    <input type="hidden" value="8888" name="g">
-                    <input type="hidden" value="1742" name="c">
-                    <input type="hidden" value="575" name="sfID">
-                    <input type="Hidden" value="32" name="AdId">
-		    <input type="hidden" id="WebForm" name="user_WebForm" value="1103-%=session(" shownadid")%"="">
-          <p align="center">
-              <table id="Table2" width="270">
-                <tbody><tr>
-                  <td width="100"><div class="style4" style="margin:0;padding:0;">Name:&nbsp;</div></td>
-                  <td width="250" class="style2"><input name="n" id="FullName" type="text" class="style5" style="background:#FFFFA0;" size="25" height="11">
-                  </td>
-                </tr>
-                <tr>
-                  <td><div class="style4" style="margin:0;padding:0;">Email:&nbsp;</div></td>
-                  <td class="style2"><input name="e" id="EmailAddress" type="text" class="style5" style="background:#FFFFA0;" size="25" height="11">
-                  </td>
-                </tr>
-                <tr>
-                  <td colspan="2" align="left" class="style4"><span class="style1">Would you also like to receive special promotions on Dr Sears Books and Products?</span><br>
-                    <div align="center">
-                      <input name="user_promo" type="radio" id="Radio1" value="Y" checked="">
-                      Yes&nbsp;
-                      <input type="radio" name="user_promo" value="N" id="Radio2">
-                      No <br>
-                      <br>
-                    </div></td>
-                </tr>
-                <tr align="right">
-
-                  <td height="22" colspan="2" class="style2" align="center"><input name="cmdSubmit" type="Submit" class="style5" value="Submit" id="Submit1"></td>
-                </tr>
-		<tr>
-		<td colspan="2">
-		
-<div class="style1" style="margin:0;padding:0;"><p> <br></p>Our Privacy Policy</div>
-            <span class="style10">Your privacy is a PRIMARY consideration of AskDrSears.com. Your e-mail address 
-            is used ONLY by AskDrSears.com for the purpose of announcing news, events and 
-            special offers available only AskDrSears.com registered users. </span>
-
-		</td>
-		</tr>
-              </tbody></table></p>
-            </form>
-
-
-
-<p>
-
-
-<img src="/images/slide-in/01/slide-in_footer.gif" width="370" height="21"></p></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script>
-    var slideinTimer = setTimeout(initSlideLeftPanel, 7000);
-</script>
-
-
-
-	<!-- End content -->
-	</div>
-</div>
-
-
-
 
 
 <!-- #EndTemplate -->
    
-<!-- #EndEditable --></div></body></html>
+<!-- #EndEditable --></body></html>
