@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elliotsblog.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610005533id_/http%3A//www.elliotsblog.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliotsblog.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101933id_/http%3A//www.elliotsblog.com/index.php/privacy) for the most accurate reproduction.*
 
-# Elliot's Blog | Domain Investing News & Commentary
+# Privacy | Elliot's Blog
 
 **Privacy Policy Statement:**  
 Top Notch Domains, LLC, a Nashua, NH based company is the owner of ElliotsBlog.com and has developed this Privacy Policy Statement to inform you about how we deal with privacy issues in relation to our website. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices. To make this notice easy to find, we make it available on our homepage and on every page within our site.
@@ -29,5 +29,3 @@ Top Notch Domains, LLC retains the right to alter, modify or change the Privacy 
 
 **How To Contact Us**  
 Should you have other questions or concerns about this, please call us at (610) 217-1642 or send us an email at DomainNames@gmail.com.
-
-[ ](http://del.icio.us/post?url=http%3A%2F%2Fwww.elliotsblog.com%2Findex.php%2Fprivacy%2F&title=Privacy "Save to del.icio.us") [ ](http://slashdot.org/bookmark.pl?url=http%3A%2F%2Fwww.elliotsblog.com%2Findex.php%2Fprivacy%2F&title=Privacy "Slashdot It!") [ ](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.elliotsblog.com%2Findex.php%2Fprivacy%2F&title=Privacy "Digg This Post!") [ ](http://technorati.com/faves?add=http%3A%2F%2Fwww.elliotsblog.com%2Findex.php%2Fprivacy%2F "Add to my Technorati Favorites!") [ ](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http%3A%2F%2Fwww.elliotsblog.com%2Findex.php%2Fprivacy%2F&title=Privacy "Add to my Google Bookmarks!") [ ](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.elliotsblog.com%2Findex.php%2Fprivacy%2F&title=Privacy "Stumble it!") [ ](http://furl.net/storeIt.jsp?u=http%3A%2F%2Fwww.elliotsblog.com%2Findex.php%2Fprivacy%2F&t=Privacy "Add to Furl") [ ](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww.elliotsblog.com%2Findex.php%2Fprivacy%2F&t=Privacy "Add to Yahoo!") [ ](http://co.mments.com/track?url=http%3A%2F%2Fwww.elliotsblog.com%2Findex.php%2Fprivacy%2F&title=Privacy "Add to co.mments!") [ ](http://mystuff.ask.com/mysearch/QuickWebSave?v=1.2&t=webpages&title=Privacy%21&url=http%3A%2F%2Fwww.elliotsblog.com%2Findex.php%2Fprivacy%2F "Ask!") [ ](http://www.spurl.net/spurl.php?%20url=http%3A%2F%2Fwww.elliotsblog.com%2Findex.php%2Fprivacy%2F&title=Privacy "Backflip")
