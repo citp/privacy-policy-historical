@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513102559id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217182927id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
 
 # Realty Times - Privacy Statement
 
 | 
+
+[](http://realtytimes.com/rss)  
+
 
 Privacy Statement 
 
@@ -68,6 +71,11 @@ From time to time, we may update this privacy notice. We will notify you about m
 
 The Privacy Notice posted on this site was updated on or about August 1, 2006. 
 
+  
+
+
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\PitneyBowes_Banner_C2&LINK=http://altfarm.mediaplex.com/ad/ck/10236-68434-18289-6)
+
 |    
 
 
@@ -76,25 +84,25 @@ Real Estate News Network
 [ ](http://www.adobe.com/go/getflashplayer)
 
 **Mortgage Rates**  
-30 Year Fixed: 6.05%  
-15 Year Fixed: 5.60%  
-1 Year Adj: 5.29%  
+30 Year Fixed: 5.47%  
+15 Year Fixed: 5.20%  
+1 Year Adj: 5.82%  
 (U.S. Weekly Averages)  
 
 
 Today's Headlines  
 
 
-  * [Getting The Best Home Price Data](https://web.archive.org/rtpages/20080513_brodreport.htm)
-  * [Condo Trends: Gardening Up on the Roof](https://web.archive.org/rtpages/20080513_condotrends.htm)
-  * [Interest Rate Update](https://web.archive.org/rtpages/20080513_ratewatch.htm)
-  * [Market Conditions: Seattle Puget Sound](https://web.archive.org/rtpages/20080513_mrktconditions_new.htm)
-  * [The Lessons for 2008](https://web.archive.org/rtpages/20080513_lessons.htm)
-  * [Ontario's Greenbelt a World Leader, but Expansion is Controversial](https://web.archive.org/rtpages/20080513_greenbelt.htm)
-  * [Washington Report: Are "Jumbo" Loans Overpriced?](https://web.archive.org/rtpages/20080512_washingtonreport.htm)
-  * [Wild, Wild West: Silicon Valley Price Fall Spreads](https://web.archive.org/rtpages/20080512_wildwildwest.htm)
-  * [Realty Viewpoint: Real-time Housing Index Says Falling Prices Easing](https://web.archive.org/rtpages/20080512_realtyviewpoint.htm)
-  * [Market Conditions: Kansas City Commercial Real Estate](https://web.archive.org/rtpages/20080512_mrktconditions.htm)
+  * [Market Conditions](https://web.archive.org/rtpages/20081217_mrktconditions.htm)
+  * [Budget for HOA Success](https://web.archive.org/rtpages/20081217_hoasuccess.htm)
+  * [Back to School, Back to the Basics](https://web.archive.org/rtpages/20081217_backbasics.htm)
+  * [Make New Friends but Keep the Old!](https://web.archive.org/rtpages/20081217_newfriends.htm)
+  * [Market Conditions](https://web.archive.org/rtpages/20081216_mrktconditions.htm)
+  * [Attention Shoppers! A Transformative Business Model Now Available in Consulting Isle](https://web.archive.org/rtpages/20081216_busmodel.htm)
+  * [Virtual Home Is the First Step: HomelessNation.org](https://web.archive.org/rtpages/20081216_homelessnation.htm)
+  * [Tips for an Eco-Friendly Holiday](https://web.archive.org/rtpages/20081216_ecoholiday.htm)
+  * [Real Estate Outlook: Affordability Dramatically Improved](https://web.archive.org/rtpages/20081216_realestateoutlook.htm)
+  * [Market Conditions](https://web.archive.org/rtpages/20081215_mrktconditions.htm)
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\Proquest_Sponsor_C5&LINK=http://www.realestategrowth.com/freecourse.asp?sc=6269)   
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\HouseValues_Sponsor_C3&LINK=http://info.housevalues.com/form/1861)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\PitneyBowes_Sponsor_C2&LINK=http://altfarm.mediaplex.com/ad/ck/10236-68434-18289-5)   
+
