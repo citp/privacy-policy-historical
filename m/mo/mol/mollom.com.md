@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mollom.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626101628id_/http%3A//mollom.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mollom.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052624id_/http%3A//mollom.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy | Mollom
 
@@ -24,6 +24,8 @@ If you post to our forum or blogs, you need to become a registered user and you 
 
 This website uses several cookies. They store technical information that allows us to better interact with your browser and to identify you on subsequent visits to our site.
 
+This website also uses Google Analytics to collect non-identifying and aggregate information to improve our website. 
+
 ## About us
 
 Mollom.com is operated by
@@ -32,7 +34,7 @@ Mollom BVBA
 Langveld 2, bus 12  
 2600 Berchem (Antwerp)  
 Belgium  
-VAT number: pending
+VAT number: BE 0899 193 661
 
 If you have any questions, or if you want to exercise your legal right to access or correct your personal data, please contact us using our [contact form](https://web.archive.org/contact).
 
