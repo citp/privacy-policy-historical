@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520231801id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217153009id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
 
 # CasinoToplists Privacy Policy - Secure Online Gambling
 
@@ -13,6 +13,19 @@ All information collected at Casinotoplists.com will be kept strictly confidenti
 
 
 Please contact us at info@casinotoplists.com if you have any questions or comments about our privacy policy.
+
+## Progressive Jackpots
+
+We list the highest progressive jackpots on the Internet! The numbers are updated in real time.
+
+  * Current Jackpot!
+
+Win This Jackpot at:
+
+[View All Jackpots](https://web.archive.org/all-progressive-jackpots)
+
+
+
 
 ## Editors Top Pick!
 
@@ -33,15 +46,9 @@ Linda's big favourite
 
 Steve's big favourite
 
-8 /10
+7 /10
 
   * 3.
-
-[](https://web.archive.org/goto/888-casino_a546)
-
-8 /10
-
-  * 4.
 
 [](https://web.archive.org/goto/casino-bellini_a546)
 
