@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rednano.sg privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527160122id_/http%3A//www.rednano.sg/footer/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rednano.sg privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217145954id_/http%3A//www.rednano.sg/footer/privacypolicy.html) for the most accurate reproduction.*
 
 # Rednano - Singapore's First Local Search & Directory Engine
 
