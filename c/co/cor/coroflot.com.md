@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the coroflot.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615133905id_/http%3A//www.coroflot.com/public/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coroflot.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021257id_/http%3A//www.coroflot.com/public/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##### This web site has agreed to notify you of:
+##### This website has agreed to notify you of:
 
-  * What personally identifiable information of yours or third party personally identification is collected from you through the web site 
-  * The organization collecting the information 
-  * How the information is used 
-  * With whom the information may be shared 
+  * What personally identifiable information of yours or third party personally identification is collected from you through the website. 
+  * The organization collecting the information. 
+  * How the information is used. 
+  * With whom the information may be shared. 
   * What choices are available to you regarding collection, use and distribution of the information 
-  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Coroflot's control 
+  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Coroflot's control. 
   * How you can correct any inaccuracies in the information. 
 
+  
 
 
 ##### Information Collection and Use
@@ -40,7 +41,7 @@ We partner with another party to provide specific services. When the user signs 
 
 **Links**
 
-This web site contains links to other sites. Please be aware that Coroflot is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This website contains links to other sites. Please be aware that Coroflot is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 **Newsletter**
 
