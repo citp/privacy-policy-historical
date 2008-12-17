@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2008-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080226104425id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041127id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
 
-# SmileyTraffic
+# SmileyTraffic #1 Rated Traffic Exchange For Signups To Your Pages!
 
   
 
@@ -10,32 +10,38 @@
 
 Members Earnings  
 Since 03-22-04  
-Last Updated 02-25-08  
- **$14,333.81 29,102 Total Members  
-31 Pro Members  
-11 Premium Members  
-39 Ultimate Members
+Last Updated  
+12-16-08  
+ **$19,435.27 39,569  
+Total Members
+
+29  
+Pro Members  
+28  
+Premium Members  
+28  
+Ultimate Members  
+42  
+Partner Members
 
 NEW MEMBERS  
 This Month:  
-786
+704
 
 **  
 
 
-  
-**TOP 50 MANUAL SURFERS TODAY:** | ****  
+**TOP 75 MANUAL SURFERS TODAY:** | ****  
 ---  
   
+NetWork Partner and  
+Founding Member Of  
+[](http://xtreamarketing.com/smiley.html)
+
 We Are Proudly  
 Running Off A  
 Dedicated Server  
-"The Whole Computer/Server  
-Is OURS!"
-
-Hosted At
-
-  
+At  
 [**Ljscripts.com**](http://www.ljscripts.com/hosting/)
 
 Personal Information  
