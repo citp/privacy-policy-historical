@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commarts.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509164400id_/http%3A//www.commarts.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commarts.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090844id_/http%3A//www.commarts.com/info/privacy) for the most accurate reproduction.*
 
 # Communication Arts Privacy Policy
 
