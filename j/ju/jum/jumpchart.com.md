@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jumpchart.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502160253id_/http%3A//www.jumpchart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpchart.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081127id_/http%3A//www.jumpchart.com/privacy-policy) for the most accurate reproduction.*
 
-# Jumpchart » Privacy Policy
+# Jumpchart - Simple Website Planning and Wireframing » Privacy Policy
+
+## Privacy Policy
 
 Paste Interactive is a small, and honest company. We will do our level best to protect the privacy of your information using modern standards in technology. We won't sell or give away your email address, and we won't share any of the information you put into Jumpchart. 
 
