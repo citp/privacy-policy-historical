@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esl-kids.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529181858id_/http%3A//www.esl-kids.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esl-kids.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125420id_/http%3A//www.esl-kids.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ESL-Kids - Privacy Policy
 
@@ -27,10 +27,3 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
 |  | 
-
-| 
-
-ESL-Kids.com © Nick Ramsay. All rights reserved. [Privacy Policy](http://www.esl-kids.com/privacy-policy.html).  
-Images featured on this website are copyright of their respective owners. Material on this website is for private use only.   
-You may not copy, modify or redistribute any part of this site in any form without prior permission.   
-ESL-Kids.com - Free ESL resources for kids including flashcards, worksheets, games and song lyrics.
