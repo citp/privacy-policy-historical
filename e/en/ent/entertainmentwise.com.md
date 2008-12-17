@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611101513id_/http%3A//www.entertainmentwise.com/info%3Fid%3D69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217030817id_/http%3A//www.entertainmentwise.com/info%3Fid%3D69) for the most accurate reproduction.*
 
-# Privacy Policy - Entertainment News, Movie Reviews, Competitions - Entertainmentwise
+# Privacy Policy - Celebrity Gossip, News & Photos, Movie Reviews, Competitions - Entertainmentwise
 
-**This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.gigwise.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.** "You" shall mean you, the user of the Site. "We/Us" means Gigwise. The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.
+**This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.entertainmentwise.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.** "You" shall mean you, the user of the Site. "We/Us" means **Entertainmentwise.** The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.
 
 We process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation.  
 **  
