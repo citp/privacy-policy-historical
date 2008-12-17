@@ -1,49 +1,72 @@
-> *The following text is extracted and transformed from the activeauthors.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607163919id_/http%3A//activeauthors.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeauthors.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092016id_/http%3A//www.automaticnicheprofits.com/legal/privacy.html) for the most accurate reproduction.*
 
-# ActiveAuthors.com - FREE ARTICLE DIRECTORY / Free Reprint Articles / Articles Directory / Article Distribution / Affiliate Marketing / Viral Marketing
+# AutomaticNicheProfits.com Privacy Policy
 
-ActiveAuthors.com Privacy Policy
-
-ActiveAuthors.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
-
-**How we gather information from users**
-
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, ActiveAuthors.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
-
-**What we do with the information we collect**
-
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
-
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
-
-We may use Personally Identifiable Information collected on www.ActiveAuthors.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.ActiveAuthors.com and other topics we think you might find of interest.
-
-Personally Identifiable Information collected by ActiveAuthors.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
-
-**Affiliated sites, linked sites and advertisements**
-
-ActiveAuthors.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.ActiveAuthors.com page, certain content that is actually created or hosted by a third party. Also, through ActiveAuthors.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. ActiveAuthors.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
-
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. ActiveAuthors.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
-
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of ActiveAuthors.com and this policy. 
-
-**Children**
-
-ActiveAuthors.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe ActiveAuthors.com has any information from or about anyone under 13, please contact us at the address listed below.
-
-**Contacting Us**
-
-We can be reached by emailing us.
-
-**Changes to this Policy**
-
-ActiveAuthors.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
-
-**Governing law**
-
-This policy and the use of this Site are governed by Texas law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Austin. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
-
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
-
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+> This document was last updated on October 31st 2006
+> 
+> **1\. ACKNOWLEDGEMENTS AND ACCEPTANCE OF TERMS**
+>
+>> The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites, you acknowledge and fully understand The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of site’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+> 
+> **2\. PARTICIPATING MERCHANT POLICIES**
+>
+>> Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+> 
+> **3\. INFORMATION WE COLLECT AND HOW WE USE IT**
+>
+>> The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+> 
+> **a. Web Server Logs.**
+>
+>> When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:   
+>  · Your Internet protocol address.   
+>  · The kind of browser or computer you use.   
+>  · Number of links you click within the site.   
+>  · State or country from which you accessed the site.   
+>  · Date and time of your visit.   
+>  · Name of your Internet service provider.   
+>  · Web page you linked to our site from.   
+>  · Pages you viewed on the site.
+> 
+> **b. Use of Cookies**
+> 
+> The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
+> 
+> One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.. 
+> 
+> The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites .com a site that relies on third-party cookies).
+> 
+> You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+> 
+> c. Personal Information Users
+> 
+> Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service/membership, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
+> 
+> We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
+> 
+> § To fulfill your service requests for services.  
+>  § To protect ourselves from liability,  
+>  § To respond to legal process or comply with law, or  
+>  § In connection with a merger, acquisition, or liquidation of the company.
+> 
+> 4\. USE OF WEB BEACONS OR GIF FILES  
+>  The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites to count users who have visited those pages and to deliver co-branded services. The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+> 
+> Some Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These service providers to place a persistent cookie on your computer may use these Web beacons. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites prohibits Web beacons from being used to collect or access your personal information.
+> 
+> 5\. ACCESSING WEB ACCOUNT INFORMATION  
+>  We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant support@privaterights.com  
+> 
+> 
+> 8\. CHANGES TO THIS STATEMENT  
+>  The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+> 
+> 7\. CONTACTING US  
+>  If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us support@privateRights.com or send your comments to :  
+> 
+> 
+> The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites   
+>  Attention: Privacy Statement Personal  
+>  2018 S Dangl Rd  
+>  The Espired Marketing LLC group of websites PrivateRights.com, PrivateRights2.com, AutomaticNicheProfits.com, PrivateRightsSuccess and all other sites under the Espired Marketing LLC group of sites will use commercially reasonable efforts to promptly respond and resolve any problem or question.  
+> 
