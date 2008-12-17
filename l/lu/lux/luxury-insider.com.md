@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the luxury-insider.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602141213id_/http%3A//www.luxury-insider.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxury-insider.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161920id_/http%3A//www.luxury-insider.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Luxury Insider - The Online Luxury Magazine
+# Luxury Insider - The Online Luxury Magazine | Trusted Luxury Reviews & Daily News Updates
 
 Our Committment To Your Privacy 
 
-Luxury Insider collects personal information for one reason only ?it helps us deliver the content and information that you want. It also allows us to keep you updated of changes to our website, as well as relevant news about products and services you might like to hear about. 
+Luxury Insider collects personal information for one reason only: it helps us deliver the content and information that you want. It also allows us to keep you updated of changes to our website, as well as relevant news about products and services you might like to hear about. 
 
 **Your privacy is of paramount concern at Luxury Insider.** We will never sell, rent, or transfer your information in any form to other marketers. 
 
