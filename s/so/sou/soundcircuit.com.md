@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundcircuit.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609182648id_/http%3A//www.soundcircuit.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundcircuit.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217115426id_/http%3A//soundcircuit.com/about/privacy.php) for the most accurate reproduction.*
 
 # SoundCircuit.com
 
