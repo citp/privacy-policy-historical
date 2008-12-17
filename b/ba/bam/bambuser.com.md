@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bambuser.com privacy policy that was archived on 2008-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080228150749id_/http%3A//alpha.bambuser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bambuser.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217171633id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Bambuser
+# Bambuser | Privacy Policy
 
 Last updated: October, 2007  
 This document contains information regarding the privacy policy and practice (hereinafter, "Privacy Policy) of Bambuser AB, a Swedish company (hereinafter, "Bambuser") and is brought to you so you feel comfortable using our website, software and/or services. Bambuser is committed to investing great efforts in protecting the privacy of our users. This Privacy Policy, which applies to all website, software and services provided under the Bambuser names and marks, explains how Bambuser treats personal information that we receive and collect.
