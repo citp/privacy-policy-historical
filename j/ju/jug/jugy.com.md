@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jugy.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615143708id_/http%3A//jugy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jugy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033816id_/http%3A//www.jugy.com/privacy.php) for the most accurate reproduction.*
 
-# Boobs and Tits at Jugy.com
+# Big Boobs and Big Tits - Jugy.com
 
 **JUGY Privacy Notice**  
 JUGY.com (JUGY) recognizes that its customers, visitors, users, and others who use www.JUGY.com or other web sites owned or operated by JUGY (the JUGY Sites) (collectively or individually Users) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the JUGY Sites. JUGY provides this Privacy Notice to help you make an informed decision about whether to use or continue using the JUGY Sites. 
