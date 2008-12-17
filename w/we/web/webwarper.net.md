@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwarper.net privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514195259id_/http%3A//www.webwarper.net/ww/0/wwgz/priv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwarper.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082120id_/http%3A//www.webwarper.net/ww/0/wwgz/priv.htm) for the most accurate reproduction.*
 
 # WebWarper: Privacy Policy
 
@@ -6,24 +6,26 @@
 ---|---  
 **Information**  
 | [ **What is  
-WebWarper?**](http://webwarper.net/ww/0/wwgz/description.htm)  
-| [ **Main Features**](http://webwarper.net/ww/0/wwgz/features.htm)  
-| [ **Why to optimize your web-site**](http://webwarper.net/ww/0/wwgz/forpublishers.htm)  
-| [ **Privacy Policy**](http://webwarper.net/ww/0/wwgz/priv.htm)  
-| [ **DISCLAIMER**](http://webwarper.net/ww/0/wwgz/discl.htm)  
-[ **F.A.Q.**](http://webwarper.net/ww/0/wwgz/faq.htm)  
+WebWarper?**](http://www.webwarper.net/ww/0/wwgz/description.htm)  
+| [ **Main Features**](http://www.webwarper.net/ww/0/wwgz/features.htm)  
+| [ **Why to optimize your web-site**](http://www.webwarper.net/ww/0/wwgz/forpublishers.htm)  
+| [ **Privacy Policy**](http://www.webwarper.net/ww/0/wwgz/priv.htm)  
+| [ **DISCLAIMER**](http://www.webwarper.net/ww/0/wwgz/discl.htm)  
+[ **F.A.Q.**](http://www.webwarper.net/ww/0/wwgz/faq.htm)  
   
  **Popular F.A.Q:**
 
-  * [**Does it save traffic?**](http://webwarper.net/ww/0/wwgz/faq/gzip.htm)
-  * [ **10 times? Impossible!**](http://webwarper.net/ww/0/wwgz/faq/notin10times.htm)
-  * [ **How to disable ads?**](http://webwarper.net/ww/0/wwgz/faq/ad.htm)
-  * [ **I'm not anonymous!**](http://webwarper.net/ww/0/wwgz/faq/partialanonymity.htm)
-  * [ **How to remove it?**](http://webwarper.net/ww/0/wwgz/faq/uninstall.htm)
+  * [**Does it save traffic?**](http://www.webwarper.net/ww/0/wwgz/faq/gzip.htm)
+  * [ **10 times? Impossible!**](http://www.webwarper.net/ww/0/wwgz/faq/notin10times.htm)
+  * [ **How to disable ads?**](http://www.webwarper.net/ww/0/wwgz/faq/ad.htm)
+  * [ **I'm not anonymous!**](http://www.webwarper.net/ww/0/wwgz/faq/partialanonymity.htm)
+  * [ **How to remove it?**](http://www.webwarper.net/ww/0/wwgz/faq/uninstall.htm)
 
   
-[ **Free Downloads**](http://webwarper.net/ww/0/wwgz/download.htm)  
-[ **User Comments**](http://webwarper.net/ww/0/wwgz/guestbook.htm)  
+[ **Free Downloads**](http://www.webwarper.net/ww/0/wwgz/download.htm)  
+[ **User Comments**](http://www.webwarper.net/ww/0/wwgz/guestbook.htm)  
+[ **Русская Версия**  
+(Russian Version)](http://www.webwarper.net/ru/0/wwgz/privru.htm)  
 |    
   
 If you see an error, please select it and press Ctrl+Enter.  
@@ -33,9 +35,9 @@ _[Unique 3D-model:
 |  [](http://click.hotlog.ru/?221553)  
 | | 
 
-[Print version (in a new window)](http://webwarper.net/ww/0/wwgz/privpr.htm)
+[Print version (in a new window)](http://www.webwarper.net/ww/0/wwgz/privpr.htm)
 
-This document is devoted to public _WebWarper_ service, located at the address [http://webwarper.net](http://webwarper.net/ww), and intended for accelerating access to Internet.
+This document is devoted to public _WebWarper_ service, located at the address [http://webwarper.net](http://www.webwarper.net/ww), and intended for accelerating access to Internet.
 
 _WebWarper_ service is developed by and belongs to [SIAMS](http://siams.com/) Company.
 
@@ -43,10 +45,10 @@ _WebWarper_ service is developed by and belongs to [SIAMS](http://siams.com/) Co
 
 #### Contents
 
-  * [Information about page views through WebWarper service](http://webwarper.net/ww/0/wwgz/priv.htm#pageviewsWW)
-  * [Information about addressings to webwarper.net server](http://webwarper.net/ww/0/wwgz/priv.htm#hitsApache)
-  * [Advertisement and counters on WebWarper panels](http://webwarper.net/ww/0/wwgz/priv.htm#banners)
-  * [Content of the pages viewed through WebWarper](http://webwarper.net/ww/0/wwgz/priv.htm#content)
+  * [Information about page views through WebWarper service](http://www.webwarper.net/ww/0/wwgz/priv.htm#pageviewsWW)
+  * [Information about addressings to webwarper.net server](http://www.webwarper.net/ww/0/wwgz/priv.htm#hitsApache)
+  * [Advertisement and counters on WebWarper panels](http://www.webwarper.net/ww/0/wwgz/priv.htm#banners)
+  * [Content of the pages viewed through WebWarper](http://www.webwarper.net/ww/0/wwgz/priv.htm#content)
 
 
 
@@ -64,19 +66,19 @@ In order to collect statistics, and also to analyze WebWarper service operation,
 
 
 
-Some statistic information, describing the number of views for pages with different types in some intervals of time, but not containing any personal data on users, is published openly on our Web site at [http://webwarper.net/wwlogs/](http://webwarper.net/ww/0/wwlogs/).
+Some statistic information, describing the number of views for pages with different types in some intervals of time, but not containing any personal data on users, is published openly on our Web site at [http://webwarper.net/wwlogs/](http://www.webwarper.net/ww/webwarper.net/wwlogs/).
 
 Other information from log-files of WebWarper is also available on our site, but access to it is protected by standard Basic-scheme of HTTP-authorization. Besides that, [1-800-HOSTING](http://800hosting.com/) hosting company, from which we are renting dedicated computer for placing our webwarper.net server, does also have access to this information. Logins and passwords required to gain access to this information are known to SIAMS Company, and 1-800-HOSTING hosting company only.
 
-[To contents](http://webwarper.net/ww/0/wwgz/priv.htm#contents)
+[To contents](http://www.webwarper.net/ww/0/wwgz/priv.htm#contents)
 
 ### Information about addressings to webwarper.net server
 
-Every addressing to our webwarper.net server through HTTP protocol is fixed in _standard log files of Apache Web server_. These log files, same as [WebWarper service log files](http://webwarper.net/ww/0/wwgz/priv.htm#pageviewsWW), do contain user information: IP-address, precise date and time of addressing to a page, page address, Referrer, and User-Agent.
+Every addressing to our webwarper.net server through HTTP protocol is fixed in _standard log files of Apache Web server_. These log files, same as [WebWarper service log files](http://www.webwarper.net/ww/0/wwgz/priv.htm#pageviewsWW), do contain user information: IP-address, precise date and time of addressing to a page, page address, Referrer, and User-Agent.
 
 Only SIAMS Company and [1-800-HOSTING](http://800hosting.com/), from which we are renting dedicated computer for placing our webwarper.net server, do have access to these log files. Logins and passwords required to gain access to this information are known to SIAMS Company, and 1-800-HOSTING hosting company only.
 
-[To contents](http://webwarper.net/ww/0/wwgz/priv.htm#contents)
+[To contents](http://www.webwarper.net/ww/0/wwgz/priv.htm#contents)
 
 ### Advertisement and counters on WebWarper panels
 
@@ -101,7 +103,7 @@ If WebWarper advertisement is turned off by the visitor, then we add _only some 
 
 _Please keep in mind that we are not responsible for privacy policy of companies and private persons whose advertisement or scripts are placed on WebWarper panels!_
 
-[To contents](http://webwarper.net/ww/0/wwgz/priv.htm#contents)
+[To contents](http://www.webwarper.net/ww/0/wwgz/priv.htm#contents)
 
 ### Content of pages viewed through WebWarper
 
@@ -109,6 +111,6 @@ It is possible to view absolutely arbitrary pages from any Web sites with help 
 
 _Please keep in mind that we are not responsible for privacy policy of owners of sites and pages that are viewed through WebWarper service!_
 
-[To contents](http://webwarper.net/ww/0/wwgz/priv.htm#contents)
+[To contents](http://www.webwarper.net/ww/0/wwgz/priv.htm#contents)
 
 * * *
