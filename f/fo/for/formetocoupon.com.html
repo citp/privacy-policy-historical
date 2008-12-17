@@ -1,9 +1,142 @@
-<!--The following is the downloaded HTML source of the formetocoupon.com privacy policy that was archived on 2008-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080326133843id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formetocoupon.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217094533id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Privacy Policy</title>
+	<script type="text/javascript" language="JAVASCRIPT">
+		var request = false;
+		try {
+			request = new XMLHttpRequest();
+		} catch (trymicrosoft) {
+			try {
+		  	request = new ActiveXObject("Msxml2.XMLHTTP");
+		 	} catch (othermicrosoft) {
+		  	try {
+		    	request = new ActiveXObject("Microsoft.XMLHTTP");
+		   	} catch (failed) {
+		     	request = false;
+		   	}  
+		 	}
+		}
+		
+		function switchMenu(obj,uid,pid) {
+		 	
+			var el = document.getElementById(obj);
+			if ( el.style.display != 'none' ) {
+				el.style.display = 'none';
+			} else {
+				el.style.display = '';
+			}
+			
+			var num = Math.random();
+		 	var urll = "markPromo.php?uid=" + escape(uid) + "&pid=" + escape(pid) + "&rnd=" + escape(num);
+		 	request.open("GET", urll, true);
+		 	request.onreadystatechange = updatePage;
+		 	request.send(null);
+		 	
+		}
+
+		function updatePage() {
+			if (request.readyState == 4) {
+				if (request.status == 200) {
+		  	 		var response = request.responseText;
+						document.getElementById("done").innerHTML = response;
+				}
+			}
+		}
+		
+		function addMerchant(mid,thediv,user) {
+			var el = document.getElementById(thediv);
+			if ( el.style.display != 'none' ) {
+				el.style.display = 'none';
+			} else {
+				el.style.display = '';
+			}
+			document.getElementById("yourMerchants").innerHTML = "<div align=center><img src=\"https://secure.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'><p>(You can add more merchants while loading)</div>";
+			var num = Math.random();
+		 	var urll = "addMerchant.php?u=" + escape(user) + "&m=" + escape(mid) + "&rnd=" + escape(num);
+		 	request.open("GET", urll, true);
+		 	request.onreadystatechange = updateYourMerchants;
+		 	request.send(null);
+		 	
+		}
+		
+		function filterYourMerchants(user,network){
+			document.getElementById("yourMerchants").innerHTML = "<div align=center><img src=\"https://secure.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'></div>";
+			var num = Math.random();
+		 	var urll = "filterYourMerchants.php?u=" + escape(user) + "&n=" + escape(network) + "&rnd=" + escape(num);
+		 	request.open("GET", urll, true);
+		 	request.onreadystatechange = updateYourMerchants;
+		 	request.send(null);
+		}
+		
+		function filterUnselectedMerchants(user,network,showhidden){
+			document.getElementById("unselectedMerchants").innerHTML = "<div align=center><img src=\"https://secure.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'></div>";
+			var num = Math.random();
+		 	var urll = "filterUnselectedMerchant.php?u=" + escape(user) + "&n=" + escape(network) + "&h=" + showhidden + "&rnd=" + escape(num);
+		 	request.open("GET", urll, true);
+		 	request.onreadystatechange = updateUnselectedMerchants;
+		 	request.send(null);
+		}
+		
+		function updateYourMerchants() {
+			if (request.readyState == 4) {
+				if (request.status == 200) {
+		  	 		var response = request.responseText;
+						document.getElementById("yourMerchants").innerHTML = response;
+				}
+			}
+		}
+		
+		function hideMerchant(mid,thediv,user) {
+			var el = document.getElementById(thediv);
+			if ( el.style.display != 'none' ) {
+				el.style.display = 'none';
+			} else {
+				el.style.display = '';
+			}
+			
+			var num = Math.random();
+		 	var urll = "hideMerchants.php?u=" + escape(user) + "&m=" + escape(mid) + "&rnd=" + escape(num);
+		 	request.open("GET", urll, true);
+		 	request.onreadystatechange = updateHideMerchants;
+		 	request.send(null);
+		}
+		
+		function updateHideMerchants() {
+			if (request.readyState == 4) {
+				if (request.status == 200) {
+				}
+			}
+		}
+		
+		function removeMerchant(mid,thediv,user) {
+			var el = document.getElementById(thediv);
+			if ( el.style.display != 'none' ) {
+				el.style.display = 'none';
+			} else {
+				el.style.display = '';
+			}
+			document.getElementById("unselectedMerchants").innerHTML = "<div align=center><img src=\"https://secure.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'><p>(You can remove more merchants while loading)</div>";
+			var num = Math.random();
+		 	var urll = "removeMerchant.php?u=" + escape(user) + "&m=" + escape(mid) + "&rnd=" + escape(num);
+		 	request.open("GET", urll, true);
+		 	request.onreadystatechange = updateUnselectedMerchants;
+		 	request.send(null);
+		 	
+		}
+		
+		function updateUnselectedMerchants() {
+			if (request.readyState == 4) {
+				if (request.status == 200) {
+						var response = request.responseText;
+						document.getElementById("unselectedMerchants").innerHTML = response;
+				}
+			}
+		}
+		
+	</script>
 			<style>
 			body {margin:0; background-color:#aeeda6; background-image:url(http://www.formetocoupon.com/images/website/bg.png); background-repeat: repeat-x;}
 			
@@ -55,6 +188,18 @@
 			#footerBtm {width:660px; height:20px; padding-top:5px; color:#9598a0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-align:right; padding-right:10px; margin-bottom:30px;}
 		</style>
 		<script type="text/javascript" language="JAVASCRIPT">
+		
+		function positionDiv(){
+			var ww = document.body.offsetWidth;
+			var lll = Math.round((ww - 300) / 2);
+			document.getElementById("warningDIV").style.left = lll + "px";
+			document.getElementById("warningDIV").style.visibility = "visible";	
+		}
+		
+		function closeDiv(){
+			document.getElementById("warningDIV").style.visibility = "hidden";	
+		}
+
 		<!--
 		function selectall() {
 			for ( i=0;i<document.forms[0]['allstores[]'].length;i++){
@@ -71,6 +216,11 @@
 		
 		 function load(invoiceurl) {
 				window.open(invoiceurl,'','scrollbars=yes,menubar=yes,height=600,width=610,resizable=yes,toolbar=yes,location=no,status=yes');
+			}
+			
+			function selectText(testarea)
+			{
+			document.getElementById(testarea).select()
 			}
 		</script>
 	</head>
@@ -114,10 +264,17 @@
 		<li><a href="http://www.formetocoupon.com/documentationFTP">FTP</a></li>
 		<li><a href="http://www.formetocoupon.com/documentationHTTP">HTTP</a></li>
 		<li><a href="http://www.formetocoupon.com/documentationFormats">Data Format</a></li>
+		<li><a href="http://www.formetocoupon.com/documentationTypes">Deal Types</a></li>
 		<li><a href="http://www.formetocoupon.com/documentationMerchants">Merchant Feed</a></li>
 		<li><a href="http://www.formetocoupon.com/documentationCategories">Category Feed</a></li>
 		<li><a href="http://www.formetocoupon.com/documentationNetworks">Networks</a></li>
+		<li><a href="http://www.formetocoupon.com/documentationDealsOfTheDay">Deals Of The Day</a></li>
+		<li><a href="http://www.formetocoupon.com/documentationChanges">Changes</a></li>
 		<li><a href="http://www.formetocoupon.com/documentationShippingDeadlines">Shipping Deadlines</a></li>
+		<li><a href="http://www.formetocoupon.com/yourPepperJamID">Pepperjam Network Unencryption</a></li>
+		
+		
+		
 	</ul>
 	</div>
 	<div id="leftColTabelBtm"></div>
