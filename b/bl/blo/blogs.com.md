@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogs.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622195228id_/http%3A//www.sixapart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogs.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015612id_/http%3A//www.sixapart.com/privacy) for the most accurate reproduction.*
 
-# Six Apart Privacy Policy
+# Six Apart - Privacy
 
 ## SIX APART PRIVACY POLICY
 
@@ -123,7 +123,3 @@ If you object to any sharing of your personal information that may be permitted 
 _Effective Date: February 1, 2005_
 
 Copyright 2003, 2005 Six Apart, Ltd. All rights reserved.
-
-[](http://www.sixapart.com/)  
-Makers of weblog software and services for individuals, organizations and businesses.  
-This website is powered by [Movable Type](https://web.archive.org/movabletype/index). 
