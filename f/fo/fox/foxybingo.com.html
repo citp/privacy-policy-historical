@@ -1,617 +1,30 @@
-<!--The following is the downloaded HTML source of the foxybingo.com privacy policy that was archived on 2008-02-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080213145540id_/http%3A//www.foxybingo.com/site/general/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxybingo.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217050015id_/http%3A//www.foxybingo.com/skin/general/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Foxy Bingo - Play Online Bingo Chat and Win</title>
-<!--<base href="http://www.foxybingo.ie/site/" />-->
-<base href="http://www.foxybingo.com/site/">
-<!--<base href="http://www.bluenunbingo.com/site/" />-->
+<!--<base href="http://www.foxybingo.ie/skin/" />-->
+<base href="http://www.foxybingo.com/skin/">
+<!--<base href="http://www.bluenunbingo.com/skin/" />-->
 <meta name="KeyWords" content="bingo, online bingo, free bingo, bingo game, free online bingo, free bingo game, uk bingo, play bingo, jackpot bingo, bingo card, internet bingo, uk online bingo, online bingo game, bingo site, play bingo online">
 <meta name="description" content="Foxybingo - Play bingo, chat online, big bingo jackpots and fun games.">
-<link rel="stylesheet" type="text/css" href="css/fb2stylesheetM.css" title="Standard">
+
+
 <meta name="verify-v1" content="KLxVjt23uxQaolsqjHDRpTtPn3am1kK74X3zjGbNbS0=">
-<!--START NEW AQUAPAYCASHIER-->
-</head><body><form name="CashierForm" method="POST" action="https://secure2.aquapay.com/AquapayCashier/" target="AquaPayCashier">
-	<input type="hidden" name="oid" value="2">
-	<input type="hidden" name="kid" value="100">
-	<input type="hidden" name="cid" value="0">
-	<input type="hidden" name="sid" value="">
-	<input type="hidden" name="test" value="0">
-	<input type="hidden" name="version" value="1">
-</form>
-<!--END NEW AQUAPAYCASHIER-->
+<script src="../../js/web.js" language="JavaScript"></script>
 
+<link href="css/style.css" rel="stylesheet" type="text/css">
 
-<!--
-<script src="embed.js"></script>
--->
-<script>
-
-
-function sideBetPopup(url)
-	{
-	wn = window.open(url,'igw','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=500,height=350');	  	
-	
-	}
-
-
-function doRegister() {
-		document.location.href="../register.php";
-	}
-
-<!--//	ON LOAD	if Alias field found and has alias name in it then focus to password else focus to alias																																										   -->
-	function onLoad()
-		{
-		try{
-		var f = null;
-
-		// if there is a Alias field on the main page focus to it
-		if(document.mainForm)		
-			if(document.mainForm.Alias)
-				f = document.mainForm;
-
-		// else focus on the header Alias field (if found)
-		if(!f)
-			f = document.topForm;						
-			
-
-		// if the alias field is filled out then focus on the password
-			if(f.Alias.value == "")
-				f.Alias.focus();		
-			else
-				if(f.Password)
-					f.Password.focus();		
-			}
-			catch(e){}	
-		setWinners("GBP");
-		window.defaultStatus = "Welcome to Foxybingo";
-		}
-
-<!--  ON MOUSE OVER / OUT																																					 -->		
-function omOver(obj)
-	{								
-	obj.src = obj.src.replace("_norm.jpg","_over.jpg");
-	obj.src = obj.src.replace("_norm.gif","_over.gif");
-	}
-
-function omOut(obj)
-	{								
-	obj.src = obj.src.replace("_over.jpg","_norm.jpg");
-	obj.src = obj.src.replace("_over.gif","_norm.gif");
-	}
-
-
-<!--//	ON ENTER	with optional formName																																																							   -->
-	function onEnter(formAction,formName) {
-		if(window.event.keyCode == 13){
-			var f = (formName) ? document.forms[formName] : document.forms["mainForm"];
-			f.form_action.value = formAction;
-			f.submit();
-			}		
-	}
-
-
-
-
-
-<!--//																																																									   -->
-	function generalpop(url) {
-		wn = window.open(url, "genpop", "height=600,width=600,top=5,left=5,resizable scrollbars");
-		wn.focus();
-	}
-	
-	
-		
-	<!--//	FOXY																																																								   -->
-	function progressiveLink()
-		{
-			wn = window.open("http://info.thejoyofbingo.com/cashcade/progressive/foxy/progressive.html", "pjp", "height=300,width=500,top=5,left=5,resizable scrollbars");
-			wn.focus();
-		}
-			
-		
-
-<!--//																																																									   -->
-	function BIhelp() {
-	  wn = window.open("http://info.thejoyofbingo.com/BI/help.html", "bihelp", "height=300,width=500,top=5,left=5,resizable scrollbars");
-	  wn.focus();
-	}
-<!--//																																																									   -->
-	function sysMessage() {
-	  wn = window.open("http://www.BingoBallroom.com/sysMessage/sysMessage.html", "sysMessage", "height=500,width=500,top=5,left=5,resizable scrollbars");
-	  wn.focus();
-	}
-<!--//																																																									   -->
-	function bigJackpot(c) {
-	  wn = window.open("http://www.BingoBallroom.com/bigJackpot/"+c+"/bigJackpot.html", "bigJackpot", "height=434,width=417,top=5,left=5,scrollbars");
-	  wn.focus();
-	}
-<!--//																																																									   -->
-	function help() {
-	  wn = window.open("../pop_gameHelp.php", "bbrhelp", "height=300,width=500,top=5,left=5,resizable scrollbars");
-	  wn.focus();
-	}
-
-
-
-<!--//	GAME LOGIN																																																   -->
-	function login(u,s,a,c) {
-
-		document.CashierForm.sid.value = s;
-		document.CashierForm.cid.value = u;
-  
-		var p = window.opener;
-		var w = (p.topForm) ? p.topForm : p.mainForm;
-		if(!w) return;
-		
-		w.u.value = u;
-		w.s.value = s;
-		w.a.value = a;
-		w.c.value = c;
-		w.form_action.value = "GAMELOGIN";
-		w.submit();
-	}
-
-<!--//																																																									   -->
-	function purchase(u,s,a,c) {
-		goCashierForm();
-	}
-
-<!--//		GO SOMEWHERE	SENDING THE FORM IN THE MAIN SECTION																												   -->
-function go(theAction,bShowWait,sendToPage)
-	{
-	if(document.mainForm)
-		{
-		if(sendToPage)
-			document.mainForm.action = sendToPage;
-
-		if(bShowWait){
-		  document.images["imgSubmit"].style.display = "none";
-			document.images["imgWait"].style.display = "";
-			}
-
-	  document.mainForm.form_action.value = theAction;
-	  document.mainForm.submit();
-		}
-	}
-
-<!--//		GO SOMEWHERE	SENDING THE FORM IN THE HEADER - setting the action																					   -->
-function goTop(theAction,sendToPage)
-	{
-	if(sendToPage)
-		document.topForm.action = sendToPage;
-
-	document.topForm.form_action.value = theAction;
-	document.topForm.submit();
-
-	}
-
-<!--//		POP																																																							   -->
-function pop(url) {
-
-
-	if (navigator.appName.indexOf("Microsoft") != -1) {
-	  wb = window.open(url, "bprober", "top=1,left=1,scrollbars=1,resizable=1");
-	} else {
-	  wb = window.open(url, "bprober", "scrollbars=1,resizable=1,screenY=1,screenX=1");
-	}
-  wb.focus();
-}
-
-function goCashierForm() {
-	if(!(document.CashierForm.cid.value>0))
-		{
-		alert("Please log in, or register an account with us first.")
-		return;		
-		}
-	if (navigator.appName.indexOf("Microsoft") != -1) {
-	  wb = window.open("", "AquaPayCashier", "height=536,width=700,top=100,left=100");
-	} else {
-	  wb = window.open("", "AquaPayCashier", "height=536,width=700,screenY=100,screenX=100");
-	}
-	document.CashierForm.submit();
-}
-
-
-
-<!--// SET WINNERS   -->
-function setWinners(curCode)
-	{
-	switch(curCode)
-		{
-		case "USD":
-			if(document.all.spanTopWinner) spanTopWinner.innerText = TopWinnerUSD.replace(/(\(|\)|\.\d\d)/gi,"");
-			if(document.all.spanTotalWinnings) spanTotalWinnings.innerText = TotalWinningsUSD.replace(/(\(|\)|\.\d\d)/gi,"");
-			if(document.all.spanPopularGame) spanPopularGame.innerText = PopularGameUSD;
-			break;
-
-		case "EUR":
-			if(document.all.spanTopWinner) spanTopWinner.innerText = TopWinnerEUR.replace("?","\u20AC ").replace("&euro;","\u20AC").replace(/(\(|\)|\.\d\d)/gi,"");
-			if(document.all.spanTotalWinnings) spanTotalWinnings.innerText = TotalWinningsEUR.replace("?","\u20AC ").replace("&euro;","\u20AC").replace(/(\(|\)|\.\d\d)/gi,"");
-			if(document.all.spanPopularGame) spanPopularGame.innerText = PopularGameEUR;
-			break;
-
-		default:
-			if(document.all.spanTopWinner) spanTopWinner.innerText = TopWinnerGBP.replace("?","\u00A3").replace("&pound;","\u00A3").replace(/(\(|\)|\.\d\d)/gi,"");
-			if(document.all.spanTotalWinnings) spanTotalWinnings.innerText = TotalWinningsGBP.replace("?","\u00A3").replace("&pound;","\u00A3").replace(/(\(|\)|\.\d\d)/gi,"");			
-			if(document.all.spanPopularGame){ spanPopularGame.innerText = PopularGameGBP;}
-			break;
-		}
-	}
-
-<!--//	RETURN CURRENCY SYMBOL FROM PASSED CODE   -->
-function code2symbol(curCode)
-	{
-	switch(curCode)
-		{
-		case "USD": return "$"; break;
-		case "EUR": return "\u20AC"; break;
-		case "GBP": return "\u00A3"; break;
-		}
-	}
-
-<!--//	SHOW THE BALANCE WINDOW   -->
-function balWindow() {
-	if (navigator.appName.indexOf("Microsoft") != -1) {
-	  wb = window.open("pop_balanceprober.php", "bprober", "height=439,width=600,top=100,left=100");
-	} else {
-	  wb = window.open("pop_balanceprober.php", "bprober", "height=439,width=600,screenY=1,screenX=1");
-	}
-  wb.focus();
-}
-
-
-<!--//	SET THE STATUS																																					 -->
-function SetStatus(t) {
-  window.status=t;
-}
-
-<!--// NAVIGATE TO THE NEXT PAGE OF A REPORT																											 -->
-function nextPage(sWhere)
-	{
-	document.mainForm.pageID.value++;
-	document.mainForm.form_action.value = sWhere;
-	document.mainForm.submit();
-	}
-
-<!--// NAVIGATE TO THE PREVIOUS PAGE OF A REPORT																									 -->
-function prevPage(sWhere)
-	{
-	document.mainForm.pageID.value--;
-	document.mainForm.form_action.value = sWhere;
-	document.mainForm.submit();
-	}
-
-
-<!--// POP THE GAME DETAIL WINDOW																																		 -->
-  function GameDetail(gid)
-		{
-    var gameWin=null;
-    gameWin=window.open("pop_GameDetail.php?g=" + gid,"gameWin","height=570 width=616 top=100 left=100 resizable=no scrollbars=yes");
-    gameWin.focus();
-  }
-
-var playWin=null;
-<!--//				PLAY THE GAME																																																											   -->
-function play(iRoom,loc) {
-	var bGameOpen = false;
-	
-	if(navigator.appName.indexOf("Microsoft") == -1 && document.getElementsByTagName("base").length > 0){
-		loc = document.getElementsByTagName("base")[0].href + "game/play.php";
-	}
-	if(!loc) loc="game/play.php";
-	if(!iRoom) iRoom="";
-	loc += "?room=" + iRoom;
-
-
-	// check if game window already open
-	try
-		{
-		var oTest = playWin.document;
-		if (oTest != null)	bGameOpen = true;
-		}
-	catch(ee)
-		{
-		bGameOpen = false;
-		}
-
-	if (!bGameOpen)
-		{
-		h=(screen.height*.9)-54
-		w=(screen.width*.9)
-
-		if (navigator.appName.indexOf("Microsoft") != -1) {
-		  playWin = window.open(loc, "playWin", "height="+h+",width="+w+",top=1,left=1,resizable");
-			}
-		else {
-		  playWin = window.open(loc, "playWin", "height="+screen.height-2+",width="+screen.width-2+",screenY=1,screenX=1,resizable");
-			}
-		playWin.focus();
-		}
-  else
-		{
-		playWin.focus();
-		}
-	}
-
-
-<!--// page to open   -->
-// h,w,t,l = height,width,top,left
-// rs = resizable scrollbars
-function openpopup(page,h,w,t,l,rs) {
-  w = window.open(page, "bpopup", "height="+h+",width="+w+",top="+t+",left="+l+" "+rs);
-  w.focus();
-}
-
-
-<!--//	SET A COOKIE																																															-->
-function setCookie(name,value,hours)
-	{	
-	if(hours)
-		{
-		var date = new Date();
-		date.setTime(date.getTime()+(hours*60*60*1000));
-		var expires = "; expires="+date.toGMTString();
-		}
-	else
-		{
-		var expires = "";
-		document.cookie = name+"="+value+expires+"; path=/";
-		}
-	}
-
-
-<!--//	DELETE A COOKIE																																															-->
-function deleteCookie(name, path, domain) {
-	if (getCookie(name)) {
-		document.cookie = name + "=" +
-		((path) ? "; path=" + path : "") +
-		((domain) ? "; domain=" + domain : "") +
-		"; expires=Thu, 01-Jan-70 00:00:01 GMT"
-		}
-	}
-
-
-
-function loadMovie(filename,width,height) {
-	
-	var strObject;
-	if (width == "" || width == 0)
-		width = "100%";
-	
-	if (height == "" || height == 0)
-		height = "100%";
-	
-	document.write("<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0\" width=\"" + width + "\" height=\"" + height + "\">");
-	document.write("<param name=\"movie\" value=\"" + filename + "\">");
-	document.write("<param name=\"quality\" value=\"high\">");
-	document.write("<embed src=\"" + filename + "\" quality=\"high\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" width=\"" + width + "\" height=\"" + height + "\"></embed>");
-	document.write("</object>");
-	
-	//document.write(strObject);
-}
-
-<!--//			PLAY A INSTANT GAME FROM THE MENU   -->
-
-		function BI(gu,gs,g,win)
-		{
-
-		var u = document.CashierForm.cid.value;
-		var s = document.CashierForm.sid.value;
-window.status = 'u=' + u + ' s=' + s;
-		// new foxy
-		if (gu != null && g == null) {g = gu;gu=null;};
-		
-		
-		if (gu == null) gu = u;
-	
-		if (gs == null) gs = s;
-
-
-		// if not logged in goto login form
-		if (g < 40)
-			{
-
-			var sh = screen.height-520;
-			if (g==1)
-				{//multiplier
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/multiplier.html";
-			  biWH = "width=600,height=435,top="+sh+",left=0";
-			} else if (g==2) {//hilo classic
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/hilo_classic.html";
-			  biWH = "width=630,height=435,top="+sh+",left=0";
-			} else if (g==3) {//quickfire lotto
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/quickfire_lotto.html";
-			  biWH = "width=660,height=425,top="+sh+",left=0";
-			} else if (g==4) {//arcade horses
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/arcade_horses.html";
-			  biWH = "width=670,height=405,top="+sh+",left=0";
-			} else if (g==5) {//fruit machine
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/thefruitmachine_feature.html";
-			  biWH = "width=620,height=455,top="+sh+",left=0";
-			} else if (g==6) {//roulette
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/roulette.html";
-			  biWH = "width=600,height=435,top="+sh+",left=0";
-			} else if (g==7) {//multi slot fruit machine
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/thefruitmachine_multi.html";
-			  biWH = "width=620,height=455,top="+sh+",left=0";
-			} else if (g==8) {//luckyspell
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/luckyspell.html";
-			  biWH = "width=620,height=455,top="+sh+",left=0";
-			} else if (g==9) {//pirate gold
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/piratesgold_feature.html";
-			  biWH = "width=620,height=455,top="+sh+",left=0";
-			} else if (g==10) {//pirate gold multi
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/piratesgold_bonus_reel.html";
-			  biWH = "width=620,height=455,top="+sh+",left=0";
-			} else if (g==11) {//hollywood stars
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/hollywood_stars.html";
-			  biWH = "width=620,height=455,top="+sh+",left=0";
-			} else if (g==12) {//hilo shuffle
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/hilo_shuffle.html";
-			  biWH = "width=620,height=455,top="+sh+",left=0";
-			} else if (g==13) {//monkey paradise
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/monkeyparadise.html";
-			  biWH = "width=620,height=455,top="+sh+",left=0";
-			} else if (g==14) {//old macdonald
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/oldmacdonald.html";
-			  biWH = "width=620,height=455,top="+sh+",left=0";
-			} else if (g==15) {//bee happy
-			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/beehappy.html";
-			  biWH = "width=620,height=455,top="+sh+",left=0";
-			}
-		} else {
-
-		//	alert("Sorry... This game is currently unavialable");
-		//	return;
-
-			sh = screen.height-600;
-			biGame = "https://www.kaave.com/games/mac/en/mgames.jsp?uid="+u+"&guid="+s+"&gameid="+g+"&from=foxy";
-			//biGame = "http://info.thejoyofbingo.com/BIk/kaave.php?uid="+u+"&guid="+s+"&gameid="+g;
-		  biWH = "width=600,height=520,top="+sh+",left=0";
-		}
-
-
-		if(u=="" || s=="" || (u!=gu) || (s!=gs)) {			
-												
-			if(document.location.pathname.substring(document.location.pathname.toString().length-9) == "/main.php" || document.location.pathname.substring(document.location.pathname.toString().length-1) == "/")	
-				var loc="site/pop_bilogin.php?ig=" + g;
-			else
-				var loc="pop_bilogin.php?ig=" + g;					
-								
-			wn = window.open(loc,'igw','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,'+biWH);	
-			return;
-		}
-
-		// if we have fcome from the I Game login window then just navigate self.
-		if(win)
-			{
-			document.location.href = biGame;			
-			var url='http://www.foxybingo.com';
-			var o=window.opener;
-			if(o) o.document.location.href = url + "/site/members.php";	
-			}
-		else
-			wn = window.open(biGame,'igw','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,'+biWH);	  
-	}
-
-
-
-<!--//		MACROMEDIA																																																								   -->
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-<!--//																																																										   -->
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-<!--//																																																										   -->
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-<!--//																																																										   -->
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-
-
-<!--//																																																										   -->
-function MM_changeProp(objName,x,theProp,theValue) { //v6.0
-  var obj = MM_findObj(objName);
-  if (obj && (theProp.indexOf("style.")==-1 || obj.style)){
-    if (theValue == true || theValue == false)
-      eval("obj."+theProp+"="+theValue);
-    else eval("obj."+theProp+"='"+theValue+"'");
-  }
-}
-
-<!--//		RETURN A COOKIE																																																	-->
-function getCookie(name)
-	{
-	var name = name + "=";
-	var ca = document.cookie.split(';');
-	for(var i=0;i < ca.length;i++)
-		{
-		var c = ca[i];
-		while (c.charAt(0)==' ')
-			c = c.substring(1,c.length);
-		if (c.indexOf(name) == 0)
-			{
-			var sRet = c.substring(name.length,c.length);
-			sRet = (sRet) ? sRet : "";
-			return sRet;
-			}
-		}
-	return "";
-	}
-
-	
-	
-	
-	
-<!--//				PLAY THE GAME																																																											   -->
-function play_test(iRoom,loc) {
-	var bGameOpen = false;
-	
-	if(navigator.appName.indexOf("Microsoft") == -1 && document.getElementsByTagName("base").length > 0){
-		loc = document.getElementsByTagName("base")[0].href + "game/play.php";
-	}
-	if(!loc) loc="game_test/play.php";
-	if(!iRoom) iRoom="";
-	loc += "?room=" + iRoom;
-
-
-	// check if game window already open
-	try
-		{
-		var oTest = playWin.document;
-		if (oTest != null)	bGameOpen = true;
-		}
-	catch(ee)
-		{
-		bGameOpen = false;
-		}
-
-	if (!bGameOpen)
-		{
-		h=(screen.height*.9)-54
-		w=(screen.width*.9)
-
-		if (navigator.appName.indexOf("Microsoft") != -1) {
-		  playWin = window.open(loc, "playWin", "height="+h+",width="+w+",top=1,left=1,resizable");
-			}
-		else {
-		  playWin = window.open(loc, "playWin", "height="+screen.height-2+",width="+screen.width-2+",screenY=1,screenX=1,resizable");
-			}
-		playWin.focus();
-		}
-  else
-		{
-		playWin.focus();
-		}
-	}
-	
-</script><base href="http://www.foxybingo.com">
 <script language="javascript">
 	
 	function advent()
 {
-		var $i = window.open('http://www.foxybingo.com/site/promotions/advent/advent_calendar.html',"advent","toolbar=0,top=0,left=0,location=0,directories=0,status=1,menubar=0,scrollbars=0,resizable=0,width=770,height=585");
+		var $i = window.open('/skin/promotions/advent/advent_calendar.html',"advent","toolbar=0,top=0,left=0,location=0,directories=0,status=1,menubar=0,scrollbars=0,resizable=0,width=770,height=585");
 }
 	
 	function howtoplay(){
-window.open('/site/howtoplay.html',"game","toolbar=0,location=0,left=0,top=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=720,height=520"); 
+window.open('/skin/howtoplay.php',"game","toolbar=0,location=0,left=0,top=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=720,height=520"); 
 }
 		function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
@@ -620,108 +33,190 @@ function expand() {
 styleObj = document.getElementById('playertop').style;
    styleObj.display = 'inline';
    }
+
+  function megajackpots(){
+window.open('/skin/megajackpot/index.php',"guaranteeds","toolbar=0,location=0,left=0,top=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=820,height=600"); 
+}
+
+   function foxylimo(){
+window.open('/skin/promotions/foxylimo/index.php',"foxylimo","toolbar=0,location=0,left=0,top=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=800,height=600"); 
+}
 </script>
-<!--<base href="http://www.foxybingo.ie/site/" />-->
-<base href="http://www.foxybingo.com/site/">
-<!--<base href="http://www.bluenunbingo.com/site/" />-->
+
 
 <meta name="verify-v1" content="SmZtEvto1uhLnJ3too0BYUIAbfznCWIxKiPi/AB4X1k=">
+<!-- SIFR stuff -->
+<link rel="stylesheet" href="css/sIFR-screen.css" type="text/css" media="screen">
+<link rel="stylesheet" href="css/sIFR-print.css" type="text/css" media="print">
 
+<!-- end sifr stuff -->
+</head>
 
-
-
-<!-- 77 TRACKING - DON NOT REMOVE -->
-<script language="javascript" src="http://77tracking.com/77Tracking.js"></script>
-<script language="javascript">fn77TPageHit('3cec7d50');</script>
+<body>
+<form name="CashierForm" method="POST" action="https://cashier.bingosys.net/start.php" target="AquaPayCashier">
+	<input type="hidden" name="oid" value="2">
+	<input type="hidden" name="kid" value="100">
+	<input type="hidden" name="cid" value="0">
+	<input type="hidden" name="sid" value="">	
+	<input type="hidden" name="network" value="Foxy">
+	<input name="playerAlias" type="hidden" value="">		
+    <input name="playerCurrency" type="hidden" value="GBP">			  
+    <input name="skinURL" type="hidden" value="http://WWW.FOXYBINGO.COM">
+    <input name="siteID" type="hidden" value="601">
+    <input name="networkID" type="hidden" value="6">
+	<input type="hidden" name="playerSR" value="">
+	<input type="hidden" name="version" value="1">
+</form><!-- 77 TRACKING - DON NOT REMOVE -->
+<script language="javascript" src="http://d0004.77tracking.com/77Tracking.js.ashx?website=3cec7d50&amp;defaultadunit=55848f6f"></script>
 <!-- END 77 TRACKING -->
-
-
-<table cellpadding="0" cellspacing="0" style="margin:0px auto 0px auto"><tbody><tr><td>
-<!--<a href="http://www.foxyflutter.co.uk" target="_blank"><img src="fb2images/FoxyHomepage-New-bar_03.gif" /></a>-->
-<table id="tblfoxy" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td><a href="http://www.foxybingo.com"><img src="fb2images/fb2_logo.gif" alt="Play Foxy and Win!" border="0"></a></td>
-		<td style="background-color:#FE8004">
-			<img src="fb2images/fb2_login_new.gif">
-			<div>
-            <form name="topForm" action="members.php" method="POST">
+  <div id="page_margins">
+    <!-- start: skip link navigation -->
+    <a class="skip" title="skip link" href="#navigation">Skip to the navigation</a>
+    <a class="skip" title="skip link" href="#content">Skip to the content</a>
+    <!-- end: skip link navigation -->
+    <div id="page">
+           <div id="header" style="height:127px">
+                 	<a href="http://www.foxybingo.com"><img src="fb4images/homepage/fb3_logo.gif" style="float:left"></a>
+      	<!-- <img src="fb4images/homepage/fb3_quote.gif" style="margin-left:116px"> -->
+      	<!-- form goes here -->
+      	    <form name="topForm" action="loggedin.php" method="POST">
 			<input name="form_action" id="form_action" type="hidden" value="LOGIN">				
-			<input name="u" type="hidden" value="">
-			<input name="s" type="hidden" value="">
-			<input name="a" type="hidden" value="">
-			<input name="c" type="hidden" value="">
-						<div class="loginbox"> 
-				<table cellpadding="0" cellspacing="0">
-					<tbody><tr><td style="padding-top:5px">
-                    <table cellpadding="0" cellspacing="0">
-                    	<tbody><tr><td>Username:</td><td><input type="text" name="Alias" class="loginform" size="8" tabindex="1" value=""></td></tr>
-                        <tr><td>Password:</td><td><input type="password" name="Password" class="loginform" size="8" id="Password" tabindex="2" value=""></td></tr></tbody></table>
-                    </td><td>	</td><td rowspan="2" valign="top"><input type="image" src="fb2images/fb2_btn_go_new.gif" name="Login" value="Login" style="margin-left:5px"></td></tr>
-					<!--onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Login','','fb2images/fb2_btn_go_over.gif',1)"-->
-                    <tr><td> <div id="forgotten" align="right"><a href="forgot.php">Forgotten login</a></div></td><td></td></tr>
-				</tbody></table>
-               
-			</div>
+						 <div id="login">
+      		<!-- <input type="image" src="fb2images/fb2_btn_go_new.gif" name="Login" value="Login"  name="go_button_nav" style="margin-left:5px"> -->
+            <input src="fb4images/homepage/fb3_btn_go.gif" type="image" id="submit" name="submitLoginButton" value="Login" onclick="go('login',false)"> 
+            <div id="loginfields">
+            <span>Alias</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="Alias" class="textfield" tabindex="1" value="">
+           <span>Password</span><input type="password" name="Password" class="textfield" id="Password" tabindex="2" value="">
+           </div>
+            <div class="forgotten"><a href="forgot.php">Forgotten Password?</a></div>
+      	</div>
 														
-			</form>		</div></td>
-		<td><a href="javascript: play(null,'http://www.foxybingo.com/site/game/play.php');"><img src="fb2images/fb2_playnow_new.gif" border="0"></a></td>
-		<td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="185" height="107">
-            <param name="movie" value="flash/Site_TC_ball.swf">
-            <param name="quality" value="high">
-            <embed src="flash/Site_TC_ball.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="185" height="107">
-        </object></td>
-	    <td><img src="fb2images/fb2_rightcurvedheader.gif"></td>
-	</tr>
-	<tr>
-		<td bgcolor="#9232cf"><img src="fb2images/fb2_maintl.gif">
-                </td>
-		<td colspan="4" bgcolor="#9232cf"> 
-			<table cellspacing="0" cellpadding="0"><tbody><tr><td><img src="fb2images/fb2_navleft.gif"></td>
-			<td id="nav" background="fb2images/fb2_navsliver.gif"><a href="http://www.foxybingo.com">Home</a> | <a href="register.php">Join Now</a> | <a href="/site/promotions/index.php">Promotions</a> | <a href="/site/games/index.php">Our Games</a> | <a href="/site/radio/index.php"><!--<a href="javascript:window.open('http://www.foxybingo.com/site/radio/playerpopup/index.php','titolo','width=572,
-height=485, left=0,top=0');void(0);");}>-->Foxy Radio</a> | <a href="http://forum.foxybingo.com" target="_blank">Forum</a> | <a href="/site/funhouse/index.php">The Funhouse</a> | <a href="/site/help/index.php">Help</a></td>
-			<td><img src="fb2images/fb2_maintr.gif"></td></tr></tbody></table>
-		<!--<div style="width:536px; height:9px; background-color:#9232cf"></div>	<img src="fb2images/mainspacer.gif" />-->	</td>
-	</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" id="main"><!--style="border:#333333 1px solid"-->
-	<tbody><tr>
-		<td style="padding-left:15px;">
-<div id="content_left"><div class="top"><img src="fb2images/fb2_hdg_main.gif" alt="Today's Feature" style="margin:10px 0px 10px 0px"><br><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="153" height="111">
-              <param name="movie" value="flash/topleft.swf">
-              <param name="quality" value="high">
-              <embed src="flash/topleft.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="153" height="111">
-  </object></div>
-<div class="orangecontentarea"><img src="fb2images/fb2_hdg_promo.gif" style="margin-top:22px"><a href="/site/promotions/cruise/march/index.php"><img src="/site/fb2images/home/cruise_promo.jpg" style="margin-top:5px" border="0"></a>
+			</form>
+      	<!-- end form -->
+        <br style="clear:both">
+      </div>
+      <div id="main">
+        <div id="col1">
+          <div id="col1_content" class="clearfix">
+<!-- <div id="sidebar" >
+            	   	<div class="side_heading"><img src="fb4images/homepage/FB_Home_playeryesterday.jpg" alt="Players Yesterday"/></div>
+                	<div class="side_data">9,501</div>
+               		 <br style="clear:both" />
+                    
+                     <div class="side_heading"><img src="fb4images/homepage/FB_Home_rooms.jpg" alt="No. of Rooms"/></div>
+                	<div class="side_data">40</div>
+               		 <br style="clear:both" /> 
+                  
+                  
+                  <div class="side_heading" style="margin-top:1px;"><img src="fb4images/homepage/fb3_title_paid.gif" alt="Latest Winners"/></div><div style="float:right">&nbsp;</div>
+                    
+                    <br style="clear:both" />
+                    <div class="side_data_long" >214,991.33</div>
+                 
+                  <div class="side_heading" style="margin-top:1px;"><img src="fb4images/homepage/fb3_title_latest.gif" alt="Latest Winners"/></div><div style="float:right">&nbsp;</div>
+                    
+                    <br style="clear:both" />
+                    <div class="side_data_long" >chrissyfrost&nbsp;&nbsp;&nbsp;&pound;10,000</div>
+                    <div class="side_heading" style="padding-top:7px; border-top:1px solid #feb165; margin-top:7px; margin-bottom:3px"><img src="fb4images/homepage/fb3_title_progressive.gif" alt="Progressive Jackpots"/></div><div style="float:right">&nbsp;</div>
+                    <br style="clear:both" />
+                     	<div style="float:left"><img src="fb4images/homepage/fb3_sidebar_75.gif" alt="75 Ball" align="middle"/></div>
+                        <div class="side_data_med" >&pound;998.89</div>
+                        <br style="clear:both">
+                        <div style="float:left"><img src="fb4images/homepage/fb3_sidebar_90.gif" alt="75 Ball" align="middle"/></div>
+                        <div class="side_data_med" >&pound;100.11</div>
+                        <br style="clear:both">-->
+                   
+                  
+              
+          <div> <object width="180" height="400" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+					<param value="http://magazine.foxybingo.com/other/recent_flash/main2.swf" name="movie">
+					<param value="high" name="quality">
+					<embed width="180" height="400" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="http://magazine.foxybingo.com/other/recent_flash/main2.swf">
+					</object>
+				
+					
+          <!--</div>-->
+          
+          <!--
+       <a href= "/skin/promotions/cruise/october/index.php"><img src= "/skin/fb4images/homepage/homepage_cruise_ad.jpg" width= "180" border= "0" height= "315"></a>
+            -->
+       <br><br>
+            
+            <div id="instant">
+            	<a href="javascript:play();"><img src="fb4images/homepage/fb3_title_instant.gif" alt="Instant Games: play while you bingo"></a>
+            <ul>
+            	<li>
+            		<div class="instant_icon"><a href="javascript:play();"><img src="fb4images/homepage/fb3_multi.jpg" alt="Multiline slots"></a></div>
+            		<div class="instant_desc">
+            			<a href="javascript:play();"><img src="fb4images/homepage/fb3_title_slots.gif" class="instant_title" alt="Multiline slots"></a>
+            			<p class="instant_copy"><a href="javascript:play();">Monkey Paradise, Fruit Multi and Pirates Multi</a></p>
+            		</div>
+            		<br style="clear:both">
+            	</li>
+            	<li>
+            		<div class="instant_icon"><a href="javascript:play();"><img src="fb4images/homepage/fb3_scratch.jpg" alt="Scratchcards"></a></div>
+            		<div class="instant_desc">
+            			<a href="javascript:play();"><img src="fb4images/homepage/fb3_title_scratch.gif" class="instant_title" alt="Scratchcards"></a>
+            			<p class="instant_copy"><a href="javascript:play();">Classic scratchcard fun with Hollywood Stars</a></p>
+            		</div>
+            		<br style="clear:both">
+            	</li>
+            	<li>
+            		<div class="instant_icon"><a href="javascript:play();"><img src="fb4images/homepage/fb3_roulette.jpg" alt="Roulette"></a></div>
+            		<div class="instant_desc">
+            			<a href="javascript:play();"><img src="fb4images/homepage/fb3_title_roulette.gif" class="instant_title" alt="Roulette"></a>
+            			<p class="instant_copy"><a href="javascript:play();">Play the world's most popular casino game</a></p>
+            		</div>
+            		<br style="clear:both">
+            	</li>
+            	<li>
+            		<div class="instant_icon"><a href="javascript:play();"><img src="fb4images/homepage/fb3_slots.jpg" alt="3 Reel Slots"></a></div>
+            		<div class="instant_desc">
+            			<a href="javascript:play();"><img src="fb4images/homepage/fb3_title_slots.gif" class="instant_title" alt="3 Reel Slots"></a>
+            			<p class="instant_copy"><a href="javascript:play();">Spin the reels and match a line to win</a></p>
+            		</div>
+            		<br style="clear:both">
+            	</li>
+            	<li>
+            		<div class="instant_icon"><a href="javascript:play();"><img src="fb4images/homepage/fb3_classic.jpg" alt="Classic Instants"></a></div>
+            		<div class="instant_desc">
+            			<a href="javascript:play();"><img src="fb4images/homepage/fb3_title_classic.gif" class="instant_title" alt="Classic Instants"></a>
+            			<p class="instant_copy"><a href="javascript:play();">Try single player bingo and keno to win cash</a></p>
+            		</div>
+            		<br style="clear:both">
+            	</li>
+            </ul>
+            <img src="fb4images/homepage/award_winning_foxybingo.gif" style="margin-top:15px">
+            <img src="fb4images/homepage/Bullet_Business_Awards_03.gif" style="margin-top:10px">
+            
+            </div>
+           </div>
+          </div>
+        </div>
+       
+        
+        <div id="col3">
+          <div id="col3_content" class="clearfix">
+            <div id="topnav">
+            	
+            	<div style="float:right"><img src="fb4images/homepage/fb3_topnav_tr.gif" align="absmiddle"></div>
+            	<div style="float:left"><img src="fb4images/homepage/fb3_topnav_tl.gif" align="middle"></div>
+            	<ul class="mainmenu">
+            		<li><a href="http://www.foxybingo.com">Home</a></li><img src="fb4images/homepage/fb3_topnav_pipe.gif" align="absmiddle" class="pipe">
+            	            		<li><a href="/skin/register.php">Join Now</a></li><img src="fb4images/homepage/fb3_topnav_pipe.gif" align="absmiddle" class="pipe">
+            		            		<li><a href="/skin/promotions/index.php">Promotions</a></li><img src="fb4images/homepage/fb3_topnav_pipe.gif" align="absmiddle" class="pipe">
+            		<li><a href="/skin/games/index.php">Our Games</a></li><img src="fb4images/homepage/fb3_topnav_pipe.gif" align="absmiddle" class="pipe">
+            		<li><a href="javascript:MM_openBrWindow('http://magazine.foxybingo.com/playerpopup/index.php','','width=572,height=570,top=0,left=0;')">Foxy Radio</a></li><img src="fb4images/homepage/fb3_topnav_pipe.gif" align="absmiddle" class="pipe">
+            		<li><a href="/skin/funhouse/winners/index.php">Winners</a></li><img src="fb4images/homepage/fb3_topnav_pipe.gif" align="absmiddle" class="pipe">
+            		<li><a href="/skin/funhouse/index.php">Community</a></li><img src="fb4images/homepage/fb3_topnav_pipe.gif" align="absmiddle" class="pipe">
+            		<li><a href="/skin/help/index.php">Help</a></li>
+            	</ul>
+            </div>
+           <div id="foxy_content">
+				<form name="mainForm" action="http://www.foxybingo.com/skin/general/privacy.php" method="POST" id="mainForm">
+					<input name="form_action" id="form_action" type="hidden" value="">
+<div id="template" style="padding:30px">
 
-
-<img src="fb2images/fb2_hdg_more.gif" alt="Offers at Foxybingo" style="margin-top:5px">
-
-<ul>
-	<li>» <a href="/site/promotions/loyalty.php">Loyalty Scheme</a></li>
-	<li>» <a href="/site/promotions/teambingo/index.php">Team Bingo</a></li>
-	<li>» <a href="/site/promotions/vir/index.php">VIR Bonuses</a></li>
-	<li>» <a href="/site/promotions/index.php">Cashback Day</a></li>
-	<li>» <a href="/site/promotions/referfriend.php">Refer a Friend</a></li>
-</ul>	
-	<br><div><a href="/site/promotions/index.php">Click here for more great promotions &gt;&gt;</a></div>
-	
-	
-</div></div><img src="fb2images/fb_left_btm.gif"></td> <!--end of left col -->
-					<td>
-													
-					<form name="mainForm" action="/site/general/privacy.php" method="POST" id="mainForm">
-					<input name="form_action" id="form_action" type="hidden" value="LOGIN">
-			<table width="520" cellspacing="0" cellpadding="0" border="0" bgcolor="#9232CF" id="Table1">	
-	
-<tbody><tr><td width="10"></td><td width="502"></td><td width="8"></td></tr>
-	
-<tr>
-<td width="520" colspan="3"><img src="http://www.foxybingo.com/site/images/textarea_top.gif"></td>
-</tr>
-<tr>
-<td width="10" bgcolor="#DE75D6"></td>
-<td width="502" bgcolor="#DE75D6" valign="top">
-<div id="pinkcontent" style="padding:0px 10px;">
 <h1>Privacy Policy</h1>
 
 IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SUBMITTED BY YOU MAY BE PROCESSED BY US FOR THE PURPOSES SET OUT BELOW
@@ -730,29 +225,28 @@ IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SU
 
 <b>1.	Introduction</b><br>
 
-1.1	 "foxybingo.com" and "foxybingo" are brands of and owned by Cashcade Limited. This website and the services offered on is powered by software belonging to Brigend Limited which is a wholly-owned subsidiary of Cassava Enterprises (Gibraltar) Limited ("Cassava"). As such, all personal data and customer funds are transferred to Brigend Limited to provide such services. Cassava is happy to provide you with online bingo services under its remote gambling license issued by the Government of Gibraltar to Cassava. <br> 
+1.1	 "foxybingo.com" and "foxybingo" are brands of and owned by Cashcade Limited ("Cashcade"). This website and the services offered on it are powered by software belonging to Brigend Limited ("Brigend") which is a wholly-owned subsidiary of Cassava Enterprises (Gibraltar) Limited ("Cassava"). As such, all personal data and customer funds are transferred to and stored by Cassava on its servers in Gibraltar as both Cassava and Brigend are companies registered under the laws of Gibraltar to provide such services. Cassava is happy to provide you with online bingo services under its remote gambling licence issued by the Government of Gibraltar to Cassava. <br> 
 
-1.2	Cashcade Limited is committed to preserving the privacy of all visitors to foxybingo.com. Please read the following privacy policy to understand how we collect, use and protect the information that you provide to us. By registering and using this website, you consent to the collection, use and transfer of your information under the terms of this policy.<br><br>
+1.2	Cashcade is committed to preserving the privacy of all visitors to foxybingo.com. Please read the following privacy policy to understand how we collect, use and protect the information that you provide to us. By registering and using this website, you consent to the collection, use and transfer of your information under the terms of this policy.<br><br>
 
 <b>2.	Information that we collect from you</b><br>
-2.1	Personal information is collated and stored primarily during the registration process, but is also monitored when there is activity on your account and when you use this website. The personal information that we collect may include information such as: contact information (including name, address, age, gender, telephone number and email address), billing information, transaction history, web site usage preferences, and feedback regarding the Service. This information is held by us on servers based in Canada and elsewhere from time to time. As with many other websites, we may use software known as 'cookies' to store information relating to your preferences to enable us to improve our service to you.<br><br>
+2.1	Personal information is collated and stored by Cassava primarily during the registration process on its servers in Gibraltar, but is also monitored when there is activity on your account and when you use this website. The personal information that Cassava collects may include information such as: contact information (including name, address, age, gender, telephone number and email address), billing information, transaction history, web site usage preferences, and feedback regarding the Service. This information is held by Cassava on servers based in Gibraltar. Cassava then permits Cashcade to access your data for the purposes further set out below. From here on references to "we" and "us" shall mean references to Cassava and Cashcade. As with many other websites, we may use software known as 'cookies' to store information relating to your preferences to enable us to improve our service to you.<br><br>
 
 <b>3.	Use of your information</b><br>
 3.1	Personal data submitted by you to us will only be used to the extent that it is strictly necessary for one of the following purposes: <br>
 (a)	assisting us in setting up and managing your account; <br>
 (b)	building an accurate customer profile; <br>
-(c)	making information from Brigend Limited’s  licensees and our marketing partners available; and <br>
-(d)	publishing on this website and in other promotional materials, for the purpose of promoting the site, information relating to wins of £10 or more comprising the amount of the win and the abbreviated name, home town, state or province and country of the winner.<br>
+(c)	publishing on this website and in other promotional materials, for the purpose of promoting the site, information relating to wins of £10 or more comprising the amount of the win and the abbreviated name, home town, state or province and country of the winner.<br>
 3.2	We reserve the right to conduct a security review at any time to validate your identity, age, the registration data provided by you and to verify your use of this website and your financial transactions for potential breach of our terms and conditions and of applicable law. By accepting this Privacy Policy, you authorise us, our staff, affiliates, subsidiaries, agents and suppliers to use your personal data and to disclose your personal data to third parties for the purposes of validating the information you provide to us in the course of using this website, including where necessary the transfer of information outside of your country. Security reviews may include but are not limited to ordering a credit report and/or otherwise verifying the information you provide against third party databases. In addition, to facilitate these security reviews, you agree to provide such information or documentation as we may request.<br>
 <b>4.	Disclosure of your information</b><br>
 4.1	Please note that information that you provide will be disclosed to the following parties:-<br>
-(a)	Cashcade Limited, Brigend Limited and the Government of Gibralter have access to your account information for use in accordance with the rules and guidelines that govern this website. <br>
+(a)	Cashcade, Brigend, Cassava and the Government of Gibraltar have access to your account information for use in accordance with the rules and guidelines that govern this website. <br>
 (b)	reputable marketing partners selected by us. If you do not wish to receive promotional or other information then please check the appropriate box during the registration process; <br>
 (c)	any company or other entity to whom we may sell all or part of our business; <br>
-(d)	any competent legal, regulatory or law enforcement authority including the KGC;<br>
+(d)	any competent legal, regulatory or law enforcement authority including the Government of Gibraltar;<br>
 (e)	our professional advisers or other appropriate third parties, if your use of our service, our Games or this website is in breach of these terms and conditions; and <br>
 (f)	other users of this website and persons receiving promotional materials, in each case pursuant to the information we provide about winners detailed above.<br><br>
-4.2	Please note that in respect of the KGC you may not be informed of any disclosure nor of any reasons for such disclosure and you hereby waive any and all rights that you may have, whether at law or otherwise, of any nature and in any jurisdiction, in connection with such disclosure.<br><br>
+4.2	Please note that in respect of the Government of Gibraltar you may not be informed of any disclosure nor of any reasons for such disclosure and you hereby waive any and all rights that you may have, whether at law or otherwise, of any nature and in any jurisdiction, in connection with such disclosure.<br><br>
 <b>5.	Security and Data Retention</b><br>
 5.1	We are committed to the security of all personal details entered onto this website and employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.<br>
 5.2	Our systems are rigorously tested and have been developed with encryption software and secure socket layer technology. All banking details and transactions are also protected by firewalls with a view to ensuring the security of all personal information and your complete peace of mind.  <br>
@@ -789,99 +283,119 @@ The services offered from this website operate "AS-IS" and "AS-AVAILABLE," witho
 <b>12.	Protection of Children</b><br>
 The Service is not intended for or directed to persons under the age of 18. Any person who provides their information to us through any part of the Service represents to us that they are 18 years of age or older. If we become aware that a minor has attempted to or has submitted personal information via the online site, we will not accept this information and will take steps to remove such information from our records. This may involve us having to access and verify your Personal Information.<br><br>
 <b>13.	Legal Compliance, Governing Laws and Disputes</b><br>
-13.1	Cashcade Limited uses its best endeavours to materially comply with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and Kahnawake gaming laws. <br>
-13.2	Cashcade Limited’s operation of this website means that it is part of the World Wide Web and because of this your personal data may be transferred outside the European Economic Area. Whenever such transfers are effected pursuant to arrangements made by us, we shall enter into agreements requiring the recipients of your personal data to adhere to standards of data protection substantially similar to those prevailing in the UK and the European Economic Area. However, the Internet is made up of a large variety of international connections and if you are visiting this website the various communications may well result in the transfer of information outside the European Economic Area other than pursuant to contractual arrangements made by us. By visiting the website and communicating electronically with us you consent to these transfers. All player data is protected in accordance with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003.<br>
-13.3	This Privacy Policy forms part of our website Terms and Conditions and as such it shall be governed by and construed in accordance with the laws of England. You irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to resolve any dispute or claim of whatever nature arising out of or relating to this policy and consent or otherwise to the use of your personal data, and that the laws of England shall govern such dispute or claim. However, we retain the right to bring legal proceedings in any jurisdiction where we believe that infringement of our intellectual property rights or breach of those terms is taking place or originating.<br>
-13.4	You are responsible for compliance with any applicable laws and regulations of the jurisdiction from which youare accessing this website. <br><br>
+13.1	We use our best endeavours to materially comply with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and Gibraltan gaming and data protection / privacy laws. <br>
+13.2	This Privacy Policy forms part of our website Terms and Conditions and as such it shall be governed by and construed in accordance with the laws of England. You irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to resolve any dispute or claim of whatever nature arising out of or relating to this policy and consent or otherwise to the use of your personal data, and that the laws of England shall govern such dispute or claim. However, we retain the right to bring legal proceedings in any jurisdiction where we believe that infringement of our intellectual property rights or breach of those terms is taking place or originating.<br>
+13.3	You are responsible for compliance with any applicable laws and regulations of the jurisdiction from which youare accessing this website. <br><br>
 
-[Last amended: 21 February 2006]<br><br><br>
+[Last amended: 22nd May 2008]<br><br><br>
 
 <br><br>
 
 
 
-</div>
-</td>
-<td width="8" bgcolor="#391494"></td>
-</tr>
-<tr>
-<td width="520" colspan="4" valign="top"><img src="http://www.foxybingo.com/site/images/textarea_bottom.gif"></td>
-</tr>
-</tbody></table>
-</form>
-</td>
-</tr> 
-</tbody></table>
-<!--<table id="tbl_edges" cellpadding="0" cellspacing="0"><tr><td align="left"><a href="http://www.foxyflutter.co.uk" target="_blank"><img src="fb2images/foxy_footerMock_03.jpg" /></a>-->
+ </div>
 
-<!--
-
-<table cellpadding= "0" cellspacing= "0" border= "0">
-
-	<tr>
-		<td width= "331"><br></td>
-		<td width= "316"></td>
-		<td width= "90"></td>
-	</tr>
-
-	<tr>
-		<td width= "331" rowspan= "2"><img src= "http://www.foxybingo.com/site/fb2images/fb_bottom_main_left.jpg"></td><td width= "316"><img src= "http://www.foxybingo.com/site/images/fb_bottom_main_play.gif"></td><td width= "90" rowspan= "2"><a href= "http://www.foxybingo.com/site/katies_charity.php"><img src= "http://www.foxybingo.com/site/images/fb_bottom_main_right.gif" border= "0" /></a></td>
-	</tr>
-
-	<tr>
-		<td width= "316"><a href= "http://www.foxybingo.com/site/katies_charity.php"  onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('link','','http://www.foxybingo.com/site/images/fb_bottom_main_click_over.gif',1)"><img src= "http://www.foxybingo.com/site/images/fb_bottom_main_click.gif" name= "link" border= "0"></a></td>
-	</tr>
-	
-</table>
-
--->
-
-<table cellpadding="0" cellspacing="0" border="0">
-
-	<tbody><tr>
-		<td height="5" bgcolor="#9933cc"></td>
-	</tr>
-
-	<tr>
-		<td><a href="javascript: play(null,'http://www.foxybingo.com/site/game/play.php');"><img src="/site/fb2images/home/fb_bottom_bar_instant.gif" id="cards"></a></td>
-	</tr>
-	
-</tbody></table>
-
-
-
-
-<table id="tbl_footerlinks"><tbody><tr><td align="left"><a href="/site/help/faqs.php">FAQs</a> | <a href="/site/aboutus/fairgaming.php">Responsible Gaming</a> | <a href="/site/help/index.php">Contact Us</a> | <a href="/site/aboutus/index.php">About Us</a></td>
-<td align="right"><a href="/site/general/terms/index.php">Terms &amp; Conditions</a> | <a href="/site/general/privacy.php">Privacy Policy</a> | <a href="http://affiliate.foxybingo.com" target="_blank">Affiliates</a><!--| <a href="/site/general/links.php">Links</a>--></td>
-</tr></tbody></table>
-
-
-<div class="rbroundbox">
-	<div class="rbtop"><div></div></div>
-		<div class="rbcontent" align="left">
-			<img src="fb2images/fb2_cards.gif" id="cards">
-			<img src="fb2images/spacer.gif" width="145" height="1">
-			<img src="/site/fb2images/home/fasttarck_logo.jpg" width="29" height="43">
-			<a href="http://www.cashcade.co.uk" target="_blank"><img src="fb2images/fb2_cashcade.gif" name="cashcade" border="0" id="cashcade"></a>
-			<a href="javascript:window.open('https://secure.liquidpayments.com/gmtest3/spg/general/images/certfoxy.html','sb','toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizable=0,width=490,height=400'); void(0);"><img src="fb2images/fb2_thawte.gif" name="thawte" border="0" id="thawte"></a> </div>
-		<!-- /rbcontent -->
-	<div class="rbbot"><div></div></div>
-</div><!-- /rbroundbox --><div class="footsubnav"><a href="http://www.foxybingo.com/uk-bingo.php">UK Bingo</a> | <a href="http://www.foxybingo.com/free-bingo.php">Free Bingo</a> | <a href="http://www.foxybingo.com/lottery-results.php">Lottery Results</a> | <a href="http://www.foxybingo.com/play-bingo-online.php">Play Bingo Online</a> | <a href="http://www.foxybingo.com/katie-price.php">Katie Price Bingo</a> | <a href="http://www.foxybingo.com/chat-bingo.php">Chat Bingo</a> | <a href="http://www.foxybingo.com/site/promotions/welcome.php">Bingo Bonus</a> | <a href="http://www.foxybingo.com/site/gallery/">Bingo Gallery</a> | <a href="http://www.getminted.com">Casino Games</a></div>
-<p class="rbcontent" align="center" style="width:710px;font-size:11px; color:#63228c;padding:5px;">Foxybingo.com (wholly owned and marketed by Cashcade Ltd) is powered by software belonging to Brigend Limited which is a wholly-owned subsidiary of Cassava Enterprises (Gibraltar) Limited ("Cassava"). Cassava is happy to provide you with online bingo services under its remote gambling license issued by the Government of Gibraltar to Cassava.
-</p>
-</td></tr></tbody></table>
-<!-- Burst Tag Starts -->
+          </form></div>
+          
+<div id="bottomnav">
+            <div style="float:right"><img src="fb4images/homepage/fb3_btmnav_br.gif" align="absmiddle"></div>
+            <div style="float:left"><img src="fb4images/homepage/fb3_btmnav_bl.gif" align="middle"></div>
+            <ul class="mainmenu">
+            		<li><a href="help/faqs.php">FAQs</a></li><img src="fb4images/homepage/fb3_topnav_pipe.gif" align="absmiddle" class="pipe">
+            		<li><a href="aboutus/fairgaming.php">Responsible Gaming</a></li><img src="fb4images/homepage/fb3_topnav_pipe.gif" align="absmiddle" class="pipe">
+            		<li><a href="help/index.php">Contact Us</a></li><img src="fb4images/homepage/fb3_topnav_pipe.gif" align="absmiddle" class="pipe">
+            		<li><a href="aboutus/index.php">About Us</a></li><img src="fb4images/homepage/fb3_topnav_pipe.gif" align="absmiddle" class="pipe">
+            		<li><a href="/skin/general/terms/index.php">Terms &amp; Conditions</a></li><img src="fb4images/homepage/fb3_topnav_pipe.gif" align="absmiddle" class="pipe">
+            		<li><a href="general/privacy.php">Privacy Policy</a></li><img src="fb4images/homepage/fb3_topnav_pipe.gif" align="absmiddle" class="pipe">
+            		<li><a href="http://affiliate.foxybingo.com/">Affiliates</a></li>
+            </ul>
+            </div>
+            <div id="footer">
+      	<div style="float:right"><img src="fb4images/homepage/fb3_footer_right.gif" align="absmiddle"></div>
+        <div style="float:left"><img src="fb4images/homepage/fb3_footer_left.gif" align="middle"></div><div id="cards">
+        	<img src="fb4images/homepage/fb3_cards.gif" alt="Foxybingo accepts Visa, Mastercard and Maestro" style="margin-top:22px; width:443px; height:28px">
+            <a href="aboutus/gamcare-certification.php"><img src="fb4images/homepage/gamcare.gif" alt="Foxybingo has achieved high standards in player protection and social responsibility and recognise the need to assist their customers in playing responsibly." style="margin-left:8px"></a>
+            <img src="fb4images/homepage/fb3_cards_tech.gif" alt="A tech track 100 company" style="margin-left:12px;">
+            <a href="http://www.cashcade.co.uk" target="_blank"><img src="fb4images/homepage/fb3_cards_cashcade.gif" alt="Foxybingo.com is wholly owned and marketed by Cashcade Ltd" style="margin-left:4px;"></a>
+            <img src="fb4images/homepage/fb3_cards_thawte.gif" alt="Foxybingo.com is wholly owned and marketed by Cashcade Ltd" style="margin-left:2px;">
+        </div></div>
+          </div>
+          <div id="footsubnav"><a href="/uk-bingo.php">UK Bingo</a> | <a href="/free-bingo.php">Free Bingo</a> | <a href="/lottery-results.php">Lottery Results</a> | <a href="/play-bingo-online.php">Play Bingo Online</a> | <a href="/chat-bingo.php">Chat Bingo</a> | <a href="/skin/promotions/welcome.php">Bingo Bonus</a> | <a href="http://www.getminted.com">Casino Online</a>
+          
+<p><br>Always gamble responsibly - for more information visit <a href="http://www.gambleaware.co.uk">www.gambleaware.co.uk</a></p>
+          
+<p class="seotext" align="center" style="width:710px;font-size:11px; padding:5px;">The games promoted by Cashcade Limited on this website are operated by Cassava Enterprises (Gibraltar) Limited under its remote gambling licence issued by the Government of Gibraltar. The games are powered by software belonging to Brigend Limited, a wholly-owned subsidiary of Cassava Enterprises (Gibraltar) Limited.<br>
+© Cashcade Limited (and its licensors) 2008. 'Foxybingo' as a word and logo is protected by EU registered trade marks owned by Cashcade Limited.
+</p></div>
+          <!-- IE Column Clearing -->
+          <div id="ie_clearing"> &nbsp; </div>
+        </div>
+      </div>
+      <!-- begin: #footer -->
+      
+    </div>
+  </div>
+ <!-- Burst Tag Starts -->
 <img src="http://www.burstnet.com/enlightn/356//9279/" width="0" height="0" border="0">
 <!-- Burst Tag Ends -->
-
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+ 
+  <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-1424557-8";
 urchinTracker();
 </script>
+<!-- <script type="text/javascript" src="http://cetrk.com/pages/scripts/0003/9689.js"> </script> -->
+<script type="text/javascript">
+/*=:project
+  scalable Inman Flash Replacement (sIFR) version 3, revision 419
+
+  =:file
+    Copyright: 2006 Mark Wubben.
+    Author: Mark Wubben, <http://novemberborn.net/>
+
+  =:history
+    * IFR: Shaun Inman
+    * sIFR 1: Mike Davidson, Shaun Inman and Tomas Jogin
+    * sIFR 2: Mike Davidson, Shaun Inman, Tomas Jogin and Mark Wubben
+
+  =:license
+    This software is licensed and provided under the CC-GNU LGPL.
+    See <http://creativecommons.org/licenses/LGPL/2.1/>    
+*/
+
+var sIFR=new function(){var O=this;var E={ACTIVE:"sIFR-active",REPLACED:"sIFR-replaced",IGNORE:"sIFR-ignore",ALTERNATE:"sIFR-alternate",CLASS:"sIFR-class",LAYOUT:"sIFR-layout",FLASH:"sIFR-flash",FIX_FOCUS:"sIFR-fixfocus",DUMMY:"sIFR-dummy"};E.IGNORE_CLASSES=[E.REPLACED,E.IGNORE,E.ALTERNATE];this.MIN_FONT_SIZE=6;this.MAX_FONT_SIZE=126;this.FLASH_PADDING_BOTTOM=5;this.VERSION="419";this.isActive=false;this.isEnabled=true;this.fixHover=true;this.autoInitialize=true;this.setPrefetchCookie=true;this.cookiePath="/";this.domains=[];this.forceWidth=true;this.fitExactly=false;this.forceTextTransform=true;this.useDomLoaded=true;this.useStyleCheck=false;this.hasFlashClassSet=false;this.repaintOnResize=true;this.replacements=[];var L=0;var R=false;function Y(){}function D(c){function d(e){return e.toLocaleUpperCase()}this.normalize=function(e){return e.replace(/\n|\r|\xA0/g,D.SINGLE_WHITESPACE).replace(/\s+/g,D.SINGLE_WHITESPACE)};this.textTransform=function(e,f){switch(e){case"uppercase":return f.toLocaleUpperCase();case"lowercase":return f.toLocaleLowerCase();case"capitalize":return f.replace(/^\w|\s\w/g,d)}return f};this.toHexString=function(e){if(e.charAt(0)!="#"||e.length!=4&&e.length!=7){return e}e=e.substring(1);return"0x"+(e.length==3?e.replace(/(.)(.)(.)/,"$1$1$2$2$3$3"):e)};this.toJson=function(g,f){var e="";switch(typeof (g)){case"string":e='"'+f(g)+'"';break;case"number":case"boolean":e=g.toString();break;case"object":e=[];for(var h in g){if(g[h]==Object.prototype[h]){continue}e.push('"'+h+'":'+this.toJson(g[h]))}e="{"+e.join(",")+"}";break}return e};this.convertCssArg=function(e){if(!e){return{}}if(typeof (e)=="object"){if(e.constructor==Array){e=e.join("")}else{return e}}var l={};var m=e.split("}");for(var h=0;h<m.length;h++){var k=m[h].match(/([^\s{]+)\s*\{(.+)\s*;?\s*/);if(!k||k.length!=3){continue}if(!l[k[1]]){l[k[1]]={}}var g=k[2].split(";");for(var f=0;f<g.length;f++){var n=g[f].match(/\s*([^:\s]+)\s*\:\s*([^;]+)/);if(!n||n.length!=3){continue}l[k[1]][n[1]]=n[2].replace(/\s+$/,"")}}return l};this.extractFromCss=function(g,f,i,e){var h=null;if(g&&g[f]&&g[f][i]){h=g[f][i];if(e){delete g[f][i]}}return h};this.cssToString=function(f){var g=[];for(var e in f){var j=f[e];if(j==Object.prototype[e]){continue}g.push(e,"{");for(var i in j){if(j[i]==Object.prototype[i]){continue}var h=j[i];if(D.UNIT_REMOVAL_PROPERTIES[i]){h=parseInt(h,10)}g.push(i,":",h,";")}g.push("}")}return g.join("")};this.escape=function(e){return escape(e).replace(/\+/g,"%2B")};this.encodeVars=function(e){return e.join("&").replace(/%/g,"%25")};this.copyProperties=function(g,f){for(var e in g){if(f[e]===undefined){f[e]=g[e]}}return f};this.domain=function(){var f="";try{f=document.domain}catch(g){}return f};this.domainMatches=function(h,g){if(g=="*"||g==h){return true}var f=g.lastIndexOf("*");if(f>-1){g=g.substr(f+1);var e=h.lastIndexOf(g);if(e>-1&&(e+g.length)==h.length){return true}}return false};this.uriEncode=function(e){return encodeURI(decodeURIComponent(e))};this.delay=function(f,h,g){var e=Array.prototype.slice.call(arguments,3);setTimeout(function(){h.apply(g,e)},f)}}D.UNIT_REMOVAL_PROPERTIES={leading:true,"margin-left":true,"margin-right":true,"text-indent":true};D.SINGLE_WHITESPACE=" ";function U(e){var d=this;function c(g,j,h){var k=d.getStyleAsInt(g,j,e.ua.ie);if(k==0){k=g[h];for(var f=3;f<arguments.length;f++){k-=d.getStyleAsInt(g,arguments[f],true)}}return k}this.getBody=function(){return document.getElementsByTagName("body")[0]||null};this.querySelectorAll=function(f){return window.parseSelector(f)};this.addClass=function(f,g){if(g){g.className=((g.className||"")==""?"":g.className+" ")+f}};this.removeClass=function(f,g){if(g){g.className=g.className.replace(new RegExp("(^|\\s)"+f+"(\\s|$)"),"").replace(/^\s+|(\s)\s+/g,"$1")}};this.hasClass=function(f,g){return new RegExp("(^|\\s)"+f+"(\\s|$)").test(g.className)};this.hasOneOfClassses=function(h,g){for(var f=0;f<h.length;f++){if(this.hasClass(h[f],g)){return true}}return false};this.ancestorHasClass=function(g,f){g=g.parentNode;while(g&&g.nodeType==1){if(this.hasClass(f,g)){return true}g=g.parentNode}return false};this.create=function(f,g){var h=document.createElementNS?document.createElementNS(U.XHTML_NS,f):document.createElement(f);if(g){h.className=g}return h};this.getComputedStyle=function(h,i){var f;if(document.defaultView&&document.defaultView.getComputedStyle){var g=document.defaultView.getComputedStyle(h,null);f=g?g[i]:null}else{if(h.currentStyle){f=h.currentStyle[i]}}return f||""};this.getStyleAsInt=function(g,i,f){var h=this.getComputedStyle(g,i);if(f&&!/px$/.test(h)){return 0}return parseInt(h)||0};this.getWidthFromStyle=function(f){return c(f,"width","offsetWidth","paddingRight","paddingLeft","borderRightWidth","borderLeftWidth")};this.getHeightFromStyle=function(f){return c(f,"height","offsetHeight","paddingTop","paddingBottom","borderTopWidth","borderBottomWidth")};this.getDimensions=function(j){var h=j.offsetWidth;var f=j.offsetHeight;if(h==0||f==0){for(var g=0;g<j.childNodes.length;g++){var k=j.childNodes[g];if(k.nodeType!=1){continue}h=Math.max(h,k.offsetWidth);f=Math.max(f,k.offsetHeight)}}return{width:h,height:f}};this.getViewport=function(){return{width:window.innerWidth||document.documentElement.clientWidth||this.getBody().clientWidth,height:window.innerHeight||document.documentElement.clientHeight||this.getBody().clientHeight}};this.blurElement=function(g){try{g.blur();return }catch(h){}var f=this.create("input");f.style.width="0px";f.style.height="0px";g.parentNode.appendChild(f);f.focus();f.blur();f.parentNode.removeChild(f)}}U.XHTML_NS="http://www.w3.org/1999/xhtml";function H(r){var g=navigator.userAgent.toLowerCase();var q=(navigator.product||"").toLowerCase();var h=navigator.platform.toLowerCase();this.parseVersion=H.parseVersion;this.macintosh=/^mac/.test(h);this.windows=/^win/.test(h);this.quicktime=false;this.opera=/opera/.test(g);this.konqueror=/konqueror/.test(q);this.ie=false/*@cc_on||true@*/;this.ieSupported=this.ie&&!/ppc|smartphone|iemobile|msie\s5\.5/.test(g)/*@cc_on&&@_jscript_version>=5.5@*/;this.ieWin=this.ie&&this.windows/*@cc_on&&@_jscript_version>=5.1@*/;this.windows=this.windows&&(!this.ie||this.ieWin);this.ieMac=this.ie&&this.macintosh/*@cc_on&&@_jscript_version<5.1@*/;this.macintosh=this.macintosh&&(!this.ie||this.ieMac);this.safari=/safari/.test(g);this.webkit=!this.konqueror&&/applewebkit/.test(g);this.khtml=this.webkit||this.konqueror;this.gecko=!this.webkit&&q=="gecko";this.ieVersion=this.ie&&/.*msie\s(\d\.\d)/.exec(g)?this.parseVersion(RegExp.$1):"0";this.operaVersion=this.opera&&/.*opera(\s|\/)(\d+\.\d+)/.exec(g)?this.parseVersion(RegExp.$2):"0";this.webkitVersion=this.webkit&&/.*applewebkit\/(\d+).*/.exec(g)?this.parseVersion(RegExp.$1):"0";this.geckoVersion=this.gecko&&/.*rv:\s*([^\)]+)\)\s+gecko/.exec(g)?this.parseVersion(RegExp.$1):"0";this.konquerorVersion=this.konqueror&&/.*konqueror\/([\d\.]+).*/.exec(g)?this.parseVersion(RegExp.$1):"0";this.flashVersion=0;if(this.ieWin){var l;var o=false;try{l=new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7")}catch(m){try{l=new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");this.flashVersion=this.parseVersion("6");l.AllowScriptAccess="always"}catch(m){o=this.flashVersion==this.parseVersion("6")}if(!o){try{l=new ActiveXObject("ShockwaveFlash.ShockwaveFlash")}catch(m){}}}if(!o&&l){this.flashVersion=this.parseVersion((l.GetVariable("$version")||"").replace(/^\D+(\d+)\D+(\d+)\D+(\d+).*/g,"$1.$2.$3"))}}else{if(navigator.plugins&&navigator.plugins["Shockwave Flash"]){var n=navigator.plugins["Shockwave Flash"].description.replace(/^.*\s+(\S+\s+\S+$)/,"$1");var p=n.replace(/^\D*(\d+\.\d+).*$/,"$1");if(/r/.test(n)){p+=n.replace(/^.*r(\d*).*$/,".$1")}else{if(/d/.test(n)){p+=".0"}}this.flashVersion=this.parseVersion(p);var j=false;for(var k=0,c=this.flashVersion>=H.MIN_FLASH_VERSION;c&&k<navigator.mimeTypes.length;k++){var f=navigator.mimeTypes[k];if(f.type!="application/x-shockwave-flash"){continue}if(f.enabledPlugin){j=true;if(f.enabledPlugin.description.toLowerCase().indexOf("quicktime")>-1){c=false;this.quicktime=true}}}if(this.quicktime||!j){this.flashVersion=this.parseVersion("0")}}}this.flash=this.flashVersion>=H.MIN_FLASH_VERSION;this.transparencySupport=this.macintosh||this.windows;this.computedStyleSupport=this.ie||!!document.defaultView.getComputedStyle;this.fixFocus=this.gecko&&this.windows;this.nativeDomLoaded=this.gecko||this.webkit&&this.webkitVersion>=this.parseVersion("525")||this.konqueror&&this.konquerorMajor>this.parseVersion("03")||this.opera;this.mustCheckStyle=this.khtml||this.opera;this.forcePageLoad=this.webkit&&this.webkitVersion<this.parseVersion("523");this.properDocument=typeof (document.location)=="object";this.supported=this.flash&&this.properDocument&&(!this.ie||this.ieSupported)&&this.computedStyleSupport&&(!this.opera||this.operaVersion>=this.parseVersion("9.50"))&&(!this.webkit||this.webkitVersion>=this.parseVersion("412"))&&(!this.gecko||this.geckoVersion>=this.parseVersion("1.8.0.12"))&&(!this.konqueror)}H.parseVersion=function(c){return c.replace(/(^|\D)(\d+)(?=\D|$)/g,function(f,e,g){f=e;for(var d=4-g.length;d>=0;d--){f+="0"}return f+g})};H.MIN_FLASH_VERSION=H.parseVersion("8");function F(c){this.fix=c.ua.ieWin&&window.location.hash!="";var d;this.cache=function(){d=document.title};function e(){document.title=d}this.restore=function(){if(this.fix){setTimeout(e,0)}}}function S(l){var e=null;function c(){try{if(l.ua.ie||document.readyState!="loaded"&&document.readyState!="complete"){document.documentElement.doScroll("left")}}catch(n){return setTimeout(c,10)}i()}function i(){if(l.useStyleCheck){h()}else{if(!l.ua.mustCheckStyle){d(null,true)}}}function h(){e=l.dom.create("div",E.DUMMY);l.dom.getBody().appendChild(e);m()}function m(){if(l.dom.getComputedStyle(e,"marginLeft")=="42px"){g()}else{setTimeout(m,10)}}function g(){if(e&&e.parentNode){e.parentNode.removeChild(e)}e=null;d(null,true)}function d(n,o){l.initialize(o);if(n&&n.type=="load"){if(document.removeEventListener){document.removeEventListener("DOMContentLoaded",d,false)}if(window.removeEventListener){window.removeEventListener("load",d,false)}}}function j(){l.prepareClearReferences();if(document.readyState=="interactive"){document.attachEvent("onstop",f);setTimeout(function(){document.detachEvent("onstop",f)},0)}}function f(){document.detachEvent("onstop",f);k()}function k(){l.clearReferences()}this.attach=function(){if(window.addEventListener){window.addEventListener("load",d,false)}else{window.attachEvent("onload",d)}if(!l.useDomLoaded||l.ua.forcePageLoad||l.ua.ie&&window.top!=window){return }if(l.ua.nativeDomLoaded){document.addEventListener("DOMContentLoaded",i,false)}else{if(l.ua.ie||l.ua.khtml){c()}}};this.attachUnload=function(){if(!l.ua.ie){return }window.attachEvent("onbeforeunload",j);window.attachEvent("onunload",k)}}var Q="sifrFetch";function N(c){var e=false;this.fetchMovies=function(f){if(c.setPrefetchCookie&&new RegExp(";?"+Q+"=true;?").test(document.cookie)){return }try{e=true;d(f)}catch(g){if(c.debug){throw g}}if(c.setPrefetchCookie){document.cookie=Q+"=true;path="+c.cookiePath}};this.clear=function(){if(!e){return }try{var f=document.getElementsByTagName("script");for(var g=f.length-1;g>=0;g--){var h=f[g];if(h.type=="sifr/prefetch"){h.parentNode.removeChild(h)}}}catch(j){}};function d(f){for(var g=0;g<f.length;g++){document.write('<script defer type="sifr/prefetch" src="'+f[g].src+'"><\/script>')}}}function b(e){var g=e.ua.ie;var f=g&&e.ua.flashVersion<e.ua.parseVersion("9.0.115");var d={};var c={};this.fixFlash=f;this.register=function(h){if(!g){return }var i=h.getAttribute("id");this.cleanup(i,false);c[i]=h;delete d[i];if(f){window[i]=h}};this.reset=function(){if(!g){return false}for(var j=0;j<e.replacements.length;j++){var h=e.replacements[j];var k=c[h.id];if(!d[h.id]&&(!k.parentNode||k.parentNode.nodeType==11)){h.resetMovie();d[h.id]=true}}return true};this.cleanup=function(l,h){var i=c[l];if(!i){return }for(var k in i){if(typeof (i[k])=="function"){i[k]=null}}c[l]=null;if(f){window[l]=null}if(i.parentNode){if(h&&i.parentNode.nodeType==1){var j=document.createElement("div");j.style.width=i.offsetWidth+"px";j.style.height=i.offsetHeight+"px";i.parentNode.replaceChild(j,i)}else{i.parentNode.removeChild(i)}}};this.prepareClearReferences=function(){if(!f){return }__flash_unloadHandler=function(){};__flash_savedUnloadHandler=function(){}};this.clearReferences=function(){if(f){var j=document.getElementsByTagName("object");for(var h=j.length-1;h>=0;h--){c[j[h].getAttribute("id")]=j[h]}}for(var k in c){if(Object.prototype[k]!=c[k]){this.cleanup(k,true)}}}}function K(d,g,f,c,e){this.sIFR=d;this.id=g;this.vars=f;this.movie=null;this.__forceWidth=c;this.__events=e;this.__resizing=0}K.prototype={getFlashElement:function(){return document.getElementById(this.id)},getAlternate:function(){return document.getElementById(this.id+"_alternate")},getAncestor:function(){var c=this.getFlashElement().parentNode;return !this.sIFR.dom.hasClass(E.FIX_FOCUS,c)?c:c.parentNode},available:function(){var c=this.getFlashElement();return c&&c.parentNode},call:function(c){var d=this.getFlashElement();return Function.prototype.apply.call(d[c],d,Array.prototype.slice.call(arguments,1))},attempt:function(){if(!this.available()){return false}try{this.call.apply(this,arguments)}catch(c){if(this.sIFR.debug){throw c}return false}return true},updateVars:function(c,e){for(var d=0;d<this.vars.length;d++){if(this.vars[d].split("=")[0]==c){this.vars[d]=c+"="+e;break}}var f=this.sIFR.util.encodeVars(this.vars);this.movie.injectVars(this.getFlashElement(),f);this.movie.injectVars(this.movie.html,f)},storeSize:function(c,d){this.movie.setSize(c,d);this.updateVars(c,d)},fireEvent:function(c){if(this.available()&&this.__events[c]){this.sIFR.util.delay(0,this.__events[c],this,this)}},resizeFlashElement:function(c,d,e){if(!this.available()){return }this.__resizing++;var f=this.getFlashElement();f.setAttribute("height",c);this.updateVars("renderheight",c);this.storeSize("height",c);if(d!==null){f.setAttribute("width",d);this.movie.setSize("width",d)}if(this.__events.onReplacement){this.sIFR.util.delay(0,this.__events.onReplacement,this,this);delete this.__events.onReplacement}if(e){this.sIFR.util.delay(0,function(){this.attempt("scaleMovie");this.__resizing--},this)}else{this.__resizing--}},blurFlashElement:function(){if(this.available()){this.sIFR.dom.blurElement(this.getFlashElement())}},resetMovie:function(){this.sIFR.util.delay(0,this.movie.reset,this.movie,this.getFlashElement(),this.getAlternate())},resizeAfterScale:function(){if(this.available()&&this.__resizing==0){this.sIFR.util.delay(0,this.resize,this)}},resize:function(){if(!this.available()){return }this.__resizing++;var g=this.getFlashElement();var f=g.offsetWidth;if(f==0){return }var e=g.getAttribute("width");var l=g.getAttribute("height");var m=this.getAncestor();var o=this.sIFR.dom.getHeightFromStyle(m);g.style.width="1px";g.style.height="1px";m.style.minHeight=o+"px";var c=this.getAlternate().childNodes;var n=[];for(var k=0;k<c.length;k++){var h=c[k].cloneNode(true);n.push(h);m.appendChild(h)}var d=this.sIFR.dom.getWidthFromStyle(m);for(var k=0;k<n.length;k++){m.removeChild(n[k])}g.style.width=g.style.height=m.style.minHeight="";g.setAttribute("width",this.__forceWidth?d:e);g.setAttribute("height",l);if(sIFR.ua.ie){g.style.display="none";var j=g.offsetHeight;g.style.display=""}if(d!=f){if(this.__forceWidth){this.storeSize("width",d)}this.attempt("resize",d)}this.__resizing--},replaceText:function(g,j){var d=this.sIFR.util.escape(g);if(!this.attempt("replaceText",d)){return false}this.updateVars("content",d);var f=this.getAlternate();if(j){while(f.firstChild){f.removeChild(f.firstChild)}for(var c=0;c<j.length;c++){f.appendChild(j[c])}}else{try{f.innerHTML=g}catch(h){}}return true},changeCSS:function(c){c=this.sIFR.util.escape(this.sIFR.util.cssToString(this.sIFR.util.convertCssArg(c)));this.updateVars("css",c);return this.attempt("changeCSS",c)},remove:function(){if(this.movie&&this.available()){this.movie.remove(this.getFlashElement(),this.id)}}};var X=new function(){this.create=function(p,n,j,i,f,e,g,o,l,h,m){var k=p.ua.ie?d:c;return new k(p,n,j,i,f,e,g,o,["flashvars",l,"wmode",h,"bgcolor",m,"allowScriptAccess","always","quality","best"])};function c(s,q,l,h,f,e,g,r,n){var m=s.dom.create("object",E.FLASH);var p=["type","application/x-shockwave-flash","id",f,"name",f,"data",e,"width",g,"height",r];for(var o=0;o<p.length;o+=2){m.setAttribute(p[o],p[o+1])}var j=m;if(h){j=W.create("div",E.FIX_FOCUS);j.appendChild(m)}for(var o=0;o<n.length;o+=2){if(n[o]=="name"){continue}var k=W.create("param");k.setAttribute("name",n[o]);k.setAttribute("value",n[o+1]);m.appendChild(k)}while(l.firstChild){l.removeChild(l.firstChild)}l.appendChild(j);this.html=j.cloneNode(true)}c.prototype={reset:function(e,f){e.parentNode.replaceChild(this.html.cloneNode(true),e)},remove:function(e,f){e.parentNode.removeChild(e)},setSize:function(e,f){this.html.setAttribute(e,f)},injectVars:function(e,g){var h=e.getElementsByTagName("param");for(var f=0;f<h.length;f++){if(h[f].getAttribute("name")=="flashvars"){h[f].setAttribute("value",g);break}}}};function d(p,n,j,h,f,e,g,o,k){this.dom=p.dom;this.broken=n;this.html='<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="'+f+'" width="'+g+'" height="'+o+'" class="'+E.FLASH+'"><param name="movie" value="'+e+'"></param></object>';var m="";for(var l=0;l<k.length;l+=2){m+='<param name="'+k[l]+'" value="'+k[l+1]+'"></param>'}this.html=this.html.replace(/(<\/object>)/,m+"$1");j.innerHTML=this.html;this.broken.register(j.firstChild)}d.prototype={reset:function(f,g){g=g.cloneNode(true);var e=f.parentNode;e.innerHTML=this.html;this.broken.register(e.firstChild);e.appendChild(g)},remove:function(e,f){this.broken.cleanup(f)},setSize:function(e,f){this.html=this.html.replace(e=="height"?/(height)="\d+"/:/(width)="\d+"/,'$1="'+f+'"')},injectVars:function(e,f){if(e!=this.html){return }this.html=this.html.replace(/(flashvars(=|\"\svalue=)\")[^\"]+/,"$1"+f)}}};this.errors=new Y(O);var A=this.util=new D(O);var W=this.dom=new U(O);var T=this.ua=new H(O);var G={fragmentIdentifier:new F(O),pageLoad:new S(O),prefetch:new N(O),brokenFlashIE:new b(O)};this.__resetBrokenMovies=G.brokenFlashIE.reset;var J={kwargs:[],replaceAll:function(d){for(var c=0;c<this.kwargs.length;c++){O.replace(this.kwargs[c])}if(!d){this.kwargs=[]}}};this.activate=function(){if(!T.supported||!this.isEnabled||this.isActive||!C()||a()){return }G.prefetch.fetchMovies(arguments);this.isActive=true;this.setFlashClass();G.fragmentIdentifier.cache();G.pageLoad.attachUnload();if(!this.autoInitialize){return }G.pageLoad.attach()};this.setFlashClass=function(){if(this.hasFlashClassSet){return }W.addClass(E.ACTIVE,W.getBody()||document.documentElement);this.hasFlashClassSet=true};this.removeFlashClass=function(){if(!this.hasFlashClassSet){return }W.removeClass(E.ACTIVE,W.getBody());W.removeClass(E.ACTIVE,document.documentElement);this.hasFlashClassSet=false};this.initialize=function(c){if(!this.isActive||!this.isEnabled){return }if(R){if(!c){J.replaceAll(false)}return }R=true;J.replaceAll(c);if(O.repaintOnResize){if(window.addEventListener){window.addEventListener("resize",Z,false)}else{window.attachEvent("onresize",Z)}}G.prefetch.clear()};this.replace=function(w,t){if(!T.supported){return }if(t){w=A.copyProperties(w,t)}if(!R){return J.kwargs.push(w)}if(this.onReplacementStart){this.onReplacementStart(w)}var AL=w.elements||W.querySelectorAll(w.selector);if(AL.length==0){return }var v=M(w.src);var AQ=A.convertCssArg(w.css);var u=B(w.filters);var AM=w.forceSingleLine===true;var AR=w.preventWrap===true&&!AM;var p=AM||(w.fitExactly==null?this.fitExactly:w.fitExactly)===true;var AC=p||(w.forceWidth==null?this.forceWidth:w.forceWidth)===true;var r=w.ratios||[];var AD=w.pixelFont===true;var q=parseInt(w.tuneHeight)||0;var y=!!w.onRelease||!!w.onRollOver||!!w.onRollOut;if(p){A.extractFromCss(AQ,".sIFR-root","text-align",true)}var s=A.extractFromCss(AQ,".sIFR-root","font-size",true)||"0";var e=A.extractFromCss(AQ,".sIFR-root","background-color",true)||"#FFFFFF";var n=A.extractFromCss(AQ,".sIFR-root","kerning",true)||"";var AV=A.extractFromCss(AQ,".sIFR-root","opacity",true)||"100";var k=A.extractFromCss(AQ,".sIFR-root","cursor",true)||"default";var AO=parseInt(A.extractFromCss(AQ,".sIFR-root","leading"))||0;var AI=w.gridFitType||(A.extractFromCss(AQ,".sIFR-root","text-align")=="right")?"subpixel":"pixel";var h=this.forceTextTransform===false?"none":A.extractFromCss(AQ,".sIFR-root","text-transform",true)||"none";s=/^\d+(px)?$/.test(s)?parseInt(s):0;AV=parseFloat(AV)<1?100*parseFloat(AV):AV;var AB=w.modifyCss?"":A.cssToString(AQ);var AF=w.wmode||"";if(!AF){if(w.transparent){AF="transparent"}else{if(w.opaque){AF="opaque"}}}if(AF=="transparent"){if(!T.transparencySupport){AF="opaque"}else{e="transparent"}}for(var AU=0;AU<AL.length;AU++){var AE=AL[AU];if(W.hasOneOfClassses(E.IGNORE_CLASSES,AE)||W.ancestorHasClass(AE,E.ALTERNATE)){continue}var AN=W.getDimensions(AE);var f=AN.height;var c=AN.width;var z=W.getComputedStyle(AE,"display");if(!f||!c||!z||z=="none"){continue}c=W.getWidthFromStyle(AE);var m,AG;if(!s){var AK=I(AE);m=Math.min(this.MAX_FONT_SIZE,Math.max(this.MIN_FONT_SIZE,AK.fontSize));if(AD){m=Math.max(8,8*Math.round(m/8))}AG=AK.lines;if(isNaN(AG)||!isFinite(AG)||AG==0){AG=1}if(AG>1&&AO){f+=Math.round((AG-1)*AO)}}else{m=s;AG=1}var d=W.create("span",E.ALTERNATE);var AW=AE.cloneNode(true);AE.parentNode.appendChild(AW);for(var AT=0,AS=AW.childNodes.length;AT<AS;AT++){d.appendChild(AW.childNodes[AT].cloneNode(true))}if(w.modifyContent){w.modifyContent(AW,w.selector)}if(w.modifyCss){AB=w.modifyCss(AQ,AW,w.selector)}var o=P(AW,h,w.uriEncode);AW.parentNode.removeChild(AW);if(w.modifyContentString){o.text=w.modifyContentString(o.text,w.selector)}if(o.text==""){continue}f=Math.round(AG*m);var AJ=Math.round(AG*V(m,r)*m)+this.FLASH_PADDING_BOTTOM+q;var AA=AC?c:"100%";var AH="sIFR_replacement_"+L++;var AP=["id="+AH,"content="+A.escape(o.text),"width="+c,"height="+f,"renderheight="+AJ,"link="+A.escape(o.primaryLink.href||""),"target="+A.escape(o.primaryLink.target||""),"size="+m,"css="+A.escape(AB),"cursor="+k,"tunewidth="+(w.tuneWidth||0),"tuneheight="+q,"offsetleft="+(w.offsetLeft||""),"offsettop="+(w.offsetTop||""),"fitexactly="+p,"preventwrap="+AR,"forcesingleline="+AM,"antialiastype="+(w.antiAliasType||""),"thickness="+(w.thickness||""),"sharpness="+(w.sharpness||""),"kerning="+n,"gridfittype="+AI,"flashfilters="+u,"opacity="+AV,"blendmode="+(w.blendMode||""),"selectable="+(w.selectable==null||AF!=""&&!sIFR.ua.macintosh&&sIFR.ua.gecko&&sIFR.ua.geckoVersion>=sIFR.ua.parseVersion("1.9")?"true":w.selectable===true),"fixhover="+(this.fixHover===true),"events="+y,"delayrun="+G.brokenFlashIE.fixFlash,"version="+this.VERSION];var x=A.encodeVars(AP);var g=new K(O,AH,AP,AC,{onReplacement:w.onReplacement,onRollOver:w.onRollOver,onRollOut:w.onRollOut,onRelease:w.onRelease});g.movie=X.create(sIFR,G.brokenFlashIE,AE,T.fixFocus&&w.fixFocus,AH,v,AA,AJ,x,AF,e);this.replacements.push(g);this.replacements[AH]=g;if(w.selector){if(!this.replacements[w.selector]){this.replacements[w.selector]=[g]}else{this.replacements[w.selector].push(g)}}d.setAttribute("id",AH+"_alternate");AE.appendChild(d);W.addClass(E.REPLACED,AE)}G.fragmentIdentifier.restore()};this.getReplacementByFlashElement=function(d){for(var c=0;c<O.replacements.length;c++){if(O.replacements[c].id==d.getAttribute("id")){return O.replacements[c]}}};this.redraw=function(){for(var c=0;c<O.replacements.length;c++){O.replacements[c].resetMovie()}};this.prepareClearReferences=function(){G.brokenFlashIE.prepareClearReferences()};this.clearReferences=function(){G.brokenFlashIE.clearReferences();G=null;J=null;delete O.replacements};function C(){if(O.domains.length==0){return true}var d=A.domain();for(var c=0;c<O.domains.length;c++){if(A.domainMatches(d,O.domains[c])){return true}}return false}function a(){if(document.location.protocol=="file:"){if(O.debug){O.errors.fire("isFile")}return true}return false}function M(c){if(T.ie&&c.charAt(0)=="/"){c=window.location.toString().replace(/([^:]+)(:\/?\/?)([^\/]+).*/,"$1$2$3")+c}return c}function V(d,e){for(var c=0;c<e.length;c+=2){if(d<=e[c]){return e[c+1]}}return e[e.length-1]||1}function B(g){var e=[];for(var d in g){if(g[d]==Object.prototype[d]){continue}var c=g[d];d=[d.replace(/filter/i,"")+"Filter"];for(var f in c){if(c[f]==Object.prototype[f]){continue}d.push(f+":"+A.escape(A.toJson(c[f],A.toHexString)))}e.push(d.join(","))}return A.escape(e.join(";"))}function Z(d){var e=Z.viewport;var c=W.getViewport();if(e&&c.width==e.width&&c.height==e.height){return }Z.viewport=c;if(O.replacements.length==0){return }if(Z.timer){clearTimeout(Z.timer)}Z.timer=setTimeout(function(){delete Z.timer;for(var f=0;f<O.replacements.length;f++){O.replacements[f].resize()}},200)}function I(g){var h,d;if(!T.ie){h=W.getStyleAsInt(g,"lineHeight");d=Math.floor(W.getStyleAsInt(g,"height")/h)}else{if(T.ie){var h=W.getComputedStyle(g,"fontSize");if(h.indexOf("px")>0){h=parseInt(h)}else{var f=g.innerHTML;g.style.visibility="visible";g.style.overflow="visible";g.style.position="static";g.style.zoom="normal";g.style.writingMode="lr-tb";g.style.width=g.style.height="auto";g.style.maxWidth=g.style.maxHeight=g.style.styleFloat="none";var i=g;var c=g.currentStyle.hasLayout;if(c){g.innerHTML='<div class="'+E.LAYOUT+'">X<br>X<br>X</div>';i=g.firstChild}else{g.innerHTML="X<br>X<br>X"}var e=i.getClientRects();h=e[1].bottom-e[1].top;h=Math.ceil(h*0.8);if(c){g.innerHTML='<div class="'+E.LAYOUT+'">'+f+"</div>";i=g.firstChild}else{g.innerHTML=f}e=i.getClientRects();d=e.length;if(c){g.innerHTML=f}g.style.visibility=g.style.width=g.style.height=g.style.maxWidth=g.style.maxHeight=g.style.overflow=g.style.styleFloat=g.style.position=g.style.zoom=g.style.writingMode=""}}}return{fontSize:h,lines:d}}function P(c,g,s){s=s||A.uriEncode;var q=[],m=[];var k=null;var e=c.childNodes;var o=false,p=false;var j=0;while(j<e.length){var f=e[j];if(f.nodeType==3){var t=A.textTransform(g,A.normalize(f.nodeValue)).replace(/</g,"&lt;");if(o&&p){t=t.replace(/^\s+/,"")}m.push(t);o=/\s$/.test(t);p=false}if(f.nodeType==1&&!/^(style|script)$/i.test(f.nodeName)){var h=[];var r=f.nodeName.toLowerCase();var n=f.className||"";if(/\s+/.test(n)){if(n.indexOf(E.CLASS)>-1){n=n.match("(\\s|^)"+E.CLASS+"-([^\\s$]*)(\\s|$)")[2]}else{n=n.match(/^([^\s]+)/)[1]}}if(n!=""){h.push('class="'+n+'"')}if(r=="a"){var d=s(f.getAttribute("href")||"");var l=f.getAttribute("target")||"";h.push('href="'+d+'"','target="'+l+'"');if(!k){k={href:d,target:l}}}m.push("<"+r+(h.length>0?" ":"")+h.join(" ")+">");p=true;if(f.hasChildNodes()){q.push(j);j=0;e=f.childNodes;continue}else{if(!/^(br|img)$/i.test(f.nodeName)){m.push("</",f.nodeName.toLowerCase(),">")}}}if(q.length>0&&!f.nextSibling){do{j=q.pop();e=f.parentNode.parentNode.childNodes;f=e[j];if(f){m.push("</",f.nodeName.toLowerCase(),">")}}while(j==e.length-1&&q.length>0)}j++}return{text:m.join("").replace(/^\s+|\s+$|\s*(<br>)\s*/g,"$1"),primaryLink:k||{}}}};
+var parseSelector=(function(){var B=/\s*,\s*/;var A=/\s*([\s>+~(),]|^|$)\s*/g;var L=/([\s>+~,]|[^(]\+|^)([#.:@])/g;var F=/(^|\))[^\s>+~]/g;var M=/(\)|^)/;var K=/[\s#.:>+~()@]|[^\s#.:>+~()@]+/g;function H(R,P){P=P||document.documentElement;var S=R.split(B),X=[];for(var U=0;U<S.length;U++){var N=[P],W=G(S[U]);for(var T=0;T<W.length;){var Q=W[T++],O=W[T++],V="";if(W[T]=="("){while(W[T++]!=")"&&T<W.length){V+=W[T]}V=V.slice(0,-1)}N=I(N,Q,O,V)}X=X.concat(N)}return X}function G(N){var O=N.replace(A,"$1").replace(L,"$1*$2").replace(F,D);return O.match(K)||[]}function D(N){return N.replace(M,"$1 ")}function I(N,P,Q,O){return(H.selectors[P])?H.selectors[P](N,Q,O):[]}var E={toArray:function(O){var N=[];for(var P=0;P<O.length;P++){N.push(O[P])}return N}};var C={isTag:function(O,N){return(N=="*")||(N.toLowerCase()==O.nodeName.toLowerCase())},previousSiblingElement:function(N){do{N=N.previousSibling}while(N&&N.nodeType!=1);return N},nextSiblingElement:function(N){do{N=N.nextSibling}while(N&&N.nodeType!=1);return N},hasClass:function(N,O){return(O.className||"").match("(^|\\s)"+N+"(\\s|$)")},getByTag:function(N,O){return O.getElementsByTagName(N)}};var J={"#":function(N,P){for(var O=0;O<N.length;O++){if(N[O].getAttribute("id")==P){return[N[O]]}}return[]}," ":function(O,Q){var N=[];for(var P=0;P<O.length;P++){N=N.concat(E.toArray(C.getByTag(Q,O[P])))}return N},">":function(O,R){var N=[];for(var Q=0,S;Q<O.length;Q++){S=O[Q];for(var P=0,T;P<S.childNodes.length;P++){T=S.childNodes[P];if(T.nodeType==1&&C.isTag(T,R)){N.push(T)}}}return N},".":function(O,Q){var N=[];for(var P=0,R;P<O.length;P++){R=O[P];if(C.hasClass([Q],R)){N.push(R)}}return N},":":function(N,P,O){return(H.pseudoClasses[P])?H.pseudoClasses[P](N,O):[]}};H.selectors=J;H.pseudoClasses={};H.util=E;H.dom=C;return H})();
+
+var yourtypeface = {
+      src: '/skin/flash/sifr.swf'};
+ 
+sIFR.activate(yourtypeface);
+ 
+sIFR.replace(yourtypeface, {
+      selector: '#template h1, #pop h1',
+	  css: [
+      '.sIFR-root { color:#FFFFFF; font-size:1.7em; text-transform:uppercase  }'
+      ],
+      wmode: 'transparent'
+});
+sIFR.replace(yourtypeface, {
+      selector: '#loggedin h3, #pop h2',
+	  css: [
+      '.sIFR-root { color:#FFCC00; font-size:20px; margin:20px 0px; padding-left:30px; background:url(/skin/fb4images/homepage/fb3_h2bg.gif no-repeat) ; width:150px }'
+      ],
+      wmode: 'transparent'
+});
+sIFR.replace(yourtypeface, {
+      selector: '#template .tbl_content h3',
+	  css: [
+      '.sIFR-root { color:#FFCC00; font-size:16px; margin:11px 0px; padding-left:30px; background:url(/skin/fb4images/homepage/fb3_h2bg.gif no-repeat)  }'
+      ],
+      wmode: 'transparent'
+});
 
 
+</script>
 
  
 	
