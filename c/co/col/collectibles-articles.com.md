@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the collectibles-articles.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505125412id_/http%3A//collectibles-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectibles-articles.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217155055id_/http%3A//collectibles-articles.com/privacy.php) for the most accurate reproduction.*
 
 # Collectibles-Articles
 
+* * *
+
 Collectibles-Articles.com Privacy Policy
+
+* * *
 
 Collectibles-Articles.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party.
 
@@ -47,3 +51,7 @@ This policy and the use of this Site are governed by Iowa law. If a dispute aris
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Cedar Rapids, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+
+* * *
+
+* * *
