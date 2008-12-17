@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpeterman.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608185403id_/http%3A//jpeterman.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpeterman.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217181946id_/http%3A//jpeterman.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # The J. Peterman Company
 
@@ -26,7 +26,7 @@ We also automatically collect general information, or what we call non-personal 
 
 We will not sell, rent or share your email address with third parties to send you unsolicited email. However, in our ongoing effort to provide you with the best service possible, we may share your information with our other brands within our company.
 
-When you supply your postal address, either when requesting a catalog or placing an order, you may receive a catalog by mail from us or one of our other brands. We occasionally make our postal list available for limited use by a few reputable and carefully screened firms, but at your request, we will not share your postal address with anyone. Requests can be sent to [customerservice@jpeterman.com](mailto:customerservice@jpeterman.com)
+When you supply your postal address, either when requesting a catalog or placing an order, you may receive a catalog by mail from us or one of our other brands. We occasionally make our postal list available for limited use by a few reputable and carefully screened firms, but at your request, we will not share your postal address with anyone. Requests can be sent to the [contact us](https://web.archive.org/contact-us.asp) page. 
 
 When you place an order on jpeterman.com, we use this information to process and track your order and contact you via email, postal mail or phone if we have any questions or concerns regarding your order. If you provide an email address during checkout, you will also receive order and shipping confirmation emails. 
 
@@ -42,7 +42,7 @@ We see the task of safeguarding your personal information as an important one. T
 
 We may also use an approved J. Peterman vendor to help us analyze general information about your visit to our site, which is used by us to understand your shopping experience and preferences. One of our approved vendors may place a unique cookie on your browser, and may also use other monitoring technologies to create anonymous statistics about our website visitors. We also use non-personal information to analyze site traffic, audience trends, etc, and may use an approved J. Peterman vendor to help us complete these tasks as well.
 
-We may also send you marketing emails. At various points on our site you have the option to join our email list. Also, if you provide us with your email address either on the home page, when you register, place an order, enter a contest or during checkout, you may automatically be added to our email list as well and receive marketing or promotional information from us or one of our other brands. If you do not wish to receive our marketing emails, you may opt-out by clicking on the unsubscribe link found at the bottom of all our marketing emails, or requests can be sent to [customerservice@jpeterman.com](mailto:customerservice@jpeterman.com). 
+We may also send you marketing emails. At various points on our site you have the option to join our email list. Also, if you provide us with your email address either on the home page, when you register, place an order, enter a contest or during checkout, you may automatically be added to our email list as well and receive marketing or promotional information from us or one of our other brands. If you do not wish to receive our marketing emails, you may opt-out by clicking on the unsubscribe link found at the bottom of all our marketing emails, or requests can be sent to the [contact us](https://web.archive.org/contact-us.asp) page. 
 
 **3\. How do we store information?  
 **  
@@ -54,7 +54,7 @@ Our website is not intended for children, and the website will not knowingly col
 
 **5\. How can you edit your personal information?**
 
-At any time, you can edit your personal information during the registration process, and as often as you like. Anyone who experiences problems with our service, or just has questions about our service, please contact us at [customerservice@jpeterman.com](mailto:customerservice@jpeterman.com). 
+At any time, you can edit your personal information during the registration process, and as often as you like. Anyone who experiences problems with our service, or just has questions about our service, please contact us at the [contact us](https://web.archive.org/contact-us.asp) page. 
 
 **6\. How can you access us from outside the U.S.?**
 
@@ -64,7 +64,7 @@ If you are visiting jpeterman.com from a location outside of the United States, 
 
 If you have any questions or concerns regarding our privacy policy, please contact us as described below. 
 
-By Email:  [customerservice@jpeterman.com](mailto:customerservice@jpeterman.com)
+By Email:  [contact us](https://web.archive.org/contact-us.asp)
 
 By Mail:   J. Peterman Customer Service  
                1001 Primrose Court   
