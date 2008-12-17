@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the lkk.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611145307id_/http%3A//home.lkk.com/Statements/Privacy%2520Policy%2520Statement2.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkk.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025914id_/http%3A//home.lkk.com/Statements/Privacy%2520Policy%2520Statement2.htm) for the most accurate reproduction.*
 
-# Lee Kum Kee International Limited
+# Lee Kum Kee – Privacy Statement
 
-**Lee Kum Kee** **-** **Privacy Policy Statement**  
+**Lee Kum Kee – Privacy Statement**
 
+**GENERAL**
 
-GENERAL
-
-This policy statement provides information on the obligations and policies of the subsidiaries, affiliates, and associated companies of Lee Kum Kee(hereinafter collectively referred to as the "Company") under the Hong Kong SAR Personal Data (Privacy) Ordinance 1995 - Cap.486 (the "Ordinance"). 
+This policy statement provides information on the obligations and policies of the subsidiaries, affiliates, and associated companies of Lee Kum Kee(hereinafter collectively referred to as the "Company") under the Hong Kong SAR Personal Data (Privacy) Ordinance Cap.486 (the "Ordinance"). 
 
 Although this policy specifically addresses the Company's obligations in respect of the laws of the Hong Kong SAR, the Company believes the principles embedded in the Ordinance are equal to any in the world in respect of the protections they provide to an individual. As such, the Company undertakes to apply, where practicable, those principles and the processes set out herein to its operations globally.
 
@@ -15,7 +14,7 @@ Where the Company's operations are subject to privacy legislation other than tha
 
 Throughout this policy, our use of the term "personal data" has the meaning ascribed to it by the Ordinance.
 
-OUR CORPORATE POLICY
+**OUR CORPORATE POLICY**
 
 The Company shall fully comply with the obligations and requirements of the Ordinance. The Company's officers, management, and members of staff shall, at all times, respect the confidentiality of and endeavor to keep safe any and all personal data collected and/or stored and/or transmitted and/or used for, or on behalf of, the Company.
 
@@ -23,7 +22,7 @@ The Company shall endeavor to ensure all collection and/or storage and/or transm
 
 Where an individual legitimately requests access to and/or correction of personal data relating to the individual, held by the Company, then the Company shall provide and/or correct that data in accordance with the times and manner stipulated within the Ordinance.
 
-STATEMENT OF PRACTICES
+**STATEMENT OF PRACTICES**
 
 **Types of Personal Data Collected**
 
@@ -119,13 +118,13 @@ The Company will, upon satisfying itself of the authenticity and validity of the
 
 In accordance with the requirements of the Ordinance, the Company will honor an individual's request not to use his or her personal data for the purposes of direct marketing. Should you wish not to receive direct marketing material from the Company, please write to the Company's Privacy Compliance Officer at the address listed below.
 
+**Lee Kum Kee Company Limited**
+
 2-4 Dai Fat Street, Tai Po Ind. Est. Hong Kong
 
 Any such request should clearly state details of the personal data in respect of which the request is being made. Specifically, we request that you include the corresponding Company assigned account numbers which are printed on the Company's statements/invoices. Please also state clearly the authority under which you are authorized to make such a request.
 
-Unless otherwise instructed as per the above, the Company may use any of the data collected in the normal course of its business for marketing purposes.
-
-RECRUITMENT AND EMPLOYMENT
+Unless otherwise instructed as per the above, the Company may use any of the data collected in the normal course of its business for marketing purposes. **RECRUITMENT AND EMPLOYMENT**
 
 **Recruitment**
 
@@ -181,15 +180,15 @@ Lee Kum Kee Company Limited
 
 2-4 Dai Fat St., Tai Po Ind. Est., Hong Kong
 
-or email to:
-
+or email to:   
 [customer_service@lkk.com](mailto:customer_service@lkk.com?subject=Privacy%20Enquiry)
 
- **李** ******錦** ******記** **-  ** **個** ******人** ******資** ******料** ******私** ******隱** ******的** ******政** ******策**
+  
+**李** ******錦** ******記** **-   ****個** ******人** ******資** ******料** ******私** ******隱** ******的** ******政** ******策**
 
-總 覽
+**總** ******覽**
 
-本 政 策 聲 明 是 根 據 香 港 特 別 行 政 區 《1995 年 個 人 資 料 （ 私 隱 ） 條 例 》 － 第 486 章 （ 「 條 例 」 ） ， 為 李 錦 記 其 附 屬 公 司 、 聯 營 公 司 及 關 聯 公 司 （以 下 統 稱「 本 公 司 」） 就 其 責 任 及 政 策 提 供 資 料 。
+本 政 策 聲 明 是 根 據 香 港 特 別 行 政 區個 人 資 料 （ 私 隱 ） 條 例 》 － 第 486 章 （ 「 條 例 」 ） ， 為 李 錦 記 其 附 屬 公 司 、 聯 營 公 司 及 關 聯 公 司 （以 下 統 稱「 本 公 司 」） 就 其 責 任 及 政 策 提 供 資 料 。
 
 雖 然 此 政 策 特 別 列 出 有 關 本 公 司 於 香 港 特 別 行 政 區 法 例 下 應 負 的 責 任 ， 本 公 司 相 信 條 例 中 保 護 個 人 資 料 的 原 則 與 世 界 各 地 有 關 法 例 是 相 同 的 。 因 此 ， 在 可 行 的 情 況 下 ， 本 公 司 在 世 界 各 地 會 執 行 這 些 原 則 及 此 處 所 制 定 的 程 序 。
 
@@ -197,7 +196,7 @@ or email to:
 
 此 政 策 內 「 個 人 資 料 」 一 詞 含 有 條 例 所 解 釋 的 意 義 。
 
-本 公 司 政 策
+**本** ******公** ******司** ******政** ******策**
 
 本 公 司 遵 守 條 例 的 責 任 及 要 求 ， 屬 下 人 員 、 管 理 層 及 員 工 必 須 時 刻 對 公 司 （ 或 代 表 本 公 司 ） 所 收 集 及 ／ 或 儲 存 及 ／ 或 傳 送 及 ／ 或 使 用 的 所 有 個 人 資 料 保 密 ， 並 妥 善 保 存 。
 
@@ -205,7 +204,7 @@ or email to:
 
 倘 若 個 人 以 合 法 方 式 要 求 取 得 及 ／ 或 修 正 本 公 司 所 持 有 關 於 其 本 人 的 個 人 資 料 ， 本 公 司 會 根 據 條 例 規 定 的 時 限 及 方 式 提 供 及 ／ 或 修 正 上 述 資 料 。
 
-運 作 聲 明
+**運** ******作** ******聲** ******明**
 
 **所** ******收** ******集** ******的** ******個** ******人** ******資** ******料** ******類** ******別**
 
@@ -213,11 +212,11 @@ or email to:
 
 a.       姓 名 ； 
 
-b.       聯 絡 詳 情 ，包 括 聯 絡 人 姓 名 及 電話 號 碼 ， 或 電 郵 地 址。
+b.       聯 絡 詳 情 ，包 括 聯 絡 人 姓 名 及 電 話 號 碼 ， 或 電 郵 地 址。
 
 在 某 些 情 況 下 ， 您 或 需 按 要 求 提 供 若 干 資 料 ， 以 改 善 我 們 的 產 品 及 服 務 ， 為 您 提 供 切 合 需 要 的 資 訊 類 別 。 在 大 部 分 情 況 下 ， 您 可 選 擇 不 提 供 此 類 資 料 。 然 而 ， 若 有 關 的 服 務 是 按 個 人 所 需 而 設 ， 或 產 品 的 供 應 是 需 要 閣 下 提 供 所 有 要 求 的 資 料 ， 不 提 供 此 等 資 料 會 令 本 公 司 不 能 提 供 所 需 的 服 務 。 此 類 資 料 包 括 （ 但 不 限 於 ）：
 
-a.       年 齡 ；
+a.       年 齡 ； 
 
 b.       性 別 ；
 
@@ -225,15 +224,15 @@ c.       薪 金 水 平 及僱 員 資 料 ；
 
 d.       教 育 程 度 及職 業 ；
 
-e.       興 趣 及 公 餘活 動 ；
+e.       興 趣 及 公 餘 活 動 ；
 
-f.        其 他 有 關 並已 使 用 的 產 品 及 服 務； 及
+f.        其 他 有 關 並 已 使 用 的 產 品 及 服 務； 及
 
-g.       家 庭 及 家 居統 計 資 料 。
+g.       家 庭 及 家 居 統 計 資 料 。
 
 本 公 司 的 網 頁 伺 服 器 亦 會 收 集 有 關 您 接 駁 互 聯 網 期 間 的 資 料 ， 以 不 記 名 方 式 作 為 伺 服 器 使 用 量 的 綜 合 統 計 之 用 ， 藉 以 加 強 服 務 ， 更 能 滿 足 到 訪 本 公 司 網 頁 人 士 的 需 要 及 期 望 。 此 類 資 料 包 括 （ 但 不 限 於 ）：
 
-a.       瀏 覽 器 類 型及 版 別 ；
+a.       瀏 覽 器 類 型及 版 別 ； 
 
 b.       操 作 系 統 ；及
 
@@ -243,15 +242,15 @@ c.       互 聯 網 規 程 (IP) 地 址 及 ／ 或網 域 名 稱 。
 
 本 公 司 將 會 根 據 內 部 的 保 存 政 策 ， 銷 毀 所 持 有 的 個 人 資 料 。 此 政 策 指 出 ：
 
-a.       個 人 資 料 會保 存 至 達 到 與 收 集 上述 資 料 之 原 來 目 的 ，或 直 接 有 關 之 目 的 為止 ； 除 非 上 述 個 人 資料 可 根 據 任 何 適 用 法規 或 合 約 規 定 須 予 以保 存 ； 及
+a.       個 人 資 料 會 保 存 至 達 到 與 收 集 上述 資 料 之 原 來 目 的 ，或 直 接 有 關 之 目 的 為止 ； 除 非 上 述 個 人 資 料 可 根 據 任 何 適 用 法規 或 合 約 規 定 須 予 以保 存 ； 及 
 
-b.       根 據 上 述 準則 及 本 公 司 的 內 部 程序 ， 個 人 資 料 在 特 定的 儲 存 期 限 後 便 會 在公 司 的 電 子 、 人 手 及其 他 儲 存 系 統 中 被 清洗 。
+b.       根 據 上 述 準 則 及 本 公 司 的 內 部 程 序 ， 個 人 資 料 在 特 定的 儲 存 期 限 後 便 會 在 公 司 的 電 子 、 人 手 及其 他 儲 存 系 統 中 被 清洗 。
 
 **個** ******人** ******資** ******料** ******的** ******披** ******露**
 
 本 公 司 所 持 有 的 全 部 個 人 資 料 將 予 以 保 密 ， 然 而 本 公 司 可 在 有 需 要 披 露 此 等 資 料 以 達 到 收 集 此 等 資 料 之 目 的 ， 或 直 接 與 其 有 關 之 目 的 時 ， 向 下 述 人 士 披 露 資 料 ：
 
-a.       任 何 附 屬 公司 、 控 股 公 司 、 關 聯公 司 ， 或 由 本 公 司 所持 有 或 與 本 公 司 同 屬一 間 控 制 公 司 的 公 司或 聯 營 公 司 ；
+a.       任 何 附 屬 公司 、 控 股 公 司 、 關 聯 公 司 ， 或 由 本 公 司 所 持 有 或 與 本 公 司 同 屬一 間 控 制 公 司 的 公 司 或 聯 營 公 司 ； 
 
 b.       任 何 代 表 本公 司 ， 或 與 本 公 司 聯營 的 個 人 或 公 司 ， 以達 到 提 供 此 等 資 料 之目 的 ， 或 直 接 與 其 有關 之 目 的 ；
 
@@ -283,7 +282,7 @@ c.       有 責 任 為 本公 司 對 上 述 資 料 保 密的 任 何
 
 根 據 條 例規 定 ， 個 人 可 有 權：
 
-a.       確 定 本 公 司是 否 持 有 關 於 其 本 人的 個 人 資 料 ， 並 （ 如有 者 ） 取 得 該 等 資 料的 副 本 ；
+a.       確 定 本 公 司是 否 持 有 關 於 其 本 人的 個 人 資 料 ， 並 （ 如有 者 ） 取 得 該 等 資 料的 副 本 ； 
 
 b.       要 求 本 公 司改 正 有 關 於 其 本 人 而不 準 確 的 個 人 資 料 以達 至 使 用 該 資 料 之 目的 ； 以 及
 
@@ -301,7 +300,7 @@ c.       確 定 本 公 司有 關 其 本 人 個 人 資 料的 政 策
 
 根 據 條 例 規 定 ， 本 公 司 會 依 從 個 人 的 要 求 ， 不 會 將 其 個 人 資 料 作 為 直 銷 推 廣 之 用 。 若 您 不 想 收 取 本 公 司 的 直 銷 函 件 ， 請 按 下 列 地 址 致 函 本 公 司 的 私 隱 條 例 事 務 主 任 。
 
-**李** ******錦** ******記** ******有** ******限** ******公** ******司** ****
+**李** ******錦** ******記** ******有** ******限** ******公** ******司**
 
 香 港 大 埔 工 業 村 大 發 街 2 至4 號
 
@@ -309,25 +308,25 @@ c.       確 定 本 公 司有 關 其 本 人 個 人 資 料的 政 策
 
 本 公 司 可 將 所 收 集 的 個 人 資 料 作 一 般 市 場 業 務 推 廣 之 用 ， 但 按 上 述 方 式 收 到 另 行 指 示 者 則 除 外 。
 
-招 聘 和 僱 員 有 關 的 個 人 資 料
+**招** ******聘** ******和** ******僱** ******員** ******有** ******關** ******的** ******個** ******人** ******資** ******料**
 
 **招** ******聘**
 
 在 進 行 招 聘 程 序 時 ， 求 職 者 可 能 需 要 提 供 足 夠 的 個 人 資 料 ， 在 適 當 時 該 等 資 料 可 供 本 公 司 作 ：
 
-a.       評 估 求 職 者是 否 適 合 申 請 該 職 位；
+a.       評 估 求 職 者 是 否 適 合 申 請 該 職 位； 
 
-b.       評 估 求 職 者是 否 適 合 本 公 司 其 他職 位 ；
+b.       評 估 求 職 者 是 否 適 合 本 公 司 其 他職 位 ；
 
-c.       決 定 初 步 的薪 酬 和 福 利 ；
+c.       決 定 初 步 的 薪 酬 和 福 利 ；
 
-d.       核 證 求 職 者的 學 歷 及 ∕ 或 經 驗 ； 及
+d.       核 證 求 職 者 的 學 歷 及 ∕ 或 經 驗 ； 及
 
 e.       進 行 保 安 及 ∕ 或 品 格 審 查 。
 
 該 等 個 人 資 料 至 少 包 括 ：
 
-a.       求 職 者 的 姓名 和 聯 絡 資 料 ， 包 括地 址 及 電 話 號 碼 ；
+a.       求 職 者 的 姓名 和 聯 絡 資 料 ， 包 括地 址 及 電 話 號 碼 ； 
 
 b.       求 職 者 的 工作 經 驗 ； 及
 
@@ -337,11 +336,11 @@ c.       求 職 者 的 學歷 和 有 關 的 訓 練 。
 
 求 職 者 有 責 任 確 保 所 有 提 供 的 個 人 資 料 均 為 完 整 和 準 確 ， 提 供 不 準 確 的 資 料 或 拒 絕 提 供 要 求 的 資 料 會 ：
 
-a.       影 響 本 公 司提 出 聘 請 要 求 ；
+a.       影 響 本 公 司 提 出 聘 請 要 求 ； 
 
-b.       如 已 獲 提 出聘 請 要 求 ， 則 該 要 求會 視 作 無 效 ； 或
+b.       如 已 獲 提 出 聘 請 要 求 ， 則 該 要 求 會 視 作 無 效 ； 或
 
-c.       如 當 事 人 已就 職 ， 則 會 被 停 止 僱用 。
+c.       如 當 事 人 已 就 職 ， 則 會 被 停 止 僱用 。
 
 所 提 供 的 個 人 資 料 可 能 會 轉 移 給 本 公 司 參 與 評 估 求 職 者 是 否 適 合 所 申 請 的 職 位 及 ∕ 或 其 他 職 位 的 人 士 。 該 資 料 亦 可 能 因 為 上 述 原 因 轉 移 給 第 三 者 ， 例 如 ： 調 查 機 構 。
 
@@ -355,17 +354,17 @@ c.       如 當 事 人 已就 職 ， 則 會 被 停 止 僱用 。
 
 本 公 司 會 保 存 若 干 已 離 職 僱 員 的 個 人 資 料 ， 本 公 司 需 要 該 等 資 料 作 下 列 用 途 （ 但 不 限 於 ）：
 
-a.       提 供 工 作 表現 評 介 ；
+a.       提 供 工 作 表 現 評 介 ； 
 
-b.       處 理 再 受 聘用 的 申 請 ；
+b.       處 理 再 受 聘 用 的 申 請 ；
 
-c.       有 關 退 休 福利 事 宜 ； 及
+c.       有 關 退 休 福 利 事 宜 ； 及
 
-d.       符 合 合 約 或法 例 的 規 定 。
+d.       符 合 合 約 或 法 例 的 規 定 。
 
 有 關 本 公 司 處 理 僱 員 ， 包 括 已 離 職 的 僱 員 的 個 人 資 料 ， 均 列 於 本 公 司 的 人 力 資 源 政 策 和 僱 員 手 冊 內 。 僱 員 亦 可 向 本 公 司 的 私 隱 條 例 事 務 主 任 或 其 人 力 資 源 代 表 索 取 。
 
-關 於 本 公 司 個 人 資 料 （ 私 隱 ） 條 例 的 聯 絡 詳 情
+**關** ******於** ******本** ******公** ******司** ******個** ******人** ******資** ******料** ******（** ******私** ******隱** ******）** ******條** ******例** ******的** ******聯** ******絡** ******詳** ******情**
 
 任 何 有 關 本 公 司 遵 守 條 例 責 任 的 查 詢 ， 請 致 函 下 列 地 址 ：
 
@@ -374,5 +373,3 @@ d.       符 合 合 約 或法 例 的 規 定 。
 [customer_service@lkk.com](mailto:customer_service@lkk.com?subject=Privacy%20Enquiry)
 
 （ 若 中 、 英 文 版 本 有 歧 異 之 處 ， 應 以 英 文 版 為 準 。 ）
-
-Back to top     
