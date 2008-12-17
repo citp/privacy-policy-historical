@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispreview.co.uk privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612055512id_/http%3A//www.ispreview.co.uk/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispreview.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143223id_/http%3A//www.ispreview.co.uk/policy.shtml) for the most accurate reproduction.*
 
 # ISPreview UK - Independent Internet Service Provider Information Source
 
