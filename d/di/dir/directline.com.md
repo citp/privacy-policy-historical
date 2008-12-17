@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directline.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514220234id_/http%3A//www.directline.com/legal/security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directline.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064607id_/http%3A//www.directline.com/legal/security.htm) for the most accurate reproduction.*
 
 # Direct Line - About us
 
@@ -52,6 +52,8 @@ We may use and share your information with other members of the Group to help us
   * prevent and detect crime;
 
   * understand our customers’ requirements;
+
+  * develop our services, systems and relationships with you;
 
   * develop and test products and services.  
 
