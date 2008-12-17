@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotrythis.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629071855id_/http%3A//www.gotrythis.com/policy_pop.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotrythis.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051008id_/http%3A//www.gotrythis.com/policy_pop.html) for the most accurate reproduction.*
 
 # GoTryTHIS 2: Affiliate Domination Software!
 
