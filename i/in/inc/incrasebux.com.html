@@ -1,0 +1,296 @@
+<!--The following is the downloaded HTML source of the incrasebux.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217044536id_/http%3A//www.incrasebux.com/index.php%3Foption%3Dprivacy) for the most accurate reproduction.-->
+
+<html><head><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5732019-1");
+pageTracker._trackPageview();
+</script>
+
+
+<!--[if lte IE 6]>
+<style type="text/css">
+.clearfix {	height: 1%;}
+</style>
+<![endif]-->
+
+<!--[if gte IE 7.0]>
+<style type="text/css">
+.clearfix {	display: inline-block;}
+</style>
+<![endif]-->
+
+<!--[if gte IE 8.0]>
+<style type="text/css">
+.clearfix {	display: inline-block;}
+</style>
+<![endif]-->
+<script type="text/javascript">
+var persistclose=0 //set to 0 or 1. 1 means once the bar is manually closed, it will remain closed for browser session
+var startX = 0 //set x offset of bar in pixels
+var startY = 0 //set y offset of bar in pixels
+var verticalpos="fromtop" //enter "fromtop" or "frombottom"
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset);
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+function closebar(){
+if (persistclose)
+document.cookie="remainclosed=1"
+document.getElementById("topbar").style.visibility="hidden"
+}
+
+function staticbar(){
+	barheight=document.getElementById("topbar").offsetHeight
+	var ns = (navigator.appName.indexOf("Netscape") != -1) || window.opera;
+	var d = document;
+	function ml(id){
+		var el=d.getElementById(id);
+		if (!persistclose || persistclose && get_cookie("remainclosed")=="")
+		el.style.visibility="visible"
+		if(d.layers)el.style=el;
+		el.sP=function(x,y){this.style.left=x+"px";this.style.top=y+"px";};
+		el.x = startX;
+		if (verticalpos=="fromtop")
+		el.y = startY;
+		else{
+		el.y = ns ? pageYOffset + innerHeight : iecompattest().scrollTop + iecompattest().clientHeight;
+		el.y -= startY;
+		}
+		return el;
+	}
+	window.stayTopLeft=function(){
+		if (verticalpos=="fromtop"){
+		var pY = ns ? pageYOffset : iecompattest().scrollTop;
+		ftlObj.y += (pY + startY - ftlObj.y)/8;
+		}
+		else{
+		var pY = ns ? pageYOffset + innerHeight - barheight: iecompattest().scrollTop + iecompattest().clientHeight - barheight;
+		ftlObj.y += (pY - startY - ftlObj.y)/8;
+		}
+		ftlObj.sP(ftlObj.x, ftlObj.y);
+		setTimeout("stayTopLeft()", 10);
+	}
+	ftlObj = ml("topbar");
+	stayTopLeft();
+}
+
+if (window.addEventListener)
+window.addEventListener("load", staticbar, false)
+else if (window.attachEvent)
+window.attachEvent("onload", staticbar)
+else if (document.getElementById)
+window.onload=staticbar
+</script>
+
+<title>IncraseBux | Easy Way to Earn Money</title>
+
+<link rel="stylesheet" type="text/css" href="images/style.css">
+</head>
+<body style="text-align:center">
+<script language="JavaScript">
+<!--
+function ismaxlength(obj){
+var mlength=obj.getAttribute? parseInt(obj.getAttribute("maxlength")) : ""
+if (obj.getAttribute && obj.value.length>mlength)
+obj.value=obj.value.substring(0,mlength)
+}
+//-->
+</script>
+<!-- wrap starts here -->
+<table width="778" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+<td>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="10" height="9" background="images/b_01.png"><img src="images/spacer.gif" width="1" height="1"></td>
+<td height="9" background="images/b_02.png"><img src="images/spacer.gif" width="1" height="1"></td>
+<td width="16" height="9" background="images/b_04.png"><img src="images/spacer.gif" width="1" height="1"></td>
+</tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="3" background="images/b_07.png"><img src="images/spacer.gif"></td>
+<td style="height: 3px; background-color: #BCD735;"></td>
+<td width="9" background="images/b_10.png"><img src="images/spacer.gif"></td>
+</tr>
+<tr>
+<td width="3" background="images/b_07.png"><img src="images/spacer.gif"></td>
+<td align="" style="background: url('images/nav_bar_bg.gif') repeat top left;">
+				<div style="text-align: center;" id="navbar">
+				<ul>
+	        <li>Guest [<a href="login.php">Login</a> | <a href="register.php">Register</a>]</li>				</ul>
+				</div>
+</td>
+<td width="9" background="images/b_10.png"><img src="images/spacer.gif"></td>
+</tr>
+<tr>
+<td width="3" background="images/b_07.png"><img src="images/spacer.gif"></td>
+<td style="height: 3px; background-color: #BCD735;"></td>
+<td width="9" background="images/b_10.png"><img src="images/spacer.gif"></td>
+</tr>
+<tr>
+<td width="3" background="images/b_07.png"><img src="images/spacer.gif"></td>
+<td background="images/bg_green_white.gif">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+  <td width="22%"><a href="index.php" title="IncraseBux | Easy Way to Earn Money"><img border="0" src="images/logo.jpg" title="IncraseBux | Easy Way to Earn Money - Logo"> </a></td>
+  <td width="23%">&nbsp;</td>
+  <td width="41%" align="center" valign="middle"><div align="center">
+    <a href="http://www.neobux.com/?r=nferreira" target="_blank"><img src="http://www.neobux.com/imagens/banner/?u=nferreira&amp;u2=1404" border="0"></a>    <br>
+    <font size="1">Your Banner 468X60px Here. One Week in Rotation. More 5.000 visits per day! <font color="#CC3300"><b>$5.00</b></font>: <a href="buybannerHeader.php" target="_blank"><font color="#000000">Click Here.</font></a></font>
+  
+  </div></td>
+  <td width="8%">&nbsp;</td>
+  <td width="6%">
+</td>
+</tr>
+</tbody></table>
+</td>
+<td width="9" background="images/b_10.png"><img src="images/spacer.gif"></td>
+</tr>
+<tr>
+<td width="3" background="images/b_07.png"><img src="images/spacer.gif"></td>
+<td id="menu" height="39" width="766" style="background:url(images/bg-nav.jpg) repeat-x">
+<div id="menu_left">
+		<ul>
+        <li><a href="index.php?option=home">Home</a></li>
+				   <li><a href="index.php?option=surf">Surf Ads</a></li>
+                   <li><a href="index.php?option=how">How</a></li>
+				   <li><a href="index.php?option=faq">FAQ</a></li>
+				   <li><a href="index.php?option=advertise">Advertise</a></li>
+				   <li><a href="index.php?option=bball">Bonus Ball</a></li>
+				   <li><a target="_blank" href="http://incrasebux.com/forum">Forum</a></li>
+                   <li><a href="index.php?option=support">Contact</a></li>		</ul>
+</div>
+</td>
+<td width="9" background="images/b_10.png"><img src="images/spacer.gif"></td>
+</tr>
+</tbody></table>
+
+<!-- content begin here -->
+<style type="text/css">
+<!--
+.style1 {color: #804000}
+.style3 {
+	font-size: 14px;
+	color: #FF3300;
+}
+-->
+</style>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="3" background="images/b_07.png"><img src="images/spacer.gif"></td>
+<td class="mainbg" align="center" valign="top" bgcolor="#FFFFFF">
+<table width="95%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td align="center">
+
+
+<table width="100%" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td class="main" style="width: 80%; vertical-align: top;">
+					<br>
+<h3>Privacy Policy</h3>
+<br>
+This is the web site of IncraseBux, Ltd.
+<br><br>
+We can be reached via contact form.
+<br><br>
+<b>Cookies:</b> With respect to cookies: We use cookies to store visitors preferences.
+<br><br>
+<b>Information we collect:</b> We accumulate and store all user inputted information as well as your IP address browser information &amp; date and time of the record conception upon registration. We never treat users differently in anyway related to sensitive information.
+<br><br>
+<b>Account security:</b> User information such as your e-mail and Alertpay addresses will never be revealed.
+<br><br>
+<b>3rd party privacy:</b> For the privacy acts of 3rd party links to other sites which include banner, popup and text link adverts as well as general advertising links that may be displayed all throughout the IncraseBux website we do not take responsibility
+<br><br>
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+<br><br>
+
+		</td>
+			</tr>
+			</tbody></table>
+
+                        <br>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+<td width="9" background="images/b_10.png"><img src="images/spacer.gif"></td>
+</tr>
+</tbody></table>
+	<!-- content-wrap ends here -->	
+<style type="text/css">
+<!--
+.style1 {color: #FF8040}
+-->
+</style>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+<td width="3" background="images/b_07.png"><img src="images/spacer.gif"></td>
+<td width="9" background="images/b_10.png"><img src="images/spacer.gif"></td>
+</tr></tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="3" background="images/b_07.png"><img src="images/spacer.gif"></td>
+<td style="height: 3px; background-color: #BCD735;"></td>
+<td width="9" background="images/b_10.png"><img src="images/spacer.gif"></td>
+</tr>
+<tr>
+<td width="3" background="images/b_07.png"><img src="images/spacer.gif"></td>
+<td align="center" id="btmnavbar" style="background: url('images/nav_bar_bg.gif') repeat top left; padding-bottom:5px; padding-top:5px;" class="txt_white">
+        <a href="index.php?option=privacy">Privacy</a> | <a href="index.php?option=how">How</a> | <a href="index.php?option=faq">FAQ</a> | <a href="index.php?option=tos">TOS</a> | <a target="_blank" href="http://incrasebux.com/forum">Forum</a> | <a href="index.php?option=banner">Banner</a> | <a href="/forum/viewforum.php?f=7">Payments Proof's</a> | <a href="buyref.php?refs=35">Rent Referrals</a> | <a href="upgrade.php">Upgrade</a></td>
+<td width="9" background="images/b_10.png"><img src="images/spacer.gif"></td>
+</tr>
+<tr>
+<td width="3" background="images/b_07.png"><img src="images/spacer.gif"></td>
+<td style="height: 3px; background-color: #BCD735;"></td>
+<td width="9" background="images/b_10.png"><img src="images/spacer.gif"></td>
+</tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="3" background="images/b_07.png"><img src="images/spacer.gif"></td>
+<td height="24px" background="images/footer.png" class="style1" id="footer"><div align="center">Powered By © IncraseBux 2008 | All Rights Reserved</div></td>
+<td width="9" background="images/b_10.png"><img src="images/spacer.gif"></td>
+</tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="11" height="16" background="images/b_13.png"><img src="images/spacer.gif" width="3"></td>
+<td height="16" background="images/b_15.png"><img src="images/spacer.gif" width="8" height="8"></td>
+<td width="9" background="images/b_17.png"><img src="images/spacer.gif" width="16" height="16"></td>
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+
+
+</body></html>
