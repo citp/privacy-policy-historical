@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcbanking.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509191007id_/http%3A//www.fcbanking.com/Footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcbanking.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090126id_/http%3A//www.fcbanking.com/Footer/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ This policy covers Client Information, which means personally identifiable infor
 
 This policy is provided to you annually as required by the Federal Financial Privacy Law.
 
-If you previously exercised your option to limit the sharing of Client Information among First Commonwealth Companies, you don't need to take any additional action. We will continue to honor your request.
+If you previously exercised your option to limit the sharing of Client Information among First Commonwealth Companies, or limit marketing offers from First Commonwealth Companies, you don't need to take any additional action.
 
 #### Protecting information about you from marketers outside First Commonwealth
 
@@ -87,9 +87,11 @@ You have a choice when it comes to how First Commonwealth shares certain types o
 
 #### Sharing among First Commonwealth companies
 
-You may request that Application Information, Consumer Report Information and Information from Outside Sources not be shared among First Commonwealth companies. However, through the normal course of doing business, we will continue to share Transaction and Experience Information among our companies to service your accounts and better meet your financial needs.
+Affiliate sharing: You may request that Application Information, Consumer Report Information and Information from Outside Sources not be shared among First Commonwealth companies. However, through the normal course of doing business, we will continue to share Transaction and Experience Information among our companies to service your accounts and better meet your financial needs.
 
-If you do not want First Commonwealth to share Application Information, Consumer Report Information and Information from Outside Sources among First Commonwealth Companies, you can tell us that is your preference by:
+Affiliate marketing: Federal law gives you the right to limit some but not all marketing offers from our family of First Commonwealth companies. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our affiliates. You may limit the First Commonwealth companies, such as the bank and insurance agency affiliates, from marketing their products and services to you if you do not have an account or business relationship with them. These marketing offers are based on your personal information that they receive from other First Commonwealth companies. This information includes your income, your account history, and your credit score. Your choice to limit marketing offers from the First Commonwealth companies will apply until you tell us to change your choice.
+
+If you do not want First Commonwealth to share Application Information, Consumer Report Information and Information from Outside Sources among First Commonwealth companies, or you want First Commonwealth to limit marketing offers, you can tell us that by:
 
   1. Calling us toll-free at 1.888.711.2265 and using our Convenience Banking Line. You will need a touch-tone phone for this option.
   2. Calling us toll-free at 1.800.711.2265 and talking with a Convenience Banking Center representative.
