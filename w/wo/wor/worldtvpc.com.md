@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtvpc.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609052202id_/http%3A//www.worldtvpc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtvpc.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217034703id_/http%3A//www.worldtvpc.com/privacy.php) for the most accurate reproduction.*
 
 # Free tv, Internet TV Online, watch World TV on your PC, totally free satellite worldwide internet pc tv portal movies scifi cartoons adult news HDTV PCTV and many more channels
 
