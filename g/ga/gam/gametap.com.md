@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametap.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215152338id_/http%3A//www.gametap.com/home/common/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametap.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063523id_/http%3A//www.gametap.com/common/privacy_policy.jsp) for the most accurate reproduction.*
 
 # GameTap - Privacy Policy
 
@@ -78,7 +78,7 @@ back to top
 
 SPECIAL NOTE FOR PARENTS
 
-Visitors to GameTap's website may participate inÂ activities without providing any personally identifiable information. However, if a user wants to receive emails from GameTap, or wants to access GameTap's broadband gaming network, we ask the user to provide us with personal information, including name, screen name, e-mail address, gender, and/or age information. If a visitor to GameTap's website self-identifies as under 13 years of age, we will either collect no personally identifiable information from that individual, inform the child that a parent's verifiable consent is required, or we will collect the e-mail address of the user's parent in addition to the user's e-mail address. We use the parent's e-mail address to seek the parent's verifiable consent or notify the parent of his/her child's online activities and enable the parent to unsubscribe his/her child from a newsletter or other similar activity. For children joining the GameTap service, we will ask parents to create sub accounts and obtain their prior consent prior to collecting personally identifiable information from their children. If a user is under 13, we will not condition his/her participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. We do not share children's personally identifiable information with outside third parties not bound by this privacy notice for their own marketing purposes.
+Visitors to GameTap's website may participate in activities without providing any personally identifiable information. However, if a user wants to receive emails from GameTap, or wants to access GameTap's broadband gaming network, we ask the user to provide us with personal information, including name, screen name, e-mail address, gender, and/or age information. If a visitor to GameTap's website self-identifies as under 13 years of age, we will either collect no personally identifiable information from that individual, inform the child that a parent's verifiable consent is required, or we will collect the e-mail address of the user's parent in addition to the user's e-mail address. We use the parent's e-mail address to seek the parent's verifiable consent or notify the parent of his/her child's online activities and enable the parent to unsubscribe his/her child from a newsletter or other similar activity. For children joining the GameTap service, we will ask parents to create sub accounts and obtain their prior consent prior to collecting personally identifiable information from their children. If a user is under 13, we will not condition his/her participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. We do not share children's personally identifiable information with outside third parties not bound by this privacy notice for their own marketing purposes.
 
 Please send a letter or postcard to our Privacy Manager at the mailing address provided below if you would like to review any of the personally identifiable information we have collected online from your child, or if you would like to do any of the following:
 
@@ -117,13 +117,13 @@ THIRD-PARTY AD SERVERS
 
 We and our advertisers may use third parties to serve or present the ads that appear on our site and to conduct research about the advertisements. Below is a representative list of such third parties and a link to their privacy notices. For more information, clink on the links below. For more information about third-party ad servers generally, visit [click here.](http://www.networkadvertising.org/)  
 Atlas DMT: [http://www.networkadvertising.org](http://www.networkadvertising.org/) or <http://www.atlasdmt.com/privacy/>  
-Bluestreak: [http://www.networkadvertising.org](http://www.networkadvertising.org/) or <http://www.bluestreak.com/privacy.asp>  
+Bluestreak: [http://www.networkadvertising.org](http://www.networkadvertising.org/) or <http://www.bluestreak.com/privacy/privacy.asp>  
 DoubleClick: [http://www.networkadvertising.org](http://www.networkadvertising.org/) or <http://www.doubleclick.com/us/corporate/privacy>  
 Eyeblaster: <http://www.eyeblaster.com/privacy.asp>  
 Dynamic Logic: <http://www.dynamiclogic.com/privacy_policy.php>  
 Klipmart: <http://www.klipmart.com/>  
 Millward Brown IntelliQuest: <http://www.intelliquest.com/privacy/intro.asp>  
-Unicast: <http://www.unicast.com/company/privacy.asp>
+Unicast: <http://www.unicast.com/privacy-policy.shtml>
 
 back to top
 
