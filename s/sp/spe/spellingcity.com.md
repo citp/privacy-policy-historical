@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spellingcity.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518175846id_/http%3A//www.spellingcity.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2%26Itemid%3D32%26PHPSESSID%3D7d07182a3fe3f3509f6dc7d60f0dfc08) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellingcity.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041043id_/http%3A//www.spellingcity.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2%26Itemid%3D32) for the most accurate reproduction.*
 
-# Privacy Policy - SpellingCity.com
+# SpellingCity.com - Privacy Policy
 
 At SpellingCity.com, we strongly feel that children’s safety, which is related to privacy, is all-important. If you have questions or comments on our policy, we would like to hear from you. info  at  spellingcity.com. Our site complies with the Children’s Online Privacy Protection Act “COPPA”, which you may read about [here](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm).
 
@@ -14,7 +14,7 @@ Children on the internet should be closely supervised and instructed about secur
 
 **What about the collection of information by third parties?**
 
-Our web site contains links to web sites not maintained by SpellingCity.com. Although we do our best to ensure that such web sites maintain the highest standards for privacy policy,  the privacy and data collection practices on any linked web sites are entirely separate from ours and are not covered by this Privacy Policy.   As a policy, we do not take our users to sites where an email or other personal information is solicited.  However, we cannot guarantee that this will not occur. 
+Our web site contains links to web sites not maintained by SpellingCity.com. Although we do our best to ensure that such web sites maintain the highest standards for privacy policy,  the privacy and data collection practices on any linked web sites are entirely separate from ours and are not covered by this Privacy Policy.   As a policy, we do not take our users to sites where an email or other personal information is solicited.  However, we cannot guarantee that this will not occur.  
 
 **What security measures do we take?**
 
@@ -38,4 +38,6 @@ SpellingCity.com exists to serve and provide a safe positive experience for chil
 
 Your use of this site is conditioned on your having accepted these terms. You should check back to this policy frequently, since it is subject to change from time to time, and your continued use of the site is conditioned upon your acceptance of any modifications hereto. 
 
-We want to make this service useful to families and to provide parents and caregivers a service with which they are happy to have their children interact, learn and play. If you have any comments or questions, we'd like to hear them. This is, after all, built for you.    info   at  SpellingCity.com
+We want to make this service useful to families and to provide parents and caregivers a service with which they are happy to have their children interact, learn and play. If you have any comments or questions, we'd like to hear them. This is, after all, built for you.    info   at  SpellingCity.com.
+
+Registration with SpellingCity.com includes an option to receive periodic email updates about SpellingCity and other services and products that might be of interest.  SpellingCity is related to Time4Learning.com: an online learning service popular as a [homeschool curriculum](http://www.time4learning.com/homeSchool-curriculum.htm "homeschool curriculum") , for afterschool supplementary education, and for summer skills sharpening. 
