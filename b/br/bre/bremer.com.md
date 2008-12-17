@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bremer.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630075314id_/http%3A//www.bremer.com/Home/Content.aspx%3Fid%3D137) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bremer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123128id_/http%3A//bremer.com/Home/Content.aspx%3Fid%3D137) for the most accurate reproduction.*
 
 # Bremer Bank - Privacy Policy - Protecting Your Privacy
 
