@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followfollow.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609142118id_/http%3A//www.followfollow.com/feedback/loadpriv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followfollow.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161954id_/http%3A//www.followfollow.com/feedback/loadpriv.asp) for the most accurate reproduction.*
 
 # Rangers FC News - FollowFollow.com
 
@@ -8,7 +8,7 @@
 
 Your privacy is of the utmost importance to us. We gather certain types of information about our users, therefore we feel you should fully understand the terms and conditions surrounding the capture and use of that information. Please find below our privacy policy. 
 
-We are Entertainment & Sports Agency Limited and we own and operate this website ('FollowFollow.com', at www.followfollow.com). Our registered address is 4th Floor, Ashworth House, Manchester Road, Burnley, Lancs BB11 1TT. Please read the following policy to understand how we will deal with your personal data after it has been collected by us through your use of one of our platforms. Those platforms include our website, and any other channels as they evolve. 
+We are Entertainment & Sports Agency Limited and we own and operate this website ('FollowFollow.com', at www.followfollow.com). Our registered address is: Dawson Court, Billington Road Industrial Estate, Burnley, Lancashire BB10 5UB. Please read the following policy to understand how we will deal with your personal data after it has been collected by us through your use of one of our platforms. Those platforms include our website, and any other channels as they evolve. 
 
 **_Compliance with legislation_**
 
