@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sunlife.ca privacy policy that was archived on 2008-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080628044909id_/http%3A//www.sunlife.ca/canada/v/index.jsp%3Fvgnextoid%3De0555ee947cce010VgnVCM1000006c90d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sunlife.ca privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217064141id_/http%3A//www.sunlife.ca/canada/v/index.jsp%3Fvgnextoid%3De0555ee947cce010VgnVCM1000006c90d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -16,7 +16,7 @@
 <meta name="Sponsor" content="META-SPONS-IT">
 <meta name="Resource-type" content="META-RES-TYP-INDEXPG-INDEXPG">
 <meta name="Delivery-method" content="META-DEL-MTHD-ONLINE">
-<meta name="Last-modified-date" content="2008-04-14 13:09:01.0">
+<meta name="Last-modified-date" content="2008-12-09 12:26:52.0">
 <meta http-equiv="content-language" content="en"><title>Privacy</title>
 
 
@@ -254,24 +254,161 @@
 <!--
 	function isEmpty(s) { return ((s == null) || (s.length == 0)) }
 	
+		
+	function IsNumeric(form,sField)
+   {
+   	var dlang=form.elements["lang"].value;
+   	var sText=sField.value;
+   var ValidChars = "0123456789";
+   var IsNumber=true;
+   var Char;
+   var sMessage="Please enter a numeric value.";
+  if(dlang=="fr-CA") 
+		{
+			sMessage="S'il vous plaît entrer une valeur numérique.";
+		}
+   for (i = 0; i < sText.length && IsNumber == true; i++) 
+      { 
+      Char = sText.charAt(i); 
+      if (ValidChars.indexOf(Char) == -1) 
+         {
+          IsNumber=false;
+         }
+      }
+      if(IsNumber==false)
+      {
+      	alert(sMessage);
+      	document.getElementById(sField.name).focus();
+      	}
+   return IsNumber;
+   
+   }
+	
 	function go(form)
 	{
+			if(!(form.elements["rs_cs14e"].value =="" && form.elements["rs_cs14f"].value==""))
+			{
+				if(form.elements["rs_radio_cs14x"][0].checked==false && form.elements["rs_radio_cs14x"][1].checked==false)
+				form.elements["rs_radio_cs14x"][1].checked=true
+				if(form.elements["rs_cs14e"].value =="" && form.elements["rs_cs14f"].value!="")
+				form.elements["rs_cs14e"].value ='0'
+				if(form.elements["rs_cs14e"].value !="" && form.elements["rs_cs14f"].value=="")
+				form.elements["rs_cs14f"].value ='0'
+				}
+			
+			if(!(form.elements["rs_cs15e"].value =="" && form.elements["rs_cs15f"].value==""))
+			{
+			  if(form.elements["rs_radio_cs15x"][0].checked==false && form.elements["rs_radio_cs15x"][1].checked==false)
+			  form.elements["rs_radio_cs15x"][1].checked=true
+			  if(form.elements["rs_cs15e"].value =="" && form.elements["rs_cs15f"].value!="")
+				form.elements["rs_cs15e"].value ='0'
+				if(form.elements["rs_cs15e"].value !="" && form.elements["rs_cs15f"].value=="")
+				form.elements["rs_cs15f"].value ='0'
+				}
+			
+		/*	if(form.elements["rs_bs6t"].value !="")
+			{
+			if(form.elements["rs_bs6e"].value!=""  && form.elements["rs_bs6f"].value=="")
+			form.elements["rs_bs6f"].value ='0'
+			if(form.elements["rs_bs6f"].value!=""  && form.elements["rs_bs6e"].value=="")
+			form.elements["rs_bs6e"].value ='0'
+			}
+			
+			if(form.elements["rs_bs5t"].value !="")
+			{
+			if(form.elements["rs_bs5e"].value!=""  && form.elements["rs_bs5f"].value=="")
+			form.elements["rs_bs5f"].value ='0'
+			if(form.elements["rs_bs5f"].value!=""  && form.elements["rs_bs5e"].value=="")
+			form.elements["rs_bs5e"].value ='0'
+			}*/
+			
+			if(form.elements["rs_os1x"].value !="")
+			{
+			if(form.elements["rs_os1e"].value!=""  && form.elements["rs_os1f"].value=="")
+			form.elements["rs_os1f"].value ='0'
+			if(form.elements["rs_os1f"].value!=""  && form.elements["rs_os1e"].value=="")
+			form.elements["rs_os1e"].value ='0'
+			}
+						
+			if(form.elements["rs_os2x"].value !="")
+			{
+			if(form.elements["rs_os2e"].value!=""  && form.elements["rs_os2f"].value=="")
+			form.elements["rs_os2f"].value ='0'
+			if(form.elements["rs_os2f"].value!=""  && form.elements["rs_os2e"].value=="")
+			form.elements["rs_os2e"].value ='0'
+			}
+			
 		var errArray = new Array();	
-		if (isEmpty(form.elements["rs_name"].value)) { errArray[errArray.length] = "Company name"; }
-		if (isEmpty(form.elements["rs_contract"].value)) { errArray[errArray.length] = "Contract number"; }
-		if (isEmpty(form.elements["rs_bill"].value)) { errArray[errArray.length] = "Billing group"; }
-		if (isEmpty(form.elements["rs_addr"].value)) { errArray[errArray.length] = "Shipping address"; }
-		if (isEmpty(form.elements["rs_post"].value)) { errArray[errArray.length] = "Postal code"; }
-		if (isEmpty(form.elements["rs_attn"].value)) { errArray[errArray.length] = "Contact person"; }
-		if (isEmpty(form.elements["rs_tel"].value)) { errArray[errArray.length] = "Telephone number"; }
+		var dlang=form.elements["lang"].value;
+		var mandatoryAlert="Please supply the following information: ";
+		var companyName = "Company Name";
+		var contractNumber = "Contract number";
+		var billingGroup = "Billing group";
+		var shippingAddr = "Shipping Address";
+		var postalCode = "Postal code";
+		var contactPerson = "Contact person";
+		var telphoneNumber = "Telephone number";
+		var otherSuppClassAlert="Please mention the form name for Other Supplies.";
+		var emplBookletClassAlert="Please mention the class name for Employee Benefits Booklets.";
+		var classCheck="";
+			
+		if(dlang=="fr-CA") 
+		{
+			mandatoryAlert="S'il vous plaît fournir les informations suivantes: ";
+			companyName = "Nom de l'entreprise";
+			contractNumber = "Numéro  de contrat";
+			billingGroup = "Unité  de facturation";
+			shippingAddr = "Adresse";
+			postalCode = "Code postal";
+			contactPerson = "À l'attention de";
+			telphoneNumber = "Numéro de téléphone";
+			otherSuppClassAlert="S'il vous plaît mentionner le nom du formulaire pour d'autres fournitures.";
+			emplBookletClassAlert="S'il vous plaît mentionner le nom de classe pour les employés des avantages Brochures.";
+			}
 		
-		if (errArray.length == 0) { 
-		return true; 
-		} else {
-			alert("Please supply the following information: "+errArray);
-			form.elements["rs_name"].focus();
-			return false;
+
+		if (isEmpty(form.elements["rs_name"].value)) { errArray[errArray.length] =  companyName; }
+		if (isEmpty(form.elements["rs_contract"].value)) { errArray[errArray.length] =  contractNumber; }
+		if (isEmpty(form.elements["rs_bill"].value)) { errArray[errArray.length] =  billingGroup; }
+		if (isEmpty(form.elements["rs_addr"].value)) { errArray[errArray.length] =  shippingAddr; }
+		if (isEmpty(form.elements["rs_post"].value)) { errArray[errArray.length] =  postalCode; }
+		if (isEmpty(form.elements["rs_attn"].value)) { errArray[errArray.length] =  contactPerson; }
+		if (isEmpty(form.elements["rs_tel"].value)) { errArray[errArray.length] =  telphoneNumber; }
+		
+		if((form.elements["rs_os1x"].value =="" && (form.elements["rs_os1e"].value!=""  || form.elements["rs_os1f"].value!=""))||(form.elements["rs_os2x"].value =="" && (form.elements["rs_os2e"].value!=""  || form.elements["rs_os2f"].value!="")))
+		{
+			classCheck=classCheck+"\n"+otherSuppClassAlert;
 		}
+		if((form.elements["rs_bs5t"].value =="" && (form.elements["rs_bs5e"].value!=""  || form.elements["rs_bs5f"].value!=""))||(form.elements["rs_bs6t"].value =="" && (form.elements["rs_bs6e"].value!=""  || form.elements["rs_bs6f"].value!="")))
+		{
+			classCheck=classCheck+"\n"+emplBookletClassAlert;
+		}
+		
+		if (errArray.length == 0) 
+		{
+		 if(classCheck.length==0) 
+		 {
+			return true; 
+		 }
+		 else
+		 {	
+		 	alert(classCheck);
+		  return false;
+		 }
+		}
+		else 
+			{
+		   if(classCheck.length==0) 
+		   {
+		   	alert(mandatoryAlert+errArray);
+			  form.elements["rs_name"].focus();
+		   }
+		   else
+		   {	
+			  alert(mandatoryAlert+errArray+classCheck);
+		   }
+			return false;
+		 }
 	}
 
 //-->
@@ -352,10 +489,10 @@
 
 
 <div id="stockTickerTop" class="stockTickerUpper">
-    SLF (TSX) 42.11 -0.120
+    SLF (TSX) 25.25 +1.850
 </div>
 <div id="stockTickerBottom" class="stockTickerLower">
-    as of 6/27/2008 16:10 ET
+    as of 12/16/2008 16:58 ET
 </div>
 
 <!-- end stockTicker -->
@@ -367,7 +504,6 @@
         </div>
 
         
-
 
         <div class="utilityHeader">
             <img align="absbottom" src="/canada/appImages/utility_hdr.gif" class="utilityHeaderGraphic" alt="">
@@ -445,9 +581,9 @@
 <!-- start topNav_override -->
 
 
-<div class="topnav"><ul><li class="topnavlevel1on"><a class="sunlifeCA" href="/canada/v/index.jsp?vgnextoid=9788e7a80ca5d010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=9788e7a80ca5d010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Home<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="My_financial_plan" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=5a6958c4afb03110vgnprod10000d490d09fRCRD&amp;vgnextchannel=5a6958c4afb03110vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA" target="_self">My financial plan<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Why_plan" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=aa5b58c4afb03110vgnprod10000d490d09fRCRD&amp;vgnextchannel=aa5b58c4afb03110vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Why plan<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="My_plan" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=d4b1c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=d4b1c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">My plan<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Health" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=baf2c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=baf2c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Health<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Life" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=ca42c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=ca42c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Life<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Investments" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=e2c3c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=e2c3c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Investments<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="Products_and_Services" href="/canada/v/index.jsp?vgnextoid=12537666bb9ca010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=12537666bb9ca010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Products and services<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Health_insurance" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=baf2c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnLocale=en_CA&amp;chnpath=%2FHealth" target="_self">Health insurance<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Insurance" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=ae0e7f2bc7da5110VgnVCM1000002dd2d09fRCRD&amp;vgnLocale=en_CA&amp;chnpath=%2FLife" target="_self">Life insurance<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Investments" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=e2c3c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=e2c3c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Investments<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Group_Benefits" href="/canada/v/index.jsp?vgnextoid=f1e77666bb9ca010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=f1e77666bb9ca010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Group Benefits<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Group_Benefits_-_SunAdvantage_Small_Business" href="http://www.sunlife.ca/smallbusiness" target="_self">Group Benefits - SunAdvantage Small Business<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Group_Retirement_Services" href="/canada/v/index.jsp?vgnextoid=e308e5afe1dca010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=e308e5afe1dca010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Group Retirement Services<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Association_&amp;_Affinity_Business" href="/canada/v/index.jsp?vgnextoid=5128e5afe1dca010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=5128e5afe1dca010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Association &amp; Affinity Business<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Reinsurance" href="/canada/v/index.jsp?vgnextoid=3338e5afe1dca010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=3338e5afe1dca010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Reinsurance<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Total_Benefits" href="/canada/v/index.jsp?vgnextoid=e75cbea9483de010VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=e75cbea9483de010VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Total Benefits<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="Careers" href="/canada/v/index.jsp?vgnextoid=e5237666bb9ca010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=e5237666bb9ca010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Careers<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Become_an_employee" href="/canada/v/index.jsp?vgnextoid=8036f633568b4110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=8036f633568b4110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Become an employee<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Become_an_advisor" href="/canada/v/index.jsp?vgnextoid=dca6f633568b4110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=dca6f633568b4110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Become an advisor<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Become_a_long_term_care_insurance_specialist" href="/canada/v/index.jsp?vgnextoid=0f07f633568b4110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=0f07f633568b4110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Become a long term care specialist<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="About_SLF" href="/canada/v/index.jsp?vgnextoid=20217ea8b4ccd010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=20217ea8b4ccd010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">About us<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Serving_you_in_Canada" href="/canada/v/index.jsp?vgnextoid=93b35f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=93b35f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Serving you in Canada<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Why_us?" href="/canada/v/index.jsp?vgnextoid=78045f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=78045f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Why us?<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="SLF_Canada's_culture_principles" href="/canada/v/index.jsp?vgnextoid=56a55f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=56a55f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">SLF Canada's culture principles in Canada<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Events" href="/canada/v/index.jsp?vgnextoid=74e65f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=74e65f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Events<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="News_releases" href="/canada/v/index.jsp?vgnextoid=2abb764f5826e010vgnprod10000d490d09fRCRD&amp;vgnextchannel=2abb764f5826e010vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">News releases<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul></div>
+<div class="topnav"><ul><li class="topnavlevel1on"><a class="sunlifeCA" href="/canada/v/index.jsp?vgnextoid=9788e7a80ca5d010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=9788e7a80ca5d010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Home<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="My_financial_plan" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=5a6958c4afb03110vgnprod10000d490d09fRCRD&amp;vgnextchannel=5a6958c4afb03110vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA" target="_self">My financial plan<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Why_plan" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=aa5b58c4afb03110vgnprod10000d490d09fRCRD&amp;vgnextchannel=aa5b58c4afb03110vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Why plan<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="My_plan" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=d4b1c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=d4b1c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">My plan<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="My_retirement" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=4aad0d738007b110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=4aad0d738007b110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">My retirement<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Investments" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=e2c3c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=e2c3c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Investments<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Life" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=ca42c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=ca42c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Life<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Health" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=baf2c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=baf2c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Health<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="Products_and_Services" href="/canada/v/index.jsp?vgnextoid=12537666bb9ca010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=12537666bb9ca010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Products and services<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Health_insurance" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=baf2c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnLocale=en_CA&amp;chnpath=%2FHealth" target="_self">Health insurance<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Insurance" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=ae0e7f2bc7da5110VgnVCM1000002dd2d09fRCRD&amp;vgnLocale=en_CA&amp;chnpath=%2FLife" target="_self">Life insurance<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Investments" href="http://www.sunlife.ca/plan/v/index.jsp?vgnextoid=e2c3c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=e2c3c61b057a5110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Investments<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Group_Benefits" href="/canada/v/index.jsp?vgnextoid=f1e77666bb9ca010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=f1e77666bb9ca010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Group Benefits<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Group_Benefits_-_SunAdvantage_Small_Business" href="http://www.sunlife.ca/smallbusiness" target="_self">Group Benefits - SunAdvantage Small Business<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Group_Retirement_Services" href="/canada/v/index.jsp?vgnextoid=e308e5afe1dca010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=e308e5afe1dca010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Group Retirement Services<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Association_&amp;_Affinity_Business" href="/canada/v/index.jsp?vgnextoid=5128e5afe1dca010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=5128e5afe1dca010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Association &amp; Affinity Business<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Reinsurance" href="/canada/v/index.jsp?vgnextoid=3338e5afe1dca010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=3338e5afe1dca010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Reinsurance<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Total_Benefits™" href="/canada/v/index.jsp?vgnextoid=e75cbea9483de010VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=e75cbea9483de010VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Total Benefits™<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="Careers" href="/canada/v/index.jsp?vgnextoid=e5237666bb9ca010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=e5237666bb9ca010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Careers<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Become_an_employee" href="/canada/v/index.jsp?vgnextoid=8036f633568b4110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=8036f633568b4110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Become an employee<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Become_an_advisor" href="/canada/v/index.jsp?vgnextoid=dca6f633568b4110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=dca6f633568b4110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Become an advisor<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Become_a_long_term_care_insurance_specialist" href="/canada/v/index.jsp?vgnextoid=0f07f633568b4110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=0f07f633568b4110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Become a long term care specialist<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="About_SLF" href="/canada/v/index.jsp?vgnextoid=20217ea8b4ccd010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=20217ea8b4ccd010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">About us<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Serving_you_in_Canada" href="/canada/v/index.jsp?vgnextoid=93b35f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=93b35f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Serving you in Canada<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Why_us?" href="/canada/v/index.jsp?vgnextoid=78045f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=78045f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Why us?<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="SLF_Canada's_culture_principles" href="/canada/v/index.jsp?vgnextoid=56a55f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=56a55f4a9b8ae010VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">SLF Canada's culture principles in Canada<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="News_releases" href="/canada/v/index.jsp?vgnextoid=2abb764f5826e010vgnprod10000d490d09fRCRD&amp;vgnextchannel=2abb764f5826e010vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">News releases<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul></div>
 <!-- end topNav_override -->
-<!-- time: 864 ms -->
+<!-- time: 912 ms -->
 <!-- sbdebug: init -->
 
 
@@ -470,7 +606,6 @@
 
 <div id="bannerBkgd" class="bannerBkgd">
     
-
     <img alt="Header Yellow Background Image" src="/static/canada/Images Shared/sa_u_hdr_yellowbg_773w43.gif">
 
 </div>
@@ -479,7 +614,7 @@
     Privacy
 </div>
 
-<!-- banner_include time: 0 ms -->
+<!-- banner_include time: 3 ms -->
 
 
             </div>
@@ -492,7 +627,7 @@
 
 
 
-<!-- time: 246 ms -->
+<!-- time: 90 ms -->
 
 
     <style type="text/css">
@@ -518,7 +653,6 @@
 
 
 
-
                     </div>
                     <!-- END banner image -->
                     <!-- BEGIN breadCrumb -->
@@ -533,7 +667,7 @@
 
 
 
-<!-- time: 171 ms -->
+<!-- time: 73 ms -->
 
 <a href="/canada/v/index.jsp?vgnextoid=9788e7a80ca5d010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=9788e7a80ca5d010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FsunlifeCA" target="_self">Home</a>&gt;Privacy
 
@@ -542,28 +676,24 @@
                     <!-- END breadCrumb -->
                     <!-- ChannelIdx content -->
                     
-
                     
-<style type="text/css">							.linkGrpTitle					{						text-align:center;						color: #FFFFFF;						background-color:#5D3526;						padding-top:2px;						padding-bottom:2px;					}						</style>
-<div id="bodyText"></div>
-<div id="bodyText"><p></p>
+<style type="text/css">							.linkGrpTitle					{						text-align:center;						color: #FFFFFF;						background-color:#5D3526;						padding-top:2px;						padding-bottom:2px;					}						</style><div id="bodyText"></div><div id="bodyText"><p>&nbsp;</p>
 
 <p align="center"><b>Respecting your Privacy</b></p>
 
 <center>
-<table cellspacing="0" cellpadding="3" border="0">
-<tbody>
+<table cellpadding="3" border="0" cellspacing="0"><tbody>
 <tr>
-<td align="middle" width="50%"><font face="Arial" size="2"><b><a href="#policy">Sun Life Financial's<br>
-Privacy Policy For Canada</a></b></font></td>
-<td align="middle" width="50%"><font face="Arial" size="2"><b><a href="#code">Sun Life Financial's<br>
-Privacy Code For Canada</a></b></font></td>
+<td align="middle" width="50%"><a href="#policy"><font face="Arial" size="2"><b>Sun Life Financial's</b></font></a><font face="Arial" size="2"><b><br>
+<a href="#policy">Privacy Policy For Canada</a></b></font></td>
+<td align="middle" width="50%"><a href="#code"><font face="Arial" size="2"><b>Sun Life Financial's</b></font></a><font face="Arial" size="2"><b><br>
+<a href="#code">Privacy Code For Canada</a></b></font></td>
 </tr>
-</tbody>
-</table>
+
+</tbody></table>
 </center>
 
-<p>In this document, <strong>you</strong> and <strong>your</strong> mean the individual who is a customer or potential customer of a member of the Sun Life Financial group of companies in Canada and <strong>we</strong>, <strong>us</strong> and <strong>our</strong> mean Sun Life Financial Inc., Sun Life Assurance Company of Canada, and their affiliates in Canada.&nbsp; The complete list of companies in the Sun Life Financial group of companies can be found in the Sun Life Financial Privacy Policy which is available on the Sun Life Financial website&nbsp;or contact our Canadian Privacy Officer at the contact information listed below.</p>
+<p>In this document, <strong>you</strong> and <strong>your</strong> mean the individual who is a customer or potential customer of a member of the <a href="/canada/v/index.jsp?vgnextoid=6a37de324abd0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA" target="_blank">Sun Life Financial group of companies in Canada</a> and <strong>we</strong>, <strong>us</strong> and <strong>our</strong> mean Sun Life Financial Inc., Sun Life Assurance Company of Canada, and their affiliates in Canada.&nbsp;</p>
 
 <p align="center"><b><i>Our commitment to protecting your privacy, our policy</i></b></p>
 
@@ -573,15 +703,16 @@ Privacy Code For Canada</a></b></font></td>
 
 <p>If you have any questions about Sun Life Financial's Canadian Privacy Policy and Privacy Code, please contact our Canadian Privacy Officer at (416) 408-8850 or by email at <a href="mailto:privacyofficer@sunlife.com">"privacyofficer@sunlife.com"</a>.</p>
 
-<hr width="100%" color="#000000" size="1">
-<p align="center"><font size="3"><b><a id="policy" name="policy">Sun Life Financial's Privacy Policy For Canada</a></b></font></p>
+<hr width="100%" size="1" color="#000000">
+<p align="center"><a name="policy" id="policy"><font size="3"><b>Sun Life Financial's Privacy Policy For Canada</b></font></a></p>
 
 <p><a href="#collect">How we collect, use and disclose personal information</a><br>
 <a href="#protect">We will protect your personal information</a><br>
 <a href="#access">Your right to access your personal information</a><br>
+<a href="#cookies">Cookies</a><br>
 <a href="#more">For more information</a></p>
 
-<p><font size="3"><b><a id="collect" name="collect">How we collect, use and disclose personal information</a></b></font></p>
+<p><a name="collect" id="collect"><font size="3"><b>How we collect, use and disclose personal information</b></font></a></p>
 
 <p><b>We ask you for only the information we need</b></p>
 
@@ -625,11 +756,11 @@ Privacy Code For Canada</a></b></font></td>
 
 <p>When we destroy personal information, we will use safeguards to prevent unauthorized parties from gaining access to the information during the process.</p>
 
-<p><font size="3"><b><a id="protect" name="protect">We will protect your personal information</a></b></font></p>
+<p><a name="protect" id="protect"><font size="3"><b>We will protect your personal information</b></font></a></p>
 
 <p><b>We are responsible for your information</b></p>
 
-<p>We are responsible for all personal information in our possession, including information transferred to a third-party service provider or agent, so that we can provide you with a product or service. In some instances our employees, service providers or agents may be located in jurisdictions outside Canada, and your personal information may be subject to the laws of those foreign jurisdictions.&nbsp; All such persons, whether or not they are located in Canada, are required to protect the confidentiality of your personal information in a manner that is consistent with our privacy policy and practices.</p>
+<p>We are responsible for all personal information in our possession, including information transferred to a third-party service provider or agent, so that we can provide you with a product or service. In some instances our employees, service providers, agents, reinsurers and any of their service providers,&nbsp;may be located in jurisdictions outside Canada, and your personal information may be subject to the laws of those foreign jurisdictions.&nbsp; All such persons, whether or not they are located in Canada, are required to protect the confidentiality of your personal information in a manner that is consistent with our privacy policy and practices.</p>
 
 <p><b>How we protect information</b></p>
 
@@ -637,7 +768,7 @@ Privacy Code For Canada</a></b></font></td>
 
 We have developed and are continuing to enhance security procedures to safeguard and protect personal information against loss, theft, unauthorized disclosure, copying, and unauthorized use or modification. We will maintain appropriate safeguards and security procedures that reflect the types of documents, including electronic or paper records, organizational measures including security clearances and limiting access on a "need-to-know" basis, and technological measures such as the use of passwords and encryption. While we endeavour to protect all information, the most sensitive information, such as medical information, receives the highest level of protection. 
 
-<p><font size="3"><b><a id="access" name="access">Your right to access your personal information</a></b></font></p>
+<p><a name="access" id="access"><font size="3"><b>Your right to access your personal information</b></font></a></p>
 
 <p><b>Your rights</b></p>
 
@@ -665,19 +796,35 @@ We have developed and are continuing to enhance security procedures to safeguard
 
 <p>You may register a privacy-related complaint by contacting Sun Life Financial's Canadian Privacy Officer. We will explain Sun Life Financial's Canadian complaint procedure to you and investigate all complaints. If a complaint is justified, we will take all appropriate steps to set the situation right, including changing our policies and practices if necessary. We will also let you know what other complaint procedures may be available to you.</p>
 
-<p><font size="3"><b><a id="more" name="more">For more information</a></b></font></p>
+<p><a name="cookies" id="cookies"><font size="3"><strong>Cookies</strong></font></a></p>
+
+<p><strong>What are cookies?</strong></p>
+
+<p>A cookie is a small file used by a Web server to store information in your browser's temporary memory or on your computer. Cookies cannot access other information or files from your computer. There are two types of cookies - a <strong>session cookie</strong> and a <strong>permanent cookie</strong>. A session cookie (sometimes referred to as a transient cookie) is erased when you close your Internet browser and leave our website. A "permanent cookie" is a file that remains on your computer when you close your Internet browser. Permanent cookies have expiry dates and will automatically be deleted from your computer after their expiry date or alternatively you can clear your stored cookies via your browser preferences on your computer. A permanent cookie can be read only by the website that created the cookie when you visit that site again. We use both session cookies and permanent cookies within our websites.</p>
+
+<p><strong>Why are cookies used?</strong></p>
+
+<p>Cookies are very common, with many organizations electing to use them to gather data regarding how visitors explore their websites - information such as how many new visitors there are, how many repeat visitors there are, how many sections or pages of the website a visitor explores and so forth. Organizations use the information gathered by cookies to modify their websites to improve their website's performance and functionality.</p>
+
+<p>Cookies have the ability to identify a visitor, if the visitor has used a website's login feature.With a permanent cookie your login ID would be stored in an encrypted format on your computer, so that the next time you visit the website you would be recognized when you sign in. This enables the website to recall your preferences and provide a more customized experience.</p>
+
+<p><strong>What are your options regarding cookies?</strong></p>
+
+<p>You have the ability to decide whether you want to accept all cookies, reject all cookies or simply be notified when a cookie will be created. To do this you need to alter your browser preferences. Since the procedure for altering preferences varies by browser&nbsp; you should check the 'Help' menu of your browser to learn how to alter your cookie preferences.</p>
+
+<p><a name="more" id="more"><font size="3"><b>For more information</b></font></a></p>
 
 <p>For more information, please contact Sun Life Financial's Privacy Officer in Canada at (416) 408-8850 or by email at <a href="mailto:privacyofficer@sunlife.com"><font color="blue">privacyofficer@sunlife.com</font></a>.</p>
 
-<hr width="100%" color="#000000" size="1">
-<p></p>
+<hr width="100%" size="1" color="#000000">
+<p>&nbsp;</p>
 
-<table cellspacing="0" cellpadding="3" width="100%" border="0">
-<tbody>
+<table border="0" cellpadding="3" cellspacing="0" width="100%"><tbody>
 <tr>
-<td valign="top" align="middle" width="50%" colspan="2"><font face="Arial" size="3"><b><a id="code" name="code">Sun Life Financial's Privacy Code For Canada</a></b></font> 
+<td colspan="2" valign="top" align="middle" width="50%">
+<p><a name="code" id="code"><font face="Arial" size="3"><b>Sun Life Financial's Privacy Code For Canada</b></font></a></p>
 
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 
@@ -722,17 +869,16 @@ We have developed and are continuing to enhance security procedures to safeguard
 
 <p><font face="Arial" size="2"><b>Principle 10 - Handling Customer Complaints and Suggestions</b></font></p>
 
-<font face="Arial" size="2">Individuals can address any complaint regarding compliance with the above principles with our Privacy Officer.</font><a href="mailto:privacyofficer@sunlife.com"><font face="Arial" size="2">privacyofficer@sunlife.com</font></a> </td>
+<p><font face="Arial" size="2">Individuals can address any complaint regarding compliance with the above principles with our Privacy Officer.<a href="mailto:privacyofficer@sunlife.com">privacyofficer@sunlife.com</a></font></p>
+</td>
 </tr>
-</tbody>
-</table>
+
+</tbody></table>
 
 <p align="right"><a href="#top"><font color="blue">...Back to top</font></a></p>
 
 <p><br>
-</p>
-</div>
-<div id="linkLinksContainer"></div>
+</p></div><div id="linkLinksContainer"></div>
 
                     <!-- END ChannelIdx content -->
 
@@ -745,7 +891,6 @@ We have developed and are continuing to enhance security procedures to safeguard
         <!-- BEGIN footer content -->
         <div id="footerContainer" class="footerText">
             
-
 
 
 
@@ -770,6 +915,6 @@ We have developed and are continuing to enhance security procedures to safeguard
 
 
 
-<!-- time: 740 ms -->
+<!-- time: 6903 ms -->
 
 </div></body></html>
