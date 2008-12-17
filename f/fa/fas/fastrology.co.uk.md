@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630073206id_/http%3A//www.fastrology.co.uk/privacy%3FID%3Dnull) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217134723id_/http%3A//www.fastrology.co.uk/privacy%3FID%3Dnull) for the most accurate reproduction.*
 
-# Fastrology | Privacy policy
+# Privacy policy
 
 ### Fastrology Privacy Policy Statement
 
@@ -25,7 +25,7 @@ We use personal information collected via fastrology.co.uk to:
   * pass on to selected companies to provide you with other offers and promotions 
   * help other companies profile and extend their databases 
   * facilitate communication between yourself and others 
-  * allow us to send you, via e-mail, telephone, SMS and post, special offers and promotions from OptinData and Financial Connexions Ltd. (FSA 441723). 
+  * allow us to send you, via e-mail, telephone, SMS and post, special offers and promotions from OptinData, Financial Connexions Ltd. (FSA 441723) and the Heart Research Institute. 
 
 
 
