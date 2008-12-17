@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ksfcu.org privacy policy that was archived on 2007-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070202172229id_/http%3A//www.ksfcu.org/default.asp%3FfileID%3D127) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ksfcu.org privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217090520id_/http%3A//www.ksfcu.org/default.asp%3FfileID%3D127) for the most accurate reproduction.-->
 
 <html><!-- Wernher Picato Client / Server Programmer IV Quantum Data Systems, Inc. --><!-- Ervin Sevilla Client / Server Programmer IV Quantum Data Systems, Inc. --><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -21,37 +21,108 @@
 		
 	//-->
 	</script><link rel="stylesheet" type="text/css" href="css/pc.css">
+	<!-- extra functions specific to this page (ie. form validation) -->
 	<script language="javascript">
- function jsFunc1() { trustedalert("");  return false;}
-var imgs1 = new Array("images/promoBanner/127PrivStmntBanner.jpg") 
-var lnks1 = new Array("#")
-var onclk1 = new Array("")
-var currentAd1 = 0
-var imgCt1 = 1
-function cycle1() {
-  if (currentAd1 == imgCt1) {
-    currentAd1 = 0
-  }
-var banner1 = document.getElementById('adBanner1');
-var link1 = document.getElementById('adLink1');
-  banner1.src=imgs1[currentAd1]
-  document.getElementById('adLink1').href=lnks1[currentAd1]
-  document.getElementById('adLink1').onclick=onclk1[currentAd1]
-  currentAd1++
-}
-  window.setInterval("cycle1()",5000)
+	<!--
+	//  This function is called by the onLoad event.  It is used to focus on the text box.
+    function focusOnUserTextBox()
+    {
+		document.forms.login.user_id.focus();
+    }
+
+    function eraseButton()
+    {
+        //document.forms.login.login_button.style.display = "none";
+       // document.getElementById("loginText").innerHTML = "Validating Login ID...";
+    }
+
+	// This function is called by the onLoad event.  Use it to initialize the page.
+    // Always blank out thes values on load incase page had been visited before
+    // Here rather than in submit as the immediate clear was causing browser problems
+	function initialize()
+	{
+		post_fingerprints(document.loginForm);
+        document.login.user_id.value="";
+	}
+
+	// As long as user click on submit, for security, we clear out all fields after the submit
+	// Removes all instances of character from field.
+	function stripCharByValue(character, value)
+	{
+	var newValue = value;
+	    for (var i = 0; i < character.length; i++)
+	    {
+	        var regexp = new RegExp(character.charAt(i), "g");
+	        newValue = newValue.replace(regexp, "");
+	    }
+	    return newValue;
+	}
+	function stripChar(character, field)
+	{
+	    field.value = stripCharByValue(character, field.value);
+	    return field.value;
+	}
+	function verifyData()
+	{
+		if (document.login.user_id.value.length == 0)
+		{
+    	    document.login.user_id.focus();
+			alert("You must enter your Login ID.");
+			return false;
+		}
+		else if (document.login.user_id.value.length < 3)
+		{
+        	document.login.user_id.focus();
+			alert("Your Login ID must be at least 3 characters long.");
+			return false;
+		}
+
+	    //document.login.USERID.value = document.login.user_id.value;
+        //stripChar(" ", document.login.USERID);
+        
+        document.login.hpUSERID.value = document.login.user_id.value;
+        stripChar(" ", document.login.hpUSERID);
+		document.login.submit();
+		eraseButton();
+    	return false;
+	}
+	
+	function newUser() 
+	{
+		document.login.hpUSERID.value = "newuser";
+		document.login.submit();
+		
+	}
+	function popWin() 
+	{
+		document.login.hpUSERID.value = "whereIsMyPIN";
+		document.login.submit();
+	}
+	function datanetdisclosure() {
+		var isUAgr;
+		isUAgr = document.datanetDisclosure.chkAgree.checked
+		if (isUAgr) {
+			window.open("https://www.ksfcu.org/KSFCU_HPA/HPAFormFrame.asp?targetPage=dataNetAppHPA.asp");
+		} else {
+			alert("You must check the \"I agree to the above terms\" box prior to clicking \"ACCEPT.\"")
+		}
+	}
+	//-->
+	</script>
+	<script language="javascript">
 
 </script>
 </head>
 
-<body link="#0000ff" vlink="#996699" alink="#0000ff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body link="#0000ff" vlink="#996699" alink="#0000ff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload=" focusOnUserTextBox();">
+
 <center>
 <table border="0" cellpadding="0" cellspacing="0" width="788">
 	<tbody><tr>
 		<td width="788">
 			<table border="0" cellpadding="0" cellspacing="0" width="788">
 				<!-- Header: Start -->
-				<tbody><tr><td class="black11bold" align="left" src="images/spacer.gif" width="100%" height="93" valign="middle"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td src="images/spacer.gif" width="26"><img src="images/spacer.gif" border="0" height="1" width="26"></td><td><a href="default.asp?fileID=165" class=""><img src="images/header/ksfculogo.jpg" border="0" width="238" height="66"></a></td><td width="10"><img src="images/spacer.gif" width="10"></td><td><img src="images/spacer.gif" width="235" height="93"></td><td width="10"><img src="images/spacer.gif" width="10"></td><td src="images/spacer.gif" height="93" align="right" valign="bottom"><table border="0" cellpadding="0" cellspacing="0"><form name="homepage" method="post" action="post_default.asp"></form><tbody><tr><td src="images/spacer.gif" align="center" class="blue11bold"><a href="default.asp?fileID=165" class="bluered11bold">Home</a>&nbsp;|&nbsp;<a href="default.asp?fileID=191" class="bluered11bold">Site Map</a></td></tr><tr><td><input type="text" name="txtSearch"></td><td width="8"></td><td><input type="image" src="images/buttons/SearchButton.jpg" border="0" name="cmdSearch" value="Search" width="111" height="36"></td></tr></tbody></table><img src="images/spacer.gif" border="0" height="1" width="226"></td></tr></tbody></table><img src="images/spacer.gif" border="0" height="1" width="1"><img src="images/spacer.gif" border="0" height="1" width="1"></td></tr>
+				<tbody><tr><td class="black11bold" align="left" src="images/spacer.gif" width="100%" height="93" valign="middle"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td src="images/spacer.gif" width="26"><img src="images/spacer.gif" border="0" height="1" width="26"></td><td width="238"><a href="default.asp?fileID=165" class=""><img src="images/header/ksfculogo.jpg" border="0" width="238" height="66"></a></td><td width="10"><img src="images/spacer.gif" width="10"></td><td width="238"><img src="images/spacer.gif" width="235" height="93"></td><td width="10"><img src="images/spacer.gif" width="10"></td><td src="images/spacer.gif" height="93" align="right" valign="top"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" bgcolor="#ffffff"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="22"><img src="images/spacer.gif" width="22" height="23"></td><td><img src="images/tab_personal_1.gif" width="120" height="23"></td><td width="2"><img src="images/spacer.gif" width="2" height="23"></td><td><a href="default_business.asp" border="0"><img src="images/tab_business.gif" width="120" height="23" border="0"></a></td></tr></tbody></table></td></tr><tr><td height="15"><img src="images/spacer.gif" height="15" width="100"></td></tr><form name="homepage" method="post" action="post_default.asp"></form><tr><td src="images/spacer.gif" align="center" class="blue11bold"><a href="default.asp" class="bluered11bold">Home</a>&nbsp;|&nbsp;<a href="default.asp?fileID=191" class="bluered11bold">Site Map</a></td></tr><tr><td><input type="text" name="txtSearch" maxlength="100"></td><td width="8"></td><td><input type="image" src="images/buttons/SearchButton.jpg" border="0" name="cmdSearch" value="Search" width="111" height="36"></td></tr></tbody></table><img src="images/spacer.gif" border="0" height="1" width="226"></td></tr></tbody></table><img src="images/spacer.gif" border="0" height="1" width="1"><img src="images/spacer.gif" border="0" height="1" width="1"></td></tr>
 				<!-- Header: End -->
 				
 				<!-- Thin Strip: Start -->
@@ -66,43 +137,14 @@ var link1 = document.getElementById('adLink1');
 							<tbody><tr>
 								<!-- Left Menu: Start -->
 								<td width="150" valign="top" background="images/LeftBarExt2.jpg">
-									<table border="0" background="images/LeftBarWRule2.jpg" width="150" height="634" cellpadding="0" cellspacing="0">
+									<table border="0" background="images/LeftBarWRule2.jpg" width="150" height="700" cellpadding="0" cellspacing="0">
 										<tbody><tr>
 											<td valign="top" nowrap="" width="150">
-												<form name="login" action="https://datanet.ksfcu.org/cus/login_referal.jsp" method="post">
+												<form autocomplete="off" name="login" action="https://datanet.ksfcu.org/servlet/tpservlet?transactiontype=PreloginActionBean&amp;FIID=0001" method="post" onsubmit="return verifyData();">
 												<table border="0" cellpadding="0" cellspacing="0" width="150" background="spacer.gif">
 												<!-- Start-->
 												
-												<script language="javascript">
-												<!--
-												//--- Added By Ervin Sevilla
-													function myTrimString (str) {
-												        while (str.charAt(0) == ' ')
-												          str = str.substring(1);
-												        while (str.charAt(str.length - 1) == ' ')
-												          str = str.substring(0, str.length - 1);
-												     return str;
-												    }
-												    
-												    function validateUP() {
-														var usr = myTrimString(document.login.USERID.value);
-														var pass = myTrimString(document.login.USERPIN.value);
-														document.login.USERID.value = usr;
-														document.login.USERPIN.value = pass;
-														document.login.submit();
-												    }
-												    function submitenter(myfield,e) {
-													var keycode;
-													if (window.event) keycode = window.event.keyCode;
-													else if (e) keycode = e.which;
-													else return true;
-													if (keycode == 13) {
-														validateUP();
-													}		
-												    }
-													//--- End By Ervin Sevilla
-												//-->
-												</script>
+												
 													<tbody><tr><td height="14"><img src="images/spacer.gif" height="14" width="0"></td></tr>	
 													<tr>
 														<td align="CENTER" valign="TOP">
@@ -114,34 +156,51 @@ var link1 = document.getElementById('adLink1');
 													</tr>
 													<tr>
 														<td align="CENTER" valign="TOP">
-															<input type="text" name="USERID" style="width:120" width="60" size="15" class="formfields"></td>
+															<input type="text" name="user_id" style="width:120" width="60" size="15" class="formfields"></td>
 													</tr>
-													<tr><td height="5"><img src="images/spacer05x150.gif" width="150" height="5"></td></tr>
-													<tr>
-														<td align="CENTER" valign="bottom" class="white11">PIN:</td>
-													</tr>
-													<tr>
-														<td align="CENTER" valign="TOP">
-															<input type="PASSWORD" name="USERPIN" style="width:120" width="60" size="15" class="formfields" onkeypress="return submitenter(this,event)"></td>
-													</tr>
+													<input type="hidden" name="transactiontype" value="PassmarkSigninActionBean">
+													<input type="hidden" name="ACTIVITY_TYPE" value="VALIDATEUSERID">
+													<input type="hidden" name="hpUSERID" value="">
+													<input type="hidden" name="FIID" value="0001">
+													<input type="hidden" name="OnError" value="-1">
+
+													<input type="hidden" name="fp_browser" value="">
+													<input type="hidden" name="fp_screen" value="">
+													<input type="hidden" name="fp_software" value="">
 													<tr><td height="7"><img src="images/spacer.gif" height="7" width="150"></td></tr>	
 													<tr>
 														<td align="CENTER" valign="TOP">
 															<table border="0" cellpadding="0" cellspacing="0" background="spacer.gif">
 																<tbody><tr>
 																	<td width="15" nowrap=""><img src="images/padlock.gif" width="15" height="17"></td>
-																	<td><input type="image" onclick="validateUP();" src="images/buttons/SignOnbutton.jpg" name="cmdSubmit" border="0" width="64" height="19"></td>
+																	<td><input type="image" src="images/buttons/SignOnbutton.jpg" name="login_button" border="0" width="64" height="19"></td>
 																	<td width="4"></td>
 																	<td><a href="default.asp?fileID=176#user" border="0"><img src="images/buttons/Enroll.jpg" border="0" width="64" height="19"></a></td>
 																</tr>
 															</tbody></table>	
 														</td>
 													</tr>
-												
 													<tr>
-														<td align="CENTER" valign="TOP" class="white11"><a href="https://datanet.ksfcu.org/servlet/tpservlet?transactiontype=RecoverPINActionBean" class="whitegold11">Forgot Password?</a></td>
-													</tr>	
-													<tr><td height="15"><img src="images/spacer05x150.gif" width="150" height="15"></td></tr>
+														<td align="center">
+															<table border="0" cellpadding="0" cellspacing="0" background="spacer.gif">
+																<tbody><tr>
+																	<td align="left" valign="TOP" class="red12"><a href="#" onclick="newUser(); return false;" target="_new" style="font-family: Lucida Sans Unicode; font-size: 11px; font-weight: normal; color: #D97125; text-decoration: none"><font style="font-family: Lucida Sans Unicode; font-size: 11px; font-weight: normal; color: #D97125; text-decoration: none">First time login&nbsp;<u>click here</u></font></a>
+																	<input type="hidden" name="newUserVal"></td>  
+																</tr>
+																
+																
+																<tr><td height="4"><img src="images/spacer.gif" height="4" width="0"></td></tr>
+																<tr><td colspan="2" align="center"><img src="images/spacer.gif" height="16" width="136" border="0"></td></tr>
+																																
+															</tbody></table>
+														</td>
+													</tr>
+													<tr><td height="4"><img src="images/spacer.gif" height="4" width="0"></td></tr>
+													<tr>
+														<!-- <td ALIGN="CENTER" VALIGN="TOP" class="white11"><a href="https://datanet.ksfcu.org/jsp/passmark_FAQ.jsp#WhereIsMyPIN" class="whitegold11" target="_new"> is my PIN?</a></td> -->
+														<td align="CENTER" valign="TOP" class="white11"><a href="#" class="whitegold11" target="_new" onclick="popWin(); return false;">Where is my PIN?</a></td>
+													</tr>		
+													<tr><td height="1"><img src="images/spacer05x150.gif" width="150" height="1"></td></tr>
 													
 													
 													<script language="javascript">
@@ -165,15 +224,25 @@ var link1 = document.getElementById('adLink1');
 															<td align="CENTER" valign="TOP" class="white11" height="15">
 																<a href="default.asp?fileID=179" class="whitegold11">DataNet Q &amp; A</a></td>
 														</tr>
+														
+														
+															<tr><td height="8"><img src="images/spacer.gif" height="8" width="0"></td></tr>
+															<tr><td colspan="2" align="center"><img src="images/spacer.gif" height="16" width="136" border="0"></td></tr>
+														
+														<tr><td height="7"></td></tr>
+														<!-- <tr><td height="14"></td></tr> -->
+														
+														<tr><td class="whitegold11" align="center">
+														<a href="https://sales.liveperson.net/hc/71769942/?cmd=file&amp;file=visitorWantsToChat&amp;site=71769942&amp;byhref=1&amp;SESSIONVAR!skill=eBranch Specialists" target="chat71769942" onclick="javascript:window.open('https://sales.liveperson.net/hc/71769942/?cmd=file&amp;file=visitorWantsToChat&amp;site=71769942&amp;SESSIONVAR!skill=eBranch Specialists&amp;referrer='+escape(document.location),'chat71769942','width=472,height=320');return false;"><img src="https://sales.liveperson.net/hc/71769942/cmd/query/?site=71769942&amp;page=https://sales.liveperson.net/hcp/width/img1.gif&amp;query=button-impression:eBranch-Specialists" name="hcIcon" border="0"></a>
+                </td></tr>
 														<!-- new menu start here -->
 														<tr>
 															<td>
 																<table border="0">
-																	<tbody><tr><td height="28" width="150" colspan="2"><img src="images/spacer.gif" height="28"></td></tr><tr><td width="7"><img src="images/spacer.gif" width="7"></td><td align="center"><table border="0" cellpadding="0" cellspacing="0" width="115" background="spacer.gif"><tbody><tr><td height="5"></td></tr><tr><td class="whitegold11" align="center"><a href="default.asp?fileID=176#reorder" class="whitegold11">Re-order checks</a></td></tr><tr><td height="5"></td></tr>
-<tr><td height="5"></td></tr><tr><td class="whitegold11" align="center"><a href="#" onclick="linkalert('http://www.ftc.gov/bcp/conline/pubs/credit/freereports.htm'); return false;" class="whitegold11">Order your Free Credit Report</a></td></tr><tr><td height="5"></td></tr>
-<tr><td height="5"></td></tr><tr><td class="whitegold11" align="center"><a href="default.asp?fileID=125" class="whitegold11">Annual Reports and Newsletters</a></td></tr><tr><td height="5"></td></tr>
-<tr><td height="5"></td></tr><tr><td class="whitegold11" align="center"><a href="default.asp?fileID=235" class="whitegold11">Protect Yourself Against Fraud</a></td></tr><tr><td height="5"></td></tr>
-<tr><td height="5"></td></tr><tr><td class="whitegold11" align="center"><a href="#" onclick="window.open('https://www.ksfcu.org/KSFCU_HPA/HPAFormFrame.asp?targetPage=contactForAssistance.asp'); return false;" class="whitegold11">Your Opinion Counts! Email us now.</a></td></tr><tr><td height="5"></td></tr>
+																	<tbody><tr><td height="8" width="150" colspan="2"><img src="images/spacer.gif" height="8"></td></tr><tr><td width="7"><img src="images/spacer.gif" width="7"></td><td align="center"><table border="0" cellpadding="0" cellspacing="0" width="115" background="spacer.gif"><tbody><tr><td height="5"></td></tr><tr><td class="whitegold11" align="left"><a href="default.asp?fileID=176#reorder" class="whitegold11">Re-order checks</a></td></tr><tr><td height="5"></td></tr>
+<tr><td height="5"></td></tr><tr><td class="whitegold11" align="left"><a href="default.asp?fileID=125" class="whitegold11">Annual Reports and Newsletters</a></td></tr><tr><td height="5"></td></tr>
+<tr><td height="5"></td></tr><tr><td class="whitegold11" align="left"><a href="default.asp?fileID=235" class="whitegold11">Protect Yourself Against Fraud</a></td></tr><tr><td height="5"></td></tr>
+<tr><td height="5"></td></tr><tr><td class="whitegold11" align="left"><a href="https://www.ksfcu.org/KSFCU_HPA/HPAFormFrame.asp?targetPage=contactForAssistance.asp" onclick="window.open('https://www.ksfcu.org/KSFCU_HPA/HPAFormFrame.asp?targetPage=contactForAssistance.asp'); return false;" class="whitegold11" target="_BLANK">Contact Us</a></td></tr><tr><td height="5"></td></tr>
 </tbody></table></td></tr>
 																</tbody></table>
 															</td>
@@ -186,7 +255,7 @@ var link1 = document.getElementById('adLink1');
 																			
 									</tbody></table>
 								</td>
-								<!-- Left Menu: Start -->
+								<!-- Left Menu: End -->
 								
 								<!-- Spacer: Start -->
 								<td src="images/spacer.gif" width="8" nowrap=""><img src="images/spacer.gif" border="0" height="0" width="8"></td>
@@ -195,43 +264,7 @@ var link1 = document.getElementById('adLink1');
 								<!-- Content: Start -->
 								<td bgcolor="#ffffff" valign="top" align="left" width="630">
 									<table border="0" cellpadding="0" cellspacing="0" width="630">
-										
-										<!-- Top Menu: Start -->
-										<tbody><tr><td nowrap="" width="100%" align="center"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="44" align="center"><table border="0" cellpadding="2" cellspacing="2" width="100%"><tbody><tr><td class="bluered11bold" align="center"><a href="default.asp?fileID=103" class="bluered11bold">Join Today!</a></td><td class="blue24" align="center" nowrap="">|</td><td class="bluered11bold" align="center"><a href="default.asp?fileID=193" class="bluered11bold">Apply for a<br>Loan or Visa</a></td><td class="blue24" align="center" nowrap="">|</td><td class="bluered11bold" align="center"><a href="default.asp?fileID=236" class="bluered11bold">Checking<br> &amp; Savings</a></td><td class="blue24" align="center" nowrap="">|</td><td class="bluered11bold" align="center"><a href="default.asp?fileID=233" class="bluered11bold">Products<br> &amp; Services</a></td><td class="blue24" align="center" nowrap="">|</td><td class="bluered11bold" align="center"><a href="default.asp?fileID=234" class="bluered11bold">On-Line Services<br>and Forms</a></td><td class="blue24" align="center" nowrap="">|</td><td class="bluered11bold" align="center"><a href="default.asp?fileID=231" class="bluered11bold">Branch &amp; ATM<br>Location &amp; Hours</a></td></tr></tbody></table></td></tr></tbody></table></td></tr>
-										<!-- Top Menu: End -->
-										
-										<!-- Banner: Start -->
-										<tr><td width="100%">
-											<table border="0" cellpadding="0" cellspacing="0" width="100%">
-												<tbody><tr><td class="black11bold" align="center" src="images/spacer.gif" valign="middle">
-													<a href="#" onclick="" id="adLink1" style="cursor:default"><img src="images/promoBanner/127PrivStmntBanner.jpg" id="adBanner1" border="0" width="622" height="131"></a>
-													</td>
-												</tr>
-											</tbody></table>
-											</td>
-										</tr>
-										
-										<!-- <tr><td width="100%">
-											<table border="0" cellpadding="0" cellspacing="0" width="100%">
-												<tr><td class="black11bold" align="center" src="images/spacer.gif" valign="middle">
-													<a href="#" onclick="trustedalert('https://datanet.ksfcu.org'); return false;" class>
-													<img src="images/promoBanner/SavingsInvestmentBanner.jpg" border="0"></a></td>
-												</tr>
-											</table>
-											</td>
-										</tr>
-										<tr><td width="100%">
-											<table border="0" cellpadding="0" cellspacing="0" width="100%">
-												<tr><td class="black11bold" align="center" src="images/spacer.gif" valign="middle">
-													<a href="#" onclick class>
-													<img src="images/promoBanner/SavingsInvestmentBanner.jpg" border="0"></a></td>
-												</tr>
-											</table>
-											</td>
-										</tr>
-										-->
-										<!-- Banner: End -->
-										
+										<tbody><tr><td nowrap="" width="100%" align="center"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="44" align="center"><table border="0" cellpadding="2" cellspacing="2" align="center"><tbody><tr><td class="bluered11bold" align="center"><a href="default.asp?fileID=103" class="bluered11bold">Join Today!</a></td><td class="blue24" align="center" nowrap="">|</td><td class="bluered11bold" align="center"><a href="default.asp?fileID=193" class="bluered11bold">Apply for a<br>Loan or Visa</a></td><td class="blue24" align="center" nowrap="">|</td><td class="bluered11bold" align="center"><a href="default.asp?fileID=236" class="bluered11bold">Checking<br> &amp; Savings</a></td><td class="blue24" align="center" nowrap="">|</td><td class="bluered11bold" align="center"><a href="default.asp?fileID=233" class="bluered11bold">Products<br> &amp; Services</a></td><td class="blue24" align="center" nowrap="">|</td><td class="bluered11bold" align="center"><a href="default.asp?fileID=234" class="bluered11bold">Online Services<br>and Forms</a></td><td class="blue24" align="center" nowrap="">|</td><td class="bluered11bold" align="center"><a href="default.asp?fileID=231" class="bluered11bold">Branch &amp; ATM<br>Location &amp; Hours</a></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="black11bold" align="center" src="images/spacer.gif" valign="middle"><a href="#" onclick="" id="adLink1" style="cursor:default"><img src="images/promoBanner/127PrivStmntBanner.jpg" id="adBanner1" border="0" width="622"></a></td></tr></tbody></table></td></tr>
 										<tr>
 											<td>
 												<table border="0" cellpadding="0" cellspacing="0">
@@ -256,38 +289,38 @@ var link1 = document.getElementById('adLink1');
 																												<table border="0" cellspacing="0" cellpadding="0" width="100%">
 																													<tbody><tr><td height="10"></td></tr>
 																													<!-- Content Goes Here -->																	
-																													<tr><td width="10 ">&nbsp;</td><td class="black12" align="left"><font class="BLACK10BOLD">EFFECTIVE DECEMBER 18, 2003</font>
+																													<tr><td width="10 ">&nbsp;</td><td valign="middle" class="blue14bold">Privacy Notice<br><br></td><td width="10 ">&nbsp;</td></tr><tr><td width="10 ">&nbsp;</td><td class="black12" valign="top" align="left"><font class="BLACK10BOLD">EFFECTIVE DECEMBER 18, 2003</font>
 </td><td width="10 ">&nbsp;</td></tr>
 
 <tr><td height="10"></td></tr>
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12" align="left">In recognition of our members' expectation of privacy, Kern Schools Federal Credit Union has adopted the following privacy statement.</td><td width="10 ">&nbsp;</td></tr>
+<tr><td width="10 ">&nbsp;</td><td class="black12" valign="top" align="left">In recognition of our members' expectation of privacy, Kern Schools Federal Credit Union has adopted the following privacy statement.</td><td width="10 ">&nbsp;</td></tr>
 
 <tr><td height="10"></td></tr>
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12" align="left">Kern Schools will collect only the personal information that is necessary to conduct our business. That means just what is necessary to provide competitive financial products and services - no more. We may gather general information about site visitors' browsing activities. This enables us to track how a visitor navigates through the site and the areas in which they show interest. This is similar to a traffic report: it tracks trends and behaviors of members in general, but does not identify individuals in particular.</td><td width="10 ">&nbsp;</td></tr>
+<tr><td width="10 ">&nbsp;</td><td class="black12" valign="top" align="left">Kern Schools will collect only the personal information that is necessary to conduct our business. That means just what is necessary to provide competitive financial products and services - no more. We may gather general information about site visitors' browsing activities. This enables us to track how a visitor navigates through the site and the areas in which they show interest. This is similar to a traffic report: it tracks trends and behaviors of members in general, but does not identify individuals in particular.</td><td width="10 ">&nbsp;</td></tr>
 
 <tr><td height="10"></td></tr>
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12" align="left">Kern Schools FCU will protect your personal information. We will maintain security controls to ensure that member information stored on our premises and in our files and computers is protected. Where appropriate, we will use security-coding techniques to protect against unauthorized access to personal records, ensure accuracy and integrity of communications and transactions, and protect member confidentiality.</td><td width="10 ">&nbsp;</td></tr>
+<tr><td width="10 ">&nbsp;</td><td class="black12" valign="top" align="left">Kern Schools FCU will protect your personal information. We will maintain security controls to ensure that member information stored on our premises and in our files and computers is protected. Where appropriate, we will use security-coding techniques to protect against unauthorized access to personal records, ensure accuracy and integrity of communications and transactions, and protect member confidentiality.</td><td width="10 ">&nbsp;</td></tr>
 
 <tr><td height="10"></td></tr>
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12bold" align="left">Restrictions on the Disclosure of Account Information</td><td width="10 ">&nbsp;</td></tr>
+<tr><td width="10 ">&nbsp;</td><td class="black12bold" valign="top" align="left">Restrictions on the Disclosure of Account Information</td><td width="10 ">&nbsp;</td></tr>
 
 <tr><td height="10"></td></tr>
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12" align="left"><ul>Kern Schools Federal Credit Union will not disclose confidential member information outside the Credit Union unless:
+<tr><td width="10 ">&nbsp;</td><td class="black12" valign="top" align="left"><ul>Kern Schools Federal Credit Union will not disclose confidential member information outside the Credit Union unless:
 <br><br>
 <ol>
 <li>The member consents to the disclosure;
@@ -302,13 +335,13 @@ var link1 = document.getElementById('adLink1');
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12bold" align="left">Employee Access and Use of Member Information</td><td width="10 ">&nbsp;</td></tr>
+<tr><td width="10 ">&nbsp;</td><td class="black12bold" valign="top" align="left">Employee Access and Use of Member Information</td><td width="10 ">&nbsp;</td></tr>
 
 <tr><td height="10"></td></tr>
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12" align="left"><ul>
+<tr><td width="10 ">&nbsp;</td><td class="black12" valign="top" align="left"><ul>
 				Within Kern Schools, the Credit Union requires that confidential information be safeguarded at all times and be used only for legitimate business purposes.
 			</ul>	</td><td width="10 ">&nbsp;</td></tr>
 
@@ -316,7 +349,7 @@ var link1 = document.getElementById('adLink1');
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12" align="left"><ul>
+<tr><td width="10 ">&nbsp;</td><td class="black12" valign="top" align="left"><ul>
 The Credit Union takes measures to limit employee access to confidential information on a "need-to-know" basis and makes every effort to ensure that financial information is maintained in an accurate and up-to-date manner. We educate our employees about the importance of confidentiality and member privacy through standard operating procedures, special training programs, and Kern Schools' Code of Ethics.
 </ul>	</td><td width="10 ">&nbsp;</td></tr>
 
@@ -324,13 +357,13 @@ The Credit Union takes measures to limit employee access to confidential informa
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12bold" align="left">Maintaining Member Privacy in Our Business Relationships</td><td width="10 ">&nbsp;</td></tr>
+<tr><td width="10 ">&nbsp;</td><td class="black12bold" valign="top" align="left">Maintaining Member Privacy in Our Business Relationships</td><td width="10 ">&nbsp;</td></tr>
 
 <tr><td height="10"></td></tr>
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12" align="left"><ul>
+<tr><td width="10 ">&nbsp;</td><td class="black12" valign="top" align="left"><ul>
 The Credit Union will not sell or share member personal information with a third party for the third party's own independent use. However, Kern Schools occasionally contracts with outside vendors and other business partners to perform specific services for the Credit Union. We require these vendors to honor and safeguard the information we provide them and to follow strict confidentiality requirements.
 </ul></td><td width="10 ">&nbsp;</td></tr>
 
@@ -338,7 +371,7 @@ The Credit Union will not sell or share member personal information with a third
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12" align="left"><ul>
+<tr><td width="10 ">&nbsp;</td><td class="black12" valign="top" align="left"><ul>
 If you have any reason to believe that your personal information retained at Kern Schools Federal Credit Union is incorrect, please call us at (661) 833-7900 or (800) 221-3311 or <a href="https://www.ksfcu.org/KSFCU_HPA/HPAFormFrame.asp?targetPage=contactForAssistance.asp" class="bluered11bold" target="_blank">email us</a>. We will investigate the problem and, if appropriate, update the Credit Union's records.
 </ul>	</td><td width="10 ">&nbsp;</td></tr>
 
@@ -346,13 +379,13 @@ If you have any reason to believe that your personal information retained at Ker
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12bold" align="left">Children's Privacy Act</td><td width="10 ">&nbsp;</td></tr>
+<tr><td width="10 ">&nbsp;</td><td class="black12bold" valign="top" align="left">Children's Privacy Act</td><td width="10 ">&nbsp;</td></tr>
 
 <tr><td height="10"></td></tr>
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12" align="left"><ul>
+<tr><td width="10 ">&nbsp;</td><td class="black12" valign="top" align="left"><ul>
 The on-line financial services offered through the Credit Union's Web site are not designed for or directed toward children under age 13. We do not knowingly solicit or collect data from children, and we do not knowingly market to children on-line. If we receive on-line information from anyone that we know to be a child, we will only use the information to respond directly to a child's request.
 </ul>	</td><td width="10 ">&nbsp;</td></tr>
 
@@ -360,7 +393,7 @@ The on-line financial services offered through the Credit Union's Web site are n
 
 
 
-<tr><td width="10 ">&nbsp;</td><td class="black12" align="left"><ul>
+<tr><td width="10 ">&nbsp;</td><td class="black12" valign="top" align="left"><ul>
 We recognize that protecting children's identities and on-line privacy is important and that responsibility rests with us and with parents. If you believe your child has provided personally identifiable information to us, please contact us so that we can allow you the opportunity to review and delete such information. Please call (661) 833-7900 or (800) 221-3311 or  <a href="https://www.ksfcu.org/KSFCU_HPA/HPAFormFrame.asp?targetPage=contactForAssistance.asp" class="bluered11bold" target="_blank">email us</a>.
 </ul>	</td><td width="10 ">&nbsp;</td></tr>
 
@@ -371,6 +404,7 @@ We recognize that protecting children's identities and on-line privacy is import
 
 																													<!-- Content Goes Here -->
 																												</tbody></table>
+																												
 																											</td>
 																											
 																									</tr>
@@ -401,7 +435,21 @@ We recognize that protecting children's identities and on-line privacy is import
 																	<td height="70" align="center">
 																		<table border="0" cellpadding="0" cellspacing="0" width="148">
 																			<tbody><tr><td>
-																			<table border="0" width="148" cellpadding="0" cellspacing="0"><tbody><tr><td height="70" align="center"><table border="0" cellpadding="0" cellspacing="0" width="148"><tbody><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=247" class=""><img src="images/rightMenu/RedDotArrow-40.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=247" class="blue12"><font class="blue11">Apply for a Loan On-Line</font></a></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=192" class=""><img src="images/rightMenu/buttonarrow.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=192" class="blue12">Check our<br><font class="blue16bold">RATES!</font></a></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="#" onclick="trustedalert('http://cucalc.cuna.org/index.html?sub_id=11474'); return false;" class=""><img src="images/rightMenu/Calculator.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="#" onclick="trustedalert('http://cucalc.cuna.org/index.html?sub_id=11474'); return false;" class="blue12">CALCULATORS</a></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=225" class=""><img src="images/rightMenu/TurboTaxIcon2.jpg" width="41" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=225" class="blue12"><font class="blue10">Complete and File your Taxes On-Line</font></a></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=158" class=""><img src="images/rightMenu/RepoCars.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=158" class="blue12"><font class="blue10">View Repossessed Vehicles</font></a></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=152" class=""><img src="images/rightMenu/AmuseParkIcon2.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=152" class="blue12"><font class="blue10">Discount Amusement Park Tickets</font></a></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=206" class=""><img src="images/rightMenu/GetCash.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=206" class="blue12"><font class="blue11">Free Financial Workshops</font></a></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="javascript:printPage(127)" border="0"><img src="images/leftMenu/PrinterIcon1.jpg" width="40" height="30" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue10"><a href="javascript:printPage(127)" border="0" class="blue10">Print this page.</a></td></tr><tr><td colspan="4" src="images/spacer.gif" width="148" height="10" nowrap=""><img src="images/spacer.gif" border="0" height="10" width="148"></td></tr></tbody></table></td></tr></tbody></table>
+																			<table border="0" width="148" cellpadding="0" cellspacing="0"><tbody><tr><td height="70" align="center"><table border="0" cellpadding="0" cellspacing="0" width="148">
+<tbody><tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=247" class=""><img src="images/rightMenu/RedDotArrow-40.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=247" class="blue12"><br><font class="blue16bold">Apply</font> <font class="blue11">for a Loan Online</font></a></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=192" class=""><img src="images/rightMenu/buttonarrow.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=192" class="blue12">Check our<br><font class="blue16bold">RATES!</font></a></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=279" class=""><img src="images/rightMenu/ForeclosedHomes1.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=279" class="blue12">Homes For Sale<br>(Foreclosures)</a></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=158" class=""><img src="images/rightMenu/RepoCars.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=158" class="blue12">Repossessed Vehicles</a></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=152" class=""><img src="images/rightMenu/AmuseParkIcon2.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=152" class="blue12">Amusement Park Tickets</a></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="redirTabp.asp?isTrusted=1&amp;link=http://cucalc.cuna.org/index.html?sub_id=11474 " onclick="trustedalert('http://cucalc.cuna.org/index.html?sub_id=11474'); return false;" class="" target="_BLANK" onmouseover="window.status='Kern Schools Federal Credit Union'; return true;" onmouseout="window.status='';"><img src="images/rightMenu/Calculator.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="redirTabp.asp?isTrusted=1&amp;link=http://cucalc.cuna.org/index.html?sub_id=11474 " onclick="trustedalert('http://cucalc.cuna.org/index.html?sub_id=11474'); return false;" class="blue12" target="_BLANK" onmouseover="window.status='Kern Schools Federal Credit Union'; return true;" onmouseout="window.status='';"><font class-"blue10bold"="">Calculators</font></a></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="javascript:printPage(127,0)" border="0"><img src="images/leftMenu/PrinterIcon1.jpg" width="40" height="30" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue10"><a href="javascript:printPage(127,0)" border="0" class="blue10">Print this page.</a></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr></tbody></table></td></tr></tbody></table>
 																			</td></tr>
 																		</tbody></table>
 																	</td>
@@ -426,42 +474,6 @@ We recognize that protecting children's identities and on-line privacy is import
 				</tr>
 				
 				<!-- BODY: End-->
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
 				
 				
 				
@@ -492,7 +504,7 @@ We recognize that protecting children's identities and on-line privacy is import
 				<tr>
 					<td>
 						<table border="0" width="100%">
-							<tbody><tr><td><table border="0" width="788"><tbody><tr><td src="images/spacer.gif" height="62" width="150"><img src="images/footer/NCUA-new.gif" border="0" width="161" height="62"></td><td valign="top" align="center" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="black11" align="center"><a href="default.asp?fileID=191" class="black11">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="default.asp?fileID=128" class="black11">Security Statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="default.asp?fileID=180" class="black11">Employment</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="default.asp?fileID=229" class="black11">Routing Number</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="default.asp?fileID=146" class="black11">CU Board Room</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="default.asp?fileID=122" class="black11">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="default.asp?fileID=150" class="black11">Contact Us</a>&nbsp;&nbsp;</td></tr><tr><td class="black11" align="center">Administrative Offices: 9500 Ming Ave.&nbsp;|&nbsp;P.O. Box 9506&nbsp;|&nbsp;Bakersfield, CA 93389&nbsp;|&nbsp;661-833-7900&nbsp;|&nbsp;800-221-3311</td></tr><tr><td height="5"><img src="images/spacer.gif" border="0" height="5" width="0"></td></tr><tr><td class="black09" align="center">Copyright 2007 Kern Schools Federal Credit Union.  All Rights Reserved.  <a href="default.asp?fileID=127" class="blue10">PRIVACY</a> <a href="default.asp?fileID=127" class="black09">Policy</a> <a href="default.asp?fileID=129" class="black09">Disclaimer</a>. Your savings FEDERALLY insured to at least $100,000 and backed by the full faith and credit of the United States Government National Credit Union Administration, a U.S. Government Agency.  KSFCU is an Equal Housing Lender.</td></tr></tbody></table></td></tr></tbody></table></td></tr>
+							<tbody><tr><td><table border="0" width="788"><tbody><tr><td src="images/spacer.gif" height="62" width="150"><img src="images/footer/NCUALogo.jpg" border="0" width="161" height="62"></td><td valign="top" align="center" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="black11" align="center"><a href="default.asp?fileID=191" class="black11">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="default.asp?fileID=128" class="black11">Security Statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="default.asp?fileID=180" class="black11">Employment</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="default.asp?fileID=229" class="black11">Routing Number</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="default.asp?fileID=146" class="black11">CU Board Room</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="default.asp?fileID=122" class="black11">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="default.asp?fileID=150" class="black11">Contact Us</a>&nbsp;&nbsp;</td></tr><tr><td class="black11" align="center">Administrative Offices: 9500 Ming Ave.&nbsp;|&nbsp;P.O. Box 9506&nbsp;|&nbsp;Bakersfield, CA 93389&nbsp;|&nbsp;661-833-7900&nbsp;|&nbsp;800-221-3311</td></tr><tr><td height="5"><img src="images/spacer.gif" border="0" height="5" width="0"></td></tr><tr><td class="black09" align="center">Copyright © 2008 Kern Schools Federal Credit Union.  All Rights Reserved.  <a href="default.asp?fileID=127" class="blue10">PRIVACY</a> <a href="default.asp?fileID=127" class="black09">Policy</a> <a href="default.asp?fileID=129" class="black09">Disclaimer</a>. Your savings FEDERALLY insured to at least $250,000 and backed by the full faith and credit of the United States Government National Credit Union Administration, a U.S. Government Agency.  KSFCU is an Equal Housing Lender.</td></tr></tbody></table></td></tr></tbody></table></td></tr>
 						</tbody></table>
 					</td>
 				</tr>
@@ -504,9 +516,11 @@ We recognize that protecting children's identities and on-line privacy is import
 </tbody></table>
 </center>
 
+<script type="text/javascript" src="https://sales.liveperson.net/hc/71769942/x.js?cmd=file&amp;file=chatScript3&amp;site=71769942"></script>
+
 
 <!-- Wernher Picato Client / Server Programmer IV Quantum Data Systems, Inc. -->
-<!-- Ervin Sevilla Client / Server Programmer IV Quantum Data Systems, Inc. -->
+
 
 
 
