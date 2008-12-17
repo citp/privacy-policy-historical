@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotgvibe.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607062003id_/http%3A//hotgvibe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgvibe.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061232id_/http%3A//hotgvibe.com/privacy.php) for the most accurate reproduction.*
 
-# Vibrating Cock Ring Sex Toy :: Hot-G-Vibe Smallest Vibe Penis Ring
+# Hot G Vibe :: Vibrating Cock Ring - Sex Toys - Cock Ring - Vibrating Condom
 
 ### Hot G Vibe Privacy / Security Policy
 
@@ -57,16 +57,15 @@ Hot G Vibe reserves the right to change this Privacy Policy at any time. If we d
 
 #### Contact Us
 
-Any comments or questions about the Hot G Vibe Privacy Policy, can be submitted by e-mail by [clicking here](https://web.archive.org/web/20080607062003id_/http%3A//hotgvibe.com/contact.php).
+Any comments or questions about the Hot G Vibe Privacy Policy, can be submitted by e-mail by [clicking here](https://web.archive.org/web/20081217061232id_/http%3A//hotgvibe.com/contact.php).
 
 You may also contact at us by postal mail: 
 
 ### Hot G Vibe
 
-324 Rue De Castelneau   
+5890 Monkland Ave Suite 406  
 Montreal, Quebec   
-H2R 1P0 CANADA  
-P.O. Box 52518
+H4A 1G2 CANADA
 
 The information contained in this website is subject to change without notice.
 
