@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the multiplay.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509171213id_/http%3A//www.multiplay.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplay.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218005345id_/http%3A//www.multiplay.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Multiplay UK - The UKs # 1 LAN Organisers and home of the I-Series
-
-  
-
 
 Events
 
@@ -20,15 +17,15 @@ My Account
 ---  
 **Next Event**  
 Countdown to   
-i34 :  
-90 days,   
-07h 47m 41s  
+i36 :  
+113 days,   
+08h 06m 16s  
   
   
   
 ---  
-**i34**  
-08 August 2008 - 11 August 2008  
+**i36**  
+10 April 2009 - 13 April 2009  
 2000 people   
   
 [](http://www.123-reg.co.uk/affiliate.cgi?id=AF10876)
@@ -85,15 +82,12 @@ We have notified the Data Protection Commissioner under the terms of the Data Pr
 12 |  CHANGES TO OUR PRIVACY POLICY  
 Any changes we make to our Privacy Policy in future will be posted on this page and, where appropriate, notified to you by email.   
   
+[](http://www.mfestival.com/ "M Festival - The Largest Electronic Games Event in the UK")
+
   
 |  | **Gaming  Stats**   
 ---|---  
-| Players|  : 2,580  
+| Players|  : 2,403  
 ---|---  
-Servers|  : 1,683  
-Slots|  : 36,765  
-  
-| **Poll**    
----|---  
-  
-
+Servers|  : 2,040  
+Slots|  : 33,550
