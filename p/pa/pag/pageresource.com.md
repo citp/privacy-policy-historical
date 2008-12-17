@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageresource.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621164837id_/http%3A//www.pageresource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageresource.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101029id_/http%3A//www.pageresource.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for PageResource.Com
 
@@ -6,7 +6,7 @@
 
 The Web Design Resource has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: PageResource.Com. 
 
-Be sure to view our **[Children's Privacy Policy](https://web.archive.org/web/20080621164837id_/http%3A//www.pageresource.com/privacych.html)**
+Be sure to view our **[Children's Privacy Policy](https://web.archive.org/web/20081217101029id_/http%3A//www.pageresource.com/privacych.html)**
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
 
@@ -37,7 +37,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send a message via our [contact form](https://web.archive.org/web/20080621164837id_/http%3A//www.pageresource.com/contact.htm)
+  1. You can send a message via our [contact form](https://web.archive.org/web/20081217101029id_/http%3A//www.pageresource.com/contact.htm)
 
 
 
@@ -45,7 +45,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. You can send a message via our [contact form](https://web.archive.org/web/20080621164837id_/http%3A//www.pageresource.com/contact.htm)
+  1. You can send a message via our [contact form](https://web.archive.org/web/20081217101029id_/http%3A//www.pageresource.com/contact.htm)
 
 
 
