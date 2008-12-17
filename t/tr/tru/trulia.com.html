@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the trulia.com privacy policy that was archived on 2008-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616143312id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trulia.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217235819id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <title>Trulia Real Estate Search - Privacy Policy</title>
-    <link href="http://images.trulia.com/css/static.css?v=20080604" rel="stylesheet" type="text/css">
-    <link href="http://images.trulia.com/css/colors.css?v=20080604" rel="stylesheet" type="text/css">
+    <link href="http://images.trulia.com/css/static.css?v=20081217a" rel="stylesheet" type="text/css">
+    <link href="http://images.trulia.com/css/colors.css?v=20081217a" rel="stylesheet" type="text/css">
+    
     <script language="JavaScript" type="text/JavaScript">
       var site_root = '/';
       var _IMAGE_SERVER_ROOT = 'http://images.trulia.com/';
@@ -22,8 +23,9 @@ var qpn_NAMES = {
 };
 </script>
 
-    <script language="JavaScript" type="text/JavaScript" src="http://images.trulia.com/javascript/include/js/site.js?v=20080604"></script>
-    <script language="JavaScript" type="text/JavaScript" src="/include/js/left_nav.js?v=20070216"></script>
+
+    <script language="JavaScript" type="text/JavaScript" src="http://images.trulia.com/javascript/include/js/site.js?v=20081217a"></script>
+    <script language="JavaScript" type="text/JavaScript" src="http://images.trulia.com/javascript/include/js/left_nav.js?v=20070216"></script>
     
   </head>
   <body>
@@ -37,7 +39,7 @@ var qpn_NAMES = {
           <!-- START TOP NAV -->
   <div class="clearfix ">
             <a href="/" id="logo" class="home_hover">
-          <img src="http://images.trulia.com/images/logos/trulia-real-estate-search.png" border="0" alt="Trulia Real Estate Search">
+          <img src="http://images.trulia.com/images/logos/trulia-real-estate-search.png" border="0" alt="Trulia real estate and homes for sale">
         </a>
     <div id="top_nav">
             <ul id="top_nav_account" class="fright">
@@ -77,195 +79,317 @@ var qpn_NAMES = {
         </li>
       </ul>
       
-      <div class="drop_shadow popup hidden login_box" id="login_box" onclick="doNothing(event);"><div class="drop_shadow_inner popup_container">
-  <div class="new_popup_header clearfix hidden">
-    <div class="fleft"></div>
-    <a rel="nofollow" href="" onclick=" toggle_menu(event, 'login_box', 0); return false;" class="imgsheet popup_closer "></a>
-  </div>
-
-  <div class="popup_content clearfix">
-    <form id="register_form" class="clearfix " name="register_form" action="/signup/" method="post" onsubmit="return submit_register_form(this, '', false);">
-  <div class="new_popup_header clearfix">
-    <span class="fleft">SIGN UP</span>
-    <a rel="nofollow" href="" onclick="toggle_menu(event, 'login_box', 0); return false;" class="imgsheet popup_closer "></a>
-  </div>
-  Already have an account? 
-  <a href="/login/" onclick="toggle_login_form('', '');return false;">Log in</a>
-  <br><br>
-
-  <input type="hidden" name="return_url" value="">
-  <div class="padb10">
-    <label for="name_field">Name:</label>
-    <input id="name_field" size="25" type="text" name="name_field" value="">
-  </div>
+      <table border="0" cellspacing="0" cellpadding="0" class="hidden login_box login_table popup_table" id="login_box" onclick="doNothing(event);">
+  <tbody><tr>
+    <td class="popup_shadow popup_top_left">
+      <div class="popup_background">        
+        <div id="login_form_container" class="">
+          <div class="new_popup_header clearfix ">
+            <div class="fleft" id="login_box_popup_header">Log in</div>
+            <a rel="nofollow" href="" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;" class="imgsheet popup_closer "></a>
+          </div>
   
-  <div class="padb10">
-    <label for="email_field">Email:</label>
-    <input id="email_field" size="25" type="text" name="email" value="" onblur="check_exist(this.form, 'reg_box_msg_txt', true);">
-  </div>
+          <div class="popup_content clearfix">
+          <div class="popupsection hidden" id="search_info_section">
+  <strong>Your search:</strong><br>
+  <span id="search_info_string">.</span>
+</div>
 
-  <div class="padb10">
-    <label for="password_field">Password:</label>
-    <input id="password_field" size="15" type="password" name="password" autocomplete="off">
-    <div class="Example">5-15 characters</div>
-  </div>
-  
-  <div class="padb10">
-    <label class="retype_pwd" for="password_verify_field">Re-type password:</label>
-    <input id="password_verify_field" size="15" type="password" name="password_verify" autocomplete="off" onblur="check_pw_match('')">
-  </div>
+          <div class="popupsection hidden" id="email_alert_form_section">
+  <strong>Get email updates</strong> when homes matching your search are:
+  <table><tbody><tr><td>
+  <label><input type="checkbox" checked="checked" id="alertPropertiesListed"> <strong>Listed for sale</strong></label> 
+  <label><input type="checkbox" checked="checked" id="alertPropertiesSold"> <strong>Sold</strong></label>
+  </td><td class="padl10">
+  <select id="alertPropertiesFrequency" class="fright">
+    <option value="daily">Email me daily</option>
+    <option value="weekly">Email me weekly</option>
+  </select>
+  </td></tr></tbody></table>
+</div>
+<div class="popupsection hidden medium_hilite" id="email_search_subscribe_status">
+Please select an email alert option to subscribe to.
+</div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" class="padt10 hidden" id="email_alert_buttons">
+  <tbody><tr><td>
+    <a class="popup_cancel_link" href="" rel="nofollow" onclick="toggle_menu(event,'login_box',0);login_reset();return false;">Cancel</a>
+  </td>
+  <td>
+    <a class="imgsheet new_save_btn" href="" rel="nofollow" onclick="toggle_menu(event,'login_box',0);login_reset();email_search_subscribe(true);return false;"></a>
+  </td></tr>
+</tbody></table>
 
-  <label for="location_field">Location:</label>
-  <input id="location_field" size="25" type="text" name="location" value="" autocomplete="off" onfocus="var autocompletion=new Autocomplete('location','location_auto',this.form, 'location' ,'autocomplete_location', '');">
-  <div class="Example">City &amp; State, or ZIP</div>
-  
-  <input type="hidden" value="" name="autocomplete_location" id="autocomplete_location">
-  <div id="location_auto" class="location_auto"></div>
-  
-  <div id="outside_us_error" class="hidden outside_us_error clearfix">
-    <input type="checkbox" class="checkbox" name="outside_us" id="outside_us" onclick="outside_US_reg_form('');">
-    <label for="outside_us" class="normal">Outside the U.S.?</label>
-  </div>
-  <br>
+          <div class="popupsection hidden" id="saved_search_form_section">
+  <label><input type="checkbox" checked="checked" id="saved_search_checkbox"> <strong>Notify me</strong> when new listings match this search</label>
+</div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" class="padt10 hidden" id="saved_search_buttons">
+  <tbody><tr><td>
+    <a class="popup_cancel_link" href="" rel="nofollow" onclick="toggle_menu(event,'login_box',0);login_reset();return false;">Cancel</a>
+  </td>
+  <td>
+    <a class="imgsheet new_save_btn" href="" rel="nofollow" onclick="toggle_menu(event,'login_box',0);login_reset();subscribe(-1,event,true);return false;"></a>
+  </td></tr>
+</tbody></table>
 
-  <div class="padb10">
-    <label>Phone:</label>
-    <input size="25" type="text" name="phone">
-    <div class="f10">(optional)</div>
-  </div>
-  
-  <div class="bold">Which describes you best?</div>
+              <form id="register_form" class="login_box clearfix " name="register_form" action="/signup/" method="post" onsubmit="return submit_register_form(this, '', false);">  
+      <input type="hidden" name="return_url" value="">
 
-  <div class="radio">
-    <input type="radio" name="user_status" value="radio_buyer" id="us_buyer">
-    <label for="us_buyer">Home buyer</label>
-    <br>
-    <input type="radio" name="user_status" value="radio_seller" id="us_seller">
-    <label for="us_seller">Home seller</label>
-    <br>
-    <input type="radio" name="user_status" value="radio_buyer_seller" id="us_buyer_seller">
-    <label for="us_buyer_seller">Both buyer and seller</label>
-    <br>
-    <input type="radio" name="user_status" value="radio_pro" id="us_pro">
-    <label for="us_pro">Real estate professional</label>
-    <br>
-    <input type="radio" name="user_status" value="radio_other" id="us_other">
-    <label for="us_other">Other/Just looking</label>
-  </div>
-  
-      <input class="checkbox" id="contact_me_field" type="checkbox" name="contact_me" checked="checked">
-    <label class="for_checkbox" for="contact_me_field"><b>Yes!</b> Sign me up for Trulia's House Hunting Tips email newsletter</label>
-    <br><br>
-
-
-
-  <!-- <div class="light_grey_container clearfix">
-    <input class="checkbox" id="contact_me_field" type="checkbox" name="contact_me" checked="checked" />
-    <label class="for_checkbox" for="contact_me_field"><strong>Yes!</strong> Sign me up for Trulia's House Hunting Tips email newsletter</label>
-  </div> -->
-  
-  <div>
-    <span id="reg_box_msg_txt" class="reg_box_msg_txt"></span>
-    <a href="/login/" id="login_prompt" class="login_prompt hidden clear" onclick="toggle_login_form('', '');return false;">Log in</a>
-  </div>
-  <div class="bottom clearfix">
-
-    <div class="bottom_btns clearfix">
-      <div id="reg_btn" class="fake_btn_dark_lolite" onclick="submit_register_form('register_form', '', false);">
-        <a rel="nofollow" href="" onclick="return false;"><div>Create Account</div></a>
+      <div class="login_form_intro clearfix">
+        <strong>Create a FREE account</strong> to save searches and track homes (it only takes a minute). Already have an account? 
+        <a href="/login/" onclick="toggle_login_form('', '', {'return_url':''});return false;">Log in</a>.
       </div>
 
-      <a rel="nofollow" href="" onclick="toggle_menu(event, 'login_box', 0); return false;" class="fake_btn_off "><div>Cancel</div></a>
+      <div class="login_form_line clearfix">
+        <label for="name_field">Name:</label>
+        <input id="name_field" size="25" type="text" name="name_field" value="">
+      </div>
+
+      <div class="login_form_line clearfix">
+        <label for="email_field">Email:</label>
+        <input id="email_field" size="25" type="text" name="email" value="" onblur="check_exist(this.form, 'reg_box_msg_txt', true);">
+      </div>
+
+      <div class="login_form_line clearfix">
+        <label for="password_field">Password:</label>
+        <input id="password_field" size="15" type="password" name="password" autocomplete="off">
+        <div class="Example">5-15 characters</div>
+      </div>
+
+      <div class="login_form_line clearfix">
+        <label class="retype_pwd" for="password_verify_field">Re-type password:</label>
+        <input id="password_verify_field" size="15" type="password" name="password_verify" autocomplete="off" onblur="check_pw_match('')">
+      </div>
+
+      <div class="login_form_line clearfix">
+        <label for="location_field">Location:</label>
+        <input id="location_field" size="25" type="text" name="location" value="" autocomplete="off" onfocus="var autocompletion=new Autocomplete('location','location_auto',this.form, 'location' ,'autocomplete_location', '');">
+        <br>
+        
+        <span id="location_auto" class="location_auto"></span>
+        <div class="Example">City &amp; State, or ZIP</div>
+        
+        <input type="hidden" value="" name="autocomplete_location" id="autocomplete_location">
+        
+        <div id="outside_us_error" class="hidden outside_us_error clearfix">
+          <input type="checkbox" class="checkbox" name="outside_us" id="outside_us" onclick="outside_US_reg_form('');">
+          <label for="outside_us" class="normal">Outside the U.S.?</label>
+        </div>
+      </div>
+
+      <div class="login_form_line clearfix">
+        <label>Phone: <span class="f10 normal">(optional)</span></label>
+        <input size="25" type="text" name="phone">
+      </div>
+
+      <div class="login_form_line clearfix">
+        <label>Which describes you best?</label>
+        <select name="user_status" id="user_status">
+          <option value="">-- Please select --</option>
+          <option id="us_buyer" value="radio_buyer">Home buyer</option>
+          <option id="us_seller" value="radio_seller">Home seller</option>
+          <option id="us_buyer_seller" value="radio_buyer_seller">Both buyer and seller</option>
+          <option id="us_pro" value="radio_pro">Real estate professional</option>
+          <option id="us_other" value="radio_other">Other/Just looking</option>
+        </select>
+      </div>
+
+          <div class="login_form_line clearfix padt5">
+      <input class="checkbox" id="contact_me_field" type="checkbox" name="contact_me_field" checked="checked">
+      <label class="for_checkbox" for="contact_me_field"><strong>Notify me</strong> about news, price trends, and tips</label>
     </div>
-  </div>
+      <!-- <div class="light_grey_container clearfix">
+        <input class="checkbox" id="contact_me_field" type="checkbox" name="contact_me" checked="checked" />
+        <label class="for_checkbox" for="contact_me_field"><strong>Yes!</strong> Sign me up for Trulia's House Hunting Tips email newsletter</label>
+      </div> -->
+      
+      <div class="clearfix padt10">
+        <span id="reg_box_msg_txt" class="reg_box_msg_txt"></span> &nbsp; 
+        <a href="/login/" id="login_prompt" class="login_prompt hidden clear" onclick="toggle_login_form('', '', {'return_url':''});return false;">Log in</a>
+        <br>
+        
+        <div class="bottom_two_btns">
+          <a class="fright popup_cancel_link " href="" rel="nofollow" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;">Cancel</a>
+        </div>
+        
+        <div class="bottom_two_btns">
+          <a class="imgsheet create_account_btn" href="/signup/" id="reg_btn" rel="nofollow" onclick="submit_register_form('register_form', '', false); return false;"></a>
+        </div>
+      </div>
+            
+      <!-- <div class="bottom clearfix">
 
-  <input type="submit" name="submit_btn" value="Create Account" class="transparent_btn">
-</form>
-<form id="login_form" class="login_box clearfix hidden" name="login_form" onsubmit="return submit_login_form(this, '', false);" action="/login/" method="post">
-  <div class="new_popup_header clearfix">
-    <span class="fleft">LOG IN</span>
-    <a rel="nofollow" href="" onclick="toggle_menu(event, 'login_box', 0); return false;" class="imgsheet popup_closer "></a>
-  </div>
-  Don't have an account? 
-  <a href="/signup/" onclick="toggle_login_form('', '');return false;">Sign up</a>
-  <br><br>
+        <div class="bottom_btns clearfix">
+          <a rel="nofollow" href="" class="popup_cancel_link "
+            onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;">Cancel</a>
+          
+          <a rel="nofollow" href="/signup/" id="reg_btn" class="imgsheet create_account_btn" 
+            onclick="submit_register_form('register_form', '', false); return false;"></a>
+        </div>
+      </div> -->
 
-  <input type="hidden" id="lpg" name="lpg" value="">
-  <input type="hidden" name="rdtg" value="">
-  <input type="hidden" name="return_url" value="">
+      <input type="submit" name="submit_btn" value="Create Account" class="transparent_btn">  
+    </form>
+    <form id="login_form" class="login_box clearfix hidden" name="login_form" action="/login/" method="post" onsubmit="return submit_login_form(this, '', false);">
+      <input type="hidden" id="lpg" name="lpg" value="">
+      <input type="hidden" name="rdtg" value="">
+      <input type="hidden" name="return_url" value="">
+      
+      <div class="login_form_intro clearfix">
+        <strong>Log in</strong> to save and track homes! Don't have an account? 
+        <a href="/signup/" onclick="toggle_login_form('', '', {'return_url':''});return false;">Sign up</a>
+      </div>
 
-  <div class="padb10">
-    <label for="login_email_field">Email:</label>
-    <input id="login_email_field" size="25" type="text" name="email" value="" onblur="check_exist(this.form, 'login_box_msg_txt', true);">
-  </div>
+      <div class="clearfix padb5 bold" id="enter_password_prompt" style="display:none">
+        Please enter your password to continue:
+      </div>
 
-  <label for="login_password_field">Password:</label>
-  <input id="login_password_field" size="15" autocomplete="off" type="password" name="password">
-  <br>
-  
-  <a rel="nofollow" class="" href="/forgot_password/" onclick="toggle_login_form('password','');return false;">Forgot password?</a>
-  <a rel="nofollow" class="hidden" href="/forgot_password/">Forgot password?</a>
-  
-  <!-- <span id="login_password_message" class="ErrorMessage"></span> -->
+      <div class="login_form_line clearfix">
+        <label for="login_email_field">Email:</label>
+        <input id="login_email_field" size="25" type="text" name="email" value="" onblur="check_exist(this.form, 'login_box_msg_txt', true);">
+      </div>
 
-  <div class="bottom clearfix">          
-    <span id="login_box_msg_txt" class="login_box_msg_txt"></span>&nbsp;
-    <a href="/signup/" id="register_prompt" class="hidden" onclick="toggle_login_form('', '');return false;">Sign up</a>
+      <div class="login_form_line clearfix">
+        <label for="login_password_field">Password:</label>
+        <input id="login_password_field" size="15" autocomplete="off" type="password" name="password">
 
-    <div class="bottom_btns clearfix">
-      <div id="login_btn" class="fake_btn_dark_lolite" onclick="submit_login_form('login_form', '', false);">
-        <a rel="nofollow" href="" onclick="return false;"><div>Log In</div></a>
+        <div class="Example">
+          <a rel="nofollow" class="" href="/forgot_password/" onclick="toggle_login_form('password','', {'return_url':''});return false;">Forgot password?</a>
+          <a rel="nofollow" class="hidden" href="/forgot_password/" onclick="toggle_login_form('password_page','', {'return_url':''});return false;">Forgot password?</a>
+        </div>
+      </div>
+
+      <div class="clearfix padt10">
+        <span id="login_box_msg_txt" class="login_box_msg_txt"></span> &nbsp;
+        <a href="/signup/" id="register_prompt" class="hidden" onclick="toggle_login_form('', '', {'return_url':''});return false;">Sign up</a>
+        <br>
+        
+        <div class="bottom_two_btns">
+          <a class="fright popup_cancel_link " href="" id="login_cancel" rel="nofollow" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;">Cancel</a>
+        </div>
+        
+        <div class="bottom_two_btns">
+          <a class="imgsheet login_btn" href="/login/" id="login_btn" rel="nofollow" onclick="submit_login_form('login_form', '', false); return false;"></a>
+        </div>
       </div>
       
-      <!-- <a rel="nofollow" href="" id="login_btn" class="fake_btn_dark_lolite"
-        onclick="submit_login_form('login_form', '', false); return false;"><div>Log In</div></a> -->
-        
-      <a rel="nofollow" href="" onclick="toggle_menu(event, 'login_box', 0); return false;" class="fake_btn_off "><div>Cancel</div></a>      
-    </div>
-  </div>   
+      <!-- <div class="bottom clearfix">
 
-  <input type="submit" name="submit_btn" value="Log In" class="transparent_btn">
-</form>
-<form id="password_form" class="login_box clearfix hidden" name="forgot_password_form" onsubmit="return false;">
-  <div class="new_popup_header clearfix">
-    <span class="fleft">Forgot your password?</span>
-    <a rel="nofollow" href="" onclick="toggle_menu(event, 'login_box', 0); return false;" class="imgsheet popup_closer "></a>
-  </div>
-  Enter your email and we'll email you a new password.
-  <br><br>
+        <div class="bottom_btns clearfix">          
+          <div id="login_btn" class="fake_btn_dark_lolite" onclick="submit_login_form('login_form', '', false);">
+            <a rel="nofollow" href="" onclick="return false;"><div>Log In</div></a>
+          </div> 
+          
+          <a rel="nofollow" href="" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;" class="fake_btn_off "><div>Cancel</div></a>
+        </div>
+      </div>   --> 
+
+      <input type="submit" name="submit_btn" value="Log In" class="transparent_btn">
+    </form>
+    <form id="password_form" class="login_box clearfix hidden" name="forgot_password_form" action="/forgot_password/" method="post" onsubmit="do_email_password('password_box_msg_txt', ''); return false;">
+      <div class="login_form_intro clearfix">
+        Enter your email and we'll email you a new password.
+      </div>
+      
+      <div class="login_form_line clearfix">
+        <label for="forgot_password_email_field">Email:</label>
+        <input id="forgot_password_email_field" size="25" type="text" name="email" value="" onfocus="javascript:clear_element('password_box_msg_txt');">
+      </div>
+
+      <div class="clearfix padt10">
+        <span id="password_box_msg_txt" class="password_box_msg_txt"></span>
+        <br>
+        
+        <div class="bottom_two_btns">
+          <a class="fright popup_cancel_link " href="" rel="nofollow" onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;">Cancel</a>
+            
+          <a class="fright popup_cancel_link hidden" href="/login/" rel="nofollow" onclick="toggle_login_form('login_page','', {'return_url':''});login_reset();return false;">Cancel</a>
+        </div>
+        
+        <div class="bottom_two_btns">
+          <a class="imgsheet pwd_btn" href="/forgot_password/" id="pwd_btn" rel="nofollow" onclick="do_email_password('password_box_msg_txt', ''); return false;"></a>
+        </div>
+      </div>
+      
+      <!-- <div class="bottom clearfix">
+        <div class="bottom_btns clearfix">
+          <a rel="nofollow" href="" class="popup_cancel_link "
+            onclick="toggle_menu(event, 'login_box', 0);login_reset();return false;">Cancel</a>
+            
+          <a rel="nofollow" href="/login/" class="popup_cancel_link hidden"
+            onclick="toggle_login_form('login_page','', {'return_url':''});login_reset();return false;">Cancel</a>
+          
+          <a rel="nofollow" href="/forgot_password/" id="pwd_btn" class="imgsheet pwd_btn" 
+            onclick="do_email_password('password_box_msg_txt', ''); return false;"></a>
+
+        </div>    
+      </div> -->
+
+      <input type="submit" name="submit_btn" value="Send me a new password" class="transparent_btn">
+    </form>
+
+          </div>
+        </div>
+      </div>
+    </td>
+    <td class="popup_shadow popup_top_right">&nbsp;</td>
+  </tr>
   
-  <label for="forgot_password_email_field">Email:</label>
-  <input id="forgot_password_email_field" size="25" type="text" name="email" value="" onfocus="javascript:clear_element('password_box_msg_txt');">
-  <br><br>
+  <tr>
+    <td class="popup_shadow popup_bottom_left">&nbsp;</td>
+    <td class="popup_shadow popup_bottom_right">&nbsp;</td>
+  </tr>
+</tbody></table>
 
-    <span id="password_box_msg_txt" class="password_box_msg_txt"></span>
-  <div class="bottom clearfix">
-    
-    <div class="bottom_btns clearfix">
-      <a rel="nofollow" href="" onclick="return false;" class="fake_btn_dark_lolite"><input id="pwd_btn" type="submit" name="submit" value="Submit" onclick="do_email_password('password_box_msg_txt', '');"></a>
-        
-      <a rel="nofollow" href="" onclick="toggle_menu(event, 'login_box', 0); return false;" class="fake_btn_off"><div>Cancel</div></a>
-    </div>    
-  </div>
-</form>
-
-  </div>
-</div></div>
       
       <ul id="top_nav_bar" class="clearfix top_nav_imgsheet">
         <!-- START Top nav main nav -->
         <li id="nav_home" class="nav_main top_nav_imgsheet nav_main_first">
-  <a class="nav_main" href="/">Find Homes</a>
-  <ul class="hidden">
-    <li id="nav_my_homes_srp_link" class="hidden ">
-  <a rel="nofollow" class="sub_nav" href="/account/properties/">
+  <a class="nav_main" href="/TX/Austin/">Find Homes</a>
+  <ul class="">
+    <li id="srp_city_link" class="">
+  <a class="sub_nav" href="/TX/Austin/">
+    Austin <span class="sub_nav_link_page_name">Homes for Sale</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="srp_city_new_home_link" class="">
+  <a class="sub_nav" href="/for_sale/Austin,TX/new_homes_lt/">
+    Austin <span class="sub_nav_link_page_name">New Homes</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="srp_city_foreclosure_link" class="">
+  <a class="sub_nav" href="/for_sale/Austin,TX/foreclosure_lt/">
+    Austin <span class="sub_nav_link_page_name">Foreclosures</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="srp_city_open_home_link" class="">
+  <a class="sub_nav" href="/for_sale/Austin,TX/p_oh/">
+    Austin <span class="sub_nav_link_page_name">Open Houses</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="srp_city_recently_sold_link" class="">
+  <a class="sub_nav" href="/sold/Austin,TX/">
+    Austin <span class="sub_nav_link_page_name">Recently Sold Homes</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="nav_my_homes_srp_link" class="hidden soft_top_border">
+  <a onclick="o_track_ql_click('UniversalNav|MyHomes');" rel="nofollow" class="sub_nav" href="/account/properties/">
     My Homes
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="nav_my_searches_srp_link" class="hidden ">
-  <a rel="nofollow" class="sub_nav" href="/account/searches/">
+  <a onclick="o_track_ql_click('UniversalNav|MySearches');" rel="nofollow" class="sub_nav" href="/account/searches/">
     My Searches
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
@@ -273,58 +397,116 @@ var qpn_NAMES = {
 </li>
 
   </ul>
-</li><li id="nav_guide" class="nav_main top_nav_imgsheet ">
-  <a class="nav_main" href="/real_estate/apollo-/">Stats &amp; Trends</a>
-  <ul class="hidden">
-    
+</li>
+<li id="nav_guide" class="nav_main top_nav_imgsheet ">
+  <a class="nav_main" href="/real_estate/Austin-Texas/">Stats &amp; Trends</a>
+  <ul class="">
+    <li id="city_guide_link" class="">
+  <a class="sub_nav" href="/real_estate/Austin-Texas/">
+    Austin <span class="sub_nav_link_page_name">Real Estate Overview</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="market_trends_link" class="">
+  <a class="sub_nav" href="/real_estate/Austin-Texas/market-trends/">
+    Austin <span class="sub_nav_link_page_name">Market Trends</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="heatmap_link" class="">
+  <a class="sub_nav" href="/home_prices/Texas/Austin-heat_map/">
+    Austin <span class="sub_nav_link_page_name">Home Prices Map</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="city_guide_school_section_link" class="">
+  <a class="sub_nav" href="/real_estate/Austin-Texas/schools/">
+    Austin <span class="sub_nav_link_page_name">Schools</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="city_guide_community_info_link" class="">
+  <a class="sub_nav" href="/real_estate/Austin-Texas/community-info/">
+    Austin <span class="sub_nav_link_page_name">Community Info</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+
   </ul>
-</li><li id="nav_voices" class="nav_main top_nav_imgsheet ">
+</li>
+<li id="nav_voices" class="nav_main top_nav_imgsheet ">
   <a class="nav_main" href="/voices/">Advice &amp; Opinions</a>
   <ul class="">
-    <li id="main_voices_link" class="">
-  <a rel="nofollow" class="sub_nav" href="/voices/">
+    <li id="location_voices_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|LocationQAndA');" class="sub_nav" href="/voices/Austin---4668--">
+    Austin <span class="sub_nav_link_page_name"> Q&amp;A</span>
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="main_voices_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|VoicesHome');" rel="nofollow" class="sub_nav" href="/voices/">
     Trulia Voices <span class="sub_nav_link_page_name"> Home</span>
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="qa_home_link" class="">
-  <a rel="nofollow" class="sub_nav" href="/voices/-QandA-10000---">
+  <a onclick="o_track_ql_click('UniversalNav|QAndAHome');" rel="nofollow" class="sub_nav" href="/voices/-QandA-10000---">
     Q&amp;A <span class="sub_nav_link_page_name">Home</span>
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="agent_talk_link" class="">
-  <a rel="nofollow" class="sub_nav" href="/voices/-Agent2Agent-42---">
+  <a onclick="o_track_ql_click('UniversalNav|Agent2Agent');" rel="nofollow" class="sub_nav" href="/voices/-Agent2Agent-42---">
     Agent2Agent
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="using_trulia_link" class="">
-  <a rel="nofollow" class="sub_nav" href="/voices/-Using_Trulia-36---">
+  <a onclick="o_track_ql_click('UniversalNav|UsingTrulia');" rel="nofollow" class="sub_nav" href="/voices/-Using_Trulia-36---">
     Using Trulia
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="ask_question_link" class="">
-  <a rel="nofollow" class="sub_nav" href="/ask">
+  <a onclick="o_track_ql_click('UniversalNav|AskQuestion');" rel="nofollow" class="sub_nav" href="/ask/">
     Ask a Question
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
+<li id="blog_home_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|Blogs');" rel="nofollow" class="sub_nav" href="/voices/blogs/">
+    Blogs
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
+<li id="post_blog_link" class="">
+  <a onclick="o_track_ql_click('UniversalNav|WriteBlog');" rel="nofollow" class="sub_nav" href="/blog/post/">
+    Write a Blog Post
+  </a>
+  <sup class="f9 dark_hilite_bold"></sup>
+  <span class="disabled_txt"></span>
+</li>
 <li id="nav_view_profile_link" class="hidden soft_top_border">
-  <a rel="nofollow" class="sub_nav" href="/account/settings/">
+  <a onclick="o_track_ql_click('UniversalNav|ViewMyProfile');" rel="nofollow" class="sub_nav" href="/account/settings/">
     View my Profile
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
   <span class="disabled_txt"></span>
 </li>
 <li id="nav_view_QnA_link" class="hidden ">
-  <a rel="nofollow" class="sub_nav" href="/account/qanda/">
+  <a onclick="o_track_ql_click('UniversalNav|MyQAndA');" rel="nofollow" class="sub_nav" href="/account/qanda/">
     My Questions &amp; Answers
   </a>
   <sup class="f9 dark_hilite_bold"></sup>
@@ -333,22 +515,28 @@ var qpn_NAMES = {
 
   </ul>
 </li>
+
         <!-- START Top nav main nav -->
 
         <!-- START Top nav search -->
         <li id="nav_search" class="nav_main nav_main_last top_nav_imgsheet">
-          <form method="get" action="/validate.php" name="navform">
-            <input type="hidden" value="1" name="hsb">
+          <form method="get" action="/validate.php" name="navform" id="navform" class="clearfix">
+            <table border="0" cellspacing="0" cellpadding="0" align="right">
+              <tbody><tr>
+                <td>
+                  <input type="hidden" value="1" name="hsb">
+                  <input type="hidden" value="h" name="tst" id="t_search_type">
 
-            <label for="t_navsearch">Search</label>
-            <input type="text" value="City &amp; State, or ZIP" name="search" size="20" class="dark_grey_border" id="t_navsearch" onblur="handle_edit_box(this,zsbdef,false)" onfocus="handle_edit_box(this,zsbdef,true)">
-
-            <select id="t_search_type" name="tst">
-              <option selected="selected" value="h">Homes</option>
-              <option value="g">Stats &amp; Trends</option><option value="v">Advice &amp; Opinions</option>
-            </select>
-
-            <input type="submit" id="t_navsearchbtn" onclick="return validate_sb();" value="GO" class="srchbtn">
+                  <label for="t_navsearch" id="t_navsearch_label">Search homes in</label>
+                  <input type="text" value="Address, City &amp; State, or ZIP" name="search" size="20" class="dark_grey_border disabled_txt" id="t_navsearch" onblur="handle_edit_box(this,zsbdef2,false)" onfocus="handle_edit_box(this,zsbdef2,true)">
+                </td>
+                
+                <td>
+                  <a id="t_navsearchbtnlink" class="imgsheet" onclick="submit_topnav_search_box('t_navsearch'); return false;" href="" rel="nofollow"></a>
+                  <input id="t_navsearchbtn" class="transparent_btn" type="submit" name="submit_btn" value="SEARCH" onclick="return validate_sb();">
+                </td>
+              </tr>
+            </tbody></table>
           </form>
         </li>
         <!-- END Top nav search -->
@@ -360,6 +548,10 @@ var qpn_NAMES = {
       // if login box is showing, hide the selects behind it.
       hide_selects_behind_login = function(suffix)
       {
+        return; // used to be for bug 4290, now centered
+        if (!is_IE())
+  	      return;
+  	      
     		var the_box = xb_get_element('login_box' + suffix);
 		
     		if (the_box && the_box.style.display != 'none' && !has_class(the_box, 'hidden'))
@@ -368,36 +560,37 @@ var qpn_NAMES = {
   
       sfHover = function()
       {
-      	var sfEls = document.getElementById('top_nav').getElementsByTagName('LI');
+        if (!is_IE())
+  	      return;
+  	      
+      	var sfEls = document.getElementById('top_nav_bar').getElementsByTagName('LI');
 
-      	for (var i = 0; i < sfEls.length; i++)
+      	for (var i = 0; i <= sfEls.length; i++)
       	{
-      	  if (sfEls[i].id != 'nav_search')
-    			{
+          // Sneaky way of adding another element to watch
+          if (i==sfEls.length)
+            sfEls[i] = xb_get_element('top_nav_my_trulia');
+
+      	  if (sfEls[i] && sfEls[i].id!='nav_search')
+          {
       	    sfEls[i].onmouseover = function()
+            {
+              // xb_get_element('t_navsearch').focus();
+
+              add_class(this, 'sfhover');
+        			var menus = this.getElementsByTagName('UL');
+
+        			if (menus && menus[0])
+        			  DOMUtils.hide_selects_by_el(menus[0]);
+      			  
+      			  hide_selects_behind_login('')
+            }
+
+      		  sfEls[i].onmouseout = function()
         		{
-      			  xb_get_element('t_navsearchbtn').focus();
-
-              if (is_IE())
-              {
-                add_class(this, 'sfhover');
-
-          			var menus = this.getElementsByTagName('UL');
-          			if (menus && menus[0])
-          			  DOMUtils.hide_selects_by_el(menus[0]);
-          			  
-        			  hide_selects_behind_login('')
-              }
-        		}
-
-        		if (is_IE())
-        		{
-        		  sfEls[i].onmouseout = function()
-          		{
-          			remove_class(this, 'sfhover');
-          			unhide_selects();
-          			hide_selects_behind_login('')
-          		}
+        			remove_class(this, 'sfhover');
+        			unhide_selects();
+        			hide_selects_behind_login('')
         		}
       		}
       	}
@@ -421,12 +614,12 @@ var qpn_NAMES = {
 
 </div>
 
-        <div class="padt20" style="clear:both;">
+        <div class="" style="clear:both;">
           <table cellpadding="0" cellspacing="0" border="0" width="100%">
             <tbody>
               <tr>
                 <td align="left" valign="top">
-                  <div style="padding-left:20px;float:left;vertical-align:top;">
+                  <div style="vertical-align:top;">
                     <p>
   </p><center>
     <strong>
@@ -508,7 +701,7 @@ var qpn_NAMES = {
           </table>
         </div>
         
-  <div id="footer" class="mart50" style="clear:both;">
+  <div id="footer" class="mart40" style="clear:both;">
 
     <div id="ftr1">
       <h2>Company Info</h2>
@@ -519,43 +712,44 @@ var qpn_NAMES = {
         <li><a href="http://support.trulia.com" rel="nofollow">Help Center</a></li>
         <li><a href="http://support.trulia.com" rel="nofollow">Customer Service</a></li>
         <li><a href="http://careers2.hiredesk.net/ViewJobs/?Comp=Trulia&amp;sPERS_ID=&amp;tp_id=1&amp;JB_ID" rel="nofollow" class="medium_hilite bold"><span class="medium_hilite bold">Jobs</span></a></li>
-      </ul>
+      <br>
+    </ul>
     </div>
 
     <div id="ftr2">
-      <h2>Partners</h2>
-      <ul>
-        <li><a href="/agents/">Real Estate Professionals</a></li>
-        <li><a href="/advertisers/">Advertisers</a></li>
-        <li><a href="/publishers/">Publishers</a></li>
-        <li><a href="/network/">Trulia Ad Network</a></li>
-        <li><a href="http://support.trulia.com/ics/support/default.asp?deptID=5412" rel="nofollow">Industry FAQ</a></li>
-        <li><a href="/submit_listings/"><span class="medium_hilite bold">Submit Your Listings</span></a></li>
+      <h2>Trulia Links</h2>
+        <ul>
+        <li><a href="/leave_feedback/" rel="nofollow">Give Us Feedback</a></li>
+        <li><a href="/">Homes for Sale</a></li>
+        <li><a href="/city/">Stats &amp; Trends</a></li>
+        <li><a href="/voices/">Real Estate Advice &amp; Opinions</a></li>
+        <li><a href="/explore/" rel="nofollow">Trulia Explore</a></li>
+        <li><a href="/mobile/" rel="nofollow">Trulia Mobile</a></li>
+        <li><a href="/login/r/account/properties/" rel="nofollow"><span class="medium_hilite bold">Log In</span></a> | <a href="/signup/" rel="nofollow"><span class="medium_hilite bold">Create an Account</span></a></li>
+
       </ul>
     </div>
 
     <div id="ftr3">
-      <h2>Trulia Links</h2>
-        <ul>
-        <li><a href="/">Homes for Sale</a></li>
-        <li><a href="/city/">Stats &amp; Trends</a></li>
-        <li><a href="/voices/">Real Estate Advice &amp; Opinions</a></li>
+    <h2>Partners</h2>
+      <ul>
+        <li><a href="/advertisers/">Advertisers</a></li>
+        <li><a href="/publishers/">Publishers</a></li>
+        <li><a href="/publishers/partner/">Trulia Partner Program</a></li>
+        <li><a href="/network/">Trulia Ad Network</a></li>
         <li><a href="http://developer.trulia.com/" rel="nofollow">Trulia API</a></li>
-        <li><a href="/explore/" rel="nofollow">Trulia Explore</a></li>
-        <li><a href="/login/r/account/properties/" rel="nofollow"><span class="medium_hilite bold">Log In</span></a> | <a href="/signup/" rel="nofollow"><span class="medium_hilite bold">Create an account</span></a></li>
-      </ul>
-    </div>
+        <li><a href="http://support.trulia.com/ics/support/default.asp?deptID=5412&amp;task=knowledge&amp;questionID=232" rel="nofollow" target="_self"><span class="medium_hilite bold">Contact Us</span></a></li>
+      </ul><br>
+      </div>
 
     <div id="ftr4">
-      <h2>Legal</h2>
+    <h2>Real Estate Professionals</h2>
       <ul>
-        <li>Terms of Use</li>
-        <li>&nbsp; - <a href="/terms/" rel="nofollow" target="_self">General</a></li>
-        <li>&nbsp; - <a href="/terms/advertisers/" rel="nofollow" target="_self">Advertiser</a></li>
-        <li>&nbsp; - <a href="/agents/feature/terms/" rel="nofollow" target="_self">Agent Featured Listings</a></li>
-        <li><a href="/privacy/" rel="nofollow" target="_self">Privacy Policy</a></li>
-        <li><a href="/guidelines/" rel="nofollow" target="_self">Community Guidelines</a></li>
-        <li><a href="http://support.trulia.com/ics/support/default.asp?deptID=5412&amp;task=knowledge&amp;questionID=232" rel="nofollow" target="_self"><span class="medium_hilite bold">Contact Us</span></a></li>
+        <li><a href="/truliapro/" rel="nofollow">Trulia Pro</a></li>
+        <li><a href="/voices/about/" rel="nofollow">Trulia Voices Community</a></li>
+        <li><a href="/agents/brand_your_listings/" rel="nofollow" target="_self">Brand Your Listings</a></li>
+        <li><a href="/tools/" rel="nofollow">Real Estate Tools &amp; Widgets</a></li>
+        <li><a href="/submit_listings/"><span class="medium_hilite bold">Submit Your Listings</span></a></li>
       </ul>
     </div>
 
@@ -603,26 +797,36 @@ var qpn_NAMES = {
         <a href="/sitemap/">Other&nbsp;local&nbsp;real&nbsp;estate</a>
          &nbsp;|&nbsp;
         <a href="/home_prices/">Home&nbsp;price&nbsp;maps</a>
+         &nbsp;|&nbsp;
+        <a href="/voices/sitemap/">Real&nbsp;estate&nbsp;community</a>
+         &nbsp;|&nbsp;
+        <a href="/property-sitemap/">U.S. Property records</a>
       </p>
+      <h2>Legal</h2>
+      <p>
+       <a href="/terms/" rel="nofollow" target="_self">General Terms of Use</a> &nbsp;   |  &nbsp;
+       <a href="/terms/advertisers/" rel="nofollow" target="_self">Advertiser Terms of Use</a> &nbsp;   |  &nbsp;
+       <a href="/truliapro/terms/" rel="nofollow" target="_self">Trulia Pro Terms of Use</a> &nbsp;   |  &nbsp;
+       <a href="/privacy/" rel="nofollow" target="_self">Privacy Policy</a> &nbsp;   |  &nbsp;
+       <a href="/guidelines/" rel="nofollow" target="_self">Community Guidelines</a><br>
+      Copyright © 2008 Trulia, Inc. All rights reserved.  &nbsp;   |  &nbsp; <img src="http://images.trulia.com/images/fheo_grey.gif" width="17" height="14"> <a href="http://www.hud.gov/offices/fheo/index.cfm" target="_blank" rel="nofollow">Fair Housing and Equal Opportunity</a>
+   </p> </div>
 
-      Copyright © 2008 Trulia, Inc. All rights reserved.  &nbsp;   |  &nbsp; <img src="http://images.trulia.com/images/fheo_grey.gif" width="17" height="14"> <a href="http://www.hud.gov/offices/fheo/index.cfm" target="_blank" rel="nofollow"> Fair Housing and Equal Opportunity logo   Fair Housing and Equal Opportunity</a>
-    </div>
-
-    <!--  -->
+    
 
 
       </div>
-      <script language="JavaScript" type="text/JavaScript" src="http://images.trulia.com/javascript/include/js/s_code.js?v=20071002"></script>
+      <script language="JavaScript" type="text/JavaScript" src="http://images.trulia.com/javascript/include/js/s_code.js?v=20081217a"></script>
 <!--[if !IE]> Srcipt below Copyright 1997-2004 Omniture, Inc. <![endif]-->
 <script language="javascript" type="text/javascript">
 s.pageName="Privacy Policy";
-s.eVar15="19";
-s.eVar18="492fe267b8e4b1bc08735ab97b0b5dd3";
+s.eVar15="38";
+s.eVar18="ee8d48dfcd50eea73adea786c69576b5";
 s.events="event5";
 s.eVar19="cbs000";
-s.eVar6="2008.25";
-s.eVar5="080616492fe267b8e4b1bc08735ab97b0b5dd3";
-s.eVar25="20080616";
+s.eVar6="2008.51";
+s.eVar5="081217ee8d48dfcd50eea73adea786c69576b5";
+s.eVar25="20081217";
 s.channel="trulia";
 
 var s_code=s.t();if(s_code)document.write(s_code);
