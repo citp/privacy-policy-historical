@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carwale.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511162549id_/http%3A//www.carwale.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carwale.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217012634id_/http%3A//www.carwale.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - CarWale.com India
+# Privacy Policy - CarWale.com
 
 Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information.   
 The privacy practices of this statement apply to our services available under the domain and sub-domains of [www.CarWale.com](http://www.carwale.com/) [ CarWale.com](http://carwale.com/) (the "Site") and apply generally to our parent, affiliates, subsidiaries or joint venture websites whose specific privacy policies are available from our Privacy Central pages. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site.   
