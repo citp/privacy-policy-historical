@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myitthings.com privacy policy that was archived on 2007-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070309150444id_/http%3A//myitthings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitthings.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082122id_/http%3A//www.myitthings.com/Privacy) for the most accurate reproduction.*
 
-# My It Things - Magazine by readers - latest trends, products, must-haves, users opinions, reviews
+# MyItThings - User Generated Magazine - Privacy
 
 MyItThings.com Privacy Policy
 
