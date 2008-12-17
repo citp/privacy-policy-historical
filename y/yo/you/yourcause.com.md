@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611225745id_/http%3A//www.yourcause.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044459id_/http%3A//www.yourcause.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - YourCause.com
+# Privacy Policy - Charity Fundraising through Personal Web Pages – Your Cause
 
 |  |  |   
 ---|---|---  
 | 
 
-|  | YourCause.com Privacy Policy  
+|  | YourCause.com Privacy Policy and Terms of Use  
 ---|---  
   
 This Privacy Policy covers the Web site [www.YourCause.com](http://www.yourcause.com/).  
@@ -72,6 +72,12 @@ YourCause.com may change, modify or update this policy from time to time, withou
   
 **How to Contact Us**  
 Should you have other questions or concerns about these privacy policies, please email us at [accounts@yourcause.com](mailto:accounts@yourcause.com).  
+**Terms of Use**  
+A cause must directly support an official, **IRS–registered, 501(c) (3), tax-exempt organization**. Unfortunately, we cannot accept causes for individual needs or private purposes due to IRS regulations. 
+
+You understand and agree that the Company may, but is not obligated to, review the Site and may delete or remove (without notice) any Site Content or User Content in its sole discretion, for any reason or no reason, including User Content that in the sole judgment of the Company violates this Agreement or which might be offensive, illegal, or that might violate the rights, harm, or threaten the safety of users or others. 
+
+In addition, we reserve the right to reject any cause or user content for any reason including, but are not limited to, content that we deem obscene, pornographic or sexually explicit, depicts graphic or gratuitous violence, makes threats of any kind or that intimidates, harasses, or bullies anyone, or is derogatory, demeaning, malicious, defamatory, abusive, offensive or hateful.  
   
 |  |   
   
