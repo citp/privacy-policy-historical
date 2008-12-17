@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the warcraftmovies.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609224656id_/http%3A//www.warcraftmovies.com/pp.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the warcraftmovies.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217033849id_/http%3A//www.warcraftmovies.com/pp.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>WarcraftMovies.com - World of Warcraft Movies</title>
 <link href="styles.css" rel="stylesheet" type="text/css"></head>
@@ -18,7 +18,7 @@
 	float:right;
 	}
 .headerbar .flags div {
-	background:url(http://www.warcraftmovies.com/images/headerbar/fix-headerbar.gif);
+	background:url(images/headerbar/fix-headerbar.gif);
 	background-repeat: no-repeat;
 	cursor:pointer;
 	width:20px;
@@ -26,7 +26,7 @@
 	}
 .headerbar .divider {
 	width:6px;
-	background:url(http://www.warcraftmovies.com/images/headerbar/fix-headerbar.gif) -160px -320px;
+	background:url(images/headerbar/fix-headerbar.gif) -160px -320px;
 	background-repeat: no-repeat;
 	height:22px;
 	float:right;
@@ -39,19 +39,22 @@
 .headerbar .sites div {
 	width:130px;
 	height:22px;
-	background:url(http://www.warcraftmovies.com/images/headerbar/fix-headerbar.gif);
+	background:url(images/headerbar/fix-headerbar.gif);
 	background-repeat: no-repeat;
 	cursor:pointer;
 	}
 </style>
-<div style="background:#000000 url(http://www.warcraftmovies.com/images/headerbar/fix-headerbar.gif) 0px -360px; width:100%; height:22px; vertical-align:top; overflow:hidden;">
-	<div class="headerbar" style="background:url(http://www.warcraftmovies.com/images/headerbar/fix-headerbar.gif); width:37px; float:left"></div>
-	<div style="float:right; width:767px;" class="headerbar">
+<div style="background:#000000 url(images/headerbar/fix-headerbar.gif) 0px -360px; width:100%; height:22px; vertical-align:top; overflow:hidden; z-index:9999;">
+	<div class="headerbar" style="background:url(images/headerbar/fix-headerbar.gif); width:37px; float:left"></div>
+	<div style="float:right; width:907px;" class="headerbar">
+		
 		<div class="sites"><div style="background-position:0px -280px;" onclick="document.location.href='http://www.mmorpgforum.com'" onmouseover="this.style.backgroundPosition='0px -320px'" onmouseout="this.style.backgroundPosition='0px -280px'"></div></div>
 		<div class="divider"></div>
-		<div class="sites"><div style="background-position:0px -120px;" onclick="document.location.href='http://www.whmovies.com'" onmouseover="this.style.backgroundPosition='0px -160px'" onmouseout="this.style.backgroundPosition='0px -120px'"></div></div>
+		<div class="sites"><div style="background-position:0px -405px;" onclick="document.location.href='http://www.machinima101.com'" onmouseover="this.style.backgroundPosition='0px -440px'" onmouseout="this.style.backgroundPosition='0px -405px'"></div></div>
 		<div class="divider"></div>
 		<div class="sites"><div style="background-position:0px -200px;" onclick="document.location.href='http://www.aocmovies.com'" onmouseover="this.style.backgroundPosition='0px -240px'" onmouseout="this.style.backgroundPosition='0px -200px'"></div></div>
+		<div class="divider"></div>
+		<div class="sites"><div style="background-position:0px -120px;" onclick="document.location.href='http://www.warhammermovies.com'" onmouseover="this.style.backgroundPosition='0px -160px'" onmouseout="this.style.backgroundPosition='0px -120px'"></div></div>
 		<div class="divider"></div>
 		<div class="sites"><div style="background-position:0px -40px;" onclick="document.location.href='http://www.warcraftmovies.com'" onmouseover="this.style.backgroundPosition='0px -80px'" onmouseout="this.style.backgroundPosition='0px -40px'"></div></div>
 		<div class="divider"></div>
@@ -62,7 +65,7 @@
 		<div class="flags"><div style="background-position:-80px -387px;" onclick="document.location.href='http://www.warcraftmovies.com/es/pp.php'"></div></div>
 		<div class="flags"><div style="background-position:-100px -387px;" onclick="document.location.href='http://www.warcraftmovies.com/fr/pp.php'"></div></div>
 		<div class="flags"><div style="background-position:0px -387px;" onclick="document.location.href='http://www.warcraftmovies.com/de/pp.php'"></div></div>
-		<div class="flags"><div style="background-position:-120px -387px;" onclick="document.location.href='http://www.warcraftmovies.com/us/pp.php'"></div></div>
+		<div class="flags"><div style="background-position:-120px -387px;" onclick="document.location.href='http://www.warcraftmovies.com/pp.php'"></div></div>
 			</div>
 </div>
 <!-- header bar END -->
@@ -72,22 +75,27 @@
 <link rel="stylesheet" type="text/css" href="/shadowbox/css/shadowbox.css">
 
 <script src="/lib/protoculous.js" type="text/javascript" charset="utf-8"></script>
+<script src="/lib/onDOMReady.js" type="text/javascript" charset="utf-8"></script>
 <script src="/lib/controls_autocompleter.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript">
-    window.onload = init; 
 function init() {
-    if (window.commentId) commentPage(commentId, 1); // Movieview comments
+	if (window.commentId) commentPage(commentId, 1); // Movieview comments
     if (window.defaultTags) loadTags('tags', defaultTags); // Taglist browser
 	try {
-		Shadowbox.init();
+		if(window.shadowboxOptions){
+			Shadowbox.init(window.shadowboxOptions);
+		}
+		else{
+			Shadowbox.init();
+		}
     	Shadowbox.setup();
 	} catch(e) {}
-	
-/*
-    new Ajax.Autocompleter('moviesearch', 'search_choices', '/ajax/searchTags.php', {tokens: ' ', paramName: 'tag', minChars: 1, indicator: 'indicator1'});
-    }
-	*/
-} 
+}
+if (Prototype.Browser.IE) { /* IE doesn't understand */
+	window.onload = init;
+} else {
+	Event.onReady(init);
+}
 </script>
 
 <script language="javascript" type="text/javascript" src="/lib/swfobject.js"></script>
@@ -104,47 +112,35 @@ function init() {
 	</td></tr></tbody></table></td>
       </tr>
       <tr>
-        <td height="17" colspan="2" valign="top" background="images/header-topborder.gif"><div id="anchor" style="padding:0">
+        <td height="17" colspan="2" valign="top" background="images/header-topborder-wolk.gif"><div id="anchor" style="padding:0">
           <div id="statue"><a href="reel.php"><img src="images/header-statue.gif" border="0"></a></div>
-      <div id="armor"><a href=""><img style="border: none" src=""></a></div>
-     	 <script language="javascript" type="text/javascript">
-         var armorWidth = 305;
-	    if (document.cookie.indexOf('shortflash=') < 0) {
-	    var armorLogo = new SWFObject("/images/corner_feature/corner_top_0_1213028028.swf", "header-armor", armorWidth, "127", "6", "#000000");
-		document.cookie = "shortflash=1";
-	    } else {
-	    var armorLogo = new SWFObject("/images/corner_feature/corner_top_0_1213028028.swf", "header-armor", armorWidth, "127", "6", "#000000");
-	    }
-		armorLogo.addParam("wmode", "transparent");
-	    armorLogo.write("armor");
-	    
-	</script>
-	 
+      <div id="armor"><a href="contest.php"><img style="border: none" src="/images/corner_feature/corner_top_0_1228488398.jpg"></a></div>
+      
 </div></td>
         </tr>
       <tr>
-        <td height="45" colspan="2" background="images/header-topbg.gif"><img src="images/header-title.gif" class="titlerow"></td>
+      <td height="45" colspan="2" background="images/header-topbg.gif"><img src="images/header-title.gif" class="titlerow"></td>     
       </tr>
       <tr>
   <td height="25" colspan="2" background="images/header-buttonbg.gif" class="buttonrow"><a href="index.php"><img src="images/en/button-home.gif" width="87" height="23" border="0"></a><a href="group.php"><img src="images/en/button-guild.gif" width="87" height="23" border="0"></a><a href="http://www.mmorpgforum.com/forumdisplay.php?f=137" target="_Blank"><img src="images/en/button-forum.gif" width="87" height="23" border="0"></a><a href="contest.php"><img src="images/en/button-promos.gif" width="87" height="23" border="0"></a><a href="signup.php"><img src="images/en/button-signup.gif" width="88" height="23" border="0"></a><a href="login.php"><img src="images/button-login.gif" width="83" height="23" border="0"></a></td>
       </tr>
       <tr valign="top">
   <td background="images/header-bluebg.gif"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-  <td valign="top" width="251" height="39"><a href="submit.php"><img border="0" src="images/button-submitmovie.gif" alt="#" width="165" height="39" class="bluerow"></a></td>
+  <td valign="top" width="251" height="39"><a href="submit.php"><img border="0" src="images/en/button-submitmovie.gif" alt="#" width="165" height="39" class="bluerow"></a></td>
         <td style="vertical-align: top;" width="599"><table border="0" cellpadding="0" cellspacing="0">
           
            <tbody><tr><td><form action="searchresult.php" method="post"></form></td>
        <td width="75"><img src="images/en/header-search.gif" width="74" height="39"></td>
             <td width="1" background="images/search-border.gif"></td>
 	    <td width="11" background="images/search-borderbg.gif" style="padding-bottom:2px; text-align:right">
-	<input autocomplete="off" name="keyword" id="moviesearch" type="text" size="25" class="textfield" value="">
+	<input autocomplete="off" name="keyword" id="moviesearch" type="text" size="25" class="textfield" style="border:0px" value="">
 	<script type="text/javascript" charset="utf-8">
 		$('moviesearch').focus()
 	</script>    
 </td>
 <td><div id="search_choices" class="search"></div></td>
             <td width="1" background="images/search-border.gif" style="padding-bottom:2px; text-align:right"></td>
-	    <td style="padding-left:1px; padding-top:8px; vertical-align:top;"><input type="image" value="Submit" alt="seach" name="submit" src="images/search-button.gif"><span id="indicator1" style="display: none;vertical-align:top"><img src="images/loader.gif" name="loader" width="16" height="16" align="absmiddle"></span><input name="down" type="hidden" value="desc"><script language="javascript">new Ajax.Autocompleter('moviesearch', 'search_choices', '/ajax/searchTags.php', {tokens: ' ', paramName: 'tag', minChars: 1, indicator: 'indicator1'});</script></td>
+	    <td style="padding-left:1px; padding-top:8px; vertical-align:top;"><input type="image" value="Submit" alt="Search" title="Search" name="submit" src="images/search-button.gif"><span id="indicator1" style="display: none;vertical-align:top"><img src="images/loader.gif" name="loader" width="16" height="16" align="absmiddle"></span><input name="down" type="hidden" value="desc"><script language="javascript">new Ajax.Autocompleter('moviesearch', 'search_choices', '/ajax/searchTags.php', {tokens: ' ', paramName: 'tag', minChars: 1, indicator: 'indicator1'});</script></td>
 			
 			
           </tr> 
@@ -170,7 +166,7 @@ function init() {
 	<td style="vertical-align:top;"><!-- menu start --> <script language="Javascript" type="text/javascript" src="toggle.js"></script>
 <table width="133" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-  <td height="21" background="/images/fix-menu.gif" class="menutitle"><div style="width:13px; height:13px; background-image: url(/images/fix-menu.gif); background-position:0px -210px; float:right; cursor:pointer;" id="img_premium" onclick="toggle('premium');">&nbsp;</div></td>
+  <td height="21" background="http://cdn.warcraftmovies.com/images/fix-menu.gif" class="menutitle"><div style="width:13px; height:13px; background-image: url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:0px -210px; float:right; cursor:pointer;" id="img_premium" onclick="toggle('premium');">&nbsp;</div></td>
       </tr>
       <tr>
         <td id="ul_premium" class="open">
@@ -180,27 +176,52 @@ function init() {
     </tbody></table>
 	<table width="133" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-  <td height="21" background="/images/fix-menu.gif" class="menutitle" style="background-position:0px -30px;"><div style="width:13px; height:13px; background-image: url(/images/fix-menu.gif); background-position:0px -210px; float:right; cursor:pointer;" id="img_movies" onclick="toggle('movies');">&nbsp;</div></td>
+  <td height="21" background="http://cdn.warcraftmovies.com/images/fix-menu.gif" class="menutitle" style="background-position:0px -30px;"><div style="width:13px; height:13px; background-image: url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:0px -210px; float:right; cursor:pointer;" id="img_movies" onclick="toggle('movies');">&nbsp;</div></td>
       </tr>
       <tr>
         <td id="ul_movies" class="open">
-				<ul class="menurows grayfont"><li><a href="battlegroups.php">Battlegroups</a> <font color="red">New!</font></li></ul><ul class="menurows grayfont"><li><a onclick="toggle2('Battlegrounds');" href="javascript:;">Battlegrounds<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Battlegrounds">&nbsp;</span></a></li>
+				<ul class="menurows grayfont"><li><a href="battlegroups.php">Battlegroups</a></li></ul><ul class="menurows grayfont"><li><a style="color: #3399ff" href="viewcategory.php?id=18">Wrath of the Lich King</a></li></ul><ul class="menurows grayfont"><li><a style="color: #3399ff" onclick="toggle2('WotLK Dungeons');" href="javascript:;">WotLK Dungeons<span style="background:url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_WotLK Dungeons">&nbsp;</span></a></li>
+</ul><ul class="closed submenurows grayfont" id="ul_WotLK Dungeons">
+<li>▪ <a href="viewcategory.php?id=19">Show all</a></li>
+<li>▪ <a href="viewcategory.php?id=1902">Azjol-Nerub</a></li>
+<li>▪ <a href="viewcategory.php?id=1903">Chamber of Aspects</a></li>
+<li>▪ <a href="viewcategory.php?id=1905">CoT - Stratholme</a></li>
+<li>▪ <a href="viewcategory.php?id=1908">Drak'tharon Keep</a></li>
+<li>▪ <a href="viewcategory.php?id=1911">Gun'drak</a></li>
+<li>▪ <a href="viewcategory.php?id=1917">Halls of Lightning</a></li>
+<li>▪ <a href="viewcategory.php?id=1914">Halls of Stone</a></li>
+<li>▪ <a href="viewcategory.php?id=1920">The Eye of Eternity</a></li>
+<li>▪ <a href="viewcategory.php?id=1923">The Nexus</a></li>
+<li>▪ <a href="viewcategory.php?id=1926">The Oculus</a></li>
+<li>▪ <a href="viewcategory.php?id=1929">The Violet Hold</a></li>
+<li>▪ <a href="viewcategory.php?id=1932">Ulduar Raid</a></li>
+<li>▪ <a href="viewcategory.php?id=1935">Utgarde Keep</a></li>
+<li>▪ <a href="viewcategory.php?id=1938">Utgarde Pinnacle</a></li>
+</ul>
+<ul class="menurows grayfont"><li><a style="color: " onclick="toggle2('PvP');" href="javascript:;">PvP<span style="background:url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_PvP">&nbsp;</span></a></li>
+</ul><ul class="closed submenurows grayfont" id="ul_PvP">
+<li>▪ <a href="viewcategory.php?id=1">Show all</a></li>
+<li>▪ <a href="viewcategory.php?id=102">Arena PvP</a></li>
+<li>▪ <a href="viewcategory.php?id=105">Lake Wintergrasp</a></li>
+<li>▪ <a href="viewcategory.php?id=103">Twink PvP</a></li>
+<li>▪ <a href="viewcategory.php?id=104">World PvP</a></li>
+</ul>
+<ul class="menurows grayfont"><li><a style="color: " onclick="toggle2('Battlegrounds');" href="javascript:;">Battlegrounds<span style="background:url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Battlegrounds">&nbsp;</span></a></li>
 </ul><ul class="closed submenurows grayfont" id="ul_Battlegrounds">
 <li>▪ <a href="viewcategory.php?id=9">Show all</a></li>
 <li>▪ <a href="viewcategory.php?id=902">Alterac Valley</a></li>
 <li>▪ <a href="viewcategory.php?id=903">Arathi Basin</a></li>
 <li>▪ <a href="viewcategory.php?id=905">Eye of the Storm</a></li>
+<li>▪ <a href="viewcategory.php?id=906">Strand of the Ancien..</a></li>
 <li>▪ <a href="viewcategory.php?id=904">Warsong Gulch</a></li>
 </ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('PvP');" href="javascript:;">PvP<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_PvP">&nbsp;</span></a></li>
-</ul><ul class="closed submenurows grayfont" id="ul_PvP">
-<li>▪ <a href="viewcategory.php?id=1">Show all</a></li>
-<li>▪ <a href="viewcategory.php?id=102">Arena PvP</a></li>
-<li>▪ <a href="viewcategory.php?id=103">Low Level PvP</a></li>
-<li>▪ <a href="viewcategory.php?id=104">World PvP</a></li>
+<ul class="menurows grayfont"><li><a style="color: " onclick="toggle2('PvE');" href="javascript:;">PvE<span style="background:url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_PvE">&nbsp;</span></a></li>
+</ul><ul class="closed submenurows grayfont" id="ul_PvE">
+<li>▪ <a href="viewcategory.php?id=2">Show all</a></li>
+<li>▪ <a href="viewcategory.php?id=202">Speedruns</a></li>
 </ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('Old Instances');" href="javascript:;">Old Instances<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Old Instances">&nbsp;</span></a></li>
-</ul><ul class="closed submenurows grayfont" id="ul_Old Instances">
+<ul class="menurows grayfont"><li><a style="color: " onclick="toggle2('Classic Dungeons');" href="javascript:;">Classic Dungeons<span style="background:url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Classic Dungeons">&nbsp;</span></a></li>
+</ul><ul class="closed submenurows grayfont" id="ul_Classic Dungeons">
 <li>▪ <a href="viewcategory.php?id=7">Show all</a></li>
 <li>▪ <a href="viewcategory.php?id=702">Ahn’Qiraj</a></li>
 <li>▪ <a href="viewcategory.php?id=703">Blackwing Lair</a></li>
@@ -209,18 +230,8 @@ function init() {
 <li>▪ <a href="viewcategory.php?id=705">Onyxia</a></li>
 <li>▪ <a href="viewcategory.php?id=707">Zul'Gurub</a></li>
 </ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('Sunwell Plateau');" href="javascript:;">Sunwell Plateau<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Sunwell Plateau">&nbsp;</span></a></li>
-</ul><ul class="closed submenurows grayfont" id="ul_Sunwell Plateau">
-<li>▪ <a href="viewcategory.php?id=17">Show all</a></li>
-<li>▪ <a href="viewcategory.php?id=1702">Brutallus</a></li>
-<li>▪ <a href="viewcategory.php?id=1705">Eredar Twins </a></li>
-<li>▪ <a href="viewcategory.php?id=1707">Felmyst</a></li>
-<li>▪ <a href="viewcategory.php?id=1709">Kalecgos</a></li>
-<li>▪ <a href="viewcategory.php?id=1711">Kil'jaeden</a></li>
-<li>▪ <a href="viewcategory.php?id=1713">M'uru</a></li>
-</ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('TBC Instances');" href="javascript:;">TBC Instances<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_TBC Instances">&nbsp;</span></a></li>
-</ul><ul class="closed submenurows grayfont" id="ul_TBC Instances">
+<ul class="menurows grayfont"><li><a style="color: " onclick="toggle2('TBC Dungeons');" href="javascript:;">TBC Dungeons<span style="background:url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_TBC Dungeons">&nbsp;</span></a></li>
+</ul><ul class="closed submenurows grayfont" id="ul_TBC Dungeons">
 <li>▪ <a href="viewcategory.php?id=14">Show all</a></li>
 <li>▪ <a href="viewcategory.php?id=1401">5-Man Heroic</a></li>
 <li>▪ <a href="viewcategory.php?id=1407">Black Temple</a></li>
@@ -234,51 +245,35 @@ function init() {
 <li>▪ <a href="viewcategory.php?id=1403">Tempest Keep</a></li>
 <li>▪ <a href="viewcategory.php?id=1409">Zul'Aman</a></li>
 </ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('PvE');" href="javascript:;">PvE<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_PvE">&nbsp;</span></a></li>
-</ul><ul class="closed submenurows grayfont" id="ul_PvE">
-<li>▪ <a href="viewcategory.php?id=2">Show all</a></li>
+<ul class="menurows grayfont"><li><a style="color: " onclick="toggle2('Sunwell Plateau');" href="javascript:;">Sunwell Plateau<span style="background:url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Sunwell Plateau">&nbsp;</span></a></li>
+</ul><ul class="closed submenurows grayfont" id="ul_Sunwell Plateau">
+<li>▪ <a href="viewcategory.php?id=17">Show all</a></li>
+<li>▪ <a href="viewcategory.php?id=1702">Brutallus</a></li>
+<li>▪ <a href="viewcategory.php?id=1705">Eredar Twins </a></li>
+<li>▪ <a href="viewcategory.php?id=1707">Felmyst</a></li>
+<li>▪ <a href="viewcategory.php?id=1709">Kalecgos</a></li>
+<li>▪ <a href="viewcategory.php?id=1711">Kil'jaeden</a></li>
+<li>▪ <a href="viewcategory.php?id=1713">M'uru</a></li>
 </ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('Speed');" href="javascript:;">Speed<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Speed">&nbsp;</span></a></li>
-</ul><ul class="closed submenurows grayfont" id="ul_Speed">
-<li>▪ <a href="viewcategory.php?id=15">Show all</a></li>
-<li>▪ <a href="viewcategory.php?id=1505">Speedrun</a></li>
-</ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('Dance/Music');" href="javascript:;">Dance/Music<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Dance/Music">&nbsp;</span></a></li>
-</ul><ul class="closed submenurows grayfont" id="ul_Dance/Music">
-<li>▪ <a href="viewcategory.php?id=5">Show all</a></li>
-<li>▪ <a href="viewcategory.php?id=502">Dance</a></li>
-<li>▪ <a href="viewcategory.php?id=503">Music</a></li>
-</ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('Guild Promotion');" href="javascript:;">Guild Promotion<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Guild Promotion">&nbsp;</span></a></li>
-</ul><ul class="closed submenurows grayfont" id="ul_Guild Promotion">
-<li>▪ <a href="viewcategory.php?id=6">Show all</a></li>
-</ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('Holiday');" href="javascript:;">Holiday<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Holiday">&nbsp;</span></a></li>
-</ul><ul class="closed submenurows grayfont" id="ul_Holiday">
-<li>▪ <a href="viewcategory.php?id=11">Show all</a></li>
-<li>▪ <a href="viewcategory.php?id=1106">Hallows End</a></li>
-<li>▪ <a href="viewcategory.php?id=1107">National Days</a></li>
-<li>▪ <a href="viewcategory.php?id=1103">New Years</a></li>
-<li>▪ <a href="viewcategory.php?id=1105">Noblegarden</a></li>
-<li>▪ <a href="viewcategory.php?id=1102">Winter Veil</a></li>
-</ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('How To/Guides');" href="javascript:;">How To/Guides<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_How To/Guides">&nbsp;</span></a></li>
+<ul class="menurows grayfont"><li><a style="color: " href="viewcategory.php?id=6">Guild Promotion</a></li></ul><ul class="menurows grayfont"><li><a style="color: " onclick="toggle2('How To/Guides');" href="javascript:;">How To/Guides<span style="background:url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_How To/Guides">&nbsp;</span></a></li>
 </ul><ul class="closed submenurows grayfont" id="ul_How To/Guides">
 <li>▪ <a href="viewcategory.php?id=12">Show all</a></li>
 <li>▪ <a href="viewcategory.php?id=1204">Other Guide</a></li>
 <li>▪ <a href="viewcategory.php?id=1202">PvE/Instance</a></li>
 <li>▪ <a href="viewcategory.php?id=1203">PvP</a></li>
 </ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('Story-Line');" href="javascript:;">Story-Line<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Story-Line">&nbsp;</span></a></li>
-</ul><ul class="closed submenurows grayfont" id="ul_Story-Line">
+<ul class="menurows grayfont"><li><a style="color: " onclick="toggle2('Machinima');" href="javascript:;">Machinima<span style="background:url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Machinima">&nbsp;</span></a></li>
+</ul><ul class="closed submenurows grayfont" id="ul_Machinima">
 <li>▪ <a href="viewcategory.php?id=4">Show all</a></li>
 <li>▪ <a href="viewcategory.php?id=405">Action</a></li>
 <li>▪ <a href="viewcategory.php?id=403">Comedy</a></li>
+<li>▪ <a href="viewcategory.php?id=408">Dance/Music</a></li>
 <li>▪ <a href="viewcategory.php?id=402">Drama</a></li>
+<li>▪ <a href="viewcategory.php?id=407">Holiday</a></li>
 <li>▪ <a href="viewcategory.php?id=406">Horror</a></li>
 <li>▪ <a href="viewcategory.php?id=404">Trailers</a></li>
 </ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('Underground');" href="javascript:;">Underground<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Underground">&nbsp;</span></a></li>
+<ul class="menurows grayfont"><li><a style="color: " onclick="toggle2('Underground');" href="javascript:;">Underground<span style="background:url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Underground">&nbsp;</span></a></li>
 </ul><ul class="closed submenurows grayfont" id="ul_Underground">
 <li>▪ <a href="viewcategory.php?id=8">Show all</a></li>
 <li>▪ <a href="viewcategory.php?id=802">Bug/Exploit</a></li>
@@ -286,31 +281,27 @@ function init() {
 <li>▪ <a href="viewcategory.php?id=804">Gold Farming</a></li>
 <li>▪ <a href="viewcategory.php?id=805">Multiboxing</a></li>
 </ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('Expansions');" href="javascript:;">Expansions<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Expansions">&nbsp;</span></a></li>
+<ul class="menurows grayfont"><li><a style="color: " onclick="toggle2('Expansions');" href="javascript:;">Expansions<span style="background:url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Expansions">&nbsp;</span></a></li>
 </ul><ul class="closed submenurows grayfont" id="ul_Expansions">
 <li>▪ <a href="viewcategory.php?id=13">Show all</a></li>
 <li>▪ <a href="viewcategory.php?id=1302">Burning Crusade</a></li>
 <li>▪ <a href="viewcategory.php?id=1306">Other TBC Instances</a></li>
 </ul>
-<ul class="menurows grayfont"><li><a onclick="toggle2('Other');" href="javascript:;">Other<span style="background:url(/images/fix-menu.gif); background-position:-26px -210px; cursor:pointer;" class="arrow" id="img_Other">&nbsp;</span></a></li>
-</ul><ul class="closed submenurows grayfont" id="ul_Other">
-<li>▪ <a href="viewcategory.php?id=3">Show all</a></li>
-</ul>
-            
+<ul class="menurows grayfont"><li><a style="color: " href="viewcategory.php?id=3">Other</a></li></ul>            
 			<ul class="divider">
 			<li></li>
 			</ul>
 			<ul class="menurows grayfont">
-			<li><a href="viewclass.php?id=2">Druid</a></li><li><a href="viewclass.php?id=3">Hunter</a></li><li><a href="viewclass.php?id=4">Mage</a></li><li><a href="viewclass.php?id=12">Multiple</a></li><li><a href="viewclass.php?id=5">Paladin</a></li><li><a href="viewclass.php?id=6">Priest</a></li><li><a href="viewclass.php?id=7">Rogue</a></li><li><a href="viewclass.php?id=10">Shaman</a></li><li><a href="viewclass.php?id=8">Warlock</a></li><li><a href="viewclass.php?id=9">Warrior</a></li>			</ul>			</td>
+			<li><a href="viewclass.php?id=13">Deathknight</a></li><li><a href="viewclass.php?id=2">Druid</a></li><li><a href="viewclass.php?id=3">Hunter</a></li><li><a href="viewclass.php?id=4">Mage</a></li><li><a href="viewclass.php?id=12">Multiple</a></li><li><a href="viewclass.php?id=5">Paladin</a></li><li><a href="viewclass.php?id=6">Priest</a></li><li><a href="viewclass.php?id=7">Rogue</a></li><li><a href="viewclass.php?id=10">Shaman</a></li><li><a href="viewclass.php?id=8">Warlock</a></li><li><a href="viewclass.php?id=9">Warrior</a></li>			</ul>			</td>
       </tr>
     </tbody></table>
 	<table width="133" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-  <td height="21" background="/images/fix-menu.gif" class="menutitle" style="background-position:0px -90px;"><div style="width:13px; height:13px; background-image: url(/images/fix-menu.gif); background-position:0px -210px; float:right; cursor:pointer;" id="img_misc" onclick="toggle('misc');">&nbsp;</div></td>
+  <td height="21" background="http://cdn.warcraftmovies.com/images/fix-menu.gif" class="menutitle" style="background-position:0px -90px;"><div style="width:13px; height:13px; background-image: url(http://cdn.warcraftmovies.com/images/fix-menu.gif); background-position:0px -210px; float:right; cursor:pointer;" id="img_misc" onclick="toggle('misc');">&nbsp;</div></td>
       </tr>
       <tr>
         <td id="ul_misc" class="open"><ul class="menurows grayfont">
-<li><a href="halloffame.php">Hall of Fame</a></li><li><a href="rec.php">Recommendations</a></li><li><a href="topten.php">Top lists</a></li><li><a href="author.php">Authors</a></li><li><a href="viewguilds.php">Guilds</a></li><li><a href="server.php">Servers</a></li><li></li><li><a href="linkus.php">Promo Material</a></li><li><a href="contact.php">Contact Us </a></li><li><a href="/irc/" target="irc">Live Chat</a></li><li><a href="advertise.php">Advertise</a></li></ul>        </td>
+<li><a href="blogs.php">Blogs</a>  <font color="red">New!</font></li><li><a href="contest.php">Contests</a></li><li><a href="halloffame.php">Hall of Fame</a></li><li><a href="rec.php">Recommendations</a></li><li><a href="topten.php">Top lists</a></li><li><a href="author.php">Authors</a></li><li><a href="viewguilds.php">Guilds</a></li><li><a href="server.php">Servers</a></li><li></li><li><a href="linkus.php">Promo Material</a></li><li><a href="contact.php">Contact Us </a></li><li><a href="/irc/" target="irc">Live Chat</a></li><li><a href="advertise.php">Advertise</a></li></ul>        </td>
       </tr>
     </tbody></table>
 <!-- menu end -->
@@ -366,7 +357,7 @@ If you wish to change any information you have given us, or have any questions o
           This site is in no way associated with or endorsed by Blizzard Entertainment®.<br>
 <br>
 <a href="disclaimer.php">Disclaimer</a>, <a href="tou.php">Terms of Service</a> and <a href="pp.php">Privacy Policy</a><br>
-<p>Page generated in 0.0517 seconds.</p>
+<p>Page generated in 0.0058 seconds.</p>
 </div></td>
 </tr>
 </tbody></table>	</td>
@@ -383,6 +374,39 @@ pageTracker._setDomainName("warcraftmovies.com");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-43jWNSYmeYmY2"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<a href="http://www.quantcast.com/p-43jWNSYmeYmY2" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-43jWNSYmeYmY2.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
+<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
+<script type="text/javascript">
+
+
+	var _rsCI="us-curse";
+
+	var _rsCG="warcraftmovies";
+	var _rsDN="//secure-us.imrworldwide.com/";
+	var _rsPLfl=0;
+</script>
+
+
+<script type="text/javascript" src="//secure-us.imrworldwide.com/v53.js"></script>
+
+<noscript>
+	<div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-curse&amp;cg=warcraftmovies&cc=1" alt=""/></div>
+
+
+
+</noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
 
 
 </body></html>
