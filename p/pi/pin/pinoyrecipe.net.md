@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoyrecipe.net privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610053640id_/http%3A//www.pinoyrecipe.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyrecipe.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217234733id_/http%3A//www.pinoyrecipe.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy by PinoyRecipe.Net
 
@@ -20,7 +20,7 @@ No tag for this post.
 
 #### Related Recipes
 
-**No. of Views for this Post:** 649 views
+**No. of Views for this Post:** 1,367 views
 
   
 
