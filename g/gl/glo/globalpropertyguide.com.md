@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515022901id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090717id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Property Guide
 
