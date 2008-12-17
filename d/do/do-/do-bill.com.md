@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the do-bill.com privacy policy that was archived on 2008-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080213161430id_/http%3A//do-bill.com/0Private%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the do-bill.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110238id_/http%3A//www.do-bill.com/0Private%2520Policy.htm) for the most accurate reproduction.*
 
 # IMPORTANT
 
