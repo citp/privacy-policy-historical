@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emulatorworld.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609125815id_/http%3A//www.emulatorworld.com/index.php%3Fmod%3DContent%26Content-page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emulatorworld.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075209id_/http%3A//www.emulatorworld.com/index.php%3Fmod%3DContent%26Content-page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
