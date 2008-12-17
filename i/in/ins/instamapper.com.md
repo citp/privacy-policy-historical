@@ -1,38 +1,51 @@
-> *The following text is extracted and transformed from the instamapper.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509050706id_/http%3A//www.instamapper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instamapper.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044239id_/http%3A//www.instamapper.com/privacy.html) for the most accurate reproduction.*
 
-# InstaMapper - GPS Tracking
+# InstaMapper - Free Real-Time GPS Tracking
 
 ## Privacy policy
 
-Last updated May 6th, 2008. 
+Last updated August 13th, 2008. There are no material changes in this version of the policy; we simply wanted to clarify a few points. 
 
-We value your privacy and are committed to protecting it. We collect personal information solely for providing GPS tracking services to users. We will not disclose any information about you to third parties, except as required by law. Below are details on what information we collect, how we use it, and how we protect it. 
+#### Overview
 
-### Information that we collect
+InstaMapper's privacy policy is very simple: all data that we collect is used solely for providing a GPS tracking service to our users. In particular: 
 
-  * _Email addresses._ We ask for your email address when you register. We do not send spam, and we do not sell or rent email addresses to others. From time to time, we may contact you with important news and announcements about our service. 
-  * _Passwords._ Your password is irreversibly scrambled (using MD5 hashing) before it is stored in our database. 
-  * _GPS location data._ If you install GPS tracking software, your phone will periodically send location data to InstaMapper, including latitude and longitude, speed, and current date and time. The phone does not transmit your phone number, contact lists, or any other personal information. As with other personal information, we treat your location data with strict confidentiality. 
-  * _IP addresses and other information provided by your browser._ Our web servers record the IP address, requested URL, referral URL, and timestamp for every request that they receive. Web logs are used for analyzing trends, investigating abuse, and for troubleshooting problems. We do not share our web logs with third parties. 
+  * We do not sell, share or otherwise disclose your data to anyone unless 1) you specifically ask us to share your location or 2) we receive a valid subpoena or court order. 
+  * We do not mine your data for patterns. 
+  * We do not use your data to target ads. 
+  * We do not access your location data without your permission. 
+
+  
 
 
+#### Information that we collect
 
-### Security
+We collect the bare minimum of information required for GPS tracking. 
 
-Your data is stored on secure servers located in the United States. We use 256-bit SSL encryption to protect sensitive information (such as your username and password) whenever you access our website. We also use firewall software to minimize the possibility of unauthorized access to your data. Unfortunately, no security measures can be 100% effective. We will do our best to protect your data, but we cannot guarantee nondisclosure of personal information due to factors beyond our control (e.g. breakins to our site, keyloggers installed on public computers, etc). If you suspect that your account has been compromised, please contact us as soon as possible. 
+  * _Username and password_ \- used to authenticate users. Passwords are irreversibly scrambled before being stored in our database. We do not store plain text passwords. 
+  * _Email_ \- used for notifying our users of changes in service and for resetting forgotten passwords. 
+  * _GPS location data_ \- sent by your phone when you run our tracking software. We transmit the following data: your GPS coordinates, speed, altitude, heading, current time, and a randomly generated id. We do not transmit your phone number, contact lists, or any other data stored on your phone. 
+  * _HTTP requests_ \- as most web services, we maintain logs of all incoming HTTP requests. Web logs contain IP addresses, requested URLs, referral URLs, and other similar attributes provided by your browser. The data is used mainly for analyzing trends. Old web logs are periodically purged. 
 
-### Cookies
+  
+
+
+#### Security
+
+Your data is stored on secure servers located in the United States. We use 256-bit SSL encryption to protect transmission of sensitive information. We have taken further steps to prevent unauthorized access to your data, including running firewall software and keeping our servers up-to-date with security patches. That said, we cannot guarantee nondisclosure of personal information due to factors beyond our control. If you suspect that your account has been compromised, please contact us as soon as possible. 
+
+#### Cookies
 
 At InstaMapper, we use cookies solely for session management (remembering who you are once you log in) and for storing preferences. Cookies are small text files that are temporarily stored by your web browser. Most of our cookies expire as soon as you log out or close the browser window. We recommend that you enable cookie support in your browser as many features of our website will not work otherwise. 
 
-### Children
+#### Children
 
 InstaMapper service is intended for adults only. We will not knowingly collect personal information from children under the age of 13. 
 
-### Updates to this policy
+#### Updates to this policy
 
 We reserve the right to update this policy from time to time. If we deem the change to be material, we will post a notice on our homepage and/or send an email to our users. 
 
-### Feedback
+#### Feedback
 
 If you have a question, concern, or comment about our privacy policy, please contact us at [privacy@instamapper.com](mailto:privacy@instamapper.com). 
