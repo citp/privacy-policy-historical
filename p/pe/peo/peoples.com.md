@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoples.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608065558id_/http%3A//www.peoples.com/online/help/0%2C8405%2C1418%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoples.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064616id_/http%3A//www.peoples.com/online/help/0%2C8405%2C1418%2C00.html) for the most accurate reproduction.*
 
 # People's United Bank - Privacy Information
 
