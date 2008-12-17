@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyprofile.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611085957id_/http%3A//www.crazyprofile.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyprofile.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075629id_/http%3A//www.crazyprofile.com/policy.htm) for the most accurate reproduction.*
 
 # Crazyprofile.com
 
