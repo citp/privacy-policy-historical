@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drobo.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410030614id_/http%3A//www.drobo.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drobo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217034133id_/http%3A//www.drobo.com/Company/Privacy.html) for the most accurate reproduction.*
 
-# Data Robotics, Inc. | Privacy Policy
+# Data Robotics, Inc.
 
 Our Privacy Policy (the "Policy") is designed to assist you in understanding how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Site, products and services. This Policy will be continuously assessed against new technologies, business practices and the needs of our customers and partners.
 
