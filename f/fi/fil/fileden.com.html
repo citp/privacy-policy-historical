@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fileden.com privacy policy that was archived on 2008-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080527002458id_/http%3A//www.fileden.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fileden.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217035819id_/http%3A//www.fileden.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <html><head>
 <!-- Google Analytics -->
@@ -33,6 +33,23 @@ var base_url = "http://www.fileden.com/";
 </script>
 <script type="text/javascript" src="templates/newtemp/common.js?v=6.2"></script>
 <script type="text/javascript" src="templates/newtemp/javascript.js?v=6.2"></script>
+<script language="javascript" type="text/javascript">
+function toggleLayer( whichLayer )
+{
+  var elem, vis;
+  if( document.getElementById ) // this is the way the standards work
+    elem = document.getElementById( whichLayer );
+  else if( document.all ) // this is the way old msie versions work
+      elem = document.all[whichLayer];
+  else if( document.layers ) // this is the way nn4 works
+    elem = document.layers[whichLayer];
+  vis = elem.style;
+  // if the style.display value is blank we try to figure it out here
+  if(vis.display==''&&elem.offsetWidth!=undefined&&elem.offsetHeight!=undefined)
+    vis.display = (elem.offsetWidth!=0&&elem.offsetHeight!=0)?'block':'none';
+  vis.display = (vis.display==''||vis.display=='block')?'none':'block';
+}
+</script>
 </head>
 <body>
 
@@ -180,7 +197,7 @@ google_color_url = "CCCCCC";
 	<div id="footer-container">
 		<div id="footer-left" style="text-align: center"><a href="aboutus.php">About FileDen</a>  |  <a href="http://forums.fileden.com/sendmessage.php">Contacts</a>  <br><a href="privacy_policy.php">Privacy policy</a>  |  <a href="AUP.php">Acceptable Use Policy</a>  |  <a href="TOS.php">Terms Of Service</a></div>
 		<!-- footer left -->
-		<div id="footer-right" style="text-align: center">Copyright © FileDen.com 2006-2007 All right reserved<br><a href="http://n3v.net">Linux Administration</a></div>
+		<div id="footer-right" style="text-align: center">Copyright © FileDen.com 2006-2007 All right reserved<br><a href="http://n3v.net">Linux System Administration</a></div>
 		<!-- footer right -->
 	</div><!-- footer container -->
 </div><!-- footer -->
