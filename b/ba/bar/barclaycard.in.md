@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barclaycard.in privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612061433id_/http%3A//www.barclaycard.in/footer-menu/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclaycard.in privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217115434id_/http%3A//www.barclaycard.in/footer-menu/privacy-policy.html) for the most accurate reproduction.*
 
 # Barclaycard credit cards in India - Privacy Policy
 
@@ -28,10 +28,10 @@ We and other members of the Barclays Group will use your information to inform y
 
 We use credit reference agencies and fraud prevention agencies to: 
 
-  * make enquiries when you ask for any lending products, or to assist us in managing your account, for example if we wish to consider changing your credit limit, or offering you other products, now or in the future; 
-  * share information: 
-  * about you and how you manage your accounts; 
-  * if you give us false or inaccurate information or we suspect fraud. 
+  * make enquiries when you ask for any lending products, or to assist us in managing your account, for example if we wish to consider changing your credit limit, or offering you other products, now or in the future.
+  * share information:   
+1\. about you and how you manage your accounts.  
+2\. if you give us false or inaccurate information or we suspect fraud. 
 
 
 
@@ -41,11 +41,10 @@ We may give information about you and how you manage your account to the followi
 
   * People who provide a service to us or are acting as our agents, on the understanding that they will keep the information confidential. 
   * Anyone to whom we transfer or may transfer our rights and duties under this agreement. 
-  * We may also give out information about you if we have a duty to do so or if the law allows us to do so.
 
 
 
-Otherwise we will keep information about you confidential. 
+We may also give out information about you if we have a duty to do so or if the law allows us to do so. Otherwise we will keep information about you confidential. 
 
 ### Service Provides and Agents
 
@@ -71,4 +70,49 @@ Please remember that Internet communications are not secure unless the data bein
 
 ### Customer feedback and complaints
 
-If you have any questions or comments about privacy issues, or have a complaint about how we are using your personal data, please contact one of the Barclaycard customer service numbers quoted on this site
+If you have any questions or comments about privacy issues, or have a complaint about how we are using your personal data, please contact one of the Barclaycard customer service numbers quoted on this site.
+
+## Cookies
+
+### What are Cookies?
+
+Cookies are harmless text files that web servers can store on your computer’s hard drive when you visit a site. They allow the server to recognise you when you revisit. There are two main types: 
+
+  * **Transient (or per-session) cookies** \- these only exist for your site visit and are deleted on exit. They recognise you as you move between pages, for example, recording items added to an online shopping basket. These cookies also help maintain security. 
+  * **Persistent (or permanent) cookies** \- these stay on your machine until expiry or deletion. Many are built with automatic deletion dates to help ensure your hard drive doesn’t get overloaded. These cookies often store and re-enter your log-in information, so you don’t need to remember membership details. 
+
+
+
+We use both types of cookies. 
+
+Additionally, cookies can be first or third party cookies. First party cookies are owned & created by the website you’re viewing. Third party cookies are owned & created by an independent company, usually a company providing a service to the website owners. 
+
+### What we use cookies for
+
+Internet cookies are common and do not harm your system – they just store or gather site information. They help you do things online, like remembering logon details so you don’t have to re–enter them when revisiting a site. We use cookies to:
+
+1.     Gather customer journey information across our sites 
+
+2.     Ensure your privacy in our secure sites 
+
+3.     Store login details for our secure sites 
+
+4.     Temporarily store details input into our calculators, tools, illustrations and demonstrations 
+
+5.     Store details of your marketing, product and business unit preferences to improve our targeting and enhance your journey through our sites 
+
+We use our own (first party) cookies to support these activities. 
+
+We don’t use cookies to track people’s Internet usage after leaving our sites and we don’t store personal information in them others could read and understand. We will not sell or distribute cookie information without your prior consent. 
+
+### Services requiring enabled cookies
+
+Some of our services, including Barclays Online Banking, require cookies in your browser to view and use them and to protect your financial and personal information.
+
+Please note that should you choose to set your browser to disable cookies, you may not be able to access secure areas of this website, for example any online accounts you may hold.
+
+### Secure online services
+
+Any secure online services you subscribe to with us may use cookies to enable information about you and your preferences to be stored and to prevent unauthorised access to your services and information.  Cookies must usually be accepted in such circumstances - without them we cannot ensure your information is secure (and people rejecting cookies can’t use the services). 
+
+By “our/we/us/ours” we mean Barclays Bank Plc and its wholly and partly owned subsidiaries and any company in which it has an interest by way of shareholding or any company in a group of companies to which it may belong (‘our group’). By “our sites” we mean any internet website operated by Barclays Bank Plc and any company in our group.
