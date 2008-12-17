@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allindiansite.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624032003id_/http%3A//www.allindiansite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindiansite.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217194512id_/http%3A//www.allindiansite.com/privacy.html) for the most accurate reproduction.*
 
 # Telugu songs, Telugu Music, Telugu Radio, Telugu Movies from AllIndianSite.com - It's All About Telugu Songs, Telugu Music
 
