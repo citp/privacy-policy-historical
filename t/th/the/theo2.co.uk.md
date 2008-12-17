@@ -1,119 +1,131 @@
-> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2008-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080212201859id_/http%3A//theo2.co.uk/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060710id_/http%3A//www.theo2.co.uk/footer/privacy.html) for the most accurate reproduction.*
 
 # The O2 - Privacy
 
-**TERMS OF USE**
+### Who We are
 
- **GENERAL OVERVIEW**
+This website (http://www.theo2.co.uk) (the "Site") is provided by Anschutz Entertainment Group (the trading name of Anschutz Sports Holdings Ltd) ("AEG"), a company registered in England and Wales ("We" / "Us" / "Our"). Our registered office is at: The Studio, The O2, London SE10 0DX. Our Data Protection Registration Number is Z8689382. You can also contact Us online via [policy@aegworldwide.co.uk](mailto:policy@aegworldwide.co.uk). 
 
-Anschutz Entertainment Group (AEG) is committed to protecting your privacy. The purpose of this privacy policy is to explain how we use any information we may collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
-
-We have created this privacy policy statement in order to demonstrate our firm commitment to protecting the privacy of all of our customers and visitors. The following statement discloses the information gathering and dissemination practices and policies of AEG.
-
-Except as otherwise discussed in this statement, this document only addresses the use and disclosure of information we collect from you online. For some services, we may either collect and transfer personal information to a service provider you have selected, or you may visit other merchants through links on our Site who may collect and use your personal information. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
+AEG is committed to protecting your privacy. The purpose of this Privacy Policy is to explain how We may use any data We collect about You ("You" / "Your"), how You can instruct Us if You prefer to limit the use of that data and for Us to tell You about the policies and procedures that We have in place to safeguard Your privacy. 
 
 Please read the following to learn more about our data collection policies and practices.
 
-  * [Types of information that may be collected](http://www.theo2.co.uk/footer/privacy.html#Typesofinformationthatmaybecollected)
-  * [How is information collected](http://www.theo2.co.uk/footer/privacy.html#Howisinformationcollected)
-  * [How we use the information we collect](http://www.theo2.co.uk/footer/privacy.html#Howweusetheinformationwecollect)
-  * [Disclosure of information](http://www.theo2.co.uk/footer/privacy.html#Disclosureofinformation)
-  * [Security of information](http://www.theo2.co.uk/footer/privacy.html#Securityofinformation)
-  * [Message boards](http://www.theo2.co.uk/footer/privacy.html#Messageboards)
-  * [Links to other websites](http://www.theo2.co.uk/footer/privacy.html#Linkstootherwebsites)
-  * [Disclaimer](http://www.theo2.co.uk/footer/privacy.html#Disclaimer)
-  * [Notification of changes and acceptance of the privacy policy](http://www.theo2.co.uk/footer/privacy.html#Notificationofchangesandacceptanceoftheprivacypolicy)
-  * [Correcting and updating personal information](http://www.theo2.co.uk/footer/privacy.html#Correctingandupdatingpersonalinformation)
-  * [Contact information](http://www.theo2.co.uk/footer/privacy.html#Contactinformation)
+  * [Your data](http://www.theo2.co.uk/footer/privacy.html#Typesofinformationthatmaybecollected)
+  * [When do We collect Your data?](http://www.theo2.co.uk/footer/privacy.html#Howisinformationcollected)
+  * [How We use Your data?](http://www.theo2.co.uk/footer/privacy.html#Howweusetheinformationwecollect)
+  * [Disclosure of Your data to third parties and overseas transfers of Your data](http://www.theo2.co.uk/footer/privacy.html#Disclosureofinformation)
+  * [How do We protect Your data?](http://www.theo2.co.uk/footer/privacy.html#Securityofinformation)
+  * [Links to other Websites ](http://www.theo2.co.uk/footer/privacy.html#links)
+  * [Notification of changes to the Privacy Policy ](http://www.theo2.co.uk/footer/privacy.html#changes)
+  * [Unsubscribing and amending Your data](http://www.theo2.co.uk/footer/privacy.html#Contactinformation)
+  * [Contact Us](http://www.theo2.co.uk/footer/privacy.html#Contactinformation)
 
 
 
-**Types of information that may be collected**
+### Your data
 
-The personally identifiable information we collect is used to facilitate delivery of products and/or services to our customers. In the process of providing these products and/or services, we require our customers to provide certain personal information. Specific details may include, but is not limited to the following and may be subject to change:
+"Your data" means any data about You from which You can be identified such as Your name, address, telephone number, email address, financial details or other data which You may disclose to Us via the Site at any time. 
 
-Contests, promotions, and/or newsletter registrations: We require all users and/or customers wishing to participate in any of our contests, drawings, sweepstakes, promotions, or newsletters to complete a Participant Registration Form. During this registration process we generate and collect certain personally identifiable information.
+### When do We collect Your data?
 
-Registration form: Customer's first name, last name, address, phone number, age and email address. Winners of contests, drawings, sweepstakes, and/or promotions will be required to provide additional personal information such as a shipping address and telephone number.
+We may collect Your data from several different areas of the Site, depending on the services which You choose to sign up to. However, upon entering the Site, Your information will automatically be collected by the following means:
 
-Product and/or service purchases: In order to complete the purchase of a product and/or service, an online credit card transaction is required. During this process we generate and collect certain verifiable personal information. The verifiable personally identifiable information required includes the customer's first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card expiration date, customer's shipping address, phone number, and email address.
+### General Data Collection
 
-Correspondence: If a customer sends us personal correspondence, such as emails or letters, we may collect such information into a file specific to you.
+#### IP addresses and click-stream data
 
-**How is information collected**
+An IP address is a number which is automatically assigned to Your computer whenever You access the Internet. When You access Our Site, We log Your IP address and can identify You from it. Click-stream data is information collected by Us when You navigate the Site, for example the specific web pages You looked at, the order You looked at them and the time of Your visit. This data helps Us analyse how visitors arrive at the Site and what content is most popular and We may use it for administration purposes or to report aggregate information to Our advertisers and sponsors.
 
-We may collect information from you in several different areas on the Site, including but not limited to those described below:  
-Registration: You may be asked first to complete a registration form and provide personal information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Site may choose to offer, including, but not limited to, Newsletters, Contests, Forums, Fantasy or other subscription based services.
+#### Cookies
 
-Newsletters and Site emails: We may offer free newsletters to share information with you about the Site, about us and our affiliates and subsidiaries, or about our business partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your free email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails. 
+Cookies are small text files saved to Your computer and used to track Your navigation around the Site. Like many other website operators, We use "cookies" to record how You navigate the Site on each visit. Cookies help Us determine to determine the most popular areas of our Site. Most web browsers automatically accept cookies but You do not have to. If You do not want data collected through the use of cookies, or if You want to be notified when You receive a cookie, You can readjust Your browser settings (usually via the "Help" section of the tool bar). However, please note that by disabling cookies Your experience of the Site may be affected as access to some parts of it may be limited. We do not control the use of cookies by third parties on third party websites.
 
-Contests or sweepstakes: We may operate contests and sweepstakes through the Site, which may require registration. Your personal information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. We may ask your permission to allow us to post publicly some of your information on the Site, such as on a winners page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Site, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
+### Optional and Future Services
 
-Surveys or voting: From time-to-time we may request personal information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey.
+There are several optional services which You may choose to sign up to. The information required will vary for each service which is offered, therefore please see below:
 
-Cookies: As with many other website operators, we may use standard technology called "cookies," which are small data files that are stored on your computer's hard drive when you allow your browser to accept cookies and record how you navigate our website on each visit. Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser. However, some areas of the Site may be limited and may affect your visitor experience if you have disabled the use of cookies.
+#### Registration
 
-IP addresses and click-stream data: We may collect IP addresses and/or click-stream data for purposes of system administration and to report aggregate information to our advertisers and sponsors. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request web pages from the Site, our computer logs your IP address. Click-stream data is information collected by our computers when you request web pages from the Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When examined, this data helps us analyse how visitors arrive at the Site, for example what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
+You may be asked to fill out a registration form with Your data and/or to choose a user ID and password in order to take advantage of certain features the Site may have to offer. 
 
-Transaction information: If you order any information from our Site, buy any of our products or subscribe for any of the services offered on our Site, we will ask you to complete an order form that will request certain information from you, including financial information such as a credit card number and expiration date and general contact, billing and shipping information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. Such information is collected and stored through encrypted means for your protection.
+#### Newsletters, emails and alerts
 
-Fantasy games When you register to play fantasy games, you may be asked to provide personal information. 
+We may offer free newsletters or alerts to share information with You about the Site, about Us, about Our affiliates and subsidiaries or about Our business partners, advertisers or sponsors. You may receive a newsletter or other alerts either by choosing to register for one or in conjunction with a special feature or membership for which You have registered. You can cancel Your subscription to newsletters, Site emails and alerts by emailing Us at [policy@aegworldwide.co.uk](mailto:policy@aegworldwide.co.uk) or by contacting Us via the email address which You will normally find at the bottom of the newsletter or email in question. 
 
-**How we use the information we collect**
+#### Competitions
 
-All personal information that we obtain about you will be recorded, used and protected by us in accordance with current data protection legislation and this privacy policy. We will use personal information about our customers to provide products and services but also to improve our marketing and promotional efforts; statistically analyse Site usage; improve our content and product offerings; and customise our Site content and layout. We believe these uses allow us to improve our Site and provide better service to our customers.
+We sometimes operate competitions through the Site which may require registration. The data You provide Us with may be used to notify You that You have won, to confirm delivery of a prize or for other related purposes. On occasion, We may publicly post some of Your data on the Site, (for example on a winners page). However, We will not post Your data on the Site without Your express consent. 
 
-We may occasionally use a customer's email address and, in rare situations, postal address or phone number, to contact a customer regarding administrative matters or notices.
+In some instances, a third party may operate or host a competition on the Site, and collect Your data. In those cases, where We are not the operator or host of the contest or sweepstake, We have no control over the data collected and accordingly urge You to review the third party's privacy policy before participating.
 
-We may use information in the file we maintain about a customer to resolve disputes and troubleshoot problems.
+#### Surveys or voting
 
-**Disclosure of information**
+From time-to-time We may request data from You via surveys or voting polls made available on or through the Site. Participation is voluntary but may involve disclosure of Your data. Each survey or voting poll will explain if and how such data is used.
 
-Information we collect may be accessed by a variety of parties, depending upon the project for which the information was originally collected, the terms of that engagement, and the policies into or out of which the consumer has opted. From time to time, we may send you offers from AEG, its affiliates and our promotional partners based on the information you have provided us. In addition, we may share information we collect about you with third party companies regarding promotions, sweepstakes and other opportunities / offers. These third parties are subject to stringent data security and confidentiality requirements. 
+#### Transaction information
 
-Whilst we believe the disclosure of your information will result in opportunities that may be of interest to you, you have the right to tell us not to give your information to any third party. If you want AEG to keep all of your information we have collected confidential and not share it with any third party, please either email us or mail your written request to:
+We may offer products for sale, or offer subscriptions for services. If You order any information from our Site, buy any of our products or subscribe for any other services offered on our Site, We will ask You to complete an order form that will request certain information from You, including financial information such as a credit card number and expiration date and general contact, billing and shipping information. We will use this information to complete the transaction that You have requested, i.e., to deliver the information, products or other services that You order, and to invoice You. Such information is collected and stored through encrypted means for Your protection.
+
+#### Fantasy Games
+
+We may offer fantasy games in connection with the Site. If You register to play such fantasy games, You may be asked to provide personal information. Each game will explain if and how such data is used. 
+
+#### Message Boards
+
+We may make message boards available to Our users. You are not required to provide any personal information when using these areas but You may choose to do so. If You post personal information online, it will be publicly available and You may receive unsolicited messages from other parties. AEG cannot ensure the security of any information You choose to make public on a message board. In addition, We cannot ensure that parties who have access to such publicly available information will respect Your privacy. Please exercise caution when deciding to disclose personal information in this area.
+
+### How We use Your data
+
+All data that We obtain about You will be used in accordance with current data protection legislation and this Privacy Policy. We will use Your data to process Your registrations, Your subscriptions to newsletters and site emails, Your competition entries, Your survey or voting information, Your transactions or Your involvement in fantasy games or message boards. We will also use it to analyse Site usage and for marketing or promotional purposes. We believe this allows Us to develop and improve the Site and to provide a better service to You.
+
+With Your express consent We may also use Your data to send You information about related products or services that may be of interest to You.
+
+We may occasionally use Your email address and, in rare situations, postal address or phone number, to contact You regarding administrative matters or notices.
+
+We may also use Your data to deal with any enquiries made by You, to resolve disputes and to troubleshoot problems.
+
+### Disclosure of Your data to third parties and overseas transfers of Your data
+
+With Your express consent We, and if applicable, Our partners or other trusted third parties may use Your data for marketing, market research, promotions and related purposes.
+
+With Your express consent, We may also send You offers from AEG, its affiliates and Our promotional partners based on the data You have given Us. 
+
+We may also pass Your data to other parties as follows:
+
+  * to Our employees and agents to administer Your account and the products and services provided to You by Us now or in the future; or
+  * to the police, regulatory bodies, legal advisers or parties whose request We reasonably consider to be justified in connection with any alleged criminal offence, any suspected breach of the AEG Terms of Use or any other abuse of Our services by You.
+
+
+
+Some of the organisations to which We may, with Your express consent, disclose Your data are situated outside the European Economic Area. In order to provide You with the products and services You require, We may need to transfer Your data to these countries, some of which do not have laws that protect Your privacy rights as extensively as those in the United Kingdom. However, if We do transfer Your data to other territories, We will take proper steps to ensure that Your data is properly protected and processed only in accordance with this Privacy Policy. By consenting to this Privacy Policy You are consenting to this transfer.
+
+In the unlikely event that We sell or otherwise dispose of some or all of our business to another party, We reserve the right to transfer Your data as part of any assets sold or disposed of.
+
+If You have previously given Your consent to our passing Your data to third parties or overseas and would like us to stop doing so, please email us at [policy@aegworldwide.co.uk](mailto:policy@aegworldwide.co.uk) or post Your written request to "Compliance Officer, The Studio, The O2, London SE10 0DX." Your request must include Your name, email address and postal address. Written requests sent by post must also be signed. Please allow seven working days for Us to process Your request.
+
+### How do We protect Your data?
+
+We use industry standard efforts to safeguard the confidentiality of Your data. All the data collected by Us is stored on a secure server. However, please keep in mind that the internet and the World Wide Web are not secure mediums.
+
+### Links to other websites
+
+The Site contains links to other websites, for example links from advertisers, sponsors and partners. AEG is only responsible for the privacy practices and security of this Site. AEG is not responsible for the privacy policies, content or security of any linked websites. We recommend that You check the privacy and security policies of each and every website that You visit through our Site. Please also see our [Terms of use](http://www.theo2.co.uk/test/testy2.html) for further information on third party sites. 
+
+### Notification of changes to the Privacy Policy
+
+This privacy policy was last updated on 24 November 2008. AEG reserves the right to change the policy from time to time. Any such changes will be posted on this page, so that We can keep You informed of our information collection practices. However, We encourage users to be responsible about their privacy and recommend that You consult this page frequently so that You are aware of Our latest policy and can update Your preferences if necessary. Your continued use of this Site shall constitute Your acceptance of any revised privacy policy.
+
+### Unsubscribing and amending Your data
+
+You are entitled by law to find out what data of Yours is held by AEG. You have the right to receive a copy of the data We hold about You for which We may charge a small administration fee.
+
+You can also amend or remove information You give Us via the Site at any time. You can do this by sending an email to [policy@aegworldwide.co.uk](mailto:policy@aegworldwide.co.uk) or by writing to Us at AEG, The Studio, The O2, London SE10 0DX. 
+
+### Contact Us
+
+If You have any comments or questions about this privacy policy, the practices of this Site, or Your dealings with this Site, please email [policy@aegworldwide.co.uk](mailto:policy@aegworldwide.co.uk) or send a letter to:
 
 Attn: Compliance Officer  
-AEG, 25 Canada Square, Canary Wharf, London E14 5LQ   
-or email: [policy@aegworldwide.co.uk](mailto:policy@aegworldwide.co.uk)
+AEG, The Studio, The O2, London SE10 0DX.
 
-Your request must include your name, email address, mailing address and must be signed. (Signature only required for written request sent by regular mail). Please allow six weeks to process your request.
-
-It is possible for you to use much of our Site without giving us any personally information. Should you choose to register with us or provide personal information, you will be given the opportunity at the time we collect your information to limit e-mail communications from AEG and from our third party partners. You may request at any time that AEG not send future e-mails to you either by unsubscribing from the communication or by contacting us at [policy@aegworldwide.co.uk](mailto:policy@aegworldwide.co.uk). In addition, as mentioned above, there are ways to limit the information collected through technology although some of our Site features will be inaccessible if you decide to do this.
-
-Some of the organisations to which we may disclose your personal information are situated outside the European Economic Area. In order to provide you with the products and services you require, we may need to transfer your personal information to these countries, some of which do not have laws that protect your privacy rights as extensively as in the United Kingdom. If we do transfer your personal information to other territories, we will take proper steps to ensure that your information is properly protected.
-
-**Security of information**
-
-We use industry standard efforts to safeguard the confidentiality of your personal information. However, please keep in mind that the internet and/or the World Wide Web is not a secure medium.
-
-When you submit your credit card details, we use industry standard Secure Socket Layer (SSL) encryption technology to guard your information.
-
-**Message boards**
-
-The Site may make message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. AEG cannot ensure the security of any information you choose to make public on a message board. In addition, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in this area.
-
-**Links to other websites**
-
-This Site contains links to other websites which includes links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding agreement. AEG are only responsible for the privacy practices and security of this Site. We recommend that you check the privacy and security policies and procedures of each and every website that you visit.
-
-**Disclaimer**
-
-AEG is providing this Site on an 'as is' basis and makes no representations or warranties of any kind with respect to this Site or its contents and disclaims all such representations and warranties. In addition, AEG makes no representations or warranties about the accuracy, completeness, or suitablility for any purpose of the information and related graphics published in this Site. The information contained on this Site may contain technical inaccuracies or typographical errors. All liability of AEG howsoever arising for any such inaccuracies or errors is expressly excluded to the fullest extent permitted by law. Neither AEG nor its parent, subsidiaries, affiliates, directors, officers, employees and agents or other representatives will be liable for loss or damage of any kind arising out of or in connection with the use of this Site.
-
-**Notification of changes and acceptance of the privacy policy**
-
-By using this Site, you signify your agreement to the terms of our privacy policy. AEG reserves the right to change this policy from time to time. If so, any such changes will be posted on this page, so that AEG may keep its users informed of its information collection practices. Accordingly, we recommend that you consult this page frequently so that you are aware of our latest policy. Your continued use of this Site shall constitute your acceptance of such revised privacy policy.
-
-**Correcting and updating personal information**
-
-You are entitled by law to find out certain personal information held by AEG You have the right to receive a copy of the personal information we hold about you for which we may charge a small administration fee. You have the right if you consider that any information is not correct to change the information we hold about you, or if you would like your information removed from our database, you can use the option out message in an email, or email us at [policy@aegworldwide.co.uk.](mailto:policy@aegworldwide.co.uk.)
-
-**Contact information**
-
-If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, please contact AEG by sending a letter to: 
-
-Attn: Compliance Officer  
-AEG, 25 Canada Square, Canary Wharf, London E14 5LQ
-
-You may also contact us by e-mail at [policy@aegworldwide.co.uk](mailto:policy@aegworldwide.co.uk)  
+**By registering on or by otherwise using the Site, You expressly consent to the use of Your data in accordance with this Privacy Policy**.
