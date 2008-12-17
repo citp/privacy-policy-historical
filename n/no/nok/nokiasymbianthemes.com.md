@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokiasymbianthemes.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614053218id_/http%3A//www.nokiasymbianthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiasymbianthemes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084807id_/http%3A//www.nokiasymbianthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Nokia Symbian Themes Blog | Nokia Symbian Themes
 
@@ -17,9 +17,9 @@ Nokia Symbian Themes gathers two types of information about users:
 
 
 
-**Nokia Symbian Themes Gathers User Information In The Following Processes:**
+ **Nokia Symbian Themes Gathers User Information In The Following Processes:**
 
-**_Optional Voluntary Information_**
+ ** _Optional Voluntary Information_**
 
 We offer the following free services, which require some type of voluntary submission of personal information by users:
 
@@ -35,7 +35,7 @@ When you use our site we might offer a free electronic newsletter to you in the 
 > 
 > In order to maintain unique integrity about its content, **some comments, trackbacks, and pingbacks made to the Nokia Symbian Themes blog are sometimes moderated**. I work to review and approve comments as quickly as possible, but please kindly do not resubmit your comment if it does not appear right away.
 > 
-> #### **Language, Length, and Format**
+> ####  **Language, Length, and Format**
 > 
 > Nokia Symbian Themes focuses primarily on Nokia users or potential Nokia users. That being said, please always avoid harsh language and the use of profanity and obscenity. Threatening language is absolutely not allowed nor will it be tolerated.
 > 
@@ -53,7 +53,7 @@ When you use our site we might offer a free electronic newsletter to you in the 
 > 
 > All links going out of the comments box is of rel=nofollow. And because of excessive spams I have implemented auto moderation for comments that provide a link to any url with the comment itself and not in the url box. Of course, if it is not spam, be sure that I will approve it right away.
 > 
-> **Please double check your links** , because any link which returns an error or leads to a site under construction or cannot load might be removed.
+>  **Please double check your links** , because any link which returns an error or leads to a site under construction or cannot load might be removed.
 > 
 > #### Signatures within Comments
 > 
@@ -130,7 +130,7 @@ Nokia Symbian Themes may place a text file called a “cookie” in the browser 
 
 Of course you can refuse cookies by turning them off in your browser. If you’ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site.
 
-## _Privacy Policy Use_
+##  _Privacy Policy Use_
 
 USE OF INFORMATION
 
@@ -154,7 +154,7 @@ OPT-OUT POLICY
 
 I always give users options wherever necessary and practical. Such choices include:
 
-  * **Opting not to register to receive our electronic newsletters.** ****
+  *  **Opting not to register to receive our electronic newsletters.** ****
   * **Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users**
 
 
@@ -163,6 +163,4 @@ YOUR CONSENT
 
 By using this site, you consent to the collection and use of this information by Nokia Symbian Themes. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-Popularity: 1%
-
-**Share and Enjoy:** These icons link to social bookmarking sites where readers can share and discover new web pages.
+**Like It? Then help me to Spread the Word!:**
