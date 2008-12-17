@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thesecret.tv privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607101854id_/http%3A//www.thesecret.tv/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesecret.tv privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035928id_/http%3A//www.thesecret.tv/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ::: The Secret ::: Official Web Site of The Secret Movie
 
 |  |   
 ---  
-[ ](https://web.archive.org/web/20080607101854id_/http%3A//www.thesecret.tv/movie/trailer.html)  
-[ ](https://web.archive.org/web/20080607101854id_/http%3A//www.thesecret.tv/movie/techcheck.html)  
+[ ](https://web.archive.org/web/20081217035928id_/http%3A//www.thesecret.tv/movie/trailer.html)  
+[ ](https://web.archive.org/web/20081217035928id_/http%3A//www.thesecret.tv/movie/techcheck.html)  
 [ ](http://shop.thesecret.tv/Shops)  
 [ ](http://shop.thesecret.tv/Shops/OtherLanguages.php)  
-[ ](https://web.archive.org/web/20080607101854id_/http%3A//www.thesecret.tv/latest-news.html)  
+[ ](https://web.archive.org/web/20081217035928id_/http%3A//www.thesecret.tv/latest-news.html)  
 [ ](http://whatisthesecret.tv/link-to-us.html)  
 [ ](https://web.archive.org/living-the-secret.html#SCROLLS)  
 | 
