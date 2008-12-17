@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522043601id_/http%3A//www.fantasyfootball.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217213158id_/http%3A//fantasyfootball.com/page/privacy%2520policy) for the most accurate reproduction.*
 
-# fantasyfootball.com: Privacy Policy
+# Fantasy Football
 
-**Fantasy Planet Privacy Policy**
+## Fantasy Planet Privacy Policy
 
-Fantasy Planet considers the maintenance of user privacy to be extremely important. Following is a description of the manner in which Fantasy Planet manages user information ("Privacy Policy" or "Policy"). 
+Fantasy Planet considers the maintenance of user privacy to be extremely important. Following is a description of the manner in which Fantasy Planet manages user information ("Privacy Policy" or "Policy").
 
 **Scope**
 
@@ -19,9 +19,9 @@ Collection and Use of User Information
 
   * Fantasy Planet collects personal information when you register with Fantasy Planet.com, or with an affiliate fantasy sports or content partner of Fantasy Planet.com. Fantasy Planet may record information when you visit Fantasy Planet.com pages or the pages of Fantasy Planet affiliates. Fantasy Planet may combine information it collects with information it obtains from business partners or other companies. 
   * When you register, Fantasy Planet asks for information such as your name, email address, age, gender, zip code, occupation, and referral information. Once you register with Fantasy Planet and sign in to our services, you are not anonymous to us. 
-  * As part of the registration process, you are given an option to receive periodic email promotions from Fantasy Planet partners. You may change your preferred setting in this regard at any time by visiting your "My Profile" link or emailing [](http://webmaster@fantasyplanet.com/)[](mailto:webmaster@fantasyplanet.com)[](mailto:webmaster@fantasyplanet.com)[webmaster@fantasyplanet.com](mailto:webmaster@fantasyplanet.com)[](mailto:webmaster@fantasyplanet.com). 
+  * As part of the registration process, you are given an option to receive periodic email promotions from Fantasy Planet partners. You may change your preferred setting in this regard at any time by visiting your "My Profile" link or emailing [webmaster@fantasyplanet.com](mailto:webmaster@fantasyplanet.com). 
   * Fantasy Planet collects information about your transactions with us and with some of our business partners. Fantasy Planet automatically receives and records information on our server logs from your browser, including your IP address, Fantasy Planet and/or affiliate cookie information, and the page(s) you request. 
-  * Fantasy Planet uses the information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. If you opt to receive periodic email promotions from Fantasy Planet partners, Fantasy Planet may also use your information to send you the promotions, or may make your information available to partners to send the promotions. Should you change your mind, and wish to stop receiving promotional offers from Fantasy Planet or its partners, you can follow the “Unsubscribe” link in any email that you receive, or you can send an email to [](mailto:support@fantasyplanet.com)[](mailto:support@fantasyplanet.com)[support@fantasyplanet.com](mailto:support@fantasyplanet.com) with the word “Unsubscribe” in the subject line. 
+  * Fantasy Planet uses the information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. If you opt to receive periodic email promotions from Fantasy Planet partners, Fantasy Planet may also use your information to send you the promotions, or may make your information available to partners to send the promotions. Should you change your mind, and wish to stop receiving promotional offers from Fantasy Planet or its partners, you can follow the “Unsubscribe” link in any email that you receive, or you can send an email to [support@fantasyplanet.com](mailto:support@fantasyplanet.com) with the word “Unsubscribe” in the subject line. 
 
 
 
@@ -71,7 +71,7 @@ Your Ability to Edit Your Account Information and Preferences
 
 **Questions and Support**
 
-  * If you have questions about this Policy, including any relationship between Fantasy Planet and its affiliates and/or partners, please send an email to [](mailto:support@Fantasy)[support@Fantasy](mailto:support@Fantasy) Planet.com, or send your question to: 
+  * If you have questions about this Policy, including any relationship between Fantasy Planet and its affiliates and/or partners, please send an email to [support@Fantasy](mailto:support@Fantasy) Planet.com, or send your question to: 
 
 
 
@@ -80,5 +80,3 @@ Customer Support
 4245 Kemp Suite 818  
 Wichita Falls, TX 76308  
 (866) 475-9002 
-
-[](https://web.archive.org/tracker/index.html?t=ad&ad_id=50&url=http%3A%2F%2Fwww.thesportsking.com)
