@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2008-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080103014349id_/http%3A//www.findsomeone.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217091443id_/http%3A//www.findsomeone.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # findsomeone.co.nz | Privacy Policy
 
