@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the desicomments.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430143909id_/http%3A//www.desicomments.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desicomments.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075243id_/http%3A//www.desicomments.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Graphics for Myspace, Hi5, Friendster
+# Privacy Policy | DesiComments.com
+
+### Privacy Policy
 
 The following Privacy Statement discloses the information gathering and dissemination practices for Desicomments.com
 
