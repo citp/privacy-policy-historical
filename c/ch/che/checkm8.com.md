@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkm8.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611054306id_/http%3A//checkm8.com%3Fsection%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkm8.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142616id_/http%3A//checkm8.com%3Fsection%3D27) for the most accurate reproduction.*
 
 # CheckM8 - Rich Media and Online Ad Technology
 
