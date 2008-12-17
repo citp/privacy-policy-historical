@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506110030id_/http%3A//www.gigmasters.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217184433id_/http%3A//www.gigmasters.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for Gigmasters.com
 
@@ -36,7 +36,7 @@ Returning user? **[Login here](https://www.gigmasters.com/modify.asp)**. Don't k
 
 Gigmasters.com, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  This privacy statement covers the site WWW.GIGMASTERS.COM.  Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
 
-If users have questions or concerns regarding this statement, they should first contact Michael Caldwell, Customer Support, by e-mail <http://www.gigmasters.com/contact.asp>, by telephone 866-342-9794, by postal mail Gigmasters, Inc., 73 Redding Road - Suite 7, Redding, CT 06896. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the _[TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php) (_<http://www.truste.org/consumers/watchdog_complaint.php> _)._ TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+If users have questions or concerns regarding this statement, they should first contact Michael Caldwell, Customer Support, by e-mail <http://www.gigmasters.com/contact.asp>, by telephone 866-342-9794, by postal mail Gigmasters.com, Inc., 9 Brookside Place, Suite E, Redding, CT 06896. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the _[TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php) (_<http://www.truste.org/consumers/watchdog_complaint.php> _)._ TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
 ## Log Files
 
@@ -127,7 +127,7 @@ If, however, we are going to use users’ personally identifiable information in
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Michael Caldwell Gigmasters, Inc.  73 Redding Road - Suite 7  Redding, CT 06896
+Michael Caldwell Gigmasters.com, Inc.  9 Brookside Place, Suite E  Redding, CT 06896
 
 <http://www.gigmasters.com/contact.asp>
 
