@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boldchat.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509085524id_/http%3A//www.boldchat.com/v5/company/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldchat.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071609id_/http%3A//www.boldchat.com/v5/company/privacy.jsp) for the most accurate reproduction.*
 
 # BoldChat - Privacy
 
@@ -34,8 +34,8 @@ Please contact us here if you should have any questions, comments or concerns ab
 You may write us via surface mail:
 
 > Bravestorm, LLC  
->  1445 N Rock Road, Suite 150  
->  Wichita, Kansas 67206 
+>  1938 N Woodlawn, Suite 410  
+>  Wichita, Kansas 67208 
 
 You may phone us:
 
