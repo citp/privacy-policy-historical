@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansedge.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521102618id_/http%3A//www.fansedge.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansedge.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217130836id_/http%3A//www.fansedge.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -16,7 +16,7 @@ Privacy Notice Table Of Contents:
 
 
 **Our Commitment To Privacy  
-**  
+**   
 Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make our privacy practices easy to find and understand, we provide a link to the Privacy Policy highlights on our homepage, on the bottom of all pages in the order process, and through the online help section that is linked to every page of our site. This policy applies to all FansEdge and Powered by FansEdge websites.
 
 We reserve the right to change this policy as needed. A revised policy will be available on our website with an effective date. Subscribed members will be emailed a notification to review the new privacy policy when it becomes available. 
@@ -29,38 +29,38 @@ This notice applies to all information collected or submitted at the FansEdge or
 
 > _Required for purchase_  
 >  Name   
-> Complete Address   
-> Email address   
-> Phone numbers 
+>  Complete Address   
+>  Email address   
+>  Phone numbers 
 >
 >> _If paying by Credit/Debit Card_  
 >  \- Note that this information is collected, but we do NOT keep or store your card information!  
-> Card number  
-> Expiration date  
-> CVV2 (CID) code
+>  Card number  
+>  Expiration date  
+>  CVV2 (CID) code
 >> 
 >> _If paying by check_  
 >  Type of Account   
-> Exact Name of Account Holder  
-> Driver's License #   
-> Bank Name   
-> Routing Number   
-> Account Number   
-> Check Number
+>  Exact Name of Account Holder  
+>  Driver's License #   
+>  Bank Name   
+>  Routing Number   
+>  Account Number   
+>  Check Number
 > 
 > _Optional for registration_  
 >  How did you hear about FansEdge?   
-> Date of Birth   
-> Household Income  
-> Gender   
-> Type of purchase   
-> Referral code 
+>  Date of Birth   
+>  Household Income  
+>  Gender   
+>  Type of purchase   
+>  Referral code 
 
 On some pages, you can submit information about other people. For example, if you order a gift and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
 
 > Name   
-> Complete Address   
-> Phone Number 
+>  Complete Address   
+>  Phone Number 
 
 **The Way We Use Information:**
 
@@ -82,8 +82,8 @@ You may receive mailings from other reputable companies. You can, however, have 
 
 FansEdge, Inc.  
 Attn: Security Department  
-7510 N. Caldwell Ave  
-Niles, IL 60714 
+725 Landwehr Rd.  
+Northbrook, IL 60062 
 
 We will share required information to the necessary government law enforcement agencies in the course of an investigation, as required by law. When permissible, we will inform you that we are providing this information.
 
@@ -99,7 +99,7 @@ We use cookies to store visitors preferences, record session information, such a
 
 Protecting the privacy of the very young is especially important. For that reason, and to comply with the FTC, we never collect or maintain information at our website from those we actually know are at or under 13, and no part of our website is structured to attract anyone under 13. All our contests and promotions are only available to people 18 and over. 
 
-If you believe that an underage member of your family, or an underage person you are responsible for, has registered or made a purchase at our website, please contact our customer service immediately at 877.965.3955. 
+If you believe that an underage member of your family, or an underage person you are responsible for, has registered or made a purchase at our website, please contact our customer service immediately at 877-965-3955. 
 
 We reserve the right to suspend or cancel any order we know or suspect was placed by an underage person. We reserve the right to require identification to prove that an order is from a person over 18.
 
@@ -107,20 +107,20 @@ We reserve the right to suspend or cancel any order we know or suspect was place
 
 You can access all your personally identifiable information that we collect online and maintain by logging into the account you created upon registration. We use this procedure to better safeguard your information. 
 
-You can change your FansEdge account information any time you like by going to [Access your account](https://web.archive.org/AccountMenu.aspx). From here you can click [Log into account](https://www.fansedge.com/Login.aspx) and enter your email address and password. You can then access the Update My Account page and make changes to your information.
+You can change your FansEdge account information any time you like by going to [Access your account](https://web.archive.org/AccountMenu.aspx). From here you can click [ Log into account](https://web.archive.org/Login.aspx) and enter your email address and password. You can then access the Update My Account page and make changes to your information.
 
-If you do not have an account- for example, if you do not have an email address- you can correct factual errors in your personally identifiable information by calling us at 877.965.3955 or sending us a request to [Service@FansEdge.com](mailto:Service@FansEdge.com) that credibly shows the error. 
+If you do not have an account- for example, if you do not have an email address- you can correct factual errors in your personally identifiable information by calling us at 877-965-3955 or sending us a request to [ Service@FansEdge.com](mailto:Service@FansEdge.com) that credibly shows the error. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us**
 
-Should you have other questions or concerns about our privacy policy, please call us at _877.965.3955_ or send us an email at [Service@FansEdge.com](mailto:Service@FansEdge.com) .
+Should you have other questions or concerns about our privacy policy, please call us at _877-965-3955_ or send us an email at [ Service@FansEdge.com](mailto:Service@FansEdge.com) .
 
 For direct mail opt-out requests, please send a request by mail to:
 
 FansEdge, Inc.  
 Attn: Security Department  
-7510 N. Caldwell Ave  
-Niles, IL 60714   
+725 Landwehr Rd.  
+Northbrook, IL 60062   
 
