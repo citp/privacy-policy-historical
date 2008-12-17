@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the costcotravel.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616054053id_/http%3A//www.costco.com/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084%26lang%3Den-US%26topnav%3D%26whse%3DBC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costcotravel.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035235id_/http%3A//www.costco.com/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084%26lang%3Den-US%26topnav%3D%26whse%3DBC) for the most accurate reproduction.*
 
-# Costco Privacy Policy 02-05-08
+# Costco Wholesale Corporation Privacy Statement
 
 |  | 
 
 | **Costco Wholesale Corporation  
 Privacy Statement  
 **(United States and Puerto Rico)  
-Last Updated February 05, 2008  
+Last Updated August 29, 2008  
 ---  
     
    
@@ -151,7 +151,7 @@ We appreciate the importance of safeguarding the privacy of your personal health
 ---|---  
   |    
 2. | **Pharmacies**  
-This section explains our policy with respect to the uses of personal pharmacy information, whether you use our services online or in a warehouse pharmacy. Prescription information is stored in an electronic system separate from all other member stored personal information. To fill your prescriptions, we collect your name, address, telephone number, age, gender, allergies and other prescription-related information. We are required by law to collect this type of information to identify potentially dangerous drug interactions or other health concerns. We use this information to process your order, contact you with any questions and provide you with the counseling you may require. Our pharmacist database is maintained separately from our other Member databases. Only licensed pharmacists, specifically authorized staff and others permitted by law to view this information, are allowed to do so. When you use our services, you consent to our use and disclosure of your personal health information for purposes of treatment, payment or health care operations. We do not otherwise sell, share, rent or disclose personal information collected from our pharmacy pages or maintained in pharmacist records unless you have authorized such disclosure, or such disclosure is permitted or required by law. Additional measures to protect the confidentiality of your prescription information are explained in our confidentiality of personal pharmacy information page located on our Web site. Please see http://www.costco.com/Browse/Productgroup.aspx?Prodid=11229291.  
+This section explains our policy with respect to the uses of personal pharmacy information, whether you use our services online or in a warehouse pharmacy. Prescription information is stored in an electronic system separate from all other member stored personal information. To fill your prescriptions, we collect your name, address, telephone number, age, gender, allergies, and other prescription-related information. We are required by law to collect this type of information to identify potentially dangerous drug interactions or other health concerns. We use this information to process your order, contact you with any questions and provide you with the counseling you may require. Our pharmacist database is maintained separately from other Member databases. Only licensed pharmacists, specifically authorized staff, and others permitted by law to view this database, are allowed to do so. When you use our services, you consent to our use and disclosure of your personal health information for purposes of treatment, payment or health care operations. We do not otherwise sell, share, rent or disclose personal information collected from our pharmacy pages or maintained in pharmacist records unless you have authorized such disclosure, or such disclosure is permitted or required by law. Additional terms regarding the confidentiality of your prescription information are explained in our confidentiality of personal pharmacy information page located on our Web site <http://www.costco.com/Browse/Productgroup.aspx?Prodid=11229291> and incorporated in this Privacy Policy by this reference. Please review these terms so that you understand how they affect your actions and information.  
    
 **I. Online Specifics**  
          
