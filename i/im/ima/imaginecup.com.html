@@ -1,21 +1,9 @@
-<!--The following is the downloaded HTML source of the imaginecup.com privacy policy that was archived on 2008-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080512053402id_/http%3A//imaginecup.com/Legal/PrivacyStatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imaginecup.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217075634id_/http%3A//imaginecup.com/Legal/PrivacyStatement.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1">
-    <style>
-        .masterDDL
-        {
-            background-color:black;
-	        font-size: 9pt; 
-	        font-weight: normal;
-	        color: #a4a4a4;
-	        font-weight: normal;
-	        text-decoration: none;
-        }
-        
-    </style>
-    <link href="../App_Themes/Default/Default.css" type="text/css" rel="stylesheet">
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Imagine Cup Student Competition - Privacy Statement
+</title><link href="../App_Themes/Default/IC2009.css" type="text/css" rel="Stylesheet">
    <script type="text/javascript">
    
    function LaguageDDFunction(dropdownValue, fn_hidden_CMSChangeFlag_id, fn_DropDownList_PageLanguage_id)
@@ -81,39 +69,6 @@
 		document.getElementById(id).focus();		
 	    }
     }
-    
-        function menuPreLoad()
-        {
-            //var pageContainer = document.getElementById("page_container");
-          
-            //pageContainer.style.display = "none";
-            
-            if(document.getElementById("nav_button_home")=="null")
-            {
-                document.getElementById("nav_button_home").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_home_over.gif)";
-                document.getElementById("nav_button_home").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_home_out.gif)";
-                
-                document.getElementById("nav_button_admin").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_admin_over.gif)";
-                document.getElementById("nav_button_admin").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_admin_out.gif)";
-               
-                document.getElementById("nav_button_about").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_about_over.gif)";
-                document.getElementById("nav_button_about").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_about_out.gif)";
-                
-                document.getElementById("nav_button_competition").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_competition_over.gif)";
-                document.getElementById("nav_button_competition").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_competition_out.gif)";
-                
-                document.getElementById("nav_button_competitors").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_competitors_over.gif)";
-                document.getElementById("nav_button_competitors").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_competitors_out.gif)";
-                
-                document.getElementById("nav_button_forums").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_forums_over.gif)";
-                document.getElementById("nav_button_forums").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_forums_out.gif)";
-                
-                document.getElementById("nav_button_support").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_support_over.gif)";
-                document.getElementById("nav_button_support").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_support_out.gif)";
-            }
-            //pageContainer.style.display = "block";            
-            
-        }
         
         function findX(obj)
 		{
@@ -206,51 +161,16 @@
 			while(Timer.set[i]) i++;
 			return i;
 		}
-        
+		
         startList = function() 
-			{	
-    			menuPreLoad();
-				displayCurrentSection();
-				
-				
-				function displayCurrentSection()
-				{				
-				    var url = document.location.toString();
-				    var section = url.split("/");
-    				
-				    // Each case represents a folder location. Add additional case mappings to add new physical folder locations to a particular menu item.
-				    switch(section[3].toUpperCase())
-				    {
-				        case "COMPETITION" :
-				            document.getElementById("nav_button_competition").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_competition_over.gif)";
-				            break;
-				        case "COMMUNITY" :
-				            document.getElementById("nav_button_forums").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_forums_over.gif)";
-				            break;
-				        case "SUPPORT" :
-				            document.getElementById("nav_button_support").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_support_over.gif)";
-				            break;
-				        //case "MYSTUFF" :
-				        //    document.getElementById("nav_button_competitors").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_competitors_over.gif)";
-				        case "ABOUT" :
-				            document.getElementById("nav_button_about").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_about_over.gif)";
-				            break;
-				        default :
-				            //document.getElementById("nav_button_home").style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_home_over.gif)";
-				            break;
-				    }
-				}
-				
+			{
 				menus = document.getElementById("nav").getElementsByTagName("LI");
-				
+
 				for (i=0; i<menus.length; i++) 
 				{
 					menus[i].onmouseover = function()
 					{
-						button = document.getElementById("nav_button_" + this.id);
-						//alert(button.id + " over");
-						if(button != null)
-						    button.style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_" + this.id + "_over.gif)";
+					    //alert('menu');
 						this.style.cursor = "pointer";
 						
 						//Start: menu to open up left or right
@@ -264,45 +184,36 @@
 						{
 						    this.className += " over";
 						}
-						//this.className += "over";
 						//End: menu to open up left or right
 						
 						var pagename = window.location.pathname;
 						var sPage = pagename.substring(pagename.lastIndexOf('/') + 1);                       
-                        //alert(sPage);	
+
                         sPage = sPage.toLowerCase();				
                         
-                        if (sPage == "leaderboard.aspx")
-                        {
-                            window.document.getElementById("ctl00_ContentPlaceHolder_DropDownList_Competition").style.display="none";                            
-                        }
+//                        if (sPage == "leaderboard.aspx")
+//                        {
+//                            window.document.getElementById("ctl00_ContentPlaceHolder_DropDownList_Competition").style.display="none";                            
+//                        }
 					}
 					menus[i].onmouseout = function()
 					{
-						button = document.getElementById("nav_button_" + this.id);
-						
-						//alert(button.id + " out");
-						if(button != null)
-						    button.style.backgroundImage = "url(/App_Themes/Default/images/mainMenu_" + this.id + "_out.gif)";
 						this.style.cursor = "default";
 						
 						//Start: menu to open up left or right
 						this.timer = new Timer(this);
 						this.timer.setTimeout("out",0);
-						//this.className = this.className.replace(new RegExp("over\\b"), "");
 						//End: menu to open up left or right
 						
 						var pagename = window.location.pathname;
 						var sPage = pagename.substring(pagename.lastIndexOf('/') + 1);						
-                        //alert(sPage);					
+
                         sPage = sPage.toLowerCase();	
                         
                         if (sPage == "leaderboard.aspx")
                         {
                             window.document.getElementById("ctl00_ContentPlaceHolder_DropDownList_Competition").style.display="block";                            
                         }
-						
-						displayCurrentSection();
 					}
 					menus[i].out = function()
 					{
@@ -319,56 +230,155 @@
 			    var o = document.getElementById(ctrl);
                 if((o != undefined) && (o != null)) o.focus();
 			}
-			//////
-    </script>
-    <title>
-	Imagine Cup - Privacy Statement
-</title></head>
-<body id="ctl00_ctl00_Master_Body">
-<input name="ctl00$ctl00$hidden_CMSChangeFlag" type="hidden" id="ctl00_ctl00_hidden_CMSChangeFlag" value="false">
-<input name="ctl00$ctl00$hidden_CMSIsReverDraftVisible" type="hidden" id="ctl00_ctl00_hidden_CMSIsReverDraftVisible" value="false">
-<input name="ctl00$ctl00$hidden_CMSIsRevertDraftAvilableAfterEdit" type="hidden" id="ctl00_ctl00_hidden_CMSIsRevertDraftAvilableAfterEdit" value="false">
-    <form name="aspnetForm" method="post" action="/Legal/PrivacyStatement.aspx" id="aspnetForm">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4MjI5MDA5MjQPZBYCZg9kFgJmDw8WAh4ORWRpdGFibGVQYWdlSWQC6gNkFgICAw9kFgICBxBkZBYIAgIPZBYCAgMPZBYGAgEPDxYCHgRUZXh0BQROVUxMZGQCAw8PFgIeB1Zpc2libGVoZGQCBQ8PFgIfAWVkZAIED2QWAgIBDxAPFgYeDkRhdGFWYWx1ZUZpZWxkBQZsb2NhbGUeDURhdGFUZXh0RmllbGQFBG5hbWUeC18hRGF0YUJvdW5kZ2QQFRIGQmFoYXNhB0RldXRzY2gHRW5nbGlzaAhFc3Bhw7FvbAlGcmFuw6dhaXMISHJ2YXRza2kISXRhbGlhbm8GUG9sc2tpClBvcnR1Z3XDqnMJc2xvdmVuc2t5BlNycHNraRBUacOqzIFuZyBWacOqzKN0EM6VzrvOu863zr3Ouc66zqwO0KDRg9GB0YHQutC40LkR2KfZhNi52LHYqNmK2KnigI8G5Lit5paHCe2VnOq1reyWtAnml6XmnKzoqp4VEgVpZC1pZAVkZS1kZQVlbi11cwVlcy1lcwVmci1mcgVoci1ocgVpdC1pdAVwbC1wbAVwdC1wdAVzay1zawpzci1sYXRuLWNzBXZpLXZuBWVsLWdyBXJ1LXJ1BWFyLWFlBXpoLWNuBWtvLWtyBWphLWpwFCsDEmdnZ2dnZ2dnZ2dnZ2dnZ2dnZxYBAgJkAgUPZBYMAgMPDxYCHg1PbkNsaWVudENsaWNrBUlqYXZhc2NyaXB0OnJldHVybiBDb25maXJtUmV2ZXJ0RHJhZnQoJ2N0bDAwX2N0bDAwX2hpZGRlbl9DTVNDaGFuZ2VGbGFnJyk7ZGQCBQ8PFgIfBgVFamF2YXNjcmlwdDpyZXR1cm4gRGlzYWJsZVdhcm5pbmcoJ2N0bDAwX2N0bDAwX2hpZGRlbl9DTVNDaGFuZ2VGbGFnJyk7ZGQCBw8PFgIfBgVFamF2YXNjcmlwdDpyZXR1cm4gRGlzYWJsZVdhcm5pbmcoJ2N0bDAwX2N0bDAwX2hpZGRlbl9DTVNDaGFuZ2VGbGFnJyk7ZGQCCQ8PFgIfBgVKamF2YXNjcmlwdDpyZXR1cm4gQ29uZmlybVJldmVydFRvTGl2ZSgnY3RsMDBfY3RsMDBfaGlkZGVuX0NNU0NoYW5nZUZsYWcnKTtkZAILDw8WAh8GBUVqYXZhc2NyaXB0OnJldHVybiBEaXNhYmxlV2FybmluZygnY3RsMDBfY3RsMDBfaGlkZGVuX0NNU0NoYW5nZUZsYWcnKTtkZAIPDw8WAh8BZWRkAgcPZBYCAgEPZBYCAgkPDxYCHwEFBUNBUkxBZGRkMiiYVXe/dqJ1w/7khGJlK32WZJI=">
-</div>
-
-        <div id="page_container" class="page_container">
-            <noscript>
-                <div id="ctl00_ctl00_no_script_nav" class="no_script_nav"><DIV style="float: left; padding-left: 10px; padding-right: 10px;"><a style="font-weight:bold;CURSOR:default;">Home</a><BR/>&nbsp;<a href="/default.aspx" style="font-weight:normal;">Imagine Cup Home</a><BR/></DIV><DIV style="float: left; padding-left: 10px; padding-right: 10px;"><a style="font-weight:bold;CURSOR:default;">About</a><BR/>&nbsp;<a href="/About/WhatIs.aspx" style="font-weight:normal;">What is the Imagine Cup?</a><BR/>&nbsp;<a href="/About/Sponsors.aspx" style="font-weight:normal;">Sponsors</a><BR/>&nbsp;<a href="/About/InnovationAccelerator.aspx" style="font-weight:normal;">Innovation Accelerator</a><BR/>&nbsp;<a href="/About/UNESCO.aspx" style="font-weight:normal;">UNESCO Endorsement</a><BR/>&nbsp;<a href="/About/News.aspx" style="font-weight:normal;">News</a><BR/>&nbsp;<a href="/About/Press.aspx" style="font-weight:normal;">Press Resources</a><BR/></DIV><DIV style="float: left; padding-left: 10px; padding-right: 10px;"><a href="http://imaginecup.com" style="font-weight:normal;">Root menu added</a><BR/></DIV><DIV style="float: left; padding-left: 10px; padding-right: 10px;"><a style="font-weight:bold;CURSOR:default;">Competition</a><BR/>&nbsp;<a href="/Competition/Overview.aspx" style="font-weight:normal;">Overview</a><BR/>&nbsp;<a href="/Competition/Rules-Regulations.aspx" style="font-weight:normal;">Rules and Regulations</a><BR/>&nbsp;<a href="/Competition/mycompetitionportal.aspx?competitionId=10" style="font-weight:normal;">Software Design</a><BR/>&nbsp;<a href="/Competition/mycompetitionportal.aspx?competitionId=11" style="font-weight:normal;">Embedded Development</a><BR/>&nbsp;<a href="/Competition/mycompetitionportal.aspx?competitionId=12" style="font-weight:normal;">Game Development</a><BR/>&nbsp;<a href="/Competition/mycompetitionportal.aspx?competitionId=13" style="font-weight:normal;">Project Hoshimi</a><BR/>&nbsp;<a href="/Competition/mycompetitionportal.aspx?competitionId=14" style="font-weight:normal;">IT Challenge</a><BR/>&nbsp;<a href="/Competition/mycompetitionportal.aspx?competitionId=15" style="font-weight:normal;">Algorithm</a><BR/>&nbsp;<a href="/Competition/mycompetitionportal.aspx?competitionId=16" style="font-weight:normal;">Photography</a><BR/>&nbsp;<a href="/Competition/mycompetitionportal.aspx?competitionId=17" style="font-weight:normal;">Short Film</a><BR/>&nbsp;<a href="/Competition/mycompetitionportal.aspx?competitionId=18" style="font-weight:normal;">Interface Design</a><BR/>&nbsp;<a href="/Competition/Leaderboard.aspx" style="font-weight:normal;">Leaderboards</a><BR/>&nbsp;<a style="font-weight:bold;CURSOR:default;">Achievement Awards</a><BR/>&nbsp;&nbsp;<a href="/Competition/InteroperabilityAward.aspx" style="font-weight:normal;">Interoperability Award</a><BR/>&nbsp;&nbsp;<a href="/Competition/WindowsLiveAward.aspx" style="font-weight:normal;">Windows Live Award</a><BR/>&nbsp;&nbsp;<a href="/Competition/AccessibilityAward.aspx" style="font-weight:normal;">Accessible Technology Award</a><BR/></DIV><DIV style="float: left; padding-left: 10px; padding-right: 10px;"><a style="font-weight:bold;CURSOR:default;">Forums</a><BR/>&nbsp;<a href="/Community/Forums/" style="font-weight:normal;">All Forums</a><BR/>&nbsp;<a href="/Community/Forums/18/ShowForum.aspx" style="font-weight:bold;">Software Design</a><BR/>&nbsp;&nbsp;<a href="/Community/forums/70.aspx" style="font-weight:normal;">Windows Live Award Forum</a><BR/>&nbsp;&nbsp;<a href="/Community/forums/69.aspx" style="font-weight:normal;">Interoperability Award Forum</a><BR/>&nbsp;<a href="/Community/Forums/20/ShowForum.aspx" style="font-weight:normal;">Embedded Development</a><BR/>&nbsp;<a href="/Community/Forums/63/ShowForum.aspx" style="font-weight:normal;">Game Development</a><BR/>&nbsp;<a href="/Community/Forums/15/ShowForum.aspx" style="font-weight:normal;">Project Hoshimi</a><BR/>&nbsp;<a href="/Community/Forums/16/ShowForum.aspx" style="font-weight:normal;">IT Challenge</a><BR/>&nbsp;<a href="/Community/Forums/14/ShowForum.aspx" style="font-weight:normal;">Algorithm</a><BR/>&nbsp;<a href="/Community/Forums/12/ShowForum.aspx" style="font-weight:normal;">Photography</a><BR/>&nbsp;<a href="/Community/Forums/10/ShowForum.aspx" style="font-weight:normal;">Short Film</a><BR/>&nbsp;<a href="/Community/Forums/11/ShowForum.aspx" style="font-weight:bold;">Interface Design</a><BR/>&nbsp;&nbsp;<a href="/Community/forums/71.aspx" style="font-weight:normal;">Accessible Technology Award Forum</a><BR/>&nbsp;<a href="http://imaginecup.com/Community/forums/66.aspx" style="font-weight:normal;">Environment Theme</a><BR/></DIV><DIV style="float: left; padding-left: 10px; padding-right: 10px;"><a style="font-weight:bold;CURSOR:default;">Support</a><BR/>&nbsp;<a href="/Support/contactus.aspx" style="font-weight:normal;">Contact Us</a><BR/>&nbsp;<a href="/Support/FAQ.aspx" style="font-weight:normal;">FAQ</a><BR/>&nbsp;<a href="/Support/MentorResources.aspx" style="font-weight:normal;">Mentor Resources</a><BR/>&nbsp;<a href="/competition/captainbios.aspx" style="font-weight:normal;">Competition Captain Bios</a><BR/></DIV></div>
-            </noscript>
+			
+			//Functions added by Dhawal
+			function ShowPopUp(DivPopUpID, SignInStripID, divLoginID, textboxEmailID)
+            {
+                var DivPopUp = document.getElementById(DivPopUpID);
+                if ( DivPopUp != null )
+                {
+                    //Following lines written by Dhawal for setting the position of the signin div 
+                    var BrowserType = navigator.appName;
+                    var BrowserVersion = parseInt(navigator.appVersion);
+                    var SignInStrip = document.getElementById(SignInStripID);
+                    var divLogin = document.getElementById(divLoginID);
+                    divLogin.style.position = "absolute";
+                    divLogin.style.top = findPosY(SignInStrip) + 0;
+                    divLogin.style.left = findPosX(SignInStrip) - 21;
+                    if (BrowserType == "Netscape")
+                    {   
+                        var divLogin_top = findPosY(SignInStrip) + 0;
+                        divLogin.style.top = divLogin_top + '' + 'px';
+                        var divLogin_left = findPosX(SignInStrip) - 21;
+                        divLogin.style.left = divLogin_left + '' + 'px';
+                    }         
+                    //Above lines written by Dhawal for setting the position of the signin div      
+                    DivPopUp.style.display = "block";
+                    //For setting the focus on the email textbox
+                    var textboxEmail = document.getElementById(textboxEmailID);
+                    textboxEmail.focus();
+                }
+            }
             
+            function HidePopUp( DivPopUpID)
+            {
+                var DivPopUp = document.getElementById(DivPopUpID);
+                if ( DivPopUp != null )
+                {
+                    DivPopUp.style.display = "none";
+                }
+            }
+            
+            /*Functions added by Dhawal on 25th June 2008 to set the position of the login div*/
+            /*START*/
+            function findPosX(obj)    
+            {    
+                var curleft = 0;    
+                if (obj.offsetParent) 
+                {     
+                    while (1) 
+                    {      
+                        curleft+=obj.offsetLeft;      
+                        if (!obj.offsetParent) 
+                        {       
+                            break;      
+                        }      
+                        obj=obj.offsetParent;     
+                    }    
+                } 
+                else if (obj.x) 
+                {     
+                    curleft+=obj.x;    
+                }    
+                return curleft;   
+            }   
+            
+            function findPosY(obj)    
+            {    
+                var curtop = 0;    
+                if (obj.offsetParent) 
+                {     
+                    while (1) 
+                    {      
+                        curtop+=obj.offsetTop;      
+                        if (!obj.offsetParent) 
+                        {       
+                            break;      
+                        }      
+                        obj=obj.offsetParent;     
+                    }    
+                } 
+                else if (obj.y) 
+                {     
+                    curtop+=obj.y;    
+                }    
+                return curtop;   
+            }
+            /*END*/
+            /*Functions added by Dhawal on 25th June 2008 to set the position of the login div*/
+            
+            function enableCompeteForITQuiz()
+            {
+                //This function is added by Dhawal for resolving the javascript error from the IT Challenge Portal.
+            }
+    </script>    
 
-            <div class="page_header">                
-                <div id="ctl00_ctl00_div_page_header_logo" class="page_header_logo">
-                    <a id="ctl00_ctl00_header_logo" title="France 2008 Imagine Cup logo" href="/Default.aspx"><img title="France 2008 Imagine Cup logo" src="/App_Themes/Default/images/page_logo.gif" style="border-width:0px;"></a>
+    
+    </head>
+<body id="ctl00_ctl00_Master_Body" class="body6">
+    <form name="aspnetForm" method="post" action="PrivacyStatement.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4MjI5MDA5MjQPZBYCZg9kFgJmDw8WAh4ORWRpdGFibGVQYWdlSWQC6gNkFgICAw8WAh4FY2xhc3MFBWJvZHk2FgICAQ9kFgwCBw9kFgICAQ8QDxYGHg5EYXRhVmFsdWVGaWVsZAUGbG9jYWxlHg1EYXRhVGV4dEZpZWxkBQRuYW1lHgtfIURhdGFCb3VuZGdkEBUWBkJhaGFzYQlCdWxnYXJpYW4GxIxlc2t5B0RldXRzY2gHRW5nbGlzaAhFc3Bhw7FvbAlGcmFuw6dhaXMISHJ2YXRza2kISXRhbGlhbm8ITWFneWFywqAKUG9ydHVndcOqcwlTbG92ZW5pYW4Jc2xvdmVuc2t5BlNycHNraRBUacOqzIFuZyBWacOqzKN0B1R1cmtpc2gQzpXOu867zrfOvc65zrrOrA7QoNGD0YHRgdC60LjQuRHYp9mE2LnYsdio2YrYqeKAjwbkuK3mlocJ7ZWc6rWt7Ja0CeaXpeacrOiqnhUWBWlkLWlkBWJnLWJnBWNzLWN6BWRlLWRlBWVuLXVzBWVzLWVzBWZyLWZyBWhyLWhyBWl0LWl0BWh1LWh1BXB0LXB0AnNsBXNrLXNrCnNyLWxhdG4tY3MFdmktdm4FdHItdHIFZWwtZ3IFcnUtcnUFYXItYWUFemgtY24Fa28ta3IFamEtanAUKwMWZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZxYBAgRkAggPFgIeB1Zpc2libGVoFgwCAw8PFgIeDU9uQ2xpZW50Q2xpY2sFSWphdmFzY3JpcHQ6cmV0dXJuIENvbmZpcm1SZXZlcnREcmFmdCgnY3RsMDBfY3RsMDBfaGlkZGVuX0NNU0NoYW5nZUZsYWcnKTtkZAIFDw8WAh8GBUVqYXZhc2NyaXB0OnJldHVybiBEaXNhYmxlV2FybmluZygnY3RsMDBfY3RsMDBfaGlkZGVuX0NNU0NoYW5nZUZsYWcnKTtkZAIHDw8WAh8GBUVqYXZhc2NyaXB0OnJldHVybiBEaXNhYmxlV2FybmluZygnY3RsMDBfY3RsMDBfaGlkZGVuX0NNU0NoYW5nZUZsYWcnKTtkZAIJDw8WAh8GBUpqYXZhc2NyaXB0OnJldHVybiBDb25maXJtUmV2ZXJ0VG9MaXZlKCdjdGwwMF9jdGwwMF9oaWRkZW5fQ01TQ2hhbmdlRmxhZycpO2RkAgsPDxYCHwYFRWphdmFzY3JpcHQ6cmV0dXJuIERpc2FibGVXYXJuaW5nKCdjdGwwMF9jdGwwMF9oaWRkZW5fQ01TQ2hhbmdlRmxhZycpO2RkAg8PDxYCHgRUZXh0ZWRkAgkPZBYCAgUPD2QWBB4Hb25jbGljawWFAVNob3dQb3BVcCgnY3RsMDBfY3RsMDBfZGl2TG9naW4nLCAnY3RsMDBfY3RsMDBfaGVhZGVyX2xvZ2luJywgJ2N0bDAwX2N0bDAwX2NoaWxkRGl2TG9naW4nLCAnY3RsMDBfY3RsMDBfRW1haWxUZXh0Qm94Jyk7IHJldHVybiBmYWxzZTseC29ubW91c2VvdmVyBRt0aGlzLnN0eWxlLmN1cnNvcj0ncG9pbnRlcidkAgoPZBYGAgEPDxYCHwcFBFRydWVkZAIDDw8WAh8FaGRkAgUPDxYCHwdlZGQCEg8PFgIfBwUFQ0FSTEFkZAIYD2QWAgIBD2QWAmYPZBYCAgEPZBYCAgEPZBYCZg8PZBYEHwgFMEhpZGVQb3BVcCgnY3RsMDBfY3RsMDBfZGl2TG9naW4nKTsgcmV0dXJuIGZhbHNlOx8JBRt0aGlzLnN0eWxlLmN1cnNvcj0ncG9pbnRlcidkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBR5jdGwwMCRjdGwwMCRSZW1lbWJlck1lQ2hlY2tCb3jVAmQEzIg0yn/OzAhZO32XgGlCeA==">
+
+
+<script src="/ScriptResource.axd?d=rd_3eFANCb81je-ivcFUyWnZoxC3zheexgVggOY2pynx1M_l-9xVug8fFJz_t_IeffkBShlOVZQaUR43zbQDHpxPXXeVhShFg8fTEyfQtD01&amp;t=633509208309872036" type="text/javascript"></script>
+    
+    <input name="ctl00$ctl00$hidden_CMSChangeFlag" type="hidden" id="ctl00_ctl00_hidden_CMSChangeFlag" value="false">
+    <input name="ctl00$ctl00$hidden_CMSIsReverDraftVisible" type="hidden" id="ctl00_ctl00_hidden_CMSIsReverDraftVisible" value="false">
+    <input name="ctl00$ctl00$hidden_CMSIsRevertDraftAvilableAfterEdit" type="hidden" id="ctl00_ctl00_hidden_CMSIsRevertDraftAvilableAfterEdit" value="false">
+    <input name="ctl00$ctl00$hidden_signup09_email" type="hidden" id="ctl00_ctl00_hidden_signup09_email">
+    <div id="container">
+
+        <a href="../Default.aspx" class="logoLink"></a>
+        <div id="content">
+        
+            <noscript>
+                <div id="ctl00_ctl00_no_script_nav" class="no_script_nav">
+
+                    <DIV style='float: left; padding-left: 10px; padding-right: 10px;'><a style='cursor:default;'><strong>Home</strong></a><br/>&nbsp;&nbsp;<a href='/default.aspx'>Imagine Cup Home</a><br/></div><DIV style='float: left; padding-left: 10px; padding-right: 10px;'><a style='cursor:default;'><strong>Compete</strong></a><br/>&nbsp;&nbsp;<a href='/Registration/default.aspx'>Register</a><br/>&nbsp;&nbsp;<a href='/Competition/Overview.aspx'>Competition Overview</a><br/>&nbsp;&nbsp;<a style='cursor:default;'><strong>Competitions</strong></a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/mycompetitionportal.aspx?competitionId=19'>Software Design</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/mycompetitionportal.aspx?competitionId=20'>Embedded Development</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/mycompetitionportal.aspx?competitionId=21'>Game Development</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/mycompetitionportal.aspx?competitionId=22'>Robotics & Algorithm</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/mycompetitionportal.aspx?competitionId=23'>IT Challenge</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/mycompetitionportal.aspx?competitionId=24'>MashUp</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/mycompetitionportal.aspx?competitionId=25'>Photography</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/mycompetitionportal.aspx?competitionId=26'>Short Film</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/mycompetitionportal.aspx?competitionId=27'>Design</a><br/>&nbsp;&nbsp;<a style='cursor:default;'><strong>Awards</strong></a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/mycompetitionportal.aspx?competitionId=31'>Parallel Computing</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/mycompetitionportal.aspx?competitionId=29'>Design for Development</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/mycompetitionportal.aspx?competitionId=28'>MultiPoint Education</a><br/>&nbsp;&nbsp;<a href='/Competition/Leaderboard.aspx'>Leaderboards</a><br/></div><DIV style='float: left; padding-left: 10px; padding-right: 10px;'><a style='cursor:default;'><strong>Learn</strong></a><br/>&nbsp;&nbsp;<a href='/About/Welcome.aspx'>Get Started</a><br/>&nbsp;&nbsp;<a href='http://imaginecup.com/Competition/LearningResourcesOverview.aspx'>Learning Resources</a><br/>&nbsp;&nbsp;<a href='http://imaginecup.com/Competition/ResourcesfromMicrosoftLearning.aspx'><strong>Competition Resources</strong></a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/SoftwareDesign.aspx'>Software Design</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/EmbeddedDevelopment.aspx'>Embedded Development</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/GameDevelopment.aspx'>Game Development</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/Robotics.aspx'>Robotics & Algorithm</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Competition/ITChallenge.aspx'>IT Challenge</a><br/>&nbsp;&nbsp;<a href='/Support/FAQ.aspx'>FAQ</a><br/>&nbsp;&nbsp;<a href='/MyStuff/FreeSoftware.aspx'>Software Access</a><br/></div><DIV style='float: left; padding-left: 10px; padding-right: 10px;'><a style='cursor:default;'><strong>Socialize</strong></a><br/>&nbsp;&nbsp;<a href='/Support/MentorResources.aspx'>Mentor Resources</a><br/>&nbsp;&nbsp;<a style='cursor:default;'><strong>Forums</strong></a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/forums/'>All Forums</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/forums/18.aspx'>Software Design</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/forums/20.aspx'>Embedded Development</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/forums/63.aspx'>Game Development</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/forums/14.aspx'>Robotics & Algorithm</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/forums/16.aspx'>IT Challenge</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/forums/74.aspx'>MashUp</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/forums/12.aspx'>Photography</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/forums/10.aspx'>Short Film</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/forums/11.aspx'>Design</a><br/></div><DIV style='float: left; padding-left: 10px; padding-right: 10px;'><a style='cursor:default;'><strong>Explore</strong></a><br/>&nbsp;&nbsp;<a href='/Support/exploreimaginecup.aspx'>Explore Our History</a><br/>&nbsp;&nbsp;<a href='/About/WhatIs.aspx'>What is the Imagine Cup?</a><br/>&nbsp;&nbsp;<a href='/About/Sponsors.aspx'>Our Sponsors</a><br/>&nbsp;&nbsp;<a href='/About/News.aspx'>News</a><br/>&nbsp;&nbsp;<a href='/About/Press.aspx'>Press Resources</a><br/></div>
                 </div>
-                <div id="ctl00_ctl00_div_page_header_login" style="float: left; width: 596px;">
-                    <div id="ctl00_ctl00_header_login" class="hyperlink_BeforeLogin">
-                        <a id="ctl00_ctl00_HyperLink_Register" href="/Registration/Default.aspx" style="color:#BBBBBB;text-decoration:none;">Register</a>
-                        &nbsp;| &nbsp;
-                        <a id="ctl00_ctl00_HyperLink_LogIn" href="/Login.aspx" style="color:#BBBBBB;text-decoration:none;">Sign In</a>
-                    </div>
-                    
-                </div>  
-                  
-                <div id="ctl00_ctl00_div_Language" class="" style="float: left; padding: 22px 0px 0px 0px;">
-                    <div id="languageContainer" style="height: 21px;">
-                        <div style="width: 140px; height: 17px; 
-                            color: #6e6e6e; padding: 2px 0px 0px 2px;">
+            </noscript>
+        
+        
+            
+            <div id="menuContainer">
+                <!--Read the dynamically genetrated HTML for the menu -->
+                <ul id="nav">
+                    <li class="navHome"><a style="cursor:default">Home</a><ul><li><a href="/default.aspx">Imagine Cup Home</a></li></ul></li><li class="navCompete"><a style="cursor:default">Compete</a><ul><li><a href="/Registration/default.aspx">Register</a></li><li><a href="/Competition/Overview.aspx">Competition Overview</a></li><li><a style="cursor:default">Competitions</a><ul><li class="navProject"><a href="/Competition/mycompetitionportal.aspx?competitionId=19">Software Design</a></li><li class="navProject"><a href="/Competition/mycompetitionportal.aspx?competitionId=20">Embedded Development</a></li><li class="navProject"><a href="/Competition/mycompetitionportal.aspx?competitionId=21">Game Development</a></li><li class="navSkills"><a href="/Competition/mycompetitionportal.aspx?competitionId=22">Robotics &amp; Algorithm</a></li><li class="navSkills"><a href="/Competition/mycompetitionportal.aspx?competitionId=23">IT Challenge</a></li><li class="navSkills"><a href="/Competition/mycompetitionportal.aspx?competitionId=24">MashUp</a></li><li class="navDigital"><a href="/Competition/mycompetitionportal.aspx?competitionId=25">Photography</a></li><li class="navDigital"><a href="/Competition/mycompetitionportal.aspx?competitionId=26">Short Film</a></li><li class="navDigital"><a href="/Competition/mycompetitionportal.aspx?competitionId=27">Design</a></li></ul></li><li><a style="cursor:default">Awards</a><ul><li class="navProject"><a href="/Competition/mycompetitionportal.aspx?competitionId=31">Parallel Computing</a></li><li class="navProject"><a href="/Competition/mycompetitionportal.aspx?competitionId=29">Design for Development</a></li><li><a href="/Competition/mycompetitionportal.aspx?competitionId=28">MultiPoint Education</a></li></ul></li><li><a href="/Competition/Leaderboard.aspx">Leaderboards</a></li></ul></li><li class="navLearn"><a style="cursor:default">Learn</a><ul><li><a href="/About/Welcome.aspx">Get Started</a></li><li><a href="http://imaginecup.com/Competition/LearningResourcesOverview.aspx">Learning Resources</a></li><li><a href="http://imaginecup.com/Competition/ResourcesfromMicrosoftLearning.aspx">Competition Resources</a><ul><li><a href="/Competition/SoftwareDesign.aspx">Software Design</a></li><li><a href="/Competition/EmbeddedDevelopment.aspx">Embedded Development</a></li><li><a href="/Competition/GameDevelopment.aspx">Game Development</a></li><li><a href="/Competition/Robotics.aspx">Robotics &amp; Algorithm</a></li><li><a href="/Competition/ITChallenge.aspx">IT Challenge</a></li></ul></li><li><a href="/Support/FAQ.aspx">FAQ</a></li><li><a href="/MyStuff/FreeSoftware.aspx">Software Access</a></li></ul></li><li class="navSocialize"><a style="cursor:default">Socialize</a><ul><li><a href="/Support/MentorResources.aspx">Mentor Resources</a></li><li><a style="cursor:default">Forums</a><ul><li><a href="/forums/">All Forums</a></li><li><a href="/forums/18.aspx">Software Design</a></li><li><a href="/forums/20.aspx">Embedded Development</a></li><li><a href="/forums/63.aspx">Game Development</a></li><li><a href="/forums/14.aspx">Robotics &amp; Algorithm</a></li><li><a href="/forums/16.aspx">IT Challenge</a></li><li><a href="/forums/74.aspx">MashUp</a></li><li><a href="/forums/12.aspx">Photography</a></li><li><a href="/forums/10.aspx">Short Film</a></li><li><a href="/forums/11.aspx">Design</a></li></ul></li></ul></li><li class="navExplore"><a style="cursor:default">Explore</a><ul><li><a href="/Support/exploreimaginecup.aspx">Explore Our History</a></li><li><a href="/About/WhatIs.aspx">What is the Imagine Cup?</a></li><li><a href="/About/Sponsors.aspx">Our Sponsors</a></li><li><a href="/About/News.aspx">News</a></li><li><a href="/About/Press.aspx">Press Resources</a></li></ul></li>
+                </ul>
+                
+                
+                
+                
+                <div id="ctl00_ctl00_div_Language" style="padding: 7px 6px 7px 0px; text-align:right;">
+                    <div id="languageContainer">
+                        <span style="width: 150px; color: #6e6e6e; padding: 0px 0px 0px 0px;">
                             <select name="ctl00$ctl00$DropDownList_PageLanguage" id="ctl00_ctl00_DropDownList_PageLanguage" class="masterDDL">
 	<option value="id-id">Bahasa</option>
+	<option value="bg-bg">Bulgarian</option>
+	<option value="cs-cz">Česky</option>
 	<option value="de-de">Deutsch</option>
 	<option selected="selected" value="en-us">English</option>
 	<option value="es-es">Español</option>
 	<option value="fr-fr">Français</option>
 	<option value="hr-hr">Hrvatski</option>
 	<option value="it-it">Italiano</option>
-	<option value="pl-pl">Polski</option>
+	<option value="hu-hu">Magyar&nbsp;</option>
 	<option value="pt-pt">Português</option>
+	<option value="sl">Slovenian</option>
 	<option value="sk-sk">slovensky</option>
 	<option value="sr-latn-cs">Srpski</option>
 	<option value="vi-vn">Tiếng Việt</option>
+	<option value="tr-tr">Turkish</option>
 	<option value="el-gr">Ελληνικά</option>
 	<option value="ru-ru">Русский</option>
 	<option value="ar-ae">العربية‏</option>
@@ -377,315 +387,235 @@
 	<option value="ja-jp">日本語</option>
 
 </select>
-                        </div>
-                        <div style="position: relative; top: -21px; left: 144px; vertical-align: top;">                            
-                        </div>
-                        <div id="languageList" class="languageList" style="">
-                        </div>
+                        </span>
                     </div>
                 </div>
                 
-                <div class="page_header_nav">
-                    <!--Read the dynamically genetrated HTML for the menu -->
-                    <ul id="nav">
-                        <li id="home"><div id="nav_button_home" class="nav_button_home" style="cursor: default;" visible="true"></div><ul><li><a href="/default.aspx" runat="server">Imagine Cup Home</a></li></ul></li><li id="about"><div id="nav_button_about" class="nav_button_about" style="cursor: default;" visible="true"></div><ul><li><a href="/About/WhatIs.aspx" runat="server">What is the Imagine Cup?</a></li><li><a href="/About/Sponsors.aspx" runat="server">Sponsors</a></li><li><a href="/About/InnovationAccelerator.aspx" runat="server">Innovation Accelerator</a></li><li><a href="/About/UNESCO.aspx" runat="server">UNESCO Endorsement</a></li><li><a href="/About/News.aspx" runat="server">News</a></li><li><a href="/About/Press.aspx" runat="server">Press Resources</a></li></ul></li><li id="root menu added"><a href="http://imaginecup.com"></a><div id="nav_button_root menu added" class="nav_button_root menu added" style="cursor: hand;" visible="true"><a href="http://imaginecup.com"></a></div></li><li id="competition"><div id="nav_button_competition" class="nav_button_competition" style="cursor: default;" visible="true"></div><ul><li><a href="/Competition/Overview.aspx" runat="server">Overview</a></li><li><a href="/Competition/Rules-Regulations.aspx" runat="server">Rules and Regulations</a></li><li><a href="/Competition/mycompetitionportal.aspx?competitionId=10" runat="server">Software Design</a></li><li><a href="/Competition/mycompetitionportal.aspx?competitionId=11" runat="server">Embedded Development</a></li><li><a href="/Competition/mycompetitionportal.aspx?competitionId=12" runat="server">Game Development</a></li><li><a href="/Competition/mycompetitionportal.aspx?competitionId=13" runat="server">Project Hoshimi</a></li><li><a href="/Competition/mycompetitionportal.aspx?competitionId=14" runat="server">IT Challenge</a></li><li><a href="/Competition/mycompetitionportal.aspx?competitionId=15" runat="server">Algorithm</a></li><li><a href="/Competition/mycompetitionportal.aspx?competitionId=16" runat="server">Photography</a></li><li><a href="/Competition/mycompetitionportal.aspx?competitionId=17" runat="server">Short Film</a></li><li><a href="/Competition/mycompetitionportal.aspx?competitionId=18" runat="server">Interface Design</a></li><li><a href="/Competition/Leaderboard.aspx" runat="server">Leaderboards</a></li><li><a style="cursor:default" runat="server">Achievement Awards</a><ul><li><a href="/Competition/InteroperabilityAward.aspx" runat="server">Interoperability Award</a></li><li><a href="/Competition/WindowsLiveAward.aspx" runat="server">Windows Live Award</a></li><li><a href="/Competition/AccessibilityAward.aspx" runat="server">Accessible Technology Award</a></li></ul></li></ul></li><li id="forums"><div id="nav_button_forums" class="nav_button_forums" style="cursor: default;" visible="true"></div><ul><li><a href="/Community/Forums/" runat="server">All Forums</a></li><li><a href="/Community/Forums/18/ShowForum.aspx" runat="server">Software Design</a><ul><li><a href="/Community/forums/70.aspx" runat="server">Windows Live Award Forum</a></li><li><a href="/Community/forums/69.aspx" runat="server">Interoperability Award Forum</a></li></ul></li><li><a href="/Community/Forums/20/ShowForum.aspx" runat="server">Embedded Development</a></li><li><a href="/Community/Forums/63/ShowForum.aspx" runat="server">Game Development</a></li><li><a href="/Community/Forums/15/ShowForum.aspx" runat="server">Project Hoshimi</a></li><li><a href="/Community/Forums/16/ShowForum.aspx" runat="server">IT Challenge</a></li><li><a href="/Community/Forums/14/ShowForum.aspx" runat="server">Algorithm</a></li><li><a href="/Community/Forums/12/ShowForum.aspx" runat="server">Photography</a></li><li><a href="/Community/Forums/10/ShowForum.aspx" runat="server">Short Film</a></li><li><a href="/Community/Forums/11/ShowForum.aspx" runat="server">Interface Design</a><ul><li><a href="/Community/forums/71.aspx" runat="server">Accessible Technology Award Forum</a></li></ul></li><li><a href="http://imaginecup.com/Community/forums/66.aspx" runat="server">Environment Theme</a></li></ul></li><li id="support"><div id="nav_button_support" class="nav_button_support" style="cursor: default;" visible="true"></div><ul><li><a href="/Support/contactus.aspx" runat="server">Contact Us</a></li><li><a href="/Support/FAQ.aspx" runat="server">FAQ</a></li><li><a href="/Support/MentorResources.aspx" runat="server">Mentor Resources</a></li><li><a href="/competition/captainbios.aspx" runat="server">Competition Captain Bios</a></li></ul></li>
-                    </ul>
+            </div>
+            
+            
+            
+            <div>
+                <center>
+                    
+                </center>
+            </div>
+            
+            <div class="signInStrip" style="height:20px;">
+                <div class="signInStripLeft">
+                    <div class="signInStripLeftPad">
+                        <div id="ctl00_ctl00_header_login" style="vertical-align:middle;">
+                            You are not signed in.
+                            <a id="ctl00_ctl00_HyperLink_Register" href="/Registration/Default.aspx">Register</a>
+                            
+                            <span id="ctl00_ctl00_orLable"> or </span>
+                            <a id="ctl00_ctl00_HyperLink_LogIn" onclick="ShowPopUp('ctl00_ctl00_divLogin', 'ctl00_ctl00_header_login', 'ctl00_ctl00_childDivLogin', 'ctl00_ctl00_EmailTextBox'); return false;" onmouseover="this.style.cursor='pointer'" href="/Login.aspx">Sign In.</a>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="signInStripRight">
+                    <div class="signInStripRightPad">
+                        <a href="../Competition/Rules-Regulations.aspx" class="signInStrip">Rules and Regulations</a>&nbsp;&nbsp;<a href="CodeOfConduct.aspx" class="signInStrip">Code of Conduct</a>&nbsp;&nbsp;<a href="TermsOfUse.aspx" class="signInStrip">Terms of Use</a>&nbsp;&nbsp;<a href="PrivacyStatement.aspx" class="signInStrip">Privacy Policy</a>&nbsp;&nbsp;<a href="../Support/ContactUs.aspx" class="signInStrip">Get Help</a>
+                    </div>
                 </div>
             </div>
-            <div class="page_body">
-                <center>
-                    <div id="ctl00_ctl00_div_EditView" style="width: 890px; text-align: left;">
-                        <table cellpadding="0" cellspacing="0" width="100%">
-                            <tbody><tr>
-                                <td align="center">
-                                    </td>
-                                <td align="center">
-                                    </td>
-                                <td align="center">
-                                    </td>                                        
-                                <td align="center">
-                                    </td>
-                                <td align="center">
-                                    </td>
-                                <td align="center">
-                                    </td>
-                                <td align="center">
-                                    </td>
-                                <td align="center">
-                                    
-                                    </td>
-                            </tr>
-                        </tbody></table>
-                    </div>
-                </center>
-                <div id="Page_Body" class="page_body_pad">
-                    <div id="ctl00_ctl00_div_page_body_content" class="page_body_content">
-                        
-                
-                <div class="page_header_titlebar">
-                    <div id="header_color_box">
-                    </div>
-                    <div class="page_header_title">
-                        <div class="page_header_title_container_text">
-                        <div id="ctl00_ctl00_ContentPlaceHolder_HeaderTitle" editable="yes">Privacy Statement</div>
-                        </div>
-                        <div class="page_header_title_container_image">
-                        </div>
-                        <div id="page_header_butterfly" class="page_header_butterfly">
-                            <img id="ctl00_ctl00_ContentPlaceHolder_Image3" src="../App_Themes/Default/images/header_butterfly.gif" style="border-width:0px;"></div>
-                    </div>
-                </div>
-                
-                    <div id="ctl00_ctl00_ContentPlaceHolder_div_page_body_content" class="page_content">
-                        
+            <div id="Page_Body">
+            
+    
+        <div id="learnBlock"></div>
+        <div class="learnText">
+            <div id="ctl00_ctl00_ContentPlaceHolder_HeaderTitle" class="learnTextPad" editable="yes">Privacy Statement</div>
+            
+            
+            
+            
+            
+        </div>
+    
+    
+    
+    <div class="clearL"></div>
+    <div class="compSpacer"><!--IE6--></div>
+    
+    
+    
+    
     <script language="javascript" src="../Script/emailProtector.js"></script>
     <script language="javascript">
 		if(!addresses) var addresses = new Array();
 		addresses.push("12127 10183 1465 1906 3053 2491 8615 6214 6794 3602 2559 5480 5480 6214 7865 8615 3776 2550 1906 3602 8615 8615 7865 1906 8840 7995 8615 5572 1906 1465 5124 8840 6214 1465");
 		</script> 
-   
-
-    <div id="profileLeftCol">
-        <div id="ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolderCMS_R3_div_PageContent" editable="Yes"><p class="pSubHead greenSubHead">
-            <span id="ctl00_ContentPlaceHolder_Label32">PRIVACY STATEMENT</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label1">imaginecup.com Privacy Statement<br>
-                (last updated: August 23, 2007)</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label3">Microsoft is committed to protecting your
-                privacy. This privacy statement explains data collection and use practices of the
-                imaginecup.com site (the "Site") hosted for Microsoft by Fast Track; it does not
-                apply to other online or offline Microsoft sites, products or services. By accessing
-                the Site, you are consenting to the information collection and use practices described
-                in this privacy statement.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label4" style="font-weight: bold">Collecting Your
-                Personal Information</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label5">We will ask you when we need information
-                that personally identifies you (personal information) or allows us to contact you
-                to provide a service or carry out a transaction that you have requested such as
-                requesting information about Microsoft products and services, entering a contest,
-                ordering e-mail newsletters, joining a limited-access premium site, signing up for
-                an event or training, or when purchasing and/or registering Microsoft products.
-                The personal information we collect may include your name, home address, country,
-                school name, e-mail address, or phone number.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label6">The Site may collect certain information
-                about your visit, such as the name of the Internet service provider and the Internet
-                Protocol (IP) address through which you access the Internet; the date and time you
-                access the Site; the pages that you access while at the Site and the Internet address
-                of the Web site from which you linked directly to our site. This information is
-                used to help improve the Site, analyze trends, and administer the Site.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label7">You can choose to create an optional public
-                profile, containing information about yourself - such as your hobbies and interests.
-                Any information you choose to enter in your public profile will be visible to other
-                users of the Site; and when you interact with other users a link to your public
-                profile may be displayed. We urge you to be careful only to enter information on
-                your public profile that you are comfortable sharing with the public at large. You
-                may change, edit or delete information about yourself from your public profile at
-                any time while online by going to your profile after signing in.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label9">Please keep in mind that if you disclose
-                personal information through public online forums on the Site, this information
-                may be collected and used by others. We caution you against giving out personal
-                information to strangers online, which they may use for illegal or harmful purposes.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label10" style="font-weight: bold">Use of Your Personal
-                Information</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label11">The personal information collected on this
-                Site will be used to operate the Site and to provide the service(s) or carry out
-                the transaction(s) you have requested or authorized.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label12">In support of these uses, Microsoft may
-                use personal information to provide you with more effective customer service, to
-                improve the Site and any related Microsoft products or services, and to make the
-                Site easier to use by eliminating the need for you to repeatedly enter the same
-                information or by customizing the Site to your particular preference or interests.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label13">We may use your personal information to
-                provide you with important information about the product or service that you are
-                using, including critical updates and notifications. Additionally, with your permission,
-                we may send you information about other Microsoft products and services, and/or
-                share information with Microsoft partners so they may send you information about
-                their products and services.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label14">Microsoft occasionally hires other companies
-                to provide limited services on our behalf, such as Web site hosting, packaging,
-                mailing and delivering prizes, answering customer questions about products and services,
-                and sending information about our products, special offers, and other new services.
-                We will only provide those companies the personal information they need to deliver
-                the service. They are required to maintain the confidentiality of the information
-                and are prohibited from using that information for any other purpose.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label15">Microsoft may disclose personal information
-                if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Microsoft
-                or the Site; (b) protect and defend the rights or property of Microsoft and our
-                family of Web sites; or (c) act in urgent circumstances to protect the personal
-                safety of Microsoft employees or agents, users of Microsoft products or services,
-                or members of the public.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label16">Personal information collected on the Site
-                may be stored and processed in the United States or any other
-                    country in which Microsoft
-                or its affiliates, subsidiaries or agents maintain facilities, and by using the
-                Site, you consent to any such transfer of information outside of your country. Microsoft
-                abides by the safe harbor framework as set forth by the U.S. Department of Commerce
-                regarding the collection, use, and retention of data from the European Union.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label17" style="font-weight: bold">Control of Your
-                Personal Information</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label18">Except as otherwise described in this statement,
-                personal information you provide on the Site will not be shared outside of Microsoft
-                and its controlled subsidiaries and affiliates without your permission.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label19">Please be aware that this privacy statement
-                and any choices you make on the Site will not necessarily apply to personal information
-                you may have provided to Microsoft in the context of other, separately operated,
-                Microsoft products or services.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label20" style="font-weight: bold">Access to Your
-                Personal Information</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label21">Customer information is collected by Fast
-                Track Team, Inc (“Fast Track”), a Microsoft vendor. It is stored on Fast Track’s
-                servers [which are at a data center, not physically at fast track’s offices], plus
-                sent back to Microsoft. You can review, edit or delete the personal information
-                by going to your <a id="ctl00_ContentPlaceHolder_HyperLink_Profile2" href="/UpdateProfile.aspx" mce_href="../UpdateProfile.aspx">profile</a> after signing in on the Site. You
-                can also access your personal information and edit any contact preferences provided
-                at the Site by sending email to <a href="javascript:email(0);">
-                    <img align="absMiddle" border="0" mce_src="../App_Themes/Default/Images/Email/Support.bmp" src="/App_Themes/Default/Images/Email/Support.bmp"></a> or writing to:</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label22">Fast Track<br>
-                1615 Sunset Ave SW<br>
-                Seattle, WA 98116 USA</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label23" style="font-weight: bold">Security of Your
-                Personal Information</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label24">Microsoft is committed to protecting the
-                security of your personal information. We use a variety of security technologies
-                and procedures to help protect your personal information from unauthorized access,
-                use, or disclosure. For example, we store the personal information you provide on
-                computer servers with limited access that are located in controlled facilities.
-                Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such
-                as the Secure Socket Layer (SSL) protocol.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label25" style="font-weight: bold">Cookies</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label26">We use cookies on this Site to ensure the
-                integrity of the registration process and to personalize the Site. A cookie is a
-                small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely
-                assigned to you, and can only be read by a Web server in the domain that issued
-                the cookie to you.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label27">One of the primary purposes of cookies is
-                to provide a convenience feature to save you time. For example, if you personalize
-                a web page, or navigate within a site, a cookie helps the site to recall your specific
-                information on subsequent visits. This simplifies the process of delivering relevant
-                content, eases site navigation, and so on. When you return to the web site, the
-                information you previously provided can be retrieved, so you can easily use the
-                site's features that you customized.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label28">You have the ability to accept or decline
-                cookies. Most web browsers automatically accept cookies, but you can usually modify
-                your browser setting to decline cookies if you prefer. If you choose to decline
-                cookies, you may not be able to fully experience the interactive features of this
-                or other web sites you visit.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label29" style="font-weight: bold">Changes to This
-                Privacy Statement.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label30">We may occasionally update this privacy
-                statement. When we do, we will also revise the "last updated" date at the top of
-                the privacy statement. For material changes to this privacy statement, we will notify
-                you either by placing a prominent notice on the home page of our web site or by
-                directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal
-                information we collect. Your continued use of the service constitutes your agreement
-                to this privacy statement and any updates.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label31" style="font-weight: bold">Contact Information</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label33">Microsoft welcomes your
-                    comments regarding
-                this privacy statement. If you believe that Microsoft has not adhered to this privacy
-                statement, please contact us by email at <a href="javascript:email(0);">
-                    <img align="absMiddle" border="0" mce_src="../App_Themes/Default/Images/Email/Support.bmp" src="/App_Themes/Default/Images/Email/Support.bmp"></a> or via postal
-                mail at the address provided below, and we will use commercially reasonable efforts
-                to promptly determine and remedy the problem.</span></p>
-        <p>
-            <span id="ctl00_ContentPlaceHolder_Label34">Fast Track<br>
-                1615 Sunset Ave SW<br>
-                Seattle, WA 98116 USA</span></p></div>
-    </div>
-        <div id="profileRightCol">            
-            <div class="sideBox">
-                <div id="ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolderCMS_R3_div_RelatedLinks" editable="Yes"><div class="sideBoxTitle">
-                <span id="ctl00_ContentPlaceHolder_Label8">Related Links</span></div>
-            <a id="ctl00_ContentPlaceHolder_HyperLink18" href="/Legal/TermsOfUse.aspx" mce_href="TermsOfUse.aspx">
-                Terms Of Use</a><br>
-            <a id="ctl00_ContentPlaceHolder_HyperLink19" href="/Legal/CodeOfConduct.aspx" mce_href="CodeOfConduct.aspx">
-                Code Of Conduct</a><br></div>
-            </div>    
-        </div>
-        <div style="clear: left;"></div>
-        
-    
-
-                    </div>
-                       
-
-                    </div>
+    <table cellpadding="0" cellspacing="0" border="0" id="compBodyTable">
+        <tbody><tr>
+            <td id="compBodyLeft">
+                <div id="compBodyLeftPad">
+                    <div id="ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolderCMS_R3_div_PageContent" editable="Yes"><br><br><h2>PRIVACY STATEMENT</h2>          <p>              <span id="ctl00_ContentPlaceHolder_Label1">imaginecup.com Privacy Statement<br>                  (last updated: August 23, 2007)</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label3">Microsoft is committed to protecting your                  privacy. This privacy statement explains data collection and use practices of the                  imaginecup.com site (the "Site") hosted for Microsoft by Fast Track; it does not                  apply to other online or offline Microsoft sites, products or services. By accessing                  the Site, you are consenting to the information collection and use practices described                  in this privacy statement.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label4" style="font-weight: bold">Collecting Your                  Personal Information</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label5">We will ask you when we need information                  that personally identifies you (personal information) or allows us to contact you                  to provide a service or carry out a transaction that you have requested such as                  requesting information about Microsoft products and services, entering a contest,                  ordering e-mail newsletters, joining a limited-access premium site, signing up for                  an event or training, or when purchasing and/or registering Microsoft products.                  The personal information we collect may include your name, home address, country,                  school name, e-mail address, or phone number.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label6">The Site may collect certain information                  about your visit, such as the name of the Internet service provider and the Internet                  Protocol (IP) address through which you access the Internet; the date and time you                  access the Site; the pages that you access while at the Site and the Internet address                  of the Web site from which you linked directly to our site. This information is                  used to help improve the Site, analyze trends, and administer the Site.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label7">You can choose to create an optional public                  profile, containing information about yourself - such as your hobbies and interests.                  Any information you choose to enter in your public profile will be visible to other                  users of the Site; and when you interact with other users a link to your public                  profile may be displayed. We urge you to be careful only to enter information on                  your public profile that you are comfortable sharing with the public at large. You                  may change, edit or delete information about yourself from your public profile at                  any time while online by going to your profile after signing in.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label9">Please keep in mind that if you disclose                  personal information through public online forums on the Site, this information                  may be collected and used by others. We caution you against giving out personal                  information to strangers online, which they may use for illegal or harmful purposes.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label10" style="font-weight: bold">Use of Your Personal                  Information</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label11">The personal information collected on this                  Site will be used to operate the Site and to provide the service(s) or carry out                  the transaction(s) you have requested or authorized.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label12">In support of these uses, Microsoft may                  use personal information to provide you with more effective customer service, to                  improve the Site and any related Microsoft products or services, and to make the                  Site easier to use by eliminating the need for you to repeatedly enter the same                  information or by customizing the Site to your particular preference or interests.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label13">We may use your personal information to                  provide you with important information about the product or service that you are                  using, including critical updates and notifications. Additionally, with your permission,                  we may send you information about other Microsoft products and services, and/or                  share information with Microsoft partners so they may send you information about                  their products and services.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label14">Microsoft occasionally hires other companies                  to provide limited services on our behalf, such as Web site hosting, packaging,                  mailing and delivering prizes, answering customer questions about products and services,                  and sending information about our products, special offers, and other new services.                  We will only provide those companies the personal information they need to deliver                  the service. They are required to maintain the confidentiality of the information                  and are prohibited from using that information for any other purpose.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label15">Microsoft may disclose personal information                  if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Microsoft                  or the Site; (b) protect and defend the rights or property of Microsoft and our                  family of Web sites; or (c) act in urgent circumstances to protect the personal                  safety of Microsoft employees or agents, users of Microsoft products or services,                  or members of the public.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label16">Personal information collected on the Site                  may be stored and processed in the United States or any other                      country in which Microsoft                  or its affiliates, subsidiaries or agents maintain facilities, and by using the                  Site, you consent to any such transfer of information outside of your country. Microsoft                  abides by the safe harbor framework as set forth by the U.S. Department of Commerce                  regarding the collection, use, and retention of data from the European Union.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label17" style="font-weight: bold">Control of Your                  Personal Information</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label18">Except as otherwise described in this statement,                  personal information you provide on the Site will not be shared outside of Microsoft                  and its controlled subsidiaries and affiliates without your permission.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label19">Please be aware that this privacy statement                  and any choices you make on the Site will not necessarily apply to personal information                  you may have provided to Microsoft in the context of other, separately operated,                  Microsoft products or services.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label20" style="font-weight: bold">Access to Your                  Personal Information</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label21">Customer information is collected by Fast                  Track Team, Inc (“Fast Track”), a Microsoft vendor. It is stored on Fast Track’s                  servers [which are at a data center, not physically at fast track’s offices], plus                  sent back to Microsoft. You can review, edit or delete the personal information                  by going to your <a id="ctl00_ContentPlaceHolder_HyperLink_Profile2" href="/UpdateProfile.aspx" mce_href="../UpdateProfile.aspx">profile</a> after signing in on the Site. You                  can also access your personal information and edit any contact preferences provided                  at the Site by sending email to <a href="javascript:email(0);">                      <img align="absMiddle" border="0" mce_src="../App_Themes/Default/Images/Email/Support.bmp" src="/App_Themes/Default/Images/Email/Support.bmp"></a> or writing to:</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label22">Fast Track<br>                  1615 Sunset Ave SW<br>                  Seattle, WA 98116 USA</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label23" style="font-weight: bold">Security of Your                  Personal Information</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label24">Microsoft is committed to protecting the                  security of your personal information. We use a variety of security technologies                  and procedures to help protect your personal information from unauthorized access,                  use, or disclosure. For example, we store the personal information you provide on                  computer servers with limited access that are located in controlled facilities.                  Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such                  as the Secure Socket Layer (SSL) protocol.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label25" style="font-weight: bold">Cookies</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label26">We use cookies on this Site to ensure the                  integrity of the registration process and to personalize the Site. A cookie is a                  small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely                  assigned to you, and can only be read by a Web server in the domain that issued                  the cookie to you.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label27">One of the primary purposes of cookies is                  to provide a convenience feature to save you time. For example, if you personalize                  a web page, or navigate within a site, a cookie helps the site to recall your specific                  information on subsequent visits. This simplifies the process of delivering relevant                  content, eases site navigation, and so on. When you return to the web site, the                  information you previously provided can be retrieved, so you can easily use the                  site's features that you customized.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label28">You have the ability to accept or decline                  cookies. Most web browsers automatically accept cookies, but you can usually modify                  your browser setting to decline cookies if you prefer. If you choose to decline                  cookies, you may not be able to fully experience the interactive features of this                  or other web sites you visit.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label29" style="font-weight: bold">Changes to This                  Privacy Statement.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label30">We may occasionally update this privacy                  statement. When we do, we will also revise the "last updated" date at the top of                  the privacy statement. For material changes to this privacy statement, we will notify                  you either by placing a prominent notice on the home page of our web site or by                  directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal                  information we collect. Your continued use of the service constitutes your agreement                  to this privacy statement and any updates.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label31" style="font-weight: bold">Contact Information</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label33">Microsoft welcomes your                      comments regarding                  this privacy statement. If you believe that Microsoft has not adhered to this privacy                  statement, please contact us by email at <a href="javascript:email(0);">                      <img align="absMiddle" border="0" mce_src="../App_Themes/Default/Images/Email/Support.bmp" src="/App_Themes/Default/Images/Email/Support.bmp"></a> or via postal                  mail at the address provided below, and we will use commercially reasonable efforts                  to promptly determine and remedy the problem.</span></p>          <p>              <span id="ctl00_ContentPlaceHolder_Label34">Fast Track<br>                  1615 Sunset Ave SW<br>                  Seattle, WA 98116 USA</span></p></div>
                 </div>
-            </div>
-            <div id="ctl00_ctl00_page_footer" class="page_footer">
-                <div id="footerPad">
-                    <div id="ctl00_ctl00_footerPad_div" style="float: left; padding: 15px 0px 0px 0px;">
-                        <span style="padding-right: 58px;">
-                            <span id="ctl00_ctl00_LabelCopyright">© Copyright 2007-2008 Microsoft Corporation. All Rights Reserved.</span></span>
-                        <a id="ctl00_ctl00_HyperLink_TermsOfUse" href="/Legal/TermsOfUse.aspx">Terms of Use</a>
-                        |
-                        <a id="ctl00_ctl00_HyperLink_PrivacyStatement" href="/Legal/PrivacyStatement.aspx">Privacy Statement</a>
-                        |
-                        <a id="ctl00_ctl00_HyperLink_CodeOfConduct" href="/Legal/CodeOfConduct.aspx">Code of Conduct</a> &nbsp; 
-                        <span id="ctl00_ctl00_Label_Machinename" style="color:Black;">CARLA</span><br>
-                    </div>
-                    <div style="float: right;">
-                        <img id="ctl00_ctl00_Image1" src="/Images/home_microsoft_bug2.gif" align="absmiddle" style="border-width:0px;">
-                    </div>
-                </div>
-                
-            </div>
-            <div style="float: left; padding: 5px 0px 0px 45px; font-size: 7pt; color: #999999;
-                clear: left; font-weight: normal">
-                <div style="float: left">
-                    <span style="color: #1c1c1c;">
-                        <span id="ctl00_ctl00_Label3">Site design by
-                            Mondo Robot.
-                        </span>&nbsp;&nbsp;&nbsp;
-                        <span id="ctl00_ctl00_Label4">Site hosted for Microsoft by
-                            Fast Track Team Inc.
-                        </span><br>
-                        <br>
-                    </span>
-                </div>
-            </div>
-        </div>
-    
+            </td>
+            <td id="compBodyRight">
+                <div id="compBodyRightPad">
+                    <div id="ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolderCMS_R3_div_RelatedLinks" editable="Yes">
+
+
 <div>
+<h3><span id="ctl00_ContentPlaceHolder_Label8">Related Links</span></h3></div>
+<p><a class="" href="/Competition/Rules-Regulations.aspx" mce_href="/Competition/Rules-Regulations.aspx">Rules and Regulations</a><br><a class="" href="/Legal/CodeofConduct.aspx" mce_href="/Legal/CodeofConduct.aspx">Code of Conduct</a><br><a class="" href="/Legal/TermsofUse.aspx" mce_href="/Legal/TermsofUse.aspx">Terms of Use</a></p>
+<p mce_keep="true">&nbsp;</p>
+<h3><span id="ctl00_ContentPlaceHolder_Label8">Registration Is Open</span></h3>
+<div></div><br><a class="" href="/Registration/default.aspx" mce_href="/Registration/default.aspx">Register Now!</a><br><a class="" href="/competition/overview.aspx" mce_href="/competition/overview.aspx">Competition Overview</a><br><br>
+<div></div>
+<div></div>
+<div></div>
+<div></div></div>
+                </div>
+            </td>
+        </tr>
+    </tbody></table>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFgLf0I+6DgKYh6jqAQKhjNWAAgLbs6bfDwLt4ICzDwLR7eDPDgLC76gsAsLv3IQHAqjszKIMAvbgpKEGAt3gwMMOAozm3PcMAvTmvP4MAqzh5OcCAp//wuoJAsTjqNYIAsPviMcEAq/hyMYNArTt6OoIArDnqLYGAp3jtIAMArrjuNsHVd1YOl/sT/pF4vX/IAsyLRTi6ME=">
-</div></form>
+    <div class="compSpacer"><!--IE6--></div>
+
+            </div>
+            <div id="msLogo">
+                <img id="ctl00_ctl00_Image_MSLogo" alt="Microsoft" src="../App_Themes/Default/Images/IC09_MSLogo.gif" border="0"></div>
+            <div class="signInStrip">
+                <div class="signInStripLeft">
+                    <div class="signInStripLeftPad">
+                        © Copyright 2008-2009 Microsoft Corporation. All Rights Reserved.
+                    </div>
+                </div>
+                <div class="signInStripRight">
+                    <div class="signInStripRightPad">
+                  <span id="ctl00_ctl00_Label_Machinename"><font color="#333333">CARLA</font></span>
+                    
+                        <a href="../Competition/Rules-Regulations.aspx" class="signInStrip">Rules and Regulations</a>&nbsp;&nbsp;<a href="CodeOfConduct.aspx" class="signInStrip">Code of Conduct</a>&nbsp;&nbsp;<a href="TermsOfUse.aspx" class="signInStrip">Terms of Use</a>&nbsp;&nbsp;<a href="PrivacyStatement.aspx" class="signInStrip">Privacy Policy</a>&nbsp;&nbsp;<a href="../Support/ContactUs.aspx" class="signInStrip">Get Help</a>
+                    </div>
+                </div>
+            </div>
+        </div>        
+        <div>
+	
+            <div id="ctl00_ctl00_UpdatePanel_Login">
+		
+                    <div id="ctl00_ctl00_divLogin" style="display: none; background-color: transparent;
+                        position: absolute; width: 100%; top: 0px; left: 0px; z-index: 1; background-image: url('IC09_Background_Login_Invisible.png');
+                        height: 884px;">
+                        <div id="ctl00_ctl00_childDivLogin" style="position: absolute; z-index: 1; background-color: White;
+                            top: 14.5%; left: 2.2%; height: 250px; width: 450px; border-bottom-style: solid;
+                            border-bottom-width: thin; border-bottom-color: #666666; border-right-style: solid;
+                            border-right-width: thin; border-right-color: #666666">
+                            <table style="width: 450px; background-color: #e30079">
+                                <tbody><tr>
+                                    <td align="right" style="background-color: #e30079">
+                                        <a onclick="HidePopUp('ctl00_ctl00_divLogin'); return false;" id="ctl00_ctl00_closeLink" onmouseover="this.style.cursor='pointer'" href="javascript:__doPostBack('ctl00$ctl00$closeLink','')" style="color: White; font-weight: bold">CLOSE</a>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                            <table>
+                                <tbody><tr>
+                                    <td colspan="2" class="highTopPad">
+                                        
+                                        <h3>
+                                            &nbsp;&nbsp;Sign In</h3>
+                                        
+                                    </td>
+                                    <td>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">
+                                        <table>
+                                            <tbody><tr>
+                                                <td colspan="2" style="font-size: 8pt; font-weight: bold;">
+                                                    <b>&nbsp;&nbsp;Please sign in below using your Imagine Cup sign in information. &nbsp;&nbsp;Windows
+                                                        Live ID users,<span id="ctl00_ctl00_span_Content2" editable="Yes"> </span><a id="HyperLink_LogIn_LiveID" href="http://login.live.com/wlogin.srf?appid=0016BFFD80003222&amp;alg=wsignin1.0">
+                                                            <img src="/App_Themes/Default/Images/Buttons/signin.gif" alt="Sign In" width="66" style="vertical-align: middle" height="19"></a> <span id="ctl00_ctl00_span_Content3" editable="Yes"></span>with your Live ID.</b>
+                                                </td>
+                                                <td>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <table>
+                                            <tbody><tr>
+                                                <td>
+                                                </td>
+                                                <td>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="left" style="font-size: 8pt; font-weight: bold; text-indent: 10px;">
+                                                    <span id="ctl00_ctl00_EmailLabel">E-mail Address</span>
+                                                </td>
+                                                <td>
+                                                    <input name="ctl00$ctl00$EmailTextBox" type="text" id="ctl00_ctl00_EmailTextBox">
+                                                    
+                                                    
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="left" style="font-size: 8pt; font-weight: bold; text-indent: 10px;">
+                                                    <span id="ctl00_ctl00_PasswordLabel">Password</span>
+                                                </td>
+                                                <td>
+                                                    <input name="ctl00$ctl00$PasswordTextBox" type="password" id="ctl00_ctl00_PasswordTextBox">
+                                                    
+                                                </td>
+                                            </tr>
+                                            
+                                            <tr>
+                                                <td align="left" style="font-size: 8pt; font-weight: bold; text-indent: 10px;">
+                                                    <input id="ctl00_ctl00_RememberMeCheckBox" type="checkbox" name="ctl00$ctl00$RememberMeCheckBox"><label for="ctl00_ctl00_RememberMeCheckBox">Remember Me</label>
+                                                </td>
+                                                <td style="font-size: 8pt; font-weight: bold;" align="left">
+                                                    <span id="ctl00_ctl00_ErrorLabel_divSignin" style="background-color: Red; color: White;"></span>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                </td>
+                                                <td align="right" style="vertical-align: top; text-indent: 10px;">
+                                                    <input type="submit" name="ctl00$ctl00$SignInButton" value="Sign In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$SignInButton&quot;, &quot;&quot;, true, &quot;divSignin&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_SignInButton">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="left" style="width: 40%; font-size: 8pt; font-weight: bold; text-indent: 10px;">
+                                                    <b>[</b><b><a href="../PasswordRecovery.aspx" id="ctl00_ctl00_ForgotPasswordLink" style="color: #e30079">I Forgot My Password</a></b><b>]</b>
+                                                </td>
+                                                <td align="right" style="width: 60%; font-size: 8pt; font-weight: bold; text-indent: 10px;">
+                                                    <b>[</b><b><a href="../Registration/ConfirmationMail.aspx" id="ctl00_ctl00_RegConfirmLink" style="color: #e30079">I Need To Confirm My Registration</a></b><b>]</b>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+                    </div>
+                
+	</div>
+        
+</div>
+    </div>
+    
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWIAKh3NCoCQKYh6jqAQKhjNWAAgLbs6bfDwL+o4L6DgLt4ICzDwKR7cD7AQKN7YS9BgLR7eDPDgLC76gsAsLv3IQHAqjszKIMAvbgpKEGAt3gwMMOAv3g0KUGAvTmvP4MAvL1naoNAqzh5OcCAp//wuoJAsTjqNYIAvLh9JULAsPviMcEAq/hyMYNArTt6OoIArDnqLYGAp3jtIAMArrjuNsHAvq7uf0HAvyUtLUHAseT6+IJAvzMxZAPAvjJ8bEHULl1VmAyUj3xs6wUMc48buw8xRE=">
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
     
     <form name="form_ITQuiz" method="post" action="">
     <input name="ctl00$ctl00$hidden_UserId" type="hidden" id="ctl00_ctl00_hidden_UserId">
     <input name="ctl00$ctl00$hidden_TimeStamp" type="hidden" id="ctl00_ctl00_hidden_TimeStamp">
-    <input name="ctl00$ctl00$hidden_ReturnUrl" type="hidden" id="ctl00_ctl00_hidden_ReturnUrl">    
+    <input name="ctl00$ctl00$hidden_ReturnUrl" type="hidden" id="ctl00_ctl00_hidden_ReturnUrl">
     </form>
-          
+    
 
 
 </body></html>
