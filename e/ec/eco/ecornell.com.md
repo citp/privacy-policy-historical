@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecornell.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509142057id_/http%3A//ecornell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecornell.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075044id_/http%3A//www.ecornell.com/privacy) for the most accurate reproduction.*
 
 # eCornell: Privacy Policy
 
@@ -22,14 +22,10 @@ We do not sell, trade, or rent your personal information to others. We share you
 **When you log in or use your credit card with us, we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the data we collect is protected against unauthorized access. As effective as encryption technology is, however, no security system is completely impenetrable, so we cannot guarantee the absolute security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the lnternet.  
 
 
-**Your Rights Under the Family Education Rights and Privacy Act (FERPA)**  
-If you enroll in a program offered through eCornell, personally identifiable information you provide us, other than basic directory information, or that we or Cornell University create that pertains to you, may be protected from disclosure under the provisions of the federal Family Education Rights and Privacy Act (FERPA). You may also have specific rights with regard to accessing this information and correcting any errors. For further information respecting the applicability of FERPA and your rights under it, please contact us at [helpdesk@ecornell.com](mailto:helpdesk@ecornell.com).  
-
-
 **Your Consent**  
 By using this website, you consent to the collection and use of this information by eCornell and by Cornell University for the purpose of your enrollment in programs offered through eCornell. If we decide to change our privacy policy, we will post those changes on this page before the changes take effect. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later. If you have questions about this Privacy Policy, please contact us at [helpdesk@ecornell.com](mailto:helpdesk@ecornell.com). 
 
-This policy was last updated on October 14, 2004.
+This policy was last updated on August 29, 2008.
 
   
 
