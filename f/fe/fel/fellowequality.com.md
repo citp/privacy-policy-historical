@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fellowequality.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414162148id_/http%3A//www.fellowequality.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fellowequality.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090423id_/http%3A//fellowequality.com/pages/privacy.php) for the most accurate reproduction.*
 
 # FellowEquality.com
 
