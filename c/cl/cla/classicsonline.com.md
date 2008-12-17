@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicsonline.com privacy policy that was archived on 2008-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080119134500id_/http%3A//www.classicsonline.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicsonline.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217170025id_/http%3A//www.classicsonline.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Classicsonline Privacy Policy
 
