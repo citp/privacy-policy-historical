@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the laptoplogic.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604042649id_/http%3A//www.laptoplogic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptoplogic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105807id_/http%3A//www.laptoplogic.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LaptopLogic.com
 
-_Last Updated on January 18, 2005_
+Last Updated on January 18, 2008 
 
-At Laptop Logic™ LLC, LaptopLogic.com, we are committed in protecting your privacy. The following privacy statement discloses the types of information we gather and how we use it. 
+At LaptopLogic.com, we are committed in protecting your privacy. The following privacy statement discloses the types of information we gather and how we use it. 
 
 **Collecting your Information**  
 Our intention in collecting personal information is to provide you with more interesting and more specialized content and services. We collect personally identifiable information only when you provide it to us, such as when you elect to register in our forum, when you participate in a survey or contest or when you submit comments or a user review. The personally identifiable information is limited to: 
@@ -31,7 +31,7 @@ Your Internet browser has a feature called “cookies” which stores small amou
 
 To ensure we are publishing content readers’ need and want, we may elect to collect aggregated site-visitation statistics using cookies. Cookies are collected for a variety of reasons, including: determining which features our overall population prefers the most; to ensure only one unique user review is submitted per article (This ensures the accuracy that only one individual submits a legitimate user review); Cookies are also collected in the message forum so users can conveniently login without having to re-enter their login information; and to display the most appropriate advertising based on your interests and to keep count on return visits to our site. 
 
-If you have questions regarding this statement, you should contact [info@laptoplogic.com](mailto:info@laptoplogic.com)
+If you have questions regarding this statement, you should contact [us here](https://web.archive.org/about/contact/)
 
  **Use of IP address  
 ** IP addresses are only recorded to help administer our web site and to determine which content is most preferred by our readers. IP addresses are not matched with any personally identifiable information unless you have specifically given us personally identifiable information. 
@@ -54,6 +54,3 @@ LaptopLogic.com may contain links to other Web sites. LaptopLogic.com is not res
 
 **Security of your Personal Information**   
 LaptopLogic.com will use its best efforts to protect the security of your personal information and honor your choices for its intended use. Your personal information is never shared outside the company without your permission, except under conditions explained above. 
-
-**Contact Information**   
-We welcome your comments regarding this Statement of Privacy, please contact us at [info@laptoplogic.com](mailto:info@laptoplogic.com)  
