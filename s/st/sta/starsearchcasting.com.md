@@ -1,7 +1,16 @@
-> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618161412id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217032711id_/http%3A//starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Modeling Auditions, Singing Auditions, audition, pre teen model, pre model pictures, entertainment job, top model, model search
+# Disney Auditions, American Idol Auditions, Acting Casting Calls, Model Casting Calls
 
+|  |  [Member Success Stories](https://web.archive.org/testimonials.php) |   
+---|---|---  
+|  |   
+|  |   
+|  [Entertainment News](http://starsearchcasting.com/forums/index.php?showforum=8) [](https://web.archive.org/forums/index.php?act=rssout&id=1) |   
+---|---|---  
+|  |   
+|  |   
+  
 ## Our Commitment To Privacy
 
 **Effective January 1, 2008:**
