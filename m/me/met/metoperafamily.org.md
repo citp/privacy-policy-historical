@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metoperafamily.org privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512021707id_/http%3A//www.metoperafamily.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metoperafamily.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065152id_/http%3A//www.metoperafamily.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ We may release information if we are required to do so by law or in the good fai
 
 If you communicate with us by letter, e-mail, phone or in person, it is possible that information about the communication may be collected into a file specific to you.
 
-To alter your e-mail preferences, please complete our [_E-Mail Choices_](http://localhost/metopera/utility/contact/email.aspx) form and we will record and respect your instructions.
+To alter your e-mail preferences, please complete our [_E-Mail Choices_](http://www.metoperafamily.org/metopera/utility/contact/email.aspx "E-Mail Choices") form and we will record and respect your instructions.
 
 **Disclaimers**
 
@@ -45,7 +45,7 @@ Further, although we believe that our security procedures are appropriate to pro
 
 **Jurisdiction and Venue**
 
-All users, including those who access the web sites from a country other than the U.S., agree by virtue of their use that the laws of the State of New York shall govern any disputes, including any arising from or in connection with use of the sites and any arising from the Met’s or The Guild’s use of personal information or otherwise relating to privacy and that any claim made against the Met or The Guild can be brought only in a federal or state court in New York County, New York, all as specified in our [_Terms and Conditions_](http://localhost/metopera/utility/terms_conditions.aspx).
+All users, including those who access the web sites from a country other than the U.S., agree by virtue of their use that the laws of the State of New York shall govern any disputes, including any arising from or in connection with use of the sites and any arising from the Met’s or The Guild’s use of personal information or otherwise relating to privacy and that any claim made against the Met or The Guild can be brought only in a federal or state court in New York County, New York, all as specified in our [_Terms and Conditions_](http://www.metoperafamily.org/metopera/utility/terms_conditions.aspx "Terms and Conditions").
 
 **Contact Information**
 
