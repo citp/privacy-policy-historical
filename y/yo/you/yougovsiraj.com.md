@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yougovsiraj.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620094019id_/http%3A//www.yougovsiraj.com/Content/Content.aspx%3FCID%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougovsiraj.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217190533id_/http%3A//www.yougovsiraj.com/Content/Content.aspx%3FCID%3D2) for the most accurate reproduction.*
 
 # YouGovSiraj - English
 
 Privacy Policy
 
-In this YouGov Privacy Policy any defined terms will have the same meanings given to them in the YouGov [Terms and Conditions of Use](https://web.archive.org/web/20080620094019id_/http%3A//www.yougovsiraj.com/Content/content.aspx?CID=4).
+In this YouGov Privacy Policy any defined terms will have the same meanings given to them in the YouGov [Terms and Conditions of Use](https://web.archive.org/web/20081217190533id_/http%3A//www.yougovsiraj.com/Content/content.aspx?CID=4).
 
 It is YouGov's policy to respect the privacy of its Members. 
 
