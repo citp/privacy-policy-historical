@@ -1,56 +1,61 @@
-> *The following text is extracted and transformed from the imvu.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620081527id_/http%3A//www.imvu.com/catalog/web_info.php%3Fsection%3DInfo%26topic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imvu.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033736id_/http%3A//www.imvu.com/catalog/web_info.php%3Fsection%3DInfo%26topic%3Dprivacy) for the most accurate reproduction.*
 
 # IMVU Information
 
-**IMVU, Inc. Privacy Policy**
+## IMVU, Inc. Privacy Policy
 
-Thank you for visiting IMVU, Inc.’s ("IMVU, Inc.") Internet web site ("Site") located at the URL www.imvu.com. This Privacy Policy details certain policies implemented throughout IMVU, Inc. governing IMVU, Inc.'s use of personally identifiable information about users of our Site and users of our services on this Site. 
+Thank you for visiting IMVU, Inc.’s ("IMVU") Internet web site ("Site") located at [www.imvu.com](http://www.imvu.com/). IMVU respects the privacy of our visitors, customers, and partners; this Privacy Policy (the “Policy”) is meant to outline:
 
-**Privacy Policy Updates**
+  * Policy Updates and communication of updates
+  * What personally identifiable information (“PII”) is collected
+  * How your PII is retained, secured, and used
+  * Disclosure of your PII
+  * IMVU’s policy concerning children
+  * Security of your PII
+  * Methods by which you can update/correct/remove your PII from our Site
 
-Due to the Internet's rapidly evolving nature, IMVU, Inc. may need to update this Privacy Policy from time to time. If so, IMVU, Inc. will post its updated Privacy Policy on our Site located at [http://www.imvu.com/catalog/web_info.php?section=Info&topic=privacy](http://www.imvu.com/catalog/web_info.php?section=Info&topic=privacy) so you are always aware of what personally identifiable information we may collect and how we may use this information. IMVU, Inc. encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy. 
 
-**Information Collection and Use**
 
-You can generally visit our Site without revealing any personally identifiable information about yourself. However, in certain sections of this Site we may invite you to participate in surveys, questionnaires or contests, contact us with questions or comments or request information, provide us with feedback, participate in chat or message boards, or complete a profile or registration form. Due to the nature of some of these activities, we may collect personally identifiable information such as your name, address, email address, phone number, age or date of birth, username, password, gender, credit card number, and other contact information that you voluntarily transmit with your communication to us. Additionally, we may collect personally identifiable information about you that you provide to us when you contact us or that you voluntarily post in our world, blogs, chat rooms, forums, message boards available from our Site and other users will be able to see any information that you post to such forums. 
+### Privacy Policy Updates
 
-We may use your personally identifiable information to register you to use our services, contact you to deliver certain services or information you have requested, verify your authority to enter our Site, improve the content and general administration of the Site and our services, provide you with notices regarding goods or services that you have purchased or may wish to purchase in the future and for targeted marketing purposes. 
+Due to the Internet's rapidly evolving nature, IMVU, Inc. may need to update this Privacy Policy from time to time. If so, IMVU, Inc. will post its updated Privacy Policy on our Site located at [http://www.imvu.com/catalog/web_info.php?section=Info&topic=privacy](http://www.imvu.com/catalog/web_info.php?section=Info&topic=privacy) so you are always aware of any changes to this policy that may occur. IMVU, Inc. encourages you to review this Privacy Policy regularly for any changes, and acknowledges that your continued use of this Site, our product(s), and/or continued delivery of PII to us will be subject to the terms of the then-current Privacy Policy.
 
-**Children's Privacy**
+### Information Collection and Use
 
-IMVU, Inc. recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. This Site is not intended for children under the age of 13. IMVU, Inc. does not target its services or this Site to children under 13. IMVU, Inc. does not knowingly collect personally identifiable information from children under the age of 13. 
+You can generally visit our Site without revealing any personally identifiable information about yourself. However, in certain sections of this Site we may invite you to participate in surveys, questionnaires or contests, provide us with feedback, participate in chat / message boards, complete a profile / registration form, contact us with questions, comments, or request information. Due to the nature of some of these activities, we may collect PII such as your name, address, email address, phone number, age or date of birth, username, password, gender, credit card number, and other contact information that you voluntarily transmit with your communication to us. IMVU may also collect PII that you provide to us when you contact us (via phone, email, chat, or other method of requesting assistance) or that you voluntarily post in our world, blogs, chat rooms, forums, and message boards available from our Site.
 
-**Notice to European Users**
+Additionally, IMVU may also collect non-PII such as statistics about machines running our software, so as to further understand and enhance the user experience, marketing, security, enforcement, and system integrity (prevention of hacks, unauthorized use, etc). IMVU may also use small text files (called “cookies”) stored in the user’s browser cache to improve and track the overall Site experience. This text file does not contain PII and can be removed from your browser – for more information please see your browsers “Help” section.
 
-The information you enter on this Site or otherwise provide to IMVU may be transferred outside of the European Union to the United States of America which does not offer an equivalent level of protection to that required in the European Union. In particular, you are advised that the United States of America uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. Article 26 of the European Union’s Data Protection Directive (Directive 95/46/EC, 1995 O.J. (L 281) 31) allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personal information, regardless of the third country's level of protection. By agreeing to the terms of use and this privacy policy, you consent to the transfer of all such information to the United States of America which may not offer an equivalent level of protection to that required in the European Union and to the processing of that information by IMVU on its servers located in the United States of America as described in this Privacy Policy. 
+## Retention, security, and use of your PII
 
-**Cookies**
+### How is your PII retained & secured?
 
-We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you. 
+We employ procedural and technological measures that are designed to help protect your PII from loss, unauthorized access, disclosure, alteration or destruction. IMVU may use firewalls, password protection, secure socket layer, database encryption, and other security measures to help prevent unauthorized access to your PII.
 
-**Aggregate Information**
+### How is your PII being used?
 
-The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, browser type, and IP addresses, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use. 
+We may use your PII to register you to use our services, contact you to deliver certain services or information you have requested, verify your authority to enter our Site, improve the content and general administration of the Site and our services, provide you with notices regarding goods or services that you have purchased or may wish to purchase in the future and for targeted marketing purposes.
 
-Additionally, we may collect aggregate information regarding your transactions on this Site, such as the virtual goods you create, sell and/or purchase, the virtual price for such virtual goods, the profit you make by selling such virtual goods (collectively, “Transactional Data”). We may link this aggregate Transactional Data with your personally identifiable information for internal analysis, to provide customer support and for other internal business purposes 
+The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, browser type, IP addresses, etc., and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain PII. We may also use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use.
 
-**Disclosure**
+Additionally, we may collect aggregate information regarding your transactions on this Site, such as the virtual goods you create, sell and/or purchase, the virtual price for such virtual goods, the profit you make by selling such virtual goods (collectively, “Transactional Data”). We may link this aggregate Transactional Data with your personally identifiable information for internal analysis, to provide customer support, and for other internal business purposes.
 
-We may provide your personally identifiable information and the data generated by cookies and the aggregate information to the vendors and service agencies that we may engage to assist us in providing our services to you. For example, we may provide your personally identifiable information to a credit card processing company to process your payment. We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your personally identifiable information to any company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which IMVU, Inc. participates or to a purchaser of all or substantially all of IMVU, Inc.'s assets to which this Site relates. 
+### Notice to European Users
 
-**Security**
+The information you enter on this Site or otherwise provide to IMVU may be transferred outside of the European Union to the United States of America which does not offer an equivalent level of protection to that required in the European Union. In particular, you are advised that the United States of America uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. Article 26 of the European Union’s Data Protection Directive (Directive 95/46/EC, 1995 O.J. (L 281) 31) allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personal information, regardless of the third country's level of protection. By agreeing to the terms of use and this privacy policy, you consent to the transfer of all such information to the United States of America which may not offer an equivalent level of protection to that required in the European Union and to the processing of that information by IMVU on its servers located in the United States of America as described in this Privacy Policy.
 
-We may employ procedural and technological measures that are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. IMVU, Inc. may use firewalls, password protection, secure socket layer, and other security measures to help prevent unauthorized access to your personally identifiable information. 
+### Correction/Updating Personally Identifiable Information
 
-**Correction/Updating Personally Identifiable Information**
+IMVU provides you with the ability to review, correct and delete the PII that you have provided to us in your account. If you wish to review or correct any information you have provided to us, you may access your account and review, correct, and/or delete your PII by logging into your account.
 
-IMVU provides you with the ability to review, correct and delete the personally identifiable information that you have provided to us in your account. If you wish to review or correct any information you have provided to us, you may access your account and review, correct and delete your personally identifiable information. 
+If you have any questions regarding this Privacy Policy please contact us via email at [privacy@imvu.com](mailto:privacy@imvu.com).
 
-If you have any questions regarding this Privacy Policy please contact us via email at nino@imvu.com. 
+### Disclosure
 
-This Privacy Policy was last updated: October 22, 2007 
+We may provide your PII and the data generated by cookies and the aggregate information to the vendors and service agencies that we may engage to assist us in providing our services to you. For example, we may provide your PII to a credit card processing company to process your payment. We will also disclose your PII if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your PII to any company or organization except we may transfer your PII to a successor entity upon a merger, consolidation or other corporate reorganization in which IMVU participates or to a purchaser of all or substantially all of IMVU's assets to which this Site relates.
 
-This Privacy Policy is effective as of: October 22, 2007 
+## IMVU & Children
 
-  
+### Children's Privacy
 
+IMVU recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. This Site is not intended for children under the age of 13. IMVU does not target its services or this Site to children under 13. IMVUdoes not knowingly collect personally identifiable information from children under the age of 13. IMVU adheres to the Children's Online Privacy Protection Act and all other applicable laws involving children and the internet.
