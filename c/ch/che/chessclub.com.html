@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chessclub.com privacy policy that was archived on 2008-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080510152937id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chessclub.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217161849id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta name="description" content="The Internet Chess Club, where beginners to grandmasters play online. Serious chess. Serious fun!">
@@ -27,14 +27,14 @@ location.reload();		// only check part of string due to problems with foreign ch
 			setNormalCookie("ICCLANG", ".de");
 			window.location.href = "/";		} else if (document.headerform.LANGUAGE.options[i].text.substring(0,4) == "Fran") { // Français
 			setNormalCookie("ICCLANG", ".fr");
+			window.location.href = "/";		} else if (document.headerform.LANGUAGE.options[i].text == "Italiano") {
+			setNormalCookie("ICCLANG", ".it");
 			window.location.href = "/";		} else if (document.headerform.LANGUAGE.options[i].text.substring(0,7) == "Portugu") { // Português
 			setNormalCookie("ICCLANG", ".pt");
 			window.location.href = "/";/*
-		} else if (document.headerform.LANGUAGE.options[i].text == "Italiano") {
-			setNormalCookie("ICCLANG", ".it");
-			window.location.href = "/";*/
 		} else if (document.headerform.LANGUAGE.options[i].text == "Svenska") {
-			window.location.href = "/swedish/";		
+			window.location.href = "/swedish/";
+*/
 		}
 	}
 }
@@ -44,8 +44,8 @@ function doquicklinks() {
 	if (i >= 0) {
 		if (document.headerform.QUICKLINKS.options[i].text == "Buy or extend a Membership")
 			window.location.href = "/tryicc/purchase.html";
-		else if (document.headerform.QUICKLINKS.options[i].text == "Dos Hermanas 2008")
-			window.location.href = "/activities/doshermanas2008/";
+		else if (document.headerform.QUICKLINKS.options[i].text == "Chess960 Qualifiers")
+			window.location.href = "/activities/chess960_2008/";
 		else if (document.headerform.QUICKLINKS.options[i].text == "ChessFM Videos")
 			window.location.href = "/chessfm/";			
 		else if (document.headerform.QUICKLINKS.options[i].text == "ICC News Items")
@@ -165,7 +165,7 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
 </tr>
 
 <tr bgcolor="#DDE2F6">
-   <td height="61" width="520" valign="top" bgcolor="#DDE2F6" align="left"><a href="/" style="cursor: default"><img src="/images//HeaderMidLeft.jpg" width="520" height="61" border="0" alt=""></a></td>
+   <td height="61" width="520" valign="top" bgcolor="#DDE2F6" align="left"><a href="/" style="cursor: default"><img src="/images/HeaderMidLeft.jpg" width="520" height="61" border="0" alt=""></a></td>
 
    <td width="100%" align="left" valign="top" bgcolor="#DDE2F6">
       <form name="headerform" class="topbar" action="#">
@@ -179,9 +179,9 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
                   <option selected="">English</option>
                   <option>Español</option> <!-- Espa&ntilde;ol -->
                   <option>Français</option> <!-- Fran&ccedil;ais -->
+                  <option>Italiano</option>
                   <option>Português</option> <!-- Portugu&ecirc;s -->
-                  <!-- <option  >Italiano</option> -->
-                  <option>Svenska</option>
+                  <!-- <option>Svenska</option> -->
               </select>
               </p>
           </td>
@@ -191,7 +191,6 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
             <select name="QUICKLINKS" onchange="doquicklinks();" class="input" size="1">
                <option>QUICK LINKS</option>
                <option>Buy or extend a Membership</option>
-               <option>Dos Hermanas 2008</option>			   
                <option>ChessFM Videos</option>			   
                <option>ICC News Items</option>
                <option>ICC Weekly Newsletters</option>
@@ -242,7 +241,7 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
 <table width="130" border="0" style="table-layout: fixed;">
   <tbody><tr> 
     <td> 
-<table class="navbg" width="100%" border="0" cellpadding="0"><tbody><tr class="navheadinglink" onmouseover="this.className='navheadinglinkover'" onmouseout="this.className='navheadinglink'" onclick="location.href='/helpcenter/lookup/'"><td><center><b class="navheading">HELP FILES</b></center></td></tr><tr height="10"><td>&nbsp;<a href="/help/help-list" class="nav">ICC Commands</a></td></tr><tr height="10"><td>&nbsp;<a href="/help/info-list" class="nav">ICC Information</a></td></tr></tbody></table><table width="100%" border="0"><tbody><tr><td valign="middle"><a href="/helpcenter/"><img src="/images/arrowtop.gif" alt="up" border="0"> HELP Top</a></td></tr></tbody></table><font size="1"><br><i>"The Internet Chess Club has dramatically modified the way chess will be played for all time."<br>—&nbsp;Chess Life, official magazine of the United States Chess Federation
+<table class="navbg" width="100%" border="0" cellpadding="0"><tbody><tr class="navheadinglink" onmouseover="this.className='navheadinglinkover'" onmouseout="this.className='navheadinglink'" onclick="location.href='/helpcenter/lookup/'"><td><center><b class="navheading">HELP FILES</b></center></td></tr><tr height="10"><td>&nbsp;<a href="/help/help-list" class="nav">ICC Commands</a></td></tr><tr height="10"><td>&nbsp;<a href="/help/info-list" class="nav">ICC Information</a></td></tr></tbody></table><table width="100%" border="0"><tbody><tr><td valign="middle"><a href="/helpcenter/"><img src="/images/arrowtop.gif" alt="up" border="0"> HELP Top</a></td></tr></tbody></table><font size="1"><br><i>The ICC created the rating system that is the standard for online competition. Accurate game clocks adjust for internet lag time.
 </i></font><br><br><a href="/tryicc/register/">Get a seven day FREE trial of ICC!</a>    </td>
   </tr>
 </tbody></table>
