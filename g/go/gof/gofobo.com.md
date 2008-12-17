@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611082600id_/http%3A//www.gofobo.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217130915id_/http%3A//www.gofobo.com/privacy_policy) for the most accurate reproduction.*
 
 # Gofobo: gofobo Privacy Policy
 
@@ -53,7 +53,7 @@ We recommend that you do not divulge your password to anyone. Please remember to
 Gofobo may occasionally update the Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use or share your personal information, we will notify you by sending you an e-mail to the e-mail address you most recently provided to us and/or by prominently posting notice of the changes on our Web site. 
 
 * **Canceling Membership.**  
-You have the ability to cancel your membership at any time. If you no longer wish to participate with gofobo, please sign in to the site and click on the "My Account" at the top of the page, then select "Cancel Membership" and follow the simple instructions.
+You have the ability to cancel your membership at any time. If you no longer wish to participate with gofobo, please click on the "contact gofobo" at the bottom of the page, then fill out the contact form with your information and in the message request your membership be canceled.
 
 * **Contact.**  
 If you have any questions about this privacy statement, the practices of this Web site or your dealings with this Web site, please send your comments to us by using the "Contact Us" link at the bottom of every page.
