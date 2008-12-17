@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nraila.org privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514214228id_/http%3A//www.nraila.org/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nraila.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090812id_/http%3A//www.nraila.org/About/Privacy.aspx) for the most accurate reproduction.*
 
-# NRA-ILA :: Privacy & Security Policy
+# NRA-ILA ::
 
 To protect your privacy, The NRA Institute For Legislative Action (NRA-ILA) adheres to the following privacy and data protection principles: 
 
