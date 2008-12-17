@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612101955id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217010537id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronic Frontier Foundation
 
@@ -38,7 +38,7 @@ We look at technical information to diagnose problems with our server and to adm
 
 ## About EFF's Search Function
 
-EFF uses Google for search functionality on [www.eff.org](http://www.eff.org/ "www.eff.org"). To protect your privacy, EFF proxies search requests to Google with a special CGI script on our server, thus hiding your IP address and your Google cookie (if any) from Google's servers. 
+EFF uses [Yahoo! Search API](http://developer.yahoo.com/search/) for search functionality on [www.eff.org](http://www.eff.org/ "www.eff.org"). All searches are carried out by EFF's servers, protecting your privacy; no information from your browser (including your IP address or any cookies) is transmitted to Yahoo! or any third party. EFF's own use and protection of your search information is described elsewhere in this document. 
 
 ## Third-Party Service Providers
 
