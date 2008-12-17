@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliateguide.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630013117id_/http%3A//www.affiliateguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateguide.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152158id_/http%3A//www.affiliateguide.com/privacy.html) for the most accurate reproduction.*
 
 # Affiliate Programs - Privacy Policy
 
@@ -43,7 +43,7 @@ Mainz Pty Ltd
 209 Shaftesbury Ave  
 Bedford, WA, 6052, Australia  
 Telephone 61 8 9275 6246 
-Please use our [contact form](https://web.archive.org/web/20080630013117id_/http%3A//www.affiliateguide.com/contactform.html) for any questions. 
+Please use our [contact form](https://web.archive.org/web/20081217152158id_/http%3A//www.affiliateguide.com/contactform.html) for any questions. 
 
 **3rd party cookies**  
 Various advertisers or affiliate merchants on this site may use cookies. Typically it is clickstream data so that merchants may ascertain statistical and referral information. However, we do not know specifically what, if any information they may collect. This is beyond our control and we do not accept any liability regarding 3rd party cookies. We suggest that you refer to their respective privacy policies. 
