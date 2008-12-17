@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickarticlepro.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612032558id_/http%3A//www.quickarticlepro.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickarticlepro.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113333id_/http%3A//www.quickarticlepro.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Article Writing Software- Article Builder to write Informative Articles
 
@@ -27,4 +27,6 @@ If you have any questions about this privacy statement, the practices of our sit
 
 E-mail: [support@quickarticlepro.com](mailto:support@quickarticlepro.com)  
   
-Microsoft and the Office logo are trademarks or registered trademarks of Microsoft Corporation in the United States and/or other countries.
+|  |  |    
+---|---|---  
+Copyright 2008 Quick Article Softwares. All rights reserved 
