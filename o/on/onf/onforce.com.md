@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609200110id_/http%3A//www.onforce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041645id_/http%3A//www.onforce.com/privacy) for the most accurate reproduction.*
 
 # OnForce Privacy & Security Policies
+
+| 
+
+### Help
+
+  * [Overview](https://web.archive.org/page/help)
+  * [FAQs](https://web.archive.org/page/faqs)
+  * [Virtual Tour](https://web.archive.org/page/demo)
+  * [Training](https://web.archive.org/page/training)
+  * [Schedule a Demo](https://web.archive.org/page/schedule_demo)
+  * [Contact Us](https://web.archive.org/page/contact)
 
 | 
 
@@ -18,11 +29,11 @@ OnForce is not responsible for the privacy practices or the content of any other
 
   3. **Information We Gather During Registration**
 
-If you register to buy or sell services on the Platform, we collect and store information that specifically identifies you or your account ("Personally Identifiable Information"). This Personally Identifiable Information is limited to the information necessary to transact business on the Platform. At this time, the most information you would be required to submit is information about your computer skills, abilities to perform computer service work, your first name, last name, password, street address, city, state, zip/postal code, country, and email address. For tax purposes, Providers are also required to provide their Federal Tax ID (as applicable in the United States) and GST Number (as applicable in Canada). Buyers and Providers wishing to pay for various fees or service retainers via credit card are also required to enter a valid credit card number and name as it appears on the credit card. Other information requested on our registration page, including the ability to receive promotional offers from OnForce, is optional. We may, in the future, include other optional requests for information from you, to help us to tailor the Platform for you and deliver personalized information to you. We may supplement our information with additional information purchased from third parties for marketing purposes. Credit card information will be transmitted via SSL encryption for your protection. We shall retain your Personally Identifiable Information for a period of seven years from the date upon which it is collected/the date upon which you cease conducting transactions on the Platform. 
+If you register to buy or sell services on the Platform, we collect and store information that specifically identifies you or your account ("Personally Identifiable Information"). This Personally Identifiable Information is limited to the information necessary to transact business on the Platform. At this time, the most information you would be required to submit is information about your computer skills, abilities to perform computer service work, your first name, last name, password, street address, city, state, zip/postal code, country, and email address. For tax purposes, Professionals are also required to provide their Federal Tax ID (as applicable in the United States) and GST Number (as applicable in Canada). Buyers and Professionals wishing to pay for various fees or service retainers via credit card are also required to enter a valid credit card number and name as it appears on the credit card. Other information requested on our registration page, including the ability to receive promotional offers from OnForce, is optional. We may, in the future, include other optional requests for information from you, to help us to tailor the Platform for you and deliver personalized information to you. We may supplement our information with additional information purchased from third parties for marketing purposes. Credit card information will be transmitted via SSL encryption for your protection. We shall retain your Personally Identifiable Information for a period of seven years from the date upon which it is collected/the date upon which you cease conducting transactions on the Platform. 
 
   4. **Buyer Command Center, Work Order Management Platform & Online Office**
 
-These areas of the Platform are for the benefit of Users. The private and shared areas of the Platform help to facilitate communication and the exchange and sharing of information between Buyers and Providers once a work order has been created and accepted. The information contained in work orders is accessible by OnForce, the contracting Buyer and the contracting Provider. OnForce may use non-Personally Identifiable Information from a work order (e.g., the scope of work or spend limit) for statistical analysis, product development, marketing, and research. OnForce reserves the right to monitor communications throughout our Platform, and if we believe that a User is violating any of our agreements; international, federal or state laws; and/or our stated policies, we may terminate such usage. 
+These areas of the Platform are for the benefit of Users. The private and shared areas of the Platform help to facilitate communication and the exchange and sharing of information between Buyers and Professionals once a work order has been created and accepted. The information contained in work orders is accessible by OnForce, the contracting Buyer and the contracting Professional. OnForce may use non-Personally Identifiable Information from a work order (e.g., the scope of work or spend limit) for statistical analysis, product development, marketing, and research. OnForce reserves the right to monitor communications throughout our Platform, and if we believe that a User is violating any of our agreements; international, federal or state laws; and/or our stated policies, we may terminate such usage. 
 
   5. **Affiliates**
 
@@ -34,15 +45,15 @@ Occasionally OnForce conducts online user surveys to collect information about o
 
   7. **The OnForce Payment System**
 
-OnForce offers a payment system that allows Buyers and Providers to pay with a credit card (the "Payment System"). If you make use of the Payment System, OnForce will collect your credit card number and/or other entered financial institution information and will use that information to bill your membership fee and/or to perform the billing operation on behalf of the Provider, including but not limited to the use and disclosure of such credit card number and information to third parties as necessary to complete such billing operation. Verification of credit information, however, is accomplished solely by the User through the PIN authentication process. 
+OnForce offers a payment system that allows Buyers and Professionals to pay with a credit card (the "Payment System"). If you make use of the Payment System, OnForce will collect your credit card number and/or other entered financial institution information and will use that information to bill your membership fee and/or to perform the billing operation on behalf of the Professional, including but not limited to the use and disclosure of such credit card number and information to third parties as necessary to complete such billing operation. Verification of credit information, however, is accomplished solely by the User through the PIN authentication process. 
 
   8. **Automatically Gathered Information**
 
 OnForce automatically collects your browser type and browser software version to tailor the presentation of the services to your browser and to maintain a record of your activity on the Platform. OnForce uses cookies to enable Users to specify unique preferences and to track User trends and patterns. Users always have the option of disabling cookies via their browser preferences. If you disable cookies on your browser, please note that some parts of our Platform may not function as effectively or may be considerably slower. As an automatic process, our web server software records a log file of IP addresses that access the Platform. We also collect IP address information but do not ordinarily link IP addresses to Users' Personally Identifiable Information. However, we can and will use IP addresses to identify a User when we, in our sole discretion, determine that it is necessary to enforce compliance with our various policies or to protect our service, Platform, customers or others. 
 
-  9. **Provider Profile**
+  9. **Service Professional Profile**
 
-As part of registration, you may set up your Provider Command Center describing your computer experience, rates and qualifications. Some of the information requested in the Provider Command Center registration is mandatory. If you decide to offer your services through OnForce, potential Buyers will look to your Provider Command Center to help them decide whether to make use of your services. 
+As part of registration, you may set up your Professional Command Center describing your computer experience, rates and qualifications. Some of the information requested in the Professional Command Center registration is mandatory. If you decide to offer your services through OnForce, potential Buyers will look to your Professional Command Center to help them decide whether to make use of your services. 
 
   10. **How We Use Registration Information**
 
@@ -58,15 +69,15 @@ We may send you email communications including information that we may think may
 
   13. **Co-Branded Services**
 
-OnForce enters into co-branding relationships with third-party web sites and companies to provide products and services to our Users. OnForce may share your Personally Identifiable Information, including User ID and password, with certain co-branded third-party service or product Providers as required to provide a specific product or service that you request from a co-branded page or co-branded site. However, these third-party partners may not use this Personally Identifiable Information for any reason other than to provide the service or product that the user has explicitly signed up for. If you join OnForce through a co-branded site (e.g., on a co-branded registration page), it is OnForce's general policy not to share anything other than summarized or aggregated data with the partner; however, any Personally Identifiable Information you provide may also be received by the co-branded site and could be stored and used by the co-branded service or product provider according to their privacy policy. Please take the time to review these third-party privacy policies. 
+OnForce enters into co-branding relationships with third-party web sites and companies to provide products and services to our Users. OnForce may share your Personally Identifiable Information, including User ID and password, with certain co-branded third-party service or product Professionals as required to provide a specific product or service that you request from a co-branded page or co-branded site. However, these third-party partners may not use this Personally Identifiable Information for any reason other than to provide the service or product that the user has explicitly signed up for. If you join OnForce through a co-branded site (e.g., on a co-branded registration page), it is OnForce's general policy not to share anything other than summarized or aggregated data with the partner; however, any Personally Identifiable Information you provide may also be received by the co-branded site and could be stored and used by the co-branded service or product provider according to their privacy policy. Please take the time to review these third-party privacy policies. 
 
   14. **Third Party Intermediaries**
 
 We use an outside credit card processing company to bill Users for retainers and services. We believe these companies do not retain, share, store, or use Personally Identifiable Information for any secondary purposes. OnForce uses commercially reasonable efforts to restrict the third party vendors from using Personally Identifiable Information for purpose unrelated to the provision of services to OnForce. 
 
-  15. **Providers**
+  15. **Professionals**
 
-Work orders created on OnForce are completed by third-party Providers. We share the email addresses of Buyers and Providers once a project is awarded on our Platform to enable work on the project to be completed. These third party Providers are not allowed to use Personally Identifiable Information except for the purpose of providing these services. 
+Work orders created on OnForce are completed by third-party Professionals. We share the email addresses of Buyers and Professionals once a project is awarded on our Platform to enable work on the project to be completed. These third party Professionals are not allowed to use Personally Identifiable Information except for the purpose of providing these services. 
 
   16. **Comments Submitted by Users**
 
