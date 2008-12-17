@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myoats.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615064157id_/http%3A//www.myoats.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoats.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217235850id_/http%3A//www.myoats.com/privacy.aspx) for the most accurate reproduction.*
 
 # Myoats - Privacy
 
@@ -40,4 +40,6 @@ Our website may contain links to enable you to visit other websites of interest 
 
 Controlling your personal information
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [privacy@myoats.com](mailto:privacy@myoats.com) If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to privacy at myoats dot com. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+How can we be better? If you have any suggestions or questions, let us know at feedback at myoats dot com. 
