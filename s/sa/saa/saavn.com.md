@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the saavn.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212190115id_/http%3A//saavn.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saavn.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217234936id_/http%3A//www.saavn.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Saavn
+
+#### Privacy Policy
 
 Saavn is committed to protecting the privacy of Saavn users. Following is the Saavn privacy statement outlining our policies governing the collection and use of registered user information. If you have any questions regarding this policy, please contact Saavn at support@saavn.com. 
 
-**Information Collection & Use**
+##### Information Collection & Use
 
 Saavn requires users to register for the service and provide personal information including but not limited to the user's name, zip code and email address. Saavn uses this information to establish and deliver service to the individual. Saavn may use this information to contact registered users to notify them of product and service updates, provide instruction, and to deliver other service related information. Saavn may also contact users to request additional information and feedback. Saavn may employ companies and people to perform tasks on its behalf, and will need to share personal information with these agents to establish and deliver service to the individual. Saavn's agents do not receive any right to use personal information beyond what is necessary to perform these tasks. Saavn will not disclose registration information to third parties, including, but not limited to, companies affiliated with Saavn, without your consent or as otherwise stated in this privacy policy. If at some point Saavn sells all or a portion of its assets, customer information is one of those assets that would be transferred or acquired by a third party; the third party would then have the right to continue using the personal information as set forth in this policy. For more information see Saavn's Privacy Policy Changes section below. Saavn may release or exchange personal information if required to do so to comply with applicable law or to enforce its rights or agreements or prevent fraud or reduce credit risk. In addition, Saavn may contact you to inform you of updates or new features. If you wish to be removed from such secondary mailings you may do so by the means provided in the email. 
 
@@ -14,24 +16,24 @@ If a user elects to use Saavn's invite service for reaching a person via the Saa
 
 If a user's personally identifiable information changes (such as zip code or email), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done via the " Profile" page within the Front Desk or by emailing our customer support at support@saavn.com. 
 
-**Cookies & Beacons**
+##### Cookies & Beacons
 
 Saavn uses cookies and beacons to assist in delivering the service and to provide a positive and personalized user experience. Cookies are files sent to your browser from a web server and stored on your computer's hard drive. Our persistent and session ID Cookies are used to identify unique visitors and to provide a personalized user experience. Beacons are bits of code that function similar to cookies. Our beacons are embedded in outgoing emails and generate a call back to the Saavn server when such emails are opened. Saavn uses beacons to track the status of sent emails. 
 
-**Remember Me**
+##### Remember Me
 
 The Remember Me function permits Saavn to create a cookie that automatically remembers you when your username and password information when you enter and exit the www.saavn.com site. By clicking on "Remember Me", we save you the trouble of having to login everytime that you want to enter www.saavn.com. 
 
 To use the Remember Me function, your browser must accept cookies. If you reject all cookies, you will not be able to automatically sign in using the Remember Me function and must log-in manually every time that you enter the www.saavn.com Web site. 
 
-**Security**
+##### Security
 
 Saavn has implemented processes designed to protect user information and maintain security. Each registered user is assigned a unique user name and password which is required to access their account and relationship information. It is the user's responsibility to protect the security of their login information. Saavn's servers are located in secure server environments. Firewalls and other advanced security technologies are employed to prevent interference or access from outside intruders. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data. 
 
-**Third Party Sites**
+##### Third Party Sites
 
 Saavn's sites may contain links to third party web sites not associated with Saavn. Saavn is not responsible for the privacy practices or content of such sites. Users will need to review the policy statements of these sites to understand their privacy policies. 
 
-**Privacy Policy Changes**
+##### Privacy Policy Changes
 
 Saavn reserves the right to make changes to this privacy statement. Any material changes to this statement will be prominently posted online and accessible via the Saavn user portal 30 days prior to taking effect. 
