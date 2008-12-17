@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the russiandating.ru privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220193152id_/http%3A//www.russiandating.ru/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russiandating.ru privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052841id_/http%3A//www.russiandating.ru/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Statement for Russiandating.ru
 
 This statement discloses the information gathering process and the privacy and dissemination practices for the Russiandating.ru Web site. Russiandating.ru has created this privacy statement in order to demonstrate our firm commitment to protect your personal privacy. 
 
-If you have questions or concerns regarding this statement, you should first contact Privacy Manager at [Abuse service](https://web.archive.org/contactus/?id=2).
+If you have questions or concerns regarding this statement, you should first contact Privacy Manager at [Abuse service](http://www.support.vedv.com/).
 
 Russiandating.ru is an internet singles portal designed to provide an easy way to meet other singles on the internet. Members create a profile and are then paired with a number of other members based on their pre-selected dating criteria.
 
@@ -47,4 +47,4 @@ We reserve the right to disclose your personally identifiable information as req
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
-If you have any questions about the Privacy Policy of Russiandating.ru, please email them to [Abuse service](https://web.archive.org/contactus/?id=2).
+If you have any questions about the Privacy Policy of Russiandating.ru, please email them to [Abuse service](http://www.support.vedv.com/).
