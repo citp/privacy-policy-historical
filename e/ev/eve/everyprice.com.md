@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyprice.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614094816id_/http%3A//www.everyprice.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyprice.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217135447id_/http%3A//www.everyprice.com/privacy.asp) for the most accurate reproduction.*
 
 # Everyprice : Price Comparison Network » Privacy Policy
 
