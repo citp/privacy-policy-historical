@@ -1,74 +1,66 @@
-> *The following text is extracted and transformed from the mris.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022530id_/http%3A//www.mris.com/about/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mris.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054942id_/http%3A//www.mris.com/about/privacy/index.cfm) for the most accurate reproduction.*
 
 # Privacy Statement for MRIS, Inc.
 
-**Collection of your Personal Information**
+## WEBSITE PRIVACY POLICY
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you to provide a service or carry out a transaction that you have requested such as receiving information about MRIS products and services, entering a contest, ordering e-mail newsletters, joining a limited-access premium site or service, signing up for an event or training, or when purchasing, downloading and/or registering MRIS products. The personal information we collect may include your name, title, company or organization name, work e-mail, work phone, work or home address, information about your job function, information about your company, and credit card information. The Site may collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. This information is used to help improve the Site, analyze trends, and administer the Site.
+### Effective: 9/1/08
 
-MRIS technical communities provide opportunities to interact with MRIS employees, experts, and your peers in order to share knowledge and news about MRIS products and related technologies. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, MRIS advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. 
+At Metropolitan Regional Information Systems, Inc. (MRIS), we are fully committed to the protection and security of any information that you provide to us as users of our Website. We want you to know that we truly respect and will protect your privacy, so you can enjoy using our services which allow us to better serve your needs.
 
-**Use of your Personal Information**
+Our Privacy Policy discloses our approach to privacy and how your personal information is collected and used. Your use of our Website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes.
 
-The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized. In support of these uses, MRIS may use personal information to provide you with more effective customer service, to improve the Site and any related MRIS products or services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preference or interests. In order to offer you a more consistent experience in your interactions with MRIS, information collected by MRIS.com may be combined with information collected by other MRIS services.
+## What Information We Collect
 
-We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, with your permission, we may send you information about other MRIS products and services, and/or share information with MRIS partners so they may send you information about their products and services.
+Generally speaking, our Website is informational. We do not collect any personally identifiable information unless you voluntarily provide it, such as when you provide us account information, submit a complaint or fine appeal form, submit an application to become an MRIS Subscriber, register for or post an entry to our RETS Forum, or send a message to us through our Feedback Form.
 
-MRIS partners so they may send you information about their products and services. We merge site-visitation data with anonymous demographic information for research purposes, and we may use this information in aggregate to provide more relevant content. In some limited-entry sections of MRIS.com, with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won't merge your personal information with site-visitation data.
+As is the case when you visit most Websites, to administer our site, your visit triggers the automatic logging of certain anonymous information about your computer system such as the type of browser you use, the server name and your "IP" (Internet Protocol) address. When your Web browser or email application requests a Web page or email from another computer using the Internet, it automatically gives that computer the "address" where it should send the information. This is called your computer's "IP address". This address does not contain any personally identifiable information.
 
-When you sign up for a newsletter or agree to receive promotional e-mail, MRIS.com may use customized links or similar technologies to track e-mail links that you click. We may associate that information with your personal information in order to provide you more focused e-mail communications or purchase information. Each e-mail communication includes an unsubscribe link allowing you to stop delivery of that type of communication.
+## How We Protect Your Information
 
-Some services on MRIS.com offer individuals the ability to publicly display certain personal information, such as for a MRIS partner who wishes to publish contact information as part of offering a business service. Participation in such services is always optional. 
+We also want you, our visitors, to know that we take the security of your information very seriously and that we take appropriate measures to protect the files in our data system. We maintain physical, electronic and procedural safeguards to guard your nonpublic personal information.
 
-MRIS occasionally hires other companies to provide limited services on our behalf, such as Web site hosting, packaging, mailing and delivering, answering customer questions about products and services, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose. MRIS may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on MRIS or the Site; (b) protect and defend the rights or property of MRIS and our family of Web sites; or (c) act in urgent circumstances to protect the personal safety of MRIS employees or agents, users of MRIS products or services, or members of the public. 
+You need to know, however, that due to the open communication nature of the Internet we cannot guarantee that communication between you and us, and between us and you, will be free from unauthorized access by third parties nor can we be responsible for information stolen from our servers or computer systems by information harvesting software which may have the ability to scrape data.
 
-Personal information collected on the Site may be stored and processed in the United States or any other country in which MRIS or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. MRIS abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+## How We Use Your Information
 
-**Control of your Personal Information**
+When we ask you for information, we tell you, or it will be clear, why we need any personally identifying information from you either to fulfill a request from you or to provide information or services to you, such as when you submit an application to become an MRIS Subscriber, register for or post an entry to our RETS Forum, or send a message to us through our Feedback Form.
 
-Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of MRIS and its controlled subsidiaries and affiliates without your permission. As described below in the next section, you can access your personal information and make choices about how you wish to be contacted.
+## We Do Not Sell or Rent Your Personal Information
 
-Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to MRIS in the context of other, separately operated, MRIS products or services.
+Aside from our own use of your personal information, we do not share any personal information we may have about you with unaffiliated third parties.
 
-MRIS.com may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. In some services offered by MRIS.com, contact with the customer is an intrinsic part of the service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service(s) you have chosen.
+We may, however, have to disclose, transfer, sell or assign your information obtained through this Website, or otherwise in our possession, to a third party as a result of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of MRIS. We may also have to make information obtained through this Website, or otherwise in our possession, available to law enforcement personnel and agencies when requested to do so or as required by law.
 
-**Access to your Personal Information**
+## We Want To Provide Only Information You Want or Need
 
-You can review and edit the personal information and contact preferences you provided at this Site by visiting [My Account](https://secure.mris.com/www/myaccount/index.cfm). You will be asked to enter your MRIS ID and Password before viewing your personal information. 
+The information we send to you includes product updates, compliance notices, billing notices, and service guides. If you do not wish to receive information from us, you should check the particular communication or the corresponding sections of our Website for opt-out instructions.
 
-At the Profile Center you can: 
+## Cookie Technology
 
-  * View and edit personal information you have already given us at MRIS.com
-  * Tell us whether you want MRIS to send you marketing or product information.
-  * Subscribe, or cancel subscriptions, to newsletters about our services and products.
+Cookie technology is employed on our Website. Cookies help us keep track of the pages that you visit while on our Website. In case you did not know, "cookies" are small text files sent by Web servers to be stored on the computers of Website users. These files often contain personalization settings or unique identifiers to keep track of your information and to help us understand the movements of users within and between Websites.
 
-Some services offered on MRIS.com may collect information that is not accessible via My Account. However, in such cases, you can access your personal information by contacting MRIS as described at the bottom of this statement, or through alternative means of access described by the service. For example, if you buy software through the MRIS.com, you can review and edit your personal information by contacting our [Customer Service Department](http://www.mris.com/about/contact.cfm). 
+## You Can Change Your Information
 
-**Security of your Personal Information**
+You can update or correct your contact information by logging on to your account at MRIS.com
 
-MRIS is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+## Privacy Statement Changes
 
-**Use of Cookies**
+We reserve the right to change or amend our Privacy Policy to address new issues of privacy and information security and to reflect changes to our Website or business practices. Any new changes and/or amendments will be posted on this page. Each version of this policy may be identified by its effective date which is located at the top of the page.
 
-We use cookies on this Site to ensure the integrity of the application and the personalization of the Site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. 
+## Questions About Our Privacy And Information Security Practices
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the Web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized.
+Your visit to this site is subject to both this notice and our Terms of Use.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit. 
+If you have any questions about our privacy practices or procedures, please feel free to contact us as follows: 
 
-**Enforcement of this Privacy Statement**
+  * [Email Privacy](http://www.mris.com/about/feedback/index.cfm?WantTo=ContactEmailPrivacy)
+or 
+  * Metropolitan Regional Information Systems, Inc.  
+  9707 Key West Ave., Suite 200  
+  Rockville, MD 20850-3915
 
-If you have questions regarding this statement, you should contact [mris.com](http://www.mris.com/about/contact.cfm).
+We will promptly address your inquiry
 
-**Changes to this Statement**
 
-We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our Web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-
-**Contact Information**
-
-MRIS welcomes your comments regarding this privacy statement. If you believe that MRIS has not adhered to this privacy statement, please [contact us](http://www.mris.com/about/contact.cfm) electronically or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.   
-MRIS.com privacy policy  
-Metropolitan Regional Information Systems, Inc.   
-9420 Key West Ave. Suite 200   
-Rockville, Maryland 20850-3334  
 
