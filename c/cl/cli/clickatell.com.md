@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629154655id_/http%3A//www.clickatell.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217034515id_/http%3A//www.clickatell.com/company/privacy.php) for the most accurate reproduction.*
 
 # About | Privacy Policy | Clickatell
 
@@ -29,6 +29,16 @@ We do not sell or rent any personally identifiable information about you to any 
 For those users who make purchases at our website, we, through our third-party payment processor, may collect IP address, browser version and other information about the software and hardware resident on the computer used to make the purchase. This information is passed on to and used by our third-party payment processor solely for purposes of authentication and security. By making a purchase at our website you authorize such collection and use. 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use SSL encryption technology to protect the transfer of your information.
+
+Advertising Technology
+
+Display Advertising 
+
+We use third-party advertising technology to serve ads when you visit our website and sites upon which we advertise. This technology uses information about your visits to this website and the sites upon which we advertise, to serve our ads to you. In the course of serving our advertisements to you, unique third-party cookies may be placed or recognized on your browser. In addition, we may use Web beacons, provided by our third-party ad server, to help manage and optimize our online advertising. These Web beacons enable our ad server, on our behalf or on behalf of our agent, to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our website. Our third-party ad server is performing its functions on our behalf or on behalf of our agent, and we may, directly or indirectly, instruct such ad server to enable other service providers to receive information about our site related to our online advertising. To learn more about our third-party ad-serving and advertising partners, cookies, and how to "opt-out" please [click here](http://www.doubleclick.com/us/corporate/privacy).
+
+Email Advertising 
+
+We share web site usage information about visitors to our web site, who have received a targeted promotional campaign, with a reputable third-party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising company note some of the pages you visit on our web site through the use of pixel tags (also called clear gifs). For more information about our third-party advertising company, please [click here](http://www.epsilon.com/international/privacy.html).
 
 Our Commitment to Children's Privacy
 
