@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gmc-uk.org privacy policy that was archived on 2008-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080510133009id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gmc-uk.org privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217163157id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><!-- InstanceBegin template="/Templates/standard-1column.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" --> 
@@ -20,7 +20,7 @@
 <link href="/includes/css/template-layout.css" rel="stylesheet" type="text/css">
 <link href="/includes/css/template-1column.css" rel="stylesheet" type="text/css">
 <link href="/includes/css/styles.css" rel="stylesheet" type="text/css">
-<script language="javascript">
+<script type="text/Javascript" language="javascript">
 
 if(location.hash == '#gmc_print') {
   document.write('<link href="/includes/css/print.css" rel="stylesheet" type="text/css">');
@@ -81,7 +81,7 @@ if(location.hash == '#gmc_print') {
 <script language="javascript">
 // WEBAPPS - Start ----------------------------------------------------------------------
 
-function fnCheckBrowser(){
+/*function fnCheckBrowser(){
 	blnResult = 0;
 	bprops = navigator.userAgent;
 
@@ -100,6 +100,49 @@ function fnCheckBrowser(){
 	}
 	return blnResult;
 }
+*/
+
+function fnCheckBrowser(){
+
+            blnResult = 0;
+
+            bprops = navigator.userAgent;
+
+ 
+
+ 
+
+if (bprops.indexOf("Safari")!=-1 && bprops.indexOf("Chrome")==-1){
+
+var winSiebel = window.open("https://webcache.gmc-uk.org/ecustomer_enu/safari_guidance.html","_blank","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+
+                        winSiebel.opener = null;
+
+                        winSiebel = null;
+
+                        blnResult = 1;
+
+            }
+
+
+            
+
+            if (bprops.indexOf("Opera 8")!=-1){
+
+                        var winSiebel = window.open("https://webcache.gmc-uk.org/ecustomer_enu/opera_guidance.html","_blank","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+
+                        winSiebel.opener = null;
+
+                        winSiebel = null;
+
+                        blnResult = 1;
+
+            }
+
+            return blnResult;
+
+}
+
 
 
 function RunMyGMC() 
@@ -393,8 +436,9 @@ divSurveyBox{
         <li> Keep you updated with information about the GMC including guidance, news and election material.</li>
       </ul>
       <p>We may be asked to provide your registered address to the British Medical Association, medical defence organisations and medical Royal Colleges and faculties so that they can keep their records up to date. We will only do so, where we are satisfied you are already a member. If you would prefer us not to share your registered address with these organisations please let us know either by writing to Registration Update Team, General Medical Council, St James's Buildings, 79 Oxford Street Manchester, M1 6FQ or by sending an email to <a href="mailto:registrationhelp@gmc-uk.org">registrationhelp@gmc-uk.org</a>.</p>
-      <p>Please note that all registered doctors’ Level 1 information will be published in the List of Registered Medical Practitioners on our website and made available to any enquirer. Level 1 information consists of registered doctors’ reference number, gender, name, any former name, year and place of primary medical qualification, registration status, date of registration and any publicly available fitness to practise history. </p>
-      <p>We will provide Level 3 Information to the UK health departments, employers and other regulatory bodies. Level 3 information consists of registered doctors’ Level 1 information, date of birth, photograph, passport details, annual retention fee due date, registered address and whether a doctor is subject to investigation under the fitness to practise procedures.</p>
+      <p>All registered doctors’ Level 1 information will be published in the List of Registered Medical Practitioners on our website and made available to any enquirer. Level 1 information consists of registered doctors’ reference number, gender, name, any former name, year and place of primary medical qualification, registration status, date of registration and any publicly available fitness to practise history. </p>
+      <p>We  will provide Level 2 information in response to telephone or written enquiries.  Level 2 information is a registered doctor’s Level 1 information plus the date  on which their annual retention fee is due.</p>
+      <p>We will provide Level 3 Information to the UK health departments, employers and other regulatory bodies. Level 3 information consists of registered doctors’ Level 1 and 2 information plus, date of birth, photograph, passport details,  registered address and whether a doctor is subject to investigation under the fitness to practise procedures.</p>
       <h4>Third Party Service Providers</h4>
         <p>We have contracts with other organisations (or Third Parties) to carry out certain activities or services on our behalf. If we need to pass any of your personal data to them we will make sure that: </p>
         <ul>
@@ -427,8 +471,7 @@ divSurveyBox{
         such as Netscape and Internet Explorer give you the option to disable 
         them. [Please bear in mind that some personalised services on our website 
         may not be available if you choose to disable cookies].</p>
-      <h3> <a name="4"></a>4. Website security: how we protect your information 
-      </h3>
+      <h3> <a name="4"></a>4. Website security: how we protect your information      </h3>
       <p>We are careful to guard the security of your personal data and the details 
         of any transactions you make with us over the Internet.</p>
       <p>This we do by putting in place and carefully administering a secure IT 
@@ -470,7 +513,7 @@ divSurveyBox{
   <br>
   <a href="/about/">About&nbsp;us</a> | <a href="/about/contacts/">Contact&nbsp;us</a> 
   | <a href="/links.asp">Links</a> | <a href="/sitemap.asp" accesskey="S">Site&nbsp;map</a> 
-  | <a href="/disclaimer.asp">Disclaimer</a> | <a href="/privacy_policy.asp">Privacy policy</a> | <a href="../accessibility/index.asp">Web
+  | <a href="/disclaimer.asp">Disclaimer</a> | <a href="/privacy_policy.asp">Privacy policy</a> | <a href="/accessibility/index.asp">Web
   Accessibility</a> <br>
   <br>
  </div>
@@ -496,7 +539,6 @@ if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"="
 <script src="/includes/js/webtrends.js" language="javascript"></script>
 
 <noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://wtl.gmc-uk.org/dcsnj8v0t10000sx8zgiduecf_6c1b/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3">
 </noscript>
 
 
