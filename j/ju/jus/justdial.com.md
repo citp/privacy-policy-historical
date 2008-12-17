@@ -1,20 +1,23 @@
-> *The following text is extracted and transformed from the justdial.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053059id_/http%3A//www.indiainfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justdial.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050001id_/http%3A//www.justdial.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Indiainfo: Privacy Policy
+# Just Dial - Disclaimer and Terms
 
-[ **Home**](http://www.indiainfo.com/) -> **Privacy Policy**
+In the course of registering for and availing various services we provide from time to time through justdial.com you may be required to give your name, residence address, workplace address, email address, date of birth, educational qualifications and similar “Personal Information”. This information is used for three general purposes: to customize the content you see, to fulfill your requests for certain services, and to contact you about our services. Unless otherwise stated explicitly, this Policy applies to your Personal Information as disclosed on the website, over telephone, SMS or any other medium in which JustDial may provide services.
 
-**Privacy Policy**
+We are committed to protecting the privacy and confidentiality of all Personal Information that you may share as a user of justdial.com. In furtherance thereof, we have this policy to demonstrate our good faith.
 
-Indiainfo.com Ltd values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our portal or information that you may give us, such as your name, address, email address or telephone number, to any outside sources. 
+This policy does not apply to the practices of organizations that we do not own or to people that we do not employ or manage.
 
-We will not use information about you without your permission and will provide the means for you to manage and control the information that you have provided. 
+Your Personal Information will be kept confidential and will be used for our research, marketing, and strategic client analysis objectives and other internal business purposes only. We do not share, sell or rent your Personal Information except that in case you are a customer of our search services whether telephonic or web or SMS, your Personal Information shall be shared with the subscribers/advertisers and you shall be deemed to have given your consent to the same.
 
-We will enable you to communicate your privacy concerns to us and that we will respond to them appropriately. 
+We will share Personal Information only under one or more of the following circumstances: \- If we have your consent or deemed consent to do so \- If we are compelled by law (including court orders) to do so
 
-We do not disclose any personal information to advertisers and for other marketing and promotional purposes that could be used to personally identify you, such as your password, credit card number and bank account number. The credit card transaction information is protected by the industry standard Secure Socket Layer (SSL).
+In furtherance of the confidentiality with which we treat Personal Information we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-In case of any concern about your privacy, please [**write to us**](http://www.indiainfo.com/feedback.html), we will respond to you immediately.
+We give you the ability to edit your account information and preferences at any time, including whether you want us to contact you about new services. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-  
+You acknowledge that you are disclosing Personal Information voluntarily. Prior to the completion of any registration process on our website or prior to availing of any services offered on our website if you wish not to disclose any Personal Information you may refrain from doing so; however if you don’t provide information that is requested it is possible that the registration process would be incomplete and/or you would not be able to avail of the our services.
 
+If you are our corporate customer, it is possible that we have entered into a contract with you for non-disclosure of confidential information. This Privacy Policy shall not affect such a contract in any manner.
+
+If you have questions or concerns about these privacy policies; please send us an email at [ privacy@justdial.com ](mailto:privacy@justdial.com)
