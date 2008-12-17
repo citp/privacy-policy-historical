@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the palm.com privacy policy that was archived on 2008-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080528205456id_/http%3A//www.palm.com/us/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the palm.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217055953id_/http%3A//www.palm.com/us/company/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -26,52 +26,185 @@
 
 	<body class="">
 
-	<div id="wrapper">
+	<div id="wrapper" style="position: relative;">
 
-		<script src="http://www.palm.com/js/mbox.js" language="JavaScript1.2"></script>
-<script type="text/javascript">
-var mbox28Data = "";
-function mboxRecord(sORF,sRecipe) { 
-	if (typeof sRecipe == 'number') sRecipe=sRecipe.toString(); 
-	mbox28Data+=((mbox28Data.length>0)?':':'')+"plm_"+sORF+((typeof sRecipe == 'undefined')?'':'_'+sRecipe.toLowerCase());
-} 
-</script>
-<div class="mboxDefault">
+		<link type="text/css" rel="stylesheet" href="/us/css/topnav-home.css">
+<div style="float:left; padding-top: 3px; _padding-top: 1px;">
+	<a href="/"><img src="/us/images/home/new/palm-logo-text.gif" alt="Palm"></a>
+</div>
+<style>
+	.nav_top_link {
+		font-size:10px;
+		color: #878787;
+		line-height:1.3;
+	}
+#main {
+/*overflow:visible;*/
+}
+	#nav_el_txt {
+		margin-left:15px;
+		height:19px; 
+		padding-top:2px;
+		vertical-align:middle;
+		cursor:pointer;
+	}
+	/*upper nav elements*/
+	div.nav_main_element {
+		display:inline; 
+		position:absolute;
+		text-align:center;
+		font-weight:500;
+		color:#878787;
+	}
+	div.nav_main_seperator {
+		background:transparent url('/us/images/shared/nav-seperator.gif') no-repeat;
+		display:inline;
+		position:absolute;
+		width:2px;
+		height:21px;	
+		top:7px;
+	}
+	div.nav_main_element:hover {
+		background-color:#FFFFFF;
+		color:#878787;
+	}
+	div.nav_dropdown_element {
+		display:none;
+		position:absolute;
+		text-align:left;
+                top:81px;
+                _top:78px;
+/*		top:25px; */
 
-<h1><a href="http://www.palm.com">Palm</a></h1>
+/*		top:-16px; */
+	}
 
-<div id="page-options">
-	<ul id="locations">
-		<li class="active">united states&nbsp;|&nbsp;</li><li class="last"><a href="http://www.palm.com/intl/">Worldwide</a></li>
-	</ul>
-
-	<div id="mypalm_header"><a href="http://ws.palm.com/mypalm" id="mypalmlogo"></a><span id="login_header"><a href="http://ws.palm.com/mypalm">login</a></span></div>
-	<form action="http://search.active.palm.com/" id="header_form">
-		<fieldset>
-			<legend>Search</legend>
-			<div>
-				<label for="search">Search</label>
-				<input type="text" id="search" name="q">
-			</div>
-			<input type="image" src="/us/images/shared/search.gif" value="Search">
-		</fieldset>
-	</form>
+	#prodDropDown {
+		/*left:117px;*/
+		left:243px;
+	}
+	#supportDropDown {
+		left:351px;
+		/*left:213px;*/
+	}
+	.new_nav {
+		background:transparent url('http://www.palm.com/us/images/home/menu_off_new.gif') no-repeat ;
+		width:181px;
+		height:21px;
+		line-height:normal;
+	}	
+	.new_nav_last {
+		background:transparent url('http://www.palm.com/us/images/home/menu_corner_off_new.gif') no-repeat;
+		width:181px;
+		height:21px;
+		line-height:normal;
+	}	
+	.new_nav_over {
+		background:transparent url('http://www.palm.com/us/images/home/menu_over_new.gif') no-repeat;
+		color: #dddddd;
+		width:181px;
+		height:21px;
+		line-height:normal;
+	}	
+	.new_nav_last_over {
+		background:transparent url('http://www.palm.com/us/images/home/menu_corner_over_new.gif') no-repeat;
+		color: #dddddd;
+		width:181px;
+		height:21px;
+		line-height:normal;
+	}	
+	a.nav_a {
+		text-decoration:none;
+		color: #464646;
+	}
+	a.nav_a:hover {
+		text-decoration:none;
+		color: #ffffff;
+	}
+	div.new_nav a:hover{
+		color:#ffffff;
+	}
+	a.nav_pri_a {
+		text-decoration:none;
+		color: #464646;
+	}
+	a.nav_pri_a:hover {
+		text-decoration:none;
+	}
 	
-</div>
+</style>
+<script type="text/javascript">
+	var test1009 = true ;
+	function macRollFix(targetId, targetMouseOver) {
+		if(targetMouseOver) {
+			document.getElementById(targetId).style.color = "#FFFFFF";
+		}
+		else {
+			document.getElementById(targetId).style.color = "#878787";
+		}
+	}
+	function prodDropDown(menuVisible) {
+		if(menuVisible) {
+			document.getElementById('prodDropDown').style.display='block'; //error in safari 2.0
+			document.getElementById('nav_products').style.backgroundColor='#ffffff';
+		} else {
+			document.getElementById('prodDropDown').style.display='none';
+			document.getElementById('nav_products').style.backgroundColor='transparent';
+		}
+	}
+	function supportDropDown(menuVisible) {
+		if(menuVisible) {
+			document.getElementById('supportDropDown').style.display='block';
+			document.getElementById('nav_support').style.backgroundColor='#ffffff';
+		} else {
+			document.getElementById('supportDropDown').style.display='none';
+			document.getElementById('nav_support').style.backgroundColor='transparent';
+		}
+	}
+</script>
 
-		<ul id="nav">
-	<li><a href="/us/products/" id="topnav-products">Products</a></li>
-	<li><a href="/us/software/" id="topnav-software">Software</a></li>
-	<li><a href="http://store.palm.com" id="topnav-store">Store</a></li>
-	<li><a href="/us/support/" id="topnav-support">Support</a></li>
-	<li><a href="/us/business/business_home.html" id="topnav-business">Business</a></li>
-	<li class="last"><a href="/us/developers/" id="topnav-developers">Developers</a></li>	
-</ul>
+<div style="float:right; width:821px;">			
 
+    <div id="toplinks" style="margin-left:505px;margin-top:20px;">
+        <p>
+            <a href="/us/products/wheretobuy/" class="nav_top_link">where to buy</a> |
+            <a href="/us/company/contacts.html" class="nav_top_link">contact us</a> |
+            <a href="http://pref.news.palmnewsletters.com/palm/palm_prefctr.asp?c=us" class="nav_top_link">email sign up</a> |
+            <img class="flag" src="/us/images/home/new/us-flag.gif">
+            <a href="/intl/" class="nav_top_link">worldwide</a>
+        </p>
+    </div>
+
+    <div id="nav-home" style="margin:20px 0pt 15px 0px; font-size:12px; font-weight:500; position:relative; padding:0;">
+        <div class="nav_main_element" style="left:50px; width:75px;" onmouseover="this.style.backgroundColor='#ffffff';" onmouseout="this.style.backgroundColor='transparent';">
+            <a class="nav_pri_a" href="http://store.palm.com">store</a>
+        </div>
+        <div class="nav_main_seperator" style="left:129px;"> </div>
+        <div class="nav_main_element" id="nav_products" style="left:135px; width:95px;">
+            <a class="nav_pri_a" href="/us/products/index.html">products</a>
+        </div>
+        <div class="nav_main_seperator" style="left:233px;"> </div>
+        <div class="nav_main_element" id="nav_support" style="left:240px; width:180px;">
+            <a class="nav_pri_a" href="/us/support/">support &amp; downloads</a>
+        </div>
+        <div class="nav_main_seperator" style="left:424px;"> </div>
+        <div class="nav_main_element" style="left:430px; width:96px;" onmouseover="this.style.backgroundColor='#ffffff';" onmouseout="this.style.backgroundColor='transparent';">
+        	<a class="nav_pri_a" href="/us/company/">company</a>
+        </div>
+        
+        <div style="display:inline; position:absolute; left:560px; top:0px;">
+            <form action="http://www.palm.com/us/search.html" id="searchbox_009436908610081548028:8vlsz4snntm">
+  				<input type="hidden" name="cx" value="009436908610081548028:8vlsz4snntm">
+  				<input type="hidden" name="lr" value="lang_en">
+  				<input type="hidden" name="cof" value="FORID:11;NB:1">
+  				<input type="text" name="q" size="26" style="position:relative; bottom:2px;">
+                <input type="image" class="button" name="sa" src="/us/images/shared/search.gif" alt="Search" style="display:inline; position:absolute; left:192px; top:2px;">
+                
+            </form>     
+        </div>
+    </div>
 </div>
-        			<script language="JavaScript1.2">
-           				mboxCreate('plm_topNav');
-       				</script>
+<div style="clear:both;"> </div>
 
 
 		<div class="pproducts">
@@ -88,13 +221,13 @@ function mboxRecord(sORF,sRecipe) {
 			<a href="/us/company/corporate/" id="leftnav1-company-info">Company Info</a>
 			<ul id="leftnav2-company-info">
 				<li><a href="/us/company/advertising/" id="leftnav3-advertising">advertising</a></li>
-				<li><a href="/us/company/pr/background.html" id="leftnav3-company-background">company backgrounder</a></li>
+				<li><a href="/us/company/pr/background.html" id="leftnav3-company-background">company background</a></li>
 				<li><a href="/us/company/contacts.html" id="leftnav3-contact-us">contact us</a></li>
 				<li><a href="/us/company/events/" id="leftnav3-events">events</a></li>
 				<li><a href="/us/company/legal/" id="leftnav3-legal-notices">legal notices</a></li>
 				<li><a href="/us/company/corporate/executive.html" id="leftnav3-management-team">management team</a></li>
-				<li><a href="/us/company/pap/" id="leftnav3-palm-accessiblity">palm accessibility program</a></li>
-				<li><a href="/us/company/environment/programs.html" id="leftnav3-environmental-programs">environmental programs</a></li>
+				<li><a href="/us/company/environment/programs.html" id="leftnav3-environmental-programs">environmental programs</a></li>				
+                <li><a href="/us/company/media/" id="leftnav3-pr-photos">Multimedia Library</a></li>
 				<li><a href="http://blog.palm.com/" id="leftnav3-palm-blog">palm blog</a></li>																																				
 			</ul>
 		</li>	
@@ -136,7 +269,7 @@ function mboxRecord(sORF,sRecipe) {
 						<li><a href="/us/company/pr/archive_hs_2003.html" id="leftnav3-press-handspring">Handspring</a></li>						
 					</ul>
 				</li>				
-				<li><a href="http://br.thenewsmarket.com/palm/br/Login/LoginPreRegistration.aspx" id="leftnav2-multi-library">Multimedia Library</a></li>																				
+				<li><a href="/us/company/media/index.html" id="leftnav2-multi-library">Multimedia Library</a></li>																				
 			</ul>
 		</li>
 		
@@ -184,9 +317,9 @@ function mboxRecord(sORF,sRecipe) {
 					<p>Palm may store and disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to: (a) protect the rights, safety or property of users of our Website, the public, Palm or its third party service providers and suppliers; and (b) conform to legal or regulatory requirements.</p>
 					<p>Some parts of the Website and some product or service offerings are provided by third party service providers and suppliers. These third party service providers and suppliers collect or have access to your personal information to perform such services or fulfill a request from you. We may also provide your personal information to vendors to help us with different aspects of our business, including order fulfillment, order processing, shipping, credit card processing, dissemination of marketing and promotional offers, or understanding the use of our Website and services.</p>
 					<p>If we merge with, or are acquired by another company, or sell all or substantially all of our relevant assets, or file for bankruptcy, we may disclose personal information to the acquirer.</p>
-					<p>Under certain circumstances, Palm may choose to trade, sell or rent your personal information with trustworthy third parties, but you can tell us not to by going to our <a href="/us/company/legal/info_options.html">information sharing options</a> page and by unsubscribing at the <a href="http://pref.news.palmnewsletters.com/palm/palm_prefctr.asp?c=us&amp;b=generic">newsletter sign-up</a> section of the Website.</p>
+					<p>Under certain circumstances, Palm may choose to trade, sell or rent your personal information with trustworthy third parties, but you can tell us not to by unsubscribing at the <a href="http://pref.news.palmnewsletters.com/palm/palm_prefctr.asp?c=us&amp;b=generic">newsletter sign-up section</a> of the Website.</p>
 
-					<h4>Choice and opt-out</h4>
+				  <h4>Choice and opt-out</h4>
 					<p>If you set up an account with us to receive free newsletters and related communications, you may access the account and modify that information by logging in to your account and making the modifications. To do so, please go to the <a href="http://pref.news.palmnewsletters.com/palm/palm_prefctr.asp?c=us&amp;b=generic">newsletter sign-up</a> section of the Website. If you request that we deactivate your account: (1) we may retain aggregate information developed from your personal information, and (2) we may retain your personal information in our backup files.</p>
 
 					<h4>Your consent</h4>
@@ -247,7 +380,7 @@ function mboxRecord(sORF,sRecipe) {
                         tempHTMLOutput += "<div class=\"new_nav\" id=\"n2\" onmouseover=\"this.className='new_nav_over'; macRollFix('n2_a', true);\" onmouseout=\"this.className='new_nav'; macRollFix('n2_a', false);\"> <a class=\"nav_a\" id=\"n2_a\" href=\"/us/products/handhelds/\"><div id=\"nav_el_txt\">handhelds</div></a></div>" ;
                         tempHTMLOutput += "<div class=\"new_nav\" id=\"n3\" onmouseover=\"this.className='new_nav_over'; macRollFix('n3_a', true);\" onmouseout=\"this.className='new_nav'; macRollFix('n3_a', false);\"> <a class=\"nav_a\" id=\"n3_a\" href=\"/us/products/accessories/\"><div id=\"nav_el_txt\">accessories</div></a></div>" ;
                         tempHTMLOutput += "<div class=\"new_nav\" id=\"n4\" onmouseover=\"this.className='new_nav_over'; macRollFix('n4_a', true);\" onmouseout=\"this.className='new_nav'; macRollFix('n4_a', false);\"> <a class=\"nav_a\" id=\"n4_a\" href=\"/us/software/\"><div id=\"nav_el_txt\">software</div></a></div>" ;
-                        tempHTMLOutput += "<div class=\"new_nav\" id=\"n5\" onmouseover=\"this.className='new_nav_over'; macRollFix('n5_a', true);\" onmouseout=\"this.className='new_nav'; macRollFix('n5_a', false);\"> <a class=\"nav_a\" id=\"n5_a\" href=\"/us/business/business_home.html\"><div id=\"nav_el_txt\">business solutions</div></a></div>" ;
+                        tempHTMLOutput += "<div class=\"new_nav\" id=\"n5\" onmouseover=\"this.className='new_nav_over'; macRollFix('n5_a', true);\" onmouseout=\"this.className='new_nav'; macRollFix('n5_a', false);\"> <a class=\"nav_a\" id=\"n5_a\" href=\"/us/business/index.html\"><div id=\"nav_el_txt\">business solutions</div></a></div>" ;
                         tempHTMLOutput += "<div class=\"new_nav_last\" id=\"n6\" onmouseover=\"this.className='new_nav_last_over'; macRollFix('n6_a', true);\" onmouseout=\"this.className='new_nav_last'; macRollFix('n6_a', false);\"><a class=\"nav_a\" id=\"n6_a\" href=\"/us/products/wheretobuy/\"><div id=\"nav_el_txt\">where to buy</div></a></div></div> " ;
 						document.getElementById("targetNavMenu").innerHTML = tempHTMLOutput;
 						
@@ -257,7 +390,8 @@ function mboxRecord(sORF,sRecipe) {
                         tempHTMLOutput += "<div class=\"new_nav\" id=\"n12\" onmouseover=\"this.className='new_nav_over'; macRollFix('n12_a', true);\" onmouseout=\"this.className='new_nav'; macRollFix('n12_a', false);\"><a class=\"nav_a\" id=\"n12_a\" href=\"/us/support/downloads/\"><div id=\"nav_el_txt\">downloads</div></a></div>" ;
                         tempHTMLOutput += "<div class=\"new_nav\" id=\"n13\" onmouseover=\"this.className='new_nav_over'; macRollFix('n13_a', true);\" onmouseout=\"this.className='new_nav'; macRollFix('n13_a', false);\"><a class=\"nav_a\" id=\"n13_a\" href=\"http://kb.palm.com/\"><div id=\"nav_el_txt\">knowledge library</div></a></div>" ;
                         tempHTMLOutput += "<div class=\"new_nav\" id=\"n14\" onmouseover=\"this.className='new_nav_over'; macRollFix('n14_a', true);\" onmouseout=\"this.className='new_nav'; macRollFix('n14_a', false);\"><a class=\"nav_a\" id=\"n14_a\" href=\"http://forums.palm.com/\"><div id=\"nav_el_txt\">help forums</div></a></div>" ;
-                        tempHTMLOutput += "<div class=\"new_nav_last\" id=\"n15\" onmouseover=\"this.className='new_nav_last_over'; macRollFix('n15_a', true);\" onmouseout=\"this.className='new_nav_last'; macRollFix('n15_a', false);\"><a class=\"nav_a\" id=\"n15_a\" href=\"/us/support/PalmES/\"><div id=\"nav_el_txt\">business</div></a></div></div>" ;
+                        tempHTMLOutput += "<div class=\"new_nav\" id=\"n15\" onmouseover=\"this.className='new_nav_over'; macRollFix('n15_a', true);\" onmouseout=\"this.className='new_nav'; macRollFix('n15_a', false);\"><a class=\"nav_a\" id=\"n15_a\" href=\"/us/support/PalmES/\"><div id=\"nav_el_txt\">business</div></a></div>" ;
+						tempHTMLOutput += "<div class=\"new_nav_last\" id=\"n16\" onmouseover=\"this.className='new_nav_last_over'; macRollFix('n16_a', true);\" onmouseout=\"this.className='new_nav_last'; macRollFix('n16_a', false);\"><a class=\"nav_a\" id=\"n16_a\" href=\"http://learning.palm.com/\"><div id=\"nav_el_txt\">training</div></a></div></div>" ;
 						document.getElementById("targetNavMenu").innerHTML += tempHTMLOutput;
                     }
 					function setupDropDownMenu() {
@@ -295,7 +429,7 @@ function mboxRecord(sORF,sRecipe) {
                 
 <div id="dropDownTarget" style="height:0px;">
 
-</div>                
+<div id="targetNavMenu"><div id="prodDropDown" class="nav_dropdown_element" style="z-index:99"><div class="new_nav" id="n1" onmouseover="this.className='new_nav_over'; macRollFix('n1_a', true);" onmouseout="this.className='new_nav'; macRollFix('n1_a', false);"> <a class="nav_a" id="n1_a" href="/us/products/smartphones/"><div id="nav_el_txt">smartphones</div></a></div><div class="new_nav" id="n2" onmouseover="this.className='new_nav_over'; macRollFix('n2_a', true);" onmouseout="this.className='new_nav'; macRollFix('n2_a', false);"> <a class="nav_a" id="n2_a" href="/us/products/handhelds/"><div id="nav_el_txt">handhelds</div></a></div><div class="new_nav" id="n3" onmouseover="this.className='new_nav_over'; macRollFix('n3_a', true);" onmouseout="this.className='new_nav'; macRollFix('n3_a', false);"> <a class="nav_a" id="n3_a" href="/us/products/accessories/"><div id="nav_el_txt">accessories</div></a></div><div class="new_nav" id="n4" onmouseover="this.className='new_nav_over'; macRollFix('n4_a', true);" onmouseout="this.className='new_nav'; macRollFix('n4_a', false);"> <a class="nav_a" id="n4_a" href="/us/software/"><div id="nav_el_txt">software</div></a></div><div class="new_nav" id="n5" onmouseover="this.className='new_nav_over'; macRollFix('n5_a', true);" onmouseout="this.className='new_nav'; macRollFix('n5_a', false);"> <a class="nav_a" id="n5_a" href="/us/business/index.html"><div id="nav_el_txt">business solutions</div></a></div><div class="new_nav_last" id="n6" onmouseover="this.className='new_nav_last_over'; macRollFix('n6_a', true);" onmouseout="this.className='new_nav_last'; macRollFix('n6_a', false);"><a class="nav_a" id="n6_a" href="/us/products/wheretobuy/"><div id="nav_el_txt">where to buy</div></a></div></div> <div id="supportDropDown" class="nav_dropdown_element" style="z-index:99"><div class="new_nav" id="n11" onmouseover="this.className='new_nav_over'; macRollFix('n11_a', true);" onmouseout="this.className='new_nav'; macRollFix('n11_a', false);"><a class="nav_a" id="n11_a" href="/us/support/palmdesktop.html"><div id="nav_el_txt">palm desktop</div></a></div><div class="new_nav" id="n12" onmouseover="this.className='new_nav_over'; macRollFix('n12_a', true);" onmouseout="this.className='new_nav'; macRollFix('n12_a', false);"><a class="nav_a" id="n12_a" href="/us/support/downloads/"><div id="nav_el_txt">downloads</div></a></div><div class="new_nav" id="n13" onmouseover="this.className='new_nav_over'; macRollFix('n13_a', true);" onmouseout="this.className='new_nav'; macRollFix('n13_a', false);"><a class="nav_a" id="n13_a" href="http://kb.palm.com/"><div id="nav_el_txt">knowledge library</div></a></div><div class="new_nav" id="n14" onmouseover="this.className='new_nav_over'; macRollFix('n14_a', true);" onmouseout="this.className='new_nav'; macRollFix('n14_a', false);"><a class="nav_a" id="n14_a" href="http://forums.palm.com/"><div id="nav_el_txt">help forums</div></a></div><div class="new_nav" id="n15" onmouseover="this.className='new_nav_over'; macRollFix('n15_a', true);" onmouseout="this.className='new_nav'; macRollFix('n15_a', false);"><a class="nav_a" id="n15_a" href="/us/support/PalmES/"><div id="nav_el_txt">business</div></a></div><div class="new_nav_last" id="n16" onmouseover="this.className='new_nav_last_over'; macRollFix('n16_a', true);" onmouseout="this.className='new_nav_last'; macRollFix('n16_a', false);"><a class="nav_a" id="n16_a" href="http://learning.palm.com/"><div id="nav_el_txt">training</div></a></div></div></div></div>                
 
 <!-- SiteCatalyst code version: H.10. Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
 <script type="text/javascript" src="/js/s_code.js"></script>
@@ -314,7 +448,7 @@ function mboxRecord(sORF,sRecipe) {
 
 <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
 
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1161&amp;ref2=elqNone&amp;tzo=0&amp;ms=49" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1161&amp;ref2=elqNone&amp;tzo=0&amp;ms=606" border="0" width="1" height="1"></layer>
 
 	<!--oobegin 
 * OnlineOpinionF3cS v3.0
