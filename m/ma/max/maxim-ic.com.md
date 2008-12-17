@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615141330id_/http%3A//www.maxim-ic.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050222id_/http%3A//www.maxim-ic.com/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Maxim
 
