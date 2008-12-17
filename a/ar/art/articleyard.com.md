@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleyard.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211100845id_/http%3A//www.articleyard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleyard.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082118id_/http%3A//www.articleyard.com/privacy.php) for the most accurate reproduction.*
 
 # Article Directory
 
