@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artofproblemsolving.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509161154id_/http%3A//www.artofproblemsolving.com/Legal/AoPS_L_Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofproblemsolving.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217204404id_/http%3A//www.artofproblemsolving.com/Legal/AoPS_L_Privacy.php) for the most accurate reproduction.*
 
 # AoPS Privacy Policy
 
@@ -6,4 +6,22 @@
 
 We take the privacy of our participants very seriously; therefore, we only collect the information necessary to provide educational services efficiently. To post information in a forum, to participate in any chat room, or to attend electronic classes, you must become a member of the Art of Problem Solving Community. To become a member, the only personal information we require is your email address. You then select your own user name and password, which are both needed to log on. (The user name which you select is used as an onscreen name to identify you; it should not be your real name, but a pseudonym.) We do ask about your general geographic location, your occupation, and interests, but none of this information is required for membership in the Community. 
 
-Your email address is used for us to send messages to you. We do so to confirm your user name and password if you should forget your user name or password. Should you enroll in an Art of Problem Solving online class, your email address will be used 
+Your email address is used for us to send messages to you. We do so to confirm your user name and password if you should forget your user name or password. Should you enroll in an Art of Problem Solving online class, your email address will be used for communication purposes for that class. We will not send solicitation emails collected as part of the Art of Problem Solving Community unless the user elects to join our mailing lists. Your email will not be shared with or sold to any third party without your explicit consent to the effect. We have taken reasonable steps to protect your email address, user name, password, and other information from anyone who is not authorized to have such information. We cannot be held responsible for an unauthorized person illegally obtaining that information.
+
+We also use your email address to assist in administering our web site and to help enforce our conduct rules (for example, people who post offensive messages in the forum can be banned). Our forum system uses cookies to store information on your local computer to improve your viewing pleasure. We do not belong to any groups that track internet users.
+
+This site has forums (message boards) and chat rooms available to its members. Please remember that any information that is disclosed in these areas is published publicly. You should NOT disclose any personal information, such as your real name, address, telephone number, email address, etc. Your user name is the only identity that you need to have, and that is how people should know you on the Internet.
+
+We caution children that they should not divulge their personal information and require that they agree to this before entering our forums or classes. Our classes and forums are moderated, and, while our moderators cannot prevent children from divulging personal information, we strongly discourage such divulgence.
+
+**Parents of Children Under 13 Years of Age** :  
+We do not collect and retain any information about your child unless and until we receive your prior approval. The name and contact information regarding this web site is listed below for all operators. The information we collect and how we use it is described above. Note that the only required information is the user's email address. A user may participate in all activities without providing any other information. A parent may modify or delete all information pertaining their child by logging in to the community [here](http://www.artofproblemsolving.com/wforum/login.php) using the user name and password which the child selected or by contacting us directly via one of the methods listed below.
+
+If you have any questions about this privacy statement or the practices of this site, you can contact us by email: [privacy@artofproblemsolving.com](mailto:privacy@artofproblemsolving.com),   
+by snail mail:   
+AoPS, Incorporated  
+P.O. Box 2185  
+Alpine, CA 91903-2185  
+or by telephone: (619) 659 - 1612
+
+Our site contains links to other sites. We are not responsible for the privacy practices or the content of other such sites.
