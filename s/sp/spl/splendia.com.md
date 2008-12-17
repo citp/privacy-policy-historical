@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the splendia.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210113135id_/http%3A//www.splendia.com/charte.php%3Ftypeoofsite%3D%26get_vipSearchlist_id%3D%26get_refererVIP%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splendia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101932id_/http%3A//www.splendia.com/charte.php%3Ftypeoofsite%3D%26get_vipSearchlist_id%3D%26get_refererVIP%3D) for the most accurate reproduction.*
 
 # SPLENDIA - Privacy Policy
 
 1\. Introduction 
 
-**1.1** We take the privacy of your information very seriously. This policy explains how and for what purposes we use the information collected about you via our website (referred to below as the “Site”). Please read this privacy policy carefully. By using the Site and any services we offer through it, you agree to be bound by this policy regarding your personal information collected through the Site.
+**1.1** We take the privacy of your information very seriously. This policy explains how and for what purposes we use the information collected about you via our website (referred to below as the 'Site'). Please read this privacy policy carefully. By using the Site and any services we offer through it, you agree to be bound by this policy regarding your personal information collected through the Site.
 
 **1.2** If you have any queries about the policy, please contact us by email at legal@splendia.com and we will do our best to answer your questions.
 
@@ -46,13 +46,13 @@ We will only use information provided by you for the following purposes:
 
 5\. Cookies 
 
-**5.1** When you visit the Site we may store some information (commonly known as a “cookie”) on your computer. Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. Cookies are specific to the server that created them and cannot be accessed by other servers, which means that they cannot be used to track your movements around the web. Credit card number is not stored in cookies. A cookie helps you get the best out of the Site and helps us to provide you with a more customized service. We use cookies for the following purposes:
+**5.1** When you visit the Site we may store some information (commonly known as a %u201Ccookie%u201D) on your computer. Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. Cookies are specific to the server that created them and cannot be accessed by other servers, which means that they cannot be used to track your movements around the web. Credit card number is not stored in cookies. A cookie helps you get the best out of the Site and helps us to provide you with a more customized service. We use cookies for the following purposes:
 
 (a) Do not have to re-enter your details each time you visit the Site
 
 (b) To monitor how the Site is used and to improve and update our content
 
-**5.2** You can block or erase cookies from your computer if you want to (your browser’s help screen or manual should tell you how to do this), but certain parts of the Site will rely on the use of cookies to operate correctly and may not work correctly if you set your browser not to accept cookies.
+**5.2** You can block or erase cookies from your computer if you want to (your browser%u2019s help screen or manual should tell you how to do this), but certain parts of the Site will rely on the use of cookies to operate correctly and may not work correctly if you set your browser not to accept cookies.
 
 6\. Changes to your details. 
 
