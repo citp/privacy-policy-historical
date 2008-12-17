@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the face-pic.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422055757id_/http%3A//www.face-pic.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the face-pic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050653id_/http%3A//www.face-pic.com/pages/privacy.php) for the most accurate reproduction.*
 
 # face-pic.com - Privacy Policy
 
-[Help](https://web.archive.org/web/20080422055757id_/http%3A//www.face-pic.com/pages/help.php) > Privacy & Opt-In Policy
+[Help](https://web.archive.org/web/20081217050653id_/http%3A//www.face-pic.com/pages/help.php) > Privacy & Opt-In Policy
 
   
 To register with face-pic.com, you are required to read the following Privacy & Opt-In Policy . 
@@ -92,5 +92,3 @@ By registering with face-pic.com, you agree to be bound by the terms & condition
 If you have questions or comments on this Privacy & Opt-In Policy, please email us at help@face-pic.com
 
 face-pic.com Limited is a registered business in England. Registration Number 4490231 
-
-SP 
