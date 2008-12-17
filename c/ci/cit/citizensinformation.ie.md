@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609131455id_/http%3A//www.citizensinformation.ie/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217014922id_/http%3A//www.citizensinformation.ie/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement-Information from CitizensInformation.ie
 
@@ -36,10 +36,10 @@ You should note that technical details, which we cannot associate with any ident
 If you are concerned about how personal data is processed via this website, please do not hesitate to bring such concerns to our attention by using our feedback form or by post at:
 
 Citizens Information Board  
-7th Floor  
-Hume House  
-Ballsbridge  
-Dublin 4  
+Ground Floor  
+George's Quay House  
+43 Townsend St  
+Dublin 2  
 Telephone: +353 1 6059000  
 Fax: +353 1 6059099
 
