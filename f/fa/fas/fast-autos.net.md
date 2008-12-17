@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fast-autos.net privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611061750id_/http%3A//www.fast-autos.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fast-autos.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104132id_/http%3A//www.fast-autos.net./privacy) for the most accurate reproduction.*
 
 # Fast-Autos.net - Fast Cars, Cool Cars, Hot Cars at FastAutos.net!
 
@@ -12,7 +12,7 @@
 
 (06/13/06)
 
-[](http://www.fast-autos.net/potd/0610.jpg)
+[](http://www.fast-autos.net/potd/1217.jpg)
 
 Privacy Policy
 
