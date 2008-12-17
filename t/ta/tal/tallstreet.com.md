@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tallstreet.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515100340id_/http%3A//www.tallstreet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tallstreet.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061629id_/http%3A//www.tallstreet.com/privacy.html) for the most accurate reproduction.*
 
 # Tall Street - Privacy Policy
 
