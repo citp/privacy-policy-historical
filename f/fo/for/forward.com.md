@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forward.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515111216id_/http%3A//www.forward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forward.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217163039id_/http%3A//www.forward.com/privacy-policy) for the most accurate reproduction.*
 
 # Jewish News, Jewish Newspapers - Forward.com
 
