@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517184322id_/http%3A//www.wgme.com/AboutWGME/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113726id_/http%3A//www.wgme.com/AboutWGME/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
