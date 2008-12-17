@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azlyrics.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513111625id_/http%3A//www.azlyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azlyrics.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040755id_/http%3A//www.azlyrics.com/privacy.html) for the most accurate reproduction.*
 
 # A-Z Lyrics Universe Privacy Policy
 
