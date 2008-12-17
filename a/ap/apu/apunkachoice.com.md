@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apunkachoice.com privacy policy that was archived on 2008-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080308073348id_/http%3A//www.apunkachoice.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apunkachoice.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141458id_/http%3A//www.apunkachoice.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : ApunKaChoice.Com
 
