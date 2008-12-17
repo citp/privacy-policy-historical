@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the deanza.edu privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609134743id_/http%3A//www.deanza.edu/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deanza.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070552id_/http%3A//www.deanza.edu/policies/privacy.html) for the most accurate reproduction.*
 
 # Web Site Privacy Statement
 
   
-June 6-8, 2008: Due to a campuswide power outage, some services on the De Anza Web site may be limited throughout this weekend. We apologize for any inconvenience this may cause. 
+
 
 ### Privacy Statement
 
