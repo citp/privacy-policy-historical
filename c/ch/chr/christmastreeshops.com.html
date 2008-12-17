@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the christmastreeshops.com privacy policy that was archived on 2007-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071203150932id_/http%3A//www.bedbathandbeyond.com/ctsprivacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the christmastreeshops.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217061138id_/http%3A//www.bedbathandbeyond.com/ctsprivacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="Javascript">
 <!--
@@ -16,10 +16,6 @@ function onOpen()
 
 var windowpic = null;
 var windowpic2 = null;
-var bBeyondStore = false;
-
-
-
 var sBT = null;
 var sSubTotal = GetCookie( "subtotal" );
 if ( !sSubTotal )
@@ -144,8 +140,50 @@ function go()
 
 	return false;
 }
+
+function OpenPopupWindow( sURL, width, height, scbar, tbar )
+{
+	if ( isNaN( width ) )
+		width=390;
+	if ( isNaN( height ) )
+		height=427;
+	if ( scbar != "yes" )
+		scbar = "no";
+	if ( tbar != "yes" )
+		tbar = "no";
+
+	var bars = "menubar=no,toolbar=no";
+	if ( tbar == "yes" )
+		bars = "menubar=no,toolbar=no";
+
+	var strwindow = "toolbar=no,width=" + width + ",height=" + height + ",directories=no,location=yes,status=no,scrollbars="+scbar+"," + bars + ",resizable=yes";
+	if ( navigator.appName == "Microsoft Internet Explorer" )
+		strwindow = "toolbar=no,width=" + (width-10) + ",height=" + (height-5) + ",directories=no,location=yes,status=no,scrollbars="+scbar+"," + bars + ",resizable=yes";
+
+	if ( window.screen )
+	{
+		var aw = screen.availWidth - 50;
+		var ah = screen.availHeight - 120;
+		var nwidth = width;
+		var nheight = height;
+		strwindow = "width=" + nwidth + ",height=" +nheight + strwindow;
+		strwindow += ",left=" + ( ( aw - nwidth ) / 2);
+		var nTop = ( ah - nheight ) / 2;
+		if (nTop < 0 )
+			nTop = 0;
+		strwindow += ",top=" + nTop;
+	}
+	
+	var sWinName = "wwchild";
+	if ( sURL == "http://bedbathandbeyond.custhelp.com" )
+		sWinName = sWinName + "2";
+	windowpic = window.open(sURL, sWinName, strwindow);	
+	windowpic.focus();
+}
+
 //-->
 </script>
+
 
 
 <title>CHRISTMAS TREE SHOPS PRIVACY POLICY</title>
@@ -201,6 +239,9 @@ function go()
       <td><div align="center"><a href="http://www.christmastreeshops.com/massachusetts.html">Massachusetts</a></div></td>
     </tr>
     <tr>
+      <td><div align="center"><a href="http://www.christmastreeshops.com/michigan.html">Michigan</a></div></td>
+    </tr>
+    <tr>
       <td><div align="center"><a href="http://www.christmastreeshops.com/newhampshire.html">New Hampshire</a></div></td>
     </tr>
     <tr>
@@ -210,6 +251,9 @@ function go()
       <td><div align="center"><a href="http://www.christmastreeshops.com/newyork.html">New York</a></div></td>
     </tr>
     <tr>
+      <td><div align="center"><a href="http://www.christmastreeshops.com/ohio.html">Ohio</a></div></td>
+    </tr>
+	<tr>
       <td><div align="center"><a href="http://www.christmastreeshops.com/pennsylvania.html">Pennsylvania</a></div></td>
     </tr>
     <tr>
@@ -224,291 +268,291 @@ function go()
 <td width="75%" valign="top">
 <table border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 		<td><span align="center"><b>CHRISTMAS TREE SHOPS <br> PRIVACY POLICY</b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="10" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="10" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="10" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="10" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="10" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="10" alt="" border="0"></td>
 	</tr>
 	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 		<td><span align="center"><b>Policy Effective Date: This policy became effective on April 18, 2006.</b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 		<td>At Christmas Tree Shops we are committed to protecting the privacy of our customers, which is why we do not sell or rent any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to christmastreeshops.com.  Feel free to e-mail us at <a href="mailto:webmaster@christmastreeshops.com">webmaster@christmastreeshops.com </a> with any questions you might have.</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 	</tr>
 	<!-- What Information We Collect -->
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 		<td><span align="center"><b><font color="#006666">What Information We Collect</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 		<td>In order to process your order efficiently, we collect the following information: name, billing address, shipping address, e-mail address, phone number, and credit card number ("Personal Information") when you place an order with us. We also may periodically conduct surveys of visitors to our Web site. This helps us better understand what our customers would like to see from us. We use this information for internal marketing research purposes. We may contact a visitor who responded to a survey for more information, but only if that visitor has told us that they don't mind being contacted.<p>With respect to emails that you may receive from us, we capture data related to the opening and click-through from these emails. This information is used for internal Christmas Tree Shops review and analysis only.</p></td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 	</tr>
 	<!-- Use of Information that You Provide -->
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 		<td><span align="center"><b><font color="#006666">Use of Information that You Provide</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 		<td>At Christmas Tree Shops we collect Personal Information only for the purposes of fulfilling orders, providing a high level of customer service, and gaining knowledge internally regarding our customers’ needs. We do not give or sell Personal Information to any other party, except to our employees and agents whom we rely on to handle this information on our behalf in accordance with the above purposes</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 	</tr>
 	<!-- Release of Information to Protect Website and Others -->
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 		<td><span align="center"><b><font color="#006666">Release of Information to Protect Website and Others</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 		<td>Christmas Tree Shops may release Personal Information when we believe, in good faith, that such release is necessary to comply with law, protect the rights, properties or safety of Christmas Tree Shops, our users or others, or enforce or apply the terms of any of our user agreements.</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 	</tr>
 	<!-- How to Opt-out -->
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 		<td><span align="center"><b><font color="#006666">How to Opt-out</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 		<td>We ask that you tell us when you do not wish to receive periodic e-mails from us. We will only send e-mail for customer service purposes and to those visitors who have indicated that they wish to receive other types of e-mail from us. If at any time you wish to stop receiving e-mail from us, you can always remove your name from our mailing list by sending an e-mail to <a href="mailto:webmaster@christmastreeshops.com">webmaster@christmastreeshops.com </a> stating that you wish to unsubscribe and indicating in the subject line of the e-mail "NO E-MAIL".</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 	</tr>
 	<!-- Security of the Information You Provide -->
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><span align="center"><b><font color="#006666">How to Opt-out</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><span align="center"><b><font color="#006666">Security of the Information You Provide</font></b></span></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 		<td>Among our top priorities is keeping your Personal Information secure. We use Secure Sockets Layer (SSL) technology to encrypt all of your Personal Information before it is transmitted to us. Encrypted information cannot be read or recorded as it travels over the Internet. You can tell you are sending information securely by the unbroken key icon or closed lock icon that should appear at the bottom of your internet browser's window (depending on what browser you use). These icons will appear when you are placing an order on our Web site. In addition, you will see our site address change slightly, from http: to https: indicating a secure server connection is being used. 
 		    The computers that store your Personal Information are located in a separate facility, which employs the latest in firewall and security technology.<p>If you prefer not to disclose your credit card information online, you can always place your gift card order by calling or visiting one of our many stores. <a href="#">Click here </a> to locate the store nearest you and to receive driving directions.</p></td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 	</tr>
 	<!-- Use of Cookies -->
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 		<td><span align="center"><b><font color="#006666">Use of Cookies</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 		<td>We use cookies to provide our customers with streamlined ordering and other useful features. Cookies are pieces of information that are stored by your browser on your computer's hard drive. Cookies make Web surfing easier for you by saving your customer identification information while you're at our site. The use of cookies has become an industry standard used by most major Web sites. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent acceptance. Please continue to review our privacy policy from time to time so that you are aware of our current policy with respect to cookies.</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 	</tr>
 	<!-- Intended Users- Use By Children -->
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 		<td><span align="center"><b><font color="#006666">Intended Users- Use By Children</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 		<td>Our gift cards and any other products we may have available for sale on the Christmas Tree Shops website are intended to be purchased by adults.  We do not knowingly collect personal information from children under 13 years of age.  Christmas Tree Shops will promptly delete information provided by a child.  Simply contact us at <a href="mailto:webmaster@christmastreeshops.com">webmaster@christmastreeshops.com </a>.</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 	</tr>
 	<!-- Your Acceptance of these Terms -->
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 		<td><span align="center"><b><font color="#006666">Your Acceptance of these Terms</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="1" alt="" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="1" height="2" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 		<td>By using our Web site, you agree to accept the Christmas Tree Shops privacy policy. Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy. If you do not agree to this policy, please do not use our Web site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. If this policy changes in the future, we will let you know by posting the policy on our Web site or by sending an email to our opt-in list. Please check this page periodically for changes. Your continued use of our Web site following the posting of changes to these terms will mean you accept those changes.</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
+		<td><img src="/img/i.gif;pv74463024071c66a5" width="20" height="1" border="0"></td>
 	</tr>
 	<tr>
-		<td colspan="3"><img src="/img/i.gif" width="20" height="20" border="0"></td>
+		<td colspan="3"><img src="/img/i.gif;pv74463024071c66a5" width="20" height="20" border="0"></td>
 	</tr>
 </tbody></table>
 </td></tr></tbody></table>
