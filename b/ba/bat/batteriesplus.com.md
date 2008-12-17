@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batteriesplus.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611225014id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteriesplus.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142858id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Batteries Plus - Privacy Policy
 
@@ -72,7 +72,7 @@ How do I edit or delete my account information?
 You may edit your account information at anytime by signing in to your account and clicking “update account”. You can access, review and update your personal information. Your account can be deleted but doing so will result in not being able to access certain areas of the site. To delete your account, please call us at 1-800-677-8278 with specific instruction to delete your account.
 
 How can I give you feedback or contact you?  
-You may contact us through the [Contact Us](https://web.archive.org/web/20080611225014id_/http%3A//www.batteriesplus.com/t-contact.aspx) section from our online web site. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. Comments or questions can also be sent to us via postal mail, and we will use reasonable efforts to promptly review and respond as appropriate:
+You may contact us through the [Contact Us](https://web.archive.org/web/20081217142858id_/http%3A//www.batteriesplus.com/t-contact.aspx) section from our online web site. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. Comments or questions can also be sent to us via postal mail, and we will use reasonable efforts to promptly review and respond as appropriate:
 
 Batteries Plus  
 925 Walnut Ridge Drive  
