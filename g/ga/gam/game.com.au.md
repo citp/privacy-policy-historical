@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game.com.au privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517142147id_/http%3A//www.game.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217103557id_/http%3A//www.game.com.au/privacy) for the most accurate reproduction.*
 
 # Welcome to GAME - The Next Level
 
@@ -16,7 +16,7 @@ This document also describes the sorts of information held and for what purposes
 
 Our Privacy Policy applies to all your dealings with us whether at one of our retail stores, through our 13 4263 (13 GAME) number or via our website and/or e-mail transmissions.
 
-We encourage you to check [www.game.com.au](https://web.archive.org/web/20080517142147id_/) regularly for any updates to our Privacy Policy.
+We encourage you to check [www.game.com.au](https://web.archive.org/web/20081217103557id_/) regularly for any updates to our Privacy Policy.
 
 **Collecting your personal information**     
 Depending on the product or service obtained, GAME will collect and hold your personal information for the purposes of:
