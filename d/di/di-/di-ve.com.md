@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the di-ve.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611142539id_/http%3A//www.di-ve.com/Default.aspx%3FID%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the di-ve.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082100id_/http%3A//www.di-ve.com/Default.aspx%3FID%3D26) for the most accurate reproduction.*
 
 # DI-VE - Privacy policy
 
