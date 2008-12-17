@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connexion.org privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408033527id_/http%3A//www.connexion.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexion.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044306id_/http%3A//www.connexion.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,9 +32,9 @@ It is also used is aggregated form (i.e. as statistics like 12% of members are u
 
 Cookies are used to maintain your session with Connexion. So if you do not have cookies enabled, at least for Connexion, you will not be able to use the site.
 
-We also use cookies to store information such as your email address so that you can log in automatically. You activate this feature when you join or log in by asking the computer to remember your email address and password. To prevent someone from logging in as you, you should use this option ONLY on a computer where you will be the only person with access.
+We also use cookies to store information such as your email address so that you can log on automatically. You activate this feature when you join or log on by asking the computer to remember your email address and password. To prevent someone from logging on as you, you should use this option ONLY on a computer where you will be the only person with access.
 
-There is also an option to have just your email address remembered. This is a good way to simplify log in on a shared computer without compromising your account security.
+There is also an option to have just your email address remembered. This is a good way to simplify log on on a shared computer without compromising your account security.
 
 **Security**
 
