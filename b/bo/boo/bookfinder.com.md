@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookfinder.com privacy policy that was archived on 2008-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080220165321id_/http%3A//www.bookfinder.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookfinder.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050752id_/http%3A//www.bookfinder.com/about/privacy) for the most accurate reproduction.*
 
 # BookFinder.com: Privacy policy
 
@@ -14,5 +14,3 @@ BookFinder.com is committed to your privacy. We're heavy Internet users; we trea
 ### Mailing Lists
 
 Membership in any of our mailing lists is anonymous; we will not share member addresses or membership status with any third party. Your participation in our many-to-many lists (e.g. the BookFinder Insider mailing list) will obviously be disclosed to other list members, should you choose to post.
-
-| 
