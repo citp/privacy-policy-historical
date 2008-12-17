@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225933id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125335id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# DownloadPipe.com Privacy Policy
 
 This policy was created to demonstrate to our visitors and customers the commitment that DownloadPipe.Com has to protecting people's privacy on the Internet. The following explains any information gathered through the DownloadPipe.Com domains and how that information is used.
 
@@ -18,7 +18,7 @@ Federal law requires us to keep a record of your transactions with us for a mini
 
 ## External Links
 
-Our site contain links to sites owned by other companies. We make no guarantees regarding their content or practices.
+Our site contains links to sites owned by other companies. We make no guarantees regarding their content or practices.
 
 ## Customer Contact
 
