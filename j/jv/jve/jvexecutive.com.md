@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jvexecutive.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611232833id_/http%3A//www.jvexecutive.com/anti-spam_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvexecutive.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217140000id_/http%3A//www.jvexecutive.com/anti-spam_privacy_policy.html) for the most accurate reproduction.*
 
 # JVExecutive :: Anti-Spam And Privacy Policy
 
@@ -36,6 +36,6 @@ Cookies:
 
 Remember The Risks Whenever You Use The Internet!
 
-** While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to us and you are solely responsible for maintaining the secrecy of any passwords or other account information. ****In addition other Internet sites or services that may be accessible through us have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. **** Please contact those vendors and others directly if you have any questions about their privacy policies. ****For any other information please[Contact Us](https://web.archive.org/web/20080611232833id_/http%3A//www.jvexecutive.com/contact.html) ****
+** While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to us and you are solely responsible for maintaining the secrecy of any passwords or other account information. ****In addition other Internet sites or services that may be accessible through us have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. **** Please contact those vendors and others directly if you have any questions about their privacy policies. ****For any other information please[Contact Us](https://web.archive.org/web/20081217140000id_/http%3A//www.jvexecutive.com/contact.html) ****
 
  **** **  **
