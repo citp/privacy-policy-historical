@@ -1,22 +1,41 @@
-> *The following text is extracted and transformed from the dcup.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307000850id_/http%3A//www.dcup.com/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcup.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218001629id_/http%3A//www.dcup.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Private Policy
+# Privacy Policy - HTTP Electronic Publishing, Inc.
 
-HTTP Electronic Publishing, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: DCUP.COM 
+**This privacy policy describes HTTP Electronic Publishing, Inc. d/b/a Swank Dollar's ("HTTP") current policies and practices with regard to personal data collected by HTTP through this web site. This privacy policy does not apply to information-collected offline or in any other way. The term "personal data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that identifies you personally.**
 
-  * We use your IP address to help diagnose problems with our server, and to administer our Website. Our site may use cookies to deliver content specific to your interests, and for tracking. 
-  * DCUP.COM members who are billed via credit or debit card charges will be able to recognize the billing information by the creditor identification mark: HTTPPUB.COM.   
-Our site's registration form requires users to give us contact information (like their name and email address) and financial information (like their account or credit card numbers). 
-  * Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services. 
-  * Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is NOT shared with anyone outside of our company. 
-  * This site contains links to other sites. DCUP.COM is not responsible for the privacy practices or the content of such Websites. 
+**Your Consent.** By using this web site, you consent to our use of your personal data as described in this privacy policy.
 
+**Notification Of Changes To This Policy.** HTTP is continually improving and adding new functionality and features to this web site and improving and adding to its existing services and programs. Because of these ongoing changes, changes in the law and the changing nature of technology, HTTP's data practices will change from time to time. If and when our data practices change, HTTP will post the changes on this web site to notify you of the changes. We encourage you to check this page frequently.
 
+**Personal Data Collected Through This Web Site.** The only personal data HTTP currently collects through this web site is the information you give us when you use our site. This includes, for example, the information you provide when you register for, if applicable, a chat room, newsletter or other program or service or when you send us your comments or requests for information.
 
-SECURITY This site has high-level encryption and state-of-the-art security measures in place to protect the loss, misuse, and alteration of the information under our control.
+HTTP uses the information you provide for the purposes, for which it was originally collected, for example, to respond to your membership, product or billing-related concerns. HTTP also uses this information to help us improve the content and functionality of our web sites, to better understand the needs and interests of the people that use our web site, and to improve our programs and services. 
 
-CONTACTING THE WEB SITE If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us. Email cs@DCUP.COM
+Financial information that is collected is used to check the users' qualifications and to bill the user for products and services ordered. 
 
-Close This Window
+Contact information may also be used to convey promotional opportunities from our marketing partners or us. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from our marketing partners or us. If at any time you no longer wish to receive emails from our marketing partners or us please email us at [abuse@swanksupport.com](mailto:%20abuse@swanksupport.com).
 
-[**Return Back To Main Page**](https://web.archive.org/web/20050307000850id_/http%3A//www.dcup.com/index.html)
+Our marketing partners and we fully comply with the federal CAN-SPAM Act and as such all emails from us and our partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our partners without your consent. Please immediately report any emails you may receive, without your prior authorization that purports to promote our sites or services.
+
+HTTP may share the personal information you provide to us with consultants and other third parties who act for or on behalf of HTTP, for further processing or analysis. In addition, there may be some other, limited circumstances in which HTTP may share or transfer the personal information in its databases, for example, to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of our databases or this web site, to take precautions against legal liability, or in the event of a corporate merger, reorganization, dissolution or similar event.
+
+**Anonymous Data Collected Through HTTP Websites.** In addition to the information you provide when you use our web site, HTTP uses technology to collect anonymous information about the use of our web site. For example, we use technology to track how many visitors access our web site, the date and time of their visit, the length of their stay, and which pages they view. We also use technology to determine which web browsers our visitors use and the address from which they accessed our site.
+
+This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our site. HTTP uses this anonymous data and shares it with third parties for various reasons, for example, to improve the content and functionality of our web site, to better understand the needs and interests of our visitors, to improve our programs and services.
+
+**Cookies.** In order to collect the anonymous data described in the preceding paragraph, HTTP may use temporary "cookies" that collect the first level domain name of the user (for example, if your e-mail address is "name@xyz.com," the cookie collects the "xyz.com" portion of your e-mail address) and the date and time you accessed this Web site. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information that is sent to your browser and stored on your computer's hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. 
+
+Additionally, we use cookies to allow us to recognize you as a member, subscriber or prior visitor if you return to our website using the same computer and browser. We send a "session cookie" to your computer if and when you log in to your membership account by entering your e-mail address and password. These cookies allow us to recognize you if you visit multiple pages in our site during the same session, so that you don't need to re-enter your password multiple times. Once you log out or close your browser, these session cookies expire and no longer have any effect.
+
+We also may use longer-lasting cookies to display your e-mail address on our sign-in form, so that you don't have to retype the e-mail address each time when you log in to your membership account. In addition, we use cookies to process our referral program. Our cookie files are encoded so that your e-mail address and other information can only be interpreted by HTTP. We may, however, share cookie information regarding whether or not a certain user is already registered with HTTP with certain merchants, partners and third-parties with whom we have an official relationship.
+
+In order for certain applications on HTTP's websites to function properly, if at all, it is necessary for your computer to accept cookies.
+
+**Links to Other Sites.** This privacy policy applies only to this web site. This site contains many hyperlinks to web sites that are not operated by HTTP. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party web sites or any association with their operators. HTTP does not control these web sites and is not responsible for their data practices. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal data about yourself.
+
+Websites operated by HTTP may contain chat rooms, forums, message boards, and/or news groups. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+**Governing Law.** This privacy policy forms part of our web-site Terms and Conditions and as such shall be governed by and construed in accordance with the laws of the State of New Jersey.
+
+**Questions About Our Privacy Policy.** If you have any questions about this privacy policy or concerns about the way HTTP uses personal data, please contact us. 
