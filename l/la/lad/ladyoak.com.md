@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladyoak.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420141957id_/http%3A//ladyoak.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyoak.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217150909id_/http%3A//ladyoak.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
