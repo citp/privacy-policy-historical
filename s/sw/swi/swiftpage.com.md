@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604095059id_/http%3A//www.swiftpage.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063554id_/http%3A//www.swiftpage.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Email Marketing > Email Marketing Privacy Policy > Swiftpage
+# Privacy Policy - Swiftpage
 
 Swiftpage is dedicated to the privacy and rights of our customers. We do not sell or distribute any of the information collected from patrons of our service for profit or any other reason. For a detailed description of our practices, read our privacy policy below.
 
@@ -16,5 +16,4 @@ Swiftpage does not install cookies, or any other software on your computer.
 
 Swiftpage is dedicated to keeping your information secure. Each customer account is password-protected to ensure that only you have access to your information. Swiftpage will never contact you with unsolicited phone calls or emails asking for your password so do not divulge your contact information to anyone contacting you in this manner. While we do everything in our power to ensure your information is secure, no data transmission over the Internet can be guaranteed 100% safe from those wishing to unlawfully obtain it.
 
-You may also want to read our [No Spam Policy](https://web.archive.org/web/20080604095059id_/http%3A//www.swiftpage.com/SpamPolicy.htm).  
-
+You may also want to read our [No Spam Policy](https://web.archive.org/web/20081217063554id_/http%3A//www.swiftpage.com/SpamPolicy.htm).
