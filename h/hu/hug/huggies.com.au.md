@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huggies.com.au privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608121944id_/http%3A//huggies.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huggies.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217174035id_/http%3A//www.huggies.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - Huggies
 
@@ -81,7 +81,7 @@ Phone Australia: 1 800 028 334
 Fax Australia: +61 (0) 2 9963 8009  
 Phone New Zealand: 0 800 733 703
 
-E-mail: Please use our [Contact Us feedback form](https://web.archive.org/web/20080608121944id_/http%3A//huggies.com.au/AboutUs/ContactUs/).
+E-mail: Please use our [Contact Us feedback form](https://web.archive.org/web/20081217174035id_/http%3A//www.huggies.com.au/AboutUs/ContactUs/).
 
 ### What if our Privacy Policy Changes?
 
