@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formetocoupon.com privacy policy that was archived on 2008-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080326133843id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formetocoupon.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094533id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
