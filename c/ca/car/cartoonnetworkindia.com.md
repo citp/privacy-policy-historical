@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartoonnetworkindia.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516120317id_/http%3A//www.cartoonnetworkindia.com/jsp/help/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetworkindia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035808id_/http%3A//www.cartoonnetworkindia.com/parents/privacy.jsp) for the most accurate reproduction.*
 
-# Cartoon Network - Help
+# Cartoon Network | IN
 
 Cartoon Network is fully committed to providing a fun, entertaining and safe web site for people of all ages. Because we want our audience to feel comfortable exploring the content offered on _CartoonNetworkIndia.com_ , this Online Privacy Policy outlines and clarifies how we collect and use information online, our advertising policies and the safeguards we recommend to ensure a fun and safe web experience. As new technology and online standards evolve, we may modify these policies to better address your concerns. If you have any concerns or questions about this Online Privacy Policy, please email us at [parent.info@turner.com](mailto:parent.info@turner.com) or write to us at S-2 Level, Block F, International Trade Tower, Nehru Place, New Delhi 110019. 
 
