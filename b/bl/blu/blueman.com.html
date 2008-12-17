@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blueman.com privacy policy that was archived on 2008-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080528105300id_/http%3A//www.blueman.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blueman.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217090336id_/http%3A//www.blueman.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Blue Man Group :: Privacy Policy</title>
@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/sifr/sIFR-print.css" type="text/css" media="print" charset="utf-8">
 	<link rel="stylesheet" href="/sifr/sIFR-screen.css" type="text/css" media="screen" charset="utf-8">
+	<link rel="stylesheet" href="/css/community.css" type="text/css" media="screen, print, handlheld">
 	<script type="text/javascript" charset="utf-8" src="/sifr/sifr.js"></script>
 	<script type="text/javascript" charset="utf-8" src="/js/prototype.js"></script>
 	<script type="text/javascript" charset="utf-8" src="/js/scriptaculous.js?load=effects"></script>
@@ -18,6 +19,7 @@
 	<script type="text/javascript" charset="utf-8" src="/js/swfobject.js"></script>
 	<!--[if IE]>
 		<link rel="stylesheet" href="/css/ie.css" type="text/css" />
+		<link rel="stylesheet" href="/css/community-ie.css" type="text/css" />
 	<![endif]-->
 </head>
 
@@ -53,9 +55,11 @@
 	<li id="pri_store"><a href="http://bluemangroup.shop.musictoday.com">Online Store</a></li>
 </ul>
 
+	<!-- test -->
+<a href="http://www.blueman.com/land/weather/"><img src="/images/widgetButton.jpg"></a>
+
 <script type="text/javascript" charset="utf-8">
 	activePage('pri_privacy')
-	
 </script>
 		</div>
 
@@ -131,12 +135,144 @@ Blue Man Group uses state of the art software to protect the information we rece
 					<a href="/sitemap">Site Map</a> |
 					<a href="/privacy">Privacy Policy</a> |
 					<a href="/contact">Contact Us</a>				</p>
+				<p>
+					<strong><a href="http://www.bluemanaffiliates.com" target="_blank">Become an Affiliate</a></strong>
+				</p>
 			</div>
 		</div>
 
 		<div class="clear flat">&nbsp;</div>
 	</div>
 </div>
+
+<div id="popover">
+	<div class="pop-container">
+		<div class="close"><a href="#" onclick="review()"><img src="/img/reviews-popup-x.gif"></a></div>
+		<div id="pop-content">
+			<img src="/img/review-popup-headline.gif"><br>
+			<form action="/app/webroot/review.php" method="post" onsubmit="postReview();return false">
+				<div class="form">
+					<div class="form-row">
+						<div class="row-text">Where did you see the show?</div>
+						<div class="row-input nobkd" id="city-drop">
+							<select id="city" name="city">
+								<option value="new-york">New York</option>
+								<option value="boston">Boston</option>
+								<option value="chicago">Chicago</option>
+								<option value="las-vegas">Las Vegas</option>
+								<option value="orlando">Orlando</option>
+							</select>
+						</div>
+					</div>
+					<div class="form-row">
+						<div class="row-text">Give your review a title:</div>
+						<div class="row-input">
+							<input id="title" type="text" name="title">
+						</div>
+					</div>
+					<div class="form-row">
+						<div class="row-text star-text">Stars:</div>
+					</div>
+					<div class="stars">
+						<div class="star">
+							<a href="javascript:stars(1)"><img id="star1" src="/img/reviews-full_star.gif"></a>
+							Terrible
+						</div>
+						<div class="star">
+							<a href="javascript:stars(2)"><img id="star2" src="/img/reviews-full_star.gif"></a>
+							Okay, but some problems
+						</div>
+						<div class="star">
+							<a href="javascript:stars(3)"><img id="star3" src="/img/reviews-full_star.gif"></a>
+							Average
+						</div>
+						<div class="star">
+							<a href="javascript:stars(4)"><img id="star4" src="/img/reviews-full_star.gif"></a>
+							Above average
+						</div>
+						<div class="star">
+							<a href="javascript:stars(5)"><img id="star5" src="/img/reviews-full_star.gif"></a>
+							Excellent
+						</div>
+					</div>
+					<input type="hidden" name="stars" id="stars" value="5"><br>
+					<div class="form-row pad0050">
+						<div class="row-text">Review:</div>
+						<div class="row-textarea">
+							<textarea id="review" name="review"></textarea>
+						</div>
+					</div>
+					<div class="form-row" style="padding-top:9px">
+						<div class="row-text">Name:</div>
+						<div class="row-input">
+							<input id="name" type="text" name="name">
+						</div>
+					</div>
+					<div class="form-row pad0050">
+						<div class="row-text">Email:</div>
+						<div class="row-input">
+							<input id="email" type="text" name="email">
+						</div>
+					</div>
+					<div class="form-row pad0050">
+						<div class="row-text"></div>
+						<div class="row-input nobkd">
+							Please enter the following code into the box:
+							<img src="/inc/captcha.php">
+						</div>
+					</div>
+					<div class="form-row pad0050">
+						<div class="row-text"></div>
+						<div class="row-input">
+							<input id="security_code" name="security_code" type="text">
+						</div>
+					</div>
+					<div class="clear">&nbsp;</div>
+					<div class="form-row submit">
+						<div class="checkbox">
+							<input type="checkbox" value="1" name="agree" checked="checked"> Stay up to date with all things Blue Man
+						</div>
+						<input type="image" src="/img/reviews-popup-submit.gif" value="Submit" alt="Submit">
+					</div>
+					<div class="form-row submit">
+						NOTE: By submitting this review, your comments may be used by Blue Man Group for marketing and advertising purposes.
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<div id="dither">&nbsp;</div>
+<!--[if IE 6]>
+	<style type="text/css">
+		#popover {
+			left : 50% !important;
+			right : auto !important;
+			margin : 50px 0 0 -300px !important; 
+		}
+		#popover .form { width : 480px !important }
+		#popover .pop-container .close { top : 0 !important; }
+		#popover .form-row { padding : 2px 0 !important; }
+		#popover .row-text { width : 150px !important; }
+	</style>
+<![endif]-->
+
+<!--[if IE 7]>
+	<style type="text/css">
+		#popover {
+			left : 50% !important;
+			right : auto !important;
+			margin : 50px 0 0 -300px !important; 
+		}
+		#popover .form { width : 470px !important; }
+		#popover .form-row { padding : 2px 0 !important; }
+		#popover .row-text { width : 150px !important; }
+	</style>
+<![endif]-->
+
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/reviews.js"></script>
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
@@ -145,4 +281,4 @@ urchinTracker();
 </script>
 
 
-</body></html>
+<!-- 0.0689s --></body></html>
