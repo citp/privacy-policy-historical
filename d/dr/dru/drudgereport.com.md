@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the drudgereport.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511204858id_/http%3A//www.intermarkets.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drudgereport.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095521id_/http%3A//www.intermarkets.net/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy for Intermarkets, Inc.
+# Intermarkets privacy policy
 
-Your privacy is important to us, and we are committed to protecting the personal information you choose to share with us. We have adopted the following privacy policy for the collection and use of all information regarding Users and Subscribers, and their activities at our Publishers' Websites. This policy tells you what information we may gather from you, how we may use or disclose that information, and our efforts to protect it. In addition, our advertising services may be delivered through our own domain located at: [www.mercuras.com](http://www.mercuras.com/).  Please read this policy carefully, and feel free to contact us at info@intermarkets.net if you have any questions regarding its contents.
+Your privacy is important to us, and we are committed to protecting the personal information you choose to share with us. We have adopted the following privacy policy for the collection and use of all information regarding Users and Subscribers, and their activities at our Publishers' Websites. This policy tells you what information we may gather from you, how we may use or disclose that information, and our efforts to protect it. In addition, our advertising services may be delivered through our own domain located at: [www.mercuras.com](http://www.mercuras.com/).  Please read this policy carefully, and feel free to contact us at info@intermarkets.net if you have any questions regarding its contents. 
 
 Information We May Gather  
 Intermarkets may obtain the following types of non-personally identifiable information from users and subscribers:
@@ -53,5 +53,6 @@ For privacy policies for each of our publishers, please visit their sites. Links
 
 Intermarkets reserves the right to change this policy at any time by posting a revised privacy policy on this web page.
 
-If you have any questions regarding the privacy policy or dealings with this web site, please send an e-mail to [info@intermarkets.net.](mailto:info@intermarkets.net.)     
+If you have any questions regarding the privacy policy or dealings with this web site, please send an e-mail to [info@intermarkets.net.](mailto:info@intermarkets.net.)
+
 Revised September 2, 2005.
