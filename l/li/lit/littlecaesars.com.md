@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlecaesars.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516015244id_/http%3A//www.littlecaesars.com/includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlecaesars.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062613id_/http%3A//www.littlecaesars.com/includes/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Little Caesars Pizza
 
