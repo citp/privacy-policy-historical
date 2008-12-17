@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430071443id_/http%3A//www.kcchiefs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217121250id_/http%3A//www.kcchiefs.com/privacy) for the most accurate reproduction.*
 
 # Kansas City Chiefs - Privacy Policy
 
