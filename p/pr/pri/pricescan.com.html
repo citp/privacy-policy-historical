@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pricescan.com privacy policy that was archived on 2008-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080531160834id_/http%3A//www.pricescan.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pricescan.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217142735id_/http%3A//www.pricescan.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/tr/html4/loose.dtd"><html><head>
         <title>PriceSCAN Privacy Policy</title>
@@ -25,9 +25,8 @@
 	                </a>
                 </div>
 	                                <p id="PricescanHeaderTop">
-				        <a href="/toolbar/download.asp">Toolbar</a> | 
-				        <a href="/price-comparisons.html">Price Comparisons</a> | 
-				        <a href="/product-reviews.html">Product Reviews</a> | 
+				        <a href="/iphone/">iPhone / Mobile</a> | 
+				        <a rel="nofollow" href="/toolbar/download.asp">Toolbar</a> | 
 				        <a href="http://blog.pricescan.com" id="BlogLink">Blog</a> |
 				        <a href="/indices/pricescan_indices.html">Indices</a>
                     </p>
@@ -57,7 +56,101 @@
 				        </select>
 				    </div>
 		    </div>
-					                <form method="get" action="/xp_SearchResultsDispatch.ASP" class="SearchForm" onsubmit="if (this.Category.value == '') {window.alert ('Please select a category.'); return false;} if (this.SearchString.value == '') {window.alert ('Please enter a search phrase.'); return false;}">
+			<script language="javascript">
+<!--
+	function isValidUPC(upc) {
+		
+		sU = upc;
+		
+		// -debug- window.alert("The input UPC is:" + sU);
+		
+		// trip embedded hyphens and spaces
+		sU = sU.replace(/\s+/g,""); 
+		sU = sU.replace(/-+/g,""); 
+		// check that each character is a digit
+		strDigits = "0123456789";
+		for (idx=0; idx < sU.length; idx++) {
+			// -1 means that character was not found within the digits list
+			if (strDigits.indexOf(sU.charAt(idx)) == "-1") { 
+				window.alert("UPC code can contain only numbers");
+				return false;
+			}
+		}
+		// check that UPC code is at least 12 digits long
+		if (sU.length < 12) {
+			window.alert("UPC code must be at least twelve digits");
+			return false;
+		}
+		/*
+		// check that UPC code is at most 13 digits long
+		if (sU.length > 13) {
+			window.alert("UPC code must be at most thirteen digits");
+			return false;
+		}
+		*/
+		// run UPC check digit test
+		// first check case of 12 digit UPC
+		if (sU.length == 12) {
+			// read the digits
+			d1 = parseInt(sU.charAt(0));
+			d2 = parseInt(sU.charAt(1));
+			d3 = parseInt(sU.charAt(2));
+			d4 = parseInt(sU.charAt(3));
+			d5 = parseInt(sU.charAt(4));
+			d6 = parseInt(sU.charAt(5));
+			d7 = parseInt(sU.charAt(6));
+			d8 = parseInt(sU.charAt(7));
+			d9 = parseInt(sU.charAt(8));
+			d10 = parseInt(sU.charAt(9));
+			d11 = parseInt(sU.charAt(10));
+			d12 = parseInt(sU.charAt(11));
+			sums = (d1 + d3 + d5 + d7 + d9 + d11) * 3;
+			sums = sums + (d2 + d4 + d6 + d8 + d10);
+			if ( ((10 - sums % 10) % 10) != d12 ) {
+				// -debug- window.alert("sums: " + sums);
+				window.alert("This is not a valid UPC code.  Please try again.");
+				return false;
+			}
+		}
+		else {
+			// read the digits
+			d1 = parseInt(sU.charAt(0));
+			d2 = parseInt(sU.charAt(1));
+			d3 = parseInt(sU.charAt(2));
+			d4 = parseInt(sU.charAt(3));
+			d5 = parseInt(sU.charAt(4));
+			d6 = parseInt(sU.charAt(5));
+			d7 = parseInt(sU.charAt(6));
+			d8 = parseInt(sU.charAt(7));
+			d9 = parseInt(sU.charAt(8));
+			d10 = parseInt(sU.charAt(9));
+			d11 = parseInt(sU.charAt(10));
+			d12 = parseInt(sU.charAt(11));
+			d13 = parseInt(sU.charAt(12));
+			// check if first 12 digits of UPC code pass the test
+			sums = (d1 + d3 + d5 + d7 + d9 + d11) * 3;
+			sums = sums + (d2 + d4 + d6 + d8 + d10);
+			if ( (10 - sums % 10) != d12 ) {
+				// check if the first 13 digits of the UPC code pass the test
+				sums = (0 + d1 + d3 + d5 + d7 + d9 + d11);
+				sums = sums + (d2 + d4 + d6 + d8 + d10 + d12)*3;
+				if ( ((10 - sums % 10) % 10) != d13 ) {
+					// -debug- window.alert("sums: " + sums);
+					window.alert("This is not a valid UPC code.  Please try again.");
+					return false;
+				}
+			}
+		}
+		
+		// -debug- window.alert("The final UPC is:" + sU);
+		return true;
+		
+	} 
+//-->
+</script>
+
+
+		                <form method="get" action="/xp_SearchResultsDispatch.ASP" class="SearchForm" onsubmit="if (this.Category.value == '') {window.alert ('Please select a category.'); return false;} if (this.SearchString.value == '') {window.alert ('Please enter a search phrase.'); return false;} if (this.Category.value == 'upc') { return isValidUPC(this.SearchString.value);}">
 		                    Shop for
 	                        <input type="text" name="SearchString" size="35" maxlength="256" value="">
 	                        in
@@ -80,8 +173,12 @@
 		                        <option value="watches">Watches</option>
 		                        <option value="">--------------------</option>
 		                        <option value="reviews">Reviews</option>
+		                        <option value="">--------------------</option>
+		                        <option value="mfgitemno">Manufacturer Item Number</option>
+		                        <option value="upc">UPC Code</option>
+		                        <option value="isbn">ISBN</option>
 	                        </select>
-	                        <input type="hidden" name="SearchType" value="any">
+	                        <input type="hidden" name="SearchType" value="all">
 	                        <input type="submit" value="Search">
 		                </form><br>
             <table border="0" width="750" cellpadding="0" cellspacing="0">
@@ -184,7 +281,101 @@
 				<tbody><tr><td><img src="/images/space.gif" height="15" alt=""></td></tr>
 				<tr>
 					<td>
-            					                <form method="get" action="/xp_SearchResultsDispatch.ASP" class="SearchForm" onsubmit="if (this.Category.value == '') {window.alert ('Please select a category.'); return false;} if (this.SearchString.value == '') {window.alert ('Please enter a search phrase.'); return false;}">
+            			<script language="javascript">
+<!--
+	function isValidUPC(upc) {
+		
+		sU = upc;
+		
+		// -debug- window.alert("The input UPC is:" + sU);
+		
+		// trip embedded hyphens and spaces
+		sU = sU.replace(/\s+/g,""); 
+		sU = sU.replace(/-+/g,""); 
+		// check that each character is a digit
+		strDigits = "0123456789";
+		for (idx=0; idx < sU.length; idx++) {
+			// -1 means that character was not found within the digits list
+			if (strDigits.indexOf(sU.charAt(idx)) == "-1") { 
+				window.alert("UPC code can contain only numbers");
+				return false;
+			}
+		}
+		// check that UPC code is at least 12 digits long
+		if (sU.length < 12) {
+			window.alert("UPC code must be at least twelve digits");
+			return false;
+		}
+		/*
+		// check that UPC code is at most 13 digits long
+		if (sU.length > 13) {
+			window.alert("UPC code must be at most thirteen digits");
+			return false;
+		}
+		*/
+		// run UPC check digit test
+		// first check case of 12 digit UPC
+		if (sU.length == 12) {
+			// read the digits
+			d1 = parseInt(sU.charAt(0));
+			d2 = parseInt(sU.charAt(1));
+			d3 = parseInt(sU.charAt(2));
+			d4 = parseInt(sU.charAt(3));
+			d5 = parseInt(sU.charAt(4));
+			d6 = parseInt(sU.charAt(5));
+			d7 = parseInt(sU.charAt(6));
+			d8 = parseInt(sU.charAt(7));
+			d9 = parseInt(sU.charAt(8));
+			d10 = parseInt(sU.charAt(9));
+			d11 = parseInt(sU.charAt(10));
+			d12 = parseInt(sU.charAt(11));
+			sums = (d1 + d3 + d5 + d7 + d9 + d11) * 3;
+			sums = sums + (d2 + d4 + d6 + d8 + d10);
+			if ( ((10 - sums % 10) % 10) != d12 ) {
+				// -debug- window.alert("sums: " + sums);
+				window.alert("This is not a valid UPC code.  Please try again.");
+				return false;
+			}
+		}
+		else {
+			// read the digits
+			d1 = parseInt(sU.charAt(0));
+			d2 = parseInt(sU.charAt(1));
+			d3 = parseInt(sU.charAt(2));
+			d4 = parseInt(sU.charAt(3));
+			d5 = parseInt(sU.charAt(4));
+			d6 = parseInt(sU.charAt(5));
+			d7 = parseInt(sU.charAt(6));
+			d8 = parseInt(sU.charAt(7));
+			d9 = parseInt(sU.charAt(8));
+			d10 = parseInt(sU.charAt(9));
+			d11 = parseInt(sU.charAt(10));
+			d12 = parseInt(sU.charAt(11));
+			d13 = parseInt(sU.charAt(12));
+			// check if first 12 digits of UPC code pass the test
+			sums = (d1 + d3 + d5 + d7 + d9 + d11) * 3;
+			sums = sums + (d2 + d4 + d6 + d8 + d10);
+			if ( (10 - sums % 10) != d12 ) {
+				// check if the first 13 digits of the UPC code pass the test
+				sums = (0 + d1 + d3 + d5 + d7 + d9 + d11);
+				sums = sums + (d2 + d4 + d6 + d8 + d10 + d12)*3;
+				if ( ((10 - sums % 10) % 10) != d13 ) {
+					// -debug- window.alert("sums: " + sums);
+					window.alert("This is not a valid UPC code.  Please try again.");
+					return false;
+				}
+			}
+		}
+		
+		// -debug- window.alert("The final UPC is:" + sU);
+		return true;
+		
+	} 
+//-->
+</script>
+
+
+		                <form method="get" action="/xp_SearchResultsDispatch.ASP" class="SearchForm" onsubmit="if (this.Category.value == '') {window.alert ('Please select a category.'); return false;} if (this.SearchString.value == '') {window.alert ('Please enter a search phrase.'); return false;} if (this.Category.value == 'upc') { return isValidUPC(this.SearchString.value);}">
 		                    Shop for
 	                        <input type="text" name="SearchString" size="35" maxlength="256" value="">
 	                        in
@@ -207,13 +398,17 @@
 		                        <option value="watches">Watches</option>
 		                        <option value="">--------------------</option>
 		                        <option value="reviews">Reviews</option>
+		                        <option value="">--------------------</option>
+		                        <option value="mfgitemno">Manufacturer Item Number</option>
+		                        <option value="upc">UPC Code</option>
+		                        <option value="isbn">ISBN</option>
 	                        </select>
-	                        <input type="hidden" name="SearchType" value="any">
+	                        <input type="hidden" name="SearchType" value="all">
 	                        <input type="submit" value="Search">
 		                </form>
 						<table style="text-align: left; background-color: #3d47a0; width: 750px; border: none;" cellpadding="3" cellspacing="0">
 							<tbody><tr>
-								<td><a href="http://www.pricescan.com"><img src="/images/ps_eye.gif" width="100" height="70" alt="PriceSCAN Logo"></a></td>
+								<td><a href="http://www.pricescan.com"><img src="/images/ps_eye.gif" width="100" height="70" alt="Compare Prices, View Price Trends and Read Reviews at PriceSCAN"></a></td>
 								<td>
 										<div style="margin-bottom: 4px;"><a class="FooterLink" href="/indices/pricescan_indices.aspx">PRICESCAN INDICES</a></div>
 	
@@ -261,8 +456,9 @@
 							<a href="/faq.asp">FAQ</a> | 
 							<a href="/privacy.asp">PRIVACY POLICY</a> | 
 							<a href="/in-the-news.html">IN THE NEWS</a> | 
-							<a href="/affiliate-program.html">AFFILIATE PROGRAM</a> |
-							<a href="/jobs.asp">JOBS</a>
+    		                <a href="/press-release">PRESS RELEASES</a> |
+							<a href="/jobs.asp">JOBS</a> |
+							<a href="/affiliate-program.html">AFFILIATE PROGRAM</a>
 							 | <a href="/index.asp">INDEX</a>
 						    <br>
                             <br>
@@ -272,7 +468,7 @@
 					</td>
 					<td style="width: 125px; text-align: right;">
 	                    <div style="text-align:right;">
-		                    <a href="/toolbar/download.asp"><img src="/images/toolbar.gif" width="125" height="60" alt="Download the PriceSCAN Toolbar"></a>
+		                    <a rel="nofollow" href="/toolbar/download.asp"><img src="/images/toolbar.gif" width="125" height="60" alt="Download the PriceSCAN Toolbar"></a>
 	                    </div>
 					</td>
 				</tr>
