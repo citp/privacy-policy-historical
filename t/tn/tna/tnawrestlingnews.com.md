@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnawrestlingnews.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527163841id_/http%3A//www.tnawrestlingnews.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnawrestlingnews.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143742id_/http%3A//www.tnawrestlingnews.com/privacy.shtml) for the most accurate reproduction.*
 
 # TNAWrestlingNews.com - Backstage TNA News, Rumors, & Spoilers!
 
@@ -39,4 +39,4 @@ This site gives users the following options for changing and modifying informati
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [TNA Wrestling News Staff.](mailto:tnawrestlingnews@yahoo.com)
 
-This page has been viewed 256 times. 
+This page has been viewed 340 times. 
