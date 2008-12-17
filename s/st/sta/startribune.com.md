@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603082103id_/http%3A//www.startribune.com/help/11484516.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065901id_/http%3A//www.startribune.com/help/11484516.html) for the most accurate reproduction.*
 
 # Privacy policy for StarTribune.com
 
