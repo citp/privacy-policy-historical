@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiainfo.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218152440id_/http%3A//www.indiainfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiainfo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143443id_/http%3A//www.indiainfo.com/privacy.html) for the most accurate reproduction.*
 
 # Indiainfo: Privacy Policy
 
