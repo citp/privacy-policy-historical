@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangirl.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519232841id_/http%3A//store.americangirl.com/static/popups/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangirl.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110111id_/http%3A//store.americangirl.com/static/popups/privacyPolicy.html) for the most accurate reproduction.*
 
 # American Girl - Privacy Policy
 
