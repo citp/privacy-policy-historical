@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430000406id_/http%3A//www.dealsea.com./exec/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021136id_/http%3A//www.dealsea.com/exec/s/privacy) for the most accurate reproduction.*
 
 # Dealsea.com: Online Coupons Dell, Amazon, Staples, Overstock
 
