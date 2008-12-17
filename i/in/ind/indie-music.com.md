@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indie-music.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513021944id_/http%3A//www.indie-music.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indie-music.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217144331id_/http%3A//www.indie-music.com/privacy.php) for the most accurate reproduction.*
 
 # Indie-Music.com
 
@@ -113,5 +113,9 @@ And snail mail it to:
 
 Indie-Music.com  
 ATTN: COPYRIGHT  
-3250 Hillcrest Dr.  
-Columbus, IN 47203
+PO Box 78036  
+Indianapolis, IN 46278
+
+For more details on the information required for valid notification, see 17 U.S.C. 512(c)(3). 
+
+You should be aware that, under the DCMA, claimants who make misrepresentations concerning copyright infringement may be liable for damages incurred as a result of the removal or blocking of the material, court costs, and attorneys fees. 
