@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cavsi.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609195550id_/http%3A//www.cavsi.com/english/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cavsi.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217154127id_/http%3A//www.cavsi.com/english/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # CAVSI, Email Privacy Policy
 
@@ -38,14 +38,14 @@ This website may contain links to other sites, such as commercial ads located in
 
 **Changes to this policy**
 
-CAVSI may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at [www.cavsi.com/english/PrivacyPolicy.html](https://web.archive.org/web/20080609195550id_/http%3A//www.cavsi.com/english/PrivacyPolicy.html)
+CAVSI may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at [www.cavsi.com/english/PrivacyPolicy.html](https://web.archive.org/web/20081217154127id_/http%3A//www.cavsi.com/english/PrivacyPolicy.html)
 
 **Questions Regarding Privacy**
 
-If you have further questions or concerns relating to this site's privacy practices, please email [PrivacyQuestions@promo.cavsi.com](mailto:PrivacyQuestions@promo.cavsi.com), feel free to contact us through this web site, call us at **407-803-1229** / **516-216-4666** , or write us at:
+If you have further questions or concerns relating to this site's privacy practices, please email [PrivacyQuestions@promo.cavsi.com](mailto:PrivacyQuestions@promo.cavsi.com), feel free to contact us through this web site, call us at **305-407-8472** / **407-803-1229** , or write us at:
 
 **CAVSI  
-1117 Aragon Av   
-Winter Park   
-Florida, 32789   
+1825 W 44th Place   
+Hialeah   
+Florida, 33012   
 USA**
