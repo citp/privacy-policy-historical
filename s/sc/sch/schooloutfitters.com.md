@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooloutfitters.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609011850id_/http%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooloutfitters.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217230747id_/https%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy at School Outfitters
 
@@ -22,17 +22,18 @@ School Outfitters is a leading retailer of school furniture and equipment, with 
 
 We might also collect and store any other information you choose to provide.
 
-**You may change your information at any time** by clicking the [View Account](https://www.schooloutfitters.com/catalog/account.php) link at the top of our site, signing in and clicking "Edit Account." We’ll also be happy to change this information for you or remove you from our records if you call Customer Service at 866-619-1776. Or write us at Customer Service, School Outfitters, PO Box 141231, Cincinnati, OH 45250. 
+**You may change your information at any time** by clicking the [View Account](https://www.schooloutfitters.com/catalog/account.php) link at the top of our site, signing in and clicking "Edit Account." We'll also be happy to change this information for you or remove you from our records if you call Customer Service at 866-619-1776. Or write us at Customer Service, School Outfitters, PO Box 141231, Cincinnati, OH 45250. 
 
 **Automatically collected information** \- To help make shopping at School Outfitters easier, our site automatically collects data about how you use it (which pages you visit, how long you stay, what you buy, etc.). Like many other shopping sites, we gather this information using "cookies." 
 
-A cookie is a small file that our web server sends to your PC when you visit our website. It is stored as a text file on your hard drive so we can access it when you visit us again. Cookies contain information that identifies you to our web site, so you don’t have to reenter the information. This helps us personalize your shopping experience and gives you easy access to your online shopping account. To ensure your privacy, we only access cookies our server places on your PC. Some of our business partners (e.g., LivePerson) also employ cookies on our site. We do not have access to or control over these third-party cookies. 
+A cookie is a small file that our web server sends to your PC when you visit our website. It is stored as a text file on your hard drive so we can access it when you visit us again. Cookies contain information that identifies you to our web site, so you don't have to reenter the information. This helps us personalize your shopping experience and gives you easy access to your online shopping account. To ensure your privacy, we only access cookies our server places on your PC. Some of our business partners (e.g., LivePerson) also employ cookies on our site. We do not have access to or control over these third-party cookies. 
 
 Cookies allow us to optimize your School Outfitters shopping experience, so we suggest that you leave them turned on. However, if you are uncomfortable doing so, the "help" menu on your browser should tell you how to manage or disable cookies. 
 
 ## Information Sharing
 
   * We do not sell any customer information or share it with anyone who would use it to market to you. Of course, we do share your shipping information with our product suppliers and shipping companies to facilitate the delivery of your orders.
+
   * With your permission, our website also shares web use information with web analytics companies that provide support services to us and need the information to do so. We do not authorize these companies to use your information for any other purpose.
 
 
@@ -59,7 +60,7 @@ We use 128-bit Secure Sockets Layering (SSL) to encrypt your credit card informa
 
 School Outfitters is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.SchoolOutfitters.com. To demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Jalena at 866-619-1776. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Betsy at 866-619-1776. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 ## Changes to our policy
 
