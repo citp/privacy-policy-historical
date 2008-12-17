@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615225807id_/http%3A//www.flinders.edu.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217134345id_/http%3A//www.flinders.edu.au/privacy.cfm) for the most accurate reproduction.*
 
-# Flinders University: Privacy
+# Privacy - Flinders University
 
 Flinders University has a firm commitment to privacy in accordance with the Guidelines for Federal and ACT Government World Wide Websites issued by the [Australian Privacy Commissioner](http://www.privacy.com.au/). This statement discloses our information gathering and dissemination practices for this site. 
 
