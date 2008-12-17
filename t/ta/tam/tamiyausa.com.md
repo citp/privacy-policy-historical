@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414212411id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217091808id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
 
 # TamiyaUSA.com Privacy Statement
 
@@ -6,8 +6,17 @@
 ---  
   
 ---  
-| 4/1 [Builders Showcase #31](https://web.archive.org/articles/feature.php?article-id=348) |   
-| 3/4 [Builders Showcase #30 Winner](https://web.archive.org/articles/feature.php?article-id=347) |   
+| 12/12 [Winter Monster Bash 7 1/3 - 1/4/09 Bradenville, PA.](http://www.rcmt.biz/bd/showthread.php?t=9392) |   
+| 12/8 [TA-05 to a TA-05IFS](https://web.archive.org/articles/feature.php?article-id=384) |   
+| 12/5 [Builders Showcase #39](https://web.archive.org/articles/feature.php?article-id=383) |   
+| 12/3 [New Wallpapers](https://web.archive.org/product/stuff.php) |   
+| 12/1 [David Jun Wins The GrandPrix](https://web.archive.org/articles/feature.php?article-id=381) |   
+| 11/27 [Holiday Savings!!!](http://www.tamiyausa.com/newsletters/11-27-08.html) |   
+| 11/26 [December Calendars!](https://web.archive.org/product/stuff.php) |   
+| 11/24 [Building the Tundra](https://web.archive.org/articles/feature.php?article-id=378) |   
+| 11/24 [Ryan Lutz wears stars!](https://web.archive.org/articles/feature.php?article-id=380) |   
+| 11/22 [TCS 2009 Schedule posted & Rules Update](http://www.tamiyausa.com/tcs/index.php) |   
+| 11/4 [New Tamiya RC catalog](https://www.tamiyausa.com/product/item.php?product-id=64344) |   
 [More News...](https://web.archive.org/news/index.php) |   
 |  |   
 ---|---  
