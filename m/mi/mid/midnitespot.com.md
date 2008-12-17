@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midnitespot.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609195343id_/http%3A//www.midnitespot.com/main.php%3Fpage%3Dprivate.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midnitespot.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105556id_/http%3A//www.midnitespot.com/main.php%3Fpage%3Dprivate.php) for the most accurate reproduction.*
 
 # Mid Nite Spot ™ - The Nite Does Not Have To End
 
