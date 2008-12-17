@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512152708id_/http%3A//davidsbridal.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040522id_/http%3A//www.davidsbridal.com/privacy.jsp) for the most accurate reproduction.*
 
 # David's Bridal | Privacy Policy
 
@@ -66,6 +66,13 @@ Information from Other Sources: For reasons such as improving personalization of
 **Law Enforcement:** We also reserve the right to share personal information about you as required by law or in cooperation with legal authorities and to enforce the General Terms and Conditions of Use of this site or to protect the rights, property, or safety of David's Bridal and its customers. 
 
 **Business Transfers:** As we continue to develop our business, we might purchase or sell our business or assets and, in such transactions, the transferred business assets may include personal information of our customers. 
+
+* * *
+
+  
+**Coremetrics**
+
+We have carefully selected a company, Coremetrics, that will assist us in better understanding your use of our site. Coremetrics will place cookies on your computer to collect information on our behalf that will educate us on such things as search engine referral, how you navigate around our site, unique visitor identification, and product browsing and purchasing information. David's Bridal does not allow Coremetrics to collect credit card, username or password information. Coremetrics analyzes the information it collects on our behalf and returns it to David's Bridal through a secure web connection. The information and analysis will be used to assist us in better understanding your use of our web site and how to better serve you. Coremetrics is contractually prohibited from using our data for any other purposes and is required to maintain all information collected and the analysis in strictest confidence. As a visitor to the David's Bridal site, you may choose to continue to benefit from the improved shopping experience which the Coremetrics analysis allows us to provide to you, but maintain your anonymity. You also have the option to deactivate the ability of Coremetrics to analyze your browsing and purchasing behavior on our site. To learn more about the various levels of privacy and confidentiality you can select with respect to Coremetrics and to exercise your choice, [click here](https://web.archive.org/privacy_optout.jsp). 
 
 * * *
 
