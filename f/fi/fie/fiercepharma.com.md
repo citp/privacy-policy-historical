@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiercepharma.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620132210id_/http%3A//www.fiercepharma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiercepharma.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217160458id_/http%3A//www.fiercepharma.com/privacy) for the most accurate reproduction.*
 
 # FierceMarkets Privacy Policy
 
