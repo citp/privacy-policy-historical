@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heels.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517095902id_/http%3A//www.heels.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heels.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114339id_/http%3A//www.heels.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Help zone :: heels.com
 
@@ -16,8 +16,8 @@ If you have any question concerning our policy please contact us at
 [support@heels.com](mailto:support@heels.com)
 
 **Heels.com**  
-4508 E. Independence Blvd #214  
-Charlotte, NC 28205  
+801 N Tryon St  
+Charlotte, NC 28206  
 (866) 33-HEELS 
 
 |   
