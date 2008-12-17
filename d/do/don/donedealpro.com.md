@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donedealpro.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509163322id_/http%3A//www.donedealpro.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donedealpro.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092442id_/http%3A//www.donedealpro.com/privacy.aspx) for the most accurate reproduction.*
 
 # Done Deal Pro
 
