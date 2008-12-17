@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609222239id_/http%3A//www.xxlmag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040217id_/http%3A//www.xxlmag.com/privacy.php) for the most accurate reproduction.*
 
-# XXLmag.com | Hip-Hop On A Higher Level | Contests
+# XXLmag.com - Privacy Policy
 
 [« BACK TO HOME PAGE](http://www.xxlmag.com/)
 
@@ -61,3 +61,6 @@ Questions regarding this statement or the privacy policies or procedures of this
 
 **Effective Date**  
 This Privacy Policy is effective and was last updated on Sep 1, 2007.
+
+  
+
