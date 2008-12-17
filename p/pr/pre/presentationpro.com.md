@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the presentationpro.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409105643id_/http%3A//www.presentationpro.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentationpro.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081814id_/http%3A//www.presentationpro.com/t-privacy.aspx) for the most accurate reproduction.*
 
-# PresentationPro - The PowerPoint Experts
+# PresentationPro Privacy Statement
 
 Privacy Statement 
 
@@ -18,5 +18,5 @@ This privacy statement applies solely to information collected by the Site. The 
 
 PresentationPro uses industry-standard technologies when transferring and receiving consumer data exchanged with our site to help ensure its security. Refer to the PresentationPro Security statement for additional information.
 
-Questions regarding this Statement or the practices of this Site should be directed to PresentationPro's Privacy Administrator by e-mailing such questions to support@presentationpro.com  
+Questions regarding this Statement or the practices of this Site should be directed to PresentationPro's Privacy Administrator by e-mailing such questions to [support@presentationpro.com](mailto:support@presentationpro.com)  
 
