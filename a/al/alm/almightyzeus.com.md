@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almightyzeus.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612033314id_/http%3A//www.almightyzeus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almightyzeus.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217132129id_/http%3A//www.almightyzeus.com/privacy.php) for the most accurate reproduction.*
 
 # AlmightyZeus :: Privacy Policy
 
@@ -54,6 +54,4 @@ Third Parties' Practices
 
   This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that AlmightyZeus does not own or control, or does not employ or manage. 
 
-**Public Videos:** 232 |  **Private Videos:** 0 |  **Watched Videos:** 11.819.192 |  **Members:** 2424 |  **Online:** 470 guests, 0 members 
-
-Copyright © 2006-2007 [AlmightyZeus](http://www.almightyzeus.com/). All rights reserved. | Page created in 0.0894 seconds.
+Copyright © 2006-2007 [AlmightyZeus](http://www.almightyzeus.com/). All rights reserved. | Page created in 0.0255 seconds.
