@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620020708id_/http%3A//www.diet.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082351id_/http%3A//www.diet.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ Go back to the top
   
 Email Choice/Opt-out  
   
-Users who do not wish to receive Diet.com news, tips and newsletters may choose not to type by opting out using the "unsubscribe" link at the bottom of these communications or by writing to [DietCare@Diet.com](mailto:DietCare@Diet.com).  
+Users who do not wish to receive Diet.com news, tips and newsletters may choose not to type by opting out using the "unsubscribe" link at the bottom of these communications or by writing to [membersupport08 [at] diet [dot] com](mailto:membersupport08@Diet.com).  
   
   
 Go back to the top  
