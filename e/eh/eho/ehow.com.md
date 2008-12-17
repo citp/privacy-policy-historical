@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620112007id_/http%3A//www.ehow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071034id_/http%3A//www.ehow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | eHow.com
 
@@ -6,9 +6,11 @@
 
 This Privacy and Information Security Policy ("Privacy Policy" or "this Policy") discusses the personally identifying information ("PII" or "Information") that we collect about you when you use the services we provide at <http://www.ehow.com/>.
 
-**Who We Are. We are eHow, Inc** ( **"eHow," "eHow.com," " "Site," "we," "us,"** or **"our"** ). eHow.com is a popular place to find clear instructions on how to do a great variety of things. Visitors to the Site have access to thousands of articles on a variety of subjects. eHow also offers individuals with the opportunity to post content and to share their ideas with others. In the context of pursuing that business, as further described below, we collect various information, including PII, from and about the individuals who either contribute Content to or visit our Site.
+**Who We Are. We are eHow, Inc** ( **"eHow," "eHow.com," " "Site," "we," "us,"** or **"our"** ).  
+eHow.com is a popular place to find clear instructions on how to do a great variety of things. Visitors to the Site have access to thousands of articles on a variety of subjects. eHow also offers individuals with the opportunity to post content and to share their ideas with others. In the context of pursuing that business, as further described below, we collect various information, including PII, from and about the individuals who either contribute Content to or visit our Site. 
 
-**How does this Policy relate to my use of the Site?** This Policy is part of and incorporated into our Terms of Use, the contract between you and us that governs this Site. That means provisions of those terms impact this Policy, so if you have not read the [Terms of Use](https://web.archive.org/terms_use.aspx), read them now by clicking on the link. All capitalized terms below that are not defined herein shall have the meanings ascribed to them in the Terms, and all other terms defined therein are incorporated herein by reference.
+**How does this Policy relate to my use of the Site?**  
+[](http://www.bbbonline.org/cks.asp?id=1116000369 "BBBOnLine's trustmark") This Policy is part of and incorporated into our Terms of Use, the contract between you and us that governs this Site. That means provisions of those terms impact this Policy, so if you have not read the [Terms of Use](https://web.archive.org/terms_use.aspx), read them now by clicking on the link. All capitalized terms below that are not defined herein shall have the meanings ascribed to them in the Terms, and all other terms defined therein are incorporated herein by reference. 
 
 **YOUR AGREEMENT WITH US. BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING OUR SITE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED HEREIN. AND THE TERMS OF USE.**
 
