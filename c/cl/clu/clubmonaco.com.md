@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625095747id_/http%3A//www.clubmonaco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065513id_/http%3A//www.clubmonaco.com/privacy) for the most accurate reproduction.*
 
 # Club Monaco Privacy Policy
 
@@ -86,7 +86,7 @@ If you prefer not to receive marketing emails from clubmonaco.com, please click 
 
 Please note that such requests may take up to ten (10) days to become effective. 
 
-If you do not wish to have Personal Information collected in our Stores shared with third-party organizations, you can have your name placed on a "do-not-share" list (in which case, such Personal Information will not be shared with third parties) by sending a request to Brooke K. Travis, Senior Manager of Global Creative Marketing, Club Monaco Inc., 601 West 26th Street, 8th Floor, New York, NY 10001.
+If you do not wish to have Personal Information collected in our Stores shared with third-party organizations, you can have your name placed on a "do-not-share" list (in which case, such Personal Information will not be shared with third parties) by sending a request to Marketing Department, Club Monaco Inc., 601 West 26th Street, 8th Floor, New York, NY 10001.
 
 **Children and Privacy**
 
