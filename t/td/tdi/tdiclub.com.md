@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdiclub.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608064812id_/http%3A//www.tdiclub.com/Disclaimer/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdiclub.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217072457id_/http%3A//www.tdiclub.com/Disclaimer/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -19,4 +19,6 @@ TDIClub (TDIClub Online Ltd.) is committed to protecting the privacy of individu
 
 If you have any questions or concerns with respect to this privacy statement, please send an email through [contact us](http://www.tdiclub.com/email). 
 
-TDIClub reserves the right to change this privacy statement at any time. Such changes will be posted on this page. 
+TDIClub reserves the right to change this privacy statement at any time. Such changes will be posted on this page.
+
+Last update: May 29, 2007 
