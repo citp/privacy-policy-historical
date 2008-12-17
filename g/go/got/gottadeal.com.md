@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612155907id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110734id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GottaDeal.com
 
@@ -60,15 +60,12 @@ Should you have other questions or concerns about these privacy policies, please
 
 [](http://forums.gottadeal.com/ "Visit the GottaDeal.com Forums")
 
-**161,339** Members  
- **99,884** Threads  
- **1,195,294** Posts  
- **352** Users Online
+**170,000+** Members  
+ **100,000+** Threads  
+ **1,200,000+** Posts
 
 [ **Enter the Forums**](http://forums.gottadeal.com/)
 
-[](http://forums.gottadeal.com/showthread.php?t=106091 "Win Great Prizes") We're giving away a TomTom GPS, Sony PS2 and $75 gift certificate!   
-[Find out how to win!](http://forums.gottadeal.com/showthread.php?t=106091) [](http://www.gottadeal.com/DailyDealUpdate "Subscribe to Daily Deal Update") Get the latest deals   
-e-mailed to you daily! [Click here](http://www.gottadeal.com/DailyDealUpdate) to sign up!  [](http://www.gottadeal.mobi/ "Visit GottaDeal.mobi") Browse the site on your mobile device. Check out our new [mobile version](http://www.gottadeal.mobi/).  [](http://www.bettercreditcard.com/ "Visit BetterCreditCard.com") Check out this [new list](http://www.bettercreditcard.com/) of our highly recommended "hot deal-friendly" cards.  [](http://digg.com/submit?phase=2&url=http://www.gottadeal.com&title=GottaDeal.com "Digg") [](http://del.icio.us/post?v=4&noui&jump=close&url=http://www.gottadeal.com&title=GottaDeal.com "del.icio.us") [](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http://www.gottadeal.com&title=GottaDeal.com "Google") [](http://www.stumbleupon.com/submit?url=http://www.gottadeal.com&title=GottaDeal.com "StumbleUpon") [](http://myweb.yahoo.com/myresults/bookmarklet?t=GottaDeal.com&u=http://www.gottadeal.com&ei=UTF "Yahoo!") [](https://favorites.live.com/quickadd.aspx?marklet=17&mkt=en-us&top=0&url=http://www.gottadeal.com&title=GottaDeal.com "Microsoft Live")  
-[](http://slashdot.org/bookmark.pl?url=http://www.gottadeal.com&title=GottaDeal.com "Slashdot") [](http://cgi.fark.com/cgi/fark/submit.pl?new_url=http://www.gottadeal.com&title=GottaDeal.com "Fark") [](http://blogmarks.net/my/new.php?mini=1&simple=1&url=http://www.gottadeal.com&title=GottaDeal.com "Blogmarks") [](http://technorati.com/faves/?add=http://www.gottadeal.com&title=GottaDeal.com "Technorati") [](http://www.netscape.com/submit/?U=http://www.gottadeal.com&T=GottaDeal.com "Netscape") [](http://www.facebook.com/share.php?u=http://www.gottadeal.com&t=GottaDeal.com "Facebook")  
+[](http://www.gottadeal.com/DailyDealUpdate "Subscribe to Daily Deal Update") Get the latest deals   
+e-mailed to you daily! [Click here](http://www.gottadeal.com/DailyDealUpdate) to sign up!  [](http://www.gottadeal.mobi/ "Visit GottaDeal.mobi") Browse the site on your mobile device. Check out our new [mobile version](http://www.gottadeal.mobi/).  [](http://www.bettercreditcard.com/ "Visit BetterCreditCard.com") Check out this [new list](http://www.bettercreditcard.com/) of our highly recommended "hot deal-friendly" cards.   
 ---|---|---|---|---
