@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchesterairport.co.uk privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611052940id_/http%3A//www.manchesterairport.co.uk/manweb.nsf/Content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchesterairport.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063126id_/http%3A//www.manchesterairport.co.uk/manweb.nsf/Content/PrivacyPolicy) for the most accurate reproduction.*
 
 # Manchester Airport : Privacy Policy
 
