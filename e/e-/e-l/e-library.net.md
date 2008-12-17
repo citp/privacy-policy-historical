@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-library.net privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630063020id_/http%3A//e-library.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-library.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217165220id_/http%3A//www.e-library.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy - eLibrary - Open Ebooks Directory
 
