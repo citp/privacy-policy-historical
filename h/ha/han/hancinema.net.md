@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancinema.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213010153id_/http%3A//hancinema.net/hancinema_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancinema.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131232id_/http%3A//hancinema.net/hancinema_privacy_policy.php) for the most accurate reproduction.*
 
 # HanCinema Privacy Policy Statement @ HanCinema :: The Korean Movie and Drama Database, discover the South Korean cinema and drama diversity
 
@@ -20,18 +20,6 @@ The information we collect is used for internal review and is then discarded, us
 With respect to cookies: We use cookies to store visitors preferences.
 
 If you do not want to receive e-mail from us in the future, please let us know by visiting us by clicking here, Contact, and leaving us a message.
-
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
-
-[Tribal Fusion](https://www.tribalfusion.com/TribalFusion/privacy.html)  
-[Google](http://www.google.com/privacypolicy.html)  
-[YesAsia](http://global.yesasia.com/help/Section.aspx?sectionId=651&lang=en)  
-[Zanox](http://www.zanox.com/)  
-[YesStyle](http://www.yesstyle.com/en/Help/Section.aspx?section=cs&sectionId=754)  
-[TigerCinema](http://www.tigercinema.com/action/page/name/privacy_policy/)  
-[ShareASale](http://www.shareasale.com/w3c/policy.html)  
-[TextLinkAds](http://www.text-link-ads.com/)  
-[ValueClick](http://www.valueclickmedia.com/privacy.shtml)
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
