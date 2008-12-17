@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highlights.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610053712id_/http%3A//www.highlights.com/mt/customer_service/privacy_and_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlights.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075711id_/http%3A//www.highlights.com/mt/customer_service/privacy_and_security.jsp) for the most accurate reproduction.*
 
 # Privacy and Security - Highlights.com
 
