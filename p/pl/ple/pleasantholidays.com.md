@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622085900id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081901id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
 
 # Security and Privacy - Customer
 
@@ -86,22 +86,14 @@ If you have questions about our Privacy Statement, please send us an e-mail. [ne
 
 
   
+
+
+[](https://web.archive.org/web/20081217081901id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/TermsConditionsDisplay.do)
+
   
 
 
   
 
 
-|   
----  
-| [ ** _Contact Us_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/CustomerContactUsDisplay.do)  
- | [ ** _Security and Privacy_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/Security.do)  
-  
-Partner Sites: [Pleasant Activities](http://www.pleasantactivities.com/) | [Hawaii World](http://www.hawaiiworld.com/) | [Distinguished Resorts](http://www.hawaiiworld.com/) | [Air by Pleasant](http://www.airbypleasant.com/)  
-  
-[Site Features](https://web.archive.org/web/20080622085900id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=SiteMap.html) | [Hawaii/Mexico/USA](https://web.archive.org/web/20080622085900id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=HawaiiMexicoUSA.html)  
-[Tahiti/Fiji/Australia/New Zealand](https://web.archive.org/web/20080622085900id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=AustraliaSouthPacific.html) | [Asia/Other Destinations/Cruises](https://web.archive.org/web/20080622085900id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=AsiaOtherDestCruises.html)  
-  
- Copyright © 1999-2008 Pleasant Holidays, LLC. All rights reserved. CST # 1007939-10. UBI# 601 915 263. TAR#5308.  
-  
-SessionId: 0001wj7Gy2WOCsBbBAEiZBp2mRs:1244ng5jq| 
+| 
