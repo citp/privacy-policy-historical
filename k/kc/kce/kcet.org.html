@@ -1,47 +1,32 @@
-<!--The following is the downloaded HTML source of the kcet.org privacy policy that was archived on 2008-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080615020902id_/http%3A//www.kcet.org/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kcet.org privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218005749id_/http%3A//www.kcet.org/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-
 	<link rel="shortcut icon" href="/favicon.ico">
-
 	<title>KCET Online - Privacy Policy.ph - Privacy Policy</title>
-
-
-
-
-	
-
-	
 
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 
 	
-	
-
 		
 
 	<script language="JavaScript" type="text/javascript">
-
     <!--
-
-		
-		baseURL = '';
-
-		
-    //-->
-
+				baseURL = '';
+		    //-->
     </script>
 
 	<script language="JavaScript" type="text/javascript" src="/includes/jsbin/menu.js"></script>
-
 	<script language="JavaScript" type="text/javascript" src="/includes/jsbin/pop.js"></script>
-
 	<script src="http://www.pbs.org/mediaplayer/station_player.js" language="JavaScript"></script>
 
 	<script language="JavaScript" type="text/javascript" src="/includes/jsbin/convio.js"></script>
 
-	<script language="JavaScript" type="text/javascript" src="/includes/jsbin/flashobject.js"></script>
+	<!-- Old version - only here incase we need to re-enable it -->
+	<!-- <SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript" src="/includes/jsbin/flashobject.js"></SCRIPT> -->
+	
+	<!-- New version - everything post 11/7/2008 shoulduse SWFObject instead -->
+	<script language="JavaScript" type="text/javascript" src="/includes/jsbin/swfobject1-5.js"></script>
 
 		<script language="JavaScript" type="text/javascript" src="/siteadmin/includes/jsbin/cookies.js"></script>
 	<script language="JavaScript" type="text/javascript">
@@ -86,7 +71,13 @@
 		        if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]){
 		            var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
 		            var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
-		            var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
+					var periodPos=flashDescription.indexOf(".");
+					if (periodPos==-1) { periodPos=flashDescription.length; }
+					var upToPeriod=flashDescription.substring(0, periodPos);
+					regExp=/\D/g;
+					var justTheNumbers=upToPeriod.replace(regExp, "");
+					var flashVersion = parseInt(justTheNumbers);
+		            //var flashVersion = parseInt(flashDescription.substring(flashDescription.indexOf(".") - 2, 2));
 		            flash2Installed = flashVersion == 2;
 		            flash3Installed = flashVersion == 3;
 		            flash4Installed = flashVersion == 4;
@@ -114,194 +105,263 @@
 		// -->
 	</script>
 
-
-
-	<link rel="StyleSheet" href="/includes/cssbin/sitestyle_ie.css" type="text/css">
-			</head><body><input type="hidden" value="2008-06-14 19:18:20Array
+	<link rel="StyleSheet" href="/includes/cssbin/sitestyle_ie.css" type="text/css">			</head><body><input type="hidden" value="2008-12-17 17:09:52Array
 (
-    [BackgroundImage] => background_webready.jpg
-    [BackgroundColor] => #c2d7f2
-    [NavColor] => #006D98
+    [BackgroundImage] => fall_water_09_2008.gif
+    [BackgroundColor] => #545454
+    [NavColor] => #000000
     [Banners] => Array
         (
-            [1] => home.jpg
-            [5] => support.jpg
-            [7] => shop.jpg
-            [15] => credits.jpg
-            [6] => about.jpg
-            [8] => explore.jpg
-            [4] => kids.jpg
-            [3] => programs.jpg
-            [2] => schedule.jpg
+            [1] => fall_water_09_2008.jpg
+            [5] => fall_2008_support.jpg
+            [7] => spring-shop.jpg
+            [15] => fall_2008_credits.jpg
+            [6] => fall_2008_about.jpg
+            [8] => fall_water_09_2008.jpg
+            [4] => fall_2008_kids.jpg
+            [3] => fall_2008_programs.jpg
+            [2] => fall_2008_schedule.jpg
+            [3z1] => fall_water_09_2008.jpg
+            [3z2] => fall_water_09_2008.jpg
+            [3z3] => fall_water_09_2008.jpg
+            [3z4] => fall_water_09_2008.jpg
+            [3z5] => fall_water_09_2008.jpg
         )
 
 )
 ">
-
 		
 	<style type="text/css">
-
 		BODY	{
-
 			margin: 0;
-
 			padding: 0;
-
 			margin-bottom: 20px;
-
-			background: #c2d7f2 URL('/media/uploads/backgrounds/background_webready.jpg') repeat-x bottom center;
-
+			background: #545454 URL('/media/uploads/backgrounds/fall_water_09_2008.gif') repeat-x top left;
 		}
 
 		.navigation {
-
-			background-color:#006D98;
-
+			background-color:#000000;
 			text-align:center;
-
 		}
-
 		.navigation a {
-
-			border:1px solid #006D98;
-
+			border:1px solid #000000;
 		}
-
 		.topBanner {
-
-			background: #ffffff URL(/media/uploads/banners/banner_general.jpg) no-repeat top left;
-
+			background: #ffffff URL(/media/uploads/banners/fall_water_09_2008.jpg) no-repeat top left;
 		}
-
 		.subNavOn {
+			background-color:#000000		}
 
-			background-color:#006D98
-		}
+			</style>
 
-		
-
-		
-	</style>
-
-
-
+<script type="text/javascript" src="/includes/jsbin/google_analytics_top.js"></script><script src="https://web.archive.org/web/20090327060931/https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
 
 
 	
 
 
-<table cellpadding="0" cellspacing="0" border="0" width="726" align="center">
+
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="713" align="center">
+
+
 
 				
 
+
+
 	<tbody><tr>
+
+
 
 		<td valign="top" class="bgWhite"><a name="top"><img src="/media/1pxl.gif" width="7" height="1" alt="" border="0"></a></td>
 
+
+
 		<td valign="top" class="bgWhite"><img src="/media/1pxl.gif" width="1" height="7" alt="" border="0"><br>
+
+
 
 			
 
-			<table cellpadding="0" cellspacing="0" border="0" width="100%" class="topBanner">
+
+
+
+
+			<table cellpadding="0" cellspacing="0" border="0" width="713" class="topBanner">
+
+
 
 				<tbody><tr>
 
+
+
 					<td class="hdrdate">&nbsp;</td>
+
+
 
 				</tr>
 
+
+
 				<tr>
+
+
 
 					<td>
 
+
+
 						<table cellpadding="0" cellspacing="0" border="0" width="100%" class="navigation">
 							<tbody><tr>
-								<td colspan="15" class="bgWhite"><img src="/media/1pxl.gif" width="1" height="2" alt="" border="0"></td>
+								<td colspan="15" old_class="bgWhite"><img src="/media/1pxl.gif" width="1" height="2" alt="" border="0"></td>
 							</tr>
-							<tr><td nowrap=""><a href="/index.php" onfocus="this.blur()" title="Home">HOME</a></td><td><img src="/media/nav_divider.gif" width="1" height="24" alt="" border="0"></td><td nowrap=""><a href="/schedule/" onfocus="this.blur()" title="Schedule">SCHEDULE</a></td><td><img src="/media/nav_divider.gif" width="1" height="24" alt="" border="0"></td><td nowrap=""><a href="/programs/" onfocus="this.blur()" title="Programs">PROGRAMS</a></td><td><img src="/media/nav_divider.gif" width="1" height="24" alt="" border="0"></td><td nowrap=""><a href="/kids-family/" onfocus="this.blur()" title="Kids &amp; Family">KIDS &amp; FAMILY</a></td><td><img src="/media/nav_divider.gif" width="1" height="24" alt="" border="0"></td><td nowrap=""><a href="/explore-ca/" onfocus="this.blur()" title="Explore CA">EXPLORE CA</a></td><td><img src="/media/nav_divider.gif" width="1" height="24" alt="" border="0"></td><td nowrap=""><a href="http://support.kcet.org/" onfocus="this.blur()" title="Support KCET" onclick="javascript:__utmLinker(this.href);">SUPPORT KCET</a></td><td><img src="/media/nav_divider.gif" width="1" height="24" alt="" border="0"></td><td nowrap=""><a href="/about/" onfocus="this.blur()" title="About Us">ABOUT US</a></td><td><img src="/media/nav_divider.gif" width="1" height="24" alt="" border="0"></td><td nowrap=""><a href="http://www.shopkcet.org/" onfocus="this.blur()" title="Shop KCET" onclick="javascript:__utmLinker(this.href);">SHOP KCET</a></td></tr>
+							<tr><td nowrap=""><a href="/index.php" onfocus="this.blur()" title="Home">HOME</a></td><td nowrap=""><a href="/schedule/" onfocus="this.blur()" title="Schedule">SCHEDULE</a></td><td nowrap=""><a href="/programs/" onfocus="this.blur()" title="Programs">PROGRAMS</a></td><td nowrap=""><a href="/kids-family/" onfocus="this.blur()" title="Kids &amp; Family">KIDS &amp; FAMILY</a></td><td nowrap=""><a href="/local/" onfocus="this.blur()" title="Local">LOCAL</a></td><td nowrap=""><a href="http://support.kcet.org/" onfocus="this.blur()" title="Support KCET" onclick="javascript:__utmLinker(this.href);">SUPPORT KCET</a></td><td nowrap=""><a href="/about/" onfocus="this.blur()" title="About Us">ABOUT US</a></td><td nowrap=""><a href="http://www.shopkcet.org/" onfocus="this.blur()" title="Shop KCET" onclick="javascript:__utmLinker(this.href);">SHOP KCET</a></td></tr>
 							<tr>
 								<td colspan="15" class="bgWhite"><img src="/media/1pxl.gif" width="1" height="2" alt="" border="0"></td>
 							</tr>
 						</tbody></table>
 
+
+
 					</td>
+
+
 
 				</tr>
 
+
+
 				<tr>
+
+
 
 					<td>
 
+
+
 						<table cellpadding="0" cellspacing="0" border="0" width="100%">
+
+
 
 							<tbody><tr>
 
+
+
 								<td valign="top"><a href="http://www.pbs.org/cgi-registry/golocal?station=KCET"><img src="/media/1pxl.gif" width="55" height="72" alt="Visit PBS.org" border="0" usemap="header"></a><a href="/"><img src="/media/1pxl.gif" width="145" height="72" alt="KCET" border="0" usemap="header"></a></td>
+
+
 
 								<td valign="bottom" align="right">
 
+
+
 									<form name="searchKCET" action="/search/" method="get" class="hdrSearch">
 
+
+
 									
+
+
 									<table cellpadding="0" cellspacing="0" border="0">
+
+
 
 										<tbody><tr>
 
+
+
 											<td><input type="text" name="q" class="hdrInputSearch" size="10" value="Search KCET" onclick="if(this.value=='Search KCET') this.value = ''" onblur="if(this.value=='') this.value='Search KCET'"></td>
+
+
 
 											<td>
 
+
+
 											<a href="/search/" onclick="document.searchKCET.submit();return false;" onmouseover="changeImage('searchGo', 'searchGoOn')" onmouseout="changeImage('searchGo', 'searchGoOff')"><img src="/media/btn_search_go.gif" width="26" height="17" alt="" border="0" name="searchGo"></a></td>
+
+
 
 										</tr>
 
+
+
 									</tbody></table>
+
+
 
 									</form>
 
+
+
 								</td>
+
+
 
 							</tr>
 
+
+
 						</tbody></table>
+
+
 
 					</td>
 
+
+
 				</tr>
+
+
 
 				<tr>
 
+
+
 					<td valign="top" colspan="3" class="bgWhite"><img src="/media/1pxl.gif" width="1" height="4" alt="" border="0"></td>
+
+
 
 				</tr>
 
+
+
 			</tbody></table>
+
+
 
 			<table cellpadding="0" cellspacing="0" border="0" width="100%">
 
+
+
 				<tbody><tr>
+
+
 
 					<td valign="top">
 
 
 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
+
+
+
+
+
 <script type="text/javascript">
-_uacct = "UA-248626-1";
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
-_udn="none";
-_ulink=1;
-//_userv=2;  //Sends a second request to KCET
 
-//urchinTracker();
-
-setTimeout("urchinTracker()", 5000);
-
-</script>
 <!-- END HEADER -->
+
+
 
  <table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr>
 				<!-- 518x Column -->				
@@ -433,17 +493,9 @@ setTimeout("urchinTracker()", 5000);
 			<!-- sponsors start -->
 			<table cellpadding="0" cellspacing="0" border="0" width="100%" class="sponsors">
 				<tbody><tr>
-					<td valign="top"><form name="QuickRegistration" action="http://kcet.convio.net/site/QuickReg" method="get" onsubmit="popupForm(); return false;">
-                            <input type="image" src="/media/btn_newsletter.gif" border="0" name="QREG_DISPLAY" value="Register" onclick="popupForm(); return false;" onmouseover="changeButton('newsletter', 'newsletterOn')" onmouseout="changeButton('newsletter', 'newsletterOff')" id="newsletter">
-                            <input type="hidden" name="QREG_STYLE" value="4">
-                            <input type="hidden" name="QREG_INCLUDE_INTERESTS" value="TRUE">
-                            <input type="hidden" name="QREG_EXTERNAL_CONTENT" value="TRUE">
-                            <input type="hidden" name="QREG_BUTTON_TEXT" value="Register">
-                            <input type="hidden" name="QREG_COMPLETE" value="NONE">
-                            <input type="hidden" name="NEXTURL_FOR_JS" value="http%3A%2F%2Fwww.kcet.org">
-                            <input type="hidden" name="NEXTURL" value="http://www.kcet.org">
-                            <input type="hidden" name="BUTTON_IMAGE" value="null">
-                            </form></td>
+					<td valign="top">
+                            <a href="https://secure2.convio.net/kcet/site/SPageServer?pagename=reg_welcome&amp;s_src=footer_promo"><img src="/media/btn_newsletter.gif" border="0" name="QREG_DISPLAY" value="Register" onmouseover="changeButton('newsletter', 'newsletterOn')" onmouseout="changeButton('newsletter', 'newsletterOff')" id="newsletter"></a>
+                    </td>
 					<td width="98%" class="sponsorblock">&nbsp;					</td>
 				</tr>
 			</tbody></table>			<table cellpadding="0" cellspacing="0" border="0" width="100%" class="footer" alt="Footer navigation">
@@ -461,7 +513,7 @@ setTimeout("urchinTracker()", 5000);
 </map>
 <style type="text/css">
 	body {
-		background: #c2d7f2 URL('/media/uploads/backgrounds/background_webready.jpg') repeat-x bottom center;
+		background: #545454 URL('/media/uploads/backgrounds/fall_water_09_2008.gif') repeat-x top center;
 	}
 </style>
 
@@ -469,6 +521,10 @@ setTimeout("urchinTracker()", 5000);
 <!-- <script language="javascript">window.nprid="kcet.org";</script>
 <script src="http://v.npr.org/include/metrics/tic.js" type="text/javascript"></script>
 <noscript><img src="http://v.npr.org/images/zag.gif?Log=1&v_jd=1&nprid=kcet.org" border="0" width="1" height="1"/></noscript>  -->
+
+
+<script type="text/javascript" src="/includes/jsbin/google_analytics_bottom.js"></script>
+<script type="text/javascript" src="/includes/jsbin/crossDomainTracking.js"></script>
 
 
 </body></html>
