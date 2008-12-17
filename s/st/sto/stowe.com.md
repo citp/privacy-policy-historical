@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stowe.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517112717id_/http%3A//stowe.com/home/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stowe.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081151id_/http%3A//www.stowe.com/home/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stowe Mountain Resort
 
