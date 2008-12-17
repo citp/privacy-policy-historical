@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naughtywebcams.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608123334id_/http%3A//www.naughtywebcams.com/docs.php%3Fdoc%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naughtywebcams.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217151812id_/http%3A//www.naughtywebcams.com/docs.php%3Fdoc%3Dprivacy%26) for the most accurate reproduction.*
 
 # NaughtyWebcams - Privacy Policy
 
@@ -22,7 +22,7 @@ NaughtyWebcams may utilize electronic newsletters to reach all or a subset of al
 
 NaughtyWebcams may request personal identifying information on specific pages that allow users to contact NaughtyWebcams. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
 
-There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of NaughtyWebcams or those of NaughtyWebcams customers or chat hosts, (4) under exigent circumstances to protect the physical safety of NaughtyWebcams, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of NaughtyWebcams or those of NaughtyWebcams customers or chat hosts, (4) under exigent circumstances to protect the physical safety of NaughtyWebcams, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company�s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
 
   * Our Cookies
 
@@ -31,7 +31,7 @@ Your browser offers so-called "cookies," which - if you allow their use - store 
 We may use cookies to:
 
     * Deliver content specific to your interests.
-    * Save your password so you don’t have to re-enter it each time you visit our sites.
+    * Save your password so you don�t have to re-enter it each time you visit our sites.
 
 We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties.
 
@@ -43,19 +43,19 @@ This site makes chat rooms available to its users. Please remember that any info
 
   * Minors
 
-Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. NaughtyWebcams does not knowingly collect contact or personal information from children under 13. Our sites are not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 wherever age related information is requested.
+Because we care about the safety and privacy of children online, we comply with the Children�s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. NaughtyWebcams does not knowingly collect contact or personal information from children under 13. Our sites are not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 wherever age related information is requested.
 
-Members areas of NaughtyWebcams may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@naughtywebcams.com](https://web.archive.org/web/20080608123334id_/http%3A//www.naughtywebcams.com/contactsupport.php?).
+Members areas of NaughtyWebcams may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@naughtywebcams.com](https://web.archive.org/web/20081217151812id_/http%3A//www.naughtywebcams.com/contactsupport.php?).
 
   * Unsolicited Email Received by You
 
-NaughtyWebcams does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from NaughtyWebcams, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [support](https://web.archive.org/web/20080608123334id_/http%3A//www.naughtywebcams.com/contactsupport.php?).
+NaughtyWebcams does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from NaughtyWebcams, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [support](https://web.archive.org/web/20081217151812id_/http%3A//www.naughtywebcams.com/contactsupport.php?).
 
 NaughtyWebcams also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Further, according to our published policy, if NaughtyWebcams becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, NaughtyWebcams reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the NaughtyWebcams program, termination of NaughtyWebcams services, and forfeiture of all commissions.
 
   * Contact
 
-If you have any questions about this Privacy Policy, please contact our customer service department at [support@naughtywebcams.com](https://web.archive.org/web/20080608123334id_/http%3A//www.naughtywebcams.com/contactsupport.php?) and provide us with your name, your NaughtyWebcams login name, and any information you feel is important.
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@naughtywebcams.com](https://web.archive.org/web/20081217151812id_/http%3A//www.naughtywebcams.com/contactsupport.php?) and provide us with your name, your NaughtyWebcams login name, and any information you feel is important.
 
 The address for correspondence by post is
 
