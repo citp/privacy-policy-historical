@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjellybean.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603072823id_/http%3A//www.myjellybean.com/corporate/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjellybean.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122447id_/http%3A//www.myjellybean.com/corporate/privacy/privacy.htm) for the most accurate reproduction.*
 
 # MyJellybean | Corporate | Privacy Policy
 
@@ -42,10 +42,6 @@ Myjellybean.com hosts regular contests in which we ask visitors for contact info
 
 Myjellybean.com offers email "@ myjellybean.com" in partnership with a third-party company, Everyone.net. We do not allow children known to be under the age of thirteen (13) to register for our email services. Everyone.net collects non-identifying and aggregate information for marketing services, and shares the aggregate data with advertisers and other third parties. No personal information is shared with third-parties by Myjellybean.com or Everyone.net. For more information on Everyone.net's Privacy Policy, please visit [this link](http://www.everyone.net/email-company/p_policy.html). 
 
-## E-cards
-
-Myjellybean.com offers numerous e-cards for users to send to family and friends, in partnership with a third-party company, Bravenet.com. To send an e-card, users must provide their email, their name, the recipient's email and the recipient's name. Information entered in the e-card is used solely for the purpose of sending the e-card. It is not stored or retained by Myjellybean.com or Bravenet.com in any way, or shared with any other company. For more information on Bravenet.com's Privacy Policy, please visit [this link](http://www.bravenet.com/global/terms.php).
-
 ## Outbound Links
 
 Our site contains links to other sites. Although Myjellybean.com is not responsible for the privacy practices or the content of other sites, we carefully screen all sites accessible from Myjellybean.co to ensure that they comply with our standards. 
@@ -80,8 +76,8 @@ Canada
 
 Phone: (416) 466-9993
 
-[Contact Us](https://web.archive.org/web/20080603072823id_/http%3A//www.myjellybean.com/corporate/contact/contact.htm)
+[Contact Us](https://web.archive.org/web/20081217122447id_/http%3A//www.myjellybean.com/corporate/contact/contact.htm)
 
-[Advertise With Us](https://web.archive.org/web/20080603072823id_/http%3A//www.myjellybean.com/corporate/advertise/advertise.htm)
+[Advertise With Us](https://web.archive.org/web/20081217122447id_/http%3A//www.myjellybean.com/corporate/advertise/advertise.htm)
 
-[Terms Of Service](https://web.archive.org/web/20080603072823id_/http%3A//www.myjellybean.com/corporate/tos/tos.htm)
+[Terms Of Service](https://web.archive.org/web/20081217122447id_/http%3A//www.myjellybean.com/corporate/tos/tos.htm)
