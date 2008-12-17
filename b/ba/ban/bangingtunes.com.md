@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangingtunes.com privacy policy that was archived on 2007-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070812101532id_/http%3A//www.bangingtunes.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangingtunes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217232648id_/http%3A//www.bangingtunes.com/help/privacy) for the most accurate reproduction.*
 
 # BangingTunes.com Privacy Policy
 
@@ -34,12 +34,12 @@ If you have established an account on BangingTunes.com, on the menu select "Edit
 
 #### Dispute Resolution
 
-We invite you to contact us if you have questions about this policy.You may contact us using our [contact form](https://web.archive.org/help/contact/).You may call us on 01273 208040, or you may contact us by mail at the following address: 
+We invite you to contact us if you have questions about this policy.You may contact us using our [contact form](https://web.archive.org/help/contact/).You may call us on 01323 872100, or you may contact us by mail at the following address: 
 
-4 Westbourne Grove  
-Hove  
+PO Box 2136  
+Seaford  
 East Sussex  
-BN3 5PJ  
+BN25 9BP  
 England  
 
 
