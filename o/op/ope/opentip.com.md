@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623102055id_/http%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133845id_/http%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
 
 # Opentip.com: Online shopping for promotional items, sporting goods, office products, home and garden, and apparel.
 
-**www.opentip.com PRIVACY COMMITMENT TO THE PROTECTION OF CUSTOMER INFORMATION**  
-This notice describes our privacy policy. By visiting opentip.com, you are accepting the practices described in this Privacy Notice. 
+**Opentip.com PRIVACY COMMITMENT TO THE PROTECTION OF CUSTOMER INFORMATION**  
+This notice describes our privacy policy. By visiting Opentip.com, you are accepting the practices described in this Privacy Notice. 
 
 **What Personal Information About Customers Does Opentip.com Gather?**
 
@@ -15,7 +15,7 @@ The information we learn from customers helps us personalize and continually imp
 
 **What About Cookies?**
 
-* Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features that may make it easier for you to shop online at opentip.com.   
+* Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features that may make it easier for you to shop online at Opentip.com.   
 * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Opentip.com's coolest features, and we recommend that you leave them turned on.   
 
 
@@ -60,7 +60,7 @@ Opentip.com is a participant in the Safe Harbor program developed by the U.S. De
 
  **Automatic Information**
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features that will make it convenient for you to revisit opentip.com; the full Uniform Resource Locator (URL) click stream to, through, and from our Web site, including date and time. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.  
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features that will make it convenient for you to revisit Opentip.com; the full Uniform Resource Locator (URL) click stream to, through, and from our Web site, including date and time. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.  
 
 
  **Information from Other Sources**
