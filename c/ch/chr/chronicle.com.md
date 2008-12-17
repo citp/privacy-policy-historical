@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531022053id_/http%3A//chronicle.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062424id_/http%3A//chronicle.com/help/privacy.htm) for the most accurate reproduction.*
 
 # The Chronicle: Privacy Policy
 
-Revised on April 28, 2008
+Revised on October 27, 2008
 
 ### Privacy Policy
 
@@ -58,7 +58,7 @@ _The Chronicle_ may perform statistical, demographic, and marketing analyses of 
 
 **Products and services from The Chronicle**
 
-From time to time, we may provide subscribers with information and offers about other products and services offered by _The Chronicle,_ including subscriptions, products, and services. If you do not wish to receive such information and offers, you may opt out.
+From time to time, we may provide subscribers with information and offers about other products and services offered by _The Chronicle,_ including subscriptions, products, and services. If you do not wish to receive such information and offers, you may opt out by emailing [optout@chronicle.com](mailto:optout@chronicle.com).
 
 **Banner advertising**
 
@@ -70,13 +70,13 @@ We offer the ability to post content in a number of areas on our Web site. Any i
 
 _**What is our e-mail policy?**_
 
-We will not share, sell, rent, swap, or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail message from us in error, please contact [help@chronicle.com](mailto:help@chronicle.com).
+We will not share, sell, rent, swap, or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail message from us in error, please contact [optout@chronicle.com](mailto:optout@chronicle.com).
 
 **Account and service-related e-mail:** _The Chronicle_ reserves the right to send you e-mail about your account status. This includes order confirmations, renewal and expiration notices, notices of credit-card problems, other transactional e-mails, changes to paid or free services that you have signed up for, and notifications about major changes in our Web sites or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.
 
 **E-mail newsletters:** _The Chronicle_ offers several e-mail newsletters. If you no longer wish to receive a specific newsletter, follow the “unsubscribe” instructions located near the bottom of each newsletter. To manage your Chronicle.com e-mail preferences, please [click here.](https://web.archive.org/services/email_lists?minimal=y)
 
-**Promotional e-mail:** _The Chronicle_ may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the “unsubscribe” instructions located near the bottom of each e-mail, or (2) [opting out.](https://web.archive.org/services/email_lists?minimal=y)
+**Promotional e-mail:** _The Chronicle_ may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the “unsubscribe” instructions located near the bottom of each e-mail, or (2) email [optout@chronicle.com](mailto:optout@chronicle.com).
 
 **Survey e-mail:** We may send you e-mail inviting you to participate in user surveys, asking for feedback about _The Chronicle_ or chronicle.com and about existing or prospective products and services, as well as information to better understand our readers. Reader surveys help us to improve our Web site, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form. 
 
@@ -108,9 +108,9 @@ There are a number of things you can do in [Manage Your Account](https://web.arc
 
 **E-mail promotions**
 
-If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail message. Or log into [Manage Your Account](https://web.archive.org/services/) and [change your e-mail settings.](https://web.archive.org/services/email_lists?minimal=y)
+If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of any e-mail message. Alternatively, you may opt out of all promotions by sending an e-mail to [optout@chronicle.com](mailto:optout@chronicle.com).
 
-If you experience difficulty with the process, feel free to contact us at [help@chronicle.com](mailto:help@chronicle.com) and provide your e-mail address along with the name of the newsletter from which you would like to unsubscribe.
+If you experience difficulty with the process, feel free to contact us at [help@chronicle.com](mailto:help@chronicle.com).
 
 _**Data Security**_
 
