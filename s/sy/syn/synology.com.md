@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503020613id_/http%3A//www.synology.com/enu/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102505id_/http%3A//www.synology.com/enu/privacy/index.php) for the most accurate reproduction.*
 
 # Synology Inc. - NEW NAS Experience -
 
@@ -60,7 +60,7 @@ Synology Inc. uses cookies on this Site to ensure the integrity of the registrat
 
 Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should [contact](https://web.archive.org/web/20080503020613id_/http%3A//www.synology.com/enu/company/contact.php) Synology Inc. 
+If you have questions regarding this statement, you should [contact](https://web.archive.org/web/20081217102505id_/http%3A//www.synology.com/enu/company/contact.php) Synology Inc. 
 
 Changes to this Statement
 
