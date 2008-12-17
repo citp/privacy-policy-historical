@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520130219id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
 |  | **Don't miss...**  
 ---|---  
-[ Father's Day](https://web.archive.org/web/20080520130219id_/http%3A//www.activityvillage.co.uk/fathers_day_page.htm)  
-[ Spring](https://web.archive.org/web/20080520130219id_/http%3A//www.activityvillage.co.uk/spring.htm)  
-[ Summer](https://web.archive.org/web/20080520130219id_/http%3A//www.activityvillage.co.uk/summer_activities.htm)  
-[ Canada Day](https://web.archive.org/web/20080520130219id_/http%3A//www.activityvillage.co.uk/canada_day_pages.htm)  
-[ Fourth of July](https://web.archive.org/web/20080520130219id_/http%3A//www.activityvillage.co.uk/fourth_of_july_pages.htm)  
-[ Olympics](https://web.archive.org/web/20080520130219id_/http%3A//www.activityvillage.co.uk/summer_olympics.htm)  
+[ Advent](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/advent_for_kids.htm)  
+[ Hanukkah](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/hanukkah_for_kids.htm)  
+[ Christmas](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/christmas_pages.htm)  
+[ Kwanzaa](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/kwanzaa_for_kids.htm)  
+[ New Year](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/happy_new_year.htm)  
+[ Winter](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/winter_pages.htm)  
+[ MLK Day](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/mlk_day.htm)  
+[ Australia Day](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/australia_day.htm)  
+[ Chinese New Year](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/chinese_new_year.htm)  
   
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
 
