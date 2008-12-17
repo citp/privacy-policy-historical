@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myactv.net privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608093256id_/http%3A//www.myactv.net/memberresources/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myactv.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125024id_/http%3A//www.myactv.net/memberresources/privacy_policy.html) for the most accurate reproduction.*
 
 # MyACTV.net
 
@@ -14,7 +14,7 @@ This policy does not apply to practices of companies that ACT does not own or co
 
 **The Cable Privacy Act**
 
-In addition, as an ACT cable customer, you are entitled under federal law to a statement about our collection and use of certain information that we learn about you. That information is required to be provided in a separate written statement and is therefore attached to this Privacy Policy as [Annex A](https://web.archive.org/web/20080608093256id_/http%3A//www.myactv.net/memberresources/privacy_policy_annexa.html).
+In addition, as an ACT cable customer, you are entitled under federal law to a statement about our collection and use of certain information that we learn about you. That information is required to be provided in a separate written statement and is therefore attached to this Privacy Policy as [Annex A](https://web.archive.org/web/20081217125024id_/http%3A//www.myactv.net/memberresources/privacy_policy_annexa.html).
 
 **Information Collection and Use**
 
