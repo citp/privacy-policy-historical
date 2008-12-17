@@ -1,69 +1,141 @@
-<!--The following is the downloaded HTML source of the trafficbunnies.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609052015id_/http%3A//www.trafficbunnies.com/%3F_w%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trafficbunnies.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217054511id_/http%3A//www.trafficbunnies.com/%3F_w%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!--
+
+9/15/08
+
+Before making any edits to this file I placed a copy in
+
+outside_backup_by_martyn.tpl
+
+--><head>
+
+
 
 <meta http-equiv="Content-Language" content="en-gb">
 
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+
 
 <meta name="description" content="Free Traffic, that is fun and easy to use.">
 
+
+
 <meta name="keywords" content="free web hits, Traffic Exchange, Free Website Traffic, Free Web Site Traffic, Manual Traffic Exchange">
+
+
 
 <title>Traffic Bunnies Traffic Exchange</title>
 
+
+
 <link href="/templates/default.css" type="text/css" rel="stylesheet">
+
+
 
 <link href="/templates/playgirl/css/playgirl_style.css" type="text/css" rel="stylesheet">
 
+
+
 <link rel="stylesheet" type="text/css" href="js_scripts/niftyCorners.css">
+
+
 
 <link rel="stylesheet" type="text/css" href="js_scripts/niftyPrint.css" media="print">
 
+
+
 <script type="text/javascript" src="js_scripts/nifty.js"></script>
+
+
 
 <script type="text/javascript" src="js_scripts/browser.js"></script>
 
+
+
 <script type="text/javascript" src="js_scripts/standard.js"></script>
+
+
 
 <script>
 
 
 
+
+
+
+
 window.onload=function(){
 
+
+
 if(!NiftyCheck())
+
+
 
     return;
 
 
 
+
+
+
+
 //The main boxes around the outside    
+
+
 
 Rounded("div.wsft_frame","all","#FFFFFF","#ddcfa2","smooth");
 
+
+
 //The Tab displaying where you are
+
+
 
 Rounded("div.wsft_middle_title","bottom","#FFFFFF","#C0C0C0","smooth");
 
 
 
+
+
+
+
 //All included pages use these
 
+
+
 //This is a full round box
+
+
 
 Rounded("div.wsft_inline","all","#FFFFFF","#C0C0C0","smooth");
 
 
 
+
+
+
+
 //Just the Top is rounded
+
+
 
 Rounded("div.wsft_in_top","top","#FFFFFF","#C0C0C0","smooth");
 
 
 
+
+
+
+
 //Just the bottom is rounded
+
+
 
 Rounded("div.wsft_in_bottom","bottom","#FFFFFF","#C0C0C0","smooth");
 
@@ -73,257 +145,241 @@ Rounded("div.wsft_in_bottom","bottom","#FFFFFF","#C0C0C0","smooth");
 
 
 
+
+
+
+
+
+
+
+
 }
 
-</script>
+/******************************************
+* Snow Effect Script- By Altan d.o.o. (http://www.altan.hr/snow/index.html)
+* Visit Dynamic Drive DHTML code library (http://www.dynamicdrive.com/) for full source code
+* Last updated Nov 9th, 05' by DD. This notice must stay intact for use
+******************************************/
+  
+  //Configure below to change URL path to the snow image
+  var snowsrc="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif"
+  // Configure below to change number of snow to render
+  var no = 10;
+  // Configure whether snow should disappear after x seconds (0=never):
+  var hidesnowtime = 0;
+  // Configure how much snow should drop down before fading ("windowheight" or "pageheight")
+  var snowdistance = "pageheight";
 
-</head>
+///////////Stop Config//////////////////////////////////
 
-<body>
+  var ie4up = (document.all) ? 1 : 0;
+  var ns6up = (document.getElementById&&!document.all) ? 1 : 0;
+
+	function iecompattest(){
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+	}
+
+  var dx, xp, yp;    // coordinate and position variables
+  var am, stx, sty;  // amplitude and step variables
+  var i, doc_width = 800, doc_height = 600; 
+  
+  if (ns6up) {
+    doc_width = self.innerWidth;
+    doc_height = self.innerHeight;
+  } else if (ie4up) {
+    doc_width = iecompattest().clientWidth;
+    doc_height = iecompattest().clientHeight;
+  }
+
+  dx = new Array();
+  xp = new Array();
+  yp = new Array();
+  am = new Array();
+  stx = new Array();
+  sty = new Array();
+  snowsrc=(snowsrc.indexOf("dynamicdrive.com")!=-1)? "snow.gif" : snowsrc
+  for (i = 0; i < no; ++ i) {  
+    dx[i] = 0;                        // set coordinate variables
+    xp[i] = Math.random()*(doc_width-50);  // set position variables
+    yp[i] = Math.random()*doc_height;
+    am[i] = Math.random()*20;         // set amplitude variables
+    stx[i] = 0.02 + Math.random()/10; // set step variables
+    sty[i] = 0.7 + Math.random();     // set step variables
+		if (ie4up||ns6up) {
+      if (i == 0) {
+        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 15px; LEFT: 15px;\"><a href=\"http://dynamicdrive.com\"><img src='"+snowsrc+"' border=\"0\"><\/a><\/div>");
+      } else {
+        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 15px; LEFT: 15px;\"><img src='"+snowsrc+"' border=\"0\"><\/div>");
+      }
+    }
+  }
+
+  function snowIE_NS6() {  // IE and NS6 main animation function
+    doc_width = ns6up?window.innerWidth-10 : iecompattest().clientWidth-10;
+		doc_height=(window.innerHeight && snowdistance=="windowheight")? window.innerHeight : (ie4up && snowdistance=="windowheight")?  iecompattest().clientHeight : (ie4up && !window.opera && snowdistance=="pageheight")? iecompattest().scrollHeight : iecompattest().offsetHeight;
+    for (i = 0; i < no; ++ i) {  // iterate for every dot
+      yp[i] += sty[i];
+      if (yp[i] > doc_height-50) {
+        xp[i] = Math.random()*(doc_width-am[i]-30);
+        yp[i] = 0;
+        stx[i] = 0.02 + Math.random()/10;
+        sty[i] = 0.7 + Math.random();
+      }
+      dx[i] += stx[i];
+      document.getElementById("dot"+i).style.top=yp[i]+"px";
+      document.getElementById("dot"+i).style.left=xp[i] + am[i]*Math.sin(dx[i])+"px";  
+    }
+    snowtimer=setTimeout("snowIE_NS6()", 10);
+  }
+
+	function hidesnow(){
+		if (window.snowtimer) clearTimeout(snowtimer)
+		for (i=0; i<no; i++) document.getElementById("dot"+i).style.visibility="hidden"
+	}
+		
+
+if (ie4up||ns6up){
+    snowIE_NS6();
+		if (hidesnowtime>0)
+		setTimeout("hidesnow()", hidesnowtime*1000)
+		}
+
+</script></head><body><div id="dot0" style="position: absolute; z-index: 0; visibility: visible; top: 165.352px; left: 790.726px;"><a href="http://dynamicdrive.com"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></a></div><div id="dot1" style="position: absolute; z-index: 1; visibility: visible; top: 415.03px; left: 847.257px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot2" style="position: absolute; z-index: 2; visibility: visible; top: 183.785px; left: 654.008px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot3" style="position: absolute; z-index: 3; visibility: visible; top: 129.108px; left: 30.2751px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot4" style="position: absolute; z-index: 4; visibility: visible; top: 716.946px; left: 915.455px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot5" style="position: absolute; z-index: 5; visibility: visible; top: 240.544px; left: 174.729px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot6" style="position: absolute; z-index: 6; visibility: visible; top: 262.873px; left: 917.134px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot7" style="position: absolute; z-index: 7; visibility: visible; top: 682.88px; left: 73.063px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot8" style="position: absolute; z-index: 8; visibility: visible; top: 671.681px; left: 47.0334px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot9" style="position: absolute; z-index: 9; visibility: visible; top: 90.6289px; left: 78.1298px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div>
+
+
+
+
+
+<style type="text/css">
+
+.style1 {
+
+	text-align: center;
+
+	background-image: url('http://www.trafficbunnies.com/templates/playgirl/images/box_t.gif');
+
+}
+
+.style2 {
+
+	background-color: #DED1A3;
+
+	background-image: url('/templates/web2.0/images/beigebg.jpg');
+
+}
+
+.style3 {
+
+	text-align: left;
+
+}
+
+.style4 {
+
+	border-width: 0px;
+
+}
+
+</style>
+
+
+
+
+
+
+
+ 
 
 <table width="997" align="center" class="bodybox">
 
+
+
   <tbody><tr>
+
+
 
     <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
 
+
+
       <tbody><tr>
 
-        <td width="517"><a href="/"><img src="http://www.trafficbunnies.com/templates/playgirl/images/title.jpg" width="517" height="241" border="0"></a></td>
 
-        <td align="center" valign="top" class="topbg"><p align="center"> 
-		<a target="_blank" href="http://www.trafficbunnies.com/june"> 
-		<img border="0" src="http://www.trafficbunnies.com/templates/playgirl/images/titlebg.gif" width="476" height="241"></a></p> </td>
+
+        <td class="style2">
+
+		<p class="style3"> 
+
+		<img border="0" src="http://trafficbunnies.com/images/christmasheader.jpg" width="993" height="155"><br>
+
+		<img alt="" src="http://www.trafficbunnies.com/images/Untitled-1_01.jpg" width="747" height="34"><a href="http://www.trafficbunnies.com/"><img alt="homr" src="http://www.trafficbunnies.com/images/Untitled-1_02.jpg" width="58" height="34" class="style4"></a><a href="../?_w=login"><img alt="login" src="http://www.trafficbunnies.com/images/Untitled-1_04.jpg" width="56" height="34" class="style4"></a><a href="../?_w=help"><img alt="faw" src="http://www.trafficbunnies.com/images/Untitled-1_05.jpg" width="48" height="34" class="style4"></a><a target="_blank" href="http://www.nettrafficchat.com/"><img alt="forum" src="http://www.trafficbunnies.com/images/Untitled-1_06.jpg" width="79" height="34" class="style4"></a><br>
+
+		</p> </td>
+
+
 
       </tr>
 
+
+
     </tbody></table>
+
+
 
 	  <table width="100%" border="0" cellspacing="0" cellpadding="5" bgcolor="#ded1a3">
 
+
+
         <tbody><tr>
 
-          <td width="186" valign="top" class="flower">
 
-		  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-  <tbody><tr>
-
-    <td class="box_tl"></td>
-
-    <td class="box_t"></td>
-
-    <td class="box_tr"></td>
-
-  </tr>
-
-  <tr>
-
-    <td class="box_l"></td>
-
-    <td class="box_in">
-
-            <table width="100%" border="0" cellspacing="0" cellpadding="4">
-
-              <tbody><tr>
-
-                <td>
-
-            <table width="109%" border="0" cellspacing="0" cellpadding="4" id="table1">
-
-              <tbody><tr>
-
-                <td width="169" height="0">
-
-				<p align="center"><a href="http://www.trafficbunnies.com">
-
-				<img border="0" src="http://www.trafficbunnies.com/images/home.jpg" width="135" height="37"></a><a href="http://www.trafficbunnies.com/?_n=awsignup"><img border="0" src="http://www.trafficbunnies.com/images/signup.jpg" width="135" height="37"></a><a href="http://www.trafficbunnies.com/?_w=login"><img border="0" src="http://www.trafficbunnies.com/images/login.jpg" width="135" height="37"></a><a href="http://www.trafficbunnies.com/?_w=help"><img border="0" src="http://www.trafficbunnies.com/images/FAQoutside.jpg" width="135" height="37"></a><a target="_blank" href="http://www.nettrafficchat.com/"><img border="0" src="http://www.trafficbunnies.com/images/forumoutside.jpg" width="135" height="37"></a></p></td>
-
-              </tr>
-
-              </tbody></table></td>
-
-              </tr>
-
-              </tbody></table></td>
-
-    <td class="box_r"></td>
-
-  </tr>
-
-  <tr>
-
-    <td class="box_bl"></td>
-
-    <td class="box_b"></td>
-
-    <td class="box_br"></td>
-
-  </tr>
-
-</tbody></table>
-
-		  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-  <tbody><tr>
-
-    <td class="box_tl"></td>
-
-    <td class="box_t"></td>
-
-    <td class="box_tr"></td>
-
-  </tr>
-
-  <tr>
-
-    <td class="box_l" align="center"></td>
-
-    <td class="box_in" align="center"><!-- Beginning of Trafficbunnies Code -->
-
-<!-- BEGIN COPYING BODY CODE HERE (INCLUDING THE COPYRIGHT NOTICE) -->
-
-<!-- NewsKaster v1.0 layout, design and all included source code copyright
-
-(c)2006. Spriteworks Developments. All rights reserved. This copyright
-
-notice MUST remain within this document at all times as a condition of use.
-
-Removal of this copyright notice voids your right to use this product.
-
-NewsKaster v1.0 may not be redistributed in any form without express written
-
-permission from Spriteworks Developments. Please carefully read the license
-
-agreement included with this script. It is the same one you agreed to when
-
-you purchased a license to use it. -->
-
-<table class="backdrop" height="250" width="150" align="center" border="1" bordercolor="000000" background="http://www.trafficbunnies.com/bgrounds/bunnies.jpg" cellpadding="0" cellspacing="0">
-
-<tbody><tr>
-
-<td style="border-style:ridge brown 1px;" width="150" class="display">
-
-<p align="center"><font face="arial" size="3" color="000000"><b>Bunnies 
-Broadcast</b></font></p></td>
-
-</tr><tr><td style="border-style:ridge brown 1px;" class="backdrop" height="250" width="150">
-
-<marquee class="display" height="250" width="150" direction="up" scrollamount="1" scrolldelay="1">
-
-<img src="http://www.trafficbunnies.com/images/mini33.gif"><font class="text">
-
-The best FREE web traffic solution!  Great Manual Traffic Exchange, to meet all of your promotional needs<br>
-
-<hr width="160" size="2" color="green">
-
-<img src="http://www.trafficbunnies.com/images/mini91.gif"><font class="text">
-
-Great site!! Truely an asset to us newbies who need all the advertising we can get!<br>
-
--Mike-<br>
-
-<a href="http://www.mikezdealz.com">Mikezdeals</a><br>
-
-<hr width="160" size="2" color="red">
-
-<center><a href="https://splashpoints.com?rid=Cindy"><img src="http://www.trafficbunnies.com/we-offer.gif" border="0"></a></center>
-
-<hr width="160" size="2" color="purple">
-
-<img src="http://www.trafficbunnies.com/images/mini29.gif"><font class="text">
-
-Advertise 5 ways!  Use our Manual surf, banner and text exchange, free directory or advertise on the forums.<br></font>
-
-<hr width="160" size="2" color="blue">
-
-<img src="http://www.trafficbunnies.com/images/mini86.gif"><font class="text">
-
-Traffic Bunnies is as clean as they come. Surfed it so far, for 2 months with out any problems or issues.  Sure beats the auto-surfs!<br>
-
--Joe-<br>
-
-</font>
-
-<hr width="160" size="2" color="yellow">
-
-<img src="http://www.trafficbunnies.com/images/mini33.gif"><font class="text">
-
-Splashpoints are here now!  You get a prize ticket every 25-30 surfs.  Win up to 500 instantly<br>
-
-<hr width="160" size="2" color="green">
-
-<img src="http://www.trafficbunnies.com/images/mini91.gif"><font class="text">
-
-Very responsive admin.  Will always do whatever we can to help you enjoy and benefit from surfing at Traffic Bunnies.<br>
-
-<hr width="160" size="2" color="red">
-
-</font>
-
-</font></font></font></marquee></td></tr></tbody></table>
-
-	<p>
-
-	<b><font face="Arial" color="#AA616B" size="4">&nbsp;<a href="http://www.startxchange.com/top/" target="_blank"><img src="http://www.startxchange.com/top/button.php?u=Cindy" alt="Top Traffic Exchanges" border="0"></a></font></b></p>
-
-
-
-				<p align="center" class="style1">
-				<a href="http://www.4offsets.com/certificate.php?cr=492959672" title="Website CO2 Offsets at www.4offsets.com" target="carbon"><img src="http://www.4offsets.com/images/seal/4offset-site-30h-1.gif" height="30" border="0"></a><br>
-				<br>
-				<a target="_blank" href="http://www.affiliatefunnel.com/teranking.php?rid=1632">
-				<img border="0" src="http://www.trafficbunnies.com/images/memberspagebuttons/af.jpg" width="125" height="125"></a></p>
-	<p align="center" class="style1">
-	<a target="_blank" href="http://traffichoopla.com/cgi-bin/p.cgi/33335/">
-	<img border="0" src="http://www.trafficbunnies.com/images/memberspagebuttons/traffichoopla.jpg" width="125" height="125"></a></p>
-				<p align="center" class="style1">
-				<a target="_blank" href="http://www.forumtrafficgold.com/">
-				<img border="0" src="http://www.trafficbunnies.com/images/memberspagebuttons/ftg.jpg" width="125" height="125"></a><br>
-				<br>
-				<a target="_blank" href="http://www.trafficbunnies.com/splash/optindn.htm">
-				<img border="0" src="http://www.trafficbunnies.com/images/memberspagebuttons/dni.jpg" width="125" height="125"></a></p></td><td class="box_r"></td>
-
-  </tr>
-
-  <tr>
-
-    <td class="box_bl"></td>
-
-    <td class="box_b"></td>
-
-    <td class="box_br"></td>
-
-  </tr>
-
-</tbody></table>
-
-          </td>
 
           <td valign="top" bgcolor="#DED1A3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 
+
+
   <tbody><tr>
+
+
 
     <td class="box_tl"></td>
 
-    <td class="box_t"></td>
+
+
+    <td class="style1"></td>
+
+
 
     <td class="box_tr"></td>
 
+
+
   </tr>
+
+
 
   <tr>
 
+
+
     <td class="box_l"></td>
+
+
 
     <td class="box_in">
 
-           Traffic Bunnies - Traffic Exchange : Privacy Page<br>
+
 
            <br>
 
-<p><b>THIS PRIVACY 
+
+
+           <br>
+
+        
+
+      
+  <p><b>THIS PRIVACY 
 						STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR Traffic Bunnies - Traffic Exchange</b><br>
 						<br>
 						<b>Information Collection and Use of Information</b><br>
@@ -367,55 +423,110 @@ Very responsive admin.  Will always do whatever we can to help you enjoy and ben
 						whether or not we use their information in this 
 						different manner<br>
 &nbsp;</p>
-<br>
+
+
+  
+
+
+
+
+
+
+   
+
+      
+
+      <br>
+
+
 
               </td>
 
+
+
     <td class="box_r"></td>
+
+
 
   </tr>
 
+
+
   <tr>
+
+
 
     <td class="box_bl"></td>
 
+
+
     <td class="box_b"></td>
+
+
 
     <td class="box_br"></td>
 
+
+
   </tr>
+
+
 
 </tbody></table>
 
+
+
           <p></p></td>
+
+
 
           <td width="186" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 
+
+
   <tbody><tr>
+
+
 
     <td class="box_tl"></td>
 
+
+
     <td class="box_t"></td>
+
+
 
     <td class="box_tr"></td>
 
+
+
   </tr>
+
+
 
   <tr>
 
+
+
     <td class="box_l"></td>
+
+
 
     <td class="box_in">
 
+
+
 	<p align="center">
 
-</p><h2>TrafficBunnies Stats</h2>
+
+
+	</p><h2>TrafficBunnies Stats</h2>
 <table border="0" align="center" id="table1">
 
 	<tbody><tr>
 		<td><font face="Georgia">Active Members</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">12869</font></td>
+		<td><font face="Georgia">17040</font></td>
 	</tr>
 
 
@@ -428,28 +539,28 @@ Very responsive admin.  Will always do whatever we can to help you enjoy and ben
 	<tr>
 		<td><font face="Georgia">Total Websites</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">12747</font></td>
+		<td><font face="Georgia">18040</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Today's Surf</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">350</font></td>
+		<td><font face="Georgia">21222</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Yesterdays Surf</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">47860</font></td>
+		<td><font face="Georgia">20441</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Average Surf</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">51864</font></td>
+		<td><font face="Georgia">40091</font></td>
 	</tr>
 
 
@@ -463,23 +574,29 @@ Very responsive admin.  Will always do whatever we can to help you enjoy and ben
 	<tr>
 		<td><font face="Georgia">Total Banners</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">3892</font></td>
+		<td><font face="Georgia">5077</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Today's Shows</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">1084</font></td>
+		<td><font face="Georgia">49196</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Yesterdays Shows</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">110183</font></td>
+		<td><font face="Georgia">1</font></td>
 	</tr>
 
+
+	<tr>
+		<td><font face="Georgia">Average Shows</font></td>
+		<td><font face="Georgia">:</font></td>
+		<td><font face="Georgia">71257</font></td>
+	</tr>
 
 	
 		
@@ -491,22 +608,28 @@ Very responsive admin.  Will always do whatever we can to help you enjoy and ben
 	<tr>
 		<td><font face="Georgia">Total Adverts</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">3388</font></td>
+		<td><font face="Georgia">4884</font></td>
 	</tr>
 
+
+	<tr>
+		<td><font face="Georgia">Today's Shows</font></td>
+		<td><font face="Georgia">:</font></td>
+		<td><font face="Georgia">13114</font></td>
+	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Yesterdays Shows</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">59126</font></td>
+		<td><font face="Georgia">6646</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Average Shows</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">99857</font></td>
+		<td><font face="Georgia">76142</font></td>
 	</tr>
 
 	
@@ -514,70 +637,120 @@ Very responsive admin.  Will always do whatever we can to help you enjoy and ben
 <h3></h3>
 
 
-<table align="center"><tbody><tr><td></td></tr></tbody></table><img border="0" src="http://www.trafficbunnies.com/images/nomore_125.gif" width="125" height="125"><p></p>
 
-	<p align="center">
 
-	<loop name="blocks">
+	<table align="center"><tbody><tr><td></td></tr></tbody></table><br>
 
-</loop>
+	&nbsp;<p></p></td>
 
-	<loop name="blocks"></loop>
-	<a target="_blank" href="http://www.mm-free.com">
-	<img border="0" src="http://www.trafficbunnies.com/images/memberspagebuttons/mm.jpg" width="125" height="125"></a><br>
-	<br>
-	<a target="_blank" href="http://www.hitsconnect.com/index.php?ref_id=2832">
-	<img border="0" src="http://www.trafficbunnies.com/images/memberspagebuttons/hitsconnect.jpg" width="125" height="125"></a></p><p align="center">
 
-	<a target="_blank" href="http://splashpoints.com/?rid=Cindy">
-	<img border="0" src="http://www.trafficbunnies.com/images/memberspagebuttons/splashpoints.jpg" width="125" height="125"></a></p><p align="center">
-
-				<a target="_blank" href="http://www.trafficbunnies.com/virtual/16/">
-				<img border="0" src="http://www.trafficbunnies.com/images/memberspagebuttons/wordpress.jpg" width="125" height="125"></a></p></td>
 
     <td class="box_r"></td>
 
+
+
   </tr>
+
+
 
   <tr>
 
+
+
     <td class="box_bl"></td>
+
+
 
     <td class="box_b"></td>
 
+
+
     <td class="box_br"></td>
 
+
+
   </tr>
+
+
 
 </tbody></table></td>
 
+
+
         </tr>
+
+
 
       </tbody></table>
 
+
+
 <table width="100%" border="0" cellpadding="20" cellspacing="0" class="bottom">
+
+
 
   <tbody><tr class="copytxt">
 
-    <td valign="bottom">Copyright © 2007, TrafficBunnies.com. All rights reserved. </td>
+
+
+    <td valign="bottom">Copyright © 2008, TrafficBunnies.com. All rights 
+
+	reserved. </td>
+
+
 
     <td align="center" valign="bottom"><b><a title="Agreement Information Page" href="?_w=agreement" target="_self">Agreement</a> | <a title="Privacy Statement" href="?_w=privacy" target="_self">Privacy</a> | </b></td>
 
+
+
   </tr>
 
+
+
 </tbody></table>
+
+
 
 	  
 
+
+
     </td>
+
+
 
   </tr>
 
+
+
 </tbody></table>
+
 <script type="text/javascript" src="http://cetrk.com/pages/scripts/0007/4248.js"> </script>
 
 
 
 
 
-Schedule Run OK</body></html>
+ <!-- Start Quantcast tag -->
+
+<script type="text/javascript">
+
+_qoptions={
+
+qacct:"p-cdWepXyEAcBn-"
+
+};
+
+</script>
+
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+
+<noscript>
+
+<a href="http://www.quantcast.com/p-cdWepXyEAcBn-" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-cdWepXyEAcBn-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+
+</noscript>
+
+<!-- End Quantcast tag -->
+
+</body></html>
