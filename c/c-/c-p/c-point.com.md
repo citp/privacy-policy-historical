@@ -1,16 +1,19 @@
-> *The following text is extracted and transformed from the c-point.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224101436id_/http%3A//www.dralexmarketing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-point.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123522id_/http%3A//www.dralexmarketing.com/privacy.php) for the most accurate reproduction.*
 
 # Dr Alex Internet Marketing: Privacy Policy
 
 ### Privacy Policy
 
-[Dr Alex Internet Marketing](https://web.archive.org/web/20071224101436id_/http%3A//www.dralexmarketing.com/index.php) and [Antechinus® Creative Software](http://www.c-point.com/) are owned and operated by C Point Pty Ltd, incorporated under Australian Company Number (ABN): 085 516 552, Australian Business Number (ABN): 48 085 516 552.  
-Our postal address is:   
-71 Williamson Road  
+[_Strategic Internet Marketing_](http://www.dralexmarketing.com/), [ _Underdog Marketing Challenge_](http://www.underdogmarketingchallenge.com/), Antechinus® [_JavaScript Editor_](http://www.c-point.com/) & web tools, and Antechinus® [_Free Online Games_](http://www.finestfreeonlinegames.com/) are owned and operated by C Point Pty Ltd, incorporated under the Australian Company Number (ACN): 085 516 552, and the Australian Business Number (ABN): 48 085 516 552.
+
+Our postal address is: 
+
+C Point Pty Ltd  
+11 Pankala Road  
 Para Hills 5096, Adelaide, Australia
 
 We can be reached via e-mail at [_info@DrAlexMarketing.com_](mailto:info@DrAlexMarketing.com)   
-or you can reach us by telephone at +618  8263 3623, or by fax at +618 8396 1477
+or you can reach us by telephone at +614  05 433 708, or by fax at +618  8121 9247
 
 **In short:**
 
