@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216181812id_/http%3A//www.alc.ca/English/Legal/%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045905id_/http%3A//www.alc.ca/English/Legal/%23Privacy) for the most accurate reproduction.*
 
 # ALC: Legal Information
 
@@ -37,38 +37,42 @@ The Atlantic Lottery Corporation (ALC) is committed to maintaining the accuracy,
 **SUMMARY OF PRINCIPLES**
 
 **_Principle 1 - Accountability  
-_**ALC is responsible for maintaining and protecting personal information of its customers under its control. In fulfilling this mandate, ALC has designated a Chief Privacy Officer who is accountable for ensuring ALC’s compliance with the 10 Privacy Principles.
+_** ALC is responsible for maintaining and protecting personal information of its customers under its control. In fulfilling this mandate, ALC has designated a Chief Privacy Officer who is accountable for ensuring ALC’s compliance with the 10 Privacy Principles.
 
  ** _Principle 2 – Identifying Purpose  
-_**ALC shall identify the purposes for which customer personal information is collected before or at the time the information is collected.
+_** ALC shall identify the purposes for which customer personal information is collected before or at the time the information is collected.
 
  ** _Principle 3 – Consent  
-_**The knowledge and consent of the customer are required for the collection, use or disclosure of customer personal information, except where required or permitted by law.
+_** The knowledge and consent of the customer are required for the collection, use or disclosure of customer personal information, except where required or permitted by law.
 
  ** _Principle 4 – Limiting Collection  
-_**ALC shall limit the collection of customer personal information to that which is necessary for the purposes identified by ALC. ALC shall collect personal information by fair and lawful means.
+_** ALC shall limit the collection of customer personal information to that which is necessary for the purposes identified by ALC. ALC shall collect personal information by fair and lawful means.
 
  ** _Principle 5 – Limiting Use, Disclosure, and Retention  
-_**ALC shall use or disclose customer personal information only for the purposes for which it was collected unless the customer has otherwise consented, or when it is required or permitted by law. ALC shall retain customer personal information only for as long as required to fulfill the purposes for which it was collected.
+_** ALC shall use or disclose customer personal information only for the purposes for which it was collected unless the customer has otherwise consented, or when it is required or permitted by law. ALC shall retain customer personal information only for as long as required to fulfill the purposes for which it was collected.
 
  ** _Principle 6 – Accuracy  
-_**Customer personal information shall be as accurate and complete as is necessary to fulfill the purposes for which it is to be used.
+_** Customer personal information shall be as accurate and complete as is necessary to fulfill the purposes for which it is to be used.
 
  ** _Principle 7 – Safeguarding Customer Information  
-_**ALC shall protect customer personal information by security safeguards that are appropriate to the sensitivity of the information.
+_** ALC shall protect customer personal information by security safeguards that are appropriate to the sensitivity of the information.
 
  ** _Principle 8 – Openness  
-_**ALC shall make available to customers information concerning the policies and practices that apply to the management of personal information.
+_** ALC shall make available to customers information concerning the policies and practices that apply to the management of personal information.
 
 **_Principle 9 – Customer Access  
-_**Upon receiving a written request from a customer, ALC will inform the customer of the existence, use and disclosure of his or her personal information, and shall give the customer access to that information. A customer may verify the accuracy and completeness of the information, and may request that it be amended, if appropriate.
+_** Upon receiving a written request from a customer, ALC will inform the customer of the existence, use and disclosure of his or her personal information, and shall give the customer access to that information. A customer may verify the accuracy and completeness of the information, and may request that it be amended, if appropriate. 
+
+**_Principle 10 – Handling Individual Concerns  
+_**Any questions or enquiries with respect to the privacy principles outlined above or about ALC’s practices should be directed to our Chief Privacy Officer.  
+ 
 
 ALC Internet Privacy Policy
 
 The privacy and security of your personal information is very important to ALC. The following describes the information we may collect, how we use it, how you can access it, and how we keep it secure.
 
 **1\. The Information We Collect  
-**ALC offers features contained within ALC.ca that require the collection, maintenance and use of some personal information. The following pieces of information may be collected:
+** ALC offers features contained within ALC.ca that require the collection, maintenance and use of some personal information. The following pieces of information may be collected:
 
 E-mail address   
 Name   
@@ -89,36 +93,36 @@ Survey responses
 **Your e-mail address is used to identify you as an “individual” on the database and is used to distribute e-mail services to which you have subscribed. 
 
 **Name, Address, Phone Number, Credit Card Information (optional) and Date of Birth  
-**This information will be used to identify you on ALC.ca, to ensure that you are a resident of either New Brunswick, Nova Scotia, Newfoundland and Labrador or Prince Edward Island and that you are the age of majority in the province in which you reside and/or as contact information if this is required.
+** This information will be used to identify you on ALC.ca, to ensure that you are a resident of either New Brunswick, Nova Scotia, Newfoundland and Labrador or Prince Edward Island and that you are the age of majority in the province in which you reside and/or as contact information if this is required.
 
 **Security Question  
-**Your security question is used to confirm your identity when communicating with ALC.
+** Your security question is used to confirm your identity when communicating with ALC.
 
 **Language Preference  
-**Your language preference is used to determine the language in which services are received.
+** Your language preference is used to determine the language in which services are received.
 
 **Bank Account Information  
-**Your bank account information will be used to transfer money between your PlaySphere account and your designated bank account.
+** Your bank account information will be used to transfer money between your PlaySphere account and your designated bank account.
 
 **Weekly Limit Information  
-**Your Weekly Limit is used to ensure you do not spend more than the limit you have established.
+** Your Weekly Limit is used to ensure you do not spend more than the limit you have established.
 
 **Contest Entries and Survey Responses  
-**When you submit your responses to survey questions or entries into contests offered through our website, we maintain your answers and/or any opinions or information that you volunteer.
+** When you submit your responses to survey questions or entries into contests offered through our website, we maintain your answers and/or any opinions or information that you volunteer.
 
 Your submission to survey questions is used to accumulate survey results, which may be published in aggregate form (i.e., your submission is not associated with you as an individual). We may use your response to improve products, services or our website. 
 
 Contest entry information is collected, retained and used as described in the contest terms and conditions.
 
 **3\. Sharing the Information  
-**ALC sometimes retains outside organizations to perform specialized services such as data processing, verification of residency and age of majority requirements and customer services. Our trusted service suppliers may at times be responsible for processing and handling some of the information we receive from you. 
+** ALC sometimes retains outside organizations to perform specialized services such as data processing, verification of residency and age of majority requirements and customer services. Our trusted service suppliers may at times be responsible for processing and handling some of the information we receive from you. 
 
 Suppliers who provide specialized services for ALC are given only the information necessary to perform those services and are prohibited from using that information for purposes other than to carry out the service they have been contracted to provide. ALC protects customer’s personal information disclosed to third parties by contractual agreements stipulating the confidentiality of the information and the purpose for which it is to be used. ALC takes appropriate steps to ensure that our suppliers provide a comparable level of protection while your personal information is in their possession. 
 
 At no time will your personal information be shared or sold to third parties for any purpose other than disclosed to you.
 
 **4\. Cookies and Statistics  
-**Cookies are small text files that identify an individual computer’s browser entering a website. They allow the website to “remember” certain pieces of information as the individual moves through it and enhance the overall experience with the site. Through cookies, a website can facilitate a user’s access to, and use of, the site. ALC uses cookies only for the above-mentioned purposes and will not use them to personally identify users unless consent to do so is specifically obtained. 
+** Cookies are small text files that identify an individual computer’s browser entering a website. They allow the website to “remember” certain pieces of information as the individual moves through it and enhance the overall experience with the site. Through cookies, a website can facilitate a user’s access to, and use of, the site. ALC uses cookies only for the above-mentioned purposes and will not use them to personally identify users unless consent to do so is specifically obtained. 
 
 For certain services to operate, your browser must be set to accept cookies. If you are concerned about having your browser enabled to accept cookies while you are visiting other websites, we recommend that you enable your browser to notify you when it is receiving a cookie. This gives you the ability of accepting or rejecting any cookie presented by the server of the website you are visiting. The site will work if you choose to reject cookies, but some functionality will not be available to you.
 
@@ -127,7 +131,7 @@ When you go to information portions of our website and move from page to page, r
 We use this information to find out how many people visit our website and which sections of the site are visited most frequently. This helps us to know what type of information is most useful to you so that we can improve our website and make it easier for you to access information.
 
 **5\. Our Commitment to Security  
-**Personal information about you will only be accessible to authorized ALC employees and representatives who require access to this information in the performance of their duties. 
+** Personal information about you will only be accessible to authorized ALC employees and representatives who require access to this information in the performance of their duties. 
 
 ALC maintains security standards, systems and procedures to help prevent unauthorized access to, or loss or misuse of, confidential information about you. Our technology is routinely updated and tested to improve the protection of our information about you and to assure the integrity of our information.
 
@@ -135,12 +139,12 @@ ALC maintains security standards, systems and procedures to help prevent unautho
 **If you have any questions or concerns about ALC’s privacy practices you may forward them to the Chief Privacy Officer at:
 
 > Chief Privacy Officer  
-> PO Box 5500   
-> Moncton, N.B. E1C 8W6  
-> Phone: (506) 867-5686   
-> Fax: (506) 867-5531  
-> E-mail: [privacyofficer@alc.ca](mailto:privacyofficer@alc.ca)  
->  
+>  PO Box 5500   
+>  Moncton, N.B. E1C 8W6  
+>  Phone: 1-800-561-3942   
+>  Fax: (506) 867-5450  
+>  E-mail: [privacyofficer@alc.ca](mailto:privacyofficer@alc.ca)  
+>   
 
 **Further Information**   
 Further information about the Atlantic Lottery Corporation and its products is available through its head office at 922 Main Street, P.O. Box 5500, Moncton, N.B., E1C 8W6, Canada. The toll-free number in Atlantic Canada is 1-800-561-3942.
