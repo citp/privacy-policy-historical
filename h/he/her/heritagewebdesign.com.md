@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the heritagewebdesign.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509084916id_/http%3A//www.heritagewebdesign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritagewebdesign.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041013id_/http%3A//www.heritagewebdesign.com/privacy.html) for the most accurate reproduction.*
 
 # Website Design - Heritage Web Solutions Privacy
 
 [ Terms Of Service](http://www.heritagewebdesign.com/tos.html)
 
 ** Our Commitment To Privacy:**  
-Your privacy is important to Heritage Web Solutions (HWS). To better protect our your privacy we provide this notice explaining how HWS treats personal information that HWS collects and receives. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Your privacy is important to Heritage™ Web Solutions (HWS). To better protect our your privacy we provide this notice explaining how HWS treats personal information that HWS collects and receives. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 ** The Information We Collect:**  
 This notice applies to personal information collected or submitted on Heritage Web Solutions websites that is not otherwise publicly available. In general you can view or visit Heritage Web Solutions pages without telling us who you are or revealing any personal information about yourself.
