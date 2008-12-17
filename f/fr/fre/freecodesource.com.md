@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freecodesource.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622105825id_/http%3A//www.freecodesource.com/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecodesource.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217022218id_/http%3A//www.freecodesource.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Myspace Layouts, Myspace Generators, Myspace Codes, Myspace Backgrounds
-
-| 
+# Privacy Policy
 
 **About FreeCodeSource.com**
 
@@ -19,7 +17,3 @@ FreeCodeSource.com contains links to sites. FreeCodeSource.com is not responsibl
 **Third Party Advertising**
 
 Ads appearing on this Web site may be delivered to users by FreeCodeSource.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by FreeCodeSource.com and does not cover the use of cookies by any advertisers.
-
-  
-|   
----|---|---
