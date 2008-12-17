@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vsp.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511211407id_/http%3A//www.vsp.com/home/html/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsp.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082208id_/http%3A//www.vsp.com/home/html/privacy.jsp) for the most accurate reproduction.*
 
 # 
 
@@ -142,7 +142,7 @@ File complaints with VSP at vsp.com, or by calling our Member Services Departmen
   * amendments to your Protected Health Information, or
   * accounting of the use or disclosure of your Protected Health Information.
 
-File complaints with the U.S. Secretary of Health and Human Services using the [HIPAA Complaint Submission Form](http://cms.hhs.gov/hipaa/hipaa2/default.asp), or by mail to: HIPAA Complaint, 7500 Security Blvd., C5-24-04, Baltimore, MD 21244, for complaints regarding: 
+File complaints with the U.S. Secretary of Health and Human Services using the [HIPAA Complaint Submission Form](http://www.hhs.gov/ocr/hipaa/), or by mail to: HIPAA Complaint, 7500 Security Blvd., C5-24-04, Baltimore, MD 21244, for complaints regarding: 
 
   * VSP’s business practices, or 
   * the use of your Protected Health Information.
@@ -154,7 +154,7 @@ File complaints with the U.S. Secretary of Health and Human Services using the [
 * * *
 
 **  
-**Contact VSP** | Contact VSP Contact us through vsp.com, or call our Member Services Department at 800-877-7195 to request: 
+**Contact VSP** | Contact us through vsp.com, or call our Member Services Department at 800-877-7195 to request: 
 
   * restrictions on the use or disclosure of your Protected Health Information,
   * amendments to your Protected Health Information,
