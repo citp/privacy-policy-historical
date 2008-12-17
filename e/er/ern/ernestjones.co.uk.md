@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224112515id_/http%3A//www.ernestjones.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021157id_/http%3A//www.ernestjones.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy - The Diamond and Watch Specialist - Ernest Jones
 
@@ -30,11 +30,17 @@ If you decide at any point that you no longer wish to receive messages of this n
 
 Please note that if you [telephone us](https://web.archive.org/webstore/secure/contactus.do), calls may be recorded for training purposes.
 
+We may also use these details for validation checks, as outlined below.
+
 #### Will we share your personal information with anyone else?
 
 We may want to share your personal information with other reputable companies and businesses working with us, such as our email provider. We will never release your personal details to any outside company for mailing or marketing purposes.
 
 Payments on the website are processed by a third party, which adheres to the privacy policy that is set out here. We have a non-disclosure agreement with this third party, and they are certified by all the major card issuers to hold details securely.
+
+#### Validation checks
+
+All credit and charge card holders are subject to validation checks and authorisation by the card issuer. If the issuer of your payment card refuses to authorise payment to us, we will not be liable for any delay or non-delivery. In addition, in the interests of preventing fraudulent use of credit, debit and charge cards, Ernest Jones will validate the names, addresses and other information supplied during the order process against commercially available records (e.g Electoral Roll data, Credit Reference Services). A third party may also be instructed to complete these checks. By ordering from the ernestjones.co.uk website you consent to such checks being made. We may need to contact you by letter, telephone or email to verify details before we are able to process and dispatch your order or we may be unable to accept your order. Any information given may be disclosed to a registered Credit Reference Agency which may keep a record of the information. All information provided will be treated in accordance with the Data Protection Act 1998. These measures are taken as extra protection for you, to ensure your online shopping experience with us is as safe and secure as possible.
 
 #### How long will we keep your information?
 
