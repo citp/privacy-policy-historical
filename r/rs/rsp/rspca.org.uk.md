@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rspca.org.uk privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627183835id_/http%3A//www.rspca.org.uk/servlet/Satellite%3Fpagename%3DRSPCA/RSPCARedirect%26pg%3DLegal%26marker%3D1%26articleId%3D1166616356329) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rspca.org.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217235337id_/http%3A//www.rspca.org.uk/servlet/Satellite%3Fpagename%3DRSPCA/RSPCARedirect%26pg%3DLegal%26marker%3D1%26articleId%3D1166616356329) for the most accurate reproduction.*
 
 # RSPCA || Legal
 
