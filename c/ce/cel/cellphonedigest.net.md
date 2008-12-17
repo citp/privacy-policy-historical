@@ -1,30 +1,28 @@
-> *The following text is extracted and transformed from the cellphonedigest.net privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616094544id_/http%3A//www.cellphonedigest.net/shop/Privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellphonedigest.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217235126id_/http%3A//www.cellphonedigest.net/shop/Privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Cell Phone Digest
 
-[Check you order](https://web.archive.org/web/20080616094544id_/http%3A//www.cellphonedigest.net/shop/checkyourordermain.htm)
+[Check you order](https://web.archive.org/web/20081217235126id_/http%3A//www.cellphonedigest.net/shop/checkyourordermain.htm)
 
-[Number Portability](https://web.archive.org/web/20080616094544id_/http%3A//www.cellphonedigest.net/shop/Number_Portability.htm)
+[Number Portability](https://web.archive.org/web/20081217235126id_/http%3A//www.cellphonedigest.net/shop/Number_Portability.htm)
 
-[Wireless Basics](https://web.archive.org/web/20080616094544id_/http%3A//www.cellphonedigest.net/shop/Wireless_Basics.htm)
+[Wireless Basics](https://web.archive.org/web/20081217235126id_/http%3A//www.cellphonedigest.net/shop/Wireless_Basics.htm)
 
-[Why buy online](https://web.archive.org/web/20080616094544id_/http%3A//www.cellphonedigest.net/shop/Why_buy_online.htm)
+[Why buy online](https://web.archive.org/web/20081217235126id_/http%3A//www.cellphonedigest.net/shop/Why_buy_online.htm)
 
 _______________
 
-[Shipping](https://web.archive.org/web/20080616094544id_/http%3A//www.cellphonedigest.net/shop/Shipping.htm)
+[Shipping](https://web.archive.org/web/20081217235126id_/http%3A//www.cellphonedigest.net/shop/Shipping.htm)
 
-[Site Security](https://web.archive.org/web/20080616094544id_/http%3A//www.cellphonedigest.net/shop/Site_Security.htm)
+[Site Security](https://web.archive.org/web/20081217235126id_/http%3A//www.cellphonedigest.net/shop/Site_Security.htm)
 
 **Privacy Policy**
 
-[About Us](https://web.archive.org/web/20080616094544id_/http%3A//www.cellphonedigest.net/shop/About_Us.htm)
+[About Us](https://web.archive.org/web/20081217235126id_/http%3A//www.cellphonedigest.net/shop/About_Us.htm)
 
-[Contact Us](https://web.archive.org/web/20080616094544id_/http%3A//www.cellphonedigest.net/shop/Contact_Us.htm)
+[Contact Us](https://web.archive.org/web/20081217235126id_/http%3A//www.cellphonedigest.net/shop/Contact_Us.htm)
 
 _______________
-
-[](http://www.cellstores.com/help/powered_cellstores.asp?)
 
 [ ](http://www.scanalert.com/RatingVerify?ref=www.cellstores.com)
 
