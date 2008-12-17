@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jysk.ca privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506041351id_/http%3A//jysk.ca/pages.aspx%3Fid%3D%26docid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jysk.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123808id_/http%3A//www.jysk.ca/pages.aspx%3Fid%3D%26docid%3D159) for the most accurate reproduction.*
 
-# Jysk Retail - Legal Information
+# JYSK.ca - BED BATH AND HOME - Legal Information
 
 |    
   
