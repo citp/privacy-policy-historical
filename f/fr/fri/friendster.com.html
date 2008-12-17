@@ -1,11 +1,14 @@
-<!--The following is the downloaded HTML source of the friendster.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509164058id_/http%3A//www.friendster.com/info/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the friendster.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217021731id_/http%3A//www.friendster.com/info/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd"><html xmlns:dict="dict"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="description" content="Friendster is a leading global social network emphasizing genuine friendships and the discovery of new people through friends. Search for old friends and classmates, stay in better touch with friends, share photos and videos, and so much more!"><title>Friendster Privacy Policy</title>
-<link rel="stylesheet" type="text/css" media="screen, print" href="http://images.friendster.com/200804D/css/home.css">
-<link rel="stylesheet" type="text/css" media="screen, print" href="http://images.friendster.com/200804D/css/interior.css">
-<link rel="stylesheet" type="text/css" media="screen, print" href="http://images.friendster.com/200804D/css/globnav.css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd"><html xmlns:dict="dict" dir=""><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Friendster - Privacy Policy</title><meta name="description" content="Friendster is a leading global social network emphasizing genuine friendships and the discovery of new people through friends. Search for old friends and classmates, stay in better touch with friends, share photos and videos, and so much more!"><script>
+		var FRIENDSTER = {}; //our new global
+		FRIENDSTER.components = {}; 
+	</script><link rel="stylesheet" type="text/css" media="screen, print" href="http://images.friendster.com/200811B/css/home.css">
+<link rel="stylesheet" type="text/css" media="screen, print" href="http://images.friendster.com/200811B/css/interior.css">
+<link rel="stylesheet" type="text/css" media="screen, print" href="http://images.friendster.com/200811B/css/globnav.css">
 <link rel="SHORTCUT ICON" href="http://images.friendster.com/images/friendster2.ico">
 <script type="text/javascript">
   window.name="friendster";
@@ -17,17 +20,17 @@
 		var userHasBlog = '';
 		var trackingName = 'sl/info/privacy';	
 		var pageViewerLangPref = 'en-US';
-		var blindedID = 'zh7_MVAq5Mhk5kCHOqlyHQ**';
+		var blindedID = '_CcNRzoOOm-cWYOr1AMjQTziXsAiQYi2weQRrv3ibaE*';
 		var pageViewerCountry = '';	
-		var profileIsSponsored = false;				
-	
-		var HbxTrackingEnabled = true;
-		</script><script type="text/javascript" src="http://images.friendster.com/200804D/js/common.js"></script><script type="text/javascript" src="http://images.friendster.com/200804D/js/locale/en-US/strings.js"></script><style type="text/css"></style>
+		var profileIsSponsored = false;
+		var widgetsURL = 'http://widgets.friendster.com';
+		var profileURL = 'http://profiles.friendster.com';			
+  </script><script type="text/javascript" src="http://images.friendster.com/200811B/js/common.js"></script><script type="text/javascript" src="http://images.friendster.com/200811B/js/jsjac.js"></script><script type="text/javascript" src="http://images.friendster.com/200811B/js/locale/en-US/strings.js"></script><style type="text/css"></style>
 <script>
 	
 	function onPageLoad()
 	{
-      
+	  
 			loadGoogleAd();
 		displayAds('paidlink','sponsorsAd','','../xsl/info/privacy.xsl',1);
 	}
@@ -35,7 +38,7 @@
 	</script>
 </head>
 <body>
-<div id="homeBg"><div id="container">
+<div><div id="homeBg" style=""><div id="container">
 <div id="top_frame">
 <script type="text/javascript">
     function showSearchType(type) {
@@ -62,60 +65,23 @@
     }
   </script><div id="navigation">
 <script>
-        var langVar;
-        var rUrl;
-
         function switchLanguage(langType) {
-
-            rUrl = document.location.href;
-
-            /* URL has # */
-            if (rUrl.indexOf("#") != -1 && rUrl.indexOf("?lang") == -1) {
-                langVar = "?lang=" + langType;
-                rUrl = rUrl.replace(rUrl.substring(rUrl.indexOf('#'),rUrl.length),langVar);
-            }
-            /* no parameter(s) in URL */
-            else if (rUrl.indexOf("?lang") == -1 && rUrl.indexOf("?") == -1) {
-                langVar = "?lang=" + langType;
-                rUrl += langVar;
-            }
-            /* parameter ?lang present in URL */
-            else if (rUrl.indexOf("?lang") != -1) {
-                langVar = "?lang=" + langType;
-                rUrl = rUrl.replace(rUrl.substring(rUrl.indexOf('?lang'),rUrl.length),langVar);
-            }
-            /* parameter &lang present in URL */
-            else if (rUrl.indexOf("&lang") != -1) {
-                langVar = "&lang=" + langType;
-                rUrl = rUrl.replace(rUrl.substring(rUrl.indexOf('&lang'),rUrl.length),langVar);
-            }
-            /* a non-lang parameter present in URL */
-            else {
-                langVar = "&lang=" + langType;
-                rUrl += langVar;
-            }
-
-                hideLanguageMenu();
-                rUrl += "&updatelang=1";
-                document.location.href = rUrl;   
+            var langType = document.getElementById('langSelecter')[document.getElementById('langSelecter').selectedIndex].value;
+            var rUrl = document.location.href;
+            url = 'http://www.friendster.com/setlang.php?lang='+langType+'&updatelang=1&next='+escape(rUrl);
+            document.location.href = url;
         }
-
-        var menuTimer;
-        function showLanguageMenu() {
-            clearTimeout(menuTimer);
-            menuTimer = setTimeout(function() {
-                document.getElementById('language-menu').style.display = 'inline';
-            }, 100);
-        }
-        function hideLanguageMenu() {
-            clearTimeout(menuTimer);
-            menuTimer = setTimeout(function() {
-                document.getElementById('language-menu').style.display = 'none';
-            }, 100)
-        }
-
     </script><div id="navLang">
-<span>Select Language:</span><span style="padding:0 7px;"><a href="javascript:onclick=switchLanguage('id-ID');" title="Bahasa Indonesia">Bahasa Indonesia</a><span style="padding:0 5px;">|</span><a href="javascript:onclick=switchLanguage('vi-VN');" title="Vietnamese">Tiếng Việt</a><span class="beta">beta</span></span><a class="active-lang-lnk" href="javascript:void(0);" onmouseover="showLanguageMenu()" onmouseout="hideLanguageMenu();"><span class="active-lang">English</span><img src="http://images.friendster.com/images/sel-lang.gif" width="11" height="6"></a><span id="language-menu" onmouseout="hideLanguageMenu();" onmouseover="showLanguageMenu();"><a href="javascript:onclick=switchLanguage('zh-TW');" title="Traditional Chinese">繁體中文</a><a href="javascript:onclick=switchLanguage('zh-CN');" title="Simplified Chinese">简体中文</a><a href="javascript:onclick=switchLanguage('es-MX');" title="Spanish">Español</a><a href="javascript:onclick=switchLanguage('ja-JP');" title="Japanese">日本語</a><a href="javascript:onclick=switchLanguage('ko-KR');" title="Korean">한국어</a><a href="javascript:onclick=switchLanguage('id-ID');" title="Bahasa Indonesia">Bahasa Indonesia</a><a href="javascript:onclick=switchLanguage('vi-VN');" title="Vietnamese">Tiếng Việt<span class="beta">beta</span></a></span>
+<span class="pad_5">Select Language</span><select id="langSelecter" onchange="switchLanguage()"><option value="en-US" title="" selected="">English</option>
+<option value="zh-TW" title="Traditional Chinese">繁體中文</option>
+<option value="zh-CN" title="Simplified Chinese">简体中文</option>
+<option value="es-MX" title="Spanish">Español</option>
+<option value="ja-JP" title="Japanese">日本語</option>
+<option value="ko-KR" title="Korean">한국어</option>
+<option value="id-ID" title="Bahasa Indonesia">Bahasa</option>
+<option value="vi-VN" title="Vietnamese">Tiếng Việt</option>
+<option value="ms-MY" title="Bahasa Malaysia">Malay</option>
+<option value="th-TH" title="Thai">ภาษาไทย</option></select>
 </div>
 <div id="navBg"></div>
 <div id="navBar">
@@ -166,11 +132,6 @@
 <a href="http://www.friendster.com/messages.php" target="_top">Messages</a><span class="globnav_pipe"> | </span><a href="http://www.friendster.com/editaccount.php" target="_top">Settings</a><span class="globnav_pipe"> | </span><a href="http://www.friendster.com/custhelp.php" target="_top">Help</a><span class="globnav_pipe"> | </span><a href="http://www.friendster.com/" target="_top">Log In</a>
 </div></div></td>
 </tr></tbody></table>
-<div style="display:none;" class="popupPanelClass languagePanel" id="languagePanel">
-<h2>Language Update:</h2>Would you like to make this language your default language when viewing Friendster?<br><br><center>
-<input type="button" name="btnLanguageYes" onclick="updateLanguage('perm');" class="promptButton" value="Yes"><input type="button" name="btnLanguageNo" value="No" onclick="updateLanguage('session');" class="promptButton" style="margin-left: 10px;">
-</center>
-<br>You can always set the default language in Settings.</div>
 <div id="mainnav">
 <div class="primary_links">
 <ul id="treemenu1">
@@ -184,6 +145,7 @@
 <li><a href="http://www.friendster.com/photolist.php?list=mostrecent" target="_top">Photos</a></li>
 <li><a href="http://www.friendster.com/video.php" target="_top">Video</a></li>
 <li><a href="http://www.friendster.com/userlist.php?list=feat_profile" target="_top">Featured Fan Profiles</a></li>
+<li><a href="http://www.friendster.com/forums" target="_top">Forums</a></li>
 <li><a href="http://www.friendster.com/widgetdirectory.php" target="_top">Applications</a></li>
 </ul>
 </li>
@@ -193,9 +155,7 @@
             buildsubmenus_horizontal();
         </script>
 </div>
-<div class="secondary_links">
-<a href="http://olx.friendster.com/gateway_cobranded.php?country=" target="_top">Classifieds</a><a href="http://www.friendster.com/invite.php" target="_top">Invite</a>
-</div>
+<div class="secondary_links"><a href="http://olx.friendster.com/gateway_cobranded.php?country=" target="_top">Classifieds</a></div>
 </div>
 <div id="navdivider"></div>
 <div id="marketing_bg"><div id="marketing"></div></div>
@@ -206,7 +166,7 @@
 <div>
 <div id="content">
 
-  
+ 
 
 
 
@@ -216,98 +176,86 @@
 
 
 
-<div class="flo2">
-<div class="lc"><div class="sn_greenbor sn_ltgreenbg"><ul class="infotools">
+
+
+
+ 
+
+
+            <div class="flo4">
+<div class="lc"><div class="bg_f7"><ul class="infotools">
 <li><a href="/info/index.php">About Us</a></li>
 <li><a href="/info/contacts.php">Contact Us</a></li>
+<li><a href="/info/advertise.php">Advertise</a></li>
 <li><a href="/info/presscenter.php">Press Center</a></li>
 <li><a href="/info/testimonials.php">Testimonials</a></li>
 <li><a href="/jobs/index.php">Jobs </a></li>
 <li><a href="/info/tos.php">Terms of Service</a></li>
-<li><a href="/info/privacy.php">Privacy Policy</a></li>
+<li class="active"><a href="/info/privacy.php">Privacy Policy</a></li>
+<li><a href="/info/photopolicy.php">Photo Policy</a></li>
 <li><a href="/info/partnerterms.php">Partner Terms of Service</a></li>
 </ul></div></div>
-<div class="rc"><dict:privacypolicyblurb>
-		<h1>Friendster Privacy Policy</h1>
-		<p>Last Updated on Oct 30, 2007</p>
-		<h1>Friendster does not send Spam or sell email addresses.</h1>
-
-		<br><h3>About Friendster and the Information We Collect</h3>
-
-		<h1>Profile Information submitted by Members to Friendster</h1>
-		<p>Friendster is an online social networking community that connects people through networks of friends for communicating, sharing and making new friends. To accomplish this, each Friendster Member creates his or her own profile, which contains the personal information that the Member chooses to include. This personal information includes such things as:</p>
-		<li>First name or first and last names of the Member (depending on the options selected by the Member),</li> 
-		<li>Gender, age, martial status and other, similar personal information,</li>
-		<li>Occupation,</li>
-		<li>Schools attended or companies with whom the Member is associated,</li>
-		<li>Location (e.g., city and state), and</li>
-		<li>Photos, videos or other shared content uploaded by the Member to his or her profile, to the extent that it includes personal information.</li><br>
-
-		<h1>Other Information submitted by Members to Friendster</h1>
-		<p>Friendster also collects Member-submitted account information such as name and email address to identify Members, send notifications related to the use of the Friendster service and conduct market research and marketing for Friendster's internal use only.  You should also be aware that Members may reveal other personal information while communicating on other areas of the Friendster website, e.g., while participating in discussions on <a href="http://www.friendster.com/group/mygroup.php"> Friendster Groups</a> and/or posting information on <a href="http://www.friendster.com/blogs.php"> Friendster Blogs</a>. This information, in turn, might be viewed by other Members or visitors to the Friendster website who are not Members.</p>
-
-		<h1>Information Not Directly Submitted by Members or Other Website Users to Friendster </h1>
-		<p>Finally, we also collect some information from Members, as well as from other visitors to the Friendster website, that is not personally identifiable, such as browser type and IP address. This information is gathered from all Members and visitors to the website.</p>
-
-		<br><h3>Use of Information Obtained by Friendster</h3>
-
-		<h1>Sharing by Members of Profile Information</h1>
-		<p>The personal information of a Member contained in his or her profile will be shown to those people whom the Member chooses. Each Member has three options when choosing the level of sharing of his or her profile. They are:</p>
-
-		<li>"Friends" which consists only of that Member's friends,</li>
-		<li>"Friends of Friends" which consists of that Member's friends, as well as the extended group of people who are friends of that Member's friends, and</li>
-		<li>"Anyone" which is all visitors to the Friendster website, whether or not they are Friendster members.</li>
-		<p><b>PLEASE NOTE THAT, REGARDLESS OF WHAT PERSONAL INFORMATION A MEMBER CHOOSES TO INCLUDE IN HIS OR HER PROFILE, OR WHAT LEVEL OF SHARING HE OR SHE CHOOSES, CERTAIN INFORMATION ABOUT EACH MEMBER WILL BE INCLUDED IN THAT MEMBER'S "PUBLIC PROFILE," WHICH IS AN ABBREVIATED VERSION OF A FRIENDSTER PROFILE. A LIST OF THE INFORMATION CONTAINED IN EACH PUBLIC PROFILE CAN BE FOUND IN THE FRIENDSTER <a href="http://www.friendster.com/info/tos.php"> TERMS OF SERVICE</a>. <a href="http://www.friendster.com/user.php?uid=1268828">CLICK HERE</a> TO SEE A SAMPLE PUBLIC PROFILE. PUBLIC PROFILES WILL BE AVAILABLE TO ANY USER OF THE FRIENDSTER WEBSITE, WHETHER OR NOT THE USER IS A MEMBER</b></p>
-		
-		<h1>Display of Members' Information</h1>
-		<p>Except where a Member might choose to include a full name in his or her profile, a Member's email address and full name will only be used in the following circumstances:</p>
-		<li>When the Member invites a friend via email to become a Friendster Member,</li>
-		<li>When the Member sends a request to another Member to add the other Member to his or her friend list,</li>
-		<li>When we send notifications to the Member relating to his or her use of the Friendster service or Friendster website, and</li>
-		<li>If the Member so chooses, when we send regular notifications, weekly updates, or other news regarding the Friendster service or the Friendster website.</li>
-
-		<p>Except when inviting or adding friends or as otherwise expressly set forth herein, a Member's email address will never be shared with or displayed to any other person. Members and their friends, and other Members within their personal networks (depending on the level of sharing a Member has chosen) communicate on Friendster with each other through the Friendster service, without disclosing email addresses.</p>
-
-		<h1>Friendster's Use of Members' Information</h1>
-		<p>We use information relating to each Member's server information, IP address, and browser-type.</p>
-
-		<h3>Sharing of the Information this Site Gathers/Tracks</h3>
-		<p>Except as explained herein, or where you are expressly informed otherwise, we do not sell, rent, share, trade or give away any of your personal information unless required by law or for the protection of your Membership. However, Friendster may share profile information and aggregate usage information in a non-personally identifiable manner with advertisers and other third parties in order to present to Members and other users of the Friendster website more targeted advertising, products and services; provided that, in such situations, we will never disclose information that would personally identify you.  As set forth above, Friendster may (i) use your email address to conduct market research for Friendster's internal use only; and/or (ii) use your email address to market Friendster to you (e.g., new features and applications, announcements, opportunities of interest).  Friendster may contract with a third party to conduct such research and marketing; provided that such third party will be fully bound by an obligation of confidentiality to Friendster and may not use any personally-identifiable information provided by Friendster other than as expressly instructed by Friendster and in strict compliance with the terms of this Privacy Policy.</p>
-
-		<h3>Links</h3>
-		<p>The Friendster Website contains links to other websites. This includes links that are placed there by Friendster (such as in advertisements), as well as by other Friendster Members. Please be aware that Friendster is not responsible for the privacy practices of any other website. We encourage all Members and other users of the Friendster website to be aware of when they leave our website, and to read the privacy policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by Friendster through the Friendster website.</p>
-
-		<h3>Use of Cookies</h3>
-		<p>A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on the Friendster website. However, we do not and will not use cookies to collect private information from any Member or other user of the Friendster website which they did not intentionally submit to us other than as stated in this Privacy Policy.  We use both "session ID cookies" and "persistent cookies." We use session ID cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. Note also that Members may optionally use a cookie to remember their email in order to automatically log in to our website. You can remove persistent cookies by following directions provided in your Internet browsers's "help" file; however, please note that, if you reject cookies or disable cookies in your web browser, you may not be able to use the Friendster website.</p>
-
-		<h3>Correcting/Updating or Removing Information</h3>
-		<p><b>REMEMBER THAT YOU CAN CHANGE THE GROUP OF PEOPLE WHO MAY VIEW YOUR PROFILE AT ANY TIME. YOU CAN CHANGE THESE PROFILE SHARING SETTINGS BY CLICKING THE "SETTINGS" LINK IN THE TOP, RIGHT CORNER OF THE FRIENDSTER HOMEPAGE. ALSO, YOU CAN ALWAYS CHANGE THE PERSONAL INFORMATION YOU'VE SUBMITTED TO THE FRIENDSTER WEBSITE, INCLUDING THE INFORMATION INCLUDED IN YOUR FRIENDSTER PROFILE, BY CLICKING THE "EDIT PROFILE" LINK ON YOUR FRIENDSTER PROFILE PAGE.</b></p>
-
-		<h3>Changes in Our Privacy Policy</h3>
-		<p>If we change our privacy policy, we will post those changes on our web site so Members and other users of the Friendster website are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use Members' or other users' personally identifiable information in a manner different from that stated at the time of collection, we will notify those Members and users via email or by placing a prominent notice on our website.</p>
-
-		<h3>Invite a Friend</h3>
-		<p>If a Member elects to use our "Invite" feature to invite a friend to become a Member of the Friendster service, we ask them for that friend's email address. Friendster will automatically send the friend an email inviting them to join the site. Friendster stores this email address for the purpose of: (i) automatically adding the respondent to the “friends list” of the Member sending the invitation; (ii) sending reminders of the invitation and (iii) sending emails on recent updates by the Member on Friendster to the Member's invited friend.  Friendster will never sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Any person who receives an invitation may <a href="/info/contacts.php">contact Friendster</a> to request the removal of this information from our database.</p>
-		<h3>Security</h3>
-		<p>The Friendster account of every Member is password-protected. Friendster takes every precaution to protect the information of the Members, as well as information collected from other users of the Friendster website. We use industry standard measures to protect all information that is stored on our servers and within our database. We limit the access to this information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please <a href="/info/contacts.php">contact us</a>.</p>
-
-		<h3>Email Choice/Opt-out</h3>
-		<p>Members who no longer wish to receive our weekly email updates or other email notifications may opt-out of receiving these communications by following the instructions contained in the applicable email or by logging-in and changing their settings in the "Account Settings" section of the Friendster website. You can access this page by clicking on the "Settings" link on the top right of your Friendster homepage.</p>
-
-		<h3>Third Party Advertising</h3>
-		<p>The ads appearing on this Web site are delivered to Members by our Web advertising partners. Our Web advertising partners may use cookies. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Friendster does not have access to or control of the cookies that may be placed on the computer of any Member or other user of the Friendster website by the third-party ad servers or ad networks.</p>
-		<p>This privacy statement covers the use of cookies by Friendster only, and does not cover the use of cookies by any other party.</p>
-
-		<h3>Members and Users Located Outside of the United States of America</h3>
-		<p>We have made an effort to protect the personal information of all Members and other users of the Friendster website, and to the extent applicable, we attempt to comply with local data protection and consumer rights laws. If you are unsure whether this privacy policy is in conflict with the applicable local rules where you are located, you should not submit your personal information to the Friendster website. <b>IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found <a href="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML">here</a>).</b> Members and other users of the Friendster website located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America.</p>
-
-		<h3>Contacting Friendster</h3>
-		<p>If you have any questions about this privacy policy, Friendster's privacy practices, or your dealings with Friendster, please <a href="/info/contacts.php">contact us</a>.</p>
-	</dict:privacypolicyblurb></div>
+<div class="rc">
+<h1>Friendster Privacy Policy</h1>
+<p>Last Updated on Oct 30, 2007</p>
+<h1>Friendster does not send Spam or sell email addresses.</h1>
+<br><h3>About Friendster and the Information We Collect</h3>
+<h1>Profile Information submitted by Members to Friendster</h1>
+<p>Friendster is an online social networking community that connects people through networks of friends for communicating, sharing and making new friends. To accomplish this, each Friendster Member creates his or her own profile, which contains the personal information that the Member chooses to include. This personal information includes such things as:</p>
+<li>First name or first and last names of the Member (depending on the options selected by the Member),</li>
+<li>Gender, age, martial status and other, similar personal information,</li>
+<li>Occupation,</li>
+<li>Schools attended or companies with whom the Member is associated,</li>
+<li>Location (e.g., city and state), and</li>
+<li>Photos, videos or other shared content uploaded by the Member to his or her profile, to the extent that it includes personal information.</li>
+<br><h1>Other Information submitted by Members to Friendster</h1>
+<p>Friendster also collects Member-submitted account information such as name and email address to identify Members, send notifications related to the use of the Friendster service and conduct market research and marketing for Friendster's internal use only.  You should also be aware that Members may reveal other personal information while communicating on other areas of the Friendster website, e.g., while participating in discussions on <a href="http://www.friendster.com/group/mygroup.php"> Friendster Groups</a> and/or posting information on <a href="http://www.friendster.com/blogs.php"> Friendster Blogs</a>. This information, in turn, might be viewed by other Members or visitors to the Friendster website who are not Members.</p>
+<h1>Information Not Directly Submitted by Members or Other Website Users to Friendster </h1>
+<p>Finally, we also collect some information from Members, as well as from other visitors to the Friendster website, that is not personally identifiable, such as browser type and IP address. This information is gathered from all Members and visitors to the website.</p>
+<br><h3>Use of Information Obtained by Friendster</h3>
+<h1>Sharing by Members of Profile Information</h1>
+<p>The personal information of a Member contained in his or her profile will be shown to those people whom the Member chooses. Each Member has three options when choosing the level of sharing of his or her profile. They are:</p>
+<li>"Friends" which consists only of that Member's friends,</li>
+<li>"Friends of Friends" which consists of that Member's friends, as well as the extended group of people who are friends of that Member's friends, and</li>
+<li>"Anyone" which is all visitors to the Friendster website, whether or not they are Friendster members.</li>
+<p><b>PLEASE NOTE THAT, REGARDLESS OF WHAT PERSONAL INFORMATION A MEMBER CHOOSES TO INCLUDE IN HIS OR HER PROFILE, OR WHAT LEVEL OF SHARING HE OR SHE CHOOSES, CERTAIN INFORMATION ABOUT EACH MEMBER WILL BE INCLUDED IN THAT MEMBER'S "PUBLIC PROFILE," WHICH IS AN ABBREVIATED VERSION OF A FRIENDSTER PROFILE. A LIST OF THE INFORMATION CONTAINED IN EACH PUBLIC PROFILE CAN BE FOUND IN THE FRIENDSTER <a href="http://www.friendster.com/info/tos.php"> TERMS OF SERVICE</a>. <a href="http://www.friendster.com/user.php?uid=1268828">CLICK HERE</a> TO SEE A SAMPLE PUBLIC PROFILE. PUBLIC PROFILES WILL BE AVAILABLE TO ANY USER OF THE FRIENDSTER WEBSITE, WHETHER OR NOT THE USER IS A MEMBER</b></p>
+<h1>Display of Members' Information</h1>
+<p>Except where a Member might choose to include a full name in his or her profile, a Member's email address and full name will only be used in the following circumstances:</p>
+<li>When the Member invites a friend via email to become a Friendster Member,</li>
+<li>When the Member sends a request to another Member to add the other Member to his or her friend list,</li>
+<li>When we send notifications to the Member relating to his or her use of the Friendster service or Friendster website, and</li>
+<li>If the Member so chooses, when we send regular notifications, weekly updates, or other news regarding the Friendster service or the Friendster website.</li>
+<p>Except when inviting or adding friends or as otherwise expressly set forth herein, a Member's email address will never be shared with or displayed to any other person. Members and their friends, and other Members within their personal networks (depending on the level of sharing a Member has chosen) communicate on Friendster with each other through the Friendster service, without disclosing email addresses.</p>
+<h1>Friendster's Use of Members' Information</h1>
+<p>We use information relating to each Member's server information, IP address, and browser-type.</p>
+<h3>Sharing of the Information this Site Gathers/Tracks</h3>
+<p>Except as explained herein, or where you are expressly informed otherwise, we do not sell, rent, share, trade or give away any of your personal information unless required by law or for the protection of your Membership. However, Friendster may share profile information and aggregate usage information in a non-personally identifiable manner with advertisers and other third parties in order to present to Members and other users of the Friendster website more targeted advertising, products and services; provided that, in such situations, we will never disclose information that would personally identify you.  As set forth above, Friendster may (i) use your email address to conduct market research for Friendster's internal use only; and/or (ii) use your email address to market Friendster to you (e.g., new features and applications, announcements, opportunities of interest).  Friendster may contract with a third party to conduct such research and marketing; provided that such third party will be fully bound by an obligation of confidentiality to Friendster and may not use any personally-identifiable information provided by Friendster other than as expressly instructed by Friendster and in strict compliance with the terms of this Privacy Policy.</p>
+<h3>Links</h3>
+<p>The Friendster Website contains links to other websites. This includes links that are placed there by Friendster (such as in advertisements), as well as by other Friendster Members. Please be aware that Friendster is not responsible for the privacy practices of any other website. We encourage all Members and other users of the Friendster website to be aware of when they leave our website, and to read the privacy policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by Friendster through the Friendster website.</p>
+<h3>Use of Cookies</h3>
+<p>A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on the Friendster website. However, we do not and will not use cookies to collect private information from any Member or other user of the Friendster website which they did not intentionally submit to us other than as stated in this Privacy Policy.  We use both "session ID cookies" and "persistent cookies." We use session ID cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. Note also that Members may optionally use a cookie to remember their email in order to automatically log in to our website. You can remove persistent cookies by following directions provided in your Internet browsers's "help" file; however, please note that, if you reject cookies or disable cookies in your web browser, you may not be able to use the Friendster website.</p>
+<h3>Correcting/Updating or Removing Information</h3>
+<p><b>REMEMBER THAT YOU CAN CHANGE THE GROUP OF PEOPLE WHO MAY VIEW YOUR PROFILE AT ANY TIME. YOU CAN CHANGE THESE PROFILE SHARING SETTINGS BY CLICKING THE "SETTINGS" LINK IN THE TOP, RIGHT CORNER OF THE FRIENDSTER HOMEPAGE. ALSO, YOU CAN ALWAYS CHANGE THE PERSONAL INFORMATION YOU'VE SUBMITTED TO THE FRIENDSTER WEBSITE, INCLUDING THE INFORMATION INCLUDED IN YOUR FRIENDSTER PROFILE, BY CLICKING THE "EDIT PROFILE" LINK ON YOUR FRIENDSTER PROFILE PAGE.</b></p>
+<h3>Changes in Our Privacy Policy</h3>
+<p>If we change our privacy policy, we will post those changes on our web site so Members and other users of the Friendster website are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use Members' or other users' personally identifiable information in a manner different from that stated at the time of collection, we will notify those Members and users via email or by placing a prominent notice on our website.</p>
+<h3>Invite a Friend</h3>
+<p>If a Member elects to use our "Invite" feature to invite a friend to become a Member of the Friendster service, we ask them for that friend's email address. Friendster will automatically send the friend an email inviting them to join the site. Friendster stores this email address for the purpose of: (i) automatically adding the respondent to the “friends list” of the Member sending the invitation; (ii) sending reminders of the invitation and (iii) sending emails on recent updates by the Member on Friendster to the Member's invited friend.  Friendster will never sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Any person who receives an invitation may <a href="/info/contacts.php">contact Friendster</a> to request the removal of this information from our database.</p>
+<h3>Security</h3>
+<p>The Friendster account of every Member is password-protected. Friendster takes every precaution to protect the information of the Members, as well as information collected from other users of the Friendster website. We use industry standard measures to protect all information that is stored on our servers and within our database. We limit the access to this information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please <a href="/info/contacts.php">contact us</a>.</p>
+<h3>Email Choice/Opt-out</h3>
+<p>Members who no longer wish to receive our weekly email updates or other email notifications may opt-out of receiving these communications by following the instructions contained in the applicable email or by logging-in and changing their settings in the "Account Settings" section of the Friendster website. You can access this page by clicking on the "Settings" link on the top right of your Friendster homepage.</p>
+<h3>Third Party Advertising</h3>
+<p>The ads appearing on this Web site are delivered to Members by our Web advertising partners. Our Web advertising partners may use cookies. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Friendster does not have access to or control of the cookies that may be placed on the computer of any Member or other user of the Friendster website by the third-party ad servers or ad networks.</p>
+<p>This privacy statement covers the use of cookies by Friendster only, and does not cover the use of cookies by any other party.</p>
+<h3>Members and Users Located Outside of the United States of America</h3>
+<p>We have made an effort to protect the personal information of all Members and other users of the Friendster website, and to the extent applicable, we attempt to comply with local data protection and consumer rights laws. If you are unsure whether this privacy policy is in conflict with the applicable local rules where you are located, you should not submit your personal information to the Friendster website. <b>IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found <a href="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML">here</a>).</b> Members and other users of the Friendster website located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America.</p>
+<h3>Contacting Friendster</h3>
+<p>If you have any questions about this privacy policy, Friendster's privacy practices, or your dealings with Friendster, please <a href="/info/contacts.php">contact us</a>.</p>
+</div>
 </div>
 
-
-</div>
+        
+        </div>
 <div class="clearBothNoHeight"></div>
 </div>
 <div id="photobucketPanel" class="popupPanelClass" style="display: none;">
@@ -319,20 +267,22 @@
 <div id="adfactory2" name="adfactory2" style="visibility:hidden;display:none"><script id="dartAdScriptWrite2" name="dartAdScriptWrite2">document.write(getScriptTag(2));</script></div>
 <div id="adfactory3" name="adfactory3" style="visibility:hidden;display:none"><script id="dartAdScriptWrite3" name="dartAdScriptWrite3">document.write(getScriptTag(3));</script></div>
 <div id="adfactory4" name="adfactory4" style="visibility:hidden;display:none"><script id="dartAdScriptWrite4" name="dartAdScriptWrite4">document.write(getScriptTag(4));</script></div>
-<script type="text/javascript" src="http://images.friendster.com/200804D/js/footer.js"></script><div id="googleAdFactory" class="center fullwidth" style="visibility:hidden;display:none;margin:10px 0 3px 0">
+<script type="text/javascript" src="http://images.friendster.com/200811B/js/footer.js"></script><div id="googleAdFactory" class="center fullwidth" style="visibility:hidden;display:none;margin:10px 0 3px 0">
 <script type="text/javascript">
      
                       var placement=document.getElementById("googleAdPlacement");
                       if (placement) {
 
                        
-                      google_ad_client = "ca-friendster_btf_intl_js";
+                      google_ad_client = "pub-0601927155896097"; // int'l
+                          
+                      google_ad_channel = "7504501544"; // international - all other pages
                            google_alternate_ad_url = "http://images.friendster.com/images/remnant.html";
                       google_ad_width = 300;
                       google_ad_height = 250;
-                      google_ad_format = "300x250_pas_abgnc";
+                      google_ad_format = "300x250_as";
                           
-                      google_ad_type = "text_image_flash";
+                      google_ad_type = "text_image";
                       google_color_border = "F4F4EB";
                       google_color_bg = "ffffff";
                       google_color_line = "F4F4EB";
@@ -399,19 +349,25 @@
           </script><div style="width:400px"></div>
 </div>
 </div></div>
-</div></div>
+</div></div></div>
 <div id="footer_container"><div id="footer" class="applicationWrapper" style="display:block;">
 <a href="http://www.friendster.com/info/index.php" target="_top">About Us</a> |
       <a href="http://www.friendster.com/info/contacts.php" target="_top">Contact Us</a> |
       <a href="http://www.friendster.com/developer" target="_top">Developers</a> |        
       <a href="http://www.friendster.com/affiliate.php" target="_top">Share Your Profile</a> |
       <a href="http://www.friendster.com/custhelp.php" target="_top">Help</a> |
+      <a name="&amp;lid=advertise_footerLink" href="http://www.friendster.com/info/advertise.php" target="_top">Advertise</a><span style="color:#f26649;position:relative;top:-3px"> New</span> | 
+
       <a href="http://www.friendster.com/info/tos.php" target="_top">Terms of Service</a> |
-      <a href="http://www.friendster.com/info/privacy.php" target="_top">Privacy Policy</a><div style="margin-top: 5px !important;">Copyright 2002-2008 Friendster, Inc.  All rights reserved. U.S. Patent No. 7,069,308, 7,117,254 &amp; 7,188,153</div><!--phpqcx5.gbxsc.friendster.com--></div></div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
-	_uacct = "UA-1826805-1";
-	_udn="friendster.com"; 
-	urchinTracker(trackingName);
+      <a href="http://www.friendster.com/info/privacy.php" target="_top">Privacy Policy</a><div style="margin-top: 5px !important;">Copyright 2002-2008 Friendster, Inc.  All rights reserved. U.S. Patent No. 7,069,308, 7,117,254, 7,188,153 &amp; 7,451,161</div><!--phpqcx314.gbxsc.friendster.com--></div></div>
+<img width="1" height="1" alt=" " border="0" src="http://images.friendster.com/images/uncacheable.gif"><script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-1826805-1");
+	pageTracker._setDomainName(".friendster.com");
+	pageTracker._trackPageview(trackingName);
+	
   </script>
 
 
