@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kaotic.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629201426id_/http%3A//www.kaotic.com/pages.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaotic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217232645id_/http%3A//www.kaotic.com/pages.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Fight Videos Shocking Videos Extreme Videos - Viewing Info - Kaotic.com
+# Funny Videos - Viewing Info - Kaotic.com
 
 **Information Collection**  
 We will not collect any unique information about you unless you specifically and knowingly provide such information to us. 
