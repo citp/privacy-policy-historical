@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesahara.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612195025id_/http%3A//www.gamesahara.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesahara.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105747id_/http%3A//www.gamesahara.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
 
 # GameSahara.com - Privacy Policy
 
@@ -29,4 +29,4 @@ We collect electronic mail information only if it is volunteered by you, such as
 
 If in the future this Privacy Policy is amended or updated, you will be subject to this Privacy Policy as amended or updated. We will not notify you of any amendments or updates to this Privacy Policy. It is your responsibility to check this Privacy Policy often for any changes hereto.
 
-copyright 2007/2008  Web Entertainment Productions, Inc. All Rights Reserved. 
+copyright 2008/2009  Web Entertainment Productions, Inc. All Rights Reserved. 
