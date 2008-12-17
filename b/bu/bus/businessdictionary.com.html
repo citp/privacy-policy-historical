@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the businessdictionary.com privacy policy that was archived on 2007-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071218113924id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the businessdictionary.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217092254id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy, Disclaimer and Copyright</title>
@@ -13,132 +13,112 @@
 <style type="text/css" title="currentStyle" media="print">/*<![CDATA[*/	@import "/css/print.css";/*]]>*/</style>
 <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
-<script type="text/javascript" src="/js/f.js"></script>
-<script type="text/javascript" src="/js/interface.js"></script>
-<script type="text/javascript" src="/js/suggestion.js"></script>
-<script type="text/javascript" src="/js/ajax.js"></script>
+<script type="text/javascript" src="/js/all.js?ver=2"></script>
 <script language="javascript" type="text/javascript">
-function track_icon( id ){
-Query( "GET", "http://www.businessdictionary.com/connectors/icon_tracker.php?icon_id=" + id + "&rand=" + Math.random() );
-}
+function track_icon(id){Query("GET","http://www.businessdictionary.com/connectors/icon_tracker.php?icon_id="+id+"&rand="+Math.random());}
 </script>
 </head>
 <body>
 <div id="all">
-<div id="top">
+<div class="all-rt">&nbsp;</div>
+<div id="top" style="height:69px;">
 <div id="logo"><a href="http://www.businessdictionary.com/"><img src="/images/logo.png" alt="logo" title=""></a></div>
-<div id="splash-new"><!-- --></div>
-<div id="top-links">
-<a onclick="track_icon(1)" href="http://fusion.google.com/add?moduleurl=http://www.businessdictionary.com/gadget.php" target="_blank"><img src="/images/t-google.gif" border="0" alt="Add to iGoogle"></a>
-<a onclick="track_icon(2)" href="http://www.facebook.com/apps/application.php?api_key=ad38f58db612474868201aa6ef3c1702" target="_blank"><img src="/images/t-facebook.png" border="0" width="112" height="16" alt="Get our Facebook application"></a>
-<a target="_blank" href="http://feeds.feedburner.com/BDTermOfTheDay">
-<img src="/images/feed-icon-14x14.png" alt="Subscribe to our Feed" title="Subscribe to our Feed">
-</a>
-<a onclick="track_icon(3)" target="_blank" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.businessdictionary.com/&amp;t=Business+Dictionary+-+Clear,+Concise,+Comprehensive&amp;"><img src="/images/t-yahoo.gif" alt="Add to Yahoo Bookmarks" title="Add to Yahoo Bookmarks"></a>
-<a onclick="track_icon(4)" href="http://www.businessdictionary.com/search-box.php"><img src="/images/t_mbd_add.gif" alt="Add our Search Widget to your site" title="Add our Search Widget to your site"></a>
-<!-- a href="#"><img src="/images/t-mail.gif" alt="Signup for term of the day" title="Signup for term of the day" /></a -->
+<div style="position:absolute;right:10px;">
+<script>
+function addFavorites()
+{
+track_icon(5);
+// window.external.AddFavorite('http://www.businessdictionary.com/', 'BusinessDictionary.com - Online Business Dictionary' );
+var bookmarkurl='http://www.businessdictionary.com/';
+var bookmarktitle='BusinessDictionary.com - Online Business Dictionary';
+if (window.sidebar) { // Mozilla Firefox Bookmark
+window.sidebar.addPanel(bookmarktitle, bookmarkurl,"");
+} else if( window.external ) { // IE Favorite
+window.external.AddFavorite( bookmarkurl, bookmarktitle); }
+else if(window.opera && window.print) { // Opera Hotlist
+return true;
+}
+}
+</script>
+</div>
+<br>
+<div style="position:absolute;right:10px;margin-top:-14px;">
+<a class="share share_delicious" onclick="track_icon(6)" target="_blank" href="http://del.icio.us/post?url=http://www.businessdictionary.com/" title="Share this site with del.icio.us"></a>
+<a class="share share_furl" onclick="track_icon(10)" target="_blank" href="http://www.furl.net/storeIt.jsp?t=BusinessDictionary.com+-+Online+Business+Dictionary&amp;u=http://www.businessdictionary.com/" title="Share this site with furl"></a>
+<a class="share share_stumbleupon" onclick="track_icon(11)" target="_blank" href="http://www.stumbleupon.com/submit?url=http://www.businessdictionary.com/" title="Share this site with stumbleupon"></a>
+<a class="share share_google" onclick="track_icon(12)" target="_blank" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http://www.businessdictionary.com/" title="Share this site with google"></a>
+<a class="share share_yahoo" onclick="track_icon(3)" target="_blank" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.businessdictionary.com/&amp;t=Business+Dictionary+-+Clear,+Concise,+Comprehensive&amp;" title="Add this site to Yahoo Bookmarks"></a>
+<a class="share share_fav" href="javascript:addFavorites();" title="Click here to add us to your favorites"></a>
+<a class="share share_rss" href="http://www.businessdictionary.com/rss.php" title="Subscribe to our Feed"></a>
+</div>
+<br>
+<div id="top-links-ie" style="margin-top:7px;">
+<a class="share share_igoogle" onclick="track_icon(1)" href="http://fusion.google.com/add?moduleurl=http://www.businessdictionary.com/gadget.php" target="_blank" title="Add to iGoogle"></a>
+<a class="share share_facebook" onclick="track_icon(2)" href="http://www.businessdictionary.com/facebook.php" title="Get our Facebook applications"></a>
+<a class="share share_widget" nclick="track_icon(4)" href="http://www.businessdictionary.com/search-box.php" title="Add our Search Widget to your site"></a>
 </div>
 <div id="menu">
-<a href="http://www.businessdictionary.com/"><img src="/images/m1.png" alt="Home" title=""></a>
-<a href="http://www.businessdictionary.com/terms-by-subject.php"><img src="/images/m3.png" alt="Browse by subject" title=""></a>
-<a href="http://www.businessdictionary.com/most-popular-terms.php"><img src="/images/m4.png" alt="Most populars" title=""></a>
-<a href="http://www.businessdictionary.com/term-of-day.php"><img src="/images/m5.png" alt="Term of the day" title=""></a>
+<a class="menu menu_1" href="http://www.businessdictionary.com/" title="Home">Home</a>
+<a class="menu menu_3" href="http://www.businessdictionary.com/terms-by-subject.php">Browse by subject</a>
+<a class="menu menu_4" href="http://www.businessdictionary.com/most-popular-terms.php">Most populars</a>
+<a class="menu menu_5" href="http://www.businessdictionary.com/term-of-day.php">Term of the day</a>
 </div>
 <!--end menu-->
 </div>
 <!--end top-->
 <div id="search">
-<table>
-<colgroup><col>
-</colgroup><tbody><tr>
-<td>
+<table><tbody><tr><td>
 <form id="sf" name="sf" action="http://www.businessdictionary.com/search.php" method="get">
 <img src="/images/t-search4term.gif" alt="Search for a term" style="position:relative;top:-1px;">
-<span class="inptext">
-<input type="text" value="" class="input" tabindex="-1" onblur="filter_inactive(this);" onclick="filter_active(this);" onkeydown="filter_active(this);" id="search_field" name="search" style="width:343px" autocomplete="off"></span>
+<span class="inptext"><input type="text" value="" class="input" tabindex="-1" onblur="filter_inactive(this);" onclick="filter_active(this);" onkeydown="filter_active(this);" id="search_field" name="search" style="width:343px" autocomplete="off"></span>
 <input type="submit" class="submit-l" value="">
 </form>
-<script language="javascript" type="text/javascript"><!--
+<script language="javascript" type="text/javascript">
 var el = document.getElementById('search_field');
 el.autocomplete = 'off';
-el.setAttribute( 'autocomplete', 'off' );
+el.setAttribute('autocomplete', 'off');
 empty_filter = false;
-function filter_active( sender ){
-//	alert('active');
-if( empty_filter ){
-empty_filter = false;
-sender.value = '';
-}
-}
-function filter_inactive(sender){
-//						alert('inactive');
-if( sender.value == '' ){
-empty_filter = true;
-sender.value = 'Enter a word or phrase...';
-//setSelectionRange( sender, 0,0 );
-}
-}
-//onsubmit="return validate_filter()"
-function validate_filter(){
-if(empty_filter)
-alert('Enter a word or phrase...');
-return !empty_filter;
-}
-var t = document.getElementById('search_field');
-t.focus();
-empty_filter = true;
-first = true;
-t.onfocus= function(){
-if(empty_filter && !first){
-this.value='';
-empty_filter=false;
-}
-first = false;
-}
-t.value = 'Enter a word or phrase...';
-t.focus();
-setSelectionRange( t, 0,0 );
+function filter_active(sender) { if (empty_filter) { empty_filter = false; sender.value = ''; } }
+function filter_inactive(sender) { if (sender.value == '') { empty_filter = true; sender.value = 'Enter a word or phrase...'; } }
+function validate_filter() { if (empty_filter) alert('Enter a word or phrase...'); return !empty_filter; }
+var t=document.getElementById('search_field'); t.focus(); empty_filter=true; first=true;
+t.onfocus= function() { if (empty_filter && !first) { this.value=''; empty_filter=false; } first=false; }
+t.value='Enter a word or phrase...'; t.focus(); setSelectionRange(t,0,0);
 var suggestion = new CSuggestion('search_field');
-suggestion.init(
-{
-searchUrl: 'http://www.businessdictionary.com/search.php',
-searchKey: 'search',
-searchTarget: '_self',
-requestUrl: 'http://www.businessdictionary.com/search.php?mode=get_words&search='
-}
-);
+suggestion.init({ searchUrl: 'http://www.businessdictionary.com/search.php', searchKey: 'search', searchTarget: '_self', requestUrl: 'http://www.businessdictionary.com/search.php?mode=get_words&search=' });
 document.onkeyup = suggestion.handleArrowKeys.bind(suggestion);
-//document.onkeydown = suggestion.handleArrowKeysDown.bind(suggestion);
 document.forms['sf'].onsubmit = suggestion.formSubmit.bind(suggestion);
---></script>
+</script>
 </td>
 <td style="text-align:right;padding-top:0;vertical-align:middle;">
 <!--reserved banner place-->
-</td>
-</tr>
-</tbody></table>
+</td></tr></tbody></table>
 </div>
 <!--end search-->
 <div id="wrapper">
 <div id="print_head">
 BusinessDictionary.com
 </div>
+<div id="content_container">
 <div class="twocol">
 <div id="content">
 <h2>Privacy Policy, Disclaimer and Copyright</h2>
-<p><strong><span style="font-size: 10pt; font-family: Verdana;">Privacy Policy</span></strong></p>
-<p><span style="font-size: 10pt; font-family: Verdana;">We collect no information about our users that is not supplied voluntarily through web forms or e-mail. Any information collected in this manner is never shared with anyone unless expressly requested by the user. We do not sell or reveal user information to anyone. We may at times collect anonymous tracking information to gauge usage patterns and the popularity of specific areas of the site. As with all other information, these data do not leave our sites. Some of this data is gathered through the use of cookies. Cookies may be deactivated by the user at any time. They are not required for this site to function properly. Transparent gifs or pixels may occasionally be used for the same purpose, but these items gather no personal data and have no effect on site use or navigation. </span></p>
-<p><span style="font-size: 10pt; font-family: Verdana;">All of our newsletters are opt-in, meaning that they are sent only to those who have specifically requested to receive them. Unsubscribe instructions are included at the bottom of each issue. Some newsletter issues include advertising, clearly identified as such. By signing up to receive our email newsletters, you also agree to receive occasional email announcements and special offers from our partners. However, no information gathered from newsletter subscribers, including email addresses, is ever shared with or sold to any third party.</span></p>
-<p><strong><span style="font-size: 10pt; font-family: Verdana;">Disclaimer</span></strong></p>
-<p><span style="font-size: 10pt; font-family: Verdana;">Reproduction of the dictionary, in whole or in part, is prohibited without written permission. However, we do encourage you to mention and link to the site. </span></p>
-<p><span style="font-size: 10pt; font-family: Verdana;">This site is published with the understanding that the publisher is not engaged in rendering legal or investment services. Since each individual's situation is unique, a qualified professional should be consulted before making business, tax, legal or investment decisions. We make no guarantees as to the accuracy, thoroughness or quality of the information, and are not responsible for errors or omissions. The information provided at this site is neither comprehensive nor appropriate for every individual. Some of the information is relevant only in the <st1:country-region w:st="on"><st1:place w:st="on">U.S.</st1:place></st1:country-region>, and would differ elsewhere. Some of the glossary terms relate to subjects or investment strategies that might not be appropriate for some individuals. You are strongly cautioned to verify any information before using it for any personal, financial or business purpose. Do not rely solely on what you find here for making investment decisions. This site is provided on the express condition, to which all making use thereof assent, that no liability shall be incurred by WebFinance Inc. (d/b/a BusinessDictionary.com) or any of its employees. </span></p>
-<p><span style="font-size: 10pt; font-family: Verdana;">We are not responsible for the claims or representations made by advertisers and sponsors. WebFinance Inc. does not endorse or recommend the products or services of any company mentioned on our site. Nothing on this site should be construed as an offer or solicitation to buy or sell any products or securities. All investments involve risk. Past performance does not guarantee future results.</span></p>
-<p class="MsoNormal" style="margin-bottom: 12pt;"><strong><span style="font-size: 10pt; font-family: Verdana;">Copyright Notice</span></strong></p>
-<p class="MsoNormal"><span style="font-size: 10pt; font-family: Verdana;">We are very pleased to have partnered with Vijay Luthra to bring you this dictionary. Vijay is the author and copyright holder of the definitions, and under our partnership we have the exclusive and permanent right to publish the definitions online. Vijay shares our passion for educating as many people as possible about business and helping them to succeed in their careers.</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt; font-family: Verdana;">Copyright©2007 Vijay Luthra and BusinessDictionary.com. ALL RIGHTS RESERVED.</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt; font-family: Verdana;">Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to <a href="http://www.businessdictionary.com/contact.php">contact us</a>.</span></p>
+<p style="line-height: normal;" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;">Privacy Policy</span></strong><span style="font-size: 9pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+<p style="line-height: normal;" class="MsoNormal"><span style="font-size: 9pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;">We collect no information about our users that is not supplied voluntarily through web forms or e-mail. Any information collected in this manner is never shared with anyone unless expressly requested by the user. We do not sell or reveal user information to anyone. We may at times collect anonymous tracking information to gauge usage patterns and the popularity of specific areas of the site. As with all other information, these data do not leave our sites. Some of this data is gathered through the use of cookies. Cookies may be deactivated by the user at any time. They are not required for this site to function properly. Transparent gifs or pixels may occasionally be used for the same purpose, but these items gather no personal data and have no effect on site use or navigation. </span><span style="font-size: 9pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+<p style="line-height: normal;" class="MsoNormal"><span style="font-size: 9pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;">All of our newsletters are opt-in, meaning that they are sent only to those who have specifically requested to receive them. Unsubscribe instructions are included at the bottom of each issue. Some newsletter issues include advertising, clearly identified as such. By signing up to receive our email newsletters, you also agree to receive occasional email announcements and special offers from our partners. However, no information gathered from newsletter subscribers, including email addresses, is ever shared with or sold to any third party.</span><span style="font-size: 9pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+<p style="line-height: normal;" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;">Disclaimer</span></strong><span style="font-size: 9pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+<p style="line-height: normal;" class="MsoNormal"><span style="font-size: 9pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;">Reproduction of the dictionary, in whole or in part, is prohibited without written permission. However, we do encourage you to mention and link to the site. </span><span style="font-size: 9pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+<p style="line-height: normal;" class="MsoNormal"><span style="font-size: 9pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;">This site is published with the understanding that the publisher is not engaged in rendering legal or investment services. Since each individual's situation is unique, a qualified professional should be consulted before making business, tax, legal or investment decisions. We make no guarantees as to the accuracy, thoroughness or quality of the information, and are not responsible for errors or omissions. The information provided at this site is neither comprehensive nor appropriate for every individual. Some of the information is relevant only in the U.S., and would differ elsewhere. Some of the glossary terms relate to subjects or investment strategies that might not be appropriate for some individuals. You are strongly cautioned to verify any information before using it for any personal, financial or business purpose. Do not rely solely on what you find here for making investment decisions. This site is provided on the express condition, to which all making use thereof assent, that no liability shall be incurred by WebFinance Inc. (d/b/a BusinessDictionary.com) or any of its employees. </span><span style="font-size: 9pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+<p style="line-height: normal;" class="MsoNormal"><span style="font-size: 9pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;">We are not responsible for the claims or representations made by advertisers and sponsors. WebFinance Inc. does not endorse or recommend the products or services of any company mentioned on our site. Nothing on this site should be construed as an offer or solicitation to buy or sell any products or securities. All investments involve risk. Past performance does not guarantee future results.</span><span style="font-size: 9pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+<p style="margin-bottom: 12pt; line-height: normal;" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;">Copyright Notice</span></strong><span style="font-size: 9pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+<p style="line-height: normal;" class="MsoNormal"><span style="font-size: 9pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;">We are very pleased to have partnered with Vijay Luthra to bring you this dictionary. Vijay is the author and copyright holder of the definitions, and under our partnership we have the exclusive and permanent right to publish the definitions online. Vijay shares our passion for educating as many people as possible about business and helping them to succeed in their careers.</span><span style="font-size: 9pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+<p style="line-height: normal;" class="MsoNormal"><span style="font-size: 9pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;">Copyright©2007-2008 Vijay Luthra and BusinessDictionary.com. ALL RIGHTS RESERVED.</span><span style="font-size: 9pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+<p style="line-height: normal;" class="MsoNormal"><span style="font-size: 9pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;">Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to <a href="../../../contact.php"><span style="color: blue;">contact us</span></a>.</span><span style="font-size: 9pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+<p style="line-height: normal;" class="MsoNormal"><span style="font-size: 12pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;">&nbsp;</span><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 </div>
 </div>
+﻿</div>
 </div>
 <!--end wrapper-->
 <div id="alpha">
@@ -176,18 +156,16 @@ Browse by Letter:
 </div>
 <!--end all-->
 <div id="footer">
-<p id="f-r"><a href="http://www.businessdictionary.com/aboutus.php">About us</a><a href="http://www.businessdictionary.com/advertising.php">Advertising</a><a href="http://www.businessdictionary.com/contact.php">Contact us</a><a href="http://www.businessdictionary.com/disclaimer.php">Privacy Policy, Disclaimer and Copyright</a><a href="http://www.investorguide.com/careers-main.cgi">Work at BusinessDictionary.com</a></p>
-<!--p id="f-l">&copy; 2007 <strong>Business<em>Dictionary.com</em></strong> All Rights Reserved.</p-->
-<p id="f-l">Copyright©2007 <strong>Business<em>Dictionary.com</em></strong>. All Rights Reserved. Unauthorized duplication, in whole or in part, is strictly prohibited.</p>
+<p id="f-r"><a href="http://www.businessdictionary.com/aboutus.php">About us</a><a href="http://www.businessdictionary.com/advertising.php">Advertising</a><a href="http://www.businessdictionary.com/contact.php">Contact us</a><a href="http://www.businessdictionary.com/content/licensing.php">Licensing</a><a href="http://www.businessdictionary.com/disclaimer.php">Privacy Policy, Disclaimer and Copyright</a><a href="http://www.businessdictionary.com/content/careers.php">Work at BusinessDictionary.com</a></p>
+<p id="f-l">Copyright©2007-2008 <strong>Business<em>Dictionary.com</em></strong>. All Rights Reserved. Unauthorized duplication, in whole or in part, is strictly prohibited.</p>
 </div>
 <div id="print_footer_addin">
-<p>Copyright ©2007 BusinessDictionary.com. ALL RIGHTS RESERVED.</p>
+<p>Copyright ©2007-2008 BusinessDictionary.com. ALL RIGHTS RESERVED.</p>
 <p>Reproduction of all or part of this dictionary and/or this page, in any format, without written consent is prohibited. If you have questions about this dictionary please feel free to contact us feedback@businessdictionary.com</p>
 </div>
 <!--end footer-->
 <!--Begin Google Analytics Code-->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-292384-4";
 urchinTracker();
