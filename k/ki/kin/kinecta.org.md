@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinecta.org privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523064417id_/http%3A//www.kinecta.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D472) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinecta.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080441id_/http%3A//kinecta.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D472) for the most accurate reproduction.*
 
 # Kinecta Federal Credit Union
 
