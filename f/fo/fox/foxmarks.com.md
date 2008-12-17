@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxmarks.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629084625id_/http%3A//wiki.foxmarks.com/wiki/Foxmarks%3A_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxmarks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035700id_/http%3A//www.foxmarks.com/privacy) for the most accurate reproduction.*
 
 # Foxmarks: Privacy Policy - Foxmarks Wiki
 
