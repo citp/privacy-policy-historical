@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hoopsworld.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513190547id_/http%3A//www.hoopsworld.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopsworld.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081027id_/http%3A//hoopsworld.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# HOOPSWORLD | NBA News, Rumors and Information - Privacy Policy
+# Privacy Policy
 
 **Our Privacy Policy:** **HOOPSWORLD** ("HOOPSWORLD", "we," "us," "our") respects your privacy and is committed to protecting your personally identifiable information. We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected through the web sites owned or operated by HOOPSWORLD, which are www.HOOPSWORLD.com and www.swishmagazine.com (collectively, the "Sites") and how such information may be used and/or shared with others. This Privacy Policy applies solely to information collected through the Sites and not through any other sources. This Privacy Policy is subject to the Terms of Use posted on the Sites. Please return to the Sites and review this Privacy Policy from time to time, as it may be amended without notice. Any changes to this Privacy Policy will be effective immediately upon the posting of the revised Privacy Policy on the Sites. Your use of the Sites constitutes your agreement to this Privacy Policy.
 
