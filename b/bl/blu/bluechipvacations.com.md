@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluechipvacations.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509190251id_/http%3A//www.bluechipvacations.com/help-and-support/booking-your-holiday/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluechipvacations.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217150025id_/http%3A//www.bluechipvacations.com/booking-your-holiday/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Blue Chip Vacations UK
 
@@ -47,11 +47,13 @@ We may check what you have told us and share that information with fraud prevent
 You are responsible for informing us that your personal details have changed: for example, a change of address or to your title. You confirm that you will inform us of any change to your personal information as soon as is reasonably practicable in order that we may update our records. Please note that notification of any change to your personal information must be in writing (to the address below), and should include your account and/or telephone numbers with us. 
 
 If you feel your privacy has been breached by us, then please write to:   
+
+
 Blue Chip Vacations  
-PO Box 68  
+Brixham Enterprise Estate  
+Rea Barn Road  
 Brixham  
-Devon  
-TQ5 9WZ 
+TQ5 9DF 
 
 or call customer services on 01803 855282 . 
 
