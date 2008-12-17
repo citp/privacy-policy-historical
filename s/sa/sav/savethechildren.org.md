@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the savethechildren.org privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611004535id_/http%3A//www.savethechildren.org/about/policies/privacy.html%3Fsource%3Dhp_ft_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethechildren.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082515id_/http%3A//www.savethechildren.org/about/policies/privacy.html%3Fsource%3Dhp_ft_privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Save the Children
 
 **Publication date: February 7, 2008**
 
-[Click here to print a form and manage your communication preferences.](https://web.archive.org/publications/privacy/Privacy_Statement_Mailer.pdf)
+[Click here to print a form and manage your communication preferences.](http://www.savethechildren.org/publications/privacy/Privacy_Statement_Mailer.pdf)
 
 Save the Children created this Privacy Statement to demonstrate respect for your privacy preferences and to disclose our information collection and sharing practices.  Regardless of whether you provide us with your personal information via our website or in another manner (e.g. telephone, regular mail or face-to-face), we strive to honor your privacy preferences.
 
@@ -24,7 +24,7 @@ Save the Children created this Privacy Statement to demonstrate respect for your
 
 **1\. Credit Card Transactions, Electronic Fund Transfers, Payments by Check or Money Order and On-line Transactions.** Save the Children hires third parties to provide credit card, bank, payment and information processing services and order fulfillment services. If you choose to make an application for employment, make a donation on-line, by phone, through the mail or by other means, or make a purchase from our on-line Gift Shop we will share your personal information with our processing service providers. We make an effort to require all third party service-providers to hold personal information in strict confidence. While we believe these other companies are upstanding and will treat your personal information responsibly, we do not own or control them and cannot guarantee your privacy.
 
-**2\. Necessity.** If we have reason to believe that there has been some inappropriate interference with or use of our website, communications, charitable services or personal or real property (for example, see the [Terms of Use and Linking Agreement](https://web.archive.org/about/policies/link-to-us-and-help-spread-the-word.html)), or if we have reason to believe that one of the Save the Children website users, donors, employees or other related parties may have been injured or may have harmed some other party, we will disclose, without notice to you, personal information as we deem appropriate or if compelled by a legal or regulatory authority.
+**2\. Necessity.** If we have reason to believe that there has been some inappropriate interference with or use of our website, communications, charitable services or personal or real property (for example, see the [Terms of Use and Linking Agreement](http://www.savethechildren.org/about/policies/link-to-us-and-help-spread-the-word.html)), or if we have reason to believe that one of the Save the Children website users, donors, employees or other related parties may have been injured or may have harmed some other party, we will disclose, without notice to you, personal information as we deem appropriate or if compelled by a legal or regulatory authority.
 
 **3\. Merger, Acquisition or other Corporate Restructure.** We also may transfer your personal information to a third party successor in interest if we are involved in an acquisition, merger or other transfer of control or sale of assets.
 
