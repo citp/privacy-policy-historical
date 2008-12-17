@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thegeneral.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527205653id_/http%3A//www.thegeneral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegeneral.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084004id_/http%3A//www.thegeneral.com/privacy.html) for the most accurate reproduction.*
 
 # The General - Auto Insurance Online
 
 Our Privacy Policy
 
-**Your privacy is important to us.** We will not share your email address with third parties without your consent. We may send to you email requests to complete, support and analyze your business transactions with The General and to comply with any requirements of law. We may also send to you emails as a follow-up to the quote you were given, in response to any questions you might have, or to provide information to you about your policy. 
+**Your privacy is important to us.** We will not share your email address with third parties without your consent. We may send to you email requests to complete, support and analyze your business transactions with The General and to comply with any requirements of law. We may also send to you emails as a follow-up to the quote you were given, in response to any questions you might have, to provide information to you about your policy, or to provide you with other information that you may find useful. 
 
 **Our goal is to protect the confidentiality of information that you provide to us. This is how we will do this.**
 
@@ -52,7 +52,7 @@ Our Privacy Policy
 >   
 >  **Information that we acquire in the course of doing business with you.** This is information about your transactions with our company. It may include your insurance coverage, limits and rates, premium payments, and claims history.
 > 
-> **Information we obtain from third parties.** We may receive information about you from consumer reporting agencies, which provide us with motor vehicle reports, claims reports, and/or credit information where permitted by law.
+> **Information we obtain from third parties.** We may receive information about you from consumer reporting agencies, which provide us with motor vehicle reports, claims reports, household and/or credit information where permitted by law.
 > 
 > **Information we obtain from our website.** This information is unique to Internet transactions. It includes the web site that linked you to ours, your computer operating system, and the pages you viewed on our site. Some web sites, including ours, may also store "cookies" on your computer. Cookies collect technical data, like your Internet Protocol (IP) address, operating system, and session ID. They can also save certain information entered by you. The General uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to: <http://www.doubleclick.net/us/corporate/privacy>
 
