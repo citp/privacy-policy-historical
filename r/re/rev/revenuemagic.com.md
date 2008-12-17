@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revenuemagic.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508185409id_/http%3A//www.revenuemagic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuemagic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112820id_/http%3A//www.revenuemagic.com/privacy.php) for the most accurate reproduction.*
 
-# Revenue Magic!
+# Cash Back Reward based Advertising at Revenue Magic!
 
   
 Our privacy policy is a simple one. The information we collect about you will always be kept confidential and not released to anyone. 
