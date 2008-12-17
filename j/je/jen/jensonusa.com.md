@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618062222id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143343id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
 
 # JensonUSA.com - Your Mountain & Road Bike online parts supplier!
+
+For guaranteed holiday delivery, complete checkout for in-stock items by Friday, Dec 19th with 2-Day Air shipping, and Sunday, Dec 21st with overnight shipping.
 
 By visiting JensonUSA.com you agree to accept the practices described in this Privacy Policy.
 
