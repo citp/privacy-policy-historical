@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amegybank.com privacy policy that was archived on 2008-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080615004531id_/http%3A//www.amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amegybank.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217232632id_/http%3A//www.amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.-->
 
 <html><head></head><body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0"><form name="_ctl0" method="post" action="index.aspx" id="_ctl0">
 <input type="hidden" name="__EVENTTARGET" value="">
@@ -134,16 +134,20 @@
 <!-- init image definitions -->
 <script language="javascript" type="text/javascript">
 <!--
-	var ShowUnavailable		= "false";
+	var ShowUnavailable			= "false";
 
-	var TabPersonal			= "<img src=/images/TabPersonalTop" + LanguagePostFix + ".gif border=0>";
-	var TabPersonalSelected	= "<img src=/images/TabPersonalTopSelected" + LanguagePostFix + ".gif border=0>";
-	var TabSmallBus			= "<img src=/images/TabSmallBusTop" + LanguagePostFix + ".gif border=0>";
-	var TabSmallBusSelected	= "<img src=/images/TabSmallBusTopSelected" + LanguagePostFix + ".gif border=0>";
-	var TabCorporate		= "<img src=/images/TabCorporateTop" + LanguagePostFix + ".gif border=0>";
-	var TabUnavailable		= "<img src=/images/UnavailableTop" + LanguagePostFix + ".gif border=0>";
-	var PersonalGoButton	= "<input id=lnkPersonalGo onclick=javascript:PersonalGo(); type=image alt=Go src=/images/go_dk" + LanguagePostFix + ".gif>";
-	var SmallBusGoButton	= "<input id=lnkSmallBusGo onclick=javascript:SmallBusGo(); type=image alt=Go src=/images/go_dk" + LanguagePostFix + ".gif>";
+	var TabPersonal				= "<img src=/images/TabPersonalTop" + LanguagePostFix + ".gif border=0>";
+	var TabPersonalSelected		= "<img src=/images/TabPersonalTopSelected" + LanguagePostFix + ".gif border=0>";
+	var TabSmallBus				= "<img src=/images/TabSmallBusTop" + LanguagePostFix + ".gif border=0>";
+	var TabSmallBusSelected		= "<img src=/images/TabSmallBusTopSelected" + LanguagePostFix + ".gif border=0>";
+	var TabPersonalCorp			= "<img src=/images/TabPersonalTopCorp" + LanguagePostFix + ".gif border=0>";
+	var TabSmallBusCorp			= "<img src=/images/TabSmallBusTopCorp" + LanguagePostFix + ".gif border=0>";
+	var TabCorporate			= "<img src=/images/TabCorporateTop" + LanguagePostFix + ".gif border=0>";
+	var TabCorporateSelected	= "<img src=/images/TabCorporateTopSelected" + LanguagePostFix + ".gif border=0>";
+	var TabUnavailable			= "<img src=/images/UnavailableTop" + LanguagePostFix + ".gif border=0>";
+	var PersonalGoButton		= "<input id=lnkPersonalGo onclick=javascript:PersonalGo(); type=image alt=Go src=/images/go_dk" + LanguagePostFix + ".gif>";
+	var SmallBusGoButton		= "<input id=lnkSmallBusGo onclick=javascript:SmallBusGo(); type=image alt=Go src=/images/go_dk" + LanguagePostFix + ".gif>";
+	var CorporateGoButton		= "<input id=lnkCorporateGo onclick=javascript:CorporateGo(); type=image alt=Go src=/images/go_dk" + LanguagePostFix + ".gif>";
 // -->
 </script>
 
@@ -153,17 +157,51 @@
 	function SwitchPer()
 	{
 		eraseCookie("ShowSmallBus");
+		eraseCookie("ShowCorp");
 		document.getElementById('PersonalTabDiv').style.display="inline";
 		document.getElementById('SmallBusTabDiv').style.display="none";
+		document.getElementById('CorporateTabDiv').style.display="none";
 		document.getElementById('UnavailableTabDiv').style.display="none";
+
+		document.getElementById('PersonalLoginId').focus()
 	}
 
 	function SwitchBus()
 	{
 		createCookie("ShowSmallBus", "true", 180);
+		eraseCookie("ShowCorp");
 		document.getElementById('PersonalTabDiv').style.display="none";
 		document.getElementById('SmallBusTabDiv').style.display="inline";
+		document.getElementById('CorporateTabDiv').style.display="none";
 		document.getElementById('UnavailableTabDiv').style.display="none";
+
+		document.getElementById('SmallBusCompanyId').focus()
+	}
+
+	function SwitchCorp()
+	{
+		var bFirstCorpClick = true;
+		if (readCookie("ShowCorp") == "true")
+		{
+			bFirstCorpClick = false
+		}
+		else
+		{
+			eraseCookie("ShowSmallBus");
+			createCookie("ShowCorp", "true", 180);
+		}
+		document.getElementById('PersonalTabDiv').style.display="none";
+		document.getElementById('SmallBusTabDiv').style.display="none";
+		document.getElementById('CorporateTabDiv').style.display="inline";
+		document.getElementById('UnavailableTabDiv').style.display="none";
+
+		// check if we are on the netstar page
+		if (bFirstCorpClick && !location.href.toLowerCase().match('login-netstar.aspx'))
+		{
+			location.href = 'http://www.amegybank.com/commercial_banking/tm/login-netstar.aspx';
+		}
+
+		//document.getElementById('CorporateLoginId').focus()
 	}
 
 	function SwitchUnavailable()
@@ -189,12 +227,21 @@
 		}
 	}
 
+	function CorporateButtonPress(evt) 
+	{
+		if (CheckButtonPress(evt))
+		{
+			document.getElementById('lnkCorporateGo').click();
+		}
+	}
+
 	function PersonalGo() 
 	{
 		document.getElementById('publicCred1').value = document.getElementById('PersonalLoginId').value;
 
 		document.getElementById('appId').value = "S1-IB-PB";
 		
+		document.forms['_ctl0'].action = 'https://securentry.amegybank.com/Authentication/zbf/index';
 		submit();
 	}
 
@@ -213,6 +260,17 @@
 
 		document.getElementById('appId').value = "S1-IB-BB";
 
+		document.forms['_ctl0'].action = 'https://securentry.amegybank.com/Authentication/zbf/index';
+		submit();
+	}
+
+	function CorporateGo() 
+	{
+		document.getElementById('publicCred1').value = document.getElementById('CorporateLoginId').value;
+
+		document.getElementById('appId').value = "PORTAL";
+		
+		document.forms['_ctl0'].action = 'https://securentrycorp.amegybank.com/Authentication/zbf/index';
 		submit();
 	}
 
@@ -242,11 +300,6 @@
 		  str=padstr+str;
 	   }
 	   return str;
-	}
-
-	function submit () 
-	{
-		document.forms['_ctl0'].action = 'https://securentry.amegybank.com/Authentication/zbf/index';
 	}
 
 	function createCookie(name, value, days) 
@@ -292,6 +345,7 @@
 <input type="hidden" id="fp_browser" name="fp_browser">
 <input type="hidden" id="fp_screen" name="fp_screen">
 <input type="hidden" id="fp_software" name="fp_software">
+
 <input type="hidden" id="domainId" name="domainId" value="abt">
 <input type="hidden" id="appId" name="appId">
 <input type="hidden" id="publicCred1" name="publicCred1">
@@ -313,8 +367,7 @@
 					<tbody><tr>
 						<td><script>document.write(TabPersonalSelected)</script><img src="/images/TabPersonalTopSelected.gif" border="0"></td>
 						<td><a href="javascript:SwitchBus()"><script>document.write(TabSmallBus)</script><img src="/images/TabSmallBusTop.gif" border="0"></a></td>
-						<td><a href="http://www.amegybank.com/commercial_banking/tm/login-netstar.aspx"><script>document.write(TabCorporate)</script><img src="/images/TabCorporateTop.gif" border="0"></a></td>
-
+						<td><a href="javascript:SwitchCorp()"><script>document.write(TabCorporate)</script><img src="/images/TabCorporateTop.gif" border="0"></a></td>
 					</tr>
 			</tbody></table></td>
 		</tr>
@@ -374,7 +427,7 @@
 					<tbody><tr>
 						<td><a href="javascript:SwitchPer()"><script>document.write(TabPersonal)</script><img src="/images/TabPersonalTop.gif" border="0"></a></td>
 						<td><script>document.write(TabSmallBusSelected)</script><img src="/images/TabSmallBusTopSelected.gif" border="0"></td>
-						<td><a href="http://www.amegybank.com/commercial_banking/tm/login-netstar.aspx"><script>document.write(TabCorporate)</script><img src="/images/TabCorporateTop.gif" border="0"></a></td>
+						<td><a href="javascript:SwitchCorp()"><script>document.write(TabCorporate)</script><img src="/images/TabCorporateTop.gif" border="0"></a></td>
 					</tr>
 			</tbody></table></td>
 		</tr>
@@ -416,6 +469,72 @@
 	</tbody></table>
 </div> <!-- end SmallBusTabDiv -->
 
+<div id="CorporateTabDiv" style="DISPLAY: none">
+	<!-- Corporate Tab -->
+	<table valign="top" border="0" cellpadding="0" cellspacing="0" bgcolor="#c5cfd9" id="Table1">
+		<tbody><tr>
+			<td width="1" height="100%"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
+			<td colspan="2"><img src="/images/OnlineBankingLogin.gif"></td>
+			<td width="1" height="100%"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff" colspan="4" width="2"><img height="2" src="/images/spacer.gif"></td>
+		</tr>
+		<tr>
+			<td colspan="4"><table valign="top" border="0" cellpadding="0" cellspacing="0" id="Table3">
+					<tbody><tr>
+						<td><a href="javascript:SwitchPer()"><script>document.write(TabPersonalCorp)</script><img src="/images/TabPersonalTopCorp.gif" border="0"></a></td>
+						<td><a href="javascript:SwitchBus()"><script>document.write(TabSmallBusCorp)</script><img src="/images/TabSmallBusTopCorp.gif" border="0"></a></td>
+						<td><a href="http://www.amegybank.com/commercial_banking/tm/login-netstar.aspx"><script>document.write(TabCorporateSelected)</script><img src="/images/TabCorporateTopSelected.gif" border="0"></a></td>
+					</tr>
+			</tbody></table></td>
+		</tr>
+		<tr>
+			<td rowspan="11" width="1" height="85"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
+			<td colspan="2"><img height="3" src="/images/spacer.gif"></td>
+			<td rowspan="11" width="1" height="85"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img height="7" src="/images/spacer.gif"></td>
+		</tr>
+		<tr>
+			<td colspan="2" align="center"><a href="https://securentrycorp.amegybank.com/Authentication/zbf/index?appId=PORTAL&amp;domainId=abt"><img border="0" src="/images/TreasuryGateway.gif"></a></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img height="2" src="/images/spacer.gif"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<table cellspacing="0" cellpadding="0" width="100%" border="0">
+					<tbody><tr>
+						<td><a href="http://www.amegybank.com/security.aspx"><img src="/images/hp_icon_lock.gif" border="0" name="security"></a></td>
+						<td></td>
+						<td align="right"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td><img height="2" src="/images/spacer.gif"></td>
+		</tr>
+		<tr>
+			<td colspan="2" height="1" width="100%"><img height="1" width="100%" src="/images/BlueBorder.gif"></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="PADDING-LEFT: 3px" height="6" width="100%" class="right_nav"><span class="raquo">»</span><a class="right_nav" href="https://securentrycorp.amegybank.com/Authentication/zbf/index?appId=PORTAL&amp;domainId=abt">Treasury Gateway Portal</a></td>
+		</tr>
+		<tr>
+			<td colspan="2" height="1" width="100%"><img height="1" width="100%" src="/images/BlueBorder.gif"></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="PADDING-LEFT: 3px" height="6" width="100%" class="right_nav"><span class="raquo">»</span><a class="right_nav" href="https://www.amegybank.com/e-fx/treasury_login.asp">e-FX</a></td>
+		</tr>
+		<tr>
+			<td colspan="2" height="1" width="100%"><img height="1" width="100%" src="/images/BlueBorder.gif"></td>
+		</tr>
+	</tbody></table>
+</div> <!-- end CorporateTabDiv -->
+
 <div id="UnavailableTabDiv" style="DISPLAY: none">
 	<!-- Unavailable Tab -->
 	<table valign="top" border="0" cellpadding="0" cellspacing="0" bgcolor="#c5cfd9" id="Table7">
@@ -446,6 +565,10 @@
 	{
 		SwitchBus();
 	}
+	else if (readCookie("ShowCorp") == "true")
+	{
+		SwitchCorp();
+	}
 // -->
 </script>
 
@@ -456,22 +579,22 @@
 </td>
 								</tr>	
 								<tr valign="top">
-									<td align="left">									<table valign="top" border="0" cellpadding="0" cellspacing="0">
-										<tbody><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="3"></td></tr>
-										<tr><td><a href="http://www.amegybank.com/personal_banking/index.aspx"><img src="http://www.amegybank.com/images/MenuPersonal.gif" border="0"></a></td></tr>
-										<tr><td></td></tr>
-										<tr><td><a href="http://www.amegybank.com/small_business/index.aspx"><img src="http://www.amegybank.com/images/MenuBus.gif" border="0"></a></td></tr>
-										<tr><td></td></tr>
-										<tr><td><a href="http://www.amegybank.com/commercial_banking/index.aspx"><img src="http://www.amegybank.com/images/MenuCommercial.gif" border="0"></a></td></tr>
-										<tr><td></td></tr>
-										<tr><td><a href="http://www.amegybank.com/commercial_banking/tm/treasury.aspx"><img src="http://www.amegybank.com/images/MenuTreasury.gif" border="0"></a></td></tr>
-										<tr><td></td></tr>
-										<tr><td><a href="http://www.amegybank.com/wealth/index.aspx"><img src="http://www.amegybank.com/images/MenuWealth.gif" border="0"></a></td></tr>
-										<tr><td></td></tr>
-										<tr><td><a href="http://www.amegybank.com/investment/index.aspx"><img src="http://www.amegybank.com/images/MenuInvestment.gif" border="0"></a></td></tr>
-										<tr><td></td></tr>
-										<tr><td><a href="http://www.amegymortgage.com/" target="_new"><img src="http://www.amegybank.com/images/MenuMortgage.gif" border="0"></a></td></tr>
-									</tbody></table>
+									<td align="left"><table valign="top" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="3"></td></tr>
+	<tr><td><a href="http://www.amegybank.com/personal_banking/index.aspx"><img src="http://www.amegybank.com/images/MenuPersonal.gif" border="0"></a></td></tr>
+	<tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="1"></td></tr>
+	<tr><td><a href="http://www.amegybank.com/small_business/index.aspx"><img src="http://www.amegybank.com/images/MenuBus.gif" border="0"></a></td></tr>
+	<tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="1"></td></tr>
+	<tr><td><a href="http://www.amegybank.com/commercial_banking/index.aspx"><img src="http://www.amegybank.com/images/MenuCommercial.gif" border="0"></a></td></tr>
+	<tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="1"></td></tr>
+	<tr><td><a href="http://www.amegybank.com/commercial_banking/tm/treasury.aspx"><img src="http://www.amegybank.com/images/MenuTreasury.gif" border="0"></a></td></tr>
+	<tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="1"></td></tr>
+	<tr><td><a href="http://www.amegybank.com/wealth/index.aspx"><img src="http://www.amegybank.com/images/MenuWealth.gif" border="0"></a></td></tr>
+	<tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="1"></td></tr>
+	<tr><td><a href="http://www.amegybank.com/investment/index.aspx"><img src="http://www.amegybank.com/images/MenuInvestment.gif" border="0"></a></td></tr>
+	<tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="1"></td></tr>
+	<tr><td><a href="http://www.amegymortgage.com/" target="_new"><img src="http://www.amegybank.com/images/MenuMortgage.gif" border="0"></a></td></tr>
+</tbody></table>
 </td>
 								</tr>	
 								<tr valign="top">
@@ -651,7 +774,15 @@
 						<td valign="top" class="corp_nav">
 							<table valign="top" border="0" cellpadding="0" cellspacing="0">
 								<tbody><tr>
-									<td>© 2007 Amegy Bank NA Member FDIC, M/FD/V an Equal Housing Lender <img src="/images/ehl.gif"></td>
+									<td><style>
+.footer_class {color:#000000; font-size:11px; font-family:Arial; }
+a.footer_class:link {color:#00386B; font-size:11px; font-family:Arial;  }
+a.footer_class:visited {color:#00386B; font-size:11px; font-family:Arial;  }
+a.footer_class:hover {color:#00386B; font-size:11px; font-family:Arial; text-decoration:underline }
+</style>
+<span class="footer_class">
+© 2008 Amegy Bank NA Member FDIC, M/FD/V an Equal Housing Lender <img src="/images/ehl.gif"><br>Your privacy is important at AmegyBank.com.  Please see our <a href="/privacypolicy/index.aspx" class="footer_class">Privacy Policy</a> for details.
+</span></td>
 								</tr>
 								<tr>
 									<td><img src="http://www.amegybank.com/images/spacer.gif" height="3"></td>
@@ -677,7 +808,7 @@ http://www.omniture.com -->
 <script language="JavaScript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
-s.pageName=""
+s.pageName=((typeof SiteCatalystPageName=='undefined') ? "":SiteCatalystPageName);
 s.server=""
 s.channel=""
 s.pageType=""
