@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activemusician.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609105408id_/http%3A//www.activemusician.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activemusician.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217032811id_/http%3A//www.activemusician.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -24,7 +24,7 @@ ActiveMusician provides interactive services on the Internet to enable customers
 
 One of our goals at ActiveMusician is to respect the privacy rights of anyone who visits or purchases products from the ActiveMusician site. Except as set forth within this privacy statement, we do not release personally identifiable information about our individual customers and visitors without their permission. The information you enter on our site is held in confidence between you and us and ActiveMusician does not sell, trade, or rent your personal information to others. We do collect information from our customers and visitors, which is used to process orders and to improve the ActiveMusician shopping experience. The following is a statement of the use of the information that we collect, and if or how any of it is disseminated. 
 
-If you feel that ActiveMusician has violated this Statement on Privacy in any way, please contact us at [orders@activemusician.com](mailto:orders@activemusician.com?subject=Privacy), so that we may address this issue. Please note that the information provided in this Statement relates only to ActiveMusician's policies and practices. ActiveMusician is not responsible for the content or the privacy policies of Web sites to which it may link.  
+If you feel that ActiveMusician has violated this Statement on Privacy in any way, please [contact us by e-mail](https://www.activemusician.com/help/contact.asp?p=39), so that we may address this issue. Please note that the information provided in this Statement relates only to ActiveMusician's policies and practices. ActiveMusician is not responsible for the content or the privacy policies of Web sites to which it may link.  
 Return to the Top  
   
 **2\. What Information Do We Compile?**  
@@ -44,7 +44,7 @@ ActiveMusician does not share any personally identifiable information with outsi
 Return to the Top  
   
 **4\. Do we allow an opt-out from the collection of data on an individual?**  
-During the order placement process for a customer, we do require that customers supply personal information. The fields that we require to be completed include billing address, shipping address, e-mail and payment information. This information is required in order to place, fulfill and confirm your order. We also ask if that customer would like to periodically receive promotional e-mail about products or services offered by ActiveMusician or its partners. If the customer would not like to receive these promotional mailings, he or she may opt out and select not to receive them. If at any time a customer would like to receive or defer these mailings, he or she can subscribe or unsubscribe by sending a blank e-mail message to news[at]activemusician.com (replace "[at]" with "@" before sending) and including the words "subscribe" or "unsubscribe" in the subject heading of the message. 
+During the order placement process for a customer, we do require that customers supply personal information. The fields that we require to be completed include billing address, shipping address, e-mail and payment information. This information is required in order to place, fulfill and confirm your order. We also ask if that customer would like to periodically receive promotional e-mail about products or services offered by ActiveMusician or its partners. If the customer would not like to receive these promotional mailings, he or she may opt out and select not to receive them. If at any time a customer would like to defer these mailings, he or she can [unsubscribe using this link](https://web.archive.org/mailer/unsubscribe.asp). This link to unsubscribe is also present and prominent in every promotional mailing we send. 
 
 By using our web site, you consent to the collection and use of the information specified above by ActiveMusician. If we decide to change our privacy policy, we will post those changes on this page and also post a revision notice on the home page. Our goal is to keep customers aware of what information we collect, how we use it, and under what circumstances we disclose it.  
 Return to the Top  
@@ -53,5 +53,5 @@ Return to the Top
 When you place an order at ActiveMusician, your personal information and credit card information is safe. That's because we've taken steps to ensure a secure and superior shopping environment. We use state-of-the-art secure socket layer (SSL) encryption technology that protects the transmission and storage of your credit card information. Your credit card number is not stored in our database.  
 Return to the Top  
 **6\. Feedback**  
-ActiveMusician welcomes your questions and comments about privacy. Please send an e-mail to [orders@activemusician.com](mailto:orders@activemusician.com?subject=Privacy).  
+ActiveMusician welcomes your questions and comments about privacy. Please [send us an e-mail](https://www.activemusician.com/help/contact.asp?p=39) with any thoughts you may have.  
 Return to the Top
