@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proshares.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612011448id_/http%3A//www.proshares.com/1769146.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proshares.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065110id_/http%3A//www.proshares.com/1769146.html) for the most accurate reproduction.*
 
 # ProShares ETFs - ETFs with Short or Leveraged Exposure to Market and Sector Indexes
 
@@ -23,7 +23,3 @@ The Funds do not disclose any non-public personal information about their custom
 The Funds maintain physical, electronic, and procedural safeguards to protect your personal information. Within the Funds, access to personal information is restricted to those employees who require access to that information in order to provide products or services to our customers such as processing transactions and handling inquiries. The Fund’s employment policies restrict the use of customer information and require that it be held in strict confidence.
 
 The Funds will adhere to the policies and practices described in this notice for both current and former customers of the Funds.
-
-This Privacy Policy applies to the ProFunds family of funds, Access One Trust family of funds, ProShares Trust family of funds, ProFund Advisors LLC and ProShare Advisors LLC. 
-
-Revised 6/2006
