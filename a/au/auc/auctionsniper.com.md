@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionsniper.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514172417id_/http%3A//www.auctionsniper.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionsniper.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050009id_/http%3A//www.auctionsniper.com/privacy.aspx) for the most accurate reproduction.*
 
 # AuctionSniper - Privacy
 
