@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astroved.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612144519id_/http%3A//www.astroved.com/footer/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astroved.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217032050id_/http%3A//www.astroved.com/footer/policy.asp) for the most accurate reproduction.*
 
-# Astroved - Ancient Vedic Wisdom for Modern Times
+# Privacy Policy - Astroved.com
 
 Dear Astroved Members,  
 At Astroved we take online privacy and security concerns seriously. At the same time we are continuously working to make your Astroved experience an entertaining, pleasant and satisfying one. To accomplish these goals we need to obtain some information from you when you use our site. This privacy policy will tell you how and when we collect information through our site and how this information will be used.
