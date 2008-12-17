@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heretv.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620025607id_/http%3A//www.heretv.com/APrivacyPage.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heretv.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075810id_/http%3A//www.heretv.com/APrivacyPage.php) for the most accurate reproduction.*
 
 # here! - Gay, Lesbian, Bisexual & Transgender Television | Online Privacy Policy | here! Networks | heretv.com
 
