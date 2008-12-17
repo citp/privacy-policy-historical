@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the pizzahut.co.uk privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410000913id_/http%3A//www.pizzahut.co.uk/restaurant/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzahut.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044215id_/http%3A//www.pizzahut.co.uk/restaurants/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Pizza Hut
-
-### Privacy Policy
 
 Pizza Hut (UK) Limited and its franchisees (hereinafter referred to as either, "Company", "We", "Us" or "Our") are committed to protecting the privacy of personal information you may provide Us on this website (the "Site") and are conscious of Our responsibilities as a 'data controller' under the Data Protection Act 1998. We believe it is important for you to know how We treat your personal information. The terms of this Privacy Policy apply to all users of this Site. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site. Below you will find answers to several questions regarding Our revised Privacy Policy. 
 
 **1\. What information does Company collect about me on this Site?**
 
 Registration  
-The Company will collect personally identifiable information that you may voluntarily provide on online forms, which may include: user registration, sweepstakes registration, contact requests, guest comments, online surveys, and other online activities. The personally identifiable information ("Personal Information") collected can include some or all of the following: your name, address, telephone number, e-mail addresses, and any other information you may voluntarily provide. At the time of registration, you will have the option to receive future offers and updates from the Company by e-mail and SMS marketing by checking the appropriate opt-in box. If you choose to opt-in, your Personal Information will be kept in a secured database and We will alert you via e-mail or SMS (as indicated by you) with information about Our great Pizza Hut offers and services.
+The Company will collect personally identifiable information that you may voluntarily provide on online forms, which may include: user registration, sweepstakes registration, contact requests, guest comments, online surveys, and other online activities. The personally identifiable information ("Personal Information") collected can include some or all of the following: your name, address, telephone number, e-mail addresses, and any other information you may voluntarily provide. At the time of registration, you will have the option to receive future offers and updates from the Company by e-mail and SMS marketing. If you choose to receive these, your Personal Information will be kept in a secured database and We will alert you via e-mail or SMS with information about Our great Pizza Hut offers and services. Customers who place online orders will also receive relevant service announcements from time to time. You can unsubscribe at any time by following the instructions contained in every email and SMS message that we send.
 
 On-line Ordering  
 If you are using Our on-line ordering site, the Company may also collect financial information including details of payment mechanisms such as your credit and debit card information and information on goods which are sold and purchased. 
@@ -75,3 +73,5 @@ Borehamwood
 Herts W06 1JN
 
 You have a right to access the personal data We hold about you. If you wish to obtain a copy of this information, please write to Us at the address given above enclosing your postal details. A fee of no more than the statutory amount may apply.
+
+Back to top
