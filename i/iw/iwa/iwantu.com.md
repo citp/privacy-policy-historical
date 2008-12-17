@@ -1,59 +1,15 @@
-> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227144715id_/http%3A//iwantu.com/privacy.love) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217111446id_/http%3A//www.iwantu.com/privacy.love) for the most accurate reproduction.*
 
 # Adult Dating Personals - Iwantu.com Singles and Swingers Site
 
-[ ](http://www.truste.org/ivalidate.php?url=www.IwantU.com&sealid=101)
-
 Effective On: January 3rd, 2007 
 
-IwantU.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.IwantU.com. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
-
-1\. What personally identifiable information of yours or third party personally identification is collected from you through the web site   
-2\. The organization collecting the information   
-3\. How the information is used   
-4\. With whom the information may be shared   
-5\. What choices are available to you regarding collection, use and distribution of the information   
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Mana Internet Solutions control   
-7\. How you can correct any inaccuracies in the information. 
-
 If you feel that this company is not abiding by its posted privacy policy, you should first contact our customer service department at [http://support.IwantU.com](http://support.iwantu.com/)  
-You may also reach us at our mailing address: 
 
-**Mana Internet Solutions**
-
-**Costa Rica**  
-Apartado 152-2120 Calle Blancos  
-San Jose, San Jose  
-152-2120  
-Costa Rica
-
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>
-
-TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
-
-##  International Processing 
-
-LB Mana Internet Solutions Int'l Ltd  
-Vienna Business Park  
-Clemens-Holzmeister-Str.4  
-1109 Wien  
-Austria  
-mana-internet@lb-mana-internet.com  
-+31 306074663
-
-LB Mana Internet Solutions Ltd  
-84 Moorlands  
-Blackhill  
-Consett  
-Country Durham  
-DH8 OLH  
-United Kingdom  
-mana-internet@lb-mana-internet.com  
-+31 306074663
 
 ##  Information Collection and Use 
 
-Mana Internet Solutions is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Mana Internet Solutions collects information from our users at several different points on our website such as the registration form, membership purchase and product purchases. 
+Sagent Group is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Sagent Group collects information from our users at several different points on our website such as the registration form, membership purchase and product purchases. 
 
 The member's personal information will not be sold or shared with any other company for promotional purposes. 
 
@@ -94,7 +50,7 @@ We use an outside shipping company to ship orders, and a credit card processing 
 
 We partner with another party to provide specific services such as our online store. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. 
 
-We also partner with Cashring.com the associate program for IwantU.com Select Clubs. Profile information is shared with them in order to credit affiliates with the appropriate commission. 
+We also partner with IwantU.com the associate program for IwantU.com Select Clubs. Profile information is shared with them in order to credit affiliates with the appropriate commission. 
 
 These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
 
@@ -102,7 +58,7 @@ We will disclose personal information about our members if and when is required 
 
 ##  **Links**
 
-This web site contains links to other sites. Please be aware that we Mana Internet Solutions are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This web site contains links to other sites. Please be aware that we Sagent Group are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 ##  **Surveys & Contests**
 
@@ -153,10 +109,3 @@ Users of our site are always notified when their information is being collected 
 If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
 We will post changes to this privacy statement, the homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. 
-
-##  **Software Download Disclaimer**
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
-
-  
-
