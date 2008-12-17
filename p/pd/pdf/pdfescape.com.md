@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611103538id_/http%3A//www.ctdeveloping.com/ctdeveloping/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061442id_/http%3A//www.ctdeveloping.com/ctdeveloping/pp.asp) for the most accurate reproduction.*
 
 # Privacy - CTdeveloping.com
 
   
 Privacy Policy   
-CTdeveloping   
+CTdeveloping, LLC   
 http://www.ctdeveloping.com  
 http://www.pdfescape.com  
 http://blog.pdfescape.com
 
-Effective from 1st of March 2007. 
+Effective from 1st of July 2008. 
 
 * * *
 
 General Information   
-CTdeveloping takes your privacy seriously. Please read the following information to learn more about our privacy practices. 
+CTdeveloping, LLC (hereafter "CTdeveloping") takes your privacy seriously. Please read the following information to learn more about our privacy practices. 
 
   * This policy covers what personally identifiable information CTdeveloping collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the http://www.ctdeveloping.com, http://www.pdfescape.com, & http://blog.pdfescape.com Web Sites. This information may be limited to an IP address / Session ID or extend to personally identifiable information such as your name, address, email address, phone number, or PDF form data.
   * This policy only applies to http://www.ctdeveloping.com, http://www.pdfescape.com, & http://blog.pdfescape.com and does not extend to the practices of other Web Sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage.
@@ -28,7 +28,7 @@ We invite you to contact us if you have questions about this privacy policy.
 
 Our Internet addresses are located at: [http://www.ctdeveloping.com](http://www.ctdeveloping.com/), [http://www.pdfescape.com](http://www.pdfescape.com/), & [http://blog.pdfescape.com](http://blog.pdfescape.com/)
 
-**CTdeveloping  
+**CTdeveloping, LLC  
 949 Springwood Ln   
 Encinitas CA 92024   
 United States **
