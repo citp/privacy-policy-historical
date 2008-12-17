@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the junauza.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511230234id_/http%3A//junauza.blogspot.com/2007/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junauza.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143504id_/http%3A//www.junauza.com/2007/07/privacy-policy.html) for the most accurate reproduction.*
 
 # TECH SOURCE FROM BOHOL: Privacy Policy
 
-I respect your privacy and I am committed to safeguarding your privacy while online at my site [junauza.blogspot.com](http://junauza.blogspot.com/). The following discloses the information gathering and dissemination practices for this Web site.
+I respect your privacy and I am committed to safeguarding your privacy while online at my site [www.junauza.com](http://www.junauza.com/). The following discloses the information gathering and dissemination practices for this Web site.
 
 Log Files  
 Like most standard Web site servers, I use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
