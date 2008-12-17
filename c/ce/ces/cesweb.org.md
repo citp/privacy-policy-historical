@@ -1,64 +1,51 @@
-> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615053819id_/http%3A//www.cesweb.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065804id_/http%3A//www.cesweb.org/privacyPolicy.asp) for the most accurate reproduction.*
 
-# 2007 International CES: Privacy Policy
+# 2009 CES, Jan. 8-11: Privacy Policy
 
-|   
-[](http://www.ce.org/)  
-|  |  |  1_1_  
+The Consumer Electronics Association ("CEA") is committed to protecting the privacy and security of your personal information. We want  to share with you how we treat personal information about you that we receive in connection with this Website.
 
+Also, please bear in mind that use of this Website is governed by the Terms of Use posted on the Website. As noted in those Terms of Use, although we operate internationally, CEA is a corporation organized under the laws of the Commonwealth of Virginia, in which CEA has its headquarters.  The servers that host this Website are located in the United States, and any personal details you provide us will be processed by CEA in the United States. CEA expressly excludes any representation or warranty, express or implied, with respect to the information available on this Website. CEA makes no representation about any third-party websites that may be accessed via links from this Website.  By using this Website, you agree that the laws of the Commonwealth of Virginia, without regard to its conflict of laws principles, will govern all matters between you and CEA with respect to your use of this Website.
 
-Privacy Policy  
+ **Information we collect  
+** In general, you can visit our Website without telling us who you are or revealing any personal information about yourself. However, you should be aware that sections of this Website (including restricted portions of this Website) allow for the submission of personal information (referred to for convenience as "Registration Pages") including your **[name, address, e-mail address, phone number, facsimile number, credit card or account information, and information about your interests in and use of various products, programs, and services]**. We only collect your personal information if you voluntarily submit the information to us for such purposes as event registrations, contest submissions, or requests for information, products, or services. Through certain technologies employed by this Website we also collect non-personally identifiable information about you. For more details about this type of data collection, please refer to the section below on cookies.
 
+To protect your security and privacy, we require that you enter the personal information that we collect and that the information be current, although CEA disclaims any legal duty to verify the accuracy of any personal data that you provide to CEA. You are free to access the personal information we have on file by contacting our Customer Service department by email at [CEA@CE.org](mailto:CEA@CE.org) or by phone at 1-866-858-1555.  In addition, at any time you can request that we modify or delete your personal information by sending an e-mail to us at [CEA@CE.org](mailto:CEA@CE.org) with the words "UPDATE MY INFORMATION" in the subject line or by calling us at 1-866-858-1555. Please be aware that, to protect your security and privacy, CEA will take reasonable steps to verify your identity prior to making changes to your personal information. 
 
-CESweb Privacy Statement: Our Commitment to You   
+**How we use the information we collect and who we share it with**  
+CEA has a policy of not disclosing the personal information of our Website visitors to third parties for direct marketing purposes in cases where our Website users have exercised their option to prevent that information from being disclosed to third parties for such purposes.  Please note, however, that unless you indicate to us that you do not want your personal information used or shared for promotional or marketing purposes, we may provide, rent and sell lists containing your name, company, title, address, phone number and/or e-mail address to third parties and our affiliates for their direct and indirect marketing purposes, and we may use your personal information for the same purposes. When we do provide mailing lists to third parties, we enter into agreements with such parties requiring them to comply with all applicable laws, prohibiting further distribution or disclosure of the lists to other parties, and limiting use of the lists to a limited number of mailings or communications, after which the lists may not be further used for such purposes. If you do not want your personal information used by us or shared with affiliates or third parties for promotional or marketing purposes, you may opt out of having this information shared or used for such purposes by some or all parties. In such case, please refer to the section below entitled Opting Out.
 
+CEA also reserves the right to compile, save, use within the scope of our activities, and analyze any and all data (contact and personal data, use history, etc.) that we collect from you through the Website. We use the personal information that you provide to us for our internal purposes such as responding to your requests for information, contacting you, conducting internal analyses, and processing and completing orders and event registrations. We also use your personal information to communicate with you, such as, for example, to provide you with newsletters, press releases, membership information, or information relating to programs or grassroots activities that may be of interest to you.
 
-Our commitment to privacy
+We may share the personal information you provide to us with other companies we have hired to provide services for us. These companies \- our vendors \- are contractually bound to use personal information that we share with them only to perform the services we have hired them to provide.
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To ensure this notice is easy to find, it is available on our homepage and at every point where personal identification is requested.    
+We may also collect and group demographic and preferences information, responses to surveys and other personal information that we collect from you into an aggregate, non-personally identifiable form for disclosure to our existing or potential business partners, affiliates, sponsors or other third parties. However, please be assured that this aggregate data will in no way personally identify you or any other visitors to the Website.
 
+We may also collect general, non-personal, statistical information about the use of the Website, such as how many visitors visit a specific page on the Website, how long they stay on that page and which hyperlinks, if any, they "click" on. We collect this information through the use of "web beacons" or other tracking technologies, which are discussed in greater detail below. We collect this information in order to determine which areas of the Website are most popular and to enhance the Website for visitors. As with other aggregated data, we may disclose such data to our existing or potential business partners, affiliates, sponsors or other third parties, but this aggregate data will in no way personally identify you or any other visitors to the Website.
 
-The way we use information
+ **Use of cookies and web beacons**  
+A "cookie" is a piece of data stored on your hard drive containing non-personally identifiable information about you. We may use cookies in order to collect certain information about you, such as IP addresses (e.g., whether you are logged on from a .com, .gov, or .edu domain), domain names (the Internet address of a computer), and the type of computer and operating system being used. We may also use cookies to identify your computer when you revisit our Website, to recall your authentication information, or to track statistical information related to navigation throughout the Website. We may collect such information in order to better operate the Website so as to enhance your experience while using the Website, and to share with advertisers to provide you with a more personalized visit to the Website. Usage of a cookie is in no way linked to any personal information while on our Website. 
 
-We use the information you provide when placing an order or making a request only in the context of your involvement with CES. We use the information to the extent necessary to complete an order/request you placed. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share the information with outside parties except to the extent necessary to complete that order or as described below. 
+Depending on the type of browser you are using, your browser may be set to alert you of cookies. You do not have to accept all cookies sent to you by this Website; however, depending on the particular cookie you reject, you may not be able to use some of the features of this Website. To disable all cookies, [follow these instructions](http://www.aboutcookies.org/Default.aspx?page=2) for the type of browser you are using.
 
-E-mail Use  
-We use return e-mail addresses to answer the e-mail we receive and for future contact with you. Such addresses are not shared with outside parties without your permission. If you would like your e-mail address removed from the CES list, please click on or copy and paste the following link into your browser [http://www.CESweb.org/listremove](http://www.cesweb.org/listremove), and enter your e-mail address. Removal requests made any other way may not be processed. NOTE: When you remove your name from the list, you will not receive further show updates regarding the International CES via e-mail.
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting the Website. Yahoo! may also use anonymous information about your visits to this Website in order to improve its products and services. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, please [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com). 
 
-Address and Fax Number Use  
-As a service to exhibitors, partners and sponsors, we make CES attendee/guests mailing addresses and fax numbers (only) available to these companies for pre-and post-show promotion for limited use through a third party vendor. If you would like your name, mailing address and fax number removed from these promotional opportunities, please e-mail CES Customer Service at [CESinfo@CE.org](mailto:CESinfo@CE.org). You may also contact CES Customer Service by phone at (866) 233-7968 (USA), (301) 631-3983 (International), or by fax at (703) 907-7675. When you remove your name from the list, you will not receive further show updates regarding the International CES, via fax or mail. Be sure to include whether you want to be removed from CES lists, exhibitor/sponsor/partner lists, or both.
+**Opting out**  
+When you submit personal information to us through the Registration Pages on this Website, you will be given an opportunity to opt out at the time of submitting your personal information to us. Unless you opt out, you may be added to our list of users who will receive promotional and marketing communications from us and our partners and other third parties. You may also [opt out of receiving promotional and marketing communications from us and/or our partners and other third parties](https://web.archive.org/listremove). 
 
-Cookies  
-A cookie is a piece of data stored on the user’s computer and is tied to information about the user. (Usage of a cookie is in no way linked to any personal information while on our site.) We use both session ID cookies and persistent cookies. For the session ID cookie, once you close your browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. CES uses cookies to gather information about your visits and to help customize your experience while on our website. If cookies are disabled on your browser, you will still be able to access our website. 
+If you initially elect not to opt out and later decide that you would like to opt out, you may follow the opt-out procedures outlined above.  Please keep in mind that although CEA strives to update our mailing list database as frequently as possible, it may take up to ten days to process e-mail requests and four to six weeks to process postal mail requests, during which time your information might be communicated to another party in connection with a mailing list. Additionally, you should be aware that any mailing lists that have been provided to third parties prior to your election to opt out cannot be retrieved by CEA, and you cannot retroactively opt out with respect to such third parties.  As noted above, however, when we do provide mailing lists to third parties, we enter into agreements with such parties limiting use of the lists to a limited number of mailings or communications, after which the lists may not be further used for such purposes.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose any information that could be used to identify those individuals. 
+ **Links to other sites**  
+For your convenience, this Website may from time to time include links to third-party sites whose information practices may be different than ours. Visitors should consult the other sites' privacy policies, as we have no control over information that is submitted to, or collected by, these third parties. 
 
-  
+**Security of information and disclosures**  
+CEA uses reasonable security measures to safeguard information concerning, and submitted by, users like you. Despite the security measures employed by CEA, you should be aware that it is impossible to guarantee absolute security with respect to information sent through the Internet. 
 
+CEA will, to the extent possible, control your personal information, and, except as otherwise set forth in this Privacy Policy, we will not disclose your personal information to third parties. Although we are committed to maintaining the confidentiality of your personal information, if required by law, we reserve the right to disclose such information without first obtaining your consent.
 
-Our commitment to data security
+ **Changes to the Privacy Policy  
+** We reserve the right to modify this Privacy Policy at any time without prior notice. In the event that we update or modify this Privacy Policy, we will strive to post such updates or modifications on this Website for a period of thirty days following any such modifications, and the last date this Privacy Policy was updated will be indicated as the latest Effective Date at the top of this Privacy Policy.  Therefore, you are advised to review this Privacy Policy occasionally, or at least every thirty days. Your continued use of this Website shall constitute your acceptance of the modified Privacy Policy. 
 
-To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.    
+**Contacting us**  
+If you have any questions or concerns relating to this Privacy Policy, please contact us by e-mail at [CEA@CE.org](mailto:CEA@CE.org) or by phone at 1-866-858-1555. 
 
-
-Our commitment to children's privacy
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under the age of 13, and no part of our website is structured to attract anyone under the age of 13.    
-
-
-How you can access or correct your information
-
-If you are a registered exhibitor, you can access and amend your information online. If you are an attendee, you can amend your information online until December 20, 2005, or you may e-mail CES Customer Service at [CESinfo@CE.org](mailto:CESinfo@CE.org) for assistance. You also may contact CES Customer Service by phone at (866) 233-7968 (USA), (301) 631-3983 (International), or by fax at (703) 907-7675.
-
-You may correct factual errors in your personal information by sending us a request that illustrates the error. 
-
-To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access or making corrections. 
-
-  
-
-
-How to contact us
-
-Should you have other questions or concerns about these privacy policies, please contact CES Customer Service at [CESinfo@CE.org](mailto:CESinfo@CE.org), by phone at (866) 233-7968 (USA), (301) 631-3983 (International), or by fax at (703) 907-7675. 
-
-| 
+[Revised June 2008]
