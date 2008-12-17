@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaeljackson.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509092558id_/http%3A//www.sonybmg.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaeljackson.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217030452id_/http%3A//www.sonybmg.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -28,6 +28,8 @@ Your privacy is important to us. That is why we want you to be informed about ho
   All contests that are held on this site are limited to persons above a certain age. Accordingly, we ask each contestant to provide year of birth, as well as name, address, and e-mail address. If the year provided indicates that the contestant is underage, the information submitted is deleted. Please refer to the specific age requirements for each contest as rules may vary from contest to contest. 
 
   We ask each visitor who wishes to participate in chat rooms and bulletin boards on this site to provide an e-mail address along with the visitor's screen name. Each visitor who wishes to send a so-called "postcard" is asked to provide the visitor's screen name and e-mail address, the recipient's name and e-mail address, and a message selected by the visitor. All such e-mail addresses are used only to protect the security and integrity of the site, such as to take action against visitors who post inappropriate material or harass other visitors. 
+
+  **Visit[www.OnGuardOnline.gov](http://www.onguardonline.gov/) for social networking safety tips for [parents](http://www.onguardonline.gov/socialnetworking.html) and [youth](http://www.onguardonline.gov/socialnetworking_youth.html). **
 
   The operator of this site is Sony BMG, 550 Madison Avenue, New York, NY 10022. 
 
