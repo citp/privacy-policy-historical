@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badgirlpotd.com privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209163447id_/http%3A//www.badgirlbucks.com/membersprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgirlpotd.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080128id_/http%3A//www.badgirlbucks.com/membersprivacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
