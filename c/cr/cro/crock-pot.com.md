@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crock-pot.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612152539id_/http%3A//www.crock-pot.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crock-pot.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142930id_/http%3A//www.crock-pot.com/privacy.aspx) for the most accurate reproduction.*
 
 # Welcome To Crock-Pot.com
 
