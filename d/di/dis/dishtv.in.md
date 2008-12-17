@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishtv.in privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022040233id_/http%3A//dishtv.in/Static/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishtv.in privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070119id_/http%3A//www.dishtv.in/Static/privacypolicy.asp) for the most accurate reproduction.*
 
 # » Dish TV - India's first DTH entertainment...
 
