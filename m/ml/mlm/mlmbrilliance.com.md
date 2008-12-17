@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617134258id_/http%3A//www.mlmbrilliance.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110522id_/http%3A//www.mlmbrilliance.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](http://www.mlmbrilliance.com/about-tim-sales.cfm)  
-Hi, I'm [Tim Sales](http://www.mlmbrilliance.com/about-tim-sales.cfm) and I personally guarantee that you will be happy with how my movies help grow your business.
+Hi, I'm [Tim Sales](http://www.mlmbrilliance.com/about-tim-sales.cfm) and I want to help you to expand your network marketing business.
 
-**** |  | 
+|  | 
 
 Privacy is a primary concern today, on and off the Internet. We are aware of these concerns and want you to feel comfortable using our site.
 
