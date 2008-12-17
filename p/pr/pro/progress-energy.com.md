@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the progress-energy.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626021557id_/http%3A//www.progress-energy.com/shared/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progress-energy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064810id_/http%3A//www.progress-energy.com/shared/privacy/index.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Progress Energy
 
 |  |  |   
   
+_Last updated June 25, 2008_
+
 Progress Energy values the privacy of each visitor to our site. To better protect your privacy, Progress Energy is providing this notice to explain our online information practices, and to explain the choices you can make concerning the way your information is collected and used.
 
 **Why We Collect Information**
