@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the mypopkorn.com privacy policy that was archived on 2008-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080328153959id_/http%3A//mypopkorn.com/index.php%3Fmo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypopkorn.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050117id_/http%3A//www.mypopkorn.com/aboutus/privacy.html) for the most accurate reproduction.*
 
-# myPOPKORN.com - Movie | TV Shows | News | Videos | Blogs and More Online Entertainment - Privacy Policy
+# myPOPKORN.com – Never miss a thing
 
 Last Revised on: 26/March/2008
 
-About MYPOPKORN.com
-
-Digital Media Convergence Limited ("MyPopkorn.com ") respects your privacy. This Privacy Policy provides the manner your data is collected and used by MyPopkorn.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by MyPopkorn.com you agree to the collection and use of your data by MyPopkorn.com in the manner provided in this Privacy Policy. 
+Digital Media Convergence Limited ("myPOPKORN.com ") respects your privacy. This Privacy Policy provides the manner your data is collected and used by myPOPKORN.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by myPOPKORN.com you agree to the collection and use of your data by MyPopkorn.com in the manner provided in this Privacy Policy. 
 
 **We want you to :**
 
@@ -15,7 +13,7 @@ Digital Media Convergence Limited ("MyPopkorn.com ") respects your privacy. This
 * contact us with your questions or concerns about privacy on this site 
 * know that by using our site you are consenting to the collection of your data
 
-**WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?**  
+ **WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?**  
 We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies", sent to your browser from: 
 
 * web server cookie stored on your hard drive 
@@ -50,7 +48,7 @@ In addition, third party advertisers or third party ad servers that place and pr
 
 4. **Clear / transparent GIFs information:** When you use the MYPOPKORN Site, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our users / members anonymously. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
 
-**HOW IS THIS INFORMATION USED?**
+ **HOW IS THIS INFORMATION USED?**
 
 1\. If you submit personally identifiable information to us through the MYPOPKORN Site, then we use your personal information to operate, maintain, and provide to you the features and functionality of the MYPOPKORN Site.
 
@@ -68,7 +66,7 @@ In addition, third party advertisers or third party ad servers that place and pr
 
 8\. Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our visitors may be among the transferred assets.
 
-**WHEN MYPOPKORN DISCLOSES INFORMATION**
+ **WHEN MYPOPKORN DISCLOSES INFORMATION**
 
   * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliate companies, or other businesses or people for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. 
   * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the MYPOPKORN Site. 
@@ -85,9 +83,9 @@ MYPOPKORN members may also store email addresses of people they know in their in
 
 You may prevent email invitations from us by sending a single email with the subject "BLOCK" to unsubscribe@MYPOPKORN.com. Please note that the email must come from the account you wish to block.
 
-**OUR COMMITMENT TO CHILDRENS' PRIVACY**
+ **OUR COMMITMENT TO CHILDRENS' PRIVACY**
 
-The Site is NOT directed to or intended for people under the age of Sixteen. A User less than 16 (Sixteen) years of age should not register to use the Site. MYPOPKORN does not knowingly collect any personal information from people under the age of sixteen. If you are a parent of a child under the age of sixteen and you have questions about our Site or Privacy Policy, please feel free to contact the MYPOPKORN Privacy Coordinator at privacy@MYPOPKORN.com. Those between the age of Sixteen and Eighteen are to provide either of their parents Email ID and an Email will be send informing that their ward has registered himself/herself to use the MYPOPKORN.com services. The parent will be legally bound by any acts/deeds/Violation of MYPOPKORN.com Terms of Use & Privacy Policy by their wards. 
+The Site is NOT directed to or intended for people under the age of Sixteen. A User less than 16 (Sixteen) years of age should not register to use the Site. MYPOPKORN does not knowingly collect any personal information from people under the age of sixteen. If you are a parent of a child under the age of sixteen and you have questions about our Site or Privacy Policy, please feel free to contact the MYPOPKORN Privacy Coordinator at [privacy@MYPOPKORN.com](mailto:privacy@mypopkorn.com). Those between the age of Sixteen and Eighteen are to provide either of their parents Email ID and an Email will be send informing that their ward has registered himself/herself to use the MYPOPKORN.com services. The parent will be legally bound by any acts/deeds/Violation of MYPOPKORN.com Terms of Use & Privacy Policy by their wards. 
 
 **OUR COMMITMENT TO DATA SECURITY**
 
@@ -99,7 +97,7 @@ If MYPOPKORN learns of a security systems breach, then we may attempt to notify 
 
 MYPOPKORN is hosted in India and is intended for and directed to users / members in India. If you are a user / member accessing the MYPOPKORN Site from any other region with laws or regulations governing personal data collection, use, protection and disclosure, that differ from Indian laws, please be advised that through your use of the MYPOPKORN Site, this Privacy Notice, and our Terms of Use, you are transferring your personal information to India and you consent to that transfer. We will only be complying with the legal provisions on the subject matter as applicable in India from time to time.
 
-**HOW YOU CAN MAKE CHANGES TO YOUR INFORMATION**
+ **HOW YOU CAN MAKE CHANGES TO YOUR INFORMATION**
 
 **NOTIFICATION OF CHANGES**  
 We reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the Site; or change/charge any fees or charges for use of the Services. Any changes we make will be effective immediately on notice, which we may give either by posting the new Agreement on the Site or via electronic mail. Your use of the Services after such notice will be deemed acceptance of such changes. Be sure to review this Agreement periodically to ensure your familiarity with the most current version. You will always be able to tell when the version was last updated by checking the "Last Revised" date in the header of this agreement. 
@@ -107,8 +105,14 @@ We reserve the right at any time to: change the terms of this Agreement; change 
 **CONFLICT RESOLUTION**  
 We are committed to resolving disputes as soon as feasible and shall endeavor to resolve all disputes brought to our notice in keeping with the mechanism prescribed, within 15 working days of such receipt.
 
-**CONTACT INFORMATION**  
-If site users have any questions or suggestions regarding our privacy policy, please contact us at: E-mail: customercare@mypopkorn.com Telephone: +91 22-4077 6767 Postal Address: Madhu Industrial Estate, Ground Floor, P B Marg, Worli, Mumbai, State: Maharashtra Pin code: 400013 Country: India
+ **CONTACT INFORMATION**  
+If site users have any questions or suggestions regarding our privacy policy, please contact us at:  
+E-mail: [customercare@mypopkorn.com](mailto:customercare@mypopkorn.com)  
+Telephone: +91 22-4077 6767  
+Postal Address: Madhu Industrial Estate, Ground Floor, P B Marg, Worli, Mumbai  
+State: Maharashtra  
+Pin code: 400013  
+Country: India
 
 **WEBSITE ADMINISTRATION**  
-Business name: MYPOPKORN.com Address: Madhu Industrial Estate, Ground Floor, P B Marg, Worli, Mumbai, State: Maharashtra Pin code: 400013 Country: India Website URL: http://www.MYPOPKORN.com
+Business name: myPOPKORN.com Address: Madhu Industrial Estate, Ground Floor, P B Marg, Worli, Mumbai, State: Maharashtra Pin code: 400013 Country: India Website URL: [http://www.MYPOPKORN.com](http://www.mypopkorn.com/)
