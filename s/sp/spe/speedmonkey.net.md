@@ -1,29 +1,6 @@
-> *The following text is extracted and transformed from the speedmonkey.net privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608044126id_/http%3A//www.speedmonkey.net/view-rant/speedmonkey-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedmonkey.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112948id_/http%3A//www.speedmonkey.net/view-rant/speedmonkey-privacy-policy) for the most accurate reproduction.*
 
 # SpeedMonkey Privacy Policy -SpeedMonkey Privacy Policy- Pop culture Celebrity News, Gossip, Reviews & Advice Speedmonkey.net
-
-#### Details
-
-Views: 2,096
-
-Rating: 3
-
-Votes: 0
-
-Comments: 
-
-#### Rate
-
-  *   *   *   *   *   * 
-
-
-#### Images
-
-[](https://web.archive.org/view-image.sm?image=336-206b39da22b292c968a78f77b157aac9)
-
-#### Tags
-
-[](https://web.archive.org/view-by-tag/) | 
 
 ## Disclaimer  
 
@@ -61,9 +38,4 @@ Occasionally, we get images that are believed to be royalty free only to find ou
 
 
 If you believe you are the owner of any images you see on this site, please send us an email and we will remove them.  
-
-
-[Read more gossip](https://web.archive.org/list-rants)
-
-  
 
