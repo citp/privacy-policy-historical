@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpgmag.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615222104id_/http%3A//www.jpgmag.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpgmag.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002436id_/http%3A//www.jpgmag.com/about/privacy.html) for the most accurate reproduction.*
 
 # JPG Magazine: About: Privacy Policy
 
@@ -21,7 +21,7 @@ This privacy policy pertains to the use of the JPG Magazine web site at jpgmag.c
 
 IP Addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in our user registration databases when you register with JPG Magazine.
 
-IP addresses may be used for various purposes, including: 
+IP addresses may be used for various purposes, including:
 
   * To diagnose or service technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
   * To estimate the total number of users visiting JPG Magazine from specific geographical regions.
@@ -34,7 +34,7 @@ IP addresses may be used for various purposes, including:
 A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
 
   * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
-  * If you reject all cookies, you will not be able to use JPG Magazine products or services that require you to "sign in," and you may not be able to take full advantage of the JPG Magazine service.
+  * If you reject all cookies, you will not be able to use JPG Magazine products or services that require you to "sign in" and you may not be able to take full advantage of the JPG Magazine service.
   * JPG Magazine uses its own cookies for a number of purposes, including to:  
 
     * Access your information when you "sign in".
@@ -62,7 +62,7 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
   * You can delete your JPG Magazine account at any time by [contacting us](https://web.archive.org/about/contact.html); however, please note that your identification, billing and contact information may remain in JPG Magazine's records for some period.
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
   * Your JPG Magazine profile information is password-protected.
-  * In certain areas, JPG Magazine uses SSL-encryption to protect data transmissions. 
+  * In certain areas, JPG Magazine uses SSL-encryption to protect data transmissions.
 
 
 
