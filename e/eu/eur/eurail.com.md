@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610164832id_/http%3A//www.eurail.com/1_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064122id_/http%3A//www.eurail.com/1_privacy_policy) for the most accurate reproduction.*
 
-# Eurail - Privacy Policy
+# Privacy Policy
 
 ## I. Information That We Collect
 
