@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zona-musical.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225040554id_/http%3A//www.zona-musical.com/modules.php%3Fname%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zona-musical.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094803id_/http%3A//www.zona-musical.com/privacy.html) for the most accurate reproduction.*
 
 # Zona-Musical Privacy Policy
 
@@ -40,6 +40,6 @@ This Website is not intended for use by children, especially those under age 18.
 
 If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator at juanchora@gmail.com. 
+If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator at zona.musical.com@gmail.com. 
 
 If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator. We welcome your feedback. 
