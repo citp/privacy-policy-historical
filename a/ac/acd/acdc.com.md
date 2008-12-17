@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acdc.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609142700id_/http%3A//www.acdc.com/policies/%3FgoTo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdc.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055046id_/http%3A//www.acdc.com/policies/%3FgoTo%3Dprivacy) for the most accurate reproduction.*
 
 # ACDC.com aup.aup
 
-(Effective October 31, 2002; last modified April 17, 2008)
+(Effective October 31, 2002; last modified August 26, 2008)
 
 ## PRIVACY POLICY
 
@@ -14,7 +14,7 @@ UltraStar reserves the right to change, modify, add, or remove provisions of thi
 
 ## Use of This Site by Children
 
-The Site is not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide Personally Identifiable Information (as defined below) through the Site. If a parent or guardian becomes aware that his or her child has provided us with Personally Identifiable Information without the parent or guardian's consent by, for example, misrepresenting his or her age, that parent or guardian should contact us at privacy@ultrastar.com. If UltraStar determines that it has collected personal information of children under the age of 13, UltraStar will immediately delete such information and any accounts believed to be held by children under 13. Please see our [Terms of Use](http://www.jonasbrothersfanclub.com/aup/index.php?goTo=terms) for additional information regarding the use of this Site by minors. Accordingly, we request that person's age and residence before we permit anyone to register with our site, open an account, register for our newsletter, participate in any games, contests or sweepstakes, purchase tickets or other merchandise, join a mailing list or to request any information, products or services offered by our site. We do not accept any such registration from, or provide any product or service to, any visitor who identifies himself or herself as being under the applicable age limit. If we discover any Personally Identifiable Information from anyone who is under the applicable age limit, we will promptly delete it. 
+The Site is not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide Personally Identifiable Information (as defined below) through the Site. If a parent or guardian becomes aware that his or her child has provided us with Personally Identifiable Information without the parent or guardian's consent by, for example, misrepresenting his or her age, that parent or guardian should contact us at privacy@ultrastar.com. If UltraStar determines that it has collected personal information of children under the age of 13, UltraStar will immediately delete such information and any accounts believed to be held by children under 13. Please see our [Terms of Use](http://www.acdc.com/aup/index.php?goTo=terms) for additional information regarding the use of this Site by minors. Accordingly, we request that person's age and residence before we permit anyone to register with our site, open an account, register for our newsletter, participate in any games, contests or sweepstakes, purchase tickets or other merchandise, join a mailing list or to request any information, products or services offered by our site. We do not accept any such registration from, or provide any product or service to, any visitor who identifies himself or herself as being under the applicable age limit. If we discover any Personally Identifiable Information from anyone who is under the applicable age limit, we will promptly delete it. 
 
 ## 1\. What Information We Collect
 
