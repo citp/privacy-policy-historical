@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pobox.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516210220id_/http%3A//www.pobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pobox.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075402id_/http%3A//www.pobox.com/privacy) for the most accurate reproduction.*
 
 # Pobox.com - Email Forwarding, Personal Domains, Spam Protection
 
