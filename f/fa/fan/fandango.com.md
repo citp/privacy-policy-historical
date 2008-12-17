@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the fandango.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622224335id_/http%3A//www.fandango.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandango.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217205405id_/http%3A//www.fandango.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Fandango | Privacy Policy
+
+  
+
 
   * [Purchase Policy](http://www.fandango.com/PurchasePolicy.aspx)
   * Privacy Policy
   * [Terms of Use](http://www.fandango.com/TermsOfUse.aspx)
-  * [Fandango Bucks](https://www.fandango.com/FBTerms.aspx)
+  * [Fandango Bucks](https://www.fandango.com/fbs/FBTerms.aspx)
   * [Fandango Mobile](http://www.fandango.com/fmterms.aspx)
 
 
@@ -38,7 +41,7 @@ Personally identifiable information is information that identifies you as an ind
 
 Non-Personally Identifiable Information.
 
-Fandango collects information from you automatically when you use the Site or other Service. However, the information that Fandango collects automatically does not contain Personally Identifiable Information. The automatically collected information may include information such as your browser type, the URL of the previous Web sites you visited, the Web pages and advertisements you view or select, the type of Service you use and the searches you conduct. This information also may include your movie preferences, such as the movies for which you buy tickets and the theatres where you see those movies. Fandango also collects information that does not include Personally Identifiable Information when you voluntarily provide it (such as in response to a questionnaire or survey) or post it to a public area of the Site or other Service (such as a rating/review page, message board or chat room).
+Fandango collects information from you automatically when you use the Site or other Service. However, the information that Fandango collects automatically does not contain Personally Identifiable Information. The automatically collected information may include information such as your browser type, the URL of the previous Web sites you visited, the Web pages and advertisements you view or select, the type of Service you use and the searches you conduct. This information also may include your movie preferences, such as the movies for which you buy tickets and the theaters where you see those movies. Fandango also collects information that does not include Personally Identifiable Information when you voluntarily provide it (such as in response to a questionnaire or survey) or post it to a public area of the Site or other Service (such as a rating/review page, message board or chat room).
 
 **HOW DOES FANDANGO AUTOMATICALLY COLLECT INFORMATION?**
 
