@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheapesttextbooks.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624144806id_/http%3A//www.cheapesttextbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapesttextbooks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133943id_/http%3A//cheapesttextbooks.com/privacy.html) for the most accurate reproduction.*
 
-# CheapestTextbooks.com - Privacy Statement
+# Privacy Statement - CheapestTextbooks.com
 
   
 **Privacy Statement**
