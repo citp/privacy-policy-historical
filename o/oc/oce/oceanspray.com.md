@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oceanspray.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623184038id_/http%3A//www.oceanspray.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanspray.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002521id_/http%3A//www.oceanspray.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 PRIVACY POLICY
 
-Ocean Spray does not collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. We do not require our visitors to register or provide information prior to viewing our website. If you contact us through our website, we use the information you supply for the purpose of providing the services you requested, such as answering a question or providing a recipe. If when you contacted us by e-mail you requested to be placed on our contact list, we may contact you from time to time. You can always request to have your name removed from our contact list by e-mailing us at any time.
+Ocean Spray does not collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. We do not require our visitors to register or provide information prior to viewing our website. If you contact us through our advertising or our website, we use the information you supply for the purpose of providing the services you requested, such as answering a question or providing a recipe. If when you contacted us by e-mail you requested to be placed on our contact list, we may contact you from time to time. You can always request to have your name removed from our contact list by e-mailing us at any time.
 
 Ocean Spray requests that users age 13 and younger do not send personal information to us. Ocean Spray does not share information provided by our customers with parties outside of our company. We do not sell or distribute our customer lists.
 
