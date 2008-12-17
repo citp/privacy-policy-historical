@@ -1,55 +1,102 @@
-> *The following text is extracted and transformed from the camgirlslive.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425203514id_/http%3A//www.camgirlslive.com/go/page/privacy.html%3Fdcb%3Dwww.camgirlslive.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camgirlslive.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050524id_/http%3A//camgirlslive.com/go/page/privacy.html%3Fdcb%3Dcamgirlslive.com) for the most accurate reproduction.*
 
-# CamGirlsLive Privacy Policy
+# CamGirlsLive PRIVACY POLICY
 
-**CamGirlsLive Privacy Policy**
+********************
 
-CamGirlsLive is committed to maintaining a privacy policy that benefits each individual customer's preferences. 
+********************
 
-**NOTE: Our privacy policy is null and void in cases of fraud!**
+|   
+**CamGirlsLive PRIVACY POLICY**  
+---  
+We at CamGirlsLive understand that your privacy is very important to you. That's why we've developed this policy to ensure that your privacy is protected while using CamGirlsLive.  
+  
+  
+**Table of Contents**   
+A Special Note About Children   
+About CamGirlsLive and Information We Collect   
+Our Use of Your Information   
+Our Disclosure of Your Information   
+Your use of Other Users' Information   
+Control of Your Password   
+Reviewing and Changing Your Personally Identifiable Information   
+Third Party Collections of Information   
+Security   
+Update/Delete  
+  
+**1\. A Special Note About Children**  
+Children under eighteen years of age are not eligible to use our services. We ask that children not submit information to us.  
+  
+**2\. About CamGirlsLive and Information We Collect**  
+CamGirlsLive is an online network which provides you useful tools and communities to build relationships online. CamGirlsLive basic service is FREE to all qualified members. 
 
-This policy explains the privacy practices for Streamray, Inc., a Nevada corporation, (hereinafter referred to as "Streamray, Inc.", "Streamray", "CamGirlsLive", "site", "our", "we", or "us"). In order to provide interactive computer billing and fraud services, Streamray collects and uses certain information about you. This policy explains what we collect, what we use and how you can interact with Streamray in order to ensure the accuracy of the data we collect and use. 
+In our online **ANONYMOUS** registration form, we ask you to provide us with certain information such as your age and the type of relationship you are looking for. In addition, we collect address, credit card, and bank information only from those who wish to acquire Gold and Silver member privileges. **However, NONE of the personally identifiable information can be accessed or used by the public to identify a specific individual.**
 
-**1) Information Collection:**   
-Visitors can access our Web site home page and browse our Web site without disclosing any personal data. However, in order to provide you with a particular product or service online, Streamray may request that you voluntarily supply Streamray with primary personal data (such as name and email address) and identifiers (such as credit card number and web site password). Streamray gives you the option of using a secure transmission method of sending such information. 
+In the course of using our site, we automatically track certain information such as your IP addresses and email addresses. Many sites automatically collect this information. If you choose to post messages in our Advice Columns, chat rooms, or other message areas, we will only display such information about you as you choose to reveal. 
 
-Streamray receives and stores all information that you enter in our Web site and billing pages. In addition, Streamray collects information about you during your visit, such as your IP Address, and Streamray employs its software in order to ascertain your physical location when making a purchase. However, we do not collect information from other sources, such as public records or bodies, or private organizations. You are required to provide Streamray with accurate and up-to-date information, and failure to provide Streamray with such information could result in voiding your Agreement with Streamray. 
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file which is only accessed by authorized personnel. We may also collect other users' comments about you in our complaints department. 
 
-You can inquire about your personal data by sending an e-mail to [customerservice@streamray.com](mailto:customerservice@streamray.com). Within a week, Streamray shall provide you with a readable copy of the personal data which Streamray keeps about you. Streamray charges a $25 processing fee for the request. Prior to completing your request, Streamray may require that you provide Streamray with proof of your identity. Streamray reserves the right to refuse any request for information though Streamray will communicate the reason for its decision. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. CamGirlsLive stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [Customer Service](http://camgirlslive.com/p/help.cgi?dcb=camgirlslive.com&contact=1) to request that we remove this information from our database.  
+  
+  
+**3\. Our Use of Your Information**  
+We internally use personally identifiable information of our users to improve our marketing efforts, to statistically analyze site usage, to improve our content and product offerings as well as to customize our site's content and layout. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs. 
 
-**2) Information Use:**   
-Streamray is the sole owner of the information collected on its sites. Streamray will not sell, share, or rent this information to third parties in ways different from what is disclosed it this policy. Streamray shall release data when required by law, to enforce its Agreement or the contract rights of its clients. Streamray shares the following data with the owner/operator of the web site from which you are purchasing goods and services utilizing Streamray services: the URL you are purchasing goods or services from, your e-mail address, your name, your address, your phone number, your date of birth, and your agreement to be bound by Streamray terms and conditions. Streamray uses the data it collects for the technical administration of the Web site, research and development, and fraud deterrence. 
+We may also use personally identifiable information about you to deliver information to you that, in some cases, are targeted to your interests, such as targeted banners and promotions. 
 
-**3) Information sharing:**   
-We ensure that your personal data will not be disclosed to governmental institutions and authorities except if required by law or other regulation. 
+We also send periodic informational updates to our members via email. 
 
-**4) Email correspondence:**   
-Streamray may request a confirmation when you receive and open and e-mail communication delivered by Streamray. We archive and identify the origination IP address of all email sent into our network. 
+We use personally identifiable information to resolve disputes, troubleshoot problems and enforce our User Agreement.  
+  
+**4\. Our Disclosure of Your Information**  
+We DO NOT sell or rent any personally identifiable information about you to any third party without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we DO NOT disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, credit card number, and bank account number, are not disclosed in aggregate at all. 
 
-**5) Third party information:**   
-Occasionally, Streamray receives information from third parties to compare it to information that you had provided to Streamray for fraud prevention purposes. 
+In order to maintain a healthy community, CamGirlsLive cooperates with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights. 
 
-**6) Cookies:**   
-A cookie is a piece of data stored on the visitor's hard drive containing information about the visitor. Streamray employs "cookie" technology. We use Cookie to store personal data, to authenticate you as a Site user, for security purposes, and to track our affiliate click-throughs and sign-up rate. 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.  
+  
+  
+**5\. Your use of Other Users' Information**  
+**You may not use other user’s information for commercial purposes, to spam, to harass, or to make unlawful threats. **CamGirlsLive reserves the right to terminate those who misuse other user’s information or who otherwise violate the CamGirlsLive Terms of Use.****  
+  
+**6\. Control of Your Password**  
+You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.  
+  
+**7\. Reviewing and Changing Your Personally Identifiable Information**  
+Once you register, you will be able to review and change much of your personally identifiable information at CamGirlsLive including: 
 
-**7) Children:**   
-Streamray does not request, or knowingly collect, personal data from anyone under the age of 18. Furthermore, Streamray does not knowingly give children the ability to post messages or otherwise distribute information about themselves on our web site. 
+Your email address  
+Your city, state, zip code, country  
+Your password  
+Your profile
 
-**8) Security:**   
-We date every protection to protect our visitors' information. We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction, or accidental loss. Streamray utilizes Secure Socket Layer (SSL) software when receiving and transmitting electronic payments. Streamray encrypts the information that you provided. 
+Please promptly update your information if it changes by logging in to your account and following the screen prompts. We strongly urge you to periodically change your password to help reduce the risk of unauthorized access to your account information. 
 
-In addition, Streamray does everything to protect your information off-line. All employees and data processors who have access to, and are associated with, the processing of personal data are obliged to respect the confidentiality of our visitors' personal data. Streamray employs a username and password scheme in order to limit and achieve access to our computer network by our employees and third parties. 
+Upon your request, we will remove your credit card number and credit card expiration date from our main databases. To make this request, email us at [Customer Service](http://camgirlslive.com/p/help.cgi?dcb=camgirlslive.com&contact=1). We will retain in our files information, including credit card information, you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems, comply with Credit Card Merchant Banking and Association Agreements, enhance security, reduce fraud, comply with Federal and State Law, and to enforce our Terms of Use Agreement.  
+  
+  
+**8\. Third Party Collections of Information**  
+Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. While CamGirlsLive is working closely with our partners to ensure the highest privacy to you, we encourage you to ask questions before you disclose your personal information to others. 
 
-**9) Correction/Updating Personal Information:**   
-You may access certain information about you for the purpose of viewing, updating, and in some instances deleting from our system any information deemed inaccurate. You may request to access your information by sending a request to: 
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. If you would like more information about this practice and your choices, click [here](http://www.networkadvertising.org/optout_nonppii.asp) .  
+  
+  
+**9\. Security**  
+CamGirlsLive has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. CamGirlsLive uses industry standard efforts to safeguard the confidentiality of your personal identifiable information such as firewalls. While "perfect security" does not exist on the Internet, our technical experts at CamGirlsLive work hard to ensure your secure use of our services.  
+  
+**10\. Update/Delete**  
+CamGirlsLive Members have the following choices to modify or delete their information from our database: 
 
-Administrator   
-Consumer Protection Dept.   
-Streamray Inc.   
-5258 S. Eastern Avenue, Suite 100  
-Las Vegas, NV 89119   
-or e-mail: [customerservice@streamray.com](mailto:customerservice@streamray.com). 
+  * Send an email to [Customer Service](http://camgirlslive.com/p/help.cgi?dcb=camgirlslive.com&contact=1)
+  * Log in with your password and modify/delete your profile
+  * Send a snail mail to CamGirlsLive at 220 Humboldt Ct, Sunnyvale, CA 94089, USA
+  * Call us at (610) 757-1924
 
-If you have an inquiry or concern about our privacy policy, please contact us at the above address. 
+Click [here](https://web.archive.org/cgi-bin/public/register.cgi) to join our [free](https://web.archive.org/cgi-bin/public/register.cgi), safe, and exciting community now.   
+  
+CamGirlsLive PRIVACY POLICY  
+Effective on: (12/22/05)
 
-(Revised December 8, 2005) 
+Top  
+  
+********************
