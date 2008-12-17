@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kriyayoga.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/var/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kriyayoga.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/var/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cyberspace Ashram
 
@@ -30,11 +30,11 @@ I use [third-party advertising companies](https://www.google.com/adsense/support
 
 ## Contact me for more info
 
-If you have any privacy related issues, you may use the [Contact Form](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/var/express.html "Contact Form"), to communicate with me.
+If you have any privacy related issues, you may use the [Contact Form](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/var/express.html "Contact Form"), to communicate with me.
 
 ## Privacy in general
 
-As a spiritual teacher and professional web publisher / site owner, all my data, [address and phone number](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/var/address.htm "address and phone number"), substantial part of [my life-story](http://www.kriyayoga.com/angelsoflove/angels_of_love.html "my life-story") and much more are since years published on my web site and/or in several legally required and/or commonly used public records available to the general public thru means of Internet. Hence I have no secrets of any kind!
+As a spiritual teacher and professional web publisher / site owner, all my data, [address and phone number](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/var/address.htm "address and phone number"), substantial part of [my life-story](http://www.kriyayoga.com/angelsoflove/angels_of_love.html "my life-story") and much more are since years published on my web site and/or in several legally required and/or commonly used public records available to the general public thru means of Internet. Hence I have no secrets of any kind!
 
 If you have any problems revealing your true name, location or address while contacting me or while using this web site, then I recommend you to strictly refrain from surfing the Cyberspace Ashram as well as to refrain from usage of any of my free online services.
 
@@ -51,11 +51,11 @@ hans
 
 * * *
 
-[God is Love](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/love/god.html) | [Love](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/love/love.html) | [Teachings of Love](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/english/on_your_wings/introduction.htm) | [God's son of Love](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/jesus/god.html) | [Lessons of Love](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/newsletters/index.html) | [Learn to say "I love you"](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/newsletters/I_love_you.html) | [Learn to accept love"](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/newsletters/you_love_me.html) | [Love tests and Love feedback](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/wap/ml/index.html) | [Spiritual Forum - Solutions of Love](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/faq/frames_index.html) | [LoveCards to say "I love you"](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/pd/LoveCards2.html)
+[God is Love](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/love/god.html) | [Love](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/love/love.html) | [Teachings of Love](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/english/on_your_wings/introduction.htm) | [God's son of Love](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/jesus/god.html) | [Lessons of Love](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/newsletters/index.html) | [Learn to say "I love you"](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/newsletters/I_love_you.html) | [Learn to accept love"](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/newsletters/you_love_me.html) | [Love tests and Love feedback](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/wap/ml/index.html) | [Spiritual Forum - Solutions of Love](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/faq/frames_index.html) | [LoveCards to say "I love you"](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/pd/LoveCards2.html)
 
   
 
 
 * * *
 
-Overview[Teachings of Love](https://web.archive.org/web/20080621064108id_/http%3A//www.kriyayoga.com/english/frames_index.html)
+Overview[Teachings of Love](https://web.archive.org/web/20081217074024id_/http%3A//www.kriyayoga.com/english/frames_index.html)
