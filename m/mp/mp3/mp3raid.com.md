@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the mp3raid.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514003807id_/http%3A//www.mp3raid.com/mp3general/disclaim.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3raid.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041313id_/http%3A//www.mp3raid.com./mp3general/disclaim.shtml) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer @ Mp3Raid.com
 
-|  |   
----  
-  
 **Personal Information**  
     Mp3Raid.com is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our web site. In order to enhance your experience at our sites we gather certain personal information about you that helps us customize our content to your tastes and preferences. We may ask for your name, e-mail address, zip code, and country. The more information you share with us (and the more accurate it is), the better we are able to enhance and customize your experience on our sites.   
 
