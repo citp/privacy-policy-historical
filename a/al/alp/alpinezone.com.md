@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225214751id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101028id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
 
 # AlpineZone.com Disclaimer and Terms of Use
 
@@ -7,89 +7,89 @@
 **[ Latest Headlines](http://news.alpinezone.com/) **[](http://rss.alpinezone.com/news.php)  
   
 ---  
- [Loon Mountain Opens South Peak, New England's Newest Ski Terrain...](http://news.alpinezone.com/21662/)  
-   9:29 PM \- Dec 20, 2007   
+ [Belleayre Mountain Announces Economic Stimulus Package...](http://news.alpinezone.com/44595/)  
+   2:31 PM \- Dec 16, 2008   
   
- [Snowshoe Mountain to Debut First of Three New Trails...](http://news.alpinezone.com/21661/)  
-    9:28 PM \- Dec 20, 2007   
+ [Cannon Mountain Extends New Hampshire Resident Deadline...](http://news.alpinezone.com/44594/)  
+    2:25 PM \- Dec 16, 2008   
   
- [Ski for Free at Oak Mountain Ski Center on December 26-28...](http://news.alpinezone.com/21660/)  
-    9:27 PM \- Dec 20, 2007   
+ [Pats Peak Ski Area Invites Skiers and Snowboarders to Form Adult Race Teams...](http://news.alpinezone.com/44593/)  
+    2:24 PM \- Dec 16, 2008   
   
- [It's Going to Be a White Christmas at Snowshoe...](http://news.alpinezone.com/21659/)  
-    9:27 PM \- Dec 20, 2007   
+ [Wildcat Mountain Is Set To Welcome International Visitors This Season...](http://news.alpinezone.com/44592/)  
+    2:23 PM \- Dec 16, 2008   
   
- [Sugarloaf to Welcome G. Love and Special Sauce...](http://news.alpinezone.com/21658/)  
-    9:26 PM \- Dec 20, 2007   
+ [Sugarloaf and the Bud Light Concert Series welcome The Machine...](http://news.alpinezone.com/44591/)  
+    2:23 PM \- Dec 16, 2008   
   
- [Pay-One-Price Program on Saturday Nights Returns to Pats Peak...](http://news.alpinezone.com/21657/)  
-    9:26 PM \- Dec 20, 2007   
+ [Crantastic New Year's Eve Highlights Holiday Week at Cranmore Mountain...](http://news.alpinezone.com/44590/)  
+    2:23 PM \- Dec 16, 2008   
   
- [Vermont Tops 8 Year Open Trail Tally...](http://news.alpinezone.com/21542/)  
-    9:23 AM \- Dec 18, 2007   
+ [Crotched Mountain Ski and Ride Begins 3am Skiing December 26...](http://news.alpinezone.com/44589/)  
+    2:21 PM \- Dec 16, 2008   
   
- [Belleayre Mountain Offering $25 Christmas Lift Tickets to Holiday Skiers...](http://news.alpinezone.com/21541/)  
-    9:22 AM \- Dec 18, 2007   
+ [Students live large at Sugarloaf's College Snowfest Week...](http://news.alpinezone.com/44588/)  
+    2:21 PM \- Dec 16, 2008   
   
- [Rustic Overtones Kicks off the Bud Light Concert Series at Sunday River'...](http://news.alpinezone.com/21540/)  
-    9:22 AM \- Dec 18, 2007   
+ [Women Pro Snowboarders Launch &quot;The Ladies Room&quot; at Waterville Valley...](http://news.alpinezone.com/43844/)  
+    12:45 PM \- Dec 8, 2008   
   
- [Okemo Re-energizes Wind Power Commitment...](http://news.alpinezone.com/21539/)  
-    9:21 AM \- Dec 18, 2007   
+ [A Weekend of Events at Jiminy Peak Mountain Resort...](http://news.alpinezone.com/43843/)  
+    12:44 PM \- Dec 8, 2008   
   
   
   
 **[ Recent Discussions](http://forums.alpinezone.com/) **[](http://rss.alpinezone.com/forums.php)  
   
 ---  
- [Quality Time...](http://forums.alpinezone.com/showthread.php?t=21833&goto=newpost)  
-   4:03 PM \- Dec 25, 2007   
-    by ckofer  
+ [What music are you i...](http://forums.alpinezone.com/showthread.php?t=28392&goto=newpost)  
+   12:07 PM \- May 21, 2008   
+    by wa-loaf  
   
   
- [Word Association Thr...](http://forums.alpinezone.com/showthread.php?t=8966&goto=newpost)  
-    3:13 PM \- Jun 22, 2006   
-    by Greg  
+ [Snowshoeing?...](http://forums.alpinezone.com/showthread.php?t=41969&goto=newpost)  
+    11:35 PM \- Nov 18, 2008   
+    by Swamp Dog  
   
   
- [Rats in Your Toilet...](http://forums.alpinezone.com/showthread.php?t=21827&goto=newpost)  
-    11:40 AM \- Dec 25, 2007   
-    by andyzee  
-  
-  
- [Let the holiday sale...](http://forums.alpinezone.com/showthread.php?t=21832&goto=newpost)  
-    3:25 PM \- Dec 25, 2007   
-    by ckofer  
-  
-  
- [best place for wed s...](http://forums.alpinezone.com/showthread.php?t=21798&goto=newpost)  
-    12:04 PM \- Dec 24, 2007   
-    by freebie  
-  
-  
- [Sugarloaf end of the...](http://forums.alpinezone.com/showthread.php?t=21829&goto=newpost)  
-    2:02 PM \- Dec 25, 2007   
-    by celts33  
-  
-  
- [I miss NH...](http://forums.alpinezone.com/showthread.php?t=21774&goto=newpost)  
-    9:32 PM \- Dec 23, 2007   
-    by Goblin84  
-  
-  
- [Merry Christmas!...](http://forums.alpinezone.com/showthread.php?t=21779&goto=newpost)  
-    11:26 PM \- Dec 23, 2007   
+ [Too Funny - Another...](http://forums.alpinezone.com/showthread.php?t=44623&goto=newpost)  
+    9:35 PM \- Dec 16, 2008   
     by billski  
   
   
- [Mt.Snow 12/23/07...](http://forums.alpinezone.com/showthread.php?t=21792&goto=newpost)  
-    10:38 AM \- Dec 24, 2007   
-    by kingslug  
+ [Lange WC 160 (ZA-130...](http://forums.alpinezone.com/showthread.php?t=41421&goto=newpost)  
+    8:58 AM \- Nov 13, 2008   
+    by Madroch  
   
   
- [Good Soundtrack for...](http://forums.alpinezone.com/showthread.php?t=21497&goto=newpost)  
-    2:26 PM \- Dec 17, 2007   
-    by MRGisevil  
+ [newbie skis?...](http://forums.alpinezone.com/showthread.php?t=43477&goto=newpost)  
+    11:37 AM \- Dec 4, 2008   
+    by automagp68  
+  
+  
+ [Dirt Cheap Stowe lod...](http://forums.alpinezone.com/showthread.php?t=44617&goto=newpost)  
+    8:30 PM \- Dec 16, 2008   
+    by Patsht  
+  
+  
+ [Dinner thread...What...](http://forums.alpinezone.com/showthread.php?t=17759&goto=newpost)  
+    2:40 PM \- Sep 19, 2007   
+    by GrilledSteezeSandwich  
+  
+  
+ [Mohawk Mountain 12/1...](http://forums.alpinezone.com/showthread.php?t=44624&goto=newpost)  
+    10:25 PM \- Dec 16, 2008   
+    by severine  
+  
+  
+ [The 12/21 Storm spec...](http://forums.alpinezone.com/showthread.php?t=44558&goto=newpost)  
+    10:32 AM \- Dec 16, 2008   
+    by drjeff  
+  
+  
+ [Killington Banner Ad...](http://forums.alpinezone.com/showthread.php?t=44627&goto=newpost)  
+    11:16 PM \- Dec 16, 2008   
+    by Johnskiismore  
   
   
    
