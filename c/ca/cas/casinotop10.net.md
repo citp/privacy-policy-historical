@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the casinotop10.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213154335id_/http%3A//www.casinotop10.net/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotop10.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133548id_/http%3A//www.casinotop10.net/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://web.archive.org/)
 
 CasinoTop10 respects your privacy. Any information collected at this website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to CasinoTop10 will be kept with the uttermost care and will not be used in way to which you have not consented.   
 
@@ -21,21 +19,3 @@ CasinoTop10 reserves the right to replace this Privacy Policy at any time. We su
 
 
 Please feel free to e-mail any questions or comments to [info@casinotop10.net](mailto:info@casinotop10.net). 
-
-## Blackjack Strategy
-
-Blackjack is actually a game of skill. Of course, there's a lot of chance involved in the decision of an individual hand, but chance evens out over time. Knowing when to hit and when to stand is what decides your success as a blackjack player.
-
-[Read Full Article >](https://web.archive.org/blackjack-strategy.shtml)
-
-## Roulette Tips
-
-Since Roulette is a game of pure chance, one might think that it is impossible to give any advice on how to play the game. But it's not! There are a few tips for how you can be a smarter roulette player. Read about them here!
-
-[Read Full Article >](https://web.archive.org/the-roulette-rules.shtml)
-
-## Slots Strategy
-
-The online world is full of slot machines. It would be impossible to describe them all, or even name them. Nevertheless, there are a number of tips and ideas regarding the best way of playing Slots.
-
-[Read Full Article >](https://web.archive.org/slots-strategy-545.shtml)
