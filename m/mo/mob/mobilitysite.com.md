@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the mobilitysite.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619232615id_/http%3A//mobilitysite.com/mobilitysite-aximsite-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilitysite.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025255id_/http%3A//mobilitysite.com/mobilitysite-aximsite-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobility Site
-
-Browse >
-
-[Home](http://mobilitysite.com/ "Browse to: Home") / Privacy Policy 
 
 This is the web site of **Mobilitysite.com and Aximsite.com**.
 
