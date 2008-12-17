@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624041342id_/http%3A//arkansas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217031859id_/http%3A//www.arkansas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,4 +81,4 @@ All personally identifiable information.
 
 ## Did you know?
 
-**Morrilton** – _Morrilton, AR_ : This park is large and accessible to anyone, no matter their residence. Petit Jean's diverse features can be enjoyed by beginning adventurers as well as those well adapted to the outdoors. [Learn More ... ](http://www.arkansas.com/attractions/attr_detail/r/River+Valley/id/22266/lr/ "Learn more about: Petit Jean State Park")
+**Forrest City** – _Forrest City, AR_ : A wonderful museum with an exceptional Native American exhibit. Highlights farming and noteworthy people important to the area. [Learn More ... ](http://www.arkansas.com/attractions/attr_detail/r/Delta/id/18674/lr/ "Learn more about: St. Francis County Museum")
