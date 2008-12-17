@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ebay.in privacy policy that was archived on 2008-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080428011741id_/http%3A//pages.ebay.in/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.in privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053101id_/http%3A//pages.ebay.in/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
 | | 
 
-**Overview**
+eBay Privacy Policy
+
+ **Overview**
 
 Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information.
 
@@ -117,21 +119,6 @@ Please click the hyperlink to carefully read [PaisaPay Data Privacy and Security
 
   
 At eBay, we welcome your questions and comments regarding our privacy policy. You may contact eBay at [http://pages.ebay.in/help/contact_inline/index.html.](http://pages.ebay.in/help/contact_inline/index.html)
-
-
-
-
-  
- **Related Help topics**  
-
-
-  * [Privacy Overview](http://pages.ebay.in/help/policies/privacy-ov.html)
-
-  * [Unsolicited Email (Spam)](http://pages.ebay.in/help/policies/everyone-spam.html)
-
-  * [Publishing Contact Information](http://pages.ebay.in/help/policies/privacy-contact.html)
-
-  * [eBay User Agreement](http://pages.ebay.in/help/policies/user-agreement.html)
 
 
 
