@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pugetsystems.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611135206id_/http%3A//www.pugetsystems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pugetsystems.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217162938id_/http%3A//www.pugetsystems.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,7 @@ The Way We Use Information
 
 We use the information you provide about yourself when placing an order only to complete that order. **We do not share this information with outside parties except to the extent necessary to complete that order.** We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-Occationally, we do send out a check-up email to all open quote requests. This email serves to give us information about which quotes continue to be active, and which quotes are closed and are no longer to be given our attention. Though these emails are sent from a script on our server, we handle every reply personally and requests for no further contact from us are promptly and personally fulfilled.
+Occasionally, we do send out a check-up email to all open quote requests. This email serves to give us information about which quotes continue to be active, and which quotes are closed and are no longer to be given our attention. Though these emails are sent from a script on our server, we handle every reply personally and requests for no further contact from us are promptly and personally fulfilled.
 
 Communication and Traffic Logs
 
