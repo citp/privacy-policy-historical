@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the ticketvala.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094208id_/http%3A//www.ticketvala.com/ticketvala/html/privacy.shtml) for the most accurate reproduction.*
+
+# Book Bus Tickets Online, Bus Tickets Booking, Online Bus Ticket Reservation India
+
+Ticketvala respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites. In general, you can visit Ticketvala website without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous. 
+
+There are times when we have to collect personal information from you such as name, physical address or telephone number. It is our intent to inform you before we do that and to tell you what we intend to do with the information. You can choose not to provide the information that we requested and still visit the Ticketvala website, but you may be unable to access certain options, offers and services. 
+
+Ticketvala will take appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. Ticketvala will continue to enhance our security procedures as new technology becomes available. 
+
+If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. Please reference the privacy policy in your subject line. Ticketvala will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. 
+
+Thank you for using Ticketvala! 
