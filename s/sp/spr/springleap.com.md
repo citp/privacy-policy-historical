@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the springleap.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531072958id_/http%3A//www.springleap.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springleap.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053206id_/http%3A//www.springleap.com/pages/privacy) for the most accurate reproduction.*
 
-# springleap | Privacy Policy
+# springleap T-shirts | Privacy Policy
 
 Fashion Evolution and all its subsidiaries and associates including springleap (hereafter referred to as "springleap") recognizes that its customers, visitors, users, affiliated companies and others (known collectively or individually as "Users") who use springleap and the services that are offered by springleap (the "Website") value their privacy. This Privacy Policy applies to all of the products, services, and Websites offered by springleap and details important information regarding the use and disclosure of User information collected on the Website.
 
