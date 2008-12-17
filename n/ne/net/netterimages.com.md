@@ -1,58 +1,51 @@
-> *The following text is extracted and transformed from the netterimages.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629114428id_/http%3A//www.netterimages.com/customer/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netterimages.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061437id_/http%3A//www.netterimages.com/help/privacy.htm) for the most accurate reproduction.*
 
-# Netter Medical Artwork - Privacy Policy
+# Netter Medical Images - Privacy Policy
+
+PRIVACY POLICY  
+This document outlines the Privacy Policy for the netterimages.com website
 
 This website ("Site") is owned by [Elsevier Inc.](http://us.elsevierhealth.com/), 1600 John F. Kennedy Blvd., Ste 1800, Philadelphia, PA 19103-2899, USA, and operated by [Slicksurface LLC](http://www.slicksurface.com/) ("Elsevier," "we," "us" or "our"). 
 
-We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information. 
+We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
 
 We collect and use, and may from time to time supply third parties with, this information only as anonymous, aggregated user data for the purposes of usage analysis, quality control and administering and improving the Site. 
 
-COLLECTION AND REGISTRATION OF PERSONAL INFORMATION 
+NEXT
 
-We sometimes request users of the Site to provide personal information. The information collected from a user is strictly voluntary and may include contact information such as the user's name, e-mail address, and postal address. 
+HOW PERSONAL INFORMATION IS USED
 
-In order to access certain content and to make use of the full functionality and advanced personalization features and purchase history, we may ask you to register and obtain a personal User Name and Password. 
+We use the personal information that you provide for such purposes as: completion and support of the activity for which the information was provided, such as allowing access to or delivery of our products or services, processing or fulfilling an order, or responding to your requests or inquiries. website and system administration, such as for the technical support of the Site and its computer system, including processing computer account information, information used in the course of securing and maintaining the Site, and verification of Site activity by the Site or its agents research and development to enhance, evaluate and improve the Site and our services tailoring or customizing content or design of the Site during a single visit to the Site and individualized personalization of the Site on repeat visits pseudonymous analysis to create a profile used to determine the habits, interests or other characteristics of users for purposes of research, analysis and anonymous reporting communicating with you about changes or updates to the Site and our services and, with your consent, special offers, promotions or market research surveys 
 
-The information collected from the registration form that is presented to users when they choose to register may include contact information such as the user's name, e-mail address, postal address, work setting, job title, profession, principal professional field, subject area of interest, and country ("Registration Information"). The Registration Information is linked directly to a personal User Name and Password chosen by the user and can only be retrieved by supplying the correct User Name and Password that is linked to that profile. 
+DISCLOSURE OF PERSONAL INFORMATION TO THIRD PARTIES
 
-HOW PERSONAL INFORMATION IS USED 
-
-We use the personal information that you provide for such purposes as: 
-
-completion and support of the activity for which the information was provided, such as allowing access to or delivery of our products or services, processing or fulfilling an order, or responding to your requests or inquiries. website and system administration, such as for the technical support of the Site and its computer system, including processing computer account information, information used in the course of securing and maintaining the Site, and verification of Site activity by the Site or its agents research and development to enhance, evaluate and improve the Site and our services tailoring or customizing content or design of the Site during a single visit to the Site and individualized personalization of the Site on repeat visits pseudonymous analysis to create a profile used to determine the habits, interests or other characteristics of users for purposes of research, analysis and anonymous reporting communicating with you about changes or updates to the Site and our services and, with your consent, special offers, promotions or market research surveys 
-
-DISCLOSURE OF PERSONAL INFORMATION TO THIRD PARTIES 
-
-Access to your personal information is restricted to our employees, agents, representatives and service providers, such as our data processing, printing and fulfillment operations and entities for whom we are acting as an agent or publisher, such as societies and our affiliated group companies, for the purposes set forth above. 
-
-With your consent, we also may share your personal information with our affiliated group companies and/or with non-affiliated third parties that wish to send you information about their products and services that may be of interest to you, and users who have consented to receive such information may receive communications from these third parties. If you wish us to pass your personal information to third parties, please check the appropriate box when you register for personalized services. 
-
-We will not otherwise disclose any personal information without your consent except under the following circumstances: 
-
-in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims; if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and if Elsevier, this Site or related assets or line of business are acquired by, transferred to or merged with another company. 
+Access to your personal information is restricted to our employees, agents, representatives and service providers, such as our data processing, printing and fulfillment operations and entities for whom we are acting as an agent or publisher, such as societies and our affiliated group companies, for the purposes set forth above. With your consent, we also may share your personal information with our affiliated group companies and/or with non-affiliated third parties that wish to send you information about their products and services that may be of interest to you, and users who have consented to receive such information may receive communications from these third parties. If you wish us to pass your personal information to third parties, please check the appropriate box when you register for personalized services. We will not otherwise disclose any personal information without your consent except under the following circumstances: in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims; if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and if Elsevier, this Site or related assets or line of business are acquired by, transferred to or merged with another company.
 
 ACCESS AND CHANGES TO YOUR REGISTRATION INFORMATION
 
 Registered Users may access their identified contact information and other Registration Information and correct any discrepancies or update information by clicking the "Edit My Details" link under "My Account". The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users. 
 
-RETENTION OF PERSONAL INFORMATION 
+NEXT
 
-We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting our Customer Service Center at the address or telephone number detailed below. 
+RETENTION OF PERSONAL INFORMATION
 
-OUR COMMITTMENT TO DATA SECURITY 
+We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting our Customer Service Center at the address or telephone number detailed below.
+
+OUR COMMITTMENT TO DATA SECURITY
 
 We recognize that your privacy is important to you, and therefore we endeavor to keep your personal information confidential. The personal and demographic information about each user is stored on our servers that are behind a firewall and physically housed within a secured data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of such information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of such information submitted to us nor for your or third parties' use or misuse of such information. 
 
-ABOUT THIS PRIVACY POLICY 
+ABOUT THIS PRIVACY POLICY
 
-The foregoing is the current privacy policy of the Site. We reserve the right to change this policy at any time without notice. Any changes to this policy will be posted on this webpage. Our policy does not create a contract or any legal rights. 
+The foregoing is the current privacy policy of the Site. We reserve the right to change this policy at any time without notice. Any changes to this policy will be posted on this webpage. Our policy does not create a contract or any legal rights.
 
-This privacy policy applies solely to the information you provide while visiting this Site. The terms of this privacy policy do not govern personal information furnished through any means other than this Site (such as via telephone or postal mail). 
+This privacy policy applies solely to the information you provide while visiting this Site. The terms of this privacy policy do not govern personal information furnished through any means other than this Site (such as via telephone or postal mail).
 
 This Site may contain links to other websites that are beyond our control. Other websites to which you link may contain privacy policies that are different from this privacy policy. We encourage you to check the privacy policy of each website you visit before submitting any information to them. 
 
-QUESTIONS, COMPLAINTS AND DISPUTE RESOLUTION 
+NEXT
+
+QUESTIONS, COMPLAINTS AND DISPUTE RESOLUTION
 
 If you have any questions or comments regarding this privacy policy, please contact our Customer Service Center at: 
 
