@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509184828id_/http%3A//www.analystforum.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080944id_/http%3A//www.analystforum.com/privacy.shtml) for the most accurate reproduction.*
 
-# CFA Exam Discussion at AnalystForum for Chartered Financial Analyst candidates
+# CFA exam, CAIA exam, FRM exam discussion for Chartered Financial Analyst candidates
 
 **AnalystForum's Privacy Policy:**   
 AnalystForum's policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so.
