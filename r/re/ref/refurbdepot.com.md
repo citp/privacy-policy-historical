@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refurbdepot.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515234741id_/http%3A//www.refurbdepot.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refurbdepot.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217214528id_/http%3A//www.refurbdepot.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # RefurbDepot.COM - Privacy Policy
 
