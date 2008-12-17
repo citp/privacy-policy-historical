@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gameshockers.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622151450id_/http%3A//www.gameshockers.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshockers.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015418id_/http%3A//www.gameshockers.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
 
 # GameShockers.com - Privacy Policy
 
-CREATIVE ENTERAINMENT SOLUTIONS, LLC. PRIVACY POLICY
+GAME SHOCKERS.COM PRIVACY POLICY
 
 **GAMESHOCKERS.COM**
 
-Creative Entertainment Solutions, LLC. appreciates our relationship with you, respects that your information is yours, and is committed to safeguarding your privacy when you’re using our web site. The following describes our collection of and use of any information that we may collect from you.
+GAME SHOCKERS.COM, appreciates our relationship with you, respects that your information is yours, and is committed to safeguarding your privacy when you’re using our web site. The following describes our collection of and use of any information that we may collect from you.
 
 ** Questions**
 
@@ -29,4 +29,4 @@ We collect electronic mail information only if it is volunteered by you, such as
 
 If in the future this Privacy Policy is amended or updated, you will be subject to this Privacy Policy as amended or updated. We will not notify you of any amendments or updates to this Privacy Policy. It is your responsibility to check this Privacy Policy often for any changes hereto.
 
-copyright 2007/2008  Creative Entertainment Solutions, LLC. All Rights Reserved. 
+copyright 2007/2008  GAMESHOCKERS.COM All Rights Reserved. 
