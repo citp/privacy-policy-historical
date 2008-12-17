@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jumpeyecomponents.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216140034id_/http%3A//www.jumpeyecomponents.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpeyecomponents.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075439id_/http%3A//www.jumpeyecomponents.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Flash Components - Jumpeye - V3 Components for Flash CS3 and Flash 8
+# Web site privacy policy
 
 ### 1. Overview
 
