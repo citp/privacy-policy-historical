@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624135820id_/http%3A//www.aqa.org.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025236id_/http%3A//www.aqa.org.uk/privacy.php) for the most accurate reproduction.*
 
 # AQA Website Privacy Statement
 
@@ -42,7 +42,8 @@ AQA reserve the right to change this privacy and security policy at any time wit
       * employees working on AQA processes
       * controlled agents who perform services on behalf of AQA
       * for a purpose as required by law or court order
-      * in connection with an amalgamation, merger or other business reorganisation involving AQA.
+      * in connection with an amalgamation, merger or other business reorganisation involving AQA
+      * with the City and Guilds of London Institute, solely for the purpose of jointly offering the AQA - City & Guilds 14-19 years Diplomas.
   * **4\. Storing your personal information**
     * **4.1.** To protect your personal information, AQA has an independently certificated Information Security Management System that includes: 
       * strict security procedures in the storage and disclosure of information you have given AQA, to prevent unauthorised access
