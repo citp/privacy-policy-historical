@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christmastreeshops.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203150932id_/http%3A//www.bedbathandbeyond.com/ctsprivacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christmastreeshops.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061138id_/http%3A//www.bedbathandbeyond.com/ctsprivacypolicy.asp) for the most accurate reproduction.*
 
 # CHRISTMAS TREE SHOPS PRIVACY POLICY
 
@@ -41,7 +41,7 @@ With respect to emails that you may receive from us, we capture data related to 
 | We ask that you tell us when you do not wish to receive periodic e-mails from us. We will only send e-mail for customer service purposes and to those visitors who have indicated that they wish to receive other types of e-mail from us. If at any time you wish to stop receiving e-mail from us, you can always remove your name from our mailing list by sending an e-mail to [webmaster@christmastreeshops.com ](mailto:webmaster@christmastreeshops.com) stating that you wish to unsubscribe and indicating in the subject line of the e-mail "NO E-MAIL". |   
 |  |   
 |  |   
-| **How to Opt-out** |   
+| **Security of the Information You Provide** |   
 |  |   
 |  |   
 | Among our top priorities is keeping your Personal Information secure. We use Secure Sockets Layer (SSL) technology to encrypt all of your Personal Information before it is transmitted to us. Encrypted information cannot be read or recorded as it travels over the Internet. You can tell you are sending information securely by the unbroken key icon or closed lock icon that should appear at the bottom of your internet browser's window (depending on what browser you use). These icons will appear when you are placing an order on our Web site. In addition, you will see our site address change slightly, from http: to https: indicating a secure server connection is being used. The computers that store your Personal Information are located in a separate facility, which employs the latest in firewall and security technology.
