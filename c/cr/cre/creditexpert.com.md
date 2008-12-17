@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creditexpert.com privacy policy that was archived on 2008-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080216075046id_/http%3A//www.creditexpert.com/Message.aspx%3FPageTypeID%3DPrivacy%26SiteVersionID%3D2%26SiteID%3D100003%26sc%3D699999%26bcd%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditexpert.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080945id_/http%3A//creditexpert.com/Message.aspx%3FPageTypeID%3DPrivacy%26SiteVersionID%3D2%26SiteID%3D100003%26sc%3D699999%26bcd%3D) for the most accurate reproduction.*
 
-# Credit Expert
+# CreditExpert.com - Experian Credit Manager
 
 Revised: April 18, 2007 
 
