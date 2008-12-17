@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2008-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080320102306id_/http%3A//www.sign-up.to/html/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113111id_/http%3A//www.sign-up.to/html/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Sign-Up.to
 
