@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashlagoon.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528123919id_/http%3A//cashlagoon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashlagoon.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110737id_/http%3A//www.cashlagoon.com/privacy.php) for the most accurate reproduction.*
 
 # CashLagoon.com | Free PayPal, Free Cash, Get Free Cash, Instant Paid Surveys, Get Paid
 
@@ -10,7 +10,7 @@ When you provide personal information at our Stores our Call Centers, our Sites 
 
 Our Sites use a technology called "cookies". A cookie is a tiny element of data that our Sites can send to your browser, which may then be stored on your hard drive so we can keep track of your transaction. All pages on our Sites that use our shopping cart technology require that you accept cookies. These cookies will provide us and our service providers with information that we will use to improve our Sites and the services we offer. Cookies are also required to optimize your shopping experience in that they allow you to add multiple items to your shopping basket before checking out. You may set your Web browser to notify you when you receive a cookie. However, should you decide not to accept cookies from our Sites, you will limit the functionality we can provide when you visit our Sites.
 
-[ Cash Lagoon ](https://web.archive.org/ "Cash Lagoon") is comprised of a family of companies and divisions brought together to provide you with a full suite of products and services. All of the companies and divisions affiliated with Network Lagoon are listed on our home page for your convenience and to allow you to browse all of our sites and offerings.
+[ Cash Lagoon ](https://web.archive.org/ "Cash Lagoon") is comprised of a family of companies and divisions brought together to provide you with a full suite of products and services. 
 
 Our Sites may include links to the websites of our business partners, vendors and advertisers. Except as provided herein, we will not provide any of your personal information to these third parties without your prior consent.
 
@@ -20,10 +20,10 @@ Spam or UCE, Unsolicited Commercial E-mail, is the Internet version of "Junk mai
 
 Cash Lagoon does not spam. If you received a mailing from us, (a) your email address is either listed with us as someone who expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. By signing up, for our site you have agreed to opt-in to receiving our information. We respect your time and attention by controlling the frequency of our mailings.
 
-Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to abuse [AT] networklagoon.com for review. To remove yourself from our in house list, visit [www.nomoreupdates.com](http://www.nomoreupdates.com/) and remove yourself from our list.
+Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to abuse [AT] gptpayments.com for review. To remove yourself from our in house list, visit [www.nomoreupdates.com](http://www.nomoreupdates.com/) and remove yourself from our list.
 
 We store your information in our database upon you signing up for our site. We use the information in regards to our terms of service and privacy policy. We do not use this information expect for during the registration and verification processes. Cash Lagoon uses your personal information to prepare an insurance quote for you. In the future we may share aggregated statistical information about the use of the Cash Lagoon web site with third parties. In this case, individual users' personal information will not be identified. In the future we may share customer information with our affiliated companies to offer customers other products or services that may be of interest to them.
 
 We value your business and want to deserve your trust. If you have comments, questions or suggestions, please let us know by visiting our Customer Service Link on this site.
 
-We want to assure you that [ Cash Lagoon ](https://web.archive.org/ "Cash Lagoon") is dedicated to protecting your privacy. You can contact us or otherwise communicate your privacy concerns by clicking on the contact us link on our site, or calling 727-861-0283
+We want to assure you that [ Cash Lagoon ](https://web.archive.org/ "Cash Lagoon") is dedicated to protecting your privacy. You can contact us or otherwise communicate your privacy concerns by clicking on the contact us link on our site,.
