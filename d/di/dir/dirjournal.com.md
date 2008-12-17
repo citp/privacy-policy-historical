@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirjournal.com privacy policy that was archived on 2008-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080312091013id_/http%3A//www.dirjournal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirjournal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105716id_/http%3A//www.dirjournal.com/privacy.php) for the most accurate reproduction.*
 
 # Directory Journal Web Directory - Privacy Policy
 
