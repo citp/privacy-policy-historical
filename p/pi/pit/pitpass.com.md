@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitpass.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615143016id_/http%3A//www.pitpass.com/src/static/pitpass_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitpass.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112307id_/http%3A//www.pitpass.com/src/static/pitpass_privacy.php) for the most accurate reproduction.*
 
 # pitpass - the latest, hottest F1, GP2, GP2 Asia & A1GP news
 
