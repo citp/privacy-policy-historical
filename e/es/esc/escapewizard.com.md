@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapewizard.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/pripolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapewizard.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094413id_/http%3A//www.escapewizard.com/pripolicy.php) for the most accurate reproduction.*
 
 # Escape Wizard
 
@@ -7,7 +7,7 @@
 * * *  
   
 ---  
-|  | [Flights](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/index.php?flag=fl) | [Travel Packages](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/travel_packages.php?flag=tp) | [Hotels](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/hotels.php?flag=htl) | [Cars](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/cars.php?flag=cr) | [Cruises](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/cruises.php?flag=cru) | [Deals](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/deals.php?flag=dls) | [Subscribers](https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/forms.php?flag=sub) |    
+|  | [Flights](http://www.escapewizard.com/index.php?flag=fl) | [Travel Packages](http://www.escapewizard.com/travel_packages.php?flag=tp) | [Hotels](http://www.escapewizard.com/hotels.php?flag=htl) | [Cars](http://www.escapewizard.com/cars.php?flag=cr) | [Cruises](http://www.escapewizard.com/cruises.php?flag=cru) | [Deals](http://www.escapewizard.com/deals.php?flag=dls) | [Subscribers](http://www.escapewizard.com/forms.php?flag=sub) |    
 ---|---|---|---|---|---|---|---|---  
    
   
