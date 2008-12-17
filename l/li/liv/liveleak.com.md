@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveleak.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611145755id_/http%3A//www.liveleak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveleak.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021021id_/http%3A//www.liveleak.com/privacy) for the most accurate reproduction.*
 
 # LiveLeak.com - Redefining the Media
 
@@ -40,7 +40,7 @@ Please remember that any personal information voluntarily disclosed by you that 
 
 You acknowledge, consent, and agree that Liveleak may access, preserve, use, and disclose your Membership Information, including content uploaded to or downloaded from Liveleak's websites and services, if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: 
 
-•  Enforce the Liveleak Terms of Service;   
+�  Enforce the Liveleak Terms of Service;   
 (b) Respond to claims that any uploaded materials violate the rights of third-parties;   
 (c) Respond to your customer service requests;   
 (d) Comply with legal process; and/or   
