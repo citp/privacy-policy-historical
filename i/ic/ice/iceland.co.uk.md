@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623203643id_/http%3A//www.iceland.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060827id_/http%3A//www.iceland.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - Iceland
 
 Iceland Foods Ltd is committed to ensuring the privacy of your information. We understand that the privacy of your information is very important to you.
 
