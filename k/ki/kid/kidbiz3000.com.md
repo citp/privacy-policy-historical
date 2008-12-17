@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidbiz3000.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412193158id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidbiz3000.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040325id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
 
 # Achieve3000
 
@@ -8,7 +8,7 @@ All Achieve3000 subscribers are provided with a private user name and password, 
 
 **Individually Identifiable Personal Information**
 
-  * Achieve3000 seeks to comply fully with the Children's Online Privacy Protection Act (CPPA), which regulates how the operators of websites directed to children may collect, use and disclose individually identifiable personal information concerning children under the age of 13. 
+  * Achieve3000 seeks to comply fully with the Children's Online Privacy Protection Act (COPPA), which regulates how the operators of websites directed to children may collect, use and disclose individually identifiable personal information concerning children under the age of 13. 
   * In order to enable Achieve3000 to provide student users of our websites individualized content, and teachers and school administrators reports on individual students' academic progress during their use of these services, schools provide Achieve3000 certain individually identifiable information about student users of these services - including students' names and academic levels. This information is used by Achieve3000 and its agents solely for these internal purposes. 
   * Achieve3000 does not collect any more personal information than reasonably necessary to provide individualized content, to enable participation in student contests and to generate reports on individual student academic progress. 
   * Achieve3000 does not request individually identifiable information from children other than in response to their requests for a subscription or to participate in a student contest, and does not condition participation in student contests on students disclosing more information than is reasonably necessary for their participation. 
