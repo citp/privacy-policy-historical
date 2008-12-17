@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the subrion.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513223746id_/http%3A//www.subrion.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subrion.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217154522id_/http%3A//www.subrion.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Subrion Site Management Software
+# Privacy Policy :: Subrion Content Management Script
 
 ## This is the web site of Intelliants LLC
 
