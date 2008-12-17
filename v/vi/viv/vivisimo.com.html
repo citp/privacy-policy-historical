@@ -1,178 +1,26 @@
-<!--The following is the downloaded HTML source of the vivisimo.com privacy policy that was archived on 2008-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516051719id_/http%3A//vivisimo.com/html/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vivisimo.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217100404id_/http%3A//vivisimo.com/contact/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/template-contact.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="author" content="Vivísimo, Inc.">
+<meta name="author" content="Vivisimo, Inc.">
 <meta name="keywords" content="enterprise search, enterprise search solution, government search, consumer search, search solution, search engine, Velocity, Clusty, security, clustering">
-<meta name="description" content="Vivísimo is a leading provider of search solutions, offering the award-winning Velocity Search Platform for enterprises and governmental organizations and Clusty.com for consumers seeking a better search engine.">
-<meta name="robots" content="all">
+<meta name="description" content="Vivisimo is a leading provider of search solutions, offering the award-winning Velocity Search Platform for enterprises and governmental organizations and Clusty.com for consumers seeking a better search engine.">
 <link rel="Shortcut Icon" type="image/x-icon" href="http://vivisimo.com/favicon.ico">
 
-<!-- InstanceBeginEditable name="doctitle" -->
-<title>Privacy Policy - Vivísimo, Inc.</title>
+<!-- InstanceBeginEditable name="robots" -->
+<meta name="robots" content="all">
 <!-- InstanceEndEditable -->
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Privacy Policy - Vivisimo, Inc.</title>
+<!-- InstanceEndEditable -->
+
 <!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
+
 <link href="../styles.css" rel="stylesheet" type="text/css">
-
-<script src="http://gw-services.vtrenz.net/WebCookies/iMAWebCookie.js?D17C5C17-467C-4AA6-A5FD-3FA7D2ABB1B1" type="text/javascript"></script>
-<script src="http://gw-services.vtrenz.net/WebCookies/iMAWebSyncIDAppender.js" type="text/javascript"></script>
-
-
-<script type="text/javascript"><!--
-function isValidEmail(str) {
-   return (str.indexOf("@") > 0);
-}
-function validate (correctForm) {
-    var form = document.contactForm;
-    correctForm = typeof(correctForm) === "undefined" ? true : correctForm;
- 
-    /* Returns false if a field is empty. */
-    var answered = function (name, message) {
-        var el = form && form[name];
-        var has_content = !el || el.value.length > 0;
-        if (!has_content) {
-            if (correctForm) {
-                alert(message);
-                el.focus();
-            }
-        }
-        return has_content;
-    }
- 
-    if (!answered('first_name', "Please tell us your first name.") ||
-        !answered('last_name', "Please tell us your last name.") ||
-        !answered('email', "Please tell us your email address.") ||
-        !answered('phone', "Please tell us your phone number.") ||
-        !answered('company', "Please tell us what organization you are from.") ||
-        !answered('title', "Please tell us your title.") ||
-        !answered('city', "Please tell us what city you are from.") ||
-        !answered('state', "Please tell us what state or province you are from.") ||
-        !answered('country', "Please tell us what country you are from.") ||
-        false /* This is here to make adding new lines easier. */
-        ) {
-        return false;
-    }
- 
-    if (form.email && !isValidEmail(form.email.value)) {
-        if (correctForm) {
-            alert("Please provide a valid email address.");
-            form.email.value = '';
-            form.email.focus();
-        } // if (correctForm)
-        return false;
-    }
- 
-    if (hasNoCheckedRadio('seminar_radiobuttons', 'lead_source')) {
-        if (correctForm) {
-            alert("Please select which seminar you want to register for.");
-        } // if (correctForm)
-        return false;
-    }
-    if (form.description && form.description.value.indexOf("<a ") > 0) {
-        if (correctForm) {
-            alert("Please do not use HTML links in your message.  If you need to provide us with a URL, simply typing it will suffice.");
-            form.description.focus();
-        } // if (correctForm)
-        return false;
-    }
- 
-    return true;
-}
-function hasNoCheckedRadio(parent, name) {
-    if (typeof(parent) === 'string') {
-        parent = document.getElementById(parent);
-    }
-    if (!parent) {
-        return false;
-    }
-    var list = parent.getElementsByTagName('input');
-    var len = list.length;
-    var i, input, is_checked = false;
-    for (i = 0; i < len; i++) {
-        input = list[i];
-        if (input.type === 'radio' && input.checked) {
-            is_checked = true;
-            break;
-        }
-    }
-    return !is_checked;
-}
-function validateDownload(correctForm) {
-  if (typeof correctForm == "undefined") {
-    correctForm = true;
-  } // if (typeof correctForm == "undefined")
-  if (validate(correctForm)) {
-    document.contactForm.email.value = document.contactForm.email.value.toLowerCase();
-    if (document.contactForm.email.value.indexOf('@mail.ru') > 0 ||
-        document.contactForm.email.value.indexOf('@mail.com') > 0 ||
-        document.contactForm.email.value.indexOf('@hotmail.com') > 0 ||
-        document.contactForm.email.value.indexOf('@hotbox.com') > 0 ||
-        document.contactForm.email.value.indexOf('@hotbox.ru') > 0 ||
-        document.contactForm.email.value.indexOf('@gmail.com') > 0 ||
-        document.contactForm.email.value.indexOf('@rediffmail.com') > 0 ||
-        document.contactForm.email.value.indexOf('@aol.com') > 0 ||
-        document.contactForm.email.value.indexOf('@verizon.net') > 0 ||
-        document.contactForm.email.value.indexOf('@lycos.com') > 0 ||
-        document.contactForm.email.value.indexOf('@comcast.net') > 0 ||
-        document.contactForm.email.value.indexOf('@adelphia.net') > 0 ||
-        document.contactForm.email.value.indexOf('@cox.net') > 0 ||
-        document.contactForm.email.value.indexOf('@royalmail.com') > 0 ||
-        document.contactForm.email.value.indexOf('@charter.net') > 0 ||
-        document.contactForm.email.value.indexOf('@e-mailanywhere.com') > 0 ||
-        document.contactForm.email.value.indexOf('@yahoo.com') > 0) {
-      if (correctForm) {
-        alert("Please use a valid email address from a company domain.");
-        document.contactForm.email.focus();
-      } // if (correctForm)
-      return false;
-    } else {
-      if (validateDownloadPhone(correctForm)) {
-        var contacts;
-        if (correctForm) {
-          contacts = "No contact preferences provided.";
-          if (document.contactForm.contactEmail.checked) {
-            contacts = document.contactForm.contactEmail.value;
-          } // if (document.contactForm.contactEmail.checked)
-          if (document.contactForm.contactPhone.checked) {
-            contacts = document.contactForm.contactPhone.value;
-          } // if (document.contactForm.contactPhone.checked)
-          if (document.contactForm.contactEmail.checked && document.contactForm.contactPhone.checked) {
-            contacts = document.contactForm.contactEmail.value + "\n" + document.contactForm.contactPhone.value;
-          } // if (document.contactForm.contactEmail.checked && document.contactForm.contactPhone.checked))
-          document.contactForm.description.value = contacts + "\n\n" + document.contactForm.description.value;
-        } // if (correctForm)
-        return true;
-      } else {
-        return false;
-      } // if (validateDownloadPhone(correctForm))
-    }
-  } else {
-    return false;
-  } // if
-} // function validateDownload()
- 
-function validateDownloadPhone(correctForm) {
-  if (typeof correctForm == "undefined") {
-    correctForm = true;
-  } // if (typeof correctForm == "undefined")
-  if (document.contactForm.contactPhone.checked) {
-    if (document.contactForm.phone.value.length = 0) {
-      if (correctForm) {
-        alert("We cannot contact you be telephone as you requested if you do not provide us with a telephone number at which to reach you.");
-        document.contactForm.phone.focus();
-      } // if (correctForm)
-      return false;
-    } else {
-      return true;
-    } // if (document.contactForm.phone.value.length &amp;lt;= 0)
-  } else {
-    return true;
-  } // if (document.contactForm.contactPhone.checked)
-}
-
---></script>
+<link href="../sidebar.css" rel="stylesheet" type="text/css">
 
 </head>
 
@@ -189,7 +37,7 @@ function validateDownloadPhone(correctForm) {
 <div id="header">
   <table width="945" border="0" align="left" cellpadding="0" cellspacing="0">
     <tbody><tr>
-      <td width="320" height="128"><a href="../index"><img src="../images/design/layout/logo.gif" width="320" height="128" border="0"></a></td>
+      <td width="320" height="128"><a href="/"><img src="../images/design/layout/logo.gif" width="320" height="128" border="0"></a></td>
       <td width="625" align="right" valign="middle" bgcolor="#FFFFFF">
 
 <div id="header-content">
@@ -264,11 +112,29 @@ Search Our Site:<input name="v:project" value="vivi" type="hidden"><br>
     <td align="center" valign="top">Copyright © Vivisimo, Inc. 2000-2008. All rights reserved. <a href="privacy">Privacy policy</a></td>
   </tr>
 </tbody></table>
-<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/leadlander.lbi" -->
+<!-- #EndLibraryItem --><!--- End Footer --->
 
+
+<!--- Begin Tracking Code ---><!-- #BeginLibraryItem "/Library/vtrenz.lbi" --><script src="http://gw-services.vtrenz.net/WebCookies/iMAWebCookie.js?D17C5C17-467C-4AA6-A5FD-3FA7D2ABB1B1" type="text/javascript"></script>
+<script src="http://gw-services.vtrenz.net/WebCookies/iMAWebSyncIDAppender.js" type="text/javascript"></script><!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/leadlander.lbi" -->
 <script type="text/javascript" language="javascript">llactid=12573</script> 
 <script type="text/javascript" language="javascript" src="http://t1.trackalyzer.com/trackalyze.js"></script> 
-<!-- #EndLibraryItem --><!--- End Footer --->
+<!-- #EndLibraryItem -->
+
+
+<!-- #BeginLibraryItem "/Library/google-analytics.lbi" -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1427110-1");
+pageTracker._trackPageview();
+</script>
+<!-- #EndLibraryItem -->
+
+<!--- End Tracking Code --->
+
 
 
 <!-- InstanceEnd -->
