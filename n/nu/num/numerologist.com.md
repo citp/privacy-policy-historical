@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2008-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080407203322id_/http%3A//www.numerologist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080520id_/http%3A//www.numerologist.com/privacy.html) for the most accurate reproduction.*
 
 # Numerologist.com -- Privacy Policy
 
@@ -77,8 +77,8 @@ Blair Gorman
 Numerologist.com
 
 **  
-****Numerologist.com**  
-44 Golf Links Road, Christchurch, New Zealand  
+Numerologist.com**  
+46 Francis Avenue, Christchurch, New Zealand  
 [blair@numerologist.com](mailto:blair@123-astrology.com)  
   
 
