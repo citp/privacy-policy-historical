@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharkbreak.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522003413id_/http%3A//www.sharkbreak.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharkbreak.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060104id_/http%3A//www.sharkbreak.com/privacypolicy.php) for the most accurate reproduction.*
 
-# SharkBreak™ - Relax. Take a Shark Break!™ - Online Aquarium - Virtual Scuba Diving
+# SharkBreak™ Relax. Take a Shark Break!™ Online Aquarium
 
 This site is owned and operated by Prospect Design & Marketing, Inc. Your privacy on the Internet is of the utmost importance to us. At SharkBreak.com, we want to make your experience online satisfying and safe. 
 
