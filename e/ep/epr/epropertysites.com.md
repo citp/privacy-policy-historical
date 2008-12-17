@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epropertysites.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414161105id_/http%3A//www.epropertysites.com/e_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epropertysites.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070556id_/http%3A//www.epropertysites.com/e_privacy.htm) for the most accurate reproduction.*
 
 # Single Property Websites - Privacy Statement
 
