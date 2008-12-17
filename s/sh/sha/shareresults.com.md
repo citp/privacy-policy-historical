@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the shareresults.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517150625id_/http%3A//www.shareresults.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareresults.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123452id_/http%3A//www.shareresults.com/privacy.php) for the most accurate reproduction.*
 
 # Share Results Affiliate Network - Privacy Policy
 
-Share Results believes that protecting your privacy is important, and we strive to keep sensitive and personal information confidential. We urge you to read our policy in order to better understand how the information you provide to us and that we may otherwise collect may be used. If you have any questions, please do not hesitate to contact us at [info@shareresults.com](mailto:info@shareresults.com).
+The Affiliate Program was created to manage relationships between Affiliates and Merchants, while maintaining the privacy of its users. We understand the need to safeguard sensitive information that you have entrusted to us by using our services. Consequently, we maintain standards and procedures - outlined in this document, the Affiliate Program Privacy Policy - designed to prevent misuse of this information. This document explains the Affiliate Program ("the Affiliate Program" "we" "our") policies for the collection, use and disclosure of personal information.
+
+The following policies are only in effect for the Web pages, newsletters and opt-in announcement lists owned and operated by the Affiliate Program. This policy forms part of, and should be read in conjunction with, our Terms and Conditions. You may contact us regarding this Privacy Policy by e-mail, info@shareresults.com or by mail at our headquarters address:
+
+Share Results  
+2020 University, Suite 1320  
+Montreal QC H3A 2A5  
+Canada 
 
 **What and How We Collect Information**
 
