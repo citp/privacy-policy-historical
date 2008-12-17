@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513152736id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041303id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
 
 # genome.gov | Web Site Privacy Policy
 
   
-  
 
 
-### Privacy Policy
+### Web Site Privacy Policy
 
 Thank you for visiting the National Human Genome Research Institute (NHGRI) Web site. This site does not collect personal information about users, other than information automatically collected and stored when someone visits our Web site, or you choose to provide that information to us (see below).
 
