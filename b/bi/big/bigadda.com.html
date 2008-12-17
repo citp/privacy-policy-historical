@@ -1,35 +1,233 @@
-<!--The following is the downloaded HTML source of the bigadda.com privacy policy that was archived on 2008-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080515050125id_/http%3A//www.bigadda.com/theme/default/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigadda.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217035214id_/http%3A//www.bigadda.com/frontpage/_privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>Youth networking - Bigadda.com</title>
-<meta name="Keywords" content="Indian dating, dating, social networking, Indian social networking, social network, photo, photo sharing, groups, Indian groups, blogs, free blogging, friendship, relationships, people, people finder, india dating, india dates, Indian friends, Indian friend,video blogs, online videos, video blogs, indian blogs, india blogs">
-<meta name="Description" content="Create your Own Adda, Connect with Old Friends &amp; Make New Ones! Share Videos and Photos only on BigAdda">
-<link rel="stylesheet" href="style.css" type="text/css">
-</head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <script type="text/javascript">
+    var system_base_url ='http://www.bigadda.com/';
+    var system_img_url ='http://www.bigadda.com/';
+    var system_static_url ='http://www.bigadda.com/';
+    var abc=1;
+    </script>   
 
-<body><center>
+<!-- <title>BigAdda</title> -->
+<title>Indian Social Networking Site - Bigadda.com</title>
+<meta name="Keywords" content="Indian Social Networking, Indian Social Networking Site, Indian Youth Network, Indian Youth Network Site, Friendship, Friends, Photo, Photos, Video, Videos, Music, Blogs, Forums, Addas, Communities, Community, Amitabh Bachchan, AB Blog, BigBlog, BigB">
+<meta name="Description" content="Bigadda.com - Indian Youth Networking Site which connects you with your friends and helps you share your videos, photos and build communities. Express yourself through Blogs and Forums.">
+<link rel="shortcut icon" href="http://www.bigadda.com/storage/image/default/favicon.ico">
 
-<div id="main"><!-- main wrapper div start -->
+
+	<!--
+		<link rel="stylesheet" href="http://www.bigadda.com/stylesheets/width900.css" media="screen" type="text/css" />
+		-->
+	<link rel="stylesheet" href="http://dist.assets.bigadda.com/socnet/javascripts/yahoo/reset-fonts-grids/reset-fonts-grids.css" type="text/css">
+	<link rel="stylesheet" href="http://dist.assets.bigadda.com/socnet/stylesheets/bigadda.css" type="text/css">
+	<link rel="stylesheet" href="http://dist.assets.bigadda.com/socnet/stylesheets/copper.css" type="text/css">
+	<link rel="stylesheet" href="http://dist.assets.bigadda.com/socnet/javascripts/yahoo/container/assets/skins/sam/container.css" type="text/css">
+	<script src="http://dist.assets.bigadda.com/socnet/javascripts/topnev.js" type="text/javascript"></script>
+	
+<link rel="stylesheet" type="text/css" href="http://dist.assets.bigadda.com/socnet/stylesheets/privacy_terms.css">
+
+			
+	</head>
+<body id="body">
 <center>
-<!-- header table start -->
-<div style="text-align: left; padding-bottom: 5px;">
-	<img src="images/frame/logo.jpg" border="0" alt="BigAdda.com"><br>
+ <div id="main">
+
+      <!-- header -->
+     
+<script>
+var EMPTY_SEARCH_STRING = 'Please enter keywords to be searched.';
+var SEARCH_STRING_SHORT = 'Please enter minimum 3 characters.';
+
+function checktopsearch(search_sub_act, come_from)
+{
+	if( come_from === undefined )
+	 {
+      	   come_from = '';
+         }
+
+	 
+	var frm = document.getElementById("search_top_form");
+	var str = trim(frm.searched_keyword.value);
+	var action_for_search;	
+
+	if(come_from == 'main_link')
+	{
+          var frm = document.getElementById("search_top_form");
+	  frm.searched_keyword.value = 'Mumbai terror';
+	  var action_for_search = '';	
+
+    	  frm.action = system_base_url+'search/'+action_for_search;  
+   	  frm.submit();
+	  return true;
+	
+	}
+	else
+	{
+
+	if(str == '' || str == 'Search' )
+	{
+		alert(EMPTY_SEARCH_STRING);
+		return false;
+	}
+	else if(str.length < 3)
+	{
+	 	alert(SEARCH_STRING_SHORT);  
+		return false;
+	}
+	else
+	{
+		var search_value = document.getElementById("searched_keyword").value;
+		frm.method = 'post'; 
+		
+		if (search_sub_act == 'photos')
+		{
+			action_for_search = 'photos';
+		}
+		else if (search_sub_act == 'video')
+		{
+			action_for_search = 'videos';
+		}
+		else if (search_sub_act == 'adda')
+		{
+			action_for_search = 'addas';
+		}
+		else if (search_sub_act == 'forum')
+		{
+			action_for_search = 'forums';
+		}
+		else if (search_sub_act == 'home')
+		{
+			action_for_search = 'members';
+		}
+		else if (search_sub_act == 'profile')
+		{
+			action_for_search = 'members';
+		}	
+		else if (search_sub_act == 'friends')
+		{
+			action_for_search = 'members';
+		}	
+		else if (search_sub_act == 'scribbles')
+		{
+			action_for_search = 'members';
+		}	
+		else if (search_sub_act == 'search')
+		{
+			action_for_search = 'search_all';
+		}	
+		else
+		{
+			action_for_search = 'search_all';
+		}
+   		frm.action = system_base_url+'search/'+action_for_search;  
+   		frm.submit();
+		return true;
+
+	}
+
+		
+}
+	
+function trim(str, chars)
+{
+  return ltrim(rtrim(str, chars), chars);
+} 
+
+function ltrim(str, chars)
+{
+  chars = chars || "\\s";
+  return str.replace(new RegExp("^[" + chars + "]+", "g"), "");
+}
+ 
+function rtrim(str, chars)
+{
+  chars = chars || "\\s";
+  return str.replace(new RegExp("[" + chars + "]+ s", "g"), "");
+}
+
+}
+</script>
+
+<!-- HEADER -->
+<div id="hd">
+  <div id="custom-dochd">
+
+<div class="left logo">
+      <a href="/"><img src="http://www.bigadda.com/storage/image/default/logo.gif" border="0" alt="bigadda.com" title="bigadda.com"></a><br>
+    </div>
+    <div class="left mainnav whitefff font13">
+       <!--<a href="http://www.bigadda.com/profile"><cite><b>MY</b><em>&nbsp;</em><br class="clear"></cite></a>
+       <span><br></span>
+       <a href="http://www.bigadda.com/friends"><cite><b>FRIENDS</b><em>&nbsp;</em><br class="clear"></cite></a>
+       <span><br></span>
+       <a href="#"><cite><b>NETWORK</b><em>&nbsp;</em><br class="clear"></cite></a>
+       <span><br></span> -->
+
+       
+
+    
+    </div>
+    <div class="right font11 grayccc">
+      <div class="login">
+	 	<div class="signin"><a href="http://www.bigadda.com/login" class="gray666">Log In</a><br></div>
+	      </div>
+            <form method="POST" id="search_top_form" action="">
+      <input type="hidden" name="search_sub_act" id="search_sub_act" value="frontpage">
+	<input type="text" name="searched_keyword" id="searched_keyword" class="search left" value="Search" onfocus="if(this.value=='Search') this.value='';" onblur="if(this.value=='') this.value='Search';" onkeypress=" if(event.keyCode ==13){ checktopsearch(document.getElementById('search_sub_act').value); return false; }">
+	 <input type="image" onclick="checktopsearch('frontpage'); return false;" src="http://www.bigadda.com//storage/image/default/go-search.gif" width="30" height="16" border="0" class="left"> 
+	<br class="clear">
+	<div class="clear spacer0"><br></div>
+      </form>
+          </div>
+    <br class="clear">
+  </div>
 </div>
-<div style="background: #6BBDF6 url('images/frame/bg-hd.gif') repeat-x top center; border: 1px solid #1368a4; border-bottom-width: 2px;"><img src="images/frame/bg-hd.gif" width="1" height="8" border="0"></div>
-<div style="background: #C7DEF8 url('images/frame/bg-hd1.gif') repeat-x top center; border: 1px solid #B1D0F5; border-top-color: #C7DEF8;"><img src="images/frame/bg-hd1.gif" width="1" height="3" border="0"></div>
-<!-- header table end -->
-</center>
+      <!--header-->
+  
 
-<!-- middle div start -->
-<div id="middle">
+     <!--topbanner-->
+      
+<div class="custom-docbd">
+   <div id="subnav" class="registration">
+	
+		  		  		  		  		  
+		  <div id="nav">
 
-	<div class="box padreg large grayarrow" style="text-align:justify;">
-		<h2>BIGADDA. COM - PRIVACY POLICY</h2><br>
 
-		Last Revised on: July 27, 2007<br><br><br>
+		 <a href="http://www.bigadda.com/photos"><b>PHOTOS</b></a><span id="popup_share">&nbsp;</span><a href="http://www.bigadda.com/video/_show_video"><b>VIDEOS</b></a><span>&nbsp;</span><a href="http://music.bigadda.com/"><em id="popup_context"></em><b>MUSIC</b></a><span>&nbsp;</span><a href=" http://www.bigadda.com/adda/_public_active  "><b>ADDAS</b></a><span>&nbsp;</span><a href="http://www.bigadda.com/forum"><b>FORUMS</b></a><span>&nbsp;</span><a href="#" onclick="checktopsearch('frontpage', 'main_link'); return false;"><b>SEARCH</b></a><span>&nbsp;</span><a href="http://www.bigadda.com/mobile"><b>MOBILE</b></a><span>&nbsp;</span><a href="http://blogs.bigadda.com/"><b>BLOGS</b></a><!--  --><span>&nbsp;</span><a href="http://www.bigadda.com/application" style="background:none;"><img src="/storage/image/default/wall.gif" width="322" height="36" border="0" alt="Wall" title="Wall" style="margin:-11px 0px 0px;*position:relative"></a><br>
 
-		<b>About BigAdda.com</b><br><br>
+
+
+		  </div>
+		 
+                      
+      	       <!--<div id="moreapp">
+	 <a href=""><img src="http://www.bigadda.com//storage/image/default/icon-25.gif" width="25" height="25" border="0" alt="Upload"></a> &nbsp; <a href=""><img src="http://www.bigadda.com//storage/image/default/icon-25.gif" width="25" height="25" border="0" alt="Mobile"></a> &nbsp; <a href=""><img src="http://www.bigadda.com//storage/image/default/icon-25.gif" width="25" height="25" border="0" alt="IM"></a> &nbsp; &nbsp; <a href="#"><b>More Applications</b></a><br>
+      </div>-->
+      <div class="clear spacer0"><br></div>
+   </div>
+</div>
+
+     <!--topbanner--> 
+
+     <div id="middle">
+      <!-- Include body based on the value set for $site_column_layout -->
+       	 <div id="bd">
+		<div id="yui-main">
+		  <div class="yui-b">
+			 <div class="yui-g">
+				 <!-- content -->
+				 <div class="custom-docbd">
+	<div class="pad20">
+		<h2><b>BigAdda.com - Privacy Policy</b></h2>
+		<hr class="gray1pxcc">
+
+		<div style="text-align:justify;">
+			Last Revised on: July 27, 2007<br><br><br>
+
+			<b class="black font14">About BigAdda.com</b><br><br>
 
 			BigAdda.com is an online youth networking site, owned and managed by <b>BigAdda.com</b>. Registered members are allowed to set up unique personal profiles that can be linked together through networks of friends. BigAdda members can view each others' profiles with the objective of making new friends, communicating with old friends, sharing photos and posting journals and comments etc. <b>In order to ensure that the objectives of the site can be fulfilled to the satisfaction of BigAdda members</b>, we request and display some personal information / profile information relating to one or more members to other members and visitors, which allows our users to identify each other and expand their network of friends. BigAdda members can change their personal information and/or profile information at any time. Kindly note that although most of the online services are offered for free, users would require a "Mandatory Registration" to navigate and use BigAdda services. To know more about the said "Mandatory Registration", please follow the link below:<br>
 
@@ -41,23 +239,195 @@
 
 			This privacy policy details important information regarding the use and disclosure of user and/ or member information collected on the Site. BigAdda provides this privacy policy to help you make an informed decision about whether to use or discontinue using the Site.<br><br>
 
-			This privacy policy is incorporated into and is subject to the BigAdda <a href="terms.htm">Terms of Use</a>. Your use of the BigAdda Site and any personal information you provide on the Site remains subject to the terms of this privacy policy and our <a href="terms.htm">Terms of Use</a>.<br><br>
+			This privacy policy is incorporated into and is subject to the BigAdda <a href="http://www.bigadda.com/frontpage/_terms_of_use">Terms of Use</a>. Your use of the BigAdda Site and any personal information you provide on the Site remains subject to the terms of this privacy policy and our <a href="http://www.bigadda.com/frontpage/_terms_of_use">Terms of Use</a>.<br><br>
 
 			Please note that any video, image, comment or other content posted on the Site becomes published content and is not considered personally identifiable information which is subject to this privacy notice.<br><br>
 
-			Please read this privacy policy carefully. By visiting and using the Site, you agree that your use of the Site, and any dispute over privacy, is governed by this privacy policy and our <b>Terms of Use</b> at the following link: <a href="terms.htm">Terms of Use</a>.<br><br>
+			Please read this privacy policy carefully. By visiting and using the Site, you agree that your use of the Site, and any dispute over privacy, is governed by this privacy policy and our <b>Terms of Use</b> at the following link: <a href="http://www.bigadda.com/frontpage/_terms_of_use">Terms of Use</a>.<br><br><br><br>
 
-		<b>WHAT INFORMATION IS COLLECTED ABOUT OUR USERS AND MEMBERS?</b><br><br>
+			<b class="black font14">What information is collected about our users and members?</b><br><br>
 
 			The information that we collect about you while you are using the Site falls into the following general categories:<br><br>
 
-			<ol style="margin-left: 20px;">
-			<li>
-			<b>User provided information</b>: We may collect and store information, personal or otherwise, that you voluntarily supply either while on the Site or in responding via email in connection with a feature provided on the Site. Some examples of this type of information include demographic information that you electronically submit when you sign up for access to certain features on the Site, information (such as your name or email address) that you electronically submit when you register for surveys or contests on the Site, information that you post on message boards on the Site, and information contained in search requests or questions that you submit to the Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.<br><br>
-			</li>
-			<li>
-			<b>Cookies information</b>: When you visit the BigAdda Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. BigAdda uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the BigAdda Site may not function properly.<br><br>
+			<b class="black">1. User provided information</b>: We may collect and store information, personal or otherwise, that you voluntarily supply either while on the Site or in responding via email in connection with a feature provided on the Site. Some examples of this type of information include demographic information that you electronically submit when you sign up for access to certain features on the Site, information (such as your name or email address) that you electronically submit when you register for surveys or contests on the Site, information that you post on message boards on the Site, and information contained in search requests or questions that you submit to the Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.<br><br>
+
+			<b class="black">2. Cookies information</b>: When you visit the BigAdda Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. BigAdda uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the BigAdda Site may not function properly.<br><br>
 			In addition, third party advertisers or third party ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons, clear .gifs or similar technologies. These third party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other uses. The use and collection of your information by these third party advertisers and ad servers is governed by the relevant third party's privacy policy and is not covered by our privacy policy. Indeed, the privacy policy of these third party advertisers and ad servers may be different from our privacy policy.<br><br>
-			</li>
-			<li>
-			<b>Log file information</b>: When you use the BigAdda Site, our servers automatically record c</li></ol></div></div></div></center></body></html>
+
+			<b class="black">3. Log file information</b>: When you use the BigAdda Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.<br><br>
+
+			<b class="black">4. Clear / transparent GIFs information</b>: When you use the BigAdda Site, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our users / members anonymously. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.<br><br><br><br>
+
+			<b class="black font14">How is this information used?</b><br><br>
+
+			<ol style="margin-left: 20px;">
+				<li>
+					If you submit personally identifiable information to us through the BigAdda Site, then we use your personal information to operate, maintain, and provide to you the features and functionality of the BigAdda Site.<br><br>
+				</li>
+				<li>
+					Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected, seen and used by others besides us. We cannot be and are not responsible for any unauthorized third party use of such information. Your account name (not your email address) is displayed to other users / members when you upload videos or send messages through the BigAdda Site and other users / members can contact you through messages and comments. Any videos that you submit to the BigAdda Site may be redistributed through the internet and other media channels, and may be viewed by the general public.<br><br>
+				</li>
+				<li>
+					We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may provide our advertisers with information about you and other visitors that will enable our advertisers to better target ads to specific types of visitors. We reserve the right to use and to disclose to third parties all of the information that we collect online about you and other visitors in any way and for any purpose, with one important exception viz. We will not use the information that we collect online from you while you are using the Site, nor will we authorize third parties to use such information, to mail or email promotional offers directly to you unless you have specifically informed us that you would like to receive promotional offers from us and/or from third parties. If you choose to receive these promotional offers, then your information may be used for direct mail or email marketing. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major BigAdda Site changes or for customer service purposes).<br><br>
+				</li>
+				<li>
+					We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the BigAdda Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user / member preferences and trends.<br><br>
+				</li>
+				<li>
+					We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the BigAdda Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, and contests.<br><br>
+				</li>
+				<li>
+					The Site includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.<br><br>
+				</li>
+				<li>
+					We may also make some content, products and services available through our Site through cooperative relationships with third party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly; in which cases the privacy policy of the provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. Be aware that we may occasionally release information about visitors / members when release is appropriate to comply with law, to enforce our Terms of Service agreement, or to protect the rights, property or safety of users of the Site, the public, or the BigAdda Site.<br><br>
+				</li>
+				<li>
+					Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our visitors may be among the transferred assets.<br><br>
+				</li>
+			</ol><br><br>
+
+			<b class="black font14">When BigAdda discloses information</b><br><br>
+
+			<ul style="margin-left: 20px;">
+				<li>
+					We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliate companies, or other businesses or people for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.<br><br>
+				</li>
+
+				<li>
+					We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the BigAdda Site.<br><br>
+				</li>
+				<li>
+					We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with any law or to respond to a court order or an order from any governing body or statutory authority.<br><br>
+				</li>
+				<li>
+					BigAdda also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that BigAdda believes, in good faith, is appropriate or necessary to enforce our <a href="http://www.bigadda.com/frontpage/_terms_of_use">Terms of Use</a>, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of BigAdda, our users / members or others.<br><br>
+				</li>
+			</ul><br><br>
+
+			<b class="black font14">Invitations and other communications to non-members</b><br><br>
+
+			BigAdda members can invite friends to join the service by sending invitation emails via our automated invitation system. The BigAdda Site stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations. The BigAdda Site does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from BigAdda may contact the BigAdda Site to request the removal of their information from our database.<br><br>
+			BigAdda members may also store email addresses of people they know in their internal BigAdda address book and may also choose to send invitations and other communications to those addresses.<br><br>
+			You may prevent email invitations from us by sending a single email with the subject "BLOCK" to <a href="mailto:unsubscribe@bigadda.com?subject=Unsbuscribe">unsubscribe@bigadda.com</a>. Please note that the email must come from the account you wish to block.<br><br><br><br>
+
+			<b class="black font14">Our commitment to childrens' privacy</b><br><br>
+
+			The Site is NOT directed to or intended for people under the age of Sixteen. A User less than 16 (Sixteen) years of age should not register to use the Site. BigAdda does not knowingly collect any personal information from people under the age of sixteen.   If you are a parent of a child under the age of sixteen and you have questions about our Site or Privacy Policy, please feel free to contact the BigAdda Privacy Coordinator at <a href="mailto:privacy@bigadda.com?subject=Parental%20Consent">privacy@bigadda.com</a>.<br>
+			Those between the age of Sixteen and Eighteen are to provide either of their parents Email ID and an Email will be send informing that their ward has registered himself/herself to use the BigAdda.com services. The parent will be legally bound by any acts/deeds/Violation of BigAdda.com <a href="http://www.bigadda.com/frontpage/_terms_of_use">Terms of Use</a> &amp; Privacy Policy by their wards.<br><br><br><br>
+
+			<b class="black font14">Our commitment to data security</b><br><br>
+
+			We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to BigAdda and you do so at your own risk. Once we receive your transmission of information, BigAdda makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.<br><br>
+			If BigAdda learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. BigAdda may post a notice on the BigAdda Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this link <a href="mailto:privacy@bigadda.com?subject=Security%20Breach%20at%20BigAdda">privacy@bigadda.com</a>.<br><br><br><br>
+
+			<b class="black font14">Special note to international users/ members</b><br><br>
+
+			BigAdda is hosted in India and is intended for and directed to users / members in India. If you are a user / member accessing the BigAdda Site from any other region with laws or regulations governing personal data collection, use, protection and disclosure, that differ from Indian laws, please be advised that through your use of the BigAdda Site, this Privacy Notice, and our <a href="http://www.bigadda.com/frontpage/_terms_of_use">Terms of Use</a>, you are transferring your personal information to India and you consent to that transfer. We will only be complying with the legal provisions on the subject matter as applicable in India from time to time.<br><br><br><br>
+
+			<b class="black font14">How you can make changes to your information</b><br><br>
+
+			<b class="black">Notification of change</b><br>
+				We reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the Site; or change/charge any fees or charges for use of the Services.<br>
+				Any changes we make will be effective immediately on notice, which we may give either by posting the new Agreement on the Site or via electronic mail. Your use of the Services after such notice will be deemed acceptance of such changes. Be sure to review this Agreement periodically to ensure your familiarity with the most current version. You will always be able to tell when the version was last updated by checking the "Last Revised" date in the header of this agreement.<br><br>
+
+			<b class="black">Conflict resolution</b><br>
+			We are committed to resolving disputes as soon as feasible and shall endeavor to resolve all disputes brought to our notice in keeping with the mechanism prescribed, within 15 working days of such receipt.<br><br><br><br>
+
+			<span style="line-height:20px;">
+				<b class="black font14">Contact Information:</b><br>
+				If site users have any questions or suggestions regarding our privacy policy, please contact us at:<br>
+				<span class="black">E-mail</span>: <a href="mailto:customercare@bigadda.com?subject=Query">customercare@bigadda.com</a><br>
+				<span class="black">Telephone</span>: +91 22 3290 0061<br>
+				<span class="black">Postal Address</span>: Ground Floor, Champion Estate, 15 Parsi Panchayat Road, Off WE Highway, Andheri (E), Mumbai - 400 069.<br><br><br><br>
+
+				<b class="black font14">Website Administration</b><br>
+				<span class="black">Business Name</span>: BigAdda.com<br>
+				<span class="black">Address</span>: Ground Floor, Champion Estate, 15 Parsi Panchayat Road, Off WE Highway, Andheri (E), Mumbai - 400 069.<br>
+				<span class="black">City</span>: Mumbai<br>
+				<span class="black">State</span>: Maharashtra<br>
+				<span class="black">Pin Code</span>: 400053<br>
+				<span class="black">Country</span>: India<br>
+				<span class="black">Website URL</span>: http://www.bigadda.com<br><br><br>
+			</span>
+		</div>
+		
+	</div>
+</div>
+			 </div>
+			 <div class="yui-b">
+			    <!-- right panel -->
+			    			 </div>
+		  </div> 
+		</div>
+		<div class="yui-b">
+		  <!-- right panel -->
+		  		</div>
+	 </div>      <!--   <br clear="all">-->
+   </div>
+
+    <div id="footer">
+      <!-- footer -->
+     <!-- FOOTER -->
+<div id="ft">
+
+   <div class="font11">
+
+      <b>Videos</b> - <a href="http://www.bigadda.com/video/_show_public_video/recently_added/1" class="gray999">Bollywood Videos</a> &nbsp;|&nbsp; <a href="http://www.bigadda.com/video/_show_public_video/recently_added/2" class="gray999">Hollywood Videos</a> &nbsp;|&nbsp; <a href="http://www.bigadda.com/video/_show_public_video/recently_added/45" class="gray999">Cartoons Videos</a> &nbsp;|&nbsp; Advertisements&nbsp;|&nbsp; Music Videos &nbsp;|&nbsp;<a href="http://www.bigadda.com/video/_show_public_video/recently_added/16" class="gray999">Regional Videos</a> &nbsp; &nbsp; &nbsp; <b>Adda</b> - <a href="http://www.bigadda.com/adda/_public_active/3" class="gray999">Bollywood Adda</a> &nbsp;|&nbsp; <a href="http://www.bigadda.com/adda/_public_active/6" class="gray999">Music Adda</a> &nbsp;|&nbsp; <a href="http://www.bigadda.com/adda/_public_active/7" class="gray999">Television Adda</a> &nbsp;|&nbsp; <a href="http://www.bigadda.com/adda/_public_active/20" class="gray999">Cricket</a><br>
+
+      <a href="http://www.bigadda.com/adda/_public_active" class="gray999">Adda</a> &nbsp;|&nbsp; <a href="http://www.bigadda.com/adda/_public_active" class="gray999">Public Adda</a> &nbsp; &nbsp; &nbsp; <b>Photos &amp; Blogs</b> - <a href="http://www.bigadda.com/photos" class="gray999">Photo Gallery</a> &nbsp;|&nbsp; <a href="http://www.bigadda.com/photos/_upload_photos" class="gray999">Upload Photo</a> &nbsp;|&nbsp; <a href="http://blogs.bigadda.com" class="gray999">Add Blog</a>&nbsp; &nbsp; &nbsp; <a href="http://www.bigadda.com/search" class="gray999">Search, Browse &amp; View Member Profiles</a> &nbsp;|&nbsp; <a href="http://www.bigadda.com/signup" class="black"><b>Register Today!</b></a> &nbsp; &nbsp; &nbsp; <a href="http://www.zapak.com/" class="gray999">Free Online Games</a><br><br>
+
+		<center>
+
+		<script type="text/javascript"><!--
+		google_ad_client = "pub-5475732381378922";
+		/* 728x90, created 5/2/08 */
+		google_ad_slot = "1159977042";
+		google_ad_width = 728;
+		google_ad_height = 90;
+		//-->
+		</script>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script> 
+
+		</center><br> 
+
+
+      <div class="left"><b>Copyrights © 2007 - 08  BigAdda.com</b> - Indian Blogs &amp; Indian Social Networking Site. All rights reserved.<br></div>
+
+      <div class="right"><a href="http://www.bigadda.com/frontpage/_privacy_policy" target="_blank">Privacy Policy</a> &nbsp;|&nbsp; <a href="http://www.bigadda.com/frontpage/_terms_of_use" target="_blank">Terms of Use</a></div><br class="clear">
+
+   </div>
+
+<div class="ftbtm"><br></div>
+
+</div>
+
+<br>
+
+
+      <!--&copy; BigAdda.com-->
+    </div>
+
+  </div>
+</center>
+<!--<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1657945-1";
+urchinTracker();
+</script>--> 
+
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-1657945-1");
+    pageTracker._initData(); 
+    pageTracker._trackPageview('');
+ </script>
+
+
+</body></html>
