@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyadbucks.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612020100id_/http%3A//www.easyadbucks.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyadbucks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065855id_/http%3A//www.easyadbucks.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Using EasyAdBucks.com
 
