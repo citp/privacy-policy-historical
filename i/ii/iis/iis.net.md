@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the iis.net privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215175222id_/http%3A//www.iis.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iis.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044308id_/http%3A//www.iis.net/privacy.htm) for the most accurate reproduction.*
 
-# IIS.net : PRIVACY : Microsoft Internet Information Services
+# Privacy : The Official Microsoft IIS Site
 
 IIS.net Privacy Statement 
 
-(Last updated: 5/18/2006)
+(Last updated: 2/26/2008)
 
-Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the IIS.net site (the â€œSiteâ€) hosted for Microsoft by Telligent Systems; it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement. 
+Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the IIS.net site (the "Site") hosted for Microsoft by Telligent; it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement. 
 
 Collecting Your Personal Information
 
-We will ask you when we need information that personally identifies you or allows us to contact you. The personal information we collect may include username, password, email address, location, instant messenger address, web site address, etc.
+We will ask you when we need information that personally identifies you or allows us to contact you. The personal information we collect may include name, e-mail address, location, occupation, interests, birth date, web address, blog address, instant messenger address, and password for the site. 
 
 The Site may collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. This information is used for the operation and improvement of the Site. 
 
@@ -32,13 +32,13 @@ Control of Your Personal Information
 
 Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission 
 
-Your profile provides the ability for you to turn off all email correspondence resulting in no email being sent from the site to your account. Your profile also provides you with the ability to determine if your username is included in the member list on the site. All email addresses are kept private unless you intentionally post them on the site (in the forums for example). 
+Your profile provides the ability for you to turn off all e-mail correspondence resulting in no e-mail being sent from the site to your account. Your profile also provides you with the ability to determine if your username is included in the member list on the site. All e-mail addresses are kept private unless you intentionally post them on the site (in the forums for example). 
 
 Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft products or services. 
 
 Access to Your Personal Information 
 
-Customer information is collected by Telligent Systems, a Microsoft vendor. It is stored at Orcsweb, plus sent back to Microsoft. You can review and edit the personal information you provided at this Site by logging in and accessing your profile.
+Customer information is collected by Telligent, a Microsoft vendor. It is stored at Telligent, plus sent back to Microsoft. You can review and edit the personal information you provided at this Site by editing your profile. You can also send e-mail to client_aspnetweb_feedback@telligentsystems.com or to the postal address listed at the bottom of the privacy page. 
 
 Security of Your Personal Information 
 
@@ -62,10 +62,7 @@ Microsoft welcomes your comments regarding this privacy statement. If you believ
 
 client_aspnetweb_feedback@telligentsystems.com or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
-[WWW.IIS.NET](https://web.archive.org/ "http://www.iis.net/") Privacy
-
-Microsoft Corporation
-
-One Microsoft Way
-
-Redmond, Washington 98052-6399 
+Telligent Systems   
+17950 Preston Road   
+Suite 310   
+Dallas, TX 75252 
