@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609163819id_/http%3A//moddb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217032614id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
 
 # Staff group - Mod DB
 
@@ -53,6 +53,6 @@ This policy may be modified at any time at the sole discretion of the Provider. 
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please contact Mod DB at [contact us](https://web.archive.org/contact).
+Should you have other questions or concerns about these privacy policies, please contact Mod DB at [contact us](http://www.moddb.com/contact).
 
 Last Updated: Feb 20, 2007
