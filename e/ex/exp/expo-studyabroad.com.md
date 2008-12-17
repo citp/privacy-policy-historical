@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expo-studyabroad.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410024428id_/http%3A//www.expo-studyabroad.com/Privacidade.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expo-studyabroad.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142322id_/http%3A//www.expo-studyabroad.com/Privacidade.asp) for the most accurate reproduction.*
 
 # Study Abroad Guide
 
