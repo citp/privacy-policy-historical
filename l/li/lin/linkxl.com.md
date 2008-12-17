@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the linkxl.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513142445id_/http%3A//www.linkxl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkxl.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040446id_/http%3A//www.linkxl.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LinkXL Contextual Text Link Ads
+
+[](https://tools.shoemoney.com/)
 
 | 
 
