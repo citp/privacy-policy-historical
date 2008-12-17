@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelrytelevision.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612101153id_/http%3A//www.jewelrytelevision.com/policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelrytelevision.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217074149id_/http%3A//www.jewelrytelevision.com/policies%23privacy) for the most accurate reproduction.*
 
 # 
 
@@ -59,7 +59,7 @@ You can refuse cookies by turning them off in your browser. If you’ve set your
 
 **c) Third party companies.**
 
-Jewelry Television™ does use third party companies to store data and help us provide our products and services to you. These companies do not have direct access to your data and are contractually restricted from using your information in any manner. For more information, including how to opt out, please visit [My Account](https://web.archive.org/web/20080612101153id_/http%3A//account) to edit your preferences. 
+Jewelry Television™ does use third party companies to store data and help us provide our products and services to you. These companies do not have direct access to your data and are contractually restricted from using your information in any manner. For more information, including how to opt out, please visit [My Account](https://web.archive.org/web/20081217074149id_/http%3A//account) to edit your preferences. 
 
   2. **How does Jewelry Television™ use email?**
 
