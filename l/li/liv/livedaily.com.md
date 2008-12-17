@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613125447id_/http%3A//www.livedaily.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002430id_/http%3A//www.livedaily.com/privacy.html) for the most accurate reproduction.*
 
 # America's Concert Source >> LiveDaily
 
@@ -89,10 +89,10 @@ legal@ticketmaster.com**
 
 © IAC/InterActiveCorp. All rights reserved. 
 
-[](http://www.livedaily.com/blog/2139.html)
+[](http://www.livedaily.com/blog/3016.html)
 
-Today's LiveDaily News Break Podcast features news and tour information about Trisha Yearwood, Warrant, Journey and Pearl Jam. We'll also... [continued](http://www.livedaily.com/blog/2139.html)
+Singer/songwriter Matt Costa had two interests growing up in Huntington Beach, CA: the guitar and the skateboard. After first going... [continued](http://www.livedaily.com/blog/3016.html)
 
-[](http://www.livedaily.com/blog/2138.html)
+[](http://www.livedaily.com/blog/3058.html)
 
-Today's Song of the Day is by Serena Ryder. Her featured cut is "Weak In The Knees," which appears on... [continued](http://www.livedaily.com/blog/2138.html)
+Today's Song of the Day is by Sune Rose Wagner. The featured cut is "Beruset Og Forhadt," which appears on... [continued](http://www.livedaily.com/blog/3058.html)
