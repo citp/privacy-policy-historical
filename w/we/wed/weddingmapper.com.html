@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the weddingmapper.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609193132id_/http%3A//www.weddingmapper.com/company/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weddingmapper.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217013716id_/http%3A//www.weddingmapper.com/company/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -22,7 +22,7 @@
 
 /***** FONT SIZES ****/
 .headline {
-  font-size: 26pt;
+  font-size: 22pt;
 }
 
 .blue_title,
@@ -72,7 +72,6 @@ body.wedding {
   padding: 0 12px;
   font-family: arial,helvetica,verdana,sans-serif;
   color: #4A3C29;
-  background: #FDFBEE url('/images/wedding/flower.gif') no-repeat 95% top;
   position: relative;
 }
 
@@ -141,22 +140,38 @@ h2, h3 {
   clear: right;
   float: right;
   font-weight: bold;
+  overflow: hidden;
 }
 
 .header .tabs a {
   display: block;
   float: left;
-  margin: 9px 3px 0 3px;
-  padding: 9px;
-  background: #C4E4DF url('/images/wedding/tab_left_corner.gif') no-repeat right top;
-  /*background: #DFE9F3 url('/images/wedding/tab_left_corner.gif') no-repeat right top;*/
+  margin: 6px 3px 0 3px;
+  padding: 10px 9px 6px 9px;
+  background: #C4E4DF url('/images/wedding/tab_right_corner.gif') no-repeat right top;
   text-decoration: none;
   color: #4A3C29;
+  position: relative;
 }
 
 .header .tabs a.selected_nav {
-  background: #4A3C29 url('/images/wedding/tab_left_corner_selected.gif') no-repeat right top;
+  background: #4A3C29 url('/images/wedding/tab_right_corner_selected.gif') no-repeat right top;
   color: white;
+}
+
+.header .tabs .tab_corner {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.header .tabs a.selected_nav .unselected {
+  display: none;
+}
+
+.login {
+  float: right;
+  margin: 0 6px 3px 0;
 }
 
 .subheader {
@@ -413,7 +428,7 @@ img.butterfly {
 .listing .listing_content {
   padding: 12px 12px 0 12px;
   overflow: hidden;
-  zoom: 1;  
+  zoom: 1;
 }
 
 .listing .photo {
@@ -475,14 +490,9 @@ img.butterfly {
 }
 
 /** Account Pages **/
-
-.account_section {
-  background: url(/images/wedding/shadow/top_left_frame.gif) no-repeat top left;
-}
-
 .account_section .inside {
   /*background: url(/images/wedding/shadow/bottom_right_frame.gif) no-repeat bottom right;*/
-  padding: 40px 60px;
+  padding: 6px 60px;
   text-align: center;
 }
 
@@ -942,6 +952,18 @@ v\:*
 #walk_box .basic .long_description {
   height: 100px;
 }
+
+
+/**** Corners ****/
+.right {
+  right: -1px;
+}
+
+.bottom {
+  bottom: -1px;
+}
+
+
 
 </style>
         <style type='text/css' rel='Stylesheet' media='print'>
@@ -2514,17 +2536,12 @@ return !value||value.length==0?null:value;
 },
 handleTransparentPngs:function(container){
 if(!document.all)return;
+if(navigator.appVersion.indexOf("MSIE 7.0")>-1)return;
 var imgs=U.elt("img",container);
 for(var i=0;i<imgs.length;++i){
 var img=imgs[i];
 if(img.src.indexOf(".png")>-1){
-var height=img.height;
-var width=img.width;
-if(height==0||width==0){
 U.tempTransparentImg(img);
-}else{
-U.makeImgTransparent(img,height,width);
-}
 }
 }
 },
@@ -3151,13 +3168,21 @@ translatedResults.push(translatedResult);
 }
 return translatedResults;
 },
+formatMoney:function(mnt){
+mnt-=0;
+mnt=(Math.round(mnt*100))/100;
+var fullAmt=""+((mnt==Math.floor(mnt))?mnt+'.00':((mnt*10==Math.floor(mnt*10))?mnt+'0':mnt));
+while(fullAmt.match(/(\d)(\d\d\d)([.,])/))fullAmt=fullAmt.replace(/(\d)(\d\d\d)([.,])/ig,"$1,$2$3");
+return fullAmt;
+},
 trimWhiteSpace:function(string){
 if(!string)return string;
 return string.replace(/^[\t]*|[\t]*$/ig,"");
 },
-generatePolygonFromPoint:function(point,distance){
+generatePolygonFromPoint:function(point,distance,color){
+if(!color)color='#003265'
 var fourCorners=U.getFourCorners(point,distance);
-return new GPolygon(fourCorners,'#003265',1,0.4,'#003265',0.4);
+return new GPolygon(fourCorners,color,1,0.4,color,0.4);
 },
 generateBoundsFromPoint:function(point,distance){
 var fourCorners=U.getFourCorners(point,distance);
@@ -3579,7 +3604,7 @@ _buildMiddleTd:function(instructions){
 var td=document.createElement('td');
 if(instructions.image){
 td.style.backgroundImage='url('+instructions.image+')';
-if(instructions.repeat)td.style.backgroundRepeat=repeat;
+if(instructions.repeat)td.style.backgroundRepeat=instructions.repeat;
 }else if(instructions.color){
 td.style.backgroundColor=instructions.color;
 if(instructions.border&&instructions.side){
@@ -3652,13 +3677,15 @@ if(elements[i].id==tempId)elements[i].id="";
     <a href="/wedding/search">Find A Wedding Map</a>
     <img alt="Arrows" src="/images/wedding/arrows.png" style="vertical-align: middle;">
   </div>
-  <a href="/" id="logo_link"><img alt="Wedding_mapper_big_logo" class="logo" id="logo" src="/images/wedding/wedding_mapper_big_logo.png"></a>
-  <div class="tabs"><a href="/" class="">Home</a><a href="/planning/explore" class="">Explore</a><a href="/plan" class="">Plan</a><a href="/wedding/create_map" class="">Wedding Map</a></div>
+  <a href="/" alt="Free Personalized and Interactive Wedding Maps, Local Wedding Planning Tools" id="logo_link" title="Free Personalized and Interactive Wedding Maps, Local Wedding Planning Tools"><img alt="Free Personalized and Interactive Wedding Maps, Local Wedding Planning Tools" class="logo" id="logo" src="/images/wedding/wedding_mapper_big_logo.png" title="Free Personalized and Interactive Wedding Maps, Local Wedding Planning Tools"></a>
+  <div class="tabs"><a href="/" alt="Free Personalized and Interactive Wedding Maps, Local Wedding Planning Tools" class="" title="Free Personalized and Interactive Wedding Maps, Local Wedding Planning Tools">Home<img alt="Tab_lleft_corner_selected" class="tab_corner selected" src="/images/wedding/tab_lleft_corner_selected.gif"><img alt="Tab_lleft_corner" class="tab_corner unselected" src="/images/wedding/tab_lleft_corner.gif"></a><a href="/explore" alt="Find inspiration from real weddings around the world. Real Wedding Photos, Great Wedding Location, and Real Weddings from all over the world." class="" title="Find inspiration from real weddings around the world. Real Wedding Photos, Great Wedding Location, and Real Weddings from all over the world.">Explore<img alt="Tab_lleft_corner_selected" class="tab_corner selected" src="/images/wedding/tab_lleft_corner_selected.gif"><img alt="Tab_lleft_corner" class="tab_corner unselected" src="/images/wedding/tab_lleft_corner.gif"></a><a href="/plan" alt="Plan your wedding with local knowledge from recent newlyweds in your local area" class="" title="Plan your wedding with local knowledge from recent newlyweds in your local area">Plan<img alt="Tab_lleft_corner_selected" class="tab_corner selected" src="/images/wedding/tab_lleft_corner_selected.gif"><img alt="Tab_lleft_corner" class="tab_corner unselected" src="/images/wedding/tab_lleft_corner.gif"></a><a href="/wedding/create_map" alt="Create a free wedding map to share with your guests" class="selected_nav" title="Create a free wedding map to share with your guests">My Tools<img alt="Tab_lleft_corner_selected" class="tab_corner selected" src="/images/wedding/tab_lleft_corner_selected.gif"><img alt="Tab_lleft_corner" class="tab_corner unselected" src="/images/wedding/tab_lleft_corner.gif"></a></div>
 </div>
-<div style="float: right; margin: 0 6px 3px 0;" class="subtle">
-  <a href="/wedding/what_is_a_wedding_map">What's a wedding map?</a>
+<div class="login subtle">
+  <a href="/wedding/what_is_a_wedding_map" alt="What's a wedding map?" title="What's a wedding map?">What's a wedding map?</a>
   &nbsp; * &nbsp;
   
+  
+    <a href="/wedding/my_account">Login to your account</a>
   
 </div>
 <div style="clear: both;"></div>
@@ -4140,8 +4167,8 @@ ul
     
 
 <div class="footer navigation">
-  <img alt="Tan_compass" class="compass" src="/images/wedding/tan_compass.gif">    
-  <a href="/about">About</a> | <a href="http://blog.weddingmapper.com">Blog</a> | <a href="mailto:feedback@weddingmapper.com">Contact</a> | <a href="/company/policies/terms_of_service">Terms of Service</a> | <a href="/company/policies/privacy">Privacy Policy</a> | <a href="/wedding/advertise">Advertise With Us</a> | <a href="/vendors/dashboard?new=1">Wedding Vendors</a>
+  <img alt="White_compass" class="compass" src="/images/wedding/white_compass.gif">    
+  <a href="/about" alt="About Wedding Mapper" title="About Wedding Mapper">About</a> | <a href="http://blog.weddingmapper.com" alt="Weddig Mapper Blog" title="Weddig Mapper Blog">Blog</a> | <a href="/about/contact" alt="Contact Wedding Mapper" title="Contact Wedding Mapper">Contact</a> | <a href="/company/policies/terms_of_service">Terms of Service</a> | <a href="/company/policies/privacy">Privacy Policy</a> | <a href="/wedding/advertise" alt="Advertise with Wedding Mapper" title="Advertise with Wedding Mapper">Advertise With Us</a> | <a href="/vendors/dashboard?new=1" alt="Wedding Vendors, reach engaged couples in your local area" title="Wedding Vendors, reach engaged couples in your local area">Wedding Vendors</a>
   <div>
     © Wedding Mapper 2008
   </div>  
@@ -4159,6 +4186,7 @@ ul
       <script type="text/javascript">
       _uacct = "UA-52439-4";
       urchinTracker();
+      __utmSetVar("GUEST");
       </script>
 
       <!-- Start Quantcast tag -->
