@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624081703id_/http%3A//www.folica.com/Privacy_Policy_d1272.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094127id_/http%3A//www.folica.com/Privacy_Policy_d1272.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Effective Date: 09/22/2006
 
 Folica will never give, lease or sell your personal information. Period!
 
-Folica.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  This privacy statement covers the site Folica.com.  Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  By displaying the TRUSTe trustmark, Folica.com has agreed to notify users of:
+Folica.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  This privacy statement covers the site Folica.com.  Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  By displaying the TRUSTe trustmark, Folica.com has agreed to notify users of:
 
 1\.         What personally identifiable information Folica, Inc. collects.
 
@@ -56,7 +56,7 @@ Please be advised that any personally identifiable information you submit there 
 
 **Tell-A-Friend**
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Folica, Inc. does not store this information for the sole purpose of sending this one-time email. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Folica, Inc. does not store this information for the sole purpose of sending this one-time email. 
 
 **Customer Service**
 
@@ -104,7 +104,7 @@ If you sign up for our promotional email list, you may receive our deal announce
 
 As is true of most Web sites, we gather certain information automatically and store it in log files.  This information includes Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. 
 
 We do not link this automatically-collected data to personally identifiable information.
 
@@ -155,7 +155,5 @@ Dayton, NJ 08810
 [](mailto:adam@folica.com)
 
   
-  
----  
-   
-[](https://web.archive.org/Customer_Servic_d1280.html) | Question? [customer service](https://web.archive.org/Customer_Servic_d1280.html) |   |  |  |   | | 888-919-4247
+[](https://web.archive.org/Customer_Servic_d1280.html) | Question? [customer service](https://web.archive.org/Customer_Servic_d1280.html) |   |  |  |   | | 888-919-4247  
+---|---|---|---|---|---|---|---
