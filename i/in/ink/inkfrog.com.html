@@ -1,29 +1,165 @@
-<!--The following is the downloaded HTML source of the inkfrog.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509162322id_/http%3A//www.inkfrog.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inkfrog.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217063607id_/http%3A//www1.inkfrog.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Language" content="en-us">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
-<title>inkFrog - eBay auction management and image hosting</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+
+	<title>inkFrog - eBay Auction Management and Image Hosting</title>
+
+	<link rel="stylesheet" href="/_css/styles.css" type="text/css" media="screen">	
+	<link rel="stylesheet" href="_css/thickbox.css" type="text/css" media="screen">
+	<script src="/_js/jquery.js" type="text/javascript" language="javascript"></script>
+	<script src="/_js/thickbox.js" type="text/javascript" language="javascript"></script>
+	<script src="/_js/scripts.js" type="text/javascript" language="javascript"></script>
+	<script src="/_js/newsticker.js" type="text/javascript" language="javascript"></script>
+	<script src="/_js/overlabel.js" type="text/javascript" language="javascript"></script>
+	<script src="/_js/forms.js" type="text/javascript" language="javascript"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+	    	$("label.overlabel").overlabel();
+			$("#intro-3 ul").newsticker();
+		});
+	</script>
+
+
 </head>
+<body id="home">
+<div id="wrapper">
 
-<body topmargin="0" leftmargin="0">
+	<div class="popup" id="error_div" style="display: none;">
+  <h1><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="leftEnd">Login Error </td><td class="rightEnd"><a href="javascript: void(0)" onclick="closePopupDiv('error_div');">X</a></td></tr></tbody></table></h1>
+    <div id="ErrorDescriptionDiv"></div>
+</div>
+<div class="popup" id="status_div" style="display: none;"></div>
+	<div id="top">
+		<a href="index.php"><img src="_images/logo.jpg" alt="InkFrog" id="logo"></a>
+		<div id="quick-login">
+<script>
+$(document).ready(function(){
+    $("#login_form1").submit(function() {
+	//alert($("#username-field").val());
+	$.post("/login/main_login_xml.php",{ 
+	    username: $("#username-field").val(),
+	    passwd: $("#password-field").val(),
+	    action: $("#action").val()
+	    }, function(xml) {
+		process_response(xml); 
+	    }
+	);
+	return false;
+    });
+});
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
-  <tbody><tr>
-    <td width="17%" background="http://www.inkfrog.com/images/top_back.gif"><a href="http://www.inkfrog.com/" title="Back to inkFrog's homepage"><img border="0" src="http://www.inkfrog.com/images/header.gif" width="188" height="94"></a></td>
-    <td width="83%" background="http://www.inkfrog.com/images/top_back.gif">
-    <p align="right"><b><font color="#006B3A" face="Verdana">inkFrog Privacy Policy&nbsp;&nbsp; </font></b></p></td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2">&nbsp;<div align="center">
-      <center>
-      <table border="0" style="border-collapse: collapse" bordercolor="#111111" width="636" id="AutoNumber2">
-        <tbody><tr>
-          <td width="633">
-          <b><font color="#707070" face="Verdana" size="2">WHAT PERSONAL
+    function process_response(xml) {
+//alert('t');
+	var ErrorCode = '';
+	$("Error",xml).each(function(id) {
+	    var Error = $("Error",xml).get(id);
+	    var ErrorSeverity = $("Severity",Error).text();
+	    var ErrorDescription = $("ErrorDescription",Error).text();
+	    ErrorCode = $("ErrorCode",Error).text();
+	    tb_show('Error', 'login_error.php?error_code=' + ErrorCode + '&error_description=' + js_escape(ErrorDescription) + '&height=200&width=350&modal=true');
+	    //alert(ErrorDescription);
+	});
+	if(ErrorCode == '') {
+	    $("Cookie",xml).each(function(id) {
+		var Cookie = $("Cookie",xml).get(id);
+	        var CookieData = $("Value", Cookie).text();
+	        var CookieName = $("Name", Cookie).text();
+	        var CookieExpireDays = $("ExpireDays", Cookie).text();
+	        var CookieDomain = $("Domain", Cookie).text();
+	        //alert(CookieName + ' / ' + CookieData + ' / ' + CookieExpireDays + ' / ' + CookieDomain);
+		setCookie(CookieName,CookieData,CookieExpireDays,'/',CookieDomain,false);
+	    });
+	    var RedirectURL = $("RedirectURL", xml).text();
+	    var Redirect = $("Redirect", xml).text();
+	    //alert('URL: ' + RedirectURL);
+	    //window.location.replace(RedirectURL);
+	    //alert('yo');
+	    if(Redirect == 'true')
+		window.location.replace(RedirectURL);
+	    else
+		tb_show('Site choice','/login_ask.php?height=400&width=450');
+	}
+    }
+    function js_escape(variable) {
+	variable = escape(variable);
+	variable = variable.replace(/\+/g,'%2B');
+	return variable;
+    }
+    function setCookie(name, value, nDays, path, domain, secure) {
+	var expires = '';
+	if(nDays && nDays > 0) {
+	    expires = new Date();
+	    var today = new Date();
+	    expires.setTime(today.getTime() + 3600000*24*nDays);
+	    //alert(name + ' expires: ' + expires.toGMTString());
+	}
+    
+	var curCookie = name + "=" + js_escape(value) +
+	    ((expires) ? "; expires=" + expires.toGMTString() : "") +
+	    ((path) ? "; path=" + path : "") + 
+	    ((domain) ? "; domain=" + domain : "") + 
+	    ((secure) ? "; secure" : ""); 
+	document.cookie = curCookie;
+    }
+</script>
+    <form action="http://frog7.inkfrog.com/www/main_login.php" name="login_form" id="login_form" method="GET">
+    	<input type="hidden" id="action" name="action" value="login">
+
+    <div id="login-title">
+				Member Login <a href="lost_login.php?height=300&amp;width=400&amp;KeepThis=true&amp;TB_iframe=true" title="Lost login" style="color: white; font-size: 9px;" class="thickbox">lost?</a>
+			  </div>
+			  <div id="username">
+			   <label for="username-field" class="overlabel overlabel-apply">Username</label>
+			   <input id="username-field" type="text" size="15" name="username" title="Username" value="">
+			  </div>
+			  <div id="password">
+			   <label for="password-field" size="15" class="overlabel overlabel-apply">Password</label>
+			   <input id="password-field" type="password" name="passwd" title="Password" value=""> 
+            </div>
+			  <div id="submit">
+			    <input type="submit" name="submit" value="Login">  			 
+			 </div>
+			 
+			 
+		</form></div>
+
+		<ul id="menu">
+			<li class="first"><a href="index.php">Home</a></li>
+			<li>
+				<a href="auction_management.php">Products</a>
+				<ul>
+					<li><a href="image-hosting.php">Image Hosting</a></li>
+					<li><a href="lister.php">Lister / Scheduler</a></li>
+					<li><a href="sales-manager.php">Sales Manager</a></li>
+					<li><a href="inventory.php">Inventory</a></li>
+					<li><a href="showcase.php">Showcase</a></li>
+					<li><a href="counters.php">Counters</a></li>
+					<!--<li><a href="consignment.php">Consignment</a></li>-->
+					<li><a href="import.php">Importer</a></li>
+
+					<li><a href="extras.php">Bulk Editing &amp; More</a></li>
+				</ul>
+			</li>
+			<li><a href="pricing.php">Pricing</a></li>
+			<li><a href="signup.php">Sign up</a></li>
+			<li><a href="http://help.inkfrog.com">Support</a></li>
+			<li><a href="template-center.php">Template Center</a></li>
+			<li><a href="http://community.inkfrog.com" target="_blank">Community</a></li>
+		</ul>
+	</div>
+	<div style="width: 100%; background: white;">
+	
+	
+	<center><a href="signup.php"><img src="_images/mainbanner.png" border="0"></a> </center> <br>	</div>	
+	<div id="main">
+	
+		<div id="content">
+		 <b><font color="#707070" face="Verdana" size="2">WHAT PERSONAL
           INFORMATION DOES INKFROG COLLECT AND WHY?</font></b><p>
           <font color="#707070" face="Verdana" size="2">To provide you with the
           best service possible a Seller, we collect some or all of the
@@ -33,6 +169,7 @@
             </font></li>
             <li><font color="#707070"><font face="Verdana" size="2">e-mail
             address</font> </font></li>
+
             <li><font color="#707070"><font face="Verdana" size="2">eBay ID and
             password (password optional)</font> </font></li>
             <li><font color="#707070"><font face="Verdana" size="2">telephone
@@ -48,6 +185,7 @@
           type, and request.cookies duration. inkFrog uses this information
           to administer the site and to further improve our service to you.
           </font></p>
+
           <p><font color="#707070" face="Verdana" size="2">If you elect to
           receive emails updates from inkFrog, you will periodically receive
           e-mails from us updating you of significant events taking place at
@@ -60,6 +198,7 @@
           <ol>
             <li><font color="#707070"><font face="Verdana" size="2">complete
             transactions between the Seller and eBay</font> </font></li>
+
             <li><font color="#707070" face="Verdana" size="2">research usage
             patterns based on the information provided to us during
             registration, and from our server log files. We do this to better
@@ -77,6 +216,7 @@
           these links, you leave inkFrog and go to another web site. We
           encourage you to read the privacy statements of these sites, to which
           we link, as their privacy policy may differ from ours.</font></p>
+
           <p><b><font color="#707070" face="Verdana" size="2">WHAT ARE "COOKIES"
           AND HOW ARE THEY USED?</font></b></p>
           <p><font color="#707070" face="Verdana" size="2">A "cookie" is a small
@@ -96,9 +236,10 @@
           your password, at any time in the "preferences" section of the inkFrog
           website. Should you forget your password, inkFrog can send it to
           you immediately via e-mail, at your request. To cancel your account,
-          please send an email to </font>
-          <a href="mailto:support@sparedollar.com"><font color="#707070">
-          support@inkfrog.com</font></a><font color="#707070">.</font></font></p>
+          contact our </font>
+
+           <a href="http://help.inkfrog.com">helpdesk</a> <font color="#707070">
+          support@inkfrog.com</font><font color="#707070">.</font></font></p>
           <p><b><font color="#707070" face="Verdana" size="2">HOW I WILL KNOW
           ABOUT CHANGES TO INKFROG'S PRIVACY POLICY</font></b></p>
           <p><font color="#707070" face="Verdana" size="2">If we decide to
@@ -113,23 +254,41 @@
           the privacy policy under which the information was collected.</font></p>
           <p><b><font color="#707070" face="Verdana" size="2">QUESTIONS OR
           CONCERNS</font></b></p>
+
           <p><font face="Verdana" size="2"><font color="#707070">If you have
           questions or concerns regarding inkFrog's privacy policy, kindly
-          contact inkFrog by e-mail at </font>
-          <a href="mailto:privacy@sparedollar.com"><font color="#707070">
-          privacy@inkfrog.com</font></a><font color="#707070">.</font></font></p></td>
-        </tr>
-        </tbody></table>
-      </center>
-    </div>
-    <p>&nbsp;</p></td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" background="http://www.inkfrog.com/images/bot_back.gif" height="25">&nbsp;</td>
-  </tr>
-</tbody></table>
-<p><font face="Verdana" color="#006B3A" size="1">&nbsp;© Copyright 2006, inkFrog, Inc.
-All Rights Reserved </font></p>
+          contact our helpdesk at <a href="http://help.inkfrog.com">help.inkFrog.com</a> </font>
+         </font><font color="#707070">.</font>
+		
+				
+				</p><div class="clear"></div>
+				
+		
+		
+		</div>
+		<!-- END CONTENT -->
+	
+	</div>
+	<!-- END MAIN -->
+	
+</div>
+<!-- END WRAPPER -->
 
+
+<div id="footer">
+	<p id="copyright">
+		Copyright 1999-2007, inkFrog, Inc. All Rights Reserved<br>
+		<a href="privacy.php">Privacy Policy</a> | <a href="agreement.php">User Agreement</a><br>
+	</p>
+	<p>
+		<a href="index.php">Home</a> |
+		<a href="services.php">Services</a> |
+		<a href="pricing.php">Pricing</a> |
+		<a href="http://help.inkfrog.com">Support</a> |
+		<a href="template-center.php">Template Center</a> |
+		<a href="about.php">About Us</a> |
+	    <a href="http://community.inkfrog.com" target="_blank">Community</a>
+	</p>
+</div>
 
 </body></html>
