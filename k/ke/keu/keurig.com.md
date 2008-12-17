@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keurig.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412211548id_/http%3A//www.keurig.com/privacy.asp%3Fmscsid%3D6HD2G5KRFSGN8M24532MEQQEPKSC5MNE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keurig.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080738id_/http%3A//www.keurig.com/privacy.asp%3Fmscsid%3D30PHMMC6EF828K138RK1H7NPHU5M0LFC) for the most accurate reproduction.*
 
 # Keurig - Single cup coffee maker – coffee brewer, gourmet coffee, gourmet tea, K-Cups
 
@@ -14,7 +14,7 @@ From time to time, Keurig contacts customers by email, phone or mail to inform t
 
 When you set up an account, you are given the opportunity to receive communications from us and/or Green Mountain Coffee Roasters. You may choose to opt-out of these communications during the set up process or after set up at any time by logging in to “My Account” and visiting “Edit My Communication Preferences” or by calling customer service at 1-866-901-BREW (2739). (You may also opt out of Keurig communication by simply using the “Unsubscribe” link located in the footer of our e-mails). Please note: changes can take up to two weeks to take effect.
 
-Maintaining the confidentiality of your personal information—including credit card data—is very important to Keurig. As a Keurig customer, your personal information will never be rented or sold. For your security, **we only store your credit card information if you choose to set up an automatic monthly delivery**. In that case, it is stored on a secure computer in a format that makes it unusable except by us, for your order. If you do not set up an automatic monthly delivery, you will have to enter your credit card information each time you order. We understand that this may be a little inconvenient for you, but some customers appreciate the added peace of mind this brings.
+Maintaining the confidentiality of your personal information—including credit card data—is very important to Keurig. As a Keurig customer, your personal information will never be rented or sold. For your security, **we only store your credit card information if you choose to set up an automatic delivery**. In that case, it is stored on a secure computer in a format that makes it unusable except by us, for your order. If you do not set up an automatic delivery, you will have to enter your credit card information each time you order. We understand that this may be a little inconvenient for you, but some customers appreciate the added peace of mind this brings.
 
 ##### Cookies
 
