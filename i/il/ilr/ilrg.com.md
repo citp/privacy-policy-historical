@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406072722id_/http%3A//www.ilrg.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024635id_/http%3A//www.ilrg.com/terms/privacy.html) for the most accurate reproduction.*
 
 # ILRG.com: Privacy Policy
 
@@ -8,7 +8,7 @@
 
 **_ILRG.COM RESPECTS YOUR PRIVACY_**
 
-Last Updated: May 14, 2007
+Last Updated: August 25, 2008
 
 | [ ](http://www.truste.org/ivalidate.php?url=www.ilrg.com&sealid=101)  
 ---|---  
@@ -39,7 +39,7 @@ ILRG.com reserves the right to disclose your personally identifiable information
 
 **Confidentiality and Security.** ILRG.com limits access to personal information about you to employees and contractors who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. ILRG.com has physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. In addition, as a condition of employment or business partnership, ILRG.com requires all its employees and contractors to sign confidentiality contracts.
 
-**ILRG.com's Security is Certified Daily by an Independent Third Party. ** ILRG.com has contracted with [ScanAlert, Inc.](http://www.scanalert.com/), a leading provider of Internet security auditing services, to provide independent daily monitoring, testing, and certification of ILRG.com's web site and e-commerce security.  ILRG.com is tested and certified daily to pass the FBI/SANS Internet Security Test. The "live" HACKER SAFE® mark, shown on the right, appears only when a web site's security meets the highest security scanning standards of the U.S. government, Visa, MasterCard, American Express, Discover, and JCB. The daily scanning and certification show that ILRG.com meets all payment card industry guidelines for remote web server vulnerability testing to help protect customer personal information from hackers.  
+**ILRG.com's Security is Certified Daily by an Independent Third Party. ** ILRG.com has contracted with [McAfee, Inc.](http://www.mcafeesecure.com/) (NYSE: [MFE](http://www.google.com/finance?q=MFE)), the leading provider of Internet security auditing services, to provide independent daily monitoring, testing, and certification of ILRG.com's web site and e-commerce security.  ILRG.com is tested and certified daily to pass the FBI/SANS Internet Security Test. The "live" McAfee® Secure mark, shown on the right, appears only when a web site's security meets the highest security scanning standards of the U.S. government, Visa, MasterCard, American Express, Discover, and JCB. The daily scanning and certification show that ILRG.com meets all payment card industry guidelines for remote web server vulnerability testing to help protect customer personal information from hackers.  
   |  [](https://www.scanalert.com/RatingVerify?ref=www.ilrg.com)  
 ---|---  
 **Security with VeriSign ® and SSL.** ILRG.com has contracted with [VeriSign, Inc.](http://www.verisign.com/) (NASDAQ: [VRSN](http://www.google.com/finance?q=VRSN)), the leading provider of digital authentication services and products for electronic commerce and other forms of secure communications. With VeriSign, you are assured that you have secure communications with ILRG.com and not another site. ILRG.com uses SSL (Secure Socket Layer), the industry standard method for computers to communicate securely without risk of manipulation or recipient impersonation. ILRG.com utilizes this encryption during the online checkout process, including the acceptance of your credit card information, and the management of your account. The VeriSign mark, shown on the right, appears only when a business has passed VeriSign's rigorous identity authentication process and has been certified as a valid and trusted business. |   
