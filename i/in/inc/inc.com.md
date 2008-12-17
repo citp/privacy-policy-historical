@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618163444id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025935id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement, - Inc. Article
 
