@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pogo.tv privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209115050id_/http%3A//www.pogo.tv/jsp/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pogo.tv privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217121917id_/http%3A//www.pogo.tv/privacy.html) for the most accurate reproduction.*
 
 # POGO TV
+
+[](https://web.archive.org/web/20081217121917id_/http%3A//www.pogo.tv/index.html)
 
 **PRIVACY POLICY**
 
@@ -47,3 +49,7 @@ At pogo.tv, we use cookies to help make your experience better and understand ho
 **Safeguards - Monitor Your Child's Internet Usage**
 
 As we have taken special precautions to aid in the safety of their children's World Wide Web experience, we ask parents to monitor closely the Internet activities of their children and become educated on the various Internet and software tools available so as to ensure that their children have a fun and satisfying on-line experience. 
+
+•[ Privacy Policy](https://web.archive.org/web/20081217121917id_/http%3A//www.pogo.tv/privacy.html) • [Terms of Use](https://web.archive.org/web/20081217121917id_/http%3A//www.pogo.tv/terms.html) •[ Trademark Information](https://web.archive.org/web/20081217121917id_/http%3A//www.pogo.tv/trade.html) • [Competition Rules](https://web.archive.org/web/20081217121917id_/http%3A//www.pogo.tv/rules.html) • [Winners](https://web.archive.org/web/20081217121917id_/http%3A//www.pogo.tv/winner.html) • [Contact Us](https://web.archive.org/web/20081217121917id_/http%3A//www.pogo.tv/contactus.html)  
+™ & © 2008 Cartoon Network. A TimeWarner Company  
+[Site Credit](http://www.flipdesign.in/)
