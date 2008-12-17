@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myphotoalbum.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611133931id_/http%3A//www.myphotoalbum.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myphotoalbum.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021515id_/http%3A//www.myphotoalbum.com/privacy.shtml) for the most accurate reproduction.*
 
 # Online Photo Album - MyPhotoAlbum.com
 
@@ -6,7 +6,7 @@
 |  |   
 |  | 
 
-[](https://web.archive.org/signup.shtml)
+[](https://web.archive.org/signup.php)
 
   
 |   
@@ -115,7 +115,7 @@ We will maintain the confidentiality of all personal information collected in ou
 
 MyPhotoAlbum also takes the following measures to protect your personal information online: 
 
-**Passwords** : To provide you with an increased level of security, online access to your personal information is protected with a password you select. We strongly recommend that you do not disclose your password to anyone. MyPhotoAlbum will never ask you for your password in any unsolicited communication (including unsolicited correspondence such as letters, phone calls or e-mail messages). Order Information: Since any order information you provide to us on our Sites will be transmitted using a secure connection, if your Web browser cannot support this level of security, you will not be able to order products through our Sites. The most recent versions of Netscape NavigatorTM, FireFox and Microsoft Internet Explorer® can support a secure connection and can be downloaded for free from the Netscape and Microsoft website respectively. 
+**Passwords** : To provide you with an increased level of security, online access to your personal information is protected with a password you select. We strongly recommend that you do not disclose your password to anyone. MyPhotoAlbum will never ask you for your password in any unsolicited communication (including unsolicited correspondence such as letters, phone calls or e-mail messages). Order Information: Since any order information you provide to us on our Sites will be transmitted using a secure connection, if your Web browser cannot support this level of security, you will not be able to order products through our Sites. The most recent versions of Netscape NavigatorTM, FireFox and Microsoft Internet Explorerï¿½ can support a secure connection and can be downloaded for free from the Netscape and Microsoft website respectively. 
 
 No data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information from unauthorized access, use or disclosure, MyPhotoAlbum cannot ensure or warrant the security of any information you transmit to us on our Sites. 
 
@@ -124,12 +124,10 @@ No data transmission over the Internet can be guaranteed to be 100% secure. Whil
 
 **Who We Are**
 
-MyPhotoAlbum is a creation of FortuneCity.com Inc., a company founded in 1997 and headquartered in New York City. FortuneCity is comprised of a family of companies and divisions brought together to provide you with a full suite of photo and online products and services. The FortuneCity and divisions include: 
-    * [Fortunecity](http://www.fortunecity.com/)
+MyPhotoAlbum Inc. a company founded in 1997 and headquartered in New York City. MyPhotoAlbum Inc. is comprised of a family of companies and divisions brought together to provide you with a full suite of photo and online products and services. MyPhotoAlbum Inc. and divisions include: 
     * [MyPhotoAlbum](http://www.myphotoalbum.com/)
-    * [Hotgames](http://www.hotgames.com/)
-    * [Ampira Media](http://www.ampiramedia.com/)
-    * [V3](http://www.v3.com/)
+    * [MyPhotoPro](http://www.myphotopro.com/)
+    * [Go.to](http://www.go.to/)
 
 
 
