@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centurytel.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211091812id_/http%3A//rd.myway.com/rdm%3Fp%3DCT_HOMEPAGE%26m%3DFOOTER%26l%3Dprivacy%26rd%3Dhttp%3A//info.myway.com/index/id/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centurytel.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061654id_/http%3A//rd.myway.com/rdm%3Fp%3DCT_HOMEPAGE%26m%3DFOOTER%26l%3Dprivacy%26rd%3Dhttp%3A//info.myway.com/index/id/privacy.html) for the most accurate reproduction.*
 
 # My Way - Privacy Policy
 
