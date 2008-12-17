@@ -1,413 +1,162 @@
-<!--The following is the downloaded HTML source of the nremt.org privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609233510id_/http%3A//www.nremt.org/about/policy_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nremt.org privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217105043id_/http%3A//www.nremt.org/about/policy_privacy.asp) for the most accurate reproduction.-->
 
-<html><head><link rel="stylesheet" href="../stylesheet/style.css" type="text/css">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" href="../stylesheet/style.css" type="text/css">
 
 
 
-<title>NREMT - NREMT Privacy Policy</title>
+<title>NREMT - PRIVACY POLICY</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="expires" content="Wed, 14 Feb 1999 08:21:57 GMT">
 <script type="text/javascript" src="../include/validation/client/alertAndRefocus.js"></script>
+<script type="text/javascript" src="../include/menuhighlight.js"></script>
+<script type="text/javascript" src="../include/expandit.js"></script>
+<link rel="Stylesheet" href="../stylesheet/main.css">
+<link rel="Stylesheet" href="../stylesheet/style.css">
+<script type="text/javascript">
+function jsSubmit()
+{
+	var uid;
+	var pwd;
+
+	uid = document.frmLogin.uid.value;
+	pwd = document.frmLogin.pwd.value;
+
+	if (uid == null || uid == "")
+	   {alert("A username must be provided."); document.frmLogin.uid.focus(); return;}
+	if (pwd == null || pwd == "")
+	   {alert("A password must be provided."); document.frmLogin.pwd.focus(); return;}
+
+	// This is a kludge to make sure password memorization works in IE.  IE will stop
+	// remembering passwords if we change this back to document.frmLogin.submit();.
+	document.frmLogin.hiddenSubmitButton.click();
+}
+
+function spaceBarSubmitsForm(e)
+{
+	var keycode;
+	
+	if (window.event)
+		keycode = window.event.keyCode;
+	else
+		keycode = e.which;
+	
+ 	if (keycode == 32)
+ 	{
+ 		jsSubmit();
+ 		return false;
+ 	}
+ 	else
+ 	{
+ 		return true;
+ 	}
+}
+
+function returnSubmitsForm(e)
+{
+	var keycode;
+	
+	if (window.event)
+		keycode = window.event.keyCode;
+	else
+		keycode = e.which;
+	
+ 	if (keycode == 13)
+ 	{
+ 		jsSubmit();
+ 		return false;
+ 	}
+ 	else
+ 	{
+ 		return true;
+ 	}
+}
+
+</script>
 </head>
-<body bgcolor="#000099" text="#666666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#3366CC" vlink="#3366CC" alink="#CC0000">
-<table width="768" border="0" cellspacing="0" cellpadding="0" bgcolor="#000099">
-	<tbody><tr>
-		<td rowspan="3" width="144" bgcolor="#990000" align="center" valign="center"><a name="top"><img src="../img/logo_small.gif" width="86" height="86" alt="NREMT logo" border="0"></a></td>
-		<td rowspan="3" bgcolor="#666666"><img src="../img/spcr.gif" width="1" height="1"></td>
-		<td bgcolor="#000099" valign="top" align="right"><img src="../img/banner_top.gif" width="623" height="54" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td bgcolor="#000099" valign="top">
-			<table border="1" width="100%" cellspacing="0" cellpadding="1" bordercolor="#666666" bgcolor="#000099" style="border: thin;">
-				<tbody><tr>
-					<td class="BannerNavActive" width="93" height="30"><a href="http://www.nremt.org/about/home.asp" class="nava">About the NREMT</a></td>
-					<td class="BannerNav" width="118"><a href="http://www.nremt.org/EMTServices/home.asp" class="nava">Registrants &amp; Candidates</a></td>
-					
-					<td class="BannerNav" width="108" align="right"><a href="https://www.nremt.org/security/login.asp?logVal=3000" class="nava">Login</a></td>
-					
-					<td class="BannerNav">&nbsp;</td>
-					
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr valign="middle" bgcolor="#000099">
-		<td>
-			<table border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td class="pageHeader" width="622">&nbsp;&nbsp;&nbsp;About the NREMT</td>
-					<td width="1" align="right"><img src="../img/gray.gif" width="1" height="32" alt="" border="0"></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<!-- include code to change cell colors on mouseover, and to expand/contract menus -->
-<script language="JavaScript" src="../include/menuhighlight.js" type="text/javascript"></script>
-<script language="JavaScript1.2" src="../include/expandit.js" type="text/javascript"></script>
+<body class="center">
+	<div id="container" onmouseout="calendarTimeout();" onmouseover="if (timeoutId) clearTimeout(timeoutId);">
+		<!-- This div is used by the calendar widget.  -->
+	</div>
+	
+    <div class="layout-main-int no-right-col">
+        						<div class="main-content">
+        						    <div class="left-col">
+        						        <div class="left-col-top">
+				 
+					<div class="login-text">Returning users:</div>
+					<form method="post" name="frmLogin" id="frmLogin" action="https://www.nremt.org/security/login_action.asp">
+                    <div class="clearer"></div>
+                    <div class="login-form">
+                        <input type="text" name="uid" onkeypress="return returnSubmitsForm(event);"><br>
+                        <input type="password" name="pwd" onkeypress="return returnSubmitsForm(event);"><br>
+                        <div class="button">
+                            <div class="button-left"><a href="javascript:jsSubmit();" onkeypress="return spaceBarSubmitsForm(event);">LOGIN</a></div>
+
+                            <div class="button-right"></div>
+                        </div>
+                        <input id="hiddenSubmitButton" type="submit" style="display: none;">
+                        
+                    </div>
+                    </form>
+                
+                
+                </div>
+				<div style="position: relative; top: 20px; left: 17px; margin-bottom: 0; padding: 0; font-weight: bold;">
+					<a href="http://www.nremt.org/account/account.asp?mode=add">Create New Account</a> <br>
+					<a href="http://www.nremt.org/security/forgot_pwd.asp">Forgot Your Password?</a>
+				</div>
+                <div class="left-nav">
+                    <!-- MENU BEGINS HERE -->
+                     <ul class="navigation">
+                        <li class="selected"><a href="http://www.nremt.org/about/home.asp">GENERAL INFO</a></li>
+                        <li class=""><a href="http://www.nremt.org/EMTServices/home.asp">EMS PROFESSIONALS</a></li>
+                        
+                    </ul>                    
+                	                    <ul class="subnavigation">
+                        <li><a href="http://www.nremt.org/about/nremt_news.asp">NREMT News</a></li>
+<li><a href="http://www.nremt.org/about/CBT_home.asp">Computer Based Testing</a></li>
+<li><a href="http://www.nremt.org/about/newsletter.asp">NREMT Newsletters</a></li>
+<li><a href="javascript:newexpandit('NREMT Information');">NREMT Information</a><div id="subnavigation_menu_NREMT Information" style="display: none;"><ul class="sub-subnav"><li><a href="http://www.nremt.org/about/gen_info_overview.asp">Overview</a></li>
+<li><a href="http://www.nremt.org/about/nremt_board.asp">Board of Directors</a></li>
+<li><a href="http://www.nremt.org/about/strat_plan_2006.asp">Strategic Plan</a></li>
+<li><a href="http://www.nremt.org/about/mission_statement.asp">Mission Statement</a></li>
+<li><a href="http://www.nremt.org/about/Legal_Opinion.asp">Certification<br>v. Licensure</a></li>
+</ul></div></li><li><a href="http://www.nremt.org/about/nremt_history.asp">NREMT History</a></li>
+<li><a href="http://www.nremt.org/about/lead_survey.asp">LEADS Survey</a></li>
+<li><a href="http://www.nremt.org/about/about_exams.asp">About NREMT Examinations</a></li>
+<li><a href="http://www.nremt.org/about/ems_learn.asp">Learn About EMS</a></li>
+<li class="selected"><a href="javascript:newexpandit('General Policies');">General Policies</a><div id="subnavigation_menu_General Policies" style="display: ;"><ul class="sub-subnav"><li><a href="http://www.nremt.org/about/policy_accommodations.asp">Accommodations Disability Policy</a></li>
+<li><a href="http://www.nremt.org/about/policy_disciplinary.asp">Eligibility,<br>Disciplinary and<br>Appeal Policies</a></li>
+<li><a href="http://www.nremt.org/about/policy_exam_review.asp">Exam Review Policy</a></li>
+<li><a href="http://www.nremt.org/about/policy_felony.asp">Felony Policy</a></li>
+<li class="selected"><a href="http://www.nremt.org/about/policy_privacy.asp">Privacy Policy</a></li>
+<li><a href="http://www.nremt.org/about/policy_Terms of Use.asp">Terms Of Use Policy</a></li>
+</ul></div></li><li><a href="http://www.nremt.org/about/related_links.asp">Related Links</a></li>
+<li><a href="http://www.nremt.org/about/checkEMTStatus.asp">Check Emergency Medical Personnel Status</a></li>
+<li><a href="http://www.nremt.org/about/annual_reports.asp">Annual Reports</a></li>
+<li><a href="https://www.nremt.org/about/shop.asp?shopFunction=selPurchType">Purchase NREMT Items</a></li>
+<li><a href="https://www.nremt.org/about/purVoucher.asp">Purchase Vouchers</a></li>
+
+                    </ul> 
+                    <!-- MENU ENDS HERE -->
+
+                </div>
+            </div>
+            <div class="center-col two-col">
+                <div class="center-header-mid-int no-bg-image two-col">
+                	<div class="center-gray-content">
 
-<table width="768" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
-<tbody><tr>
-<td width="145" valign="top" bgcolor="#000099">
-<img src="../img/spcr.gif" width="145" height="1">
-
-
-<!--
-
-<a href="http://www.nremt.org/about/invPay.asp" class="nava">
-
-  <div class="navCell"
-    onMouseOver="JavaScript:LmOver(this, 'Navy');"
-    onMouseOut="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    Invoice Payment
-  </div>
-</a>
--->
-
-
-<a href="http://www.nremt.org/about/nremt_news.asp" class="nava">
-
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    NREMT News
-  </div>
-</a>
-
-
-<a href="http://www.nremt.org/about/CBT_Home.asp" class="nava">
-
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    Computer Based<br>
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    Testing
-  </div>
-</a>
-
-<!-- per sam 12/28/2005
-<div class="navCell"
- onClick="expandit(this,7)"
- onMouseOver="JavaScript:LmOver(this, 'Navy');"
- onMouseOut="JavaScript:LmOut(this, '#000099');">
-  <img src="../img/spcr.gif" width="4" height="5" border=0><img src="../img/plus.gif" width="5" height="5" border=0 style="display:"><img src="../img/minus.gif" width="5" height="5" border=0 style="display:none"><img src="../img/spcr.gif" width="4" height="5" border=0>
-  Computer Based<br />
-  <img src="../img/spcr.gif" width="13" height="5" border="0">
-  Testing (CBT)
-</div>
-
-<span style="display:none" style=&{head};>
-  
-  <a href="http://www.nremt.org/about/NREMT_CBT_intro.asp" class="nava">
-  
-    <div class="navCell"
-      onMouseOver="JavaScript:LmOver(this, 'Navy');"
-      onMouseOut="JavaScript:LmOut(this, '#000099');">
-  
-      <img src="../img/spcr.gif" width="25" height="5" border=0>
-      NREMT CBT
-    </div>
-  </a>
-
-  
-  <a href="http://www.nremt.org/about/nremt_CBT_FAQ.asp" class="nava">
-  
-    <div class="navCell"
-      onMouseOver="JavaScript:LmOver(this, 'Navy');"
-      onMouseOut="JavaScript:LmOut(this, '#000099');">
-  
-      <img src="../img/spcr.gif" width="25" height="5" border=0>
-      CBT Frequently<br />
-      <img src="../img/spcr.gif" width="25" height="5" border=0>
-Asked Questions
-    </div>
-  </a>
-</span>-->
-
-
-<a href="http://www.nremt.org/about/newsletter.asp" class="nava">
-
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    NREMT Newsletters
-  </div>
-</a>
-
-<div class="navCell" onclick="expandit(this,5)" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');" style="width: 135; height: 25">
-  <img src="../img/spcr.gif" width="4" height="5" border="0"><img src="../img/plus.gif" width="5" height="5" border="0" style="display:"><img src="../img/minus.gif" width="5" height="5" border="0" style="display:none"><img src="../img/spcr.gif" width="4" height="5" border="0">
-  NREMT Information
-</div>
-
-<span style="display:none">
-  
-  <a href="http://www.nremt.org/about/gen_info_overview.asp" class="nava">
-  
-    <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-  
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      General<br>
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Information
-    </div>
-  </a>
-
-  
-  <a href="http://www.nremt.org/about/nremt_board.asp" class="nava">
-  
-    <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-  
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      NREMT Board<br>
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      of Directors
-    </div>
-  </a>
-
-  
-  <a href="http://www.nremt.org/about/strat_plan_2006.asp" class="nava">
-  
-    <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-  
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Strategic Plan 
-    </div>
-  </a>
-
-  
-  <a href="http://www.nremt.org/about/mission_statement.asp" class="nava">
-  
-    <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-  
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Mission<br>
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Statement
-    </div>
-  </a>
-
-  
-  <a href="http://www.nremt.org/about/Legal_Opinion.asp" class="nava">
-  
-    <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-  
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Legal Opinion<br>
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Certification<br>
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      v. Licensure
-
-    </div>
-  </a>
-
-</span>
-
-
-<a href="http://www.nremt.org/about/nremt_history.asp" class="nava">
-
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    NREMT History
-  </div>
-</a>
-
-
-<a href="http://www.nremt.org/about/lead_survey.asp" class="nava">
-
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    LEADS Survey
-  </div>
-</a>
-
-
-<a href="http://www.nremt.org/about/about_exams.asp" class="nava">
-
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    About NREMT<br>
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    Examinations
-  </div>
-</a>
-
-
-<a href="http://www.nremt.org/about/ems_learn.asp" class="nava">
-
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    Learn About EMS
-  </div>
-</a>
-
-<div class="navCell" onclick="expandit(this,5)" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-  <img src="../img/spcr.gif" width="4" height="5" border="0"><img src="../img/plus.gif" width="5" height="5" border="0" style="display:none"><img src="../img/minus.gif" width="5" height="5" border="0" style="display:"><img src="../img/spcr.gif" width="4" height="5" border="0">
-  General Policies
-</div>
-
-<span style="display:">
-  
-  <a href="http://www.nremt.org/about/policy_accommodations.asp" class="nava">
-  
-    <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-  
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Accommodations<br>
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Disability Policy
-    </div>
-  </a>
-  
-  
-  <a href="http://www.nremt.org/about/policy_disciplinary.asp" class="nava">
-  
-    <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-  
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Eligibility,<br>
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Disciplinary<br>
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      and Appeal Policies 
-    </div>
-  </a>
-
-  
-  <a href="http://www.nremt.org/about/policy_exam_review.asp" class="nava">
-  
-    <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-  
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Exam Review<br>
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Policy
-    </div>
-  </a>
-  
-
-  
-  <a href="http://www.nremt.org/about/policy_felony.asp" class="nava">
-  
-    <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-  
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Felony Policy
-    </div>
-  </a>
-  
-   
-  <a href="http://www.nremt.org/about/policy_privacy.asp" class="nava">
-  
-    <div class="navCellSelected">
-  
-      <img src="../img/spcr.gif" width="25" height="5" border="0">
-      Privacy Policy
-    </div>
-  </a>
-</span>
-
-
-<a href="http://www.nremt.org/about/related_links.asp" class="nava">
-
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    Related Links
-  </div>
-</a>
-
-
-<a href="http://www.nremt.org/about/checkEMTStatus.asp" class="nava">
-
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    Check Emergency<br>
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    Medical Personnel<br>
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-	Status
-  </div>
-</a>
-
-
-<a href="http://www.nremt.org/about/annual_reports.asp" class="nava">
-
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    Annual Reports
-  </div>
-</a>
-
-
-<a href="https://www.nremt.org/about/shop.asp?shopFunction=selPurchType" class="nava">
-
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    Purchase<br>
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    NREMT Items
-  </div>
-</a>
-
-
-<a href="https://www.nremt.org/about/purVoucher.asp" class="nava">
-
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    Purchase Vouchers
-  </div>
-</a>
-
-
-<a href="../about/take_survey.asp" class="nava">
-
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    <!--Take a Survey-->
-    RECS
-  </div>
-</a>
-
-<hr size="1" width="100%">
-
-<a href="http://www.nremt.org/about/home.asp" class="nava">
-  <div class="navCell" onmouseover="JavaScript:LmOver(this, 'Navy');" onmouseout="JavaScript:LmOut(this, '#000099');">
-    <img src="../img/spcr.gif" width="13" height="5" border="0">
-    « Home
-  </div>
-</a>
-
-</td><td width="1" valign="top" bgcolor="#CCCCCC"><img src="../img/spcr.gif" width="1" height="10"></td>
-<td valign="top" width="496" bgcolor="#FFFFFF" class="hdr">
-  <table width="496" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td width="30" valign="top"><img src="../img/spcr.gif" width="30" height="365"></td>
-      <td width="426" valign="top">
-        <p><img src="../img/spcr.gif" width="426" height="10"></p>
 		<noscript>
 		
-			<p class="bodya_warn">You will need to turn Javascript on in your 
+			<p class="bodya_warn"><b><i>You will need to turn Javascript on in your 
 			browser in order to use this site.  If you aren't sure how to do this, 
 			please see these <a target="_blank"
-			href="http://www.google.com/support/bin/answer.py?answer=23852">instructions</a>.
+			href="http://www.google.com/support/bin/answer.py?answer=23852">instructions</a>.</i></b>
 			</p>
 		
-			<hr size="1" width="100%" />
 		</noscript>
+
 
 
 <style>
@@ -431,26 +180,21 @@ h3
 -->
 </style>
 
-<p class="hdr">NREMT Privacy Policy</p>
+<p class="hdr">PRIVACY POLICY</p>
 
 <p class="bodya">
-The National Registry of EMTs (NREMT) has
-adopted the following Privacy Policy applicable to personal information that we
-may receive related to certification, licensure, and research.
+The National Registry of EMTs (NREMT) has adopted the following Privacy Policy applicable to personal information that we may receive related to 
+certification, licensure, and research.
 <br><br>
 <b>Certification, Licensure, and Research </b>
 <br>
-We provide national certification services as a
-service to State licensing and regulatory agencies.  These state agencies issue licenses to practice EMS within their
-respective jurisdiction.  We collect and receive personal information
-during the certification process. We use this information in order to evaluate
-candidates ability, to collect payment services, to provide information about
-individuals certification status to licensing agencies, and to conduct research.
-Providing personal data is voluntary, but necessary if you wish to receive certification
-and/or licensure. You may request a waiver of the biometric security procedures for religious or personal reasons by submitting a written appeal to the NREMT at least 14 business days 
-prior to testing.  We will handle and treat all personal information collected
-and received by us in connection with application, examination administration,
-and certification in the manner outlined in this Privacy Policy.
+We provide national certification services as a service to State licensing and regulatory agencies.  These state agencies issue licenses to practice EMS 
+within their respective jurisdiction.  We collect and receive personal information during the certification process. We use this information in order to 
+evaluate candidate's ability, to collect payment services, to provide information about individual's certification status to licensing agencies, and to 
+conduct research.  Providing personal data is voluntary, but necessary if you wish to receive certification and/or licensure. You may request a waiver of 
+the biometric security procedures for religious or personal reasons by submitting a written appeal to the NREMT at least 14 business days prior to testing.  
+We will handle and treat all personal information collected and received by us in connection with application, examination administration, and certification 
+in the manner outlined in this Privacy Policy.
 </p>
 
 <ul>
@@ -459,22 +203,15 @@ and certification in the manner outlined in this Privacy Policy.
 <p class="bodya">
 
 
-<b>Personal Information Collected. </b>The personal data that we collect or
-     receive in registering a candidate ("you") for certification
-     services will include your: name, address, email address, phone/fax numbers,
-     social security number, credit/debit card information, date of birth,
-     employment information, previous examination history, education
-     information, and disciplinary actions (including, but not limited to,
-     revocations and suspensions).&nbsp; For candidate verification and identification purposes, we may collect all or
-     part of the information on a government-issued identification number and your mother’s
-     maiden name. When an electronic certification examination is administered
-     to you, we may collect and score your exam responses and then derive a
-     score and generate a report about your professional certification examination
-     results and will report that information to licensing agencies. Depending
-     upon where your examination takes place and the level of exam that you are taking, we
-     may collect your signature, photographic image, and fingerprint digitally
-     when you arrive at an examination center and you may be audio- and
-     video-taped while taking the exam. 
+<b>Personal Information Collected. </b>
+The personal data that we collect or receive in registering a candidate ("you") for certification services will include your: name, address, 
+email address, phone/fax numbers, social security number, credit/debit card information, date of birth, employment information, previous examination 
+history, education information, and disciplinary actions (including, but not limited to, revocations and suspensions).&nbsp; For candidate verification 
+and identification purposes, we may collect all or part of the information on a government-issued identification number and your mother’s maiden name. 
+When an electronic certification examination is administered to you, we may collect and score your exam responses and then derive a score and generate 
+a report about your professional certification examination results and will report that information to licensing agencies. Depending upon where your 
+examination takes place and the level of exam that you are taking, we may collect your signature, photographic image, and fingerprint digitally
+     when you arrive at an examination center and you may be audio- and video-taped while taking the exam. 
   </p></li>
     
   <li>
@@ -482,26 +219,21 @@ and certification in the manner outlined in this Privacy Policy.
 <p class="bodya">
 
 
-<b>Aggregation of Non-Person-Specific Data.</b> We may statistically aggregate 
-in non-person-specific form exam performance and other information collected 
-during the certification.&nbsp; Such aggregated non-person-specific information 
-may be used for quality control/improvement, operations management, security and 
-marketing purposes and to enhance, develop or improve the certification 
-processes, testing services, examinations and related products and services. By 
-applying for certification through us, you give your consent for us to use this 
-non-person-specific aggregated data as outlined above. </p></li>
+<b>Aggregation of Non-Person-Specific Data.</b> 
+We may statistically aggregate in non-person-specific form exam performance and other information collected during the certification.&nbsp; Such aggregated 
+non-person-specific information may be used for quality control/improvement, operations management, security and marketing purposes and to enhance, develop 
+or improve the certification processes, testing services, examinations and related products and services. By applying for certification through us, you give 
+your consent for us to use this non-person-specific aggregated data as outlined above. </p></li>
   <li>
 
 <p class="bodya">
 
 
-<b>Mailings and Contact.</b> We may use your email and/or postal address to send 
-you information about your certification status and other information that may 
-be of interest to you professionally.&nbsp; We may also contact you regarding 
-participation in research projects that are deemed to be of value to the 
-professional community.&nbsp; You may opt out of receiving information from the 
-NREMT at any time by notifying us in writing or following the opt-out 
-instructions in your electronic profile. </p></li>
+<b>Mailings and Contact.</b> 
+We may use your email and/or postal address to send you information about your certification status and other information that may be of interest to you 
+professionally.&nbsp; We may also contact you regarding participation in research projects that are deemed to be of value to the professional community.&nbsp; 
+You may opt out of receiving information from the NREMT at any time by notifying us in writing or following the opt-out instructions in your electronic 
+profile. </p></li>
   <li>
 
 <p class="bodya">
@@ -538,16 +270,16 @@ situations: (a) in response to a subpoena, court order or legal process, to the
 extent permitted and required by law; (b) to protect your security or the 
 security of other persons, consistent with applicable law; (c) for investigation 
 of possible misconduct; or (d) legitimate research purposes.&nbsp; By applying 
-for National Registration, you give your consent for your personal information 
+for National Certification, you give your consent for your personal information 
 to be transmitted in the situations outlined above. </p></li>
   <li>
 
 <p class="bodya">
 
 
-<b>Public Information.</b> Since National Registration is part of a health care 
+<b>Public Information.</b> Since National Certification is part of a health care 
 credentialing process, and the public has the right to verify the qualifications 
-of the individuals providing care, the NREMT considers your registration status 
+of the individuals providing care, the NREMT considers your certification status 
 to be public information.&nbsp; </p></li>
   <li>
 
@@ -598,17 +330,17 @@ for the electronic transmission of credit/debit card information. </p></li>
 
 <b>Resolution of Concerns.</b> If you have questions or concerns about this 
 Privacy Policy or how we have handled personal data, please contact us at 
-614-888-4484. If we are unable to satisfactorily address your concerns, you 
+1-614-888-4484. If we are unable to satisfactorily address your concerns, you 
 should contact the Data Protection Authority, or other relevant organization, in 
 your area. </p></li>
 </ul>
 <p class="bodya">
 <b>Information from Children
 <br></b>
-This Web site and our certification services are
+This web site and our certification services are
 not directed to children or anyone under the age of thirteen (13). NREMT will
-not, through this Web site or through its professional certification
-examination registration and administration process, knowingly collect,
+not, through this web site or through its professional certification
+examination and administration process, knowingly collect,
 maintain or use any personally identifiable information about anyone under the
 age of thirteen (13).&nbsp;
 
@@ -619,13 +351,13 @@ age of thirteen (13).&nbsp;
 <b>Information Received from Internet Service Providers Through This Web Site
 <br>
 </b>
-This Web site receives information that is automatically
-generated by a user’s Internet service provider (ISP). This information may
+This web site receives information that is automatically
+generated by a user’s Internet Service Provider (ISP). This information may
 include the IP address (a number automatically assigned to a computer by the
 ISP), the associated URLs, domain types, the browser type used to access our
 site, the country, state and telephone area code, the location of the ISP’s
 servers, the pages of our site that the user views during the visit, any search
-terms entered on this site, and the user’s Web site address and email address.
+terms entered on this site, and the user’s web site address and email address.
 This information may be collected for system administration purposes, to gather
 broad demographic information and to monitor the level of activity on the site.
 NREMT does not link IP addresses to personally identifiable information;
@@ -636,7 +368,7 @@ the integrity of our system and for security purposes</p>
 <p class="bodya">
 <b>Cookies </b>
 <br>
-Cookies are small text files that a Web site 
+Cookies are small text files that a web site 
 transfers to your computer’s browser. We use cookies to measure traffic 
 patterns, personalize content and control security. The cookies we use supply 
 non-personally identifiable information, but they may identify your computer, 
@@ -657,13 +389,13 @@ Internet transmissions are done at the user’s own risk.
 
 <b>Links to Other Sites </b>
 <br>
-This site may contain links to other Web sites
-on the Internet. The information practices of those Web sites are not covered
+This site may contain links to other web sites
+on the Internet. The information practices of those web sites are not covered
 by this Privacy Policy, but by their own terms and policies, which you should
 read carefully. These other sites may send their cookies to users, collect data
 or solicit personal information. This Privacy Policy applies only to information
 collected or received in connection with certification and license testing.
-This Privacy Policy is not intended to apply to other Web sites, or other types
+This Privacy Policy is not intended to apply to other web sites, or other types
 of information which may be subject to different privacy policies.
 
 
@@ -684,25 +416,15 @@ updates.
 <b>How to Contact Us </b>
 <br>
 If you have any questions or concerns about this Privacy
-Policy, please contact us at (614) 888-4484. 
+Policy, please contact us at 1 (614) 888-4484. 
 
 
 </p>
 
         <p align="right" class="bodya">
           <a class="topLink" href="#top">Return to Top</a>
-          <br>
         </p>
-      </td>
-      <td width="40" valign="top"><img src="../img/spcr.gif" width="40" height="10"></td>
-    </tr>
-  </tbody></table>
-  <br>
-</td>
-<td width="1" valign="top" bgcolor="#CCCCCC"><img src="../img/spcr.gif" width="1" height="10"></td>
-<td width="125" valign="top">
-  <div align="left" class="bodya">
-    <img src="../img/Command_1.jpg" width="125" height="99">
+  <div>
 
 
 	<script type="text/javascript">
@@ -731,46 +453,42 @@ Policy, please contact us at (614) 888-4484.
 				document.location.href = "https://www.nremt.org/security/login_action.asp?mode=logout";
 		}
 	</script>
-	<a href="http://www.nremt.org/search/search.asp?section=">
-	  <img src="../img/nav_search.gif" width="125" height="18" alt="Search the NREMT Web Site" border="0">
-	</a>
-	
   </div>
-</td>
-        </tr>
-      </tbody></table>
+				        <div class="clearer"></div>			        
+                    </div>                    	
+                    <div class="clearer"></div>
+                </div>
+                <div class="center-header-bottom-int no-bg-image"></div>
+                <div class="center-content">
+                    <div class="center-interior-container"></div>
+                </div>
 
-<table width="768" border="0" cellspacing="0" cellpadding="0" bgcolor="#000099">
-  <tbody><tr>
-    <td bgcolor="#CCCCCC" height="1"><img src="../img/spcr.gif" width="10" height="1" align="absmiddle"></td>
-  </tr>
-  <tr>
-    <td bgcolor="#000099">
-      <div align="center">
-	  		<img src="../img/spcr.gif" width="10" height="10" align="absmiddle"><br>
-        <a class="footerLink" href="http://www.nremt.org/about/home.asp">Home</a><img src="../img/spcr.gif" width="10" height="10"><img src="../img/img_vertgry.gif" width="1" height="8"><img src="../img/spcr.gif" width="10" height="10">
-        <a class="footerLink" href="http://www.nremt.org/about/home.asp">About the NREMT</a><img src="../img/spcr.gif" width="10" height="10"><img src="../img/img_vertgry.gif" width="1" height="8"><img src="../img/spcr.gif" width="10" height="10">
-				<a class="footerLink" href="http://www.nremt.org/EMTServices/home.asp">EMTs &amp; Candidates</a>
-				
-				<br>
-        <img src="../img/spcr.gif" width="10" height="5" align="absmiddle">
-	  	</div>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#000099">
-      <div align="center" class="footerText"><img src="../img/spcr.gif" width="10" height="5" align="absmiddle"><br>
-        © Copyright 2001-2005, National Registry of Emergency Medical Technicians<br>
-        Rocco V. Morando Building, 6610 Busch Blvd., P.O. Box 29233, Columbus, Ohio 43229<br>
-        Phone: (614) 888-4484 <img src="../img/spcr.gif" width="10" height="1"><img src="../img/img_vertgry.gif" width="1" height="8"><img src="../img/spcr.gif" width="10" height="1"> Fax: (614) 888-8920<br>
-      </div>
-			<div align="center">
-				<a class="footerLink" href="mailto:webmaster@nremt.org">webmaster@nremt.org</a><br>
-				<img src="../img/spcr.gif" width="10" height="5" align="absmiddle">
-			</div>
-    </td>
-  </tr>
-</tbody></table>
+                <div class="clearer"></div>
+
+        </div>
+        <div class="clearer"></div>
+        <div class="footer-container">
+            <div class="main-footer">
+            	<!-- Locked out for the moment, will be re-enabled once we have something to link to later
+                Home<div class="footer-sep"><img src="../images/footer-seperator.gif" alt="" /></div>
+                Certification<div class="footer-sep"><img src="../images/footer-seperator.gif" alt="" /></div>
+                Resources<div class="footer-sep"><img src="../images/footer-seperator.gif" alt="" /></div>
+
+                Pressroom<div class="footer-sep"><img src="../images/footer-seperator.gif" alt="" /></div>
+                About<div class="footer-sep"><img src="../images/footer-seperator.gif" alt="" /></div>
+                Events<div class="footer-sep"><img src="../images/footer-seperator.gif" alt="" /></div>
+                News<br />
+                -->
+                <div class="copyright">
+                    © Copyright 2001-2008, National Registry of Emergency Medical Technicians<br>
+
+                    Rocco V. Morando Building. 6610 Busch Blvd., P.O. Box 29233, Columbus, Ohio 43229<br>
+                    Phone: (614) 888-4484 Fax: (614) 888-8920 E-mail: <a href="mailto:webmaster@nremt.org">webmaster@nremt.org</a>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
-</body></html>
+
+</div></body></html>
