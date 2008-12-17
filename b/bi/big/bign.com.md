@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bign.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406101515id_/http%3A//www.bign.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bign.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100022id_/http%3A//www.bign.com/privacy/default.asp) for the most accurate reproduction.*
 
 # National Companies
 
-[Home](https://web.archive.org/web/20070406101515id_/http%3A//www.bign.com/default.asp) > [Privacy Policy](https://web.archive.org/web/20070406101515id_/http%3A//www.bign.com/privacy/default.asp)  
+[Home](https://web.archive.org/web/20081217100022id_/http%3A//www.bign.com/default.asp) > [Privacy Policy](https://web.archive.org/web/20081217100022id_/http%3A//www.bign.com/privacy/default.asp)  
 Privacy Policy
 
 Our Commitment To Privacy   
