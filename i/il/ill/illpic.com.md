@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illpic.com privacy policy that was archived on 2008-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080402233550id_/http%3A//www.illpic.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illpic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142339id_/http%3A//www.illpic.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for iLLpic.com
 
