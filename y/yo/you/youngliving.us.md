@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngliving.us privacy policy that was archived on 2008-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080312115033id_/http%3A//youngliving.us/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngliving.us privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080736id_/http%3A//www.youngliving.us/privacy_policy.asp) for the most accurate reproduction.*
 
 # Young Living Essential Oils
 
