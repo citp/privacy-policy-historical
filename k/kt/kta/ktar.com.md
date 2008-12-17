@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509074342id_/http%3A//www.ktar.com/privacy_statement_ktar.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114756id_/http%3A//www.ktar.com/privacy_statement_ktar.html) for the most accurate reproduction.*
 
 # Privacy Statement - KTAR
 
@@ -19,4 +19,4 @@
 
 **Forums**.  The Site may include forums (such as message boards and chat rooms) that enable users to communicate with each other.  Operator is under no obligation to moderate or edit the forums and will not be responsible for the content or use of any material posted on any forum at the Site.  Operator retains the right to delete at any time and for any or no reason any material posted at the Site.
 
-**Contact Information**.  Questions concerning the Statement or the Site, including any request to review or change your Personal Information, should be directed to jrwebb@ktar.com.
+**Contact Information**.  Questions concerning the Statement or the Site, including any request to review or change your Personal Information, should be directed to jhudson@ktar.com.
