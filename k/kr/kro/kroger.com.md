@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kroger.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628221250id_/http%3A//www.kroger.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kroger.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064840id_/http%3A//www.kroger.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Kroger - Company Information - Privacy Policy
 
@@ -14,13 +14,13 @@ As one of America's largest retail grocery companies, and one of the nation's la
 
 **Kroger carefully safeguards its customers' pharmacy records.**
 
-We have special procedures that protect your pharmacy records. For detailed information on our pharmacy privacy policy see the [Pharmacy Privacy Notice](https://web.archive.org/privacy_pharmacy.htm), which conforms to the guidelines established under the federal law known as the Health Insurance Portability and Accountability Act (HIPAA). 
+We have special procedures that protect your pharmacy records. For detailed information on our pharmacy privacy policy see the [Pharmacy Privacy Notice](https://web.archive.org/company_information/Pages/pharmacy_privacy_policy.aspx), which conforms to the guidelines established under the federal law known as the Health Insurance Portability and Accountability Act (HIPAA). 
 
 **Kroger is especially sensitive to children's use of the Internet.**
 
 Our website is family friendly. We follow all the guidelines established under the federal law known as the Children's Online Privacy Protection Act. 
 
-Kroger does not seek personal information about children under 13 years of age without permission from their parent or legal guardian. We do not provide personal information about children to any third-party except in accordance with other sections of this privacy policy and the [Pharmacy Privacy Notice](https://web.archive.org/privacy_pharmacy.htm). 
+Kroger does not seek personal information about children under 13 years of age without permission from their parent or legal guardian. We do not provide personal information about children to any third-party except in accordance with other sections of this privacy policy and the [Pharmacy Privacy Notice](https://web.archive.org/company_information/Pages/pharmacy_privacy_policy.aspx). 
 
 **Customers have control of their personal information.**
 
@@ -46,7 +46,7 @@ Employees who violate the Company's customer privacy safeguards are subject to d
 
 When you enter personal information online, that information is encrypted using a security protection called Secure Sockets Layer so that information you provide to us is encrypted during transmission over the Internet. 
 
-We strive to collect, use and disclose personal information consistent with the laws of the United States as well as the laws of other countries in which we do business, including the laws of the European Union. For detailed information on our privacy policy with respect to the European Union, please see our [E.U. Safe Harbor Privacy Policy](https://web.archive.org/eusafeharborprivacypolicy.htm). 
+We strive to collect, use and disclose personal information consistent with the laws of the United States as well as the laws of other countries in which we do business, including the laws of the European Union. For detailed information on our privacy policy with respect to the European Union, please see our [E.U. Safe Harbor Privacy Policy](https://web.archive.org/company_information/Pages/eu_safe_harbor_privacy_policy.aspx). 
 
 **We are not responsible for the content or the privacy and security policies and practices of any third-party websites accessible from a link on our websites.**
 
@@ -58,11 +58,11 @@ Customers may access their own readily available and easily retrievable purchasi
 
 As changes occur in Kroger's business, technology and the laws that affect this policy, we will continue to review and revise this policy. The use of information we gather now is subject to the privacy policy in effect at the time of use. We may send you periodic notices of changes to our policy, unless you have instructed us not to contact you, but you should check our website periodically to see the current policy. We will attempt to provide our customers with notice of material changes to this policy by regularly scheduled mailings, cash register receipt messages, email or other means. 
 
-If you have any questions or concerns, please contact one of our customer representatives at 1-866-221-4141; e-mail us through the Customer Comment section of our website at [www.kroger.com](https://web.archive.org/default.aspx) or write us at: 
+If you have any questions or concerns, please contact one of our customer representatives at 1-866-221-4141; e-mail us through the Customer Comment section of our website at [www.kroger.com](https://web.archive.org/) or write us at: 
 
 > Customer Relations  
 > The Kroger Co.  
 > 1014 Vine Street  
 > Cincinnati, OH 45202
 
-This privacy policy was posted and is effective as of June 30, 2004. We reserve the right to change our privacy policy at any time. You can always view the current Privacy Policy by clicking on the Privacy Policy link at the bottom of any page of [www.kroger.com](https://web.archive.org/default.aspx). 
+This privacy policy was posted and is effective as of June 30, 2004. We reserve the right to change our privacy policy at any time. You can always view the current Privacy Policy by clicking on the Privacy Policy link at the bottom of any page of [www.kroger.com](https://web.archive.org/). 
