@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bowlingball.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522035624id_/http%3A//www.bowlingball.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowlingball.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065649id_/http%3A//www.bowlingball.com/info/privacy.html) for the most accurate reproduction.*
 
 # bowlingball.com Privacy Policy at bowlingball.com
+
+[](http://www.addthis.com/bookmark.php)
+
+; 
 
 ## bowlingball.com Privacy Policy
 
