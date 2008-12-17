@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepys.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607125402id_/http%3A//www.sleepys.com/about/about_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepys.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104316id_/http%3A//www.sleepys.com/about/about_privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Sleepy's - The Mattress Professional
 
