@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614030854id_/http%3A//wbal.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217150114id_/http%3A//www.wbal.com/privacy.asp) for the most accurate reproduction.*
 
 # WBAL Radio - Maryland's NEWS TALK SPORTS Station
 
