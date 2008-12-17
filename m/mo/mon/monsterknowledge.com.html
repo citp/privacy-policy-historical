@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the monsterknowledge.com privacy policy that was archived on 2008-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080419115743id_/http%3A//www.monsterknowledge.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the monsterknowledge.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217055711id_/http%3A//www.monsterknowledge.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -9,13 +9,19 @@
 function check_n_submit()
 {
 	var box=document.frm1;
+	if (box.mdob.selectedIndex == 0 || box.ddob.selectedIndex == 0 || box.ydob.selectedIndex == 0)
+	{
+		alert("Please select your birthday.");
+		box.mdob.focus();
+		return false;
+	}
 	if (box.degree.selectedIndex == 0 && box.education_level.selectedIndex == 0 && box.zip.value.length != 5)
 	{
 		alert("Please select your area of interest, education level, or valid 5 digit zip.");
 		box.degree.focus();
 		return false;
 	}
-	else return true;
+	return true;
 }
 </script>
 </head>
@@ -68,8 +74,8 @@ We may use third-party advertising companies to serve ads on our site. These com
           </p></td>
         <td width="3">&nbsp;</td>
 
-        <td rowspan="2" valign="top"><img src="images/4_t.jpg" width="320" height="199"><br>
-          <img src="images/4_b.jpg" width="320" height="184">
+        <td rowspan="2" valign="top"><img src="images/0_t.jpg" width="320" height="199"><br>
+          <img src="images/0_b.jpg" width="320" height="184">
           <table width="97%" border="0" align="left" cellpadding="15" cellspacing="0" background="images/lt_grey.gif">
             <tbody><tr>
               <td>
