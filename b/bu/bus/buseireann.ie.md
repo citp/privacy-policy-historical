@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the buseireann.ie privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629201429id_/http%3A//www.buseireann.ie/bubble.php%3Fid%3D89) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buseireann.ie privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217232820id_/http%3A//www.buseireann.ie/bubble.php%3Fid%3D89) for the most accurate reproduction.*
 
-# Privacy Statement - Bus Éireann
-
-Buy Your Tickets Online  
-Buying your ticket online couldn't be easier with our secure on-line service.
+# Privacy Statement - Travel anywhere in Ireland by bus or coach with Bus Éireann e.g. Dublin, Cork, Galway, etc.
 
   1. CIÉ respects your privacy
   2. Sites covered by this Privacy Statement
