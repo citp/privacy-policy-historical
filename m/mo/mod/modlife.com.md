@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modlife.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501195842id_/http%3A//modlife.com/angelsandairwaves/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modlife.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082120id_/http%3A//modlife.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Angels and Airwaves - Modlife
+# Modlife
 
 The relationship we have built with our customers is very important to us. Modlife Inc. (“Modlife”) is committed to providing our customers with a secure website to shop and will only collect the personal information that is necessary to process your order or provide you with other services as described below.
 
@@ -22,8 +22,7 @@ We will ask you to provide:
 
 
 
-**Subscription Payments**  
-As a subscriber on modlife.com, you will be asked to provide a credit card.  Subscription services require credit/debit card payment.  Although the subscription price may be quoted on a monthly basis, your card will be billed quarterly, with a one-quarter minimum.  Your billing period starts with the date you subscribe and extends for three months.  Your card will be automatically charged at the start of each billing period until you notify us of your wish to cancel your subscription, at accounts@modlife.com.  Modlife must receive notification of your intent to cancel 30 days before the end of your billing period.  Notice less than 30 days before the end of your billing period will not go into effect until the following billing period.
+As a Premium Subscriber on modlife.com, you will be asked to provide a credit card. Subscription services require credit/debit card payment. Although the subscription price may be quoted on a monthly basis, your card will be billed quarterly, with a one-quarter minimum. Your billing period starts with the date you subscribe and extends for three months. Your card will be automatically charged at the start of each three-month billing period until you notify us of your wish to cancel your subscription. All account management is done through your MY MODLIFE page. To access this page, please log in to www.modlife.com and choose MY MODLIFE from the menu. Then click on MY SUBSCRIPTIONS to access all of your subscription information. To cancel a subscription, simply click on "Cancel a subscription" and then choose the one you'd like to cancel.
 
 As our customer, we confidently assure that your personal information is transmitted over secure servers. We only ask for the information necessary to process your order. When we process a credit card transaction, your information is forwarded directly to our credit card processor for authorization. We guarantee you will only pay for authorized items that you have ordered.
 
