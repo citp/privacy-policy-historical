@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415132823id_/http%3A//www.qld.gov.au/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218000515id_/http%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
 
-# Queensland Government : Queensland Government Privacy Statement
+# Queensland Government Privacy Statement : Queensland Government
 
 ## Queensland Government Privacy Statement
 
@@ -12,10 +12,10 @@ This is the Queensland Government's website. We are committed to protecting user
 
 Unless you specifically tell us, the Queensland Government website will never know who you are.
 
-When you visit the Queensland Government's site our web measurement tool and Internet Service Providers record anonymous information for statistical purposes only, including:  
+When you visit the Queensland Government's site our web measurement tool and Internet Service Providers record anonymous information for statistical purposes only, including:  
 
 
-  * the type of browser, computer platform and screen resolution  you are using  
+  * the type of browser, computer platform and screen resolution you are using  
 
   * your traffic patterns through our site such as:  
 
@@ -35,17 +35,17 @@ Our web measurement software uses cookies when collecting this information.
 
 No attempt is or will be made to identify your personal details except in the event of an investigation when a law enforcement agency may exercise a warrant to inspect our service providers' logs.
 
-The transactional services available from this site may use cookies to track business processes. If you are concerned about the use of cookies for transactional requirements please read the relevant site's privacy and security statement before commencing a transaction.  In particular, it is recommended that you read the Smart Service Queensland privacy page at <https://www.smartservice.qld.gov.au/AQ/display/Privacy.htm>[](https://www.smartservice.qld.gov.au/AQ/display/Privacy.htm) before commencing an online transaction using that site.
+The transactional services available from this site may use cookies to track business processes. If you are concerned about the use of cookies for transactional requirements please read the relevant site's privacy and security statement before commencing a transaction. In particular, it is recommended that you read the Smart Service Queensland [privacy page](https://www.smartservice.qld.gov.au/AQ/display/Privacy.htm) before commencing an online transaction using that site.
 
 **Email**
 
-Email correspondence sent to [Government.Gateway@qld.gov.au](mailto:Government.Gateway@qld.gov.au) will be treated as a public record and will be retained as required by the  _Public Records Act 2002_ and other relevant regulations.
+Email correspondence sent to [Government.Gateway@qld.gov.au](mailto:Government.Gateway@qld.gov.au) will be treated as a public record and will be retained as required by the _Public Records Act 2002_ and other relevant regulations.
 
 We will not add any details from your email to a mailing list, and we will not disclose these details to third parties without your consent, unless required by law. We will disclose your email details to the relevant authorities if necessary to protect the safety of the public or to protect the rights and property of the State of Queensland.
 
 Our Internet Service Provider may monitor email traffic for system trouble shooting and maintenance purposes only.
 
-Providing feedback through the email [Government.Gateway@qld.gov.au](mailto:Government.Gateway@qld.gov.au) does not in any way affect your access to Queensland Government websites.
+Providing feedback through the email [Government.Gateway@qld.gov.au](mailto:Government.Gateway@qld.gov.au) does not in any way affect your access to Queensland Government websites.
 
 **Security**
 
