@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leicester.gov.uk privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627031038id_/http%3A//www.leicester.gov.uk/redirectHandler.asp%3Furl%3Dhttp%253A%252F%252Fwww%252Eleicester%252Egov%252Euk%252Findex%252Easp%253Fpgid%253D3522%26lp%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leicester.gov.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217083558id_/http%3A//www.leicester.gov.uk/redirectHandler.asp%3Furl%3Dhttp%253A%252F%252Fwww%252Eleicester%252Egov%252Euk%252Findex%252Easp%253Fpgid%253D3522%26lp%3Dfooter) for the most accurate reproduction.*
 
 # Leicester City Council - Internet Disclaimer
 
