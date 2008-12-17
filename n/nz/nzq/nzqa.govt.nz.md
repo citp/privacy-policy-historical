@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzqa.govt.nz privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516000213id_/http%3A//nzqa.govt.nz/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzqa.govt.nz privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002155id_/http%3A//www.nzqa.govt.nz/about/legal/privacy.html) for the most accurate reproduction.*
 
 # Conditions of use [ NZQA ]
 
@@ -24,4 +24,4 @@ The Privacy Act 1993 gives you the right to see and correct information that NZQ
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognize your browser. Personal information collected through the use of cookies is used by NZQA to monitor usage of its website and will not be made available to third parties in a manner which enables you to be identified. If your browser blocks cookies, NZQA's webs systems will continue to work. 
 
-Page updated: 05 December 2003
+Page updated: Fri Dec 05 00:00:00 NZDT 2003
