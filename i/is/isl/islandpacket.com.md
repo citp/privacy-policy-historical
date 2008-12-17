@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islandpacket.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507074957id_/http%3A//www.islandpacket.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandpacket.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217151519id_/http%3A//www.islandpacket.com/services/privacy) for the most accurate reproduction.*
 
 # islandpacket.com | Privacy Policy
 
@@ -41,6 +41,10 @@ The Island Packet hosts a number of online stores that sell a variety of goods a
 **Cookies**
 
 A "cookie" is a small data text file that is placed in your browser and allows The Island Packet to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and The Island Packet does not use cookies to collect personal information. Instead, they allow us to see which parts of our site you have used so that we can better serve you when you return to our site. Cookies may be used to provide you with information and special opportunities tailored to your interests.
+
+**Third-party Advertising**
+
+We use third-party advertising technology vendors to collect, via includes, cookies and web beacons (1x1 pixels), non-personally identifiable data when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
 **Direct Mailings and "Opting Out"**
 
