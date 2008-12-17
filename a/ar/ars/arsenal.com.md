@@ -1,56 +1,85 @@
-> *The following text is extracted and transformed from the arsenal.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618095631id_/http%3A//www.arsenal.com/sportsappcontroller.jsp%3Fcommand%3DforwardOnly%26nextPage%3D/terms.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arsenal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051634id_/http%3A//www.arsenal.com/terms-of-use) for the most accurate reproduction.*
 
-# Arsenal.com - The Official Arsenal Website
+# Terms of Use & Privacy Policy | Functional pages and redirects | Arsenal.com
 
-Terms of use & Privacy Policy
+If you send any comments, suggestions or materials to us from or concerning this website or our email services, any materials on or in either of them or relating to Arsenal Football Club, its players, management or staff you assign any rights (including intellectual property rights) you may have in them to Arsenal Football Club which may adapt, broadcast, copy, disclose, licence, publish, sell, transmit and do anything else consistent with rights of ownership in any form and media on a royalty free basis anywhere in the world. You also waive and agree not to assert any moral rights in such comments, suggestions or materials.
 
-This website is operated by Arsenal Broadband Limited, London Television Centre, Upper Ground, London, SE1 9LTas a 50/50 joint venture between Granada Media Group Limited, London Television Centre, Upper Ground, London, SE1 9LTand Arsenal Football Club PLC, Arsenal Stadium, Highbury, London, N5 1BU 
+**This website is operated by Arsenal Broadband Limited. The company is based at Arsenal Football Club, Highbury House, 75 Drayton Park, London, N5 1BU. If you have any queries regarding Arsenal TV Online subscriptions or direct debits then please ring: 08705 800 873.**
 
-Though we endeavour to ensure the accuracy of the information placed on this web site we do not warrant or guarantee the accuracy or correctness of such information or of any other content, description or material placed on or referred to on this web site. We do not warrant that the web site, its content or the server that makes it available are error or virus free or free of other harmful components or that your use of this web site will be uninterrupted. 
+Though we endeavour to ensure the accuracy of the information placed on this web site we do not warrant or guarantee the accuracy or correctness of such information or of any other content, description or material placed on or referred to on this web site. We do not warrant that the web site, its content or the server that makes it available are error or virus free or free of other harmful components or that your use of this web site will be uninterrupted.
 
-In no event will we be liable for any loss or damage (whether direct or indirect, including loss of profits or any consequential loss) resulting from or in any way connected with your use of this web site whether caused by negligence or otherwise, We do not limit or exclude our liability for death or personal injury resulting from our negligence. 
+In no event will we be liable for any loss or damage (whether direct or indirect, including loss of profits or any consequential loss) resulting from or in any way connected with your use of this web site whether caused by negligence or otherwise, We do not limit or exclude our liability for death or personal injury resulting from our negligence.
 
-If you are dissatisfied with the web site or any content or materials on it, your sole exclusive remedy is to discontinue your use of the web site. 
+If you are dissatisfied with the web site or any content or materials on it, your sole exclusive remedy is to discontinue your use of the web site.
 
-All content of this web site including but not limited to the text, photographs, images, graphics, illustrations, designs, written and other material including the program and code that operates this web site (together the "content") is protected by copyright, trade mark and/or other proprietary rights owned by or licensed to Arsenal Broadband Limited. Should you choose to download print or copy any content from this web site, you must do so only in accordance with these terms. Such activity is permitted only for your personal use or for supply to third parties for no commercial gain and for their personal use only. In all cases we must be acknowledged as the source of the material. You acknowledge that you have no right to use the content in any other manner. If you want to make additional use of any of our material outside the terms of this disclaimer, you should apply to [query@arsenal.co.uk](mailto:query@arsenal.co.uk) for the appropriate consent and conditions. Unless stated otherwise on this web site all other uses of the content are expressly prohibited. 
+All content of this web site including but not limited to the text, photographs, images, graphics, illustrations, designs, written and other material including the program and code that operates this web site (together the "content") is protected by copyright, trade mark and/or other proprietary rights owned by or licensed to Arsenal Broadband Limited. Should you choose to download print or copy any content from this web site, you must do so only in accordance with these terms. Such activity is permitted only for your personal use or for supply to third parties for no commercial gain and for their personal use only. In all cases we must be acknowledged as the source of the material. You acknowledge that you have no right to use the content in any other manner. If you want to make additional use of any of our material outside the terms of this disclaimer, you should apply to [ **www.arsenal.com/webforms**](http://www.arsenal.com/webforms) for the appropriate consent and conditions. Unless stated otherwise on this web site all other uses of the content are expressly prohibited.
 
-The web site may provide links to other web sites, the content of which is not in our control. Accordingly we cannot accept any responsibility for the materials or offers for goods or services featured on such web sites. Links to such sites are not to be taken as an endorsement of such web sites or as a warranty that such web sites will be free of viruses or other such items of a destructive nature. 
+The web site may provide links to other web sites, the content of which is not in our control. Accordingly we cannot accept any responsibility for the materials or offers for goods or services featured on such web sites. Links to such sites are not to be taken as an endorsement of such web sites or as a warranty that such web sites will be free of viruses or other such items of a destructive nature.
 
-Please note that any goods and services supplied or made available through this site or through sites which are linked to this site are supplied by third parties and not by Arsenal Broadband Limited (unless stated otherwise). Any dealings between you and such third parties, including payment for and delivery of products or services and any other terms, conditions, warranties or representations, acts or omissions associated with such dealings, are solely between you and the third party. You agree not to hold Arsenal Broadband Limited liable for any loss or damage of any kind incurred as the result of any such dealings. 
+Please note that any goods and services supplied or made available through this site or through sites which are linked to this site are supplied by third parties and not by Arsenal Broadband Limited (unless stated otherwise). Any dealings between you and such third parties, including payment for and delivery of products or services and any other terms, conditions, warranties or representations, acts or omissions associated with such dealings, are solely between you and the third party. You agree not to hold Arsenal Broadband Limited liable for any loss or damage of any kind incurred as the result of any such dealings.
 
-These terms and your access to and use of this web site are subject to English law and the exclusive jurisdiction of the English courts. 
+These terms and your access to and use of this web site are subject to English law and the exclusive jurisdiction of the English courts.
 
-PRIVACY POLICY
+**PRIVACY POLICY**
 
-This privacy policy explains what information we will collect about you, how we will use it and the steps we will take to ensure that it is kept secure. We may update this Privacy Policy from time to time, so please check back here regularly. 
+Arsenal Broadband Ltd ("we", "us"). is a company incorporated in England. It is a joint venture between Arsenal Football Club PLC and Kroenke Sports Enterprises.
 
-We take privacy issues relating to users of our web sites seriously. We respect your personal information and will hold that information as required by Data Protection legislation. If you have any questions about this privacy policy or the privacy practices of this site, if you wish us to stop using your data at any time or if your information changes, you can email us at [query@arsenal.co.uk](mailto:query@arsenal.co.uk) or contact Chris Bevan at cbevan@arsenal.co.uk. You are entitled to ask for a copy of your information for which we may charge a small fee and to ask us to correct any inaccuracies. 
+Arsenal Broadband takes the privacy of all its customers and website users very seriously and takes great care with customer and user information. This privacy policy explains what information we will collect about you, how we will use it, and the steps we take to ensure that it is kept secure.
 
-By using this web site you consent to Arsenal Broadband Ltd, Arsenal Football Club PLC, Granada Media Group Limited and selected third parties collecting and using personal information about you on the terms set out in this policy. 
+By using this website you consent to us collecting and using personal information about you in accordance with the terms set out in this policy.
 
-What Information We Collect
+**What information do we collect?**
 
-Information related to your visit to this site (such as which pages you visit, how often you visit and which competitions you enter) and the information you supply when subscribing to Arsenal Plus, becoming a registered user or when entering our competitions (such as your name and e-mail address) will be held and stored worldwide by Arsenal Broadband Limited, Arsenal Football Club PLC, Granada Media Group Limited and selected third parties 
+In order to provide you with our services, we may collect personal information about you from our website, telephone conversations, emails, and written and verbal communications. We may, for example, keep a record of your name, address, delivery address, email address, telephone number, date of birth and credit card details. We may also record details of any disability or health needs you may have at the time of booking an event or service which will take place at our premises to help to ensure your safety.
 
-How We Will Use Your Information
+We may supplement the information that you provide with other information that we receive from Arsenal Football Club PLC, its associated group of companies and third parties.
 
-We will use your information to supply you with the latest information on domestic and international football, help us improve our site and to help us design competitions that most appeal to our users. We may supply aggregated statistics about the use of our site to third parties, but these statistics will not directly identify you. 
+**How do we use your information?**
 
-We will also use your information to tell you about any of our offers, products or services that we think might interest you. From time to time, we will send you targeted advertising and marketing messages on behalf of third parties. We will also share your information with Arsenal Football Club plc, Granada Media Group Limited and reputable third parties (including those outside the European Economic Area) whose products or services we think will really interest you and those third parties will get in touch with you directly to tell you about their products or services. If you do not wish us to use your information as set out in this paragraph you should click on 'No' in the relevant tick boxes during the registration process or email us at [query@arsenal.co.uk](mailto:query@arsenal.co.uk). 
+Any personal data relating to you will be used and recorded by us in accordance with current data protection legislation and this privacy policy.
 
-By supplying us with your information you confirm that you do not consider use of your information in accordance with this Privacy Policy to be a breach of any of your rights under the Telecommunications (Data Protection and Privacy) Regulations 1999. 
+We will primarily use your personal information to provide our services and products to you. We will also use the personal information that we hold to communicate with you, for example: in the event that the services or products you have requested are unavailable, for record keeping purposes, to recover debt and to help us to prevent fraud, to improve the quality of our service, for market research, or to track activity on our website. We may also create an individual profile for you so that we can inform you of services, products, events or special offers that may be of interest to you.
 
-Personal information will not be collected from children under twelve years without parental consent. 
+In the event of the sale of the business or the integration of the business with another party we may disclose your details to advisers or prospective purchasers advisers.
 
-You should be aware that if we are requested by the police or any regulatory or government authority investigating suspected illegal activities to provide your personal details and/or information concerning your activities whilst visiting this site, we shall do so. 
+**Disclosure of your information**
 
-A cookie is a piece of information that is stored on your hard drive by your web browser. We use cookies so as to be able to build up a profile of your interests and preferences and this may be used by us to make your visits to our site more enjoyable. 
+We may share your personal information (including details of your purchasing preferences) with Arsenal Football Club PLC and its group of associated companies. To find out a complete list of companies please contact the Data Protection Officer through any of the channels below. We may also pass on information to associated third parties - each of which may use your information as described under the section "How do we use your Information?"
 
-How We Will Keep Your Information Secure
+We would also like to introduce you to or pass your personal information to other carefully selected organisations with whom we have a business relationship, such as:
 
-Keeping your information secure is very important to us. We will use all reasonable measures to safeguard your data but please note that we cannot guarantee that any data transmission over the Internet is completely secure. 
+1\. Our sponsors, for example O2 and Nike
 
-Sometimes we may need to transfer your personal information to countries which do not provide the same level of data protection as the UK. If we do have a need to make such a transfer, then we will put a contract in place to ensure that your information is adequately protected and your privacy respected. You give us information on the basis that you consent to the transfer of your information abroad for these purposes.
+2\. Financial services partners 
 
-  
+3\. Other organisations whose services we need to use to process and deliver your orders, for credit control and debt collection, to maintain our systems or to comply with legal obligations such as law or court order.
 
+Each of these organisations would like to keep you informed of services, products, events and special offers made available by that organisation. In all cases, we will take great care to ensure that your personal information is only processed in accordance with this Privacy Policy and the law and we only permit your information to be used for authorised purposes.
+
+**Cookies **
+
+In common with many other website operators, we may use standard technology called 'cookies' on this site. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies enable us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website. Our cookies also enable us to enhance your visitor experience by storing information about the products and services that you select between visits so that we can provide you with focused information each time you visit our website. Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored, however if you do turn cookies off this will limit the service that we are able to provide to you.
+
+**Security Information**
+
+We take the security of your personal information seriously. When you submit your credit card details, we use industry standard Secure Sockets Layer (SSL) encryption technology to guard your information. In addition, we have security procedures in place to protect our customer database from loss and misuse, and only allow access to it when absolutely necessary, and then under strict guidelines as to what use may be made of the personal information contained within it.
+
+This website contains links to other websites. We are only responsible for the privacy practices on this site. We recommend that you check the privacy and security policies and procedures of each and every other website that you visit.
+
+**What to do if you do not want to receive marketing information**
+
+You have the right to prevent marketing information being sent direct to you. If you prefer not to receive information from us or from any other organisation to which we may disclose your personal information, you can opt out of further marketing by clicking the relevant boxes on the screen upon which you provide information or by writing to us by mail or email (see the section "How to contact us" below). Please note, however, that if you do opt out, we and/or they will be unable to keep you informed of new services, products, events or special offers that may interest you and our ability to inform you of ticketing opportunities may be affected.
+
+**Changes to this Privacy Policy**
+
+We reserve the right to change our security and privacy policies at any time. Accordingly we recommend that you check this page periodically in order to review our current policies.
+
+**Updating and correcting information**
+
+You may correct your personal information by emailing us at [**www.arsenal.com/webforms**](http://www.arsenal.com/webforms) or by changing your profile on our website. Please include your name, address, and/or email address when you contact us. We would encourage you to promptly update your personal information if it changes.
+
+**Your rights to access your personal information**
+
+You have the right to receive a copy of the personal information that we hold about you.
+
+Print this page [Email to a friend](https://web.archive.org/recommend-a-friend?page=/terms-of-use)
