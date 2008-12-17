@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the hamiltonbeach.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609150015id_/http%3A//www.hamiltonbeach.com/privacy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamiltonbeach.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217091347id_/http%3A//www.hamiltonbeach.com/privacy/privacy.php) for the most accurate reproduction.*
 
-# Hamilton Beach:
-
-| 
-
-HAMILTON BEACH BRANDS, INC.  
-PRIVACY POLICY
+# Hamilton Beach: Privacy
 
 **Last Updated: September 7, 2006**
 
@@ -23,7 +18,6 @@ Your privacy concerns are important to us at Hamilton Beach Brands, Inc. ("HBB")
 
 * * *
 
-****
   1. **WHAT INFORMATION WE COLLECT AND HOW WE USE THAT INFORMATION**  
 HBB does not collect any personally identifiable information from you (e.g., name, address, telephone number, e-mail address) unless you voluntarily choose to disclose such information. We will not sell, trade or rent your personally identifiable information to third parties. Your information may be used for research on usage patterns, product development, online site customization, targeted marketing, customer satisfaction surveys, customer purchasing habits or other purchasing information. If you do not want your personally identifiable information collected, do not submit it to us. 
 
@@ -51,19 +45,15 @@ HBB has and may add links to third party sites. Because such linked sites are no
 
 Advertisements: This Web Site may provide advertisements to its users. By clicking on an ad, you may be linking to a third party Web Site that is not controlled by HBB, and may have different information gathering practices than HBB. 
 
-****
   2. **HOW WE PROTECT YOUR INFORMATION**  
 Transmission Errors or Unauthorized Acts: Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, HBB cannot ensure or warrant the security of any information you transmit to us or any information provided by our on-line products or services, and you do so at your own risk. HBB will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties. However, once we receive your transmission, we do our best to ensure its security on our systems by making reasonable efforts to protect the information. Security: Any information provided to HBB is treated with care and discretion. When information is shared, HBB will take a proactive approach to ensure the information is kept private and not misused. 
-****
   3. **YOUR CONTROL OF YOUR INFORMATION**  
 Your Choice: HBB respects your decisions about the collection and use of your information. You have the opportunity to elect to receive information about special offers from us. Based on this choice, you may receive information from HBB or a trusted third party. Every such communication we send to you will contain instructions on how to cancel receiving similar information in the future. By accessing and using this Web Site, you consent to the use of your personal information by HBB in the manner specified in this Privacy Policy. 
 
 Update Information: If you have given HBB information in the past and now wish to change or delete such information, please contact us at: Attn: Webmaster, Hamilton Beach, Inc., 4421 Waterfront Drive, Glen Allen, Virginia 23060. Or you can contact us by telephone at 1-877-474-1122 (US) or (804) 273-9777. Although HBB will make reasonable efforts to make the changes you have requested, we may be unable to update other types of information provided to us, such as aggregate or cookie information or information that has been stored in our system. 
 
-****
   4. **HBB'S OWNERSHIP OF INFORMATION**  
 All opinions, ideas, suggestions, and other feedback submitted to this Web Site, may be used by HBB without any restriction and free of charge, and nothing contained in this policy shall limit or otherwise affect this. There may be instances where HBB requests or permits the submission of your opinions/ideas. In such instances you will be required to agree to the terms of an HBB prepared agreement related to the provision of such information prior to its submission. 
-****
   5. **QUESTIONS ABOUT THE PRIVACY POLICY**  
 Privacy and security is important to us all. We pursue a full-disclosure approach to responsibly care for the information you have entrusted with us, and we depend on information sharing as our principal means to best serve you. This is why we are committed to building a trusting relationship with you. We will continually monitor customer feedback and seek to improve our services to meet your needs. If you have any questions about this Privacy Policy, the practices of this Web Site, or your dealings with the Web Site, or would like to provide comments, you can send us an e-mail at [customerservice@hamiltonbeach.com](mailto:customerservice@hamiltonbeach.com), by mail to Attn: Webmaster, Hamilton Beach Brands, Inc., 4421 Waterfront Drive, Glen Allen, Virginia 23060. Or you can contact us by telephone at 1-877-474-1122 (US) or (804) 273-9777. 
 
