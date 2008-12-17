@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626221422id_/http%3A//somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217012916id_/http%3A//www.somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
 
 # Something Awful's Privacy Policy
 
@@ -62,17 +62,17 @@ Questions, comments, or inquiries may be sent to [webmaster@somethingawful.com.]
   
 
 
-  *   * [Double Dare](http://www.somethingawful.com/d/rom-pit/double-dare-nintendo.php "Double Dare")  
-**Rom Pit**
-
-Hey buddy, miss your childhood? Not anymore you don't!
-
-  * 
-
-  * [June 23, 2008](http://www.somethingawful.com/d/forum-fridays/ff06-23-08.php "June 23, 2008")  
+  *   *   * [December 15, 2008](http://www.somethingawful.com/d/forum-fridays/ff12-15-08.php "December 15, 2008")  
 **Forum Friday's Monday**
 
 Some of the best threads of the week from the SA Forums.
 
-  *   * 
+
+
+  *   * [Chain of Fools](http://www.somethingawful.com/d/garbage-day/stereoside-saving-abel.php "Chain of Fools")  
+**Garbage Day**
+
+Amazon's personalized recommendations unearth hidden horrors.
+
+  * 
 
