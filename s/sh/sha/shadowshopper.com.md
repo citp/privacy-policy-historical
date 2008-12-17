@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadowshopper.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614225727id_/http%3A//www.shadowshopper.com/common_questions.cfm%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadowshopper.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093111id_/http%3A//www.shadowshopper.com/common_questions.cfm%23privacy_policy) for the most accurate reproduction.*
 
 # ShadowShopper | Common Questions | Mystery shopper and Secret shopper shopping jobs delivered daily!
 
@@ -6,7 +6,7 @@
 **Common Questions from Shoppers**
 
 **What is mystery shopping? How much can I earn? What are the requirements? How much do assignments pay?**  
-All of these questions and more are answered in our _Mystery Shopping 101_ article. [Click here](https://web.archive.org/web/20080614225727id_/http%3A//www.shadowshopper.com/university_101.cfm) to find out more about mystery shopping in general.
+All of these questions and more are answered in our _Mystery Shopping 101_ article. [Click here](https://web.archive.org/web/20081217093111id_/http%3A//www.shadowshopper.com/university_101.cfm) to find out more about mystery shopping in general.
 
 **I can't remember my password. What do I do?**  
 Simply click on the "forget password?" link at the top of any page on the website. A small popup window will appear. Type in your email address and hit submit and your password will be emailed to you immediately.
@@ -22,19 +22,19 @@ You can either click on the link at the bottom of the email notifications we sen
 If we send you 3 or more emails that are returned as undeliverable, we are required to turn your job notification preference to 'off'. Returned emails can be caused by either having a full mailbox (over your disk space limit) or by mis-indentifying the job notification emails as spam with some spam-blocking software. To turn the notification feature back on, simply log into the site and go to the "My Preferences page." From there, click 'Yes' on the option that says 'Send automatic job notification emails to my inbox' and click the button that says 'Click Here to Update.'
 
 **I applied for a job but never heard back from you. Why?**  
-Remember, we are NOT a mystery shopping company. We are a mystery shopping matching company. We DO NOT hire shoppers, our members (mystery shopping companies, merchandising companies, etc.) do. We send you the job opportunities and give you information about how to win assignments. Make sure to [take our tour](https://web.archive.org/web/20080614225727id_/http%3A//www.shadowshopper.com/university_tour.cfm) and read our article on [how to win assignments](https://web.archive.org/web/20080614225727id_/http%3A//www.shadowshopper.com/university_win_assignment.cfm).
+Remember, we are NOT a mystery shopping company. We are a mystery shopping matching company. We DO NOT hire shoppers, our members (mystery shopping companies, merchandising companies, etc.) do. We send you the job opportunities and give you information about how to win assignments. Make sure to [take our tour](https://web.archive.org/web/20081217093111id_/http%3A//www.shadowshopper.com/university_tour.cfm) and read our article on [how to win assignments](https://web.archive.org/web/20081217093111id_/http%3A//www.shadowshopper.com/university_win_assignment.cfm).
+
+**Will ShadowShopper.com ever send a job to me via regular mail?**  
+Never. We will always contact you via email. If you do receive a letter in the mail claiming to be from ShadowShopper (with a realistic looking logo) and asking you to mystery shop by cashing a large check THROW THAT OFFER AWAY. It is a Nigerian check scam ring pretending to be Shadowshopper. The scam is run out of Canada and the UK, and the check will bounce. Remember, ShadowShopper provides you with hundreds of job opportunities, and for your protection, we do it only via email and our website.
 
 **Does ShadowShopper operate in Canada, UK, Australia, Mexico or other countries?**  
 We do operate in Canada and have many job opportunties for our friends up north. We do not, however, have any opportunities in the UK, Australia, Mexico or anywhere else outside of the US and Canada.
 
 **I see a term or abbreviation I don't understand. What does it mean?**  
-Check out our definitions article in the shopper university by [clicking here](https://web.archive.org/web/20080614225727id_/http%3A//www.shadowshopper.com/university_definitions.cfm). Most common abbreviations and confusing terms are defined there.
+Check out our definitions article in the shopper university by [clicking here](https://web.archive.org/web/20081217093111id_/http%3A//www.shadowshopper.com/university_definitions.cfm). Most common abbreviations and confusing terms are defined there.
 
 **What is your phone number so I can call you with my questions?**  
 We do not offer phone support. Instead, we handle all support requests and questions via email only. We do this to keep our costs down and so we have a record of members questions and comments.
-
-**I'm a little skeptical. How do I know you're a real company and not a scam?**  
-The truth of the matter is nothing we write actually proves that we're real, and not a scam. We can tell you that we have been voted the top referral service of the year in both 2003 and 2004 by the National Center for Professional Mystery Shopping and Merchandising, have been in business since 2001, have hundreds of thousands of members, are located in a real office in Houston, Texas and have 7 employees. 
 
 **I want to join but I don't want to enter my credit card information online. Can I pay another way?**  
 Yes you can. We currently have two alternate payment options. Both require that you sign up for our free Bronze membership first so that all your information will be in our system. Then, when we have receipt of funds, we'll upgrade your account and notify you.
@@ -54,7 +54,7 @@ ShadowShopper
 Carson City, NV 89701-3202
 
 **Do Gold members really get opportunities to get paid to mystery shop a cruise?**  
-YES! ShadowShopper exclusively offers mystery shopping cruise jobs regularly to our Gold and Lifetime members. We do this through partnerships we've established with several major luxury cruise lines to help them improve their customer's experience onboard. Additionally, our members may be chosen to mystery shop the services and shops onboard during the cruise. [Click here](https://web.archive.org/web/20080614225727id_/http%3A//www.shadowshopper.com/university_cruise.cfm) to learn more about these exciting opportunities.
+YES! ShadowShopper exclusively offers mystery shopping cruise jobs regularly to our Gold and Lifetime members. We do this through partnerships we've established with several major luxury cruise lines to help them improve their customer's experience onboard. Additionally, our members may be chosen to mystery shop the services and shops onboard during the cruise. [Click here](https://web.archive.org/web/20081217093111id_/http%3A//www.shadowshopper.com/university_cruise.cfm) to learn more about these exciting opportunities.
 
 We're currently investigating additional job opportunities for our Gold and Lifetime members to mystery shop casinos, vacation packages, sporting events and much more. We'll notify all our members as these new partnerships take effect.
 
