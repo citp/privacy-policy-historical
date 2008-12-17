@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muvee.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214020800id_/http%3A//www.muvee.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muvee.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061438id_/http%3A//www.muvee.com/en/privacy) for the most accurate reproduction.*
 
 # muvee - Instant Home Movie-Making & Photo Slideshow Software - Copyright Notice and Privacy Statement
 
@@ -111,3 +111,7 @@ Netscape Navigator: <http://www.netscape.com/legal_notices/cookies.htm>
 ## Third-party media companies
 
 muvee may use third-party media companies to place ads for muvee products or services on other companies’ websites. muvee may also place third-party ads on the muvee.com or related websites. If you view a Web page where muvee ads appear, the online media company may place a cookie on your computer. This allows the online media company to recognize the computer when it is used to return to that site, or to measure advertising response. This data is anonymous and is not linked to personal data on the user’s computer or any muvee databases.
+
+## External Email Disclaimer
+
+Any email sent by muvee is intended only for the named person or entity to which it is addressed and contains valuable business information that is proprietary, privileged, confidential and/or otherwise protected from disclosure. If you receive an email from muvee in error, any review, use dissemination, distribution or copying of this email is strictly prohibited. Please notify the sender immediately of the error and please delete the email from your system, retaining no copies in any media. We appreciate your cooperation. 
