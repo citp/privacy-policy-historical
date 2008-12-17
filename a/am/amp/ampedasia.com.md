@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2008-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080212022258id_/http%3A//www.ampedasia.com/articles/15/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062033id_/http%3A//www.ampedasia.com/articles/15/index.html) for the most accurate reproduction.*
 
-# Asian Entertainment | Asian Celebrities | Asian Girls | Asian Music Videos | Asian Videos | Drama Series |
+# Amped Asia Articles | Interviews | Opposite Sex | Style | Editorials | Entertainment
 
   
 At Amped Asia, we take your privacy seriously. This page outlines our policies regarding any information that you may send us. 
