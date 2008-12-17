@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the californiamoves.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516025401id_/http%3A//www.californiamoves.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiamoves.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050333id_/http%3A//www.californiamoves.com/privacy.aspx) for the most accurate reproduction.*
 
-# Coldwell Banker Residential Brokerage presents CaliforniaMoves.com the real estate site serving all of Northern and Southern California, Los Angeles, the San Francisco Bay Area, San Diego, Sacramento, Orange County, Silicon Valley, Santa Barbara, San Jose, Ventura, Tahoe, Monterey
+# Coldwell Banker Residential Brokerage presents CaliforniaMoves.com. California Real Estate Listings, Multiple Listing Service MLS, California Homes for Sale, New Homes and Houses for Sale
 
 **PRIVACY POLICY**
 
@@ -11,7 +11,7 @@ To that end, Coldwell Banker gathers two types of information about You: 1) data
 
 However, be assured that Coldwell Banker will not disclose Personal Information (as defined herein) to third parties without Your consent, except as may be noted in this Privacy Policy or disclosed to You when the information is submitted. 
 
-[Privacy Notice to California Customers](https://web.archive.org/web/20080516025401id_/http%3A//www.californiamoves.com/CaliforniaPrivacyPolicyRights.aspx)
+[Privacy Notice to California Customers](https://web.archive.org/web/20081217050333id_/http%3A//www.californiamoves.com/CaliforniaPrivacyPolicyRights.aspx)
 
 **_How Does Coldwell Banker Collect Information?_**
 
@@ -45,7 +45,7 @@ _Third Party & Aggregate Data_: From time to time, You may be offered the opport
 
 _Other_ : Coldwell Banker may also disclose account information in special cases when We have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Our Terms of Use, or may be causing injury to or interference (either intentionally or unintentionally) with any of Coldwell Banker's rights or property, other Users, or anyone else. Coldwell Banker may disclose or access account information when We believe in good faith that the law requires it and for administrative and other purposes that We deem necessary to maintain, service, and improve Our products and services. 
 
-**How Can You Control The Usage Of Information?**
+**How Can You Control The Usage Of Information? **
 
 In case You change Your mind or some Personal Information changes (such as Your zip code or e-mail address), We will try to provide a way to correct, update or remove the Personal Information that You give us. We also give You the opportunity to control the communications We direct to You. If a User wishes to update Personal Information or objects to any usage provided herein for any reason, he/she may e-mail the requested change to: [webadmin@camoves.com](mailto:webadmin@camoves.com)
 
@@ -60,6 +60,19 @@ Please keep in mind that whenever You give out information on-line (for example,
 **_Is Information Secure From Others Using The Coldwell Banker Web Site?_**
 
 The security of all information associated with Our Users is an important concern to Us. We exercise care in providing secure transmission of Your information from Your computer to Our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while We strive to protect Your information, Coldwell Banker and Coldwell Banker-affiliates can't ensure or warrant the security of any information You transmit to Us or from Our on-line products or services, and You do so at Your own risk. Once We receive Your transmission, Coldwell Banker uses industry standard efforts to safeguard the confidentiality of Your information, such as firewalls and Secure Socket Layers (SSL). However, "perfect security" does not exist on the Internet. 
+
+**_Advertising Networks_**
+
+We send to your web browser some of the advertisements you see when you use our network of web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the web site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always, remember we authorize our third-party ad servers to employ anonymous cookies only for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any Personal Information about you. 
+
+**_Advertising Networks_**
+
+We send to your web browser some of the advertisements you see when you use our network of web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the web site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always, remember we authorize our third-party ad servers to employ anonymous cookies only for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any Personal Information about you. 
+
+**_Opting Out of Third-Party Ad Servers_**
+
+If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's web site individually and opt out (if they offer this capability). Currently, we have relationships with the following third-party ad networks (click to visit their Web sites and review their privacy statements):   
+24/7 Real Media, Inc. <http://www.247realmedia.com/privacy.html>
 
 **YOUR ACCEPTANCE OF THE TERMS OF THIS PRIVACY POLICY**
 
