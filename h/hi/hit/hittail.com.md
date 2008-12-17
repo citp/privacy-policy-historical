@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hittail.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024175006id_/http%3A//www.hittail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hittail.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050554id_/http%3A//www.hittail.com/privacy) for the most accurate reproduction.*
 
 # HitTail - Privacy Policy
 
-Last updated March 19, 2007
+Last updated May 14, 2008
 
 CKC Communications, Inc. d/b/a HitTail (HitTail) understands how important the privacy of personal information is to its users. This Privacy Policy will tell you the minimal information that is collected through your use of this website. It will explain the choices you have about how your personal information is used and how we protect that information. It will also explain the security of the information we collect on your behalf when you register for a HitTail account.
 
-HitTail contains links to other sites. Once you enter another website, please be aware that HitTail is not responsible for the privacy practices of such other sites. The only information we normally collect will be non-personal information through the use of cookies or web beacons (explained below). Non-personal information is defined as data that is not traceable back to any individual and cannot be used to identify an individual, e.g. the keyword phrase you searched on to find this website. However, if you choose to contact us, then you will be submitting personally identifiable information in the form of your name and email address along with anything else you volunteer. 
+HitTail contains links to other sites. Once you enter another website, please be aware that HitTail is not responsible for the privacy practices of such other sites. The only information we normally collect will be non-personal information through the use of cookies or web beacons (explained below). Non-personal information is defined as data that is not traceable back to any individual and cannot be used to identify an individual, e.g. the keyword phrase you searched on to find this website. However, if you choose to contact us, then you will be submitting personally identifiable information in the form of your name and email address along with anything else you volunteer.
 
 ### NON-PERSONAL INFORMATION WE COLLECT ABOUT YOU
 
@@ -50,7 +50,9 @@ When you create a free HitTail account, you must provide us with a username, ema
 
 HitTail processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
-E. Subscribing to a HitTail Basic High Volume or Plus Account
+E. Subscribing to a HitTail Basic High Volume, Plus or Premium Account
+
+When you subscribe to a HitTail Basic High Volume, HitTail Plus or HitTail Premium, you must provide us with a username, email address, and URL and in the case of HitTail Premium your Google AdWords login username and password. This is the minimum information needed for us to provide the selected HitTail service. When you create an account, you can optionally provide us with additional information such as your real name, company, or title. Registering an account with this data is done through secure sockets layer technology (SSL). SSL is a proven secure communication protocol that lets your browser automatically encrypt, or scramble, data before you send it to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 Under no circumstances will we hold sensitive payment details such as your credit card number, expiration date or security code. All transactions are handled through our accredited payment bureau, PayPal. All communication between HitTail and PayPal occur through secure sockets layer technology (SSL). SSL is a proven secure communication protocol that lets your browser automatically encrypt, or scramble, data before you send it to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. For more information on PayPal's privacy policy please refer to http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside and https://www.paypal.com/row/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy.
 
@@ -62,7 +64,7 @@ We cannot be held accountable for the security of your information sent through 
 
 ### SECURITY OF INFORMATION WE COLLECT ON YOUR BEHALF
 
-At no time will the contents of your information collected on your behalf by subscribing for a HitTail account be shared with third parties. HitTail does not use any content collected and stored on your behalf. The totality of information collected on your behalf (e.g. the total number of website visits tracked by HitTail) will be monitored by HitTail so that we can bill you according to the amount of resources required by your use of the HitTail service.
+At no time will the contents of your information collected on your behalf by subscribing for a HitTail account be shared with third parties. HitTail does not use any content collected and stored on your behalf. The totality of information collected on your behalf (e.g. the total number of website visits tracked by HitTail, or the number of keyword transfers into your Google Adwords account) will be monitored by HitTail so that we can bill you according to the amount of resources required by your use of the HitTail service.
 
 HitTail may provide aggregate quantitative data to third parties, including but not limited to the number of users of the HitTail service, the number of search hits recorded by HitTail, the number of keywords collected, the number of suggestions delivered, or the averages of HitTail users thereof. Please see below for more information on aggregate data.
 
@@ -112,6 +114,9 @@ Based upon the personally identifiable information you provide us when contactin
 
 ### CONTACT INFORMATION
 
-If you have any questions regarding these Terms of Use, please contact HitTail at webmaster@hittail.com or at HitTail Privacy Policy, c/o Connors Communications, 7 W. 22nd Street, New York, NY 10010, USA.
+If you have any questions regarding these Terms of Use, please contact HitTail at service@hittail.com or at HitTail Privacy Policy, c/o Connors Communications, 7 W. 22nd Street, New York, NY 10010, USA.
 
-View [Terms of Service](https://web.archive.org/terms/).
+View [Terms of Service](http://www.hittail.com/terms/).
+
+  
+
