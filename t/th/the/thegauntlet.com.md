@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegauntlet.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617144839id_/http%3A//www.thegauntlet.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegauntlet.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055215id_/http%3A//www.thegauntlet.com/policy.php) for the most accurate reproduction.*
 
 # The Gauntlet - Heavy Metal News, lyrics, ringtones, wallpaper, photos, bios, pictures, metal radio, setlists
 
