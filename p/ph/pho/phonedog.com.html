@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the phonedog.com privacy policy that was archived on 2008-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516082155id_/http%3A//www.phonedog.com/content/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phonedog.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217091257id_/http%3A//www.phonedog.com/content/privacy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy | PhoneDog.com</title>
@@ -8,8 +8,16 @@
 <meta name="description" content="Privacy policy">
 <meta name="keywords" content="privacy policy">
 <meta name="ROBOTS" content="INDEX,FOLLOW">
-<script language="javascript" src="/r/jquery-1.2.3-min-plugins.js"></script>
-<script language="javascript" src="/r/jquery.idTabs.pack.js"></script>
+<script src="http://www.google.com/jsapi"></script>
+<script language="javascript">
+    // Load jQuery
+    google.load("jquery", "1.2.6");
+    google.load("jqueryui", "1.5.2");
+</script>
+<script language="javascript" src="/r/jquery.scrollTo-min.js"></script>
+<script language="javascript" src="/r/jquery.serialScroll-min.js"></script>
+<script language="javascript" src="/r/reflection.js"></script>
+<script language="javascript" src="/r/audio/audio-player.js"></script>
 <script language="javascript" src="/r/common.js"></script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -20,13 +28,17 @@ var pageTracker = _gat._getTracker("UA-193000-6");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<link href="http://www.phonedog.com/blog/feeds/rss_articles.aspx" title="RSS 2.0" type="application/rss+xml" rel="alternate">
+<link href="http://feeds.phonedog.com/phonedog_cellphoneblog" title="RSS 2.0" type="application/rss+xml" rel="alternate">
 <link type="text/css" rel="stylesheet" href="/r/style_0.css">
 </head>
 
 <body>
+<script language="javascript" src="http://static.addtoany.com/menu/page.js"></script>
 
 
+<div id="header_tagline">
+	Ask Noah <span><a href="/community/forums.aspx">Questions</a></span> in our <span><a href="/community/forums.aspx">forums</a>&nbsp;and don't forget to <span><a href="/tv/default.aspx">watch</a></span> PhoneDog TV&nbsp;every Wednesday</span>	
+</div>
 
 <div id="header_wrapper">
 	<div id="header_logo"><a href="/default.aspx"><img src="/img/t2/logo.gif" border="0" alt="PhoneDog.com homepage"></a></div>
@@ -34,33 +46,62 @@ pageTracker._trackPageview();
 	
 		<div id="header_nav">
 			<div id="header_nav_body">
+				<a href="/community/login.aspx"><b>Register or Sign in</b></a> &nbsp;|&nbsp; 
 				<a href="/content/aboutus.aspx">About us</a> &nbsp;|&nbsp;
 				<a href="/content/ourpromise.aspx">Our promise</a> &nbsp;|&nbsp;
 				<a href="/content/questions.aspx">Help / questions</a>
 			</div>
 		</div>
-		<form action="/content/search.aspx" style="margin:0;">
+		
 		<div id="header_search">
-			<div id="header_search_body">
-				<div id="header_search_txt">Search:</div> <input name="search" type="text" style="width:150px;"> <select name="sitesection"><option selected="" value="">all of phonedog.com</option><option value="2318C2A05E7140A88FE471732CF81128">Cell phones</option><option value="wlac">Cellular accessories</option><option value="FF7C0E1A621842EFB2A981DBBA6A4758">Used cell phones</option><option value="9DDCECA86640406DB60E26FA64D84EF4">Mobile content</option><option value="D8DF96DB7CAB4518AD62E76046310A7B">Long distance</option><option value="7817A175EA234A9DBFA1A7A2C513C7DE">Local service</option><option value="FA1BFA84AC314F0E8030CE6C08F1AE9C">Dial-arounds</option><option value="29A9B29559E54B88A1C2AA9D0F60268D">Voice over IP</option><option value="EA3438BA0C044EF7BCFDCD0ED2A85487">News &amp; Articles</option><option value="0B2DDB1225374642952B21696F5BCA34">Questions &amp; answers</option><option value="forums">Forums</option></select> <input type="image" src="/img/icons/buttongo.gif" border="0">
+			<div id="header_search_body">		
+				<form action="/content/search.aspx" id="cse-search-box">
+				<div>
+					<input type="hidden" name="cx" value="006183000515858873425:sl7qp7ylf4k">
+					<input type="hidden" name="cof" value="FORID:9">
+					<input type="hidden" name="ie" value="UTF-8">
+					<input type="text" name="q" size="46">
+					<input type="submit" name="sa" value="Search">
+				</div>
+				</form>
+				<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 			</div>
-		</div>
+		</div>		
 	
-	</form>
 </div>
 
 <div id="tabs_wrapper">
 	<div id="tabs">
-		<ul><li><a href="/default.aspx">Home</a></li><li><a href="http://community.phonedog.com/forums/default.aspx">Forums</a></li><li><a href="/cell-phone-shopping/default.aspx">Cell Phones</a></li><li><a href="/long-distance/default.aspx">Long Distance</a></li><li><a href="/local-long-distance/default.aspx">Local Service</a></li><li><a href="/voice-over-ip/default.aspx">VoIP</a></li><li><a href="/dial-around/default.aspx">Dial-Arounds</a></li><li><a href="/t1-services/default.aspx">T1 Quotes</a></li><li><a href="/questions/default.aspx">Help</a></li></ul>	
-	</div>	
+		<ul><li><a href="/default.aspx">Home</a></li><li><a href="/cell-phone-research/compare-phones.aspx">Phone Finder</a></li><li><a href="/cell-phone-research/compare-plans.aspx">Plan Finder</a></li><li><a href="/cell-phone-shopping/specials.aspx">Shop</a></li><li><a href="/cell-phone-list/new-phones.aspx">New Phones</a></li><li><a href="/cell-phone-research/blog/default.aspx">News</a></li><li><a href="/cell-phone-tips-and-tricks/default.aspx">Tips</a></li><li><a href="/cell-phone-reviews/default.aspx">Reviews</a></li><li><a href="/cell-phone-videos/default.aspx">Videos</a></li><li><a href="/cell-phone-podcasts/default.aspx">Podcasts</a></li><li><a href="/community/forums.aspx">Forums</a></li><li><a href="/tv/default.aspx">TV</a></li><li><a href="/sweepstakes/default.aspx">Win</a></li><li id="current"><a href="/content/services.aspx">More »</a></li></ul>	
+	</div>
 </div>
 
 <div id="subnav_wrapper">
 	<div id="subnav">
-		<ul><li><a title="About Us" href="/content/aboutus.aspx">About Us</a></li><li><a title="Our Promise" href="/content/ourpromise.aspx">Our Promise</a></li><li><a title="Our Services" href="/content/services.aspx">Our Services</a></li><li><a title="In the News" href="/content/inthenews.aspx">In the News</a></li><li><a title="Testimonials" href="/content/testimonials.aspx">Testimonials</a></li><li><a title="Contact Us" href="/content/questions.aspx">Contact Us</a></li></ul>
+		<ul><li><a title="Our Comparisons" href="/content/services.aspx">Our Comparisons</a></li><li><a title="Long Distance" href="/long-distance/default.aspx">Long Distance</a></li><li><a title="Local Service" href="/local-long-distance/default.aspx">Local Service</a></li><li><a title="VoIP" href="/voice-over-ip/default.aspx">VoIP</a></li><li><a title="Dial-Around" href="/dial-around/default.aspx">Dial-Around</a></li><li><a title="Conference Calling" href="/content/conference-calling.aspx">Conference Calling</a></li><li><a title="T1's" href="/t1-services/default.aspx">T1's</a></li><li><a title="Help" href="/questions/default.aspx">Help</a></li></ul>
 	</div>	
 </div>
 
+<div class="subnav_leaderboard"><div class="subnav_leaderboard_body"><div class="txtlink"><script type="text/javascript" src="http://ocp.com.com/ad.js"></script>
+<script type="text/JavaScript">
+<!--
+var CN_AD = new Object();
+CN_AD.AD_SZ = "75_text";
+CN_AD.PTYPE = "publisher";
+cnetGetAd(CN_AD);
+//-->
+</script>
+</div></div></div><div class="subnav_leaderboard"><div class="subnav_leaderboard_body"><script type="text/javascript" src="http://ocp.com.com/ad.js"></script>
+<script type="text/JavaScript">
+<!--
+var CN_AD = new Object();
+CN_AD.AD_SZ = "728wX90h";
+CN_AD.POS = "100";
+CN_AD.PTYPE = "publisher";
+cnetGetAd(CN_AD);
+//-->
+</script>
+</div></div>
 
 
 
@@ -70,8 +111,8 @@ pageTracker._trackPageview();
 	<div id="body_page">
 		<table id="tblMain" width="930" align="center" cellpadding="0" cellspacing="0">
 	<tbody><tr valign="top">
-		<td id="middlePane" width="100%">
-					<div style="margin-bottom:16px;"><b>You're here:</b>&nbsp; Privacy Policy</div>
+		<td id="middlePane" width="100%" style="padding-bottom:20px;">
+					<div id="breadcrumbs"> Privacy Policy</div>
 					<h1>Privacy Policy</h1>
 				<strong>www.phonedog.com respects your privacy.</strong>&nbsp; We have created this privacy statement in order to demonstrate our commitment to you, our consumer. This privacy statement discloses the privacy practices for this site, <a href="http:///www.phonedog.com">www.phonedog.com</a>.<br><br>
 <ul>
@@ -90,9 +131,9 @@ pageTracker._trackPageview();
 <p>www.phonedog.com<br><a href="mailto:infodog@phonedog.com">infodog@phonedog.com</a><br>Thank you for your support.</p>
 </td>
 		<td id="rightPadding" width="20"><img src="/img/p.gif" width="20" height="1"><br></td>
-		<td id="rightPane">
+		<td id="rightPane" style="&quot;padding-bottom:20px;">
 <div id="rightrail" class="clearfix">	
-	<div class="basic"><h4>About us</h4>We provide the consumer with the resources to research, compare prices, and shop from a wide array of phoneproducts and services. Please visit the links below for more information.<p><a href="/content/aboutus.aspx">About us</a> &nbsp;|&nbsp; <a href="/content/ourpromise.aspx">Our promise</a> &nbsp;|&nbsp; <a href="/content/testimonials.aspx">Testimonials</a> &nbsp;|&nbsp; <a href="/content/inthenews.aspx">In the news</a></p></div><div class="arrowlist"><h4>More resources</h4><ul><li><a href="/blog/default.aspx">PhoneDog blog</a></li><li><a href="/questions/default.aspx">Questions &amp; answers</a></li></ul></div><div class="arrowlist"><h4>PhoneDog in the news</h4><ul><li><a href="/content/inthenews.aspx">Bankrate.com</a></li><li><a href="/content/inthenews.aspx">The Tyra Banks Show</a></li><li><a href="/content/inthenews.aspx">CNET.com partners with PhoneDog</a></li><li><a href="/content/inthenews.aspx">Parade Magazine recommeds PhoneDog</a></li></ul><div class="more"><a href="/content/inthenews.aspx">more news</a></div></div><div class="arrowlist"><h4>PhoneDog partner solutions</h4><ul><li><a href="http://webservices.phonedog.com/default.aspx?utm_source=rail&amp;utm_medium=link">PhoneDog Web Services</a></li><li><a href="/affiliates/default-priceview.aspx">PhoneDog PriceView</a></li><li><a href="/affiliates/default.aspx">Affiliate program</a></li><li><a href="/network/default.aspx">White label branded sites</a></li></ul>Some of our valued partners include<br><a href="http://lowermybills.phonedog.com/home.aspx" target="_blank"><img src="/img/logos/partnerlogo_14.gif" alt="LowerMyBills.com logo" border="0"></a><a href="http://cnet.phonedog.com/cell-phone-research/compare-phones.aspx" target="_blank"><img src="/img/logos/cnet.gif" alt="CNET.com logo" align="right" border="0"></a><a href="http://www.phonedog.com/network/default.aspx"><img src="/img/logos/partnerlogo_3510.gif" alt="Thumbplay.com logo" border="0"></a><a href="http://www.phonedog.com/network/default.aspx"><img src="/img/logos/consumersearch_small.gif" alt="ConsumerSearch.com logo" border="0"></a></div><div class="survey"><h3>Got a minute? We'd love to hear from you...</h3>We'd appreciate a minute of your time to help us better understand our precious visitors. <a target="_blank" href="http://www.surveymonkey.com/s.aspx?sm=aqbC_2bzRoQeKWQDYgXfoshg_3d_3d">Click here</a> to take a short and <b>completely anonymous</b> survey.<br><div>~ many thanks :)</div></div>
+	<div class="about"><h4>About us</h4>We provide the consumer with the resources to research, compare prices, and shop from a wide array of phone products and services. Please visit the links below for more information.<p><a href="/content/aboutus.aspx">About us</a> &nbsp;|&nbsp; <a href="/content/ourpromise.aspx">Our promise</a> &nbsp;|&nbsp; <a href="/content/testimonials.aspx">Testimonials</a> &nbsp;|&nbsp; <a href="/content/inthenews.aspx">In the news</a></p></div><div class="arrowlist"><h4>More resources</h4><ul><li><a href="/blog/default.aspx">PhoneDog blog</a></li><li><a href="/questions/default.aspx">Questions &amp; answers</a></li></ul></div><div class="arrowlist"><h4>PhoneDog in the news</h4><ul><li><a href="/content/inthenews.aspx">Bankrate.com</a></li><li><a href="/content/inthenews.aspx">The Tyra Banks Show</a></li><li><a href="/content/inthenews.aspx">CNET.com partners with PhoneDog</a></li><li><a href="/content/inthenews.aspx">Parade Magazine recommeds PhoneDog</a></li></ul><div class="more"><a href="/content/inthenews.aspx">more news</a></div></div><div class="arrowlist"><h4>PhoneDog partner solutions</h4><ul><li><a href="http://webservices.phonedog.com/default.aspx?utm_source=rail&amp;utm_medium=link">PhoneDog Web Services</a></li><li><a href="/affiliates/default-priceview.aspx">PhoneDog PriceView</a></li><li><a href="/affiliates/default.aspx">Affiliate program</a></li><li><a href="/network/default.aspx">White label branded sites</a></li></ul>Some of our valued partners include<br><a href="http://lowermybills.phonedog.com/home.aspx" target="_blank"><img src="/img/logos/partnerlogo_14.gif" alt="LowerMyBills.com logo" border="0"></a><a href="http://cnet.phonedog.com/cell-phone-research/compare-phones.aspx" target="_blank"><img src="/img/logos/cnet.gif" alt="CNET.com logo" align="right" border="0"></a><a href="http://www.phonedog.com/network/default.aspx"><img src="/img/logos/partnerlogo_3510.gif" alt="Thumbplay.com logo" border="0"></a><a href="http://www.phonedog.com/network/default.aspx"><img src="/img/logos/consumersearch_small.gif" alt="ConsumerSearch.com logo" border="0"></a></div><div class="split"><h4>Popular</h4><ul><li><a href="/cell-phone-reviews/lg-env2/at-a-glance-102435.aspx">LG enV2 in-depth review - At a Glance</a></li><li><a href="/cell-phone-reviews/samsung-glyde/at-a-glance-102435.aspx">Samsung Glyde in-depth review - At a Glance</a></li><li><a href="/cell-phone-reviews/lg-dare/at-a-glance-102435.aspx">LG Dare in-depth review - At a Glance</a></li><li><a href="/cell-phone-research/blog/the-worst-helio-customer-service-needs-big-time-help.aspx">The Worst? Helio customer service needs big-time help</a></li><li><a href="/cell-phone-list/coming-soon_at-t-quickfire.aspx">Coming Soon: AT&amp;T Quickfire</a></li><li><a href="/cell-phone-videos/instinct-vs-iphone-3g-web-and-speed-test.aspx">Video: Instinct vs iPhone 3G - Web and Speed Test</a></li><li><a href="/cell-phone-videos/video-sprint-samsung-instinct-unboxing-and-hands-on.aspx">Video: Sprint Samsung Instinct Unboxing and Hands-On</a></li><li><a href="/cell-phone-videos/lg-dare-vs-samsung-instinct-phonedog-dogfight.aspx">Video: LG Dare vs Samsung Instinct - PhoneDog Dogfight</a></li><li><a href="/cell-phone-videos/win-free-cell-phones-phonedog-com-days-of-summer.aspx">Video: Win Free Cell Phones - PhoneDog.com Days of Summer</a></li><li><a href="/cell-phone-research/blog/titanium-is-this-the-lg-voyager-refresh.aspx">Titanium: Is this the LG Voyager Refresh?</a></li></ul></div><div class="split"><h4>This just in</h4><ul><li><a href="/cell-phone-videos/samsung-delve-alltel-unboxing-and-full-review.aspx">Video: Samsung Delve (Alltel) Unboxing and full review (long version)</a></li><li><a href="/cell-phone-list/latest-carrier-releases_blackberry-curve-8320.aspx">Latest Carrier Releases: BlackBerry Curve-8320 </a></li><li><a href="/cell-phone-research/blog/verizon-to-roll-out-open-stand-alone-gps-update-next-year.aspx">Verizon to roll out open, stand-alone GPS update next year?</a></li><li><a href="/cell-phone-research/blog/iphone-watch-dev-team-announces-3g-unlock-at-t-selling-3g-refurbs.aspx">iPhone Watch: Dev-Team announces 3G unlock, AT&amp;T selling 3G refurbs</a></li><li><a href="/cell-phone-research/blog/new-app-apple-tested-pope-approved.aspx">New app, Apple-tested, Pope-approved </a></li><li><a href="/cell-phone-videos/samsung-touchwiz-phones-omnia-eternity-behold-pt-3.aspx">Video: Samsung TouchWiz Phones - Omnia, Eternity, Behold, Pt 3</a></li><li><a href="/cell-phone-research/blog/cell-culture-dish-most-people-will-access-web-via-mobile-phone-in-2020-says-study.aspx">Cell Culture Dish: Most people will access Web via mobile phone in 2020, says study</a></li><li><a href="/cell-phone-list/latest-carrier-releases_blackberry-curve-8350i.aspx">Latest Carrier Releases: BlackBerry Curve 8350i</a></li><li><a href="/gadgets/gadgetdog-daily-12-16-08.aspx">GadgetDog TV: GadgetDog Daily - 12/16/08</a></li><li><a href="/cell-phone-research/blog/g1-power-management.aspx">G1 power management</a></li></ul></div><div class="carousel"><h4>Hot phones - check 'em out!</h4><div class="intro">Check out these cool phones. Get full specs, images, pricing, read user and expert reviews, watch videos and much more...</div><div id="car_feat_phones"><div id="car_feat_phones_sect"><ul><li style="background:url('/r/c/12079-8187-167-175-250x275.jpg') no-repeat; no-repeat;background-position:30 0;"><h4><a href="/cell-phone-research/lg-incite.aspx">LG Incite</a></h4></li><li style="background:url('/r/c/11845-8074-167-175-250x275.jpg') no-repeat; no-repeat;background-position:30 0;"><h4><a href="/cell-phone-research/samsung-epix-sgh-i907.aspx">Samsung Epix-SGH-i907</a></h4></li><li style="background:url('/r/c/11635-7937-167-175-250x275.jpg') no-repeat; no-repeat;background-position:30 0;"><h4><a href="/cell-phone-research/htc-g1.aspx">HTC G1</a></h4></li><li style="background:url('/r/c/11659-7915-167-175-250x275.jpg') no-repeat; no-repeat;background-position:30 0;"><h4><a href="/cell-phone-research/blackberry-storm.aspx">BlackBerry Storm</a></h4></li><li style="background:url('/r/c/11436-7905-167-175-250x275.jpg') no-repeat; no-repeat;background-position:30 0;"><h4><a href="/cell-phone-research/htc-touch-pro-cdma.aspx">HTC Touch Pro CDMA</a></h4></li><li style="background:url('/r/c/10485-7276-167-175-250x275.jpg') no-repeat; no-repeat;background-position:30 0;"><h4><a href="/cell-phone-research/blackberry-9000-bold.aspx">BlackBerry 9000-Bold</a></h4></li></ul></div><div id="car_feat_phones_nav"><a class="prev" href="#" title="previous">previous</a><a class="next" href="#" title="next">next</a></div></div></div>
 </div>
 
 <img src="/img/p.gif" id="_ctl4_imgStretcher" width="312" height="1"><br>
@@ -101,24 +142,169 @@ pageTracker._trackPageview();
 
 $(document).ready(init);
 function init(){
-	
+	jQuery(function($){    
+								// Get a reference the previous and next link and nav
+								var prev=$('a.prev');
+								var next=$('a.next');
+							     
+								// add first and last id's to the first and last section ids'
+								$('#car_feat_phones li:first').attr('id','first');
+								$('#car_feat_phones li:last').attr('id','last');
+						       
+								$('#car_feat_phones').serialScroll({
+									target:'#car_feat_phones_sect',
+									items:'li',
+									prev:'a.prev',
+									next:'a.next',
+									axis:'xy',
+									duration:700,
+									force:true,
+									cycle:true,
+									interval:5000,
+									onBefore:function( e, elem, $pane, $items, pos ){
+										e.preventDefault();
+										if(this.blur)
+											this.blur();
+									},
+									onAfter:function(elem){
+										//'this' is the element being scrolled ($pane) not jqueryfied
+										var pos=$(elem).attr('id');
+										if(pos=='first'){prev.fadeOut('fast');}else{prev.fadeIn('slow');}			    
+										if(pos=='last'){next.fadeOut('fast');}else{next.fadeIn('slow');}
+									}
+								});
+							});
 }
 
 </script></td>
 	</tr>
 </tbody></table>
-		
+	
 	</div>
 </div>
 
 
-<div id="footer_ads_wrapper">
-	<div id="footer_ads_page">
-		<div>
-			
+<div id="footer_more_wrapper">
+	<div id="footer_more_page">
+
+	</div>
+</div>
+
+<div class="subnav_leaderboard_footer"><div class="subnav_leaderboard_footer_body"><script type="text/javascript" src="http://ocp.com.com/ad.js"></script>
+<script type="text/JavaScript">
+<!--
+var CN_AD = new Object();
+CN_AD.AD_SZ = "728wX90h";
+CN_AD.POS = "200";
+CN_AD.PTYPE = "publisher";
+cnetGetAd(CN_AD);
+//-->
+</script>
+</div></div>
+
+
+	<div id="sect">
+		<div class="secttop"></div>
+		<div class="secthead"></div>
+		<div class="sectbody">
+			<div class="sectcontent clearfix">
+				<div id="car_foot_news">						
+					<div class="next"></div>
+					<div class="prev"></div>
+					<h3>What's happening right now</h3>		
+					<div id="car_foot_news_sect">		
+						<ul>		
+							<li><div class="footnewsitem"><div class="footnewsitembody"><b>Video</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-videos/samsung-delve-alltel-unboxing-and-full-review.aspx"><img src="http://i.ytimg.com/vi/bQkBMwKnf8E/default.jpg" alt="Samsung Delve (Alltel) Unboxing and full review (long version)"></a></div></div><h4><a href="/cell-phone-videos/samsung-delve-alltel-unboxing-and-full-review.aspx">Samsung Delve (Alltel)</a></h4>At long last, The Samsung Delve for Alltel, Unboxing and full video review.&nbsp; Alltel has no coverage in the San Francisco area, so Noah had to defer the video review to me.&nbsp; Our apologies on the poor audio quality. The Delve ended up impressing with a responsive Touchscreen and tons of Multimedia features...Check it out</div></div><div class="footnewsitem"><div class="footnewsitembody"><b>Latest Carrier Releases</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-list/latest-carrier-releases_blackberry-curve-8320.aspx"><img src="/img/misc/digging_small.gif" alt="BlackBerry Curve-8320 "></a></div></div><h4><a href="/cell-phone-list/latest-carrier-releases_blackberry-curve-8320.aspx">BlackBerry Curve-8320 </a></h4>Carrier: AT&amp;TRetail Price:$399.99 or via ebayContract Price:$149.99 or via Let's TalkHot Feature: 2MP Camera
+The Blackberry 8320 packs a ton of features into a sleek thin design that is sure to get the attention of the hardcore user who wants all of the extras missing from previous models. Key features include a 2 mega-pixel camera, Bluetooth, 3.5mm&nbsp;stereo&nbsp;headset jack,&nbsp;trackball navigation, expandable memory, music player...</div></div><div class="footnewsitem"><div class="footnewsitembody"><b>Blog Article</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-research/blog/verizon-to-roll-out-open-stand-alone-gps-update-next-year.aspx"><img src="/r/i/2008/12/12269-35973-394-395-90x67.jpg" alt="Verizon to roll out open, stand-alone GPS update next year?" width="90" height="67"></a></div></div><h4><a href="/cell-phone-research/blog/verizon-to-roll-out-open-stand-alone-gps-update-next-year.aspx">Verizon to roll out open GPS?</a></h4>The folks over at WMExperts are reporting that Verizon has responded to the site's consumer-driven campaign for unlocked GPS with a stock letter, which reads, in part: "In the case of open standalone GPS, we are partnering with the Windows Mobile device manufacturers to provide a software upgrade that will add this capability to the existing assisted GPS capability. This is a complex development project to provide open standalone GPS while...</div></div><div class="footnewsitem"><div class="footnewsitembody"><b>Blog Article</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-research/blog/iphone-watch-dev-team-announces-3g-unlock-at-t-selling-3g-refurbs.aspx"><img src="/r/i/2008/12/12268-35964-394-395-90x67.jpg" alt="iPhone Watch: Dev-Team announces 3G unlock, AT&amp;T selling 3G refurbs" width="90" height="67"></a></div></div><h4><a href="/cell-phone-research/blog/iphone-watch-dev-team-announces-3g-unlock-at-t-selling-3g-refurbs.aspx">iPhone 3G Unlock</a></h4>The iPhone Dev-Team, makers of PwnageTool and QuickPwn (unlocking/jailbreaking software for the first-gen iPhone and iPod Touch)&nbsp;have, at long last, announced a solution for unlocking the Apple iPhone 3G.&nbsp; According to this post on the Dev-Team blog, project yellowsn0w will hopefully be available on New Year's Eve as freeware all dressed up in an easy-to-use GUI, a la PwnageTool.&nbsp; 
+
+You'll have to have an iPhone 3G with baseband...</div></div><div class="footnewsitem"><div class="footnewsitembody"><b>Blog Article</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-research/blog/new-app-apple-tested-pope-approved.aspx"><img src="/r/i/2008/12/12267-35929-394-395-90x67.jpg" alt="New app, Apple-tested, Pope-approved " width="90" height="67"></a></div></div><h4><a href="/cell-phone-research/blog/new-app-apple-tested-pope-approved.aspx">Vatican-approved iPhone app</a></h4>Bible study goes hi-tech? Not exactly, but here's a step in an interesting direction: For the first time ever, The Vatican approved an iPhone application. With iBreviary, on-the-go Catholics can have their prayer books on hand at all times. This modernized solution for traditional worship features translations in English, Latin, Spanish, French and Italian and costs a mere $0.99, so as not to inspire coveting by neighbors. [Edited to include...</div></div></li><li><div class="footnewsitem"><div class="footnewsitembody"><b>Video</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-videos/samsung-touchwiz-phones-omnia-eternity-behold-pt-3.aspx"><img src="http://i.ytimg.com/vi/h0saiumq2x0/default.jpg" alt="Samsung TouchWiz Phones - Omnia, Eternity, Behold, Pt 3"></a></div></div><h4><a href="/cell-phone-videos/samsung-touchwiz-phones-omnia-eternity-behold-pt-3.aspx">TouchWiz Video Pt 3</a></h4>Hands-on and in-depth with Samsung's new line of TouchWiz phones. Noah goes in-depth with the Omnia (GSM and Verizon versions), Eternity (AT&amp;T), and Behold (T-Mobile). Check out what makes TouchWiz tick on this new breed of all-touch devices. </div></div><div class="footnewsitem"><div class="footnewsitembody"><b>Blog Article</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-research/blog/cell-culture-dish-most-people-will-access-web-via-mobile-phone-in-2020-says-study.aspx"><img src="/r/i/2008/12/12264-35926-394-395-90x67.jpg" alt="Cell Culture Dish: Most people will access Web via mobile phone in 2020, says study" width="90" height="67"></a></div></div><h4><a href="/cell-phone-research/blog/cell-culture-dish-most-people-will-access-web-via-mobile-phone-in-2020-says-study.aspx">Cell to be main Web gateway</a></h4>I remember my first internet-capable cell phone like it was like yesterday -- the sheer WAPpiness of it, the text-based pages, the minutes it would take to load on my teeny weeny display. No wonder there's so much buzz around smartphones these days. As connection speeds and networks improve and more devices debut with full HTML browsers, the demand for a robust, mobile online-cruising experience is at an all-time high. But if you think this...</div></div><div class="footnewsitem"><div class="footnewsitembody"><b>Latest Carrier Releases</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-list/latest-carrier-releases_blackberry-curve-8350i.aspx"><img src="/r/i/2008/12/12263-35904-394-395-90x67.jpg" alt="BlackBerry Curve 8350i" width="90" height="67"></a></div></div><h4><a href="/cell-phone-list/latest-carrier-releases_blackberry-curve-8350i.aspx">BlackBerry Curve 8350i</a></h4>Carrier: Sprint\NextelRetail Price:$479.99 or via ebayContract Price:$149.99 or via Let's TalkHot Feature: Push To Talk Blackberry
+The Blackberry Curve 8350i is an IDEN version of the popular Curve series. Key features include a 2.0 megapixel camera, GPS, Wifi, PTT, stereo Bluetooth, full QWERTY keyboard, microSD slot, 2.5mm headset jack, MP3 player and mini USB connector.
+&nbsp;</div></div><div class="footnewsitem"><div class="footnewsitembody"><b>GadgetDog</b><br><div class="footnewsimg"><div class="img"><a href="/gadgets/gadgetdog-daily-12-16-08.aspx"><img src="/img/misc/gadgets_small.gif" alt="GadgetDog Daily - 12/16/08"></a></div></div><h4><a href="/gadgets/gadgetdog-daily-12-16-08.aspx">GadgetDog Daily - 12/16/08</a></h4>GadgetDog Daily - 12/16/08 
+
+Apple News: Dev Team unlocks iPhone 3G, Possible Netbook and new Mac mini coming at MacWorld 
+Lenovo OPhone: Photos and Details of the newest Android phone 
+Move over Volt: Chinese company debuts $22,000 plug-in electric hybrid car 
+Noah's Bark: Hands-on with Netflix on Tivo</div></div><div class="footnewsitem"><div class="footnewsitembody"><b>Blog Article</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-research/blog/g1-power-management.aspx"><img src="/r/i/2008/12/12254-35899-394-395-90x67.jpg" alt="G1 power management" width="90" height="67"></a></div></div><h4><a href="/cell-phone-research/blog/g1-power-management.aspx">G1 power management</a></h4>Battery life has been my most significant complaint about the G1. So I decided to find every instance where power was being used unnecessarily and eliminate the waste. Following these steps significantly extended the life of my battery. And I've continued to use the features that make the G1 worth owning. Of course a lot of these options apply to other devices as well. Some are specific to the G1. Recalibrate the battery I thought this problem...</div></div></li><li><div class="footnewsitem"><div class="footnewsitembody"><b>Blog Article</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-research/blog/follow-up-t-mobile-home.aspx"><img src="/r/i/2008/12/12253-35894-394-395-90x67.jpg" alt="Follow-up: T-Mobile @Home" width="90" height="67"></a></div></div><h4><a href="/cell-phone-research/blog/follow-up-t-mobile-home.aspx">Follow-up: T-Mobile @Home</a></h4>Two months ago, I wrote a post about T-Mobile's VoIP service, @Home. I said I'd follow-up and let you all know how I felt about the product after a month or two of use. Well, I like it a lot. But not for the reasons I was initially attracted to it. Take a minute to check out this page and see if the product can save you any money on international calls. It hasn't done so for me, but the additional line has paid off in other ways. Instead of...</div></div><div class="footnewsitem"><div class="footnewsitembody"><b>Blog Article</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-research/blog/rumors-new-palm-at-ces-iphone-nano-kinda-maybe-sorta-coming-to-mwsf.aspx"><img src="/r/i/2008/12/12255-35890-394-395-90x67.jpg" alt="Rumors: New Palm at CES, iPhone nano kinda maybe sorta coming to MWSF" width="90" height="67"></a></div></div><h4><a href="/cell-phone-research/blog/rumors-new-palm-at-ces-iphone-nano-kinda-maybe-sorta-coming-to-mwsf.aspx">Palm and Apple Rumors</a></h4>CES and MacWorld are just three weeks off now, with both shows taking
+place the week of January 5, 2009.&nbsp; It looks like I'll be staying home
+in the Bay Area to cover MacWorld, since we may have a hookup in the
+works for some live on-the-scene coverage from CES, as well.&nbsp; Rest
+assured we'll keep you all abreast of whatever phone-related stuff
+comes out of either or both shows.&nbsp;Speaking of which, a few rumors about new phones...</div></div><div class="footnewsitem"><div class="footnewsitembody"><b>Blog Article</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-research/blog/want-a-swiveling-t-phone-nokia-bets-you-do.aspx"><img src="/r/i/2008/12/12256-35889-394-395-90x67.jpg" alt="Want a swiveling T-phone? Nokia bets you do " width="90" height="67"></a></div></div><h4><a href="/cell-phone-research/blog/want-a-swiveling-t-phone-nokia-bets-you-do.aspx">Want a swivel-T Nokia phone?</a></h4>So not everyone loved the image used in the post about the Palm "New-ness," which showed some unidentifiable doo-hickey from abroad. Sure, it IS a little goofy-looking. And was it supposed to be a phone or a little computer with trackpad and mouse buttons? You might be asking yourself, Who knows? Who cares? Well, Nokia does, apparently. No, not about that specific gadget, but it did file an application with the U.S. Patent &amp; Trademark office...</div></div><div class="footnewsitem"><div class="footnewsitembody"><b>Blog Article</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-research/blog/sprint-launches-blackberry-curve-8350i-finally.aspx"><img src="/r/i/2008/12/12252-35882-394-395-90x67.jpg" alt="Sprint Launches BlackBerry Curve 8350i (finally) " width="90" height="67"></a></div></div><h4><a href="/cell-phone-research/blog/sprint-launches-blackberry-curve-8350i-finally.aspx">Curve 8350i launches (Sprint)</a></h4>It's been a long 3 months for BlackBerry fanatics wanting Sprint/Nextel's push-to-talk functionality. Now the carrier, which unveiled the BlackBerry Curve 8350i back in September, has finally made the smartphone available for sale today at Sprint.com.In developing the Curve 8350i, Research In Motion included everything that BlackBerry users typically expect from their smartphones, including push e-mail, messaging, multimedia player, Bluetooth,...</div></div><div class="footnewsitem"><div class="footnewsitembody"><b>Video</b><br><div class="footnewsimg"><div class="img"><a href="/cell-phone-videos/samsung-touchwiz-phones-omnia-eternity-behold-pt-2.aspx"><img src="http://i.ytimg.com/vi/7Bt1Ga4ZksY/default.jpg" alt="Samsung TouchWiz Phones - Omnia, Eternity, Behold, Pt 2"></a></div></div><h4><a href="/cell-phone-videos/samsung-touchwiz-phones-omnia-eternity-behold-pt-2.aspx">Samsung TouchWiz, Pt 2</a></h4>Hands-on and in-depth with Samsung's new line of TouchWiz phones. Noah goes in-depth with the Omnia (GSM and Verizon versions), Eternity (AT&amp;T), and Behold (T-Mobile). Check out what makes TouchWiz tick on this new breed of all-touch devices.</div></div></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script language="javascript" type="text/javascript">
+    jQuery(function($){    
+	    // Get a reference the previous and next link and nav
+	    var prev=$("div.prev");
+	    var next=$("div.next");	     
+	     
+	    // add first and last id's to the first and last section ids'
+        $('#car_foot_news li:first').attr("id","first");
+        $('#car_foot_news li:last').attr("id","last");
+       
+	    $('#car_foot_news').serialScroll({
+		    target:'#car_foot_news_sect',
+		    items:'li',
+		    prev:'div.prev',
+		    next:'div.next',
+		    axis:'xy',
+		    duration:1000,
+		    force:true,
+		    cycle:false,
+            interval:5000,
+		    onBefore:function( e, elem, $pane, $items, pos ){
+			    e.preventDefault();
+			    if(this.blur)
+				    this.blur();
+		    },
+		    onAfter:function(elem){
+			    //'this' is the element being scrolled ($pane) not jqueryfied
+			    var pos=$(elem).attr("id");
+			    if(pos=="first"){prev.fadeOut("fast");}else{prev.fadeIn("slow");}			    
+			    if(pos=="last"){next.fadeOut("fast");}else{next.fadeIn("slow");}			    
+			    
+			    // remove the border from the last news item
+			    $($(elem).find('div.footnewsitem:last')[0]).css({borderRight:'none'});
+		    }
+	    });
+	    
+	    $('#car_foot_news_sect').trigger('stop')
+
+        // By default we'll be scrolling along, but once the user clicks
+        // on the previous/next link then stop the auto-progressing...	    
+        //prev.click(function(event){$('#car_foot_news_sect').trigger('stop');});
+        //next.click(function(event){$('#car_foot_news_sect').trigger('stop');});	    
+    });	
+	</script> 
+	
+
+
+<div id="sect">
+	<div class="secttop"></div>
+	<div class="secthead"></div>
+	<div class="sectbody">
+		<div class="sectcontent clearfix">
+			<div class="sectitem">
+				<h3>Latest phone images</h3>
+				<a href="/cell-phone-research/lg-scoop-red.aspx"><img class="phone" src="/r/c/12262-8276-167-175-60x66.jpg" alt="Scoop Red"></a><a href="/cell-phone-research/motorola-rokr-em35.aspx"><img class="phone" src="/r/c/12257-8275-167-175-60x66.jpg" alt="ROKR EM35"></a><a href="/cell-phone-research/nokia-mirage-2605.aspx"><img class="phone" src="/r/c/12237-8270-167-175-60x66.jpg" alt="Mirage 2605"></a><a href="/cell-phone-research/pantech-c630.aspx"><img class="phone" src="/r/c/12228-8267-167-175-60x66.jpg" alt="C630"></a><a href="/cell-phone-research/blackberry-curve-8900.aspx"><img class="phone" src="/r/c/12224-8265-167-175-60x66.jpg" alt="Curve 8900"></a><a href="/cell-phone-research/blackberry-pearl-flip-8220-red.aspx"><img class="phone" src="/r/c/12198-8246-167-175-60x66.jpg" alt="Pearl Flip 8220 Red"></a><a href="/cell-phone-research/lg-rhythm-ux585-pink.aspx"><img class="phone" src="/r/c/12197-8245-167-175-60x66.jpg" alt="Rhythm UX585 Pink"></a><a href="/cell-phone-research/lg-rhythm-ux585-black.aspx"><img class="phone" src="/r/c/12188-8241-167-175-60x66.jpg" alt="Rhythm UX585 Black"></a><a href="/cell-phone-research/nokia-n97.aspx"><img class="phone" src="/r/c/12187-8240-167-175-60x66.jpg" alt="N97"></a><a href="/cell-phone-research/nokia-2608.aspx"><img class="phone" src="/r/c/12174-8235-167-175-60x66.jpg" alt="2608 "></a><a href="/cell-phone-research/nokia-6260-slide-biege.aspx"><img class="phone" src="/r/c/12168-8234-167-175-60x66.jpg" alt="6260 Slide Biege"></a><a href="/cell-phone-research/nokia-6260-slide-black.aspx"><img class="phone" src="/r/c/12162-8233-167-175-60x66.jpg" alt="6260 slide Black"></a><a href="/cell-phone-research/kyocera-neo-e1100.aspx"><img class="phone" src="/r/c/12158-8232-167-175-60x66.jpg" alt="Neo E1100"></a><a href="/cell-phone-research/lg-cp150.aspx"><img class="phone" src="/r/c/12155-8231-167-175-60x66.jpg" alt="CP150"></a><a href="/cell-phone-research/motorola-i776w.aspx"><img class="phone" src="/r/c/12135-8215-167-175-60x66.jpg" alt="i776W"></a><a href="/cell-phone-research/motorola-hint-qa30.aspx"><img class="phone" src="/r/c/12128-8214-167-175-60x66.jpg" alt="Hint QA30"></a>
+			</div>
+			<div class="sectitem">
+				<h3>One-Pawed Bandit Coming soon...</h3>
+				<img src="/img/blog/2008/10/bandit.jpg" width="80" height="60" align="left" style="margin-right:5px;margin-bottom:5px;">The Phonedog Days of Summer giveaway is coming to a close, but stay tuned for our new "Phonedog One-Paw Bandit Instant Winner Game", coming soon! We'll be giving away an iPhone in the very first week!
+			</div>
+			<div class="sectitem" style="border-right:none;width:300px;">
+				<h3 style="background:url('/img/icons/feed-icon-16x16.gif') no-repeat;padding-left:20px;">Fetch PhoneDog via Rss</h3>
+				Subscribe &amp; use your favorite news reader to get:
+				<ul class="subscribelinks"><li><a class="rss_link" href="http://feeds.phonedog.com/phonedog_cellphoneblog">Latest blog articles</a></li><li><a class="rss_link" href="http://feeds.phonedog.com/phonedog_cellphonevideos">New cell phone videos</a></li><li><a class="rss_link" href="http://feeds.phonedog.com/phonedog_cellphonereviews">In-depth phone reviews</a></li><li><a class="rss_link" href="http://feeds.phonedog.com/phonedog_cellphonepodcasts">Noah's Bark - podcasts</a></li></ul>
+			</div>
 		</div>
 	</div>
 </div>
+
 
 <div id="footer_wrapper">
 	<div id="footer">
@@ -130,17 +316,18 @@ function init(){
 			<a href="/dial-around/default.aspx">Dial-arounds</a> &nbsp;|&nbsp;
 			<a href="/voice-over-ip/default.aspx">Voice over ip</a> &nbsp;|&nbsp;
 			<a href="/t1-services/default.aspx">T1 services</a> &nbsp;|&nbsp;
-			<a href="http://community.phonedog.com/forums/default.aspx">Forums</a> &nbsp;|&nbsp;
+			<a href="/community/forums.aspx">Forums</a> &nbsp;|&nbsp;
 			<a href="/content/services.aspx">more...</a><br>
 			<a href="/content/aboutus.aspx">About us</a> &nbsp;|&nbsp;
 			<a href="/content/ourpromise.aspx">Our promise</a> &nbsp;|&nbsp;
 			<a href="javascript:fnPop('/content/referafriendpopup.aspx',450,500,10,10,0);">Tell a friend</a> &nbsp;|&nbsp;
+			<a href="/links/default.aspx">Links</a> &nbsp;|&nbsp;
 			<a href="/network/default.aspx">Partnerships &amp; affiliates</a> &nbsp;|&nbsp;
 			<a href="http://webservices.phonedog.com/default.aspx?utm_source=footer&amp;utm_medium=link">PhoneDog API</a> &nbsp;|&nbsp;
 			<a href="/content/privacy.aspx">Privacy policy</a> &nbsp;|&nbsp;
 			<a href="/content/sitemap.aspx">Site map</a> &nbsp;|&nbsp;
 			<a href="/content/syndicated.aspx">Rss</a><br>
-			Copyright © 2001-2008 PhoneDog, LLC. All rights reserved. Last Updated: Friday, May 16, 2008		
+			Copyright © 2001-2008 PhoneDog, LLC. All rights reserved. Last Updated: Wednesday, December 17, 2008		
 		</div>				
 		<b>Our Reviews:</b>
 		<b>Company Info:</b>		
