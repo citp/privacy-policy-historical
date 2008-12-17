@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americansforthearts.org privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517101400id_/http%3A//www.americansforthearts.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansforthearts.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217234836id_/http%3A//www.americansforthearts.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Updated: November 2004 
+Updated: May 2008 
 
 ##### Overall
 
@@ -10,7 +10,7 @@ Your privacy while visiting our site is important to us. Because we gather certa
 
 ##### Information We Collect
 
-Americans for the Arts collects the following types of personal information: names (individual and organization), titles, postal and e-mail addresses, phone and fax numbers, and billing information. We use this information to reply to inquiries and process billing and business requests related to program participation, including listservs, membership, donations, purchases, and online communications. This information will only be accessed by appropriate Americans for the Arts staff and the occasional third party as described below. Americans for the Arts, like many nonprofits, occasionally rents its postal address lists to carefully selected like-minded organizations. To suppress your name and address from these lists, please [e-mail us](https://web.archive.org/staff_email.asp?u=updates&d=artsusa.org&n=Updates+Staff&t=Field+Services+and+Planning) and place "Suppress Mail List Rental" in the subject line and include your Name and Address in the body. 
+Americans for the Arts collects the following types of personal information: names (individual and organization), titles, postal and e-mail addresses, phone and fax numbers, and billing information. We use this information to reply to inquiries and process billing and business requests related to program participation, including listservs, membership, donations, purchases, and online communications. This information will only be accessed by appropriate Americans for the Arts staff and the occasional third party as described below. Basic contact information collected, excluding e-mail address will be shared via roster to all meeting attendees. To suppress your contact information from being included in any meeting roster [e-mail us](https://web.archive.org/staff_email.asp?u=updates&d=artsusa.org&n=Updates+Staff&t=Field+Services+and+Planning). Americans for the Arts, like many nonprofits, occasionally rents its postal address lists to carefully selected like-minded organizations. To suppress your name and address from these lists, please [e-mail us](https://web.archive.org/staff_email.asp?u=updates&d=artsusa.org&n=Updates+Staff&t=Field+Services+and+Planning) and place "Suppress Mail List Rental" in the subject line and include your Name and Address in the body. 
 
 ##### Cookies
 
