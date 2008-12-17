@@ -1,34 +1,34 @@
-> *The following text is extracted and transformed from the mission.com privacy policy that was archived on 2008-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080211200149id_/http%3A//www.mission.com/siteusage/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mission.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217200758id_/http%3A//www.atk.com/siteusage/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-Alliant Techsystems Inc., its subsidiaries, and related companies (collectively referred to as “ATK”) make reasonable efforts to protect the privacy of your personal information. This privacy policy was created to demonstrate our commitment to fair information practices. 
+Alliant Techsystems Inc., its subsidiaries, and related companies (collectively referred to as ATK) make reasonable efforts to protect the privacy of your personal information. This privacy policy was created to demonstrate our commitment to fair information practices. 
 
 This policy covers ATK's use of personal information that ATK collects when you use the website at [www.atk.com](http://www.atk.com/). 
 
-Through the above website (hereafter referred to as the “Site”), you may link to other web pages and websites operated by ATK and its subsidiaries, and related companies (individually “ATK Site,” collectively “ATK Sites”). It may be that not every ATK Site has adopted this policy. Individual ATK Sites may adopt different privacy policies that fit the purposes on that ATK Site. The below websites have their own [privacy statement](http://glarp.atk.com/policies/PrivacyPolicy.html): 
+Through the above website (hereafter referred to as the Site), you may link to other web pages and websites operated by ATK and its subsidiaries, and related companies (individually ATK Site, collectively ATK Sites). It may be that not every ATK Site has adopted this policy. Individual ATK Sites may adopt different privacy policies that fit the purposes on that ATK Site. The below websites have their own [privacy statement](http://glarp.atk.com/policies/PrivacyPolicy.html): 
 
-[www.federalpremium.com](http://www.federalpremium.com/)  
-[www.fusionammo.com](http://www.fusionammo.com/)   
-[www.cci-ammunition.com](http://www.cci-ammunition.com/)   
-[www.speer-bullets.com](http://www.speer-bullets.com/)   
-[www.gunslick.com](http://www.gunslick.com/)   
-[www.outers-guncare.com](http://www.outers-guncare.com/)   
-[www.alliantpowder.com](http://www.alliantpowder.com/)   
-[www.rcbs.com](http://www.rcbs.com/)   
-[www.estatecartridge.com](http://www.estatecartridge.com/)   
-[www.weaver-mounts.com](http://www.weaver-mounts.com/)   
-[www.redfield-mounts.com](http://www.redfield-mounts.com/)   
-[www.simmons-mounts.com](http://www.simmons-mounts.com/)   
-[www.ram-line.com](http://www.ram-line.com/)   
-[www.championtarget.com](http://www.championtarget.com/)   
-[www.shootersridge.com](http://www.shootersridge.com/)  
-[www.premiumpartners.atk.com](http://www.premiumpartners.atk.com/)   
-[www.outdoorwriters.atk.com](http://www.outdoorwriters.atk.com/)  
-[www.le.atk.com](http://www.le.atk.com/)   
-[www.dtectsystems.com](http://www.dtectsystems.com/)   
+www.federalpremium.com  
+www.fusionammo.com   
+www.cci-ammunition.com   
+www.speer-bullets.com   
+www.gunslick.com   
+www.outers-guncare.com   
+www.alliantpowder.com   
+www.rcbs.com   
+www.estatecartridge.com   
+www.weaver-mounts.com   
+www.redfield-mounts.com   
+www.simmons-mounts.com   
+www.ram-line.com   
+www.championtarget.com   
+www.shootersridge.com  
+www.premiumpartners.atk.com   
+www.outdoorwriters.atk.com  
+www.le.atk.com   
+www.dtectsystems.com   
 
 
 If an ATK Site has its own privacy policy, the provisions of that policy will control if it conflicts with this general policy.   
@@ -36,11 +36,11 @@ If an ATK Site has its own privacy policy, the provisions of that policy will co
 
 1\. TYPES OF INFORMATION COLLECTED 
 
-**a. Personal Information Collected** _._ There may be areas on our Site where you can share your name, company name, postal address, e-mail address, phone number, social security number, and zip code (“ Personal Information”) with us and where you can communicate with others. Our Site may also provide you with the option to sign-up and receive electronic communications from us, where we ask for certain Personal Information. If you communicate with us by e-mail or complete online forms, we may require Personal Information that personally identifies you. ATK may also request your e-mail address or mailing address for the purposes of having someone contact you for additional information, or in response to your request for information from us. If you request that information be mailed to your postal address, you may request to be placed on our mailing list to receive periodic mailings from us. 
+**a. Personal Information Collected** _._ There may be areas on our Site where you can share your name, company name, postal address, e-mail address, phone number, social security number, and zip code ( Personal Information) with us and where you can communicate with others. Our Site may also provide you with the option to sign-up and receive electronic communications from us, where we ask for certain Personal Information. If you communicate with us by e-mail or complete online forms, we may require Personal Information that personally identifies you. ATK may also request your e-mail address or mailing address for the purposes of having someone contact you for additional information, or in response to your request for information from us. If you request that information be mailed to your postal address, you may request to be placed on our mailing list to receive periodic mailings from us. 
 
 b. Information from Children. ATK does not knowingly solicit or collect information from children under 13 years of age. The use of this Site by children under 13 years of age is not conditioned on the disclosure of Personal Information. However, we ask that children not submit information to us without the consent of a parent or guardian. When we e-mail information to you, we will provide prominently displayed instructions that show you how to unsubscribe from receiving such information. If your child subscribes to receive information from ATK without your knowledge, simply follow the instructions on our e-mail and unsubscribe immediately. Please include the child's name and the parent's e-mail address in the e-mail so that ATK can better assist you with your inquiry or request. Parents can also contact our customer service department to access, change, or delete the personal information that has been submitted by a child.
 
-c. Cookies and Tracers. ATK may collect information about you and your use of our Site whenever you visit this Site. For instance, we may collect various forms of information such as entry and exit points for our Site (i.e., referring URLs or domains), site traffic statistics, operating system and browser type (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. In addition, when you request pages on our Site, our servers automatically log your IP address. An IP address is a number that is automatically assigned to your computer whenever you are surfing the web. ATK may store some information on your computer in the form of a “cookie” or similar file to help us maintain and improve this Site in many ways. A “cookie” is a small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your identification card, recording such things as Internet addresses, passwords, and preferences. It cannot be executed as code or deliver viruses. With most Internet browsers, you can erase “cookies” from your computer hard drive, block all “cookies,” or receive a warning before a “cookie” is stored. The “Help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please refer to your browser instructions to learn more about these functions. Enabling cookies allows you to take full advantage of all the features on the Site and we recommend that you leave them turned on. If you elect to block the cookies, we will not be able to provide you with a personalized experience on our Site. 
+c. Cookies and Tracers. ATK may collect information about you and your use of our Site whenever you visit this Site. For instance, we may collect various forms of information such as entry and exit points for our Site (i.e., referring URLs or domains), site traffic statistics, operating system and browser type (collectively Traffic Data). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. In addition, when you request pages on our Site, our servers automatically log your IP address. An IP address is a number that is automatically assigned to your computer whenever you are surfing the web. ATK may store some information on your computer in the form of a cookie or similar file to help us maintain and improve this Site in many ways. A cookie is a small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your identification card, recording such things as Internet addresses, passwords, and preferences. It cannot be executed as code or deliver viruses. With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please refer to your browser instructions to learn more about these functions. Enabling cookies allows you to take full advantage of all the features on the Site and we recommend that you leave them turned on. If you elect to block the cookies, we will not be able to provide you with a personalized experience on our Site. 
 
 In some instances, ATK may use tracking scripts or "tracers" that recognize a unique identifier from a cookie placed on your hard drive by another website. These are used by ATK solely to gauge the success of our own advertising. For instance, we may use a tracer to determine whether you visit certain web pages where ATK may have placed a banner ad. We do not use tracers to gather information on your use of the Internet unrelated to ATK. Please note that ATK does not use tracers to identify your personal information, and you remain anonymous unless and until you communicate with ATK via e-mail or complete on-line forms.   
 
@@ -78,12 +78,12 @@ The Site may contain links to other non-ATK websites. We are not responsible for
 
 7\. USER CHOICE REGARDING COLLECTION, USE AND DISTRIBUTION OF PERSONAL INFORMATION 
 
-You may choose not to provide ATK with any Personal Information. In such an event, you can still access and use this Site. If you do not wish to receive information and promotional material from us, you may select the appropriate "opt-out" option each time we ask you for Personal Information, upon receipt of e-mail correspondence from ATK, or by going to the [Investor Email alert](http://www.corporate-ir.net/ireye/unsubscribe.zhtml?t=23593&a=ir-sec) or The Federal Premium [e-Newsletter](http://glarp.atk.com/pages/lodge/default.aspx) web pages and requesting the “opt-out” option.   
+You may choose not to provide ATK with any Personal Information. In such an event, you can still access and use this Site. If you do not wish to receive information and promotional material from us, you may select the appropriate "opt-out" option each time we ask you for Personal Information, upon receipt of e-mail correspondence from ATK, or by going to the [Investor Email alert](http://www.corporate-ir.net/ireye/unsubscribe.zhtml?t=23593&a=ir-sec) or The Federal Premium [e-Newsletter](http://glarp.atk.com/pages/lodge/default.aspx) web pages and requesting the opt-out option.   
 
 
 8\. HOW YOU CAN ACCESS OR CORRECT YOUR INFORMATION
 
-If you have provided your Personal Information and your Personal Information changes (such as address or telephone), you can access and update any Personal Information that you provided to us for investor [Email alerts](http://www.corporate-ir.net/ireye/unsubscribe.zhtml?t=23593&a=ir-sec), The Federal Premium [e-Newsletter](http://glarp.atk.com/pages/lodge/default.aspx), and [job opening submissions](https://psx.atk.com/psp/pserx/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL&PAGE=HRS_CE_HM_PRE?NAVSTACK=Clear). We use this procedure to better safeguard your information. To protect your privacy and security, we may also take reasonable steps to verify your identity before granting access or making corrections.  
+If you have provided your Personal Information and your Personal Information changes (such as address or telephone), you can access and update any Personal Information that you provided to us for investor [Email alerts](http://www.corporate-ir.net/ireye/unsubscribe.zhtml?t=23593&a=ir-sec), The Federal Premium [e-Newsletter](http://glarp.atk.com/pages/lodge/default.aspx), and [job opening submissions](https://atk73.myvurv.com/MAIN/careerportal/default.cfm?szUniqueCareerPortalID=b75b0604-8ee7-4e51-8c67-fb2ba05266d5&szIsJobBoard=0). We use this procedure to better safeguard your information. To protect your privacy and security, we may also take reasonable steps to verify your identity before granting access or making corrections.  
 
 
 9\. UPDATES AND CHANGES TO PRIVACY POLICY
@@ -96,4 +96,4 @@ We reserve the right, at any time and without notice, to add to, change, update 
 Should you have other questions or concerns about our Privacy Policy, please send us an email at [atk.corporate@atk.com](mailto:atk.corporate@atk.com).  
 
 
-[Printer Friendly Version (pdf)](http://www.atk.com/downloads/privacy_policy.pdf)
+[Printer Friendly Version (pdf)](https://web.archive.org/web/20081217200758id_/http%3A//www.atk.com/downloads/privacy_policy.pdf)
