@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutsbuzz.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610045929id_/http%3A//www.tutsbuzz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutsbuzz.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217231636id_/http%3A//www.tutsbuzz.com/privacy.html) for the most accurate reproduction.*
 
 # TutsBuzz.com - Tutorial Index Page
 
