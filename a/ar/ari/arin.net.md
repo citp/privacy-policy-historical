@@ -1,59 +1,65 @@
-> *The following text is extracted and transformed from the arin.net privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630164606id_/http%3A//www.arin.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arin.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040648id_/http%3A//www.arin.net/privacy.html) for the most accurate reproduction.*
 
-# ARIN Privacy Statement
+# ARIN Privacy Policy
 
-**Effective Date: 18 March 2003**
+**Version 2.0, Effective Date: 4 October 2008**
 
-The American Registry for Internet Numbers places a high value on the privacy of our members and other visitors to our site. Because we value your privacy so highly we have developed this Privacy Statement to inform you about our privacy practices for the entire ARIN website.
+The American Registry for Internet Numbers (“ARIN”) values the privacy of our customers and visitors to our website (the “Site”), and information submitted to us electronically.  The following statement explains ARIN’s Privacy Policy and privacy practices (the “Policy”). The Policy does not govern ARIN’s treatment of information you voluntarily post to publicly accessible forums.  By using the Site and ARIN’s services, you accept the terms of this Policy and consent to the collection and use of information by ARIN in accordance with this Policy.  If you do not accept the terms of this Policy, please do not use the Site or ARIN’s services. 
 
-## What Information Do We Collect?
+###  Overview
 
-> ### Personal Information
-> 
-> ARIN does not collect any personal information from you unless you personally, explicitly, and intentionally provide it to us.
-> 
-> As is standard practice for most websites, certain visitor characteristics are reflected in our web server logs (e.g. operating system, browser version, and Internet Protocol (IP) address). We make no attempt to link them with the individual visitors to the site.
-> 
-> On its website, ARIN requires some visitors to provide certain personally identifiable information for purposes such as becoming a member, renewing membership, handling template requests, participating in discussion groups, submitting inquiries and comments, or registering for conferences. This information may include name, postal address, e-mail address, and other pertinent data.
-> 
-> Questions about this privacy statement should be directed to [webmaster@arin.net](mailto:webmaster@arin.net?Subject=Privacy%20Statement). Please specify "Privacy Statement" in the subject line of your e-mail. You will receive a response within three business days of your inquiry.
+ARIN will only collect information ARIN reasonably believes is appropriate and relevant to the purpose for which it is being collected. ARIN does not collect any personal or organizational information from you unless you personally, explicitly, and intentionally provide it to us.
 
-## What We Do With That Information
+###  General Data Collection
 
-> With regard to non-personally identifiable information, we may periodically analyze our website logs to assess aggregate usage trends in order to better serve the needs of visitors to the site. Under some circumstances this information may be used for purposes of systems administration or server troubleshooting and security. The website logs are archived in their entirety and kept purely as an internal reference.
-> 
-> We do not sell, rent, or share any personally identifiable information voluntarily supplied by visitors or our membership mailing list.
-> 
-> Membership information is collected and maintained solely in order to provide our members with access to specific benefits accorded to them through membership in ARIN. Any further e-mail addresses, phone numbers, or other contact information submitted by visitors voluntarily in the course of inquiries and comments are used only for purposes of taking action in relation to the nature of the inquiry or comment.
-> 
-> In addition, ARIN's WHOIS program provides information on IP addresses, Autonomous System numbers (ASNs), and related objects including name servers and Points of Contact (POC). The Point of Contact information is stripped when ARIN provides organizations a bulk copy of the WHOIS output, and ARIN requires the requester of Bulk WHOIS data to affirm that they will only use the data for Internet operational or technical research purposes.
+We collect and store general characteristics of the users of ARIN services, including but not limited to, pages visited, operating system, browser version and Internet Protocol (IP) address of client sessions. This information is used in summary form to analyze usage trends and to help us understand how our services are used. ARIN does not attempt to link general characteristic data to individuals. Under some circumstances, this information may be used to troubleshoot service issues or investigate security matters.
 
-## Use of Cookies
+###  Collection of Voluntarily Submitted Data
 
-> "Cookies" are pieces of information that a browser can record after visiting a website. We currently do not use cookies on our site, but may do so in the future.
+ARIN provides services that may require collection of personally identifiable information about you and each organization on whose behalf you have the legal authority to act (each an “Authorized Organization”). In using the Site or ARIN’s services, including but not limited to Internet resource applications, the membership application form, the meeting registration system, survey forms and resource-related systems (collectively, the “Services”), you may be asked to provide personally identifiable information, including but not limited to name, postal address, phone and fax numbers, e-mail addresses, business tax identification numbers, financial information, and business plans. If you choose to use the Services and submit personally identifiable information about yourself or an Authorized Organization, ARIN may collect and link general user characteristics to this information. We collect, retain and use this information only to the extent we reasonably believe necessary to administer our business, provide the requested Services, protect the integrity of our business practices and secure our systems from unauthorized or abusive access.  ****
 
-## Membership Database
+### Mailing Lists, Wikis and Public Forums 
 
-> ARIN members may receive periodic e-mail or postal mailings from us with information about ARIN, upcoming events, or issues related to ARIN and RIR policy. In addition, our website lists our member organization's names and a link to their websites (if the URL is provided by the member).
+If you use ARIN’s public mailing lists, public wikis or other public forum tools that are intended for collaborative information sharing, any personal or organizational information you submit there can be read, collected, or used by other users of these forums.  ARIN is not responsible for the personal or organizational information you choose to submit in these forums.  You are also responsible for using these forums in a manner consistent with the Acceptable Use Policy or other terms and conditions of the relevant forum site. ****
 
-## Security
+### Use of Collected Data
 
-> While no data transmission over the Internet can be guaranteed to be 100 percent secure, we take measures designed to protect the security of data transmitted to us upon receipt. Our databases, including the member database and system administration logs, are restricted only to authorized users. Online transactions of a sensitive nature, e.g. credit card numbers, are protected by secure browser connections.
-> 
-> Our site supports use of secure socket layer (SSL) encryption technology to encrypt your personally identifiable information prior to transmission over the Internet. Users whose browsers do not support SSL encryption are encouraged to contact us by phone or in writing.
+ARIN will not sell, lease or otherwise give your personal or organizational information to third parties except in the following circumstances:
 
-## Links
+  * When we need to share your information to provide you with any information or Service you have requested from ARIN, or if we need to share your information with third parties who maintain the Site or any successor website for us;
+  * When we have your consent to share the information;
+  * If we are required to do so by subpoena, court order or other legal process;
+  * If we discover that you have violated any of ARIN’s service policies or usage guidelines, or any other contracts between you or your Authorized Organization and ARIN, and such disclosure is required to enforce obligations, rights or laws;
+  * If we transfer operations to a permitted assignee or successor agency. 
 
-> This website contains links to other sites. Please be aware that ARIN cannot be responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of those sites that collect personally identifiable information. This privacy statement pertains only to this website.
 
-## Discussion Groups
 
-> Please note that this privacy statement does not apply to any posting by you in any of the ARIN discussion groups, discussion threads, or interactive areas of this website. Your participation in those discussion areas and anything you post in those areas may be attributed to you and displayed, republished, and otherwise disseminated by ARIN, in accordance with the Acceptable Use Policy you agree to abide by in order to participate in those areas.
+ARIN may process personal or organizational information on servers anywhere in the world, including but not limited to the United States. In some cases, we may process personal or organizational information on a server outside your own country.
 
-## Compliance and Questions
+###  Use of Cookies
 
-> If you have any questions regarding our privacy policy or you feel that this site is not following its stated information policy, please contact the ARIN Member Services Department by e-mail to [info@arin.net](mailto:info@arin.net?Subject=Member%20Privacy). You may also contact us at that address if you have any concerns about the accuracy of personally identifiable information associated with your ARIN membership, or wish to correct what we have collected from you. Contact information for where to send changes regarding your information in the ARIN WHOIS database can also be found on the "[Contact Us](https://web.archive.org/web/20080630164606id_/http%3A//www.arin.net/about_us/contact_us.html)" page of this website.
+Portions of the Site use cookies, which are small files stored by your Web browser. The Site stores randomly generated identifying information in the cookies. The Site uses this information to distinguish among visitors and to customize your browsing experience. Although cookies provide an enhanced browsing experience, the ARIN website will function without their use; however, some functionality may be limited without their use.
 
-## Consent and Changes to This Privacy Statement
+###  Security and Reliability of Digital Transmissions
 
-> Subject to the above provisions, by using our site, you consent to the collection and use of information by us in accordance with this privacy statement. If we decide to make a material change to our privacy statement or the way we use your personally identifiable information then at least thirty (30) days prior to making any material change to the Privacy Statement or in the way we use your personally identifiable information we will post such changes in this Privacy Statement, we will post notice of the nature of such change on the ARIN home page at [http://www.arin.net](https://web.archive.org/web/20080630164606id_/http%3A//www.arin.net/index.shtml) and on the [arin-announce mailing list](https://web.archive.org/web/20080630164606id_/http%3A//www.arin.net/mailing_lists/index.html). 
+ARIN maintains security procedures to protect the data transmitted to us and to prevent unauthorized access to, alteration or deletion of customer information.  However, some means of communications may not be secure or reliable, and there is a risk that information you send to ARIN via the Site or may be accessed by unauthorized third parties or may not be received by ARIN.  ARIN does not represent, warrant or guarantee that information you send to ARIN will be protected against unauthorized access, loss, misuse or alteration.
+
+###  **Updating Information**
+
+You may update your information or that of an Authorized Organization by submitting the new information through any means made available by ARIN.  You may delete your account with ARIN; however, information you submitted prior to termination may be retained for our records and/or in our archives.
+
+###  Links to Other Websites 
+
+Our website contains links to other sites.  ARIN is not responsible for the privacy practices, privacy statements, or content of these other sites and does not intend to endorse, affirm or support the content, viewpoint, policies, products or services of any linked site.
+
+###  Unauthorized Use
+
+Unauthorized attempts to access, modify, add or delete any information on or through ARIN systems, to defeat or circumvent security features, or to utilize its systems for any use other than their intended purposes are prohibited. Such actions may result in criminal prosecution.
+
+###  Compliance and Questions
+
+You can submit questions about this Policy or compliance issues to ARIN by sending an e-mail to [compliance@arin.net](mailto:compliance@arin.net). Please specify “Privacy Policy” in the subject line of your e-mail message.
+
+###  Changes to the Policy
+
+ARIN reserves the right to amend this Policy and ARIN’s privacy practices at any time without notice by posting a revised Policy to the Site.  By continuing to use the Site or ARIN’s Services after the Policy is changed, you indicate your acceptance of the Policy as revised.  Therefore, you should review this Policy periodically to check for changes.
