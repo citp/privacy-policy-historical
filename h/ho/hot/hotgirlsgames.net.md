@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotgirlsgames.net privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630102704id_/http%3A//www.hotgirlsgames.net/index.php%3Fpageid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgirlsgames.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065914id_/http%3A//www.hotgirlsgames.net/index.php%3Fpageid%3D2) for the most accurate reproduction.*
 
-# Play game,dress up games,Our Privacy
+# Our Privacy
 
 No information is sold or released to anyone about visitors to hotgirlsgames.net without prior consent or a court order. In other words, no information is released to anyone unless you give permission first. 
 
