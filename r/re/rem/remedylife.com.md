@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remedylife.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629063650id_/http%3A//remedylife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remedylife.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217181221id_/http%3A//www.remedylife.com/privacy) for the most accurate reproduction.*
 
 # REMEDYLife
 
