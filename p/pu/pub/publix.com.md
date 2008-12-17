@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609035826id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055941id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Publix Privacy Policy
 
@@ -314,8 +314,20 @@ _Weddings & Special Occasions Contact Form_
 
 
 
+[Corporate Sustainability](http://sustainability.publix.com/ "Corporate Sustainability") section:
+
+_Send an Article to a Friend Form_
+
+  * Your friend's name (required) - to use to send your friend a link to the tip
+  * Your friend's e-mail address (required) - to use to send your friend a link to the tip
+  * Your name (required) - to use to send the e-mail with a link to the tip from you
+  * Your e-mail address (required) - to use to send the e-mail with a link to the tip from you  
+
+
+
+
 **Other Information  
-**We collect additional information about how you use and access our Web site. This information enables us to improve the site by making it more accessible and easier to navigate. 
+** We collect additional information about how you use and access our Web site. This information enables us to improve the site by making it more accessible and easier to navigate. 
 
 **Surveys, Contests and Sweepstakes  
 ** From time to time, Publix or its affiliates may conduct online surveys that ask you for demographic data, such as your ZIP code, age or income level. Publix or Publix's agents may also contact you by telephone or e-mail, using your phone number or e-mail address collected when you filled out one of the forms described in the "What is Collected, and How Do We Use It" section of this Policy, with the option to participate in consumer research studies. Participation in any survey or other consumer research is always voluntary. Publix aggregates the responses we receive before using the information to improve the products and services we offer. We do not link your individual responses to your personal information at any time.
@@ -341,7 +353,7 @@ Our site may contain links to other sites. Please be aware that Publix is not re
 If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users. We will use information in accordance with the privacy policy under which the information was collected.  
 
 **Contact Us**  
-Please let us know if you have any questions about our Privacy Policy. Simply send us an [e-mail](https://web.archive.org/web/20080609035826id_/http%3A/contact/SendUsAMessage.do).  
+Please let us know if you have any questions about our Privacy Policy. Simply send us an [e-mail](https://web.archive.org/web/20081217055941id_/http%3A/contact/SendUsAMessage.do).  
 
 **COPYRIGHT NOTICE**  
 Copyright© 2008 Publix Asset Management Company. All rights reserved. Any rights not expressly granted herein are reserved.  
