@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the egydown.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501115447id_/http%3A//www.egydown.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egydown.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082307id_/http%3A//www.egydown.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy » EgyDown | Download Full Free Software With Crack Serial Keygen
-
-Privacy Policy  
-
+# Privacy Policy » Download Free Software Crack Serial - Rapidshare
 
 Your Privacy
 
@@ -13,7 +10,7 @@ EgyDown.Com is committed to protecting your privacy. EgyDown.Com does not sell, 
 
    Third Party Advertising
 
-   We use  Cpxinteractive, Adbrite, Google Adsense..... and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.
+   We use  Cpxinteractive, Adbrite, Clicksor..... and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.
 
    Third Party Cookies
 
