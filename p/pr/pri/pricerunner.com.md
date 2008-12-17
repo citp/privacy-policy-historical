@@ -1,74 +1,85 @@
-> *The following text is extracted and transformed from the pricerunner.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512090906id_/http%3A//www.pricerunner.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricerunner.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218000400id_/http%3A//www.pricerunner.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PriceRunner.com
 
 [PriceRunner](https://web.archive.org/)
 
- **PRICERUNNER PRIVACY POLICY**
+ **PRICERUNNER PRIVACY POLICY**  
+EFFECTIVE DATE: September 8, 2008 
 
-At Pricerunner.com ("we", "us", "Site") we respect your privacy and want to ensure that each and every member feels comfortable in sharing their personal data. We make every effort to keep your information confidential and protect your privacy when using our site and services. We take your privacy and our responsibility under the privacy laws very seriously. 
+At PriceRunner.com ("PriceRunner.com”,"we", "us", “our” "Site"), we respect your privacy and want to ensure that each and every user and member feels comfortable in sharing their data. We take your privacy and our responsibility under the privacy laws very seriously. 
 
-_Please read this privacy policy carefully since by visiting the Site and sharing information with us you agree to be bound by the terms and conditions of this Privacy Policy unless you offer different terms which are accepted by us in writing._
+Please read this privacy policy carefully since by visiting the Site and sharing information with us you agree to be bound by the terms and conditions of this Privacy Policy. PriceRunner.com is owned by ValueClick, Inc. For more information about ValueClick, Inc. or any of its subsidiaries or affiliates, please visit www.valueclick.com 
 
 **CALIFORNIA RESIDENTS: YOUR PRIVACY RIGHTS**
 
-Effective January 1, 2005, companies that collect personally identifiable information ("PII") from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option and you may request that your PII not be shared with third parties by sending your request, including your full name, email address and postal address to Pricerunner, Attn: SB 27 Officer, P.O. Box 5600, Westlake Village, CA 91361. 
+Effective January 1, 2005, companies that collect personally identifiable information (data collected with an intention to identify and contact a person such as name, address, telephone number or e-mail address) ("PII") from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option and you may request that your PII not be shared with third parties by sending your request, including your full name, email address and postal address to PriceRunner, Attn: SB 27 Officer, 30699 Russell Ranch Road, Suite 250,, Westlake Village, CA 91362 or email us with such request with your full name and email address at [info-us@PriceRunner.com](mailto:info-us@pricerunner.com). 
 
 **I. INFORMATION WE COLLECT**
 
 **A. Personally Identifiable Information (PII).**
 
-Pricerunner does not automatically collect any personal information about you. We do collect PII such as your name, e-mail address, geographical location, age and gender through membership registration, newsletter sign-up requests or promotional contests. Please note that it is not necessary for you to become a member in order to use many of the features on Pricerunner.com, a non-member can easily see products and prices, perform searches, read reviews and take advantage of many other useful features on the site. 
+PriceRunner does not automatically collect any PII about you. We do collect PII through membership registration, newsletter sign-up requests or promotional contests. Please note that it is not necessary for you to become a member in order to use many of the features on PriceRunner.com. A non-member can easily see products and prices, perform searches, read reviews and take advantage of many other useful features on the Site. 
 
-Pricerunner also operates a free e-newsletter service - **the Pricerunner Update** \- to help you keep up-to-date with the best deals, contests and Pricerunner news. This is an opt-in service so, as a member, you will receive the newsletter. To unsubscribe simply send an e-mail to [info-us@pricerunner.com](mailto:info-us@pricerunner.com) and include your e-mail address. 
+PriceRunner also operates a free e-newsletter service - the PriceRunner Update - to help you keep up-to-date with the best deals, contests and PriceRunner news. This is an opt-in service so, as a member, you will receive the newsletter. To unsubscribe to this newsletter simply send an e-mail to [info-us@PriceRunner.com](mailto:info-us@pricerunner.com) and include your e-mail address and full name with a request to unsubscribe to this newsletter. 
 
-The reason that we ask for this PII is to provide you with information that you may request, to customize your experience on the Site, and to contact you when necessary in connection with any promotions you participate in. 
+The reason that we ask for this PII are for reasons that include, as an example, providing you with information that you may request, customizing your experience on the Site, and contacting you when necessary in connection with any promotions you participate in. 
 
-We also use this information for internal business purposes, such as aggregating the data to help us to create a profile of Pricerunner visitors - as a whole - so that we can; a) build a better understanding of our users and enhance the services we offer, and b) attract advertisers to spend money on Pricerunner, thus enabling our free price comparison service to operate. 
+We also may use this information for internal business purposes, which may include aggregating the data to help us to create a profile of PriceRunner visitors - as a whole - so that we can for purposes which include: a) build a better understanding of our users and enhance the services we offer, and b) attract advertisers to spend money on PriceRunner, thus enabling our free price comparison service to operate. 
 
-Unless you tell us not to, we may use your personal information to contact you about offers or promotions from Pricerunner and selected third parties we think you would be interested in. 
+Unless you tell us not to, we may use your PII to contact you about offers or promotions from PriceRunner and selected third parties we think you would be interested in. 
 
 **B. Non-Personally Identifiable Information (PII).**
 
-Pricerunner uses cookies - a small text file containing a unique string of numbers or letters that is placed on a computer - to ‘remember’ your computer when you visit the site. Using cookies helps us serve ads, take polls and better manage the services we offer. This will not collect any personally identifiable information about you. Cookies do not recognize you as a person, just your computer. They cannot be used to obtain other information from your hard drive. 
+PriceRunner uses Cookies, log files and web beacons to collect non-personally identifiable information, such as IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity (“Non-PII”). 
 
-For each visitor to our website, our Web server automatically recognizes only the visitor's IP address. We use your IP address to help diagnose problems with our server and to administer our website. Upon visiting our website, we assign each visitor a unique ID that is used to track visitor traffic patterns within our website. We also collect aggregate and user-specific information on the pages that visitors access or visit. We reserve the right to retain all website traffic reporting data as long as may be reasonably necessary for accounting and auditing purposes. 
+“Log files” track actions occurring on our Site and collect data including your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed. 
+
+"Web beacons" are electronic files used to track your navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior. 
+
+"Cookies" are files (e.g. flash browser objects) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies to help us serve ads, take polls and better manage the services we offer. Cookies collect Non-PII and do not collect any PII about you. Cookies, Log files and Web beacons cannot be used to obtain PII from your hard drive. 
+
+There are two classes of Cookies based on how long they remain on your system: (i) “Session Cookies” are used only during your visit to the Site and are erased once you close your browser, and (ii) “Persistent Cookies” remain on your browser for 1 year from your last visit to the Site and enable us to remember you on subsequent visits to the Site and provide more relevant content to you on such Site. 
+
+There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. PriceRunner.com does not and cannot use Cookies or web beacons to retrieve PII from your computer. 
+
+A useful resource on understanding Cookies may be found at http://www.allaboutcookies.org. 
 
 **II. INFORMATION SHARING**
 
-Pricerunner may use third party vendors to help us operate our business and this Site or administer activities on our behalf. We may share your information with these third parties for those limited purposes. Any third-party vendor so used has agreed to protect the confidentiality of information provided by Pricerunner. 
+PriceRunner may use third party vendors to help us operate our business and this Site or administer activities on our behalf. We may share your information, PII and/or Non-PII, with these third parties for those limited purposes. Any third-party vendor so used has agreed to protect the confidentiality of information provided by PriceRunner. 
 
-Pricerunner and/or our marketing partners may enhance and/or merge PII with commercially-available third party data collected from other sources in an effort to ensure that the messages being sent to the consumer in online and/or offline marketing programs are relevant to their interests. In the event we enhance and/or merge such personally identifiable information with data collected from other sources, we will take reasonable steps to maintain the integrity and quality of that information. 
+PriceRunner and/or our marketing partners may enhance and/or merge PII with commercially-available third party data collected from other sources in an effort to ensure that the messages being sent to the consumer in online and/or offline marketing programs are relevant to their interests. 
 
-Pricerunner may share PII (including information that has been enhanced with information from other sources) with co-branded partners, advertisers, third party marketers, our affiliated entities for their online and/or offline marketing programs or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, reorganization or liquidation of any Pricerunner division. 
+PriceRunner may share Non-PII and PII (including information that has been enhanced with information from other sources) with co-branded partners, advertisers, third party marketers, our affiliated entities for their online and/or offline marketing programs or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, reorganization or liquidation of any PriceRunner division. Such entities may merge the Non-PII that we share with such entities with any PII you may choose to give in registering and transacting with such entities’ websites. 
 
-Please note that while Pricerunner encourages merchants and marketing partners to adopt responsible approaches to online marketing, we are not responsible for the information practices of our merchants or marketing partners. The collection, use, and disclosure of information by such third parties is subject to their respective privacy policies, which may differ from this policy. Please be sure to review their policy prior to providing any information. 
+Please note that while PriceRunner encourages merchants and marketing partners to adopt responsible approaches to online marketing, we are not responsible for the information practices of our merchants or marketing partners. The collection, use, and disclosure of information by such third parties is subject to their respective privacy policies, which may differ from this policy. Please be sure to review their policy prior to providing any information. 
 
-Pricerunner may release account and any other personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of Pricerunner or others. This includes exchanging information with other companies and organizations for fraud protection. 
+PriceRunner may release account and any other PII when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of PriceRunner or others. This includes exchanging information with other companies and organizations for fraud protection. 
 
 **III. CONSUMER CHOICE AND ACCESS**
 
-If at anytime you no longer wish to receive offers from a Pricerunner, you may "unsubscribe" by sending an email to [info-us@pricerunner.com](mailto:info-us@pricerunner.com) or by using the unsubscribe option within any promotional offer. In compliance with the CAN-SPAM Act, you will be removed entirely from our email list and will no longer receive offers from us. If you have registered or submitted PII under more than one email account, you must submit separate unsubscribe requests from each account. 
+If at anytime you no longer wish to receive e-mail offers from a PriceRunner, you may "unsubscribe" by sending an email with your full name and email address to [info-us@PriceRunner.com](mailto:info-us@pricerunner.com) or by using the unsubscribe option within any promotional offer. In compliance with the CAN-SPAM Act, you will be removed from our email list and will no longer receive offers from us. If you have registered or submitted PII under more than one email account, you must submit separate unsubscribe requests in the manner set forth in this paragraph from each account. 
 
-The Cookies we use do not have an "opt-out" option, yet you still have the option of blocking the use of cookies by changing a setting in your Internet browser. Please see your browser supplier's website for details on how to do this. 
+The Cookies we use do not have an "opt-out" option, yet you still have the option of blocking the use of cookies by changing a setting in your Internet browser. To adjust these settings, we suggest that you contact the supplier of you browser and browser add-ons for more information. 
 
-Pricerunner sends a confirming email for each member registration. You may change, correct or update your information by email by contacting [info-us@pricerunner.com](mailto:info-us@pricerunner.com). Changing or deleting your information or otherwise opting-out of receipt of communications from the Pricerunner will change or delete the data only in our database for purposes of transacting future business on our sites and for managing future communications from Pricerunner. These changes and deletions will not change or delete information already collected as part of a particular transaction. 
+PriceRunner sends a confirming email for each member registration. You may change, correct or update your information by email by contacting us with the requested information at [info-us@PriceRunner.com](mailto:info-us@pricerunner.com). Changing or deleting your information or otherwise opting-out of receipt of communications from the PriceRunner will change or delete the data only in our database for purposes of transacting future business on our sites and for managing future communications from PriceRunner. These changes and deletions will not change or delete information already collected as part of a particular transaction. 
 
 **IV. SECURITY**
 
-Pricerunner employs industry standard security measures to ensure the security of all data. Any data that is stored on Pricerunner’s servers are treated as proprietary and confidential and is not available to the public. Access is password-protected and limited to individuals at whose job responsibilities require the access 
+PriceRunner employs reasonable security measures to ensure the security of all data it collects. 
 
-No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Pricerunner to intercept or access transmissions or private communications unlawfully. While we strive to protect your PII, Pricerunner cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with us. 
+No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of PriceRunner to intercept or access transmissions or private communications unlawfully. While we strive to protect your PII, PriceRunner cannot ensure or warrant the security of any information, including PII, you transmit to us. You acknowledge and assume this risk when communicating with us. 
 
 **V. CONSENT AND CHANGES**
 
-Pricerunner may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by Pricerunner prior to the effective date of the policy change unless we provide you direct notice and the opportunity to opt-out of such proposed change. 
+PriceRunner may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
 
 **VI. CHILDREN'S PRIVACY AND SPAM**
 
-Pricerunner is very sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. Pricerunner' web sites, products, and services are not developed for or directed at children. If you believe your child has provided Pricerunner with any personally identifiable data by registering at a Pricerunner web site, please contact [info-us@pricerunner.com](mailto:info-us@pricerunner.com) to have them removed. 
+PriceRunner is very sensitive to the issue of children's privacy and makes an effort to protect the privacy of children using the Internet. Our Site and membership services are not developed for or directed at children under the age of 13. If you believe your child has provided PriceRunner with any PII by registering at a PriceRunner web site, please contact us with such details at [info-us@PriceRunner.com](mailto:info-us@pricerunner.com) to have them removed. 
 
-Pricerunner is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701). It is our policy to prohibit the sending of unsolicited or "Spam" email by Pricerunner or any of its marketing partners. 
+PriceRunner is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701). It is our policy to prohibit the sending of unsolicited or "Spam" email by PriceRunner or any of its marketing partners. 
 
 Please note that under the CAN-SPAM Act, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Although not required to by law, many email marketers also include an opt-out mechanism to enable consumers to be removed from their mailing list. This has caused some confusion for consumers in opting out. The table below clarifies which opt-out mechanism you should use. 
 
@@ -80,7 +91,7 @@ from the advertiser or email marketing company  |  Both
   
 **VII. DATA PROCESSING**
 
-You acknowledge that Pricerunner operates in the United State and the European Union and agree to (i) permit Pricerunner to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by Pricerunner shall be subject to the terms and conditions stated in this Privacy Statement and our Terms and Conditions. 
+You acknowledge that PriceRunner operates in the United State and the European Union and agree to (i) permit PriceRunner to transmit and use your information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by PriceRunner shall be subject to the terms and conditions stated in this Privacy Policy and our Terms and Conditions. 
 
 **VIII. LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE**
 
@@ -90,4 +101,4 @@ You also agree that you have provided notice to, and obtained consent from, any 
 
 **CONTACT US**
 
-For more information or if you have questions or concerns regarding the Pricerunner Privacy Policy, please send an email to [legal@pricerunner.com](mailto:legal@pricerunner.com), or you can send correspondence to the following address: Pricerunner, Attn: Privacy Officer, P.O. Box 5600, Westlake Village, CA 91361. 
+For more information or if you have questions or concerns regarding the PriceRunner Privacy Policy, please send an email to [info-us@PriceRunner.com](mailto:info-us@pricerunner.com), or you can send correspondence to the following address: PriceRunner, Attn: Privacy Officer, 30699 Russell Ranch Road, Suite 250, Westlake Village, CA 91362. 
