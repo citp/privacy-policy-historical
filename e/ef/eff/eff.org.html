@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eff.org privacy policy that was archived on 2008-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080612101955id_/http%3A//www.eff.org/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eff.org privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217010537id_/http%3A//www.eff.org/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
   <title>Privacy Policy | Electronic Frontier Foundation</title>
@@ -52,9 +52,10 @@
 </div>
 <div id="topnav">
   <div class="wrapper">
-  	<div id="search"><div id="searchinner">
-	  <form method="get" action="/cgi/search-proxy.py">
-        <input class="searchtextarea" type="text" name="q" size="17" maxlength="255" value="Enter search terms" onclick="this.value = ''"> <input type="submit" class="submit" value="Go" name="sa"> <a class="searchinfolink" href="/policy#searchpolicy" title="View our privacy policy">?</a>
+	<div id="search"><div id="searchinner">
+	  <form action="/search" method="post">
+	    <input class="searchtextarea" type="text" name="text" size="17" maxlength="255" value="Enter search terms" onclick="this.value='';this.style.color='#000'"> <input type="submit" name="op" class="submit" value="Go"><input type="hidden" name="form_id" id="edit-effsearch-form" value="effsearch_form"> 
+		<a class="searchinfolink" href="/policy#searchpolicy" title="View our privacy policy">?</a>
 	  </form>
 	</div></div>
 		  <ul class="links-menu">
@@ -132,7 +133,7 @@ We look at technical information to diagnose problems with our server and to adm
 </p>
 <h2 id="searchpolicy">About EFF's Search Function</h2>
 <p>
-EFF uses Google for search functionality on <a href="http://www.eff.org" title="www.eff.org">www.eff.org</a>. To protect your privacy, EFF proxies search requests to Google with a special CGI script on our server, thus hiding your IP address and your Google cookie (if any) from Google's servers.
+EFF uses <a href="http://developer.yahoo.com/search/">Yahoo! Search API</a> for search functionality on <a href="http://www.eff.org" title="www.eff.org">www.eff.org</a>. All searches are carried out by EFF's servers, protecting your privacy; no information from your browser (including your IP address or any cookies) is transmitted to Yahoo! or any third party.  EFF's own use and protection of your search information is described elsewhere in this document.
 </p>
 <h2>Third-Party Service Providers</h2>
 <p>
@@ -188,43 +189,52 @@ Although we make good faith efforts to store information collected by EFF in a s
 
 <div id="enditems">
             <div class="col1">
-          <!-- block-block-1 -->
-<div class="effector equalized">
-		<h2>Subscribe to EFFector</h2>
-<div class="inner">
-		<!-- form posts to convio -->
+          <div class="block" id="block-block-1">
+      <h2>Subscribe to EFFector</h2>
+    <div class="inner">
+      		<!-- form posts to convio -->
 		<form name="survey_1280" id="survey_1280" method="post" action="http://action.eff.org/site/Survey?JServSessionIdr001=qz62pgrb71.app6a">
 		<input type="hidden" name="1409_1280_1_1320" id="x1409_1280_1_1320_1" value="1041">
 		<small>[our free email newsletter]</small>
 		<br>
 		<input type="hidden" name="cons_info_component" id="cons_info_component" value="t">
-		<input type="text" name="cons_email" id="cons_email" value="Email" size="16" maxlength="255" onclick="this.value = ''" style="margin-bottom:5px">
+		<input type="text" name="cons_email" id="cons_email" value="Email" size="16" maxlength="255" onclick="this.value = '';this.style.color='#000'" style="margin-bottom:5px">
 		<br>
-		<input type="text" name="cons_zip_code" id="cons_zip_code" value="Zip Code" size="8" maxlength="40" onclick="this.value = ''"> <small>(optional)
+		<input type="text" name="cons_zip_code" id="cons_zip_code" value="Zip Code" size="8" maxlength="40" onclick="this.value = '';this.style.color='#000'"> <small>(optional)</small>
 		
 		<br>
 		<input type="submit" class="submit" name="ACTION_SUBMIT_SURVEY_RESPONSE" id="ACTION_SUBMIT_SURVEY_RESPONSE" value="Subscribe!">
 		<input type="hidden" name="SURVEY_ID" id="SURVEY_ID" value="1280">
 		<input type="hidden" name="USER_HAS_TAKEN" id="USER_HAS_TAKEN" value="null">
 		<input type="hidden" name="SURVEY_IGNORE_ERRORS" id="SURVEY_IGNORE_ERRORS" value="TRUE">
-		<input type="hidden" name="ERRORURL" id="ERRORURL" value="http://eff.org/effector/signup-error.php">
-		
+		<input type="hidden" name="ERRORURL" id="ERRORURL" value="http://w2.eff.org/effector/signup-error.php">
+		</form>
 		<span class="morelink">» <a href="/effector/">EFFector Archive</a></span>
-</small></form></div><small>				
-		</small></div><small>	
+
+    
+    </div>
+  </div>
 
 
 
-
-       </small></div><small>
+       </div>
                   <div class="col2">
-          <!-- block-action-0 -->
-<div class="alerts"><h2>Action Alerts</h2><div class="inner"><ul><li><img src="/files/resized/files/action_images/spying1.24wide.png"><a href="http://action.eff.org/site/Advocacy?id=387">Tell Congress "No Deal on Telecom Immunity!"</a></li><li><img src="/files/resized/files/action_images/icon_intl.24wide.png"><a href="http://action.eff.org/site/Advocacy?id=383">Sunlight for ACTA</a></li><li><img src="/files/resized/files/action_images/icon_privacy.24wide.png"><a href="http://action.eff.org/site/Advocacy?id=373">Protect Digital Privacy at the Border and Beyond</a></li><li><img src="/files/resized/files/action_images/readID_0.24wide.png"><a href="https://secure.eff.org/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=275">Repeal the REAL ID Act</a></li></ul><span class="morelink">» <a href="/action">Action Center</a></span></div></div>
+          <div class="block" id="block-action-0">
+      <h2>Action Alerts</h2>
+    <div class="inner">
+      <ul><li><img src="/files/resized/files/action_images/icon_intl.24wide.png"><a href="http://action.eff.org/site/Advocacy?id=383">Sunlight for ACTA</a></li><li><img src="/files/resized/files/action_images/icon_privacy.24wide.png"><a href="http://action.eff.org/site/Advocacy?id=373">Protect Digital Privacy at the Border and Beyond</a></li><li><img src="/files/resized/files/action_images/readID_0.24wide.png"><a href="https://secure.eff.org/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=275">Repeal the REAL ID Act</a></li></ul><span class="morelink">» <a href="/action">Action Center</a></span>    
+    </div>
+  </div>
+
 
 
        </div>
                   <div class="col3">
-          <!-- block-block-7 -->
+          <div class="block" id="block-block-7">
+      <a href="http://www.eff.org/12days">
+  <img src="/files/images/sidebars/12days_sidebar.png" alt="Happy Holidays">
+</a>
+
 <a href="http://secure.eff.org/shop">
   <img src="/files/images/sidebars/shop.gif" alt="EFF Swag!">
 </a>
@@ -236,13 +246,13 @@ Although we make good faith efforts to store information collected by EFF in a s
       <span>Bloggers' Rights</span>
     </div>
   </a>
-  <!--
-  <a href='/coders'>
-    <div class='smallaction' id='crights'>
+
+  <a href="/coders">
+    <div class="smallaction" id="crights">
       <span>Coders' Rights</span>
     </div>
   </a>
-  -->
+
   <a href="/issues/foia">
     <div class="smallaction" id="ffoia">
       <span>FLAG / FOIA Project</span>
@@ -252,12 +262,6 @@ Although we make good faith efforts to store information collected by EFF in a s
   <a href="/linenoise">
     <div class="smallaction" id="lnoise">
       <span>Line Noise Podcast</span>
-    </div>
-  </a>
-
-  <a href="/helpout">
-    <div class="smallaction" id="oways">
-      <span>Other Ways To Help</span>
     </div>
   </a>
   
@@ -273,16 +277,24 @@ Although we make good faith efforts to store information collected by EFF in a s
     </div>
   </a>
  -->
+
+  <a href="/helpout">
+    <div class="smallaction" id="oways">
+      <span>Other Ways To Help</span>
+    </div>
+  </a>
       
 </div>
+    
+  </div>
 
 
 
        </div>
-      </small></div><small> 
+      </div> 
 
  	<div class="clr"></div> 
-</small></div><small>
+</div>
 
 <div id="footer">
    <div class="wrapper">
@@ -305,4 +317,4 @@ Although we make good faith efforts to store information collected by EFF in a s
 
 
 
-</small></body></html>
+</body></html>
