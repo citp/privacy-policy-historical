@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constructiondeal.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522051603id_/http%3A//www.constructiondeal.com/customerPrivacy.pub) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constructiondeal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125427id_/http%3A//www.constructiondeal.com/customerPrivacy.pub) for the most accurate reproduction.*
 
 # ConstructionDeal.com - Privacy Policy
 
@@ -29,7 +29,8 @@ How the Information is Utilized to Help You Complete Your Project:
 
   * We use the information you provide about yourself and your project, when registering with us, only to complete our service. We do not share this information with outside parties except to the extent necessary to complete that process.
   * We email you the information on each and every service provider who previewed your project details and requested your contact information.
-  * Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above.
+  * We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above.
+  * Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here.](https://secure.indextools.com/optout,OptOut.vm?domain=stats.indextools.com)
 
 
 
@@ -67,7 +68,8 @@ How the Information is Utilized to Help You Find Prospects:
   * We use the information you provide about yourself and your company, when registering or subscribing with us, only to complete our service. We do not share this information with outside parties except to the extent necessary to complete that process.
   * We will only provide your business contact information to project owners who's contact information you requested to view and not to any outside parties.
   * We use your email address for communication purpose. Such addresses are not used for any other purpose and are not shared with outside parties.
-  * Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above.
+  * We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above.
+  * Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here.](https://secure.indextools.com/optout,OptOut.vm?domain=stats.indextools.com)
 
 
 
