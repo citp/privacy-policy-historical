@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dekhona.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611025647id_/http%3A//www.dekhona.com/help/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dekhona.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218004315id_/http%3A//www.dekhona.com/help/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy policy - dekhona.com
 
