@@ -1,11 +1,27 @@
-> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209074539id_/http%3A//memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218004856id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-|  This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
+     [Wholesale/Promotional Custom Memory Sticks & USB Flash Pen Drives](http://www.memorysuppliers.com/cuusbfldr.html)
 
- **AtMemory Suppliers, we are committed to protecting your privacy online.** We created our Privacy Policy ("Policy") in order to demonstrate our firm commitment to protecting the privacy of our shoppers.
+    
+
+     **Memory Suppliers, Inc.**   
+540 Frontage Rd   
+Suite 2000   
+Northfield, IL 60093   
+[Map/Directions](http://maps.google.com/maps?li=d&hl=en&f=d&iwstate1=dir:to&daddr=540+W+Frontage+Rd,+Northfield,+IL+60093+%28Memory+Suppliers%29&geocode=16196821042076309804,42.106593,-87.771627&iwloc=1&dq=Memory+Suppliers+&cid=42106593,-87771627,7990818536948224925&ei=5n7pR76)
+
+Toll Free - 800-979-9707   
+Local - 847-784-1418   
+Fax - 847-784-8398 
+
+Mon-Fri 8am - 8pm CST   
+Sat 9am - 5pm CST 
+
+| 
+
+**AtMemory Suppliers, we are committed to protecting your privacy online.** We created our Privacy Policy ("Policy") in order to demonstrate our firm commitment to protecting the privacy of our shoppers.
 
   
 
@@ -46,3 +62,22 @@ In order to most efficiently serve you, credit card transactions and order fulfi
 
   
 When you access your account information, the information is kept on a secure server. All of the customer data we collect is protected against unauthorized access by physical security means.
+
+  
+" _I was amazed at the intelligent staff member who handled my order, and the swiftness in which it arrived._ " — Raymond, VA
+
+**Thank you for choosing MemorySuppliers.com.** We are a **service-based** company with a single priority: your complete satisfaction. We recently extended our [support and sales hours](http://www.memorysuppliers.com/contactus.html) to better serve our clients worldwide. Contact us **toll free at 800-979-9707** , via **Live Chat** or [email](mailto:sales@memorysuppliers.com).
+
+  
+| 
+
+     [](https://chat1.chatstat.com/chatframe.aspx?csuid=10167)
+
+     [](https://www.mcafeesecure.com/RatingVerify?ref=www.memorysuppliers.com)
+
+     [](http://www.memorysuppliers.com/memorablegiftguide.html)
+
+     [](http://www.memorysuppliers.com/memorablegiftguide.html)
+
+      
+---|---|---
