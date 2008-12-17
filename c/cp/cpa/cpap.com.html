@@ -1,297 +1,643 @@
-<!--The following is the downloaded HTML source of the cpap.com privacy policy that was archived on 2008-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080625083357id_/http%3A//www.cpap.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cpap.com privacy policy that was archived on 2008-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218005527id_/http%3A//www.cpap.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-<title>CPAP Machines and CPAP Masks for the Treament of Sleep Apnea</title>
-<meta name="DESCRIPTION" content="CPAP toll free help line! 1-800-356-5221. We sell a full range of cpap and bipap products: ultra mirage, goodknight, respironics, remstar and all forms of nasal pillows!">
-<meta name="KEYWORDS" content="cpap,cpaps,cpap machine,cpap mask,cpap masks,sleep apnea,bipap,respironics,resmed,goodknight,ultra mirage,nasal aire,nasal pillow,remstar,420G">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>CPAP Machines and CPAP Masks for the Treatment of Sleep Apnea</title>
+<meta name="DESCRIPTION" content="CPAP toll free help line! 1-800-356-5221. Products in stock, shipping today with 100% price protection. Unbiased user reviews, CPAP and BiPAP compare charts, an extensive FAQ section.">
+<meta name="KEYWORDS" content="cpap,cpaps,cpap machine,cpap mask,cpap masks,sleep apnea,bipap,respironics,resmed,puritan bennett,goodknight,ultra mirage,nasal aire,nasal pillow,remstar,420G,swift,comfort lite2, comfortgel, profile lite">
 
-<link href="style.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" media="screen" type="text/css" href="http://www.cpap.com/cpap_style.css">
+<link rel="stylesheet" media="screen" type="text/css" href="/css/ella.css">
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/menu.css">
 
-<script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/trustlogo.js"></script>
+	<script language="JavaScript1.3">
+		function setRepresentativesStandingBy(numberOfRepresentatives) {
+			document.getElementById("info").innerHTML = "<span id=\"size\">"+numberOfRepresentatives + "</span> Representative Standing by";
+		}
+		
+		function getWindowSize() {
+			var myWidth = 0, myHeight = 0;
+			var myArray=new Array();
+			if( typeof( window.innerWidth ) == 'number' ) {
+				//Non-IE
+				myWidth = window.innerWidth;
+				myHeight = window.innerHeight;
+				} 
+			else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+				//IE 6+ in 'standards compliant mode'
+				myWidth = document.documentElement.clientWidth;
+				myHeight = document.documentElement.clientHeight;
+				} 
+			else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+				//IE 4 compatible
+				myWidth = document.body.clientWidth;
+				myHeight = document.body.clientHeight;
+			}
+			myArray[0] = myWidth;
+			myArray[1] = myHeight;   
+			return myArray;
+		}
+		
+		
+		function centerNotification()
+		{
+			var documentSize = document.viewport.getDimensions();
+			var scrollOffSet = document.viewport.getScrollOffsets();				
+			//detect to grab lover height.. since IE and FF are differ
+			if (documentSize.width==0 || documentSize.height<document.body.clientHeight) {
+				documentSize.height = document.body.clientHeight;
+				documentSize.width = document.body.clientWidth;
+			}				
+			$('NotificationGreyOut').style.width=documentSize.width;
+			$('NotificationGreyOut').style.height=documentSize.height;		
+			
+			var windowSize = getWindowSize();
+			
+			var centerH = parseInt($('NotificationMessage').offsetWidth);
+			var centerV = parseInt($('NotificationMessage').offsetHeight);				
+				
+				
+			$('NotificationMessage').style.left = scrollOffSet.left + Math.round(windowSize[0]/2) - centerH/2;
+			$('NotificationMessage').style.top = scrollOffSet.top + Math.round(windowSize[1]/2) - centerV/2;			
+		}					
+				
+		function showNotification(url) { 	
+			if(url.indexOf("?")==-1){
+				url=url+"?";
+			}else{
+				url=url+"&";
+			}						
+			new Ajax.Request(url+"notop=1",
+			{
+				method:'get',		
+				onSuccess: function(transport){	    
+				var responseText = transport.responseText || "no response Text";
+				
+				var documentSize = document.viewport.getDimensions();				
+				var scrollOffSet = document.viewport.getScrollOffsets();				
+				//detect to grab lover height.. since IE and FF are differ
+				if (documentSize.width==0 || documentSize.height<document.body.clientHeight) {
+					documentSize.height = document.body.clientHeight;
+					documentSize.width = document.body.clientWidth;
+				}				
+				$('NotificationGreyOut').style.width=documentSize.width;
+				$('NotificationGreyOut').style.height=documentSize.height;				
+				$('NotificationGreyOut').show();	
+				$('NotificationGreyOut').style.background='#999999';			
+				new Effect.Opacity('NotificationGreyOut', { from: 0.0, to: 0.7, duration: 0.5 });			
+				
+				var windowSize = getWindowSize();
+				
+				$('NotificationMessage').show();		
+				$('NotificationMessage').update(responseText);
+																
+				var centerH = parseInt($('NotificationMessage').offsetWidth);
+				var centerV = parseInt($('NotificationMessage').offsetHeight);				
+				
+				
+				$('NotificationMessage').style.left = scrollOffSet.left + Math.round(windowSize[0]/2) - centerH/2;
+				$('NotificationMessage').style.top = scrollOffSet.top + Math.round(windowSize[1]/2) - centerV/2;
+				
+				new Effect.Opacity('NotificationMessage', { from: 0.0, to: 1, duration: 0.8 });		
+	
+				var newjs=document.createElement('script');									
+				newjs.text = responseText.extractScripts();
+				document.getElementsByTagName('head')[0].appendChild(newjs);
+				},
+				onFailure: function(){ alert('Something went wrong... cannot load xml data!') }
+			});  				
 
-</head>
+			
+		} 
+		
+		function hidePolicy()
+		{
+			new Effect.Opacity('NotificationGreyOut', { from: 0.7, to: 0.0, duration: 0.5 });
+			new Effect.Opacity('NotificationMessage', { from: 1, to: 0.0, duration: 0.8 });
+			
+			$('NotificationMessage').hide();	
+			$('NotificationGreyOut').hide();	
+		}
 
-<body bgcolor="#ffffff" class="topBG" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+		
+		function LoadProducts(catID, depth)
+		{
+			showMenu(catID, depth);
+				
+			/*
+			new Ajax.Request(url,
+			{
+				method:'get',		
+				onSuccess: function(transport){	    
+				var responseText = transport.responseText || "no response Text";
+								
+		
+				},
+				onFailure: function(){ alert('Something went wrong... cannot load xml data!') }
+			});  						
+			*/
+				
+			
+		}
+		
+	window.onresize = function(){	
+		centerNotification();
+	}		
+	</script>
+
+<style type="text/css">
+
+.shop_cart_top_right{
+	background-image: url(/images/sample1/working_r1_c5.gif);
+	background-repeat: no-repeat;
+}
+.blue_back_left {
+	background-image: url(http://www.cpap.com/images/newsletter_top_left.jpg);
+	background-repeat: repeat-x;
+}
+
+.green_text_box {
+	background-color: #238c01;
+	background-repeat: no-repeat;
+	font-family: tahoma;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+
+</style>
+<script src="/javascript/prototype.js" type="text/javascript"></script><script src="/javascript/scriptaculous.js" type="text/javascript"></script><script type="text/javascript" src="//secure.quantserve.com/quant.js"></script><script type="text/javascript">
+_qacct="p-44DNneUxaUOIk";quantserve();</script></head>
+
+<!-- Prototype and Scriptaculous -->
+
+
+
+<!-- Start Quantcast tag -->
+
+
+<body bgcolor="#ffffff" class="topBG" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><noscript>
+<a href="http://www.quantcast.com/p-44DNneUxaUOIk" target="_blank"><img src="//secure.quantserve.com/pixel/p-44DNneUxaUOIk.gif" border="0" style="display: none" height="1" width="1" alt="Quantcast"></a></noscript>
+<!-- End Quantcast tag -->
+
+
+<div id="NotificationGreyOut" style="width:100%; height:100%; top:0; left:0; background:#fff; position: absolute; z-index: 1000; float:left; filter:alpha(opacity=0);-moz-opacity:0.0;opacity:0.0; display: none; "></div>
+<div id="NotificationMessage" style="width:500; top: 125; position: absolute; z-index: 1100; float:left; filter:alpha(opacity=0);-moz-opacity:0.0;opacity:0.0; display: none; "></div>
 
 
 <table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-   <td><img src="images/spacer.gif" width="142" height="1" border="0" alt=""></td>
-   <td><img src="images/spacer.gif" width="112" height="1" border="0" alt=""></td>
-   <td><img src="images/spacer.gif" width="260" height="1" border="0" alt=""></td>
-   <td><img src="images/spacer.gif" width="114" height="1" border="0" alt=""></td>
-   <td><img src="images/spacer.gif" width="142" height="1" border="0" alt=""></td>
-   <td><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+		<td><img src="http://www.cpap.com/images/spacer.gif" width="142" height="1" border="0" alt=""></td>
+		<td><img src="http://www.cpap.com/images/spacer.gif" width="112" height="1" border="0" alt=""></td>
+		<td><img src="http://www.cpap.com/images/spacer.gif" width="260" height="1" border="0" alt=""></td>
+		<td><img src="http://www.cpap.com/images/spacer.gif" width="114" height="1" border="0" alt=""></td>
+		<td><img src="http://www.cpap.com/images/spacer.gif" width="142" height="1" border="0" alt=""></td>
+		<td><img src="http://www.cpap.com/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
   </tr>
 
   <tr>
-   <td><img alt="cpap.com Logo" name="logo_top" src="images/logo_top.gif" width="142" height="56" border="0"></td>
-   <td colspan="3"><map name="FPMap0">
+		<td><img alt="cpap.com Logo" name="logo_top" src="http://www.cpap.com/images/logo_top.gif" width="142" height="56" border="0"></td>
+		<td colspan="3">
+			<map name="FPMap0">
    <area target="_self" coords="138, 5, 351, 55" shape="rect" href="http://www.cpap.com">
-   <area target="_blank" coords="416, 5, 485, 45" shape="rect" href="http://www.cpaptalk.com">
+   <area coords="416, 5, 485, 45" shape="rect" href="http://www.cpap.com/viewCart.php">
    </map>
-   <img name="working_r1_c2" src="images/working_r1_c2.gif" width="486" height="56" border="0" alt="cpap talk forum" usemap="#FPMap0"></td>
-   <td><map name="FPMap1">
-   <area target="_blank" coords="0, 2, 91, 49" shape="rect" href="http://www.cpaptalk.com">
+   			<img name="working_r1_c2" src="http://www.cpap.com/images/sample1/working_r1_c2.gif" width="486" height="56" border="0" alt="view cart" usemap="#FPMap0"></td>
+		<td>
+			<map name="FPMap1">
+   <area coords="0, 2, 91, 49" shape="rect" href="http://www.cpap.com/viewCart.php">
    </map>
-   <img name="working_r1_c5" src="images/working_r1_c5.gif" width="142" height="56" border="0" alt="sleep apnea and cpap discussion board" usemap="#FPMap1"></td>
-   <td><img src="images/spacer.gif" width="1" height="56" border="0" alt=""></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="middle" background="images/top_left.jpg"> 
-      <form action="http://www.cpap.com/newsletter_in.php" method="post" name="mailinglist" class="forms">
-        <table width="245" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="88" align="center" class="textWhite">Newsletter</td>
-            <td width="129">
-            <input name="email" method="POST" type="text" class="forms" value="your email here" onfocus="this.value=''" maxlength="150" size="20"></td>
-            <td width="28" align="right">
-<input name="imageField" type="image" src="images/goButton.gif" width="25" height="20" border="0" alt="cpap newsletter submission">
-            </td>
-          </tr>
-        </tbody></table>
-      </form>
-	
+   <table cellspacing="0" cellpadding="0">
+   				<tbody><tr height="28"><td><img name="working_r1_c5_top" src="http://www.cpap.com/images/sample1/working_r1_c5_top.gif" width="142" height="28" border="0" alt="view cart" usemap="#FPMap1"></td></tr>
+   				<tr><td align="center"><a href="http://www.cpap.com/viewCart.php" class="textWhite"><b> Items ($0.00)</b></a></td></tr>
+   </tbody></table>
 	</td>
-   <td><img name="logobottom" src="images/logobottom.jpg" width="260" height="54" border="0" alt="Bottom of cpap.com logo"></td>
-    <td colspan="2" align="center" valign="middle" background="images/top_right.jpg">
-      <form action="http://www.cpap.com/productSearch.php" method="post" name="form2" class="forms">
-        <table width="245" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr> 
-            <td width="47" align="center" class="textWhite">Find a Product</td>
-            <td width="137">
-            <input name="query" type="text" class="forms" size="20"></td>
-            <td width="61" align="left"> 
-              <input name="imageField2" type="image" src="images/goButton.gif" width="25" height="20" border="0" alt="product search button"> 
-            </td>
-          </tr>
-        </tbody></table>
-      </form>
-	
-	</td>
-   <td><img src="images/spacer.gif" width="1" height="54" border="0" alt=""></td>
   </tr>
-  <tr>
-   <td colspan="5" valign="top">
-
-
+ 	<!--Ella's Comment BLUE Area-->
+	<tr>
+		<td colspan="2" align="center" valign="middle" class="blueLeft">
+			<a href="http://www.cpap.com/why-shop-with-cpap-dot-com.php"><img src="/images/learnMore1.jpg" border="0"></a>
+			
+			
+		</td>
+		<td><img name="logobottom" src="http://www.cpap.com/images/whyus/logobottom.jpg" width="260" height="43" border="0" alt="Bottom of cpap.com logo"></td>
+		<td colspan="2" align="center" valign="middle" class="blueRight">
+			<table border="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td align="center" class="regText" wdith="176"><a href="https://www.cpap.com/accountLogin.php">My Account Login</a></td>
+					<td align="left" class="regText" width="80"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td><img src="http://www.cpap.com/images/spacer.gif" width="1" border="0" alt=""></td>
+	</tr>
+	<!--Ella's Comment ---Yellow Area---Search-->
+	<tr>
+		<td colspan="6" height="37" id="searchBox" valign="top">
+			<form action="http://www.cpap.com/productSearch.php" method="get" name="form2" class="forms">
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td width="220" align="right" valign="top"><p style="font-family:Tahoma,Verdana;font-size:16px;font-weight:bold;color:#08035f;margin-top:5px;margin-right:30px;">Product Search</p></td>
+					<td valign="top" width="*">
+						<p style="margin-top:4px;">
+							<input type="hidden" name="q" value="1">
+							<input type="text" id="search_text" name="query" onfocus="this.value=''" value="Type In Keywords or Item Numbers">&nbsp;
+							<input type="submit" value="" id="search_btn">
+						</p>
+					</td>
+				</tr>
+			
+			</tbody></table>
+			</form>
+		<!--
+  			<map name="FPMap2">
+				<area target="_self" coords="0, 0, 770, 37" shape="rect" href="http://www.cpap.com/why-shop-with-cpap-dot-com.php">
+			</map>
+			<img  border=0 src="http://www.cpap.com/images/whyus/headerbot.jpg"  usemap="#FPMap2">-->
+		</td>
+	</tr>
+	
+	<tr>		
+		<td colspan="6" valign="top">
+		
+<!---Main Table-->
 
 <table cellspacing="0" cellpadding="0" width="677" align="center" border="0">
 <!--DWLayoutTable-->
+<!--DWLayoutTable-->
         <tbody>
           <tr> 
-            <td width="1" height="699" background="dotsverticlefill.gif"><img height="1" src="spacer.gif" width="1"></td>
+            <td width="1" height="699" background="http://www.cpap.com/dotsverticlefill.gif"><img height="1" src="spacer.gif" width="1"></td>
             <td valign="top" width="3">&nbsp; </td>
-            <td valign="top" width="153"><table width="153" height="441" border="0" cellpadding="2" cellspacing="0">
+            <td valign="top" width="153">
+            <table width="153" height="441" border="0" cellpadding="2" cellspacing="0">		
             <tbody><tr> 
-              <td height="28" valign="top"><a href="http://www.cpap.com" class="labelmenu" style="BACKGROUND-IMAGE: none;">Home</a></td>
-            </tr>
-
-            <tr> 
-              <td height="20" class="labelmenu">Products</td>
-            </tr>
- 
-            <tr> 
- 	          <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/findProducts.php">Browse
-              Products</a><img src="images/arrow.gif" width="15" height="10"></td>
-            </tr>
-						<tr> 
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/printable_pricelist.php">Full Text Pricelist</a></td>
-            </tr>          
+              <td height="28" valign="top"><a href="http://www.cpap.com" class="labelmenu" style="BACKGROUND-IMAGE: none;">Home</a>&nbsp;
+              <a href="http://www.cpap.com/simple-find-cpap-products/view-all-categories" class="labelmenu" style="BACKGROUND-IMAGE: none;">Shop</a>&nbsp;
+              <a href="http://www.cpap.com/cpap-faq.php" class="labelmenu" style="BACKGROUND-IMAGE: none;">Learn</a></td>
+            </tr>            
             <tr>
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/viewCart.php">View Shopping Cart</a></td>
-            </tr>
-          
-            <tr>
-           
-           </tr><tr> 
-              <td height="20">&nbsp;</td>
-            </tr>
+            	<td align="center" valign="top">
+            		 <!-- START SCANALERT CODE -->
+								<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.cpap.com"><img border="0" src="http://images.scanalert.com/meter/www.cpap.com/12.gif" alt="HACKER SAFEcertified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is aTrademark of ScanAlert'); return false;"></a>
+								<!-- END   SCANALERT CODE --><br>
+				</td>
+			</tr>
+	            
          
-      			<tr> 
-              <td height="20" class="labelmenu" valign="top">Compare</td>
-            </tr>
+	          <tr> 
+				<td valign="top">
+				<div class="menu">												
+				<ul>
 
-            <tr>
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/cpap-compare-chart/CPAP">CPAP Machines</a></td>
-             </tr>
-         		<tr>
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/maskguide.php">CPAP Masks</a></td>
-            </tr>
-            <tr>
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/cpap-compare-chart/Self-Adjusting-CPAP">Self Adjusting CPAPs</a></td>
-             </tr>
-            <tr>
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/cpap-compare-chart/BiPAP">BiPAPs, VPAPs, Bilevels</a></td>
-             </tr>
-      
-            <tr> 
-              <td height="20">&nbsp;</td>
-            </tr>
-         
-						<tr> 
-                  <td height="20" class="labelmenu">Newsletter</td>
-                </tr>
-                    
-                  <tr> 
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/CpapNews.php">Newsletter Archive
-                </a></td>
-            </tr>           
-                                <tr> 
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/newsletter_in.php">Join 
-                </a></td>
-            </tr>   
-                              <tr> 
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/newsletter_out.php">Unsubscribe
-                </a></td>
-            </tr>   
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">CPAP Masks</a></li>
+				<li class="CatLevel1" id="cat-103" parentid="100"><a href="/simple-find-cpap-products/cpap-masks/cpap-masks.html">CPAP Masks<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/cpap-masks/nasal.html">Nasal</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/cpap-masks/full-face.html">Full Face</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/cpap-masks/nasal-pillow.html">Nasal Pillow</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/cpap-masks/nasal-prong.html">Nasal Prong</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/cpap-masks/oral.html">Oral</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/cpap-masks/total-face.html">Total Face</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/cpap-masks/small-faces.html">Small Faces</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="CatLevel1" id="cat-226" parentid="100"><a href="/simple-find-cpap-products/cpap-masks/replacement-cushions.html">Replacement Cushions<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/replacement-cushions/nasal.html">Nasal</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/replacement-cushions/full-face.html">Full Face</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/replacement-cushions/nasal-pillow.html">Nasal Pillow</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/replacement-cushions/nasal-prong.html">Nasal Prong</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/replacement-cushions/oral.html">Oral</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/replacement-cushions/small-faces.html">Small Faces</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li id="cat-136" parentid="100"><a href="/simple-find-cpap-products/cpap-masks/chinstraps.html">Chinstraps</a></li>
+				<li class="CatLevel1" id="cat-120" parentid="100"><a href="/simple-find-cpap-products/cpap-masks/headgear.html">Headgear<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/headgear/nasal.html">Nasal</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/headgear/full-face.html">Full Face</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/headgear/nasal-pillow.html">Nasal Pillow</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/headgear/nasal-prong.html">Nasal Prong</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/headgear/oral.html">Oral</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/headgear/small-faces.html">Small Faces</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li id="cat-235" parentid="100"><a href="/simple-find-cpap-products/cpap-masks/headgear-clips.html">Headgear Clips</a></li>
+				<li class="CatLevel1" id="cat-113" parentid="100"><a href="/simple-find-cpap-products/cpap-masks/replacement-parts.html">Replacement Parts<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/replacement-parts/nasal.html">Nasal</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/replacement-parts/full-face.html">Full Face</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/replacement-parts/nasal-pillow.html">Nasal Pillow</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/replacement-parts/nasal-prong.html">Nasal Prong</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/replacement-parts/oral.html">Oral</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/replacement-parts/small-faces.html">Small Faces</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="CatLevel1" id="cat-217" parentid="100"><a href="/simple-find-cpap-products/cpap-masks/return-insurance.html">Return Insurance<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/return-insurance/nasal.html">Nasal</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/return-insurance/full-face.html">Full Face</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/return-insurance/nasal-pillow.html">Nasal Pillow</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/return-insurance/nasal-prong.html">Nasal Prong</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/return-insurance/oral.html">Oral</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/return-insurance/total-face.html">Total Face</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/return-insurance/small-faces.html">Small Faces</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="CatLevel1" id="cat-137" parentid="100"><a href="/simple-find-cpap-products/cpap-masks/cleaning.html">Cleaning<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/cleaning/cleaning-wipes.html">Cleaning Wipes</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/cleaning/disinfectant-solution.html">Disinfectant Solution</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="CatLevel1" id="cat-140" parentid="100"><a href="/simple-find-cpap-products/cpap-masks/comfort-accessories.html">Comfort Accessories<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/comfort-accessories/mask-strap-pads.html">Mask Strap Pads</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/comfort-accessories/moisture-aids.html">Moisture Aids</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/comfort-accessories/bed-pillows.html">Bed Pillows</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-masks/comfort-accessories/sizing-templates.html">Sizing Templates</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">CPAP Machines</a></li>
+				<li class="CatLevel1" id="cat-121" parentid="101"><a href="/simple-find-cpap-products/cpap-machines/cpap-machines.html">CPAP Machines<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/advanced-find-cpap-products/CPAPS">CPAP Machines</a></li>
+						<li class="submenu"><a href="/advanced-find-cpap-products/Self-Adjusting-CPAPS">Auto Adjusting CPAPs</a></li>
+						<li class="submenu"><a href="/advanced-find-cpap-products/BiPAPS-VPAPS-BiLEVELS">BiPAPs &amp; BiLevels</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/cpap-machines/travel-sized-machines.html">Travel Sized Machines</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="CatLevel1" id="cat-123" parentid="101"><a href="/simple-find-cpap-products/cpap-machines/filters.html">Filters<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/filters/for-puritan-bennett.html">For Puritan Bennett</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/filters/for-respironics.html">For Respironics</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/filters/for-resmed.html">For Resmed</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/filters/for-fisher-_-paykel.html">For Fisher &amp; Paykel</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/filters/for-other-manufacturers.html">For Other Manufacturers</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/filters/bacteria-filters.html">Bacteria Filters</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/filters/filter-covers.html">Filter Covers</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="CatLevel1" id="cat-124" parentid="101"><a href="/simple-find-cpap-products/cpap-machines/software.html">Software<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/software/machine-software.html">Machine Software</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/software/card-readers-_-modules.html">Card Readers &amp; Modules</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/software/data-cards.html">Data Cards</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/software/download-cables.html">Download Cables</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="CatLevel1" id="cat-220" parentid="101"><a href="/simple-find-cpap-products/cpap-machines/replacement-parts.html">Replacement Parts<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/replacement-parts/dc-cables.html">DC Cables</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/replacement-parts/power-cords-_-supplies.html">Power Cords &amp; Supplies</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/replacement-parts/fuses.html">Fuses</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/replacement-parts/other-parts.html">Other Parts</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="CatLevel1" id="cat-156" parentid="101"><a href="/simple-find-cpap-products/cpap-machines/comfort-accessories.html">Comfort Accessories<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/comfort-accessories/travel.html">Travel</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/comfort-accessories/aromatherapy.html">Aromatherapy</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/comfort-accessories/noise-reduction.html">Noise Reduction</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-machines/comfort-accessories/manometers.html">Manometers</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">CPAP Humidifiers</a></li>
+				<li class="CatLevel1" id="cat-161" parentid="102"><a href="/simple-find-cpap-products/cpap-humidifiers/heated-humidifiers.html">Heated Humidifiers<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-humidifiers/heated-humidifiers/machine-specific.html">Machine Specific</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-humidifiers/heated-humidifiers/stand-alone.html">Stand Alone</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li id="cat-164" parentid="102"><a href="/simple-find-cpap-products/cpap-humidifiers/passover-humidifiers.html">Passover Humidifiers</a></li>
+				<li id="cat-167" parentid="102"><a href="/simple-find-cpap-products/cpap-humidifiers/chambers.html">Chambers</a></li>
+				<li id="cat-233" parentid="102"><a href="/simple-find-cpap-products/cpap-humidifiers/couplers_connectors.html">Couplers/Connectors</a></li>
+				<li id="cat-234" parentid="102"><a href="/simple-find-cpap-products/cpap-humidifiers/replacement-parts.html">Replacement Parts</a></li>
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">CPAP Hoses (Tubing)</a></li>
+				<li class="CatLevel1" id="cat-227" parentid="108"><a href="/simple-find-cpap-products/cpap-hoses-_tubing_/hoses-_tubing_.html">Hoses (Tubing)<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-hoses-_tubing_/hoses-_tubing_/standard_performance.html">Standard/Performance</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-hoses-_tubing_/hoses-_tubing_/with-sensor-line.html">With Sensor Line</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-hoses-_tubing_/hoses-_tubing_/with-heating-coils.html">With Heating Coils</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-hoses-_tubing_/hoses-_tubing_/for-humidifiers.html">For Humidifiers</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li id="cat-175" parentid="108"><a href="/simple-find-cpap-products/cpap-hoses-_tubing_/couplers_connectors.html">Couplers/Connectors</a></li>
+				<li class="CatLevel1" id="cat-176" parentid="108"><a href="/simple-find-cpap-products/cpap-hoses-_tubing_/comfort-accessories.html">Comfort Accessories<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-hoses-_tubing_/comfort-accessories/covers.html">Covers</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-hoses-_tubing_/comfort-accessories/clips.html">Clips</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-hoses-_tubing_/comfort-accessories/hose-management.html">Hose Management</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/cpap-hoses-_tubing_/comfort-accessories/rain-out-reduction.html">Rain-out Reduction</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">Power Solutions</a></li>
+				<li class="CatLevel1" id="cat-181" parentid="109"><a href="/simple-find-cpap-products/power-solutions/batteries.html">Batteries<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/power-solutions/batteries/integrated-batteries.html">Integrated Batteries</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/power-solutions/batteries/stand-alone-batteries.html">Stand Alone Batteries</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="CatLevel1" id="cat-184" parentid="109"><a href="/simple-find-cpap-products/power-solutions/parts-_-cables.html">Parts &amp; Cables<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/power-solutions/parts-_-cables/dc-cables.html">DC Cables</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/power-solutions/parts-_-cables/power-cords-_-supplies.html">Power Cords &amp; Supplies</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/power-solutions/parts-_-cables/inverters.html">Inverters</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/power-solutions/parts-_-cables/converters.html">Converters</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/power-solutions/parts-_-cables/replacement-cells.html">Replacement Cells</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/power-solutions/parts-_-cables/adapters.html">Adapters</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">Comfort Accessories</a></li>
+				<li class="CatLevel1" id="cat-191" parentid="190"><a href="/simple-find-cpap-products/comfort-accessories/for-masks.html">For Masks<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-masks/mask-strap-pads.html">Mask Strap Pads</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-masks/moisture-aids.html">Moisture Aids</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-masks/bed-pillows.html">Bed Pillows</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-masks/sizing-templates.html">Sizing Templates</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="CatLevel1" id="cat-196" parentid="190"><a href="/simple-find-cpap-products/comfort-accessories/for-machines.html">For Machines<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-machines/travel.html">Travel</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-machines/aromatherapy.html">Aromatherapy</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-machines/noise-reduction.html">Noise Reduction</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-machines/manometers.html">Manometers</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="CatLevel1" id="cat-201" parentid="190"><a href="/simple-find-cpap-products/comfort-accessories/for-hoses-_tubing_.html">For Hoses (Tubing)<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-hoses-_tubing_/covers.html">Covers</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-hoses-_tubing_/clips.html">Clips</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-hoses-_tubing_/hose-management.html">Hose Management</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-hoses-_tubing_/rain-out-reduction.html">Rain-out Reduction</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="CatLevel1" id="cat-206" parentid="190"><a href="/simple-find-cpap-products/comfort-accessories/for-bed.html">For Bed<!--[if IE 7]><!--></a><!--<![endif]-->
+					<!--[if lte IE 6]><table><tr><td><![endif]-->
+					<ul>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-bed/bed-pillows.html">Bed Pillows</a></li>
+						<li class="submenu"><a href="/simple-find-cpap-products/comfort-accessories/for-bed/coolers.html">Coolers</a></li>
+					</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">Oxygen Supplies</a></li>
+				<li id="cat-210" parentid="209"><a href="/simple-find-cpap-products/oxygen-supplies/tubing.html">Tubing</a></li>
+				<li id="cat-211" parentid="209"><a href="/simple-find-cpap-products/oxygen-supplies/connectors-_-adapters.html">Connectors &amp; Adapters</a></li>
+				<li id="cat-212" parentid="209"><a href="/simple-find-cpap-products/oxygen-supplies/oximeters.html">Oximeters</a></li>
+				<li id="cat-213" parentid="209"><a href="/simple-find-cpap-products/oxygen-supplies/oximeter-parts.html">Oximeter Parts</a></li>
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">Service Options</a></li>
+				<li id="cat-216" parentid="215"><a href="/simple-find-cpap-products/service-options/expert-assistance.html">Expert Assistance</a></li>
+				<li id="cat-218" parentid="215"><a href="/simple-find-cpap-products/service-options/loaners.html">Loaners</a></li>
+			   	<li class="space">&nbsp;</li>		
+				<li class="mumu"><span>Tools</span></li>
+				<li class="space">&nbsp;</li>
+				<li><a href="#nogo" class="Level0">CPAP Mask Sizing</a></li>
+					<li><a href="/cpap-mask-sizing.php">Mask Sizing Guide</a></li>
+				
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">Compare</a></li>
+					<li><a href="http://www.cpap.com/cpap-compare-chart/all-CPAP">CPAP Machines</a></li>
+					<li><a href="http://www.cpap.com/cpap-size-compare-select.php">CPAP Machines Sizes</a></li>
+					<li><a href="http://www.cpap.com/cpap-compare-chart/all-Self-Adjusting-CPAP">Self Adjusting CPAP</a></li>
+					<li><a href="http://www.cpap.com/cpap-compare-chart/all-BiPAP">BiPAPs &amp; Bilevels</a></li>
+					<li><a href="http://www.cpap.com/cpap-mask-comparison-guide.php">CPAP Masks</a></li>
+					
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">Questions</a></li>
 
+					<li><a href="http://www.cpap.com/submit-cpap-question.php">Ask a Question</a></li>
+					
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">FAQ</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/CPAP-and-Sleep-Apnea-Basics.html#FGID-1">The CPAP Basics</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/Machines.html#FGID-2">Machines</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/Masks.html#FGID-39">Masks</a></li>
 
+					<li><a href="http://www.cpap.com/cpap-faq/Humidifiers.html#FGID-61">Humidifier</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/Filters.html#FGID-94">Filters</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/Power.html#FGID-91">Power</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/Software.html#FGID-56">Software</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/Tubing-(CPAP-Hose).html#FGID-80">Hoses (Tubing)</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/Chinstraps.html#FGID-98">Chinstraps</a></li>
 
-            <tr> 
-              <td height="20">&nbsp;</td>
-            </tr>
-                   
-						<tr> 
-              <td height="20" class="labelmenu" valign="top">Videos <img src="./images/movies.gif" alt="Instructional CPAP Videos"></td>
-            </tr>
+					<li><a href="http://www.cpap.com/cpap-faq/Placing-Your-Order.html#FGID-3">Placing Your Order</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/Prescriptions.html#FGID-130">Prescriptions</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/Shipping.html#FGID-114">Shipping</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/Pricing.html#FGID-138">Pricing</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/Common-CPAP-Side-Effects.html#FGID-158">Common Side Effects</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/Manufacturers.html#FGID-107">CPAP Brands</a></li>
 
-            <tr>
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/listVideos.php?VGID=ALL">CPAP Video Collection</a></td>
-             </tr>
+					<li><a href="http://www.cpap.com/cpap-faq/International.html#FGID-123">International</a></li>
+					<li><a href="http://www.cpap.com/cpap-faq/Sleep-Study.html#FGID-140">Sleep Study</a></li>
+					
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">Video</a></li>
+					<li><a href="http://www.cpap.com/listVideos.php?VGID=ALL">CPAP Video Collection</a></li>
+					
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">Reports</a></li>
+
+					<li><a href="http://www.cpap.com/cpap-user-preference.php">Consumer Preferences</a></li>
+					<li><a href="http://www.cpaptalk.com/productchallenge/">Product Challenges</a></li>
+					<li><a href="http://www.cpap.com/cpap-user-reviews.php">Consumer Survey</a></li>
+					<li><a href="http://www.cpap.com/cpap-mask-insurance-rates.php">Insurance Rates</a></li>
+					
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">Newsletter</a></li>
+
+					<li><a href="http://www.cpap.com/newsletter_in.php">Join</a></li>
+					<li><a href="http://www.cpap.com/CpapNews.php">Newsletter Archive</a></li>
+					<li><a href="http://www.cpap.com/newsletter_out.php">Unsubscribe</a></li>
+				
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">Order Information</a></li>
+					<li><a href="https://www.cpap.com/upload.php">Upload Prescription</a></li>
+
+					<li><a href="http://www.cpap.com/orderStatus.php">Track Your Order</a></li>
+					<li><a href="http://www.cpap.com/returns.php">Return Policy</a></li>
+					<li><a href="http://www.cpap.com/restoreCart.php">Restore Saved Info</a></li>
+				
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">CPAP Forum</a></li>
+					<li><a href="http://www.cpaptalk.com/productchallenge/">Product Challenge</a></li>
+					<li><a href="http://www.cpaptalk.com/sleep-apnea-services-locator.php">Local Services Locator</a></li>					
+					<li class="cpaptalkIMG"><a href="http://www.cpaptalk.com"><img src="http://www.cpap.com/images/cpaptalk-small-logo.jpg" width="160" height="54" border="0"></a></li>
+				
+				<li class="space"></li>
+				<li><a href="#nogo" class="Level0">Company Information</a></li>
+					<li><a href="http://www.cpap.com/aboutUs.php">About Us</a></li>
+					<li><a href="http://www.cpap.com/why-shop-with-us.php">Why Shop With Us</a></li>
+					<li><a href="http://www.cpap.com/contact.php">Contact Us</a></li>
+
+					<li><a href="http://www.cpap.com/quote.php">Price Request</a></li>
+				
+				<li class="space"></li>							
+				</ul>
+				</div>
+			 	 </td>
+			</tr>
+            
 			
-				    <tr>
-              <td height="20">&nbsp;</td>
-            </tr>
-			
-						<tr> 
-              <td height="20" class="labelmenu">Questions</td>
-             </tr>
-            
-                <tr> 
-                  <td><p class="sublabel"><a class="menuLink" href="http://www.cpap.com/questionsubmission.shtml">Ask a Question</a></p></td>
-                </tr>
-                <tr> 
-                  <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/cpapfaq.shtml">CPAP FAQ</a></td>
-                </tr>                
-                <tr> 
-                  <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/bipapfaq.shtml">BiPAP FAQ</a></td>
-                </tr>                
-                <tr> 
-                  <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/maskfaq.shtml">Mask FAQ</a></td>
-                </tr>                
-                <tr> 
-                  <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/fullfacefaq.shtml">Full Face FAQ</a></td>
-                </tr>                
-                <tr> 
-                  <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/humidifierfaq.shtml">Humidifier FAQ</a></td>
-                </tr>                
-                <tr> 
-                  <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/nasalpillowfaq.shtml">Nasal Pillow FAQ</a></td>
-                </tr>                
-                <tr> 
-                  <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/sleepstudyfaq.shtml">Sleep Study FAQ</a></td>
-                </tr>
-                <tr> 
-                  
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/batteryfaq.shtml">Battery/International</a></td>
-                </tr>
-                <tr> 
-                  <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/pricefaq.shtml">Price FAQ</a></td>
-                </tr>
-            
-             <tr> 
-              <td height="20">&nbsp;</td>
-         	   </tr>
-         
-	
-			<tr> 
-              <td height="20">&nbsp;</td>
-            </tr>
-            <tr> 
-              <td height="20" class="labelmenu">Services</td>
-            </tr>
-            <tr> 
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/questionsubmission.shtml">Ask 
-                a Question</a></td>
-            </tr>
-           <tr> 
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/CpapNews.php">Newsletter Archive
-                </a></td>
-            </tr>
-            
-            <tr> 
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/tracking.shtml">Track 
-                a Package</a></td>
-            </tr>
-            
-            <tr> 
-              <td class="sublabel"><a class="menuLink" href="https://www.cpap.com/upload.php">Upload Your Prescription</a></td>
-            </tr>
-
-            <tr> 
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/returns.shtml">Return 
-                Policy</a></td>
-            </tr>
-            
-            <tr> 
-              <td class="sublabel"><a class="menuLink" href="http://cpap.com/privacy.shtml">Privacy
-                Policy</a></td>
-            </tr>
-            
-          
-            
-            
-            <tr> 
-              <td height="20">&nbsp;</td>
-            </tr>
-            <tr> 
-              <td height="20" class="labelmenu">Contact</td>
-            </tr>
-            <tr> 
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/contact.shtml">Contact 
-                Us</a></td>
-            </tr>
-            <tr> 
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/questionsubmission.shtml">General 
-                Question</a></td>
-            </tr>
-            <tr> 
-              <td class="sublabel"><a class="menuLink" href="http://www.cpap.com/quote.shtml">Price 
-                Quote</a></td>
-            </tr>
-            <tr> 
-              <td height="20">&nbsp;</td>
-            </tr>
-            <tr> 
-              <td width="153" height="20" class="labelmenu">About</td>
-            </tr>
-            <tr> 
-              <td><p class="sublabel"><a class="menuLink" href="http://www.cpap.com/aboutUs.php">About 
-                  Us</a></p></td>
-            </tr>
-
-		<tr>
-		<td>
-		<br>
-		</td></tr>
-            <tr>
-             <td height="20" class="labelmenu">Security Certificate</td>
-            </tr>
-            <tr>
-             <td>
-              <script type="text/javascript">TrustLogo("https://www.cpap.com/pair_secure_site.gif", "PAIR", "none");</script>
-             </td>
-            </tr>  
-  
-         
           </tbody></table>
 		  
 		  
-		  
-		  </td>
-            <td width="1" background="dotsverticlefill.gif" rowspan="3"><img height="1" src="spacer.gif" width="1"></td>
+		  </td><td width="1" background="http://www.cpap.com/dotsverticlefill.gif" rowspan="3"><img height="1" src="spacer.gif" width="1"></td>
+
             <td valign="top" width="512"> 
 			
 			
@@ -300,95 +646,126 @@
                   <tr> 
 				  
                     <td width="480">
-                     <table width="100%" border="0" cellpadding="0" cellspacing="0" class="pageTitle">
-                        <tbody><tr>
-                          <td>Privacy Statement</td>
-                        </tr>
-                      </tbody></table>
-<br><br>
-<span class="linkstudiotools">I. WE HAVE A LEGAL DUTY TO SAFEGUARD YOUR PROTECTED HEALTH INFORMATION (PHI).</span>
-<br>
-<p><span class="genericText">We are legally required to protect the privacy of your health information. We call this information "protected health information," or "PHI" for short, and it includes information that can be used to identify you that we've created or received about your past, present, or future health condition, the provision of health care to you, or the payment for this health care. We must provide you with this notice about our privacy practices that explains how, when, and why we use and disclose your PHI. With some exceptions, we may not use or disclose any more of your PHI than is necessary to accomplish the purpose of the use or disclosure. We are legally required to follow the privacy practices that are described in this notice
-However, we reserve the right to change the terms of this notice and our privacy policies at any time. Any changes will apply to the PHI we already have. Before we make an important change to our policies, we will promptly change this notice. You can request a copy of this notice from the contact person listed in Section VIII below at any time.</span>
-<br><br>
-<span class="linkstudiotools">II.&nbsp;&nbsp; HOW WE MAY USE AND DISCLOSE YOUR PROTECTED HEALTH INFORMATION.</span>
-<br>
-</p><p><span class="genericText">We use and disclose health information for many different reasons. For some of these uses or disclosures, we need your specific authorization. Below, we describe the different categories of uses and disclosure.</span>
 
-</p><p><span class="genericText">A.&nbsp; &nbsp;We may use and disclose your PHI without your authorization for the following reasons:</span>
-
-</p><p><span class="genericText">When a disclosure is required by federal, state or local law, judicial or administrative proceedings, or law enforcement.</span>
-
-</p><p><span class="genericText">For health oversight activities. &nbsp;For example, we will provide information to assist the government when it conducts an investigation or inspection of a health care provider or organization.</span>
-
-</p><p><span class="genericText">To avoid harm. In order to avoid a serious threat to the health or safety of a person or the public, we may provide PHI to law enforcement personnel or persons able to prevent or lessen such harm.</span>
-
-</p><p><span class="genericText">For specific government functions. We may disclose PHI of military personnel and veterans in certain situations.&nbsp; And we may disclose PHI for national security purposes, such as protecting the President of the United States or conducting intelligence operations.</span>
-
-</p><p><span class="genericText">For workers compensation purposes. We may provide PHI in order to comply with workers compensation laws.</span>
-
-</p><p><span class="genericText">B. Uses and Disclosures Where You to Have the Opportunity to Object:</span>
-
-</p><p><span class="genericText">Disclosures to family, friends, or others. We may provide your PHI to a family member, friend, or other person that you indicate is involved in your care or the payment for your health care, unless you object in whole or in part.</span>
-
-</p><p><span class="genericText">C. All Other Uses and Disclosures Require Your Prior Written Authorization. In any other situation not described above, we will ask for your written authorization before using or disclosing any of your PHI. If you choose to sign an authorization to disclose your PHI, you can later revoke that authorization in writing to stop any future uses and disclosures (to the extent that we havent taken any action relying on the authorization).</span>
-
-</p><p><span class="genericText">D.&nbsp; Incidental Uses and Disclosures. Incidental uses and disclosures of information may occur. An incidental use or disclosure is a secondary use or disclosure that cannot reasonably be prevented, is limited in nature, and that occurs as a by-product of an otherwise permitted use or disclosure. However, such incidental uses or disclosure are permitted only to the extent that we have applied reasonable safeguards and do not disclose any more of your PHI than is necessary to accomplish the permitted use or disclosure. For example, disclosures about a patient made by a home health provider in the patients home that might be overheard by other family members not involved in the patients care would be permitted.</span>
-<br><br>
-<span class="linkstudiotools">III. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHAT RIGHTS YOU HAVE REGARDING YOUR PHI.</span>
-<br>
-</p><p><span class="genericText">A. The Right to Request Limits on Uses and Disclosures of Your PHI. You have the right to ask that we limit how we use and disclose your PHI. We will consider your request but are not legally required to accept it. If we accept your request, we will put any limits in writing and abide by them except in emergency situations. You may not limit the uses and disclosures that we are legally required or allowed to make.</span>
-
-</p><p><span class="genericText">B. The Right to Choose How We Send PHI to You. You have the right to ask that we send information to you to an alternate address (for example, sending information to your work address rather than your home address) or by alternate means (for example, e-mail instead of regular mail). We must agree to your request so long as we can easily provide it in the format you requested.</span>
-
-</p><p><span class="genericText">C. The Right to See and Get Copies of Your PHI. In most cases, you have the right to look at or get copies of your PHI that we have, but you must make the request in writing. If we dont have your PHI but we know who does, we will tell you how to get it. We will respond to you within 30 days after receiving your written request. In certain situations, we may deny your request. If we do, we will tell you, in writing, our reasons for the denial and explain your right to have the denial reviewed.</span>
-
-</p><p><span class="genericText">If you request copies of your PHI, we will charge you $1.00 for each page. Instead of providing the PHI you requested, we may provide you with a summary or explanation of the PHI as long as you agree to that and to the cost in advance.</span>
-
-</p><p><span class="genericText">D. The Right to Get a List of the Disclosures We Have Made. You have the right to get a list of instances in which we have disclosed your PHI. The list will not include uses or disclosures made for treatment, payment, or health care operations, directly to you, to your family, or in our facility directory, or pursuant to a valid authorization.&nbsp; The list also wont include uses and disclosures made for national security purposes, to corrections or law enforcement personnel, or before April 1, 2003.</span>&nbsp; 
-
-</p><p><span class="genericText">We will respond within 60 days of receiving your request. The list we will give you will include disclosures made in the last six years unless you request a shorter time. The list will include the date of the disclosure, to whom PHI was disclosed (including their address, if known), a description of the information disclosed, and the reason for the disclosure. We will provide the list to you at no charge, but if you make more than one request in the same year, we will charge you $25 for each additional request.</span>
-
-</p><p><span class="genericText">E. The Right to Correct or Update Your PHI.&nbsp; If you believe that there is a mistake in your PHI or that a piece of important information is missing, you have the right to request that we correct the existing information or add the missing information. We will respond within 60 days of receiving your request in writing. You must provide the request and your reason for the request in writing. We may deny your request in writing if the PHI is (i) correct and complete, (ii) not created by us, (iii) not allowed to be disclosed, or (iv) not part of our records. Our written denial will state the reasons for the denial and explain your right to file a written statement of disagreement with the denial. If you dont file one, you have the right to request that your request and our denial be attached to all future disclosures of your PHI. If we approve your request, we will make the change to your PHI, tell you that we have done it, and tell others that need to know about the change to your PHI.</span>
-
-</p><p><span class="genericText">F. The Right to Get This Notice by E-Mail. You have the right to get a copy of this notice by email. Even if you have agreed to receive notice via e-mail, you also have the right to request a paper copy of this notice.</span>
-<br><br>
-<span class="linkstudiotools">IV.  E-mail Addresses</span>
-<br>
-</p><p><span class="genericText">The e-mail addresses provided to cpap.com when placing an order will not be shared with third parties. The e-mail addresses provided to cpap.com when subscribing to our mailing list will notbe shared with third parties, but will be used to e-mail you monthly product and industry updates. You may subscribe or unsubscribe from our mailing list at any time by visiting http://www.cpap.com/newsletter_out.php or by clicking unsubscribe at the bottom of any of our promotional mailings. 
-<br><br>
-<span class="linkstudiotools">V.  Billing Information</span>
-<br>
-</span></p><p><span class="genericText">Information provided to purchase products via online, fax, or phone order (including billing name, billing address, telephone number, and fax number) will not be shared with or sold to anyone outside of cpap.com nor to any third party.&nbsp; Payment information (credit cahttp://www.cpap.com/newsletter_out.phprd numbers and expiration dates) is treated confidentially and will not be shared with anyone outside of cpap.com or the financial institutions used to process payment.</span> 
-
-<br><br>
-<span class="linkstudiotools">VI.  Security</span>
-<br>
-
-</p><p><span class="genericText">We use MadCow software to protect your billing information. Secure Sockets Layer (SSL) encrypts information and keeps the data private and confidential between your machine and cpap.com. This technology makes it safe to transmit your credit card number over the Internet. Look for two security icons, the "s" after "http" in the address line and the lock in the top menu bar and bottom status bar of your browser in Netscape (or in the bottom status bar only in Internet Explorer).</span> 
-<br><br>
-<span class="linkstudiotools">VII.&nbsp;&nbsp; HOW TO COMPLAIN ABOUT OUR PRIVACY PRACTICES .</span>
-<br>
-</p><p><span class="genericText">If you think that we may have violated your privacy rights, or you disagree with a decision we made about access to your PHI, you may file a complaint with the person listed in Section VIII below. You also may send a written complaint to the Secretary of the Department of Health and Human Services at 200 Independence Ave., S.W.; Room 615F; Washington, DC 20201. We will take no retaliatory action against you if you file a complaint about our privacy practices.</span>
-<br><br>
-<span class="linkstudiotools">VIII.&nbsp; PERSON TO CONTACT FOR INFORMATION ABOUT THIS NOTICE OR TO COMPLAIN ABOUT OUR PRIVACY PRACTICES.</span>
-<br>
-</p><p><span class="genericText">If you have any questions about this notice or any complaints about our privacy practices, or would like to know how to file a complaint with the Secretary of the Department of Health and Human Services, please contact: Dan Fawvor, Compliance Officer, U.S. Expeditors, Inc., 9100 SW Freeway, Suite 114, Houston, TX&nbsp; 77074.&nbsp; 713-541-2727, ext. 22</span>
-<br><br>
-<span class="linkstudiotools">IX. Policy Changes</span>
-<br>
-</p><p><span class="genericText">We reserve the right to modify its Privacy Policy at any time. In the event that we make a material change to our policy we will post a notice of the change on this page.</span>
+			
+                    
+       
 
 
+					<!--Ella's Comment
+					********************************************************
+					Start content
+					********************************************************
+					-->
+					<br> 
+					<table cellspacing="0" cellpadding="0" width="100%" style="border-bottom:4px solid #B0B1DF;font-family:Verdana;font-size:13px;">
 
-                      </p></td>
+						<tbody><tr> 
+                            <td height="22" colspan="2" class="labelstudiotools"><h1>Privacy Policy</h1></td>
+         
+                         </tr>
+					 	
+						<tr>
+
+							<td class="account_td" style="padding:10px 10px;text-align:justify;">
+							<!--Ella's Comment
+							********************************************************
+							Start page
+							********************************************************
+							-->
+							
+
+This Privacy Policy explains how US Expediters, Inc. (CPAP.com) handles your personal information for the services we provide. It applies to the CPAP.com website and other related websites where a link to this policy appears at the bottom of the page. Some CPAP.com related websites (the “Sites”) or websites we operate may be bound by a different privacy policy. The applicable policy on any of our domains will invariably be the policy that appears in the link at the bottom of each web page. With acceptance of our Privacy Policy and User Agreement and by using the CPAP.com website, you are specifically consenting to allow CPAP.com to collect, store, use, and disclose your personal information as described in this Privacy Policy.<br><br>
+This Privacy Policy is effective upon acceptance for new users and on April 10th, 2008 for all existing users. <br><br>
+
+<b>Data Collection</b><br>
+You are allowed to browse our Sites without giving us any personal information about yourself. Once you have chosen to provide us with your personal information, you are no longer anonymous to us, and you consent to the transfer and storage of that information on our servers located in the United States. <p>
+We are allowed to collect and store the following personal information: </p><ul>
+<li>names, email addresses, phone numbers, physical contact information, and sometimes credit card or other financial information used for verification of identity or payment for purchases; <p>
+</p></li><li>transactional information or data based on any of your activities on the Sites; <p>
+</p></li><li>shipping, billing and other information you provide to purchase or ship an item; <p>
+</p></li><li>any correspondence or information submitted or sent through or on our Sites, and correspondence sent to us; <p>
+</p></li><li>other information from your interaction with our Sites, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the Sites, ad data, IP address and standard web log information; <p>
+</p></li><li>other information from third parties, such as such as demographic and traffic data, prescriptions, or for example, if you incur a debt to CPAP.com, we may run a credit check, as permitted by law, to collect such a debt; or if the information you provide cannot be verified, we may ask you to send us additional information. <p>
+</p></li></ul>
+
+<b>Third Parties</b><br>
+We do not sell your personal information to, or share it with third parties for their marketing purposes. However, we are allowed to conjoin your information with data we obtain through third parties and make use of it in such a way that enhances and customizes our services, content and advertising. We may also combine your data with information collected from other US Expediters, Inc. (CPAP.com) related websites, for the same purposes. <br><br>
+Unless specifically included herein, this Privacy Policy applies only to the use and disclosure of information we obtain from you. If you provide your information to others on any of our Sites or unrelated sites around the Internet, different rules may apply, since we in no way control the privacy policy of third parties. <br><br>
+
+<b>Usage</b><br>
+Our main goal in the collection of personal information is our attempt to give you a secure, effective, easy to use, personalized experience. You grant CPAP.com permission to use your personal information in the following ways: <ul>
+<li>to proffer the services and customer assistance that you request; <p>
+</p></li><li>to resolve disputes, collect monies, and troubleshoot issues; <p>
+</p></li><li>to enforce our User Agreement, and defend against possible prohibited or illegal actions; <p>
+</p></li><li>personalize, measure, and enhance the services, content, and advertising offered on CPAP.com and related Sites; <p>
+</p></li><li>provide you with information regarding special offers, website or policy updates, and targeted communications; <p>
+</p></li><li>examine information for accurateness, and verify it with third parties. <p>
+</p></li></ul>
+
+<b>Our Disclosure of Your Information</b><br>
+We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a Customer Review or other content violates the rights of others, or protect anyone's rights, property, or safety. <br><br>
+We may also share your personal information as outlined below: <ul>
+<li>We may share your information (including and without limitation, personally identifiable information) with our subsidiaries and affiliates, and related websites (the Sites). For example: to help identify and defend against potentially illegal activity as well as providing joint content and services;<p>
+</p></li><li>Contracted third parties who help with our business operations such as investigation of fraud, or bill collection. <p>
+</p></li><li>As required by federal, state or local law, judicial or administrative proceedings, or law enforcement and only as much information as is necessary and required for the specific verifiable request or proceeding. <p>
+</p></li><li>Should we plan to merge with or be acquired, in part or in whole, through the sale or transfer of our business assets with another entity, your personal information will be part of said business assets and will be transferred to the new entity. We will request that any new combined entity follow this privacy policy in regards to your personal information. You will be notified on this website of any changes to this privacy policy if such an event occurs. <p>
+</p></li></ul>
+Without limitation to the preceding, in every attempt to honor your privacy and our capacity to keep CPAP.com liberated from problematic users, we will in no way else wise reveal your personal information to governmental agencies, law enforcement, or other third parties without a subpoena, court order, or materially comparable legal proof and documentation, with exception if we believe in good faith that the disclosure of information is required to preclude impending bodily injury or financial loss or to inform law enforcement about potential violations of the law. <br><br>
+<b>Cookies</b><br>
+'Cookies' are tiny files put on your hard disk for various reasons. We utilize 'cookies' on some web pages of our Sites to assist us in evaluating our web traffic patterns; personalize our services, content and advertising; appraise the efficacy of special offers, and also to foster and emphasize trust and safety. In short, CPAP.com uses cookies to provide services to you. <br><br>
+Some pertinent things you should be aware of regarding cookies are that: <ul>
+<li>There are some features on our Sites which are only available with the use of cookies.<p>
+</p></li><li>Cookies are used to assist us in identifying you and to help keep you logged-in which allows you to input your password less often during a session. <p>
+</p></li><li>Most cookies that we use are systematically eliminated from your hard drive at the end of a browser session or when you log off of CPAP.com. <p>
+</p></li><li>You have the ability to deny our cookies if your web client allows, although in so doing you may prevent or limit access to certain areas, features, or proper functionality of our Sites. <p>
+</p></li><li>You might receive cookies from a third party on particular pages of our Sites that we in no way control or regulate. <p>
+</p></li></ul>
+<b>Newsletters</b><br>
+We provide an opt-in Newsletter that is delivered through email to users who have subscribed to receive these newsletters. CPAP.com makes every effort to ensure that the newsletter is CAN-SPAM compliant but also makes no guarantees about such compliance. You may unsubscribe from our newsletter at any time by clicking <a href="http://www.cpap.com/newsletter_out.php" class="smalltext">here</a> and submitting the same email address used to subscribe. <br><br>
+
+<b>Other Communications</b><br>
+It is customary for CPAP.com to send out emails or use other communications to contact you regarding your orders on CPAP.com. For example, when you place an order with CPAP.com, we send out an order confirmation via email and a shipping confirmation once shipped. These types of communications are necessary and required in the normal course of transacting with CPAP.com and are not optional. By definition these types of emails are known as transactional emails. <br><br>
+
+CPAP.com may also from time to time contact its customers for various reasons such as customer surveys, product replacement reminders, user reviews, special promotions concerning products and services we offer, or very important news, legal notices, or other information that could affect our customers. If you do not wish to receive these types of communications you may contact us directly by phone or email to change your Communication Preferences. <br><br>
+ 
+<b>Protecting Your Account</b><br>
+The password you choose is indispensable to access your account. Use a combination of unique identifiers (letters, numbers, and characters), and do not give away your CPAP.com password to anybody. If for some reason you decide to give away your password or your personal information to others, be aware that you are accountable and liable for any and all activity executed under your account. If your password is compromised, you may lose considerable authority over your personal information and may be subject to legally binding actions taken on your behalf. Accordingly, if for any reason you have revealed or lost control of your password, then you should notify CPAP.com and change your password without delay. <br><br>
+
+<b>Viewing and Making Changes to Your Personal Information</b><br>
+You may view and change much of your personal information by logging into your account at CPAP.com. You are required to revise your personal information quickly when a change occurs or if it is erroneous. Upon your request, and as soon as it is reasonably practicable, your account will be terminated and your personal information archived, based on your account activity and if allowed under subsequently relevant laws. We do keep a record of personal information from terminated accounts to abide by legal requirements, avert fraudulent activity, collect monies due to us, resolve disputes, regulate issues, cooperate with any investigations, enforce our <a href="http://www.cpap.com/user-agreement.php" class="smalltext">CPAP.com User Agreement</a>, and likewise take other actions legally allowed. <br><br>
+
+<b>Security</b><br>
+Protecting and securing your information is of the highest priority to us. We consider the data we collect and your personal information to be an extremely valuable asset that should be protected. Your information is stored and processed on dedicated servers located in the United States that are protected by physical and technological security measures. We use many methods in good faith to safeguard your personal information from unauthorized access. However, as you may be aware, third parties may illegally intercept or access transmissions of your personal data or exchanges of information over the Internet, and there is the possibility that users may mistreat or mishandle your personal information that they find or gather during your interactions on the CPAP.com website. Consequently, while we go to great lengths to safeguard your privacy, we in no way guarantee, and you should not have the expectation, that your personal data or exchanges of information over the Internet will always remain private. Here is more about the security of your personal information.<ul>
+
+<li>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts personal information you send to CPAP.com.<p>
+</p></li><li>Email messages are not typically secure so we do not recommend sending us any critical financial information such as credit cards numbers, bank account numbers, or similar information via email. If you choose to provide this type of information via email, you do so at your own risk. <p>
+</p></li><li>We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing via a Secure Sockets Layer (SSL) connection which encrypts your data. <p>
+</p></li><li>It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off of your CPAP.com account when finished using a shared computer. <p>
+</p></li></ul>
+<b>Personal Health Information</b><br>
+We are legally required to protect the privacy of your 'Personal Health Information', or 'PHI' for short. Additionally incorporated into this Privacy Policy is more information described in the <a href="http://www.cpap.com/phi-privacy-policy.php" class="smalltext">PHI Privacy Policy</a>.<br><br> 
+
+<b>General</b><br>
+We reserve the right to modify this Privacy Policy at any time by posting the changes on CPAP.com. In the event that we make any significant material change to this Privacy Policy, we may attempt to notify you by email, but are not required to do so. If your questions are not answered online, you may write to us at: CPAP.com Attn: Legal - Privacy Policy, 9100 Southwest Freeway, Suite 135, Houston, Texas 77074, or by using the <a href="http://www.cpap.com/submit-cpap-question.php" class="smalltext">contact us</a> form. 
+								
+							</td>						
+						</tr>
+
+					 </tbody></table><br>
+
+					 
+					 <!-- END Content-->       
+                     
+
+</td>
 				  </tr>
                 </tbody>
               </table>
 
   </td>
 
-            <td width="1" valign="top" background="dotsverticlefill.gif"><img height="1" src="spacer.gif" width="1"></td>
+            <td width="1" valign="top" background="/dotsverticlefill.gif"><img height="1" src="spacer.gif" width="1"></td>
           </tr>
         </tbody>
       </table></td>
@@ -397,15 +774,15 @@ However, we reserve the right to change the terms of this notice and our privacy
     <td height="20" colspan="5">
     	<table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr> 
-        <td width="8"><img src="images/footer_leftEdge.gif" width="8" height="25"></td>
-        <td width="39%" nowrap="nowrap" background="images/footer_back.gif" class="textWhite">©1999-2008 
+        <td width="8"><img src="/images/footer_leftEdge.gif" width="8" height="25"></td>
+        <td width="39%" nowrap="nowrap" background="/images/footer_back.gif" class="textWhite">©1999-2008 
           US Expediters Inc. All Rights Reserved. </td>
-        <td nowrap="nowrap" align="center" background="images/footer_back.gif" class="textWhite"><a style="color: #FFFFFF;" href=" http://www.cpap.com/user-agreement.php">User Agreement</a></td>
-        <td nowrap="nowrap" align="center" background="images/footer_back.gif" class="textWhite"><a style="color: #FFFFFF;" href=" http://www.cpap.com/privacy.php">Privacy Policy</a></td>
-        <td nowrap="nowrap" align="center" background="images/footer_back.gif" class="textWhite"><a style="color: #FFFFFF;" href="http://www.cpap.com/returns.php">Return Policy</a></td>
-        <td nowrap="nowrap" align="center" background="images/footer_back.gif" class="textWhite"><a style="color: #FFFFFF;" href="http://www.cpap.com/linkExchange.php">Links</a></td>
-        <td nowrap="nowrap" align="center" background="images/footer_back.gif" class="textWhite"><a style="color: #FFFFFF;" href="http://www.cpap.com/cpap-site-map.php">Site Map</a></td>
-        <td width="8"><img src="images/footer_rightEdge.gif" width="8" height="25"></td>
+        <td nowrap="nowrap" align="center" background="/images/footer_back.gif" class="textWhite"><a style="color: #FFFFFF;" href=" http://www.cpap.com/user-agreement.php">User Agreement</a></td>
+        <td nowrap="nowrap" align="center" background="/images/footer_back.gif" class="textWhite"><a style="color: #FFFFFF;" href=" http://www.cpap.com/privacy.php">Privacy Policy</a></td>
+        <td nowrap="nowrap" align="center" background="/images/footer_back.gif" class="textWhite"><a style="color: #FFFFFF;" href="http://www.cpap.com/returns.php">Return Policy</a></td>
+        <td nowrap="nowrap" align="center" background="/images/footer_back.gif" class="textWhite"><a style="color: #FFFFFF;" href="http://www.cpap.com/linkExchange.php">Links</a></td>
+        <td nowrap="nowrap" align="center" background="/images/footer_back.gif" class="textWhite"><a style="color: #FFFFFF;" href="http://www.cpap.com/cpap-site-map.php">Site Map</a></td>
+        <td width="8"><img src="/images/footer_rightEdge.gif" width="8" height="25"></td>
       </tr>
     </tbody></table></td>
   </tr>
@@ -421,7 +798,15 @@ However, we reserve the right to change the terms of this notice and our privacy
     </tr>
   </tbody></table>
 </div>
-
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2024925-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>  
 
 
 
