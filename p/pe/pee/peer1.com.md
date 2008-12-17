@@ -1,25 +1,34 @@
-> *The following text is extracted and transformed from the peer1.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514043505id_/http%3A//www.peer1.com/aboutus/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peer1.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094049id_/http%3A//www.peer1.com/aboutus/privacypolicy.php) for the most accurate reproduction.*
 
 # Peer 1 Privacy Policy
 
+  
+
+
 This Privacy Policy describes the purposes for which and the manner in which PEER 1 Dedicated Hosting, Inc. (PEER 1) collects, uses, maintains and discloses personal data or information collected from Users of this Website. It also describes procedures available for Users who have questions, complaints or disputes relating to PEER 1's handling of their personal data. PEER 1 adheres to the Safe Harbor requirements published by the United States Department of Commerce, including the Safe Harbor Privacy Principles. Accordingly, PEER 1's Privacy Policy and procedures for handling personal data are adequate for purposes of receiving personal data transfers from the European Union in compliance with Directive 95/46/EC of the European Parliament and of the Council of October 24, 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (the EU Directive). However, Users should understand that adherence to the Safe Harbor Privacy Principles may be limited to the extent necessary to meet national security, public interest, law enforcement requirements, judicial process or if the effect of the EU Directive or of Member State law is to allow exceptions or derogations, provided such exceptions or derogations are applied in comparable contexts. 
 
-**The Information PEER 1 Collects**  
+## The Information PEER 1 Collects
+
 PEER 1 gathers personal data from Users of its Web-site to improve the content on the Web-site, to enhance a User's online experience, and for other business purposes. PEER 1 takes reasonable precautions to secure a User's personal data. PEER 1uses reasonable technical solutions to make a User's visit to this Web-site as safe as it can reasonably be, but Users should understand that no information system can ever be made 100% secure. PEER 1 may collect various types of personal data voluntarily provided by Users, including name, company name, address, telephone number, credit card number or other billing information, e-mail address, and other information such as survey responses. PEER 1 may also collect information about how Users use this Website, for example, by tracking the number of unique views received by the pages of the Website or the domains from which Users originate. PEER 1 may use "cookies" to track how Users use this Website. A cookie is a small pieces of data stored on a computer and delivered through a Web browser. Most, if not all, commercial websites now use cookies. By using this technology, PEER 1 can provide a User with an enhanced online experience. It is possible for a User to turn off cookies in a Web browser. If a User does this, the User can still browse PEER 1's Website, but PEER 1 will not be able to provide the User with a more personalized experience. 
 
 PEER 1 collects from Users only personal data that is relevant to the purposes outlined above. PEER 1 takes reasonable steps to ensure that the personal data that it collects is reliable, accurate, and complete. In addition, Users have the ability to access their personal data through our customer support application for purposes of correcting, amending or deleting information that is inaccurate. This application is available on the internet at http://dhsupport.peer1.com. 
 
-**How PEER 1 Uses Information**  
+## How PEER 1 Uses Information
+
 PEER 1 may use personal data collected through its Website to contact Users regarding products and services offered by PEER 1 and its affiliates, independent contractors and business partners, and otherwise to enhance a User's experience with PEER 1 and such affiliates, independent contractors and business partners. PEER 1 may also use information collected through its Website for research regarding the effectiveness of the Website and the marketing, advertising and sales efforts of PEER 1, its affiliates, independent contractors and business partners. 
 
-**Opt Out Procedure**  
+## Opt Out Procedure
+
 Users have the choice to opt out of having their personal information used by PEER 1 for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by the individual. When a User is first asked to provide personal data or information to PEER 1, or as soon thereafter as is practical, but in any event before PEER 1 uses such information for a purpose other than that for which it was originally collected or processed by PEER 1, PEER 1 will provide a User with clear and conspicuous, readily available, and affordable mechanisms to exercise this choice. In addition, any User may exercise this choice to opt out by using [this link](http://www.peer1.com/aboutus/optout.php) and following the necessary instructions. 
 
-**Disclosure of Information**  
+## Disclosure of Information
+
 PEER 1 may disclose personal data or information collected from Users to third parties acting as PEER 1's agents to perform tasks on behalf of and under the instructions of PEER 1. PEER 1 will not disclose personal data or information collected from Users to any other third party aside from its agents. The third party agents include affiliates, independent contractors and business partners who will use the information for the purposes outlined above. PEER 1 may also disclose aggregated data based on information collected from Users to investors in PEER 1 and potential partners. Finally, PEER 1 may transfer information collected from Users in connection with a sale of PEER 1's business. Before PEER 1 discloses personal data of a User to a third party agent, PEER 1 will either: (a) ascertain that the agent subscribes to the Privacy Principles, (b) determine that the agent is subject to the EU Directive, (c) determine that the agent is subject to another adequacy finding or (d) enter into a written agreement with the agent requiring that the agent provide at least the same level of privacy protection as is required by the relevant Safe Harbor Privacy Principles. 
 
-**Enforcement**  
+## Enforcement
+
 To enforce the requirements of the Safe Harbor and to provide an independent means of resolving disputes, PEER 1 has voluntarily elected to subject itself to the European Data Protection Authorities. In addition, PEER 1 performs periodic self-assessments to verify that it is adhering to the Safe Harbor Privacy Principles and that the provisions of this Privacy Policy are true and accurate, fully implemented and followed by PEER 1. 
 
-**Questions, Complaints and Disputes**  
+## Questions, Complaints and Disputes
+
 If a User has any questions, complaints, or disputes with PEER 1 with respect to the organization's handling of personal data, a User may notify PEER 1 by sending an email to privacy(at)peer1.com. PEER 1 may modify this Privacy Policy at any time without prior notice to PEER 1's Customers or the public. Persons wishing to remain apprised of PEER 1Investor Relations Privacy Policy should check this page for occasional updates. This Privacy Policy is effective as of June 21, 2007. 
