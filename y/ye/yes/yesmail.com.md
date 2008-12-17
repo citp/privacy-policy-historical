@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yesmail.com privacy policy that was archived on 2007-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070824225951id_/http%3A//www.yesmail.com/company/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmail.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161814id_/http%3A//www.yesmail.com/company/privacy_policy) for the most accurate reproduction.*
 
-# Yesmail - Permission-Based E-mail Marketing: Company
+# Yesmail - Permission-Based Email Marketing
 
 ### Purpose
 
@@ -18,7 +18,7 @@ The Provider uses the collected information to set up Service for individuals, o
 
 We strive to make your experience using our Site constructive and easy. When you first visit our Site, our master server may send a "cookie" to your computer. Cookies are files that are placed on a computer's hard drive and are then used to tell us whether customers and visitors have visited the Site before.
 
-Cookies do not identify you personally. Unless you elect to identify yourself to the Provider, you will remain anonymous to the Provider. "Cookies" may disappear once an individual closes his/her browser or remain on a hard-drive after the computer has been shut off – depending on the file. Users who disallow their browser to accept cookies will be able to browse our Site but may not be able to successfully use our Service.
+Cookies do not identify you personally. Unless you elect to identify yourself to the Provider, you will remain anonymous to the Provider. "Cookies" may disappear once an individual closes his/her browser or remain on a hard-drive after the computer has been shut off ñ depending on the file. Users who disallow their browser to accept cookies will be able to browse our Site but may not be able to successfully use our Service.
 
 ### Third-Party Sites
 
