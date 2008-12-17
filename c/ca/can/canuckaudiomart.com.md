@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624114049id_/http%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217153544id_/http%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Canuck Audio Mart
 
-**FRAUD WARNING:** Please be aware that there is a SCAM email going around since Feb 20th, or possibly earlier, asking users to log into CAM to change their passwords. [READ HERE FOR MORE DETAILS.](http://www.canuckaudiomart.com/forum/viewtopic.php?t=8013)
+  
+
 
 ## Canuck Audio Mart's Privacy Policy
 
