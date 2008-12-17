@@ -1,26 +1,19 @@
-> *The following text is extracted and transformed from the 2gb.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011065430id_/http%3A//www.2gb.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D26%26Itemid%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2gb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217182518id_/http%3A//www.2gb.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D26%26Itemid%3D100) for the most accurate reproduction.*
 
-# 2GB.com - Privacy Policy
+# Privacy Policy - 2GB.com
 
-Macquarie Radio Network Pty Limited owns and operates established Sydney commercial radio stations 2GB and 2CH, through its subsidiaries Harbour Radio Pty Limited and Radio 2CH Pty Limited. For the purposes of this Privacy Policy, these entities are referred to as "the Macquarie Radio Network".
+2GB needs to collect personal information in order to conduct its business.
 
-The Macquarie Radio Network respects the privacy of its listeners, advertisers and other people we do business with, and we strive to comply with the National Privacy Principles (NPPs) contained in the Privacy Act 1988 (the Privacy Act). This Privacy Policy outlines how the Macquarie Radio Network will handle personal information about you.
-
-As the Macquarie Radio Network may collect personal information online through our websites [www.macquarieradio.com.au](http://www.macquarieradio.com.au/),[www.2ch.com](http://www.2ch.com/) and [www.2gb.com](http://www.2gb.com/), (our websites), this Privacy Policy alsooutlines our approach to online privacy issues.
-
-  
-
-
-The Macquarie Radio Network needs to collect personal information in order to conduct its business.
+Macquarie Radio collects your personal information to assist us in providing the goods or services you have requested, to process your competition entries, and to improve our products and services. We or any of our Australian related companies may be in touch by any means (including email or SMS) to let you know about goods, services, or promotions which may be of interest to you. We may also have to share your information with other persons or entities who assist us in providing our services, running competitions or with other companies who provide prizes for competitions or reader offers.
 
 **Listeners:**  
-The Macquarie Radio Network collects personal information from listeners if you call in to take part in a talk back program, or to enter a competition, or to give us feedback. We collect this information for verification purposes, and generally, we do not retain it.
+2GB collects personal information from listeners if you call in to take part in a talk back program, or to enter a competition, or to give us feedback. We collect this information for verification purposes, and generally, we do not retain it.
 
 **Advertisers:**   
 If you or your company purchases advertising time from Macquarie Radio Network, we will collect your business contact details. We need this personal information in order to provide you or your company with our services, and to provide you with information about our services and future promotions. Unless you tell us otherwise, we will use personal information about you to market our services to you or your company.
 
 **Business contacts:**  
-Sometimes, the Macquarie Radio Group needs to collect personal information from people we do business with. This will usually happen when we collect the name and business contact details of a person who is the contact in an advertising agency, or one of our advertisers, or a government agency or company we deal with, or in one of our contractors or suppliers. Our policy is only to use personal information collected from our business contacts for the business purpose for which it was collected, and not for any other purpose.
+Sometimes, 2GB needs to collect personal information from people we do business with. This will usually happen when we collect the name and business contact details of a person who is the contact in an advertising agency, or one of our advertisers, or a government agency or company we deal with, or in one of our contractors or suppliers. Our policy is only to use personal information collected from our business contacts for the business purpose for which it was collected, and not for any other purpose.
 
 **Website users:**  
 We may also collect personal information through our website (for example, if you e-mail the Ultimate Gardeners page on the 2GB website).
@@ -29,42 +22,39 @@ Our policy is only to use personal information collected from our business conta
 
 We do not collect personal information that we do not need.
 
-We will not sell, rent or trade personal information about you to or with others.
+1\. Macquarie Media Network Limited (MMN), a company incorporated in Australia, is the owner of 2gb.com. MMN holds the benefit of all disclaimers and limitations of liability in these terms and conditions of use on behalf of each of its related bodies corporate.
 
-Personal information collected by us may be disclosed to third parties to whom we outsource specialised functions (such as mailing houses or printing companies), and if so, we take steps to ensure that those contractors:
+2\. MMN offers the content, functionality and all other elements of 2gb.com to each user only on these terms and conditions and any other specific terms and conditions that apply to any particular part of this website (for example, the terms and conditions that apply to any promotion conducted on this website). A user's use of this website on each separate occasion constitutes acceptance by that user of MMN's offer.
 
-  * Comply with the NPPs when they handle personal information about you (regardless of whether they are a small business, and would otherwise be exempt from the NPPs); and 
-  * Are authorised only to use personal information in order to provide the services or to perform the functions required by us. 
+3\. Each agreement between MMN and each user that is formed on acceptance of MMN's offer is governed exclusively by the laws of New South Wales, Australia.
 
+4\. All material on this website is protected by Australian and international copyright and other intellectual property laws. Users may not do anything which interferes with or breaches those laws or the intellectual property rights in the material.
 
+5\. Subject to any other specific restrictions or conditions that apply to any particular content on this website, each user may only download, view, listen, watch, copy and/or print a copy of material on the following conditions:
 
-The only other time we would make disclosures of personal information is if we are required to do so by law, or if the disclosure is permitted under the Privacy Act.
-
-The Macquarie Radio Group takes steps to ensure that the personal information it holds is secure from unauthorised access, destruction, use, modification or disclosure. We only permit your details to be accessed by authorised personnel.
-
-Under the Privacy Act, you have the right to seek access to information which we hold about you (although there are some exceptions to this). You also have the right to ask us to correct information about you which is inaccurate, incomplete or out of date.
-
-Please note that the personal information we hold about you will be information that you have provided us.
-
-We will assume (unless you tell us otherwise) that your request relates to our current records about you. To provide you with access to "current" personal information, we would ordinarily provide you with a print-out of the relevant personal information from our databases, or with photocopies of records which are held only on paper files. We may charge you for the cost of providing this type of access, but this will depend on the scope of your request.
-
-For legal and administrative reasons, we may also store records containing personal information in our archives. You only have a legal right to seek access to personal information about you collected by us prior to 21 December 2001 if we use or disclose that personal information after that date. If you do wish to seek access to personal information collected by us prior to 21 December 2001, please contact our Chief Operating Officer to discuss whether access may be available. Please note that if we do provide access to old records, we may charge you for the cost of providing such access.
-
-As noted above, our websites may collect personal information (eg if our listeners email us).
-
-No personal is stored on our server, unless authorised by the sender. If authorised, the only information stored is first and last name, email address, state and country.
-
-We may change this Privacy Policy at any time. We will make this Privacy Policy available to anyone who requests it, either at our offices or through our websites.
-
-For further information about privacy issues, see the Australian Federal Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
-
-If you feel that Macquarie Radio Network is not complying with this Privacy Policy, or if you have other privacy concerns, please contact our Chief Operating Officer (using the following contact details):
-
-  * Telephone on 02 8570 0111 
-  * Facsimile on 02 8570 0222 
-  * [E-mail Us](https://web.archive.org/web/20071011065430id_/http%3A//www.2gb.com/index.php?option=com_contact&task=view&contact_id=39&Itemid=124)
-  * Mail to Level 1, Building C, 33-35 Saunders St, PYRMONT, NSW, 2099 
+  * ONLY FOR personal and non-commercial use; 
+  * NOT FOR any use that is defamatory, unlawful or in breach of any third party's rights (including, without limitation, rights of privacy and intellectual property rights); 
+  * NOT to establish, maintain or provide, or assist in establishing, maintaining or providing a separate publication, website or other means of distribution; and 
+  * WITHOUT modification (including of any copyright notice).
 
 
 
-[Back to Top](https://web.archive.org/web/20071011065430id_/http%3A//www.2gb.com/index.php?option=com_content&task=view&id=26&Itemid=100#top)
+All rights that are not expressly granted are reserved.
+
+6\. This website may include third party content (including, without limitation, advertising material) and hyperlinks and pointers to websites operated by third parties. MMN is not responsible in any way for third party content, whether it is included in this website or in any third party website which is sourced using any hyperlink or pointer contained on this website. MMN does not endorse, recommend or otherwise make any representation or statement in relation to any third party content on this website (including, without limitation, any product or service referred to in any advertising material). 
+
+7\. In its use of the website, a user must not: 
+
+  * defame, abuse, harass, stalk, threaten or otherwise offend others; 
+  * publish or disseminate any material which is unlawful, obscene or defamatory; 
+  * use any automated scripting tools or software; 
+  * engage in or promote any surveys, contests, pyramid schemes, chain letters, unsolicited e-mailing or spamming; 
+  * impersonate any person or entity; 
+  * upload, post, e-mail, transmit or otherwise make available any material in breach of any other person's rights (including intellectual property rights) or which contains viruses, or other computer codes, files or programs designed to interrupt, limit or destroy the functionality of other computer software or hardware; or 
+  * breach any applicable laws or regulations.
+
+
+
+8\. MMN has no responsibility or liability in relation to any loss or damage incurred by a user, including damage to your software or hardware, arising from your use of or access to this website. MMN does not make, and excludes, any warranty, representation or other statement as to the accuracy, currency, timeliness or completeness of any material contained on the website. MMN does not exclude any rights and remedies available to a user under the Trade Practices Act (Cth) or any similar state or territory legislation that cannot be excluded, restricted or modified. Otherwise, MMN excludes all conditions and warranties that may be implied by law. 
+
+9\. MMN may terminate access to the website at any time without notice and for any period. MMN's disclaimers and limitations of liability, and the restrictions imposed on the user, continue survive both MMN's termination of access, and any termination of the agreement between MMN and each user.
