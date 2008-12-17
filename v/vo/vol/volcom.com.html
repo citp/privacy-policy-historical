@@ -1,11 +1,29 @@
-<!--The following is the downloaded HTML source of the volcom.com privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630140422id_/http%3A//www.volcom.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the volcom.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217115542id_/http%3A//www.volcom.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<title>Volcom | Youth Against Establishment</title>	
-		<!-- URCHIN SOFTWARE SCRIPT REMOVED FOR GOOGLE ANALYTICS -->
-			<!--<script src="/utm/__utm.js" type="text/javascript"></script>-->
-		<!-- URCHIN SOFTWARE SCRIPT REMOVED FOR GOOGLE ANALYTICS -->
+        
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+startList = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+window.onload=startList;
+
+//--><!]]></script>
 		<script language="JavaScript">
 		<!--
 		window.focus();
@@ -54,6 +72,13 @@
 				team_surf = newImage("/team/images/205team1.gif");
 				team_snow = newImage("/team/images/205team3.gif");
 				nav_volcasts_over = newImage("/images/nav_volcasts_over.gif");
+				nav_join_army_over = newImage("/images/nav_join_army_over.gif");
+				nav_vol_contest_over = newImage("/images/nav_vol_contest_over.gif");
+				nav_volcommunity_over = newImage("/images/nav_volcommunity_over.gif");
+				
+		gleason_stone7_01_over = newImage("http://www.volcom.com/admin/uploadFiles/Happenings/surf/2008/04/gleason_stone7_01-over.jpg");
+		gleason_stone7_01_click = newImage("http://www.volcom.com/admin/uploadFiles/Happenings/surf/2008/04/gleason_stone7_01-click.jpg");
+		
 				preloadFlag = true;
 			}
 		}
@@ -61,8 +86,8 @@
 		</script>
 		<script language="JavaScript1.1">
 		// articles:	showPopup('news/article.asp?articleID=14','news',600,420,1)
-		function showPopup(pageToLoad, winName, width, height, center) {
-			//Anthony Furlong 4-15-02
+		function showPopup(pageToLoad, winName, width, height, center) 
+		{
 			var browser_name = navigator.appName;
 			if (browser_name.indexOf("WebTV") != -1) {
 			return null; }
@@ -74,7 +99,6 @@
 			var new_window = window.open(pageToLoad ,winName, args);
 			new_window.focus();
 		}
-		
 		
 		function checkCR(evt) 
 		{
@@ -128,6 +152,22 @@
 
  		 return true					
 	}
+function MM_validateForm() { //v4.0
+  if (document.getElementById){
+    var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+    for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=document.getElementById(args[i]);
+      if (val) { nm=val.name; if ((val=val.value)!="") {
+        if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+          if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+        } else if (test!='R') { num = parseFloat(val);
+          if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+          if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+            min=test.substring(8,p); max=test.substring(p+1);
+            if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+      } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+    } if (errors) alert('The following error(s) occurred:\n'+errors);
+    document.MM_returnValue = (errors == '');
+} }
 
 function ValidateNewsletterForm(){
 	var emailID=document.newsletter.email
@@ -145,6 +185,12 @@ function ValidateNewsletterForm(){
 	return true
  }
 		</script>	
+
+<!-- Script for W.Graham to do popups in his flash -->
+<script language="JavaScript">
+function openNewWindow(URLtoOpen, windowName, windowFeatures) { newWindow=window.open(URLtoOpen, windowName, windowFeatures); } 
+</script>
+<!-- END Script for W.Graham to do popups in his flash -->
 		
 		<!-- Start Flash Detection -->		
 <script language="JavaScript" type="text/javascript">
@@ -262,14 +308,41 @@ function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
 </script>		
 		<!-- End Flash Detection -->
 			
-
+<script src="http://www.volcom.com/flash/marquee/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 		<link rel="SHORTCUT ICON" href="http://www.volcom.com/images/circlestone.ico">
         <link rel="stylesheet" href="http://www.volcom.com/volstyle.css">
 	</head>
 	
 	<body onload="preloadImages();" background="../images/bg_image.gif">
-		
+<script language="JavaScript">
+	// articles:	showPopup('news/article.asp?articleID=14','news',600,420,1)
+	function showNewsletterPopup(pageToLoad, winName, width, height, center) {
+		var browser_name = navigator.appName;
+		if (browser_name.indexOf("WebTV") != -1) {
+		return null; }
+		if (parseInt(navigator.appVersion) >= 4 ){
+			xposition = (screen.width - width) / 2;
+			yposition = (screen.height - height) / 2;
+		}
+		args = "width=" + width + "," + "height=" + height + "," + "location=0," + "menubar=0," + "resizable=1," + "scrollbars=0," + "status=0," + "titlebar=0," + "toolbar=0," + "hotkeys=0," + "screenx=" + xposition + "," + "screeny=" + yposition + "," + "left=" + xposition + "," + "top=" + yposition;
+		var new_window = window.open(pageToLoad ,winName, args);
+		new_window.focus();
+	}
+	function showNewsletterPopupNoResize(pageToLoad, winName, width, height, center) {
+		var browser_name = navigator.appName;
+		if (browser_name.indexOf("WebTV") != -1) {
+		return null; }
+		if (parseInt(navigator.appVersion) >= 4 ){
+			xposition = (screen.width - width) / 2;
+			yposition = (screen.height - height) / 2;
+		}
+		args = "width=" + width + "," + "height=" + height + "," + "location=0," + "menubar=0," + "resizable=0," + "scrollbars=1," + "status=0," + "titlebar=0," + "toolbar=0," + "hotkeys=0," + "screenx=" + xposition + "," + "screeny=" + yposition + "," + "left=" + xposition + "," + "top=" + yposition;
+		var new_window = window.open(pageToLoad ,winName, args);
+		new_window.focus();
+	}
+									
+</script>								
 		<!--Begin Mast Table-->
 		<table width="760" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
@@ -277,124 +350,46 @@ function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
 			</tr>
 			<tr>
 				<td>
-					<table width="760" border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						<td width="608">
-								<table width="608" border="0" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td><a href="/news/index.asp" onmouseover="changeImages('nav_happenings', 'nav_happenings_over.gif'); return true;" onmouseout="changeImages('nav_happenings', 'nav_happenings.gif'); return true;">
-											<img name="nav_happenings" src="/images/nav_happenings.gif" width="87" height="23" border="0"></a>
-										</td>								
-										<td><a href="/team/team_listings.asp" onmouseover="changeImages('nav_team', 'nav_team_over.gif'); return true;" onmouseout="changeImages('nav_team', 'nav_team.gif'); return true;">
-											<img name="nav_team" src="/images/nav_team.gif" width="86" height="23" alt="" border="0"></a>
-										</td>								
-										<td><a href="/eCom/line.asp" onmouseover="changeImages('nav_clothing', 'nav_clothing_over.gif'); return true;" onmouseout="changeImages('nav_clothing', 'nav_clothing.gif'); return true;">
-											<img name="nav_clothing" src="/images/nav_clothing.gif" width="87" height="23" alt="" border="0"></a>
-										</td>								
-										<td><a href="/art/index.asp" onmouseover="changeImages('nav_art', '2006Nav/nav_art_over.gif'); return true;" onmouseout="changeImages('nav_art', '2006Nav/nav_art.gif'); return true;">
-											<img name="nav_art" src="/images/2006Nav/nav_art.gif" width="62" height="23" alt="" border="0"></a>
-										</td>								
-										<td><a href="/stores/index.asp" onmouseover="changeImages('nav_stores', '2006Nav/nav_stores_over.gif'); return true;" onmouseout="changeImages('nav_stores', '2006Nav/nav_stores.gif'); return true;">
-											<img name="nav_stores" src="/images/2006Nav/nav_stores.gif" width="67" height="23" alt="" border="0"></a>
-										</td>
-										<td><a href="http://www.volcom.com/girls/index.html" target="girls" onmouseover="changeImages('nav_girls', '2006Nav/nav_girls_over.gif'); return true;" onmouseout="changeImages('nav_girls', '2006Nav/nav_girls.gif'); return true;">
-											<img name="nav_girls" src="/images/2006Nav/nav_girls.gif" width="67" height="23" alt="" border="0"></a>
-										</td>								
-										<td><a href="/history/index.asp" onmouseover="changeImages('nav_history', '2006Nav/nav_history_over.gif'); return true;" onmouseout="changeImages('nav_history', '2006Nav/nav_history.gif'); return true;">
-											<img name="nav_history" src="/images/2006Nav/nav_history.gif" width="72" height="23" alt="" border="0"></a>
-										</td>								
-										<td><a href="/index.asp" onmouseover="changeImages('nav_home', 'nav_home_over.gif'); return true;" onmouseout="changeImages('nav_home', 'nav_home.gif'); return true;">
-											<img name="nav_home" src="/images/nav_home.gif" width="76" height="23" alt="" border="0"></a>
-										</td>								
-							
-									</tr>
-								</tbody></table>
-						</td>
-			<form name="Newsletter" id="Newsletter"></form>
-																
-								<td width="152" rowspan="2">
-									<!--Begin Join Table-->
-									<script language="JavaScript" type="text/javascript">
-										document.write('<table width="152" border="0" cellspacing="0" cellpadding="0">');
-										document.write('<tr>');
-										document.write('<td colspan="3"><img src="/images/img_join_top.gif" width="152" height="15" alt="" /></td>');
-										document.write('</tr>');
-										document.write('<tr>');
-										
-										if (navigator.appName.indexOf("Netscape") != -1 && navigator.appVersion.indexOf("4") != -1)
-										{
-											document.write('<td width="5" bgcolor="#CE1B22"><img src="/images/spacer.gif" width="5" height="14" /></td>');
-											document.write('<td width="140"><input name="email" id="email" type="text" onFocus="if(this.value==\' ENTER YOUR E-MAIL HERE\')this.value=\'\';" onBlur="if(this.value==\'\')this.value=\' ENTER YOUR E-MAIL HERE\';" size="16" value=" ENTER YOUR E-MAIL HERE" maxlength="50"  /></td>');
-											document.write('<td width="7" bgcolor="#CE1B22"><img src="/images/spacer.gif" width="7" height="14" /></td>');
-										}	
-										else
-										{
-											document.write('<td width="5"><img src="/images/img_join_left.gif" width="5" height="14" /></td>');
-											document.write('<td width="140" bgcolor="#FFFFFF"><input class="formJoin" name="email" id="email" type="text" onFocus="if(this.value==\' ENTER YOUR E-MAIL HERE\')this.value=\'\';" onBlur="if(this.value==\'\')this.value=\' ENTER YOUR E-MAIL HERE\';" value=" ENTER YOUR E-MAIL HERE" maxlength="50"  /></td>');
-											document.write('<td width="7"><img src="/images/img_join_right.gif" width="7" height="14" /></td>');
-										}	
-										
-										document.write('</tr>');
-										document.write('<tr>');
-										document.write('<td colspan="3"><img src="/images/img_join_btm01.gif" width="102" height="14" /><a href="#" onclick="showNewsletterPopup(\'/volcomarmy.asp?email=\',\'army\',450,500,1);" onmouseover="changeImages(\'img_join_submit\', \'img_join_submit_over.gif\'); return true;" onmouseout="changeImages(\'img_join_submit\', \'img_join_submit_over.gif\'); return true;">');
-										document.write('<img name="img_join_submit" src="/images/img_join_submit_over.gif" width="43" height="14" border="0" alt="" /></a><img src="/images/img_join_btm02.gif" width="7" height="14" /></td>');
-										document.write('</tr>');
-										document.write('</table>');
-										
-																		
-									</script><table width="152" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"><img src="/images/img_join_top.gif" width="152" height="15" alt=""></td></tr><tr><td width="5" bgcolor="#CE1B22"><img src="/images/spacer.gif" width="5" height="14"></td><td width="140"><input name="email" id="email" type="text" onfocus="if(this.value==' ENTER YOUR E-MAIL HERE')this.value='';" onblur="if(this.value=='')this.value=' ENTER YOUR E-MAIL HERE';" size="16" value=" ENTER YOUR E-MAIL HERE" maxlength="50"></td><td width="7" bgcolor="#CE1B22"><img src="/images/spacer.gif" width="7" height="14"></td></tr><tr><td colspan="3"><img src="/images/img_join_btm01.gif" width="102" height="14"><a href="#" onclick="showNewsletterPopup('/volcomarmy.asp?email=','army',450,500,1);" onmouseover="changeImages('img_join_submit', 'img_join_submit_over.gif'); return true;" onmouseout="changeImages('img_join_submit', 'img_join_submit_over.gif'); return true;"><img name="img_join_submit" src="/images/img_join_submit_over.gif" width="43" height="14" border="0" alt=""></a><img src="/images/img_join_btm02.gif" width="7" height="14"></td></tr></tbody></table>
-									<script language="JavaScript">
-									// articles:	showPopup('news/article.asp?articleID=14','news',600,420,1)
-									function showNewsletterPopup(pageToLoad, winName, width, height, center) {
-										//Anthony Furlong 4-15-02
-										var browser_name = navigator.appName;
-										if (browser_name.indexOf("WebTV") != -1) {
-										return null; }
-										if (parseInt(navigator.appVersion) >= 4 ){
-											xposition = (screen.width - width) / 2;
-											yposition = (screen.height - height) / 2;
-										}
-										args = "width=" + width + "," + "height=" + height + "," + "location=0," + "menubar=0," + "resizable=1," + "scrollbars=0," + "status=0," + "titlebar=0," + "toolbar=0," + "hotkeys=0," + "screenx=" + xposition + "," + "screeny=" + yposition + "," + "left=" + xposition + "," + "top=" + yposition;
-										var new_window = window.open(pageToLoad + document.Newsletter.email.value ,winName, args);
-										new_window.focus();
-									}
-									
-									</script>								
-									<!--End Join Table-->
-								</td>
-													
-						</tr>						
-						<tr>
-							<td>
-								<table width="608" border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td>
+					
+								<a href="/news/index.asp" onmouseover="changeImages('nav_happenings', 'nav_happenings_over.gif'); return true;" onmouseout="changeImages('nav_happenings', 'nav_happenings.gif'); return true;">
+											<img name="nav_happenings" src="/images/nav_happenings.gif" border="0"></a>
+										<a href="/team/team_listings.asp" onmouseover="changeImages('nav_team', 'nav_team_over.gif'); return true;" onmouseout="changeImages('nav_team', 'nav_team.gif'); return true;">
+											<img name="nav_team" src="/images/nav_team.gif" alt="" border="0"></a>
+										<a href="/eCom/line.asp" onmouseover="changeImages('nav_clothing', 'nav_clothing_over.gif'); return true;" onmouseout="changeImages('nav_clothing', 'nav_clothing.gif'); return true;">
+											<img name="nav_clothing" src="/images/nav_clothing.gif" alt="" border="0"></a>
+										<a href="/art/index.asp" onmouseover="changeImages('nav_art', '2006Nav/nav_art_over.gif'); return true;" onmouseout="changeImages('nav_art', '2006Nav/nav_art.gif'); return true;">
+											<img name="nav_art" src="/images/2006Nav/nav_art.gif" alt="" border="0"></a>
+										<a href="/stores/index.asp" onmouseover="changeImages('nav_stores', '2006Nav/nav_stores_over.gif'); return true;" onmouseout="changeImages('nav_stores', '2006Nav/nav_stores.gif'); return true;">
+											<img name="nav_stores" src="/images/2006Nav/nav_stores.gif" alt="" border="0"></a>
+										<a href="http://www.volcom.com/girls/index.asp" target="girls" onmouseover="changeImages('nav_girls', '2006Nav/nav_girls_over.gif'); return true;" onmouseout="changeImages('nav_girls', '2006Nav/nav_girls.gif'); return true;">
+											<img name="nav_girls" src="/images/2006Nav/nav_girls.gif" alt="" border="0"></a>
+										<a href="/history/index.asp" onmouseover="changeImages('nav_history', '2006Nav/nav_history_over.gif'); return true;" onmouseout="changeImages('nav_history', '2006Nav/nav_history.gif'); return true;">
+											<img name="nav_history" src="/images/2006Nav/nav_history.gif" alt="" border="0"></a>
+										<a href="/index.asp" onmouseover="changeImages('nav_home', 'nav_home_over.gif'); return true;" onmouseout="changeImages('nav_home', 'nav_home.gif'); return true;">
+											<img name="nav_home" src="/images/nav_home.gif" alt="" border="0"></a>
+										<a href="#" onclick="showNewsletterPopup('/volcomarmy.asp','army',450,500,1);" onmouseover="changeImages('nav_join_army', 'nav_join_army_over.gif'); return true;" onmouseout="changeImages('nav_join_army', 'nav_join_army.gif'); return true;">
+											<img name="nav_join_army" src="/images/nav_join_army.gif" alt="" border="0"></a><br>
+								
+		
+								
 												<a href="http://www.volcom.com/blogs/blog.asp?blogID=6" onmouseover="changeImages('nav_wallpapers', 'nav_wallpapers_over.gif'); return true;" onmouseout="changeImages('nav_wallpapers', 'nav_wallpapers.gif'); return true;">
 												<img name="nav_wallpapers" src="/images/nav_wallpapers.gif" width="87" height="23" border="0"></a>
-											</td>								
-											<td><a href="/ltkrf/index.asp" onmouseover="changeImages('nav_ltkrf', 'nav_ltkrf_over.gif'); return true;" onmouseout="changeImages('nav_ltkrf', 'nav_ltkrf.gif'); return true;">
+											<a href="/ltkrf/index.asp" onmouseover="changeImages('nav_ltkrf', 'nav_ltkrf_over.gif'); return true;" onmouseout="changeImages('nav_ltkrf', 'nav_ltkrf.gif'); return true;">
 												<img name="nav_ltkrf" src="/images/nav_ltkrf.gif" width="86" height="23" alt="" border="0"></a>
-											</td>								
-											<td><a href="/skatepark/index.asp" onmouseover="changeImages('nav_skatepark', 'nav_skatepark_over.gif'); return true;" onmouseout="changeImages('nav_skatepark', 'nav_skatepark.gif'); return true;">
+											<a href="/skatepark/index.asp" onmouseover="changeImages('nav_skatepark', 'nav_skatepark_over.gif'); return true;" onmouseout="changeImages('nav_skatepark', 'nav_skatepark.gif'); return true;">
 												<img name="nav_skatepark" src="/images/nav_skatepark.gif" width="87" height="23" alt="" border="0"></a>
-											</td>								
-											<td><a href="http://www.volcoment.com/volcasts/defaultVolcom.asp?SortBy=" target="volcasts" onmouseover="changeImages('nav_volcasts', 'nav_volcasts_over.gif'); return true;" onmouseout="changeImages('nav_volcasts', 'nav_volcasts.gif'); return true;">
+											<a href="http://www.volcoment.com/volcasts/defaultVolcom.asp?SortBy=" target="volcasts" onmouseover="changeImages('nav_volcasts', 'nav_volcasts_over.gif'); return true;" onmouseout="changeImages('nav_volcasts', 'nav_volcasts.gif'); return true;">
 												<img name="nav_volcasts" src="/images/nav_volcasts.gif" width="85" height="23" alt="" border="0"></a>
-											</td>								
-											<td><a href="http://www.volcoment.com/ecom/categories.asp?cid=4" target="_ent" onmouseover="changeImages('nav_movies', 'nav_movies_over.gif'); return true;" onmouseout="changeImages('nav_movies', 'nav_movies.gif'); return true;">
+											<a href="http://www.volcoment.com/ecom/categories.asp?cid=4" target="_ent" onmouseover="changeImages('nav_movies', 'nav_movies_over.gif'); return true;" onmouseout="changeImages('nav_movies', 'nav_movies.gif'); return true;">
 												<img name="nav_movies" src="/images/nav_movies.gif" width="95" height="23" alt="" border="0"></a>
-											</td>								
-											<td><a href="http://www.volcoment.com" target="_ent" onmouseover="changeImages('nav_music', 'nav_music_over.gif'); return true;" onmouseout="changeImages('nav_music', 'nav_music.gif'); return true;">
+											<a href="http://www.volcoment.com" target="_ent" onmouseover="changeImages('nav_music', 'nav_music_over.gif'); return true;" onmouseout="changeImages('nav_music', 'nav_music.gif'); return true;">
 												<img name="nav_music" src="/images/nav_music.gif" width="88" height="23" alt="" border="0"></a>
-											</td>								
-											<td><a href="/dealers/index.asp" onmouseover="changeImages('nav_dealers', 'nav_dealers_over.gif'); return true;" onmouseout="changeImages('nav_dealers', 'nav_dealers.gif'); return true;">
+											<a href="/dealers/selectDiv.asp" onmouseover="changeImages('nav_dealers', 'nav_dealers_over.gif'); return true;" onmouseout="changeImages('nav_dealers', 'nav_dealers.gif'); return true;">
 												<img name="nav_dealers" src="/images/nav_dealers.gif" width="76" height="23" alt="" border="0"></a>
-											</td>
-										</tr>
-								</tbody></table>
-							</td>
-						</tr>						
-					</tbody></table>
+											<a href="/blogs/blog.asp?blogID=12" onmouseover="changeImages('nav_volcommunity', 'nav_volcommunity_over.gif'); return true;" onmouseout="changeImages('nav_volcommunity', 'nav_volcommunity.gif'); return true;">
+												<img name="nav_volcommunity" src="/images/nav_volcommunity.gif" width="107" height="23" alt="" border="0"></a>
+											
+						
 				</td>
 			</tr>
 			<tr>
@@ -504,19 +499,24 @@ Last revised January, 2006
 			</tr>
 		</tbody></table>
 		<!--End Content Table-->
-		<!--Begin Footer Table-->		
+
+
+
+	
 		<table width="760" border="0" cellspacing="0" cellpadding="0">
+      
 			<tbody><tr>
 				<td>
 					<table width="760" border="0" cellspacing="2" cellpadding="0">
 						<tbody><tr align="center">
-						  <td width="108"><a href="/index.asp" class="btmNav">Home</a></td>
-						  <td width="108"><a href="/news/index.asp" class="btmNav">Happenings</a></td>
-						  <td width="109"><a href="/team/team_listings.asp" class="btmNav">Team</a></td>
-						  <td width="109"><a href="/eCom/line.asp" class="btmNav">Clothing</a></td>
-						  <td width="109"><a href="/art/index.asp" class="btmNav">Art Galleries</a></td>
-						  <td width="109"><a href="/stores/index.asp" class="btmNav">Stores</a></td>
-						  <td width="108"><a href="/history/index.asp" class="btmNav">History</a></td>
+						  <td><a href="/index.asp" class="btmNav">Home</a></td>
+						  <td><a href="/news/index.asp" class="btmNav">Happenings</a></td>
+						  <td><a href="/team/team_listings.asp" class="btmNav">Team</a></td>
+						  <td><a href="/eCom/line.asp" class="btmNav">Clothing</a></td>
+						  <td><a href="/art/index.asp" class="btmNav">Art Galleries</a></td>
+						  <td><a href="/stores/index.asp" class="btmNav">Stores</a></td>
+						  <td><a href="/history/index.asp" class="btmNav">History</a></td>
+                          <td><a href="/stopfakes/default.asp" class="btmNav">Report Fakes</a></td>
 						</tr>
 					</tbody></table>
 				</td>
@@ -527,7 +527,7 @@ Last revised January, 2006
 						<tbody><tr align="center">
 						  <td><a href="/blogs/blog.asp?blogID=6" class="btmNav">Wallpapers</a></td>
 						<td><a href="/ltkrf/index.asp" class="btmNav">LTKRF</a></td>
-						<td><a href="/jobs/index.asp" class="btmNav">JObs</a></td>
+						<td><a href="http://www.jobing.com/cc/volcomclothing" target="jobs" class="btmNav">JObs</a></td>
 						<td><a href="http://www.volcoment.com" target="_ent" class="btmNav">Music</a></td>
 						<td><a href="/submissions.asp" class="btmNav">Submissions</a></td>	
 						<td><a href="/privacy.asp" class="btmNav">Privacy Policy</a></td>	    
@@ -536,16 +536,31 @@ Last revised January, 2006
 					</tbody></table>
 				</td>
 			</tr>
+              <tr><td align="right">
+        		<!--Begin Footer Table-->	
+<!-- Google CSE Search Box Begins  -->
+<form action="http://www.volcom.com/volsearch.html" id="cse-search-box">
+  <input type="hidden" name="cx" value="010915103354478360029:sm0cicq3tws">
+  <input type="hidden" name="cof" value="FORID:11">
+  <input type="text" name="q" size="25">
+  <input type="submit" name="sa" value="Search">
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+<!-- Google CSE Search Box Ends -->
+        </td></tr>
 		</tbody></table>
 		<!--End Footer Table-->
 
 <!-- GOOGLE ANALYTICS -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-422969-1";
-urchinTracker();
-</script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-422969-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 <!-- GOOGLE ANALYTICS -->
 
 	
