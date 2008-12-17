@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lemonfree.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619094325id_/http%3A//www.lemonfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemonfree.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217150602id_/http%3A//www.lemonfree.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Lemon Free Classifieds
 
@@ -40,7 +40,7 @@ Although, we do not link personal information to your IP address, by using this 
 
 Cookies are small pieces of information that a website you visit sends to your computer for record-keeping purposes.  Cookies are stored in a file on your computer’s hard drive and are used to make your use of website simpler for you by saving your preferences.   LemonFree.com uses these preferences to make our Site more intuitive to use when you return to the Site. Cookies do not identify you personally unless you have chosen to provide personal information to us. 
 
-LemonFree.com also uses third party advertisement serving technology to provide advertisements on our Site. This technology uses information about your visits to this Site (not including your name, address, or other personal information) to provide advertisements to you.  In providing advertisements, a unique third party cookie may be placed on your browser. You may also get cookies from such advertisers if you use the links on our Site to reach their respective websites. LemonFree.com does not control or have access to these cookies.    
+LemonFree.com also uses third party third party advertising companies to serve ads when you visit our Site. These companies may use information about your visits to this Site (not including your name, address, or other personal information) to provide advertisements on this Site, other sites and other media about goods and services that may be of interest to you.. In providing advertisements, a unique third party cookie may be placed on your browser. You may also get cookies from such advertisers if you use the links on our Site to reach their respective websites. LemonFree.com does not control or have access to these cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
 **Changes to this Policy**
 
