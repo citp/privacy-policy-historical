@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sunlife.ca privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628044909id_/http%3A//www.sunlife.ca/canada/v/index.jsp%3Fvgnextoid%3De0555ee947cce010VgnVCM1000006c90d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunlife.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064141id_/http%3A//www.sunlife.ca/canada/v/index.jsp%3Fvgnextoid%3De0555ee947cce010VgnVCM1000006c90d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.*
 
 # Privacy
 
 **Respecting your Privacy**
 
-In this document, **you** and **your** mean the individual who is a customer or potential customer of a member of the Sun Life Financial group of companies in Canada and **we** , **us** and **our** mean Sun Life Financial Inc., Sun Life Assurance Company of Canada, and their affiliates in Canada.  The complete list of companies in the Sun Life Financial group of companies can be found in the Sun Life Financial Privacy Policy which is available on the Sun Life Financial website or contact our Canadian Privacy Officer at the contact information listed below.
+In this document, **you** and **your** mean the individual who is a customer or potential customer of a member of the [Sun Life Financial group of companies in Canada](https://web.archive.org/canada/v/index.jsp?vgnextoid=6a37de324abd0110VgnVCM1000006c90d09fRCRD&vgnextfmt=default&vgnLocale=en_CA) and **we** , **us** and **our** mean Sun Life Financial Inc., Sun Life Assurance Company of Canada, and their affiliates in Canada. 
 
 **_Our commitment to protecting your privacy, our policy_**
 
@@ -21,6 +21,7 @@ If you have any questions about Sun Life Financial's Canadian Privacy Policy and
 How we collect, use and disclose personal information  
 We will protect your personal information  
 Your right to access your personal information  
+Cookies  
 For more information
 
 **How we collect, use and disclose personal information**
@@ -68,7 +69,7 @@ When we destroy personal information, we will use safeguards to prevent unauthor
 
 **We are responsible for your information**
 
-We are responsible for all personal information in our possession, including information transferred to a third-party service provider or agent, so that we can provide you with a product or service. In some instances our employees, service providers or agents may be located in jurisdictions outside Canada, and your personal information may be subject to the laws of those foreign jurisdictions.  All such persons, whether or not they are located in Canada, are required to protect the confidentiality of your personal information in a manner that is consistent with our privacy policy and practices.
+We are responsible for all personal information in our possession, including information transferred to a third-party service provider or agent, so that we can provide you with a product or service. In some instances our employees, service providers, agents, reinsurers and any of their service providers, may be located in jurisdictions outside Canada, and your personal information may be subject to the laws of those foreign jurisdictions.  All such persons, whether or not they are located in Canada, are required to protect the confidentiality of your personal information in a manner that is consistent with our privacy policy and practices.
 
 **How we protect information**
 
@@ -102,6 +103,22 @@ If you feel we have not dealt with your request to your satisfaction, you can fo
 
 You may register a privacy-related complaint by contacting Sun Life Financial's Canadian Privacy Officer. We will explain Sun Life Financial's Canadian complaint procedure to you and investigate all complaints. If a complaint is justified, we will take all appropriate steps to set the situation right, including changing our policies and practices if necessary. We will also let you know what other complaint procedures may be available to you.
 
+**Cookies**
+
+**What are cookies?**
+
+A cookie is a small file used by a Web server to store information in your browser's temporary memory or on your computer. Cookies cannot access other information or files from your computer. There are two types of cookies - a **session cookie** and a **permanent cookie**. A session cookie (sometimes referred to as a transient cookie) is erased when you close your Internet browser and leave our website. A "permanent cookie" is a file that remains on your computer when you close your Internet browser. Permanent cookies have expiry dates and will automatically be deleted from your computer after their expiry date or alternatively you can clear your stored cookies via your browser preferences on your computer. A permanent cookie can be read only by the website that created the cookie when you visit that site again. We use both session cookies and permanent cookies within our websites.
+
+**Why are cookies used?**
+
+Cookies are very common, with many organizations electing to use them to gather data regarding how visitors explore their websites - information such as how many new visitors there are, how many repeat visitors there are, how many sections or pages of the website a visitor explores and so forth. Organizations use the information gathered by cookies to modify their websites to improve their website's performance and functionality.
+
+Cookies have the ability to identify a visitor, if the visitor has used a website's login feature.With a permanent cookie your login ID would be stored in an encrypted format on your computer, so that the next time you visit the website you would be recognized when you sign in. This enables the website to recall your preferences and provide a more customized experience.
+
+**What are your options regarding cookies?**
+
+You have the ability to decide whether you want to accept all cookies, reject all cookies or simply be notified when a cookie will be created. To do this you need to alter your browser preferences. Since the procedure for altering preferences varies by browser  you should check the 'Help' menu of your browser to learn how to alter your cookie preferences.
+
 **For more information**
 
 For more information, please contact Sun Life Financial's Privacy Officer in Canada at (416) 408-8850 or by email at [privacyofficer@sunlife.com](mailto:privacyofficer@sunlife.com).
@@ -109,6 +126,7 @@ For more information, please contact Sun Life Financial's Privacy Officer in Can
 * * *
 
 **Sun Life Financial's Privacy Code For Canada**  
+  
 ---  
   
 **Principle 1 - Accountability**
