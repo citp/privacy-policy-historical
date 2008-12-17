@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchles.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515073553id_/http%3A//www.searchles.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchles.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217205958id_/http%3A//www.searchles.com/misc/privacy) for the most accurate reproduction.*
 
 # Searchles
 
