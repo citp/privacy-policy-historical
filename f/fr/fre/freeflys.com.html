@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freeflys.com privacy policy that was archived on 2008-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080612060036id_/http%3A//www.freeflys.com/privacy.php%3Fpup%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeflys.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217081248id_/http%3A//www.freeflys.com/privacy.php%3Fpup%3D1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>FreeFly's - Privacy</title>
@@ -9,6 +9,7 @@
 <link rel="shortcut icon" href="navImages/favicon.ico" type="image/x-icon">
 
 <script type="text/javascript">
+<!--
 function addBookmark(title,url) {
 	if (window.sidebar) { 
 		window.sidebar.addPanel(title, url,""); 
@@ -22,7 +23,6 @@ function addBookmark(title,url) {
 }
 function newWindow(url){adWindow=window.open(url, 'adWin');adWindow.focus();}
 
-//Some users will be viewing this from within a frame. We can't let them do this or their cookie won't be set
 window.onload = function(){
 	if(self != top){
 		var Links = document.getElementsByTagName('A');
@@ -36,17 +36,44 @@ window.onload = function(){
 	}
 }
 
+function dpiu(){
+	piu = false;
+}
+function popitup(){
+	//alert('close value is: '+piu);
+	if( piu ){
+		var newpow = "";
+		window.open(newpow, "", "toolbar=no,scrollbars=yes,location=no,status=no,menubar=yes,resizable=1,width=1024,height=800,left=0,top=0");
+	}
+}
+function initialize(){
+	// don't pop up a window if user submits a form
+	//for(var i=0;i<document.forms.length;i++) {
+		//document.forms[i].onsubmit = dpiu;
+	//}
+	// don't pop up a window if user clicks on a link
+	//document.onclick = dpiu;
+	//alert('load value is: '+piu);
+}
+
+var piu = true;
+window.captureEvents(Event.SUBMIT);
+//window.onunload = popitup;
+window.onsubmit = dpiu;
+window.onclick = dpiu;
+-->
 </script>
-<link rel="Stylesheet" href="css/Stylesheet.css?nocache=2">
+<link rel="Stylesheet" href="css/Stylesheet.css?nocache=6">
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 </head>
 <body>
+<div id="NewStar">&nbsp;</div>
 <div id="Wrap1">
 	<div id="Wrap2">
 		<div id="SiteTop">
 			<a href="FreeSamples.php" id="Logo"><img src="navImages/FreeflysLogo.gif" border="0" alt="Freefly's - Get Free Stuff!" width="222" height="81"></a>
 			<div id="Buttons">
-			<a href="Forums"><img src="navImages/Button_Forums.gif" border="0"></a><a href="TellAFriend.php"><img src="navImages/Button_TellAFriend.gif" border="0"></a><a href="javascript:addBookmark('FreeFlys\' - Free Samples and Offers','http://www.FreeFlys.com');"><img src="navImages/Button_BookmarkThisPage.gif" border="0"></a><a href="Login.php"><img src="navImages/Button_Login.gif" border="0"></a></div>
+			<a href="Forums"><img src="navImages/Button_Forums.gif" border="0"></a><a href="TellAFriend.php"><img src="navImages/Button_TellAFriend.gif" border="0"></a><a href="Coupons.php"><img src="navImages/Button_Coupons.gif" border="0"></a><a href="javascript:addBookmark('FreeFlys\' - Free Samples and Offers','http://www.FreeFlys.com');"><img src="navImages/Button_BookmarkThisPage.gif" border="0"></a><a href="Login.php"><img src="navImages/Button_Logout.gif?cache=1" border="0"></a></div>
 			<div id="Header"><a href="MoreFreeSamples.php"><img src="navImages/Button_MoreFreeflysSamples.gif" border="0" alt="More Freefly's Free Samples" align="right" vspace="5" hspace="20"></a><img src="navImages/CheapIsGoodFreeIsBetter.gif" border="0" width="351" height="52"></div>
 		</div>
 		
@@ -189,12 +216,12 @@ Redwood City, CA 94063</p>
 		<br>© 2008 freeflys.com  / All Rights Reserved.</div>
 	</div>
 </div>
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-5dOvJ1YkvUimc";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-5dOvJ1YkvUimc" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-5dOvJ1YkvUimc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<script type="text/javascript">_qacct="p-5dOvJ1YkvUimc";quantserve();</script>
+	<noscript>
+	<a href="http://www.quantcast.com/p-5dOvJ1YkvUimc" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-5dOvJ1YkvUimc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+	</noscript>
+	<!-- End Quantcast tag -->
 
 </body></html>
