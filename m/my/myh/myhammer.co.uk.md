@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the myhammer.co.uk privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517124217id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhammer.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217030536id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
-# MyHammer - Find Local Tradesmen For Any Job - For Free!
+# Find Local Tradesmen For Any Job - For Free!
 
 **Beware:** In order to save or print the Privacy Policy in text form, you must view it as a PDF. In order to open PDF documents you need to download the free Adobe® Acrobat® Reader software. You can download this on their website.   
-[PDF file](http://images.my-hammer.at/live/structure/privacy_2008.pdf)
+[PDF file](http://static.myhammer.com/live/structure/privacy_2008.pdf)
 
 **Please note:  
 By registering or using the MyHammer website you consent to the collection, use and transfer of your information under the terms of this privacy policy. **
