@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wi-fi.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608142119id_/http%3A//www.wi-fi.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wi-fi.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131059id_/http%3A//www.wi-fi.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Wi-Fi Alliance - Online Privacy Policy
 
