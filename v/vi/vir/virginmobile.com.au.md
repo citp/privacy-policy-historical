@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406065458id_/http%3A//www.virginmobile.com.au/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085220id_/http%3A//www.virginmobile.com.au/privacy_security.html) for the most accurate reproduction.*
 
 # Mobile phones, great rates, free voicemail in Oz: that’s Virgin Mobile Australia
 
