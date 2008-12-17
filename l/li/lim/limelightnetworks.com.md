@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the limelightnetworks.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413101853id_/http%3A//www.limelightnetworks.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limelightnetworks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092125id_/http%3A//www.limelightnetworks.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy: Limelight Networks
+# Limelight Networks - Company
+
+Privacy Policy
 
 Welcome to the Limelight Networks ("Limelight") web site (www.limelightnetworks.com), and any other web sites, networks, applications, or services operated or produced by Limelight (collectively, the "Limelight Platform"). Limelight values the privacy of the users, subscribers, publishers, members, and others who visit and use the Limelight Platform (collectively or individually, "you" or "Users"). 
 
@@ -96,7 +98,7 @@ The following are some resources that may help parents and legal guardians in mo
 
   * ["OnGuard Online," maintained by the Federal Trade Commission.](http://onguardonline.gov/socialnetworking.html)
   * [WiredSafety](http://www.wiredsafety.org/)
-  * [Netsmartz.org](https://web.archive.org/web/20080413101853id_/http%3A//www.limelightnetworks.com/www.netsmartz.org)
+  * [Netsmartz.org](https://web.archive.org/web/20081217092125id_/http%3A//www.limelightnetworks.com/www.netsmartz.org)
   * [The Child Safety Network](http://www.csn.org/index.jsp)
   * [Control Kids](http://www.controlkids.com/)
   * [Cyber Sitter](http://www.solidoak.com/)
