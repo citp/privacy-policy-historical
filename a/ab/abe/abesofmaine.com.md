@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abesofmaine.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624083631id_/http%3A//www.abesofmaine.com/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abesofmaine.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050623id_/http%3A//www.abesofmaine.com/privacyPolicy.do) for the most accurate reproduction.*
 
 # About Us
 
@@ -7,6 +7,225 @@
 |   
 ---  
   
+| [](http://www.abesofmaine.com/category.do?group1=Digital) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Televisions) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Video) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=GPS+Devices) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Photography) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Electronics) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Large+Appliances) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Small+Appliances) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Pro+Audio) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Audio) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Computers) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Musical+Instruments) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Binoculars) |   
+---|---  
+  
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Car+Electronics) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=DJ+Equipment) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=DVD) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Sports+Equipment) |   
+---|---  
+  
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Kids+and+Babies) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Fitness+Equipment) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Marine+Audio) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Video+Editing) |   
+---|---  
+  
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Gift+Cards) |   
+---|---  
+  
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Hardware) |   
+---|---  
+  
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Specials) |   
+---|---  
+  
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Rebates) |   
+---|---  
+  
+, 
+
+, 
+
+, 
+
+[](http://www.abesofmaine.com/category.do?group1=Closeouts) |   
+---|---  
+  
+, 
+
+, 
+
+,   
+  
+  
+
+
 | 
 
 ** www.abesofmaine.com** (the "Site") is brought to you by **Abes of Maine inc**. ("we"). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.   
@@ -41,7 +260,13 @@ We have taken certain physical, electronic, contractual, and managerial steps to
   
 ** Children**
 
-We do not direct the Site to, nor do we knowingly collect any personal information from, children under the age of thirteen.   
+We do not direct the Site to, nor do we knowingly collect any personal information from, children under the age of thirteen. 
+
+**Product Review Privacy Information**
+
+If you decide to review a product that we carry, Please keep in mind that your review will be shared with other users on our site as well as on _[Buzzillions.com](http://www.buzzillions.com/4294967010_nz_digital_cameras_reviews)_, a network site that shares reviews with the shopping community.
+
+By posting a review, you agree that your first name and review will be posted on both abesofmaine.com and Buzzillions.com. For more information, see Buzzillion's [ Privacy Page](http://www.powerreviews.com/legal/privacy_policy_en_US.html)  
   
 ** Third Party Websites**
 
