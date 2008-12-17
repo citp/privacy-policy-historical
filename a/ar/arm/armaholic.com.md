@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506060935id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093313id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
 
-# Privacy statement - Files, News, Reviews, Addons, Mods, Missions, Scripts, Videos and more.
+# Privacy statement - Addons, Mods, Files, Missions, Scripts, Demo's, Patches
+
+ 
 
 **Privacy Statement**
 
