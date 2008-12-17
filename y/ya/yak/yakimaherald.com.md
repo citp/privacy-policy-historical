@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the yakimaherald.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515075149id_/http%3A//www.yakimaherald.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakimaherald.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217020234id_/http%3A//www.yakimaherald.com/privacy) for the most accurate reproduction.*
 
-# Yakima Herald-Republic Online - Yakima, Washington News, Classifieds, Information, Advertising
-
-Yakima Herald-Republic - ONLINE PRIVACY POLICY   
-
+# Online Privacy Policy | Yakima Herald-Republic Online
 
 The following statement explains how the Web sites operated by the Yakima Herald-Republic collect and use your personally identifiable information. These Web sites include: yakimaherald.com, yakimablogs.com.
 
@@ -74,7 +71,7 @@ We retain the right, at our discretion, to change any of these policies in the f
 **How to contact the Yakima Herald-Republic**  
 If you have any questions about this privacy statement, the practices of our Web sites, or to resolve a dispute, you can contact us:
 
-By e-mail: [webmaster@yakimaherald.com](mailto:webmaster@yakimaherald.com)
+By e-mail: [click here](mailto:webmaster@yakimaherald.com?subject=%5BYakima-Herald.com%5D%20Privacy%20Question)
 
 By mail:
 
