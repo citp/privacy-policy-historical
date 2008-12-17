@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615174353id_/http%3A//www.drivetime.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084807id_/http%3A//www.drivetime.com/privacy.aspx) for the most accurate reproduction.*
 
 # Contact Us
 
@@ -25,7 +25,7 @@
 ](http://www.drivetime.com/en-US/contactus/default.aspx "Contact Us for Car Loans")
   * [Make a Payment
 
-](http://www.drivetime.com/2008rebate/intermediate.aspx "DriveTime Web Payment")
+](https://www.paybyinternet.com/drivetime/ "DriveTime Web Payment")
 
 | 
 
@@ -59,7 +59,7 @@ A cookie is a small text file containing information that a Web site stores on y
 Most browsers are automatically set up to accept cookies. If you would prefer, you can set your browser to reject cookies. However, you might not be able to use certain features on the site. 
 
 **Log Files**  
-DriveTime uses WebTrends to analyze traffic to this Web site in order to help us understand our customers’ and visitors' needs and to continually improve our site for them. The data they collect on our behalf may include search engine referral, affiliate referrals, traffic driven by banner ads or other online promotions, how visitors navigate around the site, and the most popular pages. We also collect certain technical information, such as the browser version and operating system. WebTrends collects only anonymous, aggregate statistics. For example, we do not tie a specific visit to a specific IP address and we do not correlate this tracking with personally identifiable information. 
+DriveTime uses Google Analytics to analyze traffic to this Web site in order to help us understand our customers’ and visitors' needs and to continually improve our site for them. The data they collect on our behalf may include search engine referral, affiliate referrals, traffic driven by banner ads or other online promotions, how visitors navigate around the site, and the most popular pages. We also collect certain technical information, such as the browser version and operating system. Google Analytics collects only anonymous, aggregate statistics. For example, we do not tie a specific visit to a specific IP address and we do not correlate this tracking with personally identifiable information. 
 
 **Assistance to Victim of Identity Theft**  
 If you suspect that someone has had unauthorized access to your account with us or access to your personally identifiable information, you should report this crime to your local law enforcement agency and to the Federal Trade Commission (FTC). To speak with a trained FTC telephone counselor, call toll-free 1-877-IDTheft (1-877-438-4338). Or, to enter information about your complaint into a secure FTC online database, visit [www.consumer.gov/idtheft](http://www.consumer.gov/idtheft). The site also provides links to consumer education materials. 
@@ -90,6 +90,13 @@ DriveTime does not send unsolicited e-mail. When you provide your e-mail address
 Each e-mail sent by DriveTime contains a link that provides access to a simple automated facility to opt out of future e-mails from us. If you wish to opt out of additional e-mail communications, and no longer have the e-mail with the link, you can opt yourself out at [www.drivetime.com/optout/](http://www.drivetime.com/en-US/optout/default.aspx). If you have received an unwanted e-mail sent from DriveTime, please forward a copy of the e-mail and your comments to [ApprovalTeam@DriveTime.com](mailto:ApprovalTeam@DriveTime.com) and we will immediately add you to our "do not e-mail" list. 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, please contact us at [privacy@drivetime.com](mailto:privacy@drivetime.com).   
+If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, please contact us at [privacy@drivetime.com](mailto:privacy@drivetime.com). 
+
+**Downloadable Privacy Documents**  
+
+
+  * [2008 Privacy Policy Flyer](http://www.drivetime.com/resources/Privacy%20policy%20flyer_2008_web.pdf)
+  * [2008 California Privacy Notice](http://www.drivetime.com/resources/California%20Privacy%20Notice_08.pdf)
+
   
 ---|---
