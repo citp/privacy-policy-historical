@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canstockphoto.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608002702id_/http%3A//www.canstockphoto.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstockphoto.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061336id_/http%3A//www.canstockphoto.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Can Stock Photo - Privacy Policy
 
@@ -29,11 +29,11 @@ Under extreme circumstances, we may be required to share any of the above inform
 Please note that by voluntarily sharing your information on a publicly accessible location within the website (i.e. forums, profiles, etc); such information will then be considered public knowledge. Do not publicly list information that you would like to keep private.
 
 **Security:**  
-We take every possible security precautions to safeguard your personal information. This includes (but is not limited to) the usage of firewalls, data encryption, passwords, anti-hacking software, and regular software updates. For more information on our security policy, please see [here](https://web.archive.org/web/20080608002702id_/http%3A//www.canstockphoto.com/security_policy.php)
+We take every possible security precautions to safeguard your personal information. This includes (but is not limited to) the usage of firewalls, data encryption, passwords, anti-hacking software, and regular software updates. For more information on our security policy, please see [here](https://web.archive.org/web/20081217061336id_/http%3A//www.canstockphoto.com/security_policy.php)
 
 **Children:**  
 Children under the age of 13 are only permitted to access this site with the appropriate parental consent.
 
 We reserve the right to modify this policy at any time.
 
-Questions or comments on our privacy policy? [Let us know](https://web.archive.org/web/20080608002702id_/http%3A//www.canstockphoto.com/support.php)!
+Questions or comments on our privacy policy? [Let us know](https://web.archive.org/web/20081217061336id_/http%3A//www.canstockphoto.com/support.php)!
