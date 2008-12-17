@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swapitshop.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412045642id_/http%3A//www.swapitshop.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapitshop.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025556id_/http%3A//www.swapitshop.com/privacy_policy) for the most accurate reproduction.*
 
 # SwapitShop: Swap games, DVDs, cards, vouchers, fashion and more at the No.1 swapshop
 
@@ -40,4 +40,6 @@ If you have any questions or concerns regarding this privacy policy, please cont
 
 [](http://www.addthis.com/bookmark.php)
 
-[](http://www.swapitshop.com/ad.cgi?ccs=2872,8186,12321&username=&TIME_STAMP=7507601)
+[](http://www.swapitshop.com/ad.cgi?ccs=3203,9097,14458&username=&TIME_STAMP=7229585)
+
+[](http://www.swapitshop.com/ad.cgi?ccs=3209,7927,14452&username=&TIME_STAMP=7229585)
