@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the expo-studyabroad.com privacy policy that was archived on 2008-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080410024428id_/http%3A//www.expo-studyabroad.com/Privacidade.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the expo-studyabroad.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217142322id_/http%3A//www.expo-studyabroad.com/Privacidade.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Study Abroad Guide</title>
@@ -15,6 +15,9 @@
 <script type="text/javascript" src="includes/flashobject.js"></script>
 <script type="text/javascript" src="includes/flash.js"></script>
 <script language="JavaScript" src="includes/scripts.js"></script>
+<script type="text/javascript" src="includes/Ajax.js"></script>
+<script type="text/javascript" src="includes/CombosBuscaStandardProfiles.js"></script>
+<script type="text/javascript" src="includes/CombosBuscaPremiumProfiles.js"></script>
 <script src="_INC/functions.js"></script>
 <style type="text/css">
 <!--
@@ -49,7 +52,7 @@ urchinTracker();
 <!--
 body,td,th {
 	font-family: Trebuchet MS, Arial;
-	font-size: 11px;
+	font-size: 12px;
 	color: #333333;
 }
 -->
@@ -67,15 +70,15 @@ body,td,th {
     <td><img src="_IMGS/espace.jpg" width="1" height="4"></td>
   </tr>
   <tr>
-    <td><table width="766" height="112" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFCC00">
+    <td><table width="770" height="112" border="0" cellspacing="0" cellpadding="0" bgcolor="#EDD618">
   <tbody><tr>
     <td><a href="default.asp"><img src="_IMGS/logomarca_en.jpg" border="0"></a></td>
-    <td><table width="630" height="111" border="0" cellspacing="0" cellpadding="0">
+    <td><table width="619" height="111" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td valign="top" background="_IMGS/fundo.jpg"><table width="94%" border="0" align="right" cellpadding="2" cellspacing="0">
           <tbody><tr>
             <td width="68%"><a href="QuemSomos.asp">Who We Are</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="Parceiros.asp">Partners</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="FaleConosco.asp">Contact Us</a></td>
-            <td width="32%"><div align="right"><a href="http://www.expo-studyabroad.com/">English</a>&nbsp;&nbsp;<a href="http://www.cursosenelexterior.com/">Español</a>&nbsp;&nbsp;<a href="http://www.estudenoexterior.com/">Português</a></div></td>
+            <td width="32%"><div align="right"><a href="http://www.expo-studyabroad.com/">English</a>&nbsp;&nbsp;<a href="http://www.cursosenelexterior.com/">Español</a>&nbsp;&nbsp;<a href="http://www.estudenoexterior.com/">Português</a>&nbsp;&nbsp;<a href="http://www.studiallestero.com/">Italiano</a>&nbsp;&nbsp;<a href="http://www.studereninhetbuitenland.com/">Nederlands</a></div></td>
           </tr>
           <tr>
             <td colspan="2"><table border="0" cellspacing="0" cellpadding="0">
@@ -273,88 +276,37 @@ body,td,th {
                 <td><table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
                     <tbody><tr>
                       <td><img src="_IMGS/seta.gif"></td>
-                      <td width="96%"><a href="InstituicoesProfissionalizantesBusca.asp" class="menu_lado">Extended Courses</a></td>
+                      <td width="96%"><a href="InstituicoesProfissionalizantesBusca.asp" class="menu_lado">Extension Courses</a></td>
                     </tr>
                 </tbody></table></td>
-              </tr>
-              <tr>
+              </tr>			
+			   <tr>
                 <td><img src="_IMGS/separador.gif" width="145" height="1"></td>
               </tr>
               <tr>
                 <td><table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
                   <tbody><tr>
                     <td><img src="_IMGS/seta.gif"></td>
-                    <td width="96%"><a href="TrabalhoExterior.asp" class="menu_lado">Work Abroad</a></td>
+                    <td width="96%"><a href="TesteVocacional.asp" class="menu_lado">Career Interest Test</a></td>
                   </tr>
                 </tbody></table></td>
-              </tr>
-              <tr>
-                <td><img src="_IMGS/separador.gif" width="145" height="1"></td>
-              </tr>
-              <tr>
-                <td><table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
-                  <tbody><tr>
-                    <td><img src="_IMGS/seta.gif"></td>
-                    <td width="96%"><a href="SeminariosVideos.asp" class="menu_lado">Seminars
-                        - Videos</a></td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
+              </tr>              
             </tbody></table></td>
-          </tr>
-          <tr>
+          </tr>		
+
+		  <tr>
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
                 <td><table width="161" height="29" border="0" cellspacing="0" cellpadding="0">
                   <tbody><tr>
-                    <td background="_IMGS/topo_2_titulo.gif" class="titulo_sessao_meio">Find your course</td>
+                    <td background="_IMGS/topo_2_titulo.gif" class="titulo_sessao_meio"><a href="Seminarios.asp" class="titulo_sessao_meio">Seminars - Videos</a></td>
                   </tr>
                 </tbody></table></td>
               </tr>
-              <tr>
-                <td height="162" valign="top"><table width="90%" border="0" align="center" cellpadding="2" cellspacing="0">
-                  <tbody><tr>
-                    <td>Search courses by country and course type.</td>
-              </tr>
-			  <tr>
-                <form action="" method="post" name="form2" class="form-news" id="form2"></form>
-                  <td><label>
-                    <select name="select3" onchange="location=this.options[this.selectedIndex].value" class="encontre_curso">
-                      <option>Traditional Search</option>
-                      <option value="#">------------------------</option>
-                      <option value="EscolasIdiomasBusca-Novo.asp">Language Courses</option>
-                      <option value="UniversidadesBusca-Novo.asp">University Courses</option>
-                      <option value="BoardingSchools.asp">High Schools</option>
-                      <option value="InstituicoesProfissionalizantesBusca.asp">Extended Courses</option>
-                      <!--
-		  <option value="EstagiosBusca.asp">Career Planning</option> 
-		  <option value="MbaBusca.asp">MBA</option> 
-		  -->
-                    </select>
-                    </label>
-                  </td>
-                
-              </tr>
-              <tr>
-                <td class="v10">Tell us what type of course you are looking for and we'll contact the institutions for you.</td>
-              </tr>
-              <tr>
-                <form action="" method="post" name="form2" id="form2"></form>
-                  <td><label>
-                    <select name="select3" onchange="location=this.options[this.selectedIndex].value" class="encontre_curso">
-                      <option>Quick Search</option>
-                      <option value="#" onclick="return false">------------------------</option>
-                      <option value="EscolasIdiomasBuscaRapida.asp">Language Courses</option>
-                      <option value="UniversidadesBuscaRapida.asp">University Courses</option>
-                    </select>
-                    </label>
-                  </td>
-                
-              </tr>
-                </tbody></table></td>
-              </tr>
-            </tbody></table></td>
-          </tr>
+			  </tbody></table>
+			</td>
+		  </tr>  
+          
           <tr>
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
@@ -557,7 +509,7 @@ body,td,th {
 
             <table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
-                <td><table width="98%" border="0" align="right" cellpadding="0" cellspacing="0" background="_IMGS/bar_2.jpg">
+                <td><table width="98%" border="0" cellpadding="0" cellspacing="0" background="_IMGS/bar_2.jpg">
                     <tbody><tr>
                       <td width="3%"><img src="_IMGS/bar_1.jpg" width="25" height="51"></td>
                       <td width="97%" class="tit">Privacy</td>
@@ -569,7 +521,9 @@ body,td,th {
                     <tbody><tr>
                       <td colspan="2"><table align="center">
                         <tbody><tr>
-                          <td valign="top"><p>FPP Media, Inc., holder of the site <b><font color="#E80000">expo</font><font color="#000000">-studyabroad.com</font></b>, does not divulge, pass on or sell, under any conditions, any of the information provided by the user of our site without the express consent and authorization of the user. Additionally, we guarantee you, the user, complete transparency with, and control over, the use of your individual information.</p>
+                          <td valign="top">
+						  <br> 
+						  <p>FPP Media, Inc., holder of the site <b><font color="#E80000">expo</font><font color="#000000">-studyabroad.com</font></b>, does not divulge, pass on or sell, under any conditions, any of the information provided by the user of our site without the express consent and authorization of the user. Additionally, we guarantee you, the user, complete transparency with, and control over, the use of your individual information.</p>
 
 <p>Currently, there are many ways to obtain information about users on the Internet. FPP Media, Inc. uses registration forms and questionnaires to get to know its users better. Generally, we ask about the individual's characteristics and interests, and about socio-demographic facts. This allows us to offer a unique service that is more adapted to the interest of our users.</p>
 
@@ -652,7 +606,7 @@ body,td,th {
                 <td background="_IMGS/footbg.jpg"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
                     <tbody><tr>
                       <td><span class="style2">Copyright © 1997/2008 -
-                          FPP Media, Inc. All rights reserved &nbsp;</span></td>
+                          FPP Edu-Media All rights reserved &nbsp;</span></td>
                     </tr>
                 </tbody></table></td>
               </tr>
@@ -663,7 +617,7 @@ body,td,th {
               <tbody><tr>
                 <td><table width="100%" border="0" cellspacing="0" cellpadding="4">
                     <tbody><tr>
-                      <td width="87%"><div align="center" class="style9"><span class="style8"><a href="CadastroUsuario.asp" class="LinksRodape">Register</a> · <a href="CadastroUsuarioAlterar.asp" class="LinksRodape">Change Info</a> · <a href="FaleConosco.asp" class="LinksRodape">Contact Us</a> · <a href="EscolasIdiomasBusca-Novo.asp" class="LinksRodape">Language Courses</a> · <a href="UniversidadesBusca-Novo.asp" class="LinksRodape">University Courses</a> · <a href="BoardingSchools.asp" class="LinksRodape">High Schools</a> · <a href="InstituicoesProfissionalizantesBusca.asp" class="LinksRodape">Extended Courses</a> <!--&middot; <a href="EstagiosBusca.asp" class="LinksRodape">Career Planning</a>--><br>
+                      <td width="87%"><div align="center" class="style9"><span class="style8"><a href="CadastroUsuario.asp" class="LinksRodape">Register</a> · <a href="CadastroUsuarioAlterar.asp" class="LinksRodape">Change Info</a> · <a href="FaleConosco.asp" class="LinksRodape">Contact Us</a> · <a href="EscolasIdiomasBusca-Novo.asp" class="LinksRodape">Language Courses</a> · <a href="UniversidadesBusca-Novo.asp" class="LinksRodape">University Courses</a> · <a href="BoardingSchools.asp" class="LinksRodape">High Schools</a> · <a href="InstituicoesProfissionalizantesBusca.asp" class="LinksRodape">Extension Courses</a> <!--&middot; <a href="EstagiosBusca.asp" class="LinksRodape">Career Planning</a>--><br>
 
 		 <a href="NewsletterAssinar.asp" class="LinksRodape">Sign up our Newsletter</a> · <a href="NewsletterCancelar.asp" class="LinksRodape">Cancel Newsletter</a> · <a href="Educacao.asp" class="LinksRodape">Education</a> · <a href="TestesInternacionais.asp" class="LinksRodape">International Tests</a> · <a href="Estagios.asp" class="LinksRodape">Career Planning</a> · <a href="Bolsas.asp" class="LinksRodape">Grants and Scholarships</a> · <a href="Dicas.asp" class="LinksRodape">Suggestions</a><br>
 
