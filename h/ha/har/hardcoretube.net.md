@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcoretube.net privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629161301id_/http%3A//www.hardcoretube.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoretube.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133610id_/http%3A//www.hardcoretube.net/privacy.php) for the most accurate reproduction.*
 
 # HardcoreTube.net - Upload your porn and share your amateur hardcore sex movies
 
