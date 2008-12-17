@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freecreditreport.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614065544id_/http%3A//www.freecreditreport.com/Message.aspx%3FPageTypeID%3DPrivacy%26WT.svl%3Dprivacy%26SiteVersionID%3D739%26SiteID%3D100133%26sc%3D668212%26bcd%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecreditreport.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050617id_/http%3A//www.freecreditreport.com/Message.aspx%3FPageTypeID%3DPrivacy%26WT.svl%3Dprivacy%26SiteVersionID%3D735%26SiteID%3D100133%26sc%3D668568%26bcd%3D) for the most accurate reproduction.*
 
-# FreeCreditReport.com | Free Credit Report and Credit Score Online by Experian
+# Privacy Policy | FreeCreditReport.com
 
 Revised: January 25, 2008
 
@@ -29,14 +29,14 @@ Corrections or updates to your information including your email address, phone n
 We may share information about you with affiliated and non-affiliated third parties when you register for one of our transactional or membership products such as credit report(s) and score products, credit monitoring products, child identity monitoring products, or our card registry product. 
 
   * **Credit Reporting Companies** \- We may disclose the personal information you provide to us to the credit reporting companies from which we obtain your credit reports and scores in order to provide you with the products you requested. These credit reporting companies may use the information we share with them as permitted or required by applicable law, such as the Fair Credit Reporting Act (FCRA) or Gramm-Leach-Bliley Act (GLBA). 
-  * **Business Partners** \- In select circumstances, when a business partner refers you to us and you give us permission to share specific information, such as your name and email address, with that business partner on your order form.
+  * **Business Partners** \- In select circumstances, when a business partner refers you to us and you give us permission to share specific information, such as your name and email address with that business partner on your order form.
   * **Vendors** \- We sometimes disclose the information we collect to companies that operate various services for us such as marketing distribution, advertising, or certain product functionalities. 
   * **Transferability of Information** \- In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or portion of our assets, your personally identifiable information and your children's (if applicable) will likely be among the assets transferred. For more information, please refer to the section labeled "Privacy Notice Changes," below. 
   * **As Permitted by Law** \- We may share your non-public personal information with non-affiliated third parties as permitted by law. We may also be required to share your personal information with law enforcement or government agencies in response to subpoenas, court orders, federal/state audits or similar circumstances. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms and Conditions, or as otherwise required by law. 
 
 
 
-IIf you choose, we may disclose the information that we collect to our affiliated companies from time to time for marketing purposes and to enhance our products to better suit your needs. When identifying methods of improving our products or if we think a product may be of interest to you, we may extend select special offers of goods or products to you. If you would like to opt-out of receiving these offers, please refer to the section labeled "Offering You Choices - Marketing Options," below. 
+If you choose, we may disclose the information that we collect to our affiliated companies from time to time for marketing purposes and to enhance our products to better suit your needs. When identifying methods of improving our products or if we think a product may be of interest to you, we may extend select special offers of goods or products to you. If you would like to opt-out of receiving these offers, please refer to the section labeled "Offering You Choices - Marketing Options," below. 
 
 Our Sites may contain links for other offers and products that we feel you may have an interest in. We believe these sites share a similar commitment to consumer privacy and urge you to review their privacy policy when visiting their sites. We cannot, however, be responsible for their privacy practices.
 
