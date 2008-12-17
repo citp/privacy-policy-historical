@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elitemate.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501233343id_/http%3A//www.elitemate.com/htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitemate.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045304id_/http%3A//www.elitemate.com/htm/privacy.htm) for the most accurate reproduction.*
 
 # EliteMate.com's Privacy Policy, Online Dating, Picture Personals, Hottest Singles, Local Dating, Find Love, Friends, Pens Pals, Romance, Free Membership,
 
-** ****  
+  |  ** ****  
                                         PRIVACY POLICY ** This privacy statement discloses the information gathering and dissemination practices for this website. We will notify you of changes to our Privacy Policy by posting the new policy on this website and by e-mailing the new Privacy Policy to registered members. For this reason, we recommend that you review our Privacy Policy regularly so that you can stay informed of our practices.
 
 By using our services or submitting information that we use in providing our services, you are accepting the practices described in this Privacy Policy and expressly agreeing to accept offers from us, our customers, and/or any third party to whom we sell, license, transfer and/or share your email address or other personal information. The 3rd parties to whom we sell, license, transfer, and/or share this information include individuals and companies engaged in the sales, marketing, advertising, and publishing industries for various products and services. 
@@ -29,7 +29,7 @@ This site is owned and operated by EliteMate.com LLC, 105-10 62nd Road, Suite 1D
 
 We may use personal information to provide the services you've requested, including services that display customized content and advertising.  In addition to any fee of which you are notified, your provider's standard messaging rates apply to our confirmation and all subsequent SMS correspondence.  You may opt-out and remove your SMS information by sending "STOP", "END", "QUIT" to the SMS text message you have received.  If you remove your SMS information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondence to you. 
 
-[](http://adultfriendfinder.com/go/page/gallery_landing_page&pid=p470685.sub120x900_newgallery_right&site=ffadult&override=0&race=4) Detailed Wireless Policy 
+[ ](http://www.elitehomeshopping.com/) Detailed Wireless Policy 
 
 Data obtained from you in connection with this SMS service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages.  In addition to any fee of which you are notified, your provider's standard messaging rates apply to our confirmation and all subsequent SMS correspondence.  All charges are billed by and payable to your mobile service provider.  We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator.  SMS message services are provided on an AS IS basis.
 
@@ -37,11 +37,18 @@ We may use personal information to provide the services you've requested, includ
 
 You may remove your information from our database. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondence to you. You may remove your information by sending your request in writing via email to [ eliteresponse@elitemate.com](mailto:eliteresponse@elitemate.com) or by sending  "STOP", "END", "QUIT" to the SMS text message you have received. 
 
-This privacy policy is effective as of November 15, 2007  
+In addition to the information collected by us and registration information submitted by you, we may employ both first-party and third-party cookies. A cookie is a piece of data stored on your hard drive containing activity-based information about you, and it is designed to facilitate the receipt of targeted and relevant advertisements. The cookie is not associated with your personally identifiable information. 
+
+One of our third-party cookie partners is Datran Media (for information on Datran Media’s cookie program, please www.datranmedia.com/aperture). To opt out of Datran Media’s cookie-based marketing program, click here: http://rt.displaymarketplace.com/optout.html 
+
+This privacy policy is effective as of November 18, 2008   
+ 
+
+  
   
 Opt Out Here  [ http://www.elitemate.com/myJsp/optout.jsp](http://www.elitemate.com/myJsp/optout.jsp "http://www.elitemate.com/myJsp/optout.jsp").  Please note that unsubscribing from this email list does not automatically unsubscribe you from any other email list on which you may be.  Please read the email carefully to find out which list from which you are unsubscribing.
 
 View EliteMate.com's 
 
 [ Terms And Conditions](http://www.elitemate.com/htm/terms.htm)  
- 
+  |  
