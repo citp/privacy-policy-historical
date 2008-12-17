@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowesbuildandgrow.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621034706id_/http%3A//www.lowes.com/lowes/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy%26rn%3Dnone) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowesbuildandgrow.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218005406id_/http%3A//www.lowes.com/lowes/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy%26rn%3Dnone) for the most accurate reproduction.*
 
 # Need Help?
 
