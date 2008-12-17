@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521093448id_/http%3A//www.usertesting.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217213059id_/http%3A//www.usertesting.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy for website owners and user testers - UserTesting.com
 
@@ -6,7 +6,7 @@ We understand that your privacy is of the utmost importance to you. UserTesting.
 
 UserTesting.com collects personal information that you provide to us. Our software uses the personal information to personalize and manage the UserTesting.com website for you. 
 
-When you sign up with us, UserTesting.com logs you in automatically using your email address. This makes it easier for you as you don't have to create and remember a login identifier. The use of your email address for login also allows UserTesting.com the chance to email you a new password in case you forget or lose your old one. This is perfectly OK and happens to the best of us, particularly those of us that are incredibly busy.
+When you sign up with us, UserTesting.com logs you in automatically using your email address. This makes it easier for you as you don't have to create and remember a login identifier. The use of your email address for login also allows UserTesting.com the chance to email you a new password in case you forget or lose your old one. 
 
 Anyone using UserTesting.com warrants and promises that they are 13 years of age or older. UserTesting.com does not intend to collect personally identifying information from anyone under the age of 13. If you are under the age of 13 we ask that you do not use this web service. 
 
@@ -24,6 +24,6 @@ UserTesting.com reserves the right to modify this privacy statement at any time.
 
 Videos and reviews that are done for your company will be kept confidential. Any samples that appear on our home page weren't paid for.
 
-If you have questions about our privacy policy, please [contact us](https://web.archive.org/web/20080521093448id_/http%3A//www.usertesting.com/contactus.aspx). 
+If you have questions about our privacy policy, please [contact us](https://web.archive.org/web/20081217213059id_/http%3A//www.usertesting.com/contactus.aspx). 
 
 **Last updated: Monday, February 25, 2008.**
