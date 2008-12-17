@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604111312id_/http%3A//www.doctorswithoutborders.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217184732id_/http%3A//www.doctorswithoutborders.org/privacy.cfm) for the most accurate reproduction.*
 
 # Doctors Without Borders | Privacy Policy
 
@@ -71,3 +71,5 @@ You agree that your use of this Privacy Policy and any disputes relating thereto
 This Privacy Policy was last updated on August 3, 2007. DOCTORS WITHOUT BORDERS®, MEDECINS SANS FRONTIERES® and other marks used on this website are trademarks of Doctors Without Borders/Médecins Sans Frontières (MSF) USA, Inc. or its affiliates and may not be used without permission.
 
 | 
+
+[](https://web.archive.org/publications/reports/topten/)
