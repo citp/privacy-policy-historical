@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boltblue.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614123905id_/http%3A//www.boltblue.com/brochure/index.php%3FproductType%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boltblue.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095157id_/http%3A//www.boltblue.com/privacy-policy) for the most accurate reproduction.*
 
-# Boltblue - Company information
+# Ringtones, Mobile Games, Wallpapers, Text Messaging, Boltblue
 
 Boltblue is operated by:
 
@@ -41,7 +41,7 @@ We use personal information for administration and to support, improve and obtai
 
 Boltblue and your bank or credit card issuer may use the information supplied by you to administer and support our services and products Service and to prevent fraud and abuse. You agree to allow us to work with your bank or credit card issuer solely for these purposes.
 
-Our website uses ad servers (such as Adlink, DoubleClick and Valueclick) to serve advertisements that appear on the pages of our website. These ad servers may use cookies in the process of serving advertisements, but they will not collect any personally identifiable information about you. For more information about the ad servers, cookies and how to "opt out", please see their privacy statements: [Adlink](http://www.adlink.net/company/privacy.php), [DoubleClick](http://www.doubleclick.net/us/corporate/privacy) and [Valueclick](http://www.valueclick.com/).
+Our website uses ad servers (such as Adlink, DoubleClick and Valueclick) to serve advertisements that appear on the pages of our website. These ad servers may use cookies in the process of serving advertisements, but they will not collect any personally identifiable information about you. For more information about the ad servers, cookies and how to "opt out", please see their privacy statements: [Adlink](https://web.archive.org/privacy-policy), [DoubleClick](http://www.doubleclick.net/us/corporate/privacy) and [Valueclick](http://www.valueclick.com/).
 
 We would like to keep you informed by fax, post, email or free messages of other Boltblue products and services. However, if you do not wish to be kept so informed you can indicate this by sending an email to [privacy@boltbluecorp.com](mailto:privacy@boltbluecorp.com) at any time.
 
