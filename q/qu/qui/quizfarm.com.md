@@ -1,120 +1,121 @@
-> *The following text is extracted and transformed from the quizfarm.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513171419id_/http%3A//www.quizfarm.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizfarm.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044117id_/http%3A//www.quizfarm.com/privacy_policy.php) for the most accurate reproduction.*
 
-# 
+# Quizfarm.com
 
 Privacy Policy
 
-We are committed to protecting the privacy and security of the users of our sites.
+This Privacy Policy was last updated on [   ].
 
-This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
+**Introduction:** This web sites which are located at the domain Quizfarm.com (the "Site") are operated by Oxygen Media. (collectively or “we” or “our” or “us”). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at Legal Department, Oxygen Media, LLC, 75 Ninth Avenue, New York, NY 10011 (phone: (212) 651-2000) or at the address at the end of this policy. 
 
-If you have any questions or concerns about our privacy policy, please send an e-mail to: [webmaster@oxygen.com](mailto:webmaster@oxygen.com) or contact us at Legal Department, Oxygen Media, LLC, 75 Ninth Avenue, New York, NY 10011 (phone: (212) 651-2000).
+PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.
 
-Scope Of Privacy Policy
+1\. Types of Information Collected  
 
-This policy applies to your use of all of the sites and services owned or operated by Oxygen Media Interactive, Inc., and affiliated companies (collectively "we," "us," or "our"), including Oxygen.com and any other site that we may own or operate currently or in the future (collectively, the "Sites"). Unless we say otherwise, all references to the Sites in this policy include all such sites. This policy does not apply to your use of unaffiliated sites to which any of the Sites only link. This policy covers only information collected on the Sites and does not cover any information collected offline by us. 
 
-Personal Identification Information
+  * Personal Data 
+  * Aggregate and Anonymous Data
 
-We may request personal identification information from you in connection with your use of, or participation in, activities, services or resources we may make available on any of our Sites from time to time, including membership registration for contests, sweepstakes, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, visitors' requests for free products or services or additional information (including via email to us). In all of these cases, we will collect personal identification information from you only if you voluntarily submit such information to us. We will never intentionally disclose any personal identification information about you as an individual user (such as, for example, your full name, street address, telephone number, credit card number or e-mail address) to any third party without having received your permission or as set forth in this policy.
 
-If you do provide us with personal information for any of these activities, we and our contractors may use it to conduct the activity. We may also use cookie technology (discussed in detail below) to improve your experience of these activities, including to remember your preferences, customize the content and advertisements that you see or authenticate your access to your personal information. In addition, in the event your personally identifiable information is requested as part of our surveys or polls, such personally identifiable information may be added to your registration information.
 
-We may also contact you to confirm your registration and about your account status (for example, when a child enters a new age group to which different policies apply), and regarding changes to the Sites' Terms and Conditions and this Privacy Policy.
+2\. Use of Cookies and Other Technologies  
+3\. Our Use of Your Information  
+4\. Disclosure of Personal Data to Third Parties
 
-We may also use personal identification information for marketing and promotional purposes. On occasion, for example, we may send you e-mails to introduce a product or service that we think might be of interest to the users of our Sites. You may "opt-out" at any time from such usage, even after you have provided personal information, by following the opt-out procedures set forth below in this Privacy Policy. Please note, however, that under certain circumstances, if you "opt-out," you may not be eligible for certain benefits for which a name, e-mail address, telephone number or other personal identification information is needed.
+  * Disclosure to Affiliates
+  * Disclosure to Third Parties
+  * Disclosure to Others
 
-We have the following exceptions to these policies: We will release specific information about you or your account to comply with any valid legal inquiry or process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of the Sites, suspected fraud or a physical or property threat to you or others. We may also transfer user information, including personally identifiable information, in connection with a corporate merger, consolidation, the sale of related assets or corporate division or other fundamental corporate change. 
 
-Please note that if you give out personal information online -- for example, on one of our public forums such as a message board, chat room, folder, or chat IM feature -- that information can be collected and used by third parties. Although we strive to protect our users' privacy, we cannot guarantee the security of information you post in these forums. You disclose such information at your own risk.
 
-You are responsible for maintaining the confidentiality of your information and password. You shall be responsible for all uses of your registration, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your registration or password.
+5\. Third Party Advertising and Links to Other Sites  
+6\. Your Choice  
+7\. Access and Correction  
+8\. Children and Privacy  
+9\. Message Boards, Chat Rooms, Blogs and Other User Forums  
+10\. Data Security  
+11\. Exclusions  
+12\. Other Terms and Conditions  
+13\. Site Location  
+14\. Changes to this Privacy Policy  
+15\. Contacting Oxygen Media Regarding Your Privacy 
 
-Non-Personal Identification Information
+1\. Types of Information Collected:
 
-We collect non-personal identification information through the use of:
+**Personal Data:** Personally Identifiable Information (“Personal Data”) is any information that can be used to identify a specific individual, such as your name, email address, home address, phone number and credit card information. This Site collects Personal Data when you interact with the Site for example when you subscribe for newsletters; register for membership services such as chat rooms or message boards; participate in chat rooms, blogs or other user forums; respond to polls or surveys; purchase merchandise via the Site; register for sweepstakes, contests and other promotional opportunities; or seek help from our customer service departments. We also may collect information when you purchase products or services offline, or register for wireless services via your cellphone or other wireless devices (”Other Services”). Because providing detailed information regarding our privacy policy when you register or provide information in connection with these Other Services often proves impractical, you may instead be provided with a short notice that reminds you to refer to this Privacy Policy and other relevant information from us. We may also obtain Personal Data from reputable third parties, such as credit agencies.
 
-**"Cookie" technology:** A "cookie" is an element of data that a web site can send to your browser, which may then store it on your system. 
+**Aggregate and Anonymous Data:** Aggregate and anonymous data is information that does not identify you specifically including data collected automatically through the operation of the Site (“AA Data”). We may collect site usage data (such as which Site pages you visit and in what sequence) through the use of various technologies. For example, we collect IP addresses from individuals who visit the Site. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to any Personal Data, so although your session will be logged, you will remain anonymous to us and the Site. We may also collect password information from you when you log in, as well as computer and connection information such as browser type or version. During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page.
 
-**"IP address tracking":** An IP address is a number that is assigned to your computer when you are on the Internet. When you request pages from our Sites, our servers log your IP address. 
+2\. Use of Cookies and Similar Technologies:
 
-**"Web beacons":** A Web beacon, or "clear gif", is a small graphic image on a webpage or web-based document that a web site can use to determine information about a user.
+Like many sites, we use "cookies" or other similar technologies to collect AA Data. A cookie is a small data file that writes to your hard drive for record keeping purposes when you visit the Site. Cookies allow the Site to measure traffic activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences, allowing you to visit “member only” portions of the Site without re-registering, and tracking the progress and number of entries in activities that require registration or entry, such as sweepstakes. Similarly, if you have asked us to send you information about upcoming products and promotions, using cookies we collect information about which Site pages you have visited and in what order (“Clickstream Data”) that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site will not function properly if you do so.
 
-Non-personal identification information that we collect might include: the browser you use, the type of computer, technical information about your means of connection to our site-such as the operating systems and the Internet service providers utilized, and other similar information. We may also collect information about the areas you visit and search terms you utilize on our Sites and about the links you may select from within our Site to other areas of the World Wide Web or elsewhere online.
+In addition, we may use a service that collects data remotely by using so-called “pixel tags,” “web beacons,” “clear GIFs” or similar means (collectively, “Pixel Tags”) embedded in the Site’s content. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors’ hard drives. This information is AA data.
 
-We may share this aggregate statistical information with our partners, suppliers and other third parties, but we will not share any individual names, personal navigational or other personal information. For example, we may use a third-party advertising company to serve ads when you visit our Sites. We may share demographic and preference information with this company to allow them to display appropriate advertisements for you.
+3\. Our Use of Your Data:
 
-Some of our advertisers may display ads on our Sites which solicit or contain technology to collect information about our users for the advertisers, but we will not authorize such advertisers to collect any personal information from our users within our Sites. 
+Personal Data: We will use your Personal Data for the purposes for which it was provided. For example, if you provide Personal Data to register for a newsletter or a text messaging service, to enter a contest or a sweepstake, or to purchase goods or services, we will use it to register you for or provide you with those goods or services. We may also use your Personal Data to provide you with information about features, services and other offerings that may be of interest to you. We also may send information or offers to selected groups of Site users on behalf of other businesses. When we do this, we do not give those businesses your name or address. Under certain circumstances (for example if you win a contest) we may post your Personal Data on the Site. We will notify you of this possibility when you provide the Personal Data and, if possible, when the Personal Data is posted.
 
-Most browsers are set to accept cookies. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of the Sites, such as message boards, chats, shopping, contests and game areas, may not function properly.
+Cookies and similar tools may be used to relate your use of the Site and AA Data to Personal Data obtained from you. If any AA Data is linked with Personal Data, the linked AA Data will then be treated as Personal Data.
 
-The Sites are P3P enabled. P3P is a standardized set of multiple-choice questions which cover the major aspects of a web site's privacy policies and which, taken together, present a clear snapshot of how a site handles users' personal information. P3P-enabled web sites make this information available in a standard, machine-readable format that P3P enabled browsers can "read" automatically and compare to the user's own set of privacy preferences. For example, Internet Explorer 6 requires third parties that set cookies to deliver P3P compact cookie policies with their cookies. IE6's default setting will test whether a cookie collects personal information and allows an opt-out. IE6 users may change their privacy level to a higher or lower level than the default setting. P3P was developed by the World Wide Web Consortium (W3C), a worldwide web standards setting organization.
+**AA Data:** We may also use Personal Data in aggregate form for purposes of research or analysis. In order to better understand and serve the users of the Site and Other Services, Oxygen Media often conducts research on its customer demographics, interests and behavior based on Personal Data we gather. Although this aggregated data may be based in part on Personal Data, it does not identify you personally. Oxygen Media may share this type of AA Data with a variety of third parties, including its affiliates, agents, and current and prospective business partners.
 
-The Use of Cookie Technology
+We may use AA Data collected from the Site for site administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes. For example, IP addresses are used for the purposes of system administration and to provide AA Data to advertisers about the volume of use on the Site, and Clickstream Data and demographic AA Data may be shared with our advertisers and business partners. We may also enter into agreements with outside companies that possess technology that allows the Site to customize the advertising and marketing messages you receive on the Site. This data (including Clickstream Data about your activities on our Site) may be shared with these companies for this purpose.
 
-A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Our Sites makes use of cookies to permit the completion of the user's current activity on a Site and for aggregate, non-personally identifiable analysis (for example we may track the number of times users visit a portion of a Site, but we do not track or know who those users are). We only use cookies to collect personally identifiable information with your consent, as described above under Personal Identification Information.
+4\. Disclosure of Personal Data:
 
-Third Party Cookies
+**Disclosure to Affiliates:** We reserve the right to share Personal Data with our affiliates. If you do not want us to share your Personal Data with our affiliated companies for their marketing purposes, you may opt-out of such sharing by contacting us at Oxygen Media, LLC, 75 Ninth Avenue, New York, NY 10011 (phone: (212) 651-2000) (see “Your Choices” below).
 
-We send to your web browser many of the advertisements you see when you use our Sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you.
+Disclosure to Third Parties: Oxygen Media, like many businesses, sometimes hires other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site, maintaining databases, administering contests, providing wireless services, mailing information and processing payments. When we employ a third party to perform these functions, that third party will only be provided with the particular Personal Data it needs to perform its function, and is required to protect the Personal Data. With your consent, we may also share Personal Data with pre-screened third parties for their marketing or promotional purposes. We will provide you with an opportunity to elect or decline these services or opportunities (see “Your Choices” below). In the event you have elected to “unsubscribe” from any of our services, we will share your Personal Data with third parties with whom we jointly offer such services solely to the extent necessary to ensure that your request not to receive such communications is honored. In addition, for third-party sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request. 
 
-If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability).
+**Disclosure to Others:** In addition, we may disclose Personal Data without providing you with a choice under the following limited circumstances to: (1) protect the legal rights, privacy or safety of Oxygen Media, or its subsidiaries, affiliates or its or their employees, agents and contractors; (2) protect the safety and security of visitors to our web sites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from public authorities; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Service; or (7) comply with the law or legal process.
 
-Currently, we have relationships with the following third-party ad networks:
+If Oxygen Media sells all or part of this Site or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction. Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your Personal Data.
 
-24/7 Real Media, Inc.  
-<http://www.247realmedia.com/privacy.html> (click to visit their Web site) 
+5\. Third-Party Advertising and Links to Other Sites:
 
-<http://www.everyone.net/p_policy.html> (click to visit their Web site)
+This Site may include third-party advertising. These third parties’ websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or “serve”) the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data). For more information about these specialized cookies and other technologies, and how to "opt out" of information collection by these companies, we suggest you visit http://doubleclick.net/privacy_policy or http://networkadvertising.org/optout_nonppii.asp.
 
-Privacy of Children
+Please note that this Site contains links to other sites that will not follow the same Privacy Policy as our Site. For instance, clicking on an advertisement or on links or other elements on the Site may take you to an entirely different site. Links to other sites may use our Site logo or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect data and make use of that data in ways that this Site would not. Once you've left this Site, this Privacy Policy will no longer apply to Personal Data or any other data collected from or provided by you. You should check the applicable privacy policy to determine how that site will handle such data.
 
-We understand that young people need special safeguards and privacy protection. We realize that they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices that are made available to our adult users. We strongly urge all parents to participate in their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online.
+6\. Your Choices:
 
-The Sites are not directed to children under the age of 13. We prohibit registration by children under the age of 13 for all interactive portions of the Sites including forums, chats and message boards. We will not knowingly collect personally identifiable information from children under 13. 
+You can use the Site and certain Other Services without providing any Personal Data, but if you decline to provide Personal Data, you may not be able to use certain services or features. If you have previously provided Personal Data to the Site and have subscribed to one or more email newsletters or are receiving emails or other communications from the Site and you do not want to receive such emails, please discontinue your subscriptions by selecting the "unsubscribe" link at the bottom of any message, visiting the footer section of the Site or contacting us at: o2_webmaster@nbcuni.com. You may opt-out of receiving offers from us and related products and services offered by third parties by adjusting your Site preferences at our Newsletter Signup link on the home page. If you ask that we stop using your Personal Data, we will honor that request. However we will retain records of your Personal Data as needed in order to comply with applicable federal, state, or local law.
 
-We may, at our discretion, require users under 18 to obtain the consent of a parent or guardian to view certain content, and we may limit access to certain content to users above a specified age. You agree to abide by any such restrictions, and not to help anyone avoid these restrictions.
+7\. Access and Correction:
 
-Links To Other Sites
+If you would like to review, correct or change the Personal Data that you have previously provided us, please go to Contact Us section of the Site and follow the appropriate instructions or contact us at Legal Department, Oxygen Media, LLC, 75 Ninth Avenue, New York, NY 10011 (phone: (212) 651-2000). We will take reasonable steps to update or correct Personal Data in our possession.
 
-Users will find advertising or other content on our Sites that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the contents or links that appear on these sites. In addition, these sites or services, including their contents and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies, or no policy (policies) at all. Once you link to another site from a Site, you are subject to the terms and conditions of that site, including, but not limited to, its Internet privacy policy. We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information. 
+8\. Children and Privacy:
 
-Security Policy
+We encourage parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. At various places on the Site or Other Services, we may ask users for their age. By using the Site or Other Services you agree to respond truthfully and accurately about your age. Children under the age of 13 years of age are expressly prohibited from submitting or posting any Personal Data on the Site or Other Services.
 
-Protecting your privacy and your information is a top priority. We have taken careful measures to secure both your information and our physical premises. We exercise great care in providing safe transmission of your information from your PC to our servers (unless sent by a means outside of our control, such as e-mail). However, you should be aware that no system can guaranty that unauthorized access will never occur, and you acknowledge this risk by using our Sites.
+9\. Message Boards, Chat Rooms, Blogs and Other User Forums:
 
-Disclaimer
+Please remember that information posted to message boards, chat rooms, blogs and other user forums becomes public information. Use caution when posting. Individuals under the age of 18 should be especially careful not to provide any personally identifiable information when participating in any area of the Site where postings might become public. Please see our Terms of Service for the standards of behavior that must be followed when using these portions of the Site or Other Services.
 
-The information provided in this privacy policy should not be considered as giving business, legal, or other advice, or warranting as fail proof, the security of information provided through the Sites.
+10\. Data Security Disclaimer:
 
-Access To/Correction of Information
+Oxygen Media takes reasonable security precautions to secure the Personal Data that you choose to provide against the loss, misuse, alteration or unauthorized access of such information. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Oxygen Media to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Data, we cannot ensure or warrant the security of any Personal Data you transmit to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at Legal Department, Oxygen Media, LLC, 75 Ninth Avenue, New York, NY 10011 (phone: (212) 651-2000).
 
-If you would like to review any personal information we have retained about you in our database, please send us an e-mail request for this information at [webmaster@oxygen.com](mailto:webmaster@oxygen.com). To help us address your request, please specify which information you wish to review. Once you have reviewed this information, at your request we will correct personal information about you that you state is erroneous. To request such a correction, please send an e-mail to [webmaster@oxygen.com](mailto:webmaster@oxygen.com). You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers although we will always make reasonable efforts to do so upon your request.
+11\. Exclusions:
 
-Communications with Oxygen
+This Privacy Policy shall not apply to any unsolicited information you provide to Oxygen Media on or through this Site or Other Services. Please see our Terms of Service for our policies regarding such Unsolicited Information. All such Unsolicited Information shall be deemed to be non-confidential, and Oxygen Media shall be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution.
 
-By providing your email address to us, you expressly consent to receive emails from us. We may use email to communicate with you, to send information that you have requested or to send information about other products or services developed or provided by us.
+12\. Other Terms and Conditions:
 
-Any communication or material you transmit to us by email or otherwise, including any data, questions, comments, suggestions, or the like is, and will be treated as, nonconfidential and nonproprietary. Except to the extent expressly covered by this policy, anything you transmit or post may be used by us for any purpose, including but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting. Furthermore, you expressly agree that we are free to use any ideas, concepts, know-how, or techniques contained in any communication you send to us without compensation and for any purpose whatsoever, including but not limited to, developing, manufacturing and marketing products and services using such information.
+Your access to and use of this Site or Other Services is subject to the Terms of Service.
 
-Opt-Out
+13\. Applicable Law:
 
-You can choose to opt-out of our use of your personal identification information at any time.
+We control and operate this Site from the United States. The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction. Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations.
 
-If you would like to opt-out of any disclosures of your personal identification information to third parties who may use this information for their direct marketing purposes, then please send an email to webmaster@oxygen.com.
+14\. Changes to this Privacy Policy:
 
-If you would like to opt-out of allowing our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting, then please follow the procedures described in "Third-Party Cookies," above.
+From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make revisions to the way we collect or use Personal Data, we may provide notice of those changes by either: (1) announcing the change on the home page of the Site or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this Privacy Policy on the Site. You can determine when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page. Any changes to this policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through the Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Site. 
 
-If you would like to opt-out of all communications from Oxygen Media, then please send an email to [webmaster@oxygen.com](mailto:webmaster@oxygen.com).
+15\. Contacting Oxygen Media Regarding Your Privacy:
 
-Please keep in mind, however, that we are unable to update or delete your information if it has already been provided to a third party as permitted by this policy. We do not have any control over such third parties after your information has been shared, and you should contact such third parties directly with respect to any questions regarding their privacy practices.
+If you have any questions about this Privacy Policy, Personal Data gathered by this Site or Other Services, or about the operation of this Site or Other Services, or if you wish to unsubscribe from the Site or Other Services, please contact us at Legal Department, Oxygen Media, LLC, 75 Ninth Avenue, New York, NY 10011 (phone: (212) 651-2000), or at the address listed below.
 
-Consent to Transfer
-
-The Sites are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
-
-Your Acceptance of These Terms
-
-By using any of the Sites, you signify your acceptance of our Privacy Policy, our Site Terms & Conditions and any other policies made available to you. If you do not agree to these policies, please do not use our Sites. Your continued use of the Sites following the posting of changes to these policies will mean that you accept those changes.
-
-(Effective Date: This policy was last modified on May 18, 2007.)
+Legal Department, Oxygen Media, LLC, 75 Ninth Avenue, New York, NY 10011 (phone: (212) 651-2000) 
