@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the realplayer.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608223043id_/http%3A//www.realnetworks.com/company/privacy/%3Fpageid%3Dunagi.17735126.wrapper%26pageregion%3Dfooter%26src%3Drealplayer_com%26pcode%3Drn%26opage%3Drealplayer_com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realplayer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055949id_/http%3A//www.realnetworks.com/company/privacy/%3Fpageid%3Dunagi.16696702.wrapper%26pageregion%3Dfooter%26src%3Drealplayer_com_1%26pcode%3Drn%26opage%3Drealplayer_com) for the most accurate reproduction.*
 
 # Company > RealNetworks, Inc., and Affiliated Entities Privacy Policy
-
-REALNETWORKS, INC., AND AFFILIATED ENTITIES
-
-_This document was last updated February 8, 2008._
-
-RealNetworks, Inc., and its majority-owned affiliates and subsidiaries, including Rhapsody America (collectively, "RealNetworks" or "RN") are committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes your personal information when you use our products and services, including consumer software, such as the RealPlayer, RealArcade, the RealTime Toolbar, and Rhapsody, subscriptions products such as SuperPass and Rhapsody Unlimited, and commercial online services such as the Real Music Store. Details regarding specific topics may be found via the topic index below. For a printable pdf file version of this policy [click here](http://docs.real.com/docs/company/RealNetworksPrivacyPolicy02-08-08.pdf).
 
 WHY DO WE COLLECT PERSONAL INFORMATION?  
 RealNetworks collects personal information to improve the manner by which we operate and offer our products and services, communicate with you about those products and services, and provide effective, timely customer support when needed. We will never rent or sell any of the personally-identifiable information we collect from you to third parties, and will not share your personally identifiable information with third parties without your consent, unless such sharing is necessary for the purposes set forth in this Privacy Policy.
@@ -76,7 +70,7 @@ Registering for a product or service allows you to tell us how or whether you wa
 HOW TO ACCESS AND UPDATE YOUR PERSONAL INFORMATION  
 To access your account information and preferences, select "Manage My Account" from the menus on either the RealPlayer (in most versions of the RealPlayer, under the "Help" menu), RealTime, RealArcade, Rhapsody or other RealNetworks consumer software. Sign in to your account and modify your information and preferences as needed.
 
-You may also review and update your account on the web at [www.real.com](http://www.real.com/), [www.realtime.com](http://www.realtime.com/) or [www.rhapsody.com](http://www.rhapsody.com/), by selecting "My Account," and logging in using your name and password. 
+You may also review and update your account on the web at [www.real.com](http://www.real.com/) or [www.rhapsody.com](http://www.rhapsody.com/), by selecting "My Account," and logging in using your name and password. 
 
 When you access your account by logging in, you can update and/or make sure that your account information is accurate. You can also manage your preferences concerning receipt of newsletters and promotional emails.
 
@@ -92,18 +86,9 @@ CHANGES TO OUR PRIVACY POLICY
 We frequently revise this Privacy Policy to keep it up to date with RealNetworks products, services and Web pages. "Updated" may be used to alert users to recent changes and to the date of the last update. We also post FAQ's from time to time on specific products.
 
 NON-US CUSTOMER INFORMATION  
-If you are a customer who is logging on from outside the United States, the personal information you submit to RealNetworks will be sent to and stored in servers in our U.S. headquarters in Seattle, Washington. The personal information practices set out in this Privacy Policy apply to all RealNetworks' customers worldwide. RealNetworks has certified its personal information practices with the U.S. Department of Commerce under the Safe Harbor Program to ensure that your personal information is protected adequately. Should you want more information on the Safe Harbor principles, please go to: <http://www.export.gov/safeharbor/>
+If you are a customer who is logging on from outside the United States, the personal information you submit to RealNetworks will be sent to and stored in servers in our U.S. headquarters in Seattle, Washington. The personal information practices set out in this Privacy Policy apply to all RealNetworks' customers worldwide.
 
 If you are in the European Union and you choose to purchase RealNetworks' products and services, please be aware that payment for such products and services will be handled by RealNetworks, Inc., E Commerce LL; P.O. Box 91123, Seattle, Washington 98111-9223. The following data may be turned over to this company solely for the purpose of processing the payment transaction: your name, bank account, and amount to be charged. You have a right of access and rectification with regard to such data; to exercise these rights, or for other data privacy questions, please contact/send an email to [privacy@real.com](mailto:privacy@real.com).
-
-If you are a European resident and your data privacy complaint was not satisfactorily addressed by RealNetworks, you may contact the Direct Marketing Association at:
-
-Safe Harbor Line  
-Direct Marketing Association  
-1111 19th Street, NW - Suite 1100  
-Washington, DC 20036  
-E-mail: [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)  
-Web: <http://www.the-dma.org/safeharbor/consumers.shtml>
 
 NO ERROR FREE PERFORMANCE  
 We customarily release alpha and beta versions of our products, which are further refined before the release of the final "Gold" version. Because these products are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome feedback on any privacy concerns you may have, and on how to improve our products generally, in all stages of release. RealNetworks does not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. RealNetworks shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the United States. 
