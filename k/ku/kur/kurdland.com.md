@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the kurdland.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/text.asp%3Fid%3D1000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kurdland.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/text.asp%3Fid%3D1000) for the most accurate reproduction.*
 
 # Kurdland.com - kurdistan kurds kurdish music mp3 midi kurdish links email voice chat java text chat kurdishmusic voicechat textchat toplist poll news postcards ecards poetry subdomains links free ringtones mobile muzikikurdi muzik midifiles download song gorani ringtones mobile wap books ebook pdf files wallpaper news iran iraq turkey syria dating contact date kurdish woman women girls boys men marriage love meet single singles kurdishmusic kurdi kurd domain subdomain webhosting webhotel webspace
 
 |  |  [  
-](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/default.asp) |   
+](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/default.asp) |   
   
 ---|---  
   
-|  [**Startpage**](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/default.asp) |  [**Submit link**](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/addlink.asp) |  [**World News**](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/worldnews.asp) |  [**Postcards**](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/postcard.asp) |  [**Music**](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/music.asp) |  [**Video**](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/videoclips.asp) |  [**Downloads**](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/download.asp) |  [**Member pages**](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/memberpage.asp) |  [**Top 25 sites**](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/toplist.asp) |  [**Most visited sites**](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/topsites.asp)  
+|  [**Startpage**](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/default.asp) |  [**Submit link**](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/addlink.asp) |  [**World News**](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/worldnews.asp) |  [**Postcards**](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/postcard.asp) |  [**Music**](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/music.asp) |  [**Video**](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/videoclips.asp) |  [**Downloads**](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/download.asp) |  [**Member pages**](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/memberpage.asp) |  [**The Toplist**](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/toplist.asp) |  [**Most visited sites**](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/topsites.asp)  
 ---|---|---|---|---|---|---|---|---|---  
   
   
@@ -57,6 +57,6 @@ Correct/Update
   
   
   
-|  | [Contact us](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/contact.asp) |   | Make Kurdland to your startpage |   | Add Kurdland to your favourites |   | [Privacy Statement](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/text.asp?id=1000) |   | [Tell a friend about Kurdland](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/tellafriend.asp) |   | [Poll](https://web.archive.org/web/20080608140123id_/http%3A//en.kurdland.com/poll.asp)  
+|  | [Contact us](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/contact.asp) |   | Make Kurdland to your startpage |   | Add Kurdland to your favourites |   | [Privacy Statement](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/text.asp?id=1000) |   | [Tell a friend about Kurdland](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/tellafriend.asp) |   | [Poll](https://web.archive.org/web/20081217084816id_/http%3A//en.kurdland.com/poll.asp)  
 ---|---|---|---|---|---|---|---|---|---|---  
 © 1998-2008 Kurdland. All rights reserved. 
