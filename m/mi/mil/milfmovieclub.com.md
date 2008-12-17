@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milfmovieclub.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506001305id_/http%3A//milfmovieclub.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milfmovieclub.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217235256id_/http%3A//milfmovieclub.com/info/privacy) for the most accurate reproduction.*
 
 # MILF Movie Club - Internet's biggest MILF DVD site
 
