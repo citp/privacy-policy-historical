@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the monarch.co.uk privacy policy that was archived on 2008-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080608044217id_/http%3A//flights.monarch.co.uk/cnt/policy/index.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the monarch.co.uk privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217051125id_/http%3A//flights.monarch.co.uk/cnt/policy/index.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Monarch Airlines | Privacy Policy</title>
 	<meta name="keywords" content="cheap flights, cheap scheduled flights, budget flights, budget airline flights">
 	<meta name="description" content="In accordance with the Data Protection Act 1998, we Monarch Airlines Limited are a Data Controller. In order to process your booking, we need to collect certain personal details from you.">
@@ -10,6 +10,7 @@
 	<meta name="rating" content="general">
 	<meta name="distribution" content="global">
 	<meta name="author" content="internet.helpdesk@Monarch-Airlines.com">
+	<meta name="verify-v1" content="sN9DPioRhp1tqZ42raPqJENNKFK74Qdoqt17z8eF5Wo=">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<link rel="stylesheet" type="text/css" href="/css/normal.css" media="all" title="normal">
 	<link rel="stylesheet" type="text/css" href="/css/printer.css" media="print" title="normal">
@@ -19,13 +20,13 @@
 	<script type="text/javascript" src="/scp/scp-nav.js"></script>
 	<script language="Javascript" type="text/javascript">setLoginCookie(GetCookie("monSkySid"),GetCookie("monSkyNameFirst"),GetCookie("monSkyNameLast"))</script>
 </head>
-<body onload=" balanceHeight('wrapper-body', 'wrapper-main-left', 'wrapper-main-right');">
+<body onload=" balanceHeight('wrapper-body', 'wrapper-main-left', 'wrapper-main-right'); onLoadAtaGlance();">
 <div id="wrapper-body">
 	<div id="layout-header">
 		<div id="wrapper-header-left">			
 			<div id="wrapper-header-tabs">
 	            <ul>
-	                <li class="current"><a href="#" id="tab-book"><span><span>book flights</span></span></a></li>
+	                <li class="current"><div id="tab-book"><span><span>book flights</span></span></div></li>
 	                <li><a href="http://holidays.monarch.co.uk" id="tab-holidays"><span><span>holidays</span></span></a></li>
 	                <li><a href="http://hotels.monarch.co.uk" id="tab-hotels"><span><span>hotels</span></span></a></li>
 	            </ul>
@@ -42,7 +43,7 @@
 //    civil and criminal penalties and will be prosecuted to the maximum    //
 //    extent possible under the law.                                        //
 //                                                                          //
-//  Skylights 9.1a-ZB                                    www.navitaire.com  //
+//  Skylights 9.1a-ZB5                                   www.navitaire.com  //
 //////////////////////////////////////////////////////////////////////////////
 -->
 
@@ -54,7 +55,7 @@
 
 function captureSearchText(searchText)
 	{
-		searchText.fastbookFromDest				= "Destination"; 
+		searchText.fastbookFromDest				= "to"; 
 		searchText.missingDepartCity 			= "\nPlease select the city you will be departing from.\n";
 		searchText.missingArriveCity 			= "\nPlease choose your destination.\n";
 		searchText.charterOnly					= "CHARTER FLIGHTS ONLY";
@@ -64,13 +65,13 @@ function captureSearchText(searchText)
 		searchText.popup_max_passenger_amount_2	= " passengers\nper booking online. If your party is larger\nthan this, please call our reservation team on 08700 40 50 40.";
 		searchText.popup_missing_passenger_amount = "You must enter at least one passenger.";	
 		searchText.popup_too_many_infants	= "If you wish to book a greater number of\nInfants than Adults, please contact our\nreservation team on 08700 40 50 40 for possible arrangements.";
-		searchText.popup_illogical_open_jaw	= "The selected outbound and return city pairs\nare not logical. You should either return to the \nsame city you fly out from, or return from the\nsame city you fly into.\n";
+		searchText.popup_illogical_open_jaw	= "Sorry, we're not able to book your selected trip for you. Please select again either returning to the same city you fly out from or from the same city you fly into. Apologies for any inconvenience.";
 		searchText.popup_pre_flight_date_1 = "Please select a flight departing \non ";
 		searchText.popup_pre_flight_date_2 = " or later. \n\nClick OK to reset your date selection.";
 		searchText.popup_post_live_flight_date_1 = "All flights are currently scheduled for\n";
 		searchText.popup_post_live_flight_date_2 = " or earlier. \n\nClick OK to reset your date selection.";
-		searchText.popup_initial_flight_date	= "Sunday, 08 June 2008";
-		searchText.popup_final_flight_date		= "Tuesday, 31 March 2009";
+		searchText.popup_initial_flight_date	= "Wednesday, 17 December 2008";
+		searchText.popup_final_flight_date		= "Saturday, 31 October 2009";
 		searchText.popup_flight_or_orig_dest	= "Please enter a flight number or\nselect cities of origin and/or destination.";
 		searchText.popup_invalid_city_pair		= "Your origin and destination cities\nare the same. Please change one or\nthe other.";
 		searchText.months 						= new Array();
@@ -97,10 +98,14 @@ function captureSearchPrefs(searchPrefs)
 		searchPrefs.OFFER_OPEN_JAW_ROUTES 		= 'true';
 		searchPrefs.DISPLAY_AIRPORT_CITY_CODES 	= 'false';
 		searchPrefs.MAX_PASSENGERS_ALLOWED 		= '15';
+		searchPrefs.MAX_PASSENGERS_ALLOWED_CHARTER = '12';
 		searchPrefs.paxTypes					= [];
 		searchPrefs.initial_date_used			= '';
 		searchPrefs.final_date_used				= 'true';
 		searchPrefs.allow_todays_date			= 'true';
+		searchPrefs.SCHEDULED_END_DATE			= '20091031';
+		searchPrefs.CHARTER_END_DATE			= '20091031';
+		searchPrefs.return_date_offset			= (1000 * 60 * 60 * 24 * 7);
 
 		searchPrefs.paxTypes.push("ADULT");
 		searchPrefs.paxTypes.push("CHILD");
@@ -142,11 +147,310 @@ function setMultiCityDefault() {
 	}
 }
 
+function setScheduledDates() {
+	var drpFromDays = document.skylightsForm.departDay1;
+	var drpFromMonths = document.skylightsForm.departMonth1;
+	var drpToDays = document.skylightsForm.departDay2;
+	var drpToMonths = document.skylightsForm.departMonth2;
+
+	var bUseCookie = true;
 	
+	drpFromDays.length = 0;
+	drpFromMonths.length = 0;
+	
+			drpFromDays[drpFromDays.length] = new Option("01","01");
+			drpFromDays[drpFromDays.length] = new Option("02","02");
+			drpFromDays[drpFromDays.length] = new Option("03","03");
+			drpFromDays[drpFromDays.length] = new Option("04","04");
+			drpFromDays[drpFromDays.length] = new Option("05","05");
+			drpFromDays[drpFromDays.length] = new Option("06","06");
+			drpFromDays[drpFromDays.length] = new Option("07","07");
+			drpFromDays[drpFromDays.length] = new Option("08","08");
+			drpFromDays[drpFromDays.length] = new Option("09","09");
+			drpFromDays[drpFromDays.length] = new Option("10","10");
+			drpFromDays[drpFromDays.length] = new Option("11","11");
+			drpFromDays[drpFromDays.length] = new Option("12","12");
+			drpFromDays[drpFromDays.length] = new Option("13","13");
+			drpFromDays[drpFromDays.length] = new Option("14","14");
+			drpFromDays[drpFromDays.length] = new Option("15","15");
+			drpFromDays[drpFromDays.length] = new Option("16","16");
+			drpFromDays[drpFromDays.length] = new Option("17","17");				bUseCookie = false;
+				drpFromDays[drpFromDays.length - 1].selected = true;
+			drpFromDays[drpFromDays.length] = new Option("18","18");
+			drpFromDays[drpFromDays.length] = new Option("19","19");
+			drpFromDays[drpFromDays.length] = new Option("20","20");
+			drpFromDays[drpFromDays.length] = new Option("21","21");
+			drpFromDays[drpFromDays.length] = new Option("22","22");
+			drpFromDays[drpFromDays.length] = new Option("23","23");
+			drpFromDays[drpFromDays.length] = new Option("24","24");
+			drpFromDays[drpFromDays.length] = new Option("25","25");
+			drpFromDays[drpFromDays.length] = new Option("26","26");
+			drpFromDays[drpFromDays.length] = new Option("27","27");
+			drpFromDays[drpFromDays.length] = new Option("28","28");
+			drpFromDays[drpFromDays.length] = new Option("29","29");
+			drpFromDays[drpFromDays.length] = new Option("30","30");
+			drpFromDays[drpFromDays.length] = new Option("31","31");
+			drpFromMonths[drpFromMonths.length] = new Option("Dec 2008","200812");
+			drpFromMonths[drpFromMonths.length] = new Option("Jan 2009","200901");
+			drpFromMonths[drpFromMonths.length] = new Option("Feb 2009","200902");
+			drpFromMonths[drpFromMonths.length] = new Option("Mar 2009","200903");
+			drpFromMonths[drpFromMonths.length] = new Option("Apr 2009","200904");
+			drpFromMonths[drpFromMonths.length] = new Option("May 2009","200905");
+			drpFromMonths[drpFromMonths.length] = new Option("Jun 2009","200906");
+			drpFromMonths[drpFromMonths.length] = new Option("Jul 2009","200907");
+			drpFromMonths[drpFromMonths.length] = new Option("Aug 2009","200908");
+			drpFromMonths[drpFromMonths.length] = new Option("Sep 2009","200909");
+			drpFromMonths[drpFromMonths.length] = new Option("Oct 2009","200910");
+
+	
+	drpToDays.length = 0;
+	drpToMonths.length = 0;
+	
+			drpToDays[drpToDays.length] = new Option("01","01");
+			drpToDays[drpToDays.length] = new Option("02","02");
+			drpToDays[drpToDays.length] = new Option("03","03");
+			drpToDays[drpToDays.length] = new Option("04","04");
+			drpToDays[drpToDays.length] = new Option("05","05");
+			drpToDays[drpToDays.length] = new Option("06","06");
+			drpToDays[drpToDays.length] = new Option("07","07");
+			drpToDays[drpToDays.length] = new Option("08","08");
+			drpToDays[drpToDays.length] = new Option("09","09");
+			drpToDays[drpToDays.length] = new Option("10","10");
+			drpToDays[drpToDays.length] = new Option("11","11");
+			drpToDays[drpToDays.length] = new Option("12","12");
+			drpToDays[drpToDays.length] = new Option("13","13");
+			drpToDays[drpToDays.length] = new Option("14","14");
+			drpToDays[drpToDays.length] = new Option("15","15");
+			drpToDays[drpToDays.length] = new Option("16","16");
+			drpToDays[drpToDays.length] = new Option("17","17");				bUseCookie = false;
+				drpToDays[drpToDays.length - 1].selected = true;
+			drpToDays[drpToDays.length] = new Option("18","18");
+			drpToDays[drpToDays.length] = new Option("19","19");
+			drpToDays[drpToDays.length] = new Option("20","20");
+			drpToDays[drpToDays.length] = new Option("21","21");
+			drpToDays[drpToDays.length] = new Option("22","22");
+			drpToDays[drpToDays.length] = new Option("23","23");
+			drpToDays[drpToDays.length] = new Option("24","24");
+			drpToDays[drpToDays.length] = new Option("25","25");
+			drpToDays[drpToDays.length] = new Option("26","26");
+			drpToDays[drpToDays.length] = new Option("27","27");
+			drpToDays[drpToDays.length] = new Option("28","28");
+			drpToDays[drpToDays.length] = new Option("29","29");
+			drpToDays[drpToDays.length] = new Option("30","30");
+			drpToDays[drpToDays.length] = new Option("31","31");
+			drpToMonths[drpToMonths.length] = new Option("Dec 2008","200812");
+			drpToMonths[drpToMonths.length] = new Option("Jan 2009","200901");
+			drpToMonths[drpToMonths.length] = new Option("Feb 2009","200902");
+			drpToMonths[drpToMonths.length] = new Option("Mar 2009","200903");
+			drpToMonths[drpToMonths.length] = new Option("Apr 2009","200904");
+			drpToMonths[drpToMonths.length] = new Option("May 2009","200905");
+			drpToMonths[drpToMonths.length] = new Option("Jun 2009","200906");
+			drpToMonths[drpToMonths.length] = new Option("Jul 2009","200907");
+			drpToMonths[drpToMonths.length] = new Option("Aug 2009","200908");
+			drpToMonths[drpToMonths.length] = new Option("Sep 2009","200909");
+			drpToMonths[drpToMonths.length] = new Option("Oct 2009","200910");
+
+	
+	if (bUseCookie) {
+		setDatesFromCookies();
+	}
+}
+
+function setCharterDates() {
+	var drpFromDays = document.skylightsForm.departDay1;
+	var drpFromMonths = document.skylightsForm.departMonth1;
+	var drpToDays = document.skylightsForm.departDay2;
+	var drpToMonths = document.skylightsForm.departMonth2;
+
+	var bUseCookie = true;
+	
+	drpFromDays.length = 0;
+	drpFromMonths.length = 0;
+	
+			drpFromDays[drpFromDays.length] = new Option("01","01");
+			drpFromDays[drpFromDays.length] = new Option("02","02");
+			drpFromDays[drpFromDays.length] = new Option("03","03");
+			drpFromDays[drpFromDays.length] = new Option("04","04");
+			drpFromDays[drpFromDays.length] = new Option("05","05");
+			drpFromDays[drpFromDays.length] = new Option("06","06");
+			drpFromDays[drpFromDays.length] = new Option("07","07");
+			drpFromDays[drpFromDays.length] = new Option("08","08");
+			drpFromDays[drpFromDays.length] = new Option("09","09");
+			drpFromDays[drpFromDays.length] = new Option("10","10");
+			drpFromDays[drpFromDays.length] = new Option("11","11");
+			drpFromDays[drpFromDays.length] = new Option("12","12");
+			drpFromDays[drpFromDays.length] = new Option("13","13");
+			drpFromDays[drpFromDays.length] = new Option("14","14");
+			drpFromDays[drpFromDays.length] = new Option("15","15");
+			drpFromDays[drpFromDays.length] = new Option("16","16");
+			drpFromDays[drpFromDays.length] = new Option("17","17");				bUseCookie = false;
+				drpFromDays[drpFromDays.length - 1].selected = true;
+			drpFromDays[drpFromDays.length] = new Option("18","18");
+			drpFromDays[drpFromDays.length] = new Option("19","19");
+			drpFromDays[drpFromDays.length] = new Option("20","20");
+			drpFromDays[drpFromDays.length] = new Option("21","21");
+			drpFromDays[drpFromDays.length] = new Option("22","22");
+			drpFromDays[drpFromDays.length] = new Option("23","23");
+			drpFromDays[drpFromDays.length] = new Option("24","24");
+			drpFromDays[drpFromDays.length] = new Option("25","25");
+			drpFromDays[drpFromDays.length] = new Option("26","26");
+			drpFromDays[drpFromDays.length] = new Option("27","27");
+			drpFromDays[drpFromDays.length] = new Option("28","28");
+			drpFromDays[drpFromDays.length] = new Option("29","29");
+			drpFromDays[drpFromDays.length] = new Option("30","30");
+			drpFromDays[drpFromDays.length] = new Option("31","31");
+			drpFromMonths[drpFromMonths.length] = new Option("Dec 2008","200812");
+			drpFromMonths[drpFromMonths.length] = new Option("Jan 2009","200901");
+			drpFromMonths[drpFromMonths.length] = new Option("Feb 2009","200902");
+			drpFromMonths[drpFromMonths.length] = new Option("Mar 2009","200903");
+			drpFromMonths[drpFromMonths.length] = new Option("Apr 2009","200904");
+			drpFromMonths[drpFromMonths.length] = new Option("May 2009","200905");
+			drpFromMonths[drpFromMonths.length] = new Option("Jun 2009","200906");
+			drpFromMonths[drpFromMonths.length] = new Option("Jul 2009","200907");
+			drpFromMonths[drpFromMonths.length] = new Option("Aug 2009","200908");
+			drpFromMonths[drpFromMonths.length] = new Option("Sep 2009","200909");
+			drpFromMonths[drpFromMonths.length] = new Option("Oct 2009","200910");
+
+		
+	drpToDays.length = 0;
+	drpToMonths.length = 0;
+	
+			drpToDays[drpToDays.length] = new Option("01","01");
+			drpToDays[drpToDays.length] = new Option("02","02");
+			drpToDays[drpToDays.length] = new Option("03","03");
+			drpToDays[drpToDays.length] = new Option("04","04");
+			drpToDays[drpToDays.length] = new Option("05","05");
+			drpToDays[drpToDays.length] = new Option("06","06");
+			drpToDays[drpToDays.length] = new Option("07","07");
+			drpToDays[drpToDays.length] = new Option("08","08");
+			drpToDays[drpToDays.length] = new Option("09","09");
+			drpToDays[drpToDays.length] = new Option("10","10");
+			drpToDays[drpToDays.length] = new Option("11","11");
+			drpToDays[drpToDays.length] = new Option("12","12");
+			drpToDays[drpToDays.length] = new Option("13","13");
+			drpToDays[drpToDays.length] = new Option("14","14");
+			drpToDays[drpToDays.length] = new Option("15","15");
+			drpToDays[drpToDays.length] = new Option("16","16");
+			drpToDays[drpToDays.length] = new Option("17","17");				bUseCookie = false;
+				drpToDays[drpToDays.length - 1].selected = true;
+			drpToDays[drpToDays.length] = new Option("18","18");
+			drpToDays[drpToDays.length] = new Option("19","19");
+			drpToDays[drpToDays.length] = new Option("20","20");
+			drpToDays[drpToDays.length] = new Option("21","21");
+			drpToDays[drpToDays.length] = new Option("22","22");
+			drpToDays[drpToDays.length] = new Option("23","23");
+			drpToDays[drpToDays.length] = new Option("24","24");
+			drpToDays[drpToDays.length] = new Option("25","25");
+			drpToDays[drpToDays.length] = new Option("26","26");
+			drpToDays[drpToDays.length] = new Option("27","27");
+			drpToDays[drpToDays.length] = new Option("28","28");
+			drpToDays[drpToDays.length] = new Option("29","29");
+			drpToDays[drpToDays.length] = new Option("30","30");
+			drpToDays[drpToDays.length] = new Option("31","31");
+			drpToMonths[drpToMonths.length] = new Option("Dec 2008","200812");
+			drpToMonths[drpToMonths.length] = new Option("Jan 2009","200901");
+			drpToMonths[drpToMonths.length] = new Option("Feb 2009","200902");
+			drpToMonths[drpToMonths.length] = new Option("Mar 2009","200903");
+			drpToMonths[drpToMonths.length] = new Option("Apr 2009","200904");
+			drpToMonths[drpToMonths.length] = new Option("May 2009","200905");
+			drpToMonths[drpToMonths.length] = new Option("Jun 2009","200906");
+			drpToMonths[drpToMonths.length] = new Option("Jul 2009","200907");
+			drpToMonths[drpToMonths.length] = new Option("Aug 2009","200908");
+			drpToMonths[drpToMonths.length] = new Option("Sep 2009","200909");
+			drpToMonths[drpToMonths.length] = new Option("Oct 2009","200910");
+
+	
+	if (bUseCookie) {
+		setDatesFromCookies();
+	}
+}
+
+function setScheduledPax() {
+	
+	var adMax = 15;
+	var chMax = 15;
+	
+	var adTxt = "adults";
+	var chTxt = "children";
+	
+	var adSel = document.getElementById("ADULTSelect");
+	var chSel = document.getElementById("CHILDSelect");
+	
+	alterPaxCountList(adSel, adMax, adTxt);
+	alterPaxCountList(chSel, chMax + 1, chTxt);
+
+}
+
+function setCharterPax() {
+	
+	var adMax = 12;
+	var chMax = 12;
+	
+	var adTxt = "adults";
+	var chTxt = "children";
+	
+	var adSel = document.getElementById("ADULTSelect");
+	var chSel = document.getElementById("CHILDSelect");
+	
+	alterPaxCountList(adSel, adMax, adTxt);
+	alterPaxCountList(chSel, chMax + 1, chTxt);
+
+}
+
+	function setDatesFromCookies() {
+		// Outbound
+		if ((GetCookie("departDay1SelectIndex") != null && GetCookie("departMonth1SelectIndex") != null) &&
+			document.skylightsForm.departDate1 == "") {
+			
+			document.skylightsForm.departDay1.selectedIndex = GetCookie("departDay1SelectIndex");
+			document.skylightsForm.departMonth1.selectedIndex = GetCookie("departMonth1SelectIndex");
+		
+		} // if (GetCookie("departDay1SelectIndex") != null && GetCookie("departMonth1SelectIndex") != null) {
+		
+		// Inbound
+		if ((GetCookie("departDay2SelectIndex") != null && GetCookie("departMonth2SelectIndex") != null) &&
+			document.skylightsForm.departDate2 == "") {
+			
+			document.skylightsForm.departDay2.selectedIndex = GetCookie("departDay2SelectIndex");
+			document.skylightsForm.departMonth2.selectedIndex = GetCookie("departMonth2SelectIndex");
+			
+		} // if (GetCookie("departDay2SelectIndex") != null && GetCookie("departMonth2SelectIndex") != null) {
+	}
+
+
+
+
+
+
+function alterPaxCountList(e, max, txt) {
+	if (e) {
+		if (e.length > max) {
+			// Removes unrequired elements from the list
+			while (e.length > max) {
+				e.remove(e.length - 1);
+			}
+		} else if (e.length < max) {
+			while (e.length < max) {
+				var elOptNew = document.createElement('option');
+				var elOptNewCount = parseInt(e.options[e.length - 1].value) + 1;
+			    elOptNew.text = elOptNewCount + " " + txt;
+			    elOptNew.value = elOptNewCount;
+						    
+			    try {
+			    	e.add(elOptNew, null); // standards compliant; doesn't work in IE
+			    } catch(ex) {
+			    	e.add(elOptNew); // IE only
+			    }
+			}
+		}
+	}
+}
 
 	
 	function buildAirports()
 	{
+
+
 		var apts	= new Array();
 		var dests;
 		var dests_charter;
@@ -167,8 +471,8 @@ function setMultiCityDefault() {
 		dests_charter	= new Array();
 		apts[3]		= new airport( false, "BCN", "Barcelona", dests, dests_charter );
 
-		dests		= new Array('ALC','LEI','FAO','IBZ','ACE','AGP','MAH','MJV','PMI','TFS');	
-		dests_charter	= new Array('AYT','BJV','BOJ','CFU','DLM','DBV','LPA','HER','ACE','LCA','NAP','PFO','RHO','TFS','ZTH');
+		dests		= new Array('ALC','LEI','FAO','IBZ','ACE','LCA','AGP','MAH','MJV','PMI','TFS');	
+		dests_charter	= new Array('AYT','BJV','CFU','DLM','DBV','LPA','HER','ACE','NAP','PFO','RHO','TFS','ZTH');
 		apts[4]		= new airport( false, "BHX", "Birmingham Intl", dests, dests_charter );
 
 		dests		= new Array();	
@@ -176,15 +480,15 @@ function setMultiCityDefault() {
 		apts[5]		= new airport( false, "BJV", "Bodrum", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('BHX','LGW','MAN');
+		dests_charter	= new Array('LGW','MAN');
 		apts[6]		= new airport( false, "BOJ", "Bourgas", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('CFU','HER','MAH','NAP','PMI');
+		dests_charter	= new Array('CFU','HER','MAH','PMI');
 		apts[7]		= new airport( false, "BRS", "Bristol", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('LGW');
+		dests_charter	= new Array('LGW','MAN');
 		apts[8]		= new airport( false, "CTA", "Catania", dests, dests_charter );
 
 		dests		= new Array();	
@@ -192,7 +496,7 @@ function setMultiCityDefault() {
 		apts[9]		= new airport( false, "CHQ", "Chania", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('BHX','BRS','LGW','STN','MAN');
+		dests_charter	= new Array('BHX','LGW','STN','MAN');
 		apts[10]		= new airport( false, "CFU", "Corfu", dests, dests_charter );
 
 		dests		= new Array();	
@@ -200,182 +504,191 @@ function setMultiCityDefault() {
 		apts[11]		= new airport( false, "DLM", "Dalaman", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('BHX','LGW','MAN');
+		dests_charter	= new Array('LGW','MAN');
 		apts[12]		= new airport( false, "DBV", "Dubrovnik", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('MAH','NAP','TFS');
 		apts[13]		= new airport( false, "EMA", "East Midlands", dests, dests_charter );
 
-		dests		= new Array();	
-		dests_charter	= new Array('ACE','TFS');
-		apts[14]		= new airport( false, "EDI", "Edinburgh", dests, dests_charter );
-
 		dests		= new Array('BHX','LGW','LTN','MAN');	
-		dests_charter	= new Array('GLA','STN');
-		apts[15]		= new airport( false, "FAO", "Faro", dests, dests_charter );
+		dests_charter	= new Array();
+		apts[14]		= new airport( false, "FAO", "Faro", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('LGW','MAN');
-		apts[16]		= new airport( false, "FUE", "Fuerteventura", dests, dests_charter );
+		apts[15]		= new airport( false, "FUE", "Fuerteventura", dests, dests_charter );
 
 		dests		= new Array('LTN','MAN');	
 		dests_charter	= new Array();
-		apts[17]		= new airport( false, "GIB", "Gibraltar", dests, dests_charter );
+		apts[16]		= new airport( false, "GIB", "Gibraltar", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('DLM','FAO','ACE','NAP','PMI','TFS','VCE');
-		apts[18]		= new airport( false, "GLA", "Glasgow", dests, dests_charter );
+		dests_charter	= new Array('DLM','ACE','NAP','TFS');
+		apts[17]		= new airport( false, "GLA", "Glasgow", dests, dests_charter );
 
-		dests		= new Array('LTN');	
+		dests		= new Array();	
 		dests_charter	= new Array('BHX','LGW','MAN');
-		apts[19]		= new airport( false, "LPA", "Gran Canaria", dests, dests_charter );
+		apts[18]		= new airport( false, "LPA", "Gran Canaria", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('BHX','BRS','LGW','MAN');
-		apts[20]		= new airport( false, "HER", "Heraklion", dests, dests_charter );
+		apts[19]		= new airport( false, "HER", "Heraklion", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','MAN');	
 		dests_charter	= new Array();
-		apts[21]		= new airport( false, "IBZ", "Ibiza", dests, dests_charter );
-
-		dests		= new Array();	
-		dests_charter	= new Array('LGW');
-		apts[22]		= new airport( false, "EFL", "Kefalonia", dests, dests_charter );
+		apts[20]		= new airport( false, "IBZ", "Ibiza", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('LGW','MAN');
-		apts[23]		= new airport( false, "KGS", "Kos", dests, dests_charter );
+		apts[21]		= new airport( false, "EFL", "Kefalonia", dests, dests_charter );
+
+		dests		= new Array();	
+		dests_charter	= new Array('LGW','MAN');
+		apts[22]		= new airport( false, "KGS", "Kos", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
 		dests_charter	= new Array('BHX','GLA','LGW','MAN','NCL');
-		apts[24]		= new airport( false, "ACE", "Lanzarote", dests, dests_charter );
+		apts[23]		= new airport( false, "ACE", "Lanzarote", dests, dests_charter );
 
-		dests		= new Array('LGW','LTN','MAN');	
+		dests		= new Array('BHX','LGW','LTN','MAN');	
 		dests_charter	= new Array();
-		apts[25]		= new airport( false, "LCA", "Larnaca", dests, dests_charter );
+		apts[24]		= new airport( false, "LCA", "Larnaca", dests, dests_charter );
 
 		dests		= new Array('ALC','FAO','IBZ','ACE','LCA','AGP','MAH','MJV','TFS');	
-		dests_charter	= new Array('AYT','BJL','BJV','BOJ','CUN','CTA','CHQ','CFU','DLM','YDF','DBV','FUE','GOI','LPA','HER','EFL','KGS','ACE','LXR','MLE','MAH','MBA','MIR','MBJ','JMK','NAP','PMI','PFO','PVK','POP','PUY','RHO','SFB','SSH','TFS','VCE','ZTH');
-		apts[26]		= new airport( false, "LGW", "London Gatwick", dests, dests_charter );
+		dests_charter	= new Array('AYT','BJL','BJV','BOJ','CUN','CTA','CHQ','CFU','DLM','DBV','FUE','GOI','LPA','GND','HER','EFL','KGS','ACE','LXR','MLE','MAH','MBA','MIR','MBJ','NAP','PMI','PFO','PVK','POP','RHO','SFB','JTR','SSH','JSI','TFS','SKG','TAB','VCE','ZTH');
+		apts[25]		= new airport( false, "LGW", "London Gatwick", dests, dests_charter );
 
-		dests		= new Array('ALC','LEI','FAO','GIB','LPA','ACE','LCA','AGP','MAH','PMI','TFS');	
+		dests		= new Array('ALC','LEI','FAO','GIB','ACE','LCA','AGP','MAH','PMI','TFS');	
 		dests_charter	= new Array('ZTH');
-		apts[27]		= new airport( false, "LTN", "London Luton", dests, dests_charter );
+		apts[26]		= new airport( false, "LTN", "London Luton", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('CFU','FAO','MAH','PMI','TFS');
-		apts[28]		= new airport( false, "STN", "London Stansted", dests, dests_charter );
+		dests_charter	= new Array('CFU','MAH','TFS');
+		apts[27]		= new airport( false, "STN", "London Stansted", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
 		dests_charter	= new Array();
-		apts[29]		= new airport( false, "AGP", "Malaga", dests, dests_charter );
+		apts[28]		= new airport( false, "AGP", "Malaga", dests, dests_charter );
 
 		dests		= new Array('ALC','LEI','BCN','FAO','GIB','IBZ','ACE','LCA','AGP','MAH','MJV','PMI','TFS');	
-		dests_charter	= new Array('AYT','BJL','BJV','BOJ','CUN','CTA','CHQ','CFU','DLM','DBV','FUE','GOI','LPA','HER','EFL','KGS','ACE','LXR','MLE','MAH','MIR','MBJ','NAP','PFO','PVK','POP','PUY','RHO','SFB','SSH','TFS','VCE','ZTH');
-		apts[30]		= new airport( false, "MAN", "Manchester", dests, dests_charter );
+		dests_charter	= new Array('AYT','BJL','BJV','BOJ','CUN','CTA','CHQ','CFU','DLM','DBV','FUE','GOI','LPA','HER','EFL','KGS','ACE','LXR','MAH','MIR','MBJ','NAP','PFO','PVK','POP','PUY','RHO','SFB','JTR','SSH','JSI','TFS','SKG','VCE','ZTH');
+		apts[29]		= new airport( false, "MAN", "Manchester", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
-		dests_charter	= new Array('BRS','EMA','LGW','STN','MAN');
-		apts[31]		= new airport( false, "MAH", "Menorca", dests, dests_charter );
+		dests_charter	= new Array('BRS','LGW','MAN');
+		apts[30]		= new airport( false, "MAH", "Menorca", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','MAN');	
 		dests_charter	= new Array();
-		apts[32]		= new airport( false, "MJV", "Murcia", dests, dests_charter );
+		apts[31]		= new airport( false, "MJV", "Murcia", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('LGW');
-		apts[33]		= new airport( false, "JMK", "Mykonos", dests, dests_charter );
+		dests_charter	= new Array('BHX','EMA');
+		apts[32]		= new airport( false, "NAP", "Naples", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('BHX','BRS','EMA','GLA','LGW','MAN');
-		apts[34]		= new airport( false, "NAP", "Naples", dests, dests_charter );
-
-		dests		= new Array();	
-		dests_charter	= new Array('CUN','ACE','POP','TFS','VCE');
-		apts[35]		= new airport( false, "NCL", "Newcastle", dests, dests_charter );
+		dests_charter	= new Array('ACE','TFS');
+		apts[33]		= new airport( false, "NCL", "Newcastle", dests, dests_charter );
 
 		dests		= new Array('BHX','LTN','MAN');	
-		dests_charter	= new Array('BRS','GLA','LGW','STN');
-		apts[36]		= new airport( false, "PMI", "Palma de Mallorca", dests, dests_charter );
+		dests_charter	= new Array('BRS','LGW');
+		apts[34]		= new airport( false, "PMI", "Palma de Mallorca", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('BHX','LGW','MAN');
-		apts[37]		= new airport( false, "PFO", "Paphos", dests, dests_charter );
+		apts[35]		= new airport( false, "PFO", "Paphos", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('LGW','MAN');
-		apts[38]		= new airport( false, "PVK", "Preveza", dests, dests_charter );
+		apts[36]		= new airport( false, "PVK", "Preveza", dests, dests_charter );
+
+		dests		= new Array();	
+		dests_charter	= new Array('MAN');
+		apts[37]		= new airport( false, "PUY", "Pula", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('LGW','MAN');
-		apts[39]		= new airport( false, "PUY", "Pula", dests, dests_charter );
+		apts[38]		= new airport( false, "RHO", "Rhodes", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('BHX','LGW','MAN');
-		apts[40]		= new airport( false, "RHO", "Rhodes", dests, dests_charter );
+		dests_charter	= new Array('LGW','MAN');
+		apts[39]		= new airport( false, "JTR", "Santorini", dests, dests_charter );
+
+		dests		= new Array();	
+		dests_charter	= new Array('LGW','MAN');
+		apts[40]		= new airport( false, "JSI", "Skiathos", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
-		dests_charter	= new Array('BHX','EMA','EDI','GLA','LGW','STN','MAN','NCL');
+		dests_charter	= new Array('BHX','EMA','GLA','LGW','STN','MAN','NCL');
 		apts[41]		= new airport( false, "TFS", "Tenerife South", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('GLA','MAN');
-		apts[42]		= new airport( false, "VCE", "Venice", dests, dests_charter );
+		dests_charter	= new Array('LGW','MAN');
+		apts[42]		= new airport( false, "SKG", "Thessaloniki", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('BHX','LGW','LTN','MAN');
-		apts[43]		= new airport( false, "ZTH", "Zakynthos", dests, dests_charter );
+		dests_charter	= new Array('LGW','MAN');
+		apts[43]		= new airport( false, "VCE", "Venice", dests, dests_charter );
+
+		dests		= new Array();	
+		dests_charter	= new Array('BHX','LGW','MAN');
+		apts[44]		= new airport( false, "ZTH", "Zakynthos", dests, dests_charter );
 
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','LTN','MAN');
-			apts[44]		= new airport( false, "BJL", "Banjul", dests );
+			dests_charter	= new Array('BHX','LGW','MAN');
+			apts[45]		= new airport( false, "BJL", "Banjul", dests );
 	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','LTN','MAN');
-			apts[45]		= new airport( false, "CUN", "Cancun", dests );
+			dests_charter	= new Array('BHX','LGW','MAN');
+			apts[46]		= new airport( false, "CUN", "Cancun", dests );
 	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','LTN','MAN');
-			apts[46]		= new airport( false, "YDF", "Deer Lake", dests );
-	
-				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			dests_charter	= new Array('BHX','LGW','MAN');
 			apts[47]		= new airport( false, "GOI", "Goa", dests );
 	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','LTN','MAN');
-			apts[48]		= new airport( false, "LXR", "Luxor", dests );
+			dests_charter	= new Array('BHX','LGW','MAN');
+			apts[48]		= new airport( false, "GND", "Grenada", dests );
 	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','LTN','MAN');
-			apts[49]		= new airport( false, "MLE", "Male", dests );
+			dests_charter	= new Array('BHX','LGW','MAN');
+			apts[49]		= new airport( false, "LXR", "Luxor", dests );
 	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','LTN','MAN');
-			apts[50]		= new airport( false, "MBA", "Mombasa", dests );
+			dests_charter	= new Array('BHX','LGW','MAN');
+			apts[50]		= new airport( false, "MLE", "Male", dests );
 	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','LTN','MAN');
-			apts[51]		= new airport( false, "MIR", "Monastir", dests );
+			dests_charter	= new Array('BHX','LGW','MAN');
+			apts[51]		= new airport( false, "MBA", "Mombasa", dests );
 	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','LTN','MAN');
-			apts[52]		= new airport( false, "MBJ", "Montego Bay", dests );
+			dests_charter	= new Array('BHX','LGW','MAN');
+			apts[52]		= new airport( false, "MIR", "Monastir", dests );
 	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','LTN','MAN');
-			apts[53]		= new airport( false, "POP", "Puerto Plata", dests );
+			dests_charter	= new Array('BHX','LGW','MAN');
+			apts[53]		= new airport( false, "MBJ", "Montego Bay", dests );
 	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','LTN','MAN');
-			apts[54]		= new airport( false, "SFB", "Sanford", dests );
+			dests_charter	= new Array('BHX','LGW','MAN');
+			apts[54]		= new airport( false, "POP", "Puerto Plata", dests );
 	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','LTN','MAN');
-			apts[55]		= new airport( false, "SSH", "Sharm El Sheikh", dests );
+			dests_charter	= new Array('BHX','LGW','MAN');
+			apts[55]		= new airport( false, "SFB", "Sanford", dests );
+	
+				dests		= new Array();
+			dests_charter	= new Array('BHX','LGW','MAN');
+			apts[56]		= new airport( false, "SSH", "Sharm El Sheikh", dests );
+	
+				dests		= new Array();
+			dests_charter	= new Array('BHX','LGW','MAN');
+			apts[57]		= new airport( false, "TAB", "Tobago", dests );
 	
 				return apts;
+
 		}
 
 		
@@ -397,7 +710,7 @@ function setMultiCityDefault() {
 		dests_charter = new Array();
 		apts[2]		= new airport( false, "BCN", "Barcelona", dests, dests_charter );
 
-		dests		= new Array('ALC','LEI','FAO','IBZ','ACE','AGP','MAH','MJV','PMI','TFS');	
+		dests		= new Array('ALC','LEI','FAO','IBZ','ACE','LCA','AGP','MAH','MJV','PMI','TFS');	
 		dests_charter = new Array();
 		apts[3]		= new airport( false, "BHX", "Birmingham Intl", dests, dests_charter );
 
@@ -409,7 +722,7 @@ function setMultiCityDefault() {
 		dests_charter = new Array();
 		apts[5]		= new airport( false, "GIB", "Gibraltar", dests, dests_charter );
 
-		dests		= new Array('LTN');	
+		dests		= new Array('ALC','LEI','BCN','BHX','FAO','GIB','LPA','IBZ','ACE','LCA','LGW','LTN','AGP','MAN','MAH','MJV','PMI','TFS');	
 		dests_charter = new Array();
 		apts[6]		= new airport( false, "LPA", "Gran Canaria", dests, dests_charter );
 
@@ -421,7 +734,7 @@ function setMultiCityDefault() {
 		dests_charter = new Array();
 		apts[8]		= new airport( false, "ACE", "Lanzarote", dests, dests_charter );
 
-		dests		= new Array('LGW','LTN','MAN');	
+		dests		= new Array('BHX','LGW','LTN','MAN');	
 		dests_charter = new Array();
 		apts[9]		= new airport( false, "LCA", "Larnaca (Cyprus)", dests, dests_charter );
 
@@ -429,7 +742,7 @@ function setMultiCityDefault() {
 		dests_charter = new Array();
 		apts[10]		= new airport( false, "LGW", "London Gatwick", dests, dests_charter );
 
-		dests		= new Array('ALC','LEI','FAO','GIB','LPA','ACE','LCA','AGP','MAH','PMI','TFS');	
+		dests		= new Array('ALC','LEI','FAO','GIB','ACE','LCA','AGP','MAH','PMI','TFS');	
 		dests_charter = new Array();
 		apts[11]		= new airport( false, "LTN", "London Luton", dests, dests_charter );
 
@@ -460,13 +773,31 @@ function setMultiCityDefault() {
 				return apts;
 	}
 	
-function setRouteSpecificName(org,dst,in_str) {
+function setRouteSpecificName(org,dst,in_str,is_charter) {
 	var rtn = in_str;
 	var route_specific_names = new Array();
-	
+	route_specific_names[0] = new Array('BHX','IBZ','',' - starts May 09');
+route_specific_names[1] = new Array('BHX','LCA','',' *NEW - Mar 09');
+route_specific_names[2] = new Array('GIB','MAN','',' *NEW - Sept 08');
+route_specific_names[3] = new Array('IBZ','BHX','',' - starts May 09');
+route_specific_names[4] = new Array('IBZ','LGW','',' - starts May 09');
+route_specific_names[5] = new Array('IBZ','MAN','',' - starts May 09');
+route_specific_names[6] = new Array('LCA','BHX','',' *NEW - Mar 09');
+route_specific_names[7] = new Array('LCA','LGW','',' *NEW');
+route_specific_names[8] = new Array('LCA','MAN','',' *NEW');
+route_specific_names[9] = new Array('LGW','IBZ','',' - starts May 09');
+route_specific_names[10] = new Array('LGW','LCA','',' *NEW');
+route_specific_names[11] = new Array('LGW','MAH','',' *NEW');
+route_specific_names[12] = new Array('MAN','GIB','',' *NEW - Sept 08');
+route_specific_names[13] = new Array('MAN','IBZ','',' - starts May 09');
+route_specific_names[14] = new Array('MAN','LCA','',' *NEW');
+route_specific_names[15] = new Array('MAN','MJV','',' *NEW');
+route_specific_names[16] = new Array('MAH','LGW','',' *NEW');
+route_specific_names[17] = new Array('MJV','MAN','',' *NEW');
+
 	for (x = 0; x < route_specific_names.length; x++) {
 		if (route_specific_names[x][0] == org) {
-			if (route_specific_names[x][1] == dst) {
+			if (route_specific_names[x][1] == dst && !is_charter) {
 				rtn = route_specific_names[x][2] + rtn + route_specific_names[x][3];
 			}
 		}
@@ -482,7 +813,28 @@ function setMultiCityList(drp) {
 	var currentOption = drp.options[drp.selectedIndex].value;
 	
 	drp.length = 1;
-	var newIndex = drp.length;				newIndex = drp.length;
+	var newIndex = drp.length;
+				newIndex = drp.length;
+				drp.options[newIndex] = new Option("Birmingham Intl","BHX");
+					if (drp.options[newIndex].value == currentOption) {
+					drp.options[newIndex].selected = true; 
+				}
+					newIndex = drp.length;
+				drp.options[newIndex] = new Option("London Gatwick","LGW");
+					if (drp.options[newIndex].value == currentOption) {
+					drp.options[newIndex].selected = true; 
+				}
+					newIndex = drp.length;
+				drp.options[newIndex] = new Option("London Luton","LTN");
+					if (drp.options[newIndex].value == currentOption) {
+					drp.options[newIndex].selected = true; 
+				}
+					newIndex = drp.length;
+				drp.options[newIndex] = new Option("Manchester","MAN");
+					if (drp.options[newIndex].value == currentOption) {
+					drp.options[newIndex].selected = true; 
+				}
+					newIndex = drp.length;
 				drp.options[newIndex] = new Option("Alicante","ALC");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
@@ -494,11 +846,6 @@ function setMultiCityList(drp) {
 				}
 					newIndex = drp.length;
 				drp.options[newIndex] = new Option("Barcelona","BCN");
-					if (drp.options[newIndex].value == currentOption) {
-					drp.options[newIndex].selected = true; 
-				}
-					newIndex = drp.length;
-				drp.options[newIndex] = new Option("Birmingham Intl","BHX");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
 				}
@@ -528,27 +875,12 @@ function setMultiCityList(drp) {
 					drp.options[newIndex].selected = true; 
 				}
 					newIndex = drp.length;
-				drp.options[newIndex] = new Option("Larnaca (Cyprus)","LCA");
-					if (drp.options[newIndex].value == currentOption) {
-					drp.options[newIndex].selected = true; 
-				}
-					newIndex = drp.length;
-				drp.options[newIndex] = new Option("London Gatwick","LGW");
-					if (drp.options[newIndex].value == currentOption) {
-					drp.options[newIndex].selected = true; 
-				}
-					newIndex = drp.length;
-				drp.options[newIndex] = new Option("London Luton","LTN");
+				drp.options[newIndex] = new Option("Larnaca","LCA");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
 				}
 					newIndex = drp.length;
 				drp.options[newIndex] = new Option("Malaga","AGP");
-					if (drp.options[newIndex].value == currentOption) {
-					drp.options[newIndex].selected = true; 
-				}
-					newIndex = drp.length;
-				drp.options[newIndex] = new Option("Manchester","MAN");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
 				}
@@ -563,7 +895,7 @@ function setMultiCityList(drp) {
 					drp.options[newIndex].selected = true; 
 				}
 					newIndex = drp.length;
-				drp.options[newIndex] = new Option("Palma (Mallorca)","PMI");
+				drp.options[newIndex] = new Option("Palma de Mallorca","PMI");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
 				}
@@ -675,21 +1007,16 @@ function setStandardList(drp) {
 					drp.options[newIndex].selected = true; 
 				}
 	
-				drp.options[drp.length] = new Option("","???");
-				drp.options[drp.length] = new Option("CHARTER FLIGHTS ONLY","???");
-				drp.options[drp.length - 1].style.fontWeight = "bold";
-							newIndex = drp.length;
+					drp.options[drp.length] = new Option("","???");
+					drp.options[drp.length] = new Option("CHARTER FLIGHTS ONLY","???");
+					drp.options[drp.length - 1].style.fontWeight = "bold";
+								newIndex = drp.length;
 				drp.options[newIndex] = new Option("Bristol","BRS");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
 				}
 					newIndex = drp.length;
 				drp.options[newIndex] = new Option("East Midlands","EMA");
-					if (drp.options[newIndex].value == currentOption) {
-					drp.options[newIndex].selected = true; 
-				}
-					newIndex = drp.length;
-				drp.options[newIndex] = new Option("Edinburgh","EDI");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
 				}
@@ -769,11 +1096,6 @@ function setStandardList(drp) {
 					drp.options[newIndex].selected = true; 
 				}
 					newIndex = drp.length;
-				drp.options[newIndex] = new Option("Mykonos","JMK");
-					if (drp.options[newIndex].value == currentOption) {
-					drp.options[newIndex].selected = true; 
-				}
-					newIndex = drp.length;
 				drp.options[newIndex] = new Option("Naples","NAP");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
@@ -795,6 +1117,21 @@ function setStandardList(drp) {
 				}
 					newIndex = drp.length;
 				drp.options[newIndex] = new Option("Rhodes","RHO");
+					if (drp.options[newIndex].value == currentOption) {
+					drp.options[newIndex].selected = true; 
+				}
+					newIndex = drp.length;
+				drp.options[newIndex] = new Option("Santorini","JTR");
+					if (drp.options[newIndex].value == currentOption) {
+					drp.options[newIndex].selected = true; 
+				}
+					newIndex = drp.length;
+				drp.options[newIndex] = new Option("Skiathos","JSI");
+					if (drp.options[newIndex].value == currentOption) {
+					drp.options[newIndex].selected = true; 
+				}
+					newIndex = drp.length;
+				drp.options[newIndex] = new Option("Thessaloniki","SKG");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
 				}
@@ -898,7 +1235,7 @@ function capturePaymentPageAmounts(paymentPageAmount)
 			var oMonthYear		= "" + oYear + oMonth;
 
 
-			if ( okay == true && oDay == 08 && oMonthYear ==200806 )
+			if ( okay == true && oDay == 17 && oMonthYear ==200812 )
 			{
 				alert("\nBecause today\'s date has been selected, only \nflights that leave today at least 3 hours00 minutes\nfrom the current time will be shown on the next page.\n");
 
@@ -1305,7 +1642,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 						<script language="Javascript" type="text/javascript" src="/skylights/js/showDiv.js"></script>
 						<script language="Javascript" type="text/javascript" src="/skylights/js/util.js"></script>
 						<script language="Javascript" type="text/javascript" src="/skylights/js/openCalendar.js"></script>
-<form method="post" name="charterForm" id="charterForm" action="http://charter.flymonarch.com/Flight-Search/?aff=flymonarch">
+<form method="post" name="charterForm" id="charterForm" action="http://charterflights.monarch.co.uk/Flight-Search/?aff=flymonarch">
 	<input type="hidden" id="departureIATAs" name="departureIATAs" value="">
 	<input type="hidden" id="date" name="date" value="">
 	<input type="hidden" id="destinationIATAs" name="destinationIATAs" value="">
@@ -1329,7 +1666,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				<span class="search-input-fastbook-left">			
 				<label for="from1Select" id="from1Label"></label>
 				<select name="from1" size="1" onchange="resetDest(1);" id="from1Select">
-					<option value="???">Origin</option>	
+					<option value="???">from</option>	
 			<option value="BHX">
 				Birmingham Intl			</option>	
 			<option value="LGW">
@@ -1366,15 +1703,13 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Palma de Mallorca			</option>	
 			<option value="TFS">
 				Tenerife South			</option>
-			<option value="???"></option>
-			<option value="???" class="txt-bold">CHARTER FLIGHTS ONLY</option>
-			
+				<option value="???"></option>
+				<option value="???" class="txt-bold">CHARTER FLIGHTS ONLY</option>
+				
 			<option value="BRS">
 				Bristol			</option>	
 			<option value="EMA">
 				East Midlands			</option>	
-			<option value="EDI">
-				Edinburgh			</option>	
 			<option value="GLA">
 				Glasgow			</option>	
 			<option value="STN">
@@ -1405,8 +1740,6 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Kefalonia			</option>	
 			<option value="KGS">
 				Kos			</option>	
-			<option value="JMK">
-				Mykonos			</option>	
 			<option value="NAP">
 				Naples			</option>	
 			<option value="PFO">
@@ -1417,6 +1750,12 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Pula			</option>	
 			<option value="RHO">
 				Rhodes			</option>	
+			<option value="JTR">
+				Santorini			</option>	
+			<option value="JSI">
+				Skiathos			</option>	
+			<option value="SKG">
+				Thessaloniki			</option>	
 			<option value="VCE">
 				Venice			</option>	
 			<option value="ZTH">
@@ -1424,7 +1763,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				<br>
 				<label for="to1Select" id="to1Label"></label>
 				<select name="to1" size="1" id="to1Select" onchange="setDest( 1 );checkForCharter(this);setMultiCityDefault();">
-					<option value="">Destination</option>	
+					<option value="">to</option>	
 			<option value="BHX">
 				Birmingham Intl			</option>	
 			<option value="LGW">
@@ -1469,15 +1808,13 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Palma de Mallorca			</option>	
 			<option value="TFS">
 				Tenerife South			</option>
-			<option value="???"></option>
-			<option value="???" class="txt-bold">CHARTER FLIGHTS ONLY</option>
-			
+				<option value="???"></option>
+				<option value="???" class="txt-bold">CHARTER FLIGHTS ONLY</option>
+				
 			<option value="BRS">
 				Bristol			</option>	
 			<option value="EMA">
 				East Midlands			</option>	
-			<option value="EDI">
-				Edinburgh			</option>	
 			<option value="GLA">
 				Glasgow			</option>	
 			<option value="STN">
@@ -1508,8 +1845,6 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Kefalonia			</option>	
 			<option value="KGS">
 				Kos			</option>	
-			<option value="JMK">
-				Mykonos			</option>	
 			<option value="NAP">
 				Naples			</option>	
 			<option value="PFO">
@@ -1520,6 +1855,12 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Pula			</option>	
 			<option value="RHO">
 				Rhodes			</option>	
+			<option value="JTR">
+				Santorini			</option>	
+			<option value="JSI">
+				Skiathos			</option>	
+			<option value="SKG">
+				Thessaloniki			</option>	
 			<option value="VCE">
 				Venice			</option>	
 			<option value="ZTH">
@@ -1544,20 +1885,18 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Corfu			</option>	
 			<option value="DLM">
 				Dalaman			</option>	
-			<option value="YDF">
-				Deer Lake			</option>	
 			<option value="DBV">
 				Dubrovnik			</option>	
 			<option value="EMA">
 				East Midlands			</option>	
-			<option value="EDI">
-				Edinburgh			</option>	
 			<option value="FUE">
 				Fuerteventura			</option>	
 			<option value="GLA">
 				Glasgow			</option>	
 			<option value="GOI">
 				Goa			</option>	
+			<option value="GND">
+				Grenada			</option>	
 			<option value="HER">
 				Heraklion			</option>	
 			<option value="EFL">
@@ -1576,8 +1915,6 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Monastir			</option>	
 			<option value="MBJ">
 				Montego Bay			</option>	
-			<option value="JMK">
-				Mykonos			</option>	
 			<option value="NAP">
 				Naples			</option>	
 			<option value="NCL">
@@ -1594,8 +1931,16 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Rhodes			</option>	
 			<option value="SFB">
 				Sanford			</option>	
+			<option value="JTR">
+				Santorini			</option>	
 			<option value="SSH">
 				Sharm El Sheikh			</option>	
+			<option value="JSI">
+				Skiathos			</option>	
+			<option value="SKG">
+				Thessaloniki			</option>	
+			<option value="TAB">
+				Tobago			</option>	
 			<option value="VCE">
 				Venice			</option>	
 			<option value="ZTH">
@@ -1604,7 +1949,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				<span class="search-input-fastbook-left" id="from2Ports" style="display:none;">			
 				<label for="from2Select" id="from2Label"></label>
 				<select name="from2" size="1" onchange="resetDest(2);" id="from2Select">
-					<option value="???">Origin</option>	
+					<option value="???">from</option>	
 			<option value="BHX">
 				Birmingham Intl			</option>	
 			<option value="LGW">
@@ -1641,15 +1986,13 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Palma de Mallorca			</option>	
 			<option value="TFS">
 				Tenerife South			</option>
-			<option value="???"></option>
-			<option value="???" class="txt-bold">CHARTER FLIGHTS ONLY</option>
-			
+				<option value="???"></option>
+				<option value="???" class="txt-bold">CHARTER FLIGHTS ONLY</option>
+				
 			<option value="BRS">
 				Bristol			</option>	
 			<option value="EMA">
 				East Midlands			</option>	
-			<option value="EDI">
-				Edinburgh			</option>	
 			<option value="GLA">
 				Glasgow			</option>	
 			<option value="STN">
@@ -1680,8 +2023,6 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Kefalonia			</option>	
 			<option value="KGS">
 				Kos			</option>	
-			<option value="JMK">
-				Mykonos			</option>	
 			<option value="NAP">
 				Naples			</option>	
 			<option value="PFO">
@@ -1692,6 +2033,12 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Pula			</option>	
 			<option value="RHO">
 				Rhodes			</option>	
+			<option value="JTR">
+				Santorini			</option>	
+			<option value="JSI">
+				Skiathos			</option>	
+			<option value="SKG">
+				Thessaloniki			</option>	
 			<option value="VCE">
 				Venice			</option>	
 			<option value="ZTH">
@@ -1699,7 +2046,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				<br>
 				<label for="to2Select" id="to2Label"></label>
 				<select name="to2" size="1" id="to2Select" onchange="setDest( 2 );checkForCharter(this);">
-					<option value="">Destination</option>	
+					<option value="">to</option>	
 			<option value="BHX">
 				Birmingham Intl			</option>	
 			<option value="LGW">
@@ -1744,15 +2091,13 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Palma de Mallorca			</option>	
 			<option value="TFS">
 				Tenerife South			</option>
-			<option value="???"></option>
-			<option value="???" class="txt-bold">CHARTER FLIGHTS ONLY</option>
-			
+				<option value="???"></option>
+				<option value="???" class="txt-bold">CHARTER FLIGHTS ONLY</option>
+				
 			<option value="BRS">
 				Bristol			</option>	
 			<option value="EMA">
 				East Midlands			</option>	
-			<option value="EDI">
-				Edinburgh			</option>	
 			<option value="GLA">
 				Glasgow			</option>	
 			<option value="STN">
@@ -1783,8 +2128,6 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Kefalonia			</option>	
 			<option value="KGS">
 				Kos			</option>	
-			<option value="JMK">
-				Mykonos			</option>	
 			<option value="NAP">
 				Naples			</option>	
 			<option value="PFO">
@@ -1795,6 +2138,12 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Pula			</option>	
 			<option value="RHO">
 				Rhodes			</option>	
+			<option value="JTR">
+				Santorini			</option>	
+			<option value="JSI">
+				Skiathos			</option>	
+			<option value="SKG">
+				Thessaloniki			</option>	
 			<option value="VCE">
 				Venice			</option>	
 			<option value="ZTH">
@@ -1819,20 +2168,18 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Corfu			</option>	
 			<option value="DLM">
 				Dalaman			</option>	
-			<option value="YDF">
-				Deer Lake			</option>	
 			<option value="DBV">
 				Dubrovnik			</option>	
 			<option value="EMA">
 				East Midlands			</option>	
-			<option value="EDI">
-				Edinburgh			</option>	
 			<option value="FUE">
 				Fuerteventura			</option>	
 			<option value="GLA">
 				Glasgow			</option>	
 			<option value="GOI">
 				Goa			</option>	
+			<option value="GND">
+				Grenada			</option>	
 			<option value="HER">
 				Heraklion			</option>	
 			<option value="EFL">
@@ -1851,8 +2198,6 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Monastir			</option>	
 			<option value="MBJ">
 				Montego Bay			</option>	
-			<option value="JMK">
-				Mykonos			</option>	
 			<option value="NAP">
 				Naples			</option>	
 			<option value="NCL">
@@ -1869,13 +2214,22 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Rhodes			</option>	
 			<option value="SFB">
 				Sanford			</option>	
+			<option value="JTR">
+				Santorini			</option>	
 			<option value="SSH">
 				Sharm El Sheikh			</option>	
+			<option value="JSI">
+				Skiathos			</option>	
+			<option value="SKG">
+				Thessaloniki			</option>	
+			<option value="TAB">
+				Tobago			</option>	
 			<option value="VCE">
 				Venice			</option>	
 			<option value="ZTH">
 				Zakynthos			</option>				</select>
 </span>
+				<span class="search-input-fastbook-right-port" id="search-input-charter"><a href="javascript:NewPopUp('/cnt/travelinfo/booking/scheduled-or-charter.asp','terms',390,300)" style="color: #FFF;">scheduled or charter flights?</a></span>
 			</div>
 			<div id="search-input-fastbook-dates" class="txt-white">
 				<span class="search-input-fastbook-left-date">
@@ -1888,7 +2242,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 					<option value="05">05</option>	
 					<option value="06">06</option>	
 					<option value="07">07</option>	
-					<option value="08" selected="">08</option>	
+					<option value="08">08</option>	
 					<option value="09">09</option>	
 					<option value="10">10</option>	
 					<option value="11">11</option>	
@@ -1897,7 +2251,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 					<option value="14">14</option>	
 					<option value="15">15</option>	
 					<option value="16">16</option>	
-					<option value="17">17</option>	
+					<option value="17" selected="">17</option>	
 					<option value="18">18</option>	
 					<option value="19">19</option>	
 					<option value="20">20</option>	
@@ -1915,16 +2269,17 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				</select>
 				
 				<select name="departMonth1" size="1" id="departMonth1Select" onchange="resetDates(document.skylightsForm.travel[0].checked)">
-					<option value="200806">Jun 2008</option>	
-					<option value="200807">Jul 2008</option>	
-					<option value="200808">Aug 2008</option>	
-					<option value="200809">Sep 2008</option>	
-					<option value="200810">Oct 2008</option>	
-					<option value="200811">Nov 2008</option>	
 					<option value="200812">Dec 2008</option>	
 					<option value="200901">Jan 2009</option>	
 					<option value="200902">Feb 2009</option>	
 					<option value="200903">Mar 2009</option>	
+					<option value="200904">Apr 2009</option>	
+					<option value="200905">May 2009</option>	
+					<option value="200906">Jun 2009</option>	
+					<option value="200907">Jul 2009</option>	
+					<option value="200908">Aug 2009</option>	
+					<option value="200909">Sep 2009</option>	
+					<option value="200910">Oct 2009</option>	
 				</select>		<a href='javascript:openCalendar(1, "departDay1", "departMonth1","/skylights/cgi-bin/skylights.cgi?module=SB&amp;page=CALENDAR&amp;language=EN&amp;mode=&amp;sid=&amp;form_name=skylightsForm")'>
 		<img src="/images_site/ico/ico-calendar.gif" width="20" height="18" alt="Calendar" id="calendar1" class="search-input-fastbook-calendar-icon"></a>
 				
@@ -1939,7 +2294,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 					<option value="05">05</option>	
 					<option value="06">06</option>	
 					<option value="07">07</option>	
-					<option value="08" selected="">08</option>	
+					<option value="08">08</option>	
 					<option value="09">09</option>	
 					<option value="10">10</option>	
 					<option value="11">11</option>	
@@ -1948,7 +2303,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 					<option value="14">14</option>	
 					<option value="15">15</option>	
 					<option value="16">16</option>	
-					<option value="17">17</option>	
+					<option value="17" selected="">17</option>	
 					<option value="18">18</option>	
 					<option value="19">19</option>	
 					<option value="20">20</option>	
@@ -1966,16 +2321,17 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				</select>
 				
 				<select name="departMonth2" size="1" id="departMonth2Select">
-					<option value="200806">Jun 2008</option>	
-					<option value="200807">Jul 2008</option>	
-					<option value="200808">Aug 2008</option>	
-					<option value="200809">Sep 2008</option>	
-					<option value="200810">Oct 2008</option>	
-					<option value="200811">Nov 2008</option>	
 					<option value="200812">Dec 2008</option>	
 					<option value="200901">Jan 2009</option>	
 					<option value="200902">Feb 2009</option>	
 					<option value="200903">Mar 2009</option>	
+					<option value="200904">Apr 2009</option>	
+					<option value="200905">May 2009</option>	
+					<option value="200906">Jun 2009</option>	
+					<option value="200907">Jul 2009</option>	
+					<option value="200908">Aug 2009</option>	
+					<option value="200909">Sep 2009</option>	
+					<option value="200910">Oct 2009</option>	
 				</select>		<a href='javascript:openCalendar(2, "departDay2", "departMonth2","/skylights/cgi-bin/skylights.cgi?module=SB&amp;page=CALENDAR&amp;language=EN&amp;mode=&amp;sid=&amp;form_name=skylightsForm")'>
 		<img src="/images_site/ico/ico-calendar.gif" width="20" height="18" alt="Calendar" id="calendar2" class="search-input-fastbook-calendar-icon"></a>
 				
@@ -2042,7 +2398,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 					<input type="hidden" name="defaultINFANT" value="-1">
 					<br><a href="#" onclick="javascript:alert('Note: Children aged 11 or under must be accompanied by an adult aged 16 or over.\n\nPassenger ages must be correct as of time of TRAVEL, not time of booking.')" class="txt-white">under 2 yrs</a>				</div>				</span>				
 				<div id="search-input-fastbook-submit">
-					<a href="#" onclick="submitSearch(20080608, 20090331,1);return false;"><img src="/images_site/btn/btn_red_white_purple_show_flights_EN.gif" alt="search" class="search-input-fastbook-buttons"></a>
+					<a href="#" onclick="submitSearch(20081217, 20091031,1);return false;"><img src="/images_site/btn/btn_red_white_purple_show_flights_EN.gif" alt="search" class="search-input-fastbook-buttons"></a>
 					<br><input type="checkbox" id="chkFlexible" name="chkFlexible" style="vertical-align: middle;"><label id="lblFlexible" for="chkFlexible">flexible on dates?</label>				</div>
 				<input type="hidden" name="farePriority" id="farePriority" value="">
 				
@@ -2065,11 +2421,13 @@ function filterFieldValue(fieldToFilter, min, max, content)
 			<input type="hidden" name="departDate2" value="">
 			<input type="hidden" name="numberMarkets" value="">
 			
+			<input type="hidden" id="hLastFormOfTravel" name="hLastFormOfTravel" value="0">
+			
 			<!--
 			<div class="buttonAlign"><input type="button" name="searchButton" id="searchButton" 
 											class="button" value="Find Flights >" 
-											onClick="submitSearch(20080608, 
-											20090331)"></div>
+											onClick="submitSearch(20081217, 
+											20091031)"></div>
 		</div>-->
 		
 		</div>
@@ -2090,20 +2448,19 @@ function filterFieldValue(fieldToFilter, min, max, content)
 			<input type="hidden" name="sector" value="">
 			<input type="hidden" name="dayControl" value="">
 			<input type="hidden" name="monthControl" value="">
-			<input type="hidden" name="dNow" value="08">
-			<input type="hidden" name="mNow" value="06">
+			<input type="hidden" name="dNow" value="17">
+			<input type="hidden" name="mNow" value="12">
 			<input type="hidden" name="yNow" value="2008">
 			<input type="hidden" name="dMax" value="31">
-			<input type="hidden" name="mMaxToDisplay" value="10">
+			<input type="hidden" name="mMaxToDisplay" value="11">
+			<input type="hidden" name="mMaxToDisplayCharter" value="11">
 		</form>	
 			</div>
 		</div>
 		<div id="wrapper-header-right">			
 			<div id="nav-language"><ul class="nav-language"><li><a rel="nofollow" href="/cnt/policy/index.asp" onclick="javascript:setLanguageCookie('EN')"><img src="/pic/cmn/lang_EN.gif" width="28" height="20" alt="english" border="0"></a><br><a rel="nofollow" href="/cnt/policy/index.asp" onclick="javascript:setLanguageCookie('EN')">english</a></li><li><a rel="nofollow" href="/cnt/policy/index.asp" onclick="javascript:setLanguageCookie('ES')"><img src="/pic/cmn/lang_ES.gif" width="28" height="20" alt="español" border="0"></a><br><a rel="nofollow" href="/cnt/policy/index.asp" onclick="javascript:setLanguageCookie('ES')">castellano</a></li><li><a rel="nofollow" href="/cnt/policy/index.asp" onclick="javascript:setLanguageCookie('PT')"><img src="/pic/cmn/lang_PT.gif" width="28" height="20" alt="portugese" border="0"></a><br><a rel="nofollow" href="/cnt/policy/index.asp" onclick="javascript:setLanguageCookie('PT')">portugues</a></li></ul></div>			
 			<div id="branding-logo">
-				<div>
-					<span><a href="/"><img src="/images_site/lgo/logo_EN.jpg" width="353" height="179" alt="Cheap Flights with Monarch Airlines"></a></span>
-				</div>
+				<a href="/"><img src="/images_site/lgo/logo_EN.jpg" width="353" height="179" alt="Cheap Flights with Monarch Airlines"></a>
 			</div>
 		</div>	
 	</div> <!-- id="layout-header" 	
@@ -2111,8 +2468,18 @@ function filterFieldValue(fieldToFilter, min, max, content)
 
 	<div id="layout-main">
 		<div id="layout-nav">
+
+
+
+			<div style="float: left; padding: 5px 0px;">
+			<a href="/cnt/travelinfo/booking.asp" target="_blank" style="vertical-align:middle;">
+			<img style="vertical-align:middle" src="/images_site/ico/ico_info_red.gif" hspace="5"></a>
+			<a href="/cnt/travelinfo/booking.asp" target="_blank" style="vertical-align:middle;">
+			book with confidence with Monarch </a> 
+			</div>	
+
 			<div id="nav-campaign">
-			<ul class="nav-campaign"><li class="first"><a class="txt-dark-red txt-bold" href="/cnt/overseas-property/overseas-property.asp">overseas property</a></li><li class="tab"><a class="txt-dark-red txt-bold" href="/cnt/golf-holidays/golf-holidays.asp">golf holidays</a></li><li class="tab"><a class="txt-dark-red txt-bold" href="/cnt/about/environment.asp">environment</a></li></ul>
+			<ul class="nav-campaign"><li class="first"><a class="txt-dark-red txt-bold" href="http://videos.monarch.co.uk/">videos</a></li><li class="tab"><a class="txt-dark-red txt-bold" href="/cnt/overseas-property/overseas-property.asp">overseas property</a></li><li class="tab"><a class="txt-dark-red txt-bold" href="/cnt/golf-holidays/golf-holidays.asp">golf holidays</a></li><li class="tab"><a class="txt-dark-red txt-bold" href="/cnt/about/environment.asp">environment</a></li></ul>
 			</div>
 
 				<div id="nav-main" class="clear">
@@ -2134,9 +2501,9 @@ function filterFieldValue(fieldToFilter, min, max, content)
 							<ul onmouseover="nav_set_selected('nav-main-6',true);" onmouseout="nav_set_selected('nav-main-6',false);"><li><a href="/cnt/travelinfo/index.asp">travel info &amp; faqs</a></li><li><a href="/cnt/travelinfo/frequentflyer/index.asp">vantage club</a></li></ul>
 						</li>
 						<li id="nav-main-7"><a href="/skylights/cgi-bin/skylights.cgi?module=AP" id="nav-main-7-lft" onmouseover="nav_set_selected('nav-main-7',true);" onmouseout="nav_set_selected('nav-main-7',false);"><span id="nav-main-7-rgt"><div id="nav-main-7-ctr">travel extras</div></span></a>
-							<ul onmouseover="nav_set_selected('nav-main-7',true);" onmouseout="nav_set_selected('nav-main-7',false);"><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.flymonarchhotels.com?nourl=www.flymonarch.com/3rdpartylinks/link2/accomodation" target="_blank">hotels</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/https://www.sixt.com/apps/travel/hc/?lang=en&amp;opId=70564&amp;partnerNo=269228&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-rental" target="_blank">car rental</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.insurefor.com/B2C/index.aspx?ref=monarchmondial&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/insurance" target="_blank">travel insurance</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/https://www.manchesterairport.co.uk/app/CarParkBooking?affiliate=monarch&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking-MAN" target="_blank">airport parking - Manchester</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.parkbcp.co.uk/partners/monarch4&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking" target="_blank">airport parking - other</a></li><li><a href="/cnt/travelextras/vouchers.asp">gift vouchers</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.fhr-net.co.uk/monarch&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/airport-hotels" target="_blank">airport hotels</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.holidaytaxis.com/?ref=fmo&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/transfers" target="_blank">airport transfers</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.flymonarch.teetimesanywhere.com?mtc=flymonarch?&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/golf" target="_blank">golf bookings</a></li><li><a href="/cnt/travelextras/charter_upgrades.asp">charter upgrades</a></li></ul>
+							<ul onmouseover="nav_set_selected('nav-main-7',true);" onmouseout="nav_set_selected('nav-main-7',false);"><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.flymonarchhotels.com?nourl=www.flymonarch.com/3rdpartylinks/link2/accomodation" target="_blank">hotels</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/https://www.sixt.com/apps/travel/hc/?lang=en&amp;opId=70564&amp;partnerNo=269228&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-rental" target="_blank">car rental</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.insurefor.com/B2C/index.aspx?ref=monarchmondial&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/insurance" target="_blank">travel insurance</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/https://www.manchesterairport.co.uk/app/CarParkBooking?affiliate=monarch&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking-MAN" target="_blank">airport parking - Manchester</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://parking.essentialtravel.co.uk/airportparkingFlyMonarch/monarch.html&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking" target="_blank">airport parking - other</a></li><li><a href="/cnt/travelextras/vouchers.asp">gift vouchers</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://parking.essentialtravel.co.uk/airportparkingFlyMonarch/monarch.html&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/airport-hotels" target="_blank">airport hotels</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.holidaytaxis.com/?ref=fmo&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/transfers" target="_blank">airport transfers</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.flymonarch.teetimesanywhere.com?mtc=flymonarch?&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/golf" target="_blank">golf bookings</a></li><li><a href="/cnt/travelextras/charter_upgrades.asp">charter upgrades</a></li></ul>
 						</li>
-						<li id="nav-main-8"><a href="/cnt/contactus/index.asp" id="nav-main-8-lft"><span id="nav-main-8-rgt"><div id="nav-main-8-ctr">contact us</div></span></a></li>
+						<li id="nav-main-8"><a href="/cnt/about/index.asp" id="nav-main-8-lft"><span id="nav-main-8-rgt"><div id="nav-main-8-ctr">&nbsp;about us&nbsp;</div></span></a></li>
 					</ul>
 				</div>
 
@@ -2156,97 +2523,84 @@ function filterFieldValue(fieldToFilter, min, max, content)
 		</div>
 		<span class="layout-section-spacer"></span>
 
+	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt"><div id="content-policy" class="content-main">	
+<h1>Privacy Policy</h1>
 
-		
-	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt">
-		<div id="content-policy" class="content-main">
-			<h1>privacy policy</h1>
-		</div>
-	</div></div></div></div>
-	<span class="layout-section-spacer"></span>
-	
+Please note that our privacy policy may change from time to time.  We therefore recommend that you read it each time you visit our website.
 
-	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt">
-		<div class="content-main">
-			<h3>Data</h3>
-				<p>In accordance with the Data Protection Act 1998, we Monarch Airlines Limited are a Data Controller. In order to process your booking, we need to collect certain personal details from you. These details may include, where applicable, the names and addresses of party members, contact details such as telephone numbers and e-mail addresses, credit/debit card or other payment details and in some instances information relating to any disability or medical condition which may affect the chosen flight arrangements. If any other personal details are required, we will of course tell you.</p>
-		</div>
-	</div></div></div></div>
-	<span class="layout-section-spacer"></span>
+</div></div></div></div></div><span class="layout-section-spacer"></span>	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt"><div id="content-policy" class="content-main">	
+<h3>Who we are</h3>
 
-	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt">
-		<div class="content-main">
-			<h3>Passing on your personal details</h3>
-				<p>We may need to pass on some or all of the personal details you provide us with to certain governmental agencies and third parties in order to affect your travel arrangements or deal with and/or investigate any emergency incident or in the interests of security and/or because we are required to do so by law. Such third parties may include, but are not limited to, any carrier that we may use in substitution for Monarch Airlines (in accordance with our conditions of carriage), a handling agent, credit/debit card company, bank, accommodation supplier (for example in the event of a delay), other supplier and/or third party such as, for example, a car hire company, airport parking company or currency exchange company that we may deal with from time to time on your behalf. Such third parties may be situated outside the European Union. We may need to pass your personal details to certain governmental agencies in the interests of security and/or because we are required to so by law. For example, the US government now requires by law that every airline discloses flight and reservation data concerning all passengers travelling to/from the United States of America. Where you give us details relating to your physical or mental health we will ask you to give us your written consent to our holding, using and passing on such information. Except where expressly permitted by the Data Protection Act, we will only deal with the personal details you give us as set out above unless you agree otherwise. For example, if we wish to use any of your personal details for marketing purposes, we will tell you and allow you the opportunity to tell us that you do not want us to use those details for that purpose. We will not pass your details to third parties for the purpose of marketing. Subject to the exceptions set out in this Privacy Policy, we promise to keep all personal details you give us in connection with your booking confidential. We have appropriate security measures in place to protect this information.</p>
-		</div>
-	</div></div></div></div>
-	<span class="layout-section-spacer"></span>
-			
-	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt">
-		<div class="content-main">
-			<h3>Your right to ask us about information we hold on you</h3>
-				<p>You are generally entitled to ask us what details of yours we hold and are being processed by us, for what purpose we hold and/or are processing them and to whom we have disclosed or may disclose them to. Accordingly you may send a letter to the Marketing Department, Monarch Airlines Limited, Prospect House, Prospect Way, London Luton Airport, Luton LU2 9NU. We may charge a fee. We promise to respond to your request within 40 days of receiving the request in writing with the fee. There are circumstances where we shall be within our rights to refuse such a request.</p>			
-		</div>
-	</div></div></div></div>
-	<span class="layout-section-spacer"></span>
-			
-			
-	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt">
-		<div class="content-main">
-			<h3>Your responsibility to provide/correct inaccurate information</h3>
-				<p>If you believe that any of your personal information that is held and/or being processed by us is incorrect then please write to us immediately as we cannot be held responsible for any problems that may arise due to inaccurate information that you have provided us with.</p> 			
-		</div>
-	</div></div></div></div>
-	<span class="layout-section-spacer"></span>
-			
-			
-	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt">
-		<div class="content-main">
-			<h3>Opting out from receiving further marketing information from us</h3>
-				<p>If you have previously registered with us to receive e-mail updates or have not opted out from receiving information from us by e-mail, telephone or post when purchasing products and services from us in the past and would like to receive no further communications of this kind then please write to us at the above address or e-mail us at nomoremail@monarch-airlines.com.</p> 			
-		</div>
-	</div></div></div></div>
-	<span class="layout-section-spacer"></span>
-			
-			
-	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt">
-		<div class="content-main">
-			<h3>Changes to Privacy Policy</h3>
-				<p>Our Privacy Policy may change from time to time. We therefore recommend that you read it each time you visit our website.</p> 			
-		</div>
-	</div></div></div></div>
-	<span class="layout-section-spacer"></span>
-			
-			
-	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt">
-		<div class="content-main">
-			<h3>Cookies</h3>
-				<p>This site uses cookies to enable us to improve our service to you and to provide certain features that you may find useful. Cookies are small text files that are transferred to your computer's hard drive through your web browser to enable us to recognise your browser and help us to track visitors to our site; thus enabling us to understand better the products and services that will be most suitable to you. A cookie does not contain any personal information about you but it does allow us to identify your computer when you travel around our site. Most Web browsers automatically accept cookies, but, if you wish, you can set your browser to prevent it from accepting cookies. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. The cookies we use do not detect any information stored on your computers.</p>
-				<p>For more information about cookies and how to stop cookies being installed visit the following website:</p> 
-				<p><a href="http://www.allaboutcookies.org">http://www.allaboutcookies.org</a>.</p> 			
-		</div>
-	</div></div></div></div>
-	<span class="layout-section-spacer"></span>
-			
-			
-	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt">
-		<div class="content-main">
-			<h3>Links to Third Party Websites</h3>
-				<p>This privacy statement only covers websites that we own and control. It does not cover links to other websites and accordingly any information collected by those parties that own and control those websites or their use of cookies. Please be aware that individual organisations operate their own policies regarding the use and sale of personal information and the use of cookies. If you have a concern regarding the way your personal information will be used on other sites then you are advised to read the relevant privacy statement or in the absence of such a statement on the site, contact the company concerned.</p> 			
-		</div>
-	</div></div></div></div>
-	<span class="layout-section-spacer"></span>
-			
-			
-	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt">
-		<div class="content-main">
-			<h3>Security</h3>
-				<p>We take great care to ensure the security of this site. The data you provide to us is protected using SSL (Secure Socket Layer) technology. SSL is the industry standard method of encrypting personal information and credit card details so that they can be securely transferred over the Internet. This means that you can book on-line with complete peace of mind.</p>			
-		</div>
-	</div></div></div></div>
+<p>Monarch Airlines Limited (‘Monarch’) was established over 40 years ago and is one of the UK’s major providers of low-fares scheduled flights from bases at London Gatwick, London Luton, Manchester and Birmingham airports.  Monarch is also a key supplier of airliners to the also operates charter aircraft for the tour operating industry, as well as being part of an international group of travel companies.  It’s UK sister companies include Monarch Holidays (a trading name of Cosmos Holidays Plc), Monarch Hotels (a trading name of Somewheretostay Limited), Avro Plc, Archers Tours Limited (also known as ‘Archers Direct’) and Cosmos Coach Tours Limited (also known as ‘Cosmos Tourama’) (collectively known as the ‘Sister Companies’). As well as being one of the most established names in the travel industry, Monarch remains resolutely family owned.  </p>
 
+<p>This website is owned, managed and operated by Monarch Airlines Limited.  Where the terms “we”, “us” or “our” are used in this privacy policy this means Monarch and where the terms “you” or “your” are used this means you and the members of your booking party.</p>
+</div></div></div></div></div><span class="layout-section-spacer"></span>	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt"><div id="content-policy" class="content-main">	
 
+<h3>Your data</h3>
 
+<p>In accordance with the Data Protection Act 1998 and as amended from time to time, any information you provide will be safeguarded and controlled by Monarch, as Data Controller. In order to process your booking, we need to collect certain personal details from you.  These details may include, where applicable, the names and addresses of party members, contact details such as telephone numbers and email addresses, credit/debit card or other payment details and in some instances information relating to disability or medical condition which may affect your chosen travel arrangements.  If any other personal details are required, we will of course tell you.</p>
+
+<p>Except where expressly permitted by the Data Protection Act, we will only deal with the personal details you give us as set out below unless you agree otherwise.  We will not pass your data to third parties unless inexcept for the examples set out below in relation to the administration of your booking, or with your prior consent in relation to marketing communications.  </p>
+
+<p>Subject to the exceptions set out in this Privacy Policy, we promise to keep all personal details you give us in connection with your booking confidential. We have appropriate security measures in place to protect this information as, detailed below.</p>
+</div></div></div></div></div><span class="layout-section-spacer"></span>	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt"><div id="content-policy" class="content-main">	
+<h3>How we use your data in connection with your booking</h3>
+
+<p>We do not store personal data outside the European Economic Area (EEA), however, Wwe may need to pass on some or all of the personal details you provide us with to certain governmental agencies and third parties in order to eaffect your travel arrangements, or deal with and/or investigate any emergency incident, or in the interests of security and/or because we are required to do so by law. Such third parties may include, but are not limited to, any carrier that we may use in substitution for Monarch Airlines (in accordance with our conditions of carriage), a handling agent, credit/debit card company, bank, accommodation supplier (for example in the event of a delay), other supplier and/or third party such as, for example, a car hire company, airport parking company or currency exchange company that we may deal with from time to time on your behalf. Such third parties may be situated outside the European Union EEA.</p> 
+
+<p>We may need to pass your personal details to certain governmental agencies in the interests of security and/or because we are required to do so by law. For example, the US and Spanish governments now both require by law that every airline discloses flight and reservation data concerning all passengers travelling to or /from either of these countries. </p>
+
+<p>Where you give us details relating to your physical or mental health we will ask you to give us your written consent to our holding, using and passing on such information. </p>
+
+<p>We may also use your details to contact you regarding the administration of your booking, for example in the event of a change to your flight time or to advise you when online check-in is available.</p>
+
+<p>Please note the time period for which we keep information varies according to what the information is used for. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary.</p>
+</div></div></div></div></div><span class="layout-section-spacer"></span>	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt"><div id="content-policy" class="content-main">	
+<h3>How we use your data to inform you of relevant products and services</h3>
+
+<p>If we wish to may use any of your personal details to contact you by email with details of our promotions and products which we think you might be interested in, we will only do this with your prior consent., in accordance with the Privacy and Electronic Communications Regulations 2003.  
+</p>
+<p>You can opt-in for such marketing communications from Monarch Airlines Limited during the booking process or when you create an account in the ‘my account’ area of our website.  You can also choose to give your consent for us to pass your contact details to our UK Sister Companies (as detailed above), so that they may also contact you with details of products and services.  
+</p>
+<p>We will not pass your details to other third parties for the purpose of marketing unless you give your prior consent.</p>
+
+<p>Please note: although, as a group, we and our Sister Companies are in the business of selling flights, holidays and other travel related products and services, we are also mindful of your privacy. Wherever possible we will endeavour to keep our communications interesting and relevant to you and not to bombard you with emails or literature!</p>
+</div></div></div></div></div><span class="layout-section-spacer"></span>	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt"><div id="content-policy" class="content-main">	
+<h3>How you can opt-out from receiving further marketing communications</h3>
+
+<p>At any time, you can tell us that you do not want us to use your details for the purposes of marketing, by opting-out of future communications.  If you have previously registered with us, you can opt-out by changing your email preferences within your account online by <a href="/skylights/cgi-bin/skylights.cgi?module=MP&amp;selected=subscribe&amp;language=EN">clicking here.</a> Within your account you can choose to opt-out of only certain types of marketing communication or all.  Alternatively if you do not have an online account and password, you can opt-out from all future communications by clicking<a href="http://www.flymonarchemails.com/unsubscribe_me/index.php"> here </a>or by writing to us at.</p><p> Data Protection, Marketing Department, Monarch Airlines Limited, Prospect House, Prospect Way, London Luton Airport, Luton, Beds, LU2 9NU.  </p>
+</div></div></div></div></div><span class="layout-section-spacer"></span>	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt"><div id="content-policy" class="content-main">	
+<h3>The use of cookies - how we collect information</h3>
+
+<p>There’s nothing sneaky about the way we collect information – that’s just not our style!  Our website uses cookies which collect data to enable us to improve our service to you and to provide certain features that you may find useful.   </p>
+
+<p>Cookies are small text files that are transferred to your computer’s hard drive through your web browser to enable us to recognise your computer and help us to track visitors to our site.  Tracking visitors enables us to better understand the products and services that will be most suitable to you and to optimise the design of the site based on how our customers and visitors use it.</p>
+
+<p>A cookie tracks your journey through our website and only collects the data that you give us as part of your booking.  The cookies we use do not detect any information that is stored on your computer.</p>
+
+<p>Most web browsers automatically accept cookies but, if you wish, you can set your browser to prevent it from accepting cookies.  The 'help' portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.   For more information about cookies and how to stop cookies being installed, visit the following website: <a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a></p>
+
+<p>Sometimes we use third-party cookies to track our online advertising activity and your response to this.  This technology uses non-personal information about your visits to our site and the sites upon which we advertise, in order to deliver relevant advertisements and for us to learn which banner adverts bring users to our website.  The information collected and used in this instance is not personally identifiable.
+</p></div></div></div></div></div><span class="layout-section-spacer"></span>	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt"><div id="content-policy" class="content-main">	
+<h3>Your rights and responsibilities regarding your data</h3>
+
+<p>You are generally entitled to ask us what details of yours we hold, why we’re holding or processing them and to whom we have disclosed or may disclose them.  To do this you may send a letter to the Marketing Department, Monarch Airlines Limited, Prospect House, Prospect Way, London Luton Airport, Luton, Beds, LU2 9NU.  In order to process this information we may charge a small administration fee of £10.  We promise to respond to your request within 40 days of receiving the your request, in writing, andalong with any the applicable fee.  There are circumstances where we shall be within our rights to refuse such a request.</p>
+
+<p>If you believe that any of your personal information that is held or being processed by us is incorrect then please write to us immediately as we cannot be responsible for any problems that may arise due to inaccurate information that you have provided us with.</p>
+</div></div></div></div></div><span class="layout-section-spacer"></span>	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt"><div id="content-policy" class="content-main">	
+<h3>Links to third party websites</h3>
+
+<p>This privacy statement only covers websites that we own and control.  It does not cover links from our website to other third party websites and accordingly any information collected by the parties who own and control those websites or their use of cookies.  Please be aware that individual organisations operate their own policies regarding the use and sale of personal information and the use of cookies. </p>
+
+<p>When purchasing travel products or services from third party websites linked from our website, we strongly recommend that you refer to the specific terms and conditions of booking and privacy policy of the third party website as these may differ from our own.  These policies will also confirm exactly who you are contracting with as part of your purchase, which is important in the event of an incident, query or claim.</p>
+
+<p>If you have a concern regarding the way your personal information will be used on other sites, then you are advised to read the relevant privacy statement or in the absence of such a statement on the site, contact the company concerned.</p>
+</div></div></div></div></div><span class="layout-section-spacer"></span>	<div class="layout-cnr-white-lilac-btm-lft"><div class="layout-cnr-white-lilac-btm-rgt"><div class="layout-cnr-white-lilac-top-lft"><div class="layout-cnr-white-lilac-top-rgt"><div id="content-policy" class="content-main">	
+<h3>Security of your data</h3>
+
+<p>We take great care to ensure the security of this website.  The data you provide to us is protected using SSL (Secure Socket Layer) technology.  SSL is the industry standard method of encrypting personal information and credit card details so that they can be securely transferred over the Internet and remain protected from unauthorised access or malicious attack.  The information is only decrypted when it reaches our secure server, which is protected with a ‘firewall’. This means that you can book online with complete peace of mind.</p>
+
+</div></div></div></div></div><span class="layout-section-spacer"></span>
 
 		<p class="layout-section-spacer">&nbsp;</p>							
 	</div></div></div></div>
@@ -2256,7 +2610,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 
 	<script language="Javascript">
 		function submitParking(sel) {
-			var park_url = "http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.parkbcp.co.uk/partners/monarch4&nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking";
+			var park_url = "http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://parking.essentialtravel.co.uk/airportparkingFlyMonarch/monarch.html&nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking";
 			if (sel[sel.selectedIndex].value == "MAN") {
 				park_url = "http://reporting.flymonarch.com/cgi-bin/rr.cgi/https://www.manchesterairport.co.uk/app/CarParkBooking?affiliate=monarch&nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking-MAN";
 			}
@@ -2270,7 +2624,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				<div class="layout-bdr-red-dot-top"><div class="layout-bdr-red-dot-rgt"><div class="layout-bdr-red-dot-btm"><div class="layout-bdr-red-dot-lft"><div class="layout-cnr-purple-red-bdr-btm-lft"><div class="layout-cnr-purple-red-bdr-btm-rgt"><div class="layout-cnr-purple-red-bdr-top-lft"><div class="layout-cnr-purple-red-bdr-top-rgt">
 					<div id="right-login-skylights">
 					
-						<h1 class="txt-dark-red">login / register</h1>
+						<h2 class="txt-dark-red home-page">login / register</h2>
 						<br>
 						<form name="frmSkylightsLogin" id="frmSkylightsLogin" method="POST" action="https://flights.monarch.co.uk/skylights/cgi-bin/skylights.cgi">
 							<input type="text" name="uid" value="email address" maxlenth="50" onchange="filterEmailField(this)" onfocus="this.value='';document.frmSkylightsLogin.password.value=''" class="login-input">
@@ -2293,7 +2647,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 			</div>
 			<div class="layout-ancillary-red">
 				<div class="layout-bdr-red-dot-top"><div class="layout-bdr-red-dot-rgt"><div class="layout-bdr-red-dot-btm"><div class="layout-bdr-red-dot-lft"><div class="layout-cnr-purple-red-bdr-btm-lft"><div class="layout-cnr-purple-red-bdr-btm-rgt"><div class="layout-cnr-purple-red-bdr-top-lft"><div class="layout-cnr-purple-red-bdr-top-rgt">
-					<h1 class="txt-dark-red">FAQs search</h1>
+					<h2 class="txt-dark-red home-page">FAQs search</h2>
 					<br>
 					
 <div id="right-site-search-box">
@@ -2332,9 +2686,9 @@ function filterFieldValue(fieldToFilter, min, max, content)
 								
 			<div class="layout-ancillary-purple">
 				<div class="layout-bdr-purple-dot-top"><div class="layout-bdr-purple-dot-rgt"><div class="layout-bdr-purple-dot-btm"><div class="layout-bdr-purple-dot-lft"><div class="layout-cnr-purple-purple-bdr-btm-lft"><div class="layout-cnr-purple-purple-bdr-btm-rgt"><div class="layout-cnr-purple-purple-bdr-top-lft"><div class="layout-cnr-purple-purple-bdr-top-rgt">
-					<a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.parkbcp.co.uk/partners/monarch4&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking" target="_blank"><img src="/images_site/ico/ico-parking-anc.jpg" alt="parking"></a>
+					<a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://parking.essentialtravel.co.uk/airportparkingFlyMonarch/monarch.html&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking" target="_blank"><img src="/images_site/ico/ico-parking-anc.jpg" alt="parking"></a>
 					<div class="text">
-						<h2><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.parkbcp.co.uk/partners/monarch4&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking" target="_blank">parking</a></h2>					
+						<h2><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://parking.essentialtravel.co.uk/airportparkingFlyMonarch/monarch.html&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking" target="_blank">parking</a></h2>					
 						<p><select onchange="submitParking(this);"><option value="">Flying from</option><option value="MAN">Manchester</option><option value="OTH">Other</option></select></p>
 					</div>
 					<span class="clear"></span>
@@ -2380,10 +2734,10 @@ function filterFieldValue(fieldToFilter, min, max, content)
 		<div id="nav-supplementary">
 			<ul class="nav-supplementary">
 				<li><a href="/cnt/news/index.asp">news</a>&nbsp;&nbsp;|&nbsp;</li>
-				<li><a href="/cnt/about/index.asp">about us</a>&nbsp;&nbsp;|&nbsp;</li>
+				<li><a href="/cnt/contactus/index.asp">contact us</a>&nbsp;&nbsp;|&nbsp;</li>
 				<li><a href="/cnt/policy/index.asp">privacy policy</a>&nbsp;&nbsp;|&nbsp;</li>
 				<li><a href="/cnt/terms/index.asp">terms &amp; conditions</a>&nbsp;&nbsp;|&nbsp;</li>
-				<li><a href="/cnt/jobs/index.asp">jobs</a>&nbsp;&nbsp;|&nbsp;</li>
+				<li><a href="http://www.monarch.co.uk/jobs/">jobs</a>&nbsp;&nbsp;|&nbsp;</li>
 				<li><a href="/cnt/travelinfo/webhelp.asp">website help</a>&nbsp;&nbsp;|&nbsp;</li>
 				<li><a href="/agents/">agent login</a>
 			</li></ul>
