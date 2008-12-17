@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the eforcity.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612122852id_/http%3A//www.eforcity.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eforcity.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217073048id_/http%3A//www.eforcity.com/privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy Page
-
-[Home](https://web.archive.org/web/20080612122852id_/http%3A//www.eforcity.com/index.html) > Security & Privacy Page
-
-| Security & Privacy PagePlease takes your privacy seriously
-
-| 
 
 Eforcity Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Eforcity.com.
 
@@ -14,17 +8,13 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests.
 
-Our site's registration form requires users to give us contact information (name and email address) and demographic information (zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer contact information is also used to contact the visitor if necessary. Users may opt-out of receiving future mailings; see the **choice/opt-out** section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitors’ experience at our site, show them content that we think they might be interested in, and display the content according to their preferences.
-
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (email address) and financial information (account or credit card numbers). Contact information from the order form is used to send our customers orders, our company information, and promotional materials from some of our partners. The customer contact information is also used to get in touch with the visitor if necessary. Users may opt-out of receiving future mailings; see the **choice/opt-out** section below. Collected Financial information is used to deliver a bill to customers for products and services.
-
-We run contests on our site in which we ask visitors for contact information (email address) and demographic information (zip code, age, or income level). We use contact information from our contests to send users information about our company and promotional materials from some of our partners. The customer contact information is also used to contact the visitor if necessary. Users may opt-out of receiving future mailings; see the **choice/opt-out** section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, show them content that we think they might be interested in, and display the content according to their preferences.
-
 **Choice/Opt-Out**
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+Information about our customers is an important part of our business, and we are not in the business of selling it to others.
 
-For information about Yahoo store Privacy see the [Yahoo Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/).
+For Opt-in customers only, Contact information from the order form is used to send our company information, and promotional materials. For opt-out customers, contact information from the order form is used to send our customers orders and order related communication only.
+
+We run contests on our site in which we ask visitors for contact information (email address) and demographic information (zip code, age, or income level). For Opt-in customers only, We use contact information from our contests to send users information about our company and promotional materials.
 
   
 
@@ -38,13 +28,4 @@ For information about Yahoo store Security see the [Security at Yahoo!](http://i
   
 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
-
-  
-
-
-Eforcity Corporation  
-P.O. Box 1368  
-Arcadia, CA 91077-1368
-
-info@eforcity.com 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [info@eforcity.com](mailto:%20info@eforcity.com)
