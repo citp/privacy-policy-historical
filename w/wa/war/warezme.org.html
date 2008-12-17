@@ -1,0 +1,343 @@
+<!--The following is the downloaded HTML source of the warezme.org privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217080507id_/http%3A//warezme.org/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-gb" xml:lang="en-gb"><head>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-language" content="en-gb">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="copyright" content="2008 WarezMe.org">
+<meta name="keywords" content="WarezMe, Warez, Me, Worm, Direct, Download, Money, Free, Forum, applications, games, movies, music, GFX, youtube, facebook, community, Microsoft, XP, Vista, Operating, System">
+<meta name="description" content="Warezme.org, Earn Money for Uploading Files!">
+<title>WarezME.org • User Control Panel • Privacy policy</title>
+<link href="./styles/fisubice2/theme/prime_trash_bin.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+// <![CDATA[
+/**
+* Resize too large images
+*/
+	var reimg_maxWidth = 720, reimg_maxHeight = 540, reimg_relWidth = 0;
+			var reimg_swapPortrait = true;
+			var reimg_zoomImg = "./styles/fisubice2/imageset/icon_reimg_zoom_in.gif";
+		var reimg_zoomStyle = "width: 18px; height: 15px; filter: Alpha(Opacity=45); opacity: .45;";
+		var reimg_zoomHover = "filter: Alpha(Opacity=90); opacity: .90;";
+		var reimg_zoomAlt = "Zoom in (real dimensions: %1$d x %2$d)";
+		var reimg_zoomTarget = "_litebox";
+	
+function reimg(img, width, height) { window.reimg_version ? reimg_resize(img, width, height) : null; }
+// ]]>
+</script>
+	<script type="text/javascript" src="./styles/reimg.js"></script>
+		<script type="text/javascript">
+	// <![CDATA[
+	/**
+	* Light box for resized images
+	*/
+	var litebox_alt = "Image";
+			var litebox_zoomImg = reimg_zoomImg;
+		var litebox_zoomStyle = reimg_zoomStyle;
+		var litebox_zoomHover = reimg_zoomHover;
+		var litebox_zoomAlt = reimg_zoomAlt;
+		var litebox_closeImg = "./styles/fisubice2/imageset/icon_reimg_zoom_out.gif";
+	var litebox_closeStyle = "width: 18px; height: 15px; filter: Alpha(Opacity=45); opacity: .45;";
+	var litebox_closeHover = reimg_zoomHover;
+	var litebox_closeAlt = "Zoom out";
+	var litebox_rtl = false;
+	// ]]>
+	</script>
+	<script type="text/javascript" src="./styles/litebox.js"></script>
+
+
+<link rel="stylesheet" href="./styles/fisubice2/theme/stylesheet.css" type="text/css">
+
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(url, width, height, name)
+{
+	if (!name)
+	{
+		name = '_popup';
+	}
+
+	window.open(url.replace(/&amp;/g, '&'), name, 'height=' + height + ',resizable=yes,scrollbars=yes,width=' + width);
+	return false;
+}
+
+function jumpto()
+{
+	var page = prompt('Enter the page number you wish to go to:', '');
+	var perpage = '';
+	var base_url = '';
+
+	if (page !== null && !isNaN(page) && page > 0)
+	{
+		document.location.href = base_url.replace(/&amp;/g, '&') + '&start=' + ((page - 1) * perpage);
+	}
+}
+
+/**
+* Find a member
+*/
+function find_username(url)
+{
+	popup(url, 760, 570, '_usersearch');
+	return false;
+}
+
+/**
+* Mark/unmark checklist
+* id = ID of parent container, name = name prefix, state = state [true/false]
+*/
+function marklist(id, name, state)
+{
+	var parent = document.getElementById(id);
+	if (!parent)
+	{
+		eval('parent = document.' + id);
+	}
+
+	if (!parent)
+	{
+		return;
+	}
+
+	var rb = parent.getElementsByTagName('input');
+	
+	for (var r = 0; r < rb.length; r++)
+	{
+		if (rb[r].name.substr(0, name.length) == name)
+		{
+			rb[r].checked = state;
+		}
+	}
+}
+
+
+function selectCode(a)
+{
+	// Get ID of code block
+	var e = a.parentNode.parentNode.getElementsByTagName('CODE')[0];
+
+	// Not IE
+	if (window.getSelection)
+	{
+		var s = window.getSelection();
+		// Safari
+		if (s.setBaseAndExtent)
+		{
+			s.setBaseAndExtent(e, 0, e, e.innerText.length - 1);
+		}
+		// Firefox and Opera
+		else
+		{
+			var r = document.createRange();
+			r.selectNodeContents(e);
+			s.removeAllRanges();
+			s.addRange(r);
+		}
+	}
+	// Some older browsers
+	else if (document.getSelection)
+	{
+		var s = document.getSelection();
+		var r = document.createRange();
+		r.selectNodeContents(e);
+		s.removeAllRanges();
+		s.addRange(r);
+	}
+	// IE
+	else if (document.selection)
+	{
+		var r = document.body.createTextRange();
+		r.moveToElementText(e);
+		r.select();
+	}
+}
+
+// ]]>
+</script>
+<script type="text/javascript">
+
+	function countAdClick(id)
+	{
+	   loadXMLDoc('./ads/click.php?a=' + id);
+	}
+
+	function countAdView(id)
+	{
+	   loadXMLDoc('./ads/view.php?a=' + id);
+	}
+
+	function loadXMLDoc(url) {
+	   req = false;
+	   if(window.XMLHttpRequest) {
+	      try {
+	         req = new XMLHttpRequest();
+	      } catch(e) {
+	         req = false;
+	      }
+	   } else if(window.ActiveXObject) {
+	      try {
+	         req = new ActiveXObject("Msxml2.XMLHTTP");
+	      } catch(e) {
+	         try {
+	            req = new ActiveXObject("Microsoft.XMLHTTP");
+	         } catch(e) {
+	            req = false;
+	         }
+	      }
+	   }
+	   if(req) {
+	      req.open("GET", url, true);
+	      req.send(null);
+	   }
+	}
+</script></head>
+<body class="ltr">
+<a name="top"></a>
+<table class="bodyline" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td>
+
+<div id="wrapheader">
+	<div id="logodesc">
+		<table class="topbkg" width="100%" cellspacing="0">
+		<tbody><tr>
+			<td><a href="./index.php"><img src="./styles/fisubice2/imageset/site_logo.gif" alt="" title=""></a></td>
+			<td width="100%" align="center">
+<!-- Begin: AdBrite, Generated: 2008-12-06 5:47:59 -->
+<script type="text/javascript">
+var AdBrite_Title_Color = '3D81EE';
+var AdBrite_Text_Color = '000000';
+var AdBrite_Background_Color = 'CDD9E5';
+var AdBrite_Border_Color = 'CCCCCC';
+var AdBrite_URL_Color = '008000';
+try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+</script>
+<span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=950810&zs=3436385f3630&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=950810&amp;zs=3436385f3630&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081217080507id_%2Fhttp%253A%2F%2Fwarezme.org%2Fucp.php%253Fmode%253Dprivacy" type="text/javascript"></script>
+<a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=950810&amp;afsid=1"><img src="http://files.adbrite.com/mb/images/adbrite-your-ad-here-banner.gif" style="background-color:#CCCCCC;border:none;padding:0;margin:0;" alt="Your Ad Here" width="11" height="60" border="0"></a></span>
+<!-- End: AdBrite -->
+                        </td>
+		</tr>
+		</tbody></table>
+	</div>
+
+	<div id="menubar">
+	  <table width="100%" cellspacing="0">
+		<tbody><tr>
+			<td align="center" class="topnav">
+                             &nbsp;<a href="http://warezme.org/viewtopic.php?f=5&amp;t=5"><blink><font color="red"><b>R U L E S</b></font></blink></a>
+			     &nbsp; • &nbsp;<a href="./faq.php">FAQ</a>
+				 &nbsp; • &nbsp; <a href="./search.php">Search</a>			</td>
+		</tr>
+	  </tbody></table>
+	</div>
+
+
+ <div id="datebar">
+	  <table width="100%" cellspacing="0">
+		<tbody><tr>
+			<td class="gensmall">Last visit was: Wed Dec 17, 2008 8:05 am</td>
+			<td class="gensmall" align="right">It is currently Wed Dec 17, 2008 8:05 am<br></td>
+		</tr>
+	  </tbody></table>
+	</div>
+
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font face="Lucida Grande,Verdana,Helvetica,Arial,sans-serif" size="2">
+<a href="http://www.facebook.com/home.php#/group.php?gid=38695523396">Meet us on Facebook.com
+</a></font><a href="http://www.facebook.com/home.php#/group.php?gid=38695523396">
+:: 
+<font face="Lucida Grande,Verdana,Helvetica,Arial,sans-serif" size="-1">
+</font></a><font face="Lucida Grande,Verdana,Helvetica,Arial,sans-serif" size="-1"><a href="http://www.burn-blue.com/">Burn-Blue upload your images HERE!</a>
+</font><br>
+<div id="wrapcentre">
+
+		<p class="searchbar">
+		<span style="float: left;"><a href="./search.php?search_id=unanswered">View unanswered posts</a> | <a href="./search.php?search_id=active_topics">View active topics</a></span>
+				<span style="float: right;"><a href="./search.php?search_id=newposts">View new posts</a> | <a href="./search.php?search_id=egosearch">View your posts</a></span>
+			</p>
+	
+	<br style="clear: both;">
+
+	<table class="tablebg" width="100%" cellspacing="1" cellpadding="0" style="margin-top: 5px;">
+	<tbody><tr>
+		<td class="row1">
+			<p class="breadcrumbs"><a href="./index.php">Board index</a></p>
+			<p class="datetime">All times are UTC </p>
+		</td>
+	</tr>
+	</tbody></table>
+	<br>
+	<table class="tablebg" width="100%" cellspacing="1">
+	<tbody><tr>
+		<th height="25">WarezME.org - Privacy policy</th>
+	</tr>
+	<tr>
+		<td class="row1" align="center">
+			<table width="90%" cellspacing="2" cellpadding="2" border="0" align="center">
+			<tbody><tr>
+				<td>
+					<span class="genmed"><br>This policy explains in detail how “WarezME.org” along with its affiliated companies (hereinafter “we”, “us”, “our”, “WarezME.org”, “http://warezme.org”) and phpBB (hereinafter “they”, “them”, “their”, “phpBB software”, “www.phpbb.com”, “phpBB Group”, “phpBB Teams”) use any information collected during any session of usage by you (hereinafter “your information”).<br>
+	<br>
+	Your information is collected via two ways. Firstly, by browsing “WarezME.org” will cause the phpBB software to create a number of cookies, which are small text files that are downloaded on to your computer’s web browser temporary files. The first two cookies just contain a user identifier (hereinafter “user-id”) and an anonymous session identifier (hereinafter “session-id”), automatically assigned to you by the phpBB software. A third cookie will be created once you have browsed topics within “WarezME.org” and is used to store which topics have been read, thereby improving your user experience.<br>
+	<br>
+	We may also create cookies external to the phpBB software whilst browsing “WarezME.org”, though these are outside the scope of this document which is intended to only cover the pages created by the phpBB software. The second way in which we collect your information is by what you submit to us. This can be, and is not limited to: posting as an anonymous user (hereinafter “anonymous posts”), registering on “WarezME.org” (hereinafter “your account”) and posts submitted by you after registration and whilst logged in (hereinafter “your posts”).<br>
+	<br>
+	Your account will at a bare minimum contain a uniquely identifiable name (hereinafter “your user name”), a personal password used for logging into your account (hereinafter “your password”) and a personal, valid e-mail address (hereinafter “your e-mail”). Your information for your account at “WarezME.org” is protected by data-protection laws applicable in the country that hosts us. Any information beyond your user name, your password, and your e-mail address required by “WarezME.org” during the registration process is either mandatory or optional, at the discretion of “WarezME.org”. In all cases, you have the option of what information in your account is publicly displayed. Furthermore, within your account, you have the option to opt-in or opt-out of automatically generated e-mails from the phpBB software.<br>
+	<br>
+	Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “WarezME.org”, so please guard it carefully and under no circumstance will anyone affiliated with “WarezME.org”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your e-mail, then the phpBB software will generate a new password to reclaim your account.<br>
+	<br><br></span>
+					<div align="center">
+						<a href="./ucp.php?mode=login">Back to login screen</a>
+					</div>
+				</td>
+			</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+
+</div>
+<br><br>
+
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB3. If you (honestly) cannot retain
+	the full copyright we ask you at least leave in place the "Powered by phpBB" line, with
+	"phpBB" linked to www.phpbb.com. If you refuse to include even this then support on our
+	forums may be affected.
+
+	The phpBB Group : 2006
+//-->
+
+<div id="wrapfooter">
+		<span class="copyright">Powered by <a href="http://www.phpbb.com/">phpBB</a> © 2000, 2002, 2005, 2007 phpBB Group<br><br>
+<!-- Begin: AdBrite, Generated: 2008-12-13 10:58:25  -->
+<script type="text/javascript">
+var AdBrite_Title_Color = '3D81EE';
+var AdBrite_Text_Color = '000000';
+var AdBrite_Background_Color = 'FFFFFF';
+var AdBrite_Border_Color = 'CCCCCC';
+var AdBrite_URL_Color = '008000';
+try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+</script>
+<span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=960023&zs=3436385f3630&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=960023&amp;zs=3436385f3630&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081217080507id_%2Fhttp%253A%2F%2Fwarezme.org%2Fucp.php%253Fmode%253Dprivacy" type="text/javascript"></script>
+<a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=960023&amp;afsid=1"><img src="http://files.adbrite.com/mb/images/adbrite-your-ad-here-banner.gif" style="background-color:#CCCCCC;border:none;padding:0;margin:0;" alt="Your Ad Here" width="11" height="60" border="0"></a></span>
+<!-- End: AdBrite -->
+<br></span></div>
+	
+
+
+</td>
+</tr>
+</tbody></table>
+<br>
+
+</body></html>
