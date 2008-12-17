@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bragster.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410153208id_/http%3A//www.bragster.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bragster.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065605id_/http%3A//www.bragster.com/main/privacy) for the most accurate reproduction.*
 
-# Privacy Policy on bragster.com
+# bragster - Dare your friends and brag about it. Victory is sweet
 
 Latest update: 12th February, 2008
 
@@ -56,7 +56,7 @@ Cookies are a standard internet technology, and many major web sites use them to
 
 ### THIRD PARTY ADVERTISING
 
-WAB may share Personal Information that is publicly available to all as per your public profile and all Anonymous Information to advertisers and other third parties in order to present to members more targeted advertising, products and services. Personal Information that is not publicly available will only be shared with your consent. Advertisements that appear on this website are delivered to users by our advertising partners. Our advertising partners may set cookies.
+WAB may share Personal Information that is publicly available to all as per your public profile and all Anonymous Information to advertisers and other third parties in order to present to members more targeted advertising, products and services. WAB will not sell any Personal Information. Advertisements that appear on this website are delivered to users by our advertising partners. Our advertising partners may set cookies.
 
 We may also display links to third party sites, however we cannot control and cannot be held responsible for those other sites, their privacy policies or how they treat information about their users. We advise you to check their privacy policies to find out how they are treating your Personal Information.
 
@@ -78,11 +78,10 @@ This Privacy Policy statement is effective as of 13th December 2006.
 
 ### CONTACT
 
-If you have any questions about this Privacy Policy, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/feedback/contact_us) page, or by writing to:
+If you have any questions about this Privacy Policy, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/contact_us) page, or by writing to:
 
 Customer Support  
 Wannabet Ltd.  
-Coppergate House  
-16 Brune Street  
-E1 7NJ  
+4 Elder Street  
+E1 6BT  
 London, UK 
