@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wheelonline.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607041624id_/http%3A//www.4wheelonline.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wheelonline.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217170048id_/http%3A//www.4wheelonline.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # 4 Wheel Online
 
