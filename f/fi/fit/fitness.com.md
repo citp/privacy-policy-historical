@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitness.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530050338id_/http%3A//www.fitness.com/fitness/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitness.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217171033id_/http%3A//www.fitness.com/fitness/privacy.php) for the most accurate reproduction.*
 
 # Fitness.com - Free Exercises, Fitness Equipment, Customized Workout, Fitness Programs, Fitness Articles, Beauty Fitness, Weight Loss, Weight Training, Diet Plans
 
