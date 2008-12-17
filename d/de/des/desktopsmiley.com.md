@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktopsmiley.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519191407id_/http%3A//desktopsmiley.com/privacyPolicy.do%3Fuid%3D0%26a1%3D0%26a2%3D0%26a3%3D0%26a4%3D0%26a5%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopsmiley.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033915id_/http%3A//desktopsmiley.com/privacyPolicy.do%3Fuid%3D0%26a1%3D0%26a2%3D0%26a3%3D0%26a4%3D0%26a5%3D0) for the most accurate reproduction.*
 
 # DesktopSmiley.com - Desktop Smiley with 10,000 Free emoticons and Smileys for your E-mail, IM, Blog, Profiles and more!
 
@@ -92,4 +92,4 @@ We customarily release alpha and beta versions of our products, which are furthe
 
 CONTACT US ABOUT PRIVACY
 
-If you have questions about the privacy aspects of our products or services or would like to make a complaint, please contact: [privacypolicy@desktopsmiley.com](mailto:privacypolicy@desktopsmiley.com) or Advertising Ltd. 12/F Hong Kong Trade CTR, 161-167 Des Voeux Road, Central, Hong Kong. 
+If you have questions about the privacy aspects of our products or services or would like to make a complaint, please contact: [privacypolicy@desktopsmiley.com](mailto:privacypolicy@desktopsmiley.com) or Advertising Ltd. 29/F One Kowloon, 1 Wang Yuen Street, Kowloon Bay, Kowloon, Hong Kong. 
