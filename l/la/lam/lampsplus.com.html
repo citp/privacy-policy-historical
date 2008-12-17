@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lampsplus.com privacy policy that was archived on 2008-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080617094603id_/http%3A//www.lampsplus.com/htmls/help/security.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lampsplus.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217110823id_/http%3A//www.lampsplus.com/htmls/help/security.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>LAMPS PLUS Security and Privacy Policy</title>
@@ -20,10 +20,61 @@
 	var strButtonID;
 	function popupRateThisPage()
 	{
-		var winOpenn;
-		winOpenn = window.open("/htmls/RateThisPage/default.aspx?location="+window.location,"Processing","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,width=530,height=500,left=200,top=180");
-		winOpenn.focus();
+		var strValues = "?url=" + window.location;
+		makeAjaxRequest(window.location.href.substr(0,5).replace(":","")  + "://" + document.domain + "/WebServices/EmailToFriend.asmx","getLocationId",strValues)
 	}
+function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
+			var strRetVal = '';
+			var httpRequest;
+
+			if (window.XMLHttpRequest) { // Mozilla, Safari, ...
+				httpRequest = new XMLHttpRequest();
+				if (httpRequest.overrideMimeType) {
+					httpRequest.overrideMimeType('text/xml');
+				}/**/
+			} 
+			else if (window.ActiveXObject) { // IE
+				try {
+					httpRequest = new ActiveXObject("Msxml2.XMLHTTP");
+					} 
+					catch (e) {
+							try {
+									httpRequest = new ActiveXObject("Microsoft.XMLHTTP");
+								} 
+								catch (e) {}
+							}
+					}
+
+			if (!httpRequest) {
+				return false;
+			}
+			httpRequest.onreadystatechange = function() 
+			{ 
+				
+				if(httpRequest.readyState == 4)
+				{
+				var xmldoc = httpRequest.responseXML;
+				
+					var root_node = xmldoc.getElementsByTagName('int')[0];
+					if(root_node.firstChild)
+					{
+							var winOpenn;
+							winOpenn = window.open("/htmls/RateThisPage/default.aspx?location=" + root_node.firstChild.nodeValue ,"Processing","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,width=600,height=540,left=200,top=180");
+							winOpenn.focus();
+					}
+					else 
+					{
+						theForm.btnSendEmail.disabled= "false";
+						alert("There was a problem sending your email. Please make sure the email address is valid.");
+					}
+				}
+			};
+			//httpRequest.open('GET', '/webservices/GetTopLevelProductCategory.asmx/GetTopLevelProductCategory?strVal=http://www.lampsplus.com/Products/Ceiling-Fans/', true);
+			httpRequest.open('GET', strServiceUrl +'/'+strFunctionCall + strParams, true);
+			httpRequest.send(null);/**/
+		}
+
+
 	function clearProfessionalsCookie()
 	{
 		DeleteCookie('professionalsonlineid');
@@ -67,37 +118,36 @@
 		</div>
 		<div id="divStaticLinks">
 			<a name="top LAMPS PLUS Home" href="http://www.lampsplus.com/" rel="nofollow"><img src="/images/header/home.gif" alt="LAMPS PLUS Home"></a>
-			<a href="http://www.lampsplus.com/Products/s_sale/" name="top On Sale"><img src="/images/header/on-sale.gif" alt="On Sale"></a>
+			<a href="http://www.lampsplus.com/Products/OnSale_View-On-Sale-Items/" name="top On Sale"><img src="/images/header/on-sale.gif" alt="On Sale"></a>
 			<a href="http://www.lampsplus.com/htmls/clearance/clearance.asp" name="top Clearance"><img src="/images/header/clearance.gif" alt="Clearance"></a>
 			<a href="http://www.lampsplus.com/Lighting-Catalog/index.aspx" name="top Catalog"><img src="/images/header/catalog.gif" alt="Catalog"></a>
 			<a href="http://www.lampsplus.com/htmls/6b-1storelocations/storesinfo.asp" name="top Store Locator"><img src="/images/header/store-locator.gif" alt="Store Locator"></a>
 			<a href="http://www.lampsplus.com/htmls/myportfoliox/default.aspx" name="top My Portfolio" rel="nofollow"><img src="/images/header/portfolio.gif" alt="My Portfolio"></a>
 			<a href="http://www.lampsplus.com/htmls/projects/default.asp" name="top Projects" rel="nofollow"><img src="/images/header/projects.gif" alt="Projects"></a>
-			<a href="http://www.lampsplus.com/htmls/6e-1contactus/callback1.asp" name="top Contact Us" rel="nofollow"><img src="/images/header/contact-us.gif" alt="Contact Us"></a>
+			<a href="https://secure.lampsplus.com/secure/contact-us/callback1.asp" name="top Contact Us" rel="nofollow"><img src="/images/header/contact-us.gif" alt="Contact Us"></a>
 			<a href="javascript:popupRateThisPage();" rel="nofollow"><img src="/images/header/rate-this-page.gif" alt="Rate This Page"></a>
 		</div>
 	</div></td></tr></tbody></table>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center">
 <link rel="stylesheet" type="text/css" media="print" href="/print.css">
-
 <!--[if IE]>
 <style>
 .clsNVBestseller{left:397px;}
 #ulNvBestSellerCeilingFans{top:25px;}
 #ulNvBestSellerChandeliers{top:46px;}
-#ulNvBestSellerDesklamps{top:70px;}
-#ulNvBestSellerFloorLamps{top:95px;}
-#ulNvBestSellerFlushmountLighting{top:119px;}
-#ulNvBestSellerFurniture{top:142px;}
-#ulNvBestSellerLightingFixtures{top:143px;}
-#ulNvBestSellerOutdoorLighting{top:190px;}
-#ulNvBestSellerSemiFlushLighting{top:215px;}
-#ulNvBestSellerTableLamps{top:143px;}
-#ulNvBestSellerTiffanyLighting{top:215px;width:240px;left:327px;}
-#ulNvBestSellerTrackLighting{top:263px;}
-#ulNvBestSellerWallLamps{top:263px;}
-#ulNvBestSellerOtherLighting{top:263px;}
+#ulNvBestSellerDesklamps{top:65px;}
+#ulNvBestSellerFloorLamps{top:87px;}
+#ulNvBestSellerFlushmountLighting{top:109px;}
+#ulNvBestSellerFurniture{top:127px;}
+#ulNvBestSellerLightingFixtures{top:134px;}
+#ulNvBestSellerOutdoorLighting{top:170px;}
+#ulNvBestSellerSemiFlushLighting{top:190px;}
+#ulNvBestSellerTableLamps{top:134px;}
+#ulNvBestSellerTiffanyLighting{top:194px;width:240px;left:327px;}
+#ulNvBestSellerTrackLighting{top:234px;}
+#ulNvBestSellerWallLamps{top:234px;}
+#ulNvBestSellerOtherLighting{top:234px;}
 #ulNvBestsellers li a{background-image:url('/images/header/imgTopNavHasChildrenIE.gif'); background-position:left; background-repeat:no-repeat;border-left:4px solid #fff;/**/}
 #ulNvHomeDecor{width:195px;left:575px;}
 </style>
@@ -146,64 +196,24 @@
 	</div>
 	<div id="divTopNavBarSub">
 		<ul id="ulNvCeilingLights" onmouseover="fncShowHideSubNavs(true,'ulNvCeilingLights');fncManageHoverState('liNvCeilingLights',true);" onmouseout="fncShowHideSubNavs(false,'ulNvCeilingLights');fncManageHoverState('liNvCeilingLights',false);" "="">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/ceiling-lighting/" name="nav Ceiling Lighting All Ceiling Lighting">All 
-					Ceiling Lighting</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/medallions/medallionslanding.asp" name="nav Ceiling Lighting Ceiling Medallions">
-					Ceiling Medallions</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Close-To-Ceiling-Lights/" name="nav Ceiling Lighting Close to Ceiling Lights">
-					Close to Ceiling Lights</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Chandeliers/" name="nav Ceiling Lighting Chandeliers">Chandeliers</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Chandeliers/style_Crystal/" name="nav Ceiling Lighting Crystal Chandeliers">
-					Crystal Chandeliers</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Entryway/" name="nav Ceiling Lighting Entryway">
-					Entryway</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Island/" name="nav Ceiling Lighting Island Lights">
-					Island Lights</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Kitchen-Lighting/" name="nav Ceiling Lighting Kitchen Lighting">Kitchen 
-					Lighting </a>
-			</li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Lighting-Fixtures/" name="nav Ceiling Lighting Lighting Fixtures">
-					Lighting Fixtures </a>
-			</li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Mini@Chandelier/" name="nav Ceiling Lighting Mini Chandelier">
-					Mini Chandelier </a>
-			</li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Mini@Pendant/" name="nav Ceiling Lighting Mini-Pendants">
-					Mini-Pendants </a>
-			</li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Pendant-Lighting/" name="nav Ceiling Lighting Pendant Lighting">Pendant 
-					Lighting</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/chandeliers/Usage_Pool-Table/" name="nav Ceiling Lighting Pool Table Lights">
-					Pool Table Lights</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/RecessedLanding/mainlanding.aspx" name="nav Ceiling Lighting Recessed Lighting">
-					Recessed Lighting</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Swag/" name="nav Ceiling Lighting Swag Chandeliers">
-					Swag Chandeliers</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/s_Tiffany%20Fixtures/" name="nav Ceiling Lighting Tiffany Style Lighting">
-					Tiffany Style Lighting</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/track.asp" name="nav Ceiling Lighting Track Type Lighting">Track 
-					Type Lighting </a>
-			</li>
-			<li>
-				<a href="http://www.lampsplus.com/products/" name="nav Ceiling Lighting View All Categories">View All 
-					Categories</a></li>
+			<li class="clsNavFirstDropDownItem"><a href="http://www.lampsplus.com/ceiling-lighting/" name="nav Ceiling Lighting All Ceiling Lighting">All Ceiling Lighting</a></li>
+			<li><a href="http://www.lampsplus.com/htmls/medallions/medallionslanding.asp" name="nav Ceiling Lighting Ceiling Medallions">Ceiling Medallions</a></li>
+			<li><a href="http://www.lampsplus.com/Products/Close-To-Ceiling-Lights/" name="nav Ceiling Lighting Close to Ceiling Lights">Close to Ceiling Lights</a></li>
+			<li><a href="http://www.lampsplus.com/Products/Chandeliers/" name="nav Ceiling Lighting Chandeliers">Chandeliers</a></li>
+			<li><a href="http://www.lampsplus.com/Products/Chandeliers/style_Crystal/" name="nav Ceiling Lighting Crystal Chandeliers">Crystal Chandeliers</a></li>
+			<li><a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Entryway/" name="nav Ceiling Lighting Entryway">Entryway</a></li>
+			<li><a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Island/" name="nav Ceiling Lighting Island Lights">Island Lights</a></li>
+			<li><a href="http://www.lampsplus.com/Kitchen-Lighting/" name="nav Ceiling Lighting Kitchen Lighting">Kitchen Lighting</a></li>
+			<li><a href="http://www.lampsplus.com/Products/Lighting-Fixtures/" name="nav Ceiling Lighting Lighting Fixtures">Lighting Fixtures</a></li>
+			<li><a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Mini@Chandelier/" name="nav Ceiling Lighting Mini Chandelier">Mini Chandelier</a></li>
+			<li><a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Mini@Pendant/" name="nav Ceiling Lighting Mini-Pendants">Mini-Pendants</a></li>
+			<li><a href="http://www.lampsplus.com/Products/Pendant-Lighting/" name="nav Ceiling Lighting Pendant Lighting">Pendant Lighting</a></li>
+			<li><a href="http://www.lampsplus.com/Products/chandeliers/Usage_Pool-Table/" name="nav Ceiling Lighting Pool Table Lights">Pool Table Lights</a></li>
+			<li><a href="http://www.lampsplus.com/htmls/RecessedLanding/mainlanding.aspx" name="nav Ceiling Lighting Recessed Lighting">Recessed Lighting</a></li>
+			<li><a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Swag/" name="nav Ceiling Lighting Swag Chandeliers">Swag Chandeliers</a></li>
+			<li><a href="http://www.lampsplus.com/Products/Lighting-Fixtures/Style_Tiffany/" name="nav Ceiling Lighting Tiffany Style Lighting">Tiffany Style Lighting</a></li>
+			<li><a href="http://www.lampsplus.com/track-lighting/track.asp" name="nav Ceiling Lighting Track Type Lighting">Track Type Lighting</a></li>
+			<li><a href="http://www.lampsplus.com/products/" name="nav Ceiling Lighting View All Categories">View All Categories</a></li>
 		</ul>
 		<ul id="ulNvLamps" onmouseover="fncShowHideSubNavs(true,'ulNvLamps');fncManageHoverState('liNvLamps',true);" onmouseout="fncShowHideSubNavs(false,'ulNvLamps');fncManageHoverState('liNvLamps',false);">
 			<li class="clsNavFirstDropDownItem">
@@ -217,22 +227,21 @@
 			<li>
 				<a href="http://www.lampsplus.com/Products/lamp-shades/" name="nav Lamps Lamp Shades">Lamp Shades</a></li>
 			<li>
-				<a href="http://www.lampsplus.com/Products/s_table-lamps-and-floor-lamps/type_art-shade/" name="nav Lamps Lamps with Art Shades">
+				<a href="http://www.lampsplus.com/Products/s_table-lamps-or-floor-lamps-not-lamp-shades/type_art-shade/" name="nav Lamps Lamps with Art Shades">
 					Lamps with Art Shades</a></li>
 			<li>
 				<a href="http://www.lampsplus.com/Products/Lava-Lamps/" name="nav Lamps Lava Lamps">Lava Lamps</a></li>
 			<li>
-				<a href="http://www.lampsplus.com/Products/Novelty-@-Accent-Lamps/" name="nav Lamps Novelty/Accent Lamps">Novelty/Accent 
-					Lamps</a></li>
+				<a href="http://www.lampsplus.com/Products/Novelty-@-Accent-Lamps/" name="nav Lamps Novelty/Accent Lamps">Novelty - Accent Lamps</a></li>
 			<li>
 				<a href="http://www.lampsplus.com/Products/Table-Lamps/" name="nav Lamps Table Lamps">Table Lamps</a></li>
 			<li>
-				<a href="http://www.lampsplus.com/Products/s_Tiffany%20Lamps/" name="nav Lamps Tiffany Style Lighting">Tiffany 
+				<a href="http://www.lampsplus.com/Products/s_Tiffany-Lamps/" name="nav Lamps Tiffany Style Lighting">Tiffany 
 					Style Lamps</a></li>
 			<li>
-				<a href="http://www.lampsplus.com/Products/Torchieres/" name="nav Lamps Torchieres">Torchieres</a></li>
+				<a href="http://www.lampsplus.com/Products/Floor-Lamps/Type_Torchiere" name="nav Lamps Torchieres">Torchieres</a></li>
 			<li>
-				<a href="http://www.lampsplus.com/Products/s_Up-Lights-@-Clip-Lights/" name="nav Lamps Uplights/Cliplights">Uplights/Cliplights</a></li>
+				<a href="http://www.lampsplus.com/Products/Up-Lights-@-Clip-Lights/" name="nav Lamps Uplights/Cliplights">Up Lights - Clip Lights</a></li>
 			<li>
 				<a href="http://www.lampsplus.com/products/" name="nav Lamps View All Categories">View All Categories</a></li>
 		</ul>
@@ -249,7 +258,7 @@
 				<a href="http://www.lampsplus.com/Products/Sconces/" name="nav Wall Lights ">Sconces</a></li>
 			<li>
 				<a href="http://www.lampsplus.com/Products/Wall-Lamps-@-Swing-Arms/" name="nav Wall Lights Wall Lamp/Swingarm">
-					Wall Lamp/Swingarm</a></li>
+					Wall Lamps - Swing Arms</a></li>
 			<li>
 				<a href="http://www.lampsplus.com/Products/Bathroom-Hardware/" name="nav Wall Lights Bathroom Hardware">Bathroom 
 					Hardware</a></li>
@@ -301,7 +310,7 @@
 				<a href="http://www.lampsplus.com/Products/Glass-Shades/" name="nav Others Glass Shades">Glass Shades</a></li>
 			
 			<li>
-				<a href="http://www.lampsplus.com/Products/Indoor-Air-Purifiers/" name="nav Others Indoor Air Purifiers">Indoor Air Purifiers</a></li>
+				<a href="http://www.lampsplus.com/kathy-ireland-home-air-purifiers/" name="nav Others Indoor Air Purifiers">Indoor Air Purifiers</a></li>
 	
 			<li>
 				<a href="http://www.lampsplus.com/Products/Light-Bulbs/" name="nav Others Light Bulbs">Light Bulbs</a></li>
@@ -397,7 +406,7 @@
 			<li>
 				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TraditionalCeilingFans">Traditional</a></li>
 			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=DesktopCeilingFans">Desktop</a></li>
+				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=DesktopCeilingFans">Desk Fans and Floor Fans</a></li>
 		</ul>
 		<ul class="clsNVBestseller" id="ulNvBestSellerChandeliers" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerChandeliers');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerChandeliers');fncManageHoverState('liNvBestSellers',false);">
 			<li class="clsNavFirstDropDownItem">
@@ -604,14 +613,19 @@
 			<li class="clsNavFirstDropDownItem">
 				<a href="http://www.lampsplus.com/home-decor/" name="nav Home Decor All Home Decor">All Home Decor</a></li>
 			<li>
-				<a href="http://www.lampsplus.com/products/Rugs/" name="nav Home Decor Area Rugs">Area Rugs</a></li>
-			<li>
 				<a href="http://www.lampsplus.com/Products/Home-Decor/Type_Bedding/" name="nav Bedding">Bedding</a></li>
 			<li>
 				<a href="http://www.lampsplus.com/Products/home-decor/type_boxes/" name="nav Home Decor Boxes">Boxes</a></li>
+	
 			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Candleholders!Candles/" name="nav Home Decor CandleHolders/Candles">
-					CandleHolders/Candles</a></li>
+				<a href="http://www.lampsplus.com/Products/home-decor/Type_Bowls/" name="nav Home Decor Bowls">
+					Bowls</a>
+			</li>
+			
+			
+			<li>
+				<a href="http://www.lampsplus.com/Products/home-decor/type_Candleholders-@-Candles/" name="nav Home Decor CandleHolders/Candles">
+					CandleHolders - Candles</a></li>
 			<li>
 				<a href="http://www.lampsplus.com/Products/home-decor/type_Clocks/" name="nav Home Decor ">Clocks</a></li>
 			<li>
@@ -630,17 +644,22 @@
 			<li>
 				<a href="http://www.lampsplus.com/Products/Mirrors/" name="nav Home Decor Mirrors">Mirrors</a></li>
 			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Pillows!Throws/" name="nav Home Decor Pillows/Throws">
-					Pillows/Throws</a></li>
+				<a href="http://www.lampsplus.com/Products/home-decor/type_Pillows-@-Throws/" name="nav Home Decor Pillows/Throws">
+					Pillows - Throws</a></li>
 			<li>
 				<a href="http://www.lampsplus.com/Products/home-decor/type_Plates/" name="nav Home Decor Plates">Plates</a></li>
 			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Sculptures/" name="nav Home Decor Sculptures">Sculptures</a></li>
+				<a href="http://www.lampsplus.com/products/Rugs/" name="nav Home Decor Area Rugs">Rugs</a></li>
+			<li>
+				<a href="http://www.lampsplus.com/Products/Sculpture/" name="nav Sculpture">Sculptures</a></li>
 			<li>
 				<a href="http://www.lampsplus.com/Products/home-decor/type_Trays/" name="nav Home Decor Trays">Trays</a></li>
+			
 			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Vases-and-Bowls/" name="nav Home Decor Vases/Bowls">
-					Vases/Bowls</a></li>
+				<a href="http://www.lampsplus.com/Products/home-decor/Type_Vases/" name="nav Home Decor Vases">
+					Vases</a>
+			</li>
+			
 			<li>
 				<a href="http://www.lampsplus.com/Products/Wall-Art/" name="nav Home Decor Wall Art">Wall Art</a></li>
 			<li>
@@ -652,8 +671,7 @@
 
 <script language="javascript">var strNavBarBackgroundImage = (m_IsPro == 'True')?'navsprites-pros.gif':'navsprites.gif';</script>
 
-
-<script language="javascript">var strNavBarBackgroundImage = (m_IsPro == 'True')?'navsprites-pros.gif':'navsprites.gif';</script>
+<table width="792" border="0" align="center" cellpadding="0" cellspacing="0" id="tblTopPromotion"><tbody><tr><td><a href="/htmls/help/faq.asp#q13"><img id="imgShopWithConfidence" src="/images/TopPromotion/shop-with-confidence.gif" width="350" height="30" alt="Shop with Confidence! 120% Low Price Guarantee and more"></a></td><td><img id="imgCallCenterHours" src="/images/TopPromotion/1top-bar_02_p.gif" width="442" height="30" alt=""></td></tr></tbody></table><script language="javascript">var strNavBarBackgroundImage = (m_IsPro == 'True')?'navsprites-pros.gif':'navsprites.gif';</script>
 	 <!-- end navigation bar-->
 
   <br>
@@ -714,34 +732,34 @@
               <a name="privacy" id="privacy"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a>
               <table width="100%" border="0" cellspacing="5" cellpadding="0">
                 <tbody><tr>
-                  <td><h3>Lamps Plus Privacy Policy</h3></td>
+                  <td><h3>Our Privacy Policy</h3></td>
                 </tr>
                 <tr>
                   <td><blockquote>
 						<p>
-							You can visit most of the pages on LAMPS PLUS without ever telling us who you are, as we do not ask users to register or establish an account with us in order to browse our site. We may track the Internet domain address from which people visit us and look at this data for user trends and statistics, but individual site visitors remain anonymous, unless, at some point, you tell us who you are. 
+							You can visit most of the pages on LAMPS PLUS without ever telling us who you are, as we do not ask users to register or establish an account with us in order to browse our site. We may track the Internet domain address from which people visit us and look at this data for user trends and statistics, but individual site visitors remain anonymous, unless, at some point, you tell us who you are.
 							<br><br>
-							However, when you use our online services like joining our e-mail list, saving viewed products in an online portfolio, leaving a product review, entering a sweepstakes, or purchasing a product from us online, you agree to tell us something about yourself. 
+							However, when you use our online services like joining LAMPS PLUS Rewards or our e-mail list, saving viewed products in an online portfolio, leaving a product review, entering a sweepstakes, or purchasing a product from us online, you agree to tell us something about yourself.
 							<br><br>
-							When you join our e-mail list, enter a sweepstakes or use online services such as Projects and Portfolio, you are asked for your e-mail address, name and zip code. When placing an order on our site, we ask you for contact information like name and shipping address, and payment information like credit card number, expiration date, and customer card identification number. Without providing information like this you will be unable to order products on our site or use certain online services. 
+							When you join LAMPS PLUS Rewards or our e-mail list, enter a sweepstakes, or use online services such as Projects and Portfolio, you are asked for your e-mail address, name and zip code. You may also be asked for a street address and other information. When placing an order on our site, we ask you for contact information like name and shipping address, and payment information like credit card number, expiration date, and customer card identification number. Without providing information like this you will be unable to order products on our site or use certain online services.
 							<br><br>
-							We use the personal information that you provide about yourself for a number of internal purposes, such as confirming your order and maintaining a record of your online product purchases. We may also use your personal information to contact you if we have trouble processing your order. 
+							We use the personal information that you provide about yourself for a number of internal purposes, such as confirming your order and maintaining a record of your online product purchases. We also use your personal information to provide you with certain benefits if you enroll in our LAMPS PLUS Rewards program, and to send you catalogs and information about special promotions. In addition, we may use your personal information to contact you if we have trouble processing your order.
 							<br><br>
-							We also may combine the information you give us online, in our stores or through our catalogs, including personal information about you and your order. We use that combined information to enhance and personalize your online shopping experience with us, to communicate with you both on and offline about our products and events that may be of interest to you. 
+							We also may combine the information you give us online, in our stores, or through our catalogs, including personal information about you and your order. We use that combined information to enhance and personalize your online shopping experience with us, to communicate with you both on and offline about our products and events that may be of interest to you.
 							<br><br>
-							We do not sell, rent or share e-mail addresses with any third parties, and the credit card information you share with us is always safe and secure. However, other information about you may be combined with publicly available information, as well as information we receive from a reputable company we have selected to analyze the data we collect. 
+							We do not sell, rent or share e-mail addresses with any third parties except select business partners. We do not share the credit card information you provide to us with anyone other than your credit card provider. However, other information about you may be combined with publicly available information, as well as information we receive from reputable companies we have selected to analyze the data we collect.
 							<br><br>
-							We also maintain relationships with select business partners whom we have deemed to be trustworthy and responsible and whose privacy policies are aligned with ours. We may share or cross-reference information, including personal information about you and your order with such companies or persons, allowing them to contact you regarding products and/or services that may be of interest to you. 
+							We maintain relationships with select business partners whom we have deemed to be trustworthy and responsible and whose privacy policies are aligned with ours. We may share or cross-reference information, including personal information about you and your order, with our business partners, allowing them to contact you regarding products and/or services that may be of interest to you.
 							<br><br>
-							In addition, when we join with another company to offer or provide services, products, sweepstakes, contests or promotions, we and the other company may cross-reference our customer databases to identify common customers. We and the other company may use that existing information to identify future promotional opportunities and to fulfill promotional or contractual obligations. 
+							In addition, when we join with another company to offer or provide services, products, sweepstakes, contests, or promotions, we and the other company may cross-reference our customer databases to identify common customers. We and the other company may use that existing information to identify future promotional opportunities and to fulfill promotional or contractual obligations.
 							<br><br>
-							When we offer contests and promotions, or join with other companies to do so, customers who choose to participate in those contests and promotions may be asked to provide personal information to participate. That information may then be used by us and any company offering the contest or promotion to notify winners or to fulfill promotional obligations. 
+							When we offer contests and promotions, or join with other companies to do so, customers who choose to participate in those contests and promotions may be asked to provide personal information to participate. That information may then be used by us and any company offering the contest or promotion to notify winners or to fulfill promotional obligations.
 							<br><br>
 							When you leave a product review on our site, the information you provide about yourself, including your e-mail address, is collected for us by a third party vendor. Customer comments are reviewed both by our third party vendor and by LAMPS PLUS. Any personal information collected in the product review process, including e-mail addresses, is covered by our LAMPS PLUS privacy policy as outlined here and by our Terms of Use policy. Reviews are posted on LampsPlus.com at our discretion. When a product review is submitted on this web site, you grant LAMPS PLUS and its affiliates a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media.
 							<br><br>
-							This policy covers information collected on visitors to the LampsPlus.com site through the process of ordering products, joining our e-mail lists, submitting product reviews and using our online services, as well as information collected through LAMPS PLUS retail stores. 
+							This policy covers information collected on visitors to the LampsPlus.com site through the process of ordering products, joining our e-mail lists, submitting product reviews and using our online services, as well as information collected through LAMPS PLUS retail stores.
 							<br><br>
-							If you prefer that we do not share your name and address with other marketers, please email us at customerservice@LampsPlus.com. We do reserve the right to disclose your personal information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities that may be causing injury to you, LAMPS PLUS or to others. We may also disclose personal information when we believe the law requires it.
+							If you prefer that we do not share your name and address with other marketers, please email us at customerservice@LampsPlus.com. We do reserve the right to disclose your personal information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities that may be causing injury to you, LAMPS PLUS, or to others. We may also disclose personal information when we believe the law requires it.
 						</p>
                   </blockquote>
                   </td>
@@ -770,12 +788,7 @@
               </tr>
              <tr>
                  <td><blockquote>
-                    <p>At LAMPS PLUS, we understand your concerns about security and privacy. 
-                    We protect the sensitive information you give us, such as credit card numbers, 
-                    by using Secure Sockets Layer (SSL) software, which encrypts the information you share with us. 
-                    This process makes it statistically much safer to shop with us than to use your card in a 
-                    restaurant or store. This encryption applies to users viewing our site using Microsoft Internet 
-                    Explorer 3.0 or higher, Netscape Navigator 2.0 or higher, or America Online 3.0 or higher.</p>
+                    <p>At LAMPS PLUS, we understand your concerns about security and privacy. We protect the sensitive information you give us, such as credit card numbers, by using Secure Sockets Layer (SSL) software, which encrypts the information you share with us. This process makes it statistically much safer to shop with us than to use your card in a restaurant or store. This encryption applies to users viewing our site using Microsoft Internet Explorer 3.0 or higher, Netscape Navigator 2.0 or higher, or America Online 3.0 or higher.</p>
                   </blockquote>
                 </td>
               </tr>
@@ -790,8 +803,8 @@
               <tr>
                 <td><blockquote>
                     <p>
-						LAMPS PLUS offers a "Safe Shopping Guarantee." If a third party obtains your personal information from a purchase made with LAMPS PLUS and uses that information to perpetrate credit card fraud, you are protected. Under the <strong>Fair Credit Billing Act</strong>, your bank may hold you liable for up to $50 of fraudulent charges. If your bank holds you liable for any portion of the $50, LAMPS PLUS will cover up to the entire $50. 
-						<br><br>LAMPS PLUS will cover this liability if the unauthorized use resulted through no fault of yours from a purchase made on the LAMPS PLUS secure server. In the event of unauthorized use of your credit card, you must notify your credit card company in accordance with its reporting rules and procedures. 
+						LAMPS PLUS offers a "Safe Shopping Guarantee." If a third party obtains your personal information from a purchase made with LAMPS PLUS and uses that information to perpetrate credit card fraud, you are protected. Under the <strong>Fair Credit Billing Act</strong>, your bank may hold you liable for up to $50 of fraudulent charges. If your bank holds you liable for any portion of the $50, LAMPS PLUS will cover up to the entire $50.
+						<br><br>LAMPS PLUS will cover this liability if the unauthorized use resulted through no fault of yours from a purchase made on the LAMPS PLUS secure server. In the event of unauthorized use of your credit card, you must notify your credit card company in accordance with its reporting rules and procedures.
                     </p>
                   </blockquote>
                 </td>
@@ -805,9 +818,8 @@
                 </tr>
                 <tr>
                   <td><blockquote>
-                      <p>Like many other online retailers, LAMPS PLUS uses a technology called "cookies". A cookie is a small bit of data that is sent to your browser and stored on your computer's hard drive that we use to help us retrieve data you may have stored with us. For example, in our sections "My Portfolio" and "Projects", we use cookies to help us retrieve the lighting products that you have saved in these areas. The 
-						"Help" portion on the toolbar of most browsers will tell you how to delete your computer's cookies or how to prevent your browser from accepting new cookies. However, cookies allow you to take full advantage of the LAMPS PLUS website, and we recommend that you leave the feature turned on.
-						<br><br>LAMPS PLUS may occasionally use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous and is not relatable to you. These third parties are prohibited by our contract with them from sharing that information with anyone other than us or our advertising service providers. However, LAMPS PLUS respects your privacy and your right to choose whether to be included in such services. If you would like more information or would like to learn about your ability to opt-out of this type of practice, please visit the Network Advertising Initiative by clicking here. If you choose to opt-out, an "opt-out cookie" will be placed on your computer. If the cookie is removed or deleted, if you upgrade your browser or if you visit us from a different computer, you will need to return to the link above to re-select your preferences. 
+                      <p>Like many other online retailers, LAMPS PLUS uses a technology called "cookies". A cookie is a small bit of data that is sent to your browser and stored on your computer's hard drive that we use to help us retrieve data you may have stored with us. For example, in our sections "My Portfolio" and "Projects", we use cookies to help us retrieve the lighting products that you have saved in these areas. The "Help" portion on the toolbar of most browsers will tell you how to delete your computer's cookies or how to prevent your browser from accepting new cookies. However, cookies allow you to take full advantage of the LAMPS PLUS website, and we recommend that you leave the feature turned on.
+						<br><br>LAMPS PLUS may occasionally use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous and is not relatable to you. These third parties are prohibited by our contract with them from sharing that information with anyone other than us or our advertising service providers. However, LAMPS PLUS respects your privacy and your right to choose whether to be included in such services. If you would like more information or would like to learn about your ability to opt-out of this type of practice, please visit the Network Advertising Initiative by clicking <a href="http://www.networkadvertising.org" target="new">here</a>. If you choose to opt-out, an "opt-out cookie" will be placed on your computer. If the cookie is removed or deleted, if you upgrade your browser or if you visit us from a different computer, you will need to return to the link above to re-select your preferences.
                     </p>
                     </blockquote>
                   </td>
@@ -821,7 +833,7 @@
                 </tr>
                 <tr>
                   <td><blockquote>
-                      <p>If you've joined our e-mail list, you may opt-out of it at any time. Please visit the <a href="http://www.lampsplus.com/secure/EMAIL/index.aspx">LAMPS PLUS E-Mail page</a> and follow the on-screen directions, or you may call 1-800-782-1967. Opt-out instructions are also included with each piece of LAMPS PLUS e-mail. If you opt-out, your address will be removed from our mailing list within 48 hours and you will receive no mailings from us in the future.
+                      <p>If you've joined our e-mail list, you may opt-out of it at any time. Please visit the <a href="http://www.lampsplus.com/secure/EMAIL/index.aspx">LAMPS PLUS E-Mail page</a> and follow the on-screen directions, or you may call 1-800-782-1967. Opt-out instructions are also included with each piece of LAMPS PLUS e-mail. If you opt-out, your address will be removed from our mailing list within 48 hours and you will receive no mailings from us in the future.                      
 						<br><br>If you choose to remove your e-mail address from our mailing list, LAMPS PLUS, in compliance with the CAN-SPAM legislation, may occasionally supply a list of removed e-mail addresses to our advertising partners. This is done to ensure that those e-mail addresses do not receive new advertising offers from us through our advertising partners.
 						</p>
                     </blockquote>
@@ -837,7 +849,7 @@
                 <tr>
                   <td><blockquote>
                       <p>
-                      If you purchase something from us, we may occasionally send you a printed catalog through the mail. If you prefer not to receive our catalog, cancel at any time by e-mailing us at <a href="mailto:catalogservice@LampsPlus.com">catalogservice@LampsPlus.com</a> with "remove" as the subject line and your name and address in the body of the message, or you may call 1-800-782-1967. Your name will be removed from our mailing list within two weeks of your request. Due to the nature of catalog mailing preparation, however, you may receive mailed catalogs up to 90 days after your request.
+                      If you purchase something from us, we may occasionally send you a printed catalog through the mail. If you prefer not to receive our catalog, cancel at any time by e-mailing us at <a href="mailto:catalogservice@LampsPlus.com">catalogservice@LampsPlus.com</a> with "remove" as the subject line and your name and address in the body of the message, or you may call 1-800-782-1967. Your name will be removed from our mailing list within two weeks of your request. Due to the nature of catalog mailing preparation, however, you may receive mailed catalogs up to 90 days after your request.                      
                       </p>
                     </blockquote>
                   </td>
@@ -854,7 +866,7 @@
                 </tr>
                 <tr>
                   <td><blockquote>
-                      <p>We take special care to protect the safety and privacy of children. Our site is for general audiences and we do not permit children under the age of 18 to purchase products. If you are under 18 you may purchase from LampsPlus.com only with the involvement of a parent or guardian. </p>
+                      <p>We take special care to protect the safety and privacy of children. Our site is for general audiences and we do not permit children under the age of 18 to purchase products. If you are under 18 you may purchase from LampsPlus.com only with the involvement of a parent or guardian.</p>
                     </blockquote>
                   </td>
                 </tr>
@@ -878,7 +890,7 @@
                 </tr>
                 <tr>
                   <td><blockquote>
-                      <p>If we decide to change our policy in whole or in part, we will inform you by posting a notice on our web site. The new policy will apply to all current and past users of our web site and will replace any prior policies. This policy was posted in May of 2007 and updated in August of 2007.</p>
+                      <p>If we decide to change our policy in whole or in part, we will inform you by posting a notice on our web site. The new policy will apply to all current and past users of our web site and will replace any prior policies. This policy was posted in May of 2007 and updated in July of 2008.</p>
                     </blockquote>
                   </td>
                 </tr>
@@ -897,6 +909,7 @@
 
   <img src="/images/spacer.gif" width="1" height="15">
 
+<link href="/styles/footer.css" rel="stylesheet" type="text/css">
 <script language="javascript" src="/js/checkform.js"></script>
 <script language="javascript">
 	var strButtonID;
@@ -920,7 +933,9 @@
 				return false;
 			}
 			//  need to redirect
+			//document.frmFooter.action = "https://secure.lampsplus.com/secure/email/index.aspx";
 			document.frmFooter.action = "https://secure.lampsplus.com/secure/email/index.aspx";
+			
 			return true;
 		}
 		if(strButtonID == "catalog")
@@ -949,130 +964,109 @@
 		}
 	}
 	
-	
-	function footerPopupBML()
-	{
-		window.open("https:\/\/www.securecheckout.billmelater.com/paycapture-content/fetch?hash=WNT29AU4&content=/bmlweb/np90d0108iw.html","bml","toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,left=100,top=10,width=540,height=700");
-	}	
-	
-	function footerPopupBML_Regular()
-	{
-		window.open("https:\/\/www.securecheckout.billmelater.com/paycapture-content/fetch?hash=WNT29AU4&content=/bmlweb/coreiw.html","bml","toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,left=100,top=10,width=540,height=700");
-	}
+
 	
 	
 </script>
 <script language="javascript" src="/js/framebreaker.js"></script>
-
-<div align="center">
-		<table width="760" border="0" cellpadding="0" cellspacing="5" id="footer">
-			</table><table width="760" border="0" cellpadding="0" cellspacing="5" id="footer">
-					<tbody><tr valign="top"><form method="post" name="frmFooter" id="frmFooter" onsubmit="return submitForms(this);"></form>
-						<td width="224" class="footerblock">
-							<h3>Service and Information
-							</h3>
-							<p><strong><a href="https://secure.lampsplus.com/secure/contact-us/callback1.asp" rel="nofollow">Contact Us or call 1-800-782-1967</a></strong></p>
-							<ul>
-								<li>
-									<a href="http://www.lampsplus.com/htmls/ordertrack/index.aspx" rel="nofollow"><strong>Check Your Order Status</strong></a></li>
-								<li>
-									<a href="http://www.lampsplus.com/htmls/about/index.aspx" rel="nofollow"><strong>About LAMPS PLUS</strong></a></li>
-								<li>
-									<a href="http://www.lampsplus.com/htmls/6d-1careerops/careerops.asp" rel="nofollow"><strong>Employment Opportunities</strong></a></li>
-							
-								<li>
-									<a href="http://www.lampsplus.com/htmls/help/help.asp" rel="nofollow">Site Help, Policies and FAQ</a></li>
-								<li>
-									<a href="http://www.lampsplus.com/secure/contact-us/specialquote2.asp" rel="nofollow">Special Quotes</a></li>
-								<li>
-									<a href="http://www.lampsplus.com/affiliate/htmls/affiliate_default.asp" rel="nofollow">Affiliate Program</a></li>
-								<li>
-									<a href="http://www.lampsplus.com/SiteMap.aspx">Site Map</a></li>
-								<li><a href="http://blog.lampsplus.com"><b class="red">New!</b> LightPost Blog</a></li>
-							</ul>
-						</td>
-						<td width="372" class="footerblock">
-							<h3>Promotions and Catalogs!</h3>
-							<p><strong>Be The First To Hear About Great Deals and Special Offers:</strong><br>
-								<input name="txtGetEmailUpdates" type="text" value="Enter Your E-mail Address" size="50" id="txtGetEmailUpdates" onfocus="txtGetEmailUpdates.value='';strButtonID='email'" maxlength="50">
-								&nbsp;<input type="image" src="/images/homepage/go-button.gif" alt="Go" align="center" name="btnEmailSbmt" value="Go" id="btnEmailSbmt" onfocus="strButtonID='email'"></p>
-							<p><a href="http://www.lampsplus.com/secure/EMAIL/index.aspx" rel="nofollow">Change Your E-mail Settings</a> | <a href="http://www.lampsplus.com/htmls/help/security.asp" rel="nofollow">
-									View our privacy policy</a></p>
-							<br>
-							<p><strong>Order From Our Catalog With Quick Shop:</strong><br>
-								<input name="txtQuickShop" type="text" value="Enter a catalog item #" size="24" id="txtQuickShop" onfocus="txtQuickShop.value = '';strButtonID='catalog'" maxlength="23">
-								<input type="image" src="/images/homepage/go-button.gif" alt="Go" align="top" name="catalog" value="Go" id="catalog" onfocus="strButtonID='catalog'">
-							</p>
-							<input name="quickShop" id="quickShop" type="hidden">
-							<p><a href="http://www.lampsplus.com/secure/catalog/requestcatalog.aspx" rel="nofollow">Request a Catalog</a> | <a href="http://lampsplus.shoplocal.com/lampsplus/new_user_entry.asp?adref=lpsitefooter" rel="nofollow">
-									Browse Our Catalog Online!</a></p>
-						</td>
-						<td width="144" align="center" class="footerend">
-							
-								<!-- START SCANALERT CODE -->
-								<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.lampsplus.com" rel="nofollow">
-									<p align="center"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/survey/www.lampsplus.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></p>
+<div align="center" id="divFrmFooter">
+		
+		<form method="post" name="frmFooter" id="frmFooter" onsubmit="return submitForms(this);">
+		<table id="tblFooter" align="center" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+    				<td>
+        				<div id="divFooterBar">
+							<div class="divFooterBarEntry">
+								<a href="http://blog.lampsplus.com/">
+									<img src="/images/homepage1/lightpost.gif" width="87" height="27" alt="LightPost">
+									Check out our Lighting &amp; Decor Blog!
 								</a>
-								<!-- END SCANALERT CODE -->
-							
-								<p align="center">
-									<script src="https://seal.verisign.com/getseal?host_name=www.lampsplus.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
-								</p>
-						
-							<p align="center"><a href="http://www.bbbonline.org/cks.asp?id=1040922933945102" target="_blank" rel="nofollow"><img src="/images/Footer/ReliabilitySeal.gif" alt="BBB Online Reliability Program" border="0"></a></p>
-							
-						</td>
-					</tr>
-				
-				
-					<tr>
-						<td colspan="3" align="center" style="border-top: 2px solid #CCC"><div align="center"><a href="javascript:footerPopupBML_Regular();"><img src="/images/homepage/bill-me-later-regular.gif" alt="Bill Me Later - Buy Fast. Feel Secure. Pay Later - Subject to credit approval" border="0" style="margin-top:6px"></a></div>
-						</td>
-					</tr>
-				
-				</tbody></table>
-				<table id="copyright" width="760" border="0" cellpadding="2">
-					<tbody><tr>
-						<td class="disclaimer" align="left">©<a href="http://www.lampsplus.com/htmls/TermsOfUse.aspx">2008
-								LAMPS PLUS, Inc. All rights reserved</a></td>
-						<td align="right" class="disclaimer"><a href="http://www.lampsplus.com/">LAMPS PLUS - America's Lighting 
-								Superstore®</a></td>
-					</tr>
-				</tbody></table>
-				
-							<!-- Start Google Analytics -->
-								<script type="text/javascript"> 
-									var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
-									document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); 
-								</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
-								<script type="text/javascript"> 
-									var pageTracker = _gat._getTracker("UA-1043949-1"); 
-									pageTracker._setCookieTimeout(10368000);
-									pageTracker._initData(); 
-									pageTracker._trackPageview(); 
-								</script>
-							<!-- End Google Analytics -->
-							
-				
-					<img src="http://ad.doubleclick.net/activity;src=1328575;dcnet=1328575;boom=6606;sz=1x1;ord=1?" width="1" height="1" border="0"> 
-			
+							</div>
+							<div class="divFooterBarEntry">
+								<a href="http://www.lampsplus.com/htmls/lightingtips/LightingTips_Seminars.aspx">
+									<img src="/images/homepage1/tips-and-trends.gif" width="66" height="27" alt="Tips And Trends">
+									Add inspiration to your next project!
+								</a>
+							</div>
+							<div class="divFooterBarEntry2 divFooterBarEntry">
+								<a href="http://www.lampsplus.com/htmls/professionalsonline/">
+									<img src="/images/homepage1/lamps-plus-professionals.gif" width="98" height="27" alt="Lamps Plus Professionals">
+									Free Membership For Trade Professionals!
+								</a>
+							</div>
+						</div><br>
+						<div class="divFooterList">
+							<h1>Service And Information</h1>
+							<ul>
+								<li><a href="http://www.lampsplus.com/htmls/ordertrack/index.aspx" rel="nofollow">Order Status</a></li>
+								<li><a href="https://secure.lampsplus.com//secure/contact-us/callback1.asp" rel="nofollow">Contact Us</a></li>
+								<li><a href="http://www.lampsplus.com/htmls/help/help.asp" rel="nofollow">Help, Policies &amp; FAQ</a></li>
+								<li><a href="http://www.lampsplus.com/htmls/about/index.aspx" rel="nofollow">About Us</a></li>
+							</ul>
+						</div>
+						<div class="divFooterList">
+							<h1>Lamps Plus Programs</h1>
+							<ul>
+								<li><a href="http://www.lampsplus.com/affiliate/htmls/affiliate_default.asp" rel="nofollow">Affiliate Program</a></li>
+								<li><a href="https://secure.lampsplus.com//secure/contact-us/specialquote2.asp" rel="nofollow">Special Quotes</a></li>
+								<li><a href="http://www.lampsplus.com/Installation/default.asp" rel="nofollow">Installation Services</a></li>
+								<li><a href="http://www.lampsplus.com/careers/default.aspx" rel="nofollow">Employment</a></li>
+							</ul>
+						</div>
+						<div class="divFooterList2 divFooterList">
+							<h1>Catalogs And Promotions</h1>
+							<ul>
+								<li><a href="https://secure.lampsplus.com//secure/catalog/requestcatalog.aspx" rel="nofollow">View or Request Catalog</a></li>
+								<li><a href="http://www.lampsplus.com/catalog/quickShop.aspx" rel="nofollow">Catalog Quick Shop</a></li>
+								<li><a href="https://secure.lampsplus.com//lampsplus-coupons/index.asp" rel="nofollow">Store Coupons &amp; Offers</a></li>
+								<li><a href="https://secure.lampsplus.com//secure/customers/newhomeowner.asp" rel="nofollow">New Homeowner Savings</a></li>
+							</ul>
+						</div><br class="clear"><br>
+						<div class="divFooterSep"></div><br>
+						<table id="tblCusConf" cellpadding="0" cellspacing="0" width="100%">
+							<tbody><tr>
+								<td>
+									
+										<!-- START SCANALERT CODE -->
+										<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.lampsplus.com" rel="nofollow">
+											<p align="center"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/survey/www.lampsplus.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></p>
+										</a>
+										<!-- END SCANALERT CODE -->
+									
+								</td>
+								<td><script src="https://seal.verisign.com/getseal?host_name=www.lampsplus.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></td>
+								<td><a href="http://www.bbbonline.org/cks.asp?id=1040922933945102" target="_blank" rel="nofollow"><img id="imgBBB" src="/images/Footer/ReliabilitySeal.gif" alt="BBB Online Reliability Program" border="0"></a></td>
+								<td>
+									<div id="divEmailSignUp">
+										<h1>Get Updates And Special Offers</h1><br>
+										
+											<input name="txtGetEmailUpdates" id="txtGetEmailUpdates" class="inpEmailSignUpTxt" type="text" onfocus="strButtonID='email'" maxlength="50">
+											<input type="image" class="inpEmailSignUpBtn" src="/images/homepage/go-button.gif" alt="Go" align="center" name="btnEmailSbmt" value="Go" id="btnEmailSbmt" onfocus="strButtonID='email'"><br class="clear"><br class="px3">
+										
+										<a href="https://https://secure.lampsplus.com//secure/email/index.aspx" rel="nofollow">Change E-mail Settings</a> | <a href="http://http://www.lampsplus.com/htmls/help/security.asp" rel="nofollow">Privacy Policy</a>
+									</div>
+								</td>
+							</tr>
+						</tbody></table>
+						<br class="clear"><br>
+						<div class="divFooterSep"><img src="/images/spacer.gif" width="1" height="1"></div><img src="/images/spacer.gif" width="1" height="2"><div class="divFooterSep"><img src="/images/spacer.gif" width="1" height="1"></div>
+						<div id="divFooterCopy">
+							© 2008LAMPS PLUS, Inc. All rights reserved. 
+							<a href="http://www.lampsplus.com/htmls/TermsOfUse.aspx" rel="nofollow">Terms of Use</a> | <a href="http://www.lampsplus.com/SiteMap.aspx">Site Map</a>
+						</div>
+						<div id="divFooterLP">
+							<a href="http://www.lampsplus.com/">LAMPS PLUS - America's Lighting Superstore®</a>
+						</div>
+					</td>
+				</tr>
+</tbody></table>
 					
 
-							
-							<!-- begin AOL Retargeting Pixels --> 
-								<script language="JavaScript" type="text/javascript"> 
-								ord=Math.random()*10000000000000000; 
-								document.write('<img src="http://twx.doubleclick.net/activity;src=1087654;dcnet=3698;boom=8309;sz=1x1;ord='+ ord +'?"width="1" height="1" border="0" alt="">'); 
-								</script><img src="http://twx.doubleclick.net/activity;src=1087654;dcnet=3698;boom=8309;sz=1x1;ord=4928740372146556?" width="1" height="1" border="0" alt=""> 
-							<!-- end AOL Retargeting Pixels --> 
-							
-					
-					
-				
 
-	</div>
-
-
+		<img src="http://ad.doubleclick.net/activity;src=1328575;dcnet=1328575;boom=6606;sz=1x1;ord=1?" width="1" height="1" border="0"> 
+		<script type="text/javascript" src="/fsrscripts/triggerParams.js"></script> 
+		<script type="text/javascript" src="/fsrscripts/stdLauncher.js"></script>
+	
 	
 		
 		<!-- BEGIN COREMETRICS SUPPORT -->
@@ -1081,7 +1075,7 @@
 		<script language="javascript1.1" type="text/javascript">
 		<!--
 		cmSetProduction();
-		cmCreateDefaultPageviewTag("227");
+		cmCreateDefaultPageviewTag("");
 		//-->
 		</script>
 		<!-- END COREMETRICS -->
@@ -1090,4 +1084,4 @@
 		
 
 
-</body></html>
+</form></div></body></html>
