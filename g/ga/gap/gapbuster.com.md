@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gapbuster.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509075804id_/http%3A//www.gapbuster.com/en-us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapbuster.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112916id_/http%3A//www.gapbuster.com/en-us/privacy.asp) for the most accurate reproduction.*
 
-# Mystery Shopping Company - Part Time Jobs as Secret Shoppers conducting Mystery Shopping | GAPbuster Worldwide
-
-**Privacy Statement**
+# Privacy Statement, Customer Service Evaluation, Customer Experience Management, Secret Shopper - GAPbuster Worldwide
 
 **Disclaimer**  
 While GAPbuster Worldwide has endeavoured to insure that all information provided on GAPbuster Worldwide Internet websites is accurate and up to date, GAPbuster Worldwide takes no responsibility for any error or omission relating to this information. To the maximum extent permitted by law, GAPbuster Worldwide will not be liable for any cost, loss or damage suffered by you through your use of GAPbuster Worldwide Internet websites or GAPbuster Worldwide's failure to provide access to these Internet websites or information updates. 
@@ -20,7 +18,7 @@ GAPbuster Worldwide also uses this information in order to provide you with a pe
 
 Other than stated in the preceding, no attempt is made to identify users or their browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect logs, or where GAPbuster Worldwide believes it is required to collect and produce relevant electronic documentation to fulfil its obligations to third parties, including statutory organizations under local law.
 
-GAPbuster Worldwide endeavours to use and disclose your personal information only in limited circumstances. GAPbuster Worldwide will do so if it is necessary to protect any copyright or intellectual property in the material in the website, or if it is necessary to enforce the GAPbuster website Terms and Conditions of Use.
+GAPbuster Worldwide endeavours to use and disclose your personal information only in limited circumstances. GAPbuster Worldwide will do so if it is necessary to protect any copyright or inT:lectual property in the material in the website, or if it is necessary to enforce the GAPbuster website Terms and Conditions of Use.
 
 **Cookies**  
 A cookie is a small data file that a website may write to your hard drive when you visit them. A cookie file can contain information, such as a userID, that the website uses to track the pages you have visited. The only personal information a cookie can contain is information you personally supply. A cookie cannot read data off your hard disk or read cookie files created by other websites.
