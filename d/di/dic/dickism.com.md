@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dickism.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517020834id_/http%3A//www.dickism.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickism.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217132743id_/http%3A//www.dickism.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Dickism | Celebrity gossip, rumors, scandals, big pictures and videos
+# Privacy | Dickism | The Guys Guide To Celebrity Gossip
+
+Thursday February 8 2007 
 
 **Dickism** is committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information.
 
@@ -22,3 +24,5 @@ Beware of scams in which persons unknown to you request your screen name, passwo
 
 None Found 
 
+
+Posted in [Rachel Hunter](http://www.dickism.com/category/rachel-hunter/ "View all posts in Rachel Hunter")  | 
