@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hollywood-elsewhere.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611052222id_/http%3A//www.hollywood-elsewhere.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywood-elsewhere.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161809id_/http%3A//www.hollywood-elsewhere.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Home :: Hollywood Elsewhere
+
+[](http://clk.atdmt.com/MDS/go/119823589/direct/01/)
 
 ## Privacy Policy
 
