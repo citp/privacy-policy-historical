@@ -1,20 +1,134 @@
-<!--The following is the downloaded HTML source of the autonews.com privacy policy that was archived on 2008-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080612083926id_/http%3A//www.autonews.com/article/20051012/STATIC/310120002) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autonews.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217103631id_/http%3A//www.autonews.com/article/20051012/STATIC/310120002) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!--AUTOMOTIVE NEWS HOME INDEX TEMPLATE v1.1-->
+<title>Automotive News -- In-depth coverage of the automotive industry with special features for subscribers</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=7">
 <meta name="verify-v1" content="GmhJx8SIVhA1p2W/znJ+GAv4KyjSJQEFjd0ypxsHhcY=">
 <meta name="y_key" content="b309030fed32c7b0">
 <meta name="Description" content="Automotive News -- In-depth coverage of the automotive industry with special features for subscribers">
 <meta name="Keywords" content="">
 
 
-<title>Automotive News -- In-depth coverage of the automotive industry with special features for subscribers</title>
+	<style>
+	.plbox { border: solid darkblue 1px; width: 170px; background-color: #ddd; color: #003768; }
+	.pl_interior { font-size: 10px; font-family: verdana; color: #003768; }
+	.pl_interior a visited { font-size: 10px; font-family: verdana; color: #003768; }		
+	.pl_welcome { font-weight: bold; }
+	.pl_myautonews { font-weight: bold; }
+	</style>
 <link rel="shortcut icon" type="image/ico" href="http://www.autonews.com/favicon.ico">
-<!--JAVASCRIPT-->
-<script type="text/javascript" src="/assets/scripts/menu.js"></script>
+
+<!--PLUCK JAVASCRIPT-->
+<script>
+document.domain = "autonews.com";
+var daapiProcessUrl = "http://sitelife.autonews.com/ver1.0/Direct/Process";
+</script>
+
+	 <script src="http://sitelife.autonews.com/ver1.0/SiteLifeProxy"></script>
+	<script type="text/javascript" src="/config/ginsuMain.js"></script><script src="/config/ginsu.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" src="http://yui.yahooapis.com/2.5.1/build/yahoo/yahoo-min.js"></script>
+<script type="text/javascript" src="http://yui.yahooapis.com/2.5.1/build/json/json-min.js"></script>
+	<script type="text/javascript" src="http://sitelife.autonews.com/ver1.0/Direct/DirectProxy"></script>
+	<!-- load up the Nyx parts (and any other libraries) needed -->
+	<script type="text/javascript" src="/assets/pluck/nyxMain.js"></script>
+	<script type="text/javascript" src="/assets/pluck/nyxDisco.js"></script>
+
+ <script type="text/javascript">
+		function addArticlesToRequest(idArray, requestBatch) {
+			/* creates the DAAPI request for the featured articles;
+			 * pass in:
+			 * 		array of IDs 
+			 * 		optionally: an existing request batch (if not passed, one will be created)
+			 * 
+			 * DAAPI limits us to 20 items per batch, so that's the 
+			 * absolute maximum number of featured articles
+			 */
+			if (typeof requestBatch != "object") requestBatch = new RequestBatch();
+			//loop over the array and create the requests
+			for (var itemIdx = 0; itemIdx < idArray.length; itemIdx++) {
+				requestBatch.AddToRequest( new ArticleKey(idArray[itemIdx]) );
+			}
+			return requestBatch;
+		}
+		//callback manager
+		function daapiCallback(responseBatch) {
+			/* loops through the responses, finds the article keys, and if there's a target element
+			 * for the Nyx output, calls the DiscoWriter for that article
+			 */
+			var thisResponse, domTarget, respIdx;
+			//log the response -- for whatever reason (some scope issue), we have to re-fix the Safari console on async callbacks
+			//NYX.fixConsole();
+			//console.dir(responseBatch);
+			/* now we loop over the responses, find a matching DIV per our naming convention,
+			 * and call the gadget each time with only one article (unlike other uses of DiscoWriter)
+			 * 
+			 * we have to fake the object expected by Nyx.DiscoWriter 
+			 * -- it expects a DiscoveredContent array, so we put our one article inside an array literal
+			 */
+			for (respIdx = 0; respIdx < responseBatch.Responses.length; respIdx++) {
+				var thisResponse = responseBatch.Responses[respIdx];
+				if (typeof thisResponse.Article == "object") {
+					thisResponse = thisResponse.Article;
+					domTarget = document.getElementById("nyx_" + thisResponse.ArticleKey.Key + "_output");
+					if (domTarget != null) {
+						myGadget.idRoot = "nyx_" + thisResponse.ArticleKey.Key;
+						myGadget.writeGui([thisResponse]);
+					}
+				}
+			}
+		}
+		//instantiate the gadget and set any parameters we want
+		var myGadget = new NYX.DiscoWriter();	//unlike other instantiations, we leave the idRoot undefined... it will be set later
+		myGadget.discoLimit = 6;
+		myGadget.unnamedSection = "none";
+			/*
+		 * The Nyx gadget allows us to override some methods that are called during the gui-writing process,
+		 * so let's say we want to replace a 0-comments situation with by hiding the whole part of the result
+		 * that shows the comment count; because of our cleverness in the template HTML, we
+		 * can just do a search-and-replace to add a style attribute that hides the element
+		 * -- this code gets that done
+		 */
+			myGadget.customizeItem = function(dataObj, itemHtml, domElemThisWritesTo, itemIndex) {
+				//override this method as needed to add your own GUI customizations
+				//if no comments no need to show the count
+				if ( Math.abs(dataObj.NumberOfComments) < 1 ) 
+				{
+					//poll archive styling
+					if(itemHtml.indexOf("pollComments") > 0)
+					{
+						//var templateMarker = 'class="pollComments"';	
+						//itemHtml = itemHtml.replace(templateMarker, templateMarker + ' style="display: none !important"');
+						var templateMarker = /(class="?'?pollComments"?'?)/gi;
+						itemHtml = itemHtml.replace(templateMarker, '$1 style="display: none !important"');
+					}
+					else
+					{
+						//var templateMarker = 'class="comments"';	
+						//itemHtml = itemHtml.replace(templateMarker, templateMarker + ' style="display: none !important"');
+						var templateMarker = /(class="?'?comments"?'?)/gi;
+						itemHtml = itemHtml.replace(templateMarker, '$1 style="display: none !important"');
+					}
+				}
+				//if no recommendations no need to show the count
+				if ( Math.abs(dataObj.NumberOfRecommendations) < 1 ) {
+						var templateMarker = /(class="?'?recommend"?'?)/gi;
+						itemHtml = itemHtml.replace(templateMarker, '$1 style="display: none !important"');
+				}
+				//if no reviews no need to show the count
+				if ( Math.abs(dataObj.NumberOfRatings) < 1 ) {
+						var templateMarker = /(class="?'?rating"?'?)/gi;
+						itemHtml = itemHtml.replace(templateMarker, '$1 style="display: none !important"');
+				}
+				return itemHtml;
+			}
+		//instantiate article ids array for loading
+		var articleIds = [];                                 	
+		var fobArticleIds = [];
+		</script>
+	<!--END PLUCK JS-->
+<!--JAVASCRIPT--><script type="text/javascript" src="/assets/scripts/menu.js"></script>
 <script type="text/javascript" src="/assets/scripts/menu_active.js"></script>
 <script type="text/javascript" src="/assets/scripts/font_resize.js"></script>
 <script type="text/javascript" src="/assets/scripts/no_flicker.js"></script>
@@ -22,13 +136,9 @@
 <script type="text/javascript" src="/assets/scripts/SpryTabbedPanels.js"></script>
 <script type="text/javascript" src="/assets/scripts/next_story.js"></script>
 <script type="text/javascript" src="/assets/scripts/tabbed_panels_footer.js"></script>
-<script language="javascript" type="text/javascript">
-<!--
-document.domain = "castage.sv.publicus.com";
--->
-</script>
-<script type="text/javascript" language="javascript" src="http://sitelifestage.castage.sv.publicus.com/ver1.0/SiteLifeProxy"></script>
-<script type="text/javascript"><!--
+	
+	
+	<script type="text/javascript"><!--
 taxonomy = "GENERAL	FRONTPAGE" ;
 taxonomyArray = taxonomy.split("\t");
 nameCurrent = taxonomyArray[0];
@@ -77,6 +187,7 @@ var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
 var TabbedPanels2 = new Spry.Widget.TabbedPanels("TabbedPanels2");
 //-->
 </script>
+<!--END JAVASCRIPT-->
 <!--CSS-->
 <link href="/assets/styles/home.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" id="font_size">
@@ -90,6 +201,8 @@ var TabbedPanels2 = new Spry.Widget.TabbedPanels("TabbedPanels2");
 <![endif]-->
 <script language="JavaScript">
 //<!---->;
+//-->;
+//-->;
 <!--
 //configuration;
 //WORKING;
@@ -101,7 +214,7 @@ OAS_sitepage = 'www.autonews.com/oem/310120002';
 //; //thiS is the category;
 //;
 // LIST POS CONDITIONS;
-OAS_listpos = 'Top1,Bottom1,Right,Right1,Right2,Left1';
+OAS_listpos = 'Top1,Bottom1,Right,Right1,Right2,Right3,Left1';
 OAS_query = '';
 OAS_target = '_blank';
 //end of configuration
@@ -121,7 +234,7 @@ if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexO
 if (OAS_version >= 11)
   document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + '"><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://oascentral.autonews.com/RealMedia/ads/adstream_mjx.ads/www.autonews.com/oem/310120002/1403886768@Top1,Bottom1,Right,Right1,Right2,Left1?"></script>
+</script><script language="JavaScript1.1" src="http://oascentral.autonews.com/RealMedia/ads/adstream_mjx.ads/www.autonews.com/oem/310120002/1530027711@Top1,Bottom1,Right,Right1,Right2,Right3,Left1?"></script>
 <script language="JavaScript">
 <!--
 document.write('');
@@ -156,6 +269,8 @@ var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b
 var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-crain.hitbox.com";
 hbx.acct="DM520930DHRS10EN3";
 //;
+//;
+//;
 hbx.mlc='AN/oem/article';
 hbx.pn='310120002';
 hbx.pndef="title";
@@ -174,6 +289,9 @@ hbx.gpn="ANGP";
 <link href="/assets/styles/style_third.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+
+
+
 <script language="javascript" type="text/javascript">
 <!--
 noFlicker();
@@ -193,38 +311,60 @@ noFlicker();
 <!-- 
 OAS_RICH('Top1'); 
 //--> 
-</script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1403886768@Top1,Bottom1,Right,Right1,Right2,Left1!Top1?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1403886768@Top1,Bottom1,Right,Right1,Right2,Left1!Top1?" border="0"></a>
+</script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1530027711@Top1,Bottom1,Right,Right1,Right2,Right3,Left1!Top1?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1530027711@Top1,Bottom1,Right,Right1,Right2,Right3,Left1!Top1?" border="0"></a>
 		  
 		  </div>
-            <a href="/apps/pbcs.dll/frontpage"><img src="/assets/gif/automotive_news_masthead.gif" alt="Automotive News" width="526" height="52" align="left"></a>
+            <table cellspacing="5" cellpadding="0" align="left"><tbody><tr><td><a href="http://www.autonews.com"><img src="/assets/gif/an_masthead_475.gif" width="475" height="47" border="0" alt="Automotive News"></a></td></tr><tr><td align="center" valign="middle"><div style="padding:3px 3px 3px 3px;"></div><a href="http://www.nxtbook.com/nxtbooks/crain/an6994341078CTRDD/&#10;" target="_blank"><img src="/assets/gif/small_mast/digital_edition.gif" alt="Automotive News Digital Edition" height="15"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/section/ANE"><img src="/assets/gif/small_mast/ane.gif" alt="Automotive News Europe" height="15"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.autonewschina.com/" target="_blank"><img src="/assets/gif/small_mast/anchina.gif" alt="Automotive News China" height="15"></a></td></tr></tbody></table>
+
             <div class="promo">
 <ul>
-<script language="javascript" type="text/javascript">
-if (mycookieval==undefined || mycookieval==""){
-document.write('<li><a href="https://home.autonews.com/clickshare/cspLogin.do">');
-document.write('Log In &raquo;</a> | ');
-document.write('<a href="https://home.autonews.com/clickshare/updateAccount.do">');
-document.write('Register Now &raquo;</a></li>');
-} else {
-document.write('<li>Welcome ' + myfirst + '</li>');
-document.write('<li><a href="https://home.autonews.com/clickshare/updateAccount.do">');
-document.write('Change profile &raquo;</a></li>');
-}
-</script><li><a href="https://home.autonews.com/clickshare/cspLogin.do">Log In »</a> | <a href="https://home.autonews.com/clickshare/updateAccount.do">Register Now »</a></li>
-    <li><a href="https://home.autonews.com/clickshare/myhome.do">Sign Up For Email »</a></li>
-                <!--[if (gt IE 4)&(lt IE 8)]><li class="last"><a href="#homepage_script.js" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.autonews.com');">Make Us Your Home Page &raquo;</a></li><![endif]-->
-                <!--[if !IE]-->
-                <li class="last"><a href="javascript:var n=1" onclick="javascript:window.open('/assets/html/homepage.html','larger', 'width=345,height=520, left=200, top=200, scrollbars=yes,resizable=yes,status=yes,toolbar=no,menubar=no,location=no');">Make Us Your Home Page »</a></li>
-                <!--[endif]-->
-          </ul>
-          </div>
+          <li><a href="/article/20051012/STATIC/310120006">Subscriber Services</a></li>
+          <li><a href="/webinar">Webinars</a></li>
+          <li><a href="/article/20051012/STATIC/310110001">Media Kits</a></li>
+</ul>
+</div>
 </td>
-          <td class="right"><ul>
-              <li><a href="/section/ANE"><img src="/assets/gif/automotive_news_europe_masthead.gif" alt="Automotive News Europe" width="131" height="17"></a></li>
-              <li><a href="http://www.autonewschina.com/" target="_blank"><img src="/assets/gif/automotive_news_china_masthead.gif" alt="Automotive News China" width="153" height="14"></a></li>
-              <li><a href="http://www.autoweek.com/" target="_blank"><img src="/assets/gif/autoweek_masthead.gif" alt="AutoWeek"></a></li>
-              <li><a href="http://www.automobilwoche.de" target="_blank"><img src="/assets/gif/automobilwoche_masthead.gif" alt="Automobilwoche" width="115" height="20"></a> </li>
-              <li class="last"><a href="http://www.nxtbook.com/nxtbooks/crain/an2633182745NMBLP/&#10;" target="_blank"><img src="/assets/gif/digital_edition.gif" alt="Digital Edition" width="115"></a></li>
+          <td class="right"><ul><!-- load Ginsu -->
+	 <script type="text/javascript">
+		new GinsuInit("daapi currentUser");
+	</script><script src="http://sitelife.web.archive.org/ver1.0/Direct/DirectProxy.js" type="text/javascript" charset="utf-8"></script><script src="/config/personaTools.js" type="text/javascript" charset="utf-8"></script><script src="/config/currentUser.js" type="text/javascript" charset="utf-8"></script><link href="/config/currentUser.css" rel="stylesheet" type="text/css" charset="utf-8">
+<div class="plbox">
+<div class="pl_interior" style="padding: 10px 10px 10px 10px;"><br><br><br>
+
+<div id="ginsuCurrentUserModel_1" class="ginsuModel">
+<h1>{UserName}</h1>
+<blockquote>{Avatar}</blockquote>
+<!--{Anonymous:
+<h3><a href="LOGIN_URL">Log in</a> or <a href="REGISTER_URL">Register</a></h3>
+}-->
+		<h3>You have&nbsp;<br>{Messages}&nbsp;</h3>
+		<h3>{Options} | {LogOut}&nbsp;</h3>
+</div>
+<div id="statusbox">
+<ins id="ginsuCurrentUser_upper" class="ginsuCurrentUser"></ins>
+</div>
+<code id="codeContainer"></code>
+
+<!-- do the Ginsu action -->
+ <script type="text/javascript">
+var ginsuCurrentUser_upper = new GinsuCurrentUser("ginsuCurrentUser_upper", "ginsuCurrentUserModel_1");
+</script>
+<br><br>
+<script language="javascript" type="text/javascript">
+if (mycookieval==undefined || mycookieval==""){ } else {
+document.write('<span class="pl_myautonews"><A href="/myautonews">MyAutoNews</A></span><br /><span class="pl_myautonews"><A href="https://home.autonews.com/clickshare/myhome.do?">My Account</A></span>');
+}
+</script>
+<br>
+</div>
+</div><br>
+<table cellspacing="5" cellpadding="0" bgcolor="#f3f3f3">
+	<tbody><tr>
+		<td align="center">
+<span class="an_body1"><strong>Legend:</strong></span><br><span class="an_buy">[$]</span> <span class="an_body1">Premium content</span><br><span class="an_sub">[SUB]</span> <span class="an_body1">Requires subscription<br></span><span class="an_reg">[REG]</span>&nbsp;<span class="an_body1">Requires registration</span>
+</td></tr></tbody></table>
+
+
             </ul></td>
         </tr>
       </tbody></table>
@@ -234,12 +374,15 @@ document.write('Change profile &raquo;</a></li>');
 <!--BEGIN HEADER NAV-->
     <div id="nav">
       <ul id="nav_menu">
-        <li><strong><a href="/apps/pbcs.dll/frontpage">Home</a></strong>
+        <li class=" active"><strong><a href="http://www.autonews.com">Home</a></strong>
           <ul>
-          <li><a href="http://www.nxtbook.com/nxtbooks/crain/an2633182745NMBLP/&#10;">Digital Edition</a></li>
+          <li><a href="http://www.nxtbook.com/nxtbooks/crain/an6994341078CTRDD/&#10;">Digital Edition</a></li>
           <li><a href="/section/TOC">Print Issue</a></li>
           <li><a href="/section/SPECIAL">Special Sections</a></li>
-            <li><a href="https://home.autonews.com/clickshare/myhome.do">Sign up for Email</a></li>
+          <li><a href="https://home.autonews.com/clickshare/myhome.do">Sign up for Email</a></li>
+          <li><a href="/section/DESKTOP">Get Desktop Alerts</a></li>		  
+          <li><a href="http://www.autonews.com/section/CONTACT01">Contact Editorial</a></li>
+          <li class="last"><a href="http://www.autonews.com/section/CONTACT02">Contact Advertising</a></li>
           </ul>
         </li>
         <li><strong><a href="/section/OEM">Automakers &amp; Suppliers</a></strong>
@@ -252,7 +395,7 @@ document.write('Change profile &raquo;</a></li>');
             <li><a href="/section/TECHNOLOGY">Technology</a></li>				
             <li><a href="/section/CUTAWAY">Cutaways</a></li>
             <li><a href="/section/TALKTOP">Talk from the Top</a></li>
-            <li><a href="/section/World_Congress">World Congress</a></li>				
+            <li class="last"><a href="/section/World_Congress">World Congress</a></li>				
           </ul>
         </li>
         <li><strong><a href="/section/RETAIL">Retail</a></strong>
@@ -262,7 +405,7 @@ document.write('Change profile &raquo;</a></li>');
             <li><a href="/section/REMARKETING">Remarketing</a></li>
             <li><a href="/section/SERVICE">Service &amp; Parts</a></li>
             <li><a href="/section/AUCTIONS">Auto Auctions</a></li>
-            <li><a href="/section/NADA">NADA</a></li>					
+            <li class="last"><a href="/section/NADA">NADA</a></li>					
           </ul>
         </li>
 		        <li><strong><a href="/section/REGIONS">Other Markets</a></strong>
@@ -270,7 +413,7 @@ document.write('Change profile &raquo;</a></li>');
             <li class="offset_2"><a href="/section/EUROPE">Europe</a></li>
             <li><a href="/section/GERMAN_NEWSLETTER">German Auto Industry Newsletter&nbsp;<span class="an_buy">[$]</span></a></li>				
             <li><a href="/section/ASIA">Asia</a></li>
-            <li><a href="/section/CHINA">China</a></li>
+            <li class="last"><a href="/section/CHINA">China</a></li>
           </ul>
         </li>
         <li><strong><a href="/section/AUTOSHOWS">Auto Shows</a></strong>
@@ -280,16 +423,16 @@ document.write('Change profile &raquo;</a></li>');
             <li><a href="/section/ASgeneva">Geneva</a></li>
             <li><a href="/section/ASnewyork">New York</a></li>
             <li><a href="/section/ASfrankfurt">Frankfurt</a></li>
-            <li><a href="/section/ASparis">Paris</a></li>
+            <li><a href="/section/ASparis08">Paris</a></li>
             <li><a href="/section/AStokyo">Tokyo</a></li>
-            <li><a href="/section/ASlosangeles">Los Angeles</a></li>
+            <li class="last"><a href="/section/ASlosangeles">Los Angeles</a></li>
           </ul>
         </li>
 		       <li><strong><a href="/section/multimedia">Multimedia</a></strong>
           <ul>
             <li class="offset_5"><a href="/section/vidmedia">Video</a></li>
             <li><a href="/section/podcast">Podcasts</a></li>
-            <li><a href="/section/photogallery">Photo Galleries</a></li>
+            <li class="last"><a href="/section/photogallery">Photo Galleries</a></li>
           </ul>
         </li>
         <li><strong><a href="/section/DATA">Data</a></strong>
@@ -298,52 +441,50 @@ document.write('Change profile &raquo;</a></li>');
 			 <li><a href="http://autonews.csmauto.net">CSM Market Level Forecasts&nbsp;<span class="an_buy">[$]</span></a></li> 
 			 <li><a href="https://home.autonews.com/clickshare/djoAuth.do?djoref=http://autonews.datajoe.com/app/ecom/pub_products.php">Purchase lists&nbsp;<span class="an_buy">[$]</span></a></li>
             <li><a href="/section/DCGUIDES">Supplements</a></li>
-           <li><a href="/section/JATO">JATO U.S. Vehicle Specifications</a></li>
+           <li class="last"><a href="/section/JATOSPECS">JATO U.S. Vehicle Specifications</a></li>
           </ul>
         </li>
         <li><strong><a href="/section/OPINION">Opinion &amp; Feedback</a></strong>
           <ul>
             <li class="offset_5"><a href="/section/OPINION">Columnists</a></li>
+            <li><a href="/section/BLOG">Blogs</a></li>
             <li><a href="/section/LTE">Letters to the Editor</a></li>
             <li><a href="/section/EDITORIAL">Editorials</a></li>
-            <li><a href="/section/letters">Send us a Letter</a></li>			
+            <li class="last"><a href="/section/letters">Send us a Letter</a></li>			
           </ul>
         </li>
+		
         <li><strong><a href="/section/CLASSIFIEDS">Classifieds</a></strong>
           <ul>
-            <li class="offset_4"><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20080608-20080612&amp;Range=1&amp;Module=9&amp;Class=901&amp;Execute=1&amp;Count=200">Manufacturing Jobs</a></li>
-            <li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20080608-20080612&amp;Range=1&amp;Module=9&amp;Class=906&amp;Execute=1&amp;Count=200">Dealer Jobs</a></li>
-            <li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20080608-20080612&amp;Range=1&amp;Module=9&amp;Class=902&amp;Execute=1&amp;Count=200">Auctions</a></li>
-            <li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20080608-20080612&amp;Range=1&amp;Module=9&amp;Class=903&amp;Execute=1&amp;Count=200">Vehicles</a></li>
-            <li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20080608-20080612&amp;Range=1&amp;Module=9&amp;Class=905&amp;Execute=1&amp;Count=200">Business Opportunities</a></li>
-            <li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20080608-20080612&amp;Range=1&amp;Module=9&amp;Class=904&amp;Execute=1&amp;Count=200">Products &amp; Services</a></li>
+            <li class="offset_6"><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20081214-20081217&amp;Range=1&amp;Module=9&amp;Class=902&amp;Execute=1&amp;Count=200">Auctions</a></li>
+            <li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20081214-20081217&amp;Range=1&amp;Module=9&amp;Class=903&amp;Execute=1&amp;Count=200">Vehicles</a></li>
+            <li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20081214-20081217&amp;Range=1&amp;Module=9&amp;Class=905&amp;Execute=1&amp;Count=200">Business Opportunities</a></li>
+            <li class="last"><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20081214-20081217&amp;Range=1&amp;Module=9&amp;Class=904&amp;Execute=1&amp;Count=200">Products &amp; Services</a></li>
           </ul>
         </li>
-		<li class="jobs_promo"><strong class="jobs"><a href="http://www.jobtarget.com/home/index.cfm?site_id=2164" class="jobs"><span class="teaser">New!</span><br>
-<span class="mouse_over">Jobs</span></a></strong>
+				<li><strong><a href="http://jobs.autonews.com">Jobs</a></strong>
           <ul>
-            <li class="offset_5"><a href="http://www.jobtarget.com/c/search.cfm?site_id=2164">View Jobs</a></li>
-            <li><a href="http://www.jobtarget.com/c/profile/index.cfm?site_id=2164">Post an Anonymous Resume</a></li>
-            <li><a href="http://www.jobtarget.com/r/jobs/post/post.cfm?site_id=2164">Post a Job</a></li>
-            <li><a href="http://www.jobtarget.com/r/candidates/bank/index.cfm?site_id=2164">View Resumes</a></li>
+            <li class="offset_5"><a href="http://jobs.autonews.com">View Jobs</a></li>
+            <li><a href="http://jobs.autonews.com/c/profile/index.cfm?site_id=2164">Post an Anonymous Resume</a></li>
+            <li><a href="http://jobs.autonews.com/r/jobs/post/post.cfm?site_id=2164">Post a Job</a></li>
+            <li class="last"><a href="http://jobs.autonews.com/r/candidates/bank/index.cfm?site_id=2164">View Resumes</a></li>
           </ul>
         </li>
-             
-		 </ul>
+      </ul>
     </div>
     <!--END HEADER NAV-->
     <!--BEGIN HEADER SUB NAV-->
     <div id="subnav">
-<div id="subnav_menu">
+      <div id="subnav_menu">
         <ul id="subnav_js">
           <li><a href="/section/RSS"><img src="/assets/gif/rss_icon.gif" alt="RSS Feed" width="31" height="18" border="0" class="rss"></a></li>
           <li><a href="/section/BREAKING">Breaking News</a></li>
-          <li><a href="/myautonews"><strong><font color="#FF0000">NEW:</font> MyAutoNews</strong></a></li>
           <li><a href="/section/EDITORSPICKS">Editor's Picks</a></li>
           <li><a href="/section/MOREONLINE">More on the Web</a></li>
           <li><a href="/section/ANEVENTS">Automotive News Events</a></li>
           <li><a href="/apps/pbcs.dll/cce?Site=CA&amp;Module=10">Other Events</a></li>
-<br>
+          <li><a href="http://www.autonewsdirectory.com">Industry Directory</a></li>
+<!-- <br />
 
           <li><a href="/section/CONTACT01">Contact Editorial</a></li>
           <li><a href="/section/CONTACT02">Contact Advertising</a></li>
@@ -351,7 +492,7 @@ document.write('Change profile &raquo;</a></li>');
           <li><a href="/webinar">Webinars</a></li>
           <li><a href="/article/20051012/STATIC/310120006">Subscriber Services</a></li>
           <li><a href="/article/20051012/STATIC/310110001">Media Kits</a></li>
-          <li><a href="http://www.autonewsdirectory.com/">Industry Directory</a></li>
+          <li><a href="http://www.autonewsdirectory.com/">Industry Directory</a></li> -->
         </ul>
       </div>
       <div id="font_sizer">
@@ -371,7 +512,7 @@ navMenus();
 menuActive("subnav_js");
 -->
 </script>
-  <!--END HEADER-->
+<!--END HEADER-->
 
 
 <!--BEGIN MAIN CONTENT-->
@@ -381,47 +522,49 @@ menuActive("subnav_js");
     <!--BEGIN RIGHT RAIL-->
     <div id="right_rail">
       <form id="searchForm" name="searchForm" method="get" action="/apps/pbcs.dll/search?Category=SEARCH">
-<input type="hidden" name="ExclCat" value="REUTERS;SAP;EY;FEATURES;BP;HOLD;COPY;COPY01;ZZZ_SPECIAL;TEASE;WEBINAR;THOMPSON;ANEVENTS;ANEVENTSOUT;ANEPOLL;EVENTS;DESKTOP;NEWSLETTER;NEWSLETTERANE;NEWSLETTERLITE;NEWSLETTERANELITE;NEWSLETTERSPECIAL;ANECLASS">
+<input type="hidden" name="ExclCat" value="SAP;EY;FEATURES;BP;HOLD;COPY;COPY01;ZZZ_SPECIAL;TEASE;WEBINAR;ANEVENTS;ANEVENTSOUT;ANEPOLL;EVENTS;DESKTOP;NEWSLETTER;NEWSLETTERANE;NEWSLETTERLITE;NEWSLETTERANELITE;NEWSLETTERSPECIAL;ANECLASS">
         <input type="hidden" name="SearchCategory" value="%">
         <input type="hidden" name="noblankcheck" value="0">
+		<input type="hidden" name="BuildTaxonomy" value="1">
         <input class="searchField" type="text" name="crit">
         <label>
         <input name="searchButton" type="image" id="searchButton" src="/assets/gif/btn_search.gif">
         </label>
         <a href="/section/search"><img src="/assets/gif/link_advanced_search.gif" alt="Search" vspace="2"></a>
       </form>
-      <div class="ad_unit_300_250_right" align="center"><script language="javascript" type="text/javascript">OAS_RICH('Right'); </script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1403886768@Top1,Bottom1,Right,Right1,Right2,Left1!Right?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1403886768@Top1,Bottom1,Right,Right1,Right2,Left1!Right?" border="0"></a></div>
+
+      <div class="ad_unit_300_250_right" align="center"><script language="javascript" type="text/javascript">OAS_RICH('Right'); </script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1530027711@Top1,Bottom1,Right,Right1,Right2,Right3,Left1!Right?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1530027711@Top1,Bottom1,Right,Right1,Right2,Right3,Left1!Right?" border="0"></a></div>
   <div id="TabbedPanels1" class="TabbedPanels">
         <ul class="TabbedPanelsTabGroup">
-          <li class="TabbedPanelsTab" tabindex="0"><em><strong>Most&nbsp;Popular</strong></em></li>
+          <li class="TabbedPanelsTab TabbedPanelsTabSelected" tabindex="0"><em><strong>Most&nbsp;Read</strong></em></li>
           <li class="TabbedPanelsTab" tabindex="0"><em><strong>Latest&nbsp;Issue</strong></em></li>
           <!-- <li class="TabbedPanelsTab" tabindex="0"><em><strong>Weekly&nbsp;Poll</strong></em></li> -->
           <!-- <li class="TabbedPanelsTab" tabindex="0"><em><strong>Multimedia</strong></em></li> -->
         </ul>
         <div class="TabbedPanelsContentGroup">
 		
-          <div id="tabbedPanelsFooterRight" class="TabbedPanelsContent">
+          <div id="tabbedPanelsFooterRight" class="TabbedPanelsContent TabbedPanelsContentVisible" style="background-image: url(&quot;/assets/gif/panel_footer_home.gif&quot;); display: block;">
 		  
 		  
-		          <p class="most_popular_link"><a href="/article/20080610/ANA08/68087510/1135/STATIC">GM breaks up with Big Oil in new ads</a></p>
-<br>        <p class="most_popular_link"><a href="/article/20080611/ANA02/543859871/1115/STATIC">Toyota plans 2 new hybrids, lithium ion production</a></p>
-<br>        <p class="most_popular_link"><a href="/article/20080611/ANA02/238032802/1018/STATIC">Ford to brief UAW on U.S. business challenges</a></p>
-<br>        <p class="most_popular_link"><a href="/article/20080611/ANA02/349405664/1128/STATIC">Chrysler boss says Cerberus not second guessing deal</a></p>
-<br>        <p class="most_popular_link"><a href="/article/20080610/ANA02/680657383/1200/STATIC">Kerkorian's Ford tender attracts huge response</a></p>
-<br>
+		  <div class="Article_popular_link"><a href="/article/20081216/ANA02/812169997/1200/STATIC">Feds still studying; no sign of  announcement</a></div>
+<div class="Article_popular_link"><a href="/article/20081215/ANA01/812150248/1176/STATIC">Toyota halts U.S. Prius project</a></div>
+<div class="Article_popular_link"><a href="/article/20081216/ANA02/812169961/1018/STATIC">Toyota scraps 2009 dealer meeting</a></div>
+<div class="Article_popular_link"><a href="/article/20081216/ANA02/812169965/1128/STATIC">Key Plastics files prepackaged bankruptcy</a></div>
+<div class="Article_popular_link"><a href="/article/20081216/ANA01/812169967/1115/STATIC">Revealed: Volvo S60 concept</a></div>
+<div class="Article_popular_link"><a href="/article/20081215/ANA06/812150361/1203/STATIC">Economy decimates dealerships</a></div>
 
 		  
 
           </div>
 		  
-          <div class="TabbedPanelsContent">
+          <div class="TabbedPanelsContent" style="display: none;">
 		  
-		  <table><tbody><tr><td><p class="most_popular_link"><a href="/article/20080609/ANA06/806090343/1148/STATIC">New&nbsp;F-150, Ram in peril as big pickups collapse</a></p>
-<p class="most_popular_by_line">&nbsp;</p><p class="most_popular_link"><a href="/article/20080609/ANA06/806090340/1148/STATIC">Hummer Bummer: A death sentence?</a></p>
-<p class="most_popular_by_line">&nbsp;</p><p class="most_popular_link"><a href="/article/20080609/ANA03/806090323/1148/STATIC">Toyota considering 'Made in U.S.A.' Prius</a></p>
-<p class="most_popular_by_line">&nbsp;</p><p class="most_popular_link"><a href="/article/20080609/ANA03/806090327/1148/STATIC">GM's big SUVs may get lighter</a></p>
-<p class="most_popular_by_line">&nbsp;</p></td><td align="right" valign="top"><div align="center" class="an_body1"><a href="/section/TOC"><strong>June 9, 2008</strong></a><br>
-<a href="/section/TOC"><img src="http://CAimg.sv.publicus.com/apps/pbcsi.dll/bilde?Avis=CA&amp;Dato=20080609&amp;Kategori=FEATURES&amp;Lopenr=802854334&amp;Ref=AR&amp;Q=100&amp;border=0&amp;MaxW=140" border="0" alt="Automotive News"></a></div>
+		  <table><tbody><tr><td><p class="most_popular_link"><a href="/article/20081215/ANA06/812150361/0">Economy decimates dealerships</a></p>
+<p class="most_popular_by_line">&nbsp;</p><p class="most_popular_link"><a href="/article/20081215/ANA06/812150362/0">A GMAC failure could doom GM dealers</a></p>
+<p class="most_popular_by_line">&nbsp;</p><p class="most_popular_link"><a href="/article/20081215/ANA06/812150368/0">Chrysler to dealers: Sales bank is back</a></p>
+<p class="most_popular_by_line">&nbsp;</p><p class="most_popular_link"><a href="/article/20081215/ANA03/812150357/0">Chrysler tries to soothe suppliers</a></p>
+<p class="most_popular_by_line">&nbsp;</p></td><td align="right" valign="top"><div align="center" class="an_body1"><a href="/section/TOC"><strong>Dec. 15, 2008</strong></a><br>
+<a href="/section/TOC"><img src="http://images.autonews.com/apps/pbcsi.dll/bilde?Avis=CA&amp;Dato=20081215&amp;Kategori=FEATURES&amp;Lopenr=812139977&amp;Ref=AR&amp;Q=100&amp;border=0&amp;MaxW=140" border="0" alt="Automotive News"></a></div>
 
 
 
@@ -429,62 +572,69 @@ menuActive("subnav_js");
 
 </td></tr></tbody></table>
 	    
-          </div>	
-	  
-  
-          <!-- <div class="TabbedPanelsContent">
-		  
-		  
-<div align="center">Sorry, no question available
-<div ALIGN="right"> <a href="/section/pollarchive"><span style="font-weight: normal; font-size: 11px; color: 002646; text-decoration: none; text-indent: 10px; width: 100%; margin-top: 2px;"><strong>&gt;&gt; PAST POLL RESULTS</strong></span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></div>
-
-          </div> -->
-		  
-		  
-		  <!--  <div class="TabbedPanelsContent"> 
-            <p class="most_popular_link"><a href="#">Honda opens distribution center</a></p>
-            <p class="most_popular_by_line">06/13/07</p>
-            <p class="most_popular_link"><a href="#">Polish new car sales up for ninth month</a></p>
-            <p class="most_popular_by_line">06/13/07</p>
-            <p class="most_popular_link"><a href="#">AmeriCredit rating upgraded</a></p>
-            <p class="most_popular_by_line">06/11/07</p>
-            <p class="most_popular_link"><a href="#">Lithia set to launch used-car chain</a></p>
-            <p class="most_popular_by_line">06/11/07</p>
-            <p class="most_popular_link"><a href="#">Credit cards increase service business</a></p>
-            <p class="most_popular_by_line">06/04/07</p>
-   
-		  </div> -->
+          </div>  
+          
 		  </div>
-                   </div>
-      <br><script language="javascript" type="text/javascript">
+             
+   
+   <script language="javascript" type="text/javascript">
 <!--
 tabbedFooter("tabbedPanelsFooterRight");
 -->
 </script>
-	  <!--     <h2><a href="/section/pollarchive"><strong>WEEKLY POLL</strong></a></h2>
-      <div id="video_player">
 	  
-<div align="center">Sorry, no question available
-<div ALIGN="right"> <a href="/section/pollarchive"><span style="font-weight: normal; font-size: 11px; color: 002646; text-decoration: none; text-indent: 10px; width: 100%; margin-top: 2px;"><strong>&gt;&gt; PAST POLL RESULTS</strong></span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></div>
-	  
-	  </div> --><br>
-	  
-<div class="ad_unit_300_100_right" id="ad_unit_300_100_right" align="center"><script language="javascript" type="text/javascript">OAS_RICH('Right1'); </script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1403886768@Top1,Bottom1,Right,Right1,Right2,Left1!Right1?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1403886768@Top1,Bottom1,Right,Right1,Right2,Left1!Right1?" border="0"></a></div>
+<div class="ad_unit_300_100_right" id="ad_unit_300_100_right" align="center"><script language="javascript" type="text/javascript">OAS_RICH('Right1'); </script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1530027711@Top1,Bottom1,Right,Right1,Right2,Right3,Left1!Right1?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1530027711@Top1,Bottom1,Right,Right1,Right2,Right3,Left1!Right1?" border="0"></a></div>
 
-<!-- Podcasts -->
-<p b="" s:="" new="" slist="" categories="PODCAST,PODCASTWJR" days="40" leadin="400" images="1" count="1" priosort="1" relprofile="" published="1" showref="500" useobjects="1" objectclass="17">
-	  
-
-      
+     
 	  
 	  
-           </p><div class="ad_unit_300_600_right" align="center">
+           <div class="ad_unit_300_600_right" align="center">
         <!-- <p class="most_popular_by_line">Advertisement</p> -->
-       <script language="javascript" type="text/javascript">OAS_RICH('Right2'); </script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1403886768@Top1,Bottom1,Right,Right1,Right2,Left1!Right2?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1403886768@Top1,Bottom1,Right,Right1,Right2,Left1!Right2?" border="0"></a> </div>
+       <script language="javascript" type="text/javascript">OAS_RICH('Right2'); </script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1530027711@Top1,Bottom1,Right,Right1,Right2,Right3,Left1!Right2?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1530027711@Top1,Bottom1,Right,Right1,Right2,Right3,Left1!Right2?" border="0"></a> </div>
 	   
 	   
        <div class="ad_unit_300_100_right" id="ad_unit_300_100_right" align="center"><a href="http://www.autonewsdirectory.com"><img src="/assets/gif/AutoNewsDirectory.gif" width="300" height="100" border="0" alt=""></a></div>
 
+<div id="TabbedPanels2" class="TabbedPanels">
+        <ul class="TabbedPanelsTabGroup">
+           <li class="TabbedPanelsTab TabbedPanelsTabSelected" tabindex="0"><em><strong>Most Commented</strong></em></li>
+          <li class="TabbedPanelsTab" tabindex="0"><em><strong>Most Recommended</strong></em></li> 
+
+        </ul>
+        <div class="TabbedPanelsContentGroup">
+		
+          <div id="tabbedPanelsFooterRight" class="TabbedPanelsContent TabbedPanelsContentVisible" style="display: block;">
+		  
+		  
+        <script language="JavaScript" type="text/javascript">
+			
+			//submitUpdateArticleRequest();
+		  gSiteLife.SummaryArticlesMostCommented(6);
+    </script>
+        
+	    
+          </div>	
+	  
+  
+          <div class="TabbedPanelsContent" style="display: none;">
+		  
+		  
+        <script language="JavaScript" type="text/javascript">
+			
+			//submitUpdateArticleRequest();
+    gSiteLife.SummaryArticlesMostRecommended(6);
+      </script>
+                   
+          </div>
+		 
+                   </div>
+
+</div>		
+   
+<div class="ad_unit_300_600_right" align="center">
+	         <!-- h2><a href="/section/forums01"><strong>dealer marketing discussions</strong></a></h2 -->
+<!-- p b s :script name="rss2" Language="VBscript" url="http://sitelife.autonews.com/ver1.0/Forums/DiscussionRss?plckDiscussionId=Cat:6e9586b9-b316-47a2-a616-ab474696476fForum:f9bb0248-3122-46f5-af43-1e736c8bb456Discussion:0c563ecc-57ee-42e0-bedc-3a492cd207c7" count=1 -->
+<!-- p b s :script name="rss2" Language="VBscript" url="http://sitelife.autonews.com/ver1.0/Forums/DiscussionRss?plckDiscussionId=Cat:6e9586b9-b316-47a2-a616-ab474696476fForum:6b0309fa-0281-40fb-a54e-0a95a39e7ed6Discussion:e6fe0e00-6cc3-4a76-8508-5771f626c7d7" count=1 -->
 
        <div class="ad_unit_300_600_right" id="jt_job_list" align="center">
 	         <h2><a href="http://www.jobtarget.com/home/index.cfm?site_id=2164"><strong>LATEST JOB LISTINGS</strong></a></h2>
@@ -523,25 +673,25 @@ tabbedFooter("tabbedPanelsFooterRight");
 -->
 </style>
 <div class="wsjbox">
-<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://www.jobtarget.com/c/job.cfm?site_id=2164&amp;jb=4514022" target="_new"><span class="wsjblue">Parts and Service Director:</span><br><span class="wsjtext">Confidential<br>Southeast, United States</span></a></div></div>
+<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5037005" target="_new"><span class="wsjblue">GENERAL SALES MANAGER:</span><br><span class="wsjtext">Confidential<br>Glendale, AZ, United States</span></a></div></div>
 
-<div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://www.jobtarget.com/c/job.cfm?site_id=2164&amp;jb=4512448" target="_new"><span class="wsjblue">Service Training Specialist:</span><br><span class="wsjtext">Southeast Toyota Distributors, LLC<br>Jacksonville, FL, United States</span></a></div></div>
+<div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5037024" target="_new"><span class="wsjblue">SALES MANAGER:</span><br><span class="wsjtext">Confidential<br>TX, United States</span></a></div></div>
 
-<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://www.jobtarget.com/c/job.cfm?site_id=2164&amp;jb=4426774" target="_new"><span class="wsjblue">Classified Ad Sales Manager:</span><br><span class="wsjtext">Crain Communications<br>Detroit, MI, United States</span></a></div></div>
+<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5039138" target="_new"><span class="wsjblue">BUSINESS MANAGER:</span><br><span class="wsjtext">Confidential<br>Bay Area, CA, United States</span></a></div></div>
 
-<div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://www.jobtarget.com/c/job.cfm?site_id=2164&amp;jb=4504605" target="_new"><span class="wsjblue">Account Executive:</span><br><span class="wsjtext">Gentex Corporation<br>Livonia, MI, United States</span></a></div></div>
+<div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5039143" target="_new"><span class="wsjblue">USED CAR MANAGER/DIRECTOR:</span><br><span class="wsjtext">Confidential<br>LA, CA, United States</span></a></div></div>
 
-<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://www.jobtarget.com/c/job.cfm?site_id=2164&amp;jb=4504614" target="_new"><span class="wsjblue">Project Engineer - Korean Customer Focus (Located in Zeeland, MI):</span><br><span class="wsjtext">Gentex Corporation<br>Zeeland, MI, United States</span></a></div></div>
+<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5039224" target="_new"><span class="wsjblue">USED CAR MANAGER:</span><br><span class="wsjtext">Steve Bailey Honda<br>Oklahoma City, OK, United States</span></a></div></div>
 
-<div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://www.jobtarget.com/c/job.cfm?site_id=2164&amp;jb=4504626" target="_new"><span class="wsjblue">Product Specialist - European Accounts:</span><br><span class="wsjtext">Gentex Corporation<br>Zeeland, MI, United States</span></a></div></div>
+<div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5010391" target="_new"><span class="wsjblue">PARTS MANAGER:</span><br><span class="wsjtext">Confidential<br>NA, United States</span></a></div></div>
 
-<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://www.jobtarget.com/c/job.cfm?site_id=2164&amp;jb=4505341" target="_new"><span class="wsjblue">Sales Manager - BHPH:</span><br><span class="wsjtext">Broadway Auto Credit<br>Green Bay, WI, United States</span></a></div></div>
+<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5010388" target="_new"><span class="wsjblue">SERVICE MANAGER:</span><br><span class="wsjtext">Confidential<br>New England, NA, United States</span></a></div></div>
 
-<div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://www.jobtarget.com/c/job.cfm?site_id=2164&amp;jb=4500961" target="_new"><span class="wsjblue">Account Manager - 1896:</span><br><span class="wsjtext">LoJack Corp<br>Cleveland, OH, United States</span></a></div></div>
+<div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5004373" target="_new"><span class="wsjblue">Tool and Die Specialist:</span><br><span class="wsjtext">Drive Automotive Industries of America, Inc<br>Piedmont, SC, United States</span></a></div></div>
 
-<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://www.jobtarget.com/c/job.cfm?site_id=2164&amp;jb=4498109" target="_new"><span class="wsjblue">Associate Product Manager-Classic Car:</span><br><span class="wsjtext">Automobile Club of Southern California<br>Costa Mesa, CA, United States</span></a></div></div>
+<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5004377" target="_new"><span class="wsjblue">Assembly Tooling Machinist Specialist:</span><br><span class="wsjtext">Drive Automotive Industries of America, Inc<br>Piedmont, SC, United States</span></a></div></div>
 
-<div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://www.jobtarget.com/c/job.cfm?site_id=2164&amp;jb=4487500" target="_new"><span class="wsjblue">Sick &amp; Tired of Being Broke?:</span><br><span class="wsjtext">E G Marketing Group<br>AL, United States</span></a></div></div>
+<div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5032079" target="_new"><span class="wsjblue">Sr. Auditor:</span><br><span class="wsjtext">American Honda Motor Co., Inc.<br>Torrance, CA, United States</span></a></div></div>
 
 <center>
 <a href="http://www.jobtarget.com/home/index.cfm?site_id=2164" target="_new"><img src="http://www.autonews.com/graphics/an_spacer.gif" width="280" height="22" border="0"></a></center>
@@ -549,7 +699,9 @@ tabbedFooter("tabbedPanelsFooterRight");
 
 
 </div>
-
+</div>
+</div>
+<div class="ad_unit_300_250_right" align="center"><script language="javascript" type="text/javascript">OAS_RICH('Right3'); </script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1530027711@Top1,Bottom1,Right,Right1,Right2,Right3,Left1!Right3?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1530027711@Top1,Bottom1,Right,Right1,Right2,Right3,Left1!Right3?" border="0"></a></div>
 </div>
     <!--END RIGHT RAIL-->
 
@@ -588,10 +740,10 @@ Automotivenews.com is the Web site of Automotive News, a publication of the Auto
 		<td valign="top"><a href="/article/20051012/STATIC/310120003">Legal Disclaimer</a></td>
 	</tr>	<tr>
 		<td width="10" valign="top">»</td>
-		<td valign="top"><a href="/article/20051012/STATIC/310120001">Automotive News Europe Media Kit Home Page</a></td>
+		<td valign="top"><a href="/article/20051012/STATIC/310120001">Automotive News Europe Media Kit</a></td>
 	</tr>	<tr>
 		<td width="10" valign="top">»</td>
-		<td valign="top"><a href="/article/20051012/STATIC/310110001">Automotive News Media Kit Home Page</a></td>
+		<td valign="top"><a href="/article/20051012/STATIC/310110001">Automotive News Media Kit</a></td>
 	</tr>	<tr>
 		<td width="10" valign="top">»</td>
 		<td valign="top"><a href="/article/20051012/STATIC/51012001">German Auto Industry Newsletter</a></td>
@@ -616,8 +768,7 @@ Automotivenews.com is the Web site of Automotive News, a publication of the Auto
 </tbody></table> 
  
 
-	
-	<table width="626" cellspacing="1" cellpadding="1" align="left"><tbody><tr><td>
+<table width="626" cellspacing="1" cellpadding="1" align="left"><tbody><tr><td>
 	
 	<table border="0" cellspacing="0" cellpadding="0" align="left">
   <tbody><tr>
@@ -756,7 +907,7 @@ Automotivenews.com is the Web site of Automotive News, a publication of the Auto
 <!-- 
 OAS_RICH('Bottom1'); 
 //--> 
-</script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1403886768@Top1,Bottom1,Right,Right1,Right2,Left1!Bottom1?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1403886768@Top1,Bottom1,Right,Right1,Right2,Left1!Bottom1?" border="0"></a></div>
+</script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1530027711@Top1,Bottom1,Right,Right1,Right2,Right3,Left1!Bottom1?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1530027711@Top1,Bottom1,Right,Right1,Right2,Right3,Left1!Bottom1?" border="0"></a></div>
 <script type="text/javascript" src="/fsrscripts/triggerParams.js"></script>
 <script type="text/javascript" src="/fsrscripts/stdLauncher.js"></script>
 <script type="text/javascript">Poll();</script>
@@ -790,7 +941,7 @@ OAS_RICH('Bottom1');
             <td><a href="/section/VIDMEDIA">Video</a></td>
 			<td><a href="/section/DATACENTER">Data Center Search</a></td>
             <td><a href="/section/KCRAIN">Keith Crain</a></td>
-			<td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20080608-20080612&amp;Range=1&amp;Module=9&amp;Class=901&amp;Execute=1&amp;Count=200">Manufacturing Jobs</a></td>
+			<td><a href="http://jobs.autonews.com">Manufacturing Jobs</a></td>
 
           </tr>
           <tr>
@@ -801,7 +952,7 @@ OAS_RICH('Bottom1');
 			<td><a href="/section/PODCAST">Podcasts</a></td>			
             <td><a href="/section/DCGUIDES">Supplements</a></td>
             <td><a href="/section/ELAPHAM">Edward Lapham</a></td>
-			<td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20080608-20080612&amp;Range=1&amp;Module=9&amp;Class=906&amp;Execute=1&amp;Count=200">Dealer Jobs</a></td>   
+			<td><a href="http://jobs.autonews.com">Dealer Jobs</a></td>   
           </tr>
           <tr>
             <td><a href="/section/DESIGN">Design</a></td> 
@@ -809,9 +960,9 @@ OAS_RICH('Bottom1');
             <td><a href="/section/ASIA">Asia</a></td>
             <td><a href="/section/ASgeneva">Geneva</a></td>
 			<td><a href="/section/PHOTOGALLERY">Photo Galleries</a></td>
-			<td><a href="/section/JATO">JATO U.S. Specifications</a></td>
+			<td><a href="/section/JATOSPECS">JATO U.S. Specifications</a></td>
             <td><a href="/section/PBROWN">Peter Brown</a></td>
-		    <td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20080608-20080612&amp;Range=1&amp;Module=9&amp;Class=902&amp;Execute=1&amp;Count=200">Auctions</a></td>
+		    <td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20081214-20081217&amp;Range=1&amp;Module=9&amp;Class=902&amp;Execute=1&amp;Count=200">Auctions</a></td>
 
           </tr>
           <tr>
@@ -822,7 +973,7 @@ OAS_RICH('Bottom1');
 			<td>&nbsp;</td>
 			<td><a href="http://autonews.csmauto.net">CSM Market Level Forecasts&nbsp;<span class="an_buy">[$]</span></a></td>
             <td><a href="/section/JTEAHEN">John K. Teahen Jr.</a></td>
-			<td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20080608-20080612&amp;Range=1&amp;Module=9&amp;Class=903&amp;Execute=1&amp;Count=200">Vehicles</a></td>
+			<td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20081214-20081217&amp;Range=1&amp;Module=9&amp;Class=903&amp;Execute=1&amp;Count=200">Vehicles</a></td>
 
             </tr>
           <tr>
@@ -833,18 +984,18 @@ OAS_RICH('Bottom1');
 			<td>&nbsp;</td>
 			<td><a href="https://home.autonews.com/clickshare/djoAuth.do?djoref=http://autonews.datajoe.com/app/ecom/pub_products.php">Purchase lists&nbsp;<span class="an_buy">[$]</span></a></td>
             <td><a href="/section/DSEDGWICK">David Sedgwick</a></td>
-		 <td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20080608-20080612&amp;Range=1&amp;Module=9&amp;Class=904&amp;Execute=1&amp;Count=200">Products &amp; Services</a></td>
+		 <td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20081214-20081217&amp;Range=1&amp;Module=9&amp;Class=904&amp;Execute=1&amp;Count=200">Products &amp; Services</a></td>
 
           </tr>
           <tr>
             <td><a href="/section/TECHNOLOGY">Technology</a></td>
             <td><a href="/section/NADA">NADA</a></td>
             <td>&nbsp;</td>
-            <td><a href="/section/ASparis">Paris</a></td>
+            <td><a href="/section/ASparis08">Paris</a></td>
             <td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td><a href="/assets/pdf/Stockwatch.pdf">Stock Watch</a></td>
             <td><a href="/section/RECHTIN">Mark Rechtin</a></td>
-			<td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20080608-20080612&amp;Range=1&amp;Module=9&amp;Class=905&amp;Execute=1&amp;Count=200">Business Opportunities</a></td>		
+			<td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20081214-20081217&amp;Range=1&amp;Module=9&amp;Class=905&amp;Execute=1&amp;Count=200">Business Opportunities</a></td>		
 
           </tr>
           <tr>
@@ -902,7 +1053,7 @@ OAS_RICH('Bottom1');
       <div id="subnav_footer">
         <ul>
           <li><a href="/section/RSS">RSS</a></li>
-          <li><a href="http://www.nxtbook.com/nxtbooks/crain/an2633182745NMBLP/&#10;">Digital Edition</a></li>
+          <li><a href="http://www.nxtbook.com/nxtbooks/crain/an6994341078CTRDD/&#10;">Digital Edition</a></li>
           <li><a href="/section/TOC">Print Issue</a></li>
           <li><a href="/section/BREAKING">Breaking News</a></li>
           <li><a href="https://home.autonews.com/clickshare/authenticateUserSubscription.do?CSProduct=autonews&amp;CSTargetURL=http://www.autonews.com/section/myautonews">MyAutoNews</a></li>
@@ -937,13 +1088,6 @@ OAS_RICH('Bottom1');
   <a name="bottom" id="bottom"></a>
   <!--END FOOTER-->
 </div>
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-21qmi7lIyyLh2";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-21qmi7lIyyLh2" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-21qmi7lIyyLh2.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
 
 <!-- Start Google Analytics tag -->
 <script type="text/javascript">
@@ -959,8 +1103,86 @@ _uacct = "UA-2067205-1";
 urchinTracker();
 </script>
 <!-- End Google Analytics tag -->
+<!-- Ginsu tag -->
+<script type="text/javascript">
+//instantiate the GINSU
+setTimeout("ginsuCurrentUser_upper.process()",3000);
+
+</script>
+<!-- End Ginsu tag -->
 
 
+
+<script type="text/javascript">
+		new NYX.ieSafeExecution(articleRequest).execute();
+	</script>
+
+<!--
+Build Time:
+HostName: ESXWEB131<br>
+Time used: 3802 ms Wait: 62 ms<br>
+Initializing : 188ms<br>
+<b>Starting first parse</b><br>
+.Build 0: 0 ms (Misc)<br>
+. HotLinks: 392ms<br>
+.Build 3: 579 ms (Article)<br>
+.Parsing macro GetArtTaxonomy<br>
+..Build 9: 15 ms (Content)<br>
+.Completed macro GetArtTaxonomy<br>
+.Parsing macro oastag<br>
+..Build 9: 0 ms (Content)<br>
+.Completed macro oastag<br>
+.Parsing macro hitboxtag<br>
+..Build 0: 63 ms (Misc)<br>
+.Completed macro hitboxtag<br>
+.Parsing macro homean<br>
+..Parsing macro digitaledition<br>
+... NewsList: 125ms<br>
+...Build 16: 125 ms (NewsList)<br>
+..Completed macro digitaledition<br>
+..Build 9: 125 ms (Content)<br>
+.Completed macro homean<br>
+.Parsing macro digitaledition<br>
+.. NewsList: 31ms<br>
+..Build 16: 31 ms (NewsList)<br>
+.Completed macro digitaledition<br>
+.Parsing macro searchan<br>
+..Build 0: 0 ms (Misc)<br>
+.Completed macro searchan<br>
+.Parsing macro mostread<br>
+..Build 0: 329 ms (Misc)<br>
+.Completed macro mostread<br>
+.Parsing macro digitaledition<br>
+.. NewsList: 187ms<br>
+..Build 16: 187 ms (NewsList)<br>
+.Completed macro digitaledition<br>
+.Build 9: 1908 ms (Content)<br>
+. NewsList: 595ms<br>
+.Build 16: 595 ms (NewsList)<br>
+Retrieve categories: 0ms<br>
+Read templates: 392ms<br>
+Read objects: 769ms<br>
+Scripts: 47ms<br>
+Parsing templates: 16ms<br>
+
+
+Run Time:
+HostName: ESXWEB131<br>
+Time used: 63 ms<br>
+<b>Starting first parse</b><br>
+.Build 0: 32 ms (Misc)<br>
+.Build 9: 0 ms (Content)<br>
+Retrieve categories: 0ms<br>
+Read templates: 0ms<br>
+Read objects: 16ms<br>
+Scripts: 0ms<br>
+Read cache: 15ms<br>
+
+
+Time this cache file was built:
+20081217 01:46:21
+
+-->
 
 
 
