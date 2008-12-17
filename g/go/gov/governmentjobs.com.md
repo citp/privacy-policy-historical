@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the governmentjobs.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608121904id_/http%3A//www.governmentjobs.com/display.cfm%3FSubCatID%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentjobs.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217091818id_/http%3A//www.governmentjobs.com/display.cfm%3FSubCatID%3D16) for the most accurate reproduction.*
 
 # GovernmentJobs.com -
 
