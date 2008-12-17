@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidfeeds.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602123509id_/http%3A//www.rapidfeeds.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidfeeds.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217083519id_/http%3A//www.rapidfeeds.com/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy - RapidFeeds
 
@@ -22,7 +22,7 @@ By using our Web site, you give RapidFeeds permission to collect information abo
 
 Tell us what you think
 
-RapidFeeds welcomes your questions and comments about our privacy policy. Please send e-mail to [**feedback@rapidfeeds.com**](mailto:feedback@rapidfeeds.com) or [**click here**](https://web.archive.org/web/20080602123509id_/http%3A//www.rapidfeeds.com/contactus.php) to contact Us. 
+RapidFeeds welcomes your questions and comments about our privacy policy. Please send e-mail to [**feedback@rapidfeeds.com**](mailto:feedback@rapidfeeds.com) or [**click here**](https://web.archive.org/web/20081217083519id_/http%3A//www.rapidfeeds.com/contactus.php) to contact Us. 
 
   
 
