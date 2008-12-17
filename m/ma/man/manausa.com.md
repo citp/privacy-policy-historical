@@ -1,97 +1,72 @@
-> *The following text is extracted and transformed from the manausa.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231115455id_/http%3A//corporate.homes.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manausa.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218004552id_/http%3A//www.manausa.com//privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Tallahassee Real Estate Privacy Statement
 
-## Homes.com Privacy Policy
+### CENTURY 21 First Realty's Exclusive Privacy Policy
 
-**Your Privacy is Important!**
+This privacy statement discloses the privacy practices for CENTURY 21 First Realty, ("Company"), Web site found on [www.manausa.com](http://www.manausa.com/).
 
-At Homes.com, we believe that your privacy is important.  We are committed to providing you with top-quality, comprehensive services via a fully secure online experience that protects your privacy.
+This Web site has agreed to notify you of:
 
-#### Governing Principles for Privacy on Homes.com
+· What personally identifiable information of yours or third party personally identification is collected from you through the Web site
 
-When Homes.com collects personal information from you, its primary use will be to provide you with a fully customized online experience, including personalization services, online transactions, email accounts and other interactive communications, and many other services.
+· The organization collecting the information
 
-You will be explicitly asked for any information that personally identifies you or that allows Homes.com or our necessary service partners to contact you. This information is generally requested when registering for personalization services, when requesting a particular service or purchasing a particular product, or when entering a sweepstakes or contest.
+· How the information is used
 
-Homes.com will not disclose personally identifiable information about you unless we have your explicit permission or when we believe in good faith that the law requires it.
+· With whom the information may be shared
 
-Homes.com will provide you with the means to verify and update your personal information, allowing you to ensure that such information is correct and current.
+· What choices are available to you regarding collection, use and distribution of the information
 
-If you believe at any time that we have not adhered to the policy stated above and as further detailed in the Frequently Asked Questions (FAQ) below, please notify Homes.com by email at [privacy@homes.com](mailto:privacy@homes.com), and we will use all commercially reasonable efforts to identify and promptly correct the problem.
+· The kind of security procedures that are in place to protect the loss, misuse or alteration of information under the Company’s control
 
-#### Frequently Asked Questions
+· How you can correct any inaccuracies in the information
 
-**Jump To:**
+If you feel that Company is not abiding by its posted privacy policy, you should first contact the Webmaster at [info@manausa.com](mailto:info@manausa.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Joe Manausa at [joe@manausa.com](mailto:joe@manausa.com) to resolve your concerns.
 
-  * What personally identifiable information will Homes.com collect from me?
-  * How does Homes.com use cookies?
-  * Who is collecting my personal information?
-  * Who will Homes.com share my information with?
-  * What control do I have over the collection, use, and distribution of my personal information?
-  * Will I be able to access and update my personal information?
-  * How does Homes.com protect my sensitive financial information, such as credit card numbers?
+1\. INFORMATION COLLECTION AND USE
 
+Company is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Company collects information from our users at several different points on our Web site.
 
+2\. REGISTRATION
 
-**What personally identifiable information will Homes.com collect from me?**
+In order to subscribe to this Web site's newsletter, a user must first complete the registration form. During registration a user is required to give their contact information (such as email address and optional name). This information is used to contact the user about the services on our site for which they have expressed interest.
 
-Information is collected in several different ways and for a variety of different reasons.  For example, personal information is collected when you register for Homes.com's personalization services.  During such registration, Homes.com asks for your name, e-mail address, ZIP code, and other information.  The more information you provide, the better we are able to customize our services for you, allowing you to fully benefit from our many offerings.
+3\. COOKIES
 
-We may also ask you for personal information when you make a purchase from us or one of our service partners; when you enter a sweepstakes or other promotion sponsored by Homes.com or our service partners; or when requesting specific services.  Any transactions that require the collection of sensitive data such as your credit card information will be done over fully secured servers using sophisticated encryption technology for your protection.
+A cookie is a piece of data stored on the user’s hard drive containing non-contact information about the user. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user may be limited in some areas of our site. Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
-Any page on Homes.com that includes a request for personal information will include a link to this Privacy Policy.
+4\. LOG FILES
 
-**How does Homes.com use cookies?**
+We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-A cookie consists of a data file sent to your browser from a web server, which is then stored on your computer's hard drive.  Cookies allow us to store and occasionally track information about you and your use of our site. Your browser can be configured not to accept cookies; however, all Homes.com services that require registration or are customizable require cookies for delivery.  At Homes.com, we use cookies to:
+5\. SHARING
 
-Tell us who you are and allow us to access your account information to deliver personalized services.  This cookie is sent to your browser when you register for personalization services and when you log in.
+We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We partner from time to time with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third parties to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
-Store your ZIP code, so that we can deliver services and information that are specific to your location, such as yellow pages, news, and weather.
+6\. LINKS
 
-To facilitate your transactions with our service partners, including processing any items you wish to purchase, and tracking your visits to and business at their areas of the Homes.com web site.
+This web site contains links to other sites. Please be aware that Company is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by this Web site.
 
-Measure our audience size and analyze traffic patterns on Homes.com. This allows us to better understand how our site is being used both individually and in the aggregate, and to improve the content and services we offer, including personalization, content, advertising, and promotions.
+7\. NEWSLETTER
 
-Advertising networks who serve ads on Homes.com may also serve cookies.  In addition, Homes.com collects IP addresses for system administration and to report aggregated information (that does not identify individual users) to our advertisers.  Homes.com email accounts also include IP addresses in outgoing mail headers.
+If a user wishes to subscribe to our newsletter, we ask for contact information such as email address and optional name.
 
-**Who is collecting my personal information?**
+8\. SURVEYS AND CONTESTS
 
-When you provide Homes.com with your personal information, you are providing it to us alone, unless otherwise explicitly stated.  For example, some services, such as mortgages or home improvement contracting, are offered in conjunction with our service partners.  To provide such cobranded service, it is necessary that we provide them with required personal information about you.  If you do not want your information shared with such partners, you can decline to use that particular service.
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site and to provide a valuable educational experience to the survey participants.
 
-Some promotions or services may include the collection of personal information that may be shared with sponsors or other companies.  For example, information collected from you when requesting a free copy of a magazine may be shared with third-party businesses who may have services of interest to you. This will be explicitly stated to you at the time you fill out the magazine request.  You can decide not to complete your request for such a magazine if you do not want your data shared.
+9\. FORWARD TO A FRIEND
 
-In addition, Homes.com uses a third party, DoubleClick, to serve the advertisements that you see on the pages of our Web site. This includes the use of cookies to gather information that is then used to target advertisements to your individual interests. DoubleClick may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site. If you would like to know more about DoubleClick's information-gathering practices and opt-out procedures, visit [www.doubleclick.net/naiprivacy](http://www.doubleclick.net/naiprivacy).
+If a user elects to use our referral service for informing friends about our site or newsletter, we ask them for the friends' name and email address. Company or a third party service used by Company will automatically send the friends a one-time email inviting them to visit the site. This information is used for the sole purpose of sending this one-time email.
 
-Homes.com advertisers and web sites that have links on our site may also collected personally identifiable information about you. This Privacy Policy does not cover the practices of those sites.
+10\. CHOICE / OPT-OUT
 
-**Who will Homes.com share my information with?**
+Users who no longer wish to receive our newsletter may opt-out of receiving it by clicking the "Manage your subscription" link at the bottom of any Newsletter e-mail message.
 
-Homes.com will not disclose personally identifiable information about you unless we have your explicit permission or when we believe in good faith that the law requires it.  Your information may be shared with the following:
+11\. NOTIFICATION OF CHANGES
 
-  * _Homes.com business partners and sponsors._   The nature of disclosure of your personal information to business partners and sponsors will be described to you prior to collection and transfer of such data.
-  * _Service and Product Partners for online transactions._ When making a purchase from a store hosted by or framed by Homes.com, the information obtained from you to facilitate the transaction will be shared with Homes.com's service partner.  This includes your credit card number and required contact information.  Such data will be collected and shared using secure servers and sophisticated encryption technology for your protection.  Homes.com's service and product partners have separate data collection and privacy policies, which should be reviewed on their individual sites.
-  * _Prospective partners, advertisers, and other parties._ To describe and promote our offerings to prospective partners, advertisers, investors, and other parties, Homes.com may share aggregated data regarding our users.  Such data in no way identify individual users, and are collected and distributed to provide profiles of Homes.com's user base (e.g., 35% of our users are currently homeowners), and for other lawful purposes.
+If we decide to change our Privacy Policy, we will post those changes this site's Homepage so our users are always aware of what information we collect, how we use it, and under which circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
+  
 
-
-**What control do I have over the collection, use, and distribution of my personal information?**
-
-The collection and use of your personally identifiable information by Homes.com, including its distribution to other parties, is permission-based, meaning that such information will be collected and used with your knowledge, and will only be shared with other parties with your explicit consent. If you do not want your information shared, you will have the ability to opt out of  a particular service or to not participate in particular promotions.
-
-Homes.com may, from time to time, issue newsletters to its registered members via email.  Such newsletters may include banner advertising and promotional/product offerings from Homes.com business and service partners, some of which may be specifically targeted at you based on the personal information we have collected. If you do not wish to receive such emails, simply tell us when you register for Homes.com's personalization services.  You can update your profile, including changing your newsletter receipt status, at any time by accessing the Preferences section of your personalized Homes.com account.
-
-By modifying your browser preferences, you can also control the way you handle cookies, including the ability to accept or reject all cookies. However, rejecting cookies from Homes.com means that we will be unable to provide you with our registered, services, including personalization, email, and calendaring.  You will still, however, be able to engage in online transactions facilitated via Homes.com.
-
-**Will I be able to access and update my personal information?**
-
-You may edit your personally identifiable information on Homes.com by accessing the Preferences section of your personalization account, which you can access at any time by using your Homes.com User ID and password (if you choose to disable login on your account, you will not be asked for this information prior to accessing your account, although access will be denied to any user other than you).
-
-You can also deactivate your account at any time, again using the Preferences section of your personalization account.  However, doing so will prevent you from accessing all personalized Homes.com services.
-
-If you have forgotten your Homes.com password, [click here](http://www.homes.com/My/EmailReminder.cfm) for a reminder or to request a new one.
-
-**How does Homes.com protect my sensitive financial information, such as credit card numbers?**
-
-There are several areas on Homes.com that require sensitive financial and personal information to complete a transaction.  This includes mortgage services involving personal finances, product transactions requiring credit cards, and more.  Any time we ask for sensitive information like a credit card number, such information will be transmitted using industry-standard, secure socket layer (SSL) encryption.
