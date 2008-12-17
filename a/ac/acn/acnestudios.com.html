@@ -1,0 +1,206 @@
+<!--The following is the downloaded HTML source of the acnestudios.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217082932id_/http%3A//www.acnestudios.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+  <base href="http://acnestudios.com/privacy-policy">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="Acne Jeans, Acne, Acne Studios, acnestudios, Acne Jeans, Jeans, Collection, Fashion, Acne Paper, Jonny Johansson, Mikael Schiller, Sweden, Swedish, Scandinavian, Stockholm, Paris, New York, Hamburg, Munich, Copenhagen, Oslo, Berlin, Vienna, Sverige, Magazine, Ready-To-Wear, Jeans, Designer Jeans, Designer Shoes, Shoes, Boots, Pret-à-porter, Dress, Dresses, Designer Dresses, buy acne, acne online shop, shop acne, shop online, fashion, apparel, online shopping, buy acne jeans, shop acne jeans, lanvin, ">
+  <meta name="title" content="Privacy Policy">
+  <meta name="description" content="Online Home of ACNE - The Fashion House and Creative Collective - former Acne Jeans - Privacy PolicyAll personal information saved at the site will be handled with most care. The informa...">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Online Home of ACNE - The Fashion House and Creative Collective - Privacy Policy</title>
+  <link href="/privacy-policy?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0">
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <link id="image_src" rel="image_src" href="http://acnestudios.com/">
+
+
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
+<link rel="stylesheet" href="/templates/acne_jeans/css/template.css" type="text/css" media="all">
+<!--[if lte IE 6]>
+<link rel="stylesheet" href="/templates/acne_jeans/css/ie6.css" type="text/css" media="all" />
+<![endif]-->
+<link rel="stylesheet" href="/templates/acne_jeans/css/print.css" type="text/css" media="print">
+<link rel="Shortcut Icon" href="/favicon.ico">
+
+
+</head>
+
+<body id="page_bg">
+	<div class="logo">
+		<a href="/index.php"><img src="/templates/acne_jeans/images/acnelogo.gif" alt="Acne Logo"></a>
+	</div>
+	
+	<div id="topmenu">
+		
+		<div id="topRight" class="noprint">
+			<ul class="menu"><li class="item19 first-child"><a href="/contact"><span>Contact</span></a></li><li class="item22"><a href="/about"><span>About</span></a></li><li class="item24"><a href="/press"><span>Press</span></a></li></ul>
+		</div>
+		<div id="topLeft" class="noprint">
+			<script type="text/javascript">
+	function trim(str, chars) {
+		return ltrim(rtrim(str, chars), chars);
+	}
+	
+	function ltrim(str, chars) {
+		chars = chars || "\\s";
+		return str.replace(new RegExp("^[" + chars + "]+", "g"), "");
+	}
+	
+	function rtrim(str, chars) {
+		chars = chars || "\\s";
+		return str.replace(new RegExp("[" + chars + "]+$", "g"), "");
+	}
+
+	function checkEnter(e, form){
+		
+		var characterCode;
+		
+		if(!window.event){
+			e = e;			
+			characterCode = e.which; 
+		}
+		else{
+			e = event;
+			characterCode = e.keyCode; 
+		}
+		
+		if(characterCode == 13){ 
+			$(form).send({            
+					onComplete: function(response) {
+						if(form == "subscribeForm"){
+							var result = trim(response).toLowerCase();									
+							if(result == 'success'){
+								window.location.href = "http://acnestudios.com/register";
+							}
+							else{								
+								alert(trim(response));
+							}
+						}
+						else if(form == "loginForm"){
+							var result = trim(response).toLowerCase();							
+							if(result == 'success'){
+								window.location.href = window.location.href;
+							}
+							else alert(trim(response));
+						}
+					}
+				});
+			return false;
+		}
+		else{
+			return true;
+		}
+	}
+	
+    //Swaps between two elements
+    function fadeIn(showId, removeId){
+        new Fx.Style(removeId, 'opacity', {            
+                duration: 200,                     
+                onComplete: function(){
+                    var div = $(removeId).setStyles({
+                        display:'none',
+                        opacity: 0
+                    });
+                    var div = $(showId).setStyles({
+                        display:'block',
+                        opacity: 0
+                    });
+                    new Fx.Style(div, 'opacity', {duration: 400} ).start(1);    
+                }
+            }
+        ).start(0);
+    };
+    
+    window.addEvent('domready', function(){
+        $('loginForm').addEvent('submit', function(e) {			
+            new Event(e).stop();
+        });
+        $('subscribeForm').addEvent('submit', function(e) {        
+            new Event(e).stop();
+        });
+    });
+</script>
+
+<ul class="menu">
+    <li style="padding-right: 0px;  margin-right: 5px;">
+        WELCOME:
+    </li>
+    <li style="padding-left: 0px; margin-left: 0px;">
+                        <a href="javascript:;" onclick="fadeIn('loginContainer','subscribeContainer');">LOG IN</a>
+                </li>
+            <li style="text-align: right;">
+            <a href="javascript:;" onclick="fadeIn('subscribeContainer','loginContainer');">SUBSCRIBE</a>
+        </li>
+    </ul>
+
+
+<div id="subscribeContainer">
+    <form id="subscribeForm" action="index.php?option=com_awavecontent&amp;controller=ajax&amp;task=subscribe&amp;rnd=1229501943" method="post">
+        <fieldset>
+            <div><input type="text" name="subscribeEmail" id="subscribeEmail" size="40" maxlength="60" value="E-mail" onkeypress="checkEnter(event, 'subscribeForm');" onfocus="if(this.value==this.defaultValue) this.value='';"></div> 
+                    </fieldset> 
+    </form>
+	Stay posted on the latest from Acne
+</div>
+
+<div id="loginContainer">
+    <form id="loginForm" action="index.php?option=com_awavecontent&amp;controller=ajax&amp;task=login&amp;rnd=1229501953" method="post">
+        <fieldset>
+            <div><input type="text" name="loginEmail" id="loginEmail" size="40" maxlength="60" value="E-mail" onkeypress="checkEnter(event, 'loginForm');" onfocus="if(this.value==this.defaultValue) this.value='';"></div>
+            <div><input type="password" name="loginPassword" id="loginPassword" size="40" maxlength="60" value="" onkeypress="checkEnter(event, 'loginForm');" onfocus="if(this.value==this.defaultValue) this.value='';"></div>
+            
+                    </fieldset>
+    </form>
+</div>
+		</div>
+	</div>
+	
+	<div id="mainmenu" class="noprint">
+		<ul class="menu"><li class="item13 first-child"><a href="http://www.acnejeans.com/shop.asp"><span>Online Shop</span></a></li><li class="item5"><a href="/collection"><span>Collection</span></a></li><li class="item8"><a href="/acne-paper"><span>Acne Paper</span></a></li><li class="item9"><a href="/stores"><span>Stores</span></a></li><li class="item7"><a href="/editorial"><span>Editorial</span></a></li><li class="item10"><a href="/search"><span>Search</span></a></li></ul>
+	</div>
+	
+	
+	
+	
+
+
+
+
+<script type="text/javascript" src="http://acnestudios.com//libraries/awave/awavecrossbar/swfobject.js"></script>
+<div id="pathway">
+				</div>
+
+<div class="htmlContent">
+<h2>Privacy Policy<br></h2><p><br></p><p>All personal information saved at the site will be handled with most care. The information that we store will not be sold or used for any purposes other than making sure you get the best service possible. It will solely be used for informing you about special offers and other marketing activities related to the different units of Acne. Your personal data may be disclosed to third parties only when it is necessary to fulfill the purposes described above. When registering to the site, you have the option not to receive any information from Acne. If you wish to end your subscription to information from Acne, you may make the changes in your account settings or send an email to shop@acnestudios.com. State your name and email address and a short description of the matter in the email message.</p><p> You have the right to at any time know what information is kept about you in our systems. This information can be requested by sending an email to shop@acnejeans.com. If the information is incomplete or incorrect, you have the right to have the information corrected or deleted.</p><p><b>Cookies</b></p><p>Cookies are usen in the site, in order to improve your experience of the site. The cookie identifies your computer and allows the site to remember your personal settings. Cookies are also used for statistical purposes.</p><p>You can set your browser to notify you when a cookie is to be activated. This enables you to reject usage of this cookie or to tell your browser to erase the cookie at the end of your visit. The web shop cannot be used if cookies are disallowed.  </p>            
+		   
+</div>
+<script type="text/javascript" src="http://acnestudios.com//libraries/awave/awavepage/apage.js"></script>
+
+	
+	
+    
+	<div id="bottommenu">
+	    <ul class="menu"><li id="current" class="active item26 first-child"><a href="/privacy-policy"><span>PRIVACY POLICY</span></a></li><li class="item27"><a href="/terms-a-conditions"><span>TERMS &amp; CONDITIONS</span></a></li></ul>
+    </div>
+	
+	<div id="debug" class="noprint">
+		
+	</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-649968-5");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+</body></html>
