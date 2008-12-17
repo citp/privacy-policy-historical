@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pure360.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625015306id_/http%3A//www.pure360.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pure360.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050655id_/http%3A//pure360.com/privacy.html) for the most accurate reproduction.*
 
 # Pure ))) Email Marketing and Email Advertising
 
@@ -76,9 +76,11 @@ At any time you may review or update the personally identifiable information tha
 
 This confidentiality policy has been compiled so as to comply with current UK, US and EU legislation, so far as we are aware. If you have any question regarding the confidentiality policy, please contact us at:
 
-Purepromoter Ltd  
-11 Old Steine   
-Brighton  
-BN1 IEJ
+PurePromoter Ltd  
+Unit A-D, Level 7 South  
+New England House  
+Brighton East  
+Sussex  
+BN1 4GH
 
 [support@pure360.com](mailto:support@pure360.com)
