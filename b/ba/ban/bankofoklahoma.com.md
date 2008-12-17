@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofoklahoma.com privacy policy that was archived on 2008-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080619125756id_/http%3A//www.bankofoklahoma.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofoklahoma.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112546id_/http%3A//bankofoklahoma.com/privacy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -62,11 +62,10 @@ You may also request that we not contact you about direct marketing offers throu
 Keeping your account information accurate and up to date is very important. If you ever find that your account information is incomplete, inaccurate or not current, please write us at the address listed on your account statement, bank records, or other documentation. We will promptly update or correct any erroneous information. 
   8. **HOW TO LIMIT OUR USE OF YOUR CUSTOMER INFORMATION**
   
-We have a right to share Customer Information, described in Section I, about our customers or former customers with our affiliated companies and with nonaffiliated third parties as described in Section III. If you prefer that we not share your Customer Information with our affiliated companies, we will honor your request (except we may continue to share transaction and experience information authorized under the Fair Credit Reporting Act). You may make such a request by the method described below. We will honor your request throughout our affiliated companies. 
+We have a right to share Customer Information, described in Section I, about our customers or former customers with our affiliated companies and with nonaffiliated third parties as described in Section III. If you prefer that we not share your Customer Information with our affiliated companies, we will honor your request. You may make such a request by the method described below. We will honor your request throughout our affiliated companies. 
     * Fill out the Opt Out Request form provided.
-    * In order to ensure that we accurately reflect your request, please provide your full name, address, social security number, and telephone number
+    * In order to ensure that we accurately reflect your request, please provide your full name, address, social security number, and telephone number.
     * Detach and mail the Opt Out Request Form to: Bank of Oklahoma, Attention: CRF/EFT Dept., P.O. Box 2300, Tulsa, OK 74192-0002.
-    * This request will apply to information from applications, consumer reports and other outside sources only.
     * If there is more than one borrower on your account, we will honor the Opt Out Request for all borrowers of record on your account.
     * Please allow six to eight weeks to be fully effective.
 
