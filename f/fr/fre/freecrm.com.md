@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freecrm.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626111519id_/http%3A//www.freecrm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecrm.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054108id_/http%3A//www.freecrm.com/privacy.html%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D650%26width%3D900) for the most accurate reproduction.*
 
-# FreeCRM
+# Free CRM Privacy Policy effective 06.13.2008
 
-CRM ASP Inc. PRIVACY STATEMENT for www.FreeCRM.com (effective 06.13.2008)
+CRM ASP Inc. PRIVACY STATEMENT for www.FreeCRM.com (effective 06.13.2008) [](http://www.truste.org/ivalidate.php?url=www.freecrm.com&sealid=101)
 
 1\. What personally identifiable information CRM ASP Inc. collects.  
 2\. What personally identifiable information third parties collect through the Web site.  
