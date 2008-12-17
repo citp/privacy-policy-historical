@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the play181.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628023005id_/http%3A//www.play181.com/index.php%3Fpageid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play181.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217170704id_/http%3A//www.play181.com/index.php%3Fpageid%3D1) for the most accurate reproduction.*
 
-# Privacy Policy | Play181 Games Arcade - Play Free Arcade Games
+# Privacy Policy | Arcade Games @ Play181.com
 
 **This Privacy Policy applies only to this web site, Play181.com. Please read this Privacy Policy carefully, so you know what we do with the information you give to us.**
 
