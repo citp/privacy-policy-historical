@@ -1,0 +1,1173 @@
+<!--The following is the downloaded HTML source of the napavalleyregister.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217025157id_/http%3A//www.napavalleyregister.com/pages/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Privacy policy | Napa Valley Register</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<link rel="shortcut icon" href="http://www.napavalleyregister.com/favicon.gif" type="image/gif">
+<link rel="stylesheet" type="text/css" href="http://www.napavalleyregister.com/v2inc/head/css/V2.css">
+<link rel="alternate" type="application/rss+xml" title="NVR full site feed" href="http://pipes.yahoo.com/pipes/pipe.run?_id=bcf1b08a19ddb11d65cbc2d1c35210cb&amp;_render=rss">
+<link rel="alternate" type="application/rss+xml" title="NVR local news feed" href="http://pipes.yahoo.com/pipes/pipe.run?_id=qHvSKXLB3BGFT7jFCB2yXQ&amp;_render=rss">
+<script type="text/javascript" src="http://www.napavalleyregister.com/v2inc/head/javascript/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="http://www.napavalleyregister.com/v2inc/head/javascript/common.js"></script>
+<script type="text/javascript" src="http://www.napavalleyregister.com/v2inc/head/javascript/swfobject.js"></script>
+<script type="text/javascript" src="http://www.napavalleyregister.com/v2inc/front/carousel/scripts/utilities.js"></script>
+<script type="text/javascript" src="http://www.napavalleyregister.com/v2inc/front/carousel/scripts/container_core-min.js"></script>
+<script type="text/javascript" src="http://www.napavalleyregister.com/v2inc/front/carousel/scripts/carousel_min.js"></script>
+<style type="text/css">
+/**
+ * Copyright (c) 2006-2007, Bill W. Scott
+ * All rights reserved.
+ *
+ * This work is licensed under the Creative Commons Attribution 2.5 License. To view a copy 
+ * of this license, visit http://creativecommons.org/licenses/by/2.5/ or send a letter to 
+ * Creative Commons, 543 Howard Street, 5th Floor, San Francisco, California, 94105, USA.
+ *
+ * This work was created by Bill Scott (billwscott.com, looksgoodworkswell.com).
+ * 
+ * The only attribution I require is to keep this notice of copyright & license 
+ * in this original source file.
+ *
+ * Version 0.6.1 - 07.08.2007
+ *
+ */
+
+/**
+ * Standard Configuration. It is advised that this section NOT be modified as the
+ * carousel.js expects the behavior outlined below.
+ **/
+.carousel-component { 
+	position:relative;
+	overflow:hidden;   /* causes the clipping */
+	display:none; /* component turns it on when first item is rendered */
+	
+}	
+.carousel-clip-region {
+	background-color:#ccc;
+	height:105px;
+	width:570px;
+}
+.carousel-component ul.carousel-list { 
+	width:10000000px;
+	position:relative;
+	z-index:1; 
+}
+.carousel-component .carousel-list li { 
+	float:left;
+	list-style:none;
+	overflow:hidden;   
+}
+.carousel-component .carousel-clip-region { 
+	overflow:hidden; /* Secret to the clipping */
+	margin:0px auto;
+	position:relative; 
+}
+.carousel-component { 
+	padding:0px;
+}
+.carousel-component ul.carousel-list { 
+	margin:0px;
+	padding:0px;
+	line-height:0px;
+}
+.carousel-component .carousel-list li { 
+	text-align:center;
+	margin:0px;
+	padding:0px;
+	font:10px verdana,arial,sans-serif;
+	color:#666;
+	
+}
+
+/* Variable styles */
+.carousel-component { 
+	padding:5px 15px;
+	margin:0px;
+}
+
+.carousel-component .carousel-list li { 
+	height:100px;
+	margin:0px 5px;
+	padding-bottom:5px;
+	width:180px;
+}
+
+.carousel-component .carousel-list li a { 
+	/* 
+	display:block;
+	border:1px solid #e2edfa;
+	outline:none;
+	*/
+}
+
+.carousel-component .carousel-list li a:hover { 
+	/*
+	border: 1px solid #aaaaaa;
+	*/
+}
+
+.carousel-component .carousel-list li img { 
+	/*
+	border:1px solid #999;
+	display:block; 
+	*/
+}
+								
+.carousel-component .carousel-prev { 
+	cursor:pointer;
+	left:10px;
+	position:absolute;
+	top:36px;
+	z-index:3;
+}
+
+.carousel-component .carousel-next { 
+	cursor:pointer;
+	position:absolute;
+	right:10px;
+	top:36px;
+	z-index:3;
+}
+</style>
+
+<script type="text/javascript">
+
+/**
+ * Custom button state handler for enabling/disabling button state. 
+ * Called when the carousel has determined that the previous button
+ * state should be changed.
+ * Specified to the carousel as the configuration
+ * parameter: prevButtonStateHandler
+ **/
+var handlePrevButtonState = function(type, args) {
+
+	var enabling = args[0];
+	var leftImage = args[1];
+	if(enabling) {
+		leftImage.src = "http://www.napavalleyregister.com/v2inc/front/carousel/images/left-enabled.gif";	
+	} else {
+		leftImage.src = "http://www.napavalleyregister.com/v2inc/front/carousel/images/left-disabled.gif";	
+	}
+	
+};
+
+/**
+ * Custom button state handler for enabling/disabling button state. 
+ * Called when the carousel has determined that the next button
+ * state should be changed.
+ * Specified to the carousel as the configuration
+ * parameter: nextButtonStateHandler
+ **/
+var handleNextButtonState = function(type, args) {
+
+	var enabling = args[0];
+	var rightImage = args[1];
+	
+	if(enabling) {
+		rightImage.src = "http://www.napavalleyregister.com/v2inc/front/carousel/images/right-enabled.gif";
+	} else {
+		rightImage.src = "http://www.napavalleyregister.com/v2inc/front/carousel/images/right-disabled.gif";
+	}
+	
+};
+
+
+/**
+ * You must create the carousel after the page is loaded since it is
+ * dependent on an HTML element (in this case 'mycarousel'.) See the
+ * HTML code below.
+ * 	autoPlay: 5000,
+ **/
+var carousel; // for ease of debugging; globals generally not a good idea
+var pageLoad = function() 
+{
+	carousel = new YAHOO.extension.Carousel("front_feature_belt", 
+		{
+			numVisible:        3,
+			animationSpeed:    0.15,
+			scrollInc:         1,
+			navMargin:         20,
+			prevElement:     "prev-arrow",
+			nextElement:     "next-arrow",
+			size:              9,
+			wrap: true,
+			prevButtonStateHandler:   handlePrevButtonState,
+			nextButtonStateHandler:   handleNextButtonState
+		}
+	);
+
+};
+
+YAHOO.util.Event.addListener(window, 'load', pageLoad);
+
+</script>
+</head>
+
+<body>
+<script type="text/javascript" src="http://www.napavalleyregister.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('napavalleyregister.com'); TNTracker.setTracker('http://www.napavalleyregister.com/shared-content/stats/common/tracker.gif', 'https://secure.townnews.com/shared-content/stats/common/tracker.gif'); TNTracker.trackPageView(); }
+// -->
+</script>
+<div id="nvr">
+<a name="top"></a>
+<table width="1000" cellpadding="5" cellspacing="0" border="0" bgcolor="#003366">
+<tbody><tr>
+<td width="252" align="right" height="110">
+<a href="http://www.napavalleyregister.com"><img src="http://images.townnews.com/napavalleyregister.com/art/nvr_online_logo.jpg" width="252" height="110" border="0" alt="NVR Logo"></a>
+</td>
+<td width="738" height="110" align="center">
+<script language="javascript" src="/shared-content/adsys/creative.js"></script>
+<script language="javascript" src="http://adsys.townnews.com/global/capped.js"></script>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[904] = 100;
+aCampaigns[764] = 0;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1160715600) && (nAdsysTime <= 1185944399)) {
+aAd = new Array('+top_dcm_leaderboard', '60313-1195148271', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1185944400) && (nAdsysTime <= 1500872399)) {
+aAd = new Array('+top_dcm_leaderboard', '90613-1185220859', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1186462800) && (nAdsysTime <= 1502168399)) {
+aAd = new Array('+top_dcm_leaderboard', '92314-1186503065', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1186462800) && (nAdsysTime <= 1502168399)) {
+aAd = new Array('+top_dcm_leaderboard', '92315-1186503140', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1186462800) && (nAdsysTime <= 1502168399)) {
+aAd = new Array('+top_dcm_leaderboard', '92316-1186503167', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1186462800) && (nAdsysTime <= 1502168399)) {
+aAd = new Array('+top_dcm_leaderboard', '92317-1186503204', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1186462800) && (nAdsysTime <= 1502168399)) {
+aAd = new Array('+top_dcm_leaderboard', '92376-1186517297', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1186462800) && (nAdsysTime <= 1502168399)) {
+aAd = new Array('+top_dcm_leaderboard', '92377-1186517359', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1186462800) && (nAdsysTime <= 1502168399)) {
+aAd = new Array('+top_dcm_leaderboard', '92378-1186517411', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1186462800) && (nAdsysTime <= 1502168399)) {
+aAd = new Array('+top_dcm_leaderboard', '92379-1186517455', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1186462800) && (nAdsysTime <= 1502168399)) {
+aAd = new Array('+top_dcm_leaderboard', '92380-1186517495', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+
+<script type="text/javascript">
+sfHover = function() {
+	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+</script>
+
+
+
+
+<div id="nav_wrap">
+<ul id="nav" class="main">
+	<li style="	border-left:1px solid #5A005A;"><a href="http://www.napavalleyregister.com">HOME</a></li>
+
+	<li><a href="http://www.napavalleyregister.com/news">NEWS</a>
+		<ul class="drop">
+			<li style="width:80px;"><a href="http://www.napavalleyregister.com/news">Local</a></li>
+			<li style="width:80px;"><a href="http://www.napavalleyregister.com/business">Business</a></li>
+		</ul>
+	</li>
+
+	<li><a href="http://www.napavalleyregister.com/opinion">OPINION</a></li>
+
+	<li><a href="#">FEATURES</a>
+		<ul class="drop">
+		<li style="width: 155px;"><a href="http://www.napavalleyregister.com/arts">Arts &amp; Entertainment</a></li>
+		<li style="width: 155px;"><a href="http://www.napavalleyregister.com/helios">Calendar</a></li>
+		<li style="width: 155px;"><a href="http://www.napavalleyregister.com/food">Food</a></li>
+		<li style="width: 155px;"><a href="http://www.napavalleyregister.com/home">Home &amp; Garden</a></li>
+		<li style="width: 155px;"><a href="http://www.napavalleyregister.com/life">Life &amp; Style</a></li>
+		<li style="width: 155px;"><a href="http://www.napavalleyregister.com/real_napa">Real Napa</a></li>
+		<li style="width: 155px;"><a href="http://www.napavalleyregister.com/wine">Wine</a></li>
+		</ul>
+	</li>
+	<li><a href="http://www.napavalleyregister.com/sports">SPORTS</a></li>
+	<li><a href="http://www.napavalleyregister.com/obituaries">OBITS</a></li>
+	<li class="nav_ad"><a href="http://advault.napavalleyregister.com">ADS</a></li>
+	<li class="nav_ad"><a href="http://www.napavalleyregister.com/hotjobs/">JOBS</a></li>
+	<li class="nav_ad"><a href="http://www.napavalleyregister.com/pages/homes">REAL ESTATE</a></li>
+	<li class="nav_ad"><a href="http://www.napavalleywheels.com/">AUTOS</a></li>
+	<li class="nav_ad"><a href="http://www.napanews.com/classifieds/">CLASSIFIED</a></li>
+
+
+	<li class="nav_inv"><a href="http://www.insidenapavalley.com">VISIT NAPA VALLEY</a>
+		<ul class="drop">
+			<li style="width: 110px;"><a href="http://www.insidenapavalley.com/dining/">Dining</a></li>
+			<li style="width: 110px;"><a href="http://www.insidenapavalley.com/wine/">Wineries</a></li>
+			<li style="width: 110px;"><a href="http://www.insidenapavalley.com/lodging/">Lodging</a></li>
+			<li style="width: 110px;"><a href="http://www.insidenapavalley.com/shopping/">Shopping</a></li>
+			<li style="width: 110px;"><a href="http://www.insidenapavalley.com/things_to_do/">Things to do</a></li>
+			<li style="width: 110px;"><a href="http://www.insidenapavalley.com/community/">Community</a></li>
+		</ul>
+	</li>
+</ul>
+</div>
+
+
+
+<div style="padding: 8px;">
+<div style="width: 100%;clear:both;overflow:hidden;">
+<div style="width:645px;float:left;overflow:hidden;">
+<div id="pages">
+<h1>Privacy policy</h1>
+
+<p>Welcome to the Web site of the Napa Valley Register. We (which includes our
+parent company, Lee Enterprises, Incorporated) believe in your right to know what
+information is collected during your visit to our Web site(s) and how that
+information is used and safeguarded.</p>
+
+<h3>Information Automatically Gathered About All Visitors</h3>
+
+<p>We collect aggregate and user-specific information on the pages consumers
+access or visit. This information is used to generate reports that help us assess
+the value of and interest in the Web site(s) we provide. We use the information we
+collect to improve the content of our web pages. We can build a better site if we
+know which pages our users are visiting, how often they visit and how long they
+stay on a page.</p>
+<p>Our web servers automatically collect limited information about your computer's
+connection to the Internet, including your IP address (but not the e-mail address),
+when you visit our sites. Your IP address does not contain personally identifiable
+information, nor does it identify you personally. We use this information to deliver
+our web pages to you upon request, to tailor our sites to the interests of our users,
+and to measure traffic within our sites.</p>
+<p>To help make our sites more responsive to the needs of our visitors, we may utilize
+a standard feature of browser software called a "cookie." A cookie is a small piece
+of computer code that is deposited on your hard drive by our site. Browsers
+typically recognize when a cookie has been sent to your computer and give you
+the option to refuse or allow it. A cookie does not actually identify you, just the
+computer that you are using to access our site. A cookie cannot read data off your
+hard drive. Our advertisers, content partners and sites that are reached from links
+on our site may also assign their own cookies to your browser, a process that we
+cannot control.</p>
+<p>We use cookies to help us tailor our site to your needs so we can deliver a better
+and more personalized service. It is a cookie, for example, that allows us to
+deliver to you any personalized information each time you visit a site.</p>
+<p>In addition, we can access cookies later in your current session or in a later
+session on our site in order to improve your visit to our Web site, as in the
+following examples:</p>
+<h3>Payment Identification</h3>
+<p>This cookie allows us to maintain information containing the products (like
+photo reprints) or services (such as placing a classified advertisement or
+signing up for home delivery) you are purchasing while you are online. To
+limit unauthorized access, this cookie, also called a session cookie, expires
+whenever you exit a browser session.</p>
+<h3>Information Gathered by Voluntary Submission</h3>
+<p>To make use of certain features on our Web site(s) (such as contests, story
+comments, letters to the editor, personalized web pages and other interactive
+forums and blogs) visitors might need to register and provide certain information
+as part of the registration or participation process. We may ask, for example, for
+your name, e-mail address, gender, age, and zip code, and we might request
+information on your interest in sports, personal finance, the performing arts, and
+the like.</p>
+<p>The information you supply will help us offer you more personalized features, to
+tailor our sites to your interests and make them more useful to you. The more you
+tell us about yourself, the more value we can offer you. Supplying such
+information is entirely voluntary. But if you do not supply the information we need,
+we may be unable to provide you with services and content we make available to
+other visitors to our sites. Of course, even if you want to remain completely
+anonymous, you are still free to take advantage of the wealth of content that is
+otherwise available, without registration, on our sites.</p>
+
+<h3>Children under the Age of 13</h3>
+
+<p>If you are under the age of 13, do not send us any information about yourself such
+as your name, address or e-mail address. You may only send us personally
+identifiable information if one of your parents has verified to us his or her consent
+to collection of the information.</p>
+
+<p>Because we are a media company, some of our online services and content may
+be attractive to children. Because we strive to protect the privacy of all users of
+our site, including children, we endeavor to comply with the Children�s Online
+Privacy Protection Act. Our site:</p>
+<p>- Includes our contact information.</p>
+<p>- Explains the types of personal information we collect, and how we use it.</p>
+<p>- Explains our practices in terms of sharing personal information with third
+parties.</p>
+<p>- Allows parents to consent to the collection and use of their children�s
+personal information, without consenting to disclosure to third parties.
+</p><p>- Does not condition a child�s participation in an activity on the child�s
+providing more personal information than is reasonably necessary for the activity.</p>
+<p>- Allows parents to review their child�s information, have it deleted, or refuse
+to permit any further collection, by contacting us.</p>
+<p>We make a special effort to encourage children under the age of 13 to consult with
+their parents before furnishing any personal data. However, we also believe that
+parents should supervise their children's online activities and consider using
+parental control tools available from online services and software manufacturers
+that help provide a child-friendly online environment. These tools can also prevent
+children from disclosing their name, address, and other personal information online
+without parental permission. For additional information about parental control
+tools, please consult http://www.icra.org/_en/parents.</p>
+<h3>E-mails from Us</h3>
+<p>Upon registering with our Web site, you may begin receiving communications from
+us. In addition, if you have signed up for any of our automated account services,
+we will send you transactional e-mails regarding the status of your account,
+including confirmations, notices of expiration and renewal and other related
+electronic correspondence. If you have signed up for any of our e-mail
+newsletters, you may stop receiving them if you follow the "unsubscribe"
+instructions located near the bottom of each newsletter. We may send you an email
+inviting you to participate in subscriber or Web site user surveys. Such
+surveys greatly help us improve our services and the value of our Web site(s).
+Any information you give us in those surveys will not be shared with any third
+parties except in aggregate form.</p>
+<h3>What We Do With the Information We Gather About You</h3>
+<p>
+We or one of our affiliated companies may perform statistical, marketing and
+demographic analyses of our delivery subscribers and their subscription patterns.
+In addition, we may generally inform our advertisers about our subscriber base.
+When we present information to our advertisers -- to help them understand our
+audience and confirm the value of advertising on our Web site(s) -- it is usually in
+the form of aggregated statistics on traffic to various pages within our sites. We
+will not share individual user information with third parties unless the user has
+specifically approved the release of that information. In some cases, however, we
+may provide information to legal officials as described in �Compliance with Legal
+Process� below.</p>
+<p>In some cases, we contract with third parties to provide services on our behalf,
+including credit-card and bill processing, shipping, e-mail distribution, list
+processing and analytics or promotions management. We provide these third
+parties only with the information necessary for them to perform their specific
+services. These service providers are restricted from using this information in any
+way other than to provide services to us, and they may not share this information
+with any one else nor may they resell this data.</p>
+<h3>California Privacy Rights</h3>
+<p>California Civil Code Section 1798.83 allows our California customers to request
+certain information regarding our disclosures in the prior calendar year, if any, of
+personally identifiable information to third parties for their own direct marketing
+purposes. To make such a request, please contact us at Napa Valley Register 1615 Second Street, Napa, CA 94559, Attn: Marketing Department, and
+include your name and the address to which you would like us to respond. We will
+attempt to provide you with the requested information within thirty days of receipt.
+</p><h3>Compliance with Legal Process</h3>
+<p>We may disclose personal information if we or one of our affiliated companies is
+required by law to disclose personal information, or if we believe in good faith that
+such action is necessary to comply with a law or some legal process, to protect or
+defend our rights and property, to protect against misuse or unauthorized use of
+our Web site(s) or to protect the personal safety or property of our users or the
+public.
+</p><h3>A Final Note:</h3>
+<p>We are affiliated with other online companies, some of which feature our branding;
+in addition there are numerous links to third parties contained on our site. Our
+Privacy Policy does not apply to those companies' Web site(s), so you should refer
+to each of those sites to obtain information on their privacy policies. If you cannot
+find the privacy policy on any of these sites once you have arrived at their site via
+a link from our site, you should contact that site directly for more information.
+The web is an evolving medium. If we need to change our Privacy Policy at some
+point in the future, we will post the changes before they take effect if we believe
+that the change in the way we use your personal information is significant or
+material. Of course, our use of information gathered while the current policy is in
+effect will always be consistent with the current policy, even if we change that
+policy later.</p>
+<p>Last updated on 12/16/06</p>
+</div>
+</div>
+<div class="ad_side">
+<div id="searcher">
+<div style="display:inline;font-weight:bold;">Search:</div>
+<div style="display:inline;">
+<form style="display:inline;" method="GET" action="http://www.napavalleyregister.com/search/">
+<input name="query" size="10" maxlength="255" type="text" value="" class="search_form">
+<select name="qtype" class="selection">
+           <option value="articles">Articles</option>
+           <option value="web">Web</option>
+           <option value="videos">Videos</option>
+           <option value="classifieds">Classifieds</option>
+           <option value="jobs">Jobs</option>
+           <option value="homes">Homes</option>
+           <option value="cars">Cars</option>
+</select>
+
+<input name="cmd_search" type="submit" value="GO" align="middle" class="search_button">
+</form>
+</div>
+<div style="margin-top:5px;"><a href="http://www.napavalleyregister.com/shared-content/search/index.php?search=advanced" style="font-size:11px;">Advanced search</a><span style="font-size:9px;padding-left:10px;">Web Search Powered By <span style="color:red;">Yahoo!</span> Search</span></div>
+</div>
+<div class="index_ad"><!-- AdSys ad not found for pages/privacy:index --></div>
+<div class="vmix_widget"><script type="text/javascript" language="javascript" src="http://api.vmixcore.com/widgets/video_list_player.js.php?token=2634063e0c2dc400ed1a9d84c43f9d5d"></script>
+<script type="text/javascript" language="javascript">
+var wid = new VideoListPlayerWidget();
+wid.width = "322";
+wid.height = "515";
+wid.play_url = "http://videos.napavalleyregister.com/p/video?id=";
+wid.genre_name = "Editor's Picks";
+wid.hide_post = "1";
+wid.show_featured = "1";
+wid.extra_options = "frameborder=0";
+wid.styles = "border: 1px solid #ccc;";
+wid.stylesheet = "http://www.napavalleyregister.com/v2inc/vmix/vmix03.css";
+wid.script1 = "http://www.napavalleyregister.com/s_code.js"; 
+wid.script2 = "http://www.napavalleyregister.com/v2inc/vmix/vmix_code.js";
+wid.drawWidget();
+</script>
+
+
+
+
+<!--[include_if:opinion:/v2inc/vmix/opinion.html]-->
+</div>
+<div style="margin:10px 0px;"> <div class="tabber" id="marketplace">
+<ul class="tabber" id="marketplace-nav">
+<li><a href="#tab1" class="">Marketplace</a></li>
+<li><a href="#tab3" class="">Jobs</a></li>
+<li><a href="#tab4" class="">Homes</a></li>
+<li><a href="#tab5" class="">Autos</a></li>
+
+</ul>  
+<div class="marketplace-container">
+
+<div id="tab1" class="tab" style="display: block;">
+<div>
+
+
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top" rowspan="3">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[764] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1183006800) && (nAdsysTime <= 1498712399)) {
+aAd = new Array('+topjobsnew', '88031-1229133664', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</td>
+<td align="right" valign="top">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[764] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1204264800) && (nAdsysTime <= 1519970399)) {
+aAd = new Array('+tophomes', '117046-1229106395', 'gif');
+aAd[3] = 'http://www.nvpalmhouse.com/';
+aAd[4] = '1';
+aAd[6] = '0';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1204264800) && (nAdsysTime <= 1519970399)) {
+aAd = new Array('+tophomes', '117136-1227312256', 'gif');
+aAd[3] = 'http://www.greenvalleyassoc.com/viewlisting.php?View=240';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1205470800) && (nAdsysTime <= 1521089999)) {
+aAd = new Array('+tophomes', '118990-1229106080', 'gif');
+aAd[3] = 'http://www.648chaparralcir.com/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1207285200) && (nAdsysTime <= 1522904399)) {
+aAd = new Array('+tophomes', '122406-1229367261', 'gif');
+aAd[3] = 'http://www.cydgreer.com/2470-Spring-Mountain-Road-a32112.html';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1214542800) && (nAdsysTime <= 1530161999)) {
+aAd = new Array('+tophomes', '135057-1226685564', 'gif');
+aAd[3] = 'http://www.carolynroberts.com/MyHomeDtl.asp?lstPages=1&HomeID=290156';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</td>
+</tr>
+<tr>
+<td>
+<img src="http://images.townnews.com/napavalleyregister.com/art/clear.gif" height="5" border="0">
+</td>
+</tr>
+<tr>
+<td align="right" valign="top">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[764] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1204264800) && (nAdsysTime <= 1519970399)) {
+aAd = new Array('+topautos', '117088-1226618719', 'jpg');
+aAd[3] = 'http://napavalleywheels.com/details.php?eqvehicleid=34624119&eqdealerid=300857';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1204264800) && (nAdsysTime <= 1519970399)) {
+aAd = new Array('+topautos', '117139-1226618403', 'jpg');
+aAd[3] = 'http://napavalleywheels.com/details.php?eqvehicleid=34624131&eqdealerid=300857';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1204264800) && (nAdsysTime <= 1519970399)) {
+aAd = new Array('+topautos', '117140-1226618003', 'jpg');
+aAd[3] = 'http://www.napavalleywheels.com/details.php?eqvehicleid=34047921&eqdealerid=202756';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1204264800) && (nAdsysTime <= 1519970399)) {
+aAd = new Array('+topautos', '117141-1226617554', 'jpg');
+aAd[3] = 'http://www.napavalleywheels.com/details.php?eqvehicleid=34605732&eqdealerid=202756';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</td>
+</tr>
+</tbody></table>
+
+</div>
+</div>
+
+<div id="tab3" class="tab" style="display: block;">
+<div>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[764] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1204264800) && (nAdsysTime <= 1519883999)) {
+aAd = new Array('+topjobsnew2', '117114-1229133650', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</div>
+</div>
+
+<div id="tab4" class="tab" style="display: block;">
+<div>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td align="right" valign="bottom">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[764] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1204264800) && (nAdsysTime <= 1519970399)) {
+aAd = new Array('+tophomes1', '117147-1229106359', 'jpg');
+aAd[3] = 'http://www.nvpalmhouse.com/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</td>
+<td valign="bottom">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[764] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1204264800) && (nAdsysTime <= 1519970399)) {
+aAd = new Array('+tophomes2', '117148-1227312290', 'jpg');
+aAd[3] = 'http://www.greenvalleyassoc.com/viewlisting.php?View=240';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</td>
+</tr>
+<tr>
+<td align="right" valign="top">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[764] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1205470800) && (nAdsysTime <= 1521089999)) {
+aAd = new Array('+tophomes3', '119115-1229106097', 'jpg');
+aAd[3] = 'http://www.648chaparralcir.com/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</td>
+<td valign="top">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[764] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1207285200) && (nAdsysTime <= 1522904399)) {
+aAd = new Array('+tophomes4', '122405-1229367241', 'jpg');
+aAd[3] = 'http://www.cydgreer.com/2470-Spring-Mountain-Road-a32112.html';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</td>
+</tr>
+<tr>
+<td align="right" valign="top">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[764] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1214542800) && (nAdsysTime <= 1530161999)) {
+aAd = new Array('+tophomes5', '135058-1226685603', 'jpg');
+aAd[3] = 'http://www.carolynroberts.com/MyHomeDtl.asp?lstPages=1&HomeID=290156';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</td>
+<td valign="top">
+<!-- AdSys ad not found for pages/privacy:tophomes6 -->
+</td>
+</tr>
+</tbody></table>
+
+
+</div>
+</div>
+
+<div id="tab5" class="tab" style="display: block;">
+<div>
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td align="right" valign="bottom">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[764] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1204264800) && (nAdsysTime <= 1519970399)) {
+aAd = new Array('+topautos1', '117143-1226618693', 'jpg');
+aAd[3] = 'http://napavalleywheels.com/details.php?eqvehicleid=34624119&eqdealerid=300857';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</td>
+<td valign="bottom">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[764] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1204264800) && (nAdsysTime <= 1519970399)) {
+aAd = new Array('+topautos2', '117144-1226618378', 'jpg');
+aAd[3] = 'http://napavalleywheels.com/details.php?eqvehicleid=34624131&eqdealerid=300857';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</td>
+</tr>
+<tr>
+<td align="right" valign="top">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[764] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1204264800) && (nAdsysTime <= 1519970399)) {
+aAd = new Array('+topautos3', '117145-1226617980', 'jpg');
+aAd[3] = 'http://www.napavalleywheels.com/details.php?eqvehicleid=34047921&eqdealerid=202756';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</td>
+<td valign="top">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[764] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1204264800) && (nAdsysTime <= 1519970399)) {
+aAd = new Array('+topautos4', '117146-1226617527', 'jpg');
+aAd[3] = 'http://www.napavalleywheels.com/details.php?eqvehicleid=34605732&eqdealerid=202756';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 764;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'napavalleyregister.com', aAds, aCampaigns);
+
+// -->
+</script>
+</td>
+</tr>
+</tbody></table>
+
+
+</div>
+</div>
+
+</div>
+</div>
+<script type="text/javascript">
+var tabber1 = new Yetii({
+id: 'marketplace'
+});
+</script></div>
+</div>
+</div>
+</div>
+<div class="footer_shell">
+<div class="footer_top">
+<div class="footer_top_link"><a href="#top">Back to top</a></div>
+
+<div class="footer_top_left">
+<a href="http://pipes.yahoo.com/pipes/pipe.run?_id=bcf1b08a19ddb11d65cbc2d1c35210cb&amp;_render=rss"><img style="border:none;" src="http://images.townnews.com/napavalleyregister.com/v2inc/footer/rss.png"></a>
+<a href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Fpipes.yahoo.com%2Fpipes%2Fpipe.run%3F_id%3Dbcf1b08a19ddb11d65cbc2d1c35210cb%26_render%3Drss"><img style="border:none;" src="http://images.townnews.com/napavalleyregister.com/v2inc/footer/yahoo.png"></a>
+<a href="http://fusion.google.com/add?feedurl=http%3A%2F%2Fpipes.yahoo.com%2Fpipes%2Fpipe.run%3F_id%3Dbcf1b08a19ddb11d65cbc2d1c35210cb%26_render%3Drss"><img style="border:none;" src="http://images.townnews.com/napavalleyregister.com/v2inc/footer/google.png"></a>
+</div>
+<div class="footer_top_right">
+Contact: <a href="http://www.napavalleyregister.com/pages/news/">News</a> | <a href="http://www.napavalleyregister.com/pages/advertising/">Advertising</a> | <a href="http://www.napavalleyregister.com/pages/subscription_services/">Subscriber Services</a> | <a href="http://www.napavalleyregister.com/workhere/">Work for us</a> | <a href="http://pictopia.com/perl/gal?provider_id=193">Buy photos</a>
+</div>
+</div>
+
+<div class="footer_bottom">
+<div class="footer_bottom_left">
+<strong>More local news:</strong> 
+<a href="http://www.americancanyoneagle.com/">American Canyon Eagle</a> <span style="color:#AAA;">|</span>
+<a href="http://www.sthelenastar.com/">St. Helena Star</a> <span style="color:#AAA;">|</span>
+<a href="http://www.weeklycalistogan.com/">Weekly Calistogan</a>
+</div>
+<div class="footer_bottom_right">
+<strong>Local tourism:</strong> 
+<a href="http://www.insidenapavalley.com/">Inside Napa Valley</a>
+</div>
+</div>
+
+</div>
+
+</div>
+
+<!-- omniturelee extension v1.0.0 -->
+<!-- SiteCatalyst code version: H.7.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="http://www.napavalleyregister.com/pages/privacy/"
+s.server="Napa"
+s.channel="napavalleyregister.com"
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7="napavalleyregister.com - "
+s.prop8=""
+s.prop9=""
+s.prop10=""
+s.prop11=""
+s.prop12=""
+s.prop13=""
+s.prop14="18:51"
+s.prop15="Tuesday"
+s.prop16=""
+s.prop17=""
+s.prop18=""
+s.prop19=""
+s.prop20=""
+
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/* Hierarchy Variables */
+s.hier1="Lee Enterprises,Napa,napavalleyregister.com,,,,,"
+s.hier2="Lee Enterprises,,Napa,napavalleyregister.com,,,,"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. -->
+
+
+</body></html>
