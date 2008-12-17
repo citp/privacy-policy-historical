@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edge.ca privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522030547id_/http%3A//www.edge.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edge.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217031256id_/http%3A//www.edge.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# 102.1 The Edge
+# 102.1 the Edge
 
 CFNY FM respects your privacy and believes the best way to serve you on the Internet is with honesty, accountability and adherence to legal standards. We are sensitive to the issue of privacy and have structured our online activities to maximize your control over the disclosure of your own personally identifiable information. 
 
