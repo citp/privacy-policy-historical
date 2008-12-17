@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotmath.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213023903id_/http%3A//hotmath.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmath.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114007id_/http%3A//hotmath.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Hotmath Privacy Policy
 
@@ -17,6 +17,6 @@ We will never request any information regarding medical, health, race, ethnic or
   * **Security**  
 We will take appropriate steps to protect the information you share with us from unauthorized access or disclosure. 
   * **Commitment**  
-We are committed to privacy and support many current industry initiatives to preserve individual privacy rights on the Internet. Personal data privacy is an evolving area. Mistakes are possible; miscommunication is possible. If you have any comments or questions regarding our privacy policy, please contact us at [comments@hotmath.com](mailto:comments@hotmath.com). 
+We are committed to privacy and support many current industry initiatives to preserve individual privacy rights on the Internet. Personal data privacy is an evolving area. Mistakes are possible; miscommunication is possible. If you have any comments or questions regarding our privacy policy, please contact us at comments@hotmath.com. 
 
 
