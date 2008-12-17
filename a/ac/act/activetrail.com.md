@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activetrail.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613205802id_/http%3A//www.activetrail.com/about_us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activetrail.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217023337id_/http%3A//www.activetrail.com/About_Us/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - ActiveTrail Email Marketing Solutions
 
@@ -30,4 +30,4 @@ The name "ActiveTrail" is a registered trademark owned by ActiveTrail™ and The
 
 ## General
 
-We may change our privacy policy in the future. Any changes to our privacy policy will be made available online. If you have any questions about our privacy policy, the practices of this website, or your dealings with our company, please [click here](https://web.archive.org/web/20080613205802id_/http%3A//www.activetrail.com/contact_us/contact.html?to=Info) to email us. Please see our [Spam Policy](https://web.archive.org/web/20080613205802id_/http%3A//www.activetrail.com/about_us/anti_spam.html). 
+We may change our privacy policy in the future. Any changes to our privacy policy will be made available online. If you have any questions about our privacy policy, the practices of this website, or your dealings with our company, please [click here](https://web.archive.org/web/20081217023337id_/http%3A//www.activetrail.com/contact_us/contact.html?to=Info) to email us. Please see our [Spam Policy](https://web.archive.org/web/20081217023337id_/http%3A//www.activetrail.com/about_us/anti_spam.html). 
