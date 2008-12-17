@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lyris.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517161546id_/http%3A//www.lyris.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyris.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055117id_/http%3A//www.lyris.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Terms and Privacy Policy
 
 [](http://www.lyris.com/company/privacy-policy/index.cfm?&fs=1)
 
@@ -23,6 +23,10 @@ The Lyris, Inc. web site contains links to other sites. Lyris, Inc. is not respo
 Lyris, Inc. provides users the opportunity to opt-in and opt-out of receiving e-mail communications from us. This is made available during sign-up for our e-mail lists and in e-mail messages delivered from Lyris, Inc. Systems. Users requesting Lyris, Inc. e-mail communications may update, amend, or delete personal information by following the Profile Update links present in every Lyris, Inc. e-mail communication.
 
 For any list managed by Lyris, Inc. , users can use the link in the footer of most e-mail messages. Alternatively, users can reply to an e-mail message according to the instructions at the bottom of the message.
+
+**Charges**
+
+SMS alerts sent from Lyris are without charges. However, your mobile phone carrier may charge you for usage. The customer is liable for any mobile phone charges incurred (usage, subscription, etc) as a result of subscribing to the Lyris SMS Alerts. Please consult your mobile service carrier's pricing plan to determine the charges for sending and receiving text messages.
 
 **Third-Party Sharing  
 **  
