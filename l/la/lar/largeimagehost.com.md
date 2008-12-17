@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the largeimagehost.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609131120id_/http%3A//www.largeimagehost.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the largeimagehost.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063533id_/http%3A//www.largeimagehost.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Free image hosting for ebay, myspace, orkut, web sites and forums - large image host
 
