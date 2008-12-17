@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qala.com.sg privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513144726id_/http%3A//www.qala.com.sg/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qala.com.sg privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217135640id_/http%3A//www.qala.com.sg/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # QALA Singapore > Privacy Policy
 
