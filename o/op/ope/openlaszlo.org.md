@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openlaszlo.org privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515234427id_/http%3A//www.openlaszlo.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openlaszlo.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055004id_/http%3A//www.openlaszlo.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenLaszlo
 
@@ -57,3 +57,5 @@ Or contact us by mail at:
 Laszlo Systems, Inc.  
 2600 Campus Drive  
 San Mateo, CA, 94403**
+
+ 
