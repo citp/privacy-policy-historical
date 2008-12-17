@@ -1,268 +1,53 @@
-<!--The following is the downloaded HTML source of the 1000goals.com privacy policy that was archived on 2008-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080502133332id_/http%3A//www.1000goals.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1000goals.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217172553id_/http%3A//www.1000goals.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head profile="http://gmpg.org/xfn/11">
-	<title>Privacy Policy | 1000 Football (soccer) goals, videos, wallpapers and animations</title>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta name="description" content="Football animations, goals, highlights, videos, wallpapers, pictures and avatars.">
-	<meta name="generator" content="WordPress 2.3.1"><!-- Please leave for stats -->
-	<link rel="stylesheet" type="text/css" href="http://www.1000goals.com/wp-content/themes/wrath/style.css">
-	<link rel="alternate" type="application/rss+xml" href="http://www.1000goals.com/feed" title="1000 Football (soccer) goals, videos, wallpapers and animations Posts RSS feed">
-	<link rel="alternate" type="application/rss+xml" href="http://www.1000goals.com/comments/feed" title="1000 Football (soccer) goals, videos, wallpapers and animations Comments RSS feed">
-	<link rel="pingback" href="http://www.1000goals.com/xmlrpc.php">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 
-	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.1000goals.com/xmlrpc.php?rsd">
- <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.1000goals.com/wp-includes/wlwmanifest.xml"> 
-<!-- all in one seo pack 1.4.3.6 [220,313,Privacy Policy | 1000 Football (soccer) goals, videos, wallpapers and animations] -->
-<meta name="description" content="Third Party Advertising: We use Google AdSense, to serve ads when you visit our Web site. These companies may use information (not including your name,">
-<script language="javascript" type="text/javascript">
-<!--
-		function collapseThread( theId ) {
-			var comment = document.getElementById(theId);
-			if(!comment)
-			{
-				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
-				return;
-			}
-			var theBody = findBody(comment);
-			if(comment.className.indexOf("collapsed") > -1) {
-				comment.className = comment.className.replace(" collapsed", "");;
-			} else {
-				comment.className += " collapsed";
-			}
-		}
-
-		function expandThread( theId ) {
-			var comment = document.getElementById(theId);
-			if(!comment)
-			{
-				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
-				return;
-			}
-			var theBody = findBody(comment);
-			if(comment.className.indexOf("collapsed") > -1) {
-				comment.className = comment.className.replace(" collapsed", "");;
-			} 
-		}
-		
-		function findBody(el)
-		{
-			var divs = el.getElementsByTagName("div");
-			var ret;
-			for(var i = 0; i < divs.length; ++i) {
-				if(divs.item(i).className.indexOf("body") > -1)
-					return divs.item(i);
-			}
-			return false;
-		}
-	
-		function onAddComment() {
-			//checkDocumentIntegrity();
-			var el = document.getElementById("commentform");
-			// Future release: Check if form is filled correctly and mark the form fields.
-			el.submit();
-		}
-		
-		function moveAddCommentBelow(theId, threadId, collapse)
-		{
-			expandThread( theId );
-			var addComment = document.getElementById("addcomment");
-			if(!addComment)
-			{
-			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
-				return
-			}
-			var comment = document.getElementById(theId);
-			if(collapse)
-			{
-				for(var i = 0; i < comment.childNodes.length; ++i) {
-					var c = comment.childNodes.item(i);
-					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
-						c.className += " collapsed";
-					}
-				}
-			}
-			addComment.parentNode.removeChild(addComment);
-
-			comment.appendChild(addComment);
-			if(comment.className.indexOf("alt")>-1) {
-				addComment.className = addComment.className.replace(" alt", "");					
-			} else {
-				addComment.className += " alt";
-			}
-		        var replyId = document.getElementById("comment_reply_ID");
-			if(replyId == null)
-			{
-				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
-			}
-			replyId.value = threadId;
-			var reRootElement = document.getElementById("reroot");
-			if(reRootElement == null)
-			{
-				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
-			}
-			reRootElement.style.display = "block";
-			var aTags = comment.getElementsByTagName("A");
-			var anc = aTags.item(0).id;
-			//document.location.href = "#"+anc;
-			document.getElementById("comment").focus();
-		}
-
-		function checkDocumentIntegrity()
-		{
-			str = "";
-			
-			str += checkElement("reroot","div tag");
-			str += checkElement("addcomment", "div tag");
-			str += checkElement("comment_reply_ID", "hidden form field");
-			str += checkElement("content", "div tag");
-			str += checkElement("comment", "textfield");
-			str += checkElement("addcommentanchor", "anchor tag");
-			
-			if(str != "")
-			{
-				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
-				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
-
-				alert(str);
-			}
-		}
-               
-		function checkElement(theId, elDesc)
-		{
-			var el = document.getElementById(theId);
-			if(!el)
-			{
-				if(elDesc == null)
-					elDesc = "element";
-				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
-			}
-			else 
-				return "";
-		}
-		
-		function reRoot()
-		{
-			var addComment = document.getElementById("addcomment");			
-			var reRootElement = document.getElementById("reroot");
-			reRootElement.style.display = "none";
-			var content = document.getElementById("content");
-			addComment.parentNode.removeChild(addComment);
-			content.appendChild(addComment);
-			addComment.className = addComment.className.replace(" alt", "");
-			document.location.href = "#addcommentanchor";
-			document.getElementById("comment").focus();				
-			document.getElementById("comment_reply_ID").value = "0";
-		}			
-		
-		function changeCommentSize(d)
-		{
-			var el = document.getElementById("comment");
-			var height = parseInt(el.style.height);
-			if(!height && el.offsetHeight)
-				height = el.offsetHeight;
-			height += d;
-			if(height < 20) 
-				height = 20;
-			el.style.height = height+"px";
-		}		
--->
+<script language="JavaScript" type="text/javascript">
+if (top.location != self.location) top.location = self.location;
 </script>
-<style type="text/css">
-.comment 
-{
-	position: 				relative;
-	margin:					3px;
-	margin-top:				6px;
-/*	border: 				1px solid #666; */
-	padding:				4px 4px 4px 8px;
-	background-color:		#fff;
-}
 
-.odd
-{
-	background-color: #f8f8f8;
-}
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Privacy Policy | 1000 Goals - football blog</title>
+<meta name="robots" content="index,follow">
+<meta name="generator" content="WordPress 2.6.3"><!-- leave this for stats -->
+<meta name="copyright" content="1000Goals.com">
+<meta name="revisit-after" content="2 days">
+<meta name="distribution" content="Global">
+<meta name="rating" content="General">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="verify-v1" content="bZcXFF8/O7+BqMz8LYc563KGCcxj5P5K+yZp9lBo3mM=">
 
-.comment div {
-	position: 				relative;
-}
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.1000goals.com/wp-content/themes/ambient-glo/style.css">
+<link rel="alternate" type="application/rss+xml" title="1000 Goals - football blog RSS Feed" href="http://www.1000goals.com/feed">
+<link rel="pingback" href="http://www.1000goals.com/xmlrpc.php">
 
-.comment .comment img
-{
-	margin: 				0px;
-}
+<script language="JavaScript">
+<!-- Idea by:  Nic Wolfe -->
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
 
-.comment .collapseicon 
-{
-	width: 					13px;
-	height: 				13px;
-	overflow:				hidden;
-	background-image: 		url(http://www.1000goals.com/wp-content/plugins/briansthreadedcomments.php?image=subthread-open.png);
+<!-- Begin
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=900,height=750,left = 20,top = 50');");
 }
+// End -->
+</script>
 
-.collapsed .collapseicon 
-{
-	background-image: 		url(http://www.1000goals.com/wp-content/plugins/briansthreadedcomments.php?image=subthread.png);
-}
+<!--we need this for plugins-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.1000goals.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.1000goals.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 2.6.3">
 
 
-.comment .reply {
-	text-align: 			right;
-	font-size: 				80%;
-	padding: 				0px 6px 6px 0px;
-}
-
-.comment
-{
-	border: 	1px solid #ddd;
-	margin-top: 			10px;
-}
-
-input#subscribe
-{
-	width: auto;
-}
-
-.comment .body .content
-{
-	padding:				0px 3px 0px 3px;
-	width: 					100%;	
-	overflow: 				auto; 
-}
-
-.comment .title abbr
-{
-	border: none;
-}
-
-.collapsed .body, .collapsed .comment
-{
-	display:				none;
-}
-/*
-#addcomment small, #addcomment div
-{
-	padding:				3px;
-}
-*/
-#commentform textarea {
-	width: 97%;
-}
-</style>
+<!-- all in one seo pack 1.4.3.6 [416,472,Privacy Policy | 1000 Goals - football blog] -->
 
 <!-- Start Of Script Generated By WP-PageNavi 2.20 -->
 <link rel="stylesheet" href="http://www.1000goals.com/wp-content/plugins/pagenavi/pagenavi-css.css" type="text/css" media="screen">
 <!-- End Of Script Generated By WP-PageNavi 2.20 -->
-
-<!-- Start Of Script Generated By WP-UserOnline 2.20 -->
-<script type="text/javascript" src="http://www.1000goals.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
-<script type="text/javascript" src="http://www.1000goals.com/wp-content/plugins/useronline/useronline-js.php?ver=2.20"></script>
-<!-- End Of Script Generated By WP-UserOnline 2.20 -->
-
-	<link rel="stylesheet" href="http://www.1000goals.com/wp-content/plugins/wordspew/css.php" type="text/css">
-	<script type="text/javascript" src="http://www.1000goals.com/wp-content/plugins/wordspew/fatAjax.php"></script>
-		<style type="text/css" media="screen">
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/widget/?tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;style=rotate&amp;publisher=14e2bb3e-d900-4305-a675-12650b77f679&amp;embeds=true&amp;wp=2.6.3"></script><style type="text/css" media="screen">
 /* Begin WPvideo CSS */
 .wpv_videoc {
 	text-align: center;
@@ -335,135 +120,190 @@ input#subscribe
 </style>
 
 
-<script language="JavaScript">
-<!--
-function mmLoadMenus() {
-  if (window.mm_menu_0327172148_0) return;
-    window.mm_menu_0327172148_0_1 = new Menu("Match&nbsp;Highlights",146,16,"Verdana, Arial, Helvetica, sans-serif",10,"#ffffff","#333333","#000000","#cccccc","left","middle",3,0,1000,-5,11,true,true,true,0,true,true);
-    mm_menu_0327172148_0_1.addMenuItem("Champions&nbsp;League","location='http://www.1000goals.com/category/champions-league-international'");
-    mm_menu_0327172148_0_1.addMenuItem("England&nbsp;Premiership","location='http://www.1000goals.com/category/premiership'");
-    mm_menu_0327172148_0_1.addMenuItem("Spain&nbsp;Primera","location='http://www.1000goals.com/category/span-primera'");
-    mm_menu_0327172148_0_1.addMenuItem("Italy&nbsp;serie&nbsp;A","location='http://www.1000goals.com/category/italian-serie-a'");
-    mm_menu_0327172148_0_1.addMenuItem("Deutschland&nbsp;Bundesliga","location='http://www.1000goals.com/category/german-bundesliga'");
-    mm_menu_0327172148_0_1.addMenuItem("France&nbsp;League&nbsp;1","location='http://www.1000goals.com/category/french-league-1'");
-    mm_menu_0327172148_0_1.addMenuItem("UEFA&nbsp;Cup","location='http://www.1000goals.com/category/uefa-cup-international'");
-    mm_menu_0327172148_0_1.addMenuItem("Copa&nbsp;Libertadores&nbsp;08","location='http://www.1000goals.com/category/copa-libertadores-2008'");
-    mm_menu_0327172148_0_1.addMenuItem("Euro&nbsp;08&nbsp;qualifiers","location='http://www.1000goals.com/category/euro-08'");
-    mm_menu_0327172148_0_1.addMenuItem("All&nbsp;competitions&nbsp;-&nbsp;mixed","location='http://www.1000goals.com/category/highlights'");
-     mm_menu_0327172148_0_1.hideOnMouseOut=true;
-     mm_menu_0327172148_0_1.menuBorder=1;
-     mm_menu_0327172148_0_1.menuLiteBgColor='#ffffff';
-     mm_menu_0327172148_0_1.menuBorderBgColor='#555555';
-     mm_menu_0327172148_0_1.bgColor='#555555';
-  window.mm_menu_0327172148_0 = new Menu("root",118,16,"Verdana, Arial, Helvetica, sans-serif",10,"#ffffff","#333333","#000000","#cccccc","left","middle",3,0,1000,-5,11,true,true,true,0,true,true);
-  mm_menu_0327172148_0.addMenuItem(mm_menu_0327172148_0_1);
-  mm_menu_0327172148_0.addMenuItem("Club&nbsp;compilations","location='http://www.1000goals.com/category/clubs'");
-  mm_menu_0327172148_0.addMenuItem("Player&nbsp;compilations","location='http://www.1000goals.com/category/players'");
-  mm_menu_0327172148_0.addMenuItem("Specials","location='http://www.1000goals.com/category/specials'");
-   mm_menu_0327172148_0.hideOnMouseOut=true;
-   mm_menu_0327172148_0.childMenuIcon="arrows.gif";
-   mm_menu_0327172148_0.menuBorder=1;
-   mm_menu_0327172148_0.menuLiteBgColor='#ffffff';
-   mm_menu_0327172148_0.menuBorderBgColor='#555555';
-   mm_menu_0327172148_0.bgColor='#555555';
-
-  mm_menu_0327172148_0.writeMenus();
-} // mmLoadMenus()
-
-//-->
-</script>
-<script language="JavaScript1.2" src="http://www.1000goals.com/mm_menu.js"></script>
 
 
+
+<!-- TradeDoubler site verification 1515500 --> 
+
+
+<meta name="verify-DMN" content="ID-1000goal-SiteURL-http://1000goals.com-Code-1058456">
 
 </head>
-
-<body class="wordpress y2008 m05 d02 h14 page pageid-3880 page-author-admin">
-
-<div id="wrapper" class="hfeed">
-
-	<!--  #header -->
-
-	<!-- #access -->
-
-	<div id="about">
-<table width="980" height="90" cellspacing="0"><tbody><tr><td width="" 505="" height="35"></td><td width="475" height="35"></td></tr>
-<tr><td width="" 505="" height="85"></td><td width="475" height="85" valign="top">
+<body>
 
 
 
 
 
-<script type="text/javascript"><!--
-google_ad_client = "pub-5421354316914617";
-/* 468x60, created 3/16/08 */
-google_ad_slot = "6980170689";
-google_ad_width = 468;
-google_ad_height = 60;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
 
 
 
 
-</td></tr></tbody></table>
-<table width="980" height="32" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<div id="container">
+
+
+
+
+<div id="header">
+<!--blog description-->
+
+<table id="Table_01" width="960" height="184" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td>
-			<a href="http://www.1000goals.com"><img src="http://www.1000goals.com/images/navigation_01.jpg" width="73" height="32" border="0"></a></td>
-		<td>
-			
-<script language="JavaScript1.2">mmLoadMenus();</script>
-<img name="n1000goals_06" src="http://www.1000goals.com/images/navigation_02.jpg" width="89" height="32" border="0" usemap="#m_1000goals_06" alt=""><map name="m_1000goals_06">
-<area shape="rect" coords="0,0,91,20" href="#" alt="" onmouseout="MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0327172148_0,0,20,null,'n1000goals_06');">
-</map>
+		<td colspan="3">
+			<img src="http://www.1000goals.com/images/1000-goals-doris_01.jpg" width="960" height="15" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="http://www.1000goals.com/images/1000-goals-doris_02.jpg" width="219" height="169" alt=""></td>
 
+		<td background="#ffffff" width="730" height="91" align="center" valign="center">
+			<iframe src="http://ads.partnerlogic.net/d22265ac41e0063668c14bc085614a81/banner.html" width="728" height="90" frameborder="0" scrolling="no"><script type="text/javascript" language="JavaScript">document.write('<a href="http://www.interpoker.com/23051/d22265ac41e0063668c14bc085614a81/click.html" target="_blank"><img src="http://static.partnerlogic.net/partnerlogic/banners/23051.gif" width="728" height="90" border="0" ></a>');</script></iframe></td>
 
-</td>
+		<td rowspan="2">
+			<img src="http://www.1000goals.com/images/1000-goals-doris_04.jpg" width="11" height="169" alt=""></td>
+	</tr>
+	<tr>
 		<td>
-			<a href="http://www.1000goals.com/category/football-wallpapers"><img src="http://www.1000goals.com/images/navigation_03.jpg" width="136" height="32" border="0"></a></td>
-		<td>
-			<a href="http://www.1000goals.com/category/football-animations"><img src="http://www.1000goals.com/images/navigation_04.jpg" width="128" height="32" border="0"></a></td>
-		<td>
-			<a href="http://www.1000goals.com/category/football-avatars"><img src="http://www.1000goals.com/images/navigation_05.jpg" width="107" height="32" border="0"></a></td>
-		<td>
-			<a href="http://www.1000goals.com/category/football-pictures"><img src="http://www.1000goals.com/images/navigation_06.jpg" width="113" height="32" border="0"></a></td>
-		<td>
-			<!-- Search Google -->
-<center>
-<form method="get" action="http://www.google.com/custom" target="_top">
-<table bgcolor="#000000">
-<tbody><tr><td nowrap="nowrap" valign="top" align="center" height="28">
-<a href="http://www.google.com/">
-<img src="http://www.google.com/logos/Logo_25blk.gif" border="0" alt="Google" align="middle"></a>
-<label for="sbi" style="display: none">Enter your search terms</label>
-<input type="text" name="q" size="15" maxlength="255" value="" id="sbi">
-<label for="sbb" style="display: none">Submit search form</label>
-<input type="submit" name="sa" value="Search" id="sbb">
-<input type="hidden" name="client" value="pub-5421354316914617">
-<input type="hidden" name="forid" value="1">
-<input type="hidden" name="ie" value="ISO-8859-1">
-<input type="hidden" name="oe" value="ISO-8859-1">
-<input type="hidden" name="safe" value="active">
-<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1">
-<input type="hidden" name="hl" value="en">
-</td></tr></tbody></table>
-</form>
-</center>
-<!-- Search Google -->
-</td>
+			<img src="http://www.1000goals.com/images/1000-goals-doris_05.jpg" width="730" height="78" alt=""></td>
 	</tr>
 </tbody></table>
 
+<!--the blog title-->
+
+
+
 </div>
-	<div id="container">
-		<div id="content">
-<br><br>
-			<div id="post-3880" class="hentry p1 page publish author-admin category-1000-goals y2008 m02 d27 h02">
-				<h2 class="entry-title">Privacy Policy</h2>
-				<div class="entry-content">
+
+
+
+
+
+
+<!--header.php end-->
+<!--page.php-->
+<!--include sidebar-->
+<div id="l_sidebar">
+<!--sidebar.php-->
+<li id="categories-276952031" class="widget widget_categories"><h2 class="widgettitle">Categories</h2>
+		<ul>
+			<li class="cat-item cat-item-2448"><a href="http://www.1000goals.com/category/english-football" title="View all posts filed under Football">Football</a> (178)
+</li>
+	<li class="cat-item cat-item-1077"><a href="http://www.1000goals.com/category/football-animations" title="View all posts filed under Football Animations">Football Animations</a> (40)
+</li>
+	<li class="cat-item cat-item-2514"><a href="http://www.1000goals.com/category/football-betting-blog" title="View all posts filed under Football betting blog">Football betting blog</a> (23)
+</li>
+	<li class="cat-item cat-item-2519"><a href="http://www.1000goals.com/category/football-celebrations" title="View all posts filed under Football celebrations">Football celebrations</a> (6)
+</li>
+	<li class="cat-item cat-item-2467"><a href="http://www.1000goals.com/category/football-equipment" title="View all posts filed under Football Equipment">Football Equipment</a> (11)
+</li>
+	<li class="cat-item cat-item-2478"><a href="http://www.1000goals.com/category/football-fun" title="View all posts filed under Football Fun">Football Fun</a> (63)
+</li>
+	<li class="cat-item cat-item-2466"><a href="http://www.1000goals.com/category/football-games" title="View all posts filed under Football Games">Football Games</a> (19)
+</li>
+	<li class="cat-item cat-item-2517"><a href="http://www.1000goals.com/category/football-photos" title="View all posts filed under Football photos">Football photos</a> (3)
+</li>
+	<li class="cat-item cat-item-2507"><a href="http://www.1000goals.com/category/football-school" title="View all posts filed under Football school">Football school</a> (48)
+</li>
+	<li class="cat-item cat-item-2455"><a href="http://www.1000goals.com/category/football-video-news" title="View all posts filed under Football video news">Football video news</a> (88)
+</li>
+	<li class="cat-item cat-item-2470"><a href="http://www.1000goals.com/category/football-wallpapers" title="View all posts filed under Football Wallpapers">Football Wallpapers</a> (151)
+</li>
+	<li class="cat-item cat-item-2474"><a href="http://www.1000goals.com/category/writers" title="View all posts filed under Football Writers">Football Writers</a> (10)
+</li>
+	<li class="cat-item cat-item-2454"><a href="http://www.1000goals.com/category/free-football-stuff" title="View all posts filed under Free football stuff">Free football stuff</a> (33)
+</li>
+	<li class="cat-item cat-item-2525"><a href="http://www.1000goals.com/category/mariusz-chorazy-learn-freestyle" title="Freestyle Football tutorials by Mariusz Chorazy">Mariusz Chorazy tutorials</a> (37)
+</li>
+	<li class="cat-item cat-item-2518"><a href="http://www.1000goals.com/category/players-stories" title="View all posts filed under Player's stories">Player's stories</a> (8)
+</li>
+	<li class="cat-item cat-item-2465"><a href="http://www.1000goals.com/category/sponsored-videos" title="View all posts filed under Sponsored videos">Sponsored videos</a> (9)
+</li>
+		</ul>
+</li>
+<li id="cat-posts-276956821" class="widget cat_posts"><h2 class="widgettitle"><a href="http://www.1000goals.com/category/english-football">Football</a></h2>
+<ul><li class="cat-posts-item-8732"><a href="http://www.1000goals.com/manchester-united-land-in-japan">Manchester United land in Japan</a></li><li class="cat-posts-item-8707"><a href="http://www.1000goals.com/they-talk-after-90-minutes-by-abiud-onyach">They Talk After 90 Minutes - by Abiud Onyach</a></li><li class="cat-posts-item-8680"><a href="http://www.1000goals.com/chelsea-vs-west-ham-match-preview-and-football-betting-guide">Chelsea vs West Ham Match Preview and Football Betting Guide</a></li><li class="cat-posts-item-8678"><a href="http://www.1000goals.com/tottenham-hotspurs-vs-manchester-united-match-preview-and-betting-guide">Tottenham Hotspurs vs Manchester United Match Preview and Betting Guide</a></li><li class="cat-posts-item-8676"><a href="http://www.1000goals.com/liverpool-vs-hull-match-preview-and-football-betting-guide">Liverpool vs Hull Match Preview and Football Betting Guide</a></li><li class="cat-posts-item-8513"><a href="http://www.1000goals.com/everton-vs-aston-villa-match-preview-and-online-football-betting-guide">Everton vs Aston Villa Match Preview and Online Football Betting Guide</a></li><li class="cat-posts-item-8498"><a href="http://www.1000goals.com/bolton-vs-chelsea-match-preview-betting-guide-6th-december-2008">Bolton vs Chelsea Match Preview and Football Betting Guide</a></li></ul></li>
+		<li id="text-275609851" class="widget widget_text">						<div class="textwidget"><p><iframe src="http://ads.partnerlogic.net/17b2c119c849b47132a65e9398a290b8/banner.html" width="120" height="90" frameborder="0" scrolling="no"><script type="text/javascript" language="JavaScript">document.write('<a href="http://www.interpoker.com/21650/17b2c119c849b47132a65e9398a290b8/click.html" target="_blank"><img src="http://static.partnerlogic.net/partnerlogic/banners/21650.gif" width="120" height="90" border="0" ></a>');</script></iframe></p>
+
+<p><a href="https://www.bwin.com/betsnew.aspx?SportID=4" target="blank" title="football betting"><img src="http://www.1000goals.com/sponsors/bwin.gif" alt="football betting" border="0"></a><br>
+<a href="https://www.bwin.com/betsnew.aspx?SportID=4" target="blank" title="football betting">Football Betting tips</a>
+<br>
+<a href="http://www.betsfreebets.com" target="blank" title="Free Bet">Free Bet
+</a><br>
+<a href="http://www.soccerbetting.info" target="blank">Football betting advice</a><br>
+<a href="http://www.online-betting.me.uk" target="blank">Online betting</a><br>
+<a href="http://www.soccerpro.com/Licensed-Soccer-Jerseys-and-Gear-c3/" target="blank" title="Bookmakers">Replica Soccer Jerseys</a><br>
+</p>
+</div>
+		</li>
+<li id="cat-posts-277076281" class="widget cat_posts"><h2 class="widgettitle"><a href="http://www.1000goals.com/category/football-school">Football school</a></h2>
+<ul><li class="cat-posts-item-8717"><a href="http://www.1000goals.com/learn-freestyle-football-tutorial-35-knee-stall">Learn Freestyle Football Tutorial 35: Knee Stall</a></li><li class="cat-posts-item-8642"><a href="http://www.1000goals.com/wycombe-soccer-skill-skool">Wycombe Soccer Skill Skool</a></li><li class="cat-posts-item-8640"><a href="http://www.1000goals.com/wolves-academy-skills-skool">Wolves Academy Skills Skool</a></li><li class="cat-posts-item-8359"><a href="http://www.1000goals.com/learn-freestyle-football-tutorial-33-t-shirt-trick">Learn Freestyle Football Tutorial 33: T-Shirt Trick</a></li></ul></li>
+</div>
+<!--include sidebar-->
+<div id="r_sidebar">
+<!--sidebar.php-->
+		<li id="text-206171021" class="widget widget_text">			<h2 class="widgettitle">Navigation</h2>
+			<div class="textwidget"><strong>
+<img src="http://www.1000goals.com/goal.gif" border="0"> <a href="http://www.1000goals.com">Home</a><br>
+<img src="http://www.1000goals.com/goal.gif" border="0"> <a href="http://video.1000goals.com">Football Videos</a><br>
+<img src="http://www.1000goals.com/goal.gif" border="0"> <a href="http://forum.1000goals.com">Football Forum</a><br>
+<img src="http://www.1000goals.com/goal.gif" border="0"> <strong><a href="http://footballsuperstars.1000goals.com ">Football Superstars</a><br>
+<img src="http://www.1000goals.com/goal.gif" border="0"> <a href="http://www.1000goals.com/members ">Members</a><br>
+<img src="http://www.1000goals.com/goal.gif" border="0"> <a href="http://www.1000goals.com/privacy-policy">Privacy Policy</a><br> 
+<img src="http://www.1000goals.com/goal.gif" border="0"> <a href="http://www.1000goals.com/advertise">Advertise</a><br>
+<img src="http://www.1000goals.com/goal.gif" border="0"> <a href="mailto:1000goals@gmail.com">Contact</a>
+<br>
+</strong>
+<img src="http://www.1000goals.com/goal.gif" border="0"> <strong><a href="http://www.1000goals.com/sponsors-of-project-1000goals">Sponsors</a>
+</strong><br>
+<a href="http://feeds.feedburner.com/1000FootballGoals" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"></a> <a href="http://feeds.feedburner.com/1000FootballGoals" rel="alternate" type="application/rss+xml"><strong>Subscribe</strong></a><br><br>
+</strong>
+
+<a href="http://www.1000goals.com/category/mariusz-chorazy-learn-freestyle" tittle="Freestyle Football video turorials by Mariusz Chorazy"><img src="http://www.1000goals.com/headlines/freestyle_football.jpg" border="0" alt="Freestyle Football video turorials by Mariusz Chorazy"></a>
+<br>
+<a href="http://www.oleole.com/freestylefootball" target="blank">Freestyle Football
+</a>
+
+</div>
+		</li>
+<li id="cat-posts-272648991" class="widget cat_posts"><h2 class="widgettitle"><a href="http://www.1000goals.com/category/football-video-news">Football video news</a></h2>
+<ul><li class="cat-posts-item-8732"><a href="http://www.1000goals.com/manchester-united-land-in-japan">Manchester United land in Japan</a></li><li class="cat-posts-item-8698"><a href="http://www.1000goals.com/champions-league-goal-3">Champions League: Goal!</a></li><li class="cat-posts-item-8696"><a href="http://www.1000goals.com/ronaldo-goes-to-corinthians">Ronaldo goes to Corinthians</a></li><li class="cat-posts-item-8693"><a href="http://www.1000goals.com/barcelona-vs-real-preview">Barcelona vs Real preview</a></li><li class="cat-posts-item-8691"><a href="http://www.1000goals.com/etoo-shows-all">Eto'o shows all</a></li></ul></li>
+		<li id="text-277075961" class="widget widget_text">						<div class="textwidget"><p><a href="http://www.premiership-wallpapers.com" target="blank" title="Premier League wallpapers"><img src="http://www.1000goals.com/headlines/epl-wallpapers.jpg" alt="premier league wallpapers" border="0"></a>
+</p></div>
+		</li>
+<li id="cat-posts-272647511" class="widget cat_posts"><h2 class="widgettitle"><a href="http://www.1000goals.com/category/football-wallpapers">Football wallpapers</a></h2>
+<ul><li class="cat-posts-item-6027"><a href="http://www.1000goals.com/el-nino-torresespana-euro-2008-final-wallpapers">El Nino Espana wallpaper</a></li><li class="cat-posts-item-8084"><a href="http://www.1000goals.com/cristiano-ronaldo-wallpaper-fire">Cristiano Ronaldo wallpaper fire</a></li><li class="cat-posts-item-8078"><a href="http://www.1000goals.com/liverpool-we-are-warriors-wallpaper">Liverpool - We are warriors wallpaper</a></li><li class="cat-posts-item-7966"><a href="http://www.1000goals.com/manuel-almunia-wallpaper">Manuel Almunia wallpaper</a></li><li class="cat-posts-item-7963"><a href="http://www.1000goals.com/cesc-fabregas-wallpaper">Cesc Fabregas wallpaper</a></li><li class="cat-posts-item-7960"><a href="http://www.1000goals.com/emmanuel-adebayor-wallpaper">Emmanuel Adebayor wallpaper</a></li><li class="cat-posts-item-7957"><a href="http://www.1000goals.com/bernard-mendy-wallpaper">Bernard Mendy wallpaper</a></li></ul></li>
+<li id="search" class="widget widget_search"><!--create the searchfield-->
+<h2>Search</h2>
+<br>
+<form method="get" id="searchform" action="http://www.1000goals.com/">
+<div><input type="text" value="" name="s" id="s">
+<input type="submit" id="searchsubmit" value="Search">
+</div>
+</form>
+<!--searchform.php end-->
+</li>
+		<li id="text-239964981" class="widget widget_text">						<div class="textwidget"><p><a href="http://www.1000goals.co.uk" target="blank" title="Football live"><img src="http://www.1000goals.com/headlines/bbc5live.jpg" alt="football live" border="0"></a>
+</p>
+
+<p><a href="http://www.mypagerank.net"><img src="http://www.mypagerank.net/services/seostats/seostats.php?s=de510918febf24c4058eff97426b160d5c0a&amp;bg=FFFFFF&amp;textcolor=000000&amp;bordercolor=999999&amp;indicatorcolor=5EAA5E&amp;ugo=0&amp;uho=0&amp;umo=0&amp;amo=0&amp;upr=0&amp;tuv=0&amp;tpv=0&amp;yuv=0&amp;ypv=0&amp;ttuv=0&amp;ttpv=0&amp;uonline=1&amp;f=194270" title="SEO Stats powered by MyPagerank.Net" border="0"></a></p></div>
+		</li>
+</div>
+
+
+
+<div id="content">
+<!--loop-->
+<!--post title-->
+<br>
+<h2 id="post-3880">Privacy Policy</h2>
+
+
+<div class="postspace2">
+</div>	
+
+
+
+<!--post with more link -->
 <p> Third Party Advertising:<br>
 We use Google AdSense, to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.</p>
 <p>Third Party Cookies:<br>
@@ -472,286 +312,85 @@ In the course of serving advertisements to this site, our third-party advertiser
 This Web site does allow user to enter their email address at their own will for comments on our site. We do not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.</p>
 <p>External Links<br>
 This site contains links to other sites. 1000goals.com is not responsible for the privacy practices or the content of such Web sites.</p>
+<p><script type="text/javascript">SHARETHIS.addEntry({ title: "Privacy Policy", url: "http://www.1000goals.com/privacy-policy" });</script></p><!--if you paginate pages-->
+<!--end of post and end of loop-->
+<!--edit link-->
 
-
-
-				</div>
-			</div><!-- .post -->
-
-
-		</div><!-- #content -->
-	</div><!-- #container -->
-
-	<div id="primary" class="sidebar">
-		<ul class="xoxo">
-		<li id="text-9" class="widget widget_text">						<div class="textwidget"><p><a href="http://feeds.feedburner.com/1000FootballGoals" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"></a>&nbsp;<a href="http://feeds.feedburner.com/1000FootballGoals" rel="alternate" type="application/rss+xml">Subscribe in a reader</a></p></div>
-		</li>
-<li id="cat-posts-2" class="widget widget_cat_posts"><h3 class="widgettitle">Champions League</h3>
-<ul><li><a href="http://www.1000goals.com/chelsea-vs-liverpool-highlights-champions-league">Chelsea vs Liverpool highlights Champions League</a></li><li><a href="http://www.1000goals.com/manchester-united-vs-barcelona-highlights-champions-league">Manchester United vs Barcelona highlights Champions League</a></li><li><a href="http://www.1000goals.com/barcelona-vs-manchester-united-highlights">Barcelona vs Manchester United highlights 0:0</a></li><li><a href="http://www.1000goals.com/liverpool-vs-chelsea-highlights-champions-league-08-semifinals">Liverpool vs Chelsea 1:1 highlights - Champions League 08 semifinals</a></li><li><a href="http://www.1000goals.com/liverpool-fc-vs-chelsea-trailer">Liverpool Fc vs Chelsea - Trailer</a></li></ul></li>
-<li id="cat-posts-4" class="widget widget_cat_posts"><h3 class="widgettitle">England Premiership</h3>
-<ul><li><a href="http://www.1000goals.com/derby-county-vs-arsenal-highlights-premiership">Derby County vs Arsenal highlights - premiership</a></li><li><a href="http://www.1000goals.com/everton-vs-aston-villa-highlights-premiership">Everton vs Aston Villa highlights - premiership</a></li><li><a href="http://www.1000goals.com/portsmouth-vs-blackburn-highlights-premiership">Portsmouth vs Blackburn highlights - premiership</a></li><li><a href="http://www.1000goals.com/wigan-vs-reading-highlights-premiership">Wigan vs Reading highlights - premiership</a></li><li><a href="http://www.1000goals.com/sunderland-vs-middlesbrough-highlights-premiership">Sunderland vs Middlesbrough highlights - premiership</a></li><li><a href="http://www.1000goals.com/tottenham-vs-bolton-highlights-premiership">Tottenham vs Bolton highlights - premiership</a></li><li><a href="http://www.1000goals.com/west-ham-vs-newcastle-highlights-premiership">West Ham vs Newcastle highlights - premiership</a></li><li><a href="http://www.1000goals.com/manchester-city-vs-fulham-highlights-premiership">Manchester City vs Fulham highlights - premiership</a></li><li><a href="http://www.1000goals.com/birmingham-vs-liverpool-highlights-premiership">Birmingham vs Liverpool highlights - premiership</a></li><li><a href="http://www.1000goals.com/chelsea-vs-manchester-united-highlights-premiership">Chelsea vs Manchester United highlights - premiership</a></li></ul></li>
-		<li id="text-5" class="widget widget_text">			<h3 class="widgettitle">Match Highlights</h3>
-			<div class="textwidget"><br><table><tbody><tr><td width="4"></td><td>
-<a href="http://www.1000goals.com/category/premiership">England 
-
-Premiership</a><br>
-
-
-<a href="http://www.1000goals.com/category/scotland-premier">Scotland Premier</a><br>
-
-<a href="http://www.1000goals.com/category/span-primera">Spain Primera</a><br>
-<a href="http://www.1000goals.com/category/italian-serie-a">Italy serie A</a><br>
-<a href="http://www.1000goals.com/category/german-bundesliga">Deutschland 
-
-Bundesliga</a><br>
-<a href="http://www.1000goals.com/category/french-league-1">France League 
-
-1</a><br><br>
-
-
-<a href="http://www.1000goals.com/category/champions-league-international">Champions 
-
-League 07/08</a><br>
-<a href="http://www.1000goals.com/category/euro-08">EURO 08 qualifiers</a><br>
-
-
-<a href="http://www.1000goals.com/category/uefa-cup-international">UEFA Cup 
-
-07/08</a><br>
-<a href="http://www.1000goals.com/category/copa-libertadores-2008">Copa 
-
-Libertadores 08</a><br>
-
-<a href="http://www.1000goals.com/category/national-cups">National Cups</a><br><br>
-
-
-
-
-
-<a href="https://www.football1x2.com/index.jsp?affID=2707&amp;bannerID=35" target="_new"><img src="http://www.1000goals.com/football1x2/F1x2-200x200.gif" border="0"></a>
-
-<br><br>
-
-<iframe id="itsfogo39448" name="itsfogo39448" src="http://adserver.itsfogo.com/default.aspx?t=f&amp;v=1&amp;zoneid=39448" frameborder="0" scrolling="no" width="120" height="90"></iframe>
-
-
-<br><br>
+<br>
+<p>
 <script type="text/javascript"><!--
 google_ad_client = "pub-5421354316914617";
-/* 200x200, created 4/18/08 */
-google_ad_slot = "1813437282";
-google_ad_width = 200;
-google_ad_height = 200;
+/* 336x280, created 6/25/08 */
+google_ad_slot = "3391430100";
+google_ad_width = 336;
+google_ad_height = 280;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-</td></tr></tbody></table>
-
-
-
-
-
-
-<br>
+</p>
 
 
 </div>
-		</li>
-		</ul>
-	</div><!-- #primary .sidebar -->
+<!--page.php end-->
+<!--include footer-->
+</div>
 
-	<div id="secondary" class="sidebar">
-		<ul class="xoxo">
-		<li id="text-2" class="widget widget_text">			<h3 class="widgettitle">Paying sponsors</h3>
-			<div class="textwidget"><center>
+<div id="footer">
 
-<embed src="http://www.youtube.com/v/0DPAJneD3vQ&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="200" height="167">
+<!--footer.php-->
 
 
+<!--necessary-->
 
 
 
 
-<br>
-<a href="http://pokerunlimited.eu" target="blank">PokerUnlimited.eu</a></center></div>
-		</li>
-<li id="most-viewed" class="widget widget_views_most_viewed"><h3 class="widgettitle">Top 5:</h3>
-<ul>
-<li><a href="http://www.1000goals.com/manchester-united-ball-wallpaper">Manchester United wallpapers</a> - 23,441 views</li>
-<li><a href="http://www.1000goals.com/champions-league-wallpaper">Champions League Wallpapers</a> - 23,135 views</li>
-<li><a href="http://www.1000goals.com/cristiano-ronaldo-wallpaper-1">Cristiano Ronaldo Wallpapers</a> - 19,401 views</li>
-<li><a href="http://www.1000goals.com/1000-goals-wallpaper-1">1000 Goals wallpapers</a> - 13,194 views</li>
-<li><a href="http://www.1000goals.com/england-premiership-top-10-goals-of-the-month-part-2">England Premiership - Top 10 Goals of The Mo...</a> - 10,043 views</li>
-</ul>
-</li>
-<li id="cat-posts-1" class="widget widget_cat_posts"><h3 class="widgettitle">Latest News</h3>
-<ul><li><a href="http://www.1000goals.com/liverpool-facing-turbulent-times">Liverpool facing turbulent times </a></li><li><a href="http://www.1000goals.com/arsenal-star-we-will-win-something-next-season">Arsenal star: We will win something next season !</a></li><li><a href="http://www.1000goals.com/milan-offer-mega-bucks-for-arsenal-star-mathieu-flamini">Milan offer mega bucks for Arsenal star Mathieu Flamini</a></li><li><a href="http://www.1000goals.com/chelsea-vs-manchester-united-in-champions-league-final-moscow">Chelsea vs Manchester United in Champions League final - Moscow</a></li></ul></li>
-		<li id="text-4" class="widget widget_text">						<div class="textwidget"><center><br><script type="text/javascript"><!--
-google_ad_client = "pub-5421354316914617";
-/* 160x600, created 4/7/08 */
-google_ad_slot = "4966241932";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></center></div>
-		</li>
-<li id="useronline" class="widget widget_useronline"><h3 class="widgettitle">Users Online</h3>
-<ul>
-<li><div id="useronline-count"><a href="http://www.1000goals.com/useronline/" title="53 Users"><strong>53 Users</strong> Online</a></div></li>
-</ul>
-</li>
-		</ul>
-	</div><!-- #secondary .sidebar -->
-	<div id="footer">
-		
-<table width="980"><tbody><tr><td align="left"><font color="#000000">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <center>
 
 
 
 
-<script type="text/javascript"><!--
-google_ad_client = "pub-5421354316914617";
-/* 728x15, created 3/17/08 */
-google_ad_slot = "1650465017";
-google_ad_width = 728;
-google_ad_height = 15;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-<br>
+
+
 
 
 
 </center>
 
-		<div id="wordspew">
-				<div id="chatoutput">
-					<div id="lastMessage"><span>Latest Message</span> <em id="responseTime">0 minutes</em></div>
- 						<ul id="outputList">
- 						<li><span title="0 minutes"><a href="http://phentermineonlinewithoutprenyp.blogspot.com">Gilbert</a> : </span> <a href="http://actosforadilphentermineactofof.blogspot.com">«link»</a> <a href="http://orderphenterminerxwithoutyan.blogspot.com">«link»</a> <a href="http://phenterminewyomingbhr.blogspot.com">«link»</a> <a href="http://phenterminedoctorconsultfredik.blogspot.com">«link»</a> <a href="http://phentermineandsynthroidwtb.blogspot.com">«link»</a> <a href="http://phentermineonlinecomparisonpfc.blogspot.com">«link»</a> <a href="http://buyphentermineinusablk.blogspot.com">«link»</a> <a href="http://detoxhghphenterminequitsmoyfd.blogspot.com">«link»</a> <a href="http://drbillnaglerandphenterminenpw.blogspot.com">«link»</a> <a href="http://dietpillphenterminecheapdrrhf.blogspot.com">«link»</a> 
-<a href="http://phenter">«link»</a></li>
-						        <li><span title="4 minutes">DAnny Beeee : </span> sick !</li>
-						        <li><span title="6 minutes">Dave Maud. : </span> I am the best !</li>
-						        <li><span title="11 minutes">Eve : </span> I HAVE CHEDDAR ON MY FEET!!</li>
-						        <li><span title="14 minutes">Ebbe04 : </span> ManU will win, this is clar, and in germany is SCHALKE 04 the best team!!!!!</li>
-						        <li><span title="30 minutes">EVE SHILLAN : </span> i bum sadie haigh</li>
-						        <li><span title="36 minutes">EVE SHILLAN : </span> i bum sadie haigh</li>
-						        <li><span title="1 hour, 36 minutes">guest_8404 : </span> soulja boy in da house</li>
-						        <li><span title="1 hour, 37 minutes">guest_8404 : </span> very funny</li>
-						        <li><span title="2 hours, 1 minute">chelsea4evr : </span> Man-Whores will be taught how to play in Moscow....</li>
-						        <li><span title="2 hours, 11 minutes">guest_8404 : </span> man u the best 4 eva</li>
-						        <li><span title="2 hours, 13 minutes">guest_8404 : </span> yo</li>
-						        <li><span title="2 hours, 13 minutes">Awudu : </span> Tevez will Teach Chelsea some Striking lesson</li>
-						        <li><span title="2 hours, 20 minutes">guest_9825 : </span> Man United means Champions League Cup</li>
-						        <li><span title="2 hours, 27 minutes">my-pen-is-blue : </span> ManU</li>
-						        <li><span title="2 hours, 43 minutes">bhoy : </span> man u all the way</li>
-						        <li><span title="2 hours, 56 minutes">soccerfanbase.com : </span> any soccer lover who will like to interact with other fans and dicuss any soccer related issues should check out Soccer fan base dot com it is free to join.</li>
-						        <li><span title="2 hours, 58 minutes">soccerfanbase.com : </span> any soccer lover who will like to interact with other fans and dicuss any soccer related issues should check out Soccer fan base dot com it is free to join.</li>
-						        <li><span title="3 hours, 13 minutes">blue : </span> man utd will suct it against West Ham as they did last 3 times!!!!!</li>
-						        <li><span title="3 hours, 25 minutes">chelsea : </span> is tha best!!!</li>
-						        <li><span title="5 hours, 46 minutes">guest_8833 : </span> pliz let chealse players stop practising guy in the game</li>
-						        <li><span title="5 hours, 50 minutes">eralp : </span> turkey</li>
-						        <li><span title="5 hours, 51 minutes">eralp : </span> tukum</li>
-						        <li><span title="5 hours, 51 minutes">eralp : </span> bn turum</li>
-						        <li><span title="6 hours, 4 minutes">guest_6333 : </span> selam tÃ¼rk varmÄ± hiÃ§</li>
-						        <li><span title="6 hours, 4 minutes">guest_4285 : </span> putos</li>
-						        <li><span title="6 hours, 4 minutes">guest_63 : </span> hi</li>
-						        <li><span title="6 hours, 28 minutes">Manveer : </span> Man Utd gonna win</li>
-						        <li><span title="6 hours, 28 minutes">Manveer : </span> Hi</li>
-						        <li><span title="6 hours, 29 minutes">Manveer : </span> Hi</li>
-						        <li><span title="6 hours, 29 minutes">Manveer : </span> Hi</li>
-						        <li><span title="7 hours, 27 minutes">guest_8331 : </span> hii</li>
-						        <li><span title="9 hours, 38 minutes">big cock mal : </span> cmon liverpool</li>
-						        <li><span title="10 hours, 25 minutes">r1ooooo : </span> <a href="http://r1ooooo.blogspot.com">«link»</a></li>
-						        <li><span title="10 hours, 25 minutes">r1ooooo : </span> long live man united</li>
-						        <li><span title="10 hours, 47 minutes">SANTA CRUZ : </span> www.clubolimpia.com.py</li>
-						        <li><span title="10 hours, 48 minutes">SANTA CRUZ : </span> EX JUGADOR DE CLUB OLIMPIA DE PARAGUAY</li>
-						        <li><span title="10 hours, 49 minutes">SANTA CRUZ : </span> SELECCION DE PARAGUAY</li>
-						        <li><span title="10 hours, 49 minutes">SANTA CRUZ - PARAG : </span> SANTA CRUZ - PARAGUAY</li>
-						        <li><span title="13 hours, 8 minutes">tosiki : </span> forzaa bayernn</li>
-						        <li><span title="14 hours, 56 minutes">h8 Manu : </span> Cum on bitch, come and get some!</li>
-						        <li><span title="15 hours, 5 minutes">dirty brain : </span> Chelsea 4 life! Worship them! See you at Moscow!</li>
-						        <li><span title="18 hours, 18 minutes">h8 drogba !!!!!!! : </span> drogba get bak 2 tha getto!!!</li>
-						        <li><span title="18 hours, 18 minutes">h8 drogba !!!!!!! : </span> drogba get bak 2 tha getto!!!</li>
-						        <li><span title="18 hours, 34 minutes">gloryy : </span> aergearg</li>
-						        <li><span title="18 hours, 35 minutes">rafa : </span> fuk off !</li>
-						        <li><span title="18 hours, 35 minutes">didier : </span> legendd !</li>
-						        <li><span title="18 hours, 36 minutes">liverpoool : </span> shit bastards</li>
-						        <li><span title="18 hours, 36 minutes">paul scholesss : </span> ilyily</li>
-						        <li><span title="18 hours, 36 minutes">paul scholesss : </span> ily</li>
-						        </ul>
-
-				</div>
-		
-				<form id="chatForm" method="post" action="http://www.1000goals.com/wp-content/plugins/wordspew/wordspew.php">
-				    <p>
-					<label for="shoutboxname">Name:</label>
-					<input type="text" name="shoutboxname" id="shoutboxname" value="">
-					<span style="display: none">					<label for="shoutboxurl">URL:</label>
-					<input type="text" name="shoutboxurl" id="shoutboxurl" value="http://">
-					</span>					
-					<label for="chatbarText">Message:</label>
-										<input type="text" name="chatbarText" id="chatbarText">
-										<input type="hidden" id="jal_lastID" value="2663" name="jal_lastID">
-					<input type="hidden" name="shout_no_js" value="true">
-					<input type="submit" id="submitchat" name="submit" value="Send">
-					</p>
-				</form>
-				</div>
-</font><center><font color="#000000"><b>Members:</b> <a href="http://www.1000goals.com/wp-login.php">Login</a> - <a href="http://www.1000goals.com/wp-login.php?action=register">Register</a>
-
-<br>
-
-<br>
-
-
-<b>
-Soccer sites: -
-<a href="http://www.football-wallpapers.com" title="The original Football Wallpapers site" target="_blank">Football-Wallpapers.com</a> -
-<a href="http://www.backofthenet.info/" title="Pro Evolution Soccer 2008" target="_blank">Back of the net - PES 08</a> -
-<a href="http://www.football-wallpapers.org" title="Football Wallpapers site" target="_blank">Football Wallpapers</a> -
-<a href="http://www.footballboots.me.uk/" title="Discount and super cheap football boots" target="_blank">Football Boots</a> -
-<a href="http://www.dailysoccerblog.net" title="Football transfers, football roumours and football news" target="_blank">Football Transfers</a> -
-<a href="http://www.realmadridfans.org" title="Real Madrid Fans" target="_blank">Real Madrid fans</a> -
-<a href="http://www.the-football-directory.co.uk" target="_blank">Football directory</a> -
-<a href="http://www.soccer-corner.com/" target="_blank">Soccer Corner</a> -
-<a href="http://www.101greatgoals.com/" target="_blank">101 Great Goals</a> -
-<a href="http://www.goalcentre.com/" target="_blank">Goal Centre</a> -
-<a href="http://www.goaljunky.com/" title="live soccer" target="_blank">Soccer Highlights</a> -
-<a href="http://www.widescreen-football.com/" target="_blank">Widescreen Football</a> -
-<a href="http://www.socceradvise.com" target="_blank">Live Soccer</a> - 
-<a href="http://www.footballwallpaper.net" target="_blank">FootballWallpaper.net</a> - 
-<a href="http://www.1000goals.com/links">More Links</a>
-
-<br>
-<br>
-<b>
-Friends:
-<br>
-<a href="http://www.myspace.com/foosuperfly" title="Foo superfly" target="_blank">Foo Superfly</a> -
-<a href="http://www.alletrix.blogspot.com" title="Free software blog" target="_blank">Freeware blog</a> -
-<a href="http://www.orderofmen.com" title="Men forum" target="_blank">Order of Men</a><br>
-
-</b>
-
-</b>
+</div>
 
 
 
-<br><br>
-<b>
-<a href="http://www.1000goals.com/soccer-football-live-scores">Live scores</a> -
-<a href="mailto:admin@1000goals.com">Contact us</a> -
-<a href="http://www.1000goals.com/privacy-policy">Privacy Policy</a> -
-<a href="http://www.1000goals.com/members">Members</a> 
-</b>   
 
-<br><br>
+
+
+
+<div align="center"> 
+          <p><img src="http://www.1000goals.com/images/footer.jpg" width="960" height="75"></p>
+<p>Website design by <a href="http://doris.elicom.ee" target="_blank">Doris</a>.</p>
+          </div>
 
 
 
@@ -760,28 +399,21 @@ Friends:
 
 
 
+<script language="JavaScript" src="http://www.HeaderAds.com/script/show.php?id=3355&amp;c=16"> </script>
 
 
-
-<a href="http://www.soccerlinks.net/TheHitList/" target="_blank">
-<img src="http://www.soccerlinks.net/TheHitList/button.php?u=1000goals" alt="The Soccerlinks Hit List" border="0">
-</a>  <a href="http://www.Top100Soccer.com" target="_blank"><img src="http://www.top100soccer.com/www.Top100Soccer.com-button.gif" border="0" width="88" height="31" alt="TOP 100 SOCCER SITES"></a><br>
-www.1000Goals.com </font>
-</center></td></tr></tbody></table>
-
-
-
-
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-2989301-1";
-urchinTracker();
-</script>	
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2989301-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 
 
 
 
 
-</div></div></body></html>
+</body></html>
