@@ -1,40 +1,40 @@
-> *The following text is extracted and transformed from the disney-clipart.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627031204id_/http%3A//i-love-disney.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disney-clipart.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114237id_/http%3A//disney-clipart.com/privacy-policy.php) for the most accurate reproduction.*
 
-# I-Love-Disney.com Privacy Policy
+# Privacy Policy > Disney-Clipart.com
 
 ## Information Collection and Use
 
-I-Love-Disney.com is the sole owner of the information collected on this site as well as our new sister sites. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. I-Love-Disney.com collects information from our users at several different points on our website.
+**[Disney-Clipart.com](http://disney-clipart.com/ "Disney Clipart")** is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. **[Disney-Clipart.com](http://disney-clipart.com/ "Disney Clipart")** collects information from our users at several different points on our website.
 
 ## Log Files
 
-We use IP addresses and cookies to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
 ## Links
 
-This web site contains links to other sites. Please be aware that we [I-Love-Disney.com] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This web site contains links to other sites. Please be aware that we [ **[Disney-Clipart.com](http://disney-clipart.com/ "Disney Clipart")** ] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 ## Newsletter
 
 If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
 
-## Surveys, Contests, Topsites & Awards 
+## Surveys, Contests & Awards 
 
-From time-to-time our site may request information from users via surveys ,topsites or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+From time-to-time our site may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
 ## Tell-A-Friend
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. [I-Love-Disney.com] will automatically send the friend a one-time email inviting them to visit the site. [I-Love-Disney.com] stores this information for the sole purpose of sending this one-time email. The friend may contact [I-Love-Disney.com] at [I-Love-Disney.com] to request the removal of this information from their database.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. [ **[Disney-Clipart.com](http://disney-clipart.com/ "Disney Clipart")** ] will automatically send the friend a one-time email inviting them to visit the site. [ **[Disney-Clipart.com](http://disney-clipart.com/ "Disney Clipart")** ] stores this information for the sole purpose of sending this one-time email. The friend may contact [ **[Disney-Clipart.com](http://disney-clipart.com/ "Disney Clipart")** ] at [[Disney-Clipart.com](http://disney-clipart.com/ "Disney Clipart")] to request the removal of this information from their database.
 
 ## Correction/Updating Personal Information:
 
-If a user's personally identifiable information changes (such as your email), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. 
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. 
 
 ## Choice/Opt-out 
 
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. 
+Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. 
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [email@I-Love-Disney.com](mailto:email@I-Love-Disney.com)
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at emailATi-love-disney.com 
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
