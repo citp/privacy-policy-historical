@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the pdncommunity.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609090907id_/http%3A//www.pdncommunity.com/pdn/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pdncommunity.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217234200id_/http%3A//www.pdncommunity.com/pdn/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
 	<meta name="KEYWORDS" content="paypal developer community, paypal, developer, paypal developer, paypal code, paypal developer network, pdn, paypal community, developer community, paypal code samples, code samples">
 	
-<!--lithium user=-1 ticket=QzMCRMCrXKEN_-1 -->
+<!--lithium user=-1 ticket=xN-Ad2VsNnp2_-1 -->
 
 
 
@@ -15,8 +15,9 @@
 if(typeof LITHIUM == "undefined") { var LITHIUM={}; };
 if(typeof LITHIUM.CommunityJsonObject == "undefined") { LITHIUM.CommunityJsonObject={}; };
 LITHIUM.CommunityJsonObject.Community = {"id":"pdn","title":"PayPal Developer Community","shortTitle":"PayPal Developer Community"};
-LITHIUM.CommunityJsonObject.CoreNode = {"id":"top","title":"Top","shortTitle":"Top","nodeType":"Category","ancestors":[{"id":"pdn","title":"PayPal Developer Community","shortTitle":"PayPal Developer Community","nodeType":"Community"}]};
+LITHIUM.CommunityJsonObject.CoreNode = {"id":"pdn","title":"PayPal Developer Community","shortTitle":"PayPal Developer Community","nodeType":"Community","ancestors":[]};
 LITHIUM.CommunityJsonObject.User = {"login":"Anonymous"};
+LITHIUM.CommunityJsonObject.WebTracking = {"path":"Community:PayPal Developer Community"};
 
 </script>	
 
@@ -51,6 +52,7 @@ a:hover				{ text-decoration: underline; }
 																		              																		
 .userbar			{ color: #0033cc;		font-size: 8pt; 	padding-left: 5px; padding-right: 5px; padding-top: 3px; padding-bottom: 3px; background-color: #eeeeee;  }
 .userbar_text		{ color: #0033cc;		font-size: 8pt;   }
+.userbar .private-notes { padding-right:1ex; }
 																		              																		
 .searchbar			{ color: #000000;	font-size: 8pt; 	padding-left: 5px; padding-right: 5px; padding-top: 3px; padding-bottom: 3px; background-color: #FFFFFF;  }
 .searchbar_text		{ color: #000000;	font-size: 8pt; 	 }
@@ -81,6 +83,7 @@ a:hover				{ text-decoration: underline; }
 .default_cursor		{ cursor: default; }
 .disabled			{ cursor: not-allowed; }
 .dropdown_menu		{ position: absolute; }
+.dropDownText { white-space: nowrap;} /* This is something that for IE, on some customs, we'll want to override to 'normal' */
 .center-block		{ margin-left: auto; margin-right: auto; }
 
 .cell_1				{  background-color: #FFFFFF; padding-left: 5px; padding-right: 5px; padding-top: 8px; padding-bottom: 8px; background-repeat: repeat-x; }
@@ -145,31 +148,38 @@ a:hover				{ text-decoration: underline; }
 .msg-cell-solution	{ font-size: 9pt;  background-color: #EEFFEE; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; background-repeat: repeat-x; vertical-align: top; color: 000000; }
 .msg-rating-cell-solution { font-size: 9pt; background-color: #EEFFEE; padding-left: 10px; padding-right: 10px; padding-top: 5px; padding-bottom: 12px; text-align: right; color: 000000; }
 .subjectbar-solution {  background-image: url(/i/skins/default/bg_menubar_solution.gif);  background-color: #009900; color: #FFFFFF;	font-size: 11pt; 	padding-left: 5px; padding-right: 5px; padding-top: 3px; padding-bottom: 3px; }
-.mark-solution		{ color: #009900; text-decoration: none ! important; font-size: 8pt; font-weight: bold; }
-.is-solution		{ color: #009900; text-decoration: none ! important; font-size: 8pt; font-weight: bold; }
-.is-solved			{ color: #009900; text-decoration: none ! important; font-size: 8pt; font-weight: bold; }
+.mark-solution, a.mark-solution:hover { color: #009900; text-decoration: none ! important; font-size: 8pt; font-weight: bold; }
+.is-solution, a.is-solution:hover { color: #009900; text-decoration: none ! important; font-size: 8pt; font-weight: bold; }
+.is-solved, a.is-solved:hover { color: #009900; text-decoration: none ! important; font-size: 8pt; font-weight: bold; }
+.is-solved div, .is-solution div { text-align:center; }
 
 .hidden				{ display: none; }
-.kudos-container	{ margin-bottom: 10px; }
-.kudos-container div { text-align:center; }
-.kudos-container img	{ align: center; }
-.kudos-label		{ color: FF9900; font-size: 11; font-weight: bold; } 
-.kudos-label-kudoed	{ color: 999999; font-size: 9; font-weight: bold; }
-.kudos-label-thanks { color: FF9900; font-size: 11; font-weight: bold; }
-.kudos-count, .kudos-count a	{ color: 5E5E5E !important; font-weight: bold; font-size: 11pt; }
-.kudos-count a img 	{ text-decoration: none; }
-.cell-kudos			{ width: auto; height: auto; text-align: center; }
-.cell-kudos-padding { padding-top: 5px; padding-bottom: 8px; }
 .view-all			{ text-align: center; font-weight: normal; background-color: #eeeeee; height: 1.5em; }
 .view-all a			{ color: #0033cc !important; }
 .full-width			{ width: 100% }
-.kudosinfo-title	{ padding-bottom: 4px; font-weight: bold; }
-.kudos-button 		{ text-align: center; margin:0 auto; background-repeat: no-repeat; background-position:top center; }
-.kudos-container td { text-align:center; }
-.kudos-button-enabled	{  background-image: url(/i/skins/default/button-kudos-enabled.gif);  height: 50px; width: 50px; }
-.kudos-button-disabled	{  background-image: url(/i/skins/default/button-kudos-disabled.gif);  height: 50px; width: 50px; }
-.kudos-button-frozen	{  background-image: url(/i/skins/default/button-kudos-frozen.gif);  height: 50px; width: 50px; }
-.kudos-count img { border: 0px; }
+
+.user-subscription-dropdown { margin-bottom:5px; }
+.user-subscription-dropdown select { border:1px solid; }
+
+#lithium-body .kudos-container	{ margin-bottom: 10px; }
+#lithium-body .kudos-container div { text-align:center; }
+#lithium-body .kudos-container img	{ align: center; }
+#lithium-body .kudos-label		{ color: FF9900; font-size: 11; font-weight: bold; } 
+#lithium-body .kudos-label-kudoed	{ color: 999999; font-size: 9; font-weight: bold; }
+#lithium-body .kudos-label-thanks { color: FF9900; font-size: 11; font-weight: bold; }
+#lithium-body .kudos-count, .kudos-count a	{ color: 5E5E5E !important; font-weight: bold; font-size: 11pt; }
+#lithium-body .kudos-count a img 	{ text-decoration: none; }
+#lithium-body .cell-kudos			{ width: auto; height: auto; text-align: center; }
+#lithium-body .cell-kudos-padding { padding-top: 5px; padding-bottom: 8px; }
+#lithium-body .kudosinfo-title	{ padding-bottom: 4px; font-weight: bold; }
+#lithium-body .kudos-button 		{ text-align: center; margin:0 auto; background-repeat: no-repeat; background-position:top center; }
+#lithium-body .kudos-container td { text-align:center; }
+#lithium-body .kudos-button-enabled	{  background-image: url(/i/skins/default/button-kudos-enabled.gif);  height: 50px; width: 50px; }
+#lithium-body .kudos-button-disabled	{  background-image: url(/i/skins/default/button-kudos-disabled.gif);  height: 50px; width: 50px; }
+#lithium-body .kudos-button-frozen	{  background-image: url(/i/skins/default/button-kudos-frozen.gif);  height: 50px; width: 50px; }
+#lithium-body .kudos-count img { border: 0px; }
+
+.anon-label { font-size:83%; font-style:italic; vertical-align:top; filter:alpha(opacity=75); -moz-opacity:.75; opacity:.75;}
 
 .profile-cell-label	{ padding-left: 20px; font-size: 9; }
 .profile-cell-label-value	{ padding-left: 10px; font-size: 9; }
@@ -191,6 +201,116 @@ a:hover				{ text-decoration: underline; }
 </style>
 
 
+	<style>
+		@import url("/html/tagging/lieu_dialog.css");
+		@import url("/html/tagging/tagging.css");
+
+		
+
+
+
+
+.taglist .mine { }	
+.tagadd .newtags { border-color: #336699; background-color:#336699; }
+.tagadd .newtags { background-color: #fff; }
+
+.tagadd .nav input:focus { border-color: #336699; }
+.taglist li a { color: 000000!important; }
+.lieu-edit { background-color:#EEEEEE; }
+.lieu .container { border-color: #000000; background-color: #EEEEEE; }
+.lieu #s1 { padding:0 4px; margin:0 4px; border:1px solid red; }
+.lieu .dialog { border-color: cccccc; background-color: #EEEEEE; }
+#lieu-submit, #lieu-cancel { cursor:pointer; }
+.lieu .focusedItem { background-color:#EEEEEE; }
+.lieu .label { display:inline !important; font-weight:bold; }
+
+.message-tagging-cell { background-color: FFFFFF; }		
+		
+
+
+
+
+
+
+.li-tagging .taggers .weight { background-color:#336699; }
+.li-tagging .taggers .message-count .weight-area { border-color:#336699; }
+.li-tagging .taggers .message-count .content, .li-tagging .taggers .message-count .label { padding:2px; color: #000000; }
+
+.li-tagging .group-title { color:#000000; background-color: #eeeeee; border-bottom:1px solid #cccccc; }
+.li-tagging a {	color: #0033cc; }
+
+.li-tag-header { margin:0; padding:10px; border:1px solid #cccccc; }
+
+.tagging-table { background-color:#cccccc; width:100%; }
+.tagging-table .tag-message-list { border-bottom:10px solid #FFFFFF; }
+.position-right .group-area, .position-left .group-area { border: 1px solid #cccccc; }
+.tagging-detail .group-area { border:1px solid #cccccc; }
+#li-blog-article .blog-tags .tag-group .group-area { border:1px solid #cccccc; }
+#li-blog-article .top-taggers-portal-module { border:1px solid #cccccc; }
+.li-tagging .tagging-users li, .li-tagging .tagging-messages li { border-bottom:1px solid #cccccc; }
+.li-tag-stats ul li { border-left:1px solid #cccccc; }
+
+
+.li-tagging .tag-group { background:#FFFFFF; }
+.blog-tags .tag-group { background:none; }
+.node-tagging {	background-color: #FFFFFF; }
+.tagging-backdrop {	background-color: #FFFFFF; }
+.node-tagging .group-area{ background-color: #FFFFFF; }
+.top-taggers .group-area { background-color: #FFFFFF; }
+.li-tag-header { background-color: #EEEEEE; }
+
+
+.module_data_cell a.li-tagging-wieght-0, .module_data_cell a.li-tagging-wieght-1, .module_data_cell a.li-tagging-wieght-2,
+	a.li-tagging-wieght-0, a.li-tagging-wieght-1, a.li-tagging-wieght-2  
+		{ font-size:80%; color:#666666; }
+.module_data_cell a.li-tagging-wieght-3, .module_data_cell a.li-tagging-wieght-4,
+	a.li-tagging-wieght-3, a.li-tagging-wieght-4  
+		{ font-size:90%; color:#4C4C4C; }
+.module_data_cell a.li-tagging-wieght-5, .module_data_cell a.li-tagging-wieght-6,
+	a.li-tagging-wieght-5, a.li-tagging-wieght-6 
+		{ font-size:100%; color:#323232; }
+.module_data_cell a.li-tagging-wieght-7, .module_data_cell a.li-tagging-wieght-8,
+	a.li-tagging-wieght-7, a.li-tagging-wieght-8
+		{ font-size:110%; color:#191919; }
+.module_data_cell a.li-tagging-wieght-9, .module_data_cell a.li-tagging-wieght-10,
+	a.li-tagging-wieght-9, a.li-tagging-wieght-10
+		{ font-size:110%; color:#000000; font-weight:bold; }
+
+.cloud-detail-link { font-size:8pt !important; }
+.cloud-detail-link-container td { text-align: right; padding: 3px 5px 3px 5px; color: #000000; }
+
+.group-title, .module-title, .li-blog .module-title { text-transform: uppercase; color: #000000;	
+	font-size: 8pt; 
+	background-color: #eeeeee;	
+	 
+}
+
+.module-title	{ padding: 3px 5px 3px 5px; }
+
+.position-bottom .left-cloud-border { border-left: 1px solid #cccccc; }
+.position-bottom .double-cloud { border-right: 1px solid #cccccc; }
+.position-bottom .triple-cloud { border-right: 1px solid #cccccc; }
+.position-bottom .quad-cloud { border-right: 1px solid #cccccc; }
+.position-bottom .quint-cloud { border-right: 1px solid #cccccc; }
+
+.module-table	{ border: 1px solid #cccccc; margin-bottom: 10px; width: 100%; border-spacing: 0px; border-collapse: collapse; }
+.module-table-bottom	{ border: 0px; margin-bottom: 10px; width: 100%; border-spacing: 0px; }
+.module-cell	{ border-bottom: 1px solid #cccccc; padding: 3px 5px 3px 5px; font-size: .9em; border-spacing: 0px; }
+.timerange		{ color: #0033cc; }
+.align-right	{ text-align: right; }
+.module-cell-border	{ border-right: 0px; }
+
+.kudos-message-max-age td { text-align: right; border-top: 1px solid #cccccc; }
+.kudos-message-max-age td span { font-weight: bold; padding: 2px 3px 2px 3px; }
+.kudos-message-max-age td a { padding: 2px 3px 2px 3px; }
+.kudos-message-max-age td a:hover { font-weight: normal; text-decoration: underline; }
+.kudos-message-max-age td a.selected { font-weight: bold; font-size: 1em; }
+
+
+	</style>
+
+		
+
 
 
 
@@ -200,7 +320,7 @@ a:hover				{ text-decoration: underline; }
 	var img_thread_expand = "/i/skins/default/button_thread_expand.gif";
 	</script>
 
-	<script language="javascript" src="/pdn/js_33060" type="text/javascript"></script>
+	<script language="javascript" src="/pdn/js_41723" type="text/javascript"></script>
 
 	<title>
 	    Privacy Policy - 
@@ -208,6 +328,18 @@ a:hover				{ text-decoration: underline; }
 	</title>
 	
 	
+	
+
+
+
+
+
+
+
+
+
+
+
 	<script language="javascript">
 	function user_id() {
 		return -1;
@@ -221,6 +353,42 @@ a:hover				{ text-decoration: underline; }
 
 
 
+
+
+
+
+
+<style>
+html>/**/body#lithium-body .SearchForm, x:-moz-any-link, x:default { width:100%; }
+html>/**/body#lithium-body .user-navigation-content, x:-moz-any-link, x:default { width:100%; }
+#lithium-body .UserNavigationBar { background-color: #BEC7D1; height: 20px; }
+#lithium-body .user-navigation-content { float: right; margin: 0px; color: #333333; }
+#lithium-body .user-navigation-content ul li { margin: 0px; }
+#lithium-body .user-navigation-content ul span.separator { padding: 2px; }
+#lithium-body .user-navigation-content .LinkDisplay { text-decoration: underline; color: #0033cc; margin: 4px 3px 0px; }
+#lithium-body .user-navigation-content .PrivateNotes { float: left; padding-left: 8px; padding-right: 2px; padding-top: 2px; color: #0033cc; }
+#lithium-body .user-navigation-content .PrivateNotes a span { text-decoration: underline; }
+#lithium-body .user-navigation-content .SearchForm .search-granularity { display:none; }
+#lithium-body .user-navigation-content .SearchForm .advanced-search-link { display:none; }
+#lithium-body .user-navigation-content .SearchForm .user-search-link { display:none; }
+#lithium-body .user-navigation-content .SearchForm .search-separator { display:none; }
+#lithium-body .user-navigation-content .SearchForm .search-input { width: 112px; }
+.TitleBar { display: none !important; }
+.bottom .SearchForm { display: none !important; }
+*+html #mce_editor_0_fontSizeSelect { width: 58px; }
+*+html #mce_editor_0_fontNameSelect { width: 86px; }
+* html #mce_editor_0_fontSizeSelect { width: 58px; }
+* html #mce_editor_0_fontNameSelect { width: 86px; }
+body, .MessageEditor .message-body-editor textarea { font-family: Verdana; }
+</style>
+
+<style>
+.blog-interaction-style .blog-link { border: thin solid; padding: 6px; }
+.blog-interaction-style .UserNavigationBar { background-color: #BEC7D1; }
+.blog-interaction-style .user-navigation-content { padding: 8px; }
+.blog-interaction-style .BreadCrumb ul { padding-top: 6px; }
+
+</style>
 	
 </head>
 
@@ -229,6 +397,8 @@ a:hover				{ text-decoration: underline; }
 	
 <center>
 	
+	<div id="lithium-body">
+	
 
 
 
@@ -247,6 +417,24 @@ a:hover				{ text-decoration: underline; }
 
 		
 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -258,7 +446,8 @@ a:hover				{ text-decoration: underline; }
 
 
 <style>
-.full-width {width: 430px; overflow: hidden; }
+#lithium-body .BlogAuthor .UserAvatar img {height:60px; width:60px;}
+.full-width {width: 430px; overflow: display; }
 .pdnHeader { width: 760px; padding-bottom: 13px; font-size: 11px; }
 .pdnHeader .logo { float: left; padding-left: 8px; }
 .pdnHeader .links { text-align: right; padding-top: 30px; }
@@ -271,10 +460,10 @@ a:hover				{ text-decoration: underline; }
 .userbar {background-color: #BEC7D1; padding: 3px;}
 .userbar_search { width:200px; text-align: right; }
 .user_links { font-size: 8pt; }
-.user_links a { text-decoration: underline;  }
-.user_links a img { vertical-align: text-bottom;  }
-.portal_column_right td { font-size: 11px; } 
-.pdnFooter { width: 670px; font-size: 11px; text-align: center;}
+.user_links a { text-decoration: underline; }
+.user_links a img { vertical-align: text-bottom; }
+.portal_column_right td { font-size: 11px; }
+.pdnFooter { width: 670px; font-size: 11px; text-align: center; font-family: Verdana;}
 .view_all_popular {padding-top: 8px; }
 </style>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -292,6 +481,7 @@ urchinTracker();
 <img src="/pdn/i/pdncomm_logo.gif" border="0"></a></div><br>
 </div>
 
+
 		
 	
 
@@ -302,7 +492,7 @@ urchinTracker();
 
 
 
-		<a name="content"></a><table cellpadding="0" cellspacing="1" border="0" class="main_table" id="main_table" width="760" style="width: 760px;"> 
+		<a name="content"></a><table cellpadding="0" cellspacing="1" border="0" class="main_table" id="main_table" width="750" style="width: 750px;"> 
 	
 		
 
@@ -578,6 +768,12 @@ may e-mail us at <a href="mailto:askprivacy@paypal.com">askprivacy@paypal.com</a
 
 
 
+
+
+
+
+
+
 <div class="pdnFooter">Copyright © <script language="javascript">
 
 var curr_date = new Date();
@@ -591,13 +787,34 @@ document.write(year);
 </script>2020
  PayPal. All Rights Reserved. By using this site, you agree to be bound by PayPal's <a href="/pdn/legal">Legal Disclaimer</a>, <a href="/pdn/user_agreement">User Agreement</a>, and <a href="/pdn/privacy_policy">Privacy Policy</a>. This site is subject to change without notice. All other products and company names are trademarks of their respective corporations.</div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 		
 
 
 
 
 
+	</div>
+	
 </center>
+
+
+
+
+
+
 
 
 
