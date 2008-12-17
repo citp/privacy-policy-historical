@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igzones.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521031109id_/http%3A//www.igzones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igzones.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075610id_/http%3A//www.igzones.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | International Gaming Zones; Matchmaking for Gaming!
+# Privacy Policy | International Gaming Zones
 
 International Gaming Zones is committed to preserving the privacy of all visitors to our website at [http://www.igzones.com](http://www.igzones.com/ "http://www.igzones.com"). Please read the following privacy policy to understand how we use and protect the information that you provide to us.  
 By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy.  
