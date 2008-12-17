@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynextdegree.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611131831id_/http%3A//www.mynextdegree.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynextdegree.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061602id_/http%3A//www.mynextdegree.com/privacy.asp) for the most accurate reproduction.*
 
 # My Next Degree
 
