@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the docu-track.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609124011id_/http%3A//www.docu-track.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docu-track.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161655id_/http%3A//www.docu-track.com/privacy) for the most accurate reproduction.*
 
-# Tracker Software Products Ltd - Privacy Policy
-
-## Privacy Policy
+# Privacy Policy
 
 **Thank you for visiting Tracker Software Products Ltd at**[ **www.docu-track.com**](http://www.docu-track.com/) **\- publishers of quality software for the creation and manipulation of Imaging and Adobe PDF document formats.**
 
