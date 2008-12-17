@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillsbank.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610053204id_/http%3A//www.hillsbank.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillsbank.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217151422id_/http%3A//www.hillsbank.com/privacy.cfm) for the most accurate reproduction.*
 
 # Hills Bank & Trust Company - Privacy Policy
 
@@ -96,7 +96,7 @@ You must have sufficient available funds or credit in any account from which you
 
 ## Fees for Hills Bank Online and PowerPay
 
-Hills Bank Online is a free service. The PowerPay charge is $5.95 (including tax) per month. The first 90 days are free; payments will subsequently be debited from the account you have set up for PowerPay. Hills Bank and Trust Company charges for the following requests of PowerPay payments: Stop Payments – $20 per item (effective November 15, 2002 the fee will be $25); Insufficient Funds - $20 per item (effective November 15, 2002 the fee will be $25); Copy of Canceled Check - $1.00 per check (customers can print their own canceled PowerPay checks and avoid the respective fee by using Hills Bank Online). The monthly fees for PowerPay will be deducted from your account when your statement cuts. Any other fees (Stop Payments, NSF items, etc.) will be deducted from your account the day they are incurred.
+Hills Bank Online and Power Pay are free services. Hills Bank and Trust Company charges for the following requests of PowerPay payments: Stop Payments, Insufficient Funds, Copy of Canceled Check - see [Schedule of Fees](https://web.archive.org/web/20081217151422id_/http%3A//www.hillsbank.com/bankfiles/feeschedule.pdf) for details. (Customers can print their own canceled PowerPay checks and avoid the respective fee by using Hills Bank Online). Any other fees (Stop Payments, NSF items, etc.) will be deducted from your account the day they are incurred. 
 
 ## Push Button Banker
 
