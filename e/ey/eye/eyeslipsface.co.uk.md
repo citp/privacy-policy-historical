@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516110611id_/http%3A//www.eyeslipsface.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217183042id_/http%3A//www.eyeslipsface.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # ELF Cosmetics UK - Eyes Lips Face
 
