@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcareers.ca privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612213819id_/http%3A//www.hcareers.ca/abouthospitalityjobs/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcareers.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063202id_/http%3A//www.hcareers.ca/abouthospitalityjobs/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Hcareers
 
@@ -64,3 +64,5 @@ This privacy policy does not apply to the practices of companies or other entiti
 This privacy policy will be governed by the laws of the Province of British Columbia and the laws of Canada applicable therein, excluding any conflict of laws rules that would apply another body of law. This privacy policy constitutes and contains the entire agreement between you and Hcareers with respect to its subject matter and supersedes any prior oral or written agreements.
 
 If any provision of this privacy policy is held to be illegal or unenforceable, that provision will be limited or eliminated to the minimum extent necessary so that this privacy policy will otherwise remaining full force and effect and enforceable.
+
+Source: [Privacy Policy](http://www.hcareers.com/us/abouthospitalityjobs/privacy.aspx)
