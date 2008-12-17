@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esnips.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511203657id_/http%3A//www.esnips.com/statments/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esnips.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082114id_/http%3A//www.esnips.com/statments/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
