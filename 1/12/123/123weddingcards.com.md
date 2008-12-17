@@ -1,7 +1,15 @@
-> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512090740id_/http%3A//www.123weddingcards.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044405id_/http%3A//www.123weddingcards.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# 123weddingCards : Privacy Policy of 123WeddingCards.com
+# 123weddingCards : Privacy Policy of 123WeddingCards.com, Wedding cards, Indian Wedding cards, Wedding cards India, Hindu Wedding Cards, Islamic Wedding Cards, Muslim Wedding Cards, Sikh Wedding Cards, Punjabi Wedding Cards, christian Wedding Cards, Asian Wedding Cards, Wedding cards for sale, free Sample for wedding cards, Blank and custom printed Wedding Cards, Wedding Invitation cards, Indian Wedding Invitation cards, Online Wedding Cards
 
+|  | 
+
+| 
+
+**   Privacy Policy of 123WeddingCards.com**  
+  
+---  
+   
 | 
 
 | 
@@ -22,4 +30,16 @@ Privacy of our email lists:
 
 The [ 123WeddingCards.com](http://www.123weddingcards.com/) maintains several email lists to keep our members informed about breaking events. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized [ 123WeddingCards.com](http://www.123weddingcards.com/) staff, including other list subscribers.   
   
-<<<Back
+<<<Back  
+  
+|  |   Our Facilities  
+---  
+  
+Our site facilitates buying samples. Cost of samples is fully adjustable in later bulk order. Printing services provided at additional cost.   
+Processing time 3-5 days another 3 to 5 days delivery worldwide.   
+For more information please contact us at [ info@123WeddingCards.com](mailto:info@123WeddingCards.com)  or   
+Call us at   +91 99280 06113 , +91 98291 31113 (Atul).  
+  
+   
+  
+ 
