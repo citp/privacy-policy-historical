@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anywebcam.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603193250id_/http%3A//www.anywebcam.com/awc/html/lang_10000/content/popup/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anywebcam.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044653id_/http%3A//www.anywebcam.com/awc/html/lang_10000/content/popup/privacy_policy.html) for the most accurate reproduction.*
 
 # ANYwebcam.com
 
@@ -10,9 +10,8 @@ Michalakopoulou 12,
 P.C. 1075, Nicosia, Cyprus
 
 ANYwebcam.com USA LLC.  
-3305 W Spring Mountain Rd,  
-Ste# 60-15,  
-Las Vegas NV 89102 USA
+3155 East Patrick Lane · Suite 1  
+Las Vegas, NV 89120-3481 USA
 
                     ANYwebcam.com Pty Ltd.  
 ACN: 098 473 691.  
