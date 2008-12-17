@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509075608id_/http%3A//filext.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062432id_/http%3A//filext.com/privacy.php) for the most accurate reproduction.*
 
 # FILExt Privacy Statement
 
@@ -63,6 +63,8 @@ The ads appearing on the FILExt Web site are delivered to users by Google Adsens
   * [Google Adsense Privacy Statement](http://www.google.com/privacy.html)
 
 
+
+Google Adsense allows some third-party companies access to serve ads in the same place as the Google-served ads. These ads may use the techniques described below as well. If you wish to turn off any such use you will have to visit the website of the company concerned and read their privacy policy and act accordingly. FILExt does not control which companies Google may extend this permission to and so cannot give you specific links to the pricacy statements that might be involved. 
 
 Third party advertisers generally use clear GIFs (also known as Web bugs and Web beacons) to track your progress through a Website. These GIFs, once served, can be used to track number of visits to pages and other aggregate data in a manner similar to cookies. No individual data is associated with these clear GIFs.
 
