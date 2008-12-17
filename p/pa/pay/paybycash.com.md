@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620061454id_/http%3A//www.paybycash.com/customer/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050831id_/http%3A//www.paybycash.com/customer/privacy.php) for the most accurate reproduction.*
 
 # PayByCash™
 
@@ -127,4 +127,4 @@ Internet Payment Solutions, Inc.
 Charlottesville, VA 22902  
 USA 
 
-Via contact information found on our Web site at: [http://www.paybycash.com/company/contact_us.php](https://web.archive.org/web/20080620061454id_/http%3A//www.paybycash.com/company/contact_us.php)
+Via contact information found on our Web site at: [http://www.paybycash.com/company/contact_us.php](https://web.archive.org/web/20081217050831id_/http%3A//www.paybycash.com/company/contact_us.php)
