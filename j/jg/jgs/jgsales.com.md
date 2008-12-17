@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jgsales.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611010026id_/http%3A//www.jgsales.com/privacy.php%3FSID) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jgsales.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104855id_/http%3A//www.jgsales.com/privacy.php%3FSID) for the most accurate reproduction.*
 
 # J&G Sales
 
@@ -50,4 +50,4 @@ Paperwork related to a firearm sale (the form 4473 if done in person, the invoic
 
 **Questions**
 
-Questions regarding our Terms Of Service, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at:  **[ jgsales@qwest.net](mailto:%20jgsales@qwest.net)**
+Questions regarding our Terms Of Service, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at:  **[ info@jgsales.com](mailto:%20info@jgsales.com)**
