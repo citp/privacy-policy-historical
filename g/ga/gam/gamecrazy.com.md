@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamecrazy.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611182003id_/http%3A//www.gamecrazy.com/util/offsite.aspx%3Furl%3Dhttp%3A//www.hollywoodvideo.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecrazy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055502id_/http%3A//www.gamecrazy.com/util/offsite.aspx%3Furl%3Dhttp%3A//www.hollywoodvideo.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Hollywood Video - Privacy Policy
 
@@ -8,7 +8,7 @@ This policy discusses the following topics:
 
   * Personally Identifiable Information: What It Is, Where We Collect It, How We Use It, and To Whom We Disclose It
   * Cookies: What A Cookie Is and How We Use Them
-  * Children: Our Policy For Guests Under Age 13
+  * Children: Our Policy For Customers Under Age 13
   * Choices You Have: How To Update Your Personally Identifiable Information, Cancel Your Newsletter Subscription and Disable Cookies
   * Changes To This Privacy Policy: Information About Additions and Deletions To This Page
   * Contact Information: How You Can Contact Us
@@ -77,7 +77,7 @@ In the event we go through a business transition, such as a merger, acquisition 
 
 We take commercially reasonable precautions to protect our customers' information. Because network security measures are not infallible, we cannot guarantee the security of your information.
 
-When you order gift cards or make other online purchases from us, sensitive information such as your credit card number is encrypted. We also make an effort to protect your information off-line. All of our customers' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Finally, the servers that store your personally identifiable information are housed in a secure environment.
+When you order gift cards or make other online purchases from us, sensitive information such as your credit card number is encrypted. We also make an effort to protect your information off-line. All of our customers' information, not just the sensitive information mentioned above, is restricted in our offices. Only associates who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. All associates are kept up-to-date on our security and privacy practices. Finally, the servers that store your personally identifiable information are housed in a secure environment.
 
 ## Site Ownership and Contact Information
 
