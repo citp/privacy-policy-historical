@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429182627id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071714id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
 
-# Lippincott Williams & Wilkins Privacy Policy & Statement, permission marketing
+# LWW.com
 
-**LWW.com does not share or sell any individual's contact information, financial information, or unique identifiers to any advertiser or third party.**
+**LWW.com does not sell or rent any individual's e-mail address, financial information, or unique identifiers to any advertiser or unaffiliated third party. On occasion, we may provide the information we gather, including name, address, and e-mail address, to our sister companies and other partners.**
 
  **When you supply your  
 e-mail address, we use it to confirm your order, provide requested information, and otherwise respond to your communication.**
@@ -15,17 +15,19 @@ We will update this Privacy Policy statement if elements of our policy change. I
 
 What type of information does LWW.com collect online?
 
-LWW.com monitors several aspects of **general browsing** , including traffic to specific pages, length of visit, and shopping behavior. Click here to find out how LWW uses this information. 
+LWW.com monitors several aspects of **general browsing** , including traffic to specific pages, length of visit, and shopping behavior. [Click here](http://www.lww.com/privacy/#LWWuses) to find out how LWW uses this information. 
 
-LWW.com gathers **personal information** from customers in two places: registration and checkout. LWW.com registration is completely optional and if you choose to register, we will ask you for your name, e-mail address, LWW account number (if you have it handy - it is not required to make a purchase), mailing address, phone number (if you wish to provide it), primary specialty you are currently working or studying in, profession (if you wish to provide it), and workplace setting (if you wish to provide it). Click here to find out how LWW uses this information. 
+LWW.com gathers **personal information** from customers in two places: registration and checkout. LWW.com registration is completely optional and if you choose to register, we will ask you for your name, e-mail address, LWW account number (if you have it handy - it is not required to make a purchase), mailing address, phone number (if you wish to provide it), primary specialty you are currently working or studying in, profession (if you wish to provide it), and workplace setting (if you wish to provide it). [Click here](http://www.lww.com/privacy/#LWWuses) to find out how LWW uses this information. 
 
-If you register on LWW.com, you will also be prompted to sign up for **LWW.com Updates** , which include the _LWW.com Insider_ and _LWW.com Essentials_ e-newsletters. If you sign up for LWW.com Updates, we will ask you if you can receive HTML e-mail messages, if you are a faculty member and where you teach. You will be able to select the specialties you wish to receive Updates in as well as the _Essentials_ e-newsletters that best fit your profession or work setting. 
+If you register on LWW.com, you will also be prompted to sign up for **LWW.com News, Coupons and Product Updates** , which include the _LWW.com Insider_ and _LWW.com Essentials_ e-newsletters. If you sign up for LWW.com News, Coupons and Product Updates, we will ask you if you can receive HTML e-mail messages, if you are a faculty member and where you teach. You will be able to select the specialties you wish to receive Updates in as well as the _Essentials_ e-newsletters that best fit your profession or work setting. 
 
-LWW.com Updates are sent from "Lippincott Williams & Wilkins" [ **orders@lww.com** ]. This information may help you in your efforts to filter out spam while allowing legitimate e-mail to get through. 
+LWW.com News, Coupons and Product Updates are sent from "Lippincott Williams & Wilkins" [ **orders@lww.com** ] and "LWW Alerts" [ **alerts@LWW-Alerts.com** ]. This information may help you in your efforts to filter out spam while allowing legitimate e-mail to get through. 
+
+This information may help you in your efforts to filter out spam while allowing legitimate e-mail to get through. 
 
 LWW.com gives you options for removing your information from our database in order to discontinue receiving future communications or service. To do this: 
 
-  * Go to the [Opt-out form](https://web.archive.org/unsubscribe)
+  * Go to the [Opt-out form](http://www.lww.com/unsubscribe)
   * Enter your email address (if it isn't already there)
   * Click on the unsubscribe button
 
@@ -45,7 +47,7 @@ The **personal information** we collect will allow us to present you with a more
 
 Does LWW.com share or sell my information with third parties?
 
-LWW.com does not share, sell, rent, or trade any individual's contact information, financial information, or unique identifiers to any advertiser or unaffiliated third party. On occasion, we may provide the information we gather, including name, address, and e-mail address, to our sister companies. To find out who our sister companies are, please [click here](https://web.archive.org/static/html/websites.html). 
+LWW.com does not sell personal information that we collect to third parties.  The information we collect is used to acknowledge and deliver items that customers order, to improve the content of our website, to notify visitors who request specific information about updates to our website (i.e. new products in a specific category), and to contact visitors (with permission) for our own marketing purposes. We work with reputable third parties to assist us in delivering services to you. In these instances, we will provide your personal information to third parties so that they can perform these services. Third parties are required to hold the information in confidence and use it only for the purpose of delivering the service for which they were hired. 
 
 What else should I know about regarding LWW.com's privacy statement?
 
