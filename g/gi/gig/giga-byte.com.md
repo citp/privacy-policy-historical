@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giga-byte.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505010707id_/http%3A//www.giga-byte.com/FunctionPage.aspx%3FClientFunctionID%3D400) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giga-byte.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217164825id_/http%3A//www.giga-byte.com/FunctionPage.aspx%3FClientFunctionID%3D400) for the most accurate reproduction.*
 
 # GIGABYTE - Corporate - Privacy
 
