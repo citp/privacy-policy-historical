@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreepaysite.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513151607id_/http%3A//www.myfreepaysite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreepaysite.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021012id_/http%3A//www.myfreepaysite.com/privacy.html) for the most accurate reproduction.*
 
 # MYFREEPAYSITE.COM - PRIVACY POLICY
 
@@ -9,13 +9,13 @@
 
 **The[MyFreePaysite.com](http://www.myfreepaysite.com/) Privacy Policy**
 
-We take your privacy seriously. Please read this page to learn about our privacy policy.
+We take your privacy seriously.  Read this page to learn about our privacy policy.
+
+MyFreePaysite.com is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [http://www.myfreepaysite.com](http://www.myfreepaysite.com/).  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 |  [ ](http://www.truste.org/ivalidate.php?url=www.myfreepaysite.com&sealid=101)  
 ---|---  
   
-MyFreePaysite.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.myfreepaysite.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
 If you have questions or concerns regarding this statement, you should first contact our Privacy Department at the contact information  below. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at their Watch Dog page located at: <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **What This Privacy Policy Covers**
@@ -87,11 +87,20 @@ MyFreePaysite.com is an adult site and access to persons under the age of 18 is 
 
 **Changes to this Privacy Policy**
 
-MyFreePaysite.com may update this policy. We will notify you about significant changes in the way we treat personal information or e-mail addresses by sending a notice to the primary email address specified in your MyFreePaysite.com account or by placing a prominent notice on our site.
+MyFreePaysite.com may update this policy. We will notify you about material changes in the way we treat personal information or e-mail addresses by sending a notice to the primary email address specified in your MyFreePaysite.com account or by placing a prominent notice on our site.
 
 **Changes in E-Mail Practices**
 
 If we decide to make changes in our email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to the way we use your email address, we will notify you here, by email, or by means of a notice on our home page.
+
+**About Our Blog**
+
+MyFreePaysite.com operates a blog at [http://blog.myfreepasyite.com](http://blog.myfreepasyite.com/) where users are able to leave comments that are publicly posted for other users to read.
+
+If you use the blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in the blog.
+
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial  
+ 
 
 **Questions and Suggestions**
 
@@ -105,7 +114,7 @@ Customer Care - Privacy Policy Issues
 Glenview, IL 60026  
 USA
 
-Effective Date: March 16, 2006
+Effective Date: August 22, 2008
 
 * * *
 
