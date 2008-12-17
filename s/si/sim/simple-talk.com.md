@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609182509id_/http%3A//www.simple-talk.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082457id_/http%3A//www.simple-talk.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -91,7 +91,7 @@ By using our website, or giving us your details, at an exhibition, you consent t
 
 **2.2** **Contacting us**
 
-You have the right to access your information held by Simple-Talk.com (for which we may charge a small fee) and where necessary, to have it amended. You can also request not to receive marketing information from Simple-Talk.com and Red Gate Software Limited. For more details, please contact: Data Protection, Simple-Talk.com, Red Gate Software, The Jeffreys Building, St John's Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom or email [privacy@simple-talk.com](mailto:privacy@simple-talk.com). ****
+You have the right to access your information held by Simple-Talk.com (for which we may charge a small fee) and where necessary, to have it amended. You can also request not to receive marketing information from Simple-Talk.com and Red Gate Software Limited. For more details, please contact: Data Protection, Simple-Talk.com, Red Gate Software, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom or email [privacy@simple-talk.com](mailto:privacy@simple-talk.com).
 
   
 
