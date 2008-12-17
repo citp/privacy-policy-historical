@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imperfectparent.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509164421id_/http%3A//www.imperfectparent.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imperfectparent.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141427id_/http%3A//www.imperfectparent.com/privacy) for the most accurate reproduction.*
 
 # The Imperfect Parent || Privacy Policy
 
