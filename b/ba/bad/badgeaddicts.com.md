@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badgeaddicts.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410004057id_/http%3A//www.badgeaddicts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgeaddicts.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054126id_/http%3A//www.badgeaddicts.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Badgeaddicts Privacy Policy
 
@@ -26,7 +26,9 @@ In the event of an attack, hack attempt or other suspicious activity, an adminis
 
 \- Badgeaddicts displays advertisements. However, all advertisement images are hosted on our server and do not create cookies. Our advertisers will never know you were here, unless you follow a link to their web site. 
 
-Cookies from the advertisers may be set, if you follow a link to an advertiser's web site, so that they will know to credit Badgeaddicts for referring a sale to them. 
+Cookies from the advertisers may be set, if you follow a link to an advertiser's web site, so that they will know to credit Badgeaddicts for referring a sale to them.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you 
 
 ## Links
 
