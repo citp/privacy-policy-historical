@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsglobal.com.au privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612074552id_/http%3A//www.smsglobal.com.au/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsglobal.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081758id_/http%3A//www.smsglobal.com.au/privacy_policy.htm) for the most accurate reproduction.*
 
 # SMS Global - Bulk SMS, Premium rate SMS, MMS Messaging, SMS Gateway
 
@@ -51,9 +51,9 @@ Please refer to our Terms and Conditions and Disclaimer for more information.
 
 ## Ask Us About Your Privacy
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at [privacy@smsglobal.com.au](mailto:privacy@kas.net.au)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at [privacy@smsglobal.com.au](mailto:privacy@smsglobal.com.au)
 
 **See also:**  
-[Terms of Use](https://web.archive.org/web/20080612074552id_/http%3A//www.smsglobal.com.au/termsofuse.html)  
-[Disclaimer](https://web.archive.org/web/20080612074552id_/http%3A//www.smsglobal.com.au/disclaimer.html)  
+[Terms of Use](https://web.archive.org/web/20081217081758id_/http%3A//www.smsglobal.com.au/termsofuse.html)  
+[Disclaimer](https://web.archive.org/web/20081217081758id_/http%3A//www.smsglobal.com.au/disclaimer.html)  
 
