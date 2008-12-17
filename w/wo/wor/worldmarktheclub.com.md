@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516044044id_/http%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055905id_/http%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
-# WorldMark, The Club
+# WorldMark, The Club | Privacy Policy
 
 | Home  
 ---  
-Owner Sign In  
+Your Account  
 Resort Gallery  
+Advanced Search  
+Accessibility Guides  
 Inventory Specials  
-Out of Network Offers  
-WorldMark Travel  
-Party Weekends  
+Travel For Credits  
+Last Minute Travel  
 Other Specials  
+WorldMark Travel  
 Vacation Forum  
 Owner Education  
 Become an Owner  
@@ -19,14 +21,13 @@ Contact Us
   
 Privacy Policy
 
-Revised: _August 2006_
-
 **Wyndham Vacation Ownership, Inc. ("WVO")** recognizes the importance of protecting the privacy of certain Information collected about the users and visitors ( **"user," "you" or "your"** ) of WVO’s Web site ( **"Web Site"** ). The following privacy and information practices policy discloses and describes what Information WVO may gather about you, how WVO may use such Information, and how you can correct or change such Information ( **"Privacy Policy"** ). This Privacy Policy is designed to give you an understanding about how WVO collects your Information and the uses WVO may make of such Information during the course of WVO’s business and in providing you with access to the information, products and services that may be available at this Web Site.
 
 You should print a copy of this Privacy Policy for your records. Please note, however, that WVO may update and amend this Privacy Policy from time to time as WVO deems necessary in its sole discretion. Certain capitalized terms used in this Privacy Policy may be defined in WVO’s separate [Web Site Terms of Use](https://web.archive.org/legal/terms.shtml).
 
 [Canadian Privacy Policy  
-](https://web.archive.org/legal/canadian_policy.shtml)Click Here for Information on Your California Privacy Rights
+](https://web.archive.org/legal/canadian_policy.shtml)Information on Your California Privacy Rights  
+Connecticut Residents
 
 **NOTICE TO WVO TIMESHARE OWNERS/FINANCING CUSTOMERS:** You may receive a separate notice regarding "Your Financial Privacy" by mail. If this Web site provides you the ability to access your account online, and you agree to receive annual notices online, WVO will provide you with annual notices through this Web site. Further, if WVO provides you with updated notices online, WVO will require you to acknowledge receipt of the updated notice through this Web site.
 
@@ -135,7 +136,7 @@ YOUR ACCEPTANCE OF THESE TERMS AND POLICY CHANGES
 
 By using this Web Site, you signify your agreement to the terms of WVO’s Internet Privacy Policy. **IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEB SITE.** Your continued use of WVO’s Web Site following the posting of any changes or updates to the terms of this Privacy Policy will signify your acceptance of those changes and updates.
 
-Effective date: This policy was last updated on August 1, 2006.
+Effective date: This policy was last updated on September 30, 2008 to add a notice to Conneticut residents.
 
 Your California Privacy Rights
 
@@ -147,3 +148,9 @@ Attn: California Disclosure Information
 Orlando, Florida 32819 
 
 We will respond to such written requests within 30 days following receipt at the mailing address above. We reserve the right not to respond to requests submitted other than to the address specified above or otherwise exempted by law. **Please note that we are required only to respond to each customer once per calendar year.**
+
+For Connecticut Residents (Effective October 1, 2008):
+
+CONFIDENTIALITY OF SOCIAL SECURITY NUMBERS: WVO may collect and use your Social Security number for purposes permitted or required by law, which may include but not be limited to identification, checking your credit (with your consent), tax reporting, and other purposes described in our applicable privacy policies. We endeavor to protect your Social Security number using physical, electronic or procedural security measures appropriate to the sensitivity of the information in our control. These measures include safeguards to protect your Social Security number against loss or theft, as well as unauthorized access, disclosure, copying, use and modification. Although "guaranteed security" does not exist either on or off the Internet, we make commercially reasonable efforts to make the collection and security of such information consistent with our privacy policies and all applicable laws and regulations. Access to your Social Security number is restricted to those WVO (including its affiliates) employees, agents and third party service providers who need such access to do their jobs and to fulfill the purposes for which the Social Security number was collected. 
+
+Effective date: This policy was last updated on September 30, 2008, to add a notice to Connecticut residents. __
