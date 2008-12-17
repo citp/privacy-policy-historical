@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the investors.com privacy policy that was archived on 2008-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080525090516id_/http%3A//www.investors.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investors.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217062603id_/http%3A//www.investors.com/privacy) for the most accurate reproduction.-->
 
 <html><head><script type="text/javascript">
 	<!--
@@ -56,506 +56,6 @@
 <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 <title>Investor's Business Daily: Privacy Statement</title>
 
-<script type="text/javascript"><!--
-
-function jsfPrintPage() {
-  if (window.print)
-    window.print()
-  else
-    alert("Please use your Browser's Print function as the requested feature is not supported in your browser.");
-}	
-
-function CSScriptInit() {
-//no longer used, but still called with onLoad in many body tags 
-}
-
-
-//function for Editorial pages to open the Power Tools page
-//	iType = 1 - Quotes
-//			2 - Stock Checkup
-//			3 - Charts
-//	sPage = "0" - Editorial content
-function jsfOpenPowerTool(sSymbol,iType,sPage)
-{ 
-	var sAccess;
-	sAccess = "";
-	switch(sPage.toString())
-	{
-	case "0":
-		sAccess = "EDCT";
-		sPage = "";
-		break;
-	case "ENL":
-		sAccess = "ENL";
-		sPage = "";
-		break;
-	case "FSC":
-		sAccess = "FSC";
-		sPage = "";
-		break;
-	case "SOD":
-		sAccess = "SOD";
-		sPage = "";
-		break;
-	case "TRU":
-		sAccess = "TRU";
-		sPage = "";
-		break;
-	case "ETF":
-		sAccess = "ETF";
-		sPage = "";
-		break;
-	}
-	
-	if(iType == "")
-	{	iType = 1;	}
-	
-	switch(parseInt(iType))
-	{
-	case 1:
-	///////////////////////////////////////////////
-	// Quotes
-	///////////////////////////////////////////////
-		window.location = "/quotes/default.asp?ac=" + sAccess + "&t=" + sSymbol;		
-		break;
-	case 2:
-	///////////////////////////////////////////////
-	// Stock Checkup
-	///////////////////////////////////////////////
-		if (sAccess != "")
-		{	strUrl="/member/checkup/checkUp.asp?ac=" + sAccess + "&t=" + sSymbol + "&ss=YES";	}
-		else
-		{	strUrl="/member/checkup/checkUp.asp?t=" + sSymbol + "&ss=YES";	}
-		strUrl = strUrl + sPage;
-		popup=window.open(strUrl,'CheckUpN',cupwindowprops);
-		popup.focus();
-		break;
-	case 3:
-	///////////////////////////////////////////////
-	// Charts
-	///////////////////////////////////////////////
-		if(sPage.indexOf(";")>-1)
-		{
-			arrAttr = sPage.split(";");
-			jsfChartsControl(sSymbol,arrAttr[0],arrAttr[1],parseInt(arrAttr[2]),arrAttr[3]);
-		}
-		else
-		{	jsfChartsControl(sSymbol,'pvc','daily',0,sPage);	}
-		break;
-	}
-}
-
-	function goPopupStockLists(strSymbol, isFromPopup) {
-		window.name = "winMain"
-		strUrl = "/member/mystocklist/addstock.asp?ticker=" + strSymbol
-		popupStockLists=window.open(strUrl,"popupStockLists","width=530,height=300,directories=no,status=no,location=no,toolbar=no,scrollbars=yes,resize=yes,menubar=no,copyhistory=no,alwaysRaised=0,dependent=0")
-	}
-	function goQuotes(ticker) {
-		document.forCharts.htmChartValue.value='1';
-		document.forCharts.htmAdditionalValue.value='';
-		document.forCharts.htmTicker.value=ticker;
-		document.forCharts.submit();
-	}
-	function goCharts(ticker) {
-		document.forCharts.htmChartValue.value='3';
-		document.forCharts.htmAdditionalValue.value='pvc;daily;1;';
-		document.forCharts.htmTicker.value=ticker;
-		if('' != '')
-		{	jsfOpenPowerTool(document.forCharts.htmTicker.value,3,';daily;0;');	}
-		else
-		{	jsfOpenPowerTool(document.forCharts.htmTicker.value,3,'pvc;daily;0;');	}
-		
-	}
-	function goStockCheckups(ticker) {
-		document.forCharts.htmChartValue.value='2';
-		document.forCharts.htmAdditionalValue.value='';
-		document.forCharts.htmTicker.value=ticker;
-		document.forCharts.submit();
-	}
-	function goArchives(form)
-	{
-		form.action = form.action.replace("#","&ac=#");
-		form.submit();
-	}
-// --></script>
-
-
-
-<link rel="stylesheet" href="http://www.investors.com/rel07.css" type="text/css">
-<link rel="stylesheet" href="http://www.investors.com/icomnavR10.css" type="text/css">	
-
-<style type="text/css"><!--
-#tradingcenter {margin: 0px; width: 487px}
-#tradingcenter a {font-size: 10px}
-.imgtxtpair, .imgtxtpairend {font-size: 10px; text-align: center; float: left; width: 92px; white-space: normal; padding: 0px; margin-right: 5px}
-.imgtxtpairend {padding-right: 0px}
-.storyimage {float: left; clear: both; margin: 10px 10px 10px 0px; padding-top: 10px}
-#IBDdisclaimer {background-color: #fff; font-size: 10px}
-#bottomnav {}
-#bottomnavlinks {background-color: #036; color: #fff; padding: 4px 2px; font-family: Arial, Helvetica, sans}
-#bottomnavlinks ul {padding: 0px; margin: 0px 5px;}
-#bottomnavlinks li, #footer li {display: inline; list-style: none; padding: 0px; margin: 0px}
-#bottomnavlinks a:link, #bottomnavlinks a:visited, #bottomnavlinks a:hover {background-color: #036; color: #fff; padding: 0px 3px 0px 0px; margin: 0px; border-right: 1px solid #fff; font-size: 11px; font-family: Arial, Helvetica, sans}
-#bottomnavlinks a:hover {background-color: #036; color: #c00;}
-#footer {width: 770px; padding: 10px; color: #000; font-size: 11px; font-family: Arial, Helvetica, sans}
-#footer p {font-size: 11px; font-family: Arial, Helvetica, sans}
-#footer ul {margin: 0px;}
-#footer a:link, #footer a:visited, #footer a:hover {background-color: #fff; color: #369; font-size: 11px; font-family: Arial, Helvetica, sans}
-#footer a:hover {background-color: #fff; color: #c00;}
---></style>
-
-<script type="text/javascript"> 
-<!-- 
-    function postage(one,two,three){ 
-        window.location = 'mailto:'+one+two+three;} 
-//  -->
-</script>
-<script type="text/javascript"><!--
-function OAS_AD(pos) {
-	OAS_NORMAL_DC(pos);
-}
-//--></script><script type="text/javascript"><!--
-var tcdacmd="dt";
-//--></script><script src="http://an.tacoda.net/an/13984/slf.js" type="text/javascript"></script><script type="text/javascript" src="/includes/edit/incAdscriptPos.js"></script><script language="JavaScript" type="text/javascript">
-var tile = 1;
-var width = "";
-var height = "";
-var site = "";
-var section = "";
-
-ord=Math.random()*10000000000000000;
-function OAS_NORMAL_DC(pos) {
-	snippet = '';
-	if(pos.toLowerCase() == 'middle1')
-	{	snippet = '';	}
-	pos = OAS_TranslatePos(pos, "");
-	dcopt = "";
-	//if(tile == 1)
-	//{	dcopt = "dcopt=ist;";	}
-	
-	if(site != "")
-	{
-	//only existing ads
-		document.write('<SCR' + 'IPT language="JavaScript" src="http://ad.doubleclick.net/adj/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + snippet + ';ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
-		document.write('<a href="http://ad.doubleclick.net/jump/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + snippet +';ord=' + ord + '?"><img src="px.gif" width="2px" height="1px" /></a>');
-		/*document.write('<');
-		document.write('a href="http://ad.doubleclick.net/jump/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + ';ord=' + ord + '?" target="_blank">');
-		document.write('<img src="http://ad.doubleclick.net/ad/' + site + ';tile=' + tile + ';' + pos + 'sz=' + width + 'x' + height + ';ord=' + ord + '?" width="' + width + '" height="' + height + '" border="0" alt="generator alt text">generator alt text<');
-		document.write('/A>');*/
-		tile++;
-	}
-	
-	width = "";
-	height = "";
-}
-</script></head>
-
-	
-
-
-
-
-
-
-
-<!-- begin ad tag (tile=1) -->
-
-
-
-
-
-<body bgcolor="white" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="CSScriptInit();">
-
-	<div style="background-color: #036;">
-		<div style="background-color: #036; position: relative; margin: 0px; padding: 5px; width: 777px; text-align: center;">
-			<script type="text/javascript"><!--
-				OAS_AD('Top1');
-			//--></script>
-		</div>
-	</div>
-	
-	<div class="navtopdot" style="height: 80px; background: #036 url('http://www.investors.com/images/bacTopNav.gif') repeat-x bottom">
-		<div style="border: 0px solid lime; width: 788px; height: 80px;">
-			<div style="width: 278px; height: 80px; border: 0px dotted red; float: left"><a href="http://www.investors.com/default.asp"><img src="http://www.investors.com/images/staLogojan05b.gif" width="272" height="66" style="padding-bottom: 10px" alt="Investors.com"></a></div>
-	
-	
-	<!--			
-	
-	
-	-->
-		
-				
-					<div style="position: relative; width: 500px; height: 80px; float: left">
-				
-					<img src="http://www.investors.com/images/btnTopNavTabsTrial.gif" width="254" height="22" usemap="#btnTopNavTabsMap" style="position: absolute; bottom: 0px; right: 0px" alt="">
-				
-		
-			</div>
-		</div>
-	</div>
-	
-		<map name="btnTopNavTabsMap" id="topnavtabs">
-		<area shape="rect" alt="Subscribe/Renew" coords="0,0,146,26" href="http://www.investors.com/IBDStore/default.asp?src=AM51LPZ">
-		<area shape="rect" alt="Free Trial" coords="147,0,257,26" href="http://www.investors.com/register/trialdecision.asp?src=A482GGP">
-		</map>
-	
-	<div style="background-color: #fff">
-		<div id="textads" style="width: 778px">
-			<div id="adtopleft"><script type="text/javascript"><!--
-				OAS_AD('TopLeft');
-			//--></script></div>
-			<div id="adtopright"><script type="text/javascript"><!--
-				OAS_AD('TopRight');
-			//--></script></div>
-			<div style="clear: both"></div>
-		</div>
-	</div>
-	
-			<div id="topnavbtns">
-				<ul style="width: 778px">
-					<li class="home"><a href="http://www.investors.com/?tn=top" class="homelink" title="Home">HOME</a></li>
-					<li class="nra"><a href="http://www.investors.com/newsResearchAnalysis.asp?tn=top" class="nralink" title="News, Research, &amp; Analysis">NEWS &amp; ANALYSIS</a></li>		
-					<li class="isl"><a href="http://www.investors.com/ibdstocklists.asp?tn=top" class="isllink" title="IBD Stock Lists">IBD STOCK LISTS</a></li>
-					<li class="hti"><a href="http://www.investors.com/howtoinvest.asp?tn=top" class="htilink" title="How To Invest">HOW TO INVEST</a></li>
-					<li class="ibds"><a href="http://www.investors.com/ibdstore/?tn=top" class="ibdslink" title="IBD Store">IBD STORE</a></li>
-				</ul>
-				<div style="clear: both"></div>
-				<div class="topbuffer">&nbsp;</div>
-			</div>
-			<div style="clear: both"></div>
-
-<table border="0" cellspacing="0" cellpadding="0" width="778" bgcolor="white">
-	<tbody><tr valign="top" bgcolor="#ffffff">
-		<td><img height="1" width="5" src="px.gif"></td>		
-		<td>
-<table border="0" cellpadding="0" width="140" cellspacing="0" class="mainleftnav">			
-	<tbody><tr>
-		<td class="leftnavmajor"><a href="http://www.investors.com/newsResearchAnalysis.asp" class="leftnavmajor" title="News &amp; Analysis">NEWS &amp; ANALYSIS</a></td>
-	</tr>
-	<tr>
-		<td class="leftdiv">&nbsp;</td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/editorial/default.asp?tn=left" class="leftnavminor" title="Today in IBD®">Today in IBD<span class="navreg">®</span></a></td>
-	</tr>
-
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/dsa/" class="leftnavminor" title="Daily Stock Analysis">Daily Stock Analysis</a></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/indicesibd.asp" class="leftnavminor" title="IBD® Indexes">IBD<span class="navreg">®</span> Indexes</a></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/optioncenter/" class="leftnavminor" title="Options">Option Center</a></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="JavaScript:popup=window.open('http://www.investors.com/MediaCenter','MediaCenter','width=1050,height=750,directories=no,status=yes,location=no,toolbar=no,scrollbars=no,resizable=yes,menubar=no,copyhistory=no,alwaysRaised=1,dependent=yes');popup.focus();" class="leftnavminor" title="Media Center">Media Center</a></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/etf/default.asp?tn=left" class="leftnavminor" title="ETF Center">ETF Center</a></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/tech" class="leftnavminor" title="Tech Center">Tech Center</a></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/member/editorialxtra/ibdextra.asp" class="leftnavminor" title="IBD®extra! Newsletter">IBD<span class="navreg">®</span>extra! Newsletter</a></td>
-	</tr>
-	
-
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/store/toolsmain.asp?tn=left" class="leftnavminor" title="Investing Tools">Investing Tools</a></td>
-	</tr>	
-	<tr>
-		<td class="leftnavmajor" nowrap="nowrap"><a href="http://www.investors.com/ibdStockLists.asp" class="leftnavmajor" title="IBD Stock Lists">IBD STOCK LISTS</a> <img src="http://www.investors.com/images/staBlueKey.gif" alt="Subscribers Only"></td>
-	</tr>
-	<tr>
-		<td class="leftdiv">&nbsp;</td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/member/ibd100/viewibd100.asp" class="leftnavminor" title="IBD® 100">The IBD<span class="navreg">®</span> 100</a></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/member/screen/screenoftheday.asp" class="leftnavminor" title="Screen Of The Day">Screen Of The Day</a></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/member/wtbmf/bigmoney.asp" class="leftnavminor" title="Stocks On The Move">Stocks On The Move</a></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/member/canslimSelect/default.asp" class="leftnavminor" title="CAN SLIM Select">CAN SLIM<span class="navreg">®</span> Select</a></td>
-	</tr>
-	<tr>
-		<td class="leftnavmajor"><a href="http://www.investors.com/howToInvest.asp" class="leftnavmajor" title="How To Invest">HOW TO INVEST</a></td>
-	</tr>
-	<tr>
-		<td class="leftdiv">&nbsp;</td>
-	</tr>
-	<tr>
-		<td class="leftnavminor" nowrap="nowrap"><a href="http://www.investors.com/financialdictionary" class="leftnavminor" title="Financial Dictionary">Financial Dictionary</a></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/editorial/editorialcontent.asp?secid=1100&amp;status=article&amp;show=1" class="leftnavminor" title="Investor's Corner">Investor's Corner</a></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/learn/default.asp?tn=left" class="leftnavminor" title="Learning Center">Learning Center</a></td>
-	</tr>
-
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/learn/c.asp" class="leftnavminor" title="What Is CAN SLIM">What Is CAN SLIM<span class="navreg">®</span></a></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/seminar/" class="leftnavminor" title="IBD® Workshops">IBD<span class="navreg">®</span> Workshops</a></td>
-	</tr>
-
-	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/community/" class="leftnavminor" title="IBD® Community">IBD<span class="navreg">®</span> Community</a></td>
-	</tr>
-
-	<tr>
-		<td class="leftnavminor"><div style="font-size: 12px; width: 100px; margin-left: 5px; background: #dce3ea url('/images/bacBlueHzDotsDblFine.gif') repeat-x 0% 100%">&nbsp;</div></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><p style="margin-left: 5px"><a href="http://www.AskIBD.com" class="lnavsmall" title="Search the Ask IBD® Knowledgebase">Search the Ask&nbsp;IBD<span class="navreg" style="vertical-align: baseline">®</span> Knowledgebase</a></p></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><a href="http://www.AskIBD.com"><img src="/images/btnAskibd-2005.gif" width="104" height="25" border="0" vspace="10" hspace="5" alt="Ask IBD"></a></td>
-	</tr>
-	<tr>
-		<td class="leftnavminor"><p style="margin-left: 5px; margin-top: -3px"><a href="http://www.ibdsubscriber.com" class="lnavsmall" title="Self Service for IBD Print">Self Service for IBD<span class="navreg" style="vertical-align: baseline">®</span> Print</a></p><br></td>
-	</tr>
-
-	<tr>
-		<td class="leftnavmajor" nowrap="nowrap"><a href="http://www.investors.com/register/default.asp?/member/editorialxtra/ibdextra.asp?src=A16KCNC&amp;ps=70&amp;winname=registration" class="leftnavmajor" title="FREE MEMBERSHIP">FREE MEMBERSHIP</a></td>
-	</tr>
-	<tr>
-		<td class="leftdiv" style="background-image: none">&nbsp;</td>
-	</tr>
-	
-	<tr>
-		<td class="leftnavmajor"><b>SERVICES</b></td>
-	</tr>
-	<tr>
-		<td class="leftnavplain">
-		<p class="navtightalt"><a href="http://www.investors.com/ibdstore/default.asp?tn=left" class="leftnavplain" title="IBD Store">IBD<span class="navreg">®</span> Store</a></p>
-		<p class="navtightalt"><a href="http://www.investors.com/contact/" class="leftnavplain" title="Contact IBD®">Contact IBD<span class="navreg">®</span></a></p>
-		<p class="navtightalt"><a href="http://www.investors.com/affiliateprogram/default.asp?tn=left" class="leftnavplain" title="Affiliate Program">Affiliate Program</a></p>
-		<p class="navtightalt" style="margin-right: 0px; padding-right: 0px"><a href="http://www.investors.com/licensing/canslim/" class="leftnavplain" title="CAN SLIM® Licensing Opportunities">CAN&nbsp;SLIM<span class="navreg">®</span>&nbsp;Licensing Opportunities</a></p>
-			<p class="navtightalt"><a href="http://www.investors.com/calendar/" class="leftnavplain" title="IBD Calendar">IBD<span class="navreg">®</span> Calendar</a> <img src="/images/staNew20x8.gif" alt="NEW!"></p>
-			<p class="navtightalt"><a href="http://www.investors.com/rss/" class="leftnavplain" title="RSS Feeds">RSS Feeds</a></p>
-			<p class="navtightalt"><a href="http://www.investors.com/mobile/wap.asp" class="leftnavplain" title="Mobile">Investors.com Mobile</a></p>
-			<p class="navtightalt"><a href="http://www.bankrate.com/ibd" class="leftnavplain" title="Rates and Calculators">Rates &amp;&nbsp;Calculators</a></p>
-			<p class="navtightalt"><a href="http://www.ibdretail.com" class="leftnavplain" title="IBD® Retail Locations">IBD<span class="navreg">®</span> Retail<br>Locations</a></p>
-			<p class="navtightalt"><a href="http://www.investors.com/jobpostingusersite" class="leftnavplain" title="IBD Careers">IBD Careers</a> <img src="/images/staNew20x8.gif" alt="NEW!"></p>
-			<p class="navtightalt"><a href="http://www.investors.com/corporatenews/" class="leftnavplain" title="Corporate News">Corporate News</a></p>
-			<p class="navtightalt"><a href="http://www.investors.com/presscenter/" class="leftnavplain" title="About IBD®/Press Info">About IBD<span class="navreg">®</span>/<br>Press Info</a></p>
-		</td>
-	</tr>
-
-
-	<tr>
-		<td align="center">&nbsp;<br>
-		<script type="text/javascript"><!--
-	OAS_AD('Left1');
-	//--></script></td>
-	</tr>
-
-	<tr>
-		<td align="center"><a href="http://www.investors.com/register/trialdecision.asp?src=AM41LPY"><img src="/images/staLeftNav2wkFreeAd.gif" width="124" height="142" border="0" vspace="15" hspace="5" alt="Free Trial!"></a></td>
-	</tr>
-		
-	<tr>
-		<td><div style="margin: 5px; padding: 5px; border: 1px solid #fff">
-		<span class="leftnav"><b>ADVERTISING</b></span><br>
-		<a href="http://www.investors.com/corporatenews/ourpartners.asp" class="leftnav" title="IBD® Partners">IBD<span class="navreg" style="vertical-align: baseline">®</span> Partners</a><br>
-		<a href="http://www.investors.com/classified/business.asp" class="leftnav" title="Classified">Classified</a><br>
-		<a href="http://www.investors.com/ibdadvertising/advertising_reprints.asp" class="leftnav" title="Reprints">Reprints</a><br>
-		<a href="http://www.investors.com/ibdadvertising/" class="leftnav" title="Media Kits">Media Kits</a><br>
-		<a href="http://www.investors.com/ibdadvertising/pdfs/EditCalendar2008.pdf" class="leftnav" title="Editorial Calendar">Editorial Calendar</a><br>
-		&nbsp;
-		</div></td>
-	</tr>
-</tbody></table>
-
-<p class="leftsmalltext"><a href="http://www.investors.com/faq/startpageinstruct.asp" class="lnavsmall" title="Make investors.com your homepage">Make investors.com your&nbsp;homepage</a></p>
-
-<p>&nbsp;</p></td>
-		<td class="vdot" bgcolor="#ffffff"><img height="1" width="9" src="px.gif"></td>
-		<td class="content">
-			<!-- CONTENT STARTS HERE -->
-			<table border="0" cellspacing="0" cellpadding="0" width="100%">
-				<tbody><tr>
-					<td><img src="px.gif" height="4" width="1"></td>
-				</tr>
-				<tr>
-					<td><img src="/images/staPrivacyHead.gif" width="190" height="48"></td>
-				</tr>
-				<!-- New policy -->
-				<tr>
-					<td><font size="2">
-						<p class="dkbluefont"><b>Investors.com Privacy Policy</b></p>
-						<p class="medbluefont"><b>Last Updated June 5, 2007</b></p>
-						<p>Investor's Business Daily, Inc. ("IBD") and its affiliates are committed to respecting and protecting your personal privacy. Our policy includes examples of the types of information, including personal information, we may collect and the kinds of companies and/or partners with whom we may share such information. The examples below are merely illustrative and are in no way to be considered a complete inventory of the information we collect, use or share.  It is our policy to comply with applicable state laws that may restrict the types of information we may disclose about you or require us to provide you with additional notices.  Our Privacy Policy covering information we may collect on our Web site(s) is explained below.</p>
-						<p>Investor's Business Daily, IBD, CAN SLIM and corresponding logos are registered trademarks of Data Analysis Inc. Daily Graphs and Daily Graphs Online are registered trademarks of William O'Neil + Co. Incorporated.</p>
-						<h3 style="font-weight: 300">What Information Does IBD Collect From You and How is it Used?</h3>
-						<p><span class="detail">Registration</span><br>
-							The only personally identifiable information that we collect about you is that which you knowingly provide to us directly or through a third-party promotion when registering.  In order to use certain features and products through our Web site(s), a user must first complete a registration form. During registration a user may be required to give their contact information (including but not limited to: name, phone number, physical address or email address). All users must review and agree to IBD's  <a href="/terms/?tp=1">Terms of Use</a>.  Some of our features and products have additional Terms of Use or Rules that must be reviewed and agreed to prior to completing registration.</p>
-						<p><span class="detail">Products and Services Requiring Payment</span><br>
-							Financial information (such as a credit card number and expiration date) is used for billing purposes. If we have trouble processing an order, this information is used to get in touch with the user. This information may be shared with third parties who perform tasks required to complete the purchase transaction.</p>
-						<h3 style="font-weight: 300">How We Gather Information From You</h3>
-						<p>Our collection of information depends on the web page(s) you visit, the services you choose, and the activities in which you elect to participate. We may gather information in ways other than those listed here as our technology progresses.</p>
-						<p><span class="detail">Cookies</span><br>
-							This site uses cookies that contain both personally identifiable information and non-personally identifiable information. Cookies are messages written in your browser. The messages store information so that our site immediately recognizes you each time you visit. This permits us to personalize our site for each member, allow access to the secure parts of our site that individual members have registered for and provide members with up-to-date information about their own account.</p>
-						<p>We use cookies to deliver ads, store visitor preferences, record session information, such as items that visitors add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customize web page content based on visitors' browser type or other information that the visitor sends.</p>
-						<p><span class="detail">Web Beacons</span><br>
-							Web beacons, also called web bugs and clear GIFs are used in combination with cookies to help us understand the behavior of our customers. A web beacon is typically a transparent graphic image that is placed on our site or in an email. The use of a web beacon allows IBD to record the simple actions of the user opening the page that contains the beacon.</p>
-						<p>When a user's browser requests information from a website in this way, certain simple information can also be gathered, such as: the IP address of your computer; time the material was viewed; the type of browser that retrieved the image; and the existence of cookies previously set by that server. This is information is available to any web server you visit. Web beacons do not give any "extra" information away. They are simply a convenient way of gathering the simplest of statistics and managing cookies.</p>
-						<h3 style="font-weight: 300">Sharing</h3>
-						<p>IBD uses personal information obtained from its users as stated in this Privacy Policy, and to enhance users' experiences on our site.</p>
-						<p>IBD may share, sell or rent your name and physical address. However, we will not disclose your email address, phone or fax numbers in our database without your advance permission.</p>
-						<p><span class="detail">Legal Disclaimer</span><br>
-							Though we make every effort to preserve user privacy, we may need to disclose personal information.  In the event of a sale, merger, public offering, bankruptcy or other change in control of IBD and/or its affiliates, your information may be shared with the person or business obtaining ownership and control.  Furthermore, disclosure of personal information may be required by law where we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.  We are not responsible for the privacy practices or the content of any other web sites to which we may link.</p>
-						<p><span class="detail">Aggregate Information</span><br>
-							We may use Aggregated Information to identify things such as usage patterns and popularity of certain features on Investors.com. We may share Aggregated Information with our partners and affiliated companies.</p>
-						<p><span class="detail">Third Parties May Receive or Collect Information Through IBD</span><br>
-							We use a credit card processing company to bill users for goods and services. This company will also perform a card authorization and fraud check, but this company does not retain, share, store or use personally identifiable information for any secondary purposes.</p>
-						<p>We use third-party ad serving companies, such as 24/7 Real Media, Inc. to serve certain advertisements to you when you visit this Web site. Our third-party ad serving company may use anonymous information related to your visit to the Service's Web site to better provide advertisements to you about goods and services that may be of interest to you. Our third-party ad serving company does not have access to or use your name, address or telephone number. However, they do receive your user name/email address in order to facilitate their service. In the course of serving advertisements to this Web site, our third-party ad serving company may place or recognize a unique "cookie" through your browser. In addition, we may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising.  Web beacons enable us to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our Web site.  If you would like more information about our third-party ad serving company or regarding your ability to opt-out of the use of cookies, please go to  <a href="http://www.247realmedia.com/privacy.html" target="blank">www.247realmedia.com/privacy.html</a>.</p>
-						<p>This privacy policy covers the use of cookies by IBD and its affiliates only and does not cover the use of cookies by any advertisers.</p>
-						<p><span class="detail">IBD Forums</span><br>
-							We offer our users the option of participating in the IBD Forums, discussion boards. Separate registration is required prior to accessing this service. Any information you disclose when posting a message in these Forums may become public. For more information about IBD Forums see <a href="/terms/?tp=1&amp;sup=ibb#tous">IBD Forums Rules, Policies and Disclaimers</a>.</p>
-						<p><span class="detail">Communication via Email</span><br>
-							IBD reserves the right to send IBD transactional messages and business relationship messages via email to facilitate agreed upon transactions or update customers about existing business relationships. Such emails include, but are not limited to, welcome emails, transaction receipts, billing notification, renewal notices, notification of activation of online privileges, technical support responses, and other communications required to service customers' accounts on Investors.com and/or customers' subscriptions with IBD or its affiliates. Customers <i>cannot</i> unsubscribe from these email messages.</p>
-						<p>IBD, and its affiliates, also make various one-time emails and email series available to the recipients in our database to help them get the most value from our products and services. Such emails include, but are not limited to, newsletters, product updates, educational materials, surveys, special offers from IBD and/or its affiliates as well as special offers sent on behalf of select third parties (IBD partners).</p>
-						<p><span class="detail">Subscribing to and Unsubscribing from Email</span><br>
-						    With the exception of the mandatory IBD transactional and business relationship emails mentioned above, at the time of online registration recipients have an opportunity to confirm their email communication preferences.  Customers may choose to subscribe to (opt-in) or unsubscribe (opt-out) from any or all of these email communications at will.</p>
-						<p><b>To Unsubscribe:</b> Customers may unsubscribe from specific email categories by (1) Clicking the "unsubscribe" link included at the bottom of any email sent by IBD or its affiliates (2) Sending an email to IBD Customer Service at <a href="http://www.askibd.com">www.askibd.com</a> or (3) Calling IBD Customer Service at 1-800-831-2525 or outside the United States 1-310-448-6600.</p>
-						<p><b>Managing Your Email Preferences:</b>  To subscribe to or unsubscribe from any email category, customers may manage their email preferences by (1) Clicking the Edit Profile link on Investors.com and selecting the Change Your Email Address and/or Preferences or (2) By clicking on 'email preferences' link included at the bottom of emails sent by IBD and its affiliates, (3) Sending an email to IBD Customer Service at <a href="http://www.askibd.com">www.askibd.com</a> or (4) Calling IBD Customer Service at 1-800-831-2525 or outside the United States 1-310-448-6600.</p>
-						<p><span class="detail">Supplementation of Information with Affiliates</span><br>
-							In order to properly fulfill our obligations to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources. Also, in order for us to enhance our ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our affiliates, to create a personalized user profile. When a user makes a purchase from either IBD or its affiliates, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.</p>
-						<p><span class="detail">Site and Service Updates</span><br>
-							We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.</p>
-						<p><span class="detail">Security</span><br>
-							This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, that information is protected both online and off-line.</p>
-						<p>This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, that information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the encryption software - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape® and Microsoft Internet Explorer® becomes locked, as opposed to unlocked, or open, when you are just 'surfing'. To learn more about SSL, follow this link: <a href="/privacy/ssl.asp" target="blank">What is SSL?</a> While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use passwords to access this information. Furthermore, ALL employees are required to comply with our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.</p>
-						<p>If you have any questions about the security at our Web site, you can contact us at <a href="http://www.askibd.com">www.askibd.com</a>.</p>
-						<p><span class="detail">Phishing</span><br>
-							Phishing is a term used to describe a type of Internet scam in which inauthentic emails that appear to be coming from a legitimate source are sent in an attempt to trick you into providing confidential information. These emails usually invoke a sense of urgency and often imply that your account is about to be closed unless immediate action is taken. They will often ask you to click on a link that leads you to a webpage that simulates that of the legitimate source, but is really a page specially designed to get you to input your confidential information such as account number, password, social security number or credit card number. The thieves then use that information to commit fraud and identity theft against you.</p>
-						<p>The Office of the Comptroller of Currency has set up a website providing information warning consumers about the dangers of these scams and how to protect yourself. To learn more about phishing, please click on the following link: <a href="http://www.occ.gov/consumer/phishing.htm" target="_blank">www.occ.gov/consumer/phishing.htm</a></p>
-						<p>Please know that Investor's Business Daily takes the privacy of our subscribers very seriously. If you are ever in question about the legitimacy of an email from IBD, please contact customer service at: (800) 831-2525 or outside the United States 1-310-448-6600. If you believe you have been the victim of a scam, you can file a complaint with the Federal Trade Commission at: <a href="http://www.consumer.gov/idtheft/">www.consumer.gov/idtheft/</a>.  If you have any additional questions about the security at our Web site, you can contact us at <a href="http://www.askibd.com">www.askibd.com</a>.</p>
-						<p><span class="detail">Correction/Updating Personal Information</span><br>
-							If your personally identifiable information changes (such as your zip code), or if you no longer desire to use our service, you may correct, update or remove your personal data provided to us. This can be done by accessing 'Edit Profile' on the Investors.com site.</p>
-						<p><span class="detail">Personal Information You Disclose</span><br>
-							Please remember that if you choose to disclose personally identifiable information on our site, such as in IBD Forums, it becomes public information and you should exercise caution. This means that your information may be viewed and/or collected and used by third parties without our or your knowledge. Such actions are not under our control and we are not responsible for events arising from your voluntary posting of personally identifiable information.</p>
-						<p><span class="detail">Children</span><br>
-							IBD and its affiliates do not knowingly collect or solicit Personally Identifiable Information from or about children under 13. If such a situation is discovered, we will delete that information immediately. If you believe IBD has any information about or from a child under 13, please contact us at <a href="http://www.askibd.com">www.askibd.com</a>.</p>
-						<p><span class="detail">Changes to our Privacy Policy</span><br>
-							These guidelines are subject to change. All changes will be posted on this page. If the changes are significant we will notify registered users by email. We encourage you to review our privacy policy periodically to remain informed of changes that may have occurred.</p>
-					</font></td>
-				</tr>
-			</tbody></table>
-			<p>&nbsp;</p>
-			<img height="1" width="470" src="px.gif" id="spacer">
-		</td><!-- CONTENT ENDS HERE -->	
-		<td bgcolor="#ffffff"><img height="1" width="9" src="px.gif"></td>	
-		<td>
 <script language="JavaScript" type="text/javascript">
 <!--
 intWidth  = 750;
@@ -731,7 +231,7 @@ function jsfPopupControl(strTicker,strCharts)
 ///////////////////////////////////////////////
 // IBD Charts (Daily) - strCharts = 2
 ///////////////////////////////////////////////
-	else if (strCharts==2 || strCharts==23 || strCharts==25)
+	else if (strCharts==2 || strCharts==23 || strCharts==25 || strCharts==27)
 	{
 		switch(strCharts)
 		{
@@ -740,6 +240,9 @@ function jsfPopupControl(strTicker,strCharts)
 			break;
 		case "25":
 			sType = "tru";
+			break;
+		case "27":
+			sType = "etb";
 			break;
 		default:
 			sType = "pvc";
@@ -863,7 +366,7 @@ function jsfPopupControl(strTicker,strCharts)
 ///////////////////////////////////////////////
 // IBD Charts (weekly) - strCharts = 13
 ///////////////////////////////////////////////
-	else if (strCharts==13 || strCharts==24 || strCharts==26)
+	else if (strCharts==13 || strCharts==24 || strCharts==26 || strCharts==28)
 	{
 		switch(strCharts)
 		{
@@ -872,6 +375,9 @@ function jsfPopupControl(strTicker,strCharts)
 			break;
 		case "26":
 			sType = "tru";
+			break;
+		case "28":
+			sType = "etb";
 			break;
 		default:
 			sType = "pvc";
@@ -1489,6 +995,7 @@ function jsfChartsControl(strTicker,sGraphType,sMode,iTypeOnly,sAddPrms)
 	case "pvc":
 	case "ift":
 	case "tru":
+	case "etb":
 	case "wbm":
 	case "etf":		//bgc 1/17/06 added etf.
 	case "mkt":
@@ -1505,7 +1012,1687 @@ function jsfChartsControl(strTicker,sGraphType,sMode,iTypeOnly,sAddPrms)
 		}
 		else
 		{	
-			windowIndex = 0;
+			windowIndex = 0;	
+			ibdwindowprops = ibdwindowprops;
+			windowTypes = sType.toUpperCase();
+		}
+		windowName = "ibd" + sMode + "N";
+		break;
+	case "dgx":
+		windowIndex = 1;
+		ibdwindowprops = dgowindowprops;
+		windowName = "dgoGraphsN";
+		windowTypes = "DGX,DGW,DGM,DGD";
+	}
+
+	if(true)
+	{
+		if (arrGraphPopup[windowIndex,0] == 0)
+		{
+			if (opener)
+		    {
+				if (opener.open && !opener.closed)
+				{
+					if (opener.window.name == windowName)
+					{
+						arrGraphPopup[windowIndex,0] = 1;
+						arrGraphPopup[windowIndex,1] = window.opener.window;
+					}
+				}
+				else
+				{
+					arrGraphPopup[windowIndex,0]=1;
+					strTicker = strTicker.replace("%2526","%26");
+					var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&ibdMode=" + sMode + "&t=" + strTicker + sAddPrms;
+					arrGraphPopup[windowIndex,1]=window.open(surl,windowName,ibdwindowprops);
+					arrGraphPopup[windowIndex,1].focus();
+					return;
+				}
+			}
+			else
+			{
+				arrGraphPopup[windowIndex,0]=1;
+				strTicker = strTicker.replace("%2526","%26");
+				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&ibdMode=" + sMode + "&t=" + strTicker + sAddPrms;
+				arrGraphPopup[windowIndex,1]=window.open(surl,windowName,ibdwindowprops);
+				arrGraphPopup[windowIndex,1].focus();
+				return;
+			}
+		}
+		// if chart window has been opened and currently exists, then change variables in OCX directly this prevents the window flashing as it reloads
+
+		if (arrGraphPopup[windowIndex,1] && arrGraphPopup[windowIndex,1].open && !arrGraphPopup[windowIndex,1].closed)
+		{
+			// only use this window if it was originally
+			var currentUrl = arrGraphPopup[windowIndex,1].window.location.toString();
+			if (arrGraphPopup[windowIndex,1].document.getElementById('plotwon1') && (windowTypes.indexOf(arrGraphPopup[windowIndex,1].document.getElementById('plotwon1').GrId.toUpperCase()) > -1))
+ 			{
+ 				strTicker = unescape(strTicker);				// decode string
+				strTicker = strTicker.replace(/%26/gi, "&");	// decode double-escaped string
+				arrGraphPopup[windowIndex,1].focus();
+				if(arrGraphPopup[windowIndex,1].document.getElementById('htmTickerIFT'))
+				{
+					arrGraphPopup[windowIndex,1].document.dgf1.htmTickerIFT.style.background = "red";
+					arrGraphPopup[windowIndex,1].document.dgf1.htmTickerIFT.value = strTicker;
+					arrGraphPopup[windowIndex,1].Graph_onclick();
+					arrGraphPopup[windowIndex,1].document.dgf1.htmTickerIFT.style.background = "white";
+				}
+				else
+				{
+					arrGraphPopup[windowIndex,1].document.dgf1.htmTicker.style.background = "red";
+					arrGraphPopup[windowIndex,1].document.dgf1.htmTicker.value = strTicker;
+					if(arrGraphPopup[windowIndex,1].Graph_onclick)
+					{	arrGraphPopup[windowIndex,1].Graph_onclick();	}
+					else
+					{
+							if(isNS==0)
+							{
+								arrGraphPopup[windowIndex,1].document.dgf1.plotwon1.grTyp = arrGraphPopup[windowIndex,1].document.dgf1.GrType.value;
+								arrGraphPopup[windowIndex,1].document.dgf1.plotwon1.GrID = sType.toUpperCase();
+								arrGraphPopup[windowIndex,1].document.dgf1.DPFMngr1.Symbol = strTicker;
+								arrGraphPopup[windowIndex,1].document.dgf1.plotwon1.sym = strTicker;
+							}
+							else
+							{
+								arrGraphPopup[windowIndex,1].plotwon1.grTyp = arrGraphPopup[windowIndex,1].document.dgf1.GrType.value;
+								arrGraphPopup[windowIndex,1].plotwon1.GrID = sType.toUpperCase();
+								arrGraphPopup[windowIndex,1].DPFMngr1.Symbol = strTicker;
+								arrGraphPopup[windowIndex,1].plotwon1.sym = strTicker;
+							}
+					}
+					arrGraphPopup[windowIndex,1].document.dgf1.htmTicker.style.background = "white";
+				}
+			}
+			else
+			{
+				strTicker = strTicker.replace("%2526","%26");
+				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&ibdMode=" + sMode + "&t=" + strTicker + sAddPrms;
+				arrGraphPopup[windowIndex,0]=1;
+				arrGraphPopup[windowIndex,1]=window.open(surl,windowName,ibdwindowprops);
+				arrGraphPopup[windowIndex,1].focus();
+			}
+		}
+		else
+		{
+			strTicker = strTicker.replace("%2526","%26");
+			var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&ibdMode=" + sMode + "&t=" + strTicker + sAddPrms;
+			arrGraphPopup[windowIndex,0]=1;
+			arrGraphPopup[windowIndex,1]=window.open(surl,windowName,ibdwindowprops);
+			arrGraphPopup[windowIndex,1].focus();
+		}
+	}
+	else
+	{
+		strTicker = strTicker.replace("%2526","%26");
+		var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&ibdMode=" + sMode + "&t=" + strTicker + sAddPrms;
+		arrGraphPopup[windowIndex,0]=1;
+		arrGraphPopup[windowIndex,1]=window.open(surl,windowName,ibdwindowprops);
+		arrGraphPopup[windowIndex,1].focus();
+	}
+}
+
+function jsfCheckChartToOpen(strType)
+{
+// does upgrade based on user acess
+	sAcess = "";
+	if(sAcess.toUpperCase().indexOf("DGX") > -1)
+	{	return "dgx";	}
+	if(sAcess.toUpperCase().indexOf("PVC") > -1)
+	{	return "pvc";	}
+	return strType;
+}
+//--></script>
+<script language="JavaScript"><!--
+//added back in on 01/13/03 -SS
+windowprops = "top=25,left=25" + ",width=" + intWidth + ",height=" + intHeight;
+intWidth2 = 600
+intHeight2 = screen.height-215
+cswindowprops = "top=25,left=25" + ",width=" + intWidth2 + ",height=" + intHeight2 + "directories=0,status=1,location=0,toolbar=0,scrollbars=1,resizable=1,menubar=1,copyhistory=0,alwaysRaised=0";
+//--></script>
+<script language="JavaScript"><!--
+//*** Leaves only alphanumeric characters, single quotes(') and periods(.)
+function cleanTickerSymbols(s) {
+	var ch;
+	var sout = "";
+	for (var i = 0; i < s.length; i++) {
+		// walk through the string and remove all non-digits
+		ch = s.charAt(i);
+//AA		ch= ch.toUpperCase();
+		if (
+			(
+				(ch >= "0") && (ch <= "9")
+			)
+			 ||
+			(
+				(ch >= "A") && (ch <= "Z")
+			)
+			 ||
+			(
+				(ch >= "a") && (ch <= "z")
+			)
+			||
+				(ch==".")
+			||
+				(ch=="&")
+			||
+				(ch=="*")
+			||
+				(ch=="$")
+		)
+		{
+			sout += ch;
+		}
+	}
+	return sout;
+}
+//--></script>
+<script type="text/javascript"><!--
+
+function jsfPrintPage() {
+  if (window.print)
+    window.print()
+  else
+    alert("Please use your Browser's Print function as the requested feature is not supported in your browser.");
+}	
+
+function CSScriptInit() {
+//no longer used, but still called with onLoad in many body tags 
+}
+
+
+//function for Editorial pages to open the Power Tools page
+//	iType = 1 - Quotes
+//			2 - Stock Checkup
+//			3 - Charts
+//	sPage = "0" - Editorial content
+function jsfOpenPowerTool(sSymbol,iType,sPage)
+{ 
+	var sAccess;
+	sAccess = "";
+	switch(sPage.toString())
+	{
+	case "0":
+		sAccess = "EDCT";
+		sPage = "";
+		break;
+	case "ENL":
+		sAccess = "ENL";
+		sPage = "";
+		break;
+	case "FSC":
+		sAccess = "FSC";
+		sPage = "";
+		break;
+	case "SOD":
+		sAccess = "SOD";
+		sPage = "";
+		break;
+	case "TRU":
+		sAccess = "TRU";
+		sPage = "";
+		break;
+	case "ETF":
+		sAccess = "ETF";
+		sPage = "";
+		break;
+	}
+	
+	if(iType == "")
+	{	iType = 1;	}
+	
+	switch(parseInt(iType))
+	{
+	case 1:
+	///////////////////////////////////////////////
+	// Quotes
+	///////////////////////////////////////////////
+		window.location = "/quotes/default.asp?ac=" + sAccess + "&t=" + sSymbol;		
+		break;
+	case 2:
+	///////////////////////////////////////////////
+	// Stock Checkup
+	///////////////////////////////////////////////
+		if (sAccess != "")
+		{	strUrl="/member/checkup/checkUp.asp?ac=" + sAccess + "&t=" + sSymbol + "&ss=YES";	}
+		else
+		{	strUrl="/member/checkup/checkUp.asp?t=" + sSymbol + "&ss=YES";	}
+		strUrl = strUrl + sPage;
+		popup=window.open(strUrl,'CheckUpN',cupwindowprops);
+		popup.focus();
+		break;
+	case 3:
+	///////////////////////////////////////////////
+	// Charts
+	///////////////////////////////////////////////
+		if(sPage.indexOf(";")>-1)
+		{
+			arrAttr = sPage.split(";");
+			jsfChartsControl(sSymbol,arrAttr[0],arrAttr[1],parseInt(arrAttr[2]),arrAttr[3]);
+		}
+		else
+		{	jsfChartsControl(sSymbol,'pvc','daily',0,sPage);	}
+		break;
+	}
+}
+
+	function goPopupStockLists(strSymbol, isFromPopup) {
+		window.name = "winMain"
+		strUrl = "/member/mystocklist/addstock.asp?ticker=" + strSymbol
+		popupStockLists=window.open(strUrl,"popupStockLists","width=530,height=300,directories=no,status=no,location=no,toolbar=no,scrollbars=yes,resize=yes,menubar=no,copyhistory=no,alwaysRaised=0,dependent=0")
+	}
+	function goQuotes(ticker) {
+		if(document.forCharts)
+		{
+			document.forCharts.htmChartValue.value='1';
+			document.forCharts.htmAdditionalValue.value='';
+			document.forCharts.htmTicker.value=ticker;
+			document.forCharts.submit();
+		}
+		else
+		{	jsfPopupControl(ticker, 7);	}
+	}
+	function goCharts(ticker) {
+		document.forCharts.htmChartValue.value='3';
+		document.forCharts.htmAdditionalValue.value='pvc;daily;1;';
+		document.forCharts.htmTicker.value=ticker;
+		if('' != '')
+		{	jsfOpenPowerTool(document.forCharts.htmTicker.value,3,';daily;0;');	}
+		else
+		{	jsfOpenPowerTool(document.forCharts.htmTicker.value,3,'pvc;daily;0;');	}
+		
+	}
+	function goStockCheckups(ticker) {
+		if(document.forCharts)
+		{
+			document.forCharts.htmChartValue.value='2';
+			document.forCharts.htmAdditionalValue.value='';
+			document.forCharts.htmTicker.value=ticker;
+			document.forCharts.submit();
+		}
+		else
+			jsfPopupControl(ticker,1);
+	}
+	function goArchives(form)
+	{
+		form.action = form.action.replace("#","&ac=#");
+		form.submit();
+	}
+// --></script>
+
+
+
+<link rel="stylesheet" href="http://www.investors.com/rel07.css" type="text/css">
+<link rel="stylesheet" href="http://www.investors.com/icomnavR10.css" type="text/css">	
+
+<style type="text/css"><!--
+#tradingcenter {margin: 0px; width: 487px}
+#tradingcenter a {font-size: 10px}
+.imgtxtpair, .imgtxtpairend {font-size: 10px; text-align: center; float: left; width: 92px; white-space: normal; padding: 0px; margin-right: 5px}
+.imgtxtpairend {padding-right: 0px}
+.storyimage {float: left; clear: both; margin: 10px 10px 10px 0px; padding-top: 10px}
+#IBDdisclaimer {background-color: #fff; font-size: 10px}
+#bottomnav {}
+#bottomnavlinks {background-color: #036; color: #fff; padding: 4px 2px; font-family: Arial, Helvetica, sans}
+#bottomnavlinks ul {padding: 0px; margin: 0px 5px;}
+#bottomnavlinks li, #footer li {display: inline; list-style: none; padding: 0px; margin: 0px}
+#bottomnavlinks a:link, #bottomnavlinks a:visited, #bottomnavlinks a:hover {background-color: #036; color: #fff; padding: 0px 3px 0px 0px; margin: 0px; border-right: 1px solid #fff; font-size: 11px; font-family: Arial, Helvetica, sans}
+#bottomnavlinks a:hover {background-color: #036; color: #c00;}
+#footer {width: 770px; padding: 10px; color: #000; font-size: 11px; font-family: Arial, Helvetica, sans}
+#footer p {font-size: 11px; font-family: Arial, Helvetica, sans}
+#footer ul {margin: 0px;}
+#footer a:link, #footer a:visited, #footer a:hover {background-color: #fff; color: #369; font-size: 11px; font-family: Arial, Helvetica, sans}
+#footer a:hover {background-color: #fff; color: #c00;}
+--></style>
+
+<script type="text/javascript"> 
+<!-- 
+    function postage(one,two,three){ 
+        window.location = 'mailto:'+one+two+three;} 
+//  -->
+</script>
+<script type="text/javascript"><!--
+function OAS_AD(pos) {
+	OAS_NORMAL_DC(pos);
+}
+//--></script><script type="text/javascript"><!--
+var tcdacmd="dt";
+//--></script><script src="http://an.tacoda.net/an/13984/slf.js" type="text/javascript"></script><script type="text/javascript" src="/includes/edit/incAdscriptPos.js"></script><script language="JavaScript" type="text/javascript">
+var tile = 1;
+var width = "";
+var height = "";
+var site = "";
+var section = "";
+
+ord=Math.random()*10000000000000000;
+function OAS_NORMAL_DC(pos) {
+	snippet = '';
+	if(pos.toLowerCase() == 'middle1')
+	{	snippet = '';	}
+	pos = OAS_TranslatePos(pos, "");
+	dcopt = "";
+	//if(tile == 1)
+	//{	dcopt = "dcopt=ist;";	}
+	
+	if(site != "")
+	{
+	//only existing ads
+		document.write('<SCR' + 'IPT language="JavaScript" src="http://ad.doubleclick.net/adj/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + snippet + ';ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+		document.write('<a href="http://ad.doubleclick.net/jump/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + snippet +';ord=' + ord + '?"><img src="px.gif" width="2px" height="1px" /></a>');
+		/*document.write('<');
+		document.write('a href="http://ad.doubleclick.net/jump/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + ';ord=' + ord + '?" target="_blank">');
+		document.write('<img src="http://ad.doubleclick.net/ad/' + site + ';tile=' + tile + ';' + pos + 'sz=' + width + 'x' + height + ';ord=' + ord + '?" width="' + width + '" height="' + height + '" border="0" alt="generator alt text">generator alt text<');
+		document.write('/A>');*/
+		tile++;
+	}
+	
+	width = "";
+	height = "";
+}
+</script></head>
+
+	
+
+
+
+
+
+
+
+
+
+<!-- begin ad tag (tile=1) -->
+
+
+
+
+
+<body bgcolor="white" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="CSScriptInit();">
+
+	<div style="background-color: #036;">
+		<div style="background-color: #036; position: relative; margin: 0px; padding: 5px; width: 777px; text-align: center;">
+			<script type="text/javascript"><!--
+				OAS_AD('Top1');
+			//--></script>
+		</div>
+	</div>
+	
+	<div class="navtopdot" style="height: 80px; background: #036 url('http://www.investors.com/images/bacTopNav.gif') repeat-x bottom">
+		<div style="border: 0px solid lime; width: 788px; height: 80px;">
+			<div style="width: 278px; height: 80px; border: 0px dotted red; float: left"><a href="http://www.investors.com/default.asp"><img src="http://www.investors.com/images/staLogojan05b.gif" width="272" height="66" style="padding-bottom: 10px" alt="Investors.com"></a></div>
+	
+	
+	<!--			
+	
+	
+	-->
+		
+				
+					<div style="position: relative; width: 500px; height: 80px; float: left">
+				
+					<img src="http://www.investors.com/images/btnTopNavTabsTrial.gif" width="254" height="22" usemap="#btnTopNavTabsMap" style="position: absolute; bottom: 0px; right: 0px" alt="">
+				
+		
+			</div>
+		</div>
+	</div>
+	
+		<map name="btnTopNavTabsMap" id="topnavtabs">
+		<area shape="rect" alt="Subscribe/Renew" coords="0,0,146,26" href="http://www.investors.com/IBDStore/default.asp?src=AM51LPZ">
+		<area shape="rect" alt="Free Trial" coords="147,0,257,26" href="http://www.investors.com/register/trialdecision.asp?src=A482GGP">
+		</map>
+	
+	<div style="background-color: #fff">
+		<div id="textads" style="width: 778px">
+			<div id="adtopleft"><script type="text/javascript"><!--
+				OAS_AD('TopLeft');
+			//--></script></div>
+			<div id="adtopright"><script type="text/javascript"><!--
+				OAS_AD('TopRight');
+			//--></script></div>
+			<div style="clear: both"></div>
+		</div>
+	</div>
+	
+			<div id="topnavbtns">
+				<ul style="width: 778px">
+					<li class="home"><a href="http://www.investors.com/?tn=top" class="homelink" title="Home">HOME</a></li>
+					<li class="nra"><a href="http://www.investors.com/newsResearchAnalysis.asp?tn=top" class="nralink" title="News, Research, &amp; Analysis">NEWS &amp; ANALYSIS</a></li>		
+					<li class="isl"><a href="http://www.investors.com/ibdstocklists.asp?tn=top" class="isllink" title="IBD Stock Lists">IBD STOCK LISTS</a></li>
+					<li class="hti"><a href="http://www.investors.com/howtoinvest.asp?tn=top" class="htilink" title="How To Invest">HOW TO INVEST</a></li>
+					<li class="ibds"><a href="http://www.investors.com/ibdstore/?tn=top" class="ibdslink" title="IBD Store">IBD STORE</a></li>
+				</ul>
+				<div style="clear: both"></div>
+				<div class="topbuffer">&nbsp;</div>
+			</div>
+			<div style="clear: both"></div>
+
+<img src="http://bh.contextweb.com/bh/set.aspx?action=replace&amp;advid=1018&amp;token=IBD01" width="1" height="1" border="0" alt="">
+
+<table border="0" cellspacing="0" cellpadding="0" width="778" bgcolor="white">
+	<tbody><tr valign="top" bgcolor="#ffffff">
+		<td><img height="1" width="5" src="px.gif"></td>		
+		<td>
+<table border="0" cellpadding="0" width="140" cellspacing="0" class="mainleftnav">			
+	<tbody><tr>
+		<td class="leftnavmajor"><a href="http://www.investors.com/newsResearchAnalysis.asp" class="leftnavmajor" title="News &amp; Analysis">NEWS &amp; ANALYSIS</a></td>
+	</tr>
+	<tr>
+		<td class="leftdiv">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/editorial/default.asp?tn=left" class="leftnavminor" title="Today in IBD®">Today in IBD<span class="navreg">®</span></a></td>
+	</tr>
+
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/dsa/" class="leftnavminor" title="Daily Stock Analysis">Daily Stock Analysis</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/indicesibd.asp" class="leftnavminor" title="IBD® Indexes">IBD<span class="navreg">®</span> Indexes</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/optioncenter/" class="leftnavminor" title="Options">Option Center</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="JavaScript:popup=window.open('http://www.investors.com/IBDTV','MediaCenter','width=1050,height=750,directories=no,status=yes,location=no,toolbar=no,scrollbars=no,resizable=yes,menubar=no,copyhistory=no,alwaysRaised=1,dependent=yes');popup.focus();" class="leftnavminor" title="IBD TV">IBD TV</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/etf/default.asp?tn=left" class="leftnavminor" title="ETF Center">ETF Center</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/tech" class="leftnavminor" title="Tech Center">Tech Center</a></td>
+	</tr>	
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/editorial/ETFmonthly200812.asp" class="leftnavminor" title="Special Report">Special:<br>ETF Monthly <img src="/images/staNew20x8.gif" alt="NEW!"></a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/editorial/fundsmonthly200812.asp" class="leftnavminor" title="Special Report">Special: Mutual <br>Fund Monthly</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/editorial/InvestmentTools.asp" class="leftnavminor" title="Special Report">Special:<br>Investment Tools</a></td>
+	</tr>
+	
+
+	
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/editorial/IandTspecialrept.asp" class="leftnavminor" title="Special Report">I&amp;T Special: Reinventions</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/editorial/special.asp" class="leftnavminor" title="Special Report">Special Report:<br>Global Investing</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/freeNewsletters/default.asp?src=AB24GQR" class="leftnavminor" title="IBD® Newsletter">IBD<span class="navreg">®</span> Newsletters</a></td>
+	</tr>
+	
+
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/store/toolsmain.asp?tn=left" class="leftnavminor" title="Investing Tools">Investing Tools</a></td>
+	</tr>	
+	<tr>
+		<td class="leftnavmajor" nowrap="nowrap"><a href="http://www.investors.com/ibdStockLists.asp" class="leftnavmajor" title="IBD Stock Lists">IBD STOCK LISTS</a> <img src="http://www.investors.com/images/staBlueKey.gif" alt="Subscribers Only"></td>
+	</tr>
+	<tr>
+		<td class="leftdiv">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/member/ibd100/viewibd100.asp" class="leftnavminor" title="IBD® 100">The IBD<span class="navreg">®</span> 100</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/member/screen/screenoftheday.asp" class="leftnavminor" title="Screen Of The Day">Screen Of The Day</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/member/wtbmf/bigmoney.asp" class="leftnavminor" title="Stocks On The Move">Stocks On The Move</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/member/canslimSelect/default.asp" class="leftnavminor" title="CAN SLIM Select">CAN SLIM<span class="navreg">®</span> Select</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavmajor"><a href="http://www.investors.com/howToInvest.asp" class="leftnavmajor" title="How To Invest">HOW TO INVEST</a></td>
+	</tr>
+	<tr>
+		<td class="leftdiv">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="leftnavminor" nowrap="nowrap"><a href="http://www.investors.com/financialdictionary" class="leftnavminor" title="Financial Dictionary">Financial Dictionary</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/editorial/editorialcontent.asp?secid=1100&amp;status=article&amp;show=1" class="leftnavminor" title="Investor's Corner">Investor's Corner</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/learn/default.asp?tn=left" class="leftnavminor" title="Learning Center">Learning Center</a></td>
+	</tr>
+
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/learn/c.asp" class="leftnavminor" title="What Is CAN SLIM">What Is CAN SLIM<span class="navreg">®</span></a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/seminar/" class="leftnavminor" title="IBD® Workshops">IBD<span class="navreg">®</span> Workshops</a></td>
+	</tr>
+
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/community/" class="leftnavminor" title="IBD® Community">IBD<span class="navreg">®</span> Community</a></td>
+	</tr>
+
+	<tr>
+		<td class="leftnavminor"><div style="font-size: 12px; width: 100px; margin-left: 5px; background: #dce3ea url('/images/bacBlueHzDotsDblFine.gif') repeat-x 0% 100%">&nbsp;</div></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor" style="text-align:center;padding-left:0px;padding-right:0px;"><a href="/register/default.asp?ps=700&amp;dgopage=1&amp;src=AU51DQJ" class="lnavsmall"><img src="/images/btn4weeksFree.gif" width="120" height="30" vspace="10" hspace="5" alt="Send 20 FREE issues to a friend"></a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><p style="margin-left: 5px; margin-top: -3px"><a href="http://www.ibdsubscriber.com" class="lnavsmall" title="Self Service for IBD Print">Self Service for IBD<span class="navreg" style="vertical-align: baseline">®</span> Print</a></p><br></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><p style="margin-left: 5px; margin-top: -3px"><a href="http://www.AskIBD.com" class="lnavsmall" title="Search the Ask IBD® Knowledgebase">Search the Ask&nbsp;IBD<span class="navreg" style="vertical-align: baseline">®</span> Knowledgebase</a></p></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.AskIBD.com"><img src="/images/btnAskibd-2005.gif" width="104" height="25" border="0" vspace="10" hspace="5" alt="Ask IBD"></a></td>
+	</tr>
+		
+	<!--<tr>
+		<td class="leftnavminor"><p style="margin-left: 5px; margin-top: -3px"><a href="/register/default.asp?ps=700&dgopage=1&src=AU51DQJ" class="lnavsmall" title="Send 20 FREE issues to a friend">Send 20 FREE issues to a friend</a></p></td>
+	</tr>-->
+
+
+	<!--<tr>
+		<td class="leftnavmajor" nowrap="nowrap"><a href="http://www.investors.com/register/default.asp?/member/editorialxtra/ibdextra.asp?src=A16KCNC&amp;ps=70&amp;winname=registration" class="leftnavmajor" title="FREE MEMBERSHIP">FREE MEMBERSHIP</a></td>
+	</tr>
+	<tr>
+		<td class="leftdiv" style="background-image: none">&nbsp;</td>
+	</tr>-->
+	
+	<tr>
+		<td class="leftnavmajor"><b>SERVICES</b></td>
+	</tr>
+	<tr>
+		<td class="leftnavplain">
+		<p class="navtightalt"><a href="http://www.investors.com/ibdstore/default.asp?tn=left" class="leftnavplain" title="IBD Store">IBD<span class="navreg">®</span> Store</a></p>
+		<p class="navtightalt"><a href="http://www.investors.com/contact/" class="leftnavplain" title="Contact IBD®">Contact IBD<span class="navreg">®</span></a></p>
+		<p class="navtightalt"><a href="http://www.investors.com/affiliateprogram/default.asp?tn=left" class="leftnavplain" title="Affiliate Program">Affiliate Program</a></p>
+		<p class="navtightalt" style="margin-right: 0px; padding-right: 0px"><a href="http://www.investors.com/licensing/canslim/" class="leftnavplain" title="CAN SLIM® Licensing Opportunities">CAN&nbsp;SLIM<span class="navreg">®</span>&nbsp;Licensing Opportunities</a></p>
+			<p class="navtightalt"><a href="http://www.investors.com/calendar/" class="leftnavplain" title="IBD Calendar">IBD<span class="navreg">®</span> Calendar</a></p>
+			<p class="navtightalt"><a href="http://www.investors.com/rss/" class="leftnavplain" title="RSS Feeds">RSS Feeds</a></p>
+			<p class="navtightalt"><a href="http://www.investors.com/widget/" class="leftnavplain" title="IBD Widget">IBD Widget</a> <img src="/images/staNew20x8.gif" alt="NEW!"></p>
+			<p class="navtightalt"><a href="http://www.investors.com/mobile/wap.asp" class="leftnavplain" title="Mobile">Investors.com Mobile</a> <img src="/images/staNew20x8.gif" alt="NEW!"></p>
+			<p class="navtightalt"><a href="http://www.bankrate.com/ibd" class="leftnavplain" title="Rates and Calculators">Rates &amp;&nbsp;Calculators</a></p>
+			<p class="navtightalt"><a href="http://www.ibdretail.com" class="leftnavplain" title="IBD® Retail Locations">IBD<span class="navreg">®</span> Retail<br>Locations</a></p>
+			<p class="navtightalt"><a href="http://www.investors.com/jobpostingusersite" class="leftnavplain" title="IBD Careers">IBD Careers</a></p>
+			<p class="navtightalt"><a href="http://www.investors.com/corporatenews/" class="leftnavplain" title="Corporate News">Corporate News</a></p>
+			<p class="navtightalt"><a href="http://www.investors.com/presscenter/" class="leftnavplain" title="About IBD®/Press Info">About IBD<span class="navreg">®</span>/<br>Press Info</a></p>
+		</td>
+	</tr>
+
+
+	<tr>
+		<td align="center">&nbsp;<br>
+		<script type="text/javascript"><!--
+	OAS_AD('Left1');
+	//--></script></td>
+	</tr>
+	
+	<tr>
+		<td align="center">&nbsp;<br><a href="http://www.investors.com/licensing/canslim/canslimmarketplace.asp"><img src="http://www.investors.com/images/promotional/landing/sta_canslimmarketplace.gif" alt="CAN SLIM Marketplace"></a></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href="http://www.investors.com/register/trialdecision.asp?src=AM41LPY"><img src="/images/staLeftNav2wkFreeAd.gif" width="124" height="142" border="0" vspace="15" hspace="5" alt="Free Trial!"></a></td>
+	</tr>
+		
+	<tr>
+		<td><div style="margin: 5px; padding: 5px; border: 1px solid #fff">
+		<span class="leftnav"><b>ADVERTISING</b></span><br>
+		<a href="http://www.investors.com/corporatenews/ourpartners.asp" class="leftnav" title="IBD® Partners">IBD<span class="navreg" style="vertical-align: baseline">®</span> Partners</a><br>
+		<a href="http://www.investors.com/classified/business.asp" class="leftnav" title="Classified">Classified</a><br>
+		<a href="http://www.investors.com/ibdadvertising/advertising_reprints.asp" class="leftnav" title="Reprints">Reprints</a><br>
+		<a href="http://www.investors.com/ibdadvertising/" class="leftnav" title="Media Kits">Media Kits</a><br>
+		<a href="http://www.investors.com/ibdadvertising/pdfs/EditCalendar2008.pdf" class="leftnav" title="Editorial Calendar">Editorial Calendar</a><br>
+		&nbsp;
+		</div></td>
+	</tr>
+</tbody></table>
+
+
+<p class="leftsmalltext"><a href="http://www.investors.com/faq/startpageinstruct.asp" class="lnavsmall" title="Make investors.com your homepage">Make investors.com your&nbsp;homepage</a></p>
+
+<p>&nbsp;</p></td>
+		<td class="vdot" bgcolor="#ffffff"><img height="1" width="9" src="px.gif"></td>
+		<td class="content">
+			<!-- CONTENT STARTS HERE -->
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tbody><tr>
+					<td><img src="px.gif" height="4" width="1"></td>
+				</tr>
+				<tr>
+					<td><img src="/images/staPrivacyHead.gif" width="190" height="48"></td>
+				</tr>
+				<!-- New policy -->
+				<tr>
+					<td><font size="2">
+						<p class="dkbluefont"><b>Investors.com Privacy Policy</b></p>
+						<p class="medbluefont"><b>Last Updated September 18, 2008</b></p>
+						<p>Investor's Business Daily, Inc. ("IBD") and its affiliates are committed to respecting and protecting your personal privacy. Our policy includes examples of the types of information, including personal information, we may collect and the kinds of companies and/or partners with whom we may share such information. The examples below are merely illustrative and are in no way to be considered a complete inventory of the information we collect, use or share.  It is our policy to comply with applicable state laws that may restrict the types of information we may disclose about you or require us to provide you with additional notices.  Our Privacy Policy covering information we may collect on our Web site(s) is explained below.</p>
+						<p>Investor's Business Daily, IBD, CAN SLIM and corresponding logos are registered trademarks of Data Analysis Inc. Daily Graphs and Daily Graphs Online are registered trademarks of William O'Neil + Co. Incorporated.</p>
+						<h3 style="font-weight: 300">What Information Does IBD Collect From You and How is it Used?</h3>
+						<p><span class="detail">Registration</span><br>
+							The only personally identifiable information that we collect about you is that which you knowingly provide to us directly or through a third-party promotion when registering.  In order to use certain features and products through our Web site(s), a user must first complete a registration form. During registration a user may be required to give their contact information (including but not limited to: name, phone number, physical address or email address). All users must review and agree to IBD's  <a href="/terms/?tp=1">Terms of Use</a>.  Some of our features and products have additional Terms of Use or Rules that must be reviewed and agreed to prior to completing registration.</p>
+						<p><span class="detail">Products and Services Requiring Payment</span><br>
+							Financial information (such as a credit card number and expiration date) is used for billing purposes. If we have trouble processing an order, this information is used to get in touch with the user. This information may be shared with third parties who perform tasks required to complete the purchase transaction.</p>
+						<h3 style="font-weight: 300">How We Gather Information From You</h3>
+						<p>Our collection of information depends on the web page(s) you visit, the services you choose, and the activities in which you elect to participate. We may gather information in ways other than those listed here as our technology progresses.</p>
+						<p><span class="detail">Cookies</span><br>
+							This site uses cookies that contain both personally identifiable information and non-personally identifiable information. Cookies are messages written in your browser. The messages store information so that our site immediately recognizes you each time you visit. This permits us to personalize our site for each member, allow access to the secure parts of our site that individual members have registered for and provide members with up-to-date information about their own account.</p>
+						<p>We use cookies to deliver ads, store visitor preferences, record session information, such as items that visitors add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customize web page content based on visitors' browser type or other information that the visitor sends.</p>
+						<p><span class="detail">Web Beacons</span><br>
+							Web beacons, also called web bugs and clear GIFs are used in combination with cookies to help us understand the behavior of our customers. A web beacon is typically a transparent graphic image that is placed on our site or in an email. The use of a web beacon allows IBD to record the simple actions of the user opening the page that contains the beacon.</p>
+						<p>When a user's browser requests information from a website in this way, certain simple information can also be gathered, such as: the IP address of your computer; time the material was viewed; the type of browser that retrieved the image; and the existence of cookies previously set by that server. This is information is available to any web server you visit. Web beacons do not give any "extra" information away. They are simply a convenient way of gathering the simplest of statistics and managing cookies.</p>
+						<h3 style="font-weight: 300">Sharing</h3>
+						<p>IBD uses personal information obtained from its users as stated in this Privacy Policy, and to enhance users' experiences on our site.</p>
+						<p>IBD may share, sell or rent your name and physical address. However, we will not disclose your email address, phone or fax numbers in our database without your advance permission.</p>
+						<p><span class="detail">Legal Disclaimer</span><br>
+							Though we make every effort to preserve user privacy, we may need to disclose personal information.  In the event of a sale, merger, public offering, bankruptcy or other change in control of IBD and/or its affiliates, your information may be shared with the person or business obtaining ownership and control.  Furthermore, disclosure of personal information may be required by law where we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.  We are not responsible for the privacy practices or the content of any other web sites to which we may link.</p>
+						<p><span class="detail">Aggregate Information</span><br>
+							We may use Aggregated Information to identify things such as usage patterns and popularity of certain features on Investors.com. We may share Aggregated Information with our partners and affiliated companies.</p>
+						<p><span class="detail">Third Parties May Receive or Collect Information Through IBD</span><br>
+							
+We use a credit card processing company to bill users for goods and services. This company will also perform a card authorization and fraud check, but this company does not retain, share, store or use personally identifiable information for any secondary purposes.</p>
+
+<p>We use third-party ad serving companies, including but not limited to: DoubleClick, Inc., TACODA, Inc., IB/Marchex, Omniture and Opt-Intelligence to serve certain advertisements to you when you visit this Web site. Our third-party ad serving companies may use anonymous information related to your visit to the Service's Web site to better provide advertisements to you about goods and services that may be of interest to you. Our third-party ad serving companies do not have access to or use your name, address or telephone number. However, they do receive your user name/email address in order to facilitate their service. In the course of serving advertisements to this Web site, our third-party ad serving companies may place or recognize a unique "cookie" through your browser. In addition, we may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our Web site. If you would like more information about our third-party ad serving companies or regarding your ability to opt-out of the use of cookies, 
+please go to  <a href="http://www.doubleclick.net/us/corporate/privacy">www.doubleclick.net/us/corporate/privacy</a>, <a href="http://www.tacoda.com/">www.tacoda.com/</a>, <a href="http://www.industrybrains.com/Default.aspx">www.industrybrains.com/Default.aspx</a>, <a href="http://www.marchex.com/legal/privacy-statement.html">www.marchex.com/legal/privacy-statement.html</a>, <a href="http://www.omniture.com/en/privacy">www.omniture.com/en/privacy</a>, <a href="http://leadserve.opt-intelligence.com/privacy.html">http://leadserve.opt-intelligence.com/privacy.html</a>.  For additional information about this practice and to know your choices about not having this information used by these companies, click here: <a href="http://networkadvertising.org/consumer/opt_out.asp">http://networkadvertising.org/consumer/opt_out.asp</a>.</p>
+<p>This privacy policy covers the use of cookies by IBD and its affiliates only and does not cover the use of cookies by any advertisers.</p>
+
+						<p><span class="detail">IBD Forums</span><br>
+							We offer our users the option of participating in the IBD Forums, discussion boards. Separate registration is required prior to accessing this service. Any information you disclose when posting a message in these Forums may become public. For more information about IBD Forums see <a href="/terms/?tp=1&amp;sup=ibb#tous">IBD Forums Rules, Policies and Disclaimers</a>.</p>
+						<p><span class="detail">Communication via Email</span><br>
+							IBD reserves the right to send IBD transactional messages and business relationship messages via email to facilitate agreed upon transactions or update customers about existing business relationships. Such emails include, but are not limited to, welcome emails, transaction receipts, billing notification, renewal notices, notification of activation of online privileges, technical support responses, and other communications required to service customers' accounts on Investors.com and/or customers' subscriptions with IBD or its affiliates. Customers <i>cannot</i> unsubscribe from these email messages.</p>
+						<p>IBD, and its affiliates, also make various one-time emails and email series available to the recipients in our database to help them get the most value from our products and services. Such emails include, but are not limited to, newsletters, product updates, educational materials, surveys, special offers from IBD and/or its affiliates as well as special offers sent on behalf of select third parties (IBD partners).</p>
+						<p><span class="detail">Subscribing to and Unsubscribing from Email</span><br>
+						    With the exception of the mandatory IBD transactional and business relationship emails mentioned above, at the time of online registration recipients have an opportunity to confirm their email communication preferences.  Customers may choose to subscribe to (opt-in) or unsubscribe (opt-out) from any or all of these email communications at will.</p>
+						<p><b>To Unsubscribe:</b> Customers may unsubscribe from specific email categories by (1) Clicking the "unsubscribe" link included at the bottom of any email sent by IBD or its affiliates (2) Sending an email to IBD Customer Service at <a href="http://www.askibd.com">www.askibd.com</a> or (3) Calling IBD Customer Service at 1-800-831-2525 or outside the United States 1-310-448-6600.</p>
+						<p><b>Managing Your Email Preferences:</b>  To subscribe to or unsubscribe from any email category, customers may manage their email preferences by (1) Clicking the Edit Profile link on Investors.com and selecting the Change Your Email Address and/or Preferences or (2) By clicking on 'email preferences' link included at the bottom of emails sent by IBD and its affiliates, (3) Sending an email to IBD Customer Service at <a href="http://www.askibd.com">www.askibd.com</a> or (4) Calling IBD Customer Service at 1-800-831-2525 or outside the United States 1-310-448-6600.</p>
+						<p><span class="detail">Supplementation of Information with Affiliates</span><br>
+							In order to properly fulfill our obligations to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources. Also, in order for us to enhance our ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our affiliates, to create a personalized user profile. When a user makes a purchase from either IBD or its affiliates, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.</p>
+						<p><span class="detail">Site and Service Updates</span><br>
+							We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.</p>
+						<p><span class="detail">Security</span><br>
+							This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, that information is protected both online and off-line.</p>
+						<p>This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, that information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the encryption software - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape® and Microsoft Internet Explorer® becomes locked, as opposed to unlocked, or open, when you are just 'surfing'. To learn more about SSL, follow this link: <a href="/privacy/ssl.asp" target="blank">What is SSL?</a> While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use passwords to access this information. Furthermore, ALL employees are required to comply with our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.</p>
+						<p>If you have any questions about the security at our Web site, you can contact us at <a href="http://www.askibd.com">www.askibd.com</a>.</p>
+						<p><span class="detail">Phishing</span><br>
+							Phishing is a term used to describe a type of Internet scam in which inauthentic emails that appear to be coming from a legitimate source are sent in an attempt to trick you into providing confidential information. These emails usually invoke a sense of urgency and often imply that your account is about to be closed unless immediate action is taken. They will often ask you to click on a link that leads you to a webpage that simulates that of the legitimate source, but is really a page specially designed to get you to input your confidential information such as account number, password, social security number or credit card number. The thieves then use that information to commit fraud and identity theft against you.</p>
+						<p>The Office of the Comptroller of Currency has set up a website providing information warning consumers about the dangers of these scams and how to protect yourself. To learn more about phishing, please click on the following link: <a href="http://www.occ.gov/consumer/phishing.htm" target="_blank">www.occ.gov/consumer/phishing.htm</a></p>
+						<p>Please know that Investor's Business Daily takes the privacy of our subscribers very seriously. If you are ever in question about the legitimacy of an email from IBD, please contact customer service at: (800) 831-2525 or outside the United States 1-310-448-6600. If you believe you have been the victim of a scam, you can file a complaint with the Federal Trade Commission at: <a href="http://www.consumer.gov/idtheft/">www.consumer.gov/idtheft/</a>.  If you have any additional questions about the security at our Web site, you can contact us at <a href="http://www.askibd.com">www.askibd.com</a>.</p>
+						<p><span class="detail">Correction/Updating Personal Information</span><br>
+							If your personally identifiable information changes (such as your zip code), or if you no longer desire to use our service, you may correct, update or remove your personal data provided to us. This can be done by accessing 'Edit Profile' on the Investors.com site.</p>
+						<p><span class="detail">Personal Information You Disclose</span><br>
+							Please remember that if you choose to disclose personally identifiable information on our site, such as in IBD Forums, it becomes public information and you should exercise caution. This means that your information may be viewed and/or collected and used by third parties without our or your knowledge. Such actions are not under our control and we are not responsible for events arising from your voluntary posting of personally identifiable information.</p>
+						<p><span class="detail">Children</span><br>
+							IBD and its affiliates do not knowingly collect or solicit Personally Identifiable Information from or about children under 13. If such a situation is discovered, we will delete that information immediately. If you believe IBD has any information about or from a child under 13, please contact us at <a href="http://www.askibd.com">www.askibd.com</a>.</p>
+						<p><span class="detail">Changes to our Privacy Policy</span><br>
+							These guidelines are subject to change. All changes will be posted on this page. If the changes are significant we will notify registered users by email. We encourage you to review our privacy policy periodically to remain informed of changes that may have occurred.</p>
+					</font></td>
+				</tr>
+			</tbody></table>
+			<p>&nbsp;</p>
+			<img height="1" width="470" src="px.gif" id="spacer">
+		</td><!-- CONTENT ENDS HERE -->	
+		<td bgcolor="#ffffff"><img height="1" width="9" src="px.gif"></td>	
+		<td>
+<script language="JavaScript" type="text/javascript">
+<!--
+intWidth  = 750;
+intHeight = 375;
+sigprops  = "top=25,left=25,width=640,height=400,directories=no,status=no,location=0,toolbar=no,scrollbars=yes,resizable=yes,menubar=no,copyhistory=no,alwaysRaised=1,dependent=yes";
+
+if (screen.width > 1024) {
+	intWidth        = 1024;
+	intWidthPVC     = 1024;
+	intHeight       = screen.height-125;
+	dgowindowprops  = "top=25,left=25" + ",width=" + intWidth + ",height=" + intHeight + "directories=0,status=1,location=0,toolbar=0,scrollbars=1,resizable=1,menubar=0,copyhistory=0,alwaysRaised=0";
+	dgowindowprints = "top=2,left=25" + ",width=" + intWidth + ",height=" + intHeight + "directories=0,status=1,location=0,toolbar=1,scrollbars=1,resizable=1,menubar=1,copyhistory=0,alwaysRaised=0";
+} else if (screen.width == 1024) {
+	intWidth        = screen.width-100;
+	intWidthPVC     = screen.width-100;
+	intHeight       = screen.height-125;
+	dgowindowprops  = "top=25,left=25" + ",width=" + intWidth + ",height=" + intHeight + "directories=0,status=1,location=0,toolbar=0,scrollbars=1,resizable=1,menubar=0,copyhistory=0,alwaysRaised=0";
+	dgowindowprints = "top=2,left=25" + ",width=" + intWidth + ",height=" + intHeight + "directories=0,status=1,location=0,toolbar=1,scrollbars=1,resizable=1,menubar=1,copyhistory=0,alwaysRaised=0";
+} else {
+	intWidth = screen.width-100;
+	intWidthPVC     = screen.width-100;
+	intHeight       = screen.height-125;
+	dgowindowprops  = "top=0,left=0" + ",width=" + intWidth + ",height=" + intHeight + ",directories=0,status=1,location=0,toolbar=0,scrollbars=1,resizable=1,menubar=0,copyhistory=0,alwaysRaised=0";
+	dgowindowprints = "top=0,left=0" + ",width=" + intWidth + ",height=" + intHeight + ",directories=0,status=1,location=0,toolbar=1,scrollbars=1,resizable=1,menubar=1,copyhistory=0,alwaysRaised=0";
+}
+
+var xwidth;
+  xwidth = screen.width/300;
+  if (xwidth<6) xwidth = 4;
+  if (xwidth>6) xwidth = 5;
+  intWidthSml = xwidth*124;
+  intWidthSm  = intWidthSml+38;
+
+var xheight;
+  xheight = screen.height;
+  if (xheight>800) intHeightSm = xheight*17/20;
+  if (xheight<800) intHeightSm = xheight*17/20;
+
+var tHeight;
+  tHeight = screen.height;
+
+var tWidth;
+  tWidth  = screen.width;
+
+intWidth2  = 600
+intWidth3  = screen.width*.85
+intHeight2 = screen.height-220
+intHeight3 = screen.height*.7
+
+fundwindowprops = "top=15,left=15" + ",width=" + intWidth3 + ",height=" + intHeight3 + ",directories=0,status=1,location=0,toolbar=0,scrollbars=1,resizable=1,menubar=0,copyhistory=0,alwaysRaised=0";
+compwindowprops = "top=55,left=55" + ",width=" + intWidth3 + ",height=" + intHeight3 + ",directories=0,status=1,location=0,toolbar=0,scrollbars=1,resizable=1,menubar=0,copyhistory=0,alwaysRaised=0";
+igwindowprops = "top=45,left=45" + ",width=" + intWidth3 + ",height=" + intHeight3 + ",directories=0,status=1,location=0,toolbar=0,scrollbars=1,resizable=1,menubar=0,copyhistory=0,alwaysRaised=0";
+ogwindowprops = "top=45,left=45" + ",width=" + intWidth3 + ",height=" + intHeight3 + ",directories=0,status=1,location=0,toolbar=0,scrollbars=1,resizable=1,menubar=0,copyhistory=0,alwaysRaised=0";
+cswindowprops = "top=35,left=35" + ",width=" + intWidth2 + ",height=" + intHeight2 + ",directories=0,status=1,location=0,toolbar=0,scrollbars=1,resizable=1,menubar=1,copyhistory=0,alwaysRaised=0";
+advscrwindowprops = "top=35,left=35,width=620,height=" + intHeight2 + ",directories=0,status=1,location=0,toolbar=0,scrollbars=1,resizable=1,menubar=1,copyhistory=0,alwaysRaised=0";
+ibdwindowprops = "top=25,left=25" + ",width=" + intWidthPVC + ",height=" + intHeight + ",directories=0,status=1,location=0,toolbar=0,scrollbars=1,resizable=1,menubar=0,copyhistory=0,alwaysRaised=0";
+ibdwwindowprops = "top=20,left=20" + ",width=" + intWidthSm + ",height=" + intHeight + ",directories=0,status=1,location=0,toolbar=0,scrollbars=0,resizable=0,menubar=0,copyhistory=0,alwaysRaised=0";
+cupwindowprops = "top=0,left=25" + ",width=" + intWidth + ",height=" + (intHeight-25) + ",directories=0,status=1,location=0,toolbar=0,scrollbars=1,resizable=1,menubar=1,copyhistory=0,alwaysRaised=0";
+
+// open an option chart
+function showChartDGG(Symbol)
+{
+	jsfPopupControl(Symbol, 10);
+}
+// option chart variables
+var optChartOpened = 0;		// 0 if chart popup not opened, 1 after opening
+							// used by showChartDGG, jsfRelocate to prevent
+							// re-opening of chart window
+var optGraphPopup;			// stores Option Graph popup
+// added 11/14/02 by LW to make sure all option quotes open in main window.
+var optTargetWindow;
+if(window.name == "winOptWatchList")
+	optTargetWindow = window.opener;
+else
+	optTargetWindow = window;
+
+var fndChartOpened = 0;		// initializes fund chart flag
+var fndGraphPopup;			// handle to fund chart popup window
+var dgoChartOpened = 0;
+var dgoGraphPopup;
+var dgiChartOpened = 0;
+var dgiGraphPopup;
+var pvcChartOpened = 0;
+var pvcGraphPopup;
+
+var arrGraphPopup = new Array();
+					// array of initializes fund chart flags and handles to fund chart popup window
+					// = 0 - pvc
+					// = 1 - dgx
+					// = 2 - pvc (weekly)
+arrGraphPopup[0,0] = 0;
+arrGraphPopup[1,0] = 0;
+arrGraphPopup[2,0] = 0;
+
+//Stock Checkup access code value
+var sSCACCESSCODE = "";
+
+var sChartsDailyWeeklyFlag = "false"; //to defined when the user select IBD Charts D & W
+//*** GT 06/19/03 start
+var bSurveyFlag = false; // defined the survey status for Stock Check UP
+//*** GT 06/19/03 end
+
+//04/03/03 GT Check for PremiumAcees
+function jsfCheckPremiumAccess(sChart)
+{
+	sPremiumAccess = "";
+	if(sPremiumAccess.toLowerCase().indexOf("dgx") > -1)
+	{	return 22;	}
+	else
+		if(sPremiumAccess.toLowerCase().indexOf("pvc") > -1)
+		{	return 2;	}
+		else
+		{	return sChart;	}
+}
+
+function jsfPopupControl(strTicker,strCharts)
+{
+////////////////////////////////////////////////////////
+//	strTicker	ticker symbol to be displayed in graph
+//	strCharts	type of window to open:
+//		#	Window Type
+//		1	Stock Checkup
+//		2	IBD Charts (Daily)
+//		3	Fund Graph
+//		4	Fund Center Profile
+//		5	Fund Center Performance
+//		6	Fund Center Eholdings
+//		7	Quotes
+//		8	Fund Center Advanced Screen
+//		9	Fund Comparison Graph
+//		10	Option Graph
+//		11	Custom Screens Default
+//		12	Industry Group Graph
+//		13  IBD Charts (Weekly)
+//		22	DGO Graphs Default
+//		23	Smartlink Graphs (dgo or pvc)
+//		29  Stock Comparison Chart
+//		222 New	Stock Graphs window
+//////////////////////////////////////////////////////////
+
+	browserPlatform = navigator.platform
+	browserName = navigator.appName;
+	browserVer = parseInt(navigator.appVersion);
+	if ( browserPlatform.toLowerCase().indexOf('mac') < 0 )
+	  {
+	  strTicker = strTicker.replace(/ /gi, "");
+	  }
+	var isNS = 0;
+	if ( browserName == "Netscape" || browserName == "Mozilla" )
+		isNS=1;
+
+	if (window.name == "" || window.name == null)
+		window.name = "winMain"
+	strTicker = escape(strTicker);
+
+	//04/03/03 GT Check for PremiumAcees
+	sLoginFlag = "";
+	if(sLoginFlag == "1" && sChartsDailyWeeklyFlag == "false" && strCharts == 2)
+	{	strCharts = jsfCheckPremiumAccess(strCharts);	}
+
+///////////////////////////////////////////////
+// Stock Checkup - strCharts = 1
+///////////////////////////////////////////////
+	if (strCharts==1)
+	{
+		strUrl="http://www.investors.com/member/checkup/checkUp.asp?t=" + strTicker + "&ss=YES";
+		//*** GT 06/19/03 start
+		strUrl = strUrl + "&survey=" + bSurveyFlag.toString();
+		strUrl = strUrl + "&ac=" + sSCACCESSCODE;
+		//*** GT 06/19/03 end
+		popup=window.open(strUrl,'CheckUpN',cupwindowprops);popup.focus();
+	}
+///////////////////////////////////////////////
+// IBD Charts (Daily) - strCharts = 2
+///////////////////////////////////////////////
+	else if (strCharts==2 || strCharts==23 || strCharts==25 || strCharts==27)
+	{
+		switch(strCharts)
+		{
+		case "23":
+			sType = "ift";
+			break;
+		case "25":
+			sType = "tru";
+			break;
+		case "27":
+			sType = "etb";
+			break;
+		default:
+			sType = "pvc";
+		}
+
+		if (strTicker == "")
+		{
+			strTicker='0S%26P5'
+		}
+	// start new code to prevent redraw after 1st chart
+	/*04/03/03 GT	if(pvcGraphPopup)
+		{
+			if(pvcGraphPopup.name == "dgoGraphsN")
+				pvcChartOpened = 0;
+		}
+	*/
+		if (pvcChartOpened == 0)
+		{
+			if (opener)
+		    {
+				if (opener.open && !opener.closed)
+				{
+					//alert(opener.open +"&&"+ opener.closed)
+					//alert(opener.defaultStatus)
+
+					if (opener.window.name == "ibddailyN") {
+						pvcChartOpened = 1;
+						pvcGraphPopup = window.opener.window;
+					}
+	    		} else {
+					pvcChartOpened=1;
+					strTicker = strTicker.replace("%2526","%26");
+					var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Daily&t=" + strTicker;	// *** TEST
+					pvcGraphPopup=window.open(surl,'ibddailyN',ibdwindowprops);
+					pvcGraphPopup.focus();
+					return;
+				}
+			}
+			else {
+					pvcChartOpened=1;
+					strTicker = strTicker.replace("%2526","%26");
+					var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Daily&t=" + strTicker;	// *** TEST
+					pvcGraphPopup=window.open(surl,'ibddailyN',ibdwindowprops);
+					pvcGraphPopup.focus();
+					return;
+				}
+		}
+		// if chart window has been opened and currently exists, then change variables in OCX directly this prevents the window flashing as it reloads
+		if(true)
+		{
+			if (pvcGraphPopup && pvcGraphPopup.open && !pvcGraphPopup.closed)
+			{
+				// only use this window if it was originally
+				var currentUrl = pvcGraphPopup.window.location.toString();
+				if (currentUrl.search(/cht=pvc/i) != -1 || currentUrl.search(/cht=ift/i) != -1)
+				{
+					strTicker = unescape(strTicker);				// decode string
+					strTicker = strTicker.replace(/%26/gi, "&");	// decode double-escaped string
+					pvcGraphPopup.focus();
+					if(pvcGraphPopup.document.getElementById('htmTickerIFT'))
+					{
+						pvcGraphPopup.document.dgf1.htmTickerIFT.style.background = "red";
+						pvcGraphPopup.document.dgf1.htmTickerIFT.value = strTicker;
+						pvcGraphPopup.Graph_onclick();
+						pvcGraphPopup.document.dgf1.htmTickerIFT.style.background = "white";
+					}
+					else
+					{
+						pvcGraphPopup.document.dgf1.htmTicker.style.background = "red";
+						pvcGraphPopup.document.dgf1.htmTicker.value = strTicker;
+						if(pvcGraphPopup.Graph_onclick)
+						{	pvcGraphPopup.Graph_onclick();	}
+						else
+						{
+								if(isNS==0)
+								{
+									pvcGraphPopup.document.dgf1.plotwon1.grTyp = pvcGraphPopup.document.dgf1.GrType.value;
+									pvcGraphPopup.document.dgf1.plotwon1.GrID = sType;
+									pvcGraphPopup.document.dgf1.DPFMngr1.Symbol = strTicker;
+									pvcGraphPopup.document.dgf1.plotwon1.sym = strTicker;
+								}
+								else
+								{
+									pvcGraphPopup.plotwon1.grTyp = pvcGraphPopup.document.dgf1.GrType.value;
+									pvcGraphPopup.plotwon1.GrID = sType;
+									pvcGraphPopup.DPFMngr1.Symbol = strTicker;
+									pvcGraphPopup.plotwon1.sym = strTicker;
+								}
+						}
+						pvcGraphPopup.document.dgf1.htmTicker.style.background = "white";
+					}
+				}
+				else
+				{
+					strTicker = strTicker.replace("%2526","%26");
+					var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Daily&t=" + strTicker;	// *** TEST
+					pvcGraphPopup=window.open(surl,'ibddailyN',ibdwindowprops);
+					pvcGraphPopup.focus();
+				}
+			}
+			else
+			{
+				strTicker = strTicker.replace("%2526","%26");
+				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Daily&t=" + strTicker;
+				pvcGraphPopup=window.open(surl,'ibddailyN',ibdwindowprops);
+				pvcGraphPopup.focus();
+			}
+		}
+		else
+		{
+			strTicker = strTicker.replace("%2526","%26");
+			var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Daily&t=" + strTicker;
+			pvcGraphPopup=window.open(surl,'ibddailyN',ibdwindowprops);
+			pvcGraphPopup.focus();
+		}
+
+		if(sChartsDailyWeeklyFlag == "true" && window.name != "ibddailyN" && window.name != "ibdweeklyN")
+		{	sChartsDailyWeeklyFlag = "false";	}
+	// end new code to prevent redraw
+	}
+///////////////////////////////////////////////
+// IBD Charts (weekly) - strCharts = 13
+///////////////////////////////////////////////
+	else if (strCharts==13 || strCharts==24 || strCharts==26 || strCharts==28)
+	{
+		switch(strCharts)
+		{
+		case "24":
+			sType = "ift";
+			break;
+		case "26":
+			sType = "tru";
+			break;
+		case "28":
+			sType = "etb";
+			break;
+		default:
+			sType = "pvc";
+		}
+
+		if (strTicker == "")
+		{
+			strTicker='0S%26P5'
+		}
+		if (pvcChartOpened == 0)
+		{
+		    if (window.opener && window.opener.open && !window.opener.closed) {
+				if (window.opener.window.name == "ibdweeklyN") {
+					pvcChartOpened = 1;
+					pvcGraphPopup = window.opener.window;
+				}
+	    	} else {
+				pvcChartOpened=1;
+				strTicker = strTicker.replace("%2526","%26");
+				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType +"&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Weekly&t=" + strTicker;	// *** TEST
+				pvcGraphPopup=window.open(surl,'ibdweeklyN',ibdwwindowprops);
+				pvcGraphPopup.focus();
+				return;
+			}
+		}
+		// if chart window has been opened and currently exists, then change variables in OCX directly this prevents the window flashing as it reloads
+		if(true) {
+			if (pvcGraphPopup && pvcGraphPopup.open && !pvcGraphPopup.closed)
+			{
+				// only use this window if it was originally
+				var currentUrl = pvcGraphPopup.window.location.toString();
+
+				if (currentUrl.search(/cht=pvc/i) != -1 || currentUrl.search(/cht=ift/i) != -1)
+				{
+					if(pvcGraphPopup.document.getElementById('htmTickerIFT'))
+					{
+						strTicker = unescape(strTicker);				// decode string
+						strTicker = strTicker.replace(/%26/gi, "&");	// decude double-escaped string
+						pvcGraphPopup.focus();
+						pvcGraphPopup.document.dgf1.htmTickerIFT.style.background = "red";
+						pvcGraphPopup.document.dgf1.htmTickerIFT.value = strTicker;
+						pvcGraphPopup.Graph_onclick();
+						pvcGraphPopup.document.dgf1.htmTickerIFT.style.background = "white";
+					}
+					else
+					{
+						strTicker = unescape(strTicker);				// decode string
+						strTicker = strTicker.replace(/%26/gi, "&");	// decude double-escaped string
+						pvcGraphPopup.focus();
+						pvcGraphPopup.document.dgf1.htmTicker.style.background = "red";
+						pvcGraphPopup.document.dgf1.htmTicker.value = strTicker;
+						if(pvcGraphPopup.Graph_onclick)
+						{	pvcGraphPopup.Graph_onclick();	}
+						else
+						{
+								if(isNS==0)
+								{
+									pvcGraphPopup.document.dgf1.plotwon1.grTyp = pvcGraphPopup.document.dgf1.GrType.value;
+									pvcGraphPopup.document.dgf1.plotwon1.GrID = sType;
+									pvcGraphPopup.document.dgf1.DPFMngr1.Symbol = strTicker;
+									pvcGraphPopup.document.dgf1.plotwon1.sym = strTicker;
+								}
+								else
+								{
+									pvcGraphPopup.plotwon1.grTyp = pvcGraphPopup.document.dgf1.GrType.value;
+									pvcGraphPopup.plotwon1.GrID = sType;
+									pvcGraphPopup.DPFMngr1.Symbol = strTicker;
+									pvcGraphPopup.plotwon1.sym = strTicker;
+								}
+						}
+						pvcGraphPopup.document.dgf1.htmTicker.style.background = "white";
+					}
+				}
+				else
+				{
+					strTicker = strTicker.replace("%2526","%26");
+					var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType +"&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Weekly&t=" + strTicker;	// *** TEST
+					pvcGraphPopup=window.open(surl,'ibdweeklyN',ibdwwindowprops);
+					pvcGraphPopup.focus();
+				}
+			}
+			else
+			{
+				strTicker = strTicker.replace("%2526","%26");
+				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType +"&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Weekly&t=" + strTicker;
+				pvcGraphPopup=window.open(surl,'ibdweeklyN',ibdwwindowprops);
+				pvcGraphPopup.focus();
+			}
+		}
+		else
+		{
+			strTicker = strTicker.replace("%2526","%26");
+			var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType +"&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Weekly&t=" + strTicker;
+			pvcGraphPopup=window.open(surl,'ibdweeklyN',ibdwwindowprops);
+			pvcGraphPopup.focus();
+		}
+
+		if(sChartsDailyWeeklyFlag == "true" && window.name != "ibddailyN" && window.name != "ibdweeklyN")
+		{	sChartsDailyWeeklyFlag = "false";	}
+	// end new code to prevent redraw
+	}
+///////////////////////////////////////////////
+// Fund Graph - strCharts = 3
+///////////////////////////////////////////////
+	else if (strCharts==3 || strCharts==15)
+	{
+		switch(strCharts)
+		{
+		case 15:
+			sType = "SOWF";
+			sID = "&id=";
+			break;
+		default:
+			sType = "DGF";
+			sID = "";
+		}
+
+		if(strTicker == "" || strTicker =="Symbol")
+			strTicker="0MUTI";
+		// if chart fndGraphPopup has not been opened, then open new window
+		if (fndChartOpened == 0)
+		{
+			fndChartOpened=1;
+			var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
+			fndGraphPopup=window.open(surl,'fndGraphsN',fundwindowprops);
+			fndGraphPopup.focus();
+			return;
+		}
+
+		// if chart window has been opened and currently exists, then change variables in OCX directly this prevents the window flashing as it reloads
+		if(true)
+		{
+			if (fndGraphPopup && fndGraphPopup.open && !fndGraphPopup.closed)
+			{
+				// only use this window if it was originally an option chart window
+				var currentUrl = fndGraphPopup.window.location.toString();
+				if (currentUrl.search(/cht=dgf/i) != -1)
+				{
+					fndGraphPopup.focus();
+					fndGraphPopup.document.dgf1.htmTicker.style.background = "red";
+					fndGraphPopup.document.dgf1.htmTicker.value = strTicker;
+					// fndGraphPopup.document.dgf1.htmID.value = "";
+					if(isNS==0){
+						fndGraphPopup.document.dgf1.plotwon1.grTyp = fndGraphPopup.document.dgf1.GrType.value;
+						fndGraphPopup.document.dgf1.plotwon1.GrID = sType;
+						fndGraphPopup.syncRSStatus(strTicker);
+						fndGraphPopup.document.dgf1.plotwon1.sym = strTicker;
+					}
+					else
+					{
+						fndGraphPopup.plotwon1.grTyp = fndGraphPopup.document.dgf1.GrType.value;
+						fndGraphPopup.plotwon1.GrID = sType;
+						fndGraphPopup.syncRSStatus(strTicker);
+						fndGraphPopup.plotwon1.sym = strTicker;
+					}
+					fndGraphPopup.document.dgf1.htmTicker.style.background = "white";
+				}
+				else
+				{
+					var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
+					fndGraphPopup=window.open(surl,'fndGraphsN',fundwindowprops);
+				}
+			}
+			else
+			{
+				var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
+				fndGraphPopup=window.open(surl,'fndGraphsN',fundwindowprops);
+			}
+		}
+		else
+		{
+			var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
+			fndGraphPopup=window.open(surl,'fndGraphsN',fundwindowprops);
+		}
+	}
+///////////////////////////////////////////////
+// Fund Center Profile - strCharts = 4
+///////////////////////////////////////////////
+	else if (strCharts==4)
+	{
+		txtSymbol = strTicker;
+		strRedirectLinkURL = 'http://www.investors.com/member/fundcenter/members-profile.asp?Symbol='+txtSymbol;
+		window.location='http://www.investors.com/member/fundcenter/members-profile.asp?Symbol='+txtSymbol;
+	}
+///////////////////////////////////////////////
+// Fund Center Performance - strCharts = 5
+///////////////////////////////////////////////
+	else if (strCharts==5)
+	{
+		txtSymbol = document.formResearch.txtSymbol.value;
+		strRedirectLinkURL = 'http://www.investors.com/member/fundcenter/members-performance.asp?Symbol='+txtSymbol;
+		window.location='http://www.investors.com/member/fundcenter/members-performance.asp?Symbol='+txtSymbol;
+	}
+///////////////////////////////////////////////
+// Fund Center EHoldings - strCharts = 6
+///////////////////////////////////////////////
+	else if (strCharts==6)
+	{
+		txtSymbol = document.formResearch.txtSymbol.value;
+		strRedirectLinkURL = 'http://www.investors.com/member/fundcenter/members-eholdings.asp?Symbol='+txtSymbol;
+		window.location='http://www.investors.com/member/fundcenter/members-eholdings.asp?Symbol='+txtSymbol;
+	}
+///////////////////////////////////////////////
+// Quotes - strCharts = 7
+///////////////////////////////////////////////
+	else if (strCharts==7)
+	{
+		var tUrl;
+		tUrl = '/quotes/default.asp?t=' + strTicker;
+		winT3=window.open(tUrl,"winMain")
+		if(window.name != "winMain")
+		{
+			if(opener)
+			{
+				if(!opener.closed)
+				{
+					opener.location = tUrl;
+					opener.focus();
+				}
+				else
+				{
+					winT3=window.open(tUrl,"winMain");
+					winT3.focus();
+				}
+			}
+			else
+			{
+				winT3=window.open(tUrl,"winMain");
+				winT3.focus();
+			}
+		}
+		else
+		{	window.location = tUrl;	}
+	}
+///////////////////////////////////////////////
+// Fund Center Advanced Screen - strCharts = 8
+///////////////////////////////////////////////
+	else if (strCharts==8)
+	{
+		popup=window.open('http://www.investors.com/member/fundcenter/advScrHome.asp','advscrN', advscrwindowprops);
+		popup.focus();
+	}
+///////////////////////////////////////////////
+// Fund Comparison Graph - strCharts = 9
+///////////////////////////////////////////////
+	else if (strCharts==9)
+	{
+		if (document.formResearch) {
+			txtSymbol = document.formResearch.txtSymbol.value;
+		} else {
+			txtSymbol = document.getElementById('htmTicker').value;
+		}
+		if(txtSymbol == "" || txtSymbol == "Symbol")
+			txtSymbol = "0MUTI";
+			strUrl='http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=dgc&Symbol='+txtSymbol;
+		popup=window.open(strUrl,'dgcGraphsN',compwindowprops);
+		popup.focus();
+	}
+///////////////////////////////////////////////
+// Option Graph - strCharts = 10
+///////////////////////////////////////////////
+	else if (strCharts==10)
+	{
+		// if chart optGraphPopup has not been opened, then open new window
+		if (optChartOpened == 0)
+		{
+			optChartOpened=1;
+			var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=dgg&t=" + strTicker;
+			optGraphPopup=window.open(surl,'optGraphsN',ogwindowprops);
+			optGraphPopup.focus();
+		}
+		else
+		{
+			if(true)
+			{
+				// if chart window has been opened and currently exists, then change variables in OCX directly this prevents the window flashing as it reloads
+				if (optGraphPopup && optGraphPopup.open && !optGraphPopup.closed)
+				{
+					// only use this window if it was originally an option chart window
+					var currentUrl = optGraphPopup.window.location.toString();
+					if (currentUrl.search(/cht=dgg/i) != -1)
+					{
+						optGraphPopup.focus();
+						optGraphPopup.document.dgf1.htmTicker.style.background = "red";
+						optGraphPopup.document.dgf1.htmTicker.value = unescape(strTicker);
+						if(isNS==0){
+							optGraphPopup.document.dgf1.plotwon1.grTyp = optGraphPopup.document.dgf1.GrType.value;
+							optGraphPopup.document.dgf1.plotwon1.CorpEvents = optGraphPopup.document.dgf1.flgCorporate.value;
+							optGraphPopup.document.dgf1.plotwon1.GrID = "DGG";
+							optGraphPopup.syncRSStatus(strTicker);
+							optGraphPopup.document.dgf1.plotwon1.sym = unescape(strTicker);
+						}
+						else
+						{
+							optGraphPopup.plotwon1.grTyp = optGraphPopup.document.dgf1.GrType.value;
+							optGraphPopup.plotwon1.CorpEvents = optGraphPopup.document.dgf1.flgCorporate.value;
+							optGraphPopup.plotwon1.GrID = "DGG";
+							optGraphPopup.syncRSStatus(strTicker);
+							optGraphPopup.plotwon1.sym = unescape(strTicker);
+						}
+						optGraphPopup.document.dgf1.htmTicker.style.background = "white";
+					}
+					else
+					{
+						var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=dgg&t=" + strTicker;
+						optGraphPopup=window.open(surl,'optGraphsN',ogwindowprops);
+					}
+				}
+				else
+				{
+					var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=dgg&t=" + strTicker;
+					optGraphPopup=window.open(surl,'optGraphsN',ogwindowprops);
+				}
+			}
+			else
+			{
+				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=dgg&t=" + strTicker;
+				optGraphPopup=window.open(surl,'optGraphsN',ogwindowprops);
+			}
+		}
+	}
+///////////////////////////////////////////////
+// Custom Screens Default - strCharts = 11
+///////////////////////////////////////////////
+	else if (strCharts==11)
+	{
+		popup=window.open('http://www.investors.com/member/customscreen/default.asp','customscreenN', cswindowprops);
+		popup.focus();
+	}
+///////////////////////////////////////////////
+// Industry Group Graph - strCharts = 12
+///////////////////////////////////////////////
+	else if (strCharts==12 || strCharts==16)
+	{
+		switch(strCharts)
+		{
+		case 16:
+			sType = "SOWI";
+			sID = "&id=";
+			break;
+		default:
+			sType = "DGI";
+			sID = "";
+		}
+
+	// if chart optGraphPopup has not been opened, then open new window
+		if (dgiChartOpened == 0)
+		{
+			dgiChartOpened=1;
+			var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + "&t=" + strTicker;
+			dgiGraphPopup=window.open(surl,'dgiGraphsN',igwindowprops);
+			dgiGraphPopup.focus();
+			return;
+		}
+		var indGroup;
+		if((strTicker.substr(0,1)== "G") && (strTicker.length == 5))
+			indGroup= strTicker.substr(1,4);
+
+		if(true)
+		{
+			if (dgiGraphPopup && dgiGraphPopup.open && !dgiGraphPopup.closed)
+			{
+				// only use this window if it was originally an option chart window
+				var currentUrl = dgiGraphPopup.window.location.toString();
+				if (currentUrl.search(/cht=dgi/i) != -1)
+				{
+					dgiGraphPopup.focus();
+					dgiGraphPopup.document.dgf1.htmInTicker.style.background = "red";
+					dgiGraphPopup.document.dgf1.htmInTicker.value=indGroup; //dropdown
+					// dgiGraphPopup.document.dgf1.hID.value="";
+					if(isNS==0){
+						dgiGraphPopup.document.dgf1.plotwon1.grTyp = dgiGraphPopup.document.dgf1.GrType.value;
+						dgiGraphPopup.document.dgf1.plotwon1.GrID = sType;
+						dgiGraphPopup.document.dgf1.plotwon1.sym = strTicker;
+					}
+					else
+					{
+						dgiGraphPopup.plotwon1.grTyp = dgiGraphPopup.document.dgf1.GrType.value;
+						dgiGraphPopup.plotwon1.GrID = sType;
+						dgiGraphPopup.plotwon1.sym = strTicker;
+					}
+					dgiGraphPopup.document.dgf1.htmInTicker.style.background = "white";
+				}
+				else
+				{
+					var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
+					dgiGraphPopup=window.open(surl,'dgiGraphsN',igwindowprops);
+				}
+			}
+			else
+			{
+				var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
+				dgiGraphPopup=window.open(surl,'dgiGraphsN',igwindowprops);
+			}
+		}
+		else
+		{
+			var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
+			dgiGraphPopup=window.open(surl,'dgiGraphsN',igwindowprops);
+		}
+	}
+///////////////////////////////////////////////
+// DGO Graphs - strCharts = 22
+///////////////////////////////////////////////
+	else if (strCharts==22 || strCharts==14 || strCharts==223)
+	{
+		switch(strCharts)
+		{
+		case 14:
+			sType = "SOWS";
+			sID = "&id=";
+			break;
+		default:
+			sType = "DGX";
+			sID = "";
+		}
+
+		if (strTicker == "")
+		{
+			strTicker='0S%26P5'
+		}
+		if (dgoChartOpened == 0)
+		{
+			dgoChartOpened=1;
+
+			var surl="http://www.investors.com/member/";
+			if(strCharts==223)
+			{
+				sname =  'newDgoGraphsN';
+				surl= surl + "newDgoGraphs";	
+			}
+			else
+			{
+				sname =  'dgoGraphsN';
+				surl= surl + "dgoGraphs";	
+			}
+			surl= surl + "/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
+			dgoGraphPopup=window.open(surl,sname,dgowindowprops);
+			dgoGraphPopup.focus();
+			return;
+		}
+
+		// if chart window has been opened and currently exists, then change variables in OCX directly this prevents the window flashing as it reloads
+		if(true)
+		{
+			if (dgoGraphPopup && dgoGraphPopup.open && !dgoGraphPopup.closed)
+			{
+				// only use this window if it was originally
+				var currentUrl = dgoGraphPopup.window.location.toString();
+
+				if (currentUrl.search(/cht=dgx/i) != -1)
+				{
+					dgoGraphPopup.focus();
+					dgoGraphPopup.document.dgf1.htmTicker.style.background = "red";
+					strTicker = strTicker.replace(/%26/gi,"&");	// decode url
+					dgoGraphPopup.document.dgf1.htmTicker.value = strTicker;
+					// dgoGraphPopup.document.dgf1.hID.value = "";
+					if(isNS==0)
+					{
+						dgoGraphPopup.document.dgf1.plotwon1.grTyp = dgoGraphPopup.document.dgf1.GrType.value;
+						dgoGraphPopup.document.dgf1.plotwon1.GrID = sType;
+						dgoGraphPopup.document.dgf1.DPFMngr1.Symbol = strTicker;
+						dgoGraphPopup.document.dgf1.plotwon1.sym = strTicker;
+					}
+					else
+					{
+						dgoGraphPopup.plotwon1.grTyp = dgoGraphPopup.document.dgf1.GrType.value;
+						dgoGraphPopup.plotwon1.GrID = sType;
+						dgoGraphPopup.DPFMngr1.Symbol = strTicker;
+						dgoGraphPopup.plotwon1.sym = strTicker;
+					}
+					dgoGraphPopup.document.dgf1.htmTicker.style.background = "white";
+				}
+				else
+				{
+					var surl="http://www.investors.com/member/";
+					if(strCharts==223)
+					{
+						sname =  'newDgoGraphsN';
+						surl= surl + "newDgoGraphs";	
+					}
+					else
+					{
+						sname =  'dgoGraphsN';
+						surl= surl + "dgoGraphs";	
+					}
+					surl= surl + "/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
+					dgoGraphPopup=window.open(surl,sname,dgowindowprops);
+				}
+			}
+			else
+			{
+				var surl="http://www.investors.com/member/";
+				if(strCharts==223)
+				{
+					sname =  'newDgoGraphsN';
+					surl= surl + "newDgoGraphs";	
+				}
+				else
+				{
+					sname =  'dgoGraphsN';
+					surl= surl + "dgoGraphs";	
+				}
+				surl= surl + "/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker
+				dgoGraphPopup=window.open(surl,sname,dgowindowprops);
+			}
+		}
+		else
+		{
+			var surl="http://www.investors.com/member/";
+			if(strCharts==223)
+			{
+				sname =  'newDgoGraphsN';
+				surl= surl + "newDgoGraphs";	
+			}
+			else
+			{
+				sname =  'dgoGraphsN';
+				surl= surl + "dgoGraphs";	
+			}
+			surl= surl + "/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker
+			dgoGraphPopup=window.open(surl,sname,dgowindowprops);
+		}
+	}
+
+//////////////////////////////////////////////////////
+// DGO Graphs - strCharts = 222   Multiple DGX windows
+//////////////////////////////////////////////////////
+	else if (strCharts==222 )
+	{
+		switch(strCharts)
+		{
+
+		default:
+			sType = "DGX";
+			sID = "";
+			//alert(dgoChartOpened);
+			var surl="http://www.investors.com/member/DgoGraphs/dgoGraphs.asp?ert=off&cht=" + sType + sID + "&t=" + strTicker;
+			dgoGraphPopup=window.open(surl,'',dgowindowprops);
+			dgoGraphPopup.focus();
+			return;
+		}
+	}
+
+
+///////////////////////////////////////////////
+// Stock Comparison Graph - strCharts = 29
+///////////////////////////////////////////////
+	else if (strCharts==29)
+	{
+		if (document.formResearch) {
+			txtSymbol = document.formResearch.txtSymbol.value;
+		} else {
+			txtSymbol = document.getElementById('htmTicker').value;
+		}
+
+		if(txtSymbol == "" || txtSymbol == "Symbol")
+			txtSymbol = '0S%26P5';
+			txtSymbol = txtSymbol.replace("&","%26");
+
+			strUrl='http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=dgk&Symbol=' + txtSymbol;
+		popup=window.open(strUrl,'dgkGraphsN',compwindowprops);
+		popup.focus();
+	}
+
+}
+
+
+
+function jsfChartsControl(strTicker,sGraphType,sMode,iTypeOnly,sAddPrms)
+{
+////////////////////////////////////////////////////////
+//	strTicker	ticker symbol to be displayed in graph
+//	sGraphType	type of graph to open
+//	sMode		mode - daily, weekly
+//	iTypeOnly	= 1 - open graph with the type = sType without upgrade
+//				= 0 - graph with the upgrade
+//	sAddPrms	additional parametrs to pass in query string to the graph
+//////////////////////////////////////////////////////////
+	var iLogin = "" ;
+	var sType;
+	var windowIndex = -1;
+	var windowName;
+	var windowTypes;
+	var isNS = 0;
+
+	browserPlatform = navigator.platform
+	browserName = navigator.appName;
+	browserVer = parseInt(navigator.appVersion);
+	if ( browserPlatform.toLowerCase().indexOf('mac') < 0 )
+	{	strTicker = strTicker.replace(/ /gi, "");	}
+
+	//*** check for Netscape browser
+	if ( browserName == "Netscape" || browserName == "Mozilla" )
+		isNS=1;
+
+	if (window.name == "" || window.name == null)
+	{	window.name = "winMain";	}
+	strTicker = escape(strTicker);
+
+	iLogin = "";
+	iTypeOnly = parseInt(iTypeOnly);
+	if (strTicker == "")
+	{
+		strTicker='0S%26P5';
+	}
+
+	sType = sGraphType;
+	if	(iTypeOnly == 0 && iLogin == "1")
+	{	sType = jsfCheckChartToOpen(sGraphType);	}
+	sType = sType.toLowerCase();
+	sMode = sMode.toLowerCase();
+	switch (sType)
+	{
+	case "pvc":
+	case "ift":
+	case "tru":
+	case "etb":
+	case "wbm":
+	case "etf":		//bgc 1/17/06 added etf.
+	case "mkt":
+	case "enl":
+	case "fsc":
+	case "hbo":
+	case "sod":
+	case "mdc":
+		if (sMode == "weekly")
+		{
+			windowIndex = 2;
+			ibdwindowprops = ibdwwindowprops;
+			windowTypes = "PVW";
+		}
+		else
+		{	
+			windowIndex = 0;	
 			ibdwindowprops = ibdwindowprops;
 			windowTypes = sType.toUpperCase();
 		}
@@ -1737,7 +2924,7 @@ function cleanTickerSymbols(s) {
 		<td class="rightnav"><img height="1" width="1" src="px.gif" alt=""></td>
 		<td colspan="3" style="text-align: center" class="rightnav"><script type="text/javascript"><!--
 		OAS_AD('x22');
-		//--></script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ibd.pwrtoollogo/;tile=1;sz=135x20;ord=5668788725374734?" type="text/javascript"></script><a href="http://ad.doubleclick.net/jump/ibd.pwrtoollogo/;tile=1;sz=135x20;ord=5668788725374734?"><img src="px.gif" width="2px" height="1px"></a></td>		
+		//--></script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ibd.pwrtoollogo/;tile=1;sz=135x20;ord=530339951221645.56?" type="text/javascript"></script><a href="http://ad.doubleclick.net/jump/ibd.pwrtoollogo/;tile=1;sz=135x20;ord=530339951221645.56?"><img src="px.gif" width="2px" height="1px"></a></td>		
 	</tr>
 
 	<tr>
@@ -1797,11 +2984,9 @@ function cleanTickerSymbols(s) {
 		<td colspan="3" class="rightnavdk">
 		
 			<p class="premlines" style="margin-top: 5px"><a href="/eibd/" class="navprem" title="eIBD<span class='tm'>TM</span> - Digital Edition"><i>e</i>IBD<span class="tm">TM</span> - Digital Edition</a></p>
-			<p class="premlines"><a href="/member/IBDalerts/default.asp?src=A852APL" class="navprem" title="IBD® Alerts Plus"><span style="">IBD<span class="navreg">®</span> Alerts Plus</span> <img src="/images/staNew20x8.gif" alt="NEW!"></a></p>
-			<p class="premlines"><a href="/member/IBD100TopRated/" class="navprem" title="IBD® 100 Top-Rated Stocks"><span style="">IBD<span class="navreg">®</span> 100 Top-Rated Stocks</span></a></p>
+			<p class="premlines"><a href="/member/IBDalerts/default.asp?src=A852APL" class="navprem" title="IBD® Alerts Plus"><span style="">IBD<span class="navreg">®</span> Alerts Plus</span></a></p>
 			<p class="premlines"><a href="/member/trunder10/" class="navprem" title="Top-Rated Stocks Under $10">Top-Rated Stocks Under&nbsp;$10</a></p>				
-			<p class="premlines"><a href="/member/etables/" class="navprem" title="IBD® eTables">IBD<span class="navreg">®</span> <i>e</i>Tables</a></p>			
-			<p class="premlines"><a href="/subscribe/mobile.asp" class="navprem" title="IBD® Mobile Products">IBD<span class="navreg">®</span> Mobile Products</a></p>
+			<p class="premlines"><a href="/member/etables/" class="navprem" title="IBD® eTables">IBD<span class="navreg">®</span> <i>e</i>Tables</a></p>						
 		</td>
 	</tr>
 	<tr>
@@ -1943,12 +3128,13 @@ function goSymbolLookup(){
 			<p style="font-size: 11px">The S&amp;P 500 data is the property of Chicago Mercantile Exchange, Inc. and its licensors.  All rights reserved.</p>
 			<p style="padding-bottom: 25px; font-size: 11px">*Stocks On The Move data may be delayed more than 20 minutes due to the auto-refresh schedule for these features.</p>
 		</div>			
-	<a href="http://ibdweb8"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt="" align="left"></a>
+	<a href="http://ibdweb9"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt="" align="left"></a>
 	</div>
 </div>
 
+<img src="http://bh.contextweb.com/bh/set.aspx?action=replace&amp;advid=1018&amp;token=IBD01" width="1" height="1" border="0" alt="">
 <br>
-<a href="http://ibdweb8"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt=""></a>
+<a href="http://ibdweb9"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt=""></a>
 
 <!-- SiteCatalyst code version: H.10.
 Copyright 1997-2007 Omniture, Inc. More info available at
@@ -1958,7 +3144,7 @@ http://www.omniture.com -->
 /* You may give each page an identifying name, server, and channel on the next lines. */
 
 /* ***** Start of variables that apply to all pages ***** */
-s.server="ibdweb8";
+s.server="ibdweb9";
 s.channel="";
 s.prop6="";
 s.prop7="";
@@ -1977,6 +3163,7 @@ s.eVar14="";
 
 /* ***** End of variables that are the same for all pages ***** */
 //--></script>
+
 
 <script language="JavaScript"><!--
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
