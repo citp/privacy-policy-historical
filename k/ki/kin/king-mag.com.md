@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the king-mag.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418010704id_/http%3A//www.king-mag.com/reg_htmls/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the king-mag.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055055id_/http%3A//www.king-mag.com/reg_htmls/privacy.php) for the most accurate reproduction.*
 
 # KING-mag.com Terms
 
