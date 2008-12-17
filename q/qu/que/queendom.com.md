@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queendom.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513071224id_/http%3A//www.queendom.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queendom.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141737id_/http%3A//www.queendom.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Report
 
