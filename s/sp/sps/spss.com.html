@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spss.com privacy policy that was archived on 2008-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080510001857id_/http%3A//www.spss.com/privacy.htm%3Fsource%3Dhomepage%26hpzone%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spss.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217025548id_/http%3A//www.spss.com/privacy.htm%3Fsource%3Dhomepage%26hpzone%3Dfooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 	<title>SPSS Inc. - Privacy Policy</title>
@@ -7,8 +7,7 @@
 </head>
 <body>
 <div id="TitleBar">
-	<div id="CompanyLogo"><a href="/"><img src="/images/SPSSlogo.gif" width="70" height="70" alt="SPSS Company Logo"></a></div>
-	<!--- INCREASE PAGE SIZE --->
+	<div id="CompanyLogo"><a href="/"><img src="/images/home-new/SPSSlogo_tag.jpg" width="272" height="70" alt="SPSS Company Logo"></a></div>
 	<p id="SkipNav">[<a href="#PageStart">Skip Global Navigation</a>]</p>
 	<div id="SearchNav">
 		<form name="gs" method="GET" action="http://search.spss.com/search">
@@ -26,7 +25,8 @@
 	</div>
 	<div id="GlobalNav">
 		<ul><li><a href="/?source=homepage&amp;hpzone=nav_bar">Home</a></li>
-			<li><a href="/products/?source=homepage&amp;hpzone=nav_bar">Software and Solutions</a></li>
+			<li><a href="/solutions/?source=homepage&amp;hpzone=nav_bar">Solutions</a></li>
+			<li><a href="/software/?source=homepage&amp;hpzone=nav_bar">Software</a></li>
 			<li><a href="/success/?source=homepage&amp;hpzone=nav_bar">Customers</a></li>
 			<li><a href="/training/?source=homepage&amp;hpzone=nav_bar">Training</a></li>
 			<li><a href="/services/?source=homepage&amp;hpzone=nav_bar">Services</a></li>
@@ -72,18 +72,12 @@ var nameEQ = name + "=";
 	}
 	return null;
 	}
-
-// A COMMENT FOR SPACE
-
-
-	if (getCookie("RLNNAME") != null) {
+	
+	if (getCookie("RLNNAME") != null & getCookie("SPSSAUTH") != null) {
 		var vRLNName = getCookie("RLNNAME");
-		var vMYASSETS = getCookie("MYASSETS");
-		document.write('<p><strong>Welcome, ' + vRLNName + '!<\/strong> Not ' + vRLNName + '? <a href="/registration/login/login.cfm">Login or register on SPSS.com<\/a> or <a href="/registration/maintenance/killcookie02.cfm">log out.<\/a>');
-		if(vMYASSETS == 'True') {
-			document.write(" <a href='http://www.spss.com/my_assets'>My Assets Page</a>");
-		}
-		document.write('<\/p>');
+		document.write('<p><strong>Welcome,  ' + unescape(vRLNName) + '!<\/strong> Not ' + unescape(vRLNName) + '? <a href="/registration/login/login.cfm">Login or register on SPSS.com<\/a> or <a href="/registration/maintenance/killcookie02.cfm">log out.<\/a><\/p>'); 
+/*		document.write('<p><strong>Welcome, ' + unescape(vRLNName) + '!<\/strong> <a href="/registration/login/login.cfm">Not ' + unescape(vRLNName) + '? <\/a> or <a href="/registration/maintenance/killcookie02.cfm">log out.<\/a><\/p>');
+*/
 	}
 	else {
 		document.write('<p><strong>Welcome to SPSS.com.<\/strong> <a href="/registration/login/login.cfm">Click here to login or register on SPSS.com.<\/a><\/p>');
@@ -93,6 +87,7 @@ var nameEQ = name + "=";
 	<noscript>
 		<p><strong>Welcome to SPSS.com.</strong> <a href="/registration/login/login.cfm">Click here to login or register on SPSS.com.</a></p>
 	</noscript>
+
 </div>
 
 <div id="PageTitle"><h1><a name="PageStart">
