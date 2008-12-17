@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bttradespace.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211053354id_/http%3A//www.bttradespace.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bttradespace.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090818id_/http%3A//www.bttradespace.com/Privacy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy policy - BT Tradespace
 
 Who are we?
 
-Why do we have a Privacy Policy? 
+Why do we have a privacy policy? 
 
 What does this privacy policy cover? 
 
@@ -40,7 +40,7 @@ BT Websites Privacy and Security Policy
 
 We have developed this policy because we want you to feel confident about the privacy and security of your personal information 
 
-####  Who are we?
+###  Who are we?
 
 BT Group plc is the holding company for an integrated group of businesses that provides voice and data services in the UK and overseas. British Telecommunications plc is a wholly-owned subsidiary of BT Group plc and holds virtually all businesses and assets of the BT group. British Telecommunications plc has four lines of business (LOB) - BT Retail, BT Wholesale, BT Global Services and BT Exact.  
 BT Retail provides telephone lines to most people in the UK, as well as a wide range of communications products and services to the residential and business markets including mass market Internet access. BT Wholesale provides network services and solutions to communications companies. BT Global Services is BT´s business services and solutions division serving customers worldwide. BT Exact is BT´s research, technology and IT operations business. It offers expertise and experience in information and communications technology (ICT).  
@@ -51,7 +51,7 @@ Return to top
   
 
 
-####  Why do we have a Privacy Policy?
+###  Why do we have a privacy policy?
 
 We have developed this policy because we want you to feel confident about the privacy and security of your personal information. BT is registered under the data protection laws in the United Kingdom and takes all reasonable care to prevent any unauthorised access to your personal information.  
 When we refer to "personal information" in this privacy policy, we mean information, which identifies you as an individual, or is capable of doing so. Accordingly, we may hold and use data about you in your capacity as a consumer, a business customer, as an individual acting on behalf of a business customer, as a shareholder, or in any other capacity, for example, when you visit our websites.  
@@ -62,7 +62,7 @@ Return to top
   
 
 
-####  What does this privacy policy cover?
+###  What does this privacy policy cover?
 
 This privacy policy only applies to how BT deals with your personal information. It does not apply to any other company or to any other company´s websites even if you access them through BT. If you disclose your personal information to other companies your information will be dealt with according to their privacy practices. 
 
@@ -71,7 +71,7 @@ Return to top
   
 
 
-####  What personal information do we collect about you, and when do we collect it?
+###  What personal information do we collect about you, and when do we collect it?
 
 We may ask you for information to enable us to provide a service to you and we collect this information by telephone, written correspondence or via a website. We may ask you for information including your name, private/business address, contact telephone numbers and email address. We may also ask you for other information that relates to the service you are using or ordering. For example, we may need your credit card number to charge you for certain services. 
 
@@ -118,7 +118,7 @@ Return to top
   
 
 
-####  What personal information do we collect about you from other companies and organisations?
+###  What personal information do we collect about you from other companies and organisations?
 
   
 
@@ -139,7 +139,7 @@ Return to top
   
 
 
-####  Do we share your personal information with anyone else?
+###  Do we share your personal information with anyone else?
 
   
 
@@ -163,7 +163,7 @@ Return to top
   
 
 
-####  For how long does BT keep personal information?
+###  For how long does BT keep personal information?
 
 The time period for which we keep information varies according to what the information is used for. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed. 
 
@@ -172,7 +172,7 @@ Return to top
   
 
 
-####  How do we protect your data when it is transferred out of Europe?
+###  How do we protect your data when it is transferred out of Europe?
 
 Countries in the European Economic Area (EEA) are required to have a similar standard of protection of personal data but this is not always the case in countries outside of the EEA. We do sometimes transfer data outside the EEA but before doing so take steps to ensure that your data will be given adequate protection as required by the Data Protection Act. 
 
@@ -181,7 +181,7 @@ Return to top
   
 
 
-####  How can I find out what personal information BT holds about me?
+###  How can I find out what personal information BT holds about me?
 
 If you want specific information please tell us and give us any relevant information to enable us to locate the information about you because this will speed up our reply. We may be able to provide the specific information you want without you having to make a formal request.
 
@@ -194,7 +194,7 @@ Return to top
   
 
 
-####  How can I change the personal information BT holds about me?
+###  How can I change the personal information BT holds about me?
 
 If the information we hold about you is inaccurate, please let us know and we will make the necessary amendments and confirm that these have been made. 
 
@@ -203,7 +203,7 @@ Return to top
   
 
 
-####  How can I manage BT's contact with me for marketing purposes?
+###  How can I manage BT's contact with me for marketing purposes?
 
   
 
@@ -219,7 +219,7 @@ Return to top
   
 
 
-####  How do we protect your personal information?
+###  How do we protect your personal information?
 
   
 
@@ -233,7 +233,7 @@ Return to top
   
 
 
-####  How do you find out about changes to our privacy policy?
+###  How do you find out about changes to our privacy policy?
 
 We may change our privacy policy from time to time. New policies will be published on our web sites. 
 
@@ -242,7 +242,7 @@ Return to top
   
 
 
-####  Does BT´s privacy policy protect me when I use BT´s websites?
+###  Does BT´s privacy policy protect me when I use BT´s websites?
 
   
 
@@ -327,7 +327,7 @@ Return to top
   
 
 
-####  When do we use cookies?
+###  When do we use cookies?
 
   
 
@@ -373,7 +373,7 @@ Return to top
   
 
 
-####  How do you disable cookies?
+###  How do you disable cookies?
 
   
 
@@ -395,12 +395,9 @@ Return to top
   
 
 
-####  Are third party sites covered by this policy?
+###  Are third party sites covered by this policy?
 
 Third party Internet sites that you can link to from BT´s websites are not covered by our privacy policy, so we urge you to be careful when you enter any personal information online. BT accepts no responsibility or liability for these sites.  
 Other companies which advertise or offer their products or services on our website may also allocate cookies to your PC. The types of cookies they use and how they use the information generated by them will be governed by their own privacy policies and not ours. 
 
 Return to top[](http://www2.bt.com/btPortal/application?pageid=pan_privacy_policy&siteArea=pan&namespace=coexistence&BV_EngineID=cccgaddjifejdklcflgcefkdffndfkn.0&action=redirectLink&BV_SessionID=%40%40%40%401155469683.1165244634%40%40%40%40&BV_UseBVCookie=yes&targetLinkID=Sr_Privacy_Policy#mainMenu#mainMenu)
-
-  
-
