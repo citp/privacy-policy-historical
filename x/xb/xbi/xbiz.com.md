@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xbiz.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510151026id_/http%3A//xbiz.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbiz.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217042257id_/http%3A//www.xbiz.com/privacypolicy) for the most accurate reproduction.*
 
-# XBIZ - The Industry Source
+# XBIZ - The Adult Industry Source
 
 Information About Our Organization and Websites
 
@@ -57,14 +57,3 @@ There are no global or regional regulatory or self-regulatory schemes applicable
 Privacy Support
 
 If you have an inquiry or concern about our privacy policy, please [contact us](https://web.archive.org/contact). 
-
-POPULAR PRODUCTS & SERVICES 
-
-Submit your press release to  
-multiple news outlets with 1 click.
-
-Subscribe to RSS news feeds or  
-add free content to your website.
-
-Access XBIZ news and articles  
-with your mobile device.
