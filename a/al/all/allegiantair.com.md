@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allegiantair.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609094644id_/http%3A//www.allegiantair.com/aaPrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegiantair.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044553id_/http%3A//www.allegiantair.com/aaPrivacyPolicy.php) for the most accurate reproduction.*
 
 # Allegiant Air
 
