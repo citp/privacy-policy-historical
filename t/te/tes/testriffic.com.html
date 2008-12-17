@@ -1,75 +1,190 @@
-<!--The following is the downloaded HTML source of the testriffic.com privacy policy that was archived on 2008-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080602063940id_/http%3A//www.testriffic.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the testriffic.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217054355id_/http%3A//www.testriffic.com/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Create MySpace quizzes, fun surveys, polls, tests, personality quizzes. Make your own quiz for your blog, Facebook, Friendster, and more!">
+<meta name="keywords" content="myspace quizzes, quiz, quizzes, IQ quiz, personality quizzes, surveys, polls, myspace surveys, blog quizzes, blog polls">
 <link rel="stylesheet" type="text/css" href="/style/style.css"> 
 <script type="text/javascript" src="/include/scripts/sitejs.js"></script>
 <script src="http://cdn.gigya.com/wildfire/js/wfapi.js"></script>
 
+<script type="text/javascript">
+function make_blank() {
+  document.form1.q.value ="";
+  document.form2.q.value ="";
+}
+</script>
 
 <link rel="shortcut icon" href="/favicon.ico">
 
-<title>Testriffic | 
-	Info | Privacy Policy 
-</title>
+  <title>Testriffic | 
+    Info | Privacy Policy 
+  </title>
 
 </head>
+
  
 
-<body><div id="main">
-	
-	<div id="top">
+
+<body><div id="full">
+</div>
+
+
+<div id="top" style="background-image:url('');">
+
+    <div id="topMid">
+
+    <div id="search">
+      <form name="form1" action="/search/search.php" method="GET">
+      <table cellpadding="0" style="margin:0px;padding:0px;">
+        <tbody><tr>
+          <td>
+            <input type="text" name="s" size="19" value="Search" onclick="make_blank()">
+          </td>
+          <td>
+
+            <select name="t" class="select_search">
+              <option value="stories">Stories</option>
+              <option value="poems">Poems</option>
+              <option value="artwork">Artwork</option>
+              <option value="quizzes">Quizzes</option>
+            </select>
+
+          </td>
+          <td>
+            <input type="submit" class="subicon" value=""> 
+          </td>
+        </tr>
+      </tbody></table>
+      
+      </form>
+    </div>
+
 		<div id="logo">
-			<a href="/index.php"><img src="/images/logo13.png" border="0" height="70" alt="Testriffic Logo"></a>
-<span style="color:#999; position:absolute; left:110px;">
-Version 8 coming soon!!!!
-</span>
+			<a href="/index.php"><img style="margin-left:13px; margin-top:2px;" src="/images/logo20.gif" border="0" alt="Test and Quizzes Myspace"></a>
 		</div>
-		
-		<table id="nav">
-			<tbody><tr>
-			<td class="navLeftEnd"></td><td class="navCenter"><a href="/count.php?i=1" title="Home"> Home </a></td><td class="navRight"></td><td class="navLeft"></td><td class="navCenter"><a href="/count.php?i=2">
-				 &nbsp;&nbsp;&nbsp;&nbsp;Tests&nbsp;&nbsp;&nbsp;&nbsp;</a></td><td class="navRight"></td><td class="navLeft"></td><td class="navCenter"><a href="/count.php?i=3">Quiz Your Friends</a></td><td class="navRight"></td><td class="navLeft"></td><td class="navCenter"><a href="/count.php?i=4">Artwork</a></td><td class="navRight"></td><td class="navLeft"></td><td class="navCenter"><a href="/count.php?i=5">Jokes</a></td><td class="navRight"></td><td class="navLeft"></td><td class="navCenter"><a href="/count.php?i=6">Poems</a></td><td class="navRight"></td><td class="navLeft"></td><td class="navCenter"><a href="/count.php?i=7">Stories</a></td><td class="navRight"></td><td class="navLeft"></td><td class="navCenter"><a href="/count.php?i=8">Chat</a></td><td class="navRight"></td><td class="navLeft"></td><td class="navCenter"><a href="/count.php?i=9">Users</a></td><td class="navRight"></td> 
-			</tr>
-		</tbody></table>
-	
-	
-		
+
+
+<script type="text/javascript" src="/js/prototype.js"></script>
+<script type="text/javascript">
+
+var preloaded = new Array();
+function preload_images() {
+  for (var i = 0; i < arguments.length; i++){
+    preloaded[i] = document.createElement('img');
+    preloaded[i].setAttribute('src',arguments[i]);
+  };
+};
+
+preload_images(
+'/images/topnavcurleft.gif',
+'/images/topnavcurright.gif',
+'/images/topnavcurbg.gif',
+'/images/topnavleft.gif',
+'/images/topnavrig.gif',
+'/images/topnavcurbg.gif',
+'/images/topnavbg3.gif'
+);
+
+
+function activateMenuItem(e) {
+Event.observe(e, 'mouseover', function() {
+$(e).setStyle({background: 'url(/images/topnavcurleft.gif) no-repeat', color: '#fff'});
+$(e.parentNode).setStyle({background: 'url(/images/topnavcurright.gif) no-repeat top right'});
+$(e.parentNode.parentNode).setStyle({background: 'url(/images/topnavcurbg.gif) repeat-x top right'});
+});
+Event.observe(e, 'mouseout', function() {
+$(e).setStyle({background: 'url(/images/topnavleft.gif) no-repeat', color: '#1a6dca'});
+$(e.parentNode).setStyle({background: 'url(/images/topnavright.gif) no-repeat top right'});
+$(e.parentNode.parentNode).setStyle({background: 'url(/images/topnavbg3.gif) repeat-x top right'});
+});
+}
+
+Event.observe(window, 'load', function() {
+$$('.obser a').each(activateMenuItem);
+});
+</script>
+
+
+
+<div id="menu">
+  <table style="margin:0px;" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td class="none">
+        <div class="obser">
+        <a href="/tests">Tests &amp; Quizzes</a></div>
+      </td>
+      <td style="width:4px; background-image:none;"> </td>
+      <td class="none">
+        <div class="obser">
+        <a href="/socials/recent/all">Social</a></div>
+      </td>
+      <td style="width:4px; background-image:none;"> </td>
+      <td class="none">
+        <div class="obser">
+        <a href="/stories">Stories</a></div>
+      </td>
+      <td style="width:4px; background-image:none;"> </td>
+      <td class="none">
+        <div class="obser">
+        <a href="/artwork">&nbsp;&nbsp;&nbsp;Art&nbsp;&nbsp;&nbsp;</a></div>
+      </td>
+      <td style="width:5px; background-image:none;"> </td>
+      <td class="none">
+        <div class="obser">
+        <a href="/poems">Poems</a></div>
+      </td>
+      <td style="width:5px; background-image:none;"> </td>
+      <td class="none">
+        <div class="obser">
+        <a href="/jokes"> Comedy </a></div>
+      </td>
+  </tr>
+</tbody></table>
+</div>
+      
+
 		<div id="userLoginTop">
 			<form method="POST" action="/login/checkuser.php">
-				<table>
+				<table style="width:200px; height:80px;">
 					<tbody><tr>
 						<td>
-							<span>Email</span>
+							<span>Email:</span>
 						</td>
 						<td align="left">
 							<input type="text" class="standard" name="login_email" value="" size="12"> 
 						</td>
+
+            </tr>
+            <tr>
 						<td>
-							<span>Password</span>
+							<span>Password:</span>
 						</td>
 						<td>
-							<input type="password" class="standard" name="login_password" id="formFocus" size="10"> 
+							<input type="password" class="standard" name="login_password" id="formFocus" size="12"> 
 						</td>
 					</tr>
 					<tr>
-						<td colspan="4">
-							<div style="padding-left:150px;">
-								<a href="/login/createaccount.php">Sign Up</a> Or 
-								<input type="submit" class="loginHeader" value="" standard="Login"> 
+						<td colspan="4" style="">
+							<div class="login_left">
+								<a href="/login/createaccount.php">New User</a> Or 
+								<input type="submit" class="loginHeader" value="Login" standard="Login"> 
+                <br>
+                <br>
 							</div>
 						</td>
 					</tr>
 					
-						
-					
 				</tbody></table>
 			</form>
-		</div> 
-		
-		
+    </div> 
+	
+    
 	</div>
+	</div>
+
+<div id="main">
  
 
 <div id="content"> 
@@ -160,21 +275,31 @@ page was last changed
 
 <br><br>
 
-
 </div>
-<div id="footer">
-	<div id="footertext">
-		 
-		
-		
-	
-		<center>
-			<a href="/info/contact">Contact Us</a><span> | </span>
-			<a href="/info/privacy">Privacy</a><span> | </span>
-			<a href="/info/terms">Terms</a> | <a href="/info/contact">Advertise</a> | <a href="/info/disclaimer">Disclaimer</a>
-		</center>
-	</div>
-	
+
+<div style="border-top:5px #ccc solid; height:30px; background-color:#fff;">
+  <div id="footer">
+    <div style="position:absolute; left:18px; _top:5px;">
+      <a href="http://www.jospire.com"><img src="/images/jspire1.gif"></a>
+      <a href="http://www.jospire.com"><img style="margin-right:200px;" src="/images/jspire2.gif"></a>
+    </div>
+
+    <div style="position:absolute; top:1px; left:673px;">
+      <span style="margin-left:189px;"> © 2008 </span>
+    </div>
+
+    <div id="footertext">
+      <center>
+        <a href="/user/index.php">Top Users</a><span> | </span>
+        <a href="/info/contact">Contact Us</a><span> | </span>
+        <a href="/info/privacy">Privacy</a><span> | </span>
+        <a href="/info/terms">Terms</a><span> | </span>
+        <a href="/info/contact">Advertise</a><span> | </span>
+        <a href="/info/disclaimer">Disclaimer</a>
+      </center>
+    </div>
+  </div>
+
 </div>
 
 
@@ -184,7 +309,6 @@ page was last changed
 _uacct = "UA-306322-2";
 urchinTracker();
 </script>
-
 
 
 
