@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526025933id_/http%3A//www.jenjobs.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075427id_/http%3A//www.jenjobs.com/privacy.cfm) for the most accurate reproduction.*
 
 # JenJOBS.com
 
@@ -28,7 +28,7 @@ The Company is committed to respecting the privacy of the User. The Company stri
 
 14\. The Company retains indefinitely all Users' Personal Information collected via the Site. 
 
-15\. The Company may disclose User's Personal Information to third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending the User e-mail or otherwise communicating with the User. The Company uses data it has about the User to determine whether the User might be interested in the opportunities, products or services of a particular third-party. The Company has no control over these third parties' use of the User's Personal Information, and that use is not necessarily subject to the Company's Privacy Statement. 
+15\. The Company may disclose User's Personal Information to third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending the User e-mail, short message service (sms) messages or otherwise communicating with the User. The Company uses data it has about the User to determine whether the User might be interested in the opportunities, products or services of a particular third-party. The Company has no control over these third parties' use of the User's Personal Information, and that use is not necessarily subject to the Company's Privacy Statement. 
 
 16\. The Company may disclose User's Personal Information to companies and individuals the Company employs to perform functions on its behalf. Examples include hosting the Company's web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to the User's Personal Information as necessary to perform their functions. The Company has no control over these third parties' use of the User's Personal Information, and that use is not necessarily subject to the Company's Privacy Statement. 
 
