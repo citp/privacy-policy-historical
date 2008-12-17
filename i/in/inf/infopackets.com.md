@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609040306id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217121652id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy / Infopackets.com
 
 Infopackets.com is a free online publication which delivers original, fresh, daily news content based on MS Windows, Internet, and technology trends. If you subscribe to our email newsletter, you can be assured that:
 
-  1. Your email address will never be sold, or rented to a third party.
-  2. You can unsubscribe at any time.
-  3. Your email address will be kept safe and secure.
+  1. Your email address will never be sold, or rented to a third party.  
+ 
+  2. You can [unsubscribe](http://infopackets.com/unsubscribe.htm) at any time.  
+ 
+  3. Your email address will be kept safe and secure.  
+ 
   4. You will never receive advertisements or offers that are not otherwise prudent to our discussions (such as a software review).
 
 
 
 All newsletter-based emails will always contain unsubscribe information at the very bottom of the page. To change or remove your email address, you can also visit this URL:
 
-<http://infopackets.com/remove.htm>
-
-**Furthermore:** You'll also be pleased to know that we don't use cookies on our web site to track visitors, and we don't use annoying pop up ads on our web site.
+[ http://infopackets.com/unsubscribe.htm](http://infopackets.com/unsubscribe.htm)
 
 * * *
 
@@ -52,7 +53,7 @@ Accessing and updating information:
 Unsubscribing:
     Each email newsletter has instructions on how to unsubscribe. You can also unsubscribe or change your email address by visiting the link below:
 
-<http://infopackets.com/remove.htm>
+[ http://infopackets.com/unsubscribe.htm](http://infopackets.com/unsubscribe.htm)
 
 Online Forums and Email Submissions:
     Infopackets.com forums are public; emails may be shared with others in our newsletter but your personal information will be kept private. Please consider this before posting.
@@ -61,4 +62,6 @@ Policy updates:
 
 * * *
 
-[](http://www.infopackets.com/articles/spyware+doctor.htm)
+[ ](http://www.infopackets.com/news/software/reviews/2007/20070510_registrybooster_review.htm)
+
+[ ](http://www.infopackets.com/news/software/reviews/2007/20070403_speedupmypc_3_0_review.htm)
