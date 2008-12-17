@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612060036id_/http%3A//www.freeflys.com/privacy.php%3Fpup%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081248id_/http%3A//www.freeflys.com/privacy.php%3Fpup%3D1) for the most accurate reproduction.*
 
 # FreeFly's - Privacy
 
