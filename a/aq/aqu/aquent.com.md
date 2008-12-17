@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the aquent.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510143957id_/http%3A//www.aquent.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquent.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101303id_/http%3A//www.aquent.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Aquent :: Privacy Policy
 
 |   |  |  | 
 
-_Last Updated: December 3, 2004_
+_Last Updated: July 10, 2008_
 
 Aquent is committed to safeguarding the privacy of the Users of its Web site. This Privacy Policy sets forth Aquent’s policies regarding the collection and treatment of personally identifiable information. 
 
 “Site” refers to this Internet Web site ([www.Aquent.com](http://www.aquent.com/)) and other Aquent Web sites linked to this Site. The Site acts as a venue for delivery of Aquent applications (listed here by way of example only) for 1) individuals currently working with Aquent (i.e., “active Users”) to interact with Aquent’s database and enter timecards, create and manage their Aquent Profiles, check benefits information, view schedules and assignment information, and process other information; 2) Aquent to process orders, send newsletters, perform customer service; qualify candidates for possible employment; 3) Aquent’s clients to search portfolios, run financial reports, sign timecards; and 4) members of the public to receive marketing campaigns and inquiries. 
 
-|  What personally identifiable information is collected on the Site?   
+| What personally identifiable information is collected on the Site?   
 ---  
 |  In the course of its registration process, Aquent collects certain personally identifiable information. Personally identifiable information is information that can be traced back to a single User. Names, physical addresses, and e-mail addresses are examples of personally identifiable information.
 
@@ -22,7 +22,7 @@ How is the information collected and maintained?
 This Site and all information collected through this Site is collected, stored, and processed in the United States . If Users are located outside of the United States, User information will be transferred to the United States and to countries in such other regions where the User indicated he/she would like to be considered for an assignment.   
   
 How can Users Opt Out?  
-|  Users have access to their individual information and may update or correct it at any time. Users may “opt out” of having their personally identifiable information used in Aquent promotions in the following ways: (1) by terminating their registration with the Site by e-mailing [ privacy@aquent.com](mailto:privacy@aquent.com); (2) by calling 877-754-5526; or (3) by unsubscribing on the Preference Page at [ http://www.aquent.com/marketing/unsubscribe.html](http://www.aquent.com/marketing/unsubscribe.html).   
+|  Users have access to their individual information and may update or correct it at any time. Users may “opt out” of having their personally identifiable information used in Aquent promotions in the following ways: (1) by terminating their registration with the Site by e-mailing [ privacy@aquent.com](mailto:privacy@aquent.com); (2) by calling 877-754-5526; or (3) by unsubscribing [unsubscribe@aquent.com](mailto:unsubscribe@aquent.com).   
 Will Aquent use personally identifiable information to contact Users?   
 |  From time to time, Aquent will send Site and service announcement updates to Users by e-mail. Active Users may unsubscribe from marketing and promotional e-mails, but they may not unsubscribe from service announcements, which contain important information about the Site and service. In addition, Aquent may request individuals to complete questionnaires or surveys regarding their use of the Site to be used by Aquent solely to gather information to assist it in improving Aquent’s services or the navigation features and functionality of the Site. Participation in such surveys is voluntary.   
 Is the information shared and/or transferred?   
