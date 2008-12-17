@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polarbearsinternational.org privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624035942id_/http%3A//www.polarbearsinternational.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarbearsinternational.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143640id_/http%3A//www.polarbearsinternational.org/privacy-policy) for the most accurate reproduction.*
 
 # Polar Bears International - Privacy Policy
 
@@ -37,3 +37,6 @@ Should Polar Bears International institute a web-based public bulletin board and
 
   
 Polar Bears International collects no information regarding the age of web site users or organization members.
+
+  
+We provide our members and supporters with a secure experience when they are ordering memberships, making a donation, or buying nature education merchandise. Any credit card information you enter on our site is strongly encrypted by industry-standard protocol, SSL (Secure Sockets Layer). We take appropriate precautions to protect the security and privacy of the information stored on our computer networks. Many of the systems which store your personal information are not connected to the Internet, reducing the likelihood of security breaches. Our systems are also housed in secure facilities, and access to your data by our employees is limited to a "need to know" basis, controlled by password protected systems, and monitored for abuse.
