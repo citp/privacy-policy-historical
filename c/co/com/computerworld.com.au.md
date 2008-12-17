@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the computerworld.com.au privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429204955id_/http%3A//www.computerworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerworld.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217173204id_/http%3A//www.computerworld.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Computerworld
+# Computerworld - Privacy Policy
 
 **Privacy Statement for IDG Communications Pty Ltd**
 
@@ -18,7 +18,7 @@ We are committed to notify you of the following:
 
 If you have questions or concerns regarding this statement, please contact:
 
-> Shirley Ingram  
+> Cheryl Podda  
 >  IDG Communications Pty Ltd  
 >  88 Christie Street  
 >  St Leonards NSW 2065  
@@ -39,7 +39,7 @@ IDG offers optional services that require registration. IDG provides some of tho
 
 **How do I access my personal information?**
 
-You may update the information stored in your profile at any time while online by visiting <http://www.computerworld.com.au/user>. You will be prompted for your username and password in order to access your profile. If you have questions, you may also contact IDG customer service by sending an email to [privacy@idg.com.au](mailto:privacy@idg.com.au)
+You may update the information stored in your profile at any time while online by visiting <http://www.idg.com.au/user>. You will be prompted for your username and password in order to access your profile. If you have questions, you may also contact IDG customer service by sending an email to [privacy@idg.com.au](mailto:privacy@idg.com.au)
 
 **How do I control my personal information?**
 
@@ -71,7 +71,7 @@ IDG Communications provides the following statement at registration:
 
 By default, this box is checked. Users who opt NOT to receive communication from IDG should uncheck this box. Users can also remove their personal information from IDG's database in three ways:
 
-  * Updating your personal profile and service selections by visiting <http://www.computerworld.com.au/user>
+  * Updating your personal profile and service selections by visiting <http://www.idg.com.au/user>
   * Sending a request via email to [privacy@idg.com.au](mailto:privacy@idg.com.au)
   * Or phoning +61 2 9902 2707
 
