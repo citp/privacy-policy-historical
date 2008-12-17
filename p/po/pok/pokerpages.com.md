@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerpages.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511171540id_/http%3A//www.pokerpages.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerpages.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064120id_/http%3A//www.pokerpages.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Poker Pages - Poker Articles, Tournaments, & Directory
 
@@ -72,9 +72,9 @@ PokerPages is committed to respecting your choices regarding privacy.
 
 Blog Coverage
 
-[ ](http://news.pokerpages.com/index.php?option=com_simpleblog&task=userView&userid=122)
+[ ](http://news.pokerpages.com/index.php?option=com_simpleblog&task=userView&userid=128)
 
-Sat, May 10, 2008 - 08:51pm CDT
+Mon, Dec 08, 2008 - 12:17pm CST
 
 Top News
 
