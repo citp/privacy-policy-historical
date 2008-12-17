@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611161356id_/http%3A//www.rocklandtrust.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217140132id_/http%3A//www.rocklandtrust.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Welcome to Rockland Trust
 
@@ -22,7 +22,19 @@ In the normal course of business we receive information about you ("Your Informa
 **Your Information**  
 We use Your Information to protect you by, for example, confirming your identity at the time of a transaction. We may also use Your Information to serve you better by identifying products or services that may be of interest to you. As a consequence, we may disclose all of Your Information, as described above, to service providers that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.
 
-We do not otherwise disclose Your Information, or nonpublic information about our former customers, to anyone, except as required or permitted by law, such as when responding to a subpoena or other court order, complying with regulatory requests, or providing information to consumer reporting agencies.
+We may also share your information with our corporate affiliate, Compass Exchange Advisors LLC in order to advise you about their services. Federal law gives you the right to limit marketing from Rockland Trust and/or Compass Exchange. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from Rockland Trust and/or Compass Exchange. You may limit Compass Exchange from marketing their services to you based on your personal information that they receive from Rockland Trust Company. This information may include your income, your account history, and your credit score. You may similarly limit marketing to you from Rockland Trust Company that is based on your personal information that is received from Compass Exchange. 
+
+Your choice to limit marketing offers from Rockland Trust Company and/or Compass Exchange will apply until you tell us to change your choice. If you have already made a choice to limit marketing offers from Rockland Trust Company and/or Compass Exchange you do not need to act again unless you wish to alter that choice. 
+
+To limit marketing offers, contact us:  
+By telephone: 800.222.2299  
+By mail: Rockland Trust  
+Attn: Marketing Dept.  
+288 Union Street  
+Rockland, MA 02370  
+
+
+We do not otherwise disclose your information, or nonpublic information about our former customers, to anyone, except as required or permitted by law, such as when responding to a subpoena or other court order, complying with regulatory requests, or providing information to consumer reporting agencies.
 
 **Protect Your Privacy**  
 We restrict access to Your Information to only those employees who need it to provide products or services to you. All of our employees must adhere to strict policies designed to prevent any misuse of Your Information. We maintain physical, electronic, and procedural safeguards to guard Your Information.
@@ -117,6 +129,6 @@ DMA Telephone Preference Service
 P.O.Box 9014  
 Farmingdale, NY 11735-9014 
 
-For more information visit: [www.the-dma.org](https://web.archive.org/web/20080611161356id_/http%3A//www.rocklandtrust.com/pop/Disclaimer.aspx?url=http://www.the-dma.org/).
+For more information visit: [www.the-dma.org](https://web.archive.org/web/20081217140132id_/http%3A//www.rocklandtrust.com/pop/Disclaimer.aspx?url=http://www.the-dma.org/).
 
 :: Top of the page ::
