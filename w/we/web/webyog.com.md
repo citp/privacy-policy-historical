@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214075917id_/http%3A//www.webyog.com/en/webyog_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040918id_/http%3A//www.webyog.com/en/webyog_privacy_policy.php) for the most accurate reproduction.*
 
-# MySQL GUI Tools, MySQL Monitor, MySQL Manager, MySQL Performance Tuning and Optimization
-
-Privacy Policy
+# Webyog Privacy Policy
 
 Your privacy is important to us.
 
@@ -18,13 +16,13 @@ In addition to collecting General Statistical Information, we may ask you to pro
 
 For example, if you choose a service or transaction that requires payment, such as making a purchase online or through other means such as a purchase order, we will request Personal Identifying Information necessary for payment, invoicing, and/or shipping.
 
-In addition, when you purchase a SQLyog software product, we will also ask for product registration information, which includes the name of the product acquired, as well as your name, street address, and e-mail address. This Personal Identifying Information is kept on file and updated from time to time to fulfill our continuing obligations to you, such as providing notices of new versions and giving support by e-mail.
+In addition, when you purchase a software product, we will also ask for product registration information, which includes the name of the product acquired, as well as your name, street address, and e-mail address. This Personal Identifying Information is kept on file and updated from time to time to fulfill our continuing obligations to you, such as providing notices of new versions and giving support by e-mail.
 
-When you visit our web pages by clicking on a link in the SQLyog software and choose to purchase a license, we gather certain Personal Identifying Information to facilitate your purchase and usage statistics to analyze, on a collective basis, how and the extent to which certain parts of the SQLyog is used.
+When you visit our web pages by clicking on a link in our software and choose to purchase a license, we gather certain Personal Identifying Information to facilitate your purchase and usage statistics to analyze, on a collective basis, how and the extent to which certain parts of the our software is used.
 
 When you provide us Personal Identifying Information in an e-mail, fax or by telephone such as when you request technical and other types of support, we use the information to locate your records and provide you with answers to your questions.
 
-Also, when you submit information to us in the context of a technical support inquiry, including sending the SQLyog error log files, sample data to reproduce the error, Personal Identifying Information may be attached to the information submitted.
+Also, when you submit information to us in the context of a technical support inquiry, including sending the error log files, sample data to reproduce the error, Personal Identifying Information may be attached to the information submitted.
 
 Please note that you should be aware that the transmitting of the error logs or sample data or other attachments may include confidential information which should be removed prior to the transmittal as we do not accept responsibility for the inadvertent subsequent disclosure of such confidential information. When you ask to be placed on one of our mailing lists, we will use your e-mail address to send you messages relevant to that list.
 
@@ -34,7 +32,7 @@ We may disclose your Personal Identifying Information to appropriate third parti
 
 1\. Comply with legal processes such as a search warrant, subpoena, or court order;  
 2\. Protect our rights and property; or  
-3\. Protect against misuse or unauthorized use of our web site and/or SQLyog software products.
+3\. Protect against misuse or unauthorized use of our web site and/or our software products.
 
 We never loan, rent or sell your Personal Identifying Information to others.
 
@@ -46,7 +44,7 @@ In addition, we may use temporary session cookies to track your progress through
 
 **Third Party Web Sites**
 
-The Webyog web site may contain links to third-party web sites over which we have no control or responsibility regarding content, privacy policies, or practices. We suggest that you review the privacy policy applicable to any third party site that you visit. This privacy policy applies only to our own web site at [www.webyog.com](http://www.webyog.com/). Please note that all on-line and telephone credit card orders for SQLyog software products may be processed by a third party.
+The Webyog web site may contain links to third-party web sites over which we have no control or responsibility regarding content, privacy policies, or practices. We suggest that you review the privacy policy applicable to any third party site that you visit. This privacy policy applies only to our own web site at [www.webyog.com](http://www.webyog.com/) . Please note that all on-line and telephone credit card orders for our software products may be processed by a third party.
 
 **Web Site Security**
 
@@ -56,4 +54,4 @@ Our web site utilizes industry standard security technology to protect the secur
 
 Webyog may amend this policy at any time by posting the amended terms on our web site. All amended terms will be automatically effective without further notice, 10 days after they are first posted.
 
-You may contact us with your comments on Webyog's privacy policy at: <http://www.webyog.com/support/ttx.cgi>[.](http://www.webyog.com/support/ttx.cgi)
+You may contact us with your comments on Webyog's privacy policy at: [http://www.webyog.com/support](http://www.webyog.com/support/ttx.cgi)[.](http://www.webyog.com/support/ttx.cgi)
