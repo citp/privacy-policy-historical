@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ok-magazine.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412050201id_/http%3A//ok-magazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ok-magazine.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133615id_/http%3A//www3.ok-magazine.com/privacy) for the most accurate reproduction.*
 
 # OK! Magazine - Privacy
 
 ## PRIVACY POLICY
 
-This Privacy Policy discloses the privacy practices for okmagazine.com. For the purposes of this Privacy Policy, unless otherwise noted, all references to �OK!� include okmagazine.com and Northern & Shell North America Limited. Capitalized terms not defined herein shall have the meaning assigned to them in the okmagazine.com Terms and Conditions of Use. 
+This Privacy Policy discloses the privacy practices for okmagazine.com. For the purposes of this Privacy Policy, unless otherwise noted, all references to "OK!" include okmagazine.com and Northern & Shell North America Limited. Capitalized terms not defined herein shall have the meaning assigned to them in the okmagazine.com Terms and Conditions of Use. 
 
 OK! is committed to your right to privacy and will use your data only as set forth in our Privacy Policy below. Please read this information carefully. By using the Site you agree to our collecting and using your personal information as described below. 
 
@@ -56,7 +56,7 @@ OK! logs non-personally-identifiable information, including IP address, profile 
 
 Non-personally-identifiable data is used to manage the website, track usage and improve the website services. This information may be shared with third-parties, for purposes including providing more relevant services and advertisements to members. User IP addresses are also recorded for security and monitoring purposes. 
 
-You may also be issued with a Cookie or other tracking device from our advertisers. Advertisers� use of Cookies is subject to their own privacy policies, which may differ from the OK! Privacy Policy. 
+You may also be issued with a Cookie or other tracking device from our advertisers. Advertisers' use of Cookies is subject to their own privacy policies, which may differ from the OK! Privacy Policy. 
 
 Other Uses 
 
@@ -64,7 +64,7 @@ Except as otherwise described in this Privacy Policy, OK! will not disclose pers
 
 OK! reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of OK! or substantially all of its assets to that successor in interest. 
 
-Children�s Guidelines 
+Children's Guidelines 
 
 OK! does not knowingly collect or store any information, even in aggregate, about children under the age of 13. 
 
@@ -84,7 +84,7 @@ You may prevent My OK! email invitations and other messages from being sent to a
 
 How Is My Information Protected? 
 
-Users� accounts are secured by user-created passwords. OK! takes precautions to ensure that user account information is kept private. We use reasonable measures to protect user information that is stored within our database. 
+Users' accounts are secured by user-created passwords. OK! takes precautions to ensure that user account information is kept private. We use reasonable measures to protect user information that is stored within our database. 
 
 PLEASE NOTE THAT OK! CANNOT GUARANTEE THE SECURITY OF YOUR ACCOUNT INFORMATION. UNAUTHORIZED ENTRY OR USE, HARDWARE OR SOFTWARE FAILURE, AND OTHER FACTORS MAY COMPROMISE THE SECURITY OF MEMBER INFORMATION AT ANY TIME. 
 
