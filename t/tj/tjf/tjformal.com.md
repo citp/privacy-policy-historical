@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tjformal.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524202643id_/http%3A//www.tjformal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjformal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217174238id_/http%3A//www.tjformal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ Joplin, MO 64804
 
 #### Prom Hair Styles
 
-A great prom hair style is so important for your prom look! To make sure you look your absolute best on your big night be sure to plan ahead. It's a good idea to practice your prom hair updo several weeks before your prom to see how long it will take, what items you will need, and if it's really the style for you and your dress. If you're having your hair done at a salon, make an appointment well in advance and take along a picture to show your stylist exactly what you want. Your prom pics will be great and you'll have more fun as you dance the night away.
+The perfect hairstyle completes your perfect look for prom. Look at our website, or through magazines to find styles that would work with your hair and your dress. Practice your hairstyle several times before the special event to see how long it will take and to ensure you have all the right supplies and equipment to make it work. Make sure you feel comfortable and beautiful in your selected hairstyle. If you are having it done for you, be sure to take along the photo so the stylist knows what your vision is of your total look. On your special night, you’ll look terrific, so don’t forget to smile pretty for all those photos!
 
 #### Dressing Your Maids
 
@@ -42,7 +42,7 @@ The first step to choosing a bridesmaid gown is to determine the formality, styl
 
 #### How to Shop for Your Dress
 
-Start shopping early. Try on lots of different styles to narrow your choices. Formal dresses run about one size smaller than your regular clothes. Take the salesperson's suggestions about what styles and colors look good on you. Let them help you try on the dresses to save you time. Alterations are important for a perfect fit. Allow plenty of time for alterations and fittings. Bring the shoes you will be wearing to your appt. Buy your jewelry, shoes and other accessories at the time of the dress purchase. Have a great time at your formal event!
+Many dresses sell out during prom season so for best selection – shop early! Try on different styles to discover your favorite look. Or if you are ordering online, take accurate measurements to get the best fit as formal dresses usually run small. Alterations are important for a perfect fit so don’t be discouraged if your dress doesn’t fit you perfectly but purchase your dress as early as possible to allow time for alterations and fittings. Buy your jewelry, shoes and other accessories at the same time to make things easier. After you are all done with shopping you can relax and dream of your big night! Have a great time!
 
   
 
