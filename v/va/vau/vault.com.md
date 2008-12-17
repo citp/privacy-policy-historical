@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511225102id_/http%3A//www.vault.com/admin2/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217132645id_/http%3A//www.vault.com/admin2/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Vault, Inc: Privacy Policy
 
@@ -18,7 +18,7 @@ Vault's Services include banner advertising that links to third-party sites. Ple
 
 Vault also uses third-party advertising companies that are part of the Network Advertising Initiative ("NAI") network and who employ cookie and 1x1 pixel .gif technology to measure ane improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our web site and other web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. 
 
-If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/output_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies. 
+If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/managing/opt_out.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies. 
 
 **II. Third-party partners**  
 Additionally, the Services contain links to other third party Web sites, including co-branded or other affiliated sites which may or may not be owned or operated by or in conjunction with Vault. You acknowledge that we do not monitor or control the information collection or privacy practices of any third parties, and are not responsible for their practices or the content of their web sites, including their use of any information (such as IP number, browser type, or operating system) collected when visitors or Members "click through" links to their sites or view advertisements served by them. Even though certain information collected by such third parties might not identify you personally, we strongly encourage you to become familiar with their privacy practices, and to contact such third parties if you have any questions about their respective privacy policies.
@@ -33,12 +33,12 @@ For certain opt-in services, user information is sent to third parties. These se
 
   * Contact information is sent to featured vendors as a user requests. View the [list of featured vendors](https://web.archive.org/admin2/bgclientlist.jsp).  
 
-  * Job description information, (industry, location, nature of job, etc.), and contact information (e-mail or fax required, other contact information optional) are sent to job posting media or "one-click vendors" through our the Vault 1-Click Job Posting system as a user requests. View the [list of one-click vendors](https://web.archive.org/admin2/1clickvendors.jsp).
+  * Job description information, (industry, location, nature of job, etc.), and contact information (e-mail or fax required, other contact information optional) are sent to job posting media as a user requests.
 
 **III. How we use (and do not use) the information we gather**  
 Please take some time to familiarize yourself with the different ways we use the information we gather. Keep in mind that, while Vault encourages all third parties involved - including but not limited to its advertisers - to adhere to our policies regarding the privacy of our visitors and Members and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from Vault or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with Vault, who you feel is improperly collecting or using information about you, please contact [feedback@staff.vault.com](mailto:feedback@staff.vault.com).
 
-**(a) Choice/Opt-Out.** Vault provides you the opportunity to opt-out of receiving most communications from Vault, and/or its affiliates, advertisers, and other business partners at the point where we request information about the visitor. You have the option to remove your information from our database and to not receive future communications or to no longer receive our service. We also give you the option to change or modify the information previously provided. To exercise any of the foregoing options:
+**(a) Choice/Opt-Out.** Vault provides you the opportunity to opt-out of receiving most communications from Vault, and/or its affiliates, advertisers, and other business partners from your Vault Member Home Page. You have the option to remove your information from our database and to not receive future communications or to no longer receive our service. We also give you the option to change or modify the information previously provided. To exercise any of the foregoing options:
 
   1. You can send e-mail to [webmaster@staff.vault.com](mailto:webmaster@staff.vault.com)   
 
@@ -95,15 +95,12 @@ Users may opt to fill out a job seeking profile to have jobs e-mailed to them. T
 7) Vault surveys  
 Users who opt to fill out our surveys are asked for varied information depending on the survey.
 
-8) Vault 1-click Job Posting   
-Users who utilize our 1-click job posting service must fill out billing information (either credit card or invoice information).
-
-9) Free product information  
+8) Free product information  
 Users who request to receive information from the vendors listed in our free product information area are asked for contact information that is sent to the vendors, including e-mail and mailing address.
 
-10) Throughout the web site, including message board postings, we collect your IP address.
+9) Throughout the web site, including message board postings, we collect your IP address.
 
-11) When signing up for the Vault Campus Club you must provide additional profile information. Vault will never share, rent or sell this information but will use it to customize your experience including sending you emails on behalf of companies that have jobs or opportunities that match your profile. This profile information may be modified by you at any time in your Member Home on the Vault.com website.
+10) When signing up for the Vault Campus Club you must provide additional profile information. Vault will never share, rent or sell this information but will use it to customize your experience including sending you emails on behalf of companies that have jobs or opportunities that match your profile. This profile information may be modified by you at any time in your Member Home on the Vault.com website.
 
 **V. Surveys and Sweepstakes**  
 Occasionally, Vault may conduct surveys in order to better deliver advertisements and content and to better understand your needs relating to the Services. We will not share your survey information with any third party, except in aggregate form. In addition, if and when we sponsor sweepstakes or other promotions, or third parties sponsor such promotions in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the sweepstakes or promotion. That privacy information, to the extent it conflicts with this Policy, will govern that particular promotion or sweepstakes - please remember to read it carefully. These surveys and sweepstakes are always optional.
@@ -126,7 +123,7 @@ Opt-in subscription services. These include e-mailed newsletters, e-mailed job p
 
   * E-mailed reminders as job listings that a user has posted are about to expire.  
 
-  * E-mailed confirmations about orders users have placed on our site through either our bookstore or the Vault 1-Click Job Posting system.  
+  * E-mailed confirmations about orders users have placed on our site through our bookstore.  
 
   * Occasional e-mails to be informed of changes and new features at Vault  
 
