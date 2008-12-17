@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dropsend.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516084825id_/http%3A//dropsend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropsend.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041250id_/http%3A//www.dropsend.com/privacy.php) for the most accurate reproduction.*
 
 # DropSend - Email big files and send big files
 
-* Carsonified is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK.
+* DropSend is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK.
 
 The purpose of this statement is to explain to you what personal information we collect and how we may use it.
 
@@ -14,7 +14,7 @@ We will only contact you with your consent.
 
 * We do not sell, rent or exchange your personal information with any third party for commercial reasons, beyond the essential requirement for credit/debit card validation during purchase.
 
-* We follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access in accordance with the UK data protection legislation.
+* We follow strict security procedures in the storage and disclosure of information which you have given us, to prevent DropSend access in accordance with the UK data protection legislation.
 
 We do not collect sensitive information about you except when you specifically knowingly provide it. In order to maintain the accuracy of our database, you can check, update or remove your personal details by contacting us at [happytohelp@dropsend.com](mailto:happytohelp@dropsend.com).
 
