@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the zapak.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231202608id_/http%3A//www.zapak.com/privacypolicy.zpk%3Fpid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapak.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050057id_/http%3A//www.zapak.com/privacypolicy.zpk%3Fpid%3D4) for the most accurate reproduction.*
 
 # Privacy Policy | Zapak.com - Free online Games, Downloadable Games and more
 
-Zapak Digital Entertainment Limited (Zapak) is the Portal Business venture of Reliance Anil Dhirubhai Ambani Group, located at [**www.zapak.com**](https://web.archive.org/) and powers / manages various Online Games which are linked to various internet sites and community boards and services hereinafter collectively referred to as Zapak.
+Zapak Digital Entertainment Limited (Zapak) is the Portal Business venture of Reliance Anil Dhirubhai Ambani Group, located at [**www.zapak.com**](http://www.zapak.com/) and powers / manages various Online Games which are linked to various internet sites and community boards and services hereinafter collectively referred to as Zapak.
 
 Zapak respects the privacy of it's users and is committed to protect it in all respects.
 
-With a view to offer most enriching and holistic internet experience to it's users Zapak offers a vast repository of Online Sites and variety of community services. Kindly take time to read 'About Us' to know more about Zapak at [**About Us**](https://web.archive.org/aboutus.zpk?pid=1). Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf Zapak's online games. The information about the user is collected by Zapak as (i) information supplied by users and (ii) information automatically tracked while User's navigation on the Zapak website.
+With a view to offer most enriching and holistic internet experience to it's users Zapak offers a vast repository of Online Sites and variety of community services. Kindly take time to read 'About Us' to know more about Zapak at About Us. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf Zapak's online games. The information about the user is collected by Zapak as (i) information supplied by users and (ii) information automatically tracked while User's navigation on the Zapak website.
 
 To avail certain sites / services on our websites, users would be required to provide certain information for the registration process namely:
 
-> a) Zapak ID,  
->  b) Password,  
->  c) Email address 
+a) Zapak ID,  
+b) Password,  
+c) Email address 
 
 All required information is specific and based on the kind of Game/ Service needed. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly Game experience. In some sites as in Casual Game Contests, we require your contact addresses.
 
@@ -28,9 +28,11 @@ All information gathered on Zapak is securely stored within Zapak-controlled dat
 
 Zapak also believes that the internet is an ever-evolving medium. We may periodically review from time to time and change our privacy policy to incorporate such future changes as may be considered appropriate. Our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
 
-We use third-party advertisers to serve ads when you visit our Web sites. These advertisers may use information (excluding your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services which might interest you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.advertising.com/Privacy.html):
+We use third-party advertisers to serve ads when you visit our Web sites. These advertisers may use information (excluding your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services which might interest you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:
 
-Any questions or clarifications with respect to this Policy can be sent to Zapak at: **[legal@zapak-corp.com](mailto:legal@zapak-corp.com)** or by normal/physical mail addressed to:
+Several deceptive emails, websites, blogs etc. claiming to be from or associated with the Zapak Internet Sites may or are circulating on the Internet. These emails, websites, blogs etc. often include our logo, photos, links, content or other information from any of Zapak Internet Sites. Some emails, websites, blogs etc. call the user to provide login name, password etc. or that the user has won a prize/ gift or provide a method to commit illegal/ unauthorised act or deed or request detailed personal information or a payment of some kind. The sources and contents of these emails, websites, blogs etc. and accompanying materials are in no way associated with the Zapak Internet Sites. For your own protection, we strongly recommend not responding to emails or using websites, blogs etc. 
+
+Any questions or clarifications with respect to this Policy can be sent to Zapak at: legal@zapak-corp.com or by normal/physical mail addressed to:
 
 **Mr. Zameer Nathani  
 Corporate Law Department  
@@ -38,5 +40,5 @@ Zapak Digital Entertainment Limited
 Level 4, 401, Infiniti,  
 Andheri West,  
 Mumbai 400 050, India,  
-Email: [legal@zapak-corp.com](mailto:legal@zapak-corp.com)  
-**
+Email: legal@zapak-corp.com**  
+
