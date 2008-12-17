@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vantagewire.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511004057id_/http%3A//www.vantagewire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vantagewire.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081459id_/http%3A//www.vantagewire.com%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # VantageWire - Free Real-time Stock Quotes for TSX, TSX-V, NYSE, Nasdaq, Amex and OTCBB - Privacy Policy
 
@@ -83,9 +83,9 @@ You may correct or update any information previously provided to us by visiting 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact our head office at:
 
 Vantage Communications Ltd.  
-Suite 550 - 409 Granville Street  
+Suite 510 - 1199 West Pender Street  
 Vancouver, British Columbia  
-Canada V6C 1T2  
+Canada V6E 2R1  
 [support@vantagewire.com](mailto:support@vantagewire.com)
 
 **Additional Information**
