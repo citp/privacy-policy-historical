@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgadmin.org privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611151427id_/http%3A//www.pgadmin.org/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgadmin.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102221id_/http%3A//www.pgadmin.org/privacypolicy.php) for the most accurate reproduction.*
 
 # pgAdmin III: Privacy policy
 
