@@ -1,33 +1,33 @@
-> *The following text is extracted and transformed from the gaytubelive.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522021007id_/http%3A//www.streamate.com/docs.php%3Fdoc%3Dprivacy%26ald%3Dd3d3LnN0cmVhbWF0ZS5jb20%25253D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaytubelive.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080502id_/http%3A//gaytubelive.com/docs.php%3Fdoc%3Dprivacy%26) for the most accurate reproduction.*
 
-# Streamate - Privacy Policy
+# GayTubeLive - Privacy Policy
 
-**Welcome!**   Fri, Jan 31, 7:31 PM   
+**Welcome!**   Wed, Dec 17, 8:04 am  
   
 | 
 
-|     
+﻿ |     
 ---  
 **Your Acceptance**  
 |   |  By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.  |    
 ---|---|---  
 **Overview**  
-|   |  Streamate respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use Streamate, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the Streamate website. |    
+|   |  GayTubeLive respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use GayTubeLive, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the GayTubeLive website. |    
 ---|---|---  
 **Personal Identifying Information**  
 |   | 
 
-Streamate will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily. 
+GayTubeLive will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily. 
 
 If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files. 
 
-When you do provide us with personal identifying information, such information will be gathered solely by Streamate, and is for use solely by Streamate. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services. 
+When you do provide us with personal identifying information, such information will be gathered solely by GayTubeLive, and is for use solely by GayTubeLive. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services. 
 
-Streamate may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings. 
+GayTubeLive may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings. 
 
-Streamate may request personal identifying information on specific pages that allow users to contact Streamate. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response. 
+GayTubeLive may request personal identifying information on specific pages that allow users to contact GayTubeLive. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response. 
 
-There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of Streamate or those of Streamate customers or chat hosts, (4) under exigent circumstances to protect the physical safety of Streamate, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services. 
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of GayTubeLive or those of GayTubeLive customers or chat hosts, (4) under exigent circumstances to protect the physical safety of GayTubeLive, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services. 
 
 |    
 ---|---|---  
@@ -59,30 +59,30 @@ This site makes chat rooms available to its users. Please remember that any info
 **Minors**  
 |   | 
 
-Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. Streamate does not knowingly collect contact or personal information from children under 13. Our sites are not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 wherever age related information is requested. 
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. GayTubeLive does not knowingly collect contact or personal information from children under 13. Our sites are not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 wherever age related information is requested. 
 
-Members areas of Streamate may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@streamate.com](https://web.archive.org/web/20080522021007id_/http%3A//www.streamate.com/contactsupport.php?ald=d3d3LnN0cmVhbWF0ZS5jb20%253D). 
+Members areas of GayTubeLive may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@gaytubelive.com](https://web.archive.org/web/20081217080502id_/http%3A//gaytubelive.com/contactsupport.php?). 
 
 |    
 ---|---|---  
 **Unsolicited Email Received by You**  
 |   | 
 
-Streamate does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from Streamate, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/web/20080522021007id_/http%3A//www.streamate.com/contactsupport.php?ald=d3d3LnN0cmVhbWF0ZS5jb20%253D). 
+GayTubeLive does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from GayTubeLive, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/web/20081217080502id_/http%3A//gaytubelive.com/contactsupport.php?). 
 
-Streamate also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Further, according to our published policy, if Streamate becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, Streamate reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the Streamate program, termination of Streamate services, and forfeiture of all commissions. 
+GayTubeLive also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Further, according to our published policy, if GayTubeLive becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, GayTubeLive reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the GayTubeLive program, termination of GayTubeLive services, and forfeiture of all commissions. 
 
 |    
 ---|---|---  
 **Contact**  
 |   | 
 
-If you have any questions about this Privacy Policy, please contact our customer service department at [support@streamate.com](https://web.archive.org/web/20080522021007id_/http%3A//www.streamate.com/contactsupport.php?ald=d3d3LnN0cmVhbWF0ZS5jb20%253D) and provide us with your name, your Streamate login name, and any information you feel is important. 
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@gaytubelive.com](https://web.archive.org/web/20081217080502id_/http%3A//gaytubelive.com/contactsupport.php?) and provide us with your name, your GayTubeLive login name, and any information you feel is important. 
 
 The address for correspondence by post is  
 
 
-> Streamates Limited  
+> GayTubeLives Limited  
 >  c/o Ariel Secretaries Limited  
 >  196, Arch Makarios Ave, Ariel Corner,  
 >  1st Flr, Office 102  
@@ -93,10 +93,7 @@ The address for correspondence by post is
 ---|---|---  
   
   
-[Support](http://www.streamate.com/docs.php?doc=support&ald=d3d3LnN0cmVhbWF0ZS5jb20%253D) | [Become a Model](http://broadcaster.streamate.com/?ald=d3d3LnN0cmVhbWF0ZS5jb20%253D) | [Affiliate Program](http://www.streamatecash.com/) | [Terms & Conditions](http://www.streamate.com/docs.php?doc=tandc&ald=d3d3LnN0cmVhbWF0ZS5jb20%253D) | [Privacy Policy](http://www.streamate.com/docs.php?doc=privacy&ald=d3d3LnN0cmVhbWF0ZS5jb20%253D)  
-[18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement](http://www.streamate.com/docs.php?doc=usc18&ald=d3d3LnN0cmVhbWF0ZS5jb20%253D)  
-All models appearing on this website are 18 years or older.  
+[Support](https://web.archive.org/docs.php?doc=support&) | [Become a Model](mailto:models@gaytubelive.com) | [Terms & Conditions](https://web.archive.org/docs.php?doc=tandc&) | [Privacy Policy](https://web.archive.org/docs.php?doc=privacy&)  
+[18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement](https://web.archive.org/docs.php?doc=usc18&)  
   
-© 2003-2008 Streamates Limited. All rights reserved.
-
-  
+© 2003-2008 GayTubeLive. All rights reserved.
