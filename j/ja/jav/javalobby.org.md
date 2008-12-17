@@ -1,57 +1,49 @@
-> *The following text is extracted and transformed from the javalobby.org privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412065229id_/http%3A//www.javalobby.org/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javalobby.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217103746id_/http%3A//java.dzone.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# DZone Privacy Policy | Javalobby
 
-  
+DZone is committed to protecting your privacy. The following privacy policy describes the ways in which DZone gathers and shares your personal information as well as how you can access and update this information.  DZone reserves the right to update this privacy policy at any time. 
+
+## Cookies
+
+We use cookies to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process. We also use a session cookie, meaning it expires soon after you leave the site and is not placed on your hard drive, to store your session information during your visit to the Site.
+
+## Pixel Tags
+
+DZone may use pixel tags to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements.
+
+## How We Use Your Personal Information
+
+### Anonymous information 
+
+In addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site, occasional geographic data, and the Internet address of the Web site from which you linked directly to our site. None of this information is personally identifiable. This anonymous information is used to help improve the Site, analyze trends, and administer the Site.
+
+### Personally Identifiable Information
+
+We use your personally identifiable information for the following purposes:
+
+  * To register you for DZone membership. 
+  * To subscribe you to the DZone Refcardz program.
+  * To customize your experience on DZone. 
+  * To send e-mail newsletters and/or third party announcements.
+  * To fill in certain information for you such as your name, signature and profile picture when posting to message boards. 
 
 
-We at Javalobby.org ("Javalobby") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
 
-Javalobby has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. 
+Postal addresses, and other personally identifying information and data, will be used to promote DZone and other DZone companies products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address, an e-mail address or other contact information, whether at work or at home. In general, you can visit Javalobby's web pages without telling us who you are or revealing any Personal Information about yourself. 
+Telephone numbers of DZone users may be used by DZone, affiliates and it's advertisers for promotional purposes. DZone may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully. 
 
-If you choose to provide us with your Personal Information on the web, we may transfer that Information, within Javalobby or to Javalobby's third party service providers, across borders and from your country or jurisdiction to other countries or jurisdictions around the world. 
+When you provide your email address to us, you agree to receive email from DZone and its sister DZone companies. We allow users to "opt-out" of receiving email from outside firms, however, when email information is collected and with each email use of the user’s address you can individually "opt-out" of receiving further e-mail from outside firms, DZone and its sister DZone companies. If a user does not choose to "opt out" at the time the email address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully. 
 
-Javalobby strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Javalobby intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred or retained. 
+In order to access third party content on DZone such as whitepapers, product downloads or any other content asset provided by a third party content provider, users need to complete a registration process. The registration information you provide may be shared with the content provider for the sole purpose of contacting you to assess your interest in its products and services. DZone **will not** disclose your personal information to any third parties, except to its third party content providers whose information you have chosen to access. **If you do not want this information disclosed to a Content Provider, do not view the Third Party Content.** Third party content will be made clearly distinguishable on DZone. 
 
-COOKIES AND OTHER TRACKING TECHNOLOGIES  
-Some of our web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
+### Security
 
-You may set most browsers to notify you if you receive a cookie or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the web site. 
+We use reasonable precautions to protect the personal information you disclose from loss, misuse, unauthorized access or disclosure. We only release this information to third parties we believe share our commitment to privacy. 
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our web site and your web experience. We may also analyze information that does not contain Personal Information for trends and statistics. 
+### Accessing and Updating your Information
 
-To protect your privacy, we have adopted the following principles: 
+The instructions to change your information may be found in the 'Edit Account' area of your user profile. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: [feedback@dzone.com](mailto:feedback@dzone.com).
 
-NOTICE  
-Where Javalobby collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of Javalobby or those working on Javalobby's behalf. Javalobby does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Javalobby's behalf unless such transfer is legally required. 
-
-CHOICE  
-You may choose whether or not to provide Personal Information to Javalobby. The notice we intend to provide where Javalobby collects Personal Information on the web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of Javalobby's web sites, but you may be unable to access certain options, offers and services that involve our interaction with you. 
-
-If you chose to have a relationship with Javalobby, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship. 
-
-SECURITY  
-Wherever your Personal Information may be held within Javalobby or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. 
-
-ACCESS/ ACCURACY  
-To the extent that you do provide us with Personal Information, Javalobby wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the web, our goal is to provide a means of contacting Javalobby should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [privacy@javalobby.org](mailto:privacy@javalobby.org) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
-
-THIRD PARTY SERVICES  
-Third parties provide certain services available on Javalobby.org on Javalobby's behalf. Javalobby may provide information, including Personal Information, that Javalobby collects on the web to third party service providers to help us deliver programs, products, information and services. Service providers are also an important means by which Javalobby maintains its web site and mailing lists. Javalobby will take reasonable steps to ensure that these third party service providers are obligated to protect Personal Information on Javalobby's behalf. 
-
-Javalobby does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Javalobby's behalf unless such transfer is legally required. Similarly, it is against Javalobby's policy to sell Personal Information collected online without consent. 
-
-CHILDREN'S PRIVACY  
-Javalobby.org is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age. 
-
-COMMITMENT  
-We are committed to privacy and are actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy on-line is an evolving area, and Javalobby's web sites are constantly evolving to meet these demands. 
-
-If you have any comments or questions regarding our Online Privacy Policy, please contact us at [privacy@javalobby.org](mailto:privacy@javalobby.org). WHILE WE CANNOT GUARANTEE PRIVACY PERFECTION, We will address any issue to the best of our abilities AS SOON AS POSSIBLE. 
-
-YOUR CONSENT  
-By using this web site, you consent to the terms of our Online Privacy Policy and to Javalobby's processing of Personal Information for the purposes given above as well as those explained where Javalobby collects Personal Information on the web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time. 
-
-v1.2
+_(Note: Opinions expressed in this article and its replies are the opinions of their respective authors and not those of DZone, Inc.)_
