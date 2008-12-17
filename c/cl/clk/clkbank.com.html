@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clkbank.com privacy policy that was archived on 2008-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080624112527id_/http%3A//www.clickbank.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clkbank.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217041537id_/http%3A//www.clickbank.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -62,6 +62,11 @@
                                 
 
 
+
+
+
+
+
 <!--  -->
 
 <span style="white-space: nowrap;">
@@ -85,6 +90,11 @@
 	
 		<tr>
 			<td valign="bottom" align="right" nowrap="">
+
+
+
+
+
 
 
 
@@ -182,6 +192,11 @@
 			<td width="50%"><img src="/images/spacer.gif" height="30" width="1"></td>
 			<td align="right" valign="top" nowrap="" colspan="2">
                 
+
+
+
+
+
 <style type="text/css">
 <!--
 ul.subnavigation{
@@ -295,24 +310,52 @@ ul.subnavigation{
 		<td class="content"><!-- START Body Core --> 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <script type="text/javascript" src="/scripts/cookies.js"></script>
+
+	
+	
+
+
+
 
 <script type="text/javascript" language="JavaScript1.2">
     function doLocaleChange(locale){
+
         var origSearch = location.href.split("?")[1];
+
         if(origSearch != null && origSearch.length > 0){
             var search = origSearch.split("&");
             var newSearch = "";
+
             for(i = 0; i < search.length; ++i){
                 if(search[i].substring(0, 7) == "locale="){
                     newSearch += "locale=" + locale;
-                    if(i < search.length - 1) newSearch += '&';
+                    if(i < search.length - 1) 
+                    	newSearch += '&';
                 } else if(search[i].length > 0) {
                     newSearch += search[i];
-                    if(i < search.length - 1) newSearch += '&';
+                    if(i < search.length - 1) 
+                    	newSearch += '&';
                 }
                 
             }
+            
+            if(newSearch.indexOf("locale") == -1) {
+            	newSearch += "&locale=" + locale;
+            }
+            
             window.location = window.location.pathname + "?" + newSearch;
         } else {
             window.location = window.location.pathname + "?locale=" + locale;
@@ -321,9 +364,16 @@ ul.subnavigation{
 </script>
 <div style="padding:0px;margin:0px;position:relative;text-align:right;width=100%;">
     <form name="localeChange">
-        <select id="loc" name="loc" onchange="doLocaleChange(this.value);">
-            <option value="en">English</option>
-            <option value="es">Spanish</option>
+        <select id="locale" name="locale" onchange="doLocaleChange(this.value);">
+        	
+            	<option value="EN">English</option>
+            
+            	<option value="ES">Spanish</option>
+            
+            	<option value="FR">French</option>
+            
+            	<option value="DE">German</option>
+            
         </select>
     </form>
 </div>
@@ -337,6 +387,11 @@ ul.subnavigation{
 <br>
 </div>
 <!-- Start Footer-->
+
+
+
+
+
 
 
 <div id="footer">
@@ -363,15 +418,11 @@ ul.subnavigation{
 
 </div>
 
-<style>
-<!-- 
-privacy.html
--->
-</style>
+<!-- privacy.html -->
 
 
 <!-- included for calendars -->
-<div id="calDiv" style="position:absolute;visibility:hidden;background-color:white;layer-background-color:white;"></div>
+<div id="calDiv" style="position:absolute;visibility:hidden;background-color:white;background-color:white;"></div>
 
 
 
