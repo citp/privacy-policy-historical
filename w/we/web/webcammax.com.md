@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcammax.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513170428id_/http%3A//www.webcammax.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcammax.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041148id_/http%3A//www.webcammax.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy - WebcamMax
 
@@ -56,3 +56,7 @@ WebcamMax also collects general demographic information about visitors to our si
 If you use a credit card to purchase a WebcamMax product, the credit card number is encrypted as it passes over the internet. Your credit card number is not kept or recorded by WebcamMax or our computers - it is simply passed through to the credit card company to purchase the course. In this respect, buying a course from WebcamMax is similar to a credit card purchase at any store. Neither WebcamMax nor the store keeps your credit card number on file. 
 
 More than anything, WebcamMax tries to treat its customers as each one of us would like to be treated. We value our privacy and we value yours, too. It is our goal to make your experience with WebcamMax a safe and positive experience. 
+
+NOTE: Are you a **webmaster** , **blogger** or **internet columnist**? We will present a **FREE License** of WebcamMax to you if you write reviews of WebcamMax on your own website, blog space or column! [**Click here >>**](https://web.archive.org/web/20081217041148id_/http%3A//www.webcammax.com/writereview.php)
+
+[](http://www.easymp3downloader.com/?ad=wcm)
