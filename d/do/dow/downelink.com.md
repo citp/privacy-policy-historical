@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the downelink.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607132845id_/http%3A//www.downelink.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downelink.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217034236id_/http%3A//www.downelink.com/info/privacy.aspx) for the most accurate reproduction.*
 
-# DowneLink.com
-
-####  Privacy Policy and Your California Privacy Rights 
+# DowneLink.com | Privacy
 
 * * *
 
