@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dulux.co.uk privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514073753id_/http%3A//www.dulux.co.uk/home/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dulux.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113027id_/http%3A//www.dulux.co.uk/home/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -18,7 +18,7 @@ We do not sell, rent or loan our lists to third parties for e-mail marketing (ex
 
 ## Unsubscriptions
 
-To unsubscribe from our newsletters, please log in and change your preferences on the [My details](https://web.archive.org/projects/my_details/index.jsp) page. If you have forgotten your password please [click here to be sent a reminder](https://web.archive.org/projects/my_details/forgotten_password.jsp). If you do not have a password, or wish to delete your account, please contact us at [general_duluxukretail@ici.com](mailto:general_duluxukretail@ici.com?subject=Help%20with%20unsubscribing%20from%20newsletter).
+To unsubscribe from our newsletters, please log in and change your preferences on the [My details](https://web.archive.org/account/index.jsp) page. If you have forgotten your password please [click here to be sent a reminder](https://web.archive.org/account/forgotten_password.jsp). If you do not have a password, or wish to delete your account, please contact us at [general_duluxukretail@ici.com](mailto:general_duluxukretail@ici.com?subject=Help%20with%20unsubscribing%20from%20newsletter).
 
 ## Cookies*
 
