@@ -1,0 +1,388 @@
+<!--The following is the downloaded HTML source of the freelancejobopenings.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217080805id_/http%3A//www.jobthread.com/jt/home/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+		<base href="http://www.jobthread.com/">
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+					<link rel="stylesheet" href="partners/jobthread/css/shared.css" type="text/css">
+			<link rel="stylesheet" href="partners/jobthread/css/main.css" type="text/css">
+
+			<style type="text/css">
+				
+
+/**********
+ * Global *
+ **********/
+
+html {
+	background-image: url('partners/jobthread/images/home/background.gif');
+}
+
+/*********
+ * Input *
+ *********/
+
+.input_button {
+	background-image: url('partners/jobthread/images/button_background.gif');
+}
+
+.input_button_highlight {
+	background-image: url('partners/jobthread/images/button_highlight_background.gif');
+}
+
+.input_button_negative {
+	background-image: url('partners/jobthread/images/button_negative_background.gif');
+}
+
+/****************
+ * Welcome page *
+ ****************/
+
+td.common-header {
+	background-image: url('partners/jobthread/images/home/header_background.gif');
+}
+
+div.normal-block div.normal-block-inner-menu {
+	background-image: url('partners/jobthread/images/home/menu_background.gif');
+}
+
+			</style>
+		
+					<link rel="icon" type="image/vnd.microsoft.icon" href="partners/jobthread/images/favicon.ico">
+			<link rel="SHORTCUT ICON" href="partners/jobthread/images/favicon.ico">
+		
+		<script type="text/javascript" src="js/global.js"></script>
+		<script type="text/javascript" src="js/jquery/jquery.js"></script>
+		<script type="text/javascript" src="js/jquery/jquery.corner.js"></script>
+		<script type="text/javascript" src="js/jquery/jquery.local.js"></script>
+
+									<title>JobThread - Privacy/Legal</title>
+					
+					<script type="text/javascript">
+			
+				function calcHeightFrame(frameid)
+				{
+					// this can be called before the iframe is ready, so make sure we're getting body and length before obtaining height.
+					if (document.getElementById(frameid).contentWindow && document.getElementById(frameid).contentWindow.document.body) {
+						var frame_content = document.getElementById(frameid).contentWindow.document.body.innerHTML;
+
+						if (frame_content.length > 0) {
+							document.getElementById(frameid).height = document.getElementById(frameid).contentWindow.document.body.scrollHeight;
+							return;
+						}
+					}
+					var function_call = 'calcHeightFrame(\'' + frameid + '\')';
+					setTimeout(function_call, 10);
+					return;
+				}
+			
+			</script>
+		
+		<script type="text/javascript">
+		
+			window.onload = onLoad;
+
+			function onLoad()
+			{
+				if (window.onLoadPage) {
+					onLoadPage();
+				}
+			}
+
+			var ready_list = new Array();
+
+			function addReady(func)
+			{
+				ready_list.push(func);
+			}
+
+			$(document).ready(function(){
+				for (i=0; i < ready_list.length; i++) {
+					ready_list[i]();
+				}
+			});
+		
+		</script>
+
+		
+			</head>
+
+	<body id="page">
+		<script type="text/javascript">
+
+	addReady(function(){
+		$("div.normal-block").corner();
+		$("div.offset-block").corner();
+		$("div.block2:not(.block2-square)").corner();
+		$("div.block2-inner").corner();
+		$("div.step-active-block-inner").corner();
+		$("div.normal-block-inner-menu").corner();
+
+		$("div.home-alt-box").each(function(){
+			coords = getCoords('page-container');
+
+			left = (coords.x + $("div#page-container").width()) - $(this).width() - 77;
+
+			$(this).css('left', left);
+			$(this).css('display', 'block');
+		});
+
+		$("a.pop-link").toggle(function(){
+			$(this).blur();
+
+			box_id = $(this).attr("id") + "-box";
+			hide_id = $(this).attr("id") + "-hide";
+
+			$("div." + hide_id).hide();
+			$("div#" + box_id).show('normal');
+		}, function(){
+			$(this).blur();
+
+			box_id = $(this).attr("id") + "-box";
+
+			$("div#" + box_id).hide('normal');
+		});
+
+		$("a.popup-info-close-link").click(function(){
+			$(this).parent("div.popup-info-box").hide();
+
+			return false;
+		});
+
+		$("a.popup-info-link").click(function(){
+			element_id = $(this).attr("href").replace(/^#/, '');
+
+			$("#" + element_id).vCenter();
+			$("#" + element_id).show();
+
+			return false;
+		});
+
+		$("div.popup-info-box").click(function(){
+			$(this).hide();
+		});
+	});
+
+</script>
+
+	<table id="common-header" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td class="common-header" style="width:205px;padding-left:7px;">
+			<a href="http://www.jobthread.com/?show_home=1" rel="nofollow">
+				<img src="partners/jobthread/images/home/logo_line.gif" class="tabled"></a>
+		</td>
+		<td class="common-header" style="vertical-align:top;text-align:right;">
+			<table id="common-header-nav" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td id="common-header-nav-top">
+					<div style="margin-top:10px;">
+													<a href="http://www.jobthread.com/jt/users/login.php" rel="nofollow">Sign In</a>
+											</div>
+				</td>
+			</tr>
+			<tr>
+				<td id="common-header-nav-bottom">
+									</td>
+			</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+
+<div id="page-container">
+
+
+<div class="heading3" style="margin-bottom:20px;">
+	Our Privacy Policy
+</div>
+
+<div class="heading5" style="margin-bottom:7px;">
+	The simple version
+</div>
+
+<div style="margin-bottom:20px;">
+	We have a simple policy: We'll never sell, rent
+	or give away your personal information to anyone.
+</div>
+
+<div class="heading5" style="margin-bottom:7px;">
+	Questions or Comments
+</div>
+
+<div style="margin-bottom:20px;">
+	If you have questions or comments about this privacy
+	policy, please email us at:
+</div>
+
+<div style="margin-bottom:20px;">
+	<a href="mailto:privacy@jobthread.com">privacy@jobthread.com</a>
+</div>
+
+<div class="heading3" style="margin-bottom:25px;">
+	Privacy Policy (the full version)
+</div>
+
+<div class="heading5" style="margin-bottom:7px;">
+	Introduction
+</div>
+
+<div style="margin-bottom:20px;">
+	JobThread, Inc. respects each individual's right to personal
+	privacy. We will collect and use information through our
+	Web site only in the ways disclosed in this statement.
+	This statement applies solely to information collected at
+	JobThread, Inc.'s Web site.
+</div>
+
+<div class="heading5" style="margin-bottom:7px;">
+	Part I. Information Collection
+</div>
+
+<div style="margin-bottom:20px;">
+	JobThread, Inc. collects personally identifiable information
+	through our "Sign Up" page as well as various other pages
+	throughout the site. We collect the following information
+	about primary visitors when new users create an account
+	via our "Sign Up" page: Email address, First Name,
+	Last Name, Zip code.
+</div>
+
+<div style="margin-bottom:20px;">
+	We collect demographic data in order to understand where
+	our product is being used.
+</div>
+
+<div style="margin-bottom:20px;">
+	We employ cookies on our site. A cookie is a small text file
+	that our Web server places on a user's computer hard drive to
+	be a unique identifier. Cookies enable JobThread, Inc. to
+	track usage patterns and deliver customized content to users.
+</div>
+
+<div style="margin-bottom:20px;">
+	JobThread, Inc. does not actively market to children, and we
+	never knowingly ask a child under 13 to divulge personal
+	information.
+</div>
+
+<div class="heading5" style="margin-bottom:7px;">
+	Part II. Information Usage.
+</div>
+
+<div style="margin-bottom:20px;">
+	The information collected by JobThread, Inc. will be used to
+	help ensure the security of users data. Users who provide
+	information will be able to log in, logout, create JobThread
+	postings, pass on JobThread postings to others and Apply to a
+	JobThread posting that they have received.
+</div>
+
+<div style="margin-bottom:20px;">
+	We do not share personally identifiable data with any third parties
+	except when authorized by you and needed to complete your
+	request.
+</div>
+
+<div style="margin-bottom:20px;">
+	We offer links to other Web sites. Please note: When you
+	click on links to other Web sites, we encourage you to read
+	their privacy policies. Their standards may differ from ours.
+</div>
+
+<div style="margin-bottom:20px;">
+	We reserve the right to change our privacy policy without notice.
+</div>
+
+<div class="heading5" style="margin-bottom:7px;">
+	Part III. Access to Information
+</div>
+
+<div style="margin-bottom:20px;">
+	Users may access their own personal information via their
+	"Settings" page and contact us about inaccuracies they
+	may find. Users may change their personal information via
+	their "Settings" page.
+</div>
+
+<div class="heading5" style="margin-bottom:7px;">
+	Part IV. Problem Resolution
+</div>
+
+<div style="margin-bottom:20px;">
+	If problems arise, users may contact JobThread, Inc. via
+	email at <a href="mailto:help@jobthread.com">help@jobthread.com</a>.
+</div>
+
+<div class="heading5" style="margin-bottom:7px;">
+	Part V. Data Storage and Security
+</div>
+
+<div style="margin-bottom:20px;">
+	JobThread, Inc. protects user information with a variety of
+	security technologies and procedures to help protect your
+	personal information from unauthorized access, use, or
+	disclosure. For example, we store the personal information
+	you provide on computer systems with limited access, which
+	are located in controlled facilities.
+</div>
+
+<div class="heading5" style="margin-bottom:7px;">
+	Questions or Comments
+</div>
+
+<div style="margin-bottom:20px;">
+	If you have questions or comments about this privacy
+	policy, please email us at:
+</div>
+
+<div style="margin-bottom:20px;">
+	<a href="mailto:privacy@jobthread.com">privacy@jobthread.com</a>
+</div>
+
+</div>
+
+<br>
+
+	<div class="footer">
+		<a href="http://www.jobthread.com/">Home</a>
+		|
+		<a href="http://www.jobthread.com/jt/home/about_us.php" rel="nofollow">About Us</a>
+		|
+		<a href="http://jobthread.blogspot.com/" rel="nofollow">Blog</a>
+		|
+		<a href="http://jobthread.jobthread.com/" rel="nofollow">Careers</a>
+		|
+		<a href="http://www.jobthread.com/jt/home/privacy.php" rel="nofollow">Privacy</a>
+		|
+		<a href="http://www.jobthread.com/jt/home/terms_of_service.php" rel="nofollow">Terms of Service</a>
+		|
+		<a href="http://www.jobthread.com/jt/home/contact_us.php" rel="nofollow">Contact Us</a>
+		|
+		<a href="http://www.jobthread.com/jt/home/employers.php" rel="nofollow">Employers</a>
+		|
+		<a href="http://www.jobthread.com/job-board-software" rel="nofollow">Job Board Software</a>
+
+		<div style="padding-top:10px;">
+			© 2005-2008 JobThread, Inc.  
+			All rights reserved.		</div>
+
+			</div>
+
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-229745-1";
+urchinTracker();
+</script>
+
+	<script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
+	<script type="text/javascript">
+	_qacct="p-dfaywUr_Oq7jw";quantserve();</script>
+	<noscript>
+	<a href="http://www.quantcast.com/p-dfaywUr_Oq7jw" target="_blank"><img src="//secure.quantserve.com/pixel/p-dfaywUr_Oq7jw.gif" border="0" style="display: none" height="1" width="1"></a></noscript>
+
+
+
+</body></html>
