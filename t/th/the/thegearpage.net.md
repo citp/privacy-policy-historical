@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegearpage.net privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502113723id_/http%3A//www.thegearpage.net/new_index.php%3Fpageid%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegearpage.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113225id_/http%3A//www.thegearpage.net/board/tgphome.php%3Fpageid%3DPrivacy) for the most accurate reproduction.*
 
 # The Gear Page - Privacy Policy
 
@@ -20,7 +20,7 @@ We collect the information mentioned in the previous paragraphs through the use 
 
 Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders.   
   
-All times are GMT -6. The time now is 05:36 AM.
+All times are GMT -6. The time now is 05:32 AM.
 
   
 
