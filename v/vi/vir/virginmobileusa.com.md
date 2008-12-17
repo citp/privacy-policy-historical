@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmobileusa.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611011421id_/http%3A//web.virginmobileusa.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobileusa.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024456id_/http%3A//web.virginmobileusa.com/about/privacy) for the most accurate reproduction.*
 
 # Virgin Mobile: Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Virgin Mobile USA Privacy Policy**
 
-At Virgin Mobile USA, LP (“Virgin Mobile,” or “we,” “us,” “our”) we understand that privacy is important, and we are strongly committed to protecting the privacy of our customers and visitors to our websites at www.virginmobileusa.com, www.virginmobileusarecycle.com, http://studiov.virginmobileusa.com, www.homelessyouthamongus.com and www.regenerationgallery.com (collectively, “our websites”).
+At Virgin Mobile USA, LP (“Virgin Mobile,” or “we,” “us,” “our”) we understand that privacy is important, and we are strongly committed to protecting the privacy of our customers and visitors to our websites at www.virginmobileusa.com, www.virginmobileusarecycle.com, http://studiov.virginmobileusa.com, www.homelessyouthamongus.com, www.regenerationgallery.com and www.vmcustomerpulse.com(collectively, “our websites”).
 
 The following information is designed to help you better understand the information we gather from our websites, how we handle the information once we gather it, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct the information. Please note that this Privacy Policy applies only to our websites and not to other companies’ or organizations’ services or websites to which we may link, even if they market our products or use the Virgin Mobile name. By visiting these websites or using the services provided there, you accept the practices described in this Privacy Policy. 
 
@@ -63,8 +63,6 @@ Telephone: (866) 218-8372 (toll-free)
 Fax: (925) 280-0265  
 [execescalations@virginmobileusa.com](mailto:execescalations@virginmobileusa.com)
 
-_NOTE_ : If a parent or guardian becomes aware that his or her child has provided personally identifiable information through our [Virgin Mobile Insiders](http://www.virginmobileinsiders.com/) website, he or she should contact the address provided below, in the section “What about Virgin Mobile Insiders?”
-
 **What Is Our Policy Regarding Location-Based Information?**  
 Virgin Mobile does not collect, monitor, track, or disclose information concerning your physical location or the location of your handset, except to provide certain services in emergency situations. Any information that we collect, monitor, or track regarding your physical location or the location of your handset will be treated as confidential and is retained only for the period necessary to provide emergency services or respond to a specific request. 
 
@@ -106,7 +104,7 @@ In addition, such personally identifiable information may be stored on servers l
 Virgin Mobile may, from time to time, make changes to this policy based on your comments and our need to accurately reflect our legal obligations and our data collection and disclosure practices. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our website(s). By continuing to use our websites and services, you agree to be bound by the latest version of this policy, which may be viewed anytime by clicking on the "Privacy Policy" link at the foot of the Virgin Mobile website and our other websites or by calling 1-888-322-1122.
 
 **Want To Know More?**  
-For questions or concerns about Virgin Mobile or [www.virginmobileusa.com](http://www.virginmobileusa.com/), please contact customer care at [ourteam@virginmobileusa.com](https://web.archive.org/web/20080611011421id_/http%3A//web.virginmobileusa.com/about/ourteam@virginmobileusa.com) or call Virgin Mobile At Your Service at 1-888-322-1122 with any questions. Calls to Virgin Mobile At Your Service may be monitored for quality assurance.
+For questions or concerns about Virgin Mobile or [www.virginmobileusa.com](http://www.virginmobileusa.com/), please contact customer care at [ourteam@virginmobileusa.com](https://web.archive.org/web/20081217024456id_/http%3A//web.virginmobileusa.com/about/ourteam@virginmobileusa.com) or call Virgin Mobile At Your Service at 1-888-322-1122 with any questions. Calls to Virgin Mobile At Your Service may be monitored for quality assurance.
 
 For privacy-related questions about Sugar Mama: send email to [sugarmamaprivacy@ultramercial.com](mailto:sugarmamaprivacy@ultramercial.com). 
 
