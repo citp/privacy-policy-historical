@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the theunlocker.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509064017id_/http%3A//www.theunlocker.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theunlocker.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094551id_/http%3A//www.theunlocker.co.uk/privacy.php) for the most accurate reproduction.*
 
 # The Unlocker - Privacy Policy
 
 **PRIVACY OF YOUR ACCOUNT.** We consider all your registration data and the content of all of your messages to be private. The header of the messages that you send will contain your name (e-mail address) and Internet Protocol (IP) address. We will not intentionally monitor or disclose any of your e-mail messages or registration data unless we are required to do so:
 
+**
   * to enforce our Terms and Conditions
   * by law
   * to defend us in any legal action
   * to protect our property
-
+**
 
 
 Additionally, you agree to respect the privacy and confidentiality of others. Since your password is essential for protecting your privacy, we encourage you not to share it with anyone and change it frequently.
