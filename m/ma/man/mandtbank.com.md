@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622171259id_/http%3A//www.mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035159id_/http%3A//www.mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
 
 # M&T Bank : Customer Service
 
