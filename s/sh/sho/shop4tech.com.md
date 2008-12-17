@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603005811id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217200312id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
 
 # DVD Media, CD Media | Shop4tech
 
@@ -45,7 +45,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database in order to be taken off our emailing list.
 
-  * You can [click here](http://www.shop4tech.com/user.htm?go=remove) to unsubscribe
+  * You can [click here](http://www.shop4tech.com/e/pref/) to unsubscribe
   * You can send mail to the following postal address:   
 _Leda Multimedia Inc (Optout)  
 4664 Mission Blvd   
