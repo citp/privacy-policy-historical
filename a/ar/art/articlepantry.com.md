@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlepantry.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602060342id_/http%3A//www.articlepantry.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlepantry.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217162743id_/http%3A//www.articlepantry.com/privacy.php) for the most accurate reproduction.*
 
 # Article Pantry - Submit articles, promote your site, get free content
 
@@ -47,5 +47,3 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 ArticlePantry.com does not knowingly collect or solicit Personally Identifiable Information from or about minors except as permitted by law. If we discover we have received any information from a minor in violation of this policy, we will delete that information immediately. If you believe ArticlePantry.com has any information from or about a minor, please contact us through the contact page. 
 
 | 
-
-[](https://web.archive.org/web/20080602060342id_/http%3A//www.articlepantry.com/ads/dir_sub.html)
