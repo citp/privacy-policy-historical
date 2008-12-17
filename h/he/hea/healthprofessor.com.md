@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthprofessor.com privacy policy that was archived on 2008-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080107105907id_/http%3A//www.healthprofessor.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthprofessor.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217144253id_/http%3A//www.healthprofessor.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Health Professor - Privacy Policy
 
@@ -88,3 +88,5 @@ HealthProfessor, LLC.
 Boca Raton, FL 33431
 
 Copyright © 2007-2008 HealthProfessor.com and HealthProfessorRX.com. All Rights Reserved.
+
+The information provided herein should not be used during any medical emergency or for the diagnosis or treatment of any medical condition. A licensed medical professional should be consulted for diagnosis and treatment of any and all medical conditions. Call 911 for all medical emergencies. Links to other sites are provided for information only -- they do not constitute endorsements of those other sites. © HealthProfessor LLC. Any duplication or distribution of the information contained herein is strictly prohibited. 
