@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swik.net privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611130518id_/http%3A//swik.net/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swik.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040141id_/http%3A//swik.net/%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - SWiK
 
@@ -27,7 +27,7 @@ However, we may disclose information you provide if required to do so by law or 
 
 What are your options to control the use of your personally identifiable information? 
 
-  * If, after you opt-in at the time of registration to receive e-mails and news from us, you would rather not receive such communications, please click on the 'unsubscribe' link at the bottom of the e-mail you receive, or go to <http://www.sourcelabs.com/unsubscribe> and follow the instructions to unsubscribe. You may also contact us by postal mail at 411 1st Avenue South, Suite 403, Seattle, Washington 98104, Attention: Opt-out. 
+  * If, after you opt-in at the time of registration to receive e-mails and news from us, you would rather not receive such communications, please click on the 'unsubscribe' link at the bottom of the e-mail you receive, or send an email to [unsubscribe@sourcelabs.com](mailto:unsubscribe@sourcelabs.com) and follow the instructions to unsubscribe. You may also contact us by postal mail at 411 1st Avenue South, Suite 750, Seattle, Washington 98104, Attention: Opt-out. 
 
 
 
@@ -65,8 +65,8 @@ You can send e-mails to:
 [privacy@sourcelabs.com](mailto:privacy@sourcelabs.com)  
 You may also contact us by mail:   
 SourceLabs, Inc.  
-411 - 1st Avenue South  
-Suite 403  
+411 First Avenue South  
+Suite 750  
 Seattle, Washington 98104 
 
 
