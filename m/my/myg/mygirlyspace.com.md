@@ -1,17 +1,23 @@
-> *The following text is extracted and transformed from the mygirlyspace.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212031937id_/http%3A//mygirlyspace.com/content.php%3Fwhere%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygirlyspace.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070427id_/http%3A//www.mygirlyspace.com/content.php%3Fwhere%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Cute Myspace Layouts, Retro Myspace Layouts, Tiny/Skinny/Thin Myspace Layouts, Myspace Fashion Layouts, Myspace Icons Layouts, Scenic Myspace Layouts, Summer Myspace Layouts
 
 **About MyGirlySpace.com**
 
-MyGirlySpace.com is an online service that allows the members of MySpace.com to customize their profiles.  
-Information Collection and Use by MyGirlySpace.com
+MyGirlySpace.com is an online service that allows the members of MySpace.com to customize their profiles.
 
-MyGirlySpace.com logs non-personally-identifiable information including IP address, demographic data, and browser type, from users and visitors to the site This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes. We will also use a visitors email address to send updates, newsletters or news regarding the service if the user or visitor choses to opt-in to such services. To opt-out you must use to contact form* and request to have such information removed. Please be aware that whenever you voluntarily post public information to any Public Forum that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. Some features on this site enable the user to enter in their MySpace credentials, including username and password, to automate the process of installing some features on MyGirlySpace.com. By providing MyGirlySpace.com with your myspace credentials you allow MyGirlySpace.com to automatically install codes for you and or promote MyGirlySpace in terms of posting a bulletin on your behalf. We do not store, save, or use this information. We simply provide this option to make installing code simple.  
-Links
+**Information Collection and Use by MyGirlySpace.com**
+
+MyGirlySpace.com logs non-personally-identifiable information including IP address, demographic data, and browser type, from users and visitors to the site This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes. We will also use a visitors email address to send updates, newsletters or news regarding the service if the user or visitor choses to opt-in to such services. To opt-out you must use to contact form* and request to have such information removed. Please be aware that whenever you voluntarily post public information to any Public Forum that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. Some features on this site enable the user to enter in their MySpace credentials, including username and password, to automate the process of installing some features on MyGirlySpace.com. By providing MyGirlySpace.com with your myspace credentials you allow MyGirlySpace.com to automatically install codes for you. We do not store, save, or use this information. We simply provide this option to make installing code simple.
+
+**Links**
 
 MyGirlySpace.com contains links to sites. MyGirlySpace.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on MyGirlySpace.com.
 
 **Third Party Advertising**
 
 Ads appearing on this Web site may be delivered to users by MyGirlySpace.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by MyGirlySpace.com and does not cover the use of cookies by any advertisers.
+
+  
+  
+
