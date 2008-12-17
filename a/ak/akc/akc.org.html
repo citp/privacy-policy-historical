@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2008-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080519060327id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217094731id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<!-- pre jsAd html -->
+
+				<!-- Start Ads JS -->
+				<!-- pre jsAd html -->
 <script language="JavaScript">
 <!--
   function getProto(){
@@ -18,7 +20,7 @@
   }
   function getOasServer( inProto ){
     if( inProto != null && 0 < inProto.length && 0 == inProto.toLowerCase().indexOf( "https" ) ){
-      return 'oasc04.247realmedia.com' ;
+      return 'oasc11.247realmedia.com' ;
     }
     return 'oascentral.akc.org' ;
   }
@@ -27,6 +29,19 @@
         return window.location.pathname ;
     }
     return '/' + inPx ;
+  }
+  function toArgs( inArr, inTarget ){
+    if( "undefined" == typeof( inArr ) || null == inArr || 0 == inArr.length ){
+      return inTarget;
+    }
+    var str = "";
+    for( var i=0; i<inArr.length; i++ ){
+      if( 0 != i ){
+        str += ",";
+      }
+      str += inArr[ i ];
+    }
+    return str + "!" + inTarget ;
   }
 //-->
 </script>
@@ -38,8 +53,9 @@
 </script>
 <script language="JavaScript">
 <!--
-  function sendOAS( slotId, px, vProto, vServ, randId ){
+  function sendOAS( slotId, px, vProto, vServ, randId, inArr ){
     var str = null;
+    slotId = toArgs( inArr, slotId );
     if( -1 != navigator.appVersion.indexOf( 'MSIE 3' ) ){
       str = '<IFRAME WIDTH=460 HEIGHT=120 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" ' ;
       str = str + ' SRC="' + vProto + '//' + vServ + '/RealMedia/ads/adstream_sx.ads/' + vHost + px + '/' + randId + '@' + slotId + '">' ;
@@ -59,7 +75,6 @@
   }
 // -->
 </script>
-
 <script language="JavaScript">
   <!--
     function newRand(){
@@ -68,28 +83,33 @@
     var randId = newRand();
     var vHost = "test.akc.org";
     var vPath = window.location.pathname;
+    var vSlotIds = new Array();
+    var vPrvSlotIds = new Array();
     function jsAd( slotId ){ 
       if( "BottomRight" == slotId ){ 
         var px     = getPx( '' );
         var vProto = getProto();
         var vServ  = getOasServer( vProto );
-        sendOAS( slotId, px, vProto, vServ, randId );
+        sendOAS( slotId, px, vProto, vServ, randId, vPrvSlotIds['REALMEDIA247']  );
+
       }else if( "Frame1" == slotId ){ 
         var px     = getPx( '' );
         var vProto = getProto();
         var vServ  = getOasServer( vProto );
-        sendOAS( slotId, px, vProto, vServ, randId );
+        sendOAS( slotId, px, vProto, vServ, randId, vPrvSlotIds['REALMEDIA247']  );
+
       }else if( "Frame2" == slotId ){ 
         var px     = getPx( '' );
         var vProto = getProto();
         var vServ  = getOasServer( vProto );
-        sendOAS( slotId, px, vProto, vServ, randId );
-      }else if( "Right" == slotId ){ 
-         document.write( '<a href="/events/certified_list_awards.cfm"><img src="/akamai_images/ads/cert_awards180x160.jpg" width="180" height="160" alt="" border="0"></a>' );
-      }else if( "Right1" == slotId ){ 
-         document.write( '<a href="http://www.cleanrun.com/storehome.cfm?aff=29115"><img src="/images/ads/CR300x250_2.jpg" width="300" height="250" alt="Clean Run" border="0"></a>' );
+        sendOAS( slotId, px, vProto, vServ, randId, vPrvSlotIds['REALMEDIA247']  );
+
       }
     }
+    vSlotIds[0]="Frame1";
+    vSlotIds[1]="Frame2";
+    vSlotIds[2]="BottomRight";
+    vPrvSlotIds['REALMEDIA247']=new Array("Frame1", "Frame2", "BottomRight");
   //-->
 </script>
 <!-- post jsAd html -->
@@ -99,8 +119,9 @@
   // -->
 </script>
 
-
-
+ 
+                <!-- End Ads JS -->
+			
 
 <!--[if IE]>
 <style type="text/css" media="screen">
@@ -118,6 +139,8 @@ font-size: 100%;
 
 </style>
 <![endif]-->
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <title>American Kennel Club - AKC Web Site Privacy Statement</title>
@@ -141,14 +164,13 @@ urchinTracker();
 <script src="/__utm.js" type="text/javascript"></script>
 <script language="JavaScript1.1" src="/js/Layout.js" type="text/javascript"></script>
 
-<style type="text/css">
+<style type="text/css" media="screen, projection">
 				@import url(http://www.akc.org/layouts/Standard/styles/div_ids.css);
 				@import url(http://www.akc.org/layouts/Standard/styles/classes.css);
 				@import url(http://www.akc.org/layouts/Standard/styles/elements.css);
 				@import url(http://www.akc.org/layouts/Standard/styles/applications.css);
 				@import url(http://www.akc.org/layouts/Standard/styles/leftnav.css);
-				</style></head>
-
+				</style><style type="text/css" media="print"> @import url(http://www.akc.org/layouts/Standard/styles/print_style.css); </style></head>
 
 
 <body>
@@ -159,7 +181,7 @@ urchinTracker();
 <table class="move_over_ad" width="758" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td align="center"> 
-<div id="TopLeft_ad" style="margin-left: 0px;margin-right: 0px;margin: 5px;">
+<div id="TopLeft_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;margin: 5px;">
 <script language="JavaScript">
 <!--
 jsAd( "TopLeft")
@@ -173,12 +195,13 @@ jsAd( "TopLeft")
 
 
 
+
 <table class="move_over" width="758" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
 
-<tbody><tr valign="top"><td colspan="2" valign="top" bgcolor="##00ffff" class="whitebody">
+<tbody><tr valign="top"><td colspan="2" valign="top" class="whitebody">
 
 
-<style type="text/css">
+<style type="text/css" media="screen">
 
 #toplevel_nav{
 z-index: 1;
@@ -213,12 +236,15 @@ font-weight:bold;
 color: #7320bd;
 text-decoration:none;
 }
-</style>
 
+</style>
+<div class="print_head">
+<img class="print_head" src="/images/print/akc_h_tm_k_www.gif" width="758" height="90" alt=""></div>
 
 <table width="758" border="0" cellpadding="0" cellspacing="0" align="center">
-<tbody><tr><td valign="top" height="90"><a href="/index.cfm?nav_area=homepage"><img src="http://images.akc.org/template/header/header.jpg" width="758" height="90" border="0" id="headerGraphic" alt=""></a></td>
-</tr></tbody></table><table id="toplevel_nav" width="758" height="28" border="0" cellspacing="0" cellpadding="0" bgcolor="#D8DEE9">
+<tbody><tr><td valign="top">
+<a href="/index.cfm?nav_area=homepage" class="hide_all"><img src="http://images.akc.org/template/header/header.jpg" width="758" height="90" border="0" id="headerGraphic" alt=""></a></td>
+</tr></tbody></table><table id="toplevel_nav" width="758" border="0" cellspacing="0" cellpadding="0" bgcolor="#D8DEE9">
   <tbody><tr>
     <td><a title="Breeds" href="/breeds/index.cfm?nav_area=breeds" target="_top">Breeds</a></td>
     <td>|</td>
@@ -241,11 +267,14 @@ text-decoration:none;
 
 
 
-			  <tr height="100%"><td width="149" valign="top" height="100%" background="/layouts/Standard/images/leftnav_bkg.gif">
 
-<table width="149" border="0" cellpadding="0" cellspacing="0" background="/layouts/Standard/images/leftnav_bkg.gif">
+<tr>
+<td width="149" class="left_nav_wrapper" valign="top" height="100%" background="/layouts/Standard/images/leftnav_bkg.gif">
+
+<table width="149" class="left_nav_wrapper" border="0" cellpadding="0" cellspacing="0" background="/layouts/Standard/images/leftnav_bkg.gif">
 <tbody><tr background="/layouts/Standard/images/leftnav_bkg.gif">
 <td width="149" background="/layouts/Standard/images/leftnav_bkg.gif">
+
 
   <br><table width="140" border="0" cellspacing="0" cellpadding="0" align="left" id="leftnav">
     <tbody><tr align="left">
@@ -352,7 +381,7 @@ function Go(){return}
 	   <li><a href="/about/site/advertising.cfm" title="Interactive Advertising Overview">Overview</a></li>
 		<li><a href="/about/site/advertising.cfm?page=3" title="AKC Website Advertising">Website Advertising</a></li>
         <li><a href="/about/site/advertising.cfm?page=4" title="eNewsletter Advertising">eNewsletter Advertising</a></li>
-        <li><a href="/pdfs/about/site/Interactive_Advertising_1007.pdf" title="Printable Fact Sheet">Printable Fact Sheet</a></li>
+        <li><a href="/pdfs/about/site/Digital_Media_Kit_2009.pdf" title="Printable Media Kit">Printable Media Kit</a></li>
 		<li><a href="/about/site/advertising.cfm?page=5" title="AKC Technical Ad Specs">Technical Ad Specs</a></li>
        </ul>
 	   </li>
@@ -376,27 +405,18 @@ function Go(){return}
 
 </td>
 </tr>
-<tr height="100%" background="/layouts/Standard/images/leftnav_bkg.gif">
-<td height="100%" background="/layouts/Standard/images/leftnav_bkg.gif">&nbsp;
-
-</td></tr>
 </tbody></table>
-<table height="100%" width="149" border="0" cellpadding="0" cellspacing="0" background="/layouts/Standard/images/leftnav_bkg.gif">
-<tbody><tr height="100%" background="/layouts/Standard/images/leftnav_bkg.gif">
-<td width="149" height="100%" background="/layouts/Standard/images/leftnav_bkg.gif">&nbsp;
 
-</td></tr>
-</tbody></table>
 	  </td>
     <td valign="top" bgcolor="#FFFFFF">
-	
+
 		<table width="609" height="27" border="0" cellpadding="5" cellspacing="0">
         <tbody><tr> 
 <td valign="top" bgcolor="#FFFFFF">
 
 
-<div style="width: 599px; text-align: center; "> 
-<div id="Top_ad" style="margin-left: 0px;margin-right: 0px;margin: 5px;">
+<div class="hide_all" style="width: 599px; text-align: center; "> 
+<div id="Top_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;margin: 5px;">
 <script language="JavaScript">
 <!--
 jsAd( "Top")
@@ -404,15 +424,15 @@ jsAd( "Top")
 </script>
 </div>
 </div>
-<div id="content">
+<div id="akccontent" class="content">
 
 
-<div id="Right_ad" style="margin-top: 40px; margin-bottom: 20px;margin-left: 10px;margin-right: 0px;float:right; ">
+<div id="Right_ad" class="hide_all" style="margin-top: 40px; margin-bottom: 20px;margin-left: 10px;margin-right: 0px;float:right; ">
 <script language="JavaScript">
 <!--
 jsAd( "Right")
 //-->
-</script><a href="/events/certified_list_awards.cfm"><img src="/akamai_images/ads/cert_awards180x160.jpg" width="180" height="160" alt="" border="0"></a>
+</script>
 </div>
 
 
@@ -618,8 +638,8 @@ AKC also will disclose personally
         Robert Burns <br>
         Privacy Policy<br>
         American Kennel Club <br>
-        5580 Centerview Drive<br>
-        Raleigh, NC 27606-3390 <br>
+        8051 Arco Corporate Drive, Suite 100<br>
+        Raleigh, NC 27617-3390<br>
         <br>
 		
         Our Customer Service Department is open from 8:30 am to 5:00 PM Eastern 
@@ -632,8 +652,14 @@ AKC also will disclose personally
 
 </div></td>
         </tr>
+		<tr> 
+<td valign="top" bgcolor="#FFFFFF">
+
+</td>
+        </tr>
+
       </tbody></table><div style="width: 599px; text-align: center; "> 
-<div id="Bottom_ad" style="margin-left: 0px;margin-right: 0px;margin: 5px;">
+<div id="Bottom_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;margin: 5px;">
 <script language="JavaScript">
 <!--
 jsAd( "Bottom")
@@ -645,11 +671,6 @@ jsAd( "Bottom")
   </tr>
 </tbody></table>
 
-	
-	
-<!-- MAPPING: http://www.akc.org   CGISPS: 0   SPS: 0  -->
-
-		
 <table width="758" height="9" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr> 
     <td width="149">&nbsp;</td>
@@ -668,14 +689,14 @@ jsAd( "Bottom")
 	
 		<a href="http://www.akc.org/index.cfm" class="footer" title="AKC Homepage">AKC Homepage</a>&nbsp;|&nbsp;
 	    <a href="http://www.akc.org/about/site/about.cfm" class="footer" title="About this Site">About this Site</a>&nbsp;|&nbsp;
-        <a href="http://www.akc.org/about/jobs.cfm" class="footer" title="Employment">Employment</a>&nbsp;|&nbsp;
+        <a href="http://www.akc.org/about/job_opportunities.cfm" class="footer" title="Employment">Employment</a>&nbsp;|&nbsp;
 	    <a href="http://www.akc.org/about/telephone_directory.cfm" class="footer" title="Contact Us">Contact Us</a>&nbsp;|&nbsp;
 	    <a href="http://www.akc.org/about/site/advertising.cfm" class="footer" title="Corporate Advertising">Corporate Advertising</a>&nbsp;|&nbsp;
 	    <a href="http://www.akc.org/about/site/privacystatement.cfm" class="footer" title="Privacy Statement">Privacy Statement</a>&nbsp;|&nbsp;
 		<a href="http://www.akc.org/about/site/terms_use.cfm" class="footer" title="Terms of Use">Terms of Use</a>&nbsp;|&nbsp;
 		<a href="http://www.akc.org/about/california_privacy.cfm" class="footer" title="Your CA Privacy Rights">Your CA Privacy Rights</a>
 	
-</td>
+    </td>
 </tr>
 <tr align="center" id="footnote">
 <td align="center" id="footnote">
@@ -694,7 +715,7 @@ jsAd( "Bottom")
 
 
 
-<div id="sidebar_main" style="margin-top: 5px;">  
+<div id="sidebar_main" style="margin-top: 95px;">  
 
 
 <table border="0" cellpadding="0" cellspacing="0" id="sidebar_table">
@@ -878,6 +899,7 @@ document.onclick=checkcontained
 <ul id="sidebar_list">
    <li id="foldheader"><strong>Translate This Page</strong></li>
    <ul id="foldinglist" style="display:none">
+   <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Czh-CN&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Chinese</a></li>  
       <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Ces&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Español</a></li>
       <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Cfr&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Français</a></li>
       <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Cde&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Deutsch</a></li>
@@ -946,67 +968,67 @@ height:20px;
 		<table cellpadding="5" cellspacing="0" border="0" id="sidebar_myakc_text">
 			<tbody><tr>
 				<td>
-					If you give your dog monthly heartworm medication, when during the month do you administer it?<br>
+					Which component of our National Championship coverage do you enjoy the most?<br>
 				</td>
 			</tr>
 		</tbody></table>
 	</td>
 </tr>
 	<form action="/poll/akc_quick_poll.cfm" method="post"></form>
-		<input name="cde_poll" type="hidden" value="20080505090128">
+		<input name="cde_poll" type="hidden" value="20081512104414">
 		
 			<tr>
 				<td width="20" valign="top">
 					
-						<input name="cde_answer" type="radio" value="200805050901281">
+						<input name="cde_answer" type="radio" value="200815121044141">
 					
 			  </td>
 				<td>
-					On the 1st of the month, or as close as possible<br>
+					Competition and win shot photos<br>
 				</td>
 			</tr>
 		
 			<tr>
 				<td width="20" valign="top">
 					
-						<input name="cde_answer" type="radio" value="200805050901282">
+						<input name="cde_answer" type="radio" value="200815121044142">
 					
 			  </td>
 				<td>
-					On the 1st weekend of the month, what date it is<br>
+					Bred By Exhibitor video coverage<br>
 				</td>
 			</tr>
 		
 			<tr>
 				<td width="20" valign="top">
 					
-						<input name="cde_answer" type="radio" value="200805050901283">
+						<input name="cde_answer" type="radio" value="200815121044143">
 					
 			  </td>
 				<td>
-					On or about the 15th of the month<br>
+					Entries and Results areas<br>
 				</td>
 			</tr>
 		
 			<tr>
 				<td width="20" valign="top">
 					
-						<input name="cde_answer" type="radio" value="200805050901284">
+						<input name="cde_answer" type="radio" value="200815121044144">
 					
 			  </td>
 				<td>
-					On the same specific day each month but not the 1st or 15th<br>
+					Judges' biographies<br>
 				</td>
 			</tr>
 		
 			<tr>
 				<td width="20" valign="top">
 					
-						<input name="cde_answer" type="radio" value="200805050901285">
+						<input name="cde_answer" type="radio" value="200815121044145">
 					
 			  </td>
 				<td>
-					I have another system<br>
+					Obedience &amp; Agility coverage<br>
 				</td>
 			</tr>
 		
@@ -1023,42 +1045,42 @@ height:20px;
 
 </tbody></table> 
 
-
-<br> 
-<div id="Frame1_ad" style="margin-bottom: 10px;margin-left: 0px;margin-right: 0px;float:left; ">
+	
+    <br> 
+<div id="Frame1_ad" class="hide_all" style="margin-bottom: 10px;margin-left: 0px;margin-right: 0px;float:left; ">
 <script language="JavaScript">
 <!--
 jsAd( "Frame1")
 //-->
-</script><script language="JavaScript1.1" src="https://oasc04.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20080519060327id_/http%3A//www.akc.org/about/site/privacystatement.cfm/1469131173@Frame1"></script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20081217094731id_/http%3A//www.akc.org/about/site/privacystatement.cfm/1633548014@Frame1,Frame2,BottomRight!Frame1"></script>
 </div>
 
-<div id="Frame2_ad" style="margin-bottom: 10px;margin-left: 0px;margin-right: 0px;float:left; ">
+<div id="Frame2_ad" class="hide_all" style="margin-bottom: 10px;margin-left: 0px;margin-right: 0px;float:left; ">
 <script language="JavaScript">
 <!--
 jsAd( "Frame2")
 //-->
-</script><script language="JavaScript1.1" src="https://oasc04.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20080519060327id_/http%3A//www.akc.org/about/site/privacystatement.cfm/1469131173@Frame2"></script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20081217094731id_/http%3A//www.akc.org/about/site/privacystatement.cfm/1633548014@Frame1,Frame2,BottomRight!Frame2"></script>
 </div>
 
-<div id="BottomRight_ad" style="margin-left: 0px;margin-right: 0px;float:left; ">
+<div id="BottomRight_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;float:left; ">
 <script language="JavaScript">
 <!--
 jsAd( "BottomRight")
 //-->
-</script><script language="JavaScript1.1" src="https://oasc04.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20080519060327id_/http%3A//www.akc.org/about/site/privacystatement.cfm/1469131173@BottomRight"></script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20081217094731id_/http%3A//www.akc.org/about/site/privacystatement.cfm/1633548014@Frame1,Frame2,BottomRight!BottomRight"></script>
 </div>
 
 	<div style="color:#000873">
-	greyhound
+	whippet
  - ecom
 	</div> 
 
 </div>
 
 
-<div id="breed_images_box" style="margin-top: 5px;"> <a href="/breeds/pointer/index.cfm"><img src="/images/rotating/pointer.png" width="227" height="90" border="0"></a> </div>
-<div id="second_nav_box" style="margin-top: 5px;"><div id="second_nav_text"><style type="text/css">
+<div id="breed_images_box" style="margin-top: 95px;"> <a href="/breeds/irish_water_spaniel/index.cfm"><img src="/images/rotating/irish_water_spaniel.png" width="227" height="90" border="0"></a> </div>
+<div id="second_nav_box" style="margin-top: 95px;"><div id="second_nav_text"><style type="text/css">
 #second_nav_box {
 position:absolute;
 left:205px;
@@ -1129,8 +1151,8 @@ font-weight:normal;
 </tbody></table>
 
 </div></div>
-<div id="slogan_box" style="margin-top: 5px;"><div id="slogan_text"><img src="http://images.akc.org/template/header/tagline.gif"></div></div>
-<div id="site_search" style="margin-top: 5px;"> 
+<div id="slogan_box" style="margin-top: 95px;"><div id="slogan_text"><img src="http://images.akc.org/template/header/tagline.gif"></div></div>
+<div id="site_search" style="margin-top: 95px;"> 
 
 
  <!-- Google CSE Search Box Begins -->
@@ -1145,7 +1167,6 @@ font-weight:normal;
 (function() { var f = document.getElementById('searchbox_000165061515928511887:cg0wps9qldu'); if (!f) { f = document.getElementById('searchbox_demo'); } if (f && f.q) { var q = f.q; var n = navigator; var l = location; if (n.platform == 'Win32') { q.style.cssText = 'border: 1px solid #7e9db9; padding: 2px;'; } var b = function() { if (q.value == '') { q.style.background = '#FFFFFF url(http://images.akc.org/template/google_custom_search_watermark.gif) left no-repeat'; } }; var f = function() { q.style.background = '#ffffff'; }; q.onfocus = f; q.onblur = b; if (!/[&?]q=[^&]/.test(l.search)) { b(); } } })();  
  </script>
  <!-- Google CSE Search Box Ends --> </div>
-
 
 
 
@@ -1169,76 +1190,66 @@ function findPosY(obj)
 	}
   }
 		  
-
-egp = document.getElementById("TopLeft_ad").innerHTML.indexOf("empty.gif");
-if ( egp > 0 ) {
-	document.getElementById('TopLeft_ad').style.display      = 'none';
-}
-	  
-
-
-	var typicalOffset = 12;
-	var addToOffset   = -8;	
-	  
-  	
-	  
-var A =	 findPosY(document.getElementById("headerGraphic"));
-var B =  findPosY(document.getElementById("sidebar_main"));
-var C =  findPosY(document.getElementById("slogan_box"));
-var D =  findPosY(document.getElementById("breed_images_box"));
-var E =  findPosY(document.getElementById("site_search"));
-var F =  findPosY(document.getElementById("second_nav_box"));
-
-/*
-if (StartTop) {
-//var E =  StartTop;
-StartTop = 140; // re-position due to new layout
-var G =  StartTop;
-}else{ 
-var G =  0;
-}
-*/
-
-
-if (! StartTop) {
-var G =  0;
-var StartTop = 0;
-} else {
-var StartTop = 140;
-var G = StartTop;
-}
- 
-//  alert ( "Y Coordinates:\n" + " headerGraphic: " + A + "\n sidebar_main: " + B + "\n slogan_box: " + C + "\n breed_images_box: " + D + "\n Site Search: " + E + "\n second_nav_box: " + F + "\n StartTop: " + G );
-
-if ( A > typicalOffset   &&   egp < 1 ) {
-	var addToOffset   = 4;
-	if(document.getElementById("sidebar_main")!=null){
-	document.getElementById("sidebar_main").style.marginTop     = A - typicalOffset + addToOffset;
+var egp = 1;		  
+ if ( document.getElementById("TopLeft_ad") ) {
+	egp = document.getElementById("TopLeft_ad").innerHTML.indexOf("empty.gif");
+	if ( egp > 0 ) {
+		document.getElementById('TopLeft_ad').style.display      = 'none';
 	}
-	document.getElementById("slogan_box").style.marginTop       = A - typicalOffset + addToOffset;
-	document.getElementById("breed_images_box").style.marginTop = A - typicalOffset + addToOffset;
-	document.getElementById("site_search").style.marginTop      = A - typicalOffset + addToOffset;
-	document.getElementById("second_nav_box").style.marginTop   = A - typicalOffset + addToOffset;
-	document.getElementById('ad_display').style.background      = 'url(/layouts/Standard/images/top_bkg.gif)';
-	if (StartTop) {
-		//alert (StartTop);
-		StartTop = StartTop + (A - typicalOffset); 
-		//alert (StartTop);
+} // end if ( check for TopLeft_ad div )
+	  
+	
+	
+		var typicalOffset = 12;
+		var addToOffset   = -8;	
+		  
+		
+		  
+	var A =	 findPosY(document.getElementById("headerGraphic"));
+	var B =  findPosY(document.getElementById("sidebar_main"));
+	var C =  findPosY(document.getElementById("slogan_box"));
+	var D =  findPosY(document.getElementById("breed_images_box"));
+	var E =  findPosY(document.getElementById("site_search"));
+	var F =  findPosY(document.getElementById("second_nav_box"));
+	
+	if (! StartTop) {
+	var G =  0;
+	var StartTop = 0;
+	} else {
+	var StartTop = 140;
+	var G = StartTop;
 	}
-	//else {
-	//	StartTop = 1;
-	//}
-} else {
-	//document.getElementById('ad_display').style.background      = 'none';
-	if(document.getElementById("sidebar_main")!=null){
-	document.getElementById("sidebar_main").style.marginTop     = A  + addToOffset;
-	}
-	document.getElementById("slogan_box").style.marginTop       = A  + addToOffset;
-	document.getElementById("breed_images_box").style.marginTop = A  + addToOffset;
-	document.getElementById("site_search").style.marginTop      = A  + addToOffset;
-	document.getElementById("second_nav_box").style.marginTop   = A  + addToOffset;	
-	document.getElementById('ad_display').style.background      = 'url(/layouts/Standard/images/top_bkg_clear.gif)';
-} 	
+	if ( A > typicalOffset   &&   egp < 1 ) {
+		var addToOffset   = 4;
+		if(document.getElementById("sidebar_main")!=null){
+		document.getElementById("sidebar_main").style.marginTop     = A - typicalOffset + addToOffset;
+		}
+		document.getElementById("slogan_box").style.marginTop       = A - typicalOffset + addToOffset;
+		document.getElementById("breed_images_box").style.marginTop = A - typicalOffset + addToOffset;
+		document.getElementById("site_search").style.marginTop      = A - typicalOffset + addToOffset;
+		document.getElementById("second_nav_box").style.marginTop   = A - typicalOffset + addToOffset;
+		document.getElementById('ad_display').style.background      = 'url(/layouts/Standard/images/top_bkg.gif)';
+		if (StartTop) {
+			//alert (StartTop);
+			StartTop = StartTop + (A - typicalOffset); 
+			//alert (StartTop);
+		}
+		//else {
+		//	StartTop = 1;
+		//}
+	} else {
+		//document.getElementById('ad_display').style.background      = 'none';
+		if(document.getElementById("sidebar_main")!=null){
+		document.getElementById("sidebar_main").style.marginTop     = A  + addToOffset;
+		}
+		document.getElementById("slogan_box").style.marginTop       = A  + addToOffset;
+		document.getElementById("breed_images_box").style.marginTop = A  + addToOffset;
+		document.getElementById("site_search").style.marginTop      = A  + addToOffset;
+		document.getElementById("second_nav_box").style.marginTop   = A  + addToOffset;	
+		document.getElementById('ad_display').style.background      = 'url(/layouts/Standard/images/top_bkg_clear.gif)';
+	} 	
+
+
 </script>
 
 
