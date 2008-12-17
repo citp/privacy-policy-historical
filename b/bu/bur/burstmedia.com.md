@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the burstmedia.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626115400id_/http%3A//www.burstmedia.com/isl/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burstmedia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217010625id_/http%3A//www.burstmedia.com/isl/privacy.asp) for the most accurate reproduction.*
 
 # Burst Media
 
-Effective date: 12/14/2007
+Effective date: 12/5/2008
 
-Fundamentally, the privacy of web users must be protected and the most effective way to preserve that privacy is to confine their data to the site level. Burst Media as well as Burst AdConductor collects no personally identifiable data, and therefore, protects user privacy while eliminating an unnecessary costly feature. Burst’s TRUSTe license verifies this privacy stance. 
+Fundamentally, the privacy of web users must be protected and the most effective way to preserve that privacy is to confine their data to the site level. Burst Media as well as Burst adConductor collects no personally identifiable data, and therefore, protects user privacy while eliminating an unnecessary costly feature. Burst’s TRUSTe license verifies this privacy stance. 
 
 ## TRUSTe
 
@@ -12,9 +12,9 @@ Fundamentally, the privacy of web users must be protected and the most effective
 
 This confirms that Burst Media is a licensee of the TRUSTe Privacy Program. We also participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. The privacy statement discloses the privacy practices for www.burstmedia.com and www.burstnet.com. If you have questions or concerns regarding this statement, you should first contact Operations at [privacy@burstmedia.com](mailto:privacy@burstmedia.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php> . TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
-### AdConductor Publishers: 
+###  Publishers: 
 
-Burst Media is a licensee of the TRUSTe Privacy Program. We also participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. The privacy statement discloses the privacy practices for www.AdConductor.com and ads.AdConductor.com. If you have questions or concerns regarding this statement, you should first contact Operations at [privacy@AdConductor.com](mailto:privacy@AdConductor.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php> . TRUSTe will then serve as a liaison with the web site to resolve your concerns. 
+Burst Media is a licensee of the TRUSTe Privacy Program. We also participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. The privacy statement discloses the privacy practices for www.adConductor.com and ads.adConductor.com. If you have questions or concerns regarding this statement, you should first contact Operations at [privacy@adConductor.com](mailto:privacy@adConductor.com), [ads.addesktop.com](http://ads.addesktop.com/). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php> . TRUSTe will then serve as a liaison with the web site to resolve your concerns. 
 
 Internet user privacy and confidentiality is of the utmost importance to Burst, our web publisher members, and our advertiser clients. Our reputation and integrity are directly related to how we serve our clients and customers. Please find a description below of how Burst strives to protect the privacy of Internet users and maintain the Internet as a highly credible medium. 
 
@@ -34,9 +34,9 @@ The Platform for Privacy Preferences (P3P) provides a way for Ad Networks and we
 
 Burst may use cookies to improve your Web browsing experience. When you are first served a Burst ad, Burst may assign a unique random number to your computer browser - commonly known as a "cookie." We do this to understand the way a user responds to the ads we deliver. For example, this number lets us keep track of how many times you view an ad we distribute. Likewise, the cookie can help make sure you do not see the same ad over and over - thus enhancing your online Web viewing experience. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire. 
 
-### AdConductor Publishers: 
+### adConductor Publishers: 
 
-AdConductor may use cookies to improve your Web browsing experience. When you are first served an AdConductor ad, AdConductor may assign a unique random number to your computer browser - commonly known as a "cookie." We do this to understand the way a user responds to the ads we deliver. For example, this number lets us keep track of how many times you view an ad we distribute. Likewise, the cookie can help make sure you do not see the same ad over and over - thus enhancing your online Web viewing experience. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire.
+adConductor may use cookies to improve your Web browsing experience. When you are first served an adConductor ad, adConductor may assign a unique random number to your computer browser - commonly known as a "cookie." We do this to understand the way a user responds to the ads we deliver. For example, this number lets us keep track of how many times you view an ad we distribute. Likewise, the cookie can help make sure you do not see the same ad over and over - thus enhancing your online Web viewing experience. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire.
 
 ### Third-Party Measurement Services
 
@@ -56,7 +56,7 @@ In these instances, Burst has no control over the information collected by the t
 
 If you are a Burst Network Publisher and have questions regarding different third-party measurement services and their respective methods of information collection, please contact [privacy@burstmedia.com](mailto:privacy@burstmedia.com).
 
-If you are an AdConductor Publisher and have questions regarding different third-party measurement services and their respective methods of information collection, please contact [privacy@AdConductor.com](mailto:privacy@AdConductor.com).
+If you are an adConductor Publisher and have questions regarding different third-party measurement services and their respective methods of information collection, please contact [privacy@adConductor.com](mailto:privacy@adConductor.com).
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://networkadvertising.org/consumer/opt_out.asp).
 
@@ -68,11 +68,11 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Burst regards all personal information collected from its web publisher members as completely confidential. This includes personal data provided during registration processes and financial account information. Burst does offer to advertisers any data which may facilitate the sale of advertising for a member site. This includes traffic data, click-thru rates, unique visitor information, web site geographic location, content information, and any demographic information offered by the web site member for the purpose of facilitating an advertising sale. 
 
-### AdConductor Publishers:
+### adConductor Publishers:
 
-Burst regards all personal information collected from its AdConductor customers as completely confidential. This includes personal data provided during registration processes and financial account information. 
+Burst regards all personal information collected from its adConductor customers as completely confidential. This includes personal data provided during registration processes and financial account information. 
 
-### AdConductor Publishers:
+### adConductor Publishers:
 
 We collect information which is provided to us such as name, email and phone number on our site in the “Contact Us” section. This information is used to establish contact with perspective publishers and is only used for that purpose.
 
@@ -84,15 +84,21 @@ We follow generally accepted industry standards to protect the personal informat
 
 If you have any questions about security on our Web site, you can email us at [security@burstmedia.com](mailto:security@burstmedia.com).
 
-## Bulletin Boards/Chat Rooms
+## Bulletin Boards/Chat Rooms/Blogs
 
 If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+
+This Web site contains links to other sites that are not owned or controlled by Burst Media Corporation. Please be aware that we, Burst Media Corporation, are not responsible for the privacy practices of such other sites.
+
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+
+This privacy statement applies only to information collected by this Web site.
 
 ## Disclosure 
 
 Burst openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you are a Burst network publisher and have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@burstmedia.com](mailto:privacy@burstmedia.com). 
 
-If you are an AdConductor publisher and have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@AdConductor.com](mailto:privacy@AdConductor.com). 
+If you are an adConductor publisher and have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@adConductor.com](mailto:privacy@adConductor.com). 
 
 ## Correcting/Updating/Deleting/Deactivating Personal Information 
 
@@ -100,7 +106,7 @@ If a user’s personally identifiable information changes, (such as zip code, ph
 
 Burst Network Publishers can direct their request to [privacy@burstmedia.com](mailto:privacy@burstmedia.com) and we will change the information, as requested within 30 days. 
 
-AdConductor publishers can direct their request to [privacy@AdConductor.com](mailto:privacy@AdConductor.com) and we will change the information, as requested within 30 days. 
+adConductor publishers can direct their request to [privacy@adConductor.com](mailto:privacy@adConductor.com) and we will change the information, as requested within 30 days. 
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Ad servers or Web site.
 
