@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408175549id_/http%3A//sparkpeople.com/resource/motivation_articles.asp%3Fid%3D922) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040419id_/http%3A//sparkpeople.com/resource/motivation_articles.asp%3Fid%3D922) for the most accurate reproduction.*
 
 # SparkPeople Privacy Policy
 
@@ -44,8 +44,6 @@ The ads appearing on the Website are delivered to you by a third party. Informat
 **If you have a question or comment about the SparkPeople site or a request to correct or delete your Personal Information, please contact us at [support@sparkpeople.com](mailto:info@sparkpeople.com).  We will use commercially reasonable efforts to fulfill your request in a timely manner.  However, please be aware that even if SparkPeople deletes such Personal Information from its ‘live’ databases, such information may still be stored on other databases (including those kept for archival purposes).
 
  _Last updated August 28, 2007_
-
-_Article created on:   8/28/2007_
 
   
 |   | 
