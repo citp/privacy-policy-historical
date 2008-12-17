@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the deleteddomains.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609113701id_/http%3A//www.deleteddomains.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deleteddomains.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062550id_/http%3A//www.deleteddomains.com/pages/privacy) for the most accurate reproduction.*
 
-# - Expired/Dropped/Deleted Domain Names Every Day
+# Privacy Page for Deleted Domains - Expired, Expiring, Dropped Domain Names
 
-|    
+## PRIVACY STATEMENT
+
 **Privacy Policy**  
 _(Adopted November 1, 2004)_
 
@@ -25,6 +26,3 @@ Information about Users that is maintained on our systems is protected using ind
 
 **Questions**  
 Users may direct questions concerning this Privacy Policy by email to [privacy@inetinteractive.com](mailto:%22privacy@inetinteractive.com%22). 
-
-|  |   
----|---|---
