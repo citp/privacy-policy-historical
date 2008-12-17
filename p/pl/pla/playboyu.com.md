@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playboyu.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608233454id_/http%3A//www.playboyu.com/pbu_public/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboyu.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217103412id_/http%3A//www.playboyu.com/pbu_public/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
 
 # Playboy U
 
