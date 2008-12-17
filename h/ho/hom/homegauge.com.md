@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the homegauge.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630162705id_/http%3A//www.homegauge.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegauge.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104239id_/http%3A//www.homegauge.com/privacy.html) for the most accurate reproduction.*
 
 # HomeGauge Privacy Policy
 
-What this Privacy Policy Covers 
+What this Privacy Policy Covers
 
 This Privacy Policy covers SHGI Corporation's treatment of personally identifiable information that SHGI Corporation collects when you are on the HomeGauge site, and when you use the HomeGauge service. This policy does not apply to the practices of companies that SHGI Corporation does not own or control, or to people that SHGI Corporation does not employ or manage. SHGI Corporation may amend this policy from time to time. 
 
