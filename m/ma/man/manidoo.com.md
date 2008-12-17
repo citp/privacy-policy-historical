@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manidoo.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615141556id_/http%3A//www.manidoo.com/village/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manidoo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085559id_/http%3A//www.manidoo.com/Village/PrivacyPolicy) for the most accurate reproduction.*
 
 # Manidoo's Privacy Policy
 
