@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amexnetwork.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517130934id_/http%3A//www.amexnetwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amexnetwork.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081656id_/http%3A//www.amexnetwork.com/privacy.html) for the most accurate reproduction.*
 
 # The American Express Network > Privacy Policy
 
@@ -76,6 +76,8 @@ We may use your e-mail address to send you the following types of e-mail message
 To make our e-mail offers more relevant to you, we may use information you provided in your initial transaction with us, in surveys, from information we have about you as a holder of an American Express-branded card - such as purchasing preferences or lifestyle - and information available from external sources such as census bureau data. 
 
 When we send e-mail to you, we may be able to identify information about your e-mail address, such as whether you can view graphic-rich HTML e-mail. If your e-mail address is HTML-enabled, we may choose to send you graphic-rich HTML e-mail messages.
+
+Any email address provided for Remind Me messages will not be used for any purpose other than sending the email(s) and the email address will not be retained after the email(s) is sent.
 
 You may also receive e-mail offers from the issuer of your American Express-branded card, or other companies, if you have requested that the company send you offers from its partners and/or advertisers. To decline offers from other companies who may send offers on behalf of the issuer of your American Express-branded cards, follow the instructions provided by that company. 
 
