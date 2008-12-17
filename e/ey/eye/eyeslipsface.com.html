@@ -1,7 +1,73 @@
-<!--The following is the downloaded HTML source of the eyeslipsface.com privacy policy that was archived on 2008-03-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080319072456id_/http%3A//www.eyeslipsface.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eyeslipsface.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217085044id_/http%3A//www.eyeslipsface.com/privacy_policy) for the most accurate reproduction.-->
 
 <html><head><script>
+		var XMLHttpRequestObject = false;       
+	
+		if (window.XMLHttpRequest) 
+		 {	XMLHttpRequestObject = new XMLHttpRequest();  } 
+		 else if (window.ActiveXObject) 
+		 { XMLHttpRequestObject = new ActiveXObject("Microsoft.XMLHTTP")  }
+		
+		function getData(datasource,divid)
+		{
+		  if (XMLHttpRequestObject)
+		 	{
+				var obj = document.getElementById(divid);
+				XMLHttpRequestObject.open("GET", datasource+"&ms=" + new Date().getTime(),true);
+				XMLHttpRequestObject.onreadystatechange = function()
+				{
+					if (XMLHttpRequestObject.readyState ==4 && XMLHttpRequestObject.status == 200)
+						{ obj.innerHTML  = XMLHttpRequestObject.responseText; }           
+				}
+				XMLHttpRequestObject.send(null);
+			}         
+		
+		}  
+</script>
+
+
+<style>
+<!--
+#dropdown{
+filter:revealTrans(Duration=2,Transition=5)
+visibility:visible;
+}
+-->
+</style>
+ 
+<script language="javascript"> 
+var broswerType=navigator.appVersion
+
+function showDropDown() { 
+	
+	if (broswerType.indexOf('MSIE') > 1 ) {
+	
+		dropdown.filters[0].Apply();
+		
+		if (dropdown.style.visibility == "visible") { 
+			dropdown.style.visibility = "hidden"; 
+			dropdown.filters.revealTrans.transition=5; 
+		} else { 
+			dropdown.style.visibility = "visible"; 
+			dropdown.filters[0].transition=5; 
+		} 
+			
+		dropdown.filters[0].Play(); 
+		
+	} else {
+		
+		if (dropdown.style.visibility == "visible") { 
+			dropdown.style.visibility = "hidden"; 
+		} else { 
+			dropdown.style.visibility = "visible"; 
+		} 
+	}	
+}
+	
+	
+</script> 
+<script>
 		var XMLHttpRequestObject = false;       
 	
 		if (window.XMLHttpRequest) 
@@ -71,19 +137,25 @@ function showDropDown() {
 
 
 
-	<title>Shop Eyes Lips Face</title>
+	
+		<title>elf Cosmetics | EyesLipsFace.com | Privacy Policy</title>
+
+		<meta name="description" content="This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.">
+
+		<meta name="keywords" content="elf cosmetics, eyeslipsface.com, privacy policy">
+
+	
+	<!-- the src in both <script> tags to use 'https' instead of 'http' -->
+	<link href="http://t.p.mybuys.com/css/mbstyles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
+	<script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js"></script>
+	<script type="text/javascript" src="http://t.p.mybuys.com/clients/ELFCOSMETICS/js/setup.js">
+	</script>
+	<!-- End MyBuys libraries and style sheet -->
+
+	
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	
-<meta name="description" content="
-Elf cosmetics prescribes a luxurious line of problem-solution cosmetics for the treatment of challenged skin.  At e.l.f cosmetics we understand that women should be able to play in innovation without sacrificing their budget, therefore all our products are Value priced cosmetics that sell for $1.00. E.l.f cosmetics lip gloss is first to combining SPF skin care with micro-mirror technology. 
-">
-<meta name="keywords" content="
-lip stick, lip gloss,eyes, lips, face, make up,makeup,cosmetics,Eye liner,Eye shadow,Bronzer,Lip gloss,SPF 15,Pressed powder,tineted moisturizer,moisturizer,
-lip balm,chap stick,Facial whip,Stila cosmetics,Mac cosmetics,Mary Kay cosmetics,Neutrogena,One dollar ,$1,buck,Cheap makeup,Value makeup, value priced cosmetics, cheap cosmetics
-off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
-
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="/style.css">
 	<script language="JavaScript" type="text/JavaScript">
 	    function openwin2(windowname) {
 	    window.open(windowname,'wtcwin2','width=700,height=550,directories=no,location=no,menubar=no,scrollbars=yes,status=no,toolbar=no,resizable=yes');
@@ -109,11 +181,7 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 	pageTracker._trackPageview();
 	</script>
 
-	<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	_uacct = "UA-432816-1";
-	urchinTracker();
-	</script>	
+	
 </head>
 
 <body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
@@ -123,7 +191,7 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 		<table cellpadding="0" cellspacing="0" height="100%" width="100%">
 			<tbody><tr><td height="136" bgcolor="#f7dcdc"></td></tr>
 			<tr><td height="23" bgcolor="#efecec"><img src="http://www.eyeslipsface.com/images/spacer.gif" height="23"></td></tr>
-			<tr><td bgcolor="#d0cfcf" style="background-image:url('images/bkgd_gry_left.gif');background-repeat: repeat-y;background-position:right;">&nbsp;</td></tr>
+			<tr><td bgcolor="#d0cfcf" style="background-image:url('/images/bkgd_gry_left.gif');background-repeat: repeat-y;background-position:right;">&nbsp;</td></tr>
 		</tbody></table>
 	</td>
 	<td bgcolor="#cccccc" width="1"><img src="http://www.eyeslipsface.com/images/spacer.gif" width="1"></td>
@@ -131,7 +199,7 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 		<table cellpadding="0" cellspacing="0" width="899" border="0" height="100%">
 		    <tbody><tr><td height="136" bgcolor="#f7dcdc">
 				<table cellpadding="0" cellspacing="0" border="0" width="100%">
-					<tbody><tr><td rowspan="7"><a href="http://www.eyeslipsface.com/default.asp"><img src="http://www.eyeslipsface.com/images/logo.gif"></a></td>
+					<tbody><tr><td rowspan="7"><a href="http://www.eyeslipsface.com/home"><img src="http://www.eyeslipsface.com/images/logo.gif"></a></td>
 						<td height="36"><img src="http://www.eyeslipsface.com/images/spacer.gif" height="36"></td></tr>
 					<tr><td style="padding-right:6px;" align="right" valign="top">
 						<table cellpadding="0" cellspacing="0" align="right" valign="top">
@@ -145,7 +213,7 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 								<td><img src="http://www.eyeslipsface.com/images/nav_parser_top.gif"></td>
 								<td><a href="https://www.eyeslipsface.com/shop/tab_referafriend.asp"><img src="http://www.eyeslipsface.com/images/nav_referafriend.gif"></a></td>
 								<td><img src="http://www.eyeslipsface.com/images/nav_parser_top.gif"></td>
-								<td><a href="http://www.eyeslipsface.com/philosophy.asp"><img src="http://www.eyeslipsface.com/images/nav_elfphilosophy.gif"></a></td>
+								<td><a href="http://www.eyeslipsface.com/philosophy"><img src="http://www.eyeslipsface.com/images/nav_elfphilosophy.gif"></a></td>
 							</tr>
 							<tr><td height="1" bgcolor="#FFFFFF" colspan="11"><img src="http://www.eyeslipsface.com/images/spacer.gif" height="1"></td></tr>
 					
@@ -155,9 +223,9 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 						<table cellpadding="0" cellspacing="0" align="right" border="0">
 							<tbody><tr><td><a href="http://www.eyeslipsface.com/autodelivery.asp"><img src="http://www.eyeslipsface.com/images/nav_autodelivery.gif"></a></td>
 								<td><img src="http://www.eyeslipsface.com/images/nav_parser_bottom.gif"></td>
-								<td><a href="http://www.eyeslipsface.com/tab_buzz.asp"><img src="http://www.eyeslipsface.com/images/nav_thebuzz.gif"></a></td>
+								<td><a href="http://www.eyeslipsface.com/buzz"><img src="http://www.eyeslipsface.com/images/nav_thebuzz.gif"></a></td>
 								<td><img src="http://www.eyeslipsface.com/images/nav_parser_bottom.gif"></td>
-								<td><a href="http://www.eyeslipsface.com/storelocator.asp"><img src="http://www.eyeslipsface.com/images/nav_storelocator.gif"></a></td>
+								<td><a href="http://www.eyeslipsface.com/storelocator"><img src="http://www.eyeslipsface.com/images/nav_storelocator.gif"></a></td>
 								<td><img src="http://www.eyeslipsface.com/images/nav_parser_bottom.gif"></td>
 								<td><a href="http://www.eyeslipsface.com/contactus.asp"><img src="http://www.eyeslipsface.com/images/nav_customerservice.gif"></a></td>
 								<td><img src="http://www.eyeslipsface.com/images/nav_parser_bottom.gif"></td>
@@ -166,13 +234,13 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 								
 								<td width="25" class="parText" align="center" valign="bottom" style="padding-bottom:1px;text-decoration:underline;font-size:12px;cursor:pointer;cursor:hand;" onclick="window.location.href='http://www.eyeslipsface.com/cartviewedit.asp';" id="cartTotal">0</td>
 								<td><!--<a href="http://www.eyeslipsface.com/cartviewedit.asp"><img src="http://www.eyeslipsface.com/images/nav_shoppingbag.gif"></a>-->
-									<img style="cursor:pointer;cursor:hand;" src="images/nav_shoppingbag.gif" border="0" onclick="window.location.href='http://www.eyeslipsface.com/cartviewedit.asp';"><br>
+									<img style="cursor:pointer;cursor:hand;" src="/images/nav_shoppingbag.gif" border="0" onclick="window.location.href='http://www.eyeslipsface.com/cartviewedit.asp';"><br>
 									<div id="dropdown" style="position:absolute; margin-left:-94px;background-color:#efecec;width:202;visibility:hidden;z-index:600;"> 
 										 <table cellpadding="0" cellspacing="0" width="100%" class="parText" bgcolor="#FFFFFF" style="border:5px solid #efecec;">
 										 	<tbody><tr><td colspan="2" height="25" bgcolor="#efecec">
 												<table height="24" width="100%" class="partext" cellpadding="0" cellspacing="0">
 													<tbody><tr><td style="font-weight:bold;"></td> 
-														<td align="right"><img src="images/closebox.gif" onclick="document.getElementById('dropdown').style.visibility='hidden';" style="cursor:pointer;cursor:hand;"></td></tr>
+														<td align="right"><img src="/images/closebox.gif" onclick="document.getElementById('dropdown').style.visibility='hidden';" style="cursor:pointer;cursor:hand;"></td></tr>
 												</tbody></table>
 											</td></tr>
 										 
@@ -182,7 +250,7 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 														<td align="right" style="padding-right:5px;">subtotal $0.00</td></tr>
 												</tbody></table>
 											</td></tr>
-											<tr><td colspan="2" height="42" align="right" style="padding-right:5px;"><a href="http://www.eyeslipsface.com/cartviewedit.asp"><img src="images/btn_checkout.gif"></a>
+											<tr><td colspan="2" height="42" align="right" style="padding-right:5px;"><a href="http://www.eyeslipsface.com/cartviewedit.asp"><img src="/images/btn_checkout.gif"></a>
 										</td></tr></tbody></table>
 									</div>
 								</td>
@@ -195,10 +263,10 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 					<tr><td style="padding-right:6px;" align="right">
 						<table cellpadding="0" cellspacing="0" align="right" border="0">
 							<form name="searchform" action="search.asp"></form>
-							<tbody><tr><td><img src="images/FreeShipping_75.gif" onmouseover="freeShip_75.style.visibility='visible';" onmouseout="freeShip_75.style.visibility='hidden';"><br>
+							<tbody><tr><td><img src="/images/FreeShipping_75.gif" onmouseover="freeShip_75.style.visibility='visible';" onmouseout="freeShip_75.style.visibility='hidden';"><br>
 									<div name="freeShip_75" id="freeShip_75" style="visibility: hidden;position:absolute;">
 										<table bgcolor="#FFFFFF" class="parText">
-											<tbody><tr><td>For a limited time only spend $75.00 or more at eyeslipsface.com and Free Shipping will automatically be deducted at checkout. For orders with expidited shipping a credit of $6.95 will be deducted from final shipping charge. 
+											<tbody><tr><td>For a limited time only spend $75.00 or more at eyeslipsface.com and Free Shipping will automatically be deducted at checkout. For orders with expedited shipping and Canadian orders, a credit of $6.95 will be deducted from the final shipping charge. 
 										</td></tr></tbody></table></div></td>
 								<td><img src="http://www.eyeslipsface.com/images/nav_search.gif"></td>
 								<td><input type="text" name="searchvar" class="grybox"></td>
@@ -212,63 +280,71 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 			</td></tr>
 			<tr><td valign="top">
 				<table cellpadding="0" cellspacing="0" valign="top" width="100%" bgcolor="#efecec">
-					<tbody><tr><td bgcolor="#efecec"><a href="shop.asp"><img src="http://www.eyeslipsface.com/images/nav_shop.gif" border="0"></a></td>
+					<tbody><tr><td bgcolor="#efecec"><a href="/shop"><img src="http://www.eyeslipsface.com/images/nav_shop.gif" border="0"></a></td>
 						<td bgcolor="#efecec">
-	<div onmouseover="document.getElementById('dropDown_1000').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1000').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;">
-	<a href="depts.asp?dept_id=1000"><img id="nav_1000" src="http://www.eyeslipsface.com/images/nav_eyes.gif" onmouseover="this.src='images/nav_eyes_on.gif';" onmouseout="this.src='images/nav_eyes.gif';"></a></div>
+	<div onmouseover="document.getElementById('dropDown_1000').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1000').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;"> 
+	<a href="/eyes"><img id="nav_1000" src="http://www.eyeslipsface.com/images/nav_eyes.gif" onmouseover="this.src='/images/nav_eyes_on.gif';" onmouseout="this.src='/images/nav_eyes.gif';"></a></div>
 	<div align="left" id="dropDown_1000" onmouseover="document.getElementById('dropDown_1000').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1000').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden; z-index:9999;"> 
-		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1000').src='images/nav_eyes_on.gif';" onmouseout="document.getElementById('nav_1000').src='images/nav_eyes.gif';">
+		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1000').src='/images/nav_eyes_on.gif';" onmouseout="document.getElementById('nav_1000').src='/images/nav_eyes.gif';">
 			<tbody><tr>
 				<td colspan="2">
 					<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
 						<tbody><tr><td><img src="http://www.eyeslipsface.com/images/spacer.gif" height="3"></td></tr>
 						
-								<tr onclick="window.location.href='products.asp?dept_id=1156';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1156" class="dropDown">waterproof liquid eyeliner </a></td></tr>
+								<tr onclick="window.location.href='/eyes/waterproof_eyeliner_pen';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/waterproof_eyeliner_pen" class="dropDown">waterproof eyeliner pen</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1222';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1222" class="dropDown">false lashes</a></td></tr>
+								<tr onclick="window.location.href='/eyes/liquid_eyeliner_';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/liquid_eyeliner_" class="dropDown">liquid eyeliner </a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1015';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1015" class="dropDown">earth &amp; water mascara duo</a></td></tr>
+								<tr onclick="window.location.href='/eyes/false_lashes';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/false_lashes" class="dropDown">false lashes</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1043';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1043" class="dropDown">wet gloss lash &amp; brow clear mascara</a></td></tr>
+								<tr onclick="window.location.href='/eyes/earth_&amp;_water_mascara_duo';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/earth_&amp;_water_mascara_duo" class="dropDown">earth &amp; water mascara duo</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1003';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1003" class="dropDown">brightening eye liner</a></td></tr>
+								<tr onclick="window.location.href='/eyes/wet_gloss_lash_&amp;_brow_clear_mascara';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/wet_gloss_lash_&amp;_brow_clear_mascara" class="dropDown">wet gloss lash &amp; brow clear mascara</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1004';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1004" class="dropDown">brightening eye color</a></td></tr>
+								<tr onclick="window.location.href='/eyes/brightening_eye_liner';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/brightening_eye_liner" class="dropDown">brightening eye liner</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1218';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1218" class="dropDown">duo eye shadow cream</a></td></tr>
+								<tr onclick="window.location.href='/eyes/brightening_eye_color';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/brightening_eye_color" class="dropDown">brightening eye color</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1070';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1070" class="dropDown">eye widener</a></td></tr>
+								<tr onclick="window.location.href='/eyes/duo_eye_shadow_cream';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/duo_eye_shadow_cream" class="dropDown">duo eye shadow cream</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1073';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1073" class="dropDown">eye makeup remover pads</a></td></tr>
+								<tr onclick="window.location.href='/eyes/eye_widener';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/eye_widener" class="dropDown">eye widener</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1111';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1111" class="dropDown">all over color stick </a></td></tr>
+								<tr onclick="window.location.href='/eyes/eye_makeup_remover_pads';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/eye_makeup_remover_pads" class="dropDown">eye makeup remover pads</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1133';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1133" class="dropDown">custom eyes</a></td></tr>
+								<tr onclick="window.location.href='/eyes/all_over_color_stick_';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/all_over_color_stick_" class="dropDown">all over color stick </a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1158';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1158" class="dropDown">get the looks</a></td></tr>
+								<tr onclick="window.location.href='/eyes/shimmering_facial_whip';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/shimmering_facial_whip" class="dropDown">shimmering facial whip</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/eyes/custom_eyes';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/custom_eyes" class="dropDown">custom eyes</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/eyes/get_the_looks';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/eyes/get_the_looks" class="dropDown">get the looks</a></td></tr>
 						
 								
 					</tbody></table>
@@ -284,73 +360,73 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 
 </td> 
 						<td bgcolor="#efecec">
-	<div onmouseover="document.getElementById('dropDown_1001').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1001').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;">
-	<a href="depts.asp?dept_id=1001"><img id="nav_1001" src="http://www.eyeslipsface.com/images/nav_lips.gif" onmouseover="this.src='images/nav_lips_on.gif';" onmouseout="this.src='images/nav_lips.gif';"></a></div>
+	<div onmouseover="document.getElementById('dropDown_1001').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1001').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;"> 
+	<a href="/lips"><img id="nav_1001" src="http://www.eyeslipsface.com/images/nav_lips.gif" onmouseover="this.src='/images/nav_lips_on.gif';" onmouseout="this.src='/images/nav_lips.gif';"></a></div>
 	<div align="left" id="dropDown_1001" onmouseover="document.getElementById('dropDown_1001').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1001').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden; z-index:9999;"> 
-		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1001').src='images/nav_lips_on.gif';" onmouseout="document.getElementById('nav_1001').src='images/nav_lips.gif';">
+		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1001').src='/images/nav_lips_on.gif';" onmouseout="document.getElementById('nav_1001').src='/images/nav_lips.gif';">
 			<tbody><tr>
 				<td colspan="2">
 					<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
 						<tbody><tr><td><img src="http://www.eyeslipsface.com/images/spacer.gif" height="3"></td></tr>
 						
-								<tr onclick="window.location.href='products.asp?dept_id=1186';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1186" class="dropDown">candy shop lip tins</a></td></tr>
+								<tr onclick="window.location.href='/lips/_super_glossy_lip_shine_spf_box_set_of_5';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/_super_glossy_lip_shine_spf_box_set_of_5" class="dropDown"> super glossy lip shine spf box set of 5</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1096';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1096" class="dropDown">super glossy lip shine spf 15</a></td></tr>
+								<tr onclick="window.location.href='/lips/candy_shop_lip_tins';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/candy_shop_lip_tins" class="dropDown">candy shop lip tins</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1095';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1095" class="dropDown">plumping lip glaze</a></td></tr>
+								<tr onclick="window.location.href='/lips/super_glossy_lip_shine_spf_15';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/super_glossy_lip_shine_spf_15" class="dropDown">super glossy lip shine spf 15</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1012';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1012" class="dropDown">hypershine gloss</a></td></tr>
+								<tr onclick="window.location.href='/lips/plumping_lip_glaze';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/plumping_lip_glaze" class="dropDown">plumping lip glaze</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1041';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1041" class="dropDown">luscious liquid lipstick</a></td></tr>
+								<tr onclick="window.location.href='/lips/hypershine_gloss';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/hypershine_gloss" class="dropDown">hypershine gloss</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1042';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1042" class="dropDown">feather proof moisturizing lip liner</a></td></tr>
+								<tr onclick="window.location.href='/lips/luscious_liquid_lipstick';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/luscious_liquid_lipstick" class="dropDown">luscious liquid lipstick</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1013';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1013" class="dropDown">therapeutic conditioning balm</a></td></tr>
+								<tr onclick="window.location.href='/lips/feather_proof_moisturizing_lip_liner';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/feather_proof_moisturizing_lip_liner" class="dropDown">feather proof moisturizing lip liner</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1112';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1112" class="dropDown">all over color stick </a></td></tr>
+								<tr onclick="window.location.href='/lips/therapeutic_conditioning_lip_balm';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/therapeutic_conditioning_lip_balm" class="dropDown">therapeutic conditioning lip balm</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1134';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1134" class="dropDown">custom lips</a></td></tr>
+								<tr onclick="window.location.href='/lips/all_over_color_stick_';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/all_over_color_stick_" class="dropDown">all over color stick </a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1159';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1159" class="dropDown">lip cases</a></td></tr>
+								<tr onclick="window.location.href='/lips/custom_lips';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/custom_lips" class="dropDown">custom lips</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1142';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1142" class="dropDown">hypershine gloss box set of 8</a></td></tr>
+								<tr onclick="window.location.href='/lips/hypershine_gloss_box_set_of_8';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/hypershine_gloss_box_set_of_8" class="dropDown">hypershine gloss box set of 8</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1144';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1144" class="dropDown">plumping lip glaze box set of 7</a></td></tr>
+								<tr onclick="window.location.href='/lips/shimmering_facial_whip';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/shimmering_facial_whip" class="dropDown">shimmering facial whip</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1143';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1143" class="dropDown"> super glossy lip shine spf box set of 5</a></td></tr>
+								<tr onclick="window.location.href='/lips/hypershine_mini_cell_phone_lip_gloss_charms';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/hypershine_mini_cell_phone_lip_gloss_charms" class="dropDown">hypershine mini cell phone lip gloss charms</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1099';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1099" class="dropDown">hypershine mini cell phone lip gloss charms</a></td></tr>
+								<tr onclick="window.location.href='/lips/lip_gloss_cell_phone_charm_duo';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/lip_gloss_cell_phone_charm_duo" class="dropDown">lip gloss cell phone charm duo</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1217';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1217" class="dropDown">candy shop lip tins fish bowl</a></td></tr>
+								<tr onclick="window.location.href='/lips/candy_shop_lip_tins_fish_bowl';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/lips/candy_shop_lip_tins_fish_bowl" class="dropDown">candy shop lip tins fish bowl</a></td></tr>
 						
 								
 					</tbody></table>
@@ -366,57 +442,49 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 
 </td>
 						<td bgcolor="#efecec">
-	<div onmouseover="document.getElementById('dropDown_1002').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1002').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;">
-	<a href="depts.asp?dept_id=1002"><img id="nav_1002" src="http://www.eyeslipsface.com/images/nav_face.gif" onmouseover="this.src='images/nav_face_on.gif';" onmouseout="this.src='images/nav_face.gif';"></a></div>
+	<div onmouseover="document.getElementById('dropDown_1002').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1002').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;"> 
+	<a href="/face"><img id="nav_1002" src="http://www.eyeslipsface.com/images/nav_face.gif" onmouseover="this.src='/images/nav_face_on.gif';" onmouseout="this.src='/images/nav_face.gif';"></a></div>
 	<div align="left" id="dropDown_1002" onmouseover="document.getElementById('dropDown_1002').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1002').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden; z-index:9999;"> 
-		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1002').src='images/nav_face_on.gif';" onmouseout="document.getElementById('nav_1002').src='images/nav_face.gif';">
+		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1002').src='/images/nav_face_on.gif';" onmouseout="document.getElementById('nav_1002').src='/images/nav_face.gif';">
 			<tbody><tr>
 				<td colspan="2">
 					<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
 						<tbody><tr><td><img src="http://www.eyeslipsface.com/images/spacer.gif" height="3"></td></tr>
 						
-								<tr onclick="window.location.href='products.asp?dept_id=1113';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1113" class="dropDown">all over color stick </a></td></tr>
+								<tr onclick="window.location.href='/face/all_over_color_stick_';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/face/all_over_color_stick_" class="dropDown">all over color stick </a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1114';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1114" class="dropDown">all over cover stick</a></td></tr>
+								<tr onclick="window.location.href='/face/all_over_cover_stick';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/face/all_over_cover_stick" class="dropDown">all over cover stick</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1039';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1039" class="dropDown">natural radiance blusher</a></td></tr>
+								<tr onclick="window.location.href='/face/natural_radiance_blusher';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/face/natural_radiance_blusher" class="dropDown">natural radiance blusher</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1076';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1076" class="dropDown">shimmering facial whip</a></td></tr>
+								<tr onclick="window.location.href='/face/shimmering_facial_whip';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/face/shimmering_facial_whip" class="dropDown">shimmering facial whip</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1071';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1071" class="dropDown">healthy glow bronzing powder</a></td></tr>
+								<tr onclick="window.location.href='/face/healthy_glow_bronzing_powder';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/face/healthy_glow_bronzing_powder" class="dropDown">healthy glow bronzing powder</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1009';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1009" class="dropDown">shielding hydro-tint spf 15</a></td></tr>
+								<tr onclick="window.location.href='/face/shielding_hydro-tint_spf_15';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/face/shielding_hydro-tint_spf_15" class="dropDown">shielding hydro-tint spf 15</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1007';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1007" class="dropDown">tone correcting concealer</a></td></tr>
+								<tr onclick="window.location.href='/face/tone_correcting_concealer';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/face/tone_correcting_concealer" class="dropDown">tone correcting concealer</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1008';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1008" class="dropDown">clarifying  pressed powder</a></td></tr>
+								<tr onclick="window.location.href='/face/clarifying__pressed_powder';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/face/clarifying__pressed_powder" class="dropDown">clarifying  pressed powder</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1135';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1135" class="dropDown">custom face</a></td></tr>
-						
-								
-								<tr onclick="window.location.href='products.asp?dept_id=1137';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1137" class="dropDown">the collection</a></td></tr>
-						
-								
-								<tr onclick="window.location.href='products.asp?dept_id=1138';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1138" class="dropDown">the ultimate kit</a></td></tr>
+								<tr onclick="window.location.href='/face/custom_face';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/face/custom_face" class="dropDown">custom face</a></td></tr>
 						
 								
 					</tbody></table>
@@ -432,37 +500,45 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 
 </td>
 						<td bgcolor="#efecec">
-	<div onmouseover="document.getElementById('dropDown_1016').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1016').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;">
-	<a href="depts.asp?dept_id=1016"><img id="nav_1016" src="http://www.eyeslipsface.com/images/nav_nails.gif" onmouseover="this.src='images/nav_nails_on.gif';" onmouseout="this.src='images/nav_nails.gif';"></a></div>
+	<div onmouseover="document.getElementById('dropDown_1016').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1016').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;"> 
+	<a href="/nails"><img id="nav_1016" src="http://www.eyeslipsface.com/images/nav_nails.gif" onmouseover="this.src='/images/nav_nails_on.gif';" onmouseout="this.src='/images/nav_nails.gif';"></a></div>
 	<div align="left" id="dropDown_1016" onmouseover="document.getElementById('dropDown_1016').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1016').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden; z-index:9999;"> 
-		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1016').src='images/nav_nails_on.gif';" onmouseout="document.getElementById('nav_1016').src='images/nav_nails.gif';">
+		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1016').src='/images/nav_nails_on.gif';" onmouseout="document.getElementById('nav_1016').src='/images/nav_nails.gif';">
 			<tbody><tr>
 				<td colspan="2">
 					<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
 						<tbody><tr><td><img src="http://www.eyeslipsface.com/images/spacer.gif" height="3"></td></tr>
 						
-								<tr onclick="window.location.href='products.asp?dept_id=1154';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1154" class="dropDown">nail polish</a></td></tr>
+								<tr onclick="window.location.href='/nails/nail_polish';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/nails/nail_polish" class="dropDown">nail polish</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1187';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1187" class="dropDown">french manicure set</a></td></tr>
+								<tr onclick="window.location.href='/nails/nail_polish_sets';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/nails/nail_polish_sets" class="dropDown">nail polish sets</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1021';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1021" class="dropDown">nail polish removal pads</a></td></tr>
+								<tr onclick="window.location.href='/nails/french_manicure_set';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/nails/french_manicure_set" class="dropDown">french manicure set</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1018';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1018" class="dropDown">nail block</a></td></tr>
+								<tr onclick="window.location.href='/nails/nail_polish_removal_pads';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/nails/nail_polish_removal_pads" class="dropDown">nail polish removal pads</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1019';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1019" class="dropDown">nail file set</a></td></tr>
+								<tr onclick="window.location.href='/nails/nourishing_cuticle_pen';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/nails/nourishing_cuticle_pen" class="dropDown">nourishing cuticle pen</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1020';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1020" class="dropDown">toe separators</a></td></tr>
+								<tr onclick="window.location.href='/nails/nail_block';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/nails/nail_block" class="dropDown">nail block</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/nails/nail_file_set';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/nails/nail_file_set" class="dropDown">nail file set</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/nails/toe_separators';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/nails/toe_separators" class="dropDown">toe separators</a></td></tr>
 						
 								
 					</tbody></table>
@@ -478,78 +554,82 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 
 </td>
 						<td bgcolor="#efecec">
-	<div onmouseover="document.getElementById('dropDown_1079').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1079').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;">
-	<a href="depts.asp?dept_id=1079"><img id="nav_1079" src="http://www.eyeslipsface.com/images/nav_brushes.gif" onmouseover="this.src='images/nav_brushes_on.gif';" onmouseout="this.src='images/nav_brushes.gif';"></a></div>
+	<div onmouseover="document.getElementById('dropDown_1079').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1079').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;"> 
+	<a href="/brushes"><img id="nav_1079" src="http://www.eyeslipsface.com/images/nav_brushes.gif" onmouseover="this.src='/images/nav_brushes_on.gif';" onmouseout="this.src='/images/nav_brushes.gif';"></a></div>
 	<div align="left" id="dropDown_1079" onmouseover="document.getElementById('dropDown_1079').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1079').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden; z-index:9999;"> 
-		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1079').src='images/nav_brushes_on.gif';" onmouseout="document.getElementById('nav_1079').src='images/nav_brushes.gif';">
+		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1079').src='/images/nav_brushes_on.gif';" onmouseout="document.getElementById('nav_1079').src='/images/nav_brushes.gif';">
 			<tbody><tr>
 				<td colspan="2">
 					<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
 						<tbody><tr><td><img src="http://www.eyeslipsface.com/images/spacer.gif" height="3"></td></tr>
 						
-								<tr onclick="window.location.href='products.asp?dept_id=1140';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1140" class="dropDown">concealer brush</a></td></tr>
+								<tr onclick="window.location.href='/brushes/concealer_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/concealer_brush" class="dropDown">concealer brush</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1032';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1032" class="dropDown">total face brush</a></td></tr>
+								<tr onclick="window.location.href='/brushes/total_face_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/total_face_brush" class="dropDown">total face brush</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1097';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1097" class="dropDown">eyeliner brush</a></td></tr>
+								<tr onclick="window.location.href='/brushes/eyeliner_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/eyeliner_brush" class="dropDown">eyeliner brush</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1098';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1098" class="dropDown">eye shadow brush
+								<tr onclick="window.location.href='/brushes/eye_shadow_brush ';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/eye_shadow_brush " class="dropDown">eye shadow brush
 </a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1030';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1030" class="dropDown">foundation brush</a></td></tr>
+								<tr onclick="window.location.href='/brushes/foundation_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/foundation_brush" class="dropDown">foundation brush</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1031';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1031" class="dropDown">blushing, bronzing and blending brush</a></td></tr>
+								<tr onclick="window.location.href='/brushes/blushing,_bronzing_and_blending_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/blushing,_bronzing_and_blending_brush" class="dropDown">blushing, bronzing and blending brush</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1029';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1029" class="dropDown">defining eye brush</a></td></tr>
+								<tr onclick="window.location.href='/brushes/defining_eye_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/defining_eye_brush" class="dropDown">defining eye brush</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1028';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1028" class="dropDown">blending eye brush</a></td></tr>
+								<tr onclick="window.location.href='/brushes/blending_eye_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/blending_eye_brush" class="dropDown">blending eye brush</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1027';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1027" class="dropDown">eyelash &amp; brow wand</a></td></tr>
+								<tr onclick="window.location.href='/brushes/eyelash_&amp;_brow_wand';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/eyelash_&amp;_brow_wand" class="dropDown">eyelash &amp; brow wand</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1026';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1026" class="dropDown">lip defining brush</a></td></tr>
+								<tr onclick="window.location.href='/brushes/lip_defining_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/lip_defining_brush" class="dropDown">lip defining brush</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1025';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1025" class="dropDown">smudge eye brush</a></td></tr>
+								<tr onclick="window.location.href='/brushes/smudge_eye_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/smudge_eye_brush" class="dropDown">smudge eye brush</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1024';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1024" class="dropDown">brow comb + brush</a></td></tr>
+								<tr onclick="window.location.href='/brushes/brow_comb_+_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/brow_comb_+_brush" class="dropDown">brow comb + brush</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1038';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1038" class="dropDown">e.l.f. professional complete set of 12 brushes</a></td></tr>
+								<tr onclick="window.location.href='/brushes/e.l.f._professional_complete_set_of_12_brushes';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/e.l.f._professional_complete_set_of_12_brushes" class="dropDown">e.l.f. professional complete set of 12 brushes</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1080';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1080" class="dropDown">e.l.f. professional travel kit</a></td></tr>
+								<tr onclick="window.location.href='/brushes/e.l.f._professional_travel_kit';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/e.l.f._professional_travel_kit" class="dropDown">e.l.f. professional travel kit</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1081';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1081" class="dropDown">e.l.f. professional 5 pc. brush collection</a></td></tr>
+								<tr onclick="window.location.href='/brushes/e.l.f._professional_5_pc._brush_collection';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/e.l.f._professional_5_pc._brush_collection" class="dropDown">e.l.f. professional 5 pc. brush collection</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1082';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1082" class="dropDown">e.l.f. professional 9 pc. master set</a></td></tr>
+								<tr onclick="window.location.href='/brushes/e.l.f._professional_9_pc._master_set';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/e.l.f._professional_9_pc._master_set" class="dropDown">e.l.f. professional 9 pc. master set</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/brushes/makeup_artist_brush_belt';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/brushes/makeup_artist_brush_belt" class="dropDown">makeup artist brush belt</a></td></tr>
 						
 								
 					</tbody></table>
@@ -565,61 +645,65 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 
 </td>
 						<td bgcolor="#efecec">
-	<div onmouseover="document.getElementById('dropDown_1023').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1023').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;">
-	<a href="depts.asp?dept_id=1023"><img id="nav_1023" src="http://www.eyeslipsface.com/images/nav_tools.gif" onmouseover="this.src='images/nav_tools_on.gif';" onmouseout="this.src='images/nav_tools.gif';"></a></div>
+	<div onmouseover="document.getElementById('dropDown_1023').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1023').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;"> 
+	<a href="/tools"><img id="nav_1023" src="http://www.eyeslipsface.com/images/nav_tools.gif" onmouseover="this.src='/images/nav_tools_on.gif';" onmouseout="this.src='/images/nav_tools.gif';"></a></div>
 	<div align="left" id="dropDown_1023" onmouseover="document.getElementById('dropDown_1023').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1023').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden; z-index:9999;"> 
-		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1023').src='images/nav_tools_on.gif';" onmouseout="document.getElementById('nav_1023').src='images/nav_tools.gif';">
+		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1023').src='/images/nav_tools_on.gif';" onmouseout="document.getElementById('nav_1023').src='/images/nav_tools.gif';">
 			<tbody><tr>
 				<td colspan="2">
 					<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
 						<tbody><tr><td><img src="http://www.eyeslipsface.com/images/spacer.gif" height="3"></td></tr>
 						
-								<tr onclick="window.location.href='products.asp?dept_id=1074';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1074" class="dropDown">eye makeup remover pads</a></td></tr>
+								<tr onclick="window.location.href='/tools/eye_makeup_remover_pads';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/tools/eye_makeup_remover_pads" class="dropDown">eye makeup remover pads</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1072';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1072" class="dropDown">eye widener</a></td></tr>
+								<tr onclick="window.location.href='/tools/eye_widener';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/tools/eye_widener" class="dropDown">eye widener</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1037';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1037" class="dropDown">mechanical eyelash curler</a></td></tr>
+								<tr onclick="window.location.href='/tools/mechanical_eyelash_curler';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/tools/mechanical_eyelash_curler" class="dropDown">mechanical eyelash curler</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1045';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1045" class="dropDown">shine eraser</a></td></tr>
+								<tr onclick="window.location.href='/tools/shine_eraser';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/tools/shine_eraser" class="dropDown">shine eraser</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1075';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1075" class="dropDown">nail polish removal pads</a></td></tr>
+								<tr onclick="window.location.href='/tools/nail_polish_removal_pads';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/tools/nail_polish_removal_pads" class="dropDown">nail polish removal pads</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1033';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1033" class="dropDown">travel mirror</a></td></tr>
+								<tr onclick="window.location.href='/tools/travel_mirror';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/tools/travel_mirror" class="dropDown">travel mirror</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1036';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1036" class="dropDown">blending wedges</a></td></tr>
+								<tr onclick="window.location.href='/tools/blending_wedges';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/tools/blending_wedges" class="dropDown">blending wedges</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1034';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1034" class="dropDown">powder puffs <br> set of 4</a></td></tr>
+								<tr onclick="window.location.href='/tools/powder_puffs_<br>_set_of_4';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/tools/powder_puffs_&lt;br&gt;_set_of_4" class="dropDown">powder puffs <br> set of 4</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1035';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1035" class="dropDown">eyeshadow applicators</a></td></tr>
+								<tr onclick="window.location.href='/tools/eyeshadow_applicators';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/tools/eyeshadow_applicators" class="dropDown">eyeshadow applicators</a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1083';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1083" class="dropDown">slant tweezer </a></td></tr>
+								<tr onclick="window.location.href='/tools/slant_tweezer_';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/tools/slant_tweezer_" class="dropDown">slant tweezer </a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1108';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1108" class="dropDown">natural lash kit </a></td></tr>
+								<tr onclick="window.location.href='/tools/natural_lash_kit_';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/tools/natural_lash_kit_" class="dropDown">natural lash kit </a></td></tr>
 						
 								
-								<tr onclick="window.location.href='products.asp?dept_id=1110';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1110" class="dropDown">dramatic lash kit </a></td></tr>
+								<tr onclick="window.location.href='/tools/dramatic_lash_kit_';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/tools/dramatic_lash_kit_" class="dropDown">dramatic lash kit </a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/tools/makeup_artist_brush_belt';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/tools/makeup_artist_brush_belt" class="dropDown">makeup artist brush belt</a></td></tr>
 						
 								
 					</tbody></table>
@@ -636,19 +720,21 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 </td>
 						<td bgcolor="#efecec">
 							<div onmouseover="document.getElementById('dropDown_1084').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1084').style.visibility='hidden';" style="cursor:pointer;cursor:hand; ">
-							<a href="elements.asp"><img id="nav_1084" src="http://www.eyeslipsface.com/images/nav_elements.gif" onmouseover="this.src='images/nav_elements_on.gif';" onmouseout="this.src='images/nav_elements.gif';"></a></div>
+							<a href="/elements.asp"><img id="nav_1084" src="http://www.eyeslipsface.com/images/nav_elements.gif" onmouseover="this.src='/images/nav_elements_on.gif';" onmouseout="this.src='/images/nav_elements.gif';"></a></div>
 							<div align="left" id="dropDown_1084" onmouseover="document.getElementById('dropDown_1084').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1084').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden;"> 
-								<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1084').src='images/nav_elements_on.gif';" onmouseout="document.getElementById('nav_1084').src='images/nav_elements.gif';">
+								<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1084').src='/images/nav_elements_on.gif';" onmouseout="document.getElementById('nav_1084').src='/images/nav_elements.gif';">
 									<tbody><tr>
 										<td colspan="2">
 											<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
 												<tbody><tr><td><img src="http://www.eyeslipsface.com/images/spacer.gif" height="3"></td></tr>
-												<tr onclick="window.location.href='elementscustomize.asp';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-													<td nowrap=""><a href="elementscustomize.asp" class="dropDown">customize your compact</a></td></tr>
-												<tr onclick="window.location.href='depts.asp?dept_id=1084';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-													<td nowrap=""><a href="depts.asp?dept_id=1084" class="dropDown">refills</a></td></tr>
-												<tr onclick="window.location.href='elementspredesigned.asp';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-													<td nowrap=""><a href="elementspredesigned.asp" class="dropDown">predesigned compacts</a></td></tr>
+												<tr onclick="window.location.href='/elements_customize';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+													<td nowrap=""><a href="/elements_customize" class="dropDown">customize your compact</a></td></tr>
+												<tr onclick="window.location.href='/element_refills';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+													<td nowrap=""><a href="/element_refills" class="dropDown">refills</a></td></tr>
+												<tr onclick="window.location.href='/elements_predesigned';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+													<td nowrap=""><a href="/elements_predesigned" class="dropDown">predesigned compacts</a></td></tr>
+												<tr onclick="window.location.href='/gifts/kim-pact';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+													<td nowrap=""><a href="/gifts/kim-pact" class="dropDown">kim-pact</a></td></tr>
 											</tbody></table>
 										</td>
 										<td width="2" bgcolor="#999999"><img src="http://www.eyeslipsface.com/images/spacer.gif" width="2"></td></tr>
@@ -661,27 +747,56 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 							</div>
 						</td>
 						<td>
-	<div onmouseover="document.getElementById('dropDown_1055').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1055').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;">
-	<a href="depts.asp?dept_id=1055"><img id="nav_1055" src="http://www.eyeslipsface.com/images/nav_cases.gif" onmouseover="this.src='images/nav_cases_on.gif';" onmouseout="this.src='images/nav_cases.gif';"></a></div>
+	<div onmouseover="document.getElementById('dropDown_1055').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1055').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;"> 
+	<a href="/cases"><img id="nav_1055" src="http://www.eyeslipsface.com/images/nav_cases.gif" onmouseover="this.src='/images/nav_cases_on.gif';" onmouseout="this.src='/images/nav_cases.gif';"></a></div>
 	<div align="left" id="dropDown_1055" onmouseover="document.getElementById('dropDown_1055').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1055').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden; z-index:9999;"> 
-		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1055').src='images/nav_cases_on.gif';" onmouseout="document.getElementById('nav_1055').src='images/nav_cases.gif';">
+		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1055').src='/images/nav_cases_on.gif';" onmouseout="document.getElementById('nav_1055').src='/images/nav_cases.gif';">
 			<tbody><tr>
 				<td colspan="2">
 					<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
 						<tbody><tr><td><img src="http://www.eyeslipsface.com/images/spacer.gif" height="3"></td></tr>
 						
-								<tr onclick="window.location.href='products.asp?dept_id=1059';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="products.asp?dept_id=1059" class="dropDown">holiday cases </a></td></tr>
-						
+									<tr onclick="window.location.href='/category/train_cases';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/category/train_cases" class="dropDown">train cases</a></td></tr>
 								
-								<tr onclick="window.location.href='depts.asp?dept_id=1055&amp;filterdept=1116';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="depts.asp?dept_id=1055&amp;filterdept=1116" class="dropDown">essentials</a></td></tr>
+									<tr onclick="window.location.href='/category/dump_bag';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/category/dump_bag" class="dropDown">dump bag</a></td></tr>
 								
-								<tr onclick="window.location.href='depts.asp?dept_id=1055&amp;filterdept=1117';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="depts.asp?dept_id=1055&amp;filterdept=1117" class="dropDown">trendsetter </a></td></tr>
+									<tr onclick="window.location.href='/category/organizer';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/category/organizer" class="dropDown">organizer</a></td></tr>
 								
-								<tr onclick="window.location.href='depts.asp?dept_id=1055&amp;filterdept=1118';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-									<td nowrap=""><a href="depts.asp?dept_id=1055&amp;filterdept=1118" class="dropDown">liberty quilts</a></td></tr>
+									<tr onclick="window.location.href='/category/signature';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/category/signature" class="dropDown">signature</a></td></tr>
+								
+									<tr onclick="window.location.href='/category/wristlet';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/category/wristlet" class="dropDown">wristlet</a></td></tr>
+								
+									<tr onclick="window.location.href='/color/silver';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/color/silver" class="dropDown">silver</a></td></tr>
+								
+									<tr onclick="window.location.href='/color/black';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/color/black" class="dropDown">black</a></td></tr>
+								
+									<tr onclick="window.location.href='/color/bronze';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/color/bronze" class="dropDown">bronze</a></td></tr>
+								
+									<tr onclick="window.location.href='/color/burgundy';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/color/burgundy" class="dropDown">burgundy</a></td></tr>
+								
+									<tr onclick="window.location.href='/2008_clearance_bags/holiday_cases';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/2008_clearance_bags/holiday_cases" class="dropDown">holiday cases</a></td></tr>
+								
+									<tr onclick="window.location.href='/2008_clearance_bags/organizer';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/2008_clearance_bags/organizer" class="dropDown">organizer</a></td></tr>
+								
+									<tr onclick="window.location.href='/2008_clearance_bags/small_clutch';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/2008_clearance_bags/small_clutch" class="dropDown">small clutch</a></td></tr>
+								
+									<tr onclick="window.location.href='/2008_clearance_bags/large_clutch';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/2008_clearance_bags/large_clutch" class="dropDown">large clutch</a></td></tr>
+								
+									<tr onclick="window.location.href='/2008_clearance_bags/signature';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/2008_clearance_bags/signature" class="dropDown">signature</a></td></tr>
 								
 					</tbody></table>
 				</td>
@@ -695,95 +810,58 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 	</div>
 
 </td> 
-						<td>
-							<div onmouseover="document.getElementById('dropDown_1062').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1062').style.visibility='hidden';" style="cursor:pointer;cursor:hand; ">
-							<a href="gifts.asp?dept_id=1062"><img id="nav_1062" src="http://www.eyeslipsface.com/images/nav_gifts.gif" onmouseover="this.src='images/nav_gifts_on.gif';" onmouseout="this.src='images/nav_gifts.gif';"></a></div>
-							<div align="left" id="dropDown_1062" onmouseover="document.getElementById('dropDown_1062').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1062').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden;"> 
-								<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1062').src='images/nav_gifts_on.gif';" onmouseout="document.getElementById('nav_1062').src='images/nav_gifts.gif';">
-									<tbody><tr>
-										<td colspan="2">
-											<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
-												<tbody><tr><td><img src="http://www.eyeslipsface.com/images/spacer.gif" height="3"></td></tr>
-												<tr onclick="window.location.href='giftcards.asp';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="giftcards.asp" class="dropDown">gift cards</a></td></tr>
-											
-														<tr onclick="window.location.href='gifts.asp?dept_id=1062&amp;filterdept=1064';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="gifts.asp?dept_id=1062&amp;filterdept=1064" class="dropDown">editor's  favorites</a></td></tr>
-														
-														<tr onclick="window.location.href='gifts.asp?dept_id=1062&amp;filterdept=1139';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="gifts.asp?dept_id=1062&amp;filterdept=1139" class="dropDown">gift sets</a></td></tr>
-														
-														<tr onclick="window.location.href='gifts.asp?dept_id=1062&amp;filterdept=1065';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="gifts.asp?dept_id=1062&amp;filterdept=1065" class="dropDown">$5 and under</a></td></tr>
-														
-														<tr onclick="window.location.href='gifts.asp?dept_id=1062&amp;filterdept=1066';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="gifts.asp?dept_id=1062&amp;filterdept=1066" class="dropDown">$10 and under</a></td></tr>
-														
-														<tr onclick="window.location.href='gifts.asp?dept_id=1062&amp;filterdept=1067';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="gifts.asp?dept_id=1062&amp;filterdept=1067" class="dropDown">$20 and under</a></td></tr>
-														
-											</tbody></table>
-										</td>
-										<td width="2" bgcolor="#999999"><img src="http://www.eyeslipsface.com/images/spacer.gif" width="2"></td></tr>
-									<tr>
-										<td width="2" height="2"><img src="http://www.eyeslipsface.com/images/spacer.gif" width="2" height="2"></td>
-										<td height="2" bgcolor="#999999" width="100%"><img src="http://www.eyeslipsface.com/images/spacer.gif" width="225" height="2"></td>
-										<td width="2" bgcolor="#999999"><img src="http://www.eyeslipsface.com/images/spacer.gif" width="2"></td>
-									</tr>
-								</tbody></table>
-							</div>
-						</td>
+						
 						<td>
 							<div onmouseover="document.getElementById('dropDown_1162').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1162').style.visibility='hidden';" style="cursor:pointer;cursor:hand; ">
-							<a href="depts.asp?dept_id=1162"><img id="nav_1162" src="http://www.eyeslipsface.com/images/nav_kits.gif" onmouseover="this.src='images/nav_kits_on.gif';" onmouseout="this.src='images/nav_kits.gif';"></a></div>
+							<a href="/kits"><img id="nav_1162" src="http://www.eyeslipsface.com/images/nav_kits.gif" onmouseover="this.src='/images/nav_kits_on.gif';" onmouseout="this.src='/images/nav_kits.gif';"></a></div>
 							<div align="left" id="dropDown_1162" onmouseover="document.getElementById('dropDown_1162').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1162').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden;"> 
-								<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1162').src='images/nav_kits_on.gif';" onmouseout="document.getElementById('nav_1162').src='images/nav_kits.gif';">
+								<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1162').src='/images/nav_kits_on.gif';" onmouseout="document.getElementById('nav_1162').src='/images/nav_kits.gif';">
 									<tbody><tr>
 										<td colspan="2">
 											<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
 												<tbody><tr><td><img src="http://www.eyeslipsface.com/images/spacer.gif" height="3"></td></tr>
-												<tr onclick="window.location.href='predesignedkitsList.asp';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="predesignedkitsList.asp" class="dropDown">Predesigned Kits</a></td></tr>
-												<tr onclick="window.location.href='customkits_stp1.asp';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="customkits_stp1.asp" class="dropDown">Custom Kits</a></td></tr>
-						 						<tr onclick="window.location.href='stebbystepdvd.asp';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="stepbystepdvd.asp" class="dropDown">DVD Makeup Guide</a></td></tr>
+												<tr onclick="window.location.href='/predesigned_kits';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/predesigned_kits" class="dropDown">Predesigned Kits</a></td></tr>
+												<tr onclick="window.location.href='/custom_kits';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/custom_kits" class="dropDown">Custom Kits</a></td></tr>
+						 						<tr onclick="window.location.href='/step_by_step_dvd';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/step_by_step_dvd" class="dropDown">DVD Makeup Guide</a></td></tr>
 												
-														<tr onclick="window.location.href='products.asp?dept_id=1162&amp;filterdept=1207';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1207" class="dropDown">bath set</a></td></tr>
+														<tr onclick="window.location.href='/kits/the_beauty_encyclopedia';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/kits/the_beauty_encyclopedia" class="dropDown">the beauty encyclopedia</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1162&amp;filterdept=1214';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1214" class="dropDown">holiday cases</a></td></tr>
+														<tr onclick="window.location.href='/kits/bath_set';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/kits/bath_set" class="dropDown">bath set</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1162&amp;filterdept=1212';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1212" class="dropDown">brush sets</a></td></tr>
+														<tr onclick="window.location.href='/kits/holiday_cases';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/kits/holiday_cases" class="dropDown">holiday cases</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1162&amp;filterdept=1210';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1210" class="dropDown">mineral starter kits</a></td></tr>
+														<tr onclick="window.location.href='/kits/brush_sets';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/kits/brush_sets" class="dropDown">brush sets</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1162&amp;filterdept=1168';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1168" class="dropDown">get the look sets</a></td></tr>
+														<tr onclick="window.location.href='/kits/mineral_starter_kits';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/kits/mineral_starter_kits" class="dropDown">mineral starter kits</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1162&amp;filterdept=1169';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1169" class="dropDown">lip cases</a></td></tr>
+														<tr onclick="window.location.href='/kits/get_the_look_sets';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/kits/get_the_look_sets" class="dropDown">get the look sets</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1162&amp;filterdept=1216';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1216" class="dropDown">candy shop lip tins fish bowl</a></td></tr>
+														<tr onclick="window.location.href='/kits/lip_cases';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/kits/lip_cases" class="dropDown">lip cases</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1162&amp;filterdept=1165';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1165" class="dropDown">master set</a></td></tr>
+														<tr onclick="window.location.href='/kits/candy_shop_lip_tins_fish_bowl';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/kits/candy_shop_lip_tins_fish_bowl" class="dropDown">candy shop lip tins fish bowl</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1162&amp;filterdept=1163';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1163" class="dropDown">travel sets 2 go</a></td></tr>
+														<tr onclick="window.location.href='/kits/candy_shop_lip_tins';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/kits/candy_shop_lip_tins" class="dropDown">candy shop lip tins</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1162&amp;filterdept=1213';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1213" class="dropDown">candy shop lip tins</a></td></tr>
+														<tr onclick="window.location.href='/kits/gift_cards';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/kits/gift_cards" class="dropDown">gift cards</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1162&amp;filterdept=1170';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1170" class="dropDown">the collection</a></td></tr>
+														<tr onclick="window.location.href='/kits/luxury_gift_sets';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/kits/luxury_gift_sets" class="dropDown">luxury gift sets</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1162&amp;filterdept=1171';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1171" class="dropDown">the ultimate kit</a></td></tr>
+														<tr onclick="window.location.href='/kits/pre-designed';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/kits/pre-designed" class="dropDown">pre-designed</a></td></tr>
 														
 											</tbody></table>
 										</td>
@@ -798,34 +876,34 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 						</td>
 						<td>
 							<div onmouseover="document.getElementById('dropDown_1172').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1172').style.visibility='hidden';" style="cursor:pointer;cursor:hand; ">
-							<a href="depts_cat.asp?dept_id=1172"><img id="nav_1172" src="http://www.eyeslipsface.com/images/nav_bathbody.gif" onmouseover="this.src='images/nav_bathbody_on.gif';" onmouseout="this.src='images/nav_bathbody.gif';"></a></div>
+							<a href="/bath"><img id="nav_1172" src="http://www.eyeslipsface.com/images/nav_bathbody.gif" onmouseover="this.src='/images/nav_bathbody_on.gif';" onmouseout="this.src='/images/nav_bathbody.gif';"></a></div>
 							<div align="left" id="dropDown_1172" onmouseover="document.getElementById('dropDown_1172').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1172').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden;"> 
-								<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1172').src='images/nav_bathbody_on.gif';" onmouseout="document.getElementById('nav_1172').src='images/nav_bathbody.gif';">
+								<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1172').src='/images/nav_bathbody_on.gif';" onmouseout="document.getElementById('nav_1172').src='/images/nav_bathbody.gif';">
 									<tbody><tr>
 										<td colspan="2">
 											<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
-												<tbody><tr><td><img src="images/spacer.gif" height="3"></td></tr>
+												<tbody><tr><td><img src="/images/spacer.gif" height="3"></td></tr>
 											
-														<tr onclick="window.location.href='products.asp?dept_id=1172&amp;filterdept=1173';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1173" class="dropDown">peony petal </a></td></tr>
+														<tr onclick="window.location.href='/fragrance/peony_petal_';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/fragrance/peony_petal_" class="dropDown">peony petal </a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1172&amp;filterdept=1174';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1174" class="dropDown">cucumber melon</a></td></tr>
+														<tr onclick="window.location.href='/fragrance/cucumber_melon';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/fragrance/cucumber_melon" class="dropDown">cucumber melon</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1172&amp;filterdept=1175';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1175" class="dropDown">lavender blossom </a></td></tr>
+														<tr onclick="window.location.href='/fragrance/lavender_blossom_';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/fragrance/lavender_blossom_" class="dropDown">lavender blossom </a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1172&amp;filterdept=1176';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1176" class="dropDown">pineapple mango</a></td></tr>
+														<tr onclick="window.location.href='/fragrance/pineapple_mango';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/fragrance/pineapple_mango" class="dropDown">pineapple mango</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1172&amp;filterdept=1177';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1177" class="dropDown">vanilla coconut </a></td></tr>
+														<tr onclick="window.location.href='/fragrance/vanilla_coconut_';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/fragrance/vanilla_coconut_" class="dropDown">vanilla coconut </a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1172&amp;filterdept=1219';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1219" class="dropDown">hand sanitizer</a></td></tr>
+														<tr onclick="window.location.href='/bath_category/hand_sanitizer';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/bath_category/hand_sanitizer" class="dropDown">hand sanitizer</a></td></tr>
 														
-														<tr onclick="window.location.href='products.asp?dept_id=1172&amp;filterdept=1208';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products.asp?dept_id=1208" class="dropDown">bath sets</a></td></tr>
+														<tr onclick="window.location.href='/fragrance/bath_sets';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/fragrance/bath_sets" class="dropDown">bath sets</a></td></tr>
 														
 											</tbody></table>
 										</td>
@@ -840,7 +918,7 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 						</td>
 						<td>
 							<div onmouseover="document.getElementById('dropDown_1190').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1190').style.visibility='hidden';" style="cursor:pointer;cursor:hand; ">
-							<a href="depts_minerals.asp?dept_id=1190"><img id="nav_1190" src="http://www.eyeslipsface.com/images/nav_mineral.gif" onmouseover="this.src='images/nav_mineral_on.gif';" onmouseout="this.src='images/nav_mineral.gif';"></a></div>
+							<a href="http://www.eyeslipsface.com/depts_minerals.asp?dept_id=1190"><img id="nav_1190" src="/images/nav_mineral.gif" onmouseover="this.src='/images/nav_mineral_on.gif';" onmouseout="this.src='/images/nav_mineral.gif';"></a></div>
 							<div align="left" id="dropDown_1190" onmouseover="document.getElementById('dropDown_1190').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1190').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden;"> 
 								<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1190').src='images/nav_mineral_on.gif';" onmouseout="document.getElementById('nav_1190').src='images/nav_mineral.gif';">
 									<tbody><tr>
@@ -848,29 +926,182 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 											<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
 												<tbody><tr><td><img src="images/spacer.gif" height="3"></td></tr>
 											
-														<tr onclick="window.location.href='products_minerals.asp?dept_id=1190&amp;filterdept=1191';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products_minerals.asp?dept_id=1191" class="dropDown">starter kit</a></td></tr>
+														<tr onclick="window.location.href='http://www.eyeslipsface.com/products_minerals.asp?dept_id=1190&amp;filterdept=1191';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="http://www.eyeslipsface.com/products_minerals.asp?dept_id=1191" class="dropDown">starter kit</a></td></tr>
 														
-														<tr onclick="window.location.href='products_minerals.asp?dept_id=1190&amp;filterdept=1192';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products_minerals.asp?dept_id=1192" class="dropDown">mineral glow kit</a></td></tr>
+														<tr onclick="window.location.href='http://www.eyeslipsface.com/products_minerals.asp?dept_id=1190&amp;filterdept=1192';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="http://www.eyeslipsface.com/products_minerals.asp?dept_id=1192" class="dropDown">mineral glow kit</a></td></tr>
 														
-														<tr onclick="window.location.href='products_minerals.asp?dept_id=1190&amp;filterdept=1193';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products_minerals.asp?dept_id=1193" class="dropDown">brush kit</a></td></tr>
+														<tr onclick="window.location.href='http://www.eyeslipsface.com/products_minerals.asp?dept_id=1190&amp;filterdept=1193';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="http://www.eyeslipsface.com/products_minerals.asp?dept_id=1193" class="dropDown">brush kit</a></td></tr>
 														
-														<tr onclick="window.location.href='products_minerals.asp?dept_id=1190&amp;filterdept=1194';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products_minerals.asp?dept_id=1194" class="dropDown">foundation</a></td></tr>
+														<tr onclick="window.location.href='http://www.eyeslipsface.com/products_minerals.asp?dept_id=1190&amp;filterdept=1226';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="http://www.eyeslipsface.com/products_minerals.asp?dept_id=1226" class="dropDown">eyeshadow</a></td></tr>
 														
-														<tr onclick="window.location.href='products_minerals.asp?dept_id=1190&amp;filterdept=1195';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products_minerals.asp?dept_id=1195" class="dropDown">concealer</a></td></tr>
+														<tr onclick="window.location.href='http://www.eyeslipsface.com/products_minerals.asp?dept_id=1190&amp;filterdept=1194';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="http://www.eyeslipsface.com/products_minerals.asp?dept_id=1194" class="dropDown">foundation</a></td></tr>
 														
-														<tr onclick="window.location.href='products_minerals.asp?dept_id=1190&amp;filterdept=1196';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products_minerals.asp?dept_id=1196" class="dropDown">blush</a></td></tr>
+														<tr onclick="window.location.href='http://www.eyeslipsface.com/products_minerals.asp?dept_id=1190&amp;filterdept=1195';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="http://www.eyeslipsface.com/products_minerals.asp?dept_id=1195" class="dropDown">concealer</a></td></tr>
 														
-														<tr onclick="window.location.href='products_minerals.asp?dept_id=1190&amp;filterdept=1205';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products_minerals.asp?dept_id=1205" class="dropDown">mineral glow</a></td></tr>
+														<tr onclick="window.location.href='http://www.eyeslipsface.com/products_minerals.asp?dept_id=1190&amp;filterdept=1196';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="http://www.eyeslipsface.com/products_minerals.asp?dept_id=1196" class="dropDown">blush</a></td></tr>
 														
-														<tr onclick="window.location.href='products_minerals.asp?dept_id=1190&amp;filterdept=1224';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
-															<td nowrap=""><a href="products_minerals.asp?dept_id=1224" class="dropDown">kabuki brushes</a></td></tr>
+														<tr onclick="window.location.href='http://www.eyeslipsface.com/products_minerals.asp?dept_id=1190&amp;filterdept=1205';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="http://www.eyeslipsface.com/products_minerals.asp?dept_id=1205" class="dropDown">mineral glow</a></td></tr>
+														
+														<tr onclick="window.location.href='http://www.eyeslipsface.com/products_minerals.asp?dept_id=1190&amp;filterdept=1228';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="http://www.eyeslipsface.com/products_minerals.asp?dept_id=1228" class="dropDown">mineral booster</a></td></tr>
+														
+														<tr onclick="window.location.href='http://www.eyeslipsface.com/products_minerals.asp?dept_id=1190&amp;filterdept=1234';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="http://www.eyeslipsface.com/products_minerals.asp?dept_id=1234" class="dropDown">lipstick</a></td></tr>
+														
+														<tr onclick="window.location.href='http://www.eyeslipsface.com/products_minerals.asp?dept_id=1190&amp;filterdept=1224';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="http://www.eyeslipsface.com/products_minerals.asp?dept_id=1224" class="dropDown">kabuki brushes</a></td></tr>
+														
+														<tr onclick="window.location.href='http://www.eyeslipsface.com/products_minerals.asp?dept_id=1190&amp;filterdept=1230';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="http://www.eyeslipsface.com/products_minerals.asp?dept_id=1230" class="dropDown">eyeshadow set</a></td></tr>
+														
+											</tbody></table>
+										</td>
+										<td width="2" bgcolor="#999999"><img src="images/spacer.gif" width="2"></td></tr>
+									<tr>
+										<td width="2" height="2"><img src="images/spacer.gif" width="2" height="2"></td>
+										<td height="2" bgcolor="#999999" width="100%"><img src="images/spacer.gif" width="225" height="2"></td>
+										<td width="2" bgcolor="#999999"><img src="images/spacer.gif" width="2"></td>
+									</tr>
+								</tbody></table>
+							</div>
+						</td> 
+						<td bgcolor="#efecec">
+	<div onmouseover="document.getElementById('dropDown_1285').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1285').style.visibility='hidden';" style="cursor:pointer;cursor:hand; z-index:9999;"> 
+	<a href="/studio"><img id="nav_1285" src="http://www.eyeslipsface.com/images/nav_studio.gif" onmouseover="this.src='/images/nav_studio_on.gif';" onmouseout="this.src='/images/nav_studio.gif';"></a></div>
+	<div align="left" id="dropDown_1285" onmouseover="document.getElementById('dropDown_1285').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1285').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden; z-index:9999;"> 
+		<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1285').src='/images/nav_studio_on.gif';" onmouseout="document.getElementById('nav_1285').src='/images/nav_studio.gif';">
+			<tbody><tr>
+				<td colspan="2">
+					<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
+						<tbody><tr><td><img src="http://www.eyeslipsface.com/images/spacer.gif" height="3"></td></tr>
+						
+								<tr onclick="window.location.href='/studio/lip_definer_&amp;_shaper';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/lip_definer_&amp;_shaper" class="dropDown">lip definer &amp; shaper</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/eyebrow_lifter_&amp;_filler';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/eyebrow_lifter_&amp;_filler" class="dropDown">eyebrow lifter &amp; filler</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/concealer_pencil_&amp;_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/concealer_pencil_&amp;_brush" class="dropDown">concealer pencil &amp; brush</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/lip_primer_&amp;_plumper';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/lip_primer_&amp;_plumper" class="dropDown">lip primer &amp; plumper</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/eye_primer_&amp;_liner_sealer';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/eye_primer_&amp;_liner_sealer" class="dropDown">eye primer &amp; liner sealer</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/eyeliner_&amp;_shadow_stick';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/eyeliner_&amp;_shadow_stick" class="dropDown">eyeliner &amp; shadow stick</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/lengthening_&amp;_volumizing_mascara';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/lengthening_&amp;_volumizing_mascara" class="dropDown">lengthening &amp; volumizing mascara</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/waterproof_lengthening_&amp;_volumizing_mascara';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/waterproof_lengthening_&amp;_volumizing_mascara" class="dropDown">waterproof lengthening &amp; volumizing mascara</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/lip_liner_&amp;_blending_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/lip_liner_&amp;_blending_brush" class="dropDown">lip liner &amp; blending brush</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/eyebrow_kit';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/eyebrow_kit" class="dropDown">eyebrow kit</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/translucent_matifying__powder';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/translucent_matifying__powder" class="dropDown">translucent matifying powder</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/contouring_blush_&amp;_bronzing_powder';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/contouring_blush_&amp;_bronzing_powder" class="dropDown">contouring blush &amp; bronzing powder</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/under_eye_concealer_&amp;_highlighter';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/under_eye_concealer_&amp;_highlighter" class="dropDown">under eye concealer &amp; highlighter</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/eyebrow_treat_&amp;_tame';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/eyebrow_treat_&amp;_tame" class="dropDown">eyebrow treat &amp; tame</a></td></tr>
+						
+								
+								<tr onclick="window.location.href='/studio/makeup_artist_brush_belt';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+									<td nowrap=""><a href="/studio/makeup_artist_brush_belt" class="dropDown">makeup artist brush belt</a></td></tr>
+						
+								
+									<tr onclick="window.location.href='/studio_brushes/10_pc._studio_brush_collection';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/studio_brushes/10_pc._studio_brush_collection" class="dropDown">10 pc. studio brush collection</a></td></tr>
+								
+									<tr onclick="window.location.href='/studio_brushes/small_smudge_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/studio_brushes/small_smudge_brush" class="dropDown">small smudge brush</a></td></tr>
+								
+									<tr onclick="window.location.href='/studio_brushes/complexion_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/studio_brushes/complexion_brush" class="dropDown">complexion brush</a></td></tr>
+								
+									<tr onclick="window.location.href='/studio_brushes/powder_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/studio_brushes/powder_brush" class="dropDown">powder brush</a></td></tr>
+								
+									<tr onclick="window.location.href='/studio_brushes/fan_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/studio_brushes/fan_brush" class="dropDown">fan brush</a></td></tr>
+								
+									<tr onclick="window.location.href='/studio_brushes/angled_foundation_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/studio_brushes/angled_foundation_brush" class="dropDown">angled foundation brush</a></td></tr>
+								
+									<tr onclick="window.location.href='/studio_brushes/contour_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/studio_brushes/contour_brush" class="dropDown">contour brush</a></td></tr>
+								
+									<tr onclick="window.location.href='/studio_brushes/concealer_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/studio_brushes/concealer_brush" class="dropDown">concealer brush</a></td></tr>
+								
+									<tr onclick="window.location.href='/studio_brushes/eyeshadow_c_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/studio_brushes/eyeshadow_c_brush" class="dropDown">eyeshadow "c" brush</a></td></tr>
+								
+									<tr onclick="window.location.href='/studio_brushes/small_precision_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/studio_brushes/small_precision_brush" class="dropDown">small precision brush</a></td></tr>
+								
+									<tr onclick="window.location.href='/studio_brushes/small_angled_brush';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+										<td nowrap=""><a href="/studio_brushes/small_angled_brush" class="dropDown">small angled brush</a></td></tr>
+								
+					</tbody></table>
+				</td>
+				<td width="2" bgcolor="#999999"><img src="http://www.eyeslipsface.com/images/spacer.gif" width="2"></td></tr>
+			<tr>
+				<td width="2" height="2"><img src="http://www.eyeslipsface.com/images/spacer.gif" width="2" height="2"></td>
+				<td height="2" bgcolor="#999999" width="100%"><img src="http://www.eyeslipsface.com/images/spacer.gif" width="225" height="2"></td>
+				<td width="2" bgcolor="#999999"><img src="http://www.eyeslipsface.com/images/spacer.gif" width="2"></td>
+			</tr>
+		</tbody></table>
+	</div>
+
+</td>
+						<td>
+							<div onmouseover="document.getElementById('dropDown_1062').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1062').style.visibility='hidden';" style="cursor:pointer;cursor:hand; ">
+							<a href="/gifts"><img id="nav_1062" src="http://www.eyeslipsface.com/images/nav_gifts.gif" onmouseover="this.src='/images/nav_gifts_on.gif';" onmouseout="this.src='/images/nav_gifts.gif';"></a></div>
+							<div align="left" id="dropDown_1062" onmouseover="document.getElementById('dropDown_1062').style.visibility='visible';" onmouseout="document.getElementById('dropDown_1062').style.visibility='hidden';" style="position:absolute; width:150; visibility: hidden;"> 
+								<table cellpadding="0" cellspacing="0" width="100%" border="0" onmouseover="document.getElementById('nav_1062').src='/images/nav_gifts_on.gif';" onmouseout="document.getElementById('nav_1062').src='/images/nav_gifts.gif';">
+									<tbody><tr>
+										<td colspan="2">
+											<table cellpadding="3" cellspacing="0" bgcolor="#FFFFFF" width="100%" style="border: 1px solid #fff0f5;">
+												<tbody><tr><td><img src="http://www.eyeslipsface.com/images/spacer.gif" height="3"></td></tr>
+												<tr onclick="window.location.href='/gift_cards';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/gift_cards" class="dropDown">gift cards</a></td></tr>
+											
+														<tr onclick="window.location.href='/depts.asp?dept_id=1062&amp;filterdept=1064';" style="cursor:pointer; cursor:hand;" onmouseover="this.bgColor='#FBEDED';" onmouseout="this.bgColor='#FFFFFF';">
+															<td nowrap=""><a href="/depts.asp?dept_id=1062&amp;filterdept=1064" class="dropDown">editor's  favorites</a></td></tr>
 														
 											</tbody></table>
 										</td>
@@ -882,14 +1113,16 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 									</tr>
 								</tbody></table>
 							</div>
-						</td> 
-						
-						<!--<td><a href="http://www.eyeslipsface.com/predesignedkits.asp"><img src="http://www.eyeslipsface.com/images/nav_predesignedkits.gif" onmouseover="this.src='images/nav_predesignedkits_on.gif';" onmouseout="this.src='images/nav_predesignedkits.gif';"></a></td> 
-						<td><a href="http://www.eyeslipsface.com/customkits_stp1.asp"><img src="http://www.eyeslipsface.com/images/nav_customkits.gif" onmouseover="this.src='images/nav_customkits_on.gif';" onmouseout="this.src='images/nav_customkits.gif';"></a></td> 
+						</td>
+						<!--<td><a href="http://www.eyeslipsface.com/kimpact.asp"><img src="http://www.eyeslipsface.com/images/elfMylesStyle_nav.gif" onmouseover="this.src='/images/elfMylesStyle_nav_on.gif';" onmouseout="this.src='/images/elfMylesStyle_nav.gif';"></a></td> 
 						-->
-						<td><a href="http://www.eyeslipsface.com/peta.asp"><img src="http://www.eyeslipsface.com/images/nav_charity.gif" onmouseover="this.src='images/nav_charity_on.gif';" onmouseout="this.src='images/nav_charity.gif';"></a></td> 
-						<!--<td><a href="http://www.eyeslipsface.com/lifetime.asp"><img src="http://www.eyeslipsface.com/images/nav_promo.gif" onmouseover="this.src='images/nav_promo_on.gif';" onmouseout="this.src='images/nav_promo.gif';"></a></td> 
-						--><td width="200" bgcolor="#efecec"><img src="images/spacer.gif"></td>
+						<!--<td><a href="http://www.eyeslipsface.com/predesignedkits.asp"><img src="http://www.eyeslipsface.com/images/nav_predesignedkits.gif" onmouseover="this.src='/images/nav_predesignedkits_on.gif';" onmouseout="this.src='/images/nav_predesignedkits.gif';"></a></td> 
+						<td><a href="http://www.eyeslipsface.com/customkits_stp1.asp"><img src="http://www.eyeslipsface.com/images/nav_customkits.gif" onmouseover="this.src='/images/nav_customkits_on.gif';" onmouseout="this.src='/images/nav_customkits.gif';"></a></td> 
+						 -->
+						<td><a href="http://www.eyeslipsface.com/peta"><img src="http://www.eyeslipsface.com/images/nav_peta.gif" onmouseover="this.src='/images/nav_peta.gif';" onmouseout="this.src='/images/nav_peta.gif';"></a></td> 
+						<!-- <td  ><a href="/promo_sisterhood.asp"><img src="/images/nav_sisterhood.gif"></a></td>
+						 --><!--<td><a href="http://www.eyeslipsface.com/lifetime.asp"><img src="http://www.eyeslipsface.com/images/nav_promo.gif" onmouseover="this.src='/images/nav_promo_on.gif';" onmouseout="this.src='/images/nav_promo.gif';"></a></td> 
+						--><td width="200" bgcolor="#efecec"><img src="/images/spacer.gif"></td>
 						<td width="51" bgcolor="#efecec"></td>
 					</tr>
 				</tbody></table>
@@ -978,28 +1211,28 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 			</td></tr>
 			<tr><td bgcolor="#000000">
 				<table cellpadding="0" cellspacing="0" bgcolor="#000000">
-					<form action="subscribe.asp"></form>
-					<tbody><tr><td><img src="images/signupfornewsletter.gif"></td>
-					<td><img src="images/foruptodateinfo.gif"></td>
+					<form action="/subscribe.asp"></form>
+					<tbody><tr><td><img src="/images/signupfornewsletter.gif"></td>
+					<td><img src="/images/foruptodateinfo.gif"></td>
 					<td><input type="text" name="email" value="" style="border: 0px;height:19px;width:210px;"></td>
-					<td><input type="image" name="signup" src="images/sub_btn_signup.jpg"></td>
+					<td><input type="image" name="signup" src="/images/sub_btn_signup.jpg"></td>
 					</tr>
 					 
 					
 				</tbody></table>
 			
 			</td></tr>
-			<tr><td><img src="images/spacer.gif" height="1"></td></tr>
-			<tr><td bgcolor="#fcf2f2" style="background-image: url('images/bkgd_pnk_btm.jpg');background-repeat: repeat-x;height:67px; " valign="top">
+			<tr><td><img src="/images/spacer.gif" height="1"></td></tr>
+			<tr><td bgcolor="#fcf2f2" style="background-image: url('/images/bkgd_pnk_btm.jpg');background-repeat: repeat-x;height:67px; " valign="top">
 				<table cellpadding="0" cellspacing="0" width="100%" valign="top" border="0">
-					<tbody><tr><td colspan="7"><img src="images/spacer.gif" height="15"></td></tr>
-					<tr><td style="padding-left:10px;" width="68" valign="top"><a href="http://www.eyeslipsface.com/joinaffiliates.asp" class="navText">AFFILIATES</a></td>
-						<td width="96" valign="top" height="25"><a href="http://www.eyeslipsface.com/privacypolicy.asp" class="navText">PRIVACY POLICY</a></td>
-						<td width="84" valign="top" height="25"><a href="http://www.eyeslipsface.com/termsofuse.asp" class="navText">TERMS OF USE</a></td>
-						<td width="39" valign="top" height="25"><a href="http://www.eyeslipsface.com/faqs.asp" class="navText">FAQs</a></td>
-						<td width="78" valign="top" height="25"><a href="http://www.eyeslipsface.com/contactus.asp" class="navText">CONTACT US</a></td>
-						<td width="100" valign="top" height="25"><a href="http://www.eyeslipsface.com/shippingpolicy.asp" class="navText">SHIPPING POLICY</a></td>
-						<td width="100" valign="top" height="25"><a href="http://reviews.eyeslipsface.com/pwr/product-reviews/c/index.html" target="Product Reivews" class="navText">PRODUCT REVIEWS</a></td>
+					<tbody><tr><td colspan="7"><img src="/images/spacer.gif" height="15"></td></tr>
+					<tr><td style="padding-left:10px;" width="68" valign="top"><a href="http://www.eyeslipsface.com/affiliates" class="navText">AFFILIATES</a></td>
+						<td width="96" valign="top" height="25"><a href="http://www.eyeslipsface.com/privacy_policy" class="navText">PRIVACY POLICY</a></td>
+						<td width="84" valign="top" height="25"><a href="http://www.eyeslipsface.com/terms" class="navText">TERMS OF USE</a></td>
+						<td width="39" valign="top" height="25"><a href="http://www.eyeslipsface.com/faqs" class="navText">FAQs</a></td>
+						<td width="78" valign="top" height="25"><a href="http://www.eyeslipsface.com/about" class="navText">ABOUT US</a></td>
+						<td width="100" valign="top" height="25"><a href="http://www.eyeslipsface.com/shipping" class="navText">SHIPPING POLICY</a></td>
+						<td width="100" valign="top" height="25"><a href="https://op.eyeslipsface.com/datafeeds/pr_unzip/pwr/product-reviews/c/index.html" target="Product Reivews" class="navText">PRODUCT REVIEWS</a></td>
 						<td></td>
 						<td align="right" class="navText" style="padding-right:5px;" valign="top" rowspan="2">
 							<table cellpadding="0" cellspacing="0" class="navText" border="0"> 
@@ -1011,15 +1244,26 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 									<table border="0">
 									    <!-- Flags -->
 										<tbody><tr>
-											<td><a href="http://www.eyeslipsface.com.au" target="new"><img src="http://www.eyeslipsface.com/images/flag_australia.gif" border="0" alt="Australia"></a></td>
-											<td><a href="http://www.eyeslipsface.co.uk" target="new"><img src="http://www.eyeslipsface.com/images/flag_uk.gif" border="0" alt="UK"></a></td>
+											<td align="right"><a href="http://www.eyeslipsface.com.au" target="new"><img src="http://www.eyeslipsface.com/images/flag_australia.gif" border="0" alt="Australia"></a></td>
+											<td align="right"><a href="http://www.eyeslipsface.co.uk" target="new"><img src="http://www.eyeslipsface.com/images/flag_uk.gif" border="0" alt="UK"></a></td>
 										</tr>
+									</tbody></table>
+								</td></tr><tr><td align="right">
+									<table border="0">
 										<!-- End Flags -->
-										<tr><td colspan="2" align="right">
+										<tbody><tr><td align="right" valign="top">
 											<!-- START SCANALERT CODE -->
 					                        <!--<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.eyeslipsface.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.eyeslipsface.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
 					                        --><!-- END   SCANALERT CODE -->
-																													
+																							
+											<!-- START SCANALERT CODE -->
+											<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.eyeslipsface.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/survey/www.eyeslipsface.com/13.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+											<!-- END SCANALERT CODE -->
+											
+											<!-- Begin Official PayPal Seal -->
+											<a href="https://www.paypal.com/us/verified/pal=mlester%40eyeslipsface%2ecom" target="_blank"><img src="http://www.paypal.com/en_US/i/icon/verification_seal.gif" border="0" alt="Official PayPal Seal"></a><!-- End Official PayPal Seal -->
+
+										</td><td style="padding-left:20px;" align="right" valign="top">					
 											<script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/trustlogo.js" type="text/javascript">
 											</script>
 											<script type="text/javascript">TrustLogo("https://www.eyeslipsface.com/shop/images/secure_site.gif", "SC", "none");</script>
@@ -1032,26 +1276,49 @@ off price brands,closeouts,stuff for a buck,mascara, ethnic cosmetics">
 					 
 				</tbody></table>
 				<div id="KeyPar" style="visibility: hidden;">
-					<span style="color:#ffffff; font-size:2px; font-family:mini7,verdana;">Eyes, lips face cosmetics (aka e.l.f.)  sell for the inexpensive price of $1.00 because we feel that you should be able to get prestigious cosmetics without sacrificing your budget. e.l.f. cosmetics is the first to put SPF in their lip gloss. e.l.f cosmetics caters to a mulititude of skin problems. Our clarifying pressed powder is infused with salicylic acid to help treat and prevent  acne on oily skin.  E.l.f. brightening eye liner is a gel based formula that glides on smoothly with no tugging on the eye lid. The eye liner also comes with a Free pencil Sharpener all for only $1.00. e.l.f. non stop eye shadow comes with four complimentary colors so you can mix and match and your own discretion. The trendy compact is sleek and fashionable. Our Bronzing Blush duo is the first to combine the color  effects of blush with the tanning affects of a bronzer all it one stylish component. E.l.f. soothing  lip gloss is infused with eucalyptus to give your lips a boost and a treatment at the same time. E.l.f.  hypershine gloss is just like L'oreal juicy tubes offer a radiant shine with little color so it can be  worn in addition to your favorite lip-gloss or lipstick. E.l.f shimmering facial whip is our all over  blush similar to products by Neutrogena that sells in drug stores for more than $10. Our non-greasy  formulation allows the color to stay on without a greasy feel. E.l.f. offers consumers the opportunity  to purchase three complimentary face products for only $3.00! Our tone correcting concealer , SPF 15  Moisturizer and Clarrifying pressed powders  are offered in 4 complimentary tones to appeal to multiple  ethnicities all you need to do it know if you would be best for tone 1, 2, 3, or 4 and purchase them across  all 3 categories. E.l.f. therapeutic lip balm can be used by men or women, similar to Chapstick for functionality,  but infused with delicious crème Brule flavors . This is a product everyone is sure to love. e.l.f. cosmetics make  great presents for bridal showers and stocking stuffers and carnival prizes,  because they are only one dollar.   Celebrities such as Sara Paxton gave out e.l.f. cosmetics at her birthday party as party favors Jamie Lynn Discala  from the Sopranos picked up e.l.f in New York before it was available in stores. Also celebrities such as Rachel Bilson Samarine Artmstrong Lindsay Lohan Dominic Monaghan (Lord of the Rings) Kwame Jackson have been of the first to try e.l.f.   e.l.f cosmetics is just like MAC cosmetics or Stila Cosmetics or Mary Kay for a fraction of the price. elf cosmetics is a premier brand for value priced cosmetics. If you are looking for cheap cosmetics but you refuse to sacrifice quality, elf is for you!Eyes, lips face cosmetics (aka e.l.f.)  sell for the inexpensive price of $1.00 because we feel that you should be able to get prestigious cosmetics without sacrificing your budget. e.l.f. cosmetics is the first to put SPF in their lip gloss. e.l.f cosmetics caters to a mulititude of skin problems. Our clarifying pressed powder is infused with salicylic acid to help treat and prevent  acne on oily skin.  E.l.f. brightening eye liner is a gel based formula that glides on smoothly with no tugging on the eye lid. The eye liner also comes with a Free pencil Sharpener all for only $1.00. e.l.f. non stop eye shadow comes with four complimentary colors so you can mix and match and your own discretion. The trendy compact is sleek and fashionable. Our Bronzing Blush duo is the first to combine the color  effects of blush with the tanning affects of a bronzer all it one stylish component. E.l.f. soothing  lip gloss is infused with eucalyptus to give your lips a boost and a treatment at the same time. E.l.f.  hypershine gloss is just like L'oreal juicy tubes offer a radiant shine with little color so it can be  worn in addition to your favorite lip-gloss or lipstick. E.l.f shimmering facial whip is our all over  blush similar to products by Neutrogena that sells in drug stores for more than $10. Our non-greasy  formulation allows the color to stay on without a greasy feel. E.l.f. offers consumers the opportunity  to purchase three complimentary face products for only $3.00! Our tone correcting concealer , SPF 15  Moisturizer and Clarrifying pressed powders  are offered in 4 complimentary tones to appeal to multiple  ethnicities all you need to do it know if you would be best for tone 1, 2, 3, or 4 and purchase them across  all 3 categories. E.l.f. therapeutic lip balm can be used by men or women, similar to Chapstick for functionality,  but infused with delicious crème Brule flavors . This is a product everyone is sure to love. e.l.f. cosmetics make  great presents for bridal showers and stocking stuffers and carnival prizes,  because they are only one dollar.   Celebrities such as Sara Paxton gave out e.l.f. cosmetics at her birthday party as party favors Jamie Lynn Discala  from the Sopranos picked up e.l.f in New York before it was available in stores. Also celebrities such as Rachel Bilson Samarine Artmstrong Lindsay Lohan Dominic Monaghan (Lord of the Rings) Kwame Jackson have been of the first to try e.l.f.   e.l.f cosmetics is just like MAC cosmetics or Stila Cosmetics or Mary Kay for a fraction of the price. elf cosmetics is a premier brand for value priced cosmetics. If you are looking for cheap cosmetics but you refuse to sacrifice quality, elf is for you!Eyes, lips face cosmetics (aka e.l.f.)  sell for the inexpensive price of $1.00 because we feel that you should be able to get prestigious cosmetics without sacrificing your budget. e.l.f. cosmetics is the first to put SPF in their lip gloss. e.l.f cosmetics caters to a mulititude of skin problems. Our clarifying pressed powder is infused with salicylic acid to help treat and prevent  acne on oily skin.  E.l.f. brightening eye liner is a gel based formula that glides on smoothly with no tugging on the eye lid. The eye liner also comes with a Free pencil Sharpener all for only $1.00. e.l.f. non stop eye shadow comes with four complimentary colors so you can mix and match and your own discretion. The trendy compact is sleek and fashionable. Our Bronzing Blush duo is the first to combine the color  effects of blush with the tanning affects of a bronzer all it one stylish component. E.l.f. soothing  lip gloss is infused with eucalyptus to give your lips a boost and a treatment at the same time. E.l.f.  hypershine gloss is just like L'oreal juicy tubes offer a radiant shine with little color so it can be  worn in addition to your favorite lip-gloss or lipstick. E.l.f shimmering facial whip is our all over  blush similar to products by Neutrogena that sells in drug stores for more than $10. Our non-greasy  formulation allows the color to stay on without a greasy feel. E.l.f. offers consumers the opportunity  to purchase three complimentary face products for only $3.00! Our tone correcting concealer , SPF 15  Moisturizer and Clarrifying pressed powders  are offered in 4 complimentary tones to appeal to multiple  ethnicities all you need to do it know if you would be best for tone 1, 2, 3, or 4 and purchase them across  all 3 categories. E.l.f. therapeutic lip balm can be used by men or women, similar to Chapstick for functionality,  but infused with delicious crème Brule flavors . This is a product everyone is sure to love. e.l.f. cosmetics make  great presents for bridal showers and stocking stuffers and carnival prizes,  because they are only one dollar.   Celebrities such as Sara Paxton gave out e.l.f. cosmetics at her birthday party as party favors Jamie Lynn Discala  from the Sopranos picked up e.l.f in New York before it was available in stores. Also celebrities such as Rachel Bilson Samarine Artmstrong Lindsay Lohan Dominic Monaghan (Lord of the Rings) Kwame Jackson have been of the first to try e.l.f.   e.l.f cosmetics is just like MAC cosmetics or Stila Cosmetics or Mary Kay for a fraction of the price. elf cosmetics is a premier brand for value priced cosmetics. If you are looking for cheap cosmetics but you refuse to sacrifice quality, elf is for you!Eyes, lips face cosmetics (aka e.l.f.)  sell for the inexpensive price of $1.00 because we feel that you should be able to get prestigious cosmetics without sacrificing your budget. e.l.f. cosmetics is the first to put SPF in their lip gloss. e.l.f cosmetics caters to a mulititude of skin problems. Our clarifying pressed powder is infused with salicylic acid to help treat and prevent  acne on oily skin.  E.l.f. brightening eye liner is a gel based formula that glides on smoothly with no tugging on the eye lid. The eye liner also comes with a Free pencil Sharpener all for only $1.00. e.l.f. non stop eye shadow comes with four complimentary colors so you can mix and match and your own discretion. The trendy compact is sleek and fashionable. Our Bronzing Blush duo is the first to combine the color  effects of blush with the tanning affects of a bronzer all it one stylish component. E.l.f. soothing  lip gloss is infused with eucalyptus to give your lips a boost and a treatment at the same time. E.l.f.  hypershine gloss is just like L'oreal juicy tubes offer a radiant shine with little color so it can be  worn in addition to your favorite lip-gloss or lipstick. E.l.f shimmering facial whip is our all over  blush similar to products by Neutrogena that sells in drug stores for more than $10. Our non-greasy  formulation allows the color to stay on without a greasy feel. E.l.f. offers consumers the opportunity  to purchase three complimentary face products for only $3.00! Our tone correcting concealer , SPF 15  Moisturizer and Clarrifying pressed powders  are offered in 4 complimentary tones to appeal to multiple  ethnicities all you need to do it know if you would be best for tone 1, 2, 3, or 4 and purchase them across  all 3 categories. E.l.f. therapeutic lip balm can be used by men or women, similar to Chapstick for functionality,  but infused with delicious crème Brule flavors . This is a product everyone is sure to love. e.l.f. cosmetics make  great presents for bridal showers and stocking stuffers and carnival prizes,  because they are only one dollar.   Celebrities such as Sara Paxton gave out e.l.f. cosmetics at her birthday party as party favors Jamie Lynn Discala  from the Sopranos picked up e.l.f in New York before it was available in stores. Also celebrities such as Rachel Bilson Samarine Artmstrong Lindsay Lohan Dominic Monaghan (Lord of the Rings) Kwame Jackson have been of the first to try e.l.f.   e.l.f cosmetics is just like MAC cosmetics or Stila Cosmetics or Mary Kay for a fraction of the price. elf cosmetics is a premier brand for value priced cosmetics. If you are looking for cheap cosmetics but you refuse to sacrifice quality, elf is for you!</span>
+					<span style="color:#ffffff; font-size:2px; font-family:mini7,verdana;"></span>
 				</div>
+				
 			</td></tr>
 			<tr><td height="100%" bgcolor="#fcf2f2">&nbsp;</td></tr>
 		</tbody></table>
+		
 	</td>
 	<td bgcolor="#cccccc" width="1"><img src="images/spacer.gif" width="1"></td>
 	<td width="50%" valign="top">
 		<table cellpadding="0" cellspacing="0" height="100%" width="100%">
 			<tbody><tr><td height="136" bgcolor="#f7dcdc"></td></tr>
 			<tr><td height="23" bgcolor="#efecec"></td></tr>
-			<tr><td bgcolor="#d0cfcf" style="background-image:url('images/bkgd_gry_right.gif');background-repeat: repeat-y;background-position:left;">&nbsp;</td></tr>
+			<tr><td bgcolor="#d0cfcf" style="background-image:url('/images/bkgd_gry_right.gif');background-repeat: repeat-y;background-position:left;">&nbsp;</td></tr>
 		</tbody></table> 
-		<img src="http://link.ixs1.net/s/at?site=7409&amp;page=privacypolicy.asp&amp;order=&amp;amount=&amp;item=&amp;count=" width="1" height="1" border="0">
+		<img src="http://link.ixs1.net/s/at?site=7409&amp;page=404.asp&amp;order=&amp;amount=&amp;item=&amp;count=" width="1" height="1" border="0">
 	</td>
 </tr>
 </tbody></table>
+ 
+
+<!-- Begin ZEDO -->
+<iframe src="http://d3.zedo.com/jsc/d3/bh.html?n=826;g=20;a=100;s=1;l=1;t=r;e=1" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="1" height="1">
+</iframe>
+<!-- end  ZEDO   -->
 
 
 
+
+
+
+
+<!-- MyBuys Page Initialization - Place after </body> tag -->
+<script type="text/javascript">
+  mybuys.initPage();
+</script>
+<!-- End MyBuys Page Initialization -->
+
+<img src="http://www.offerpoint.net/WriteTracking.aspx?clientId=315" width="1" height="1">
+
+<script language="JavaScript" src="http://secure1.offerpoint.net/inchannel/maq.js">
+</script>
+<script language="JavaScript" src="http://track.offerpoint.net/inchannel/maq.js"></script>
 
 
 <script>
