@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626025336id_/http%3A//www.netzero.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033745id_/http%3A//www.netzero.net/legal/privacy.html) for the most accurate reproduction.*
 
 # NetZero - Privacy and Security- Free Dial Up Internet Service - High Speed ISP - Net Zero Internet Provider - Netzero.com
 
@@ -27,185 +27,144 @@
 | |   
 
 
-NetZero, Inc. Privacy Statement
+NetZero Privacy Statement
 
-Overview
+I.   Overview
 
-NetZero is committed to safeguarding your privacy online. NetZero created this Privacy Statement in order to demonstrate our firm commitment to protecting the privacy of subscribers to and users of the Services and of visitors and users of the Site. The following discloses how we gather and use information on the Site and while you use the Service. We use the information we collect about you to create a more personalized online experience. By using NetZero's Web site (the "Site") or services (the "Services"), you consent to our collection, use and disclosure of your information, as described below. Please read on for more details about our Privacy Policy. This policy may change from time to time so please check back periodically. 
+NetZero is committed to safeguarding your privacy online. NetZero created this Privacy Policy (the " _Policy_ ") in order to demonstrate its firm commitment to protecting the privacy of the users of NetZero products and services (the " _Services_ ") and available through NetZero's websites (the " _Sites_ "). Please read through the information below and any supplemental information referenced in this Policy for additional details about our particular Sites.
 
-If you have a question about the information below, please contact NetZero at:
+This Policy discloses how we use and share your information collected through the use of the Services and the Sites. We use the Information that we collect about you to create a more personalized online experience for you.
 
- Attn: Compliance Officer- Legal Department  
+If you have a question about any of the information in this Policy, please contact NetZero at:
+
+ Attn: Legal Department  
  NetZero, Inc.  
- 21301 Burbank Blvd  
- Woodland Hills, CA 91367  
+ 21301 Burbank Boulevard, Woodland Hills, CA 91367  
  (818)287-3000  
- [privacy@netzero.net](mailto:privacy@netzero.net)
+ [privacy@netzero.com](mailto:privacy@netzero.com)
+
+  
+
+
+ **II.    What information do we collect from you?**
+
+In order to provide Services and maintain our Sites, NetZero collects two types of information from its users and visitors: personal information and non-personal information. Our primary goal in collecting these types of information from you is to provide you with a customized experience while using the Services on our Sites - not to raise concerns about the safety and security of your information.
+
+  1.  **Personal information**. Depending on the Service, we may collect personal information (including, but not limited to your name, address, zip code, country, phone number and e-mail address), demographic information (including, but not limited to your age, household size, income level, education, gender, information about your business and birth date), financial information (including, but not limited to your credit card information) and psychographic information (including, but not limited to your reason for Internet use, reason for use of the Services and the Sites and topics of interest to you).
+  2.  **Non-personal information**. This refers to information that by itself cannot be linked to your personal identity (such as your NetZero member number). We automatically gather certain non-personal information about you based upon your activity on the Sites or the way you use our Services. We also collect machine data (such as processor type and speed, account information, operating system type, internet connection speed, browser type, audio devices, modem devices, video cards and any software on your computer that may interact or interfere with our software or Services) and your web browsing information (such as a web Sites' Uniform Resource Locator (" _URL_ ") that you just came from, which URL you next go to, access times on a URL, certain non-identifying purchase transaction details and the Internet Protocol (" _IP_ ") address from which you have accessed the Sites).
+
+  
+
+
+ **III.    Where do we collect your information?**
+
+  1.  **Registration and online forms**. We collect information that you submit on registration forms, surveys, questionnaires, responses to sweepstakes or other special offers, or other online forms or interactive portions of our Sites. We may also collect information from users and visitors to our Sites regarding the referring URL, IP address, which browser a person used to come to the Sites and the pages of our Sites that a user or visitor viewed during one's visit.
+  2.  **Third-party sources**. We may gather new information or update existing information from other sources including, but not limited to, for example, verifying and updating your address using third-party services, using various methods to update your credit card expiration date or collecting or comparing information from our subsidiaries.
+  3.  **Online surveys**. When you participate in an online survey sponsored by a NetZero entity or a trusted partner, we may ask you for certain information, for example, demographic information (like your zip code, age or income level) and your hobbies and interests in order to track responses.
+  4.  **Contests and Sweepstakes**. We may run contests, sweepstakes and other promotions on our Sites or through our Services, in which we may request entrants to provide personal and/or contact information. NetZero uses the information collected in the entry form to verify the entrant's identity, age and to communicate with entrants. We will not knowingly permit children under the age of 13 to participate in contests or sweepstakes. We may also co-sponsor a contest or sweepstakes with a trusted partner contractually obligated to protect your personal information with whom we will share information obtained as a result of participation in the contest or sweepstakes.
+  5.  **Technical/Support Information**. If you contact us by e-mail or other means for technical support or information related to the Service, we may keep a record of your communication and its resolution. Thus, if you report a problem with our Services or Sites, we may collect such Information in a file specific to you. Moreover, if you contact us through our feedback area, we require your name and e-mail address in order to send you a reply. Additionally, if other users or third parties send us correspondence about your activities or postings on our Sites, we may keep the Information in a file specific to you and/or the investigation and action we take.
+
+  
+
+
+ **IV.    How is your information used?**
+
+NetZero uses the Information it collects to provide you with more relevant services, including, online shopping, third-party offers, contests, promotions, surveys and advertising. To accomplish this we may collect and perform research on the Information from our users and other parties that provide similar types of consumer information. This research is compiled, analyzed and used to better serve our users, third-party advertisers, and trusted partners. In particular, we have described below some of the ways we use the Information you provide:
+
+  1.  **Personalize your experience**. Information is used to tailor your experience of our Services on the Sites, such as by displaying advertisements and content that might be of interest to you.
+  2.  **Respond to inquiries**. If you request information from us, then we will collect Information from you in order to respond to your requests or inquiries.
+  3.  **Understand user needs and trends**. We use Information to do internal research on our users' demographics, interests and behavior to better understand and serve our users and visitors. We also collect Information regarding the referring URL, your IP address, which browser you used to come to the Sites and the pages of our Sites that you viewed during your visit.
+  4.  **E-mail and direct mail marketing**. You may agree to receive e-mail, advertisements and promotions from us, third-party advertisers, and trusted partners regarding products or services we believe you may be interested in, new features or products we are introducing, tips on product use, and promotions. If you later decide that you wish to cease receiving such e-mail or direct mail marketing, you may do so at any time by opting-out of participation in these marketing activities.
+
+Since it is necessary for us to contact you regarding certain matters, you may not opt-out of receiving messages related to material company announcements or policy changes, or administrative matters relating to your account, like billing, collections, customer service or the like.
+
+If you subscribe to a free or discounted version of a Service, you acknowledge that as a condition of receiving such free or discounted Service, you may be required to receive information and advertising related to products and services offered by NetZero. You further acknowledge that any such advertisements and information may be an inseparable part of the free or discounted Service, and in order to opt-out of receipt you may be required to terminate the relevant Service.
+
+  5.  **Diagnose service problems**. We use your IP address to help diagnose problems with our Services, servers, software, and to administer our Sites. We also review "log-file" data to monitor Sites performance and analyze traffic and usage patters of our Sites.
+
+  
+
+
+ **V.    Do we monitor your online communications?**
+
+We will not intentionally monitor or disclose any private e-mail messages or online communication between you and a third party, although we reserve the right to monitor accounts that we believe, in our sole discretion, to be acting in violation of the Terms of Service or any applicable law or regulation; to protect the integrity of our Services or the Internet community as a whole; in an emergency situation; or pursuant to request of governmental or legal authority.
+
+  
+
+
+ **VI.    Who is collecting your information?**
+
+NetZero takes great care to ensure our users' privacy-but not every company has comparable policies. While you are on the Sites or utilizing our Services we will be collecting Information, unless it is specifically stated otherwise. Some of our Services are offered in conjunction with third-party advertisers or our trusted partners in a co-branded manner. When we offer you co-branded services or products and you respond with your information, we may share your personal information with our third-party co-branding partner.
+
+Once you leave our Sites, we cannot assume any responsibility for any other content or practices of unaffiliated sites. Providers of unaffiliated Internet sites or services have separate data and privacy practices independent of our Policy that govern the manner in which they use the information that you provide to them. Even within our Sites, many of the features and much of the content is supplied by third parties (or jointly by NetZero and one or more third-party advertisers or trusted partners), each of which has its own privacy policies and practices, and the Sites may link to some pages provided by third-parties that are co-branded by us and the provider.
+
+  
+
+
+ **VII.    With whom do we share your information?**
+
+Except as otherwise described in this Policy, we will not disclose or share your unaggregated personal information to an unaffiliated third party unless you consent to the disclosure of such information.
+
+  1.  **Sale or rent of personal information**. We do not rent or sell your unaggregated personal information to anyone without your express consent.
+  2.  **Our service providers**. Like many companies, we work with service providers who provide services to us. We may share your information with these service providers in order for them to provide their services on our behalf, such as administering surveys, promotions, conducting data processing or analysis, or providing advertising on our Sites. We require each service provider to use the information only as is necessary for the service provider to complete its responsibilities for us, to have in place a privacy policy similar to this Policy and abide by confidentiality restrictions and implement security measures to safeguard such information.
+  3.  **Affiliates**. NetZero is a subsidiary of United Online, Inc., which is also the parent company of other entities that offer Internet-related services ("NetZero's Affiliates"). NetZero's Affiliates also have similar privacy policies that protect personal information. NetZero is constantly looking for ways to streamline its technical and administrative processes and offer robust products and services to its subscribers. To this end, NetZero may share your personal information with its Affiliates.
+  4.  **Purchasers of the business**. If NetZero sells, assigns or transfers the part of its business that provides a particular service to you, your information may be sold, assigned or transferred as a part of such transaction.
+  5.  **Legal Matters; Protection of Rights, Property and Interests; Safety**.  
+We may, without your consent, access and disclose your personal information, any communications sent or received by you, and any other information that we have about you or your account: as may be permitted or required by law, regulation, rule or court order; pursuant to requests from governmental, regulatory or administrative agencies or law enforcement authorities; to establish or exercise our legal rights or defend against legal claims; or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding, suspected fraud, violations of our Terms of Service, or activity that appears to us to be illegal or may expose us to legal liability. Additionally, we may disclose your personal information in situations that we believe to be emergencies involving potential threats to the physical safety of any person or property if we believe that your personal information in any way relates to that threat.
+
+  
+
+
+ **VIII.    How may you access or update your information?**
+
+The information you provide during registration for, or during your use of, the Services is placed in your Personal Profile. You may access or update the information contained in your Personal Profile on the Sites at any time or through other methods provided through our Services. NetZero may update the information in your Personal Profile with information obtained through generally accepted methods of address verification.
+
+  
+
+
+ **IX.    How do we protect your information?**
+
+NetZero uses security systems and secure computers to protect your information. For example, the information in your Personal Profile is password-protected so that only you may access or change the information. You should not share your password with anyone. NetZero personnel will never ask you to divulge your password in written or electronic communications. We will only ask you for your password when you contact us and only in cases where you request customer service to correct a service problem which requires your password. Additionally, when highly confidential information, such as a credit card number, is transmitted through our websites, it is encrypted by using Secure Socket Layer (SSL) software. Please be aware that Internet security technology changes rapidly and data transmission is never 100% secure. We cannot guarantee that any safeguards we use will completely protect your information from security threats whether now or in the future. You should also be aware that despite our efforts, factors beyond our control may result in disclosure of your information. Accordingly, we are not able to guarantee the security of the information you transmit when utilizing our Services.
+
+  
+
+
+ **X.    A note about international users.**
+
+The information we collect from users is processed and maintained in the United States, where privacy laws may not be as protective as in your home country. If you are using our Sites from outside of the United States, by providing information to us you are consenting to the transfer of the information to the United States for processing in a manner consistent with this Policy.
+
+  
+
+
+ **XI.    A note about the privacy of children ages 13 to 18.**
+
+We collect, use, and disclose information about children ages 13 to 18 in the same manner as we do for adults. We believe that it is especially important to protect childrens' privacy online and encourage parents and guardians to spend time online with their children to participate and monitor their Internet activity. If you are under 18, we recommend you get your parents' permission before disclosing any information about yourself to anyone on the Internet. We do not filter advertisements or other content that children may receive, and they could receive content and materials from the Internet and/or advertising that are inappropriate for children.
+
+[Click here](https://web.archive.org/legal/special.html) for a special notice to the parents of children under 13.
+
+  
+
+
+ **XII.    Use of cookies and web beacons.**
+
+A cookie is a small piece of data that is stored in a browser-related file on your computer's hard drive when you use the Services on the Sites. Cookies are uniquely assigned to your computer, and are read by a web server in the domain that issued the cookie to you. Our primary use of cookies is to enable us to recognize your computer each time you return to our Sites or use our Service, keep track of your preferences, determine what you have already seen on our Sites and to improve your online experience. For example, storing a cookie on your computer allows you to login without typing your registered e-mail address or registration number and password. We may also use an e-mail delivery and marketing company to send e-mails that you have agreed to receive. Pixel tags and cookies are used in those e-mail messages to help us measure the effectiveness of our advertising. Third parties, including third-party advertisers, may also set cookies. Such third parties are responsible for placing and using such cookies and may collect information about you through such cookies. We do not have access to such cookies, control the use of such cookies or have control over the privacy policies of such parties. Please also note that certain types of e-mails available through the Services on our Sites may automatically log you into the Sites and/or set new cookies when you click on the links in the e-mails and that you may need to manually remove such cookies if you do not want them to be set on your computer.
+
+If you do not want cookies stored on your computer you can reject cookies by modifying your web browser setting accordingly (each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences). However, if you choose to reject cookies, you may not be able to access products and services that we offer that require you to "login" or "sign in."
+
+  
+
+
+ **XIII.    Privacy Policy changes.**
+
+If NetZero changes its privacy practices as described in this Policy, those changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We reserve the right, at our discretion, to change, modify, add, amend and/or remove portions of this Policy at any time. We will notify you about significant changes in the way we treat your information by sending a notice to the primary e-mail address specified in your account or by placing a prominent notice on the Sites for a period of at least 30 days prior to the Policy change noting that there will be significant changes to this Policy. Please be sure to check this page periodically for changes to our privacy practices.
+
+  
+
+
+ **XIV.    Acceptance of these terms.**
+
+This Policy is incorporated into and subject to the terms of the NetZero Terms of Service. Each time that you use the Sites or our Services, you signify that you have read, understood and agree to be bound by the Terms of Service, which incorporates this Policy. If you do not agree to the terms of this Policy, you must discontinue using the Services and software, terminate your account and uninstall any copies of software allowing making use of the Sites or our Services possible.
+
+This Policy is effective upon acceptance in registration for new users, and is otherwise effective on October 6, 2006 for all NetZero users.
 
 * * *
-
-This Privacy Statement will explain the following regarding our Site and Service:
-
-  1. What personal identifying information (and other information) does NetZero collect from you?
-  2. Where do we collect information from you?
-  3. How is your information used?
-  4. Who is collecting your information? 
-  5. With whom do we share your information? 
-  6. How may you access or update your information?
-  7. How does NetZero protect your personal information?
-  8. A note about the privacy of children aged 13 to 18.
-  9. A special notice to parents about children under 13.
-  10. Use of "Cookies".
-  11. Other information about your privacy while visiting and using the Site or using the NetZero Service.
-
-  
-
-
-**What personal identifying information (and other information) does NetZero collect from you**
-
-In order to provide the Services, NetZero collects two types of information from its subscribers and visitors: personally identifiable information and aggregated information. Our primary goal in collecting information from you is to provide you with a smooth, efficient and customized experience while using the Services. 
-
-  * **Personal information.** We collect personal identifying information (including, but not limited to, name, address, phone number and e-mail address), demographic information (including, but not limited to, age, household size, income level, education level and gender), financial information (including, but not limited to, credit card information) and psychographic information (including, but not limited to, reason for Internet use, reason for use of NetZero and topics of interest to you) when you register for and use the NetZero Service and other NetZero programs.
-  *  **Non-personal and Aggregated information.** This refers to information that is not personally identifiable. We automatically gather certain information about you based upon your activity on the Site or the way you use the Service. We also collect machine data such as processor type, processor speed, operating system type, browser type, audio devices, modem devices, video cards and any software on your computer that may interact or interfere with our Software or Service. This information may include the web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. This information is compiled and analyzed on an aggregated basis. For instance, we may know that ten thousand people visit this Privacy Statement today, but we do not know their names or addresses so they are anonymous to us. NetZero also uses this information to do internal research on our visitors' demographics, interests and behavior to better understand and serve our visitors.
-
-
-
-Back to list
-
-  
-
-
- **Where do we collect information from you?**
-
-  * We collect personal identifying information on the NetZero Site. We collect this, and other information, as part of NetZero's MyNetZero start page and, if you request, information regarding advertising services provided by NetZero or other information from the Investor Relations portion of our Site. We also collect information from visitors to our Site regarding the referring Uniform Resource Locator ("URL"), your Internet Protocol ("IP") address, which browser you used to come to the Site and the pages of our Site that you viewed during your visit. An URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a TCP/IP network. TCP/IP stands for "Transmission Control Protocol/Internet Protocol," and is the suite of communications protocols used to connect hosts on the Internet. Networks using the TCP/IP protocol route messages based on the IP address of the destination.
-  *  **NetZero Service**. During the NetZero Service registration process we ask subscribers to provide personal identifying, demographic and psychographic information. The information you provide during registration is placed in your NetZero personal profile. You may access or change your NetZero personal profile information at any time. In addition, you may provide other personal identifying information and financial information, such as a credit card number and other credit card verification information if you choose to enter such information in order to purchase additional time on the Service or in order to use other NetZero Services. NetZero may update the information in your NetZero Personal Profile with information obtained through generally accepted methods of address verification. You may access your NetZero Personal Profile information at any time. See the section below entitled: " **How may you access or update your information?** "
-
-While you are using the NetZero Service or have our Software installed, we collect non-personally identifiable information including, without limitation, information regarding the Web sites you visit, your interactions with those sites, the telephone number used to log in to the Service and any software on your computer that may interact or interfere with our Software or Service. Our Service implements our own unique technology which builds a database of the types of sites you visit while you are online. This information is ultimately stored in the form of categories and, in some cases, specific URLs. We use your IP address to help diagnose problems with our Service, servers and software, and to administer our Site. 
-
-  * **Online Surveys, Contests and Sweepstakes.** When you participate in an online survey or interactive poll, we will ask you for your demographic information (like your zip code, age or income level) and your hobbies and interests in order to track voting. When you enter a contest or other promotional feature, we will ask you for contact information (like your e-mail address) and demographic information (like your zip code, age, or income level) in order to administer the contest and notify winners. 
-  * **Contact Information and Third Party Data.** If you contact NetZero by e-mail or letter, we may keep a record of your personal correspondence. Thus, if you report a problem with our Site, we may collect such information in a file specific to you. Moreover, if you contact us through our feedback area, we require your name and e-mail address in order to send you a reply. Additionally, if other users or third parties send us correspondence about your activities or postings on our Site, we may keep the information in a file specific to you. 
-
-
-
-Back to list
-
-  
-
-
- **How is your information used?**
-
-NetZero uses the information it collects to provide you with more relevant services, online shopping, third party offers, surveys and advertising. To accomplish this we perform research on the demographic, psychographic and other information we collect. This research is compiled, analyzed and used to better serve you, our advertisers and business partners. We also use the information to display and deliver advertisements and content that may be of interest to subscribers. NetZero may provide this information in aggregate form to advertisers and partners. In particular, we use the information you provide as described below. 
-
-  * **NetZero Site.** We collect personal identifying information and other information on the NetZero Site as part of NetZero's MyNetZero Service. On the NetZero Site, if you request information from NetZero regarding our advertising services or other information, then we will collect information from you in order to respond to your requests. We also collect information regarding the referring URL, your IP address, which browser you used to come to the Site and the pages of our Site that you viewed during your visit. We use this information to better understand the habits and methods our subscribers use to reach our Site and how we may better serve the needs of our subscribers and visitors. 
-  * **NetZero Service.** NetZero uses personal identifying information to confirm or clarify submitted information and to provide our subscribers with updated information about our company and services. Demographic and psychographic information is used to tailor a subscribers experience of our service, such as by displaying advertisements and content that might be of interest to the subscriber. NetZero will not disclose any personal identifying information about any subscriber to a third party unless the subscriber consents to the disclosure, or except as may be required by law, governmental authority or to cooperate with law enforcement authorities. NetZero will, on occasion, share such information in aggregate form with advertisers so that they can target advertisements to groups of subscribers. Our Service implements our own unique technology which builds a database of the types of sites you visit while you are online. This information is ultimately stored in the form of categories, and, in some cases, specific URLs. We use your IP address to help diagnose problems with our Service, servers, software, and to administer our Site. 
-  * **Online Surveys, Contests and Sweepstakes.** NetZero conducts surveys in order to target advertisements and content and to better understand subscribers' needs and opinions. NetZero will not share survey information containing personal identifying information about individuals with any third party without your prior consent. NetZero may share, in aggregate form, information it collects from these surveys with its advertisers, partners and the general public. 
-  * NetZero may run contests, sweepstakes and other promotions on its Site or through its Service, in which we may request entrants to provide personal or contact information. In some cases, entrants may be required to answer survey questions about a range of topics. NetZero uses the information collected in the entry form to verify the entrant's identity, age and to communicate with entrants. NetZero will not share any of the entrant's personal or contact information with any third party, unless disclosed at the time of entry, if you are a contest winner or as may be required by law. NetZero may make information about entrants available in aggregated form to advertisers, partners and the general public. NetZero will not knowingly permit children under 13 to participate in contests or sweepstakes. 
-  * **Contact Information and Third Party Data.** NetZero uses this information to respond to your inquiry, and to enable third-party partners to let us know that you have contacted them. 
-  * **E-mail and direct mail marketing.** You may agree to receive e-mail, advertisements and promotions from us, third-party advertisers, and trusted partners regarding products or services we believe you may be interested in, new features or products we are introducing, tips on product use, and promotions. If you later decide that you wish to cease receiving such e-mail or direct mail marketing, you may do so at any time by opting-out of participation in these marketing activities. Please refer to the **_Terms of Service_** for further information about opting out from these marketing activities. 
-
-
-
-Back to list
-
-  
-
-
- **Who is collecting your information?**
-
-While you are on the NetZero Site or utilizing the NetZero Service we will be collecting information, unless it is specifically stated otherwise. Some of our services are offered in conjunction with our business partners in a co-branded manner. When we offer you co-branded services or products we may share your personal information with our third party partner if you have elected to receive e-mails as provided in your NetZero Personal Profile or during the registration process for the NetZero Service. If any company other than NetZero is collecting personal information (other than companies collecting information on NetZero's behalf), you will be notified prior to the time of collection or prior to the transfer of information to a third party by NetZero. NetZero may reference, recommend or provide links to third party Web sites. We are not responsible for the third party Web sites, recommended or not, and you should review the privacy policies posted on these sites. Please be aware that NetZero does not control, nor are we responsible for, the privacy policies or information practices of third parties or their Web sites. If you do not want to have your personal identifying information shared with a co-branded partner you can choose not to use the services offered by the co-branded partner. You may also change your NetZero preferences in your NetZero Personal Profile at any time. See the section below entitled: " **How may you access or update your information?** " 
-
-Back to list
-
-  
-
-
- **With whom do we share your information?**
-
-  * NetZero will not disclose your personally identifiable information to any third party, except if you have given us your consent for such disclosure or if the disclosure is described below. NetZero may share your non-personally identifiable information with third parties. 
-  * NetZero may share your personally identifiable information with third parties that provide services on behalf of NetZero. Such third parties do not have the right to use your information for any purpose other than to provide the applicable service. 
-  * NetZero may share your personally identifiable information with its affiliates that are subject to privacy policies that protect your personally identifiable information from disclosure to third parties in a manner similar to this Privacy Statement. 
-  * If NetZero sells, assigns or transfers the part of its business that provides a particular Service to you, your personally identifiable information may be sold, assigned or transferred as a part of such transaction. 
-  * NetZero may disclose your personally identifiable information, any communications sent or received by you, and any other information that we may have about your account as follows: as may be required by law, regulation, rule or court order; pursuant to requests from governmental agencies or law enforcement authorities; as necessary to identify, contact or bring legal action against someone who may be violating the Rules; to operate the Services properly; or to protect NetZero, our members or other third parties including, without limitation, other emergency situations. 
-
-
-
-Back to list
-
-  
-
-
- **How may you access or update your information?**
-
-The information you provide during registration for, or during your use of, the NetZero Service is placed in your NetZero Personal Profile. You may access or update your NetZero Personal Profile information on the Site or through other methods provided through the Service.
-
-Back to list
-
-  
-
-
- **How does NetZero protect your personal information?**
-
-NetZero employs security systems to protect the information we receive from our subscribers. In addition, the information in your NetZero Personal Profile is password-protected so that only the subscriber may access or change the information. You should not share your password with anyone. NetZero personnel will never ask you to divulge your password in written or electronic communications. We will only ask you for your password when you contact us and only in cases where you request customer service to correct a service problem which requires your password. Please be aware that Internet data transmission is not always 100% secure and we cannot warrant that information you transmit utilizing the NetZero Service is 100% secure. Because security is important to NetZero and our subscribers, we will always make reasonable efforts to ensure the security of our systems. 
-
-Back to list
-
-  
-
-
- **A note about the privacy of children aged 13 to 18.**
-
-We collect, use, and disclose information about children aged 13 to 18 in the same manner as we do for adults. NetZero believes that it's especially important to protect children's privacy online and encourages parents and guardians to spend time online with their children to participate and monitor their Internet activity. If you are under 18, we recommend you get your parent's permission before disclosing any information about yourself to anyone on the Internet. We do not filter advertisements or other content that children may receive, and they could receive content and materials from the Internet and/or advertising that are inappropriate for children. We provide a listing of third party services that offer parental control software that is located at:  
-<http://www.netzero.net/support/info/safety.html>. 
-
-Back to list
-
-  
-
-
- **A Special Notice to parents of children under 13.**
-
-In compliance with the Children's Online Privacy Protection Act and fair information practices, we will not knowingly allow children under the age of 13 to become subscribers to the NetZero free Internet access service without parental consent. As part of the registration process for the NetZero service we collect personal and other information. We do not knowingly disclose children's personal information to third parties. We have designed a [Parental Consent Form](http://www.netzero.net/legal/printable_parental.html) to allow parents to easily provide their consent. 
-
-In order to make an informed decision about giving parental consent we provide notice of our information practices with regard to children below:
-
-  1. The name, address, telephone number and e-mail address of the operator of this online service is: NetZero, Inc. - 21301 Burbank Blvd, Woodland Hills, CA 91367 - (818)287-3000 - [parental_consent@netzero.net](mailto:parental_consent@netzero.net)
-  2. We collect a variety of information on our Service including, without limitation, personal information such as first and last name, e-mail address, birthday, telephone number and member ID name and non-personal demographic information such as gender, education level, occupation, income, interests and information relating to a various topics such as cars and pets. Most of this information is collected through the profile our subscribers fill out when they register or when they respond to questions of NetZero or its sponsors. We also passively collect data regarding the websites our subscribers visit and the functionality of our subscribers' computers.
-  3. We use the information to uniquely identify each subscriber to our service and to research our subscribers' demographics, interests and behavior. This enables us to design and market our service, to tailor advertising to specific users, to perform data analysis for marketing and computer research, and to perform administrative functions. We also use the information to respond to the duly authorized information requests of governmental authorities. We use information about computer functionality to allow us to deliver compatible technologies and services to our subscribers.
-  4. We do not disclose the personal information of our child subscribers to third parties.
-  5. The Children's Online Privacy Protection Act prohibits all operators (including NetZero) from conditioning a child's participation in an Internet activity on the disclosure of more personal information than is reasonably necessary to participate in the activity.
-  6. The parent of a child subscriber can review and have deleted their child's personal information and refuse to permit further collection or use of their child's information by accessing their child's NetZero Personal Profile information. Log on to the Service with the child's Member ID and Password. Click once on the NetZero logo on the ZeroPort. Then choose the Profile menu item. To retrieve your child's NetZero Personal Profile, you must enter your child's password and click the Retrieve button, you can only change the Profile of the Member ID that is shown. You are now at the Profile. By using the Back and Next buttons, you can navigate your way through the questions and change the necessary items. Once you are done, press the Submit button to leave or the Exit button to cancel your corrections. You may terminate your child's account at any time by submitting a request to NetZero via e-mail to [cancellation@netzero.net](mailto:cancellation@netzero.net)
-  7. This Special Notice is effective as of April 21, 2000 and is not effective prior to such date. This Special Notice only relates to children under the age of 13 and is not applicable in any respect to children 13 or over. In the event we make any changes to any of the information set forth in this Notice, we will promptly revise this Notice accordingly and make it available in our Privacy Statement located at <http://www.netzero.net/>
-
-
-
-Back to list
-
-  
-
-
- **Use of "Cookies".**
-
-NetZero uses a feature of your Web browser called cookies to automate certain aspects of our Site and Services. Cookies are very small files that are stored on your computer and that enable us to recognize your computer each time you return to our Site or use our Service. By using cookies, NetZero can keep track of your preferences, what you have already seen on our Site and what you haven't, and any personalization you've done, without requiring you to enter a password every time you come back. NetZero uses any information gathered using our cookies in compliance with this Privacy Statement.
-
-Third parties, including advertisers with whom NetZero may have a relationship, may also set cookies. Such third parties are responsible for placing and using such cookies and may collect information about you through such cookies; NetZero does not have access to such cookies, control the use of such cookies nor control over the privacy policy of such parties. 
-
-NetZero may use an e-mail delivery and marketing company to send e-mails that you have agreed to receive. Pixel tags and cookies are used in those e-mail messages and on the Site and Service to help NetZero measure the effectiveness of our advertising and how visitors use the Site and Service.
-
-Back to list
-
-  
-
-
- **Other information about your privacy while visiting and using the Site or using the NetZero Service.**
-
-NetZero collects information regarding subscribers' interactions with the NetZero software during their online sessions. NetZero also collects information regarding subscribers, visitors and users of the NetZero Site. This includes information about which advertisements are displayed to a subscriber, which advertisements a subscriber clicked on, which buttons in the ZeroPort a subscriber clicked on and a subscriber's other interactions with the NetZero Service. NetZero also tracks subscribers' traffic patterns throughout their online session, including which Web sites a subscriber visits while using the Service and which pages a subscriber views while using the Site. Our Service implements our own unique technology to build a database of the types of sites you visit while you are using the Service or the Site. This information is ultimately stored in the form of categories, and, in some cases, specific URLs. We use your IP address to diagnose problems with our Service, servers, software, and to administer our Site.
-
- **Privacy Statement Changes**
-
-If NetZero changes any of the NetZero privacy policies, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We reserve the right, at our discretion, to change, modify, add or remove portions of this Statement at any time. Please be sure to check this page periodically for changes. This policy was last changed and posted on our Site on July 12, 2001.
-
- **Acceptance of These Terms**
-
-This Privacy Policy is incorporated into and subject to the terms of the NetZero Service and NetZero Site Terms of Service. Each time that you use the NetZero Site or NetZero Service, you signify that you have read, understood and agree to be bound by the Terms of Service, which incorporates this Privacy Statement. If you do not agree to the terms of this Privacy Statement, you must discontinue using the NetZero Services and Software, terminate your account and uninstall any copies of the Software.
-
-Back to list
