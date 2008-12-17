@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cynthiasays.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214011353id_/http%3A//www.hisoftware.com/co/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cynthiasays.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025154id_/http%3A//www.hisoftware.com/co/privacy.htm) for the most accurate reproduction.*
 
 # HiSoftware: Privacy Statement
 
@@ -8,7 +8,7 @@ HiSoftware Inc. practice a strong privacy policy and enforces it with any partne
 
 In accordance with [COPPA](http://www.ftc.gov/bcp/conline/edcams/coppa/index.html), HiSoftware.com does not, at any time, knowingly collect information from customers or channel partners of children under the age of 13, in addition we do not market our products to children under the age of 13.
 
-Questions regarding this statement should be directed to HiSoftware's Corporate office, attention Privacy Office or to [privacy@hisoftware.com](mailto:privacy@hisoftware.com). or to HiSoftware Inc., 9 Trafalgar Square Nashua NH 03063. If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [ privacyofficer@hisoftware.com](mailto:privacyofficer@hisoftware.com).
+Questions regarding this statement should be directed to HiSoftware's Corporate office, attention Privacy Office or to [privacy@hisoftware.com](mailto:privacy@hisoftware.com), or to HiSoftware Inc., 9 Trafalgar Square, Nashua, NH 03063 USA. If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [ privacyofficer@hisoftware.com](mailto:privacyofficer@hisoftware.com).
 
 To return to the Web site, please use the "Back" button on your browser.
 
@@ -22,7 +22,7 @@ Frequently Asked Questions
 
 What does HiSoftware do?
 
-  * HiSoftware Inc., INC develops software for the personal computer, most notably, the award-winning produces TagGen, AccVerify, AccMonitor, Metadata Server and others.
+  * HiSoftware Inc. develops software for the personal computer, most notably, the award-winning produces TagGen, AccVerify, AccMonitor, Metadata Server and others.
 
   * HiSoftware Inc. specializes in technology-based software solutions and professional services.
 
@@ -87,7 +87,9 @@ This site gives users the following options for removing their information from 
   1. You can send email to [privacy@hisoftware.com](mailto:privacy@hisoftware.com)
 
   2. You can send mail to the following postal address:  
-HiSoftware Inc., 9 Trafalgar Square Nashua NH 03063 USA
+HiSoftware Inc.  
+9 Trafalgar Square  
+Nashua, NH 03063 USA
 
   3. You can call the following telephone number: (888) 272-2484, +1.603.578.1870
 
@@ -102,12 +104,14 @@ How do I change my personal information?
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [ privacy@hisoftware.com](mailto:privacy@hisoftware.com)
+  1. Email [ privacy@hisoftware.com](mailto:privacy@hisoftware.com)
 
-  2. send mail to the following postal address:  
-HiSoftware Inc., 9 Trafalgar Square Nashua NH 03063 USA
+  2. Send mail to the following postal address:  
+HiSoftware Inc.  
+9 Trafalgar Square  
+Nashua, NH 03063 USA
 
-  3. call the following telephone number: (888) 272-2484, +1.603.578.1870
+  3. Call the following telephone number: (888) 272-2484, +1.603.578.1870
 
 
 
@@ -151,7 +155,7 @@ following email: [ privacy@hisoftware.com](mailto:privacy@hisoftware.com) . You 
 
 * * *
 
-For more Information...
+For more information...
 
   * [ Electronic Frontier Foundation](http://www.eff.org/) \- a civil liberties organization working to protect your rights online.
 
