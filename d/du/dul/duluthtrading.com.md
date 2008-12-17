@@ -1,49 +1,53 @@
-> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502131312id_/http%3A//www.duluthtrading.com/privacysecurity/privacysecurity.aspx%3Fnavlocation%3Dbottom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217164939id_/http%3A//www.duluthtrading.com/privacysecurity/privacysecurity.aspx) for the most accurate reproduction.*
 
 # Privacy & Security - Duluth Trading Company
 
-[](https://web.archive.org/?sectionpath=1)
+[](https://web.archive.org/?sectionpath=1&pt-x=1)
 
 [](https://web.archive.org/?sectionpath=186)
 
-  * DEPARTMENT
-    * [Men](https://web.archive.org/store/department/mens/mens.aspx?navlocation=dept_left)
-    * [Women](https://web.archive.org/store/department/womens/womens.aspx?navlocation=dept_left)
-    * [Accessories](https://web.archive.org/store/department/accessories/accessories.aspx?navlocation=dept_left)
-    * [Tools & Shop](https://web.archive.org/store/department/tools_shop/tools_shop_collage.aspx?navlocation=dept_left)
-    * [Organizers & Bags](https://web.archive.org/store/department/organizers_bags/organizers_bags.aspx?navlocation=dept_left)
-    * [Gifts](https://web.archive.org/store/department/giftshop/giftshop_giftshop.aspx?navlocation=dept_left)
-    * [Web Only](https://web.archive.org/store/department/web_exclusives/web_exclusives.aspx?navlocation=dept_left)
-    * [Travel](https://web.archive.org/store/department/travel/travel.aspx?navlocation=dept_left)
-    * [Sale](https://web.archive.org/store/department/sale/sale.aspx?navlocation=dept_left)
+  * Clothing and Footwear
+    * [Men's](https://web.archive.org/store/clothes-footwear/mens/mens-clothes-and-footwear.aspx?navlocation=dept_left)
+    * [Women's](https://web.archive.org/store/clothes-footwear/womens/womens-clothes-and-footwear.aspx?navlocation=dept_left)
+  * Gear Shops
+    * [Tools, Shop & Garage](https://web.archive.org/store/gear-shops/tools-shop/garage-and-shop-tools.aspx?navlocation=dept_left)
+    * [Truck & Car](https://web.archive.org/store/gear-shops/truck-car/organization-truck-car.aspx?navlocation=dept_left)
+    * [Travel & Bags](https://web.archive.org/store/gear-shops/travel/bags-and-travel-gear.aspx?navlocation=dept_left)
+    * [Outdoor Survival](https://web.archive.org/store/gear-shops/gear-for-outdoor-survival/gear-for-outdoor-survival.aspx?navlocation=dept_left)
+    * [Lawn & Garden](https://web.archive.org/store/gear-shops/gear-for-lawn-and-garden/gear-for-lawn-and-garden.aspx?navlocation=dept_left)
+  * Specialty Shops
+    * [Gift Guide](https://web.archive.org/store/specialty-shops/gift-guide/gift-guide.aspx?navlocation=dept_left)
+    * [Longtail Ts](https://web.archive.org/store/specialty-shops/longtail-ts-longtail-shirts/longtail-ts-longtail-shirts.aspx?navlocation=dept_left)
+    * [Fire Hose Clothes](https://web.archive.org/store/specialty-shops/fire-hose-clothes-apparel/fire-hose-clothes-apparel.aspx?navlocation=dept_left)
+    * [Toys, Games & Kids](https://web.archive.org/store/specialty-shops/toys-games-kids/toys-games-kids.aspx?navlocation=dept_left)
+    * [Sportsman](https://web.archive.org/store/specialty-shops/sportsmans-gear-and-apparel/sportsmans-gear-and-apparel.aspx?navlocation=dept_left)
+    * [Dog Stuff](https://web.archive.org/store/specialty-shops/dog-items-dog-toys-dog-beds/dog-items-dog-toys-dog-beds.aspx?navlocation=dept_left)
+    * [Apothecary](https://web.archive.org/store/specialty-shops/apothecary/grooming-and-apothecary.aspx?navlocation=dept_left)
+    * [Web Exclusives](https://web.archive.org/store/specialty-shops/web-exclusives/web-exclusive-items.aspx?navlocation=dept_left)
+    * [Sale](https://web.archive.org/store/specialty-shops/sale/clearance-and-sale.aspx?navlocation=dept_left)
+    * [New Arrivals](https://web.archive.org/store/specialty-shops/new-arrivals/brand-new-arrivals.aspx?navlocation=dept_left)
 
 
-  * AND MORE
-    * [New Arrivals](https://web.archive.org/store/andmore_home/andmore_newarrivals/andmore_newarrivals.aspx?navlocation=dept_left)
-    * [Dog Stuff](https://web.archive.org/store/andmore_home/andmore_dogstuff/andmore_dogstuff.aspx?navlocation=dept_left)
-    * [Great Gadgets](https://web.archive.org/store/andmore_home/andmore_greatgadgets/andmore_greatgadgets.aspx?navlocation=dept_left)
-    * [Outdoor & Garden](https://web.archive.org/store/andmore_home/andmore_outdoorfun/andmore_outdoorfun.aspx?navlocation=dept_left)
-    * [Games, Toys, Kid Stuff](https://web.archive.org/store/andmore_home/andmore_gamesandtoys/andmore_gamesandtoys.aspx?navlocation=dept_left)
-    * [Grooming Essentials](https://web.archive.org/store/andmore_home/andmore_grooming/andmore_grooming.aspx?navlocation=dept_left)
-    * [Military-inspired Gear](https://web.archive.org/store/andmore_home/andmore_military/andmore_military.aspx?navlocation=dept_left)
-    * [Truck and Car Stuff](https://web.archive.org/store/andmore_home/andmore_truckcarstuff/andmore_truckcarstuff.aspx?navlocation=dept_left)
-    * [All Things Fire Hose®](https://web.archive.org/store/andmore_home/andmore_firehose/andmore_firehose.aspx?navlocation=dept_left)
-    * [Books ](https://web.archive.org/store/andmore_home/andmore_books/andmore_books.aspx?navlocation=dept_left)
-  * INFO AND SERVICES
-    * [About Us](https://web.archive.org/store/infoandservices/aboutus/aboutus.aspx?navlocation=dept_left)
-    * [Press Room](https://web.archive.org/store/infoandservices/pressroom/pressroom.aspx?navlocation=dept_left)
-    * [Gift Services](https://web.archive.org/store/infoandservices/giftservices/giftservices.aspx?navlocation=dept_left)
-    * [Email Sign Up](https://web.archive.org/?sectionpath=243&origin=1&processor=content&navlocation=dept_left)
-    * [Free Catalog](https://web.archive.org/store/infoandservices/catalog/catalog.aspx?navlocation=dept_left)
-    * [Wish List](https://web.archive.org/store/infoandservices/wishlist2/wishlistlogin.aspx?navlocation=dept_left)
-    * [Customer Service](https://web.archive.org/customerservice/customerservice.aspx?navlocation=dept_left)
-    * [100% Guarantee](https://web.archive.org/store/infoandservices/guarantee/guarantee.aspx?navlocation=dept_left)
-    * [Affiliate Program](https://web.archive.org/store/infoandservices/affiliateprogram/affiliate.aspx?navlocation=dept_left)
-    * [Job Openings](https://web.archive.org/store/infoandservices/jobs/jobs.aspx?navlocation=dept_left)
-    * [Play Trivia](https://web.archive.org/store/infoandservices/webtrivia/webusertrivia.aspx?navlocation=dept_left)
+  * About Duluth
+    * [Workwear Ingenuity](https://web.archive.org/store/about-duluth/workwear-tough-as-tools/workwear.aspx?navlocation=dept_left)
+    * [Lore](https://web.archive.org/store/about-duluth/lore/lore.aspx?navlocation=dept_left)
+    * [The Trades Panel](https://web.archive.org/store/about-duluth/tradespanel/tradespanel.aspx?navlocation=dept_left)
+    * [Real Women](https://web.archive.org/store/about-duluth/real-women/real-women.aspx?navlocation=dept_left)
+    * [Press Room](https://web.archive.org/store/about-duluth/press-room/press-room.aspx?navlocation=dept_left)
+  * Help
+    * [Wish List](https://web.archive.org/store/help/wishlist/wishlistlogin.aspx?navlocation=dept_left)
+    * [Customer Service](https://web.archive.org/store/help/customerservice/customerservice.aspx?navlocation=dept_left)
+    * [Gift Cards](https://web.archive.org/store/help/gift-services/help-gift-services.aspx?navlocation=dept_left)
+    * [Get the Catalog](https://web.archive.org/store/help/catalog/catalog.aspx?navlocation=dept_left)
 
-| | | | [Home](https://web.archive.org/store/home.aspx?navlocation=top)| [My Account](https://web.archive.org/?processor=asp&asp_processor=store&action=gotologin&navlocation=top)| [Customer Service](https://web.archive.org/customerservice/customerservice.aspx?navlocation=top)| [Cart](https://web.archive.org/?sectionpath=193/194&processor=asp&asp_processor=store&action=loadcart)| [](https://web.archive.org/?sectionpath=193/194&processor=asp&asp_processor=store&action=loadcart)| [ (0) Items ](https://web.archive.org/?sectionpath=193/194&processor=asp&asp_processor=store&action=loadcart)  
+| | | 
+
+[100% Guarantee](https://web.archive.org/web/20081217164939id_/http%3A//www.duluthtrading.com/privacysecurity/footer/guarantee/guarantee.aspx?navlocation=top)
+
+| | [Customer Service](https://web.archive.org/customerservice/customerservice.aspx?navlocation=top)| [My Account](https://web.archive.org/?processor=asp&asp_processor=store&action=gotologin&navlocation=top)| [Cart](https://web.archive.org/?sectionpath=193/194&processor=asp&asp_processor=store&action=loadcart)| [](https://web.archive.org/?sectionpath=193/194&processor=asp&asp_processor=store&action=loadcart)| [ (0) Items ](https://web.archive.org/?sectionpath=193/194&processor=asp&asp_processor=store&action=loadcart)  
 ---|---|---|---|---|---|---|---  
+[](https://web.archive.org/store/clothes-footwear/mens/mens-clothes-and-footwear.aspx?navlocation=dept_top)| [](https://web.archive.org/store/clothes-footwear/womens/womens-clothes-and-footwear.aspx?navlocation=dept_top)| [](https://web.archive.org/store/gear-shops/tools-shop/garage-and-shop-tools.aspx?navlocation=dept_top)| [](https://web.archive.org/store/gear-shops/truck-car/organization-truck-car.aspx?navlocation=dept_top)| [](https://web.archive.org/store/gear-shops/travel/bags-and-travel-gear.aspx?navlocation=dept_top)| [](https://web.archive.org/store/specialty-shops/apothecary/grooming-and-apothecary.aspx?navlocation=dept_top)| [](https://web.archive.org/store/specialty-shops/web-exclusives/web-exclusive-items.aspx?navlocation=dept_top)| [](https://web.archive.org/store/specialty-shops/sale/clearance-and-sale.aspx?navlocation=dept_top)| [](https://web.archive.org/store/specialty-shops/new-arrivals/brand-new-arrivals.aspx?navlocation=dept_top)  
+---|---|---|---|---|---|---|---|---  
   
 ---  
   
