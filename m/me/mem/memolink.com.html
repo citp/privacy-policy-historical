@@ -1,10 +1,44 @@
-<!--The following is the downloaded HTML source of the memolink.com privacy policy that was archived on 2008-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080526120648id_/http%3A//www.memolink.com/index.cfm/beacon/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the memolink.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217213045id_/http%3A//www.memolink.com/index.cfm/beacon/privacy_policy) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
+<html><head><link href="/assets/css/www/collapseMenu.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/assets/js/www/menu/gradualfader.js"></script><style type="text/css">
+.gradualfader{filter:progid:DXImageTransform.Microsoft.alpha(opacity=40); -moz-opacity:0.4; opacity:0.4;}
+</style>
+<script type="text/javascript" src="/assets/js/www/menu/jquery-1.2.2.pack.js"></script>
+<script type="text/javascript" src="/assets/js/www/menu/ddaccordion.js"></script>
+<script type="text/javascript" src="/assets/js/www/menu/menu.js"></script></head><body><div id="popitmenu" onmouseover="clearhidemenu();" onmouseout="dynamichide(event)"></div>
+
+
+<script language="JavaScript">
+	/***********************************************
+	* Pop-it menu- © Dynamic Drive (www.dynamicdrive.com)
+	* This notice MUST stay intact for legal use
+	* Visit http://www.dynamicdrive.com/ for full source code
+	***********************************************/
+	var defaultMenuWidth="170px" //set default menu width.
+
+	var linkset = new Array()
+
+	ddaccordion.init({
+		headerclass: "submenuheader", //Shared CSS class name of headers group
+		contentclass: "submenu", //Shared CSS class name of contents group
+		collapseprev: true, //Collapse previous content (so only one open at any time)? true/false
+		defaultexpanded: [], //index of content(s) open by default [index1, index2, etc] [] denotes no content
+		animatedefault: true, //Should contents open by default be animated into view?
+		persiststate: true, //persist state of opened contents within browser session?
+		toggleclass: ["", ""], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
+		togglehtml: ["suffix", "<img src='/assets/images/www/menu/plus.gif' class='statusicon' />", "<img src='/assets/images/www/menu/minus.gif' class='statusicon' />"], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
+		animatespeed: "normal" //speed of animation: "fast", "normal", or "slow"
+	})
+
+
+
+
 	function Sub_form(){
 		var offer = document.form1.Stores.options[document.form1.Stores.selectedIndex].value;
-		document.location.href='http://www.memolink.com/index.cfm/beacon/earn_points.shopping/offer/' + offer + '/display_method_id/20/' ;
+		var offerName = document.form1.Stores.options[document.form1.Stores.selectedIndex].text;
+		document.location.href='http://www.memolink.com/index.cfm/beacon/earn_points.shopping/offer/'+ offerName.replace(/ /g, '-') + '-' + offer + '/display_method_id/20/' ;
 	}
 
 	function disableButton(submitTypImage) {
@@ -23,41 +57,9 @@ function stopRKey(evt) {
 
 
 
-</script>
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		
-	
-	
-		
-	
-	
-		
-	
-	
-		
-	
-	
-		
-
+</script><style type="text/css">
+.submenu{display: none}
+</style>
 
 
 
@@ -70,7 +72,7 @@ function stopRKey(evt) {
 	
 	<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
 	
-	<meta name="ROBOTS" content="NOARCHIVE"> 
+	<meta name="ROBOTS" content="NOARCHIVE">
 
 
 
@@ -163,7 +165,7 @@ function stopRKey(evt) {
 			text-decoration: none;
 			padding: 2px;
 		}
-		
+
 		a.content:hover {
 			color: blue;
 			background: #CAE1FA;
@@ -193,7 +195,7 @@ function stopRKey(evt) {
 			padding: 2px;
 			font-size: 11px;
 		}
-		
+
 		.footer_cell {
 			padding: 10px;
 			background: #003366;
@@ -253,7 +255,7 @@ function stopRKey(evt) {
 			color:#4167b1;
 			font-weight:bold;
 			font-family: Arial, Helvetica, sans-serif;
-			
+
 		}
 		.headers {
 			font-size:17px;
@@ -266,7 +268,7 @@ function stopRKey(evt) {
 			color:#4167b1;
 			font-weight:bold;
 			font-family: Arial, Helvetica, sans-serif;
-			
+
 		}
 		.alert {
 			font-size: 11px;
@@ -321,24 +323,24 @@ function stopRKey(evt) {
 			font-weight:normal;
 			color:#666666;
 			}
-			
+
 		#rewardNumbers {
 			float:none;
 			margin-left:-5px;
 			width:170px;
 			color: #666666;
 			}
-		
+
 		.left {
 			float:left;
 			color: #666666;
 			}
-		
+
 		.right {
 			float:right;
 			color: #666666;
 			}
-			
+
 			.hideR {
 		display: none;
 		text-decoration: none;
@@ -366,8 +368,8 @@ function stopRKey(evt) {
 				cursor: hand;
 				color:#000000;
 			}
-			
-			
+
+
 			.toolTipRewards a{
 				margin:0px;
 				padding:0px;
@@ -379,34 +381,18 @@ function stopRKey(evt) {
 			.offerSortDropDown {
 				position: relative;
 				top: -34px;
+				margin-left: 375px;
 			}
-			
-		
+
+
 	</style>
 
 <meta name="y_key" content="ef15b3abc147128f"> <title>Memolink Privacy Policy</title><meta name="keywords" content="memolink company, memolink information, memolink business, about memolink.com, online rewards program, memolink corporate information, memolink, privacy statement, unsubscribe, registration, account information, cookies, log files, links, site, security, email, memomail, personal information"><meta name="description" content="Memolink is a top online rewards program run by a team of passionate and earnest individuals who strive to exceed our members' every expectation. 
-Get rewarded for shopping online, taking surveys and more. Points are redeemed for rewards of cash or gift cards from a hundreds of name-brand merchants. Memolink membership is 100% free with no obligations."></head>
+Get rewarded for shopping online, taking surveys and more. Points are redeemed for rewards of cash or gift cards from a hundreds of name-brand merchants. Memolink membership is 100% free with no obligations.">
 
 
 
-	
-	
-		
-	
 
-
-	
-	
-		
-			
-		
-	
-
-
-	
-
-
-<body>
 
 
 <script language="javascript1.1" type="text/javascript" src="/domain/www_memolink_com/design/default/eluminate.js"></script>
@@ -454,102 +440,21 @@ var cmJv="1.5";
 
 
 <table cellpadding="0" cellspacing="0" border="0" width="760" align="center">
-	<tbody><tr>
+	<tbody><tr> 
 		<td class="logo_cell">
 			
-				<a href="http://www.memolink.com/" title="memolink.com Home"><img src="/images/standard/logo.gif" border="0"></a>
+				<a href="http://www.memolink.com/index.cfm/beacon/holiday_point_increase" title="memolink.com Home"><img src="/images/standard/holidaylogo.gif" border="0"></a>
 			
 		</td>
-		<td class="promo_cell">
-	
-		
-	
-	
-	
-	
-
-	
-	
-
-	
-		
-			
-				
-					<a href="http://www.memolink.com/index.cfm/beacon/earn_points.dads_grads_buying_guide"><img src="/images/content/Dads_Grads.gif" border="0"></a><br>
-				
-			
-			
-		
-	
-	
-
-	</td>
+		<td class="promo_cell"> <table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td align="center"><a href="http://www.memolink.com/index.cfm/beacon/holiday_point_increase"><img src="http://www.memolink.com/images/content/email/shoppingnewsletter/392x72_pointIncrease.jpg" border="0" alt="Holiday Point Increase"></a></td></tr></tbody></table><br> </td>
 		<td valign="top" class="user_info_cell">
 			
-	
-	
-	
-	
-		
-	
-	
-		
+				<span class="user_info_name">Sara :   32,605 Points</span><br>
 				
-				<span class="user_info_name">Amy : 
-	
-	
-	
-	
-	
-	
-	
-	
-		  22,488 Points</span><br>
-				
-					
-	
-	
-	
-	
-	
-	
-		
-				 	
-				 	
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-						
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-						
-					
-					
-					
-					
-					
-					
 					<div class="rewards">
-					
-					
+
+
 					<script language="javascript" type="text/javascript">
 						function showdivR(action) {
 							if (action == 'hiddenR') {
@@ -563,29 +468,29 @@ var cmJv="1.5";
 							}
 						}
 					</script>
-							
+
 								<span class="toolTipRewards" id="toolTipRewards">
 									Your Rewards Meter allows you to see your point-earning progress, and how close you are to a reward. For more information regarding points awarded to you, go to <a href="/index.cfm/beacon/account.points_history">Points History</a>. To redeem for a reward, go to <a href="/index.cfm/beacon/rewards.all_prizes/">All Rewards</a> and select the reward of your choice!
 									<br><br>
 									<a href="javascript:showdivR('hiddenR');"><span style="width: 100%; font-size: 9px; cursor: hand; text-align: right; text-decoration: underline; float:right;">close window</span></a>
 								</span>
-								
-											
-							
-								Rewards Meter 
+
+
+
+								Rewards Meter
 								<span class="showR" id="showR"><a href="javascript:showdivR('visibleR');" style="text-decoration: underline;font-size:10px">more info</a></span>
 							<span class="hideR" id="hideR"><a href="javascript:showdivR('hiddenR');" style="text-decoration: underline;font-size:10px">more info</a></span>
-								
+
 							<br>
-								<img src="/images/rewardsMeter/meter.gif" alt="56.85%" class="percentImage" style="background-position: 43.15% 0pt;">
+								<img src="/images/rewardsMeter/meter.gif" alt="77.9270833333%" class="percentImage" style="background-position: 22.0729166667% 0pt;">
 						<br>
-						
+
 								<div id="rewardNumbers">
 									<span class="right">$25</span>
 									<span class="left">$0</span>
 									<center>$10</center>
 								</div>
-						
+
 					</div>
 				
 			
@@ -612,14 +517,6 @@ var cmJv="1.5";
 		<td width="15" valign="bottom"><img src="/images/spacer.gif" height="1" width="15"></td>
 		<td valign="bottom">
 			
-	
-	
-	
-	
-		
-	
-	
-		
 			<div align="left" style="padding: 0px 0px 4px 0px">
 				<a href="/index.cfm/logout/true/" style="text-decoration: underline; color: #003366; font-weight: bold;">LOGOUT</a>
 				<div align="left" style="padding: 0px 0px 4px 0px">
@@ -668,6490 +565,6232 @@ var cmJv="1.5";
 						<select name="Stores" style="font-size: 11px;" onchange="Sub_form()">
 						<option value="0">SELECT STORE</option>
 					
-						<option value="14302">
-							
-								1-800-Contacts
-							
+						<option value="638110">
+
+								 Photoworks
+
 						</option>
 					
 						<option value="42425">
-							
+
 								1-800-FLORALS
-							
+
 						</option>
 					
-						<option value="14304">
-							
-								1-800-Flowers
-							
+						<option value="637759">
+
+								1-800-flowers
+
 						</option>
 					
 						<option value="45744">
-							
+
 								1-800-GET-LENS
-							
+
 						</option>
 					
-						<option value="51333">
-							
-								123 Inkjets
-							
+						<option value="638127">
+
+								1-800-PetMeds
+
 						</option>
 					
 						<option value="50905">
-							
+
 								123 Refills
-							
+
+						</option>
+					
+						<option value="637615">
+
+								123Inkjets
+
+						</option>
+					
+						<option value="637699">
+
+								1800Contacts
+
+						</option>
+					
+						<option value="636550">
+
+								24 Hour Fitness
+
 						</option>
 					
 						<option value="14757">
-							
+
 								2Blockheads
-							
+
 						</option>
 					
 						<option value="16092">
-							
+
 								39dollarglasses.com
-							
-						</option>
-					
-						<option value="42739">
-							
-								3balls Golf
-							
+
 						</option>
 					
 						<option value="38427">
-							
+
 								4 All Memory
-							
+
 						</option>
 					
 						<option value="47381">
-							
+
 								4inkjets
-							
+
 						</option>
 					
-						<option value="54694">
-							
+						<option value="637618">
+
 								6pm.com
-							
+
 						</option>
 					
 						<option value="54821">
-							
+
 								7 For All Mankind
-							
+
 						</option>
 					
 						<option value="28631">
-							
+
 								A Cherry On Top
-							
+
 						</option>
 					
 						<option value="14308">
-							
+
 								A Pea In The Pod
-							
+
 						</option>
 					
 						<option value="54991">
-							
+
 								A&amp;E
-							
+
 						</option>
 					
 						<option value="37851">
-							
+
 								Abacus 24-7
-							
+
 						</option>
 					
 						<option value="635311">
-							
+
 								AbeBooks.com
-							
+
 						</option>
 					
 						<option value="44586">
-							
+
 								Abt Electronics
-							
+
 						</option>
 					
 						<option value="46000">
-							
+
 								AC Lens
-							
+
 						</option>
 					
 						<option value="635238">
-							
+
 								Acacia Catalog
-							
+
 						</option>
 					
 						<option value="54251">
-							
+
 								AccessoryGeeks.com
-							
+
 						</option>
 					
-						<option value="53872">
-							
-								ACDSee.com
-							
+						<option value="635906">
+
+								ACDSee
+
 						</option>
 					
 						<option value="33800">
-							
+
 								Ace Hardware
-							
+
 						</option>
 					
 						<option value="14787">
-							
+
 								Acorn Online
-							
-						</option>
-					
-						<option value="28727">
-							
-								Activa
-							
+
 						</option>
 					
 						<option value="27595">
-							
+
 								Adagio Teas
-							
+
 						</option>
 					
 						<option value="14311">
-							
+
 								Adidas
-							
+
 						</option>
 					
 						<option value="29342">
-							
+
 								Adobe
-							
+
 						</option>
 					
-						<option value="28677">
-							
+						<option value="637619">
+
 								Aeropostale
-							
+
 						</option>
 					
 						<option value="14312">
-							
+
 								Aerosoles
-							
+
 						</option>
 					
 						<option value="635466">
-							
+
 								Air France
-							
+
 						</option>
 					
 						<option value="635111">
-							
+
 								AJ Madison
-							
+
 						</option>
 					
 						<option value="32027">
-							
+
 								Alaska Airlines
-							
+
 						</option>
 					
-						<option value="14759">
-							
+						<option value="637761">
+
 								Alibris
-							
+
 						</option>
 					
 						<option value="32699">
-							
+
 								All About Dance
-							
+
 						</option>
 					
 						<option value="28268">
-							
+
 								AllBrands.com
-							
-						</option>
-					
-						<option value="679">
-							
-								alle Fine Jewelry
-							
+
 						</option>
 					
 						<option value="16754">
-							
+
 								Allergy Be Gone
-							
+
 						</option>
 					
-						<option value="26979">
-							
+						<option value="636642">
+
 								AllHeart.com
-							
+
 						</option>
 					
 						<option value="26417">
-							
+
 								Alloy.com
-							
+
 						</option>
 					
-						<option value="51344">
-							
+						<option value="637616">
+
 								AllPosters.com
-							
+
 						</option>
 					
 						<option value="24817">
-							
+
 								Allsop
-							
+
 						</option>
 					
 						<option value="50123">
-							
+
 								AllState Motor Club 
-							
+
 						</option>
 					
-						<option value="49431">
-							
-								Aloette
-							
-						</option>
-					
-						<option value="21444">
-							
-								Amazing Clubs
-							
+						<option value="635943">
+
+								Altrec.com
+
 						</option>
 					
 						<option value="27331">
-							
+
 								Amazon
-							
+
 						</option>
 					
 						<option value="29330">
-							
+
 								American Blooms
-							
+
 						</option>
 					
-						<option value="635508">
-							
-								American Consumer Opinion
-							
-						</option>
-					
-						<option value="37052">
-							
+						<option value="637700">
+
 								American Eagle Outfitters
-							
-						</option>
-					
-						<option value="27613">
-							
-								American Express - Blue C
-							
-						</option>
-					
-						<option value="40889">
-							
-								American Express - Blue®
-							
+
 						</option>
 					
 						<option value="634909">
-							
+
 								American Express - True E
-							
+
+						</option>
+					
+						<option value="40889">
+
+								American Express Blue
+
+						</option>
+					
+						<option value="27613">
+
+								American Express Blue Cas
+
 						</option>
 					
 						<option value="51061">
-							
+
 								American Express Blue Sky
-							
+
 						</option>
 					
 						<option value="51071">
-							
+
 								American Express Clear
-							
+
 						</option>
 					
 						<option value="26984">
-							
+
 								American Greetings
-							
+
+						</option>
+					
+						<option value="636639">
+
+								AMEX Gift Cards
+
+						</option>
+					
+						<option value="635144">
+
+								AmsterdamPrinting.com - W
+
 						</option>
 					
 						<option value="18754">
-							
+
 								Animal Den
-							
+
 						</option>
 					
 						<option value="28722">
-							
+
 								Ann Taylor Loft
-							
+
 						</option>
 					
 						<option value="50212">
-							
+
 								AnyKnockoff.com
-							
+
+						</option>
+					
+						<option value="47970">
+
+								Anytime Costumes
+
 						</option>
 					
 						<option value="50971">
-							
+
 								Appetizers To Go
-							
+
 						</option>
 					
-						<option value="32205">
-							
-								Apple Bottoms
-							
-						</option>
-					
-						<option value="14317">
-							
+						<option value="637810">
+
 								Apple iTunes
-							
+
 						</option>
 					
-						<option value="44435">
-							
+						<option value="637620">
+
 								Apple Store
-							
+
 						</option>
 					
 						<option value="16252">
-							
+
 								AppliancePartsPros.com
-							
+
+						</option>
+					
+						<option value="637271">
+
+								Aqua Globes
+
 						</option>
 					
 						<option value="31357">
-							
+
 								Aramark
-							
+
+						</option>
+					
+						<option value="638113">
+
+								Arbico Organics
+
+						</option>
+					
+						<option value="638144">
+
+								ArcaMax - Politics Newsle
+
 						</option>
 					
 						<option value="43104">
-							
+
 								Arden B
-							
+
 						</option>
 					
 						<option value="28275">
-							
+
 								AreYouGame.com
-							
+
 						</option>
 					
 						<option value="15344">
-							
+
 								ArkivMusic
-							
+
 						</option>
 					
 						<option value="18601">
-							
+
 								Armani Exchange
-							
+
 						</option>
 					
 						<option value="38446">
-							
+
 								Art Select
-							
+
 						</option>
 					
 						<option value="51343">
-							
+
 								Art.com
-							
-						</option>
-					
-						<option value="37617">
-							
-								Artful Home, The
-							
-						</option>
-					
-						<option value="14793">
-							
-								Artprint Collection
-							
+
 						</option>
 					
 						<option value="53855">
-							
+
 								Ashford.com
-							
+
 						</option>
 					
-						<option value="1131">
-							
+						<option value="638070">
+
 								Audible
-							
+
 						</option>
 					
 						<option value="15001">
-							
+
 								Auto Barn
-							
+
 						</option>
 					
 						<option value="32700">
-							
+
 								Auto Parts Warehouse
-							
+
 						</option>
 					
 						<option value="14761">
-							
+
 								AutoAnything
-							
+
 						</option>
 					
 						<option value="53856">
-							
+
 								Autos.com
-							
+
 						</option>
 					
 						<option value="27650">
-							
+
 								AutoSport Catalog
-							
+
 						</option>
 					
-						<option value="16318">
-							
-								Avenue.com
-							
+						<option value="637621">
+
+								Avenue
+
 						</option>
 					
-						<option value="55010">
-							
+						<option value="637763">
+
 								Avon
-							
+
 						</option>
 					
 						<option value="35511">
-							
+
 								B&amp;T Factory Direct
-							
+
 						</option>
 					
 						<option value="30237">
-							
+
 								Babies Online
-							
+
 						</option>
 					
-						<option value="31547">
-							
-								Babies R Us
-							
+						<option value="637765">
+
+								BabiesRUs
+
 						</option>
 					
 						<option value="14319">
-							
+
 								Baby Age
-							
+
 						</option>
 					
-						<option value="14778">
-							
-								Baby Outlet, The
-							
-						</option>
-					
-						<option value="32199">
-							
-								Baby Phat
-							
-						</option>
-					
-						<option value="54364">
-							
+						<option value="636648">
+
 								Baby Universe
-							
+
 						</option>
 					
-						<option value="44943">
-							
+						<option value="637623">
+
 								BabyCenter Store
-							
+
 						</option>
 					
 						<option value="48852">
-							
+
 								BabyGap
-							
+
 						</option>
 					
 						<option value="27581">
-							
+
 								Back In The Saddle
-							
+
 						</option>
 					
 						<option value="16275">
-							
+
 								Back to Basics Toys
-							
+
 						</option>
 					
 						<option value="32021">
-							
+
 								Backcountry.com
-							
+
 						</option>
 					
-						<option value="28573">
-							
-								Bag Borrow or Steal
-							
-						</option>
-					
-						<option value="43114">
-							
+						<option value="636749">
+
 								Baghaus
-							
-						</option>
-					
-						<option value="54921">
-							
-								BagsBuy.com
-							
-						</option>
-					
-						<option value="28030">
-							
-								Bailey Banks &amp; Biddle
-							
+
 						</option>
 					
 						<option value="635306">
-							
+
 								Bake Me A Wish
-							
+
 						</option>
 					
 						<option value="53795">
-							
+
 								Ballard Designs
-							
+
 						</option>
 					
-						<option value="39444">
-							
+						<option value="637625">
+
 								Banana Republic
-							
-						</option>
-					
-						<option value="22795">
-							
-								Barbecues.com
-							
+
 						</option>
 					
 						<option value="17323">
-							
+
 								Bare Necessities
-							
+
 						</option>
 					
 						<option value="51511">
-							
+
 								Barewalls.com
-							
+
 						</option>
 					
-						<option value="50071">
-							
+						<option value="637701">
+
 								Barnes &amp; Noble
-							
+
 						</option>
 					
 						<option value="50473">
-							
+
 								Barnes &amp; Noble Gift Card
-							
+
 						</option>
 					
 						<option value="21470">
-							
+
 								Baseball Savings
-							
+
 						</option>
 					
-						<option value="302090">
-							
+						<option value="637626">
+
 								Bass Pro Shops
-							
+
 						</option>
 					
 						<option value="26983">
-							
+
 								Bath-and-Body.com
-							
+
 						</option>
 					
 						<option value="22794">
-							
+
 								Batteries.com
-							
+
 						</option>
 					
 						<option value="25475">
-							
+
 								BBC America Shop
-							
+
 						</option>
 					
 						<option value="38961">
-							
+
 								Beaches Resorts
-							
+
 						</option>
 					
-						<option value="15386">
-							
+						<option value="637560">
+
 								Bealls Department Store
-							
+
 						</option>
 					
 						<option value="35583">
-							
+
 								Beauty Trends
-							
+
 						</option>
 					
-						<option value="14324">
-							
+						<option value="637766">
+
 								Beauty.com
-							
+
+						</option>
+					
+						<option value="636887">
+
+								bebe
+
 						</option>
 					
 						<option value="43089">
-							
+
 								BedBathStore.com
-							
+
 						</option>
 					
-						<option value="634919">
-							
-								BellaClear
-							
-						</option>
-					
-						<option value="22257">
-							
+						<option value="637702">
+
 								Bellacor
-							
+
 						</option>
 					
 						<option value="54121">
-							
+
 								Benefit Cosmetics
-							
+
 						</option>
 					
-						<option value="41037">
-							
-								Best Bowling
-							
+						<option value="36079">
+
+								Benihana Gift Card
+
 						</option>
 					
-						<option value="14756">
-							
+						<option value="637628">
+
 								Best Buy
-							
+
 						</option>
 					
 						<option value="26044">
-							
+
 								Best Western
-							
+
 						</option>
 					
 						<option value="14325">
-							
+
 								BestArt.com
-							
+
+						</option>
+					
+						<option value="636884">
+
+								Betsey Johnson
+
 						</option>
 					
 						<option value="15949">
-							
+
 								Beyond Blossoms
-							
+
 						</option>
 					
 						<option value="43102">
-							
+
 								Biblio
-							
+
 						</option>
 					
-						<option value="53722">
-							
+						<option value="636395">
+
 								Big Bucks - Girls Night O
-							
+
 						</option>
 					
-						<option value="53724">
-							
+						<option value="636396">
+
 								Big Bucks Survey - Bahama
-							
-						</option>
-					
-						<option value="53723">
-							
-								BigBucks -$20 Gift
-							
+
 						</option>
 					
 						<option value="23496">
-							
+
 								BIGDOGS.com
-							
+
 						</option>
 					
-						<option value="41051">
-							
-								Bionaire.com
-							
+						<option value="35582">
+
+								BikeBandit.com
+
 						</option>
 					
 						<option value="23155">
-							
+
 								Biotherm
-							
+
 						</option>
 					
 						<option value="28220">
-							
+
 								Bird Shed, The
-							
+
 						</option>
 					
 						<option value="25333">
-							
+
 								Birdalog
-							
+
 						</option>
 					
 						<option value="26672">
-							
+
 								Birkenstock Central
-							
+
+						</option>
+					
+						<option value="637036">
+
+								Birthday in a Box
+
 						</option>
 					
 						<option value="28277">
-							
+
 								Bissell
-							
+
 						</option>
 					
-						<option value="34300">
-							
-								Black Forest Decor
-							
+						<option value="637448">
+
+								Biz Opp: Amazing Web Stor
+
 						</option>
 					
-						<option value="14329">
-							
-								Blades Board and Skate
-							
+						<option value="637442">
+
+								Biz Opp: Yahoo Success Ce
+
 						</option>
 					
-						<option value="14330">
-							
-								Blair.com
-							
+						<option value="637631">
+
+								Blair
+
 						</option>
 					
 						<option value="20985">
-							
+
 								Blinds.com
-							
+
 						</option>
 					
 						<option value="634842">
-							
+
 								Bliss 
-							
+
 						</option>
 					
 						<option value="54661">
-							
+
 								Blockbuster Online
-							
+
 						</option>
 					
 						<option value="30070">
-							
+
 								Bloomingdale's
-							
+
 						</option>
 					
-						<option value="42352">
-							
-								Blooms Today
-							
+						<option value="638057">
+
+								Blooms Today Flowers
+
 						</option>
 					
 						<option value="50381">
-							
+
 								Blue Bee
-							
+
 						</option>
 					
-						<option value="14332">
-							
+						<option value="635793">
+
+								Blue Dolphin
+
+						</option>
+					
+						<option value="636723">
+
 								Blue Nile
-							
+
 						</option>
 					
-						<option value="1625">
-							
-								Bluefly.com
-							
+						<option value="635670">
+
+								Bluebay Resorts
+
+						</option>
+					
+						<option value="637633">
+
+								Bluefly
+
 						</option>
 					
 						<option value="24185">
-							
+
 								Boaters World
-							
-						</option>
-					
-						<option value="635181">
-							
-								Boca Java - Gourmet Coffe
-							
+
 						</option>
 					
 						<option value="30757">
-							
+
 								Boden
-							
+
 						</option>
 					
 						<option value="26662">
-							
+
 								Body Candy
-							
+
 						</option>
 					
-						<option value="19134">
-							
+						<option value="637860">
+
 								Body Shop, The
-							
+
 						</option>
 					
 						<option value="27593">
-							
+
 								Bodybuilding.com
-							
+
 						</option>
 					
 						<option value="15387">
-							
+
 								BodyTrends
-							
+
 						</option>
 					
 						<option value="23468">
-							
+
 								Bonsai Boy of New York
-							
+
 						</option>
 					
 						<option value="16713">
-							
+
 								Bookbyte
-							
+
 						</option>
 					
 						<option value="30754">
-							
+
 								BookingBuddy.com
-							
+
 						</option>
 					
-						<option value="14865">
-							
+						<option value="637634">
+
 								Booksamillion
-							
+
 						</option>
 					
 						<option value="32317">
-							
+
 								Booksfree.com
-							
-						</option>
-					
-						<option value="635471">
-							
-								Bookswim 
-							
+
 						</option>
 					
 						<option value="23493">
-							
+
 								Boot Barn
-							
+
+						</option>
+					
+						<option value="637635">
+
+								Borders
+
 						</option>
 					
 						<option value="50462">
-							
+
 								Borders Gift Card
-							
+
 						</option>
 					
-						<option value="1724">
-							
-								Boscov's Department Store
-							
-						</option>
-					
-						<option value="14336">
-							
-								Bose
-							
+						<option value="637636">
+
+								Boscov's 
+
 						</option>
 					
 						<option value="41839">
-							
+
 								Boston Proper
-							
+
 						</option>
 					
 						<option value="20994">
-							
+
 								Botanic Choice
-							
+
 						</option>
 					
 						<option value="33776">
-							
+
 								Bowflex
-							
+
 						</option>
 					
-						<option value="50920">
-							
+						<option value="634863">
+
+								Brandarama
+
+						</option>
+					
+						<option value="636703">
+
 								BrandSurveyPanel
-							
+
 						</option>
 					
 						<option value="33538">
-							
+
 								Brigade Quartermasters
-							
+
 						</option>
 					
 						<option value="22803">
-							
+
 								Brooks Brothers
-							
+
 						</option>
 					
-						<option value="44944">
-							
+						<option value="637637">
+
 								Brookstone
-							
+
 						</option>
 					
-						<option value="14872">
-							
-								Brushstrokes
-							
-						</option>
-					
-						<option value="14736">
-							
-								Brylane Home
-							
+						<option value="637703">
+
+								BrylaneHome
+
 						</option>
 					
 						<option value="31027">
-							
+
 								Buckle
-							
+
 						</option>
 					
 						<option value="31362">
-							
+
 								BuildDirect
-							
+
 						</option>
 					
 						<option value="53659">
-							
+
 								Busted Tees
-							
+
 						</option>
 					
-						<option value="14527">
-							
+						<option value="637638">
+
 								Buy.com
-							
+
+						</option>
+					
+						<option value="636947">
+
+								BuyCostumes.com
+
 						</option>
 					
 						<option value="635502">
-							
+
 								C&amp;C California
-							
+
 						</option>
 					
-						<option value="29094">
-							
+						<option value="637704">
+
 								Cabela's
-							
+
 						</option>
 					
 						<option value="50074">
-							
+
 								Calendars.com
-							
+
 						</option>
 					
 						<option value="38438">
-							
+
 								Calumet Photographic Equi
-							
+
 						</option>
 					
-						<option value="31364">
-							
+						<option value="637924">
+
 								Calvin Klein Underwear
-							
-						</option>
-					
-						<option value="24900">
-							
-								Cambridge Soundworks
-							
+
 						</option>
 					
 						<option value="14338">
-							
+
 								Camera World
-							
+
 						</option>
 					
-						<option value="635507">
-							
+						<option value="637767">
+
 								Camping World
-							
+
 						</option>
 					
 						<option value="54025">
-							
+
 								Candlewood Suites
-							
+
 						</option>
 					
 						<option value="50213">
-							
+
 								Candy Crate
-							
+
+						</option>
+					
+						<option value="636674">
+
+								Carbonite
+
 						</option>
 					
 						<option value="53948">
-							
+
 								CardsDirect
-							
+
 						</option>
 					
-						<option value="49591">
-							
-								Care.com
-							
+						<option value="53933">
+
+								CarLoan
+
 						</option>
 					
 						<option value="47302">
-							
+
 								Carnival Cruise Lines
-							
+
 						</option>
 					
 						<option value="46352">
-							
+
 								Carol Wright Gifts
-							
+
+						</option>
+					
+						<option value="636326">
+
+								Carolee
+
 						</option>
 					
 						<option value="30596">
-							
+
 								Carports USA
-							
-						</option>
-					
-						<option value="41163">
-							
-								Cartoon Network Shop
-							
+
 						</option>
 					
 						<option value="21814">
-							
+
 								Case Logic
-							
+
 						</option>
 					
 						<option value="20874">
-							
+
 								Casual Male XL
-							
+
 						</option>
 					
-						<option value="27627">
-							
+						<option value="637768">
+
 								Catherines
-							
+
 						</option>
 					
-						<option value="26748">
-							
-								Caviaretc
-							
-						</option>
-					
-						<option value="34788">
-							
+						<option value="636776">
+
 								CBS Sports Store
-							
+
 						</option>
 					
-						<option value="48911">
-							
-								CCS.com
-							
+						<option value="636993">
+
+								Celebrate Express
+
 						</option>
 					
 						<option value="15237">
-							
+
 								Cell Phone Shop
-							
+
 						</option>
 					
-						<option value="28723">
-							
-								Cellular-Blowout.com
-							
-						</option>
-					
-						<option value="14344">
-							
-								Chadwick's of Boston
-							
+						<option value="637705">
+
+								Chadwick's 
+
 						</option>
 					
 						<option value="46690">
-							
+
 								Champion Catalog
-							
+
 						</option>
 					
 						<option value="45835">
-							
+
 								Champs Sports
-							
+
 						</option>
 					
 						<option value="32995">
-							
+
 								Charity Gift Certificates
-							
+
 						</option>
 					
-						<option value="53053">
-							
+						<option value="637639">
+
 								Charlotte Russe
-							
+
+						</option>
+					
+						<option value="637132">
+
+								Chase - Identity Protecti
+
 						</option>
 					
 						<option value="53789">
-							
+
 								Chase Flexible Rewards Pl
-							
+
 						</option>
 					
 						<option value="53794">
-							
+
 								Chase PerfectCard
-							
+
 						</option>
 					
 						<option value="53791">
-							
+
 								Chase Platinum MasterCard
-							
+
 						</option>
 					
-						<option value="17331">
-							
+						<option value="637049">
+
 								CheapTickets
-							
+
 						</option>
 					
 						<option value="54442">
-							
+
 								Checks in the Mail
-							
+
 						</option>
 					
-						<option value="26049">
-							
+						<option value="637880">
+
 								Checks Unlimited
-							
+
 						</option>
 					
-						<option value="20356">
-							
-								CHEF'S Catalog
-							
-						</option>
-					
-						<option value="22806">
-							
-								Chefs Diet
-							
+						<option value="637706">
+
+								Chefs
+
 						</option>
 					
 						<option value="52069">
-							
+
 								Chemistry.com
-							
+
 						</option>
 					
-						<option value="25109">
-							
+						<option value="636417">
+
 								Cheryl &amp; Co.
-							
+
+						</option>
+					
+						<option value="637884">
+
+								ChicMystique.com
+
+						</option>
+					
+						<option value="636007">
+
+								Chico's
+
 						</option>
 					
 						<option value="14716">
-							
+
 								Childcraft
-							
+
 						</option>
 					
-						<option value="54258">
-							
-								Children's Book of the Mo
-							
-						</option>
-					
-						<option value="635368">
-							
+						<option value="637748">
+
 								Children's Place, The
-							
+
 						</option>
 					
 						<option value="24034">
-							
+
 								Chinese Herbs Direct
-							
+
 						</option>
 					
 						<option value="41041">
-							
+
 								Chinese Laundry
-							
+
 						</option>
 					
-						<option value="20893">
-							
-								Chocolate Source
-							
-						</option>
-					
-						<option value="635167">
-							
-								CinemaNow
-							
+						<option value="635714">
+
+								Christopher &amp; Banks
+
 						</option>
 					
 						<option value="42142">
-							
+
 								Circuit City
-							
+
+						</option>
+					
+						<option value="635717">
+
+								CJ Banks
+
 						</option>
 					
 						<option value="52221">
-							
+
 								Clarins
-							
+
 						</option>
 					
 						<option value="635612">
-							
+
 								Clarion Hotels
-							
-						</option>
-					
-						<option value="49006">
-							
-								Classic Closeouts
-							
+
 						</option>
 					
 						<option value="26657">
-							
+
 								Clean Air 4 Life
-							
+
 						</option>
 					
 						<option value="23589">
-							
+
 								CliffsNotes
-							
+
 						</option>
 					
-						<option value="53314">
-							
+						<option value="637769">
+
 								Clinique
-							
+
 						</option>
 					
 						<option value="54781">
-							
+
 								Clip Hanger - LikeSeenOnT
-							
+
 						</option>
 					
 						<option value="48541">
-							
+
 								Coca-Cola Store
-							
+
 						</option>
 					
 						<option value="49012">
-							
+
 								CoffeeForLess.com
-							
+
 						</option>
 					
-						<option value="14352">
-							
+						<option value="637770">
+
 								Coldwater Creek
-							
+
 						</option>
 					
-						<option value="14354">
-							
+						<option value="637640">
+
 								Collections Etc.
-							
+
 						</option>
 					
 						<option value="24901">
-							
+
 								Collectors' Choice Music
-							
+
 						</option>
 					
 						<option value="23765">
-							
+
 								Colonial Candle
-							
+
 						</option>
 					
-						<option value="14356">
-							
+						<option value="637773">
+
 								Colorful Images
-							
+
 						</option>
 					
 						<option value="635005">
-							
+
 								Columbia House DVD
-							
+
 						</option>
 					
 						<option value="32698">
-							
+
 								Comfort Channel
-							
+
 						</option>
 					
 						<option value="635609">
-							
+
 								Comfort Inn
-							
+
 						</option>
 					
 						<option value="635610">
-							
+
 								Comfort Suites
-							
+
 						</option>
 					
 						<option value="54252">
-							
+
 								CompactAppliance.com
-							
+
 						</option>
 					
 						<option value="20347">
-							
+
 								Company Store, The
-							
+
 						</option>
 					
 						<option value="24187">
-							
+
 								CompleteTax
-							
+
 						</option>
 					
-						<option value="54541">
-							
+						<option value="637774">
+
 								CompUSA
-							
+
 						</option>
 					
 						<option value="15824">
-							
+
 								Constructive Playthings
-							
+
 						</option>
 					
-						<option value="47862">
-							
+						<option value="637586">
+
 								Consumer Aid Pages
-							
+
 						</option>
 					
 						<option value="52923">
-							
+
 								Container Store, The
-							
+
 						</option>
 					
 						<option value="29731">
-							
+
 								ContentWatch
-							
+
+						</option>
+					
+						<option value="637520">
+
+								Controlling ADHD
+
 						</option>
 					
 						<option value="27751">
-							
+
 								Converse
-							
+
 						</option>
 					
-						<option value="48190">
-							
+						<option value="637432">
+
+								CookiesKids.com
+
+						</option>
+					
+						<option value="637641">
+
 								Cooking.com
-							
+
 						</option>
 					
 						<option value="45831">
-							
+
 								Corel
-							
+
 						</option>
 					
 						<option value="37534">
-							
+
 								Corner Stork Baby Gifts
-							
+
 						</option>
 					
 						<option value="22800">
-							
+
 								Cosmetic Mall
-							
+
 						</option>
 					
 						<option value="54067">
-							
+
 								Cosmetic Surgeon in a Jar
-							
+
 						</option>
 					
-						<option value="54341">
-							
-								Cosmetique
-							
+						<option value="48351">
+
+								Costume City
+
+						</option>
+					
+						<option value="48015">
+
+								Costume Craze
+
+						</option>
+					
+						<option value="636543">
+
+								Costume Discounters
+
+						</option>
+					
+						<option value="47784">
+
+								Costume SuperCenter
+
 						</option>
 					
 						<option value="37053">
-							
+
 								Country Door
-							
+
 						</option>
 					
-						<option value="53364">
-							
+						<option value="636976">
+
 								Coupons.com
-							
-						</option>
-					
-						<option value="27588">
-							
-								Couture Candy
-							
+
 						</option>
 					
 						<option value="46674">
-							
+
 								Crabtree &amp; Evelyn
-							
-						</option>
-					
-						<option value="41042">
-							
-								Craftland
-							
+
 						</option>
 					
 						<option value="28276">
-							
+
 								Crayola.com
-							
+
+						</option>
+					
+						<option value="637960">
+
+								Credit Card Lab, The
+
 						</option>
 					
 						<option value="635574">
-							
+
 								Credit Check Total
-							
+
+						</option>
+					
+						<option value="636973">
+
+								Credit Pros International
+
 						</option>
 					
 						<option value="54416">
-							
+
 								Credit Solutions
-							
+
 						</option>
 					
 						<option value="26377">
-							
+
 								Cribs.com
-							
-						</option>
-					
-						<option value="635361">
-							
-								Cricket Wireless
-							
-						</option>
-					
-						<option value="39360">
-							
-								Cristina Fiore
-							
-						</option>
-					
-						<option value="24903">
-							
-								Critics' Choice Video
-							
-						</option>
-					
-						<option value="25720">
-							
-								Crock-Pot
-							
+
 						</option>
 					
 						<option value="14360">
-							
+
 								Cross.com
-							
+
 						</option>
 					
 						<option value="54009">
-							
+
 								Crowne Plaza Hotels &amp; Res
-							
+
 						</option>
 					
-						<option value="37621">
-							
+						<option value="637707">
+
 								Crutchfield
-							
+
 						</option>
 					
 						<option value="27629">
-							
+
 								Cuban Crafters Cigars
-							
+
 						</option>
 					
-						<option value="32884">
-							
-								Cuddledown
-							
-						</option>
-					
-						<option value="53653">
-							
+						<option value="637775">
+
 								Current Catalog
-							
+
 						</option>
 					
-						<option value="635532">
-							
+						<option value="636604">
+
 								Current Labels
-							
+
 						</option>
 					
 						<option value="49601">
-							
+
 								CyberGuys
-							
+
 						</option>
 					
-						<option value="19388">
-							
+						<option value="637777">
+
 								Dale &amp; Thomas Popcorn
-							
+
 						</option>
 					
 						<option value="28605">
-							
+
 								Dan's Chocolates
-							
+
 						</option>
 					
 						<option value="46262">
-							
+
 								Dancing Deer Baking Compa
-							
+
 						</option>
 					
 						<option value="26750">
-							
+
 								Danskin
-							
+
 						</option>
 					
-						<option value="53025">
-							
+						<option value="637781">
+
 								David's Cookies
-							
+
 						</option>
 					
-						<option value="22805">
-							
-								Dean &amp; DeLuca
-							
+						<option value="637276">
+
+								Debbie Meyer GreenBags
+
 						</option>
 					
 						<option value="761">
-							
+
 								Decorate Today
-							
+
 						</option>
 					
-						<option value="15583">
-							
-								dELiAs.cOm
-							
+						<option value="638116">
+
+								deLaFlowers
+
 						</option>
 					
-						<option value="50104">
-							
-								Delightful Deliveries
-							
+						<option value="637782">
+
+								dELiA's
+
 						</option>
 					
-						<option value="47861">
-							
-								Dell Home Systems
-							
+						<option value="637642">
+
+								Dell Home &amp; Home Office
+
 						</option>
 					
 						<option value="46541">
-							
+
 								Dell Small Business
-							
+
 						</option>
 					
 						<option value="17603">
-							
+
 								Delta Air Lines
-							
+
 						</option>
 					
 						<option value="50291">
-							
+
 								Department 56
-							
+
 						</option>
 					
 						<option value="42775">
-							
+
 								DermaDoctor
-							
+
 						</option>
 					
 						<option value="24552">
-							
+
 								Design Toscano
-							
+
 						</option>
 					
 						<option value="20498">
-							
+
 								Design Within Reach
-							
+
 						</option>
 					
 						<option value="53812">
-							
+
 								Designer Linens Outlet
-							
+
 						</option>
 					
 						<option value="635553">
-							
+
 								Diamond.com
-							
+
 						</option>
 					
 						<option value="52537">
-							
+
 								Diamonds International
-							
+
 						</option>
 					
-						<option value="46208">
-							
+						<option value="637708">
+
 								Diapers.com
-							
+
 						</option>
 					
 						<option value="40696">
-							
+
 								Dick Blick Art Supplies
-							
-						</option>
-					
-						<option value="14363">
-							
-								Dick's Sporting Goods
-							
+
 						</option>
 					
 						<option value="34671">
-							
+
 								Dickies
-							
+
 						</option>
 					
-						<option value="635388">
-							
+						<option value="637783">
+
+								DicksSportingGoods
+
+						</option>
+					
+						<option value="637784">
+
 								Dillard's
-							
+
 						</option>
 					
-						<option value="50312">
-							
-								Dinette.com
-							
-						</option>
-					
-						<option value="24904">
-							
-								Direct2Drive
-							
-						</option>
-					
-						<option value="2856">
-							
+						<option value="638064">
+
 								DIRECTV
-							
+
 						</option>
 					
-						<option value="53908">
-							
-								Discover - Motiva Card
-							
+						<option value="636972">
+
+								DiscountWatchStore.com
+
 						</option>
 					
-						<option value="53909">
-							
-								Discover Card - More Card
-							
-						</option>
-					
-						<option value="53910">
-							
-								Discover Card - Open Road
-							
-						</option>
-					
-						<option value="53911">
-							
+						<option value="637958">
+
 								Discover Clear Card
-							
+
+						</option>
+					
+						<option value="638128">
+
+								Discover Gas Card
+
 						</option>
 					
 						<option value="45709">
-							
+
 								Discover Gift Card
-							
+
+						</option>
+					
+						<option value="637959">
+
+								Discover Platinum Card
+
 						</option>
 					
 						<option value="2900">
-							
+
 								Discovery Channel Store
-							
+
 						</option>
 					
-						<option value="54972">
-							
-								Disney Shopping
-							
+						<option value="637033">
+
+								Disney Movie Club
+
 						</option>
 					
-						<option value="42346">
-							
-								DocOrtho
-							
+						<option value="637785">
+
+								DisneyShopping
+
 						</option>
 					
 						<option value="23494">
-							
+
 								Dog.com
-							
+
 						</option>
 					
 						<option value="32022">
-							
+
 								DogFunk.com
-							
+
 						</option>
 					
 						<option value="17808">
-							
+
 								Dollar Rent A Car
-							
+
 						</option>
 					
-						<option value="44951">
-							
-								Domestications.com
-							
+						<option value="636330">
+
+								dollhouse
+
+						</option>
+					
+						<option value="637643">
+
+								Domestications
+
 						</option>
 					
 						<option value="42746">
-							
+
 								Dr. Jay's
-							
+
 						</option>
 					
 						<option value="46341">
-							
+
 								Dr. Leonard's 
-							
+
 						</option>
 					
 						<option value="49812">
-							
+
 								Dreamtime Baby
-							
+
 						</option>
 					
-						<option value="32144">
-							
+						<option value="637786">
+
 								Drs. Foster and Smith
-							
+
 						</option>
 					
-						<option value="44380">
-							
-								Drugstore.com
-							
+						<option value="637788">
+
+								drugstore.com
+
 						</option>
 					
 						<option value="23587">
-							
+
 								Dummies.com
-							
+
 						</option>
 					
 						<option value="18997">
-							
+
 								Duncraft
-							
+
 						</option>
 					
 						<option value="14378">
-							
+
 								Dutch Gardens
-							
+
 						</option>
 					
-						<option value="22945">
-							
+						<option value="637644">
+
 								e.l.f. Cosmetics
-							
+
 						</option>
 					
-						<option value="15107">
-							
+						<option value="637789">
+
 								Eastbay
-							
+
 						</option>
 					
 						<option value="37054">
-							
+
 								Eastern Mountain Sports
-							
+
 						</option>
 					
-						<option value="44942">
-							
+						<option value="636092">
+
+								Easy Comforts
+
+						</option>
+					
+						<option value="637790">
+
 								eBags.com
-							
+
 						</option>
 					
-						<option value="635501">
-							
+						<option value="637893">
+
 								eBay
-							
+
 						</option>
 					
-						<option value="37533">
-							
+						<option value="637173">
+
 								eBeanstalk Toys
-							
+
 						</option>
 					
-						<option value="40085">
-							
-								EBgames
-							
+						<option value="637791">
+
+								EBGames
+
 						</option>
 					
 						<option value="42391">
-							
+
 								eCampus
-							
+
 						</option>
 					
 						<option value="635618">
-							
+
 								Econo Lodge
-							
+
 						</option>
 					
 						<option value="47382">
-							
+
 								eCost
-							
+
 						</option>
 					
 						<option value="60399">
-							
+
 								Edamame Maternity Spa
-							
+
 						</option>
 					
-						<option value="14379">
-							
+						<option value="637709">
+
 								Eddie Bauer
-							
+
 						</option>
 					
 						<option value="49491">
-							
+
 								eDressMe.com
-							
+
 						</option>
 					
 						<option value="3241">
-							
+
 								eHarlequin
-							
+
 						</option>
 					
 						<option value="21455">
-							
+
 								ejools.com
-							
+
 						</option>
 					
 						<option value="35575">
-							
+
 								Elite Car Seats
-							
+
 						</option>
 					
 						<option value="29459">
-							
+
 								eLuxury
-							
-						</option>
-					
-						<option value="635309">
-							
-								eMagazines
-							
-						</option>
-					
-						<option value="45707">
-							
-								Emitations
-							
+
 						</option>
 					
 						<option value="32191">
-							
+
 								Empire Covers
-							
+
 						</option>
 					
-						<option value="51052">
-							
+						<option value="638047">
+
+								eMusic Audiobooks
+
+						</option>
+					
+						<option value="637961">
+
 								eMusic.com
-							
+
 						</option>
 					
-						<option value="43763">
-							
-								Endless.com
-							
+						<option value="637977">
+
+								End Heartburn Pain
+
 						</option>
 					
-						<option value="634914">
-							
-								Enfamil
-							
+						<option value="637645">
+
+								endless.com
+
 						</option>
 					
-						<option value="17333">
-							
+						<option value="637050">
+
 								Enterprise Rent-a-Car
-							
+
 						</option>
 					
-						<option value="53491">
-							
+						<option value="637592">
+
 								Entertainment Book
-							
+
 						</option>
 					
 						<option value="24549">
-							
+
 								Entertainment Earth
-							
+
 						</option>
 					
 						<option value="21015">
-							
+
 								Epson Store
-							
+
 						</option>
 					
 						<option value="3388">
-							
+
 								Equifax Consumer Services
-							
+
 						</option>
 					
-						<option value="18455">
-							
+						<option value="637792">
+
 								ESPN Shop
-							
+
 						</option>
 					
 						<option value="18665">
-							
+
 								ESPRIT
-							
+
 						</option>
 					
 						<option value="42400">
-							
+
 								Essential Apparel
-							
+
 						</option>
 					
 						<option value="34851">
-							
+
 								eSticker
-							
+
 						</option>
 					
-						<option value="6983">
-							
-								eToys
-							
+						<option value="637793">
+
+								eToys.com
+
 						</option>
 					
 						<option value="54911">
-							
+
 								Etronics
-							
-						</option>
-					
-						<option value="54873">
-							
-								Eversave - Car Sweeps
-							
+
 						</option>
 					
 						<option value="54875">
-							
+
 								Eversave - Cash Sweepstak
-							
+
+						</option>
+					
+						<option value="636722">
+
+								Eversave - Win Gas
+
 						</option>
 					
 						<option value="54876">
-							
+
 								Eversave Grocery Sweeps
-							
+
 						</option>
 					
 						<option value="39104">
-							
+
 								Everyday Biographies
-							
+
 						</option>
 					
 						<option value="42429">
-							
+
 								eVitamins
-							
+
 						</option>
 					
 						<option value="27753">
-							
+
 								Ex Officio
-							
+
 						</option>
 					
 						<option value="52830">
-							
+
 								Expedia.com
-							
+
+						</option>
+					
+						<option value="638102">
+
+								Exposed Acne Treatment
+
 						</option>
 					
 						<option value="45376">
-							
+
 								Exposures
-							
+
+						</option>
+					
+						<option value="638109">
+
+								Express
+
+						</option>
+					
+						<option value="638129">
+
+								EZ Grant Source
+
 						</option>
 					
 						<option value="54005">
-							
+
 								Fabric.com
-							
+
 						</option>
 					
 						<option value="18624">
-							
+
 								Fairmont Hotels &amp; Resorts
-							
+
 						</option>
 					
 						<option value="42452">
-							
+
 								Family Christian Stores
-							
+
 						</option>
 					
-						<option value="50232">
-							
-								Family Post, The
-							
+						<option value="53841">
+
+								Fandango
+
 						</option>
 					
-						<option value="32320">
-							
-								Famous Footwear
-							
-						</option>
-					
-						<option value="14682">
-							
+						<option value="637923">
+
 								Fannie May Candies
-							
+
 						</option>
 					
 						<option value="22220">
-							
+
 								FansEdge
-							
+
 						</option>
 					
-						<option value="36906">
-							
+						<option value="637711">
+
 								FAO Schwarz
-							
+
 						</option>
 					
-						<option value="14383">
-							
+						<option value="637794">
+
 								Fashion Bug
-							
+
 						</option>
 					
 						<option value="16323">
-							
+
 								Fastfloors.com
-							
+
+						</option>
+					
+						<option value="637125">
+
+								FastWeb 
+
 						</option>
 					
 						<option value="35635">
-							
+
 								Fathead
-							
+
 						</option>
 					
 						<option value="634853">
-							
+
 								FavorAffair.com
-							
+
 						</option>
 					
 						<option value="33783">
-							
+
 								Ferret.com
-							
+
 						</option>
 					
 						<option value="29466">
-							
+
 								Figleaves.com
-							
+
 						</option>
 					
 						<option value="42632">
-							
+
 								FineStationery.com
-							
+
 						</option>
 					
-						<option value="14384">
-							
-								FingerHut
-							
+						<option value="637795">
+
+								Fingerhut
+
 						</option>
 					
 						<option value="18605">
-							
+
 								Finish Line
-							
-						</option>
-					
-						<option value="635145">
-							
-								First Impression Lips
-							
+
 						</option>
 					
 						<option value="34867">
-							
+
 								firstSTREET
-							
+
 						</option>
 					
-						<option value="44437">
-							
-								Florapathics
-							
+						<option value="638139">
+
+								Flomax
+
 						</option>
 					
-						<option value="3688">
-							
+						<option value="637713">
+
 								Florist.com
-							
+
 						</option>
 					
 						<option value="42354">
-							
+
 								Flowers Across America
-							
+
 						</option>
 					
-						<option value="42774">
-							
-								Flowerstore.com
-							
-						</option>
-					
-						<option value="26751">
-							
-								Flying Noodle
-							
-						</option>
-					
-						<option value="3710">
-							
+						<option value="637796">
+
 								Fogdog Sports
-							
+
 						</option>
 					
-						<option value="29518">
-							
+						<option value="637922">
+
 								Folica
-							
+
 						</option>
 					
 						<option value="52536">
-							
+
 								FoodSaver
-							
+
 						</option>
 					
-						<option value="14387">
-							
-								Footlocker.com
-							
+						<option value="637797">
+
+								Foot Locker
+
 						</option>
 					
-						<option value="40281">
-							
+						<option value="636527">
+
+								Football Fanatics
+
+						</option>
+					
+						<option value="636651">
+
 								Footsmart
-							
+
 						</option>
 					
 						<option value="23149">
-							
+
 								Forbes Magazine
-							
+
 						</option>
 					
 						<option value="51811">
-							
+
 								Fortunoff
-							
+
 						</option>
 					
 						<option value="37113">
-							
+
 								Forzieri
-							
+
 						</option>
 					
-						<option value="14799">
-							
+						<option value="637646">
+
 								Fossil
-							
+
 						</option>
 					
 						<option value="25706">
-							
+
 								Four Points by Sheraton
-							
+
 						</option>
 					
-						<option value="37523">
-							
-								Fox TV Store
-							
-						</option>
-					
-						<option value="14388">
-							
-								FragranceNet
-							
+						<option value="637798">
+
+								FragranceNet.com
+
 						</option>
 					
 						<option value="16550">
-							
+
 								Franklin Covey
-							
+
 						</option>
 					
-						<option value="14389">
-							
-								Franklin Mint
-							
-						</option>
-					
-						<option value="52535">
-							
+						<option value="637799">
+
 								Frederick's Of Hollywood
-							
+
+						</option>
+					
+						<option value="637423">
+
+								Free Grant Network
+
 						</option>
 					
 						<option value="48062">
-							
+
 								Free People
-							
+
 						</option>
 					
-						<option value="53808">
-							
+						<option value="638067">
+
+								Freebies: MyFavoriteRewar
+
+						</option>
+					
+						<option value="637564">
+
+								Freebies: NationalSurveyP
+
+						</option>
+					
+						<option value="637460">
+
+								Freebies: SuperGiftGiveAw
+
+						</option>
+					
+						<option value="637169">
+
 								Freecreditreport.com - Tr
-							
-						</option>
-					
-						<option value="54115">
-							
-								FreeTaxUsa
-							
+
 						</option>
 					
 						<option value="21688">
-							
+
 								French Toast
-							
+
 						</option>
 					
-						<option value="30140">
-							
+						<option value="636273">
+
 								Freshpair
-							
+
 						</option>
 					
-						<option value="634963">
-							
+						<option value="4135">
+
 								From You Flowers
-							
+
 						</option>
 					
 						<option value="23588">
-							
+
 								Frommers.com
-							
+
 						</option>
 					
-						<option value="51784">
-							
-								Frontier Airlines
-							
-						</option>
-					
-						<option value="17160">
-							
+						<option value="637714">
+
 								FTD.com
-							
-						</option>
-					
-						<option value="35809">
-							
-								Fujitsu
-							
+
 						</option>
 					
 						<option value="38795">
-							
+
 								Fulcrum Gallery
-							
+
 						</option>
 					
 						<option value="42791">
-							
+
 								Fuller Brush Company
-							
+
 						</option>
 					
 						<option value="4092">
-							
+
 								Fun to Collect
-							
+
+						</option>
+					
+						<option value="637985">
+
+								FunMobile
+
 						</option>
 					
 						<option value="45518">
-							
+
 								Furniture.com
-							
+
 						</option>
 					
 						<option value="48287">
-							
+
 								fye.com
-							
+
 						</option>
 					
 						<option value="48291">
-							
+
 								G By Guess
-							
+
 						</option>
 					
-						<option value="41043">
-							
-								Gags and Goods
-							
-						</option>
-					
-						<option value="23462">
-							
+						<option value="636652">
+
 								Gaiam
-							
+
 						</option>
 					
 						<option value="48861">
-							
+
 								Gallery Collection, The
-							
+
 						</option>
 					
-						<option value="14392">
-							
-								Game Stop
-							
+						<option value="637800">
+
+								GameStop
+
 						</option>
 					
-						<option value="4219">
-							
-								gap.com
-							
+						<option value="637647">
+
+								Gap
+
 						</option>
 					
 						<option value="48853">
-							
+
 								GapBody
-							
+
 						</option>
 					
 						<option value="48851">
-							
+
 								GapKids
-							
+
 						</option>
 					
-						<option value="14393">
-							
-								Gardener's Supply Co.
-							
+						<option value="637802">
+
+								Gardener's Supply Company
+
 						</option>
 					
 						<option value="26981">
-							
+
 								Gardens Alive!
-							
+
 						</option>
 					
 						<option value="53657">
-							
+
 								Gateway
-							
+
 						</option>
 					
 						<option value="33280">
-							
+
 								Geeks.com
-							
+
 						</option>
 					
 						<option value="54578">
-							
+
 								Get Organized!
-							
+
 						</option>
 					
 						<option value="635146">
-							
+
 								Ghirardelli Chocolates
-							
+
 						</option>
 					
-						<option value="14397">
-							
+						<option value="637803">
+
 								GiftBaskets.com
-							
+
 						</option>
 					
-						<option value="21137">
-							
+						<option value="637648">
+
 								GiftCertificates.com
-							
+
 						</option>
 					
 						<option value="26051">
-							
+
 								GiftTree
-							
+
 						</option>
 					
-						<option value="42657">
-							
-								GigaGolf
-							
-						</option>
-					
-						<option value="49293">
-							
-								giggle
-							
-						</option>
-					
-						<option value="37055">
-							
+						<option value="637882">
+
 								Ginny's
-							
+
 						</option>
 					
 						<option value="54260">
-							
+
 								Glenny's
-							
+
 						</option>
 					
 						<option value="38377">
-							
+
 								Global Survey Group
-							
+
 						</option>
 					
 						<option value="50143">
-							
+
 								Global Travel Internation
-							
+
 						</option>
 					
-						<option value="37342">
-							
+						<option value="637715">
+
 								GNC
-							
+
 						</option>
 					
-						<option value="14399">
-							
-								GolfBalls.com
-							
+						<option value="635713">
+
+								Go Natural
+
+						</option>
+					
+						<option value="637523">
+
+								GoFreeCredit.com
+
+						</option>
+					
+						<option value="637804">
+
+								Golfballs.com
+
 						</option>
 					
 						<option value="15441">
-							
+
 								Golfsmith
-							
-						</option>
-					
-						<option value="54731">
-							
-								Good Cook, The
-							
-						</option>
-					
-						<option value="54971">
-							
-								Goody's Online
-							
+
 						</option>
 					
 						<option value="635251">
-							
+
 								Gordon's Jewelers
-							
+
 						</option>
 					
-						<option value="37528">
-							
-								Gorton's Fresh Seafood
-							
-						</option>
-					
-						<option value="50292">
-							
+						<option value="636373">
+
 								Gourmet Monthly Clubs
-							
+
 						</option>
 					
 						<option value="50215">
-							
+
 								Gourmet Station
-							
+
 						</option>
 					
-						<option value="635250">
-							
+						<option value="636628">
+
 								GourmetGiftBaskets.com
-							
-						</option>
-					
-						<option value="42784">
-							
-								Great American Products
-							
+
 						</option>
 					
 						<option value="635029">
-							
+
 								Great Indoors, The
-							
-						</option>
-					
-						<option value="14402">
-							
-								GreatBuyUSA
-							
-						</option>
-					
-						<option value="16657">
-							
-								GreatSkin.com
-							
-						</option>
-					
-						<option value="20244">
-							
-								Greekgear
-							
+
 						</option>
 					
 						<option value="27758">
-							
+
 								Green Nest
-							
+
 						</option>
 					
-						<option value="54877">
-							
-								Green Tea 1000
-							
+						<option value="35587">
+
+								Greenloop
+
 						</option>
 					
 						<option value="32701">
-							
+
 								Guitar Center
-							
+
 						</option>
 					
 						<option value="27754">
-							
+
 								Gurney's Seed &amp; Nursery
-							
+
 						</option>
 					
 						<option value="41452">
-							
+
 								H2O Plus
-							
+
 						</option>
 					
 						<option value="28271">
-							
+
 								Haband
-							
+
 						</option>
 					
 						<option value="26660">
-							
+
 								Hairproducts.com
-							
+
 						</option>
 					
-						<option value="634841">
-							
+						<option value="47783">
+
+								Half Price Costumes
+
+						</option>
+					
+						<option value="637698">
+
 								Half.com
-							
+
 						</option>
 					
-						<option value="14703">
-							
-								Hallmark.com
-							
+						<option value="637805">
+
+								Hallmark
+
 						</option>
 					
-						<option value="14405">
-							
+						<option value="637962">
+
+								Hallmark Magazine
+
+						</option>
+					
+						<option value="636876">
+
+								HalloweenMart
+
+						</option>
+					
+						<option value="635667">
+
 								Hammacher Schlemmer
-							
+
 						</option>
 					
 						<option value="50902">
-							
+
 								Hanes.com
-							
+
 						</option>
 					
 						<option value="15175">
-							
+
 								HansonEllis Wedding Favor
-							
+
 						</option>
 					
-						<option value="50251">
-							
-								HappyMothers.com
-							
-						</option>
-					
-						<option value="14734">
-							
+						<option value="637716">
+
 								Harry and David
-							
+
+						</option>
+					
+						<option value="637361">
+
+								Hatley
+
+						</option>
+					
+						<option value="635680">
+
+								Havaianas
+
 						</option>
 					
 						<option value="30759">
-							
+
 								Hawaiian Airlines
-							
+
 						</option>
 					
 						<option value="45516">
-							
+
 								Hay House
-							
-						</option>
-					
-						<option value="33838">
-							
-								HBO Store
-							
+
 						</option>
 					
 						<option value="14406">
-							
+
 								HearthSong
-							
+
 						</option>
 					
 						<option value="42433">
-							
+
 								Heavenly Treasures
-							
-						</option>
-					
-						<option value="42455">
-							
-								Hechinger Hardware
-							
+
 						</option>
 					
 						<option value="14407">
-							
+
 								Hello Direct
-							
-						</option>
-					
-						<option value="39089">
-							
-								Herrington
-							
+
 						</option>
 					
 						<option value="49422">
-							
+
 								HerRoom
-							
+
 						</option>
 					
-						<option value="14408">
-							
+						<option value="637806">
+
 								Hickory Farms
-							
+
 						</option>
 					
 						<option value="15845">
-							
+
 								Highlights Catalog
-							
+
 						</option>
 					
 						<option value="15500">
-							
+
 								Highlights Magazine
-							
+
 						</option>
 					
 						<option value="634936">
-							
+
 								Hilton Grand Vacations
-							
+
 						</option>
 					
 						<option value="54895">
-							
+
 								Hip Chick, The
-							
+
 						</option>
 					
 						<option value="55008">
-							
+
 								History Channel, The
-							
+
 						</option>
 					
 						<option value="14410">
-							
+
 								Hobbytron.com
-							
+
 						</option>
 					
 						<option value="54008">
-							
+
 								Holiday Inn
-							
-						</option>
-					
-						<option value="22221">
-							
-								Hollywood Mega Store
-							
+
 						</option>
 					
 						<option value="24035">
-							
+
 								Holmes Stamp &amp; Sign
-							
-						</option>
-					
-						<option value="31668">
-							
-								Home Bistro
-							
+
 						</option>
 					
 						<option value="25476">
-							
+
 								Home Decorators Collectio
-							
+
 						</option>
 					
-						<option value="51081">
-							
+						<option value="637649">
+
 								Home Depot
-							
+
 						</option>
 					
 						<option value="45375">
-							
+
 								Home Marketplace, The
-							
-						</option>
-					
-						<option value="53331">
-							
-								Home Shopping Network
-							
+
 						</option>
 					
 						<option value="29837">
-							
+
 								Homeroom Teacher
-							
+
 						</option>
 					
-						<option value="28210">
-							
-								HomeVisions
-							
+						<option value="31073">
+
+								Hot Jobs
+
 						</option>
 					
-						<option value="634937">
-							
-								Hoodia XPF
-							
-						</option>
-					
-						<option value="15341">
-							
+						<option value="637653">
+
 								Hot Topic
-							
+
 						</option>
 					
-						<option value="51751">
-							
-								Hotel Chocolat
-							
-						</option>
-					
-						<option value="45427">
-							
-								Hotels.com
-							
+						<option value="637650">
+
+								hotels.com
+
 						</option>
 					
 						<option value="17348">
-							
+
 								Hotwire
-							
+
 						</option>
 					
 						<option value="634848">
-							
+
 								House of Brides
-							
+
 						</option>
 					
 						<option value="44945">
-							
+
 								HP Home &amp; Office Store
-							
+
 						</option>
 					
 						<option value="635070">
-							
+
 								HP Small Business
-							
+
+						</option>
+					
+						<option value="636528">
+
+								HPA Short Term Health Ins
+
+						</option>
+					
+						<option value="637654">
+
+								HSN
+
 						</option>
 					
 						<option value="635137">
-							
+
 								Hudson Reed
-							
+
 						</option>
 					
-						<option value="634943">
-							
-								Hydroderm - Age-Defying W
-							
-						</option>
-					
-						<option value="50901">
-							
-								I'm In 
-							
-						</option>
-					
-						<option value="634902">
-							
+						<option value="637809">
+
 								ICE.com
-							
+
+						</option>
+					
+						<option value="638043">
+
+								ID Watchdog
+
 						</option>
 					
 						<option value="43774">
-							
+
 								Ideal Bite
-							
+
 						</option>
 					
-						<option value="54771">
-							
+						<option value="637002">
+
 								Identity Truth
-							
+
 						</option>
 					
-						<option value="42629">
-							
-								iFloor.com
-							
-						</option>
-					
-						<option value="14413">
-							
+						<option value="637718">
+
 								Illuminations
-							
+
 						</option>
 					
 						<option value="53461">
-							
+
 								Improvement Direct
-							
+
 						</option>
 					
 						<option value="49743">
-							
+
 								InkSmile .com
-							
+
 						</option>
 					
-						<option value="27644">
-							
-								Inside Store, The
-							
+						<option value="637525">
+
+								Insight Express
+
 						</option>
 					
 						<option value="52533">
-							
+
 								Inspired Silver
-							
+
 						</option>
 					
 						<option value="54257">
-							
+
 								InstrumentPro
-							
-						</option>
-					
-						<option value="20264">
-							
-								International Male
-							
+
 						</option>
 					
 						<option value="47532">
-							
+
 								International Star Regist
-							
+
 						</option>
 					
 						<option value="6696">
-							
+
 								Internet Florist
-							
+
 						</option>
 					
 						<option value="634990">
-							
+
 								Invitation Consultants
-							
+
 						</option>
 					
 						<option value="32158">
-							
+
 								Invitations by Dawn
-							
+
 						</option>
 					
 						<option value="28728">
-							
+
 								iRobot
-							
+
 						</option>
 					
-						<option value="17407">
-							
+						<option value="635929">
+
 								Irv's Luggage Warehouse
-							
+
 						</option>
 					
 						<option value="42493">
-							
+
 								Isabella
-							
+
 						</option>
 					
 						<option value="38780">
-							
+
 								iTRAIN
-							
+
 						</option>
 					
 						<option value="634947">
-							
+
 								Ivy Blue
-							
+
 						</option>
 					
-						<option value="15880">
-							
-								J&amp;R Music &amp; Computer Worl
-							
+						<option value="637812">
+
+								J&amp;R.com
+
 						</option>
 					
 						<option value="54253">
-							
+
 								Jake's Dog House
-							
+
 						</option>
 					
-						<option value="18618">
-							
+						<option value="637656">
+
 								JC Whitney
-							
+
 						</option>
 					
-						<option value="54041">
-							
+						<option value="637813">
+
 								JCPenney
-							
+
 						</option>
 					
 						<option value="634843">
-							
+
 								Jean M
-							
+
 						</option>
 					
 						<option value="42453">
-							
+
 								JEGEM.com
-							
+
 						</option>
 					
 						<option value="27760">
-							
+
 								Jenni Bick Bookbinding
-							
+
 						</option>
 					
-						<option value="31365">
-							
+						<option value="637719">
+
 								Jessica London
-							
+
 						</option>
 					
-						<option value="45612">
-							
-								Jewelry Savings Plan
-							
+						<option value="637557">
+
+								jetBlue
+
 						</option>
 					
-						<option value="28282">
-							
+						<option value="637657">
+
 								Jewelry Television
-							
+
 						</option>
 					
 						<option value="14416">
-							
+
 								JJ Kent Italian Charm Bra
-							
+
 						</option>
 					
-						<option value="14422">
-							
-								JoAnn.com
-							
+						<option value="637658">
+
+								JoAnn
+
 						</option>
 					
 						<option value="40895">
-							
+
 								Jockey.com
-							
+
+						</option>
+					
+						<option value="636759">
+
+								Joe's Sports
+
 						</option>
 					
 						<option value="35568">
-							
+
 								JoggingStroller.com
-							
+
 						</option>
 					
 						<option value="50261">
-							
+
 								Jones Soda Store
-							
+
 						</option>
 					
-						<option value="166109">
-							
+						<option value="637659">
+
 								Jos. A. Bank
-							
+
 						</option>
 					
 						<option value="39534">
-							
+
 								JourneyEd
-							
+
 						</option>
 					
 						<option value="37056">
-							
+
 								Journeys
-							
+
 						</option>
 					
 						<option value="37057">
-							
+
 								Journeys Kidz
-							
+
 						</option>
 					
 						<option value="25328">
-							
+
 								Juno Online Services
-							
+
 						</option>
 					
 						<option value="21007">
-							
+
 								Just Because Baskets
-							
+
 						</option>
 					
-						<option value="46834">
-							
+						<option value="637815">
+
 								Just My Size
-							
+
 						</option>
 					
 						<option value="32318">
-							
+
 								JustMetal Titanium Jewelr
-							
+
+						</option>
+					
+						<option value="638114">
+
+								JustMyShopping.com
+
 						</option>
 					
 						<option value="49753">
-							
+
 								Kaboodle
-							
+
 						</option>
 					
 						<option value="30752">
-							
+
 								Kaneesha
-							
+
 						</option>
 					
 						<option value="15329">
-							
+
 								Kaplan
-							
+
 						</option>
 					
 						<option value="15736">
-							
+
 								Karate Depot
-							
+
 						</option>
 					
-						<option value="37673">
-							
-								Karmaloop
-							
-						</option>
-					
-						<option value="29437">
-							
-								KB Toys.com
-							
-						</option>
-					
-						<option value="16543">
-							
-								KegWorks
-							
+						<option value="637816">
+
+								KBToys
+
 						</option>
 					
 						<option value="40589">
-							
+
 								Kiehl's
-							
+
 						</option>
 					
-						<option value="14424">
-							
-								KingSize Direct
-							
-						</option>
-					
-						<option value="31419">
-							
-								Kitchen Collection
-							
+						<option value="637720">
+
+								KingSize 
+
 						</option>
 					
 						<option value="21449">
-							
+
 								Kitchen Etc
-							
+
 						</option>
 					
-						<option value="39111">
-							
-								Kite And Wind
-							
-						</option>
-					
-						<option value="48317">
-							
+						<option value="635838">
+
 								KlinQ.com
-							
+
 						</option>
 					
-						<option value="16554">
-							
+						<option value="637722">
+
 								Kmart
-							
+
 						</option>
 					
 						<option value="42772">
-							
+
 								Knet Golf
-							
+
 						</option>
 					
 						<option value="15820">
-							
+
 								Knobs and Things
-							
+
+						</option>
+					
+						<option value="636346">
+
+								Knot Wedding Shop, The
+
 						</option>
 					
 						<option value="24861">
-							
+
 								Kodak
-							
+
 						</option>
 					
 						<option value="25332">
-							
+
 								Kodak EasyShare Gallery
-							
+
 						</option>
 					
-						<option value="14425">
-							
+						<option value="637723">
+
 								Kohl's
-							
+
 						</option>
 					
 						<option value="635335">
-							
+
 								L'Occitane en Provence
-							
+
+						</option>
+					
+						<option value="635908">
+
+								Lab Series
+
 						</option>
 					
 						<option value="42502">
-							
+
 								Lacrosse.com
-							
+
 						</option>
 					
 						<option value="46207">
-							
+
 								Lake Champlain Chocolates
-							
+
 						</option>
 					
-						<option value="14608">
-							
-								LampsPlus.com
-							
+						<option value="637817">
+
+								Lakeside Collection, The
+
 						</option>
 					
-						<option value="635602">
-							
+						<option value="637818">
+
+								Lamps Plus
+
+						</option>
+					
+						<option value="635811">
+
 								Lan Airlines
-							
+
 						</option>
 					
 						<option value="49801">
-							
-								Lancôme
-							
+
+								Lancome
+
 						</option>
 					
 						<option value="49644">
-							
+
 								Land of Nod, The
-							
+
 						</option>
 					
-						<option value="55002">
-							
+						<option value="637819">
+
 								Lands' End
-							
+
 						</option>
 					
-						<option value="33834">
-							
-								Landscape USA
-							
-						</option>
-					
-						<option value="14695">
-							
+						<option value="637820">
+
 								Lane Bryant
-							
+
 						</option>
 					
 						<option value="50343">
-							
+
 								Lane Bryant Catalog
-							
+
 						</option>
 					
-						<option value="53831">
-							
+						<option value="637892">
+
 								LeapFrog
-							
+
 						</option>
 					
-						<option value="50667">
-							
+						<option value="637724">
+
 								Leaps and Bounds
-							
+
 						</option>
 					
 						<option value="50267">
-							
+
 								Lee Jeans
-							
-						</option>
-					
-						<option value="47561">
-							
-								Legal Sea Foods
-							
+
 						</option>
 					
 						<option value="25148">
-							
+
 								LEGO Shop at Home
-							
+
 						</option>
 					
 						<option value="29812">
-							
+
 								Lenovo
-							
+
 						</option>
 					
-						<option value="37058">
-							
+						<option value="637921">
+
 								Lenox
-							
+
 						</option>
 					
-						<option value="32013">
-							
+						<option value="637660">
+
 								Lens.com
-							
+
 						</option>
 					
 						<option value="52281">
-							
+
 								LensCrafters.com
-							
+
 						</option>
 					
-						<option value="41162">
-							
+						<option value="637661">
+
 								LensMart
-							
+
 						</option>
 					
-						<option value="54901">
-							
+						<option value="637310">
+
 								LetsTalk.com
-							
+
 						</option>
 					
-						<option value="53471">
-							
+						<option value="638027">
+
+								Letters from Santa
+
+						</option>
+					
+						<option value="637662">
+
 								Lids
-							
+
 						</option>
 					
-						<option value="54845">
-							
+						<option value="53949">
+
 								Life Lock
-							
-						</option>
-					
-						<option value="53857">
-							
-								Lifes2Good - Help4Hair.co
-							
+
 						</option>
 					
 						<option value="35123">
-							
+
 								Lighting Direct
-							
-						</option>
-					
-						<option value="52902">
-							
-								Lightspeed Research
-							
+
 						</option>
 					
 						<option value="50903">
-							
+
 								LiLash
-							
+
 						</option>
 					
-						<option value="47022">
-							
+						<option value="637663">
+
 								Limited Too
-							
+
 						</option>
 					
-						<option value="635105">
-							
+						<option value="637821">
+
 								Limoges Jewelry
-							
+
 						</option>
 					
 						<option value="14432">
-							
+
 								Linens N Things
-							
+
 						</option>
 					
 						<option value="46851">
-							
+
 								Lipid Shield
-							
-						</option>
-					
-						<option value="634852">
-							
-								Literary Guild, The
-							
+
 						</option>
 					
 						<option value="54785">
-							
+
 								Litter Garage
-							
+
 						</option>
 					
 						<option value="15156">
-							
+
 								Little Tikes
-							
-						</option>
-					
-						<option value="36556">
-							
-								Littlearth
-							
-						</option>
-					
-						<option value="33835">
-							
-								Live Aquaria
-							
+
 						</option>
 					
 						<option value="634877">
-							
+
 								Liz Claiborne
-							
+
 						</option>
 					
 						<option value="42147">
-							
+
 								LoanApp.com
-							
+
 						</option>
 					
 						<option value="33283">
-							
+
 								Lonely Planet
-							
+
 						</option>
 					
 						<option value="27761">
-							
+
 								LoneStar Western Decor
-							
+
 						</option>
 					
-						<option value="16486">
-							
-								LucasArts Store
-							
+						<option value="637563">
+
+								Lord &amp; Taylor
+
 						</option>
 					
-						<option value="32147">
-							
+						<option value="638029">
+
+								Love Match Predictor 
+
+						</option>
+					
+						<option value="637983">
+
+								Lucky at Love
+
+						</option>
+					
+						<option value="636316">
+
 								Lucky Brand Jeans
-							
+
 						</option>
 					
-						<option value="14433">
-							
+						<option value="637822">
+
 								Luggage Online
-							
+
 						</option>
 					
 						<option value="34876">
-							
+
 								Lumber Liquidators
-							
+
 						</option>
 					
 						<option value="24818">
-							
+
 								LUSH Cosmetics
-							
+
 						</option>
 					
 						<option value="53826">
-							
+
 								Luxury Link
-							
+
 						</option>
 					
-						<option value="33774">
-							
+						<option value="637664">
+
 								MacMall
-							
+
 						</option>
 					
-						<option value="14785">
-							
+						<option value="637824">
+
 								Macy's
-							
-						</option>
-					
-						<option value="42742">
-							
-								MadisonAveMall.com
-							
+
 						</option>
 					
 						<option value="50747">
-							
+
 								Magazine Discount Center
-							
+
 						</option>
 					
 						<option value="42738">
-							
+
 								Magazineline.com
-							
+
 						</option>
 					
-						<option value="14435">
-							
+						<option value="637825">
+
 								Magazines.com
-							
+
 						</option>
 					
 						<option value="15826">
-							
+
 								Magellan's
-							
+
 						</option>
 					
 						<option value="14436">
-							
+
 								Magic Cabin
-							
-						</option>
-					
-						<option value="21200">
-							
-								Magic World Online
-							
+
 						</option>
 					
 						<option value="27589">
-							
+
 								Maidenform
-							
+
 						</option>
 					
 						<option value="26667">
-							
+
 								Mail Order Comics
-							
+
 						</option>
 					
 						<option value="635621">
-							
+
 								MainStay Suites
-							
+
 						</option>
 					
 						<option value="30747">
-							
+
 								Makeup.com
-							
+
 						</option>
 					
-						<option value="24821">
-							
-								Maps.com
-							
+						<option value="636407">
+
+								Manhattan Portage
+
+						</option>
+					
+						<option value="636332">
+
+								Marriott
+
 						</option>
 					
 						<option value="51034">
-							
+
 								Match.com
-							
-						</option>
-					
-						<option value="48544">
-							
-								Max &amp; Chloe
-							
+
 						</option>
 					
 						<option value="29196">
-							
+
 								MaxStudio
-							
+
 						</option>
 					
-						<option value="635354">
-							
+						<option value="637826">
+
 								McAfee
-							
+
 						</option>
 					
 						<option value="53451">
-							
+
 								MD Skincare
-							
+
 						</option>
 					
-						<option value="635106">
-							
+						<option value="636302">
+
 								Meaningful Beauty
-							
+
 						</option>
 					
-						<option value="25474">
-							
+						<option value="635716">
+
 								Medifast Diet
-							
-						</option>
-					
-						<option value="14749">
-							
-								Memolink Lotto
-							
+
 						</option>
 					
 						<option value="42217">
-							
+
 								Memolink Surveys
-							
+
 						</option>
 					
-						<option value="15109">
-							
-								MenScience
-							
+						<option value="638133">
+
+								Men's Ultimate Hollywood 
+
 						</option>
 					
 						<option value="54722">
-							
+
 								Mercantila
-							
+
 						</option>
 					
 						<option value="27755">
-							
+
 								Metrostyle
-							
+
 						</option>
 					
-						<option value="26749">
-							
-								MexGrocer.com
-							
-						</option>
-					
-						<option value="41272">
-							
-								MGM Shop
-							
-						</option>
-					
-						<option value="9112">
-							
-								Michigan Bulb
-							
+						<option value="637665">
+
+								Michigan Bulb Co.
+
 						</option>
 					
 						<option value="46231">
-							
+
 								Microsoft -  Windows Mark
-							
+
 						</option>
 					
 						<option value="39090">
-							
+
 								Midnight Velvet
-							
+
 						</option>
 					
-						<option value="48965">
-							
+						<option value="637828">
+
 								Mikasa
-							
-						</option>
-					
-						<option value="635059">
-							
-								Miles Kimball
-							
+
 						</option>
 					
 						<option value="17131">
-							
+
 								MilitaryClothing.com
-							
+
 						</option>
 					
-						<option value="14439">
-							
+						<option value="637831">
+
 								Mimi Maternity
-							
+
+						</option>
+					
+						<option value="35124">
+
+								Mingles.com
+
 						</option>
 					
 						<option value="14442">
-							
+
 								MisterArt
-							
+
 						</option>
 					
-						<option value="635567">
-							
+						<option value="636207">
+
 								MLB.com
-							
+
 						</option>
 					
 						<option value="33836">
-							
+
 								Modell's
-							
-						</option>
-					
-						<option value="50965">
-							
-								MomAgenda
-							
+
 						</option>
 					
 						<option value="34193">
-							
+
 								Mondera
-							
+
 						</option>
 					
 						<option value="23465">
-							
+
 								Monster.com
-							
+
 						</option>
 					
-						<option value="25331">
-							
-								Montgomery Ward
-							
-						</option>
-					
-						<option value="54255">
-							
+						<option value="637666">
+
 								Moosejaw
-							
+
 						</option>
 					
-						<option value="15581">
-							
-								Morgan Mint
-							
-						</option>
-					
-						<option value="41281">
-							
-								Morrell Wine
-							
-						</option>
-					
-						<option value="14443">
-							
+						<option value="637832">
+
 								Motherhood Maternity
-							
+
 						</option>
 					
-						<option value="9198">
-							
+						<option value="637667">
+
 								MotherNature.com
-							
+
 						</option>
 					
-						<option value="17576">
-							
-								Motorbooks
-							
-						</option>
-					
-						<option value="14445">
-							
-								Motorcycle Superstore
-							
-						</option>
-					
-						<option value="49664">
-							
+						<option value="638112">
+
 								Motormint
-							
+
 						</option>
 					
 						<option value="52232">
-							
+
 								Motorola Store
-							
-						</option>
-					
-						<option value="32148">
-							
-								MotoSport
-							
+
 						</option>
 					
 						<option value="15825">
-							
+
 								Mrs. Beasley's
-							
+
 						</option>
 					
 						<option value="27767">
-							
+
 								Mrs. Cavanaugh's Candies
-							
+
 						</option>
 					
-						<option value="14446">
-							
-								Mrs. Fields Gifts
-							
+						<option value="637833">
+
+								Mrs. Fields 
+
 						</option>
 					
 						<option value="54221">
-							
+
 								Mrs. Prindables
-							
+
 						</option>
 					
 						<option value="27594">
-							
+
 								Murad Skin Care
-							
-						</option>
-					
-						<option value="25330">
-							
-								Museum Store Company
-							
+
 						</option>
 					
 						<option value="15875">
-							
+
 								Musician's Friend
-							
+
 						</option>
 					
 						<option value="14701">
-							
+
 								Musicnotes
-							
+
 						</option>
 					
 						<option value="14447">
-							
+
 								MusicSpace
-							
+
 						</option>
 					
 						<option value="40605">
-							
+
 								Mwave.com
-							
+
 						</option>
 					
-						<option value="54803">
-							
-								My Computer Club
-							
-						</option>
-					
-						<option value="33846">
-							
-								My Favorite City
-							
-						</option>
-					
-						<option value="32149">
-							
+						<option value="637834">
+
 								My Twinn
-							
+
 						</option>
 					
 						<option value="48352">
-							
+
 								My Wedding Favors
-							
+
 						</option>
 					
 						<option value="29467">
-							
+
 								My Wines Direct
-							
+
 						</option>
 					
 						<option value="49653">
-							
+
 								myDaVinci.com
-							
+
+						</option>
+					
+						<option value="636306">
+
+								myflavia.com
+
 						</option>
 					
 						<option value="45892">
-							
+
 								MyPrint Rewards from HP
-							
+
 						</option>
 					
-						<option value="29835">
-							
-								NASCAR.com Superstore
-							
+						<option value="637835">
+
+								NASCAR.com 
+
 						</option>
 					
 						<option value="14448">
-							
+
 								Nashbar
-							
+
 						</option>
 					
 						<option value="14449">
-							
+
 								National Geographic Store
-							
+
 						</option>
 					
-						<option value="40661">
-							
-								National Jean Company
-							
-						</option>
-					
-						<option value="30619">
-							
+						<option value="637725">
+
 								National Pet Pharmacy
-							
-						</option>
-					
-						<option value="50131">
-							
-								NationalSurveyPanel
-							
+
 						</option>
 					
 						<option value="634882">
-							
+
 								NationalTVBargains.com
-							
+
 						</option>
 					
-						<option value="24188">
-							
-								Natural Area Rugs
-							
+						<option value="637052">
+
+								Natural Advantage
+
 						</option>
 					
 						<option value="39112">
-							
+
 								NaturalEco Organics
-							
+
 						</option>
 					
 						<option value="53907">
-							
+
 								NBAStore.com
-							
+
 						</option>
 					
 						<option value="23990">
-							
+
 								NBC Universal Store
-							
+
 						</option>
 					
 						<option value="15637">
-							
+
 								NET10
-							
+
 						</option>
 					
 						<option value="45426">
-							
+
 								Netaya
-							
+
 						</option>
 					
 						<option value="42443">
-							
+
 								Netflix
-							
-						</option>
-					
-						<option value="34787">
-							
-								NetMagazines
-							
+
 						</option>
 					
 						<option value="50752">
-							
+
 								NetShops
-							
+
 						</option>
 					
-						<option value="14792">
-							
-								New Line Cinema Store
-							
+						<option value="50452">
+
+								NetShops Gift Certificate
+
 						</option>
 					
-						<option value="48955">
-							
+						<option value="637727">
+
 								New York &amp; Company
-							
+
 						</option>
 					
-						<option value="30748">
-							
-								New York Skyride
-							
-						</option>
-					
-						<option value="51082">
-							
+						<option value="637668">
+
 								Newegg.com
-							
+
 						</option>
 					
 						<option value="32150">
-							
+
 								NFLShop.com
-							
+
 						</option>
 					
-						<option value="54887">
-							
-								NFO My Survey
-							
+						<option value="638138">
+
+								NFO My Surveys
+
 						</option>
 					
 						<option value="50271">
-							
+
 								Nick Jr Magazine
-							
+
 						</option>
 					
 						<option value="50272">
-							
+
 								Nick Magazine
-							
+
 						</option>
 					
 						<option value="9732">
-							
+
 								Nickelodeon Shop
-							
+
 						</option>
 					
 						<option value="42744">
-							
+
 								Nike
-							
+
 						</option>
 					
 						<option value="53961">
-							
+
 								Nimli
-							
+
 						</option>
 					
-						<option value="14452">
-							
+						<option value="45851">
+
+								Noble Collection, The
+
+						</option>
+					
+						<option value="637836">
+
 								Nordstrom
-							
+
 						</option>
 					
-						<option value="24862">
-							
+						<option value="637861">
+
+								North Face, The
+
+						</option>
+					
+						<option value="637726">
+
 								Northern Tool &amp; Equipment
-							
+
 						</option>
 					
 						<option value="15879">
-							
+
 								NothingButSoftware.com
-							
+
 						</option>
 					
 						<option value="24551">
-							
+
 								NOVICA
-							
+
 						</option>
 					
 						<option value="21035">
-							
+
 								NutriSystem
-							
+
 						</option>
 					
-						<option value="14454">
-							
+						<option value="637838">
+
 								Office Depot
-							
+
 						</option>
 					
 						<option value="39358">
-							
+
 								OfficeDesigns.com
-							
+
 						</option>
 					
 						<option value="54641">
-							
+
 								Officefurniture.com
-							
+
 						</option>
 					
-						<option value="14453">
-							
+						<option value="637728">
+
 								OfficeMax
-							
+
 						</option>
 					
-						<option value="14455">
-							
+						<option value="636756">
+
+								Official Credit Report
+
+						</option>
+					
+						<option value="637669">
+
 								Old Navy
-							
+
 						</option>
 					
 						<option value="54475">
-							
+
 								Olive Nation
-							
+
 						</option>
 					
-						<option value="20753">
-							
+						<option value="637839">
+
 								Omaha Steaks
-							
+
 						</option>
 					
 						<option value="27615">
-							
+
 								One from American Express
-							
+
 						</option>
 					
-						<option value="49193">
-							
-								One Step Ahead
-							
-						</option>
-					
-						<option value="46691">
-							
+						<option value="637841">
+
 								OneHanesPlace
-							
+
 						</option>
 					
 						<option value="45473">
-							
+
 								Oneida
-							
+
 						</option>
 					
 						<option value="16648">
-							
+
 								OneShare.com
-							
+
+						</option>
+					
+						<option value="637729">
+
+								OneStepAhead
+
 						</option>
 					
 						<option value="39091">
-							
+
 								OneStopPlus
-							
+
 						</option>
 					
 						<option value="29838">
-							
+
 								Online Labels
-							
+
+						</option>
+					
+						<option value="636967">
+
+								Online Sports
+
 						</option>
 					
 						<option value="28636">
-							
+
 								OnlineShoes
-							
+
 						</option>
 					
 						<option value="14797">
-							
+
 								Only Natural Pet Store
-							
+
 						</option>
 					
 						<option value="42166">
-							
+
 								Opinion Outpost
-							
+
 						</option>
 					
 						<option value="37941">
-							
+
 								OpinionSquare
-							
+
 						</option>
 					
-						<option value="17349">
-							
+						<option value="636657">
+
 								Orbitz
-							
+
 						</option>
 					
 						<option value="16695">
-							
+
 								Organize.com
-							
+
 						</option>
 					
-						<option value="48977">
-							
-								Oriental Trading Co.
-							
+						<option value="637842">
+
+								Oriental Trading
+
 						</option>
 					
-						<option value="635340">
-							
+						<option value="637843">
+
 								Origins
-							
+
 						</option>
 					
-						<option value="22326">
-							
+						<option value="53775">
+
+								Ortho Evra
+
+						</option>
+					
+						<option value="637731">
+
 								Orvis
-							
+
 						</option>
 					
 						<option value="14896">
-							
+
 								OTX
-							
+
 						</option>
 					
 						<option value="34878">
-							
+
 								Outdoor Decor
-							
+
 						</option>
 					
 						<option value="33772">
-							
+
 								Ovation Law
-							
+
 						</option>
 					
 						<option value="634962">
-							
+
 								Overnight Genius
-							
+
 						</option>
 					
-						<option value="43351">
-							
+						<option value="637844">
+
 								Overstock.com
-							
+
 						</option>
 					
 						<option value="14798">
-							
+
 								Overtons
-							
+
 						</option>
 					
-						<option value="14791">
-							
-								Pacific Sunwear
-							
+						<option value="637671">
+
+								PacSun
+
 						</option>
 					
-						<option value="15950">
-							
-								PacificPillows.com
-							
-						</option>
-					
-						<option value="25154">
-							
-								Packet8
-							
+						<option value="638063">
+
+								PageZoom - Web Hosting
+
 						</option>
 					
 						<option value="25618">
-							
+
 								Pajamagram
-							
+
 						</option>
 					
 						<option value="46843">
-							
+
 								Palm Beach Jewelry
-							
+
 						</option>
 					
 						<option value="15623">
-							
+
 								Palm Store
-							
-						</option>
-					
-						<option value="53859">
-							
-								PaperDirect
-							
+
 						</option>
 					
 						<option value="21433">
-							
+
 								Paragon Sports
-							
+
 						</option>
 					
 						<option value="25684">
-							
+
 								Park Seed
-							
+
 						</option>
 					
 						<option value="26447">
-							
+
 								PatioUmbrellas.com
-							
+
 						</option>
 					
-						<option value="49016">
-							
-								PayCheckToday.com
-							
+						<option value="46401">
+
+								PC Booster
+
 						</option>
 					
 						<option value="37367">
-							
+
 								PC Connection
-							
+
+						</option>
+					
+						<option value="636410">
+
+								PC Security Shield
+
+						</option>
+					
+						<option value="637524">
+
+								PC Showbuzz
+
 						</option>
 					
 						<option value="10046">
-							
+
 								Peapod
-							
+
 						</option>
 					
-						<option value="29839">
-							
-								Pearlwear Beads
-							
+						<option value="637274">
+
+								PedEgg
+
 						</option>
 					
 						<option value="14683">
-							
+
 								Peet's Coffee &amp; Tea
-							
+
 						</option>
 					
 						<option value="34974">
-							
+
 								PerfectMatch.com
-							
+
 						</option>
 					
 						<option value="286977">
-							
+
 								Performance Bike
-							
+
 						</option>
 					
-						<option value="14737">
-							
+						<option value="637732">
+
 								Perfumania
-							
+
 						</option>
 					
 						<option value="35101">
-							
+
 								Perfume Worldwide
-							
+
 						</option>
 					
 						<option value="46206">
-							
+
 								Perfume.com
-							
+
 						</option>
 					
-						<option value="50986">
-							
-								Permission Research
-							
-						</option>
-					
-						<option value="38792">
-							
-								Perry Ellis
-							
-						</option>
-					
-						<option value="52531">
-							
+						<option value="637845">
+
 								Personal Creations
-							
+
 						</option>
 					
 						<option value="41462">
-							
+
 								Personalization Mall
-							
+
+						</option>
+					
+						<option value="638065">
+
+								Personalized Ornaments
+
+						</option>
+					
+						<option value="636617">
+
+								Peruvian Connection
+
+						</option>
+					
+						<option value="35586">
+
+								Pet Street Mall
+
 						</option>
 					
 						<option value="35721">
-							
+
 								PetCareRX
-							
+
 						</option>
 					
-						<option value="38948">
-							
+						<option value="637672">
+
 								PETCO
-							
+
 						</option>
 					
 						<option value="14468">
-							
+
 								PetFoodDirect
-							
+
 						</option>
 					
 						<option value="53955">
-							
+
 								petitbaby.com
-							
+
 						</option>
 					
 						<option value="50614">
-							
+
 								Petite Sophisticate
-							
+
 						</option>
 					
 						<option value="14469">
-							
+
 								Petscriptions
-							
+
 						</option>
 					
-						<option value="14470">
-							
-								PETsMART
-							
-						</option>
-					
-						<option value="14782">
-							
-								Pfaelzer Brothers
-							
+						<option value="637846">
+
+								PetSmart
+
 						</option>
 					
 						<option value="25230">
-							
+
 								Pfaltzgraff
-							
+
 						</option>
 					
 						<option value="38437">
-							
+
 								Phat Campus
-							
+
 						</option>
 					
-						<option value="32210">
-							
-								Phat Farm
-							
-						</option>
-					
-						<option value="14471">
-							
-								Philips
-							
+						<option value="635712">
+
+								Photobucket.com
+
 						</option>
 					
 						<option value="39353">
-							
+
 								Pinatas.com
-							
+
 						</option>
 					
 						<option value="22325">
-							
+
 								Pingo
-							
+
 						</option>
 					
-						<option value="635568">
-							
+						<option value="637673">
+
 								Piperlime
-							
-						</option>
-					
-						<option value="635566">
-							
-								Pitney Bowes 
-							
+
 						</option>
 					
 						<option value="21211">
-							
+
 								PlayfulPlushToys
-							
+
 						</option>
 					
 						<option value="14781">
-							
+
 								Plow &amp; Hearth
-							
+
 						</option>
 					
 						<option value="33850">
-							
+
 								Plumber Surplus
-							
+
 						</option>
 					
-						<option value="14521">
-							
+						<option value="637863">
+
 								Popcorn Factory, The
-							
+
 						</option>
 					
 						<option value="26450">
-							
+
 								PorchSwings.com
-							
+
 						</option>
 					
-						<option value="26670">
-							
-								PoshTots
-							
+						<option value="637289">
+
+								Porta-Jump 
+
 						</option>
 					
 						<option value="48611">
-							
+
 								PrankPlace.com
-							
+
 						</option>
 					
 						<option value="54482">
-							
+
 								Prescriptives
-							
+
 						</option>
 					
-						<option value="35705">
-							
+						<option value="637559">
+
 								Priceline.com
-							
+
 						</option>
 					
-						<option value="635107">
-							
+						<option value="636303">
+
 								Principal Secret
-							
+
 						</option>
 					
 						<option value="25707">
-							
+
 								Pro Sports Memorabilia
-							
+
 						</option>
 					
-						<option value="55007">
-							
+						<option value="635931">
+
 								Proactiv Solution
-							
+
 						</option>
 					
-						<option value="34864">
-							
+						<option value="638137">
+
 								ProBoardShop
-							
+
 						</option>
 					
-						<option value="14475">
-							
+						<option value="637847">
+
 								ProFlowers
-							
-						</option>
-					
-						<option value="15326">
-							
-								Promgirl
-							
+
 						</option>
 					
 						<option value="53950">
-							
+
 								Property Perfections
-							
+
 						</option>
 					
 						<option value="24036">
-							
+
 								ProSportsPictures
-							
+
 						</option>
 					
 						<option value="36451">
-							
+
 								Public Opinion Group
-							
+
 						</option>
 					
 						<option value="37343">
-							
+
 								Puma
-							
+
 						</option>
 					
 						<option value="54782">
-							
+
 								Puppet.com
-							
+
 						</option>
 					
-						<option value="635577">
-							
+						<option value="637848">
+
 								Puritan's Pride
-							
-						</option>
-					
-						<option value="42392">
-							
-								Push Posters
-							
+
 						</option>
 					
 						<option value="47068">
-							
+
 								Quality Health
-							
+
 						</option>
 					
 						<option value="635611">
-							
+
 								Quality Inn
-							
+
 						</option>
 					
 						<option value="54699">
-							
+
 								Quickbooks
-							
+
 						</option>
 					
 						<option value="39088">
-							
+
 								Quicken
-							
+
 						</option>
 					
 						<option value="47535">
-							
+
 								Quill
-							
+
 						</option>
 					
-						<option value="14476">
-							
+						<option value="637965">
+
+								Quiz Jumper
+
+						</option>
+					
+						<option value="637598">
+
+								Quiz Jungle - Are you Hea
+
+						</option>
+					
+						<option value="637146">
+
+								Quiz Jungle - Ice Cream
+
+						</option>
+					
+						<option value="637567">
+
+								Quiz Jungle - Is the Forc
+
+						</option>
+					
+						<option value="638145">
+
+								Quiz Jungle - What's Your
+
+						</option>
+					
+						<option value="638126">
+
+								Quiz Jungle - What's Your
+
+						</option>
+					
+						<option value="638028">
+
+								Quiz Jungle - Which Chris
+
+						</option>
+					
+						<option value="638146">
+
+								Quiz Rocket - Dumb Test
+
+						</option>
+					
+						<option value="637588">
+
+								Quiz Rocket - Pirate or N
+
+						</option>
+					
+						<option value="638147">
+
+								Quiz Rocket - Superhero Q
+
+						</option>
+					
+						<option value="638148">
+
+								Quiz Rocket - What Drink 
+
+						</option>
+					
+						<option value="637674">
+
 								QVC.com
-							
+
 						</option>
 					
 						<option value="18026">
-							
+
 								Qwest Products
-							
+
 						</option>
 					
-						<option value="19534">
-							
-								Radio Shack
-							
+						<option value="637850">
+
+								RadioShack
+
 						</option>
 					
 						<option value="17335">
-							
+
 								Rail Europe
-							
-						</option>
-					
-						<option value="31528">
-							
-								Railpass.com
-							
-						</option>
-					
-						<option value="10698">
-							
-								Rampage
-							
-						</option>
-					
-						<option value="14480">
-							
-								Rand McNally
-							
-						</option>
-					
-						<option value="50151">
-							
-								RapidBath
-							
+
 						</option>
 					
 						<option value="45991">
-							
+
 								RapidFax
-							
-						</option>
-					
-						<option value="49014">
-							
-								RazorGator.com
-							
+
 						</option>
 					
 						<option value="33837">
-							
+
 								Reader's Digest Store
-							
+
+						</option>
+					
+						<option value="637733">
+
+								RedEnvelope
+
+						</option>
+					
+						<option value="637061">
+
+								RedStamp.com
+
 						</option>
 					
 						<option value="18025">
-							
+
 								RedWagons.com
-							
+
 						</option>
 					
-						<option value="14485">
-							
-								Reebok Store
-							
-						</option>
-					
-						<option value="46481">
-							
+						<option value="637852">
+
 								Register.com
-							
+
 						</option>
 					
-						<option value="17127">
-							
+						<option value="637675">
+
 								REI
-							
+
 						</option>
 					
-						<option value="151005">
-							
-								Relax the Back
-							
-						</option>
-					
-						<option value="54202">
-							
-								REMEDYLife
-							
-						</option>
-					
-						<option value="47853">
-							
+						<option value="637676">
+
 								Restaurant.com
-							
+
 						</option>
 					
 						<option value="38434">
-							
+
 								Revival Soy
-							
-						</option>
-					
-						<option value="49884">
-							
-								RewardTV
-							
+
 						</option>
 					
 						<option value="33451">
-							
+
 								Rexcraft
-							
+
+						</option>
+					
+						<option value="638030">
+
+								Rheumatoid Arthritis Surv
+
 						</option>
 					
 						<option value="27587">
-							
+
 								RideGear
-							
+
 						</option>
 					
 						<option value="52001">
-							
+
 								Ringtones From Jamster
-							
+
 						</option>
 					
-						<option value="22883">
-							
-								Ritz Camera
-							
+						<option value="637678">
+
+								RitzCamera.com
+
 						</option>
 					
 						<option value="10874">
-							
+
 								Road Runner Sports
-							
+
 						</option>
 					
-						<option value="28632">
-							
+						<option value="637739">
+
 								Roaman's
-							
+
 						</option>
 					
 						<option value="41472">
-							
+
 								Robeez
-							
+
 						</option>
 					
 						<option value="32198">
-							
+
 								Rocawear
-							
-						</option>
-					
-						<option value="37361">
-							
-								Rochester Big and Tall
-							
-						</option>
-					
-						<option value="27578">
-							
-								Rock Creek Outfitters
-							
+
 						</option>
 					
 						<option value="41167">
-							
+
 								Rockler Woodworking
-							
-						</option>
-					
-						<option value="32151">
-							
-								Rockport
-							
+
 						</option>
 					
 						<option value="45751">
-							
+
 								Rooms To Go
-							
+
 						</option>
 					
 						<option value="45752">
-							
+
 								Rooms to Go Kids
-							
+
 						</option>
 					
 						<option value="29439">
-							
+
 								ROOTS
-							
+
 						</option>
 					
-						<option value="53377">
-							
+						<option value="637679">
+
 								Ross-Simons
-							
+
 						</option>
 					
 						<option value="15348">
-							
+
 								Roxio
-							
-						</option>
-					
-						<option value="30741">
-							
-								Rubbermaid
-							
-						</option>
-					
-						<option value="28410">
-							
-								Rugman.com
-							
+
 						</option>
 					
 						<option value="16293">
-							
+
 								Safeway
-							
+
 						</option>
 					
 						<option value="50311">
-							
+
 								Sahalie
-							
+
 						</option>
 					
 						<option value="21709">
-							
+
 								Saks Fifth Avenue
-							
+
 						</option>
 					
-						<option value="42461">
-							
-								Samsonite
-							
+						<option value="637003">
+
+								Sam's Club
+
 						</option>
 					
 						<option value="38962">
-							
+
 								Sandals Resorts
-							
+
 						</option>
 					
-						<option value="49031">
-							
+						<option value="637359">
+
+								Savile Row Co
+
+						</option>
+					
+						<option value="637680">
+
 								Scholastic Store Online, 
-							
+
 						</option>
 					
 						<option value="19273">
-							
+
 								Scrapbook.com
-							
+
 						</option>
 					
 						<option value="28627">
-							
+
 								ScrapbookPal
-							
+
 						</option>
 					
 						<option value="14489">
-							
+
 								SeaBear Smokehouse
-							
+
 						</option>
 					
-						<option value="14674">
-							
+						<option value="637741">
+
 								Sears.com
-							
-						</option>
-					
-						<option value="49013">
-							
-								Second Act
-							
+
 						</option>
 					
 						<option value="25151">
-							
+
 								SecondSpin
-							
+
 						</option>
 					
-						<option value="634851">
-							
-								SensiClear
-							
-						</option>
-					
-						<option value="14490">
-							
+						<option value="637853">
+
 								Sephora
-							
+
 						</option>
 					
 						<option value="48542">
-							
+
 								SFMusicBox.com
-							
+
 						</option>
 					
 						<option value="42941">
-							
+
 								ShareBuilder
-							
-						</option>
-					
-						<option value="14714">
-							
-								Sharper Image, The
-							
-						</option>
-					
-						<option value="635108">
-							
-								Sheer Cover
-							
+
 						</option>
 					
 						<option value="15002">
-							
+
 								Sheplers
-							
+
 						</option>
 					
 						<option value="20351">
-							
+
 								Sheraton
-							
+
 						</option>
 					
 						<option value="51977">
-							
+
 								ShindigZ by Stumps
-							
+
 						</option>
 					
-						<option value="53703">
-							
+						<option value="635999">
+
+								Shockwave
+
+						</option>
+					
+						<option value="636171">
+
 								Shoeboxed.com
-							
+
 						</option>
 					
 						<option value="52682">
-							
+
 								Shoebuy.com
-							
+
 						</option>
 					
-						<option value="28730">
-							
+						<option value="637976">
+
+								ShoeDeals4U.com
+
+						</option>
+					
+						<option value="637682">
+
 								ShoeMall
-							
+
 						</option>
 					
-						<option value="42398">
-							
-								Shoes Avenue
-							
-						</option>
-					
-						<option value="24367">
-							
+						<option value="637742">
+
 								Shoes.com
-							
+
 						</option>
 					
-						<option value="32993">
-							
-								Shop ABC TV
-							
+						<option value="638122">
+
+								ShoeSale.com
+
 						</option>
 					
 						<option value="28217">
-							
+
 								Shop Karaoke
-							
+
 						</option>
 					
-						<option value="33841">
-							
+						<option value="637855">
+
 								Shop PBS
-							
+
 						</option>
 					
-						<option value="45461">
-							
-								Shop.CMT.com
-							
+						<option value="638111">
+
+								Shop Sansa
+
+						</option>
+					
+						<option value="635788">
+
+								Shop.Callaway.Golf.com
+
 						</option>
 					
 						<option value="45460">
-							
+
 								Shop.ComedyCentral.com
-							
+
 						</option>
 					
 						<option value="45459">
-							
+
 								Shop.MTV.com
-							
+
 						</option>
 					
 						<option value="24553">
-							
+
 								Shop4Tech
-							
+
 						</option>
 					
-						<option value="36641">
-							
-								Shopbop
-							
+						<option value="637683">
+
+								Shopbop.com
+
 						</option>
 					
 						<option value="634957">
-							
+
 								Shoplet.com
-							
+
 						</option>
 					
-						<option value="27634">
-							
+						<option value="637854">
+
 								ShopNBC
-							
+
 						</option>
 					
 						<option value="27631">
-							
+
 								ShopNHL.com
-							
+
 						</option>
 					
 						<option value="32838">
-							
+
 								Shoppers Choice
-							
+
 						</option>
 					
 						<option value="635044">
-							
+
 								Shu Uemura
-							
+
 						</option>
 					
-						<option value="11226">
-							
+						<option value="637856">
+
 								Shutterfly
-							
+
 						</option>
 					
-						<option value="16230">
-							
-								Sierra Club
-							
-						</option>
-					
-						<option value="14495">
-							
+						<option value="637857">
+
 								Sierra Trading Post
-							
+
 						</option>
 					
 						<option value="32324">
-							
+
 								Silkflowers.com
-							
+
+						</option>
+					
+						<option value="637963">
+
+								Silkies - Microfiber Shap
+
 						</option>
 					
 						<option value="38432">
-							
+
 								Simply Audiobooks
-							
+
 						</option>
 					
 						<option value="41171">
-							
+
 								Simply Baby Furniture
-							
+
 						</option>
 					
 						<option value="30611">
-							
+
 								Simply Fountains
-							
+
 						</option>
 					
 						<option value="28038">
-							
+
 								Simply Whispers
-							
+
 						</option>
 					
 						<option value="45474">
-							
+
 								SIRIUS Satellite Radio
-							
+
+						</option>
+					
+						<option value="635291">
+
+								Site Features Email
+
 						</option>
 					
 						<option value="634989">
-							
+
 								Sittercity
-							
+
 						</option>
 					
 						<option value="32326">
-							
+
 								Six Flags
-							
+
 						</option>
 					
-						<option value="51371">
-							
+						<option value="637743">
+
 								Skechers
-							
+
 						</option>
 					
 						<option value="26870">
-							
+
 								SkinStore.com
-							
+
 						</option>
 					
 						<option value="46807">
-							
+
 								Skirt Spot
-							
-						</option>
-					
-						<option value="52538">
-							
-								Skis.com
-							
+
 						</option>
 					
 						<option value="39087">
-							
+
 								SkyMall
-							
+
 						</option>
 					
 						<option value="635613">
-							
+
 								Sleep Inn
-							
+
 						</option>
 					
 						<option value="17644">
-							
+
 								Smart Bargains
-							
+
+						</option>
+					
+						<option value="636313">
+
+								Smart Diets
+
 						</option>
 					
 						<option value="15584">
-							
+
 								Smart Source
-							
+
 						</option>
 					
 						<option value="14500">
-							
+
 								Smarthome
-							
+
 						</option>
 					
 						<option value="39098">
-							
+
 								Smith &amp; Hawken
-							
+
 						</option>
 					
-						<option value="39101">
-							
+						<option value="637926">
+
 								Smith &amp; Noble
-							
+
 						</option>
 					
-						<option value="46404">
-							
+						<option value="637684">
+
 								Snapfish
-							
-						</option>
-					
-						<option value="54772">
-							
-								Snappy Music
-							
+
 						</option>
 					
 						<option value="42501">
-							
+
 								Soccer.com
-							
+
 						</option>
 					
-						<option value="21450">
-							
+						<option value="637105">
+
 								Soft Surroundings
-							
+
 						</option>
 					
-						<option value="14502">
-							
+						<option value="636006">
+
+								Soma.com
+
+						</option>
+					
+						<option value="637685">
+
 								Sony
-							
+
 						</option>
 					
 						<option value="38435">
-							
+
 								Southwest Airlines Vacati
-							
-						</option>
-					
-						<option value="29546">
-							
-								Spa &amp; Salon Wish
-							
+
 						</option>
 					
 						<option value="51301">
-							
+
 								SpaFinder
-							
+
 						</option>
 					
 						<option value="14505">
-							
+
 								SpaLook
-							
+
 						</option>
 					
-						<option value="31368">
-							
+						<option value="637925">
+
 								Speedo USA
-							
+
 						</option>
 					
 						<option value="30746">
-							
+
 								Spencers
-							
+
 						</option>
 					
-						<option value="17354">
-							
-								SpinLife.com
-							
+						<option value="47781">
+
+								Spirit Halloween
+
 						</option>
 					
-						<option value="23701">
-							
-								Sport Chalet
-							
-						</option>
-					
-						<option value="13502">
-							
-								Sports Authority, The
-							
+						<option value="637864">
+
+								SportsAuthority
+
 						</option>
 					
 						<option value="25327">
-							
+
 								Spring Hill Nursery
-							
+
 						</option>
 					
-						<option value="49573">
-							
-								STA Travel
-							
-						</option>
-					
-						<option value="26052">
-							
+						<option value="637686">
+
 								StacksandStacks
-							
+
 						</option>
 					
-						<option value="27638">
-							
-								Stacy Adams
-							
-						</option>
-					
-						<option value="44950">
-							
+						<option value="637687">
+
 								Staples
-							
+
 						</option>
 					
-						<option value="17151">
-							
-								Starbucks Store
-							
-						</option>
-					
-						<option value="14868">
-							
-								StarWarsShop.com
-							
+						<option value="637688">
+
+								Starbucks
+
 						</option>
 					
 						<option value="54031">
-							
+
 								Staybridge Suites
-							
+
 						</option>
 					
 						<option value="41461">
-							
+
 								Stencil Ease
-							
+
 						</option>
 					
 						<option value="51841">
-							
+
 								Steve Madden
-							
-						</option>
-					
-						<option value="26752">
-							
-								StickerGiant.com
-							
+
 						</option>
 					
 						<option value="23985">
-							
+
 								Stonewall Kitchen
-							
+
+						</option>
+					
+						<option value="637421">
+
+								STOPZilla
+
 						</option>
 					
 						<option value="14514">
-							
+
 								Strawberry Cosmetics
-							
+
 						</option>
 					
 						<option value="18345">
-							
+
 								StuffKidsLike
-							
+
 						</option>
 					
 						<option value="14696">
-							
+
 								Stylin' Trucks
-							
+
 						</option>
 					
 						<option value="38779">
-							
+
 								Super Media Store
-							
+
 						</option>
 					
-						<option value="28634">
-							
+						<option value="637593">
+
+								Super Media Wizard
+
+						</option>
+					
+						<option value="637744">
+
 								Sur La Table
-							
+
 						</option>
 					
-						<option value="48481">
-							
+						<option value="636317">
+
 								Survey Adventure
-							
+
+						</option>
+					
+						<option value="637570">
+
+								Surveys For Fun - Favorit
+
 						</option>
 					
 						<option value="35210">
-							
+
 								Swanson Health Products
-							
+
 						</option>
 					
-						<option value="42491">
-							
-								Swell
-							
-						</option>
-					
-						<option value="52897">
-							
+						<option value="637745">
+
 								Swiss Colony, The
-							
-						</option>
-					
-						<option value="14517">
-							
-								Swiss Outpost
-							
+
 						</option>
 					
 						<option value="33276">
-							
+
 								Symantec
-							
+
 						</option>
 					
-						<option value="42782">
-							
+						<option value="637858">
+
 								Szul.com
-							
+
 						</option>
 					
 						<option value="24184">
-							
+
 								T-Mobile
-							
+
 						</option>
 					
 						<option value="27622">
-							
+
 								Tactics Boardshop
-							
+
 						</option>
 					
 						<option value="35661">
-							
+
 								Tae Bo
-							
+
 						</option>
 					
 						<option value="46353">
-							
+
 								Tafford Uniforms
-							
+
 						</option>
 					
-						<option value="52631">
-							
+						<option value="637746">
+
 								Target
-							
+
+						</option>
+					
+						<option value="53881">
+
+								TaxAct
+
 						</option>
 					
 						<option value="52711">
-							
+
 								TaxBrain
-							
+
 						</option>
 					
 						<option value="38441">
-							
+
 								TaxCut from H&amp;R Block
-							
+
 						</option>
 					
 						<option value="54361">
-							
+
 								Taylor Gifts
-							
+
 						</option>
 					
-						<option value="30077">
-							
+						<option value="636758">
+
 								Teamstore
-							
+
 						</option>
 					
-						<option value="53571">
-							
-								Teleflora
-							
+						<option value="636241">
+
+								Teavana
+
 						</option>
 					
 						<option value="17129">
-							
+
 								Terrys Village
-							
+
+						</option>
+					
+						<option value="636685">
+
+								Textbooks.com
+
 						</option>
 					
 						<option value="14777">
-							
+
 								textbookx.com
-							
+
+						</option>
+					
+						<option value="638136">
+
+								The-House
+
+						</option>
+					
+						<option value="637859">
+
+								TheBabyOutlet
+
 						</option>
 					
 						<option value="635003">
-							
+
 								Therapeutix 
-							
+
 						</option>
 					
-						<option value="635305">
-							
+						<option value="637866">
+
 								Things Remembered
-							
+
 						</option>
 					
-						<option value="17455">
-							
+						<option value="636002">
+
 								Thrifty Rent-A-Car
-							
+
 						</option>
 					
 						<option value="54256">
-							
+
 								TickCo Premium Seating
-							
+
 						</option>
 					
 						<option value="51002">
-							
+
 								TicketsNow
-							
+
 						</option>
 					
-						<option value="45623">
-							
+						<option value="637867">
+
 								Tiger Direct
-							
+
 						</option>
 					
 						<option value="49611">
-							
+
 								TigerGPS.com
-							
+
 						</option>
 					
-						<option value="14705">
-							
+						<option value="637751">
+
 								Timberland
-							
+
 						</option>
 					
-						<option value="14715">
-							
+						<option value="637869">
+
 								TimeLife.com
-							
+
 						</option>
 					
 						<option value="50211">
-							
+
 								Tiny Prints
-							
+
 						</option>
 					
 						<option value="38469">
-							
+
 								Tire Rack, The
-							
+
 						</option>
 					
 						<option value="25477">
-							
+
 								TiVo
-							
+
 						</option>
 					
 						<option value="14685">
-							
+
 								Tool King
-							
+
+						</option>
+					
+						<option value="638132">
+
+								Top 5 MBA Schools
+
 						</option>
 					
 						<option value="53658">
-							
+
 								Torrid.com
-							
+
 						</option>
 					
-						<option value="635578">
-							
+						<option value="42347">
+
 								Toshiba 
-							
+
 						</option>
 					
-						<option value="31548">
-							
-								Toys R Us
-							
+						<option value="637871">
+
+								ToysRUs
+
 						</option>
 					
 						<option value="14525">
-							
+
 								TracFone
-							
-						</option>
-					
-						<option value="17126">
-							
-								Transparent Language
-							
+
 						</option>
 					
 						<option value="49891">
-							
+
 								Traveling With Kids
-							
+
 						</option>
 					
-						<option value="635552">
-							
+						<option value="637020">
+
 								Travelocity
-							
+
 						</option>
 					
-						<option value="17497">
-							
-								Travelodge
-							
-						</option>
-					
-						<option value="46931">
-							
-								True Jeans
-							
-						</option>
-					
-						<option value="34865">
-							
-								Tumi
-							
+						<option value="637298">
+
+								Trusted ID
+
 						</option>
 					
 						<option value="38436">
-							
+
 								TurboTax
-							
+
 						</option>
 					
 						<option value="44282">
-							
+
 								Two Peas in a Bucket
-							
+
 						</option>
 					
 						<option value="27643">
-							
+
 								Ulla Popken
-							
+
+						</option>
+					
+						<option value="637690">
+
+								ULTA Beauty 
+
 						</option>
 					
 						<option value="39558">
-							
+
 								Ultimate BackStore
-							
+
+						</option>
+					
+						<option value="636590">
+
+								Ultimate Facial, The
+
 						</option>
 					
 						<option value="46492">
-							
+
 								Unbeatable Sale
-							
+
 						</option>
 					
 						<option value="14526">
-							
+
 								Uncommon Goods
-							
+
 						</option>
 					
 						<option value="51581">
-							
+
 								Under Armour
-							
+
 						</option>
 					
-						<option value="32012">
-							
+						<option value="637948">
+
 								United Airlines
-							
+
+						</option>
+					
+						<option value="636544">
+
+								United Sample Survey
+
 						</option>
 					
 						<option value="21465">
-							
+
 								United Shades
-							
-						</option>
-					
-						<option value="13697">
-							
-								United Vacations
-							
-						</option>
-					
-						<option value="24539">
-							
-								Universal Gear
-							
+
 						</option>
 					
 						<option value="634926">
-							
+
 								University Subscription S
-							
+
 						</option>
 					
-						<option value="37344">
-							
+						<option value="637752">
+
 								Upper Deck Store
-							
+
 						</option>
 					
-						<option value="46221">
-							
+						<option value="637753">
+
 								Urban Outfitters
-							
+
 						</option>
 					
-						<option value="55032">
-							
-								USA Survey Panel 
-							
-						</option>
-					
-						<option value="635510">
-							
+						<option value="636044">
+
 								USO 
-							
+
 						</option>
 					
-						<option value="48061">
-							
-								Valued Opinions
-							
-						</option>
-					
-						<option value="42492">
-							
+						<option value="637754">
+
 								ValueMags.com
-							
+
 						</option>
 					
-						<option value="635657">
-							
+						<option value="637881">
+
+								Vans
+
+						</option>
+					
+						<option value="637872">
+
 								Vera Bradley
-							
+
 						</option>
 					
 						<option value="54413">
-							
+
 								Verizon High Speed Intern
-							
+
 						</option>
 					
 						<option value="13855">
-							
+
 								Verizon Wireless
-							
+
 						</option>
 					
-						<option value="16152">
-							
+						<option value="637874">
+
 								Vermont Teddy Bear
-							
+
+						</option>
+					
+						<option value="637233">
+
+								Verseo BeSlim Slender Pat
+
+						</option>
+					
+						<option value="637230">
+
+								Verseo Hollywood Detox Bo
+
+						</option>
+					
+						<option value="637223">
+
+								Verseo Premium Detox Foot
+
 						</option>
 					
 						<option value="34211">
-							
+
 								Veterans Advantage
-							
+
 						</option>
 					
 						<option value="27590">
-							
+
 								Viator
-							
+
 						</option>
 					
-						<option value="54594">
-							
+						<option value="637691">
+
 								Victoria's Secret
-							
-						</option>
-					
-						<option value="634862">
-							
-								Video Professor
-							
-						</option>
-					
-						<option value="48601">
-							
-								Vindale Research
-							
+
 						</option>
 					
 						<option value="28611">
-							
+
 								Vintage Tub and Bath
-							
+
 						</option>
 					
 						<option value="22256">
-							
+
 								Virtual Sheet Music
-							
+
 						</option>
 					
-						<option value="14503">
-							
+						<option value="636315">
+
 								Vision Direct
-							
+
 						</option>
 					
 						<option value="635071">
-							
+
 								Visivite.com
-							
+
 						</option>
 					
-						<option value="635455">
-							
+						<option value="635820">
+
 								VistaPrint
-							
+
 						</option>
 					
-						<option value="28617">
-							
+						<option value="637693">
+
 								Vitamin Shoppe
-							
+
 						</option>
 					
 						<option value="28719">
-							
+
 								VivaTerra
-							
-						</option>
-					
-						<option value="47172">
-							
-								Vivre
-							
+
 						</option>
 					
 						<option value="635162">
-							
+
 								W Hotels
-							
+
 						</option>
 					
 						<option value="40284">
-							
+
 								Wai Lana Yoga
-							
-						</option>
-					
-						<option value="55024">
-							
-								Wal-Mart
-							
+
 						</option>
 					
 						<option value="29825">
-							
+
 								Walking Company, The
-							
+
 						</option>
 					
-						<option value="45374">
-							
+						<option value="637875">
+
+								Walmart
+
+						</option>
+					
+						<option value="637876">
+
 								Walter Drake
-							
+
 						</option>
 					
-						<option value="15819">
-							
+						<option value="637694">
+
 								WatchZone
-							
+
 						</option>
 					
 						<option value="53851">
-							
+
 								Water.com
-							
+
 						</option>
 					
 						<option value="16223">
-							
+
 								Waterford
-							
+
 						</option>
 					
 						<option value="20875">
-							
+
 								Wayside Gardens
-							
+
 						</option>
 					
 						<option value="24820">
-							
+
 								Web.com
-							
+
 						</option>
 					
 						<option value="38442">
-							
+
 								WeightWatchers.com
-							
+
+						</option>
+					
+						<option value="637054">
+
+								Wen Hair Care
+
 						</option>
 					
 						<option value="635555">
-							
+
 								west elm
-							
-						</option>
-					
-						<option value="37059">
-							
-								West Marine
-							
+
 						</option>
 					
 						<option value="20350">
-							
+
 								Westin Hotels &amp; Resorts
-							
+
 						</option>
 					
 						<option value="50982">
-							
+
 								Wet Seal
-							
+
 						</option>
 					
 						<option value="15878">
-							
+
 								Whales &amp; Friends
-							
+
+						</option>
+					
+						<option value="636135">
+
+								White House Black Market
+
 						</option>
 					
 						<option value="14491">
-							
+
 								Wiley.com
-							
+
 						</option>
 					
 						<option value="40864">
-							
+
 								Wilsons Leather
-							
+
 						</option>
 					
 						<option value="20255">
-							
+
 								Wind &amp; Weather
-							
+
 						</option>
 					
 						<option value="29092">
-							
+
 								Wine Enthusiast
-							
+
 						</option>
 					
 						<option value="32612">
-							
+
 								Wine Messenger, The
-							
+
 						</option>
 					
-						<option value="53947">
-							
+						<option value="637877">
+
 								wine.com
-							
+
 						</option>
 					
-						<option value="53974">
-							
-								Winning Surveys - Vegas T
-							
-						</option>
-					
-						<option value="55009">
-							
+						<option value="636305">
+
 								Winsor Pilates
-							
+
 						</option>
 					
 						<option value="15577">
-							
+
 								Wireless From AT&amp;T
-							
+
 						</option>
 					
 						<option value="50234">
-							
+
 								Wisconsin Cheeseman, The
-							
+
 						</option>
 					
-						<option value="14054">
-							
-								Wolf Camera
-							
+						<option value="637696">
+
+								WolfCamera.com
+
 						</option>
 					
-						<option value="39086">
-							
-								Wolfgang's Vault
-							
-						</option>
-					
-						<option value="44738">
-							
+						<option value="637755">
+
 								Woman Within
-							
+
 						</option>
 					
 						<option value="53921">
-							
+
 								Woolrich
-							
+
 						</option>
 					
 						<option value="32321">
-							
+
 								Workout Warehouse
-							
+
+						</option>
+					
+						<option value="636553">
+
+								World Class Nutrition
+
 						</option>
 					
 						<option value="45742">
-							
+
 								World Of Watches
-							
+
 						</option>
 					
 						<option value="34856">
-							
+
 								World Wrestling Entertain
-							
+
 						</option>
 					
 						<option value="29547">
-							
+
 								Wrapables
-							
+
 						</option>
 					
 						<option value="49015">
-							
+
 								WTDirect.com
-							
+
 						</option>
 					
 						<option value="21048">
-							
+
 								Wyndham Resorts
-							
+
 						</option>
 					
 						<option value="46721">
-							
+
 								Wynn Box Office
-							
+
 						</option>
 					
 						<option value="23466">
-							
+
 								Wynn Las Vegas
-							
+
 						</option>
 					
 						<option value="49593">
-							
+
 								X-treme Geek
-							
-						</option>
-					
-						<option value="48951">
-							
-								XM Satellite Radio
-							
+
 						</option>
 					
 						<option value="26669">
-							
+
 								Xtremez 
-							
+
 						</option>
 					
 						<option value="29833">
-							
+
 								Yardiac.com
-							
+
 						</option>
 					
-						<option value="21468">
-							
-								Yoga Accessories
-							
+						<option value="638025">
+
+								YogaAccessories.com
+
 						</option>
 					
 						<option value="42661">
-							
+
 								YOOX.com
-							
+
 						</option>
 					
-						<option value="635656">
-							
+						<option value="635673">
+
 								YouPet.com
-							
+
 						</option>
 					
 						<option value="48433">
-							
+
 								Your Free Surveys
-							
+
 						</option>
 					
-						<option value="23151">
-							
-								Your Kids Direct
-							
-						</option>
-					
-						<option value="181680">
-							
+						<option value="637757">
+
 								Yves Rocher
-							
+
 						</option>
 					
 						<option value="32894">
-							
+
 								Zagat
-							
+
 						</option>
 					
-						<option value="635252">
-							
+						<option value="637878">
+
 								Zales
-							
+
 						</option>
 					
-						<option value="14484">
-							
-								Zappos
-							
+						<option value="637697">
+
+								Zappos.com
+
 						</option>
 					
 						<option value="52911">
-							
+
 								Zazzle
-							
-						</option>
-					
-						<option value="14478">
-							
-								zChocolat
-							
+
 						</option>
 					
 						<option value="635440">
-							
+
 								Zinio Systems
-							
+
 						</option>
 					
-						<option value="29443">
-							
+						<option value="637879">
+
 								ZIRH
-							
+
 						</option>
 					
 						<option value="39565">
-							
+
 								Zodiac Watches
-							
+
 						</option>
 					
 						<option value="45122">
-							
+
 								ZoneLiving.com
-							
+
 						</option>
 					
 						<option value="18619">
-							
+
 								Zoobooks
-							
+
+						</option>
+					
+						<option value="637331">
+
+								Zorbeez
+
 						</option>
 					
 						</select>
@@ -7162,14 +6801,6 @@ var cmJv="1.5";
 		</td>
 	</tr>
 	
-	
-	
-	
-	
-		
-	
-	
-		
 </tbody></table>
 <table cellpadding="0" cellspacing="0" border="0" width="760" align="center">
 	
@@ -7178,542 +6809,251 @@ var cmJv="1.5";
 		<td rowspan="2" style="background: #003366; width: 172px;">
 			<table cellpadding="0" cellspacing="0" border="0" width="100%">
 				
-	
-	
-	
-	
-		
-	
-	
-		
-				<tbody><tr><td style="padding: 6px;" class="menu_cell_standard">
-					
-					
-					
-					
-					
-					
-					
-					
-					<table cellpadding="0" cellspacing="0" border="0" width="100%">
-					
-					
+				<tbody><tr>
+					<td class="menu_cell_standard">
 						
-							
-							
-								
-									
-								
-							
-							<tbody><tr><td nowrap="">
-								
-								<a href="/index.cfm/beacon/earn_points.my_store/" class="menu_heading">
-									
-										MyStores
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								
-								<a href="/index.cfm/beacon/earn_points//" class="menu_heading">
-									
-										Earn Points
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.new_offers/" class="menu_item">
-									
-										New Stores &amp; Offers
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.all_points/" class="menu_item">
-									
-										All Stores &amp; Offers
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.auto_tools/" class="menu_item">
-									
-										Automotive &amp; Tools
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.baby_children/" class="menu_item">
-									
-										Baby &amp; Children
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.books_movies/" class="menu_item">
-									
-										Books, Movies &amp; Music
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.clothing/" class="menu_item">
-									
-										Clothing &amp; Accessories
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.clubs/" class="menu_item">
-									
-										Clubs &amp; Memberships
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.computers/" class="menu_item">
-									
-										Computers &amp; Office
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.crafts_hobbies/" class="menu_item">
-									
-										Crafts &amp; Hobbies
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.dept_stores/" class="menu_item">
-									
-										Dept. Stores &amp; Outlets
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.easy_points/" class="menu_item">
-									
-										Easy Points
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.electronics/" class="menu_item">
-									
-										Electronics
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.finance/" class="menu_item">
-									
-										Finance
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.flowers_gifts/" class="menu_item">
-									
-										Flowers, Food &amp; Gifts
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.health_beauty/" class="menu_item">
-									
-										Health &amp; Beauty
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.home_garden/" class="menu_item">
-									
-										Home &amp; Garden
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.jewelry/" class="menu_item">
-									
-										Jewelry
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.pets/" class="menu_item">
-									
-										Pets
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.sports/" class="menu_item">
-									
-										Sports &amp; Fitness
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.surveys_polls/" class="menu_item">
-									
-										Surveys
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								<img src="/images/spacer.gif" height="1" width="6">
-								<a href="/index.cfm/beacon/earn_points.vacation/" class="menu_item">
-									
-										Travel &amp; Vacation
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								
-								<a href="/index.cfm/beacon/coupons.all//" class="menu_heading">
-									
-										Coupons &amp; Deals
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								
-								<a href="/index.cfm/beacon/account.my_account/" class="menu_heading">
-									
-										My Account
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								
-								<a href="/index.cfm/beacon/rewards/" class="menu_heading">
-									
-										Redeem for Rewards
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-						
-							
-							
-								
-									
-								
-							
-							<tr><td nowrap="">
-								
-								<a href="/index.cfm/beacon/help.frequently_asked_questions/" class="menu_heading">
-									
-										Help
-									
-								</a>
-								
-								<br>
-								<img src="/images/spacer.gif" height="4" width="1"></td></tr>
-						
-					
-					</tbody></table>
-					
-				</td></tr>
+						<div class="contentMenuLeft">
+							<div class="glossymenu">
+
+								
+
+										<a class="menuitem submenuheader" headerindex="0h"><span class="accordprefix"></span>MyStores<span class="accordsuffix"><img src="/assets/images/www/menu/plus.gif" class="statusicon"></span></a>
+										
+										<div class="submenu" contentindex="0c">
+											<ul>
+												
+													<li><a href="/index.cfm/beacon/earn_points.my_store/">Manage My Stores</a></li>
+												
+											</ul>
+											</div>
+										
+
+										<a class="menuitem submenuheader" headerindex="1h"><span class="accordprefix"></span>Earn Points<span class="accordsuffix"><img src="/assets/images/www/menu/plus.gif" class="statusicon"></span></a>
+										
+										<div class="submenu" contentindex="1c">
+											<ul>
+												
+												<li><a href="/index.cfm/beacon/earn_points.new_offers/">New Stores &amp; Offers</a></li>
+											
+												<li><a href="/index.cfm/beacon/earn_points.all_points/">All Stores &amp; Offers</a></li>
+											
+												<li><a href="/index.cfm/beacon/earn_points.auto_tools/">Automotive &amp; Tools</a></li>
+											
+											<script type="text/javascript">
+												linkset[0] = "<a href='/index.cfm/beacon/earn_points.baby_children.toys'>Toys & Games</a><a href='/index.cfm/beacon/earn_points.baby_children.clothing'>Clothing & Accessories</a><a href='/index.cfm/beacon/earn_points.baby_children.gear'>Gear & Furniture</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/earn_points.baby_children/" onmouseover="showmenu(event, linkset[0])" onmouseout="delayhidemenu()">Baby &amp; Children</a></li>
+											
+											<script type="text/javascript">
+												linkset[1] = "<a href='/index.cfm/beacon/earn_points.books_movies.books'>Books & Magazines</a><a href='/index.cfm/beacon/earn_points.books_movies.movies'>Movies & TV</a><a href='/index.cfm/beacon/earn_points.books_movies.music'>Music</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/earn_points.books_movies/" onmouseover="showmenu(event, linkset[1])" onmouseout="delayhidemenu()">Books, Movies &amp; Music</a></li>
+											
+											<script type="text/javascript">
+												linkset[2] = "<a href='/index.cfm/beacon/earn_points.clothing.womens_clothes'>Women's Clothes</a><a href='/index.cfm/beacon/earn_points.clothing.mens_clothes'>Men's Clothes</a><a href='/index.cfm/beacon/earn_points.clothing.shoes_handbags'>Shoes & Handbags</a><a href='/index.cfm/beacon/earn_points.clothing.intimates'>Intimates & Accessories</a><a href='/index.cfm/beacon/earn_points.clothing.plus_size'>Plus Size</a><a href='/index.cfm/beacon/earn_points.clothing.maternity'>Maternity</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/earn_points.clothing/" onmouseover="showmenu(event, linkset[2])" onmouseout="delayhidemenu()">Clothing &amp; Accessories</a></li>
+											
+											<script type="text/javascript">
+												linkset[3] = "<a href='/index.cfm/beacon/earn_points.clubs.dating'>Dating & Relationships</a><a href='/index.cfm/beacon/earn_points.clubs.diet'>Diet & Weight Loss</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/earn_points.clubs/" onmouseover="showmenu(event, linkset[3])" onmouseout="delayhidemenu()">Clubs &amp; Memberships</a></li>
+											
+											<script type="text/javascript">
+												linkset[4] = "<a href='/index.cfm/beacon/earn_points.computers.office'>Office Supplies</a><a href='/index.cfm/beacon/earn_points.computers.computers'>Computers & Accessories</a><a href='/index.cfm/beacon/earn_points.computers.software'>Software</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/earn_points.computers/" onmouseover="showmenu(event, linkset[4])" onmouseout="delayhidemenu()">Computers &amp; Office</a></li>
+											
+												<li><a href="/index.cfm/beacon/earn_points.crafts_hobbies/">Crafts &amp; Hobbies</a></li>
+											
+												<li><a href="/index.cfm/beacon/earn_points.dept_stores/">Dept. Stores &amp; Outl...</a></li>
+											
+												<li><a href="/index.cfm/beacon/earn_points.easy_points/">Easy Points</a></li>
+											
+											<script type="text/javascript">
+												linkset[5] = "<a href='/index.cfm/beacon/earn_points.electronics.gaming'>Gaming</a><a href='/index.cfm/beacon/earn_points.electronics.phone'>Cell Phones & Service</a><a href='/index.cfm/beacon/earn_points.electronics.more'>More Electronics</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/earn_points.electronics/" onmouseover="showmenu(event, linkset[5])" onmouseout="delayhidemenu()">Electronics</a></li>
+											
+											<script type="text/javascript">
+												linkset[6] = "<a href='/index.cfm/beacon/earn_points.community_2008.tax'>2008 Tax Guide</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/earn_points.finance/" onmouseover="showmenu(event, linkset[6])" onmouseout="delayhidemenu()">Finance</a></li>
+											
+											<script type="text/javascript">
+												linkset[7] = "<a href='/index.cfm/beacon/earn_points.flowers_gifts.flowers'>Flowers</a><a href='/index.cfm/beacon/earn_points.flowers_gifts.food'>Gourmet Food</a><a href='/index.cfm/beacon/earn_points.flowers_gifts.drink'>Wine, Coffee & Tea</a><a href='/index.cfm/beacon/earn_points.flowers_gifts.cards'>Gift Cards</a><a href='/index.cfm/beacon/earn_points.flowers_gifts.more'>More Gifts</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/earn_points.flowers_gifts/" onmouseover="showmenu(event, linkset[7])" onmouseout="delayhidemenu()">Flowers, Food &amp; Gifts</a></li>
+											
+											<script type="text/javascript">
+												linkset[8] = "<a href='/index.cfm/beacon/earn_points.health_beauty.beauty'>Beauty & Fragrances</a><a href='/index.cfm/beacon/earn_points.health_beauty.diet'>Diet & Weight Loss</a><a href='/index.cfm/beacon/earn_points.health_beauty.health'>Health & Wellness</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/earn_points.health_beauty/" onmouseover="showmenu(event, linkset[8])" onmouseout="delayhidemenu()">Health &amp; Beauty</a></li>
+											
+											<script type="text/javascript">
+												linkset[9] = "<a href='/index.cfm/beacon/earn_points.home_garden.art'>Art & Wall Decor</a><a href='/index.cfm/beacon/earn_points.home_garden.garden'>Garden & Outdoor</a><a href='/index.cfm/beacon/earn_points.home_garden.decor'>Housewares & Decor</a><a href='/index.cfm/beacon/earn_points.home_garden.bed_bath'>Bed & Bath</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/earn_points.home_garden/" onmouseover="showmenu(event, linkset[9])" onmouseout="delayhidemenu()">Home &amp; Garden</a></li>
+											
+											<script type="text/javascript">
+												linkset[10] = "<a href='/index.cfm/beacon/earn_points.context.jewelry_buying_guide'>Jewelry Buying Guide</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/earn_points.jewelry/" onmouseover="showmenu(event, linkset[10])" onmouseout="delayhidemenu()">Jewelry</a></li>
+											
+												<li><a href="/index.cfm/beacon/earn_points.pets/">Pets</a></li>
+											
+											<script type="text/javascript">
+												linkset[11] = "<a href='/index.cfm/beacon/earn_points.sports.fitness'>Fitness & Exercise</a><a href='/index.cfm/beacon/earn_points.sports.goods'>Sporting Goods</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/earn_points.sports/" onmouseover="showmenu(event, linkset[11])" onmouseout="delayhidemenu()">Sports &amp; Fitness</a></li>
+											
+												<li><a href="/index.cfm/beacon/earn_points.surveys_polls/">Surveys</a></li>
+											
+											<script type="text/javascript">
+												linkset[12] = "<a href='/index.cfm/beacon/earn_points.vacation.airfare'>Airfare</a><a href='/index.cfm/beacon/earn_points.vacation.hotels'>Hotels</a><a href='/index.cfm/beacon/earn_points.vacation.more'>More Travel</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/earn_points.vacation/" onmouseover="showmenu(event, linkset[12])" onmouseout="delayhidemenu()">Travel &amp; Vacation</a></li>
+											
+											</ul>
+											</div>
+										
+
+										<a class="menuitem submenuheader" headerindex="2h"><span class="accordprefix"></span>Coupons &amp; Deals<span class="accordsuffix"><img src="/assets/images/www/menu/plus.gif" class="statusicon"></span></a>
+										
+										<div class="submenu" contentindex="2c">
+											<ul>
+												
+												<li><a href="/index.cfm/beacon/coupons.all/">All Coupons</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.books_movies/">Books, Movies &amp; Mus...</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.clothing/">Clothing &amp; Accessor...</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.computers/">Computer &amp; Office C...</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.dollar_off/">Dollar Off</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.double_discounts/">Double Discounts</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.flowers_gifts/">Flower, Food &amp; Gift...</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.free_gifts/">Free Gifts</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.free_shipping/">Free Shipping</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.free_trials/">Free Trials</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.percent_off/">Percent Off</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.rebates/">Rebates</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.sales/">Sales</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.vacation/">Travel &amp; Vacation C...</a></li>
+											
+												<li><a href="/index.cfm/beacon/coupons.baby_children/">Baby &amp; Children Cou...</a></li>
+											
+											</ul>
+											</div>
+										
+
+										<a class="menuitem submenuheader" headerindex="3h"><span class="accordprefix"></span>My Account<span class="accordsuffix"><img src="/assets/images/www/menu/plus.gif" class="statusicon"></span></a>
+										
+										<div class="submenu" contentindex="3c">
+											<ul>
+												
+												<li><a href="/index.cfm/beacon/account.my_account/">Member Profile</a></li>
+											
+												<li><a href="/index.cfm/beacon/account.letters_history/">Letters From Us</a></li>
+											
+												<li><a href="/index.cfm/beacon/account.points_history/">Points History</a></li>
+											
+												<li><a href="/index.cfm/beacon/account.email_safelists/">Add to Address Book</a></li>
+											
+												<li><a href="/index.cfm/beacon/account.email_pref/">Email Preferences</a></li>
+											
+												<li><a href="/index.cfm/beacon/account.membership/">Memogold Membership</a></li>
+											
+												<li><a href="/index.cfm/beacon/account.support/">Support History</a></li>
+											
+												<li><a href="/index.cfm/beacon/account.reward_history/">Reward History</a></li>
+											
+												<li><a href="/index.cfm/beacon/account.receipt_history/">Click Code History</a></li>
+											
+												<li><a href="/index.cfm/beacon/account.store_ratings/">Store Ratings</a></li>
+											
+											</ul>
+											</div>
+										
+
+										<a class="menuitem submenuheader" headerindex="4h"><span class="accordprefix"></span>Redeem for Rewards<span class="accordsuffix"><img src="/assets/images/www/menu/plus.gif" class="statusicon"></span></a>
+										
+										<div class="submenu" contentindex="4c">
+											<ul>
+												
+												<li><a href="/index.cfm/beacon/rewards.apparel/">Apparel &amp; Access.</a></li>
+											
+												<li><a href="/index.cfm/beacon/rewards.books/">Books</a></li>
+											
+												<li><a href="/index.cfm/beacon/rewards.cash/">Cash</a></li>
+											
+												<li><a href="/index.cfm/beacon/rewards.charity/">Charity</a></li>
+											
+												<li><a href="/index.cfm/beacon/rewards.dept_stores/">Department Stores</a></li>
+											
+												<li><a href="/index.cfm/beacon/rewards.electronics/">Electronics</a></li>
+											
+												<li><a href="/index.cfm/beacon/rewards.gas/">Gas Cards</a></li>
+											
+												<li><a href="/index.cfm/beacon/rewards.gifts/">Gifts</a></li>
+											
+												<li><a href="/index.cfm/beacon/rewards.movies/">Movies</a></li>
+											
+												<li><a href="/index.cfm/beacon/rewards.music/">Music</a></li>
+											
+											<script type="text/javascript">
+												linkset[13] = "<a href='/index.cfm/beacon/rewards.fine_dining'>Sit Down</a><a href='/index.cfm/beacon/rewards.restaurants.fast_food'>Fast Food</a>";
+											</script>
+											<li><a href="/index.cfm/beacon/rewards.restaurants/" onmouseover="showmenu(event, linkset[13])" onmouseout="delayhidemenu()">Restaurants</a></li>
+											
+												<li><a href="/index.cfm/beacon/rewards.webcertificates/">Emailed Gift Certif...</a></li>
+											
+												<li><a href="/index.cfm/beacon/rewards.all_prizes/">All Rewards</a></li>
+											
+												<li><a href="/index.cfm/beacon/reward.office/">Office Supplies</a></li>
+											
+											</ul>
+											</div>
+										
+
+										<a class="menuitem submenuheader" headerindex="5h"><span class="accordprefix"></span>Help<span class="accordsuffix"><img src="/assets/images/www/menu/plus.gif" class="statusicon"></span></a>
+										
+										<div class="submenu" contentindex="5c">
+											<ul>
+												
+												<li><a href="/index.cfm/beacon/help.frequently_asked_questions/">Frequently Asked Qu...</a></li>
+											
+												<li><a href="/index.cfm/beacon/help.contact_us/">Contact Us</a></li>
+											
+												<li><a href="/index.cfm/beacon/help.why_join/">Why Join Memolink?</a></li>
+											
+												<li><a href="/index.cfm/beacon/help.privacy_policy/">Privacy Statement</a></li>
+											
+												<li><a href="/index.cfm/beacon/help.terms_and_conditions/">Terms &amp; Conditions</a></li>
+											
+												<li><a href="/index.cfm/beacon/help.unsubscribe_me/">Unsubscribe Me</a></li>
+											
+							</ul></div>
+
+							<script type="text/javascript">
+								gradualFader.init() //activate gradual fader
+							</script>
+						</div>
+					</div></td>
+				</tr>
+				
+
+
 				
 				<tr><td style="background: white;"><a href="/index.cfm/beacon/whatisgold"><img src="/images/menu_feature_memogold.gif" border="0"></a><br><a href="/index.cfm/beacon/account.email_pref/"><img src="/images/menu_feature_memomail.gif" border="0"></a><br><a href="/index.cfm/beacon/feedback"><img src="/images/menu_feature_feedback.gif" border="0"></a><br><a href="/index.cfm/beacon/testimonials"><img src="/images/menu_feature_testimonials.gif" border="0"></a><br></td></tr>
 				
@@ -7725,60 +7065,15 @@ var cmJv="1.5";
 						<input type="text" name="code" value="" style="width: 116px; height: 22px;">
 						<input type="submit" value="Go" style="width: 30px; height: 22px;">
 					</form><br>
-					
-	
-		
-	
-	
-	
-	
+					<center>
+						<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td align="center" td="" width="132"><a href="http://www.memolink.com/index.cfm/beacon/earn_points.holiday_gift_guide/display_method_id/6/foreign_id/513"><img src="/images/content/holidaybanner125x125.gif" border="0" alt="Get Afforadable Gifts For Everyone on Your List"></a></td></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif">&nbsp;up to 160 points/$</font></td></tr></tbody></table><br> <img src="/images/spacer.gif" height="8" width="1"><br> <table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td align="center" td="" width="132"><a href="http://www.memolink.com/index.cfm/beacon/earn_points.shopping/offer/Home-Depot-637649/display_method_id/6/foreign_id/475" target="new"><img src="/images/content/Home_Depot_Holiday_125x125.gif" border="0" alt="Shop Online Deals at Home Depot"></a></td></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif">&nbsp;56 points/$</font></td></tr></tbody></table><br> <img src="/images/spacer.gif" height="8" width="1"><br> <table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td align="center" td="" width="132"><a href="http://www.memolink.com/index.cfm/beacon/coupons.free_shipping/display_method_id/6/foreign_id/13"><img src="/images/content/holidayshipping_125x125.gif" border="0" alt="Don't Pay for Shipping"></a></td></tr></tbody></table><br> <img src="/images/spacer.gif" height="8" width="1"><br> <table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td align="center" td="" width="132"><a href="http://www.memolink.com/index.cfm/beacon/earn_points.shopping/offer/Tiger-Direct-637867/display_method_id/6/foreign_id/13" target="new"><img src="/images/content/Tiger_Closeout_125x125.gif" border="0" alt="Get Closeout Deals at Tiger Direct  "></a></td></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif">&nbsp;72 points/$</font></td></tr></tbody></table><br> <img src="/images/spacer.gif" height="8" width="1"><br> <table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td align="center" td="" width="132"><a href="http://www.memolink.com/index.cfm/beacon/earn_points.verify/offer/Old-Navy-637669/display_method_id/6/foreign_id/475" target="new"><img src="/images/content/OldNavy_Holiday_125x125.gif" border="0" alt="Shop all Gift Price Points at Old Navy"></a></td></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif">&nbsp;56 points/$</font></td></tr></tbody></table><br> 
+					</center>
 
-	
-	
-
-	
-		
-			
-				<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr><td align="center" td="" width="132"><a href="http://www.memolink.com/index.cfm/beacon/earn_points.verify/offer/635501/display_method_id/6/foreign_id/475" target="new"><img src="/images/content/eBay_125.gif" border="0" alt="Get It on eBay"></a></td></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif">&nbsp;300 points</font></td></tr></tbody></table><br>
-			
-			
-				<img src="/images/spacer.gif" height="8" width="1"><br>
-			
-		
-	
-		
-			
-				<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr><td align="center" td="" width="132"><a href="http://www.memolink.com/index.cfm/beacon/earn_points.shopping/offer/635354/display_method_id/6/foreign_id/475" target="new"><img src="/images/content/McAfee_125.gif" border="0" alt="Save 50% at McAfee"></a></td></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif">&nbsp;64 points/$</font></td></tr></tbody></table><br>
-			
-			
-				<img src="/images/spacer.gif" height="8" width="1"><br>
-			
-		
-	
-		
-			
-				<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr><td align="center" td="" width="132"><a href="http://www.memolink.com/index.cfm/beacon/earn_points.shopping/offer/48977/display_method_id/6/foreign_id/475" target="new"><img src="/images/content/OTC_125.gif" border="0" alt="Save and Shop at Oriental Trading Co"></a></td></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif">&nbsp;48 points/$</font></td></tr></tbody></table><br>
-			
-			
-				<img src="/images/spacer.gif" height="8" width="1"><br>
-			
-		
-	
-		
-			
-				<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr><td align="center" width="132"><a href="http://www.memolink.com/index.cfm/beacon/earn_points.shopping/offer/635507/display_method_id/6/foreign_id/475/" target="new"><img src="/images/content/Camping_125.gif" border="0" alt="Save on Father's Day Gifts at Camping World"></a></td></tr>
-<tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif">&nbsp;72 points/$</font></td></tr></tbody></table><br>
-			
-			
-		
-	
-	
-
-	
 					
 					</td>
 				</tr>
@@ -7788,28 +7083,13 @@ var cmJv="1.5";
 		<td rowspan="2" width="100%" class="content_cell" style="height: 100%;" align="right">
 		
 			<table cellpadding="0" cellspacing="0" border="0" width="100%">
-				<tbody><tr>
+				<tbody><tr valign="top">
 					<td class="nav_map">
 						
-						
-							
-							
-							
-							
-							
-								
 									<span class="nav_map">Memolink</span> »
 								
-							
-						
-							
-							
-							
-							
-							
 								<span class="nav_map" style="font-weight: bold;">Privacy Policy</span>
 							
-						
 					</td>
 					
 				</tr>
@@ -7825,92 +7105,121 @@ var cmJv="1.5";
 	var form = document.primary_form;
 </script>
 
+<style>
+.privacyBody{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	width: 531px;
+	padding-left: 10px;
+}
+
+.privacyBody ul{
+	position: relative;
+	top: -10px;
+	list-style-type: disc;
+	color: #003399;
+	margin-bottom: -2px;
+}
+.privacyBody li{
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 12px;
+}
+.privacyButton {
+	width: 250px;
+	position: relative;
+	left: -5px;
+}
+
+.headline{
+	font-size: 16px;
+	font-weight: bold;
+	color: #003399;
+	text-align: left;
+	display: inline;
+	padding-top: 10px;
+	width: 100%;
+	padding-bottom: 15px;
+	float: left;
+}
+.headline1{
+	font-size: 14px;
+	font-weight: bold;
+	width: 100%;
+	display: inline;
+	color: #003399;
+	text-align: left;
+}
+
+.headline2{
+	font-size: 12px;
+	font-weight: bold;
+	width: 100%;
+	display: inline;
+	color: #003399;
+}
+.headline2p {
+	text-align: left;
+	padding-top: 10px;
+}
+.revisedDate {
+	font-size: 12px;
+	font-weight: normal;
+}
+.revisedDate a:link{
+	text-decoration: none;
+	color: #3398C3;
+	text-decoration: underline;
+}
+.revisedDate a:hover{
+	text-decoration: none;
+}
+.revisedDate a:visited{
+	color: #3398C3;
+}
+.list1 {
+	color: #333333;
+	font-size: 12px;
+}
+.list1 a {
+	color: #3398C3;
+}
+.list1 a:hover{
+text-decoration: none;
+}
+</style>
 
 
-<table width="531" cellpadding="6" cellspacing="0" border="0"><tbody><tr><td>
-<strong style="font-size:16px">Memolink strictly adheres to the Privacy Statement outlined below.</strong>
+<div class="privacyBody">
+<div class="headline">Memolink.com Privacy Statement Highlights</div>
+<div class="openPara">Have you ever wondered what we do with the information you  give us, but maybe you didn’t want to take the time to read through a long,  legal document to find out?&nbsp; Well, we’ve  made a change that will make understanding how we collect, use, and protect  your information easier and less time consuming. &nbsp;&nbsp;We’re proud of how we adhere to best  practices when it comes to your information and we want you to feel good about  it too.&nbsp; Below are the highlights of the  full Memolink.com Privacy Statement.&nbsp; Click  into any section to read additional details.&nbsp;</div>
 <br><br>
-We will closely guard any personally identifiable information you disclose to us during registration or at any other point during your memolink.com experience. However, information will be shared with a third party if a member requests for that information to be shared. A member may request that this information be shared, by opting in to programs, lists or newsletters or participating in certain offers or promotions that may require information such as, but not limited to, first name, last name, occupation, email address, mailing address, phone number, selected interests or date of birth. Not all offers/programs/lists/opt-ins specify exactly which pieces of information will be shared. Please contact Memolink through <a href="http://support.memolink.com/" target="blank" class="content">Member Support</a> if you would like more information about which offers/programs/lists/opt-ins require certain pieces of information to be shared. 
-<br><br>
-By joining Memolink, you are opting-in to receive mail from Memolink (referred to as "Memomail"). You can unsubscribe from Memomail at any time and still maintain an active Memolink account. 
-<br><br>
-<strong>MEMOLINK PRIVACY STATEMENT</strong>
-<br><br>
-<strong>Information Collection and Use</strong>
-<br><br>
-Memolink is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Memolink collects information from our users at several different points on our Website. 
-<br><br>
-<strong>Registration</strong>
-<br><br>
-In order to use this Website, a user must first complete the registration form. During registration, a user is required to give their contact information (such as name, email address and postal address). This information is used to contact the user about the services on our site for which they have expressed interest, account information, changes in point offerings and new offerings from us or our business partners. 
-<br><br>
-<strong>Unsubscribe Requests</strong>
-<br><br>
- If a member wishes to opt out of Memomail or unsubscribe their Memolink account, they may use the "unsubscribe" link at the bottom of any Memomail. Every Memomail contains a physical address to which a user can mail an unsubscribe request. Members may also send an unsubscribe request to our online 
-<a href="http://support.memolink.com/" target="blank" class="content">Member Support</a> department at any time and a representative will opt that member out of Memomail within 3 days.</td></tr>
-<tr><td width="100%" align="right">
-<a href="#top">
-<img src="http://www.memolink.com/images/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"> 
-</a></td></tr>
-<tr><td>  
-<br>
-<strong>Collection of Account Information</strong>
-<br><br>
-We collect personal information from the user upon request for reward redemption. Here we ask a user to provide contact information (such as name and shipping address) and legitimate proof of address. Proof of address is required in order to guard Memolink and our members from fraudulent activities. This information is also used for shipping purposes to award earned rewards. If we have trouble processing a reward, this contact information may be utilized to contact a user. 
-<br><br>
-<strong>Disclosure of Account Information</strong>
-<br><br>
-You authorize Memolink to only disclose to third parties information you have provided, or information that Memolink has obtained about your Memolink account or shopping behavior: (i) to agents and licensors of Memolink or its affiliates, such as independent auditors, consultants or attorneys; (ii) to comply with government agency or court orders or requests; (iii) in providing aggregated and non-personalized marketing services for an advertising or business partner, or (iv) where it is necessary for redemption of your rewards. Further, you authorize Memolink to receive any account information from any business partner including, but not limited to information regarding purchase was made, products ordered, order number, the time and date the purchase occurred and the email address entered for the purchase. You agree to hold the partner harmless for any information disclosed to Memolink.
-<br><br>
-<strong>Our Cookies</strong>
-<br><br>
-A cookie is a piece of data we store on the user's hard drive containing information about the user's account and point earnings. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. There are two reasons for the use of cookies on our site. The first reason is that it helps us keep track of the points you earn during a given session. The second reason for using cookies on our site is that it allows you to move throughout our site and complete offers without being prompted by our security system to log in again after each activity. If a user rejects the cookie, they may still use our site, however they will have to log on multiple times and they risk not receiving credit for the points they have earned.</td></tr>
-<tr><td width="100%" align="right">
-<a href="#top">
-<img src="http://www.memolink.com/images/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"> 
-</a></td></tr>
-<tr><td>
-<br>
-<strong>Log Files</strong>
-<br><br>
-We do track certain information such as type of browser and log-on time for our own use. We use this information only to track where our users may be coming from and what type of software they are using. We keep this information so we can continuously improve our users' online experience and improve the Memolink Website. None of this information can ever be traced back to any specific person and is useful only to Memolink.
-<br><br>
-<strong>Links to Other Sites</strong>
-<br><br>
-This Website contains links to other sites. Please be aware that we, Memolink, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Website that collects personally identifiable information. This privacy statement applies solely to information collected by the Memolink Website. Memolink requests that users report any and all concerns about our partners' privacy practices directly to us through <a href="http://support.memolink.com/" target="blank" class="content">Member Support</a>. 
-<br><br>
-<strong>Security</strong>
-<br><br>
- This Website takes every precaution to protect our users' information. When users submit information via the Website, your information is protected both online and offline. While we use both passwords and user names to protect information online, we also do everything in our power to protect users' information offline. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job (for example, our Member Support team) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to regain access to your information. Finally, the servers that we store personally identifiable information on are kept in a secure environment and professionally maintained. If you have any questions about the security at our Website, you can send a request to <a href="http://support.memolink.com/" target="blank" class="content">Member Support</a>.</td></tr>
-<tr><td width="100%" align="right">
-<a href="#top">
-<img src="http://www.memolink.com/images/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"> 
-</a></td></tr>
-<tr><td>
-<br>
-<strong>Special Offers and Email</strong>
-<br><br>
-We send all new members a welcoming email to verify password and username. We also require a new user to click on a link inserted in the initial email to verify their account. Memolink does this in order to establish that the email address given upon registration is not fraudulent. Established members will occasionally receive emails containing information regarding new offers or special promotions from Memolink or its partners if they have not opted out. "Opting-out" means the user does not wish to receive emails from memolink.com. When a member receives an email from memolink.com and decides they no longer wish to receive emails or want to be removed from our system, they can open the email and scroll to the bottom. At the bottom of the email page there will be a brief description of how to have an account "opted out". Once we receive information regarding these account changes, we will make the specified changes as soon as possible. Please note that while Memolink can remove you from internal lists, if you have agreed to have your email transmitted to a third party through our site in the past, removal from that list is not guaranteed. 
-<br><br>
-<strong>Site and Service Announcements</strong>
-<br><br>
-Under rare circumstances, memolink.com may need to contact specific or all users in order to make an important announcements about the Memolink site or service changes. Members are not able to unsubscribe, or opt out of these announcements, because they may contain very important information regarding their accounts. Before these measures are taken, however, Memolink will post information regarding changes directly on the Website. Memolink reserves the right to contact users to correct account errors or to supply important information Memolink deems relevant. 
-<br><br>
-<strong>Correction/Updating Personal Information</strong> 
-<br><br>
-Memolink users are able to change their personal information at any time, with the exception of first and last name. Members must request this information be changed, along with a valid reason for the change.  The fastest way to change personal information is to log on to memolink.com and simply click on "change personal info." You will be prompted to enter your password again to change you personal information. If for some reason this page does not work, or there are any questions, users may contact our <a href="http://support.memolink.com/" target="blank" class="content">Member Support</a> team.  Unless returned to Memolink, Inc., memolink.com will not be responsible for lost rewards due to an inaccurate address listed in members' accounts. 
-<br><br>
-Effective Date: March 17th, 2006 
-</td></tr>
-<tr><td width="100%" align="right">
-<a href="#top">
-<img src="http://www.memolink.com/images/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"> 
-</a></td></tr>
-<tr><td><a href="http://www.memolink.com/">
-<img src="http://www.memolink.com/images/home.gif" border="0" alt="Back to Memolink homepage"> 
-</a></td></tr>
-</tbody></table>
+<div class="headline1">Personal Information 
+<span class="revisedDate"><a href="http://www.memolink.com/index.cfm/beacon/privacy_policy_all#personalInfo">More Details</a></span></div>
 
+<ul>
+  <li><span class="list1">When you register for Memolink.com we will ask  you to provide various personal and other information.</span></li>
+  <li><span class="list1">The information we collect may be combined with  information obtained from Memolink Surveys and other business partners.</span></li>
+  <li><span class="list1">We use cookies and other technologies to keep  track of your point-earning actions so we can credit Memolink Points to your  account and to offer a customized experience.</span></li>
+</ul>
+
+<div class="headline1">Uses of Information <span class="revisedDate"><a href="http://www.memolink.com/index.cfm/beacon/privacy_policy_all#useInfo">More Details</a></span></div>
+
+<ul>
+  <li><span class="list1">We use the information we collect to provide the  Memolink.com rewards program service.&nbsp;  Our services may include the display of personalized content.</span></li>
+  <li><span class="list1">We use your information to inform you of other  products or services offered by Memolink.com and its business partners, and to  send you relevant survey invitations.</span></li>
+  <li><span class="list1">We do not sell, rent, or lease our member lists  to third parties.&nbsp; In order to help  provide our services, we may occasionally provide information to other  companies that work on our behalf.</span></li>
+</ul>
+<div class="headline1">Your Choices <span class="revisedDate"><a href="http://www.memolink.com/index.cfm/beacon/privacy_policy_all#commPrefs">More Details</a></span></div>
+<ul>
+  <li><span class="list1">To stop receiving promotion email, also called  Memomail, follow the instructions in any email. See the <a href="http://www.memolink.com/index.cfm/beacon/privacy_policy_all#email">email communication section</a> of the full  privacy statement for additional details.</span></li>
+  <li><span class="list1">To view and edit your personal information, go  to the <a href="http://www.memolink.com/index.cfm/beacon/privacy_policy_all#accesspersonal">access section</a> of the full  privacy statement.</span></li>
+</ul>
+<div class="headline1">How to Contact Us</div>
+  <ul><div class="list1">For more information about our privacy practices, go to the  full <a href="http://www.memolink.com/index.cfm/beacon/privacy_policy_all">Memolink.com Privacy Statement</a>,  or <a href="http://support.memolink.com/index.cfm?fuseaction=custom.customer.service" target="_blank">contact our Member Support team</a>.&nbsp; </div>
+  </ul>
+</div>
 
 
 
@@ -7934,8 +7243,9 @@ Effective Date: March 17th, 2006
 		<a href="/index.cfm/beacon/affiliate_program/" class="footer">Affiliate Program</a>
 		<a href="/index.cfm/beacon/privacy_policy/" class="footer">Privacy Statement</a>
 		<a href="/index.cfm/beacon/terms_and_conditions/" class="footer">T &amp; C's</a>
-		<a href="/index.cfm/beacon/site_map/" class="footer">Site Map</a>
+		
 		<a href="/index.cfm/beacon/help.contact_us/" class="footer">Contact Us</a>
+		<a href="/index.cfm/beacon/earn_points.real_simple_syndication/" class="footer"><img src="/images/rss14.png" border="0"> RSS</a>
 	</td></tr>
 </tbody></table>
 <table cellpadding="0" cellspacing="0" border="0" width="760" style="background: #003366;" align="center">
@@ -7951,10 +7261,6 @@ Effective Date: March 17th, 2006
 	_uacct = "UA-561001-1";
 	urchinTracker();
 </script>
-
-
-
-
 
 
 </body></html>
