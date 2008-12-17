@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613215721id_/http%3A//www.nomadesk.com/index.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055547id_/http%3A//www.nomadesk.com/privacy) for the most accurate reproduction.*
 
-# World’s First Virtual Fileserver for SMBs and Nomadic Professionals: Privacy
+# Telecommuting software | Collaboration Software | Remote Area Desktop File Sharing
 
 ## General
 
-**NomaDesk is developed by** **[Aventiv](https://web.archive.org/web/20080613215721id_/http%3A//www.nomadesk.com/index.php?id=aventiv "Opens internal link in current window") ****NV (Ltd.), with EU office at Xavier De Cocklaan 66-5, B-9830  Sint-Martens-Latem, Belgium and US office at 17011 Beach Blvd. Suite 900, Huntington Beach CA 92647.**
+**NomaDesk is developed by Aventiv** **NV (Ltd.), with EU office at Xavier De Cocklaan 66-5, B-9830  Sint-Martens-Latem, Belgium and US office at 6123 Abercorn Avenue, Atlanta GA 30346.**
 
 When you visit <http://www.nomadesk.com/> or <http://www.aventiv.com/> , our web server automatically recognizes your IP address but not your email address.  With each visit to our web site we store your email address (if you have communicated this to us), as well as any information you have voluntarily provided to us (e.g., contact information, research information and/or site registration), to: 
 
@@ -14,11 +14,11 @@ When you visit <http://www.nomadesk.com/> or <http://www.aventiv.com/> , our we
 
 
 
-The information is used internally only and will not be disclosed to any other organisation for commercial purposes.  We are not involved in any partnerships, nor do we have any special relations with Internet advertising agencies. 
+The information is used internally and can be disclosed to any other organisation for marketing purposes. 
 
 This website uses cookies.  A cookie is a small file written to your computer that helps us identify you. This cookie contains information about the Internet site visited plus certain data relating to the visit itself. 
 
-All important data is transmitted securely by SSL using 128 bit encryption, certified by [Thawte](http://www.thawte.com/)). 
+All important data is transmitted securely by SSL using 128 bit encryption, certified by [Thawte](http://www.thawte.com/). 
 
 We have taken the necessary security measures to prevent the loss or unlawful use of information received on our site, and to prevent changes being made to this information after it has been received. 
 
@@ -38,7 +38,9 @@ If you have disclosed your postal address to us over the web, we may periodicall
 
 If you have disclosed your telephone number to us over the web, we may contact you by telephone with information on our products and services or upcoming events.  If you do not want us to contact you by telephone, please inform us at the above address. 
 
-  * by telephone at the toll-free number: 0800-91 886
+  * by telephone
+    * +32 9 240 10 31 in Belgium (office hours are 08.30-18.00, CET M-F)
+    * +1 800 409 3830 in the United States (office hours are 07.00-19.00 EST, M-F)
   * by post: BDMV, Robinson list, Buro & Design Center, Heizel Esplanade, B46, 1020 Brussels 
   * online: [http://www.robinsonlist.be](http://www.robinsonlist.be/)
 
