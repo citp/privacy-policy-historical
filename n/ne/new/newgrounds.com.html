@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509174554id_/http%3A//www.newgrounds.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217053146id_/http%3A//www.newgrounds.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy</title>
-	<script type="text/javascript" src="http://js.ngfiles.com/ng_publish.js?1210266130"></script>
+	<script type="text/javascript" src="http://js.ngfiles.com/ng_publish.js?1229024146"></script>
 	<!-- JS -->
 
 	<script type="text/javascript">
@@ -139,10 +139,29 @@
 			document.getElementById(username_fieldname).value = name;				// Also set the name in the login text field
 		}
 
+		document.observe('dom:loaded', function() {
+			new Ajax.Autocompleter('topsearch_terms', 'searchhint', '/ajax/searchsuggestion.php', {
+				onShow: function(e, u) {
+					$('topsuperbanner').style.visibility = 'hidden';
+					// Positioning is taken care of in CSS. Disregard the search element.
+					Effect.Appear(u,{duration:0.15});
+				},
+				onHide: function(e, u) {
+					$('topsuperbanner').style.visibility = 'visible';
+					new Effect.Fade(u,{duration:0.15});
+				},
+				minChars: 3,
+				frequency: 0.1,
+				callback: function(terms) {
+					return 'topsearch_terms=' + escape(terms.value) + '&topsearch_type=' + $F('topsearch_type');
+				}
+			});
+		});
+
 	// ]]>
 	</script>
 
-	<link rel="stylesheet" href="http://css.ngfiles.com/ng_publish.css?1210266130" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://css.ngfiles.com/ng_publish.css?1229024146" type="text/css" media="screen">
 	<link rel="stylesheet" href="http://css.ngfiles.com/iphone.css" type="text/css" media="only screen and (max-device-width: 480px)">
 	<link rel="stylesheet" href="http://css.ngfiles.com/print.css" type="text/css" media="print">
 	<!-- CSS -->
@@ -160,63 +179,66 @@
 
 		<div id="center">
 			<!-- SKINAD -->
-			<h1 class="ng"><a href="http://www.newgrounds.com/">Newgrounds.com — Everything, By Everyone.</a></h1>
+			<div id="banner">
+				<h1 class="ng"><a href="http://www.newgrounds.com/">Newgrounds.com — Everything, By Everyone.</a></h1>
 
-			<div id="wholeloginbox" class="loginbox">
-				<div id="loginbox" style="display: none;">
-					<strong class="status">Checking login status…</strong>
-				</div>
-				<div id="loginbox_notloggedin" class="hidecode" style="display: block;">
-					<form method="post" action="http://www.newgrounds.com/account/" id="loginboxform" onsubmit="AttemptLogin();return(false);">
+				<div id="wholeloginbox" class="loginbox">
+					<div id="loginbox" style="display: none;">
+						<strong class="status">Checking login status…</strong>
+					</div>
+					<div id="loginbox_notloggedin" class="hidecode" style="display: block;">
+						<form method="post" action="http://www.newgrounds.com/account/" id="loginboxform" onsubmit="AttemptLogin();return(false);">
 
-					<ul>
-						<li><a href="http://www.newgrounds.com/join">Not a member? SIGN UP!</a></li>
-						<li><input type="submit" class="hiddensubmit" value="s"><a href="http://www.newgrounds.com/join/forgot">Forgot login?</a></li>
-					</ul>
+						<ul>
+							<li><a href="http://www.newgrounds.com/join">Not a member? SIGN UP!</a></li>
+							<li><input type="submit" class="hiddensubmit" value="s"><a href="http://www.newgrounds.com/join/forgot">Forgot login?</a></li>
+						</ul>
 
-					<p>
-						<strong>USERNAME:</strong>
-						<input type="text" name="lb_username" id="lb_username" maxlength="20" class="inputfield formtext">
-					</p>
-					<p>
-						<strong>PASSWORD:</strong>
-						<input type="password" name="lb_userpass" id="lb_userpass" maxlength="10" class="inputfield formtext">
-					</p>
-
-					<div id="loginbox_button">
-						<p class="save">
-							<input type="checkbox" name="lb_remember" id="lb_remember" value="on">
-							<a class="textclick" href="javascript:HandleClick('lb_remember');">Save Info!</a>
+						<p>
+							<strong>USERNAME:</strong>
+							<input type="text" name="lb_username" id="lb_username" maxlength="20" class="inputfield formtext">
 						</p>
-						<span class="btn"><a href="javascript:AttemptLogin();">Jack In!&nbsp;&gt;</a></span>
-					</div>
-					<div id="loginbox_animation_login" class="hidecode">
-						<p class="save"><strong class="status">Logging in…</strong></p>
-					</div>
+						<p>
+							<strong>PASSWORD:</strong>
+							<input type="password" name="lb_userpass" id="lb_userpass" maxlength="10" class="inputfield formtext">
+						</p>
 
-					</form>
-				</div>
-				<div id="loginbox_loggedin" class="logged hidecode">
-					<div id="loginbox_loggedin_msg">
-						<strong class="status">Logged in as:<br><span id="loginbox_username">.</span></strong>
+						<div id="loginbox_button">
+							<p class="save">
+								<input type="checkbox" name="lb_remember" id="lb_remember" value="on">
+								<a class="textclick" href="javascript:HandleClick('lb_remember');">Save Info!</a>
+							</p>
+							<span class="btn"><a href="javascript:AttemptLogin();">Jack In!&nbsp;&gt;</a></span>
+						</div>
+						<div id="loginbox_animation_login" class="hidecode">
+							<p class="save"><strong class="status">Logging in…</strong></p>
+						</div>
+
+						</form>
 					</div>
-					<div id="loginbox_animation_logout" class="hidecode">
-						<strong class="status">Logging out…</strong>
+					<div id="loginbox_loggedin" class="logged hidecode">
+						<div id="loginbox_loggedin_msg">
+							<strong class="status">Logged in as:<br><span id="loginbox_username">.</span></strong>
+						</div>
+						<div id="loginbox_animation_logout" class="hidecode">
+							<strong class="status">Logging out…</strong>
+						</div>
+						<span class="btn"><a href="http://www.newgrounds.com/pm/">Inbox<em id="unread_pm_count_display"></em></a></span>
+						<span class="btn"><a href="http://www.newgrounds.com/account/">My Account</a></span>
+						<span class="btn"><a href="http://www.newgrounds.com/account/logout" onclick="AttemptLogout();return(false);">Log Out</a></span>
 					</div>
-					<span class="btn"><a href="http://www.newgrounds.com/pm/">Inbox<em id="unread_pm_count_display"></em></a></span>
-					<span class="btn"><a href="http://www.newgrounds.com/account/">My Account</a></span>
-					<span class="btn"><a href="http://www.newgrounds.com/account/logout" onclick="AttemptLogout();return(false);">Log Out</a></span>
 				</div>
+
+				<form method="get" id="search" action="#" onsubmit="RunSearch('topsearch', 'portal');return(false);">
+					<input type="text" id="topsearch_terms" size="12" class="search inputfield formtext">
+					<select id="topsearch_type" class="formtext pulldown">
+						<option value="title">Title&nbsp;&nbsp;</option>
+						<option value="author">Author&nbsp;&nbsp;</option>
+					</select>
+					<span class="btn"><a href="#" onclick="RunSearch('topsearch', 'portal');return(false);">Search!</a></span>
+				</form>
+				<div class="linkcomplete" id="searchhint"></div>
 			</div>
-
-			<form method="get" id="search" action="#" onsubmit="RunSearch('topsearch', 'portal');return(false);">
-				<input type="text" id="topsearch_terms" size="12" class="search inputfield formtext">
-				<select id="topsearch_type" class="formtext pulldown">
-					<option value="title">Title&nbsp;&nbsp;</option>
-					<option value="author">Author&nbsp;&nbsp;</option>
-				</select>
-				<span class="btn"><a href="#" onclick="RunSearch('topsearch', 'portal');return(false);">Search!</a></span>
-			</form>
 
 			<div id="nav-sub">
 				<dl>
@@ -227,9 +249,9 @@
 					<dd><a href="http://www.newgrounds.com/lit/faq">Help / FAQ</a> |</dd>
 					<dd><a href="http://www.newgrounds.com/lit/">Lit</a> |</dd>
 					<dd><a href="http://www.newgrounds.com/mature/">Mature</a> |</dd>
+					<dd><a href="http://www.newgrounds.com/ngmag/">NG Mag</a> |</dd>
 					<dd><a href="http://www.newgrounds.com/network/">Network</a> |</dd>
 					<dd><a href="http://www.newgrounds.com/rankings/">Rankings</a> |</dd>
-					<dd><a href="http://www.newgrounds.com/store/">Store</a> |</dd>
 					<dd><a href="http://www.newgrounds.com/submit">Submit Content!</a></dd>
 				</dl>
 			</div>
@@ -239,11 +261,11 @@
 					<dd id="flashportal"><a href="http://www.newgrounds.com/portal/">Flash Portal</a></dd>
 					<dd id="audioportal"><a href="http://www.newgrounds.com/audio/">Audio Portal</a></dd>
 					<dd id="games"><a href="http://www.newgrounds.com/game/">Games</a></dd>
-					<dd id="toons"><a href="http://www.newgrounds.com/toon/">Toons</a></dd>
+					<dd id="movies"><a href="http://www.newgrounds.com/movies/">Movies</a></dd>
 					<dd id="collections"><a href="http://www.newgrounds.com/collection/">Collections</a></dd>
 					<dd id="series"><a href="http://www.newgrounds.com/collection/series">Series</a></dd>
 					<dd id="forums"><a href="http://www.newgrounds.com/bbs/">Forums</a></dd>
-					<dd id="ngmag"><a href="http://www.newgrounds.com/ngmag/">NG Mag</a></dd>
+					<dd id="store"><a href="http://www.newgrounds.com/store/">Store</a></dd>
 				</dl>
 			</div>
 			<br clear="left">
@@ -387,11 +409,11 @@
 			<a href="http://www.newgrounds.com/portal/">Flash Portal</a> |
 			<a href="http://www.newgrounds.com/audio/">Audio Portal</a> |
 			<a href="http://www.newgrounds.com/game/">Games</a> |
-			<a href="http://www.newgrounds.com/toon/">Toons</a> |
+			<a href="http://www.newgrounds.com/movies/">Movies</a> |
 			<a href="http://www.newgrounds.com/collection/">Collections</a> |
 			<a href="http://www.newgrounds.com/collection/series">Series</a> |
 			<a href="http://www.newgrounds.com/bbs/">Forums</a> |
-			<a href="http://www.newgrounds.com/ngmag/">NG Mag</a>
+			<a href="http://www.newgrounds.com/store/">Store</a>
 		</strong>
 		<strong class="dotted orange">
 			<a href="http://www.newgrounds.com/primer">About Newgrounds</a> |
@@ -406,7 +428,7 @@
 		</strong>
 		<strong class="dotted red">
 			<a href="http://www.newgrounds.com/staff">The Staff</a> |
-			<a href="http://www.newgrounds.com/store/">NG Store</a> |
+			<a href="http://www.newgrounds.com/ngmag/">NG Mag</a> |
 			<a href="http://www.newgrounds.com/link">Link to Us!</a> |
 			<a href="http://www.newgrounds.com/submit">Submit Content!</a> |
 			<a href="http://www.newgrounds.com/feeds/rss/">RSS</a>
