@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphaimports.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615163305id_/http%3A//www.alphaimports.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphaimports.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080501id_/http%3A//www.alphaimports.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - check the privacy
 
@@ -39,58 +39,9 @@ If a user’s personally identifiable information changes (such as zip code, pho
 **Choice/Opt-out**  
 Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to remove in the subject line in the email or email us at : support [at] alphaimports.com (or the user may contact us at to opt-out.)  
   
-  Sunday 15 June, 2008   |   6235923 requests since Saturday 15 May, 2004    
----|---  
+[](https://www.paypal.com/us/verified/pal=orders@alphaimports.com)   
   
-Quick Help Links
-
-  
-[**Customer Service Center**](http://www.alphaimports.com/help.html)  
-[Return Policy](http://www.alphaimports.com/help/return-policy.html)  
-[Drop Shipping](http://www.alphaimports.com/help/drop-shipping.html)  
-[Delivery Date Finder](http://www.alphaimports.com/tracking.php)  
-[Volume discount](http://www.alphaimports.com/help/volume-discount.html) | 
-
-Website Features
-
-  
-[Help](http://www.alphaimports.com/help.html)  
-[Wish List](http://www.alphaimports.com/wishlist_help.php)  
-[Have Product To Sell ?](http://www.alphaimports.com/sellrequest.php)  
-[FAQ](http://www.alphaimports.com/faq.php?cID=2)  
-[Rewards](http://www.alphaimports.com/my_points_help.php)  
-[Jobs / Careers](http://www.alphaimports.com/help/careers.html) | 
-
-Find Products
-
-  
-[By Search](http://www.alphaimports.com/advanced_search.php)  
-[By Site Map](http://www.alphaimports.com/help/sitemap.html)  
-[Subscribe To Alpha Bargains](http://www.alphaimports.com/getoffers.php)  
-| 
-
-Product Information 
-
-  
-[Learning Center](http://www.alphaimports.com/help/learning-center.html)  
-[Expert Advice](http://www.alphaimports.com/expertadvice.php)  
-[E-catalog](http://www.alphaimports.com/askforcatalog.php)  
-[Quality score chart](http://www.alphaimports.com/help/quality-score-chart.html) | 
-
-Subscribe
-
-  
-[Ask For Catalog](http://www.alphaimports.com/askforcatalog.php)  
-[Join Our Alpha Club](http://www.alphaimports.com/alphaclub.php)  
-[Get News Letter](http://www.alphaimports.com/newsletters.php)  
-  
----|---|---|---|---  
-  
-All our colored gemstones, except Tsavorite, Garnet etc., are "E" (Enhanced) and/or "T" (Treated). In general, some of the enhancement methods used are heating, oiling, filling, with resin agents etc. Some of the treatment methods used are coating, diffusion, dyeing, joban oil, glass filling, irradiation, lasering, etc. We do not know the methods used prior to our purchase from the suppliers since each country uses different methods. If required, we may send the Gemstone(s) to a Gem laboratory for more information prior to your purchase.Products shown are subject to availability.Alphaimports.com is not responsible for and need not honor typographical or pricing errors on the site.  
-****All Diamond weight(s) shown in fractions in this website are approximate, with the following weight tolerance: ¼ ct. 0.23-0.27, 1/3 ct. 0.31-0.35, ½ ct.0.48-0.52, ¾ ct.0.73-0.77.** **  
-All Contents © 2008 Alpha Imports NY Inc., All Rights Reserved. [_PRIVACY POLICY_](http://www.alphaimports.com/help/privacy-policy.html) [_TERMS AND CONDITIONS_](http://www.alphaimports.com/help/terms-and-conditions.html)  
-You may not distribute, modify, display, or sell copies of this work to members of the public without the copyright owner’s permission.   
-All of our products are bought as close outs from manufacturers and we describe them on our web site as it was disclosed to us. The Alphaimports.com website and the products and services offered therein are provided "as is" and without warranty of any kind. For any reason if you are not satisfied with the product we have full refund policy. [More...](http://www.alphaimports.com/help/terms-and-conditions.html)
+[ ](http://www.gia.edu/about/10876/linking_to_gia_disclaimer.cfm)
 
   
 
