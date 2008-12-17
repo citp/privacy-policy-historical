@@ -1,16 +1,27 @@
-> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622212111id_/http%3A//www.oh-barcelona.com/en/priv_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217150525id_/http%3A//www.oh-barcelona.com/en/priv_statement) for the most accurate reproduction.*
 
 # Privacy statement of Open House Spain S.L.
 
-## Open House Spain, S.L. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.oh-barcelona.com. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+| 
 
-Open House Spain, S.L. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.oh-barcelona.com. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If users have questions or concerns regarding this statement, they should first contact Jörg Lahmann by  
-Phone: +34 93 302 0379  
-Fax : + 34 93 304 2434  
+Open House Spain, S.L. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.oh-barcelona.com. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  If users have questions or concerns regarding this statement, they should first contact Jörg Lahmann by:
+
+Phone: +34 93 467 37 79  
+Fax : + 34 93 467 37 62  
+Email: 
+
+[_info@oh-barcelona.com_](mailto:info@oh-barcelona.com)
+
 Postal Address: Open House Spain, S.L.  
-Avda. Portal del Angel 42, 4b   
-08002 Barcelona  
+Roger de Lluria 50, 1  
+08009 Barcelona  
 SPAIN
+
+If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process ([ _http://www.truste.org/consumers/watchdog_complaint.php_](http://www.truste.org/consumers/watchdog_complaint.php)).TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+
+**This statement was last updated on 25/05/2007**
+
+Open House Spain S.L. is the sole owner of the information collected on the oh-barcelona.com website. Acceding to present privacy policies, OPEN HOUSE SPAIN, S.L. would like to inform users of its web, in accordance with Regulation 15/1999 of 13 Decemeber 1999 of the Protection of Information of Personal Stature, about our policy of protection of personal information.
 
 ** PRIVACY STATEMENT - accommodation bookings in Barcelona**
 
@@ -51,7 +62,8 @@ Personal information is used only to realize the services offered on our website
 **Profile**  
 We store information that we collect through log files to create a profile of our users. A profile is stored information that we keep on the entirety of our users that details their viewing preferences. Consequently, collected information is not tied to the users personally identifiable information. We do not share our customer profile with other third parties. We do store the personal information of our customers in order to process our customer`s requests. We provide customer`s personal information, such as name, e-mail, address, but not credit card data or other payment related data, to third parties. These are exclusively our contracting partners who own the accommodations we offer for rent on our website, as well as our contracted language schools. No other third parties are informed about our customers or of our customer`s personal data.   
 **Cookies**  
-A cookie is a piece of data stored on the user`s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use session ID cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. No user information is passed from our website to any other website.   
+A cookie is a piece of data stored on the user`s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use session ID cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. No user information is passed from our website to any other website. We don´t use long term cookies.
+
 **Third Party Advertising**  
 No other third parties advertise on our website.   
 **Log Files**  
@@ -60,8 +72,7 @@ Like most standard Web site servers we use log files. This includes internet pro
 Personal information may be shared or disclosed to government agencies or agents pursuant with judical orders, governement regulation and / or court issued supoenas.  
 For technical reasons this data will be delt with by our server located in the United States of America. The user specifically consents the transfer of his information to fulfill this purpose.
 
-**1 bedroom apartment  
-\- in the city-centre**
+**Communications from the Site**
 
 * * *
 
@@ -77,7 +88,7 @@ We communicate with users on a regular basis to provide requested services and w
 
 * * *
 
-We send an evaluation / follow up email to clients who have booked an apartment after they have left their accommodation. Users who do not wish to receive a follow-up email, as part of our customer service policy, on the day of departure from their accommodation rental please contact us by email (marketing2@oh-barcelona.com). You can also opt-out by calling us at phone: +34 93-3040567. Open House Spain does not share personal information with 3rd parties except property owners in the case of accommodation bookings and language schools in the case of language course bookings. As such the Opt in / Opt out option is only for our follow up communication.
+We send an evaluation / follow up email to clients who have booked an apartment after they have left their accommodation. Users who do not wish to receive a follow-up email, as part of our customer service policy, on the day of departure from their accommodation rental please contact us by email (marketing2@oh-barcelona.com). You can also opt-out by calling us at phone: +34 93 467 37 82. Open House Spain does not share personal information with 3rd parties except property owners in the case of accommodation bookings and language schools in the case of language course bookings. As such the Opt in / Opt out option is only for our follow up communication.
 
 **Links**
 
@@ -126,10 +137,10 @@ Contact Information**
 If users have any questions or suggestions regarding our privacy policy, please contact us at: 
 
 Contact person: Jörg Lahmann  
-Phone: +34 93-3020379  
-Fax: + 34 93 304 2434  
+Phone: +34 93 467 37 79  
+Fax: +34 93 467 37 62  
 Email: lahmann@oh-barcelona.com  
 Postal Address: Open House Spain, S.L.  
-Avda. Portal del Angel 42, 4b  
-08002 Barcelona  
-SPAIN 
+Roger de Lluria 50, 1  
+08009 Barcelona  
+SPAIN
