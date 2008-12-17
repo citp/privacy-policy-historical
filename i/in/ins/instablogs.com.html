@@ -1,68 +1,191 @@
-<!--The following is the downloaded HTML source of the instablogs.com privacy policy that was archived on 2007-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226173953id_/http%3A//instablogs.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the instablogs.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217013854id_/http%3A//www.instablogs.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 <title>Instablogs - Privacy Policy</title>
-<link rel="stylesheet" type="text/css" href="/css/common.css" title="Common">
   
 <style type="text/css">
-  @import url(/css/header.css);
-  @import url(http://www.instablogs.com/css/body-large.css); 
-  @import url(/css/right.css);
-  @import url(/css/footer.css);
-  @import url(/css/form.css);
+  @import url(/css/common.css);
+  @import url(/css/static.css);
 </style>
+
+<script type="text/javascript" src="/js/yui.js"></script>
+<script type="text/javascript" src="/js/ibn_common.js"></script>
+<script type="text/javascript" src="/js/effects-min.js"></script>
 </head>
 <body>
-<!-- TOP NAV DIV STARTS-->
-<div class="top-bg">
-	<span class="top-nav">
-		<a href="http://www.instablogs.com">Home</a> | <a href="http://www.instablogs.com/help.php">Help</a>
-	</span>
- 
-	<span class="top-nav-right"> 	</span>
-</div>
 
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<script type="text/javascript" src="http://yui.yahooapis.com/2.5.1/build/container/container-min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.5.1/build/container/assets/skins/sam/container.css">
+	<script type="text/javascript">
+	new YAHOO.widget.Tooltip("prashant", { context:"t1", text:"How Instablogs Works?" });
+	new YAHOO.widget.Tooltip("prashant", { context:"t2", text:"Catch up with the latest activity" });
+	new YAHOO.widget.Tooltip("prashant", { context:"t3", text:"See all newly submitted stories" });
+	new YAHOO.widget.Tooltip("prashant", { context:"t4", text:"Track activity of your favorites. Stay connected" });
+	new YAHOO.widget.Tooltip("prashant", { context:"t5", text:"Top Members" });
+	new YAHOO.widget.Tooltip("prashant", { context:"t6", text:"Manage your Account settings" });
+	new YAHOO.widget.Tooltip("prashant", { context:"t7", text:"Share interesting stories online" });
+	new YAHOO.widget.Tooltip("prashant", { context:"t8", text:"Be a Newsmaker. Get Published." });
 
-<!-- TOP NAV DIV ENDS-->
-<div id="header">
-	<span id="logo"><a href="http://www.instablogs.com"><img src="/site-img/insta-logo.gif" border="0" alt=""></a><br></span>
+	function check()
+	{
+		var type =document.getElementById('type').value;
+		var str = document.getElementById('nav-search').value;
+		if(str!='')
+		{
+		var str = str.toLowerCase();
+		var reg = str.replace(/^\s+|\s+$/g, '');
+		for(var i=0;i<=3; i++)
+		{
+		var reg = reg.replace(/\s+/,'-');
+		}
+		if(type=='tags')
+			window.location='http://www.instablogs.com/' + reg + '/';
+		if(type=='text')
+			window.location='http://www.instablogs.com/search.php?q=' + document.getElementById('nav-search').value;
+		if(type=='image')
+			window.location='http://www.instablogs.com/search.php?q=' + document.getElementById('nav-search').value + '&type=images';
+		}
+	}
+
+	function update_phoneno(UserID)
+	{
+		var div = document.getElementById('show-phone-no');
+		var phone_no = document.getElementById('v_user_phone_no').value;
+		var phone_isd = document.getElementById('v_user_phone_isd').value;		
+
+		var postdata ='user_id=' + UserID + '&phone_no=' + phone_no + '&phone_isd=' + phone_isd;
+		div.innerHTML = '<div style="padding-top:50px"><center>Please wait...</center></div>';
 	
-</div>
-<!-- HEADER DIV STARTS-->
+		var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
+		var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML=  o.statusText;}}
+		var Callback ={success:handleSuccess,failure: handleFailure};
 
-<!-- HEADER DIV ENDS-->
+		var request = YAHOO.util.Connect.asyncRequest("POST", '/update_phone_no.php', Callback, postdata);			
+	}
 
-<!-- WHOLE CONTENT DIV STATS-->
-<div id="container">
-	<!-- LEFT CONTENT DIV STARTS-->
-	<div id="content">
-		<!-- css tabs starts -->
-		<div id="tab">
-		  <ul>
-		   <li><a href="javascript:void(0)">Privacy Policy</a></li>  			  
-		</ul>
-		</div>
-		<!--css tabs ends -->
+	</script>
 
-		<!-- LEFT POST CONTENT DIV STARTS-->
-		<div class="left">
-			<div class="sub-tabs">				
+<div class="clear"></div>
+
+	<div class="main-container">
+	<div id="header">
+		<div id="top-nav-1">
+			<div id="search">
+					<select id="type" class="search-sel">
+						<option value="tags" selected="selected">Tags</option>
+						<option value="text">Text</option>
+						<option value="image">Images</option>
+					</select>
+				<input id="nav-search" name="q" value="" type="text" onkeypress="{if (event.keyCode==13)check()}">
+				<input type="button" name="submit" value="Go" onclick="check()">
+				
 			</div>
-			
-		    <!-- EXP. CATEGORIES DIV STARTS-->
-			<br>
-			
-			<!-- EXP. CATEGORIES DIV ENDS-->
-			<!-- POST DIV STARTS-->
-			<div class="unpublished">
+							<a class="toplink" href="http://www.instablogs.com/"><img class="home-img" src="/css-img/home.gif">Home</a>
+				<a class="toplink" href=""></a>|
+				<a class="toplink" href="http://blog.instablogs.com/">Official Blog</a>|	
+				<a class="toplink" href="http://www.instablogs.com/download_widget.php">Tools/widgets</a>|
+				<a class="toplink" href="http://www.instablogs.com/tour">Take a Tour</a>|
+
+				<!-- <a class="toplink" href="javascript:toggle_simple('drop-login')">Edit Tracker</a>|
+				<a class="toplink" href="javascript:toggle_simple('drop-login')">Manage Friends</a>|
+				<a class="toplink" href="javascript:toggle_simple('drop-login')">Explore Comments</a>|
+				<a class="toplink" href="javascript:toggle_simple('drop-login')">Manage Account</a>|-->
+				<a href="javascript:toggle_simple('drop-login')" class="cut-arrow">Admin</a>
+
+				&nbsp; | <a class="toplink" href="http://www.instablogs.com/phip/">PHIP (New)</a>
+				
+					</div>
+	
+		<div id="top-nav-2">
+
+			<div id="login">
+									<img src="/css-img/login.gif">
+					<span><a href="javascript:toggle_simple('drop-login')">Login</a>|
+					<span><a href="/register.php">Register</a>
+							</span></span></div>
+
+							<a href="http://www.instablogs.com/all/">All</a>|
+							<a href="http://www.instablogs.com/business/">
+					Business				</a>|
+							<a href="http://www.instablogs.com/technology/">
+					Technology				</a>|
+							<a href="http://www.instablogs.com/environment/">
+					Environment				</a>|
+							<a href="http://www.instablogs.com/health-fitness/">
+					Health &amp; Fitness				</a>|
+							<a href="http://www.instablogs.com/lifestyle/">
+					Lifestyle				</a>|
+							<a href="http://www.instablogs.com/entertainment/">
+					Entertainment				</a>|
+							<a href="http://www.instablogs.com/travel/">
+					Travel				</a>|
+							<a href="http://www.instablogs.com/politics-society/">
+					Politics &amp; Society				</a>|
+							<a href="http://www.instablogs.com/sports/">
+					Sports				</a>|
+							
+		</div>
+		<div class="drop-login" id="drop-login" style="display:none;"><style type="text/css">
+  @import url(/css/drop_login.css);
+</style>
+	
+<div class="drop-inner-login">
+	<div class="x-close"><a href="javascript:toggle_simple('drop-login')">X</a></div>
+	<form name="LoginSubmitForm" id="loginform" action="http://www.instablogs.com/login.php" method="post" onsubmit="return checkFormData()">
+	<div class="login-left">
+	<div class="dd4">Already a member?</div>
+		<div class="dd1">Username</div>
+		<div class="dd2"><input type="text" id="v_login" name="v_login" class="input1" value=""></div>
+		<div class="dd1">Password</div>
+		<div class="dd2"><input type="password" id="v_pass" name="v_pass" class="input1"></div>
+		 <span class="dd4"></span>			<div class="l-submit">
+				<input type="submit" class="d-button" value="Login" name="login">
+			</div>
+			<div class="dd3">
+				<a href="forgot_password.php">Forgot Password?</a>
+			</div>
 		
-		<h1><u>Instablogs - Privacy Policy</u></h1><br>
+	</div></form>
+	<div class="login-right">
+		<div class="dd4">
+		<span class="nt-mem">Not a member?</span><br>
+		<a href="http://www.instablogs.com/register.php" class="d-button">Join Now</a><br><br><br>
+		It's quick and easy
+		</div>
+	</div>
+</div><!-- EOF main-login-->
 
-		<h1>About Instablogs Community</h1>
+<div class="clear"></div></div>
+	</div><!-- EOF header -->
+		<div id="container-bg">
+		<div id="container">
+		<div id="insta-logo">
+			<a class="logo-link" href="http://www.instablogs.com"><img src="/css-img/insta-logo.gif" class="logo"></a>
+			<div class="top-ad" style="padding-left:5px;">
+				
+<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318102505&amp;adSize=728x90"></script>
+				<!-- <a href="http://www.instablogs.com"><img src="/css-img/ad.gif"></a> -->
+			</div>
+			<div class="clear"></div>
+							<div class="top-bar">
+					<a id="t7" class="bar7 bar0" href="javascript:toggle_simple('drop-login')">Submit Newslink</a>  ::
+					<a id="t8" class="bar8 bar0" href="javascript:toggle_simple('drop-login')">Write Article</a>  ::
+					<a id="t2" class="bar2 bar0" href="http://www.instablogs.com/live/">Live</a>  ::
+					<a id="t3" class="bar3 bar0" href="http://www.instablogs.com/upcoming/">Upcoming</a>  ::
+					<a id="t4" class="bar4 bar0" href="javascript:toggle_simple('drop-login')">Tracker</a>  ::
+					<a id="t5" class="bar5 bar0" href="http://www.instablogs.com/community/">Community</a>  ::
+					<a id="t6" class="bar6 bar0" href="javascript:toggle_simple('drop-login')">Admin Panel</a>  ::
+					<a id="t1" class="bar1 bar0" href="http://www.instablogs.com/tour/">Help</a>
+				</div>
+						</div>
 
-
+		<div class="clear"></div><div class="term">
+<h1><u>Instablogs - Privacy Policy</u></h1><br>
+<h1>About Instablogs Community</h1>
 Instablogs Community is an online community of writers,
 bloggers, reporters and online Journalists. The Instablogs Network, launched as
 blog network, has evolved into a social network of people interested in
@@ -301,84 +424,77 @@ India<br><br>
 91-11-55476411<br><br>
 
 91 -177-6450126<br><br>
-
-		
-			</div>
-			<!-- POST DIV ENDS-->
-
-		</div>
-		<!-- LEFT POST CONTENT DIV ENDS-->
-	</div>
-	<!-- LEFT CONTENT DIV ENDS-->
-
-	<!-- SIDEBAR DIV STARTS-->
-   <!-- SIDEBAR DIV ENDS-->
-</div>
-<!-- WHOLE CONTENT DIV ENDS-->
-
-<div id="footer-bg"> 
-
-	<div>
-		<h4><a href="http://www.instablogs.com" class="footer-heading">Reading Room</a></h4>
-		<ul>
-			<li><a href="http://www.instablogs.com" class="footer-links">Home</a></li>
-			<li><a href="http://www.instablogs.com/popular/" class="footer-links">Popular</a></li>
-			<li><a href="http://www.instablogs.com/latest/" class="footer-links">Latest</a></li>
-			<li><a href="http://www.instablogs.com/live/" class="footer-links">Live</a></li>
-			<li><a href="http://www.instablogs.com/index/" class="footer-links">Tags</a></li>
-			<li><a href="http://www.instablogs.com/archives.php" class="footer-links">Archives</a></li>
-		</ul>
-	</div>
-
-	<div>
-		<h4><a href="http://www.instablogs.com/newsdesk/" class="footer-heading">NewsRoom</a></h4>
-		<ul>
-			<li><a href="http://www.instablogs.com/newsdesk/" class="footer-links">Newsdesk</a></li>
-			<li><a href="http://www.instablogs.com/add_story.php" class="footer-links">Submit Story</a></li>
-			<li><a href="http://www.instablogs.com/add_new_lead.php" class="footer-links">Submit NewsLink</a></li>
-		</ul>
-	</div>
- 
-	<div>
-		<h4><a href="http://www.instablogs.com/community/" class="footer-heading">Community</a></h4>
-		<ul>
-			<li><a href="http://www.instablogs.com/community/" class="footer-links">Members</a></li>
-		</ul>
-	</div>
-
-				<div>
-				<h4><span class="footer-heading">MyBlog</span></h4>
-				<ul>
-					<li><span class="footer-heading">Blog</span></li>
-					<li><span class="footer-heading">Friends</span></li>
-					<li><span class="footer-heading">Profile</span></li>
-					<li><span class="footer-heading">History</span></li>
-					<li><span class="footer-heading">Admin</span></li>
-					<li><span class="footer-heading">Inbox</span></li>
-				</ul>
-			</div>
-				
-	<div>
-		<h4><span class="footer-heading">Explore</span></h4>
-		<ul>
-			<li><a href="http://www.instablogs.com/contact-us.php" class="footer-links">Contact Us</a><br>
-			</li><li><a href="http://www.instablogs.com/support.php" class="footer-links">Support</a><br>
-			</li><li><a href="http://www.instablogs.com/tour/" class="footer-links">Take a Tour</a><br>
-			</li><li><a href="http://www.instablogs.com/post1.php" class="footer-links">Posting Guidelines</a><br>
-			</li><li><a href="http://www.instablogs.com/faq.php" class="footer-links">FAQs</a></li>			
-			<li><a href="http://www.instablogs.com/feeds/" class="footer-links">Feeds</a>
-			<br><a href="/feeds/"><img src="/site-img/rss.gif" border="0"></a></li>
-		</ul>
-	</div>
-
-<div class="clear"> </div>
-
 	
-</div> <!-- end of footer-bg-->
+</div>			
+	<div class="clear"></div>
+		<div class="clear"> </div>
+	<div class="help-faq">
+		<div class="faq"><a target="_blank" href="http://www.instablogs.com/tour/">FAQ / Help</a></div>
+		<div class="move"><a style="cursor:pointer" onclick="window.scrollTo(0,0)" title="Move to top">Move to top</a></div>
+	</div>
+	</div><!-- EOF container -->
+	</div><!-- EOF container-bg -->
+	<div id="footer">
+		<div class="single-div">
+			<h4><a target="_blank" href="http://www.instablogs.com" class="footer-heading">Reading Room</a></h4>
+			<ul>
+				<li><a target="_blank" href="http://www.instablogs.com" class="footer-links">Home</a></li>
+			</ul>
+		</div>
 
-<div id="footer-bg-curve">
-		<div class="footer"><b>© Copyright 2006 Instablogs. All Rights Reserved. <a href="/privacypolicy.php">Privacy Policy</a> and <a href="/termsofuse.php">Terms of Use</a>.</b></div>
-</div>
+		<div class="single-div">
+			<h4><a target="_blank" href="http://www.instablogs.com" class="footer-heading">Quick Links</a></h4>
+			<ul>
+				<li><a target="_blank" href="http://www.instablogs.com/upcoming/" class="footer-heading">Upcoming</a></li>
+				<li><a target="_blank" href="http://www.instablogs.com/write_article.php" class="footer-links">Submit Story</a></li>
+				<li><a target="_blank" href="http://www.instablogs.com/submit.php" class="footer-links">Submit NewsLink</a></li>
+				<li><a target="_blank" href="http://www.instablogs.com/ad_solutions.php" class="footer-links">Advertise With Us</a></li>
+			</ul>
+		</div>
+	 
+		<div class="single-div">
+			<h4><a target="_blank" href="http://www.instablogs.com" class="footer-heading">Community</a></h4>
+			<ul>
+				<li><a target="_blank" href="http://www.instablogs.com/live/" class="footer-links">Instablogs Live</a></li>
+			</ul>
+		</div>
+
+						<div class="single-div">
+					<h4><span class="footer-heading">MyBlog</span></h4>
+					<ul>
+						<li><span class="footer-heading">Friends</span></li>
+						<li><span class="footer-heading">Account</span></li>
+						<li><span class="footer-heading">Tracker</span></li>
+						<li><span class="footer-heading">Inbox</span></li>
+					</ul>
+				</div>
+						
+		<div class="single-div">
+			<h4><span class="footer-heading">Explore</span></h4>
+			<ul>
+				<li><a target="_blank" href="http://www.instablogs.com/tour/" class="footer-links">Take a Tour</a><br>
+				</li><li><a target="_blank" href="http://www.instablogs.com/tour/" class="footer-links">FAQs</a></li>			
+				<li><a target="_blank" href="http://www.instablogs.com/feed/" class="footer-links">Feeds</a>
+				</li><li><a target="_blank" href="http://press.instablogs.com/" class="footer-links">Press</a></li>
+				<li><a target="_blank" href="http://www.instablogs.com/contact-us.php" class="footer-links">Contact Us</a></li>
+				<br><a target="_blank" href="http://www.instablogs.com/feed/"><img src="/site-img/rss.gif" border="0"></a>
+			</ul>
+		</div>
+
+		<div class="copyright"><b>© Copyright 2008 Instablogs. All Rights Reserved. <a target="_blank" href="http://www.instablogs.com/privacypolicy.php">Privacy Policy</a> and <a target="_blank" href="http://www.instablogs.com/termsofuse.php">Terms of Use</a>.</b></div>
+
+		<div class="clear"> </div>
+	</div><!-- EOF footer -->
+</div><!-- EOF main-container -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-601944-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 
 <!-- Start of StatCounter Code Community-->
 <script type="text/javascript" language="javascript">
@@ -389,8 +505,36 @@ var sc_security="961d0943";
 var sc_remove_link=1; 
 </script>
 
-<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><img  src="http://c19.statcounter.com/counter.php?sc_project=2040913&java=0&security=961d0943&invisible=0" alt="website metrics" border="0"> </noscript>
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><img  src="http://c19.statcounter.com/counter.php?sc_project=2040913&java=0&security=961d0943&invisible=0" alt="website metrics" border="0"></noscript>
 <!-- End of StatCounter Code -->
 
+<!-- Start of StatCounter Code Network 0-->
 
+<script type="text/javascript" language="javascript">
+var sc_project=2497465; 
+var sc_invisible=1; 
+var sc_partition=23; 
+var sc_security="77633a20";
+var sc_remove_link=1; 
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><img  src="http://c24.statcounter.com/counter.php?sc_project=2497465&java=0&security=77633a20&invisible=0" alt="blog counter" border="0"> </noscript>
+<!-- End of StatCounter Code -->
+
+		<!-- Start of StatCounter Code -->
+		<script type="text/javascript">
+		sc_project=3554799; 
+		sc_invisible=1; 
+		sc_partition=39; 
+		sc_security="24ebaefb"; 
+		sc_remove_link=1; 
+		</script>
+
+		<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><img class="statcounter" src="http://c40.statcounter.com/3554799/0/24ebaefb/1/" alt="free webpage hit counter" ></div></noscript>
+		<!-- End of StatCounter Code -->
+		
+
+
+
+	
 </body></html>
