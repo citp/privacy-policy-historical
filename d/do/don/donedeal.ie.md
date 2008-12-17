@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629105626id_/http%3A//www.donedeal.ie/donedeal/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045239id_/http%3A//help.donedeal.ie/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DoneDeal.ie
+# Privacy Policy | DoneDeal Help
 
 ## 1\. Introduction
 
@@ -54,7 +54,7 @@ Your Personal Data is held on secure servers hosted by our Internet Service Prov
 
 ## 7\. Updating, Verifying and Deleting Personal Data
 
-You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Legislation we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please use [this form](https://web.archive.org/donedeal/support/contact.jsp).
+You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Legislation we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please use [this form](https://web.archive.org/contact).
 
 ## 8\. Changes to the Website Privacy Policy
 
@@ -62,10 +62,4 @@ Any changes to this Website Privacy Policy will be posted on this website so you
 
 ## 9\. Questions or Comments
 
-If you have any questions, concerns, comments or complaints about this Privacy Policy and/or our collection or use of personal information, or if you wish us to stop processing your personal information for any particular purpose or purposes, then please [contact us](https://web.archive.org/donedeal/support/contact.jsp), or send a letter to DoneDeal.ie, 69 Clonard Village, Clonard, Wexford, Ireland.
-
-## Related Documents
-
-[Copyright Notice & Legal Disclaimer](https://web.archive.org/donedeal/legal/index.jsp)
-
-[Advertising Terms & Conditions](https://web.archive.org/donedeal/legal/advertisingTerms.jsp)
+If you have any questions, concerns, comments or complaints about this Privacy Policy and/or our collection or use of personal information, or if you wish us to stop processing your personal information for any particular purpose or purposes, then please [contact us](https://web.archive.org/contact), or send a letter to DoneDeal.ie, 69 Clonard Village, Clonard, Wexford, Ireland.
