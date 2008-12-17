@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texanscu.org privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416121112id_/http%3A//www.texanscu.org/Security_Privacy.aspx%3FServicesNavId%3D75%26id%3D515) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texanscu.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114147id_/http%3A//www.texanscu.org/Security_Privacy.aspx%3FServicesNavId%3D75%26id%3D515) for the most accurate reproduction.*
 
 # 
 
