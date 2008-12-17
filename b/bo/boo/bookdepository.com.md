@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookdepository.com privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504160539id_/http%3A//www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php%3FID%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookdepository.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082854id_/http%3A//www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php%3FID%3D16) for the most accurate reproduction.*
 
-# The Book Depository - Cheap books with free delivery worldwide !!!
+# The Book Depository - Cheap books with free delivery worldwide
 
 **Privacy Policy**
 
