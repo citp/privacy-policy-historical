@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the soft112.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603183222id_/http%3A//www.soft112.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft112.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080142id_/http%3A//www.software112.com/policy.php) for the most accurate reproduction.*
 
-# Download Shareware and Freeware Programs at SOFT 112
+# Privacy Policy at SOFTWARE 112
 
-| [](https://web.archive.org/) | SOFTWARE 112  
-   
-Software-A-Holic's Favorite Website |   |  Advertisement   
----|---|---|---  
-|   
----  
-  
+|  |   | 
+
 |   
 ---  
 Softland SRL ("SOFTLAND") is dedicated to making your online experience as interesting and enjoyable as possible. We truly appreciate your presence on our sites and at all times understand that you are our guest and should be treated accordingly. To ensure this, we have listed the components of our Privacy Policy below.  
@@ -35,4 +30,4 @@ SOFTLAND knows that your privacy is very important to you and we respect that. W
   
    
    
-| 
+ 
