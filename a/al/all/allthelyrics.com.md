@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthelyrics.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612202303id_/http%3A//www.allthelyrics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthelyrics.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063509id_/http%3A//www.allthelyrics.com/privacy.htm) for the most accurate reproduction.*
 
 # AllTheLyrics.com Privacy Policy
 
