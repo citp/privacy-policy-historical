@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623065158id_/http%3A//www.justfreestuff.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217232659id_/http%3A//www.justfreestuff.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -63,4 +63,5 @@ Chicago, Illinois. 60634-1563
 
 All materials Copyright © by Just Free Stuff 1997-2008  
 Please read our [Disclaimer](https://web.archive.org/privacy.php) and/or [Privacy Policy](https://web.archive.org/privacy.php)  
-regarding your personal information.
+regarding your personal information.  
+
