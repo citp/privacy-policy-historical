@@ -1,0 +1,25 @@
+> *The following text is extracted and transformed from the pitbullpoker.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053006id_/http%3A//www.pitbullpoker.com/poker/about/about_privacy.jsp) for the most accurate reproduction.*
+
+# Privacy Policy | About Us | Pitbull Poker
+
+| Privacy  
+---  
+Your satisfaction and security is our main concern at PitbullPoker. With a growing concern for the protection of your personal information on the internet, PitbullPoker fully ensures that all your information be kept under strict confidentiality. We are committed to maintaining the confidentiality of your personal information collected by us in order to allow you to enjoy playing poker online a PitbullPoker. By safeguarding your information we have utilized the best in class software and hardware architecture, techniques, methods, and procedures. 
+
+The main purpose of the PitbullPoker privacy policy is to enable you to fully understand how we collect, store, use, and safeguard information relating to you and your account. Also, it is our concern that you completely recognize your rights in relation to that information. This is also to guide you in making informed decisions when using our products and services. We at PitbullPoker are committed to offering the highest-quality online poker experience combined with the best level of integrity in dealing in the company of our players. 
+
+What Information Do We Collect?  
+When entering the PitbullPoker website, you will be asked to provide us several categories of your personal information. This information is mandatory in order for you to login and will absolutely be held with full confidentiality. We will ask you for your legitimate personal information that will include: your name, mailing address, email address, telephone, and other information to help identify how you discovered PitbullPoker. PitbullPoker is focused on making your online experience easy and enjoyable, if you chose to communicate with us using email we may keep the content of your email messages associated with your email address and our responses to your inquiries under strict confidentiality. It should be noted that if you chose to explore our information system through telephone of mail, the same protection rules apply as the electronic communications. Once you are registered with PitbullPoker you are assigned a personal Internet Protocol (IP) address, which can be used to help recognize you, to track you activities within our servers and to gather broad demographic information. The purpose for the IP address for us is to help identify potential problems with our servers and games, as well as to administer our website. The IP address may also be used to prevent fraud and collusion. 
+
+How Do We Use The Information That We Collect?  
+PitbullPoker is genuinely concerned with customer satisfaction while exploring our site. To make your online experience more enjoyable at PitbullPoker, we gather your personal information in order to provide top quality customer service and to administer our business activities. Another use for your personal information collected would be to inform you about important changes to our website, new customer services, and special offers that we believe that you will be glad to be acknowledged about. It should be noted that your personal information may also be shared with our affiliates, subsidiaries, and/or agents for technical support and to process transactions you initiate and deliver the products and services you purchase. Our guarantee to you as a poker player at PitbullPoker, you will always be granted the opportunity to notify us of your desire not to receive these offerings. 
+
+How Do We Secure Information Transmissions?  
+Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. All of the communications between the PitbullPoker servers in Costa Rica and the client program running on your computer are encrypted using the internationally accepted industry standard SSLv3/TLSv1 encryption algorithm. It will be reassuring for you to recognize that your personal information, your account information, and any transaction information will protected at the same level of security that a bank would use! Also you will feel secure to identify that our business practices limit employee access to your confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions. 
+
+Changes to This Agreement  
+As an acting customer to PitbullPoker you are entitled to identify changes to this Privacy Agreement may be deemed necessary through PitbullPoker and will be made rarely. In such occurrence, PitbullPoker will update this web page as published here within reasonable time.   
+  
+Questions?
+
+If you have any questions, please contact our 24/7 [Customer Support Team](https://web.archive.org/poker/help/index.jsp).
