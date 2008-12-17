@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmi-calculator.net privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609040342id_/http%3A//www.bmi-calculator.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmi-calculator.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065039id_/http%3A//www.bmi-calculator.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
