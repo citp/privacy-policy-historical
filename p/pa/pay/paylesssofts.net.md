@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paylesssofts.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509040632id_/http%3A//www.paylesssofts.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylesssofts.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050449id_/http%3A//www.paylesssofts.net/privacy.php) for the most accurate reproduction.*
 
 # Shorten your links
 
