@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfaltzgraff.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512150627id_/http%3A//www.pfaltzgraff.com/mainsubpages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfaltzgraff.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090733id_/http%3A//www.pfaltzgraff.com/mainsubpages/privacy.asp) for the most accurate reproduction.*
 
 # Pfaltzgraff Privacy Policy
 
@@ -56,9 +56,9 @@ Yes, we do. Secure Socket Layer (SSL) technology is the gold standard in Interne
   
 **As this site continues to expand and offer more products and services, we will update this Privacy Policy. We will post the changes on this page, so you will always be aware of what information we collect, and how we use it.
 
-[Links to all products](https://web.archive.org/web/20080512150627id_/http%3A//www.pfaltzgraff.com/mainsubpages/allproductspage.asp)   
-[Links to dinnerware essentials](https://web.archive.org/web/20080512150627id_/http%3A//www.pfaltzgraff.com/mainsubpages/dinnerwareessentials.asp)   
-[Links to popular queries](https://web.archive.org/web/20080512150627id_/http%3A//www.pfaltzgraff.com/mainsubpages/allqueries.asp)   
-[No matter how you spell it, Pfaltzgraff means quality](https://web.archive.org/web/20080512150627id_/http%3A//www.pfaltzgraff.com/mainsubpages/nomatter.asp)
+[Links to all products](https://web.archive.org/web/20081217090733id_/http%3A//www.pfaltzgraff.com/mainsubpages/allproductspage.asp)   
+[Links to dinnerware essentials](https://web.archive.org/web/20081217090733id_/http%3A//www.pfaltzgraff.com/mainsubpages/dinnerwareessentials.asp)   
+[Links to popular queries](https://web.archive.org/web/20081217090733id_/http%3A//www.pfaltzgraff.com/mainsubpages/allqueries.asp)   
+[No matter how you spell it, Pfaltzgraff means quality](https://web.archive.org/web/20081217090733id_/http%3A//www.pfaltzgraff.com/mainsubpages/nomatter.asp)
 
 **
