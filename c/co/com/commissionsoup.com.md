@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610094738id_/http%3A//www.commissionsoup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063452id_/http%3A//www.commissionsoup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CommissionSoup.com
 
@@ -29,7 +29,7 @@ This site contains links to other sites and we are not responsible for the priva
 
 **Section 4.** Your Opt-Out Rights 
 
-You may opt-out of receiving communications from us and or our partners when we request your information. We also allow you to remove your information from our database. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondences to you. You can remove your information by writing to us via postal mail at the address below, by sending an e-mail requesting removal to csservice@creditsoup.com, by visiting CommissionSoup and requesting your profile be deleted through our opt out procedures or by clicking here.
+You may opt-out of receiving communications from us and or our partners when we acquire your information. We also allow you to unsubscribe from our database. If you unsubscribe from our database, your information will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondences to you. You can unsubscribe by writing to us via postal mail at the address below, by sending an email requesting removal through our [contact form](https://web.archive.org/contact/ "Contact Us") or by entering your e-mail address on our [unsubscribe page](https://web.archive.org/Unsub/ "Unsubscribe"). 
 
 **Section 5.** Your Rights To Your Personal Data 
 
