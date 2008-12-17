@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623205712id_/http%3A//www.egreetings.com/new_warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054315id_/http%3A//www.egreetings.com/new_warrants.pd) for the most accurate reproduction.*
 
 # Find out more about Egreetings.com!
 
 | 
 
-## Last updated: May 2008
+## Last updated: November 2008
 
 ### GENERAL MATTERS
 
@@ -58,6 +58,24 @@ If you use our web site to send an eCard or any other content, we collect your e
 We try to personalize your experience on our web sites by tracking eCards and other content you have sent and gifts you have purchased in order to shape our recommendations about the eCards, games, and gifts that might be of interest to you. We also examine customer traffic patterns and web site usage to help us enhance the design and layout of the site and make it easier to navigate. 
 
 From time to time, we may send you surveys or solicit your feedback. We use surveys to gauge user interest in new products and premiums we may offer. We will ask for your feedback on eCards and other site features. We will use the information we gather to improve our sites and provide a more meaningful experience for our users. We may also use the information to alert you to offers and products in which you have expressed an interest. 
+
+#### The eGreetings Toolbar
+
+The Toolbar automatically sends only standard, limited information to AGCM, which may be retained in AGCM's server logs. It does not send any information about the web pages you visit (e.g., the URL).
+
+**GUIDs**
+
+Your copy of the eGreetings Toolbar includes a unique application number (a "GUID"). When you install the eGreetings Toolbar, this number and a message indicating whether the installation succeeded are sent back to eGreetings. Also, when the eGreetings Toolbar automatically checks to see if a new version is available, the current version number and the unique application number are sent to AGCM. The GUID is required for the eGreetings Toolbar to work and cannot be disabled. 
+
+We also tag each toolbar with a GUID, which tracks your activity and the search terms you insert into the toolbar. Again, this information is not tied to any personally identifiable information about you. 
+
+**Search Queries**
+
+The eGreetings Toolbar, in the course of processing a given search query, sends a request to our servers. This request includes the keyword query, time of day, browser type, default language setting, IP address, the GUID, and a code that identifies the marketing or distribution source of the toolbar used by you to conduct your search. If the search query is being generated as the result of a misspelled URL or search term entered in to the browser address bar, we also receive the misspelled URL address or search term. We use this information in order to properly process your search request. For example, this data provides us with: information on which language you prefer to use; aggregated click information for the purpose of ensuring that our search partners are appropriately compensating us; information that allows us to make accurate payments to our distributors; aggregated usage and retention information; and aggregated search query information for the purpose of further monetizing commercially oriented search keywords. **All information collected from a search query is recorded on a non-personally identifiable basis and is kept strictly anonymous.** In addition, all information about search activity is evaluated only on an aggregate basis (excepted in response to a customer service inquiry or legal process). 
+
+**Partnership with Microsoft**
+
+As a Microsoft Live partner, any personally identifiable information we collect will be jointly owned by eGreetings and Microsoft Corporation. For information about Microsoft Corporation's privacy practices go to the MSN privacy statement. 
 
 **Communications from Egreetings.com**
 
