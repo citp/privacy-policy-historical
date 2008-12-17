@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divinewrite.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524065811id_/http%3A//www.divinewrite.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinewrite.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025326id_/http%3A//www.divinewrite.com/Privacy.htm) for the most accurate reproduction.*
 
 # Advertising Copywriter, Website Copywriter, SEO Copywriter - Divine Write Copywriting
 
@@ -26,7 +26,7 @@ We use the personal information collected from you to:
 
   * provide you with information or services at your request; 
   * take purchase orders from you; 
-  * dispatch Products and/or Services to you pursuant to our [Terms](https://web.archive.org/web/20080524065811id_/http%3A//www.divinewrite.com/Terms.htm). 
+  * dispatch Products and/or Services to you pursuant to our [Terms](https://web.archive.org/web/20081217025326id_/http%3A//www.divinewrite.com/Terms.htm). 
   * register your contact details; and
   * establish and maintain our relationship with you; 
 
@@ -50,7 +50,7 @@ We may also disclose personal information to a party contracted to Divine Write 
 
 **Ensuring your personal information is up-to-date**
 
-We rely on personal information we hold about you to efficiently conduct our business of providing you with artwork purchased by you. Therefore, it is important that the personal information collected is accurate, complete and up-to-date. If you think we have incorrectly recorded your personal information please contact us so we can correct that information.
+We rely on personal information we hold about you to efficiently conduct our business of providing you with the products/services purchased by you. Therefore, it is important that the personal information collected is accurate, complete and up-to-date. If you think we have incorrectly recorded your personal information please contact us so we can correct that information.
 
 **Security of Your Personal Information**
 
@@ -107,7 +107,7 @@ Divine Write constantly reviews all its policies and procedures to keep up-to-da
 
 As a result we may change this Privacy Policy from time to time.
 
-This Privacy Policy was last amended 11 October, 2005.
+This Privacy Policy was last amended 14 August, 2008.
 
 **Concerns or requests for access?**
 
