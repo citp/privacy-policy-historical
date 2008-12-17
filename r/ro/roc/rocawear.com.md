@@ -1,0 +1,115 @@
+> *The following text is extracted and transformed from the rocawear.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122014id_/http%3A//www.rocawear.com/shop/privacy.php) for the most accurate reproduction.*
+
+# Rocawear Store
+
+PRIVACY POLICY
+
+eFashion Solutions, LLC ("eFS" or "us," "we" or "our"), operates this website (the "Site") on behalf of Iconix Brand Group, Inc ("Iconix"). This Privacy Policy sets forth our information practices and is a part of the Terms and Conditions of Use of this Site located . We encourage you to read this Privacy Policy carefully and to contact us if you have any questions. Your use of the Site indicates your acceptance of this Privacy Policy and any updates that are posted on the Site. 
+
+I. NOTICE OF OUR POLICY
+
+This Policy notifies you of, among other things: (i) what information we gather from you, (ii) how we may use or disclose that information, (iii) with whom the information may be shared, (iv) what choices are available to you regarding collection, use and distribution of the information, (v) our efforts to protect the information, and (vi) how you can correct any inaccuracies in the information you provide to us.
+
+II. WHAT TYPES OF INFORMATION ARE COLLECTED AND WHY
+
+a. Information submitted by you
+
+At times, we may ask you to provide information about yourself in order to better serve you. For example, some of the information collected may include name, title, address, phone number, email address, and personal information concerning your interests, occupation, gender and other demographic information. We do not require this information to obtain access to any area of our Site, however, you are required to create a new account or login as a registered user prior to ordering any products on our Site. In addition, we will ask you to submit payment information such as a credit card number and related information (i.e. billing and shipping addresses) in connection with purchases you make from the Site. If you wish to correct or remove your account information please follow the procedures set forth below in the section titled "Can I Update or Remove My Account Information?"
+
+b. Information collected by Cookies
+
+We also make use of website "cookies" to help you use our services more easily and to help us continuously improve our Site and our service to you. A "cookie" is a small data file that a website can send to your browser, which may then be stored on your computer to help our Site "remember" information about you to make it easier and more efficient to use our Site. Our Site employs session cookies. A session cookie does not remain on your computer after you close your web browser window. Our session cookies contain none of your personal information and cannot be used to track you around the internet. Our session cookies can only be used by this Site and they only exist for the duration of your visit. Depending on the settings in your browser, you may have the option to deny the session cookie; however, doing so may negatively impact upon the performance of the Site or restrict us in better serving your needs and interests. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+
+c. Policy on Information from Persons under the Age of 18
+
+We do not seek to collect personally identifiable information from persons under the age of 18. If you are under the age of 18, please do not submit any personally identifiable information to us. If you are the parent or guardian of a person under the age of 18 who has provided personally identifiable information to us, please inform us by contacting us at the email address or telephone number listed above and we will remove such information from our database. If you are concerned about your children's use of the Site, you may use web filtering technology to supervise or limit access to the Site.
+
+III. HOW IS MY INFORMATION USED?
+
+a. User Identification
+
+For our sites that offer user registration, we may retain this information on a secure server so that on re-visiting our Site, you will not need to re-enter that information. We may use this information in an aggregated form to measure number of visits, average time spent on the Site, pages viewed, and other relevant statistics. We collect this information to measure the use of our Site and to improve the content of our Site.
+
+b. Contacting You Concerning Promotions and New Products
+
+We may request you to "opt-in" to receive certain communications from the Site. We will not send unsolicited messages to you concerning promotions or new products or other marketing material unless you have opted-in. If, after you have opted-in, you no longer wish to receive such communications from us please follow the procedures set forth below in the section titled How Can I "Opt-out" of Receiving E-mail Communications. Please note that your request to stop receiving these communications may not prevent us from sending such messages that were generated prior to the time we were able to process your request.
+
+c. Use of Your Information
+
+At times, we may request you to provide personally identifiable information, including name, address, credit/debit card numbers and other billing information, to identify you as a user of the Site and to assist and speed the completion of transactions on the Site, and to facilitate your transactions with our third party marketing partners. We may also use information collected about your preferences and activities at the Site, such as the particular pages you request at the Site and purchases or other transactions you effect through the Site. We may vary the content you receive in future visits to the Site based on your preferences and activities.
+
+d. Disclosure of Your Information
+
+We will disclose your information to Iconix, which will use your information only in accordance with this Privacy Policy. We will not disclose your personally identifiable information to any persons or entities outside of our company, nor lease, license, sublicense, rent, transfer, disclose, disseminate or otherwise grant access to such information unless:
+
+(i) You have been given an opportunity to "opt-in" and have agreed to opt-in to such disclosure of your information;
+
+(ii) We must share your information in order to provide a product or service that you have ordered or requested, in which case we will require that any third person or entity we use to fulfill your order agrees that it does not have the right to use your information other than to fulfill your order or request;
+
+(iii) We are required to respond to subpoena, court orders or other requirement of law which requires disclosure of your information
+
+(iv) You have otherwise consented to the disclosure of the information to such persons or entities
+
+e. Disclosure of Aggregate Information
+
+We may combine your personally identifying information and information about your preferences and activities, with those of all or a particular group of our users to prepare collective profiles of our users and their activities for our internal use. For example, we may track the number of our users who view certain pages or use certain features or compile the total dollar amount of sales conducted through the Site in a particular geographic region or to track purchasing trends. Such information, and other information we derive from individual users' information, allows us to continue to grow and provide you with quality information through more accurate marketing and advertising of the Site. We may share aggregated information concerning our users, without attribution of personal information, to other companies with whom we conduct business. 
+
+f. How Can I "Opt-out" of Receiving e-mail Communications?
+
+If you do not wish to receive email messages from us, please send an email to [http://ipost.com/](http://ipost.com/prefs/9z1zdda2plmdfc9la1c0ro3hp33hnho7b36jretjpqg)
+
+g. Can I Update or Remove My Account Information?
+
+After you have registered for membership on the Site, you may review, revise or request the removal of your account information at any time. There are three ways in which you can review, revise or request the removal of your account information at any time: (i) access the "My Account" section of the Site and proceed as prompted; (ii) send an email to ; or (iii) telephone us at .
+
+IV. WHAT WE DO TO KEEP THIS SITE SECURE
+
+a. Security
+
+We employ procedural and technical safeguards to secure your personal information against loss, theft, alteration, and unauthorized access, use and disclosure. Any information you enter on our accounts setup page is encrypted before transmission to our server by using 128-bit Secure Sockets Layer encryption software. You can safely enter your credit card and personal registration information and it cannot be read in transit to our server. We also employ many security procedures to protect your information from unauthorized access by users inside and outside the company.
+
+Regardless of the precautions taken by us we cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk. 
+
+What You Can Do To Protect Your Information?
+
+(i) Use only secure websites when disclosing your information. Secure pages begin with "https".
+
+(ii) Avoid using easy to figure out access and personal ID (PIN) codes.
+
+(iii) Never respond to unsolicited requests for your social security number or financial information.
+
+(iv) Do not disclose your passwords to the Site or your account information to any other person.
+
+(v) Be sure to sign off when finished using a shared computer.
+
+b. Hypertext Links
+
+Our Site may contain "links" to other websites, and we cannot and are not responsible for maintaining your privacy once you leave our Site. If you provide any information to parties who operate websites that are linked to or from this Site, different rules may apply to their collection, use or disclosure of your personal information. We encourage you to review other websites' policies before revealing any sensitive or personal information. Under no circumstances shall we have any liability whatsoever for the activities conducted by or at any website accessed from or through the Site.
+
+V. INFORMATION FROM PERSONS UNDER THE AGE OF 13
+
+We do not seek to collect personally identifiable information from persons under the age of 13 without prior verifiable parental consent. If we become aware that we have inadvertently received such information online from a child under the age of 13, we will delete it from our records. If you are under the age of 13, please do not submit any personally identifiable information to us. If you are the parent or guardian of a person under the age of 13 who has provided personally identifiable information to us, please inform us by contacting us at the email address or telephone number listed above and we will remove such information from our database. If you are concerned about your children's use of the Site, you may use web filtering technology to supervise or limit access to the Site.
+
+VI. YOUR CALIFORNIA PRIVACY RIGHTS (As provided by California Civil Code Section 1798.83)
+
+A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. 
+
+However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy Policy) a Privacy Policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this Privacy Policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right. 
+
+As stated in this Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure -- typically by opting in to receive information from a third party that is participating in a sweepstakes or other promotion on one of our sites. If you do ask us to share your information with a third party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third party on a continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on one of our sites. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy Policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy Policy of any party that collects your information to determine how that entity will handle your information.
+
+California customers may request further information about our compliance with this law by e-mailing INFO@ICONIXBRAND.COM. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address
+
+VII. GENERAL
+
+I. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL WE OR ICONIX BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT OR SPECIAL DAMAGES, (INCLUDING LOST PROFITS) WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT WE ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE LIMITATIONS SET FORTH IN THIS PARAGRAPH MAY NOT APPLY TO YOU. IF THE FOREGOING LIMITATIONS ARE HELD INAPPLICABLE OR UNENFORCEABLE FOR ANY REASON, THEN THE MAXIMUM LIABILITY OF US TO YOU FOR ANY TYPE OF DAMAGES SHALL BE LIMITED TO THE GREATER OF THE ACTUAL AMOUNT PAID BY YOU FOR ANY PRODUCTS OFFERED ON THE WEBSITE OR U.S. $100.00.
+
+II. MISCELLANEOUS
+
+The Privacy Policy for the Site established by us constitutes ours and your entire understanding with respect to the use of the Site. We control and/or operate the Site from offices in the United States of America. We do not represent that materials on the Site are appropriate or available for use in other locations. Persons who choose to access this Site from other locations do so on their own initiative and at their own risk, and are responsible for compliance with local laws, if and to the extent local laws are applicable. This Privacy Policy shall be construed in accordance with the laws of the State of New York, without regard to its conflict of laws rules. You agree to personal jurisdiction by the federal and state courts located in New York County, New York State. No waiver by use of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Site must be filed within one (1) year after such claim or cause of action arose or be forever barred. If any provision of the Terms and Conditions and Privacy P9olicy is found to be unenforceable for any reason, than that provision shall be deemed severable and shall not affect the validity and enforceability of any remaining provisions.
+
+II. CHANGES TO OUR TERMS AND CONDITIONS AND OUR PRIVACY POLICY
+
+We may revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective immediately upon posting. It is your obligation to review the Privacy Policy from time to time. 
