@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202213148id_/http%3A//www.lightingdirect.com/index.cfm/page/help%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090641id_/http%3A//www.lightingdirect.com/index.cfm/page/help%3Asecurity) for the most accurate reproduction.*
 
-# LightingDirect.com - Your Online Source for Light Fixtures
+# LightingDirect.com - Lighting, Light Fixtures, Chandeliers, Fans and More
 
-## Our Company
-
-LightingDirect.com is a website of Improvement Direct, Inc. Our corporate website can be [viewed here](http://www.improvementdirect.com/).
+LightingDirect.com is a website of Improvement Direct, Inc. Our corporate website can be [viewed here](http://corp.improvementdirect.com/).
 
 Our postal address is:  
-1330 Fortress St.  
+282 Convair St.  
 Chico, CA 95973
 
-We can be reached online through our online Customer Service center. We can be contacted by phone at (800) 864-2555, which is our customer service call center.
+We can be reached online through our online Customer Service center. We can be contacted by phone at (800) 375-3410, which is our customer service call center.
 
 ## Transaction Security
 
@@ -26,7 +24,7 @@ We receive and store any information you enter on our Web site or give us in any
 
 ## Automatic Information
 
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your web browser accesses LightingDirect.com. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at LightingDirect.com if we cannot recognize you, we want you to be aware that these tools exist.
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your web browser accesses LightingDir.com. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at LightingDirect.com if we cannot recognize you, we want you to be aware that these tools exist.
 
 ## Cookies
 
@@ -34,11 +32,11 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 ## Emails and Newsletters
 
-LightingDirect.com uses emails as one of our primary ways to respond and communicate. All emails sent are either a direct response to an inquiry, communication concerning an order (reciept, shipping confirmation, etc) or a newsletter if you have indicated you wish to receive specials on your account information.
+LightingDirect.com uses emails as one of our primary ways to respond and communicate with our customers. All emails sent are addressing one of the three issues: a direct response to an inquiry, communication concerning an order (receipt, shipping confirmation, etc), or a promotional newsletter if you have indicated you wish to receive offers and information about our Network Stores.
 
-When creating an account (placing an order) through LightingDirect.com, we offer the opportunity to subscribe to our newsletters. These contain specials & discounts, updates about our websites and information about the lines and products we are featuring.
+Upon signing up to receive our promotional emails, you will periodically receive emails with specials and discounts, updates about our [Network Stores](http://corp.improvementdirect.com/index.cfm?page=stores), and information about the lines and products featured on our sites.
 
-Each newsletter contains clear and easy unsubscribe instructions. You may also change your subscription status at any time by logging into your account, and editing your "Account Preferences". Lastly, if you wish to reach us by phone, our representatives in our call center can also alter your subscription preferences.
+If you wish to stop receiving our promotional emails, you’ll find clear and easy unsubscribe instructions in each email. You may also change your subscription status at any time either by logging into your account and editing your "Change Billing Info" or by sending an email to [newsletters@faucetdirect.com](mailto:newsletters@faucetdirect.com). Lastly, if you wish to reach us by phone, representatives in our call center can also alter your subscription preferences.
 
 ## Sharing Information
 
@@ -48,4 +46,4 @@ Information about our customers is an important part of our business, and we are
 
 If you choose to visit LightingDirect.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at LightingDirect.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
 
-**Copyright © 2000-2007 Improvement Direct, Inc. All Rights Reserved.**
+**Copyright © 2000-2008 Improvement Direct, Inc. All Rights Reserved.**
