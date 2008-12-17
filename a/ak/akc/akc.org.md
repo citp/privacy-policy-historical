@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519060327id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094731id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.*
 
 # American Kennel Club - AKC Web Site Privacy Statement
-
-[](https://web.archive.org/events/certified_list_awards.cfm)
 
 AKC Web Site Privacy Statement
 
@@ -73,8 +71,8 @@ Mailing Address:
 Robert Burns   
 Privacy Policy  
 American Kennel Club   
-5580 Centerview Drive  
-Raleigh, NC 27606-3390 
+8051 Arco Corporate Drive, Suite 100  
+Raleigh, NC 27617-3390
 
 Our Customer Service Department is open from 8:30 am to 5:00 PM Eastern Time   
 Phone number: 919-233-9767 
