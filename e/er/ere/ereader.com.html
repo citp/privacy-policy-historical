@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the ereader.com privacy policy that was archived on 2008-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080617195737id_/http%3A//www.ereader.com/ereader/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ereader.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217181434id_/http%3A//www.ereader.com/ereader/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><!-- start /head.mc --><head>
 
 
 <title>eReader.com Privacy Policy </title>
 <!-- BEGIN CODEBLOCK search_engine_optimization -->
-<meta name="Keywords" content="ebook ebooks e-book e-books e book e books ereader ereader.com e-reader online download digital electronics electronic book downloadable mobile reader palm pocket pc pocketpc windows mobile symbian treo 650 download  ereader pro peanut press palm treo 600 digital media">
+<meta name="Keywords" content="ebook ebooks e-book e-books e book e books ereader ereader.com e-reader online download digital electronics electronic book downloadable mobile reader iphone palm pocket pc pocketpc windows mobile symbian treo 650 download  ereader pro peanut press treo digital media">
 <meta name="Description" content="Shop our large selection of eBooks. New eBook releases and bestsellers in over 40 categories including science fiction, romance, mystery, suspense,contemporary fiction,fantasy and more. Visit eReader.com today!">
 <meta name="robots" content="index, follow">
 <meta name="Googlebot" content="index, follow">
@@ -21,10 +21,17 @@ var pageTracker = _gat._getTracker("UA-921266-3");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+<script>
+function openWin(u, n, w, h) {
+	var win = window.open(u, n, "Width=" + w + ",Height=" + h + ",Menubar=no,Toolbar=no,Status=no,Scrollbars=yes,Resizable=yes,Top=50,Left=50");
+}
+</script>
+
+<script type="text/javascript" src="/ereader/geturl.js">
+</script>
 <!-- END CODEBLOCK search_engine_optimization -->
 <!-- start /style.mc
 <link rel="stylesheet" type="text/css" href="/ereader/css/starsheet.css">  -->
-<link rel="stylesheet" type="text/css" href="/ereader/css/styles.css">
 <link rel="stylesheet" type="text/css" href="/ereader/css/site.css">
 <link rel="stylesheet" type="text/css" href="/ereader/css/product.css">
 <link rel="stylesheet" type="text/css" href="/ereader/css/feature.css">
@@ -57,7 +64,7 @@ pageTracker._trackPageview();
 
 <a href="/servlet/mw?a=mv&amp;t=cart&amp;si=59" target="_top"><img src="/ereader/graphics/cart.gif" width="18" height="17" alt="" border="0" id="cart-icon"></a>
 
-<a class="item" href="/servlet/mw?a=mv&amp;t=cart&amp;si=59" target="_top">View Cart</a> | <a class="item" href="/ereader/home.htm" target="_top">Home</a> | <a class="item" href="/servlet/mw?a=mv&amp;t=bookshelf&amp;si=59" target="_top">BookShelf</a> | <a class="item" href="/servlet/mw?a=mv&amp;t=wishlist&amp;si=59" target="_top">Wish List</a> | <a class="item" href="/servlet/mw?a=mv&amp;t=account&amp;si=59" target="_top">Account</a> | <a class="item" href="/servlet/mw?t=freebooks&amp;si=59" target="_top">Free eBooks</a> | <a class="item" href="/servlet/mw?t=help&amp;si=59" target="_top">Help</a> | 
+<a class="item" href="/servlet/mw?a=mv&amp;t=cart&amp;si=59" target="_top">View Cart</a> | <a class="item" href="/ereader/home.htm" target="_top">Home</a> | <a class="item" href="/servlet/mw?a=mv&amp;t=bookshelf&amp;si=59" target="_top">BookShelf</a> | <a class="item" href="/servlet/mw?a=mv&amp;t=wishlist&amp;si=59" target="_top">Wish List</a> | <a class="item" href="/servlet/mw?a=mv&amp;t=account&amp;si=59" target="_top">Account</a> | <a class="item" href="/servlet/mw?t=freebooks&amp;si=59" target="_top">Free eBooks</a> | <a class="item" href="/ereader/software/browse.htm" target="_top">Downloads</a> | <a class="item" href="/servlet/mw?t=help&amp;si=59" target="_top">Help</a> | 
 
 <script language="JavaScript">
 var allcookies = document.cookie;
@@ -108,6 +115,9 @@ if (start > -1) {
 
 <!-- accountCheck include-->
 <div id="layout" style="background-color: #dde5ee">
+<!--leftnav ad-->
+<div id="leftnavad"><a href="/help/iphonefaq.htm"><img src="/ereader/graphics/iphoneleftnav_v1-3.jpg" border="0"></a></div>
+<!-- end letftnav ad-->
 <table class="layout-feature" cellpadding="0" cellspacing="0" width="100%">
 
 <tbody><tr valign="top">
@@ -119,7 +129,11 @@ var cookiename = "fwlogin";
 var start = allcookies.indexOf(cookiename + "=");
 if (start > -1) {
 	start += cookiename.length + 1;
-	var value = allcookies.substring(start, allcookies.indexOf(";", start));
+
+	var end = allcookies.indexOf(";", start);
+	if (end < start) end = allcookies.length;
+
+	var value = allcookies.substring(start, end);
 	if (value == "1") {
 		document.write("Welcome <a href=\"/servlet/mw?a=mv&t=update&si=59\" target=_top>eReader Member</a>");
 	} else if (value == "0") {
@@ -138,13 +152,20 @@ if (start > -1) {
 <!-- start leftnav include -->
 <!-- start /id/pdm/layout/comps/shop.mc -->
 <div class="link-box">
+
+<b class="title">FREE eReader Software</b><br>
+▪ <a href="/ereader/software/browse.htm" class="leftnav" alt="Download FREE eReader Pro software">Download Now!</a><br>
+</div>
+
+<div class="link-box">
 <b class="title">SHOP</b><br>
 
 ▪ <a href="/ereader/software/browse.htm">Software</a><br>
+▪ <a href="/servlet/mw?a=mv&amp;t=gift&amp;si=59">Gift Certificates</a><br>
 ▪ <a href="/servlet/mw?t=browse&amp;catid=31&amp;si=59">Special Offers</a><br>
 ▪ <a href="/servlet/mw?t=browse&amp;catid=114&amp;si=59">Recently Reduced</a><br>
-▪ <a href="/servlet/mw?t=recentadditions&amp;si=59">New Releases</a><br>
-▪ <a href="/servlet/mw?t=bestsellers&amp;si=59">Bestsellers</a><br>
+▪ <a href="/servlet/mw?t=recentadditions&amp;si=59">New eBook Releases</a><br>
+▪ <a href="/servlet/mw?t=bestsellers&amp;si=59">Bestselling eBooks</a><br>
 
 </div>
 <!-- end /id/pdm/layout/comps/shop.mc -->
@@ -155,13 +176,18 @@ if (start > -1) {
 <b class="title">CATEGORIES <span class="sep">|</span> 
 <a class="more-link" href="/servlet/mw?t=browseall&amp;si=59">View all</a></b> (103)<br>
 
-▪ <a href="/servlet/mw?t=browse&amp;catid=24&amp;si=59">Romance</a><br>
-▪ <a href="/servlet/mw?t=browse&amp;catid=6&amp;si=59" class="leftnav">Mystery &amp; Detectives</a><br>
-▪ <a href="/servlet/mw?t=browse&amp;catid=9&amp;si=59" class="leftnav">Contemporary Fiction</a><br>
-▪ <a href="/servlet/mw?t=browse&amp;catid=18&amp;si=59" class="leftnav">Science Fiction</a><br>
-▪ <a href="/servlet/mw?t=browse&amp;catid=44&amp;si=59" class="leftnav">Suspense &amp; Thrillers</a><br>
-▪ <a href="/servlet/mw?t=browse&amp;catid=43&amp;si=59" class="leftnav">Fantasy</a><br>
-▪ <a class="more-link" href="/servlet/mw?t=authorlist&amp;si=59">View by author</a><br>
+▪ <a href="/servlet/mw?t=browse&amp;catid=24&amp;si=59" class="leftnav" alt="Romance eBooks">Romance</a><br>
+▪ <a href="/servlet/mw?t=browse&amp;catid=44&amp;si=59" class="leftnav" alt="Suspense &amp; Thriller eBooks">Suspense &amp; Thrillers</a><br>
+▪ <a href="/servlet/mw?t=browse&amp;catid=18&amp;si=59" class="leftnav" alt="Science Fiction eBooks">Science Fiction</a><br>
+▪ <a href="/servlet/mw?t=browse&amp;catid=6&amp;si=59" class="leftnav" alt="Mystery &amp; Detectives eBooks">Mystery &amp; Detectives</a><br>
+▪ <a href="/servlet/mw?t=browse&amp;catid=43&amp;si=59" class="leftnav" alt="Fantasy eBooks">Fantasy</a><br>
+▪ <a href="/servlet/mw?t=browse&amp;catid=25&amp;si=59" class="leftnav" alt="Horror eBooks">Horror</a><br>
+▪ <a href="/servlet/mw?t=browse&amp;catid=3&amp;si=59" class="leftnav" alt="Biography/Memoir eBooks">Biography &amp; Memoir</a><br>
+▪ <a href="/servlet/mw?t=browse&amp;catid=10&amp;si=59" class="leftnav" alt="History eBooks">History</a><br>
+▪ <a href="/servlet/mw?t=browse&amp;catid=51&amp;si=59" class="leftnav" alt="Religion eBooks">Religion</a><br>
+▪ <a href="/servlet/mw?t=browse&amp;catid=4&amp;si=59" class="leftnav" alt="Horror eBooks">Business &amp; Technology</a><br>
+
+▪ <a href="/servlet/mw?t=authorlist&amp;si=59" class="leftnav">View eBooks by author</a><br>
 
 </div>
 
@@ -176,7 +202,6 @@ if (start > -1) {
 <option value="24">Romance</option>
 <option value="6">Mystery &amp; Detectives</option>
 <option value="18">Science Fiction</option>
-
 <option value="4">Business &amp; Technology</option>
 <option value="43">Fantasy</option>
 <option value="225">Under Five Dollars</option>
@@ -185,7 +210,6 @@ if (start > -1) {
 <option value="31">Special Offers</option>
 <option value="114">Recently Reduced</option>
 <option value="110">Staff Picks</option>
-
 <option value="29">Action/Adventure</option>
 <option value="61">Anthologies</option>
 <option value="3">Biography/Memoir</option>
@@ -194,7 +218,6 @@ if (start > -1) {
 <option value="21">Classics</option>
 <option value="9">Contemporary Fiction</option>
 <option value="49">Current Events &amp; Politics</option>
-
 <option value="48">Entertainment</option>
 <option value="8">Family &amp; Parenting</option>
 <option value="2">Health &amp; Medicine</option>
@@ -202,7 +225,6 @@ if (start > -1) {
 <option value="10">History</option>
 <option value="25">Horror</option>
 <option value="11">Humor</option>
-
 <option value="47">Investing &amp; Money</option>
 <option value="27">Law</option>
 <option value="102">Literature</option>
@@ -211,14 +233,12 @@ if (start > -1) {
 <option value="14">Nonfiction</option>
 <option value="22">Poetry</option>
 <option value="16">Reference</option>
-
 <option value="50">Relationships &amp; Sexuality</option>
 <option value="51">Religion</option>
 <option value="17">Science &amp; Nature</option>
 <option value="13">Self-Help</option>
 <option value="19">Sports &amp; Athletics</option>
 <option value="30">Star Trek Books</option>
-
 <option value="57">Study Guides</option>
 <option value="44">Suspense &amp; Thrillers</option>
 <option value="148">Teen</option>
@@ -226,7 +246,6 @@ if (start > -1) {
 <option value="20">Travel</option>
 <option value="32">True Crime</option>
 <option value="28">Western</option>
-
 </select>
 <noscript><input type="image" class="go-button" value="Go" src="/graphics/go.gif"></noscript>
 </form>
@@ -243,16 +262,16 @@ if (start > -1) {
         <div>
         <strong>Sign Up Today!</strong><br>
         </div>
-        <div style="font-size: 12px">
-        Exclusive eReader Club<br>
+        <div style="font-size: 12px; padding-top:5px;">
+        Earn 15% or more with
         </div>
 
-        <div style="color: #FFCC33; font-size: 18px">
-        10% Off eBooks
+        <div style="color: #FFCC33; font-size: 17px;">
+        eReader Rewards
         </div>
 
         <div style="font-size: 12px">
-        <strong>Plus</strong> - Special offers and coupons delivered straight to your inbox!
+        on every Purchase!
         </div>
 </div>
 
@@ -266,6 +285,11 @@ if (start > -1) {
 <br clear="all">
 <!-- End Email Signup -->
 
+<div><a href="http://www.ereader.com/servlet/mw?t=holiday08&amp;si=59" border="0"><img src="/newsletter/121108/holidaythemedSale_leftnav.jpg" border="0" alt="Free Books at eReader"></a></div>
+<br>
+
+<div class="ad" style="text-align: center"><a href="http://www.ereader.com/servlet/mw?t=freebooks&amp;si=59" border="0"><img src="/ereader/graphics/freeebooks.gif" border="0" alt="Free Books at eReader"></a></div>
+<br>
 <div class="ad" style="text-align: center" id="leftnav_acc_1"><a href="/ereader/software/ebookstudio.htm"><img src="/ereader/graphics/ERStudio125x50.gif" border="0" alt="eBook studio"></a></div>
 <br>
 <div class="ad" style="text-align: center" id="leftnav_acc_2"><a href="/ereader/software/product/15005_pro_ppcwm.htm" border="0"><img src="/ereader/graphics/EROTA125x125.gif" border="0" alt="eReader OTA"></a></div>
@@ -273,11 +297,11 @@ if (start > -1) {
 <div class="ad" style="text-align: center" id="leftnav_acc_3"><a href="/ereader/software/browse.htm" border="0"><img src="/ereader/graphics/ERPro125x50.gif" border="0" alt="eReader Pro"></a></div>
 <br>
 <!--<div class="ad" style="text-align: center" id="leftnav_acc_4"><img src="/ereader/graphics/ERStudio125x50.gif" alt="eBook studio" /></div><br />-->
-<div class="ad" style="text-align: center">
-<a href="/servlet/mw?t=freebooks&amp;si=59">
-<img src="/ereader/graphics/free_ebooks_button.gif" alt="Free Books" border="0/">
+<!--<div class="ad" style="text-align: center">
+<a href="http://www.ebookwise.com/servlet/mw?t=freebooks&si=59">
+<img src="/ereader/graphics/free_ebooks_button.gif" alt="Free Books" border=0/>
 </a>
-</div><br>
+</div><br />-->
 <!-- end /id/pdm/layout/standard/sidebar_left.mc -->
 
 </td>
@@ -299,7 +323,7 @@ if (start > -1) {
 
 <p>Your privacy is important to us. This Privacy Policy will tell you what information we collect, how we collect it, how we use it, how we disclose it, how we protect it, and what choices you have with respect to all of the above. We urge you to read this Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.</p>
                                                                                                                                                                                                      
-<p>This Privacy Policy governs the information collection and disclosure practices for the web sites operated by Motricity, Inc. and all of its wholly-owned subsidiaries, including but not necessarily limited to PalmGear, Inc., PocketGear, LLC, Motricity, Inc., Power By Hand, LLC, Pinpoint Network, Inc., Pinpoint Technology, Inc., and eReader, Inc. (collectively, the "Company", or "we" or "us"). The Company's web sites include, but are not necessarily limited to, all of the following web sites, each of which is operated (either directly or through one or more wholly-owned subsidiaries) by the Company: <a href="http://www.ereader.com">www.ereader.com</a> and <a href="http://www.palmdigitalmedia.com">www.palmdigitalmedia.com</a> (each a "Web Site" and collectively the "Web Sites").</p>
+<p>This Privacy Policy governs the information collection and disclosure practices for the web sites operated by Fictionwise, Inc., <!--and all of its wholly-owned subsidiaries, including but not necessarily limited to PalmGear, Inc., PocketGear, LLC, Fictionwise, Inc., Power By Hand, LLC, Pinpoint Network, Inc., Pinpoint Technology, Inc., and eReader, Inc. (collectively, the "Company", or "we" or "us").--> hereafter referred to as the "Company", "we" or "us". The Company's web sites include, but are not necessarily limited to, all of the following web sites, each of which is operated (either directly or through one or more wholly-owned subsidiaries) by the Company: <a href="http://www.ereader.com">www.ereader.com</a> and <a href="http://www.palmdigitalmedia.com">www.palmdigitalmedia.com</a> (each a "Web Site" and collectively the "Web Sites").</p>
 
           <p><strong>1. Changes to this Policy</strong><br>
   We reserve the right to modify this Privacy Policy at any time, so please review it regularly. If we make changes to this Privacy Policy, we will post the revised Privacy Policy on the Web Sites and other places we deem appropriate. All such changes shall be binding on you 30 days after they are initially posted on the Web Sites unless you are a new user, in which case they are binding on you immediately.</p>                                                                                                                                                                                                       <p><strong>2. Information Collection</strong><br>
@@ -312,14 +336,14 @@ if (start > -1) {
   <li><strong><em>Log Files.</em></strong> As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.</li>
   <li><strong><em>Cookies.</em></strong> A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site, unless you have elected to have the Web Site "remember" you, in which case the cookie will be linked to your user name. We may use both session ID cookies and/or persistent cookies. We use session ID cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. We set a persistent cookie to store your password, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. This Privacy Policy covers the use of cookies by this Web Site only and does not cover the use of cookies by any advertisers or third parties. See the sections on "Third Party Advertisers" and "Co-Branded Pages" below. We may also use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate. We do not control the use of cookies by third parties.</li>
 
-  <li><strong><em>Clear Gifs (Web Beacons/Web Bugs).</em></strong> We may employ or our third party advertising partner may employ a software technology called clear gifs (a.k.a. web beacons/web bugs) that help us better manage content on or about the Web Sites by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, that are used to track the online movements of web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on web pages or in HTML-based emails and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. We may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.<br>
-    Privacy: Advertisers using Spotlight tags are contractually obligated to disclose the use of pixels on their website. The text below is suggested disclosure language which should be posted on an advertiser's site along with any other related privacy disclosures.<br>
+  <!--<li><strong><em>Clear Gifs (Web Beacons/Web Bugs).</em></strong> We may employ or our third party advertising partner may employ a software technology called clear gifs (a.k.a. web beacons/web bugs) that help us better manage content on or about the Web Sites by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, that are used to track the online movements of web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on web pages or in HTML-based emails and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. We may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.<br />
+    Privacy: Advertisers using Spotlight tags are contractually obligated to disclose the use of pixels on their website. The text below is suggested disclosure language which should be posted on an advertiser's site along with any other related privacy disclosures.<br />
     Motricity uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <a href="http://www.doubleclick.net/us/corporate/privacy" target="_blank">http://www.doubleclick.net/us/corporate/privacy</a>.</li>
   <li><strong><em>Correspondence.</em></strong> If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Web Sites, we may collect such information into a file specific to you.</li>
 
   <li><strong><em>Third Party Advertisers.</em></strong> Ads appearing on this Web Site may be delivered to users by a third party advertising partner. We may share Web Site usage information about users with our advertising partners for the purpose of targeting our Internet banner advertisements on this site. Such information will not be linked to personally-identifiable information. Our advertising partners may use cookies and/or clear GIFs, which allow them to recognize a user when a user visits this Web Site.</li>
   <li><strong><em>Co-Branded Pages.</em></strong> In some cases, third party web sites may have a "look and feel" similar to one of the Web Sites, and these third party web sites may even be bordered ("framed") by content from the Web Sites, but any information collected by such web sites is collected by the third party operator of that site. These sites are usually identified by a "Powered by" or similar logo identifying the third party operator of the linked site. Information collection on those sites is governed by the privacy policy posted on those sites. In some cases, the third party operator may share the information with us, in which case our use of that information will be governed by this Privacy Policy.</li>
-  <li><strong><em>Supplementation of Information.</em></strong> In order to provide certain services to you, we may on occasion supplement the personal information you submitted to us with information from third party sources.</li>
+  <li><strong><em>Supplementation of Information.</em></strong> In order to provide certain services to you, we may on occasion supplement the personal information you submitted to us with information from third party sources.</li>-->
 </ol>
 <p></p>
 
@@ -357,14 +381,14 @@ if (start > -1) {
 
                                                                                                                                                                                                      
 <p><strong>5. Choice / Opt-Out</strong><br>
-  We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you register with us but do not wish to receive any additional marketing material from us, you can indicate your preference on our registration form. If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at <a href="mailto:privacy@motricity.com">privacy@motricity.com</a>. You may also update your preferences at any time by accessing our member information area. You will be notified before your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.</p>
+  We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you register with us but do not wish to receive any additional marketing material from us, you can indicate your preference on our registration form. If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by contacting us at <a href="http://www.ereader.com/servlet/mw?t=support&amp;si=59">http://www.ereader.com/servlet/mw?t=support&amp;si=59</a>. You may also update your preferences at any time by accessing our member information area. You will be notified before your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.</p>
                                                                                                                                                                                                      
 <p><strong>6. Links to Other Sites</strong><br>
   This privacy statement applies only to information collected by these Web Sites. The Web Sites contain links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware of when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.</p>
                                                                                                                                                                                                      
 <p><strong>7. Access to Personal Information</strong><br>
 
-  If your personally identifiable information changes, or if you no longer desire some or all of our services, you may correct, update, delete or deactivate it by making the change on our account information pages or by emailing us at <a href="mailto:privacy@motricity.com">privacy@motricity.com</a> or by contacting us by telephone or postal mail 2800 Meridian Parkway, Suite 150, Durham, NC 27713, United States of America, (919) 287-7400. Please note that, if you have established an account with more than one of our Web Sites, you may have to make these changes on each Web Site.</p>
+  If your personally identifiable information changes, or if you no longer desire some or all of our services, you may correct, update, delete or deactivate it by making the change on our account information pages or by contacting us at <a href="http://www.ereader.com/servlet/mw?t=support&amp;si=59">http://www.ereader.com/servlet/mw?t=support&amp;si=59</a>.  Please note that, if you have established an account with more than one of our Web Sites, you may have to make these changes on each Web Site.</p>
                                                                                                                                                                                                      
 <p><strong>8. Security</strong><br>
   The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us from unauthorized access, disclosure, alteration, or destruction, both during transmission and once we receive it.</p>
@@ -374,7 +398,7 @@ if (start > -1) {
 
                                                                                                                                                                                                      
 <p><strong>10. Contact Us</strong><br>
-  If you have any questions or suggestions regarding our privacy policy, please contact us at <a href="mailto:privacy@motricity.com">privacy@motricity.com</a>.</p>
+  If you have any questions or suggestions regarding our privacy policy, please contact us at <a href="http://www.ereader.com/servlet/mw?t=support&amp;si=59">http://www.ereader.com/servlet/mw?t=support&amp;si=59</a>.</p>
 
 <!-- /id/pdm/footer.mc -->
 <!-- start /id/pdm/layout/page/end.mc -->
@@ -388,10 +412,10 @@ if (start > -1) {
 <div class="top-left"></div>
 <div class="top-right">
 <div class="nav">
-<a href="/ereader/help/intro.htm">Introduction</a> |
-<a href="/servlet/mw?t=newslettersub&amp;si=59">Newsletter</a> |
-<a href="/ereader/help/ereader/guide">Using the Reader</a> |
-<a href="/ereader/help/dropbook">Make Books</a> |
+<a href="/ereader/help/intro.htm">Introduction to eBooks</a> |
+<a href="/servlet/mw?t=subscribe&amp;si=59">Newsletter</a> |
+<a href="/ereader/help/ereader/guide">Using eReader Pro</a> |
+<a href="/ereader/help/dropbook">Make eBooks</a> |
 <!--<a href="http://corp.motricity.com/advertising/">Advertising</a> |-->
 <a href="/ereader/about.htm">About</a> |
 <a href="/ereader/privacy.htm">Privacy Policy</a> |
