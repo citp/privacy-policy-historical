@@ -1,24 +1,8 @@
-> *The following text is extracted and transformed from the cakecentral.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511162714id_/http%3A//www.cakecentral.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakecentral.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110754id_/http%3A//www.cakecentral.com./privacy.php) for the most accurate reproduction.*
 
-# CakeCentral.com
+# Privacy Policy on CakeCentral.com
 
-[](https://web.archive.org/web/20080511162714id_/http%3A//www.cakecentral.com/warning.php)   
-[](https://web.archive.org/web/20080511162714id_/http%3A//www.cakecentral.com/whois_cc.php) [](http://cakecentral.com/account.html)  
-  
-
-
-If you were looking for **Cake Decorating** , **cake photos** , or information for **Cake Decorators** , you found it!
-
-We also sell cake decorating supplies in our [cake decorating shop.](http://shop.cakecentral.com/)
-
-[CakeCentral.com Terms](http://www.cakecentral.com/terms.php)  
-[Privacy Policy](http://www.cakecentral.com/privacy.php) | 
-
-  
-ERROR: Your internet settings are currently blocking the cakecentral.com cookie.  
-In order to use this site properly you will need to allow the cakecentral.com cookie.
-
-[Click here for instructions and more information.](http://www.cakecentral.com/cookies.html)
+[](http://m3.cakecentral.com/www/delivery/ck.php?bannerid=63)
 
 ## Contact Information
 
@@ -64,7 +48,7 @@ Web pages may contain electronic images known as web beacons - sometimes called 
 
 ## What is a Cookie?
 
-Cookies are a feature of web browser (Internet Explorer, Mozilla Firefox, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a user�s web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user�s transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized. 
+Cookies are a feature of web browser (Internet Explorer, Mozilla Firefox, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a user’s web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user’s transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized. 
 
 ## How Do We Use the Information Collected?
 
@@ -74,7 +58,7 @@ We use Passive Information to gather information about our users and to enhance 
 
 ## Your Information In Relation to Others We Link To
 
-You may be able to access other web sites through our site. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those site�s privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases. 
+You may be able to access other web sites through our site. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those site’s privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases. 
 
 ## Sharing Information with the Government or As Otherwise Required by Law
 
@@ -89,5 +73,3 @@ We secure your personal information submitted by you by using reasonable efforts
 If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct your information, please send us an [email](http://www.cakecentral.com/contact.html). 
 
 We reserve the right to revise this policy at our discretion. Please check back on this site as this policy may be revised from time to time without notice to you
-
-|  [](http://www.cakecentral.com/donate.html)
