@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grammy.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215180629id_/http%3A//www.grammy.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025025id_/http%3A//www.grammy.com/Privacy) for the most accurate reproduction.*
 
-# GRAMMY.com - Privacy Statement
+# GRAMMY.com
 
 ---  
 | 
