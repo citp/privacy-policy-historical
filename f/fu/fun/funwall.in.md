@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funwall.in privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504121955id_/http%3A//www.funwall.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funwall.in privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161906id_/http%3A//www.funwall.in/privacy) for the most accurate reproduction.*
 
-# funwall.in || Stick your favorites
+# Funwall.in :: Stick Your Favorites
 
 The use of the funwall.in website(s) and/or funwall.in software and any Funwall.in services and products (collectively, the "Website") provided by Funwall.in Inc. ("Funwall.in") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the Funwall.in Terms & Conditions. If you do not agree to this Privacy Policy, please do not use the Website. 
 
@@ -40,7 +40,7 @@ Funwall.in or its advertisers may use other companies known as third party ad se
 
 Funwall.in has implemented security policies, rules and technical measures to protect and safeguard the personally identifiable information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our personnel that have access to, and are associated with the processing of your personally identifiable information, are obligated to respect the confidentiality of the information. 
 
-###  Privacy Policy
+### California Privacy Policy
 
 Funwall.in's Privacy Policy is to share personal information only with the owner's informed consent. With your consent, from time-to-time, Funwall.in may provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know. If you have further inquires regarding Funwall.in's information sharing practices, please let us know. The designated contact for these queries IP Executive info@funwall.in 
 
