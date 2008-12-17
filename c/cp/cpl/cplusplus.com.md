@@ -1,29 +1,55 @@
-> *The following text is extracted and transformed from the cplusplus.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606175105id_/http%3A//cplusplus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cplusplus.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050049id_/http%3A//www.cplusplus.com/member/privacy.cgi) for the most accurate reproduction.*
 
-# cplusplus.com - Privacy statement
+# Privacy policy
 
-**Privacy statement**
-     The privacy of our visitors is important to us. This information serves to represent our commitment on that issue. 
-**Information automatically logged**
-     The resources hosted in the C++ Resources Network are provided to visitors anonimously - no personal information is required to access them. 
+  
+
+
+### Privacy policy
+
+The privacy of our visitors is important to us. This page represents our commitment on that issue and informs you how we use personal information collected on this site. 
+
+#### Personal information
+
+The resources hosted in this website are generally provided to visitors anonimously - no personal information is required to access them.
+
+Nevertheless, some services that allow users to participate actively by submitting content require the user to be registered. All registered users need to provide at least the following information: 
+
+  * **Login name:** Your login name is public and will be associated with any content you submit. It serves to identify you as the author and will appear alongside it.
+  * **Email address:** Your email address is needed for identification purposes. It is only public if you choose so (by default it is not).
+  * **Password:** We don't store your password, only a one-way hash value of it.
+
+
+
+These fields are kept in our database for identification purposes, and are only used for the services provided in this website and those you opt-in voluntarily. 
+
+Registered users have the option to fill a _Personal profile_ with some additional personal information which can be partly or entirely made public. 
+
+#### Non-personal information
 
 Some non-personal information is automatically logged by our servers as provided by internet protocols and the browser you use, this includes: 
 
-  * IP address 
-  * Domain name 
-  * Domain name form where you linked our site 
-  * Browser information, like name, version and operating system. 
+  * IP addresses
+  * Referer pages
+  * Cookies
+  * Browser information, such as name, version, operating system...
 
-This information is temporarily stored for statistical and reviewing purposes. 
-**Public Forums**
-     This site includes a section with forums freely available to our users. Any information that is disclosed in these areas becomes public information accessible by any other visitors; so caution should be exercised when deciding to disclose personal information on them.
 
-The only information required to participate in these forums, apart from the participation itself, is a Nickname, that can be invented when requested. The other fields are optional and can be left in blank if you prefer. This additional info is stored in you browser as a Cookie and is automatically filled in your next participation. 
 
-**Advertisements**
-     Some pages in our site include ads provided by an outside company that may use its own cookies mechanism. In no way the information provided to us by other means is shared or compared with these. 
-**External links**
-     This site contains links to other sites. The C++ Resources Network is not responsible for the privacy practices or the content of such web sites. 
-**Contacting**
-     If you have any question or comment about this privacy statement, contact [management@cplusplus.com](mailto:management@cplusplus.com)  
----
+This information is temporarily stored in our servers for statistical and reviewing purposes. 
+
+Most browser applications allow you restrict the disclosure of some or all of the above information. Please check yor browser's manual for more detail. 
+
+#### User-provided content
+
+This site includes sections where users can submit their own content. Any information that is disclosed in these sections may become public information accessible by other visitors. 
+
+#### Advertisements
+
+Some pages in our site include ads provided by third parties that may use their own technology (such as cookies or web beacons) to collect user information when they advertise on this site.
+
+#### External links
+
+This site contains links to other sites. We cannot be responsible for the privacy practices or the content of such web sites. 
+
+We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
