@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestdealinsurance.co.uk privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514151419id_/http%3A//www.bestdealinsurance.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdealinsurance.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084730id_/http%3A//www.bestdealinsurance.co.uk/privacy) for the most accurate reproduction.*
 
 # Best Deal Insurance - Privacy Policy
 
@@ -8,7 +8,7 @@ All data submitted to Best Deal Insurance Services Ltd on this site is secured u
 
 Last update to policy: 29th August 2007
 
-We are Best Deal Insurance Services Limited, trading as Best Deal Insurance and our registered address is 3rd Floor, Avon House, Tithe Barn Road, Wellingborough, Northants, NN8 1DH, United Kingdom. Best Deal Insurance Services Ltd takes the privacy of its customers data very seriously.The statement below covers the site www.BestDealInsurance.co.uk. 
+We are Best Deal Insurance Services Limited, trading as Best Deal Insurance and our registered address is Avon House, Tithe Barn Road, Wellingborough, Northants, NN8 1DH, United Kingdom. Best Deal Insurance Services Ltd takes the privacy of its customers data very seriously.The statement below covers the site www.BestDealInsurance.co.uk. 
 
 Please read the following policy to understand how we will treat your personal data when you use our site. If this policy changes then we will let you know via our homepage but we assure you that we only use your data as specified here and for our legitimate business reasons. 
 
