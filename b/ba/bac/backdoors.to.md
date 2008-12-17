@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609084652id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217144044id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
 
 # Backdoors.To Privacy Policy
 
@@ -32,7 +32,7 @@ Island of Sun & Beauty**](http://www.cypruslinks.com/)
 
 At Backdoors.To we recognize that privacy is important. This Policy applies to all the products and services offered by Backdoors.To.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20080609084652id_/http%3A//www.backdoors.to/backdoors/contact.asp).
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20081217144044id_/http%3A//www.backdoors.to/backdoors/contact.asp).
 
 **Information we collect and how we use it:**
 
