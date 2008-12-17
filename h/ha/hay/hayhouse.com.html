@@ -1,345 +1,438 @@
-<!--The following is the downloaded HTML source of the hayhouse.com privacy policy that was archived on 2008-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514234220id_/http%3A//www.hayhouse.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hayhouse.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217060335id_/http%3A//www.hayhouse.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="mac.css" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<meta name="description" content="The international leader in self-help and transformational publishing.">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="/css/hhus_main.css" type="text/css">
 <title>Hay House, Inc. | Customer Care | Privacy Policy</title>
-
-
-<!-- Google Analytics -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+</head>
+<body>
+<div id="SiteWrapper">
+	<!--<script src="/__utm.js" type="text/javascript"></script>-->
+<script src="/javascript/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-142870-1";
-_userv=2;
-urchinTracker();
+        _udn="hayhouse.com";
+        urchinTracker();
 </script>
-<!-- End Google Analytics -->
-
-
-
-
+<script src="/javascript/prototype.js" type="text/javascript"></script>
+<script src="/javascript/utils/email.js" type="text/javascript"></script>
 <script language="javascript">
-<!--
-var os;
-var browser;
+//!--//--><![CDATA[//><!--
 
-if (navigator.platform == "Win32") os = "Win";
-else if (navigator.platform == "MacPPC") os = "Mac";
+Event.observe(window, 'load', page_loaded, false);
+function page_loaded(evt) {
+	var enewsCleared = false;
+	$('enews_input').onfocus = function(evt) {
+		if(!enewsCleared)
+			this.value = '';
+		enewsCleared = true;
+	}  
+	
+	}
 
-if (document.all) browser = "IE";
-else if (document.getElementById && !document.all) browser = "NN6";
-else browser = "NN4";
+function hide_unhide(what) { 
+	var display_what = "BrowseSubMenu_" + what;
+	var selected=document.getElementById('selected')
+	if (selected) { 
+		var hide = document.getElementById('selected').name;
+		var hide_what = "BrowseSubMenu_" + hide;
+		document.getElementById(hide_what).style.display = 'none';
+		document.getElementById('selected').id=hide;
+	}
+	var display_it=document.getElementById(display_what);
+	if (display_it) { 
+		display_it.style.display = 'block'; 
+//		display_it.id = 'selected';
+		document.getElementById(what).id='selected';
+	}
+}
 
-if (browser == "IE" && os == "Win")
-	document.write("<link rel='stylesheet' href='/pc.css' type='text/css'>");
-else if (browser == "IE" && os == "Mac")
-	document.write("<link rel='stylesheet' href='/pc.css' type='text/css'>");
-else if (browser == "NN4" && os == "Win")
-	document.write("<link rel='stylesheet' href='/nn4.css' type='text/css'>");
-else if (browser == "NN6" && os == "Win")
-	document.write("<link rel='stylesheet' href='/nn4.css' type='text/css'>");
-else if (browser == "NN6" && os == "Mac")
-	document.write("<link rel='stylesheet' href='/mac2.css' type='text/css'>");
-else if (browser == "NN4" && os == "Mac")
-	document.write("<link rel='stylesheet' href='/mac.css' type='text/css'>");
-//-->
-</script>
-
-<script src="/__utm.js" type="text/javascript"></script>
-
-<script language="javascript">
-<!--
 function check_keyword_form()
 {
 	var els = document.forms['searchform'].elements;
 	if (els.keyword.value == '')
 	{
-		alert('Please enter a keyword to use Keyword Search, or use the Advanced Search tool.');
+		if($('keyword_search_error')) 
+			$('keyword_search_error').remove();
+		new Insertion.Bottom('search_nav', '<div id="keyword_search_error">Please enter a keyword to use Keyword Search, or use the Advanced Search tool.</div>');
 		return false;
 	}
-	
+
 	return true;
 }
 
-isNS4 = (navigator.appName == 'Netscape' && navigator.appVersion[0] == '4');
+function verify_enews() {
+	var form_element = document.forms['newsletter'];
+	var email_element = form_element.elements['email'];
+	var request_page = '/_newsletter_subscribe.php';
+
+	if( email_element.value == ''  ) {
+		//alert( 'To signup for our monthly newsletter, please enter your e-mail address.' );
+		email_element.focus();
+		email_element.select();
+		var err_msg=document.getElementById('enews_input_error_msg');
+		err_msg.innerHTML='Please enter a valid e-mail address.';					
+		return false;
+	}
+
+	var newsletter_address = new Email( email_element.value );
+	if( !newsletter_address.isValid() ) {
+//		alert( 'Please enter a valid e-mail address.' );
+		var err_msg=document.getElementById('enews_input_error_msg');
+		err_msg.innerHTML='Please enter a valid e-mail address.';					
+		email_element.focus();
+		email_element.select();
+		return false;
+	}
+
+	// alert and fail if address already exists in db
+	new Ajax.Request( request_page, { method: 'post', parameters: { func: 'subscribe', email: email_element.value }, onComplete: function( transport ) {
+		var response_json = transport.responseText.evalJSON();	
+
+		if( response_json.result === 'success' ) {
+			// forward user to response page
+			window.location.href = response_json.response_page;
+		} else {
+			// subscription failed; alert user
+//			alert( response_json.error_msg );	
+			var err_msg=document.getElementById('enews_input_error_msg');
+			err_msg.innerHTML=response_json.error_msg;			
+		}	
+	} } );
+
+	return false;
+}
+
+//--><!]]>
+</script>
+<link rel="stylesheet" href="/css/hhus_main.css" type="text/css">
+<script type="text/JavaScript">
+<!--
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+
 //-->
 </script>
-<style type="text/css">
-#acct_help {
-	margin: 0;
-	padding: 0;
-	height: 30px;
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:10px;
-	color: #003366;
-	text-align: left;
-	position:relative;
-	width: 741px;
-		/*border: 1px black solid;*/
-}	
-
-
-#acct_help ul#HelpMenu {
-	float: right;
-	margin: 10px 0 0 0;
-	list-style: none;
-	padding-left: 0px;
-}
-
-#acct_help ul#HelpMenu li {
-	width:auto;
-	margin:0 auto;
-	display:inline;
-	padding:0 4px 0 6px;
-	background: url(../images/pipe.gif) no-repeat 0;
-}	
-#acct_help ul#HelpMenu li.NoLink {
-	background: none;
-}
-#acct_help ul#HelpMenu li.FirstLI {
-	padding-left:0;
-	background:none;
-}
-#acct_help ul#HelpMenu li.LastLI {
-	padding-right:0;
-}
-
-#acct_help ul#HelpMenu li a{
-	color: #003366;
-}
-#acct_help ul#HelpMenu li a:hover{
-	text-decoration: underline;
-}
-#acct_help ul#HelpMenu li.NoLink{
-	margin-left: 0;
-}
-</style>
-</head>
-
-<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#336699" vlink="#336699" alink="#336699">
-<a name="top"></a>
-<div id="acct_help" style="display:none">
-<ul id="HelpMenu">
-			<li class="FirstLI"><a href="https://secure.hayhouse.com/member_area/index.php?sessid=ttji79r38vgfp2ooi9qp93n721" target="_blank">My Account</a></li>
-			<li><a href="https://secure.hayhouse.com/member_area/login.php?sessid=ttji79r38vgfp2ooi9qp93n721" target="_blank">Log In</a></li>
-			<li class="LastLI"><a href="#" onclick="MM_openBrWindow('cookies.php','','width=300,height=300')">Information About Cookies</a><a href="#"></a></li>
-	<li class="LastLI"><a href="http://www.hayhouse.com/faq.php" target="_blank">FAQs</a></li>
-		</ul>
+<div id="logo_container">
+<!--	<div id="wis_logo"><a href="http://www.hayhouse.com/index.php">
+	<img src="/images/common/home/wisdom_logo.jpg" border="0" height="124" width="136">	 
+-->	<div id="nav_logo"><a href="http://www.hayhouse.com/index.php">
+    <img src="/images/common/hh_logo.gif" border="0">
+ </a></div>
+	<div id="logo_bottom_feature"></div>
 </div>
-
-<table width="741" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-<!-- tabs -->
-<tbody><tr>
-	<td width="183" rowspan="6" valign="top" background="/images/logo/logobg.gif"><a href="/index.php"><img border="0" src="/images/logo/hh_logo.gif" width="183" height="164"></a></td>
-	<td width="3" rowspan="8" background="/images/borders/v_divide.gif"><img src="/images/spacer.gif" width="3" height="1"></td>
-	<td height="9" width="554" colspan="3"><img src="/images/nav/top_bar.gif" width="554" height="9"></td>
-	<td width="1" rowspan="8" background="/images/borders/right_border.gif"><img src="/images/spacer.gif" width="1" height="1"></td>
-</tr>
-<tr align="left" valign="top"> 
-	<td height="21" width="554" colspan="3">
-		<table width="554" border="0" cellspacing="0" cellpadding="0" background="/images/nav/tab_bkgrnd.gif">
+<div id="customer_login"><div id="acct_help_header">
+<ul id="HelpMenu">
+                    <li class="FirstLI">Welcome!</li>
+					<!--			<li><a href="http://www.hayhouse.com/cart.php?sessid=1jb94qjte9qf8vh1sn7eos6db4">View Cart</a> (0 Items)</li>
+-->            <li><a href="https://secure.hayhouse.com/member_area/index.php">My Account</a></li>
+			<li><a href="https://secure.hayhouse.com/member_area/login.php?member_save=/member_area">Sign In</a></li>
+				</ul>
+</div>
+</div>
+<div id="tabs_outerwrapper">
+	<div id="tabs_innerwrapper">
+    <table width="811" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
-			<td height="22" width="201"><img src="/images/nav/spacer.gif" width="201" height="1"></td>
-			<td height="22" width="17"><img src="/images/spacer.gif" width="13" height="1"></td>
-<td height="22" width="42"><a href="http://www.hayhouse.com/topiclist.php"><img border="0" alt="browse" src="/images/nav/browse.gif" width="42" height="22"></a></td>
-<td height="22" width="17"><img src="/images/spacer.gif" width="13" height="1"></td>
-<td height="22" width="54"><a href="http://www.hayhouse.com/cart.php"><img border="0" alt="cart" src="/images/nav/cart.gif" width="54" height="22"></a></td>
-<td height="22" width="17"><img src="/images/nav/tab_lft.gif" width="13" height="22"></td>
-<td height="22" width="85"><a href="http://www.hayhouse.com/customer.php"><img border="0" alt="care" src="/images/nav/care_over.gif" width="85" height="22"></a></td>
-<td height="22" width="17"><img src="/images/nav/tab_rt.gif" width="13" height="22"></td>
-<td height="22" width="62"><a href="http://www.hayhouse.com/contact.php"><img border="0" alt="contact" src="/images/nav/contact.gif" width="62" height="22"></a></td>
-<td height="22" width="17"><img src="/images/spacer.gif" width="13" height="1"></td>
-<td height="22" width="32"><a href="http://www.hayhouse.com/index.php"><img border="0" alt="home" src="/images/nav/home.gif" width="32" height="22"></a></td>
-<td height="22" width="17"><img src="/images/spacer.gif" width="13" height="1"></td>
+		<td id="site_description"><img id="site_browse_product" src="/images/common/descriptions/browse_product.gif" alt="Browse by product"></td>
+		<td id="site_customer_care" align="right" rowspan="2"><a href="http://www.hayhouse.com/customer.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('care','','/images/common/nav/customer_care_over.gif',1)"><img src="/images/common/nav/customer_care.gif" alt="Customer Care" name="care" border="0" id="care"></a><a href="http://www.hayhouse.com/contact.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','/images/common/nav/contact_over.gif',1)"><img src="/images/common/nav/contact.gif" alt="Contact Us" name="contact" border="0" id="contact" style="margin-left:15px;"></a></td>
+		<td rowspan="2" align="right" id="site_wisdom_login"><img src="/images/common/nav/wisdom_login.gif" alt="Wisdom Community" border="0" usemap="#Map"></td>
 		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<!-- secondary navigation -->
-<tr align="left" valign="top"> 
-	<td height="29" width="554" colspan="3">
-		<table width="554" border="0" cellspacing="0" cellpadding="0" background="/images/nav/sub_nav_bg.gif">
-		<tbody><tr><td height="29"><img src="/images/nav/cust_sub_nav.gif" width="554" height="29"></td></tr>
-		</tbody></table>
-	</td>
-</tr>
-<!-- search prompts -->
-<tr align="left" valign="top"> 
-	<td height="36" width="554" colspan="3" style="font-size: 1px">
-		<form name="searchform" action="http://www.hayhouse.com/key_results.php" method="get" onsubmit="return check_keyword_form()">
-		<table border="0" cellspacing="0" cellpadding="0" width="554">
-		<tbody><tr> 
-			<td colspan="10" height="6"><img src="/images/spacer.gif" width="1" height="1"></td>
+		<tr>
+		<td id="site_tabs">
+		<div id="browse_header">
+			<ul id="BrowseMenu">
+			
+ <li id="search_id" class="First">
+ <a id="selected" name="Search" href="javascript:hide_unhide('Search')">Search</a>
+ </li>
+ <li id="products_id">
+ <a id="Products" name="Products" href="http://www.hayhouse.com/topiclist.php">Products</a>
+ </li>
+ <li id="events_id">
+ <a id="Events" name="Events" href="http://www.hayhouse.com/event_search.php?format_id=7&amp;is_browse_search=1&amp;search_or_results=results&amp;searchType=browse&amp;events_and_or_tours=tours">Events</a>
+ </li>
+ <li id="catalogs_id">
+ <a id="Catalogs" name="Catalogs" href="http://www.hayhouse.com/catalog/149/youcanhealyourlife/index.php">Catalogs</a>
+ </li>
+ <li id="bestsellers_id">
+ <a id="Bestsellers" name="Bestsellers" href="http://www.hayhouse.com/bestsellers.php">Bestsellers</a>
+ </li>
+ <li id="cart_id">
+ <a id="Cart" name="Cart" href="http://www.hayhouse.com/cart.php">Cart</a>
+ </li>
+ <li id="account_id">
+ <a id="Account" name="Account" href="javascript:hide_unhide('Account')">Account</a>
+ </li>			</ul>
+		</div>   
+		</td>
 		</tr>
-		<tr> 
-			<td width="14"><img src="/images/spacer.gif" width="14" height="1"></td>
-			<td width="52"><img src="/images/search_nav/search.gif" width="52" height="9"></td>
-			<td> 
-				<select name="format">
-				<option value="" selected="">All Products</option>
-				<option value="1">Books</option>
+	</tbody></table>
+	</div>
+</div>
+<div id="SubNav">
+<div id="TopBar">
+<div id="TopMenuItems">
+<ul id="BrowseSubMenu_Cart" name="cart_display" style="display:none">
+<li id="cart_msg">30% off products 10% off events- Join the Hay House Wisdom Community today!</li></ul>
+<div id="BrowseSubMenu_Search" name="Search_display">
+	<div id="search_nav">
+		<form name="searchform" id="site_search_form" action="http://www.hayhouse.com/key_results.php" method="get" onsubmit="return check_keyword_form()">
+    		<table cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td><select name="format" class="site_search">
+						<option value="title">By Title</option>
+						<option value="">By Keyword</option>
+						<option value="1">Books</option>
+<option value="23">Children's Books</option>
 <option value="4">Card Decks</option>
 <option value="2">Audio Cassettes</option>
 <option value="3">Audio CDs</option>
 <option value="5">Video</option>
 <option value="9">Spanish</option>
 <option value="6">Newsletters</option>
+<option value="18">On Demand Download</option>
+<option value="19">Live Online Event</option>
+<option value="22">Cruise</option>
 <option value="7">Lectures &amp; Events</option>
+<option value="17">On Demand Stream</option>
 <option value="11">Calendars</option>
 <option value="10">Kits</option>
 <option value="13">DVDs</option>
 <option value="14">Gifts</option>
 <option value="15">Donation</option>
-				</select>
-			</td>
-			<td width="71"><img src="/images/search_nav/keyword.gif" width="71" height="9"></td>
-			<td><input type="text" name="keyword" size="10"></td>
-			<td width="8"><img src="/images/spacer.gif" width="8" height="1"></td>
-			<td width="16"><input type="image" border="0" src="/images/search_nav/search_arrow.gif" width="16" height="16"></td>
-			<td width="127"><img src="/images/search_nav/adv_search.gif" width="127" height="9"></td>
-			<td width="16"><a href="/adv_search.php"><img border="0" src="/images/search_nav/search_arrow.gif" width="16" height="16"></a></td>
-			<td width="13"><img src="/images/spacer.gif" width="13" height="1"></td>
-		</tr>
-		</tbody></table>
+<option value="16">Membership</option>
+</select></td>
+					<td><input type="text" name="keyword" size="10" class="site_search" value=""></td>
+					<td><input type="image" border="0" src="/images/common/buttons/search_btn.gif" class="site_search_btn"></td>
+					<td><img src="/images/common/buttons/lt_blue_arrow.gif" class="search_arrow">
+			<a href="http://www.hayhouse.com/adv_search.php">Advanced Search</a></td></tr></tbody></table>        
 		</form>
-	</td>
-</tr>
-<!-- cart-related buttons -->
-<tr align="left" valign="top"> 
-	<td height="22" width="554" align="right" class="smalltext" colspan="3"><a href="https://secure.hayhouse.com/billaddress.php"><img src="/images/buttons/checkout.gif" alt="checkout" border="0"></a><img src="/images/spacer.gif" width="14" height="1"></td>
-</tr>
-<!-- page header and drill-down menu -->
-<tr> 
-	<td height="46" width="554" colspan="3"> 
-		<table width="554" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr> 
-			<td width="14">&nbsp;</td>
-			<td width="245">
-<img src="/images/page_headers/privacy.gif" alt="Privacy Policy"></td><td align="right" class="smalltext" valign="bottom" width="309"><a href="/index.php">Home</a>
-<img src="/images/nav/drill_arrow.gif" width="17" height="12" align="middle"><a href="/customer.php"><font color="#003366">Customer Care</font></a>
-<img src="/images/nav/drill_arrow.gif" width="17" height="12" align="middle"><font class="smalltextbold" color="#000000">Privacy Policy</font>
-</td>
-			<td align="right" class="medtext" valign="bottom" width="13">&nbsp;</td>
-		</tr>
-		<tr>
-			<td height="5" colspan="4"><img src="/images/spacer.gif" height="5"></td>
-		</tr>
+			</div>  
+</div>
+<ul id="BrowseSubMenu_Products" name="Products_display" style="display:none">
+
+ <li class="First">
+ <a href="http://www.hayhouse.com/topiclist.php">browse by topic</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/adv_search.php?authorlist=1">by author or title</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/newsletters.php">newsletters</a>
+ </li>
+ <li>
+ <a href="http://www.audible.com/hayhouse/?utm_id=art001" target="_blank">audible downloads</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/adv_results.php?search_or_results=results&amp;authorlist=&amp;format=16&amp;title=&amp;author=&amp;browse_author_select_ae=&amp;browse_author_select_fj=&amp;browse_author_select_ko=&amp;browse_author_select_pt=&amp;browse_author_select_uz=&amp;keyword=.&amp;topics_id=&amp;isbn=">memberships</a>
+ </li></ul>
+  <ul id="BrowseSubMenu_Account" name="Account_display" style="display:none">
+
+ <li class="First">
+ <a href="https://secure.hayhouse.com/member_area/change_info.php">Update Profile</a>
+ </li>
+ <li>
+ <a href="https://secure.hayhouse.com/member_area/billship.php?what=billing">Address Book</a>
+ </li>
+ <li>
+ <a href="https://secure.hayhouse.com/member_area/cc.php">Payment Methods</a>
+ </li>
+ <li>
+ <a href="https://secure.hayhouse.com/member_area/orders.php">Order History</a>
+ </li>
+ <li>
+ <a href="https://secure.hayhouse.com/member_area/ondemand.php">On Demand</a>
+ </li>
+ <li>
+ <a href="https://secure.hayhouse.com/member_area/live_events.php">Online Events</a>
+ </li>
+ <li>
+ <a href="https://secure.hayhouse.com/member_area/video.php">Streaming Video</a>
+ </li>
+ <li>
+ <a href="https://secure.hayhouse.com/member_area/subscriptions.php?type=6">Subscriptions</a>
+ </li>
+ <li>
+ <a href="https://secure.hayhouse.com/member_area/subscriptions.php?type=16">Communities</a>
+ </li></ul>
+  
+		  
+<ul id="BrowseSubMenu_Events" name="Events_display" style="display:none">
+
+ <li class="First">
+ <a href="http://www.hayhouse.com/event_search.php?format_id=7&amp;is_browse_search=1&amp;search_or_results=results&amp;searchType=browse&amp;events_and_or_tours=events">lectures &amp; events</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/event_search.php?format_id=7&amp;is_browse_search=1&amp;search_or_results=results&amp;searchType=browse&amp;events_and_or_tours=tours">view by tour</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/event_search.php?format_id=19&amp;is_browse_search=1&amp;search_or_results=results&amp;searchType=browse">live online events</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/event_search.php?format_id=17,18&amp;is_browse_search=1&amp;search_or_results=results&amp;searchType=browse">on demand events</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/event_search.php?format_id=22&amp;is_browse_search=1&amp;search_or_results=results&amp;searchType=browse">cruises</a>
+ </li></ul>
+   
+<ul id="BrowseSubMenu_Bestsellers" name="Bestsellers_display" style="display:none">
+
+ <li class="First">
+ <a href="http://www.hayhouse.com/bestsellers.php">hay house bestsellers</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/new_york_times_bestsellers.php">new york times bestsellers</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/new_releases.php">new releases</a>
+ </li></ul>
+    
+<ul id="BrowseSubMenu_Catalogs" name="Catalogs_display" style="display:none">
+
+ <li class="First">
+ <a href="http://www.hayhouse.com/catalog/holiday2008/specials/index.php">2008 Holiday Specials</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/catalog/holiday2008/email_specials/index.php?catalog=1">Weekly Holiday Specials</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/catalog/149/youcanhealyourlife/index.php">you can heal your life</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/catalog/printed_catalogs.php">printed catalogs</a>
+ </li></ul>
+<!-- End of the TopMenuItems div -->
+</div>
+   
+<div id="drilldown">
+	<a href="http://www.hayhouse.com/index.php" class="first_drilldown">Home</a><img src="/images/common/nav/drilldown_arrow.gif"><a href="/customer.php">Customer Care</a>
+<img src="/images/common/nav/drilldown_arrow.gif"><span class="current_page">Privacy Policy</span>
+</div>
+
+</div>    
+	<div id="enews_section">
+		<table width="207" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="57"><img src="/images/common/nav/all/enews.gif" alt="E-news" width="57" height="24"></td>
+				<td><a href="http://www.hayhouse.com/privacy.php"><img src="/images/common/nav/all/user_agreement.gif" alt="User Agreement" width="149" height="24" border="0"></a></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<div id="enews"> 
+						<form id="enews_form" name="newsletter" method="post" action="" onsubmit="return verify_enews();">
+						<table cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><input id="enews_input" value="enter e-mail address" type="text" name="email" size="17" maxlength="30"></td>
+								<td><input id="enews_submit_btn" name="image" type="image" src="/images/common/buttons/enews_submit_btn.gif" alt="Submit Enews Request" border="0"></td>
+							</tr>
+						</tbody></table>
+						<div id="enews_input_error_msg" class="errors"></div>
+						</form>						
+					</div>
+				</td>
+			</tr>
 		</tbody></table>
-	</td>
-</tr>
-<!-- left column, with navigation -->
-<tr>
-	<td width="183" bgcolor="E7EBF0" align="left" valign="top">
-		<table width="183" border="0" cellspacing="0" cellpadding="0" bgcolor="E7EBF0">
-		<tbody><tr>
-			<td colspan="3" height="2"><img src="/images/borders/logo_border.gif" width="183" height="2"></td>
-		</tr>
-		<tr>
-			<td colspan="3" height="12"><img src="/images/spacer.gif" width="1" height="1"></td>
-		</tr>
-		<tr valign="top" align="left">
-			<td width="14">&nbsp;</td>
-			<td width="155" class="medtext">
-			&nbsp;
-				
-			</td>
-			<td width="14">&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="3">&nbsp;</td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td width="13" class="smalltext"><img src="/images/spacer.gif" width="13"></td>
-	<td width="528" class="medtext" valign="top" height="397">
-<!-- content -->
-
-
-
-
-<span class="medtext"><br><br><br></span>
-
-<table border="0" cellspacing="0" cellpadding="0" width="525">
-<tbody><tr>
-	<td class="medtext">
-		Hay House has created this privacy 
-		statement in order to demonstrate our firm commitment to privacy. 
-		The following discloses our information gathering and dissemination 
-		practices for this Web site: 
-		<br>
-		<br>
-		Our online e-newsletter asks users to give us contact information 
-		(like their name and email address). This information is used to 
-		contact the visitor when necessary about special promotions, and 
-		discounts, and is never divulged to third parties. This site contains 
-		links to other sites. Hay House is not responsible for the privacy 
-		practices or the content of such Web sites. 
-		<br>
-		<br>
-		Our site uses an order form for customers to request information, 
-		products, and services. We collect visitor's contact information 
-		(like their email address) and financial information (like their 
-		account or credit card numbers). Contact information from the order 
-		form is used to send orders, information about our company, and 
-		occasional future promotional material. The customer's contact information 
-		is also used to get in touch with the customer when necessary regarding 
-		the order. Financial information that is collected is used to bill 
-		the user for products and services.
-		<br>
-		<br>
-		<span class="medtextBold"><font color="#000000">Choice/Opt-Out<br>
-      </font></span> Please contact <a href="email.php">Customer Service</a> to 
-      request the removal of your information from our database or to no longer 
-      receive future communications. <br>
-		<br>
-		<span class="medtextBold"><font color="#000000">Contacting the Web site<br></font></span>
-		If you have any questions about this privacy statement, the practices 
-		of this site, or your dealings with this Web site, you can contact 
-		Hay House at the address below.
-		<br>
-		<br>
-		Hay House, Inc.<br>
-		P.O. Box 5100<br>
-		Carlsbad, CA 92018-5100<br>
-		(800) 654-5126<br>
-	</td>
-</tr>
-</tbody></table>
-
-<br>
-
-<!-- end content -->
-	</td>
-	<td width="13" class="smalltext"><img src="/images/spacer.gif" width="13"></td>
-</tr>
-<tr>
-	<td colspan="5" height="1" background="/images/borders/bottom_border.gif"><img src="/images/spacer.gif" height="1" width="1"></td>
-</tr>
-<!-- bottom nav -->
-<tr>
-	<td colspan="5" nowrap="" valign="top" bgcolor="#FFFFFF">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td width="40"><a href="/index.php"><img src="/images/footer2/footer_01.gif" width="40" height="28" border="0" alt="Hay House"></a></td>
-			<td width="69"><a href="/copyright.php"><img src="/images/footer2/footer_02.gif" width="69" height="28" border="0" alt="Hay House Copyright"></a></td>
-			<td width="101"><a href="/privacy.php"><img src="/images/footer2/footer_03.gif" width="101" height="28" border="0" alt="Hay House Privacy Policy"></a></td>
-			<td width="92"><a href="/terms.php"><img src="/images/footer2/footer_04.gif" width="92" height="28" border="0" alt="Hay House Terms of Use"></a></td>
-			<td width="74"><a href="/affiliates.php"><img src="/images/footer2/affiliates_footer.gif" width="74" height="28" border="0"></a></td>
-			<td width="143"><a href="/signup.php"><img src="/images/footer2/footer_05.gif" width="143" height="28" border="0" alt="Hay House Newsletter"></a></td>
-			<td width="191">&nbsp;</td>
-			<td width="31"><a href="#top"><img src="/images/footer2/footer_08.gif" width="31" height="28" border="0" alt="Back To Top"></a></td>
-		</tr>
-		<tr>
-		  <td height="10" colspan="8"><span class="smalltext"><img src="/images/spacer.gif" width="1" height="10"></span></td>
-		  </tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-
-
+	  </div>
+	</div>  
+	<div class="clear"></div>
+	<div id="header_bottom"></div>	
+    <div class="clear"></div> 
+        <div id="cart_items"><div id="cart_items_info"><a href="http://www.hayhouse.com/cart.php">In your cart: Items (0)</a></div></div>
+    <div class="clear"></div> 
+<map name="Map" id="Map"><area shape="rect" coords="28,12,85,27" href="http://www.hayhouse.com/wisdom/index.php" alt="Wisdom Community">
+<area shape="rect" coords="94,13,134,30" href="https://secure.hayhouse.com/wisdomcommunity/wisdom_login.php?member_save=/wisdomcommunity" alt="Wisdom Community Login">
+</map>
+	<div id="Wrapper_container">
+		<div id="content_sidebar">
+			<div id="sidebar_customer">
+	<img src="/images/common/side_bar/custcare_sidebar_hd.gif"><br>
+	<ul id="sidebar_nav">
+		<li><a href="http://www.hayhouse.com/about.php">About Hay House</a></li>
+		<li><a href="http://www.hayhouse.com/why_register.php">About Customer Accounts</a></li>
+		<li><a href="http://www.hayhouse.com/customer.php">Customer Care</a></li>
+		<li><a href="http://www.hayhouse.com/contact.php">Contact Us</a></li>
+		<li><a href="http://www.hayhouse.com/faq.php">FAQs</a></li>
+		<li><a href="http://www.hayhouse.com/privacy.php">Privacy Policy</a></li>
+		<li><a href="http://www.hayhouse.com/terms.php">Terms of Use</a></li>
+		<li><a href="http://www.hayhouse.com/jobs.php">Job Opportunities</a></li>
+		<li><a href="http://www.hayhouse.com/guides.php">Manuscript <!--Submission -->Guidelines</a></li>
+		<li><a href="http://www.hayhouse.com/artwork_submissions.php">Artwork Guidelines</a></li>
+	</ul>
+</div>		</div>
+		<div id="page_content">
+			<div id="PageHeader">privacy policy</div>
+            <div id="intro" class="terms_of_use">
+			<p>Hay House has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site:</p></div>
+            <div class="terms_of_use">
+			<p>Our online e-newsletter asks users to give us contact information (like their name and e-mail address). This information is used to contact the visitor when necessary about special promotions, and discounts, and is never divulged to third parties. This site contains links to other sites. Hay House is not responsible for the privacy practices or the content of such Web sites.</p>
+			<p>Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information 
+			(like their e-mail address) and financial information (like their account or credit card numbers). Contact information from the order 
+			form is used to send orders, information about our company, and occasional future promotional material. The customer's contact information 
+			is also used to get in touch with the customer when necessary regarding the order. Financial information that is collected is used to bill 
+			the user for products and services.</p>
+			<p><strong>Choice/Opt-Out</strong><br>
+			Please contact <a href="email.php">Customer Service</a> to 
+			request the removal of your information from our database or to no longer 
+			receive future communications.</p>
+			<p><strong>Contacting the Web site</strong><br>
+			If you have any questions about this privacy statement, the practices 
+			of this site, or your dealings with this Web site, you can contact 
+			Hay House at the address below.</p>
+			<p>Hay House, Inc.<br>
+			P.O. Box 5100<br>
+			Carlsbad, CA 92018-5100<br>
+			(800) 654-5126</p>
+		</div>
+        </div>
+		<div id="content_secondary"></div>
+	</div>
+	<div id="site_footer">
+		<div id="BottomBar">
+	<ul>
+		<li><a href="http://www.hayhouse.com/copyright.php">Copyright</a></li>
+		<li><a href="http://www.hayhouse.com/privacy.php">Privacy Policy </a></li>
+		<li><a href="http://www.hayhouse.com/terms.php">Terms of Use </a></li>
+		<li><a href="http://www.hayhouse.com/signup.php">Hay House Newsletter</a></li>
+		<li><a href="http://www.hayhouse.com/affiliates.php">Affiliate Program</a></li>
+	</ul>
+	<div class="clear_both"></div>
+	<ul>
+		<li class="no_link">Visit our sites:</li>
+		<li><a href="http://www.youcanhealyourlifemovie.com/" target="_blank">YouCanHealYourLifeMovie.com</a></li>
+		<li>/<a href="http://www.hayhouse.com/" target="_blank">Hay House US</a></li>
+		<li>/<a href="http://www.hayhouse.co.uk/" target="_blank">Hay House UK</a></li>
+		<li>/<a href="http://www.hayhouse.com.au/" target="_blank">Hay House AU</a></li>
+		<li>/<a href="http://www.hayhouseradio.com/" target="_blank">HayHouseRadio.com</a></li>
+		<li>/<a href="http://www.icandoit.net/" target="_blank">ICanDoIt.net</a></li>
+	</ul>
+</div>
+	</div>
+</div>
 
 
 </body></html>
