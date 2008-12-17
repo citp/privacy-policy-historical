@@ -1,112 +1,27 @@
-> *The following text is extracted and transformed from the india.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602163428id_/http%3A//www.india.com/un/en/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070449id_/http%3A//www.india.com/company/privacy_policy) for the most accurate reproduction.*
 
-# StaticPages
+# Privacy Policy | India.com
 
-Privacy Policy for India.com  
-Overview  
-At India.com, we respect your privacy. We do collect information from you, but it is our policy and priority to ensure that all personal information remains private and secure. To earn your trust and confidence in the Internet and in India.com, we are disclosing our privacy practices and the uses of the information we gather. 
+World Media Group provides this privacy policy because we value your right to privacy. This policy is effective as of November 10, 2007 and governs the collection of personal information through this website on or after this date.
 
-To protect your privacy, India.com: 
+This policy describes the types of information we may collect from visitors and how that information is used. Please read this policy carefully before providing us with any personal information. If you have questions about this policy, contact us.
 
-  * will explicitly ask when they need information that personally identifies you or allows them to contact you - "Personal Identifying Information" 
-  * will notify you at the time of data collection or transfer and you will always have the option of not permitting the same 
-  * will not sell, rent, or loan personal identifying information regarding its users to any third party 
-  * will only share aggregated information that is non-personal, non-individual, statistical or demographic in nature with their marketing partners, advertisers or other third-parties for research and advertising purposes. 
-  * will not release personal identifying information about you without first obtaining your consent, unless required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or to protect and defend the rights and property of the company, enforce the User Agreement, to protect the interest of its users and/or to comply with any legal process served on our company; 
-  * will not knowingly collect personal identifying information from children younger than 18 without parental consent; 
-  * will make every effort to keep the information safe and secure 
-  * will inform you when we change our privacy policy, either by e-mail, newsletter or via a link on your Welcome Page when you log-in. 
+**Unregistered users**
 
-These links provide detailed information on our privacy practices:   
-| 1\. How do I locate the privacy policy at the India.com site?  
-| 2\. What general information does India.com collect and how is it used?  
-| 3\. What personal information does India.com collect and how is it used?   
-| 4\. Does that mean India.com sites sell my personal information to other companies?  
-| 5\. What if I do not want my personal information shared with another company?  
-| 6\. What about companies that partner with India.com sites to provide the site's products or services?  
-| 7\. What are cookies and how does India.com use them?   
-| 8\. How does India.com protect the privacy of children younger than 18 years?  
-| 9\. How can I access, change or delete information about myself?  
-| 10\. How secure is my Personal identifying information collected by India.com sites?  
-| 11\. How may I protect my privacy on the Internet and within India.com?   
-India.com reserves the right to amend this Privacy Statement at any time without prior notice, and only the current Privacy Statement may be deemed effective.   
-1.How do I locate the privacy policy at the India.com sites?  
-The India.com displays a "Privacy Policy " link, which identifies the privacy statement applicable to the site. Users should carefully examine and read the Privacy Policy by clicking on the link. India.com websites can be identified by the India.com logo appearing on the top left-hand corner of the screen.  
-Top  
-2.What general information does India.com collect about me and how is it used?  
-When you visit India.com, we collect some basic information about your computer, such as:   
-IP address (the numeric code allotted by your Internet Service Provider)   
-Operating system (e.g., Windows 95)   
-Browser software (e.g., Microsoft Internet Explorer, Netscape)   
-Internet Service Provider (e.g., Earthlink, Bell Atlantic, VSNL, Mantra Online, Satyam)   
-Other numeric codes used to identify a computer 
+You can register at some of our sites to take advantage of personalization features or to purchase travel services.
 
-The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit India.com. In addition, like many other sites with paid advertising, we disclose some of this aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.   
-  
-Top  
-3.What personal information does India.com collect about me and how is it used?   
-Personal information is collected by specifically requesting it from you. This occurs during the India.com signup (registration) process, when you request a service, provide feedback in an online survey, enter an online contest or sweepstakes, request email notification of your order status, or subscribe to a newsletter or a mailing list. We ask you to supply personal information, including your first name, last name, address, birth date and an alternate e-mail address. We also ask if you would like to receive promotional material from our sponsors and great offers from our partners. 
+If you do not register, then the information we collect from you is limited. We log your IP address in order to help diagnose problems with our server, administer our Web site and track usage statistics. Your IP address may vary each time you visit, or it may be the same. It would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our site by clicking on a link or advertisement on another site, we may log that information. All of this information is collected and used only in the aggregate.
 
-India.com and their necessary service partners use your personal identifying information to deliver services and inform you of other products or services available from India.com and its business partners. India.com may also use your personal identifying information to allow other companies to contact you regarding products and services that may be of interest to you ("Secondary Uses). If India.com proposes to use your personal identifying information for such Secondary Uses, you will be provided an opportunity at the time of data collection or transfer to instruct the India.com site to not allow such contact. It is completely optional for you to participate. If you opt-in to receive information from these business partners we will share your name and email address with them. You can opt-out of these services simply by not registering your preferences. In the case of newsletters or mailing lists, you will be able to "unsubscribe" to these mailings at any time.  
-  
-Top  
-4.Does that mean India.com sites sell my Personal Identifying Information to other companies?  
-No, India.com does not sell, rent or loan customer/user lists. However, individual India.com sites may partner with businesses to provide special services to our customers/users. This type of use of Personal Identifying Information is called a "Secondary Use" because it is not necessary to the operation of the business or site. For example, a site may offer discount coupons for services or related products. In many cases these discounts would be an added benefit to our customers/users.  
-Top  
-5\. What if I do not want my personal identifying information shared with another company?  
-If an India.com site proposes to use your personal identifying information for Secondary Use, you will be provided an opportunity at the time of data collection or transfer to instruct the India.com site to not allow such contact. If you opt-in to receive information from these business partners we will share your name and email address with them. You can opt-out of these services simply by not registering your preferences. In the case of newsletters or mailing lists, you will be able to "unsubscribe" to these mailings at any time. You may also stop the delivery of future informational or promotional mail from India.com sites by following the instructions on the mail sent to you.. 
+We may place a small “cookie” file on your computer's hard drive. A cookie may contain information that allows us to track your path through our Web site and to determine whether you have visited us before. Unless you register with us or purchase from us, the cookie contains no personally identifiable information. We may use cookies to help us understand how visitors use our site, and to help us to improve our site. You may elect not to accept cookies by changing settings in your browser.
 
-All Secondary Use that you request through India.com will include a removal procedure, which will allow you to discontinue Secondary Use. i.e., you can change your mind about Secondary Use.. 
+**Registered users**
 
-If you receive a service from a third party stating that it is associated with India.com, yet you do not recall asking for the information, please follow the third party's removal procedures. If this procedure is not successful, please forward the e-mail with a summary of your experience to privacydirector@.india.com. 
+If you purchase travel or other services or goods from us or you choose to register with us independently for other benefits, we will collect personal information from you in addition to the non-personal information described above. The information we collect may vary, but we only collect the information that you manually enter into our forms or otherwise authorize us to collect. That personal information may include your name, email address, mailing address, telephone number, payment information, travel and other preferences, user name and password, as well as contact information for other people that you provide to us. To provide an enhance personalized service, we may store all or some of that information in a cookie file on your hard drive, so that our system will recognize you each time you visit our site. In that way, we can save your preferences from visit to visit and present you with a customized Web site, without requiring you to log into our site every time you visit. Additionally, authorized personnel may update your registration information to accurately reflect any new information included in communications received from you.
 
-Additionally, be aware that when you click on ad banners, you may be brought to other sites not operated by India.com. You are responsible for information you provide these sites. We recommend that you review the privacy policy of any site that requests personal information.   
-  
-Top  
-6\. What about companies that partner with India.com sites to provide the site's products or services?  
-An India.com site may have several necessary service partners who assist in providing the service or product associated with the site. As part of the operations of the site, these companies may have access to your personal identifying information. These companies may provide routine services, such as credit card processing, or may provide essential elements of the site. For example, shopping.india.com must provide contact information to its fulfillment partners in order to respond to be able to deliver the products ordered by you. Without this relationship shopping.india.com could not provide its service to you. These uses of your personal identifying information are primary to the operation of the site and are not considered Secondary Uses.  
-Top  
-7\. What are cookies and how does India.com use them?   
-India.com requires each member to enable cookies to login and use our services. 
+We work with partners to make sure that we can provide you with the best possible services. If you reach our site through one of our partners rather than directly through us and you choose to register or purchase travel or other services or goods with them while they are acting as a service provider to us, they may provide certain of the information to us so that we can still enhance your service and any such information will be covered under the parameters of this privacy statement. In addition our partners may have their own privacy statements which govern their use of information that they collect and we encourage our users to read their statements as well before submitting any personal information.
 
-What is a Cookie? - A cookie is a very small text file placed on your hard drive - with your permission - by a web server. 
+Your information allows us to personalize our Web site so that it is most useful to you. It may allow you to log into our site automatically each time you visit, rather than manually typing your user name and password every time. We may use your personal information to periodically contact you with news or important information, to provide you with other information or invitations related to your membership, and to request your feedback on our site. For instance when you purchase travel or other services or goods from us we will send you travel booking or other relevant confirmations relating to your order. In addition, we send our customers and registers users periodic newsletters as well as valuable travel specials and other offers such as a special on a dream vacation, low cost airfare rates or relevant deals that we have secured for our users. We can use the information that you give us to make our specials more relevant to you. While many of our users look forward to receiving such offers, if you decide for any reason to not receive newsletter or special offers from us you can opt-out at any time by letting us know (opt-out links are provided in all emails). If you change you mind then just opt back in by letting us know.
 
-Why do we use Cookies? - Identification: We use cookies to identify you uniquely. The use of "Cookies" is an industry standard, and many major Web sites use them to provide useful features for their customers. 
+We may share some of your personally identifiable information with our parent company, our subsidiaries and sister companies. They are required to place restrictions on the use of personal information that comply with the provisions of this privacy policy. We also may share your personal information with third-parties engaged to provide services to us (such as market research firms, marketing services providers and advertising agencies). We will ensure those parties agree to use any such personally-identifiable data solely for the purpose of providing the specified services to us. We must cooperate with legal authorities, and may in some circumstances be required to disclose personally identifiable information in response to requests from law enforcement authorities, or in response to a subpoena or other legal process. We can turn over information about you if we believe we must in order to prevent a violation of the law, and by accepting this policy, you consent to our doing so, in our sole discretion. You also consent to our disclosing information about you in the course of legal proceedings if we are legally required to do so, if we reasonably believe that doing so may mitigate our liability, or if doing so will assist us in enforcing our legal rights. We also may share your information in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, and in the unlikely event of bankruptcy.
 
-Tracking and Maintaining Session information: - Setting cookies is currently the best method of maintaining session information over the web. India.com may allow advertisers or partners to set cookies, however, only if they agree to abide by our privacy rules and policies. 
-
-Are cookies secure? - A cookie cannot contain program codes, so it cannot be used as a virus nor can it be used to extract data from your system. When a cookie is set, only the server, which set the cookie, can access the information in that cookie. The use of cookies allows India.com to provide a higher level of security for your account. 
-
-How do I change the way my browser handles cookies? - Most browsers allow three options for handling cookies: (i) Accept all cookies; (ii) Warn before accepting a cookie and (iii)Reject all cookies 
-
-Our service will not function unless your browser is set to accept cookies. Instructions for enabling and disabling cookies can be found through the help menu on most browsers. If you have continued trouble changing your cookie settings, you may contact our support site for additional help.   
-  
-Top  
-8\. How does India.com protect the privacy of children younger than 13?   
-We believe that it's especially important to protect children's privacy online.   
-Note: India.com defines "children" as minors younger than 13 years.   
-In compliance with the Children's On Line Privacy Protection Act, India.com does not allow children under 13 years to sign up for our services at this time.   
-Top  
-9\. How do I access, change or delete information about myself?   
-Your personal information can be accessed, or changed by selecting "My account" then "Personal Info" in the navigation bar on the left, once you are logged in. If you would like to close your account and delete your personal information from our online servers, you can send an e-mail to support@.India.com and follow the process to close an account. 
-
-If, at any time, you would like to stop receiving promotional materials from India.com or promotional e-mails from third parties (which you signed up for), then follow the removal procedures at the end of the e-mail. If this is not successful, please contact us at [privacydirector@India.com.](mailto:privacydirector@india.com)  
-  
-Top  
-10\. How secure is my personal identifying information collected by India,com sites?  
-India.com uses a variety of techniques and technologies to secure the information collected at its sites. Personal identifiable information collected online is stored in secure operating environments that are not accessible to the public. In many transaction oriented activities the personal identifiable information is encrypted before you conduct the transaction, such as in the case of credit card numbers.   
-Top  
-11\. How may I protect my privacy on the Internet and within India.com?   
-1.Know the risks: If you provide your e-mail address to public domains such as chat rooms or newsgroups, or you provide it to Web sites which don't respect your privacy, you may begin to receive unsolicited e-mail. Unsolicited e-mail is also known as spam. Although India.com has strict rules prohibiting spam and we do block certain known groups from sending unsolicited messages to India.com members, it is generally a good idea to provide your e-mail address only to people or groups that you trust. 
-
-2.Educate yourself: Look for a privacy statement on every site you visit on the Web, and search for information on how to protect your privacy. 
-
-3.Tell your children: "Never talk to strangers!": Teach children not to give out their names or other personal information. Tell them never to fill out online registration forms without your knowledge and consent. 
-
-4.Use complex passwords: If your password is simple, it is also simple for a hacker to break it and gain access to your e-mail account or other private areas. To protect your privacy, you should use complex passwords consisting of very long and awkward keystroke combinations. This makes the hacker's job much more difficult. 
-
-We send reminders of your account passwords only after the appropriate security questions have been answered. NEVER GIVE YOUR PASSWORD TO ANYONE. If someone claiming to represent India.com in an e-mail or chat room asks for your India.com password, DO NOT RESPOND. The only time we ask for your password is via a web page, when you need to access our system (such as the login screen). Please help us keep our records current by updating your personal information when it changes. You can access your personal information by selecting "My Account, Personal Information" from the navigation bar on the left, when you're logged into your account. 
-
-This privacy policy is part of our User Agreement and you agree to be bound by all of its terms and conditions.   
-  
-Top
+We reserve the right to change this policy should we deem it advisable to do so. Our Privacy Policy will be available online for your review. If we make material changes that will affect personal information we have already collected from you, we will make reasonable efforts to notify you of the changes and give you the opportunity to amend or cancel your registration.
