@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizhwy.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630005556id_/http%3A//www.bizhwy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizhwy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217204323id_/http%3A//www.bizhwy.com/privacy.php) for the most accurate reproduction.*
 
-# Business Directory Listings
+# BizHwy Privacy Policy
 
 **THE SUMMARY**  
 BizHwy.com will not ask you for information that does not have a purpose and we will not require information to be disclosed that is not absolutely necessary. BizHwy.com is the sole owner of the information collected on this site. We will not sell your personally identifiable information to others. 
