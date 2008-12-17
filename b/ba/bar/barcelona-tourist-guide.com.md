@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the barcelona-tourist-guide.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622102510id_/http%3A//www.barcelona-tourist-guide.com/en/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcelona-tourist-guide.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102257id_/http%3A//www.barcelona-tourist-guide.com/en/general/privacy.html) for the most accurate reproduction.*
 
 # 
 
 Your privacy is important to us. We do not disclose any personal details that you have given us unless you specifically ask us to. 
 
-In providing reviews, comments or feedback to our site you have read and agreed to our terms of use of your comments which you can read by clicking on the following link [Terms To Providing Feedback ](https://web.archive.org/web/20080622102510id_/http%3A//www.barcelona-tourist-guide.com/en/general/copyright.html#exclusiverights)
+In providing reviews, comments or feedback to our site you have read and agreed to our terms of use of your comments which you can read by clicking on the following link [Terms To Providing Feedback ](https://web.archive.org/web/20081217102257id_/http%3A//www.barcelona-tourist-guide.com/en/general/copyright.html#exclusiverights)
 
-When you sign up to our [free newsletter](https://web.archive.org/web/20080622102510id_/http%3A//www.barcelona-tourist-guide.com/en/general/barcelona-travel-newsletter.html) we keep your details strictly private and never rent, sell, or in anyway disclose your e-mail address to any other company. 
+When you sign up to our [free newsletter](https://web.archive.org/web/20081217102257id_/http%3A//www.barcelona-tourist-guide.com/en/general/barcelona-travel-newsletter.html) we keep your details strictly private and never rent, sell, or in anyway disclose your e-mail address to any other company. 
 
 www.barcelona-tourist-guide.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
@@ -48,7 +48,7 @@ If www.barcelona-tourist-guide.com is sold, the information we have obtained fro
 ## How You Can Correct or Remove Information
 
 We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information   
-through our website and would like that information deleted from our records or would like to update or correct that information, please click on the [Contact Us page](https://web.archive.org/web/20080622102510id_/http%3A//www.barcelona-tourist-guide.com/en/general/contact-us.html) and let us know. 
+through our website and would like that information deleted from our records or would like to update or correct that information, please click on the [Contact Us page](https://web.archive.org/web/20081217102257id_/http%3A//www.barcelona-tourist-guide.com/en/general/contact-us.html) and let us know. 
 
 ## Exclusive rights to use site visitor submitted material reviews/comments/questions/images etc 
 
@@ -70,11 +70,11 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 If you do not agree to www.barcelona-tourist-guide.com Privacy Policy as posted here on this website, please do not use this website or any services offered by this web site.
 
-Your use of this web site indicates acceptance of this privacy policy and to our terms and conditions of use of our website which you can find by [clicking here. ](https://web.archive.org/web/20080622102510id_/http%3A//www.barcelona-tourist-guide.com/en/general/copyright.html)  
+Your use of this web site indicates acceptance of this privacy policy and to our terms and conditions of use of our website which you can find by [clicking here. ](https://web.archive.org/web/20081217102257id_/http%3A//www.barcelona-tourist-guide.com/en/general/copyright.html)  
 
 
 * * *
 
-### Related Pages 
+## Related Pages 
 
 * * *
