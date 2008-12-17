@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the asiaing.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429025927id_/http%3A//www.asiaing.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiaing.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025738id_/http%3A//www.asiaing.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Asiaing.com! Free eBooks, Free magazines, Knowledge sharing
+# Privacy Policy - Asiaing.com
 
+Tuesday, 06 March 2007   
+  
 Thank you for visiting [Asiaing.com Website](http://www.asiaing.com/) and reviewing our privacy policy. Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
 ## Cookies
@@ -32,4 +34,14 @@ When you leave our web site ([www.asiaing.com](http://www.asiaing.com/)), you wi
 
 
 Be informed. You are the person best qualified to protect your own privacy.  
+
+
+Comments 
+
+  
+
+
+Write comment
+
+  
 
