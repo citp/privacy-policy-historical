@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrarail.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609163842id_/http%3A//metrarail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrarail.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053218id_/http%3A//metrarail.com/privacy.html) for the most accurate reproduction.*
 
 # Metra Privacy
 
