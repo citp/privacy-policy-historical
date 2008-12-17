@@ -1,73 +1,53 @@
-> *The following text is extracted and transformed from the extremecfnm.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225175529id_/http%3A//www.adultxfun.com/index.php/about%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremecfnm.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044111id_/http%3A//www.extremecfnm.com/privacy.html) for the most accurate reproduction.*
 
-# CFNM movies
+# ExtremeCFNM.com - Privacy Policy
 
-AdultXFun is a well established adult entertainment company, with our main business running adult [websites](https://web.archive.org/index.php/websites). We pride ourselves on creating and offering some of the highest quality adult content on the Internet, you will not find our own content anywhere else, this is unique to us.
+## Last updated: 9th June 2008
 
-We have invested a lot of time and money over the years to produce some of the most pleasing designs, we also run and maintain our own servers to make sure that everything runs snoothly, just as it should. By running our own hardware it eliminates a lot of problems that other adult companies may have to put up with.
+Privacy policy statement for casual visitors to our website, we do not collect any information regarding domains, email addresses, or any other personal details.
 
-All of our sites are running 24 hours a day and 7 days a week, to guarantee this we have techincal staff continually monitoring the performance of our servers and sites. We are proud to say that we are a 24/7 company and hope you will agree with out statements when you visit one of our sites.
+The information that we collect from our customers is not shared with other organisations for commercial purposes. If you do not want to receive e-mail, mailings, or telephone calls - if you supplied us with those details - from us in the future, please contact us and we will remove you from any mailing lists.
 
-For casual visitors to our website, we do **not** collect any information regarding domains, e-mail addresses, or any other personal details.
+ExtremeCFNM.com has created this privacy statement in order to demonstrate our firm commitment to the privacy of our customers. The following discloses our information gathering and dissemination practices for our websites.
 
-The information that we collect from our customers is **not** shared with other organizations for commercial purposes. If you do not want to receive e-mail from us in the future, please let us know by sending an email to us via the [contact page](https://web.archive.org/index.php/contact) stating that you do not wish to receive any further communications from our company.
+## Automatically collected information
 
-If you have supplied us with your postal address online, you may receive periodic mailings from us with information on new products, services or upcoming events. Please provide us with your exact name and address if you do not wish to receive such mailings, send details via the [contact page](https://web.archive.org/index.php/contact).
+We use your IP address to help diagnose problems with our server, and keep track of how many visitors our websites have had, what country they have come from and what browser version they use. At no time is your IP address used to help identify you.
 
-Persons who have supplied us with their telephone number online may receive calls from us with information regarding orders they have placed on-line. Please provide us with your correct phone number via the [contact page](https://web.archive.org/index.php/contact) if you do not wish to receive any such contact.
+IP addresses are unique numeric identifiers that are assigned to each computer accessing the Internet. An IP address, by itself, cannot identify you personally. However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message.
 
-#### Our Privacy Statement
+## Cookies
 
-AdultXFun.com - and all associated websites - have created this statement in order to demonstrate our firm commitment to the privacy of our customers. The following discloses our information gathering and dissemination practices for our websites.
+We use cookies to help maintain a consistent experience for our customers. Cookies are used throughout our site to enable us to keep track of options selected by you. At no time is any personal information stored within a cookie. Visitors to our site can refuse cookies by turning them off in their browser, please note this will result in various aspects or our site becoming inaccessible due to relying on cookies for functionality.
 
-We use cookies to help maintain a consistent experience for our customers. Cookies are only used in a few sections of our site, specifically the online shop, this enables us to keep track of the products in your shopping cart. At no time is any personal information stored within a cookie.
+Cookies are small text files stored on your computer by your web browser software.
 
-We use your IP address to help diagnose problems with our server, and keep track of how many visitors our websites have had. At no time is your IP address used to help identify you.
+## Personal information
 
-This site contains links to other sites and is not responsible for the privacy practices or the content of such sites.
+Our website uses a basic contact form for customers to request information about our products and services and also to request general information. We do not collect and store visitors' personal contact information.
 
-Our websites use an orderform for customers to request information, products, and services. We collect visitors' contact information such as email address and financial information (i.e. account or credit card numbers). Contact information from orderforms are used to send order details and information to our company from our customers only. The customer's contact information is also used to get in touch with the visitor when necessary.
+Registered users may opt-out of receiving future mailings; see the choice/opt-out section below. The information that you provide to us will not be shared or sold to any other company or individuals at any time.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill customers for products and/or services. The information that you provide to us will not be shared or sold to any other company or individuals at any time.
+## Security
 
-#### Public Forums
+All Payments from this site are made via either [VXSBill](http://www.vxsbill.com/) or [CCBill](http://www.ccbill.com/). When you make a purchase you will be taken to a secure server. Depending on your web browser you will see a small padlock that informs you that your information is encrypted and you are on a secure server (SSL). Also, in the address bar the URL should start with "https://". VXSBill and CCBill only use the highest level of Internet security. At no time will your information be in any danger of theft.
 
-This site makes chat rooms, forums, message boards, and/or newsgroups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+## Public forums
 
-#### Security
+We do not have any forums, guest books or message boards on this site. Under no circumstances will information passed to ExtremeCFNM.com from online forms, postal order forms or from any other source be made public.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. When you make a purchase "add to shopping cart" you will be taken to a secure server. At the bottom of the page you will see a small padlock that informs you that your information is encrypted and you are on a secure server (SSL). Also, in the address bar the URL should start with "https://". This site only uses the highest level of Internet Security. At no time will your information be in any danger of theft.
+## Advertisers
 
-#### Choice/Opt-Out
+This site does not use third party ad companies to display advertisements on our site. However we do have outside companies advertising in our resources section (link exchange pages) these companies may use cookies and other information gathering methods to target ads to visitors.
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
+## External Links
 
-If you do not wish to be placed on our mailing list please contact us via our [contact page](https://web.archive.org/index.php/contact) with a request to be removed. This will be carried out without any hesitation.
+ExtremeCFNM.com's site contains links to other sites. ExtremeCFNM.com is not responsible for the privacy policies, privacy practices or the content of such websites.
 
-#### Contacting the Web Site
+## Choice/Opt-Out
 
-If at any time you wish to contact us, please go to the [contact page](https://web.archive.org/index.php/contact). Here you will be able to contact us via on-line form, telephone, or mailing address.
+Our site provides users the opportunity to opt-out of receiving communications from us. If you do not wish to be placed on our mailing list please make sure you have opted by contacting us.
 
-We want you to feel confident when shopping with us. That is why our returns policy is very simple and straightforward.
+## Contacting the website
 
-We want you to be satisfied with your purchase, if for whatever reason you are not you may return the product to us in its original condition. Any unopened CD, DVD or VHS tape in its original condition returned within 10 days of receipt of your order will receive a full refund.
-
-If any open video or audio product is defective, it must be returned to us within 30 day to be replaced by another audio or video of the same program.
-
-No authorization is required. Simply indicate the reason for your return, include the packing slip, and box the package securely. If you do not have your packing slip, please indicate your name, address and the order number on a separate piece of paper, and send the package to the address on the [contact page](https://web.archive.org/index.php/contact).
-
-We cannot accept responsibility for lost items during transit, we recommend that you ship by USPS Insured Post or any other service, like UPS or FedEx, which offers tracking numbers.
-
-#### Items Received as a Gift
-
-If a product received from us was sent to you as a gift, we can issue a cheque refund to the gift recipient at the same address to which the order was shipped. Please include your packing slip or the name of the person who gave the gift.
-
-Please include your e-mail address so that we may confirm your refund.
-
-#### Refunds
-
-We will notify you via e-mail of your refund once we have received the returned items. Please note that we can refund shipping costs only if the return is a result of our error.
-
-#### Need more information or assistance?
-
-If you have any problems with your order, please don't hesitate to [contact us](https://web.archive.org/index.php/contact).
+If at any time you wish to contact us with a membership issue, please login to the members area and send us a message from the contact form provided. If you are having issues gaining access then please direct all queries to the [billing support pages](https://secure.vxsbill.com/service.php3?site=705&language=en).
