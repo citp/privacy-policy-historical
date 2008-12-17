@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621225643id_/http%3A//www.mbtrading.com/disc0.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092626id_/http%3A//www.mbtrading.com/disc0.asp) for the most accurate reproduction.*
 
 # Online Stock Trading | MB Trading Direct Access Brokerage Firm
 
@@ -15,12 +15,12 @@ It is our desire to keep you informed of changes in federal, state or self-regul
 **OUR COMMITMENT TO YOUR PRIVACY**  
 We understand the importance of maintaining the privacy of your personal and financial information. By entrusting us with your information, we would like to assure you of our commitment to keeping it private. We have taken measurable steps to protect the confidentiality, security and integrity of your information. 
 
-This notice will help you understand our overall privacy policy and the type of information that we collect, use and protect, which will also be provided to you on an annual basis and within your account opening documents. 
+This notice will help you understand our overall privacy policy and the type of information that we collect, use and protect, which will also be provided to you on an annual basis. 
 
 **PRIVATE POLICY SUMMARY**  
 We collect personal and financial information to open your account, to process your transactions, to administer your account, to verify your identity, employment, creditworthiness, and to carry out your request for other products and services. The following categories are examples of personal nonpublic information that will be requested from you: (1) name, (2) date of birth, (3) trading history, (4) total assets, (5) social security number, (6) cash balance, (7) margin information, and (8) positions. We have implemented procedures to protect your nonpublic personal and financial information. 
 
-We do not disclose your nonpublic information to nonaffiliated third parties unless to facilitate your written requests or instructions, or it is permitted or otherwise required by law. Examples of "permitted by law" include our clearing firms: Penson Financial Services, Inc. (which clears and settles your securities transactions) and Penson Financial Futures, Inc. (which clears and settles your futures transactions); and credit bureaus (e.g. Experian, Equifax, and Trans Union). "Required by law" examples include court orders and regulatory investigations. 
+We do not disclose your nonpublic information to nonaffiliated third parties unless to facilitate your written requests or instructions, or it is permitted or otherwise required by law. Examples of "permitted by law" include our clearing firms: Penson Financial Services, Inc. (which clears and settles your securities transactions) and Penson GHCO (which clears and settles your futures transactions); and credit bureaus (e.g. Experian, Equifax, and Trans Union). "Required by law" examples include court orders and regulatory investigations. 
 
 We do not sell your personal information to third-party marketers or any other entity for any purpose.
 
@@ -31,7 +31,7 @@ Our employees or representatives may collect nonpublic personal information abou
 
   * Your account application or other supplemental account forms.
   * Your transactional history with affiliates MB Trading, MB Trading Futures, Inc. and/or 3DForex, LLC.
-  * Your account records including transactional history with nonaffiliates Penson Financial Services, Inc. and Penson Financial Futures, Inc., where it is appropriate 
+  * Your account records including transactional history with nonaffiliates Penson Financial Services, Inc. and Penson GHCO, where it is appropriate 
   * Information from credit reporting agencies (e.g. Experian, Equifax, and Trans Union).
   * Current and prior employers, federal and state agencies.
   * Consumer reporting agencies such as McDonald Information Service, Inc.
@@ -45,7 +45,7 @@ Information collected is used to process your transactions, update your account 
 We limit access to only those employees or representatives that need to know the information in order to assist in carrying out your request for products or services. We have policies and procedures that give direction to our employees, and representatives acting on our behalf, regarding how to protect and use nonpublic personal information. Further, we maintain physical, electronic, and procedural safeguards that comply with federal and state regulations to guard your information.
 
 **NONAFFILIATED THIRD PARTIES**  
-We do not share nonpublic personal information about you with nonaffiliated third parties, unless otherwise permitted or required by law, which does not aid in the carrying out of your request or instructions. These nonaffiliated third parties include government/regulatory organizations, such as the Internal Revenue Service (IRS), the Securities and Exchange Commission (SEC), Commodity Futures Trading Commission (CFTC), National Association of Securities Dealers (NASD), National Futures Associations (NFA) and to parties under court order or subpoena that request this information. Disclosures for which you have provided your consent or you have directed us to make are permitted. 
+We do not share nonpublic personal information about you with nonaffiliated third parties, unless otherwise permitted or required by law, which does not aid in the carrying out of your request or instructions. These nonaffiliated third parties include government/regulatory organizations, such as the Internal Revenue Service (IRS), the Securities and Exchange Commission (SEC), Commodity Futures Trading Commission (CFTC), Financial Industry Regulatory Authority (FINRA), National Futures Associations (NFA) and to parties under court order or subpoena that request this information. Disclosures for which you have provided your consent or you have directed us to make are permitted. 
 
 We require all entities with which we share your nonpublic personal information agree to keep your information confidential. We also prohibit them from using or disclosing your information except for the limited purpose and to the persons for whom disclosure was intended, or as otherwise permitted by law.
 
