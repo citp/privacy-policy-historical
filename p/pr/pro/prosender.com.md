@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prosender.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625113805id_/http%3A//www.prosender.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosender.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217174900id_/http%3A//www.prosender.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - MikeFilsaime.com, Inc
 
-[Home](https://web.archive.org/web/20080625113805id_/http%3A//www.prosender.com/index.htm) > [About Us](https://web.archive.org/web/20080625113805id_/http%3A//www.prosender.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20080625113805id_/http%3A//www.prosender.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20081217174900id_/http%3A//www.prosender.com/index.htm) > [About Us](https://web.archive.org/web/20081217174900id_/http%3A//www.prosender.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20081217174900id_/http%3A//www.prosender.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of MikeFilsaime.com, Inc/AWeber Systems, Inc.**
 
