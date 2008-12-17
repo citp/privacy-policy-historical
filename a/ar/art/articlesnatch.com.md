@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesnatch.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606220855id_/http%3A//www.articlesnatch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesnatch.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040157id_/http%3A//www.articlesnatch.com/privacy.php) for the most accurate reproduction.*
 
 # Free Articles ArticleSnatch Article Directory
 
@@ -26,6 +26,8 @@ ArticleSnatch.com expects its partners, advertisers and affiliates to respect th
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. ArticleSnatch.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
+If you would like to opt out of several third party ad networks at once you can visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp)
+
 You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of ArticleSnatch.com and this policy. 
 
 Children
@@ -34,7 +36,7 @@ ArticleSnatch.com does not knowingly collect or solicit Personally Identifiable 
 
 Contacting Us
 
-We can be reached through the [Contact Us](http://www.articlesnatch.com/contacts.php) Page.
+We can be reached through the [Contact Us](http://www.articlesnatch.com/contact/) Page.
 
 Changes to this Policy
 
