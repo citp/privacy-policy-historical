@@ -1,33 +1,42 @@
-> *The following text is extracted and transformed from the lamar.edu privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306122340id_/http%3A//www.lamar.edu/contact/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamar.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100926id_/http%3A//140.158.64.247/privacy_security.php) for the most accurate reproduction.*
 
-# Lamar University: Contact LU
+# Lamar University - Contact Us
 
-**  
-Privacy Policy**
+#### Privacy
 
-Lamar University respects your privacy. The University's main website, located at http://www.lamar.edu and all pages that begin with that address, follow this privacy policy.
+Lamar University has created this privacy and security statement to explain our information gathering and dissemination practices for our Web site, [ www.lamar.edu](http://www.lamar.edu/). This statement applies to all information solicited or gathered on this Web site.
 
-**Cookies**  
-Our main website does not collect personal information about visitors. Specifically, we do not use "cookies" to collect information. However, faculty and staff at Lamar who are updating their committee meeting minutes via the Faculty/Staff website are required to accept cookies as part of the login process. This cookie contains the username, password, and committee identification and does not contain any other information. 
+This site contains links to other sites. We are not responsible for the privacy and security policies and practices of such Web sites, nor their content.
 
-Additionally, current students who wish to post messages in the message forums in the LUforStudents section are also required to accept cookies to post information. This cookie contains username, posting privelege level, and information denoting whether or not the Terms and Conditions have been read. This information is not used for any purpose other than to facilitate use of the message forums, and it will not be made available to anyone outside the web services department. If you are a current student of Lamar University, and you object to accepting cookies, you must refrain from using the message forums. Please read the Terms and Conditions of the message forums for more information.
+Although anyone using www.lamar.edu should not have a legal expectation of privacy, Lamar University will not share information with other parties or gather information from other private data providers. Unless specifically required, pursuant to a written request filed under the [ Texas Public Information Act](http://www.tsus.edu/utilities/open_records/index.html), Government Code, Chapter 552, Lamar University generally will not release information gathered through its Web site.
 
-**Personal Information**  
-Personal information that is provided voluntarily to the University through use of email or online forms is used solely for the purpose of assisting you, such as servicing requests for information, responding to inquiries, or resolving technical problems with the website. Requests or inquiries may be forwarded to parties with Lamar University who can better service you.
+Information and comments collected from Web forms are subject to public disclosure under the [Texas Public Information Act](http://www.tsus.edu/utilities/open_records/index.html) , Government Code, Chapter 552. Non-governmental email addresses are not subject to disclosure unless the affected member of the public affirmatively consents to the disclosure of his or her e-mail address.
 
-You are entitled to the following, regarding personal information that may be collected about you:
+Consistent with the federal Family Educational Rights and Privacy Act (FERPA), Lamar University will not release personally identifiable student information to third parties without written authorization from the student.
 
-1) On request, to be informed about the information that Lamar University collects about you;  
-2) To receive and review the information; and  
-3) To have Lamar University correct information about you that is incorrect.
+This site uses both permanent and transient cookies for the purposes of access control and to help monitor usage statistics.
 
-We do use server logs to collect general information regarding your Internet connection and your visit to our website. This information is compiled and viewed in summarized form to analyze trends, target problem areas, and affect design or technical aspects of the site. Specific information about any one connection to our website will only be provided when legally required to assist law enforcement investigations.
+Lamar University may use server logs to analyze data about traffic statistics on our Web site. This data may be used to, but is not limited to, identify performance issues, and generate Web usage statistics.
 
-Websites on other servers at Lamar University (such as http://hal.lamar.edu) may use cookies and/or collect personal information about you and use it in ways other than stated above. Each website that collects information will provide its own privacy policy and disclose their uses of your information.
+#### Security
 
-If you have questions or concerns about this privacy policy, the practices of this or other Lamar University websites, or your use of this site, please contact the webmaster at [webmaster@lamar.edu](mailto:webmaster@lamar.edu) , or through postal mail at:
+While Lamar University may analyze server logs for statistical purposes as stated above, we will not generally use such information to identify users. Only in security or criminal related investigations do we typically use information for the purpose of identification.
 
-Office of Information Technologies  
-Attn: Webmaster  
-P.O. Box 10020  
-Beaumont, Texas 77710
+Lamar University uses measures to protect our Web site from losses, misuse, and alteration of information.
+
+#### Links
+
+This site contains links to other sites. Lamar University is not responsible for the privacy practices or the content of such websites. 
+
+#### Privacy Rights
+
+An individual is entitled, upon written request, to the following:   
+
+
+  * Whether information has been collected about that individual 
+  * To receive and review such information 
+  * To correct inaccurate information 
+
+
+
+For further questions and concerns regarding our Privacy & Security Policy or your Privacy Rights, please contact the Webmaster at webmaster@lamar.edu.
