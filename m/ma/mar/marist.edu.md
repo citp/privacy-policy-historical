@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the marist.edu privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618071107id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marist.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131342id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Marist College
 
-This is the **Privacy Policy** of the website of www.marist.edu. This policy does not cover privacy for the use of College owned equipment or other information resources. Use of College equipment and other information resources are covered in the Information Security Policy, found at http://security.marist.edu
+This is the **Privacy Policy** of the website of www.marist.edu. This policy does not cover privacy for the use of College owned equipment or other information resources. Use of College equipment and other information resources are covered in the Information Security Policy, found at [http://www.marist.edu/it/infosecurity/](https://web.archive.org/it/infosecurity/)
 
 Our postal address is:  
 Marist College  
