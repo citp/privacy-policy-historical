@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrecipes.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611065122id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/myrecipes%3Fd_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrecipes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082344id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/myrecipes%3Fd_source%3DE) for the most accurate reproduction.*
 
 # MyRecipes.com Privacy Policy
 
@@ -113,7 +113,7 @@ Attention: Consumer Affairs
 3000 University Center Drive  
 Tampa, Florida 33612-6408 
 
-[www.MyRecipes.com](https://web.archive.org/web/20080611065122id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/www.MyRecipes.com)
+[http://www.MyRecipes.com](http://www.myrecipes.com/)
 
 | back to top  
 |  This Privacy Notice was revised 1/18/2007.
