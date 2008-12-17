@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicalaction.org privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601120351id_/http%3A//practicalaction.org/%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalaction.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161432id_/http%3A//practicalaction.org/%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Practical Action - Practical Action privacy policy
 
@@ -22,7 +22,7 @@ We do not share individual data, although we may share aggregate information wit
 
 ## Practical Answers technical information service
 
-We collect basic information about users of Practical Answers at the point of download, ie. when a user requests a Technical document. This includes email address, potential number of beneficiaries, country of use and nature of user. Email addresses are collected to identify users for the analysis of trends, and where permission is given, to contact users subsequently to enquire after the effectiveness of our materials. Email addresses are not used for any other purpose, and will not be shared with any third party. If you have given your email address as part of the download process for technical information, you will not be contacted by Practical Action for any other purpose other than to solicit comments on our technical information.
+We collect basic information about users of Practical Answers at the point of download, ie. when a user requests a Technical document. This includes email address, potential number of beneficiaries, country of use and nature of user. Email addresses are collected to identify users for the analysis of trends, and where permission is given, to contact users subsequently to enquire after the effectiveness of our materials and supply updates. Email addresses are not used for any other purpose, and will not be shared with any third party. 
 
 ## E-mail addresses
 
@@ -48,6 +48,6 @@ If you have any questions about Practical Action's privacy policy, please email 
 
 ## 1998 Data Protection Act
 
-Practical Action holds any details you give us for our own marketing purposes. If you do not wish to receive future information, please write to the data controller at this address: _Data Controller, Practical Action, The Schumacher Centre for Technology & Development, Bourton on Dunsmore, Rugby CV23 9QZ, United Kingdom._ Telephone: +44 (0) 1926 634400, e-mail: [_practicalaction@practicalaction.org.uk_](mailto:practicalaction@practicalaction.org.uk)
+Practical Action holds any details you give us for administration and marketing purposes as a Data Controller. If you do not wish to receive any future information or updates from us at Practical Action please write to the Data Controller at this address: _Data Controller, Practical Action, The Schumacher Centre for Technology & Development, Bourton on Dunsmore, Rugby CV23 9QZ, United Kingdom._ Telephone: +44 (0) 1926 634400, e-mail: [_practicalaction@practicalaction.org.uk_](mailto:practicalaction@practicalaction.org.uk?subject=Data%20Controller). We will never supply your information to a third party for marketing purposes if you tell us not to. 
 
 [ ](https://www.securitymetrics.com/site_certificate.adp?s=87%2e106%2e140%2e166&i=103637)
