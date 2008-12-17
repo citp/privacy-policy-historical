@@ -1,60 +1,47 @@
-> *The following text is extracted and transformed from the transperth.wa.gov.au privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009104451id_/http%3A//www.transperth.wa.gov.au/Default.aspx%3FTabName%3DPrivacy%2520Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transperth.wa.gov.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093728id_/http%3A//www.transperth.wa.gov.au/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Transperth Homepage
 
-## Privacy statement
+Transperth Website is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Transperth Website Web site and governs data collection and usage. By using the Transperth Website website, you consent to the data practices described in this statement.
 
-Last updated: May 2005 
+Collection of your Personal Information
 
-Transperth has created this Privacy statement in order to demonstrate our firm commitment to privacy. 
+Transperth Website collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Transperth Website also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-This privacy statement may change periodically, so please check back from time to time. For your information, the date of the last update to this privacy statement is stated at the top of this statement. 
+There is also information about your computer hardware and software that is automatically collected by Transperth Website. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Transperth Website for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Transperth Website Web site.
 
-In certain areas of the website, we may ask you to provide user information by registering for the website or participating in surveys. The features of the website where user information is collected are explained below.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Transperth Website public message boards, this information may be collected and used by others. Note: Transperth Website does not read any of your private online communications.
 
-When you use the Transperth website, you consent to Transperth's use of any information provided by you to Transperth such as your company name, current email address and phone number for the purposes outlined below. 
+Transperth Website encourages you to review the privacy statements of Web sites you choose to link to from Transperth Website so that you can understand how those Web sites collect, use and share your information. Transperth Website is not responsible for the privacy statements or other content on Web sites outside of the Transperth Website and Transperth Website family of Web sites.
 
-[Click here](https://web.archive.org/Portals/0/docs/PTA%20Privacy%20Policy.pdf) to view the Public Transport Authority Privacy Policy. [PTA Privacy Policy.pdf](https://web.archive.org/Portals/0/docs/PTA%20Privacy%20Policy.pdf)
+Use of your Personal Information
 
-##### Information collected
+Transperth Website collects and uses your personal information to operate the Transperth Website Web site and deliver the services you have requested. Transperth Website also uses your personally identifiable information to inform you of other products or services available from Transperth Website and its affiliates. Transperth Website may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-When you view this website, our Internet Service Provider makes a record of your visit and logs the following information for statistical purposes: 
+Transperth Website does not sell, rent or lease its customer lists to third parties. Transperth Website may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Transperth Website may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Transperth Website, and they are required to maintain the confidentiality of your information.
 
-  * Your server address.  
+Transperth Website does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-  * Your top level domain name (for example .com, .gov, .au, .uk etc).  
+Transperth Website keeps track of the Web sites and pages our customers visit within Transperth Website, in order to determine what Transperth Website services are the most popular. This data is used to deliver customized content and advertising within Transperth Website to customers whose behavior indicates that they are interested in a particular subject area.
 
-  * The date and time of your visit to the site.  
+Transperth Website Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Transperth Website or the site; (b) protect and defend the rights or property of Transperth Website; and, (c) act under exigent circumstances to protect the personal safety of users of Transperth Website, or the public.
 
-  * The pages you accessed and documents downloaded.  
+Use of Cookies
 
-  * The previous site you have visited.  
+The Transperth Website Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-  * The type of browser you are using.  
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Transperth Website pages, or register with Transperth Website site or services, a cookie helps Transperth Website to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Transperth Website Web site, the information you previously provided can be retrieved, so you can easily use the Transperth Website features that you customized.
 
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Transperth Website services or Web sites you visit.
 
+Security of your Personal Information
 
+Transperth Website secures your personal information from unauthorized access, use or disclosure. Transperth Website secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-This information about your use is only analysed on a bulk basis for broad demographic content. Individual use is not analysed. 
+Changes to this Statement
 
-If you use the website to complete an online application form, we will only collect the information contained in that application form if you submit the form to us. If you log out of the website or cancel the application prior to submitting the form, the information you had entered will be automatically deleted.
+Transperth Website will occasionally update this Statement of Privacy to reflect company and customer feedback. Transperth Website encourages you to periodically review this Statement to be informed of how Transperth Website is protecting your information.
 
-##### Access to information collected
+Contact Information
 
-You can request access to the information we have collected from you if you have any concerns about the accuracy or extent of that information.
-
-##### Use of information collected
-
-We will only record your email address if you send us a message. Your email address will only be used for the purpose for which you have provided it and it will not be added to a mailing list or used for any other purpose without your consent. 
-
-We will not use or disclose information collected about you, including information collected using cookies, other than for a purpose made known to you, a purpose you would reasonably expect, a purpose required, authorised or permitted by or under any law, or a purpose otherwise authorised by you.
-
-If you tell us you do not wish to have your personal information used for a particular purpose, we will respect your wishes.
-
-##### Use of cookies
-
-Cookies are pieces of information that a website transfers to an individual's hard drive for record keeping purposes. The cookie assigns you an ID which allows Transperth to recognise you when you return to the website. Transperth uses "cookies" to deliver content specific to your interests so users do not have to register each time they use the website. 
-
-##### Links to third party web sites
-
-This website may contain links to other websites. Transperth does not control the content or the information collected on these websites. These websites are not subject to this Privacy Statement. Transperth is not responsible for the content, policies or practices of such websites. Transperth encourages you to review the privacy policies on other websites before you disclose any information to these other parties.
+Transperth Website welcomes your comments regarding this Statement of Privacy. If you believe that Transperth Website has not adhered to this Statement, please contact Transperth Website at [webmaster@transperth.wa.gov.au](mailto:webmaster@transperth.wa.gov.au). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
