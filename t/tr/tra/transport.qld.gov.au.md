@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624105911id_/http%3A//www.transport.qld.gov.au/Footer/web_footer_20-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112427id_/http%3A//www.transport.qld.gov.au/Footer/web_footer_20-Privacy) for the most accurate reproduction.*
 
 # Privacy
 
 #### Privacy and security
 
-Queensland Transport is committed to protecting user privacy. The Queensland Government has established a privacy regime for the Queensland public sector based on 11 Information Privacy Principles. These are contained in [Information Standard 42 - Information Privacy](http://www.qgcio.qld.gov.au/02_infostand/standards.htm) to which agencies are required to adhere.  In compliance with Information Standard 42, we have developed a privacy plan based on the 11 Information Privacy Principles specified in the information standard. View the [Queensland Transport privacy plan](http://www.transport.qld.gov.au/Home/About_us/Working_with_us/Privacy/). 
+Queensland Transport is committed to protecting user privacy. The Queensland Government has established a privacy regime for the Queensland public sector based on 11 Information Privacy Principles. These are contained in [Information Standard 42 - Information Privacy](http://www.qgcio.qld.gov.au/qgcio/architectureandstandards/informationstandards/Pages/index.aspx) to which agencies are required to adhere. In compliance with Information Standard 42, we have developed a privacy plan based on the 11 Information Privacy Principles specified in the information standard. View the [Queensland Transport privacy plan](http://www.transport.qld.gov.au/Home/About_us/Working_with_us/Privacy/). 
 
 When you visit this website, our server makes a record of your visit and logs the following information for statistical purposes only:
 
@@ -21,14 +21,14 @@ No attempt will be made to identify users, or their browsing activities, unless 
 
 ##### Personal information
 
-Steps are taken at all stages of any transaction performed on this website to protect your personal and financial details.  No financial details are stored on the Queensland Transport servers at any stage of a transaction. Once account details are sent to our financial institution they are no longer known to the Queensland Transport system.  Queensland Transport uses VeriSign Secure Site Program which helps to secure all transactions. VeriSign enables information to be sent over the internet in an encrypted form, which assists in protecting against unauthorised access of your personal and financial information.
+Steps are taken at all stages of any transaction performed on this website to protect your personal and financial details. No financial details are stored on the Queensland Transport servers at any stage of a transaction. Once account details are sent to our financial institution they are no longer known to the Queensland Transport system.  Queensland Transport uses VeriSign Secure Site Program which helps to secure all transactions. VeriSign enables information to be sent over the internet in an encrypted form, which assists in protecting against unauthorised access of your personal and financial information.
 
 All applications on the Queensland Transport website contain a privacy statement specific to the purpose for which it is being used.  
 
 
 ##### Cookies 
 
-Queensland Transport's website uses 'cookies' as a mean of providing a customised online payment facility. 
+Queensland Transport's website uses 'cookies' as a means of providing a customised online payment facility. 
 
 [More information is available on our use of cookies](http://www.transport.qld.gov.au/footer/web_footer_cookies).
 
@@ -44,17 +44,9 @@ The services-online facilities of this website secure transmission of informati
 
 This website contains links to non-Queensland government websites. Queensland Transport is not responsible for the privacy or security practices or the content of those websites. These links are provided for your interest and information and have been added because the content, when viewed by Queensland Transport, was deemed appropriate to Queensland Transport's functions and operations.
 
-##### Smart card
-
-For more detailed information view the [smart card privacy statement](http://www.translink.com.au/qt/translin.nsf/index/go_privacy).
-
-##### Journey planner
-
-For more detailed information view the [journey planner privacy statement](http://www.translink.com.au/qt/translin.nsf/index/jp_privacy).
-
 ##### Contact 
 
 If you have any queries about our privacy and security practices, please contact [privacy@transport.qld.gov.au](mailto:privacy@transport.qld.gov.au).  
 
 
-Last updated 28 April 2008
+Last updated 02 December 2008
