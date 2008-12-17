@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the realclearsports.com privacy policy that was archived on 2008-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080518153107id_/http%3A//www.realclearsports.com/static/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realclearsports.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217162945id_/http%3A//www.realclearsports.com/static/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard"><head>
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,24 +20,71 @@ function trackclick(url, aid, atxt) {
 </script> 
 
 <!-- PUT THIS TAG IN THE head SECTION -->
-<script language="JavaScript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
+
 <script language="JavaScript">
-  GS_googleAddAdSenseService("ca-pub-4560167926987914");
-  GS_googleEnableAllServices();
+<!--
+//configuration
+OAS_url = 'http://ads.forbes.com/RealMedia/ads/';
+if(typeof OAS_sitepage=="undefined"){
+OAS_sitepage = "realclearsports.com/interior";
+}
+else{
+if(OAS_sitepage.length == 0){
+OAS_sitepage = " realclearsports.com/interior";
+}
+}
+if(typeof OAS_listpos=="undefined"){
+OAS_listpos = "x110,x1,LeftBottom,Block,RightMiddle,BigBanner";
+}
+else{
+if(OAS_listpos.length == 0){
+OAS_listpos = "x110,x1,LeftBottom,Block,RightMiddle,BigBanner";
+}
+}
+OAS_query = '';
+OAS_target = '_top';
+if(typeof OAS_query_addition != 'undefined' && OAS_query_addition.length>0) {
+        if(OAS_query.length>0 && OAS_query.charAt(0)=='?') OAS_query += '&'+OAS_query_addition;
+        else OAS_query = '?'+OAS_query_addition;
+}
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+  document.write('<A HREF="' + OAS_url + 'click_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" TARGET=' + OAS_target + '>');
+  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" BORDER=0></A>');
+}
+function OAS_RICH(pos) {
+  document.write('<A HREF="' + OAS_url + 'click_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" TARGET=' + OAS_target + '>');
+  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" BORDER=0></A>');
+}
+//-->
 </script>
+<script language="JavaScript1.1">
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+  OAS_version = 10;
+if (OAS_version >= 11)
+  document.write('<SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + OAS_query + '"><\/SCRIPT>');
+//-->
+
+</script><script language="JavaScript1.1" src="http://ads.forbes.com/RealMedia/ads/adstream_mjx.ads/realclearsports.com/interior/1208017571@x110,x1,LeftBottom,Block,RightMiddle,BigBanner"></script>
 <script language="JavaScript">
-  GA_googleAddSlot("ca-pub-4560167926987914", "RCS_Interior_Bottom_160x600");
-  GA_googleAddSlot("ca-pub-4560167926987914", "RCS_Interior_Bottom_300x250");
-  GA_googleAddSlot("ca-pub-4560167926987914", "RCS_Interior_Left_160x160");
-  GA_googleAddSlot("ca-pub-4560167926987914", "RCS_Interior_Middle_300x250");
-  GA_googleAddSlot("ca-pub-4560167926987914", "RCS_Interior_Top_160x600");
-  GA_googleAddSlot("ca-pub-4560167926987914", "RCS_Interior_Top_728x90");
+<!--
+document.write('');
+function OAS_AD(pos) {
+  if (OAS_version >= 11)
+    OAS_RICH(pos);
+  else
+    OAS_NORMAL(pos);
+}
+//-->
 </script>
-<script language="JavaScript">
-  GA_googleFetchAds();
-</script>
+
 <!-- END OF TAG FOR head SECTION -->
+
 </head>
 <body><!-- SiteCatalyst code version: H.14.
 Copyright 1997-2007 Omniture, Inc. More info available at
@@ -78,7 +125,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.14. -->
 <div id="container">
 <div id="masthead">
-<div id="page-header"><div id="page-header-logo"><a href="/"><img src="http://realclearsports.com/img/rcs_logo_follow.gif" border="0" alt="RealClearSports"></a></div>
+<div id="page-header">﻿<div id="page-header-logo"><a href="/"><img src="http://realclearsports.com/img/rcs_logo_follow.gif" border="0" alt="RealClearSports"></a></div>
 
 <div id="page-header-ad"><div id="ad-leaderboardtag"><img src="http://realclearsports.com/img/leaderboard_tag.gif" alt="Advertisement" width="18" height="90"></div>
 <script language="JavaScript">
@@ -86,52 +133,36 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 </script>
 
 </div>
-
 </div>
 
 <div class="navcontainer" id="navcontainer">
     <ul id="nav">
-    <li><a href="http://realclearsports.com">Home</a></li>
-    <li><a href="http://realclearsports.com/blog">Blog</a></li>
-    <li><a href="http://realclearsports.com/links">Links</a></li>
-    <li><a href="http://realclearsports.com/video_log">Vlog</a></li>
-    <li><a href="http://stats.realclearsports.com">Stats</a>
-        <!-- <ul>
-          <li><a href="http://stats.realclearsports.com/mlb/scoreboard.asp">MLB</a></li>
-          <li><a href="http://stats.realclearsports.com/fb/scoreboard.asp">NFL</a></li>
-          <li><a href="http://stats.realclearsports.com/nba/scoreboard.asp">NBA</a></li>
-          <li><a href="http://stats.realclearsports.com/nhl/scoreboard.asp">NHL</a></li>
-          <li><a href="http://stats.realclearsports.com/cfb/scoreboards.asp">NCAA FB</a></li>
-          <li><a href="http://stats.realclearsports.com/golf/final.asp">Golf</a></li>
-          <li><a href="http://stats.realclearsports.com/cbk/scoreboards.asp">NCAA BK</a></li>
-          <li><a href="http://stats.realclearsports.com/racing/index.asp?page=schedule">Auto Racing</a></li>
-        </ul> -->
-    </li>
-    <li><a href="http://realclearsports.com/radio">Radio Shows</a></li>
-    <li><a href="http://realclearsports.com/rankings">RCS Rankings</a>
-        <!-- <ul>
-          <li><a href="http://www.realclearsports.com/rankings/2007/NFL/">NFL</a></li>
-          <li><a href="#">NBA</a></li>
-        </ul>-->
-    </li>
+    <li><a href="http://www.realclearsports.com/">Home</a></li>
+    <li><a href="http://www.realclearsports.com/blog">Blog</a></li>
+    <li><a href="http://www.realclearsports.com/links">Links</a></li>
+    <li><a href="http://www.realclearsports.com/video_log">Videos</a></li>
+    <li><a href="http://stats.realclearsports.com">Stats</a></li>
+    <li><a href="http://www.realclearsports.com/radio">Radio Shows</a></li>
+    <li><a href="http://www.realclearsports.com/power_rankings">Power Rankings</a></li>
     </ul>
     <ul id="sub">
-    	<li><a href="http://realclearsports.com/static/about_us.html">About</a></li>
-    	<li><a href="http://realclearsports.com/static/advertise.html">Advertise</a></li>
+    	<li><a href="http://www.realclearsports.com/static/about_us.html">About</a></li>
+    	<li><a href="http://www.realclearsports.com/static/advertise.html">Advertise</a></li>
     </ul>
 </div>
 </div>
 
                <div id="gamma">
 
-<script language="JavaScript" src="http://realclearsports.com/blog/recent_blog_posts.js"></script>
+<script language="JavaScript" src="http://www.realclearsports.com/blog/recent_blog_posts.js"></script>
 
-<script language="JavaScript" src="http://realclearsports.com/video_log/recentvideoposts.js"></script>
+<script language="JavaScript" src="http://www.realclearsports.com/video_log/recentvideoposts.js"></script>
 
 <div id="ad-home-left-box">
 <script language="JavaScript">
-  GA_googleFillSlot("RCS_Interior_Left_160x160");
-</script>
+ // GA_googleFillSlot("RCS_Interior_Left_160x160");
+  OAS_AD('LeftBottom');
+</script><a href="http://ads.forbes.com/RealMedia/ads/click_nx.cgi/realclearsports.com/interior/1208017571@x110,x1,LeftBottom,Block,RightMiddle,BigBanner!LeftBottom" target="_top"><img src="http://ads.forbes.com/RealMedia/ads/adstream_nx.cgi/realclearsports.com/interior/1208017571@x110,x1,LeftBottom,Block,RightMiddle,BigBanner!LeftBottom" border="0"></a>
 
 </div>
 
@@ -235,29 +266,29 @@ You must be 13 years and older to register to use the RealClearSports website. A
                
                <div id="beta">
 
-                                <div id="registerbox" "=""> <a class="home-dates" href="/topic">Topics</a> <span class="footer"> | </span>
+<div id="registerbox" "=""> <a class="home-dates" href="/topic">Topics</a> <span class="footer"> | </span>
  <a class="home-dates" href="/rss">RSS</a>
-</div>                   
-
+</div>
 
 
 <div id="right-wide-skyscraper">
 <script language="JavaScript">
-  GA_googleFillSlot("RCS_Interior_Top_160x600");
-</script>
+  //GA_googleFillSlot("RCS_Interior_Top_160x600");
+  OAS_AD('RightMiddle');
+</script><a href="http://ads.forbes.com/RealMedia/ads/click_nx.cgi/realclearsports.com/interior/1208017571@x110,x1,LeftBottom,Block,RightMiddle,BigBanner!RightMiddle" target="_top"><img src="http://ads.forbes.com/RealMedia/ads/adstream_nx.cgi/realclearsports.com/interior/1208017571@x110,x1,LeftBottom,Block,RightMiddle,BigBanner!RightMiddle" border="0"></a>
 </div> 
 
 <div id="right-wide-skyscraper">
 <script language="JavaScript">
-  GA_googleFillSlot("RCS_Interior_Bottom_160x600");
-</script>
+  //GA_googleFillSlot("RCS_Interior_Bottom_160x600");
+  OAS_AD('x110');
+</script><a href="http://ads.forbes.com/RealMedia/ads/click_nx.cgi/realclearsports.com/interior/1208017571@x110,x1,LeftBottom,Block,RightMiddle,BigBanner!x110" target="_top"><img src="http://ads.forbes.com/RealMedia/ads/adstream_nx.cgi/realclearsports.com/interior/1208017571@x110,x1,LeftBottom,Block,RightMiddle,BigBanner!x110" border="0"></a>
 
-</div> 
-
+</div>
 
          </div>
 <div id="footer">
-<a class="footer" href="/static/about_us.html">About Us |</a> <a class="footer" href="/static/contact_us.html">Contact |</a> <a class="footer" href="/static/advertise.html">Advertise  |</a> <a class="footer" href="/static/privacy_policy.html">Privacy Policy  </a>  <span class="legal">   &nbsp; &nbsp; &nbsp; &nbsp;  © RealClearSports 2007</span>
+<a class="footer" href="/static/about_us.html">About Us |</a> <a class="footer" href="/static/contact_us.html">Contact |</a> <a class="footer" href="/static/advertise.html">Advertise  |</a> <a class="footer" href="/static/privacy_policy.html">Privacy Policy  </a>  <span class="legal">            © RealClearSports 2008</span>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -265,9 +296,6 @@ You must be 13 years and older to register to use the RealClearSports website. A
 _uacct = "UA-31527-18";
 urchinTracker();
 </script>
-
-
-
 </div>
       </div>
 
