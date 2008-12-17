@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelsearch.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615124347id_/http%3A//www.travelsearch.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsearch.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113133id_/http%3A//www.travelsearch.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TravelSearch.com
 
@@ -94,17 +94,13 @@ How can I access the information TravelSearch has about me or correct it? Travel
 
 Because our business and services are changing and improving all the time, in the future we may find it necessary to make changes to this Privacy Policy. We will prominently post such material changes on the TravelSearch Website at least 30 days prior to their taking effect. We encourage you to review our Privacy Policy whenever you visit the Website and use the Service. 
 
-If you have any questions, comments, or concerns about this Privacy Policy or personal information you have provided to us, please email us at privacy@TravelSearch.com or contact us by mail at: 
+If you have any questions, comments, or concerns about this Privacy Policy or personal information you have provided to us, please [send feedback](https://web.archive.org/feedback/privacy)
 
 
 
 
-TravelSearch.com
-
-c/o SideStep, Inc.
-
-2980 Bowers Ave.
-
-Santa Clara , CA   95051
+**Kayak.com**  
+27 Ann Street, Suite 300   
+Norwalk, CT 06854 USA ([map](http://maps.google.com/maps?f=q&hl=en&q=27+Ann+St,+Norwalk,+CT&sll=42.462365,-71.388285&sspn=0.011334,0.023282&layer=&ie=UTF8&z=16&om=1&iwloc=addr)) 
 
 Further information about TravelSearch is available at [About TravelSearch](http://www.travelsearch.com/help/about.html). 
