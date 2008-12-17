@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fao.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620014826id_/http%3A//www.fao.com/custsvc/custsvc.jsp%3FsectionId%3D118) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fao.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217210542id_/http%3A//fao.com/custsvc/custsvc.jsp%3FsectionId%3D118) for the most accurate reproduction.*
 
 # FAO Schwarz: Customer Service Page
 
