@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatesilverbullet.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419130628id_/http%3A//www.affiliatesilverbullet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesilverbullet.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142252id_/http%3A//affiliatesilverbullet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for http://AffiliateSilverBullet.com
 
