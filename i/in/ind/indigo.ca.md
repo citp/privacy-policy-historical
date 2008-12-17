@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indigo.ca privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210153517id_/http%3A//www.chapters.indigo.ca/Privacy-Policy/priv-art.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indigo.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040116id_/http%3A//www.chapters.indigo.ca/Privacy-Policy/priv-art.html) for the most accurate reproduction.*
 
 # chapters.indigo.ca: Privacy Policy: Article
 
@@ -72,7 +72,7 @@ At Indigo Books & Music Inc. (operating Indigo, Chapters, Coles, Smithbooks, Wor
 
   * Upon request, Indigo will inform you of the existence, use and disclosure of personal information relating to you, and give you access to that information. You have the right to challenge the accuracy and completeness of your information and have it amended as appropriate.
   * However, in certain circumstances permitted by law, this information will not be disclosed to you. Some examples of these circumstances are information that contains references to other individuals, that cannot be disclosed for legal, security or commercial proprietary reasons, or that is subject to solicitor-client or litigation privilege.
-  * We do not knowingly collect or solicit personal information from anyone under the age of seventeen or knowingly allow such persons to register. If you are under the age of seventeen, please do not attempt to register or send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from an individual under the age of seventeen, we will remove that information as quickly as possible. If you believe that we might have any information from or about a person under the age of seventeen, please [contact us](mailto:privacyoff@indigo.ca). 
+  * We do not knowingly collect or solicit personal information from anyone under the age of eighteen or knowingly allow such persons to register. If you are under the age of eighteen, please do not attempt to register or send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from an individual under the age of eighteen, we will remove that information as quickly as possible. If you believe that we might have any information from or about a person under the age of eighteen, please [contact us](mailto:privacyoff@indigo.ca). 
 
 
 
