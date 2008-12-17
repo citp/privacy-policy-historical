@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502174019id_/http%3A//www.aussie.com.au/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217174352id_/http%3A//www.aussie.com.au/Privacy.htm) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Aussie Home Loans
 
-### Help centre > Privacy
+### Help
 
-**Our policy on your privacy**
+#### Privacy
+
+  
+
+
+##### Our policy on your privacy
 
 At Aussie, we understand that the details you provide us are private and personal.
 
