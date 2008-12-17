@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516055604id_/http%3A//www.pizzahut.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080807id_/http%3A//www.pizzahut.com.au/privacy_policy) for the most accurate reproduction.*
 
 # Pizza Hut - Privacy Policy
 
 **PIZZA HUT AUSTRALIA**  
 A division of Yum! Restaurants Australia Pty Limited A.B.N. 16 000 674 993
 
-PIZZA HUT is committed to the protection of your personal information.  PIZZA HUT has developed its own privacy policy, which is based on the National Privacy Principles in the Privacy Act 1988. 
+PIZZA HUT is committed to the protection of your personal information. PIZZA HUT has developed its own privacy policy, which is based on the National Privacy Principles in the Privacy Act 1988. 
 
-This Policy covers all personal information that we hold and includes information we have collected through our outlets, over the phone through our customer service centres and over the internet through our web sites.  This Policy also covers personal information that we have sourced from third parties.
+This Policy covers all personal information that we hold and includes information we have collected through our outlets, over the phone through our customer service centres and over the internet through our web sites. This Policy also covers personal information that we have sourced from third parties.
 
 **Collection**
 
@@ -15,7 +15,7 @@ PIZZA HUT will only collect personal information that is necessary for one or mo
 
 PIZZA HUT will only collect personal information by lawful and fair means and will let you know where and how to contact us.
 
-If it is reasonable and practicable to do so, PIZZA HUT will collect personal information only from you.  Where PIZZA HUT collects personal information about you from someone else, PIZZA HUT will take reasonable steps to advise you as soon as practicable.
+If it is reasonable and practicable to do so, PIZZA HUT will collect personal information only from you. Where PIZZA HUT collects personal information about you from someone else, PIZZA HUT will take reasonable steps to advise you as soon as practicable.
 
 PIZZA HUT will not collect sensitive information about you unless you have consented to such collection or the collection is required by law. 
 
@@ -33,7 +33,7 @@ PIZZA HUT may use your personal information to:
 
 (b) market (by PIZZA HUT or any of its franchisees) our products and services which may be of interest to you, unless you inform us not to do so;
 
-(c) administer and deal with any issues you raise with us regarding  any of our products or services;
+(c) administer and deal with any issues you raise with us regarding any of our products or services;
 
 (d) analyse products and customer services and develop new products; and
 
@@ -45,13 +45,13 @@ We also use your IP address to help diagnose problems with our server, and to ad
 
 PIZZA HUT may disclose your personal information:
 
-(a) to our agents, contractors or third party service providers that supply products or services to PIZZA HUT for the purpose of PIZZA HUT’s business.  For example, your name, address and telephone number may be disclosed to a third party supplier of products or services that relate directly to a complaint that you have made about any of our products or services;
+(a) to our agents, contractors or third party service providers that supply products or services to PIZZA HUT for the purpose of PIZZA HUT’s business. For example, your name, address and telephone number may be disclosed to a third party supplier of products or services that relate directly to a complaint that you have made about any of our products or services;
 
 (b) to our franchisees, where the information relates to the PIZZA HUT franchise operated by the franchisee;
 
 (c) where the law requires PIZZA HUT to do so; or
 
-(d) if you consent.
+(d) if you consent.
 
 Personal Information may be disclosed under other circumstances where permitted by the Privacy Act.
 
@@ -77,15 +77,15 @@ PIZZA HUT will take reasonable steps to:
 
 (a) protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure; and
 
-(b) destroy or permanently de‑identify personal information if it is no longer needed for any purpose.
+(b) destroy or permanently de‑identify personal information if it is no longer needed for any purpose.
 
 **Access and correction**
 
-You are entitled, at any time, to request access to your personal information held by PIZZA HUT and to ask us to change any details that may be incorrect or out of date.  PIZZA HUT may charge you the reasonable costs of providing you with copies of the information that you have requested.  Your request to provide access to this information will be dealt with in a reasonable time.
+You are entitled, at any time, to request access to your personal information held by PIZZA HUT and to ask us to change any details that may be incorrect or out of date. PIZZA HUT may charge you the reasonable costs of providing you with copies of the information that you have requested. Your request to provide access to this information will be dealt with in a reasonable time.
 
 **Privacy Policy**
 
-This Policy will be reviewed from time to time and any amendments will be incorporated in the updated Policy.  The updated Policy will be posted on this web site.  Your continued use of this web site indicates your acceptance of the Policy in place at this time.
+This Policy will be reviewed from time to time and any amendments will be incorporated in the updated Policy. The updated Policy will be posted on this web site. Your continued use of this web site indicates your acceptance of the Policy in place at this time.
 
 **Privacy Queries**
 
@@ -97,5 +97,5 @@ Yum! Restaurants International
 20 Rodborough Road  
 Frenchs Forest NSW 2086  
 Telephone: (02) 9930 3000  
-Facsimile: (02) 9930 3001  
+Facsimile: (02) 9930 3001  
 Email: [PrivacyOfficerAUS@yum.com](mailto:PrivacyOfficerAUS@yum.com)
