@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the shopkami.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410012510id_/http%3A//shopkami.com/content/view/22/25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkami.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217121801id_/http%3A//shopkami.com/faqs/7/22-privacy-notice.html) for the most accurate reproduction.*
 
-# Privacy Notice
-
-**Privacy Notice**   
-Net Kami Electronic respects each individual’s right to personal privacy.  We will collect and use information through our Web site only in the ways disclosed in this statement.  This statement applies solely to information collected at Net Kami Electronic’s Web site. ** **
+# Privacy Notice-Buy Cheap Wholesale Price - Shop Kami
 
 **1.   Information Collection**   
 Net Kami Electronic collects information through our Web site at several points.  We collect the following information about primary visitors: IP address, geographical location, browser type, referral source, length of visit and number of page views.
