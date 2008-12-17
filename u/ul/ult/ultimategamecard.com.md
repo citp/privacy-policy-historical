@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ultimategamecard.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609042123id_/http%3A//ultimategamecard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimategamecard.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071005id_/http%3A//www.ultimategamecard.com/privacy.php) for the most accurate reproduction.*
 
-# Ultimate Game Card powered by PayByCash®
-
-The **Ultimate Game Card** ™, powered by **PayByCash.com** ™  
-is the easiest way to pay for over 150 popular online games!  
-**[Click here](https://web.archive.org/redeem.php)** to redeem your card today! 
+# Ultimate Game Card: Privacy Statement
 
 [Last updated on August 21, 2007]
 
