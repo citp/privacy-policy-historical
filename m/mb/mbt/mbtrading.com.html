@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mbtrading.com privacy policy that was archived on 2008-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080621225643id_/http%3A//www.mbtrading.com/disc0.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mbtrading.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217092626id_/http%3A//www.mbtrading.com/disc0.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Online Stock Trading | MB Trading Direct Access Brokerage Firm </title><meta name="description" content="MB Trading develop and market sophisticated yet simple direct access stock, futures, options and forex online trading technology to online investors.">
@@ -10,7 +10,7 @@
 //Top Navigational Bar III v3.4.1.1b (By BrotherCake @ cake@brothercake.net)
 //Permission granted/modified by Dynamicdrive.com to include script in archive
 //For this and 100's more DHTML scripts, visit http://www.dynamicdrive.com/
-//This notice MUST stay intact for legal use
+//This notice MUST stay intact for legal use 
 </script>
 <script language="javascript1.2" src="custom.js"></script>
 <script language="javascript1.2" src="style.js"></script><style><!--.mTD,.mTD A {white-space:nowrap;color:black;font-weight:regular;}.mTD,.mTD A:Link {color:black}.mTD A:Visited {color:black}.mTD,.mTD A:Active,.mTD A:Link,.mTD A:Visited,.mTD A:Hover{font-weight:regular;font-size:11px;font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none;position:relative;}.SUBmTD,.SUBmTD A { white-space:nowrap;color:#141414;font-weight:normal;}.SUBmTD,.SUBmTD A:Link {color:#141414}.SUBmTD A:Visited {color:#141414 }.SUBmTD,.SUBmTD A:Active,.SUBmTD A:Link,.SUBmTD A:Visited,.SUBmTD A:Hover{font-weight:normal;font-size:11px;font-family:Verdana;text-decoration:none;}.roman {font-size:14px; color:#0000cc; background-color:white; font-family:times new roman; }//--></style>
@@ -25,7 +25,9 @@
 
 <script language="javascript">
 var OLAwin = null;
-function openOLA() {
+var nes;
+function openOLA(ne) {
+	nes = ne;
 	var dv = null;
 	var cName = "OLAwip=";
 	var cLength = cName.length;
@@ -39,11 +41,20 @@ function openOLA() {
 	}
 	if (dv) {
 		if (dv.length > 11) {
-			window.location = "/OLArefresh.asp";
+			window.location = "/OLArefresh.asp?newedge=" + nes;
 		}
 	} else {
 		if (!OLAwin || OLAwin.closed) {
-			OLAwin = window.open('https://www.mbtrading.com/ola/default.asp','OLA','status,scrollbars,resizable,width=790,height=750');
+			
+			if (nes == "1")
+				{
+					OLAwin = window.open('https://www.mbtrading.com/ola/default.asp?userSelection=newEdge','OLA','status,scrollbars,resizable,width=790,height=750');	
+				}
+			else
+				{
+					OLAwin = window.open('https://www.mbtrading.com/ola/default.asp','OLA','status,scrollbars,resizable,width=790,height=750');
+				}
+			
 		}
 		if (OLAwin) OLAwin.focus();
 	}
@@ -53,17 +64,15 @@ function openOLA() {
 
 
 
-
-
 <script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" background="/i/headerTopBg.gif" bgcolor="#FFFFFF"><tbody><tr>
 	<td><a href="default.asp"><img src="/i/headerBull.gif" border="0" alt="MB Trading Home"></a></td>
-	<td><img src="/i/dotclear.gif" height="1" width="26&quot;"></td>
-	<td nowrap="" class="b1Header"><img src="/i/headerDot.gif" border="0"> <a href="/javascriptNeeded.asp" onclick="openOLA(); return false;" target="OLA"><span class="b1Header"><font color="yellow">Open an Account</font></span></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	<td><img src="/i/dotclear.gif" height="1" width="26"></td>
+	<td nowrap="" class="b1Header"><img src="/i/headerDot.gif" border="0"> <a href="/javascriptNeeded.asp" onclick="openOLA('0'); return false;" target="OLA"><span class="b1Header"><font color="yellow">Open an Account</font></span></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 	<!--<a href="/olaunavail.asp"> <span class=b1Header><font color="yellow">Open An Account</font></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --></td>
 	<td nowrap="" class="b1Header"><img src="/i/headerDot.gif" border="0"> <a href="/demo.asp">Software Demo</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
-	<td nowrap="" class="b1Header"><img src="/i/headerDot.gif" border="0"> <a href="/siteMap.asp"><span class="b1Header">Site Map</span></a></td>
-	<td><img src="/i/dotclear.gif" height="1" width="85"></td>
+	<td nowrap="" class="b1Header"><!--<img src="/i/headerDot.gif" border="0"> <a href="/siteMap.asp"><span class=b1Header>Site Map</a>--><a href="javascript:void(1);" onclick="window.open('https://www.mbtrading.com/ola/default.asp?userSelection=newEdge','OLA','status,scrollbars,resizable,width=790,height=750');"><img src="i/newedge.gif" border="0"></a></td>
+	<td><img src="/i/dotclear.gif" height="1" width="35"></td>
 	<td background="i/headerTopBg.gif" align="right">
 		<table width="228" border="0" cellspacing="0" cellpadding="0" bordercolor="#FF0000"><tbody><tr>
 			<td width="20" align="right" valign="bottom"><img src="/i/dotclear.gif" width="6" height="1" align="right" hspace="0" vspace="0"><a href="#" onclick="issl(); return false;"><img src="/i/lock.gif" alt="SSL Secure Site" border="0"></a></td>
@@ -220,10 +229,10 @@ Before a company can share your nonpublic personal information that you have ent
 It is our desire to keep you informed of changes in federal, state or self-regulatory organization rules and regulations that may have an impact on how we conduct our business.<br><br>
 <b>OUR COMMITMENT TO YOUR PRIVACY</b><br>
 We understand the importance of maintaining the privacy of your personal and financial information. By entrusting us with your information, we would like to assure you of our commitment to keeping it private. We have taken measurable steps to protect the confidentiality, security and integrity of your information. <br><br>
-This notice will help you understand our overall privacy policy and the type of information that we collect, use and protect, which will also be provided to you on an annual basis and within your account opening documents. <br><br>
+This notice will help you understand our overall privacy policy and the type of information that we collect, use and protect, which will also be provided to you on an annual basis.  <br><br>
 <b>PRIVATE POLICY SUMMARY</b><br>
 We collect personal and financial information to open your account, to process your transactions, to administer your account, to verify your identity, employment, creditworthiness, and to carry out your request for other products and services. The following categories are examples of personal nonpublic information that will be requested from you: (1) name, (2) date of birth, (3) trading history, (4) total assets, (5) social security number, (6) cash balance, (7) margin information, and (8) positions. We have implemented procedures to protect your nonpublic personal and financial information.  <br><br>
-We do not disclose your nonpublic information to nonaffiliated third parties unless to facilitate your written requests or instructions, or it is permitted or otherwise required by law. Examples of "permitted by law" include our clearing firms: Penson Financial Services, Inc. (which clears and settles your securities transactions) and Penson Financial Futures, Inc. (which clears and settles your futures transactions); and credit bureaus (e.g. Experian, Equifax, and Trans Union). "Required by law" examples include court orders and regulatory investigations. <br><br>
+We do not disclose your nonpublic information to nonaffiliated third parties unless to facilitate your written requests or instructions, or it is permitted or otherwise required by law. Examples of "permitted by law" include our clearing firms: Penson Financial Services, Inc. (which clears and settles your securities transactions) and Penson GHCO (which clears and settles your futures transactions); and credit bureaus (e.g. Experian, Equifax, and Trans Union). "Required by law" examples include court orders and regulatory investigations. <br><br>
 We do not sell your personal information to third-party marketers or any other entity for any purpose.<br><br>
 Our commitment to privacy protection extends to both current and former customers, except as permitted or required by law.<br><br>
 
@@ -233,7 +242,7 @@ Our employees or representatives may collect nonpublic personal information abou
 	<li>Your account application or other supplemental account forms.</li>
 	<li>Your transactional history with affiliates MB Trading, MB Trading Futures, Inc. and/or 3DForex, LLC.</li>
 	<li>Your account records including transactional history with nonaffiliates Penson Financial  
-   Services, Inc. and Penson Financial Futures, Inc., where it is appropriate
+   Services, Inc. and Penson GHCO, where it is appropriate
 	</li><li>Information from credit reporting agencies (e.g. Experian, Equifax, and Trans Union).</li>
 	<li>Current and prior employers, federal and state agencies.</li>
 	<li>Consumer reporting agencies such as McDonald Information Service, Inc.</li>
@@ -248,9 +257,9 @@ Information collected is used to process your transactions, update your account 
 We limit access to only those employees or representatives that need to know the information in order to assist in carrying out your request for products or services. We have policies and procedures that give direction to our employees, and representatives acting on our behalf, regarding how to protect and use nonpublic personal information. Further, we maintain physical, electronic, and procedural safeguards that comply with federal and state regulations to guard your information.<br><br>
 
 <strong>NONAFFILIATED THIRD PARTIES</strong><br>
-We do not share nonpublic personal information about you with nonaffiliated third parties, unless otherwise permitted or required by law, which does not aid in the carrying out of your request or instructions. These nonaffiliated third parties include government/regulatory organizations, such as the Internal Revenue Service (IRS), the Securities and Exchange Commission (SEC), Commodity Futures Trading Commission (CFTC), National Association of Securities Dealers (NASD), National Futures Associations (NFA) and to parties under court order or subpoena that request this information. Disclosures for which you have provided your consent or you have directed us to make are permitted. <br><br>
+We do not share nonpublic personal information about you with nonaffiliated third parties, unless otherwise permitted or required by law, which does not aid in the carrying out of your request or instructions. These nonaffiliated third parties include government/regulatory organizations, such as the Internal Revenue Service (IRS), the Securities and Exchange Commission (SEC), Commodity Futures Trading Commission (CFTC), Financial Industry Regulatory Authority (FINRA), National Futures Associations (NFA) and to parties under court order or subpoena that request this information. Disclosures for which you have provided your consent or you have directed us to make are permitted. <br><br>
 
-We require all entities with which we share your nonpublic personal information agree to keep your information confidential. We also prohibit them from using or disclosing your information except for the limited purpose and to the persons for whom disclosure was intended, or as otherwise permitted by law.<br><br>
+We require all entities with which we share your nonpublic personal information agree to keep your information confidential. We also prohibit them from using or disclosing your information except for the limited purpose and to the persons for whom disclosure was intended, or as otherwise permitted by law.<br><br> 
 
 Our privacy policy applies, to the extent required by law, to employees and representatives that act on the firm's behalf. Additionally, we regularly review privacy policies of third parties for administrative services and joint marketing agreements to ensure compliance with appropriate federal and state regulations.<br><br>
 
@@ -326,7 +335,7 @@ if (vStart != -1) {
 	<td width="10"></td>
 	<td align="center">
 		<img src="/i/dotclear.gif" height="1" width="15"><br>
-		<p style="text-align:justify;">Securities products are offered through MB Trading, member <a href="http://www.finra.org/index.htm" target="finra">FINRA</a>, <a href="http://sipc.org/" target="sipc">SIPC</a>. MB Trading Futures, Inc. (MBTF) is CFTC registered FCMs and member of NFA. MBTF offers execution and settlement services for futures based products, as well as offer off-exchange foreign currency (forex) products through MB Trading. Trading in futures, options and forex is speculative in nature and not appropriate for all investors. Investors should only use risk capital when trading futures, options and forex because there is always the risk of substantial loss. Account access, trade executions and system response may be adversely affected by market conditions, quote delays, system performance and other factors. ©2007, All Rights Reserved</p>
+		<p style="text-align:justify;">Securities products are offered through MB Trading, member <a href="http://www.finra.org/index.htm" target="finra">FINRA</a>, <a href="http://sipc.org/" target="sipc">SIPC</a>. MB Trading Futures, Inc. (MBTF) is CFTC registered FCM and member of NFA. MBTF offers execution and settlement services for futures based products, as well as offer off-exchange foreign currency (forex) products through MB Trading. Trading in securities, futures, options and forex is speculative in nature and not appropriate for all investors. Investors should only use risk capital when trading securities, futures, options and forex because there is always the risk of substantial loss. Account access, trade executions and system response may be adversely affected by market conditions, quote delays, system performance and other factors.©2007, All Rights Reserved</p>
 		<br>
 		<br>
 		
