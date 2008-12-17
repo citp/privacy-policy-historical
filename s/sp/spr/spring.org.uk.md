@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spring.org.uk privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406235406id_/http%3A//www.spring.org.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spring.org.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133715id_/http%3A//www.spring.org.uk/privacy.html) for the most accurate reproduction.*
 
 # PsyBlog: Privacy Policy
 
