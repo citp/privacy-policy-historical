@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisconsin.edu privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509153811id_/http%3A//www.wisconsin.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisconsin.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075555id_/http%3A//www.wisconsin.edu/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
