@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509064429id_/http%3A//www.insurance.com/quotes/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050814id_/http%3A//insurance.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Insurance.com - Privacy Policy
-
-Last Updated  
-November 8, 2007
 
 **1\. GENERAL MATTERS**
 
 **Overview**  
-Welcome to the Insurance.com and ComparisonMarket.com web sites each (collectively the “Sites”) owned by ComparisonMarket Company. Protecting our visitors’ privacy and security is a top priority. For this reason, we have adopted the following Privacy Policy (“Policy”) to advise you of your choices regarding the use of your personal information online. By accessing and using these Sites, you agree to this Policy and the [Terms of Service](https://web.archive.org/web/20080509064429id_/http%3A//www.insurance.com/quotes/termsofservice.aspx).
+Welcome to the Insurance.com and ComparisonMarket.com web sites each (collectively the “Sites”) owned by ComparisonMarket Company. Protecting our visitors’ privacy and security is a top priority. For this reason, we have adopted the following Privacy Policy (“Policy”) to advise you of your choices regarding the use of your personal information online. By accessing and using these Sites, you agree to this Policy and the [Terms of Service](https://web.archive.org/web/20081217050814id_/http%3A//insurance.com/termsofservice.aspx).
 
 If we decide to change our privacy policy or email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
@@ -98,7 +95,7 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be 10
 
 **Editing Your Personal Information.** If your Personal Information or email address changes or you want to edit or update your information you can do so by emailing our Customer Support, or by contacting us by telephone or postal mail at the contact information listed below.
 
-Customer Support E-mail: | [feedback@Insurance.com](mailto:feedback@Insurance.com)  
+| Customer Support E-mail: | [feedback@Insurance.com](mailto:feedback@Insurance.com)  
 ---|---  
 Customer Support Phone: | 1-866-801-2529  
 Customer Support Address: |  Insurance.com Inc., Corporate Headquarters  
@@ -120,11 +117,9 @@ Solon, Ohio 44139
 
 **Sale of Assets.** If we are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our databases, together with any Personal Information or email address contained therein, to a third-party acquiring our company assets. If we do so, we will place a prominent notice of the sale on the homepage of our Sites, with links to information as to how you can change your privacy preferences.
 
-Please remember that your use of these Sites is always subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/web/20080509064429id_/http%3A//www.insurance.com/quotes/termsofservice.aspx). Please take a moment to read the [Terms of Service](https://web.archive.org/web/20080509064429id_/http%3A//www.insurance.com/quotes/termsofservice.aspx). If you have any questions or comments regarding these Sites or any of our policies, please send an e-mail to Customer Support at [privacyconcerns@Insurance.com](mailto:privacyconcerns@Insurance.com), call 888-740-4328, or write to Privacy Policy- 29000 Aurora Road, Solon, OH 44139.
+Please remember that your use of these Sites is always subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/web/20081217050814id_/http%3A//insurance.com/termsofservice.aspx). Please take a moment to read the [Terms of Service](https://web.archive.org/web/20081217050814id_/http%3A//insurance.com/termsofservice.aspx). If you have any questions or comments regarding these Sites or any of our policies, please send an e-mail to Customer Support at [privacyconcerns@Insurance.com](mailto:privacyconcerns@Insurance.com), call 888-740-4328, or write to Privacy Policy- 29000 Aurora Road, Solon, OH 44139.
 
 **TRUSTe**  
 Insurance.com and ComparisonMarket.com are both owned by ComparisonMarket, Inc. which is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the ComparisonMarket, Inc. and the following sites: [www.insurance.com](http://www.insurance.com/) and [www.comparisonmarket.com](http://www.comparisonmarket.com/). Because these web sites want to demonstrate its commitment to your privacy, ComparisonMarket, Inc. has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact us at 888-740-4328 or write to Privacy Policy- 29000 Aurora Road, Solon, OH 44139, or send email to [privacyconcerns@Insurance.com](mailto:privacyconcerns@Insurance.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with ComparisonMarket, Inc. to resolve your problems.
-
-.
