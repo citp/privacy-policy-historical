@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the resellrightsmastery.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608223200id_/http%3A//www.resellrightsmastery.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellrightsmastery.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071858id_/http%3A//www.resellrightsmastery.com/privacy.htm) for the most accurate reproduction.*
 
-# ResellRightsMastery.com | Privacy
+# Edmund Loh's Resell Rights Mastery - Privacy Policy
 
 | [ **Home**](http://www.resellrightsmastery.com/) | [**Member Login**](http://www.resellrightsmastery.com/members/member.php) | [**Blog**](http://www.resellrightsmastery.com/blog) | [**Support**](http://www.amloh.com/FAQ_resellrightsmastery.php) |
 
-**RESELLRIGHTSMASTERY.COM**
-
-**_Privacy Policy_**
+**Resell Rights Mastery  
+****_Privacy Policy_**
 
 **ResellRightsMastery.com** values and respects the privacy of its visitors and members. This policy, known as the Privacy Policy, details the type of information we collect from you, and what we do with that information. The privacy policy shall be accepted as part of the Terms of Service.
 
