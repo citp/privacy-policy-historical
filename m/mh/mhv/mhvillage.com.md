@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhvillage.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522202701id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhvillage.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152926id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # MHVillage.com - Privacy Policy
 
@@ -52,8 +52,8 @@ MHVillage.com may update this policy without notice from time to time, so you sh
 If you have questions or suggestions, please contact us at: 
 
 MHVillage.com  
-Customer Care   
+Customer Service  
 3215 Eaglecrest Drive   
 Grand Rapids, MI 49525   
 (616) 363-8454  
-CustomerCare@MHVillage.com
+CustomerService@MHVillage.com
