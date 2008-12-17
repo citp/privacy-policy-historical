@@ -1,10 +1,13 @@
-<!--The following is the downloaded HTML source of the girlslife.com privacy policy that was archived on 2008-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080523160250id_/http%3A//www.girlslife.com/page/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the girlslife.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217090316id_/http%3A//www.girlslife.com/page/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	GirlsLife.com - Privacy Policy
-</title>
-    <script src="/js/girlslife.js" type="text/javascript"></script>
+</title><script type="text/javascript">var OA_source = '';</script>            
+    <script type="text/javascript" src="http://host.girlslife.com/openads/www/delivery/spcjs.php?id=4"></script>
+    <script type="text/javascript" src="/js/jquery-1.2.3.pack.js"></script>
+    <script type="text/javascript" src="/js/jquery.clicktrack.js"></script>
+    <script src="/js/girlslife0810061.js" type="text/javascript"></script>
     <link rel="stylesheet" href="/css/common.css" type="text/css"><link rel="stylesheet" href="/css/tbsforms.css" type="text/css">
     <!--[if lte IE 7]>
     <style type="text/css">
@@ -12,24 +15,58 @@
     </style>
     <![endif]-->
     
+        
+    <script type="text/javascript" src="/js/jquery.MetaData.js"></script>
+    <script type="text/javascript" src="/js/jquery.rating.pack.js"></script>
+        
+    <script type="text/javascript">
+        function SubmitRating(value) {
 
-    <style type="text/css">
-    #middleContent div.col1 div.largeBox h1.title,
-    #middleContent div.col1 div.smallBox h1.title,
-    #middleContent div.col1 div.largeBox h3.caption
-    {
-    	color: #0a6b0a;    	
-    }
-    </style>
-    </head>
+            arg = '_rate' + '11' + ';|;' + value;
+            WebForm_DoCallback('__Page', arg, UpdateRating, 'rating', null, false)
+        }
+
+        function UpdateRating(arg, context) {
+            $('#ctl00_MiddleContentPlaceHolder_ctl00_RatingInfo').html(arg);
+            //star star_group_test-1-rating-5 star_live star_on
+            eStar = 'div.star_group_test-1-rating-5';
+            $(eStar)
+            // Enable hover css effects
+				.removeClass('star_live')
+				.addClass('star_readonly')
+            // Detach mouse events
+				.unbind('mouseover')
+				.unbind('mouseout')
+				.unbind('click');
+        }
+
+    </script>
+
+    <script type="text/javascript">
+        $(function() {
+            //$('#ctl00_MiddleContentPlaceHolder_SubmitRating').hide();
+            $('.auto-submit-star').rating({
+                callback: function(value, link) {
+                    SubmitRating(value);
+                }
+            });
+        });
+    </script>
+
+<style type="text/css">
+#divHeader div.glbox{background:transparent url('/images/head_login_bg.jpg') no-repeat left top;}
+</style>
+</head>
 <body>
-    <form name="aspnetForm" method="post" action="../post.aspx?id=11" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTE2OTQxMjIwD2QWAmYPZBYCAgEPZBYMZg9kFgICAg8PFgIeB1Zpc2libGVnZGQCAg8WAh4EVGV4dAXfBTx1bCBpZD0iaGVhZGVyTWVudSI+PGxpIGlkPSJoZWFkbTEiIGNsYXNzPSJpdGVtMSIgID48YSBocmVmPSIvbGFuZGluZy9hZHZpY2UuYXNweCI+QURWSUNFPC9hPjwvbGk+PGxpIGlkPSJoZWFkbTIiIGNsYXNzPSJpdGVtMSIgID48YSBocmVmPSIvbGFuZGluZy9naXJsLXRhbGsuYXNweCI+R0lSTCBUQUxLPC9hPjwvbGk+PGxpIGlkPSJoZWFkbTMiIGNsYXNzPSJpdGVtMSIgID48YSBocmVmPSIvbGFuZGluZy9lbnRlcnRhaW5tZW50LmFzcHgiPkVOVEVSVEFJTk1FTlQ8L2E+PC9saT48bGkgaWQ9ImhlYWRtNCIgY2xhc3M9Iml0ZW0xIiAgPjxhIGhyZWY9Ii9sYW5kaW5nL2Z1bi1zdHVmZi5hc3B4Ij5GVU4gU1RVRkY8L2E+PC9saT48bGkgaWQ9ImhlYWRtNSIgY2xhc3M9Iml0ZW0xIiAgPjxhIGhyZWY9Ii9sYW5kaW5nL3N0eWxlLWJlYXV0eS5hc3B4Ij5TVFlMRTwvYT48L2xpPjxsaSBpZD0iaGVhZG02IiBjbGFzcz0iaXRlbTEiICA+PGEgaHJlZj0iL2xhbmRpbmcvcXVpenplcy5hc3B4Ij5RVUlaWkVTPC9hPjwvbGk+PGxpIGlkPSJoZWFkbTciIGNsYXNzPSJpdGVtMSIgID48YSBocmVmPSIvbGFuZGluZy9nLWxpZmUuYXNweCI+Ry1MSUZFPC9hPjwvbGk+PGxpIGlkPSJoZWFkbTgiIGNsYXNzPSJpdGVtMSBsYXN0IiAgPjxhIGhyZWY9Imh0dHA6Ly93d3cuZ2lybHNsaWZlLmNvbS9wYWdlL0lOU0lERS1USElTLUlTU1VFLUpKMDguYXNweCI+SU5TSURFIFRISVMgSVNTVUU8L2E+PC9saT48L3VsPmQCBA9kFgICAQ9kFgJmDxYCHwEFfDxkaXYgY2xhc3M9ImthcmVuIj48aW1nIGNsYXNzPSJrYXJlbiIgYWx0PSJhdmF0YXIiIHNyYz0iL2F2YXRhci5heGQ/dT1BYmJpZSBMLiIgLz48aDE+QWJiaWUgTC48L2gxPjxoMj5pcyBtb2RkaW5nPC9oMj48L2Rpdj5kAgUPZBYCAgQPDxYCHwBnZGQCBw9kFgICAQ8PFgYeDGNhcHRjaGF2YWx1ZQUkYjE4OWY4NTctZjAxZS00MDdiLWJlZjgtOWJhNGJjNmI4ODJkHgxjYXB0Y2hhZmllbGQFJGNhNjkwZWI4LWE4NzItNDVjNi04NGNhLWQ2MDRkZThiNDg5OR8AaGQWCgIBDw8WBB4LTmF2aWdhdGVVcmwFIC9wYWdlL3ByaXZhY3kuYXNweD9jcD0wI2NvbW1lbnRzHwBoZGQCAg8WAh8AaGQCAw8PFgQfBAUgL3BhZ2UvcHJpdmFjeS5hc3B4P2NwPTIjY29tbWVudHMfAGhkZAIEDxYCHwBoFgICAg8PFgIfAGhkZAIFDw8WAh8AZ2RkAggPZBYCAgEPZBYIZg9kFgYCAQ8PFgIfAQVRPHA+V2hhdCZyc3F1bztzIHRoZSBtb3N0IGVtYmFycmFzc2luZyB0aGluZyB5b3VyIGNydXNoIGNvdWxkIGNhdGNoIHlvdSBkb2luZz88L3A+ZGQCBQ8QDxYCHwBnZA8WBGYCAQICAgMWBBAFF1dyaXRpbmcgaGltIGEgbG92ZSBub3RlBQMzMTVnEAUWS2lzc2luZyBhIHBob3RvIG9mIGhpbQUDMzE2ZxAFEVBpY2tpbmcgeW91ciBub3NlBQMzMThnEAUkVHJpcHBpbmcgb24geW91ciBmYWNlIGluIHRoZSBoYWxsd2F5BQMzMTlnZGQCDQ8PFgIfAGdkZAICD2QWBgIBDw8WAh8BBagFPHAgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsiPlNFQ1JFVCBDT0RFOjwvcD4NCjxwIHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7Ij5XQVRDSCBPVVQ8L3A+DQo8cCBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyI+Jm5ic3A7PC9wPg0KPHAgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsiPjxhIGhyZWY9Imh0dHA6Ly93d3cuZ3Nob2NrLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSIvY29udGVzdC5heGQ/aT04NSIgYWx0PSIiIC8+PC9hPjwvcD4NCjxwIHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7Ij4mbmJzcDs8L3A+DQo8cCBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyI+PGEgaHJlZj0iL2RvY3MvTWF5U3VtbWVyRnVuR2l2ZWF3YXkucGRmIiB0YXJnZXQ9Il9ibGFuayI+PHN0cm9uZz5ET1dOTE9BRDwvc3Ryb25nPjwvYT4gdGhlIE1heSBnaXZlYXdheSBjYWxlbmRhciE8YnIgLz48YSBocmVmPSIvZ2l2ZWF3YXkvZ3JhbmRwcml6ZS1yb2Nrb24uYXNweCIgdGFyZ2V0PSJfYmxhbmsiPjxzdHJvbmc+V0lOPC9zdHJvbmc+PC9hPiBhIGNhbXBlcnNoaXAgdG8gPHN0cm9uZz48YSBocmVmPSJodHRwOi8vd3d3LnBvd2VyY2hvcmRhY2FkZW15LmNvbS9uZXdTaXRlL2luZGV4LmNmbSIgdGFyZ2V0PSJfYmxhbmsiPlBvd2VyIENob3JkIEFjYWRlbXk8L2E+PC9zdHJvbmc+ITwvcD5kZAIDDxQrAAMPFgQeBVZhbHVlBREvY29udGVzdC5heGQ/aT04NR4OXyFVc2VWaWV3U3RhdGVnZGRkZAIFDw8WAh8AZ2RkAgQPZBYCAgYPDxYCHwBnZGQCBg9kFgICAQ9kFgQCAQ8WAh8BBSFDQUxMSU5HIEFMTCBCQUJFVEFTVElDIEJPT0tXT1JNUyFkAgMPFgIfAQWrBTxwPjxhIGhyZWY9Ii9wb3N0LzIwMDgvMDUvMDgvR0VULUNBVUdIVC1SRUFESU5HIS5hc3B4IiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Ii9pbWFnZS5heGQ/aT02MDkiIGFsdD0iIiAvPjwvYT48L3A+DQo8cD4mbmJzcDs8L3A+DQo8cCBzdHlsZT0idGV4dC1hbGlnbjogbGVmdDsiPjxzdHJvbmc+R2V0DQpjYXVnaHQgdGhpcyBzdW1tZXIgd2l0aCB5b3VyIG5vc2UgaW4gYSBmYWJ1bG91cyBib29rISBBZGQgYSB0d2lzdCB0bw0KeW91ciBoYW1tb2NrLWxvdW5naW5nIGRheXMuIFplc3QgdXAgeW91ciBiZWFjaCBidW1taW4mcnNxdW87IGZ1bi48L3N0cm9uZz4gPHN0cm9uZz5Eb24mcnNxdW87dCBrbm93DQp3aGljaCBzaXp6bGluJnJzcXVvOyBzdW1tZXIgcGFnZS10dXJuZXIgaXMgcmlnaHQgZm9yIHlvdT8gV2UmcnNxdW87dmUgY29tcGlsZWQgYQ0KbGlzdCBvZiBvdXIgZmF2b3JpdGUgbmV3IG11c3QtcmVhZHMhPC9zdHJvbmc+PC9wPg0KPHAgc3R5bGU9InRleHQtYWxpZ246IGxlZnQ7Ij4mbmJzcDs8L3A+DQo8cCBzdHlsZT0idGV4dC1hbGlnbjogbGVmdDsiPjxhIGhyZWY9Ii9wb3N0LzIwMDgvMDUvMDgvR0VULUNBVUdIVC1SRUFESU5HIS5hc3B4IiB0YXJnZXQ9Il9ibGFuayI+PHN0cm9uZz5DTElDSyBIRVJFIFRPIEdFVCBTVEFSVEVEITwvc3Ryb25nPjwvYT48L3A+DQo8cD4mbmJzcDs8L3A+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgVCY3RsMDAkUmlnaHRDb250ZW50UGxhY2VIb2xkZXIkUmlnaHRDb2x1bW4xJFBvbGxCb3gxJFBvbGxWb3RlQnV0dG9uBT9jdGwwMCRSaWdodENvbnRlbnRQbGFjZUhvbGRlciRSaWdodENvbHVtbjEkcXVpejEkR2l2ZWF3YXlCdXR0b2664E1viHmUF01uSmQ9USIVLu7SDg==">
+    <form name="aspnetForm" method="post" action="/page/privacy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
 
 
 <script type="text/javascript">
 //<![CDATA[
-function SetCaptcha(){var form = $('aspnetForm');var el = document.createElement('input');el.type = 'hidden';el.name = 'ca690eb8-a872-45c6-84ca-d604de8b4899';el.value = 'b189f857-f01e-407b-bef8-9ba4bc6b882d';form.appendChild(el);}//]]>
+function SetCaptcha(){var form = document.getElementById('aspnetForm');var el = document.createElement('input');el.type = 'hidden';el.name = 'ec80a97e-a36c-46dc-ac60-58b0d26d9071';el.value = 'ade3c8ff-7c40-4335-9181-b78911951497';form.appendChild(el);}//]]>
 </script>
 
     <!-- header [Start]-->
@@ -39,20 +76,9 @@ function SetCaptcha(){var form = $('aspnetForm');var el = document.createElement
         
 <div id="ctl00_TopAd1_FrontLeaderboard">
 	
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://host.girlslife.com/openads/www/delivery/ajs.php':'http://host.girlslife.com/openads/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=9");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://host.girlslife.com/openads/www/delivery/ajs.php?zoneid=9&amp;cb=3169158628&amp;loc=https%3A//web.archive.org/web/20080523160250id_/http%253A//www.girlslife.com/page/privacy.aspx"></script><noscript><a href='http://host.girlslife.com/openads/www/delivery/ck.php?n=a74e5f57&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://host.girlslife.com/openads/www/delivery/avw.php?zoneid=9&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a74e5f57' border='0' alt='' /></a></noscript>
+<script type="text/javascript"><!--    // <![CDATA[
+    OA_show(9);
+// ]]> --></script><noscript><a target='_blank' href='http://host.girlslife.com/openads/www/delivery/ck.php?n=d97f619'><img border='0' alt='' src='http://host.girlslife.com/openads/www/delivery/avw.php?zoneid=9&amp;n=d97f619' /></a></noscript>
 
 </div>
 
@@ -61,26 +87,42 @@ function SetCaptcha(){var form = $('aspnetForm');var el = document.createElement
 
 
 
+
+
+
+
+
+
+
+        
+        
         </div>                                               
         <!-- header banner [End]-->
         <!-- Head Magzine cover page -->
         <div class="magcoverpage">
-            <a href="http://www.girlslife.com/page/INSIDE-THIS-ISSUE-JJ08.aspx"><img alt="GL" src="/images/head_magcoverpagejj08.jpg" width="205" height="224"></a>
+            <a href="http://www.girlslife.com/page/Inside-This-Issue-Taylor-Swift.aspx"><img alt="GL" src="/images/head_magcoverpagedj09.jpg" width="205" height="224"></a>
         </div>
         <!-- Head Magazine cover page-->
         <!-- GL Box [Start]-->
         <div class="glbox">
             <div style="float: left;">
-            <a href="/"><img src="/images/spacer.gif" width="200" height="120"></a></div>
+            <img src="/images/spacer.gif" width="280" height="120" alt="" usemap="#m_default"></div>
+            <map name="m_default" id="m_default">                
+                <area shape="rect" coords="16,14,160,110" href="/" alt="">
+            </map>
+            <map name="m_tampax" id="m_tampax">
+                <area shape="rect" coords="160,16,278,58" href="http://www.tampax.com" alt="" class="ct_masthead">
+                <area shape="rect" coords="16,14,160,110" href="/" alt="">
+            </map>
             <!-- GLBox menu [Start]-->
             <div class="menu">
                 <ul>
                     <li><a href="https://secure.girlslife.com/home.php">SUBSCRIBE</a></li>
                     <li><a href="https://secure.girlslife.com/home.php?cat=256">RENEW</a></li>
                     <li><a href="https://secure.girlslife.com/home.php?cat=252">GIVE A GIFT</a></li>
-                    <li><a href="/MyProfile.aspx">YOUR ACCOUNT</a></li>
                     <li><a href="/page/about.aspx">ABOUT US</a></li>
                     <li><a href="/page/contact.aspx">CONTACT US</a></li>
+                    <li><a id="ctl00_ProfileLink" href="/MyProfile.aspx">MY PROFILE</a></li>
                 </ul>
             </div>
             <!-- GLBox menu [End]-->
@@ -92,7 +134,7 @@ function SetCaptcha(){var form = $('aspnetForm');var el = document.createElement
                  <h1 class="title">
                     LOGIN <small>OR</small> <a href="/SignUp.aspx">SIGNUP</a></h1>
                     
-                <table id="ctl00_Login1" cellspacing="0" cellpadding="0" border="0">
+                <table id="ctl00_Login1" cellspacing="0" cellpadding="0" border="0" style="width:310px;border-collapse:collapse;">
 		<tbody><tr>
 			<td>
 					<div class="row">
@@ -109,19 +151,22 @@ function SetCaptcha(){var form = $('aspnetForm');var el = document.createElement
 					<div class="textrow" style="clear: both; margin-left: 85px;">
 					<p>						
 </p>
-						<p class="forgotpwd" style="padding-bottom: 5px;">
-                        <a id="ctl00_Login1_PasswordRecoveryLink" href="/ResetPassword.aspx">Forgot your password?</a>
+                        <div class="loginforgotlink"><a id="ctl00_Login1_PasswordRecoveryLink" class="loginforgotlink" href="/ResetPassword.aspx">Forgot your password?</a></div>
+						<p class="forgotpwd">
+                        <span class="logincheck"><input id="ctl00_Login1_RememberMe" type="checkbox" name="ctl00$Login1$RememberMe"><label for="ctl00_Login1_RememberMe">Remember me</label></span>
 						</p>
 					</div>                    
                     </td>
 		</tr>
 	</tbody></table>
-                <div class="row">
+                <div id="ctl00_SearchRow" class="row">
+		                
 						<label for="ctl00_SearchText" id="ctl00_SearchLabel">Search</label>
                         <input name="ctl00$SearchText" type="text" id="ctl00_SearchText">
                         &nbsp;
                         <input type="submit" name="ctl00$SearchButton" value="GO" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SearchButton&quot;, &quot;&quot;, true, &quot;SearchForm&quot;, &quot;&quot;, false, false))" id="ctl00_SearchButton" class="gobtn">
-                </div>
+                
+	</div>
             </div>
             
 </div>
@@ -131,50 +176,41 @@ function SetCaptcha(){var form = $('aspnetForm');var el = document.createElement
     </div>
     <!-- header [End]-->
     <!-- Header menu [Start]-->    
-    <ul id="headerMenu"><li id="headm1" class="item1"><a href="/landing/advice.aspx">ADVICE</a></li><li id="headm2" class="item1"><a href="/landing/girl-talk.aspx">GIRL TALK</a></li><li id="headm3" class="item1"><a href="/landing/entertainment.aspx">ENTERTAINMENT</a></li><li id="headm4" class="item1"><a href="/landing/fun-stuff.aspx">FUN STUFF</a></li><li id="headm5" class="item1"><a href="/landing/style-beauty.aspx">STYLE</a></li><li id="headm6" class="item1"><a href="/landing/quizzes.aspx">QUIZZES</a></li><li id="headm7" class="item1"><a href="/landing/g-life.aspx">G-LIFE</a></li><li id="headm8" class="item1 last"><a href="http://www.girlslife.com/page/INSIDE-THIS-ISSUE-JJ08.aspx">INSIDE THIS ISSUE</a></li></ul>    
+    <ul id="headerMenu"><li id="headm1" class="item1"><a href="/landing/advice.aspx">ADVICE</a></li><li id="headm2" class="item1"><a href="/landing/girl-talk.aspx">GIRL TALK</a></li><li id="headm3" class="item1"><a href="/landing/entertainment.aspx">ENTERTAINMENT</a></li><li id="headm4" class="item1"><a href="/landing/fun-stuff.aspx">FUN STUFF</a></li><li id="headm5" class="item1"><a href="/landing/style-beauty.aspx">STYLE</a></li><li id="headm6" class="item1"><a href="/landing/quizzes.aspx">QUIZZES</a></li><li id="headm7" class="item1"><a href="/landing/g-life.aspx">G-LIFE</a></li><li id="headm8" class="item1 last"><a href="http://www.girlslife.com/page/Inside-This-Issue-Taylor-Swift.aspx">INSIDE THIS ISSUE</a></li></ul>    
     <!-- Header menu [End]-->
     
     
     <!-- content [Start]-->
-    <div id="content" style="">
+    <div id="content">
         <!-- Header Sub Menu [Start]-->
+        
         <div id="subMenu"></div>
 	    <!-- Header Sub Menu [End]-->
         <!-- Left content [Start]-->
         <div id="leftContent">
             
+            
 
-            <div class="karen"><img class="karen" alt="avatar" src="/avatar.axd?u=Abbie L."><h1>Abbie L.</h1><h2>is modding</h2></div>
-
+            
+<div style="margin: 10px auto; text-align:center;">
+<div class="karen"><a href="/ViewProfile.aspx?u=Jaime S."><img class="karen" alt="avatar" src="/avatar.axd?u=Jaime S."></a><a href="/ViewProfile.aspx?u=Jaime S."><h1>Jaime S.</h1></a><h2>is modding</h2></div>
+</div>
             
 			
             
+						
+			<img name="HubButton" src="/images/HubButton.jpg" width="160" height="200" border="0" id="HubButton" usemap="#m_HubButton" alt="">
+			<map name="m_HubButton" id="m_HubButton">
+                <area shape="poly" coords="45,150,115,150,115,165,45,165,45,150" href="http://www.girlslife.com/hub/tough-stuff.aspx" title="Tough Stuff " alt="Tough Stuff ">
+                <area shape="poly" coords="30,135,130,135,130,150,30,150,30,135" href="http://www.girlslife.com/hub/babysitters-club.aspx" title="Babysitters Club" alt="Babysitters Club">
+                <area shape="poly" coords="46,120,116,120,116,135,46,135,46,120" href="http://www.girlslife.com/hub/bod-squad.aspx" title="Bod Squad" alt="Bod Squad">
+                <area shape="poly" coords="60,105,100,105,100,119,60,119,60,105" href="http://www.girlslife.com/hub/bff.aspx" title="Bff" alt="Bff">
+                <area shape="poly" coords="30,90,126,90,126,105,30,105,30,90" href="http://www.girlslife.com/hub/periods-period.aspx" title="PeriodsPeriod" alt="PeriodsPeriod">
+                <area shape="poly" coords="52,75,108,75,108,90,52,90,52,75" href="http://www.girlslife.com/hub/guyville.aspx" title="Guyville" alt="Guyville">
+            </map>
+
 			
-	    	<!--Quick Link-->
-			<div class="quicklink">
-				<a href="/category/style-beauty.aspx">
-					<img alt="Style &amp; Beauty" src="/images/StyleBeauty_70x60.png" width="70" height="60">
-				</a>
-				
-				<a href="/category/fun-stuff.aspx">
-					<img alt="Funn Stuff" src="/images/FunStuff_70x60.png" width="70" height="60">
-				</a>
-				
-				<a href="/category/entertainment.aspx">
-					<img alt="Entertainment" src="/images/Entertainment_70x60.png" width="70" height="60">
-				</a>
-				
-				<a href="/category/advice.aspx">
-					<img alt="Advice" src="/images/Advice_70x60.png" width="70" height="60">
-				</a>
-				<div style="margin: 0px auto; text-align:center;">
-				<a href="/category/g-life.aspx">
-					<img alt="Advice" src="/images/Life_70x60.png" width="70" height="60">
-				</a>
-				</div>
-				
-			</div>
-			<!--Quick Link [End]-->
+			
 		
 
 
@@ -184,23 +220,51 @@ function SetCaptcha(){var form = $('aspnetForm');var el = document.createElement
 
 <div id="ctl00_LeftAd1_FrontSky">
 	
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://host.girlslife.com/openads/www/delivery/ajs.php':'http://host.girlslife.com/openads/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=13");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://host.girlslife.com/openads/www/delivery/ajs.php?zoneid=13&amp;cb=12893210661&amp;loc=https%3A//web.archive.org/web/20080523160250id_/http%253A//www.girlslife.com/page/privacy.aspx"></script><noscript><a href='http://host.girlslife.com/openads/www/delivery/ck.php?n=a857a0b6&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://host.girlslife.com/openads/www/delivery/avw.php?zoneid=13&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a857a0b6' border='0' alt='' /></a></noscript>
+<script type="text/javascript"><!--    // <![CDATA[
+    OA_show(13);
+// ]]> --></script><noscript><a target='_blank' href='http://host.girlslife.com/openads/www/delivery/ck.php?n=949ac4e'><img border='0' alt='' src='http://host.girlslife.com/openads/www/delivery/avw.php?zoneid=13&amp;n=949ac4e' /></a></noscript>
 
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+    		</div>
+			<div class="ad">
+    		
+
+
+
+
+
+
+
+
+
+<div id="ctl00_GoogleAd1_GoogleSkySolidLeft" class="GoogleSolid">
+	
+<p>sponsored links</p>
+<script type="text/javascript"><!--
+    google_ad_client = "pub-6157011787518638";
+    /* 160x600, Solid */
+    google_ad_slot = "2148546392";
+    /*google_ad_slot = "1971228458";*/
+    google_ad_width = 160;
+    google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
 
 
 
@@ -209,6 +273,11 @@ function SetCaptcha(){var form = $('aspnetForm');var el = document.createElement
 			<div class="glife">	
 				<a href="http://www.girlslife.com/page/confuzzled-411.aspx">
 				<img class="title" alt="Confuzzled? Get the 411 on GirlsLife.com" src="/images/ConfuzzledButton.jpg" width="146" height="127">
+				</a>
+			</div>		
+			<div class="glife">	
+				<a href="http://www.girlslife.com/page/Hey-YOU2c-Got-a-Profile-yet.aspx">
+				<img class="title" alt="Hey YOU, Got a Profile yet?" src="/images/ProfileButton.jpg" width="140" height="96">
 				</a>
 			</div>		
 			<br><br>	
@@ -221,13 +290,19 @@ function SetCaptcha(){var form = $('aspnetForm');var el = document.createElement
 
 			<!-- Info [Start]-->
 			<div class="info">
-                <div class="title"><h1 style=""></h1></div>			    
-			    <div class="skysep"></div>				
+			    
+			    
+			    	
+			    	
+			    
+                <div class="title"><h1 style="">Privacy Policy</h1></div>			                    
+			    <div class="skysep"></div>			
+			    	
 				
                 
 				<!-- Post [Start]-->
 				<div class="item">
-					<h1><a href="/page/privacy.aspx">Privacy Policy</a></h1>
+					<h1><a href="/page/privacy.aspx"></a></h1>
 					<p><strong>You and Girls' Life</strong></p>
 <p>&nbsp;</p>
 <p>Like any good friend, we at Girls' Life think your private stuff should stay private. We aren't about to gossip to any third parties about personal information like your name, address, age, gender or any other identifying info. Here's the deal on our privacy policies so that you understand what we do with your personal information. By using the girlslife.com site, you agree to the terms and conditions outlined below. If you do not agree to these terms and conditions, please do not use this site. If you have any questions or want to contact us, please email us at webmaster@girlslife.com.</p>
@@ -265,22 +340,27 @@ function SetCaptcha(){var form = $('aspnetForm');var el = document.createElement
 <p><strong>NOTICE</strong>: Visit <a href="http://ftc.gov/kidzprivacy">ftc.gov/kidzprivacy</a> for information from the Federal Trade Commission about protecting children's privacy online.</p>
 				
 				</div>
+                
+
 				<div class="item">
 
 					
 
-					<a href="/sharepage/privacy.aspx"><img src="/images/share_button.jpg" alt="share"></a>&nbsp;<a href="/printpage/privacy.aspx" target="_blank"><img src="/images/print_button.jpg" alt="print"></a>
-										
-					<a href="/Contact.aspx?t=advice"><img src="/images/question_button.jpg" alt="send a question"></a>
-					
-    			    </div>
+					    <a href="/sharepage/privacy.aspx"><img src="/images/share_button.jpg" alt="share"></a>&nbsp;<a href="/printpage/privacy.aspx" target="_blank"><img src="/images/print_button.jpg" alt="print"></a>
+					    					
+					    <a href="/Contact.aspx?t=advice"><img src="/images/question_button.jpg" alt="send a question"></a>
+					    
 
+    			    </div>
+					
 				<!-- Post [End]-->
 
 				<div class="sep"></div>
 
-                                
                 
+                
+                
+                <div class="item"><br><a href="/category/advice.aspx">Read More!</a></div>
 
 			</div>
 			<!-- Info [End]-->
@@ -293,80 +373,25 @@ function SetCaptcha(){var form = $('aspnetForm');var el = document.createElement
         <div id="rightContent">
             
     
-    <!-- POLL [Start]-->
-    <div class="rcBox poll">
-        <img class="top" alt="POLL" src="/images/title_POLL.jpg" width="140" height="28">
-        <div class="content">
 
-            <div class="question">
-            <span id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_QuestionLabel"><p>What’s the most embarrassing thing your crush could catch you doing?</p></span>
-            </div>
-            
-
-            <div class="options">
-                <span id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1"><input id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_0" type="radio" name="ctl00$RightContentPlaceHolder$RightColumn1$PollBox1$RadioButtonList1" value="315"><label for="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_0">Writing him a love note</label><br><input id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_1" type="radio" name="ctl00$RightContentPlaceHolder$RightColumn1$PollBox1$RadioButtonList1" value="316"><label for="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_1">Kissing a photo of him</label><br><input id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_2" type="radio" name="ctl00$RightContentPlaceHolder$RightColumn1$PollBox1$RadioButtonList1" value="318"><label for="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_2">Picking your nose</label><br><input id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_3" type="radio" name="ctl00$RightContentPlaceHolder$RightColumn1$PollBox1$RadioButtonList1" value="319"><label for="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_3">Tripping on your face in the hallway</label></span>
-                 <br>
-                
-            </div>
-            <p class="submit">
-                <input type="hidden" name="ctl00$RightContentPlaceHolder$RightColumn1$PollBox1$PollId" id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_PollId" value="67">
-                <input type="image" name="ctl00$RightContentPlaceHolder$RightColumn1$PollBox1$PollVoteButton" id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_PollVoteButton" src="/images/vote_poll.jpg" border="0">
-            </p>
-                
-            <img class="bottom" src="/images/rcBoxBottom.jpg" width="140" height="25" alt="">
-        </div>
-
-    </div>
-    <!-- POLL [End]-->
-
-    
-    <!--GIVEAWAY [Start]-->
-    <div class="rcBox giveaway">
-        <img class="top" alt="GIVEAWAY" src="/images/title_GIVEAWAY.jpg" width="140" height="28">
-        <div class="content">
-            <p class="question">
-                <span id="ctl00_RightContentPlaceHolder_RightColumn1_quiz1_GiveawayLabel"></span></p><p style="text-align: center;">SECRET CODE:</p>
-<p style="text-align: center;">WATCH OUT</p>
-<p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><a href="http://www.gshock.com" target="_blank"><img src="/contest.axd?i=85" alt=""></a></p>
-<p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><a href="/docs/MaySummerFunGiveaway.pdf" target="_blank"><strong>DOWNLOAD</strong></a> the May giveaway calendar!<br><a href="/giveaway/grandprize-rockon.aspx" target="_blank"><strong>WIN</strong></a> a campership to <strong><a href="http://www.powerchordacademy.com/newSite/index.cfm" target="_blank">Power Chord Academy</a></strong>!</p>
-            <p></p>
-            <p class="photo">
-                
-            </p>
-            <p class="submit">
-                <input type="image" name="ctl00$RightContentPlaceHolder$RightColumn1$quiz1$GiveawayButton" id="ctl00_RightContentPlaceHolder_RightColumn1_quiz1_GiveawayButton" src="/images/giveawayButton.jpg" border="0">
-            </p>
-        </div>
-        <img class="bottom" src="/images/rcBoxBottom.jpg" width="140" height="25" alt="">
-    </div>
-    <!--GIVEAWAY [End]-->
-
-
-    <div style="clear:both;"></div>
-    <div class="ad" style="margin: 18px 0px;">
+    <div class="ad" style="margin: 0px 0px;">
         
 
 
 <div id="ctl00_RightContentPlaceHolder_RightColumn1_RightAd1_FrontMiddle">
 	
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://host.girlslife.com/openads/www/delivery/ajs.php':'http://host.girlslife.com/openads/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=14");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://host.girlslife.com/openads/www/delivery/ajs.php?zoneid=14&amp;cb=65551750930&amp;loc=https%3A//web.archive.org/web/20080523160250id_/http%253A//www.girlslife.com/page/privacy.aspx"></script><noscript><a href='http://host.girlslife.com/openads/www/delivery/ck.php?n=ab9f4361&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://host.girlslife.com/openads/www/delivery/avw.php?zoneid=14&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ab9f4361' border='0' alt='' /></a></noscript>
+<script type="text/javascript"><!--    // <![CDATA[
+    OA_show(14);
+// ]]> --></script><noscript><a target='_blank' href='http://host.girlslife.com/openads/www/delivery/ck.php?n=ed3c0f9'><img border='0' alt='' src='http://host.girlslife.com/openads/www/delivery/avw.php?zoneid=14&amp;n=ed3c0f9' /></a></noscript>
 
 </div>
+
+
+
+
+
+
+
 
 
 
@@ -374,39 +399,183 @@ function SetCaptcha(){var form = $('aspnetForm');var el = document.createElement
     </div>
 
     
+    <!-- POLL [Start]-->
+    <div class="rcBox poll">
+        <img class="top" alt="POLL" src="/images/poll_top.jpg" width="300" height="31">
+        <div class="content">
 
-    <!-- Promo Box-->       
+            <div class="question">
+            <span id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_QuestionLabel"><div align="center"><a target="_blank" href="http://bookwizard.scholastic.com/tbw/viewWorkDetail.do?workId=1310248"><img alt="" src="http://www.girlslife.com/uimages/GirlsBookOfGlamour200.jpg" height="308" width="200"></a></div>
+<div>&nbsp;</div>
+<div><em>The Girls’ Book of Glamour: A Guide To Being a Goddess</em> has the secrets to being the most fabulous you you can be! So tell us, what makes YOU a glamour goddess…</div></span>
+            </div>
+            
+
+            <div class="options">
+                <span id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1"><input id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_0" type="radio" name="ctl00$RightContentPlaceHolder$RightColumn1$PollBox1$RadioButtonList1" value="1244"><label for="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_0">My style. Almost every morning, I have fab hair, pretty makeup and an amazing outfit!</label><br><input id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_1" type="radio" name="ctl00$RightContentPlaceHolder$RightColumn1$PollBox1$RadioButtonList1" value="1245"><label for="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_1">My killer confidence. What makes a girl a goddess is her brains.</label><br><input id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_2" type="radio" name="ctl00$RightContentPlaceHolder$RightColumn1$PollBox1$RadioButtonList1" value="1246"><label for="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_2">My great personality. From always being there for friends to bringng on the LOLs in halls between classes, in what’s inside that counts.</label><br><input id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_3" type="radio" name="ctl00$RightContentPlaceHolder$RightColumn1$PollBox1$RadioButtonList1" value="1247"><label for="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_RadioButtonList1_3">My talent. I may not be a star yet but when it’s my time, I will shine!</label></span>
+                 <br>
+                
+            </div>
+            <p class="submit">
+                <input type="hidden" name="ctl00$RightContentPlaceHolder$RightColumn1$PollBox1$PollId" id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_PollId" value="271">
+                <input type="image" name="ctl00$RightContentPlaceHolder$RightColumn1$PollBox1$PollVoteButton" id="ctl00_RightContentPlaceHolder_RightColumn1_PollBox1_PollVoteButton" src="/images/vote_poll.jpg" style="border-width:0px;">
+            </p>
+                
+        </div>
+            <img class="bottom" src="/images/poll_bottom.jpg" width="300" height="14" alt="">
+
+    </div>
+    
+    <!-- POLL [End]-->
+
+    
+    <!--GIVEAWAY [Start]-->
+    <div class="rcBox giveaway">
+        <img class="top" alt="GIVEAWAY" src="/images/giveaway_top.jpg" width="300" height="31">
+        <div class="content">
+            <p class="question">
+                <span id="ctl00_RightContentPlaceHolder_RightColumn1_quiz1_GiveawayLabel"></span></p><div>
+<div align="center"><img src="/contest.axd?i=333" alt=""></div>
+</div>
+<div>&nbsp;</div>
+<div><span id="ctl00_RightContentPlaceHolder_RightColumn1_quiz1_GiveawayLabel"><span id="ctl00_RightContentPlaceHolder_RightColumn1_quiz1_GiveawayLabel"><span id="ctl00_RightContentPlaceHolder_RightColumn1_quiz1_GiveawayLabel"><span id="ctl00_RightContentPlaceHolder_RightColumn1_quiz1_GiveawayLabel">
+<div align="center">Enter today to win a Disney Fairies Tinker Bell necklace from <strong>Swarovski</strong>.<br>
+</div>
+&nbsp;<br>
+<div align="center"><strong></strong><strong></strong><strong><a target="_blank" href="http://www.girlslife.com/giveaway/space-camp.aspx">CLICK HERE</a></strong> for your chance to blast off for a free week at <strong><a target="_blank" href="http://www.spacecamp.com">SPACE CAMP</a>®</strong>! <br>
+</div>
+&nbsp;<br>
+<div align="center">
+Download <strong><a target="_blank" href="http://www.girlslife.com/docs/DecemberGiveaway08.pdf">December's "25 Days of our Faves" Giveaway</a></strong><strong></strong><strong></strong> calendar. </div>
+&nbsp;
+</span></span></span></span><br>
+</div>
+            <p></p>
+            <p class="photo">
+                
+            </p>
+            <p class="submit">
+                <input type="image" name="ctl00$RightContentPlaceHolder$RightColumn1$quiz1$GiveawayButton" id="ctl00_RightContentPlaceHolder_RightColumn1_quiz1_GiveawayButton" src="/images/giveawayButton.jpg" style="border-width:0px;">
+            </p>
+            <img src="http://ad.doubleclick.net/imp;v1;f;207421665;0-0;0;29607706;1|1;28153028|28170907|1;;cs=f%3fhttp://ad.doubleclick.net/dot.gif?20081217040212">
+        </div>
+        <img class="bottom" src="/images/giveaway_bottom.jpg" width="300" height="14" alt="">
+    </div>
+    <!--GIVEAWAY [End]-->
+
+
+    <div style="clear:both;">&nbsp;</div>
+    
+    <div style="margin: 0px; padding: 0px; height:58px;">
+    <img src="/images/secretpromo_top.jpg" width="300" height="58" border="0" id="PromoBox_r1_c1" alt="">
+    </div>
+    <div class="secretcontent" style="background-image: url(/images/secretpromo_bg.jpg);background-repeat: repeat-y; padding: 10px 25px 10px 30px; ">
+
+    
+   <p><img src="/images/secretpromogirl1.jpg" alt="" style="float:left;margin-right:10px;margin-bottom: 5px;">
+   <span class="secretitem">Name:</span><br>Kate A<br><br>
+   <span class="secretitem">Age:</span><br>13<br><br>
+   <span class="secretitem">Sport:</span><br>Basketball<br><br>
+   <span class="secretitem">Personal Best:</span> I scored 43 points in a very important game. I was feeling the pressure from my team, but I was glad to take charge and help lead us to victory.<br><br>
+   <span class="secretitem">Secret to Success:</span> For me, training is key - whether it's running a mile or two or practicing my shooting form. Without practice, I wouldn't be the player I am today.<br>
+   <br>
+   <a href="/AgeCheck.aspx" class="ct_promo"> CLICK HERE for more!</a>
+   </p>            
+         
+    </div>
+    <div>
+    <img src="/images/secretpromo_bottom.jpg" width="300" height="39" border="0" id="Img2" alt="">
+    <a href="http://ad.doubleclick.net/jump/N3220.girlslife.comOX6306/B3029849.11;sz=1x1;ord=20081217040212?">
+    <img src="http://ad.doubleclick.net/ad/N3220.girlslife.comOX6306/B3029849.11;sz=1x1;ord=20081217040212?" border="0" width="1" height="1" alt="Click Here"></a>
+    </div>   
+
+    <div style="clear:both;"></div>
+
+    
     <div id="ctl00_RightContentPlaceHolder_RightColumn1_PromoBox1_PromoPanel">
 	    
     <div class="promoBox" style="margin-top: 18px;">
-        <img class="top" alt="Promo Box" src="/images/title_PromoBox.jpg" width="290" height="11">
-        <div class="content" style="padding: 0px 10px; text-align: center; font-family: arial; font-size: 16px; color: #2ebebc;">CALLING ALL BABETASTIC BOOKWORMS!</div>
-        <div class="content">
-        <p><a href="/post/2008/05/08/GET-CAUGHT-READING!.aspx" target="_blank"><img src="/image.axd?i=609" alt=""></a></p>
-<p>&nbsp;</p>
-<p style="text-align: left;"><strong>Get
-caught this summer with your nose in a fabulous book! Add a twist to
-your hammock-lounging days. Zest up your beach bummin’ fun.</strong> <strong>Don’t know
-which sizzlin’ summer page-turner is right for you? We’ve compiled a
-list of our favorite new must-reads!</strong></p>
-<p style="text-align: left;">&nbsp;</p>
-<p style="text-align: left;"><a href="/post/2008/05/08/GET-CAUGHT-READING!.aspx" target="_blank"><strong>CLICK HERE TO GET STARTED!</strong></a></p>
-<p>&nbsp;</p>
-        </div>
-        <img alt="" src="/images/PromoBoxBottom.jpg" width="290" height="13">
+        <img class="top" alt="Promo Box" src="/images/promo_top.jpg" width="300" height="31">
+        <div class="content" style="padding: 0px 10px; text-align: center; font-family: arial; font-size: 16px; color: #2ebebc;">HEY, STARGAZERS!</div>
+        <div class="content"><div>
+<div align="center"><img src="/image.axd?i=3496" alt=""></div>
+<br>
+</div>
+<div>&nbsp;</div>
+<div>One lucky lady will have the chance to score a free ride to SPACE CAMP! Tumble through the atmosphere, bounce on the moon and soar through space like a real astronaut in this fully loaded hands-on experience. <a target="_blank" href="http://www.girlslife.com/giveaway/space-camp.aspx"><strong>CLICK HERE</strong></a><strong></strong> to enter!</div>
+<div>&nbsp;</div>
+<a target="_blank" href="http://www.girlslife.com/post/2008/12/03/Win-A-Trip-To-Space-Camp.aspx">
+</a>
+<div></div>
+<div><a target="_blank" href="http://www.girlslife.com/post/2008/12/03/Win-A-Trip-To-Space-Camp.aspx"><strong>CLICK HERE</strong></a> to check out all the fab programs they have to offer at SPACE CAMP. <br>
+</div></div>
+        <img alt="" src="/images/promo_bottom.jpg" width="300" height="14">
     </div>
     
 </div>
-    <!-- Promo Box-->
+ 
 
+
+    <div class="ad" style="margin: 0px 0px;">
+        
+
+
+
+
+
+
+
+
+
+
+
+<div id="ctl00_RightContentPlaceHolder_RightColumn1_GoogleAd1_GoogleMiddle" class="GoogleSolid">
+	
+<p>sponsored links</p>
+<script type="text/javascript"><!--
+    google_ad_client = "pub-6157011787518638";
+    /* 300x250 solid, created 9/1/08 */
+    google_ad_slot = "8615350653";
+    google_ad_width = 300;
+    google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+
+    </div>
     
     <div class="girlslife">
-    <a href="/starsigns.aspx"><img class="title" alt="Girl's Life Star Signs" src="/images/starsignsbutton.jpg" width="134" height="134"></a>        
-    <a href="/blushmuch.aspx"><img class="title" alt="Girl's Life Blush Much" src="/images/blushmuchbutton.jpg" width="134" height="134"></a>
+    <a href="/landing/quizzes.aspx"><img class="title" alt="Girls' Life Quiz of the Week" src="/images/QuizWeekButton.jpg" width="134" height="134"></a>  
+    <a href="/blushmuch.aspx"><img class="title" alt="Girls' Life Blush Much" src="/images/blushmuchbutton.jpg" width="134" height="134"></a>
     </div>
 
     
-    <a href="http://newsletter.girlslife.com"><img class="title" style="margin: 18px 0px 10px 10px;" alt="Girl's Life Newsletters" src="/images/GNewsButton.jpg" width="274" height="86"></a>
+    <a href="http://www.girlslife.com/newsletter"><img class="title" style="margin: 18px 0px 10px 10px;" alt="Girl's Life Newsletters" src="/images/GNewsButton.jpg" width="274" height="86"></a>
+
+    
+
+
+
+
+
+
+
+
+<div id="ctl00_RightContentPlaceHolder_RightColumn1_Ad1_ChannelTag">
+	
+<script type="text/javascript"><!--    // <![CDATA[
+    OA_show(71);
+// ]]> --></script>
+
+</div>
+
+
+
+
 
     
 
@@ -439,7 +608,10 @@ list of our favorite new must-reads!</strong></p>
     <br>
     <!-- footer [End]-->
     
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDgKZraqHBwKa+cneDgKI9ZHOBQK7xv/lCQLAh92ZAwK07NioCwKiiZ60BgLFkLwpAsPRmoACAub4uLUMAoy1gJAIArGgw+8HAo3QqaINArC0vooBcbCS9rGep3EKU55qQEyospp39Os="></form>
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="opGGDp83gZsikLMG77Qf2s8EYlmUA2TN/9MZHtbMBqFiz1jHOxHTsT1t4q3kB0U+VqmsZVJtSctc/zP1mZcXzgYLqpkHRIFFpjGpJeWBkmdl7bwOPdtuf/4FVZ6qNiqjyrinMV7A4pjyOCHOWtwiQRPlz44Ke3Ht">
+</div></form>
     
 
 <!-- start Vibrant Media IntelliTXT script section -->
