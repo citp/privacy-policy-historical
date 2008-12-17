@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfsdirectsales.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612022438id_/http%3A//www.dfsdirectsales.com/edealinv/servlet/ExecMacro%3Fnurl%3Dcontrol/Privacy.vm%26ctl_nbr%3D641) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfsdirectsales.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082041id_/http%3A//www.dfsdirectsales.com/edealinv/servlet/ExecMacro%3Fnurl%3Dcontrol/Privacy.vm%26ctl_nbr%3D641) for the most accurate reproduction.*
 
 # DFS Direct Sales | DELL Store: Refurbished Dell Computers, Notebooks, Laptops, Used Computer Systems, Monitors, Servers, Workstations
 
