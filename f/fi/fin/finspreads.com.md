@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the finspreads.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515041924id_/http%3A//www.finspreads.com/footer_links/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finspreads.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033928id_/http%3A//www.finspreads.com/footer_links/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
+
+| 
 
   1. Finspreads is subject to data protection legislation in the UK. We are therefore committed to protecting your privacy and maintaining the security of any personal information that we receive from you. If our Privacy Policy changes, we will place an updated version on this page.
   2. The purpose of this statement is to explain to you what personal information we collect and how we and our associated companies may use it.
