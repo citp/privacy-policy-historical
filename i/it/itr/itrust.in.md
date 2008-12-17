@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itrust.in privacy policy that was archived on 2008-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080306192834id_/http%3A//www.itrust.in/privacy-policy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itrust.in privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123706id_/http%3A//www.itrust.in/privacy-policy.action) for the most accurate reproduction.*
 
 # Privacy Policy - iTrust
 
@@ -6,7 +6,7 @@ We (Indian Dream Financial Advisors Pvt. Ltd using brand name - “iTrust”) re
 
 Where you provide personal information, we will only use it to deliver the services you have requested. 
 
-The iTtrust site does not automatically capture or store personal information, other than logging your IP address and session information such as length of your visit and the type of browser used. This is recognised by the web server. These data are only used for system administration and to provide user statistics, which we use to evaluate how the site is being used and how we can improve usability.
+The iTrust site does not automatically capture or store personal information, other than logging your IP address and session information such as length of your visit and the type of browser used. This is recognised by the web server. These data are only used for system administration and to provide user statistics, which we use to evaluate how the site is being used and how we can improve usability.
 
 We use cookies to make sure your session on this website is secure. We also use embedded pixels, with cookies. These help us track how many people are using our site. These collect data about the paths that users take when navigating our website. We use this information to evaluate site content, navigability and composition, as well as page response rates (how quickly pages download). With both cookies and embedded pixel technology, the information we collect is anonymous and does not contain your name, address, telephone number, or email address. We cannot personally identify you. 
 
