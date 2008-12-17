@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609160748id_/http%3A//www.climber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105235id_/http%3A//www.climber.com/privacy) for the most accurate reproduction.*
 
-# Climber.com - Like Dating for Jobs™
+# Climber.com
 
 At Climber.com, we value your privacy. This privacy policy was created to provide a clear explanation of how your personal information and privacy will be safeguarded.
 
