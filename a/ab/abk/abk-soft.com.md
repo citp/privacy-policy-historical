@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the abk-soft.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614052445id_/http%3A//www.abk-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abk-soft.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217234516id_/http%3A//www.abk-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Dating Scripts, Matchmaking Software - Privacy Policy - Top PHP Dating Script Buy Online Matchmaker Service Software Order Best Personals Match Making Ultimate Internet Application
+# Privacy And Policy : Matchmaking Software : Abk-Soft
 
 ## Our Commitment to Your Privacy 
 
-Your privacy is important to ABK-Soft. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on these pages and at every point where personally identifiable information may be requested. 
+No information submitted by a buyer will not be shared, sold, reused in lists, or be used for any other purpose than to complete a transaction or address a customer service concern.Your privacy is important to ABK-Soft. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on these pages and at every point where personally identifiable information may be requested. 
 
 **The Information We Collect**
 
@@ -19,8 +19,6 @@ This notice applies to all information collected or submitted on the ABK-Soft we
 * Email Address
 
 * IP Address (required for use on our private forum)
-
-* Credit/Debit Card Information
 
 The credit and payment services we utilize to process your order have their own privacy statements which may be different from those found here at ABK-Soft. It is therefore recommended that you carefully read the privacy statements located on these other sites to help protect your privacy. 
 
