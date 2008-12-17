@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419220238id_/http%3A//www.myfreeshares.com/privicy.php%3Fref%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041115id_/http%3A//www.myfreeshares.com/privicy.php%3Fref%3D) for the most accurate reproduction.*
 
 # MyFreeShares - get paid just for being our member !
 
@@ -31,7 +31,7 @@ With respect to security: We always use industry-standard encryption technologie
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
 
-[ ](http://banner.europacasino.com/cgi-bin/redir.cgi?id=N&member=myfshares&profile=468)
+[ ](http://banner.europacasino.com/cgi-bin/redir.cgi?id=N&member=edelweis&profile=468)
 
 ****Copyright (C) 2004. www.myfreeshares.com. All rights reserved****
 
