@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bytescout.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629014247id_/http%3A//bytescout.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytescout.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217083615id_/http%3A//www.bytescout.com/privacy_statement.html) for the most accurate reproduction.*
 
 # ByteScout.Com Privacy Statement
 
-ByteScout Software Development has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: www.ByteScout.com.
+ByteScout Software Development is committed to protecting your privacy. The following discloses the information gathering and dissemination practices for this Web site: www.ByteScout.com.
 
 **Information Automatically Logged**  
 We use your IP address to help diagnose problems with our server and to administer our Web site. This information is also used to allow us to determine statistical usage of the website.
