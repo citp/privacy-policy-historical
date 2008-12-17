@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the parachat.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509060308id_/http%3A//www.parachat.com/helpdesk/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parachat.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217132855id_/http%3A//www.parachat.com/privacypolicy.html) for the most accurate reproduction.*
 
-# ParaChat Support Center
-
-### **ParaChat Privacy Policy**
+# ParaChat Privacy Policy
 
 ParaChat Group takes your privacy seriously. To learn more about ParaChat Group's privacy policy, please read our policy below.
 
@@ -59,7 +57,7 @@ To edit and/or delete your product and/or account information that has already b
 
 **Security**
 
-Your security when ordering ParaChat Group products is primary concern. In certain areas, ParaChat Group uses industry-standard SSL-encryption to protect data transmissions. Our secure server is called "pro.parachatgroup.com", Organization = M Square, Inc., Organizational Unit = ParaChat. You may verify that the form you are using is a secure form, and is consistent with the site that you are visiting, by clicking on the Secure Site icon on each of ParaChat Group's secure order forms and Web pages.
+Your security when ordering ParaChat Group products is primary concern. In certain areas, ParaChat Group uses industry-standard SSL-encryption to protect data transmissions. Our secure server is called "secure.parachat.com", Organization = M Square, Inc., Organizational Unit = ParaChat. You may verify that the form you are using is a secure form, and is consistent with the site that you are visiting, by clicking on the Secure Site icon on each of ParaChat Group's secure order forms and Web pages.
 
 Information pertaining to certain ParaChat hosted products is password-protected for your privacy and security.
 
