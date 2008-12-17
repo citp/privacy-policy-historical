@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onestopenglish.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609045603id_/http%3A//www.onestopenglish.com/section.asp%3Fcatid%3D59647) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopenglish.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217121738id_/http%3A//onestopenglish.com/section.asp%3Fcatid%3D59647) for the most accurate reproduction.*
 
-# Onestopenglish | Privacy
+# Onestopenglish | Privacy Policy
 
 We want to protect the privacy of all visitors to onestopenglish. Please read the following policy; it will help you to understand how we use your personal data. We may change our Privacy policy at any time without giving you notice, so please check it each time you visit this website.
 
