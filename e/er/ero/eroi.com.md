@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eroi.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517072356id_/http%3A//www.eroi.com/miscellaneous/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroi.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063426id_/http%3A//www.eroi.com/miscellaneous/privacy) for the most accurate reproduction.*
 
-# eROI e-Marketing Privacy Policy
+# e-Marketing Privacy Policy | eROI
 
 We are deeply committed to protecting your privacy and take all reasonable steps to protect all data and information supplied to eroi.com. We protect your privacy in a variety of ways including using industry accepted security measures to protect against the loss, misuse and alteration of data used by our system. 
 
