@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the doversaddlery.com privacy policy that was archived on 2008-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080624031815id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the doversaddlery.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217085408id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
 
- 
   <script language="javascript">
    function openZoom(sku) { //pass the sku that you want to open
     //var staging = 'qa.doversaddlery.com'
@@ -23,16 +22,76 @@
     newwin.focus();
    }
   </script>
- <title>Privacy Policy - Dover Saddlery</title><meta name="description" content="Founded in 1975 by US Equestrian Team Members, Dover Saddlery is the leading purveyor of quality English horse tack, horse supplies and riding apparel for horse and rider at any level of competition."><meta name="keywords" content="Privacy Policy - Dover Saddlery"><meta http-equiv="content-type" content="text/html;charset=ISO-8859-1"><meta http-equiv="Expires" content="-1"><meta http-equiv="imagetoolbar" content="no"><meta name="MSSmartTagsPreventParsing" content="true"><meta name="robots" content="follow,index"><meta name="revisit-after" content="30"><meta name="author" content="DMinSite, a division of Lagniappe Marketing"><meta name="copyright" content="Dover Saddlery, Inc., All Rights Reserved"><meta name="language" content="en-us"><meta name="classification" content="Catalogs"><meta name="distribution" content="Global"><base href="//www.doversaddlery.com/"><link rel="Stylesheet" type="text/css" href="/custom/style.css"><link rel="Stylesheet" type="text/css" href="/style.asp?si=CustomStyle1"><script language="JavaScript" type="text/javascript" src="/js/util.js">
-</script><script language="JavaScript1.1"> 
+
+	
+	
+
+<title>Privacy Policy - Dover Saddlery</title>
+<meta name="description" content="Founded in 1975 by US Equestrian Team Members, Dover Saddlery is the leading purveyor of quality English horse tack, horse supplies and riding apparel for horse and rider at any level of competition.">
+<meta name="keywords" content="Privacy Policy - Dover Saddlery">
+<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="MSSmartTagsPreventParsing" content="true">
+<meta name="robots" content="follow,index">
+<meta name="revisit-after" content="30">
+<meta name="author" content="DMinSite, a division of Lagniappe Marketing">
+<meta name="copyright" content="Dover Saddlery, Inc., All Rights Reserved">
+<meta name="language" content="en-us">
+<meta name="classification" content="Catalogs">
+<meta name="distribution" content="Global">
+<meta name="verify-v1" content="P77HWTSJcSjo18LYvm1gy0PtMMm4yrt9giNpiw+kZMU=">
+
+<link rel="icon" href="http://www.doversaddlery.com/images/alt/favicon.gif" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.doversaddlery.com/images/alt/favicon.gif" type="image/x-icon">
+
+<base href="//www.doversaddlery.com/">
+
+<link rel="Stylesheet" type="text/css" href="/custom/style.css">
+<link rel="Stylesheet" type="text/css" href="/style.asp?si=CustomStyle1">
+
+<link rel="stylesheet" href="http://assets.resultspage.com/autosuggest/autosuggest.css" media="screen" type="text/css">
+
+<link rel="Stylesheet" type="text/css" href="/style.asp?si=RichRelevanceStyle">
+
+<script language="JavaScript" type="text/javascript" src="/js/util.js">
+</script>
+
+<script language="JavaScript1.1"> 
 	var specialcase = ((navigator.userAgent.indexOf('Mac') != -1) || document.all)
 	var flag = 0;
-	var msg = 'This image is protected by copyright.';
-	var x,y,x1,y1,copyAttempt;
+	//var msg = 'This image is protected by copyright.\nWe request that you do not attempt to copy our images.';
+                     var msg = 'This image is protected by copyright.';
+
+                     
+                     	var x,y,x1,y1,copyAttempt;
 
 	var hidethis = "none";
 
-	function toggle(e) {
+                    function click(e)
+                    {
+                         if (document.all) 
+                            {
+	          if (event.button == 2) 
+                                  {
+                                      alert(msg); 
+	                 return false;
+	              }
+                               }
+	            if (document.layers) 
+                                    {
+                                      if (e.which == 3) 
+                                        {
+                                           alert(msg); 
+		 return false;
+	                    }
+                                       }
+                         }
+			                                                              
+
+                                                                 
+
+                   function toggle(e) {
 	 	if ( document.getElementById(e).style.display=='none' ) {
 			document.getElementById(e).style.display = '';
 		 }
@@ -49,8 +108,9 @@
 		}
 
 		for (i=0;i<document.images.length;i++) {
-			document.images[i].onmousedown = checkIt;
-			document.images[i].onmouseup = function() {return false};
+			//document.images[i].onmousedown = checkIt;
+                                                                 document.images[i].onmousedown = click;  
+                                                                 document.images[i].onmouseup = function() {return false};
 
 			if (specialcase) {
 				//document.images[i].onmousemove = special;
@@ -59,31 +119,9 @@
 		}
 	}
 
-	function checkIt(e) {
-		copyAttempt = 0;
+	</script>
 
-		if (window.Event) {
-			x = e.screenX;
-			y = e.screenY;
-			theButt = (e.which == 3);
-		}
-		else {
-			x = window.event.clientX;
-			y = window.event.clientY;
-			theButt = (window.event.button == 2);
-		}
-
-		if (theButt) {
-			copyAttempt = 1;
-			flag = 0;
-			alert(msg);
-			return false; // NN4 only
-		}
-
-		if (specialcase) flag = 1;
-		return false;
-	}
-</script><script language="JavaScript">
+<script language="JavaScript">
 <!--
 //##
 //## WishList.com, Inc.
@@ -161,37 +199,16 @@ function Addtowishlist(wlid,formindex,params){
     document.Wishlist_com_form.submit();
 }
 //-->
-</script></head>
+</script>
 
-	
-	
-
+<!-- Rich Relevance Instrumentation Starts Here -->
 
 
 
+<!-- Rich Relevance Instrumentation Ends Here -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</head>
 <body oncontextmenu="return false;" bgcolor="#ffffff" onload="init();">
 <!-- SiteCatalyst code version: H.6.
 Copyright 1997-2006 Omniture, Inc. More info available at
@@ -201,12 +218,12 @@ http://www.omniture.com -->
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 s.pageName="Article: Privacy Policy: 75"
-s.server="Split_b"
+s.server="Site"
 s.channel="Article"
 s.eVar2="";
-s.eVar8="Split_b";
-s.eVar9="2008062323";
-s.eVar10="x18s001t";
+s.eVar8="Site";
+s.eVar9="2008121703";
+s.eVar10="";
 s.eVar11="";
 s.prop1 = "Blank: Catalog/Bookmark/Direct to URL/Other";
 s.prop2 = s.prop1 + ": " + s.pageName;
@@ -259,7 +276,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <td width="300" valign="center" align="right"><!--ai=162--><img src="http://www.doversaddlery.com/images/alt/leftnav.jpg" alt="Dover Saddlery" width="185" height="55" border="0" usemap="#leftnav_Map">
 <map name="leftnav_Map">
 <area shape="rect" alt="" coords="0,35,185,55" href="https://www.doversaddlery.com/my_account.asp">
-<area shape="rect" alt="" coords="115,19,185,34" href="/retail-stores/a/27/">
+<area shape="rect" alt="" coords="115,19,185,34" href="/retail-stores/i/113/">
 <area shape="rect" alt="" coords="0,19,112,36" href="javascript:openPopUp('/pop_catalog_request.asp?boutique=0')">
 <area shape="rect" alt="" coords="127,0,185,18" href="/cart.asp">
 <area shape="rect" alt="" coords="77,0,126,20" href="http://gre.wishlist.com/gre/action/mywishlist.htm?wlid=FC07389F9EBF11D68742009027D12BED">
@@ -290,9 +307,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 		<!-- LEFTER CONTENT -->
 		<td width="170" valign="top" bgcolor="#006A53">
 		    <div align="center">
-		    
-
-<div align="center">
+		    <div align="center">
 <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#000000">
     <tbody><tr>
         <td bgcolor="#e8e7d3">
@@ -302,15 +317,20 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
                     <td valign="top"><img src="/images/onepixel.gif" border="0" width="1" height="3"><br>
                     <b class="black12">KEYWORD SEARCH:</b><br>
                     <span class="black10">Enter keyword</span><br>
-                    <table cellpadding="1" cellspacing="0" border="0">
-                        <form action="/search.asp" method="get"></form>
+                   <table cellpadding="1" cellspacing="0" border="0">
+
+                        <form action="http://equestrian.doversaddlery.com/search" method="GET" name="searchform"></form>
                         <tbody><tr>
-                            <td valign="middle"><input type="text" name="ss" class="input100"></td>
+                            <td valign="middle"><input name="w" id="sli_search_1" type="text" autocomplete="on" class="input100"></td>
                             <td valign="middle"><input type="image" src="/images/buttongo.gif" border="0"></td>
                         </tr>
-                        <input type="hidden" name="t" value="ss">
+     
+                        <input type="hidden" name="idu" value="1B3F998I8QQ6">
+                        <input type="hidden" name="ids" value="995356389">
                         
-                    </tbody></table>
+
+
+                   </tbody></table>
                     
                     <img src="/images/onepixel.gif" border="0" width="1" height="10"><br>
                     <b class="black12">QUICK BUY</b><br>
@@ -323,7 +343,6 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
                         </tr>
                         
                     </tbody></table>
-<br>
 <!-- START SCANALERT CODE -->
 <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.doversaddlery.com"><img width="115" height="30" border="0" src="//images.scanalert.com/meter/survey/www.doversaddlery.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
 <!-- END SCANALERT CODE --> 
@@ -342,16 +361,14 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     <tr>
         <td valign="top" width="13"><img src="/images/whitearrow.gif" width="13" height="12"></td>
        <td valign="top" width="137">
-<a href="/category.asp?c=4242" title="Shop Summer Riding Essentials at Dover Saddlery Today!" class="white">Summer Essentials</a><li style="color:white"><a href="/category.asp?c=2" title="Shop Breeches at Dover Saddlery!" class="white" style="font-size: 10px">Breeches</a></li><li style="color:white"><a href="/category.asp?c=153" title="Fly Control from Dover Saddlery" class="white" style="font-size: 10px">Fly Control</a></li><li style="color:white"><a href="/category.asp?c=4242" title="Summer Sale at Dover Saddlery" class="white" style="font-size: 10px">Summer Sale</a></li>
-
-          
-        
+	<a href="/early-winter-highlights/c/4412/" title="Shop Riding Essentials at Dover Saddlery Today!" class="white">Seasonal Highlights</a>
+	<li style="color:white"><a href="/holiday-gift-guide/c/1515/" title="Shop Great Holiday Gifts at Dover Saddlery!" class="white" style="font-size: 10px">Holiday Gift Guide</a></li>
+	<li style="color:white"><a href="/outerwear-and-barn-jackets/c/48/" title="Fleeces &amp; Jackets from Dover Saddlery" class="white" style="font-size: 10px">Jackets &amp; Outerwear</a></li>
+	<li style="color:white"><a href="/horse-blankets-and-sheets/c/64/" title="Turnout Blankets at Dover Saddlery" class="white" style="font-size: 10px">Turnout Blankets</a></li>
+             
         </td>
     </tr>    
-
-
-
-<tr>
+    <tr>
         <td colspan="2"><img src="/images/green_divider_line.gif" width="150" height="7"></td>
     </tr>
     <tr>
@@ -435,6 +452,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     <tr>
         <td valign="top" width="13"><img src="/images/whitearrow.gif" width="13" height="12"></td>
         <td valign="top" width="137"><a href="/stable-supplies/c/171/c2c/ln/" title="Horse Stable Supplies - Horse Supplies at Dover Saddlery" class="white">Stable Supplies</a>
+      <li style="color:white"><a href="/article.asp?ai=272" title="Arena Footing from Pro Stride -  Dover Saddlery" class="white" style="font-size: 10px">Arena Footing</a></li>
             <li style="color:white"><a href="/buckets/c/196/c2c/ln/" title="Horse Buckets - Horse Stable Supplies at Dover Saddlery" class="white" style="font-size: 10px">Buckets</a></li>
             <li style="color:white"><a href="/info.asp?ii=76" title="Dover Elite Barns - Three Barn Sizes Available only at Dover Saddlery" class="white" style="font-size: 10px">Dover Elite Barns</a></li>
             <li style="color:white"><a href="/tack-racks-brackets-and-bars/c/173/c2c/ln/" title="Horse Tack Racks &amp; Bars - Horse Stable Supplies at Dover Saddlery" class="white" style="font-size: 10px">Tacks Stands &amp; Racks</a></li>
@@ -594,7 +612,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
     <tr>
         <td width="12" valign="top"><img src="/images/whitearrow.gif" border="0"></td>
-        <td width="138" valign="top"><a href="/retail-store-information/a/27/" class="white">Retail Store Information</a></td>
+        <td width="138" valign="top"><a href="/retail-store-information/i/113/" class="white">Retail Store Information</a></td>
     </tr>
     <tr>
         <td height="4" colspan="2"><img src="/images/green_divider_line.gif" border="0"></td>
@@ -655,16 +673,15 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
     <tr><td></td><td><br><!-- verisign seal -->
 <center><script src="https://seal.verisign.com/getseal?host_name=www.doversaddlery.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script></center>
-<!-- end verisign seal --></td>
+<!-- end verisign seal --><br><br>
+
+<center><a href="http://www.doversaddlery.com/powered-by-dminsite/a/256/"><img src="http://dminsite.com/images/art/displaypoweredby-dovr.gif" align="absmiddle" border="0"></a></center></td>
  </tr>
     <tr>
         <td></td>
     </tr>
 
 </tbody></table>
-
-
-
 
 
 		</div></td>
@@ -990,7 +1007,14 @@ function openNewsletterPopUp(PageName) {
 <!-- END Survey -->
 
 
+
+<!-- RR -->
+[[RichRelevancePlacementSide]]
 		    <!-- END RIGHTER -->
+<br><br style="line-height:600px">
+<center>
+<a href="http://www.doversaddlery.com/dminsite/a/256/"><img src="http://dminsite.com/images/displaypoweredby.gif" target="_blank" border="0"></a>
+</center>
 		</center></td>
 	            </tr>
 	            <tr>
@@ -1066,6 +1090,11 @@ function openNewsletterPopUp(PageName) {
 	<input type="hidden" name="addtowishlistparams" value="">
 
 
+<!-- Rich Relevance Force Load Starts Here -->
+
+
+
+<!-- Rich Relevance Force Load Ends Here -->
 
 
 <!-- Google Analytics Conversion Code Begin -->
@@ -1080,19 +1109,97 @@ urchinTracker();
 
 
 
-<script language="JavaScript">
-  // Dover Saddlery SITE
-  rsi_account = 'E06272A53574039F91CA0B46465A707C';
-  rsi_site    = '0573A9064C7466FC3C93C9BA86B3728D';
-  rsi_event   = '056F6BE297154EEAB892A1BEFFDD08DF';
-</script>
-
-<!--SHELL B-->
-
-
 <!-- Lyris List Manager -->
 <!-- Referer:  -->
 <!-- No referer cookie associated to a mailing -->
 <!-- Lyris List Manager -->
+
+
+<script language="javascript" src="http://doversaddlery.resultspage.com/autosuggest/searchbox_suggest_v1.js" type="text/javascript"></script>
+<script language="javascript">
+/* Thank you Simon Willison */
+/* Code added 9/2/08 by Jon to allow sli_init and the util.js init functions to both be assigned to the onload event listener*/
+function addLoadEvent(func) {
+	var oldonload = window.onload;
+	if (typeof window.onload != 'function') {
+		window.onload = func;
+	} else {
+		window.onload = function() {
+			if (oldonload) {
+				oldonload();
+			}
+			func();
+		}
+	}
+}
+
+addLoadEvent(sli_init);
+
+
+
+/**
+ * Makes a cookie locally on the user's machine.
+ * @param string name the cookie name
+ * @param mixed value the cookie's value
+ * @param int days the number of days before the cookie expires
+ */
+function clientSavesValue(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+/**
+ * Returns an eid given one of six tids
+ * @param string tid the tracking code id
+ * @return string eid the eid tracking code
+ */
+function getEidForOrganic(tid){
+	if(tid=='GOOGLEORT') return 'X11027001';
+	if(tid=='GOOGLEORN') return 'X11028001';
+	if(tid=='YAHOOORT') return 'X11029001';
+	if(tid=='YAHOOORN') return 'X11030001';
+	if(tid=='MSNORT') return 'X11031001';
+	if(tid=='MSNORN') return 'X11032001';
+	return '';
+}
+
+/**
+ * Sets the tid and eid cookies for tracking
+ * @param string tid the tracking code
+ */
+function recordRefferer(tid) {
+	clientSavesValue('tid',tid,7);
+	clientSavesValue('eid',getEidForOrganic(tid),7);
+}
+
+
+/**
+ * Not a function, this can be called before the page has finished loading,
+ * but must be called after the other functions are on the page.
+ */
+if(document.referrer != ''){
+	var ref = document.referrer.toLowerCase();
+	//Change company name for each company
+	if(ref.match("dover")){
+		var trade='T';
+	}else{
+		var trade='N';
+	}
+	if(!ref.match("tid=")){
+		if(ref.match("google")) recordRefferer('GOOGLEOR'+trade);
+		if(ref.match("msn")) recordRefferer('MSNOR'+trade);
+		if(ref.match("yahoo")) recordRefferer('YAHOOOR'+trade);
+	}
+}
+
+
+
+</script>
+
 
 </body></html>
