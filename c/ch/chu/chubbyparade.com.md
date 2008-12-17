@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chubbyparade.com privacy policy that was archived on 2008-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080402000259id_/http%3A//chubbyparade.com/forum/view.php%3Fpg%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chubbyparade.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025414id_/http%3A//chubbyparade.com/forum/view.php%3Fpg%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Chubby Parade Forum Privacy Policy
+# Chubby Parade Privacy Policy
 
 Your privacy is of the utmost importance to us. Because we ask for some basic personal information during registration, we want you to be fully informed of how this information is gathered and used.
 
