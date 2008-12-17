@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rideuta.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608222824id_/http%3A//www.rideuta.com/root/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rideuta.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131618id_/http%3A//www.rideuta.com/root/privacy.aspx) for the most accurate reproduction.*
 
 # Welcome to UTA
 
