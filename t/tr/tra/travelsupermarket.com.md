@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2008-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080323062106id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp%3Fsource%3DTS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217155238id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp%3Fsource%3DTS) for the most accurate reproduction.*
 
 # MoneySupermarket – Legal Services
 
@@ -86,4 +86,12 @@ Information supplied by you to us will only be transferred abroad by us or our a
 
 You have certain rights under the Data Protection Act 1998. For example, we will always let you have a copy of all personal information we have about you should you request it. We may charge you a fee for a copy of such information.
 
-[](https://web.archive.org/web/20080323062106id_/http%3A//www.moneysupermarket.com/)
+**mymoneysupermarket**
+
+When opening a mymoneysupermarket account, you agree that Moneysupermarket.com Financial Group Limited and other trusted 3rd parties shall be entitled to advise you via e-mail or telephone of products, services and other exciting offers we think may interest you. 
+
+Any electronic communications we send you will include clear and concise instructions to follow should you wish to unsubscribe at any time. Should you no longer wish to be contacted by telephone you can advise us at any time by contacting our Customer Services team on **0845 345 5708** (lines are open Monday to Friday 9.00 to 5.30) or via sending an email to [customerservices@moneysupermarket.com](mailto:customerservices@moneysupermarket.com). 
+
+ 
+
+[](https://web.archive.org/web/20081217155238id_/http%3A//www.moneysupermarket.com/)
