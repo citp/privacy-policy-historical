@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625080122id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015318id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - DigitalJournal.com: The Power of Citizen Journalism
+# Privacy Policy - Digital Journal: Your News Network
 
 DigitalJournal.com Privacy Policy 
 
