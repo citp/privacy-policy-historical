@@ -1,34 +1,46 @@
-> *The following text is extracted and transformed from the mynewsletterbuilder.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011155928id_/http%3A//www.mynewsletterbuilder.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewsletterbuilder.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217132702id_/http%3A//www.mynewsletterbuilder.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy and Security - MyNewsletter Builder
+# My Newsletter Builder | Privacy Policy for Our Online Email Marketing Solution and Email Newsletter Campaign Software
 
-**Privacy**
-
-Protecting consumer privacy online is central to MyNewsletterBuilder. Accordingly, we pledge to keep all personal information provided by consumers and member businesses private.
-
-  1. We ensure that only designated staff has access to it. 
-  2. We will use your information only for the stated purpose (the reason for which you gave it to us), and we will not sell or share it without your consent. 
-  3. This includes your personal information and any email mailing list you upload to our server. 
-  4. Please read our [No Spam Policy](http://mynewsletterbuilder.com/home/nospam.php)
+  
 
 
+## Online Email Marketing Solution Privacy Policy
 
-In using the Services, you may provide information (e.g., name, address) to ByRegion (the parent company of MyNewsletterBuilder). ByRegion may use this and any technical information regarding your use to enhance your Service or communicate with you directly. ByRegion will not provide information to companies you have not authorized, and ByRegion will not permit the companies that get such information to sell and redistribute it without your prior consent.
+At the JBA Network, we respect and protect the privacy of our customers and those who use our websites. The following Privacy Statement provides details about how your personal information is collected and used. This privacy statement applies to the network of JBA Network websites, products and services that are located in, but not limited to the jbanetwork.com and mynewsletterbuilder.com domains.
 
-ByRegion will not use your customer list or any other customer information for any other purposes than those intended with the Service. Your customer information will not be shared with any other parties. ByRegion also will not use your customer information for the purpose of sending unsolicited commercial e-mail.
+### Information Collection and Use
 
-At any time, consumers and/or businesses may access and change personal information they have provided to MyNewsletterBuilder or remove their names from MyNewsletterBuilder mailing lists.
+JBA Network is the sole owner of information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. MyNewsletterBuilder collects information from our users at several different points on our website. Our websites offer several opportunities for visitors to register for promotional and informational mailings and resources, and for assistance in evaluating our software and services. These registration forms are often linked to MyNewsletterBuilder's mailing lists and require users to give contact information (such as name and email address). We use this contact information to send users information about our company and its products and services if requested or necessary. Users may opt-out of receiving future mailings at any time (see the choice/opt-out section below).
 
-To remove your name from ByRegion.net mailing lists, or for more information on how ByRegion.net uses personal information you provide, please e-mail our Customer Service Department at privacy@ByRegion.net. ByRegion.net does not assemble or track personal information about consumers who click on the ByRegion icon and/or visit ByRegion's website, beyond whatever information consumers voluntarily provide. ByRegion does report to member businesses the total number of people clicking on the ByRegion icon on their Web site, for example, but we do not collect or provide any identifying information about those people. We may also use such information in-house to enhance the services we offer consumers and member businesses.
+### Sharing and Usage
 
-**Security**
+We will never share, sell, or rent your personal information with third parties for their promotional use. Occasionally, we enter into contracts with third parties so that they can assist us in servicing you (for example, providing customer service). The contracts prohibit them from using any of your personal information for their own purposes, and they are required to maintain the confidentiality of the information we provide to them. We may also disclose information to partners who introduced you to JBA Network's services in order to ensure they are properly compensated for their efforts. Lastly, we may disclose or report personal information in limited circumstances where we believe in good faith that disclosure is required under the law. For example, we may be required to disclose personal information to cooperate with regulators or law enforcement authorities, to comply with a legal process such as court order, subpoena, search warrant, or law enforcement request.
 
-As you complete your order, you'll be asked for your name, address, and credit card number. We use Secure Sockets Layer (SSL) technology to send your credit card number to our computer. SSL sends your number in an encrypted code, which only we can decode (***see footnote).
+### Use of Web Technologies
 
-This information is sent to a credit card payment processor to validate the name, address, and credit card number - in much the same way that restaurants and stores handle your purchases. Your encrypted credit card information is then stored in a highly protected computer. While we can keep track of your name and address from one order to the next, you will have to provide your credit card number each time you order. Your order form, including encrypted credit card number, is then archived in a highly protected computer. The credit card information cannot be accessed for future purchases.
+We use a variety of technologies on our sites. Among these are cookies; a piece of information that our websites provide to your browser when you visit our sites. Cookies allow us to verify the login status of customers using products or services linked directly with our website, track point of entry to point of registration for those users participating in our affiliate signup programs, and to track and measure the success of a particular marketing campaign. Cookies also allow us to track overall site usage and determine areas users prefer, enabling us to make your visit to our websites easier by recognizing you when you return and helping to provide you with a customized experience. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If you choose to disable cookies, you may still use our site; however, you may have limited access to some areas within our websites.
 
-Our transaction system currently works with Web browsers that can use SSL - such as Microsoft Internet Explorer, Netscape Navigator and the America Online browser.
+We may access and set cookies using tracking images, which are 1-pixel invisible images. These tracking images provide useful information regarding our site such as which pages users access. When we send you emails, we may include a single-pixel GIF to allow us to determine the number of people who open our emails. When you click on a link in an email, we record this individual response to allow us to customize our offerings to you. (These same features are included in your email campaigns.)
 
-ByRegion will not provide any information about you to anyone outside the company, unless you specifically give us permission to do so.
+We also keep track of activity on our website via log files stored on our web servers. We collect information such as IP address, browser type and version, and pages you view. We also keep track of how you got to our site and any links you click on to leave our site. Once you leave our site, we do not track you. We use your website activity to assist us in offering you a personalized Web experience, assist you with technical support, diagnose problems with our server, administer our websites and to tailor our product and service offerings to you.
 
-***As reported in a recent Knight-Ridder News Service article (which appeared in the Philadelphia Inquirer), "In 1998, there were no reports of credit-card information stolen on the World Wide Web during a transfer of information over a Secure Socket Layer (SSL) line, the kind of line used by Netscape Navigator and Microsoft Explorer. There were no slip-ups. None!"
+### Links
+
+Some of our sites provide links to third-party websites, such as those of our business partners and online advertisers. While on these sites, JBA Network or its partners may collect information about you. Because JBA Network does not control the information policies or practices of these third parties, you should review their privacy policies to learn more about how they collect and use personally identifiable information.
+
+### Security
+
+We take every precaution to protect the confidentiality and security of your personal information by using industry-recognized security safeguards such as firewalls, coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. When we ask for sensitive information, such as credit card numbers, we protect it through the use of encryption during transmission, such as the Secure Socket Layer (SSL) protocol.
+
+JBA Network takes care to reinforce the importance of our website visitors' security and privacy among our employees. Our employees are trained and required to safeguard your information and, using physical, electronic and procedural safeguards, we restrict access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures.
+
+### Communications
+
+Some communications (e.g. important account notifications and billing information) are necessary for all MyNewsletterBuilder customers. You must cancel your MyNewsletterBuilder account to unsubscribe from these communications. To cancel your account, please call our support team.
+
+### Notification of Changes
+
+If we decide to change our privacy policy, we will post those changes on the MyNewsletterBuilder and other JBA Network websites. So our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+#### Published: 07 Dec 2007 - 19:00
