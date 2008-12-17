@@ -1,7 +1,23 @@
-> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222234845id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217031107id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
+| [Language Schools](https://web.archive.org/language_schools/)  
+---  
+[Medical Spanish & More](https://web.archive.org/salud_medical_spanish_programs/)  
+[Volunteer & Intern](http://www.amerispan.com/volunteer_intern/)  
+[Teenager Study Abroad](https://web.archive.org/teenager_programs_abroad)  
+[Language & Fun](http://www.amerispan.com/other_specialized_programs/)  
+[Business & Professional](http://www.amerispan.com/comercio/)  
+[College Study Abroad](http://www.amerispan.com/study_abroad/)  
+[Teachers & Educators](http://www.amerispan.com/maestro/)  
+[Programs for Groups](http://www.amerispan.com/group_travel)  
+[Study Abroad Blog](http://www.amerispan.net/)  
+[Faculty Zone](http://www.amerispan.com/faculty)  
+[Participant Zone](http://www.amerispan.com/clientsupport)  
+[Parent Zone](https://web.archive.org/parents)  
+[Resources](https://web.archive.org/travel)  
+  
   
 Effective Date:  4/7/2006
 
@@ -74,8 +90,8 @@ We reserve the right to disclose your personally identifiable information as req
 
 **_Access to Personally Identifiable Information_**  
 If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by emailing our Customer Support at [ info@amerispan.com](mailto:info@amerispan.com) or by contacting us by telephone or postal mail at the contact information listed below: AmeriSpan  
-117 South 17th Street, STE 1401      
-Philadelphia, PA 19103  
+1334 Walnut Street, 6th Floor      
+Philadelphia, PA 19107  
 Worldwide: (215) 751-1100   
 
 **_About Changes to This Privacy Policy  
@@ -85,3 +101,5 @@ We reserve the right to modify this privacy statement at any time, so please rev
 _**  
 This privacy policy was last modified on February 28, 2007. AmeriSpan may revise this policy from time to time. If we make any substantial changes, we will post those amendments on our Web site so that you are always aware of the information we collect, how we use it and how you can access or update your personal information.  
  
+
+| 
