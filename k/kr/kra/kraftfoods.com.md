@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kraftfoods.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611092757id_/http%3A//www.kraftfoods.com/kf/about/PrivacyNotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftfoods.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105655id_/http%3A//www.kraftfoods.com/kf/about/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Kraftfoods.com Privacy Notice
 
@@ -72,7 +72,7 @@ We reserve the right to transfer any information we have about you in the event 
 
 This website may contain links to other websites. We provide these links solely for your convenience and information. Different websites have different privacy practices. You should always check the privacy notice of the specific site you’re visiting to understand the privacy practices associated with that site.
 
-You can change your preferences for follow-up contacts by Kraft. If you’re registered with www.kraftfoods.com, you can change the information you’ve provided to us in the "Your Profile" section of the site. If you’re not registered with this site, you can change your preferences by [clicking here](http://www.kraftfoods.com/update). If you prefer, you can cancel your registration altogether. [E-mail](https://web.archive.org/kf/contactus.htm) us if you wish to take this action.
+You can change your preferences for follow-up contacts by Kraft. If you’re registered with www.kraftfoods.com, you can change the information you’ve provided to us in the "Your Profile" section of the site. If you’re not registered with this site, you can change your preferences by [clicking here](http://www.kraftfoods.com/update). If you prefer, you can cancel your registration altogether. [E-mail](https://web.archive.org/kf/Pages/ContactUs.aspx) us if you wish to take this action.
 
 Some portions of our website may be directed to kids under 13. In these areas of our website, our conduct is governed by federal law and regulations that address children’s online privacy, as well as by the guidelines of the Children’s Advertising Review Unit (CARU), a part of the Council of Better Business Bureaus.
 
@@ -96,7 +96,7 @@ Attention: Consumer Relations Group
 1-800-543-5335  
 9 a.m. - 5 p.m. Eastern Time, Monday through Friday, excluding holidays.
 
-[E-mail us](https://web.archive.org/kf/contactus.htm).
+[E-mail us](https://web.archive.org/kf/Pages/ContactUs.aspx).
 
 We would be happy to answer your questions or hear your concerns.
 
