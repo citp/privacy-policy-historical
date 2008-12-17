@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nowpublic.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630073142id_/http%3A//www.nowpublic.com/newsroom/tips/fine_print/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowpublic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094831id_/http%3A//www.nowpublic.com/newsroom/tips/fine_print/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | The News is NowPublic.com
+# Privacy Policy
 
 This Privacy Policy sets out the privacy policies and practices for NowPublic Technologies Inc. ("NowPublic") with respect to the collection, use, and disclosure of personal information in connection with nowpublic.com (the "Site"). This Privacy Policy may be updated by NowPublic giving reasonable notice of the revised terms (including by e-mail or by posting on the Site), and this Privacy Policy may be supplemented or modified by agreements entered into between NowPublic and an individual from time to time.
 
 In this Privacy Policy, "personal information" means any information about an identifiable individual, as further defined under applicable Canadian laws.
 
-**Collection and Use of Personal Information**
+## Collection and Use of Personal Information
 
 NowPublic collects personal information from you when you subscribe for services or products, and may from time to time collect additional personal information in the course of providing such products and services. NowPublic uses such personal information as is reasonably required to process your registration for the Site and to provide services and products to you.
 
@@ -16,9 +16,11 @@ This Site allows you to publish personal information about yourself and others, 
 
 NowPublic collects demographic and profile data in connection with the Site and uses such data to tailor each visitor's experience at the Site, showing the user content in which NowPublic thinks you might be interested, and displaying the content according to your preferences.
 
-NowPublic may use customer information for additional purposes that may be identified at or before the time that the information is collected. Disclosure of Personal Information 
+NowPublic may use customer information for additional purposes that may be identified at or before the time that the information is collected.
 
-**NowPublic may disclose personal information as follows:**
+## Disclosure of Personal Information
+
+NowPublic may disclose personal information as follows:
 
   * to third party service providers and to affiliated entities in order to carry out work on behalf of NowPublic,
   * to law enforcement agencies for the purposes of investigating fraud or other offences,
@@ -29,31 +31,36 @@ NowPublic may use customer information for additional purposes that may be ident
 
 NowPublic will not use or disclose personal information for purposes other than those for which it was collected, except with your consent or as required or permitted by law.
 
-**Cookies and IP Addresses**  
+## Cookies and IP Addresses
+
 NowPublic uses your IP address to help identify you and your subscription, gather broad demographic information about our users, diagnose problems with our systems, and administer the Site. The Site is entitled to use cookies to deliver content specific to your interests, according to your preferences, and to save your password so that you are not required to re-enter it while you use the Site.
 
-**Links**  
+## Links
+
 The Site contains links to other websites. NowPublic is not responsible for the privacy practices or the content of such websites. Please ensure you review the privacy policies of the websites that you visit.
 
-**Security**  
+## Security
+
 NowPublic protects against the loss, misuse, and alteration of personal information with security measures appropriate to the sensitivity of the information. However, it is possible that any information transmitted via the Internet may be intercepted by unknown third parties.
 
-**Opt-Out**  
+## Opt-Out
+
 When appropriate, users of the Site are given the opportunity to (i) opt-out of receiving communications from us, (ii) remove their personal information from our records, or (iii) elect to no longer receive services from us. If you wish to opt-out of receiving further communications, please contact NowPublic's privacy officer (the "Privacy Officer") by email or phone using the contact information provided below.
 
-**Corrections/Contact**  
+## Corrections/Contact
+
 You may contact the Privacy Officer to modify or correct any of their personal information that is under our control. You may also direct a written complaint regarding compliance with this Privacy Policy to the Privacy Officer and, within a reasonable time upon receiving the written complaint, the Privacy Officer will conduct an investigation into the matter. Within a reasonable time of concluding the investigation, the Privacy Officer will inform you whether the complaint will be allowed or denied. If the Privacy Officer allows the complaint, NowPublic will take appropriate measure necessary to rectify the source of the complaint.
 
-**Contact Us**  
+## Contact Us
+
 If you have any questions about this Privacy Policy, NowPublic's privacy practices in connection with this Site, or NowPublic's collection, use, disclosure, or retention of your personal information in connection with this Site, please contact the Privacy Officer as follows:
 
-NowPublic Technologies Inc.  
-Attention: Privacy Officer  
+Privacy Officer  
+c/o NowPublic Technologies Inc.  
 204-576 Seymour St,  
 Vancouver, B.C.,  
 V6B 3K1,  
 Canada
 
-  
 By fax: 604-628-1141  
-By email: privacy@nowpublic.com 
+By email: privacy@nowpublic.com
