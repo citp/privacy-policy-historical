@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the fatbraintoys.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609060544id_/http%3A//www.fatbraintoys.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatbraintoys.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102227id_/http%3A//www.fatbraintoys.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Fat Brain Toys Privacy Policy
-
-[](https://web.archive.org/toys/toys_by_ages/ages.cfm)
-
-  
-
 
 |  |    
 At Fat Brain Toys your privacy and security are our number one priority. We do not share any personally identifiable information about you with other companies, except in the case of dealing with manufacturers for order fulfillment and warranty issues. In such a case, we offer this information only to improve your shopping experience at Fat Brain Toys, and we only provide it under strict confidentiality. We will never sell or rent your name, email address, telephone or fax numbers, address, or credit card numbers. We do collect your IP address and general browsing patterns when you visit our site. We use this anonymous information to help diagnose problems with our server and to assist us with improving your shopping experience at Fat Brain Toys. 
