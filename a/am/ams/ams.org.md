@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614192721id_/http%3A//www.ams.org/ams/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217010357id_/http%3A//www.ams.org/ams/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
+
+  
+
 
 The American Mathematical Society (AMS) is committed to protecting the privacy of its members and customers.
 
