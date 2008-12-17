@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intouchweekly.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516195201id_/http%3A//intouchweekly.hollywood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intouchweekly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044622id_/http%3A//www.intouchweekly.com/privacy) for the most accurate reproduction.*
 
 # Celebrity news and entertainment from In Touch Weekly
 
@@ -54,37 +54,31 @@ If you have any questions about our privacy policy, the practices of this site, 
 ## TOP STORY
 
   
-Here come the brides! Now that California has declared gay marriage legal, **Ellen DeGeneres** is set to make an honest woman about of longtime girlfriend **Portia de Rossi**.   
+A pop comeback is a lot of work, but that doesn’t mean there’s no fun involved. **Britney Spears** , who’s doing a small promo tour of Japan, is also taking in the sights and having a great time, from the looks of things.   
 
 
 ## TV SCOOPS
 
-**_American Idol_ :  
-"I'm ready to take on the world — so ready!"**  
-"I am a hard worker and always rehearsing and trying to improve. At first I was in a shell, and that kind of separated me from everyone else. I felt I was never at my full potential because of the negative mindset I was in." 
+**_Biggest Loser: Families_  
+“Wishing wasn’t going to get me anywhere”**  
+"Well, with Vicky you could never tell what she was thinking or doing. So I was holding out hope. Obviously, the odds were stacked against me, but I thought maybe for a moment she would think it should be an all-girl finale." 
 
-[Read More](http://www.intouchweekly.com/2008/05/american_idolim_ready_to_take.php)
+[Read More](http://www.intouchweekly.com/2008/12/biggest_loser_familieswishing.php)
 
-**_Dancing With the Stars_ :  
-Marissa eliminated**  
-"Let me tell you, I have already made Tony promise that after we left, he would teach me another dance because I feel like I want to do one more. I can't wait to get into dance class." 
+**_Survivor: Gabon_  
+"Not punching Sugar in the face was the hardest part of _Survivor_ "**   
+Gabon g'blows! Everyone says it's beautiful but I thought it looked like someone just dropped me off alongside the New Jersey Turnpike. It's swampy and gross. 
 
-[Read More](http://www.intouchweekly.com/2008/05/dancing_with_the_starsmarissa.php)
+[Read More](http://www.intouchweekly.com/2008/12/survivor_gabonnot_punching_sug.php)
 
-**_Survivor: Fans vs. Favorites_  
-Erik makes the biggest mistake in _Survivor_ history**  
-"It was pretty weird. I thought it was going to be great, but it wasn't. You would think it's every man's dream to be surrounded by a bunch of beautiful, bikini-clad women." 
+**_The Amazing Race_  
+How many things could go wrong in one day?**  
+"We were in the lead, but everyone caught up at the submarine where we had to get our first clue. And then what killed us was the roadblock. It took me a long time to find the right statues. Then, of course, I lost our passports and wallet." 
 
-[Read More](http://www.intouchweekly.com/2008/05/survivor_fans_vs_favoriteserik.php)
+[Read More](http://www.intouchweekly.com/2008/12/the_amazing_racehow_many_thing.php)
 
-**_American Idol_ :  
-"I made it further than I could have imagined."**  
-"I couldn't believe I forgot such a popular line, but somehow it slipped my mind. As of yesterday I wanted to win, and the day before I wanted to win." 
+**_Dancing With the Stars_  
+"I feel like we won — I really do"**  
+I feel amazing. What a ride, and a rush. I didn't expect to be here at all, so the finale is an added bonus. I felt the dances were great today and Brooke so deserved to win. We couldn't be happier. 
 
-[Read More](http://www.intouchweekly.com/2008/05/american_idoli_made_it_further.php)
-
-**_Dancing With the Stars_ :  
-Mario eliminated**  
-"I have already sent the invite for Len to meet me in the boxing ring, so we are going to settle our problems on the stage. The finale could be a boxing match. But those comments just made me want to work harder.'" 
-
-[Read More](http://www.intouchweekly.com/2008/05/dancing_with_the_starsmario_el.php)
+[Read More](http://www.intouchweekly.com/2008/11/dancing_with_the_starsi_feel_l.php)
