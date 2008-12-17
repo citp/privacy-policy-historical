@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidereel.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624172426id_/http%3A//www.sidereel.com/_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidereel.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217205019id_/http%3A//sidereel.com/_us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SideReel
 
