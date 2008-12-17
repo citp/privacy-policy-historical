@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listrak.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511210431id_/http%3A//listrak.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listrak.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125957id_/http%3A//www.listrak.com/privacy.asp) for the most accurate reproduction.*
 
 # Listrak Email Marketing Privacy Policy
 
