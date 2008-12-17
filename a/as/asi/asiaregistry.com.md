@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiaregistry.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213011910id_/http%3A//www.asiaregistry.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiaregistry.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060232id_/http%3A//www.asiaregistry.com/policies/privacy.html) for the most accurate reproduction.*
 
 # Asia Registry Privacy and Policy | Asia Registry
 
@@ -63,7 +63,7 @@ You should be careful and responsible whenever you are online. Ultimately, you a
 
 ## Access to and correction of personal information
 
-We are committed to maintaining accurate, timely, relevant and appropriate information about our customers, clients and web-site users. For the purposes of receiving timely renewal notices, consumer alerts, and other related correspondence, it is imperative that the contact details we hold for you are always current. If you would like to access or advise us of a change to your personal information, please [contact us](https://web.archive.org/about/contact.aspx "Contact Our Customer Support Team").
+We are committed to maintaining accurate, timely, relevant and appropriate information about our customers, clients and web-site users. For the purposes of receiving timely renewal notices, consumer alerts, and other related correspondence, it is imperative that the contact details we hold for you are always current. If you would like to access or advise us of a change to your personal information, please [contact us](https://web.archive.org/about/contact.php "Contact Our Customer Support Team").
 
 Inaccurate information will be corrected upon receiving advice to this effect from you. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you.
 
@@ -79,7 +79,7 @@ From time to time and in line with customer expectations and legislative changes
 
 ## Contacting us
 
-If you require further information regarding our Privacy Policy, please [contact us](https://web.archive.org/about/contact.aspx "Contact Our Customer Support Team").
+If you require further information regarding our Privacy Policy, please [contact us](https://web.archive.org/about/contact.php "Contact Our Customer Support Team").
 
 Should you wish to read more information on privacy legislation or the National Privacy Principles in Australia - our primary place of business - we recommend that you visit the Federal Privacy Commissioner's web-site at www.privacy.gov.au.
 
