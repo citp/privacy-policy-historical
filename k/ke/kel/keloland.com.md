@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keloland.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609021329id_/http%3A//www.keloland.com/custompages/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keloland.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104834id_/http%3A//www.keloland.com/custompages/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy
 
