@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521161526id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090445id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Credit.com
 
@@ -158,18 +158,17 @@ Return to top
 
 ### Contact us
 
-If you have questions or concerns regarding this policy, you should first contact the customer service department by telephone at (877) 273 4273, or by e-mail at [privacy@credit.com](mailto:privacy@credit.com), or by mail. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this policy, contact customer service by e-mail at [privacy@credit.com](mailto:privacy@credit.com), or by mail. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 > Credit.Com, Inc.  
 >  550 15th Street, Suite 37  
->  San Francisco, California 94103-5032  
->  (415) 901-1550
+>  San Francisco, California 94103-5032 
 
 Return to top
 
 ### Security
 
-Credit.com is a VeriSign® secured website and uses a VeriSign® SSL Certificate for encryption. Customer data is securely transmitted by Credit.com to non-affiliated third-parties as permitted by this privacy policy or by law and to service providers through a combination of encryption techniques and other privacy protection measures. Selected NPPI submitted through the Credit.com website such as your Social Security number, driver’s license number, bank account or routing number, and debt or credit card numbers, expiration dates are encrypted. 
+Credit.com is a VeriSign® secured website and uses a VeriSign® SSL Certificate for encryption. Customer data is securely transmitted by Credit.com to non-affiliated third-parties as permitted by this privacy policy or by law and to service providers through a combination of encryption techniques and other privacy protection measures. Selected NPPI submitted through the Credit.com website such as your Social Security number, driverï¿½s license number, bank account or routing number, and debt or credit card numbers, expiration dates are encrypted. 
 
 Credit.com also maintains and enforces strict internal policies to protect NPPI from unauthorized access by employees or third-parties. 
 
