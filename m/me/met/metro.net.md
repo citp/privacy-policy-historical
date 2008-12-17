@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616034718id_/http%3A//www.metro.net/about_us/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044758id_/http%3A//www.metro.net/about_us/privacy_policy.htm) for the most accurate reproduction.*
 
 # metro.net | Metro Privacy Policy
 
-[About Us](https://web.archive.org/web/20080616034718id_/http%3A//www.metro.net/about_us/default.htm) | Metro Privacy Policy
+[About Us](https://web.archive.org/web/20081217044758id_/http%3A//www.metro.net/about_us/default.htm) | Metro Privacy Policy
 
 The Los Angeles County Metropolitan Transportation Authority (Metro) respects your privacy. The following describes our Privacy Policy in relation to the information you submit via Metro.net, and how it is used.
 
 ## Personal Information
 
-We may request personal information when you submit comments on Metro service, in participating in a survey, poll, blog or [live chat](http://www.metro.net/news_info/livechat.htm). You may also be asked to provide information when subscribing to an email newsletter, [email alerts](http://www.metro.net/riding_metro/riders_guide/email_alerts.htm) (through GovDelivery) or purchasing Metro goods and services online. This personal information may be in the form of your name, email address, phone number, street address, etc. For example, you may be asked to provide an email address and name if you'd like the Agency to respond to input provided via feedback form or survey.
+We may request personal information when you submit comments on Metro service or when you submit videos in participating in a survey, poll, blog or [live chat](http://www.metro.net/news_info/livechat.htm). You may also be asked to provide information when subscribing to an email newsletter, [email alerts](http://www.metro.net/riding_metro/alerts/email_alerts.htm) (through GovDelivery) or purchasing Metro goods and services online. This personal information may be in the form of your name, email address, phone number, street address, etc. For example, you may be asked to provide an email address and name if you'd like the Agency to respond to input provided via feedback form or survey.
 
 The personal information you voluntarily provide is used to fulfill a request. Metro may use this information to inform you or service information, promotions or other news of value to you as a transit customer. Metro or its contracted vendors do not sell, trade, or rent your personal information to anyone, or disclose personal information except: 
 
