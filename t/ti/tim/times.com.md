@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the times.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218215410id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060023id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
 # The New York Times > Member Center > Site Help > The New York Times Privacy Policy Highlights
 
@@ -12,11 +12,11 @@
 
 
   
-_Last Updated on October 18, 2007_
+_Last Updated on August 10, 2008_
 
-The New York Times wants to make our privacy practices clear and easy to understand. This page provides highlights of The New York Times Privacy Policy. For more information, please review our complete [Privacy Policy](http://www.nytimes.com/ref/membercenter/help/privacy.html). 
+The New York Times wants to make our privacy practices clear and easy to understand. This page provides highlights of The New York Times Privacy Policy. For more information, please review our [complete Privacy Policy](http://www.nytimes.com/ref/membercenter/help/privacy.html). 
 
-[](http://www.bbbonline.org/cks.asp?id=3301999011123) [ ](https://www.truste.org/ivalidate.php?url=www.nytimes.com) The New York Times is a licensee of BBBOnLine and the TRUSTe Privacy Program. You may contact TRUSTe if you believe a privacy question is not properly addressed. 
+[ ](http://www.truste.org/ivalidate.php?url=www.nytimes.com&sealid=101) The New York Times is a licensee of the TRUSTe Privacy Program. You may contact TRUSTe if you believe a privacy question is not properly addressed. By using NYTimes.com, you are agreeing to the terms of our [Member Agreement](http://www.nytimes.com/ref/membercenter/help/agree.html). 
 
 ### **Scope**
 
@@ -25,8 +25,6 @@ The New York Times privacy highlights and full Privacy Policy (available at: [ww
   * [NYTimes.com](http://nytimes.com/)  
 
   * [The New York Times Home Delivery](http://homedelivery.nytimes.com/)  
-
-  * [The New York Times TimesPoints Reward Program](http://timespoints.nytimes.com/)  
 
   * [The New York Times Store](http://nytimes.com/store)  
 
