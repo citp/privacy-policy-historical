@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amctv.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514161357id_/http%3A//www.amctv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amctv.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217022303id_/http%3A//www.amctv.com/privacy.html) for the most accurate reproduction.*
 
 # AMC » Privacy Policy
 
@@ -7,11 +7,11 @@ We created this general audience website to be entertaining and informational fo
 I. Who We Are And How To Reach Us
     
 
-This website is operated by American Movie Classics Company ("AMCC"), which owns the American Movie Classics program service and the AMCTV.com website. AMCC is the only operator of this website. You may contact us directly if you have any questions regarding the content and material on this website or if you have any questions about our privacy policies. Please contact us at:
+This website is operated by American Movie Classics Company LLC ("AMCC"), which owns the American Movie Classics Company LLC program service and the AMCTV.com website. AMCC is the only operator of this website. You may contact us directly if you have any questions regarding the content and material on this website or if you have any questions about our privacy policies. Please contact us at:
 
-**American Movie Classics Company**  
-200 Jericho Quadrangle  
-Jericho, NY 11753  
+**American Movie Classics Company LLC**  
+11 Penn Plaza  
+New York, NY 10001  
 **Attention: AMCC Privacy Coordinator**  
 [Privacy@amctv.com](mailto:Privacy@amctv.com)
 II. Membership and Participation Eligibility
