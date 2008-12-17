@@ -1,35 +1,35 @@
-> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603054319id_/http%3A//www.sears.ca/gp/node/n/16397281%3Fie%3DUTF8%26searsBrand%3Dcore) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040539id_/http%3A//www.sears.ca/gp/node/n/16397281%3Fie%3DUTF8%26searsBrand%3Dcore) for the most accurate reproduction.*
 
-# yourprivacy
+# your privacy - privacy and security : Sears Canada
 
-###  customer service
+### customer service
 
-  * [new visitors](https://web.archive.org/gp/browse.html?ie=UTF8&node=16396981&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
-  * [pricing & ordering](https://web.archive.org/gp/browse.html?ie=UTF8&node=16396991&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
-  * [shipping & returns](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397001&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
-  * **[privacy](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397281&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)**
-  * **[security](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397011&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)**
+###  privacy
+
   * [your privacy](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397281&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
-
   * [10 principles](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397291&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
-
   * [what is your personal information](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397301&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
-
   * [how we use your information](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397311&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
-
   * [giving consent](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397321&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
-
   * [security & disclosure of your personal information](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397331&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
-
   * [access to, and changing your personal information](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397341&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
-
   * [browser configuration](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397361&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
+  * [security](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397011&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
 
+
+
+###  helpful resources
+
+  * [contact us](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397021&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
   * [my account](https://www.sears.ca/gp/redirect.html?%5Fencoding=UTF8&location=https%3A%2F%2Fwww4.registration.stage.sears.ca%2Fwebapp%2FCCRWebApp%2FJSP%2FSearsCCRWebSite%2FSigninPage.jsp%3FsearsBrand%3Dcore&token=574D39FDE570D634EF5CD400F2C061A19A429878)
   * [common questions](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397031&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
+  * [new visitors to sears.ca](https://web.archive.org/gp/browse.html?ie=UTF8&node=16396981&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
+  * [pricing & ordering](https://web.archive.org/gp/browse.html?ie=UTF8&node=16396991&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
+  * [shipping & returns](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397001&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
   * [sizing information](https://web.archive.org/gp/browse.html?ie=UTF8&node=16378521&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
-  * [KidVantage](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397051&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
-  * [contact us](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397021&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
+  * [KidVantage®](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397051&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
+  * [back to customer services](https://web.archive.org/gp/browse.html?ie=UTF8&node=16378531&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
+
 
 
 
