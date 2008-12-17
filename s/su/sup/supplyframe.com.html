@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the supplyframe.com privacy policy that was archived on 2008-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080510151705id_/http%3A//www.supplyframe.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the supplyframe.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217122344id_/http%3A//www.supplyframe.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>SupplyFrame | Instant Information from the leading Electronic Components search engine</title>
@@ -13,34 +13,37 @@
 <script type="text/javascript" src="/partsearchservlet/dwr/interface/clipboard.js"></script>
 <script type="text/javascript" src="/partsearchservlet/dwr/engine.js"></script>
 <script type="text/javascript" src="/partsearchservlet/js/clipboard.js"></script>
+<script type="text/javascript" src="http://www.media.supplyframe.com/common/swfobject.js"></script>
 <script type="text/javascript">
 var actionVar = "searchBoxSF";
 var pluginVar = "installPluginSF";
 var registerVar = "registerSF";
 var signInVar = "signInSF";
 </script>
-<script type="text/javascript">
-var ysm_accountid  = "1AH063DUDR4CBHNGU25453GPB2S";
-document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " 
-+ "SRC=//" + "srv3.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid 
-+ "></SCR" + "IPT>");
-</script><script language="JavaScript" type="text/javascript" src="//srv3.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1AH063DUDR4CBHNGU25453GPB2S"></script>
 
 </head>
 <body>
 <div class="blockPage">
 <div class="blockHeader"><div class="topMenu" id="topMenu">
-<a href="javascript:void(0);" rel="productsDrop" class="topMl">Products</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+
+
+
+
+
 
 <a href="javascript:showClipboard();" rel="subRecentSearches" class="topMl">My Searches</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 
+
 <a href="javascript:showClipboard();" rel="subRecentParts" class="topMl">My Parts</a> <span id="clipCount">0</span> Items
+
 <div id="subRecentSearches" class="dropmenu">
 <h1>Recent Parts Viewed</h1>
 
+<p>No parts viewed.</p>
+
 
 <h1>Recent Searches</h1>
-
+<p>No recent searches.</p>
 
 </div>
 <div id="subRecentParts" class="dropmenu">
@@ -48,11 +51,12 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 
 <h1>Recent Parts Saved</h1>
 
-<p><a href="javascript:signInValue();">Sign In</a> or <a href="javascript:registerValue();">Register</a> to view recent parts saved.</p>
+<p><a href="javascript:signInValue();">Sign In</a> or <a href="/trackingservlet/track/?action=registerStart&amp;value1=&amp;value2=&amp;value3=&amp;zone=SF&amp;url=%2Fpartsearchservlet%2FregisterDisplay.do%3F">Register</a> to view recent parts saved.</p>
 
 
 
 </div>
+
 
 
 
@@ -68,50 +72,38 @@ window.open(supportWinURL,'SupplyFrame_Support','width=525,height=585,scrollbars
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="#" onclick="supportWin();">Live Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 
 <a href="javascript:signInValue();">Sign In</a>&nbsp;&nbsp;|&nbsp;&nbsp;New User?&nbsp;
-<div class="buttonBl"><a href="javascript:registerValue();">Register</a></div>
+<div class="buttonBl"><a href="/trackingservlet/track/?action=registerStart&amp;value1=&amp;value2=&amp;value3=&amp;zone=SF&amp;url=%2Fpartsearchservlet%2FregisterDisplay.do%3F">Register</a></div>
 
 
 
-<div id="productsDrop" class="dropmenu">
-<ul>
-<li>
-<h1>Parts</h1>
-<p>Use SupplyFrame's electronic component search engine to search for technical and purchasing information on hundreds of suppliers instantly</p>
-</li>
-<li>
-<h1><a href="http://www.quotefx.com/quotefx.shtml" target="_blank">Quotes</a></h1>
-<p>Web-based quote management tool created specifically for the electronics industry</p>
-</li>
-<li>
-<h1><a href="/gopart/">GoPart</a></h1>
-<p>Free, one-click tool to retrieve datasheets, crosses and more instantly on your desktop</p>
-</li>
-</ul>
-</div>
 <script type="text/javascript">
 cssdropdown.startmenu("topMenu")
 </script>
 </div>
-<div id="hL"><a href="/index.shtml"><img src="http://www.media.supplyframe.com/images/logo-SupplyFrame.gif" alt="SupplyFrame"></a></div>
+<div id="hL"><a href="/"><img src="http://www.media.supplyframe.com/images/logo-SupplyFrame.gif" alt="SupplyFrame"></a></div>
 <div id="hR">
 <div class="searchBox">
+
+
+
+
+
+
+
+
+
+<div class="searchBox">
 <div class="searchBoxFL" style="padding-right:10px;">
-<input class="formTextS" style="width:525px;" id="partNum" type="text" name="partNum" value="" onfocus="if ('' == this.value) this.value = '';" onblur="if ('' == this.value) this.value = '';" onkeydown="if (event.keyCode == 13){quickquoteservice.performSearch($F('partNum'));}">
+<input class="formTextS" style="width:525px;" id="partNum" type="text" name="partNum" value="" onfocus="if ('' == this.value) this.value = '';" onblur="if ('' == this.value) this.value = '';" onkeydown="if (event.keyCode == 13){tracking('/trackingservlet/track/?action=search&amp;value1=#{partNum}&amp;value2=&amp;value3=&amp;zone=SF_Search&amp;url=%2Fdatasheet-pdf%2Fsearch%2F#{partNum}');}">
 <div class="sampleLinks">
-<script type="text/javascript">
-if (!document.phpAds_used) document.phpAds_used = ',';
-phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-document.write ("<" + "script type='text/javascript' src='");
-document.write ("http://ads.supplyframe.com/openads/adjs.php?n=" + phpAds_random);
-document.write ("&amp;what=zone:53");
-document.write ("&amp;exclude=" + document.phpAds_used);
-if (document.referrer)
-document.write ("&amp;referer=" + escape(document.referrer));
-document.write ("'><" + "/script>");
-</script><script type="text/javascript" src="http://ads.supplyframe.com/openads/adjs.php?n=890596636&amp;what=zone:53&amp;exclude=,"></script><noscript><a href='http://ads.supplyframe.com/openads/adclick.php?n=af9f5fd5' target='_blank'><img src='http://ads.supplyframe.com/openads/adview.php?what=zone:53&amp;n=af9f5fd5' border='0' alt=''></a></noscript>
+Find Datasheet PDF, Part Spec &amp; Availability. e.g.&nbsp;
+<a href="/trackingservlet/track/?action=samplePNLink&amp;value1=OpticalSensor8-DIP&amp;zone=SF&amp;url=/datasheet-pdf/search/MAX232">MAX232</a>,&nbsp;
+<a href="/trackingservlet/track/?action=samplePNLink&amp;value1=BiCMOSoctalbuffers&amp;zone=SF&amp;url=/datasheet-pdf/search/BiCMOS%20octal%20buffers">BiCMOS octal buffers datasheet</a>
 </div>
 </div>
-<div class="searchBoxFL"><input type="button" onclick="quickquoteservice.performSearch($F('partNum'));" value="SEARCH" name="SEARCH" class="inputGR"></div>
+<div class="searchBoxFL"><input type="button" onclick="tracking('/trackingservlet/track/?action=search&amp;value1=#{partNum}&amp;value2=&amp;value3=&amp;zone=SF_Search&amp;url=%2Fdatasheet-pdf%2Fsearch%2F#{partNum}');" value="SEARCH" name="SEARCH" class="inputGR"></div>
+</div>
+
 </div>
 </div>
 <div class="clearDiv"><!-- CLEAR --></div>
@@ -149,7 +141,7 @@ window.open(feedbackWinURL,'SupplyFrame_Feedback','width=400,height=500,scrollba
 <div class="clearDiv"><!-- CLEAR --></div>
 </div>
 <div class="footerLinks">
-<a href="/index.shtml">Home</a>
+<a href="/">Home</a>
 <a href="/electronic_components_sourcing.shtml">Company Information</a>
 <a href="http://www.quotefx.com/quotefx.shtml" target="_blank">Get Quotes</a>
 <a href="/electronic_component_search_engine.shtml">Search Parts &amp; Datasheets</a>
@@ -157,9 +149,9 @@ window.open(feedbackWinURL,'SupplyFrame_Feedback','width=400,height=500,scrollba
 <a href="/privacy.shtml">Privacy Policy</a>
 <a href="/referral.shtml">Tell a Friend</a>
 <a href="/electronic_component_procurement.shtml">Why is this Free?</a>
+<a href="http://content.supplyframe.com/SFI20.html" target="_blank">SFI Top 20</a>
 <br>
 <a href="/partservice/search_frame.shtml">Free Datasheet Search Widgets</a>
-<a href="/electronic_component_distributor.shtml">Testimonials</a>
 <a href="/press/">Press</a>
 <a href="/blog/">Blog</a>
 <a href="/authority_program.shtml">Authority Partner Program</a>
@@ -168,14 +160,25 @@ window.open(feedbackWinURL,'SupplyFrame_Feedback','width=400,height=500,scrollba
 <a href="/gopart/">GoPart</a>
 <a href="http://www.quotefx.com" target="_blank">QuoteFX</a>
 <br>
-<a href="/partsearchservlet/siteMapAction.do">PN Sitemap</a>
+<a href="/datasheet-pdf/component/">PN Sitemap</a>
 <a href="/redirect/http_datasheet">Datasheet Info</a>
 <a href="/top_electronic_components.shtml">Top Part Numbers</a>
 <a href="/sitemap.shtml">Sitemap</a>
 <a href="/search_syntax.shtml">Search Syntax</a>
 <a href="/search_phrases/top_descriptive_search_terms.shtml">Top Descriptive Search Terms</a>
-<a href="/manufacturers/top_searched_component_manufacturers.shtml">Top Searched Component Manufacturers</a>
+<a href="/datasheet-pdf/manufacturer/">Top Searched Component Manufacturers</a>
 </div>
+<script type="text/javascript">
+_qoptions={
+qacct:"p-16me67-PXyTDw"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<a href="http://www.quantcast.com/p-16me67-PXyTDw" target="_blank"><img
+src="http://pixel.quantserve.com/pixel/p-16me67-PXyTDw.gif" style="display:
+none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
 </div>
 </div>
 <script type="text/javascript">
@@ -192,7 +195,7 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 
-<img src="/trackingservlet/impression/?action=pageImpression&amp;value1=&amp;value2=&amp;value3=privacy" class="trackImg">
+<img src="/trackingservlet/impression/?action=pageImpression&amp;zone=SF_Privacy" class="trackImg">
 
 
 </body></html>
