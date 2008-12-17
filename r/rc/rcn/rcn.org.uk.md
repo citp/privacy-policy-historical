@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcn.org.uk privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622222802id_/http%3A//www.rcn.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcn.org.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217124821id_/http%3A//www.rcn.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - RCN
 
