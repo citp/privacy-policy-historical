@@ -1,38 +1,58 @@
-> *The following text is extracted and transformed from the brighthub.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219114824id_/http%3A//www.brighthub.com/tabid/77/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthub.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217233232id_/http%3A//www.brighthub.com/content/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Bright Hub Privacy Policy
 
-| 
+Effective July 9th, 2008
 
-**Bright Hub  is brought to you by Flatburger, Inc. Visit **_[_**www.flatburger.com**_](http://www.flatburger.com/)_ **for more information.**
+ **Bright Hub Privacy Policy**
 
-**[](http://www.truste.org/ivalidate.php?url=www.flatburger.com&sealid=101)  
-**
+Bright Hub provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.brighthub.com (this “Site”).  This Privacy Policy applies only to information that you provide to us through this Site.  Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site.
 
-**FlatBurger Privacy Policy**
+ **1.   Information Collection**
 
-This Privacy Policy is effective as of April 23, 2007.
+  * In the course of using this Site, you may provide us with personally identifiable information.  This refers to information about you that can be used to contact or identify you, and information on your use of and  activities at our Site that may be connected with you (“Personal Information”).  Personal Information that we collect may include, but is not limited to, your name, phone number, gender, birth date, email address and postal address.  Personal Information may also include information you supply to us concerning your preferences and interests expressed in the course of using our Site.
 
-FlatBurger empowers software marketplaces by linking software sellers (“ ** _Partners_** ”) and software buyers (“ ** _Buyers_** ”) through a unique services and technology platform combining code protection, licensing, quality certification, feedback, catalog, and e-commerce management features (the “ ** _Service_** ”). FlatBurger also partners with certain distributors and affiliates (“ ** _Affiliates_** ”) so that Partners may take advantage of the licensing and code protection technologies that FlatBurger offers while distributing software for download via other channels. Providing such a service necessarily requires FlatBurger to collect certain information about you and your Web browsing sessions. Because we at FlatBurger understand the importance of safeguarding your privacy, we take this responsibility very seriously. We are providing the following Privacy Policy to inform you of our policies and procedures for collection, use, and disclosure of any information about you that is collected from you during your use of flatburger.com (“ ** _Site_** ”) that, on its own or in combination with other identifiers, can be used to contact or identify you and any information that is stored or used in association with such identifying information (“ ** _Personal Information_** ”). For the purpose of this Privacy Policy, Personal Information does not include your IP address. We explain how we will use your IP address in more detail below.
 
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any material changes to our Privacy Policy by posting the new policy on the Site 30 days prior to the material change to the privacy policy. We suggest that you consult the Site regularly to check for any changes to this Privacy Policy. 
+  * When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website.  This information may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to our Site and information you search for on our Site.  Like many websites, we also use “cookies” to collect information.  A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes.  You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.  If you do not accept cookies, however, you may not be able to use all portions of the Site.
 
-If you have any questions about this Privacy Policy or our privacy practices, please contact us at [**_privacy@flatburger.com_**](mailto:privacy@flatburger.com).
 
-We use your Personal Information primarily to provide and improve the Service. We also use your Personal Information when you contact us for technical support and to better understand how our Site and Service are used, as further explained below. 
 
-Prior to buying or selling software via the Service, downloading FlatBurger white papers, or actively participating in the FlatBurger forums or blogs, you must register for a FlatBurger account. During registration, we request the following information: name, email address, user ID, display name, account password, website URL, city, state/province, country, company name, and occupation. FlatBurger will use that information to provide the Service. If you are a Buyer or Seller, FlatBurger may collect additional Personal Information, as set forth in the “Buyers” and “Partners” sections below.
+  **2.   How We Use Your Information**
 
-In some cases, we collect Personal Information from you if you have not created an account, or have not signed in to your account. If you ask to join the FlatBurger email list in order to receive electronic newsletters or similar information, we will collect your email address. FlatBurger will use email addresses collected in this context to send you such information. We will not share your email address with third parties nor send you marketing or advertising messages at that address (unless you have provided us with that same email address in connection with a registered account and have expressly agreed to receive such messages). We also collect your email address and that of a third party when you use our Tell-A-Friend service (See “Tell-A-Friend” below). In addition, for all visitors to the Site—registered or not—FlatBurger collects certain Site Usage Data (defined below). 
+  * Personal Information is used for the following purposes:  (i) to provide and improve our Site, features and content, (ii) to better understand your needs and interests, (iii) to fulfill requests you may make, (iv) to personalize your experience, and (v) to provide you with further information about the Site or Bright Hub that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information regarding services and products offered by us.  If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications or update your “user preferences” information. (See “Changing or Deleting Information,” below.)
 
-## Tell-A-Friend 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. FlatBurger stores this information for the sole purpose of sending this one-time email, and tracking the success of our referral program. 
+  * We use information we obtain by technical means (such as the automatic recording performed by our servers or through the use of cookies) for the above purposes and in order to monitor and analyze use of the Site and our services and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, to better tailor the Site to your needs, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and to verify that visitors to the Site meet the criteria required to process their requests (if applicable). 
 
-Your friend may contact us at [_privacy@flatburger.com_](mailto:privacy@flatburger.com) to request that we remove this information from our database.
 
-<  
+
+  **3.   Information Sharing and Disclosure**
+
+Bright Hub Users.   We will display your Personal Information in your profile page and elsewhere on the Site according to the preferences you set in your account.  Any information you choose to provide should reflect how much you want all other Bright Hub users to know about you.  We recommend that you guard your anonymity and sensitive information and we encourage users to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.  
   
----  
-|  |  |  |  |   
----|---|---|---|---
+Service Providers, Business Partners and Others.  We may employ third party companies and individuals to perform Site-related services (including but not limited to maintenance services, database management, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site is used.  These third parties have access to your Personal Information only for purposes of performing these tasks on our behalf. 
+
+Compliance with Laws and Law Enforcement.  Bright Hub cooperates with government and law enforcement officials and private parties to enforce and comply with the law.  We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Bright Hub or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
+
+Business Transfers.  Bright Hub may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+
+ **  
+4.   Changing or Deleting Your Information**
+
+All registered users may review, update, correct or delete the Personal Information provided in their registration or account profile by  changing their “user preferences” in their account page.  If you completely delete all such information, then your account may become deactivated. 
+
+  **5.   Security**
+
+Bright Hub is very concerned with safeguarding your information.  We employ reasonable measures designed to protect your information from unauthorized access.
+
+  **6.   Our Policy Toward Children**
+
+This Site is not directed to children under 18.  We do not knowingly collect personally identifiable information from children under 13.  If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at Privacy@BrightHub.com.  If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
+
+  **7.   Contacting Us**
+
+If you have any questions about this Privacy Policy, please contact us at Privacy@BrightHub.com or at:
+
+ **Privacy Matters c/o Bright Hub, Inc.  
+270 River Street  
+Troy, NY 1218**
