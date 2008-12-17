@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kugli.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614203443id_/http%3A//www.kugli.com/business/def/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kugli.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217170124id_/http%3A//www.kugli.com/business/def/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Kugli.com
 
