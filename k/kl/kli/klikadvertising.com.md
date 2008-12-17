@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klikadvertising.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506120009id_/http%3A//klikadvertising.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klikadvertising.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063545id_/http%3A//www.klikadvertising.com/policy.php) for the most accurate reproduction.*
 
 # KLIK Advertising � Privacy policy
 
@@ -20,15 +20,9 @@ KlikAdvertising.com may share non-personal and non-personally identifiable infor
 By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our Terms of Service. KlikAdvertising.com may decide to change this privacy statement from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
 
 **How to Contact You?**  
-If you have any questions regarding our privacy policy please contact [support@klikadvertising.com](mailto:support@klikadvertising.com)  
-  
----  
-  
-**Show Results for country:**
+If you have any questions regarding our privacy policy please contact [support@klikadvertising.com](mailto:support@klikadvertising.com)
 
-|   
-  
-�2005 KlikAdvertising.com. [Terms of Use](https://web.archive.org/web/20080506120009id_/http%3A//klikadvertising.com/terms.php) | Privacy Policy | [Contact Us](https://web.archive.org/web/20080506120009id_/http%3A//klikadvertising.com/contact.php)
+�2005 KlikAdvertising.com. [Terms of Use](https://web.archive.org/web/20081217063545id_/http%3A//www.klikadvertising.com/terms.php) | Privacy Policy | [Contact Us](https://web.archive.org/web/20081217063545id_/http%3A//www.klikadvertising.com/contact.php)
 
   
 
