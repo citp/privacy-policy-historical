@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the goldencan.com privacy policy that was archived on 2008-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080210144228id_/http%3A//www.goldencan.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldencan.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045034id_/http%3A//www.goldencan.com/privacy.aspx) for the most accurate reproduction.*
 
 # GoldenCAN Privacy Policy
+
+**Privacy Policy**
 
 GoldenCAN™ is strongly committed to protecting the privacy of its user community. We may periodically make changes to this Privacy Policy. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. 
 
@@ -31,5 +33,3 @@ If you have any questions about our privacy policy, or believe that we have not 
 Thank you 
 
 GoldenCAN Staff 
-
- 
