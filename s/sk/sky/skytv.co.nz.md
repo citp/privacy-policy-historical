@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skytv.co.nz privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609160946id_/http%3A//www.skytv.co.nz/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skytv.co.nz privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217111148id_/http%3A//skytv.co.nz/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
