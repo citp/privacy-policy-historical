@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509121056id_/http%3A//www.cooking.com/products/shourplg.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062603id_/http%3A//www.cooking.com/products/shourplg.asp) for the most accurate reproduction.*
 
 # Cooking.com - Pledge
 
@@ -79,7 +79,7 @@ At any time you can unsubscribe, correct or update your information or modify yo
 
   * **On the Cooking.com Site**. Click on the "Help" button at the top of the home page then on the appropriate link under the "subscriptions" to change your information.
   * **By e-mail.** Send an email request to [Customer Service](https://web.archive.org/guestassist/shcontus.asp).
-  * **By postal mail.** Please include your email address and mail your request to us at 2850 Ocean Park Blvd. Suite 310, Santa Monica, CA 90405: Attention: Customer Service.
+  * **By postal mail.** Please include your email address and mail your request to us at 4086 Del Rey Avenue, Marina Del Rey, CA 90292: Attention: Customer Service.
   * **By phone.** Call toll-free at (800) 663-8810 in the USA and Canada.
   
 (310) 450-3270 outside USA and Canada. 
@@ -88,7 +88,7 @@ At any time you can unsubscribe, correct or update your information or modify yo
 
   * **On the Cooking.com Site**. Click on the "Help" button at the top of the home page then on the appropriate link under the “subscriptions" to change your information.
   * **By e-mail.** Send an email request to [Customer Service](https://web.archive.org/guestassist/shcontus.asp).
-  * **By postal mail.** Please follow [these instructions](https://web.archive.org/extras/mail_printout.htm) and mail your request to us at 2850 Ocean Park Blvd. Suite 310, Santa Monica, CA 90405: Attention: Customer Service.
+  * **By postal mail.** Please follow [these instructions](https://web.archive.org/extras/mail_printout.htm) and mail your request to us at 4086 Del Rey Avenue, Marina Del Rey, CA 90292: Attention: Customer Service.
   * **By phone.** Call toll-free at (800) 663-8810 in the USA and Canada.
   
 (310) 450-3270 outside USA and Canada. 
