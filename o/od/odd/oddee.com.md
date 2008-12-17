@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddee.com privacy policy that was archived on 2008-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080525082136id_/http%3A//oddee.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddee.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060838id_/http%3A//www.oddee.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,4 +20,4 @@ This Web site contains links to other sites. Please be aware that we are not res
 We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Axill etc. Please check their websites for respective privacy policies. 
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20080525082136id_/http%3A//oddee.com/contactus.aspx)
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20081217060838id_/http%3A//www.oddee.com/contactus.aspx)
