@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ciol.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630054015id_/http%3A//www.ciol.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciol.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217213626id_/http%3A//www.ciol.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # 
 
