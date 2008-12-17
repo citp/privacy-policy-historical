@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbcusa.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610051435id_/http%3A//www.hsbcusa.com/hsbcusa/hsbcusa_privacy.html%3FWT.svl%3D900) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbcusa.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070026id_/http%3A//www.hsbcusa.com/hsbcusa/hsbcusa_privacy.html%3FWT.svl%3D900) for the most accurate reproduction.*
 
 # HSBCusa.com Website Privacy Policy
 
