@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623082954id_/http%3A//www.lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217154809id_/http%3A//www.lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -27,33 +27,14 @@ We do not use any type of cookies on Low End Mac, although BackBeat Media (which
 
   
 
-
-### Low End Mac Reader Specials
-
-[ **Memory To Go Special:**](http://www.memorytogo.com/?rfr=lowendmac) MacPro 8 Core Memory 4GB kit $192 / 2GB kit $109. MacBook Pro / MacMini / iMac Intel Core2 DUO 2GB $44 1GB $23--Free shipping available.
-
-[ **Download Typestyler,**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/662/clickHTML?ajkey=D3FC04ACCF3A96D6D1EAAB2400001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF1A21F7F3) still the Ultimate Styling Tool for Internet, Print and Video Graphics. Works great in Classic with a Native OS X Version on the way. [Free Tryout: www.typestyler.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/662/clickHTML?ajkey=D3FC04ACCF3A96D6D1EAAB2400001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF1A21F7F3)
-
-[ ](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/229/clickHTML?ajkey=4D63E9F9CF3A96D6D1EAAB24000021150000288200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFFFD842C8A) **[LA Computer Company:](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/229/clickHTML?ajkey=4D63E9F9CF3A96D6D1EAAB24000021150000288200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFFFD842C8A)** LA Computer Company: Specials on AppleCare, Apple Displays, MacBooks, iMac's, MacBook Pros, Laptop and iPod accessories and more. Apple A/C Adapters for laptops starting at $25.00 Call 1-800-941-7654 or [Click Here. ](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/229/clickHTML?ajkey=4D63E9F9CF3A96D6D1EAAB24000021150000288200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFFFD842C8A)
-
-[**Other World Computing**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/864/clickHTML?ajkey=A42FDF14CF3A96D6D1EAAB2400001EBA00001EC400001A5800001B6AFFFFFF91FFFFFF91FFFFFFFF07D569FE) has the Upgrades, Enhancements, and Accessories for getting the most from your Mac. Quality Products, Competitive Prices, Expert Support Staff - [www.macsales.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/864/clickHTML?ajkey=A42FDF14CF3A96D6D1EAAB2400001EBA00001EC400001A5800001B6AFFFFFF91FFFFFF91FFFFFFFF07D569FE)
-
-Mac users can finally play [Party Poker for Mac](http://www.imaconlinepoker.com/mac/online/poker/party-poker/). Not only that, they can also learn how to play [PokerStars for Mac](http://www.imaconlinepoker.com/mac/online/poker/pokerstars/).
-
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/706/clickHTML?ajkey=DF6D3D41CF3A96D6D1EAAB24000035DF000035DC00001EC800001B6AFFFFFF91FFFFFF91FFFFFFFF19063B6B) Laptop Hardware Provided by [TechRestore](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/706/clickHTML?ajkey=DF6D3D41CF3A96D6D1EAAB24000035DF000035DC00001EC800001B6AFFFFFF91FFFFFF91FFFFFFFF19063B6B) \- Overnight Mac & iPod Repairs.
-
-Compare products like [desktop computers](http://www.ciao.com/Desktops_10000034_2 "Desktop Reviews"), [laptops](http://www.ciao.com/Laptops_10000035_2 "Laptop reviews"), and [LCD TVs ](http://www.ciao.com/LCD_Monitors_10000037_2 "LCD Monitor comparison") side by side! All the information and reviews to make the best purchasing decision for a new cell phone [GPS products](http://www.ciao.com/GPS_Systems_10000169_2 "GPS Reviews and Price Comparison") or [MP3 players](http://www.ciao.com/MP3_Players_10000127_3 "Compare MP3 Player"). [The Ciao network](http://www.ciao.com/ "For reviews and price comparison") makes searching products easy for you.
-
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/260/clickHTML?ajkey=B0A14A93CF3A96D6D1EAAB2400003CF50000391C0000391B00001B6AFFFFFF91FFFFFF91FFFFFFFF02F5F5EC)[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/260/clickHTML?ajkey=B0A14A93CF3A96D6D1EAAB2400003CF50000391C0000391B00001B6AFFFFFF91FFFFFF91FFFFFFFF02F5F5EC) MacBook/MacBook Pro / MacMini / iMac Intel Core2 DUO DDR2 667Mhz 4GB Kit $84, 3GB Kit $60, 2GB Kit $40 1GB $20. [ Click to Maximize your Macs...](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/260/clickHTML?ajkey=B0A14A93CF3A96D6D1EAAB2400003CF50000391C0000391B00001B6AFFFFFF91FFFFFF91FFFFFFFF02F5F5EC)
-
 Entire [Low End Mac](https://web.archive.org/index.shtml) website copyright ©1997-2008 by [Cobweb Publishing, Inc.](https://web.archive.org/cobweb/index.html), unless otherwise noted. All rights reserved. Advice presented in good faith, but what works for one may not work for all. Please report errors to [webmaster](mailto:lowendmac@gmail.com) .  
   [LINKS](https://web.archive.org/link.shtml): We allow and encourage links to any public page as long as the linked page does not appear within a frame that prevents bookmarking it.  
   Access our RSS news feed at [http://lowendmac.com/feed.xml](https://web.archive.org/feed.xml).  
   Email may be published at our discretion; email addresses will not be published without permission, and we will encrypt them in hopes of avoiding spammers. If you prefer your message not be published, mark it "not for publication." Letters may be edited for length, context, and to match [house style](https://web.archive.org/styleguide/index.shtml).  
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)  
-  [Low End Mac](https://web.archive.org/index.shtml) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Inc. Apple, the Apple logo, Macintosh, iBook, iMac, eMac, iPod, PowerBook, MacBook, Mac Pro, Apple TV, and AirPort are [registered trademarks of Apple Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  | 
-* Mac of the Day: [Power Mac G5](https://web.archive.org/ppc/power-macintosh-g5-2003.html), June 2003 - IBM's PowerPC 970 at 1.6-2.0 GHz, HyperTransport archictecture, serial ATA, PCI-X, and AirPort Extreme.
-* List of the Day: [Mac-N-DOS](http://lowendmac.com/lists/macndos.shtml) is for those who use Windows and the Mac OS.  
+  [Low End Mac](https://web.archive.org/index.shtml) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Inc. Apple, the Apple logo, Macintosh, iBook, iMac, eMac, iPod, iPhone, PowerBook, MacBook, MagSafe, Mac Pro, Apple TV, and AirPort are [registered trademarks of Apple Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  | 
+* Mac of the Day: [Power Mac G5 Quad](https://web.archive.org/ppc/power-macintosh-g5-quad.html), Oct. 2005 - With two 2.5 GHz dual-core G5 CPUs, the G5 Quad was the most powerful PowerPC Mac ever and introduced PCI Express.
+* List of the Day: [Unsupported OS X](http://lowendmac.com/lists/unsupported.html) is for those using OS X on unsupported hardware.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/ppc/index.shtml)  
@@ -102,7 +83,7 @@ Entire [Low End Mac](https://web.archive.org/index.shtml) website copyright ©19
 [MacMall](http://www.kqzyfj.com/click-272632-53427)  
 [MacResQ](http://www.myaffiliateprogram.com/u/macresq/b.asp?id=1046)  
 [ ExperCom](http://www.expercom.com/browse_by_category.html?CATEGORY_ID=264&AD=LOEM)  
-[eBay](http://rover.ebay.com/rover/1/711-1751-2978-3/1?aid=2202641&pid=272632)  
+[eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?type=1&campid=5336172247&toolid=10001&customid=LowEndMac)  
 [ Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/lowendmac00-20)  
 [PayPal](https://secure.paypal.com/refer/pal=webmaster%40lowendmac.com)  
 [PCMall](http://www.tkqlhce.com/click-272632-54502)  
