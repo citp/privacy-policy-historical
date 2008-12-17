@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630162909id_/http%3A//www.shaneco.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110011id_/http%3A//www.shaneco.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -6,7 +6,7 @@
 
 |  | 
 
-[Home](https://web.archive.org/default.asp) > [Customer Service](https://web.archive.org/about/about_us.asp) > Our Privacy Policy 
+You are here: [Home](https://web.archive.org/default.asp) > [Customer Service](https://web.archive.org/about/about_us.asp) > Our Privacy Policy 
 
 * * *
 
@@ -73,8 +73,10 @@ If we decide to change our privacy policy, we will post notification of those ch
   
 
 
-I purchased a necklace for our 35th anniversary. I must say that the stone is exquisite. The fire, color and clarity are outstanding. 
+I just ordered a ring and cannot describe how enjoyable of an experience it was. I was completely impressed with your service. The ring is incredible. 
 
-Alex N. - Peyton, CO
+Matthew & Kacie - West Lafayette, IN
 
-[ ](https://financial.wellsfargo.com/retailprivatelabel/initApp.do?profileNum=8710)
+[ ](https://financial.wellsfargo.com/retailprivatelabel/initApp.do?profileNum=8710)  
+  
+Copyright© 2000-2008 Shane Co. All Rights Reserved | [Privacy Policy](https://web.archive.org/about/privacy.asp)
