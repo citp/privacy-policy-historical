@@ -1,0 +1,638 @@
+<!--The following is the downloaded HTML source of the good.is privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217102635id_/http%3A//www.good.is/about/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="verify-v1" content="vApYvqMZKhsjXJAeSqYW8l7t4iRr3VYNp9s4LNpGmUM=">
+<!-- app2 -->
+<title>GOOD » </title>
+
+<link rel="alternate" type="application/rss+xml" title="GOOD RSS Feed" href="">
+<link rel="pingback" href="http://www.good.is/xmlrpc.php">
+
+<link rel="stylesheet" href="http://www.goodmagazine.com.s3.amazonaws.com/resources/css/good.css" type="text/css">
+
+<script type="text/javascript" src="http://www.goodmagazine.com.s3.amazonaws.com/resources/js/jquery-1.2.3.min.js"></script>
+<script type="text/javascript" src="http://www.goodmagazine.com.s3.amazonaws.com/resources/js/jquery.dimensions.min.js"></script>
+<script type="text/javascript" src="http://www.goodmagazine.com.s3.amazonaws.com/resources/js/ui.tabs.min.js"></script>
+<script type="text/javascript" src="http://www.goodmagazine.com.s3.amazonaws.com/resources/js/lib.js"></script>
+<script type="text/javascript" src="http://www.goodmagazine.com.s3.amazonaws.com/resources/js/common.js"></script>
+<script type="text/javascript" src="http://www.goodmagazine.com.s3.amazonaws.com/resources/js/jquery.jcarousel.pack.js"></script>
+<script type="text/javascript" src="http://www.goodmagazine.com.s3.amazonaws.com/resources/js/swfobject.js"></script>
+<script type="text/javascript" src="http://www.goodmagazine.com.s3.amazonaws.com/resources/js/jquery.tooltip.js"></script>
+<script type="text/javascript" src="http://www.goodmagazine.com.s3.amazonaws.com/resources/js/jquery.wysiwyg.pack.js"></script>
+
+<!-- windows/safari/ie based css'-->
+<script language="javascript">
+  		if (navigator.appVersion.indexOf("Win")!=-1)
+  			document.write('<link rel="stylesheet" type="text/css" href="http://www.goodmagazine.com.s3.amazonaws.com/resources/css/windows.css" />');
+		else if (navigator.appVersion.indexOf("Safari")!=-1)  
+			document.write('<link rel="stylesheet" type="text/css" href="http://www.goodmagazine.com.s3.amazonaws.com/resources/css/safari.css" />');
+</script><link rel="stylesheet" type="text/css" href="http://www.goodmagazine.com.s3.amazonaws.com/resources/css/safari.css">
+
+<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://www.goodmagazine.com.s3.amazonaws.com/resources/css/ie.css" />
+<![endif]-->
+
+<!--[if IE 6]>
+	<link rel="stylesheet" type="text/css" href="http://www.goodmagazine.com.s3.amazonaws.com/resources/css/ie6.css" />
+<![endif]-->
+
+<script type="text/javascript">
+	$(function() {
+		$('#loginform').submit(function(){
+			$('#login-failed').load('http://www.good.is/wp-content/plugins/login/login-ajax.php', $('#loginform').serializeArray(), 
+	function (responseText, textStatus, XMLHttpRequest) {
+  		isSuccess= responseText.charAt(0); //responseText.split('\n',2);		
+		if(responseText.charAt(0) == '<' && responseText.charAt(1) == 'd'){//success
+			$('#log_usr_name').css({'display':'none'});
+			$('#log_usr_pass').css({'display':'none'});
+			$('#log_usr_remember').css({'display':'none'});
+			responseText = '';
+			if(document.all) setTimeout('window.location.reload(true)',1000);
+			else window.location.reload(true);
+		}
+	}); return false;		});
+		
+		$('#forgetpassform').submit(function(){
+			$('#forgetpass-failed').load('http://www.good.is/wp-content/plugins/login/forgetpass-ajax.php', $('#forgetpassform').serializeArray()); return false;		});
+	});
+</script>
+	
+<script type="text/javascript" language="JavaScript">
+ $(function() {
+		$('.good_tabs > .tabs').tabs();
+	}
+ );
+</script>
+
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.good.is/xmlrpc.php?rsd">
+<script type="text/javascript" src="http://www.goodmagazine.com.s3.amazonaws.com/resources/js/vipers-video-quicktags.js?ver=5.4.4"></script>
+
+	<style type="text/css">
+	.do_follow			{ background: url(http://www.good.is/wp-content/plugins/tracking/images/ui/follow_icon.gif) 4px 0 no-repeat; }
+	.already_following { background:  url(http://www.good.is/wp-content/plugins/tracking/images/ui/follow_grey.gif) 4px 0 no-repeat; }
+	</style>
+	
+	<style type="text/css">
+	.do_vote								{ background: url(http://www.goodmagazine.com.s3.amazonaws.com/resources/images/ui/goodmark_icon.gif) 1px 2px no-repeat; padding-left: 11px; }
+	.already_voted							{ background: url(http://www.goodmagazine.com.s3.amazonaws.com/resources/images/ui/goodmark_off.gif) 1px 2px no-repeat; padding-left: 11px; }
+	
+	.sharing .already_voted a 					{ padding-right: 5px; }
+	.sharing .already_voted .ttip 				{ padding: 0; color: #0099ff; }
+
+	.activity .already_voted			{ padding:3px 0pt 12px 26px; font-weight:normal; }	
+	.activity .already_voted				{ background: url(images/ui/goodmark_icon.gif) -3px 2px no-repeat;}
+	.activity .already_voted span			{ font-weight: bold; color:#0099ff; }
+
+	</style>
+	<script language="javascript">
+		function toggle_elements() {
+			function toggle(){
+				$(this).parents(".drawer_content").children(".drawer_form").slideToggle("normal");
+				$(this).parents(".drawer_content").children(".sharing .do_share").toggleClass("open");
+				return false;
+			};
+			
+			$(".do_share").bind("click", toggle);
+			$(".close").bind("click", toggle);
+			$(".ttip").tooltip();
+		}
+		
+		$(document).ready(toggle_elements);
+	</script>
+	
+<style type="text/css">
+	.actions .delicious					{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/delicious_icon.gif) no-repeat 2px 2px; }
+	.actions .delicious:hover					{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/delicious_icon_over.gif) no-repeat 2px 2px; }
+	.actions .reddit					{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/reddit_icon.gif) no-repeat 4px 2px; }
+	.actions .reddit:hover						{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/reddit_icon_over.gif) no-repeat 4px 2px; }
+	.actions .digg						{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/digg_icon.gif) no-repeat 4px 1px; }
+	.actions .digg:hover						{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/digg_icon_over.gif) no-repeat 4px 1px; }
+	.actions .stumbleupon				{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/stumble_icon.gif) no-repeat 4px 2px; }
+	.actions .facebook					{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/facebook_icon.gif) no-repeat 4px 1px; }
+	.actions .facebook:hover					{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/facebook_icon_over.gif) no-repeat 4px 1px; }
+	.actions .mixx						{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/mixx_icon.gif) no-repeat 4px 1px; }
+	.actions .mixx:hover						{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/mixx_icon_over.gif) no-repeat 4px 1px; }
+	
+	.actions .yahoo						{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/yahoo_icon.gif) no-repeat 2px 4px; margin-right: 11px; padding-left:8px;}
+	.actions .yahoo:hover						{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/yahoo_icon_over.gif) no-repeat 2px 4px; margin-right: 11px; padding-left:8px;}
+	
+	.actions .delicious a:hover,					
+	.actions .reddit a:hover,						
+	.actions .digg a:hover,						
+	.actions .stumbleupon a:hover,				
+	.actions .facebook a:hover,					
+	.actions .mixx a:hover					{ background: url(http://www.good.is/wp-content/plugins/vk_sharing/images/ui/new_window_icon.gif) no-repeat top right; }
+	
+	
+	.redLink {
+	color:#CC0000;
+	font-family:Georgia,"Times New Roman",Times,serif;
+	font-style:italic;
+	text-decoration:none;
+	}
+</style>	
+		<!-- Viper's Video Quicktags CSS -->
+	<style type="text/css">
+		.vvqbox { margin: 5px auto 0 auto; text-align: center; }
+
+		/* hides the second object from all versions of IE */
+		* html object.mov {
+			display: none;
+		}
+
+		/* displays the second object in all versions of IE apart from 5 on PC */
+		* html object.mov/**/ {
+			display: inline;
+		}
+
+		/* hides the second object from all versions of IE >= 5.5 */
+		* html object.mov {
+			display/**/: none;
+		}
+	</style>
+
+</head>
+<body>
+<div id="pagebox" name="pagetop">
+		<div class="column last" id="global_nav">
+
+			
+			<div class="column colx6-edge tier1 login loginbox">			
+		 		<div class="login_win" id="login_layer">
+                  <div class="head">
+                     <a onclick="$('#login_layer').css({'display':'block'}); $('#forgot_password').css({'display':'none'}); $('.loginbox').toggle();$('.do_login a').toggleClass('selected');" href="" class="close">
+                        <span>x</span>
+                     </a>
+                  </div>
+                  <div class="content">
+                     <form name="loginform" id="loginform" method="post" action="http://www.good.is/wp-content/plugins/login/login-ajax.php">
+                        <input type="hidden" name="redirect_to" value="/about/privacy.php">
+
+                        <dl class="entry entry_a" id="log_usr_name">
+                           <dt>Username:</dt>
+                           <dd>
+						   		<input style="padding:0px;" class="text" type="text" name="log" id="user_login" value="Username" onfocus="this.select()">                           
+						   </dd>
+                        </dl>
+                        <dl class="passwd_entry entry entry_b" id="log_usr_pass">
+                           <dt>Password:</dt>
+                           <dd>
+						   		<input type="password" class="password" name="pwd" id="user_pass" value="password" onfocus="this.select()">
+						   </dd>
+                           <dd>
+                              	<input type="image" value="login" class="image-button" src="http://www.goodmagazine.com.s3.amazonaws.com/resources/images/ui/go_arrow.gif">
+                           </dd>
+                        </dl>
+						<br>
+                        <div class="error_box">
+                        	<div id="login-failed"><!-- //--></div>
+                        </div>
+
+                        <div class="help_items horiz" id="log_usr_remember">
+                              <!--<a href="http://www.good.is/about/contact.php">-->
+                              <a onclick="$(&quot;#login_layer&quot;).css({&quot;display&quot;:&quot;none&quot;});$(&quot;#forgot_password&quot;).css({&quot;display&quot;:&quot;block&quot;});" href="#">
+                                 <span>Forgot user name or password</span>
+                              </a>
+                              <label>
+                              	 <input name="rememberme" type="checkbox" checked="checked" class="checkbox">
+                                 <span> Remember me</span>
+                              </label>
+
+                        </div>
+                     </form>
+                  </div>
+               </div>
+               	<div class="login_win" id="forgot_password" style="display: none;">
+                  <div class="head">
+                      <a onclick="$('#login_layer').css({'display':'block'}); $('#forgot_password').css({'display':'none'}); $('.loginbox').toggle();$('.do_login a').toggleClass('selected');" href="" class="close">
+                        <span>x</span>
+                     </a>
+                  </div>
+
+                  <div class="content">
+                  <form action="http://www.good.is/user/forget-password.php" method="post" id="forgetpassform" name="forgetpassform">
+                        <input type="hidden" value="/" name="redirect_to">
+						 <div class="reset_info horiz">
+                                 <span>Please enter your email address</span>
+                        </div>
+						<br>
+                        <dl class="passwd_entry email_entry entry entry_b">
+                           <dd>
+						   		<input type="text" onfocus="this.select()" id="email_address" name="email_address" class="text" style="padding: 0px;">
+						   </dd>
+                           <dd>
+                              	<input type="image" src="http://www.goodmagazine.com.s3.amazonaws.com/resources/images/ui/go_arrow.gif" class="image-button" value="login">
+                           </dd>
+                           <dd>
+	                        	<div id="forgetpass-failed"><span> </span></div>
+                           </dd>
+                        </dl>
+                     </form>
+
+                  </div>
+               </div>
+			   	
+				<div class="login_welcome">
+					<span class="welcome_header">
+						Not a member yet?
+					</span>
+					<div class="account_points">
+						Create an account to:<br>
+						<li>vote on articles</li>
+
+						<li class="right">create your own blog</li>
+						<li>leave comments</li>
+						<li class="right">speak your mind</li>
+					</div>
+					
+					<div class="join_btn invert">
+						<button type="button" onclick="$('.loginbox').toggle();$(this).toggleClass('selected'); loadExtUrl(this); window.scrollTo(0,0);" name="5" rel="join_good" href="/about/join_good" index="3">
+						  <span>
+							 <em>join</em>
+						  </span>
+					   </button>
+					</div>
+					
+				</div>
+               
+          		<div class="login_warning" style="display: none;">
+					<img height="17" width="17" align="left" src="http://www.goodmagazine.com.s3.amazonaws.com/resources/images/login_warn.gif">You need to be logged in<br>
+					in order to do that.
+				</div>
+          		     
+			 </div>
+            <div class="column colx6-edge tier tier1 last">
+               <div class="column colx3">
+			     <ul class="nav global_tier1 horiz align_lt">
+                     <li class="what_is_good  first" id="what_is_good">
+                        <a href="/about/what_is_good.php" rel="what_is_good" name="1" target="_topnav">
+                           <span>What is GOOD?</span>                        </a>                     </li>
+                     <li class="choose_good" id="choose_good">
+                        <a href="/about/choose_good.php" rel="choose_good" name="2" target="_topnav">
+                           <span>Choose GOOD</span>                        </a>                     </li>
+
+                     <li class="make_good_better" id="make_good_better">
+                        <a href="/about/make_good_better.php" rel="make_good_better" name="3" target="_topnav">
+                           <span>Make GOOD Better</span>                        </a>                     </li>
+                  </ul><!--page_nav-->
+               </div>
+
+               <div class="column colx3 last align_rt">
+               	                  <ul class="user_nav horiz align_rt">
+                  	<li class="action">Hello!</li>
+                     
+					 					 <li id="join_good" class="action global_tier1">
+                        <a name="4" rel="join_good" href="/about/join_good.php" index="3">
+                           <span>Join GOOD</span>
+                        </a>
+                     </li>
+					 					 
+					 	       				 <li class="action last do_login">
+	       				 		<a href="#" onclick="$('.login_warning').hide(); var loginbox = $('.loginbox'); loginbox.removeClass('loginprompt'); loginbox.toggle();$(this).toggleClass('selected'); currentRel ='do_login'" id="do_login">
+							       <span>Login</span>
+							    </a>
+	                     </li>
+					                   </ul>
+               </div>
+            </div>
+            <div class="column colx6-edge tier tier2 last">
+               <div class="column" id="site_brand">
+                  <ul class="horiz">
+                     <li>
+                        <a class="site_brand" href="/">
+                           <span>GOOD.com</span>
+                        </a>
+                     </li>
+                     
+					                     
+                     <li class="last">
+                        <span class="flash_section_hdr" id="flash_section">
+							<!-- //-->
+                        </span>
+                     </li>
+                     
+                     
+                  </ul>
+               </div>
+               <div class="column last align_rt">
+                  <div class="column colx1" id="site_upsell">
+                     <!-- 
+					 <h2>
+                        <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=GDM&cds_page_id=52173">
+                           <span>Subscribe Now</span>
+                        </a>
+                     </h2>
+					 -->
+                  </div>
+                  <a href="https://w1.buysub.com/pubs/GD/GDM/newSubsUS.jsp?cds_page_id=52173&amp;cds_mag_code=GDM&amp;id=1226943644817&amp;lsid=83221140448020288&amp;vid=1" class="little_a"><div class="column colx1 last" id="site_callout_sub"><!--site callout--></div></a>
+               </div>
+            </div>
+            <div class="column colx6-edge tier tier3 last">
+               <div class="colx4 tier2_nav">
+                  <div class="content">
+                     <ul class="nav global_tier2 horiz align_lt">
+                        <li id="blog" class="first ">
+                           <a class="level1" href="http://www.good.is/sections/blog/blog_by_posts.php">
+                              <span>Blogs</span>
+                           </a>
+                        </li>
+                        <li id="magazine">
+                           <a class="level1" href="http://www.good.is/sections/magazine/magazine.php">
+                              <span>Magazine</span>
+                           </a>
+                        </li>
+                        <li id="video">
+                           <a class="level1" href="http://www.good.is/sections/video/videos.php">
+                              <span>Video</span>
+                           </a>
+                        </li>
+						<li id="events">
+                           <a class="level1" href="/blogseries/good-events">
+                              <span>Events</span>
+                           </a>
+                        </li>
+                        <li id="people" class="last ">
+                           <a class="level1" href="http://www.good.is/user/community.php">
+                              <span>Community</span>
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="column colx2 last">
+				 <form method="get" id="searchform" action="http://www.good.is/">
+                     <dl class="search_bar horiz align_rt entry entry_a">
+                        <dt></dt>
+                        <dd>
+							<input class="text" type="text" value="" name="s" id="search_input">
+                        </dd>
+                        <dd>
+                           <button type="submit">
+                              <span>
+                                 <em>search</em>
+                              </span>
+                           </button>
+                        </dd>
+                     </dl>
+                  </form>
+               </div>
+            </div>
+         	<div class="column colx6-edge header_border">
+         </div>
+         </div>
+				<script type="text/javascript">
+			var flashvars = {
+			  ts: "privacy",
+			  ct: ""
+			};
+			var params = {
+			  ts: "privacy",
+			  ct: "",
+			  bgcolor: "#E6E3DC",
+			  wmode: "opaque"
+			};
+			var attributes = {
+			};
+		
+			swfobject.embedSWF("http://www.goodmagazine.com.s3.amazonaws.com/resources/swf/GOODmark.swf", "flash_section", "640", "110", "9.0.0","expressInstall.swf", flashvars, params, attributes);
+		</script>
+		         
+
+
+			<div class="pagebody tmpl_section_alt" id="pagebody">
+				
+				<div class="column content_tier">
+					<div class="column colx2 leftrail privacy_container">
+
+						<div class="shdw_box shdw_bl ">
+							<div class="shdw_tl">
+								<div class="shdw_tr">
+									<div class="shdw_br shdw_content">
+										<div class="privacy_content leftrail">
+											<h3>About this page</h3>
+											<br>
+																										
+													<p>This <b>privacy policy</b> is a legal notice about how we use personal information collected on this the website. The information to the right outlines what information is collected (yes, we do collect some), how we may use that information (we may use some of it), the persons to whom the personal information may be disclosed, and the security measures taken to protect the personal information.</p>
+
+										</div> <!--end left content area -->
+									</div> <!--end content area -->
+								</div> <!--end tr shadow-->
+							</div> <!--end tl shadow-->
+
+						</div> <!--end bl shadow-->
+                  	</div><!--end leftrail colx2-->
+					
+					
+					<div class="column colx4">
+						<div id="bin_A">
+							<div class="static_content privacy_container">
+								<div class="shdw_mid">
+								<div class="shdw_box shdw_bl ">
+									<div class="shdw_tl">
+										<div class="shdw_tr">
+
+											<div class="shdw_br shdw_content">
+												<div class="privacy_content">
+													<h3>GOOD.is Privacy Policy</h3>
+													<br>
+													<span class="timestamp"><span class="color9">Last Updated:</span> August 21, 2008</span>
+													<br><br><br>
+																										
+																										
+													<p>SUMMARY</p>
+
+													
+													<p>At GOOD Worldwide, Inc. ("GOOD") we take the privacy of our members very seriously. 
+													Please read this Privacy Policy to learn more about how we treat personally identifiable 
+													information. We provide this Privacy Policy because you have a right to know what 
+													information we collect, how it is protected and used, and the circumstances under which 
+													it may be disclosed. If you have comments, suggestions, questions, or concerns about our 
+													Privacy Policy, please contact us via email at info [at] goodinc .com, or in writing at: 
+													Web Director, GOOD Worldwide, Inc., 6824 Melrose Avenue, Los Angeles, California 90038.</p>
+													
+													<p>Online Privacy Standards. While there are no official standards governing privacy practices 
+													on the internet, we follow the principles supported by the Federal Trade Commission's Fair 
+													Information Practices Principles, currently available at <a href="http://www.ftc.gov/reports/privacy3/fairinfo.htm">http://www.ftc.gov/reports/privacy3/fairinfo.htm</a></p>
+													
+													<p>What This Policy Covers. This policy covers GOOD's treatment of personally identifiable information that we obtain when you visit our website, subscribe to GOOD Magazine, or become a member of GOOD.is. We regard personally identifiable information as information that someone can use to identify or contact you in person, such as real name, telephone number, birth date, email address, or physical mailing address. Information that we use internally to identify you as a member in our system, such as your selected username, is not considered personally identifiable information.</p>
+													
+													<p>What This Policy Does Not Cover. This policy does not cover the privacy practices of third parties that we do not own or control, such as our partners and advertisers. In addition, we may provide links to other services and on occasion to other sites that may interest you. All of these sites operate independently of GOOD and they have their own privacy or security practices. For your best on-line experience, we encourage you to review their policies before submitting any personal information to them.</p>
+
+																										
+													<p>1. Information You Provide.</p>
+													
+													<p>Required Registration Information. During the registration process, we collect your email address and your birth date (birth dates are optional). We will send you an email to verify that you are the owner of this address. You will also choose a username that we will use to identify you in our system.</p>
+													
+													<p>Optional Member Profile Information. You can choose to provide us with additional optional information about yourself in your member profile, for example you can submit biographical information and a photo of yourself. </p>
+													
+													<p>Access To Your Personal Information. In general, we make it easy for you to view the personally identifiable information we have collected from you in your member profile, where you can add, edit, or delete it as you see fit. </p>
+													
+													<p>Information Submitted During A Transaction. During a payment transaction (for example, when you purchase a subscription to GOOD Magazine through this website), we collect information including your name, shipping and billing address(es), email address, telephone number, and credit card information. This information is collected and used to process your payment transaction, and also for shipping your GOOD Magazine subscription to you.</p>
+
+													
+													<p>2. Information We Do Not Collect.</p>
+													
+													<p>Children. As explained further in our Terms of Service, currently available at <a href="http://good.is/terms">good.is/terms</a>, you must be 18 years of age or older to use our website. Therefore, we do not knowingly collect personally identifiable information about children. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at info [at] goodinc.com or write to our Web Director at the address noted above.</p>
+													
+													
+													<p>Social Security Number. We do not ask for or require your social security number to use any of our services or to access any part of our site.</p>
+													
+													<p>3. Information We Track.</p>
+
+													
+													<p>Log Files. Similar to many websites, we gather certain anonymous, non-personal information automatically and store it in web server log files. This information includes internet protocol addresses, browser type, internet service provider (ISP), site entry/exit pages, operating system, date/time stamp, and clickstream data. We use this information to improve our site, analyze trends, administer the site, track users' movements around the site, and gather aggregate information about our user base as a whole. Aggregate information is data we collect about a group or category of services or members from which individual member identities have been removed, and therefore does not include your personally identifiable information.</p>
+													
+													<p>Cookies. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. It can also help us understand how our site visitors click to our site, and what pages they view during their visit. Similar to many websites, we store an encrypted cookie on your computer so we can remember you when you come back to our website without requiring you to log-in every time. Cookies also allow us to track and understand the interests of our users to enhance the overall experience on our site. </p>
+													
+													<p>You can set your web browser software to disable cookies. To do so, please refer to the help section of your specific browser for more information on how to manage or disable cookies. If you disable cookies, you may still view our site, but some areas of our site will not work properly.</p>
+													
+													<p>Some of our business partners and other third parties, such as advertisers, may also set and access their own  cookies on our site. We have no access to or control over these cookies, and, as noted above, this privacy policy does not govern the use of cookies by our business partners or advertisers. Such third parties' use of cookies is subject to their own privacy policies, which may differ from this one. Such third parties do not have access to our cookies.
+</p>
+													
+													<p>HOW INFORMATION IS USED</p>
+													
+													<p>1.	In Company Communications.</p>
+
+													
+													<p>We use emails and/or prominent notifications on our website as our primary means to inform our members of important service and promotional announcements.</p>
+													
+													<p>System-related Announcements. We use your email address to deliver important system-related announcements. Example system-related announcements include: email verification during registration, requests for password reset, important security or server maintenance updates, or policy changes. These service-related announcements are considered a fundamental part of our service, and members cannot opt-out of these email announcements.</p>
+													
+													<p>Promotional Announcements. In order to improve the experience for our members, we will offer you the ability to sign up for optional email communications, such as updates from GOOD, periodic (typically monthly) newsletters, or invitations to subscriber events. These communications are enhancements to our service and are entirely optional. We will ask for your consent before sending you promotional communications, and will make it easy for you to unsubscribe from these communications, either through the emails or though your member profile.</p>
+													
+													<p>Send-To-A-Friend Tool. If you choose to use our "send-to-a-friend" service to tell a friend about a particular article or information on our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. This information is used only for sending this one-time email and we do not store this information.</p>
+													
+													<p>2.	On Our Website.</p>
+
+													
+													<p>Identification Of Authors By Username. The GOOD.is website offers opportunities for members to vote and comment on content found in GOOD Magazine and on this website, engage in dialogue, share information, and submit original content on a blog. This means that to some extent we depend on the contributions and actions of our members to improve the quality of the site experience. When you make a contribution to the site (such as adding a photo or posting a blog entry), you will be identified by your username as the author of that contribution. In these circumstances, we will only identify you by your username. Other than the username which can be entirely made up, in using our service, you are not required to provide or publicize any personally identifiable information in connection with your contributions and actions on our website.</p>
+													
+													<p>Public Profile. When you register, we will create a public member profile based on your username. You have the option to include personally identifiable information in your public profile, but you are not required to do so. You can easily add, edit, and delete information in your public member profile from the profile page. Whenever you voluntarily post public information to your public member profile, that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
+</p>
+													
+													<p>Site Statistics. As noted above, we may use information collected from our web log files to calculate and publish anonymous, non-personal, aggregate statistics that we believe our members are interested in viewing. For example, we may track and publish the total number of users who have viewed a particular web page. We publish this data in aggregate form only, and do not tie it to any personally identifiable information.</p>
+													
+													<p>3.	For Internal Reporting And Analysis.</p>
+													
+													<p>As noted above, we use information gathered from log files and cookies to improve our site, analyze trends, administer the site, track users' movements around the site, and to gather aggregate information about our user base as a whole. We do not tie this data to personally identifiable information.</p>
+													
+													<p>HOW INFORMATION IS SHARED AND DISCLOSED</p>
+
+													
+													<p>1.	On Our Website.</p>
+													
+													<p>Public Messages. Some of our features allow you to communicate with other members by posting public messages (such as when you make comments on a blog post, create our own blog post, or respond to comments about an article). Please be aware that what you write in these public messages can be viewed, collected or used by anyone who visits our website. We are not responsible for any personally identifiable information that you submit or permit others to submit through public messages.</p>
+													
+													<p>2.	With Third-Parties.</p>
+													
+													<p>Sharing, Renting, And Selling Information We Collect. Occasionally we share anonymous, non-personal, aggregate information about our user base with partners or advertisers, and we may publish these aggregate usage statistics on our website for the interest of our members. We do not tie this shared or published data to personally identifiable information. Additionally, we may make our subscriber list available to reputable organizations that offer products and services we believe would interest our members. If you do not want to receive these offers, please advise us by email at info [at] goodinc.com.</p>
+													
+													<p>Linked Services. In some cases, we allow you to access or link to other web services through our website. For example, we allow members to import photos from a gallery hosted on a partner's site. We make it easy for you to determine when you are accessing or linking to these other web services through or website. In all of these cases, our partners may choose to collect your personal information as they deem appropriate. As noted above, we are not responsible for or in control of how our partners collect, use, or disclose your information obtained through these linked services. We encourage you to be aware when you are using these partner services and, for your best on-line experience, we encourage you to review their policies before submitting any personal information to them.</p>
+
+													
+													<p>3.	As Necessary In Certain Legal Circumstances.</p>
+													
+													<p>Legal Requirements. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.</p>
+													
+													<p>Acquisition Or Other Transfer. If our company is acquired, all of our assets, including member information, may be transferred to the acquiring company. At that time, your member information, including personally identifiable information, may become subject to the acquiring company's privacy policy. In addition, in the event that we must liquidate our assets due to bankruptcy or other event, we will consider our subscriber and membership information, including personally identifiable information, as a unique asset subject to sale or other transfer. Before we transfer your information under any of these scenarios, we will notify you either by email or by posting a notice on our site, and we will remind you of your ability to add, edit or delete your personally identifiable information from your member profile in advance of any such transfer.</p>
+													
+													<p>HOW INFORMATION IS KEPT SECURE</p>
+													
+													<p>Security of Account Information. Your member account information is password-protected. We will not share your password with anyone. Please do not share your password with anyone, and remember to change your password from time to time, to keep your account information secure.</p>
+
+													
+													<p>Network Security. We have implemented a variety of commercially standard encryption and security technologies and procedures to protect information, including your personal information, stored in our computer systems from unauthorized access. Please be aware that no method of transmission over the internet, or method of electronic storage, is 100% secure, thus we strive to use commercially acceptable means to protect your personal information, but we cannot guarantee its absolute security.</p>
+													
+													<p>Management Procedures. We also maintain standard physical and electronic procedural safeguards that limit access to your personally identifiable information to our employees (or people working on our behalf and under confidentiality agreements) who, through the course of standard business activities, need to access your personally identifiable information.</p>
+													
+													<p>YOUR PERSONAL CHOICES</p>
+													
+													<p>Sharing Information With Other Members. You are able to control what personal information about you is shared with other members in your public member profile, and what information you choose to keep private. You can view, add, edit, and delete information in your public member profile by visiting the profile page.</p>
+													
+													<p>Receiving Communications. If you subscribe to any optional promotional communications, you will be able to unsubscribe from them through your member profile or through the emails we send you.</p>
+
+													<p>Editing, Updating, Or Deleting Member Profile Information. You can view the personally identifiable information we have collected from you in your member profile where you can add, edit, or delete it as you see fit. You may also request deletion of your member account through your member profile.</p>
+													
+													<p>FOR OUR CANADIAN MEMBERS AND VISITORS.  </p>
+													
+													<p>Canadian citizens, except under circumstances defined by law, are entitled to access their own personally identifiable information collected by GOOD by writing to: Web Director, GOOD Worldwide, Inc., 6824 Melrose Avenue, Los Angeles, California 90038. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the personally identifiable information about you that we have collected is incomplete or inaccurate, we will correct the information upon verification of the omission or error and of the identity of the person requesting the change. If you wish additional information about our personal identifiable management, to access, correct or have us investigate any matters in relation to your personally identifiable information, please contact our Web Director at the address provided above.</p>
+													
+													<p>SPECIAL NOTE TO INTERNATIONAL USERS</p>
+													
+													<p>GOOD's website is intended for and directed to users in the United States.  If you are accessing the GOOD website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use and disclosure that differ from United States laws, please be advised that through your continued use of the GOOD website which is governed by U.S. law, this Privacy Notice and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.
+													</p>
+													<p>UPDATES TO OUR PRIVACY POLICY</p>
+													
+													<p>Our service is evolving and developing. From time to time, we will review and make changes to our privacy policy. When we do so, we will notify you either by email or place a prominent notice on our website. The most recent version of our privacy policy is always available from a link on our homepage, and at <a href="http://www.good.is/privacy">good.is/privacy</a>. We encourage you to visit this site frequently to stay up to date on our current policy.</p>
+
+													
+
+												</div><!--end content area -->
+											</div> <!--end br shadow -->
+										</div> <!--end tr shadow-->
+									</div> <!--end tl shadow-->
+								</div> <!--end bl shadow-->
+							</div> <!--end container-->
+							</div>
+						</div> <!--end bin_A-->
+					
+					
+					
+				</div><!--end content_tier / main content-->
+					
+			</div> <!--end page body-->
+	<div id="page_footer" class="colx6-edge">
+		<div class="copyright align_lt">© GOOD Worldwide Inc. - all rights reserved</div>
+	 	<ul class="horiz align_rt">
+	  		<li class="action ">
+	 			<a href="http://www.good.is/about/company.php">
+					<span>Company details</span>
+	 			</a>
+	  		</li>
+	  		<li class="action ">
+	 			<a href="http://www.good.is/about/contact.php">
+					<span>Contact</span>
+	 			</a>
+	  		</li><!--
+	  		<li class="action ">
+                     <a href="http://www.good.is/about/">
+                        <span>News and Press</span>
+                     </a>
+			</li>
+	  		--><li class="action ">
+	 			<a href="http://www.good.is/about/advertise.php">
+					<span>Advertise</span>
+	 			</a>
+	  		</li>
+	  		<li class="action ">
+	 			<a href="http://www.good.is/about/rss.php">
+					<span>RSS</span>
+				 </a>
+	  		</li>
+				  		<li class="action selected">
+	 			<a href="http://www.good.is/about/privacy.php">
+					<span>Privacy</span>
+	 			</a>
+	  		</li>
+	  		<li class="action last ">
+	 			<a href="http://www.good.is/about/terms.php">
+					<span>Terms</span>
+	 			</a>
+	  		</li>
+	  	</ul>
+	</div>
+</div> <!-- end pagebody -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1694058-7");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</div></body></html>
