@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mp3rocket.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621152514id_/http%3A//www.mp3rocket.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3rocket.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050046id_/http%3A//www.mp3rocket.com/privacy.htm) for the most accurate reproduction.*
 
 # MP3Rocket - The world's most popular file sharing software...made better!
 
 MP3 Rocket Inc - Privacy Policy
 
-This Privacy Policy covers this web sites treatment of personally identifiable information that we collects when you agree to receive e-mail marketing from us. It is important that visitors are fully informed about the use of their personal information. We believe in 100% permission-based marketing.
+This Privacy Policy covers this web sites treatment of personally identifiable information that we collects when you agree to receive e-mail marketing from us. It is important that visitors are fully informed about the use of their personal information. We believe in 100% permission-based marketing. Your privacy is very important to us, upon subscription, your email address is protected and “will not be shared, sold or rented to any third parties.
 
-You may unsubscribe from any of our e-mail marketing programs at any time. In every e-mail communication we send, there is an unsubscribe hyperlink that allows the recipient to unsubscribe from the specific marketing program by simply clicking the hyperlink provided and following the instructions that follow. We attempt to process all unsubscribe requests in a prompt fashion. However, after unsubscribing, we cannot guarantee that you will never receive another mailing from us, because we may obtain your e-mail address in the future through a different e-mail marketing program that you have opted into. We can guarantee, however, that if you should ever receive another e-mail communication from us, you will be able to remove your e-mail address via the unsubscribe hyperlink.
+You may unsubscribe from any of our e-mail marketing programs at any time. In every e-mail communication we send, there is an unsubscribe hyperlink that allows the recipient to unsubscribe from the specific marketing program by simply clicking the hyperlink provided and following the instructions that follow. We attempt to process all unsubscribe requests in a prompt fashion. 
 
 Our company reserves the right to provide aggregate or group data about our users for lawful purposes. Aggregate or group data is data that describes the demographics, usage, or characteristics of participants as a group, without disclosing personally identifiable information.
 
@@ -22,7 +22,7 @@ Users may receive e-mail confirming their registration with this site as well as
 
 Our company does not endorse, nor is are we responsible for the accuracy of, the privacy policies and/or terms and conditions of each of the advertisers and/or third parties accessible through this website.
 
-This Privacy Policy applies to consumers that have signed up on our website. We may use the personal information that you supply to us and we may share it with other third party businesses to bring selected retail opportunities to our members via direct mail, email and telemarketing. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing.
+This Privacy Policy applies to consumers that have signed up on our website. We may use the personal information that you supply to us to bring selected retail opportunities to our members via direct mail, email and telemarketing. We may use businesses that provide any but not limited to the following services; direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing.
 
 Your Acceptance of These Terms By using this site, including, without limitation, signing up for offers and/or continuing to receive information from us, you agree to the our Privacy Policy. We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the this website. Please check this page periodically for changes. Your continued use of this website or acceptance of our emails following the posting of changes to these terms will mean that you accept these changes and agree to continue receiving emails from us. If you do not agree to the terms of this Privacy Policy, please do not register on this site.
 
