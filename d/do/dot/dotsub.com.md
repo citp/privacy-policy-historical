@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dotsub.com privacy policy that was archived on 2006-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061105015145id_/http%3A//www.dotsub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotsub.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217032703id_/http%3A//dotsub.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
-# 
-
-### Privacy Policy
+# dotSUB Privacy Policy | dotSUB
 
 We respect the privacy of our users, content contributors, and translators and want to make clear to everyone how we use personal information that the dotSUB website and service acquires during the course of its operations. We will never sell or rent your personal information to any third party.
 
@@ -14,7 +12,7 @@ We may collect other limited information about you. This may include information
 
 #### Tools We Use
 
-"Cookies" are small data files stored on your hard drive that assign a unique identifier to your computer so that dotSUB can "recognize" your computer each time you use it to return to the dotSUB website. These cookies help us gather non-sensitive information about your use of the dotSUB website that we aggregate with other information to learn more about how our users interact with the dotSUB website. They do not, standing alone, identify you as an individual by name or dotSUB account number. While you can set your browser to refuse to accept cookies, you should understand that some of the dotSUB services may not function properly if your browser refuses to accept cookies. 
+"Cookies" are small data files stored on your hard drive that assign a unique identifier to your computer so that dotSUB can "recognize" your computer each time you use it to return to the dotSUB website. These cookies help us gather non-sensitive information about your use of the dotSUB website that we aggregate with other information to learn more about how our users interact with the dotSUB website. They do not, standing alone, identify you as an individual by name or dotSUB account number. While you can set your browser to refuse to accept cookies, you should understand that some of the dotSUB services may not function properly if your browser refuses to accept cookies.
 
 #### Other Websites
 
