@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcfexpress.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011135321id_/http%3A//tcfexpress.com/Footer/footer_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcfexpress.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081109id_/http%3A//www.tcfexpress.com/Footer/footer_privacy.jsp) for the most accurate reproduction.*
 
 # TCF Bank - TCF Privacy Policy
 
@@ -12,33 +12,35 @@ Please take a few moments to read about how we protect, collect, and use your no
 
 **When you browse:** When you visit the TCF website and browse, we do not collect any information about you. We do record the date and time of visits to our website and the pages visited while at our site. We do this to determine which pages are visited most often, so we can enhance our website to make it more useful to our customers.
 
-**When you want information or perform online transactions:** When you visit the TCF website and request information or want banking transactions, we collect the information we believe is necessary to safely process the transaction. For example, for TCF Totally Free Online, you will be asked to enter your secret code and account number. For TCF Preferred Online you will be asked to enter your user I.D. and password. Our Internet Security policy more fully describes the information we collect to identify you for Internet banking transactions. We need to identify you to prevent access to your information by unauthorized persons. When you request information or want banking transactions, we may also collect information to help us understand your financial needs in order to offer you helpful products and services. For example, if we know that you own a home, we may offer you a home equity loan. We do this by collecting identifying information (such as your name and address), information from your application (such as your assets), transaction information with us (such as your loan repayment history) and information to comply with applicable laws and regulations. Federal law requires us to collect a tax identification number, such as a social security number, for accounts, which pay interest. We may also collect information to design new products or services, or modify existing products or services, in order to meet the needs of our customers.
+**When you want information or perform online transactions:** When you visit the TCF website and request information or want banking transactions, we collect the information we believe is necessary to safely process the transaction. For example: For TCF Totally Free Online, you will be asked to enter your secret code and account number; for TCF Preferred Online you will be asked to enter your user I.D. and password; and when you open an account online, you will be asked for a number of pieces of information to help us identify you, such as your name, address, date of birth, and social security number.
+
+Our Internet Security policy more fully describes the information we collect to identify you for Internet banking transactions. We need to identify you to prevent access to your information by unauthorized persons. When you request information or want banking transactions, we may also collect information to help us understand your financial needs so that we can offer you helpful products and services. For example, if we know that you own a home, we may offer you a home equity loan. We do this by collecting identifying information (such as your name and address), information from your application (such as your assets), transaction information with us (such as your loan repayment history), and information to comply with applicable laws and regulations. Federal law requires us to collect a tax identification number, such as a social security number, for accounts, which pay interest. We may also collect information to design new products or services, or modify existing products or services, in order to meet the needs of our customers.
 
 **How TCF Collects Customer Information**
 
-You will enter data that is collected by TCF. In addition to the information you provide, we may collect information from consumer reporting agencies or your transaction history with us. In addition, we record certain information about you based on what you do in our website. For example, we will record the date and time you visited and the pages you visited. We use this information to compile research to better serve our customers.
+You will enter data that is collected by TCF. In addition to the information you provide, we may collect information from consumer reporting agencies or your transaction history with us. In addition, we record certain information about you based on what you do in our website. For example, we will record the date, time, and the pages you visited. We use this information to compile research to better serve our customers.
 
 **Use of "Cookie" Technologies**
 
-Some websites including TCF, place permanent cookies, or permanent electronic files, on your hard drive; the cookies collect data. We occasionally use permanent cookies and place a permanent electronic file on your computer. This means you may not have to re-enter your personal identification information each time you want to bank over the Internet with us.
+"Cookies" are electronic files that collect data. There are permanent cookies and temporary ones. Some websites including TCF's, will place permanent cookies on your computer's hard drive. We do this so that you will not have to re-enter your personal identification information each time you want to bank over the Internet with us.
 
-We also use temporary cookies, which are automatically deleted at the end of a session or expire within 24 hours. These cookies improve the quality of your browsing experience by performing technical tasks such as web server performance, security and enabling you to enter your personal identifying information less frequently during a banking session with us.
+The temporary cookies that we use are automatically deleted at the end of a session with us, or they expire within 24 hours. Temporary cookies improve the quality of your browsing experience by performing certain technical tasks, such as overseeing web server performance and security, and allowing less frequent entry of your personal identifying information.
 
-If your browser lets you, you may decline our cookies, but if you do you may not be able to access all the features of our website including online banking and bill payment and you will have to enter your personal identifying information more frequently during a session.
+If your browser allows, you may decline our cookies, but if you do this you may not be able to access all the features of our website. You will not have access to online banking and bill payment and you will have to enter your personal identifying information more often during a session.
 
 **How We Use the Information We Collect**
 
-We collect identifying information (such as your password or secret code) in online banking transactions to help us confirm you are the owner of the account. If you do not provide the information we ask for, you will not be able to use our online banking services.
+We collect identifying information (such as your password or secret code, or your social security number) in online banking transactions or when you open an account online to help us confirm you are the owner of the account or to prevent fraud. If you do not provide the information we ask for, you will not be able to use our online banking services.
 
 We may also use the information we collect about you to offer you products and services. See "Sharing Your Information" below.
 
 **Accuracy of Customer Information**
 
-TCF has established audit procedures to maintain the accuracy and integrity of account and personal information. If you believe the account or personal information we maintain is incorrect, or if you would like to review your account or personal information, please [contact us](https://web.archive.org/web/20071011135321id_/http%3A//tcfexpress.com/ContactUs/index.jsp).
+TCF has established audit procedures to maintain the accuracy and integrity of account and personal information. If you believe the account or personal information we maintain is incorrect, or if you would like to review your account or personal information, please [contact us](https://web.archive.org/web/20081217081109id_/http%3A//www.tcfexpress.com/ContactUs/index.jsp).
 
 **Contact for Privacy Concerns**
 
-If you believe TCF has not followed this Privacy Policy or if you have any questions or complaints regarding your privacy at TCF, [contact us](https://web.archive.org/web/20071011135321id_/http%3A//tcfexpress.com/ContactUs/index.jsp). You may also write to us at:
+If you believe TCF has not followed this Privacy Policy or if you have any questions or complaints regarding your privacy at TCF, [contact us](https://web.archive.org/web/20081217081109id_/http%3A//www.tcfexpress.com/ContactUs/index.jsp). You may also write to us at:
 
 TCF Bank  
 Attn: Bank Central  
@@ -51,7 +53,7 @@ If you request information and enter your request in this website, we will respo
 
 **Security**
 
-We use industry standards to safeguard your personal identifying information, such as Secure Socket Layer (SSL) protocol and firewalls. These systems are designed to guard against unauthorized access and use of customer information by unauthorized individuals. We work to upgrade these features on an ongoing basis. See [Internet Security](https://web.archive.org/web/20071011135321id_/http%3A//tcfexpress.com/Security/index.jsp) for additional information regarding the steps we have taken to ensure your online banking transactions are secure.
+We use industry standards to safeguard your personal identifying information, such as Secure Socket Layer (SSL) protocol and firewalls. These systems are designed to guard against unauthorized access and use of customer information by unauthorized individuals. We work to upgrade these features on an ongoing basis. See [Internet Security](https://web.archive.org/web/20081217081109id_/http%3A//www.tcfexpress.com/Security/index.jsp) for additional information about the steps we have taken to ensure your online banking transactions are secure.
 
 **Links To Other Web Sites**
 
@@ -96,17 +98,17 @@ We always have the right to share, within the TCF companies, identifying and con
 **Fair Credit Reporting Act Notice  
 Opt-Out of Sharing with TCF Companies**
 
-We always have the right to share, within the TCF companies, identifying and contact information from your application and information about our transactions and experience with your accounts. You may direct us not to share with other TCF companies the other information in your application, such as asset information, and the information in your consumer reports by [contacting us](https://web.archive.org/web/20071011135321id_/http%3A//tcfexpress.com/Footer/footer_privacy_optout.jsp).
+We always have the right to share, within the TCF companies, identifying and contact information from your application and information about our transactions and experience with your accounts. You may direct us not to share with other TCF companies the other information in your application, such as asset information, and the information in your consumer reports by [contacting us](https://web.archive.org/web/20081217081109id_/http%3A//www.tcfexpress.com/Footer/footer_privacy_optout.jsp).
 
 Please note that contacting us does not affect our right to share, within the TCF companies, identification and contact information from your application, as well as information about our transactions and experience with your account. In addition, even if you contact us, we will share all your information within the TCF companies when you ask us to.
 
 **What is a Consumer Report?**
 
-A consumer report is any written, oral, or other communication from a consumer reporting agency which bears on a consumer's credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living which is used or expected to be used in whole or in part for the purpose of serving as a factor in establishing the consumer's eligibility for: (a) credit or insurance to be used primarily for personal, family, or household purposes; (b) employment purposes; or (c) any other purpose authorized under section 604 of the Fair Credit Reporting Act.
+A consumer report is any written, oral, or other communication from a consumer reporting agency which bears on a consumer's credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living, which is used or expected to be used in whole or in part for the purpose of serving as a factor in establishing the consumer's eligibility for: (a) credit or insurance to be used primarily for personal, family, or household purposes; (b) employment purposes; or (c) any other purpose authorized under section 604 of the Fair Credit Reporting Act.
 
 **Sharing Your Information with Other Companies**
 
-We share your non-public personal information outside the TCF companies for specific reasons. We do not share the information with non-TCF companies if you do not want us to. Simply [contact us](https://web.archive.org/web/20071011135321id_/http%3A//tcfexpress.com/Footer/footer_privacy_optout.jsp) if you do not want us to share your information outside the TCF affiliated companies. (Note: There are certain categories of information we will always share even if you ask us not to - See "Sharing Customer Information for Service and Joint Marketing Reasons and When Required by Federal or State Law " below).
+We share your non-public personal information outside the TCF companies for specific reasons. We do not share the information with non-TCF companies if you do not want us to. Simply [contact us](https://web.archive.org/web/20081217081109id_/http%3A//www.tcfexpress.com/Footer/footer_privacy_optout.jsp) if you do not want us to share your information outside the TCF affiliated companies. (Note: There are certain categories of information we will always share even if you ask us not to - See "Sharing Customer Information for Service and Joint Marketing Reasons and When Required by Federal or State Law " below).
 
 Unless you opt-out, we may share the following kinds of non-public personal information about you with third parties who are not part of the TCF affiliated companies:
 
@@ -140,17 +142,17 @@ We may hire companies to provide materials or to perform some services for us. F
 
 **Sharing Your Information for Joint Marketing**
 
-We may enter into agreements with other financial institutions (for example, banks, investment firms, and insurance companies, mortgage companies, brokerage houses) to jointly market products or services between us. In order to offer these products or services to you, we may share all of the information we collect, as described under "What Information We Collect About You" above, with companies that perform these marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.
+We may enter into agreements with other financial institutions (for example, banks, investment firms, insurance companies, mortgage companies, and brokerage houses) to jointly market products or services between us. In order to offer these products or services to you, we may share all of the information we collect, as described under "What Information We Collect About You" above, with companies that perform these marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.
 
 **Sharing Your Information When Permitted or Required by Federal or State Law**
 
-We may share your information with other parties when permitted or required by federal or state law. For example, we share information in order to protect against fraud, report transactions to consumer reporting agencies, respond to subpoenas, and when you ask us to.
+We may share your information with other parties when permitted or required by federal or state law. For example, we share information in order to protect against fraud, when we have to report transactions to consumer reporting agencies or respond to subpoenas, and when you ask us to.
 
 We may always share your information as described in this section for Service and Joint Marketing Reasons, and When Permitted or Required by Federal or State Law, even if you ask us not to (even if you opt-out).
 
 **Sharing Information About Former Customers**
 
-When a TCF account has been closed, information about the account remains in our files. Although we use non-public personal information about former customers less and less over time, the same policies about sharing described above apply to former customers' non-public personal information, and we take exactly the same care in how we collect, use, and protect information about former customers as we do about current customers.
+When a TCF account has been closed, information about the account remains in our files. Although we use non-public personal information about former customers less and less over time, the same policies about sharing described above apply to former customers' non-public personal information. We take exactly the same care in how we collect, use, and protect information about former customers as we do about current customers.
 
 **Employee Access to Customer Information**
 
@@ -162,7 +164,7 @@ TCF maintains physical, electronic, and procedural safeguards that comply with f
 
 **TCF Is Committed To Honoring Your Privacy Requests**
 
-If you prefer that we not share non-public personal information about you with third parties who are not affiliated with TCF, you may opt out of the sharing. That is, you may direct us not to share the information. If you wish to opt-out of sharing information with third parties who are not affiliated with TCF, [contact us](https://web.archive.org/web/20071011135321id_/http%3A//tcfexpress.com/Footer/footer_privacy_optout.jsp).
+If you prefer that we not share non-public personal information about you with third parties who are not affiliated with TCF, you may opt out of the sharing. Just [contact us](https://web.archive.org/web/20081217081109id_/http%3A//www.tcfexpress.com/Footer/footer_privacy_optout.jsp) and direct us not to share the information.
 
 **What Happens If You Opt-Out?**
 
@@ -172,13 +174,22 @@ It is important that you understand what information will be affected if you cho
 
 Under the Fair Credit Reporting Act, you have the right to opt-out of sharing certain non-public personal information within the TCF companies.
 
-If you opt-out, we will not share non-public personal information we obtain from your application or information we obtain from consumer reporting agencies with other TCF companies except that we will continue to share, within the TCF companies, your identification and contact information from your application.
+If you opt-out, we will not share non-public personal information we obtained either from your application or from consumer reporting agencies with other TCF companies. We will continue to share, within the TCF companies, your identification and contact information from your application.
 
 We will also continue to share, within the TCF companies, information about our experiences or transactions with you. In addition, we will share your information with other TCF companies when you ask us to. This opt-out does not affect our right to share your non-public personal information with companies outside the TCF companies.
 
   * **Information Shared Outside of the TCF Companies.**
 
 You also have the right to opt-out of sharing your non-public personal information with non-TCF companies. If you opt-out we will not share non-public personal information we collect about you described under "What Information We Collect About You" above.
+
+  * **Your Choice to Limit Marketing/Marketing Opt-Out.**
+
+    * The TCF Companies are providing this notice.
+    * Federal law gives you the right to limit some but not all marketing from the TCF Companies. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from the TCF Companies.
+    * You may limit the TCF Companies, such as the TCF insurance, leasing, and securities affiliates, from marketing their products or services to you based on your personal information that they receive from other TCF companies. This information includes your income, your account history, and your credit score.
+    * Your choice to limit marketing offers from the TCF companies will apply until you tell us to change your choice.
+    * If you have already made a choice to limit marketing offers from the TCF companies, you do not need to act again.
+    * To limit marketing offers, [Contact Us](https://web.archive.org/web/20081217081109id_/http%3A//www.tcfexpress.com/Footer/footer_privacy_optout.jsp).
 
 However, we will continue to share non-public personal information as described under "Sharing Customer Information for Service and Joint Marketing Reasons and When Permitted or Required by Federal or State Law." This opt-out does not affect our right to share your non-public personal information within the TCF companies.
 
