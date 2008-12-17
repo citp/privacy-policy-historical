@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecontentcorner.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611063553id_/http%3A//www.thecontentcorner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontentcorner.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050544id_/http%3A//www.thecontentcorner.com/privacy.php) for the most accurate reproduction.*
 
 # Articles for Content @ The Content Corner
 
@@ -48,6 +48,17 @@ United States
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via email or postal mail.
 
 | 
+
+  
+**The Content Corner Members - come visit the new forum!** **MSF Forum Grand Opening**
+
+New forum is giving out cash prizes, and other good perks to help build our new community. 
+
+**
+
+[MSF Forum](http://www.marketersspaceforum.com/)
+
+**
 
 [ ](http://jbolte1976.salespagetactics.com/) **Sales Page Tactics Vol I**
 
