@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovercard.com privacy policy that was archived on 2008-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080428030004id_/http%3A//www.discovercard.com/customer-service/privacy-policies/%3Fgcmpgn%3D0801_gf_pp_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovercard.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050133id_/http%3A//www.discovercard.com/customer-service/privacy-policies/%3Fgcmpgn%3D0801_gf_pp_txt) for the most accurate reproduction.*
 
 # Privacy Policies - Providing You With Peace of Mind :: Discover Financial Services
 
@@ -19,7 +19,7 @@ This Privacy Policy describes our efforts to meet these objectives. It includes 
 
 Please read our Privacy Policy carefully. It will help you understand how we collect and share information.
 
-**1\. What Personal Information Do We Collect?**
+ **1\. What Personal Information Do We Collect?**
 
 To serve you better and manage our business, it is important that we collect and maintain accurate personal information about you. We obtain this information from applications and other forms you submit to us, from your dealings with us and others, from consumer reporting agencies and from other sources, such as our Web sites. For example:
 
@@ -36,21 +36,21 @@ We limit the sharing of information with others. Many of the offers you receive 
 
 There are, however, circumstances in which we may share the information we collect about you, as described in Section 1, with other companies in order to provide you with access to products and services and to service your Account effectively, as detailed below. We require these companies to adhere to our privacy standards and to use this information only for the limited purpose for which it was shared. We do not allow them to disclose it to others without our prior approval.
 
-**a. Sharing Personal Information with Our Corporate Family**  
+ **a. Sharing Personal Information with Our Corporate Family**  
 Our corporate family offers a variety of products and services that can help you manage your finances. In order to provide you with access to these products and services, we may share the information we collect about you, as described in Section 1, with other members of our corporate family. These companies include financial service providers that offer credit protection, card servicing and payment processing services.
 
-**b. Sharing Personal Information with Non-Affiliated Parties for Marketing Purposes**  
+ **b. Sharing Personal Information with Non-Affiliated Parties for Marketing Purposes**  
 We may share the information we collect about you, as described in Section 1, with non-affiliated third parties, including those that accept the Discover Card, in order to provide you with access to products and services offered directly by these companies that may be of value to you. These companies include financial service providers, such as insurance companies, and non-financial companies, such as retailers.
 
-**c. Sharing Personal Information with Others**  
+ **c. Sharing Personal Information with Others**  
 We may share the information we collect about you, as described in Section 1, with companies that perform support or marketing services on our behalf, such as mailing, market research and data processing; other financial institutions with which we have joint marketing agreements; or companies that are our partners for cobrand credit card programs or reward programs. We may also share such information as permitted by law.
 
-**3\. How Do We Protect the Confidentiality, Security and Integrity of Information about You?**  
+ **3\. How Do We Protect the Confidentiality, Security and Integrity of Information about You?**  
 We maintain physical, electronic and procedural safeguards to protect the information we collect about you. Access to such information is restricted to individuals who need it in order to service your Account or provide products and services to you, and who are trained in the proper handling of such information. Employees who violate these confidentiality requirements are subject to our disciplinary process. Where third parties provide support services, we require them to conform to our privacy standards.
 
 It is important that the information we maintain about you is accurate and complete. If you see information in your monthly billing statements or elsewhere which suggests that our information is incomplete or inaccurate, please write to us at Discover Card, P.O. Box 30943, Salt Lake City, UT 84130-0943 so that we can update this information.
 
-**4\. How Can You Limit Sharing of Information About You?**  
+ **4\. How Can You Limit Sharing of Information About You?**  
 We respect your privacy and offer you choices as to whether we may share information about you with others. You have the option to tell us not to share the information we collect about you, as described in Section 1, with non - affiliated third parties. You also have the option to tell us not to share certain information we collect about you, as described in Section 1, with companies in our corporate family. However, this option is limited to information about your eligibility for credit obtained from your application, such as your income, and from consumer reporting agencies, such as your credit history. If you indicate a preference for either of these options, please understand that you may not receive offers for products and services provided by other companies that could help you lower your costs, maximize your financial resources or manage your finances. **To indicate your preferences, please call us at 1-800-225-5202 or write to us at Discover Card, P.O. Box 30961, Salt Lake City, UT 84130-0961. If you have previously notified us about your privacy preferences, it is not necessary to do so again unless you decide to change your preferences.** Your written request should include your name, address, telephone number and Account number(s) and should not be sent with any other correspondence. In order to process your request, we require that the request be provided by you directly and not through a third party. You will need to provide us with your preferences for each credit card account you have with us.
 
 You may notify us about your preferences at any time. Your request will remain in effect until you notify us otherwise. We will honor your request and not share this information except as permitted by law. For example, federal law permits us to share information about you with consumer reporting agencies, service providers and financial institutions with which we have joint marketing agreements. It also permits us to share information about our experiences and transactions with you, such as your Account balance and payment history with us, with other members of our corporate family. If you are a new Cardmember, we will not share any information about you, except as permitted by law, for thirty days after we provide this Policy to you in order to give you an opportunity to inform us about your preferences. If you are an existing Cardmember, please understand that you may continue to receive marketing offers directly from other companies that were already in production prior to the processing of your request.
@@ -59,8 +59,8 @@ This Privacy Policy is provided to the primary Cardmember listed on the Account.
 
 This Privacy Policy is provided to you by Discover Bank and its subsidiaries, which currently include GTC Insurance Agency, Inc. and Discover Products Inc. Unless otherwise specified, it applies to the family of Discover Cards for consumers and the products and services offered in connection with those Cards, including the Wallet Protection card registration service (with the exception of any information registered in connection with the service, which will not be shared). It is part of your Cardmember Agreement and provides a further explanation of how we collect and share information. You may have other rights under state laws that apply to this information. Please note that you will also receive privacy notices for other credit card accounts you have with us, as well as other financial products and services provided to you by us and our affiliates. You will need to indicate your preferences for each of these separately as disclosed in the notice.
 
-**Vermont Residents** —Your state law requires financial institutions to obtain your consent prior to sharing information about you with others. Except as permitted by law, we will not share information we collect about you with non-affiliated third parties or companies in our corporate family unless you call us at 1-800-DISCOVER and authorize us to do so.
+ **Vermont Residents** —Your state law requires financial institutions to obtain your consent prior to sharing information about you with others. Except as permitted by law, we will not share information we collect about you with non-affiliated third parties or companies in our corporate family unless you call us at 1-800-DISCOVER and authorize us to do so.
 
-**California Residents** —Your state law requires financial institutions to obtain your consent prior to sharing information about you with non-affiliated third parties. Except as permitted by law, we will not share information we collect about you with non-affiliated third parties while you are a resident of California.
+ **California Residents** —Your state law requires financial institutions to obtain your consent prior to sharing information about you with non-affiliated third parties. Except as permitted by law, we will not share information we collect about you with non-affiliated third parties while you are a resident of California.
 
 ©2008 Discover Bank, Member FDIC
