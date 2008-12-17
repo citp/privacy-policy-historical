@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bighealthtree.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404213204id_/http%3A//www.bighealthtree.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighealthtree.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044715id_/http%3A//bighealthtree.com/privacy_statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Big Health Tree Privacy Statement
 
 Your privacy is important to us, and we are committed to respecting the privacy rights of our members and other users of the Big Health Tree services.  We have designed this policy to help you understand how we collect and use the information you decide to share, so that you make informed decisions when using the Big Health Tree services.
 
