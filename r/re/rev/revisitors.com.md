@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revisitors.com privacy policy that was archived on 2008-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080327075737id_/http%3A//www.revisitors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revisitors.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055657id_/http%3A//www.revisitors.com/privacy.html) for the most accurate reproduction.*
 
-# Revisitors.com - Quality Targeted Traffic To Your Website
+# Revisitors.com - Targeted Traffic To Your Website
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers' access or visit, information volunteered by the consumer, such as survey information and/or site registrations. 
 
