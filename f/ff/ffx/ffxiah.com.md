@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the ffxiah.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628060206id_/http%3A//www.ffxiah.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffxiah.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070051id_/http%3A//www.ffxiah.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - FFXIAH.com
 
-|  Language: [JP](https://web.archive.org/web/20080628060206id_/http%3A//www.ffxiah.com/privacy.php?lang=jp) [EN](https://web.archive.org/web/20080628060206id_/http%3A//www.ffxiah.com/privacy.php?lang=en)   
+|  Language: [JP](http://jp.ffxiah.com/privacy.php) [EN](http://www.ffxiah.com/privacy.php)   
   
-  
-[](http://www.petfoodalpha.com/)  
-[](http://fanzone.playonline.com/lscom/index.do)  
-[](http://www.shareasale.com/r.cfm?b=108990&u=251647&m=15362&urllink=&afftrack=) | 
+[](http://fanzone.playonline.com/lscom/index.do) | 
 
 Privacy
 
