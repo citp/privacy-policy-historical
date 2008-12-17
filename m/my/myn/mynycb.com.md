@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynycb.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509120556id_/http%3A//www.mynycb.com/index.asp%3FdivID%3D9%26sectionID%3Dother%26subsectionID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynycb.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002710id_/http%3A//www.mynycb.com/index.asp%3FdivID%3D9%26sectionID%3Dother%26subsectionID%3Dprivacy) for the most accurate reproduction.*
 
 # The NYCB Family of Banks
 
