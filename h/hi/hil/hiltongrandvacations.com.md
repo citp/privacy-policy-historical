@@ -1,125 +1,159 @@
-> *The following text is extracted and transformed from the hiltongrandvacations.com privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010192022id_/http%3A//www.hiltongrandvacations.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiltongrandvacations.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051100id_/http%3A//www.hiltongrandvacations.com/hilton-grand-vacations-club-privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy
+# Hilton Grand Vacations - Timeshare Vacation Ownership
 
-  
-**The Hilton Family of Companies Internet Privacy Policy**
+### The Hilton Global Privacy Policy
 
-We strive to deliver outstanding products, services, and experiences across the Hilton Family of Companies -- and at every touch-point and guest interaction. We value your business and, most importantly, your loyalty. We recognize that privacy is an important issue. This Internet Privacy Policy demonstrates Hilton's commitment to assuring a strong and meaningful customer relationship, and addresses questions about the type of personal information we collect on our websites, the third parties with whom we might share such information, and how you can review or change the personal information you provide to us when creating "profiles" on our websites. 
+(As of July 2007)
 
-On our websites we collect information that you voluntarily provide in order for us to provide services and products, process reservations and other transactions you request, and provide customer service. We may also use the personal information we collect for other business purposes such as to better understand customer needs, enhance relationships, make appropriate offers, or facilitate third party offers we feel will be of interest to you. 
+At Hilton, we strive to deliver outstanding products, services, and experiences around the world. We value your business and, more importantly, your loyalty. We recognize that privacy is an important issue. We have developed this Global Privacy Policy (this "Policy") to explain our practices regarding the personal information we collect when you visit this site. Some jurisdictions also require notice concerning other means of collecting personal information; for those jurisdictions, this Policy also explains our practices regarding personal information obtained from sources other than our websites, such as written or verbal communications or information collected when you visit one of our properties.
 
-More detail about the personal information we collect and the collection of information through web technologies such as "cookies," is described below in the section called "Categories of Information We Collect." More information about the third parties with whom we may share your personal information is described below in the section called "Sharing Personal Information Collected on our Websites." 
+Please read this Policy carefully before submitting personal information about you to us. Also, please note that this Policy does not apply to our processing of personal information on behalf of and subject to the instructions of third parties such as airlines, car rental companies and other service providers, companies that organize or offer packaged travel arrangements, marketing partners, or customers.
 
-Additional information about the terms of use of our websites is available in our Site Usage Agreement. If you are a member of Hilton HHonors, you should also refer to the HHonors Terms and Conditions at Hiltonhhonors.com for more information. As used in this Policy, the term "Hilton" means Hilton Hotels Corporation and the terms "Hilton Family of Companies", "we", "our" and "us" include Hilton Hotels Corporation, Hilton Grand Vacations Company, Hilton Reservations Worldwide, and Hilton HHonors Worldwide. Hilton HHonors Worldwide and Hilton Reservations Worldwide are jointly owned with Hilton International Co., a Delaware corporation that is wholly-owned by Hilton Group, PLC. The terms "Hilton Family of Companies", "we", "our" and "us" as used in this Internet Privacy Policy do not include Hilton International Co. 
+Click on one of the links below to jump to a specific section:
 
-This Internet Privacy Policy applies only to the personal information that is collected on those public websites where we post this policy (i.e. not information collected elsewhere,) including hilton.com, conradhotels.com, doubletree.com, embassysuites.com, hamptoninn.com, hiltongardeninn.com, homewoodsuites.com, myleisuretrip.com, hiltonhhonors.com, hiltongrandvacations.com, thehiltonclub.com, and numerous other Hilton Family of Companies websites. 
+  * Personal Information We Collect
+  * Use of Personal Information Collected About You 
+  * How We Share Personal Information 
+  * Sensitive Information 
+  * Personal Information From Children 
+  * Non-Personal Information 
+  * Links to Third-Party Websites 
+  * Protecting Personal Information 
+  * Changing Personal Information 
+  * Retaining Personal Information 
+  * Choices - Marketing Lists 
+  * Other Information 
+  * Policy Modifications 
+  * Questions 
 
-**Categories of Information We Collect**
 
-**Making Reservations**   
-When you make a reservation or purchase a vacation package we will request your name and address information along with other information to assist with your reservation and stay such as credit card number, date of arrival/departure, member number, frequent flyer or partner program affiliation, and room preferences. 
 
-**Hotel, Airline and Rental Car Packages**   
-By selecting a package, you may conveniently book airfare and rental cars along with your stay. If you choose to do so, we will collect the information described above in connection with the reservation, as well as the names of the other travelers, their frequent flyer numbers, the age of the driver of the rental car, and the three-digit code that appears on the back of your credit card. The packager, air, car and other service providers are third parties that have separate privacy practices. 
+#### Personal Information We Collect
 
-**Requests for Information**   
-When you request additional information related to our services or properties, we will request your name and contact information such as street address, phone number, and email address. 
+At every touch point or guest interaction, we may collect personal information. In addition to any other information you may choose to provide to us, this personal information may include: your name and contact information; date of birth; preferred communication methods; business name, title and business address; credit card details, including the three-digit code that appears on the back of your credit card; member number, frequent flyer or travel partner program affiliation; date of arrival and departure; room and vacation preferences; travel history; and details on hotel, airline and rental car packages you book. We may also record details on joint travellers, including their names and frequent flyer numbers, and the age of the driver of the rental car.
 
-**Sweepstakes and Contests**   
-On occasion, we conduct sweepstakes and contests that offer the opportunity to win prizes. Each sweepstakes has its own terms and conditions. Some sweepstakes require you to choose to enter and for others you will be entered automatically if certain elements described in the sweepstakes terms and conditions are met (e.g., making a reservation with a certain credit card). As part of entering a sweepstakes, certain personally identifiable information such as name and email address may be required. 
+In addition we collect other personal information when you interact with Hilton in various ways such as:
 
-**Planning Meetings and Events**   
-If you are interested in obtaining more information about meeting and event planning, we may request your name and contact information such as street address, phone number, and email address. You may also create a profile to allow you to submit all of your group or meeting requests and receive a fast and consolidated response, including rate and availability information. Your profile will be automatically saved and accessible by using a self-selected password. Your meeting and event specifications can be saved, copied, modified, or printed for future use. If you create a profile, we may request more information about your organization, such as organization name, annual budget for events, number of events you sponsor per year, date of event, number of guests, and number of guest rooms required. You may access and review the information you provided to us at the time of registration by clicking on "my profile" and entering your user name and password. 
+  * When you register for a Fast Reservations Account, we also ask you to select a username and password. 
+  * If you choose to create an online profile for meeting and event planning (e.g., weddings), we record meeting and event specifications, the date of the event, number of guests, details of the guest rooms, and, for corporate events, information on your organization (name, annual budget, number of sponsored events per year). 
+  * When you enroll in our HHonors program online, we will also ask you to indicate whether you are over 18 years old, and record a HHonors number and password. Also, when you book a Rewards Reservation or purchase HHonors Points online, we may ask for additional specific account information such as corporate account number, group or convention code, travel agent number or AAA number. 
+  * From time to time, this site may offer a feature that allows you to send an electronic postcard or otherwise share a message with a friend. If you choose to do so, we will ask you for the recipient's name and email address, along with the text of any message you choose to include. By using this feature, you warrant that you are entitled to use and provide us with the recipient's name and email address for this purpose. 
 
-**Contacting Us by Email with Questions or Comments**   
-When you send us an email from one of our sites, we may retain information such as the content, your email address, our response, and the text of any follow-up questions you may have. We may use this information, for example, to measure how effectively we address customer concerns online, to personalize your experience, and to continuously improve our service to you. 
 
-**Electronic Postcards and Forwarding to Friends**   
-From time to time our websites may offer a feature that allows you to send an electronic postcard or otherwise share a message with a friend. If you choose to do so, we will ask you for your name and email address, and the recipient's name and email address, along with the text of any message you choose to include. 
 
-**Online Surveys**   
-Occasionally, we may conduct online surveys to better understand the effectiveness of our websites. Your participation in these surveys is voluntary. Information collected by us when you participate in a survey may include name, street address and email address. 
+BACK TO TOP
 
-**Employment**   
-If you choose to apply for employment online, you will be required to provide your name, street address, telephone number, email address and the name of the college you attended. You will also be asked to provide the schedule you are available to work, your Social Security Number, your desired rate of pay, whether you can submit proof of legal right to work in the U.S., whether you are of a legal age to serve alcoholic beverages in the applicable state; and whether you are eligible to receive any permits or licenses required by law. You will also have the opportunity to attach your resume into our electronic form. You will be asked to provide your email address if you choose to be notified of future openings. 
+#### Use of Personal Information Collected About You
 
-**Franchise Information**   
-If you are interested in obtaining more information about franchise opportunities, we may collect your name and contact information such as street address, phone number, and email address; information about your specific interest such as brand, type of ownership, etc.; and information about your property type such as current ownership, size of parcel, location of parcel, number of rooms, height limitation, and time frame for planning or acquiring. 
+We use your personal information to provide the services you request from Hilton such as to facilitate: reservations; the purchase of a vacation package or timeshare; purchases from the Hilton To Home™; the booking of airfares and rental cars; membership in the HHonors program; and other transactions. We also use the personal information to provide you with information about meeting and event planning and access to specific account information for administrative purposes. In addition, we may use the information to: improve Hilton's services; provide you with the expected level of hospitality; and ensure the site is of interest to you. We also use details to send you newsletters, promotions and featured specials, and to conduct online surveys, sweepstakes, prize draws, and other contests via email, telephone or postal mail. If you apply for employment with Hilton, we use the personal information you supply to process your job application. 
 
-**Investor Relations**   
-Hilton offers you the ability to subscribe to our investor relations email alert service to learn when new investor information including earnings releases, financial reports and SEC filings have been added to our websites. If you choose to subscribe, we will require your email address. If you would like investor information mailed to you we may ask that you provide your name, street address, email address, phone number, and fax number. If you would like the package delivered by FedEx, we will ask for your FedEx account number. 
+BACK TO TOP
 
-Supplier Diversity Outreach Program If you are a minority or women owned company interested in participating in Hilton's Supplier Diversity Program, you may complete the Supplier Diversity Profile Application Form online. If you choose to apply you will be asked to provide information about your company and its principals including principal's name, address, email address, and ethnicity, contact person's name and email address, company's tax identification number and legal structure, and evidence of Women/Minority Business Enterprise certification. 
+#### How We Share Personal Information
 
-**Accessing and Reviewing Profile Information**
+As a global company, we endeavor to provide you with the same level of service that you have come to expect at Hilton whether you are in San Francisco, London or Tokyo. To provide this service, we may share your personal information with other members of the Hilton Family of companies, franchisees, managed hotels or service providers that may be located in countries outside of your own. Although the data protection laws of these various countries may not be as comprehensive as those in your own country, Hilton will take appropriate steps to ensure that your personal information is handled as described in this Policy. 
 
-When making a reservation, you may have the option of registering for a Fast Reservations Account. This account enables you to sign up for email newsletters and make reservations across hotels owned, managed and/or franchised by the Hilton Family of Companies and Hilton International Co., quickly and easily. If you choose to register for an account we will ask you to select a username and password, and provide your name and contact information. In addition, if you choose to, you can include credit card information, frequent flyer or travel partner program information, room preferences, favorite destinations, and select the email newsletters to which you would like to subscribe. 
+  * Hilton Family of companies: We may share personal information within the Hilton Family of companies that may jointly use the personal information for the purposes described above. Hilton Hotels Corporation is the party responsible for the management of the jointly used personal information. 
+  * Franchised Hotels, Managed Hotels, Timeshare and Fractional Resorts: We may share personal information with franchised hotels, hotels that we manage but do not own, timeshare or fractional resorts in order to provide you with services. 
+  * Electronic Billing Program: If you participate in the "eFolio program", billing information will be shared with the credit card provider and if you use a corporate credit card, possibly, your employer. 
+  * Group Events or Meetings: If you visit Hilton as part of a group event or meeting, information collected for meeting and event planning may be shared with the organizers of those meetings and events, and, where appropriate, guests who organize or participate in the meeting or event. 
+  * Business Partners: From time to time we may partner with other companies to provide co-sponsored or co-branded promotions, products and services and may share your information with our co-sponsor. For example, we may co-sponsor some sweepstakes, prize draws, competitions or contests on our site with other companies or we may provide prizes for sweepstakes and contests sponsored by other companies. If you enter one of these sweepstakes or contests, we may share your information with our co-sponsor or the third party sponsor. 
+  * Onsite Services: We may share personal information with providers of onsite services that provide services such as spa treatments, golf or dining experiences at a restaurant. 
+  * Service Providers: We rely on service providers to provide certain products and services, such as credit card billing, reservations services, and administering the HHonors, Hilton Grand Vacations Club and The Hilton Club programs, providing services in connection with our websites, including airline and rental car packages, communicating news and delivering promotional and transactional materials via email and direct mail, processing credit card transactions, data hygiene and enhancement services and administering sweepstakes, prize draws, competitions and customer surveys for which it is necessary to provide personal information. Hilton will disclose personal information to service providers as appropriate. 
+  * Business Transactions: As we develop our business, we might sell, buy, restructure or reorganize businesses or assets. In the event of a merger, consolidation, sale, liquidation or transfer of assets, Hilton may, in its sole and absolute discretion, transfer, sell or assign information collected, including without limitation, non-personal information and personal information, to one or more affiliated or unaffiliated third parties. 
+  * Other: In addition Hilton may disclose personal information, with or without prior notice to you, in order to: (i) comply with applicable laws; (ii) respond to governmental inquiries or requests from public authorities; (iii) comply with valid legal process; (iv) protect the rights, privacy, safety or property of Hilton, site visitors, guests, employees or the public; (v) permit us to pursue available remedies or limit the damages that we may sustain; (vi) enforce our Site Usage Agreement; and (vii) respond to an emergency. 
 
-The information you provided to us at the time of registration may be accessed, reviewed and updated at any time by signing in using your Username (or HHonors number) and Password (or PIN), and clicking on "my profile". 
 
-**Hilton Grand Vacations Company**
 
-**Requests for Information**  
-If you are interested in obtaining information about vacation ownership (timeshare) through hiltongrandvacations.com or thehiltonclub.com, we may ask you to provide your name, phone number, street address, email address, and HHonors member number. We may also ask you to tell us your vacation preferences such as destinations of interest, season of usage, length of usage and suite size, and whether you have visited an HGVC resort in the past. If you would like to complete an online "pre-application" for ownership or if you submit a reservation request online, we may ask you to provide the information described above as well as your annual income range. Please note that our ability to accept or respond to online requests may depend on the registration requirements of the state in which you reside. 
+BACK TO TOP
 
-**Hilton Grand Vacations Club or Hilton Club Members**   
-Members of Hilton Grand Vacations Club or the Hilton Club may create an online account in order to access online services such as viewing information about your account, making payments online, checking current balances and reservation ability. If you create an online account, we may ask you to provide your member number, the last four digits of your phone number, a self-selected password, and your email address. 
+#### Sensitive Information
 
-**Hilton HHonors**
+The term "sensitive information" refers to information related to your racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership. We do not generally collect sensitive information unless it is volunteered by you. We may use health data provided by you exclusively to serve you better and meet your particular needs.
 
-**Enrolling in HHonors**   
-You may enroll in our Hilton HHonors program online when you visit hiltonhhonors.com. When you enroll, we will ask you to provide your name, date of birth, street address, business name, title and business street address, home and business telephone and fax numbers and email addresses, preferred communication methods, and whether you are over 18 years of age. 
+BACK TO TOP
 
-**HHonors Members**   
-At your choice, you can register your HHonors account online which will allow you to view your account, book online Rewards Reservations, and redeem and purchase points online. When you register your account, you will be required to provide your name, email address, account number, a desired user name and desired password. Once your account is registered, the information you provided when you enrolled in HHonors will automatically be used to create an online profile which you may access by entering your username and password. When you book a Rewards Reservation or purchase HHonors Points online we may ask for your name, HHonors number, street address, phone number, email address, credit card information, frequent traveler account number, room preferences and any special account information such as corporate account number, group or convention code, travel agent number or AAA number. 
+#### Personal Information From Children
 
-The information you provided to us at the time of registration may be accessed, reviewed and updated at any time by signing in using your Username (or HHonors number) and Password (or PIN), and clicking on "my profile". 
+We do not knowingly collect personal information from individuals under 18 years of age. As a parent or legal guardian, please do not to allow your children to submit personal information without your permission.
 
-**Collection of Information Through Web Technologies**
+BACK TO TOP
 
-We may automatically track and collect your IP address, domain server, the type of computer and type of web browser you are using and use "cookies" to (i) customize content specific to your interests, (ii) ensure that you do not see the same advertisement repeatedly, and (iii) store your password so you do not have to re-enter it each time you use the sites. Some of the websites operated on our behalf are hosted and managed by other companies who may track and collect this information. 
+#### Non-Personal Information
 
-**What are Cookies?**
+When you visit and interact with this site, Hilton and third parties with whom Hilton has contracted to provide services to Hilton, may collect non-personal information (for example, a catalog of the site pages you visit). 
 
-"Cookies" are pieces of electronic information (specifically, a string of text) that your browser and your operating system store on your hard drive for record-keeping purposes. Cookies can store a user's ID and password, personalize home pages, identify which parts of a site have been visited or keep track of previous selections or purchases. Cookies can enhance the user's visit. The use of cookies is an industry standard-you'll find they are used by most major commercial websites. 
+As with many other sites, our site may use "cookies" or other technologies to help us deliver content specific to your interests, to process your reservations or requests, and/or to analyze your visiting patterns. Cookies, by themselves, cannot be used to disclose your individual identity. This information identifies your browser, but not you, to our servers when you visit our site. If you want to remove cookies at any time from your computer, you can delete them using your browser (consult your browser's "help" menu to learn how to delete cookies). 
 
-**How We Issue and Use Cookies.**
+We also may collect data by using "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "pixel tags") that allow us to know when you visit our site. Through pixel tags, we obtain non-personal information or aggregate information ( i.e., the domain name, the areas of the site you visit, your operating system, your browser version, and the URL you came from) which can be used to enhance your online experience and understand traffic patterns.
 
-We issue and use cookies to enhance your visit and the services we offer on the sites. The sites consist of thousands of pages of content. We want you to be able to find the information and offers that interest you, as quickly and easily as possible. The use of cookie technology helps us to achieve that objective. We issue and use cookies to keep track of the areas of the sites which interest our visitors most. In doing so, we can determine areas of the sites that are most popular and those that are not. Many improvements and updates to the sites are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. Visitors to the sites who accept cookies may be presented with targeted messages, offers and ads on the site and via email that we believe would be of value, based on observed preferences. If you have registered as a member of the sites and accept cookies, we can tailor your use to your personal preferences, and it is easier and faster to take advantage of the sites' benefits. If you have submitted your email address, you may receive targeted messages we believe you will find of value. Remember, you may request to be removed from your email subscription lists. 
+In addition, we may use third party advertisers to serve advertisements on the Sites. Please note that these third party advertisers also may use cookies, pixel tags and other technologies to, among other things, enable such third party advertisers to record which ads your browser has seen and which site pages you may have been viewing when the ads were delivered. Hilton does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties. 
 
-**Your Choice to Accept or Deny Cookies**
+Because non-personal information does not personally identify you, we may use or disclose such information for any purpose. In some instances, we may combine non-personal information with personal information (such as embedding e-mail addresses in cookies). If we do combine any non-personal information with personal information, the combined information will be treated by us as personal information in accordance with this Policy. 
 
-You can choose whether to accept or deny cookies; your browser on your computer is often initially set to accept cookies. However, you can choose to deny cookies and continue browsing the sites. 
+BACK TO TOP
 
-Keep in mind that your choice to accept or deny a cookie is different from your choice to accept/deny email messages. 
+#### Links to Third-Party Websites
 
-**Sharing Personal Information Collected on our Websites**
+Our site may contain links to third parties' websites. Please note that we are not responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such third parties. If you provide information on third party sites, the privacy policy and terms of service on those sites are applicable. We encourage you to read the privacy policies of websites that you visit before submitting personal information. 
 
-We may share personal information among the Hilton Family of Companies, owners and operators of our franchised and managed hotels, and Hilton International Co. We may also share information with select third parties who offer goods or services we think may be of interest to you. From time to time we may partner with other companies to provide co-sponsored or co-branded promotions, products and services and may share your information with our co-sponsor. For example, we may co-sponsor some sweepstakes or contests on our site with other companies or we may provide prizes for sweepstakes and contests sponsored by other companies. If you enter one of these sweepstakes or contests, we may share your information with our co-sponsor or the third party sponsor. When you use a credit card to purchase goods or services, we may share your information with the credit card company. We also may share your information with the banks that issue our Hilton HHonors co-branded credit cards. Use of shared information is subject to third parties' policies. 
+BACK TO TOP
 
-We rely on service providers to help us deliver products and services, such as administering the HHonors, Hilton Grand Vacation Club, and Hilton Club programs, offering products and services, providing services in connection with our websites including airline and rental car packages, communicating news and delivering promotional materials via email and direct mail, processing credit card transactions, and administering sweepstakes and surveys. 
+#### Protecting Personal Information
 
-During the course of our business, we may also share aggregated demographic and statistical information that is not personally identifiable. 
+Hilton will take appropriate measures to: (i) protect personal information collected against unauthorized access, disclosure, alteration or destruction, and (ii) keep personal information accurate and up-to-date, consistent with applicable law. We also seek to require our affiliates and service providers to exercise reasonable efforts to maintain the confidentiality of personal information about you. For online transactions, we use technology to protect the personal information that you transmit to us via our site. Unfortunately, however, no security system or system of transmitting data over the Internet can be guaranteed to be entirely secure. 
 
-**Business Transfers**
+For your own privacy protection, we encourage you not to include sensitive personal information in any emails you may send to us. Please do not send credit card numbers or any sensitive personal information to us via email. 
 
-In the event that Hilton, or part of the Hilton Family of Companies, merges with or is acquired by another legal entity, the personal information collected by Hilton may be transferred to that other legal entity as an asset. 
+BACK TO TOP
 
-**Legal Requirements**
+#### Changing Personal Information
 
-The Hilton Family of Companies will disclose personally identifiable information without your permission when we believe in good faith that such disclosure is required by law, or is necessary or desirable to investigate or protect against harmful activities to guests, visitors, employees, or others, or to property (including this site). 
+If you have registered for a Fast Reservations Account, the information you provided to us at the time of registration may be accessed, reviewed and updated at any time by signing in using your Username (or HHonors number) and Password (or PIN), and clicking on "my profile". 
 
-**Third Party Websites**
+To the extent required by applicable law, you may be able to request that we inform you about the personal information we maintain about you and, where appropriate, request that we update, correct, and/or suppress personal information about you that we maintain in our active database. We will make all required updates and changes within the time specified by the applicable law and, where permitted by law, may charge an appropriate fee to cover the costs of responding to the request. Such requests must be submitted in writing to the following address: Hilton Customer Privacy Department, 5001 Spring Valley Road, Suite 400-W, Dallas, Texas 75244, USA. To protect your confidentiality, we can only respond to such requests to the email address that you have registered or otherwise provided to us. Please remember that if you make such a request, we may not be able to provide you with the same quality and variety of services to which you are accustomed. 
 
-We do not control and shall not be responsible for the collection of personal information by third party websites, including websites owned or controlled by franchises, third party owners or managers of hotel properties, Hilton International Co., hotel room distributors, or websites not controlled or authorized by Hilton. Third party websites that are accessed through links on our websites have separate privacy practices. We have no responsibility or liability for the practices and policies implemented by third parties on their websites. Third party websites may have received permission from Hilton to use Hilton logos or trademarks but will not offer a link to this Internet Privacy Policy. You may contact them directly to ask questions about their privacy practices and policies. 
+In addition, in some circumstances based on applicable law, you may request that we cease sharing personal information about you with our business partners or that Hilton cease the use of personal information about you on the grounds that such personal information was acquired by unjust means or used in violation of law by sending your written request to Hilton Customer Privacy Department, 5001 Spring Valley Road, Suite 400-W, Dallas, Texas 75244, USA. We will seek to honor those requests consistently with applicable law. 
 
-If you enter or choose to leave our websites via links to other non-Hilton sites (including those of our advertisers, content providers, vendors, independent hotels, affiliates and partners), your visits to those sites are not covered by this Internet Privacy Policy. 
+BACK TO TOP
 
-**Internet Privacy Policy Changes**
+#### Retaining Personal Information
 
-In the future, we may make changes to this Internet Privacy Policy. The revised Internet Privacy Policy will be displayed via a link on this website so that you will know what types of information we gather and the categories of third parties with whom we may share the information. 
+We retain personal information about you for the period necessary to fulfill the purposes outlined in this Policy unless a longer retention period is required or permitted by applicable law.
 
-**Effective Date**
+BACK TO TOP
 
-This Internet Privacy Policy is effective as of July 1, 2004. 
+#### Choices - Marketing Lists
+
+If you have given us your contact information (mail address, fax number, email address or phone number), we may want to inform you about our services or invite you to events by email, telephone or post.
+
+If you prefer not to receive marketing materials from us, you may change your preferences at any time by: (i) sending us an email to e_opt_out@hilton.com ; (ii) writing to us (and include your email address) at Hilton Customer Privacy Department, 5001 Spring Valley Road, Suite 400-W, Dallas, Texas 75244, USA; or (iii) using the unsubscribe function in the email you receive from us. We will update your preferences as soon as reasonably practical. 
+
+Please note, however, that if you "opt out" as described above, we will not be able to remove your personal information from the databases of affiliates, franchisees or business partners with which we have already shared your personal information ( i.e., to which we have already provided your personal information as of the date of your opt-out request).
+
+BACK TO TOP
+
+#### Other Information
+
+  * If you submit an online "pre-application" for timeshare or if you submit a reservation request online, we may be required to ask you to provide your annual income range. If you create an online account for members of Hilton Grand Vacations Club and/or The Hilton Club, we may also ask you to provide your member number, the last four digits of your phone number, and a self-selected password. 
+  * If you are interested in obtaining more information about franchisee opportunities, we may also collect information about your specific interests, such as brand, type of ownership and information about your property type such as current ownership, size of parcel, location of parcel, number of rooms, height limitation and time frame for planning or acquisition. 
+  * If you choose to apply online for employment with Hilton, you will also have the opportunity to send your resume in electronic form, information on education and employment history, desired salary scale, working permits, and any other information you feel is relevant to your application. If you apply for employment online, any information about you which is obtained by us during the application process may be retained by us for purposes of considering your application for employment, as well as for more general management and research purposes. Please see our Online Recruiting Policy for further detail. 
+  * If your U.S. company is a Women's/Minority Business Enterprise interested in participating in Hilton's Supplier Diversity Program, you may complete the Supplier Diversity Profile Application Form online. If you choose to apply, you will be asked to provide information about your company and its principals, including the principal's name, address, email address, ethnicity, contact person's name and email address, company's tax identification number and legal structure, and evidence of Women's/Minority Business Enterprise certification. 
+  * Special Notification for California Residents. Individual customers who reside in California and have provided their personal information to the Hilton Family of companies may request information about our disclosures of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to us at one of the following addresses: CA_Privacy@Hilton.com or Hilton Hotels Corporation, Attn: Guest Assistance, 755 Crossover Lane, Memphis, TN 38117. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph. 
+
+
+
+BACK TO TOP
+
+#### Policy Modifications
+
+We may modify this Policy from time to time. When we make material changes to this policy we will post the revised policy on the homepage of our site. You can tell when this Policy was last updated by looking at the date at the top of the Policy. Any changes to our Policy will become effective upon posting of the revised Policy on the site. Use of the site following such changes constitutes your acceptance of the revised Policy then in effect. 
+
+BACK TO TOP
+
+#### Questions
+
+If you have any questions about this Policy or how Hilton processes your personal information, please contact us by email to customer_privacy@hilton.com or by postal mail to Hilton Customer Privacy Department, 5001 Spring Valley Road, Suite 400-W, Dallas, Texas 75244, USA.
+
+BACK TO TOP
