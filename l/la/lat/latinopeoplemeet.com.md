@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinopeoplemeet.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616032003id_/http%3A//www.latinopeoplemeet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinopeoplemeet.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217073621id_/http%3A//www.latinopeoplemeet.com/privacy) for the most accurate reproduction.*
 
 # LatinoPeopleMeet.com - The Latino People Network
 
