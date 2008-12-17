@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skitch.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608191148id_/http%3A//skitch.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skitch.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041223id_/http%3A//skitch.com/Privacy) for the most accurate reproduction.*
 
 # Skitch.com + Skitch = fast and fun screen capture and image sharing.
 
