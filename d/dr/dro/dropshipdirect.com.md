@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dropshipdirect.com privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811095543id_/http%3A//dropshipdirect.com/warehouse/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshipdirect.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085359id_/http%3A//dropshipdirect.com/warehouse/privacy.php) for the most accurate reproduction.*
 
-# Dropship Direct Wholesale: DSDI Privacy Notice
+# Dropship Fulfillment Ctr: DSDI Privacy Notice
 
 Your credit card and company information is always safe with DropShipDirect.com - we guarantee it. DSDI INC respects and protects your privacy.
 
