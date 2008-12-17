@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chessgames.com privacy policy that was archived on 2008-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080307063622id_/http%3A//www.chessgames.com/chessprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chessgames.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015258id_/http%3A//www.chessgames.com/chessprivacy.html) for the most accurate reproduction.*
 
 # ChessGames.com Privacy Notice
 
 Your privacy is very important to Chessgames.com. While we gather information about our users to help provide the best service possible, we adhere to strict policies to safeguard your privacy at all times. This page states, in plain language, our privacy policy, so that there may be no misunderstandings about what information we gather, and why we gather it. 
 
-**Information gathered:** When you register an account with chessgames.com, you will have access to a [preferences page](https://web.archive.org/perl/chessprofile.pl) which allows you to provide various information, including including your email address. All information you submit on this page, with the exception of your "username" and your "bio," is completely confidential. _We will never give or sell your email address to any third party. We will never reveal your address to other users._
+**Information gathered:** When you register an account with chessgames.com, you will have access to a [preferences page](https://web.archive.org/perl/chessprofile.pl) which allows you to provide various information, including your email address. All information you submit on this page, with the exception of your "username" and your "bio," is completely confidential. _We will never give or sell your email address to any third party. We will never reveal your address to other users._
 
  |  We will occasionally email all registered members with newsletters that announce new features, games and puzzles, and special promotions. If you prefer not to receive our emails, either check the option that reads _"Do not send me emails, newsletters, etc."_ on your [preferences page](https://web.archive.org/perl/chessprofile.pl) or email [chess@chessgames.com](mailto:chess@chessgames.com) with your request.  
 ---|---  
