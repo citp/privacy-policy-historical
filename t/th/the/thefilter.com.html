@@ -1,699 +1,397 @@
-<!--The following is the downloaded HTML source of the thefilter.com privacy policy that was archived on 2008-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080208182852id_/http%3A//www.thefilter.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thefilter.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217092349id_/http%3A//www.thefilter.com/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
-	The Filter - Privacy Policy
-</title><meta name="keywords" content="iTunes, Windows Media Player, WMP, recommendations, music, mp3, plugin"><link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon"><link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon"><link href="App_Themes/StyleSheetPanel.css" rel="stylesheet" type="text/css"><link href="App_Themes/TheFilterTheme/TheFilter_StyleSheet.css" rel="stylesheet" type="text/css">
-    
-       
-    <script type="text/javascript" src="Scripts/prototype.js"></script>
-    <script type="text/javascript" src="Scripts/jquery.js"></script>
-    <script type="text/javascript" src="Scripts/jreflection.js"></script>
-    <script type="text/javascript" src="Scripts/iutil.js"></script>
-    <script type="text/javascript" src="scripts/interface.js"></script>
-    <script type="text/javascript" src="Scripts/Global.js"></script>
-    
-     
-    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-    
-    <script type="text/javascript">
-        _uacct = "UA-1144680-1";
-        urchinTracker();
-    </script>
-
-    <script type="text/javascript">
-
-var browserName = whichBrs();
-
-if(browserName == "Internet Explorer")
-{
-    if ((version >= 5.5) && (version < 7))
-    {
-        document.write('<'+'link rel="stylesheet" href="App_Themes/TheFilterTheme/IE6_0PopupBox.css" />');
-        window.attachEvent("onload", correctPNG);
-    }
-    
-    if (version >= 7)
-    {
-        document.write('<'+'link rel="stylesheet" href="App_Themes/TheFilterTheme/IE7_0PopupBox.css" />');
-    }
-}
-
-if((browserName == "Firefox") || (browserName == "Safari") || (browserName == "Opera") )
-{
-    document.write('<'+'link rel="stylesheet" href="App_Themes/TheFilterTheme/FireFoxPopupBox.css" />');
-    document.write('<'+'link rel="stylesheet" href="App_Themes/TheFilterTheme/TheFilter_StyleSheet_FireFox.css" />');
-}
-
-function clearText(obj, text)
-{
-    var oInput = document.getElementById(obj);
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Header"><title>
+	Privacy | The Filter
+</title>
+        <!--Open search -->
         
-    if(oInput.value == text)
-    {
-        oInput.value = '';
-    }
-}
         
-function clickButton(e, buttonid)
-{ 
-    var evt = e ? e : window.event;
-    var bt = document.getElementById(buttonid);
-    if (bt)
-    { 
-        if (evt.keyCode == 13)
-        {
-            bt.focus();
-            bt.click(); 
-            return false;
-        } 
-    } 
-}
-
-function ShowSign(event)
-{
-    if($('#SignIn').css('display') == 'none') 
-    {	
-	    $('#SignIn').css({ top: findPos('ctl00_ImageButtonSignIn')[1]+50   + "px", left: findPos('ctl00_ImageButtonSignIn')[0] -100 + "px"  });
-        document.getElementById("SignIn").style.display="inline";  						
-        $('#SignIn').show(); 
-        document.getElementById("ctl00_FilterSignIn_UserName").focus();
-    }
-    return false;
-}
-
-
-function closesignin(event)
-{
-  $('#SignIn').hide(); 
-}
-
-var testresults;
-
-function checkemail(obj)
-{
-    var str = obj.value;
-    var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i
-    if (filter.test(str))
-    {
-        testresults=true;
-    }
-    else
-    {
-        alert("Please input a valid email address!");
-        testresults=false;
-    }
-    return (testresults);
-}
-
-function checkempty(obj)
-{
-    return true;
-}
-  
-</script><link rel="stylesheet" href="App_Themes/TheFilterTheme/FireFoxPopupBox.css"><link rel="stylesheet" href="App_Themes/TheFilterTheme/TheFilter_StyleSheet_FireFox.css">
-
-<style type="text/css">
-    #AlertDiv{
-    left: 40%; top: 40%;
-    position: absolute; width: 200px;
-    padding: 12px; 
-    border: #000000 1px solid;
-    background-color: white; 
-    text-align: left;
-    visibility: hidden;
-    z-index: 99;
-    }
-    #AlertButtons{
-    position: absolute; right: 5%; bottom: 5%;
-    }
-</style>
-
-
-</head>
-<body id="bodytag">
-    <div id="AlertDiv">
-        <div id="AlertMessage"></div>
-        <br>
-        <div id="AlertButtons"><input name="ctl00$OKButton" type="button" id="ctl00_OKButton" value="OK" onclick="ClearErrorState()"></div>
-    </div>
-    
-    <center>
-        <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICBw9kFggCBQ8PZBYCHgdvbmNsaWNrBRtqYXZhc2NyaXB0OlNob3dTaWduKGV2ZW50KTtkAgsPD2QWAh8ABRtqYXZhc2NyaXB0OlNob3dTaWduKGV2ZW50KTtkAg0PDxYCHgdWaXNpYmxlaGRkAh0PZBYCZg9kFgQCAQ8PZBYCHwAFHmphdmFzY3JpcHQ6Y2xvc2VzaWduaW4oZXZlbnQpO2QCAw9kFgJmD2QWAgIBD2QWAmYPZBYGAgMPDxYCHgRUZXh0BRhFbnRlciB5b3VyIGVtYWlsIGFkZHJlc3MWAh4Hb25mb2N1cwVEY2xlYXJUZXh0KCdjdGwwMF9GaWx0ZXJTaWduSW5fVXNlck5hbWUnLCdFbnRlciB5b3VyIGVtYWlsIGFkZHJlc3MnKTtkAgkPD2QWAh4Kb25rZXlwcmVzcwU7cmV0dXJuIGNsaWNrQnV0dG9uKGV2ZW50LCdjdGwwMF9GaWx0ZXJTaWduSW5fTG9naW5CdXR0b24nKTtkAg0PEA8WAh4HQ2hlY2tlZGdkZGRkGAMFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYGBRNjdGwwMCRpbWdCdXRTaWduT3V0BQxjdGwwMCRJbWFnZTMFFmN0bDAwJGJ0bkNsb3NlRmVlZGJhY2sFFWN0bDAwJGNtZFNlbmRGZWVkYmFjawUUY3RsMDAkYnRuQ2xvc2VTaWduSW4FHWN0bDAwJEZpbHRlclNpZ25JbiRSZW1lbWJlck1lBRVjdGwwMCRNdWx0aVZpZXdTaWduSW4PD2RmZAUXY3RsMDAkTXVsdGlWaWV3ZmVlZGJhY2sPD2RmZDFPZHcEXmaQebj3h12imIIP/Cta">
-
-
-<script src="/ScriptResource.axd?d=EWJv_q487dXZaHWFhbj-9Jq8QQ_5840bVHBAD6_Lf_ldjFX5ZthdOLhnDaLFz9KT82pbfuK7qd4_3xAM2DCtf8E3z3TqAVJfTI9cZ1XHVxs1&amp;t=633234866436608354" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=d3c3BcoOOoTXqL4jraqmHNpJoVVd-Z8IEgn2iGNclU_RsJblo1RpsNyErIS2Y4tCbOl70hblb3lZ_ht5SnykNg2&amp;t=633202975384716750" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=d3c3BcoOOoTXqL4jraqmHNpJoVVd-Z8IEgn2iGNclU8L5e6TXsO_pmG8KHBxDoWzifwgjzskPiZkjZYSCwvn6A2&amp;t=633202975384716750" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=d3c3BcoOOoTXqL4jraqmHNpJoVVd-Z8IEgn2iGNclU_k1COl74ebAlLT8El1b5QtW05xGjYqhKs80hDTxw7nlw2&amp;t=633202975384716750" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=d3c3BcoOOoTXqL4jraqmHNpJoVVd-Z8IEgn2iGNclU9PrZQckBm9wlj33r-Bkof8Bh_HSkR2edy4AvsXQVBQxoZJ30i4H7V9omsIR3jbhR01&amp;t=633202975384716750" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=d3c3BcoOOoTXqL4jraqmHNpJoVVd-Z8IEgn2iGNclU_k1COl74ebAlLT8El1b5Qth64vXSeY2rRl4Fmz58bbtPthh6CrJQna7gA4BFY3XM41&amp;t=633202975384716750" type="text/javascript"></script>
-            
-            <script type="text/javascript" language="javascript">
-                var divElem = 'AlertDiv';
-                var messageElem = 'AlertMessage';
-                var bodyTag = 'bodytag';
-                Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestHandler);
-                function ToggleAlertDiv(visString)
-                {
-                     if (visString == 'hidden')
-                     {
-                         $get(bodyTag).style.backgroundColor = 'white';                         
-                     }
-                     else
-                     {
-                         $get(bodyTag).style.backgroundColor = 'gray';                         
-
-                     }
-                     var adiv = $get(divElem);
-                     adiv.style.visibility = visString;
-
-                }
-                function ClearErrorState() {
-                     $get(messageElem).innerHTML = '';
-                     ToggleAlertDiv('hidden');                     
-                }
-                function EndRequestHandler(sender, args)
-                {
-                   if (args.get_error() != undefined)
-                   {
-                       var errorMessage;
-                       if (args.get_response().get_statusCode() == '200')
-                       {
-                           errorMessage = args.get_error().message;
-                       }
-                       else
-                       {
-                          errorMessage = args.get_error().message;
-                       }
-                       args.set_errorHandled(true);
-                       ToggleAlertDiv('visible');
-                       $get(messageElem).innerHTML = errorMessage;
-                   }
-                }
-            </script>
-
-            <div style="height: 25px; background-color: Black;">
-            ...
-            </div>            
-            
-            <table width="100%" height="38px" align="center" border="0" cellspacing="0">
-                <tbody><tr>
-                    <td style="background-image: url(FilterImages/nav_1pix.gif); background-repeat: repeat-x;
-                        height: 38px; background-position-y: 0px; border-collapse: collapse; background-color: Black;">
-                    </td>
-                    <td valign="top" width="976px" style="background-image: url(FilterImages/nav_1pix.gif);
-                        background-position-y: 0px; background-repeat: repeat-x; height: 38px; background-color: Black;">
-                        <table border="0" cellpadding="0" cellspacing="0" align="center" height="38px">
-                            <tbody><tr>
-                                <td valign="top" style="width: 55px">
-                                    <a href="default.aspx">
-                                        <img id="ctl00_ImageButtonHome" title="Home" onmouseover="javascript:this.src='./FilterImages/nav_home_on.gif';" onmouseout="javascript:this.src='./FilterImages/nav_home_off.gif';" src="FilterImages/nav_home_off.gif" border="0"></a></td>
-                                <td valign="top" style="width: 58px">
-                                        <img id="ctl00_ImageButtonMyFilter" title="My Filter" onmouseover="javascript:this.src='./FilterImages/nav_my_filter_on.gif';" onmouseout="javascript:this.src='./FilterImages/nav_my_filter_off.gif';" onclick="javascript:ShowSign(event);" src="FilterImages/nav_my_filter_off.gif" border="0" style="cursor: pointer">
-                                </td>
-                                <td valign="top" style="width: 67px">
-                                    <a href="download.aspx">
-                                        <img id="ctl00_ImageButtonDownloads" title="Downloads" onmouseover="javascript:this.src='./FilterImages/nav_downloads_on.gif';" onmouseout="javascript:this.src='./FilterImages/nav_downloads_off.gif';" src="FilterImages/nav_downloads_off.gif" border="0"></a>
-                                </td>
-                                <td valign="top" style="width: 85px; height: 38px;">
-                                    <a href="help.aspx">
-                                        <img id="ctl00_ImageButtonSupport" title="Help &amp; Support" onmouseover="javascript:this.src='./FilterImages/nav_help_support_on.gif';" onmouseout="javascript:this.src='./FilterImages/nav_help_support_off.gif';" src="FilterImages/nav_help_support_off.gif" border="0" style="cursor: pointer"></a></td>
-                                <td style="width: 312px; height: 38px; overflow: visible;">
-                                    <div id="LogoDiv" style="width: 312px; position: relative; height: 36px; text-align:center;">
-                                        <a href="default.aspx" target="_self" style="position:absolute; left: 90px; top:-25px;"><img src="FilterImages/Logo.png" alt="The Filter - Home" width="96" height="96" border="0"></a>
-                                    </div>
-                                </td>
-                                <td valign="top" style="width: 91px; text-align: right" align="right">
-                                    <img id="ctl00_ImageButtonSignIn" title="Sign in" onmouseover="javascript:this.src='./FilterImages/nav_signin_on.gif';" onmouseout="javascript:this.src='./FilterImages/nav_signin_off.gif';" onclick="javascript:ShowSign(event);" src="FilterImages/nav_signin_off.gif" border="0" style="cursor: pointer">
-                                    
-                                </td>
-                                <td valign="top" style="width: 32px;">&nbsp;
-                                        </td>
-                                <td valign="top" style="width: 32px">
-                                    <input type="image" name="ctl00$imgButSignOut" id="ctl00_imgButSignOut" title="Bookmark this site" usesubmitbehavior="False" onmouseover="javascript:this.src='./FilterImages/nav_bookmark_on.gif';" onmouseout="javascript:this.src='./FilterImages/nav_bookmark_off.gif';" src="FilterImages/nav_bookmark_off.gif" onclick="javascript:bookmark('http://www.thefilter.com','The Filter'); return false;" border="0"></td>
-                                <td valign="top" width="32px">
-                                    <input type="image" name="ctl00$Image3" id="ctl00_Image3" title="Send Feedback" onmouseover="javascript:this.src='./FilterImages/nav_feedback_on.gif';" onmouseout="javascript:this.src='./FilterImages/nav_feedback_off.gif';" src="FilterImages/nav_feedback_off.gif" onclick="return false;" border="0"></td>
-                                <td valign="top" style="width: 98px" class="MenuText">
-                                </td>
-                            </tr>
-                        </tbody></table>
-                    </td>
-                    <td style="background-image: url(FilterImages/nav_1pix.gif); background-repeat: repeat-x;
-                        background-position-y: 0px; height: 38px; background-color: Black;">
-                    </td>
-                </tr>
-                <tr>
-                    <td style="background-image: url(FilterImages/dots_left.jpg); background-repeat: repeat-x;
-                        background-position-y: 0px; height: 100%;">
-                    </td>
-                    <td valign="top" width="976px" style="background-image: url(FilterImages/dots_right.jpg);
-                        background-repeat: repeat-x; background-position: top; background-position-y: 0px;
-                        height: 100%; background-color: #089cd3; margin: 0 auto 0 auto;" align="center">
-                        
-<table border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-                <td class="FilterHeader">
-                     <table border="0" cellpadding="0" cellspacing="0" class="utilTable utilTableMargin">
-                            <tbody><tr>
-                                <td>
-                                
-                                </td>
-                                <td align="center">
-                                    <img src="FilterImages/privacy_policy_header.png" alt="Filter Privacy policy">
-                                </td>
-                                <td>
-                                
-                                </td>   
-                            </tr>         
-                            <tr>
-                                <td colspan="3" class="utilHeader">
-                                      <table class="utilContentTable">
-                                            <tbody><tr><td align="left" class="PageHead">Privacy Policy</td></tr>
-                                            <tr><td align="left" class="TextHead">This privacy policy covers the collection and use of personal information that Exabre Limited, the owner of The Filter, may collect and interact with The Filter, such as when you visit our website or when you call our support associates.
-                                            </td></tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                      Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at Exabre, and we go to great lengths to protect it.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextHead">
-                                                               Why we collect personal information 
-                                                        
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        
-                                                    Why do we collect your personal information? We do this for two reasons:</td>
-                                                </tr>
-                                                     <tr>
-                                                    <td align="left" class="TextBody">
-                                                       
-                                            1.	Because your personal information is necessary for us to deliver a superior level of product functionality and customer service. The Filter product thrives off the ability to collect, analyze, compare and recommend the best music tracks and artists for you. It enables us to give you convenient access to our products and services.
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                            2.	In addition, your personal information helps us keep you posted on the latest product announcements, and software updates that you might like to hear about.
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                <td align="left" class="TextBody">3.	In order to improve our service/offer additional functionality in the future.  
-                                                </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        Your personal information, such as username/password and music collection data are all we need on an ongoing basis to provide you with our The Filter product and services.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        We also ask you to give us some additional information in your profile page to help us improve our service and understand our customers better.  Please take a minute to fill in 'My Profile' when you sign in to the website.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextHead">
-                                                        What information we collect
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        There are a number of situations in which your personal information may help us give you better service. For example, we may ask for your personal information when you're discussing a service issue on the phone with an associate, downloading a software update, or registering your product. At such times, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences, information about The Filter product you own, such as the version, and date of download; and information relating to a support or service issue.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        We also collect information regarding customer activities on our website and on related websites. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites and Internet services are of most interest to them.<br>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                       The Filter allows you to create a Filter ID based on your personal information. This convenient registration process saves you time and allows for easier use of our web services.
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                       We may use information about your collection as a collective community but this will be done anonymously.  For example 15 people have Agadoo in their collection may be displayed on the website (I hope you're not one of them!)
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                       We also ask for other information regarding your demographics and ask you to choose an online store etc for your convenience and for the reasons above.  This information is not shared with anyone but used for your benefit and profiling of our userbase.
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextHead">
-                                                        Here's how it works:
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                       You create a personal profile providing your password and username. The system saves your information and assigns you a personal Filter ID.
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        This unique Filter ID is all we need to recognize you on our Music Community Server and enable us to analyze your music collection, safe store and anonymously share your playlists and provide you with the full functionality of The Filter. Your Filter ID does not store any other personal details.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextHead">
-                                                        When we disclose your information</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        Exabre takes your privacy very seriously. Be assured that Exabre does not sell or rent your contact information to other marketers. To help us provide superior service, your personal information may be shared with legal entities within the Exabre group globally who will safeguard it in accordance with Exabre's privacy policy. There are also times when it may be advantageous for Exabre to make certain personal information about you available to companies that Exabre has a strategic relationship with or that perform work for Exabre to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service or assess your interest in our products and services. These companies are also obligated to protect your personal information in accordance with Exabre's policies. Without such information being made available, it would be difficult for you to have products delivered to you, receive customer service, provide us feedback to improve our products and services, or access certain services, offers, and content on The Filter website.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is absolutely necessary.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextHead">
-                                                        How we protect your personal information</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        Exabre takes precautions including administrative, technical, and physical measures to safeguard your personal information against loss, theft, and misuse, as well as un-authorized access, disclosure, alteration, and destruction.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextHead">
-                                                        Integrity of your personal information</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        Exabre has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. Naturally, you always have the right to access and correct the personal information you have provided. You can request a copy of your personal information, your product registration history, and your interactions with The Filter by contacting us at the email address below.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextHead">
-                                                        Cookies and other technologies</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                       As is standard practice on many corporate websites, The Filter's website may use 'cookies' and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We may also use cookies and other technologies to make sure that any online advertising is bringing customers to our products, such as The Filter. We may also use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. Finally, we use cookies to customize your experience and provide greater convenience each time you interact with us.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</td>
-                                                </tr>
-                                                 <tr>
-                                                    <td align="left" class="TextBody">
-                                                        We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users movements around the site and to gather demographic information about our user base as a whole. Exabre will not use the information collected to market directly to that person.</td>
-                                                </tr>
-
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                       In some of our email messages we use a click-through URL linked to content on The Filter website. When a customer clicks one of these URLs, they pass through our web server before arriving at the destination web page. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextHead">
-                                                        Our commitment to your privacy</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        Exabre takes protecting your privacy very seriously. To make sure your personal information is secure, we communicate these guidelines to our employees and strictly enforce privacy safeguards within the company.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        The Filter's website has links to the sites of other companies. Exabre is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextHead">
-                                                        Privacy questions</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        If you have questions or concerns about Exabre's Customer Privacy Policy or data processing, please use the email address to contact us. The Filter Administrator will respond to your inquiry within 20 days.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        Exabre may update its privacy policy from time to time. When we change the policy in a material way a notice will be posted on our website along with the updated privacy policy.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="TextBody">
-                                                        If you have questions or concerns about Exabre's collection, use, or disclosure of your personal information, please email us at support@thefilter.com
-                                                        <br>&nbsp;
-                                                    </td>
-                                                </tr>
-                                         </tbody></table>
-                                         
-                                </td>
-                            </tr>
-                         
-                            <tr>                                
-                                <td class="utilFooter" colspan="3">
-                                   </td>
-                              
-                            </tr>
-                           
-                      </tbody></table>                    
-                </td>
-            </tr>
-         </tbody></table>  
-
-
-                    </td>
-                    <td style="background-image: url(FilterImages/dots_right.jpg); background-repeat: repeat-x;
-                        background-position: top; background-position-x: 0px  background-position-y: 0px;
-                        height: 100%;">
-                    </td>
-                </tr>
-            </tbody></table>
-            
-            
-
-            <script type="text/javascript" language="javascript">
-            function Cover(bottom, top, ignoreSize) {
-                var location = Sys.UI.DomElement.getLocation(bottom);
-                top.style.position = 'absolute';
-                top.style.top = location.y + 'px';
-                top.style.left = location.x + 'px';
-                if (!ignoreSize) {
-                    top.style.height = bottom.offsetHeight + 'px';
-                    top.style.width = bottom.offsetWidth + 'px';
-                }
-            }
-            </script>
-            <!-- Feedback -->
-            <div align="right" style="width: 327px; padding: 0;">
-                <div id="flyoutFeedBack" style="z-index: 2; display: none; border: solid 0px #D0D0D0; overflow: hidden; padding: 0;">
-                </div>
-                <div id="infoFeedBack" style="z-index: 600; display: none; font-size: 12px; border: solid 0px #CCCCCC;
-                    width: 327px; padding: 0px; font-family: verdana; font-size: 12px; height: 49px;">
-                    <div align="right" style="float: right; z-index: 602; position: absolute;top: 20px; left: 290px; width: 16px; height: 17px;" id="DivCloseFeedBack">
-                    
-                        <input type="image" name="ctl00$btnCloseFeedback" id="ctl00_btnCloseFeedback" title="Close" src="FilterImages/email_friend_close_button_off.png" onclick="return false;" border="0">
-                    </div>
-                    
-                        <script type="text/javascript">
-                            if((browserName=="Internet Explorer") && ((version >= 5.5) && (version < 7)))
-                            {
-                                document.write('<'+'img src="FilterImages/feedback_box.gif" style="width:327px; height:339px; z-index: 1;" />');                                            
-                            }
-                            else
-                            {
-                               document.write('<'+'img src="FilterImages/feedback_box.png" style="width:327px; height:339px; z-index: 1;" />');
-                            }
-                        </script><img src="FilterImages/feedback_box.png" style="width:327px; height:339px; z-index: 1;">
-
-                        <div id="ctl00_UpdatePanel2">
-	
-                                
-                                        <div class="FeedBackDiv" align="center" style="position:absolute; top: 0px; z-index: 601; visibility:visible;">
-                                            <table cellpadding="0" cellspacing="0" width="80%" height="80%">
-                                                <tbody><tr>
-                                                    <td colspan="2" align="left" class="ToolBarText" height="80px">
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="2" align="left" class="ToolBarHeadText">
-                                                       We review every piece of feedback from our users to make The Filter experience even
-                                                        better each time you use it.
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="right" width="160px" class="ToolBarText">
-                                                        From :</td>
-                                                    <td align="left" class="ToolBarInput">
-                                                        <input name="ctl00$EmailIDForFeedback" type="text" id="ctl00_EmailIDForFeedback" onblur="javascript:checkemail(this);">
-                                                        &nbsp;
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="left" class="ToolBarText">
-                                                        
-                                                        To :</td>
-                                                    <td align="right" class="ToolBarTextRight">
-                                                        feedback@thefilter.com
-                                                </td></tr>
-                                                <tr>
-                                                    <td align="right" class="ToolBarText">
-                                                        Message :</td>
-                                                    <td align="left" class="ToolBarInput">
-                                                        <textarea name="ctl00$FeedBackText" rows="5" cols="20" id="ctl00_FeedBackText" onblur="javascript:checkempty(this);"></textarea>
-                                                            &nbsp;
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="2" class="ToolBarInput">
-                                                        <input type="image" name="ctl00$cmdSendFeedback" id="ctl00_cmdSendFeedback" src="FilterImages/submit_button_off.png" alt="Submit" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cmdSendFeedback&quot;, &quot;&quot;, true, &quot;feedbackValidationGroup&quot;, &quot;&quot;, false, false))" border="0">
-                                                    </td>
-                                                </tr>
-                                            </tbody></table>
-                                        </div>
-                                    
-                            
-</div>
+        <!--Content Typing -->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <!--End content Typing -->
+        
+        <!-- Search Bot tags -->
+        <!-- Block the Open Directory Project description of the page from being used in the description that appears below the page in the search results-->
+        <meta name="ROBOTS" content="NOODP">
+        <!-- End search Bot meta tags -->
+        
+        <!-- Fav icons and global stylesheets -->
+        
+        <!-- End fav icons and global stylesheets -->
+        
+        <!-- Google Ad Manager Code -->
+        <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+        <script type="text/javascript">GS_googleAddAdSenseService("ca-pub-3951767902309197");GS_googleEnableAllServices();</script>
+        <!-- End Google Ad Manager code -->
+        <base id="ctl00_baseTag" href="http://www.thefilter.com/Privacy/default.aspx"><style type="text/css">html, body {background-image:url(/images/pageBackgrounds/Wood.jpg);}</style><meta name="description" content=" "><script type="text/javascript">
+GA_googleAddSlot("ca-pub-3951767902309197", "Bottom_Banner_AllPages");
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-3951767902309197", "Bottom_LeftButton_AllPages");
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-3951767902309197", "Bottom_MiddleButton_AllPages");
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-3951767902309197", "Bottom_RightButton_AllPages");
+</script>
+<link rel="shortcut icon" href="../favicon.ico"><link rel="stylesheet" type="text/css" href="../App_Styles/Global.css"><link href="/WebResource.axd?d=vdlK98HUsR0_SSA88BKIh9A5l2P65R9cOsmrHyg2cj5FBGa8I8a3kQNCqf4SwCd1IJ_A9kRL9D6UO4o9d_07nWIwslAqqa58hYHm6PCQbNM1&amp;t=633638249529899180" rel="stylesheet" type="text/css"><meta name="WT.seg_1" content="Anonymous"><script language="JavaScript">GA_googleAddAttr("LoggedIn", "No");GA_googleAddAttr("Page", "~/Privacy/default.aspx");</script></head>
+    <body id="bodytag">
+        <!-- Pull Google Ads --><script type="text/javascript">GA_googleFetchAds();</script><!-- End pull Google Ads -->
+        <div id="ShowPlayerButtonContainer">
+            <div id="ShowPlayerButtonPositioner">
+                <div id="ShowPlayerButton" onclick="Global_ShowPlayer();">
+                    <img id="ShowPlayerImageButton" src="/images/Player/show-player.gif" alt="Show the Player">
                 </div>
             </div>
-            
-            
-            <!-- End of Tool Bars Options  Feedback and Send to Friend -->               
-            <div id="SignIn" class="demoareaSignIN" align="right" style="background-repeat: no-repeat;
-                width: 327px; height: 339px; display: none; position: absolute; background-color: Transparent;
-                z-index: 550; top: 456px; left: 101px;">
-                <div id="ctl00_UpdatePanel3">
-	
-                        <div style="float: right; position: absolute; top: 25px; left: 270px; z-index: 550;" id="DivCloseSignIn">
-                            <input type="image" name="ctl00$btnCloseSignIn" id="ctl00_btnCloseSignIn" tabindex="5" title="Close" src="FilterImages/email_friend_close_button_off.png" onclick="javascript:closesignin(event);" border="0">
-                        </div>
-                        
-                                <table cellpadding="0" cellspacing="0" style="width: 311px; height: 323px;">
-                                    <tbody><tr>
-                                        <td height="30px">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            
-                                            <table id="ctl00_FilterSignIn" cellspacing="0" cellpadding="0" border="0" height="161" width="90%">
-		<tbody><tr>
-			<td>
-                                                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;
-                                                        width: 100%">
-                                                        <tbody><tr>
-                                                            <td style="width: 311px;" align="center">
-                                                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                                                    <tbody><tr>
-                                                                        <td align="right" class="PanelText">
-                                                                            <label for="ctl00_FilterSignIn_UserName" id="ctl00_FilterSignIn_UserNameLabel">User Name:</label></td>
-                                                                        <td align="left">
-                                                                            <input name="ctl00$FilterSignIn$UserName" type="text" value="Enter your email address" maxlength="64" id="ctl00_FilterSignIn_UserName" tabindex="1" onfocus="clearText('ctl00_FilterSignIn_UserName','Enter your email address');">
-                                                                            &nbsp;
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td align="right" class="PanelText">
-                                                                            <label for="ctl00_FilterSignIn_Password" id="ctl00_FilterSignIn_PasswordLabel">Password:</label></td>
-                                                                        <td align="left">
-                                                                            <input name="ctl00$FilterSignIn$Password" type="password" maxlength="32" id="ctl00_FilterSignIn_Password" tabindex="2" onkeypress="return clickButton(event,'ctl00_FilterSignIn_LoginButton');">
-                                                                            &nbsp;</td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td align="right" class="PanelText">Remember&nbsp;me:</td>
-                                                                        <td align="left">
-                                                                            <input id="ctl00_FilterSignIn_RememberMe" type="checkbox" name="ctl00$FilterSignIn$RememberMe" checked="checked" tabindex="3">
-                                                                            
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td align="center" colspan="2" class="LoginError">
-                                                                            <span id="ctl00_FilterSignIn_FailureText"><font color="White"></font></span>
-                                                                            <div id="ctl00_FilterSignIn_UpdateProgress1" style="display:none;">
-				
-                                                                                    <span style="font-weight: bold; color: #000000;">Signing in... please wait a moment</span>
-                                                                                
-			</div> 
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>&nbsp;</td>                                                                       
-                                                                        <td align="left">
-                                                                            <input type="submit" name="ctl00$FilterSignIn$LoginButton" value="Sign In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FilterSignIn$LoginButton&quot;, &quot;&quot;, true, &quot;FilterSignIn&quot;, &quot;&quot;, false, false))" id="ctl00_FilterSignIn_LoginButton" tabindex="4" border="1">
-                                                                                
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td colspan="2" valign="bottom">
-                                                                            <hr align="center" width="90%" color="#003300">
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td colspan="2" align="left" class="PanelInformationText">
-                                                                            <b style="color:White;">Forgotten your password?</b><br>
-                                                                            Enter your email address in the box above then 
-                                                                            <a id="ctl00_FilterSignIn_PasswordRecoveryLink" href="javascript:__doPostBack('ctl00$FilterSignIn$PasswordRecoveryLink','')">click here</a> 
-                                                                            and we'll send it to you.
-                                                                            
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td colspan="2" valign="top" class="PanelText">
-                                                                            
-                                                                            <hr align="center" width="90%" color="#000000">
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td align="left" colspan="2" class="PanelHeadText">
-                                                                            <span id="ctl00_FilterSignIn_lbl1" style="color:White;">Don’t have a Filter account yet? </span>
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td align="left" colspan="2" class="PanelInformationText">
-                                                                            <a href="download.aspx" class="LoginPanelLink">Find out what The Filter is all about
-                                                                                and get it today..</a>
-                                                                        </td>
-                                                                    </tr>
-                                                                </tbody></table>
-                                                            </td>
-                                                        </tr>
-                                                    </tbody></table>
-                                                </td>
-		</tr>
-	</tbody></table>
-                                            
-                                            
-                                            
-                                            
-                                        </td>
-                                    </tr>
-                                </tbody></table>
-                            
-                    
-</div>
-            </div>
-            <table width="100%" height="151px" align="center" border="0" cellspacing="0" style="background-color: #089cd3;">
-                <tbody><tr>
-                    <td style="background-image: url(FilterImages/footer_back.gif); background-repeat: repeat-x;">
-                    </td>
-                    <td style="background-image: url(FilterImages/footer.gif); background-repeat: no-repeat;
-                        background-position: center;" width="934px" align="center" valign="bottom">
-                        <p class="footer" style="margin-bottom: 5px; color: #ffffff;">
-                            <a href="about.aspx" title="About The Filter" class="footerLinks">About</a> | <a href="eula.aspx" title="EULA" class="footerLinks">EULA</a> | <a href="privacy.aspx" title="Privacy Policy" class="footerLinks">Privacy Policy</a>
-                            | <a href="contactus.aspx" class="footerLinks" title="How to contact The Filter">Contact</a> | <a href="http://blog.thefilter.com" target="_blank" class="footerLinks" title="The Filter Blog">Blog</a></p>
-                    </td>
-                    <td style="background-image: url(FilterImages/footer_back.gif); background-repeat: repeat-x;">
-                    </td>
-                </tr>
-            </tbody></table>
-        
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDgK/67/uCAKxjuulDwKxjPb7DAKJ45jdDwLurvWkBgLU6bDMCQKa+4u4CAKX/Ji9BgK21NrNAwKKhK6EAgLu9+nsDgL/lb3wBwKlu5vIAwLp+pGVDdxI4OOuG1hL8vEaQ7Cp5Ayu+ErB">
+        </div>
+        <a name="top">
+        </a><form name="aspnetForm" method="post" action="/Privacy/default.aspx?" id="aspnetForm"><a name="top">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPZwUPOGNiMmU0MDRjMTg0ZDMwrZOLfTrRbbWOUgy5S69lJpfFNp8=">
+
 
 <script type="text/javascript">
 //<![CDATA[
+function NavBroker(commandString){ if(typeof(nav) !== 'undefined') { var t=setTimeout(commandString, 1); } }//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=EWJv_q487dXZaHWFhbj-9Jq8QQ_5840bVHBAD6_Lf_ldjFX5ZthdOLhnDaLFz9KT82pbfuK7qd4_3xAM2DCtfwPJwpKQxNDH2qgiw9-g-p01&amp;t=ffffffffd3c1a976" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=nJ51MK2EIwZKzBotM6pc5550LggUiqMa3bXq_zBxqPg-9LrtpCuHz5tHGN-H5Rmagqgb_Rdqk3QHI3CPnJW5m1TSY44EfFSOrmdWfitH3CskI-sB7Ko8lF44Ot3ZiyRDwOlQMwO-dHc99cmePtZVw-AOSioB93U1Lxr6_mHFtZaJTx0ISXicmfrfDZPjMxjpQzmhgiT9SuQMO4nA7m0mxLI1mvJLrTEneORX8sxlLwZ_0RAZZdFUJdwjyiMcmzhLv_PbPY7P2c2zxzX3N_qh3qlDKlaqYl4uIC-ARVnccbFYg2cf0J6r4EC84M4Va3msYcDbhw3TUxbjMZj3xgc_Di7u9XBgDu68q-6Ozpa42mn3diK_11S_pfkhYzVLaDEm46bYXwiMuJuqB-ura_3MWnl9MPRj6Z7cxky8E7zgCFWr6MTGYbpENrMfGv5G91Q6GdUxpDTlqlAAi67g8_7o8qAEraoS7pnV6R2J4DTcTtDuwwjcAmCm4HqPC5Bp4dkdbPhletlOurTYvtMP-oyGCwBWziq4hvFyuqkEnskklNg1&amp;t=894ff95ee116721" type="text/javascript"></script>
+<script src="../App_WebServices/ItemRating.asmx/js" type="text/javascript"></script>
+<script src="../App_WebServices/PlayActivity.asmx/js" type="text/javascript"></script>
+<script src="../App_WebServices/ControlRenderingService.asmx/js" type="text/javascript"></script>
+<script src="../App_WebServices/BackgroundPicker.asmx/js" type="text/javascript"></script>
+<script src="../App_WebServices/DNAUsers.asmx/js" type="text/javascript"></script>
+<script src="../App_WebServices/Messaging.asmx/js" type="text/javascript"></script>
+<script src="../App_WebServices/UserSettings.asmx/js" type="text/javascript"></script>
+            <input type="hidden" name="ctl00$Page_ScriptManager" id="ctl00_Page_ScriptManager">
+
+            <script language="javascript" type="text/javascript">
+                
+                var ApplicationLoaded = false;
+
+                // Initialize a queue
+                var ApplicationPostbackQueue = new Array();
+                var ApplicationPostbackQueueFields = new Array();
+                                       
+                function ApplicationLoadHandler(sender, args)
+                {
+                    ApplicationLoaded = true;
+                    
+                    var prm = Sys.WebForms.PageRequestManager.getInstance();
+                    
+                    if (!prm.get_isInAsyncPostBack())
+                    {
+                        prm.add_initializeRequest(PageInitializeRequest);
+                        prm.add_pageLoading(PageLoadingHandler);
+                        prm.add_pageLoaded(PageLoadedHandler);
+                        prm.add_endRequest(PageCompleteRequest);
+
+                        //Run the complete request for any queued requests
+                        PageCompleteRequest(null, null);
+                    }
+                }
+                
+                //Set up request handlers when app has loaded
+                Sys.Application.add_load(ApplicationLoadHandler);       
+                
+                //Fires when a request is Initialsed.
+                function PageInitializeRequest(sender, args) {
+                    var prm = Sys.WebForms.PageRequestManager.getInstance();
+                    var postbackElement = args.get_postBackElement();
+
+                    // If it's working on another request, queue the current item that caused the request
+                    if (prm.get_isInAsyncPostBack()) {
+                        args.set_cancel(true);
+                        Array.add(ApplicationPostbackQueue, postbackElement);
+                        Array.add(ApplicationPostbackQueueFields, null);
+                    }
+                    else {
+                        Global_PositionUpdateProgress(postbackElement);
+                        Global_UpdateProgressShowHide(true);
+                    }
+                }
+                
+                //Fires when a response is returned from the server
+                function PageLoadingHandler()
+                {              
+                    Global_UpdateProgressShowHide(false);     
+                }
+                
+                //Fires when the page is updated
+                function PageLoadedHandler() {
+
+                }
+                
+                //Fires when a request has been completed. If a request is queued it will trigger postback.
+                function PageCompleteRequest(sender, args)
+                { 
+                    //Reset busy icon to visible for next request
+                    $get('UpdateProgressContentPanel').style.display = "block";
+                
+                    if(ApplicationPostbackQueue.length > 0)
+                    {
+                        // fire correspond event again of the item cached
+                        if(ApplicationPostbackQueueFields[0]!=null)
+                        {
+                            if($get(ApplicationPostbackQueueFields[0].id).value != "True")
+                            {
+                                $get('UpdateProgressContentPanel').style.display = "none"; //Busy icon not visible for first postback of post render controls
+                            }
+                            $get(ApplicationPostbackQueueFields[0].id).value = "True"; //Post render control tracks state in hidden field
+                        }
+                        $get(ApplicationPostbackQueue[0].id).click();  
+                                 
+                        Array.removeAt(ApplicationPostbackQueue, 0);
+                        Array.removeAt(ApplicationPostbackQueueFields, 0);
+                    }
+                }
+                
+                //Cancels in-progress Async Postback
+                function CancelAsyncPostBack() 
+                { 
+                    if (prm.get_isInAsyncPostBack()) {
+                      prm.abortPostBack();
+                    }
+                }
+                
+                //Page Start-Up Routines
+                var agt         = navigator.userAgent.toLowerCase();  
+                var is_major    = parseInt(navigator.appVersion);
+                var is_ie       = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+                var is_ie6      = (is_ie && (is_major == 4) && (agt.indexOf("msie 6.")!=-1) );
+                
+                if(is_ie6)
+                {
+                    setInterval("PositionShowPlayerButtonContainer();", 100);
+                }
+                
+                function PositionShowPlayerButtonContainer()
+                {
+                   $get('ShowPlayerButtonContainer').style.bottom = '0px';
+                }
+
+                document.onmousemove = Global_GetMouseCoordinates;
+
+                //Page OnLoad functions
+                
+                function PageOnLoad() {
+                    if (Global_IsPlayerWindowOpen()) {
+                        Global_DisplayShowPlayerButton();
+                    }
+                }              
+
+                function callMe(message) {
+                    alert(message);
+                }
+
+                Global_AddEvent(window, 'load', PageOnLoad);
+            </script>
+            </a><div id="Page_Container"><a name="top">
+                <div id="UpdateProgress">
+                    <div id="UpdateProgressContent">
+                        <div id="UpdateProgressCoverPanel"></div>
+                        <div id="UpdateProgressContentPanel"><img id="ctl00_UpdateProgressContentPanelImage" src="../images/UpdateProgress/loading.gif" border="0"><br><br><span id="ctl00_UpdateProgressContentPanelText">Updating</span></div>
+                    </div>
+                </div>
+                </a><div id="ctl00_Navigation" class="Navigation"><a name="top">
+	</a><div class="Navigation_HeaderPanel" onmouseover="NavBroker('nav.ShowSelectedSection()')"><a name="top">
+		</a><a href="/" id="ctl00_Navigation_ctl01" class="Navigation_Logo"><img title="Home" src="/images/Navigation/LogoBeta.gif" border="0"></a><div class="NavigationUserActionsPanel">
+			<a href="/Register?origin=navtop" id="ctl00_Navigation_ctl03" class="NavigationSubLink_Anon">Register</a><a href="/LogIn?ref=%7e%2fPrivacy%2fdefault.aspx" id="ctl00_Navigation_ctl04" class="NavigationSubLink_Anon">Log&nbsp;In</a><a href="/Help/" id="ctl00_Navigation_ctl05" class="NavigationSubLinkNoDivider_Anon">Help</a>
+		</div><div class="Navigation_SearchPanel">
+			<div id="ctl00_Navigation_NavigationSearchControl" class="Navigation_SearchControl">
+				<div class="Search">
+					<div id="ctl00_Navigation_NavigationSearchControl_SearchUpdatePanel">
+						<div id="ctl00_Navigation_NavigationSearchControl_SearchPanel">
+							<span id="ctl00_Navigation_NavigationSearchControl_SearchLabel" class="SearchLabel">Search</span><select name="ctl00$Navigation$NavigationSearchControl$SearchCategoryDropDown" id="ctl00_Navigation_NavigationSearchControl_SearchCategoryDropDown" class="SearchCategorySelection">
+								<option value="Artist">Artists</option>
+								<option value="MusicRelease">Albums</option>
+								<option value="Track">Songs</option>
+								<option value="Movie">Movies</option>
+								<option value="Director">Directors</option>
+								<option value="Actor">Actors</option>
+								<option value="User">Users</option>
+
+							</select><span id="ctl00_Navigation_NavigationSearchControl_SearchForLabel" class="SearchLabel">For</span><input name="ctl00$Navigation$NavigationSearchControl$SearchTextBox" type="text" id="ctl00_Navigation_NavigationSearchControl_SearchTextBox" class="SearchTextBox"><input type="image" name="ctl00$Navigation$NavigationSearchControl$SearchSubmitButton" id="ctl00_Navigation_NavigationSearchControl_SearchSubmitButton" title="Go" class="SearchSubmitButton" src="../images/Search/en/search_go.gif" alt="Go" border="0">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div><div id="ctl00_Navigation_PageSectionNavigationPanel" class="Navigation_PageSectionNavigation">
+		<div id="ctl00_Navigation_NavSections" class="Navigation_SectionsPanel" onmouseover="Navigation_HidSubNavPointer('ctl00_Navigation_SubNavPointer');">
+			<div id="ctl00_Navigation_NavSection__" class="Navigation_Tab" onmouseover="NavBroker('nav.ShowSelectedSection()')">
+				<a href="/" id="ctl00_Navigation_NavLink__"><img title="Home" src="../images/Navigation/home_selected.gif" border="0"></a>
+			</div><div id="ctl00_Navigation_NavSection__Music_Default_aspx" class="Navigation_Tab" onmouseover="NavBroker(&quot;nav.ShowSubNav(this, 'ctl00_Navigation_SubNavPanel__Music_Default.aspx', 'ctl00_Navigation_NavLink__Music_Default_aspx', '../images/Navigation/music_off.gif', '../images/Navigation/music_rollover.gif')&quot;)">
+				<a href="/Music" id="ctl00_Navigation_NavLink__Music_Default_aspx"><img title="Music" src="../images/Navigation/music_off.gif" border="0"></a>
+			</div><div id="ctl00_Navigation_NavSection__Movies_Default_aspx" class="Navigation_Tab" onmouseover="NavBroker(&quot;nav.ShowSubNav(this, 'ctl00_Navigation_SubNavPanel__Movies_Default.aspx', 'ctl00_Navigation_NavLink__Movies_Default_aspx', '../images/Navigation/movies_off.gif', '../images/Navigation/movies_rollover.gif')&quot;)">
+				<a href="/Movies" id="ctl00_Navigation_NavLink__Movies_Default_aspx"><img title="Movies" src="../images/Navigation/movies_off.gif" border="0"></a>
+			</div><div id="ctl00_Navigation_NavSection__Webvideo_Default_aspx" class="Navigation_Tab" onmouseover="NavBroker(&quot;nav.ShowSubNav(this, 'ctl00_Navigation_SubNavPanel__Webvideo_Default.aspx', 'ctl00_Navigation_NavLink__Webvideo_Default_aspx', '../images/Navigation/webvideo_off.gif', '../images/Navigation/webvideo_rollover.gif')&quot;)">
+				<a href="/Webvideo" id="ctl00_Navigation_NavLink__Webvideo_Default_aspx"><img title="Web Video" src="../images/Navigation/webvideo_off.gif" border="0"></a>
+			</div>
+		</div><div id="ctl00_Navigation_NavSubs" class="SubNavigation">
+			<div id="ctl00_Navigation_SubNavPanel__" class="SubNavigation_TabsPanel_Selected" onmouseover="Navigation_ShowSubNavPointer();" style="display:block;">
+				<div id="ctl00_Navigation_SubNavTab" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/" id="ctl00_Navigation_ctl07">Home</a>
+				</div><div id="ctl00_Navigation_SubNavTab_Register" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/Register?origin=subnav" id="ctl00_Navigation_ctl08">Register</a>
+				</div><div id="ctl00_Navigation_SubNavTab_Login" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/Login" id="ctl00_Navigation_ctl09">Log In</a>
+				</div><div id="ctl00_Navigation_SubNavTab_MyFilter_Tools" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/MyFilter/Tools" id="ctl00_Navigation_ctl10">Tools</a>
+				</div><div class="SubNavigation_Tab_EndPanel">
+
+				</div><a href="/Register?origin=nav" id="ctl00_Navigation_ctl12" class="SubNavigation_ActionLink">Register! Get your recommendations personalised</a>
+			</div><div id="ctl00_Navigation_SubNavPanel__Music_Default.aspx" class="SubNavigation_TabsPanel_Rollover">
+				<div id="ctl00_Navigation_SubNavTab_Music" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/Music" id="ctl00_Navigation_ctl13">Music: Filtered For You</a>
+				</div><div id="ctl00_Navigation_SubNavTab_Music_ExploreGenres" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/Music/ExploreGenres" id="ctl00_Navigation_ctl14">Explore Genres</a>
+				</div><div id="ctl00_Navigation_SubNavTab_MyFilter_Music_Played" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/MyFilter/Music/Played" id="ctl00_Navigation_ctl15">Played Music</a>
+				</div><div id="ctl00_Navigation_SubNavTab_MyFilter_Music_Rated" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/MyFilter/Music/Rated" id="ctl00_Navigation_ctl16">Rated Music</a>
+				</div><div id="ctl00_Navigation_SubNavTab_MyFilter_Music_Saved" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/MyFilter/Music/Saved" id="ctl00_Navigation_ctl17">Saved Music</a>
+				</div><div class="SubNavigation_Tab_EndPanel">
+
+				</div>
+			</div><div id="ctl00_Navigation_SubNavPanel__Movies_Default.aspx" class="SubNavigation_TabsPanel_Rollover">
+				<div id="ctl00_Navigation_SubNavTab_Movies" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/Movies" id="ctl00_Navigation_ctl19">Movies: Filtered For You</a>
+				</div><div id="ctl00_Navigation_SubNavTab_Movies_ExploreGenres" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/Movies/ExploreGenres" id="ctl00_Navigation_ctl20">Explore Genres</a>
+				</div><div id="ctl00_Navigation_SubNavTab_MyFilter_Movies_Rated" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/MyFilter/Movies/Rated" id="ctl00_Navigation_ctl21">Rated Movies</a>
+				</div><div id="ctl00_Navigation_SubNavTab_MyFilter_Movies_Saved" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/MyFilter/Movies/Saved" id="ctl00_Navigation_ctl22">Saved Movies</a>
+				</div><div class="SubNavigation_Tab_EndPanel">
+
+				</div>
+			</div><div id="ctl00_Navigation_SubNavPanel__Webvideo_Default.aspx" class="SubNavigation_TabsPanel_Rollover">
+				<div id="ctl00_Navigation_SubNavTab_Webvideo" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/Webvideo" id="ctl00_Navigation_ctl24">Web Video: Filtered For You</a>
+				</div><div id="ctl00_Navigation_SubNavTab_MyFilter_Webvideo_Played" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/MyFilter/Webvideo/Played" id="ctl00_Navigation_ctl25">Played Web Videos</a>
+				</div><div id="ctl00_Navigation_SubNavTab_MyFilter_Webvideo_Rated" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/MyFilter/Webvideo/Rated" id="ctl00_Navigation_ctl26">Rated Web Videos</a>
+				</div><div id="ctl00_Navigation_SubNavTab_MyFilter_Webvideo_Saved" class="SubNavigation_Tab_UnSelected" onmouseout="this.className='SubNavigation_Tab_UnSelected'" onmouseover="this.className='SubNavigation_Tab_Rollover'">
+					<a href="/MyFilter/Webvideo/Saved" id="ctl00_Navigation_ctl27">Saved Web Videos</a>
+				</div><div class="SubNavigation_Tab_EndPanel">
+
+				</div>
+			</div>
+		</div>
+	</div><div id="ctl00_Navigation_SubNavTabsPointerPanel" class="Navigation_SubNavPointerPanel">
+		<img id="ctl00_Navigation_SubNavPointer" class="Navigation_SubNavPointer" src="../images/Navigation/submenupointer_selected.gif" border="0">
+	</div>
+</div>
+                <div id="Page_Content" onmouseover="NavBroker('nav.ShowSelectedSection()');">
+                    <h1>Privacy</h1>
+                    
+
+
+<div id="ctl00_ContentPlaceHolder_PrivacyContentPanel" class="Box_NoBorderPadded">
+	
+    <div id="ctl00_ContentPlaceHolder_PrivacyTitle" class="Global_TitleControl">
+		privacy policy for your protection
+	</div>
+    <span id="ctl00_ContentPlaceHolder_PrivacyContent"><b>This privacy policy covers the collection and use of personal information that Exabre Limited, the owner of The Filter, may collect and interact with The Filter, such as when you visit our website or when you call our support associates.</b><p>Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at Exabre, and we go to great lengths to protect it.</p><p><b>Why we collect personal information</b></p><p>Why do we collect your personal information? We do this for three reasons:</p><p></p><ol><li>Because your personal information is necessary for us to deliver a superior level of product functionality and customer service. The Filter thrives off the ability to collect, analyze, compare and recommend the best digital entertainment for you. It enables us to give you convenient access to our products and services.</li><li>Your personal information helps us keep you posted on community activity and the latest Filter announcements, which you might like to hear about.</li><li>In order to improve our service/offer additional functionality in the future.</li></ol><p>The entry of personal data on this site is completely optional and will require you to setup an account with a password. We also ask you for additional information in your profile page to help us improve our service and understand our customers better.</p><p><b>What information we collect</b></p><p>There are a number of situations in which your personal information may help us give you better service. For example, we may ask for your personal information when you're discussing a service issue on the phone with an associate. At such times, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences.</p><p>We also collect information regarding customer activities on our website and on related websites. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites and Internet services are of most interest to them.</p><p>We may use information about your digital entertainment behavior as a collective community but this will be done anonymously. We also ask for other information regarding your demographics and ask you to choose an online store etc for your convenience and for the reasons above. This information is not shared with anyone but used for your benefit and profiling of our userbase.</p><p><b>When we disclose your information</b></p><p>Exabre takes your privacy very seriously. Be assured that Exabre <b>does not</b> sell or rent your contact information to other marketers. To help us provide superior service, your personal information may be shared with legal entities within the Exabre group globally who will safeguard it in accordance with Exabre's privacy policy. There are also times when it may be advantageous for Exabre to make certain personal information about you available to companies that Exabre has a strategic relationship with or that perform work for Exabre to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service or assess your interest in our products and services. These companies are also obligated to protect your personal information in accordance with Exabre's policies. Without such information being made available, it would be difficult for you to have products delivered to you, receive customer service, provide us feedback to improve our products and services, or access certain services, offers, and content on The Filter website.</p><p>At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is absolutely necessary.</p><p><b>How we protect your personal information</b></p><p>Exabre takes precautions including administrative, technical, and physical measures to safeguard your personal information against loss, theft, and misuse, as well as un-authorized access, disclosure, alteration, and destruction. You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser.</p><p><b>Integrity of your personal information</b></p><p>Exabre has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. Naturally, you always have the right to access and correct the personal information you have provided. You can request a copy of your personal information, your product registration history, and your interactions with The Filter by contacting us at the email address below.</p><p><b>Cookies and other technologies</b></p><p>As is standard practice on many corporate websites, The Filter's website may use 'cookies' and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We may also use cookies and other technologies to make sure that any online advertising is bringing customers to our products, such as The Filter. We may also use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. Finally, we use cookies to customize your experience and provide greater convenience each time you interact with us.</p><p>As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</p><p>We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users movements around the site and to gather demographic information about our user base as a whole. Exabre will not use the information collected to market directly to that person.</p><p>In some of our email messages we use a click-through URL linked to content on The Filter website. When a customer clicks one of these URLs, they pass through our web server before arriving at the destination web page. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.</p><p><b>Our commitment to your privacy</b></p><p>Exabre takes protecting your privacy very seriously. To make sure your personal information is secure, we communicate these guidelines to our employees and strictly enforce privacy safeguards within the company.</p><p>The Filter's website has links to the sites of other companies. Exabre is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.</p><p><b>Privacy questions</b></p><p>If you have questions or concerns about Exabre's Customer Privacy Policy or data processing, please use the email address to contact us. The Filter Administrator will respond to your inquiry within 20 days. Exabre may update its privacy policy from time to time. When we change the policy in a material way a notice will be posted on our website along with the updated privacy policy.</p><p>If you have questions or concerns about Exabre's collection, use, or disclosure of your personal information, please email us at <a href="mailto:support@thefilter.com">support@thefilter.com</a>
+
+</p></span></div>
+
+                </div>
+                <div style="width:980px; background-color:White; height:70px;">
+                <div id="ctl00_Bottom_Banner_AllPages" class="GoogleAdManagerAdControl">
+	<script language="JavaScript">GA_googleFillSlot("Bottom_Banner_AllPages");</script>
+</div>    
+                </div>
+            </div>
+            <div id="Footer">
+                <div id="Footer_Container">
+                    <div id="Footer_Main">
+                        <div class="FloatedChildren">
+                            <div class="FooterRecentActivity">
+                                
+                            </div>
+                            <div class="FooterSiteMap">
+                                <div class="Footer_SiteMapTitle">
+                                    site map
+                                </div>
+                                <div id="ctl00_SiteMap" class="SiteMap">
+	<div id="ctl00_SiteMap_DiscoverPanel" class="DiscoverPanel">
+		<span id="ctl00_SiteMap_DiscoverLabel" class="SiteMapSubHeader">Discover</span><a href="/" id="ctl00_SiteMap_StartPageLink" class="SiteMapLink">Home</a><a href="/Music" id="ctl00_SiteMap_MusicPageLink" class="SiteMapLink">Music</a><a href="/Movies" id="ctl00_SiteMap_MoviePageLink" class="SiteMapLink">Movie</a><a href="/WebVideo" id="ctl00_SiteMap_WebclipsLink" class="SiteMapLink">Web Videos</a><a href="/TV" id="ctl00_SiteMap_TVLinK" class="SiteMapLink">TV</a>
+	</div><div id="ctl00_SiteMap_ProfilePanel" class="ProfilePanel">
+		<span id="ctl00_SiteMap_ProfileLabel" class="SiteMapSubHeader">You</span><a href="/MyFilter/Inbox" id="ctl00_SiteMap_InboxLink" class="SiteMapLink">Inbox</a><a href="/MyFilter/Friends" id="ctl00_SiteMap_FriendsLink" class="SiteMapLink">Friends</a><a href="/MyFilter/Tools" id="ctl00_SiteMap_DownloadLink" class="SiteMapLink">Download The Filter plug-in</a><a href="/MyFilter/Improve" id="ctl00_SiteMap_ImproveRecommendationsLink" class="SiteMapLink">Improve Recommendations</a>
+	</div><div id="ctl00_SiteMap_HelpPanel" class="HelpPanel">
+		<span id="ctl00_SiteMap_HelpLabel" class="SiteMapSubHeader">Stuff</span><a href="http://blog.thefilter.com" id="ctl00_SiteMap_PressLink" class="SiteMapLink">Press</a><a href="http://forum.thefilter.com/forums/default.aspx" id="ctl00_SiteMap_ForumLink" class="SiteMapLink" target="Forum">Support Forum</a><a href="http://blog.thefilter.com/" id="ctl00_SiteMap_BlogLink" class="SiteMapLink" target="Blog">Blog</a><a href="/AboutUs/" id="ctl00_SiteMap_AboutUsLink" class="SiteMapLink">About Us</a><a href="/ContactUs/" id="ctl00_SiteMap_ContactLink" class="SiteMapLink">Contact Us</a><a href="/Privacy/" id="ctl00_SiteMap_PrivacyLink" class="SiteMapLink">Privacy</a><a href="/Terms/" id="ctl00_SiteMap_TermsAndConditionsLink" class="SiteMapLink">Terms And Conditions</a><a href="/MyFilter/Tools" id="ctl00_SiteMap_ToolsLink" class="SiteMapLink">Tools</a>
+	</div>
+</div>
+                            </div>
+                            <div class="FooterSiteBackgroundPickerControl">
+                                <span id="ctl00_FooterSiteBackgroundPickerControl"><div id="ctl00_FooterSiteBackgroundPickerControl_BackgroundImageUpdatePanel">
+	<div><div class="BackgroundImageControlTitle">choose background</div><ul class="BackgroundImageControlList"><li onclick="window.BackgroundPickerControl1.switchBackground(0,&quot;/images/pageBackgrounds/Wood.jpg&quot;)"><img src="/images/pageBackgrounds/thumbs/Wood.jpg" alt="Wood" border="0"><span>Wood</span></li><li onclick="window.BackgroundPickerControl1.switchBackground(1,&quot;/images/pageBackgrounds/grass.jpg&quot;)"><img src="/images/pageBackgrounds/thumbs/grass.jpg" alt="Grass" border="0"><span>Grass</span></li><li onclick="window.BackgroundPickerControl1.switchBackground(2,&quot;/images/pageBackgrounds/Flower.jpg&quot;)"><img src="/images/pageBackgrounds/thumbs/Flower.jpg" alt="Flower" border="0"><span>Flower</span></li><li onclick="window.BackgroundPickerControl1.switchBackground(3,&quot;/images/pageBackgrounds/blur.jpg&quot;)"><img src="/images/pageBackgrounds/thumbs/blur.jpg" alt="Sparkle" border="0"><span>Sparkle</span></li></ul></div>
+</div></span>
+                            </div>
+                        </div>
+                        <table width="100%">
+                            <tbody><tr>
+                                <td width="33%"><div id="ctl00_Bottom_LeftButton_AllPages" class="GoogleAdManagerAdControl">
+	<script language="JavaScript">GA_googleFillSlot("Bottom_LeftButton_AllPages");</script>
+</div></td>
+                                <td><div id="ctl00_Bottom_MiddleButton_AllPages" class="GoogleAdManagerAdControl">
+	<script language="JavaScript">GA_googleFillSlot("Bottom_MiddleButton_AllPages");</script>
+</div></td>
+                                <td width="33%"><div id="ctl00_Bottom_RightButton_AllPages" class="GoogleAdManagerAdControl">
+	<script language="JavaScript">GA_googleFillSlot("Bottom_RightButton_AllPages");</script>
+</div></td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </div>
+                <div id="Footer_Bottom">
+                    <div id="Footer_LeftCorner"></div>
+                    <div id="Footer_Copyright">
+                            ©The Filter 2008.Powered by 
+                            <img id="ctl00_MuzeLogo" src="../images/footer/en/muze_logo.jpg" border="0">
+                             and 
+                            <img id="ctl00_AMGLogo" src="../images/footer/en/amg_logo.jpg" border="0">
+                            ©1992 - 2008 All Media Guide, LLC Portions of content provided by All Music Guide, a trademark of All Media Guide, LLC. 
+                    </div>
+                    <div id="Footer_RightCorner"></div>
+                </div>
+            </div>
+            <div id="Footer_Spacer">&nbsp;&nbsp;</div>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+var g_id ='dcswokuq300000cdelwtdtzpj_4m5e';var g_domain ='sdc.thefilter.com';var dcsInit=new DcsInit();InitialiseWT();var nav = new Navigation('ctl00_Navigation_PageSectionNavigationPanel','ctl00_Navigation_SubNavPanel__');
+Sys.Application.setServerId("ctl00_Page_ScriptManager", "ctl00$Page_ScriptManager");
+
 Sys.Application.initialize();
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.Animation.AnimationBehavior, {"OnClick":"{\"AnimationName\":\"Sequence\",\"AnimationChildren\":[{\"AnimationName\":\"EnableAction\",\"Enabled\":\"false\",\"AnimationChildren\":[]},{\"AnimationName\":\"ScriptAction\",\"Script\":\"Cover($get(\\u0027ctl00_Image3\\u0027), $get(\\u0027flyoutFeedBack\\u0027));\",\"AnimationChildren\":[]},{\"AnimationName\":\"StyleAction\",\"AnimationTarget\":\"flyoutFeedBack\",\"Attribute\":\"display\",\"Value\":\"block\",\"AnimationChildren\":[]},{\"AnimationName\":\"Parallel\",\"AnimationTarget\":\"flyoutFeedBack\",\"Duration\":\".3\",\"Fps\":\"25\",\"AnimationChildren\":[{\"AnimationName\":\"Move\",\"Horizontal\":\"-250\",\"Vertical\":\"50\",\"AnimationChildren\":[]},{\"AnimationName\":\"Resize\",\"Width\":\"327\",\"Height\":\"339\",\"AnimationChildren\":[]},{\"AnimationName\":\"Color\",\"AnimationTarget\":\"flyoutFeedBack\",\"StartValue\":\"#AAAAAA\",\"EndValue\":\"#FFFFFF\",\"Property\":\"style\",\"PropertyKey\":\"backgroundColor\",\"AnimationChildren\":[]}]},{\"AnimationName\":\"ScriptAction\",\"Script\":\"Cover($get(\\u0027flyoutFeedBack\\u0027), $get(\\u0027infoFeedBack\\u0027), true);\",\"AnimationChildren\":[]},{\"AnimationName\":\"StyleAction\",\"AnimationTarget\":\"infoFeedBack\",\"Attribute\":\"display\",\"Value\":\"block\",\"AnimationChildren\":[]},{\"AnimationName\":\"FadeIn\",\"AnimationTarget\":\"infoFeedBack\",\"Duration\":\".2\",\"AnimationChildren\":[]},{\"AnimationName\":\"StyleAction\",\"AnimationTarget\":\"flyoutFeedBack\",\"Attribute\":\"display\",\"Value\":\"none\",\"AnimationChildren\":[]},{\"AnimationName\":\"StyleAction\",\"AnimationTarget\":\"infoFeedBack\",\"Attribute\":\"height\",\"value\":\"auto\",\"AnimationChildren\":[]}]}","OnLoad":"{\"AnimationName\":\"OpacityAction\",\"AnimationTarget\":\"infoFeedBack\",\"Opacity\":\"0\",\"AnimationChildren\":[]}","id":"ctl00_AnimationExtSendFeedBack1"}, null, null, $get("ctl00_Image3"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.Animation.AnimationBehavior, {"OnClick":"{\"AnimationName\":\"Sequence\",\"AnimationChildren\":[{\"AnimationName\":\"StyleAction\",\"AnimationTarget\":\"infoFeedBack\",\"Attribute\":\"overflow\",\"Value\":\"hidden\",\"AnimationChildren\":[]},{\"AnimationName\":\"Parallel\",\"AnimationTarget\":\"infoFeedBack\",\"Duration\":\".3\",\"Fps\":\"15\",\"AnimationChildren\":[{\"AnimationName\":\"Scale\",\"ScaleFactor\":\"0.05\",\"Center\":\"true\",\"ScaleFont\":\"true\",\"FontUnit\":\"px\",\"AnimationChildren\":[]},{\"AnimationName\":\"FadeOut\",\"AnimationChildren\":[]}]},{\"AnimationName\":\"StyleAction\",\"AnimationTarget\":\"infoFeedBack\",\"Attribute\":\"display\",\"Value\":\"none\",\"AnimationChildren\":[]},{\"AnimationName\":\"StyleAction\",\"AnimationTarget\":\"infoFeedBack\",\"Attribute\":\"width\",\"Value\":\"327px\",\"AnimationChildren\":[]},{\"AnimationName\":\"StyleAction\",\"AnimationTarget\":\"infoFeedBack\",\"Attribute\":\"height\",\"Value\":\"\",\"AnimationChildren\":[]},{\"AnimationName\":\"StyleAction\",\"AnimationTarget\":\"infoFeedBack\",\"Attribute\":\"fontSize\",\"Value\":\"12px\",\"AnimationChildren\":[]},{\"AnimationName\":\"EnableAction\",\"AnimationTarget\":\"ctl00_Image3\",\"Enabled\":\"true\",\"AnimationChildren\":[]}]}","id":"ctl00_AnimationExtSendFeedBack2"}, null, null, $get("ctl00_btnCloseFeedback"));
-});
 //]]>
 </script>
 </form>
-    </center>
+        <!-- Google Tracking Code -->
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); 
+        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            var pageTracker = _gat._getTracker("UA-1144680-1");
+            pageTracker._initData();
+            pageTracker._trackPageview(); 
+        </script> 
+        <!-- End Google Tracking Code -->
+        <noscript><div>
+            <img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://sdc.thefilter.com/dcswokuq300000cdelwtdtzpj_4m5e/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/>
+        </div></noscript>
+    
 
 
+<script type="text/javascript" language="JavaScript">
+    document.body.onscroll = function() { PositionShowPlayerButtonContainer(); };
+</script>
 </body></html>
