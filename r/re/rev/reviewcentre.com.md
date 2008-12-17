@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2007-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070812231739id_/http%3A//www.reviewcentre.com/ct49.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217170209id_/http%3A//www.reviewcentre.com/ct49.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,17 +25,17 @@ This policy does not tell users where they can go to exercise their opt-in or op
 You may contact us by :
 
   * Email [contact us](https://web.archive.org/ct11.html) forms.
-  * Telephone +44(0)1457 833 444
-  * Fax +44(0)1457 839 923
   * Post
 
 
   * Resource Team Ltd
-  * Premier House
-  * Manchester Road
-  * Mossley
-  * OL59AA
-  * United Kingdom
+  * United Business Centres
+  * 4 Howarth Court
+  * Gateway Crescent
+  * Oldham Broadway Business Park
+  * Oldham   
+OL9 9XB   
+United Kingdom
 
 
 
