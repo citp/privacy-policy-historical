@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firehouse.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624051057id_/http%3A//www.firehouse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firehouse.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141439id_/http%3A//www.firehouse.com/privacy.html) for the most accurate reproduction.*
 
 # Firehouse.com: Privacy Policy
 
