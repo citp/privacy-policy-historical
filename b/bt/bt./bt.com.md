@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bt.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611061434id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteArea%3Dpan) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bt.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021340id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteArea%3Dpan) for the most accurate reproduction.*
 
 # BT.com | Privacy Policy
 
@@ -48,7 +48,7 @@ Return to top
    
 We have developed this policy because we want you to feel confident about the privacy and security of your personal information. BT is registered under the data protection laws in the United Kingdom and takes all reasonable care to prevent any unauthorised access to your personal information.  
 When we refer to "personal information" in this privacy policy, we mean information, which identifies you as an individual, or is capable of doing so. Accordingly, we may hold and use data about you in your capacity as a consumer, a business customer, as an individual acting on behalf of a business customer, as a shareholder, or in any other capacity, for example, when you visit our websites.  
- ** _Please read this privacy policy carefully._** If you are visiting any of our websites or using any our services, by continuing to do so, you indicate your agreement to our use of your personal information as set out in this privacy policy.   
+ ** _Please read this privacy policy carefully._** If you are visiting any of our websites or using any of our services, by continuing to do so, you indicate your agreement to our use of your personal information as set out in this privacy policy.   
    
 Return to top  
    
