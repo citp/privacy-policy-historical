@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pep.ph privacy policy that was archived on 2007-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071217130104id_/http%3A//www.pep.ph/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pep.ph privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217024118id_/http%3A//www.pep.ph/static/privacy) for the most accurate reproduction.-->
 
 <html><head><title>Philippine Entertainment Portal | Privacy</title>
 <script type="text/javascript" src="http://www.pep.ph/js/ufo.js"></script>
@@ -15,6 +15,8 @@
 <link rel="stylesheet" href="http://www.pep.ph/css/cssTree.css" type="text/css">
 <link rel="stylesheet" href="http://www.pep.ph/css/ajaxtabs.css" type="text/css">
 
+<script type="text/javascript" src="http://www.pep.ph/js/flash_detect.js"></script>
+<script type="text/javascript" src="http://www.pep.ph/js/makecall2.js"></script>
 <script type="text/javascript" src="http://www.pep.ph/js/ajax.js"></script>
 <script type="text/javascript" src="http://www.pep.ph/js/jstree.js"></script>
 <script type="text/javascript" src="http://www.pep.ph/js/AjaxLoader.js"></script>	
@@ -37,12 +39,34 @@
 <script type="text/javascript" src="http://www.pep.ph/js/navmenu/chrome.js"> </script>
 
 <script type="text/javascript" src="http://www.pep.ph/js/ajaxtabs.js"></script>
-<script type="text/javascript" src="http://www.pep.ph/js/js.js"></script>
 
 <script type="text/javascript" src="http://www.pep.ph/js/js.js"></script>
-<script type="text/javascript" src="http://www.pep.ph/pep_balloons/pep_balloons.js"> </script>
 <link rel="icon" href="http://www.pep.ph/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.pep.ph/favicon.ico" type="image/x-icon"> 
+
+
+	
+	<script>
+
+	var ran_unrounded=Math.random()*99;
+	var rnd=Math.floor(ran_unrounded);
+
+</script>
+
+
+<script>
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+	}	
+	createCookie('rnd',rnd,1)
+</script>
+
 
 
 
@@ -69,26 +93,52 @@ function bookmark() {
 
 
 </head>
-<body>
+
+<body style="background-color:transparent" onmousedown="whichButton(event)" onkeydown="return noCTRL(event)">
+
+
+
+<!-- ELBC -->
+<div id="testing" style="width:500px; height:300px; position: absolute; top: 95px; left: 374px; z-index: -1;">
+	
+	<script language="javascript" type="text/javascript" src="http://www.pep.ph/js/elbc3.js"></script>
+</div>
+
+<div id="topBanner" style="position: absolute ; top:5px; left:240px;">
+		
+		<script language="javascript" type="text/javascript" src="http://204.2.168.8/deliverjs.nmi?zoneid=0009&amp;sid=0003&amp;account="></script>
+		
+	</div>
 
 <div id="wrapper">
 	<div id="masthead">
 		
-		<embed src="http://contents.pep.ph/images/PEPxmas_logo.swf" height="99" width="240" border="0">
-			</div>
+	<img src="http://www.pep.ph/images/peplogo_no_beta.gif" border="0">
+		</div>
 
 		
 
 		<div id="menubar21">
 			<div class="chromestyle" id="chromemenu">
-		<ul style="margin: 0; padding:0; border:0; padding-top:2px; height:1.8em; list-style-type:none; background: #A0A0A0 url(http://www.pep.ph/images/web/headerbar.gif) left top repeat-x;">
+		<ul style="clear:right;margin: 0; padding:0; border:0; padding-top:2px; height:1.8em; list-style-type:none; background: #A0A0A0 url(http://www.pep.ph/images/web/headerbar.gif) left top repeat-x;">
+      <div style="float:right; text-align:center;">
+        <table><tbody><tr><td valign="middle">
+										<iframe id="a9b234b5" name="a9b234b5" src="http://204.2.168.8/deliver.nmi?sid=0003&amp;ad_id=765&amp;account=home" framespacing="0" frameborder="no" scrolling="no" width="122" height="17"></iframe>
+				</td></tr></tbody></table>
+			</div>
+      <div style="float:right; text-align:center; margin-top: -15px; margin-right: 50px; z-index: 99">
+        <table><tbody><tr><td valign="middle">
+            <a valign="middle" href="http://www.pep.ph/peparazzi" class="listFinal"><img src="http://www.pep.ph/images/peparazzi1.gif" border="0"></a>
+        </td></tr></tbody></table>
+      </div>
 			<li><a href="http://www.pep.ph/">Home</a></li>
 			<li><a href="http://www.pep.ph/news/">News</a></li>
 			<li><a href="http://www.pep.ph/views/" rel="dropmenuViews">Views</a></li>
 			<li><a href="http://www.pep.ph/celeb/" rel="dropmenuCeleb">Celeb Life</a></li>
 			<li><a href="http://www.pep.ph/guide/" rel="dropmenuGuide">Guide</a></li>
 			<li><a href="http://www.pep.ph/media.php" rel="dropmenuMM">Multimedia</a></li>
-			<li><a href="http://www.pep.ph/forum/">Community</a></li>
+			<li><a href="http://www.pep.ph/forum/" rel="dropReact">Community</a></li>
+			<li><a href="http://www.pep.ph/pep_talk.php" onclick="window.open( &quot;http://www.pep.ph/im/impinoy/IM.html&quot;, &quot;imPinoyWindow&quot;, &quot;status = 1, height = 600, width = 270, resizable = 0, location=no, toolbar=no, menubar=no&quot; )">PEP Talk</a></li>
 			<li><a href="http://www.pep.ph/rss/">RSS</a></li>
 			<li><a href="javascript:bookmark();" class="listFinal">Bookmark Us!</a></li>
 		</ul>
@@ -101,6 +151,7 @@ function bookmark() {
 	<a href="http://www.pep.ph/views/features/">Features</a>
 	<a href="http://www.pep.ph/views/looking-back/">Looking Back</a>
 	<a href="http://www.pep.ph/views/pep-finder/">PEP Finder</a>
+	<a href="http://www.pep.ph/views/Fact or Fiction/">Fact or Fiction</a>
 </div>
 
 <!--2nd drop down menu -->                                                
@@ -121,22 +172,31 @@ function bookmark() {
 	<a href="http://www.pep.ph/guide/indie/">Indie</a>
 	<a href="http://www.pep.ph/guide/music/">Music</a>
 	<a href="http://www.pep.ph/guide/theater/">Theater</a>
+  <a href="https://www.ticketworld.com.ph/OnlinePEP/default.asp?brand=PEP" class="listFinal">Buy Show Tickets</a>
 </div>
 
 <!--4th drop down menu -->
 <div id="dropmenuMM" class="dropmenudiv" style="width: 150px;">
 	<a href="http://www.pep.ph/photos/">Photos</a>
-	<a href="http://www.pep.ph/videos/">Videos</a>
+	<a href="http://www.pep.ph/media.php">Videos</a>
+	<a href="http://www.pep.ph/podcast.php">Podcast</a>
+</div>
+
+<!--5th drop down menu -->
+<div id="dropReact" class="dropmenudiv" style="width: 150px;">
+	<a href="http://www.pep.ph/forum/">PEP Forum</a>
+	<a href="http://www.pep.ph/react/">PEP React</a>
 </div>
 
 
 <script type="text/javascript">
 	cssdropdown.startchrome("chromemenu")
 </script>
+
 			<div id="searchBox">
 		<!-- Google CSE Search Box Begins -->
 
-		<form id="searchbox_016777497049707997827:pdoxc87qufq" action="http://www.pep.ph/gsearch.php" name="google" onsubmit="return textboxEmpty(document.google.q);">
+		<form id="searchbox_016777497049707997827:pdoxc87qufq" action="http://www.pep.ph/gsearch.php" name="google">
 		<input type="hidden" name="cx" value="016777497049707997827:pdoxc87qufq">
 		<input type="hidden" name="cof" value="FORID:9">
 		<img src="http://www.pep.ph/images/google21.gif" alt="Google Custom Search">
@@ -147,21 +207,19 @@ function bookmark() {
 
 		<!-- Google CSE Search Box Ends -->
 </div>			<div id="memberBox" style="text-align: left;">
-		
-		<form id="regBox" action="http://www.pep.ph/reg/login.php" method="post">
-			<fieldset>
-				<img src="http://www.pep.ph/images/allaccess21.gif" height="12" width="97">
-				<label for="usr">Username:</label>
-					<input type="text" id="usr" name="username1" size="20" maxlength="15" class="login">
-				<label for="pwd">Password:</label>
-					<input type="password" id="pwd" name="password1" size="20" maxlength="15" class="login">
-					<input id="submitKey" type="submit" value="Go">
-				
-				<a href="http://www.allaccess.com.ph/reg/forgot/password/pep/"><img src="http://youscoop.gmanews.tv/webpics/images/key.jpg"></a> | <a href="http://www.allaccess.com.ph/reg/pep/">Register</a>
-			</fieldset>
-		</form>
-	</div>
-		</div>
+                                    <form id="regBox" action="http://www.allaccess.com.ph/sitelogin/pep" method="post">
+                                    <fieldset>
+                                                <img src="http://www.pep.ph/images/allaccess21.gif" height="12" width="97">
+                                                <label for="usr">Username:</label>
+                                                            <input type="text" name="username" size="20" maxlength="32" class="login">
+                                                <label for="pwd">Password:</label>
+                                                            <input type="password" name="password" size="20" maxlength="32" class="login">
+                                                            <input type="hidden" name="site_code" value="pep">
+                                                            <input id="submitKey" name="btnlogin" type="Submit" value="Go">
+                                                <a href="http://www.allaccess.com.ph/forgotpassword"><img src="http://youscoop.gmanews.tv/webpics/images/key.jpg"></a> | <a href="http://www.allaccess.com.ph/pep">Register</a>
+                                    </fieldset>
+                        </form>
+            </div>		</div>
 
 	<div id="mainContainer">
 			<div id="articleSection">
@@ -396,29 +454,52 @@ Personal information about children is a concern for all of us. At PEP, we take 
 		</div>
 	</div>
 	<!-- right side ads -->
-	<div id="topBanner" style="position: absolute ; top:5px; left:240px;" onclick="return set_new();" onmouseout="hideElement('urchin');">
-		<script language="javascript" type="text/javascript" src="http://204.2.168.8/deliverjs.nmi?zoneid=0001&amp;sid=0003"></script>
-
-	</div>
+	
 	<!-- right side ads -->
 	<div id="sideBanner" style="float:left; margin:0; padding:0; border:0; margin:10px 0 0 5px; text-align:center;">
 		<p style="border:0; padding:0; margin:0; font-size:9px; ">Advertisement</p>
 			<!-- start *** skycraper -->
-<div style="margin-bottom:5px;">
-<script language="JavaScript" type="text/javascript">
-<!--
+	<div style="margin-bottom:5px;">
+	
+	<script language="JavaScript" type="text/javascript">
+		if (window.samsung_minisky === undefined) {
+			if (!document.phpAds_used) document.phpAds_used = ',';
+		   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+		
+		   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+		   document.write ("http://www.pep.ph/mini_sky_zone.php?n=" + phpAds_random);
+		   document.write ("&amp;page_name=index");
+		   document.write ("'><" + "/script>");
+		}
+		else if (samsung_minisky == 1) {
+			if (!document.phpAds_used) document.phpAds_used = ',';
+			phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+			
+			document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+			document.write ("http://204.2.168.8/deliverjs.nmi?sid=0003");
+			document.write ("&amp;ad_id=610");
+			document.write ("'><" + "/script>");
+		} else if (samsung_minisky == 2) {
+			if (!document.phpAds_used) document.phpAds_used = ',';
+			phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+			
+			document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+			document.write ("http://204.2.168.8/deliverjs.nmi?sid=0003");
+			document.write ("&amp;ad_id=612");
+			document.write ("'><" + "/script>");
+		} else {
+			if (!document.phpAds_used) document.phpAds_used = ',';
+		   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+		
+		   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+		   document.write ("http://www.pep.ph/mini_sky_zone.php?n=" + phpAds_random);
+		   document.write ("&amp;page_name=index");
+		   document.write ("'><" + "/script>");
+		} 
+	</script><script language="JavaScript" type="text/javascript" src="http://www.pep.ph/mini_sky_zone.php?n=789188051&amp;page_name=index"></script>
+	
+	</div>
 
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://www.pep.ph/mini_sky_zone.php?n=" + phpAds_random);
-   document.write ("&amp;page_name=index");
-   document.write ("'><" + "/script>");
-   
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://www.pep.ph/mini_sky_zone.php?n=250504892&amp;page_name=index"></script>
-</div>
 <!-- end *** skycraper -->
 
 <div style="margin-bottom:5px;">
@@ -427,28 +508,23 @@ Personal information about children is a concern for all of us. At PEP, we take 
 </div>
 
 <!------NEW---->
-<div style="margin-bottom:5px;">
-<iframe id="a9b234b5" name="a9b234b5" src="http://204.2.168.8/deliver.nmi?sid=0003&amp;ad_id=143&amp;account=home" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe>
-</div>
+<div style="margin-bottom:5px;"><iframe id="a9b234b5" name="a9b234b5" src="http://204.2.168.8/deliver.nmi?sid=0003&amp;ad_id=552&amp;account=home" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe></div>
 
 <!------NEW---->
-<div style="margin-bottom:5px;">
-<iframe id="a9b234b5" name="a9b234b5" src="http://204.2.168.8/deliver.nmi?sid=0003&amp;ad_id=203&amp;account=home" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe>
-</div>
+<div style="margin-bottom:5px;"><iframe id="a9b234b5" name="a9b234b5" src="http://204.2.168.8/deliver.nmi?sid=0003&amp;ad_id=092&amp;account=home" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe></div>
 
 <!------NEW---->
-<div style="margin-bottom:5px;">
-<iframe id="a9b234b5" name="a9b234b5" src="http://204.2.168.8/deliver.nmi?sid=0003&amp;ad_id=170&amp;account=home" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe>
-</div>
+<div style="margin-bottom:5px;"><iframe id="a9b234b5" name="a9b234b5" src="http://204.2.168.8/deliver.nmi?sid=0003&amp;ad_id=093&amp;account=home" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe></div>
 
 <!------NEW---->
-<div style="margin-bottom:5px;">
-<iframe id="a9b234b5" name="a9b234b5" src="http://204.2.168.8/deliver.nmi?sid=0003&amp;ad_id=092&amp;account=home" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe>
-</div>
+<div style="margin-bottom:5px;"><iframe id="a9b234b5" name="a9b234b5" src="http://204.2.168.8/deliver.nmi?sid=0003&amp;ad_id=486&amp;account=home" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe></div>
 
-<div style="margin-bottom:5px;">
-<iframe id="a9b234b5" name="a9b234b5" src="http://204.2.168.8/deliver.nmi?sid=0003&amp;ad_id=093&amp;account=home" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe>
-</div>
+<!------NEW---->
+<div style="margin-bottom:5px;"><iframe id="a9b234b5" name="a9b234b5" src="http://204.2.168.8/deliver.nmi?sid=0003&amp;ad_id=487&amp;account=home" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe></div>
+
+<!------NEW---->
+<div style="margin-bottom:5px;"><iframe id="a9b234b5" name="a9b234b5" src="http://204.2.168.8/deliver.nmi?sid=0003&amp;ad_id=528&amp;account=home" framespacing="0" frameborder="no" scrolling="no" width="120" height="90"></iframe></div>
+
 <div style="margin-bottom:5px;">
 <!-- start *** google ads -->
 <script language="JavaScript" type="text/javascript">
@@ -463,7 +539,7 @@ Personal information about children is a concern for all of us. At PEP, we take 
    document.write ("'><" + "/script>");
    
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://www.pep.ph/skyscrapper_zone.php?n=989808257&amp;page_name=index"></script>
+</script><script language="JavaScript" type="text/javascript" src="http://www.pep.ph/skyscrapper_zone.php?n=533811762&amp;page_name=index"></script>
 </div>
 
 
@@ -471,30 +547,18 @@ Personal information about children is a concern for all of us. At PEP, we take 
 <!-- end *** google ads -->
 
 <div style="margin-bottom:5px;">
-	<iframe src="http://www.gmanews.tv/lplayer.html?key=1285947967" scrolling="no" frameborder="no" style="width: 120px; height:90px;"></iframe>
+	<iframe src="http://www.gmanews.tv/lplayer.html?key=1376495251" scrolling="no" frameborder="no" style="width: 120px; height:90px;"></iframe>
 </div>
 
 <div style="margin-bottom:5px;">
-	<iframe src="http://www.igma.tv/fplayer.php?key=1189420080" scrolling="no" frameborder="no" style="width:120px; height:90px;"></iframe>
+	<iframe src="http://www.igma.tv/fplayer.php?key=1299645672" scrolling="no" frameborder="no" style="width:120px; height:90px;"></iframe>
 </div>
 	</div>
 	<!-- bottom footer -->
 	<div id="footer">
 		<div id="footLinks">
-			<script language="JavaScript" type="text/javascript">
-<!--
-
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://www.pep.ph/footer_zone.php?n=" + phpAds_random);
-   document.write ("&amp;page_name=index");
-   document.write ("'><" + "/script>");
-   
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://www.pep.ph/footer_zone.php?n=847205865&amp;page_name=index"></script>
-
+			
+	<script language="javascript" type="text/javascript" src="http://204.2.168.8/deliverjs.nmi?sid=0003&amp;zoneid=0003&amp;account=index"></script>
 			<ul>
 				<li><a href="http://www.pep.ph">Home</a></li>
 				<li><a href="http://www.pep.ph/static/about/">About PEP</a></li>
@@ -503,88 +567,15 @@ Personal information about children is a concern for all of us. At PEP, we take 
 				<li><a href="http://www.pep.ph/static/feedback/">Feedback</a></li>
 				<li><a href="http://www.pep.ph/static/advertise/" class="listFinal">Advertise with Us</a></li>
 			</ul>
-			<p>All Rights Reserved. 2006 © PEP Philippine Entertainment Portal Inc.</p><font color="White">jesselito mabazza</font>
+			<p>All Rights Reserved. 2006 © PEP Philippine Entertainment Portal Inc.</p>
+			<font color="white">Philippine Entertainment Portal Version 2.1, </font>
 		</div>
 	</div>
-
-
-
-
-
+	
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-858397-1";
 urchinTracker();
-</script>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-_uacct = "UA-1306737-1";
-urchinTracker();
-</script>
-
-
-<script type="text/javascript">
-
-function hideElement (elementId) {
-	var element;
-	if (document.all)
-	element = document.all[elementId];
-	else if (document.getElementById)
-	element = document.getElementById(elementId);
-	if (element && element.style)
-	element.style.display = 'none';
-}
-
-function showElement (elementId) {
-	var element;
-	if (document.all)
-	element = document.all[elementId];
-	else if (document.getElementById)
-	element = document.getElementById(elementId);
-	if (element && element.style)
-	element.style.display = "";
-}
-
-</script>
-<script language="JavaScript1.2">
-/*
-Disable right click script II (on images)- By Dynamicdrive.com
-For full source, Terms of service, and 100s DTHML scripts
-Visit http://www.dynamicdrive.com
-*/
-
-function disableclick(e) {
-if (document.all) {
-if (event.button==2||event.button==3) {
-if (event.srcElement.tagName=="IMG"){
-return false;
-}
-}
-}
-else if (document.layers){
-if (e.which == 3) {
-return false;
-}
-}
-else if (document.getElementById){
-if (e.which==3&&e.target.tagName=="IMG"){
-return false
-}
-}
-}
-
-function associateimages(){
-for(i=0;i<document.images.length;i++)
-document.images[i].onmousedown=disableclick;
-}
-
-if (document.all)
-document.onmousedown=disableclick
-else if (document.getElementById)
-document.onmouseup=disableclick
-else if (document.layers)
-associateimages()
 </script>
 
 
