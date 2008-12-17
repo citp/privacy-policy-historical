@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510143450id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054055id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
 
 # Big Blue Interactive » BigBlueInteractive.com Privacy Policy
 
@@ -8,12 +8,12 @@ By accessing this website, you signify your agreement and consent to the _BigBlu
 
 _Big Blue Interactive.com_ ( _BBI_ ) is deeply committed to protecting the privacy of its readership. Internet user privacy and confidentiality is of the utmost importance to us. There are instances where a user may provide specific personal information in response to a survey, purchase agreement, or registration questionnaire. This information is used by _BBI_ so the reader can receive the goods or services requested. _BBI_ regards all personal information collected from its readers as completely confidential. This includes personal data provided during registration processes and financial information.
 
-_BBI_ will not _sell_ any personal information gathered to third parties. _BBI_ will not _release_ any personal information gathered to third parties except under the following conditions:
+_BBI_ will not sell any personal information gathered to third parties. _BBI_ will not release any personal information gathered to third parties except under the following conditions:
 
   * _BBI_ reserves the right to disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) _BBI_ , other _BBI_ users, or anyone else who could be harmed by such activities, without prior notice. Your use of _BigBlueInteractive.com_ constitutes your agreement to the [_BBI_ Terms of Use; Disclaimer of Liability](https://web.archive.org/information-pages/terms-of-use/).
   * _BBI_ reserves the right to disclose user information in special cases to Law Enforcement or Government agencies in such instances where the information is required for the express purpose of criminal investigation, without prior notice. _BBI_ may disclose user information when we believe in good faith that the law requires it, without prior notice.
   * _BBI_ reserves the right to disclose user information in special cases to a user’s internet service provider (ISP) and provide the ISP with relevant user information without prior notice if a user is found to have abused the [_BBI_ Terms of Use](https://web.archive.org/information-pages/terms-of-use/).
-  * _BBI_ reserves the right to use any _general_ information gathered for its own statistical, marketing, promotional, and other such purposes without prior notice. This includes information collected in surveys. _BBI_ will provide only aggregated data from these analyses to third parties such as advertisers.
+  * _BBI_ reserves the right to use any general information gathered for its own statistical, marketing, promotional, and other such purposes without prior notice. This includes information collected in surveys. _BBI_ will provide only aggregated data from these analyses to third parties such as advertisers.
 
 
 
@@ -30,8 +30,8 @@ To find out more about how direct advertisers/advertising affiliates/third-party
   * [BurstMedia  
 ](http://www.burstmedia.com/isl/privacy.asp)
   * [Google](http://www.google.com/privacy.html)
-  * [ValueClick  
-](https://www.valueclickmedia.com/privacy.shtml)
+  * [ValueClick](https://www.valueclickmedia.com/privacy.shtml)
+  * [Fox Audience Network](https://publishers.foxaudiencenetwork.com/pnp/static/privacy-policy)
   * [Amazon](http://www.amazon.com/gp/help/customer/display.html/105-0187941-1017254?ie=UTF8&nodeId=468496)
   * [TicketCity](http://www.ticketcity.com/Privacy-Policy.html)
   * [NFLShop.com](http://www.nflshop.com/helpdesk/index.jsp?display=safety&subdisplay=privacy&clickid=botnav_privacy_txt)
@@ -46,7 +46,7 @@ This web site contains links to other sites. Please be aware that _BBI_ is not r
 
 _BigBlueInteractive.com_ makes [The Corner Forum](http://corner.bigblueinteractive.com/index.php) and [Letters to the Editor](http://www.bigblueinteractive.com/opinions/letters-to-the-editor/) available to you. Please be aware that whenever you post personal information online, through bulletin boards or e-mail, that this information can be collected and used by others. We will take all reasonable precautions to protect your privacy, but always keep in mind that when you are in a public forum, you control the information you disclose. Always use caution when giving out any personally identifying information about yourself or your family. _BBI_ does not control or endorse the content, messages or information found in _The Corner Forum_ and, therefore, _BBI_ specifically disclaims any liability with regard to _The Corner Forum_ and any actions resulting from your participation in _The Corner Forum_.
 
-It is _always_ assumed that users who e-mail _BigBlueInteractive.com_ at [info@bigblueinteractive.com](mailto:info@bigblueinteractive.com), and who do not _clearly_ label their e-mail as a _PRIVATE MESSAGE_ , wish to have their e-mail posted in [Letters to the Editor](http://www.bigblueinteractive.com/opinions/letters-to-the-editor/). _BBI_ specifically disclaims any liability with regard to e-mail not clearly labeled as unsuitable to _Letters to the Editor_ by the user or e-mail intended for _Letters to the Editor_ and any actions resulting from your participation in _Letters to the Editor_.
+It is always assumed that users who e-mail _BigBlueInteractive.com_ at [info@bigblueinteractive.com](mailto:info@bigblueinteractive.com), and who do not clearly label their e-mail as a PRIVATE MESSAGE, wish to have their e-mail posted in [Letters to the Editor](http://www.bigblueinteractive.com/opinions/letters-to-the-editor/). _BBI_ specifically disclaims any liability with regard to e-mail not clearly labeled as unsuitable to _Letters to the Editor_ by the user or e-mail intended for _Letters to the Editor_ and any actions resulting from your participation in _Letters to the Editor_.
 
 In addition, users should be aware that when they voluntarily disclose personally identifiable information (i.e., user name, e-mail address) in _The Corner Forum_ or _Letters to the Editor_ that information, along with any substantive information disclosed in the user’s communication, can be collected, correlated, and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of _BigBlueInteractive.com_.
 
@@ -68,6 +68,6 @@ _BBI_ reserves the right to change its Privacy Policy at any time. Your continue
 
 If you have any questions or comments about our privacy policy, please contact us at [info@bigblueinteractive.com](mailto:info@bigblueinteractive.com). If you wish your communication to remain private, please label it as such.
 
-_This Document Was Last Updated on March 27, 2008_
+_This Document Was Last Updated on December 12, 2008_
 
 [](http://www.bigblueinteractive.com/information-pages/privacy-policy/printpage/ "Print This Page") [Print This Page](http://www.bigblueinteractive.com/information-pages/privacy-policy/printpage/ "Print This Page")
