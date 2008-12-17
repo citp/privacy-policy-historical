@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510133009id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217163157id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # GMC | Privacy policy
 
@@ -41,9 +41,11 @@ If you subsequently obtain registration from the GMC we will use the information
 
 We may be asked to provide your registered address to the British Medical Association, medical defence organisations and medical Royal Colleges and faculties so that they can keep their records up to date. We will only do so, where we are satisfied you are already a member. If you would prefer us not to share your registered address with these organisations please let us know either by writing to Registration Update Team, General Medical Council, St James's Buildings, 79 Oxford Street Manchester, M1 6FQ or by sending an email to [registrationhelp@gmc-uk.org](mailto:registrationhelp@gmc-uk.org).
 
-Please note that all registered doctors’ Level 1 information will be published in the List of Registered Medical Practitioners on our website and made available to any enquirer. Level 1 information consists of registered doctors’ reference number, gender, name, any former name, year and place of primary medical qualification, registration status, date of registration and any publicly available fitness to practise history. 
+All registered doctors’ Level 1 information will be published in the List of Registered Medical Practitioners on our website and made available to any enquirer. Level 1 information consists of registered doctors’ reference number, gender, name, any former name, year and place of primary medical qualification, registration status, date of registration and any publicly available fitness to practise history. 
 
-We will provide Level 3 Information to the UK health departments, employers and other regulatory bodies. Level 3 information consists of registered doctors’ Level 1 information, date of birth, photograph, passport details, annual retention fee due date, registered address and whether a doctor is subject to investigation under the fitness to practise procedures.
+We will provide Level 2 information in response to telephone or written enquiries. Level 2 information is a registered doctor’s Level 1 information plus the date on which their annual retention fee is due.
+
+We will provide Level 3 Information to the UK health departments, employers and other regulatory bodies. Level 3 information consists of registered doctors’ Level 1 and 2 information plus, date of birth, photograph, passport details, registered address and whether a doctor is subject to investigation under the fitness to practise procedures.
 
 #### Third Party Service Providers
 
