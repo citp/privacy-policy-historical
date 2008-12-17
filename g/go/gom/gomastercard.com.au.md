@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomastercard.com.au privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624232457id_/http%3A//www.gomastercard.com.au/en/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomastercard.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122837id_/http%3A//www.gomastercard.com.au/en/Personal/privacy_and_security.html) for the most accurate reproduction.*
 
 # privacy_and_security
 
@@ -20,7 +20,7 @@ content) of other web sites to which you provide your personal
 information. If you have any questions about this, or the content or   
 practices of this web site, you can contact 
 
-[Customer Care.](https://web.archive.org/sites/GoMasterCard/en/contact_us.html)
+[Customer Care.](https://web.archive.org/en/Personal/Contact/contact_us.html)
 
  **Your personal information on the web  
 **
