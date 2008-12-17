@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618052936id_/http%3A//www.collages.net/site/Home/tabid/101/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217235628id_/http%3A//www.collages.net/site/Home/tabid/101/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Collages.net - Total Workflow and Printing Solution
 
@@ -104,8 +104,8 @@ If you prefer not to have us provide personal information about you to third par
 
 Collages.net, Inc.  
 ATTN: Customer Service  
-930 Town Center Drive  
-Suite G-75  
+444 Oxford Valley Rd  
+Suite 230  
 Langhorne, PA 19047
 
 **2\. Emailing us at:[ customerservice@collages.net](mailto:customerservice@collages.net)  
@@ -129,7 +129,7 @@ Subject to the above provisions, by using our Web Site, you consent to the colle
 
 Collages.net® welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [ customerservice@Collages.net](mailto:customerservice@Collages.net).  
   
-Last updated on January 2, 2008  
+Updated July 2007  
   
   
   
