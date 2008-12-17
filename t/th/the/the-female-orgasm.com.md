@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-female-orgasm.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531013351id_/http%3A//www.the-female-orgasm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-female-orgasm.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061714id_/http%3A//www.the-female-orgasm.com/privacy.html) for the most accurate reproduction.*
 
-# The Female Orgasm: Your Privacy is Our Priority.
+# The Female Orgasm :: Your Privacy is Our Priority.
 
 **Scope  
 **This document replaces all previous documents including to but not limited to previous registration agreemetns, online registrations, and any other method used or developed to grant access to the-female-orgasm.com member area. This policy applies to all users of the-female-orgasm.com. The term "the-female-orgasm.com services" defines the total environment, and includes, but is not limited to, the femorgllc.com and the-female-orgasm.com web sites, Femorg.com LLC, Femorg.com Limited, email system, database, documentation and content.
