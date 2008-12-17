@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaos.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609110249id_/http%3A//www.aaos.org/about/webpolicies/privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaos.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104145id_/http%3A//www.aaos.org/about/webpolicies/privpol.asp) for the most accurate reproduction.*
 
 # Privacy Policy - AAOS
 
