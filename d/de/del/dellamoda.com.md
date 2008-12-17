@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dellamoda.com privacy policy that was archived on 2008-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080221232017id_/http%3A//www.dellamoda.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dellamoda.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152341id_/http%3A//www.dellamoda.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Dellamoda.com
 
-[Home](https://web.archive.org/web/20080221232017id_/http%3A//www.dellamoda.com/index.html) > Privacy Policy
+[Home](http://www.dellamoda.com/index.html) > Privacy Policy
 
 ## Our Privacy Guarantee
 
@@ -18,4 +18,4 @@ SquareTrade works with leading organizations including eBay, Yahoo!, Google, the
 
 ##  E-mail Newsletters
 
-If users wish to subscribe to our e-mail newsletters, we ask for contact information (such as name, e-mail address and, occasionally, demographic information). We use this information in the same manner as we use contact information in the registration and ordering process described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter. 
+If users wish to subscribe to our e-mail newsletters, we ask for contact information (such as name, e-mail address and, occasionally, demographic information). We use this information in the same manner as we use contact information in the registration and ordering process described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter. Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). 
