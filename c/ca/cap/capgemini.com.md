@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capgemini.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513101823id_/http%3A//www.capgemini.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capgemini.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064728id_/http%3A//www.capgemini.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Capgemini | Consulting, Technology, Outsourcing
 
