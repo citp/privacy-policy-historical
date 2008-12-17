@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the aiuniv.edu privacy policy that was archived on 2008-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080512150538id_/http%3A//www.aiuniv.edu/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aiuniv.edu privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217073321id_/http%3A//www.aiuniv.edu/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    
+	
+		<meta name="verify-v1" content="aouSEGqZFXR9/02IFtVvfPcW6D3sGZska65XjrpnWIg=">
+	
     
         <title>American InterContinental University</title>
         <meta name="description" content="American InterContinental University offers associate's, bachelor's and master's degrees, with emphasis on the fields of business administration, criminal justice, education, healthcare management, marketing, information technology and visual communication.">
@@ -23,97 +25,81 @@
     <script src="/Schools/AIU/swfobject.js" language="JavaScript" type="text/javascript"></script>
     <script src="/Schools/AIU/SpryAccordion.js" type="text/javascript"></script>
     <script src="/Schools/AIU/SpryTabbedPanels.js" type="text/javascript"></script>
-<script type="text/javascript">
-    var needValidate = false;
-    var defaultVal2 = "Type your question here and click Start Chat.";
+	<script type="text/javascript" src="http://as00.estara.com/as/InitiateCall2.php?accountid=200106280367"></script>
+	
+    <script type="text/javascript">
 
-    function  openchatwindow(windowName, act) {
+        var pgname=""; //omniture setting
 
-	    var res = true;
-        var cbForm = document.forms['aspnetForm'];
-        if (!cbForm) {
-            cbForm = document.aspnetForm;
-        }
-	    var msg = document.getElementById("lp_msgfield");
+        function  sbmtSrch(submittopage) {
 
-	    if(needValidate){
-		    var validateMessage = "Before you start your chat, type in the following fields:\r\n ";
-
-		    if(msg.value.length==0 || msg.value==defaultVal2 ){
-			    validateMessage += "Your Question\r\n";
-			    res=false;
-		    }
-
-		    if(res==false){
-			    alert(validateMessage);
-		    }
-
-	    }
-
-        var formurl = act;
-
-        if(formurl.indexOf('?')==-1)
-            formurl += '?';
-        var elemCol = cbForm.elements;
-        for(var ie=0; ie<elemCol.length; ie++){
-            var et = elemCol[ie].type;
-
-            if(et=="text" || et=="hidden" || et=="radio" || et=="textarea"){
-                if (elemCol[ie].name == 'cmd' || elemCol[ie].name == 'file' || elemCol[ie].name == 'site' || elemCol[ie].name == 'SESSIONVAR!survey_pre-chat_enable' || elemCol[ie].name == 'SESSIONVAR!source' || elemCol[ie].name == 'SESSIONVAR!skill' || elemCol[ie].name == 'imageUrl' || elemCol[ie].name == 'SESSIONVAR!message') {
-                    if (elemCol[ie].name == 'site') {
-                        formurl += elemCol[ie].name + "=" + escape(9420105) + "&" ;
-                    }else{ 
-                    	if (elemCol[ie].name == 'SESSIONVAR!skill') {
-                      		formurl += elemCol[ie].name + "=" + escape('aiuniv') + "&" ;
-                    	}else{
-							formurl += elemCol[ie].name + "=" + escape(elemCol[ie].value) + "&" ;
-						}
-					}
-                }
+            var elem = document.getElementById('txtSearch');
+            if (elem == null){
+                elem = document.getElementsByName('txtSearch');
             }
-        }
+            if (elem == null){
+                return (false);
+            }
 
-
-	    if(res==true)
-		    window.open(formurl, windowName,'width=475,height=400,resizable=yes');
-        
-	    return false;
-    }
-
-    function  sbmtSrch(submittopage) {
-
-        var elem = document.getElementById('txtSearch');
-        if (elem == null){
-            elem = document.getElementsByName('txtSearch');
-        }
-        if (elem == null){
+            var formURL = submittopage + '?q=' + elem.value;
+            window.location = formURL;
             return (false);
         }
 
-        var formURL = submittopage + '?q=' + elem.value;
-        window.location = formURL;
-        return (false);
-    }
-
-    function clickButton(e, buttonid){ 
-          var evt = e ? e : window.event;
-          var bt = document.getElementById(buttonid);
-          if (bt){ 
-              if (evt.keyCode == 13){ 
-                    bt.click(); 
-                    return false; 
+        function clickButton(e, buttonid){ 
+              var evt = e ? e : window.event;
+              var bt = document.getElementById(buttonid);
+              if (bt){ 
+                  if (evt.keyCode == 13){ 
+                        bt.click(); 
+                        return false; 
+                  } 
               } 
-          } 
-    }
+        }
+		
+		/*function getMessage() {
+			if (document.getElementById("lp_msgfield")){
+				var msg = document.getElementById("lp_msgfield");
+				_msg = msg.innerText;
+				return _msg;
+			}
+		}*/
+		
+		
+	function getMessage() {	
+	 var msg;
+	 msg = document.aspnetForm.lp_msgfield.value;
+	 return msg;
+	}
 
+    </script>
+    
+	
+	
+	
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-232351-45");
+	pageTracker._setCampSourceKey("code"); // source
+	pageTracker._setCampNameKey("siteid"); // name
+	pageTracker._initData();
+	pageTracker._trackPageview();
 </script>
+
+
 	
+		<script type="text/javascript" language="javascript">var lpUnit = "AIUuniv"; </script>
+		<script src="/Schools/AIU/mtagconfig.js" type="text/Javascript"></script>
 	
-</head>
+<script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/hcp/html/mTag.js?site=23587745"></script></head>
 <body id="htmlBody">
 <div id="entirecontainer">
 <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA0NzAzOTIxMQ9kFgJmD2QWAmYPZBYCAgIPZBYCAgEPZBYEZg9kFgICBw9kFgQCAQ8WAh4Dc3JjBYgBaHR0cHM6Ly9zZXJ2ZXIuaWFkLmxpdmVwZXJzb24ubmV0L2hjLzk0MjAxMDUvP2NtZD1yZXBzdGF0ZSZzaXRlPTk0MjAxMDUmY2hhbm5lbD13ZWImdmVyPTEmaW1hZ2VVcmw9aHR0cHM6Ly93d3cuYWl1b25saW5lLmVkdS9pbWFnZXMvY2hhdGQCAw8WAh4Hb25jbGljawVVcmV0dXJuIG9wZW5jaGF0d2luZG93KCdjaGF0OTQyMDEwNScsJ2h0dHBzOi8vc2VydmVyLmlhZC5saXZlcGVyc29uLm5ldC9oYy85NDIwMTA1LycpO2QCAQ9kFgICBQ8WAh4EaHJlZgUOL2FwcGx5X29ubGluZS9kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBSRjdGwwMCRjdGwwMCRDb250YWluZXIkTWFpbiRscENoYXRCdG4m/4gzyvF88TdqA7QFNRkwu+9hxw==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA0NzAzOTIxMQ9kFgJmD2QWAmYPZBYCAgMPZBYCAgEPZBYCAgEPZBYCAgUPFgIeBGhyZWYFDi9hcHBseV9vbmxpbmUvZGRv/aiG7xke8rvM5vdc2nAZYGotaQ==">
 
 
     	
@@ -206,7 +192,7 @@ Phone: 1-888-379-5888</p>
               <li><a href="/about_aiu/university_policies.aspx" rel="nofollow">University Policies</a></li>
               
               
-              <li><a href="/Schools/AIU/PDF/newsletters/Spring07.pdf" target="_blank" rel="nofollow">@AIU Newsletter</a></li>
+              <!--<li><a href="/Schools/AIU/PDF/newsletters/Spring07.pdf" target="_blank" rel="nofollow">@AIU Newsletter</a></li>-->
               
                
               <li><a href="/about_aiu/question_contact.aspx" rel="nofollow">Question? Contact Us</a></li>
@@ -216,37 +202,25 @@ Phone: 1-888-379-5888</p>
             </div>
 			
 				</div>
-			<div id="ctl00_ctl00_Container_Main_ChatSection">
-				<div id="sivenavDiv"><img src="/Schools/AIU/images/navbar_divider.gif" alt=""></div>
-                <!-- BEGIN LivePerson Button Code -->
-                <div id="chatbox">
-                <!-- BEGIN LivePerson Chatbox Code -->
-                     
-                <div name="LPChatBox">
-                <!--form id="_lpChatBox" target='chat9420105' method="get"-->
-                <input type="hidden" name="cmd" value="file">
-                <input type="hidden" name="file" value="visitorWantsToChat">
-                <input type="hidden" name="site" id="chatinput">
-                <input type="hidden" name="SESSIONVAR!survey_pre-chat_enable" value="Off">
-                <input type="hidden" name="SESSIONVAR!source" value="chatbox">
-				<input type="hidden" name="SESSIONVAR!skill" id="chatskill">
-                <input type="hidden" name="imageUrl" value="https://www.aiuonline.edu/images/chat">
-
-
-                <div id="chat_image"><img src="https://server.iad.liveperson.net/hc/9420105/?cmd=repstate&amp;site=9420105&amp;channel=web&amp;ver=1&amp;imageUrl=https://www.aiuonline.edu/images/chat" id="ctl00_ctl00_Container_Main_chatimg"></div>
-                <div id="LPmessage">
-                <textarea id="lp_msgfield" name="SESSIONVAR!message" rows="5" wrap="VIRTUAL" class="LPform" onfocus="if(this.value==defaultVal2){this.value='';}" onblur="if(this.value==''){this.value=defaultVal2;}">Type your question here and click Start Chat.</textarea>
-                </div>
-                  <div id="submit_btn">
-                    <input src="/schools/aiu/images/start_chat_btn.gif" name="ctl00$ctl00$Container$Main$lpChatBtn" type="image" id="ctl00_ctl00_Container_Main_lpChatBtn" onclick="return openchatwindow('chat9420105','https://server.iad.liveperson.net/hc/9420105/');">
-                  </div>
-                <!--/form-->
-                </div>
-
-                <!-- END LivePerson Chatbox Code -->
-                </div><!-- END LivePerson Button code -->
-				</div>		
-			</div>
+				<div id="ctl00_ctl00_Container_Main_ChatSection">
+					<div id="sivenavDiv"><img src="/Schools/AIU/images/navbar_divider.gif" alt=""></div>
+					<!-- BEGIN LivePerson Chatbox Code -->
+					<div class="LPChatBox"><div id="RepOnline"> 
+						<div id="chat_image"><img src="/Schools/AIU/images/chat/sidenav_chat.gif" width="175" height="103" alt="Chat Live 24/7"></div>
+						<div id="LPmessage"><textarea id="lp_msgfield" name="lp_msgfield" rows="5" wrap="VIRTUAL" class="LPform" onfocus="if(this.value==defaultVal2){this.value='';}" onblur="if(this.value==''){this.value=defaultVal2;}">Type your question here and click Start Chat.</textarea></div>
+						<!-- BEGIN LivePerson Button Code -->
+						<div class="LPsubmit_btn"><div id="lp-chat_AIUuniv-english_div"></div>
+						<script type="text/javascript">
+						<!--//
+							if(typeof(lpMTagConfig.dynButton)!="undefined")
+							lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] = {'name':"chat-AIU-english-Nav",'pid':'lp-chat_AIUuniv-english_div', 'ovr':'lpMTagConfig.db2'};
+						//-->
+						</script>
+						<noscript><a class="errorlink" href="http://www.google.com/support/bin/answer.py?answer=23852" target="_blank">Javascript needs to be active in order to use live chat.</a></noscript></div>
+						<!-- END LivePerson Button code -->
+					</div></div><!-- END LivePerson Chatbox Code -->
+				</div><!-- END ChatSection -->
+			</div><!--End SidNav -->
 			<div class="clear"></div>
 		
 	</div> 
@@ -271,7 +245,7 @@ Phone: 1-888-379-5888</p>
 	</div>  	
 			
 	<div id="topbar">
-		<div id="phone"><h2>TOLL FREE 1-888-379-5888</h2></div>
+		<div id="phone"><h2><a href="javascript:webVoicePop('Template=360341');">TOLL FREE 1-888-379-5888</a></h2></div>
 		<div id="search"><label>SEARCH</label><input type="text" class="text" id="txtSearch" onkeypress="return clickButton(event,'searchSubmit')"><input type="image" id="searchSubmit" src="/schools/AIU/images/search_button.gif" onclick="return sbmtSrch('http://www.aiuniv.edu/sitesearch/searchcode.aspx');" class="image">
 		<div id="logout"></div></div>
 		<div class="clear"></div>	
@@ -293,6 +267,8 @@ Phone: 1-888-379-5888</p>
 			One of our Admissions Advisors will contact you shortly.</p></a></div>
 			
 			
+			
+			
 		<div class="clear"></div>
 	</div>
 		 
@@ -310,7 +286,7 @@ Phone: 1-888-379-5888</p>
 					<div class="nav">
 						<a href="/request_info/" id="ctl00_ctl00_Container_MastArea_HrefRequestInfo" rel="nofollow"><img src="/schools/AIU/images/side_request_info.gif" alt="Request Info" width="199" height="19"></a><br>
 					    <a href="/apply_online/" id="ctl00_ctl00_Container_MastArea_HrefApplyOnline" rel="nofollow"><img src="/schools/AIU/images/side_apply_online.gif" alt="Apply Online" width="199" height="19"></a><br>
-						<img id="ctl00_ctl00_Container_MastArea_imageback" alt="Call Us Toll Free" src="/Schools/AIU/AIU_NIV/Images/side_tollfree.gif" border="0">
+						<a href="javascript:webVoicePop('Template=360341');"><img id="ctl00_ctl00_Container_MastArea_imageback" alt="Click to Call" src="/Schools/AIU/AIU_NIV/Images/side_tollfree.gif" border="0"></a>
 					</div>	
 				</div>
 				
@@ -321,33 +297,32 @@ Phone: 1-888-379-5888</p>
 		
 			<div id="breadbar"><a id="top" name="top"></a>
 				<div id="breadcrumbs">
-				<span id="ctl00_ctl00_Container_SiteMapPath1"><a href="#ctl00_ctl00_Container_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=H1CBXSyt2TNWXWVVJEy5qA2&amp;t=633427474896928804" border="0"></a><span class="HideRootNode"><a href="" rel="nofollow">AIU</a></span><span> &gt; </span><span><a href="/Schools/AIU/aiu_niv/Default.aspx" rel="nofollow">Home</a></span><span> &gt; </span><span class="noDecoration"><a rel="nofollow">Privacy</a></span><a id="ctl00_ctl00_Container_SiteMapPath1_SkipLink"></a></span>
-							 					
+				    <span id="ctl00_ctl00_Container_SiteMapPath1"><a href="#ctl00_ctl00_Container_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=H1CBXSyt2TNWXWVVJEy5qA2&amp;t=633427474896928804" border="0"></a><span class="HideRootNode"><a href="" rel="nofollow">AIU</a></span><span> &gt; </span><span><a href="/Schools/AIU/aiu_niv/Default.aspx" rel="nofollow">Home</a></span><span> &gt; </span><span class="noDecoration"><a rel="nofollow">Privacy</a></span><a id="ctl00_ctl00_Container_SiteMapPath1_SkipLink"></a></span>
+				    			 					
 				</div>
 			</div>	
 			 
 	  
-		<div id="footercontainer">
-			<div id="footer">
-				<p>American InterContinental University<br>
-				6600 Peachtree-Dunwoody Road, 500 Embassy Row · Atlanta,GA 30328 · 1-888-379-5888 <br> © 2008 American InterContinental University. All rights reserved.
-				<br>
-				<a href="/privacy.aspx">Privacy Statement</a> | 
-				<a href="/terms_conditions.aspx" rel="nofollow">Terms &amp; Conditions</a> | 
-				<a href="/sitemap.aspx">Site Map</a> |
-				
-					<a href="/about_aiu/employment_opportunities.aspx" rel="nofollow">Employment Opportunities</a>
-				
-				</p>
-				
-			</div>
-		</div>
+		    <div id="footercontainer">
+			    <div id="footer">
+				    <p>American InterContinental University<br>
+				    6600 Peachtree-Dunwoody Road, 500 Embassy Row · Atlanta, GA 30328 · 1-888-379-5888 <br> © 2008 American InterContinental University. All rights reserved.
+				    <br>
+				    <a href="/privacy.aspx">Privacy Statement</a> | 
+				    <a href="/terms_conditions.aspx" rel="nofollow">Terms &amp; Conditions</a> | 
+				    <a href="/sitemap.aspx">Site Map</a> |
+				    
+					    <a href="/about_aiu/employment_opportunities.aspx" rel="nofollow">Employment Opportunities</a>
+				    
+				    </p>
+				    
+			    </div>
+		    </div>
 		
     
-
-
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKp1LDSAwL0kcKNAzVpLHg38kZLRIz3BcpVv84lGarE"></form>
-
+        
+    </form>
+        
 <!-- Omniture Rev 2 -->
 <!-- SiteCatalyst code version: G.5. Copyright 1997-2003 Omniture, Inc. More info available at http://www.omniture.com -->
 
@@ -452,11 +427,18 @@ else // if we are in a root of the page, then just list the page name
 			s_pageName= application_school  + " - INDEX";
 		}
 	}
- if (pagename.indexOf("thank") >= 0) //if the page name contains "thank" - Due to inconsistency in page naming
+
+if ((pagename.indexOf("thank") >= 0) || (pgname.indexOf("thank") >= 0)) //if the page name contains "thank" - Due to inconsistency in page naming
 	{		
 		s_events="event1";
 		s_campaign='680';
-		s_pageName = application_school  + " - THANK YOU";
+		s_pageName = application_school + " " + subfolder + " - THANK YOU";
+    }
+if ((pgname.indexOf("payment-complete") >= 0) || (pgname.indexOf("edpartner-complete") >= 0))
+    {
+		s_events="event2";
+		s_campaign='680';
+		s_pageName = application_school + " " + subfolder + " - THANK YOU";
     }
 if (pagename == "404") //If the page name is 404
 	 {
@@ -722,26 +704,19 @@ s_sq(un,trk?'':qs)}return code}function s_dc(un){un=un.toLowerCase()
 s_wds(un);s_ca(un);return s_gs(un)}
 s_code=s_dc(s_account);if(s_code)s_d.write(s_code)
 
-</script><img name="s_i_careduaiup" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/careduaiup/1/G.5-Pd-R/s69912308452702?[AQB]&amp;ndh=1&amp;t=31/0/2020%202%3A32%3A34%205%200&amp;pageName=AIU%20-%20WEB/20080512150538ID_/HTTP%253A//WWW.AIUNIV.EDU/%20PRIVACY&amp;server=10.50.52.12&amp;g=https%3A//web.archive.org/web/20080512150538id_/http%253A//www.aiuniv.edu/privacy.aspx&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+</script><img name="s_i_careduaiup" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/careduaiup/1/G.5-Pd-R/s68272341605179?[AQB]&amp;ndh=1&amp;t=31/0/2020%202%3A32%3A38%205%200&amp;pageName=AIU%20-%20WEB/20081217073321ID_/HTTP%253A//WWW.AIUNIV.EDU/%20PRIVACY&amp;server=10.50.52.12&amp;g=https%3A//web.archive.org/web/20081217073321id_/http%253A//www.aiuniv.edu/privacy.aspx&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 
 
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+        
 
-<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-232351-45");
-	pageTracker._initData();
-	pageTracker._trackPageview();
-	_udn="none"
-	_ulink=1;
-</script>
+        <script language="javascript" type="text/javascript">
+            
+            
+            
+        </script>
 
-
-
-
+        
 		
 		 <script type="text/javascript">
 			<!--
@@ -750,20 +725,5 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 		</script>					   
 	 
 
-
-<!-- BEGIN Invitation Positioning  -->
-<script language="javascript" type="text/javascript">
-var lpPosY = 100;
-</script>
-<!-- END Invitation Positioning  -->
-<!-- BEGIN Monitor Tracking Variables -->
-<script language="JavaScript1.2">
-if (typeof(tagVars) == "undefined") tagVars = "";
-tagVars += "&SESSIONVAR!skill=aiuniv";
-</script>
-<!-- End Monitor Tracking Variables -->
-
-    <!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="https://server.iad.liveperson.net/hc/9420105/x.js?cmd=file&amp;file=chatScript3&amp;site=9420105&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatBox-Gallery/English/General/custom-chatbox/header"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-
-
+    
 </div></body></html>
