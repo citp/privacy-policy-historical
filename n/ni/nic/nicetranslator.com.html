@@ -1,0 +1,299 @@
+<!--The following is the downloaded HTML source of the nicetranslator.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217044018id_/http%3A//nicetranslator.com/privacypolicy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Nice Translator - The fast, easy to use online translator</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="description" content="NiceTranslator is a fast, easy to use online translator that allows a user to translate into multiple languages as they type. Nice Translator was designed with simplicity and functionality in mind.">
+<meta name="keywords" content="translator, online translator, fast translator, ajax translator, english translator, multiple language translator">
+<meta name="title" content="Nice Translator - The fast, easy to use online translator">
+<meta name="ROBOTS" content="INDEX,FOLLOW">
+<meta name="abstract" content="NiceTranslator is a fast, easy to use online translator designed with simplicity and functionality in mind.">
+<meta name="author" content="Nicky Hajal and Mike Cobelli">
+<meta name="publisher" content="Tumble Design">
+<meta name="copyright" content="All code copyright 2008, Content is in released under the Creative Commons.">
+<meta http-equiv="Reply-to" content="websites@tumbledesign.com">
+<meta name="creation_Date" content="">
+<meta name="expires" content="">
+<meta name="revisit-after" content="20 days">
+<meta name="verify-v1" content="PBKLCgTB/no+AotBeRD1eyqSZNtJWBxDEyL4QL+xA+c=">
+<link rel="Shortcut Icon" href="favicon.ico">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="styles/main_site/structure.css.php">
+<link rel="stylesheet" type="text/css" href="styles/main_site/elements.css.php">
+<link rel="stylesheet" type="text/css" href="styles/main_site/links.css.php">
+<link rel="stylesheet" type="text/css" href="styles/main_site/forms.css.php">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="styles/main_site/stylesIE.css.php" />
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="styles/main_site/stylesIE6.css.php" />
+<![endif]-->
+<script src="resources/prototype.js" type="text/javascript"></script>
+<script src="resources/effects.js" type="text/javascript"></script>
+<script src="scripts/global.js" type="text/javascript"></script>
+<script src="scripts/form.js" type="text/javascript"></script>
+<script src="scripts/Translator.class.js" type="text/javascript"></script>
+<script src="scripts/pngfix.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var value="";
+var setSource = "";
+var srcLang="";
+var srcLCode="";
+var translatorList = [];
+var translations = [];
+var logTimeouts = {};
+var userIP = "67.202.62.173"; // For broad Geo-location
+
+function translate() {
+  value = tSource.value;
+  if(setSource=="auto"){
+	  google.language.detect(value, detectResult);
+	  return false;
+  }
+  else{
+	  srcLCode=setSource;
+	  doTranslations();
+	  return false;
+  }
+}
+google.load("language", "1");
+function detectResult(result) {
+	var resultBody = document.getElementById("results_body");
+	if (result.language) {
+		var language = 'unnamed';
+		for (l in google.language.Languages) {
+			if (google.language.Languages[l] == result.language) {
+				language = l;
+				break;
+			}
+		}
+		srcLang =  language.toLowerCase();
+		srcLCode = result.language;
+		$('sourceLanguage').innerHTML = "auto-detect("+srcLang+")";
+		doTranslations();
+	}
+}
+function doATranslation(lang){
+	google.language.translate(makePassableCode(lang)+value, srcLCode, lang,
+				function(result){
+					if (result.translation) {
+						resultParsed=parseResult(result.translation);
+						$(resultParsed[0]+'-transtxt').innerHTML = resultParsed[1];					 
+						clearTimeout(logTimeouts[resultParsed[0]]);
+						logTimeouts[resultParsed[0]]=(setTimeout("logTranslation('"+resultParsed[0]+"', '"+addSlashes(resultParsed[1])+"', '"+addSlashes(tSource.value)+"')", 1500));
+					}
+				}
+			);
+}
+function logTranslation(resLang, result, source){
+	if(!clear){
+		if(source==tSource.value){
+			var duplicate=false;
+			var t = translations.length;
+			if(t){
+				do{
+					if(translations[--t]==result){
+						duplicate=true;
+					}
+				}while(t);
+			}
+			if(!duplicate){
+				translations.push(result);
+				srcLang = srcLCode;
+				new Ajax.Request('ajax/logTranslation.ajax.php', {
+				 method: 'get',
+				 parameters: {ip:userIP , srcLang:srcLang, resLang:resLang, source:source, result:result},
+				 onSuccess: function(transport){},
+				 onFailure: function(transport){}
+				});
+			}
+		}
+	}
+}
+function loadDefaultTranslators(){
+	var translators = readCookie('translators');
+	if(translators){
+		if(translators.length){
+			for(var t=0; t<translators.length; t++){
+				toggleTranslator(translators[t]);
+			}
+		}
+		if(translatorList.length>0){
+			tSource.focus();
+		}
+	}
+}
+function setDefaultSource(){
+	changeSrc("auto", "auto-detect");
+}
+function alreadyRated(){
+	if(readCookie('upd-4')){
+				$('thnksUpd-4').style.opacity='1.0';
+				$('thnksUpd-4').style.filter='alpha(opacity=100)';
+				$('rateUpd-4').style.opacity='0.0';
+				$('rateUpd-4').style.filter='alpha(opacity=0)';
+				}
+			if(readCookie('upd-3')){
+				$('thnksUpd-3').style.opacity='1.0';
+				$('thnksUpd-3').style.filter='alpha(opacity=100)';
+				$('rateUpd-3').style.opacity='0.0';
+				$('rateUpd-3').style.filter='alpha(opacity=0)';
+				}
+			if(readCookie('upd-2')){
+				$('thnksUpd-2').style.opacity='1.0';
+				$('thnksUpd-2').style.filter='alpha(opacity=100)';
+				$('rateUpd-2').style.opacity='0.0';
+				$('rateUpd-2').style.filter='alpha(opacity=0)';
+				}
+			}
+function rateUpdate(updateID, rating){
+	new Effect.Opacity('rateUpd-'+updateID, {from:1.0, to:0.0});
+	new Effect.Opacity('thnksUpd-'+updateID, {from:0.0, to:1.0, afterFinish:
+			function(){
+				$('thnksUpd-'+updateID).style.opacity='1.0';
+				$('thnksUpd-'+updateID).style.filter='alpha(opacity=100)';
+				$('thnksUpd-'+updateID).display='block';
+				$('rateUpd-'+updateID).display='block !important';
+			}
+	});
+	new Ajax.Request('ajax/rateUpdate.ajax.php', {
+				 method: 'get',
+				 parameters: {updateID:updateID, rating:rating},
+				 onSuccess: function(transport){
+					createCookie('upd-'+updateID, 1,100);
+				},
+				 onFailure: function(transport){}
+	});
+}
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-6497966-1");
+pageTracker._trackPageview();
+</script>
+</head>
+
+<body onload="loadTranslateSource(); loadDefaultTranslators(); setDefaultSource(); fixDrop(); alreadyRated();">
+	<div id="tumblar" class=""></div>
+	<div id="bodyPosition">
+		<div id="masthead">
+			<a href="http://www.nicetranslator.com"><img src="images/logo.gif" id="logo" alt="Nice translator logo"></a>
+			<div id="missionShell">
+				<div id="mission">
+					<div class="topCorners">
+						<img src="images/miss_rc_top_left.png" class="rc rc_top_left_15" alt="Nice Translator - Online Translator - Roundcorner Image">
+						<img src="images/miss_rc_top_right.png" class="rc rc_top_right_15" alt="Nice Translator - Online Translator - Roundcorner Image">
+					</div>
+					NiceTranslator is a fast, easy to use online translator designed with simplicity and functionality in mind.
+					<div class="botCorners">
+						<img src="images/miss_rc_bot_left.png" class="rc rc_bot_left_15" alt="Nice Translator - Online Translator - Roundcorner Image">
+						<img src="images/miss_rc_bot_right.png" class="rc rc_bot_right_15" alt="Nice Translator - Online Translator - Roundcorner Image">
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="theCrux">
+		<!-- Main Site Content Start -->
+
+
+
+
+	<div id="rcGreenContent">
+		<div class="topCorners">
+			<img src="images/rc_1.gif" class="rc rc_top_left_15" alt="Nice Translator - Roundcorner Image">
+			<img src="images/rc_2.gif" class="rc rc_top_right_15" alt="Nice Translator - Roundcorner Image">
+		</div>
+		
+		<div id="contentArea"><div>
+		Effective <strong>December 1st, 2008</strong>
+					<h3 class="content">Privacy Notice Table Of Contents</h3>
+					
+					
+					<ul>
+						<li><a href="#1">Our Commitment To Privacy</a></li>
+						<li><a href="#2">The Information We Collect</a></li>
+						<li><a href="#3">How We Use Information</a></li>
+						<li><a href="#4">Our Commitment To Data Security</a></li>
+						<li><a href="#5">Our Commitment To Children's Privacy</a></li>
+						<li><a href="#6">How To Access Or Correct Your Information</a></li>
+						<li><a href="#7">How To Contact Us</a></li>
+					</ul>
+							
+					<a name="1"></a><h3 class="content">Our Commitment To Privacy</h3>
+					<p>Your privacy is important to us.  To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
+		
+					<a name="2"></a><h3 class="content">The Information We Collect</h3>
+					<p>This notice applies to all information collected or submitted on the <em>NiceTranslator</em> website. On some pages, you can make requests and send data.  The types of personal information collected at these pages are:</p>
+						<ul>
+							<li>Name</li>
+							<li>E-Mail Address</li>
+							<li>Content Submission (public comments, etc)</li>
+						</ul>
+		
+					<a name="3"></a><h3 class="content">The Way We Use Information</h3>
+					<p>We use return email addresses to answer the email we receive and to privately associate submitted content with its author. Such addresses are not used for any other purpose and are not shared with outside parties.</p>
+					<p>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.</p> 
+					<p>Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
+		
+					<a name="4"></a><h3 class="content">Our Commitment To Data Security</h3>
+
+					<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
+		
+					<a name="5"></a><h3 class="content">Our Commitment To Children's Privacy</h3>
+					<p>Protecting the privacy of the very young is especially important.  For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.</p>
+		
+					<!--<p><a name="6"></a><h3 class="content">How You Can Access Or Correct Your Information</h3>
+					<p>You can access all your personally identifiable information that we collect online and maintain by [description of the company access procedure]. We use this procedure to better safeguard your information.
+					<p>You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+					<p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.-->
+		
+					<a name="7"></a><h3 class="content">How To Contact Us</h3>
+					<p>Should you have other questions or concerns about these privacy policies, please call us at (914)844-5913 or send us an email at privacy[at]tumbledesign[dot]com.</p>
+		</div></div>
+
+		<div class="botCorners">
+			<img src="images/rc_4.gif" class="rc rc_bot_left_15" alt="Nice Translator - Roundcorner Image">
+			<img src="images/rc_3.gif" class="rc rc_bot_right_15" alt="Nice Translator - Roundcorner Image">
+		</div>
+	</div>
+
+	<div id="translators">
+
+	</div>
+	<div id="message">
+	</div>
+</div>
+<div id="footer">
+	<div id="footer_right">
+		<a href="http://validator.w3.org/check?uri=referer" id="xhtmlValidate">[ Valid XHTML Strict ]</a>
+		<div id="google"> </div>
+		<script type="text/javascript">
+			google.load('language', "1");
+			google.setOnLoadCallback(initialize);
+			function initialize() {
+				google.language.getBranding('google', 'v');
+			}
+		</script>
+	</div>
+	<div id="footerLinks">
+		<ul>
+			<li id="tumbleLogo"><a href="http://www.tumbledesign.com"><img src="images/tumbleLogo.png" alt="Nice Translator - Contact Tumble Design"></a></li>
+			<li><a href="comments.php">Comments (100)</a></li>
+			<li><a href="about.php">About</a></li>
+			<li><a href="http://www.tumbledesign.com/contact.php">Contact</a></li>
+			<li><a href="privacypolicy.php">Privacy Policy</a></li>
+			<li><a href="thankyou.php"><strong>Thank You</strong></a></li>
+		</ul>
+	</div>
+</div></div>
+
+</body></html>
