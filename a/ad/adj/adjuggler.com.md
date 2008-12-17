@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adjuggler.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506213242id_/http%3A//adjuggler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjuggler.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044022id_/http%3A//www.adjuggler.com/privacy) for the most accurate reproduction.*
 
 # AdJuggler | Ad Serving & Management
 
@@ -21,6 +21,8 @@ Thruport Technologies, Inc.
 5440 Cherokee Avenue  
 Alexandria, VA 22312  
 Send e-Mail to Privacy Contact
+
+To opt-out of AdJuggler cookies click the following button:
 
 | 
 
