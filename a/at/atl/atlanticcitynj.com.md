@@ -1,69 +1,78 @@
-> *The following text is extracted and transformed from the atlanticcitynj.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618081420id_/http%3A//www.atlanticcitynj.com/terms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticcitynj.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217144345id_/http%3A//www.atlanticcitynj.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy - Terms of Use
+# Privacy Policy
 
-The www.atlanticcitynj.com web site is owned and operated by the Atlantic City Convention & Visitors Authority (collectively referred to herein as "the ACCVA," "us" or "we"). the ACCVA is a non-profit entity created to identify and market the diverse recreational, entertainment, cultural and historical attractions in Atlantic City and it's surrounding region. 
+The www.atlanticcitynj.com web site is owned and operated by the Atlantic City Convention & Visitors Authority (collectively referred to herein as "the ACCVA," "us" or "we"). the ACCVA is a non-profit entity created to identify and market the diverse recreational, entertainment, cultural and historical attractions in Atlantic City and it';s surrounding region. 
 
 The ACCVA is dedicated to serving your needs. We care about your privacy and have implemented a privacy policy that clearly outlines the policies and terms of use applicable to this site and your use thereof. 
 
-**Information We Collect**
+### Information We Collect 
 
 There are three types of information that can be collected on this web site - usage information, non-personal information and personal information. 
 
-  1. Usage Information Our web server automatically recognizes and saves the domain name and IP address through which you arrived on the site. Other aggregate, site information we may collect includes information like entry page, time on site and number of page views. This data is used for internal review of traffic patterns to and on our site and can help us to improve our users' experience. None of this information is personally identifiable and will only be used to find out how site visitors use our services and the site.
-  2. Non-Personally Identifiable Information We may also request non-personally identifiable information, such as annual income range, buying preferences, education and age range, also known as demographic and profile data but this information is optional. This data helps us to determine the interests of our site visitors and lets us tailor site content, events and news, accordingly. Aggregate and anonymous information may be shared with our member organizations but the ACCVA does not sell this information to third parties.
-  3. Personal Information If you request information from the ACCVA by filling out a form on the site, we may need your e-mail address, street address or phone number in order to respond. This information is added to the the ACCVA database but its use is strictly limited to responding to your request unless authorized by you.
+  * Usage Information Our web server automatically recognizes and saves the domain name and IP address through which you arrived on the site. Other aggregate, site information we may collect includes information like entry page, time on site and number of page views. This data is used for internal review of traffic patterns to and on our site and can help us to improve our users'; experience. None of this information is personally identifiable and will only be used to find out how site visitors use our services and the site. 
+  * Non-Personally Identifiable Information We may also request non-personally identifiable information, such as annual income range, buying preferences, education and age range, also known as demographic and profile data but this information is optional. This data helps us to determine the interests of our site visitors and lets us tailor site content, events and news, accordingly. Aggregate and anonymous information may be shared with our member organizations but the ACCVA does not sell this information to third parties. 
+  * Personal Information If you request information from the ACCVA by filling out a form on the site, we may need your e-mail address, street address or phone number in order to respond. This information is added to the the ACCVA database but its use is strictly limited to responding to your request unless authorized by you. 
 
 
 
 The ACCVA does not collect or store any personal information that you do not expressly provide nor will it send you any additional emails past satisfying your request unless you expressly agree to receive these emails. This is called "opting in." If you opt in, you will receive occasional emails from the ACCVA notifying you of events, concerts and regional or travel news of interest. You may unsubscribe at any time. 
 
-**A Special Note about Children**  
-The ACCVA recognizes that its website isn't just appealing and interesting to adults; the site may also be attractive to children. While the ACCVA does not encourage children to use the site, it takes its responsibility to protect children's privacy seriously. In compliance with COPPA, the Children's Privacy Protection Act, the ACCVA does not, knowingly, collect personal information (name, address, email address, phone number) from children. The ACCVA also encourages parents and teachers to be involved in and aware of children's Internet use and encourages children to get permission before providing any information online. 
+### A Special Note about Children
 
-If information is provided by a child without his or her parents' permission and the ACCVA unwittingly collects it, the ACCVA will provide parents with a description of the specific types of personal information collected from the child, the opportunity at any time to refuse to permit the ACCVA further use or maintenance of the child's personal information and a means that is reasonable for the parent to obtain any personal information collected from that child. 
+The ACCVA recognizes that its website isn';t just appealing and interesting to adults; the site may also be attractive to children. While the ACCVA does not encourage children to use the site, it takes its responsibility to protect children';s privacy seriously. In compliance with COPPA, the Children';s Privacy Protection Act, the ACCVA does not, knowingly, collect personal information (name, address, email address, phone number) from children. The ACCVA also encourages parents and teachers to be involved in and aware of children';s Internet use and encourages children to get permission before providing any information online. 
 
-**Cookies**  
+If information is provided by a child without his or her parents'; permission and the ACCVA unwittingly collects it, the ACCVA will provide parents with a description of the specific types of personal information collected from the child, the opportunity at any time to refuse to permit the ACCVA further use or maintenance of the child';s personal information and a means that is reasonable for the parent to obtain any personal information collected from that child. 
+
+### Cookies
+
 A cookie is a text file placed on your hard drive by some web pages that you visit. When you visit the site again, the web server retrieves the cookie and reconfigures itself based on your profile and preferences, such as previous pages you visited and any information you provide via a form. 
 
 Cookies are generated by web sites such as visitsouthjersey.com to provide users with a personalized and an enhanced online experience. By assigning and storing a unique user name cookie on your hard drive, we are able to offer you personalized collection, filtering, and delivery of information that we feel will be of the greatest interest and value to you. Also, overall, aggregated usage information derived from cookies helps us improve our offerings by showing us how different areas of the web site are being used. Cookies, by themselves, cannot be used to reveal or discover the identity of the individual user. Your acceptance of our cookie will not compromise your anonymity while using our web site. Most web browsers automatically accept cookies but you can control cookies through your browser preference settings. If you choose to reject cookies, certain functions and applications on the site may be disallowed as a result, and you will not benefit from any personalized and enhanced services that are available. 
 
-**Contests & Sweepstakes**  
+### Contests & Sweepstakes
+
 On occasion, the ACCVA will conduct online contests, giveaways, or sweepstakes, which require information to be provided for eligibility. The information collected in these contests is subject to our Privacy Policy and conditions of use and is not shared. If the user does not provide the requested information he/she may not be eligible for the contest. Depending on the structure of the promotion, the submitted information is entered into a random drawing of the names to determine the winner. At the time a user enters a contest, giveaway or sweepstakes on atlanticcitynj.com, he or she may choose to receive continued e-mails from the ACCVA (called opting in). If the entrant does not choose to receive e-mail (called opting out), the information submitted by the entrant is inactivated in the database after the contest has ended. 
 
-**Links to Third Party Web Sites**  
-There are a few sections on the the ACCVA web site that are hosted by various partners of the ACCVA. Some of these partners maintain the look and feel of our web site or a segment of our web site, and sometimes it may not be evident when a user is on one of these sections. These pages are governed by the partner's privacy policy and terms and conditions of use. 
+### Links to Third Party Web Sites
 
-**Electronic Newsletters**  
+There are a few sections on the the ACCVA web site that are hosted by various partners of the ACCVA. Some of these partners maintain the look and feel of our web site or a segment of our web site, and sometimes it may not be evident when a user is on one of these sections. These pages are governed by the partner';s privacy policy and terms and conditions of use. 
+
+### Electronic Newsletters
+
 We offer free, electronic newsletters, updates and e-mail reminders as a service to our registrants, based upon your voluntary subscription. You will only receive an electronic newsletter if you have requested it (opted-in). We do not share our mailing lists with any third parties, including advertisers or partners. 
 
-**Disclaimer and Release With Respect to Any Linked Site or Other Third Party**  
+### Disclaimer and Release With Respect to Any Linked Site or Other Third Party
+
 Any transaction that you enter into with any linked site or other third party via or as a result of viewing our web site is solely between you and such linked site or other third party. By using this web site, you understand and agree that the ACCVA has no responsibility for any other sites or third party content or transactions. You further agree that you will hold the ACCVA harmless and not liable, and release the ACCVA from any all suits and/or claims, should you have any dispute over or problem with any such sites, site content or transactions. 
 
-**General Legal Notice and Disclaimer**  
+### General Legal Notice and Disclaimer
+
 References herein to any product or service offered by a linked site or other third party do not constitute or imply endorsement or recommendation by the ACCVA. While the ACCVA makes every effort to present accurate and reliable information on this web site, the ACCVA does not approve or certify such information nor does it guarantee the accuracy, completeness, efficacy, timeliness or correct sequencing of such information. 
 
-Use of such information is voluntary and reliance on it should only be undertaken after an independent review of its applicability, accuracy, completeness, efficacy and timeliness with regard to the user's specific needs and purposes. the ACCVA (including its employees and agents) is not responsible for and expressly disclaims all liability for, damages of any kind arising out of use, reference to, or reliance on the information available through this web site. No approvals, recommendations, endorsements, guarantees or warranties, including, but not limited to, any express or implied warranties of merchantability or fitness for any particular use or purpose of products or services named on this Internet site are made by the ACCVA. 
+Use of such information is voluntary and reliance on it should only be undertaken after an independent review of its applicability, accuracy, completeness, efficacy and timeliness with regard to the user';s specific needs and purposes. the ACCVA (including its employees and agents) is not responsible for and expressly disclaims all liability for, damages of any kind arising out of use, reference to, or reliance on the information available through this web site. No approvals, recommendations, endorsements, guarantees or warranties, including, but not limited to, any express or implied warranties of merchantability or fitness for any particular use or purpose of products or services named on this Internet site are made by the ACCVA. 
 
-**Terms of Use**  
+### Terms of Use
+
 By visiting, using and/or submitting information to this web site, you agree to the terms and conditions contained in this Privacy Policy and conditions of use and/or any other agreement that we might have with you. If you do not agree to any of these terms and conditions you should not use this web site or any products or services offered by the ACCVA, a linked site, or other third party discussed herein. 
 
 You agree that any dispute over privacy or the terms contained in this Privacy Policy and conditions of use, or any other agreement we have with you, will be governed by the laws of the State of New Jersey. You also agree to arbitrate such disputes in New Jersey and to abide by any limitation on damages contained in any agreement that may be reached with you. 
 
-**Notices and Changes to Our Privacy Policy**  
+### Notices and Changes to Our Privacy Policy
+
 As our services change from time to time, this Privacy Policy and conditions of use are expected to change. We reserve the right to amend the Privacy Policy and conditions of use at any time, for any reason, without notice to you, other than the posting of the amended Privacy Policy and conditions of use at this site. 
 
 It is your responsibility to check our site frequently to see the current Privacy Policy and conditions of use that are in effect and any changes that may have been made to them. The use of your information is subject to the Privacy Policy and conditions of use in effect at the most recent time of use. The provisions posted on this site and contained herein supersede all previous notices or policies regarding our privacy practices and the terms and conditions that govern the use of this web site. 
 
-**Questions Regarding The Privacy Policy and Conditions of Use**  
+### Questions Regarding The Privacy Policy and Conditions of Use
+
 If you have any questions about our Privacy Policy and conditions of use, any concern about privacy at the ACCVA or the use of this web site in general, please contact us via one of the following methods: 
 
-**E-mail:**  
-[webmaster@accva.com](mailto:fzanes@accva.com)
+**E-mail** :  
+[webmaster@accva.com ](mailto:webmaster@accva.com)
 
-**Mail:**  
+**Mail** :  
 Atlantic City Convention & Visitors Authority  
 Attention: Webmaster  
 2314 Pacifica Avenue  
-Atlantic City, NJ 08401  
-
+Atlantic City, NJ 08401
