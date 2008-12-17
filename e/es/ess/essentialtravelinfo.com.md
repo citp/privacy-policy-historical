@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the essentialtravelinfo.com privacy policy that was archived on 2008-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080319142635id_/http%3A//www.essentialtravelinfo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialtravelinfo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102817id_/http%3A//www.essentialtravelinfo.com/privacy_policy.html) for the most accurate reproduction.*
 
-# South Africa accommodation - Accommodation South Africa - Essential Travel Info
+# Privacy Policy - Essential Travel Info
 
 ## Introduction
 
