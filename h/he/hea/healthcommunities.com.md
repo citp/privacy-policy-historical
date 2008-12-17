@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcommunities.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628054334id_/http%3A//www.healthcommunities.com/common/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcommunities.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217073552id_/http%3A//www.healthcommunities.com/common/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Healthcommunities.com
 
@@ -49,7 +49,7 @@ No information is shared between Healthcommunities.com, Inc., and any of its ret
 
 This site makes forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information, and users should exercise caution when deciding to disclose personal information. 
 
-A user must only insert name and e-mail address (and he/she may use an inaccurate name or e-mail address) to post a question in the forums. This information is not used by Healthcommunities, unless the browser registers for a forum, in which case it is retained. Passwords are retained only when a user registers for a forum.
+A user must only insert name and e-mail address to post a question in the forums. This information is not used by Healthcommunities, unless the browser registers for a forum, in which case it is retained. Passwords are retained only when a user registers for a forum.
 
 **Security**
 
