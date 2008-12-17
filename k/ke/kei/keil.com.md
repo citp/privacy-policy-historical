@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629233336id_/http%3A//www.keil.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021216id_/http%3A//www.keil.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Keil Privacy Statement
 
 | 
 
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information. This privacy policy has been verified by BBBOnLine and is compliant with the BBBOnLine Privacy standards. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/).
+Your privacy is important to us. For this reason, we have made a commitment to meet strict requirements regarding how we treat your personal information.
 
 ### Who Collects the Information from this Site?
 
- **Keil** collects and is the sole owner of the information collected on this site.
+ **Keil, An ARM Company,** collects and is the sole owner of the information collected on this site.
 
 ### Where is Information Collected?
 
- **Keil** collects information at several different points on this web site including the following forms:
+ **Keil, An ARM Company,** collects information at several different points on this web site including the following forms:
 
   * [Discussion Forum](https://web.archive.org/forum/),
-  * Licensing and Registering a Product,
+  * [Licensing and Registering a Product](https://web.archive.org/license/),
   * [Downloading a Product Update](https://web.archive.org/update/),
   * [Requesting Technical Support](https://www.keil.com/support/gethelp.asp),
   * [Requesting a Quote](https://www.keil.com/product/prices.asp),
@@ -27,7 +27,7 @@ Your privacy is important to us. By participating in the Council of Better Busin
 
 
 
-These forms request you to enter personal information that is sent to **Keil** over the internet. You may use our secure server (SSL/HTTPS pages) to ensure that the information you send is encrypted.
+These forms request you to enter personal information that is sent to **Keil, An ARM Company,** over the internet. You may use our secure server (SSL/HTTPS pages) to ensure that the information you send is encrypted.
 
 ### What Information is Collected?
 
@@ -46,7 +46,7 @@ The information that is collected consists of the following:
 
 
 
-When you register your product we collect the following additional information:
+When you register your product we collect the following additional information, some of which may be optional:
 
   * Product Part Number
   * Version Number
@@ -132,7 +132,7 @@ Some forms ask if you would like to receive an e-mail message when a new softwar
 
 ### With Whom is the Information Shared?
 
- **Keil** will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
+ **Keil, An ARM Company,** will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
 
 We may occasionally share aggregated **demographic** information with our tool partners. This information is not linked to any personal information that can identify any individual person.
 
@@ -144,9 +144,9 @@ We partner with other embedded tools companies and chip manufacturers to provide
 
 ### What Security Precautions are in Effect?
 
- **Keil** takes every precaution to protect your information. When you submit sensitive information via the website, that information is protected both online and off-line.
+ **Keil, An ARM Company,** takes every precaution to protect your information. When you submit sensitive information via the website, that information is protected both online and off-line.
 
-All forms on this web site are available in both non-secure and secure formats. Secure forms encrypt and protect information with the best encryption software in the industry -- SSL. While on a secure page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just _surfing_. To learn more about our SSL certificate, refer to [http://www.keil.com/company/cert_ssl.asp](https://web.archive.org/company/cert_ssl.asp).
+All forms on this web site are available in secure format (SSL) only. Secure forms encrypt and protect information with the best encryption software in the industry — SSL. While on a secure page, the lock icon displays in Web browsers such as Netscape Navigator, FireFox, and Microsoft Internet Explorer. To learn more about our SSL certificate, refer to [http://www.keil.com/company/cert_ssl.asp](https://web.archive.org/company/cert_ssl.asp).
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our accounts receivable clerk or technical support personnel) are granted access to personally identifiable information. All database access is password-protected. Our employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure, locked environment.
 
@@ -168,7 +168,7 @@ A cookie is a piece of data stored on the user's hard drive containing informati
 
 When you enter and submit your personal information in a form on our web site, we send your browser a cookie that contains this information. Cookies we send are set to expire in 180 days (6 months). Subsequent visits to a form on our web site request the cookie and automatically fill-in the form. We automatically complete forms this way to save you time and avoid the redundant entry of information.
 
-If you are concerned about cookies we store on your computer, you may disable cookies in your browser. If your browser rejects cookies, you may still use our site. The only drawback is that the information in the cookie must be manually entered each time you return to one of our forms. For example, each time you download an update your user information must be re-entered.
+If you are concerned about cookies we store on your computer, you may disable cookies in your browser. If your browser rejects cookies, you may still use our site. The only drawback is that the information in the cookie must be manually entered each time you return to one of our forms. For example, each time you download an update your user information must be re-entered. There are a few sections of the site that rely on cookies for navigational purposes. If you disable cookies, you may not be able to access these sections.
 
 ### Log Files
 
@@ -176,13 +176,13 @@ We use IP addresses to analyze trends, administer the web site, and gather broad
 
 ### Links
 
-This web site contains links to other sites. Please be aware that **Keil** is not responsible for the privacy practices of such other sites. We encourage you read the privacy statements of each and every web site that collects personally identifiable information. In most cases, a new browser window opens when you link out of the Keil web site.
+This web site contains links to other sites. Please be aware that **Keil, An ARM Company,** is not responsible for the privacy practices of such other sites. We encourage you read the privacy statements of each and every web site that collects personally identifiable information. In most cases, a new browser window opens when you link out of the Keil web site.
 
 This privacy statement applies solely to information collected by the Keil Web site.
 
 ### Surveys
 
-From time-to-time our web site requests information via user surveys. Participation in a survey is completely voluntary and you, therefore, have a choice of whether or not to disclose this information. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code, age level). Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+From time-to-time our web site requests information via user surveys. Participation in a survey is completely voluntary and you, therefore, have a choice of whether or not to disclose the requested information. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code, age level). Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
 ### Correcting or Updating Personal Information
 
