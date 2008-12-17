@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxbone.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608153551id_/http%3A//voxbone.com/PrivacyPolicy.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxbone.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093250id_/http%3A//www.voxbone.com/PrivacyPolicy.jsf) for the most accurate reproduction.*
 
 # Voxbone - International VoIP virtual numbers, worldwide VoIP origination services
 
