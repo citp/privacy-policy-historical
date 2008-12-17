@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611044648id_/http%3A//www.mugglenet.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033710id_/http%3A//www.mugglenet.com/privacy.shtml) for the most accurate reproduction.*
 
 # MuggleNet | Privacy Policy
 
@@ -37,7 +37,7 @@ MuggleNet is an unofficial Harry Potter fan site. Please [email us](https://web.
 [Privacy Policy](https://web.archive.org/privacy.shtml) | [COPPA Policy](http://www.mugglenet.com/coppa.shtml) | [Feedback](http://www.mugglenet.com/feedback/) | [Credits](http://www.mugglenet.com/credits.shtml)  
 [Random Addresses](http://www.mugglenet.com/junk.php)
 
-1,331 muggles currently online
+1,122 muggles currently online
 
   
 
