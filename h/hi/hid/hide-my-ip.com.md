@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hide-my-ip.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609235818id_/http%3A//www.hide-my-ip.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hide-my-ip.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055203id_/http%3A//www.hide-my-ip.com/privacy.shtml) for the most accurate reproduction.*
 
 # Hide-My-IP.Com - Our Privacy Statement
 
@@ -28,4 +28,4 @@ The privacy and protection of children is especially important to us. As per the
 
 How to Contact Us
 
-If you have any questions about our privacy policy or Hide-My-IP.com, please visit our [contact page](https://web.archive.org/web/20080609235818id_/http%3A//www.hide-my-ip.com/contact.cgi).
+If you have any questions about our privacy policy or Hide-My-IP.com, please visit our [contact page](https://web.archive.org/web/20081217055203id_/http%3A//www.hide-my-ip.com/contact.cgi).
