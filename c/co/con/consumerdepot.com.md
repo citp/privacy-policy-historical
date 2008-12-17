@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616153335id_/http%3A//www.consumerdepot.com/pg_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217124221id_/http%3A//www.consumerdepot.com/pg_privacy_policy.asp) for the most accurate reproduction.*
 
 # Consumer Depot, Major Online Electronics, Computer Wholesaler Liquidator
 
@@ -28,7 +28,7 @@ Consumer Depot LLC
 Nashville, TN 37204 
 
   * Our e-mail address for general information is [support@consumerdepot.com ](mailto:support@consumerdepot.com)
-  * Our telephone number is 615-851-2125 
+  * Our telephone number is 615-263-0282 
   * Our fax number is 615-851-2126 
 
 
@@ -39,14 +39,12 @@ By using our Web site, you consent to the collection and use of this information
 
 © Copyright 1997 - 2008 Consumer Depot, LLC. All rights reserved.
 
-## TOP SEARCHES
+[](https://web.archive.org/web/20081217124221id_/http%3A//www.consumerdepot.com/categories.asp?id=CN)
 
 ## FEATURED PRODUCTS
 
+[](https://web.archive.org/web/20081217124221id_/http%3A//www.consumerdepot.com/pg_protection_plan.asp)
+
 ## CERTIFICATIONS
 
-## CUSTOMER RATINGS
-
-[](http://www.resellerratings.com/seller1660-p1-s3-d1.html)
-
-[](http://www.ourteamnashville.com/)
+[](http://www.retail-recyclers.com/)
