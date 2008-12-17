@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the productionhub.com privacy policy that was archived on 2008-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080221133422id_/http%3A//www.productionhub.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productionhub.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090141id_/http%3A//www.productionhub.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# ProductionHUB : About Us : Privacy Policy
-
-[](http://www.linkpoint.com/)
+# ProductionHUB Privacy Policy
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site, or as required by law.
 
@@ -17,7 +15,7 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 
 
-What personally identifiable information is collected from you?top
+What personally identifiable information is collected from you?
 
 ProductionHUB.com collects a persons name, mailing address, phone number, fax number and e-mail address. We also collect credit card information in order for you to purchase this service. This information is requested during registration and is used to deliver services the user has requested. All other information is optional and is used to create your member profile for other members and users of your community to know more about you, and to better target your interests.
 
@@ -25,11 +23,11 @@ What are cookies and how are they used?
 
 A "cookie" identifies your computer to our servers when you visit our site, saving your login information so you don't have to reenter it each time you visit. ProductionHUB.com uses cookies to assist the user / member in changing and / or editing their information that is already stored in our database. The cookie is used to hold the login status of the user as they edit their information. The benefit of the cookie is that it lets you, the user / member change and / or edit your information online without having to contact a ProductionHUB.com representative. If you choose not to accept the cookie then you, the user / member must contact the ProductionHUB.com support staff to have the changes and/or edits reflected on your listing. If you'd prefer to refuse cookies, turn them off using your browser. It's not required to have cookies turned on in order to use our web site.
 
-The organization collecting the information.top
+The organization collecting the information.
 
 When you are on ProductionHUB.com and are asked for personal information by productionhub.com, you are sharing that information with productionhub.com only. Please be aware that ProductionHUB.com's advertisers or web sites that have links on our site may collect personally identifiable information about you on their sites. The information practices of those web sites are not covered by this privacy policy. In addition, users and other members may be able to access certain information that you provide to them (e.g. your e-mail address and content that you post on sites that we link to as well as when you post to the Classifieds section of our website). ProductionHUB.com is not in a position to monitor or control any particular user's or community member's use of that content.
 
-How the is information used.top
+How the is information used.
 
 ProductionHUB.com's primary goal in collecting personal information is to provide you, the community member, with a potentially fulfilling experience. The more information a user supplies the better potential for maximum benefits.
 
@@ -43,15 +41,15 @@ If a user elects to use our referral service for informing a friend about our si
 
 ProductionHUB.com discloses your information to a third party credit authorization company but they do not use your information for any secondary purposes. We only pass over your personal information to other users when a match between media developers has occurred through our service and you have indicated an interest in contacting them. Otherwise, ProductionHUB.com will not disclose any of your personally identifiable information except when we have your permission.
 
-What about my email address?top
+What about my email address?
 
-Your email address is hidden and protected on the site. Users will be able to email you through our system without seeing your email address. If at the time of registration you indicated it was all right for ProductionHUB to send you our monthly newsletter and/or other industry related offers, we will do so. E-mails will be sent by ProductionHUB, for ProductionHUB, or on the behalf of a third party. ProductionHUB is committed to providing the industry with a reputable service without intruding on your privacy. The emails that you receive help in supporting the free services ProductionHUB provides. If at any time you decide not to receive emails from ProductionHUB, please inform us by calling 877.629.4122 or unsubscribe at the bottom of the email received.
+Your email address is hidden and protected on the site. Users will be able to email you through our system without seeing your email address. If at the time of registration you indicated it was ok for ProductionHUB to send you our monthly newsletter and/or other industry related offers, we will do so. E-mails will be sent by ProductionHUB, for ProductionHUB, or on the behalf of a third party. ProductionHUB is committed to providing the industry with a reputable service without intruding on your privacy. The emails that you receive help in supporting the free services ProductionHUB provides. If at any time you decide not to receive emails from ProductionHUB, please inform us by calling 877.629.4122 or unsubscribe at the bottom of the email received.
 
-What choices are available to you regarding collection, use and distribution of your information?top
+What choices are available to you regarding collection, use and distribution of your information?
 
 ProductionHUB.com, from time to time, sends e-mail regarding our products and services if you indicated upon registration or later that you are interested in receiving offers or information from ProductionHUB.com. If you do not wish to receive these mailings, simply tell us when you give us your personal account information by un-checking the 'keep me informed' box or indicate that you no longer wish to receive such offers and mailings.
 
-What security procedures are in place to protect the loss, misuse or alteration of the information?top
+What security procedures are in place to protect the loss, misuse or alteration of the information?
 
 Your account information is password protected so that only you have access to your personal information. We encourage you to not divulge your password to anyone. Remember to log off your computer or close your browser window when you have finished your work to ensure that all others cannot access your personal information and correspondence.
 
@@ -59,6 +57,6 @@ How you can correct any inaccuracies in the information.
 
 You may change any or all of your information by editing your member profile after signing in. Go to the 'edit listing' function to make changes. If you have forgotten your password, you may request a new password. For all other problems signing in, please contact [support](https://web.archive.org/about/contact.asp?department=2). You can also choose to have your member profile eliminated from our database entirely by contacting [support](https://web.archive.org/about/contact.asp?department=2).
 
-Notification of Changestop
+Notification of Changes
 
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. However, if you have opted out of all communication with the site, or deleted/deactivated your account, then you will not be contacted. Nor will your personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. We will use information in accordance with the privacy policy under which the information was collected.
