@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614014447id_/http%3A//www.findgift.com/Services/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217010153id_/http%3A//www.findgift.com/Services/Privacy-Policy) for the most accurate reproduction.*
 
 # FindGift.com Privacy Policy
 
@@ -54,6 +54,17 @@ If you choose to visit FindGift.com, your visit and any dispute over privacy is 
 
  
 
-|   
+| 
+
+9
+
+Days  
+Until...
+
+Upcoming Holidays 
+
+Find unique gift ideas with our 
+
+Find deals on Free Shipping, Discount Codes, Sale Items, Clearance and more.  
   
 FindGift.com and its logo are trademarks of Registry Online, Inc. 
