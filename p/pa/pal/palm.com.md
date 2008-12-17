@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palm.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528205456id_/http%3A//www.palm.com/us/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palm.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055953id_/http%3A//www.palm.com/us/company/privacy.html) for the most accurate reproduction.*
 
 # Palm - Company - Privacy Policy
 
@@ -58,7 +58,7 @@ Some parts of the Website and some product or service offerings are provided by 
 
 If we merge with, or are acquired by another company, or sell all or substantially all of our relevant assets, or file for bankruptcy, we may disclose personal information to the acquirer.
 
-Under certain circumstances, Palm may choose to trade, sell or rent your personal information with trustworthy third parties, but you can tell us not to by going to our [information sharing options](https://web.archive.org/us/company/legal/info_options.html) page and by unsubscribing at the [newsletter sign-up](http://pref.news.palmnewsletters.com/palm/palm_prefctr.asp?c=us&b=generic) section of the Website.
+Under certain circumstances, Palm may choose to trade, sell or rent your personal information with trustworthy third parties, but you can tell us not to by unsubscribing at the [newsletter sign-up section](http://pref.news.palmnewsletters.com/palm/palm_prefctr.asp?c=us&b=generic) of the Website.
 
 #### Choice and opt-out
 
