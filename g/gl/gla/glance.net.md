@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glance.net privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514175112id_/http%3A//www.glance.net/site/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glance.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122652id_/http%3A//glance.net/site/support/privacy.asp) for the most accurate reproduction.*
 
 # Glance - Glance Networks, Inc. - Privacy
 
@@ -7,7 +7,7 @@
 At Glance Networks, Inc. we respect and protect the privacy of those who visit or use our Web sites. When we collect information from you, we want you to know how it is used. To demonstrate our commitment to fair information practices, we have adopted leading industry privacy guidelines.
 
 What information does this Web site gather?  
-Glance Networks, Inc. collects personal information such as name, address, e-mail address and billing information when you knowingly provide it to us. Our Web servers may automatically collect statistical information about your visit such as pages visited and which browsers are used to visit our site. None of this information is associated with you as an individual (see information about cookies). If collected, we would use these statistics to monitor our site's performance and to make it easier for you to use.
+Glance Networks, Inc. collects personal information such as name, address, e-mail address and billing information when you knowingly provide it to us. Our Web servers or a third party web analytics company may automatically collect statistical information about your visit such as pages visited and which browsers are used to visit our site. None of this information is associated with you as an individual (see information about cookies), unless and until you sign up for a Glance account. If collected, we would use these statistics to monitor our site's performance and to make it easier for you to use.
 
 Back to top
 
