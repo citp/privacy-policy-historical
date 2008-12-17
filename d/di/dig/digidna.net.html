@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the digidna.net privacy policy that was archived on 2008-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080603005223id_/http%3A//www.digidna.net/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digidna.net privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217070207id_/http%3A//www.digidna.net/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<html><head>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+		<meta name="viewport" content="width=850">
 				<meta name="verify-v1" content="h4FzRacTMZVqByDNfczJ5UmBMe+GbyBcj78zlIAIoX8=">
 				<meta name="description" content="TuneAid is an iPod content recovery tool. It will let you import your iPod, iPhone or iPod Touch 's content back into iTunes in no effort.">
 		<meta name="keywords" content="TuneAid is an iPod content recovery tool. It will let you import your iPod, iPhone or iPod Touch 's content back into iTunes in no effort.">
@@ -18,6 +19,90 @@
 		</script>
 	</head>
 <body>
+<script type="text/javascript">
+<!-- for older browsers
+	// slideShowSpeed (milliseconds)
+	var slideShowSpeedBanner = 10000;
+	
+	// Specify the image files
+	var banner = new Array();
+	
+	banner[0]="http://www.digidna.net/images/banner_1.png";
+	banner[1]="http://www.digidna.net/images/banner_2.png";
+
+	var bannerLink = new Array();
+	bannerLink[0]="http://www.digidna.net/tuneaid";
+	bannerLink[1]="http://www.digidna.net/fileaid";
+
+	var tBanner;
+	var pBanner = banner.length;
+	var currentBanner = 1;
+	
+	var preLoadBanner = new Array()
+	for (i = 0; i < pBanner; i++)
+	{
+		preLoadBanner[i] = new Image()
+		preLoadBanner[i].src = banner[i]
+	}
+
+	function loadBannerURL()
+	{
+		document.location.href = bannerLink[currentBanner - 1];
+	}
+
+	function runBannerSlideShow(num)
+	{ 
+		currentBanner = num;
+		blendimage('bannerDIV', 'bannerImage', banner[num - 1], 500)
+		clearTimeout(tBanner);
+		num++;
+		if (num > pBanner) num = 1;
+		tBanner = setTimeout('runBannerSlideShow(' + num + ')', slideShowSpeedBanner);
+	}
+
+	function executeSlideshow()
+	{
+		tBanner = setTimeout('runBannerSlideShow(2)', slideShowSpeedBanner);
+	}
+
+	//change the opacity for different browsers 
+	function changeOpac(opacity, id) {
+		var object = document.getElementById(id).style;
+		object.opacity = (opacity / 100);
+		object.MozOpacity = (opacity / 100);
+		object.KhtmlOpacity = (opacity / 100);
+		object.filter = "alpha(opacity=" + opacity + ")"; 
+	}
+	 
+	 
+	function blendimage(divid, imageid, imagefile, millisec) {
+		var speed = Math.round(millisec / 100);
+		var timer = 0;
+	
+		// set the current image as background
+		document.getElementById(divid).style.backgroundImage = "url(" + document.getElementById(imageid).src + ")"; 
+	
+		// make image transparent
+		changeOpac(0, imageid); 
+	
+		// make new image
+		document.getElementById(imageid).src = imagefile;
+		
+		// fade in image
+		for(i = 0; i <= 100; i++) {
+			setTimeout("changeOpac(" + i + ",'" + imageid + "')",(timer * speed));
+			timer++;
+		}
+	}
+	
+	window.onload = executeSlideshow;
+
+-->
+</script>
+<div style="background-image: url(http://www.digidna.net/images/banner_1.png); background-repeat: no-repeat; width: 800px; height: 114px;" id="bannerDIV">
+	<a onclick="loadBannerURL();" href="#"><img src="http://www.digidna.net/images/banner_1.png" style="width: 800px; height: 114px; border: 0 none; filter: alpha(opacity=0); -moz-opacity: 0; opacity: 0;" id="bannerImage" alt="More infos..."></a>
+</div>
+<div style="height:15px">&nbsp;</div>	
 	<table width="800" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td width="66"><a href="http://www.digidna.net"><img src="/images/website/digidna_logo.gif" width="66" height="40" alt="Home" title="Home" border="0"></a></td>
@@ -28,6 +113,8 @@
 				<td width="1%"><a href="http://www.digidna.net/products.php">Products</a></td>
 				<td width="1%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 				<td width="1%"><a href="/tuneaid/">TuneAid</a></td>
+				<td width="1%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+				<td width="1%"><a href="/fileaid/">FileAid</a></td>
 				<td width="1%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 				<td width="1%"><a href="/diskaid/">DiskAid</a></td>
 				<td width="1%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
@@ -50,19 +137,19 @@
 		<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 	<td width="6"><img src="/images/website/corner-top-left.gif" border="0" width="6" height="6"></td>
-	<td width="99%" style="background-color:#FFFFFF;font-size:3px;border-top:1px solid #afafaf">&nbsp;</td>
+	<td width="99%" style="background-color:#FFFFFF;font-size:1px;border-top:1px solid #afafaf">&nbsp;</td>
 	<td width="6"><img src="/images/website/corner-top-right.gif" border="0" width="6" height="6"></td>
 </tr>
 </tbody></table>		<table border="0" cellpadding="0" cellspacing="0" class="listBox" height="97%">
 		<tbody><tr>
 			<td style="padding:10px;vertical-align:top">
 				<h1>Privacy Policy &amp; Security</h1>
-				<div class="scrollarea">
+				<div class="scrollarea" style="height:650px">
 					<h6>PRIVACY STATEMENT</h6>
-					<h6>DigiDNA strives to protect the security and privacy of its users, and will strictly protect the security of the users’ personal information. Unlike other services similar to what TuneDNA offers, DigiDNA applies a zero tolerance Privacy Policy.</h6>
-					<h6>DigiDNA is the sole owner of any information gathered through the use of TuneDNA.</h6>
+					<h6>DigiDNA strives to protect the security and privacy of its users, and will strictly protect the security of the users’ personal information. DigiDNA applies a zero tolerance Privacy Policy.</h6>
+					<h6>DigiDNA is the sole owner of any information gathered through the use of TuneAid, DiskAid, FileAid, MoodDNA and TuneDNA.</h6>
 					<h6>The Sole aim of gathering personal information is for the benefit of the end user in manner to propose a meaningful service, such as logging ip addresses to match profiles within a geographical area.</h6>
-					<h6>DigiDNA, through TuneDNA, does NOT render any of your information public without your prior consent. This consent is required EACH time someone has requested to view your Musical Profile. Not at ANY time is ANY information about your name and surname given to the public.</h6>
+					<h6>DigiDNA, through TuneAid, DiskAid, FileAid, MooDNA and TuneDNA, does NOT render any of your information public without your prior consent. Not at ANY time is ANY information about your name and surname given to the public.</h6>
 					<h6>DigiDNA does not redistribute any aggregated or statistical information to any third party.</h6>
 					<h6>DigiDNA hosts all Personal Data on a server located in Switzerland. Switzerland enjoys one of the toughest Personal Information Protection law worldwide.</h6>
 					<h6>DigiDNA uses the latest encryption technology to protect information passed on to its servers.</h6>
@@ -73,7 +160,7 @@
 		<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 	<td width="6"><img src="/images/website/corner-bottom-left.gif" border="0" width="6" height="6"></td>
-	<td width="99%" style="background-color:#FFFFFF;font-size:3px;border-bottom:1px solid #afafaf">&nbsp;</td>
+	<td width="99%" style="background-color:#FFFFFF;font-size:1px;border-bottom:1px solid #afafaf">&nbsp;</td>
 	<td width="6"><img src="/images/website/corner-bottom-right.gif" border="0" width="6" height="6"></td>
 </tr>
 </tbody></table>	</td>
@@ -102,7 +189,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 	<td width="6"><img src="/images/website/corner-bottom-left.gif" border="0" width="6" height="6"></td>
-	<td width="99%" style="background-color:#FFFFFF;font-size:3px;border-bottom:1px solid #afafaf">&nbsp;</td>
+	<td width="99%" style="background-color:#FFFFFF;font-size:1px;border-bottom:1px solid #afafaf">&nbsp;</td>
 	<td width="6"><img src="/images/website/corner-bottom-right.gif" border="0" width="6" height="6"></td>
 </tr>
 </tbody></table><div style="height:15px">&nbsp;</div>
@@ -128,7 +215,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 	<td width="6"><img src="/images/website/corner-bottom-left.gif" border="0" width="6" height="6"></td>
-	<td width="99%" style="background-color:#FFFFFF;font-size:3px;border-bottom:1px solid #afafaf">&nbsp;</td>
+	<td width="99%" style="background-color:#FFFFFF;font-size:1px;border-bottom:1px solid #afafaf">&nbsp;</td>
 	<td width="6"><img src="/images/website/corner-bottom-right.gif" border="0" width="6" height="6"></td>
 </tr>
 </tbody></table><div style="height:15px">&nbsp;</div>
@@ -136,7 +223,7 @@
 <tbody><tr>
 	<td width="6"><img src="/images/website/box-title_left.gif" border="0" width="6" height="26"></td>
 	<td width="99%" class="boxTitle">
-		<span style="color:#CA0017">TuneDNA</span>	
+		<span style="color:#CA0017">FileAid</span>	
 	</td>
 	<td width="6"><img src="/images/website/box-title_right.gif" border="0" width="6" height="26"></td>
 </tr>
@@ -144,8 +231,8 @@
 <tbody><tr>
 	<td style="padding:6px;vertical-align:top">
 		<div align="center" style="padding-right:10px;">
-			<h6 style="text-align:left">Discover Music based on your personal preferences using <a href="http://www.tunedna.net">TuneDNA</a>.</h6>
-			<a href="http://www.tunedna.net"><img src="/images/website/tunedna_logo_mini.jpg" width="50" height="50" border="0" alt="TuneDNA" title="TuneDNA"></a>
+			<h6 style="text-align:left">Easily copy files on your iPhone for a quick look on the road using <a href="/fileaid">FileAid</a>.</h6>
+			<a href="/fileaid"><img src="/images/fileaid_logo_mini.png" width="50" height="50" border="0" alt="FileAid" title="FileAid"></a>
 		</div>
 	</td>
 </tr>
@@ -153,7 +240,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 	<td width="6"><img src="/images/website/corner-bottom-left.gif" border="0" width="6" height="6"></td>
-	<td width="99%" style="background-color:#FFFFFF;font-size:3px;border-bottom:1px solid #afafaf">&nbsp;</td>
+	<td width="99%" style="background-color:#FFFFFF;font-size:1px;border-bottom:1px solid #afafaf">&nbsp;</td>
 	<td width="6"><img src="/images/website/corner-bottom-right.gif" border="0" width="6" height="6"></td>
 </tr>
 </tbody></table></div>	</td>
@@ -163,7 +250,7 @@
 	<table width="800" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td width="6"><img src="/images/website/corner-top-left.gif" border="0" width="6" height="6"></td>
-		<td width="788" style="background-color:#FFFFFF;font-size:3px;border-top:1px solid #afafaf">&nbsp;</td>
+		<td width="788" style="background-color:#FFFFFF;font-size:1px;border-top:1px solid #afafaf">&nbsp;</td>
 		<td width="6"><img src="/images/website/corner-top-right.gif" border="0" width="6" height="6"></td>
 	</tr>
 	</tbody></table>	
@@ -172,13 +259,13 @@
 		<td>
 			<table width="790" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
-				<td class="footer" width="90%">
+				<td class="footer" width="700">
 					© DigiDNA 2006-2008. All rights reserved. DigiDNA is not affiliated with Apple Computer.
 					&nbsp;
 					<a href="http://www.digidna.net/privacy_policy.php">Privacy policy &amp; Security</a> - 
 					<a href="http://www.digidna.net/terms_and_conditions.php">Legal</a>
 				</td>
-				<td class="footer" style="text-align:right" width="15%" nowrap="on">
+				<td class="footer" style="text-align:right" width="90" nowrap="on">
 					<a href="mailto:info@digidna.net">Contact Us</a>&nbsp;&nbsp;
 				</td>
 			</tr>
@@ -189,7 +276,7 @@
 	<table width="800" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td width="6"><img src="/images/website/corner-bottom-left.gif" border="0" width="6" height="6"></td>
-		<td width="788" style="background-color:#FFFFFF;font-size:3px;border-bottom:1px solid #afafaf">&nbsp;</td>
+		<td width="788" style="background-color:#FFFFFF;font-size:1px;border-bottom:1px solid #afafaf">&nbsp;</td>
 		<td width="6"><img src="/images/website/corner-bottom-right.gif" border="0" width="6" height="6"></td>
 	</tr>
 	</tbody></table>
