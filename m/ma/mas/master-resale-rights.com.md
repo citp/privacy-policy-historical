@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the master-resale-rights.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606065100id_/http%3A//www.master-resale-rights.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the master-resale-rights.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064639id_/http%3A//master-resale-rights.com/pages/privacy.html) for the most accurate reproduction.*
 
-# Private Label Resell Rights, Master Resell Rights, , eBook Resale Rights, Resale Enterprises
+# Privacy Policy: Private Label Rights, Master Resell Rights, Private Label Resale Rights
 
+_**"We Do Not, and Will Not Share Your Information With Any Outside Parties"**_  
+  
 ---  
    
   
