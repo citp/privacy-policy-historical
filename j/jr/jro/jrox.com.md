@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jrox.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608142044id_/http%3A//www.jrox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrox.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217032802id_/http%3A//www.jrox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
