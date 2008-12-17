@@ -1,71 +1,69 @@
-> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224135125id_/http%3A//www.ncr.com/utility/privacy_policy/ncr_privacy_policy.jsp%3Flang%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002605id_/http%3A//www.ncr.com/utility/privacy_policy/ncr_privacy_policy.jsp%3Flang%3DEN) for the most accurate reproduction.*
 
 # NCR Privacy Policy
 
-**NCR's Position on Privacy and Data Protection**
+**NCR’s Policy on Privacy and Data Protection**
 
-As a leading producer of customer transaction solutions, NCR has long been concerned about protecting personal information it gathers about its employees and customers. NCR (as a member of the national trade association for the information technology industry - now ITI) adopted its first set of privacy principles in 1971.
+NCR is committed to protecting the confidentiality and integrity of Personal Information you entrust to us, as well as information to which we must have access in order to provide products and services to our customers (in this policy, “you” includes any person about whom NCR collects or possesses Personal Information). NCR takes appropriate steps to safeguard this information in accordance with the applicable laws of the countries in which we conduct business as well as with contractual requirements.
 
-NCR also considers data protection a customer satisfaction issue. We seek to meet all customer expectations in our solutions, products and services-and in our business practices. We will meet the customer demand for privacy protection.
+In keeping with this commitment, we created this privacy policy to help you understand how NCR will protect Personal Information. NCR complies with data protection principles applicable in the major jurisdictions in which we operate. These principles require that Personal Information:
 
-NCR believes that individuals have the right to be informed about the information being collected about them and about its intended use. People should also have the right to "opt out" if they do not wish to have personal data used for other purposes. They should also have the right to review information being retained and the means to update and correct it.
+  * Will be used fairly and lawfully. In particular, Personal Information will only be used in accordance with NCR’s privacy policies and procedures.
+  * Will be obtained only for specified and lawful purposes, and will not be further used in any manner incompatible with those purposes.
+  * Will be relevant and not excessive in relation to the purposes for which it is used.
+  * Will be accurate and, where necessary, kept up to date.
+  * Will not be kept for longer than is necessary for the specified purposes or as otherwise required by law.
+  * Will be used in accordance with your rights as required by applicable legislation.
+  * Will be subject to appropriate technical and organizational measures to prevent accidental, unauthorized, or unlawful processing, disclosure or loss.
+  * Will not be transferred without adequate protection.
 
-**Our Web Site**
 
-When you visit us at [www.ncr.com](https://web.archive.org/index1.htm) we want you to feel secure that NCR is respecting your privacy. In fact, the only private information we have about you is the information you choose to give us by filling out a form or providing feedback. We do not give that information to third parties without notifying you on the form and getting your consent.
 
-We may use "cookies" on some pages of our site, simply to help us serve you better each time you return. A cookie is a small element of data that a Web site can send to your browser, which may then store it on your system.
+“Use” of Personal Information as described in this policy includes all processing of that Information as defined in Directive 95/46/EC of the European Parliament. If you are an NCR customer, employee, contractor, or supplier, the treatment of Personal Information may be subject to additional NCR policies, or to a contract between us.
 
-The data collected from cookies helps us determine how many people visit this site and what pages they view. We use this information to better serve all visitors as we improve our site content and design. You can set your Web browser to warn you before you accept a cookie.
+This policy was last updated on August 1, 2008.
 
-We do collect information on the domains from which people visit us. Again, we use that data to track trends in our site traffic and as the basis for making improvements. We do not share this information with any third parties.
+**Policy Statement**
 
-* * *
+**Personal Information defined**  
+Personal Information may include a person’s name, address, email address, telephone number, birth date, gender, social security number or equivalent, and photograph, and may also include information concerning a person’s education, employment, interests, or any other information necessary to complete a requested transaction or service (such as credit card or other credit information).
 
-**NCR Personal Data Protection Principles**
+You may provide Personal Information to NCR in a variety of ways, such as registering for an on-line account or event, joining a mailing list, or filling out an information form. Additionally, we may obtain Personal Information from other sources like call centers, product registration or third parties. We may also obtain Personal Information about our customers’ customers in the course of providing our products or services.
 
-**Introduction**
+**To what does this Privacy Policy apply?**  
+This policy applies to any Personal Information that NCR has in its possession or control regardless of how or where that information was obtained, or where it is stored or used. All NCR organizations and personnel worldwide are governed by this policy.
 
-NCR recognizes that appropriate protection and management of personal data is a critical element in enabling consumers to realize the potential of global electronic commerce. NCR also recognizes that its long tradition of protecting employee personal data is encountering new challenges as NCR's personnel databases and systems become increasingly electronic and global.
+**Collection & Use of Personal Information**  
+We collect only Personal Information which is necessary or helpful for valid business purposes or to comply with applicable law, and any such Information will be obtained only by fair and lawful means.
 
-NCR has therefore adopted the following privacy principles for the protection of consumer and employee personal data. (Personal data is defined as any information relating to an identified or identifiable individual.) NCR will follow these principles, consistent with applicable local laws, in all its operations globally.
+We will use Personal Information only to the extent necessary to fulfill our business needs, and in any event in accordance with applicable data protection legislation. Such use may include sales calls, marketing communications, delivering or completing requested services or transactions, and analyzing a series of transactions. We will only use Personal Information about our customers’ customers in accordance with our customer’s instructions, and again only in compliance with applicable law.
 
-**1\. Providing Information on Data Protection Policies**
+Some NCR web sites utilize cookies to collect information. A cookie is a small element of data that a web site can send to a web browser, which is then stored on the browser user’s computer. Information stored in a cookie may include, among other things, access times, the NCR or linked sites visited, IP address, and domain name. This cookie data helps us determine how many people visit the site, where they are from and what pages they view. This information, together with data stored in server logs, may be used to track trends in NCR’s site traffic to help us improve the site.
 
-NCR will provide consumers and employees with easily understood information about NCR's policies regarding the collection, use, and disclosure of personal data.
+**How long is Personal Information retained?**  
+We will retain Personal Information as long as it is helpful in supporting the overall purpose(s) for which the information was provided, consistent with applicable law.
 
-**2\. Limiting Data Collection and Use**
+**Disclosure of Personal Information**  
+We may disclose Personal Information to our subsidiaries and related companies, and to certain third parties, including service providers or subcontractors necessary to support the uses described above, but such disclosure will always be consistent with the purposes for which the Information was provided. When we transmit Personal Information to a third party, we contractually require that party to employ appropriate safeguards in connection with its use of the information, and to use it only for the purposes we state. In some instances, data may be transferred outside the country in which it was gathered, but we will not do so without assuring that suitable safeguards are in place. We may also release Personal Information to third parties when disclosure is required by law.
 
-NCR will limit the collection and use of personal data to that which is needed for valid business purposes or to comply with local law, and any such data will be obtained only by lawful and fair means.
+We will not sell, rent or lease Personal Information to third parties, except in conjunction with a sale of our business to which the Personal Information relates.
 
-**3\. Ensuring Data Accuracy**
+**Setting your privacy preferences and opting out**  
+We will provide mechanisms for opting out of mass marketing communications targeted by Personal Information we have collected. These mechanisms will normally be available on the relevant web site, but you may always use the contact mechanism specified below. Requests to opt out of communications based on data controlled by third parties must be made through the third party.
 
-NCR will strive to maintain the accuracy of the personal data held, including establishing, as appropriate, mechanisms allowing consumers and employees to have the opportunity to review and correct their personal data.
+**Accessing and maintaining the accuracy of your Personal Information**  
+We strive to maintain the accuracy of any Personal Information we collect. We will provide mechanisms to allow you to review, correct, or delete (except where retention is necessary to complete a requested transaction or service, or to meet legal requirements) Personal Information related to you. These mechanisms will normally be available on the relevant Web site, but you may always use the contact mechanism specified below. Requests to access, correct, or delete Personal Information controlled by third parties must be made through that third party. 
 
-**4\. Enabling Informed Choice**
+**Protection of your Personal Information**  
+We will take appropriate steps to safeguard Personal Information to reduce the risk of its disclosure or use in violation of this policy.
 
-NCR will furnish consumers and employees with information on the intended use of personal data, and with mechanisms permitting the exercise of choice on its disclosure. More specifically,
+**Notification of changes to this policy**  
+We are always working to improve our business methods and policies. As a result, this policy may be updated or amended. If we substantially change it, we will post a notice on this site for at least 30 days, describing the change, and we will revise the "last updated" date above to reflect the change.
 
-Consumers -- NCR will not release personal data to unaffiliated third parties, unless (1) the consumer requests it; (2) the data is provided to help complete a consumer-initiated transaction; (3) the disclosure is required by law; or (4) the consumer has been informed about the possibility of such disclosure and has decided not to opt out.
+**Contacting us with privacy questions and/or concerns**  
+We want to address any concerns you may have. You may email any comments or questions regarding this policy, or NCR’s handling of your Personal Information, to [privacy@ncr.com](mailto:privacy@ncr.com), or mail it to:
 
-Employees - NCR will not release personal data to unaffiliated third parties, except and only as specifically provided for under internal corporate management policies.
-
-If employee or consumer personal data is provided to an affiliated third party (e.g., contractors and partners), NCR will require the third party to adhere to similar data protection principles that provide for keeping such data confidential.
-
-**5\. Safeguarding Security**
-
-NCR will take appropriate steps to ensure that personal data is protected from unauthorized access and disclosure, including limiting access to such data only to those employees with a business need to know.
-
-**6\. Adapting Privacy Practices to Electronic and Online Technologies**
-
-NCR will apply these principles via practices that have the equivalent effect regardless of the specific technologies employed for data collection and use. Consumers and employees should have a reasonably consistent expectation of privacy in both electronic and paper-based environments.
-
-**7\. Leading in the Marketplace**
-
-NCR will develop and offer market-driven solutions that empower its corporate customers to protect consumers' personal data. NCR will also support and participate in consumer education efforts about the importance of fair information practices and privacy protection.
-
-* * *
-
-NCR is a member of the [Online Privacy Alliance](http://www.privacyalliance.org/).
-
-©2007 NCR Corporation. All rights reserved.
+Privacy Office, Law Department  
+NCR Corporation  
+1700 S. Patterson Blvd.   
+Dayton, OH 45479 USA
