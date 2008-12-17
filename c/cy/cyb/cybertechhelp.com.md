@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybertechhelp.com privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021020605id_/http%3A//www.cybertechhelp.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybertechhelp.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217162747id_/http%3A//www.cybertechhelp.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 ## Ad Servers 
 
-With respect to Ad Servers: Cyber Tech Help partners with Google to provide content relevent text-based adverts only.
+With respect to Ad Servers: Cyber Tech Help partners with Google to provide content relevent image and text-based adverts only.
 
 ## Registration 
 
