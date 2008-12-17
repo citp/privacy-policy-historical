@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the forbestraveler.com privacy policy that was archived on 2008-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080624223213id_/http%3A//www.forbestraveler.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forbestraveler.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217034836id_/http%3A//www.forbestraveler.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy, Policy Statement - ForbesTraveler.com </title>
 
 
 <meta name="description" content="Privacy Policy - Privacy statement of ForbesTraveler.com">
+<meta name="keywords" content="null">
 
 <script language="JavaScript" src="http://images.forbestraveler.com//media/js/cookieUtil.js"></script>
 
@@ -26,7 +27,7 @@
 <link href="http://images.forbestraveler.com/media/css/main_style.css" rel="stylesheet" type="text/css"><link rel="icon" href=" http://images.forbestraveler.com/media/img/favicon.ico" type="image/x-icon">
 </head>
 
-<body onload="ftdc_moveDown()" bgcolor="F0EFE5" leftmargin="0" topmargin="0">
+<body onload="ftdc_moveDown(); loadjs();" bgcolor="F0EFE5" leftmargin="0" topmargin="0">
 <script>
 var url=document.location.href;
 var hostname=document.location.hostname;
@@ -85,8 +86,9 @@ document.cookie = ppageStr;
 </div>
 
 <div id="content_area">
-
-<a href="/"><img src="http://images.forbestraveler.com/media/img/bg_header.gif" width="935" height="190" border="0" alt=""></a>
+<div id="header_container">
+<div id="logo_container">
+<a href="/"><img src="http://images.forbestraveler.com/media/img/ftdc_header_logo.jpg" width="193" height="117" border="0" alt="Forbes Traveler"></a></div>
 
 <div id="ad_leaderboard">
 <script language="JavaScript">
@@ -101,35 +103,31 @@ var welcomeCookie="undefined";
 </script>
 
 <script language="JavaScript" src="http://images.forbestraveler.com/media/js/welcomeAd.js"></script></div>
+<div style="clear:both"></div>
+</div>
 
+<div id="nav_container">
 <!---------- global search ---------->
 <div id="search_global">
-<form action="/Search" method="POST">
+<form action="/Search" method="GET">
 <b class="util">SEARCH</b>
 <input type="Text" name="search" id="search" size="50" maxlength="150">
-<input type="hidden" name="resultpage" value="">
+<input type="hidden" name="resultpage" value="articles">
 <input type="Image" name="SEARCH_IMAGE" align="ABSMIDDLE" src="http://images.forbestraveler.com/media/img/search_arrow.gif" border="0" width="16" height="16" vspace="1" hspace="1">
 </form>
 </div>
 <!---------- global search ---------->
 
-<!---------- NAVIGATION ----------->
-<div style="position:absolute;top:169;left:28;z-index:100;">
-<script language="JavaScript" src="http://images.forbestraveler.com/media/js/ftdc_navigation.js"></script>
-</div>
-<!---------- NAVIGATION ----------->
-
 <div id="search_destination">
 <table cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td valign="top"><img src="http://images.forbestraveler.com/media/img/choose_dest.gif" alt="choose a destination" id="choose_destination"></td>
-		<td><form id="headersearchform">
+		<td valign="top"><img src="http://images.forbestraveler.com/media/img/choose_dest.gif" hspace="2" alt="choose a destination" id="choose_destination"></td>
+		<td><form id="headersearchform" style="margin:0; padding:0;">
 <select id="headerselect0" size="1" onchange="javascript:ftdc_accommodationsearch_clickmap('header',this,'headerselect1','headerselect2');"></select><br>
 <select id="headerselect1" size="1" onchange="javascript:ftdc_accommodationsearch_clickmap('header',this,'headerselect2');">
 </select><br>
 <select id="headerselect2" size="1" onchange="javascript:ftdc_accommodationsearch_clickmap('header',this);"></select>
 </form>
-
 <script language="JavaScript"> ftdc_accommodationsearch_initialize("headerselect0","headerselect1","headerselect2"); </script>
 
 </td>
@@ -138,7 +136,12 @@ var welcomeCookie="undefined";
 
 
 </div>
-
+<!---------- NAVIGATION ----------->
+<div id="dropdown_navbar">
+<script language="JavaScript" src="http://images.forbestraveler.com/media/js/ftdc_navigation.js"></script>
+</div>
+<!---------- NAVIGATION ----------->
+</div>
 
 <div id="gridcontainer_1">
 	<div id="gridcontainer_2">
@@ -358,8 +361,8 @@ Revised and posted as of August 31, 2006 <br>
 
 
 <div style="padding-top:18px;padding-bottom:10px;width:215px;float:left;">
-	<a href="/signup.html"><img src="http://images.forbestraveler.com/media/img/FPnewslettermodule.jpg" width="215" height="242" border="0" alt=""></a>
-	<a href="/login.html"><img src="http://images.forbestraveler.com/media/img/FPupdate_module.gif" width="215" height="29" border="0" alt=""></a>
+	<a href="/signup.html"><img src="http://images.forbestraveler.com/media/img/FPnewslettermodule_v2.gif" width="215" height="95" border="0" alt=""></a>
+	<a href="/login.html"><img src="http://images.forbestraveler.com/media/img/FPupdate_module_v2.gif" width="215" height="28" border="0" alt=""></a>
 
 
 
@@ -457,36 +460,58 @@ function eraseCookie(name) {
 
 
 
+
+
 <!--START FOOTER-->
 
+
+
 <script language="JAVASCRIPT">
+
 var d = new Date();
+
 var curr_year=2008;
+
 curr_year = d.getFullYear();
+
 </script>
 
 
+
+
+
 <br clear="all">
 
-<div id="footer">
+
+
+<div id="footer" style="text-align:center;">
+
 <a href="/inspirations/" class="subnav">INSPIRATIONS</a> | <a href="/destinations/" class="subnav">DESTINATIONS</a> | <a href="/accommodations/" class="subnav">ACCOMMODATIONS</a> | <a href="/vacations/" class="subnav">VACATIONS</a> | <a href="/reservations/" class="subnav">RESERVATIONS</a><br>
+
 <a href="/privacy/" class="subnav">Privacy Policy </a> | <a href="/terms/" class="subnav">Terms of Service</a> | <a href="/sitemap/" class="subnav">Site Map </a> | <a href="/contact/" class="subnav">Contact Us</a> | <a href="/advertise/" class="subnav">Advertise on ForbesTraveler.com</a> | <a href="/permissions/" class="subnav">Reprints/Permissions</a><br>
+
 <a href="http://www.forbes.com/adinfo/" class="subnav">Advertise on Forbes.com</a> | <a href="http://www.forbestraveler.com" class="subnav">© <script>
+
 document.write(curr_year)
+
 </script>2020
+
  Forbes.com LLC</a>
 
-</div>
-<!-------------------------- FOOTER -------------------------------------->
-<center>
-<font font-size="10px" color="#7799aa">
-<span class="footsponsor"><a href="http://www.pythian.com">Oracle DBA by </a><br>
-<a href="http://www.pythian.com"><img src="http://images.forbes.com/media/partners/footer/PythianBadgeForbes4.gif" vspace="6" width="81" height="61" border="0" alt="Pythian Remote DBA"></a></span>
-</font>
-</center>
+
 
 </div>
+<center>
+<script type="text/javascript" src="http://images.forbes.com/scripts/foot_partner.js"></script>
+</center>
+<!-------------------------- FOOTER -------------------------------------->
+
+
+
+</div>
+
 <br clear="all">
+
 
 
  
@@ -499,11 +524,19 @@ document.write(curr_year)
 
 
 
+
  
 
 
 
+
+
+
 <!--END FOOTER-->
+
+
+
+
 
 
 
