@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514180007id_/http%3A//www.littletikes.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114837id_/http%3A//www.littletikes.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Playhouses, Inflatable Bouncers, Picnic Tables, Toddler Toys - Little Tikes
+# privacypolicy - Little Tikes
 
 | 
 
