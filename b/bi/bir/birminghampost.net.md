@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the birminghampost.net privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503170404id_/http%3A//www.birminghampost.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birminghampost.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217163232id_/http%3A//www.birminghampost.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - Birmingham Post
 
-## PRIVACY POLICY IN RELATION TO ALL WEB SITE SERVICES OFFERED BY MIDLAND NEWSPAPERS LIMITED ON THIS WEB SITE
+## PRIVACY POLICY IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR MIDLANDS LIMITED ON THIS WEB SITE
 
 We are committed to:
 
@@ -15,7 +15,7 @@ We are committed to:
 
 
 
-Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. When we refer to "we", "our" or "us" in this policy we mean the activities of Midland Newspapers Limited.
+Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. When we refer to "we", "our" or "us" in this policy we mean the activities of Trinity Mirror Midlands Limited.
 
 ## WHY WE COLLECT INFORMATION ABOUT YOU
 
@@ -69,6 +69,6 @@ More information on this can be found in the "Help" section of the browser that 
 
 ## OMNITURE ANALYTICS
 
-Midland Newspapers Limited engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. Midland Newspapers Limited controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of Midland Newspapers Limited is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to Midland Newspapers Limited may be reassociated by Midland Newspapers Limited with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture. 
+Trinity Mirror Midlands Limited engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. Trinity Mirror Midlands Limited controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of Trinity Mirror Midlands Limited is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to Trinity Mirror Midlands Limited may be reassociated by Trinity Mirror Midlands Limited with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture. 
 
 Further information regarding Omniture's privacy statement can be found by [clicking here](http://www.omniture.com/privacy/product "Omniture").
