@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the squarespace.com privacy policy that was archived on 2008-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080610025515id_/http%3A//www.squarespace.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the squarespace.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217140045id_/http%3A//www.squarespace.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -8,28 +8,25 @@
 
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
-  <link rel="stylesheet" type="text/css" media="screen" href="/display/common.css?styleId=192281&amp;RK=1212882303390">
-  <link rel="stylesheet" type="text/css" media="print" href="/display/print.css?styleId=192281&amp;RK=1212882303390">
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=192281&amp;RK=1227635460720&amp;CE=11">
 
   
 
-  <script type="text/javascript" src="/universal/scripts/global.js"></script>
-  <script type="text/javascript" src="/universal/scripts/image-folder-modules.js"></script>
-
-  <script type="text/javascript" src="/universal/yui/yahoo/yahoo-min.js"></script>
-<script type="text/javascript" src="/universal/yui/dom/dom-min.js"></script>
-<script type="text/javascript" src="/universal/yui/event/event-min.js"></script>
-<script type="text/javascript" src="/universal/yui/animation/animation-min.js"></script>
-<script type="text/javascript" src="/universal/scripts/global.js"></script>
-<script type="text/javascript" src="/universal/scripts/image-folder-modules.js"></script>
+  <script type="text/javascript" src="/universal/scripts/image-folder-modules.js?CE=11"></script>
+<script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event-animation.js?CE=11"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=11"></script>
 
 
   <script type="text/javascript">
   // <![CDATA[
 
-     var SS_URL_PREFIX = ""; 
-     var SS_RETURN_URL = "%2Fprivacy%2F"; 
-     var SS_MODULE_ID = "2389195"; 
+     Squarespace.Constants.CURRENT_MODULE_ID = "2389195"; 
+    Squarespace.Constants.WEBSITE_TITLE =  "Squarespace"; 
+    
+    
+     Squarespace.Constants.LEGACY_LAYOUT = "true"; 
+
+    
 
     
 
@@ -41,10 +38,7 @@
 
   <!-- End Heading -->
 
-  <script type="text/javascript" src="/universal/scripts/uihelp.js"></script>
-
-<meta name="verify-v1" content="worK41C8KHUXdb4xODmKu9Aw+n1w6fRzZ3STyxqohA8=">
-
+  <meta name="verify-v1" content="worK41C8KHUXdb4xODmKu9Aw+n1w6fRzZ3STyxqohA8=">
 
 <!--[if lte IE 6]>
 <script type="text/javascript" src="/storage/scripts/supersleight-min.js"></script>
@@ -55,13 +49,19 @@
 
   <body id="modulePage2389195">
 
-  
-  
-    <script type="text/javascript">
-      addEvent(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/login/?returnUrl=%2Fprivacy%2F"; } });
-    </script>
+  <script>
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
 
-  
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/display/Login?returnUrl=%2Fprivacy%2F"; } });
+  </script>
 
 
 
@@ -71,7 +71,7 @@
   <div id="pageHeaderWrapper"><div id="pageHeader">
 
     
-      <div id="bannerWrapper"><a href="http://www.squarespace.com/"><img id="banner" src="/layout/images/top-logo.gif" alt="Squarespace" title="Squarespace"></a></div>
+      <div id="bannerWrapper"><a href="http://www.squarespace.com/"><img id="banner" src="/layout/images/top-logo-2.gif" alt="Squarespace" title="Squarespace"></a></div>
 
     
 
@@ -89,7 +89,7 @@
                   <ul class="content-navigation">
   <li class="module">
 
-    <div id="moduleContent2338934">
+    <div id="moduleContent2475138">
 
       
         
@@ -129,7 +129,7 @@
 
   <li class="module">
 
-    <div id="moduleContent2377245">
+    <div id="moduleContent2610707">
 
       
         
@@ -209,6 +209,26 @@
 
   <li class="module">
 
+    <div id="moduleContent3009357">
+
+      
+        
+        
+        
+
+        <span><a href="javascript:loginBox();">LOGIN</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module">
+
     <div id="moduleContent2428844">
 
       
@@ -232,39 +252,19 @@
 
     
 
-      <div id="sectionContent1278711" class="sectionWrapper"><div class="section">
-         <div class="caption">Hide Me</div> 
+      <div id="sectionContent1318814" class="sectionWrapper"><div class="section">
+         <div class="caption">Internal</div> 
                   <ul class="content-navigation">
   <li class="module">
 
-    <div id="moduleContent2389183">
+    <div id="moduleContent2460378">
 
       
         
         
         
 
-        <span><a href="/terms/">Terms</a></span>
-
-      
-
-      
-
-    </div>
-
-  </li>
-
-
-  <li class="module" id="active-module">
-
-    <div id="moduleContent2389195">
-
-      
-        
-         <span id="active-module-marker">—&nbsp;</span> 
-        
-
-        <span><a href="/privacy/">Privacy</a></span>
+        <span><a href="http://blog.squarespace.com">INSIDER BLOG</a></span>
 
       
 
@@ -277,34 +277,14 @@
 
   <li class="module">
 
-    <div id="moduleContent2389230">
+    <div id="moduleContent2460389">
 
       
         
         
         
 
-        <span><a href="/browsersupport/">Browser Support</a></span>
-
-      
-
-      
-
-    </div>
-
-  </li>
-
-
-  <li class="module">
-
-    <div id="moduleContent2389265">
-
-      
-        
-        
-        
-
-        <span><a href="/google-verification/">Google Verification</a></span>
+        <span><a href="http://manual.squarespace.com">MANUAL</a></span>
 
       
 
@@ -317,74 +297,14 @@
 
   <li class="module">
 
-    <div id="moduleContent2389279">
+    <div id="moduleContent2460388">
 
       
         
         
         
 
-        <span><a href="/devapply/">Developer Application</a></span>
-
-      
-
-      
-
-    </div>
-
-  </li>
-
-
-  <li class="module">
-
-    <div id="moduleContent2389324">
-
-      
-        
-        
-        
-
-        <span><a href="/developers/">Developers</a></span>
-
-      
-
-      
-
-    </div>
-
-  </li>
-
-
-  <li class="module">
-
-    <div id="moduleContent2389455">
-
-      
-        
-        
-        
-
-        <span><a href="/refund/">Refund Request</a></span>
-
-      
-
-      
-
-    </div>
-
-  </li>
-
-
-  <li class="module">
-
-    <div id="moduleContent2391745">
-
-      
-        
-        
-        
-
-        <span><a href="/reliability/">Reliability</a></span>
+        <span><a href="http://service.squarespace.com">SERVICE BLOG</a></span>
 
       
 
@@ -719,17 +639,15 @@ Terms of Service. This Privacy Policy only addresses activities from our servers
 
 <div id="pageFooterWrapper"><div id="pageFooter">
 
-              <script type="text/javascript" src="http://cetrk.com/pages/scripts/0008/9070.js"> </script>
+              <span class="full-image-float-left-footer">
 
-<span class="full-image-float-left">
-
-<a href="http://www.squarespace.com/do/display/external/PrivacyPolicy"><img src="/layout/images/truste.png" border="0"></a>
+<a href="/privacy"><img src="/layout/images/truste.png" border="0"></a>
 
 </span>
 
-<p>All content Copyright © 2003-2008, Squarespace, Inc. unless otherwise noted.  All rights reserved.
+<p>All content Copyright © 2003-2008, Squarespace, Inc.  Powered by the Squarespace platform.
 <br>
-<a href="/terms">Terms of Service</a> | <a href="/privacy">Privacy Policy</a> | <a href="/support">Contact Squarespace</a> | <a href="/about">About</a> | <a href="/reliability">Reliability</a> | <a href="http://developers.squarespace.com" target="_blank">Developers</a></p>
+<a href="/terms">Terms of Service</a> | <a href="/privacy">Privacy Policy</a> | <a href="/press">Press &amp; Media</a> | <a href="http://developers.squarespace.com" target="_blank">Developers</a></p>
 <br clear="all">
 
 
@@ -755,6 +673,94 @@ Terms of Service. This Privacy Policy only addresses activities from our servers
   </script>
 
 <!-- End Google Analytics Tracking Code -->
+
+
+
+<!-- Crazy Egg Testing -->
+
+<script type="text/javascript" src="http://cetrk.com/pages/scripts/0008/9070.js"> </script>
+
+<!-- Weee -->
+
+<script>
+  
+  YAHOO.util.Event.onDOMReady(function() {
+    return;
+    YAHOO.util.Event.addListener("moduleContent2391511", "mouseover", function() {
+      if (YAHOO.util.Dom.getStyle("sectionContent1318814", "display") != "block") {
+
+  var xy = [163, 34];
+  YAHOO.util.Dom.setStyle("sectionContent1318814", "left", xy[0] + "px");
+
+  YAHOO.util.Dom.setStyle("sectionContent1318814", "opacity", "0");
+  YAHOO.util.Dom.setStyle("sectionContent1318814", "display", "block");
+  new YAHOO.util.Anim("sectionContent1318814", { top: { from: xy[1]-15, to: xy[1] }, opacity: { to: 1 } }, .3, YAHOO.util.Easing.easeOutStrong).animate();
+
+}
+
+});
+
+  });
+
+</script>
+
+
+<script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-get-dragdrop-connection.js"></script>
+<script type="text/javascript" src="/universal/scripts/squarespace-login.js"></script>
+
+<script>
+  
+  // login box
+
+  function loginBox() {
+
+    if (D.getStyle("loginBoxWrapper", "display") != "block") {
+
+      D.setStyle("loginBoxWrapper", "height", "0px");
+      D.setStyle("loginBoxWrapper", "display", "block");
+ 
+      var xy = D.getXY("moduleContent3009357");
+      D.setXY("loginBoxWrapper", [xy[0]-60, xy[1]+22]);
+
+      new YAHOO.util.Anim("loginBoxWrapper", { height: { to: 335 } }, .4, YAHOO.util.Easing.easeOutStrong).animate();
+
+    } else {
+
+      var a = new YAHOO.util.Anim("loginBoxWrapper", { height: { to: 0 } }, .2, YAHOO.util.Easing.easeOutStrong);
+      a.onComplete.subscribe(function(t, a, o) {
+        D.setStyle("loginBoxWrapper", "display", "none");
+      });
+      a.animate();
+    }
+
+  }
+
+</script>
+
+<div id="loginBoxWrapper">
+<div id="loginBox">
+<form name="loginform" method="post" action="/">
+
+<div class="title">Squarespace Account Login</div>
+<div class="message">Lost your Squarespace login URL?  You can still login using your account name below.  To restore your login on your website or find your login URL, <a href="http://manual.squarespace.com/pages/logging-in-to-your-site.html">follow this guide »</a></div>
+
+<div id="login_messages"></div>
+<div id="login_title">Login (NOT email address):</div>
+<div><input onkeypress="return Squarespace.Form.remapEnter(event, externalSquarespaceLogin);" type="text" class="text" name="login" id="login"></div>
+
+<div id="password_messages"></div>
+<div id="password_title">Password:</div>
+<div><input onkeypress="return Squarespace.Form.remapEnter(event, externalSquarespaceLogin);" type="password" class="text" name="password" id="password"></div>
+
+<br>
+<input style="width: 90px; float: left; margin-right: 10px;" type="button" class="button" name="submitButton" id="submitButton" onclick="externalSquarespaceLogin();" value="Login"> 
+<div style="float: left; padding-top: 8px; padding-left: 2px;">
+<a href="javascript:loginBox();">Cancel</a></div>
+<br class="clearer">
+
+</form>
+</div></div>
+
       
 
       
