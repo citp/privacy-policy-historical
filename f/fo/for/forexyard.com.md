@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forexyard.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410174034id_/http%3A//www.forexyard.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexyard.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110250id_/http%3A//www.forexyard.com/en/privacy-policy) for the most accurate reproduction.*
 
-# FOREXYARD Privacy Statement - Forex Trading Online
+# forex Privacy Statement FOREXYARD
 
 _**FOREX** YARD_ truly values each and every one of our visitors right to privacy and we take your privacy seriously. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. As part of our normal operations we may collect information about you and how you interact with our website. Our Privacy Policy is intended to provide you with a full description of the information we collect about you and what we do with that information. The provisions of this notice apply to former customers as well as our current customers.
 
