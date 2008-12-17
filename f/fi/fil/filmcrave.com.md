@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmcrave.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518084558id_/http%3A//www.filmcrave.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmcrave.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217032336id_/http%3A//www.filmcrave.com/privacy.php) for the most accurate reproduction.*
 
-# Filmcrave.com :: Terms of Use Agreement
+# Privacy Policy by Filmcrave
 
 Introduction   
 FilmCrave.com takes your privacy seriously. FilmCrave is designed for users and members to share photos, information, movie reviews and other information. This information will not be used outside of the FilmCrave.com community in a way that would identify a single user. Some of this information is necessary to display in order to facilitate adequate communication amongst members and users of this online community. Please do not post any information or photos that you are not comfortable displaying to other members and users of this website. 
@@ -12,10 +12,13 @@ FilmCrave.com also collects non-personal information such as IP address and brow
 
 In order to assist with users communication and facilitate the social-networking aspect of the website, information such as your personal profile, movie reviews and favorite movies will publicly shown across the website. All content personal content that could be used to identify a user's individually such as birth date, gender, name and email should be shown at the discretion of the user. Some of this information may be available to non-members and members alike. 
 
-FilmCrave.com may use some information such as movie reviews and top movie lists for other purposes such as advertising, marketing and print material. None of this information may be used in a way to identify a single user’s identity. 
+FilmCrave.com may use some information such as movie reviews and top movie lists for other purposes such as advertising, marketing and print material. None of this information may be used in a way to identify a single user's identity. 
 
 E-mail Communication  
-A user’s email address may also be used to send updates, user notifications and newsletters. Some of this communication may be turned off by updating your preferences in the user profile. Emails may also be sent to non-members if a member invites a user to join the FilmCrave.com community. These emails are sent on the behalf of another member and we do not monitor the frequency or content of this email.
+A user's email address may also be used to send updates, user notifications and newsletters. Some of this communication may be turned off by updating your preferences in the user profile. Emails may also be sent to non-members if a member invites a user to join the FilmCrave.com community. These emails are sent on the behalf of another member and we do not monitor the frequency or content of this email.
+
+Filmcrave Contact Importer  
+Filmcrave uses a contact importer for several functions on Filmcrave. ImaJAN Media, LLC does not store, distribute, sell, or utilize any emails that are populated, sent to, or used in anyway. No data is collected during the use of the contact import. Emails that are populated are considered private and ImaJAN Media, LLC will not use them in anyway other than to send the requested email that a member or non member wishes to send. 
 
 Links  
 Filmcrave.com may link to outside websites. We are not responsible for the content or privacy of any information that is transferred to these websites that reside outside of the FilmCrave.com community.
