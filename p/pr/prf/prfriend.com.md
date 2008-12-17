@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prfriend.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611051810id_/http%3A//www.prfriend.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prfriend.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217115706id_/http%3A//www.prfriend.com/privacy) for the most accurate reproduction.*
 
-# prfriend.com » Privacy Policy
+# Privacy Policy | PR Friend - Ethical Public Relations
 
 This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters, all members or affiliates and all customers. It sets out how PRfriend uses and protects any information that you provide when you use this website.
 
@@ -12,8 +12,10 @@ We can be contacted at <http://www.prfriend.com/contact/>
 
 PRfriend knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy.
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully.  
-We collect certain information to provide you with the best possible service.  
+We are committed to protecting your privacy.
+
+We do not store financial details of customers on the PRfriend site as all orders are carried out on Ultracart’s Secure Server.
+
 We will not e-mail you unless you have given us your consent or in reply to a specific request from you.  
 We use technology to track the patterns of behaviour of visitors to our site and cookies to record session information.
 
