@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sputnik.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622110402id_/http%3A//www.sputnik.com/sitestuff/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sputnik.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217124523id_/http%3A//www.sputnik.com/sitestuff/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,6 +63,6 @@ Sputnik reserves the right to update this Privacy Policy from time to time. Any 
 
 
 
-Questions: Should you have questions about this Privacy Policy, please send an email to [webmaster@sputnik.com](mailto:webmaster@sputnik.com).  
+Questions: Should you have questions about this Privacy Policy, please contact Sputnik's webmaster using this [online form](https://web.archive.org/aboutus/contact.html).  
   
 ---|---
