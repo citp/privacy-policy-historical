@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantvideoempire.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502234319id_/http%3A//www.instantvideoempire.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantvideoempire.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061559id_/http%3A//www.instantvideoempire.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | InstantVideoEmpire.com
 
@@ -23,9 +23,7 @@ CONSENT
 
 If you choose not to register or provide personal information, you cannot access the member area. 
 
-If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our member update or special offers. If you do not want us to communicate with you about other offers regarding 
-
-Power House Technology, LLC The Internet Company LLC & Innovative Marketing Solutions LLC. products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Power House Technology, LLC The Internet Company LLC & Innovative Marketing Solutions LLC. 
+If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our member update or special offers. If you do not want us to communicate with you about other offers regarding InstantVideoEmpire.com products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from InstantVideoEmpire.com. 
 
 ACCESS
 
@@ -36,29 +34,27 @@ Tell us whether you want us to send you member updates or special offers.
 
 SECURITY
 
-Power House Technology, LLC The Internet Company LLC & Innovative Marketing Solutions LLC have taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit you Personal Information via secured and encrypted channels if you use a similarly equipped web browser.
+InstantVideoEmpire.com  have taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit you Personal Information via secured and encrypted channels if you use a similarly equipped web browser.
 
 These security measures are in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration. 
 
 In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-Power House Technology, LLC The Internet Company LLC & Innovative Marketing Solutions LLC strictly protect the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+InstantVideoEmpire.com strictly protect the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
 
-Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the USA or any other country where 
-
-Power House Technology, LLC The Internet Company LLC & Innovative Marketing Solutions LLC its subsidiaries, affiliates or agents are located.
+Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the USA or any other country where InstantVideoEmpire.com, its subsidiaries, affiliates or agents are located.
 
 You also have a significant role in protecting your information. No one can share these see or edit your personal information without knowing your user name and password, so do not with others.
 
 NOTICE CONCERNING CHILDREN AND TO PARENTS
 
-We adhere to the Children's Privacy Act. You must be 18 years of age to join or use InstantVideoEmpire or any of the recommended or linked sites. This site follow the guidelines, policies and laws of the Federal Trade Commission ([www.ftc.gov](http://www.ftc.gov/) ). We retain the right to refuse anyone membership in any of our sites. If we learn or have reason to believe that a User is underage according to the guidelines, policies and laws of the Federal Trade Commission, we will promptly revoke that User’s account and delete any personal information.
+We adhere to the Children's Privacy Act. You must be 18 years of age to join or use InstantVideoEmpire.com or any of the recommended or linked sites. This site follow the guidelines, policies and laws of the Federal Trade Commission ([www.ftc.gov](http://www.ftc.gov/) ). We retain the right to refuse anyone membership in any of our sites. If we learn or have reason to believe that a User is underage according to the guidelines, policies and laws of the Federal Trade Commission, we will promptly revoke that User’s account and delete any personal information.
 
 ENFORCEMENT
 
-If for some reason you believe 
+If for some reason you believe InstantVideoEmpire.com
 
-Power House Technology, LLC The Internet Company LLC & Innovative Marketing Solutions LLC have not adhered to these principles, please notify us at: [http://www.MMEhelp.com](http://www.mmehelp.com/) , support @ InstantVideoEmpire or by certified mail, return receipt requested, 2248 Meridian Boulevard Suite H., Minden, NV 89423, United States, Telephone 46-264-1603 and Facsimile 46-264-1603. We will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+have not adhered to these principles, please notify us at: [http://www.MMEhelp.com](http://www.mmehelp.com/) , support @ InstantVideoEmpire.com or by certified mail, return receipt requested, Surefirewealth, Inc 2248 Meridian Boulevard Suite H., Minden, NV 89423, United States, Telephone 46-264-1603 and Facsimile 46-264-1603, and/or  CPM Direct Limited 75 Switchback Road South, Maidenhead, Berkshire SL67QF UK. We will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
 ELECTRONIC PRODUCT REGISTRATION 
 
@@ -78,9 +74,9 @@ We occasionally hire other companies to provide limited services on our behalf, 
 
 CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION
 
-Except as otherwise provided in this Privacy Policy, 
+Except as otherwise provided in this Privacy Policy, InstantVideoEmpire.com will not share your personal information with any third parties without your consent. 
 
-Power House Technology, LLC The Internet Company LLC & Innovative Marketing Solutions LLC will not share your personal information with any third parties without your consent. Power House Technology, LLC The Internet Company LLC & Innovative Marketing Solutions LLC will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Power House Technology, LLC The Internet Company LLC & Innovative Marketing Solutions LLC or the site; (b) protect and defend the rights or property of Power House Technology, LLC The Internet Company LLC & Innovative Marketing Solutions LLC and its family of Websites; (c) enforce our TOS; or (d) act under exigent circumstances to protect the safety of the public or users of the Site.
+InstantVideoEmpire.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on InstantVideoEmpire.com; (b) protect and defend the rights or property of InstantVideoEmpire.com and its family of Websites; (c) enforce our TOS; or (d) act under exigent circumstances to protect the safety of the public or users of the Site.
 
 If your information is lost or stolen, you must promptly notify us if your credit card, user name, or password is lost, stolen, or used without permission. In such an event, we will remove that credit card number, user name, or password from your account and update our records accordingly.
 
