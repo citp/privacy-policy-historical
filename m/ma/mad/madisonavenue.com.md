@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the madisonavenue.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511045633id_/http%3A//www.madisonavenue.com/advertiserRegistration.do%3Faction%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madisonavenue.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055807id_/http%3A//www.madisonavenue.com/advertiserRegistration.do%3Faction%3DprivacyPolicy) for the most accurate reproduction.*
 
-# MadisonAvenue.com Ad Management System - Welcome
+# MadisonAvenue.com | PRIVACY POLICY | Advanced Traffic Acquisition Platform
 
-> Site: MadisonAvenue
+> Site: MadisonAvenue.com
 > 
-> URL: http://www.MadisonAvenue.com
+> URL: http://MadisonAvenue.com
 > 
 > MadisonAvenue.com has created and publicly posted this privacy statement in order to demonstrate our commitment to privacy.   
 > The following discloses the information gathering and dissemination practices for our website and services.
