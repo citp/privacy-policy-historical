@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgu.edu privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509081749id_/http%3A//www.wgu.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgu.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112401id_/http%3A//www.wgu.edu/privacy.asp) for the most accurate reproduction.*
 
 # online university - WGU - online colleges - online degrees
 
