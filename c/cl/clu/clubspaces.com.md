@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubspaces.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510150748id_/http%3A//www.clubspaces.com/op/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubspaces.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141343id_/http%3A//www.clubspaces.com/op/privacy) for the most accurate reproduction.*
 
 # Clubspaces - FREE Online Club Management
 
