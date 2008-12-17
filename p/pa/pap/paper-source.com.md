@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paper-source.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625011912id_/http%3A//www.paper-source.com/cgi-bin/paper/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paper-source.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065650id_/http%3A//www.paper-source.com/cgi-bin/paper/security.html) for the most accurate reproduction.*
 
 # Paper Source - security & privacy
 
@@ -10,7 +10,7 @@ Our order form asks users to enter sensitive information (such as credit card nu
 
 Please note that Paper Source changed its privacy policy as of March 2008. We value the privacy of our customers and we know that you trust us when you provide us with your personal information. We use the personal information you provide for internal purposes, such as confirming and tracking your order, analyzing trends and statistics, informing you of our new products, services and offers, and providing you with information from and about Paper Source. In addition, if you sign up to receive catalogs, information on workshops, projects, local information, new merchandise, store openings or other Paper Source news, we may rent, share, sell or exchange your postal address with certain third parties we believe may be of interest to you. However, e-mail addresses are never shared with these third parties. 
 
-If you have your customer number (located on the back of your catalog) and would like to either opt out of having your information shared with these third parties, or opt out of receiving catalog mailings from Paper Source, please fill out this [form](https://web.archive.org/cgi-bin/paper/optin_change.html).
+If you have your customer number (located on the back of your catalog) and would like to either opt out of having your information shared with these third parties, or opt out of receiving catalog mailings from Paper Source, please fill out this [form](https://web.archive.org/cgi-bin/paper/opt_out.html).
 
 If you do not know your customer number you may notify us by e-mail us at [customerservice@paper-source.com](mailto:customerservice@paper-source.com) or write us at:
 
@@ -19,6 +19,6 @@ Paper Source
 410 N. Milwaukee Ave.  
 Chicago, IL 60610 
 
-In addition, we may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. (our “service providers”). We provide our service providers with the information needed for them to perform these services. We also ask our service providers to confirm that their privacy practices are consistent with ours. To opt-out of allowing us to share your information with our service providers [click here](http://www.paper-source.com/cgi-bin/paper/opt_out.html). 
+In addition, we may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. (our “service providers”). We provide our service providers with the information needed for them to perform these services. We also ask our service providers to confirm that their privacy practices are consistent with ours. To opt-out of allowing us to share your information with our service providers [click here](https://web.archive.org/cgi-bin/paper/opt_out.html). 
 
 Paper Source reserves the right to change or modify this policy at any time by posting the revised policy on our web site. For this reason, we encourage you to review our Privacy Policy whenever you purchase products from us or use our Web Site.
