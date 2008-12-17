@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jvlistpro.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224135915id_/http%3A//www.jvlistpro.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvlistpro.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095555id_/http%3A//www.jvlistpro.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Internet Marketing For Newbies LLC
 
-[Home](https://web.archive.org/web/20071224135915id_/http%3A//www.jvlistpro.com/index.htm) > [About Us](https://web.archive.org/web/20071224135915id_/http%3A//www.jvlistpro.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20071224135915id_/http%3A//www.jvlistpro.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20081217095555id_/http%3A//www.jvlistpro.com/index.htm) > [About Us](https://web.archive.org/web/20081217095555id_/http%3A//www.jvlistpro.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20081217095555id_/http%3A//www.jvlistpro.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of Internet Marketing For Newbies LLC/AWeber Systems, Inc.**
 
