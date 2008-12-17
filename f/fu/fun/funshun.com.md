@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funshun.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613185339id_/http%3A//www.funshun.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funshun.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094458id_/http%3A//www.funshun.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - FunShun.com
 
@@ -16,7 +16,7 @@ We at FunShun are responsible to keep your privacy and understand your requireme
 
 
 
-**Questions and Suggestions:** If you have questions or suggestions, please complete a feedback form or you can [contact us](https://web.archive.org/web/20080613185339id_/http%3A//www.funshun.com/contactus.html). 
+**Questions and Suggestions:** If you have questions or suggestions, please complete a feedback form or you can [contact us](https://web.archive.org/web/20081217094458id_/http%3A//www.funshun.com/contactus.html). 
 
 _Regards  
 Admin FunShun.com_
