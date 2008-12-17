@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pkr.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603001141id_/http%3A//www.pkr.com/footer/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkr.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050604id_/http%3A//www.pkr.com/footer/privacy.cfm) for the most accurate reproduction.*
 
 # PKR
 
@@ -26,7 +26,7 @@ In addition to Personal Information, we may collect and/or track information tha
 
 We may collect your Non-personal Information even where you choose not to register on the Site. We do this by use of tracking tools which consist of various Internet technologies such as "cookies", "action tags", "web bugs", ".gif tags" and "JavaScript" (together, "Tracking Tools"). Tracking Tools are files or tools that are placed on your computer in order to identify your Web browser and your activity on the Site. Tracking Tools enable us to develop a profile about your preferences on the Site and to show you information that you have indicated that you are interested in. In this way, we can customise and improve your experience on the Site.
 
-You may disable cookies, if any, by using the appropriate feature of your Web browser software. If cookies are disabled, however, you may not be able to benefit from all features of the Site. 
+You may disable cookies, if any, by using the appropriate feature of your Web browser software. If cookies are disabled, however, you may not be able to benefit from all features of the Site.
 
 3\. Use of information collected
 
@@ -34,7 +34,9 @@ We may use your Personal Information for Our own business purposes in connection
 
 We reserve the right to use your Personal Information to contact you in relation to your account status, changes to this Privacy Policy, or any other policies or agreements relating to your use of the Site.
 
-We may also use Non-personal Information for the purposes of monitoring Site usage in order to help Us develop Our Site and the services and for these purposes We may provide Non-personal Information to third parties. 
+We may also use Non-personal Information for the purposes of monitoring Site usage in order to help Us develop Our Site and the services and for these purposes We may provide Non-personal Information to third parties.
+
+To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
 
 4\. Your choices regarding your Personal Information
 
@@ -48,13 +50,13 @@ Upon request We will provide you with a summary of all Personal Information held
 
 We have put in place various security procedures to try to ensure that the information you have provided to Us remains confidential and is protected from loss, misuse, unauthorised access, disclosure, alteration or destruction.
 
-We also have technical measures in place so that whenever you undertake any financial transactions through Our Site (including engaging in gaming), this will take place over a secure link which will encrypt the information whilst it is travelling over the Internet. Furthermore, any communications with banking or credit providers through Our Site will similarly be encrypted. Firewalls are used to block unauthorised traffic to the servers and the actual servers are located in a secure location which can only be accessed by authorised personnel. 
+We also have technical measures in place so that whenever you undertake any financial transactions through Our Site (including engaging in gaming), this will take place over a secure link which will encrypt the information whilst it is travelling over the Internet. Furthermore, any communications with banking or credit providers through Our Site will similarly be encrypted. Firewalls are used to block unauthorised traffic to the servers and the actual servers are located in a secure location which can only be accessed by authorised personnel.
 
 Please note that while We have tried to create a secure and reliable site for users, the confidentiality of any communication or material transmitted to/from Us via the Site cannot be guaranteed.
 
 6\. Where we store your Personal Information
 
-The Personal Information that We collect from you may be transferred to, and stored at, a destination outside Alderney and the European Economic Area ("the EEA") . It may also be processed by staff operating outside the EEA who work for Us or for one of Our suppliers. Such staff may be engaged in, amongst other things, the processing of your payment details and the provision of support services. By submitting your Personal Information to Us, you agree to this transfer, storing or processing. 
+The Personal Information that We collect from you may be transferred to, and stored at, a destination outside Alderney and the European Economic Area ("the EEA") . It may also be processed by staff operating outside the EEA who work for Us or for one of Our suppliers. Such staff may be engaged in, amongst other things, the processing of your payment details and the provision of support services. By submitting your Personal Information to Us, you agree to this transfer, storing or processing.
 
 7\. Updating your Personal Information
 
@@ -66,4 +68,4 @@ We welcome your views about the Site and our Privacy Policy. If you would like t
 
 9\. Jurisdiction
 
-This Privacy Policy will be governed by and construed in accordance with the laws of Alderney whose courts shall have exclusive jurisdiction in any dispute or claim arising out of or relating to this Privacy Policy, save that we have the right, at Our sole discretion, to commence and pursue proceedings in alternative jurisdictions
+This Privacy Policy will be governed by and construed in accordance with the laws of Alderney whose courts shall have exclusive jurisdiction in any dispute or claim arising out of or relating to this Privacy Policy, save that we have the right, at Our sole discretion, to commence and pursue proceedings in alternative jurisdictions.
