@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sharingmatrix.com privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406035958id_/http%3A//sharingmatrix.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharingmatrix.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045134id_/http%3A//sharingmatrix.com/privacy_policy) for the most accurate reproduction.*
 
-# SHARING MATRIX free file hosting service
-
-## Privacy Policy
+# Free File Hosting. Make money from your files. SharingMatrix file hosting and storage.
 
 Privacy Policy  
 We strongly respect your privacy. All informations collected at Sharing Matrix will be kept strictly confidential and will not be sold, resued, or rented in any way. 
