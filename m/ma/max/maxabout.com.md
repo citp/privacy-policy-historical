@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxabout.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412101837id_/http%3A//www.maxabout.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxabout.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094951id_/http%3A//www.maxabout.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # MaxAbout.com Privacy Policy - MaxAbout.com
 
