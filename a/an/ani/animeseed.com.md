@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the animeseed.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613233840id_/http%3A//animeseed.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeseed.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070813id_/http%3A//animeseed.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AnimeSeed.Com
 
-## [Privacy Policy](http://animeseed.com/index.php/privacy-policy "Privacy Policy")
-
-[Anime Seed](https://web.archive.org/web/20080613233840id_/http%3A//animeseed.com/index.php/) knows that you care how information about you is used and shared, we appreciate your trust. We would like you to feel confident in our services and security as it relates to your personal information. The following information describe types of personal information we receive and collect when you visit [Anime Seed](https://web.archive.org/web/20080613233840id_/http%3A//animeseed.com/index.php/), and how we safeguard your information.
+[Anime Seed](https://web.archive.org/web/20081217070813id_/http%3A//animeseed.com/index.php/) knows that you care how information about you is used and shared, we appreciate your trust. We would like you to feel confident in our services and security as it relates to your personal information. The following information describe types of personal information we receive and collect when you visit [Anime Seed](https://web.archive.org/web/20081217070813id_/http%3A//animeseed.com/index.php/), and how we safeguard your information.
 
 ### Log Files
 
-As with most other websites, [Anime Seed](https://web.archive.org/web/20080613233840id_/http%3A//animeseed.com/index.php/) collect and use the data contained in log files. The information in the log files include your IP (internet protocal) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+As with most other websites, [Anime Seed](https://web.archive.org/web/20081217070813id_/http%3A//animeseed.com/index.php/) collect and use the data contained in log files. The information in the log files include your IP (internet protocal) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
 ### Cookies and Web Beacons
 
