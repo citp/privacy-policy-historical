@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629074147id_/http%3A//www.bbsradio.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071010id_/http%3A//www.bbsradio.com/privacy_policy.php) for the most accurate reproduction.*
 
 # BBS Radio Privacy Policy
 
@@ -7,10 +7,10 @@
 
 **Our Policy:**
 
-  * BBS Radio collects the following information only: 1) names; and 2) email addresses. This is for BBS Radio's use only. Areas may require login information to access, as they are member only areas. Further, we send out a periodical emails "news bulletins". 
+  * BBS Radio collects the following information only: 1) names; 2) email addresses; 3) phone numbers. This is for BBS Radio's use only. Areas may require login information to access, as they are member only areas. Further, we send out a periodical emails "news bulletins". 
 
 
-  * We do not give out the information to third parties!We do not share, sell, rent or barter any identifiable personal information to any third party without your permission.
+  * We do not give out the information to third parties! We do not share, sell, rent or barter any identifiable personal information to any third party without your permission.
 
 
   * Any individual or company may request to opt out of our electronic newsletters by sending an email directly to [contact@bbsradio.com](mailto:contact@bbsradio.com), or contacting the us by mail at the following address. BBS Radio, 5167 Toyon Lane, Paradise, CA 95969. We immediately honor all requests. People may also remove themselves from the Newsletter automatically by clicking on the link located on the bottom of each newsletter.
@@ -62,7 +62,7 @@ By using the BBS Radio web site and the content and services available to you on
 
 **Final Disclosures:**
 
-This privacy notice explains the information and security practices of [www.bbsradio.com](http://www.bbsradio.com/).
+This privacy notice explains the information and security practices of BBS Network, Inc. (BBS Radio) [www.bbsradio.com](http://www.bbsradio.com/).
 
 **Changes in the Privacy Policy:**
 
