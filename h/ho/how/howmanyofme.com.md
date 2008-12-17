@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the howmanyofme.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612210009id_/http%3A//www.howmanyofme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howmanyofme.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050516id_/http%3A//www.howmanyofme.com/privacy) for the most accurate reproduction.*
 
 # How Many of Me - Privacy Policy
+
+Last changed: June 19, 2008
 
 Q: What kind of information is collected?
 
@@ -18,7 +20,7 @@ We do allow users to look at statistics based on the aggregate of all searches. 
 
 Q: How long do you retain data?
 
-A: Raw log files, including such data as IP address, operating system, browser type, as well as some information are kept for a 3 day period, at the end of which they are aggregated into a format that makes discovering any personally identifiable information difficult.
+A: Raw log files, including such data as IP address, operating system, browser type, as well as some information are kept for a 7 day period, at the end of which they are aggregated into a format that makes discovering any personally identifiable information very difficult, if not impossible.
 
 The search log including individual searches is processed approximately weekly. During processing data connecting individual users to a particular search is removed.
 
