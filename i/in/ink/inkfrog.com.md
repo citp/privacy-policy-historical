@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509162322id_/http%3A//www.inkfrog.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063607id_/http%3A//www1.inkfrog.com/privacy.php) for the most accurate reproduction.*
 
-# inkFrog - eBay auction management and image hosting
+# inkFrog - eBay Auction Management and Image Hosting
 
 **WHAT PERSONAL INFORMATION DOES INKFROG COLLECT AND WHY?**
 
@@ -39,7 +39,7 @@ A "cookie" is a small amount of data sent to your browser from a web server and 
 
 **HOW CAN I REVIEW AND CHANGE MY INFORMATION AND CANCEL MY SPAREDOLLAR ACCOUNT?**
 
-You can edit and change your information in your inkFrog account, including your password, at any time in the "preferences" section of the inkFrog website. Should you forget your password, inkFrog can send it to you immediately via e-mail, at your request. To cancel your account, please send an email to  [ support@inkfrog.com](mailto:support@sparedollar.com).
+You can edit and change your information in your inkFrog account, including your password, at any time in the "preferences" section of the inkFrog website. Should you forget your password, inkFrog can send it to you immediately via e-mail, at your request. To cancel your account, contact our  [helpdesk](http://help.inkfrog.com/) support@inkfrog.com.
 
 **HOW I WILL KNOW ABOUT CHANGES TO INKFROG'S PRIVACY POLICY**
 
@@ -47,4 +47,4 @@ If we decide to change our privacy policy, we will post those changes on the "St
 
 **QUESTIONS OR CONCERNS**
 
-If you have questions or concerns regarding inkFrog's privacy policy, kindly contact inkFrog by e-mail at  [ privacy@inkfrog.com](mailto:privacy@sparedollar.com).
+If you have questions or concerns regarding inkFrog's privacy policy, kindly contact our helpdesk at [help.inkFrog.com](http://help.inkfrog.com/) .
