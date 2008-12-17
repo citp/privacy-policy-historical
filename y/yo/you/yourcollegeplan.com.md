@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourcollegeplan.com privacy policy that was archived on 2008-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080303005049id_/http%3A//yourcollegeplan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcollegeplan.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055854id_/http%3A//www.yourcollegeplan.com/privacy.html) for the most accurate reproduction.*
 
 # YourCollegePlan.com
 
@@ -93,6 +93,6 @@ Individuals under the age of eighteen (18) should not send any Information to Us
 If you have questions about Our Privacy Policy, please contact us. 
 
 Vintage Media Direct   
-302 Washington Street, Ste 800   
+302 Washington Street, Ste 819   
 San Diego, CA 92103   
 inquiry@vintagemediadirect.com
