@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the accessnorthga.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509125706id_/http%3A//www.accessnorthga.com/access/etc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessnorthga.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217120813id_/http%3A//www.accessnorthga.com/access/etc/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | AccessNorthGa.com
 
 #### AccessNorthGa.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.accessnorthga.com.
 
-  
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart. 
 
 Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and for other purposes. 
@@ -37,16 +36,6 @@ This site supplements the information that you provide with information that is 
 
 According to the answers that you have chosen, AccessNorthGa.com meets the guidelines of TRUSTe's Children's program. We: 
 
-DO NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent 
-
-DO NOT collect personally identifiable offline contact information without prior parental consent 
-
-DO NOT distribute to third parties any personally identifiable information with out prior parental consent 
-
-DO NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent 
-
-DO NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity 
-
 ## Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
@@ -70,3 +59,15 @@ AccessNorthGa.com
 1102 Thompson Bridge Rd., N.E.  
 Gainesville, GA 30501  
 [info@accssnorthga.com ](mailto:info@accessnorthga.com)
+
+  
+| 
+
+**Additional Site Services**
+
+**Address**
+
+1102 Thompson Bridge Rd.  
+Gainesville, GA 30501, 
+
+770-532-9921 
