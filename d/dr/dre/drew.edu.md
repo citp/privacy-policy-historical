@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drew.edu privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624064422id_/http%3A//www.drew.edu/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drew.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064814id_/http%3A//www.drew.edu/Privacy.aspx) for the most accurate reproduction.*
 
 # Internet Privacy Statement for Drew University
 
