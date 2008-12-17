@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelweekly.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609225100id_/http%3A//adhost1.ntmllc.com/twxads/privacy_0404.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelweekly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112831id_/http%3A//adhost1.ntmllc.com/twxads/privacy_0404.htm) for the most accurate reproduction.*
 
 # 
 
@@ -58,7 +58,7 @@ o        NTM occasionally conducts subscriber and/or user surveys to bett
 
 o        NTM operates several websites featuring its travel-related content and services. NTM may share personal information collected from users of its websites internally across these websites to better serve its users. 
 
-NTM has numerous products and services and therefore numerous email and promotion lists. In an effort to allow users to tailor their participation in NTM services and promotions, NTM provides users the ability to choose specific lists or products of interest and opt-out options are product and use/list specific. All email promotions sent from NTM provide an opt-out link at the bottom of the email pursuant to which users can opt-out of specific products and promotions. If you receive one of these emails and wish to unsubscribe please follow the instructions given in each email or contact [lbuchanan@ntmllc.com](mailto:wslover@ntmllc.com).
+NTM has numerous products and services and therefore numerous email and promotion lists. In an effort to allow users to tailor their participation in NTM services and promotions, NTM provides users the ability to choose specific lists or products of interest and opt-out options are product and use/list specific. All email promotions sent from NTM provide an opt-out link at the bottom of the email pursuant to which users can opt-out of specific products and promotions. If you receive one of these emails and wish to unsubscribe please follow the instructions given in each email or contact [lbuchanan@ntmllc.com](mailto:lbuchanan@ntmllc.com).
 
 From time to time we may use customer information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change at some time in the future we will post the policy changes to our website.
 
@@ -100,7 +100,7 @@ This NTM website is not intended for use by children and NTM does not knowingly 
 
 **Update/Change Your Data**
 
-To update your email address or change your email preferences please contact [lbuchanan@ntmllc.com](mailto:wslover@ntmllc.com).
+To update your email address or change your email preferences please contact [lbuchanan@ntmllc.com](mailto:lbuchanan@ntmllc.com).
 
 **Changes to this Privacy Policy**
 
@@ -124,10 +124,10 @@ Because this Site is intended for use on a business-to-business basis, this prov
 
 To the extent an California resident using this Site for personal, family, or household purposes seeks information covered the law, this Site qualifies for the alternative option. As stated in our Privacy Policy, users of the Site may opt-out or opt-in to the use of your personal information by third parties. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information during the preceding year for marketing purposes. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt-in to such use when you provide personal information on the Site. Please note that whenever you opt-in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-California residents who utilize this Site for personal, family, or household purposes may request further information about our compliance with this law by e-mailing [lbuchanan@ntmllc.com](mailto:wslover@ntmllc.com). You should put the statement “Your California Privacy Rights” in the subject field of your email. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address.
+California residents who utilize this Site for personal, family, or household purposes may request further information about our compliance with this law by e-mailing [lbuchanan@ntmllc.com](mailto:lbuchanan@ntmllc.com). You should put the statement “Your California Privacy Rights” in the subject field of your email. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address.
 
 **Your Consent To This Policy**
 
 By using our website, you consent to the collection and use of information by NTM as specified in this policy.  Please also note that your use of the website is governed by the NTM Terms and Conditions. If you do not agree to the terms of the Privacy Policy or the Terms and Conditions, please do not use the website, products and/or services. 
 
-Please send any questions about NTM's Privacy Policy to [lbuchanan@ntmllc.com](mailto:wslover@ntmllc.com).
+Please send any questions about NTM's Privacy Policy to [lbuchanan@ntmllc.com](mailto:lbuchanan@ntmllc.com).
