@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summitcreditunion.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501084450id_/http%3A//www.summitcreditunion.com/summit.php%3Fpage%3D109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitcreditunion.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113211id_/http%3A//www.summitcreditunion.com/summit.php%3Fpage%3D109) for the most accurate reproduction.*
 
 # Summit Credit Union - Do More. Start Here.
 
