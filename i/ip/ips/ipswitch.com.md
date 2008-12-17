@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609052827id_/http%3A//www.ipswitch.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015800id_/http%3A//www.ipswitch.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Ipswitch, Inc. - Ipswitch Privacy Policy
 
@@ -38,9 +38,9 @@ _Download an evalaution:_ We ask for your e-mail address before downloading a fr
 
 _Contacting us for technical or customer support:_ Your e-mail address will be used to respond to your query. In some cases, we may invite you to participate in an online survey to let us know how we are doing.
 
-_Subscribing to the Ipswitch Newsletter:_ When you sign up for the Ipswitch Newsletter, your e-mail address is not used for any purpose other than to send you the newsletter on a monthly basis. You may unsubscribe from the newsletter [here](https://web.archive.org/Company/newsletter.html).
+_Subscribing to the Ipswitch Newsletter:_ When you sign up for the Ipswitch Newsletter, your e-mail address is not used for any purpose other than to send you the newsletter on a monthly basis. You may unsubscribe from the newsletter [here](https://web.archive.org/company/newsletter.asp).
 
-_Subscribing to a discussion list:_ When you sign up for a discussion list, your e-mail address is not used for any purpose other than to send you the discussion list in the format you choose on the discussion lists page. You may unsubscribe or change your format preference from the [discussion lists page](https://web.archive.org/Support/mailing-lists.html).
+_Subscribing to a discussion list:_ When you sign up for a discussion list, your e-mail address is not used for any purpose other than to send you the discussion list in the format you choose on the discussion lists page. You may unsubscribe or change your format preference from the [discussion lists page](https://web.archive.org/support/mailing-lists.asp).
 
 If you are using the same e-mail address for multiple items above, the e-mail usage information for 'downloading an evaluation' takes precedent over all other e-mail usage information.
 
