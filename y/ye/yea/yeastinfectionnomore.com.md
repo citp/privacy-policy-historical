@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yeastinfectionnomore.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410223138id_/http%3A//www.yeastinfectionnomore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeastinfectionnomore.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142325id_/http%3A//www.yeastinfectionnomore.com/privacy.html) for the most accurate reproduction.*
 
-# Yeast Infection No More™- Privacy
+# Yeast Infection No More™ - Privacy
 
 **PRIVACY POLICY  
 IMPORTANT -- PLEASE READ**
@@ -85,8 +85,26 @@ The prevailing party shall be reimbursed by the other party for any and all cost
 
 **JURISDICTION AND VENUE**
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. Sitka, Alaska. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Sitka, Alaska. 
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. 
 
 **APPLICABLE LAW**
 
-Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of Alaska. 
+Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the seller. 
+
+  
+**-Laura Johnson- U.S.A**  
+  
+**-Jeff Severino-**  
+  
+**-Mary Adams- U.K**  
+  
+**-David Flinter - Dublin, Ireland-**  
+  
+**-Lara Obrien-**  
+  
+  
+**-Pauline- U.S.A**  
+  
+**-Evelyn Chislett- Melbourne, Australia**  
+  
+
