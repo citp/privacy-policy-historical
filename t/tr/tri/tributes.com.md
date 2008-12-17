@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tributes.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604013357id_/http%3A//www2.tributes.com/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tributes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101712id_/http%3A//tributes.com/global/privacy) for the most accurate reproduction.*
 
-# Tributes.com's Privacy Policy at Tributes.com
+# Privacy Policy - Tributes.com
 
-## What This Privacy Policy Covers
+#### What This Privacy Policy Covers
 
 We at Tributes, Inc. ("Tributes") want you to feel safe online. For that reason, we follow a privacy policy that applies to all of the products, services, and Web sites offered by Tributes, Inc. or its subsidiaries or affiliated companies. In line with that policy, we want to let you know how we treat personal information that we collect and receive from users of our media property, www.tributes.com. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
 
@@ -21,7 +21,7 @@ Tributes' Privacy Policy applies only to Web sites and services that are owned a
 
 **It's also important to note that this Privacy Policy does not apply to information that you post, yourself, in public areas of the Tributes Web site.** For example, if you choose to let other people see your name and your answers to profile questions, or if you post information or comments on a discussion board, that information will be made public. Your messages and other information you make available in public areas of the Tributes Web site will be seen by people and organizations not related to or controlled by Tributes, and may be used by others to contact you.
 
-## Information Collection and Use
+#### Information Collection and Use
 
   * We collect personal information from you whenever you interact with Tributes, such as when you: 
     * register with Tributes, 
@@ -37,7 +37,7 @@ Tributes' Privacy Policy applies only to Web sites and services that are owned a
 
 
 
-## Information Sharing and Disclosure
+#### Information Sharing and Disclosure
 
   * We do not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you request, when we have your permission, or under the following circumstances:
     * We provide the information to trusted partners who work on behalf of or with Tributes under confidentiality agreements. These companies may use your personal information to help Tributes communicate with you about offers from Tributes and our marketing partners. However, these companies do not have any independent right to share this information.
@@ -47,11 +47,11 @@ Tributes' Privacy Policy applies only to Web sites and services that are owned a
 
 
 
-## Our Advertisers
+#### Our Advertisers
 
-We do not share your personal information with our advertisers. However, the advertising we display is targeted to users of particular services and content. So if you view or click on a targeted ad, the advertiser (or other companies affiliated with the advertiser) may assume that you meet the targeting criteria — for example, women ages 50-60 from a particular geographic area or with children or grandchildren of a certain age.
+We do not share your personal information with our advertisers. However, the advertising we display is targeted to users of particular services and content. So if you view or click on a targeted ad, the advertiser (or other companies affiliated with the advertiser) may assume that you meet the targeting criteria � for example, women ages 50-60 from a particular geographic area or with children or grandchildren of a certain age.
 
-## Cookies and Web Beacons
+#### Cookies and Web Beacons
 
 Tributes, like many Web sites, uses cookies to prepare customized Web pages for you. A cookie is a file containing a string of code that we transfer to your computer's hard drive, to be kept there for later use. With cookies in place, whenever you use your Web browser (such as Internet Explorer, AOL, or Mozilla Firefox) to connect to Tributes, our systems are able to recognize you. This enables Tributes to present you with custom Web pages. So, for example, instead of seeing just a generic welcome page, you see a welcome page with your name on it and information that relates to where you live (your zip code) and products or services that reflect your interests.
 
@@ -59,14 +59,14 @@ In addition to Tributes' cookies, when you visit Tributes your computer may rece
 
 You can set up your browser to reject cookies or tell you when a cookie has been sent. However, cookies allow you to take full advantage of Tributes' interactive features, and we hope you will leave them turned on. Tributes also uses web beacons (also known as action tags or single pixel gifs) to access Tributes cookies inside and outside our Web pages and in connection with Tributes products and services. A web beacon is a transparent image placed on a web page that sends a signal when a person visits that page. This enables us to assess the popularity and effectiveness of the material posted on the Tributes Web site. We may also use web beacons in connection with e-mails sent to Tributes users, to let us know whether and when the e-mail was opened. No personal information is transmitted through web beacons.
 
-## Third-party Ad Serving
+#### Third-party Ad Serving
 
   * Tributes contracts with third party companies to help us make sure that our content and advertising are relevant and effective, and to analyze how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes, for example, the pages you visited at Tributes. This information helps us learn things like what pages are most attractive to our visitors, which products are most interesting, and what kinds of offers our visitors like to see. Although our third party marketing partners manage the information coming from our site on our behalf, we control how that data may and may not be used. 
   * The ads on Tributes pages are delivered to you by DoubleClick, our web advertising partner. Information about your visit to Tributes, such as number of times you have viewed an ad, is used to serve ads to you whenever you visit Tributes. For more information about DoubleClick, cookies, and how to opt out, please [click here](http://www.doubleclick.com/privacy/index.aspx).
 
 
 
-## Your Ability to Update and Delete Your Account Information and Preferences
+#### Your Ability to Update and Delete Your Account Information and Preferences
 
   * You can update your Tributes Account Information, including your biographical and profile information, at any time, by going to the My Account page.
   * New categories of marketing communications may be added to the My Account page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
@@ -75,16 +75,16 @@ You can set up your browser to reject cookies or tell you when a cookie has been
 
 
 
-## Changes to This Privacy Policy
+#### Changes to This Privacy Policy
 
 This Privacy Policy may be changed from time to time. We will notify you about significant changes by sending a notice to the primary email address specified in your Tributes account or by placing a prominent notice on our site.
 
-## Questions and Suggestions
+#### Questions and Suggestions
 
 If you have questions or suggestions about our Privacy Policy, please complete a feedback form or you can contact us at:
 
 Tributes, Inc.  
-31 Fifth Street  
+1 First Avenue, First Floor  
 Charlestown, MA 02129  
 (617) 337-9406  
 [support@tributes.com](mailto:support@tributes.com)
