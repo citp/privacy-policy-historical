@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the egreetings.com privacy policy that was archived on 2008-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080623205712id_/http%3A//www.egreetings.com/new_warrants.pd) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the egreetings.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217054315id_/http%3A//www.egreetings.com/new_warrants.pd) for the most accurate reproduction.-->
 
 <html><head>
-<meta name="agmips" content="ag839">
+<meta name="agmips" content="ag300">
 
 <title>Find out more about Egreetings.com!</title>
 <script language="JavaScript">
@@ -216,41 +216,55 @@ var mcp_ck_name = 'mc_p';</script>
 <script src="http://ak.imgag.com/imgag/js/uut.js" type="text/javascript"></script>
 </head>
 <body>
-<div></div>
 <div id="eg-header"> 
- <div id="eg-toplinks">
-    <ul>
+<div></div>
+    <div id="eg-toplinks">
+        <ul id="eg-accountlinks">
         <li id="eg-top-account" class="eg-firstitem"><a title="my account" href="javascript:openJoin('http://www.egreetings.com/popup/register.pd?app=myaccount');">my account</a></li>
         <li id="eg-top-address"><a title="address book" href="javascript:openJoin('http://www.egreetings.com/popup/register.pd?app=addressbook');">address book</a></li>
         <li id="eg-top-reminders"><a title="reminders" href="javascript:openJoin('http://www.egreetings.com/popup/register.pd?app=reminders');">my reminders</a></li>
-        <li id="eg-top-premium"><a title="premium ecards" href="http://www.americangreetings.com/ecards/category.pd/collections/egreetingscom-(tm)/birthday/anyone/?lpage=collections"><span>Premium Ecards</span></a></li>
-    </ul>
-    <div class="eg-clear"></div>
+        </ul>
+        
+        <ul id="eg-loginlinks">
+        <li id="eg-signin" class="eg-btn-slidingdoor"><span><a href="http://www.egreetings.com/members/signin.pd?referer=">Sign In</a></span></li>
+      <li id="eg-register" class="eg-btn-slidingdoor"><span><a href="http://www.egreetings.com/members/register.pd?referer=">Register Free</a></span></li>
+        </ul>
+        <div class="eg-clear"></div>
     </div>
 
-<div style="width:100%; background: #ffffff;">
-<div id="adunit"></div>
-</div>
+ 
+
+<div id="adunit"></div> 
+
     <div id="eg-top">
-    
         <a title="egreetings.com" href="http://www.egreetings.com" id="eg-logo">egreetings.com</a>
-        
-        <form id="eg-search" action="http://www.egreetings.com/kwsearch.pd" method="get" name="Search" onsubmit="window.location=this.action+'?btnsearch=submit&amp;strSearch='+this.strSearch.value; return false;">
-        
-            <label for="eg-topsearch" title="Search">Search</label>
-            <input type="text" name="strSearch" id="eg-topsearch">
-         
-            <input type="submit" name="btnsearch" value="
-          search" alt="click to search" id="eg-topsubmit" title="click to search">
-            
-        </form>
-    
-        <ul id="eg-topmembers">
-                 <li id="eg-signin"><a title="sign in" href="http://www.egreetings.com/members/signin.pd?referer=">Sign In</a></li>
-            <li id="eg-register"><a title="register free" href="http://www.egreetings.com/members/register.pd?referer=">Register</a></li>
-        </ul>
-    </div>
+
+<div id="eg-search-module">
+<form id="eg-search" action="" name="Search" method="get" onsubmit="return OnSubmitForm();">
+<fieldset>
+
+<legend>Search Egreetings for Free Ecards, Online Greeting Cards, Animated Ecards, Funny Cards &amp; Greetings</legend>
+<label for="eg-searchtextfield"><span id="eg-icon" title="Search" class="eg-engine-ask"></span></label>
+<input id="eg-searchtextfield" name="strSearch" type="text" maxlength="2048" value="Search the Web" onclick="javascript:clearSearchFieldText(this)">
+<input id="eg-topsubmit" name="btnsearch" type="image" src="http://ak.imgag.com/imgag/eg/common/eg-icon-search.gif" alt="Click to Search" title="">
+<span id="eg-btn-searchmore"><a href="#" onclick="return false;" onmouseover="expand(); return false;" onmouseout="collapse(); return false;"><img src="http://ak.imgag.com/imgag/eg/common/eg-icon-searchmore.gif" alt="Search More" title=""></a></span>
+
+    <input type="hidden" name="f" value="web">
+
+</fieldset>
+</form>
+<ul id="eg-searchnav" onmouseover="expand(); return false;" onmouseout="delayedClose(); return false" style="display: none;">
+<li><a href="javascript:onclick=genSearchUrl('egreetings')">Egreetings</a></li>
+<li><a href="javascript:onclick=genSearchUrl('web')">Web</a></li>
+<li><a href="javascript:onclick=genSearchUrl('images')">Images</a></li>
+<li><a href="javascript:onclick=genSearchUrl('video')">Video</a></li>
+<li><a href="javascript:onclick=genSearchUrl('news')">News</a></li>
+</ul>
 </div>
+</div><!--eg-top-->
+</div><!--eg-header-->
+<!-- begins extraneous markup container div for eg tables -->
+<div style="margin: 0px auto; overflow: hidden; width: 770px;">
 
 <a name="top"></a>
 <!-- LEFT RAIL -->
@@ -288,7 +302,7 @@ AN AMERICANGREETINGS.COM COMPANY</h1>
 
 
 <!--stuff goes here-->
-  <h2>Last updated: May 2008</h2>
+  <h2>Last updated: November 2008</h2>
 
   <h3>GENERAL MATTERS</h3>
 
@@ -340,6 +354,22 @@ AN AMERICANGREETINGS.COM COMPANY</h1>
     <br><br> From time to time, we may send you surveys or solicit your feedback.  We use surveys to gauge user interest in new products and premiums we may offer.  We will ask for your feedback on eCards and other site features.  We will use the information we gather to improve our sites and provide a more meaningful experience for our users.  We may also use the information to alert you to offers and products in which you have expressed an interest.  
     </p>
 
+  <h4>The eGreetings Toolbar</h4>
+    <p>The Toolbar automatically sends only standard, limited information to AGCM, which may be retained in AGCM's server logs. It does not send any information about the web pages you visit (e.g., the URL).</p>
+    <strong>GUIDs</strong>
+    <p> Your copy of the eGreetings Toolbar includes a unique application number (a "GUID"). When you install the eGreetings Toolbar, this number and a message indicating whether the installation succeeded are sent back to eGreetings. Also, when the eGreetings Toolbar automatically checks to see if a new version is available, the current version number and the unique application number are sent to AGCM. The GUID is required for the eGreetings Toolbar to work and cannot be disabled.
+    </p>
+    <p> We also tag each toolbar with a GUID, which tracks your activity and the search terms you insert into the toolbar. Again, this information is not tied to any personally identifiable information about you.
+    </p>
+    
+    <strong>Search Queries</strong>
+    <p> The eGreetings Toolbar, in the course of processing a given search query, sends a request to our servers. This request includes the keyword query, time of day, browser type, default language setting, IP address, the GUID, and a code that identifies the marketing or distribution source of the toolbar used by you to conduct your search. If the search query is being generated as the result of a misspelled URL or search term entered in to the browser address bar, we also receive the misspelled URL address or search term. We use this information in order to properly process your search request. For example, this data provides us with: information on which language you prefer to use; aggregated click information for the purpose of ensuring that our search partners are appropriately compensating us; information that allows us to make accurate payments to our distributors; aggregated usage and retention information; and aggregated search query information for the purpose of further monetizing commercially oriented search keywords. <strong>All information collected from a search query is recorded on a non-personally identifiable basis and is kept strictly anonymous.</strong> In addition, all information about search activity is evaluated only on an aggregate basis (excepted in response to a customer service inquiry or legal process).
+    </p>
+    
+    <strong>Partnership with Microsoft</strong>
+    <p> As a Microsoft Live partner, any personally identifiable information we collect will be jointly owned by eGreetings and Microsoft Corporation. For information about Microsoft Corporation's privacy practices go to the MSN privacy statement.
+    </p>
+    
     <strong>Communications from Egreetings.com</strong>
     <p> We send to all of our users our exclusive Egreetings.com Newsletter, which alerts you to new features, content, and services, premiums available on our site.  From time to time, we will also send you invitations to enhance your Egreetings.com membership, offers for new services from Egreetings.com, special "Members Only" premiums, or special offers from our affiliates and sponsors.  These communications are sent to you directly by Egreetings.com.  We do not share your personally identifiable information with any third parties in connection with the Newsletter.  
     <br><br> You can always decline the Newsletter by un-checking the opt-out box on the "Personalize this eCard" pages or registration pages on our site.  If you are already receiving the Newsletter and you want to unsubscribe, you can simply follow the "unsubscribe" links at the bottom of each edition.  For other ways to unsubscribe, see Opt-Out/Changing Your Status, below.
@@ -458,8 +488,11 @@ AN AMERICANGREETINGS.COM COMPANY</h1>
 	</div>
 	
 	</td>
-<td align="center" bgcolor="#549adb" valign="top" width="145"><br><script language="JavaScript">
-var tag='<ifr' + 'ame src="http://ad.doubleclick.net/adi/agi.eg.ecards/DFLT/DFLT;'+ segments +'page=new_warrants.pd;g=CUST_GND;a=CUST_YR;memstat=afu;product=;tile=2;sz=160x600,120x600;ord=768347534525?" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling=no borderCOLOR="#000000"><scri' + 'pt language="Jav' + 'aScr' + 'ipt" src="http://ad.doubleclick.net/adj/agi.eg.ecards/DFLT/DFLT;'+ segments +'page=new_warrants.pd;g=CUST_GND;a=CUST_YR;memstat=afu;product=;tile=2;sz=160x600,120x600;abr=!ie;ord=768347534525?" type="text/javascript"></scri' + 'pt></iframe>'
+<td align="center" bgcolor="#549adb" valign="top" width="145"><br><script type="text/javascript" src="http://x.boomx.net/bfp/conf/config03agi.js"></script>
+<script type="text/javascript" src="http://x.boomx.net/bfp/lib/adTagLib.js"></script>
+<script type="text/javascript" language="JavaScript">
+var segments = boomx.bfp.getSavedSegments();
+var tag='<ifr' + 'ame src="http://ad.doubleclick.net/adi/agi.eg.ecards/DFLT/DFLT;'+ segments +'page=warrants;g=CUST_GND;a=CUST_YR;memstat=afu;product=;tile=2;sz=120x600,160x600;ord=63843380083?" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling=no borderCOLOR="#000000"><scri' + 'pt language="Jav' + 'aScr' + 'ipt" src="http://ad.doubleclick.net/adj/agi.eg.ecards/DFLT/DFLT;'+ segments +'page=warrants;g=CUST_GND;a=CUST_YR;memstat=afu;product=;tile=2;sz=120x600,160x600;abr=!ie;ord=63843380083?" type="text/javascript"></scri' + 'pt></iframe>'
 tag = tag.replace(/CUST_YR/g, getCustomerAge());
 tag = tag.replace(/CUST_GND/g, getCustomerGender());
 document.write(tag);
@@ -470,8 +503,10 @@ document.write(tag);
 
 
 
-<div id="eg-footer">
+</div>
+<!-- ends extraneous markup container div for eg tables -->
 
+<div id="eg-footer">
 <p id="eg-secure"><span>Wondering if the ecard you received is valid? <a href="http://www.egreetings.com/emailprotection/index.pd">Read how we protect you.</a></span></p>
 
 <ul>
@@ -489,20 +524,172 @@ document.write(tag);
     <li><a href="http://www.egreetings.com/findit.pd">ecard Pick Up</a></li>
     </ul>
 
-<p id="eg-legal">E-greetings® is a service of 
-<a href="http://www.aginteractive.com" target="_blank" title="AG Interactive" id="eg-intlogo"><span>AG Interactive</span></a></p>
-<p id="eg-legal2">Copyright © 1997-2008 AG.com, Inc. All rights reserved.</p>
+
+<p id="eg-legal2"><br> Copyright © 1997-2008 AG.com, Inc. All rights reserved.</p>
 
     <ul id="eg-seo">
     <li class="eg-firstitem">Visit our friends at: <a href="http://www.photoworks.com/" target="_blank">PhotoWorks</a></li>
-    <li><a href="http://www.webshots.com" target="_blank">Webshots</a></li> 
-    <li><a href="http://www.americangreetings.com" target="_blank">AmericanGreetings.com</a></li>
-    <li><a href="http://www.bluemountain.com" target="_blank">BlueMountain.com</a></li>
+    <li><a href="http://www.webshots.com" target="_blank">Webshots</a></li>
     <li><a href="http://www.kiwee.com" target="_blank">Kiwee</a></li>
-    <li><a href="http://www.CarltonCards.com" target="_blank">CarltonCards.com</a></li>
     </ul>
-
 </div>
+<!-- begins js for header search -->
+<script type="text/javascript">
+genSearchUrl(document.getElementById("eg-search").f.value); 
+    
+ // set flag for text entry  
+var textCleared = false;
+
+//form action override (bug with dymanic query string)
+var redirect;
+ 
+/*
+* Create search URL based on select menu provider and/or filter
+* @param filter String provider/filter
+*/
+function genSearchUrl(filter)
+{
+ var urlId;
+  var searchQuery = document.getElementById("eg-searchtextfield").value;
+  var urls = URLConfigObj(); 
+
+ 
+  switch(filter)
+  {
+    case 'egreetings':
+      urlId = urls.egreetings;
+      break;
+    default:
+      urlId = urls.defaultSearch;
+ }
+ // Set Defaults
+  var query = {F:filter,UID:getCustomerNumber(),Q:searchQuery};
+  var urlParam = urlId.param;
+ 
+  for (param in query)
+  {
+    urlParam = urlParam.replace("{"+param+"}",escape(query[param]));
+  }
+<!-- ends js for header search -->
+
+  document.getElementById("eg-icon").className = urlId.style;
+  document.getElementById("eg-search").f.value = filter;
+  updateSearchFieldText(filter);
+    redirect =  urlId.base + urlParam;
+ collapse()
+ 
+// console.info("Url: " + urlId.base + urlParam);
+// console.info("New class: " + document.getElementById("icon").className);
+  
+}
+/*
+* Defaults for URLConfig
+* @return Object urls
+*/
+function URLConfigObj()
+{
+ var urls =  
+   {
+     defaultSearch:
+     { 
+      base:"http://search.imgag.com/",
+       param:"?appid=egws&c=&sbs=6&sc=2&f={F}&uid={UID}&q={Q}",
+       style:"eg-engine-ask"
+     }, 
+     egreetings:
+     {
+       base:"http://www.egreetings.com/kwsearch.pd",
+       param:"?&btnsearch=submit&strSearch={Q}",
+       style:"eg-engine-eg"
+     }
+   };
+ return urls;
+}
+/*
+* Override form submission
+* @bug cannot dynamically set query string for form?
+* @return Boolean false (force form to fail)
+*/
+function OnSubmitForm()
+{
+  genSearchUrl(document.getElementById("eg-search").f.value);
+   newWin(redirect);   
+    return false;
+}
+function newWin(url)
+{
+ 
+ var newwindow = '';
+ var winH = document.body.clientHeight;
+ var winW = document.body.clientWidth;
+ 
+ if (!newwindow.closed && newwindow.location) 
+ {
+  newwindow.location.href = url;
+ }
+ else 
+ {
+  newwindow=window.open(url,'name','height=' + winH + ',width=' + winW + 
+ 
+',location=yes,menubar=yes,status=yes,toolbar=yes,scrollbars=yes,resizable=yes');
+  if (!newwindow.opener) newwindow.opener = self;
+ }
+ if (window.focus) {newwindow.focus()}
+ return false;
+}
+function getCustomerNumber()
+{
+ var memnum = 0;
+
+  try
+   {
+    memnum = get_cookie_value("customer_work", "memnum");
+   // console.info("Memnumber:" + memnum);
+   }
+    catch (e)
+   {
+   // console.error(e)
+   }
+  
+ return memnum;
+}
+function updateSearchFieldText(searchText)
+{
+  //kludge 
+   var leadingText = (searchText == "web")?"Search the ":"Search ";
+
+   if (!textCleared)
+   {
+    document.getElementById("eg-searchtextfield").value = leadingText + searchText
+   }  
+}
+function clearSearchFieldText(obj)
+{
+  if (!textCleared)
+   { 
+     obj.value = ''; 
+     textCleared = true;
+  obj.style.color = '#000000'
+   }
+}
+//  Drop Down Menu 
+//  @kludge using interval to hide flicker on IE mouseout  
+function expand()
+{
+ document.getElementById("eg-searchnav").style.display = 'block';
+ clearTimeout(delayedClose.delay);
+}
+
+function collapse() 
+{
+ document.getElementById("eg-searchnav").style.display = 'none';
+  clearTimeout(delayedClose.delay);
+ 
+}
+function delayedClose(el) {
+ delayedClose.delay = setTimeout(function(){collapse();}, 500);
+};
+</script>
 
 
 <!-- var strRangeTracking not found -->
@@ -510,7 +697,7 @@ document.write(tag);
 <script src="http://an.tacoda.net/an/13987/slf.js" language="JavaScript"></script>
 <!-- var lcLandingPageJS not found -->
 
-<!-- page generated: Mon Jun 23 16:57:13 2008 -->
+<!-- page generated: Wed Dec 17 00:43:13 2008 -->
 
 
 <script type="text/javascript" src="http://ak.imgag.com/imgag/js/omniture/extras.js"></script>
@@ -520,11 +707,11 @@ http://www.omniture.com -->
 <script language="JavaScript">//<!--
 var ingroup=omniture.inTrackingSample();
 var s_pageName="/new_warrants.pd";
-var s_server="ag839";
-var s_channel="Ecards";
+var s_server="ag300";
+var s_channel="Main";
 var s_pageType="";
 var s_prop1="";
-var s_prop2="afu";
+var s_prop2="afu_not_identified";
 var s_prop3="W";
 var s_prop4="";
 var s_prop5="";
@@ -543,15 +730,17 @@ var s_products="";
 var s_eVar1="";
 var s_eVar2="";
 var s_eVar3="";
-var s_eVar4="afu";
+var s_eVar4="afu_not_identified";
 var s_eVar5="eg";
 var s_eVar6="";
 var s_eVar7="";
 var s_eVar8="A|A";
 var s_eVar9="";
 var s_eVar10="";
+var s_eVar11="";
+var s_eVar12="";
 try{s_eVar3=useg;s_prop1=s_eVar3;}catch(e){s_eVar3='afu_none';s_prop1=s_eVar3;}
-try{s_prop5=getCustomerEntryStatus();}catch(e){s_prop5='afu';}
+try{s_prop5=getCustomerEntryStatusForUUT();}catch(e){s_prop5='afu';}
 s_eVar6=s_prop5;
 try{s_prop9=getCustomerNumber();s_eVar7=s_prop9;}catch(e){s_prop9='Unknown';s_eVar7=s_prop9;}
 try{s_eVar5=getSource();s_prop10=s_eVar5;}catch(e){}
@@ -583,7 +772,7 @@ function do_omniture() {
 //--></script><script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img
-src="http://agegreetings.112.2O7.net/b/ss/agegreetings/1/G.7--NS/0?pageName=%2Fnew_warrants.pd%7Cnst&ch=Ecards&server=ag839&c10=eg&c3=W"
+src="http://agegreetings.112.2O7.net/b/ss/agegreetings/1/G.7--NS/0?pageName=%2Fnew_warrants.pd%7Cnst&ch=Main&server=ag300&c10=eg&c3=W"
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: G.7. -->
 
