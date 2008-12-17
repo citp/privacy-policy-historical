@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttnet.net privacy policy that was archived on 2008-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080525224512id_/http%3A//www.ttnet.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttnet.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217164330id_/http%3A//www.ttnet.net/privacy.htm) for the most accurate reproduction.*
 
 # ttnet.net - Privacy Policy
 
@@ -26,6 +26,8 @@ Please keep safe your personal information, username and password. Please do not
 **ttnet.net** gathers information through the process of registration, through promotional events, or by using analytical software which analyzes the information of all users.   
    
 **Usage**  
+After Registeration, I'd like to recieve ttnet.net news.  
+  
 In order to provide better services, **ttnet.net** may conduct inner researches on the number, preferences and behaviors of users, based on the information gathered in accordance with 2.1. The inner researches conducted by **ttnet.net** are to arrange and analyze the information of all users. **ttnet.net** will never analyze the information of any individual user, nor will it disclose the same to any third party.   
    
 **Exceptions **  
