@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the onlinesports.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202151938id_/http%3A//www.onlinesports.com/pages/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesports.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141421id_/http%3A//www.onlinesports.com/pages/Privacy.html) for the most accurate reproduction.*
 
 # Online Sports Privacy
 
 ## OnlineSports.com Statement on Privacy
 
 Your Privacy  
-Your privacy is a very sensitive subject for us and we take it very seriously. So our privacy policy is simple, we don't sell, barter, give away or rent your personal information to any company outside of OnlineSports.com. We do have partners that assist us with fulfillment and shipping in certain categories, and in those cases those partners receive a name and shipping address so that they can process and ship orders properly. 
+Your privacy is a very sensitive subject for us and we take it very seriously.
+
+We may share your personally identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide it anonymous. To choose not to have this information used by our third-party advertising partner, click here. 
+
+We also have partners that assist us with fulfillment and shipping in certain categories, and in those cases those partners receive a name and shipping address so that they can process and ship orders properly. 
 
 Also, OnlineSports.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. OnlineSports.com may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of OnlineSports.com, our users, or others. 
 
