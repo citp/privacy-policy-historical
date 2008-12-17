@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truliantfcu.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609182742id_/http%3A//www.truliantfcu.org/page2.php/sid/11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truliantfcu.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217144220id_/http%3A//www.truliantfcu.org/page2.php/sid/11) for the most accurate reproduction.*
 
 # Privacy Policy - Truliant Federal Credit Union
 
