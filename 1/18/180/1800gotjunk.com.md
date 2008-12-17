@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626200004id_/http%3A//www.1800gotjunk.com/us_en/footer/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095812id_/http%3A//www.1800gotjunk.com/us_en/footer/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy 1-800-GOT-JUNK
 
-Thank you for visiting the 1-800-GOT-JUNK? web site (the "Site"). 
+Thank you for visiting the 1-800-GOT-JUNK? web site (the "Site")
 
 Below is our privacy policy governing our use of information gathered about you ("Information"). 
 
