@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the freepressindex.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629013834id_/http%3A//www.freepressindex.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepressindex.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217083353id_/http%3A//freepressindex.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Free Online Press Release Distribution |
+
+  | 
+
+Privacy Policy 
 
 Updated on October 24, 2007
 
@@ -21,12 +25,18 @@ Our web servers automatically collect limited information about your computer's 
 **Web Links Responsibility:**   
 Our site includes links to other websites, and provides access to products and services offered by third parties but we are do not take any responsiblity or liability of these sites.
 
-**Cookies:**   
+**Cookies:**  
 A "cookie" is a small data file that can be stored on your hard drive when you browse certain Web sites. FreePressIndex only uses cookies to gather information for statistical analysis to improve website services in order to provide more customer satisfaction. These cookies are not used to provide information to any third party. 
 
 You may choose to accept or decline cookies by modifying your browser setting. A cookie does not give access to your computer or any data relevant to you, other than the information you choose to share with us.
 
-**Log Files** :  
+**Log Files:**  
 We log, access times, browser types and URLs. We do not sell or give out this information to any third parties. This information is not personally identifiable information, and it is used for statistical purposes only. 
 
 Thank you for reviewing our privacy policy!
+
+|   |  |  
+
+| 
+
+All press releases, news, information or content on this site, is solely based on what our users submit. Freepressindex.com does not represent or endorse the accuracy or reliability of any of the information, content or advertisements contained on, distributed through, or linked, downloaded or accessed from any of the services contained on this website nor the quality of any products, information or other materials displayed, or obtained by you as a result of an advertisement or any other information or offer in or in connection with the service. In case, some press release harms your benefits or violates your rights in any way, please do let us know our editorial team will remove it immediately. 
