@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennisworld.typepad.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610042547id_/http%3A//www.tennis.com/info/privacypolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisworld.typepad.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053658id_/http%3A//www.tennis.com/info/privacypolicy/index.aspx) for the most accurate reproduction.*
 
 # TENNIS.com - Privacy Policy
 
