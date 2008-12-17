@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebizzare.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611082922id_/http%3A//thebizzare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebizzare.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217150605id_/http%3A//thebizzare.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheBizzare.com
+# Privacy Policy | The Bizarre
 
 thebizzare.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
