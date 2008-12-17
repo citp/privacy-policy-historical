@@ -1,27 +1,37 @@
-<!--The following is the downloaded HTML source of the kbb.com privacy policy that was archived on 2008-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080611032115id_/http%3A//www.kbb.com/kbb/CompanyInfo/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kbb.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217132225id_/http%3A//www.kbb.com/kbb/CompanyInfo/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_HeadTag"><title>
 	Kelley Blue Book - Privacy Policy - Official Kelley Blue Book Site
 </title>
-		<script id="ctl00_ctl00_ContentPlaceHolderHead_scrImages" src="http://scripts.kbb.com/kbb/Scripts/KbbImages_1.1.0.99.js?version=26366" type="text/javascript">
+    <!-- Use IE7 mode -->
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+		<script id="ctl00_ctl00_ContentPlaceHolderHead_scrImages" src="http://scripts.kbb.com/kbb/Scripts/KbbImages_1.1.0.125.js?version=29626" type="text/javascript">
 
 </script>
 				
-		<script id="ctl00_ctl00_ContentPlaceHolderHead_scrPopup" src="http://scripts.kbb.com/kbb/scripts/dynpopup_1.1.0.99.js?version=26366" type="text/javascript">
+		<script id="ctl00_ctl00_ContentPlaceHolderHead_scrPopup" src="http://scripts.kbb.com/kbb/scripts/dynpopup_1.1.0.125.js?version=29626" type="text/javascript">
 
 </script>
-		<script id="ctl00_ctl00_ContentPlaceHolderHead_srcKbbVars" src="/kbb/kbbvars.axd?version=1.1.0.99_26366" type="text/javascript">
+		<script id="ctl00_ctl00_ContentPlaceHolderHead_srcKbbVars" src="/kbb/kbbvars.axd" type="text/javascript">
 
 </script>
-        <script id="ctl00_ctl00_ContentPlaceHolderHead_srcJQuery" src="http://scripts.kbb.com/kbb/javascript/jquery-1.2.3.min_1.1.0.99.js?version=26366" type="text/javascript">
+        <script id="ctl00_ctl00_ContentPlaceHolderHead_srcJQuery" src="http://scripts.kbb.com/kbb/javascript/jquery-1.2.6.min_1.1.0.125.js?version=29626" type="text/javascript">
 
 </script>
-		<script id="ctl00_ctl00_ContentPlaceHolderHead_scrCommon" src="http://scripts.kbb.com/kbb/scripts/Common_1.1.0.99.js?version=26366" type="text/javascript">
+        <script id="ctl00_ctl00_ContentPlaceHolderHead_srcJson2" src="http://scripts.kbb.com/kbb/javascript/json2-min_1.1.0.125.js?version=29626" type="text/javascript">
+
+</script>
+		<script id="ctl00_ctl00_ContentPlaceHolderHead_scrCommon" src="http://scripts.kbb.com/kbb/scripts/Common_1.1.0.125.js?version=29626" type="text/javascript">
 
 </script>
 
 		<script type="text/javascript">
+		    
+		        $(document).ready(function() {
+		        setTimeout("centerZipOverlay();", 1000);
+                });
+		        
 		        document.domain = "kbb.com";
 				if (top.location != location) top.location.href = location.href;
     				
@@ -34,22 +44,43 @@
                     var validZip = re.test(zipCookie) || re.test(persistZipCookie);	                
 	                if (validZip)
 	                {
-	                    document.getElementById("background").style.display = "none";
-	                    document.getElementById("zipOverlay").style.display = "none";
+	                    $('.modalBackground,#zipOverlay').hide();
                     }
         	    }
-		</script>
 
-        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssMaster" href="http://scripts.kbb.com/kbb/Css/master_1.1.0.99.css?version=26366" type="text/css" rel="stylesheet">
-        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssLayout" href="http://scripts.kbb.com/kbb/Css/layout_1.1.0.99.css?version=26366" type="text/css" rel="stylesheet">
-        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssTypo" href="http://scripts.kbb.com/kbb/Css/typo_1.1.0.99.css?version=26366" type="text/css" rel="stylesheet">
-        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssList" href="http://scripts.kbb.com/kbb/Css/list_1.1.0.99.css?version=26366" type="text/css" rel="stylesheet">
-        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssUrlClasses" href="http://scripts.kbb.com/kbb/Css/urlClasses_1.1.0.99.css?version=26366" type="text/css" rel="stylesheet">
+            function centerZipOverlay() 
+            {
+                var y = document.body.scrollTop;
+                if (y == 0) {
+                    if (window.pageYOffset)
+                        y = window.pageYOffset;
+                    else
+                        y = (document.body.parentElement) ? document.body.parentElement.scrollTop : 0;
+                }
+                $('#zipOverlay').css({
+                    top: y + 250 + 'px'
+                });
+            }
+		</script>
+		<script id="ctl00_ctl00_ContentPlaceHolderHead_srcOptimost" src="http://scripts.kbb.com/kbb/javascript/optimost_1.1.0.125.js?version=29626" type="text/javascript">
+
+</script>
+		
+
+        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssMaster" href="http://scripts.kbb.com/kbb/Css/master_1.1.0.125.css?version=29626" type="text/css" rel="stylesheet">
+        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssLayout" href="http://scripts.kbb.com/kbb/Css/layout_1.1.0.125.css?version=29626" type="text/css" rel="stylesheet">
+        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssTypo" href="http://scripts.kbb.com/kbb/Css/typo_1.1.0.125.css?version=29626" type="text/css" rel="stylesheet">
+        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssList" href="http://scripts.kbb.com/kbb/Css/list_1.1.0.125.css?version=29626" type="text/css" rel="stylesheet">
+        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssUrlClasses" href="http://scripts.kbb.com/kbb/Css/urlClasses_1.1.0.125.css?version=29626" type="text/css" rel="stylesheet">
          
-        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssGlobalNav" href="http://scripts.kbb.com/kbb/Css/GlobalNav_1.1.0.99.css?version=26366" type="text/css" rel="stylesheet">
-        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssStyles" href="http://scripts.kbb.com/kbb/Css/styles_1.1.0.99.css?version=26366" type="text/css" rel="stylesheet">
+         
+        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssGlobalNav" href="http://scripts.kbb.com/kbb/Css/GlobalNav_1.1.0.125.css?version=29626" type="text/css" rel="stylesheet">
+        <link id="ctl00_ctl00_ContentPlaceHolderHead_cssStyles" href="http://scripts.kbb.com/kbb/Css/styles_1.1.0.125.css?version=29626" type="text/css" rel="stylesheet">
+        
 	
 	
+    <link id="ctl00_ctl00_ContentPlaceHolderStyles_ContentPlaceHolderStyles_cssMaster" href="http://scripts.kbb.com/kbb/Css/CompanyInfo_1.1.0.125.css?version=29626" type="text/css" rel="stylesheet">
+
 	<style>
         #contentEven
         { 
@@ -60,9 +91,19 @@
             width: 370px;
             margin: 5px 0px 5px 14px;
         }
+        
+        #social_bookmarks {
+            clear: both;
+            float: left;
+            width: 540px;
+            margin-left: 13px;
+            margin-top: 20px;
+            *margin-top: 0px;
+        }
 	</style>
-<link type="application/rss+xml" rel="alternate" title="KBB Car Reviews" href="/kbb/rss/reviews.aspx"><link type="application/rss+xml" rel="alternate" title="KBB News &amp; Articles" href="/kbb/rss/LatestNewsRSS.ashx"><link type="application/rss+xml" rel="alternate" title="KBB Video Reviews" href="/kbb/rss/LatestVideosRSS.ashx"></head>
+<link type="application/rss+xml" rel="alternate" title="KBB Car Reviews" href="/kbb/rss/reviews.aspx"><link type="application/rss+xml" rel="alternate" title="KBB News &amp; Articles" href="/kbb/rss/LatestNewsRSS.ashx"><link type="application/rss+xml" rel="alternate" title="KBB Video Reviews" href="/kbb/rss/LatestVideoRSS.ashx"></head>
 <body id="ctl00_ctl00_body" class="bodyClass">
+
        
     
 	<div class="fz0">
@@ -71,10 +112,10 @@
 <script type="text/javascript">
 <!--
 var s_pageName = "gnprivacy";
-var s_server = "IRV-IDC-MS16";
+var s_server = "LV-IDC-MS06";
 var s_channel = "general";
-var s_zip = "0";
-var s_state = "";
+var s_zip = "92618";
+var s_state = "CA";
 var s_campaign = "";
 var s_account = "kbbmain";
 var s_prop1 = "other";
@@ -88,9 +129,9 @@ var s_prop8 = "";
 var s_prop9 = "";
 var s_prop10 = "";
 var s_prop11 = "";
-var s_prop12 = "0";
-var s_prop13 = "";
-var s_prop14 = "";
+var s_prop12 = "92618";
+var s_prop13 = "CA";
+var s_prop14 = "CA059";
 var s_prop15 = "";
 var s_prop16 = "";
 var s_prop17 = "";
@@ -108,6 +149,7 @@ var s_prop28 = "";
 var s_prop29 = "";
 var s_prop30 = "";
 var s_prop31 = "";
+var s_prop35 = "";
 var s_prop34 = "";
 var s_events = "";
 var s_eVar1 = "";
@@ -123,7 +165,8 @@ var s_accountlist = "";
 	</div>
 	<div id="ctl00_ctl00_outer" style="position:relative; float:left;" class="outerDiv">
 		<form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm" class="m0" autocomplete="off">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTc0ODM1NzM4OGQYCQU4Y3RsMDAkY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyQnJlYWRjcnVtYiRtdWx0aUJyZWFkQ3J1bWIPD2RmZAVLY3RsMDAkY3RsMDAkQ29udGVudFBsYWNlSG9sZGVySGVhZGVyJGhlYWRlciRiYW5uZXJBZCRCYW5uZXJBZF9EYXJ0QWQkQWRWaWV3Dw9kZmQFVWN0bDAwJGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlckJvZHkkTWluaVNwb3RsaWdodHMkbWluaVNwb3RsaWdodDIkRGFydFNwb3RsaWdodCRBZFZpZXcPD2RmZAUlY3RsMDAkY3RsMDAkT21uaXR1cmVCb2R5JE9tbml0dXJlVmlldw8PZAIBZAVVY3RsMDAkY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyQm9keSRNaW5pU3BvdGxpZ2h0cyRtaW5pU3BvdGxpZ2h0MSREYXJ0U3BvdGxpZ2h0JEFkVmlldw8PZGZkBVtjdGwwMCRjdGwwMCRDb250ZW50UGxhY2VIb2xkZXJIZWFkZXIkaGVhZGVyJFNwb3RsaWdodENhdGVnb3J5JERhcnRTcG90bGlnaHRfQ2F0ZWdvcnkkQWRWaWV3Dw9kZmQFJ2N0bDAwJGN0bDAwJE9tbml0dXJlSGVhZGVyJE9tbml0dXJlVmlldw8PZGZkBSdjdGwwMCRjdGwwMCRPbW5pdHVyZUZvb3RlciRPbW5pdHVyZVZpZXcPD2QCAmQFVGN0bDAwJGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlckJvZHkkQ29udGVudFBsYWNlSG9sZGVyMSRwcml2YWN5UG9saWN5JHByaXZhY3lQb2xpY3lNVg8PZGZk">
+<input type="hidden" name="__VIEWSTATE" id="
+__VIEWSTATE" value="">
 
 			<div class="fz0">
 				<div id="ctl00_ctl00_OmnitureBody_Omniture">
@@ -189,33 +232,6 @@ var s_accountlist = "";
 
 </div>
 				
-				<div id="ctl00_ctl00_RSIBody_RSI">
-<script id="ctl00_ctl00_RSIBody_jsrevscinet" src="http://js.revsci.net/gateway/gw.js?csid=B05500&amp;version=1.1.0.99_26366" type="text/javascript">
-
-</script>
-<div id="ctl00_ctl00_RSIBody_RSIbody">
-<script type="text/javascript">
-<!--
-DM_addEncToLoc("Section", ("general"));
-DM_addEncToLoc("ZIPCode", ("0"));
-DM_addEncToLoc("SuperSection", ("other"));
-DM_addEncToLoc("Category", (""));
-DM_addEncToLoc("Year", (""));
-DM_addEncToLoc("Make", (""));
-DM_addEncToLoc("MakeModel", (""));
-DM_addEncToLoc("PageName", ("gnprivacy"));
-DM_addEncToLoc("DetailedPageName", ("gnprivacy"));
-DM_addEncToLoc("DMA", (""));
-DM_addEncToLoc("CountyCode", (""));
-//-->
-</script>
-<script type="text/javascript">
-<!--
-DM_tag();
-//-->
-</script>
-</div>
-</div>
 				
 <script type="text/javascript">
 NS4 = document.layers;
@@ -243,8 +259,9 @@ browserWidth = document.body.clientWidth;
 			</div>
 			
 		        
+
 <script language="javascript" type="text/javascript">
-    var recentlyViewed = "42014,223887,NewCar,223887|26366|92618|0|0|,0,1552,2540,18,122,2008$37417,223737,NewCar,223737|26366|92618|0|0|,0,1427,2519,35,236,2008$43029,223825,NewCar,223825|26366|92618|0|0|,0,1039,2535,35,880,2008$1639,1123,UsedCar,1123|26366|92618|100|10|,43000,849,38,30,195,2005$1192,4422,UsedCar,4422|26366|92618|100|10|172067|true|172160|false|172175|true,146000,636,42,18,126,2001";
+    var recentlyViewed = "";
     var isAuthenticated = false;
     
 function OnSearch(id)
@@ -283,7 +300,7 @@ $(document).ready(function(){
 
         var link = $(this).children('a');
         $(currPersonalLink).removeClass('hdrNavPersonalItemSelected');
-        var loadingHtml = '<div class="p5" style="height:57px;"><div class="mt7 mb5" style="text-align:center; width:960px;" id="loading"><img id="ctl00_ctl00_ContentPlaceHolderHeader_header_KbbImage4" src="http://file.kbb.com/kbb/images/spinner.gif" border="0" /> Loading...</div></div>';
+        var loadingHtml = '<div class="p5" style="height:47px;"><div class="mt7 mb5" style="text-align:center; width:960px;" id="loading"><img id="ctl00_ctl00_ContentPlaceHolderHeader_header_KbbImage4" src="http://file.kbb.com/kbb/images/spinner.gif" border="0" /> Loading...</div></div>';
         if (this != currPersonalLink) {
             if($('#pnlResults').is(':hidden'))
                 $('#pnlResults').slideDown('fast');
@@ -340,7 +357,7 @@ $(document).ready(function(){
     
 function ShowErrorMessage(panel)
 {
-    $('#'+panel).html("<div class='p5' style='height:57px'>The server is taking too long to respond. Please try closing and reopening the tab.</div>");
+    $('#'+panel).html("<div class='p5' style='height:47px'>The server is taking too long to respond. Please try closing and reopening the tab.</div>");
 }
 
 function GetPrimaryVehicleInfo() {
@@ -375,17 +392,18 @@ function updateGlobalNavZipDisplay(zipcode)
     $('#ctl00_ctl00_ContentPlaceHolderHeader_header_lblZipcode').html(zipcode);
 }
 
-    function SignOut()
+    function SignOut(link)
     {
         $.ajax({
             type: "GET",
-            url: "/kbb/services/personalizationservice.asmx/Logout",
+            url: link.href,
             contentType: "text/xml",
             timeout: 10000,
             success: function(){
                     alert("You have been Signed Out");
-                    document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_lnkLogin").style.display = "inline";   
-                    document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_lnkLogout").style.display = "none";   
+                    $('#ctl00_ctl00_ContentPlaceHolderHeader_header_plcMyKBBAuth').hide();
+                    $('#ctl00_ctl00_ContentPlaceHolderHeader_header_plcMyKBBAuthNot').show();        
+                    welcomeMsg.innerHTML = "Welcome Back";                    
                 },
             error: function(XMLHttpRequest, textStatus, errorThrown){
                     alert(textStatus + " " + errorThrown + " There was an error logging out, please try again later.");
@@ -394,12 +412,14 @@ function updateGlobalNavZipDisplay(zipcode)
          
         return false;        
     }
+    
+    
 </script>
 
 
 <div id="hdrSearchTop">
     <div class="fL">
-        <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_headerLogoLink" href="../Default.aspx"><img id="ctl00_ctl00_ContentPlaceHolderHeader_header_headerKbbLogo" src="http://file.kbb.com/kbb/images/header/masthead_logo.gif" alt="Kelley Blue Book" border="0"></a>
+        <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_headerLogoLink" href="../default.aspx"><img id="ctl00_ctl00_ContentPlaceHolderHeader_header_headerKbbLogo" src="http://file.kbb.com/kbb/images/header/kelley-blue-book-logo.gif" alt="Kelley Blue Book" border="0"></a>
     </div>
     <div class="fR w200 mt25">
         <div class="ruleSearchBox">
@@ -408,6 +428,105 @@ function updateGlobalNavZipDisplay(zipcode)
         <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_SearchButton" class="fL ml5 btnRedSearch" onclick="return OnSearch('SearchText');" href="../search/searchresult.aspx"></a>
         
     </div>
+    
+    
+    <script id="ctl00_ctl00_ContentPlaceHolderHeader_header_mpCursor_srcJQueryKbbPlugin" src="http://scripts.kbb.com/kbb/javascript/jQueryKbbPlugin_1.1.0.125.js?version=29626" type="text/javascript">
+
+</script>
+<script id="ctl00_ctl00_ContentPlaceHolderHeader_header_mpCursor_srcJQModal" src="http://scripts.kbb.com/kbb/javascript/jqModal_1.1.0.125.js?version=29626" type="text/javascript">
+
+</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $("#CursorPopup").jqm({modal:false, overlay:0, trigger:$("#TraverseCursorLink"), toTop:true, onShow: open_CursorPopup, onHide: close_CursorPopup});
+});
+
+//onShow
+var open_CursorPopup=function(hash) {
+    
+    $("#CursorPopup").html("<iframe id='CursorPopup-iframe' scrolling='no' frameborder='0' allowtransparency='true' src=' http://ad.doubleclick.net/clk;207744284;29615910;k'></iframe>");
+    hash.w.show();
+};
+
+//onHide
+var close_CursorPopup=function(hash) {
+   $("#CursorPopup").empty(); // Firefox crashes unless we remove iframe before hide
+   
+   
+};
+
+function closePopup() // call from child iframe
+{
+    try
+    {
+        
+        $(".jqmWindow").jqmHide();
+    }
+    catch(err){}
+}
+</script>
+
+<style type="text/css">
+.jqmOverlay { background-color: #fff; }
+.jqmWindow 
+{
+    display: none;
+    position: absolute;
+    background: transparent;
+}
+/* Background iframe styling for IE6. Prevents ActiveX bleed-through (<select> form elements, etc.) */
+* iframe.jqm {position:absolute;top:0;left:0;z-index:-1;
+    width: expression(this.parentNode.offsetWidth+'px');
+    height: expression(this.parentNode.offsetHeight+'px');
+}
+#CursorPopup {
+top: 15px;
+left: 400px;
+width: 425px;
+}
+#CursorPopup-iframe {
+border: 0;
+height: 280px;
+width: 425px;
+}
+
+</style>
+    
+
+<div id="CursorPopup" class="jqmWindow"></div>    
+    <div id="CursorContainer" style="display:none;">
+        <a id="TraverseCursorLink" href="#">
+            <img id="ctl00_ctl00_ContentPlaceHolderHeader_header_imgTraverseThumbnail" src="http://file.kbb.com/kbb/images/wsr/advertising/custom_cursor/traverse_cc_60x30.gif" alt="Chevy Traverse" border="0">
+            Traverse KBB
+        </a>
+        <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_lnkDoubleclickImpression" class="lnkDoubleclickImpression" href="../services/crossdomainrequest.asmx/MakeRequest" style="display:none;"></a>
+        <script type="text/javascript">
+            function showTraverseCursor() {
+                $("#CursorContainer").show();
+            }
+            
+            function setTraverseCookie() {
+                document.cookie = "customCursor=1; path=/";
+                applyCursorStyle();
+                $.ajax({
+                    type: 'post',
+                    url: $('.lnkDoubleclickImpression').attr('href'),
+                    timeout: 3000,
+                    data: 'url=http://ad.doubleclick.net/clk;209804290;31588205;f?http://ad.doubleclick.net/dot.gif',
+                    success: function(data) {
+                        //window.location.reload();
+                    }
+                });
+            }
+
+            function applyCursorStyle() {
+                $("head").append('<link href="http://ad.doubleclick.net/clk;209804572;31588205;i?http://www.kbb.com/kbb/controls/advertisements/customcursor/cursor.css" type="text/css" rel="stylesheet" />'); 
+            }
+        </script>
+    </div>
+    
+    
 </div>
 
 <div id="hdrBannerBox">
@@ -445,7 +564,7 @@ function updateGlobalNavZipDisplay(zipcode)
 <div id="ctl00_ctl00_ContentPlaceHolderHeader_header_pnlTabs" style="clear: both;">
 	
     <div id="hdrNavTabs">
-        <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_homeTab" class="hdrNavTabOff " href="../Default.aspx" target="_top">
+        <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_homeTab" class="hdrNavTabOff " href="../default.aspx" target="_top">
             Home
         </a>
         <div class="hdrNavTabDivider"></div>
@@ -457,7 +576,7 @@ function updateGlobalNavZipDisplay(zipcode)
             Used Cars
         </a>
         <div class="hdrNavTabDivider"></div>
-        <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_compareNewCarsTab" class="hdrNavTabOff " href="../ResearchAndExplore/Default.aspx">
+        <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_compareNewCarsTab" class="hdrNavTabOff " href="../CompareCars/Default.aspx">
             Research &amp; Explore
         </a>
         <div class="hdrNavTabDivider"></div>
@@ -465,16 +584,21 @@ function updateGlobalNavZipDisplay(zipcode)
             News &amp; Reviews
         </a>
         <div class="hdrNavTabDivider"></div>
+        <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_readyToBuyTab" class="hdrNavTabOff rtblink" href="../FindaDealer/Default.aspx">
+            Ready To Buy
+        </a>
+        <div class="hdrNavTabDivider"></div>
         <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_classifiedsTab" class="hdrNavTabOff " href="../Classifieds/default.aspx">
             Classifieds
         </a>
         <div class="hdrNavTabDivider"></div>
         <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_financeTab" class="hdrNavTabOff " href="../AutoLoansAndInsurance/default.aspx">
-            Auto Loans &amp; Insurance
+            Loans &amp; Insurance
         </a>
         <div class="hdrNavTabDivider"></div>
-        <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_readyToBuyTab" class="hdrNavTabOff hdrBadgeNew" href="../FindaDealer/Default.aspx">
-            Find a Dealer
+        <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_greentab" class="hdrNavTabOff hdrNavTabGreen" href="../green-cars/Default.aspx">
+            <div class="greenHeaderText">KBB<sup>®</sup> Green</div>
+            <div class="greenNewIcon"></div>
         </a>
     </div>
     
@@ -486,27 +610,41 @@ function updateGlobalNavZipDisplay(zipcode)
 		
     
     <div id="hdrNavPersonal">
-        <span id="ctl00_ctl00_ContentPlaceHolderHeader_header_welcome" class="hdrNavPersonalWelcome">Welcome to Kelley Blue Book</span>
+        <span id="ctl00_ctl00_ContentPlaceHolderHeader_header_welcome" class="hdrNavPersonalWelcome">Welcome Back</span>
+        <div id="ctl00_ctl00_ContentPlaceHolderHeader_header_plcMyKBBAuth" class="fL pr10">
+			        
+            <div class="leftSpace">&nbsp;|&nbsp;<a id="ctl00_ctl00_ContentPlaceHolderHeader_header_lnkMyKBBLogout" class="uhNavPersonalLink" onclick="SignOut(this); return false;" href="../services/personalizationservice.asmx/Logout">Sign Out</a></div>        
+            <div class="leftSpace">&nbsp;|&nbsp;<a id="ctl00_ctl00_ContentPlaceHolderHeader_header_lnkMyKBBAuth" class="uhNavPersonalLink" href="../MyKBB/Default.aspx">My KBB</a></div>
         
-        <div style="float:left;padding:5px 0px;">&nbsp;|&nbsp;<a id="ctl00_ctl00_ContentPlaceHolderHeader_header_lnkMyKBB" class="uhNavPersonalLink" href="../MyKBB/Default.aspx" style="display: none;">My KBB</a><a id="ctl00_ctl00_ContentPlaceHolderHeader_header_lnkMyKBBRecentlyViewed" class="uhNavPersonalLink" href="../MyKBB/RecentlyViewed.aspx">My KBB</a>
-        </div>
-        <div id="ctl00_ctl00_ContentPlaceHolderHeader_header_plcZipMessage" class="fL" style="padding: 5px 0px 5px 30px; width: 0px; visibility: hidden;">
+		</div>        
+        <div id="ctl00_ctl00_ContentPlaceHolderHeader_header_plcMyKBBAuthNot" class="fL pr10">
+			        
+            <div class="leftSpace">&nbsp;|&nbsp;<a id="ctl00_ctl00_ContentPlaceHolderHeader_header_lnkMyKBBLogin" class="uhNavPersonalLink" href="https://www.kbb.com/kbb/Login.aspx">Sign In</a></div>        
+            <div class="leftSpace">&nbsp;|&nbsp;<a id="ctl00_ctl00_ContentPlaceHolderHeader_header_lnkMyKBBCreateAccount" class="uhNavPersonalLink" href="https://www.kbb.com/kbb/CreateAccount.aspx">Create Account</a></div>
+            <div class="leftSpace">&nbsp;|&nbsp;<a id="ctl00_ctl00_ContentPlaceHolderHeader_header_lnkMyKBBAuthNot" class="uhNavPersonalLink" href="../MyKBB/Default.aspx">My KBB</a></div>
+        
+		</div>        
+        <div id="ctl00_ctl00_ContentPlaceHolderHeader_header_plcZipMessage" class="fL zipCodeMessage">
 			
-            ZIP Code <span id="ctl00_ctl00_ContentPlaceHolderHeader_header_lblZipcode"></span> | <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_lnkChangeZip" class="uhNavPersonalLink" href="../Selection/ZipCode.aspx?RedirectUrl=%2fkbb%2fCompanyInfo%2fPrivacyPolicy.aspx&amp;VehicleClass=">Change</a>
+            ZIP Code: <a id="ctl00_ctl00_ContentPlaceHolderHeader_header_lnkChangeZip" class="uhNavPersonalLink" href="../Selection/ZipCode.aspx?RedirectUrl=%2fKBB%2fCompanyInfo%2fPrivacyPolicy.aspx"><span id="ctl00_ctl00_ContentPlaceHolderHeader_header_lblZipcode">92618</span></a>
         
 		</div>
+        <div id="ctl00_ctl00_ContentPlaceHolderHeader_header_plcKbbCom">
+			        
         <div id="navPriceQuote" class="hdrNavPersonalItem"><a id="ctl00_ctl00_ContentPlaceHolderHeader_header_hlPriceQuote" href="../services/selectionservice.asmx/GetPriceQuote"></a>Free Dealer Price Quote</div>
-        <div id="ctl00_ctl00_ContentPlaceHolderHeader_header_plcPersonalization">
-			
+        <div id="ctl00_ctl00_ContentPlaceHolderHeader_header_plcPersonalization" style="visibility: hidden;">
+				
         <div id="navPersonAlsoLike" class="hdrNavPersonalItem"><a id="ctl00_ctl00_ContentPlaceHolderHeader_header_hlYMAL" href="../services/selectionservice.asmx/GetSimilarVehiclesFromCookie"></a>You Might Also Like</div>
         <div id="navPersonRecentlyViewed" class="hdrNavPersonalItem"><a id="ctl00_ctl00_ContentPlaceHolderHeader_header_hlRecentlyViewed" href="../services/selectionservice.asmx/GetRecentlyViewed"></a>Recently Viewed</div>
         
-		</div>
+			</div>
+        
+		</div>                
     </div>
     
     
     <div id="hdrNavPersonalSub" class="hdrNavPersonalSubBlue">
-        <div id="pnlResults" class="fL" style="display: none;" visible="true">
+        <div id="pnlResults" class="fL hide" visible="true">
         </div>
     </div>
     
@@ -514,115 +652,117 @@ function updateGlobalNavZipDisplay(zipcode)
 
 </div>
 
-
+<div id="ctl00_ctl00_ContentPlaceHolderHeader_header_kbbPnlZipCodeMyKBB">
+	        
 <script type="text/javascript">
     var hasZip = (s_zip.length >= 5);
     var welcomeMsg = document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_welcome");
     var zipPanel = document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_lblZipcode");
-    if(hasZip)
-    {
+    if (hasZip) {
         zipPanel.innerHTML = s_zip;
         welcomeMsg.innerHTML = "Welcome Back";
     }
-    else
-    {
-        welcomeMsg.innerHTML = "Welcome to Kelley Blue Book";
-        document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_plcZipMessage").style.width="0";        
+    else {
+        welcomeMsg.innerHTML = "Welcome to KBB";
+        document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_plcZipMessage").style.width = "0";
         document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_plcZipMessage").style.visibility = "hidden";
     }
-  
-    if(recentlyViewed.length == 0)
-    {
-        document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_plcPersonalization").style.visibility = "hidden";    
-        document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_lnkMyKBBRecentlyViewed").style.display = "none";
+    if (isAuthenticated) {
+        welcomeMsg.innerHTML = "Welcome ";
     }
-    else 
-    {
-        document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_lnkMyKBB").style.display = "none";   
-    }
-    
-    if (isAuthenticated)
-    {
-        if ( document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_lnkLogin")!=null )
-            document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_lnkLogin").style.display = "none";   
-    }
-    else
-    {
-        if ( document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_lnkLogout")!=null )    
-            document.getElementById("ctl00_ctl00_ContentPlaceHolderHeader_header_lnkLogout").style.display = "none";   
-    }
-    
-    GetPrimaryVehicleInfo();
 
+    GetPrimaryVehicleInfo();
+    ShowPersonalizationHeader();
+   
+    function ShowPersonalizationHeader() {
+        if (!isAuthenticated) {
+            $('#ctl00_ctl00_ContentPlaceHolderHeader_header_plcMyKBBAuth').hide();
+            $('#ctl00_ctl00_ContentPlaceHolderHeader_header_plcMyKBBAuthNot').show();
+        }
+        else {
+            $('#ctl00_ctl00_ContentPlaceHolderHeader_header_plcMyKBBAuth').show();
+            $('#ctl00_ctl00_ContentPlaceHolderHeader_header_plcMyKBBAuthNot').hide();
+        }
+    }
 </script>
 
+</div><div id="ctl00_ctl00_ContentPlaceHolderHeader_header_kbbPnlPersonalization">
+	        
+  <script type="text/javascript">
+    ShowRecentlyViewedYMAL();
+    function ShowRecentlyViewedYMAL() {
+        if (recentlyViewed.length == 0) {
+            document.getElementById('ctl00_ctl00_ContentPlaceHolderHeader_header_plcPersonalization').style.visibility = 'hidden';
+        }
+        else {
+            document.getElementById('ctl00_ctl00_ContentPlaceHolderHeader_header_plcPersonalization').style.visibility = 'visible';
+        }
+    }
+  </script>
+
+</div>
 
 			
 			
-			    <div class="ml13">
+			    <div id="baseBreadCrumb">
 				    
-						    <table cellspacing="0" border="0" cellpadding="0" style="width: 970px; clear: both;">
-							    <tbody><tr>
-								    <td id="BreadcrumbPageTitle">
+						    <div class="breadCrumbContainer">
+								    <div id="BreadcrumbPageTitle" class="fL">
 									    
-<div id="breadcrumb">
+<ul id="breadcrumb">
     
-</div>
+</ul>
 <div id="pagetitle">
     <span id="ctl00_ctl00_ContentPlaceHolderBreadcrumb_breadCrumb_lblPageTitle" class="h1"></span>
 </div>
 
-								    </td>
-								    <td class="fR vaT" style="padding-top:5px; width:120px;">
-									    <div class="fL w50">
-									        <span></span>
-									    </div>
-									    <div class="fR vaT" style="width:65px;">
+								    </div>
+								    <div class="vaT fL BreadcrumbLinksContainer">
+								        <div class="fR vaT" style="width:65px;">
 									        <div id="ctl00_ctl00_ContentPlaceHolderBreadcrumb_EmailPage_divEmailThisPage" class="inline">
     <a id="ctl00_ctl00_ContentPlaceHolderBreadcrumb_EmailPage_lnkEmailPage" class="body_01" onclick="NewWindow(this.href,this.id,595,750,50,50,1);return false;" href="../PopUps/EmailThisPage.aspx?ParentView=PrivacyPolicy"><img id="ctl00_ctl00_ContentPlaceHolderBreadcrumb_EmailPage_imgHistoryImage" class="vaC" src="http://file.kbb.com/kbb/images/advertising/envelope.gif" alt="Send this page to a friend" border="0">&nbsp;Email
 	</a>
 </div>		
 									    </div>
-									    <div>
+								        <div class="fR w50">
+									        <span></span>
+									    </div>
+									    <div class="fR w95 mr2 saveLinkContainer">
+								            <span></span>
+								        </div>
+									    <div class="clr fR" style="margin-right:15px;_margin-right:7px;">
 									        <span></span>							
 									        <span></span>
 									    </div>
-								    </td>
-    				                <td style="width:10px;">&nbsp;</td>
-							    </tr>
-						    </tbody></table>
+								    </div>
+    				                <div style="width:10px;" class="fL">&nbsp;</div>
+						    </div>
 					    
 				</div>
 		    
 			
-	<div id="contentRel" style="height:100%;">
+	<div id="contentRel">
 		<div id="contentEven" style="width: 780px;">
 			
-    <style type="text/css">
-        .underline
-        {
-            text-decoration: underline;
-        }
-    </style>
-	<div class="body_01" style="padding-top: 2px; padding-left: 9px !important; padding-left: 0px; width: 750px;">
+	<div class="body_01" id="divPrivatePolicy">
 	    
 
 <div class="section">
 	<div class="sectioncontents" style="width: 95%; padding-bottom: 7px; padding-left: 8px; padding-top: 12px">
-        <div class="titleFloatLeft" style="position: relative; top: 0px; float: left; margin-bottom: -8px">
-          <img id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_privacyImage" src="http://file.kbb.com/kbb/Images/wsr/privacypolicy.gif" alt="Privacy" border="0">
+        <div class="titleFloatLeft" style="position: relative; top: 0px; float: left;">
+          <img id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_privacyImage" src="http://file.kbb.com/kbb/images/wsr/privacypolicy.gif" alt="Privacy" border="0">
 			</div>
-			<div style="position: relative; top: 0px; float: right; padding-right: 15px; margin-bottom: -8px" class="body_101">
-                        Last Updated: 9/7/2006				
+			<div style="position: relative; top: 0px; float: right; padding-right: 15px;" class="body_101">
+                        Last Updated: 7/10/2008
             </div>
             <div class="dots"> </div>
             
             <div class="subHead_02" style="margin-top: -3px; padding-bottom: 5px">
-                What This Privacy Policy Covers
+                What This Privacy Policy Covers 
             </div>
             <div class="body_101" style="padding-bottom: 7px">
-                This policy covers how Kelley Blue Book Co., Inc. ("KBB") treats information which personally identifies you (personal information) that KBB collects and receives. The personal information we collect may include your name, address, phone number, or e-mail address. Once you provide KBB with personal information, you are not anonymous to us.<br><br>
-                There are several links from the KBB Web site to third party information and service providers who may collect personal information from you in order to provide you with information or services. KBB has no control over the privacy policy of any third party company, so please examine their privacy policy prior to submitting any personal information. This privacy policy only applies to the KBB Web site.
+                This policy covers how Kelley Blue Book Co., Inc. ("Kelley") treats information which personally identifies you ("personal information") that Kelley collects and receives. The personal information we collect may include your name, address, phone number, and/or e-mail address. Once you provide Kelley with personal information, you are not anonymous to us.<br><br>
+                There are several links from the Kelley Web site to third party information and service providers who may collect personal information from you in order to provide you with information or services. Kelley has no control over the privacy policy of any third party company, so please examine their privacy policy prior to submitting any personal information. This privacy policy applies to the Kelley Web site . 
             </div>
             <div class="dots"> </div>
             <div class="subHead_02" style="margin-top: -3px; padding-bottom: 5px">
@@ -632,48 +772,48 @@ function updateGlobalNavZipDisplay(zipcode)
                 General
             </div>
             <div class="body_101">
-                When you research KBB vehicle values or vehicle pricing information, KBB does not collect any personal information from you. KBB does, however, collect some non-specific visitor information, such as ZIP Codes and vehicle data used to produce vehicle pricing reports, analyze the usage of the KBB Web site, and customize online advertising and promotional offers.<br><br>
+                When you research Kelley vehicle values or vehicle pricing information, Kelley does not collect any personal information from you. Kelley does, however, collect some non-specific visitor information, such as ZIP Codes and vehicle data used to produce vehicle pricing reports, analyze the usage of the Kelley Web site, and customize online advertising and promotional offers.<br><br>
             	
-                KBB collects personal information when you: request a <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink1" class="btnText_03 underline" onclick="javascript:opener.location.href=this.href;window.close();" href="../QuickDealerPriceQuote/SelectVehicle.aspx">Quick Dealer Price Quote</a>, <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_lnkListYourCarForSale" class="btnText_03 underline" onclick="PartnerLink('atc','','kbbcmatcsell',this);javascript:opener.location.href=this.href;window.close();" href="/kbb/AutoTrader/ATCLanding.aspx?ATCURL=https://sellmycar.kbb.com/syc/package_selection.jsf?zip=92692&amp;make=&amp;model=&amp;distance=&amp;LNX=KBBATSYCTEST">list your car for sale</a>, or answer survey questions. We may also receive personal information from you, for example when you: respond to a research survey with a marketing research supplier such as Harris Interactive or provide personal information in Blue Book<sup><small>®</small></sup> Value Feedback comments.<br><br>
+                Kelley collects personal information when you: request a <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink1" class="btnText_03 underline" onclick="javascript:opener.location.href=this.href;window.close();" href="../Quote.aspx">Quick Dealer Price Quote</a>, <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_lnkListYourCarForSale" class="btnText_03 underline" onclick="PartnerLink('atc','','kbbcmatcsell',this);javascript:opener.location.href=this.href;window.close();" href="/kbb/AutoTrader/ATCLanding.aspx?ATCURL=https://sellmycar.kbb.com/syc/package_selection.jsf?zip=92692&amp;make=&amp;model=&amp;distance=&amp;LNX=KBBATSYCTEST">list your car for sale</a>, answer survey questions, register to use the Community Pages and/or a My KBB account. We may also receive personal information from you, for example when you: respond to a research survey with a marketing research supplier such as Harris Interactive or provide personal information in Blue Book<sup><small>®</small></sup> Value Feedback comments.<br><br>
             	
-                When you visit KBB pages, we may collect certain information about your visit from your browser, including the Internet Protocol (IP) address through which you access the Internet, the date and time you access the KBB Web site, the pages that you access while at the KBB Web site and the Internet address of the Web site from which you linked directly to the KBB Web site, and KBB cookie information. KBB aggregates non-specific visitor information for statistical purposes, such as the production of the KBB Blue Book <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink10" class="btnText_03 underline" onclick="javascript:opener.location.href=this.href;window.close();" href="../NewsAndReviews/MostResearchedCars.aspx">Most Researched Cars</a> list. This information is used to help improve the KBB Web site, analyze trends, and administer the site.<br><br>
+                When you visit Kelley pages, we may collect certain information about your visit from your browser, including the Internet Protocol (IP) address through which you access the Internet, the date and time you access the Kelley Web site, the pages that you access while at the Kelley Web site and the Internet address of the Web site from which you linked directly to the Kelley Web site, and Kelley cookie information. Kelley aggregates non-specific visitor information for statistical purposes, such as the production of the Kelley Blue Book <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink10" class="btnText_03 underline" onclick="javascript:opener.location.href=this.href;window.close();" href="../NewsAndReviews/MostResearchedCars.aspx">Most Researched Cars</a> list. This information is used to help improve the Kelley Web site, analyze trends, and administer the site.<br><br>
             	
-                KBB uses your personal information for the following general purposes: to fulfill your requests for products and services, to contact you (if we have your permission), to customize the content and advertising you see, and to improve our services. KBB uses aggregate and non-personal information to conduct research and to provide reports for KBB business partners and customers.
+                Kelley uses your personal information for the following general purposes: to fulfill your requests for products and services, to contact you (if we have your permission), to customize the content and advertising you see, and to improve our services. Kelley uses aggregate and non-personal information to conduct research and to provide reports for Kelley business partners and customers. 
                 <br><br>
             </div>
             <div class="body_101" ;="" style="font-weight:bolder">
-                Information Sharing and Disclosure
+                Information Sharing and Disclosure 
             </div>
             <div class="body_101">
-                KBB does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+                Kelley does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
             <br><br>
-                When you elect to receive information from automobile manufacturers and local dealers and/or from KBB's valued partners (finance, insurance, etc.), KBB will share your personal information only as you have elected.
+                When you elect to receive information from Kelley, automobile manufacturers and local dealers and/or from Kelley's valued partners (finance, insurance, etc.), Kelley will use and/or share your personal information only as you have elected. 
             <br><br>
-                When you request a <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink9" class="btnText_03 underline" onclick="javascript:opener.location.href=this.href;window.close();" href="../QuickDealerPriceQuote/SelectVehicle.aspx">Quick Dealer Price Quote</a>, your personal information (including your contact information) may be forwarded by KBB directly to the dealer or may be provided by KBB to an automobile manufacturer or to a trusted business partner that will forward your personal information to the dealer; your personal information may also be forwarded by KBB, the dealer, the automobile manufacturer or a trusted business partner to Experian Information Solutions, Inc., or R. L. Polk &amp; Co., or another trusted data analysis service provider, for the purpose of verifying buyer purchase activity and reporting aggregate vehicle transaction data (excluding your personal information) to KBB, the dealer, the automobile manufacturer, or a trusted business partner.
+                When you request a <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink9" class="btnText_03 underline" onclick="javascript:opener.location.href=this.href;window.close();" href="../Quote.aspx">Quick Dealer Price Quote</a>, your personal information (including your contact information) may be forwarded by Kelley directly to the dealer or may be provided by Kelley to an automobile manufacturer or to a trusted business partner that will forward your personal information to the dealer; your personal information may also be forwarded by Kelley, the dealer, the automobile manufacturer or a trusted business partner to Experian Information Solutions, Inc., or R. L. Polk &amp; Co., or another trusted data analysis service provider, for the purpose of verifying buyer purchase activity and reporting aggregate vehicle transaction data (excluding your personal information) to Kelley, the dealer, the automobile manufacturer, or a trusted business partner. 
             <br><br>
-                Advertisements served by DoubleClick, a third party Internet advertising technology company, appear on pages throughout the KBB Web site. Some advertisements may request personal information directly from you or take you to Web sites that may request your personal information. KBB has no control over its advertisers' privacy policies, so please examine the privacy policy of any company advertising on the KBB Web site prior to submitting any personal information. In addition, DoubleClick or Revenue Science may place or recognize a unique cookie on your browser and may use information about your visits to the KBB Web site and other Web sites in order to provide advertisements about goods and services of interest to you. For more information about the privacy issues surrounding this technology, DoubleClick's and Revenue Science's information gathering practices and "opt-out" procedures, please
+                Advertisements served by DoubleClick, a third party Internet advertising technology company, appear on pages throughout the Kelley Web site. Some advertisements may request personal information directly from you or take you to Web sites that may request your personal information. Kelley has no control over its advertisers' privacy policies, so please examine the privacy policy of any company advertising on the Kelley Web site prior to submitting any personal information. In addition, DoubleClick or Revenue Science may place or recognize a unique cookie on your browser and may use information about your visits to the Kelley Web site and other Web sites in order to provide advertisements about goods and services of interest to you. For more information about the privacy issues surrounding this technology, DoubleClick's and Revenue Science's information gathering practices and "opt-out" procedures, please 
                 <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink2" class="btnText_03 underline" href="http://www.doubleclick.com/us/about_doubleclick/privacy/" target="new">click here</a>.
             <br><br>
-                Please be aware that when you provide personal information to KBB and authorize KBB to share the information with a third party, your personal information becomes the property of KBB and/or the third party. KBB and/or the third party may use your personal information to process your request and provide valuable services. KBB will only share your personal information with trusted third parties under a confidentiality agreement or similar arrangement that restricts the third party from sharing your personal information with others.
+                Please be aware that when you provide personal information to Kelley and authorize Kelley to share the information with a third party, your personal information becomes the property of Kelley and/or the third party. Kelley and/or the third party may use your personal information to process your request and provide valuable services. Kelley will only share your personal information with trusted third parties under a confidentiality agreement or similar arrangement that restricts the third party from sharing your personal information with others. 
             <br><br>
             </div>
             <div class="body_101" ;="" style="font-weight:bolder">
-                If you do not want your information to be used for marketing by KBB and/or a third party, do not "opt in" or agree to such use when you provide your personal information through the KBB Web site.
+                If you do not want your information to be used for marketing by Kelley and/or a third party, do not "opt in," agree to such use, or simply "opt out," as appropriate, when you provide your personal information through the Kelley Web site. 
             </div>
             <div class="body_101">
-                Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
+               Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information. 
             <br><br>
-                We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also transfer personal information about you if KBB is acquired by or merged with another company.
+              We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also transfer personal information about you if Kelley is acquired by or merged with another company. 
             <br><br>
-                KBB may display targeted advertisements based on your activity on the KBB Web site or based on personal information you have provided, but KBB does not provide your personal information to the advertiser in order to display the targeted ads. KBB and third-party advertising companies note some of the pages you visit through the use of pixel tags. KBB and third-party advertising companies (which may include network advertisers) may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. The information collected by third-party advertising companies through the use of these pixel tags is not personally identifiable. For more information about our third-party advertisers, please click: 
-                <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink3" class="btnText_03 underline" href="http://www.revenuescience.com/site/privacy.asp" target="new">Revenue Science</a>, <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink11" class="btnText_03 underline" href="http://www.tacoda.com/notice/privacy_policy.html" target="new">Tacoda</a>. To opt out of the targeting program, please
+             Kelley may display targeted advertisements based on your activity on the Kelley Web site or based on personal information you have provided, but Kelley does not provide your personal information to the advertiser in order to display the targeted ads. Kelley and third-party advertising companies note some of the pages you visit through the use of pixel tags. Kelley and third-party advertising companies (which may include network advertisers) may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. The information collected by third-party advertising companies through the use of these pixel tags is not personally identifiable. For more information about our third-party advertisers, please click: 
+                <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink3" class="btnText_03 underline" href="http://www.revenuescience.com/privacy.asp" target="new">Revenue Science</a>, <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink11" class="btnText_03 underline" href="http://www.tacoda.com/notice/privacy_policy.html" target="new">Tacoda</a>. To opt out of the targeting program, please
                 <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink4" class="btnText_03 underline" href="http://www.networkadvertising.org/consumer/opt_out.asp" target="new">click here</a>.
             <br><br>
-                KBB Web site content is also integrated into other Web sites. These Web sites may collect personal information from their visitors that may or may not be used in conjunction with the KBB Web site content. Prior to supplying any personal information to any third party company linking to the KBB Web site, please read and understand their privacy policy. 
+                Kelley Web site content is also integrated into other Web sites. These Web sites may collect personal information from their visitors that may or may not be used in conjunction with the Kelley Web site content. Prior to supplying any personal information to any third party company linking to the Kelley Web site, please read and understand their privacy policy. 
             <br><br>
-                KBB utilizes various third party service providers (including Omniture, Revenue Science, Inc., TACODA), to track and analyze non-personally identifiable aggregate usage information from visitors in order to continuously improve the quality of the KBB Web site. All data collected by third party service providers on behalf of KBB is owned by KBB. To view Omniture's privacy policy, please
+               Kelley utilizes various third party service providers (including Omniture, Revenue Science, Inc., and TACODA), to track and analyze non-personally identifiable aggregate usage information from visitors in order to continuously improve the quality of the Kelley Web site. All data collected by third party service providers on behalf of Kelley is owned by Kelley. To view Omniture's privacy policy, please
                 <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink5" class="btnText_03 underline" href="http://www.omniture.com/policy.html" target="new">click here</a>. To view Revenue Science's privacy policy, please
-                <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink6" class="btnText_03 underline" href="http://www.revenuescience.com/site/privacy.asp" target="new">click here</a>. To view TACODA’s privacy policy, please
+                <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink6" class="btnText_03 underline" href="http://www.revenuescience.com/privacy.asp" target="new">click here</a>. To view TACODA’s privacy policy, please
                 <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink8" class="btnText_03 underline" href="http://www.tacoda.com/notice/privacy_policy.html" target="new">click here</a>. 
             <br><br>
             </div>
@@ -681,18 +821,18 @@ function updateGlobalNavZipDisplay(zipcode)
                 Cookies
             </div>
             <div class="body_101">
-                KBB may set and access KBB cookies on your computer. A cookie is a small text file that is placed on your hard drive by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a Web page, or navigate within a site, a cookie helps the site to recall your specific information (such as your ZIP Code) on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the Web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized.
+                Kelley may set and access Kelley cookies on your computer. A cookie is a small text file that is placed on your hard drive by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a Web page, or navigate within a site, a cookie helps the site to recall your specific information (such as your ZIP Code) on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the Web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized. 
             <br><br>
-                KBB lets other companies, including business partners and companies that show advertisements on some of our pages, set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies. Advertisers or other companies may have access to KBB's cookies.
+                Kelley lets other companies, including business partners and companies that show advertisements on some of our pages, set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies. Advertisers or other companies may have access to Kelley's cookies. 
             <br><br>
-                You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit.
+                You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit. 
             <br><br>
             </div>
             <div class="body_101" ;="" style="font-weight:bolder">
                 Web Beacons
             </div>
             <div class="body_101" style="padding-bottom: 7px">
-                KBB uses Web beacons (also known as clear gif technology, or action tags) to access KBB cookies inside and outside our Web site and to collect data and allow other companies to collect data. Web beacons may be used to assist in delivering cookies on our site. This technology is a tool we may also use to compile aggregated statistics about the KBB Web site usage, such as how many visitors clicked on key elements (such as links or graphics) on a page. We may share aggregated site statistics with other companies, and we may allow other companies to place their clear gifs or cookies on our site.
+                Kelley uses Web beacons (also known as clear gif technology, or action tags) to access Kelley cookies inside and outside our Web site and to collect data and allow other companies to collect data. Web beacons may be used to assist in delivering cookies on our site. This technology is a tool we may also use to compile aggregated statistics about the Kelley Web site usage, such as how many visitors clicked on key elements (such as links or graphics) on a page. We may share aggregated site statistics with other companies, and we may allow other companies to place their clear gifs or cookies on our site. 
             <br><br>
             </div>
             <div class="dots"> </div>
@@ -700,14 +840,14 @@ function updateGlobalNavZipDisplay(zipcode)
                 Protection of Children's Personal Information
             </div>
             <div class="body_101" style="padding-bottom: 7px">
-            KBB is a general audience site and does not knowingly collect any personal information from children.
+            Kelley is a general audience site and does not knowingly collect any personal information from children. 
             </div>
             <div class="dots"> </div>
             <div class="subHead_02" style="margin-top: -3px; padding-bottom: 5px">
                 Changes to this Privacy Policy
             </div>
             <div class="body_101" style="padding-bottom: 7px">
-                KBB may occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy. If we make material changes to this privacy policy, we will place a prominent notice at the top of the privacy policy and you will also see the word "Updated" next to the Privacy Policy link on the front page of the KBB Web site. We encourage you to periodically review this privacy policy to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy policy and any updates. Please direct any questions or comments regarding our privacy policy to
+                Kelley may occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy.  We encourage you to periodically review this privacy policy to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy policy and any updates. Please direct any questions or comments regarding our privacy policy to 
                 <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_KbbHyperlink7" class="btnText_03 underline" href="mailto:kelley@kbb.com">Kelley@kbb.com</a>.
             </div>
             <div class="dots"> </div>
@@ -715,7 +855,7 @@ function updateGlobalNavZipDisplay(zipcode)
                 Your California Privacy Rights
             </div>
             <div class="body_101" style="padding-bottom: 7px">
-                For information on Your California Privacy Rights, see
+                For information on Your California Privacy Rights, see 
                 <a id="ctl00_ctl00_ContentPlaceHolderBody_ContentPlaceHolder1_privacyPolicy_lnkPrivacyRights" class="btnText_03 underline" onclick="javascript:opener.location.href=this.href;window.close();" href="PrivacyRights.aspx">California Notice of Information-Sharing Disclosure</a>.
             </div>
     </div>
@@ -730,150 +870,59 @@ function updateGlobalNavZipDisplay(zipcode)
         <div class="MiniSpotlights">
             
         </div>
-        <div class="clr fL w540">
-            <div class="fL ml13">
-                
+        <div id="social_bookmarks">
+            
 
-
-
-            </div>
         </div>
      
 	</div>
 
+            
 			
-				<div id="ctl00_ctl00_ContentPlaceHolderFooter_pnlFooter">
+				<div id="ctl00_ctl00_ContentPlaceHolderFooter_pnlFooter" class="baseFooter">
 	
-					<div class="clearfix">
-					</div>
-					<div id="clearfooter">
-					</div>
 					
-
-<style type="text/css">
-#footerRSS
-{
-    float: left;
-    padding-top: 4px;
-}
-
-#footerRSS div
-{
-    display: inline;
-}
-
-.footerRSSText
-{
-    float: left;
-    margin-left: 3px;
-
-}
-
-.footerRSSText a
-{
-
-    font-family: Verdana, Arial; 
-    font-size: 9px; 
-    font-weight: bold;
-    text-decoration: underline;
-    padding-left: 10px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
-.footerRSSText a:hover
-{
-    text-decoration: none;
-}
-
-.footerRSSButton
-{
-    margin-top: 3px;
-    text-decoration: none;
-}
-
-#footer 
-{
-	color: #000;
-	height: 47px;
-	margin: 0; 
-	padding: 0; 
-	text-align: left;
-	width: 100%;
-}
-.footerNavBar 
-{
-	clear: both;
-	position: relative;
-	top: 23px;
-	height: 18px;
-	width: 980px;	
-	background-color: #d1e4f5;
-	margin-bottom: 5px;
-	padding-bottom: 5px;
-	border-top: 1px solid #4783cc;
-	border-bottom: 1px solid #4783cc;
-	color: #2a4f97;
-	font-size: 9px;
-	font-family: Verdana, Arial, Helvetica, Serif, Sans-Serif;
-}
-.whiteSpacer
-{
-	position: relative;
-	clear: both;
-	padding: 5px;
-}
-
-.footerNavBar span 
-{
-	line-height: 19px;
-	margin: 0;
-	padding: 0;
-	list-style-type: none;
-	display: inline;
-	color:#fff;
-
-}
-.footerNavBar a, .footerNavBar span a {font-size: 9px; padding: 5px; color: #2a4f97;}
-.footerNavBar span a:hover {font-size: 9px; padding: 5px; color: #2a4f97;}
-.footerNavBar span a:visited {color: #2a4f97;}
-.copyright {font-size: 9px; color: #333; text-align:center; margin-top: 10px; width: 980px;}
-.copyright a {color: #333;}
-.copyright span {color: #333}
-.blueCopyright {color: #2a4f97 !important;}
-
-</style>
-
 <div id="footer">
-	<div class="footerNavBar">	   
-	   	    <div style="width:100%; text-align:center; float:left;">
-
-
-
-
-		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkAbout" href="History.aspx">About Us</a>
-		    <span>|</span>
-		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkCareers" href="Careers.aspx" target="_blank">Careers</a>
-		    <span>|</span>
-		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkContactInfo" href="ContactInfo.aspx">FAQ</a>
-		    <span>|</span>
-            <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkContactUs" href="ContactUs.aspx">Contact Us</a>
-		    <span>|</span>
-		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkSitemap" href="Sitemap.aspx">Site Map</a>
-		    <span>|</span>
-		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkMediaCenter" href="../MediaCenter/Default.aspx">Media Center</a>
-		    <span>|</span>
-		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkAdvertisingInfo" href="../Advertising/default.aspx">Advertising</a>
-            <span>|</span>
-            <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkRssText" href="../RSS/Default.aspx">RSS</a>
-        </div>
+	<div class="footerNavBar">
+	<div class="footerLinksBar">
+        <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkHome" href="../default.aspx">Home</a>
+        <span>|</span>
+	 <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkNewCars" href="../NewCars/default.aspx">New Cars</a>	
+        <span>|</span>
+        <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkUsedCars" href="../UsedCars/default.aspx">Used Cars</a>
+        <span>|</span>
+        <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkCompareNewCars" href="../CompareCars/Default.aspx">Research &amp; Explore</a>
+        <span>|</span>
+        <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkReviews" href="../NewsAndReviews/default.aspx">News &amp; Reviews</a>
+        <span>|</span>
+        <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkReadyToBuy" href="../FindaDealer/Default.aspx">Ready To Buy</a>
+        <span>|</span>
+        <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkClassifieds" href="../Classifieds/default.aspx">Classifieds</a>
+        <span>|</span>
+        <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkFinance" href="../AutoLoansAndInsurance/default.aspx">Loans &amp; Insurance</a>
+        <span>|</span>
+        <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkGreen" href="../green-cars/Default.aspx"><span id="spanLnkGreen" onmouseover="this.style.cssText=&quot;margin-right:-10px;border-bottom:1px solid #2a4f97&quot;" onmouseout="this.style.cssText=&quot;margin-right:-10px;border:none;&quot;">KBB<sup>®</sup>Green</span></a>
+        </div> 
      </div>   
-	<div class="clr copyright" style="background-color: White; padding-top: 20px;">
-		<a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkPrivacyPolicy" class="btnText_03 blueCopyright" href="PrivacyPolicy.aspx">Privacy Policy</a>
-		<img id="ctl00_ctl00_ContentPlaceHolderFooter_footer_imgSeperator8" src="http://file.kbb.com/kbb/Images/wsr/seperator_footer1.gif" alt="" border="0" style="padding:0px 10px 0px 10px">
-    	<a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkCopyrightsAndTradeMarks" class="btnText_03 blueCopyright" href="CopyrightsAndTrademarks.aspx">Copyright &amp; Trademarks</a>		
+	<div class="clr copyright blueCopyright" id="footerFooter">
+		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkAbout" href="History.aspx">About Us</a>
+		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkCareers" href="Careers.aspx" target="_blank">Careers</a>
+		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkContactInfo" href="ContactInfo.aspx">FAQ</a>
+		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkContactUs" href="ContactUs.aspx">Contact Us</a>
+		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkSitemap" href="Sitemap.aspx">Site Map</a>
+		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkMediaCenter" href="http://mediaroom.kbb.com/">Media Center</a>
+		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkAdvertisingInfo" href="../Advertising/default.aspx">Advertising</a>
+            <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkKBBMobile" class="supone" href="Mobile.aspx">KBB<small><sup>®</sup></small> Mobile</a>	
+		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkAutoShow" href="http://www.kbb.com/kbb/Auto-Shows">Auto Show</a>
+	        <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkLAAutoShow" href="../Auto-Shows/2008-Los-Angeles-Auto-Show.aspx">LA Auto Show</a>
+		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkDetroitAutoShow" href="../Auto-Shows/2009-Detroit-Auto-Show.aspx">Detroit Auto Show</a>
 	</div>
-	<div class="copyright">
+	
+	<div class="clr copyright blueCopyright">
+		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkLinkingPolicy" href="LinkingPolicy.aspx">Linking Policy</a>
+		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkPrivacyPolicy" href="PrivacyPolicy.aspx">Privacy Policy</a>
+		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkCopyrightsAndTradeMarks" href="CopyrightsAndTrademarks.aspx">Copyright &amp; Trademarks</a>
+		    <a id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lnkTermsofService" href="TermsofService.aspx">Terms of Service</a>	
 	    © <span id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lblCopyRightYearFrom">1995</span>-<span id="ctl00_ctl00_ContentPlaceHolderFooter_footer_lblCopyRightYearTo">2008</span> Kelley Blue Book Co., Inc.
 	</div>
 </div>
@@ -884,13 +933,12 @@ function updateGlobalNavZipDisplay(zipcode)
 		
 
 <script type="text/javascript">
-<!--
+//<![CDATA[
 document.cookie = 'trid=1-direct;path=/';
-var rsiElement = "ctl00_ctl00_RSIBody_RSI";// -->
+var rsiElement = "ctl00_ctl00_RSIBody_RSI";//]]>
 </script>
 </form>
 	</div>
-	
 	<div style="position: absolute; top: 0px; left: 793px">
 		
 	</div>
@@ -960,13 +1008,16 @@ var rsiElement = "ctl00_ctl00_RSIBody_RSI";// -->
               s_prop28=s_prop28.toLowerCase();
               s_prop29=s_prop29.toLowerCase();
               s_prop30=s_prop30.toLowerCase();
+              s_prop31=s_prop31.toLowerCase();
+              s_prop35=s_prop35.toLowerCase();
+              s_prop34=s_prop34.toLowerCase();              
               s_events= s_events.toLowerCase();
               s_eVar1 = s_eVar1.toLowerCase();
               s_eVar2 = s_eVar2.toLowerCase();
               s_products = s_products.toLowerCase();
 //-->
 </script>
-<script id="ctl00_ctl00_OmnitureFooter_scoderemoteG9p2ns" src="http://scripts.kbb.com/kbb/javascript/s_code_remote_G9p2_ns_1.1.0.99.js?version=26366" type="text/javascript">
+<script id="ctl00_ctl00_OmnitureFooter_scoderemoteG9p2ns" src="http://scripts.kbb.com/kbb/javascript/s_code_remote_G9p2_ns_1.1.0.125.js?version=29626" type="text/javascript">
 
 </script>
 
@@ -1015,27 +1066,46 @@ var rsiElement = "ctl00_ctl00_RSIBody_RSI";// -->
         
     <div id="ctl00_ctl00_tracking">
         <script language="JavaScript">var tcdacmd="dt";</script>
-        <script id="ctl00_ctl00_tacodaslf" src="http://an.tacoda.net/an/13259/slf.js?version=1.1.0.99_26366" type="text/javascript">
+        <script id="ctl00_ctl00_tacodaslf" src="http://an.tacoda.net/an/13259/slf.js" type="text/javascript">
 
 </script>
                 
     </div> 
     
-    <script id="ctl00_ctl00_MaxpointTracking" src="http://scripts.kbb.com/kbb/javascript/mxpdc_1.1.0.99.js?version=26366" type="text/javascript">
+    <script id="ctl00_ctl00_MaxpointTracking" src="http://scripts.kbb.com/kbb/javascript/mxpdc_1.1.0.125.js?version=29626" type="text/javascript">
 
 </script>
     
-    <div id="atcMonsterCookie">
-        <script id="ctl00_ctl00_cookieMonster">
+    <div id="ctl00_ctl00_RSIBody_RSI">
+<script id="ctl00_ctl00_RSIBody_jsrevscinet" src="http://js.revsci.net/gateway/gw.js?csid=B05500" type="text/javascript">
 
 </script>
-        <script id="ctl00_ctl00_cookieKbb">
+<div id="ctl00_ctl00_RSIBody_RSIbody">
+<script type="text/javascript">
+<!--
+DM_addEncToLoc("Section", ("general"));
+DM_addEncToLoc("ZIPCode", ("92618"));
+DM_addEncToLoc("SuperSection", ("other"));
+DM_addEncToLoc("Category", (""));
+DM_addEncToLoc("Year", (""));
+DM_addEncToLoc("Make", (""));
+DM_addEncToLoc("MakeModel", (""));
+DM_addEncToLoc("PageName", ("gnprivacy"));
+DM_addEncToLoc("DetailedPageName", ("gnprivacy"));
+DM_addEncToLoc("DMA", ("803"));
+DM_addEncToLoc("CountyCode", ("CA059"));
+//-->
+</script>
+<script type="text/javascript">
+<!--
+DM_tag();
+//-->
+</script>
+</div>
+</div>
+    <script id="ctl00_ctl00_srcOptimostCounter" src="http://scripts.kbb.com/kbb/javascript/optimost_global_1.1.0.125.js?version=29626" type="text/javascript">
 
 </script>
-        
-        
-    </div>
-    
 
 
 </body></html>
