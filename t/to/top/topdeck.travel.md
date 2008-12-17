@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430031101id_/http%3A//www.topdecktours.co.uk/content.asp%3FDocument_ID%3D1184) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217182819id_/http%3A//www.topdecktours.co.uk/content.asp%3FDocument_ID%3D1184) for the most accurate reproduction.*
 
 # Topdeck Tours - Privacy Policy - Topdeck Travel - Great value trips for 18-30 somethings in Europe, Egypt and Africa.
 
