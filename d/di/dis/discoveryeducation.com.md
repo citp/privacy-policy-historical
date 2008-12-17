@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discoveryeducation.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609133031id_/http%3A//www.discoveryeducation.com/aboutus.cfm%3Fpageid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoveryeducation.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061647id_/http%3A//www.discoveryeducation.com/aboutus/privacypolicy.cfm) for the most accurate reproduction.*
 
-# 
+# Discovery Education Privacy Policy
 
 Discovery.com respects your privacy, and we want you to understand the ways in which we do and don't use the information that you transmit when you visit our Web site. This statement discloses the privacy practices for all United States-based Discovery.com Web sites, including Discovery Kids and the Students area of Discovery School. Our web site is intended for users in the United States. This statement does not pertain to our practices in the retail stores, catalog or in other parts of Discovery Communications, Inc. or its subsidiaries and affiliates.
 
@@ -34,7 +34,7 @@ To make our sites more valuable to our visitors, we may also offer some features
 
 Sometimes, we might also contact you directly about our own or others' products and services. If you'd prefer that we not do so, just indicate on your registration form that you prefer not to receive offers and information. And remember, you can always change your preferences, or request that we delete your information.
 
-When we present information to our advertisers &##8212; to help them understand our audience and confirm the value of advertising on our Web sites &##8212; it is usually in the form of aggregated statistics on traffic to various pages within our sites. 
+When we present information to our advertisers — to help them understand our audience and confirm the value of advertising on our Web sites — it is usually in the form of aggregated statistics on traffic to various pages within our sites. 
 
 You should note that our sites include links to other Web sites whose privacy practices we don't control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you're visiting. If you provide information in the course of obtaining products or services through our site, use of any information you provide may be governed by the privacy policy of the provider of those products or services, even if it appears that you're on Discovery-branded pages throughout the transaction. These parties may have privacy policies and practices that differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. We encourage everyone to be proactive in understanding how his or her information is collected and used online.
 
