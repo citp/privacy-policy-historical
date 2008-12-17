@@ -1,149 +1,118 @@
-> *The following text is extracted and transformed from the mywire.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywire.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217172446id_/http%3A//www.mywire.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
-# Privacy Policy
+# MyWire: Privacy Policy
 
-#### Find Answers To Your Questions:
+## Overview
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+Your privacy is important, so MyWire has created this Privacy Policy to let you know what information we collect when you visit the MyWire web site (the "Site"), why we collect it, and how it is used. The terms "you," "your" and "yours" refer to all visitors of our Site. The terms "MyWire", "we", "us" and "our" refer to MyWire and its subsidiaries and affiliates. This Privacy Policy is governed by our Terms of Use. By accessing this Site and the content, information, products and services available on this Site (collectively the "Services"), you consent to the data practices described in this Privacy Policy and other terms in our Terms of Use. We may periodically make changes to this Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes, so we encourage you to visit this page often. 
 
-### Privacy Policy
+## Index
 
-**Why A Privacy Policy?**  
+  1. Information We Collect; How We Collect It
+  2. Is Information Shared or Disclosed?
+  3. Some Examples of When We Share Your Information
+  4. How to Stop Sharing of Information
+  5. Correcting Information
+  6. Security and Passwords
+  7. Emails Sent to You
+  8. Emails Sent to Others
+  9. Cookies
+  10. International Transfers
+  11. Children/Minors
+  12. Contacting MyWire
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
- **This Privacy Policy protects your privacy by:**
 
- **Informing you about:**
+### 1\. Information We Collect; How We Collect It
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+We may request at times that you voluntarily supply us with personal information. Such personal information includes any information that may be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number, other contact information, whether at work or at home, and credit card information. Generally some or all of this information is requested when you register on the Site or when you provide information in connection with an online transaction.
 
+MyWire, its service providers and all vendors providing products or services through our Site use your personal information to, among other things: operate the Site and/or undertake to perform your transactions; create and share reports about your transactions among themselves; perform credit fraud screening services for transactions between you and MyWire and/or others; and market or promote other products or services of interest to you.
 
+MyWire also automatically receives and records information on our server logs from your browser, including your IP address, cookie information and the pages you request. We intend to continue improving the content and function of our Site, and we monitor customer traffic patterns and site usage to help MyWire provide content of interest to you, add and improve features of our Services and enhance the design and layout of our Site.
 
-**Empowering you to choose:**
+If you participate in MyWire's SmartMatch program, you will be required to provide certain additional information, including your social security or tax I.D. number and a bank account routing number. This information will enable MyWire to make any required tax filings resulting from any payments made to you as a participant in the SmartMatch program, as well as facilitate the payment of any amounts earned by you under this program. This information will be collected at the time that a participant registers for the program; and no participant may register without first providing this information.
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+### 2\. Is Information Shared or Disclosed?
 
+MyWire may store and disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to: 
 
+  * protect the rights, safety or property of users of our Site, the public, MyWire or our suppliers; and
+  * conform to legal or regulatory requirements.
 
-**Assuring you that Network Solutions:**
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
 
+Under certain circumstances, MyWire may choose to trade, sell or rent your personal information with trustworthy third parties. Also, if MyWire should ever file for bankruptcy or merge with another company, we may sell the information you provide to MyWire on this Site to a third party or share your personal information with any company with whom we merge. Users who would rather not provide any of the information requested by our registration process do not need to register with MyWire. You can still view some of the content available on our Site without registering. You will, however, need to establish a password-protected personal account to access most of the information available on our Site and to use any Services, such as storing information of interest to you and managing your magazine subscriptions.
 
+Except under extraordinary circumstances (for instance involving MyWire's bankruptcy or its merger with or acquisition by another Company), MyWire will not share certain highly sensitive information collected in the SmartMatch registration process (specifically your social security or tax I.D. number and bank routing information) with any third party.
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+### 3\. Some Examples of When We Share Your Information
 
-  
-**Third Party Advertising and Cookies**
+We work with many publishers and their agents to provide you with access to the content available on this Site and to facilitate your purchase of certain products and services. Accordingly, certain items and content sold on the Site are delivered to you by companies other than MyWire. This includes magazines and other items sent through the mail. It also includes digital items you order on the Site but which you receive directly from third parties. In the cases where you purchase an item on our Site that is fulfilled by another company, you become a customer of the publisher or seller of that item, and we will provide certain of your personal information to that third party. We typically provide personal information such as the item purchased, the price you paid, your name, your email address and your mailing address. We may also ask you to provide us with certain marketing or demographic information at the time of your purchase. If you choose to provide us with any such marketing or demographic information, we may be contractually obligated to share this information with the applicable third party. We generally have no control over how the third party will use your personal information, which might include sending you renewal notices when a magazine subscription is near expiration, direct marketing of other publications from the same company, or the marketing of your name and address to other companies for the purpose of marketing other publications or other products and services to you.
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+Once you have subscribed to a magazine or other item for sale on our Site, we use the fulfillment agent selected by the applicable publisher to fulfill the processing and shipping to you of your subscription or other purchase. This requires us to provide the appropriate publisher’s fulfillment agent with certain of your personal information, which typically includes your name and shipping address. In some cases, we will also provide a fulfillment agent with your billing information so that they may process the actual billing for your subscription or other purchase; however, we will provide such information to the publishers’ fulfillment companies and agents only through encrypted links.
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+We have marketing partnerships with certain publishers and other partners which enable you to come to our Site from a hyperlink located on such partners’ web sites and access certain Services. If, in the course of such a visit to our Site, you sign up for your personal MyWire account, then we are contractually obligated to share your name and email address with the applicable partner. We may also ask you to provide us with certain marketing or demographic information at the time of your registration. If you choose to provide us with any such marketing or demographic information, we may be contractually obligated to share this information with the applicable partner.
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+In any case, we will not be liable for any damages that may result from the use or misuse of your personal information by third parties from which you purchase subscriptions or other items through the Services, by any fulfillment agent that may process your transaction, or by third parties with whom we have marketing and other partnerships.
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+### 4\. How to Stop Sharing of Information
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+You can let us know that you do not wish to receive information about new features and special offers by opting out on the My Account page, which is accessible from our home page. You will not be able to opt out of MyWire sharing certain of your personal information with the publisher of any magazine or other periodical that you purchase on the Site. To cancel your MyWire account, visit the My Account Page, and select edit my membership. Follow the prompts for cancellation. If you have difficulty, contact Customer Support to initiate the account cancellation process.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+### 5\. Correcting Information
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+To update your personal information, simply sign in and go to My Account from our home page. You can make changes to your account information at any time. To protect your privacy and security, we will also verify your identity before granting access or making corrections. You may also contact Customer Support to communicate any questions or concerns.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+### 6\. Security and Passwords
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+The personally identifiable information we collect about you is stored in limited access servers. MyWire intends to take reasonable and appropriate steps to protect such information from unauthorized access or disclosure. While we make efforts to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk.
 
- **Getting to Know Our Customers**
+When your password or credit card number is requested on this Site, we use secure socket layer (SSL) encryption to present secure pages to protect that information. You can tell if you are using a secure server by looking at the bottom of your browser window. In Netscape Navigator or Internet Explorer, you will see a lock icon. When the symbol is unbroken or the padlock appears to be in its closed state, the page is encrypted and therefore secure. If you wish to take advantage of the latest encryption standards, be sure you have the latest version of the browser you use. You can download the latest version from the Netscape or Microsoft web sites. Using beta versions of browsers is not recommended.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+You can review or change your MyWire Subscription or credit card information by signing in and accessing the My Account area of the Site. You can also change your password at any time, and you can set a new password in case you forgot your old one, by going to My Account, which is accessible from our home page. Please keep your password in a safe place and do not to divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit. This is especially important if you are sharing a computer with someone else or are using a computer in a public place such as a library or Internet cafe.
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+Your account is protected by your password. You choose a password when you first start an account with us. Your password needs to: 
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+  * be between 8 and 20 characters long
+  * include both numbers and letters
+  * not contain symbols (*, $, #, %, etc.)
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+Make sure to select a password that is not obvious. A good password includes seemingly random letters and numbers, for example, F3M8N1GR.
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+### 7\. Emails Sent to You
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+We optionally send you emails relating to certain activities in your account, including order confirmations, renewal/expiration notices and credit card problem notices.
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+We will send you email notices about new features, products and services available on MyWire from time to time. You can subscribe or unsubscribe to this notification service by going to My Account, which is accessible from our home page. You can also unsubscribe to this notification service by following the ‘Manage your Email Settings’ link located near the bottom of the email message you receive from us.
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+We may send you email notices based on purchases you have made on our Site. For instance, we may send an email letting you know when a magazine subscription you purchased through us is expiring. You can tell us not to send you these emails by opting out at the time of the purchase.
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+If you subscribe to any of our email newsletters or our notification service, we will use your personal information to send these email newsletters or notifications to you. You can change how you receive the email newsletters you sign up for, or request to stop receiving them, by going to My Account. You can also request to stop receiving any email newsletter by following the ‘Manage your Email Settings’ link located near the bottom of each newsletter.
 
-b. Click “Edit User Info” in the left menu;
+We may send you email notices regarding Site and service announcements containing important information about the Services including but not limited to, confirmation notices and status information about your purchases or subscriptions. You will not be able to un-subscribe from these service announcements.
 
-c. Scroll to the bottom of the page;
+### 8\. Emails Sent to Others
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+If you use our email feature to email an article to a friend, we will email the individuals you select and invite them to come to MyWire to view the item of information you selected to share with them. If they do not have an account with MyWire, we will offer them an opportunity to open an account and accept the terms and conditions of our Services. We will give each of your friends the option to choose whether or not they wish to receive further emails from MyWire.
 
-e. Click “SAVE.”
+### 9\. Cookies
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+Cookies are pieces of information that your browser receives from web sites and stores on your computer's hard drive. MyWire uses cookies to improve our Site and make it easier to use. Cookies permit MyWire to recognize users and avoid repetitive requests for the same information. MyWire (or a third-party provider we contract with) may occasionally include specific tags (also known as "clear gifs" or "web beacons") on selected web pages or email messages to customers. The tags provide statistical information to MyWire so we can better understand what communications are successful. The tags may indicate which email addresses responded to a particular email, but the statistics gathered are only used in aggregate.
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+### 10\. International Transfers
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+Personal information collected on this Site may be stored and processed in the United States or any other country in which MyWire or its affiliates, subsidiaries or agents maintain facilities, and by using this Site, you consent to any such transfer of information outside of your country.
 
-b. Click “Edit User Info” in the left menu;
+### 11\. Children/Minors
 
-c. Scroll to the bottom of the page;
+This Site is not intended for or directed to persons under the age of 18. MyWire does not sell products for purchase by children. Any person who provides their information to MyWire through the registration page for new users or any other part of the Site represents to MyWire that they are 18 years of age or older.
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+### 12\. Contacting MyWire
 
-e. Click “SAVE.” 
+Our goal is to respect your privacy. If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [privacy@mywire.com](mailto:privacy@mywire.com?ai=542&ci=491&ri=2881). MyWire welcomes your comments and questions.
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+Last updated on April 15th, 2007.  
+Copyright 2007 MyWire. All rights reserved.
