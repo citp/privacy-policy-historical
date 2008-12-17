@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the eyewonder.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510233555id_/http%3A//www.eyewonder.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyewonder.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217235014id_/http%3A//www.eyewonder.com/privacy.php) for the most accurate reproduction.*
 
-# Rich Media Ads, Video Ads, Flash Ads, Online Advertising - EyeWonder, Inc.
+# EyeWonder :: Privacy
 
-EyeWonder, Inc. ("EyeWonder") recognizes the importance of privacy for its advertisers, publishers and users. Below is EyeWonder’s policy on collecting, using, disclosing, maintaining and protecting the information that it receives through EyeWonder®-powered advertisements or through its World Wide Web site (the "Site"). Any questions or concerns regarding these policies or practices should be directed to:
+  |  | 
+
+EyeWonder, Inc. ("EyeWonder") recognizes the importance of privacy for its advertisers, publishers and users. Below is EyeWonder’s policy on collecting, using, disclosing, maintaining and protecting the information that it receives through EyeWonder®-powered advertisements or through its World Wide Web site (the "Site"). Any questions or concerns regarding these policies or practices should be directed to: 
 
 **EyeWonder, Inc.  
 233 Peachtree Street, NE  
@@ -36,3 +38,5 @@ Cookies used by EyeWonder:
 Our cookies generally are used to enhance or improve user experience. One example is for a sound preference for our videos on a group of sites. Opting out will break this improved functionality. 
 
 If you have any questions about EyeWonder’s use of cookies, or if you identify a potential privacy issue, please Contact Us 
+
+|  
