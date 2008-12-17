@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheresmycellphone.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624052010id_/http%3A//www.wheresmycellphone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheresmycellphone.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055723id_/http%3A//www.wheresmycellphone.com/privacy.html) for the most accurate reproduction.*
 
 # rickroll.prankdialer.com - A new way to Rick Roll your friends!
 
