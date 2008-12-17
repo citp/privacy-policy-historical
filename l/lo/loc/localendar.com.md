@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localendar.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601004023id_/http%3A//www.localendar.com/calendar/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localendar.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064221id_/http%3A//www.localendar.com/calendar/privacy) for the most accurate reproduction.*
 
 # Free web calendar hosting and searching - localendar.com
 
