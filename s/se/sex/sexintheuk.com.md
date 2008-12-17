@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630072741id_/http%3A//www.sexintheuk.com/helpprivacy.asp%3Fs%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035636id_/http%3A//www.sexintheuk.com/helpprivacy.asp%3Fs%3Ds) for the most accurate reproduction.*
 
-# Sex in the UK - adult fun and dating for singles, couples and groups for erotic encounters and sex in the UK
+# Adult Dating Services Online - SexInTheUK
 
 SexInTheUK is a trading name of EasyDate Ltd. 
 
@@ -12,7 +12,7 @@ SexInTheUK is committed to protecting your privacy. Our aim is to ensure that yo
 
 3\. We will never sell, rent or otherwise share your name, email address, or other personal information with any other business or for any marketing campaign other than by SexInTheUK without your permission. 
 
-4\. We are required to give information to legal authorities if they have the proper authorisation such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the SexInTheUK web site . We are registered under the Data Protection Act (Reg No PZ7031016) to hold information about our members. 
+4\. We are required to give information to legal authorities if they have the proper authorisation such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the SexInTheUK web site. We are registered under the Data Protection Act (Reg No PZ7031016) to hold information about our members. 
 
 5\. Your individual use of SexInTheUK and your interaction with others through SexInTheUK will be kept strictly private. 
 
