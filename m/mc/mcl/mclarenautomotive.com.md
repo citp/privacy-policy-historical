@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mclarenautomotive.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509020410id_/http%3A//www.mclarenautomotive.com/privacy_copyright.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mclarenautomotive.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217193721id_/http%3A//www.mclarenautomotive.com/privacy.php) for the most accurate reproduction.*
 
-# McLaren Automotive - Privacy Policy / Copyright
-
-Copyright (©) McLaren Automotive Ltd 2006. All rights reserved. No part may be reproduced in any form or stored in a data retrieval system without the prior written consent of the copyright holder. The inclusion of any part in other websites is strictly prohibited. 
+# Privacy Policy
 
 McLaren Marketing shall only use personal data collected during your use of this website in accordance with all relevant United Kingdom data protection legislation. 
 
@@ -13,9 +11,3 @@ Any personal data supplied to us may be used to communicate with you and to let 
 Except as expressly stated in this policy we will not sell, share, trade or license any of your personal information to others without your express consent. We reserve the right to disclose your information if requested by the police or any regulatory or Government authority in connection with any investigations concerning your activities while visiting the site.
 
 We will make all reasonable efforts to safeguard the security of your information but please be aware that we cannot guarantee the security or transmission of data over the internet. If your information changes or you wish to contact us to unsubscribe or make any other enquiry regarding our Privacy Policy please email us at: privacy@mclaren.com.
-
-Company Name: McLaren Automotive Limited   
-Place of Registration: England   
-Address of Registered Office: McLaren Technology Centre, Chertsey Road, Woking, Surrey GU21 4YH   
-Company Registration Number: 1967717  
-
