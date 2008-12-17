@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourceradio.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630174323id_/http%3A//www.sourceradio.com/modules.php%3Fname%3DDocs%26file%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceradio.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070524id_/http%3A//www.sourceradio.com/modules.php%3Fname%3DDocs%26file%3Dprivacy) for the most accurate reproduction.*
 
 # SourceRadio - E-Sports News, Frag Videos, Downloads & More!
 
@@ -31,4 +31,4 @@ When a visitor chooses to send News, Articles, Reviews, ect, to a friend, the na
  ** _Changes of our Policy_**  
 If and when our policy statement changes, visitors with Memberships in our databases will be notified of the changes, and provided a link to this page to view the changes. If a visitor decides that our policy does not benefit them, they can use the opt-out option at anytime.
 
-If you have any questions, comments, or suggestions about these Legal Notices, please use our [Contact Form](https://web.archive.org/web/20080630174323id_/http%3A//www.sourceradio.com/modules.php?name=Contact).
+If you have any questions, comments, or suggestions about these Legal Notices, please use our [Contact Form](https://web.archive.org/web/20081217070524id_/http%3A//www.sourceradio.com/modules.php?name=Contact).
