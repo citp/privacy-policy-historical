@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skipmcgrath.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415203418id_/http%3A//www.skipmcgrath.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipmcgrath.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092651id_/http%3A//www.skipmcgrath.com/privacy.shtml) for the most accurate reproduction.*
 
 # The Auction Seller's Resource for professional eBay sellers
 
