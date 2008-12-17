@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612140323id_/http%3A//www.juno.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021334id_/http%3A//www.juno.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Juno - Privacy and Security- Value-priced Internet Service Provider - ISP - Free, low-cost and fast Internet Access
 
