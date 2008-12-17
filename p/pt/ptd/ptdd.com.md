@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptdd.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616034533id_/http%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptdd.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217074636id_/http%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.*
 
 # EASEUS Privacy Policy.
 
@@ -60,7 +60,9 @@ All updates to this policy will be posted here. Last update: October 2005.
 
 Please send any questions or comments on our privacy practices to [corp@easeus.com](mailto:corp@easeus.com). CHENGDU YIWO Tech Development Co., Ltd is committed to user privacy in our products and services.
 
-[Home](https://web.archive.org/) | [About Company](https://web.archive.org/company.htm) | [Contact Us](https://web.archive.org/contact.htm) | [Partner](https://web.archive.org/partner/) | [Resource](https://web.archive.org/resource/) | [Blog](http://blog.easeus.com/) | [Forum](http://forum.easeus.com/) | [Directory](http://directory.easeus.com/) | [Links](https://web.archive.org/links.htm) | [Sitemap](https://web.archive.org/sitemap.htm)
+[Home](https://web.archive.org/) | [Solution](https://web.archive.org/solution.htm) | [About Company](https://web.archive.org/company.htm) | [Contact Us](https://web.archive.org/contact.htm) | [Resource](https://web.archive.org/resource/) | [Blog](http://blog.easeus.com/) | [Forum](http://forum.easeus.com/) | [Directory](http://directory.easeus.com/) | [Links](https://web.archive.org/links.htm) | [Sitemap](https://web.archive.org/sitemap.htm)
+
+[](http://www.addthis.com/bookmark.php)
 
 Copyright © 2005-2008 CHENGDU YIWO Tech Development Co., Ltd. ALL RIGHTS RESERVED.
 
