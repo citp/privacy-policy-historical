@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-av.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605131736id_/http%3A//www.free-av.com/en/pages/2/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-av.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035706id_/http%3A//www.free-av.com/en/pages/2/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
