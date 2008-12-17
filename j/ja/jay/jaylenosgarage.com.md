@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jaylenosgarage.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618024712id_/http%3A//www.nbc.com/Footer/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaylenosgarage.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104440id_/http%3A//www.nbc.com/Footer/Privacy) for the most accurate reproduction.*
 
-# NBC.com > NBC Privacy Policy
+# NBC.com > Privacy Policy
 
 **This Privacy Policy was last updated on August 14, 2007.**
 
