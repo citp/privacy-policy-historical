@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkspain.com privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401014448id_/http%3A//www.thinkspain.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkspain.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133456id_/http%3A//www.thinkspain.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Thinkspain - Privacy Policy
 
