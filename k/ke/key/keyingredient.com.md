@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keyingredient.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531082156id_/http%3A//keyingredient.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyingredient.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105546id_/http%3A//keyingredient.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Key Ingredient
 
@@ -114,7 +114,7 @@ Our Sites may contain links to third-party Web sites that are not operated by Ke
 
 **Security**
 
-Key Ingredient has reasonable security measures in place to attempt to protect against the loss, unauthorized disclosure or use, or alteration of the personal information we collect through our Sites. [Is this true? Or should we just say that credit card numbers are protected by SSL encryption when they are transferred over the Internet from your computer to our server? You have a legal obligation to provide reasonable security, but I don't want to say anything about it here if you do not have robust data security measures in place.]
+Key Ingredient has reasonable security measures in place to attempt to protect against the loss, unauthorized disclosure or use, or alteration of the personal information we collect through our Sites. 
 
 Although we use reasonable measures to protect your personal information, it's important for you to understand that no Web site or database is completely secure, or "hacker proof." You can protect yourself and help us prevent computer crime by carefully guarding your password. If you believe the security of your account has been breached, please change your password immediately and notify us at [customerservice@keyingredient.com](mailto:customerservice@keyingredient.com "Contact Customer Service").
 
