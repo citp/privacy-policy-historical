@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026081718id_/http%3A//www.bookabach.co.nz/cf_main/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084239id_/http%3A//bookabach.co.nz/cf_main/privacy_policy.cfm) for the most accurate reproduction.*
 
 # NZ Holiday Homes: rental holiday accommodation and baches - Book a Bach!
 
@@ -16,9 +16,9 @@ When you make a rental enquiry through bookabach.co.nz for the first time you ar
 
 When you register to list a property we request that you provide the following additional information over basic membership: your _physical address_ and the _locale_ (town, village, beach name) your bach is located. This information becomes part of your Personal and Bach Profiles which you can change at anytime when you are logged in. If you are a property manager, booking agent or family member registering a property on behalf of the property owner we request that you also provide their contact details in case we need to contact them. 
 
-## When you join a Bach Circle
+## When you become a member of a bach (formerly Bach Circle)
 
-If you are added to a Bach Circle by a bach owner or property manager we collect personal information necessary to invite you to join this facility, i.e. your _first name_ , _last name_ and _email address_. When you accept this invitation and complete your registration you are asked to provide additional information including your contact _phone number_. This information becomes part of your Personal Profile which you can change at anytime when you are logged in.
+If you are added to a bach by a bach owner or property manager we collect personal information necessary to invite you to join this facility, i.e. your _first name_ , _last name_ and _email address_. When you accept this invitation and complete your registration you are asked to provide additional information including your contact _phone number_. This information becomes part of your Personal Profile which you can change at anytime when you are logged in.
 
 ## Use of cookies
 
