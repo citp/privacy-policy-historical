@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the neworleanssaints.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512033507id_/http%3A//www.neworleanssaints.com/Misc/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neworleanssaints.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114146id_/http%3A//www.neworleanssaints.com/Misc/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
 # New Orleans Saints - Privacy Policy
-
-  
-
 
 **New Orleans Saints Website Privacy Policy (Last Updated: 7/02/07)  
 **
@@ -26,27 +23,38 @@ Please read the information below to learn more about our data collection polici
 
   
 
-  1. Types Of Information That May Be Collected   
+  1. Types Of Information That May Be Collected
+  
 
-  2. How Information May Be Collected   
+  2. How Information May Be Collected
+  
 
-  3. How We Use The Information Collected   
+  3. How We Use The Information Collected 
+  
 
-  4. With Whom The Information May Be Shared   
+  4. With Whom The Information May Be Shared
+  
 
-  5. Security   
+  5. Security
+  
 
-  6. Chat Rooms, Forums, And Message Boards   
+  6. Chat Rooms, Forums, And Message Boards
+  
 
-  7. Links To Other Websites   
+  7. Links To Other Websites
+  
 
-  8. A Special Note For Parents Concerning Privacy   
+  8. A Special Note For Parents Concerning Privacy
+  
 
-  9. Notification Of Changes And Your Acceptance Of The Privacy Policy   
+  9. Notification Of Changes And Your Acceptance Of The Privacy Policy
+  
 
-  10. Correcting/Updating Personal Information   
+  10. Correcting/Updating Personal Information
+  
 
-  11. Your California Privacy Rights   
+  11. Your California Privacy Rights
+  
 
   12. Questions About This Privacy Policy
 
@@ -86,17 +94,23 @@ As applicable, the information you provide to us may be used to:
 
   
 
-  * contact you about the Website;   
+  * contact you about the Website; 
+  
 
-  * contact you relating to your membership status;   
+  * contact you relating to your membership status; 
+  
 
-  * inform you of a prize you have won;   
+  * inform you of a prize you have won; 
+  
 
-  * monitor or improve the use of the Website;   
+  * monitor or improve the use of the Website; 
+  
 
-  * customize the advertising and content you see;   
+  * customize the advertising and content you see; 
+  
 
-  * monitor compliance with our terms and conditions of use of the Website; and   
+  * monitor compliance with our terms and conditions of use of the Website; and 
+  
 
   * send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties. 
 
