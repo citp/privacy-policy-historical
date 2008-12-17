@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showmethecurry.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603024208id_/http%3A//www.showmethecurry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmethecurry.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218000253id_/http%3A//showmethecurry.com/privacy-policy) for the most accurate reproduction.*
 
 # ShowMeTheCurry.com - Indian recipes and cooking videos, Indian cuisine, podcasts from Hetal and Anuja
 
@@ -18,3 +18,13 @@ Bidvertiser.com
 and others 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+* * *
+
+© Copyright 2008 - Reproduction of the contents of this website without permission, in whole or in part is strictly prohibited. 
+
+* * *
+
+* * *
+
+a Starving Desi Media, LLC company [www.starvingdesimedia.com](http://www.starvingdesimedia.com/ "Starving Desi Media") | [Contact us](http://showmethecurry.com/contact-us/) | [ Privacy Policy](http://showmethecurry.com/privacy-policy/) | [Other Links](http://showmethecurry.com/links/)
