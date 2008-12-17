@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the neighbours.com.au privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620192622id_/http%3A//neighbours.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighbours.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044205id_/http%3A//neighbours.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Neighbours
+# So You Think You Can Dance Australia - Privacy Policy - Neighbours
 
-This Privacy Policy explains the data collection and use practices which are operated by FremantleMedia when you use www.neighbours.com. We are committed to protecting your privacy and honouring the integrity of your personal information in accordance with the Data Protection Act 1998 (the "Act"). If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at privacy.officer@fremantlemedia.com or by mail at 1 Stephen Street, London W1T 1AL UK. Further details on the Act can be found on the website of the Information Commissioner's Office at http://www.ico.gov.uk/.
+This Privacy Policy explains the data collection and use practices which are operated by FremantleMedia when you use www.neighbours.com. We are committed to protecting your privacy and honouring the integrity of your personal information in accordance with the Data Protection Act 1998 (the "Act"). If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at privacy.officer@fremantlemedia.com or by mail at 1 Stephen Street, London W1T 1AL UK. Further details on the Act can be found on the website of the Information Commissioner's Office at http://www.ico.gov.uk/.  
+
 
 **What information do we collect and how do we collect it?**
 
