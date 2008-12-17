@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolfriendsterlayout.com privacy policy that was archived on 2008-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080218184729id_/http%3A//www.coolfriendsterlayout.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolfriendsterlayout.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050910id_/http%3A//www.coolfriendsterlayout.com/privacy.php) for the most accurate reproduction.*
 
 # CoolFriendsterComment - Privacy Policy
 
