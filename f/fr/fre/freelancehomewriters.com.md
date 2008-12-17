@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancehomewriters.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214080046id_/http%3A//www.freelancehomewriters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancehomewriters.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060455id_/http%3A//www.freelancehomewriters.com/privacy.html) for the most accurate reproduction.*
 
 # FreelanceHomeWriters - Privacy Policy
 
