@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidmax.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629040934id_/http%3A//www.vidmax.com/index.php/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidmax.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071241id_/http%3A//www.vidmax.com/privacy) for the most accurate reproduction.*
 
-# Privacy :: Vidmax.com
+# Funny Videos, Crazy Videos, Video Clips :: Vidmax.com
 
 ## Privacy Statement
 
