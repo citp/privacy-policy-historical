@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609084737id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217111017id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ TOP
 VegWeb does not collect your personal identifiable information unless you provide it to us voluntarily and knowingly. If you wish to use certain features on vegweb.com, you must first complete an online membership form. Such features are, but not limited to: 
 
   * Recipe Comments
-  * Q & A Discussion Area
+  * Discussion Area
   * Grocery List, Meal Planner, Recipe Box
   * Contests and Promotions
   * Member Profiles
@@ -85,7 +85,7 @@ If your browser rejects cookies, you may still use our site. The only drawback t
 Some of our business partners also use cookies on our site. See [Third Party Advertising](https://web.archive.org/misc/privacy.shtml#third)
 
 **V. Log Files and IP addresses**  
-Each time a VegWeb page is requested from your browser, we log your computer's IP address into our log files. Your computer has been pre-assigned a 12-digit number. This number is the IP address. We use your IP address to analyze trends, administer the site, track your movements on the site, and gather broad demographic information for aggregate use. When you use the Q&A, we encrypt your IP address and include it in your post. This is to help prevent spam. Occasionally, we may have to include your unencrypted IP address in your post.
+Each time a VegWeb page is requested from your browser, we log your computer's IP address into our log files. Your computer has been pre-assigned a 12-digit number. This number is the IP address. We use your IP address to analyze trends, administer the site, track your movements on the site, and gather broad demographic information for aggregate use.
 
 TOP
 
@@ -124,5 +124,3 @@ Surprise, AZ 85378
 USA
 
 [TOP](https://web.archive.org/misc/privacy.shtml#top)
-
-|  [](http://vegweb.com/ads/www/delivery/ck.php?oaparams=2__bannerid=843__zoneid=17__cb=c3ca68275c__maxdest=http://herbivoreclothing.com/)
