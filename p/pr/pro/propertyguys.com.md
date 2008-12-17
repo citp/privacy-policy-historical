@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyguys.com privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408032224id_/http%3A//www.propertyguys.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyguys.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141945id_/http%3A//www.propertyguys.com/corporate/privacy) for the most accurate reproduction.*
 
 # PropertyGuys.com - Your For Sale By Owner (FSBO) Marketing Service.
 
