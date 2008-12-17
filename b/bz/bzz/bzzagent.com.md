@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bzzagent.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609044805id_/http%3A//www.bzzagent.com/pages/Page.do%3Fpage%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzzagent.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060416id_/http%3A//www.bzzagent.com/pages/Page.do%3Fpage%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy « BzzAgent
 
