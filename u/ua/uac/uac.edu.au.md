@@ -1,119 +1,179 @@
-> *The following text is extracted and transformed from the uac.edu.au privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205131435id_/http%3A//www.uac.edu.au/uac/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uac.edu.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052537id_/http%3A//www.uac.edu.au/common_pages/uacprivacy.html) for the most accurate reproduction.*
 
-# Universities Admissions Centre (NSW & ACT) Pty Ltd UAC's privacy policy
+# Universities Admissions Centre NSW & ACT - UAC Privacy Policy
 
-|  ****  
-UAC's Privacy Policy  
+## What is UAC's Policy Statement?
+
+When you apply to the Universities Admissions Centre (NSW & ACT) Pty Ltd (UAC) you provide a lot of personal information, sometimes including health information. 
+
+UAC recognises the importance of protecting personal information and is bound by the following legislation: 
+  * _Privacy and Personal Information Protection Act 1998 (NSW)_
+  * _Privacy Act 1998 (Cth) as amended in the Privacy Amendment (Private Sector) Act 2000 (Cth)_
+  * _Health Records and Information Privacy Act 2002 (NSW)_
 
 
-**_**_**__**_**What is UAC's Policy Statement?_**
 
-|    
----  
-  
-The Universities Admissions Centre (NSW & ACT) Pty Ltd (UAC) recognises the importance of protecting personal information and is bound by the NSW State Information Protection Principles and the National Privacy Principles. UAC is committed to upholding these principles and has implemented policies and procedures to ensure that these principles are met.  
-  
-**_What information does UAC hold?_**
+This means that UAC must uphold the NSW State Information Protection Principles, the National Privacy Principles and the NSW Health Privacy Principles. 
 
-   
----  
-  
-The type of personal information UAC collects includes:
+UAC is committed to upholding these principles and has implemented policies and procedures to ensure these principles are met. 
 
-__Your contact details, including name, address, telephone number, email address  
-__Your date of birth  
-__Your gender  
-__Your citizenship details  
-__Details of your secondary and other educational achievements  
-__Details of your professional qualifications  
-__Your employment experience  
-Information related to any disability you may suffer  
-Details of your proficiency in English  
-Your Universities Admission Index (UAI)  
-Your status as an Aboriginal or Torres Strait Islander  
-Your Higher School Certificate and other examination results  
-If you are a current NSW Higher School Certificate student, your Year 12 results will be held, along with Year 12 results from other states and territories in Australia, in an archive database at UAC. If you are eligible for a Universities Admission Index (UAI) or a Limited UAI, these will also be held in the database. Your results, including your UAI if you are eligible, will also be held on similar archives at tertiary admissions centres in other states in Australia. Results held on these archives will only be accessed by the relevant tertiary admission centre if you initiate an application for tertiary study through that centre, or if you submit an application for tertiary study directly with an institution participating in that centre.
+^top
 
-Provision of your email address is optional. In collecting personal information UAC will only collect information for lawful purposes related to its function.  
-  
-**_How does UAC use this information?_**
+## What information does UAC hold?
 
-   
----  
-  
-UAC uses this information to process applications for admission to tertiary education institutions. This includes providing universities and other tertiary institutions with the information that you have provided to us.  
-  
-**_What about third parties?_**
+The type of personal information UAC holds includes: 
+  * your contact details (including name, address, telephone number, email address) 
+  * your date of birth 
+  * your gender 
+  * your citizenship details 
+  * details of your education achievements
+  * details of your professional qualifications 
+  * information related to any disability you may suffer 
+  * information related to your health or the health of a family member 
+  * details of your proficiency in English
+  * your HSC and other examination results
+  * your Universities Admission Index (UAI) 
+  * your status as an Aboriginal or Torres Strait Islander. 
 
-   
----  
-  
-In order to perform certain business functions, UAC may contract the services of third parties, such as printing specialists. In these circumstances, where necessary, your information may be shared with these third parties for the express purpose of undertaking the specified service and for no other purpose. The same National Privacy Principles bind these contractors as UAC. 
 
-Your information may also be shared with any authorised representative(s) that you have nominated, and with any organisations with which we are required by law to share the information.
 
-UAC does not buy or sell mailing lists.  
-  
-**_How does UAC handle requests for information?_**
+Provision of your email address is optional. UAC will only collect information for lawful purposes related to its function. 
 
-   
----  
-  
-Under the National Privacy Principles, you are generally entitled to access the information we hold about you. In permitting access, we will require proof of identity to our satisfaction. The type of information you require will determine the length of time we take to respond but generally we will endeavour to satisfy your request immediately. We will generally provide your requested information using the same method of communication as that by which the information was requested. For example, a request by telephone will be answered by telephone and a request in writing will be answered in writing.
+^top
 
-On occasion, we will ask you to put your request for information in writing. This would include instances where you require copies of material, or access to archived information or if the nature of the application makes it necessary for us to retain a record of your request.
+## How does UAC hold this information?
 
-You may be able to access some personal information through UAC's web site (www.uac.edu.au). Access to personal information via our web site requires the use of your unique login and PIN. No personal information is posted on the internet. If you have any difficulties with finding the information you want in using our web site, please advise us.
+Your personal information is held in an archive database at UAC. 
 
-In some circumstances, we may charge a service fee to retrieve your information, based upon our costs (internal and external) in locating the information and the form of response you require. If we intend to charge a fee, we will give you an estimate of the fee so that you can determine whether you want us to proceed with your request. We do not impose any charge for lodging a request for access. Under the National Privacy Principles, we are entitled to refuse you access to your information in certain circumstances. Should we refuse access, we will provide you with the reason/s.  
-  
-  
-**_What do I do if the information UAC holds about me is incorrect?_**
+If you are a current NSW Higher School Certificate student, your Year 12 results will be held along with Year 12 results from other states and territories in Australia, in an archive database at UAC. If you are eligible for a Universities Admission Index (UAI) or a Limited UAI, these will also be held in the database. Your results, including your UAI if you are eligible, will also be held on similar archives at tertiary admissions centres in other states in Australia. Results held on these archives will only be accessed by the relevant tertiary admission centre if you initiate an application for tertiary study through that centre, or if you submit an application for tertiary study directly with an institution participating in that centre. 
 
-   
----  
-  
-Please tell us. We want our records to be accurate, complete and up to date. Unless we disagree with you about the accuracy or completeness of a record, we will generally correct it upon request, or suggest alternative arrangements for updating our records. If, at any point, we disagree, we will provide you with a comprehensive response stating the reasons.  
-  
-**_How do I enquire about a breach of privacy?_**
+^top
 
-   
----  
-  
-If you wish to make a complaint about an alleged breach of your privacy, or seek more information about the way UAC manages personal information, please contact UAC as set out below.  
-  
-_**Write to:**_
+## How does UAC use this information?
 
-| 
+UAC uses this information to process applications for admission to tertiary education institutions. This includes providing universities, other tertiary institutions and tertiary admission centres in other states and territories in Australia with the information that you have provided to us. 
 
-The Managing Director  
+^top
+
+## What about third parties?
+
+To perform certain business functions, UAC may contract the services of third parties, such as printing specialists. 
+
+In these circumstances, where necessary, some of your information may be shared with these third parties for the express purpose of undertaking the specified service and for no other purpose. The same National Privacy Principles bind these contractors as UAC.
+
+Your information may also be shared with any authorised representative/s that you have nominated, and with any organisations with which we are required by law to share the information. 
+
+UAC does not buy or sell mailing lists.
+
+^top
+
+## Declaration and authority
+
+All UAC applicants are asked to sign a Declaration and authority which, among other things, outlines what UAC does with your personal information in the application process. 
+
+The Declaration and authority states that you:  
+
+  * authorise UAC and participating institutions to obtain available official records from any educational institution you have attended 
+  * authorise UAC to verify any information you have provided 
+  * authorise UAC to provide all information and documents provided with and/or obtained in connection with your application to any institution to which you have applied 
+  * authorise UAC to collect, receive, store, transfer and use any information provided by you, or any information obtained in connection with your application, and to disclose such information, to all participating institutions, Universities Australia, Universities Australia member institutions, members of the Australasian Conference of Tertiary Admissions Centres (ACTAC), and any other authority or tertiary educational institution either in Australia or overseas, where UAC reasonably considers it is necessary to make such disclosure
+  * authorise any institution you attend as a result of your application to provide all of your results from future studies to UAC 
+  * have read and understand information published by UAC under the heading _Collection of personal information_ (see below) 
+  * understand that UAC may disclose your personal information to the Department of Education, Employment and Workplace Relations (DEEWR) and that DEEWR will collect and store your personal information for use in connection with the Higher Education Information Management System (HEIMS). 
+
+
+
+^top
+
+## Collection of personal information
+
+UAC collects personal information and, in some circumstances, information regarding your health for the purpose of processing your application for admission to tertiary institutions.
+
+While your personal information is generally collected from you, UAC also collects information about you from other educational institutions that you have attended.
+
+UAC provides your personal information and, where applicable, your health information, to tertiary institutions to which you make an application for admission.
+
+If you do not provide personal information where required in your application, UAC will not be able to process your application.  
+You may seek access to personal information about you collected by UAC.
+
+Any questions regarding privacy at UAC should be forarded in writing to: The Managing Director, UAC, Locked Bag 112, Silverwater NSW 2128. 
+
+^top
+
+## How do I access my information?
+
+Under the National Privacy Principles, you are generally entitled to access the information UAC holds about you, but we will require proof of identity \- and some requests can be refused. The time it takes to respond to your request depends on the type of information you require, and a fee may be charged.
+
+You may be able to access some personal information on UAC's website using your unique login and UAC PIN. No personal information is posted on the internet. 
+
+^top
+
+## What do I do if the information UAC holds about me is incorrect?
+
+Please tell us. We want our records to be accurate, complete and up to date. Unless we disagree with you about the accuracy or completeness of a record, we will generally correct it upon request, or suggest alternative arrangements for updating our records. 
+
+^top
+
+## What do I do about a breach of privacy?
+
+To make a complaint about an alleged breach of your privacy, write to the Managing Director, and explain what has happened. 
+
+If possible, include the name/s and position/s of staff at UAC or at the institution/s who have contacted you. Include your UAC number and copies of any correspondence that illustrates your problem. 
+
+The Managing Director will ensure that your concerns are investigated and will write to you as soon as possible. Your application will not be jeopardised in any way. 
+
+^top
+
+## What are my rights?
+
+The institutions that participate in UAC are committed to observing a Code of Ethical Practice.
+
+The Code is designed to protect the rights of applicants, as follows:  
+**1\. Participating institutions must NOT use UAC data to:**
+  * contact you unless you have included a course at the institution concerned among your preferences or 
+  * transfer information about you to third parties such as university companies.
+
+**2\. Participating universities may contact you for specific purposes, such as to:**
+  * advise you about changes to the course or to the selection criteria or methods since the UAC Guide was published 
+  * advise you about dates, times and other arrangements for special selection tests 
+  * advise you about changes to the availability of the courses 
+  * provide you with additional information about the institutions and/or courses
+  * advise you about the likelihood of your receiving an offer.
+
+
+
+When contacting you by email, institutions must provide accurate information about the sender of the message and a way for you to unsubscribe so that you do not receive such messages in the future. 
+
+3\. Institutions must consider all preferences equally.
+
+4\. Participating institutions that do contact you must not pressure you tp modify the order of your preferences or to change the preferences shown on your application.
+
+5\. If you application is successful you will receive an offical offer of admission from UAC. Offers will be notified by mail aand can be accessed on this website. Participating institutions may advise you about the likelihood of recieving an offer, but the only offical offer made will be through UAC. 
+
+**6\. You may seek access to personal information collected by UAC about you. Access may, however, be denied as permitted under relevant privacy laws.**
+
+^top
+
+## How can I contact UAC?
+
+**write to:** The Managing Director  
 Universities Admissions Centre (NSW & ACT) Pty Ltd  
 Locked Bag 112  
-SILVERWATER NSW 2128   
-  
----|---  
-  
-_**Telephone:**_
+SILVERWATER NSW 2128  
+**telephone:** +61 2 9752 0200  
+**fax:** +61 2 9752 0777   
+**email:[privacy@uac.edu.au](mailto:privacy@uac.edu.au)**
 
-| 
+^top
 
-+61 2 9752 0200  
-  
-_**Fax:**_
+## What about changes to this Policy?
 
-| 
+UAC reserves the right to review and amend this policy from time to time and to notify you by posting an updated version on this website.
 
-+61 2 9752 0777  
-  
-_**Email:**_
+^top
 
-| 
+## How do I find out more?
 
-[**privacy@uac.edu.au**](mailto:privacy@uac.edu.au)  
-  
-**_What about changes to this Policy?_**
+For more information about privacy and the National Privacy Principles, visit the website of the Office of the Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/).
 
-   
----  
-  
-UAC reserves the right to review and amend this policy from time to time and to notify you by posting an updated version on this web site.
+^top 
