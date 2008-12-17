@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animewoot.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604164136id_/http%3A//www.animewoot.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animewoot.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101913id_/http%3A//www.animewoot.com/policy.php) for the most accurate reproduction.*
 
 # Watch Anime Online - Free Anime Streaming Videos - Full Series @ Animewoot.com
 
