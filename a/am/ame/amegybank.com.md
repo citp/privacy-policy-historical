@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amegybank.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615004531id_/http%3A//www.amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amegybank.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217232632id_/http%3A//www.amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.*
 
 # Amegy Bank Money Market Accounts High Yield Checking Savings Account Online Small Business Loans Free Checking
 
