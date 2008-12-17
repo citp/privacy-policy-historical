@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609093619id_/http%3A//www.boston.com/help/privacy_policy/%3Fp1%3DFoot_ContactBostonCom_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060153id_/http%3A//www.boston.com/help/privacy_policy/%3Fp1%3DFoot_ContactBostonCom_PrivacyPolicy) for the most accurate reproduction.*
 
 # Boston.com's Privacy Policy - Boston.com
 
-This policy was last updated on **April 28, 2008**.
+This policy was last updated on **September 24, 2008**.
 
 This policy discloses the online privacy practices for members of the New England Media Group (defined in this case as Boston.com and The Boston Globe). For the purposes of this Privacy Policy, unless otherwise noted, all references to “New England Media Group” will include Boston.com and The Boston Globe (including the Boston Globe Services website). New England Media Group is a wholly owned subsidiary of the New York Times Company. 
 
@@ -150,5 +150,5 @@ For any questions or comments regarding our information or security practices, y
 By E-mail: [feedback@boston.com](mailto:feedback@boston.com)  
 By Phone: 617-929-7900 (between 9:00am and 5:30pm EST.)  
 By Fax: 617-929-8690, Attention Privacy Manager  
-By Mail: Boston.com, 320 Congress Street, Boston, MA 02210-1205, Attention Privacy Manager   
+By Mail: Boston.com, 135 Morrissey Blvd., Boston, MA 02125, Attention Privacy Manager   
 
