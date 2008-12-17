@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the dailyarcade.net privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421051936id_/http%3A//www.dailyarcade.net/index.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyarcade.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113110id_/http%3A//www.dailyarcade.net/index.php%3Fpageid%3D3) for the most accurate reproduction.*
 
 # Free Flash Games! - DailyArcade.net - Privacy Policy
 
-WEB ENTERTAINMENT PRODUCTIONS, INC. PRIVACY POLICY
+CREATIVE ENTERTAINMENT SOLUTIONS, LLC. PRIVACY POLICY
 
 **DAILYARCADE.NET**
 
-Web Entertainment Productions, Inc. we appreciates our relationship with you, respects that your information is yours, and is committed to safeguarding your privacy when you’re using our web site. The following describes our collection of and use of any information that we may collect from you.
+CREATIVE ENTERTAINMENT SOLUTIONS, LLC, Inc. we appreciates our relationship with you, respects that your information is yours, and is committed to safeguarding your privacy when you’re using our web site. The following describes our collection of and use of any information that we may collect from you.
 
 ** Questions**
 
 If you have any questions, we can be reached via  
-(contact at webentertainmentproductions dot com)
+(dailyarcade08 at gmail dot com)
 
 ** We generally do not collect any information.**
 
@@ -29,4 +29,4 @@ We collect electronic mail information only if it is volunteered by you, such as
 
 If in the future this Privacy Policy is amended or updated, you will be subject to this Privacy Policy as amended or updated. We will not notify you of any amendments or updates to this Privacy Policy. It is your responsibility to check this Privacy Policy often for any changes hereto.
 
-copyright 2007/2008  Web Entertainment Productions, Inc. All Rights Reserved. 
+copyright 2007/2008  CREATIVE ENTERTAINMENT SOLUTIONS, LLC, All Rights Reserved. 
