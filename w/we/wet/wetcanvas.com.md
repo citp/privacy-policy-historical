@@ -1,56 +1,43 @@
-> *The following text is extracted and transformed from the wetcanvas.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509104327id_/http%3A//www.wetcanvas.com/tos/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetcanvas.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217120647id_/http%3A//www.wetcanvas.com/tos/privacy.php) for the most accurate reproduction.*
 
 # WetCanvas!: Cyber Living for Artists
 
-Original LLC, owner of WetCanvas! and Art-Agent.com (WetCanvas!) takes your privacy seriously. Please read the following to learn more about our privacy policy.
+## Privacy Policy
 
-**What This Privacy Policy Covers**
+The effective date of this Policy is January 21, 2008. The current version of this Policy includes revisions made through June 26, 2008. 
 
-  * This policy covers how WetCanvas! treats personal information that WetCanvas! collects and receives, including information related to your past use of WetCanvas! products and services. Personal information is information about you that is personally identifiable, such as your name, address, email address, or phone number, and that is not otherwise publicly available.
-  * This policy does not apply to the practices of companies that WetCanvas! does not own or control or other third-party sites that may be linked to one or more of our sites.
+## SUMMARY 
 
+At F+W, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for how we communicate with you and how we handle your personal data. It’s important to us that you understand what information we collect, how we protect it, and how we use it — and to provide clear instructions if you choose to request changes in how we communicate with you. 
 
+## GENERAL CONTACT INFORMATION 
 
-**Information Collection and Use**
+Our postal address is: F+W Publications, Inc. 4700 East Galbraith Road Cincinnati, OH 45236 To ensure that your communications are properly routed, we ask that you identify the F+W products or services (web site, magazine, book club, etc.) relevant to your inquiry when contacting us. If you would like to receive a response, please be sure to include sufficient information to enable us to contact you (such as an email or postal address). 
 
-> **General**
+## INFORMATION WE COLLECT
 
-  * WetCanvas! collects personal information when you register with WetCanvas!, when you use WetCanvas! products or services, and when you visit WetCanvas! pages or the pages of certain WetCanvas! partners.
-  * When you register we ask for information such as your name, email address, birth date, gender. For some products and services we may also ask for your address, and payment information. Once you register with WetCanvas! and sign in to our services, you are not anonymous to us.
-  * WetCanvas! collects information about your transactions with us.
-  * WetCanvas! automatically receives and records information on our server logs from your browser, including your IP address, WetCanvas! cookie information, and the page you request.
-  * WetCanvas! uses information for the following general purposes: to customize the user experience, fulfill your requests for products and services, promote and improve services, contact you, and conduct research. Original LLC is the sole owner of the information that it collects.
+Information about your computer hardware and software For each visitor to our web site, our web server automatically recognizes your IP address. The address allows our server to deliver the information you request from us, such as an article or a form for posting to a discussion board. We also collect visitors’ IP addresses in their domain-name form, allowing us to understand for instance how many visitors access our site through various service providers. We collect this information on an individual basis and in aggregate, or combined, form. We also collect both user-specific and aggregate information on what pages visitors access or visit. We use the information to improve the content of our web pages and to customize the content and layout of our pages. We use cookies to store visitors’ preferences, record session information such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors’ browser type or other information that the visitor sends. We use both session cookies and persistent cookies. Email address, postal address, telephone number If at any time you provide us with your email address to place an order or access a service, we collect that information. Areas in which we may collect your email address include but are not limited to discussion boards; chat areas; product or service transactions; emails you send us; and interactive forms. If you provide us with your email address, you may receive periodic promotional emails from us and carefully selected partners with information regarding special offers or new products or services. You may also receive informational emails from us related to any user accounts you have set up with us, as well as administrative notices regarding the operation of the web site. If you supply us with your postal address online, you may receive periodic mailings from us and carefully selected partners with information on new products and services. Visitors who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. We do not rent telephone contact information to third parties. Finally, we keep any information volunteered by the consumer, such as survey information and/or site registrations, both in aggregate and personally identifiable ways. 
 
+## HOW WE MAY SHARE YOUR INFORMATION 
 
+We may share the information we collect on the web site with our trusted partners, including but not limited to affiliates, marketing partners, and fulfillment or customer service agents. Our partners may use this information to contact you for marketing purposes. California Privacy Rights Pursuant to California Civil Code Section 1798.83, F+W customers who are California residents can request certain information about the sharing of their own personal information with third parties for direct marketing purposes during the past year. California residents can request this disclosure by sending a request to F+W Publications, Inc., Attention: Privacy, 4700 East Galbraith Road, Cincinnati, OH 45236 or by email to [privacy@fwpubs.com](mailto:privacy@fwpubs.com). To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used. OPT OUT PROCEDURES If you do not wish to receive promotional emails from us, please let us know by using the opt-out response device that can be found at the bottom of every email we deliver or by emailing us at [privacy@fwpubs.com](mailto:privacy@fwpubs.com). To help us process your request, please include sufficient information for us to identify you in our records (your email address will suffice) and identify the F+W products or services (web site, magazine, book club, etc.) you have used and from whose mailing lists you wish to be removed. If you wish to be removed from all F+W emailing lists, please indicate so in your request. Please allow a reasonable time for us to process your request. Note that, although you can opt not to receive promotional emails, F+W retains the right to send registered users of its web sites informational email messages about the user’s account or administrative notices regarding the site, as permitted under the CAN-SPAM Act (15 U.S.C. §7701 et seq.). If you do not wish to receive mail or telephone calls from us, please let us know by sending your request to: F+W Publications, Inc., Attention: List Manager, 4700 East Galbraith Road, Cincinnati, OH 45236 or by email to [listdept@fwpubs.com](mailto:listdept@fwpubs.com). To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from our mailing list, or your telephone number to remove you from our call list) and identify the F+W products or services (web site, magazine, book club, etc.) you have used and from whose mailing or call lists you wish to be removed. If you wish to be removed from all F+W contact lists, please indicate so in your request. Please allow a reasonable time for us to process your request. If you do not wish for us to share your information with our trusted partners, please let us know by sending your request to: F+W Publications, Inc., Attention: List Manager, 4700 East Galbraith Road, Cincinnati, OH 45236 or by email to [listdept@fwpubs.com](https://web.archive.org/web/20081217120647id_/http%3A//www.wetcanvas.com/tos/listdept@fwpubs.com). To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from a mailing list, or your email to remove you from an email list) and identify the F+W products or services (web site, magazine, book club, etc.) you have used. Please allow a reasonable time for us to process your request. 
 
-**Information Sharing and Disclosure**
+## AD SERVERS
 
-  * WetCanvas! does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations or suspected violations of WetCanvas!'s terms of use, or as otherwise required by law.
+To bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: Burst Media: http://www.burstmedia.com/isl/index.asp?page=privacy Google Inc. http://www.google.com/intl/en/privacy.html 
 
+## ANALYTICS
 
+To determine how many users visit our site and to better understand the areas of greatest interest to our visitors, we have relationships with other companies that compile this information for us. As a result of your visit to our site, web analytics companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: Google Inc. http://www.google.com/intl/en/privacy.html Omniture, Inc. http://www.omniture.com/privacy/product 
 
-**Cookies**
+## INFORMATION ACCESS
 
-  * WetCanvas! may set and access WetCanvas! cookies on your computer to customize the user experience. A cookie is a piece of data stored on the user’s computer.Cookies typically contain information abou the user (i.e. username, site display preferences, shopping cart contents, etc.) with respect to a specific Web site. You may realize certain losses of functionality if you turn your cookies off in your browser.
+Upon request we provide site visitors with access to their own transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them. You can access this information by sending your request to: F+W Publications, Inc., Attention: Privacy, 4700 East Galbraith Road, Cincinnati, OH 45236 or by email to [privacy@fwpubs.com](mailto:privacy@fwpubs.com). To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used. Upon request we offer visitors the ability to have inaccuracies corrected in all information we maintain about them. You can have this information corrected by sending your request to: F+W Publications, Inc., Attention: Privacy, 4700 East Galbraith Road, Cincinnati, OH 45236 or by email to [privacy@fwpubs.com](mailto:privacy@fwpubs.com). To help us process your request, please provide include sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used. 
 
+## SECURITY 
 
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site, and we employ security features generally accepted in the industry to protect the security of transactions made on our site. Transactions are protected via Secure Sockets Layer (SSL) technology. We require customers to identify themselves via a unique username and password to access their personal information. 
 
-**Links.**
+## CHANGES TO THIS POLICY
 
-  * Wet Canvas! contains advertisements for and links to other Web sites.WetCanvas! is not responsible for the privacy practices of these sites. Users are encouraged to review the privacy policy of all sites they visit prior to sharing any personally identifiable and/or financial information.
-
-
-
-**Changes to this Privacy Policy**
-
-  * WetCanvas! may update or revise this policy at any time, at its sole discretion. We will notify you about significant changes in the way we treat personal information by posting in the Site Discussions forum. Users should review this Privacy Policy from time to time to make sure that they stay informed of its terms and conditions.
-
-
-
-**Questions and Suggestions**
-
-  * If you have questions or suggestions regarding the Privacy Policy, please report it via a feedback form at <http://www.wetcanvas.com/tos/feedback.php>
-
-
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our web site. We will also provide you with the ability to opt out of these new uses. If you believe that this site is not following its stated information policy, you may contact us at the above address, the DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), or state or local chapters of the Better Business Bureau. 
