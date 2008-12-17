@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615134914id_/http%3A//www.buyitsellit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095136id_/http%3A//www.buyitsellit.com/privacy.html) for the most accurate reproduction.*
 
 # buyitsellit - Free Online eCommerce Store Builder
 
