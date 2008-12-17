@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asaptickets.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616110102id_/http%3A//www.asaptickets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asaptickets.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095705id_/http%3A//www.asaptickets.com/privacy) for the most accurate reproduction.*
 
 # ASAP Tickets Econom - cheap airfare, airline tickets, discount airfare
 
