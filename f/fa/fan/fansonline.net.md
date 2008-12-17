@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansonline.net privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515115551id_/http%3A//www.fansonline.net/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansonline.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021123id_/http%3A//www.fansonline.net/terms.htm) for the most accurate reproduction.*
 
 # FansOnline.net || The UK's Only Independent Fans Network
 
