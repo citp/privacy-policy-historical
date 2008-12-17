@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youcanlearnseries.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517084508id_/http%3A//www.youcanlearnseries.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcanlearnseries.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217153650id_/http%3A//youcanlearnseries.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
