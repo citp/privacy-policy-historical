@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the loewshotels.com privacy policy that was archived on 2008-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080608134522id_/http%3A//www.loewshotels.com/en/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loewshotels.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217111551id_/http%3A//www.loewshotels.com/en/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
     <!-- 
-		Loews Website Version: 1.0.3065.25581
-		Build Date: 5/23/2008
+		Loews Website Version: 1.0.3259.97
+		Build Date: 12/3/2008
+		Profile ID: 
     -->
 	<title id="ctl00_ctl00_title">Privacy Policy</title>
 	<!-- Coremetrics should always be at the beginning since there's some redirect done when a user is loggin in -->
@@ -37,7 +38,7 @@
 		
 			cmCreatePageviewTag : function(pageName, categoryID)
 			{
-				if (cmCreatePageviewTag)
+				if (typeof cmCreatePageviewTag != "undefined")
 				{
 					cmCreatePageviewTag(pageName, categoryID);
 				}
@@ -45,7 +46,7 @@
 			
 			cmCreateProductviewTag : function(productID, productName, categoryID)
 			{
-				if (cmCreateProductviewTag)
+				if (typeof cmCreateProductviewTag != "undefined")
 				{
 					cmCreateProductviewTag(productID, productName, categoryID);
 				}
@@ -53,7 +54,7 @@
 			
 			cmCreateShopAction5Tag : function(productID, productName, ReservationDays, UnitPricePerNight, categoryID)
 			{
-				if (cmCreateShopAction5Tag)
+				if (typeof cmCreateShopAction5Tag != "undefined")
 				{
 					cmCreateShopAction5Tag(productID, productName, ReservationDays, UnitPricePerNight, categoryID);
 				}
@@ -62,7 +63,7 @@
 			cmCreateShopAction9Tag : function(productId, productName, reservationDays, unitPricePerNight,
 										customerId, bookingConfirmationNumber, bookingTotal, categoryId)
 			{
-				if (cmCreateShopAction9Tag)
+				if (typeof cmCreateShopAction9Tag != "undefined")
 				{
 					cmCreateShopAction9Tag(productId, productName, reservationDays, unitPricePerNight, customerId, bookingConfirmationNumber, bookingTotal, categoryId);
 				}
@@ -71,7 +72,7 @@
 			cmCreateRegistrationTag : function(customerId, customerEmail, customerCity, ccustomerState, customerZipCode,customerCountry,
 										newsletterName, subscribedFlag, dateOfBirth)
 			{
-				if (cmCreateRegistrationTag)
+				if (typeof cmCreateRegistrationTag != "undefined")
 				{
 					cmCreateRegistrationTag(customerId, customerEmail, customerCity, ccustomerState, customerZipCode,customerCountry,
 										newsletterName, subscribedFlag, dateOfBirth);
@@ -80,7 +81,7 @@
 			
 			cmCreateErrorTag : function(pageName, categoryID)
 			{
-				if (cmCreateErrorTag)
+				if (typeof cmCreateErrorTag != "undefined")
 				{
 					cmCreateErrorTag(pageName, categoryID);
 				}
@@ -88,7 +89,7 @@
 			
 			cmCreateConversionEventTag : function(eventId, actionType, eventCategoryId, points)
 			{
-				if (cmCreateConversionEventTag)
+				if (typeof cmCreateConversionEventTag != "undefined")
 				{
 					cmCreateConversionEventTag(eventId, actionType, eventCategoryId, points);
 				}
@@ -96,7 +97,7 @@
 			
 			cmCreatePageElementTag : function(elementID, elementCategory, pageName, categoryID, elementLocation)
 			{
-				if (cmCreatePageElementTag)
+				if (typeof cmCreatePageElementTag != "undefined")
 				{
 					cmCreatePageElementTag(elementID, elementCategory, pageName, categoryID, null);
 				}
@@ -177,8 +178,10 @@
 	<script type="text/javascript" language="JavaScript1.2" charset="iso-8859-1" src="/Js/main.js"></script>	
 	<script type="text/javascript" language="JavaScript1.2" charset="iso-8859-1" src="/Js/container-min.js"></script>
 	<script type="text/javascript" language="JavaScript1.2" charset="iso-8859-1" src="/Js/calendar-min.js"></script>
+	<script type="text/javascript" language="JavaScript1.2" charset="iso-8859-1" src="/Js/menu-min.js"></script>
 	<script type="text/javascript" language="JavaScript1.2" charset="iso-8859-1" src="/Js/loews.js"></script>
 <!-- /Javascript -->
+
     
 	<!-- Section Specific Css --> 
 	<link rel="stylesheet" type="text/css" media="screen" href="/Css/screenCorporate.css">
@@ -202,15 +205,21 @@
 				<a href="/" id="logoLoews"><img src="../images/UI/loews.gif" id="ctl00_ctl00_LoewsLogo" width="142" height="41" alt="Loews Hotels" class="logo"></a>
 				
 	
-<div id="navigation">
+    
+<div id="navigation"> 
+    <div id="navigation2"> 
+	    <div class="bd"> 
 	
 	<ul class="navigation">
 		<li class=" first yuimenuitem">
 			<a>Destinations</a>
 			<div class="yuimenu">
-				<ul>
+				<div class="bd"><ul>
 					<li class=" first yuimenuitem">
 						<a href="/en/Hotels/Annapolis-Hotel/Overview.aspx">Annapolis</a>
+					</li>
+					<li class=" yuimenuitem">
+						<a href="/en/Promotions/Atlanta.aspx#2">Atlanta</a>
 					</li>
 					<li class=" yuimenuitem">
 						<a href="/en/Hotels/Denver-Hotel/Overview.aspx">Denver</a>
@@ -222,18 +231,18 @@
 						<a href="/en/Hotels/Miami-Beach-Hotel/Overview.aspx">Miami Beach</a>
 					</li>
 					<li class=" yuimenuitem">
-						<a href="/en/Hotels/Vanderbilt-Hotel/Overview.aspx">Nashville</a>
+						<a href="/en/Hotels/Nashville-Hotel/Overview.aspx">Nashville</a>
 					</li>
 					<li class=" yuimenuitem">
 						<a href="/en/Hotels/New-Orleans-Hotel/Overview.aspx">New Orleans</a>
 					</li>
 					<li class=" yuimenuitem">
-						<a href="/en/Hotels/Regency-Hotel/Overview.aspx">New York</a>
+						<a href="/en/Hotels/New-York-City-Hotel/Overview.aspx">New York</a>
 					</li>
 					<li class=" yuimenuitem">
 						<a href="/en/Cities/Orlando.aspx">Orlando</a>
 						<div class="yuimenu">
-							<ul>
+							<div class="bd"><ul>
 								<li class=" first twoLineItem yuimenuitem">
 									<a href="/en/Hotels/Portofino-Bay-Hotel/Overview.aspx">Loews Portofino Bay Hotel at Universal Orlando®</a>
 								</li>
@@ -244,33 +253,35 @@
 									<a href="/en/Hotels/Royal-Pacific-Resort/Overview.aspx">Loews Royal Pacific Resort at Universal Orlando®</a>
 								</li>
 							</ul>
+							</div>
 						</div>
 					</li>
 					<li class=" yuimenuitem">
 						<a href="/en/Hotels/Philadelphia-Hotel/Overview.aspx">Philadelphia</a>
 					</li>
 					<li class=" yuimenuitem">
-						<a href="/en/Hotels/Coronado-Bay-Resort/Overview.aspx">San Diego</a>
+						<a href="/en/Hotels/San-Diego-Resort/Overview.aspx">San Diego</a>
 					</li>
 					<li class=" yuimenuitem">
 						<a href="/en/Hotels/Santa-Monica-Beach-Hotel/Overview.aspx">Santa Monica</a>
 					</li>
 					<li class=" yuimenuitem">
-						<a href="/en/Hotels/Don-CeSar-Beach-Resort/Overview.aspx">St Pete Beach</a>
+						<a href="/en/Hotels/St-Pete-Beach-Resort/Overview.aspx">St Pete Beach</a>
 					</li>
 					<li class=" yuimenuitem">
-						<a href="/en/Hotels/Ventana-Canyon-Resort/Overview.aspx">Tucson</a>
+						<a href="/en/Hotels/Tucson-Resort/Overview.aspx">Tucson</a>
 					</li>
 					<li class=" yuimenuitem">
-						<a href="/en/Hotels/The-Madison-Hotel/Overview.aspx">Washington, DC</a>
+						<a href="/en/Hotels/Washington-DC-Hotel/Overview.aspx">Washington, DC</a>
 					</li>
 					<li class=" yuimenuitem">
-						<a href="/en/Hotels/Hotel-Vogue/Overview.aspx">Montréal</a>
+						<a href="/en/Hotels/Montreal-Hotel/Overview.aspx">Montréal</a>
 					</li>
 					<li class=" yuimenuitem">
-						<a href="/en/Hotels/Le-Concorde-Hotel/Overview.aspx">Québec City</a>
+						<a href="/en/Hotels/Quebec-City-Hotel/Overview.aspx">Québec City</a>
 					</li>
 				</ul>
+				</div>
 			</div>
 		</li>
 		<li class=" yuimenuitem">
@@ -279,7 +290,7 @@
 		<li class=" twoLineItem yuimenuitem">
 			<a>MEETINGS, WEDDINGS &amp; EVENTS</a>
 			<div class="yuimenu">
-				<ul>
+				<div class="bd"><ul>
 					<li class=" first yuimenuitem">
 						<a href="/en/Events/Overview.aspx">Overview</a>
 					</li>
@@ -293,6 +304,7 @@
 						<a href="/en/Events/SpecialOccasions/Overview.aspx">SPECIAL OCCASIONS</a>
 					</li>
 				</ul>
+				</div>
 			</div>
 		</li>
 		<li class=" yuimenuitem">
@@ -302,19 +314,64 @@
 			<a href="/en/FamilyComfort/Default.aspx">Family Comfort</a>
 		</li>
 		<li class=" yuimenuitem">
-			<a href="/LoewsFirst/Default.aspx">Loewsfirst</a>
+			<a href="/en/YouFirst/Default.aspx#1">YouFirst</a>
+			<div class="yuimenu">
+				<div class="bd"><ul>
+					<li class=" first yuimenuitem">
+						<a href="/en/YouFirst/Default.aspx">Welcome</a>
+					</li>
+					<li class=" yuimenuitem">
+						<a href="/en/YouFirst/JoinNow.aspx">Join Now</a>
+					</li>
+					<li class=" yuimenuitem">
+						<a href="/en/YouFirst/Benefits.aspx">Benefits</a>
+					</li>
+					<li class=" yuimenuitem">
+						<a href="/en/YouFirst/TermsAndConditions.aspx">Terms &amp; Conditions</a>
+					</li>
+					<li class=" yuimenuitem">
+						<a href="/en/YouFirst/Partners.aspx">Partner Offers</a>
+					</li>
+					<li class=" yuimenuitem">
+						<a href="/en/YouFirst/ContactYouFirst.aspx">Contact</a>
+					</li>
+				</ul>
+				</div>
+			</div>
 		</li>
-
-
+		<li class=" yuimenuitem">
+			<a href="/en/AboutUs/Overview.aspx#1">About Us</a>
+			<div class="yuimenu">
+				<div class="bd"><ul>
+					<li class=" first yuimenuitem">
+						<a href="/en/AboutUs/Overview.aspx#2">Overview</a>
+					</li>
+					<li class=" twoLineItem yuimenuitem">
+						<a href="/en/AboutUs/MulticulturalInitiatives.aspx#1">Multicultural Initiatives</a>
+					</li>
+					<li class=" yuimenuitem">
+						<a href="/en/AboutUs/Neighbor.aspx#1">Good Neighbor Policy</a>
+					</li>
+					<li class=" yuimenuitem">
+						<a href="/en/AboutUs/GreenPolicy.aspx#1">Green Policy</a>
+					</li>
+					<li class=" yuimenuitem">
+						<a href="/en/AboutUs/Careers.aspx#1">Careers</a>
+					</li>
+				</ul>
+				</div>
+			</div>
+		</li>
 	</ul>
 
 	 
-
+</div>
+</div>
 </div> <!-- /navigation -->
 
 
 
-	<div id="widget" class="widget" style="display: block;"><h2>Book a room</h2><ul id="widget-booking-widget" class="widget undefined basic"><li><label>My dates are:</label><input name="widget-type" type="radio" id="widget-type-basic" class="radio" value="basic"><label for="widget-type-basic" class="dateType">Specific</label><input name="widget-type" type="radio" id="widget-type-flex" class="radio" value="flexible"><label for="widget-type-flex" class="dateType">Flexible</label></li><li><span id="widget-hErr" class="error"></span><div><label for="widget-h" class="h">Destination</label><select id="widget-h" class="h"><option value="">Select...</option><option value="LANN">Annapolis, Maryland – Loews Annapolis Hotel</option><option value="LCBR">Coronado, California – Loews Coronado Bay Resort</option><option value="LDEN">Denver, Colorado – Loews Denver Hotel</option><option value="LLLV">Henderson, Nevada – Loews Lake Las Vegas Resort</option><option value="LMIA">Miami Beach, Florida – Loews Miami Beach Hotel</option><option value="LVOG">Montreal, Québec – Loews Hotel Vogue</option><option value="LVND">Nashville, Tennessee – Loews Vanderbilt Hotel (Nashville)</option><option value="LNOH">New Orleans, Louisiana – Loews New Orleans Hotel</option><option value="LREG">New York, New York – Loews Regency Hotel</option><option value="UEPBH">Orlando, Florida – Loews Portofino Bay Hotel at Universal Orlando®</option><option value="UERPR">Orlando, Florida – Loews Royal Pacific Resort at Universal Orlando®</option><option value="UEHRH">Orlando, Florida – Hard Rock Hotel® at Universal Orlando® Resort</option><option value="LPHL">Philadelphia, Pennsylvania – Loews Philadelphia Hotel</option><option value="LLEC">Québec City, Québec – Loews Le Concorde Hotel</option><option value="LSMB">Santa Monica, California – Loews Santa Monica Beach Hotel</option><option value="LDON">St. Pete Beach, Florida – Don CeSar Beach Resort, A Loews Hotel</option><option value="LVCR">Tucson, Arizona – Loews Ventana Canyon Resort</option><option value="LMAD">Washington, Washington, DC – The Madison, A Loews Hotel </option></select></div></li><li class="basic"><span id="widget-ciErr" class="error" style="display: none;"></span><label for="widget-ci">Check-in</label><input type="text" id="widget-ci" class="ci mainLoewsBookingWidgetCalendar"><label for="widget-ci" class="calendar">Calendar</label></li><li class="basic"><span id="widget-ciErr" class="error" style="display: none;"></span><label for="widget-co">Check-out</label><input type="text" id="widget-co" class="co mainLoewsBookingWidgetCalendar"><label for="widget-co" class="calendar">Calendar</label></li><li class="flexible closed"><label for="widgetl">Trip duration</label><select id="widgetl"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option></select><span class="units">Night(s)</span></li><li class="flexible closed"><span id="widget-ciErr" class="error" style="display: none;"></span><label for="widget-d1">Sometime between</label><input type="text" id="widget-d1" class="d1 mainLoewsBookingWidgetCalendar"><label for="widget-d1" class="calendar">Calendar</label></li><li class="flexible closed"><span id="widget-ciErr" class="error" style="display: none;"></span><label for="widget-d2">And</label><input type="text" id="widget-d2" class="d2 mainLoewsBookingWidgetCalendar"><label for="widget-d2" class="calendar">Calendar</label><span class="note">(Maximum range of 30 days)</span></li><li id="widget-gm"><label for="widget-numRooms" class="numRooms">Rooms</label><select id="widget-numRooms"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select><table id="widget-rooms"><thead><tr><td></td><th scope="col">Adults<br>(18+)</th><th scope="col">Kids<br>(0-17)</th></tr></thead><tbody><tr><th class="room" scope="row">Rm. 1</th><td><select id="widget-roomsa0" class="room adults"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select></td><td><select id="widget-roomsk0" class="room kids"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option></select></td></tr></tbody></table></li><li class="moreOptions"><a href="#">More search options</a><div id="widget-more-options" class="closed"><p>Special Rates</p><ul><li><label>Partner Program</label><select id="widget-partners"><option>Select...</option><option value="p">Promotion</option><option value="b">Group</option><option value="CORPORATE">Corporate</option><option value="TRAVELAGENT">Travel Agent</option><option value="AAA">AAA</option><option value="AARP">AARP</option><option value="GOV">Government</option></select></li><li><label for="widget-code">Code:  (if required)</label><input id="widget-code" value="Type in code"></li></ul></div></li><li><a href="#" class="link availability">Check Availability</a></li></ul></div>	
+	<div id="widget" class="widget" style="display: block;"><h2>Book it now!</h2><ul id="widget-booking-widget" class="widget undefined basic"><li><label>My dates are:</label><input name="widget-type" type="radio" id="widget-type-basic" class="radio" value="basic"><label for="widget-type-basic" class="dateType">Specific</label><input name="widget-type" type="radio" id="widget-type-flex" class="radio" value="flexible"><label for="widget-type-flex" class="dateType">Flexible</label></li><li><span id="widget-hErr" class="error"></span><div><label for="widget-h" class="h">Destination</label><select id="widget-h" class="h"><option value="">Select...</option><option value="LANN">Annapolis, Maryland – Loews Annapolis Hotel</option><option value="LCBR">Coronado, California – Loews Coronado Bay Resort, San Diego</option><option value="LDEN">Denver, Colorado – Loews Denver Hotel</option><option value="LLLV">Henderson, Nevada – Loews Lake Las Vegas Resort</option><option value="LMIA">Miami Beach, Florida – Loews Miami Beach Hotel</option><option value="LVOG">Montreal, Québec – Loews Hotel Vogue, Montréal</option><option value="LVND">Nashville, Tennessee – Loews Vanderbilt Hotel, Nashville</option><option value="LNOH">New Orleans, Louisiana – Loews New Orleans Hotel</option><option value="LREG">New York, New York – Loews Regency Hotel, New York City</option><option value="UEPBH">Orlando, Florida – Loews Portofino Bay Hotel at Universal Orlando®</option><option value="UERPR">Orlando, Florida – Loews Royal Pacific Resort at Universal Orlando®</option><option value="UEHRH">Orlando, Florida – Hard Rock Hotel® at Universal Orlando® Resort</option><option value="LPHL">Philadelphia, Pennsylvania – Loews Philadelphia Hotel</option><option value="LLEC">Québec City, Québec – Loews Le Concorde Hotel, Québec</option><option value="LSMB">Santa Monica, California – Loews Santa Monica Beach Hotel</option><option value="LDON">St. Pete Beach, Florida – Don CeSar Beach Resort, A Loews Hotel, St Pete Beach</option><option value="LVCR">Tucson, Arizona – Loews Ventana Canyon Resort, Tucson</option><option value="LMAD">Washington, Washington, DC – The Madison, A Loews Hotel, Washington</option></select></div></li><li class="basic"><span id="widget-ciErr" class="error" style="display: none;"></span><label for="widget-ci">Check-in</label><input type="text" id="widget-ci" class="ci mainLoewsBookingWidgetCalendar"><label for="widget-ci" class="calendar">Calendar</label></li><li class="basic"><span id="widget-ciErr" class="error" style="display: none;"></span><label for="widget-co">Check-out</label><input type="text" id="widget-co" class="co mainLoewsBookingWidgetCalendar"><label for="widget-co" class="calendar">Calendar</label></li><li class="flexible closed"><label for="widgetl">Trip duration</label><select id="widgetl"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option></select><span class="units">Night(s)</span></li><li class="flexible closed"><span id="widget-ciErr" class="error" style="display: none;"></span><label for="widget-d1">Sometime between</label><input type="text" id="widget-d1" class="d1 mainLoewsBookingWidgetCalendar"><label for="widget-d1" class="calendar">Calendar</label></li><li class="flexible closed"><span id="widget-ciErr" class="error" style="display: none;"></span><label for="widget-d2">And</label><input type="text" id="widget-d2" class="d2 mainLoewsBookingWidgetCalendar"><label for="widget-d2" class="calendar">Calendar</label><span class="note">(Maximum range of 30 days)</span></li><li id="widget-gm"><label for="widget-numRooms" class="numRooms">Rooms</label><select id="widget-numRooms"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select><table id="widget-rooms"><thead><tr><td></td><th scope="col">Adults<br>(18+)</th><th scope="col">Kids<br>(0-17)</th></tr></thead><tbody><tr><th class="room" scope="row">Rm. 1</th><td><select id="widget-roomsa0" class="room adults"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select></td><td><select id="widget-roomsk0" class="room kids"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option></select></td></tr></tbody></table></li><li class="moreOptions"><a href="#">More search options</a><div id="widget-more-options" class="closed"><p>Special Rates</p><ul><li><label>Partner Program</label><select id="widget-partners"><option>Select...</option><option value="p">Promotion</option><option value="b">Group</option><option value="CORPORATE">Corporate</option><option value="TRAVELAGENT">Travel Agent</option><option value="AAA">AAA</option><option value="AARP">AARP</option><option value="GOV">Government</option></select></li><li><label for="widget-code">Code:  (if required)</label><input id="widget-code" value="Type in code"></li></ul></div></li><li><a href="#" class="link availability">Check Availability</a></li></ul></div>	
 	<div class="tollFreeNumber"><span class="lineName">Toll Free Reservations:</span><span class="resNumber">1-866-LOEWS-WB<br>(1-866-563-9792)</span></div>	
 
                 
@@ -324,18 +381,15 @@
 			<div id="header">
 				<div id="ctl00_ctl00_LoginHeader">
 				    <div id="welcome-my-loews-online">
-				        
-
+				        <span id="ctl00_ctl00_Header1_pnlNotLogged" class="my-loews-online notlogged">
 <ul>
-	<li><a id="ctl00_ctl00_Header1_lnkMyReservations" href="https://www.loewshotels.com/en/Profile/ReservationsLogin.aspx?returnUrl=https%3a%2f%2fwww.loewshotels.com%2fen%2fBooking%2fMyReservation.aspx">My Reservations</a></li>
-	<li><a id="ctl00_ctl00_Header1_lnkMyProfile" href="https://www.loewshotels.com/en/Profile/Login.aspx?returnUrl=https%3a%2f%2fwww.loewshotels.com%2fen%2fProfile%2fModify.aspx">My Profile</a></li>
+	<li class="first"><a id="ctl00_ctl00_Header1_lnkSignIn" href="https://www.loewshotels.com/en/YouFirst/Default.aspx?returnUrl=http%3a%2f%2fwww.loewshotels.com%2fen%2fPrivacyPolicy.aspx">Sign in</a></li>
+    <li><a id="ctl00_ctl00_Header1_lnkRegister" href="https://www.loewshotels.com/en/YouFirst/JoinNow.aspx">Register</a></li>
+    <li><a id="ctl00_ctl00_Header1_lnkMyReservations" href="https://www.loewshotels.com/en/Profile/ReservationsLogin.aspx?returnUrl=https%3a%2f%2fwww.loewshotels.com%2fen%2fBooking%2fMyReservation.aspx">My Reservations</a></li>
 </ul>
 
-<span id="ctl00_ctl00_Header1_pnlNotLogged" class="my-loews-online">
-	Welcome to My Loews Online - 
-    <a id="ctl00_ctl00_Header1_lnkSignIn" href="https://www.loewshotels.com/en/Profile/Login.aspx?returnUrl=http%3a%2f%2fwww.loewshotels.com%2fen%2fPrivacyPolicy.aspx">Sign in</a> or
-    <a id="ctl00_ctl00_Header1_lnkRegister" href="https://www.loewshotels.com/en/Profile/Register.aspx">Register</a>
 </span>
+
 
 
 
@@ -358,9 +412,16 @@
 	                <!-- ***[ MasterContent ]************************************************ -->
 	                
     
-<div id="privacypolicy" class="content-wrapper clearfix">
-	<div id="image-header"><img id="ctl00_ctl00_MasterContent_MainContent_Image1" src="../Images/PrivacyPolicyBanner.jpg" style="height:145px;width:581px;border-width:0px;"></div> <!-- /image-header -->
+
+	<div id="flash-header"><img id="ctl00_ctl00_MasterContent_ucSubHeader_FlashImage" src="../Images/PrivacyPolicyBanner.jpg" alt="Image Placeholder" style="height:145px;width:581px;border-width:0px;"></div> <!-- /flash-header -->
 	
+	
+	
+	
+
+    
+<div id="privacypolicy" class="content-wrapper clearfix">
+		
 	<div class="title">
 		<h2>Privacy Policy</h2>
 	</div>
@@ -420,13 +481,16 @@
 
 	<ul class="tools">
 		<li class=" first yuimenuitem">
+			<a href="/en/Default.aspx#1">Home</a>
+		</li>
+		<li class=" yuimenuitem">
 			<a href="/en/SiteMap.aspx">Site Map</a>
 		</li>
 		<li class=" selected yuimenuitem">
 			<a href="/en/PrivacyPolicy.aspx">Privacy Policy</a>
 		</li>
 		<li class=" yuimenuitem">
-			<a href="/en/TermsAndConditions.aspx">Terms And Conditions</a>
+			<a href="/en/TermsAndConditions.aspx">Terms and Conditions</a>
 		</li>
 		<li class=" yuimenuitem">
 			<a href="/en/AboutUs/">About Us</a>
@@ -440,7 +504,6 @@
 		<li class=" yuimenuitem">
 			<a href="/en/ContactUs.aspx">Contact Us</a>
 		</li>
-
 	</ul>
 
 
@@ -460,29 +523,29 @@
 
 
 
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzg3NzIxMzEwZBgBBSBjdGwwMCRjdGwwMCRGb290ZXIkY3RsRm9vdGVyTWVudQ8PZAUOUHJpdmFjeSBQb2xpY3lk"></form>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYzMTM2OTU4OGQYAQUgY3RsMDAkY3RsMDAkRm9vdGVyJGN0bEZvb3Rlck1lbnUPD2QFDlByaXZhY3kgUG9saWN5ZA=="></form>
 
 <script type="text/javascript">
     var widget = new LOEWS.widget.BookingWidget("widget");
         
 	widget.hotels.add({name: "Annapolis, Maryland – Loews Annapolis Hotel", code: "LANN", newwin: false, oneRoomOnly: false});
-	widget.hotels.add({name: "Coronado, California – Loews Coronado Bay Resort", code: "LCBR", newwin: false, oneRoomOnly: false});
+	widget.hotels.add({name: "Coronado, California – Loews Coronado Bay Resort, San Diego", code: "LCBR", newwin: false, oneRoomOnly: false});
 	widget.hotels.add({name: "Denver, Colorado – Loews Denver Hotel", code: "LDEN", newwin: false, oneRoomOnly: false});
 	widget.hotels.add({name: "Henderson, Nevada – Loews Lake Las Vegas Resort", code: "LLLV", newwin: false, oneRoomOnly: false});
 	widget.hotels.add({name: "Miami Beach, Florida – Loews Miami Beach Hotel", code: "LMIA", newwin: false, oneRoomOnly: false});
-	widget.hotels.add({name: "Montreal, Québec – Loews Hotel Vogue", code: "LVOG", newwin: false, oneRoomOnly: false});
-	widget.hotels.add({name: "Nashville, Tennessee – Loews Vanderbilt Hotel (Nashville)", code: "LVND", newwin: false, oneRoomOnly: false});
+	widget.hotels.add({name: "Montreal, Québec – Loews Hotel Vogue, Montréal", code: "LVOG", newwin: false, oneRoomOnly: false});
+	widget.hotels.add({name: "Nashville, Tennessee – Loews Vanderbilt Hotel, Nashville", code: "LVND", newwin: false, oneRoomOnly: false});
 	widget.hotels.add({name: "New Orleans, Louisiana – Loews New Orleans Hotel", code: "LNOH", newwin: false, oneRoomOnly: false});
-	widget.hotels.add({name: "New York, New York – Loews Regency Hotel", code: "LREG", newwin: false, oneRoomOnly: false});
+	widget.hotels.add({name: "New York, New York – Loews Regency Hotel, New York City", code: "LREG", newwin: false, oneRoomOnly: false});
 	widget.hotels.add({name: "Orlando, Florida – Loews Portofino Bay Hotel at Universal Orlando®", code: "UEPBH", newwin: true, oneRoomOnly: true});
 	widget.hotels.add({name: "Orlando, Florida – Loews Royal Pacific Resort at Universal Orlando®", code: "UERPR", newwin: true, oneRoomOnly: true});
 	widget.hotels.add({name: "Orlando, Florida – Hard Rock Hotel® at Universal Orlando® Resort", code: "UEHRH", newwin: true, oneRoomOnly: true});
 	widget.hotels.add({name: "Philadelphia, Pennsylvania – Loews Philadelphia Hotel", code: "LPHL", newwin: false, oneRoomOnly: false});
-	widget.hotels.add({name: "Québec City, Québec – Loews Le Concorde Hotel", code: "LLEC", newwin: false, oneRoomOnly: false});
+	widget.hotels.add({name: "Québec City, Québec – Loews Le Concorde Hotel, Québec", code: "LLEC", newwin: false, oneRoomOnly: false});
 	widget.hotels.add({name: "Santa Monica, California – Loews Santa Monica Beach Hotel", code: "LSMB", newwin: false, oneRoomOnly: false});
-	widget.hotels.add({name: "St. Pete Beach, Florida – Don CeSar Beach Resort, A Loews Hotel", code: "LDON", newwin: false, oneRoomOnly: false});
-	widget.hotels.add({name: "Tucson, Arizona – Loews Ventana Canyon Resort", code: "LVCR", newwin: false, oneRoomOnly: false});
-	widget.hotels.add({name: "Washington, Washington, DC – The Madison, A Loews Hotel ", code: "LMAD", newwin: false, oneRoomOnly: false});
+	widget.hotels.add({name: "St. Pete Beach, Florida – Don CeSar Beach Resort, A Loews Hotel, St Pete Beach", code: "LDON", newwin: false, oneRoomOnly: false});
+	widget.hotels.add({name: "Tucson, Arizona – Loews Ventana Canyon Resort, Tucson", code: "LVCR", newwin: false, oneRoomOnly: false});
+	widget.hotels.add({name: "Washington, Washington, DC – The Madison, A Loews Hotel, Washington", code: "LMAD", newwin: false, oneRoomOnly: false});
         	
         widget.formState.t = 'basic';
         widget.formState.ci = '';
@@ -500,7 +563,7 @@
         widget.formState.bn='';
         widget.formState.mod='Create';
 		
-        widget.lbl.bookARoom = "Book a room";
+        widget.lbl.bookARoom = "Book it now!";
         widget.lbl.myDatesAre = "My dates are:";
         widget.lbl.basic = "Specific";
         widget.lbl.flexible = "Flexible";
@@ -560,6 +623,7 @@
         YAHOO.util.Event.addListener(window, "load", widget.render, widget, true);
 </script>
 
+<script type="text/javascript" language="JavaScript1.2" charset="iso-8859-1" src="/Js/nurun-min.js"></script>
 
 
 <div id="mainLoewsBookingWidgetCalendar" class="yui-calcontainer multi withtitle" style="display: none; position: absolute;"><div class="title">&nbsp;</div><div id="mainLoewsBookingWidgetCalendar_0" class="yui-calcontainer groupcal first-of-type"><table cellspacing="0" class="yui-calendar y2020" id="cal_0">
