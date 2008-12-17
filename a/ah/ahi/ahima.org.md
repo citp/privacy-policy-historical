@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628151510id_/http%3A//www.ahima.org/about/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122212id_/http%3A//www.ahima.org/about/privacy_statement.asp) for the most accurate reproduction.*
 
 # AHIMA - American Health Information Management Association
 
@@ -13,7 +13,7 @@ On both sites, we use your IP address to help diagnose problems with our server,
 
 AHIMA has contracted with other vendors to provide services and information to our Web site users. We use our best efforts to ensure the contract with such vendors only permits the vendor to use the data collected to diagnose problems and to administer our Web site.
 
-#####  Member Profile Data and Unique Identifiers
+#####  HIM Salary Study and Unique Identifiers
 
 In AHIMA's Communities of Practice Web site, general profile data on members are accessible to other members in aggregate form. Information provided to other members includes a member's name, city, state, job title, and workplace as part of an online member directory. Other identifying information is not available.
 
@@ -65,7 +65,7 @@ Send e-mail to [info@ahima.org](mailto:info@ahima.org?subject=Inquiry%20about%20
 Send mail to:  
 AHIMA  
 233 N. Michigan Ave., 21st Floor,   
-Chicago, IL 60601-5800   
+Chicago, IL 60601-5809   
 Telephone: (312) 233-1100 
 
 ##### Contacting the Web Site
@@ -74,10 +74,10 @@ If you have any questions about this privacy statement, AHIMA's Web site practic
 
 American Health Information Management Association  
 233 N. Michigan Ave., 21st Floor  
-Chicago, IL 60601-5800  
+Chicago, IL 60601-5809  
 E-mail: [info@ahima.org](mailto:info@ahima.org?subject=Inquiry%20about%20Privacy%20Statement%20from%20www.ahima.org)
 
-[ [About AHIMA](https://web.archive.org/about/) | [Schools/Jobs](https://web.archive.org/careers/) | [Professional Development](https://web.archive.org/products/) | [HIM Resources](https://web.archive.org/infocenter/) | [Foundation](https://web.archive.org/fore/) | [Help](https://web.archive.org/help/search.asp) | [Site Map](https://web.archive.org/help/sitemap.asp) ]   
+[ [About AHIMA](https://web.archive.org/about/) | [Schools/Jobs](https://web.archive.org/careers/) | [Professional Development](https://web.archive.org/products/) | [HIM Resources](https://web.archive.org/infocenter/) | [Foundation](https://web.archive.org/fore/) | [Help](https://web.archive.org/help/search.asp) | [Site Map](https://web.archive.org/help/sitemap.asp) ]  
 ---  
 |    
 Copyright © 2008 by the American Health Information Management Association. All rights reserved. No part of this site may be reproduced, reprinted, stored in a retrieval system, or transmitted, in any form or by any means, electronic, photocopying, recording, or otherwise, without the prior written permission of the association. |   
