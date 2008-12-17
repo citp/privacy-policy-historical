@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philadelphiaweekly.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403103054id_/http%3A//www.philadelphiaweekly.com/contact/%3Fthis_page%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philadelphiaweekly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125752id_/http%3A//www.philadelphiaweekly.com/contact/%3Fthis_page%3Dprivacy.html) for the most accurate reproduction.*
 
 # about us - privacy policy - philadelphia weekly online
 
@@ -15,7 +15,6 @@
 [tv listings](http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=philwe)  
 [food](http://www.philadelphiaweekly.com/articles/restaurant-review)  
 [music](http://www.philadelphiaweekly.com/?inc=article_cat_listings&type=music)  
-[savage love](http://www.philadelphiaweekly.com/articles/savage-love)  
 [online extras](http://www.philadelphiaweekly.com/?inc=articles)  
 [archives](http://www.philadelphiaweekly.com/archives.php)  
 [blogs](http://www.philadelphiaweekly.com/?inc=blogs)  
@@ -29,13 +28,22 @@ guide](http://www.philadelphiaweekly.com/happyhour)
 [classifieds](http://www.philadelphiaweekly.com/classifieds_online)  
 [real estate](http://www.philadelphiaweekly.com/classifieds_online/?inc=classifieds&type=1)  
 [open house  
-directory](http://www.philadelphiaweekly.com/pdfs//OHD/open_house_directory.pdf)  
+directory](http://www.philadelphiaweekly.com/openhouse/)  
 [submit an ad](https://www.philadelphiaweekly.com/submit_ad)  
 [good stuff](http://www.philadelphiaweekly.com/?inc=goodstuff_intro)  
+[pw sponsored events](http://www.philadelphiaweekly.com/?inc=pw_events)  
 [about us /  
 contact](http://www.philadelphiaweekly.com/contact)  
 [advertising](http://www.philadelphiaweekly.com/contact/?this_page=advertise.html)  
+[  
   
+last week's issue](http://www.philadelphiaweekly.com/?inc=archives_issue&issue_id=457&li=y)
+
+* * *
+
+  
+[](http://twitter.com/PhillyWeekly) [](http://www.new.facebook.com/pages/Philadelphia-Weekly/23117126720) [](http://www.myspace.com/philadelphiaweekly)
+
 [](https://web.archive.org/contact)
 
 * * *
@@ -112,52 +120,24 @@ Information gathered during the process of placing an ad is securely transferred
 
 _PW_ Online Extras
 
-[](https://web.archive.org/?inc=article&id=190&x=an-interview-with-richard-price-written-in-the-style-of-richard-price&_c=news)
+[](https://web.archive.org/?inc=article&id=908&x=how-gay-are-philly-athletes&_c=a-e--in-extremis)
 
-[](https://web.archive.org/?inc=article&id=180&x=seeing-green&_c=film)
+[](https://web.archive.org/?inc=article&id=898&x=gateau-fabulous&_c=a-e--in-extremis)
 
-[Seeing Green](https://web.archive.org/?inc=article&id=180&x=seeing-green&_c=film)  
-The director of _Snow Angels_ talks about Hollywood and starting his own straight-to-DVD action franchise.  
-3/28
-
-[](https://web.archive.org/?inc=article&id=179&x=best-bars-fishtown&_c=news)
-
-[](https://web.archive.org/?inc=article&id=181&x=brt-is-fubar&_c=news)
-
-["BRT Is FUBAR"](https://web.archive.org/?inc=article&id=181&x=brt-is-fubar&_c=news)  
-Taxation gadfly Brett Mandel sues the city.  
-3/22
+[Gateau Fabulous](https://web.archive.org/?inc=article&id=898&x=gateau-fabulous&_c=a-e--in-extremis)  
+Let's put the guts back in America -- and a real cake back in America's gob.  
+12/8 – _in extremis_
 
   
 
 
-[](https://web.archive.org/?inc=article&id=190&x=an-interview-with-richard-price-written-in-the-style-of-richard-price&_c=news)
+[](https://web.archive.org/?inc=article&id=908&x=how-gay-are-philly-athletes&_c=a-e--in-extremis)
 
-[](https://web.archive.org/?inc=article&id=180&x=seeing-green&_c=film)
+[](https://web.archive.org/?inc=article&id=898&x=gateau-fabulous&_c=a-e--in-extremis)
 
-[Seeing Green](https://web.archive.org/?inc=article&id=180&x=seeing-green&_c=film)  
-The director of _Snow Angels_ talks about Hollywood and starting his own straight-to-DVD action franchise.  
-3/28
-
-[](https://web.archive.org/?inc=article&id=179&x=best-bars-fishtown&_c=news)
-
-[](https://web.archive.org/?inc=article&id=181&x=brt-is-fubar&_c=news)
-
-["BRT Is FUBAR"](https://web.archive.org/?inc=article&id=181&x=brt-is-fubar&_c=news)  
-Taxation gadfly Brett Mandel sues the city.  
-3/22
+[Gateau Fabulous](https://web.archive.org/?inc=article&id=898&x=gateau-fabulous&_c=a-e--in-extremis)  
+Let's put the guts back in America -- and a real cake back in America's gob.  
+12/8 – _in extremis_
 
   
 
-
-**    New blogs!**
-
-[](http://festphanatic.wordpress.com/)   
-[](http://www.independencebrawl.com/)  
-
-
-r1
-
-r2
-
-r3
