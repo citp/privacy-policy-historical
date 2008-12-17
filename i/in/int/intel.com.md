@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626154628id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3Dhomepage%2Bftr_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217023708id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3Dftr%2Bprivacy) for the most accurate reproduction.*
 
 # Intel® Privacy Policy
 
@@ -6,15 +6,11 @@ _To read the Intel® Privacy Policy in another language, choose from the options
 
 Intel is committed to protecting your privacy and ensuring you have a positive experience on our website. This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy.
 
-We encourage you to read this privacy policy to ensure you understand Intel's privacy practices.
-
 [](http://www.truste.org/ivalidate.php?url=www.intel.com&sealid=101)
 
-Intel Corporation is proudly affiliated with the [TRUSTe](http://www.truste.org/ivalidate.php?url=www.intel.com&sealid=101) and [BBBOnLine](http://www.bbb.org/) privacy seal organizations.
+Intel Corporation is a proud licensee with the [TRUSTe](http://www.truste.org/ivalidate.php?companyName=Intel%20Corporation&sealid=101) Web Privacy Seal Program.
 
-[](http://welcome.bbb.org/)
-
-If you are not satisfied with our response to your privacy-related concerns, please contact [BBBOnLine](http://www.bbb.org/) or [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php).
+If you are not satisfied with our response to your privacy-related concerns, please contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). We encourage you to read this privacy policy to ensure you understand Intel's privacy practices.
 
 This policy covers the Intel Corporate website and is applicable worldwide. Some of our subsidiaries or programs may have their own, possibly different, policies (see lists at right). We encourage you to read this privacy policy and those of all websites you visit.
 
@@ -76,13 +72,13 @@ back to top
 
 ## Non-personal information collection
 
-In some instances, Intel may collect non-personal (aggregate or demographic) data through cookies, web logs, and web beacons. This information is used to better understand and improve the usability, performance, and effectiveness of the Intel.com website.
+We do not sell or rent your personal information to third-parties for marketing purposes unless you have granted us permission to do so.
 
 back to top
 
 ## Sharing your personal information
 
-We do not sell or rent your personal information to third-parties for marketing purposes unless you have granted us permission to do so.
+In some instances, Intel may collect non-personal (aggregate or demographic) data through cookies, web logs, and web beacons. This information is used to better understand and improve the usability, performance, and effectiveness of the Intel.com website.
 
 We may share your personal information within Intel or any of our worldwide subsidiaries for purposes of data processing or storage.
 
@@ -168,9 +164,8 @@ back to top
 
 ## Validating of our privacy practices
 
-In order to further demonstrate our commitment to your privacy, we have agreed to have our privacy practices reviewed for compliance by both [BBBOnLine](http://www.bbb.org/) and [TRUSTe](http://www.truste.org/).
+In order to further demonstrate our commitment to your privacy, we have agreed to have our privacy practices reviewed for compliance by [TRUSTe](http://www.truste.org/).
 
-  * Intel is a proud holder of the BBBOnLine privacy seal which applies to our English language websites.
   * Intel is also proud holder of the TRUSTe privacy seal (which applies to online, English language websites at this time. By participating in the TRUSTe privacy program, Intel agrees in the importance of notifying you of the following:
   * What information of yours is collected.
   * How your information is used.
@@ -180,17 +175,17 @@ In order to further demonstrate our commitment to your privacy, we have agreed t
 
 **Note** : The TRUSTe program covers information that is collected through this website and does not cover information that may be collected through software downloaded from the site.
 
-back to top
-
-## Need assistance?
-
-Need help with an update, access, or unsubscribe request? Please contact us by using [this form](https://web.archive.org/intel/writeusp.htm). To aid in processing your request, please include the following details:
-
   * Your contact information
   * Name of the program where you want the update applied
   * Details of the request (e.g. change of e-mail address, unsubscribe from a newsletter, review of personal information, etc.)
 
 
+
+back to top
+
+## Need assistance?
+
+Need help with an update, access, or unsubscribe request? Please contact us by using [this form](https://web.archive.org/intel/writeusp.htm). To aid in processing your request, please include the following details:
 
 back to top
 
