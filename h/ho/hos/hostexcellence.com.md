@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the hostexcellence.com privacy policy that was archived on 2008-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080101125522id_/http%3A//www.hostexcellence.com/index.php/v2/pages.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostexcellence.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062947id_/http%3A//www.hostexcellence.com/index.php/v2/pages.privacy) for the most accurate reproduction.*
 
 # Host Excellence
 
-[](http://www.truste.org/ivalidate.php?url=www.hostexcellence.com&sealid=101)Privacy Policy
+Privacy Policy
 
 **(v1.1, Effective April 26, 2007)**
 
 The following privacy policy must be agreed to and abided by for use of our services. Please read it carefully and contact us in case of any questions.
 
-I. A TRUSTe Privacy Program Member
+A TRUSTe Privacy Program Member
 
-Ecommerce Corporation (dba Host Excellence) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.hostexcellence.com Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Ecommerce Corporation (dba Host Excellence) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.hostexcellence.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact the Ecommerce Corporation Customer Service Department by calling 1-800-861-9394, or emailing [info@ecommerce.com](mailto:info@ecommerce.com), or writing to: Ecommerce Corporation, 247 Mitch Lane, Hopkinsville, Kentucky 42240. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at   
+If you have questions or concerns regarding this statement, you should first contact the Ecommerce Corporation Customer Service Department by calling 1-800-861-9394, or emailing [info@ecommerce.com](mailto:info@ecommerce.com), or writing to: Ecommerce Corporation, 1774 Dividend Drive, Columbus, OH 43228. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at   
 <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 [](http://www.hostexcellence.com/index.php/v2/pages.privacy#top)
 
-II. Privacy
+I. Privacy
 
 Ecommerce Corporation (dba Host Excellence) has created this privacy statement to declare its forthright commitment to the privacy of its customers and users of this website. This Privacy Policy governs the manner in which Ecommerce Corporation (Ecommerce) uses, maintains and discloses information collected from its customers and users of its websites. 
 
 [](http://www.hostexcellence.com/index.php/v2/pages.privacy#top)
 
-III. Information We Collect
+II. Information We Collect
 
 Ecommerce may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information. 
 
@@ -37,7 +37,7 @@ There are no third-party advertisements or services on our sites. Information co
 
 [](http://www.hostexcellence.com/index.php/v2/pages.privacy#top)
 
-IV. What are Cookies?
+III. What are Cookies?
 
 A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer’s hard drive for an extended period of time. Your browser’s help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by Ecommerce to track user preferences while the user is visiting the website. They also help to minimize load times and save on server processing. Persistent cookies may be used by Ecommerce to store whether, for example, you want your password remembered or not, and other information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site 
 
@@ -47,13 +47,13 @@ This privacy statement covers the use of cookies by HumanClick (Domain: server.i
 
 [](http://www.hostexcellence.com/index.php/v2/pages.privacy#top)
 
-V. Log Files
+IV. Log Files
 
 Like most standard websites, we use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. None of the information stored in the log files is linked to personally identifiable information. 
 
 [](http://www.hostexcellence.com/index.php/v2/pages.privacy#top)
 
-VI. How we use this information
+V. How we use this information
 
 Ecommerce may use the personally identifiable information collected by Ecommerce to contact customers regarding products and services offered by Ecommerce and, to the extent the user has agreed to it, by its trusted affiliates, independent contractors and business partners. We may also use this information for research purposes regarding the effectiveness of our website services, marketing, advertising and sales efforts. Ecommerce will not in any way share this information with a third party either for free or by selling it, unless you specifically authorize such disclosures. 
 
@@ -61,7 +61,7 @@ You will be notified when your personal information is collected by any third pa
 
 [](http://www.hostexcellence.com/index.php/v2/pages.privacy#top)
 
-VII. Disclosure of Information
+VI. Disclosure of Information
 
 Ecommerce may also disclose aggregate, anonymous data based on information collected from users to investors and potential partners. In such cases, only statistical information will be disclosed and personally identifiable data will be kept strictly confidential. In case Ecommerce is sold, the information collected from users may be transferred to the new owners. 
 
@@ -71,17 +71,17 @@ We use various credit card processing companies to bill you for our services. Th
 
 [](http://www.hostexcellence.com/index.php/v2/pages.privacy#top)
 
-VIII. Special Offers and Updates
+VII. Special Offers and Updates
 
 Our customers and users will occasionally receive newsletters or e-mails with information on products, services, or special offers. Out of respect for the privacy of our users, Ecommerce gives them the opportunity to opt-out from receiving these types of communications. 
 
-If do not wish to receive our newsletter, promotional communications or any other non-service related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or you may contact us at 1-800-861-9394 or via written mail by sending a letter to 247 Mitch Lane, Hopkinsville, Kentucky 42240, to opt-out. 
+If do not wish to receive our newsletter, promotional communications or any other non-service related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or you may contact us at 1-800-861-9394 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
 
-On some occasions, it may be necessary to send out service-related announcements. In most cases, users may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. You may deactivate your account by creating a cancellation request ticket in your hosting control panel, or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us at 1-800-861-9394 or via written mail by sending a letter to 247 Mitch Lane, Hopkinsville, Kentucky 42240, to opt-out. 
+On some occasions, it may be necessary to send out service-related announcements. In most cases, users may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. You may deactivate your account by creating a cancellation request ticket in your hosting control panel, or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us at 1-800-861-9394 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
 
 [](http://www.hostexcellence.com/index.php/v2/pages.privacy#top)
 
-IX. Legal Disclaimer
+VIII. Legal Disclaimer
 
 Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, if we have a good-faith belief that such action is necessary and required to comply with a current judicial proceeding, a court order, subpoena or other legal process served on Ecommerce. 
 
@@ -91,7 +91,7 @@ The Ecommerce website contains links to other sites. Please be aware that Ecomme
 
 [](http://www.hostexcellence.com/index.php/v2/pages.privacy#top)
 
-X. Maintenance and Security of Information
+IX. Maintenance and Security of Information
 
 The information provided to Ecommerce is saved and may be stored on one or more databases directly or indirectly maintained by Ecommerce. Ecommerce employs industry-standard security measures and is CISP certified to protect the confidentiality of the information. Machines that store sensitive customer information are kept in compliance with CISP regulations. These machines are heavily secured and firewalled, protected on an internal network. Backups are kept physically protected in secure locations. 
 
@@ -106,19 +106,19 @@ If you have any questions about security on our Web site, you can send email us 
 
 [](http://www.hostexcellence.com/index.php/v2/pages.privacy#top)
 
-XI. Access to Personally Identifiable Information
+X. Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the changes within your user control panel. Alternatively, you may inform us of any changes by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us by telephone at 1-800-861-9394 or via postal mail at 247 Mitch Lane, Hopkinsville, Kentucky, 42240. 
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the changes within your user control panel. Alternatively, you may inform us of any changes by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us by telephone at 1-800-861-9394 or via postal mail at 1774 Dividend Drive, Columbus, OH 43228. 
 
 [](http://www.hostexcellence.com/index.php/v2/pages.privacy#top)
 
-XII. Your Responsibility
+XI. Your Responsibility
 
 You are responsible for the security of your Customer ID and passwords. Make sure you keep them in a safe place and do not share them with others. Always remember to log out after your session ends to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home. 
 
 [](http://www.hostexcellence.com/index.php/v2/pages.privacy#top)
 
-XIII. Changes to this Policy
+XII. Changes to this Policy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, your user control panel and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
