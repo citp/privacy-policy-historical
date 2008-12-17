@@ -1,40 +1,39 @@
-> *The following text is extracted and transformed from the sendearnings.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224140534id_/http%3A//www.sendearnings.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendearnings.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033531id_/http%3A//www.sendearnings.com/pages/privacy) for the most accurate reproduction.*
 
-# Get Paid To Read Emails
+# Get Paid to Read Email | SendEarnings®
 
-|   
----  
-  
-SendEarnings™ reserves the right to modify this Privacy Policy at any time. The date and time of the last update will always appear below, which serves as notice to our Users. 
+### Members Login
 
-Last Updated: _December 7, 2007 9:00 a.m. CST_
+### Not a Member?
+
+[](https://web.archive.org/members/signup)
 
   1. ## INFORMATION COLLECTION
 
     1. ### Information Collected
 
-All Users must provide the following information in order to join SendEarnings™: name, mailing address, phone number, email address, username, and password. Users may be required to provide subsequent demographic information in order to receive Signup Bonus(es) and/or qualify for other promotions. Demographic information includes, but is not limited to: birth date, gender, marital status, education completed, household income, and number of children in household. 
+All Users must provide the following information in order to join SendEarnings®: name, mailing address, phone number, email address, and password. Users may be required to provide subsequent demographic information in order to receive Signup Bonus(es) and/or qualify for other promotions. Demographic information includes, but is not limited to: birth date, gender, marital status, education completed, household income, and number of children in household. 
 
     2. ### Means of Collection
 
-Users may join SendEarnings™ by completing one of our signup forms, through Co-Registration, or other means as we may determine at any time in the future. 
+Users may join SendEarnings® by completing one of our signup forms, through Co-Registration, or other means as we may determine at any time in the future. 
 
   2. ## USE OF INFORMATION
 
     1. ### Use of Information
 
-User information is used by SendEarnings™ in all of the following ways: 
+User information is used by SendEarnings® in all of the following ways: 
 
-      1. E-Mail Address is used to send paid email advertisements and important announcements about SendEarnings™ to User 
-      2. Mailing Address is used to send payments earned by User or otherwise communicate with User 
-      3. Demographic information is used to target advertisements to User 
-      4. Username and Password are used for User protection to restrict access to their account 
-      5. User information may be sold or disclosed to third parties as described in Sections II.2 and III below 
-      6. Cookies may be used as described in Section IV below 
-      7. Information may be used in additional ways as posted on this Privacy Policy in the future. 
+      1. E-Mail Address is used to send paid email advertisements and important announcements about SendEarnings® to User
+      2. Mailing Address is used to send payments earned by User or otherwise communicate with User
+      3. Demographic information is used to target advertisements to User
+      4. Username, E-Mail Address, and Password are used for User protection to restrict access to their account
+      5. User information may be sold or disclosed to third parties as described in Sections II.2 and III below
+      6. Cookies may be used as described in Section IV below
+      7. Information may be used in additional waysas posted on this Privacy Policy in the future.
     2. ### Sharing of Information
 
-SendEarnings™ does not rent, sell, or share User information, except in the following circumstances: 
+SendEarnings® does not rent, sell, or share User information, except in the following circumstances: 
 
       1. We are required to release User information in response to subpoenas, court orders, or other legal processes 
       2. Part or all of our business is sold to, merged with, or acquired by another company, in which case some or all User information would then belong to said company 
@@ -47,31 +46,33 @@ SendEarnings™ does not rent, sell, or share User information, except in the fo
 
     1. ### Definition
 
-SendEarnings™ signup pages may contain co-registration checkboxes, where Users can choose to “co-register” for other Web Sites during their registration with SendEarnings™ by checking the checkbox next to the co-registration Offer. Users are not required to select any co-registration boxes to join SendEarnings™; however, they may be required to do so in order to qualify for Signup Bonus(es) and/or other promotions. 
+SendEarnings® signup pages may contain co-registration checkboxes, where Users can choose to “co-register” for other Web Sites during their registration with SendEarnings® by checking the checkbox next to the co-registration Offer. Users are not required to select any co-registration boxes to join SendEarnings®; however, they may be required to do so in order to qualify for Signup Bonus(es) and/or other promotions. 
 
     2. ### Information Sharing
 
-When a User co-registers for an Offer by checking the co-registration checkbox, any information they provide to SendEarnings™ may be shared with the Advertiser associated with the co-registration Offer. SendEarnings™ cannot control what Advertisers subsequently do with that information. 
+When a User co-registers for an Offer by checking the co-registration checkbox, any information they provide to SendEarnings® may be shared with the Advertiser associated with the co-registration Offer. SendEarnings® cannot control what Advertisers subsequently do with that information. 
 
     3. ### Privacy on Other Sites
 
 This website may contain links to third party websites. We provide these links for your convenience, but we do not review, control or monitor the privacy practices of websites operated by others. We are not responsible for the performance of these sites or for your business dealings with them. Your use of other websites is subject to the terms and conditions of those websites, including the privacy policies of those websites. 
 
-  4. ## COOKIES
+  4. ## COOKIES AND THIRD PARTY TRACKING TECHNOLOGY
 
-    1. ### Referral and Affiliate Tracking
+    1. ### About Cookies and Third Party Technology.
 
-SendEarnings™ uses cookies in order to track new User registrations. This ensures Users are properly credited for referring other Users, as well as to track earnings for our Affiliates. 
+A “cookie” is a small data file that may be saved to and stored on your computer when you visit a website or open an email. Cookies permit a website to “remember” whether your computer has visited the website before and helps the website create a more personalized experience for you and records activities taken by you, such as offers completed. US Government Information Bulletin (I-034) contains a good description of cookie technology at: <http://www.ciac.org/ciac/bulletins/i-034.shtml>.
 
-    2. ### User Recognition
+In addition to cookie technology, SendEarnings® and our Advertisers use additional third party technology and tracking tools to record offers and activities completed by you, friends referred by you, and to communicate information about you, such as demographic information (e.g., age, gender), in order to target offers and advertisements to specific groups as requested by Advertisers. Cookies and other tracking technology is collectively referred to as “Cookies and Recording Tools.”
 
-After a User has logged into the SendEarnings™ Member’s Section, cookies are used to remember their Username and Password so they do not need to be entered during every visit to our Web Site. Users can logout of the Member’s Section if they do not wish to have this information saved. 
+Your computer permits you to change the settings on your web browser to not accept and/or disable Cookies and Recording Tools. However, if you do not accept Cookies and Recording Tools used by SendEarnings® and our Advertisers, you may not be able to use certain functions on certain websites. More importantly, if you do not accept Cookies and Recording Tools you will not receive credit for offers or other actions completed by you because we and our Advertisers are unable to track and record your activity. If you do not want to accept Cookies and Recording Tools, you must stop using this website.
 
-    3. ### Cookies
+    2. ### Referral and Affiliate Tracking
 
-Cookies used by SendEarnings™ can only be seen by SendEarnings™. Because we cannot properly track user actions without the use of Cookies (to ensure Users are credited for completing Offers, referring friends, etc), our Web Site will not function properly for Users who have Cookies disabled. 
+SendEarnings® uses cookies in order to track new User registrations. This ensures Users are properly credited for referring other Users, as well as to track earnings for our Affiliates. 
 
-We also use cookies to track non-personal information such as date and time the website is visited and number of pages viewed. Because non-personal information does not identify the identity of any specific User we may use or disclose non-personal information in any way and with any third party. 
+    3. ### User Recognition
+
+After a User has logged into the SendEarnings® Member’s Section, cookies are used to remember their Username and Password so they do not need to be entered during every visit to our Web Site. Users can logout of the Member’s Section if they do not wish to have this information saved. 
 
   5. ## CONTACT US
 
@@ -79,8 +80,11 @@ If you have questions or comments about this Privacy Policy, desire not to recei
 
 Customer Service  
 CotterWeb Enterprises, Inc.  
-1210 Northland Drive  
-Suite 155  
+1295 Northland Drive  
+Suite 300  
 Mendota Heights, MN 55120 
 
 
+
+© Copyright 2000–2008     SendEarnings®     All Rights Reserved  
+SendEarnings® is part of: [CotterWeb Enterprises, Inc.](http://www.cotterweb.net/)
