@@ -1,76 +1,88 @@
-> *The following text is extracted and transformed from the alphamom.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612085746id_/http%3A//alphamom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphamom.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113929id_/http%3A//www.alphamom.com/privacy) for the most accurate reproduction.*
 
 # Alpha Mom™ - Baby, Pregnancy, Toddler, Motherhood, Baby Names, and Baby Product Reviews
 
 ALPHAMOM.COM™ PRIVACY POLICY
 
-Thank you for visiting the Alpha Mom™ website (the “Website”), located at www.alphamom.com. The Website is an Internet property of Alpha Mom™ TV, Inc. (the “Company,” “we” or “us”). We have created this privacy policy (the “Privacy Policy”) in order to disclose our information gathering and dissemination practices. We understand the importance that Internet users place on privacy and have designed the Website with this in mind. Alpha Mom™ is fully committed to one hundred percent (100%) permission-based marketing. You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website and/or Services; (2) agree to receive e-mail from us by indicating consent on the Website or via any other means; (3) provide any Personal Information (as that term is defined hereinbelow); and/or (4) participate in any sweepstakes or promotions that may be available at the Website.
+Last Updated: October 13, 2008
 
-This Privacy Policy will address the following:
+Thank you for visiting the Alpha Mom™ Web site (“Site”), located at www.alphamom.com. This Privacy Policy describes our collection of personal information from users of our Site, as well as our use and disclosure of that information. By using our Site, you consent to the collection and use of personal information in accordance with this policy. This policy does not apply to data not collected on or through the Site.
 
-1\. What information the Website gathers/tracks about you.  
-2\. What the Website does with the information it gathers/tracks.  
-3\. With whom the Website shares the information it gathers/tracks.  
-4\. The Website’s opt-out policy.  
-5\. The Website’s policy on deactivating your name from our database.
+**Children**  
+Alpha Mom, LLC (“we,” “us,” or “our”) does not knowingly solicit or collect information from visitors under the age of 13. By providing personal information to us through our Site, you represent that you are 13 years of age or older. Alpha Mom encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.  
+**  
+Personal Information**  
+“Personal information,” as used in this policy, is information that specifically identifies an individual, such as an individual's name, address, telephone number, or e-mail address, credit card number. Personal information also includes information about an individual’s activities, such as information about his or her activity on the Site, and demographic information, such as date of birth, gender, and preferences, when any of this information is linked to personal information that identifies that individual.
 
-**Information Collected**
+Personal information does not include “aggregate” information. Aggregate information is information that we collect about a group or category of products, services or customers that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information for various purposes.
 
-The Website enables users to view and/or submit consumer product ratings; view and comment on any Website columns; view editorial reviews of products; view, add names and/or submit ratings to the Baby Name Database; view information and/or videos on topics that may be of interest to users; enter any sweepstakes that may be available at the Website; and other information and/or services that may be available at the Website (collectively, the “Services”).
+**Collection of Information  
+**  
+**Collection of Voluntarily Provided Information**
 
-**Online Registration with Alpha Mom™**  
-We provide an online registration form to process your request to enter any sweepstakes or promotions that may be available at the Website. Understand that the information that you submit is voluntary, but required if you wish to enter any sweepstakes or promotions that may be available at the Website. Upon registration, users may be required to provide personal information on the registration form that may include, but not be limited to, all or some of the following (collectively, “Personal Information”): 
+Alpha Mom™ collects personal information that you provide to us in a variety of ways on our Site. For example, we provide an online registration form to process your request to enter any sweepstakes or promotions that may be available at the Site, and we collect information through surveys and through our focus groups associated with Alpha Mom Labs™. We collect personal information that is provided to us, such as name; postal address; telephone number; date of birth; email address; gender; number and age(s) of children; household income (optional response); employment status; marital status; highest educational level; race (optional response); and answers to questions about your parenting style and personality traits.
 
-1) Name;   
-2) Postal address;  
-3) Telephone number;   
-4) Date of birth;   
-5) Email address;   
-6) Gender;  
-7) Number and age(s) of children;  
-8) How often you visit the Website; and   
-9) How you heard about the Alpha Mom™ promotion; and  
-10) How much time you spend on AlphaMom.com each week.
+**Online Registration with Ning.com**
 
-**Online Registration with Ning.com**  
-The Alpha Mom™ Product Ratings System and the Alpha Mom™ Baby Name Database are powered by Ning.com. In order to access the Alpha Mom™ Product Ratings System and/or Baby Name Ratings System, users who do not already have a Ning ID and password will be required to register with Ning.com. Upon registration, users may be required to select a Ning ID and password for login purposes, and to provide a valid email address. Information provided to Ning.com in connection with registration for the Alpha Mom™ Product Ratings and/or Baby Name Ratings Systems will be jointly owned by Ning and Alpha Mom™. Alpha Mom™ does not endorse, nor is Alpha Mom™ responsible for, the privacy practices of Ning. For information regarding Ning’s privacy practices and terms of service, please visit the Ning.com homepage, located at www.ning.com.
+The Alpha Mom Product Ratings System and the Alpha Mom Baby Name Database are powered by Ning.com. In order to access the Alpha Mom Product Ratings System and/or Baby Name Ratings System, users who do not already have a Ning ID and password will be required to register with Ning.com. Upon registration, users may be required to select a Ning ID and password for login purposes, and to provide a valid email address. Information provided to Ning.com in connection with registration for the Alpha Mom Product Ratings and/or Baby Name Ratings Systems will be jointly owned by Ning and Alpha Mom. Alpha Mom does not endorse, nor is Alpha Mom responsible for, the privacy practices of Ning. For information regarding Ning’s privacy practices and terms of service, please visit the Ning.com homepage, located at www.ning.com.
 
-Alpha Mom™ will not sell, lease or rent your personal information. Alpha Mom™ reserves the right to transfer and/or sell aggregate or group data about Alpha Mom™ users for lawful purposes. Aggregate or group data is data that describes the demographics, usage or other characteristics of Alpha Mom™ users as a group without disclosing personally identifiable information. By submitting your Personal Information to, and/or using, the Website, you agree to allow Alpha Mom™ to transfer and/or sell such aggregate data to third-parties and/or affiliates. Users that register for our services and/or any sweepstakes or promotions that may be available at the Website may receive e-mail messages confirming their registration with Alpha Mom™, as well as promotional marketing of commercial products and services.
+**Online Registration with Movable Type**
 
-**Online Registration with Movable Type**  
-The Alpha Mom™ column comment system is powered by Movable Type, owner of the registration system “TypeKey”. In order to submit a comment to any column(s) that may be available at the Website, you may be asked to submit your full name and email address or you may register via TypeKey, if you do not already have a TypeKey display name and password. As a part of your registration via TypeKey you may be asked to provide your full name and email address and to select a display name and password. Your display name and password will be used for TypeKey login purposes in the event that you wish to post additional comments on columns in the future. Information provided to Movable Type in connection with registration for the Alpha Mom™ column comment system will be jointly owned by Movable Type and Alpha Mom™. Alpha Mom™ does not endorse, nor is Alpha Mom™ responsible for, the privacy practices of Movable Type. For information regarding Movable Type’s privacy practices and terms of service, please visit the Movable Type/TypeKey homepage, located at www.typekey.com.
+The Alpha Mom column comment system is powered by Movable Type, owner of the registration system “TypeKey”. In order to submit a comment to any column(s) that may be available at the Website, you may be asked to submit your full name and email address or you may register via TypeKey, if you do not already have a TypeKey display name and password. As a part of your registration via TypeKey you may be asked to provide your full name and email address and to select a display name and password. Your display name and password will be used for TypeKey login purposes in the event that you wish to post additional comments on columns in the future. Information provided to Movable Type in connection with registration for the Alpha Mom column comment system will be jointly owned by Movable Type and Alpha Mom. Alpha Mom does not endorse, nor is Alpha Mom responsible for, the privacy practices of Movable Type. For information regarding Movable Type’s privacy practices and terms of service, please visit the Movable Type/TypeKey homepage, located at www.typekey.com.
 
-**Website Tracking Software**  
-We use your IP address to help diagnose problems with our server, and to administer the Website. Your IP address is used to gather broad and specific demographic information, as well as for validation purposes. Web servers, or those of third party vendors, utilize certain tracking software to capture your domain name address (the address of your Internet service provider) for purposes of tracking Website statistics. Note that we only collect information about you when you voluntarily provide information through registration. The capture of your domain name is a common practice among Websites for measuring the number of hits, pages visited and length of your session. We use this information to measure the effectiveness of the Website offering in order to serve you better.
+**Automatic Information Collection**
 
-**Cookies**  
-We use cookies to deliver content specific to your interests, to save your password so that you do not have to re-enter it each time that you visit the Website (if you choose), and for other purposes. For more information on cookies, including how to disable them, please visit www.cookiecentral.com.
+We may automatically collect certain information from you by analyzing your use of the Site, such as your IP address, browser type, pages accessed, and duration of visit. This information does not necessarily enable us to personally identify you. If it does, it is treated as personal information under this policy. Additionally, if we associate or combine this information with personal information, we will treat the associated or combined information as personal information under this policy.
 
-**Sharing of Information**  
-We use the Personal Information that you supply to personalize your experience with the Website, process your registration for the services and for verification purposes. The Personal Information that you submit to Alpha Mom™ remains your property, but by submitting that Personal Information to Alpha Mom™ you grant Alpha Mom™ the right, subject to applicable state and federal law, to use that Personal Information for marketing purposes. Without limiting the generality of the foregoing, we reserve the right to share/distribute any and all Personal Information with/to third-party agents and independent contractors that help us provide Alpha Mom™ services including, but not limited to, suppression, validation and e-mail marketing purposes. You agree that we may contact you at any time with updates and/or any other information that we may deem appropriate for you to receive in connection with your continued use of the Website.
+We may use your IP address to help diagnose problems with our server, and to administer the Site. Web servers, or those of third party vendors, may utilize certain tracking software to capture your domain name address (for purposes of tracking Site statistics). We may also use this information to measure the effectiveness of the Site offering in order to serve you better.
 
-Alpha Mom™ will not rent, sell or lease your personally identifiable information to any third party for marketing purposes. Non-personally identifiable information, such as demographic information, may be shared with advertisers on an aggregate basis. We also use contact information from your Personal Information to send you information about Alpha Mom™ and to keep you informed of our other products and services that may be of interest to you. Your contact information is also used to reach you, when necessary, regarding issues concerning your use of the Website and the Services. If you wish to stop receiving future communications from us, please see the Opt-Out/Unsubscribe section below. 
+Cookies are another means of automatic information collection that we may use. We use cookies for several purposes, such as delivering content specific to your interests and saving your password so that you do not have to re-enter it each time that you visit the Site. Most browsers are initially set up to accept cookies, but you can change your browser settings to cause your browser to refuse cookies or to indicate when a cookie is being sent. Please be aware, however, that some services may not function properly if cookies are disabled.
 
-By submitting your e-mail address at the Website, entering any sweepstakes and/or promotions that may be available at the Website and/or registering for the Services, you agree to receive e-mail marketing from Alpha Mom™. In addition, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the “ATSR”). With respect to the ATSR, and notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, Alpha Mom™ retains the right to contact you via telemarketing in accordance with the terms of the ATSR. 
+**Use of Personal Information  
+**
 
-Alpha Mom™ reserves the right to release current or past user information and Personal Information: (A) in the event that we believe that the Website and/or Services is/are being or has/have been used in violation of the Website Terms and Conditions or to commit unlawful acts; (B) if the information is subpoenaed; or (C) if Alpha Mom™ is sold or acquired. Moreover, you hereby consent to disclosure of any record or communication to any third-party when Alpha Mom™, in its sole discretion, determines the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time.
+We may use personal information to provide services and information that you request; to enhance, improve, operate, and maintain the Site, our programs, services, website, and other systems; to prevent fraudulent use of our Site and services; to tailor your user experience; to maintain a record of our dealings with you, and for other administrative purposes.
 
-**Other Websites**  
-The Website may contain links to other third-party owned and/or operated websites including, but not limited to, Ning.com. Alpha Mom™ is not responsible for the privacy practices or the content of such websites. In some cases, you may be able to make a purchase through one of their third-party websites. In these instances, you may be required to provide certain information, such as a credit card number, to register or complete a transaction at such website. These third-party websites have separate privacy and data collection practices and Alpha Mom™ has no responsibility or liability relating to them.
+We may also use personal information to contact you regarding products, services, events, programs, and offers that we believe you may find of interest. We allow you to opt-out from receiving communications from us as described in the “Opt-Out/Unsubscribe” section below.   
+**  
+Disclosure of Personal Information**
 
-**Security**  
-All collected information is stored in a technically and physically secure environment. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure its security on our systems. Access to this information is strictly limited, and not accessible to the public. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job (for example customer service representative) are granted access to Personal Information. Our employees are dedicated to ensuring the security and privacy of all Alpha Mom™ user information. Employees not adhering to our firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your Personal Information. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures. 
+Alpha Mom is not in the business of selling personal information about our users to third parties. We may disclose personal information to third-party service providers (e.g., data storage and processing facilities) and independent contractors that assist us in our work. Furthermore, in connection with Alpha Mom Labs, we may provide your information to marketers. We limit the personal information provided to these service providers, independent contractors, and marketers to that reasonably necessary for them to perform their functions.
 
-**Minors**  
-Visitors under eighteen (18) years of age are not permitted to use and/or submit their Personal Information at the Website. Alpha Mom™ does not knowingly solicit or collect information from visitors under eighteen (18) years of age. Alpha Mom™ encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+We may also disclose personal information if we believe that doing so is legally required or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others.
 
-**Opt-Out/Unsubscribe**  
-To stop receiving future communications from Alpha Mom™, please [Click Here](http://www.alphamom.com/optout_page/). To opt-out of having your information shared with third-parties, please [Click Here](http://www.alphamom.com/optout_third_parties/). Alpha Mom™ uses Personal Information to provide promotional offers by e-mail to individuals. Alpha Mom™ may maintain separate e-mail lists for different purposes. If e-mail recipients wish to end their e-mail subscription from a particular list, they need to follow the instructions at the end of each e-mail message to unsubscribe from the particular list. To unsubscribe from all Alpha Mom™ e-mail lists, please [Click Here](http://www.alphamom.com/optout_page/). 
+In addition, information about our users, including personal information, may be disclosed as part of any merger, acquisition, debt financing or sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of our business assets.
 
-**Changes in Privacy Policy**  
-Alpha Mom™ reserves the right to change or update this Privacy Policy at any time by posting a notice at the Website explaining that we are changing our Privacy Policy. The user's continued use of the Website, Services and/or continued receipt of Alpha Mom™ e-mails constitutes an affirmative acknowledgment and acceptance by the user of the modified Privacy Policy. 
+**Profile Data and Other Personal Information Available to Other Users of the Site  
+**
 
-**Contacting the Site**  
-Our “Contact” page contains information that allows you to contact us directly with any questions or comments that you may have. We listen to or read, as applicable, every message sent to us and endeavor to reply promptly to each one. This information is used to respond directly to your questions or comments. If you have any questions about this Privacy Policy or the practices of Alpha Mom™, please feel free to contact us at (212) 752-7349 or at [contact@alphamom.com](mailto:contact@alphamom.com).
+Some features on the Site may allow you to post personal information that is available to other users of the Site. You include personal information in any postings to the Site, and make personal information available in your profile, at your sole risk. We also cannot control the actions of other users with whom you may choose to share personal information, whether you share it on the Site or by other means (such as email or telephone). Additionally, even after information posted on the Site is removed, caching and archiving services may have saved that information, and other users or third parties may have copied or stored the information available on the Site. We cannot, and do not, warrant or guarantee that any personal information that you provide on and in connection with the Site will not be accessed, viewed, or used by unauthorized persons.
 
-EFFECTIVE DATE: MAY 14, 2007
+**Links**
+
+The Site may contain links to other third-party owned and/or operated Web sites, products or services. If you choose to visit or use any third-party products or services, please be aware that this policy will not apply to your activities or any information you disclose while interacting with third parties.
+
+**Security**
+
+We use security measures that are reasonably designed to protect Personal Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please note, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any personal information or other information. You transmit personal information to us at your own risk.
+
+**International Visitors**
+
+Our Site is hosted in the United States and is generally intended for United States visitors. If you visit from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please be aware that you are transferring Personal Information to the United States. The United States does not have the same data protection laws as the EU and some other regions.
+
+**Opt-Out/Unsubscribe  
+**  
+To stop receiving future communications from Alpha Mom, please [">Click Here](https://web.archive.org/web/20081217113929id_/http://www.alphamom.com/privacy/%3Cform%20method=). To unsubscribe from all Alpha Mom e-mail lists, please [">Click Here](https://web.archive.org/web/20081217113929id_/http://www.alphamom.com/privacy/%3Cform%20method=). If you wish to end your e-mail subscription from a particular list, please follow the instructions at the end of the e-mail message to unsubscribe from that particular list. To opt-out of having your information shared with third-parties, please [">Click Here](https://web.archive.org/web/20081217113929id_/http://www.alphamom.com/privacy/%3Cform%20method=).
+
+**  
+Updates to this Policy**
+
+Alpha Mom may occasionally update this policy. When we do, we will also revise the “last updated” date at the beginning of the policy. Your continued use of this Site after such changes will be subject to the then-current policy. If we make changes to this policy that are materially less restrictive on our use or disclosure of personal information we have collected, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this policy to stay informed about how we collect, use, and disclose personal information.
+
+**Governing Law**
+
+This Privacy Policy is governed by the laws of the State of New York, excluding conflict of laws principles. Any controversy or claim arising out of or relating to this Privacy Policy must be commenced within one year after the claim arose and will be settled by binding arbitration in accordance with the commercial arbitration rules of the American Arbitration Association. Any such controversy or claim will be arbitrated on an individual basis, and will not be consolidated in any arbitration with any claim or controversy of any other party. The arbitration will be conducted in New York City, New York, and judgment on the arbitration award may be entered into any court of competent jurisdiction. The award of the arbitrator will be final and binding upon the parties without appeal or review except as permitted by New York law. Either party may seek any interim or preliminary injunctive relief from any court of competent jurisdiction, as necessary to protect the party's rights or property pending the completion of arbitration.  
+**  
+Contacting Us**
+
+If you have any questions about this Privacy Policy, please feel free to contact us at (212) 752-7349 or at contact@alphamom.com.
