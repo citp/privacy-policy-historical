@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bafta.org privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512054636id_/http%3A//www.bafta.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bafta.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217153601id_/http%3A//www.bafta.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Bafta Home - The BAFTA site
 
@@ -19,7 +19,8 @@ Welcome to The British Academy of Film and Television Arts. The British Academy 
 
 5\. When you access the site, we may ask you to give us your name, email address and other personal information that will be needed to supply the services to you. You can 'unsubscribe' at any time. We may use your personal data for contacting you via the phone or e-mail for support, notification of new products or new versions, general correspondence regarding the Site and correspondence which may relate you. If you would rather not receive future marketing emails from us once you have registered please inform us by e-mail at [adminprivacy@bafta.org]
 
-6\. The information you provide will be kept confidential and will only be passed on to external companies if you have opted in to permit BAFTA to give your contact information to selected companies, business partners, sponsors and advertisers. If you opt out of permitting BAFTA to pass on your information, it will be used only to support your customer relationship with us (i.e. e-mails only from BAFTA) and to provide the specified service. We do not disclose or sell your information outside our corporate group except if we sell the whole or part of our business.  
+6\. The information you provide will be kept confidential and will only be passed on to external companies if you have opted in to permit BAFTA to give your contact information to selected companies, business partners, sponsors and advertisers. If you opt out of permitting BAFTA to pass on your information, it will be used only to support your customer relationship with us (i.e. e-mails only from BAFTA) and to provide the specified service. We do not disclose or sell your information outside our corporate group except if we sell the whole or part of our business.
+
 7\. Our Site may not always be available and the material on it may not necessarily reflect our views. All users must agree not to tamper with the site and respect our intellectual property rights and those of our licensors and by accepting this privacy policy and the terms and conditions you hereby agree to do so. The Site may also have links to other websites over which we have no control.
 
 8\. In accordance with statutory obligations we only collect personal information from you which is necessary for us to supply the services to you. You have the option at any time to request that we:
