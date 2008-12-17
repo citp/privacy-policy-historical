@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdncommunity.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609090907id_/http%3A//www.pdncommunity.com/pdn/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdncommunity.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217234200id_/http%3A//www.pdncommunity.com/pdn/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - PayPal Developer Community
 
