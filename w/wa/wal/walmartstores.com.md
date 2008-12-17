@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the walmartstores.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604043255id_/http%3A//www.walmartstores.com/7735.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmartstores.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217011603id_/http%3A//walmartstores.com/7735.aspx) for the most accurate reproduction.*
 
 # Wal-Mart Stores, Inc. - Security & Privacy
 
 ### Wal-Mart Stores, Inc. Privacy Policy for Customers and Members
 
 One of Wal-Mart's Three Core Basic Beliefs is "Respect for the Individual."  
-Accordingly, we (Wal-Mart Stores, Inc. and our Affiliates -- SAM's Club, Walmart.com, Samsclub.com, and any other companies in which we have a majority ownership interest) will collect and use personal information of customers and members only as follows:
+Accordingly, we (Wal-Mart Stores, Inc. and our Affiliates -- Sam's Club, Walmart.com, Samsclub.com, and any other companies in which we have a majority ownership interest) will collect and use personal information of customers and members only as follows:
 
 ### Our purpose in collecting personal information.
 
@@ -54,7 +54,7 @@ We may share information with Affiliates for these same reasons and also to let 
 
 ### We take reasonable steps to protect your personal information.
 
-We maintain reasonable physical, technical, and procedural measures to limit access to personal information to authorized individuals with appropriate purposes.
+Personal information that we maintain is subject to physical, administrative, and technical controls. When we do have to collect your most sensitive personal information, such as Social Security Numbers, we will protect its confidentiality, prohibit its unlawful disclosure, and limit access to authorized personnel only. 
 
 ### Health care and international data.
 
@@ -65,7 +65,7 @@ We maintain reasonable physical, technical, and procedural measures to limit acc
 
 ### Modifications to our privacy policies.
 
-We reserve the right to change our privacy policies at any time, except as may be prohibited by law. We will post revisions online and in locations in our stores and clubs that we consider appropriate. Use of our websites or services or the purchase of products after posted changes means that you consent to the privacy policies as changed.
+We reserve the right to change our privacy policies at any time, except as may be prohibited by law. We will post revisions online and in locations in our stores and clubs that we consider appropriate.
 
 ### Contact us for more information about our privacy policies.
 
@@ -76,7 +76,7 @@ Attention: Privacy Office
 702 S.W. 8th Street  
 Bentonville, AR 72716-0505.
 
-Revised Effective April 27, 2006.
+Revised Effective October 1, 2008.
 
 |  | 
 
