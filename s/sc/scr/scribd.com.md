@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the scribd.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030174729id_/http%3A//www.scribd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribd.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082120id_/http%3A//www.scribd.com/privacy) for the most accurate reproduction.*
 
 # Scribd
 
 **_Scribd Platform Privacy Notice_**
 
-**_March 15, 2007_**
+**_April 18, 2008_**
 
-Welcome to the Scribd.com (owned and operated by Nowigo Inc.) applications, platform, web sites, and services operated or produced by Scribd (collectively, the “ _Scribd Platform_ ”).  Scribd values the privacy of the users, subscribers, publishers, members, and others who visit and use the Scribd Platform (collectively or individually, “ _You_ ” or “ _Users_ ”).
+Welcome to the Scribd.com (owned and operated by Scribd Inc.) applications, platform, web sites, and services operated or produced by Scribd (collectively, the “ _Scribd Platform_ ”).  Scribd values the privacy of the users, subscribers, publishers, members, and others who visit and use the Scribd Platform (collectively or individually, “ _You_ ” or “ _Users_ ”).
 
 By using the Scribd Platform, you expressly consent to the information handling practices described in this notice.
 
@@ -81,7 +81,7 @@ The following are some resources that may help parents and legal guardians in mo
 
   * “[OnGuard Online](http://onguardonline.gov/socialnetworking.html),” maintained by the Federal Trade Commission.
   * [WiredSafety](http://www.wiredsafety.org/)
-  * [Netsmartz.org](https://web.archive.org/web/20071030174729id_/http%3A//www.scribd.com/www.netsmartz.org)
+  * [Netsmartz.org](https://web.archive.org/web/20081217082120id_/http%3A//www.scribd.com/www.netsmartz.org)
   * [The Child Safety Network](http://www.csn.org/index.jsp)
   * [Control Kids](http://www.controlkids.com/)
   * [Cyber Sitter](http://www.solidoak.com/)
