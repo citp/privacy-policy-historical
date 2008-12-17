@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltheinternet.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611225003id_/http%3A//www.alltheinternet.com/texis/open/allthru%3Fc%3D%26area%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltheinternet.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081455id_/http%3A//www.alltheinternet.com/texis/open/allthru%3Fc%3D%26area%3Dprivacy) for the most accurate reproduction.*
 
 # All the Internet - Privacy Policy
 
