@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the unionpluscard.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410022531id_/http%3A//www.unionpluscard.com/ecare/privacy_nli) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unionpluscard.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217151625id_/http%3A//www.unionpluscard.com/ecare/privacy_nli) for the most accurate reproduction.*
 
 # HSBC Privacy and Security Policy
 
-Privacy | Privacy Statement | How to Request That Your Information Not Be Shared | Security Information | Website Terms and Conditions
+Privacy | Privacy Statement | Your Choices to Limit Sharing | Your Choices to Limit Marketing | Security Information | Website Terms and Conditions
 
-HSBC Bank Nevada, N.A., ("HSBC Bank Nevada") is the proud issuer of the Union Plus Credit Card. We understand the importance of handling customer information in a professional and confidential manner. We know that privacy is an important element of our customers' confidence in us and we understand that our customers expect us to collect and retain personal financial information responsibly. 
+HSBC Bank Nevada, N.A., ("HSBC Bank Nevada") is the proud issuer of the Union Plus® Credit Card. We understand the importance of handling customer information in a professional and confidential manner. We know that privacy is an important element of our customers' confidence in us and we understand that our customers expect us to collect and retain personal financial information responsibly. 
 
 Experience
 
@@ -27,10 +27,10 @@ Responsible Information Sharing
 
 
 
-Control Over Information Sharing
+Control Over Information Sharing and Marketing
 
-  * We give you a choice. If you do not want us to share your information, follow our opt-out procedures and we will be happy to comply with your opt-out request, consistent with the procedures in our Privacy Statement. 
-  * Click here to view our **Privacy Statement** and How To Request That Your Information Not Be Shared.
+  * We give you a choice. If you do not want us to share your information or limit certain marketing, follow our opt-out procedures and we will be happy to comply with your opt-out request, consistent with the procedures in our Privacy Statement. 
+  * Click here to view our **Privacy Statement**.
   * Click here to view **Security Information**.
   * Click here for information on our use of **"cookie" technology**.
   * Click here for **Website Terms and Conditions**.
@@ -40,7 +40,7 @@ Control Over Information Sharing
 Top of Privacy  
 Back to Top
 
-Our Commitment to You | Types of Information We Collect | We Respect Your Privacy | How We Share Information with Our Affiliates* | How We Share Information Outside the HSBC Bank Nevada Family | Information Shared With Other Third Parties | Privacy and Security on the Internet
+Our Commitment to You | Types of Information We Collect | We Respect Your Privacy | How We Share Information with Our Affiliates*  | How We Share Information Outside the HSBC Bank Nevada Family | Privacy and Security on the Internet
 
 Our Commitment to You
 
@@ -72,7 +72,12 @@ From time to time, for general business purposes such as fraud control, or when 
 Top of Privacy Statement  
 Back to Top
 
-We have an established relationship with Union Privilege and the AFL-CIO. Pursuant to this relationship, we issue credit card offers to members of AFL-CIO affiliated unions and their household family members. Except for California and Vermont residents, we share certain information about you with Union Privilege, your union and the AFL-CIO so that we and they can provide you with the services and benefits of the Union Plus Credit Card Program and continue to bring you new opportunities. We obtain some information about you directly from Union Privilege. Other information we collect comes from the sources described above. The information we share with Union Privilege, your union or the AFL-CIO includes information we receive from you on your application or other forms such as your name, address, telephone number, income, real property purchased, leased or rented, marital status, dependents and e-mail address, as well as information about your transactions with us, such as the status and usage of your Account, purchase and payment history, including merchants (and/or categories thereof) from whom you have purchased, and marketing preferences. Sharing information with Union Privilege allows them to provide you with information about valuable union benefits and services that are available to you and your family that you might not otherwise hear about. It also assists Union Privilege in their role as Union Member Advocate. For California and Vermont residents, state law restricts how we share information about you. Accordingly, we will not share information about you in this way without your permission. If we request your permission, we will notify you of the categories of information we would like to share with Union Privilege, your union and the AFL-CIO and the manner in which you can provide us with permission if you choose to do so.
+  
+
+
+Union Privilege, Your Union and the AFL-CIO
+
+We have an established relationship with Union Privilege and the AFL-CIO. Pursuant to this relationship, we issue credit card offers to members of AFL-CIO affiliated unions. Except for California and Vermont residents, we share certain information about you with Union Privilege, your union and the AFL-CIO so that we and they can provide you with the services and benefits of the Union Plus Credit Card Program and continue to bring you new opportunities. We obtain some information about you directly from Union Privilege. Other information we collect comes from the sources described above. The information we share with Union Privilege, your union or the AFL-CIO includes information we receive from you on your application or other forms such as your name, address, telephone number, income, real property purchased, leased or rented, marital status, dependents and e-mail address, as well as information about your transactions with us, such as the status and usage of your Account, purchase and payment history, including merchants (and/or categories thereof) from whom you have purchased, and marketing preferences. Sharing information with Union Privilege allows them to provide you with information about valuable union benefits and services that are available to you and your family that you might not otherwise hear about. It also assists Union Privilege in their role as Union Member Advocate. For California and Vermont residents, state law restricts how we share information about you. Accordingly, we will not share information about you in this way without your permission. If we request your permission, we will notify you of the categories of information we would like to share with Union Privilege, your union and the AFL-CIO and the manner in which you can provide us with permission if you choose to do so.
 
 Top of Privacy Statement  
 Back to Top
@@ -95,19 +100,16 @@ Our website, unionpluscard.com, offers you the opportunity to view your current 
 Top of Privacy Statement  
 Back to Top
 
-Privacy | Privacy Statement |  How to Request That Your Information Not Be Shared | Security Information | Website Terms and Conditions
+Privacy | Privacy Statement |  Your Choices to Limit Sharing |  Your Choices to Limit Marketing | Security Information | Website Terms and Conditions
 
   
 
 
-Information Sharing with Our Affiliates | Information Sharing with Union Privilege, Your Union and the AFL-CIO | Information Sharing with Other Non-Affiliates | Spanish
+Information Sharing with Our Affiliates* | Information Sharing with Union Privilege, Your Union and the AFL-CIO | Information Sharing with Other Non-Affiliates | Your Choices to Limit Marketing | Spanish
 
-Information Sharing with Our Affiliates
+Information Sharing with Our Affiliates*
 
 If you do not want us to share your credit information (such as your credit bureau information) with our Affiliates, please let us know by completing the opt-out reply form. We will be happy to comply with your request. If you have previously informed us of your preference, you do not need to do so again. Your request will not apply to information about your transactions or experience with us (such as Account information, Account usage, or payment history) and will only apply to the Union Plus Credit Card Account you have designated on the opt-out form by Account number. An opt-out request by any party on a joint Account will apply to all parties on the joint Account.
-
-Top of How To Request That Your Information Not Be Shared  
-Back to Top
 
 _Information Sharing with Union Privilege, Your Union and the AFL-CIO_
 
@@ -115,31 +117,39 @@ If you do not want us to share your non-public personal information with Union P
 
 Information Sharing with Other Non-Affiliates
 
-If you do not want us to share your non-public personal information with other non-Affiliates (unless we are permitted or required by law to do so), you will also need to indicate your request on the opt-out reply form. We will be happy to comply with your request. If you have previously informed us of your preference, you do not need to do so again. Please understand that your request may exclude you from receiving valuable offers in the future. Your request will only apply to the Union Plus Credit Card Account you have designated on the opt-out form by account number. An opt-out request by any party on a joint Account will apply to all parties on the joint account. Opt-out requests will not apply to information sharing that is permitted by law. 
+If you do not want us to share your non-public personal information with other non-Affiliates (unless we are permitted or required by law to do so), you will also need to indicate your request on the opt-out reply form. We will be happy to comply with your request. If you have previously informed us of your preference, you do not need to do so again. Please understand that your request may exclude you from receiving valuable offers in the future. Your request will only apply to the Union Plus Credit Card Account you have designated on the opt-out form by account number. An opt-out request by any party on a joint Account will apply to all parties on the joint account. Opt-out requests will not apply to information sharing that is permitted by law. Once you have completed the reply form, please mail it to HSBC Card Services, P.O. Box 60129, City of Industry, CA 91716-0129. **_Please do not include any other correspondence with your request._**
 
   
 
 
-Once you have completed the reply form, please mail it to HSBC Card Services, P.O. Box 60129, City of Industry, CA 91716-0129. Please allow sufficient time for us to process your request. **_Please do not include any other correspondence with your request._**
+  * Federal law gives you the right to limit some but not all marketing from our Affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our Affiliates.
+  * You may limit our Affiliates in the HSBC group of companies, such as our insurance, consumer finance, and automobile finance Affiliates, from marketing their products or services to you based on your personal information that we collect and share with them. This information includes your income, your account history with us, and your credit score.
+  * Your choice to limit marketing offers from our Affiliates will apply for at least 5 years from when you tell us your choice. Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from our Affiliates for at least another 5 years.
 
- **NOTICE FOR NEVADA RESIDENTS:**
 
+
+To limit marketing offers under this section, you must call 1-877-876-8819. The attached reply form may not be used for this particular opt-out choice. If you make this selection, it will be effective as of 10/01/08. 
+
+**NOTICE FOR NEVADA RESIDENTS:**  
 Pursuant to Nevada law, we are providing this notice, which applies to accounts with Nevada mailing addresses, to inform you that you may elect to be placed on our internal "do not call" list. To be placed on the list, you may call us toll free at 1-800-622-2580 or write to us at P.O. Box 80027, Salinas, California 93912. Or you may contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Street, Suite 3900, Las Vegas, Nevada 89101.
 
-_Spanish_
+ _Spanish_
 
 Atención clientes hispanohablantes: Esta Declaración Sobre la Privacidad proporciona información sobre cómo manejamos información personal no publica acerca de nuestros clientes, las circunstancias bajo las cuales podemos compartir tal información con otras personas, y cómo usted puede pedir que no compartamos esa información con terceros que no sean afiliados nuestros. Si quisiera que le proporcionemos una traducción al español de la Declaración Sobre la Privacidad en su totalidad, llamár al numero indicado al reverso de su tarjeta de credito.
 
 † Union Privilege was created by the AFL-CIO in 1986 to provide union members and their families with high-quality consumer benefits and services. Union Privilege works with HSBC Bank Nevada to provide the benefits and services of the Union Plus Credit Card Program. Union Privilege also has full-time union member advocates who can help union members resolve credit card concerns.
 
-* "Affiliates" are companies that are related to us by common ownership or corporate control. Our Affiliates include HFC®, Beneficial®, HSBC Auto Finance, Inc., Household Insurance Group Holding Company, and HSBC companies such as HSBC Bank USA, N.A. and HSBC Mortgage Corporation.
+* "Affiliates" are companies that are related to us by common ownership or corporate control. Our Affiliates include HFC®, Beneficial®, HSBC Auto Finance Inc., Household Insurance Group Holding Company, and HSBC companies such as HSBC Bank USA, N.A. and HSBC Mortgage Corporation. 
 
-Top of How To Request That Your Information Not Be Shared  
+Top of Your Choices to Limit Sharing | Top of Your Choices to Limit Marketing   
 Back to Top
 
-**HOUSEHOLD INSURANCE GROUP HOLDING COMPANY  
-Privacy Statement for Customers with Insurance**  
+**HOUSEHOLD INSURANCE GROUP HOLDING COMPANY**  
+Privacy Statement/Notice of Information Practices
 
+Privacy Statement
+
+**
 
 **Introduction - Our Commitment to You**
 
@@ -155,14 +165,22 @@ If you have selected insurance or another product offered by HIG, the Privacy St
 
 We reserve the right to change our privacy practices at any time in accordance with applicable law. Notice of such changes will be provided if required by applicable law.
 
-** Household Insurance Group Holding Company (also under the trade name of HSBC Insurance Services or HSBC Insurance) includes Household Insurance Group, Inc., Household Life Insurance Company, HSBC Insurance Company of Delaware (formerly known as Service General Insurance Company), First Central National Life Insurance Company of New York, Household Life Insurance of Delaware, BFC Insurance Agency of Nevada, HSBC Insurance Agency (USA) Inc., and such other companies Household Insurance Group Holding Company may subsequently acquire.
+**Notice of Information Practices**
 
-Updates and Modifications: This Privacy Statement was last updated on April 11, 2007. We reserve the right to modify our privacy practices at any time. Any such modification will be communicated to you in accordance with applicable law. 
+In accordance with applicable federal and state laws, an investigative report such as a credit report or Medical Information Bureau report about you may be requested in connection with an application for insurance. Any information which we have or may obtain about you or another individual listed as an insured on your policy will be treated confidentially and may be used to enable HIG to determine eligibility for insurance coverage, an insurance benefit, or payment, or for detecting or preventing criminal activity. 
 
-Top of How To Request That Your Information Not Be Shared  
+We may also share such information with affiliated and unaffiliated companies for such purposes as claims handling, servicing and policy underwriting as permitted by law.
+
+You have a right to see personal information collected about you and the right to correct any information, which may be wrong, by writing to us at the address provided with your policy.
+
+** Household Insurance Group Holding Company (also under the trade name of HSBC Insurance Services or HSBC Insurance) includes Household Insurance Group, Inc., Household Life Insurance Company, HSBC Insurance Company of Delaware (formerly known as Service General Insurance Company), First Central National Life Insurance Company of New York, Household Life Insurance Company of Delaware, BFC Insurance Agency of Nevada, HSBC Insurance Agency (USA) Inc., and such other companies Household Insurance Group Holding Company may subsequently acquire.
+
+Updates and Modifications: This Privacy Statement was last updated on June 1, 2008. We reserve the right to modify our privacy practices at any time. Any such modification will be communicated to you in accordance with applicable law. 
+
+Top of Your Choices to Limit Sharing | Top of Your Choices to Limit Marketing   
 Back to Top
 
-Privacy | Privacy Statement |  How to Request That Your Information Not Be Shared | Security Information | Website Terms and Conditions
+Privacy | Privacy Statement |  Your Choices to Limit Sharing | Your Choices to Limit Marketing | Security Information | Website Terms and Conditions
 
   
 
@@ -180,7 +198,7 @@ We understand that security is a prime concern for our customers, and our websit
 Top of Security Information  
 Back to Top
 
-Privacy | Privacy Statement | How to Request That Your Information Not Be Shared | Security Information | Website Terms and Conditions
+Privacy | Privacy Statement | Your Choices to Limit Sharing | Your Choices to Limit Marketing | Security Information | Website Terms and Conditions
 
 Copyright and Other Intellectual Property | Limited Liability | NO WARRANTIES | Links | Children | Confidentiality of Information | Information and Cookies | Choice of Law | Website Content and Material | Waiver and Severability | Access to Secured Areas
 
@@ -268,9 +286,10 @@ Access to Secured Areas
 
 Access to and use of password protected and/or secure areas of this website is restricted to authorized users only. Unauthorized persons attempting to access these areas of the website may be subject to prosecution.
 
-Updates: These Terms and Conditions were last updated April 11, 2007. Please check periodically for changes.
+Updates: These Terms and Conditions were last updated June 1, 2008. Please check periodically for changes.
 
 Top of Website Terms and Conditions  
 Back to Top
 
-Privacy | Privacy Statement |  How to Request That Your Information Not Be Shared | Security Information | Website Terms and Conditions
+Privacy  |   Privacy Statement  |   Your Choice to Limit Sharing  |   
+Your Choice to Limit Marketing  | Security Information  |   Website Terms and Conditions
