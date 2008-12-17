@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ittoolbox.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630235316id_/http%3A//www.ittoolbox.com/privacy/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ittoolbox.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217164735id_/http%3A//www.ittoolbox.com/privacy/privacy_policy.asp) for the most accurate reproduction.*
 
 # ITtoolbox - Privacy Policy
 
