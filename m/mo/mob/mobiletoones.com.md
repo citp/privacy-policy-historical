@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobiletoones.com privacy policy that was archived on 2008-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080101023239id_/http%3A//www.mobiletoones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiletoones.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217073656id_/http%3A//www.mobiletoones.com/privacy) for the most accurate reproduction.*
 
-# Mobile Toones | Privacy Policy
+# Privacy Policy | Mobile Toones
 
 > [Home](http://www.mobiletoones.com/) > Privacy Policy 
 
@@ -28,3 +28,9 @@ Currently, Mobile Toones has relationships with the following third-party ad ser
 http://www.google.com/privacypolicy.html 
 
 
+
+New Profiles
+
+Latest Online Games
+
+[](http://www.mobilephun.com/)
