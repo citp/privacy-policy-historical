@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609020327id_/http%3A//www.acherryontop.com/article%3Fa%3D1521) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021231id_/http%3A//www.acherryontop.com/article%3Fa%3D1521) for the most accurate reproduction.*
 
-# Privacy Statement - A Cherry On Top, Scrapbooking Shoppe
+# Privacy Statement: A Cherry On Top
 
 **PRIVACY POLICY**
 
@@ -19,4 +19,4 @@ When you place an order at ACherryOnTop.com, we need to know your name, e-mail a
 **How Secure is ACherryOnTop.com?**  
 When you place orders with us, we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. All of the customer data that we collect is protected against unauthorized access.  Credit card information is not stored online nor do we keep a copy of it at our offices. A Cherry On Top is PCI DSS compliant. A Cherry On Top is tested daily by ScanAlert to verify Hacker Safe status.
 
-Published on 10/01/2007.
+Published on 08/13/2008.
