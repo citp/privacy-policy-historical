@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the governmentregistry.org privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629063555id_/http%3A//www.governmentregistry.org/index.php%3Fxpath%3Dprivacy%26code%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentregistry.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082712id_/http%3A//governmentregistry.org/index.php%3Fxpath%3Dprivacy) for the most accurate reproduction.*
 
 # GovernmentRegistry.org - Public Records Online
 
