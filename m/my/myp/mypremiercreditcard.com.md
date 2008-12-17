@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypremiercreditcard.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621011938id_/http%3A//www.mypremiercreditcard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypremiercreditcard.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035134id_/http%3A//www.mypremiercreditcard.com/privacy.aspx) for the most accurate reproduction.*
 
 # PREMIER Bankcard Privacy Statement
 
@@ -20,4 +20,4 @@ We take appropriate steps to keep your account information accurate and up to da
 
 If you believe we have not complied with our Information Practices, you may contact us at the telephone number on your account statement. Please ask for the Risk Management Department. We will investigate and respond to your concern. 
 
-First PREMIER Bank and PREMIER Bankcard, Inc. are committed to providing you with quality products and services with a high level of integrity regarding your personal privacy.
+First PREMIER Bank and PREMIER Bankcard, LLC are committed to providing you with quality products and services with a high level of integrity regarding your personal privacy.
