@@ -1,0 +1,278 @@
+<!--The following is the downloaded HTML source of the houstonisd.org privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217040118id_/http%3A//www.houstonisd.org/HISDConnectDS/v/index.jsp%3Fvgnextoid%3D5615ef6e5821d010VgnVCM10000052147fa6RCRD%26vgnextchannel%3D67382f796138c010VgnVCM10000052147fa6RCRD%26vgnextfmt%3Dalt1%26footerItem%3D4) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>HISD Connect - HISD Connect Footer</title>
+	<script src="/HISDConnectDS/scripts/common/prototype.js" type="text/javascript"></script>
+	<script src="/HISDConnectDS/scripts/common/scriptaculous.js" type="text/javascript"></script><script type="text/javascript" src="https://web.archive.org/HISDConnectDS/scripts/common/builder.js"></script><script type="text/javascript" src="https://web.archive.org/HISDConnectDS/scripts/common/effects.js"></script><script type="text/javascript" src="https://web.archive.org/HISDConnectDS/scripts/common/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/HISDConnectDS/scripts/common/controls.js"></script><script type="text/javascript" src="https://web.archive.org/HISDConnectDS/scripts/common/slider.js"></script>
+	<script src="/HISDConnectDS/scripts/common/event-selectors.js" type="text/javascript"></script>
+	<script src="/HISDConnectDS/scripts/common/validation.js" type="text/javascript"></script>
+	<script src="/HISDConnectDS/scripts/common/clock.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="/HISDConnectDS/common/styles/vgn-ext-templating.css">
+	<link type="text/css" rel="stylesheet" href="/HISDConnectDS/css/HISDConnect.css" media="all">
+	<link type="text/css" rel="stylesheet" href="/HISDConnectDS/css/sidebar.css" media="all">
+	<link type="text/css" rel="stylesheet" href="/HISDConnectDS/css/article.css" media="all">
+	<link type="text/css" rel="stylesheet" href="/HISDConnectDS/css/one_column.css" media="all">
+	<script type="text/javascript">
+		function show_article(article_collection_num){
+			var articles = document.getElementsByClassName('article');
+			
+			for(var i=0;i < articles.length;i++){
+articles[i].hide();
+			}
+			Effect.Appear($(article_collection_num));//.show();
+		}
+	</script>
+	</head>
+	<body>
+
+	<div id="complete_wrapper" class="clearfix">
+        
+
+
+
+
+
+    
+
+
+
+   
+
+
+ 
+
+
+
+
+
+
+    
+
+
+
+<script src="/HISDConnectDS/scripts/HISDConnect.js" type="text/javascript"></script>
+<script>
+function submitLogin()
+{
+  var loginElement = document.getElementById("userid");
+  var pwdElement = document.getElementById("userpwd"); 
+  var portal_login_form = document.getElementById("portal_login");
+
+  if(loginElement.value == "" && pwdElement.value == "")
+  {
+    alert("Please enter your userid and password!");
+    loginElement.focus();
+    loginElement.select();
+  }
+  else if(loginElement.value == "")
+  {
+    alert("Please enter your userid!");
+    loginElement.focus();
+    loginElement.select();
+  }
+  else if(pwdElement.value == "")
+  {
+    alert("Please enter your password!");
+    pwdElement.focus();
+    pwdElement.select();
+  }
+  else
+  {
+    portal_login_form.submit();
+  }
+}
+
+function clearLoginValues()
+{       
+         var loginElement = document.getElementById("userid");
+         var pwdElement = document.getElementById("userpwd"); 
+	 if (loginElement.value == "User ID" || pwdElement.value == "Password") {
+		loginElement.value="";
+		
+		pwdElement.value="";
+		
+	}
+}
+
+
+function submitHelp(url)
+{
+	var win = window.open(url,null,"height=400,width=500,status=no,toolbar=no,menubar=no,location=no,scrollbars=1");
+}
+
+</script>
+
+
+
+
+
+<div id="masthead">
+		<img id="public_logo" src="/HISDConnectDS/images/logo_HISDconnect2.gif" alt="HISDConnect">
+		<div id="adbanner_container">
+			<table cellpadding="0" cellspacing="0" align="center">
+				<tbody><tr>
+					<td align="center">
+					<!--<img id="masthead_ad" src="/HISDConnectDS/images/online_resources.jpg" alt="Online Resources" />-->
+					
+					<!--<object width="234" height="60">
+					<param name="movie" value="/Images/AdBanners/bannerad.swf">
+					<embed src="/Images/AdBanners/bannerad.swf" width="234" height="60">
+					</embed>
+					</object>-->
+					<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="234" height="60">
+					  <param name="movie" value="/Images/AdBanners/bannerad.swf">
+					  <param name="quality" value="high">
+  <embed src="/Images/AdBanners/bannerad.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="234" height="60"><noembed>Flash banner not available</noembed>  </object>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+		<div id="login_search" class="clearfix">
+			<div class="clearfix">
+				<fieldset id="login_wrapper">
+					<form id="portal_login" name="portal_login" method="POST" action="/HISDConnectDS/templates/includes/VAPRedirect.jsp">
+						<input id="userid" name="userid" onclick="javascript:clearLoginValues();" class="login_text" type="text" size="12" value="User ID" tabindex="1" title="Please enter your user ID." style="color:#000000" onkeypress="if(event.keyCode == 13){submitLogin();}else{this.style.backgroundColor='#ffffff';}">
+						 <a id="help_link" href="javascript:submitHelp('/HISDConnectDS/v/index.jsp?vgnextoid=3e5608ae6b8fc010VgnVCM10000052147fa6RCRD&amp;vgnextfmt=alt1');"><img src="/HISDConnectDS/images/button_login-help.gif"></a><br>
+						<input id="userpwd" name="userpwd" onclick="javascript:clearLoginValues();" class="login_text" type="password" size="12" value="Password" tabindex="2" title="Please enter your password." style="color:#000000" onkeypress="if(event.keyCode == 13){submitLogin();}else{this.style.backgroundColor='#ffffff';}">
+						<a id="login_link" href="javascript:submitLogin();"><img src="/HISDConnectDS/images/button_login-login.gif"></a>
+						<input type="hidden" name="realm" value="realm1">
+					</form>
+				</fieldset>
+				<fieldset id="search_wrapper">
+					<!-- Google CSE Search Box Begins  -->
+					<form action="/HISDConnectDS/v/index.jsp" name="cse-search-box" id="cse-search-box">
+					  <input type="hidden" name="cx" value="003373670521347983610:w09d_tdbu6y">
+					  <input type="hidden" name="cof" value="FORID:11">
+					  <input type="hidden" name="vgnextoid" value="555ea0a0f413d010VgnVCM10000052147fa6RCRD">
+					  <input id="q" name="q" type="text" size="14" tabindex="3">
+					  <input type="image" src="/HISDConnectDS/images/button_login-go.gif" name="sa" value="Search" alt="Search Button">
+					</form>
+					<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+					<!-- Google CSE Search Box Ends -->
+
+				</fieldset>
+				<script>
+		        var valid_login = new Validation('portal_login', {useTitles:true});
+		        var valid_site_search = new Validation('cse-search-box', {useTitles:true});
+		    </script>
+	    </div>
+	</div>
+</div>
+
+<div id="hcprichannelnav">
+	<ul class="main_nav">
+	
+				<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=3e5608ae6b8fc010VgnVCM10000052147fa6RCRD">Home</a></li>
+
+				<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=c7782f796138c010VgnVCM10000052147fa6RCRD">About HISD</a></li>
+
+				<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=de4b2f796138c010VgnVCM10000052147fa6RCRD">Board</a></li>
+
+				<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=946b2f796138c010VgnVCM10000052147fa6RCRD">Calendars</a></li>
+
+				<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=f49b2f796138c010VgnVCM10000052147fa6RCRD">Jobs</a></li>
+
+				<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=65db2f796138c010VgnVCM10000052147fa6RCRD">News</a></li>
+
+				<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=cf1c2f796138c010VgnVCM10000052147fa6RCRD">Parents &amp; Students</a></li>
+
+				<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=924c2f796138c010VgnVCM10000052147fa6RCRD">Schools</a></li>
+
+	</ul>
+
+	<ul class="i18n_nav">
+		<li class="first">&nbsp;</li>
+		<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=3c9e57efcaa3d010VgnVCM10000052147fa6RCRD&amp;vgnextfmt=default&amp;vgnLocale=es">Español</a></li>
+		<!--<li><a href="http://www.houstonisd.org/HISD/portal/front/0,2637,71502640,00.html">Espa&ntilde;ol</a></li>-->
+		<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=ab484c8002c8c010VgnVCM10000052147fa6RCRD">Tiếng Việt</a></li>
+	</ul>
+
+</div>
+
+<div id="HCChannelHeader" class="clearfix">
+	<div id="Breadcrumb">
+		&nbsp;
+	</div>
+	<div id="HCChannelHeaderDate" class="clearfix">Thursday, January 30, 2020</div>
+	<script>writeDate('en');</script>
+</div>
+	
+	<div id="layout_area1" class="clearfix">
+	<div id="layout_area2" class="clearfix">
+		<div id="display_column">
+			
+
+
+
+
+
+
+<div id="footerDetail">
+
+ 
+
+     <div class="footerBody"><h1 style=" font-weight: bold; font-size: 120%;">Privacy Policy</h1>
+
+<hr height="1px" noshade="noshade">
+<p>This is the Web site of the Houston Independent School District.</p>
+
+<p>Our postal address is:</p>
+
+<p>4400 West 18th Street<br>
+Houston, TX 77092-8501</p>
+
+<p>We can be reached via e-mail at: <a href="mailto:info@houstonisd.org">info@houstonisd.org</a>&nbsp;or you can reach us by telephone at 713-556-6005.</p>
+
+<p>For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).</p>
+
+<p>We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, and aggregate information on what pages consumers access or visit. We also collect information volunteered by the consumer, such as survey information and/or site registrations, names and addresses, and telephone numbers.</p>
+
+<p>The information we collect is used to improve the content of our Web page and to notify consumers about updates to our Web site or to share district news.</p>
+
+<p>If you do not want to receive e-mail from us in the future, please let us know by following the instructions on how to unsubscribe to the eNews newsletter.</p>
+
+<p>If you supply us with your postal address on-line you may receive periodic mailings from us with information on new services or upcoming events. If you do not wish to receive such mailings, please let us know by following the instructions on the mailing itself as to how to have your name removed from the list.</p>
+
+<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.</p>
+     </div>
+</div>
+
+
+		</div>
+	</div>
+	<div id="layout_bottom1"><div id="layout_bottom2">&nbsp;</div></div>
+	</div>
+	
+	
+	
+
+
+	<div id="footer">
+	<ul>
+	<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=5615ef6e5821d010VgnVCM10000052147fa6RCRD&amp;vgnextchannel=67382f796138c010VgnVCM10000052147fa6RCRD&amp;vgnextfmt=alt1&amp;footerItem=0">About HISD</a></li>
+<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=5615ef6e5821d010VgnVCM10000052147fa6RCRD&amp;vgnextchannel=67382f796138c010VgnVCM10000052147fa6RCRD&amp;vgnextfmt=alt1&amp;footerItem=1">Contact Us</a></li>
+<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=5615ef6e5821d010VgnVCM10000052147fa6RCRD&amp;vgnextchannel=67382f796138c010VgnVCM10000052147fa6RCRD&amp;vgnextfmt=alt1&amp;footerItem=2">Feedback</a></li>
+<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=5615ef6e5821d010VgnVCM10000052147fa6RCRD&amp;vgnextchannel=67382f796138c010VgnVCM10000052147fa6RCRD&amp;vgnextfmt=alt1&amp;footerItem=3">Disclaimer &amp; Legal</a></li>
+<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=5615ef6e5821d010VgnVCM10000052147fa6RCRD&amp;vgnextchannel=67382f796138c010VgnVCM10000052147fa6RCRD&amp;vgnextfmt=alt1&amp;footerItem=4">Privacy Policy</a></li>
+<li><a href="/HISDConnectDS/v/index.jsp?vgnextoid=5615ef6e5821d010VgnVCM10000052147fa6RCRD&amp;vgnextchannel=67382f796138c010VgnVCM10000052147fa6RCRD&amp;vgnextfmt=alt1&amp;footerItem=5">Copyright</a></li>
+
+</ul>
+</div>
+
+	</div>
+        <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2096701-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+	
+
+
+
+</body></html>
