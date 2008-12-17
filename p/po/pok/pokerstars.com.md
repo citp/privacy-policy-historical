@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerstars.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604050158id_/http%3A//www.pokerstars.com/poker/room/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstars.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041710id_/http%3A//www.pokerstars.com/poker/room/privacy) for the most accurate reproduction.*
 
 # Poker Stars - Online Poker Software Privacy Policy
 
@@ -63,4 +63,4 @@ Isle of Man, IM1 2LD
 
 Privacy Policy last revised: 02 June, 2008
 
-[Back to top](http://www.pokerstars.com/poker/room/privacy/#)
+Back to top
