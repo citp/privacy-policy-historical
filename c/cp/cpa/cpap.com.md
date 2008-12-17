@@ -1,73 +1,85 @@
-> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625083357id_/http%3A//www.cpap.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218005527id_/http%3A//www.cpap.com/privacy.php) for the most accurate reproduction.*
 
-# CPAP Machines and CPAP Masks for the Treament of Sleep Apnea
+# CPAP Machines and CPAP Masks for the Treatment of Sleep Apnea
 
-I. WE HAVE A LEGAL DUTY TO SAFEGUARD YOUR PROTECTED HEALTH INFORMATION (PHI).
+This Privacy Policy explains how US Expediters, Inc. (CPAP.com) handles your personal information for the services we provide. It applies to the CPAP.com website and other related websites where a link to this policy appears at the bottom of the page. Some CPAP.com related websites (the “Sites”) or websites we operate may be bound by a different privacy policy. The applicable policy on any of our domains will invariably be the policy that appears in the link at the bottom of each web page. With acceptance of our Privacy Policy and User Agreement and by using the CPAP.com website, you are specifically consenting to allow CPAP.com to collect, store, use, and disclose your personal information as described in this Privacy Policy.
 
-We are legally required to protect the privacy of your health information. We call this information "protected health information," or "PHI" for short, and it includes information that can be used to identify you that we've created or received about your past, present, or future health condition, the provision of health care to you, or the payment for this health care. We must provide you with this notice about our privacy practices that explains how, when, and why we use and disclose your PHI. With some exceptions, we may not use or disclose any more of your PHI than is necessary to accomplish the purpose of the use or disclosure. We are legally required to follow the privacy practices that are described in this notice However, we reserve the right to change the terms of this notice and our privacy policies at any time. Any changes will apply to the PHI we already have. Before we make an important change to our policies, we will promptly change this notice. You can request a copy of this notice from the contact person listed in Section VIII below at any time.
+This Privacy Policy is effective upon acceptance for new users and on April 10th, 2008 for all existing users. 
 
-II.   HOW WE MAY USE AND DISCLOSE YOUR PROTECTED HEALTH INFORMATION.
+**Data Collection**  
+You are allowed to browse our Sites without giving us any personal information about yourself. Once you have chosen to provide us with your personal information, you are no longer anonymous to us, and you consent to the transfer and storage of that information on our servers located in the United States. 
 
-We use and disclose health information for many different reasons. For some of these uses or disclosures, we need your specific authorization. Below, we describe the different categories of uses and disclosure.
+We are allowed to collect and store the following personal information: 
 
-A.   We may use and disclose your PHI without your authorization for the following reasons:
+  * names, email addresses, phone numbers, physical contact information, and sometimes credit card or other financial information used for verification of identity or payment for purchases; 
+  * transactional information or data based on any of your activities on the Sites; 
+  * shipping, billing and other information you provide to purchase or ship an item; 
+  * any correspondence or information submitted or sent through or on our Sites, and correspondence sent to us; 
+  * other information from your interaction with our Sites, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the Sites, ad data, IP address and standard web log information; 
+  * other information from third parties, such as such as demographic and traffic data, prescriptions, or for example, if you incur a debt to CPAP.com, we may run a credit check, as permitted by law, to collect such a debt; or if the information you provide cannot be verified, we may ask you to send us additional information. 
 
-When a disclosure is required by federal, state or local law, judicial or administrative proceedings, or law enforcement.
+**Third Parties**  
+We do not sell your personal information to, or share it with third parties for their marketing purposes. However, we are allowed to conjoin your information with data we obtain through third parties and make use of it in such a way that enhances and customizes our services, content and advertising. We may also combine your data with information collected from other US Expediters, Inc. (CPAP.com) related websites, for the same purposes. 
 
-For health oversight activities.  For example, we will provide information to assist the government when it conducts an investigation or inspection of a health care provider or organization.
+Unless specifically included herein, this Privacy Policy applies only to the use and disclosure of information we obtain from you. If you provide your information to others on any of our Sites or unrelated sites around the Internet, different rules may apply, since we in no way control the privacy policy of third parties. 
 
-To avoid harm. In order to avoid a serious threat to the health or safety of a person or the public, we may provide PHI to law enforcement personnel or persons able to prevent or lessen such harm.
+**Usage**  
+Our main goal in the collection of personal information is our attempt to give you a secure, effective, easy to use, personalized experience. You grant CPAP.com permission to use your personal information in the following ways: 
 
-For specific government functions. We may disclose PHI of military personnel and veterans in certain situations.  And we may disclose PHI for national security purposes, such as protecting the President of the United States or conducting intelligence operations.
+  * to proffer the services and customer assistance that you request; 
+  * to resolve disputes, collect monies, and troubleshoot issues; 
+  * to enforce our User Agreement, and defend against possible prohibited or illegal actions; 
+  * personalize, measure, and enhance the services, content, and advertising offered on CPAP.com and related Sites; 
+  * provide you with information regarding special offers, website or policy updates, and targeted communications; 
+  * examine information for accurateness, and verify it with third parties. 
 
-For workers compensation purposes. We may provide PHI in order to comply with workers compensation laws.
+**Our Disclosure of Your Information**  
+We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a Customer Review or other content violates the rights of others, or protect anyone's rights, property, or safety. 
 
-B. Uses and Disclosures Where You to Have the Opportunity to Object:
+We may also share your personal information as outlined below: 
 
-Disclosures to family, friends, or others. We may provide your PHI to a family member, friend, or other person that you indicate is involved in your care or the payment for your health care, unless you object in whole or in part.
+  * We may share your information (including and without limitation, personally identifiable information) with our subsidiaries and affiliates, and related websites (the Sites). For example: to help identify and defend against potentially illegal activity as well as providing joint content and services;
+  * Contracted third parties who help with our business operations such as investigation of fraud, or bill collection. 
+  * As required by federal, state or local law, judicial or administrative proceedings, or law enforcement and only as much information as is necessary and required for the specific verifiable request or proceeding. 
+  * Should we plan to merge with or be acquired, in part or in whole, through the sale or transfer of our business assets with another entity, your personal information will be part of said business assets and will be transferred to the new entity. We will request that any new combined entity follow this privacy policy in regards to your personal information. You will be notified on this website of any changes to this privacy policy if such an event occurs. 
 
-C. All Other Uses and Disclosures Require Your Prior Written Authorization. In any other situation not described above, we will ask for your written authorization before using or disclosing any of your PHI. If you choose to sign an authorization to disclose your PHI, you can later revoke that authorization in writing to stop any future uses and disclosures (to the extent that we havent taken any action relying on the authorization).
+Without limitation to the preceding, in every attempt to honor your privacy and our capacity to keep CPAP.com liberated from problematic users, we will in no way else wise reveal your personal information to governmental agencies, law enforcement, or other third parties without a subpoena, court order, or materially comparable legal proof and documentation, with exception if we believe in good faith that the disclosure of information is required to preclude impending bodily injury or financial loss or to inform law enforcement about potential violations of the law. 
 
-D.  Incidental Uses and Disclosures. Incidental uses and disclosures of information may occur. An incidental use or disclosure is a secondary use or disclosure that cannot reasonably be prevented, is limited in nature, and that occurs as a by-product of an otherwise permitted use or disclosure. However, such incidental uses or disclosure are permitted only to the extent that we have applied reasonable safeguards and do not disclose any more of your PHI than is necessary to accomplish the permitted use or disclosure. For example, disclosures about a patient made by a home health provider in the patients home that might be overheard by other family members not involved in the patients care would be permitted.
+**Cookies**  
+'Cookies' are tiny files put on your hard disk for various reasons. We utilize 'cookies' on some web pages of our Sites to assist us in evaluating our web traffic patterns; personalize our services, content and advertising; appraise the efficacy of special offers, and also to foster and emphasize trust and safety. In short, CPAP.com uses cookies to provide services to you. 
 
-III.        WHAT RIGHTS YOU HAVE REGARDING YOUR PHI.
+Some pertinent things you should be aware of regarding cookies are that: 
 
-A. The Right to Request Limits on Uses and Disclosures of Your PHI. You have the right to ask that we limit how we use and disclose your PHI. We will consider your request but are not legally required to accept it. If we accept your request, we will put any limits in writing and abide by them except in emergency situations. You may not limit the uses and disclosures that we are legally required or allowed to make.
+  * There are some features on our Sites which are only available with the use of cookies.
+  * Cookies are used to assist us in identifying you and to help keep you logged-in which allows you to input your password less often during a session. 
+  * Most cookies that we use are systematically eliminated from your hard drive at the end of a browser session or when you log off of CPAP.com. 
+  * You have the ability to deny our cookies if your web client allows, although in so doing you may prevent or limit access to certain areas, features, or proper functionality of our Sites. 
+  * You might receive cookies from a third party on particular pages of our Sites that we in no way control or regulate. 
 
-B. The Right to Choose How We Send PHI to You. You have the right to ask that we send information to you to an alternate address (for example, sending information to your work address rather than your home address) or by alternate means (for example, e-mail instead of regular mail). We must agree to your request so long as we can easily provide it in the format you requested.
+**Newsletters**  
+We provide an opt-in Newsletter that is delivered through email to users who have subscribed to receive these newsletters. CPAP.com makes every effort to ensure that the newsletter is CAN-SPAM compliant but also makes no guarantees about such compliance. You may unsubscribe from our newsletter at any time by clicking [here](http://www.cpap.com/newsletter_out.php) and submitting the same email address used to subscribe. 
 
-C. The Right to See and Get Copies of Your PHI. In most cases, you have the right to look at or get copies of your PHI that we have, but you must make the request in writing. If we dont have your PHI but we know who does, we will tell you how to get it. We will respond to you within 30 days after receiving your written request. In certain situations, we may deny your request. If we do, we will tell you, in writing, our reasons for the denial and explain your right to have the denial reviewed.
+**Other Communications**  
+It is customary for CPAP.com to send out emails or use other communications to contact you regarding your orders on CPAP.com. For example, when you place an order with CPAP.com, we send out an order confirmation via email and a shipping confirmation once shipped. These types of communications are necessary and required in the normal course of transacting with CPAP.com and are not optional. By definition these types of emails are known as transactional emails. 
 
-If you request copies of your PHI, we will charge you $1.00 for each page. Instead of providing the PHI you requested, we may provide you with a summary or explanation of the PHI as long as you agree to that and to the cost in advance.
+CPAP.com may also from time to time contact its customers for various reasons such as customer surveys, product replacement reminders, user reviews, special promotions concerning products and services we offer, or very important news, legal notices, or other information that could affect our customers. If you do not wish to receive these types of communications you may contact us directly by phone or email to change your Communication Preferences. 
 
-D. The Right to Get a List of the Disclosures We Have Made. You have the right to get a list of instances in which we have disclosed your PHI. The list will not include uses or disclosures made for treatment, payment, or health care operations, directly to you, to your family, or in our facility directory, or pursuant to a valid authorization.  The list also wont include uses and disclosures made for national security purposes, to corrections or law enforcement personnel, or before April 1, 2003. 
+**Protecting Your Account**  
+The password you choose is indispensable to access your account. Use a combination of unique identifiers (letters, numbers, and characters), and do not give away your CPAP.com password to anybody. If for some reason you decide to give away your password or your personal information to others, be aware that you are accountable and liable for any and all activity executed under your account. If your password is compromised, you may lose considerable authority over your personal information and may be subject to legally binding actions taken on your behalf. Accordingly, if for any reason you have revealed or lost control of your password, then you should notify CPAP.com and change your password without delay. 
 
-We will respond within 60 days of receiving your request. The list we will give you will include disclosures made in the last six years unless you request a shorter time. The list will include the date of the disclosure, to whom PHI was disclosed (including their address, if known), a description of the information disclosed, and the reason for the disclosure. We will provide the list to you at no charge, but if you make more than one request in the same year, we will charge you $25 for each additional request.
+**Viewing and Making Changes to Your Personal Information**  
+You may view and change much of your personal information by logging into your account at CPAP.com. You are required to revise your personal information quickly when a change occurs or if it is erroneous. Upon your request, and as soon as it is reasonably practicable, your account will be terminated and your personal information archived, based on your account activity and if allowed under subsequently relevant laws. We do keep a record of personal information from terminated accounts to abide by legal requirements, avert fraudulent activity, collect monies due to us, resolve disputes, regulate issues, cooperate with any investigations, enforce our [CPAP.com User Agreement](http://www.cpap.com/user-agreement.php), and likewise take other actions legally allowed. 
 
-E. The Right to Correct or Update Your PHI.  If you believe that there is a mistake in your PHI or that a piece of important information is missing, you have the right to request that we correct the existing information or add the missing information. We will respond within 60 days of receiving your request in writing. You must provide the request and your reason for the request in writing. We may deny your request in writing if the PHI is (i) correct and complete, (ii) not created by us, (iii) not allowed to be disclosed, or (iv) not part of our records. Our written denial will state the reasons for the denial and explain your right to file a written statement of disagreement with the denial. If you dont file one, you have the right to request that your request and our denial be attached to all future disclosures of your PHI. If we approve your request, we will make the change to your PHI, tell you that we have done it, and tell others that need to know about the change to your PHI.
+**Security**  
+Protecting and securing your information is of the highest priority to us. We consider the data we collect and your personal information to be an extremely valuable asset that should be protected. Your information is stored and processed on dedicated servers located in the United States that are protected by physical and technological security measures. We use many methods in good faith to safeguard your personal information from unauthorized access. However, as you may be aware, third parties may illegally intercept or access transmissions of your personal data or exchanges of information over the Internet, and there is the possibility that users may mistreat or mishandle your personal information that they find or gather during your interactions on the CPAP.com website. Consequently, while we go to great lengths to safeguard your privacy, we in no way guarantee, and you should not have the expectation, that your personal data or exchanges of information over the Internet will always remain private. Here is more about the security of your personal information.
 
-F. The Right to Get This Notice by E-Mail. You have the right to get a copy of this notice by email. Even if you have agreed to receive notice via e-mail, you also have the right to request a paper copy of this notice.
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts personal information you send to CPAP.com.
+  * Email messages are not typically secure so we do not recommend sending us any critical financial information such as credit cards numbers, bank account numbers, or similar information via email. If you choose to provide this type of information via email, you do so at your own risk. 
+  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing via a Secure Sockets Layer (SSL) connection which encrypts your data. 
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off of your CPAP.com account when finished using a shared computer. 
 
-IV. E-mail Addresses
+**Personal Health Information**  
+We are legally required to protect the privacy of your 'Personal Health Information', or 'PHI' for short. Additionally incorporated into this Privacy Policy is more information described in the [PHI Privacy Policy](http://www.cpap.com/phi-privacy-policy.php).
 
-The e-mail addresses provided to cpap.com when placing an order will not be shared with third parties. The e-mail addresses provided to cpap.com when subscribing to our mailing list will notbe shared with third parties, but will be used to e-mail you monthly product and industry updates. You may subscribe or unsubscribe from our mailing list at any time by visiting http://www.cpap.com/newsletter_out.php or by clicking unsubscribe at the bottom of any of our promotional mailings. 
-
-V. Billing Information
-
-Information provided to purchase products via online, fax, or phone order (including billing name, billing address, telephone number, and fax number) will not be shared with or sold to anyone outside of cpap.com nor to any third party.  Payment information (credit cahttp://www.cpap.com/newsletter_out.phprd numbers and expiration dates) is treated confidentially and will not be shared with anyone outside of cpap.com or the financial institutions used to process payment.
-
-VI. Security
-
-We use MadCow software to protect your billing information. Secure Sockets Layer (SSL) encrypts information and keeps the data private and confidential between your machine and cpap.com. This technology makes it safe to transmit your credit card number over the Internet. Look for two security icons, the "s" after "http" in the address line and the lock in the top menu bar and bottom status bar of your browser in Netscape (or in the bottom status bar only in Internet Explorer).
-
-VII.   HOW TO COMPLAIN ABOUT OUR PRIVACY PRACTICES .
-
-If you think that we may have violated your privacy rights, or you disagree with a decision we made about access to your PHI, you may file a complaint with the person listed in Section VIII below. You also may send a written complaint to the Secretary of the Department of Health and Human Services at 200 Independence Ave., S.W.; Room 615F; Washington, DC 20201. We will take no retaliatory action against you if you file a complaint about our privacy practices.
-
-VIII.  PERSON TO CONTACT FOR INFORMATION ABOUT THIS NOTICE OR TO COMPLAIN ABOUT OUR PRIVACY PRACTICES.
-
-If you have any questions about this notice or any complaints about our privacy practices, or would like to know how to file a complaint with the Secretary of the Department of Health and Human Services, please contact: Dan Fawvor, Compliance Officer, U.S. Expeditors, Inc., 9100 SW Freeway, Suite 114, Houston, TX  77074.  713-541-2727, ext. 22
-
-IX. Policy Changes
-
-We reserve the right to modify its Privacy Policy at any time. In the event that we make a material change to our policy we will post a notice of the change on this page.
+**General**  
+We reserve the right to modify this Privacy Policy at any time by posting the changes on CPAP.com. In the event that we make any significant material change to this Privacy Policy, we may attempt to notify you by email, but are not required to do so. If your questions are not answered online, you may write to us at: CPAP.com Attn: Legal - Privacy Policy, 9100 Southwest Freeway, Suite 135, Houston, Texas 77074, or by using the [contact us](http://www.cpap.com/submit-cpap-question.php) form. 
