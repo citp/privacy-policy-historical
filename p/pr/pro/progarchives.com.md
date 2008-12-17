@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the progarchives.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513023804id_/http%3A//www.progarchives.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progarchives.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217135248id_/http%3A//www.progarchives.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Progarchives.com Privacy Policy
 
-Last Updated: January 2005
+Last Updated: October, 09 2008
 
 **BY USING PROGARCHIVES.COM YOU SIGNIFY YOUR CONSENT WITH THE PROGARCHIVES  .COM ONLINE PRIVACY POLICY AS SET FORTH BELOW**
 
@@ -71,7 +71,7 @@ Progarchives.com will occasionally update this Privacy Policy in response to cha
 _**CONTACT US**_
 
 Progarchives.com welcomes your questions and comments regarding our privacy and security practices. You can reach by visiting the Contact Us page, or by mail:Progarchives.com  
-11520, 2e Avenue   
+460, 29e rue  
 Ville de Saint-Georges  
 Québec, Canada  
-G5Y 1W6 
+G5Y 4H6
