@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyjewelleryshop.co.uk privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627125434id_/http%3A//www.bodyjewelleryshop.com/about_BJS/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyjewelleryshop.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218000432id_/http%3A//www.bodyjewelleryshop.com/about_BJS/privacy_statement) for the most accurate reproduction.*
 
 # BodyJewelleryShop.com Privacy Statement
 
@@ -38,38 +38,3 @@ Our servers are held in a secure data centre located in the UK, and are protecte
   
 External websites   
 This privacy policy covers the usage of BodyJewelleryShop.com only. Where we have linked to external sites, a different privacy policiy may apply.
-
-|    
-[](https://web.archive.org/body_jewellery_shop/ "Jewellery Materials")  
-[](https://web.archive.org/body_jewellery_shop/body_piercing_jewellery/ "Jewellery Materials")  
-[](https://web.archive.org/body_jewellery_shop/body_piercings/ "Jewellery Materials")  
-[](https://web.archive.org/online_store/fashion_jewellery_1069.cfm "Fashion Jewellery")  
-[](https://web.archive.org/online_store/fashion_accessories_894.cfm "Jewellery Materials")  
-[](https://web.archive.org/online_store/gift_section_534.cfm "Jewellery Materials")  
-[](https://web.archive.org/online_store/adult_section_877.cfm "Jewellery Materials")  
-
-
-[](https://www.scanalert.com/RatingVerify?ref=www.bodyjewelleryshop.com)
-
-Shopping Cart
-
-Go to the [**online store**](https://web.archive.org/online_store/) to start shopping!
-
-* * *
-
-Currency Display: 
-
-[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=GBP)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=EUR)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=USD)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=CAD)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=JPY)  
- More Currencies:
-
-Member Login
-
-[](https://web.archive.org/members/rewards/)
-
-About Body Jewellery Shop
-
-Jewellery Essentials
-
-[](http://www.bodyjewelleryshop.com/about_BJS/shipping_information/) [](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=6AD2E074-DFEE-4E53-9608-A973EB774C65) [](http://www.imrg.org/IDIS) [](http://www.bodyjewelleryshop.com/online_store/blackline_139.cfm)  
-[](http://www.bodyjewelleryshop.com/online_store/ikon_plugs_425.cfm)  
-[](http://www.crystalage.com/)[](http://www.scentedcandleshop.com/)
