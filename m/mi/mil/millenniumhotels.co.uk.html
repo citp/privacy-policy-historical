@@ -1,0 +1,854 @@
+<!--The following is the downloaded HTML source of the millenniumhotels.co.uk privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217062046id_/http%3A//www.millenniumhotels.com/corporate/privacyPolicy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title></title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta http-equiv="imagetoolbar" content="no">
+<link href="inc/millennium_copthorne.css" rel="stylesheet" type="text/css">
+<link href="inc/Calendar.css" rel="stylesheet" type="text/css">
+<script language="javaScript1.2" type="text/javascript" src="inc/Calendar1-903.js"></script>
+<script language="javascript" type="text/javascript" src="inc/millennium_copthorne.js"></script>
+<script language="javascript" type="text/javascript">
+<!--
+var target = 'https://reservations.synxis.com/lbe/rez.aspx?';
+var styleVar = "td { font-family:Courier; font-size:12 }";
+function submitLeftNavForm()
+  {
+	target = target + 'hotel=' + document.leftnavform.synxisCode.value;
+	target = target + '&arrive=' + document.leftnavform.selectArrivalMonth.value + '%2F';
+	target = target + document.leftnavform.arrivaldate.value + '%2F';
+	target = target + document.leftnavform.arrivalYear.value;
+	target = target + '&nights=' + document.leftnavform.NoOfNights.value;
+	target = target + '&adult=' + document.leftnavform.NoOfAdults.value;
+	if (document.leftnavform.promo_code.value == 'group')
+	{
+	target = target + '&group=' + document.leftnavform.code.value;
+	}
+	else
+	{
+	target = target + '&group=';
+	}
+	if (document.leftnavform.promo_code.value == 'promo')
+	{
+	target = target + '&promo=' + document.leftnavform.code.value;
+	}
+	else
+	{
+	target = target + '&promo=';
+	}
+	if (document.leftnavform.promo_code.value == 'iata')
+	{
+	target = target + '&iata=' + document.leftnavform.code.value;
+	}
+	else
+	{
+	target = target + '&iata=';
+	}
+   	target = target + '&step=2';
+
+	if (document.leftnavform.synxisCode.value == "0")
+	{
+	alert('This hotel is not bookable online currently. Please contact the hotel directly for all sales enquiries');
+	target = 'https://reservations.synxis.com/lbe/rez.aspx?';
+	}
+	else if(document.leftnavform.synxisCode.value == "")
+	{
+	alert('Please specify a hotel');
+	target = 'https://reservations.synxis.com/lbe/rez.aspx?';
+	}
+	else 
+	{
+	setTimeout( "window.location.href = target", 1 );
+	}
+  }
+function doRedirect()
+{
+    	if (document.headerform.hotel.value != "")
+	{
+	sTargetURL = document.headerform.hotel.value;
+	setTimeout( "window.location.href = sTargetURL", 1 );
+	}
+}
+
+function setTodayDate()
+{
+	var today = new Date()
+	document.leftnavform.selectArrivalMonth.value = putZero(today.getMonth()+1);
+	document.leftnavform.arrivaldate.value = putZero(today.getDate());
+	document.leftnavform.arrivalYear.value = today.getFullYear();
+}
+
+function putZero(number)
+{
+if (number == '1')
+{
+return '01';
+}
+else if (number == '2')
+{
+return '02';
+}
+else if (number == '3')
+{
+return '03';
+}
+else if (number == '4')
+{
+return '04';
+}
+else if (number == '5')
+{
+return '05';
+}
+else if (number == '6')
+{
+return '06';
+}
+else if (number == '7')
+{
+return '07';
+}
+else if (number == '8')
+{
+return '08';
+}
+else if (number == '9')
+{
+return '09';
+}
+else
+{
+return number;
+}
+}
+function TryCallFunction() {
+	var sd = document.leftnavform.mydate.value.split("-");
+	document.leftnavform.selectArrivalMonth.value = sd[1];
+	document.leftnavform.arrivaldate.value = sd[0];
+	document.leftnavform.arrivalYear.value = sd[2];
+
+}
+
+function submitReservationForm()
+  {
+	target = target + 'hotel=' + document.leftnavform.synxisCode.value;
+   	target = target + '&step=2';
+   	target = target + '&path=2';
+	if (document.leftnavform.synxisCode.value == "0")
+	{
+	alert('This hotel is not bookable online currently. Please contact the hotel directly for all sales enquiries');
+	target = 'https://reservations.synxis.com/lbe/rez.aspx?';
+	}
+	else if (document.leftnavform.synxisCode.value == "")
+	{
+	alert('Please specify a hotel');
+	target = 'https://reservations.synxis.com/lbe/rez.aspx?';
+	}
+	else
+	{
+	setTimeout( "window.location.href = target", 1 );
+	}
+  }
+-->
+</script>
+<script language="javascript" type="text/javascript">
+<!--
+Calendar.CreateCalendarLayer(10, 275, "");
+-->
+</script>
+
+</head>
+<body onload="MM_preloadImages('img/leftnav_01b.gif','img/leftnav_02b.gif','img/leftnav_03b.gif','img/leftnav_04b.gif','img/leftnav_05b.gif','img/leftnav_06b.gif','img/leftnav_07b.gif');setTodayDate();">
+<div id="container">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+<td width="10" valign="top"><img src="img/shadow_left.jpg" alt="" width="10" height="585" border="0"></td>
+<td valign="top">
+<!--start: header -->
+<div id="header">
+<form name="headerform" action="">
+<div id="headerleft">
+<select name="hotel" onchange="javascript:doRedirect();">
+<option value="">Find a Hotel</option>
+            <option value="">CHINA</option>
+            <option value="http://www.millenniumhotels.com/cn/copthorneqingdao/index.html">Copthorne Hotel Qingdao</option>
+            <option value="http://www.millenniumhotels.com/cn/grandmillenniumbeijing/index.html">Grand Millennium Beijing</option>
+            <option value="http://www.millenniumhotels.com/cn/millenniumxiamen/index.html">Millennium Harbourview Hotel Xiamen</option>
+            <option value="http://www.millenniumhotels.com/cn/millenniumshanghai/index.html">Millennium Hongqiao Hotel Shanghai</option>
+            <option value="">&nbsp;&nbsp; </option>
+            <option value="">EGYPT</option>			
+            <option value="http://www.millenniumhotels.com/eg/millenniumsharmelsheikh/index.html">Millennium Oyoun Sharm El Sheikh Resort</option>
+           <option value="">&nbsp;&nbsp; </option>
+		   <option value="">FRANCE</option>
+            <option value="http://www.millenniumhotels.com/fr/millenniumcharlesdegaulle/index.html">Millennium Hotel Paris Charles de Gaulle</option>
+            <option value="http://www.millenniumhotels.com/fr/millenniumparis/index.html">Millennium Hotel Paris Opéra</option>
+           <option value="">&nbsp;&nbsp; </option>
+		   <option value="">GERMANY</option>
+            <option value="http://www.millenniumhotels.com/de/copthornehannover/index.html">Copthorne Hotel Hannover</option>
+            <option value="http://www.millenniumhotels.com/de/millenniumstuttgart/index.html">Millennium Hotel and Resort Stuttgart</option>
+           <option value="">&nbsp;&nbsp; </option>
+		   <option value="">INDONESIA</option>			
+            <option value="http://www.millenniumhotels.com/id/millenniumjakarta/index.html">Millennium Hotel Sirih Jakarta</option>
+           <option value="">&nbsp;&nbsp; </option>
+		   <option value="">KUWAIT</option>			
+            <option value="http://www.millenniumhotels.com/kw/aljahrahcopthornekuwait/index.html">Al-Jahra Copthorne Hotel &amp; Resort</option>
+           <option value="">&nbsp;&nbsp; </option>
+		   <option value="">MALAYSIA</option>			
+            <option value="http://www.millenniumhotels.com/my/copthornepenang/index.html">Copthorne Orchid Hotel Penang</option>
+            <option value="http://www.millenniumhotels.com/my/millenniumkualalumpur/index.html">Grand Millennium Kuala Lumpur</option>
+           <option value="">&nbsp;&nbsp; </option>
+           <option value="http://www.millenniumhotels.co.nz/index.html">NEW ZEALAND (www.millenniumhotels.co.nz)</option>			
+            <option value="http://www.millenniumhotels.co.nz/copthorneanzacavenue/index.html">Copthorne Hotel Auckland Anzac Avenue</option>
+            <option value="http://www.millenniumhotels.co.nz/copthorneharbourcity/index.html">Copthorne Hotel Auckland Harbour City</option>
+            <option value="http://www.millenniumhotels.co.nz/copthornechristchurchcentral/index.html">Copthorne Hotel Christchurch Central</option>
+            <option value="http://www.millenniumhotels.co.nz/copthornedurhamstreet/index.html">Copthorne Hotel Christchurch Durham Street</option>
+            <option value="http://www.millenniumhotels.co.nz/copthornechristchurchairport/index.html">Copthorne Hotel Commodore Christchurch Airport</option>
+            <option value="http://www.millenniumhotels.co.nz/copthornenewplymouth/index.html">Copthorne Hotel Grand Central New Plymouth</option>
+            <option value="http://www.millenniumhotels.co.nz/copthornemarlborough/index.html">Copthorne Hotel Marlborough</option>
+            <option value="http://www.millenniumhotels.co.nz/copthornetaupo/index.html">Copthorne Hotel Taupo</option>
+            <option value="http://www.millenniumhotels.co.nz/copthorneorientalbay/index.html">Copthorne Hotel Wellington Oriental Bay</option>
+            <option value="http://www.millenniumhotels.co.nz/copthornebayofislands/index.html">Copthorne Hotel and Resort Bay of Islands</option>
+            <option value="http://www.millenniumhotels.co.nz/copthornehokianga/index.html">Copthorne Hotel and Resort Hokianga</option>
+            <option value="http://www.millenniumhotels.co.nz/copthornequeenstownlakefront/index.html">Copthorne Hotel and Resort Queenstown Lakefront</option>
+            <option value="http://www.millenniumhotels.co.nz/copthornewairarapa/index.html">Copthorne Hotel and Resort Solway Park Wairarapa</option>
+            <option value="http://www.millenniumhotels.co.nz/kingsgatepaihia/index.html">Kingsgate Hotel Autolodge Paihia</option>
+            <option value="http://www.millenniumhotels.co.nz/kingsgateoamaru/index.html">Kingsgate Hotel Brydone Oamaru</option>
+            <option value="http://www.millenniumhotels.co.nz/kingsgatedunedin/index.html">Kingsgate Hotel Dunedin</option>
+            <option value="http://www.millenniumhotels.co.nz/kingsgategreymouth/index.html">Kingsgate Hotel Greymouth</option>
+            <option value="http://www.millenniumhotels.co.nz/kingsgatehamilton/index.html">Kingsgate Hotel Hamilton</option>
+            <option value="http://www.millenniumhotels.co.nz/kingsgatepalmerstonnorth/index.html">Kingsgate Hotel Palmerston North</option>
+            <option value="http://www.millenniumhotels.co.nz/kingsgateauckland/index.html">Kingsgate Hotel Parnell Auckland</option>
+            <option value="http://www.millenniumhotels.co.nz/kingsgaterotorua/index.html">Kingsgate Hotel Rotorua</option>
+            <option value="http://www.millenniumhotels.co.nz/kingsgateteanau/index.html">Kingsgate Hotel Te Anau</option>
+            <option value="http://www.millenniumhotels.co.nz/kingsgatequeenstown/index.html">Kingsgate Hotel Terraces Queenstown</option>
+            <option value="http://www.millenniumhotels.co.nz/kingsgatewanganui/index.html">Kingsgate Hotel The Avenue Wanganui</option>
+	    <option value="http://www.millenniumhotels.co.nz/kingsgatewellington/index.html">Kingsgate Hotel Wellington</option>
+            <option value="http://www.millenniumhotels.co.nz/kingsgatewhangarei/index.html">Kingsgate Hotel Whangarei</option>
+            <option value="http://www.millenniumhotels.co.nz/millenniumchristchurch/index.html">Millennium Hotel Christchurch</option>
+            <option value="http://www.millenniumhotels.co.nz/millenniumqueenstown/index.html">Millennium Hotel Queenstown</option>
+            <option value="http://www.millenniumhotels.co.nz/millenniumrotorua/index.html">Millennium Hotel Rotorua</option>
+            <option value="http://www.millenniumhotels.co.nz/millenniumtaupo/index.html">Millennium Hotel and Resort Manuels Taupo</option>
+           <option value="">&nbsp;&nbsp; </option>
+		   <option value="">PHILIPPINES</option>
+            <option value="http://www.millenniumhotels.com/ph/heritagemanila/index.html">The Heritage Hotel Manila</option>
+           <option value="">&nbsp;&nbsp; </option>
+		   <option value="">QATAR</option>			
+            <option value="http://www.millenniumhotels.com/qa/millenniumdoha/index.html">Millennium Hotel Doha</option>
+			<option value="">&nbsp;&nbsp; </option>
+            <option value="http://www.millenniumhotels.com.sg/">SINGAPORE  (www.millenniumhotels.com.sg)</option>
+            <option value="http://www.millenniumhotels.com.sg/copthornekingssingapore/index.html">Copthorne King's Hotel Singapore</option>
+            <option value="http://www.millenniumhotels.com.sg/copthorneorchidsingapore/index.html">Copthorne Orchid Hotel Singapore</option>
+            <option value="http://www.millenniumhotels.com.sg/grandcopthornewaterfront/index.html">Grand Copthorne Waterfront Hotel Singapore</option>
+            <option value="http://www.millenniumhotels.com.sg/mhotelsingapore/index.html">M Hotel Singapore</option>
+            <option value="http://www.millenniumhotels.com.sg/orchardhotelsingapore/index.html">Orchard Hotel Singapore</option>
+           <option value="">&nbsp;&nbsp; </option>
+		   <option value="">THAILAND</option>			
+            <option value="http://www.millenniumhotels.com/th/millenniumpatongphuket/index.html">Millennium Resort Patong Phuket</option>
+            <option value="http://www.millenniumhotels.com/th/grandmillenniumsukhumvitbangkok/index.html">Grand Millennium Sukhumvit Bangkok</option>
+           <option value="">&nbsp;&nbsp; </option>
+            <option value="">UAE</option>
+            <option value="http://www.millenniumhotels.com/ae/copthornehoteldubai/index.html">Copthorne Hotel Dubai</option>
+            <option value="http://www.millenniumhotels.com/ae/grandmillenniumdubai/index.html">Grand Millennium Dubai</option>
+            <option value="http://www.millenniumhotels.com/ae/kingsgateabudhabi/index.html">Kingsgate Hotel Abu Dhabi</option>
+            <option value="http://www.millenniumhotels.com/ae/millenniumdubai/index.html">Millennium Airport Hotel Dubai</option>
+            <option value="http://www.millenniumhotels.com/ae/millenniumabudhabi/index.html">Millennium Hotel Abu Dhabi</option>
+            <option value="http://www.millenniumhotels.com/ae/millenniumsharjah/index.html">Millennium Hotel Sharjah</option>
+           <option value="">&nbsp;&nbsp; </option>
+		   <option value="http://www.millenniumhotels.co.uk/index.html">UNITED KINGDOM  (www.millenniumhotels.co.uk)</option>
+            <option value="http://www.millenniumhotels.co.uk/copthorneaberdeen/index.html">Copthorne Hotel Aberdeen</option>
+            <option value="http://www.millenniumhotels.co.uk/copthornebirmingham/index.html">Copthorne Hotel Birmingham</option>
+            <option value="http://www.millenniumhotels.co.uk/copthornecardiff/index.html">Copthorne Hotel Cardiff Caerdydd</option>
+            <option value="http://www.millenniumhotels.co.uk/copthorneeffinghamgatwick/index.html">Copthorne Hotel Effingham Gatwick</option>
+            <option value="http://www.millenniumhotels.co.uk/copthornegatwick/index.html">Copthorne Hotel London Gatwick</option>
+            <option value="http://www.millenniumhotels.co.uk/copthornemanchester/index.html">Copthorne Hotel Manchester</option>
+            <option value="http://www.millenniumhotels.co.uk/copthornedudley/index.html">Copthorne Hotel Merry Hill Dudley</option>
+            <option value="http://www.millenniumhotels.co.uk/copthornenewcastle/index.html">Copthorne Hotel Newcastle</option>
+            <option value="http://www.millenniumhotels.co.uk/copthorneplymouth/index.html">Copthorne Hotel Plymouth</option>
+            <option value="http://www.millenniumhotels.co.uk/copthornereading/index.html">Copthorne Hotel Reading</option>
+            <option value="http://www.millenniumhotels.co.uk/copthornesheffield/index.html">Copthorne Hotel Sheffield</option>
+            <option value="http://www.millenniumhotels.co.uk/copthornesloughwindsor/index.html">Copthorne Hotel Slough Windsor</option>
+            <option value="http://www.millenniumhotels.co.uk/copthornetarakensington/index.html">Copthorne Tara Hotel London Kensington</option>
+            <option value="http://www.millenniumhotels.co.uk/millenniumcopthornechelseafc/index.html">Millennium &amp; Copthorne Hotels At Chelsea Football Club</option>
+            <option value="http://www.millenniumhotels.co.uk/millenniumkensington/index.html">Millennium Bailey's Hotel London Kensington</option>
+            <option value="http://www.millenniumhotels.co.uk/millenniumgloucester/index.html">Millennium Gloucester Hotel London Kensington</option>
+            <option value="http://www.millenniumhotels.co.uk/millenniumglasgow/index.html">Millennium Hotel Glasgow</option>
+            <option value="http://www.millenniumhotels.co.uk/millenniumknightsbridge/index.html">Millennium Hotel London Knightsbridge</option>
+            <option value="http://www.millenniumhotels.co.uk/millenniummayfair/index.html">Millennium Hotel London Mayfair</option>
+            <option value="http://www.millenniumhotels.co.uk/millenniumreading/index.html">Millennium Madejski Hotel Reading</option>
+           <option value="http://www.millenniumhotels.com/">&nbsp;&nbsp; </option>
+		   <option value="http://www.millenniumhotels.com/index.html">USA  (www.millenniumhotels.com)</option>
+            <option value="http://www.millenniumhotels.com/millenniumanchorage/index.html">Millennium Alaskan Hotel Anchorage</option>
+            <option value="http://www.millenniumhotels.com/millenniumlosangeles/index.html">Millennium Biltmore Hotel Los Angeles</option>
+            <option value="http://www.millenniumhotels.com/millenniumboston/index.html">Millennium Bostonian Hotel Boston</option>
+            <option value="http://www.millenniumhotels.com/millenniumnewyork/index.html">Millennium Broadway Hotel New York</option>
+            <option value="http://www.millenniumhotels.com/millenniumboulder/index.html">Millennium Harvest House Boulder</option>
+            <option value="http://www.millenniumhotels.com/millenniumbuffalo/index.html">Millennium Hotel Buffalo</option>
+            <option value="http://www.millenniumhotels.com/millenniumcincinnati/index.html">Millennium Hotel Cincinnati</option>
+            <option value="http://www.millenniumhotels.com/millenniumdurham/index.html">Millennium Hotel Durham</option>
+            <option value="http://www.millenniumhotels.com/millenniumminneapolis/index.html">Millennium Hotel Minneapolis</option>
+            <option value="http://www.millenniumhotels.com/millenniumstlouis/index.html">Millennium Hotel St. Louis</option>
+            <option value="http://www.millenniumhotels.com/millenniumchicago/index.html">Millennium Knickerbocker Hotel Chicago</option>
+            <option value="http://www.millenniumhotels.com/millenniumnashville/index.html">Millennium Maxwell House Nashville</option>
+            <option value="http://www.millenniumhotels.com/millenniumscottsdale/index.html">Millennium Resort Scottsdale McCormick Ranch</option>
+            <option value="http://www.millenniumhotels.com/millenniumunplazanewyork/index.html">Millennium UN Plaza Hotel New York</option>
+            <option value="http://www.millenniumhotels.com/premierhotelnewyork/index.html">The Premier Hotel</option>
+           <option value="">&nbsp;&nbsp; </option>b
+</select>
+<!--a href="#">View Full Hotel Listing</a--></div>
+<!--div id="headerright">
+<select name="program">
+<option value="">Select Program</option>
+</select>
+<input name="username" type="text" id="username" value="Username" />
+<input name="password" type="text" id="password" value="Password" />
+<input name="submit" type="image" id="submit" src="../../img/header_submit.jpg" style="padding-right:10px;" />
+<a href="#">Forget Password</a></div-->
+<div class="clear"></div>
+</form>
+</div>
+<div class="bg_line"></div>
+<!--end: header -->
+<!--start: topnav -->
+<div id="topnav"><ul><li class="first"><a href="http://www.millenniumhotels.com/">United States</a></li><li><a href="http://www.millenniumhotels.co.uk">United Kingdom</a></li><li><a href="http://www.millenniumhotels.com.sg">Singapore</a></li><li class="last"><a href="http://www.millenniumhotels.co.nz/">New Zealand</a></li></ul></div>
+<!--end: topnav -->
+<div id="mainbody" style="background:url(img/bg_img.jpg) no-repeat #909090;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="216" valign="top">
+<!--start: leftnav -->
+<div id="leftnav">
+<div id="leftnavlogo"><img src="img/logo.gif" alt="" width="216" height="125" border="0"></div>
+<div id="leftnavoverview"><img src="img/leftnav_01c.gif" alt="Overview" name="nav01" width="216" height="24" border="0" id="nav01"></div>
+<div id="leftnavpressroom"><a href="news_global/index.html" onmouseover="MM_swapImage('nav02','','img/leftnav_02b.gif',1)" onmouseout="MM_swapImgRestore();"><img src="img/leftnav_02a.gif" alt="Press Room" name="nav02" width="216" height="23" border="0" id="nav02"></a></div>
+<div id="leftnavportfolio"><a href="globalPortfolio.html" onmouseover="MM_swapImage('nav03','','img/leftnav_03b.gif',1)" onmouseout="MM_swapImgRestore();"><img src="img/leftnav_03a.gif" alt="Global Portfolio" name="nav03" width="216" height="23" border="0" id="nav03"></a></div>
+<div id="leftnavpartnership"><a href="maritimPartnership.html" onmouseover="MM_swapImage('nav04','','img/leftnav_04b.gif',1)" onmouseout="MM_swapImgRestore();"><img src="img/leftnav_04a.gif" alt="Maritim Partnership" name="nav04" width="216" height="23" border="0" id="nav04"></a></div>
+<div id="leftnavtravelagents"><a href="travelAgents.html" onmouseover="MM_swapImage('nav05','','img/leftnav_05b.gif',1)" onmouseout="MM_swapImgRestore();"><img src="img/leftnav_05a.gif" alt="Travel Agents" name="nav05" width="216" height="23" border="0" id="nav05"></a></div>
+<div id="leftnavmilestones"><a href="milestones.html" onmouseover="MM_swapImage('nav06','','img/leftnav_06b.gif',1)" onmouseout="MM_swapImgRestore();"><img src="img/leftnav_06a.gif" alt="Milestones" name="nav06" width="216" height="23" border="0" id="nav06"></a></div>
+<div id="leftnavfeedback"><a href="../forms/feedBackForm.html" onmouseover="MM_swapImage('nav07','','img/leftnav_07b.gif',1)" onmouseout="MM_swapImgRestore();"><img src="img/leftnav_07a.gif" alt="Feedback" name="nav07" width="216" height="23" border="0" id="nav07"></a></div>
+<div id="leftnavcareers"><a href="careers/careers.html" onmouseover="MM_swapImage('nav09','','img/leftnav_09b.gif',1)" onmouseout="MM_swapImgRestore();"><img src="img/leftnav_09a.gif" alt="Careers" name="nav09" width="216" height="23" border="0" id="nav09"></a></div>
+<div id="leftnavbook">
+<form name="leftnavform" action="">
+<img src="img/leftnav_08a.gif" alt="Book Online" width="216" height="23" border="0">
+<div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="padding-top:5px;" colspan="2">
+<select name="synxisCode" style="width:170px;">
+<option value="" selected="selected">Select A Hotel</option>
+            <option value="">CHINA</option>
+            <option value="21222">Copthorne Hotel Qingdao</option>
+            <option value="20587">Grand Millennium Beijing</option>
+            <option value="20162">Millennium Harbourview Hotel Xiamen</option>
+            <option value="14128">Millennium Hongqiao Hotel Shanghai</option>
+	        <option value="">&nbsp;&nbsp; </option>
+            <option value="">EGYPT</option>
+            <option value="17140">Millennium Oyoun Sharm El Sheikh Resort</option>
+            <option value="">&nbsp;&nbsp; </option>
+            <option value="">FRANCE</option>
+            <option value="11486">Millennium Hotel Paris Charles de Gaulle</option>
+            <option value="11487">Millennium Hotel Paris Opéra</option>
+            <option value="">&nbsp;&nbsp; </option>
+            <option value="">GERMANY</option>
+            <option value="11475">Copthorne Hotel Hannover</option>
+            <option value="11489">Millennium Hotel and Resort Stuttgart</option>
+	        <option value="">&nbsp;&nbsp; </option>
+            <option value="">INDONESIA</option>
+	        <option value="11492">Millennium Hotel Sirih Jakarta</option>
+	        <option value="">&nbsp;&nbsp; </option>
+            <option value="">KUWAIT</option>
+	        <option value="20060">Al-Jahra Copthorne Hotel and Resort</option>
+	        <option value="">&nbsp;&nbsp; </option>
+            <option value="">MALAYSIA</option>
+		    <option value="11494">Copthorne Orchid Hotel Penang</option>
+            <option value="18446">Grand Millennium Kuala Lumpur</option>
+           <option value="">&nbsp;&nbsp; </option>
+            <option value="">NEW ZEALAND</option>
+            <option value="11504">Copthorne Hotel Auckland Anzac Avenue</option>
+            <option value="11505">Copthorne Hotel Auckland Harbour City</option>
+			<option value="11509">Copthorne Hotel Christchurch Central</option>
+			<option value="11510">Copthorne Hotel Christchurch Durham Street</option>
+            <option value="11508">Copthorne Hotel Commodore Christchurch Airport</option>
+            <option value="11519">Copthorne Hotel Grand Central New Plymouth</option>
+            <option value="17008">Copthorne Hotel Marlborough</option>
+            <option value="11504">Copthorne Hotel Auckland Anzac Avenue</option>
+            <option value="11505">Copthorne Hotel Auckland Harbour City</option>
+            <option value="11509">Copthorne Hotel Christchurch Central</option>
+            <option value="11510">Copthorne Hotel Christchurch Durham Street</option>
+            <option value="11508">Copthorne Hotel Commodore Christchurch Airport</option>
+            <option value="11519">Copthorne Hotel Grand Central New Plymouth</option>
+            <option value="18110">Copthorne Hotel Taupo</option>
+            <option value="11528">Copthorne Hotel Wellington Oriental Bay</option>
+            <option value="11518">Copthorne Hotel and Resort Bay of Islands</option>
+			<option value="11516">Copthorne Hotel and Resort Hokianga</option>
+			<option value="11532">Copthorne Hotel and Resort Queenstown Lakefront</option>
+			<option value="12459">Copthorne Hotel and Resort Solway Park Wairarapa</option>
+			<option value="11517">Kingsgate Hotel Autolodge Paihia</option>
+			<option value="11526">Kingsgate Hotel Brydone Oamaru</option>
+			<option value="11513">Kingsgate Hotel Dunedin</option>
+			<option value="11514">Kingsgate Hotel Greymouth</option>
+			<option value="11515">Kingsgate Hotel Hamilton</option>
+			<option value="11521">Kingsgate Hotel Palmerston North</option>
+			<option value="11507">Kingsgate Hotel Parnell Auckland</option>
+			<option value="11523">Kingsgate Hotel Rotorua</option>
+			<option value="11525">Kingsgate Hotel Te Anau</option>
+			<option value="11531">Kingsgate Hotel Terraces Queenstown</option>
+			<option value="12458">Kingsgate Hotel The Avenue Wanganui</option>
+			<option value="17761">Kingsgate Hotel Wellington</option>
+			<option value="11530">Kingsgate Hotel Whangarei</option>
+			<option value="11512">Millennium Hotel Christchurch</option>
+			<option value="11522">Millennium Hotel Queenstown</option>
+			<option value="11524">Millennium Hotel Rotorua</option>
+			<option value="11527">Millennium Hotel and Resort Manuels Taupo</option>
+			<option value="">&nbsp;&nbsp; </option>
+            <option value="">PHILIPPINES</option>
+			<option value="11493">The Heritage Hotel Manila</option>
+			<option value="">&nbsp;&nbsp; </option>
+            <option value="">QATAR</option>
+			<option value="15963">Millennium Hotel Doha</option>
+			<option value="">&nbsp;&nbsp; </option>
+            <option value="">SINGAPORE</option>
+			<option value="11498">Copthorne King's Hotel Singapore</option>
+			<option value="11495">Copthorne Orchid Hotel Singapore</option>
+			<option value="11496">Grand Copthorne Waterfront Hotel Singapore</option>
+			<option value="11497">M Hotel Singapore</option>
+			<option value="11499">Orchard Hotel Singapore</option>
+			<option value="">&nbsp;&nbsp; </option>
+            <option value="">THAILAND</option>
+			<option value="19161">Grand Millennium Sukhumvit Bangkok</option>
+			<option value="19392">Millennium Resort Patong Phuket</option>
+			<option value="">&nbsp;&nbsp; </option>
+            <option value="">UAE</option>
+			<option value="19632">Copthorne Hotel Dubai</option>
+			<option value="18109">Grand Millennium Dubai</option>
+			<option value="20935">Kingsgate Hotel Abu Dhabi</option>
+			<option value="11501">Millennium Airport Hotel Dubai</option>
+			<option value="11500">Millennium Hotel Abu Dhabi</option>
+			<option value="11502">Millennium Hotel Sharjah</option>
+			<option value="">&nbsp;&nbsp; </option>
+            <option value="">UNITED KINGDOM</option>
+			<option value="11470">Copthorne Hotel Aberdeen</option>
+			<option value="11471">Copthorne Hotel Birmingham</option>
+			<option value="11473">Copthorne Hotel Cardiff Caerdydd</option>
+			<option value="11476">Copthorne Hotel Effingham Gatwick</option>
+			<option value="11480">Copthorne Hotel London Gatwick</option>
+			<option value="11484">Copthorne Hotel Manchester</option>
+			<option value="11472">Copthorne Hotel Merry Hill Dudley</option>
+			<option value="11485">Copthorne Hotel Newcastle</option>
+			<option value="11488">Copthorne Hotel Plymouth</option>
+			<option value="11490">Copthorne Hotel Reading</option>
+			<option value="21753">Copthorne Hotel Sheffield</option>
+			<option value="11477">Copthorne Hotel Slough Windsor</option>
+			<option value="11482">Copthorne Tara Hotel London Kensington</option>
+			<option value="15486">Millennium &amp; Copthorne Hotels At Chelsea Football Club</option>
+			<option value="11478">Millennium Bailey's Hotel London Kensington</option>
+			<option value="11483">Millennium Gloucester Hotel London Kensington</option>
+			<option value="11474">Millennium Hotel Glasgow</option>
+			<option value="11481">Millennium Hotel London Knightsbridge</option>
+			<option value="11479">Millennium Hotel London Mayfair</option>
+			<option value="11491">Millennium Madejski Hotel Reading</option>
+			<option value="">&nbsp;&nbsp; </option>
+            <option value="">USA</option>
+			<option value="11537">Millennium Alaskan Hotel Anchorage</option>
+			<option value="11535">Millennium Biltmore Hotel Los Angeles</option>
+			<option value="11536">Millennium Bostonian Hotel Boston</option>
+			<option value="11533">Millennium Broadway Hotel New York</option>
+			<option value="11538">Millennium Harvest House Boulder</option>
+			<option value="11779">Millennium Hotel Buffalo</option>
+			<option value="11540">Millennium Hotel Cincinnati</option>
+			<option value="11543">Millennium Hotel Durham</option>
+			<option value="11541">Millennium Hotel Minneapolis</option>
+			<option value="11544">Millennium Hotel St. Louis</option>
+			<option value="11545">Millennium Knickerbocker Hotel Chicago</option>
+			<option value="11542">Millennium Maxwell House Nashville</option>
+			<option value="11546">Millennium Resort Scottsdale McCormick Ranch</option>
+			<option value="11539">Millennium UN Plaza Hotel New York</option>
+			<option value="11534">The Premier Hotel</option>
+			<option value="">&nbsp;&nbsp; </option>
+
+</select>
+</td>
+</tr>
+<tr>
+<td>Arrival</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<select name="arrivaldate" style="width:40px;">
+<option value="01">1</option>
+<option value="02">2</option>
+<option value="03">3</option>
+<option value="04">4</option>
+<option value="05">5</option>
+<option value="06">6</option>
+<option value="07">7</option>
+<option value="08">8</option>
+<option value="09">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+</td>
+<td>
+<select name="selectArrivalMonth" style="width:48px;">
+<option value="01">JAN</option>
+<option value="02">FEB</option>
+<option value="03">MAR</option>
+<option value="04">APR</option>
+<option value="05">MAY</option>
+<option value="06">JUN</option>
+<option value="07">JUL</option>
+<option value="08">AUG</option>
+<option value="09">SEP</option>
+<option value="10">OCT</option>
+<option value="11">NOV</option>
+<option value="12">DEC</option>
+</select>
+
+<select name="arrivalYear" style="width:50px;">
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+</select>
+<a href="#" onclick="show_calendar('leftnavform.mydate', 0, 2008, 'DD-MM-YYYY', 'INLINE', 'CallFunction=TryCallFunction;InlineX=60;InlineY=150;Title=Calendar;AllowHolidays=Yes;AllowWeekends=Yes;Resizable=No;')" onmouseover="this.style.cursor='hand';"><img src="img/img_calendar.gif" alt="" name="icnCalendarDate" width="16" height="13" border="0" id="icnCalendarDate"></a>
+<input name="mydate" type="hidden" id="mydate" value="">
+</td>
+</tr>
+<tr>
+<td width="50" style="padding-top:5px;">Nights</td>
+<td style="padding-top:5px;">Adults</td>
+</tr>
+<tr>
+<td width="50">
+<select name="NoOfNights">
+<option selected="selected" value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+</select>
+</td>
+<td>
+<select name="NoOfAdults">
+<option selected="selected" value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+</select>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-top:5px;"><select name="promo_code">
+<option value="promo">Corp/Promo Code</option>
+<option value="group">Group Code</option>
+<option value="iata">IATA No.</option>
+</select>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="2" style="padding-top:5px;">
+<input name="code" type="text" id="code" maxlength="24">
+<a href="javascript:submitLeftNavForm();"><img src="img/btn_search.gif" alt="Search" width="63" height="23" border="0" align="middle"></a></td>
+</tr>
+</tbody></table>
+</div>
+</form>
+</div>
+</div>
+<!--end: leftnav -->
+</td>
+<td width="661" valign="top">
+<!--start: mainbody -->
+
+<div id="content">
+<img src="img/img_header.jpg" alt="" width="601" height="173" border="0"><br>
+<div id="contentbody">
+<div id="pageheader">
+<h1 class="section">Privacy Policy</h1>
+&nbsp;|&nbsp;
+<h1 class="subsection"></h1>
+</div>
+<div id="dottedline">&nbsp;</div>
+<p>
+<strong>The Millennium Hotels Privacy Policy and Disclosure</strong>
+<br>Millennium Hotels and Resorts ("Millennium") directly, or through its third-party vendors
+collects on or from this website certain information provided by its customers so that it can
+provide its hotel services and products, including the ability to make reservations for Millennium
+Hotels on-line. The Millennium website also allows customers to communicate with Millennium on
+issues of customer service and to provide feedback on services. Millennium sometimes uses this
+customer information to analyze customers’ interests so that it can tailor programs and special
+offers. A list of website names ("URLs") to which this Policy applies is set forth below:
+<br>
+<br>www.millenniumhotels.com
+<br>www.millenniumhotels.com/fgrclub
+<br>
+<br>
+<strong>Categories of Information Millennium Collects</strong>
+<br>
+<br>
+<strong>Reservations</strong>
+<br>To process a reservation for a Millennium Hotel, Millennium will ask for the customer’s name,
+mailing address, billing address, electronic-mail information, telephone number, credit-card
+information, arrival and departure dates, and airline frequent-flier information or information on
+similar customer-loyalty programs. Millennium also asks for the customer’s room preferences and any
+special requests or needs.
+<br>
+<br>
+<strong>Customer Service</strong>
+<br>When Millennium customers make customer-service requests, Millennium will ask for the
+customer’s name, mailing address or electronic-mail information, telephone number and other
+information that will allow Millennium to respond to the request or to resolve any problems at our
+Hotels.
+<br>
+<br>
+<strong>Electronic Surveys</strong>
+<br>Millennium conducts online surveys from time to time to evaluate its services. Participation
+in such surveys is voluntary, but customer information is collected for verification purposes, such
+as name, mailing address, and electronic mail address.
+<br>
+<br>
+<strong>Contests</strong>
+<br>Millennium Hotels sometimes offer special promotions, contests, or sweepstakes through which
+customers can win prizes. Each of these promotions, contests and sweepstakes will have a set of
+terms and conditions that apply to that event. In some cases, the customer is automatically entered
+in the contest simply by using the Millennium website or meeting some other condition for that
+contest. In entering such a promotion, contest, or sweepstake, the customer’s name, electronic-mail
+address, or other personal information will be collected to identify the customer and for
+notification purposes.
+<br>
+<br>
+<strong>Cookies</strong>
+<br>"Cookies" are bits of electronic information (strings of text) that a computer user’s browser
+and operating system store on the user's computer hard drive. For example, cookies can store a
+user's electronic personal identification and password, identify which parts of a website the user
+visits, and keep track of purchases or selections the user made on visits to the website. The use
+of cookies is quite common.
+<br>
+<br>Millennium may issue and use cookies to enhance the customer's visit and the services offered
+on the sites. Websites often consist of many pages of content. Cookies allow the customer to find
+the information and offers of interest quickly and easily. The use of cookie technology may help
+Millennium to achieve that objective.
+<br>
+<br>Millennium may issue and use cookies to keep track of the areas of the websites that interest
+customers. In doing so, Millennium can determine aspects of websites that are most popular.
+Improvements and updates to the Millennium website are often based on such data. This information
+can be tracked best with cookies.
+<br>
+<br>Customers who visit websites may be presented with targeted advertising and special offers
+both directly through the website and from electronic mail based on preferences collected by
+cookies.
+<br>
+<br>Customers who register under websites and allow their computers to accept cookies provide
+information by which Millennium can both align the customer with his or her personal preferences
+and provide faster and easier access to the Millennium website's benefits.
+<br>
+<br>Customers who submit electronic-mail addresses may receive targeted messages that Millennium
+believes may be of interest. Any customer may, at any time, request to be removed from such
+electronic lists and Millennium will comply with the request.
+<br>
+<br>Customers can choose to accept or reject cookies by modification to the computer browser.
+These options are generally set forth in files or menus listing "Internet Options".
+<br>
+<br>
+<strong>Millennium FGR</strong>
+<br>Enrolment to the Millennium Frequent Guest Recognition Programme known as the "FGR" is by
+invitation only. The information that a customer provides to Millennium at the time of enrolment as
+a member of the Programme may be accessed, reviewed and updated at any time by the customer
+visiting the website and logging on using the customer’s FGR Membership Number and Password, and
+clicking on to "Update My Profile".
+<br>
+<br>
+<strong>Use of Information Collected</strong>
+<br>Millennium may share the customer information it collects with its personnel and with the
+owners and operators of Millennium Hotels. Millennium may also share information with select third
+parties who offer goods or services that may be of interest to Millennium customers. Millennium may
+also share such information with other companies with whom it has entered into cooperative or
+co-sponsored promotions, products, or services. When customers use credit cards to purchase goods
+or services, Millennium may share information provided by customers with the credit card company.
+<br>
+<br>
+<strong>Legal Requirements</strong>
+<br>Millennium will also disclose customer information, without the customer's permission, if
+Millennium believes, in good faith, that such disclosures are required by any applicable law or
+court order or if such disclosures are necessary to investigate activities that may be harmful or
+injurious to the Millennium website, to Millennium guests, employees, or agents, or to any
+Millennium hotels.
+<br>
+<br>
+<strong>Service Providers</strong>
+<br>Millennium relies on third parties to provide services both through the Millennium website
+and in other communications. While Millennium generally requires such providers to conform to these
+privacy policies and guidelines, Millennium cannot control and shall not be responsible for their
+conduct if they fail to abide by these policies and guidelines.
+<br>
+<br>
+<strong>Third Party Websites</strong>
+<br>Millennium cannot control and is not responsible for the collection of personal information
+by third-party websites, including websites owned or controlled by hotel room sellers, travel
+companies, or other distributors or any websites not controlled or authorized by Millennium.
+Customers may be able to access third-party websites through links on the Millennium websites. Such
+third-party websites have their own separate privacy practices. Millennium has no control over and
+no responsibility or liability for the practices and policies implemented by such third parties on
+their websites. Certain third-party websites may have received permission from Millennium to use
+Millennium trademarks, but may not provide a link to this Privacy Policy and disclosure. Customers
+should communicate directly with such websites to get information about their privacy practices and
+policies.
+<br>
+<br>This Policy and Disclosure does not cover customers who enter the Millennium websites through
+links from non-Millennium sites, such as those of advertisers or other content providers.
+<br>
+<br>
+<strong>Privacy Policy Changes</strong>
+<br>Millennium reserves the right to make changes to this Privacy Policy and Disclosure.
+Millennium will post such revisions by a link on this website.
+<br>
+<br>
+<strong>Effective Date</strong>
+<br>This Privacy Policy and Disclosure became effective as of 
+<strong>July 1, 2004</strong>.
+<br>
+<br>
+<strong>Notice to California Residents</strong>
+<br>Under California law, individual customers who reside in California and who provide personal
+information to Millennium may request information about disclosures of certain categories of
+personal information to third parties for their direct-marketing purposes. California residents
+should submit such requests for information to the following addresses:
+<br>
+<br>
+<em>By electronic mail:</em>
+<br>sng@mill-usa.com
+<br>
+<br>
+<em>By regular mail:</em>
+<br>Millennium Hotels and Resort
+<br>New York Regional Office
+<br>145 West 44th Street, Sixth Floor
+<br>New York, New York 10036
+<br>Attention: Sean Ng
+<br>
+<br>Millennium will provide within 30 days of receiving such a request a list of categories of
+personal information disclosed to third parties for third-party direct-marketing purposes during
+the immediately preceding calendar year, together with the names and addresses of such third
+parties. Such requests may be made only once per calendar year. Millennium reserves the right not
+to respond to such requests if they are not submitted to one of the addresses set forth above.
+<br>
+<br>In order to provide multiple access points to the services and products we offer, Millennium
+Hotels and Resorts operates directly, or through its affiliates or service providers, many web
+sites, including:
+<br>
+<br>www.millenniumhotels.com; www.millennium-hotels.com; www.copthorne.com;
+www.copthornehotels.com; www.kingsgatehotels.com; wwwweloveagents.com and www.we
+lovemeetingplanners.com
+<br>
+<br>Any one of these web sites may ask for and collect personally identifiable information in
+order to enhance your experience and provide you with relevant information.</p>
+</div>
+</div>
+
+<!--end: mainbody -->
+</td>
+</tr>
+</tbody></table>
+</div>
+<!--start: footer -->
+<div id="footer">
+<div class="bg_line"></div>
+<div id="footerleft"><a href="http://www.millenniumhotels.com/corporate/hotels/hotelsMillennium.html"><img src="img/footer_millennium.jpg" alt="Millennium" width="79" height="9" border="0"></a><a href="http://www.millenniumhotels.com/corporate/hotels/copthorneHotels.html"><img src="img/footer_copthorne.jpg" alt="Copthorne" width="87" height="9" border="0"></a><a href="http://www.millenniumhotels.com/corporate/hotels/kingsgateHotels.html"><img src="img/footer_kingsgate.jpg" alt="Kingsgate" width="74" height="9" border="0"></a></div>
+<div id="footerright">
+<ul>
+<li class="first"><a href="http://www.millenniumhotels.com/corporate/index.html">Corporate</a></li>
+<li><a href="http://www.millenniumhotels.com/corporate/investor_relations/financialLibrary.html">Investor Relations</a></li>
+<li><a href="http://www.millenniumhotels.com/corporate/legalInfo.html">Legal</a></li>
+<li><a href="http://www.millenniumhotels.com/corporate/contact_us/enquiriesReservation.html">Contact Us</a></li>
+<li><a href="http://www.millenniumhotels.com/corporate/siteMap.html">Sitemap</a></li>
+<li><a href="http://www.millenniumhotels.com/corporate/faq/faq.html">FAQ</a></li>
+<li><a href="http://www.millenniumhotels.com/corporate/privacyPolicy.html">Privacy</a></li>
+<li class="last"><a href="http://www.millenniumhotels.com/corporate/termsConditions.html">T&amp;C</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+<div id="footercenter"></div>
+<div id="footercopyright">Copyright ® 2008 Millennium Hotels &amp; Resorts. All rights reserved.</div>
+</div>
+<!--end: footer -->
+</td>
+<td width="10" valign="top"><img src="img/shadow_right.jpg" alt="" width="10" height="585" border="0"></td>
+</tr>
+</tbody></table>
+</div>
+<div style="display:none;">
+<!-- SiteCatalyst code version: H.2. -->
+<script language="javascript" type="text/javascript" src="http://www.millenniumhotels.com/inc/s_code.js"></script>
+<script language="javascript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
+s.pageName="";
+s.server="";
+s.channel="";
+s.pageType="";
+s.prop1="";
+s.prop2="";
+s.prop3="";
+s.prop4="";
+s.prop5="";
+s.events="";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="javascript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img
+src="http://MillenniumHotelsTst.122.2O7.net/b/ss/MillenniumHotelsTst/1/H.2--NS/0?[AQB]&amp;cdp=3&amp;[AQE]"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.2. -->
+</div>
+
+
+</body></html>
