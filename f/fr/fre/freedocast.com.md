@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the freedocast.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614051936id_/http%3A//www.freedocast.com/f/ppc.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedocast.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025327id_/http%3A//www.freedocast.com/ppc.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  |  | privacy policy  
----  
-  
 1\. INTRODUCTION
 
 By using the Freedocast our website, the User consents to the collection, use, and storage of User information by Freedocast in the manner described in this Privacy Policy and elsewhere on the Freedocast sites. This Privacy Policy applies only to information Freedocast and the Services collects about the User and does not apply to information about the User collected by Freedocast’s affiliated providers or third party websites and offerings linked to or otherwise accessible from the Freedocast website or the Services. The information collected or received by Freedocast’s affiliated providers and/ or third parties is subject to their own privacy policies. 
@@ -25,7 +22,7 @@ Any personal information or video content that the User voluntarily discloses on
 
 **Other Methods.**
 
-The Freedocast web pages may contain electronic.../images (called "single-pixel GIFs" or "web beacons") that allow Freedocast and its affiliates to count users who have visited particular pages or to access certain cookies. These tools and other technologies to may be used to recognize which pages users visit, and which links they click on. These features may also be included in email newsletters so that Freedocast may learn which messages have been opened and acted upon. These tools may also enable Freedocast to verify online purchases by the User from the Freedocast sites or from third party sites that have agreed to share such information with Freedocast. Browser Level Information and IP Addresses. The Freedocast web servers automatically collect limited information about the User’s computer configuration, including browser software, the operating system, the website that referred the User, and the User’s Internet Protocol (“IP”) address browser language, platform type, number of clicks, domain names, landing pages, pages viewed, the order of those pages, and the amount of time spent on particular pages, the date and time of the User’s request, and one or more cookies that may uniquely identify the User’s browser. 
+The Freedocast web pages may contain electronic.images (called "single-pixel GIFs" or "web beacons") that allow Freedocast and its affiliates to count users who have visited particular pages or to access certain cookies. These tools and other technologies to may be used to recognize which pages users visit, and which links they click on. These features may also be included in email newsletters so that Freedocast may learn which messages have been opened and acted upon. These tools may also enable Freedocast to verify online purchases by the User from the Freedocast sites or from third party sites that have agreed to share such information with Freedocast. Browser Level Information and IP Addresses. The Freedocast web servers automatically collect limited information about the User’s computer configuration, including browser software, the operating system, the website that referred the User, and the User’s Internet Protocol (“IP”) address browser language, platform type, number of clicks, domain names, landing pages, pages viewed, the order of those pages, and the amount of time spent on particular pages, the date and time of the User’s request, and one or more cookies that may uniquely identify the User’s browser. 
 
 **Third Party.**
 
@@ -89,8 +86,4 @@ Freedocast may update or revise this Privacy Policy from time to time and the Us
 
 13\. CONTACT INFORMATION
 
-Users may contact Freedocast with any questions or comments about this Privacy Policy using the contact form or may address such queries and / or comments to: [privacy@globaltakeoff.com](mailto:privacy@globaltakeoff.com)  
-  
-  
-  
- 
+Users may contact Freedocast with any questions or comments about this Privacy Policy using the contact form or may address such queries and / or comments to: [ privacy@globaltakeoff.com](mailto:privacy@globaltakeoff.com)
