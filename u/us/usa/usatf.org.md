@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509130958id_/http%3A//www.usatf.org/about/privacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217234243id_/http%3A//www.usatf.org/about/privacyStatement.asp) for the most accurate reproduction.*
 
 # USATF - Privacy Statement
 
 USA Track & Field Privacy Statement
 
-Revised 10-9-01
+Revised 10/9/2001
 
 Sections
 
@@ -16,7 +16,7 @@ Sections
 
 
 
-If you feel that we are not abiding by our posted privacy statement, you should first contact Keith Lively, Multimedia Manager, at [Keith.Lively@usatf.org](mailto:Keith.Lively@usatf.org) or at (317) 713-4672. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Lamont Jones, General Counsel, at [Lamont.Jones@usatf.org](mailto:Jill.Pilgrim@usatf.org) or at (317) 713-4683.
+If you feel that we are not abiding by our posted privacy statement, you should first contact Keith Lively, Multimedia Manager, at [Keith.Lively@usatf.org](mailto:Keith.Lively@usatf.org) or at (317) 713-4672. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Lamont Jones, General Counsel, at [Lamont.Jones@usatf.org](mailto:Lamont.Jones@usatf.org) or at (317) 713-4683.
 
 1\. The Organization Collecting the Information
 
