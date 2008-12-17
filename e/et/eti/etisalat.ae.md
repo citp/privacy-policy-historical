@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the etisalat.ae privacy policy that was archived on 2008-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080212123307id_/http%3A//www.etisalat.ae/index.jsp%3Flang%3Den%26type%3Dcontent%26contentid%3Dc6a202334eb5b010VgnVCM1000000c24a8c0RCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etisalat.ae privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044410id_/http%3A//www.etisalat.ae/index.jsp%3Flang%3Den%26type%3Dcontent%26contentid%3Dc6a202334eb5b010VgnVCM1000000c24a8c0RCRD) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.addthis.com/bookmark.php)
 
 This **Privacy Policy** for Etisalat Website (www.etisalat.ae) is to be read and used in connection with the Terms & Conditions which are also published on this website.
 
