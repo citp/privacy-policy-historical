@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 16frames.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617054517id_/http%3A//www.16frames.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 16frames.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064606id_/http%3A//www.16frames.com/PrivacyPolicy1.aspx) for the most accurate reproduction.*
 
-# Live Video Streaming, Online Photo Printing & Video Publishing, Send Photos & Videos to India
+# Send Photos to India, Live Telugu TV Channels, Live Video From India - Ship Photo Gifts to India, Online Digital Photo Printing, Live Indian TV Channels, Talent Show Case
 
-#### Privacy Policy
+##### Privacy Policy
 
 You take online privacy seriously, and so does 16Frames Inc. It's our way of sustaining your trust in  
 16Frames as well as in our products and services. We respect your privacy!
