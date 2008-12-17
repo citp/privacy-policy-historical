@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609045442id_/http%3A//www.yepme.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105532id_/http%3A//www.yepme.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # :: Yepme :: Privacy Policy ::
 
@@ -6,7 +6,7 @@
 
            
 
-Yepme websites are owned and operated by VAS Global. Please read this Privacy Policy, which tells you what information we collect from users of the Yepme websites, how we use that information, and with whom we may share it. Unless defined in this Privacy Policy Conduct, terms capitalized but not defined herein are defined in the Terms & Conditions. In this Privacy Policy VAS Global is referred to as " **VAS Global** ," " **we** ," " **us** ," or " **our** " and you the end user are referred to as " **you** " or " **your** ".     
+Yepme websites are owned and operated by Vas Data Services Private Limited. Please read this Privacy Policy, which tells you what information we collect from users of the Yepme websites, how we use that information, and with whom we may share it. Unless defined in this Privacy Policy Conduct, terms capitalized but not defined herein are defined in the Terms & Conditions. In this Privacy Policy Vas Data Services Private Limited is referred to as " **Vas Data Services Private Limited** ," " **we** ," " **us** ," or " **our** " and you the end user are referred to as " **you** " or " **your** ".     
 
                   **How Personal Information Is Collected and Updated**
 
@@ -34,7 +34,7 @@ Yepme websites are owned and operated by VAS Global. Please read this Privacy Po
 
  _Communications._
 
-We may send you communications about updates, and new services from time to time. If you do not want to receive these communications you can opt out by sending an email to [support@Yepme.com](mailto:support@winpossible.com). 
+We may send you communications about updates, and new services from time to time. If you do not want to receive these communications you can opt out by sending an email to [info@vasdata.com](mailto:info@vasdata.com). 
 
 _Processing Payments._
 
@@ -42,7 +42,7 @@ For credit card purchasers, we provide to the relevant financial institution you
 
 _Legal Requirements._
 
-VAS Global reserves the right to disclose your personal information as necessary to: (1) comply with the law or comply with legal process served on VAS Global; (2) protect and defend the rights or property of VAS Global; (3) protect the personal safety of other Yepme websites users or the public; or (4) to ensure compliance with our Terms & Conditions. VAS Global cooperates with law enforcement and other third parties to enforce laws, intellectual property, and other rights, and we reserve the right to report any information related to suspicion of illegal activity to law enforcement for prosecution. 
+Vas Data Services Private Limited reserves the right to disclose your personal information as necessary to: (1) comply with the law or comply with legal process served on Vas Data Services Private Limited; (2) protect and defend the rights or property of Vas Data Services Private Limited; (3) protect the personal safety of other Yepme websites users or the public; or (4) to ensure compliance with our Terms & Conditions. Vas Data Services Private Limited cooperates with law enforcement and other third parties to enforce laws, intellectual property, and other rights, and we reserve the right to report any information related to suspicion of illegal activity to law enforcement for prosecution. 
 
                   **Third Parties**
 
@@ -50,11 +50,11 @@ VAS Global reserves the right to disclose your personal information as necessary
 
                   **Business Transfers**
 
-                  Information about Yepme websites users, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of the business assets of VAS Global.   
+                  Information about Yepme websites users, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of the business assets of Vas Data Services Private Limited.   
 
                   **Non-personal User Information**
 
-                  An IP address is a number that is automatically assigned to your computer whenever you're surfing the Internet. When you request pages from Yepme websites, our servers log your computer's IP address. Yepme collects these IP addresses for the sole purpose of identifying our users' service providers (whether AOL, MSN, etc.) so we can better develop our offerings at the Yepme websites. We do not automatically link IP addresses to anything personally identifiable, however we can and will use IP addresses to identify users when we feel it is necessary to: (1) comply with the law or comply with legal process served on VAS Global; (2) protect and defend the rights or property of VAS Global; (3) protect the personal safety of other Yepme websites users or the public; or (4) to ensure compliance with our Terms & Conditions.   
+                  An IP address is a number that is automatically assigned to your computer whenever you're surfing the Internet. When you request pages from Yepme websites, our servers log your computer's IP address. Yepme collects these IP addresses for the sole purpose of identifying our users' service providers (whether AOL, MSN, etc.) so we can better develop our offerings at the Yepme websites. We do not automatically link IP addresses to anything personally identifiable, however we can and will use IP addresses to identify users when we feel it is necessary to: (1) comply with the law or comply with legal process served on Vas Data Services Private Limited; (2) protect and defend the rights or property of Vas Data Services Private Limited; (3) protect the personal safety of other Yepme websites users or the public; or (4) to ensure compliance with our Terms & Conditions.   
 
                   **Cookies**
 
@@ -79,11 +79,11 @@ Yepme uses cookies for a variety of reasons, including without limitation the fo
 
 We do not store in cookies any passwords or credit card information, any information that personally identifies you, or any information that tracks you from session to session.    
 
-                     **Steps You Can Take to Protect Your Privacy**
+                **Steps You Can Take to Protect Your Privacy**
 
  _Links to Other Websites:_
 
-You should be aware that when you are on any Yepme website, you could be directed to other websites hosted by third parties. We do not endorse those websites. For example, if you "click" a link to a third party site we have listed on one of the pages on the Yepme websites, the "click" takes you off the applicable Yepme websites. VAS Global is not responsible for the content or information collection practices of these websites. Please note that these websites may have privacy policies that differ from this Privacy Policy. We encourage you to review and understand their privacy practices before providing them with information. 
+You should be aware that when you are on any Yepme website, you could be directed to other websites hosted by third parties. We do not endorse those websites. For example, if you "click" a link to a third party site we have listed on one of the pages on the Yepme websites, the "click" takes you off the applicable Yepme websites. Vas Data Services Private Limited is not responsible for the content or information collection practices of these websites. Please note that these websites may have privacy policies that differ from this Privacy Policy. We encourage you to review and understand their privacy practices before providing them with information. 
 
 _What You Disclose:_
 
@@ -95,8 +95,8 @@ Your access to your account is password-protected and only you are authorized to
 
 _No Guarantee of Security._
 
-No data transmission over the Internet is guaranteed to be secure. VAS Global does not ensure or warrant the security of any personal or other information you transmit to us including without limitation via the Yepme websites.  
+No data transmission over the Internet is guaranteed to be secure. Vas Data Services Private Limited does not ensure or warrant the security of any personal or other information you transmit to us including without limitation via the Yepme websites.  
 
-                       **Contact Information**
+                  **Contact Information**
 
-                  If you have questions or concerns regarding this Privacy Policy, please contact our support at [info@vasglobal.com](mailto:info@vasglobal.com).           
+                  If you have questions or concerns regarding this Privacy Policy, please contact our support at [info@vasdata.com](mailto:info@vasdata.com).           
