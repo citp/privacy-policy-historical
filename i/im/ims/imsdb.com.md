@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526235155id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217074701id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Script Database (IMSDb)
 
@@ -26,11 +26,11 @@ Save the seals
   
 Latest Comments   
 ---  
-[Platoon](https://web.archive.org/Movie%20Scripts/Platoon%20Script.html)| 10/10  
-[Sixth Sense, The](https://web.archive.org/Movie%20Scripts/Sixth%20Sense,%20The%20Script.html)| 10/10  
-[All About Eve](https://web.archive.org/Movie%20Scripts/All%20About%20Eve%20Script.html)| 10/10  
-[Collateral](https://web.archive.org/Movie%20Scripts/Collateral%20Script.html)| 9/10  
-[Big Fish](https://web.archive.org/Movie%20Scripts/Big%20Fish%20Script.html)| 10/10  
+[Batman Begins](https://web.archive.org/Movie%20Scripts/Batman%20Begins%20Script.html)| 10/10  
+[Gladiator](https://web.archive.org/Movie%20Scripts/Gladiator%20Script.html)| 8/10  
+[Catwoman](https://web.archive.org/Movie%20Scripts/Catwoman%20Script.html)| 10/10  
+[Pearl Harbor](https://web.archive.org/Movie%20Scripts/Pearl%20Harbor%20Script.html)| 1/10  
+[Clerks](https://web.archive.org/Movie%20Scripts/Clerks%20Script.html)| 10/10  
   
 Other sites   
 ---  
