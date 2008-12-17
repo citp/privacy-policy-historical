@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dollielove.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510234501id_/http%3A//www.dollielove.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollielove.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217115357id_/http%3A//www.dollielove.com/privacypolicy.shtml) for the most accurate reproduction.*
 
-# Happy Mother's Day Comment Graphics, Mother's Day Myspace Graphics, Myspace Music Player Skins, Myspace Comment Boxes, Girly Layouts, Double Background Layouts, Default Layouts, Girly Quote Layouts, Skinny Layouts, Myspace Picture Captions, Myspace Contact Buttons, Pregnancy Comments, Love Quotes, Happy Birthday Comments, Sweet 16th Birthday Comments
+# Myspace Layouts, Skinny Layouts, Myspace Contact Buttons, Myspace Scroll Boxes
 
   
 **Dollielove.com Privacy Policy**   
