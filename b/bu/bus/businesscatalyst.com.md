@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businesscatalyst.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212092637id_/http%3A//businesscatalyst.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesscatalyst.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062502id_/http%3A//www.businesscatalyst.com/privacypolicy) for the most accurate reproduction.*
 
-# Business Catalyst Privacy Policy
+# Business Catalyst - Privacy Policy
 
 Business Catalyst respects your privacy and is committed to protecting your personal information that you provide to us. This statement explains our policies and practices regarding the use and disclosure of your personal information by Business Catalyst. Please note that, Business Catalyst reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how Business Catalyst collects and uses personal information. By using our web site, you consent to the collection and use of your personal information by Business Catalyst as explained below.
 
