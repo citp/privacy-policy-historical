@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the worldpress.org privacy policy that was archived on 2008-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080615011015id_/http%3A//www.worldpress.org/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldpress.org privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217143711id_/http%3A//www.worldpress.org/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+
 <title>Worldpress.org - Privacy Policy</title>
 <meta name="keywords" content="World Press Review, World News, World Newspapers, World Maps">
 <meta name="description" content="Worldpress.org's privacy policy.">
@@ -11,89 +13,46 @@
 <link rel="stylesheet" href="./includes/filter2.css" type="text/css">
 
 
-
-<script language="JAVASCRIPT" type="text/javascript">
-
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['textfield']=true;
+</script>
+<script type="text/javascript">
 <!--
-
-
-function _CF_onError(form_object, input_object, object_value, error_message)
+    _CF_checkCFForm_1 = function(_CF_this)
     {
-	alert(error_message);
-       	return false;	
-    }
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
 
-
-
-function _CF_hasValue(obj, obj_type)
-    {
-    if (obj_type == "TEXT" || obj_type == "PASSWORD")
-	{
-    	if (obj.value.length == 0) 
-      		return false;
-    	else 
-      		return true;
-    	}
-    else if (obj_type == "SELECT")
-	{
-        for (i=0; i < obj.length; i++)
-	    	{
-		if (obj.options[i].selected)
-			return true;
-		}
-
-       	return false;	
-	}
-    else if (obj_type == "SINGLE_VALUE_RADIO" || obj_type == "SINGLE_VALUE_CHECKBOX")
-	{
-
-		if (obj.checked)
-			return true;
-		else
-       		return false;	
-	}
-    else if (obj_type == "RADIO" || obj_type == "CHECKBOX")
-	{
-
-        for (i=0; i < obj.length; i++)
-	    	{
-		if (obj[i].checked)
-			return true;
-		}
-
-       	return false;	
-	}
-	}
-
-
-function  _CF_checkCFForm_1(_CF_this)
-
-    {
-
-    if  (!_CF_hasValue(_CF_this.textfield, "TEXT" )) 
-
+        //form element textfield required check
+        if( !_CF_hasValue(_CF_this['textfield'], "TEXT", false ) )
         {
-
-        if  (!_CF_onError(_CF_this, _CF_this.textfield, _CF_this.textfield.value, "Please enter keyword."))
-
-            {
-
-            return false; 
-
-            }
-
+            _CF_onError(_CF_this, "textfield", _CF_this['textfield'].value, "Please enter keyword.");
+            _CF_error_exists = true;
         }
 
 
-    return true;
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
 
+            }
+            return false;
+        }else {
+            return true;
+        }
     }
-
-
 //-->
-
 </script>
-
 </head>
 
 <body bgcolor="#ffffff">
@@ -118,7 +77,7 @@ function cachebuster () {
   var stampDate = new Date();
   if (v4p) { // 4.0+ browser
     var k = stampDate.getMilliseconds();
-    jStamp = "20080614091015" + k; 
+    jStamp = "20081217093711" + k; 
   } else {
     x = 999;
     randomizer();
@@ -162,7 +121,31 @@ function cachebuster () {
 <tbody><tr valign="top">
     <td width="24" class="adtxt">&nbsp;</td>
     <td width="712" class="adtxt"><div class="left"><img src="http://www.worldpress.org/images/advert.gif" alt="" border="0"></div>
-    <script type="text/javascript" src="http://www.worldpress.org/adsys/ads.cfm?c=3AEA1536-DF36-4921-912A5C8B30379725"></script></td>
+    
+    <script type="text/javascript" src="http://www.worldpress.org/adsys/ads.cfm?c=3AEA1536-DF36-4921-912A5C8B30379725"></script>
+
+
+
+<!-- JavaScript Only -->
+<script type="text/javascript">
+var jStamp;
+var stampDate = new Date();
+var k = stampDate.getMilliseconds();
+jStamp = "20080711064702" + k;
+// -->
+</script>
+
+<!--
+<script language="JavaScript">
+	document.write('<script language="JavaScript1.1" src="http://altfarm.mediaplex.com/ad/js/58249?mpt='+jStamp+'&mpvc="></scr'+'ipt>');
+</script>
+<noscript>
+	<a href="http://altfarm.mediaplex.com/ad/ck/58249?mpt=686067">
+	<img src="http://altfarm.mediaplex.com/ad/bn/58249?mpt=686067" alt="Click this Mojo Ad" border="0"></a>
+</noscript>
+-->
+
+	</td>
     <td width="24" class="adtxt">&nbsp;</td>
 </tr>
 </tbody></table>
@@ -176,12 +159,10 @@ function cachebuster () {
   <td width="150">
 
   <div id="wprleftbar">
-    <!-- ::: LEFT BAR ::: -->
-  
-  <form name="CFForm_1" action="http://www.worldpress.org/search/index.cfm?search=yes" method="POST" onsubmit="return _CF_checkCFForm_1(this)">
+    <!-- ::: LEFT BAR ::: --> <form name="CFForm_1" id="CFForm_1" action="http://www.worldpress.org/search/index.cfm?search=yes" method="POST" onsubmit="return _CF_checkCFForm_1(this)">
     <div class="date">
       <script type="text/javascript" src="http://www.worldpress.org/includes/leftbar.js"></script>
-      <noscript>Jun. 14, 2008</noscript> </div>
+      <noscript>Dec. 17, 2008</noscript> </div>
     <table width="150" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr valign="top">
         <td class="color1"><img src="http://www.worldpress.org/images/leftbar/search2.gif" alt="Search" width="150" height="20" border="0"></td>
@@ -198,7 +179,7 @@ function cachebuster () {
       </tr>
       <tr valign="top">
         <td class="search">
-          <input type="text" name="textfield" class="tbox" size="8">
+          <input name="textfield" id="textfield" type="text" class="tbox" size="8">
         </td>
       </tr>
       <tr valign="top">
@@ -299,433 +280,40 @@ function cachebuster () {
     </tbody></table>
     <p><a href="http://www.worldpress.org/cartoons.cfm"><img src="http://www.worldpress.org/cartoons/worldcartoons-1.gif" alt="World in cartoons" width="150" height="120" border="0"></a></p>
 
-
-
-	
-	
-	
-
-		
-
-				
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-		
-			
-		
-		
-				
-			
-		
-		
-		
-		
-
-		<table width="100%" border="0" cellspacing="1" cellpadding="2" class="x" style="margin-top: 5px;">
+<table width="100%" border="0" cellspacing="1" cellpadding="2" class="x" style="margin-top: 5px;">
 <tbody><tr valign="top"><td style="background: #800000; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #ffffff;"><strong>ADVERTISEMENTS</strong></td></tr>
 <tr valign="top"><td style="background: #cc9999; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #000000;"> 
 Legal <a href="http://www.lexingtonlaw.com/" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">credit repair</a> <br>from Lexington Law, the largest and most trusted firm in<br>
-      <a href="http://www.lexingtonlaw.com/" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;" target="_blank">credit report repair.</a><br><br><a href="http://www.lexingtonlaw.com/about-lexington-law/" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;" target="_blank">Lexington Law</a> has helped over 300,000 clients<br>
+      <a href="http://www.lexingtonlaw.com/" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;" target="_blank">credit report repair.</a><br><br><a href="http://www.lexingtonlaw.com/about-lexington-law/" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;" target="_blank">Lexington Law</a> has helped over 500,000 clients<br>
 
       <a href="http://www.lexingtonlaw.com/" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;" target="_blank">improve their credit.</a> <br><br>More Credit Resources:<br>
       <a href="http://www.insidebadcredit.com/" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;" target="_blank">Inside Bad Credit</a> <br>
-      <a href="http://www.creditrepair.com/" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;" target="_blank">Credit Repair.com</a> <br>
-      <a href="http://www.creditoptions.com/" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;" target="_blank">Credit Options</a><br>
+      <a href="http://www.creditexcel.com/" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;" target="_blank">Credit Excel</a><br>
 </td></tr>
 <tr><td bgcolor="#ffffff" height="2"></td></tr>
 </tbody></table>
-					
-				
-		
-	
-
-
-
-	
-	
-	
-
-		
-
-				
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-		
-			
-		
-		
-				
-			
-		
-		
-		
-		
-
-		<table width="100%" border="0" cellspacing="1" cellpadding="2" class="x" style="margin-top: 5px;">
+					<table width="100%" border="0" cellspacing="1" cellpadding="2" class="x" style="margin-top: 5px;">
 <tbody><tr valign="top"><td style="background: #666666; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #ffffff;"><strong>ADVERTISEMENTS</strong></td></tr>
 <tr valign="top"><td style="background: #cccccc; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #000000;"> 
-<a href="http://www.desperateseller.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Used  Cars for Sale</a><br><a href="http://www.ticketcity.com/Championship-Events-Tickets.html" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">US Open Tickets</a><br><a href="http://www.ticketcity.com/College-Football-Tickets.html" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">College Football Tickets</a><br><a href="http://www.usedcarexpert.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Avoid Used Car Faults</a><br><a href="http://www.ticketcity.com/Kentucky-Derby-Tickets.html" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Kentucky Derby Tickets</a><br><a href="http://www.northumbrianumbers.com/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Number Plates</a><br><a href="http://www.ticketcity.com/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Rugby World Cup Ticket</a><br><a href="http://www.secured.co.uk" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Secured Loans</a><br>
+<a href="http://www.desperateseller.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Used  Cars for Sale</a><br><a href="http://www.northumbrianumbers.com/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Number Plates</a><br><a href="http://www.onestopcaradvice.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Used Cars UK</a><br><a href="http://www.secured.co.uk" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Secured Loans</a><br>
 </td></tr>
 <tr><td bgcolor="#ffffff" height="2"></td></tr>
 </tbody></table>
-					
-				
-		
-	
-
-
-
-	
-	
-	
-
-		
-
-				
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-		
-			
-		
-		
-				
-			
-		
-		
-		
-		
-
-		<table width="100%" border="0" cellspacing="1" cellpadding="2" class="x" style="margin-top: 5px;">
-<tbody><tr valign="top"><td style="background: #333366; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #ffffff;"><strong>ADVERTISEMENTS</strong></td></tr>
-<tr valign="top"><td style="background: #99CCCC; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #000000;"> 
-<a href="http://www.balticnordic.com" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Baltic Nordic Directory</a><br><a href="http://www.worldjobz.com" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Find Jobs Worldwide</a><br>
-</td></tr>
-<tr><td bgcolor="#ffffff" height="2"></td></tr>
-</tbody></table>
-					
-				
-		
-	
-
-
-
-	
-	
-	
-
-		
-
-				
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-		
-			
-		
-		
-				
-			
-		
-		
-		
-		
-
-		<table width="100%" border="0" cellspacing="1" cellpadding="2" class="x" style="margin-top: 5px;">
-<tbody><tr valign="top"><td style="background: #996633; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #ffffff;"><strong>ADVERTISEMENTS</strong></td></tr>
-<tr valign="top"><td style="background: #FFCC99; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #000000;"> 
-<a href="http://www.jobfoxter.com/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Job Search Engine</a><br><a href="http://www.newsbooster.com/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">News Subscription</a><br><a href="http://www.foxter.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">UK Business Directory</a><br><a href="http://www.businessglobe.com/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Business Search Engine</a><br><a href="http://www.companypress.org/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Company Press Release</a><br><a href="http://www.companyseek.com" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Company search</a><br><a href="http://www.masterseek.com" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Business Search</a><br><a href="http://www.danmarks.net/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Firmaer</a><br>
-</td></tr>
-<tr><td bgcolor="#ffffff" height="2"></td></tr>
-</tbody></table>
-					
-				
-		
-	
-
-
-
-	
-	
-	
-
-		
-
-				
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-		
-			
-		
-		
-				
-			
-		
-		
-		
-		
-
-		<table width="100%" border="0" cellspacing="1" cellpadding="2" class="x" style="margin-top: 5px;">
+					<table width="100%" border="0" cellspacing="1" cellpadding="2" class="x" style="margin-top: 5px;">
 <tbody><tr valign="top"><td style="background: #E2DEC2; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #333333;"><strong>ADVERTISEMENTS</strong></td></tr>
 <tr valign="top"><td style="background: #FFFAF0; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #000000;"> 
-<a href="http://www.netloans.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;"> Secured Loans</a><br><a href="http://www.netcars.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Used Cars</a><br><a href="http://www.netcars.co.uk/carfinance/ " target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Car Loans</a><br><a href="http://www.netcars.co.uk/usedcarsearch/search.aspx" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Used Car Search</a><br><a href="http://www.netloans.co.uk/bridging-loans.aspx " target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Bridging Loans</a><br><a href="http://carfinance.netcars.co.uk/ " target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Car Finance</a><br>
+<a href="http://www.netcars.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Used Cars</a><br><a href="http://carfinance.netcars.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Car Loans</a><br><a href="http://www.netcars.co.uk/browse/audi-used-cars-for-sale-by-model,4.aspx" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Used Audi</a><br><a href="http://www.netcars.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Buy Car</a><br><a href="http://carfinance.netcars.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Car Finance</a><br>
+</td></tr>
+<tr><td bgcolor="#ffffff" height="2"></td></tr>
+</tbody></table>
+					<table width="100%" border="0" cellspacing="1" cellpadding="2" class="x" style="margin-top: 5px;">
+<tbody><tr valign="top"><td style="background: #336600; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #ffffff;"><strong>ADVERTISEMENTS</strong></td></tr>
+<tr valign="top"><td style="background: #FFFFFF; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #000000;"> 
+<a href="http://www.phonecards4all.com" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Buy cheap phone cards</a><br>
 </td></tr>
 <tr><td bgcolor="#ffffff" height="2"></td></tr>
 </tbody></table>
 					
-				
-		
-	
-
-
-
-	
-	
-	
-
-		
-
-				
-		
-		
-			
-
 
     <script type="text/javascript">
     <!--
@@ -737,11 +325,11 @@ Legal <a href="http://www.lexingtonlaw.com/" onclick="doWindow(this.href); retur
       getAaron("get_google_left");
     // -->
     </script>
-  </form></div>
+  </form>
+</div>
   
   <!-- ::: END LEFT BAR ::: -->
   
-
   </td>
   <td width="10">&nbsp;</td>
   <td width="430">
@@ -774,127 +362,21 @@ Legal <a href="http://www.lexingtonlaw.com/" onclick="doWindow(this.href); retur
 
 	<div id="wprrightbar">
 <!-- ::: RIGHT BAR ::: -->
-    <div class="left"><img src="http://www.worldpress.org/images/advert.gif" alt="" border="0"></div>
-    <p><script type="text/javascript" src="http://www.worldpress.org/adsys/ads.cfm?a=085CEB8F-479D-4AAC-B61F7012424547B9"></script></p>
+	<a href="/webeditorjob.cfm" title="Job opportunities. Part-Time Web Editor"><img src="/images/web-editor-wanted.gif" border="0"></a>
     
 
     <p>
 		
-		
-	
-
-		
-
-				
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-		
-			
-		
-		
-				
-			
-		
-		
-		
-		
-
 		</p><table width="100%" border="0" cellspacing="1" cellpadding="2" class="x" style="margin-top: 5px;">
 <tbody><tr valign="top"><td style="background: #333366; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #ffffff;"><strong>ADVERTISEMENTS</strong></td></tr>
 <tr valign="top"><td style="background: #cccccc; font: 11px Verdana, Arial, Helvetica, sans-serif; color: #ffffff;"> 
-<a href="http://www.carloan4u.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Car Finance Guaranteed</a><br><a href="http://www.badcarcredit.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Bad Car Credit</a><br><a href="http://www.drcredit.com" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Personal Loans</a><br><a href="http://www.accepted.co.uk" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Secured Loans</a><br><a href="http://www.protected.co.uk" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Life insurance</a><br><a href="http://www.trapped.co.uk" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Debt Management and IVA</a><br><a href="http://www.usedtowmotor.com/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Used Forklift</a><br><a href="http://www.devilsemporium.com" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Cheap Designer Watches</a><br><a href="http://www.villas2000.com/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Florida Vacation Rentals</a><br>
+<a href="http://www.totallymoney.com" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Cheap Loans</a><br><a href="http://www.carloan4u.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Car Finance Guaranteed</a><br><a href="http://www.badcarcredit.co.uk/" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Bad Car Credit</a><br><a href="http://www.drcredit.com" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Personal Loans</a><br><a href="http://www.protected.co.uk" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Life insurance</a><br><a href="http://www.trapped.co.uk" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Debt Management and IVA</a><br><a href="http://www.accepted.co.uk/secured-loans" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Secured Loans</a><br><a href="http://aaacreditguide.com" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Credit Repair</a><br><a href="http://www.cheaploans.co.uk" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Cheap Loans</a><br><a href="http://www.masterseek.com" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Business search</a><br><a href="http://www.accoona.com" target="_blank" onclick="doWindow(this.href); return false;" onkeypress="doWindow(this.href); return false;" style="color: #000000;">Company search</a><br>
 </td></tr>
 <tr><td bgcolor="#ffffff" height="2"></td></tr>
 </tbody></table>
 					
-				
-		
-	
-
-
 	<p></p>
-    <div class="left"><img src="http://www.worldpress.org/images/advert.gif" alt="" border="0"></div>
-	<p><script type="text/javascript" src="http://www.worldpress.org/adsys/ads.cfm?a=EE7C902C-C006-4113-995A6353465810B8"></script></p>
+    
     <div class="left"><img src="http://www.worldpress.org/images/advert.gif" alt="" border="0"></div>
 	<p><script type="text/javascript" src="http://www.worldpress.org/adsys/ads.cfm?c=B0D34968-4F99-428D-95908A7CBC464551"></script></p>
     <p><script type="text/javascript" src="http://www.worldpress.org/adsys/ads.cfm?a=4AE68AB6-4241-46AE-AA341DEFA920C870"></script></p>
@@ -917,17 +399,19 @@ Legal <a href="http://www.lexingtonlaw.com/" onclick="doWindow(this.href); retur
     //-->
     </script>
     <br><br>
-    <script type="text/javascript">
+ 
+
+   <script type="text/javascript">
     <!--
       getAaron("get_sky_right");
     //-->
     </script>
+
+
+
 <!-- ::: END RIGHT BAR ::: -->
     </div>
     
-
-
-
   </td>
 </tr>
 </tbody></table>
@@ -940,63 +424,6 @@ Legal <a href="http://www.lexingtonlaw.com/" onclick="doWindow(this.href); retur
   <td width="100%" align="right"><a href="#top"><img src="http://www.worldpress.org/images/up-arrow.gif" alt="Top" width="12" height="10" border="0"></a>&nbsp;&nbsp;</td>
 </tr>
 </tbody></table>
-
-	
-
-		
-
-				
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-			
-			
-			
-
-			
-			
-					
-			
-		
-		
-			
-		
-		
-				
-			
-		
-		
-		
-		
-
-		
-
-	
 
 <table width="760" border="0" cellspacing="0" cellpadding="0" class="ad" id="table9">
 <tbody><tr valign="top">
@@ -1011,24 +438,19 @@ Legal <a href="http://www.lexingtonlaw.com/" onclick="doWindow(this.href); retur
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" height="90" id="table12">
 <tbody><tr>
 
-
 <td width="23%"> 
 <table width="90%" border="0" cellspacing="0" cellpadding="0" align="center" id="table13">
 <tbody><tr>
 <td> 
 <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">
 
-
-
-<a href="http://www.buyyourcar.co.uk/used-car.aspx" target="_blank"><nobr>Used Cars</nobr></a>
-
-
+<a href="http://www.buyyourcar.co.uk/used-car.aspx" target="_blank"><nobr>Used Cars</nobr></a><br> 
+<a href="http://www.carreg.co.uk/number_plates/dvla" target="_blank"><nobr>dvla</nobr></a> 
 </font></div>
 </td>
 </tr>
 </tbody></table>
 </td>
-
 
 <td width="23%"> 
 <table width="90%" border="0" cellspacing="0" cellpadding="0" align="center" id="table14">
@@ -1036,17 +458,13 @@ Legal <a href="http://www.lexingtonlaw.com/" onclick="doWindow(this.href); retur
 <td> 
 <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">
 
-
-
-<a href=" http://www.carreg.co.uk/number_plates/dvla " target="_blank"><nobr>dvla</nobr></a>
-
-
+<a href="http://www.carreg.co.uk/number_plates/dvla-number-plates" target="_blank"><nobr>dvla number plates</nobr></a><br> 
+<a href="http://www.carreg.co.uk/" target="_blank"><nobr>number plates</nobr></a> 
 </font></div>
 </td>
 </tr>
 </tbody></table>
 </td>
-
 
 <td width="23%"> 
 <table width="87%" border="0" cellspacing="0" cellpadding="0" align="center" id="table15">
@@ -1054,17 +472,13 @@ Legal <a href="http://www.lexingtonlaw.com/" onclick="doWindow(this.href); retur
 <td> 
 <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">
 
-
-
-<a href="http://www.carreg.co.uk/number_plates/dvla-number-plates " target="_blank"><nobr>dvla number plates</nobr></a>
-
-
+<a href="http://www.onestopcaradvice.co.uk/usedcarsearch/" target="_blank"><nobr>Used Car Search</nobr></a><br> 
+<a href="http://cardsuggest.com/index.php/simply_gold_mastercard.html?call=default&amp;id=29&amp;cid=19" target="_blank"><nobr>Simply Gold</nobr></a> 
 </font></div>
 </td>
 </tr>
 </tbody></table>
 </td>
-
 
 <td width="23%"> 
 <table width="90%" border="0" cellspacing="0" cellpadding="0" align="center" id="table16">
@@ -1072,11 +486,6 @@ Legal <a href="http://www.lexingtonlaw.com/" onclick="doWindow(this.href); retur
 <td> 
 <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">
 
-
-
-<a href="http://www.carreg.co.uk/" target="_blank"><nobr>number plates</nobr></a>
-
-
 </font></div>
 </td>
 </tr>
@@ -1094,11 +503,6 @@ Legal <a href="http://www.lexingtonlaw.com/" onclick="doWindow(this.href); retur
 </td>
 </tr>
 </tbody></table>
-
-		
-	
-
-
 
 <table width="760" border="0" cellspacing="0" cellpadding="0" class="foot">
 <tbody><tr valign="top">
@@ -1121,9 +525,6 @@ _uacct = "UA-2624625-1";
 urchinTracker();
 </script>
 <!-- ::: END BOTTOM BAR ::: -->
-
-
-
 
 
 
