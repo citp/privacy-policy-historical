@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craftsetc.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616163124id_/http%3A//www.craftsetc.com/service/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsetc.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080856id_/http%3A//www.craftsetc.com/service/privacy.aspx) for the most accurate reproduction.*
 
-# Crafts Etc- Privacy
+# Privacy Policy | Crafts, Etc!
 
 Email
 
