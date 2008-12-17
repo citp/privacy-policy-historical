@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscav.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608174115id_/http%3A//www.uscav.com/Privacy.aspx%3FTabID%3D548%26CatID%3D5110) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscav.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152207id_/http%3A//www.uscav.com/Privacy.aspx%3FTabID%3D548%26CatID%3D5110) for the most accurate reproduction.*
 
 # U.S. Cavalry - Privacy & Security
 
