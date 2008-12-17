@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609061026id_/http%3A//www.nab.com.au/About_Us/0%2C%2C2692%2C00.html%3FncID%3DZBA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217205555id_/http%3A//national.com.au/About_Us/0%2C%2C2692%2C00.html%3FncID%3DZBA) for the most accurate reproduction.*
 
-# NAB - Home Loan - Privacy Policy
+# NAB - National Australia Bank Privacy Policy
 
 ## Respecting your privacy and the law
 
@@ -12,7 +12,7 @@ The Group is the National Australia Bank Limited and its subsidiaries such as ML
 
 This Privacy Policy outlines how we manage your personal information. It also describes generally the sorts of personal information held and for what purposes, and how that information is collected, held, used and disclosed.
 
-Our Privacy Policy applies to all your dealings with us whether at one of our branches, through our call centres, via our websites or an advisor. However, depending on the Group organisation with which you deal, further privacy information may apply in addition to the matters discussed in this Privacy Policy (see, for example, Our Websitesbelow).
+Our Privacy Policy applies to all your dealings with us whether at one of our branches, through our call centres, via our websites or an advisor. However, depending on the Group organisation with which you deal, further privacy information may apply in addition to the matters discussed in this Privacy Policy (see, for example, Our Websites below).
 
 We encourage you to check our websites regularly for any updates to our Privacy Policy.
 
@@ -40,7 +40,7 @@ In line with modern business practices common to many financial institutions and
 
 ### The relevant organisations are those
 
-  * involved in providing, managing or administering your product or service such as third party suppliers, other Group organisations, loyalty and affinity program partners, printers, posting services, call centres, lenders [mortgage](https://web.archive.org/About_Us/0,,2692,00.html) insurers and our advisers
+  * involved in providing, managing or administering your product or service such as third party suppliers, other Group organisations, loyalty and affinity program partners, printers, posting services, call centres, lenders [mortgage](https://web.archive.org/wps/wcm/connect/nab/nab/home/about_us/10/1/) insurers and our advisers
   * which are Group organisations who wish to tell you about their products or services that might better serve your financial, e-commerce and lifestyle needs or promotions or other opportunities, and their related service providers, except where you tell us not to
   * who are your financial advisers and their service providers
   * involved in maintaining, reviewing and developing our business systems, procedures and infrastructure including testing or upgrading our computer systems
@@ -69,13 +69,13 @@ Because we operate throughout Australia and overseas, some of these uses and dis
 
 ## Marketing our products and services
 
-We may use or disclose your personal information to let you know about, and develop, products and services from across the Group that might better serve your financial, e-commerce and lifestyle needs or promotions or other opportunities in which you may be interested. For example, we may do this after an initial marketing contact. You can contact us at any time if you no longer wish us to do so (see Contacting Usbelow).
+We may use or disclose your personal information to let you know about, and develop, products and services from across the Group that might better serve your financial, e-commerce and lifestyle needs or promotions or other opportunities in which you may be interested. For example, we may do this after an initial marketing contact. You can contact us at any time if you no longer wish us to do so (see Contacting Us below).
 
 ## Keeping your personal information accurate and up-to-date
 
 We aim to make sure that the personal information we collect, use or disclose is accurate, complete and up-to-date. We will take reasonable steps to make sure this is the case. This way we can provide you with better service.
 
-If you believe your personal information is not accurate, complete or up to date, please contact us (see Contacting Usbelow).
+If you believe your personal information is not accurate, complete or up to date, please contact us (see Contacting Us below).
 
 ## Protecting your personal information
 
@@ -119,7 +119,7 @@ You can gain access to your personal information. This is subject to some except
 
 We will give you reasons if we deny access.
 
-Contact us to get a form requesting access (see Contacting Usbelow). In some cases we may be able to deal with your request over the telephone or over a counter.
+Contact us to get a form requesting access (see Contacting Us below). In some cases we may be able to deal with your request over the telephone or over a counter.
 
 ## Using Government Identifiers
 
@@ -151,15 +151,19 @@ If you have any issues you wish to raise with the Group, or would like to discus
 
 
 
+## Unsubmitted on-line applications.
+
+If I start but do not submit an on-line application, the Bank may contact me/us using the contact method I/we nominate in the application to offer help completing it. This may happen within 24 hours after I/we last enter information into the application. If I/we do not submit the on-line application, the information in it will be kept for 28 days then destroyed.
+
 For more information about our Privacy Policy, please call 13 22 65 and select the option to speak to a Customer Service Representative.
 
-Download a copy of the [request for access – personal information form (PDF, 229K)](https://web.archive.org/vgnmedia/downld/Personal_Information_Request_For_Access.pdf "request for access – personal information form \(PDF, 229K, opens in new window\)").
+Download a copy of the [request for access – personal information form (PDF, 229K)](https://web.archive.org/wps/wcm/connect/cb8566804bc60d03978f972345045098/Personal_Information_Request_For_Access.pdf?MOD=AJPERES&CACHEID=cb8566804bc60d03978f972345045098 "request for access – personal information form \(PDF, 229K, opens in new window\)").
 
 Hearing impaired customers with telephone typewriters can contact us on 13 36 77
 
 For more information about privacy in general, you can visit the Federal Privacy Commissioner’s website
 
-Download a copy of [NAB’s Privacy Policy (PDF, 68K)](https://web.archive.org/vgnmedia/downld/NAB_Privacy_Policy.pdf "NAB’s Privacy Policy \(PDF, 68K, opens in new window\)")
+Download a copy of [NAB’s Privacy Policy (PDF, 68K)](https://web.archive.org/wps/wcm/connect/7ec9ec804bc62702a1bfb32345045098/NAB_Privacy_Policy.pdf?MOD=AJPERES&CACHEID=7ec9ec804bc62702a1bfb32345045098 "NAB’s Privacy Policy \(PDF, 68K, opens in new window\)")
 
   
 
