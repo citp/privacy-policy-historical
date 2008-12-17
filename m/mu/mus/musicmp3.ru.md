@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicmp3.ru privacy policy that was archived on 2008-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080308181827id_/http%3A//musicmp3.ru/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicmp3.ru privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093505id_/http%3A//musicmp3.ru/privacy.html) for the most accurate reproduction.*
 
 # Mp3 Music Download - MusicMp3.RU
 
@@ -24,10 +24,10 @@ Should you have other questions or concerns about these privacy policies, please
 
 ### ATTENTION!
 
-We’re sorry for any inconvenience, but due to some technical difficulties credit card payments are temporarily unavailable. We do our best to resolve this problem ASAP. Meanwhile, please use other payment methods featured on our site. Thanks! 
+  
+Our new feature hit! shows which of the album tracks have been most often downloaded by MusicMP3.ru users. Now you can easily see the most noteworthy songs in our collection! 
 
-**ATTENTION!** MusicMp3.Ru is starting an unexampled program!   
+  
+MusicMp3.Ru is starting an unexampled program!   
 Do you want to download MusicMp3.Ru files for free?  
 [download free mp3 >>](https://web.archive.org/publicity.html)
-
-|   
