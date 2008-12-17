@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyandactive.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624071345id_/http%3A//www.healthyandactive.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyandactive.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075646id_/http%3A//www.healthyandactive.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
