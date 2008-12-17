@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the escapewizard.com privacy policy that was archived on 2008-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630015330id_/http%3A//www.escapewizard.com/pripolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the escapewizard.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217094413id_/http%3A//www.escapewizard.com/pripolicy.php) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="GENERATOR" content="Microsoft FrontPage 5.0">
@@ -24,7 +24,7 @@ Escape Wizard is your ONE STOP place to Search ALL Travel Sites!">
   <tbody><tr>
 	<input id="FDate" type="hidden" value="mm/dd/yyyy" name="FDate">
 <input id="TDate" type="hidden" value="mm/dd/yyyy" name="TDate"> 
-<input id="CalS" name="CalS" value="06/29/2008" type="hidden">
+<input id="CalS" name="CalS" value="12/17/2008" type="hidden">
 <input id="CalE" name="CalE" value="" type="hidden">
 <script src="/js/cal_files/e.js" type="text/javascript"></script>
 <script src="/js/cal_files/d.js" type="text/javascript"></script>
@@ -32,39 +32,110 @@ Escape Wizard is your ONE STOP place to Search ALL Travel Sites!">
 <script src="/js/cal_files/cal.js" type="text/javascript"></script>
 
 <script language="javascript" src="/js/cal_files/calx.js"></script>  
-<script type="text/javascript">
-var interval=setInterval(SI,10);
-function SI()
-{
-	if(DE&&hw)
-	{
-		clearInterval(interval);
-		interval=null;
-		I();
-	}
-}
-//alert('no error');
+
+<!--
+	
+	START - Files for Dropdown Airport List
+	
+-->
+
+<script type="text/javascript">	
+	var url_ew;
+	var mc = new Array();
+	var c = new Array();	
+	var aname = new Array();	
+	var ac = new Array();	
+	var r = new Array();	
+	var fa = new Array();	
+	var myflag="1";	
+	var mytextfield;
 </script>
 <script language="javascript">
-function popUp(URL) {
-	day = new Date();
-	id = day.getTime();
-	eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=yes,width=600,height=300');");
+	function displayAirportDropDown(str,id){
+
+		mytextfield=id;
+		if(document.getElementById(id).value.length > 2){
+			ajax_showOptions(document.getElementById(id),'getCountriesByLetters','event');
+		}
+	}
+function changecheckopen(){
+	checkopen=0;
 }
 </script>
-  <td width="337" align="left" valign="top">
-    <a href="index.php">
-    <img border="0" src="ew.graphics/ew.logo.gif" width="300" height="114" alt="Escape Wizard"></a></td>
-    <td width="443" align="left" valign="top">
-    <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" cellpadding="0">
-      <tbody><tr>
-        <td align="right" valign="top">
-		<span style="cursor:pointer; color:#FF9900; font-family:'MS Sans Serif'; font-size:12px" onclick="popUp('deal_alerts_subscription.php');">Free Deals Alerts Newsletters </span> |
-		<a style="cursor:pointer; color:#FF9900; font-family:'MS Sans Serif'; font-size:12px" href="escapewizard_demo.php">How to use Escape Wizard</a>   </td>
-      </tr>
-    </tbody></table>
-    </td>
+
+<script language="javascript" src="/inc/cities.js"></script>
+<script type="text/javascript" src="/js/ajax-dynamic-list.js"></script>
+<script type="text/javascript" src="/js/ajax1_compact.js"></script>
+
+<!--END - Files for Dropdown Airport List -->
+
+
+
+<script type="text/javascript">
+	var interval=setInterval(SI,10);
+
+	function SI(){
 	
+		if(DE && hw){
+		
+			clearInterval(interval);
+			interval=null;
+			I();
+			
+		}
+	}
+
+	function popUp(URL){
+	
+		day = new Date();
+		id = day.getTime();
+		eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=yes,width=600,height=300');");
+		
+	}
+
+
+  var needToConfirm = true;
+  var checkopen=1;
+  window.onerror = function donothing() {
+
+  }
+  onbeforeunload = function confirmExit(){
+	if(checkopen==1){
+		
+          openwin();
+		
+		if (needToConfirm){
+	
+			return 'ESCAPEWIZARD.COM\n\n** STOP!  We can keep searching for you!\nLet us keep looking for a LOW FARE FOR YOU.\n\n----- ITS A FREE SERVICE ----\nJust enter your email address, and we will do the rest!\n\n**CLICK CANCEL RIGHT NOW** to Receive this FREE service\nDo **NOT** Press OK . You must CLICK CANCEL TO JOIN!';	  
+			
+		}//if (needToConfirm)
+	}
+	  
+	  
+  }
+
+ function changecheckopen(){
+	checkopen=0;
+}
+</script>
+
+  <td width="337" align="left" valign="top">
+    <a href="/index.php" onclick="changecheckopen()">
+    <img border="0" src="/ew.graphics/ew.logo.gif" width="300" height="114" alt="Escape Wizard"></a></td>
+    <td width="443" align="left" valign="top">
+		<table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" cellpadding="0">
+		  <tbody><tr>
+			<td align="right" valign="top">
+								
+					<a href="/subscribersignin.php" style="cursor:pointer" onclick="changecheckopen()">
+						Free Deals Alerts Newsletters 
+					</a>
+					
+							|
+			<a href="/escapewizard_demo.php" onclick="changecheckopen()">How to use Escape Wizard</a>   </td>
+		  </tr>
+		</tbody></table>
+    </td>
   </tr>
   <tr>
     <td width="780" colspan="2">
@@ -78,20 +149,20 @@ function popUp(URL) {
         <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" cellpadding="0" class="txt">
           <tbody><tr>
             <td width="1%" height="34" bgcolor="#FFA800"></td>
-            <td width="14%" bgcolor="#FFA800" align="center" height="34"><a class="curvenavright" href="index.php?flag=fl">Flights</a></td>
+            <td width="14%" bgcolor="#FFA800" align="center" height="34"><a class="curvenavright" href="http://www.escapewizard.com/index.php?flag=fl">Flights</a></td>
             
-			<td width="14%" bgcolor="#72D7FF" align="center" height="34"><a class="curvenavright" href="travel_packages.php?flag=tp">Travel Packages</a></td>
+			<td width="14%" bgcolor="#72D7FF" align="center" height="34"><a class="curvenavright" href="http://www.escapewizard.com/travel_packages.php?flag=tp">Travel Packages</a></td>
             
-			<td width="14%" bgcolor="#72D7FF" align="center" height="34"><a class="curvenavright" href="hotels.php?flag=htl">Hotels</a></td>
+			<td width="14%" bgcolor="#72D7FF" align="center" height="34"><a class="curvenavright" href="http://www.escapewizard.com/hotels.php?flag=htl">Hotels</a></td>
             
-			<td width="14%" bgcolor="#72D7FF" align="center" height="34"><a class="curvenavright" href="cars.php?flag=cr">Cars</a></td>
+			<td width="14%" bgcolor="#72D7FF" align="center" height="34"><a class="curvenavright" href="http://www.escapewizard.com/cars.php?flag=cr">Cars</a></td>
             
 			
-			<td width="14%" bgcolor="#72D7FF" align="center" height="34"><a class="curvenavright" href="cruises.php?flag=cru">Cruises</a></td>
+			<td width="14%" bgcolor="#72D7FF" align="center" height="34"><a class="curvenavright" href="http://www.escapewizard.com/cruises.php?flag=cru">Cruises</a></td>
             
-			<td width="14%" bgcolor="#72D7FF" align="center" height="34"><a class="curvenavright" href="deals.php?flag=dls">Deals</a></td>
+			<td width="14%" bgcolor="#72D7FF" align="center" height="34"><a class="curvenavright" href="http://www.escapewizard.com/deals.php?flag=dls">Deals</a></td>
 			
-            <td width="14%" bgcolor="#72D7FF" align="center" height="34"><a class="curvenavright" href="forms.php?flag=sub">Subscribers</a></td>
+            <td width="14%" bgcolor="#72D7FF" align="center" height="34"><a class="curvenavright" href="http://www.escapewizard.com/forms.php?flag=sub">Subscribers</a></td>
             <td width="1%" height="34">&nbsp;</td>
           </tr>
         </tbody></table>
@@ -222,28 +293,38 @@ function popUp_feedback(URL) {
 
 </script>
 <tr>
+<td width="780" colspan="2" align="left">
+	<div id="recent_articles">
+		<h3>Recent Articles:</h3>
+		<ul>
+			<table border="0" cellpadding="0" cellspacing="0" width="95%"><tbody><tr><td>No articles at the moment</td></tr></tbody></table>		</ul>
+	</div>
+</td>
+</tr>
+<tr>
 	<td width="100%" colspan="2"> <hr color="#A6A6A6" size="1"> </td>
 </tr>
 <tr>
   <td width="780" colspan="2" class="dulltxt" align="center"><br>
-    <a class="footernav" href="index.php">Flight</a> 
-	| <a class="footernav" href="travel_packages.php?flag=tp">Travel Package</a> 
-	| <a class="footernav" href="hotels.php?flag=htl">Hotel</a> 
-	| <a class="footernav" href="cars.php?flag=cr">Cars</a> 
-	| <a class="footernav" href="cruises.php?flag=cru">Cruise</a> 
-	| <a class="footernav" href="deals.php?flag=dls"> Deals</a> 
+    <a class="footernav" href="http://www.escapewizard.com/index.php">Flight</a> 
+	| <a class="footernav" href="http://www.escapewizard.com/travel_packages.php?flag=tp">Travel Package</a> 
+	| <a class="footernav" href="http://www.escapewizard.com/hotels.php?flag=htl">Hotel</a> 
+	| <a class="footernav" href="http://www.escapewizard.com/cars.php?flag=cr">Cars</a> 
+	| <a class="footernav" href="http://www.escapewizard.com/cruises.php?flag=cru">Cruise</a> 
+	| <a class="footernav" href="http://www.escapewizard.com/deals.php?flag=dls"> Deals</a> 
 	| <a class="footernav" href="http://toolbar.google.com/buttons/add?url=http://www.escapewizard.com/toolbar/gbutton.xml" title="Toolbar">Add to Google Toolbar</a>
-	| <a class="footernav" href="forms.php?flag=sub">Manage Email Subscriptions</a><br>
+	| <a class="footernav" href="http://www.escapewizard.com/forms.php?flag=sub">Manage Email Subscriptions</a><br>
      
-	 <a class="footernav" href="escapewizard_demo.php">Help</a> 
-	| <a class="footernav" href="aboutus.php">About EscapeWizard</a> 
-	| <a class="footernav" href="press_mention.php">Press Mentions</a> 
-	| <a class="footernav" href="pripolicy.php">Privacy Policy</a> 
-	| <a class="footernav" href="advertising.php">Advertising</a> 
-	| <a class="footernav" href="terms.php">Terms of Use</a> 
-	| <a href="#" style="cursor:pointer" class="footernav" onclick="javascript:popUp_feedback('feedback.php');">Feedback</a> <!--<a href="mailto:feedback@escapewizard.com">feedback@escapewizard.com</a>-->
-	| <a class="footernav" href="site_map.php">Sitemap</a></td>
-  </tr>
+	 <a class="footernav" href="http://www.escapewizard.com/escapewizard_demo.php">Help</a> 
+	| <a class="footernav" href="http://www.escapewizard.com/aboutus.php">About EscapeWizard</a> 
+	| <a class="footernav" href="http://www.escapewizard.com/press_mention.php">Press Mentions</a> 
+	| <a class="footernav" href="http://www.escapewizard.com/pripolicy.php">Privacy Policy</a> 
+	| <a class="footernav" href="http://www.escapewizard.com/advertising.php">Advertising</a> 
+	| <a class="footernav" href="http://www.escapewizard.com/terms.php">Terms of Use</a> 
+	| <a href="#" style="cursor:pointer" class="footernav" onclick="javascript:popUp_feedback('http://www.escapewizard.com/feedback.php');">Feedback</a> <!--<a href="mailto:feedback@escapewizard.com">feedback@escapewizard.com</a>-->
+	| <a class="footernav" href="http://www.escapewizard.com/site_map.php">Sitemap</a></td>
+
+</tr>
   <tr>
   	<td>
 				<div style="display:none">
