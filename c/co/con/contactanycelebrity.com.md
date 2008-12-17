@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactanycelebrity.com privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209135306id_/http%3A//www.contactanycelebrity.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactanycelebrity.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064145id_/http%3A//www.contactanycelebrity.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Contact Any Celebrity - Now you can contact any celebrity!
 
