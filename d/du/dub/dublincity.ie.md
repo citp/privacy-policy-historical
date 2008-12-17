@@ -1,118 +1,105 @@
-> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227051645id_/http%3A//www.dublincity.ie/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133544id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Dublin City Council: Privacy Statement
 
-Dublin City Council will not collect any personal information about you on this website without your permission. Any personal information supplied will be treated as confidential. Dublin City Council does not routinely collect personal information about you, except for information you volunteer by e-mailing us or by completing a feedback form. 
+Dublin City Council will not collect any personal information about you on this website without your permission. Any personal information supplied will be treated as confidential. 
+
+Dublin City Council does not routinely collect personal information about you, except for information you volunteer by e-mailing us or by completing a feedback form. 
 
 We will use any personal information supplied only for the intended purpose and we will not pass your personal details on to any third parties.
 
 Technical details of your visit to this website are recorded only for business purposes. These details include IP addresses and web search terms. This information will only be used for statistical and administrative purposes.
 
-  
+## Data Protection
 
-
-
-
-
-
-## DATA PROTECTION
-
-**Your rights.**
+### Your rights
 
 The Data Protection Acts give you the right to get a copy, clearly explained, of any information about you kept on computer or in a structured manual filing system, by any person or organisation (Section 4 of the Data Protection Acts, 1988 and 2003)
 
- **Our policy.**
+### Our policy
 
 Dublin City Council promises to operate best practice in relation to its responsibilities under the Data Protection Acts. This policy is informed and guided by the principles contained in the Rules for Data Protection as detailed by the Data Protection Commissioner.
 
-We will,   
-1. Obtain and process information fairly  
-2. Keep it only for one or more specified, explicit and lawful purposes  
-3. Use and disclose it only in ways compatible with these purposes  
-4. Keep it safe and secure  
-5. Keep it accurate, complete and up-to-date  
-6. Ensure that it is adequate, relevant and not excessive  
-7. Retain it for no longer than is necessary for the purpose or purposes for which it was obtained.  
-8. Give you a copy of your personal information on request
+We will:
 
- **Getting your personal information.**
+  * Obtain and process information fairly
+  * Keep it only for one or more specified, explicit and lawful purposes
+  * Use and disclose it only in ways compatible with these purposes
+  * Keep it safe and secure
+  * Keep it accurate, complete and up-to-date
+  * Ensure that it is adequate, relevant and not excessive
+  * Retain it for no longer than is necessary for the purpose or purposes for which it was obtained.
+  * Give you a copy of your personal information on request
 
-To get details of any information about you held by Dublin City Council all you need to do is write to the 
 
-Information Management Unit,  
-Corporate Services Department,  
-3 Palace Street,  
-Dublin 2.
 
-Email: [foi@dublincity.ie](mailto:foi@dublincity.ie)  
+### Getting your personal information
+
+To get details of any information about you held by Dublin City Council all you need to do is write to the 
+
+Information Management Unit  
+Corporate Services Department  
+3 Palace Street  
+Dublin 2
+
+**Email** : [foi@dublincity.ie](mailto:foi@dublincity.ie)
+
 Your request could read as follows:
 
-I wish to make an access request under the Data Protection Acts 1988 and 2003 for a copy of any information you keep about me, on computer or in manual form. 
+_I wish to make an access request under the Data Protection Acts 1988 and 2003 for a copy of any information you keep about me, on computer or in manual form._
 
-You should also include any additional details that may be necessary to help us to locate your record; e.g. customer account number, staff number, or PPS number.  
+Please include any details that could help us to locate your records. This might include:
+
+  * Customer account number 
+  * Staff number 
+  * Any other information that may help us to identify your records
+
+
+
 A fee of €6.35 may be charged.
 
-  
- **More information**
+## More information
 
-For more information on data protection check the website of the Data Protection Commissioner <http://www.dataprotection.ie/>
+For more information on data protection check the website of the Data Protection Commissioner: [www.dataprotection.ie](http://www.dataprotection.ie/ "This link will open in a new window"). 
 
-  
-
-
-
-
-
-
-## Our use of cookies
+### Our use of cookies
 
 This website uses Google Analytics to help analyse how users use the site. This analytical tool uses 'cookies', which are text files placed on your computer, to collect standard internet log information and visitor behaviour information in an anonymous form. The information generated by the cookie about your use of the website (including your IP address) is transmitted to Google. This information is then used to evaluate visitors use of the website and to compile statistical reports on website activity for the ICO.
 
-The ICO will not (and will not allow any third party) to use the statistical analytics tool to track or to collect any personally identifiable information of visitors to our site. We will not associate any data gathered from this site with any personally identifying information from any source as part of our use of the Google statistical analytics tool. Google will not associate your IP address with any other data held by Google. Neither the ICO nor Google will link, or seek to link, an IP address with the identity of a computer user. 
+The ICO will not (and will not allow any third party) to use the statistical analytics tool to track or to collect any personally identifiable information of visitors to our site. We will not associate any data gathered from this site with any personally identifying information from any source as part of our use of the Google statistical analytics tool. Google will not associate your IP address with any other data held by Google. Neither the ICO nor Google will link, or seek to link, an IP address with the identity of a computer user. 
 
-  
+### Further information about cookies 
 
+The Interactive Advertising Bureau (IAB) is an industry body that develops standard and guidelines to support online business processes. It has produced a series of web pages which explain how cookies work and how they can be managed. <http://www.iab.net/>
 
+### Disabling/Enabling Cookies
 
+You have the ability to accept or decline cookies by modifying the settings on your browser. The IAB site tells you how to remove cookies from your browser. This advice currently comprises the following steps (however please check the IAB site for the latest guidance <http://www.iab.net/> ): 
 
+If you are using Microsoft Windows Explorer:
 
-
-## Further information about cookies 
-
-The [Interactive Advertising Bureau](http://www.allaboutcookies.org/) (IAB) is an industry body that develops standard and guidelines to support online business processes. It has produced a series of web pages which explain how cookies work and how they can be managed. 
-
-
-
-
-
-## Disabling/Enabling Cookies
-
-You have the ability to accept or decline cookies by modifying the settings on your browser. The IAB site tells you how to remove cookies from your browser. This advice currently comprises the following steps (however please check the IAB site for the latest guidance): If you are using Microsoft Windows Explorer 
-
-  * Open ‘Windows Explorer’ 
-  * Click on the ‘Search’ button on the tool bar 
-  * Type ‘cookie’ into the search box for ‘Folders and Files’ 
-  * Select ‘My computer’ in the ’Look In’ box 
-  * Click ‘Search Now’ 
-  * Double click on the folders that are found 
-  * ‘Select’ any cookie file 
-  * use the ‘Delete’ button on your keyboard   
+  * Open ‘Windows Explorer’
+  * Click on the ‘Search’ button on the tool bar
+  * Type ‘cookie’ into the search box for ‘Folders and Files’
+  * Select ‘My computer’ in the ’Look In’ box
+  * Click ‘Search Now’
+  * Double click on the folders that are found
+  * ‘Select’ any cookie file use the ‘Delete’ button on your keyboard
 
 
 
-If you are not using Microsoft Windows Explorer, then you should select ‘cookies’ in the ‘Help’ function for information on where to find your cookie folder. 
+If you are not using Microsoft Windows Explorer, then you should select ‘cookies’ in the ‘Help’ function for information on where to find your cookie folder. 
 
-  
-
-
-
-
-
-
-## Links to other sites
+### Links to other sites
 
 This privacy policy does not cover the links within this site linking to other sites. 
 
+### For more information
 
+Dublin City Council  
+Information Management Unit  
+Corporate Services Department  
+3 Palace Street  
+Dublin 2
 
-
+**Email** : [foi@dublincity.ie](mailto:foi@dublincity.ie)
