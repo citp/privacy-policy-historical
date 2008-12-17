@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simhq.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609210843id_/http%3A//www.simhq.com/_aboutus/aboutus.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simhq.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085615id_/http%3A//www.simhq.com/_aboutus/aboutus.html%23privacy) for the most accurate reproduction.*
 
 # SimHQ.com - About Us
 
@@ -36,9 +36,68 @@ Click here to go to top of this page.
 
 * * *
 
-Biographies of the SimHQ Staff  
-Click on the links below to view staff information.
+The SimHQ Staff  
 
+
+| 
+
+Site Emeritus  
+Andy Bush  
+John "Spoons" Sponauer
+
+Forums Manager  
+Tom "20mm" Hayden
+
+Assistant Forums Manager  
+Jay "Weasel Keeper" Jenkins
+
+Administrators  
+Chuck "PFunk" Bellows  
+Dan "Chipwich" Blake  
+"Cat"  
+Ian "Chunx" Anderson   
+Tom "WKLINK" Cofield  
+"dude163"  
+"Electra"  
+Doug "Uther" Lawrence  
+"Mad Max"  
+"*Panther*"  
+Vince "Beer Camel" Putze  
+"Sandbagger"
+
+Custodian  
+Doug "guod" Atkinson
+
+| 
+
+Aviation & Air Combat Editors  
+Chris "BeachAV8R" Frishmuth  
+Frank "Dart" Giger  
+Ken "531 Ghost" King
+
+Land & Armor Combat Editor  
+Chuck "Magnum" Ankenbauer
+
+Naval Combat Editor  
+Tom "NightCrawler" Mauk
+
+Motorsports Editor  
+Jens "McGonigle" Lindblad
+
+Technology Editor  
+Joe Keefe 
+
+Hardware Editor  
+John Reynolds
+
+Console Simulations Editor  
+Chuck "Magnum" Ankenbauer
+
+Downloads Manager  
+David "Stormtrooper" Tessier  
+  
+---|---  
+  
 Click here to go to top of this page.
 
 * * *
@@ -127,11 +186,7 @@ Click here to go to top of this page.
 
 Forum Registration and Use Agreement
 
-SimHQ’s forums are intended for our members to learn and exchange information about our common interests, share experiences and enjoy time spent with one another. We expect members to treat each other with respect and civility. The forums are open 24 hours a day. Our moderation is done on a wholly volunteer, unpaid basis. Accordingly, we cannot watch every post in every thread all the time. SimHQ (“The Site”) is not responsible for any member's posts, emails, or messages (collectively, “Postings”), including without limitation the content, tone and accuracy of a Posting, or for any material in a Posting that may be offensive to a particular viewer. The author of each Posting is solely responsible for its contents, and each viewer waives all claims, rights and causes of action he or she may assert against The Site arising from or in connection with a Posting.
-
-The views of any member, however relayed, are not necessarily the views of The Site or any entity associated with The Site or any of its advertisers. We encourage members to notify us of any Posting that may be objectionable so that we may deal with it accordingly. These concerns can be addressed to any of the moderators, staff, or the [webmaster](mailto:webmaster@simhq.com). We reserve the right to edit or delete all or any portion of any member’s Posting as we in our sole discretion deem appropriate.
-
-Your use of The Site is at our discretion and you agree to abide by our rules as they may be amended from time to time, including but not limited to the following:
+SimHQ’s forums are intended for our members to learn and exchange information about our common interests, share experiences and enjoy time spent with one another. We expect members to treat each other with respect and civility. The forums are open 24 hours a day. Our moderation is done on a wholly volunteer, unpaid basis. Accordingly, we cannot watch every post in every thread all the time. SimHQ array (“The Site”) is not responsible for any member's posts, emails, or messages array(collectively, “Postings”), including without limitation the content, tone and accuracy of a Posting, or for any material in a Posting that may be offensive to a particular viewer. The author of each Posting is solely responsible for its contents, and each viewer waives all claims, rights and causes of action he or she may assert against The Site arising from or in connection with a Posting. The views of any member, however relayed, are not necessarily the views of The Site or any entity associated with The Site or any of its advertisers. We encourage members to notify us of any Posting that may be objectionable so that we may deal with it accordingly. These concerns can be addressed to any of the moderators, staff, or the webmaster. We reserve the right to edit or delete all or any portion of any member’s Posting as we in our sole discretion deem appropriate. Your use of The Site is at our discretion and you agree to abide by our rules as they may be amended from time to time, including but not limited to the following: 
 
 You agree that you will not use The Site to post or link any material that is deceptive and/or defamatory, abusive, hateful, harassing, obscene, discriminitory, profane, threatening, invasive of a person's privacy, or in violation of any law, license or copyright. The Site’s server may not be used for illegal purposes or in support of illegal services, will not be used to harm or attempt to harm minors in any way, and will not be used to transmit anything that threatens or harasses another person. The Site actively discourages cheating, and the posting of hacks or cheats for any games is forbidden. You agree that you will not attempt to impersonate another person.
 
@@ -139,9 +194,11 @@ The Site’s server will not be used to make unsolicited offers to sell or buy p
 
 Image posting and reposting. We cannot allow unauthorized, copyrighted images in the SimHQ Forums. If you find an image that you know is copyrighted and not posted by the owner, email the webmaster and it will be deleted. We will allow: a) images created by the poster; b) screenshots taken by the poster; c) images and/or screenshots directly released from developers to promote their games/sims. Do not post images originally published on another enthusiast web site. In all other cases beside these examples a link to the image at the source site must be used in lieu of the reposted image. We ask that members not repeatedly embed images in their posts, similar to a signature image. Any images not complying with those criteria will be deleted.
 
-Unauthorized advertisements, solicitations, chain letters, commercial or bulk e-mail (SPAM) are not allowed.
+Unauthorized advertisements, solicitations, chain letters, commercial or bulk e-mail array(SPAM) are not allowed.
 
-The Site may amend these rules from time to time without notice.
+The Site may amend these rules from time to time without notice. 
+
+Effective October 26, 2008
 
 Click here to go to top of this page.
 
@@ -151,13 +208,13 @@ Frequently Asked Questions
 
 **How much does it cost to maintain SimHQ?**
 
-The hours provided by our volunteers each month is well into the hundreds, as is the amount of money to pay for server space and traffic. The site depends on advertising revenue to exist. If you would like to advertise on SimHQ, [click here](https://web.archive.org/web/20080609210843id_/http%3A//www.simhq.com/_advertising/advertising.html).
+The hours provided by our volunteers each month is well into the hundreds, as is the amount of money to pay for server space and traffic. The site depends on advertising revenue to exist. If you would like to advertise on SimHQ, [click here](https://web.archive.org/web/20081217085615id_/http%3A//www.simhq.com/_advertising/advertising.html).
 
 **How can I support SimHQ?**
 
 There are several ways to support us.
 
-  * Purchasing a book, video, or other product through our [Library](https://web.archive.org/web/20080609210843id_/http%3A//www.simhq.com/_library/library.html). A percentage of the [Amazon](http://www.amazon.com/) sales help maintain the site's costs.
+  * Purchasing a book, video, or other product through our [Library](https://web.archive.org/web/20081217085615id_/http%3A//www.simhq.com/_library/library.html). A percentage of the [Amazon](http://www.amazon.com/) sales help maintain the site's costs.
   * Supporting our advertisers’ banner ads and letting them know you appreciate their supporting SimHQ.
   * You can also support us by recommending us to a friend. 
   * By visiting the site yourself!
