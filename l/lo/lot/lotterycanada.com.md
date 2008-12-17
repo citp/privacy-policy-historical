@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210214044id_/http%3A//www.lotterycanada.com/lottery/%3Fjob%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045325id_/http%3A//www.lotterycanada.com/lottery/%3Fjob%3Dprivacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement on Lottery Canada
 
-[](http://www.addthis.com/bookmark.php)   
   
-[](http://www.clickaudit.com/goto/?78656)   
+
+
 |  | 
 
 Privacy Statement
