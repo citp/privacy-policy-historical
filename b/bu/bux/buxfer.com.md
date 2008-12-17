@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buxfer.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608122948id_/http%3A//www.buxfer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxfer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062839id_/http%3A//www.buxfer.com/privacy.php) for the most accurate reproduction.*
 
 # Buxfer: Free online personal finance software for budgeting and expense management. Track shared expenses, split bills, and debts. Transfer money online and settle IOUs with friends/roommates. Get alerts on your mobile device (iPhone, Blackberry and more) Track your money, Effortlessly!
 
