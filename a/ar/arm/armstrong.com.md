@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810134358id_/http%3A//www.armstrong.com/corporatena/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070048id_/http%3A//www.armstrong.com/corporate/privacy.html) for the most accurate reproduction.*
 
-# Online Privacy Policy
+# Armstrong Web Privacy Policy
 
 Armstrong World Industries, Inc. ("Armstrong") strives to achieve the highest standards of integrity for every online visitor. When you register at the Armstrong Web site, we aim to respect your privacy. This Privacy Policy sets forth how we handle information we obtain from you and learn about you when you visit our Web site, including: 
 
@@ -12,7 +12,7 @@ Armstrong World Industries, Inc. ("Armstrong") strives to achieve the highest st
 
 
 
-If you have any questions or comments about Armstrong's Privacy Policy, please contact us [here](https://web.archive.org/corporatena/contact_us.html). 
+If you have any questions or comments about Armstrong's Privacy Policy, please [contact us here](https://web.archive.org/web/20081217070048id_/http%3A//www.armstrong.com/corporate/contact-us.html). 
 
 **NOTICE: Information We Collect and How We Use It**  
 Armstrong collects two types of information about you when you visit our site: personal information (including, by way of example only, your name, address, telephone number and e-mail address) and non-personal, aggregate information (such as information regarding the pages on our site that you have visited and your IP address). 
@@ -96,9 +96,8 @@ Armstrong provides the following choices regarding the use of your information.
   
 **ACCESS**
 
-You may request to see personally-identifiable information that we have collected about you via the Internet to update it or to have factual inaccuracies corrected by clicking [here](https://web.archive.org/membership/edit_profile.jsp). 
+You may request to see personally-identifiable information that we have collected about you via the Internet to update it or to have factual inaccuracies corrected by [clicking here](https://web.archive.org/my/profile). 
 
 **SECURITY**
 
-We make every effort to have reasonable security procedures in place to protect the loss, misuse or alteration of information under our control. If you have any questions about the security at our Website, you can send an email to [webmaster@armstrong.com](mailto:webmaster@armstrong.com).  
-
+We make every effort to have reasonable security procedures in place to protect the loss, misuse or alteration of information under our control. If you have any questions about the security at our Website, you can send an email to [webmaster@armstrong.com](mailto:webmaster@armstrong.com). 
