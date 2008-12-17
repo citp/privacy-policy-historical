@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610000115id_/http%3A//www.cloggs.co.uk/page/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217083241id_/http%3A//www.cloggs.co.uk/page/security) for the most accurate reproduction.*
 
 # Security and Privacy
 
 ## Security
 
-### Totally Secure Payment
+### Totally Secure Shopping, Payment and Delivery
+
+Our shopping platform has achieved the highest possible industry standard, independently reviewed security audit to achieve [Tier 1 PCI Compliance](https://web.archive.org/page/tier1pcicompliance). We are also independently accredited by the industry body for Interactive Selling Online - the [Interactive Media and Retail Group](http://www.imrg.org/isis) (IMRG.org). We have achieved BOTH ISIS (Internet Shopping is Safe) and IDIS (Internet Delivery is Safe) Accreditations from this body. You can only fully trust online shops from computer to delivery, that have correctly achieved both these accreditations. Click here for our [ISIS](http://isisaccreditation.imrg.org/8025745000669E37/certificateISIS?readform&unid=6E5F0E0FEAAC35C78025746A00534D06 "ISIS Accredited Retailer") and [IDIS](http://isisaccreditation.imrg.org/8025745000669E37/certificateIDIS?readform&unid=6E5F0E0FEAAC35C78025746A00534D06 "IDIS Accredited Retailer") accreditation certificates.
 
 Cloggs.co.uk uses the industry standard secure server software (Secure Socket Layer - 128 bit SSL Global Server Certificate) in association with DataCash and Verisign. Your financial and personal information, including credit card number, name and address, and phone number, are encrypted so that they cannot be viewed while travelling over the internet. All personal information will then be stored on our isolated network, protecting it from any misuse or compromise. Please feel free to click on the Verisign Logo for verification.
 
@@ -57,7 +59,7 @@ The information collected will be used to personally keep in touch and let you k
 
 ### Controlling Your Personal Information
 
-We aim for the information we hold about you to be accurate and up to date. You can check the information that we hold about you by logging in to your account. If you find any inaccuracies you should delete or correct it promptly. The personal information will be held securely in accordance with our internal security policy and the law.
+We aim for the information we hold about you to be accurate and up to date. You can check the information that we hold about you by logging in to your account. If you find any inaccuracies you should delete or correct it promptly. The personal information will be held securely, in accordance with our internal security policy, The Data Protection Act 1998, Tier 1 PCI Compliance, and the law.
 
 ### Customer Tracking
 
@@ -65,6 +67,6 @@ We use technology to track the patterns of behaviour of our visitors to our site
 
 This will include using a "cookie" which would be stored on your browser. A "cookie" is a small text file stored on your machine which helps us recognise who you are. This information helps us retrieve information about you so you don't need to re-enter your details. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
-If you have any questions/comments about privacy, please feel free to contac us.
+If you have any questions/comments about privacy, please feel free to contact us.
 
 [Back to Helpdesk Main Menu](http://www.cloggs.co.uk/page/helpdeskwelcome)
