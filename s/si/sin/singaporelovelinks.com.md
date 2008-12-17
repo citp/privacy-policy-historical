@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singaporelovelinks.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430172429id_/http%3A//www.singaporelovelinks.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporelovelinks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094721id_/http%3A//www.singaporelovelinks.com/Privacy.cfm) for the most accurate reproduction.*
 
 # SingaporeLoveLinks.com - Singaporean Dating, Singles and Personals
 
