@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartmusic.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509163806id_/http%3A//www.makemusic.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartmusic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217174124id_/http%3A//www.makemusic.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # MakeMusic
 
@@ -67,13 +67,13 @@ Toll Free: 1-800-843-2066
 You should clearly state, at a minimum, (1) the name of the alleged child, along with their username; (2) the age and birth date of the child; (3) your relationship to the child (e.g., parent, guardian, teacher); (4) as much detail as possible regarding the information you believe was provided improperly by the child. 
 
 HOW DO YOU VIEW OR EDIT PERSONAL INFORMATION AND PREFERENCES?  
-Login and go to My Account to view and/or update any personal information provided, such as mailing and billing addresses, e-mail addresses, or musical interests and roles. If you do not wish to have personal information shared with advertisers or non-essential business partners, you may select the option “Check this box if you do not want MakeMusic to share your contact information…”. Note we must be able to share your personal information with essential business partners, such as Visa or MasterCard, in order to provide you with services. If you do not wish to receive e-mail information from SmartMusic.com (including, but not limited to, information on critical issues and technical updates) de-select the option “Yes, keep me informed of new MakeMusic product information and special offers via e-mail”. 
+Login and go to My Account to view and/or update any personal information provided, such as mailing and billing addresses, e-mail addresses, or musical interests and roles. If you do not wish to have personal information shared with advertisers or non-essential business partners, you may de-select the option “Check this box if you want MakeMusic to share your contact information…”. Note we must be able to share your personal information with essential business partners, such as Visa or MasterCard, in order to provide you with services. If you do not wish to receive e-mail information (including, but not limited to, information on critical issues and technical updates) de-select the option “Yes, keep me informed of new MakeMusic product information and special offers via e-mail”. 
 
 HOW TO CONTACT US?  
 If you have questions or comments about this Privacy Statement, please visit us on-line at http://support.makemusic.com, or send us a letter addressed by First Class Postage Prepaid U.S. Mail or overnight courier to the following address: 
 
-MakeMusic,  
-Inc. 7615 Golden Triangle Drive   
+MakeMusic, Inc.  
+7615 Golden Triangle Drive   
 Suite M   
 Eden Prairie, MN 55344  
 USA 
