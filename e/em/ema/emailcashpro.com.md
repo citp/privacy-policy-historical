@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the emailcashpro.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523025023id_/http%3A//www.emailcashpro.com/privacy.php%3Fsource%3D%26r%3Droseliabubakar) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailcashpro.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051531id_/http%3A//www.emailcashpro.com/privacy.php%3Fsource%3D%26r%3D) for the most accurate reproduction.*
 
-# EmailCashPro
+# Get Paid To Read Emails
 
 |   
-**     [Home](http://www.emailcashpro.com/?source=&r=roseliabubakar)  
-    [Signup](http://www.emailcashpro.com/signup.php?source=&r=roseliabubakar)  
-    [How it works](http://www.emailcashpro.com/howitworks.php?source=&r=roseliabubakar)  
-    [Member's Area](http://www.emailcashpro.com/edit.php?source=&r=roseliabubakar)  
-    [Terms](http://www.emailcashpro.com/terms.php?source=&r=roseliabubakar)  
-    [Privacy policy](http://www.emailcashpro.com/privacy.php?source=&r=roseliabubakar)  
-    [Contact us](http://www.emailcashpro.com/contact.php?source=&r=roseliabubakar)  
-    [FAQ](http://www.emailcashpro.com/faq.php?source=&r=roseliabubakar)  
+**     [Home](http://www.emailcashpro.com/?source=&r=)  
+    [Signup](http://www.emailcashpro.com/signup.php?source=&r=)  
+    [How it works](http://www.emailcashpro.com/howitworks.php?source=&r=)  
+    [Member's Area](http://www.emailcashpro.com/edit.php?source=&r=)  
+    [Terms](http://www.emailcashpro.com/terms.php?source=&r=)  
+    [Privacy policy](http://www.emailcashpro.com/privacy.php?source=&r=)  
+    [Contact us](http://www.emailcashpro.com/contact.php?source=&r=)  
+    [FAQ](http://www.emailcashpro.com/faq.php?source=&r=)  
 **   
-[ ](http://www.emailcashpro.com/tellfriend.php?source=&r=roseliabubakar) |  |  | 
+[ ](http://www.emailcashpro.com/tellfriend.php?source=&r=) |  |  | 
 
 **Privacy policy**
 
