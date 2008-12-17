@@ -1,38 +1,50 @@
-> *The following text is extracted and transformed from the talentzoo.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413032220id_/http%3A//www.talentzoo.com/website/Content/ContentPage.aspx%3FPageId%3D64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentzoo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131113id_/http%3A//www.talentzoo.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# Talent Zoo - Privacy Policy
+# Talent Zoo - Advertising Jobs | Marketing Jobs | Media Jobs | PR Jobs | Design Jobs
 
-This is the web site of Talent Zoo Inc.. 
+  
+Your privacy is very important to us. We want to make your experience with us as enjoyable and rewarding as possible and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence. 
 
-Our postal address is 1736 Defoor Place, Atlanta, GA, 30318 
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Talent Zoo Inc. ("TZ") collects information from the users of TZ' Internet services (the "Services"), what we do with the information we collect and the choices you have concerning the collection and use of such information. TZ requests that you read this Privacy Policy carefully. 
 
-We can be reached via e-mail at [support@talentzoo.com](mailto:support@talentzoo.com)  
-or you can reach us by telephone at 404-607-1955. 
+**Personal Information TZ Collects and How It Is Used**
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
+**Introduction.** TZ collects information in different ways from you. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in special circumstances as described in this Privacy Policy. This Privacy Policy only applies to data gathered on the TZ' web site (the "Site"), and does not apply to any other information or web site. We may update this Privacy Policy from time to time. This Privacy Policy is effective as of March 1, 2008. Each time you visit the Site or provide us with information, you are, by doing so, accepting the practices described in this Privacy Policy at that time. You agree that by using the Site you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive E-mails, as described below in this Privacy Policy.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations. 
+**Personal Information.** In order to operate the Site in an efficient and effective manner and provide you with information on job postings and services that may be of interest to you, TZ may collect personal information, including contact information (such as an E-mail address) from you. In addition, this information allows us to provide you with private and secure areas to post and modify your original content on our site (e.g., jobs and resumes). We also automatically track certain information based upon your behavior on the Site and use this information to do internal research on our users' demographics, interests and behavior to better understand, protect and serve our users in general. This information may include the URL that a you have just come from (whether this URL is on our Site or not), the URL you go to next (whether this URL is on our Site or not), your computer browser information and your IP address.
 
-The information we collect is used to customize the content and/or layout of our page for each individual visitor, used by us to contact consumers for marketing purposes and . 
+You agree that TZ may use your personal information to contact you and deliver information to you that, in some cases, is targeted to your interests (such as relevant job postings and services), or provides administrative notices or communications applicable to your use of the Site. By accepting this Privacy Policy, you expressly agree to receive this information. In addition, you may receive free informational e-newsletters from us or our clients/partners relating to topics that may be of special interest to you. If you do not wish to receive these communications, we encourage you to opt out of any further receipt by following the opt out provisions provided in each such communication.
 
-With respect to cookies: We use cookies to store visitors preferences, record past activity at a site in order to provide better service when visitors return to our site . 
+We do not sell your personal information to anyone for any reason if you have indicated a desire for us to keep the information private. When posting jobs and resumes, you decide for yourself how much contact information you wish to display (we enable private communication for those who choose to hide this information).
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
+You should be aware, however, that when you voluntarily display or distribute personal information (such as your E-mail address or resume), that information can be collected and used by others. This may result in unsolicited messages from third parties for which TZ is not responsible. Also, you may have arrived at the Site by following a link from a TZ affiliate. If so, please be aware that TZ may share your information with that affiliate and the affiliate may use the information consistent with its privacy policy instead of this one.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above. 
+Also, we may disclose your personal information to those parties hosting our web servers, processing credit card information, providing customer service and analyzing data, and other parties we may engage to provide services for TZ. We will endeavor to obtain restrictions on their use of your personal information, but cannot guarantee that we can obtain restrictions on the use of your information.
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
+**Online Advertisements.** TZ may display online advertisements. We may share aggregated and non-identifying information about our users collected through the registration process as well as through online surveys and promotions with these advertisers. Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements. For instance, an advertiser tells us the audience they want to reach (for example, females between 25 and 55 years of age) and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display the advertisement to the intended audience. TZ will not share personal information about its users with these advertisers.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address. 
+**Responses to E-mail Inquiries.** When you send E-mail inquiries to TZ, the return E-mail address is used to answer the E-mail inquiry. TZ does not use the return E-mail address for any other purpose and except as stated in this Privacy Policy does not share the return E-mail address with any third party. 
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+**Voluntary Customer Surveys.** We may periodically conduct both business and individual customer surveys. We encourage you to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if a third party conducts the survey.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other TZ customers to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector or other demographic information). We may then use the aggregated information to improve the quality of our services to you and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically. 
+**Special Cases.** It is TZ' policy not to use or share your personal information in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, TZ may disclose personal information about you, or information regarding your use of the Services or web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws such as the Electronic Communications Privacy Act, regulations or governmental or legal requests for such information; to disclose information that is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Use or other user policies; to operate the Services properly; or to protect TZ and our users. In addition, personal information we have collected may be passed on to a third party in the event of a transfer of ownership or assets or a bankruptcy of TZ.
 
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them 
+**"Cookies" and How TZ Uses Them.** A "cookie" is a small data file that can be placed on your hard drive when you visit certain web sites. TZ may use cookies to collect, store and sometimes track information for statistical purposes to improve the products and services we provide and to manage our system. We may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit a non-TZ web site where you are prompted to log in or that is customizable, you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
+**TZ' Commitment to Children's Privacy.** Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
+**TZ' Commitment to Data Security.** We have security measures in place to protect the loss, misuse and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
+
+**How to Access or Modify Your Information.** TZ offers you the opportunity to access or modify information provided during registration. To access or modify such information, visit http://www.talentzoo.com or contact our Customer Service Department at (404) 607-1955.
+
+**Where to Direct Questions About TZ' Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact:
+
+Talent Zoo Inc.  
+1736 Defoor Pl. NW  
+Atlanta Georgia 30318  
+[support@talentzoo.com](mailto:support@talentzoo.com)  
+Tel: (404) 607-1955
+
+For more information regarding online privacy, please visit [Consumer.Net](http://www.consumer.net/)
