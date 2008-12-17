@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the allnutri.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518004042id_/http%3A//allnutri.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnutri.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217031025id_/http%3A//allnutri.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# AllNutri.com - Best Price Leading Brands
-
-###   
-Privacy Policy
+# Allnutri.com - Privacy Policy of AllNutri's User Agreement
 
 AllNutri believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, AllNutri makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy is provided to inform you about AllNutri's collection, use and disclosure of information you choose to share with us through the Sites. 
 
