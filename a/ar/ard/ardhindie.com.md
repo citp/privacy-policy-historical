@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624234357id_/http%3A//ardhindie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033453id_/http%3A//ardhindie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ardhi Indie
+# Privacy Policy | Ardhi Indie - Blogger from Pontianak
 
 _Ardhi Indie’s Blog Privacy Statement_
 
@@ -47,7 +47,3 @@ _Notification of Changes_
 When Ardhi Indie’s Blog makes changes to this privacy policy we will post those changes here.
 
 _Contact Information_
-
-If you have any questions regarding our privacy policy, please [contact us](http://www.ardhindie.com/contact).
-
-**Share and Enjoy:** These icons link to social bookmarking sites where readers can share and discover new web pages.
