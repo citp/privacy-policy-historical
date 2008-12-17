@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gll.org privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629012259id_/http%3A//www.gll.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gll.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217181558id_/http%3A//www.gll.org/privacy.asp) for the most accurate reproduction.*
 
 # GLL.org
 
@@ -20,19 +20,9 @@ If our policy on information collection or uses changes, will amend this privacy
 
 If problems arise, users may contact GLL. We are committed to resolving disputes as soon as is possible.
 
-Train to become a lifeguard for free and get a job on completion with the L.I.T.E Lifeguard project. If you have less than 5 GCSE A - C grades then visit Current Casual Vacancies on   
-the Careers page. 
+Due to a staff annual training day, all GLL leisure centres will be closed on Monday 22 December. 
 
-[](http://www.gll.org/borough/waltham-forest.asp)
-
-**Centre Info**
-
-135 Wadham Road  
-Walthamstow  
-London  
-E17 4HR
-
-**T:**  020 8531 9358  
-**E:**  
+NEW APPRENTICE SCHEMES STARTING 2009   
+For more information view Current Permanent Vacancies on the Careers page. 
 
 Or enter your postcode
