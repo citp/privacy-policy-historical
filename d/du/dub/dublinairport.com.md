@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublinairport.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604065023id_/http%3A//www.dublinairport.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublinairport.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071817id_/http%3A//www.dublinairport.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,4 +60,4 @@ Email: [webmaster-dublin@daa.ie](mailto:webmaster-dublin@daa.ied)
 
 * * *
 
-[](http://www.needtransport.ie/ "ecl ad")
+[](http://www.needtransport.ie/)
