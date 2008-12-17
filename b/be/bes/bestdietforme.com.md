@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestdietforme.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517144206id_/http%3A//www.bestdietforme.com/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdietforme.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063642id_/http%3A//www.bestdietforme.com/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -99,9 +99,9 @@ If we decide to change this Privacy Policy, we will post those changes on this w
 If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us as at [ privacy@bestdietforme.com](mailto:privacy@bestdietforme.com) or via postal mail as follows:
 
 Marketdata Enterprises, Inc.  
-2807 Busch Blvd. Suite 110  
-Tampa, Florida 33618 
+8903 Regents Park Drive, Suite 120  
+Tampa, Florida 33647
 
 BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.
 
-Last modified September 10, 2004 
+Last modified August 30, 2008
