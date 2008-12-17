@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609045356id_/http%3A//www.ingdirect.co.uk/general/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071203id_/http%3A//www.ingdirect.co.uk/general/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
 
 # ING Direct > Home > Privacy Policy
 
-The privacy of our website users is important to us and we take care to safeguard it. This policy explains how we use the personal information we hold about you. 
+**The privacy of our website users is important to us and we take care to safeguard it. This policy explains how we use the personal information we hold about you.**
 
-Important information 
+**Important information**
 
 Queries 
 
@@ -26,7 +26,7 @@ If you apply for or use our products, we will also use your personal information
 
 
 
-Where we obtain your information from 
+**Where we obtain your information from**
 
 Information provided by you 
 
@@ -49,7 +49,7 @@ We use the ‘session’ cookies employed in this website to enable you to move 
 
 Our session cookies and our advertising agents’ persistent cookies do not store your e-mail address or other personal information. 
 
-How we use your information and who we share it with 
+**How we use your information and who we share it with**
 
 Keeping you informed 
 
@@ -136,9 +136,17 @@ You can set your Web browser to reject cookies used by this site.  Please note 
 
 
 
+Web Beacons
+
+Web beacons are small strings of HTML code placed on a web page, sometimes referred to as ‘Clear GIF’s’ or ‘Pixel tags’. Web beacons are most often used in conjunction with cookies. 
+
+ING Direct uses web beacons, provided by a company called Doubleclick in conjunction with its products and services, including ad serving and paid search listings. 
+
+In order to opt out of the doubleclick cookie, please visit <http://www.doubleclick.com/privacy/opting_out.aspx>
+
 For more information about cookies (including how to set your browser to reject cookies) please visit the website set up by the Interactive Advertising Bureau (Europe) at **[www.allaboutcookies.org](http://www.allaboutcookies.org/)**. 
 
-More information 
+**More information**
 
 Detailed information about your rights under UK Data Protection legislation can be found on the website of the United Kingdom Information Commissioner, [www.ico.gov.uk/](http://www.ico.gov.uk/) (at the date of this privacy policy). The telephone number of the Information Commissioner’s Office is 01625 545 700 (or (44) 1625 545 700 if phoning from outside the United Kingdom.) 
 
