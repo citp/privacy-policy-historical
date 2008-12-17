@@ -1,37 +1,35 @@
-> *The following text is extracted and transformed from the ribbit.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012133316id_/http%3A//ribbit.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ribbit.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075244id_/http%3A//www.ribbit.com/privacy) for the most accurate reproduction.*
 
-# Welcome to Ribbit
+# Ribbit - Privacy Policy
 
-**Your privacy matters to us  
-**Welcome to Ribbit. Because we are committed to protecting your privacy in all aspects of our business, we hope you will take the time to read this policy, which explains what information we collect from you and how we use that information. By using our Web site or purchasing products or services from us, you agree to be bound by this policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it. Please check back periodically!
+Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. The information we collect is not sold, lent, rented, or otherwise shared with other organizations for any purpose. This privacy statement discloses what information we gather and how we use it. 
 
-**What information we collect and how we use it**  
-When you visit our Web site, Ribbit does not collects your IP address, which we use to help diagnose problems with our server, to administer our Web site, and to improve our products and services. Your IP address also is used to gather broad demographic information that does not personally identify you.
+### What kinds of voluntary information do you gather?
 
-To request more information about an item, you must provide your e-mail address so that the seller may reply to your question by e-mail. Ribbit is not responsible for the protection of your e-mail address if you contact a Seller.
+Our site and email communications may contain links to subscribe, or opt in, and receive special information and publications. For example, we may sponsor an email newsletter, and you may subscribe to this email and other communications from Ribbit. Any communication we send will contain an option to opt out of future communications. 
 
-To order from us you must set up an Ribbit account. Setting up an account requires you to provide your email address and choose a password (your "Account Information"). When you order from us, we also ask for your name, shipping address, telephone number, and your credit card number, billing address, and expiration date (your "Order Information"). This information is necessary for us to process your order, to notify you of your order status, and to fulfill orders. To process and fulfill orders of Seller items that usually ship in 2 to 3 business days to United States and Canadian customers we provide the Seller with your shipping address, but do not provide any more personal information such as your e-mail address or billing information.
+Ribbit may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers, and partners. We never share any of this information about specific individuals with any third party. 
 
-If you subscribe to the Ribbit newsletter, we may use your Account Information and Order Information to occasionally notify you about important changes to the Web site, new Ribbit features, or special Ribbit offers you may find useful. If you would rather not receive this information, visit the Your Account page to change your preferences. You always have the ability to change your preferences. If you have chosen to receive this information and change your mind, visit the Your Account page to change your preferences. (Whenever you decide to change your preferences, please make sure to change your preferences for each account or email address you have left with us.)
+### What other types of information do you gather?
 
-You may also choose to provide personal information, such as your name and address, when you enter a contest or drawing or participate in a survey. We may use this information the same way we use your Account Information and Order Information.
+Information Ribbit gathers through aggregated tracking information is derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs. Under no circumstances does Ribbit divulge any information about an individual user to a third party. 
 
-**How we protect your information**  
-This Web site has security measures in place to protect the loss, misuse, and alteration of the information under our control. . 
+Ribbit tracks user traffic patterns throughout our sites. However, we do not correlate this information with data about individual users. does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). 
 
-Ribbit will not share your personal information with third parties unless you have consented to the disclosure or the disclosure is necessary to (1) comply with the law or with legal process, (2) protect and defend our rights and property, (3) protect our customers or users from misuse or unauthorized use of the Ribbit Web site, (4) protect the personal safety or property of our customers or the public, or (5) to fulfill orders of Seller items that usually ship in 2 to 3 business days to United States and Canadian customers.
+Ribbit sometimes tracks and catalogs the search terms users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. 
 
-Ribbit may provide aggregate statistics about our customers, sales, traffic patterns, and related Web site information to third parties, but these statistics will include no personally identifying information. Put simply, we will not tell our business partners that you bought a particular item, but we may tell them how many customers in certain demographic groups bought certain items. 
+### What are "cookies" and how do you use them?
 
-**Links to other Web sites**  
-The Ribbit Web site contains links to other sites, operated by third parties, that we think may be of interest to you. Ribbit encourages third parties to follow appropriate privacy standards and policies, but is not responsible for the actions of those parties, the content of their Web sites, or any products or services they may offer.
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain personal information, although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. The only personal information a cookie can contain is information you supply yourself. A cookie can't read data from your hard disk or read cookie files created by other sites. Ribbit may use cookies to track user traffic patterns (as described above). 
 
-**Cookies**  
-The Ribbit Web site does not use "cookies," which are small pieces of information that are stored by your browser on your computer's hard drive. Cookies may used by our affiliates or advertisers. Ribbit encourages anyone who uses cookies to follow appropriate privacy standards and policies, but is not responsible for cookies placed by third parties.
+### I'd rather not be cookied. Can I turn them off?
 
-**Children's privacy online**  
-At Ribbit, we understand that children's privacy is important. We do not monitor the age of our user audience. However, if you are under age 13, you should not submit personal identifying information to Ribbit without the consent of your parent or guardian. If you are a parent and want to limit your children's access to material you believe may be harmful to them, you may want to look into commercially available hardware, software and filtering devices. If you are interested in learning about these protections, information is available at [ http://www.worldvillage.com/wv/school/html/control.htm](http://www.worldvillage.com/wv/school/html/control.htm) and other similar sites.
+You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. 
 
-**How to contact us**  
-Ribbit welcomes your questions and comments about privacy. Please send email to [ info@ribbit.com](mailto:feedback@alibris.com).  
- 
+### What is your policy on underage users?
+
+Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. 
+
+### What if I need to contact you?
+
+If you wish to correct any inaccuracies in our record of your contact information, or if you do not want to receive email from us in the future, please let us know by using the "unsubscribe" option on our communications to send us an email. Or, if you feel that this site is not following its stated information policy, please [contact us](http://www.ribbit.com/contact). 
