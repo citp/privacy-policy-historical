@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clearancejobs.com privacy policy that was archived on 2008-04-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080413134213id_/http%3A//www.clearancejobs.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clearancejobs.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217172037id_/http%3A//www.clearancejobs.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
 <script language="JavaScript1.2">
@@ -7,7 +7,6 @@
 var s = 'http://www.clearancejobs.com'
 var rs = 'resizable,scrollbars'
 var mrs = 'menubar,'+rs
-
 
 function challenge() {
 	challenge_win = window.open(s+'/challenge.php','challenge','width=400,height=300')
@@ -29,8 +28,6 @@ function win_open(s,n,w,h)
 
 function callHelp(strHelpPage){
 	var strHelpWindowOptions = rs+',top=40,left=25,width=700,height=400';
-	win1 = window.open('', 'web_help', strHelpWindowOptions);
-	win1.close();
 	win1 = window.open(s + '/web_help/eRHelp.htm#' + strHelpPage + '.html', 'web_help', strHelpWindowOptions);
 	win1.focus();
 }
@@ -65,10 +62,13 @@ function suggestions(tbl,col,ID,ID_val,word,sug) {
 	win40 = window.open(s+'/index.php?action=suggestions&tbl='+tbl+'&col='+col+'&ID='+ID+'&ID_val='+ID_val+'&word='+word+'&sug='+sug,'w40','width=300,height=400,'+rs)
 	win40.focus()
 }
-function view_desc(v) {
-	win9 = window.open(s+'/index.php?action=co_info&border=1&coID='+v,'w9','width=700,height=500,'+rs)
+function view_desc(l,j) {
+	if (j==undefined) j = 0;
+	if (l==undefined) l = 0;
+	win9 = window.open(s+'/index.php?action=co_info&border=1&logoID='+l+'&jobID='+j,'w_'+l,'width=700,height=500,'+rs)
 	win9.focus()
 }
+
 // -->
 </script>
 <meta name="description" content="Post your resume and job search for careers requiring an active security clearance. Apply for government jobs online. Employers search resumes of cleared job seekers all with active clearances. Get expert career guidance.">
@@ -184,6 +184,21 @@ A.notice:hover {text-decoration: none; color: #FF0000; font-weight: bold }
 .news_comments_head { font-weight: bold; font-size: 17px; background-repeat: repeat-x ! important; }
 
 .title { background-color: #808080; color: #FFFFFF; font-weight: bold }
+
+.checklist li { font-size: 10px; background: none; padding-left: 0; white-space: nowrap; }
+.checklist { border: 1px solid #ccc; list-style: none; height: 10em; overflow: auto; width: 16em; }
+.checklist, .checklist li { margin-left: 0; padding: 0; }
+.checklist label { display: block; padding-left: 25px; text-indent: -25px; }
+.checklist label:hover, .checklist label.hover { background: #777; color: #fff; }
+* html .checklist label { height: 1%; }
+
+.cl1 { font-size: 10px; width: 100%; height: 100px; }
+.cl1 .alt { background: #f5f5f5; }
+.cl1 input { vertical-align: middle; }
+.cl1 label:hover, .cl1 label.hover { background: #ddd; color: #000; }
+.def { }
+.def_caption { color: #FFFFFF; font-weight: bold }
+.close a { text-decoration: none; color: #FFFFFF; font-weight: bold }
 -->
 </style>
 </head>
@@ -203,6 +218,9 @@ A.notice:hover {text-decoration: none; color: #FF0000; font-weight: bold }
 		<form method="POST" action="http://www.clearancejobs.com/my.php"></form>
 		<td nowrap="" class="header" align="RIGHT">User ID:&nbsp;<input class="mini" type="TEXT" name="userid" value="" size="8">&nbsp;Password:&nbsp;<input class="mini" type="PASSWORD" name="passwd" value="" size="8" maxlength="">&nbsp;<input class="mini" type="SUBMIT" value="Log In">&nbsp;&nbsp;</td>
 		
+		<td nowrap="">
+			<a class="blue" href="https://secure.clearancejobs.com/register.php?action=candidate">Register</a> | 
+			<a class="blue" href="http://www.clearancejobs.com/contact.php">Forgot Password?</a>		</td>
 		<td width="10"><img src="http://www.clearancejobs.com/images/null.gif" width="10" height="1"></td>
 		</tr></tbody></table>
 		</td>
@@ -240,349 +258,78 @@ A.notice:hover {text-decoration: none; color: #FF0000; font-weight: bold }
 	<table bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0" align="CENTER" width="100%">
 <tbody><tr><td width="100%" colspan="2" valign="BOTTOM" class="heading">Privacy Policy</td></tr>
 <tr><td>
-<p align="right">Last updated: January 2005</p>
+<p align="right">Last updated: 08/25/08</p>
 
-<p>We at Dice, ClearanceJobs and
-Targeted Job Fairs (collectively, “Dice”) are committed to good privacy
-practices regarding your personal information. Your loyalty as a job seeker,
-customer or visitor is important, and we hope that our concerns regarding your
-privacy, as described in this policy (the "Privacy Policy" or
-"Policy"), demonstrate our commitment to making your experience with
-Dice an enjoyable and satisfying one. 
+<p>We at Dice, JobsintheMoney, ClearanceJobs and Targeted Job Fairs (collectively, "Dice") are committed to good privacy practices regarding your personal information. Your loyalty as a job seeker, customer or visitor is important, and we hope that our concerns regarding your privacy, as described in this policy (the "Privacy Policy" or "Policy"), demonstrate our commitment to making your experience with Dice an enjoyable and satisfying one.</p>
+<p>Although Dice respects the privacy of all those who visit our Web sites and use our online services, we do collect information from our visitors, including job seekers and customers. This Privacy Policy governs your interaction with the Dice web site and your registration for and use of Dice's online services (collectively, the "Services"). Except as set forth within this Privacy Policy and our <a href="http://seeker.dice.com/common/seeker/docs/terms_and_conditions.jsp">Terms of Use</a> and other published guidelines, we do not release personally identifiable information about our members and visitors without their permission.</p>
 
-</p>
-<p>Although Dice respects the privacy
-of all those who visit our Web sites and use our online services, we do collect
-information from our visitors, including job seekers and customers. This Privacy
-Policy governs your interaction with the Dice web site and your registration for
-and use of Dice's online services (collectively, the "Services").
-Except as set forth within this Privacy Policy and our <a target="_BLANK" class="blue" href="/index.php?action=legal">Terms
-of Use</a> and other published guidelines, we do not release personally
-identifiable information about our members and visitors without their
-permission.
+<p>Note that, by using the Services, you signify your agreement to this Privacy Policy. If you do not agree to this Policy, please do not use the Services. Your continued use of the Services subsequent to changes to this Policy will mean that you accept the changes; therefore, please bookmark this page and review it periodically. If you have any questions regarding this Privacy Policy, or any other privacy issues in connection with the Services, please e-mail us at <a href="mailto:privacy@dice.com">privacy@dice.com</a>.</p>
+<h2>A. The information we gather.</h2>
+<p>Dice gathers two types of information about users:</p>
+<ol style="display:block;list-style-type:decimal; list-style-position:outside; margin-left:2em;">
+        <li style="list-style-type:decimal; list-style-position:outside;">
+                <p><b>Non-personally identifiable information (information that does not identify a specific individual):</b> When visitors use the Services, we collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which links were "clicked." Collecting such information involves the collection and logging of IP addresses, operating system, and browser software used by each user of the Services. Although such information is not personally identifiable, we can determine from the IP address a visitor's Internet Service Provider and the geographic location of his or her point of connectivity.</p>
 
-</p>
-<p>Note that, by using the Services,
-you signify your agreement to this Privacy Policy. If you do not agree to this
-Policy, please do not use the Services. Your continued use of the Services
-subsequent to changes to this Policy will mean that you accept the changes;
-therefore, please bookmark this page and review it periodically. If you have any
-questions regarding this Privacy Policy, or any other privacy issues in
-connection with the Services, please e-mail us at <a target="_BLANK" class="blue" href="mailto:privacy@dice.com">privacy@dice.com</a>.
+                <p> The non-personally identifiable information we collect helps us identify the most popular areas of our web site and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements.</p>
+                <p>We collect non-personally identifiable information in part through the use of "cookies" - that is, small text files placed on your computer's hard drive - that help us determine the type of content and pages to which you link, the length of time you spend at any particular area of the Services, and the Services you choose to use. Cookies also tell us which advertisements you have seen on our Services, allowing us to continue to provide many of these Services at little or no cost to you. Essentially, cookies are your identification cards for the Dice computers or servers that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus; they will not permit a Web site operator to learn any personally identifiable information (see below) about you unless you have previously provided that information to the Web site operator or you have set the preferences in your browser to provide this information.</p>
+                <p>Cookies allow Dice to serve you better and more efficiently, and to personalize your experience with the Services - for example, by allowing us to save your password so that you do not have to reenter it each time you use the Services. Nevertheless, you should be able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser.</p>
+                <p>Dice uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <a href="http://www.doubleclick.net/us/corporate/privacy" target="_blank">http://www.doubleclick.net/us/corporate/privacy</a>.</p>
 
-</p>
-<p>
-<b>A. The information we gather</b>.
+                <p>Please note that our advertisers and their designees, as well as other third parties, may collect information about you through cookies or other technologies when they serve advertisements through the Services or when you visit their Web site(s). Additionally, the Services contain links to other third party Web sites, including co-branded or other affiliated sites which may or may not be owned or operated by or in conjunction with Dice. You acknowledge that we do not monitor or control the information collection or privacy practices of any third parties, and are not responsible for their practices or the content of their web sites, including their use of any information (such as IP number, browser type, or operating system) collected when visitors or Members "click through" links to their sites or view advertisements served by them. Even though certain information collected by such third parties might not identify you personally, we strongly encourage you to become familiar with their privacy practices, and to contact such third parties if you have any questions about their respective privacy policies.</p>
+        </li>
+        <li style="list-style-type:decimal; list-style-position:outside;">
+                <p><b>Personally identifiable information:</b> In certain areas of the Services - such as those in which you complete a profile, submit your résumé, create a new account, or enter Dice-sponsored contests or promotions - we may request that you provide us with certain personally identifiable information, such as your e-mail address, name, zip code, profession, or work experience. We will, in such situations, seek to identify which informational items are required and which are optional.</p>
 
-</p>
-<p>Dice gathers two types of
-information about users:
+                <p>Job seekers should post profiles and resumes on Dice only if they wish such information to be viewed by Dice's customers. At any time, job seekers may elect that their profile and resume not be searchable by Dice's customers by logging into their account and changing the status of their profile or, if that is not possible, they may contact Dice at <a href="mailto:support@dice.com">support@dice.com</a> and we will make the change for them.</p>
+                <p>In addition, job seekers may elect to make their profile searchable by Dice customers on a confidential basis only. In this case, the user's name and contact information will not be displayed to customers performing searches on Dice. If the customer desires to contact the confidential job seeker regarding an employment opportunity, they will send an email to the job seeker through the Dice system. Dice will forward the email to the seeker's email address. The seeker's email address will not be provided directly to the customer.  When posting a resume confidentially, it is the job seeker's responsibility to ensure that their contact information is not included within their resume attachment.</p>
+                <p><i>The Services are not available to children under 13 years of age</i>. We do not knowingly collect personally identifiable information from children under 13 years of age.</p>
+                <p>Please note that Dice cannot control the acts of users of the Services. All members and visitors should be aware that, when they disclose personally identifiable information in a resume or profile or other medium, the information may be collected and used by others to send that person unsolicited email from other parties outside Dice. In the event that you encounter any Dice user who is improperly collecting or using information about you or other users, please contact <a href="mailto:privacy@dice.com">privacy@dice.com</a>.</p>
 
-</p>
-<p>1. <b>Non-personally identifiable
-information (information that does not identify a specific individual)</b>: When
-visitors use the Services, we collect and aggregate information indicating,
-among other things, which pages were visited, the order in which they were
-visited, and which links were "clicked." Collecting such information
-involves the collection and logging of IP addresses, operating system, and
-browser software used by each user of the Services. Although such information is
-not personally identifiable, we can determine from the IP address a visitor's
-Internet Service Provider and the geographic location of his or her point of
-connectivity.
+        </li>
+</ol>
+<h2>B. How we use (and do not use) the information we gather.</h2>
+<p>Please take some time to familiarize yourself with the different ways we use the information we gather. Keep in mind that, while Dice encourages all third parties involved - including but not limited to its advertisers - to adhere to our policies regarding the privacy of our visitors and members and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from Dice or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with Dice, who you feel is improperly collecting or using information about you, please contact <a href="mailto:privacy@dice.com">privacy@dice.com</a>. We will be happy to forward your message to the third party or contact the third party on your behalf.</p>
+<ol style="display:block;list-style-type:decimal; list-style-position:outside; margin-left:2em;">
+        <li style="list-style-type:decimal; list-style-position:outside;"><b>How we use (and do not use) non-personally identifiable information:</b> We use non-personally identifiable information in aggregate form to build higher quality, more useful Services by performing statistical analyses of the collective characteristics and behavior of our visitors and members, and by measuring demographics and interests regarding specific areas of the Services. We may provide statistical information based on this data to advertisers and other current and potential business partners. We may also use the aggregate data to inform these third parties as to the number of people who have seen and clicked through links to their sites.</li>
 
-</p>
-<p>The non-personally identifiable
-information we collect helps us identify the most popular areas of our web site
-and determine the effectiveness of our promotional activities. In addition, we
-may disclose some of this information to advertisers to inform them of the
-number of people who have seen and/or clicked through their advertisements.
+        <li style="list-style-type:decimal; list-style-position:outside; margin: 1em 0;">
+                <div><b>How we use (and do not use) personally identifiable information:</b> Dice does not sell, re-sell or distribute for re-sale your personally identifiable information. Dice's customers may only use the information provided in resumes and profiles of job seekers to evaluate seekers' qualifications for the customer's open job opportunities. Job seekers should be aware, however, that Dice has no way to control how a customer actually uses the service and how they use the resume and profile information. If you believe a Dice customer is using personally identifiable information inappropriately, please notify Dice at <a href="mailto:privacy@dice.com">privacy@dice.com</a>.</div>
+                <div style="margin:1em 0;">Please note that Dice reserves the right to disclose information submitted by or concerning any visitor or member as we reasonably feel is necessary to protect our systems or business. Specifically, but without limitation, we reserve the right to disclose such information when a visitor or member is in violation of our <a href="http://seeker.dice.com/common/seeker/docs/terms_and_conditions.jsp">Terms of Use</a> or other published guidelines, or partakes (or is reasonably suspected of partaking) in any harmful, infringing or illegal activity, even without a subpoena, warrant, or other court order, and to disclose such information in response to court and governmental orders, civil subpoenas, discovery requests, and as otherwise required by law, as well as in response to allegations of infringement. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution, or to suspend or terminate your membership in connection with any suspected illegal or infringing activity. Finally, Dice reserves the right to assign, sell, license, or otherwise transfer to a third party your personally identifiable information in connection with an assignment, sale, joint venture, or other transfer or disposition of any portion or all of Dice's or its affiliated entities' assets or stock.</div>
+                <p>Subject to the foregoing, Dice uses your personally identifying information in several ways:</p>
 
-</p>
-<p>We collect non-personally
-identifiable information in part through the use of "cookies" - that
-is, small text files placed on your computer's hard drive - that help us
-determine the type of content and pages to which you link, the length of time
-you spend at any particular area of the Services, and the Services you choose to
-use. Cookies also tell us which advertisements you have seen on our Services,
-allowing us to continue to provide many of these Services at little or no cost
-to you. Essentially, cookies are your identification cards for the Dice
-computers or servers that placed them there. Cookies are only read by the server
-that placed them, and are unable to execute any code or virus; they will not
-permit a Web site operator to learn any personally identifiable information (see
-below) about you unless you have previously provided that information to the Web
-site operator or you have set the preferences in your browser to provide this
-information.
+                <ul class="red">
+                        <li>to customize various aspects of the Services to your preferences;</li>
+                        <li>to determine which advertisements or sponsor messages will appear on your screen;</li>
+                        <li>to send to you Dice solicitations, product announcements, and the like that we feel may be of interest to you (you may "opt out" of receiving these materials, as provided below);</li>
+                        <li>to send to you certain e-mail messages that are critical to your use of the Services, such as system status updates or order confirmations (because these messages contain important information, you may not be able to "opt out" of receiving such messages);</li>
 
-</p>
-<p>Cookies allow Dice to serve you
-better and more efficiently, and to personalize your experience with the
-Services - for example, by allowing us to save your password so that you do not
-have to reenter it each time you use the Services. Nevertheless, you should be
-able to control how and whether cookies will be accepted by your web browser.
-For more information on how to do so, please refer to the documentation
-accompanying your browser.
+                        <li>to send you certain e-mail messages from third party advertisers (you may "opt-out" of receiving these materials, as provided below).  Such third-party advertisements are distributed by Dice on behalf of the advertiser.  Dice does not disclose your email address to its advertisers.  However, you will be interacting directly with the advertiser and will be subject to their privacy policy once you "click-through" on an advertisement.
+                        </li><li>to "pre-populate" forms that are displayed for the purpose of collecting individual data by Dice and/or its sponsors (in no case will pre-populating a form automatically transfer any data to an advertiser or other third party - only if you voluntarily request that such data be transferred will any such transfer take place, e.g., by clicking the "Submit" button); and</li>
+                        <li>as may be necessary to support the operation of the Services, such as for billing, account maintenance, and record-keeping purposes.</li>
+                </ul>
+                <div style="margin:1em 0;">In addition to the circumstances described above, Dice may disclose your personally-identifiable information to third parties as follows:</div>
 
-</p>
-<p>Dice uses pixels, or transparent GIF
-files, to help manage online advertising. These GIF files are provided by our ad
-management partner, DoubleClick. These files enable DoubleClick to recognize a
-unique cookie on your Web browser, which in turn enables us to learn which
-advertisements bring users to our website. The cookie was placed by us, or by
-another advertiser who works with DoubleClick. With both cookies and Spotlight
-technology, the information that we collect and share is anonymous and not
-personally identifiable. It does not contain your name, address, telephone
-number, or email address. For more information about DoubleClick, including
-information about how to opt out of these technologies, go to <a target="_BLANK" class="blue" href="http://www.doubleclick.net/us/corporate/privacy">http://www.doubleclick.net/us/corporate/privacy</a>.
+                <ul class="red">
+                        <li>When a job seeker posts a profile or resume on Dice on a non-confidential basis, such information will be shared with Dice's customers. (Note that at any time, job seekers may elect that their profile and resume not be searchable by Dice's customers by logging into their account and changing the status of their profile or they may contact Dice at <a href="mailto:support@dice.com">support@dice.com</a> and we will make the change for them.)</li>
+                        <li> When a job seeker elects to make his or her profile searchable by Dice customers on a confidential basis only, the user's name and contact information will not be displayed to customers performing searches on Dice. If the customer desires to contact the confidential job seeker regarding an employment opportunity, it will send an email to the job seeker through the Dice system. Dice will forward the email to the seeker's email address. The seeker's email address will not be provided directly to the customer.  When posting a resume confidentially, it is the job seeker's responsibility to ensure that their contact information is not included within their resume attachment.</li>
+                        <li>If you "opt in" to receive promotional materials from third parties, information you have made available to Dice may be made available to third parties who provide goods or services that we believe may be of interest to you.</li>
 
+                        <li>If you provide us with your credit card information, we will not release that information to third parties unless necessary to complete a transaction between you and such a third party. Credit card transactions are handled by a third-party financial institution, which receives the credit card number and other personal identifying information only to verify the credit card numbers and process transactions.</li>
+                        <li> All information made available to Dice may be made available to our contractors and consultants, and professional advisors (such as attorneys or accountants), but only to the extent necessary for them to perform services on our behalf, and only under a duty of confidentiality.</li>
+                </ul>
+        </li>
+        <li style="list-style-type:decimal; list-style-position:outside; margin: 1em 0;"><b>"Opting Out":</b> You may receive promotional materials from Dice about Dice Services, or on behalf of Dice's affiliates, advertisers, or other business partners. You may "opt out" of receiving such materials at any time in a variety of ways: by using the "opt-out" link included in each email, by changing your email preferences on the "user settings" page in your Dice account or by contacting us at <a href="mailto:privacy@dice.com">privacy@dice.com</a>. If you opted in to receive information directly from third parties, then you must contact those third parties directly to opt-out.</li>
 
-</p>
-<p>Please note that our advertisers and
-their designees, as well as other third parties, may collect information about
-you through cookies or other technologies when they serve advertisements through
-the Services or when you visit their Web site(s). Additionally, the Services
-contain links to other third party Web sites, including co-branded or other
-affiliated sites which may or may not be owned or operated by or in conjunction
-with Dice. You acknowledge that we do not monitor or control the information
-collection or privacy practices of any third parties, and are not responsible
-for their practices or the content of their web sites, including their use of
-any information (such as IP number, browser type, or operating system) collected
-when visitors or Members "click through" links to their sites or view
-advertisements served by them. Even though certain information collected by such
-third parties might not identify you personally, we strongly encourage you to
-become familiar with their privacy practices, and to contact such third parties
-if you have any questions about their respective privacy policies.
+</ol>
+<h2>C. Surveys and Sweepstakes</h2>
+<p>Occasionally, Dice may conduct surveys in order to better deliver advertisements and content and to better understand your needs relating to the Services. We will not share your survey information with any third party, except in aggregate form. In addition, if and when we sponsor sweepstakes or other promotions, or third parties sponsor such promotions in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the sweepstakes or promotion. That privacy information, to the extent it conflicts with this Policy, will govern that particular promotion or sweepstakes - please remember to read it carefully.</p>
+<h2>D. Deleting or correcting personal information</h2>
+<p>If you would like to have your personally identifiable information removed from Dice's database, or would like to correct an error in such information, please contact us at <a href="mailto:privacy@dice.com">privacy@dice.com</a>, and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within Dice databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however Dice reserves the right, from time to time, to re-contact former customers or users of Dice.</p>
+<h2>Questions?</h2>
 
-</p>
-<p><b>2. Personally identifiable
-information</b>: In certain areas of the Services - such as those in which you
-Announce Availability, complete a profile, submit your résumé, create a new
-account, or enter Dice-sponsored contests or promotions - we may request that
-you provide us with certain personally identifiable information, such as your
-e-mail address, name, zip code, profession, or work experience. We will, in such
-situations, seek to identify which informational items are required and which
-are optional.
+<p>Questions regarding this Privacy Policy should be directed to <a href="mailto:privacy@dice.com">privacy@dice.com</a>.
 
-</p>
-<p>Job seekers should post profiles and
-resumes on Dice only if they wish such information to be viewed by Dice's
-customers. At any time, job seekers may elect that their profile and resume not
-be searchable by Dice's customers by logging into their account and changing the
-status of their profile or, if that is not possible, they may contact Dice at <a target="_BLANK" class="blue" href="mailto:support@dice.com">support@dice.com</a>
-and we will make the change for them.
-
-</p>
-<p>In addition, job seekers may elect
-to make their profile searchable by Dice customers on a confidential basis only.
-In this case, the user's name, contact information and resume will not be
-displayed to customers performing searches on Dice. If the customer desires to
-contact the confidential job seeker regarding an employment opportunity, they
-will send an email to the job seeker through the Dice system. Dice will forward
-the email to the seeker's email address. The seeker's email address will not be
-provided directly to the customer. 
-
-</p>
-<p><i>The Services are not available to
-children under 13 years of age</i>. We do not knowingly collect personally
-identifiable information from children under 13 years of age.
-
-</p>
-<p>Please note that Dice cannot control
-the acts of users of the Services. All members and visitors should be aware
-that, when they disclose personally identifiable information in a resume or
-profile or other medium, the information may be collected and used by others to
-send that person unsolicited email from other parties outside Dice. In the event
-that you encounter any Dice user who is improperly collecting or using
-information about you or other users, please contact <a target="_BLANK" class="blue" href="mailto:privacy@dice.com">privacy@dice.com</a>.
-
-</p>
-<p><b>B. How we use (and do not use)
-the information we gather</b>. 
-
-</p>
-<p class="MsoNormal">Please take some time to familiarize yourself with the
-different ways we use the information we gather. Keep in mind that, while Dice
-encourages all third parties involved - including but not limited to its
-advertisers - to adhere to our policies regarding the privacy of our visitors
-and members and to otherwise handle personal information in a responsible
-manner, we cannot and do not assume any responsibility for any actions or
-omissions of third parties, including the manner in which they use information
-received either from Dice or independently. Nevertheless, in the event you
-encounter any third party associated with, or who claims association with Dice,
-who you feel is improperly collecting or using information about you, please
-contact <a target="_BLANK" class="blue" href="mailto:privacy@dice.com">privacy@dice.com</a> . We will be
-happy to forward your message to the third party or contact the third party on
-your behalf. 
-
-</p>
-<p>1. <b>How we use (and do not use)
-non-personally identifiable information</b>: We use non-personally identifiable
-information in aggregate form to build higher quality, more useful Services by
-performing statistical analyses of the collective characteristics and behavior
-of our visitors and members, and by measuring demographics and interests
-regarding specific areas of the Services. We may provide statistical information
-based on this data to advertisers and other current and potential business
-partners. We may also use the aggregate data to inform these third parties as to
-the number of people who have seen and clicked through links to their sites.
-
-</p>
-<p>2. <b>How we use (and do not use)
-personally identifiable information</b>: Dice does not sell, re-sell or
-distribute for re-sale your personally identifiable information. Dice's
-customers may only use the information provided in resumes and profiles of job
-seekers to evaluate seekers' qualifications for the customer's open job
-opportunities. Job seekers should be aware, however, that Dice has no way to
-control how a customer actually uses the service and how they use the resume and
-profile information. If you believe a Dice customer is using personally
-identifiable information inappropriately, please notify Dice at <a target="_BLANK" class="blue" href="mailto:privacy@dice.com">privacy@dice.com</a>.
-
-</p>
-<p>Please note that Dice reserves the
-right to disclose information submitted by or concerning any visitor or member
-as we reasonably feel is necessary to protect our systems or business.
-Specifically, but without limitation, we reserve the right to disclose such
-information when a visitor or member is in violation of our <a target="_BLANK" class="blue" href="/index.php?action=legal">Terms
-of Use</a> or other published guidelines, or partakes (or is reasonably
-suspected of partaking) in any harmful, infringing or illegal activity, even
-without a subpoena, warrant, or other court order, and to disclose such
-information in response to court and governmental orders, civil subpoenas,
-discovery requests, and as otherwise required by law, as well as in response to
-allegations of infringement. We cooperate with law enforcement agencies in
-identifying those who may be using our servers or services for illegal
-activities. We also reserve the right to report any suspected illegal activity
-to law enforcement for investigation or prosecution, or to suspend or terminate
-your membership in connection with any suspected illegal or infringing activity.
-Finally, Dice reserves the right to assign, sell, license, or otherwise transfer
-to a third party your personally identifiable information in connection with an
-assignment, sale, joint venture, or other transfer or disposition of any portion
-or all of Dice's or its affiliated entities' assets or stock.
-
-</p>
-<p>Subject to the foregoing, Dice uses
-your personally identifying information in several ways: 
-
-</p>
-<ul type="disc">
-  <li>to customize various aspects
-    of the Services to your preferences; 
-    
-  </li>
-  <li>to determine which
-    advertisements or sponsor messages will appear on your screen; 
-    
-  </li>
-  <li>to send to you Dice
-    solicitations, product announcements, and the like that we feel may be of
-    interest to you (you may "opt out" of receiving these materials,
-    as provided below); 
-    
-  </li>
-  <li>to send to you certain e-mail
-    messages that are critical to your use of the Services, such as system
-    status updates or order confirmations (because these messages contain
-    important information, you may not be able to "opt out" of
-    receiving such messages); 
-    
-  </li>
-  <li>to "pre-populate"
-    forms that are displayed for the purpose of collecting individual data by
-    Dice and/or its sponsors (in no case will pre-populating a form
-    automatically transfer any data to an advertiser or other third party - only
-    if you voluntarily request that such data be transferred will any such
-    transfer take place, e.g., by clicking the "Submit" button); and 
-    
-  </li>
-  <li>as may be necessary to support
-    the operation of the Services, such as for billing, account maintenance, and
-    record-keeping purposes. 
-    
-  </li>
-</ul>
-<p>In addition to the circumstances
-described above, Dice may disclose your personally-identifiable information to
-third parties as follows:
-
-</p>
-<ul type="disc">
-  <li>When a job seeker posts a
-    profile or resume on Dice on a non-confidential basis, such information will
-    be shared with Dice's customers. (Note that at any time, job seekers may
-    elect that their profile and resume not be searchable by Dice's customers by
-    logging into their account and changing the status of their profile or they
-    may contact Dice at <a target="_BLANK" class="blue" href="mailto:support@dice.com">support@dice.com</a>
-    and we will make the change for them.) 
-    
-  </li>
-  <li>When a job seeker elects to
-    make his or her profile searchable by Dice customers on a confidential basis
-    only, the user's name, contact information and resume will not be displayed
-    to customers performing searches on Dice. If the customer desires to contact
-    the confidential job seeker regarding an employment opportunity, it will
-    send an email to the job seeker through the Dice system. Dice will forward
-    the email to the seeker's email address. The seeker's email address will not
-    be provided directly to the customer. 
-    
-  </li>
-</ul>
-<ul type="disc">
-  <li>If you "opt in" to
-    receive promotional materials (see below), information you have made
-    available to Dice may be made available to third parties who provide goods
-    or services that we believe may be of interest to you. 
-    
-  </li>
-</ul>
-<ul type="disc">
-  <li>If you provide us with your
-    credit card information, we will not release that information to third
-    parties unless necessary to complete a transaction between you and such a
-    third party. Credit card transactions are handled by a third-party financial
-    institution, which receives the credit card number and other personal
-    identifying information only to verify the credit card numbers and process
-    transactions. 
-    
-  </li>
-  <li>All information made available
-    to Dice may be made available to our contractors and consultants, and
-    professional advisors (such as attorneys or accountants), but only to the
-    extent necessary for them to perform services on our behalf, and only under
-    a duty of confidentiality.
-    
-  </li>
-</ul>
-
-<p align="JUSTIFY">
-3. "<b>Opting In</b>": You may choose to "opt in" to receive
-promotional materials from Dice and/or its affiliates, advertisers, or other
-business partners. You will be given the opportunity to "opt in" to
-receive such materials at every point at which we collect personally
-identifiable information through the Services. You may change your "opt
-in" status or "opt out" with respect to such materials at any
-time by contacting us at <a target="_BLANK" class="blue" href="mailto:privacy@dice.com">privacy@dice.com</a>.
-You may also contact those third parties directly. 
-</p>
-
-<p>
-<b>C. Surveys and Sweepstakes</b>: 
-</p>
-
-<p align="JUSTIFY">
-Occasionally, Dice may conduct surveys in order to better deliver advertisements and content and to better understand your needs relating to the Services. We will not share your survey information with any third party, except in aggregate form. In addition, if and when we sponsor sweepstakes or other promotions, or third parties sponsor such promotions in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the sweepstakes or promotion. That privacy information, to the extent it conflicts with this Policy, will govern that particular promotion or sweepstakes - please remember to read it carefully.
-</p>
-
-<p>
-<b>D. Deleting or correcting personal information.</b>
-</p>
-
-<p align="JUSTIFY">
-If you would like to have your personally identifiable information removed from Dice's database, or would like to correct an error in such information, please contact us at <a target="_BLANK" class="blue" href="mailto:privacy@dice.com">privacy@dice.com</a>, and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within Dice databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however Dice reserves the right, from time to time, to re-contact former customers or users of Dice.</p>
-
-<p>
-<b>E. Questions?</b> 
-</p>
-
-<p align="JUSTIFY">Questions regarding this Privacy Policy should be directed to <a target="_BLANK" class="blue" href="mailto:privacy@dice.com">privacy@dice.com</a>.
-</p>
-</td></tr>
+</p></td></tr>
 	</tbody></table>
 	</td>
 	<td width="28"><img src="http://www.clearancejobs.com/images/null.gif" width="28" height="28"></td>
@@ -621,6 +368,6 @@ ClearanceJobs is a Dice Holdings, Inc. company. Dice Holdings, Inc. companies in
 </tbody></table>
 
 
-<!--  Seconds to complete: 0.25708 (336078 pages per day) -->
-<!--2.67 MB-->
+<!--  Seconds to complete: 0.14666 (589130 pages per day) -->
+<!--2.84 MB-->
 </body></html>
