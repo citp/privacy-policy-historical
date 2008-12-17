@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbalcony.com privacy policy that was archived on 2008-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080626165252id_/http%3A//www.redbalcony.com%3Ffeed%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbalcony.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075622id_/http%3A//www.redbalcony.com%3Ffeed%3Dprivacy) for the most accurate reproduction.*
 
 # RedBalcony > Privacy Plicy
 
