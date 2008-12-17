@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the ticketweb.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614024149id_/http%3A//event.ticketweb.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketweb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217153210id_/http%3A//event.ticketweb.com/about/privacypolicy.html) for the most accurate reproduction.*
 
 # TicketWeb - Privacy Policy
 
 Privacy Policy
 
-**[Click here](https://web.archive.org/web/20080614024149id_/http%3A//event.ticketweb.com/about/privacypolicy-ca.html) for the TicketWeb Canada Privacy Policy.**
+**[Click here](https://web.archive.org/web/20081217153210id_/http%3A//event.ticketweb.com/about/privacypolicy-ca.html) for the TicketWeb Canada Privacy Policy.**
 
-TicketWeb is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including Ask.com, Citysearch, Evite, Gifts.com, HSN, Lending Tree, Match.com, ServiceMagic, Ticketmaster and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, TicketWeb has revised its [privacy policy](https://web.archive.org/web/20080614024149id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html), effective July 20, 2007, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs ](https://web.archive.org/web/20080614024149id_/http%3A//event.ticketweb.com/about/privacypolicy-faq.html) for details about the changes. Please review both the Consumer Privacy statement and this site’s [complete privacy policy](https://web.archive.org/web/20080614024149id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html). 
+TicketWeb is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including Ask.com, Citysearch, Evite, Gifts.com, HSN, Lending Tree, Match.com, ServiceMagic, Ticketmaster and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, TicketWeb has revised its [privacy policy](https://web.archive.org/web/20081217153210id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html), effective July 20, 2007, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs ](https://web.archive.org/web/20081217153210id_/http%3A//event.ticketweb.com/about/privacypolicy-faq.html) for details about the changes. Please review both the Consumer Privacy statement and this site’s [complete privacy policy](https://web.archive.org/web/20081217153210id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html). 
 
 **Consumer Privacy at TicketWeb, an IAC Company**  
-At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of TicketWeb, please [click here](https://web.archive.org/web/20080614024149id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html). __
+At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of TicketWeb, please [click here](https://web.archive.org/web/20081217153210id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html). __
 
-**Information we may collect [[Read more](https://web.archive.org/web/20080614024149id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html#info)] **  
+**Information we may collect [[Read more](https://web.archive.org/web/20081217153210id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html#info)] **  
 We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
 
 We also may collect other types of information in the following ways when you visit our website:
@@ -24,7 +24,7 @@ We also may collect other types of information in the following ways when you vi
 
 We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children’s Online Privacy Protection Act.
 
-**Information others may collect [[Read more](https://web.archive.org/web/20080614024149id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html#infoothers)] **__  
+**Information others may collect [[Read more](https://web.archive.org/web/20081217153210id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html#infoothers)] **__  
 We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
 
   * We do not provide any personal information to these companies. 
@@ -35,7 +35,7 @@ We may allow third-party advertising companies or ad networks to display adverti
 
 If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
 
-**How we may use information we collect** **[[Read more](https://web.archive.org/web/20080614024149id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html#usage)] **__   
+**How we may use information we collect** **[[Read more](https://web.archive.org/web/20081217153210id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html#usage)] **__   
 We may use information to: ****
 
   * Fulfill your requests for products and services;
@@ -49,7 +49,7 @@ We may use information to: ****
 
 
 
-**With whom we may share information we collect [[Read more](https://web.archive.org/web/20080614024149id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html#share)] **__   
+**With whom we may share information we collect [[Read more](https://web.archive.org/web/20081217153210id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html#share)] **__   
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
 
   * Event providers, such as the venues, promoters, artists’ representatives and fan clubs, teams, leagues and others who are involved in, produce or bring you events;
@@ -60,7 +60,7 @@ We will not share your personal information with others except as indicated belo
 
 We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. 
 
-**Your choices [[Read more](https://web.archive.org/web/20080614024149id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html#choices)] **  
+**Your choices [[Read more](https://web.archive.org/web/20081217153210id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html#choices)] **  
 You may choose:
 
   * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
@@ -70,7 +70,7 @@ You may choose:
 
 
 
-**Security [[Read more](https://web.archive.org/web/20080614024149id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html#security)] **  
+**Security [[Read more](https://web.archive.org/web/20081217153210id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html#security)] **  
 We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. 
 
 **Changes to our Privacy Policy**   
@@ -84,7 +84,7 @@ If you are a resident of California, in addition to the rights set forth above, 
 We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is legal@ticketweb.com
 
 **How to contact us**  
-If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/web/20080614024149id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html), or our information practices, please contact us by email or postal mail below:
+If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/web/20081217153210id_/http%3A//event.ticketweb.com/about/privacypolicyfull.html), or our information practices, please contact us by email or postal mail below:
 
 Privacy Officer  
 c/o TicketWeb Legal  
