@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the rcn.org.uk privacy policy that was archived on 2008-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080622222802id_/http%3A//www.rcn.org.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rcn.org.uk privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217124821id_/http%3A//www.rcn.org.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB"><head>
 <!--
   Running MySource Matrix
   Developed by Squiz - http://www.squiz.net
   MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
-  Page generated: 22 June 2008 23:27:59
+  Page generated: 17 December 2008 12:09:08
 -->
 
 
@@ -54,6 +54,62 @@
 <!-- Javascript include below is used to prompt to open an advert in a new window
 Also conveniently fixes the IE6 'FOUC' bug -->
 <script type="text/javascript" src="/__data/assets/file/0012/19200/rcn.js"></script>
+<script type="text/javascript">
+<!-- suppresses use of enter key to submit to box in order to ensure that a radio button is selected for the search
+function noenter() {
+  return !(window.event && window.event.keyCode == 13); }
+// -->
+</script>
+
+<script type="text/javascript">
+<!-- checks to ensure that a search term has been entered into the input box on the form
+function redirect()
+{
+    if ( document.nlhsearch.usersearch.value == "" )
+    {
+        alert ( "Please enter a search term." );
+    }
+    
+    else 
+    {
+    selectsearch();
+    }
+}
+// -->
+</script>
+
+<script type="text/javascript">
+<!-- chooses which search to run based on which radio button has been selected by the user.  Also alerts if no radio button has been selected.
+function selectsearch()
+{
+
+    var searchbox = document.nlhsearch.nlh;
+    
+    if (searchbox[0].checked == true)
+    {
+    window.open('http://www.hlisd.org/SearchResults.aspx?txtSearchType=library&txtSearchText='+document.nlhsearch.usersearch.value);
+    }
+    
+    else if (searchbox[1].checked == true)
+    {
+    window.open('http://www.hlisd.org/SearchResults.aspx?txtSearchType=contacts&txtSearchText='+document.nlhsearch.usersearch.value);
+    }
+    
+    else if (searchbox[2].checked == true)
+    {
+    window.open('http://www.hlisd.org/pcsearch_dev.aspx?search='+document.nlhsearch.usersearch.value);
+    }
+    
+    else
+    {
+    alert ( "Please select one of the search options below the search term input box.");
+    }
+    return true;
+    
+}
+//-->
+</script>
+
 
 
 		
@@ -61,10 +117,25 @@ Also conveniently fixes the IE6 'FOUC' bug -->
 </head>
 <body>
 
-<div id="skip_links">
+<!--<div id="skip_links">
 <p><a href="#gnav_container">Skip to main navigation</a> | <a href="#content">Skip to content</a></p>
-<hr>
+<hr />
+</div>-->
+
+<!-- ///// ** FLAGS top right ** ///// -->
+<div id="quick_access_holder">
+    <div id="skip_links"><p><a href="#gnav_container">Skip to main navigation</a> | <a href="#content">Skip to content</a></p></div>
+    <div id="flags">
+    <ul>
+    <li><a href="http://www.rcn.org.uk/aboutus/england">RCN England</a></li>
+    <li><a href="http://www.rcn.org.uk/aboutus/northernireland">RCN Northern Ireland</a></li>
+    <li><a href="http://www.rcn.org.uk/aboutus/scotland">RCN Scotland</a></li>
+    <li><a href="http://www.rcn.org.uk/aboutus/wales">RCN Cymru RCN Wales</a></li>
+    </ul>
+    </div>
+    <div class="qah_border"><hr></div>
 </div>
+<!-- ///// *** FLAGS top right *** ///// -->
 
 <!-- start header -->
 <div id="header">
@@ -225,6 +296,9 @@ You have the ability to accept or decline cookies by modifying the settings in y
                     <hr class="hide">
             </div>
 
+<!--RCND Online advice section-->
+
+
 <div id="rtcol_advert_1"><p class="advert">Advertisement</p>
 
 			<script type="text/javascript" src="http://www.rcn.org.uk/banner/adx.js"></script>
@@ -241,33 +315,42 @@ You have the ability to accept or decline cookies by modifying the settings in y
       document.write ("&amp;referer=" + escape(document.referrer));
    document.write ("'><" + "/script>");
 //-->
-</script><script type="text/javascript" src="http://www.rcn.org.uk/banner/adjs.php?n=907988607&amp;what=zone:157&amp;exclude=,"></script><noscript><a href='http://www.rcn.org.uk/banner/adclick.php?n=aa8654cf'><img src='http://www.rcn.org.uk/banner/adview.php?what=zone:157&amp;n=aa8654cf' alt=''></a></noscript>			
+</script><script type="text/javascript" src="http://www.rcn.org.uk/banner/adjs.php?n=750493855&amp;what=zone:157&amp;exclude=,"></script><noscript><a href='http://www.rcn.org.uk/banner/adclick.php?n=aa8654cf'><img src='http://www.rcn.org.uk/banner/adview.php?what=zone:157&amp;n=aa8654cf' alt=''></a></noscript>			
 </div>
+
+<!--RCND Online advice section - advert-->
+<div id="rtcol_advert_rcndoa">
+
+</div>
+
+<!--RCND Online advice section-->
+
+
 
 
 						<div id="rtcol_news">
 					<h2>Nursing headlines</h2>
 
-<p class="rtcol_link"><a href="http://www.rcn.org.uk/newsevents/news/article/uk/pay_deal_accepted">Pay deal accepted</a></p>
-<p class="rtcol_date">19 June 2008 | UK</p>
+<p class="rtcol_link"><a href="http://www.rcn.org.uk/newsevents/news/article/uk/public_sector_pensions_overpayment_advice">Public sector pensions overpayment advice</a></p>
+<p class="rtcol_date">16 December 2008 | UK</p>
 
-<p class="rtcol_link"><a href="http://www.rcn.org.uk/newsevents/news/article/uk/rcn_welcomes_moves_to_measure_quality_of_nursing_care">RCN welcomes moves to measure quality of nursing care</a></p>
-<p class="rtcol_date">18 June 2008 | UK</p>
+<p class="rtcol_link"><a href="http://www.rcn.org.uk/newsevents/news/article/uk/rcn_launches_new_sexual_and_reproductive_health_care_publications">RCN launches new sexual and reproductive health care publications</a></p>
+<p class="rtcol_date">11 December 2008 | UK</p>
 
-<p class="rtcol_link"><a href="http://www.rcn.org.uk/newsevents/news/article/uk/nursing__and__midwifery_council_-_joint_union_response_to_chre_report">Nursing &amp; Midwifery Council - joint union response to CHRE report</a></p>
-<p class="rtcol_date">16 June 2008 | UK</p>
+<p class="rtcol_link"><a href="http://www.rcn.org.uk/newsevents/news/article/uk/rcn_offers_message_of_support_to_zimbabwe_nurses">RCN offers message of support to Zimbabwe nurses</a></p>
+<p class="rtcol_date">10 December 2008 | UK</p>
 
 					<p><a href="/newsevents/news">More news &gt;</a></p>
 					<hr class="hide">
 			</div>
 			<div id="rtcol_events">
 					<h2>RCN events</h2>
-<p class="rtcol_link"><a href="http://www.rcn.org.uk/newsevents/event_details/rcn_events/five_day_international_practice_development_residential_school">Five day international practice development residential school</a></p>
-<p class="rtcol_date">23 June 2008 to 27 June 2008</p>
-<p class="rtcol_link"><a href="http://www.rcn.org.uk/newsevents/event_details/rcn_events/working_overseas">Working overseas</a></p>
-<p class="rtcol_date">27 June 2008 </p>
-<p class="rtcol_link"><a href="http://www.rcn.org.uk/newsevents/event_details/rcn_events/royal_college_of_nursing_and_witness_1st_conference_and_exhibition">Royal College of Nursing and WITNESS 1st conference and exhibition</a></p>
-<p class="rtcol_date">2 July 2008 </p>
+<p class="rtcol_link"><a href="http://www.rcn.org.uk/newsevents/event_details/rcn_events/3rd_national_joint_conference_on_healthcare_associated_infection">Third national joint conference on healthcare associated infection</a></p>
+<p class="rtcol_date">14 January 2009 </p>
+<p class="rtcol_link"><a href="http://www.rcn.org.uk/newsevents/event_details/rcn_events/rcn_forensic_nursing_forum_and_womens_mental_health_group_joint_conference">RCN Forensic Nursing Forum and Women’s Mental Health Group joint conference</a></p>
+<p class="rtcol_date">22 January 2009 </p>
+<p class="rtcol_link"><a href="http://www.rcn.org.uk/newsevents/event_details/rcn_events/cancer_care_2009_collaboration_in_a_time_a_change">Cancer care 2009: Collaboration in a time of change</a></p>
+<p class="rtcol_date">23 January 2009 to 24 January 2009</p>
 
 					<p><a href="/newsevents/events">More events &gt;</a></p>
 					<hr class="hide">
@@ -289,7 +372,7 @@ You have the ability to accept or decline cookies by modifying the settings in y
       document.write ("&amp;referer=" + escape(document.referrer));
    document.write ("'><" + "/script>");
 //-->
-</script><script type="text/javascript" src="http://www.rcn.org.uk/banner/adjs.php?n=887180922&amp;what=zone:137&amp;exclude=,"></script><noscript><a href='http://www.rcn.org.uk/banner/adclick.php?n=aedcdc73'><img src='http://www.rcn.org.uk/banner/adview.php?what=zone:137&amp;n=aedcdc73' alt=''></a></noscript>			
+</script><script type="text/javascript" src="http://www.rcn.org.uk/banner/adjs.php?n=672771734&amp;what=zone:137&amp;exclude=,"></script><noscript><a href='http://www.rcn.org.uk/banner/adclick.php?n=aedcdc73'><img src='http://www.rcn.org.uk/banner/adview.php?what=zone:137&amp;n=aedcdc73' alt=''></a></noscript>			
 </div>
 
 
@@ -303,7 +386,7 @@ You have the ability to accept or decline cookies by modifying the settings in y
         <div id="footnav_holder">
         <p id="footerlinks"><a href="/sitemap">Site map</a> | <a href="/legalinfo">Legal</a> | <a href="/privacy">Privacy</a> | <a href="/accessibility">Accessibility</a></p>
         <p class="copy">© 2007/08 Royal College of Nursing</p>
-        <p class="printonly">Printed from RCN website: http://www.rcn.org.uk/privacy - Generated 22 June 2008 11:28 pm</p>
+        <p class="printonly">Printed from RCN website: http://www.rcn.org.uk/privacy - Generated 17 December 2008 12:09 pm</p>
         </div>
     <div id="validates"><!--17 June 08 TON - banner ads breaking validation <a href="http://validator.w3.org/check/referer"><img src="http://www.rcn.org.uk/__data/assets/file/0020/57440/icon.xhtml.gif" alt="Valid XHTML 1.0 Strict" /></a><a href="http://www.w3.org/WAI/"><img src="http://www.rcn.org.uk/__data/assets/file/0010/57439/icon.wai.gif" alt="W3C WAI-AA WCAG 1.0" width="88" height="31" /></a>--></div>
     </div>
