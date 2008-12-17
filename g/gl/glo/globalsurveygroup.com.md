@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410003338id_/http%3A//www.globalsurveygroup.com/gsg.php%3FpageID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045854id_/http%3A//www.globalsurveygroup.com/gsg.php%3FpageID%3Dprivacy) for the most accurate reproduction.*
 
 # GLOBAL SURVEY GROUP: Get invitations to the best paid online surveys
 
@@ -95,8 +95,10 @@ GlobalSurveyGroup.com may transfer, sell or assign information concerning your u
 
 Global Survey Group or its successors and assigns may amend the terms and conditions of the Privacy Policy at any time, or substitute a different Agreement by posting a revised version, on the Global Survey Group Sites. Please refer to our site periodically for updates. Amendments shall become effective upon posting. As we continue to develop our business, we might sell or buy certain assets. In such transactions, customer information generally is one of the transferred business assets. If Global Survey Group or its assets are acquired, customer information will of course be one of the transferred assets.
 
+We may sell, brand or share your personal information that you supply to us with other 3rd party businesses so they can bring selected retail opportunities via direct mail, e-mail or telemarketing for the privacy policy. 
+
 #### Contact Information:
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group [click here](https://web.archive.org/web/20080410003338id_/http%3A//www.globalsurveygroup.com/contact.php) or write to us at Global Survey Group, PO Box 5860, Redwood City, CA 94063 and request to be removed. 
+If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group [click here](https://web.archive.org/web/20081217045854id_/http%3A//www.globalsurveygroup.com/unsub.php) or write to us at Global Survey Group, PO Box 5860, Redwood City, CA 94063 and request to be removed. 
 
-If you feel that Global Survey Group is not abiding by its posted privacy policy, please [click here](https://web.archive.org/web/20080410003338id_/http%3A//www.globalsurveygroup.com/contact.php) or write us at Global Survey Group, PO Box 5860, Redwood City, CA 94063.
+If you feel that Global Survey Group is not abiding by its posted privacy policy, please [click here](https://web.archive.org/web/20081217045854id_/http%3A//www.globalsurveygroup.com/contact.php) or write us at Global Survey Group, PO Box 5860, Redwood City, CA 94063.
