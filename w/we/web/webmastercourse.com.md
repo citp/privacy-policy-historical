@@ -1,59 +1,35 @@
-> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114150id_/http%3A//www.webmastercourse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217111054id_/http%3A//www.webmastercourse.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy for Online Success for Internet Business
+# Use This Free Privacy Policy For Your Website From WebmasterCourse.Com
 
-**Privacy Statement for Online Success For Internet Business**
+## You May Use This Free Privacy Policy For Your Blog Or Website - _Details Here >>_
 
-Online Success For Internet Business has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Online Success For Internet Business 
+The privacy of our visitors to webmastercourse.com is very crucial to us. 
 
-**Information Automatically Logged**
+At webmastercourse.com , we realize how important the safety of your personal information is to you. To ease your mind, we would like you to know that we never sell your personal information to third parties. Below is a break-down on what types of personal information we receive and collect when you use visit webmastercourse.com , and how we protect your information. 
 
-We use your IP address to gather broad demographic information. This helps us to get to know the needs of our customers and   
-where to direct marketing needs. 
+Log Files
 
-**Advertisers**
+We gather and use data stored in log files, which most websites do. The log files include such information as the time you visited our site, which pages you visited throughout our site, the browser you used to visit our site (such as Google or Internet Explorer ), your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable).
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of   
-our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+. 
 
-**Registration Forms**
+Cookies and Web Beacons
 
-Our site's registration form requires users to give us contact information (like their name, email, and postal address). 
+Cookies are used to supply data that will help us remember your personal preferences when you frequent our site. With this you would have the ability to login to some of our forums and you would also be viewing only one popup during your visit. 
 
-Contact information from the registration forms is used to ship purchases, information about our company. The customer's contact   
-information is also used to send promotional material from some of our partners to our customers, and to get in touch with the customer when necessary. 
+To help support our site, webmastercourse.com does use third party advertisements. Web beacons, cookies and other technologies may be used by some of these advertisers when they place their ads on our site. With the help of this new age technology, advertisers can be sent your information including the browser you used to visit our site, your Internet service provider and your ISP address. In some cases, the advertisers will know whether you have Flash installed, which is mainly used for showing certain ads based on particular sites visited or geotargeting purposes. For example, showing weight loss ads to a visitor who frequents weight loss sites or showing California real estate ads to someone in California. 
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+The choice is yours whether to inactivate our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. But remember, this can affect your ability to interact with our site as well as other websites. You would also be incapable of logging into programs or services, such as accounts and forums.
 
-**External Links**
+AdSense Privacy Policy Provided by [http://www.webmastercourse.com](http://www.webmastercourse.com/)
 
-This site contains links to other sites. Online Success For Internet Business is not responsible for the privacy practices or the content of such Web sites. 
+* * *
 
-**Special Relationships**
+**USE  THIS PRIVACY POLICY FREE!**
 
-Although we write most of our own articles and help with consulting, much of our business is directed to outside partnerships. We carefully choose which companies we allow to service our clients although we can assume no liability for the fulfillment of purchases, etc. If any problems arise between our customers and partner sites, we will try to help in resolution of the problem. 
+You may use this free privacy policy template for your personal or business website. Just replace the word **webmastercourse.com** with **your own domain name** and it's ready to go.
 
-**Choice/Opt-Out**
+The only other requirement is that you leave the link to Webmaster Course intact. Please abide by this rule.
 
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. 
-
-1.  For Web Design Weekly mailing lists you can send email to unsubscribe@webmastercourse.com **< or>** for Online Success Weekly mailing lists you can send email to remove@onlinesuccesstips.com 
-
-2.  Partners Opt-Out solutions are listed on their respective sites and emails. 
-
-**Data Quality/Access**
-
-This site gives users the following option for changing and modifying information previously provided: 
-
-You can send email to [editor@webmastercourse.com](mailto:editor@webmastercourse.com)
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-Candice Pardue at [editor@webmastercourse.com](mailto:editor@webmastercourse.com)
-
-or mail to: 
-
-Online Success For Internet Business    
-2566 Old Camden Hwy.   
-Lancaster, SC  29720 
+* * *
