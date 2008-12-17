@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nestle.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607130931id_/http%3A//www.nestle.com/Common/Footer/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217154514id_/http%3A//www.nestle.com/Common/Footer/Privacy.htm) for the most accurate reproduction.*
 
-# Privacy
+# Your data
 
 ## Key Questions and Answers
 
@@ -12,7 +12,7 @@ It is fundamentally important that you are informed that Nestlé S.A. is the Dat
 
 **We asked ourselves a number of key questions that we believe you would like answered about the personal information that you submit to Nestlé. These answers will inform you of your rights relating to your personal information and the measures that Nestlé takes to maintain the privacy and security of this personal information. We trust you find this information helpful.**
 
-If you have any requests concerning your personal information or any queries with regard to these practices please contact Nestlé S.A., Corporate Communications, 1800 Vevey, at the address given in **Question 5** below.
+If you have any requests concerning your personal information or any queries with regard to these practices please contact Nestlé S.A., Corporate Media Relations, 1800 Vevey, at the address given in **Question 5** below.
 
 We designed this Privacy Notice so that you don't have to read all of it to find an answer to a specific question. If you want to read all of it – please feel free to do so. It's set out in full below. 
 
@@ -84,7 +84,7 @@ Nestlé may share your personal information with other companies within the Nest
 
 ## How can you see, check, change or delete the Personal Information you send to us?
 
-You have the right in a number of countries to ask companies (such as Nestlé) to provide you with all the information it stores on you. Certain national laws may require you to pay a small charge for this activity. You may also have your personal information deleted, corrected or revised by sending an e-mail to [webmaster@nestle.com](mailto:webmaster@nestle.com) or a letter to: Nestlé S.A., Corporate Communications, 1800 Vevey, Switzerland. Tel: +41 21 924 4444.
+You have the right in a number of countries to ask companies (such as Nestlé) to provide you with all the information it stores on you. Certain national laws may require you to pay a small charge for this activity. You may also have your personal information deleted, corrected or revised by sending an e-mail to [webmaster@nestle.com](mailto:webmaster@nestle.com) or a letter to: Nestlé S.A., Corporate Media Relations, 1800 Vevey, Switzerland. Tel: +41 21 924 2200.
 
 [Return to top](http://www.nestle.com/CmsTemplates/PrivacyQuestionsList.aspx?NRMODE=Published&NRNODEGUID=%7bFF38C368-CC60-4467-A9C5-F8E943C8F3FE%7d&NRORIGINALURL=%2fCommon%2fFooter%2fPrivacy%2ehtm&NRCACHEHINT=Guest#top)
 
