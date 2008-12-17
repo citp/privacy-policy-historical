@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thebobs.com privacy policy that was archived on 2008-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080115095433id_/http%3A//www.thebobs.com/en_1152969649158387MKNFJYYJ_1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebobs.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082601id_/http%3A//www.thebobs.com/index.php%3Fl%3Den%26s%3D1152969649158387MKNFJYYJ) for the most accurate reproduction.*
 
-# The BOBs - BEST OF THE BLOGS - Deutsche Welle International Weblog Awards
+# The BOBs - Deutsche Welle - Privacy
+
+### Privacy Information
 
 We are especially concerned about protecting your privacy. For that reason, we wish to make clear what data is collected during your visit and how it will be used.
 
