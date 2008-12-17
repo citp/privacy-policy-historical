@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtag.ca privacy policy that was archived on 2008-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080306102453id_/http%3A//www.redtag.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtag.ca privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218003444id_/http%3A//www.redtag.ca/privacy.html) for the most accurate reproduction.*
 
 # Red Tag Vacations - Shop, Compare and Pay Less
 
@@ -27,7 +27,7 @@ Choice/Opt-Out
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   1. You can send E-mail to  [unsubscribe@redtag.ca](mailto:unsubscribe@redtag.ca)
-  2. You can call the following telephone number: 416 642 5300 ext 2041  
+  2. You can call the following telephone number: 905-283-6020 ext 2047  
 
 
 
@@ -37,8 +37,8 @@ Contacting the Website
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 Webmaster, redtag.ca   
-93 Skyway Ave. Suite 210   
-Toronto, Ontario,   
+5450 Explorer Dr.   
+Mississauga, Ontario,   
 Canada   
 [webmaster@redtag.ca](mailto:webmaster@redtag.ca)
 
