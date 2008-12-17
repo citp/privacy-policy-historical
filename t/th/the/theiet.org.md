@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiet.org privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514210918id_/http%3A//www.theiet.org/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiet.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217180619id_/http%3A//www.theiet.org/help/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy statement - The IET
 
@@ -25,7 +25,7 @@ Normally, when you order products or services through the IET Web sites, you wil
 
 The IET protects the privacy of your information using secure servers. The information that you provide will be kept confidential and used to support the IET's relationship with you.
 
-Your details will be made available, as appropriate, to those officers of the IET who are responsible for the services that you request. Services such as Branch activities and advice on achieving qualifications are mostly delivered to members by local volunteer officers. Publications and membership subscriptions are examples of services mostly delivered by the staff in the main offices.
+Your details will be made available, as appropriate, to those officers of the IET who are responsible for the services that you request. Services such as Local Network activities and advice on achieving qualifications are mostly delivered to members by volunteer officers. Publications and membership subscriptions are examples of services mostly delivered by the staff in the main offices.
 
 The information that you provide may be held and used by the IET for market analysis and production of internal reports, for marketing its products and services generally and (subject to any objection or preference you may indicate when submitting your details) for sending information to you about its activities, services and publications from time to time. Please see the section below if you would like to change your preferences.
 
