@@ -1,18 +1,17 @@
-<!--The following is the downloaded HTML source of the dzoic.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509183046id_/http%3A//www.dzoic.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dzoic.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217040551id_/http%3A//www.dzoic.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="content-language" content="en">
-<meta name="author" content="DZOIC Handshakes">
+<meta name="author" content="DZOIC">
 <meta name="robots" content="index,follow">
-<meta name="description" content="Handshakes is a powerful, fully customizable and feature-rich social networking software. It's your best choice to start your own community portal. ">
-<meta name="keywords" content="myspace clone,myspace script,myspace PHP,myspace like,myspace type,myspace software,friendster clone,friendster script,friendster PHP,friendster like,friendster type,friendster software,facebook clone,facebook script,facebook PHP,facebook like,facebook type,facebook software,social networking script,social networking software,social networking PHP,source code,instant messenger,chat,ecards,language,translate,saved search,clone">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="The best solution to run your own business just like MySpace, Facebook, Youtube. Handshakes - social networking script in PHP. ClipHouse - video sharing script in PHP. ">
+<meta name="keywords" content="myspace clone, youtube clone, myspace script, facebook clone, facebook script, myspace software, facebook software, social networking script, social networking software, video sharing software, video sharing script ">
 <link rel="stylesheet" type="text/css" href="gfx/style.css">
 <link rel="Shortcut Icon" href="gfx/favicon.ico">
-<title>DZOIC Handshakes Professional :: The Best Social Networking Script / Software in PHP</title>
+<title>DZOIC :: Video Sharing Script and Social Networking Script - Youtube Clone - Myspace Clone - Youtube Script - Myspace Script</title>
 
 <script src="http://www.dzoic.com/js/AC_RunActiveContent.js" type="text/javascript"></script>
 <script src="http://www.dzoic.com/js/AC_ActiveX.js" type="text/javascript"></script>
@@ -27,44 +26,19 @@
 	}//DropDown
 	function CalculateTotal(the_form){
 		var Total = 0;
-		var Licenses = the_form.quantity_product.value;
-		var BrandingFree = the_form.quantity_branding_free.value;
-		Licenses++;
-		BrandingFree++;
-		Licenses--;
-		BrandingFree--;
-		if(BrandingFree > Licenses){
-			the_form.quantity_branding_free.value = the_form.quantity_product.value;
-			var El = document.getElementById("error");
-			El.innerHTML = "ERROR: Number of purchased Branding Free licenses<br> may not be higher then the number of base licenses.";
-			return false;
-		}//if
-		else{
-			var El = document.getElementById("error");
-			El.innerHTML = "";
-		}//else
-
-		if(Licenses > 10){
-			var Price = 249;
-			var Save = 100;
-		}//if
-		else if(Licenses > 5){
-			var Price = 299;
-			var Save = 50;
-		}//else if
-		else if(Licenses > 1){
-			var Price = 324;
-			var Save = 25;
-		}//else if
-		else{
-			var Price = 349;
-			var Save = 0;
-		}//else
-
-		Total = Price * Licenses + 75 * BrandingFree;
+		
+		var products = new Array("hs","hsbf","hssi","ch","chbf","chsi","ss","chvg","chlb","hsvg","hslb","chva");
+		var prices = new Array(299,75,50,149,50,25,50,99,149,99,149,99);
+		
+		for(var i in products) {
+			var product = "order["+products[i]+"]";
+			if(the_form.elements[product]) {
+				if(the_form.elements[product].checked)
+					Total+= prices[i];
+			}
+		}
+		
 		var Write = "$"+Total+".00";
-		if(Save > 0)
-			Write+= " (save $"+(Save*Licenses)+".00)";
 		var El = document.getElementById("total");
 		El.innerHTML = Write;
 	}//CalculateTotal
@@ -82,21 +56,13 @@
 		<tbody><tr height="2"><td height="2" class="solidline"><img src="gfx/spacer.gif" width="1" height="2" border="0"></td></tr>
 		<tr height="1"><td height="1"><img src="gfx/spacer.gif" width="1" height="1" border="0"></td></tr>
 		<tr height="20"><td height="20" background="gfx/top_shade.gif"><img src="gfx/spacer.gif" width="1" height="20" border="0"></td></tr>
-		<tr height="50"><td height="50"><table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr height="30"><td height="30"><table cellpadding="0" cellspacing="0" border="0" width="100%">
 			<tbody><tr><td><img src="gfx/spacer.gif" width="20" height="1" border="0"></td>
 			<td><a href="http://www.dzoic.com"><img src="gfx/logo.gif" width="80" height="28" border="0"></a></td>
 			<td width="100%" align="right"><table cellpadding="0" cellspacing="3" border="0" align="right">
 				<tbody><tr>
 					<td width="5"><img src="gfx/arrow.gif" width="3" height="5" border="0"></td>
 					<td class="topmenu"><a href="http://www.dzoic.com">Home</a></td>
-					<td width="10"><img src="gfx/spacer.gif" width="10" height="1" border="0"></td>
-
-					<td width="5"><img src="gfx/arrow.gif" width="3" height="5" border="0"></td>
-					<td class="topmenu"><a href="http://hosting.dzoic.com">Hosting</a></td>
-					<td width="10"><img src="gfx/spacer.gif" width="10" height="1" border="0"></td>
-
-					<td width="5"><img src="gfx/arrow.gif" width="3" height="5" border="0"></td>
-					<td class="topmenu"><a href="http://www.dzoic.com/contact.php">Support</a></td>
 					<td width="10"><img src="gfx/spacer.gif" width="10" height="1" border="0"></td>
 
 					<td width="5"><img src="gfx/arrow.gif" width="3" height="5" border="0"></td>
@@ -107,54 +73,101 @@
 				</tr>
 			</tbody></table></td></tr>
 		</tbody></table></td></tr>
-		<tr><td>
-		<script type="text/javascript">
+		
+		<tr><td class="headerBcg" align="right">		
+			<script type="text/javascript">
 			AC_FL_RunContent( "codebase","http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0",
-			"width","760",
-			"height","195",
+			"width","200",
+			"height","172",
 			"src","http://www.dzoic.com/swf/header",
 			"quality","high",
 			"allowScriptAccess","always",
 			"bgcolor","#ffffff",
 			"pluginspage","http://www.macromedia.com/go/getflashplayer",
-			"FlashVars","path=http://www.dzoic.com/",
+			"FlashVars","path=http%3A%2F%2Fwww.dzoic.com&domain=.dzoic.com",
 			"movie","http://www.dzoic.com/swf/header" );
-		</script>
-		</td></tr>
+			</script>		
+		</td></tr>		
+		
 		<tr><td><img src="gfx/spacer.gif" width="1" height="10" border="0"></td></tr>
 		<tr height="100%"><td valign="top"><table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
 	<tbody><tr><td width="222" valign="top"><table cellpadding="0" cellspacing="5" border="0" width="100%">
-							<tbody><tr><td align="right" style="padding-right:30px;"><img src="gfx/secheaders/why_handshakes.gif" width="162" height="25" border="0"></td></tr>
-				<tr><td class="body">Are you looking for an ideal software solution so you can start your <b>own social networking portal</b>?
-				If so, then you have just found what you were looking for.</td></tr>
-				<tr><td class="dline"><img src="gfx/spacer.gif" width="1" height="1" border="0"></td></tr>
+							<tbody><tr><td align="right" style="padding-right:30px;"><img src="gfx/secheaders/quick_links.gif" width="121" height="24" border="0"></td></tr>
+				<tr><td style="padding-left:10px;"><table cellpadding="0" cellspacing="3" border="0" class="sideMenu">				
+					<tbody><tr><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+					<td colspan="4" class="body">Products</td></tr>
+					
+						<tr><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+						<td class="body" colspan="2">Handshakes</td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="features.php?product=hs">Features</a></td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="grabber.php?product=hs">Video Grabber [<span style="font-weight: bold;color:#DC4747">new</span>]</a></td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="load_balance.php?product=hs">Load Balance [<span style="font-weight: bold;color:#DC4747">new</span>]</a></td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="demo.php?product=hs">Live Demo</a></td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="requirements.php?product=hs">System Requirements</a></td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="order.php?product=hs">Pricing &amp; Ordering</a></td></tr>
+							
+						<tr><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+						<td class="body" colspan="2">ClipHouse</td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="features.php?product=ch">Features</a></td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="videoads.php?product=ch">Video Ads [<span style="font-weight: bold;color:#DC4747">new</span>]</a></td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="grabber.php?product=ch">Video Grabber [<span style="font-weight: bold;color:#DC4747">new</span>]</a></td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="load_balance.php?product=ch">Load Balance [<span style="font-weight: bold;color:#DC4747">new</span>]</a></td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="demo.php?product=ch">Live Demo</a></td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="requirements.php?product=ch">System Requirements</a></td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="player_rebranding.php">Player Rebranding</a></td></tr>
+							<tr><td></td><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+							<td class="body"><a href="order.php?product=ch">Pricing &amp; Ordering</a></td></tr>
+							
+					<tr><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+					<td colspan="4" class="body">Services</td></tr>
+					
+						<tr><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+						<td class="body" colspan="2"><a href="installation.php">Script Installation</a></td></tr>
+						
+						<tr><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+						<td class="body" colspan="2"><a href="setup.php">Server Setup</a></td></tr>
+						
+						<tr><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+						<td class="body" colspan="2"><a href="hosting.php">Hosting</a></td></tr>
+						
+						<tr><td></td><td width="15"><img src="gfx/bullet_blue.gif" width="8" height="7" border="0"></td>
+						<td class="body" colspan="2"><a target="_blank" href="http://dev.dzoic.com">Custom Development</a></td></tr>
+							
+				</tbody></table></td></tr>				
+								<tr><td>&nbsp;</td></tr>
+				<tr><td align="right" style="padding-right:30px;"><img src="gfx/secheaders/why_dzoic.gif" width="115" height="25" border="0"></td></tr>
 				<tr><td style="padding-left:10px;"><table cellpadding="0" cellspacing="3" border="0">
 					<tbody><tr><td width="15"><img src="gfx/bullet_r.gif" width="8" height="7" border="0"></td>
-					<td class="body">Feature Rich User End</td></tr>
+					<td class="body">Affordable Prices</td></tr>
 					<tr><td width="15"><img src="gfx/bullet_r.gif" width="8" height="7" border="0"></td>
-					<td class="body">Advanced Admin Console</td></tr>
+					<td class="body">Active Community</td></tr>
 					<tr><td width="15"><img src="gfx/bullet_r.gif" width="8" height="7" border="0"></td>
-					<td class="body">Audio/Video Recording Components</td></tr>
+					<td class="body">100% Source Code</td></tr>
 					<tr><td width="15"><img src="gfx/bullet_r.gif" width="8" height="7" border="0"></td>
-					<td class="body">Flash Instant Messenger and Chat</td></tr>
+					<td class="body">Lifetime Support</td></tr>
 					<tr><td width="15"><img src="gfx/bullet_r.gif" width="8" height="7" border="0"></td>
-					<td class="body">Flash FLV and MP3 Players</td></tr>
+					<td class="body">1 Year of Free Updates</td></tr>
 					<tr><td width="15"><img src="gfx/bullet_r.gif" width="8" height="7" border="0"></td>
-					<td class="body">Video Chat</td></tr>
+					<td class="body">Instant Download</td></tr>
 					<tr><td width="15"><img src="gfx/bullet_r.gif" width="8" height="7" border="0"></td>
-					<td class="rlink"><a href="features.php">view full features list</a></td></tr>
+					<td class="body">Secure Ordering</td></tr>
+					<tr><td width="15"><img src="gfx/bullet_r.gif" width="8" height="7" border="0"></td>
+					<td class="body">Dedicated Support Team</td></tr>					
 				</tbody></table></td></tr>
-				<tr><td>&nbsp;</td></tr>
-				<tr><td align="right" style="padding-right:30px;"><img src="gfx/secheaders/documentation.gif" width="156" height="24" border="0"></td></tr>
-								<tr><td class="body">Learn more about DZOIC Handshakes installation and administration from
-				our Guides and Manuals.</td></tr>
-				<tr><td class="dline"><img src="gfx/spacer.gif" width="1" height="1" border="0"></td></tr>
-				<tr><td style="padding-left:10px;"><table cellpadding="0" cellspacing="3" border="0">
-					<tbody><tr><td width="22"><img src="gfx/icons/pdf.gif" width="16" height="16" border="0"></td>
-					<td class="blink"><a href="download.php?file=0">Installation Guide</a></td></tr><tr><td width="22"><img src="gfx/icons/pdf.gif" width="16" height="16" border="0"></td>
-					<td class="blink"><a href="download.php?file=1">Quick Start Guide</a></td></tr><tr><td width="22"><img src="gfx/icons/pdf.gif" width="16" height="16" border="0"></td>
-					<td class="blink"><a href="download.php?file=2">Administration Manual</a></td></tr>				</tbody></table></td></tr>
-				<tr><td>&nbsp;</td></tr>
+								<tr><td>&nbsp;</td></tr>
 								<tr><td align="right" style="padding-right:30px;"><img src="gfx/secheaders/newsletter.gif" width="123" height="26" border="0"></td></tr>
 				<tr><td class="body">Sign-up to DZOIC Newsletter to be notified about hot releases of Handshakes software.</td></tr>
 				<tr><td class="dline"><img src="gfx/spacer.gif" width="1" height="1" border="0"></td></tr>
@@ -171,9 +184,19 @@
 	<td width="1" class="column_del"><img src="gfx/spacer.gif" width="1" height="1" border="0"></td>
 	<td width="3"><img src="gfx/spacer.gif" width="3" height="1" border="0"></td>
 	<td valign="top"><table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr><td class="secheader"><img src="gfx/secheaders/privacy_policy.gif" width="102" height="11" border="0"></td></tr>
+		
+		<tbody><tr><td class="navBar"><table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td><a href="http://www.dzoic.com">Home</a></td>
+				<td><img src="gfx/nav_arrow.gif" width="3" height="5" border="0"></td>
+				<td><a href="privacy.php">Privacy</a></td>
+			</tr>
+		</tbody></table></td></tr>
 		<tr><td><img src="gfx/spacer.gif" width="1" height="2" border="0"></td></tr>
-		<tr><td style="padding-left:10px;"><table cellpadding="0" cellspacing="3" border="0" width="100%">
+		<tr><td class="secheader">DZOIC<br>
+		Privacy Policy</td></tr>
+	
+		<tr><td class="contentCell padded"><table cellpadding="0" cellspacing="3" border="0" width="100%">
 			<tbody><tr><td width="15" valign="top" style="padding-top:3px"><img src="gfx/bullet.gif" width="8" height="7" border="0"></td>
 				<td class="body highlight">What personally identifiable information is collected from you</td></tr>
 				<tr><td>&nbsp;</td><td class="body">DZOIC Development collects information in 2 sections of our site.
@@ -205,15 +228,14 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 	</tbody></table></td></tr>
 </tbody></table></td></tr>
 		<tr><td><img src="gfx/spacer.gif" width="1" height="20" border="0"></td></tr>
-		<tr height="20"><td height="20" background="gfx/bottom_shade.gif"><img src="gfx/spacer.gif" width="1" height="20" border="0"></td></tr>
 		<tr height="1"><td height="1"><img src="gfx/spacer.gif" width="1" height="1" border="0"></td></tr>
 		<tr height="2"><td height="2" class="solidline"><img src="gfx/spacer.gif" width="1" height="2" border="0"></td></tr>
 		<tr><td class="menu" align="center" style="padding:5px;">
-			<a href="http://www.dzoic.com/features.php">Features</a> |
-			<a href="http://www.dzoic.com/demo.php">Demo</a> |
+			<a href="http://www.dzoic.com/products.php">Products</a> |
+			<a href="http://www.dzoic.com/services.php">Services</a> |
 			<a href="http://www.dzoic.com/requirements.php">System Requirements</a> |
 			<a href="http://www.dzoic.com/order.php">Order</a> |
-			<a href="http://hosting.dzoic.com">Hosting</a> |
+			<a href="http://www.dzoic.com/hosting.php">Hosting</a> |
 			<a href="http://forums.dzoic.com" target="_new">Forum</a> |
 			<a href="http://www.dzoic.com/jobs.php">Jobs</a> |
 			<a href="http://www.dzoic.com/contact.php">Contact</a> |
@@ -246,6 +268,6 @@ var ref   = escape(document.referrer);
 var land  = escape( location.href );
 
 document.write( '<' + 'script language="javascript" src="http://stats.dzoic.com/t.php?u=1&r=' + ref + '&l=' + land + '"><' + '/script>' );
-</script><script language="javascript" src="http://stats.dzoic.com/t.php?u=1&amp;r=&amp;l=https%3A//web.archive.org/web/20080509183046id_/http%253A//www.dzoic.com/privacy.php"></script>
+</script><script language="javascript" src="http://stats.dzoic.com/t.php?u=1&amp;r=&amp;l=https%3A//web.archive.org/web/20081217040551id_/http%253A//www.dzoic.com/privacy.php"></script>
 <!-- End Tracking Code -->
 </body></html>
