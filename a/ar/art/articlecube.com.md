@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the articlecube.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518084244id_/http%3A//www.articlecube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecube.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050636id_/http%3A//www.articlecube.com/site.php%3Fview%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Article Directory - Free Articles - ArticleCube.com
-
-Your Article Directory Privacy Policy
+# Article Directory - Free Articles - ArticleCube
 
 ArticleCube.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
-How we gather information from users
+How we gather information from users 
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, ArticleCube.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
 
@@ -14,7 +12,7 @@ What we do with the information we collect
 
 Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
 
 We may use Personally Identifiable Information collected on www.ArticleCube.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.ArticleCube.com and other topics we think you might find of interest.
 
@@ -30,7 +28,7 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 
 Children 
 
-ArticleCube.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe ArticleCube.com has any information from or about anyone under 13, please contact us at the address listed below. 
+ArticleCube.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe ArticleCube.com has any information from or about anyone under 13, please contact us at the address listed below.
 
 Contacting Us 
 
@@ -38,4 +36,4 @@ We can be reached by emailing us.
 
 Changes to this Policy 
 
-ArticleCube.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+ArticleCube.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
