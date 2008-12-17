@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allegiantair.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609094644id_/http%3A//www.allegiantair.com/aaPrivacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allegiantair.com privacy policy that was archived on 2008-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217044553id_/http%3A//www.allegiantair.com/aaPrivacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Allegiant Air</title>
@@ -30,14 +30,17 @@ function getTheHours() {
 	var theDate = new Date();
 	var hours = theDate.getHours();
 	
-	if ((hours >= 5) && (hours <=8))  {
+	//DST = 5, 8
+	if ((hours >= 4) && (hours <=6))  {
 		document.write("<div id='HEADER2' style='background-image:url(../aaImages/template/header_allegiant_airline_sunrise.jpg)'>");
 		}
-	else if ((hours >= 9) && (hours <=16)) {
+	//DST = 9, 16
+	else if ((hours >= 7) && (hours <=15)) {
 		document.write("<div id='HEADER2' style='background-image:url(../aaImages/template/header_allegiant_airline.jpg)'>");
 		document.write("<span style='position:absolute;top:0;left:0px;'><a style='color:#FF9;font:9px Arial, Helvetica, sans-serif;text-decoration:none;' href='http://www.allegiantair.com/sitemap.xml'>Sitemap</a></span>");
 		}
-	else if ((hours >=17) && (hours <= 20)) {
+	//DST = 17, 20
+	else if ((hours >=16) && (hours <= 18)) {
 		document.write("<div id='HEADER2' style='background-image:url(../aaImages/template/header_allegiant_airline_sunset.jpg)'>");
 		}
 	else {
@@ -47,7 +50,7 @@ function getTheHours() {
 }
 -->
 </script>
-<script type="text/javascript">getTheHours();</script><div id="HEADER2" style="background-image:url(../aaImages/template/header_allegiant_airline_sunrise.jpg)">
+<script type="text/javascript">getTheHours();</script><div id="HEADER2" style="background-image:url(../aaImages/template/header_allegiant_airline.jpg)"><span style="position:absolute;top:0;left:0px;"><a style="color:#FF9;font:9px Arial, Helvetica, sans-serif;text-decoration:none;" href="http://www.allegiantair.com/sitemap.xml">Sitemap</a></span>
 		<table class="hTable">
 			<tbody><tr>
 				<td align="left" rowspan="2"><a href="/aaIndex.php" title="Click here to go back to the Allegiant Air home page"><img src="/aaImages/spacer.gif" width="250" height="80" border="0" alt="Click here to go back to the Allegiant Air home page"></a></td>
@@ -79,25 +82,25 @@ function getTheHours() {
 
 <!-------------------------------------------------------------------------------------------------------------->	
 <!-- GLOBAL NAV  -->
-<!-- START GLOBAL NAVIGATION -->
-<div id="GLOBALNAV">
-		<table class="gNavTable" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td><img src="/aaImages/template/nav/gnav_lside.gif" alt="" width="24" height="32" border="0"></td>
-				<td><a href="/aaIndex.php" title="Allegiant Air Home Page"><img id="nav_home" src="/aaImages/template/nav/home_off.gif" alt="Allegiant Air Home" width="81" height="32" border="0"></a></td>
-				<td><a href="/aaRes/aaBookingFlow_1.php?bktype=WP" title="Allegiant Air offers flights and vacation packages from over 60 North American destinations!"><img id="nav_reservations" src="/aaImages/template/nav/reservations_off.gif" alt="Reservations" width="124" height="32" border="0"></a></td>
-				<td><a href="/aaHotelPartners_LAS.php" title="Choose a hotel from one of Allegiant Air's many offerings!"><img id="nav_hotels" src="/aaImages/template/nav/hotels_off.gif" alt="Hotel Partners" width="82" height="32" border="0"></a></td>
-				<td><a href="/aaDealsAndDestinations.php" title="Allegiant Air provides destination deals in Las Vegas, Reno, Lake Tahoe, Phoenix-Mesa, Tampa Bay Area-St.Petersburg, Orlando, Fort Lauderdale and Gulfport-Biloxi!"><img id="nav_dealsanddestinations" src="/aaImages/template/nav/dealsanddestinations_off.gif" alt="Deals &amp; Destinations" width="173" height="32" border="0"></a></td>
-				<td><a href="/aaBMGSpecial.php" title="Showtickets"><img id="nav_showtickets" src="/aaImages/template/nav/showtickets_off.gif" alt="Showtickets" width="124" height="32" border="0"></a></td>				
-				<td><a href="/aaTravelTools.php" title="Planning a vacation? Want to know where Allegiant flies? Interested in airplanes? Questions about our inflight service? Learn more about Allegiant's nonstop, low fare, jet flights and complete vacation packages including air, hotel and Alamo auto rental here."><img id="nav_traveltools" src="/aaImages/template/nav/traveltools_off.gif" alt="Travel Tools" width="118" height="32" border="0"></a></td>
+<!-- GLOBAL NAV  -->
 
-	
-				<td width="100%"><!-- empty space --></td>
-				<td><img src="/aaImages/template/nav/gnav_rside.gif" alt="" width="17" height="32" border="0"></td>
-			</tr>
-			</tbody></table>
+<div id="globalnavigation">
+   <table id="globalnavigation_table" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+            <td>
+            <ul id="menu">
+                <li id="home"><a href="/aaIndex.php" title="Home">Home</a></li>
+                <li id="reservationpage"><a href="/aaRes/aaBookingFlow_1.php?bktype=WP" title="BookVacation">Book Vacation</a></li>
+                <li id="hotels"><a href="/AllegiantHotelPartners.php" title="Hotels">Hotels</a></li>
+                <li id="dealsanddestinations"><a href="/aaDealsAndDestinations.php" title="DealsDestinations">Deals &amp; Destinations</a></li>
+                <li id="showtickets"><a href="/AllegiantShowTickets.php" title="ShowTix">Show Tickets</a></li>
+                <li id="traveltools"><a class="last" href="/aaTravelTools.php" title="TravelTools">Travel Tools</a></li>
+            </ul>
+            </td>
+        </tr>
+    </tbody></table>
 </div>
-<!-- END GLOBAL NAVIGATION --><!-------------------------------------------------------------------------------------------------------------->	
+<div id="globalnavigationunderpad"><img src="/aaImages/spacer.gif" width="1" height="5" border="0" alt=""></div><!-------------------------------------------------------------------------------------------------------------->	
 
 <!-------------------------------------------------------------------------------------------------------------->	
 <!-- BANNER  -->
