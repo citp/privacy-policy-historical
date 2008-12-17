@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514213534id_/http%3A//www.dcccd.edu/Privacy%2Band%2BSecurity%2BCommitment.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064445id_/http%3A//www.dcccd.edu/Privacy%2Band%2BSecurity%2BCommitment.htm) for the most accurate reproduction.*
 
 # DCCCD: Privacy and Security Commitment
 
 **Our Promise to You  
-**  
+**   
 Dallas County Community College District's (DCCCD) Privacy Commitment is based on two simple ideas. We promise to:
 
   * Comply with all the applicable local, state and federal laws and regulations; and 
@@ -13,10 +13,13 @@ Dallas County Community College District's (DCCCD) Privacy Commitment is based o
 
 DCCCD is a public higher education institution and therefore bound by the Texas Public Information Act and the Family Education Rights and Privacy Act (FERPA). Continue reading for more detailed information about DCCCD's Privacy and Security Commitment. 
 
-Texas Public Information Act | FERPA | FERPA requirements | Request a hold on your directory information  
-Information collected by DCCCD | Cookies | How to view your information | How to update your information | Security
+**Choose one of the following to get more information:**
 
-The Texas Public Information Act requires disclosure of information by a public body -- unless the law specifically protects the information. Most information kept by a public body is public under the Act. The State Attorney General enforces this Act. 
+  
+**Texas Public Information Act**  
+
+
+The [Texas Public Information Act](http://www.oag.state.tx.us/open/requestors.shtml) requires disclosure of information by a public body -- unless the law specifically protects the information. Most information kept by a public body is public under the Act. The State Attorney General enforces this Act. 
 
 Back to the top
 
@@ -24,10 +27,9 @@ Back to the top
 
 [FERPA](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html) protects educational records of a student from public disclosure without written permission of the student. Although many exceptions to the Act exist, the exceptions are very limited. The Department of Education enforces this Act. 
 
-Back to the top
+**What FERPA requires DCCCD to release**
 
-What FERPA requires DCCCD to release (unless you request that your information be withheld)  
-To comply with FERPA, DCCCD may release information classified as "directory information" to the general public without the written consent of the student. Directory information includes:
+Unless you request that your information be withheld, to comply with FERPA, DCCCD may release information classified as "directory information" to the general public without the written consent of the student. Directory information includes:
 
   * name; 
   * home address; 
@@ -119,7 +121,5 @@ Industry standard technologies like Secure Socket Layers (SSL) are used to prote
 
 Back to the top
 
-\--------------------------------------------------------------------------------
-
-[FAQs - General Info](http://ernt.dcccd.edu/scripts/district.cfg/php.exe/enduser/std_alp.php) | [Request Brochures](http://www.dcccd.edu/pi/moreinfo.htm) | [Links to College Home Pages](https://web.archive.org/About+DCCCD/Our+Locations/) | [DCCCD Home](http://www.dcccd.edu/) Page  
+  
 Please send comments or questions to [getanswers@dcccd.edu](mailto:getanswers@dcccd.edu). 
