@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyreckoning.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509080106id_/http%3A//www.dailyreckoning.com/DR_07/Privacy07.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyreckoning.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055640id_/http%3A//www.dailyreckoning.com/DR_07/Privacy07.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ Submissions
 Visitor agrees as a condition of viewing, that any communication between Visitor and Website is deemed a submission. All submissions, including portions thereof, graphics contained thereon, or any of the content of the submission, shall become the exclusive property of the Website and may be used, without further permission, for commercial use without additional consideration of any kind.
 
 Contact Information  
-The Daily Reckoning, Agora Financial, LLC, 808 St. Paul Street, Baltimore, MD. 21202 or email: [ andrew@dailyreckoning.com](mailto:andrew@dailyreckoning.com?subject=from%20DR%20website)
+The Daily Reckoning, Agora Financial, LLC, 808 St. Paul Street, Baltimore, MD. 21202
 
 Copyright And License  
 This "Terms of Use" is copyrighted Agora Financial, LLC  and is fully licensed for use by this website.
