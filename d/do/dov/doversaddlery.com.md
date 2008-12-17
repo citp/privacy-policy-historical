@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624031815id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085408id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.*
 
 # Privacy Policy - Dover Saddlery
 
@@ -201,3 +201,5 @@ Sign up for email sales, specials and events.
 
    
 
+
+[[RichRelevancePlacementSide]]  [](http://www.doversaddlery.com/dminsite/a/256/)
