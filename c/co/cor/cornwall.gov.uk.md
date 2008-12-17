@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cornwall.gov.uk privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502025502id_/http%3A//www.cornwall.gov.uk/index.cfm%3Farticleid%3D2450) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornwall.gov.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110209id_/http%3A//www.cornwall.gov.uk/index.cfm%3Farticleid%3D2450) for the most accurate reproduction.*
 
 # Cornwall County Council - Privacy Policy
 
@@ -68,7 +68,7 @@ On the Website you can order goods and services and you will be asked to provide
 
 7.1 You have the right to request a copy of the personal information which the Council holds about you and you also have the right to request that the information is rectified if it is inaccurate. 
 
-7.2 If you would like to request a copy of your personal information, [please follow this link to the Data Protection area which sets out the County Council's procedure for dealing with your request.](https://web.archive.org/web/20080502025502id_/http%3A//www.cornwall.gov.uk/index.cfm?articleid=354) The Council is permitted to charge you a fee of £10 and has 40 days in which to process your request.
+7.2 If you would like to request a copy of your personal information, [please follow this link to the Data Protection area which sets out the County Council's procedure for dealing with your request.](https://web.archive.org/web/20081217110209id_/http%3A//www.cornwall.gov.uk/index.cfm?articleid=354) The Council is permitted to charge you a fee of £10 and has 40 days in which to process your request.
 
 7.3 The Council reserves the right to refuse to comply with your request for disclosure of information, but will only do so when it is permitted under the Data Protection Act 1998 and will give you the reasons for refusal.
 
@@ -76,7 +76,7 @@ On the Website you can order goods and services and you will be asked to provide
 
 8.1 If you have any comments or complaints regarding this Privacy Policy, please contact [The Data Protection Officer](mailto:dataprotection@cornwall.gov.uk?subject=feedback%20from%20the%20Cornwall%20County%20Council%20web%20site). You may also write to: The Data Protection Officer, Cornwall County Council, New County Hall, Treyew Road, Truro, Cornwall, TR1 3AY. 
 
-8.2 If you have any general feedback or comments regarding the Website, please email [the Council's web manager](mailto:webmanager@cornwall.gov.uk?subject=feedback%20from%20the%20Council%27s%20web%20site) or use [the Council's feedback form ](https://web.archive.org/web/20080502025502id_/http%3A//www.cornwall.gov.uk/index.cfm?articleid=2490)
+8.2 If you have any general feedback or comments regarding the Website, please email [the Council's web manager](mailto:webmanager@cornwall.gov.uk?subject=feedback%20from%20the%20Council%27s%20web%20site) or use [the Council's feedback form ](https://web.archive.org/web/20081217110209id_/http%3A//www.cornwall.gov.uk/index.cfm?articleid=2490)
 
   
 
