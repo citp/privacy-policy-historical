@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the keh.com privacy policy that was archived on 2007-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070724070416id_/http%3A//www.keh.com/onlinestore/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keh.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045535id_/http%3A//www.keh.com/onlinestore/Privacy.aspx) for the most accurate reproduction.*
 
 # Cameras and used cameras available from KEH Camera Brokers.
 
-| Last Updated: 11/1/04; We understand and share your concern about privacy. We want to assure you that KEH respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to webmaster@keh.com. |   
+| Last Updated: 10/1/08; We understand and share your concern about privacy. We want to assure you that KEH respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to webmaster@keh.com. |   
 ---|---  
 What type of information does KEH collect?
 
@@ -12,7 +12,7 @@ Automatic Information
 We automatically track certain information based upon your behavior on our site. We use this information to analyze our users' behavior, interests, and demographics to better understand and serve our shoppers. This information may include the URL that you just came from, which URL you next go to, what browser you are using, and your IP address. 
 
 What about Cookies?  
-"Cookies" are small pieces of information that a web site will store on your computer’s hard drive. KEH will use cookies to identify you during your session, make our services easier to use and to store items in your shopping cart between visits. Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords. Acceptance of cookies is not a requirement to browse our site, however our shopping cart does require the acceptance of cookies to work properly. Most browsers automatically accept cookies, but you can configure your browser to prevent that. If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to contact our sales department at 404-892-5522. 
+"Cookies" are small pieces of information that a web site will store on your computer’s hard drive. KEH will use cookies to identify you during your session, make our services easier to use and to store items in your shopping cart between visits. Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords. Acceptance of cookies is not a requirement to browse our site, however our shopping cart does require the acceptance of cookies to work properly. Most browsers automatically accept cookies, but you can configure your browser to prevent that. If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to contact our sales department at (770) 333-4200. 
 
 Personally Identifiable Information  
 This is information that you provide to us that is specific to you. We collect information such as your name, phone number, billing information, shipping information and other personal information as indicated on the forms throughout our site. You provide such information when you make a purchase, enter a contest or sweepstakes, fill out a survey or form, provide ratings or testimonials feedback, give or redeem a gift certificate, etc. Where possible, we indicate which fields are required and which fields are optional. You can always choose not to provide information, but you may not be able to use a particular service or feature. 
@@ -78,5 +78,5 @@ Need more help? You can refer to our Help Center or email one of our Customer Se
 You may also write to us at:  
 Webmaster  
 KEH, Inc.  
-2310 Marietta Blvd., NW  
-Atlanta, GA 30318
+4900 Highlands Parkway SE  
+Smyrna, GA 30082
