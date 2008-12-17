@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609023839id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082913id_/http%3A//globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Globe of Blogs
 
 ### Random Weblog
 
-[Dracut After Dark](http://www.voy.com/54926/) ::: Discuss issues, concerns, ideas and questions relative to Dracut Massachusetts and its surrounding area.  
+[El Burlador](http://elburlador.blogspot.com/) ::: Anamórficas postales porteñas o Buenos Aires vista del nido de un gorrión  
 
 
 ## Statement of Policy
