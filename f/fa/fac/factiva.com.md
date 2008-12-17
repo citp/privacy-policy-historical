@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409122508id_/http%3A//www.factiva.com/legal/privacy.asp%3Fnode%3DmenuElem1173) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044135id_/http%3A//factiva.com/legal/privacy.asp%3Fnode%3DmenuElem1173) for the most accurate reproduction.*
 
 # Factiva Privacy Policy
 
