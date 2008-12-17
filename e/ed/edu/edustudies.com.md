@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edustudies.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609022750id_/http%3A//www.edustudies.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edustudies.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063436id_/http%3A//www.edustudies.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Welcome to Edustudies.com
 
