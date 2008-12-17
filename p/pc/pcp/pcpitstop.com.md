@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510144408id_/http%3A//www.pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021017id_/http%3A//www.pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,8 +19,6 @@ To protect your privacy, we provide this notice explaining our complete online i
 
 
 * * *
-
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program, we have committed to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [bbbonline.org](https://web.archive.org/offsite.asp?http://www.bbbonline.org). 
 
 ## The Information We Collect
 
