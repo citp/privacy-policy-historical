@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gabbr.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415144125id_/http%3A//www.gabbr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gabbr.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217173102id_/http%3A//www.gabbr.com/privacy) for the most accurate reproduction.*
 
 # Gabbr.com
 
