@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetruemedia.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613163949id_/http%3A//www.onetruemedia.com/otm_site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetruemedia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021437id_/http%3A//www.onetruemedia.com/otm_site/privacypolicy) for the most accurate reproduction.*
 
 # One True Media - Privacy Policy
 
@@ -19,7 +19,7 @@ By using the One True Media service, you agree to the collection and use of info
 
 This policy applies to all information collected on the One True Media website, via email, and by phone.
 
-You provide personal information to us when you register as a One True Media member, create Video Montages and Photo Books, order products, and request information from us. The personal information we collect includes:
+You provide personal information to us when you register as a One True Media member, create Video Montages and Slideshows, order products, and request information from us. The personal information we collect includes:
 
   * User ID
   * Password
