@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the playspan.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607190623id_/http%3A//www.playspan.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playspan.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217010655id_/http%3A//www.playspan.com/privacypolicy) for the most accurate reproduction.*
 
 # PlaySpan
 
-This Privacy Policy describes how we handle your personal information collected (1) through the Playspan website, at www.Playspan.com (the “Website”), and (2) through our Services and Client software. Capitalized terms not defined in this Privacy Policy, are defined in the Playspan Marketplace Agreement [www.playspan.com/marketplaceagreement](https://web.archive.org/web/20080607190623id_/http://www.playspan.com/marketplaceagreement), into which this Privacy Policy is incorporated.
+This Privacy Policy describes how we handle your personal information collected (1) through the Playspan website, at corp.Playspan.com (the "Website"), and (2) through our Services and Client software. Capitalized terms not defined in this Privacy Policy, are defined in the Playspan Marketplace Agreement [corp.playspan.com/marketplaceagreement](https://web.archive.org/web/20081217010655id_/http://www.playspan.com/marketplaceagreement), into which this Privacy Policy is incorporated.
 
-“Personal Information” is non-public information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing. “Anonymous Information” means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. We collect, use, and disclose Personal Information and Anonymous Information as described in this Privacy Policy.
+"Personal Information" is non-public information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing. "Anonymous Information" means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. We collect, use, and disclose Personal Information and Anonymous Information as described in this Privacy Policy.
 
 ## 1\. User Consent
 
@@ -20,15 +20,15 @@ We collect Personal Information that you submit to us voluntarily through our We
 
 If we offer a contest or sweepstakes relating to the Services, we may collect Personal Information in connection with it and we may state (in connection with the contest or sweepstakes) additional or different privacy practices that apply to such Personal Information. 
 
-**Personal Information Collected Via Technology – On the Website**
+**Personal Information Collected Via Technology On the Website**
 
-As you navigate our Website, certain information may also be collected passively, including your Internet protocol address, browser type, and operating system. We also use Cookies and navigational data like uniform resource locators (URL’s) to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. This type of information is collected to better understand how you use our community and make the community and the Services we provide more useful to you.
+As you navigate our Website, certain information may also be collected passively, including your Internet protocol address, browser type, and operating system. We also use Cookies and navigational data like uniform resource locators (URLs) to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. This type of information is collected to better understand how you use our community and make the community and the Services we provide more useful to you.
 
-An Internet protocol address or “IP Address” is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze our web page flow.
+An Internet protocol address or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze our web page flow.
 
-“Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website may not work properly.
+"Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website may not work properly.
 
-**Personal Information Collected Via Technology – Through the Service**
+**Personal Information Collected Via Technology Through the Service**
 
 As you use the Service (including through the use of the Client), we will collect information about your use of the Services, the listings you make, the bids you make, and transactions you enter into, including information about the Virtual Good involved, amount paid, date, and time. We will associate this Service-use information with your Personal Information. 
 
@@ -91,9 +91,9 @@ You can see, review and change most of your Personal Information by logging into
 
 Upon your request, we will close your account as soon as reasonably possible, based on your account activity and in accordance with applicable law. However, we do retain Personal Information from closed accounts in order to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Marketplace Agreement, and take other actions otherwise permitted by law. 
 
-When you receive newsletters or promotional emails from us, you may indicate a preference to stop receiving such communications from us and you will have the opportunity to “opt-out” by following the instructions in the applicable newsletter or email. Make sure to set your Playspan notification preferences so we can communicate to you as you prefer. Despite your indicated preferences regarding promotional e-mail and text messages, however, we may send you administrative e-mails or text messages regarding the Service or notices of any updates to our Service Agreement or Privacy Policy. 
+When you receive newsletters or promotional emails from us, you may indicate a preference to stop receiving such communications from us and you will have the opportunity to "opt-out" by following the instructions in the applicable newsletter or email. Make sure to set your Playspan notification preferences so we can communicate to you as you prefer. Despite your indicated preferences regarding promotional e-mail and text messages, however, we may send you administrative e-mails or text messages regarding the Service or notices of any updates to our Service Agreement or Privacy Policy. 
 
-You may also opt out, by sending an email to [support@playspan.com](mailto:support@playspan.com) with a title of “Opt Out” of our disclosure of your Personal Information to unaffiliated third parties (other than disclosures permitted by law). 
+You may also opt out, by sending an email to [support@playspan.com](mailto:support@playspan.com) with a title of "Opt Out" of our disclosure of your Personal Information to unaffiliated third parties (other than disclosures permitted by law). 
 
 ## 8\. Security 
 
