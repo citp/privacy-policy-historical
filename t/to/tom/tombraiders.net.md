@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tombraiders.net privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616054208id_/http%3A//www.tombraiders.net/stella/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tombraiders.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217083228id_/http%3A//tombraiders.net/stella/privacy.html) for the most accurate reproduction.*
 
 # Tombraiders.net Advertising and Privacy Policy
 
@@ -14,7 +14,7 @@ Tombraiders.net respects your right to privacy. The following outlines the priva
 
 There are no password-restricted areas on this site and, unless you contact me, I have no way of obtaining your email address or other personal information.
 
-When you sign up for my [newsletter](http://www.tombraiders.net/cgi-bin/dada/mail.cgi/list/tombraiders/) or send me a message by email or through my [contact form](https://web.archive.org/web/20080616054208id_/http%3A//www.tombraiders.net/stella/contact.html), I do save your name (if you have provided it) and email address. I **_never_** , under any circumstances, rent, sell or share this information with any outside parties. Joining my mailing list or sending me a personal message will not cause you to receive any "spam"/junk email.
+When you sign up for my [newsletter](http://www.tombraiders.net/cgi-bin/dada/mail.cgi/list/tombraiders/) or send me a message by email or through my [contact form](https://web.archive.org/web/20081217083228id_/http%3A//tombraiders.net/stella/contact.html), I do save your name (if you have provided it) and email address. I **_never_** , under any circumstances, rent, sell or share this information with any outside parties. Joining my mailing list or sending me a personal message will not cause you to receive any "spam"/junk email.
 
 If you have subscribed to the email newsletter and would like to unsubscribe, either follow the instructions at the bottom of any newsletter message, go to the the [sign-up page](http://www.tombraiders.net/cgi-bin/dada/mail.cgi/list/tombraiders/) to unsubscribe, or send me a request by email and you will be removed immediately.
 
@@ -42,6 +42,6 @@ Tombraiders.net contains links to other web sites, including other fan sites as 
 
 ##### Security & Donating to tombraiders.net
 
-Information on how to help support this site appears [here](https://web.archive.org/web/20080616054208id_/http%3A//www.tombraiders.net/stella/support/support.html). This includes a link to PayPal, through which you can donate money. PayPal uses secure servers with the highest level of encryption available. PayPal's [Security Center](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/security-main-outside) and [Privacy Policy](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside) provide more details.
+Information on how to help support this site appears [here](https://web.archive.org/web/20081217083228id_/http%3A//tombraiders.net/stella/support/support.html). This includes a link to PayPal, through which you can donate money. PayPal uses secure servers with the highest level of encryption available. PayPal's [Security Center](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/security-main-outside) and [Privacy Policy](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside) provide more details.
 
 Again, if you have any question about this site or its security and privacy policy, please don't hesitate to contact me. —Stella
