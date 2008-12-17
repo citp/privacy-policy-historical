@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the austinchronicle.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609193440id_/http%3A//www.austinchronicle.com/gyrobase/Info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austinchronicle.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142657id_/http%3A//www.austinchronicle.com/gyrobase/Info/privacy) for the most accurate reproduction.*
 
-# The Austin Chronicle: Privacy
+# Privacy - The Austin Chronicle
 
 ## Privacy Statement for austinchronicle.com
 
@@ -10,7 +10,7 @@ We also log domain names and/or IP addresses. We use this information primarily 
 
 On certain pages and forms we may ask users to provide us with names, addresses, phone numbers, fax numbers, email addresses, demographic, preference and other personal and demographic information. This more personal information is gathered only with the users' knowledge and active permission and participation. 
 
-We will not share any user's personal information to any other organizations without the user's consent, nor will we publish such information. 
+We will not share any user's personal information to any other organizations without the user's consent, nor will we publish such information. Contest entry information will be shared with the contest sponsor, but not with any additional parties. 
 
 Simple identifying cookies are set by our ad banner software, and our servers do not read any other cookies, period. So surf away with peace of mind. 
 
