@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408085718id_/http%3A//business.gov/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125307id_/http%3A//business.gov/policies/privacy) for the most accurate reproduction.*
 
-# Business.gov - Privacy Policy
+# Privacy Policy | Business.gov
 
 Business.gov collects NO personal information, such as names and addresses, when you visit our website. If you choose to provide this information to us, it will be used only to fulfill your request for information.
 
@@ -12,11 +12,11 @@ Business.gov automatically records website usage information that we analyze sta
 
   * Date and time of access 
   * URL address of the Business.gov webpage visited 
-  * Internet domain and IP address from which our website was accessed
-  * Type of browser and operating system used to access our site (if provided by the browser)
+  * Internet domain and IP address from which our website was accessed 
+  * Type of browser and operating system used to access our site (if provided by the browser) 
   * URL address of the referring page (if provided by the browser) 
-  * Completion or success status of the request for a web page or other on-line item
-  * File size of the webpage visited
+  * Completion or success status of the request for a web page or other on-line item 
+  * File size of the webpage visited 
 
 
 
@@ -30,15 +30,13 @@ There are three types of cookies. A session cookie is a line of text that is sto
 
 Business.gov does not use persistent cookies, but sometimes uses session cookies. Some of the interactive sections of our website may set session cookies in temporary memory in order to provide streamlined navigation. These session cookies are not stored on your computer's hard drive **permanently** and are automatically erased as soon as you close your browser. Information from these session cookies is not collected or saved.
 
-Business.gov uses Google Analytics, which requires a third party (Google) session cookie, to keep track of the site usage. The cookie is used solely for collecting usage information as described in the "Technical Information Collected and Automatically Stored" section. No personally identifiable information is gathered. 
+## Information That You Voluntarily Provide 
 
-##  Information That You Voluntarily Provide 
-
-We do not collect personal information for any purpose other than to respond to you. If you choose to provide us with personal information - like filling out a [Contact Us](https://web.archive.org/contact_us "Contact Us") form with an e-mail address and submitting it to us through the website - we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. Business.gov never collects information or creates individual profiles for commercial marketing. 
+We do not collect personal information for any purpose other than to respond to you. If you choose to provide us with personal information - like filling out a [Contact Us](https://web.archive.org/contact-us/) form with an e-mail address and submitting it to us through the website - we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. Business.gov never collects information or creates individual profiles for commercial marketing. 
 
 While you must provide an e-mail address and zip code for a localized response to any incoming questions or comments to Business.gov, we recommend that you NOT include any other personal information, such as social security numbers. 
 
-##  Site Security 
+## Site Security 
 
 For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
@@ -52,4 +50,4 @@ Business.gov contains links to websites of other government, public and private 
 
 ## Your Rights Under the Privacy Act
 
-The Federal Citizen Information Center provides a guide to [Your Rights to Federal Records - Questions and Answers on the Freedom of Information Act and Privacy Act](http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm) that explains your rights to personal information under these laws.
+The Federal Citizen Information Center provides a guide to [Your Rights to Federal Records - Questions and Answers on the Freedom of Information Act and Privacy Act](http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm?cm_sp=ExternalLink-_-Federal-_-GSA) that explains your rights to personal information under these laws.
