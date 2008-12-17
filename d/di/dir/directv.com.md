@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225142537id_/http%3A//www.directv.com/DTVAPP/global/contentPage.jsp%3FassetId%3DP400044) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035902id_/http%3A//www.directv.com/DTVAPP/global/contentPage.jsp%3FassetId%3DP400044) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ This Policy explains our practices in the following areas:
 
 You may also purchase or use products or services provided by other companies that may be delivered through your DIRECTV Receiving Equipment. Please contact or visit the Web sites of the providers of those products or services to obtain copies of their privacy policies. 
 
-If you have questions about this Policy or other matters, you may contact us 24 hours a day, any day of the year, by phone (1-800-531-5000), e-mail (directv.com/email) or mail (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550 ). 
+If you have questions about this Policy or other matters, you may contact us 24 hours a day, any day of the year, by phone (1-800-531-5000), e-mail ([directv.com/email](http://directv.com/email)) or mail (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550 ). 
 
 **I. Types of Information we collect and how we collect it.**
 
@@ -87,7 +87,7 @@ Even though Anonymous Viewing Information does not include any Account Informati
 
 You may further opt not to receive communications that we send to you based on your Account Information. If you make this choice, you understand that we will not be able to inform you about any upcoming features, improvements, or promotions regarding your DIRECTV service. In all cases, however, we will collect and use your Account Information (including Service Information) and Diagnostic Information for legitimate business purposes.
 
-If you prefer that we not share your Customer Information with affiliated companies or third parties, please call (1-800-531-5000), e-mail (directv.com/email) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550). 
+If you prefer that we not share your Customer Information with affiliated companies or third parties, please call (1-800-531-5000), e-mail ([directv.com/email](http://directv.com/email)) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550). 
 
 **V. How long we keep Customer Information**
 
@@ -95,7 +95,7 @@ We maintain information about you for as long as we provide service to you, and 
 
 **VI. Our do not contact policy**
 
-We may, from time to time, contact you by mail, e-mail or telephone to tell you about additional products or services that we or third parties may offer. If you do not wish to receive such calls or promotional materials, call (1-800-531-5000), e-mail (directv.com/email) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550). If you do not wish to receive e-mail, please contact us via e-mail at directv.com/email. 
+We may, from time to time, contact you by mail, e-mail or telephone to tell you about additional products or services that we or third parties may offer. If you do not wish to receive such calls or promotional materials, call (1-800-531-5000), e-mail ([directv.com/email](http://directv.com/email)) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550). If you do not wish to receive e-mail, please contact us via e-mail at [directv.com/email](http://directv.com/email). 
 
 **VII. How we protect the security of Customer Information**
 
@@ -107,7 +107,7 @@ We protect the security of credit card transactions on the Internet by using a s
 
 **IX. Your access to information and rights under the Communications Act**
 
-You may obtain access to information we collect about you and correct any errors in such information by contacting us anytime by phone (1-800-531-5000), e-mail (directv.com/email) or mail (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550).
+You may obtain access to information we collect about you and correct any errors in such information by contacting us anytime by phone (1-800-531-5000), e-mail ([directv.com/email](http://directv.com/email)) or mail (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550).
 
 The Communications Act, 47 U.S.C. § 338(i), governs our practices concerning the collection and disclosure of personally identifiable information about you. If you believe we have violated the provisions of the Communications Act, you may bring an action for damages, reasonable attorneys? fees, and costs. The DIRECTV Customer Agreement contains our agreement that claims such as these will be resolved by binding arbitration. You received a copy of the Customer Agreement in your first bill. It is also available at directv.com.
 
@@ -115,6 +115,6 @@ The Communications Act, 47 U.S.C. § 338(i), governs our practices concerning th
 
 We reserve the right to change this Privacy Policy at any time. If we make a significant change with regard to our collection or use of information about our customers, we will note on the main page of our Web sites that this Policy has been updated and may take additional reasonable steps to notify you about the new or revised Policy. In most cases, we will attempt to notify you in some form 30 days before the effective date of the change.
 
-To comment on or ask about this Policy, call (1-800-531-5000), e-mail (directv.com/email) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550). 
+To comment on or ask about this Policy, call (1-800-531-5000), e-mail ([directv.com/email](http://directv.com/email)) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550). 
 
 © 2006 DIRECTV, Inc. DIRECTV and the Cyclone Design logo are registered trademarks of DIRECTV, Inc. 02/06 26791CSS 0506IPRPOL5431 
