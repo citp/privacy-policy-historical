@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reputationdefender.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509185327id_/http%3A//reputationdefender.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reputationdefender.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152522id_/http%3A//www.reputationdefender.com/privacypolicy) for the most accurate reproduction.*
 
-# ReputationDefender > Privacy Policy
+# ReputationDefender : Privacy Policy
 
-## PRIVACY POLICY
+[ ](http://www.truste.org/ivalidate.php?url=www.reputationdefender.com&sealid=102)
 
 Effective March 4, 2008
 
@@ -123,9 +123,9 @@ In the event ReputationDefender, Inc., goes through a business transition, such 
 If you have any questions about this Privacy Policy, the practices of ReputationDefender, Inc., with respect to personal information, or your dealings with this website, you can contact us at info@reputationdefender.com or write to:
 
 **ReputationDefender, Inc.**  
-3723 Haven Avenue  
-Suite 132  
-Menlo Park, CA 94025
+2694 Middlefield Road  
+Building A  
+Redwood City, CA 94063
 
 ReputationDefender, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the website www.reputationdefender.com and other sub-domains. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
