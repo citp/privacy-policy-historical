@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrojoint.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409163300id_/http%3A//www.metrojoint.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrojoint.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217164207id_/http%3A//www.metrojoint.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MetroJoint.com
 
@@ -8,7 +8,10 @@
 ---  
 |    
 ---  
-|   Privacy Policy  
+| 
+
+###   Privacy Policy  
+  
 ---  
 | We, at MetroJoint.com, take your privacy very seriously and abide by the following policy to ensure your satisfaction. If you have any concerns, please do not hesitate to contact us.   
 ---  
@@ -95,7 +98,10 @@ If you register with MetroJoint.com through one of our co-branded versions, your
 ** Top **  
 **   ** **Tell me about links with other sites.**  
   
-MetroJoint.com does provide links to other sites but is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by MetroJoint.com  
+MetroJoint.com does provide links to other sites but is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by MetroJoint.com 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please contact us   
+  
 ** Top **  
 **    Tell me about Cookies. **  
   
@@ -113,7 +119,7 @@ Some of our business partners may use cookies on our site (for example, advertis
   
 ** Top **  
 **   ** **Tell me about MetroJoint.com's policy on correcting, updating or removing personal information.**  
-MetroJoint.com gives users several options for modifying or removing their information from our database. Please visit your "My Page" to modify/remove your information (edit profile) or [contact us](https://web.archive.org/web/20080409163300id_/http%3A//www.metrojoint.com/contactus.php).  
+MetroJoint.com gives users several options for modifying or removing their information from our database. Please visit your "My Page" to modify/remove your information (edit profile) or [contact us](https://web.archive.org/web/20081217164207id_/http%3A//www.metrojoint.com/contactus.php).  
 ** Top **  
 **   ** **Changes in MetroJoint.com's privacy policy.**  
   
