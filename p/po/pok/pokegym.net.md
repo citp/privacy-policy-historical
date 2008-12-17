@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the pokegym.net privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615035545id_/http%3A//pokegym.net/forums/view.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokegym.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080021id_/http%3A//pokegym.net/forums/view.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # The PokeGym PokéGym Privacy Statement
 
 **Privacy Policy**
 
 Effective March 1, 2006  
-Also see [PokéGym Rules of Conduct.](http://pokegym.net/forums/showthread.php?t=51)
+Also see [The Rules.](http://pokegym.net/forums/view.php?pg=therules)
 
 Team Compendium’s PokéGym Web sites and Forums ("this Web site" or "our Web site"), located at [http://pokegym.net](http://www.pokegym.net/) , is operated by Team Compendium ("TC", “PokéGym”, or "we"). Team Compendium brings you this Web site as the unofficial resource for players and organizers of the Pokémon trading card game ("TCG") organized play events (tournaments etc.) and collectors. One of its main purposes is to provide Pokémon TCG players with services including news, rulings, event information, and trading and pricing resources in addition to forums for the discussion of same.
 
