@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobile17.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607055708id_/http%3A//mobile17.com/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile17.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045638id_/http%3A//mobile17.com/privacy.txt) for the most accurate reproduction.*
 
 # 
 
